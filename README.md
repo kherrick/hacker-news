@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-24, 22:04:59](https://news.ycombinator.com/item?id=39495543) - [So You Want to be a Big Shot: Advice on playing the promotion game](https://davidreiscto.substack.com/p/so-you-want-to-be-a-big-shot)
 * [2024-02-24, 21:59:51](https://news.ycombinator.com/item?id=39495494) - [Two More Cases of Hallucinated Citations in Court Filings Leading to Sanctions](https://www.lawnext.com/2024/02/not-again-two-more-cases-just-this-week-of-hallucinated-citations-in-court-filings-leading-to-sanctions.html)
 * [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Analysis: Does Offering ChatGPT a Tip Cause It to Generate Better Text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (small team remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
@@ -7,8 +8,6 @@
 * [2024-02-24, 20:33:47](https://news.ycombinator.com/item?id=39494925) - [Architecture.md (2021)](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
 * [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
 * [2024-02-24, 20:07:25](https://news.ycombinator.com/item?id=39494735) - [Long-lasting plasticity from patterned ultrasound-induced brainwave entrainment](https://www.science.org/doi/10.1126/sciadv.adk3198)
-* [2024-02-24, 20:06:39](https://news.ycombinator.com/item?id=39494728) - [David Hahn, the 'Radioactive Boy Scout' Who Tried to Build a Nuclear Reactor](https://allthatsinteresting.com/david-hahn)
-* [2024-02-24, 20:03:27](https://news.ycombinator.com/item?id=39494698) - [Portugal eased its opioid epidemic, while U.S. drug deaths skyrocketed](https://text.npr.org/1230188789)
 * [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-24, 18:40:36](https://news.ycombinator.com/item?id=39493989) - [A simple MUD server in Python which can be run on a Raspberry Pi](https://github.com/Frimkron/mud-pi)
 * [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
@@ -20,6 +19,7 @@
 * [2024-02-24, 16:18:20](https://news.ycombinator.com/item?id=39492680) - [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
 * [2024-02-24, 16:02:43](https://news.ycombinator.com/item?id=39492556) - [Lovecraftian movie posters from Ghana](https://deepcuts.blog/2024/02/24/deeper-cut-lovecraftian-movie-posters-from-ghana/)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
+* [2024-02-24, 12:33:37](https://news.ycombinator.com/item?id=39491040) - [Trying to Decode Lev-1](https://destevez.net/2024/01/trying-to-decode-lev-1/)
 * [2024-02-24, 10:25:13](https://news.ycombinator.com/item?id=39490543) - [How to think about software quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 * [2024-02-24, 09:50:17](https://news.ycombinator.com/item?id=39490404) - [Notes from an Interviewer](https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/)
 * [2024-02-24, 09:44:18](https://news.ycombinator.com/item?id=39490381) - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
