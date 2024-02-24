@@ -17,5 +17,6 @@
 * [2024-02-24, 03:14:07](https://news.ycombinator.com/item?id=39488823) - [JavaScript has multiple (ambiguous) operator precedence chains](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized)
 * [2024-02-24, 02:54:22](https://news.ycombinator.com/item?id=39488719) - [The Ultimate Guide to PostgreSQL Data Change Tracking](https://exaspark.medium.com/the-ultimate-guide-to-postgresql-data-change-tracking-c3fa88779572)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
+* [2024-02-24, 02:43:45](https://news.ycombinator.com/item?id=39488653) - [Chronic Stress Spreads Cancer](https://www.cshl.edu/chronic-stress-spreads-cancer-heres-how/)
 * [2024-02-24, 02:17:42](https://news.ycombinator.com/item?id=39488529) - [Show HN: Consol3 – A 3D engine for the terminal that executes on the CPU](https://github.com/Victormeriqui/Consol3)
 * [2024-02-24, 01:44:00](https://news.ycombinator.com/item?id=39488375) - [DVD's New Cousin Can Store More Than a Petabit](https://spectrum.ieee.org/data-storage-petabit-optical-disc)
