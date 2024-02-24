@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 11:51:22](https://news.ycombinator.com/item?id=39490879) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-24, 11:03:09](https://news.ycombinator.com/item?id=39490696) - [25 years of studying the brain: Avoid these 4 habits that destroy our memory](https://www.cnbc.com/2024/02/23/ive-spent-25-years-studying-the-brain-i-always-avoid-these-habits-that-destroy-our-memory-as-we-age.html)
+* [2024-02-24, 10:25:13](https://news.ycombinator.com/item?id=39490543) - [How to Not Die by a Thousand Cuts. Or How to Think About Software Quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
+* [2024-02-24, 09:50:17](https://news.ycombinator.com/item?id=39490404) - [Notes from an Interviewer](https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/)
 * [2024-02-24, 09:44:18](https://news.ycombinator.com/item?id=39490381) - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
+* [2024-02-24, 09:13:42](https://news.ycombinator.com/item?id=39490264) - [A modest update to Qubes OS](https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/)
 * [2024-02-24, 09:08:48](https://news.ycombinator.com/item?id=39490247) - [Herr Bischoff's Spam Blocklists](https://ipbl.herrbischoff.com/)
 * [2024-02-24, 09:01:04](https://news.ycombinator.com/item?id=39490218) - [Argentina's Economy Is Screaming at Top of Its Lungs](https://www.nakedcapitalism.com/2024/02/after-just-a-month-a-half-of-mileis-high-voltage-shock-treatment-argentinas-economy-is-screaming.html)
 * [2024-02-24, 08:39:55](https://news.ycombinator.com/item?id=39490139) - [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
