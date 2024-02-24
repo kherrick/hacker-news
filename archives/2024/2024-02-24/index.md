@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 22:35:21](https://news.ycombinator.com/item?id=39495752) - [Intel CPU is faulty and has Core errors. It's not your GPU, its your CPU](https://steamcommunity.com/app/1928980/discussions/0/7221029098493967556/)
 * [2024-02-24, 22:17:24](https://news.ycombinator.com/item?id=39495626) - [\"The issue was detected by our new AI-powered vulnerability scanner\"](https://mastodon.social/@bagder/111988660459265387)
 * [2024-02-24, 22:04:59](https://news.ycombinator.com/item?id=39495543) - [So You Want to be a Big Shot: Advice on playing the promotion game](https://davidreiscto.substack.com/p/so-you-want-to-be-a-big-shot)
 * [2024-02-24, 21:59:51](https://news.ycombinator.com/item?id=39495494) - [Two More Cases of Hallucinated Citations in Court Filings Leading to Sanctions](https://www.lawnext.com/2024/02/not-again-two-more-cases-just-this-week-of-hallucinated-citations-in-court-filings-leading-to-sanctions.html)
