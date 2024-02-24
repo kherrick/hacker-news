@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-24, 09:44:18",
+      "https://news.ycombinator.com/item?id=39490381"
+    ],
+    [
+      "Geospatial Nix – create, use and deploy today",
+      "https://geospatial-nix.today/"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 09:08:48",
       "https://news.ycombinator.com/item?id=39490247"
     ],
@@ -17,16 +27,6 @@
     [
       "Contributing Scrutiny to Nixpkgs",
       "https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 08:26:47",
-      "https://news.ycombinator.com/item?id=39490075"
-    ],
-    [
-      "Considering then abandoning JSX for structured YAML config",
-      "https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html"
     ]
   ],
   [
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2024-02-24, 03:16:05",
-      "https://news.ycombinator.com/item?id=39488833"
+      "2024-02-24, 03:14:07",
+      "https://news.ycombinator.com/item?id=39488823"
     ],
     [
-      "Losing two jobs in one year",
-      "https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91"
+      "JavaScript has multiple (ambiguous) operator precedence chains",
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized"
     ]
   ],
   [
