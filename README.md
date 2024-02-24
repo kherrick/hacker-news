@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-24, 03:16:51](https://news.ycombinator.com/item?id=39488836) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-02-24, 02:17:42](https://news.ycombinator.com/item?id=39488529) - [Show HN: Consol3 – A 3D engine for the terminal that executes on the CPU](https://github.com/Victormeriqui/Consol3)
 * [2024-02-23, 23:49:38](https://news.ycombinator.com/item?id=39487637) - [That Time America Outlawed Pinball (2016)](https://www.history.com/news/that-time-america-outlawed-pinball)
-* [2024-02-23, 23:48:35](https://news.ycombinator.com/item?id=39487622) - [RTO doesn't improve company value, but does make employees miserable: Study](https://arstechnica.com/science/2024/02/rto-doesnt-improve-company-value-but-does-make-employees-miserable-study/)
 * [2024-02-23, 23:10:11](https://news.ycombinator.com/item?id=39487341) - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 * [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
 * [2024-02-23, 22:35:30](https://news.ycombinator.com/item?id=39487026) - [Open Source Motion Capture for Autonomous Drones (2023)](https://joshuabird.com/blog/post/mocap-drones)
