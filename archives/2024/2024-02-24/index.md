@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 17:00:42](https://news.ycombinator.com/item?id=39493068) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39493068)
+* [2024-02-24, 16:57:53](https://news.ycombinator.com/item?id=39493046) - [Some OpenBSD features that aren't widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
 * [2024-02-24, 16:02:43](https://news.ycombinator.com/item?id=39492556) - [Deeper Cut: Lovecraftian Movie Posters from Ghana](https://deepcuts.blog/2024/02/24/deeper-cut-lovecraftian-movie-posters-from-ghana/)
 * [2024-02-24, 15:50:28](https://news.ycombinator.com/item?id=39492423) - [Plastic experts say recycling is a scam. Should we even do it anymore?](https://www.salon.com/2024/02/23/plastic-experts-say-recycling-is-a-scam-should-we-even-do-it-anymore/)
 * [2024-02-24, 15:20:04](https://news.ycombinator.com/item?id=39492110) - [$100k Peter Thiel Fellowship Awarded to Ethereum's Vitalik Buterin (2014)](https://www.coindesk.com/markets/2014/06/05/100k-peter-thiel-fellowship-awarded-to-ethereums-vitalik-buterin/)
