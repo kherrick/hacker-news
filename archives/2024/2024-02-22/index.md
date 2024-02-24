@@ -60,6 +60,7 @@
 * [2024-02-22, 12:42:15](https://news.ycombinator.com/item?id=39466246) - [A Plastic Tsunami Is Taking over Farms. What Will Stop Plasticulture?](https://modernfarmer.com/2024/02/plastic-farms-stop-plasticulture/)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
 * [2024-02-22, 12:15:03](https://news.ycombinator.com/item?id=39466021) - [Neural nets fail on formal languages because the solutions aren't loss optima](https://arxiv.org/abs/2402.10013)
+* [2024-02-22, 12:06:36](https://news.ycombinator.com/item?id=39465932) - [J3blocks is a Janet scripting system for i3bar and swaybar](https://codeberg.org/amano.kenji/j3blocks)
 * [2024-02-22, 12:01:42](https://news.ycombinator.com/item?id=39465891) - [SN Pro Typeface](https://supernotes.app/open-source/sn-pro/)
 * [2024-02-22, 12:00:36](https://news.ycombinator.com/item?id=39465878) - [Stepful (YC S21) Is Hiring a Product Engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
 * [2024-02-22, 11:57:06](https://news.ycombinator.com/item?id=39465852) - [The mothers fighting a scandal bigger than thalidomide](https://www.theguardian.com/society/2024/feb/22/the-mothers-fighting-a-scandal-bigger-than-thalidomide-we-were-told-the-medication-was-safe)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
 * [2024-02-23, 23:33:32](https://news.ycombinator.com/item?id=39487522) - [Covid is more likely to be of zoonotic origin than a product of engineering](https://drive.google.com/file/d/1YhmkYB32RpGsXvQTsX4xZ0Yul1wiwh8Z/view?pli=1)
+* [2024-02-23, 23:15:36](https://news.ycombinator.com/item?id=39487372) - [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
 * [2024-02-23, 23:10:11](https://news.ycombinator.com/item?id=39487341) - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 * [2024-02-23, 22:51:54](https://news.ycombinator.com/item?id=39487173) - [Women as Worriers Who Exclude](https://www.overcomingbias.com/p/women-as-worriers-who-exclude)
 * [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
