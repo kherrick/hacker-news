@@ -82,6 +82,7 @@
 * [2024-02-23, 11:27:23](https://news.ycombinator.com/item?id=39479334) - [American drivers even more distracted by phones. Pedestrian deaths are soaring](https://www.vox.com/24078289/us-drivers-distracted-driving-cellphone-road-deaths-pedestrians)
 * [2024-02-23, 11:23:51](https://news.ycombinator.com/item?id=39479300) - [Hiroshima fallout debris linked to first solar system condensates](https://phys.org/news/2024-02-hiroshima-fallout-debris-linked-solar.html)
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
+* [2024-02-23, 10:14:20](https://news.ycombinator.com/item?id=39478935) - [Lessons from my third year running a SaaS](https://maxrozen.com/lessons-from-my-third-year-running-a-saas)
 * [2024-02-23, 10:09:51](https://news.ycombinator.com/item?id=39478904) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
 * [2024-02-23, 10:03:33](https://news.ycombinator.com/item?id=39478860) - [Shoes makes building little graphical programs for Mac, Windows, Linux simple](http://shoesrb.com/)
 * [2024-02-23, 09:35:49](https://news.ycombinator.com/item?id=39478677) - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
