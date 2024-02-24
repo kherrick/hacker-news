@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-23, 23:49:38](https://news.ycombinator.com/item?id=39487637) - [That Time America Outlawed Pinball](https://www.history.com/news/that-time-america-outlawed-pinball)
+* [2024-02-23, 23:49:38](https://news.ycombinator.com/item?id=39487637) - [That Time America Outlawed Pinball (2016)](https://www.history.com/news/that-time-america-outlawed-pinball)
 * [2024-02-23, 23:15:36](https://news.ycombinator.com/item?id=39487372) - [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
 * [2024-02-23, 23:10:11](https://news.ycombinator.com/item?id=39487341) - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 * [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
