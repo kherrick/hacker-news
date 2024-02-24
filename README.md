@@ -25,11 +25,11 @@
 * [2024-02-23, 13:16:42](https://news.ycombinator.com/item?id=39480177) - [Shakespeare expert overturns fly-tipper myth about playwright's father](https://www.theguardian.com/culture/2024/feb/23/shakespeare-expert-overturns-fly-tipper-myth-about-playwrights-father)
 * [2024-02-23, 11:19:48](https://news.ycombinator.com/item?id=39479278) - [Unlocking NetWare 2.0a](http://www.os2museum.com/wp/unlocking-netware-2-0a/)
 * [2024-02-23, 10:03:33](https://news.ycombinator.com/item?id=39478860) - [Shoes makes building little graphical programs for Mac, Windows, Linux simple](http://shoesrb.com/)
+* [2024-02-23, 09:37:07](https://news.ycombinator.com/item?id=39478684) - [Weird Ruby: Nil Conversions](https://metaredux.com/posts/2024/02/23/weird-ruby-nil-conversions.html)
 * [2024-02-23, 08:57:35](https://news.ycombinator.com/item?id=39478441) - [Lisp Programming with Vim (2019)](https://susam.net/lisp-in-vim.html)
 * [2024-02-23, 08:03:43](https://news.ycombinator.com/item?id=39478074) - [Ten years of remembering every day that passes (2022)](http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html)
 * [2024-02-23, 07:19:03](https://news.ycombinator.com/item?id=39477821) - [Go(lang): Robust generic functions on slices](https://go.dev/blog/generic-slice-functions)
 * [2024-02-22, 12:06:36](https://news.ycombinator.com/item?id=39465932) - [J3blocks is a Janet scripting system for i3bar and swaybar](https://codeberg.org/amano.kenji/j3blocks)
-* [2024-02-22, 10:22:08](https://news.ycombinator.com/item?id=39465258) - [LilyPond: Music notation for everyone](https://lilypond.org/)
 
 ## [Archives](archives/index.md)
 

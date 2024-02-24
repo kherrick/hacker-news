@@ -88,6 +88,7 @@
 * [2024-02-23, 10:14:20](https://news.ycombinator.com/item?id=39478935) - [Lessons from my third year running a SaaS](https://maxrozen.com/lessons-from-my-third-year-running-a-saas)
 * [2024-02-23, 10:09:51](https://news.ycombinator.com/item?id=39478904) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
 * [2024-02-23, 10:03:33](https://news.ycombinator.com/item?id=39478860) - [Shoes makes building little graphical programs for Mac, Windows, Linux simple](http://shoesrb.com/)
+* [2024-02-23, 09:37:07](https://news.ycombinator.com/item?id=39478684) - [Weird Ruby: Nil Conversions](https://metaredux.com/posts/2024/02/23/weird-ruby-nil-conversions.html)
 * [2024-02-23, 09:35:49](https://news.ycombinator.com/item?id=39478677) - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 * [2024-02-23, 08:57:35](https://news.ycombinator.com/item?id=39478441) - [Lisp Programming with Vim (2019)](https://susam.net/lisp-in-vim.html)
