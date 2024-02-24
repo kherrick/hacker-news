@@ -2,7 +2,6 @@
 
 * [2024-02-24, 02:17:42](https://news.ycombinator.com/item?id=39488529) - [Show HN: Consol3 – A 3D engine for the terminal that executes on the CPU](https://github.com/Victormeriqui/Consol3)
 * [2024-02-23, 23:49:38](https://news.ycombinator.com/item?id=39487637) - [That Time America Outlawed Pinball (2016)](https://www.history.com/news/that-time-america-outlawed-pinball)
-* [2024-02-23, 23:15:36](https://news.ycombinator.com/item?id=39487372) - [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
 * [2024-02-23, 23:10:11](https://news.ycombinator.com/item?id=39487341) - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 * [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
 * [2024-02-23, 22:35:30](https://news.ycombinator.com/item?id=39487026) - [Open Source Motion Capture for Autonomous Drones (2023)](https://joshuabird.com/blog/post/mocap-drones)
@@ -19,6 +18,7 @@
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
 * [2024-02-23, 16:11:58](https://news.ycombinator.com/item?id=39482428) - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
 * [2024-02-23, 15:42:07](https://news.ycombinator.com/item?id=39481948) - [A 'scam manual' written to help immigrants not become victims](https://www.atlasobscura.com/articles/columns-scam-guide-books-con-artists)
+* [2024-02-23, 15:41:13](https://news.ycombinator.com/item?id=39481933) - [Hidden GitHub commits and how to reveal them](https://neodyme.io/en/blog/github_secrets/)
 * [2024-02-23, 15:31:53](https://news.ycombinator.com/item?id=39481805) - [Certain dogs are capable of learning the names for more than 100 different toys](https://www.scientificamerican.com/article/dog-language-geniuses-are-rare-but-apparently-real/)
 * [2024-02-23, 15:26:56](https://news.ycombinator.com/item?id=39481720) - [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [2024-02-23, 15:23:40](https://news.ycombinator.com/item?id=39481670) - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
