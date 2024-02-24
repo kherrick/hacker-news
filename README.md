@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-24, 11:03:09](https://news.ycombinator.com/item?id=39490696) - [25 years of studying the brain: Avoid these 4 habits that destroy our memory](https://www.cnbc.com/2024/02/23/ive-spent-25-years-studying-the-brain-i-always-avoid-these-habits-that-destroy-our-memory-as-we-age.html)
 * [2024-02-24, 09:44:18](https://news.ycombinator.com/item?id=39490381) - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
 * [2024-02-24, 09:08:48](https://news.ycombinator.com/item?id=39490247) - [Herr Bischoff's Spam Blocklists](https://ipbl.herrbischoff.com/)
 * [2024-02-24, 08:39:55](https://news.ycombinator.com/item?id=39490139) - [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
@@ -19,7 +20,6 @@
 * [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-02-23, 20:57:30](https://news.ycombinator.com/item?id=39485996) - [Emergence of stone-tool use behavior in a population of common macaques](https://pubmed.ncbi.nlm.nih.gov/38012960/)
 * [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
-* [2024-02-23, 18:47:23](https://news.ycombinator.com/item?id=39484590) - [Show HN: Refractify – Optical software against myopia](https://refractify.io/)
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 * [2024-02-23, 13:16:42](https://news.ycombinator.com/item?id=39480177) - [Shakespeare expert overturns fly-tipper myth about playwright's father](https://www.theguardian.com/culture/2024/feb/23/shakespeare-expert-overturns-fly-tipper-myth-about-playwrights-father)

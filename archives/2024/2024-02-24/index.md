@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 11:03:09](https://news.ycombinator.com/item?id=39490696) - [25 years of studying the brain: Avoid these 4 habits that destroy our memory](https://www.cnbc.com/2024/02/23/ive-spent-25-years-studying-the-brain-i-always-avoid-these-habits-that-destroy-our-memory-as-we-age.html)
 * [2024-02-24, 09:44:18](https://news.ycombinator.com/item?id=39490381) - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
 * [2024-02-24, 09:08:48](https://news.ycombinator.com/item?id=39490247) - [Herr Bischoff's Spam Blocklists](https://ipbl.herrbischoff.com/)
 * [2024-02-24, 09:01:04](https://news.ycombinator.com/item?id=39490218) - [Argentina's Economy Is Screaming at Top of Its Lungs](https://www.nakedcapitalism.com/2024/02/after-just-a-month-a-half-of-mileis-high-voltage-shock-treatment-argentinas-economy-is-screaming.html)
