@@ -2,6 +2,7 @@
 
 * [2024-02-24, 14:18:20](https://news.ycombinator.com/item?id=39491646) - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 * [2024-02-24, 13:55:54](https://news.ycombinator.com/item?id=39491510) - [Lawyer fined for legal filings that included hallucinated AI citations](https://www.universalhub.com/2024/lawyer-learns-hard-way-ai-still-sucks-fined-legal)
+* [2024-02-24, 13:31:37](https://news.ycombinator.com/item?id=39491349) - [Microsoft Joins the MapLibre Sponsorship Program](https://maplibre.org/news/2024-02-20-msft-announcement/)
 * [2024-02-24, 10:25:13](https://news.ycombinator.com/item?id=39490543) - [How to Not Die by a Thousand Cuts. Or How to Think About Software Quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 * [2024-02-24, 10:24:52](https://news.ycombinator.com/item?id=39490540) - [Almost an open-source boot chain for Rockchip's RK3588](https://www.collabora.com/news-and-blog/blog/2024/02/21/almost-a-fully-open-source-boot-chain-for-rockchips-rk3588/)
 * [2024-02-24, 09:50:17](https://news.ycombinator.com/item?id=39490404) - [Notes from an Interviewer](https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/)
@@ -29,7 +30,6 @@
 * [2024-02-23, 08:57:35](https://news.ycombinator.com/item?id=39478441) - [Lisp Programming with Vim (2019)](https://susam.net/lisp-in-vim.html)
 * [2024-02-23, 08:03:43](https://news.ycombinator.com/item?id=39478074) - [Ten years of remembering every day that passes (2022)](http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html)
 * [2024-02-23, 07:19:03](https://news.ycombinator.com/item?id=39477821) - [Go(lang): Robust generic functions on slices](https://go.dev/blog/generic-slice-functions)
-* [2024-02-22, 12:06:36](https://news.ycombinator.com/item?id=39465932) - [J3blocks is a Janet scripting system for i3bar and swaybar](https://codeberg.org/amano.kenji/j3blocks)
 
 ## [Archives](archives/index.md)
 
