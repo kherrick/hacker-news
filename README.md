@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 23:49:38](https://news.ycombinator.com/item?id=39487637) - [That Time America Outlawed Pinball](https://www.history.com/news/that-time-america-outlawed-pinball)
 * [2024-02-23, 23:15:36](https://news.ycombinator.com/item?id=39487372) - [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
 * [2024-02-23, 23:10:11](https://news.ycombinator.com/item?id=39487341) - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 * [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
@@ -25,7 +26,6 @@
 * [2024-02-23, 14:10:11](https://news.ycombinator.com/item?id=39480751) - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
 * [2024-02-23, 13:37:56](https://news.ycombinator.com/item?id=39480407) - [Satoshi – Sirius emails 2009-2011](https://mmalmi.github.io/satoshi/)
 * [2024-02-23, 11:53:25](https://news.ycombinator.com/item?id=39479478) - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
-* [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, this is why we keep getting phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-22, 16:16:51](https://news.ycombinator.com/item?id=39469274) - [Vvvv – A hybrid visual/textual development environment](https://vvvv.org/)
 * [2024-02-22, 13:11:07](https://news.ycombinator.com/item?id=39466529) - [Researchers use electron beams to eradicate forever chemicals in water](https://phys.org/news/2024-02-electron-eradicate-chemicals.html)
 * [2024-02-22, 12:06:36](https://news.ycombinator.com/item?id=39465932) - [J3blocks is a Janet scripting system for i3bar and swaybar](https://codeberg.org/amano.kenji/j3blocks)
