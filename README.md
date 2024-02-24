@@ -20,6 +20,7 @@
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 12:33:37](https://news.ycombinator.com/item?id=39491040) - [Trying to Decode Lev-1](https://destevez.net/2024/01/trying-to-decode-lev-1/)
 * [2024-02-24, 10:25:13](https://news.ycombinator.com/item?id=39490543) - [How to think about software quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
+* [2024-02-24, 10:24:52](https://news.ycombinator.com/item?id=39490540) - [Almost an open-source boot chain for Rockchip's RK3588](https://www.collabora.com/news-and-blog/blog/2024/02/21/almost-a-fully-open-source-boot-chain-for-rockchips-rk3588/)
 * [2024-02-24, 09:50:17](https://news.ycombinator.com/item?id=39490404) - [Notes from an Interviewer](https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/)
 * [2024-02-24, 09:44:18](https://news.ycombinator.com/item?id=39490381) - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
 * [2024-02-24, 09:13:42](https://news.ycombinator.com/item?id=39490264) - [A modest update to Qubes OS](https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/)
@@ -27,7 +28,6 @@
 * [2024-02-24, 05:47:34](https://news.ycombinator.com/item?id=39489427) - [What DNS Is Not (2009)](https://queue.acm.org/detail.cfm?id=1647302)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-02-23, 13:52:18](https://news.ycombinator.com/item?id=39480545) - [Building a deep learning rig](https://samsja.github.io/blogs/rig/part_1/)
-* [2024-02-23, 09:37:07](https://news.ycombinator.com/item?id=39478684) - [Weird Ruby: Nil Conversions](https://metaredux.com/posts/2024/02/23/weird-ruby-nil-conversions.html)
 * [2024-02-23, 09:04:10](https://news.ycombinator.com/item?id=39478487) - [What makes a language flourish? Or: Why can't I speak Latin? (2021)](https://www.5jt.com/what-makes-a-language-flourish)
 * [2024-02-23, 08:03:43](https://news.ycombinator.com/item?id=39478074) - [Ten years of remembering every day that passes (2022)](http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html)
 
