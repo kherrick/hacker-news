@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 16:02:43](https://news.ycombinator.com/item?id=39492556) - [Deeper Cut: Lovecraftian Movie Posters from Ghana](https://deepcuts.blog/2024/02/24/deeper-cut-lovecraftian-movie-posters-from-ghana/)
 * [2024-02-24, 15:50:28](https://news.ycombinator.com/item?id=39492423) - [Plastic experts say recycling is a scam. Should we even do it anymore?](https://www.salon.com/2024/02/23/plastic-experts-say-recycling-is-a-scam-should-we-even-do-it-anymore/)
+* [2024-02-24, 15:20:04](https://news.ycombinator.com/item?id=39492110) - [$100k Peter Thiel Fellowship Awarded to Ethereum's Vitalik Buterin (2014)](https://www.coindesk.com/markets/2014/06/05/100k-peter-thiel-fellowship-awarded-to-ethereums-vitalik-buterin/)
 * [2024-02-24, 15:15:12](https://news.ycombinator.com/item?id=39492070) - [Problems in Gemini's Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
 * [2024-02-24, 15:05:13](https://news.ycombinator.com/item?id=39491968) - [Peter Thiel's $100k offer to skip college is more popular than ever](https://www.wsj.com/finance/peter-thiels-100-000-offer-to-skip-college-is-more-popular-than-ever-162e281b)
 * [2024-02-24, 14:57:14](https://news.ycombinator.com/item?id=39491889) - [Ask HN: Anyone use a code to mindmap/flowchart tool?](https://news.ycombinator.com/item?id=39491889)
@@ -30,6 +32,7 @@
 * [2024-02-24, 06:43:23](https://news.ycombinator.com/item?id=39489660) - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
 * [2024-02-24, 06:09:46](https://news.ycombinator.com/item?id=39489519) - [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
 * [2024-02-24, 05:48:55](https://news.ycombinator.com/item?id=39489431) - [The Earth is getting greener](https://www.vox.com/down-to-earth/2024/2/7/24057308/earth-global-greening-climate-change-carbon)
+* [2024-02-24, 05:47:34](https://news.ycombinator.com/item?id=39489427) - [What DNS Is Not (2009)](https://queue.acm.org/detail.cfm?id=1647302)
 * [2024-02-24, 05:36:11](https://news.ycombinator.com/item?id=39489395) - [Neutrino (2010) [pdf]](http://theor.jinr.ru/~vnaumov/Eng/JINR_Lectures/books/Close2010.pdf)
 * [2024-02-24, 03:16:51](https://news.ycombinator.com/item?id=39488836) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-24, 03:16:05](https://news.ycombinator.com/item?id=39488833) - [How to lose two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
