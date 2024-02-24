@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
-* [2024-02-24, 19:19:29](https://news.ycombinator.com/item?id=39494348) - [The \"KeyTrap\" DNS Vulnerability](https://lwn.net/Articles/962924/#Comments)
+* [2024-02-24, 20:07:25](https://news.ycombinator.com/item?id=39494735) - [Long-lasting plasticity from patterned ultrasound-induced brainwave entrainment](https://www.science.org/doi/10.1126/sciadv.adk3198)
 * [2024-02-24, 19:16:47](https://news.ycombinator.com/item?id=39494331) - [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
 * [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2024-02-24, 18:09:22](https://news.ycombinator.com/item?id=39493713) - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
