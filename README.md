@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
 * [2024-02-24, 19:19:29](https://news.ycombinator.com/item?id=39494348) - [The \"KeyTrap\" DNS Vulnerability](https://lwn.net/Articles/962924/#Comments)
 * [2024-02-24, 19:16:47](https://news.ycombinator.com/item?id=39494331) - [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
 * [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
@@ -26,7 +27,6 @@
 * [2024-02-24, 05:47:34](https://news.ycombinator.com/item?id=39489427) - [What DNS Is Not (2009)](https://queue.acm.org/detail.cfm?id=1647302)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-02-23, 13:52:18](https://news.ycombinator.com/item?id=39480545) - [Building a deep learning rig](https://samsja.github.io/blogs/rig/part_1/)
-* [2024-02-23, 11:19:48](https://news.ycombinator.com/item?id=39479278) - [Unlocking NetWare 2.0a](http://www.os2museum.com/wp/unlocking-netware-2-0a/)
 * [2024-02-23, 09:37:07](https://news.ycombinator.com/item?id=39478684) - [Weird Ruby: Nil Conversions](https://metaredux.com/posts/2024/02/23/weird-ruby-nil-conversions.html)
 * [2024-02-23, 09:04:10](https://news.ycombinator.com/item?id=39478487) - [What makes a language flourish? Or: Why can't I speak Latin? (2021)](https://www.5jt.com/what-makes-a-language-flourish)
 * [2024-02-23, 08:03:43](https://news.ycombinator.com/item?id=39478074) - [Ten years of remembering every day that passes (2022)](http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html)
