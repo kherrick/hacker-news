@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-24, 03:16:51](https://news.ycombinator.com/item?id=39488836) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
+* [2024-02-24, 02:54:22](https://news.ycombinator.com/item?id=39488719) - [The Ultimate Guide to PostgreSQL Data Change Tracking](https://exaspark.medium.com/the-ultimate-guide-to-postgresql-data-change-tracking-c3fa88779572)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-02-24, 02:17:42](https://news.ycombinator.com/item?id=39488529) - [Show HN: Consol3 – A 3D engine for the terminal that executes on the CPU](https://github.com/Victormeriqui/Consol3)
 * [2024-02-23, 23:49:38](https://news.ycombinator.com/item?id=39487637) - [That Time America Outlawed Pinball (2016)](https://www.history.com/news/that-time-america-outlawed-pinball)
@@ -15,7 +16,6 @@
 * [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
 * [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
 * [2024-02-23, 18:47:23](https://news.ycombinator.com/item?id=39484590) - [Show HN: Refractify – Optical software against myopia](https://refractify.io/)
-* [2024-02-23, 18:16:21](https://news.ycombinator.com/item?id=39484158) - [Recognizing the limitations of cloud drives](https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/)
 * [2024-02-23, 17:56:54](https://news.ycombinator.com/item?id=39483924) - [3D-printable tissue adhesive](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
 * [2024-02-23, 16:11:58](https://news.ycombinator.com/item?id=39482428) - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
