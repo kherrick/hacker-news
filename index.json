@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-02-24, 16:18:20",
+      "https://news.ycombinator.com/item?id=39492680"
+    ],
+    [
+      "V Language Review (2023)",
+      "https://n-skvortsov-1997.github.io/reviews/"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 15:15:12",
       "https://news.ycombinator.com/item?id=39492070"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2024-02-24, 02:17:42",
-      "https://news.ycombinator.com/item?id=39488529"
+      "2024-02-23, 17:23:23",
+      "https://news.ycombinator.com/item?id=39483482"
     ],
     [
-      "Show HN: Consol3 – A 3D engine for the terminal that executes on the CPU",
-      "https://github.com/Victormeriqui/Consol3"
+      "Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere",
+      "https://ok-robot.github.io/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ten years of remembering every day that passes (2022)",
       "http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 07:19:03",
-      "https://news.ycombinator.com/item?id=39477821"
-    ],
-    [
-      "Go(lang): Robust generic functions on slices",
-      "https://go.dev/blog/generic-slice-functions"
     ]
   ]
 ]
