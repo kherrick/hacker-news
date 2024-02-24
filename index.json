@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-02-24, 11:51:22",
+      "https://news.ycombinator.com/item?id=39490879"
+    ],
+    [
+      "Everyone seems to forget why GNOME and GNOME 3 and Unity happened",
+      "https://liam-on-linux.dreamwidth.org/85359.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 10:25:13",
+      "https://news.ycombinator.com/item?id=39490543"
+    ],
+    [
+      "How to Not Die by a Thousand Cuts. Or How to Think About Software Quality (2022)",
+      "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 09:50:17",
+      "https://news.ycombinator.com/item?id=39490404"
+    ],
+    [
+      "Notes from an Interviewer",
+      "https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 09:44:18",
       "https://news.ycombinator.com/item?id=39490381"
     ],
     [
       "Geospatial Nix – create, use and deploy today",
       "https://geospatial-nix.today/"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 09:13:42",
+      "https://news.ycombinator.com/item?id=39490264"
+    ],
+    [
+      "A modest update to Qubes OS",
+      "https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Please make your table headings sticky",
       "https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 03:14:07",
-      "https://news.ycombinator.com/item?id=39488823"
-    ],
-    [
-      "JavaScript has multiple (ambiguous) operator precedence chains",
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-02-23, 21:45:03",
-      "https://news.ycombinator.com/item?id=39486517"
-    ],
-    [
-      "Glass Health (YC W23) is hiring across multiple engineering roles",
-      "https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering"
-    ]
-  ],
-  [
-    [
       "2024-02-23, 20:57:30",
       "https://news.ycombinator.com/item?id=39485996"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-02-23, 19:14:18",
-      "https://news.ycombinator.com/item?id=39484907"
-    ],
-    [
-      "Scuttlebutt social network: a decentralised platform",
-      "https://scuttlebutt.nz/"
-    ]
-  ],
-  [
-    [
       "2024-02-23, 17:23:23",
       "https://news.ycombinator.com/item?id=39483482"
     ],
     [
       "Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere",
       "https://ok-robot.github.io/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 15:15:23",
-      "https://news.ycombinator.com/item?id=39481554"
-    ],
-    [
-      "Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models",
-      "https://github.com/google/gemma.cpp"
     ]
   ],
   [
