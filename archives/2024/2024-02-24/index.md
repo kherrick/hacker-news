@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+* [2024-02-24, 18:09:22](https://news.ycombinator.com/item?id=39493713) - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
 * [2024-02-24, 17:00:42](https://news.ycombinator.com/item?id=39493068) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39493068)
 * [2024-02-24, 16:57:53](https://news.ycombinator.com/item?id=39493046) - [Some OpenBSD features that aren't widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
 * [2024-02-24, 16:46:35](https://news.ycombinator.com/item?id=39492924) - [Ledger](https://lock.cmpxchg8b.com/ledger.html)
 * [2024-02-24, 16:18:20](https://news.ycombinator.com/item?id=39492680) - [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
 * [2024-02-24, 16:02:43](https://news.ycombinator.com/item?id=39492556) - [Deeper Cut: Lovecraftian Movie Posters from Ghana](https://deepcuts.blog/2024/02/24/deeper-cut-lovecraftian-movie-posters-from-ghana/)
 * [2024-02-24, 15:50:28](https://news.ycombinator.com/item?id=39492423) - [Plastic experts say recycling is a scam. Should we even do it anymore?](https://www.salon.com/2024/02/23/plastic-experts-say-recycling-is-a-scam-should-we-even-do-it-anymore/)
+* [2024-02-24, 15:46:09](https://news.ycombinator.com/item?id=39492381) - [Niklaus Wirth, Who Inspired a Generation of Computer Programmers, Dies at 89](https://www.wsj.com/tech/personal-tech/niklaus-wirth-computer-programmers-dies-at-89-6817b134)
 * [2024-02-24, 15:20:04](https://news.ycombinator.com/item?id=39492110) - [$100k Peter Thiel Fellowship Awarded to Ethereum's Vitalik Buterin (2014)](https://www.coindesk.com/markets/2014/06/05/100k-peter-thiel-fellowship-awarded-to-ethereums-vitalik-buterin/)
 * [2024-02-24, 15:15:12](https://news.ycombinator.com/item?id=39492070) - [Problems in Gemini's Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
 * [2024-02-24, 15:05:13](https://news.ycombinator.com/item?id=39491968) - [Peter Thiel's $100k offer to skip college is more popular than ever](https://www.wsj.com/finance/peter-thiels-100-000-offer-to-skip-college-is-more-popular-than-ever-162e281b)
