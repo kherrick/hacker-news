@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 06:43:23](https://news.ycombinator.com/item?id=39489660) - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
 * [2024-02-24, 06:09:46](https://news.ycombinator.com/item?id=39489519) - [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
 * [2024-02-24, 03:16:51](https://news.ycombinator.com/item?id=39488836) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-24, 03:16:05](https://news.ycombinator.com/item?id=39488833) - [How to lose two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
