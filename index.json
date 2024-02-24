@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-02-23, 09:37:07",
+      "https://news.ycombinator.com/item?id=39478684"
+    ],
+    [
+      "Weird Ruby: Nil Conversions",
+      "https://metaredux.com/posts/2024/02/23/weird-ruby-nil-conversions.html"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 08:57:35",
       "https://news.ycombinator.com/item?id=39478441"
     ],
@@ -287,16 +297,6 @@
     [
       "J3blocks is a Janet scripting system for i3bar and swaybar",
       "https://codeberg.org/amano.kenji/j3blocks"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 10:22:08",
-      "https://news.ycombinator.com/item?id=39465258"
-    ],
-    [
-      "LilyPond: Music notation for everyone",
-      "https://lilypond.org/"
     ]
   ]
 ]
