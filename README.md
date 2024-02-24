@@ -10,6 +10,7 @@
 * [2024-02-24, 20:33:47](https://news.ycombinator.com/item?id=39494925) - [Architecture.md (2021)](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
 * [2024-02-24, 20:16:37](https://news.ycombinator.com/item?id=39494796) - [Cities stripping out concrete for earth and plants](https://www.bbc.com/future/article/20240222-depaving-the-cities-replacing-concrete-with-earth-and-plants)
 * [2024-02-24, 20:11:56](https://news.ycombinator.com/item?id=39494760) - [NTIA Solicits Comments on Open-Weight AI Models](https://www.commerce.gov/news/press-releases/2024/02/ntia-solicits-comments-open-weight-ai-models)
+* [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
 * [2024-02-24, 20:07:25](https://news.ycombinator.com/item?id=39494735) - [Plasticity through patterned ultrasound-induced brainwave entrainment in mice](https://www.science.org/doi/10.1126/sciadv.adk3198)
 * [2024-02-24, 20:06:39](https://news.ycombinator.com/item?id=39494728) - [David Hahn, the 'radioactive boy scout' who tried to build a nuclear reactor](https://allthatsinteresting.com/david-hahn)
 * [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
@@ -29,7 +30,6 @@
 * [2024-02-24, 05:47:34](https://news.ycombinator.com/item?id=39489427) - [What DNS Is Not (2009)](https://queue.acm.org/detail.cfm?id=1647302)
 * [2024-02-24, 05:36:11](https://news.ycombinator.com/item?id=39489395) - [Neutrino (2010) [pdf]](http://theor.jinr.ru/~vnaumov/Eng/JINR_Lectures/books/Close2010.pdf)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
-* [2024-02-23, 09:04:10](https://news.ycombinator.com/item?id=39478487) - [What makes a language flourish? Or: Why can't I speak Latin? (2021)](https://www.5jt.com/what-makes-a-language-flourish)
 
 ## [Archives](archives/index.md)
 
