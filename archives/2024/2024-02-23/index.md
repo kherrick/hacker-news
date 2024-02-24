@@ -91,6 +91,7 @@
 * [2024-02-23, 09:37:07](https://news.ycombinator.com/item?id=39478684) - [Weird Ruby: Nil Conversions](https://metaredux.com/posts/2024/02/23/weird-ruby-nil-conversions.html)
 * [2024-02-23, 09:35:49](https://news.ycombinator.com/item?id=39478677) - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
+* [2024-02-23, 09:04:10](https://news.ycombinator.com/item?id=39478487) - [What makes a language flourish? Or: Why can't I speak Latin? (2021)](https://www.5jt.com/what-makes-a-language-flourish)
 * [2024-02-23, 08:57:35](https://news.ycombinator.com/item?id=39478441) - [Lisp Programming with Vim (2019)](https://susam.net/lisp-in-vim.html)
 * [2024-02-23, 08:03:43](https://news.ycombinator.com/item?id=39478074) - [Ten years of remembering every day that passes](http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html)
 * [2024-02-23, 07:35:10](https://news.ycombinator.com/item?id=39477906) - [Shaun Maguire could't be promoted for being white, at Google](https://twitter.com/shaunmmaguire/status/1760872265892458792)
