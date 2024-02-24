@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-02-24, 03:14:07",
+      "https://news.ycombinator.com/item?id=39488823"
+    ],
+    [
+      "JavaScript has multiple (ambiguous) operator precedence chains",
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 02:54:22",
       "https://news.ycombinator.com/item?id=39488719"
     ],
@@ -227,16 +237,6 @@
     [
       "Unlocking NetWare 2.0a",
       "http://www.os2museum.com/wp/unlocking-netware-2-0a/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 10:14:20",
-      "https://news.ycombinator.com/item?id=39478935"
-    ],
-    [
-      "Lessons from my third year running a SaaS",
-      "https://maxrozen.com/lessons-from-my-third-year-running-a-saas"
     ]
   ],
   [
