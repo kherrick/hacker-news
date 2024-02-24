@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 19:19:29](https://news.ycombinator.com/item?id=39494348) - [The \"KeyTrap\" DNS Vulnerability](https://lwn.net/Articles/962924/#Comments)
 * [2024-02-24, 19:16:47](https://news.ycombinator.com/item?id=39494331) - [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
 * [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2024-02-24, 18:09:22](https://news.ycombinator.com/item?id=39493713) - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
+* [2024-02-24, 17:49:20](https://news.ycombinator.com/item?id=39493513) - [Mass Retraction of unethical Chinese Forensic Genetics Papers](https://www.science.org/content/article/ethics-not-checkbox-exercise-bioinformatician-yves-moreau-reacts-mass-retraction-papers)
 * [2024-02-24, 17:19:31](https://news.ycombinator.com/item?id=39493237) - [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
 * [2024-02-24, 17:17:41](https://news.ycombinator.com/item?id=39493219) - [Candy – a minimalistic functional programming language](https://github.com/candy-lang/candy)
 * [2024-02-24, 17:11:42](https://news.ycombinator.com/item?id=39493179) - [Iterating over Bit Sets Quickly](https://alexharri.com/blog/bit-set-iteration)
