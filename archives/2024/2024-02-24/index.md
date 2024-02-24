@@ -6,6 +6,7 @@
 
 * [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2024-02-24, 18:09:22](https://news.ycombinator.com/item?id=39493713) - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
+* [2024-02-24, 17:19:31](https://news.ycombinator.com/item?id=39493237) - [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
 * [2024-02-24, 17:00:42](https://news.ycombinator.com/item?id=39493068) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39493068)
 * [2024-02-24, 16:57:53](https://news.ycombinator.com/item?id=39493046) - [Some OpenBSD features that aren't widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
 * [2024-02-24, 16:46:35](https://news.ycombinator.com/item?id=39492924) - [Ledger](https://lock.cmpxchg8b.com/ledger.html)
