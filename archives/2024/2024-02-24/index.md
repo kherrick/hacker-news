@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
 * [2024-02-24, 21:59:51](https://news.ycombinator.com/item?id=39495494) - [Two More Cases of Hallucinated Citations in Court Filings Leading to Sanctions](https://www.lawnext.com/2024/02/not-again-two-more-cases-just-this-week-of-hallucinated-citations-in-court-filings-leading-to-sanctions.html)
+* [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Analysis: Does Offering ChatGPT a Tip Cause It to Generate Better Text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (small team remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
+* [2024-02-24, 20:55:06](https://news.ycombinator.com/item?id=39495079) - [Python Generators Are Underutilized](https://www.slashtmp.io/posts/generators/)
 * [2024-02-24, 20:49:54](https://news.ycombinator.com/item?id=39495044) - [Simple script to generate RSS feeds](https://www.zoraster.org/blog/script-to-generate-rss-feed)
 * [2024-02-24, 20:33:47](https://news.ycombinator.com/item?id=39494925) - [Architecture.md (2021)](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
 * [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
