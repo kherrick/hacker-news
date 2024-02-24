@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+* [2024-02-24, 19:16:47](https://news.ycombinator.com/item?id=39494331) - [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
+* [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2024-02-24, 18:09:22](https://news.ycombinator.com/item?id=39493713) - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
 * [2024-02-24, 17:19:31](https://news.ycombinator.com/item?id=39493237) - [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
 * [2024-02-24, 17:17:41](https://news.ycombinator.com/item?id=39493219) - [Candy – a minimalistic functional programming language](https://github.com/candy-lang/candy)
@@ -22,7 +23,6 @@
 * [2024-02-24, 08:39:55](https://news.ycombinator.com/item?id=39490139) - [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 * [2024-02-24, 07:47:15](https://news.ycombinator.com/item?id=39489920) - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
 * [2024-02-24, 06:43:23](https://news.ycombinator.com/item?id=39489660) - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
-* [2024-02-24, 05:48:55](https://news.ycombinator.com/item?id=39489431) - [The Earth is getting greener](https://www.vox.com/down-to-earth/2024/2/7/24057308/earth-global-greening-climate-change-carbon)
 * [2024-02-24, 05:47:34](https://news.ycombinator.com/item?id=39489427) - [What DNS Is Not (2009)](https://queue.acm.org/detail.cfm?id=1647302)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-02-23, 13:52:18](https://news.ycombinator.com/item?id=39480545) - [Building a deep learning rig](https://samsja.github.io/blogs/rig/part_1/)
