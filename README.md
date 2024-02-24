@@ -2,6 +2,7 @@
 
 * [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
 * [2024-02-24, 20:07:25](https://news.ycombinator.com/item?id=39494735) - [Long-lasting plasticity from patterned ultrasound-induced brainwave entrainment](https://www.science.org/doi/10.1126/sciadv.adk3198)
+* [2024-02-24, 20:03:27](https://news.ycombinator.com/item?id=39494698) - [Portugal eased its opioid epidemic, while U.S. drug deaths skyrocketed](https://text.npr.org/1230188789)
 * [2024-02-24, 19:16:47](https://news.ycombinator.com/item?id=39494331) - [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
 * [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2024-02-24, 18:09:22](https://news.ycombinator.com/item?id=39493713) - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
@@ -15,7 +16,6 @@
 * [2024-02-24, 16:18:20](https://news.ycombinator.com/item?id=39492680) - [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
 * [2024-02-24, 14:57:14](https://news.ycombinator.com/item?id=39491889) - [Ask HN: Anyone use a code to mindmap/flowchart tool?](https://news.ycombinator.com/item?id=39491889)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
-* [2024-02-24, 14:18:20](https://news.ycombinator.com/item?id=39491646) - [Understanding, using, and finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 * [2024-02-24, 12:33:37](https://news.ycombinator.com/item?id=39491040) - [Trying to Decode Lev-1](https://destevez.net/2024/01/trying-to-decode-lev-1/)
 * [2024-02-24, 10:25:13](https://news.ycombinator.com/item?id=39490543) - [How to think about software quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 * [2024-02-24, 10:24:52](https://news.ycombinator.com/item?id=39490540) - [Almost an open-source boot chain for Rockchip's RK3588](https://www.collabora.com/news-and-blog/blog/2024/02/21/almost-a-fully-open-source-boot-chain-for-rockchips-rk3588/)
