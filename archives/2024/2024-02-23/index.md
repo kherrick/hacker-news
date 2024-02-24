@@ -71,6 +71,7 @@
 * [2024-02-23, 14:07:42](https://news.ycombinator.com/item?id=39480718) - [Tyler Perry halts $800M studio expansion after being shocked by AI](https://www.theguardian.com/technology/2024/feb/23/tyler-perry-halts-800m-studio-expansion-after-being-shocked-by-ai)
 * [2024-02-23, 13:57:56](https://news.ycombinator.com/item?id=39480608) - [Stuff Happening at Dropbox](https://twitter.com/ghosttyped/status/1760734197311000828)
 * [2024-02-23, 13:57:31](https://news.ycombinator.com/item?id=39480605) - [After 14 years in the industry, I still find programming difficult](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)
+* [2024-02-23, 13:52:18](https://news.ycombinator.com/item?id=39480545) - [Building a Deep Learning Rig](https://samsja.github.io/blogs/rig/part_1/)
 * [2024-02-23, 13:49:02](https://news.ycombinator.com/item?id=39480513) - [High Interest Savings Leaderboard](https://www.highinterest.io/)
 * [2024-02-23, 13:37:56](https://news.ycombinator.com/item?id=39480407) - [Satoshi – Sirius emails 2009-2011](https://mmalmi.github.io/satoshi/)
 * [2024-02-23, 13:32:30](https://news.ycombinator.com/item?id=39480341) - [Jim Keller criticizes Nvidia CUDA, x86 – 'CUDA's a swamp, not a moat, like x86'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
