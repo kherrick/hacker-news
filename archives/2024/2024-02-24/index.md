@@ -6,6 +6,7 @@
 
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (small team remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-24, 20:49:54](https://news.ycombinator.com/item?id=39495044) - [Simple script to generate RSS feeds](https://www.zoraster.org/blog/script-to-generate-rss-feed)
+* [2024-02-24, 20:33:47](https://news.ycombinator.com/item?id=39494925) - [Architecture.md (2021)](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
 * [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
 * [2024-02-24, 20:07:25](https://news.ycombinator.com/item?id=39494735) - [Long-lasting plasticity from patterned ultrasound-induced brainwave entrainment](https://www.science.org/doi/10.1126/sciadv.adk3198)
 * [2024-02-24, 20:06:39](https://news.ycombinator.com/item?id=39494728) - [David Hahn, the 'Radioactive Boy Scout' Who Tried to Build a Nuclear Reactor](https://allthatsinteresting.com/david-hahn)
