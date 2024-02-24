@@ -87,6 +87,7 @@
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 * [2024-02-23, 07:35:10](https://news.ycombinator.com/item?id=39477906) - [Shaun Maguire could't be promoted for being white, at Google](https://twitter.com/shaunmmaguire/status/1760872265892458792)
 * [2024-02-23, 07:22:42](https://news.ycombinator.com/item?id=39477848) - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
+* [2024-02-23, 07:19:03](https://news.ycombinator.com/item?id=39477821) - [Go(lang): Robust generic functions on slices](https://go.dev/blog/generic-slice-functions)
 * [2024-02-23, 07:02:44](https://news.ycombinator.com/item?id=39477757) - [The Windows Ubuntu Operating System](https://www.wubuntu.org/)
 * [2024-02-23, 06:02:34](https://news.ycombinator.com/item?id=39477467) - [The first round of U.S. secondary sanctions on Russia is working](http://jpkoning.blogspot.com/2024/02/the-first-round-of-us-secondary.html)
 * [2024-02-23, 06:00:42](https://news.ycombinator.com/item?id=39477457) - [PGlite – Postgres in WASM](https://github.com/electric-sql/pglite)

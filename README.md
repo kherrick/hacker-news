@@ -25,7 +25,7 @@
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 * [2024-02-23, 14:10:11](https://news.ycombinator.com/item?id=39480751) - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
 * [2024-02-23, 13:37:56](https://news.ycombinator.com/item?id=39480407) - [Satoshi – Sirius emails 2009-2011](https://mmalmi.github.io/satoshi/)
-* [2024-02-23, 11:53:25](https://news.ycombinator.com/item?id=39479478) - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
+* [2024-02-23, 07:19:03](https://news.ycombinator.com/item?id=39477821) - [Go(lang): Robust generic functions on slices](https://go.dev/blog/generic-slice-functions)
 * [2024-02-22, 16:16:51](https://news.ycombinator.com/item?id=39469274) - [Vvvv – A hybrid visual/textual development environment](https://vvvv.org/)
 * [2024-02-22, 13:11:07](https://news.ycombinator.com/item?id=39466529) - [Researchers use electron beams to eradicate forever chemicals in water](https://phys.org/news/2024-02-electron-eradicate-chemicals.html)
 * [2024-02-22, 12:06:36](https://news.ycombinator.com/item?id=39465932) - [J3blocks is a Janet scripting system for i3bar and swaybar](https://codeberg.org/amano.kenji/j3blocks)
