@@ -19,6 +19,7 @@
 * [2024-02-24, 14:18:20](https://news.ycombinator.com/item?id=39491646) - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 * [2024-02-24, 13:55:54](https://news.ycombinator.com/item?id=39491510) - [Lawyer fined for legal filings that included hallucinated AI citations](https://www.universalhub.com/2024/lawyer-learns-hard-way-ai-still-sucks-fined-legal)
 * [2024-02-24, 13:31:37](https://news.ycombinator.com/item?id=39491349) - [Microsoft Joins the MapLibre Sponsorship Program](https://maplibre.org/news/2024-02-20-msft-announcement/)
+* [2024-02-24, 12:33:37](https://news.ycombinator.com/item?id=39491040) - [Trying to Decode Lev-1](https://destevez.net/2024/01/trying-to-decode-lev-1/)
 * [2024-02-24, 11:51:22](https://news.ycombinator.com/item?id=39490879) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-24, 11:22:34](https://news.ycombinator.com/item?id=39490781) - [Rendering Emails with SvelteKit](https://www.yieldcode.blog/post/rendering-emails-with-svelte/)
 * [2024-02-24, 11:03:09](https://news.ycombinator.com/item?id=39490696) - [25 years of studying the brain: Avoid these 4 habits that destroy our memory](https://www.cnbc.com/2024/02/23/ive-spent-25-years-studying-the-brain-i-always-avoid-these-habits-that-destroy-our-memory-as-we-age.html)
