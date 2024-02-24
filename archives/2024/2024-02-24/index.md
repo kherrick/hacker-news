@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 15:15:12](https://news.ycombinator.com/item?id=39492070) - [Problems in Gemini's Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
 * [2024-02-24, 15:05:13](https://news.ycombinator.com/item?id=39491968) - [Peter Thiel's $100k offer to skip college is more popular than ever](https://www.wsj.com/finance/peter-thiels-100-000-offer-to-skip-college-is-more-popular-than-ever-162e281b)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 14:45:11](https://news.ycombinator.com/item?id=39491795) - [Every. Single. New. Google. Product](https://twitter.com/MarcosBL/status/1761094858205229430)
