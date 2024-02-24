@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
 * [2024-02-23, 23:49:38](https://news.ycombinator.com/item?id=39487637) - [That Time America Outlawed Pinball](https://www.history.com/news/that-time-america-outlawed-pinball)
+* [2024-02-23, 23:48:35](https://news.ycombinator.com/item?id=39487622) - [RTO doesn't improve company value, but does make employees miserable: Study](https://arstechnica.com/science/2024/02/rto-doesnt-improve-company-value-but-does-make-employees-miserable-study/)
 * [2024-02-23, 23:33:32](https://news.ycombinator.com/item?id=39487522) - [Covid is more likely to be of zoonotic origin than a product of engineering](https://drive.google.com/file/d/1YhmkYB32RpGsXvQTsX4xZ0Yul1wiwh8Z/view?pli=1)
 * [2024-02-23, 23:15:36](https://news.ycombinator.com/item?id=39487372) - [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
 * [2024-02-23, 23:10:11](https://news.ycombinator.com/item?id=39487341) - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
