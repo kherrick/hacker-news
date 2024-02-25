@@ -4,7 +4,7 @@
 * [2024-02-25, 18:14:12](https://news.ycombinator.com/item?id=39503205) - [Remove average karma, unvalued and maybe counterproductive](https://github.com/lobsters/lobsters/commit/ab604bcb1aa594458b6769469cd3289a9aa7e1f3)
 * [2024-02-25, 17:09:57](https://news.ycombinator.com/item?id=39502515) - [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
 * [2024-02-25, 17:01:01](https://news.ycombinator.com/item?id=39502433) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
-* [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+* [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [2024-02-25, 16:33:21](https://news.ycombinator.com/item?id=39502165) - [Breakthrough discovery extracting 97% of EV battery cobalt with common chemicals](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
 * [2024-02-25, 16:31:34](https://news.ycombinator.com/item?id=39502149) - [Windows in a Docker Container](https://github.com/dockur/windows)
 * [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
