@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-25, 02:41:24](https://news.ycombinator.com/item?id=39497124) - [Career Advice Ryan Holiday Wishes He'd Known Earlier](https://ryanholiday.net/37-pieces-of-career-advice-i-wish-id-known-earlier/)
 * [2024-02-25, 01:49:24](https://news.ycombinator.com/item?id=39496861) - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
 * [2024-02-25, 01:25:02](https://news.ycombinator.com/item?id=39496747) - [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
 * [2024-02-25, 00:52:19](https://news.ycombinator.com/item?id=39496590) - [Utility Classes Aren't the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
-* [2024-02-24, 23:39:45](https://news.ycombinator.com/item?id=39496153) - [Anyone else using ChatGPT to make music?](https://community.openai.com/t/anyone-else-using-chatgpt-to-make-music/200103)
 * [2024-02-24, 23:27:19](https://news.ycombinator.com/item?id=39496096) - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
 * [2024-02-24, 23:06:33](https://news.ycombinator.com/item?id=39495962) - [Korea slaps $327,067 fine on Twitch for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
 * [2024-02-24, 22:47:29](https://news.ycombinator.com/item?id=39495837) - [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
