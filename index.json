@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2024-02-25, 17:59:59",
+      "https://news.ycombinator.com/item?id=39503054"
+    ],
+    [
+      "Parasite Infection is Associated with Entrepreneurship (2020)",
+      "https://journals.sagepub.com/doi/full/10.1177/1042258719890992"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 17:09:57",
       "https://news.ycombinator.com/item?id=39502515"
     ],
     [
-      "Falsehoods Junior Developers believe about becoming Senior",
+      "Falsehoods junior developers believe about becoming senior",
       "https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/"
     ]
   ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-02-25, 14:44:46",
-      "https://news.ycombinator.com/item?id=39501185"
-    ],
-    [
-      "Java virtual threads hit with pinning issue",
-      "https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 14:27:54",
       "https://news.ycombinator.com/item?id=39501073"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-02-24, 21:45:11",
-      "https://news.ycombinator.com/item?id=39495393"
-    ],
-    [
-      "An Apple II emulator. On a 6809 Coco3",
-      "https://github.com/dragonbytes/Apple2CoCo"
-    ]
-  ],
-  [
-    [
       "2024-02-24, 14:53:08",
       "https://news.ycombinator.com/item?id=39491863"
     ],
@@ -297,6 +287,16 @@
     [
       "Gemma, Ollama and LangChainGo",
       "https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/"
+    ]
+  ],
+  [
+    [
+      "2024-02-23, 13:30:42",
+      "https://news.ycombinator.com/item?id=39480331"
+    ],
+    [
+      "Tacit programming",
+      "https://en.wikipedia.org/wiki/Tacit_programming"
     ]
   ]
 ]
