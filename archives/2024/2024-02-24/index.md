@@ -63,6 +63,7 @@
 * [2024-02-24, 12:33:37](https://news.ycombinator.com/item?id=39491040) - [Trying to Decode Lev-1](https://destevez.net/2024/01/trying-to-decode-lev-1/)
 * [2024-02-24, 11:51:22](https://news.ycombinator.com/item?id=39490879) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-24, 11:22:34](https://news.ycombinator.com/item?id=39490781) - [Rendering Emails with SvelteKit](https://www.yieldcode.blog/post/rendering-emails-with-svelte/)
+* [2024-02-24, 11:16:35](https://news.ycombinator.com/item?id=39490747) - [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-24, 11:03:09](https://news.ycombinator.com/item?id=39490696) - [25 years of studying the brain: Avoid these 4 habits that destroy our memory](https://www.cnbc.com/2024/02/23/ive-spent-25-years-studying-the-brain-i-always-avoid-these-habits-that-destroy-our-memory-as-we-age.html)
 * [2024-02-24, 10:25:13](https://news.ycombinator.com/item?id=39490543) - [How to Not Die by a Thousand Cuts. Or How to Think About Software Quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 * [2024-02-24, 10:24:52](https://news.ycombinator.com/item?id=39490540) - [Almost an open-source boot chain for Rockchip's RK3588](https://www.collabora.com/news-and-blog/blog/2024/02/21/almost-a-fully-open-source-boot-chain-for-rockchips-rk3588/)
