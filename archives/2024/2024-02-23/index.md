@@ -74,6 +74,7 @@
 * [2024-02-23, 13:52:18](https://news.ycombinator.com/item?id=39480545) - [Building a Deep Learning Rig](https://samsja.github.io/blogs/rig/part_1/)
 * [2024-02-23, 13:49:02](https://news.ycombinator.com/item?id=39480513) - [High Interest Savings Leaderboard](https://www.highinterest.io/)
 * [2024-02-23, 13:37:56](https://news.ycombinator.com/item?id=39480407) - [Satoshi – Sirius emails 2009-2011](https://mmalmi.github.io/satoshi/)
+* [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
 * [2024-02-23, 13:32:30](https://news.ycombinator.com/item?id=39480341) - [Jim Keller criticizes Nvidia CUDA, x86 – 'CUDA's a swamp, not a moat, like x86'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
 * [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
 * [2024-02-23, 13:24:08](https://news.ycombinator.com/item?id=39480257) - [US intelligence casts doubt on Israeli claims of UNRWA-Hamas links, report says](https://www.theguardian.com/world/2024/feb/22/us-intelligence-unrwa-hamas)

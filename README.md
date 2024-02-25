@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-25, 12:35:37](https://news.ycombinator.com/item?id=39500286) - [When homes hit 40°C inside, it's better to draw on residents' local know-how](https://theconversation.com/when-homes-already-hit-40-c-inside-its-better-to-draw-on-residents-local-know-how-than-plan-for-climate-change-from-above-221870)
 * [2024-02-25, 12:34:59](https://news.ycombinator.com/item?id=39500283) - [Mexico City may be just months away from running out of water](https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html)
 * [2024-02-25, 11:35:50](https://news.ycombinator.com/item?id=39499974) - [How do startups building to detect deepfakes even compete?](https://news.ycombinator.com/item?id=39499974)
 * [2024-02-25, 10:57:42](https://news.ycombinator.com/item?id=39499734) - [I'm confused: what's with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
@@ -22,14 +21,15 @@
 * [2024-02-24, 22:48:42](https://news.ycombinator.com/item?id=39495846) - [Somaliland: A country shaped by poetry](https://www.noemamag.com/a-country-shaped-by-poetry/)
 * [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:45:11](https://news.ycombinator.com/item?id=39495393) - [An Apple II emulator. On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
+* [2024-02-24, 21:38:04](https://news.ycombinator.com/item?id=39495355) - [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 11:16:35](https://news.ycombinator.com/item?id=39490747) - [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
+* [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
 * [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
 * [2024-02-23, 13:18:53](https://news.ycombinator.com/item?id=39480199) - [Synthetic images aid the recognition of human-made art forgeries](https://arxiv.org/abs/2312.14998)
-* [2024-02-23, 11:12:13](https://news.ycombinator.com/item?id=39479234) - [Three Interpretations of Matrix Products](https://www.linearalgebraforprogrammers.com/blog/matmul_animations)
 
 ## [Archives](archives/index.md)
 
