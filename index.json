@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-02-25, 12:34:59",
-      "https://news.ycombinator.com/item?id=39500283"
+      "2024-02-25, 12:53:00",
+      "https://news.ycombinator.com/item?id=39500397"
     ],
     [
-      "Mexico City may be just months away from running out of water",
-      "https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html"
+      "Building a Fly.io-Like Scheduler with Resource Requirements",
+      "https://www.aspiring.dev/fly-io-scheduler-part-2/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-02-24, 21:57:33",
-      "https://news.ycombinator.com/item?id=39495476"
-    ],
-    [
-      "Does offering ChatGPT a tip cause it to generate better text?",
-      "https://minimaxir.com/2024/02/chatgpt-tips-analysis/"
-    ]
-  ],
-  [
-    [
       "2024-02-24, 21:45:11",
       "https://news.ycombinator.com/item?id=39495393"
     ],
@@ -297,6 +287,16 @@
     [
       "Synthetic images aid the recognition of human-made art forgeries",
       "https://arxiv.org/abs/2312.14998"
+    ]
+  ],
+  [
+    [
+      "2024-02-23, 11:12:13",
+      "https://news.ycombinator.com/item?id=39479234"
+    ],
+    [
+      "Three interpretations of matrix products",
+      "https://www.linearalgebraforprogrammers.com/blog/matmul_animations"
     ]
   ]
 ]
