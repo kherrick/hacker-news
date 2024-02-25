@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-25, 20:15:45](https://news.ycombinator.com/item?id=39504312) - [Florida Passes Sweeping Bill to Keep Young People Off Social Media](https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html)
 * [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
 * [2024-02-25, 19:30:27](https://news.ycombinator.com/item?id=39503941) - [Ask HN: Fighting back against Roku's forced arbitration?](https://news.ycombinator.com/item?id=39503941)
@@ -27,6 +26,7 @@
 * [2024-02-24, 23:54:01](https://news.ycombinator.com/item?id=39496224) - [Lattices vs. Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
 * [2024-02-24, 23:41:57](https://news.ycombinator.com/item?id=39496160) - [The Lighthill Debate on AI from 1973: An Introduction and Transcript](https://github.com/Dicklesworthstone/the_lighthill_debate_on_ai)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
+* [2024-02-24, 11:16:35](https://news.ycombinator.com/item?id=39490747) - [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-24, 11:14:31](https://news.ycombinator.com/item?id=39490740) - [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
 * [2024-02-24, 08:26:47](https://news.ycombinator.com/item?id=39490075) - [Considering then abandoning JSX for structured YAML config](https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html)
 * [2024-02-23, 17:45:01](https://news.ycombinator.com/item?id=39483753) - [A memoirist who told everything and repented nothing](https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing)
