@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-25, 05:50:57](https://news.ycombinator.com/item?id=39498047) - [Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
-* [2024-02-25, 04:34:37](https://news.ycombinator.com/item?id=39497686) - [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
 * [2024-02-25, 04:10:20](https://news.ycombinator.com/item?id=39497541) - [I'm Coder](https://www.fellipe.com/apps/im-coder/)
 * [2024-02-25, 02:37:56](https://news.ycombinator.com/item?id=39497110) - [Asynchronous clean-up](https://without.boats/blog/asynchronous-clean-up/)
 * [2024-02-25, 01:49:24](https://news.ycombinator.com/item?id=39496861) - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
@@ -19,6 +18,7 @@
 * [2024-02-24, 20:06:39](https://news.ycombinator.com/item?id=39494728) - [David Hahn, the 'radioactive boy scout' who tried to build a nuclear reactor (2022)](https://allthatsinteresting.com/david-hahn)
 * [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-24, 18:40:36](https://news.ycombinator.com/item?id=39493989) - [A simple MUD server in Python which can be run on a Raspberry Pi](https://github.com/Frimkron/mud-pi)
+* [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2024-02-24, 17:17:41](https://news.ycombinator.com/item?id=39493219) - [Candy – a minimalistic functional programming language](https://github.com/candy-lang/candy)
 * [2024-02-24, 17:11:42](https://news.ycombinator.com/item?id=39493179) - [Iterating over bit sets quickly](https://alexharri.com/blog/bit-set-iteration)
 * [2024-02-24, 16:46:35](https://news.ycombinator.com/item?id=39492924) - [Ledger](https://lock.cmpxchg8b.com/ledger.html)
