@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 20:15:45](https://news.ycombinator.com/item?id=39504312) - [Florida Passes Sweeping Bill to Keep Young People Off Social Media](https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html)
 * [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
 * [2024-02-25, 19:30:27](https://news.ycombinator.com/item?id=39503941) - [Ask HN: Fighting back against Roku's forced arbitration?](https://news.ycombinator.com/item?id=39503941)
 * [2024-02-25, 19:14:02](https://news.ycombinator.com/item?id=39503777) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
+* [2024-02-25, 19:12:29](https://news.ycombinator.com/item?id=39503757) - [X vs. Twitter: App Binary Comparison](https://www.emergetools.com/deep-dives/twitter-vs-x)
 * [2024-02-25, 18:48:15](https://news.ycombinator.com/item?id=39503522) - [Mozilla: Readability.js](https://github.com/mozilla/readability)
 * [2024-02-25, 18:42:53](https://news.ycombinator.com/item?id=39503487) - [A Girl and Her ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html)
 * [2024-02-25, 18:28:06](https://news.ycombinator.com/item?id=39503344) - [Estimating association between Facebook adoption and well-being in 72 countries](https://royalsocietypublishing.org/doi/10.1098/rsos.221451)
