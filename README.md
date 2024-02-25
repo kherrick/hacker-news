@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-25, 02:41:24](https://news.ycombinator.com/item?id=39497124) - [Career Advice Ryan Holiday Wishes He'd Known Earlier](https://ryanholiday.net/37-pieces-of-career-advice-i-wish-id-known-earlier/)
 * [2024-02-25, 01:49:24](https://news.ycombinator.com/item?id=39496861) - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
 * [2024-02-25, 01:25:02](https://news.ycombinator.com/item?id=39496747) - [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
 * [2024-02-25, 00:52:19](https://news.ycombinator.com/item?id=39496590) - [Utility Classes Aren't the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
@@ -13,6 +12,7 @@
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-24, 20:33:47](https://news.ycombinator.com/item?id=39494925) - [Architecture.md (2021)](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
 * [2024-02-24, 20:16:37](https://news.ycombinator.com/item?id=39494796) - [Cities stripping out concrete for earth and plants](https://www.bbc.com/future/article/20240222-depaving-the-cities-replacing-concrete-with-earth-and-plants)
+* [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
 * [2024-02-24, 20:07:25](https://news.ycombinator.com/item?id=39494735) - [Plasticity through patterned ultrasound-induced brainwave entrainment in mice](https://www.science.org/doi/10.1126/sciadv.adk3198)
 * [2024-02-24, 20:06:39](https://news.ycombinator.com/item?id=39494728) - [David Hahn, the 'radioactive boy scout' who tried to build a nuclear reactor (2022)](https://allthatsinteresting.com/david-hahn)
 * [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
