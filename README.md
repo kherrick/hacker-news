@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 * [2024-02-25, 15:54:01](https://news.ycombinator.com/item?id=39501801) - [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
-* [2024-02-25, 15:33:09](https://news.ycombinator.com/item?id=39501570) - [Why it took the US 51 years to get back on the moon](https://phys.org/news/2024-02-years-moon.html)
 * [2024-02-25, 15:23:41](https://news.ycombinator.com/item?id=39501474) - [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
 * [2024-02-25, 15:22:39](https://news.ycombinator.com/item?id=39501469) - [Ship Faster by Building Design Systems Slower](https://bigmedium.com/ideas/design-system-pace-layers-slow-fast.html)
 * [2024-02-25, 15:22:35](https://news.ycombinator.com/item?id=39501468) - [Egypt announces $35B deal with UAE to buy premium Mediterranean area](https://www.middleeasteye.net/news/egypt-announces-massive-35-billion-deal-uae-develop-ras-el-hekma-north-coast)
@@ -24,12 +24,12 @@
 * [2024-02-24, 23:28:56](https://news.ycombinator.com/item?id=39496103) - [The direct influence of Twin Peaks on Zelda](https://www.theverge.com/24078662/twin-peaks-zelda-links-awakening-influence)
 * [2024-02-24, 23:07:44](https://news.ycombinator.com/item?id=39495973) - [Archival Floppy Disk Preservation and Use [video]](https://www.youtube.com/watch?v=UxsRpMdmlGo)
 * [2024-02-24, 21:45:11](https://news.ycombinator.com/item?id=39495393) - [An Apple II emulator. On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
-* [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 11:16:35](https://news.ycombinator.com/item?id=39490747) - [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-23, 17:45:01](https://news.ycombinator.com/item?id=39483753) - [A Memoirist Who Told Everything and Repented Nothing](https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing)
 * [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
 * [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
+* [2024-02-23, 13:18:53](https://news.ycombinator.com/item?id=39480199) - [Synthetic images aid the recognition of human-made art forgeries](https://arxiv.org/abs/2312.14998)
 
 ## [Archives](archives/index.md)
 

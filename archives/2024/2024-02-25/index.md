@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 * [2024-02-25, 15:54:01](https://news.ycombinator.com/item?id=39501801) - [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
 * [2024-02-25, 15:33:09](https://news.ycombinator.com/item?id=39501570) - [Why it took the US 51 years to get back on the moon](https://phys.org/news/2024-02-years-moon.html)
 * [2024-02-25, 15:23:41](https://news.ycombinator.com/item?id=39501474) - [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
