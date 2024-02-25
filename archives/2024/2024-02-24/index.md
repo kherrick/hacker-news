@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 23:46:14](https://news.ycombinator.com/item?id=39496183) - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 * [2024-02-24, 23:39:45](https://news.ycombinator.com/item?id=39496153) - [Anyone else using ChatGPT to make music?](https://community.openai.com/t/anyone-else-using-chatgpt-to-make-music/200103)
 * [2024-02-24, 23:27:19](https://news.ycombinator.com/item?id=39496096) - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
 * [2024-02-24, 23:06:33](https://news.ycombinator.com/item?id=39495962) - [Korea slaps $327,067 fine on Twitch for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
