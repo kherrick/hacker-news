@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-25, 07:49:09](https://news.ycombinator.com/item?id=39498555) - [What Restoring a 30-Year-Old Nintendo Taught Me About Right to Repair](https://debugger.medium.com/what-restoring-a-30-year-old-nintendo-taught-me-about-right-to-repair-3bffdf548f6d)
 * [2024-02-25, 07:01:38](https://news.ycombinator.com/item?id=39498345) - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
 * [2024-02-25, 06:43:25](https://news.ycombinator.com/item?id=39498276) - [Ubisoft Employees In France have gone on a Stike](https://playstationcouch.com/post.php?id=161)
 * [2024-02-25, 06:18:27](https://news.ycombinator.com/item?id=39498184) - [Microsoft tried to sell Bing to Apple in 2018, according to Google court filings](https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/)
@@ -13,7 +14,6 @@
 * [2024-02-24, 23:46:14](https://news.ycombinator.com/item?id=39496183) - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 * [2024-02-24, 23:27:19](https://news.ycombinator.com/item?id=39496096) - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
 * [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
-* [2024-02-24, 21:38:04](https://news.ycombinator.com/item?id=39495355) - [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-24, 20:33:47](https://news.ycombinator.com/item?id=39494925) - [Architecture.md (2021)](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
 * [2024-02-24, 20:16:37](https://news.ycombinator.com/item?id=39494796) - [Cities stripping out concrete for earth and plants](https://www.bbc.com/future/article/20240222-depaving-the-cities-replacing-concrete-with-earth-and-plants)

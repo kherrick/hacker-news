@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 07:49:09](https://news.ycombinator.com/item?id=39498555) - [What Restoring a 30-Year-Old Nintendo Taught Me About Right to Repair](https://debugger.medium.com/what-restoring-a-30-year-old-nintendo-taught-me-about-right-to-repair-3bffdf548f6d)
 * [2024-02-25, 07:01:38](https://news.ycombinator.com/item?id=39498345) - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
 * [2024-02-25, 06:44:05](https://news.ycombinator.com/item?id=39498279) - [Respawn Studio Reportedly Developing FPS Bounty Hunting Mandolorian Game](https://playstationcouch.com/post.php?id=160)
 * [2024-02-25, 06:43:25](https://news.ycombinator.com/item?id=39498276) - [Ubisoft Employees In France have gone on a Stike](https://playstationcouch.com/post.php?id=161)
