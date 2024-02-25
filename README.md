@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-25, 17:01:01](https://news.ycombinator.com/item?id=39502433) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
+* [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+* [2024-02-25, 16:28:21](https://news.ycombinator.com/item?id=39502114) - [It is hard to avoid JavaScript](https://alexkutas.com/posts/it-is-hard-to-avoid-javascript)
 * [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 * [2024-02-25, 15:54:01](https://news.ycombinator.com/item?id=39501801) - [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
 * [2024-02-25, 15:23:41](https://news.ycombinator.com/item?id=39501474) - [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
@@ -8,7 +11,6 @@
 * [2024-02-25, 15:14:04](https://news.ycombinator.com/item?id=39501389) - [Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
 * [2024-02-25, 14:58:51](https://news.ycombinator.com/item?id=39501281) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-25, 14:56:46](https://news.ycombinator.com/item?id=39501262) - [Chip Defense](https://github.com/ochadenas/cpudefense)
-* [2024-02-25, 14:50:42](https://news.ycombinator.com/item?id=39501222) - [Starving to Death on a Full Stomach](https://slothconservation.org/starving-death-full-stomach/)
 * [2024-02-25, 14:44:46](https://news.ycombinator.com/item?id=39501185) - [Java virtual threads hit with pinning issue](https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html)
 * [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 * [2024-02-25, 14:25:34](https://news.ycombinator.com/item?id=39501061) - [Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
@@ -18,10 +20,9 @@
 * [2024-02-25, 12:31:38](https://news.ycombinator.com/item?id=39500263) - [You almost never see a clock at the mall](https://thehustle.co/originals/why-you-almost-never-see-a-clock-at-the-mall)
 * [2024-02-25, 09:48:43](https://news.ycombinator.com/item?id=39499345) - [Requirements for Japanese Text Layout](https://www.w3.org/TR/jlreq/)
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
-* [2024-02-25, 08:39:47](https://news.ycombinator.com/item?id=39498863) - [TSMC is having more luck building in Japan than in America](https://www.economist.com/business/2024/02/22/tsmc-is-having-more-luck-building-in-japan-than-in-america)
 * [2024-02-25, 03:44:30](https://news.ycombinator.com/item?id=39497403) - [As solar panels age out, recyclers hope to cash in](https://e360.yale.edu/features/solar-energy-panels-recycling)
 * [2024-02-25, 01:27:50](https://news.ycombinator.com/item?id=39496760) - [Fast persistent recoverable log and key-value store](https://github.com/microsoft/FASTER)
-* [2024-02-24, 23:28:56](https://news.ycombinator.com/item?id=39496103) - [The direct influence of Twin Peaks on Zelda](https://www.theverge.com/24078662/twin-peaks-zelda-links-awakening-influence)
+* [2024-02-24, 23:41:57](https://news.ycombinator.com/item?id=39496160) - [The Lighthill Debate on AI from 1973: An Introduction and Transcript](https://github.com/Dicklesworthstone/the_lighthill_debate_on_ai)
 * [2024-02-24, 23:07:44](https://news.ycombinator.com/item?id=39495973) - [Archival Floppy Disk Preservation and Use [video]](https://www.youtube.com/watch?v=UxsRpMdmlGo)
 * [2024-02-24, 21:45:11](https://news.ycombinator.com/item?id=39495393) - [An Apple II emulator. On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
@@ -29,7 +30,6 @@
 * [2024-02-23, 17:45:01](https://news.ycombinator.com/item?id=39483753) - [A Memoirist Who Told Everything and Repented Nothing](https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing)
 * [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
 * [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
-* [2024-02-23, 13:18:53](https://news.ycombinator.com/item?id=39480199) - [Synthetic images aid the recognition of human-made art forgeries](https://arxiv.org/abs/2312.14998)
 
 ## [Archives](archives/index.md)
 
