@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-25, 21:50:32](https://news.ycombinator.com/item?id=39505178) - [Consumers are increasingly pushing back against price increases – and winning](https://thegrio.com/2024/02/25/consumers-respond-to-price-increases/)
 * [2024-02-25, 21:09:21](https://news.ycombinator.com/item?id=39504788) - [So Google's Gemini Doesn't Like Python Programming and Sanskrit?](https://new.pythonforengineers.com/blog/so-evidently/)
 * [2024-02-25, 21:08:35](https://news.ycombinator.com/item?id=39504780) - [Ask HN: Do LLMs get \"better\" with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
 * [2024-02-25, 21:07:30](https://news.ycombinator.com/item?id=39504766) - [Killing VMware](https://www.computerworld.com/article/3713242/killing-vmware.html)
@@ -10,7 +11,6 @@
 * [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:58:33](https://news.ycombinator.com/item?id=39504200) - [Show HN: Functional UI Kit – twin Figma and React component libraries](https://github.com/functional-ui/functional-ui-kit)
 * [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
-* [2024-02-25, 19:30:27](https://news.ycombinator.com/item?id=39503941) - [Ask HN: Fighting back against Roku's forced arbitration?](https://news.ycombinator.com/item?id=39503941)
 * [2024-02-25, 19:14:02](https://news.ycombinator.com/item?id=39503777) - [Write Dumb Code (2018)](https://matthewrocklin.com/write-dumb-code.html)
 * [2024-02-25, 18:48:15](https://news.ycombinator.com/item?id=39503522) - [Readability.js](https://github.com/mozilla/readability)
 * [2024-02-25, 18:12:31](https://news.ycombinator.com/item?id=39503193) - [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)

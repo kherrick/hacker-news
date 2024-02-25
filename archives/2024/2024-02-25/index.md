@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 21:50:32](https://news.ycombinator.com/item?id=39505178) - [Consumers are increasingly pushing back against price increases – and winning](https://thegrio.com/2024/02/25/consumers-respond-to-price-increases/)
 * [2024-02-25, 21:48:13](https://news.ycombinator.com/item?id=39505160) - [Steve Jobs adopted no 'bozos' policy – best managers those who never wanted job](https://www.aol.com/finance/steve-jobs-adopted-no-bozos-130000644.html)
 * [2024-02-25, 21:44:43](https://news.ycombinator.com/item?id=39505122) - [Google and Meta Function as Extensions of the US Intelligence Community](https://threadreaderapp.com/thread/1761567080988676256.html)
 * [2024-02-25, 21:27:41](https://news.ycombinator.com/item?id=39504940) - [Meta Staff Found Instagram Tool Enabled Child Exploitation. They Did It Anyway](https://www.wsj.com/tech/meta-staff-found-instagram-subscription-tool-enabled-child-exploitation-the-company-pressed-ahead-anyway-a18e81e6)
