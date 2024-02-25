@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=39503777"
     ],
     [
-      "Write Dumb Code",
+      "Write Dumb Code (2018)",
       "https://matthewrocklin.com/write-dumb-code.html"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "A Girl and Her ViewBuilder",
       "https://cuteios.dev/2024/01/10/viewbuilder.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 18:19:15",
+      "https://news.ycombinator.com/item?id=39503249"
+    ],
+    [
+      "Sorry We Machines Destroyed Your Civilization in Such a Boring Way",
+      "https://www.mcsweeneys.net/articles/sorry-we-machines-destroyed-your-civilization-in-such-a-boring-way"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39502165"
     ],
     [
-      "Breakthrough discovery extracting 97% of EV battery cobalt with common chemicals",
+      "Efficient recovery and recycling of cobalt from spent lithium-ion batteries",
       "https://pubs.acs.org/doi/10.1021/acsomega.2c07780"
     ]
   ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39501469"
     ],
     [
-      "Ship Faster by Building Design Systems Slower",
+      "Ship faster by building design systems slower (2023)",
       "https://bigmedium.com/ideas/design-system-pace-layers-slow-fast.html"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Hallucination is inevitable: An innate limitation of large language models",
       "https://arxiv.org/abs/2401.11817"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 01:27:50",
-      "https://news.ycombinator.com/item?id=39496760"
-    ],
-    [
-      "Fast persistent recoverable log and key-value store",
-      "https://github.com/microsoft/FASTER"
     ]
   ],
   [
