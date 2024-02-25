@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-02-25, 18:19:15",
-      "https://news.ycombinator.com/item?id=39503249"
-    ],
-    [
-      "Sorry We Machines Destroyed Your Civilization in Such a Boring Way",
-      "https://www.mcsweeneys.net/articles/sorry-we-machines-destroyed-your-civilization-in-such-a-boring-way"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 18:12:31",
       "https://news.ycombinator.com/item?id=39503193"
     ],
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2024-02-25, 16:31:25",
-      "https://news.ycombinator.com/item?id=39502145"
-    ],
-    [
-      "Early humans had ADHD, scientists say after making people play game online",
-      "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-788716"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 16:16:17",
       "https://news.ycombinator.com/item?id=39501982"
     ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=39501389"
     ],
     [
-      "Zero-Rupee Note",
+      "Zero-rupee note",
       "https://en.wikipedia.org/wiki/Zero-rupee_note"
     ]
   ],
@@ -171,16 +151,6 @@
   ],
   [
     [
-      "2024-02-25, 14:17:09",
-      "https://news.ycombinator.com/item?id=39501001"
-    ],
-    [
-      "Seaborn bug responsible for finding of declining disruptiveness in science",
-      "https://arxiv.org/abs/2402.14583"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 13:10:46",
       "https://news.ycombinator.com/item?id=39500500"
     ],
@@ -195,8 +165,28 @@
       "https://news.ycombinator.com/item?id=39500397"
     ],
     [
-      "Building a Fly.io-Like Scheduler with Resource Requirements",
+      "Building a Fly.io-like scheduler with resource requirements",
       "https://www.aspiring.dev/fly-io-scheduler-part-2/"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 12:31:38",
+      "https://news.ycombinator.com/item?id=39500263"
+    ],
+    [
+      "You almost never see a clock at the mall",
+      "https://thehustle.co/originals/why-you-almost-never-see-a-clock-at-the-mall"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 09:48:43",
+      "https://news.ycombinator.com/item?id=39499345"
+    ],
+    [
+      "Requirements for Japanese Text Layout",
+      "https://www.w3.org/TR/jlreq/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Hallucination is inevitable: An innate limitation of large language models",
       "https://arxiv.org/abs/2401.11817"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 01:27:50",
+      "https://news.ycombinator.com/item?id=39496760"
+    ],
+    [
+      "Faster: Fast persistent recoverable log and key-value store",
+      "https://github.com/microsoft/FASTER"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=39495393"
     ],
     [
-      "An Apple II emulator. On a 6809 Coco3",
+      "An Apple II emulator on a 6809 Coco3",
       "https://github.com/dragonbytes/Apple2CoCo"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=39483753"
     ],
     [
-      "A Memoirist Who Told Everything and Repented Nothing",
+      "A memoirist who told everything and repented nothing",
       "https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing"
     ]
   ],
