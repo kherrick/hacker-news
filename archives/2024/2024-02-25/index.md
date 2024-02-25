@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 17:09:57](https://news.ycombinator.com/item?id=39502515) - [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
 * [2024-02-25, 17:01:01](https://news.ycombinator.com/item?id=39502433) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [2024-02-25, 16:33:21](https://news.ycombinator.com/item?id=39502165) - [Breakthrough discovery extracting 97% of EV battery cobalt with common chemicals](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
