@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-25, 20:15:45",
+      "https://news.ycombinator.com/item?id=39504312"
+    ],
+    [
+      "Florida Passes Sweeping Bill to Keep Young People Off Social Media",
+      "https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 20:09:46",
       "https://news.ycombinator.com/item?id=39504266"
     ],
@@ -37,6 +47,16 @@
     [
       "Write Dumb Code (2018)",
       "https://matthewrocklin.com/write-dumb-code.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 19:12:29",
+      "https://news.ycombinator.com/item?id=39503757"
+    ],
+    [
+      "X vs. Twitter: App Binary Comparison",
+      "https://www.emergetools.com/deep-dives/twitter-vs-x"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-02-25, 09:28:39",
-      "https://news.ycombinator.com/item?id=39499207"
-    ],
-    [
-      "Hallucination is inevitable: An innate limitation of large language models",
-      "https://arxiv.org/abs/2401.11817"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 09:22:54",
       "https://news.ycombinator.com/item?id=39499167"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2024-02-24, 23:07:44",
-      "https://news.ycombinator.com/item?id=39495973"
-    ],
-    [
-      "Archival Floppy Disk Preservation and Use [video]",
-      "https://www.youtube.com/watch?v=UxsRpMdmlGo"
-    ]
-  ],
-  [
-    [
       "2024-02-24, 14:53:08",
       "https://news.ycombinator.com/item?id=39491863"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-02-24, 11:16:35",
-      "https://news.ycombinator.com/item?id=39490747"
-    ],
-    [
-      "Neat Parallel Output in Python",
-      "https://bernsteinbear.com/blog/python-parallel-output/"
-    ]
-  ],
-  [
-    [
       "2024-02-24, 11:14:31",
       "https://news.ycombinator.com/item?id=39490740"
     ],
     [
       "Abusing Conda's Turing-Complete YAML Comments",
       "https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 08:26:47",
+      "https://news.ycombinator.com/item?id=39490075"
+    ],
+    [
+      "Considering then abandoning JSX for structured YAML config",
+      "https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html"
     ]
   ],
   [
