@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-25, 09:28:39",
+      "https://news.ycombinator.com/item?id=39499207"
+    ],
+    [
+      "Hallucination Is Inevitable: An Innate Limitation of Large Language Models",
+      "https://arxiv.org/abs/2401.11817"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 09:22:54",
       "https://news.ycombinator.com/item?id=39499167"
     ],
@@ -17,26 +27,6 @@
     [
       "Why fake research is rampant in China",
       "https://www.economist.com/china/2024/02/22/why-fake-research-is-rampant-in-china"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 07:01:38",
-      "https://news.ycombinator.com/item?id=39498345"
-    ],
-    [
-      "Earth just experienced its hottest 12 months in recorded history",
-      "https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 06:18:27",
-      "https://news.ycombinator.com/item?id=39498184"
-    ],
-    [
-      "Microsoft tried to sell Bing to Apple in 2018, according to Google court filings",
-      "https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Does offering ChatGPT a tip cause it to generate better text?",
       "https://minimaxir.com/2024/02/chatgpt-tips-analysis/"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 21:38:04",
+      "https://news.ycombinator.com/item?id=39495355"
+    ],
+    [
+      "How Does Bluesky Work?",
+      "https://steveklabnik.com/writing/how-does-bluesky-work"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=39480331"
     ],
     [
-      "Tacit Programming",
+      "Tacit programming",
       "https://en.wikipedia.org/wiki/Tacit_programming"
     ]
   ],
