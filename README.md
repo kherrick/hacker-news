@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-25, 04:10:20](https://news.ycombinator.com/item?id=39497541) - [Im Coder](https://www.fellipe.com/apps/im-coder/)
+* [2024-02-25, 04:06:57](https://news.ycombinator.com/item?id=39497515) - [A Prison Laptop from eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
 * [2024-02-25, 02:37:56](https://news.ycombinator.com/item?id=39497110) - [Asynchronous Clean-Up (in Rust)](https://without.boats/blog/asynchronous-clean-up/)
-* [2024-02-25, 02:11:13](https://news.ycombinator.com/item?id=39496990) - [Proposition E and Why San Francisco Voters Should Oppose It](https://www.eff.org/deeplinks/2024/02/what-proposition-e-and-why-should-san-francisco-voters-oppose-it)
 * [2024-02-25, 01:49:24](https://news.ycombinator.com/item?id=39496861) - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
 * [2024-02-25, 01:25:02](https://news.ycombinator.com/item?id=39496747) - [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
 * [2024-02-25, 00:52:19](https://news.ycombinator.com/item?id=39496590) - [Utility Classes Aren't the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
@@ -19,6 +18,7 @@
 * [2024-02-24, 20:06:39](https://news.ycombinator.com/item?id=39494728) - [David Hahn, the 'radioactive boy scout' who tried to build a nuclear reactor (2022)](https://allthatsinteresting.com/david-hahn)
 * [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-24, 18:40:36](https://news.ycombinator.com/item?id=39493989) - [A simple MUD server in Python which can be run on a Raspberry Pi](https://github.com/Frimkron/mud-pi)
+* [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2024-02-24, 17:19:31](https://news.ycombinator.com/item?id=39493237) - [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
 * [2024-02-24, 17:17:41](https://news.ycombinator.com/item?id=39493219) - [Candy – a minimalistic functional programming language](https://github.com/candy-lang/candy)
 * [2024-02-24, 17:11:42](https://news.ycombinator.com/item?id=39493179) - [Iterating over bit sets quickly](https://alexharri.com/blog/bit-set-iteration)
