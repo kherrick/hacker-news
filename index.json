@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-02-25, 19:43:38",
+      "https://news.ycombinator.com/item?id=39504072"
+    ],
+    [
+      "Console.delight",
+      "https://frontendmasters.com/blog/console-delight/"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 19:14:02",
       "https://news.ycombinator.com/item?id=39503777"
     ],
     [
       "Write Dumb Code (2018)",
       "https://matthewrocklin.com/write-dumb-code.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 18:48:15",
+      "https://news.ycombinator.com/item?id=39503522"
+    ],
+    [
+      "Mozilla: Readability.js",
+      "https://github.com/mozilla/readability"
     ]
   ],
   [
@@ -81,32 +101,12 @@
   ],
   [
     [
-      "2024-02-25, 15:23:41",
-      "https://news.ycombinator.com/item?id=39501474"
-    ],
-    [
-      "Deepest Dive Under Antarctica Reveals a Vibrant World",
-      "https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 15:22:39",
       "https://news.ycombinator.com/item?id=39501469"
     ],
     [
       "Ship faster by building design systems slower (2023)",
       "https://bigmedium.com/ideas/design-system-pace-layers-slow-fast.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 15:14:04",
-      "https://news.ycombinator.com/item?id=39501389"
-    ],
-    [
-      "Zero-rupee note",
-      "https://en.wikipedia.org/wiki/Zero-rupee_note"
     ]
   ],
   [
@@ -181,22 +181,42 @@
   ],
   [
     [
-      "2024-02-25, 09:48:43",
-      "https://news.ycombinator.com/item?id=39499345"
-    ],
-    [
-      "Requirements for Japanese Text Layout",
-      "https://www.w3.org/TR/jlreq/"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 09:28:39",
       "https://news.ycombinator.com/item?id=39499207"
     ],
     [
       "Hallucination is inevitable: An innate limitation of large language models",
       "https://arxiv.org/abs/2401.11817"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 09:22:54",
+      "https://news.ycombinator.com/item?id=39499167"
+    ],
+    [
+      "A Face Is Exposed for AOL Searcher No. 4417749 (2006)",
+      "https://www.nytimes.com/2006/08/09/technology/09aol.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 09:06:34",
+      "https://news.ycombinator.com/item?id=39499055"
+    ],
+    [
+      "My attempt at Gitlab PR review environments with Nomad",
+      "https://blog.mattsbit.co.uk/2024/02/22/gitlab-ephemeral-environments-for-pull-requests/"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 08:39:47",
+      "https://news.ycombinator.com/item?id=39498863"
+    ],
+    [
+      "TSMC is having more luck building in Japan than in America",
+      "https://www.economist.com/business/2024/02/22/tsmc-is-having-more-luck-building-in-japan-than-in-america"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-02-24, 21:45:11",
-      "https://news.ycombinator.com/item?id=39495393"
-    ],
-    [
-      "An Apple II emulator on a 6809 Coco3",
-      "https://github.com/dragonbytes/Apple2CoCo"
-    ]
-  ],
-  [
-    [
       "2024-02-24, 14:53:08",
       "https://news.ycombinator.com/item?id=39491863"
     ],
@@ -277,16 +287,6 @@
     [
       "A memoirist who told everything and repented nothing",
       "https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 13:37:25",
-      "https://news.ycombinator.com/item?id=39480398"
-    ],
-    [
-      "Gemma, Ollama and LangChainGo",
-      "https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/"
     ]
   ],
   [
