@@ -2,7 +2,6 @@
 
 * [2024-02-25, 04:34:37](https://news.ycombinator.com/item?id=39497686) - [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
 * [2024-02-25, 04:10:20](https://news.ycombinator.com/item?id=39497541) - [I'm Coder](https://www.fellipe.com/apps/im-coder/)
-* [2024-02-25, 04:09:26](https://news.ycombinator.com/item?id=39497532) - [Festival with 1k-year history ends in northeastern Japan](https://www.japantimes.co.jp/news/2024/02/18/japan/festival-with-1000-year-history-ends/)
 * [2024-02-25, 02:37:56](https://news.ycombinator.com/item?id=39497110) - [Asynchronous clean-up](https://without.boats/blog/asynchronous-clean-up/)
 * [2024-02-25, 01:49:24](https://news.ycombinator.com/item?id=39496861) - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
 * [2024-02-25, 01:25:02](https://news.ycombinator.com/item?id=39496747) - [Every model learned by gradient descent is approximately a kernel machine (2020)](https://arxiv.org/abs/2012.00152)
@@ -27,9 +26,10 @@
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 14:52:10](https://news.ycombinator.com/item?id=39491851) - [A giant meteorite has been lost in the desert since 1916](https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/)
 * [2024-02-24, 12:33:37](https://news.ycombinator.com/item?id=39491040) - [Trying to Decode Lev-1](https://destevez.net/2024/01/trying-to-decode-lev-1/)
-* [2024-02-24, 05:47:34](https://news.ycombinator.com/item?id=39489427) - [What DNS Is Not (2009)](https://queue.acm.org/detail.cfm?id=1647302)
 * [2024-02-24, 05:36:11](https://news.ycombinator.com/item?id=39489395) - [Neutrino (2010) [pdf]](http://theor.jinr.ru/~vnaumov/Eng/JINR_Lectures/books/Close2010.pdf)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
+* [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
+* [2024-02-23, 11:12:13](https://news.ycombinator.com/item?id=39479234) - [Three Interpretations of Matrix Products](https://www.linearalgebraforprogrammers.com/blog/matmul_animations)
 
 ## [Archives](archives/index.md)
 
