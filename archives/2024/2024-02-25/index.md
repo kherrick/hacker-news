@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
+* [2024-02-25, 19:30:27](https://news.ycombinator.com/item?id=39503941) - [Ask HN: Fighting back against Roku's forced arbitration?](https://news.ycombinator.com/item?id=39503941)
 * [2024-02-25, 19:14:02](https://news.ycombinator.com/item?id=39503777) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
 * [2024-02-25, 18:48:15](https://news.ycombinator.com/item?id=39503522) - [Mozilla: Readability.js](https://github.com/mozilla/readability)
 * [2024-02-25, 18:42:53](https://news.ycombinator.com/item?id=39503487) - [A Girl and Her ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html)

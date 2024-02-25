@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
+* [2024-02-25, 19:30:27](https://news.ycombinator.com/item?id=39503941) - [Ask HN: Fighting back against Roku's forced arbitration?](https://news.ycombinator.com/item?id=39503941)
 * [2024-02-25, 19:14:02](https://news.ycombinator.com/item?id=39503777) - [Write Dumb Code (2018)](https://matthewrocklin.com/write-dumb-code.html)
 * [2024-02-25, 18:48:15](https://news.ycombinator.com/item?id=39503522) - [Readability.js](https://github.com/mozilla/readability)
 * [2024-02-25, 18:12:31](https://news.ycombinator.com/item?id=39503193) - [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)
@@ -9,7 +11,6 @@
 * [2024-02-25, 16:33:21](https://news.ycombinator.com/item?id=39502165) - [Efficient recovery and recycling of cobalt from spent lithium-ion batteries](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
 * [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 * [2024-02-25, 15:22:39](https://news.ycombinator.com/item?id=39501469) - [Ship faster by building design systems slower (2023)](https://bigmedium.com/ideas/design-system-pace-layers-slow-fast.html)
-* [2024-02-25, 15:14:04](https://news.ycombinator.com/item?id=39501389) - [Zero-rupee note](https://en.wikipedia.org/wiki/Zero-rupee_note)
 * [2024-02-25, 14:58:51](https://news.ycombinator.com/item?id=39501281) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-25, 14:56:46](https://news.ycombinator.com/item?id=39501262) - [Chip Defense](https://github.com/ochadenas/cpudefense)
 * [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
@@ -29,7 +30,6 @@
 * [2024-02-24, 11:16:35](https://news.ycombinator.com/item?id=39490747) - [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-24, 11:14:31](https://news.ycombinator.com/item?id=39490740) - [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
 * [2024-02-23, 17:45:01](https://news.ycombinator.com/item?id=39483753) - [A memoirist who told everything and repented nothing](https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing)
-* [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
 
 ## [Archives](archives/index.md)
 
