@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-02-25, 14:50:42",
+      "https://news.ycombinator.com/item?id=39501222"
+    ],
+    [
+      "Starving to Death on a Full Stomach",
+      "https://slothconservation.org/starving-death-full-stomach/"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 14:44:46",
+      "https://news.ycombinator.com/item?id=39501185"
+    ],
+    [
+      "Java virtual threads hit with pinning issue",
+      "https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 14:27:54",
+      "https://news.ycombinator.com/item?id=39501073"
+    ],
+    [
+      "Show HN: Reverse-Engineering a Switch Lite with 1,917 wires",
+      "https://usoldering.com/switch-lite/"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 14:25:34",
       "https://news.ycombinator.com/item?id=39501061"
     ],
@@ -37,6 +67,16 @@
     [
       "Building a Fly.io-Like Scheduler with Resource Requirements",
       "https://www.aspiring.dev/fly-io-scheduler-part-2/"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 10:52:20",
+      "https://news.ycombinator.com/item?id=39499704"
+    ],
+    [
+      "How to Change a System",
+      "https://www.enablingchange.com.au/blog/strategy-2/how-to-change-a-system/"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2024-02-25, 04:10:20",
-      "https://news.ycombinator.com/item?id=39497541"
-    ],
-    [
-      "I'm Coder",
-      "https://www.fellipe.com/apps/im-coder/"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 03:44:30",
       "https://news.ycombinator.com/item?id=39497403"
     ],
@@ -107,16 +137,6 @@
     [
       "Asynchronous clean-up",
       "https://without.boats/blog/asynchronous-clean-up/"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 01:49:24",
-      "https://news.ycombinator.com/item?id=39496861"
-    ],
-    [
-      "Amazon blocks long-running FireTV capability, Breaking apps with no warning",
-      "https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-02-24, 14:52:10",
-      "https://news.ycombinator.com/item?id=39491851"
-    ],
-    [
-      "A giant meteorite has been lost in the desert since 1916",
-      "https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/"
-    ]
-  ],
-  [
-    [
       "2024-02-24, 11:16:35",
       "https://news.ycombinator.com/item?id=39490747"
     ],
@@ -287,16 +297,6 @@
     [
       "Synthetic images aid the recognition of human-made art forgeries",
       "https://arxiv.org/abs/2312.14998"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 11:12:13",
-      "https://news.ycombinator.com/item?id=39479234"
-    ],
-    [
-      "Three interpretations of matrix products",
-      "https://www.linearalgebraforprogrammers.com/blog/matmul_animations"
     ]
   ]
 ]
