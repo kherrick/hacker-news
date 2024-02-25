@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 21:27:41](https://news.ycombinator.com/item?id=39504940) - [Meta Staff Found Instagram Tool Enabled Child Exploitation. They Did It Anyway](https://www.wsj.com/tech/meta-staff-found-instagram-subscription-tool-enabled-child-exploitation-the-company-pressed-ahead-anyway-a18e81e6)
+* [2024-02-25, 21:08:35](https://news.ycombinator.com/item?id=39504780) - [Ask HN: Do LLMs get \"better\" with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
 * [2024-02-25, 21:03:14](https://news.ycombinator.com/item?id=39504715) - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 * [2024-02-25, 21:01:04](https://news.ycombinator.com/item?id=39504703) - [Microsoft Is Driving Users Away](https://christitus.com/microsoft-is-driving-users-away/)
 * [2024-02-25, 21:01:03](https://news.ycombinator.com/item?id=39504702) - [Bitboards and Connect Four](https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md)
 * [2024-02-25, 20:34:34](https://news.ycombinator.com/item?id=39504470) - [Ask HN: How to Overcome the Trough of Sorrow?](https://news.ycombinator.com/item?id=39504470)
 * [2024-02-25, 20:15:45](https://news.ycombinator.com/item?id=39504312) - [Florida Passes Sweeping Bill to Keep Young People Off Social Media](https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html)
+* [2024-02-25, 20:11:48](https://news.ycombinator.com/item?id=39504279) - [The oldest hackies tell it like it was](http://www.thestacksreader.com/the-oldest-hackies-tell-it-like-it-was-and-is/)
 * [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:58:33](https://news.ycombinator.com/item?id=39504200) - [Show HN: Functional UI Kit – twin Figma and React component libraries](https://github.com/functional-ui/functional-ui-kit)
 * [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
