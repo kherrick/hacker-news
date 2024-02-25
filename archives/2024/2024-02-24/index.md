@@ -10,6 +10,7 @@
 * [2024-02-24, 23:06:33](https://news.ycombinator.com/item?id=39495962) - [Korea slaps $327,067 fine on Twitch for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
 * [2024-02-24, 22:59:23](https://news.ycombinator.com/item?id=39495919) - [Ask HN: How to survive as a homeless programmer in the winter (AB, Canada)?](https://news.ycombinator.com/item?id=39495919)
 * [2024-02-24, 22:47:29](https://news.ycombinator.com/item?id=39495837) - [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
+* [2024-02-24, 22:45:02](https://news.ycombinator.com/item?id=39495824) - [The Weird and Wonderful World of Sex Under the Sea](https://www.atlasobscura.com/articles/weird-sea-sex-mating-courtship)
 * [2024-02-24, 22:35:21](https://news.ycombinator.com/item?id=39495752) - [Intel CPU is faulty and has Core errors. It's not your GPU, its your CPU](https://steamcommunity.com/app/1928980/discussions/0/7221029098493967556/)
 * [2024-02-24, 22:20:52](https://news.ycombinator.com/item?id=39495654) - [Programming, Motherfucker Do you speak it?](http://programming-motherfucker.com/)
 * [2024-02-24, 22:17:24](https://news.ycombinator.com/item?id=39495626) - [\"The issue was detected by our new AI-powered vulnerability scanner\"](https://mastodon.social/@bagder/111988660459265387)
