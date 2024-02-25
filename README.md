@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-25, 07:01:38](https://news.ycombinator.com/item?id=39498345) - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
-* [2024-02-25, 06:44:05](https://news.ycombinator.com/item?id=39498279) - [Respawn Studio Reportedly Developing FPS Bounty Hunting Mandolorian Game](https://playstationcouch.com/post.php?id=160)
 * [2024-02-25, 06:18:27](https://news.ycombinator.com/item?id=39498184) - [Microsoft tried to sell Bing to Apple in 2018, according to Google court filings](https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/)
 * [2024-02-25, 06:09:14](https://news.ycombinator.com/item?id=39498129) - [Documentation for the JSON Lines text file format](https://jsonlines.org/)
 * [2024-02-25, 05:50:57](https://news.ycombinator.com/item?id=39498047) - [Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
@@ -10,6 +9,7 @@
 * [2024-02-25, 01:49:24](https://news.ycombinator.com/item?id=39496861) - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
 * [2024-02-25, 01:25:02](https://news.ycombinator.com/item?id=39496747) - [Every model learned by gradient descent is approximately a kernel machine (2020)](https://arxiv.org/abs/2012.00152)
 * [2024-02-25, 00:52:19](https://news.ycombinator.com/item?id=39496590) - [Utility classes aren't the same as inline styles (2021)](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
+* [2024-02-24, 23:46:14](https://news.ycombinator.com/item?id=39496183) - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 * [2024-02-24, 23:27:19](https://news.ycombinator.com/item?id=39496096) - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
 * [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:38:04](https://news.ycombinator.com/item?id=39495355) - [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
