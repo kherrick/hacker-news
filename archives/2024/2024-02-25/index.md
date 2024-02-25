@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 14:58:51](https://news.ycombinator.com/item?id=39501281) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-25, 14:50:42](https://news.ycombinator.com/item?id=39501222) - [Starving to Death on a Full Stomach](https://slothconservation.org/starving-death-full-stomach/)
 * [2024-02-25, 14:44:46](https://news.ycombinator.com/item?id=39501185) - [Java virtual threads hit with pinning issue](https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html)
 * [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 * [2024-02-25, 14:25:34](https://news.ycombinator.com/item?id=39501061) - [Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
+* [2024-02-25, 14:17:09](https://news.ycombinator.com/item?id=39501001) - [Seaborn bug responsible for finding of declining disruptiveness in science](https://arxiv.org/abs/2402.14583)
 * [2024-02-25, 14:01:43](https://news.ycombinator.com/item?id=39500886) - [fd, xargs, bat = quick document review](https://hiandrewquinn.github.io/til-site/posts/fd-bat-quick-document-review/)
 * [2024-02-25, 13:10:46](https://news.ycombinator.com/item?id=39500500) - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-25, 12:53:00](https://news.ycombinator.com/item?id=39500397) - [Building a Fly.io-Like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
