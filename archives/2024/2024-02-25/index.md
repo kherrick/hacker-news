@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 14:50:42](https://news.ycombinator.com/item?id=39501222) - [Starving to Death on a Full Stomach](https://slothconservation.org/starving-death-full-stomach/)
+* [2024-02-25, 14:44:46](https://news.ycombinator.com/item?id=39501185) - [Java virtual threads hit with pinning issue](https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html)
+* [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 * [2024-02-25, 14:25:34](https://news.ycombinator.com/item?id=39501061) - [Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
 * [2024-02-25, 14:01:43](https://news.ycombinator.com/item?id=39500886) - [fd, xargs, bat = quick document review](https://hiandrewquinn.github.io/til-site/posts/fd-bat-quick-document-review/)
 * [2024-02-25, 13:10:46](https://news.ycombinator.com/item?id=39500500) - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
@@ -14,6 +17,7 @@
 * [2024-02-25, 12:06:35](https://news.ycombinator.com/item?id=39500121) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-02-25, 11:35:50](https://news.ycombinator.com/item?id=39499974) - [How do startups building to detect deepfakes even compete?](https://news.ycombinator.com/item?id=39499974)
 * [2024-02-25, 10:57:42](https://news.ycombinator.com/item?id=39499734) - [I'm confused: what's with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
+* [2024-02-25, 10:52:20](https://news.ycombinator.com/item?id=39499704) - [How to Change a System](https://www.enablingchange.com.au/blog/strategy-2/how-to-change-a-system/)
 * [2024-02-25, 10:11:38](https://news.ycombinator.com/item?id=39499490) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://maartenboudry.be/2023/11/forget-about-overpopulation-soon-there-will-be-too-few-humans.html)
 * [2024-02-25, 09:55:56](https://news.ycombinator.com/item?id=39499393) - [Why the world stopped having sex](https://www.telegraph.co.uk/news/2024/02/10/france-sex-lives-lowest-level-britain-japan-korea/)
 * [2024-02-25, 09:43:24](https://news.ycombinator.com/item?id=39499308) - [What is preventing Bing or Google to copy the techniques marginalia or kagi uses](https://news.ycombinator.com/item?id=39499308)
