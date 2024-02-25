@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-25, 10:11:38](https://news.ycombinator.com/item?id=39499490) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://maartenboudry.be/2023/11/forget-about-overpopulation-soon-there-will-be-too-few-humans.html)
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 09:22:54](https://news.ycombinator.com/item?id=39499167) - [A Face Is Exposed for AOL Searcher No. 4417749 (2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
 * [2024-02-25, 09:11:10](https://news.ycombinator.com/item?id=39499081) - [Why fake research is rampant in China](https://www.economist.com/china/2024/02/22/why-fake-research-is-rampant-in-china)
@@ -14,6 +13,7 @@
 * [2024-02-24, 23:46:14](https://news.ycombinator.com/item?id=39496183) - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 * [2024-02-24, 23:27:19](https://news.ycombinator.com/item?id=39496096) - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
 * [2024-02-24, 22:48:42](https://news.ycombinator.com/item?id=39495846) - [Somaliland: A country shaped by poetry](https://www.noemamag.com/a-country-shaped-by-poetry/)
+* [2024-02-24, 22:45:02](https://news.ycombinator.com/item?id=39495824) - [The Weird and Wonderful World of Sex Under the Sea](https://www.atlasobscura.com/articles/weird-sea-sex-mating-courtship)
 * [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-24, 20:33:47](https://news.ycombinator.com/item?id=39494925) - [Architecture.md (2021)](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
