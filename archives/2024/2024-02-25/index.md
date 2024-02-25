@@ -6,6 +6,7 @@
 
 * [2024-02-25, 18:20:49](https://news.ycombinator.com/item?id=39503266) - [AAC and Debian](https://tookmund.com/2024/02/aac-and-debian)
 * [2024-02-25, 18:14:12](https://news.ycombinator.com/item?id=39503205) - [Remove average karma, unvalued and maybe counterproductive](https://github.com/lobsters/lobsters/commit/ab604bcb1aa594458b6769469cd3289a9aa7e1f3)
+* [2024-02-25, 17:59:59](https://news.ycombinator.com/item?id=39503054) - [Parasite Infection is Associated with Entrepreneurship (2020)](https://journals.sagepub.com/doi/full/10.1177/1042258719890992)
 * [2024-02-25, 17:09:57](https://news.ycombinator.com/item?id=39502515) - [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
 * [2024-02-25, 17:01:01](https://news.ycombinator.com/item?id=39502433) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)

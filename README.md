@@ -2,7 +2,8 @@
 
 * [2024-02-25, 18:20:49](https://news.ycombinator.com/item?id=39503266) - [AAC and Debian](https://tookmund.com/2024/02/aac-and-debian)
 * [2024-02-25, 18:14:12](https://news.ycombinator.com/item?id=39503205) - [Remove average karma, unvalued and maybe counterproductive](https://github.com/lobsters/lobsters/commit/ab604bcb1aa594458b6769469cd3289a9aa7e1f3)
-* [2024-02-25, 17:09:57](https://news.ycombinator.com/item?id=39502515) - [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
+* [2024-02-25, 17:59:59](https://news.ycombinator.com/item?id=39503054) - [Parasite Infection is Associated with Entrepreneurship (2020)](https://journals.sagepub.com/doi/full/10.1177/1042258719890992)
+* [2024-02-25, 17:09:57](https://news.ycombinator.com/item?id=39502515) - [Falsehoods junior developers believe about becoming senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
 * [2024-02-25, 17:01:01](https://news.ycombinator.com/item?id=39502433) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [2024-02-25, 16:33:21](https://news.ycombinator.com/item?id=39502165) - [Breakthrough discovery extracting 97% of EV battery cobalt with common chemicals](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
@@ -14,7 +15,6 @@
 * [2024-02-25, 15:14:04](https://news.ycombinator.com/item?id=39501389) - [Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
 * [2024-02-25, 14:58:51](https://news.ycombinator.com/item?id=39501281) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-25, 14:56:46](https://news.ycombinator.com/item?id=39501262) - [Chip Defense](https://github.com/ochadenas/cpudefense)
-* [2024-02-25, 14:44:46](https://news.ycombinator.com/item?id=39501185) - [Java virtual threads hit with pinning issue](https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html)
 * [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 * [2024-02-25, 14:25:34](https://news.ycombinator.com/item?id=39501061) - [Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
 * [2024-02-25, 14:17:09](https://news.ycombinator.com/item?id=39501001) - [Seaborn bug responsible for finding of declining disruptiveness in science](https://arxiv.org/abs/2402.14583)
@@ -25,11 +25,11 @@
 * [2024-02-24, 23:54:01](https://news.ycombinator.com/item?id=39496224) - [Lattices vs. Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
 * [2024-02-24, 23:41:57](https://news.ycombinator.com/item?id=39496160) - [The Lighthill Debate on AI from 1973: An Introduction and Transcript](https://github.com/Dicklesworthstone/the_lighthill_debate_on_ai)
 * [2024-02-24, 23:07:44](https://news.ycombinator.com/item?id=39495973) - [Archival Floppy Disk Preservation and Use [video]](https://www.youtube.com/watch?v=UxsRpMdmlGo)
-* [2024-02-24, 21:45:11](https://news.ycombinator.com/item?id=39495393) - [An Apple II emulator. On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 11:16:35](https://news.ycombinator.com/item?id=39490747) - [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-23, 17:45:01](https://news.ycombinator.com/item?id=39483753) - [A Memoirist Who Told Everything and Repented Nothing](https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing)
 * [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
+* [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
 
 ## [Archives](archives/index.md)
 
