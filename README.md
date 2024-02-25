@@ -2,6 +2,9 @@
 
 * [2024-02-25, 17:01:01](https://news.ycombinator.com/item?id=39502433) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+* [2024-02-25, 16:33:21](https://news.ycombinator.com/item?id=39502165) - [Breakthrough discovery extracting 97% of EV battery cobalt with common chemicals](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
+* [2024-02-25, 16:31:34](https://news.ycombinator.com/item?id=39502149) - [Windows in a Docker Container](https://github.com/dockur/windows)
+* [2024-02-25, 16:31:25](https://news.ycombinator.com/item?id=39502145) - [Early humans had ADHD, scientists say after making people play game online](https://www.jpost.com/health-and-wellness/mind-and-spirit/article-788716)
 * [2024-02-25, 16:28:21](https://news.ycombinator.com/item?id=39502114) - [It is hard to avoid JavaScript](https://alexkutas.com/posts/it-is-hard-to-avoid-javascript)
 * [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 * [2024-02-25, 15:54:01](https://news.ycombinator.com/item?id=39501801) - [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
@@ -17,8 +20,6 @@
 * [2024-02-25, 14:17:09](https://news.ycombinator.com/item?id=39501001) - [Seaborn bug responsible for finding of declining disruptiveness in science](https://arxiv.org/abs/2402.14583)
 * [2024-02-25, 13:10:46](https://news.ycombinator.com/item?id=39500500) - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-25, 12:53:00](https://news.ycombinator.com/item?id=39500397) - [Building a Fly.io-Like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
-* [2024-02-25, 12:31:38](https://news.ycombinator.com/item?id=39500263) - [You almost never see a clock at the mall](https://thehustle.co/originals/why-you-almost-never-see-a-clock-at-the-mall)
-* [2024-02-25, 09:48:43](https://news.ycombinator.com/item?id=39499345) - [Requirements for Japanese Text Layout](https://www.w3.org/TR/jlreq/)
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 03:44:30](https://news.ycombinator.com/item?id=39497403) - [As solar panels age out, recyclers hope to cash in](https://e360.yale.edu/features/solar-energy-panels-recycling)
 * [2024-02-25, 01:27:50](https://news.ycombinator.com/item?id=39496760) - [Fast persistent recoverable log and key-value store](https://github.com/microsoft/FASTER)
@@ -29,7 +30,6 @@
 * [2024-02-24, 11:16:35](https://news.ycombinator.com/item?id=39490747) - [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-23, 17:45:01](https://news.ycombinator.com/item?id=39483753) - [A Memoirist Who Told Everything and Repented Nothing](https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing)
 * [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
-* [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
 
 ## [Archives](archives/index.md)
 

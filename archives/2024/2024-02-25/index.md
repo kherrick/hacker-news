@@ -6,6 +6,9 @@
 
 * [2024-02-25, 17:01:01](https://news.ycombinator.com/item?id=39502433) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+* [2024-02-25, 16:33:21](https://news.ycombinator.com/item?id=39502165) - [Breakthrough discovery extracting 97% of EV battery cobalt with common chemicals](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
+* [2024-02-25, 16:31:34](https://news.ycombinator.com/item?id=39502149) - [Windows in a Docker Container](https://github.com/dockur/windows)
+* [2024-02-25, 16:31:25](https://news.ycombinator.com/item?id=39502145) - [Early humans had ADHD, scientists say after making people play game online](https://www.jpost.com/health-and-wellness/mind-and-spirit/article-788716)
 * [2024-02-25, 16:28:21](https://news.ycombinator.com/item?id=39502114) - [It is hard to avoid JavaScript](https://alexkutas.com/posts/it-is-hard-to-avoid-javascript)
 * [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 * [2024-02-25, 15:54:01](https://news.ycombinator.com/item?id=39501801) - [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
