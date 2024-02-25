@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-25, 21:27:41](https://news.ycombinator.com/item?id=39504940) - [Meta Staff Found Instagram Tool Enabled Child Exploitation. They Did It Anyway](https://www.wsj.com/tech/meta-staff-found-instagram-subscription-tool-enabled-child-exploitation-the-company-pressed-ahead-anyway-a18e81e6)
+* [2024-02-25, 21:09:21](https://news.ycombinator.com/item?id=39504788) - [So Google's Gemini Doesn't Like Python Programming and Sanskrit?](https://new.pythonforengineers.com/blog/so-evidently/)
 * [2024-02-25, 21:08:35](https://news.ycombinator.com/item?id=39504780) - [Ask HN: Do LLMs get \"better\" with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
 * [2024-02-25, 21:03:14](https://news.ycombinator.com/item?id=39504715) - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 * [2024-02-25, 21:01:04](https://news.ycombinator.com/item?id=39504703) - [Microsoft Is Driving Users Away](https://christitus.com/microsoft-is-driving-users-away/)
