@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-25, 09:22:54](https://news.ycombinator.com/item?id=39499167) - [A Face Is Exposed for AOL Searcher No. 4417749 (2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
 * [2024-02-25, 07:49:09](https://news.ycombinator.com/item?id=39498555) - [What Restoring a 30-Year-Old Nintendo Taught Me About Right to Repair](https://debugger.medium.com/what-restoring-a-30-year-old-nintendo-taught-me-about-right-to-repair-3bffdf548f6d)
 * [2024-02-25, 07:01:38](https://news.ycombinator.com/item?id=39498345) - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
 * [2024-02-25, 06:43:25](https://news.ycombinator.com/item?id=39498276) - [Ubisoft Employees In France have gone on a Stike](https://playstationcouch.com/post.php?id=161)
@@ -23,7 +24,6 @@
 * [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-24, 18:40:36](https://news.ycombinator.com/item?id=39493989) - [A simple MUD server in Python which can be run on a Raspberry Pi](https://github.com/Frimkron/mud-pi)
 * [2024-02-24, 15:41:51](https://news.ycombinator.com/item?id=39492323) - [The complete history of Gondar: Africa's city of castles (1636-1900)](https://www.africanhistoryextra.com/p/the-complete-history-of-gondar-africas)
-* [2024-02-24, 15:14:59](https://news.ycombinator.com/item?id=39492066) - [Apollo's Sequel Will Be a Gold Rush](https://www.theatlantic.com/science/archive/2024/02/moon-lander-apollo-artemis-rush/677559/)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 14:52:10](https://news.ycombinator.com/item?id=39491851) - [A giant meteorite has been lost in the desert since 1916](https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
