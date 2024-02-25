@@ -5,7 +5,7 @@
 * [2024-02-25, 00:52:19](https://news.ycombinator.com/item?id=39496590) - [Utility Classes Aren't the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
 * [2024-02-24, 23:46:14](https://news.ycombinator.com/item?id=39496183) - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 * [2024-02-24, 23:27:19](https://news.ycombinator.com/item?id=39496096) - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
-* [2024-02-24, 23:06:33](https://news.ycombinator.com/item?id=39495962) - [Korea slaps $327,067 fine on Twitch for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
+* [2024-02-24, 23:06:33](https://news.ycombinator.com/item?id=39495962) - [Korea fines Twitch $327k for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
 * [2024-02-24, 22:47:29](https://news.ycombinator.com/item?id=39495837) - [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
 * [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:38:04](https://news.ycombinator.com/item?id=39495355) - [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
