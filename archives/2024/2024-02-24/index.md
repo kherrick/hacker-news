@@ -50,6 +50,7 @@
 * [2024-02-24, 15:41:51](https://news.ycombinator.com/item?id=39492323) - [The complete history of Gondar: Africa's city of castles (1636-1900)](https://www.africanhistoryextra.com/p/the-complete-history-of-gondar-africas)
 * [2024-02-24, 15:20:04](https://news.ycombinator.com/item?id=39492110) - [$100k Peter Thiel Fellowship Awarded to Ethereum's Vitalik Buterin (2014)](https://www.coindesk.com/markets/2014/06/05/100k-peter-thiel-fellowship-awarded-to-ethereums-vitalik-buterin/)
 * [2024-02-24, 15:15:12](https://news.ycombinator.com/item?id=39492070) - [Problems in Gemini's Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
+* [2024-02-24, 15:14:59](https://news.ycombinator.com/item?id=39492066) - [Apollo's Sequel Will Be a Gold Rush](https://www.theatlantic.com/science/archive/2024/02/moon-lander-apollo-artemis-rush/677559/)
 * [2024-02-24, 15:05:13](https://news.ycombinator.com/item?id=39491968) - [Peter Thiel's $100k offer to skip college is more popular than ever](https://www.wsj.com/finance/peter-thiels-100-000-offer-to-skip-college-is-more-popular-than-ever-162e281b)
 * [2024-02-24, 14:57:14](https://news.ycombinator.com/item?id=39491889) - [Ask HN: Anyone use a code to mindmap/flowchart tool?](https://news.ycombinator.com/item?id=39491889)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
