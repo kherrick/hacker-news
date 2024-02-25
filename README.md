@@ -2,10 +2,10 @@
 
 * [2024-02-25, 21:09:21](https://news.ycombinator.com/item?id=39504788) - [So Google's Gemini Doesn't Like Python Programming and Sanskrit?](https://new.pythonforengineers.com/blog/so-evidently/)
 * [2024-02-25, 21:08:35](https://news.ycombinator.com/item?id=39504780) - [Ask HN: Do LLMs get \"better\" with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
+* [2024-02-25, 21:07:30](https://news.ycombinator.com/item?id=39504766) - [Killing VMware](https://www.computerworld.com/article/3713242/killing-vmware.html)
 * [2024-02-25, 21:03:14](https://news.ycombinator.com/item?id=39504715) - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 * [2024-02-25, 21:01:03](https://news.ycombinator.com/item?id=39504702) - [Bitboards and Connect Four](https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md)
 * [2024-02-25, 20:41:36](https://news.ycombinator.com/item?id=39504524) - [How to Create a Scrivener Project to Use as Your Second Brain](https://www.literatureandlatte.com/blog/how-to-create-a-scrivener-project-to-use-as-your-second-brain)
-* [2024-02-25, 20:34:34](https://news.ycombinator.com/item?id=39504470) - [Ask HN: How to Overcome the Trough of Sorrow?](https://news.ycombinator.com/item?id=39504470)
 * [2024-02-25, 20:11:48](https://news.ycombinator.com/item?id=39504279) - [The oldest hackies tell it like it was](http://www.thestacksreader.com/the-oldest-hackies-tell-it-like-it-was-and-is/)
 * [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:58:33](https://news.ycombinator.com/item?id=39504200) - [Show HN: Functional UI Kit – twin Figma and React component libraries](https://github.com/functional-ui/functional-ui-kit)
