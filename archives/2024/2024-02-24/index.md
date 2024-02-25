@@ -24,6 +24,7 @@
 * [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Analysis: Does Offering ChatGPT a Tip Cause It to Generate Better Text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:56:22](https://news.ycombinator.com/item?id=39495466) - [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
 * [2024-02-24, 21:45:11](https://news.ycombinator.com/item?id=39495393) - [An Apple II emulator. On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
+* [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 21:38:04](https://news.ycombinator.com/item?id=39495355) - [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (small team remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-24, 20:55:06](https://news.ycombinator.com/item?id=39495079) - [Python Generators Are Underutilized](https://www.slashtmp.io/posts/generators/)

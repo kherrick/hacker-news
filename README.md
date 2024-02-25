@@ -4,7 +4,6 @@
 * [2024-02-25, 21:08:35](https://news.ycombinator.com/item?id=39504780) - [Ask HN: Do LLMs get \"better\" with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
 * [2024-02-25, 21:03:14](https://news.ycombinator.com/item?id=39504715) - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 * [2024-02-25, 21:01:03](https://news.ycombinator.com/item?id=39504702) - [Bitboards and Connect Four](https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md)
-* [2024-02-25, 20:55:30](https://news.ycombinator.com/item?id=39504655) - [DOOM on Husqvarna Automower](https://www.husqvarna.com/uk/learn-and-discover/news-and-media/doom-husqvarna-update/)
 * [2024-02-25, 20:41:36](https://news.ycombinator.com/item?id=39504524) - [How to Create a Scrivener Project to Use as Your Second Brain](https://www.literatureandlatte.com/blog/how-to-create-a-scrivener-project-to-use-as-your-second-brain)
 * [2024-02-25, 20:34:34](https://news.ycombinator.com/item?id=39504470) - [Ask HN: How to Overcome the Trough of Sorrow?](https://news.ycombinator.com/item?id=39504470)
 * [2024-02-25, 20:11:48](https://news.ycombinator.com/item?id=39504279) - [The oldest hackies tell it like it was](http://www.thestacksreader.com/the-oldest-hackies-tell-it-like-it-was-and-is/)
@@ -29,6 +28,7 @@
 * [2024-02-25, 09:48:43](https://news.ycombinator.com/item?id=39499345) - [Requirements for Japanese Text Layout](https://www.w3.org/TR/jlreq/)
 * [2024-02-25, 09:22:54](https://news.ycombinator.com/item?id=39499167) - [A Face Is Exposed for AOL Searcher No. 4417749 (2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
 * [2024-02-24, 23:54:01](https://news.ycombinator.com/item?id=39496224) - [Lattices vs. Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
+* [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 11:14:31](https://news.ycombinator.com/item?id=39490740) - [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
 
 ## [Archives](archives/index.md)
