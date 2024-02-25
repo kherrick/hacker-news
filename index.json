@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-02-25, 04:06:57",
-      "https://news.ycombinator.com/item?id=39497515"
+      "2024-02-25, 04:34:37",
+      "https://news.ycombinator.com/item?id=39497686"
     ],
     [
-      "A Prison Laptop from eBay",
-      "https://twitter.com/zephray_wenting/status/1761548861896606014"
+      "Why you, personally, should want a larger human population",
+      "https://rootsofprogress.org/why-a-larger-population"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 04:09:26",
+      "https://news.ycombinator.com/item?id=39497532"
+    ],
+    [
+      "Festival with 1k-year history ends in northeastern Japan",
+      "https://www.japantimes.co.jp/news/2024/02/18/japan/festival-with-1000-year-history-ends/"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39496747"
     ],
     [
-      "Every Model Learned by Gradient Descent Is Approximately a Kernel Machine",
+      "Every model learned by gradient descent is approximately a kernel machine (2020)",
       "https://arxiv.org/abs/2012.00152"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39496590"
     ],
     [
-      "Utility Classes Aren't the Same as Inline Styles",
+      "Utility classes aren't the same as inline styles (2021)",
       "https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "A simple MUD server in Python which can be run on a Raspberry Pi",
       "https://github.com/Frimkron/mud-pi"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 18:16:19",
-      "https://news.ycombinator.com/item?id=39493770"
-    ],
-    [
-      "Google helped destroy adoption of RSS feeds (2023)",
-      "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds"
     ]
   ],
   [
