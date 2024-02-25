@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 23:54:01](https://news.ycombinator.com/item?id=39496224) - [Lattices vs. Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
 * [2024-02-24, 23:46:14](https://news.ycombinator.com/item?id=39496183) - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 * [2024-02-24, 23:41:57](https://news.ycombinator.com/item?id=39496160) - [The Lighthill Debate on AI from 1973: An Introduction and Transcript](https://github.com/Dicklesworthstone/the_lighthill_debate_on_ai)
 * [2024-02-24, 23:39:45](https://news.ycombinator.com/item?id=39496153) - [Anyone else using ChatGPT to make music?](https://community.openai.com/t/anyone-else-using-chatgpt-to-make-music/200103)
