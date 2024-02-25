@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 12:06:35](https://news.ycombinator.com/item?id=39500121) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-02-25, 10:57:42](https://news.ycombinator.com/item?id=39499734) - [I'm confused: what's with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
 * [2024-02-25, 10:11:38](https://news.ycombinator.com/item?id=39499490) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://maartenboudry.be/2023/11/forget-about-overpopulation-soon-there-will-be-too-few-humans.html)
 * [2024-02-25, 09:55:56](https://news.ycombinator.com/item?id=39499393) - [Why the world stopped having sex](https://www.telegraph.co.uk/news/2024/02/10/france-sex-lives-lowest-level-britain-japan-korea/)
@@ -28,5 +29,6 @@
 * [2024-02-25, 02:37:56](https://news.ycombinator.com/item?id=39497110) - [Asynchronous Clean-Up (in Rust)](https://without.boats/blog/asynchronous-clean-up/)
 * [2024-02-25, 02:11:13](https://news.ycombinator.com/item?id=39496990) - [Proposition E and Why San Francisco Voters Should Oppose It](https://www.eff.org/deeplinks/2024/02/what-proposition-e-and-why-should-san-francisco-voters-oppose-it)
 * [2024-02-25, 01:49:24](https://news.ycombinator.com/item?id=39496861) - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
+* [2024-02-25, 01:27:50](https://news.ycombinator.com/item?id=39496760) - [Fast persistent recoverable log and key-value store](https://github.com/microsoft/FASTER)
 * [2024-02-25, 01:25:02](https://news.ycombinator.com/item?id=39496747) - [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
 * [2024-02-25, 00:52:19](https://news.ycombinator.com/item?id=39496590) - [Utility Classes Aren't the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
