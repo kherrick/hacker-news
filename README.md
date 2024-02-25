@@ -16,6 +16,7 @@
 * [2024-02-25, 13:10:46](https://news.ycombinator.com/item?id=39500500) - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-25, 12:53:00](https://news.ycombinator.com/item?id=39500397) - [Building a Fly.io-Like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 12:31:38](https://news.ycombinator.com/item?id=39500263) - [You almost never see a clock at the mall](https://thehustle.co/originals/why-you-almost-never-see-a-clock-at-the-mall)
+* [2024-02-25, 09:48:43](https://news.ycombinator.com/item?id=39499345) - [Requirements for Japanese Text Layout](https://www.w3.org/TR/jlreq/)
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 08:39:47](https://news.ycombinator.com/item?id=39498863) - [TSMC is having more luck building in Japan than in America](https://www.economist.com/business/2024/02/22/tsmc-is-having-more-luck-building-in-japan-than-in-america)
 * [2024-02-25, 03:44:30](https://news.ycombinator.com/item?id=39497403) - [As solar panels age out, recyclers hope to cash in](https://e360.yale.edu/features/solar-energy-panels-recycling)
@@ -29,7 +30,6 @@
 * [2024-02-23, 17:45:01](https://news.ycombinator.com/item?id=39483753) - [A Memoirist Who Told Everything and Repented Nothing](https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing)
 * [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
 * [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
-* [2024-02-23, 13:18:53](https://news.ycombinator.com/item?id=39480199) - [Synthetic images aid the recognition of human-made art forgeries](https://arxiv.org/abs/2312.14998)
 
 ## [Archives](archives/index.md)
 
