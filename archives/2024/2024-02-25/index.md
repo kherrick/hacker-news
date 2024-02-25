@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 07:01:38](https://news.ycombinator.com/item?id=39498345) - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
+* [2024-02-25, 06:44:05](https://news.ycombinator.com/item?id=39498279) - [Respawn Studio Reportedly Developing FPS Bounty Hunting Mandolorian Game](https://playstationcouch.com/post.php?id=160)
+* [2024-02-25, 06:18:27](https://news.ycombinator.com/item?id=39498184) - [Microsoft tried to sell Bing to Apple in 2018, according to Google court filings](https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/)
+* [2024-02-25, 06:09:14](https://news.ycombinator.com/item?id=39498129) - [Documentation for the JSON Lines text file format](https://jsonlines.org/)
 * [2024-02-25, 05:50:57](https://news.ycombinator.com/item?id=39498047) - [Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
 * [2024-02-25, 04:34:37](https://news.ycombinator.com/item?id=39497686) - [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
 * [2024-02-25, 04:10:20](https://news.ycombinator.com/item?id=39497541) - [Im Coder](https://www.fellipe.com/apps/im-coder/)
