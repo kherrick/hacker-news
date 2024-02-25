@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
 * [2024-02-25, 19:14:02](https://news.ycombinator.com/item?id=39503777) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
+* [2024-02-25, 18:48:15](https://news.ycombinator.com/item?id=39503522) - [Mozilla: Readability.js](https://github.com/mozilla/readability)
 * [2024-02-25, 18:42:53](https://news.ycombinator.com/item?id=39503487) - [A Girl and Her ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html)
 * [2024-02-25, 18:28:06](https://news.ycombinator.com/item?id=39503344) - [Estimating association between Facebook adoption and well-being in 72 countries](https://royalsocietypublishing.org/doi/10.1098/rsos.221451)
 * [2024-02-25, 18:20:49](https://news.ycombinator.com/item?id=39503266) - [AAC and Debian](https://tookmund.com/2024/02/aac-and-debian)
@@ -51,6 +53,7 @@
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination Is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 09:22:54](https://news.ycombinator.com/item?id=39499167) - [A Face Is Exposed for AOL Searcher No. 4417749 (2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
 * [2024-02-25, 09:11:10](https://news.ycombinator.com/item?id=39499081) - [Why fake research is rampant in China](https://www.economist.com/china/2024/02/22/why-fake-research-is-rampant-in-china)
+* [2024-02-25, 09:06:34](https://news.ycombinator.com/item?id=39499055) - [My attempt at Gitlab PR review environments with Nomad](https://blog.mattsbit.co.uk/2024/02/22/gitlab-ephemeral-environments-for-pull-requests/)
 * [2024-02-25, 08:39:47](https://news.ycombinator.com/item?id=39498863) - [TSMC is having more luck building in Japan than in America](https://www.economist.com/business/2024/02/22/tsmc-is-having-more-luck-building-in-japan-than-in-america)
 * [2024-02-25, 07:49:09](https://news.ycombinator.com/item?id=39498555) - [What Restoring a 30-Year-Old Nintendo Taught Me About Right to Repair](https://debugger.medium.com/what-restoring-a-30-year-old-nintendo-taught-me-about-right-to-repair-3bffdf548f6d)
 * [2024-02-25, 07:27:23](https://news.ycombinator.com/item?id=39498456) - [On Handwriting and Switching to Cursive](https://brianschrader.com/archive/on-handwriting-and-switching-to-cursive/)
