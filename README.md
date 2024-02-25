@@ -9,6 +9,7 @@
 * [2024-02-25, 16:28:21](https://news.ycombinator.com/item?id=39502114) - [It is hard to avoid JavaScript](https://alexkutas.com/posts/it-is-hard-to-avoid-javascript)
 * [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 * [2024-02-25, 15:54:01](https://news.ycombinator.com/item?id=39501801) - [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
+* [2024-02-25, 15:23:41](https://news.ycombinator.com/item?id=39501474) - [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
 * [2024-02-25, 15:22:39](https://news.ycombinator.com/item?id=39501469) - [Ship Faster by Building Design Systems Slower](https://bigmedium.com/ideas/design-system-pace-layers-slow-fast.html)
 * [2024-02-25, 15:22:35](https://news.ycombinator.com/item?id=39501468) - [Egypt announces $35B deal with UAE to buy premium Mediterranean area](https://www.middleeasteye.net/news/egypt-announces-massive-35-billion-deal-uae-develop-ras-el-hekma-north-coast)
 * [2024-02-25, 15:14:04](https://news.ycombinator.com/item?id=39501389) - [Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
@@ -29,7 +30,6 @@
 * [2024-02-24, 11:16:35](https://news.ycombinator.com/item?id=39490747) - [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-23, 17:45:01](https://news.ycombinator.com/item?id=39483753) - [A Memoirist Who Told Everything and Repented Nothing](https://www.newyorker.com/books/under-review/a-memoirist-who-told-everything-and-repented-nothing)
 * [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
-* [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
 
 ## [Archives](archives/index.md)
 
