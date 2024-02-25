@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-25, 10:57:42](https://news.ycombinator.com/item?id=39499734) - [I'm confused: what's with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
+* [2024-02-25, 09:55:56](https://news.ycombinator.com/item?id=39499393) - [Why the world stopped having sex](https://www.telegraph.co.uk/news/2024/02/10/france-sex-lives-lowest-level-britain-japan-korea/)
 * [2024-02-25, 09:43:24](https://news.ycombinator.com/item?id=39499308) - [What is preventing Bing or Google to copy the techniques marginalia or kagi uses](https://news.ycombinator.com/item?id=39499308)
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 09:22:54](https://news.ycombinator.com/item?id=39499167) - [A Face Is Exposed for AOL Searcher No. 4417749 (2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
-* [2024-02-25, 09:11:10](https://news.ycombinator.com/item?id=39499081) - [Why fake research is rampant in China](https://www.economist.com/china/2024/02/22/why-fake-research-is-rampant-in-china)
 * [2024-02-25, 04:34:37](https://news.ycombinator.com/item?id=39497686) - [Selfish reasons to want more humans](https://rootsofprogress.org/why-a-larger-population)
 * [2024-02-25, 04:10:20](https://news.ycombinator.com/item?id=39497541) - [I'm Coder](https://www.fellipe.com/apps/im-coder/)
 * [2024-02-25, 03:44:30](https://news.ycombinator.com/item?id=39497403) - [As solar panels age out, recyclers hope to cash in](https://e360.yale.edu/features/solar-energy-panels-recycling)

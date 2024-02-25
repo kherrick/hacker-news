@@ -6,6 +6,7 @@
 
 * [2024-02-25, 10:57:42](https://news.ycombinator.com/item?id=39499734) - [I'm confused: what's with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
 * [2024-02-25, 10:11:38](https://news.ycombinator.com/item?id=39499490) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://maartenboudry.be/2023/11/forget-about-overpopulation-soon-there-will-be-too-few-humans.html)
+* [2024-02-25, 09:55:56](https://news.ycombinator.com/item?id=39499393) - [Why the world stopped having sex](https://www.telegraph.co.uk/news/2024/02/10/france-sex-lives-lowest-level-britain-japan-korea/)
 * [2024-02-25, 09:43:24](https://news.ycombinator.com/item?id=39499308) - [What is preventing Bing or Google to copy the techniques marginalia or kagi uses](https://news.ycombinator.com/item?id=39499308)
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination Is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 09:22:54](https://news.ycombinator.com/item?id=39499167) - [A Face Is Exposed for AOL Searcher No. 4417749 (2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
