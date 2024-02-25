@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-25, 04:34:37](https://news.ycombinator.com/item?id=39497686) - [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
+* [2024-02-25, 04:10:20](https://news.ycombinator.com/item?id=39497541) - [Im Coder](https://www.fellipe.com/apps/im-coder/)
 * [2024-02-25, 04:09:26](https://news.ycombinator.com/item?id=39497532) - [Festival with 1k-year history ends in northeastern Japan](https://www.japantimes.co.jp/news/2024/02/18/japan/festival-with-1000-year-history-ends/)
 * [2024-02-25, 04:08:57](https://news.ycombinator.com/item?id=39497528) - [SF's Millennium Tower now may be sinking in the center](https://www.nbcbayarea.com/investigations/series/millennium-tower/san-francisco-millennium-tower-foundation-sinking/3460782/)
 * [2024-02-25, 02:37:56](https://news.ycombinator.com/item?id=39497110) - [Asynchronous clean-up](https://without.boats/blog/asynchronous-clean-up/)
@@ -9,7 +10,6 @@
 * [2024-02-25, 00:52:19](https://news.ycombinator.com/item?id=39496590) - [Utility classes aren't the same as inline styles (2021)](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
 * [2024-02-24, 23:46:14](https://news.ycombinator.com/item?id=39496183) - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 * [2024-02-24, 23:27:19](https://news.ycombinator.com/item?id=39496096) - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
-* [2024-02-24, 23:06:33](https://news.ycombinator.com/item?id=39495962) - [Korea fines Twitch $327k for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
 * [2024-02-24, 22:47:29](https://news.ycombinator.com/item?id=39495837) - [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
 * [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:38:04](https://news.ycombinator.com/item?id=39495355) - [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
