@@ -20,7 +20,6 @@
 * [2024-02-24, 20:06:39](https://news.ycombinator.com/item?id=39494728) - [David Hahn, the 'radioactive boy scout' who tried to build a nuclear reactor (2022)](https://allthatsinteresting.com/david-hahn)
 * [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-24, 18:40:36](https://news.ycombinator.com/item?id=39493989) - [A simple MUD server in Python which can be run on a Raspberry Pi](https://github.com/Frimkron/mud-pi)
-* [2024-02-24, 17:19:31](https://news.ycombinator.com/item?id=39493237) - [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
 * [2024-02-24, 17:17:41](https://news.ycombinator.com/item?id=39493219) - [Candy – a minimalistic functional programming language](https://github.com/candy-lang/candy)
 * [2024-02-24, 16:46:35](https://news.ycombinator.com/item?id=39492924) - [Ledger](https://lock.cmpxchg8b.com/ledger.html)
 * [2024-02-24, 15:41:51](https://news.ycombinator.com/item?id=39492323) - [The complete history of Gondar: Africa's city of castles (1636-1900)](https://www.africanhistoryextra.com/p/the-complete-history-of-gondar-africas)
@@ -29,6 +28,7 @@
 * [2024-02-24, 14:52:10](https://news.ycombinator.com/item?id=39491851) - [A giant meteorite has been lost in the desert since 1916](https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/)
 * [2024-02-24, 02:45:31](https://news.ycombinator.com/item?id=39488668) - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
+* [2024-02-23, 13:18:53](https://news.ycombinator.com/item?id=39480199) - [Synthetic images aid the recognition of human-made art forgeries](https://arxiv.org/abs/2312.14998)
 * [2024-02-23, 11:12:13](https://news.ycombinator.com/item?id=39479234) - [Three Interpretations of Matrix Products](https://www.linearalgebraforprogrammers.com/blog/matmul_animations)
 
 ## [Archives](archives/index.md)

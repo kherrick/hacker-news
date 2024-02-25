@@ -77,6 +77,7 @@
 * [2024-02-23, 13:32:30](https://news.ycombinator.com/item?id=39480341) - [Jim Keller criticizes Nvidia CUDA, x86 – 'CUDA's a swamp, not a moat, like x86'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
 * [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
 * [2024-02-23, 13:24:08](https://news.ycombinator.com/item?id=39480257) - [US intelligence casts doubt on Israeli claims of UNRWA-Hamas links, report says](https://www.theguardian.com/world/2024/feb/22/us-intelligence-unrwa-hamas)
+* [2024-02-23, 13:18:53](https://news.ycombinator.com/item?id=39480199) - [Synthetic images aid the recognition of human-made art forgeries](https://arxiv.org/abs/2312.14998)
 * [2024-02-23, 13:16:42](https://news.ycombinator.com/item?id=39480177) - [Shakespeare expert overturns fly-tipper myth about playwright's father](https://www.theguardian.com/culture/2024/feb/23/shakespeare-expert-overturns-fly-tipper-myth-about-playwrights-father)
 * [2024-02-23, 12:02:39](https://news.ycombinator.com/item?id=39479535) - [AI Is a 'Glorified Tape Recorder,' Says Theoretical Physicist Michio Kaku (2023)](https://observer.com/2023/08/michio-kaku-ai-chabot/)
 * [2024-02-23, 12:01:02](https://news.ycombinator.com/item?id=39479522) - [FlutterFlow (YC W21) Is Hiring](https://news.ycombinator.com/item?id=39479522)
