@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-25, 13:10:46](https://news.ycombinator.com/item?id=39500500) - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
-* [2024-02-25, 12:34:59](https://news.ycombinator.com/item?id=39500283) - [Mexico City may be just months away from running out of water](https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html)
+* [2024-02-25, 12:53:00](https://news.ycombinator.com/item?id=39500397) - [Building a Fly.io-Like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 11:35:50](https://news.ycombinator.com/item?id=39499974) - [How do startups building to detect deepfakes even compete?](https://news.ycombinator.com/item?id=39499974)
 * [2024-02-25, 10:57:42](https://news.ycombinator.com/item?id=39499734) - [I'm confused: what's with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
@@ -19,7 +19,6 @@
 * [2024-02-24, 23:27:19](https://news.ycombinator.com/item?id=39496096) - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
 * [2024-02-24, 23:07:44](https://news.ycombinator.com/item?id=39495973) - [Archival Floppy Disk Preservation and Use [video]](https://www.youtube.com/watch?v=UxsRpMdmlGo)
 * [2024-02-24, 22:48:42](https://news.ycombinator.com/item?id=39495846) - [Somaliland: A country shaped by poetry](https://www.noemamag.com/a-country-shaped-by-poetry/)
-* [2024-02-24, 21:57:33](https://news.ycombinator.com/item?id=39495476) - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 * [2024-02-24, 21:45:11](https://news.ycombinator.com/item?id=39495393) - [An Apple II emulator. On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
 * [2024-02-24, 21:38:04](https://news.ycombinator.com/item?id=39495355) - [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
 * [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
@@ -30,6 +29,7 @@
 * [2024-02-23, 13:37:25](https://news.ycombinator.com/item?id=39480398) - [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
 * [2024-02-23, 13:30:42](https://news.ycombinator.com/item?id=39480331) - [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
 * [2024-02-23, 13:18:53](https://news.ycombinator.com/item?id=39480199) - [Synthetic images aid the recognition of human-made art forgeries](https://arxiv.org/abs/2312.14998)
+* [2024-02-23, 11:12:13](https://news.ycombinator.com/item?id=39479234) - [Three interpretations of matrix products](https://www.linearalgebraforprogrammers.com/blog/matmul_animations)
 
 ## [Archives](archives/index.md)
 
