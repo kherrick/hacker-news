@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2024-02-25, 18:42:53",
-      "https://news.ycombinator.com/item?id=39503487"
-    ],
-    [
-      "A Girl and Her ViewBuilder",
-      "https://cuteios.dev/2024/01/10/viewbuilder.html"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 18:12:31",
       "https://news.ycombinator.com/item?id=39503193"
     ],
     [
       "Vega-Altair: Declarative Visualization in Python",
       "https://altair-viz.github.io/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 17:59:59",
-      "https://news.ycombinator.com/item?id=39503054"
-    ],
-    [
-      "Parasite infection is associated with entrepreneurship (2020)",
-      "https://journals.sagepub.com/doi/full/10.1177/1042258719890992"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "Ship faster by building design systems slower (2023)",
       "https://bigmedium.com/ideas/design-system-pace-layers-slow-fast.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 15:14:04",
+      "https://news.ycombinator.com/item?id=39501389"
+    ],
+    [
+      "Zero-rupee note",
+      "https://en.wikipedia.org/wiki/Zero-rupee_note"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2024-02-24, 11:14:31",
+      "https://news.ycombinator.com/item?id=39490740"
+    ],
+    [
+      "Abusing Conda's Turing-Complete YAML Comments",
+      "https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 17:45:01",
       "https://news.ycombinator.com/item?id=39483753"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-02-23, 13:30:42",
-      "https://news.ycombinator.com/item?id=39480331"
+      "2024-02-23, 13:37:25",
+      "https://news.ycombinator.com/item?id=39480398"
     ],
     [
-      "Tacit programming",
-      "https://en.wikipedia.org/wiki/Tacit_programming"
+      "Gemma, Ollama and LangChainGo",
+      "https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/"
     ]
   ]
 ]
