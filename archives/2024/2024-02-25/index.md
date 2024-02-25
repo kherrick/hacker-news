@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 13:10:46](https://news.ycombinator.com/item?id=39500500) - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-25, 12:35:37](https://news.ycombinator.com/item?id=39500286) - [When homes hit 40°C inside, it's better to draw on residents' local know-how](https://theconversation.com/when-homes-already-hit-40-c-inside-its-better-to-draw-on-residents-local-know-how-than-plan-for-climate-change-from-above-221870)
 * [2024-02-25, 12:34:59](https://news.ycombinator.com/item?id=39500283) - [One of the biggest cities may be just months away from running out of water](https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html)
 * [2024-02-25, 12:33:26](https://news.ycombinator.com/item?id=39500275) - [Is Emacs Dying?](https://irreal.org/blog/?p=11995)
