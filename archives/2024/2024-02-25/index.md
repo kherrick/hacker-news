@@ -8,6 +8,7 @@
 * [2024-02-25, 21:48:13](https://news.ycombinator.com/item?id=39505160) - [Steve Jobs adopted no 'bozos' policy – best managers those who never wanted job](https://www.aol.com/finance/steve-jobs-adopted-no-bozos-130000644.html)
 * [2024-02-25, 21:44:43](https://news.ycombinator.com/item?id=39505122) - [Google and Meta Function as Extensions of the US Intelligence Community](https://threadreaderapp.com/thread/1761567080988676256.html)
 * [2024-02-25, 21:27:41](https://news.ycombinator.com/item?id=39504940) - [Meta Staff Found Instagram Tool Enabled Child Exploitation. They Did It Anyway](https://www.wsj.com/tech/meta-staff-found-instagram-subscription-tool-enabled-child-exploitation-the-company-pressed-ahead-anyway-a18e81e6)
+* [2024-02-25, 21:17:53](https://news.ycombinator.com/item?id=39504859) - [Drawing and illustrating in the pre-digital time (2019)](https://www.daube.ch/docu/glossary/drawingtools.html)
 * [2024-02-25, 21:14:11](https://news.ycombinator.com/item?id=39504834) - [Polymaths Are Late Bloomers](https://www.overcomingbias.com/p/polymaths-are-late-bloomers)
 * [2024-02-25, 21:09:21](https://news.ycombinator.com/item?id=39504788) - [So Google's Gemini Doesn't Like Python Programming and Sanskrit?](https://new.pythonforengineers.com/blog/so-evidently/)
 * [2024-02-25, 21:08:35](https://news.ycombinator.com/item?id=39504780) - [Ask HN: Do LLMs get \"better\" with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
