@@ -7,6 +7,7 @@
 * [2024-02-25, 04:34:37](https://news.ycombinator.com/item?id=39497686) - [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
 * [2024-02-25, 04:10:20](https://news.ycombinator.com/item?id=39497541) - [Im Coder](https://www.fellipe.com/apps/im-coder/)
 * [2024-02-25, 04:09:26](https://news.ycombinator.com/item?id=39497532) - [Festival with 1k-year history ends in northeastern Japan](https://www.japantimes.co.jp/news/2024/02/18/japan/festival-with-1000-year-history-ends/)
+* [2024-02-25, 04:08:57](https://news.ycombinator.com/item?id=39497528) - [SF's Millennium Tower now may be sinking in the center](https://www.nbcbayarea.com/investigations/series/millennium-tower/san-francisco-millennium-tower-foundation-sinking/3460782/)
 * [2024-02-25, 04:06:57](https://news.ycombinator.com/item?id=39497515) - [A Prison Laptop from eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
 * [2024-02-25, 02:41:24](https://news.ycombinator.com/item?id=39497124) - [Career Advice Ryan Holiday Wishes He'd Known Earlier](https://ryanholiday.net/37-pieces-of-career-advice-i-wish-id-known-earlier/)
 * [2024-02-25, 02:37:56](https://news.ycombinator.com/item?id=39497110) - [Asynchronous Clean-Up (in Rust)](https://without.boats/blog/asynchronous-clean-up/)
