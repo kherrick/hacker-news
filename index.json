@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-25, 12:35:37",
-      "https://news.ycombinator.com/item?id=39500286"
-    ],
-    [
-      "When homes hit 40°C inside, it's better to draw on residents' local know-how",
-      "https://theconversation.com/when-homes-already-hit-40-c-inside-its-better-to-draw-on-residents-local-know-how-than-plan-for-climate-change-from-above-221870"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 12:34:59",
       "https://news.ycombinator.com/item?id=39500283"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-02-24, 21:38:04",
+      "https://news.ycombinator.com/item?id=39495355"
+    ],
+    [
+      "How Does Bluesky Work?",
+      "https://steveklabnik.com/writing/how-does-bluesky-work"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 21:01:59",
       "https://news.ycombinator.com/item?id=39495125"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-02-23, 13:37:25",
+      "https://news.ycombinator.com/item?id=39480398"
+    ],
+    [
+      "Gemma, Ollama and LangChainGo",
+      "https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 13:30:42",
       "https://news.ycombinator.com/item?id=39480331"
     ],
@@ -287,16 +297,6 @@
     [
       "Synthetic images aid the recognition of human-made art forgeries",
       "https://arxiv.org/abs/2312.14998"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 11:12:13",
-      "https://news.ycombinator.com/item?id=39479234"
-    ],
-    [
-      "Three Interpretations of Matrix Products",
-      "https://www.linearalgebraforprogrammers.com/blog/matmul_animations"
     ]
   ]
 ]
