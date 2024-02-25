@@ -8,6 +8,7 @@
 * [2024-02-25, 18:42:53](https://news.ycombinator.com/item?id=39503487) - [A Girl and Her ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html)
 * [2024-02-25, 18:28:06](https://news.ycombinator.com/item?id=39503344) - [Estimating association between Facebook adoption and well-being in 72 countries](https://royalsocietypublishing.org/doi/10.1098/rsos.221451)
 * [2024-02-25, 18:20:49](https://news.ycombinator.com/item?id=39503266) - [AAC and Debian](https://tookmund.com/2024/02/aac-and-debian)
+* [2024-02-25, 18:19:15](https://news.ycombinator.com/item?id=39503249) - [Sorry We Machines Destroyed Your Civilization in Such a Boring Way](https://www.mcsweeneys.net/articles/sorry-we-machines-destroyed-your-civilization-in-such-a-boring-way)
 * [2024-02-25, 18:14:12](https://news.ycombinator.com/item?id=39503205) - [Remove average karma, unvalued and maybe counterproductive](https://github.com/lobsters/lobsters/commit/ab604bcb1aa594458b6769469cd3289a9aa7e1f3)
 * [2024-02-25, 18:12:31](https://news.ycombinator.com/item?id=39503193) - [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)
 * [2024-02-25, 17:59:59](https://news.ycombinator.com/item?id=39503054) - [Parasite Infection is Associated with Entrepreneurship (2020)](https://journals.sagepub.com/doi/full/10.1177/1042258719890992)
