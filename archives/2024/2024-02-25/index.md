@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 15:54:01](https://news.ycombinator.com/item?id=39501801) - [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
+* [2024-02-25, 15:33:09](https://news.ycombinator.com/item?id=39501570) - [Why it took the US 51 years to get back on the moon](https://phys.org/news/2024-02-years-moon.html)
+* [2024-02-25, 15:23:41](https://news.ycombinator.com/item?id=39501474) - [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
+* [2024-02-25, 15:22:39](https://news.ycombinator.com/item?id=39501469) - [Ship Faster by Building Design Systems Slower](https://bigmedium.com/ideas/design-system-pace-layers-slow-fast.html)
 * [2024-02-25, 15:22:35](https://news.ycombinator.com/item?id=39501468) - [Egypt announces $35B deal with UAE to buy premium Mediterranean area](https://www.middleeasteye.net/news/egypt-announces-massive-35-billion-deal-uae-develop-ras-el-hekma-north-coast)
 * [2024-02-25, 15:14:04](https://news.ycombinator.com/item?id=39501389) - [Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
 * [2024-02-25, 14:58:51](https://news.ycombinator.com/item?id=39501281) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
