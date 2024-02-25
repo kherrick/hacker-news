@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-02-25, 18:28:06",
-      "https://news.ycombinator.com/item?id=39503344"
+      "2024-02-25, 19:14:02",
+      "https://news.ycombinator.com/item?id=39503777"
     ],
     [
-      "Estimating association between Facebook adoption and well-being in 72 countries",
-      "https://royalsocietypublishing.org/doi/10.1098/rsos.221451"
+      "Write Dumb Code",
+      "https://matthewrocklin.com/write-dumb-code.html"
     ]
   ],
   [
     [
-      "2024-02-25, 18:20:49",
-      "https://news.ycombinator.com/item?id=39503266"
+      "2024-02-25, 18:42:53",
+      "https://news.ycombinator.com/item?id=39503487"
     ],
     [
-      "AAC and Debian",
-      "https://tookmund.com/2024/02/aac-and-debian"
+      "A Girl and Her ViewBuilder",
+      "https://cuteios.dev/2024/01/10/viewbuilder.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 18:12:31",
+      "https://news.ycombinator.com/item?id=39503193"
+    ],
+    [
+      "Vega-Altair: Declarative Visualization in Python",
+      "https://altair-viz.github.io/index.html"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39503054"
     ],
     [
-      "Parasite Infection is Associated with Entrepreneurship (2020)",
+      "Parasite infection is associated with entrepreneurship (2020)",
       "https://journals.sagepub.com/doi/full/10.1177/1042258719890992"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Breakthrough discovery extracting 97% of EV battery cobalt with common chemicals",
       "https://pubs.acs.org/doi/10.1021/acsomega.2c07780"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 16:31:34",
-      "https://news.ycombinator.com/item?id=39502149"
-    ],
-    [
-      "Windows in a Docker Container",
-      "https://github.com/dockur/windows"
     ]
   ],
   [
