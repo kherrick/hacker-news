@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 19:18:50](https://news.ycombinator.com/item?id=39515678) - [Intuitive Machines' stock plummets after Moon lander tips over](https://www.reuters.com/technology/intuitive-machines-stock-plummets-after-moon-lander-tips-over-2024-02-26/)
+* [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
 * [2024-02-26, 18:15:30](https://news.ycombinator.com/item?id=39514844) - [Press Release: Future Software Should Be Memory Safe](https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/)
 * [2024-02-26, 18:15:26](https://news.ycombinator.com/item?id=39514843) - [I asked ChatGPT to summarize 14501 books in 5 bullet points. Here's the result](https://www.bookpecker.com/)
