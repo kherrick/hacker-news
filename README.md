@@ -6,7 +6,6 @@
 * [2024-02-25, 22:31:05](https://news.ycombinator.com/item?id=39505592) - [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
 * [2024-02-25, 21:31:30](https://news.ycombinator.com/item?id=39504981) - [Inside North Korea's Forced Labor Program](https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china)
 * [2024-02-25, 21:17:53](https://news.ycombinator.com/item?id=39504859) - [Drawing and illustrating in the pre-digital time (2019)](https://www.daube.ch/docu/glossary/drawingtools.html)
-* [2024-02-25, 21:14:11](https://news.ycombinator.com/item?id=39504834) - [Polymaths Are Late Bloomers](https://www.overcomingbias.com/p/polymaths-are-late-bloomers)
 * [2024-02-25, 21:03:14](https://news.ycombinator.com/item?id=39504715) - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 * [2024-02-25, 21:01:03](https://news.ycombinator.com/item?id=39504702) - [Bitboards and Connect Four](https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md)
 * [2024-02-25, 20:17:12](https://news.ycombinator.com/item?id=39504324) - [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
@@ -29,6 +28,7 @@
 * [2024-02-25, 12:31:38](https://news.ycombinator.com/item?id=39500263) - [You almost never see a clock at the mall](https://thehustle.co/originals/why-you-almost-never-see-a-clock-at-the-mall)
 * [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 17:32:29](https://news.ycombinator.com/item?id=39493363) - [Show HN: Justpath – a simple utility to explore the PATH environment variable](https://github.com/epogrebnyak/justpath)
+* [2024-02-24, 16:08:37](https://news.ycombinator.com/item?id=39492618) - [Frugly vs. Freemium](https://taylor.town/frugly)
 * [2024-02-24, 11:14:31](https://news.ycombinator.com/item?id=39490740) - [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
 
 ## [Archives](archives/index.md)
