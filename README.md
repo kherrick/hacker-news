@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-26, 10:54:54](https://news.ycombinator.com/item?id=39509818) - [Denmark ends Nord Stream blast investigation but blames deliberate sabotage](https://www.theguardian.com/world/live/2024/feb/26/russia-ukraine-war-live-missiles-drones-kharkiv-dnipropetrovsk-eu-leaders-summit-elysee-zelenskiy)
 * [2024-02-26, 10:33:00](https://news.ycombinator.com/item?id=39509645) - [Firsty.app – free 300kbit/s eSIM for US/EU](https://www.firsty.app/)
 * [2024-02-26, 10:11:36](https://news.ycombinator.com/item?id=39509506) - [Can confirm a current Broadcom VMware customer went from $8M renewal to $100M](https://twitter.com/cioontherun/status/1760770717040115988)
 * [2024-02-26, 09:59:42](https://news.ycombinator.com/item?id=39509414) - [An interactive guide to Fourier series](https://injuly.in/blog/fourier-series/index.html)
@@ -28,7 +29,6 @@
 * [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 17:32:29](https://news.ycombinator.com/item?id=39493363) - [Show HN: Justpath – a simple utility to explore the PATH environment variable](https://github.com/epogrebnyak/justpath)
 * [2024-02-24, 16:08:37](https://news.ycombinator.com/item?id=39492618) - [Frugly vs. Freemium](https://taylor.town/frugly)
-* [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
 
 ## [Archives](archives/index.md)
