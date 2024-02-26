@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 22:31:05](https://news.ycombinator.com/item?id=39505592) - [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
 * [2024-02-25, 21:50:32](https://news.ycombinator.com/item?id=39505178) - [Consumers are increasingly pushing back against price increases – and winning](https://thegrio.com/2024/02/25/consumers-respond-to-price-increases/)
 * [2024-02-25, 21:48:13](https://news.ycombinator.com/item?id=39505160) - [Steve Jobs adopted no 'bozos' policy – best managers those who never wanted job](https://www.aol.com/finance/steve-jobs-adopted-no-bozos-130000644.html)
 * [2024-02-25, 21:44:43](https://news.ycombinator.com/item?id=39505122) - [Google and Meta Function as Extensions of the US Intelligence Community](https://threadreaderapp.com/thread/1761567080988676256.html)
