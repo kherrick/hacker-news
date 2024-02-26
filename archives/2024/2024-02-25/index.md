@@ -101,6 +101,7 @@
 * [2024-02-25, 06:18:27](https://news.ycombinator.com/item?id=39498184) - [Microsoft tried to sell Bing to Apple in 2018, according to Google court filings](https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/)
 * [2024-02-25, 06:09:14](https://news.ycombinator.com/item?id=39498129) - [Documentation for the JSON Lines text file format](https://jsonlines.org/)
 * [2024-02-25, 05:50:57](https://news.ycombinator.com/item?id=39498047) - [Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
+* [2024-02-25, 05:19:08](https://news.ycombinator.com/item?id=39497907) - [What Do We Get Wrong About the Byzantine Empire?](https://www.historytoday.com/archive/head-head/what-do-we-get-wrong-about-byzantine-empire)
 * [2024-02-25, 04:34:37](https://news.ycombinator.com/item?id=39497686) - [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
 * [2024-02-25, 04:10:20](https://news.ycombinator.com/item?id=39497541) - [Im Coder](https://www.fellipe.com/apps/im-coder/)
 * [2024-02-25, 04:09:26](https://news.ycombinator.com/item?id=39497532) - [Festival with 1k-year history ends in northeastern Japan](https://www.japantimes.co.jp/news/2024/02/18/japan/festival-with-1000-year-history-ends/)
