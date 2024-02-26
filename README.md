@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-26, 14:41:05](https://news.ycombinator.com/item?id=39511732) - [Job Titles Are Bullshit](https://www.jvt.me/posts/2024/02/26/job-titles-bullshit/)
 * [2024-02-26, 14:25:05](https://news.ycombinator.com/item?id=39511530) - [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
-* [2024-02-26, 14:24:23](https://news.ycombinator.com/item?id=39511518) - [Fentanyl Is Killing American Kids. Most Don't Even Know They're Taking It](https://www.thefp.com/p/fentanyl-is-killing-american-kids)
+* [2024-02-26, 14:20:53](https://news.ycombinator.com/item?id=39511477) - [Mistral Large](https://mistral.ai/news/mistral-large/)
 * [2024-02-26, 12:56:01](https://news.ycombinator.com/item?id=39510756) - [The Disappointing Tea.xyz](https://connortumbleson.com/2024/02/26/the-disappointing-tea-xyz/)
 * [2024-02-26, 11:41:45](https://news.ycombinator.com/item?id=39510147) - [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
@@ -19,7 +20,6 @@
 * [2024-02-26, 03:02:30](https://news.ycombinator.com/item?id=39507230) - [FDA approves first medication to reduce allergic reactions to multiple foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
 * [2024-02-26, 02:06:41](https://news.ycombinator.com/item?id=39506929) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD (2016) [pdf]](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)
-* [2024-02-25, 23:21:32](https://news.ycombinator.com/item?id=39506000) - [The Snazzy D Compiler](https://github.com/snazzy-d/sdc)
 * [2024-02-25, 21:03:14](https://news.ycombinator.com/item?id=39504715) - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 * [2024-02-25, 20:18:42](https://news.ycombinator.com/item?id=39504342) - [Windsor Typeface (2018)](https://fontreviewjournal.com/windsor/)
 * [2024-02-25, 20:16:17](https://news.ycombinator.com/item?id=39504318) - [Ahab's Leg Dilemma](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1)
