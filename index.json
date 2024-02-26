@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-26, 10:11:36",
+      "https://news.ycombinator.com/item?id=39509506"
+    ],
+    [
+      "Can confirm a current Broadcom VMware customer went from $8M renewal to $100M",
+      "https://twitter.com/cioontherun/status/1760770717040115988"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 09:55:50",
+      "https://news.ycombinator.com/item?id=39509379"
+    ],
+    [
+      "Xkcd: Greenhouse Effect",
+      "https://xkcd.com/2889/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 08:50:49",
       "https://news.ycombinator.com/item?id=39508950"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2024-02-26, 06:46:09",
-      "https://news.ycombinator.com/item?id=39508257"
-    ],
-    [
-      "Home Screen Advantage",
-      "https://infrequently.org/2024/02/home-screen-advantage/"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 05:43:48",
       "https://news.ycombinator.com/item?id=39508002"
     ],
     [
       "Doom rendered via console.log() in a web browser",
       "https://github.com/MattCozendey/doom-console-log"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 03:36:22",
-      "https://news.ycombinator.com/item?id=39507402"
-    ],
-    [
-      "New car buying guide: the algorithm (2021)",
-      "https://github.com/kutinden/buyingacar/blob/main/README.md"
     ]
   ],
   [
@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2024-02-25, 19:14:02",
-      "https://news.ycombinator.com/item?id=39503777"
-    ],
-    [
-      "Write Dumb Code (2018)",
-      "https://matthewrocklin.com/write-dumb-code.html"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 16:45:03",
       "https://news.ycombinator.com/item?id=39502276"
     ],
     [
       "Coroutines in C (2000)",
       "https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 16:33:21",
+      "https://news.ycombinator.com/item?id=39502165"
+    ],
+    [
+      "Efficient recovery and recycling of cobalt from spent lithium-ion batteries",
+      "https://pubs.acs.org/doi/10.1021/acsomega.2c07780"
     ]
   ],
   [
