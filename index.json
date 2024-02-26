@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-26, 16:22:31",
+      "https://news.ycombinator.com/item?id=39513126"
+    ],
+    [
+      "Jstor is Now Available in 1k Prisons",
+      "https://about.jstor.org/news/jstor-available-in-1000-prisons/"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 16:20:18",
+      "https://news.ycombinator.com/item?id=39513092"
+    ],
+    [
+      "Ottawa to create regulator to hold platforms accountable for harmful content",
+      "https://www.cbc.ca/news/politics/online-harms-legislation-new-regulator-1.7125289"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 16:17:54",
       "https://news.ycombinator.com/item?id=39513054"
     ],
@@ -17,16 +37,6 @@
     [
       "It's now possible to find the AWS Account ID for any S3 Bucket (private too)",
       "https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 15:58:30",
-      "https://news.ycombinator.com/item?id=39512754"
-    ],
-    [
-      "\"Coding\" was never the source of value",
-      "https://twitter.com/id_aa_carmack/status/1762110222321975442"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Final images of Ingenuity reveal an entire blade broke off the helicopter",
       "https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 15:13:21",
-      "https://news.ycombinator.com/item?id=39512153"
-    ],
-    [
-      "Punk is dead and so are we",
-      "https://bananapeel.substack.com/p/punk-is-dead-and-so-are-we"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Calyx: Intermediate Language for Hardware Accelerators",
       "https://github.com/calyxir/calyx"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 12:56:01",
-      "https://news.ycombinator.com/item?id=39510756"
-    ],
-    [
-      "The Disappointing Tea.xyz",
-      "https://connortumbleson.com/2024/02/26/the-disappointing-tea-xyz/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: Free Certificate Monitoring via RSS",
       "https://raphting.dev/posts/monitor-rss/"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 02:06:41",
+      "https://news.ycombinator.com/item?id=39506929"
+    ],
+    [
+      "A History of the TTY",
+      "https://computer.rip/2024-02-25-a-history-of-the-tty.html"
     ]
   ],
   [
