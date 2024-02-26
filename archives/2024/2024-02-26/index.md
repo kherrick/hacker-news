@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 18:11:02](https://news.ycombinator.com/item?id=39514778) - [Ryzen Z1's Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
 * [2024-02-26, 17:33:06](https://news.ycombinator.com/item?id=39514192) - [Show HN: Darwin – Automate Your GitHub Project with AI](https://darwin-ai.dev)
 * [2024-02-26, 17:22:21](https://news.ycombinator.com/item?id=39514034) - [Show HN: Sqlbind a Python library to compose raw SQL](https://github.com/baverman/sqlbind)
 * [2024-02-26, 17:20:12](https://news.ycombinator.com/item?id=39514008) - [How have you found purpose in your life?](https://news.ycombinator.com/item?id=39514008)
