@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-26, 04:07:39](https://news.ycombinator.com/item?id=39507553) - [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
-* [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
 * [2024-02-26, 03:02:30](https://news.ycombinator.com/item?id=39507230) - [FDA Approves First Medication to Reduce Allergic Reactions to Multiple Foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
 * [2024-02-26, 02:06:41](https://news.ycombinator.com/item?id=39506929) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 01:05:01](https://news.ycombinator.com/item?id=39506622) - [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
 * [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
+* [2024-02-26, 00:11:24](https://news.ycombinator.com/item?id=39506344) - [Woman had no idea Apple was using her voice as the original Siri](https://supercarblondie.com/apple-siri-original-voice-actor/)
 * [2024-02-25, 23:21:32](https://news.ycombinator.com/item?id=39506000) - [The Snazzy D Compiler](https://github.com/snazzy-d/sdc)
 * [2024-02-25, 22:31:05](https://news.ycombinator.com/item?id=39505592) - [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
 * [2024-02-25, 21:31:30](https://news.ycombinator.com/item?id=39504981) - [Inside North Korea's Forced Labor Program](https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china)
