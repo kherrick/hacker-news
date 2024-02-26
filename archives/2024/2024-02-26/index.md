@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 18:15:30](https://news.ycombinator.com/item?id=39514844) - [Press Release: Future Software Should Be Memory Safe](https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/)
 * [2024-02-26, 18:15:26](https://news.ycombinator.com/item?id=39514843) - [I asked ChatGPT to summarize 14501 books in 5 bullet points. Here's the result](https://www.bookpecker.com/)
 * [2024-02-26, 18:11:02](https://news.ycombinator.com/item?id=39514778) - [Ryzen Z1's Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
 * [2024-02-26, 17:33:06](https://news.ycombinator.com/item?id=39514192) - [Show HN: Darwin – Automate Your GitHub Project with AI](https://darwin-ai.dev)
