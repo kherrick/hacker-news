@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-26, 02:07:21](https://news.ycombinator.com/item?id=39506931) - [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)
 * [2024-02-26, 01:05:01](https://news.ycombinator.com/item?id=39506622) - [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
 * [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
 * [2024-02-25, 22:31:05](https://news.ycombinator.com/item?id=39505592) - [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
@@ -28,7 +29,6 @@
 * [2024-02-25, 12:31:38](https://news.ycombinator.com/item?id=39500263) - [You almost never see a clock at the mall](https://thehustle.co/originals/why-you-almost-never-see-a-clock-at-the-mall)
 * [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 17:32:29](https://news.ycombinator.com/item?id=39493363) - [Show HN: Justpath – a simple utility to explore the PATH environment variable](https://github.com/epogrebnyak/justpath)
-* [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 11:14:31](https://news.ycombinator.com/item?id=39490740) - [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
 
 ## [Archives](archives/index.md)
