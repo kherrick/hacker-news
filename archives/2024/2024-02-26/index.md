@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
 * [2024-02-26, 16:17:54](https://news.ycombinator.com/item?id=39513054) - [Launch HN: Delve (YC W24) – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
+* [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [It's now possible to find the AWS Account ID for any S3 Bucket (private too)](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:58:30](https://news.ycombinator.com/item?id=39512754) - [\"Coding\" was never the source of value](https://twitter.com/id_aa_carmack/status/1762110222321975442)
+* [2024-02-26, 15:51:07](https://news.ycombinator.com/item?id=39512648) - [In Memoriam: Niklaus Wirth](https://cacm.acm.org/magazines/2024/3/280075-in-memoriam-niklaus-wirth/fulltext)
 * [2024-02-26, 15:37:59](https://news.ycombinator.com/item?id=39512481) - [Authy Desktop EOL moved from August 2024 to March 19 2024](https://support.authy.com/hc/en-us/articles/17592416719003-Business-customer-guide-End-of-Life-EOL-for-use-of-Authy-API-with-Twilio-Authy-Desktop-apps)
 * [2024-02-26, 15:27:12](https://news.ycombinator.com/item?id=39512346) - [Senior Boeing employee on why he won't fly a MAX: Just Get me Off This Plane](https://www.politico.com/news/magazine/2024/02/26/former-boeing-employee-speaks-out-00142948)
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A Bad Day at the Office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)

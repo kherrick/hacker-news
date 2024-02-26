@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-26, 16:17:54](https://news.ycombinator.com/item?id=39513054) - [Launch HN: Delve (YC W24) – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
+* [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [It's now possible to find the AWS Account ID for any S3 Bucket (private too)](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:58:30](https://news.ycombinator.com/item?id=39512754) - [\"Coding\" was never the source of value](https://twitter.com/id_aa_carmack/status/1762110222321975442)
+* [2024-02-26, 15:51:07](https://news.ycombinator.com/item?id=39512648) - [In Memoriam: Niklaus Wirth](https://cacm.acm.org/magazines/2024/3/280075-in-memoriam-niklaus-wirth/fulltext)
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
 * [2024-02-26, 15:24:09](https://news.ycombinator.com/item?id=39512299) - [What lengths will Chinese companies go to get an Nvidia A100 chip?](https://chinai.substack.com/p/chinai-255-panic-buying-speculative)
 * [2024-02-26, 15:19:42](https://news.ycombinator.com/item?id=39512230) - [Final images of Ingenuity reveal an entire blade broke off the helicopter](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/)
@@ -23,8 +25,6 @@
 * [2024-02-26, 09:15:54](https://news.ycombinator.com/item?id=39509156) - [All Aboard the Bureaucracy Train](https://asteriskmag.com/issues/05/all-aboard-the-bureaucracy-train)
 * [2024-02-26, 08:57:45](https://news.ycombinator.com/item?id=39509012) - [Insecure Features in PDFs (2021)](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
 * [2024-02-26, 07:51:35](https://news.ycombinator.com/item?id=39508626) - [Show HN: Free Certificate Monitoring via RSS](https://raphting.dev/posts/monitor-rss/)
-* [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
-* [2024-02-26, 02:06:41](https://news.ycombinator.com/item?id=39506929) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-25, 20:19:31](https://news.ycombinator.com/item?id=39504351) - [Marilyn vos Savant and the Monty Hall Problem (2015)](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
 * [2024-02-25, 20:18:42](https://news.ycombinator.com/item?id=39504342) - [Windsor Typeface (2018)](https://fontreviewjournal.com/windsor/)
 * [2024-02-25, 20:16:17](https://news.ycombinator.com/item?id=39504318) - [Ahab's Leg Dilemma](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1)
