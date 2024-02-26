@@ -20,7 +20,6 @@
 * [2024-02-25, 20:17:12](https://news.ycombinator.com/item?id=39504324) - [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
 * [2024-02-25, 20:11:48](https://news.ycombinator.com/item?id=39504279) - [The oldest hackies tell it like it was (1966)](http://www.thestacksreader.com/the-oldest-hackies-tell-it-like-it-was-and-is/)
 * [2024-02-25, 20:10:32](https://news.ycombinator.com/item?id=39504271) - [In Search of the Last Saola](https://ensia.com/features/saola-endangered-conservation-biodiversity-annamite-mountains-southeast-asia/)
-* [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 * [2024-02-25, 14:00:15](https://news.ycombinator.com/item?id=39500880) - [Patterns of Software (1996) [pdf]](https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf)
@@ -29,6 +28,7 @@
 * [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 17:32:29](https://news.ycombinator.com/item?id=39493363) - [Show HN: Justpath – a simple utility to explore the PATH environment variable](https://github.com/epogrebnyak/justpath)
 * [2024-02-24, 16:08:37](https://news.ycombinator.com/item?id=39492618) - [Frugly vs. Freemium](https://taylor.town/frugly)
+* [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
 
 ## [Archives](archives/index.md)
