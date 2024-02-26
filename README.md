@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-26, 20:59:16](https://news.ycombinator.com/item?id=39516720) - [De-Googlify the Internet](https://degooglisons-internet.org/en/)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
 * [2024-02-26, 18:11:02](https://news.ycombinator.com/item?id=39514778) - [Ryzen Z1's Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
@@ -9,7 +10,6 @@
 * [2024-02-26, 16:17:36](https://news.ycombinator.com/item?id=39513051) - [What a major solar storm could do](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
 * [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [How to find the AWS account ID of any S3 bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
-* [2024-02-26, 15:19:42](https://news.ycombinator.com/item?id=39512230) - [Final images of Ingenuity reveal an entire blade broke off the helicopter](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/)
 * [2024-02-26, 15:12:37](https://news.ycombinator.com/item?id=39512140) - [David Milch’s disembodied writing process](https://masoncurrey.substack.com/p/david-milch-disembodied-writing-process)
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
