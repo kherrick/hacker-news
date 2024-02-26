@@ -10,6 +10,7 @@
 * [2024-02-26, 16:17:36](https://news.ycombinator.com/item?id=39513051) - [What a major solar storm could do](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
 * [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [How to find the AWS account ID of any S3 bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
+* [2024-02-26, 15:19:42](https://news.ycombinator.com/item?id=39512230) - [Final images of Ingenuity reveal an entire blade broke off the helicopter](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/)
 * [2024-02-26, 15:12:37](https://news.ycombinator.com/item?id=39512140) - [David Milch’s disembodied writing process](https://masoncurrey.substack.com/p/david-milch-disembodied-writing-process)
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
@@ -29,7 +30,6 @@
 * [2024-02-25, 20:14:36](https://news.ycombinator.com/item?id=39504304) - [Notes on paper (2023)](https://voussoir.net/writing/notes_on_paper)
 * [2024-02-25, 13:18:17](https://news.ycombinator.com/item?id=39500565) - [Pydantic-resolve, a hierarchical solution for data fetching and processing](https://github.com/allmonday/pydantic-resolve)
 * [2024-02-25, 06:44:43](https://news.ycombinator.com/item?id=39498281) - [ViHN: Vim for Hacker News](https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/)
-* [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
 
 ## [Archives](archives/index.md)
 
