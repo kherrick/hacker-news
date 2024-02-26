@@ -20,7 +20,6 @@
 * [2024-02-26, 11:41:45](https://news.ycombinator.com/item?id=39510147) - [Pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 * [2024-02-26, 10:50:59](https://news.ycombinator.com/item?id=39509772) - [Porting Sweet 16 (2004)](http://www.6502.org/source/interpreters/sweet16.htm)
-* [2024-02-26, 10:45:57](https://news.ycombinator.com/item?id=39509730) - [Handedness as a determinant of lateral bias in human functional cradling (2023)](https://onlinelibrary.wiley.com/doi/10.1111/infa.12572)
 * [2024-02-26, 10:20:42](https://news.ycombinator.com/item?id=39509560) - [The Real-World Locations of 14 Sci-Fi Dystopias (2014)](https://www.atlasobscura.com/articles/the-real-world-locations-used-in-fourteen-film-dystopias)
 * [2024-02-26, 09:40:27](https://news.ycombinator.com/item?id=39509287) - [Fractal Scaling and the Aesthetics of Trees](http://www.arxiv.org/abs/2402.13520)
 * [2024-02-26, 09:15:54](https://news.ycombinator.com/item?id=39509156) - [All Aboard the Bureaucracy Train](https://asteriskmag.com/issues/05/all-aboard-the-bureaucracy-train)
@@ -28,6 +27,7 @@
 * [2024-02-26, 07:51:35](https://news.ycombinator.com/item?id=39508626) - [Show HN: Free Certificate Monitoring via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-25, 20:19:31](https://news.ycombinator.com/item?id=39504351) - [Marilyn vos Savant and the Monty Hall Problem (2015)](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
 * [2024-02-25, 20:18:42](https://news.ycombinator.com/item?id=39504342) - [Windsor Typeface (2018)](https://fontreviewjournal.com/windsor/)
+* [2024-02-25, 13:18:17](https://news.ycombinator.com/item?id=39500565) - [Pydantic-resolve, a hierarchical solution for data fetching and processing](https://github.com/allmonday/pydantic-resolve)
 * [2024-02-25, 06:44:43](https://news.ycombinator.com/item?id=39498281) - [ViHN: Vim for Hacker News](https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/)
 * [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
 

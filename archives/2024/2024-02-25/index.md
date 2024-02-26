@@ -67,6 +67,7 @@
 * [2024-02-25, 14:17:09](https://news.ycombinator.com/item?id=39501001) - [Seaborn bug responsible for finding of declining disruptiveness in science](https://arxiv.org/abs/2402.14583)
 * [2024-02-25, 14:01:43](https://news.ycombinator.com/item?id=39500886) - [fd, xargs, bat = quick document review](https://hiandrewquinn.github.io/til-site/posts/fd-bat-quick-document-review/)
 * [2024-02-25, 14:00:15](https://news.ycombinator.com/item?id=39500880) - [Patterns of Software (1996) [pdf]](https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf)
+* [2024-02-25, 13:18:17](https://news.ycombinator.com/item?id=39500565) - [Pydantic-resolve, a hierarchical solution for data fetching and processing](https://github.com/allmonday/pydantic-resolve)
 * [2024-02-25, 13:10:46](https://news.ycombinator.com/item?id=39500500) - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-25, 12:53:00](https://news.ycombinator.com/item?id=39500397) - [Building a Fly.io-Like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 12:52:13](https://news.ycombinator.com/item?id=39500386) - [It's OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
