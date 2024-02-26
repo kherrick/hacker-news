@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-26, 05:23:18](https://news.ycombinator.com/item?id=39507926) - [I tried to create a newer version of 1k True Fans](https://thesocialjuice.substack.com/p/a-tldr-list-of-my-favourite-marketing)
 * [2024-02-26, 04:57:07](https://news.ycombinator.com/item?id=39507831) - [Ask HN: What do I do with my side projects?](https://news.ycombinator.com/item?id=39507831)
+* [2024-02-26, 04:42:39](https://news.ycombinator.com/item?id=39507758) - [Disillusioned with Deno](https://www.baldurbjarnason.com/2024/disillusioned-with-deno/)
 * [2024-02-26, 04:07:39](https://news.ycombinator.com/item?id=39507553) - [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
 * [2024-02-26, 03:57:27](https://news.ycombinator.com/item?id=39507477) - [Best Rain Jackets in the World Will Soon Be Illegal](https://www.outsideonline.com/outdoor-adventure/environment/forever-chemicals-pfas/)
 * [2024-02-26, 03:02:30](https://news.ycombinator.com/item?id=39507230) - [FDA Approves First Medication to Reduce Allergic Reactions to Multiple Foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
 * [2024-02-26, 02:06:41](https://news.ycombinator.com/item?id=39506929) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
-* [2024-02-26, 01:05:01](https://news.ycombinator.com/item?id=39506622) - [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
 * [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
 * [2024-02-25, 23:21:32](https://news.ycombinator.com/item?id=39506000) - [The Snazzy D Compiler](https://github.com/snazzy-d/sdc)
 * [2024-02-25, 22:31:05](https://news.ycombinator.com/item?id=39505592) - [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
@@ -29,7 +30,6 @@
 * [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 17:32:29](https://news.ycombinator.com/item?id=39493363) - [Show HN: Justpath – a simple utility to explore the PATH environment variable](https://github.com/epogrebnyak/justpath)
 * [2024-02-24, 16:08:37](https://news.ycombinator.com/item?id=39492618) - [Frugly vs. Freemium](https://taylor.town/frugly)
-* [2024-02-24, 11:14:31](https://news.ycombinator.com/item?id=39490740) - [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
 
 ## [Archives](archives/index.md)
 
