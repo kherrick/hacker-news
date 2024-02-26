@@ -14,6 +14,7 @@
 * [2024-02-26, 17:13:36](https://news.ycombinator.com/item?id=39513901) - [\"I always saw myself as an engineer\" – Part 1/3](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2021/11/niklaus-wirth-video-interview.html)
 * [2024-02-26, 17:12:00](https://news.ycombinator.com/item?id=39513874) - [\"The incomprehensible should cause suspicion rather than admiration\"](https://computerhistory.org/profile/niklaus-wirth/)
 * [2024-02-26, 16:46:05](https://news.ycombinator.com/item?id=39513493) - [Firearms vs. Armour in the Late Middle Ages and Renaissance](https://thefatefulforce.com/firearms-vs-armour-in-the-late-middle-ages-and-renaissance/)
+* [2024-02-26, 16:43:40](https://news.ycombinator.com/item?id=39513451) - [I got to see the IRS' free tax-filing software in action. Here's what I learned](https://www.vox.com/future-perfect/24071005/irs-direct-file-free-tax-software-turbotax-review)
 * [2024-02-26, 16:42:07](https://news.ycombinator.com/item?id=39513427) - [I Use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
 * [2024-02-26, 16:22:31](https://news.ycombinator.com/item?id=39513126) - [Jstor is Now Available in 1k Prisons](https://about.jstor.org/news/jstor-available-in-1000-prisons/)
 * [2024-02-26, 16:20:18](https://news.ycombinator.com/item?id=39513092) - [Ottawa to create regulator to hold platforms accountable for harmful content](https://www.cbc.ca/news/politics/online-harms-legislation-new-regulator-1.7125289)
