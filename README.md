@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-26, 20:59:16](https://news.ycombinator.com/item?id=39516720) - [De-Googlify the Internet](https://degooglisons-internet.org/en/)
+* [2024-02-26, 19:58:52](https://news.ycombinator.com/item?id=39516091) - [Package Dependency Hell](https://www.ramijames.com/thoughts/package-dependency-hell)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
 * [2024-02-26, 18:11:02](https://news.ycombinator.com/item?id=39514778) - [Ryzen Z1's Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
