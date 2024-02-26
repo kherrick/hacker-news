@@ -3,7 +3,7 @@
 * [2024-02-26, 08:50:49](https://news.ycombinator.com/item?id=39508950) - [AI Infrastructure Landscape](https://ai-infra.fun/)
 * [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:46:09](https://news.ycombinator.com/item?id=39508257) - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
-* [2024-02-26, 05:43:48](https://news.ycombinator.com/item?id=39508002) - [console.log(DOOM)](https://github.com/MattCozendey/doom-console-log)
+* [2024-02-26, 05:43:48](https://news.ycombinator.com/item?id=39508002) - [Doom rendered via console.log() in a web browser](https://github.com/MattCozendey/doom-console-log)
 * [2024-02-26, 03:36:22](https://news.ycombinator.com/item?id=39507402) - [New car buying guide: the algorithm (2021)](https://github.com/kutinden/buyingacar/blob/main/README.md)
 * [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [A drone that calculates coordinates using a camera and Google Maps](https://twitter.com/ilaffey2/status/1759353732075294766)
 * [2024-02-26, 03:02:30](https://news.ycombinator.com/item?id=39507230) - [FDA approves first medication to reduce allergic reactions to multiple foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
@@ -28,7 +28,7 @@
 * [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 17:32:29](https://news.ycombinator.com/item?id=39493363) - [Show HN: Justpath – a simple utility to explore the PATH environment variable](https://github.com/epogrebnyak/justpath)
 * [2024-02-24, 16:08:37](https://news.ycombinator.com/item?id=39492618) - [Frugly vs. Freemium](https://taylor.town/frugly)
-* [2024-02-24, 11:14:31](https://news.ycombinator.com/item?id=39490740) - [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
+* [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
 
 ## [Archives](archives/index.md)
