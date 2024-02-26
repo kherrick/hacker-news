@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-02-26, 04:57:07",
-      "https://news.ycombinator.com/item?id=39507831"
-    ],
-    [
-      "Ask HN: What do I do with my side projects?",
-      "https://news.ycombinator.com/item?id=39507831"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 03:36:22",
       "https://news.ycombinator.com/item?id=39507402"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39506622"
     ],
     [
-      "Stress Reduction Techniques for High Stress Operations",
+      "Stress reduction techniques for high stress operations (2023)",
       "https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Efficient recovery and recycling of cobalt from spent lithium-ion batteries",
       "https://pubs.acs.org/doi/10.1021/acsomega.2c07780"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 14:58:51",
+      "https://news.ycombinator.com/item?id=39501281"
+    ],
+    [
+      "Osquery: An sqlite3 virtual table exposing operating system data to SQL",
+      "https://osquery.io/"
     ]
   ],
   [
