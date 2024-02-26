@@ -85,6 +85,7 @@
 * [2024-02-25, 09:06:34](https://news.ycombinator.com/item?id=39499055) - [My attempt at Gitlab PR review environments with Nomad](https://blog.mattsbit.co.uk/2024/02/22/gitlab-ephemeral-environments-for-pull-requests/)
 * [2024-02-25, 08:39:47](https://news.ycombinator.com/item?id=39498863) - [TSMC is having more luck building in Japan than in America](https://www.economist.com/business/2024/02/22/tsmc-is-having-more-luck-building-in-japan-than-in-america)
 * [2024-02-25, 07:49:09](https://news.ycombinator.com/item?id=39498555) - [What Restoring a 30-Year-Old Nintendo Taught Me About Right to Repair](https://debugger.medium.com/what-restoring-a-30-year-old-nintendo-taught-me-about-right-to-repair-3bffdf548f6d)
+* [2024-02-25, 07:46:56](https://news.ycombinator.com/item?id=39498541) - [Ask HN: Question about CTR, conversions, and validation](https://news.ycombinator.com/item?id=39498541)
 * [2024-02-25, 07:27:23](https://news.ycombinator.com/item?id=39498456) - [On Handwriting and Switching to Cursive](https://brianschrader.com/archive/on-handwriting-and-switching-to-cursive/)
 * [2024-02-25, 07:01:38](https://news.ycombinator.com/item?id=39498345) - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
 * [2024-02-25, 06:44:05](https://news.ycombinator.com/item?id=39498279) - [Respawn Studio Reportedly Developing FPS Bounty Hunting Mandolorian Game](https://playstationcouch.com/post.php?id=160)
