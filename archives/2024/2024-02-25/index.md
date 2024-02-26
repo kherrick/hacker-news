@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 23:21:32](https://news.ycombinator.com/item?id=39506000) - [The Snazzy D Compiler](https://github.com/snazzy-d/sdc)
 * [2024-02-25, 22:31:05](https://news.ycombinator.com/item?id=39505592) - [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
 * [2024-02-25, 21:50:32](https://news.ycombinator.com/item?id=39505178) - [Consumers are increasingly pushing back against price increases – and winning](https://thegrio.com/2024/02/25/consumers-respond-to-price-increases/)
 * [2024-02-25, 21:48:13](https://news.ycombinator.com/item?id=39505160) - [Steve Jobs adopted no 'bozos' policy – best managers those who never wanted job](https://www.aol.com/finance/steve-jobs-adopted-no-bozos-130000644.html)
