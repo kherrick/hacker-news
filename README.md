@@ -3,7 +3,7 @@
 * [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:46:09](https://news.ycombinator.com/item?id=39508257) - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 * [2024-02-26, 03:36:22](https://news.ycombinator.com/item?id=39507402) - [New car buying guide: the algorithm (2021)](https://github.com/kutinden/buyingacar/blob/main/README.md)
-* [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [A drone that calculates GPS coordinates using a camera and Google Maps](https://twitter.com/ilaffey2/status/1759353732075294766)
+* [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [A drone that calculates coordinates using a camera and Google Maps](https://twitter.com/ilaffey2/status/1759353732075294766)
 * [2024-02-26, 03:02:30](https://news.ycombinator.com/item?id=39507230) - [FDA approves first medication to reduce allergic reactions to multiple foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
 * [2024-02-26, 02:06:41](https://news.ycombinator.com/item?id=39506929) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 01:05:01](https://news.ycombinator.com/item?id=39506622) - [Stress reduction techniques for high stress operations (2023)](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
