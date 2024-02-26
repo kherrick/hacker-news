@@ -20,7 +20,7 @@
 * [2024-02-26, 02:06:41](https://news.ycombinator.com/item?id=39506929) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD (2016) [pdf]](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)
 * [2024-02-25, 23:21:32](https://news.ycombinator.com/item?id=39506000) - [The Snazzy D Compiler](https://github.com/snazzy-d/sdc)
-* [2024-02-25, 21:17:53](https://news.ycombinator.com/item?id=39504859) - [Drawing and illustrating in the pre-digital time (2019)](https://www.daube.ch/docu/glossary/drawingtools.html)
+* [2024-02-25, 21:03:14](https://news.ycombinator.com/item?id=39504715) - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 * [2024-02-25, 20:16:17](https://news.ycombinator.com/item?id=39504318) - [Ahab's Leg Dilemma](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1)
 * [2024-02-25, 20:11:48](https://news.ycombinator.com/item?id=39504279) - [The oldest hackies tell it like it was (1966)](http://www.thestacksreader.com/the-oldest-hackies-tell-it-like-it-was-and-is/)
 * [2024-02-25, 14:00:15](https://news.ycombinator.com/item?id=39500880) - [Patterns of Software (1996) [pdf]](https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf)
