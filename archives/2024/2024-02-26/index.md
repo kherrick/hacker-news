@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
 * [2024-02-26, 18:15:30](https://news.ycombinator.com/item?id=39514844) - [Press Release: Future Software Should Be Memory Safe](https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/)
 * [2024-02-26, 18:15:26](https://news.ycombinator.com/item?id=39514843) - [I asked ChatGPT to summarize 14501 books in 5 bullet points. Here's the result](https://www.bookpecker.com/)
 * [2024-02-26, 18:11:02](https://news.ycombinator.com/item?id=39514778) - [Ryzen Z1's Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
@@ -11,6 +12,7 @@
 * [2024-02-26, 17:22:21](https://news.ycombinator.com/item?id=39514034) - [Show HN: Sqlbind a Python library to compose raw SQL](https://github.com/baverman/sqlbind)
 * [2024-02-26, 17:20:12](https://news.ycombinator.com/item?id=39514008) - [How have you found purpose in your life?](https://news.ycombinator.com/item?id=39514008)
 * [2024-02-26, 17:13:36](https://news.ycombinator.com/item?id=39513901) - [\"I always saw myself as an engineer\" – Part 1/3](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2021/11/niklaus-wirth-video-interview.html)
+* [2024-02-26, 17:12:00](https://news.ycombinator.com/item?id=39513874) - [\"The incomprehensible should cause suspicion rather than admiration\"](https://computerhistory.org/profile/niklaus-wirth/)
 * [2024-02-26, 16:46:05](https://news.ycombinator.com/item?id=39513493) - [Firearms vs. Armour in the Late Middle Ages and Renaissance](https://thefatefulforce.com/firearms-vs-armour-in-the-late-middle-ages-and-renaissance/)
 * [2024-02-26, 16:42:07](https://news.ycombinator.com/item?id=39513427) - [I Use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
 * [2024-02-26, 16:22:31](https://news.ycombinator.com/item?id=39513126) - [Jstor is Now Available in 1k Prisons](https://about.jstor.org/news/jstor-available-in-1000-prisons/)
