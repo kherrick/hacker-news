@@ -9,6 +9,7 @@
 * [2024-02-26, 04:42:39](https://news.ycombinator.com/item?id=39507758) - [Disillusioned with Deno](https://www.baldurbjarnason.com/2024/disillusioned-with-deno/)
 * [2024-02-26, 04:07:39](https://news.ycombinator.com/item?id=39507553) - [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
 * [2024-02-26, 03:57:27](https://news.ycombinator.com/item?id=39507477) - [Best Rain Jackets in the World Will Soon Be Illegal](https://www.outsideonline.com/outdoor-adventure/environment/forever-chemicals-pfas/)
+* [2024-02-26, 03:36:22](https://news.ycombinator.com/item?id=39507402) - [New car buying guide: the algorithm](https://github.com/kutinden/buyingacar/blob/main/README.md)
 * [2024-02-26, 03:15:28](https://news.ycombinator.com/item?id=39507287) - [Chemical Species](https://en.wikipedia.org/wiki/Chemical_species)
 * [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
 * [2024-02-26, 03:02:30](https://news.ycombinator.com/item?id=39507230) - [FDA Approves First Medication to Reduce Allergic Reactions to Multiple Foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
