@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 20:00:25](https://news.ycombinator.com/item?id=39516108) - [Apple's decision to drop iPhone web apps comes under scrutiny in the EU](https://www.theverge.com/2024/2/26/24083511/apple-eu-investigation-web-app-support)
 * [2024-02-26, 19:18:50](https://news.ycombinator.com/item?id=39515678) - [Intuitive Machines' stock plummets after Moon lander tips over](https://www.reuters.com/technology/intuitive-machines-stock-plummets-after-moon-lander-tips-over-2024-02-26/)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
