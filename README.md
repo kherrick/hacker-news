@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-26, 13:46:23](https://news.ycombinator.com/item?id=39511176) - [For Car Thieves, Toronto Is a 'Candy Store,' and Drivers Are Fed Up](https://www.nytimes.com/2024/02/24/world/canada/toronto-car-theft-epidemic.html)
+* [2024-02-26, 14:25:05](https://news.ycombinator.com/item?id=39511530) - [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
+* [2024-02-26, 14:24:23](https://news.ycombinator.com/item?id=39511518) - [Fentanyl Is Killing American Kids. Most Don't Even Know They're Taking It](https://www.thefp.com/p/fentanyl-is-killing-american-kids)
 * [2024-02-26, 12:56:01](https://news.ycombinator.com/item?id=39510756) - [The Disappointing Tea.xyz](https://connortumbleson.com/2024/02/26/the-disappointing-tea-xyz/)
 * [2024-02-26, 11:41:45](https://news.ycombinator.com/item?id=39510147) - [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
@@ -11,7 +12,6 @@
 * [2024-02-26, 10:20:42](https://news.ycombinator.com/item?id=39509560) - [The Real-World Locations of 14 Sci-Fi Dystopias](https://www.atlasobscura.com/articles/the-real-world-locations-used-in-fourteen-film-dystopias)
 * [2024-02-26, 09:59:42](https://news.ycombinator.com/item?id=39509414) - [An interactive guide to Fourier series (2022)](https://injuly.in/blog/fourier-series/index.html)
 * [2024-02-26, 09:15:54](https://news.ycombinator.com/item?id=39509156) - [All Aboard the Bureaucracy Train](https://asteriskmag.com/issues/05/all-aboard-the-bureaucracy-train)
-* [2024-02-26, 08:50:49](https://news.ycombinator.com/item?id=39508950) - [AI Infrastructure Landscape](https://ai-infra.fun/)
 * [2024-02-26, 08:12:00](https://news.ycombinator.com/item?id=39508703) - [Early immunotherapy for Crohn’s disease significantly reduces complications](https://newatlas.com/medical/crohns-disease-treatment/)
 * [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 05:43:48](https://news.ycombinator.com/item?id=39508002) - [DOOM rendered via console.log() in a web browser](https://github.com/MattCozendey/doom-console-log)
