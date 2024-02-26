@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-26, 08:32:20](https://news.ycombinator.com/item?id=39508833) - [Losing Trust in Google](https://twitter.com/mjuric/status/1761981816125469064)
 * [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:46:09](https://news.ycombinator.com/item?id=39508257) - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 * [2024-02-26, 05:43:48](https://news.ycombinator.com/item?id=39508002) - [console.log(DOOM)](https://github.com/MattCozendey/doom-console-log)
@@ -17,8 +16,9 @@
 * [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
 * [2024-02-25, 19:14:02](https://news.ycombinator.com/item?id=39503777) - [Write Dumb Code (2018)](https://matthewrocklin.com/write-dumb-code.html)
-* [2024-02-25, 18:12:31](https://news.ycombinator.com/item?id=39503193) - [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)
 * [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+* [2024-02-25, 16:33:21](https://news.ycombinator.com/item?id=39502165) - [Efficient recovery and recycling of cobalt from spent lithium-ion batteries](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
+* [2024-02-25, 14:58:51](https://news.ycombinator.com/item?id=39501281) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 * [2024-02-25, 12:52:13](https://news.ycombinator.com/item?id=39500386) - [It's OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
 * [2024-02-25, 10:52:20](https://news.ycombinator.com/item?id=39499704) - [How to Change a System](https://www.enablingchange.com.au/blog/strategy-2/how-to-change-a-system/)
@@ -27,7 +27,7 @@
 * [2024-02-24, 21:42:00](https://news.ycombinator.com/item?id=39495378) - [TOTP Codes in the Terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 17:32:29](https://news.ycombinator.com/item?id=39493363) - [Show HN: Justpath – a simple utility to explore the PATH environment variable](https://github.com/epogrebnyak/justpath)
 * [2024-02-24, 16:08:37](https://news.ycombinator.com/item?id=39492618) - [Frugly vs. Freemium](https://taylor.town/frugly)
-* [2024-02-24, 11:57:42](https://news.ycombinator.com/item?id=39490892) - [Life Aboard a Nuclear Submarine](https://www.vanityfair.com/news/life-aboard-a-nuclear-submarine)
+* [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 11:14:31](https://news.ycombinator.com/item?id=39490740) - [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
 * [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
 
