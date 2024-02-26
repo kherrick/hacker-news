@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2024-02-26, 04:07:39",
-      "https://news.ycombinator.com/item?id=39507553"
-    ],
-    [
-      "Business Narrative Strategy",
-      "https://tomcritchlow.com/2024/02/16/narrative-strategy/"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 03:36:22",
       "https://news.ycombinator.com/item?id=39507402"
     ],
     [
-      "New car buying guide: the algorithm",
+      "New car buying guide: the algorithm (2021)",
       "https://github.com/kutinden/buyingacar/blob/main/README.md"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "A History of the TTY",
       "https://computer.rip/2024-02-25-a-history-of-the-tty.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 01:05:01",
+      "https://news.ycombinator.com/item?id=39506622"
+    ],
+    [
+      "Stress Reduction Techniques for High Stress Operations",
+      "https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2024-02-25, 16:16:17",
-      "https://news.ycombinator.com/item?id=39501982"
+      "2024-02-25, 14:58:51",
+      "https://news.ycombinator.com/item?id=39501281"
     ],
     [
-      "Mamba Explained: The State Space Model Taking On Transformers",
-      "https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html"
+      "Osquery: An sqlite3 virtual table exposing operating system data to SQL",
+      "https://osquery.io/"
     ]
   ],
   [
