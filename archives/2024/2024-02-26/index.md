@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 22:23:59](https://news.ycombinator.com/item?id=39517455) - [Ask HN: Why do recommender systems not seem good?](https://news.ycombinator.com/item?id=39517455)
 * [2024-02-26, 21:50:37](https://news.ycombinator.com/item?id=39517145) - [Why Jalapeño Peppers Are Less Spicy Than Ever](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
 * [2024-02-26, 21:50:23](https://news.ycombinator.com/item?id=39517139) - [Shell, Awk, and Make Should Be Combined (2016)](https://www.oilshell.org/blog/2016/11/13.html)
 * [2024-02-26, 21:36:25](https://news.ycombinator.com/item?id=39517016) - [Mistral Remove \"Committing to open models\" from their website](https://old.reddit.com/r/LocalLLaMA/comments/1b0o41v/top_10_betrayals_in_anime_history/)
 * [2024-02-26, 21:25:18](https://news.ycombinator.com/item?id=39516927) - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
 * [2024-02-26, 20:59:16](https://news.ycombinator.com/item?id=39516720) - [De-Googlify the Internet](https://degooglisons-internet.org/en/)
+* [2024-02-26, 20:22:06](https://news.ycombinator.com/item?id=39516312) - [Goodhart's Law](https://xkcd.com/2899/)
 * [2024-02-26, 20:01:43](https://news.ycombinator.com/item?id=39516128) - [What is the Universal Windows Platform? (2021)](https://www.thomasclaudiushuber.com/2021/02/05/what-is-actually-the-universal-windows-platform-and-what-is-winui-msix-and-project-reunion/)
 * [2024-02-26, 20:00:25](https://news.ycombinator.com/item?id=39516108) - [Apple's decision to drop iPhone web apps comes under scrutiny in the EU](https://www.theverge.com/2024/2/26/24083511/apple-eu-investigation-web-app-support)
 * [2024-02-26, 19:58:52](https://news.ycombinator.com/item?id=39516091) - [Package Dependency Hell](https://www.ramijames.com/thoughts/package-dependency-hell)
