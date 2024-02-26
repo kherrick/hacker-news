@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 15:13:21](https://news.ycombinator.com/item?id=39512153) - [Punk is dead and so are we](https://bananapeel.substack.com/p/punk-is-dead-and-so-are-we)
 * [2024-02-26, 14:41:05](https://news.ycombinator.com/item?id=39511732) - [Job Titles Are Bullshit](https://www.jvt.me/posts/2024/02/26/job-titles-bullshit/)
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
