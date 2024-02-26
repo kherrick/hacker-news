@@ -21,7 +21,7 @@
 * [2024-02-25, 16:45:03](https://news.ycombinator.com/item?id=39502276) - [Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [2024-02-25, 16:33:21](https://news.ycombinator.com/item?id=39502165) - [Efficient recovery and recycling of cobalt from spent lithium-ion batteries](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
 * [2024-02-25, 16:16:17](https://news.ycombinator.com/item?id=39501982) - [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
-* [2024-02-25, 15:22:39](https://news.ycombinator.com/item?id=39501469) - [Ship faster by building design systems slower (2023)](https://bigmedium.com/ideas/design-system-pace-layers-slow-fast.html)
+* [2024-02-25, 14:58:51](https://news.ycombinator.com/item?id=39501281) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 * [2024-02-25, 12:52:13](https://news.ycombinator.com/item?id=39500386) - [It's OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
 * [2024-02-25, 09:09:10](https://news.ycombinator.com/item?id=39499074) - [Working with Purpose, Forever](https://hakaimagazine.com/news/working-with-purpose-forever/)
