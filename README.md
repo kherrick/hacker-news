@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-26, 19:51:45](https://news.ycombinator.com/item?id=39516032) - [Gemini and Google's Culture](https://stratechery.com/2024/gemini-and-googles-culture/CbFwmq7p7aN2V5iiksUqaemdGS0FpkvwrI-HHxand_wki_Ifm3f-VkBS7rKqtnAYB90jSprOpKTpWcPXl00P5wcwKbBk5AUwCFO-cfo_0rWALkx5uGAtwjk-Wyx4MMQjqlpAu5tj6mDewS65L_B_rLpZlCwSTVo32Te5vTsUyGtJQPMOQ287q91vlCFhn28i2xs83Gbh5WclQaQllpwQNhPL5Gu3gq2-K8lWqwE9a-IauAn5vG2VmkqvWP7Cw)
+* [2024-02-26, 20:01:43](https://news.ycombinator.com/item?id=39516128) - [What is the Universal Windows Platform? (2021)](https://www.thomasclaudiushuber.com/2021/02/05/what-is-actually-the-universal-windows-platform-and-what-is-winui-msix-and-project-reunion/)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
 * [2024-02-26, 18:11:02](https://news.ycombinator.com/item?id=39514778) - [Ryzen Z1's Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
@@ -10,6 +10,7 @@
 * [2024-02-26, 16:17:36](https://news.ycombinator.com/item?id=39513051) - [What a major solar storm could do](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
 * [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [How to find the AWS account ID of any S3 bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
+* [2024-02-26, 15:12:37](https://news.ycombinator.com/item?id=39512140) - [David Milch’s disembodied writing process](https://masoncurrey.substack.com/p/david-milch-disembodied-writing-process)
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
 * [2024-02-26, 14:25:05](https://news.ycombinator.com/item?id=39511530) - [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
@@ -29,7 +30,6 @@
 * [2024-02-25, 13:18:17](https://news.ycombinator.com/item?id=39500565) - [Pydantic-resolve, a hierarchical solution for data fetching and processing](https://github.com/allmonday/pydantic-resolve)
 * [2024-02-25, 06:44:43](https://news.ycombinator.com/item?id=39498281) - [ViHN: Vim for Hacker News](https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/)
 * [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
-* [2024-02-23, 13:01:11](https://news.ycombinator.com/item?id=39480019) - [Lessons learned from doing the one billion row challenge](https://foojay.io/today/12-lessons-learned-from-doing-the-one-billion-row-challenge/)
 
 ## [Archives](archives/index.md)
 
