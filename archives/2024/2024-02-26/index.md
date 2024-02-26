@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 16:22:31](https://news.ycombinator.com/item?id=39513126) - [Jstor is Now Available in 1k Prisons](https://about.jstor.org/news/jstor-available-in-1000-prisons/)
+* [2024-02-26, 16:20:18](https://news.ycombinator.com/item?id=39513092) - [Ottawa to create regulator to hold platforms accountable for harmful content](https://www.cbc.ca/news/politics/online-harms-legislation-new-regulator-1.7125289)
 * [2024-02-26, 16:17:54](https://news.ycombinator.com/item?id=39513054) - [Launch HN: Delve (YC W24) – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
 * [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [It's now possible to find the AWS Account ID for any S3 Bucket (private too)](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:58:30](https://news.ycombinator.com/item?id=39512754) - [\"Coding\" was never the source of value](https://twitter.com/id_aa_carmack/status/1762110222321975442)
