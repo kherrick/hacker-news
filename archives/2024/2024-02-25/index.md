@@ -89,6 +89,7 @@
 * [2024-02-25, 07:46:56](https://news.ycombinator.com/item?id=39498541) - [Ask HN: Question about CTR, conversions, and validation](https://news.ycombinator.com/item?id=39498541)
 * [2024-02-25, 07:27:23](https://news.ycombinator.com/item?id=39498456) - [On Handwriting and Switching to Cursive](https://brianschrader.com/archive/on-handwriting-and-switching-to-cursive/)
 * [2024-02-25, 07:01:38](https://news.ycombinator.com/item?id=39498345) - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
+* [2024-02-25, 06:44:43](https://news.ycombinator.com/item?id=39498281) - [ViHN: Vim for Hacker News](https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/)
 * [2024-02-25, 06:44:05](https://news.ycombinator.com/item?id=39498279) - [Respawn Studio Reportedly Developing FPS Bounty Hunting Mandolorian Game](https://playstationcouch.com/post.php?id=160)
 * [2024-02-25, 06:43:25](https://news.ycombinator.com/item?id=39498276) - [Ubisoft Employees In France have gone on a Stike](https://playstationcouch.com/post.php?id=161)
 * [2024-02-25, 06:18:27](https://news.ycombinator.com/item?id=39498184) - [Microsoft tried to sell Bing to Apple in 2018, according to Google court filings](https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/)

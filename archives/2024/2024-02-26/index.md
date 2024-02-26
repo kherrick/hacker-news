@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 11:41:45](https://news.ycombinator.com/item?id=39510147) - [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
+* [2024-02-26, 11:10:39](https://news.ycombinator.com/item?id=39509937) - [Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024)
 * [2024-02-26, 10:54:54](https://news.ycombinator.com/item?id=39509818) - [Denmark ends Nord Stream blast investigation but blames deliberate sabotage](https://www.theguardian.com/world/live/2024/feb/26/russia-ukraine-war-live-missiles-drones-kharkiv-dnipropetrovsk-eu-leaders-summit-elysee-zelenskiy)
 * [2024-02-26, 10:50:59](https://news.ycombinator.com/item?id=39509772) - [First VM on micro (sweet 16)?](http://www.6502.org/source/interpreters/sweet16.htm)
+* [2024-02-26, 10:45:57](https://news.ycombinator.com/item?id=39509730) - [Handedness as a determinant of lateral bias in human functional cradling (2023)](https://onlinelibrary.wiley.com/doi/10.1111/infa.12572)
 * [2024-02-26, 10:33:00](https://news.ycombinator.com/item?id=39509645) - [Firsty.app – free 300kbit/s eSIM for US/EU](https://www.firsty.app/)
+* [2024-02-26, 10:20:42](https://news.ycombinator.com/item?id=39509560) - [The Real-World Locations of 14 Sci-Fi Dystopias](https://www.atlasobscura.com/articles/the-real-world-locations-used-in-fourteen-film-dystopias)
 * [2024-02-26, 10:11:36](https://news.ycombinator.com/item?id=39509506) - [Can confirm a current Broadcom VMware customer went from $8M renewal to $100M](https://twitter.com/cioontherun/status/1760770717040115988)
 * [2024-02-26, 10:00:58](https://news.ycombinator.com/item?id=39509432) - [When Apple takes the European Commission for fools: An initial overview](https://theplatformlaw.blog/2024/01/26/when-apple-takes-the-european-commission-for-fools-an-initial-overview-of-apples-new-terms-and-conditions-for-ios-app-distribution-in-the-eu/)
 * [2024-02-26, 09:59:42](https://news.ycombinator.com/item?id=39509414) - [An interactive guide to Fourier series](https://injuly.in/blog/fourier-series/index.html)
