@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-02-26, 20:22:06",
-      "https://news.ycombinator.com/item?id=39516312"
-    ],
-    [
-      "Goodhart's Law",
-      "https://xkcd.com/2899/"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 19:49:14",
       "https://news.ycombinator.com/item?id=39516007"
     ],
@@ -77,16 +67,6 @@
     [
       "Ryzen Z1's Tiny iGPU",
       "https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 17:22:21",
-      "https://news.ycombinator.com/item?id=39514034"
-    ],
-    [
-      "Show HN: Sqlbind a Python library to compose raw SQL",
-      "https://github.com/baverman/sqlbind"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-02-26, 14:20:53",
+      "https://news.ycombinator.com/item?id=39511477"
+    ],
+    [
+      "Mistral Large",
+      "https://mistral.ai/news/mistral-large/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 13:10:13",
       "https://news.ycombinator.com/item?id=39510874"
     ],
@@ -197,6 +187,16 @@
     [
       "Let's compile like it's 1992 (2014)",
       "https://fabiensanglard.net/Compile_Like_Its_1992/index.php"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 10:50:59",
+      "https://news.ycombinator.com/item?id=39509772"
+    ],
+    [
+      "Porting Sweet 16 (2004)",
+      "http://www.6502.org/source/interpreters/sweet16.htm"
     ]
   ],
   [
