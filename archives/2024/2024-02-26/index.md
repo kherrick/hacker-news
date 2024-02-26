@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 15:37:59](https://news.ycombinator.com/item?id=39512481) - [Authy Desktop EOL moved from August 2024 to March 19 2024](https://support.authy.com/hc/en-us/articles/17592416719003-Business-customer-guide-End-of-Life-EOL-for-use-of-Authy-API-with-Twilio-Authy-Desktop-apps)
+* [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A Bad Day at the Office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
+* [2024-02-26, 15:24:09](https://news.ycombinator.com/item?id=39512299) - [What lengths will Chinese companies go to get an Nvidia A100 chip?](https://chinai.substack.com/p/chinai-255-panic-buying-speculative)
 * [2024-02-26, 15:13:21](https://news.ycombinator.com/item?id=39512153) - [Punk is dead and so are we](https://bananapeel.substack.com/p/punk-is-dead-and-so-are-we)
 * [2024-02-26, 14:41:05](https://news.ycombinator.com/item?id=39511732) - [Job Titles Are Bullshit](https://www.jvt.me/posts/2024/02/26/job-titles-bullshit/)
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
