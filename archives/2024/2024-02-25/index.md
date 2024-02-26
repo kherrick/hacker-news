@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 23:36:16](https://news.ycombinator.com/item?id=39506104) - [Let's Ban SMS 2FA](https://lorendb.dev/posts/lets-ban-sms-2fa/)
 * [2024-02-25, 23:21:32](https://news.ycombinator.com/item?id=39506000) - [The Snazzy D Compiler](https://github.com/snazzy-d/sdc)
 * [2024-02-25, 22:31:05](https://news.ycombinator.com/item?id=39505592) - [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
 * [2024-02-25, 21:50:32](https://news.ycombinator.com/item?id=39505178) - [Consumers are increasingly pushing back against price increases – and winning](https://thegrio.com/2024/02/25/consumers-respond-to-price-increases/)
@@ -64,6 +65,7 @@
 * [2024-02-25, 14:01:43](https://news.ycombinator.com/item?id=39500886) - [fd, xargs, bat = quick document review](https://hiandrewquinn.github.io/til-site/posts/fd-bat-quick-document-review/)
 * [2024-02-25, 13:10:46](https://news.ycombinator.com/item?id=39500500) - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-25, 12:53:00](https://news.ycombinator.com/item?id=39500397) - [Building a Fly.io-Like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
+* [2024-02-25, 12:52:13](https://news.ycombinator.com/item?id=39500386) - [It's OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
 * [2024-02-25, 12:35:37](https://news.ycombinator.com/item?id=39500286) - [When homes hit 40°C inside, it's better to draw on residents' local know-how](https://theconversation.com/when-homes-already-hit-40-c-inside-its-better-to-draw-on-residents-local-know-how-than-plan-for-climate-change-from-above-221870)
 * [2024-02-25, 12:34:59](https://news.ycombinator.com/item?id=39500283) - [One of the biggest cities may be just months away from running out of water](https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html)
 * [2024-02-25, 12:33:26](https://news.ycombinator.com/item?id=39500275) - [Is Emacs Dying?](https://irreal.org/blog/?p=11995)
