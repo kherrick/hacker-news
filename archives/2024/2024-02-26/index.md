@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 17:22:21](https://news.ycombinator.com/item?id=39514034) - [Show HN: Sqlbind a Python library to compose raw SQL](https://github.com/baverman/sqlbind)
+* [2024-02-26, 17:20:12](https://news.ycombinator.com/item?id=39514008) - [How have you found purpose in your life?](https://news.ycombinator.com/item?id=39514008)
 * [2024-02-26, 16:46:05](https://news.ycombinator.com/item?id=39513493) - [Firearms vs. Armour in the Late Middle Ages and Renaissance](https://thefatefulforce.com/firearms-vs-armour-in-the-late-middle-ages-and-renaissance/)
 * [2024-02-26, 16:22:31](https://news.ycombinator.com/item?id=39513126) - [Jstor is Now Available in 1k Prisons](https://about.jstor.org/news/jstor-available-in-1000-prisons/)
 * [2024-02-26, 16:20:18](https://news.ycombinator.com/item?id=39513092) - [Ottawa to create regulator to hold platforms accountable for harmful content](https://www.cbc.ca/news/politics/online-harms-legislation-new-regulator-1.7125289)

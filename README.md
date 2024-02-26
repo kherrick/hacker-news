@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-26, 17:22:21](https://news.ycombinator.com/item?id=39514034) - [Show HN: Sqlbind a Python library to compose raw SQL](https://github.com/baverman/sqlbind)
+* [2024-02-26, 17:20:12](https://news.ycombinator.com/item?id=39514008) - [How have you found purpose in your life?](https://news.ycombinator.com/item?id=39514008)
 * [2024-02-26, 16:46:05](https://news.ycombinator.com/item?id=39513493) - [Firearms vs. Armour in the Late Middle Ages and Renaissance](https://thefatefulforce.com/firearms-vs-armour-in-the-late-middle-ages-and-renaissance/)
 * [2024-02-26, 16:22:31](https://news.ycombinator.com/item?id=39513126) - [Jstor is Now Available in 1k Prisons](https://about.jstor.org/news/jstor-available-in-1000-prisons/)
-* [2024-02-26, 16:20:18](https://news.ycombinator.com/item?id=39513092) - [Ottawa to create regulator to hold platforms accountable for harmful content](https://www.cbc.ca/news/politics/online-harms-legislation-new-regulator-1.7125289)
 * [2024-02-26, 16:18:25](https://news.ycombinator.com/item?id=39513059) - [Ending the Ivy League's Tax Dodge](https://www.levernews.com/ending-the-ivy-leagues-tax-dodge/)
 * [2024-02-26, 16:17:54](https://news.ycombinator.com/item?id=39513054) - [Launch HN: Delve (YC W24) – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
 * [2024-02-26, 16:17:36](https://news.ycombinator.com/item?id=39513051) - [What a Major Solar Storm Could Do to Our Planet](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
@@ -19,7 +20,6 @@
 * [2024-02-26, 11:41:45](https://news.ycombinator.com/item?id=39510147) - [Pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 * [2024-02-26, 10:50:59](https://news.ycombinator.com/item?id=39509772) - [Porting Sweet 16 (2004)](http://www.6502.org/source/interpreters/sweet16.htm)
-* [2024-02-26, 10:45:57](https://news.ycombinator.com/item?id=39509730) - [Handedness as a determinant of lateral bias in human functional cradling (2023)](https://onlinelibrary.wiley.com/doi/10.1111/infa.12572)
 * [2024-02-26, 10:20:42](https://news.ycombinator.com/item?id=39509560) - [The Real-World Locations of 14 Sci-Fi Dystopias (2014)](https://www.atlasobscura.com/articles/the-real-world-locations-used-in-fourteen-film-dystopias)
 * [2024-02-26, 09:40:27](https://news.ycombinator.com/item?id=39509287) - [Fractal Scaling and the Aesthetics of Trees](http://www.arxiv.org/abs/2402.13520)
 * [2024-02-26, 09:15:54](https://news.ycombinator.com/item?id=39509156) - [All Aboard the Bureaucracy Train](https://asteriskmag.com/issues/05/all-aboard-the-bureaucracy-train)
