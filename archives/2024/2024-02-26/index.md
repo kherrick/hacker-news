@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 10:11:36](https://news.ycombinator.com/item?id=39509506) - [Can confirm a current Broadcom VMware customer went from $8M renewal to $100M](https://twitter.com/cioontherun/status/1760770717040115988)
+* [2024-02-26, 09:55:50](https://news.ycombinator.com/item?id=39509379) - [Xkcd: Greenhouse Effect](https://xkcd.com/2889/)
 * [2024-02-26, 08:50:49](https://news.ycombinator.com/item?id=39508950) - [AI Infrastructure Landscape](https://ai-infra.fun/)
 * [2024-02-26, 08:32:20](https://news.ycombinator.com/item?id=39508833) - [Losing Trust in Google](https://twitter.com/mjuric/status/1761981816125469064)
 * [2024-02-26, 08:02:29](https://news.ycombinator.com/item?id=39508668) - [CRE vet says 30% of office buildings are 'basically worth nothing'](https://fortune.com/2024/02/25/office-commercial-real-estate-crisis-doom-loop-conversion-housing-subsidies-demolition/)
