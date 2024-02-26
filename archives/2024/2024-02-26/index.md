@@ -14,3 +14,4 @@
 * [2024-02-26, 01:01:16](https://news.ycombinator.com/item?id=39506597) - [ThinkPad T14 Gen 5 includes SODIMM slots and user-replaceable batteries](https://www.theverge.com/2024/2/25/24081225/lenovo-thinkpad-thinkbook-laptops-mwc-2024)
 * [2024-02-26, 00:46:08](https://news.ycombinator.com/item?id=39506531) - [gifcities.org by Internet Archive – search for GIFs scraped off geocities sites](https://gifcities.org/)
 * [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
+* [2024-02-26, 00:11:24](https://news.ycombinator.com/item?id=39506344) - [Woman had no idea Apple was using her voice as the original Siri](https://supercarblondie.com/apple-siri-original-voice-actor/)
