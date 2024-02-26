@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-02-26, 11:41:45",
+      "https://news.ycombinator.com/item?id=39510147"
+    ],
+    [
+      "The 14 pains of building your own billing system",
+      "https://arnon.dk/the-14-pains-of-billing/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 11:18:13",
       "https://news.ycombinator.com/item?id=39509983"
     ],
     [
       "Let's compile like it's 1992 (2014)",
       "https://fabiensanglard.net/Compile_Like_Its_1992/index.php"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 11:10:39",
+      "https://news.ycombinator.com/item?id=39509937"
+    ],
+    [
+      "Genie: Generative Interactive Environments",
+      "https://sites.google.com/view/genie-2024"
     ]
   ],
   [
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2024-02-26, 10:45:57",
+      "https://news.ycombinator.com/item?id=39509730"
+    ],
+    [
+      "Handedness as a determinant of lateral bias in human functional cradling (2023)",
+      "https://onlinelibrary.wiley.com/doi/10.1111/infa.12572"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 10:33:00",
       "https://news.ycombinator.com/item?id=39509645"
     ],
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2024-02-26, 10:00:58",
-      "https://news.ycombinator.com/item?id=39509432"
+      "2024-02-26, 10:20:42",
+      "https://news.ycombinator.com/item?id=39509560"
     ],
     [
-      "When Apple takes the European Commission for fools: An initial overview",
-      "https://theplatformlaw.blog/2024/01/26/when-apple-takes-the-european-commission-for-fools-an-initial-overview-of-apples-new-terms-and-conditions-for-ios-app-distribution-in-the-eu/"
+      "The Real-World Locations of 14 Sci-Fi Dystopias",
+      "https://www.atlasobscura.com/articles/the-real-world-locations-used-in-fourteen-film-dystopias"
     ]
   ],
   [
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39508703"
     ],
     [
-      "79% of Crohn's disease patients in remission after early intervention",
+      "Early immunotherapy for Crohn’s disease significantly reduces complications",
       "https://newatlas.com/medical/crohns-disease-treatment/"
     ]
   ],
@@ -201,36 +231,6 @@
   ],
   [
     [
-      "2024-02-25, 20:10:32",
-      "https://news.ycombinator.com/item?id=39504271"
-    ],
-    [
-      "In Search of the Last Saola",
-      "https://ensia.com/features/saola-endangered-conservation-biodiversity-annamite-mountains-southeast-asia/"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 16:45:03",
-      "https://news.ycombinator.com/item?id=39502276"
-    ],
-    [
-      "Coroutines in C (2000)",
-      "https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 14:27:54",
-      "https://news.ycombinator.com/item?id=39501073"
-    ],
-    [
-      "Show HN: Reverse-Engineering a Switch Lite with 1,917 wires",
-      "https://usoldering.com/switch-lite/"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 14:00:15",
       "https://news.ycombinator.com/item?id=39500880"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-02-24, 21:42:00",
-      "https://news.ycombinator.com/item?id=39495378"
+      "2024-02-25, 06:44:43",
+      "https://news.ycombinator.com/item?id=39498281"
     ],
     [
-      "TOTP Codes in the Terminal",
-      "https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/"
+      "ViHN: Vim for Hacker News",
+      "https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/"
     ]
   ],
   [
