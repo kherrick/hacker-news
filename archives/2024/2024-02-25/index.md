@@ -24,6 +24,7 @@
 * [2024-02-25, 20:17:12](https://news.ycombinator.com/item?id=39504324) - [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
 * [2024-02-25, 20:15:45](https://news.ycombinator.com/item?id=39504312) - [Florida Passes Sweeping Bill to Keep Young People Off Social Media](https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html)
 * [2024-02-25, 20:11:48](https://news.ycombinator.com/item?id=39504279) - [The oldest hackies tell it like it was](http://www.thestacksreader.com/the-oldest-hackies-tell-it-like-it-was-and-is/)
+* [2024-02-25, 20:10:32](https://news.ycombinator.com/item?id=39504271) - [In Search of the Last Saola](https://ensia.com/features/saola-endangered-conservation-biodiversity-annamite-mountains-southeast-asia/)
 * [2024-02-25, 20:09:46](https://news.ycombinator.com/item?id=39504266) - [Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 * [2024-02-25, 19:58:33](https://news.ycombinator.com/item?id=39504200) - [Show HN: Functional UI Kit – twin Figma and React component libraries](https://github.com/functional-ui/functional-ui-kit)
 * [2024-02-25, 19:43:38](https://news.ycombinator.com/item?id=39504072) - [Console.delight](https://frontendmasters.com/blog/console-delight/)
