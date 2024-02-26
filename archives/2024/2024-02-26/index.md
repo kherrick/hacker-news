@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 06:46:09](https://news.ycombinator.com/item?id=39508257) - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 * [2024-02-26, 05:23:18](https://news.ycombinator.com/item?id=39507926) - [I tried to create a newer version of 1k True Fans](https://thesocialjuice.substack.com/p/a-tldr-list-of-my-favourite-marketing)
 * [2024-02-26, 05:22:01](https://news.ycombinator.com/item?id=39507918) - [New search engine just dropped](https://explorer.globe.engineer)
 * [2024-02-26, 04:57:07](https://news.ycombinator.com/item?id=39507831) - [Ask HN: What do I do with my side projects?](https://news.ycombinator.com/item?id=39507831)
