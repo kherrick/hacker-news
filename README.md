@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-26, 03:15:28](https://news.ycombinator.com/item?id=39507287) - [Chemical Species](https://en.wikipedia.org/wiki/Chemical_species)
 * [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
-* [2024-02-26, 02:07:21](https://news.ycombinator.com/item?id=39506931) - [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)
 * [2024-02-26, 02:06:41](https://news.ycombinator.com/item?id=39506929) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 01:05:01](https://news.ycombinator.com/item?id=39506622) - [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
 * [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)

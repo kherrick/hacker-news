@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 03:15:28](https://news.ycombinator.com/item?id=39507287) - [Chemical Species](https://en.wikipedia.org/wiki/Chemical_species)
 * [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
 * [2024-02-26, 02:07:21](https://news.ycombinator.com/item?id=39506931) - [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)
 * [2024-02-26, 02:06:41](https://news.ycombinator.com/item?id=39506929) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
