@@ -87,6 +87,7 @@
 * [2024-02-24, 08:26:47](https://news.ycombinator.com/item?id=39490075) - [Considering then abandoning JSX for structured YAML config](https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html)
 * [2024-02-24, 07:47:15](https://news.ycombinator.com/item?id=39489920) - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
 * [2024-02-24, 07:20:03](https://news.ycombinator.com/item?id=39489805) - [Spreadsheets are all you need: Understanding GPT2 and Transformers](https://spreadsheets-are-all-you-need.ai/)
+* [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
 * [2024-02-24, 06:43:23](https://news.ycombinator.com/item?id=39489660) - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
 * [2024-02-24, 06:09:46](https://news.ycombinator.com/item?id=39489519) - [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
 * [2024-02-24, 05:48:55](https://news.ycombinator.com/item?id=39489431) - [The Earth is getting greener](https://www.vox.com/down-to-earth/2024/2/7/24057308/earth-global-greening-climate-change-carbon)

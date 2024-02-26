@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:46:09](https://news.ycombinator.com/item?id=39508257) - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 * [2024-02-26, 05:23:18](https://news.ycombinator.com/item?id=39507926) - [I tried to create a newer version of 1k True Fans](https://thesocialjuice.substack.com/p/a-tldr-list-of-my-favourite-marketing)
 * [2024-02-26, 05:22:01](https://news.ycombinator.com/item?id=39507918) - [New search engine just dropped](https://explorer.globe.engineer)
@@ -13,6 +14,7 @@
 * [2024-02-26, 03:57:27](https://news.ycombinator.com/item?id=39507477) - [Best Rain Jackets in the World Will Soon Be Illegal](https://www.outsideonline.com/outdoor-adventure/environment/forever-chemicals-pfas/)
 * [2024-02-26, 03:36:22](https://news.ycombinator.com/item?id=39507402) - [New car buying guide: the algorithm](https://github.com/kutinden/buyingacar/blob/main/README.md)
 * [2024-02-26, 03:15:28](https://news.ycombinator.com/item?id=39507287) - [Chemical Species](https://en.wikipedia.org/wiki/Chemical_species)
+* [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [A drone that calculates GPS coordinates using a camera and Google Maps](https://twitter.com/ilaffey2/status/1759353732075294766)
 * [2024-02-26, 03:11:42](https://news.ycombinator.com/item?id=39507267) - [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
 * [2024-02-26, 03:02:30](https://news.ycombinator.com/item?id=39507230) - [FDA Approves First Medication to Reduce Allergic Reactions to Multiple Foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
 * [2024-02-26, 02:07:21](https://news.ycombinator.com/item?id=39506931) - [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)
@@ -22,4 +24,5 @@
 * [2024-02-26, 01:01:16](https://news.ycombinator.com/item?id=39506597) - [ThinkPad T14 Gen 5 includes SODIMM slots and user-replaceable batteries](https://www.theverge.com/2024/2/25/24081225/lenovo-thinkpad-thinkbook-laptops-mwc-2024)
 * [2024-02-26, 00:46:08](https://news.ycombinator.com/item?id=39506531) - [gifcities.org by Internet Archive – search for GIFs scraped off geocities sites](https://gifcities.org/)
 * [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
+* [2024-02-26, 00:22:52](https://news.ycombinator.com/item?id=39506420) - [PID Without a PhD (2016) [pdf]](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)
 * [2024-02-26, 00:11:24](https://news.ycombinator.com/item?id=39506344) - [Woman had no idea Apple was using her voice as the original Siri](https://supercarblondie.com/apple-siri-original-voice-actor/)
