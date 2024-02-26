@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-26, 19:18:50](https://news.ycombinator.com/item?id=39515678) - [Intuitive Machines' stock plummets after Moon lander tips over](https://www.reuters.com/technology/intuitive-machines-stock-plummets-after-moon-lander-tips-over-2024-02-26/)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
 * [2024-02-26, 18:11:02](https://news.ycombinator.com/item?id=39514778) - [Ryzen Z1's Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
@@ -8,6 +7,7 @@
 * [2024-02-26, 17:22:21](https://news.ycombinator.com/item?id=39514034) - [Show HN: Sqlbind a Python library to compose raw SQL](https://github.com/baverman/sqlbind)
 * [2024-02-26, 16:46:05](https://news.ycombinator.com/item?id=39513493) - [Firearms vs. armour in the late Middle Ages and Renaissance](https://thefatefulforce.com/firearms-vs-armour-in-the-late-middle-ages-and-renaissance/)
 * [2024-02-26, 16:17:54](https://news.ycombinator.com/item?id=39513054) - [Launch HN: Delve (YC W24) – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
+* [2024-02-26, 16:17:36](https://news.ycombinator.com/item?id=39513051) - [What a major solar storm could do](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
 * [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [How to find the AWS account ID of any S3 bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
 * [2024-02-26, 15:19:42](https://news.ycombinator.com/item?id=39512230) - [Final images of Ingenuity reveal an entire blade broke off the helicopter](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/)
@@ -29,7 +29,7 @@
 * [2024-02-25, 13:18:17](https://news.ycombinator.com/item?id=39500565) - [Pydantic-resolve, a hierarchical solution for data fetching and processing](https://github.com/allmonday/pydantic-resolve)
 * [2024-02-25, 06:44:43](https://news.ycombinator.com/item?id=39498281) - [ViHN: Vim for Hacker News](https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/)
 * [2024-02-24, 07:04:46](https://news.ycombinator.com/item?id=39489748) - [Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
-* [2024-02-23, 13:01:11](https://news.ycombinator.com/item?id=39480019) - [Lessons Learned from Doing the One Billion Row Challenge](https://foojay.io/today/12-lessons-learned-from-doing-the-one-billion-row-challenge/)
+* [2024-02-23, 13:01:11](https://news.ycombinator.com/item?id=39480019) - [Lessons learned from doing the one billion row challenge](https://foojay.io/today/12-lessons-learned-from-doing-the-one-billion-row-challenge/)
 
 ## [Archives](archives/index.md)
 
