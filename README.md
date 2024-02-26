@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-26, 21:50:23](https://news.ycombinator.com/item?id=39517139) - [Shell, Awk, and Make Should Be Combined (2016)](https://www.oilshell.org/blog/2016/11/13.html)
+* [2024-02-26, 21:50:37](https://news.ycombinator.com/item?id=39517145) - [Why Jalapeño Peppers Are Less Spicy Than Ever](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
+* [2024-02-26, 21:36:25](https://news.ycombinator.com/item?id=39517016) - [Mistral Remove \"Committing to open models\" from their website](https://old.reddit.com/r/LocalLLaMA/comments/1b0o41v/top_10_betrayals_in_anime_history/)
 * [2024-02-26, 21:25:18](https://news.ycombinator.com/item?id=39516927) - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
@@ -10,7 +11,6 @@
 * [2024-02-26, 16:17:36](https://news.ycombinator.com/item?id=39513051) - [What a major solar storm could do](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
 * [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [How to find the AWS account ID of any S3 bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
-* [2024-02-26, 15:12:37](https://news.ycombinator.com/item?id=39512140) - [David Milch’s disembodied writing process](https://masoncurrey.substack.com/p/david-milch-disembodied-writing-process)
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
 * [2024-02-26, 14:25:05](https://news.ycombinator.com/item?id=39511530) - [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
@@ -25,9 +25,9 @@
 * [2024-02-26, 08:57:45](https://news.ycombinator.com/item?id=39509012) - [Insecure Features in PDFs (2021)](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
 * [2024-02-26, 07:51:35](https://news.ycombinator.com/item?id=39508626) - [Show HN: Free Certificate Monitoring via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-25, 21:01:03](https://news.ycombinator.com/item?id=39504702) - [Bitboards and Connect Four](https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md)
-* [2024-02-25, 20:19:31](https://news.ycombinator.com/item?id=39504351) - [Marilyn vos Savant and the Monty Hall Problem (2015)](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
 * [2024-02-25, 20:18:42](https://news.ycombinator.com/item?id=39504342) - [Windsor Typeface (2018)](https://fontreviewjournal.com/windsor/)
 * [2024-02-25, 20:14:36](https://news.ycombinator.com/item?id=39504304) - [Notes on paper (2023)](https://voussoir.net/writing/notes_on_paper)
+* [2024-02-25, 13:40:37](https://news.ycombinator.com/item?id=39500771) - [Generating SVG Avatars from Identifiers](https://madebyme.today/projects/generating-svg-avatars-from-identifiers/)
 * [2024-02-25, 13:18:17](https://news.ycombinator.com/item?id=39500565) - [Pydantic-resolve, a hierarchical solution for data fetching and processing](https://github.com/allmonday/pydantic-resolve)
 * [2024-02-25, 06:44:43](https://news.ycombinator.com/item?id=39498281) - [ViHN: Vim for Hacker News](https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/)
 
