@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-26, 05:22:01",
-      "https://news.ycombinator.com/item?id=39507918"
-    ],
-    [
-      "New search engine just dropped",
-      "https://explorer.globe.engineer"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 04:57:07",
       "https://news.ycombinator.com/item?id=39507831"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
+      "2024-02-26, 04:42:39",
+      "https://news.ycombinator.com/item?id=39507758"
+    ],
+    [
+      "Disillusioned with Deno",
+      "https://www.baldurbjarnason.com/2024/disillusioned-with-deno/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 04:07:39",
       "https://news.ycombinator.com/item?id=39507553"
     ],
     [
       "Business Narrative Strategy",
       "https://tomcritchlow.com/2024/02/16/narrative-strategy/"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 03:57:27",
-      "https://news.ycombinator.com/item?id=39507477"
-    ],
-    [
-      "Best Rain Jackets in the World Will Soon Be Illegal",
-      "https://www.outsideonline.com/outdoor-adventure/environment/forever-chemicals-pfas/"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Inside North Korea's Forced Labor Program",
       "https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 21:17:53",
+      "https://news.ycombinator.com/item?id=39504859"
+    ],
+    [
+      "Drawing and illustrating in the pre-digital time (2019)",
+      "https://www.daube.ch/docu/glossary/drawingtools.html"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-02-25, 14:58:51",
-      "https://news.ycombinator.com/item?id=39501281"
-    ],
-    [
-      "Osquery: An sqlite3 virtual table exposing operating system data to SQL",
-      "https://osquery.io/"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 14:27:54",
       "https://news.ycombinator.com/item?id=39501073"
     ],
@@ -297,6 +287,16 @@
     [
       "Life Aboard a Nuclear Submarine",
       "https://www.vanityfair.com/news/life-aboard-a-nuclear-submarine"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 11:14:31",
+      "https://news.ycombinator.com/item?id=39490740"
+    ],
+    [
+      "Abusing Conda's Turing-Complete YAML Comments",
+      "https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/"
     ]
   ]
 ]
