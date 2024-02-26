@@ -23,6 +23,7 @@
 * [2024-02-25, 20:55:30](https://news.ycombinator.com/item?id=39504655) - [DOOM on Husqvarna Automower](https://www.husqvarna.com/uk/learn-and-discover/news-and-media/doom-husqvarna-update/)
 * [2024-02-25, 20:41:36](https://news.ycombinator.com/item?id=39504524) - [How to Create a Scrivener Project to Use as Your Second Brain](https://www.literatureandlatte.com/blog/how-to-create-a-scrivener-project-to-use-as-your-second-brain)
 * [2024-02-25, 20:34:34](https://news.ycombinator.com/item?id=39504470) - [Ask HN: How to Overcome the Trough of Sorrow?](https://news.ycombinator.com/item?id=39504470)
+* [2024-02-25, 20:18:42](https://news.ycombinator.com/item?id=39504342) - [Windsor Typeface (2018)](https://fontreviewjournal.com/windsor/)
 * [2024-02-25, 20:17:12](https://news.ycombinator.com/item?id=39504324) - [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
 * [2024-02-25, 20:16:17](https://news.ycombinator.com/item?id=39504318) - [Ahab's Leg Dilemma](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1)
 * [2024-02-25, 20:15:45](https://news.ycombinator.com/item?id=39504312) - [Florida Passes Sweeping Bill to Keep Young People Off Social Media](https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html)
