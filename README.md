@@ -2,9 +2,8 @@
 
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 * [2024-02-26, 10:54:54](https://news.ycombinator.com/item?id=39509818) - [Denmark ends Nord Stream blast investigation but blames deliberate sabotage](https://www.theguardian.com/world/live/2024/feb/26/russia-ukraine-war-live-missiles-drones-kharkiv-dnipropetrovsk-eu-leaders-summit-elysee-zelenskiy)
-* [2024-02-26, 10:50:59](https://news.ycombinator.com/item?id=39509772) - [First VM on micro (sweet 16)?](http://www.6502.org/source/interpreters/sweet16.htm)
+* [2024-02-26, 10:50:59](https://news.ycombinator.com/item?id=39509772) - [Porting Sweet 16](http://www.6502.org/source/interpreters/sweet16.htm)
 * [2024-02-26, 10:33:00](https://news.ycombinator.com/item?id=39509645) - [Firsty.app – free 300kbit/s eSIM for US/EU](https://www.firsty.app/)
-* [2024-02-26, 10:11:36](https://news.ycombinator.com/item?id=39509506) - [Can confirm a current Broadcom VMware customer went from $8M renewal to $100M](https://twitter.com/cioontherun/status/1760770717040115988)
 * [2024-02-26, 10:00:58](https://news.ycombinator.com/item?id=39509432) - [When Apple takes the European Commission for fools: An initial overview](https://theplatformlaw.blog/2024/01/26/when-apple-takes-the-european-commission-for-fools-an-initial-overview-of-apples-new-terms-and-conditions-for-ios-app-distribution-in-the-eu/)
 * [2024-02-26, 09:59:42](https://news.ycombinator.com/item?id=39509414) - [An interactive guide to Fourier series (2022)](https://injuly.in/blog/fourier-series/index.html)
 * [2024-02-26, 09:55:50](https://news.ycombinator.com/item?id=39509379) - [Xkcd: Greenhouse Effect](https://xkcd.com/2889/)
@@ -23,6 +22,7 @@
 * [2024-02-25, 20:17:12](https://news.ycombinator.com/item?id=39504324) - [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
 * [2024-02-25, 20:11:48](https://news.ycombinator.com/item?id=39504279) - [The oldest hackies tell it like it was (1966)](http://www.thestacksreader.com/the-oldest-hackies-tell-it-like-it-was-and-is/)
 * [2024-02-25, 20:10:32](https://news.ycombinator.com/item?id=39504271) - [In Search of the Last Saola](https://ensia.com/features/saola-endangered-conservation-biodiversity-annamite-mountains-southeast-asia/)
+* [2024-02-25, 14:27:54](https://news.ycombinator.com/item?id=39501073) - [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 * [2024-02-25, 14:00:15](https://news.ycombinator.com/item?id=39500880) - [Patterns of Software (1996) [pdf]](https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf)
 * [2024-02-25, 10:52:20](https://news.ycombinator.com/item?id=39499704) - [How to Change a System](https://www.enablingchange.com.au/blog/strategy-2/how-to-change-a-system/)
 * [2024-02-25, 09:09:10](https://news.ycombinator.com/item?id=39499074) - [Working with Purpose, Forever](https://hakaimagazine.com/news/working-with-purpose-forever/)
