@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-02-26, 09:15:54",
+      "https://news.ycombinator.com/item?id=39509156"
+    ],
+    [
+      "All Aboard the Bureaucracy Train",
+      "https://asteriskmag.com/issues/05/all-aboard-the-bureaucracy-train"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 08:50:49",
       "https://news.ycombinator.com/item?id=39508950"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2024-02-26, 07:44:40",
+      "https://news.ycombinator.com/item?id=39508573"
+    ],
+    [
+      "ADHD could have been evolutionary advantage for early humans",
+      "https://www.newshub.co.nz/home/world/2024/02/adhd-could-have-been-evolutionary-advantage-for-early-humans-new-study.html"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 07:09:03",
       "https://news.ycombinator.com/item?id=39508373"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39508002"
     ],
     [
-      "Doom rendered via console.log() in a web browser",
+      "DOOM rendered via console.log() in a web browser",
       "https://github.com/MattCozendey/doom-console-log"
     ]
   ],
@@ -177,26 +197,6 @@
     [
       "Coroutines in C (2000)",
       "https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 16:33:21",
-      "https://news.ycombinator.com/item?id=39502165"
-    ],
-    [
-      "Efficient recovery and recycling of cobalt from spent lithium-ion batteries",
-      "https://pubs.acs.org/doi/10.1021/acsomega.2c07780"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 14:58:51",
-      "https://news.ycombinator.com/item?id=39501281"
-    ],
-    [
-      "Osquery: An sqlite3 virtual table exposing operating system data to SQL",
-      "https://osquery.io/"
     ]
   ],
   [
