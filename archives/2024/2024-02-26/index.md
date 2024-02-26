@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 13:08:14](https://news.ycombinator.com/item?id=39510859) - [Lenovo's concept laptop is real, transparent, and ready to impress](https://www.theverge.com/24082244/lenovo-concept-transparent-laptop-mwc-2024-drawing-tablet)
 * [2024-02-26, 11:41:45](https://news.ycombinator.com/item?id=39510147) - [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 * [2024-02-26, 11:10:39](https://news.ycombinator.com/item?id=39509937) - [Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024)

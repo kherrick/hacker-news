@@ -24,6 +24,7 @@
 * [2024-02-25, 20:41:36](https://news.ycombinator.com/item?id=39504524) - [How to Create a Scrivener Project to Use as Your Second Brain](https://www.literatureandlatte.com/blog/how-to-create-a-scrivener-project-to-use-as-your-second-brain)
 * [2024-02-25, 20:34:34](https://news.ycombinator.com/item?id=39504470) - [Ask HN: How to Overcome the Trough of Sorrow?](https://news.ycombinator.com/item?id=39504470)
 * [2024-02-25, 20:17:12](https://news.ycombinator.com/item?id=39504324) - [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
+* [2024-02-25, 20:16:17](https://news.ycombinator.com/item?id=39504318) - [Ahab's Leg Dilemma](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1)
 * [2024-02-25, 20:15:45](https://news.ycombinator.com/item?id=39504312) - [Florida Passes Sweeping Bill to Keep Young People Off Social Media](https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html)
 * [2024-02-25, 20:11:48](https://news.ycombinator.com/item?id=39504279) - [The oldest hackies tell it like it was](http://www.thestacksreader.com/the-oldest-hackies-tell-it-like-it-was-and-is/)
 * [2024-02-25, 20:10:32](https://news.ycombinator.com/item?id=39504271) - [In Search of the Last Saola](https://ensia.com/features/saola-endangered-conservation-biodiversity-annamite-mountains-southeast-asia/)
