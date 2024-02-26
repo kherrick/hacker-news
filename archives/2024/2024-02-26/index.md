@@ -8,6 +8,7 @@
 * [2024-02-26, 14:25:05](https://news.ycombinator.com/item?id=39511530) - [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
 * [2024-02-26, 14:24:23](https://news.ycombinator.com/item?id=39511518) - [Fentanyl Is Killing American Kids. Most Don't Even Know They're Taking It](https://www.thefp.com/p/fentanyl-is-killing-american-kids)
 * [2024-02-26, 14:20:53](https://news.ycombinator.com/item?id=39511477) - [Mistral Large](https://mistral.ai/news/mistral-large/)
+* [2024-02-26, 14:13:58](https://news.ycombinator.com/item?id=39511414) - [Plex Accounts Getting Disabled](https://old.reddit.com/r/PleX/comments/1b07kvc/accounts_getting_disabled/)
 * [2024-02-26, 13:46:23](https://news.ycombinator.com/item?id=39511176) - [For Car Thieves, Toronto Is a 'Candy Store,' and Drivers Are Fed Up](https://www.nytimes.com/2024/02/24/world/canada/toronto-car-theft-epidemic.html)
 * [2024-02-26, 13:08:14](https://news.ycombinator.com/item?id=39510859) - [Lenovo's concept laptop is real, transparent, and ready to impress](https://www.theverge.com/24082244/lenovo-concept-transparent-laptop-mwc-2024-drawing-tablet)
 * [2024-02-26, 12:56:01](https://news.ycombinator.com/item?id=39510756) - [The Disappointing Tea.xyz](https://connortumbleson.com/2024/02/26/the-disappointing-tea-xyz/)
