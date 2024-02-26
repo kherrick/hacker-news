@@ -81,6 +81,7 @@
 * [2024-02-25, 09:28:39](https://news.ycombinator.com/item?id=39499207) - [Hallucination Is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 09:22:54](https://news.ycombinator.com/item?id=39499167) - [A Face Is Exposed for AOL Searcher No. 4417749 (2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
 * [2024-02-25, 09:11:10](https://news.ycombinator.com/item?id=39499081) - [Why fake research is rampant in China](https://www.economist.com/china/2024/02/22/why-fake-research-is-rampant-in-china)
+* [2024-02-25, 09:09:10](https://news.ycombinator.com/item?id=39499074) - [Working with Purpose, Forever](https://hakaimagazine.com/news/working-with-purpose-forever/)
 * [2024-02-25, 09:06:34](https://news.ycombinator.com/item?id=39499055) - [My attempt at Gitlab PR review environments with Nomad](https://blog.mattsbit.co.uk/2024/02/22/gitlab-ephemeral-environments-for-pull-requests/)
 * [2024-02-25, 08:39:47](https://news.ycombinator.com/item?id=39498863) - [TSMC is having more luck building in Japan than in America](https://www.economist.com/business/2024/02/22/tsmc-is-having-more-luck-building-in-japan-than-in-america)
 * [2024-02-25, 07:49:09](https://news.ycombinator.com/item?id=39498555) - [What Restoring a 30-Year-Old Nintendo Taught Me About Right to Repair](https://debugger.medium.com/what-restoring-a-30-year-old-nintendo-taught-me-about-right-to-repair-3bffdf548f6d)
