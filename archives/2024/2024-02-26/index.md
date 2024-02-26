@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
 * [2024-02-26, 05:23:18](https://news.ycombinator.com/item?id=39507926) - [I tried to create a newer version of 1k True Fans](https://thesocialjuice.substack.com/p/a-tldr-list-of-my-favourite-marketing)
+* [2024-02-26, 05:22:01](https://news.ycombinator.com/item?id=39507918) - [New search engine just dropped](https://explorer.globe.engineer)
 * [2024-02-26, 04:57:07](https://news.ycombinator.com/item?id=39507831) - [Ask HN: What do I do with my side projects?](https://news.ycombinator.com/item?id=39507831)
 * [2024-02-26, 04:42:39](https://news.ycombinator.com/item?id=39507758) - [Disillusioned with Deno](https://www.baldurbjarnason.com/2024/disillusioned-with-deno/)
 * [2024-02-26, 04:07:39](https://news.ycombinator.com/item?id=39507553) - [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
