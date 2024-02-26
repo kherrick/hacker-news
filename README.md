@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-26, 21:25:18](https://news.ycombinator.com/item?id=39516927) - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
 * [2024-02-26, 19:58:52](https://news.ycombinator.com/item?id=39516091) - [Package Dependency Hell](https://www.ramijames.com/thoughts/package-dependency-hell)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
@@ -10,7 +11,6 @@
 * [2024-02-26, 16:17:36](https://news.ycombinator.com/item?id=39513051) - [What a major solar storm could do](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
 * [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [How to find the AWS account ID of any S3 bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
-* [2024-02-26, 15:12:37](https://news.ycombinator.com/item?id=39512140) - [David Milch’s disembodied writing process](https://masoncurrey.substack.com/p/david-milch-disembodied-writing-process)
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
 * [2024-02-26, 14:25:05](https://news.ycombinator.com/item?id=39511530) - [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
