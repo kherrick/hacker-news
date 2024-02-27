@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 19:02:22](https://news.ycombinator.com/item?id=39528134) - [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
 * [2024-02-27, 18:38:29](https://news.ycombinator.com/item?id=39527759) - [When surge pricing hits, your wallet takes a thrashing](https://ldstephens.me/when-surge-pricing-hits-your-wallet-takes-a-thrashing)
+* [2024-02-27, 18:14:11](https://news.ycombinator.com/item?id=39527405) - [Powers of Ten (1977) [video]](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 * [2024-02-27, 18:12:41](https://news.ycombinator.com/item?id=39527379) - [Amazon lobbyists face ban from European Parliament](https://www.politico.eu/article/amazon-lobbyists-face-ban-from-european-parliament/)
 * [2024-02-27, 17:36:22](https://news.ycombinator.com/item?id=39526886) - [Google's Gemini Headaches Spur $90B Selloff](https://www.forbes.com/sites/dereksaul/2024/02/26/googles-gemini-headaches-spur-90-billion-selloff/)
 * [2024-02-27, 17:35:02](https://news.ycombinator.com/item?id=39526869) - [Forgejo makes a full break from Gitea](https://lwn.net/SubscriberLink/963095/85db4f864c060d22/)
@@ -45,6 +47,7 @@
 * [2024-02-27, 12:29:22](https://news.ycombinator.com/item?id=39523241) - [Bitcoin scorches past $57,000 as big buyers flock in](https://www.reuters.com/technology/bitcoin-breaks-57000-big-buyers-circle-2024-02-27/)
 * [2024-02-27, 12:21:56](https://news.ycombinator.com/item?id=39523187) - [Swiss Maps Are Full of Hidden Secrets](https://www.atlasobscura.com/articles/swiss-map-secrets)
 * [2024-02-27, 12:21:56](https://news.ycombinator.com/item?id=39523187) - [Easter eggs on Swiss maps (2021)](https://bigthink.com/strange-maps/swiss-maps/)
+* [2024-02-27, 12:13:42](https://news.ycombinator.com/item?id=39523122) - [The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 * [2024-02-27, 12:00:14](https://news.ycombinator.com/item?id=39523023) - [Promoted.ai (YC W21) Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
 * [2024-02-27, 11:47:11](https://news.ycombinator.com/item?id=39522926) - [AI PR adds auto generated comments to whole Spring Boot Project](https://github.com/spring-projects/spring-boot/pull/39754/)
 * [2024-02-27, 11:44:31](https://news.ycombinator.com/item?id=39522908) - [Solving Prompt Injection via Backtranslation](https://arxiv.org/abs/2402.16459)
