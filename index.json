@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-27, 19:05:40",
+      "https://news.ycombinator.com/item?id=39528192"
+    ],
+    [
+      "Synthetic data generation for tabular data",
+      "https://github.com/sdv-dev/SDV"
+    ]
+  ],
+  [
+    [
       "2024-02-27, 19:02:22",
       "https://news.ycombinator.com/item?id=39528134"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2024-02-27, 18:14:11",
-      "https://news.ycombinator.com/item?id=39527405"
+      "2024-02-27, 18:26:55",
+      "https://news.ycombinator.com/item?id=39527588"
     ],
     [
-      "Powers of Ten (1977) [video]",
-      "https://www.youtube.com/watch?v=0fKBhvDjuy0"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 18:12:41",
-      "https://news.ycombinator.com/item?id=39527379"
-    ],
-    [
-      "Amazon lobbyists face ban from European Parliament",
-      "https://www.politico.eu/article/amazon-lobbyists-face-ban-from-european-parliament/"
+      "Tumblr and WordPress to Sell Users' Data to Train AI Tools",
+      "https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "The unwritten rules of negotiating with Meta",
       "https://interviewing.io/blog/how-to-negotiate-with-meta"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 16:45:55",
+      "https://news.ycombinator.com/item?id=39526246"
+    ],
+    [
+      "YC by the Numbers: 2005–2023",
+      "https://my.causal.app/models/213633"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Why time seems to pass faster as we age",
       "https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 03:39:02",
-      "https://news.ycombinator.com/item?id=39519894"
-    ],
-    [
-      "Rapier is a set of 2D and 3D physics engines written in Rust",
-      "https://rapier.rs/docs/"
     ]
   ],
   [
