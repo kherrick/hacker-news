@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-02-27, 04:26:11",
-      "https://news.ycombinator.com/item?id=39520137"
-    ],
-    [
-      "Arson feared as two Teslas burn within blocks of each other in S.F",
-      "https://www.sfchronicle.com/crime/article/tesla-fires-soma-18686583.php"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 03:39:02",
       "https://news.ycombinator.com/item?id=39519894"
     ],
     [
       "Rapier is a set of 2D and 3D physics engines written in Rust",
       "https://rapier.rs/docs/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 03:19:39",
-      "https://news.ycombinator.com/item?id=39519762"
-    ],
-    [
-      "KKR to Acquire Broadcom's (VMware) End-User Computing Division",
-      "https://media.kkr.com/news-details/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-02-26, 12:59:55",
+      "https://news.ycombinator.com/item?id=39510793"
+    ],
+    [
+      "Calyx: Intermediate Language for Hardware Accelerators",
+      "https://github.com/calyxir/calyx"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 11:18:13",
       "https://news.ycombinator.com/item?id=39509983"
     ],
@@ -237,6 +227,16 @@
     [
       "On the impossibility of composing finalizers and FFI",
       "https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 09:40:27",
+      "https://news.ycombinator.com/item?id=39509287"
+    ],
+    [
+      "Fractal Scaling and the Aesthetics of Trees",
+      "http://www.arxiv.org/abs/2402.13520"
     ]
   ],
   [
