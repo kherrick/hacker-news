@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-02-27, 15:12:59",
-      "https://news.ycombinator.com/item?id=39525034"
+      "2024-02-27, 15:06:10",
+      "https://news.ycombinator.com/item?id=39524947"
     ],
     [
-      "Academics can no longer speak freely",
-      "https://www.newstatesman.com/comment/2024/02/academic-free-speech"
+      "Core Nginx Developer Forks Web Server into Freenginx",
+      "https://www.phoronix.com/news/Nginx-Forked-To-Freenginx"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39523813"
     ],
     [
-      "Boeing Missing Key Elements of Safety Culture: FAA Report",
+      "Boeing missing key elements of safety culture: FAA report",
       "https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report"
     ]
   ],
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-02-27, 11:47:11",
+      "https://news.ycombinator.com/item?id=39522926"
+    ],
+    [
+      "AI PR adds auto generated comments to whole Spring Boot Project",
+      "https://github.com/spring-projects/spring-boot/pull/39754/"
+    ]
+  ],
+  [
+    [
       "2024-02-27, 11:44:31",
       "https://news.ycombinator.com/item?id=39522908"
     ],
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2024-02-27, 04:45:30",
-      "https://news.ycombinator.com/item?id=39520250"
+      "2024-02-27, 06:29:37",
+      "https://news.ycombinator.com/item?id=39520776"
     ],
     [
-      "The creator economy can't rely on Patreon",
-      "https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon"
+      "Netlify just sent me a $104k bill for a simple static site",
+      "https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Bpftop: Streamlining eBPF performance optimization",
       "https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 23:33:55",
-      "https://news.ycombinator.com/item?id=39518202"
-    ],
-    [
-      "Segmenting comic book frames",
-      "https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html"
     ]
   ],
   [
