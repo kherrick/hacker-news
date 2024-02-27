@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
-* [2024-02-27, 23:06:02](https://news.ycombinator.com/item?id=39531441) - [Electric cars produce twice as much CO₂ as trains, says rail group data](https://www.theguardian.com/business/2024/feb/27/train-travel-generates-less-carbon-than-battery-ev-says-rail-group-data)
+* [2024-02-27, 22:57:22](https://news.ycombinator.com/item?id=39531348) - [US Used AI to Help Find Middle East Targets for Airstrikes](https://www.bloomberg.com/news/articles/2024-02-26/us-says-it-used-ai-to-help-find-targets-it-hit-in-iraq-syria-and-yemen)
 * [2024-02-27, 22:34:34](https://news.ycombinator.com/item?id=39531101) - [Dealing with surprising human emotions: desk moves (2017)](https://larahogan.me/blog/desk-moves/)
 * [2024-02-27, 21:46:41](https://news.ycombinator.com/item?id=39530487) - [U.S. Launches Antitrust Investigation of UnitedHealth](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
 * [2024-02-27, 21:25:50](https://news.ycombinator.com/item?id=39530203) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
