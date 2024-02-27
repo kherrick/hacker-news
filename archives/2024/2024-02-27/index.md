@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 21:02:22](https://news.ycombinator.com/item?id=39529895) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-27, 20:23:50](https://news.ycombinator.com/item?id=39529319) - [Google Stock Slips as Tech Giant Grapples with AI Tool Criticism](https://www.investors.com/news/technology/google-stock-artificial-intelligence-ai-controversy/)
 * [2024-02-27, 19:42:21](https://news.ycombinator.com/item?id=39528726) - [SuperTux](https://github.com/SuperTux/supertux)
 * [2024-02-27, 19:19:03](https://news.ycombinator.com/item?id=39528390) - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
@@ -21,6 +22,7 @@
 * [2024-02-27, 17:30:10](https://news.ycombinator.com/item?id=39526797) - [The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
 * [2024-02-27, 17:24:11](https://news.ycombinator.com/item?id=39526707) - [The business of winding down startups is booming](https://pitchbook.com/news/articles/startup-shutdown-services-vc)
 * [2024-02-27, 17:01:04](https://news.ycombinator.com/item?id=39526423) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+* [2024-02-27, 16:59:38](https://news.ycombinator.com/item?id=39526409) - [A new aspect of Google's spying](https://www.michaelhorowitz.com/google.spying.php)
 * [2024-02-27, 16:56:44](https://news.ycombinator.com/item?id=39526371) - [Buying a Home Near Nvidia's Headquarters Is Nearly Impossible Right Now](https://www.wsj.com/real-estate/luxury-homes/nvidia-headquarters-santa-clara-california-d2634941)
 * [2024-02-27, 16:52:02](https://news.ycombinator.com/item?id=39526316) - [The unwritten rules of negotiating with Meta](https://interviewing.io/blog/how-to-negotiate-with-meta)
 * [2024-02-27, 16:45:55](https://news.ycombinator.com/item?id=39526246) - [YC by the Numbers: 2005–2023](https://my.causal.app/models/213633)
