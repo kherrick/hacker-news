@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 16:40:40](https://news.ycombinator.com/item?id=39526165) - [Airfoil](https://ciechanow.ski/)
+* [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
+* [2024-02-27, 16:12:00](https://news.ycombinator.com/item?id=39525764) - [Software Has Eaten the Media](https://www.wheresyoured.at/the-anti-economy/)
 * [2024-02-27, 15:40:27](https://news.ycombinator.com/item?id=39525338) - [Heat Pumps Take on Cold Climates](https://spectrum.ieee.org/cold-climate-heat-pump)
 * [2024-02-27, 15:36:39](https://news.ycombinator.com/item?id=39525287) - [Machine Learning Myths Debunked](https://www.hopsworks.ai/post/5-machine-learning-myths-debunked)
 * [2024-02-27, 15:36:26](https://news.ycombinator.com/item?id=39525283) - [US judge halts government effort to monitor crypto mining energy use](https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use)
