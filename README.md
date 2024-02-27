@@ -9,7 +9,6 @@
 * [2024-02-27, 16:56:44](https://news.ycombinator.com/item?id=39526371) - [Buying a Home Near Nvidia's Headquarters Is Nearly Impossible Right Now](https://www.wsj.com/real-estate/luxury-homes/nvidia-headquarters-santa-clara-california-d2634941)
 * [2024-02-27, 16:52:02](https://news.ycombinator.com/item?id=39526316) - [The unwritten rules of negotiating with Meta](https://interviewing.io/blog/how-to-negotiate-with-meta)
 * [2024-02-27, 16:44:21](https://news.ycombinator.com/item?id=39526220) - [How Netflix Uses Java](https://www.infoq.com/presentations/netflix-java/)
-* [2024-02-27, 16:39:23](https://news.ycombinator.com/item?id=39526147) - [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
 * [2024-02-27, 16:37:43](https://news.ycombinator.com/item?id=39526126) - [Deploying Web Apps with Caddy: A Beginner's Guide Caddy](https://betterstack.com/community/guides/web-servers/caddy/)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 15:32:36](https://news.ycombinator.com/item?id=39525243) - [Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
@@ -28,6 +27,7 @@
 * [2024-02-26, 20:35:45](https://news.ycombinator.com/item?id=39516465) - [Image formation with multiple wavelengths – simulation [video]](https://www.youtube.com/watch?v=nEjNbrydLKU)
 * [2024-02-26, 17:11:31](https://news.ycombinator.com/item?id=39513870) - [Social Media First Amendment Cases](https://www.lawfaremedia.org/article/supreme-court-oral-argument-preview-social-media-first-amendment-cases)
 * [2024-02-26, 12:39:58](https://news.ycombinator.com/item?id=39510597) - [\"14 Years of Go\" by Rob Pike](https://www.codereliant.io/14-years-of-go/)
+* [2024-02-26, 12:17:26](https://news.ycombinator.com/item?id=39510405) - [How I build and run behavioral interviews](https://www.benkuhn.net/behavioral/)
 * [2024-02-26, 06:44:30](https://news.ycombinator.com/item?id=39508246) - [Cinnamon: Using century old tech to build a mean load shedder (2023)](https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/)
 * [2024-02-25, 11:40:48](https://news.ycombinator.com/item?id=39500001) - [The Doomslayer (1997)](https://www.wired.com/1997/02/the-doomslayer-2/)
 
