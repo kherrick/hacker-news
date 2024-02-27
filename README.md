@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-27, 15:06:10](https://news.ycombinator.com/item?id=39524947) - [Core Nginx Developer Forks Web Server into Freenginx](https://www.phoronix.com/news/Nginx-Forked-To-Freenginx)
 * [2024-02-27, 14:59:53](https://news.ycombinator.com/item?id=39524874) - [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
 * [2024-02-27, 14:13:38](https://news.ycombinator.com/item?id=39524327) - [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
 * [2024-02-27, 13:59:45](https://news.ycombinator.com/item?id=39524164) - [Botanical gardens can cool city air by an average of 5°C](https://newatlas.com/environment/surrey-cooling-effects-green-spaces-waterways/)
@@ -19,6 +18,7 @@
 * [2024-02-27, 06:29:37](https://news.ycombinator.com/item?id=39520776) - [Netlify just sent me a $104k bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
+* [2024-02-26, 23:33:55](https://news.ycombinator.com/item?id=39518202) - [Segmenting comic book frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 * [2024-02-26, 22:35:09](https://news.ycombinator.com/item?id=39517573) - [Herbgrind analyzes binaries to find inaccurate floating point expressions](https://herbgrind.ucsd.edu/)
 * [2024-02-26, 20:35:45](https://news.ycombinator.com/item?id=39516465) - [Image formation with multiple wavelengths – simulation [video]](https://www.youtube.com/watch?v=nEjNbrydLKU)
 * [2024-02-26, 17:11:31](https://news.ycombinator.com/item?id=39513870) - [Social Media First Amendment Cases](https://www.lawfaremedia.org/article/supreme-court-oral-argument-preview-social-media-first-amendment-cases)
