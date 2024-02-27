@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-27, 04:58:34](https://news.ycombinator.com/item?id=39520343) - [Apollo calls AI a 'bubble' worse than even the dotcom era](https://fortune.com/2024/02/26/nvidia-ai-bubble-apollo-asset-manager-dotcom-artificial-intelligence/)
-* [2024-02-27, 04:16:48](https://news.ycombinator.com/item?id=39520099) - [URLs Make ChatGPT Stupid](https://www.acco.io/urls-make-chatgpt-stupid)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
 * [2024-02-27, 03:06:56](https://news.ycombinator.com/item?id=39519692) - [Ask HN: People who switched from GPT to their own models. How was it?](https://news.ycombinator.com/item?id=39519692)
+* [2024-02-27, 01:54:18](https://news.ycombinator.com/item?id=39519145) - [Is Tableau Dead?](https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
 * [2024-02-27, 01:00:43](https://news.ycombinator.com/item?id=39518767) - [Breakdown products of niacin may spur vascular inflammation](https://arstechnica.com/science/2024/02/surprising-link-found-between-niacin-and-risk-of-heart-attack-and-stroke/)
 * [2024-02-26, 23:33:55](https://news.ycombinator.com/item?id=39518202) - [Segmenting Comic book Frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)

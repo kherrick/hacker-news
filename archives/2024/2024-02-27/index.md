@@ -13,6 +13,7 @@
 * [2024-02-27, 03:01:32](https://news.ycombinator.com/item?id=39519652) - [AI commented the entire Spring Boot codebase](https://github.com/spring-projects/spring-boot/pull/39754/)
 * [2024-02-27, 02:54:37](https://news.ycombinator.com/item?id=39519609) - [On Alcohol](https://aksui.com/alcohol)
 * [2024-02-27, 02:03:55](https://news.ycombinator.com/item?id=39519228) - [Why Capital One Wants to Buy Discover](https://onepercentamonth.com/2024/02/26/why-capital-one-wants-to-buy-discover/)
+* [2024-02-27, 01:54:18](https://news.ycombinator.com/item?id=39519145) - [Is Tableau Dead?](https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau)
 * [2024-02-27, 01:48:54](https://news.ycombinator.com/item?id=39519108) - [Wendy's Is Introducing Uber-Style 'Surge Pricing'](https://www.foodandwine.com/wendys-introducing-dynamic-pricing-8600506)
 * [2024-02-27, 01:32:14](https://news.ycombinator.com/item?id=39518964) - [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
