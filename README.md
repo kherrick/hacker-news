@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
+* [2024-02-27, 03:06:56](https://news.ycombinator.com/item?id=39519692) - [Ask HN: People who switched from GPT to their own models. How was it?](https://news.ycombinator.com/item?id=39519692)
 * [2024-02-27, 01:32:14](https://news.ycombinator.com/item?id=39518964) - [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
 * [2024-02-27, 01:00:43](https://news.ycombinator.com/item?id=39518767) - [Breakdown products of niacin may spur vascular inflammation](https://arstechnica.com/science/2024/02/surprising-link-found-between-niacin-and-risk-of-heart-attack-and-stroke/)
@@ -7,7 +9,6 @@
 * [2024-02-26, 23:29:57](https://news.ycombinator.com/item?id=39518161) - [Cactus – A Modern Diablo II Version Switcher, Character Isolator, & Mod Manager](https://github.com/fearedbliss/Cactus)
 * [2024-02-26, 22:50:50](https://news.ycombinator.com/item?id=39517760) - [Wax: The Word Processor for the Web](https://waxjs.net/)
 * [2024-02-26, 22:18:32](https://news.ycombinator.com/item?id=39517396) - [Unity's stock sheds 15% after disappointing earnings](https://www.marketwatch.com/story/unitys-stock-crumbles-as-earnings-forecasts-underwhelm-658b02ac)
-* [2024-02-26, 21:50:37](https://news.ycombinator.com/item?id=39517145) - [Why Jalapeño Peppers Are Less Spicy Than Ever (2023)](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
 * [2024-02-26, 21:25:18](https://news.ycombinator.com/item?id=39516927) - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
 * [2024-02-26, 19:49:14](https://news.ycombinator.com/item?id=39516007) - [Why Isn't Taxpayer-Funded U.S. Broadband Mapping Data Owned by the Public?](https://www.techdirt.com/2024/02/26/why-isnt-taxpayer-funded-u-s-broadband-mapping-data-owned-by-the-public/)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
@@ -23,7 +24,6 @@
 * [2024-02-26, 13:10:13](https://news.ycombinator.com/item?id=39510874) - [Show HN: R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R)
 * [2024-02-26, 12:01:07](https://news.ycombinator.com/item?id=39510292) - [Ask HN: How do you learn and research every day?](https://news.ycombinator.com/item?id=39510292)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
-* [2024-02-26, 09:40:27](https://news.ycombinator.com/item?id=39509287) - [Fractal Scaling and the Aesthetics of Trees](http://www.arxiv.org/abs/2402.13520)
 * [2024-02-26, 08:57:45](https://news.ycombinator.com/item?id=39509012) - [Insecure Features in PDFs (2021)](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
 * [2024-02-26, 07:51:35](https://news.ycombinator.com/item?id=39508626) - [Show HN: Free Certificate Monitoring via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-26, 05:54:31](https://news.ycombinator.com/item?id=39508046) - [You Are Not Late (2014)](https://kk.org/thetechnium/you-are-not-late/)

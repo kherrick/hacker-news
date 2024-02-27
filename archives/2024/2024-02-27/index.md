@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
+* [2024-02-27, 03:06:56](https://news.ycombinator.com/item?id=39519692) - [Ask HN: People who switched from GPT to their own models. How was it?](https://news.ycombinator.com/item?id=39519692)
 * [2024-02-27, 03:01:32](https://news.ycombinator.com/item?id=39519652) - [AI commented the entire Spring Boot codebase](https://github.com/spring-projects/spring-boot/pull/39754/)
 * [2024-02-27, 02:03:55](https://news.ycombinator.com/item?id=39519228) - [Why Capital One Wants to Buy Discover](https://onepercentamonth.com/2024/02/26/why-capital-one-wants-to-buy-discover/)
 * [2024-02-27, 01:48:54](https://news.ycombinator.com/item?id=39519108) - [Wendy's Is Introducing Uber-Style 'Surge Pricing'](https://www.foodandwine.com/wendys-introducing-dynamic-pricing-8600506)
