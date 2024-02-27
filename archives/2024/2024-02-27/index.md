@@ -6,6 +6,7 @@
 
 * [2024-02-27, 07:01:12](https://news.ycombinator.com/item?id=39520960) - [Bemlo (YC W22) Is Hiring React devs to change how healthcare shifts are filled](https://www.ycombinator.com/companies/bemlo/jobs/6QWqjSn-senior-frontend-fullstack-developer-ts-node-react)
 * [2024-02-27, 06:33:20](https://news.ycombinator.com/item?id=39520797) - [On the importance to make games during the game engine's development](https://www.team-nutshell.dev/nutshellengine/articles/making-games-during-development.html)
+* [2024-02-27, 06:29:37](https://news.ycombinator.com/item?id=39520776) - [Netlify just sent me a $104K bill for a simple static site](https://reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
 * [2024-02-27, 06:29:37](https://news.ycombinator.com/item?id=39520776) - [Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
 * [2024-02-27, 06:15:29](https://news.ycombinator.com/item?id=39520704) - [B.C. lawyer reprimanded for citing fake cases invented by ChatGPT](https://www.cbc.ca/news/canada/british-columbia/lawyer-chatgpt-fake-precedent-1.7126393)
 * [2024-02-27, 04:58:34](https://news.ycombinator.com/item?id=39520343) - [Apollo calls AI a 'bubble' worse than even the dotcom era](https://fortune.com/2024/02/26/nvidia-ai-bubble-apollo-asset-manager-dotcom-artificial-intelligence/)
