@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 13:50:06](https://news.ycombinator.com/item?id=39524059) - [Vice Media Collapse Entirely Fault of Incompetent, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/27/the-vice-media-collapse-was-entirely-the-fault-of-incompetent-fail-upward-brunchlords/)
+* [2024-02-27, 13:48:02](https://news.ycombinator.com/item?id=39524039) - [Honda's first US-market EV is here–the 2024 Prologue, driven](https://arstechnica.com/cars/2024/02/heres-the-first-drive-of-hondas-new-ev-crossover-the-2024-prologue/)
 * [2024-02-27, 13:41:35](https://news.ycombinator.com/item?id=39523957) - [Sony Interactive Entertainment – Difficult News About Our Workforce](https://sonyinteractive.com/en/news/blog/difficult-news-about-our-workforce/)
 * [2024-02-27, 13:30:24](https://news.ycombinator.com/item?id=39523813) - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
 * [2024-02-27, 13:11:47](https://news.ycombinator.com/item?id=39523641) - [Consider the Pawpaw](https://beltmag.com/consider-the-pawpaw/)
