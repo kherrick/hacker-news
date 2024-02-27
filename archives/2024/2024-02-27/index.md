@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 21:56:42](https://news.ycombinator.com/item?id=39530648) - [Why the Future of Cloud Deployments Is Unikernels](https://kraft.cloud/blog/2023-07-22-unikraft-future-cloud-deployments/)
 * [2024-02-27, 21:46:41](https://news.ycombinator.com/item?id=39530487) - [U.S. Launches Antitrust Investigation of UnitedHealth](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
 * [2024-02-27, 21:26:50](https://news.ycombinator.com/item?id=39530215) - [Ask HN: Has Apple lost it's way?](https://news.ycombinator.com/item?id=39530215)
 * [2024-02-27, 21:25:50](https://news.ycombinator.com/item?id=39530203) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
