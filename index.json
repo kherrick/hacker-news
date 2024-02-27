@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-02-27, 17:36:22",
-      "https://news.ycombinator.com/item?id=39526886"
+      "2024-02-27, 18:38:29",
+      "https://news.ycombinator.com/item?id=39527759"
     ],
     [
-      "Google's Gemini Headaches Spur $90B Selloff",
-      "https://www.forbes.com/sites/dereksaul/2024/02/26/googles-gemini-headaches-spur-90-billion-selloff/"
+      "When surge pricing hits, your wallet takes a thrashing",
+      "https://ldstephens.me/when-surge-pricing-hits-your-wallet-takes-a-thrashing"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39526220"
     ],
     [
-      "How Netflix Uses Java",
+      "How Netflix really uses Java",
       "https://www.infoq.com/presentations/netflix-java/"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=39524327"
     ],
     [
-      "Blazer: Business Intelligence Made Simple",
+      "Blazer: Business intelligence made simple",
       "https://github.com/ankane/blazer"
     ]
   ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-02-26, 12:39:58",
-      "https://news.ycombinator.com/item?id=39510597"
-    ],
-    [
-      "\"14 Years of Go\" by Rob Pike",
-      "https://www.codereliant.io/14-years-of-go/"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 12:17:26",
       "https://news.ycombinator.com/item?id=39510405"
     ],
@@ -287,6 +277,16 @@
     [
       "Cinnamon: Using century old tech to build a mean load shedder (2023)",
       "https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 06:26:40",
+      "https://news.ycombinator.com/item?id=39508167"
+    ],
+    [
+      "C++20 Idioms for Parameter Packs",
+      "https://www.scs.stanford.edu/~dm/blog/param-pack.html"
     ]
   ],
   [
