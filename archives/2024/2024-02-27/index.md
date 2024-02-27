@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 04:26:11](https://news.ycombinator.com/item?id=39520137) - [Arson feared as two Teslas burn within blocks of each other in S.F](https://www.sfchronicle.com/crime/article/tesla-fires-soma-18686583.php)
+* [2024-02-27, 04:16:48](https://news.ycombinator.com/item?id=39520099) - [URLs Make ChatGPT Stupid](https://www.acco.io/urls-make-chatgpt-stupid)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
 * [2024-02-27, 03:19:39](https://news.ycombinator.com/item?id=39519762) - [KKR to Acquire Broadcom's (VMware) End-User Computing Division](https://media.kkr.com/news-details/)
 * [2024-02-27, 03:06:56](https://news.ycombinator.com/item?id=39519692) - [Ask HN: People who switched from GPT to their own models. How was it?](https://news.ycombinator.com/item?id=39519692)
