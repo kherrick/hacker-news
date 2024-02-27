@@ -7,6 +7,7 @@
 * [2024-02-27, 19:19:03](https://news.ycombinator.com/item?id=39528390) - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
 * [2024-02-27, 19:05:40](https://news.ycombinator.com/item?id=39528192) - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
 * [2024-02-27, 19:02:22](https://news.ycombinator.com/item?id=39528134) - [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
+* [2024-02-27, 19:01:26](https://news.ycombinator.com/item?id=39528118) - [FTC chair Lina Khan takes victory lap on blocking Nvidia-Arm merger](https://www.cnbc.com/2024/02/27/ftc-chair-lina-khan-takes-victory-lap-on-blocking-nvidia-arm-merger.html)
 * [2024-02-27, 18:38:29](https://news.ycombinator.com/item?id=39527759) - [When surge pricing hits, your wallet takes a thrashing](https://ldstephens.me/when-surge-pricing-hits-your-wallet-takes-a-thrashing)
 * [2024-02-27, 18:26:55](https://news.ycombinator.com/item?id=39527588) - [Tumblr and WordPress to Sell Users' Data to Train AI Tools](https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/)
 * [2024-02-27, 18:14:11](https://news.ycombinator.com/item?id=39527405) - [Powers of Ten (1977) [video]](https://www.youtube.com/watch?v=0fKBhvDjuy0)
