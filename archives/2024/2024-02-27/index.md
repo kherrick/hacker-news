@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 15:40:27](https://news.ycombinator.com/item?id=39525338) - [Heat Pumps Take on Cold Climates](https://spectrum.ieee.org/cold-climate-heat-pump)
+* [2024-02-27, 15:36:39](https://news.ycombinator.com/item?id=39525287) - [Machine Learning Myths Debunked](https://www.hopsworks.ai/post/5-machine-learning-myths-debunked)
+* [2024-02-27, 15:18:13](https://news.ycombinator.com/item?id=39525071) - [Show HN: I built an open-source data copy tool called ingestr](https://github.com/bruin-data/ingestr)
 * [2024-02-27, 15:12:59](https://news.ycombinator.com/item?id=39525034) - [Academics can no longer speak freely](https://www.newstatesman.com/comment/2024/02/academic-free-speech)
 * [2024-02-27, 15:06:10](https://news.ycombinator.com/item?id=39524947) - [Core Nginx Developer Forks Web Server into Freenginx](https://www.phoronix.com/news/Nginx-Forked-To-Freenginx)
 * [2024-02-27, 14:59:53](https://news.ycombinator.com/item?id=39524874) - [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
