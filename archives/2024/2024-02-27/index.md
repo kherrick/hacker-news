@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
 * [2024-02-27, 04:58:34](https://news.ycombinator.com/item?id=39520343) - [Apollo calls AI a 'bubble' worse than even the dotcom era](https://fortune.com/2024/02/26/nvidia-ai-bubble-apollo-asset-manager-dotcom-artificial-intelligence/)
+* [2024-02-27, 04:45:30](https://news.ycombinator.com/item?id=39520250) - [The creator economy can't rely on Patreon](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
 * [2024-02-27, 04:26:11](https://news.ycombinator.com/item?id=39520137) - [Arson feared as two Teslas burn within blocks of each other in S.F](https://www.sfchronicle.com/crime/article/tesla-fires-soma-18686583.php)
 * [2024-02-27, 04:16:48](https://news.ycombinator.com/item?id=39520099) - [URLs Make ChatGPT Stupid](https://www.acco.io/urls-make-chatgpt-stupid)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)

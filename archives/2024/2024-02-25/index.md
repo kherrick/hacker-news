@@ -26,6 +26,7 @@
 * [2024-02-25, 20:19:31](https://news.ycombinator.com/item?id=39504351) - [Marilyn vos Savant and the Monty Hall Problem (2015)](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
 * [2024-02-25, 20:18:42](https://news.ycombinator.com/item?id=39504342) - [Windsor Typeface (2018)](https://fontreviewjournal.com/windsor/)
 * [2024-02-25, 20:17:12](https://news.ycombinator.com/item?id=39504324) - [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
+* [2024-02-25, 20:17:06](https://news.ycombinator.com/item?id=39504323) - [What's Behind the Evolution of Neanderthal Portraits](https://www.sapiens.org/archaeology/neanderthal-art-paleolithic-archaeology/)
 * [2024-02-25, 20:16:17](https://news.ycombinator.com/item?id=39504318) - [Ahab's Leg Dilemma](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1)
 * [2024-02-25, 20:15:45](https://news.ycombinator.com/item?id=39504312) - [Florida Passes Sweeping Bill to Keep Young People Off Social Media](https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html)
 * [2024-02-25, 20:14:36](https://news.ycombinator.com/item?id=39504304) - [Notes on paper (2023)](https://voussoir.net/writing/notes_on_paper)
