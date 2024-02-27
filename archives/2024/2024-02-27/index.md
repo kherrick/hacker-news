@@ -6,8 +6,10 @@
 
 * [2024-02-27, 09:49:27](https://news.ycombinator.com/item?id=39522144) - [Google has another 'woke' problem with Gemini and it's going to be hard to fix](https://www.businessinsider.com/google-gemini-woke-images-ai-chatbot-criticism-controversy-2024-2)
 * [2024-02-27, 09:33:21](https://news.ycombinator.com/item?id=39522031) - [React Labs: What We've Been Working On – February 2024 – React Compiler](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
+* [2024-02-27, 09:21:25](https://news.ycombinator.com/item?id=39521944) - [Shittier: Code formatting tool that makes your code look terrible](https://github.com/rohitdhas/shittier)
 * [2024-02-27, 09:20:01](https://news.ycombinator.com/item?id=39521930) - [I Backup](https://sive.rs/backup)
 * [2024-02-27, 09:03:08](https://news.ycombinator.com/item?id=39521802) - [Balancing Optimization While Coding](https://breadchris.com/thinkies/finding-a-balance-while-coding/)
+* [2024-02-27, 08:42:22](https://news.ycombinator.com/item?id=39521650) - [Berlin TYPE: The official type for the city of Berlin](https://www.hvdfonts.com/custom-cases/berlin-type)
 * [2024-02-27, 07:39:18](https://news.ycombinator.com/item?id=39521226) - [Mistral Le Chat](https://mistral.ai/fr/news/le-chat-mistral/)
 * [2024-02-27, 07:01:12](https://news.ycombinator.com/item?id=39520960) - [Bemlo (YC W22) Is Hiring React devs to change how healthcare shifts are filled](https://www.ycombinator.com/companies/bemlo/jobs/6QWqjSn-senior-frontend-fullstack-developer-ts-node-react)
 * [2024-02-27, 06:33:20](https://news.ycombinator.com/item?id=39520797) - [On the importance to make games during the game engine's development](https://www.team-nutshell.dev/nutshellengine/articles/making-games-during-development.html)
