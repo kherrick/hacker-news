@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
 * [2024-02-27, 01:48:54](https://news.ycombinator.com/item?id=39519108) - [Wendy's Is Introducing Uber-Style 'Surge Pricing'](https://www.foodandwine.com/wendys-introducing-dynamic-pricing-8600506)
+* [2024-02-27, 01:32:14](https://news.ycombinator.com/item?id=39518964) - [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
 * [2024-02-27, 00:54:42](https://news.ycombinator.com/item?id=39518730) - [Birthrate in UK falls to record low as campaigners say 'procreation a luxury'](https://www.theguardian.com/uk-news/2024/feb/23/birthrate-in-uk-falls-to-record-low-as-campaigners-say-procreation-is-a-luxury)
 * [2024-02-27, 00:52:21](https://news.ycombinator.com/item?id=39518718) - [Wendy's Wants to Start Uber-Like Surge Pricing in 2025](https://gizmodo.com/wendys-wants-uber-surge-pricing-in-2025-1851288108)
