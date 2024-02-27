@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 19:05:40](https://news.ycombinator.com/item?id=39528192) - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
 * [2024-02-27, 19:02:22](https://news.ycombinator.com/item?id=39528134) - [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
 * [2024-02-27, 18:38:29](https://news.ycombinator.com/item?id=39527759) - [When surge pricing hits, your wallet takes a thrashing](https://ldstephens.me/when-surge-pricing-hits-your-wallet-takes-a-thrashing)
+* [2024-02-27, 18:26:55](https://news.ycombinator.com/item?id=39527588) - [Tumblr and WordPress to Sell Users' Data to Train AI Tools](https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/)
 * [2024-02-27, 18:14:11](https://news.ycombinator.com/item?id=39527405) - [Powers of Ten (1977) [video]](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 * [2024-02-27, 18:12:41](https://news.ycombinator.com/item?id=39527379) - [Amazon lobbyists face ban from European Parliament](https://www.politico.eu/article/amazon-lobbyists-face-ban-from-european-parliament/)
 * [2024-02-27, 17:36:22](https://news.ycombinator.com/item?id=39526886) - [Google's Gemini Headaches Spur $90B Selloff](https://www.forbes.com/sites/dereksaul/2024/02/26/googles-gemini-headaches-spur-90-billion-selloff/)
@@ -16,6 +18,7 @@
 * [2024-02-27, 17:01:04](https://news.ycombinator.com/item?id=39526423) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-02-27, 16:56:44](https://news.ycombinator.com/item?id=39526371) - [Buying a Home Near Nvidia's Headquarters Is Nearly Impossible Right Now](https://www.wsj.com/real-estate/luxury-homes/nvidia-headquarters-santa-clara-california-d2634941)
 * [2024-02-27, 16:52:02](https://news.ycombinator.com/item?id=39526316) - [The unwritten rules of negotiating with Meta](https://interviewing.io/blog/how-to-negotiate-with-meta)
+* [2024-02-27, 16:45:55](https://news.ycombinator.com/item?id=39526246) - [YC by the Numbers: 2005–2023](https://my.causal.app/models/213633)
 * [2024-02-27, 16:44:21](https://news.ycombinator.com/item?id=39526220) - [How Netflix Uses Java](https://www.infoq.com/presentations/netflix-java/)
 * [2024-02-27, 16:40:40](https://news.ycombinator.com/item?id=39526165) - [Airfoil](https://ciechanow.ski/)
 * [2024-02-27, 16:39:23](https://news.ycombinator.com/item?id=39526147) - [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
