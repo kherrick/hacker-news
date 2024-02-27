@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-27, 21:26:50](https://news.ycombinator.com/item?id=39530215) - [Ask HN: Has Apple lost it's way?](https://news.ycombinator.com/item?id=39530215)
 * [2024-02-27, 21:25:50](https://news.ycombinator.com/item?id=39530203) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
-* [2024-02-27, 21:08:19](https://news.ycombinator.com/item?id=39529980) - [Tea.xyz causes a flood of spam pull requests to open source projects](https://github.com/TryGhost/Ghost/pull/19743)
+* [2024-02-27, 21:22:09](https://news.ycombinator.com/item?id=39530154) - [Apple pulls the plug on trying to create its own electric car after a decade](https://fortune.com/2024/02/27/apple-electric-car-cancel-2000-workers-ai/)
 * [2024-02-27, 21:02:22](https://news.ycombinator.com/item?id=39529895) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-27, 19:42:21](https://news.ycombinator.com/item?id=39528726) - [SuperTux](https://github.com/SuperTux/supertux)
 * [2024-02-27, 19:05:40](https://news.ycombinator.com/item?id=39528192) - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
@@ -24,7 +25,6 @@
 * [2024-02-27, 10:02:44](https://news.ycombinator.com/item?id=39522249) - [Why time seems to pass faster as we age](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/)
 * [2024-02-27, 06:29:37](https://news.ycombinator.com/item?id=39520776) - [Netlify just sent me a $104k bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
 * [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
-* [2024-02-26, 22:35:09](https://news.ycombinator.com/item?id=39517573) - [Herbgrind analyzes binaries to find inaccurate floating point expressions](https://herbgrind.ucsd.edu/)
 * [2024-02-26, 17:11:31](https://news.ycombinator.com/item?id=39513870) - [Social Media First Amendment Cases](https://www.lawfaremedia.org/article/supreme-court-oral-argument-preview-social-media-first-amendment-cases)
 * [2024-02-26, 15:16:22](https://news.ycombinator.com/item?id=39512188) - [Dracula's Biggest Mistake](https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/)
 * [2024-02-26, 12:17:26](https://news.ycombinator.com/item?id=39510405) - [How I build and run behavioral interviews](https://www.benkuhn.net/behavioral/)
