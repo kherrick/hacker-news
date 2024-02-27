@@ -55,6 +55,7 @@
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A Bad Day at the Office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
 * [2024-02-26, 15:24:09](https://news.ycombinator.com/item?id=39512299) - [What lengths will Chinese companies go to get an Nvidia A100 chip?](https://chinai.substack.com/p/chinai-255-panic-buying-speculative)
 * [2024-02-26, 15:19:42](https://news.ycombinator.com/item?id=39512230) - [Final images of Ingenuity reveal an entire blade broke off the helicopter](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/)
+* [2024-02-26, 15:16:22](https://news.ycombinator.com/item?id=39512188) - [Dracula's Biggest Mistake](https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/)
 * [2024-02-26, 15:13:21](https://news.ycombinator.com/item?id=39512153) - [Punk is dead and so are we](https://bananapeel.substack.com/p/punk-is-dead-and-so-are-we)
 * [2024-02-26, 15:12:37](https://news.ycombinator.com/item?id=39512140) - [David Milch’s disembodied writing process](https://masoncurrey.substack.com/p/david-milch-disembodied-writing-process)
 * [2024-02-26, 14:57:38](https://news.ycombinator.com/item?id=39511950) - [My streaming fatigue got so bad I started collecting DVDs](https://www.theverge.com/24044151/streaming-subscription-prices-dvd-collection)
