@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 12:00:14](https://news.ycombinator.com/item?id=39523023) - [Promoted.ai (YC W21) Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
+* [2024-02-27, 11:27:17](https://news.ycombinator.com/item?id=39522798) - [Rainwater everywhere on the planet is unsafe to drink due to chemicals (2022)](https://phys.org/news/2022-08-rainwater-unsafe-due-chemicals.html)
+* [2024-02-27, 11:23:17](https://news.ycombinator.com/item?id=39522770) - [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
 * [2024-02-27, 10:42:50](https://news.ycombinator.com/item?id=39522499) - [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
 * [2024-02-27, 10:16:18](https://news.ycombinator.com/item?id=39522348) - [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
 * [2024-02-27, 09:49:27](https://news.ycombinator.com/item?id=39522144) - [Google has another 'woke' problem with Gemini and it's going to be hard to fix](https://www.businessinsider.com/google-gemini-woke-images-ai-chatbot-criticism-controversy-2024-2)
