@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-02-27, 15:40:27",
-      "https://news.ycombinator.com/item?id=39525338"
+      "2024-02-27, 15:36:26",
+      "https://news.ycombinator.com/item?id=39525283"
     ],
     [
-      "Heat Pumps Take on Cold Climates",
-      "https://spectrum.ieee.org/cold-climate-heat-pump"
+      "US judge halts government effort to monitor crypto mining energy use",
+      "https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use"
     ]
   ],
   [
     [
-      "2024-02-27, 15:36:39",
-      "https://news.ycombinator.com/item?id=39525287"
+      "2024-02-27, 15:32:36",
+      "https://news.ycombinator.com/item?id=39525243"
     ],
     [
-      "Machine Learning Myths Debunked",
-      "https://www.hopsworks.ai/post/5-machine-learning-myths-debunked"
+      "Testing the F-35C Tailhook",
+      "https://the-engi-nerd.github.io/posts/welcome/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 15:29:56",
+      "https://news.ycombinator.com/item?id=39525212"
+    ],
+    [
+      "OpenAI: 'The New York Times Paid Someone to Hack Us'",
+      "https://torrentfreak.com/openai-the-new-york-times-paid-someone-to-hack-us-240227/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-02-27, 11:23:17",
-      "https://news.ycombinator.com/item?id=39522770"
-    ],
-    [
-      "Software Infrastructure 2.0: A Wishlist",
-      "https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 10:16:18",
       "https://news.ycombinator.com/item?id=39522348"
     ],
@@ -197,16 +197,6 @@
     [
       "Rapier is a set of 2D and 3D physics engines written in Rust",
       "https://rapier.rs/docs/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 01:04:09",
-      "https://news.ycombinator.com/item?id=39518791"
-    ],
-    [
-      "Bpftop: Streamlining eBPF performance optimization",
-      "https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Retrospective on Requests",
       "https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 11:40:48",
+      "https://news.ycombinator.com/item?id=39500001"
+    ],
+    [
+      "The Doomslayer (1997)",
+      "https://www.wired.com/1997/02/the-doomslayer-2/"
     ]
   ]
 ]
