@@ -90,6 +90,7 @@
 * [2024-02-26, 08:02:29](https://news.ycombinator.com/item?id=39508668) - [CRE vet says 30% of office buildings are 'basically worth nothing'](https://fortune.com/2024/02/25/office-commercial-real-estate-crisis-doom-loop-conversion-housing-subsidies-demolition/)
 * [2024-02-26, 07:51:35](https://news.ycombinator.com/item?id=39508626) - [Show HN: Free Certificate Monitoring via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-26, 07:44:40](https://news.ycombinator.com/item?id=39508573) - [ADHD could have been evolutionary advantage for early humans](https://www.newshub.co.nz/home/world/2024/02/adhd-could-have-been-evolutionary-advantage-for-early-humans-new-study.html)
+* [2024-02-26, 07:26:26](https://news.ycombinator.com/item?id=39508467) - [Ants treat injured nestmates with antimicrobial compound in ant society](https://www.nature.com/articles/s41467-023-43885-w)
 * [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:46:09](https://news.ycombinator.com/item?id=39508257) - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 * [2024-02-26, 06:38:29](https://news.ycombinator.com/item?id=39508217) - [Lenovo's Project Crystal is first laptop with a transparent MicroLED display](https://www.engadget.com/lenovos-project-crystal-is-the-worlds-first-laptop-with-a-transparent-microled-display-230025521.html)

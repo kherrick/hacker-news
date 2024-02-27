@@ -35,4 +35,5 @@
 * [2024-02-27, 00:52:21](https://news.ycombinator.com/item?id=39518718) - [Wendy's Wants to Start Uber-Like Surge Pricing in 2025](https://gizmodo.com/wendys-wants-uber-surge-pricing-in-2025-1851288108)
 * [2024-02-27, 00:50:30](https://news.ycombinator.com/item?id=39518705) - [Stock markets are booming but the good times are unlikely to last](https://www.economist.com/finance-and-economics/2024/02/25/stockmarkets-are-booming-but-the-good-times-are-unlikely-to-last)
 * [2024-02-27, 00:30:08](https://news.ycombinator.com/item?id=39518590) - [Expedia to Eliminate 1,500 Jobs as Travel Growth Moderates](https://www.bloomberg.com/news/articles/2024-02-26/expedia-to-eliminate-1-500-jobs-as-travel-growth-moderates)
+* [2024-02-27, 00:22:45](https://news.ycombinator.com/item?id=39518535) - [The Marvelous Automata of Antiquity (2018)](https://daily.jstor.org/the-marvelous-automata-of-antiquity/)
 * [2024-02-27, 00:16:47](https://news.ycombinator.com/item?id=39518507) - [Reducing our AWS bill by $100k](https://usefathom.com/blog/reduce-aws-bill)
