@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-26, 23:33:55](https://news.ycombinator.com/item?id=39518202) - [Segmenting Comic Books Using SAM (Segment-Anything)](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
+* [2024-02-26, 22:23:59](https://news.ycombinator.com/item?id=39517455) - [Ask HN: Why do recommender systems not seem good?](https://news.ycombinator.com/item?id=39517455)
 * [2024-02-26, 21:50:37](https://news.ycombinator.com/item?id=39517145) - [Why Jalapeño Peppers Are Less Spicy Than Ever (2023)](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
 * [2024-02-26, 21:25:18](https://news.ycombinator.com/item?id=39516927) - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
-* [2024-02-26, 21:20:23](https://news.ycombinator.com/item?id=39516883) - [Odysseus has less than a day left on the Moon before it freezes to death](https://arstechnica.com/space/2024/02/nasa-found-the-private-lander-on-the-moon-but-its-lifetime-is-running-short/)
 * [2024-02-26, 19:49:14](https://news.ycombinator.com/item?id=39516007) - [Why Isn't Taxpayer-Funded U.S. Broadband Mapping Data Owned by the Public?](https://www.techdirt.com/2024/02/26/why-isnt-taxpayer-funded-u-s-broadband-mapping-data-owned-by-the-public/)
 * [2024-02-26, 19:02:19](https://news.ycombinator.com/item?id=39515478) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-26, 18:28:05](https://news.ycombinator.com/item?id=39515007) - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
@@ -24,10 +24,10 @@
 * [2024-02-26, 09:40:27](https://news.ycombinator.com/item?id=39509287) - [Fractal Scaling and the Aesthetics of Trees](http://www.arxiv.org/abs/2402.13520)
 * [2024-02-26, 08:57:45](https://news.ycombinator.com/item?id=39509012) - [Insecure Features in PDFs (2021)](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
 * [2024-02-26, 07:51:35](https://news.ycombinator.com/item?id=39508626) - [Show HN: Free Certificate Monitoring via RSS](https://raphting.dev/posts/monitor-rss/)
-* [2024-02-25, 21:01:03](https://news.ycombinator.com/item?id=39504702) - [Bitboards and Connect Four](https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md)
 * [2024-02-25, 20:18:42](https://news.ycombinator.com/item?id=39504342) - [Windsor Typeface (2018)](https://fontreviewjournal.com/windsor/)
 * [2024-02-25, 20:14:36](https://news.ycombinator.com/item?id=39504304) - [Notes on paper (2023)](https://voussoir.net/writing/notes_on_paper)
 * [2024-02-25, 13:18:17](https://news.ycombinator.com/item?id=39500565) - [Pydantic-resolve, a hierarchical solution for data fetching and processing](https://github.com/allmonday/pydantic-resolve)
+* [2024-02-25, 06:51:12](https://news.ycombinator.com/item?id=39498304) - [Tenement Farming and Cloud HSMs](http://unmitigatedrisk.com/?p=771)
 * [2024-02-25, 06:44:43](https://news.ycombinator.com/item?id=39498281) - [ViHN: Vim for Hacker News](https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/)
 * [2024-02-25, 05:19:08](https://news.ycombinator.com/item?id=39497907) - [What Do We Get Wrong About the Byzantine Empire?](https://www.historytoday.com/archive/head-head/what-do-we-get-wrong-about-byzantine-empire)
 
