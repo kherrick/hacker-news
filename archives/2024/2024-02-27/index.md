@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 12:34:36](https://news.ycombinator.com/item?id=39523271) - [Japan births hit record low, population down by largest margin in 2023](https://www.japantimes.co.jp/news/2024/02/27/japan/society/japan-2023-births-record-low/)
 * [2024-02-27, 12:30:14](https://news.ycombinator.com/item?id=39523245) - [Apple Vision Pro's components cost $1,542–but that's not the full story](https://arstechnica.com/gadgets/2024/02/apple-vision-pros-components-cost-1542-but-thats-not-the-full-story/)
 * [2024-02-27, 12:29:22](https://news.ycombinator.com/item?id=39523241) - [Bitcoin scorches past $57,000 as big buyers flock in](https://www.reuters.com/technology/bitcoin-breaks-57000-big-buyers-circle-2024-02-27/)
 * [2024-02-27, 12:21:56](https://news.ycombinator.com/item?id=39523187) - [Swiss Maps Are Full of Hidden Secrets](https://www.atlasobscura.com/articles/swiss-map-secrets)
 * [2024-02-27, 12:00:14](https://news.ycombinator.com/item?id=39523023) - [Promoted.ai (YC W21) Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
+* [2024-02-27, 11:44:31](https://news.ycombinator.com/item?id=39522908) - [Solving Prompt Injection via Backtranslation](https://arxiv.org/abs/2402.16459)
 * [2024-02-27, 11:27:17](https://news.ycombinator.com/item?id=39522798) - [Rainwater everywhere on the planet is unsafe to drink due to chemicals (2022)](https://phys.org/news/2022-08-rainwater-unsafe-due-chemicals.html)
 * [2024-02-27, 11:23:17](https://news.ycombinator.com/item?id=39522770) - [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
+* [2024-02-27, 10:47:27](https://news.ycombinator.com/item?id=39522531) - [From Bootstrapped to $425M acquisition – Trello's story](https://marketcurve.substack.com/p/from-bootstrapped-to-a-425-million)
 * [2024-02-27, 10:42:50](https://news.ycombinator.com/item?id=39522499) - [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
 * [2024-02-27, 10:16:18](https://news.ycombinator.com/item?id=39522348) - [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
 * [2024-02-27, 09:49:27](https://news.ycombinator.com/item?id=39522144) - [Google has another 'woke' problem with Gemini and it's going to be hard to fix](https://www.businessinsider.com/google-gemini-woke-images-ai-chatbot-criticism-controversy-2024-2)
