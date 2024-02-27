@@ -95,6 +95,7 @@
 * [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:46:09](https://news.ycombinator.com/item?id=39508257) - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 * [2024-02-26, 06:38:29](https://news.ycombinator.com/item?id=39508217) - [Lenovo's Project Crystal is first laptop with a transparent MicroLED display](https://www.engadget.com/lenovos-project-crystal-is-the-worlds-first-laptop-with-a-transparent-microled-display-230025521.html)
+* [2024-02-26, 06:26:40](https://news.ycombinator.com/item?id=39508167) - [C++20 Idioms for Parameter Packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)
 * [2024-02-26, 05:54:31](https://news.ycombinator.com/item?id=39508046) - [You Are Not Late (2014)](https://kk.org/thetechnium/you-are-not-late/)
 * [2024-02-26, 05:43:48](https://news.ycombinator.com/item?id=39508002) - [console.log(DOOM)](https://github.com/MattCozendey/doom-console-log)
 * [2024-02-26, 05:23:18](https://news.ycombinator.com/item?id=39507926) - [I tried to create a newer version of 1k True Fans](https://thesocialjuice.substack.com/p/a-tldr-list-of-my-favourite-marketing)

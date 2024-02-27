@@ -9,7 +9,7 @@
 * [2024-02-27, 09:21:25](https://news.ycombinator.com/item?id=39521944) - [Shittier: Code formatting tool that makes your code look terrible](https://github.com/rohitdhas/shittier)
 * [2024-02-27, 09:20:01](https://news.ycombinator.com/item?id=39521930) - [I Backup](https://sive.rs/backup)
 * [2024-02-27, 09:03:08](https://news.ycombinator.com/item?id=39521802) - [Balancing Optimization While Coding](https://breadchris.com/thinkies/finding-a-balance-while-coding/)
-* [2024-02-27, 08:42:22](https://news.ycombinator.com/item?id=39521650) - [Berlin TYPE: The official type for the city of Berlin](https://www.hvdfonts.com/custom-cases/berlin-type)
+* [2024-02-27, 08:42:22](https://news.ycombinator.com/item?id=39521650) - [Berlin TYPE: The official type for the city of Berlin (2020)](https://www.hvdfonts.com/custom-cases/berlin-type)
 * [2024-02-27, 08:39:15](https://news.ycombinator.com/item?id=39521626) - [Submarine cables linking Africa-Asia-Europe severed](https://en.globes.co.il/en/article-houthis-hit-underwater-communications-cables-1001472165)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
 * [2024-02-27, 01:54:18](https://news.ycombinator.com/item?id=39519145) - [Is Tableau Dead?](https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau)
@@ -25,11 +25,11 @@
 * [2024-02-26, 13:10:13](https://news.ycombinator.com/item?id=39510874) - [Show HN: R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R)
 * [2024-02-26, 11:09:56](https://news.ycombinator.com/item?id=39509927) - [On the impossibility of composing finalizers and FFI](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 * [2024-02-26, 07:26:26](https://news.ycombinator.com/item?id=39508467) - [Ants treat injured nestmates with antimicrobial compound in ant society](https://www.nature.com/articles/s41467-023-43885-w)
+* [2024-02-26, 06:26:40](https://news.ycombinator.com/item?id=39508167) - [C++20 Idioms for Parameter Packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)
 * [2024-02-26, 05:54:31](https://news.ycombinator.com/item?id=39508046) - [You are not late (2014)](https://kk.org/thetechnium/you-are-not-late/)
 * [2024-02-26, 04:54:45](https://news.ycombinator.com/item?id=39507820) - [Multi – Multiplayer Collaboration for macOS](https://multi.app/)
 * [2024-02-25, 22:31:32](https://news.ycombinator.com/item?id=39505597) - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 * [2024-02-25, 20:17:06](https://news.ycombinator.com/item?id=39504323) - [What's Behind the Evolution of Neanderthal Portraits](https://www.sapiens.org/archaeology/neanderthal-art-paleolithic-archaeology/)
-* [2024-02-25, 05:19:08](https://news.ycombinator.com/item?id=39497907) - [What do we get wrong about the Byzantine Empire?](https://www.historytoday.com/archive/head-head/what-do-we-get-wrong-about-byzantine-empire)
 
 ## [Archives](archives/index.md)
 
