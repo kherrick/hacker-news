@@ -6,6 +6,9 @@
 
 * [2024-02-27, 15:40:27](https://news.ycombinator.com/item?id=39525338) - [Heat Pumps Take on Cold Climates](https://spectrum.ieee.org/cold-climate-heat-pump)
 * [2024-02-27, 15:36:39](https://news.ycombinator.com/item?id=39525287) - [Machine Learning Myths Debunked](https://www.hopsworks.ai/post/5-machine-learning-myths-debunked)
+* [2024-02-27, 15:36:26](https://news.ycombinator.com/item?id=39525283) - [US judge halts government effort to monitor crypto mining energy use](https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use)
+* [2024-02-27, 15:32:36](https://news.ycombinator.com/item?id=39525243) - [Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
+* [2024-02-27, 15:29:56](https://news.ycombinator.com/item?id=39525212) - [OpenAI: 'The New York Times Paid Someone to Hack Us'](https://torrentfreak.com/openai-the-new-york-times-paid-someone-to-hack-us-240227/)
 * [2024-02-27, 15:18:13](https://news.ycombinator.com/item?id=39525071) - [Show HN: I built an open-source data copy tool called ingestr](https://github.com/bruin-data/ingestr)
 * [2024-02-27, 15:12:59](https://news.ycombinator.com/item?id=39525034) - [Academics can no longer speak freely](https://www.newstatesman.com/comment/2024/02/academic-free-speech)
 * [2024-02-27, 15:06:10](https://news.ycombinator.com/item?id=39524947) - [Core Nginx Developer Forks Web Server into Freenginx](https://www.phoronix.com/news/Nginx-Forked-To-Freenginx)

@@ -81,6 +81,7 @@
 * [2024-02-25, 12:33:26](https://news.ycombinator.com/item?id=39500275) - [Is Emacs Dying?](https://irreal.org/blog/?p=11995)
 * [2024-02-25, 12:31:38](https://news.ycombinator.com/item?id=39500263) - [You almost never see a clock at the mall](https://thehustle.co/originals/why-you-almost-never-see-a-clock-at-the-mall)
 * [2024-02-25, 12:06:35](https://news.ycombinator.com/item?id=39500121) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-02-25, 11:40:48](https://news.ycombinator.com/item?id=39500001) - [The Doomslayer (1997)](https://www.wired.com/1997/02/the-doomslayer-2/)
 * [2024-02-25, 11:35:50](https://news.ycombinator.com/item?id=39499974) - [How do startups building to detect deepfakes even compete?](https://news.ycombinator.com/item?id=39499974)
 * [2024-02-25, 10:57:42](https://news.ycombinator.com/item?id=39499734) - [I'm confused: what's with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
 * [2024-02-25, 10:52:20](https://news.ycombinator.com/item?id=39499704) - [How to Change a System](https://www.enablingchange.com.au/blog/strategy-2/how-to-change-a-system/)
