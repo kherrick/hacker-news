@@ -11,6 +11,7 @@
 * [2024-02-27, 17:24:11](https://news.ycombinator.com/item?id=39526707) - [The business of winding down startups is booming](https://pitchbook.com/news/articles/startup-shutdown-services-vc)
 * [2024-02-27, 17:01:04](https://news.ycombinator.com/item?id=39526423) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-02-27, 16:56:44](https://news.ycombinator.com/item?id=39526371) - [Buying a Home Near Nvidia's Headquarters Is Nearly Impossible Right Now](https://www.wsj.com/real-estate/luxury-homes/nvidia-headquarters-santa-clara-california-d2634941)
+* [2024-02-27, 16:52:02](https://news.ycombinator.com/item?id=39526316) - [The unwritten rules of negotiating with Meta](https://interviewing.io/blog/how-to-negotiate-with-meta)
 * [2024-02-27, 16:44:21](https://news.ycombinator.com/item?id=39526220) - [How Netflix Uses Java](https://www.infoq.com/presentations/netflix-java/)
 * [2024-02-27, 16:40:40](https://news.ycombinator.com/item?id=39526165) - [Airfoil](https://ciechanow.ski/)
 * [2024-02-27, 16:39:23](https://news.ycombinator.com/item?id=39526147) - [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
