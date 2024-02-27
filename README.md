@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-27, 06:29:37](https://news.ycombinator.com/item?id=39520776) - [Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
+* [2024-02-27, 06:15:29](https://news.ycombinator.com/item?id=39520704) - [B.C. lawyer reprimanded for citing fake cases invented by ChatGPT](https://www.cbc.ca/news/canada/british-columbia/lawyer-chatgpt-fake-precedent-1.7126393)
 * [2024-02-27, 04:45:30](https://news.ycombinator.com/item?id=39520250) - [The creator economy can't rely on Patreon](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
 * [2024-02-27, 01:54:18](https://news.ycombinator.com/item?id=39519145) - [Is Tableau Dead?](https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau)
@@ -21,7 +22,6 @@
 * [2024-02-26, 15:26:20](https://news.ycombinator.com/item?id=39512332) - [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
-* [2024-02-26, 13:10:13](https://news.ycombinator.com/item?id=39510874) - [Show HN: R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 * [2024-02-26, 11:09:56](https://news.ycombinator.com/item?id=39509927) - [On the impossibility of composing finalizers and FFI](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 * [2024-02-26, 05:54:31](https://news.ycombinator.com/item?id=39508046) - [You Are Not Late (2014)](https://kk.org/thetechnium/you-are-not-late/)

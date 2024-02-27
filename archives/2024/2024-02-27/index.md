@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
 * [2024-02-27, 06:29:37](https://news.ycombinator.com/item?id=39520776) - [Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
+* [2024-02-27, 06:15:29](https://news.ycombinator.com/item?id=39520704) - [B.C. lawyer reprimanded for citing fake cases invented by ChatGPT](https://www.cbc.ca/news/canada/british-columbia/lawyer-chatgpt-fake-precedent-1.7126393)
 * [2024-02-27, 04:58:34](https://news.ycombinator.com/item?id=39520343) - [Apollo calls AI a 'bubble' worse than even the dotcom era](https://fortune.com/2024/02/26/nvidia-ai-bubble-apollo-asset-manager-dotcom-artificial-intelligence/)
 * [2024-02-27, 04:45:30](https://news.ycombinator.com/item?id=39520250) - [The creator economy can't rely on Patreon](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
 * [2024-02-27, 04:26:11](https://news.ycombinator.com/item?id=39520137) - [Arson feared as two Teslas burn within blocks of each other in S.F](https://www.sfchronicle.com/crime/article/tesla-fires-soma-18686583.php)
