@@ -71,6 +71,7 @@
 * [2024-02-26, 13:08:14](https://news.ycombinator.com/item?id=39510859) - [Lenovo's concept laptop is real, transparent, and ready to impress](https://www.theverge.com/24082244/lenovo-concept-transparent-laptop-mwc-2024-drawing-tablet)
 * [2024-02-26, 12:59:55](https://news.ycombinator.com/item?id=39510793) - [Calyx: Intermediate Language for Hardware Accelerators](https://github.com/calyxir/calyx)
 * [2024-02-26, 12:56:01](https://news.ycombinator.com/item?id=39510756) - [The Disappointing Tea.xyz](https://connortumbleson.com/2024/02/26/the-disappointing-tea-xyz/)
+* [2024-02-26, 12:39:58](https://news.ycombinator.com/item?id=39510597) - [\"14 Years of Go\" by Rob Pike](https://www.codereliant.io/14-years-of-go/)
 * [2024-02-26, 12:01:07](https://news.ycombinator.com/item?id=39510292) - [Ask HN: How do you learn and research every day?](https://news.ycombinator.com/item?id=39510292)
 * [2024-02-26, 11:41:45](https://news.ycombinator.com/item?id=39510147) - [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
