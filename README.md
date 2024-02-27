@@ -26,8 +26,8 @@
 * [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
 * [2024-02-26, 22:35:09](https://news.ycombinator.com/item?id=39517573) - [Herbgrind analyzes binaries to find inaccurate floating point expressions](https://herbgrind.ucsd.edu/)
 * [2024-02-26, 17:11:31](https://news.ycombinator.com/item?id=39513870) - [Social Media First Amendment Cases](https://www.lawfaremedia.org/article/supreme-court-oral-argument-preview-social-media-first-amendment-cases)
+* [2024-02-26, 16:08:45](https://news.ycombinator.com/item?id=39512912) - [Show HN: AI Dub Tool I Made to Watch Foreign Language Videos with My 7-Year-Old](https://speakz.ai)
 * [2024-02-26, 15:16:22](https://news.ycombinator.com/item?id=39512188) - [Dracula's Biggest Mistake](https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/)
-* [2024-02-26, 12:17:26](https://news.ycombinator.com/item?id=39510405) - [How I build and run behavioral interviews](https://www.benkuhn.net/behavioral/)
 * [2024-02-25, 22:31:32](https://news.ycombinator.com/item?id=39505597) - [A retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 * [2024-02-25, 13:36:44](https://news.ycombinator.com/item?id=39500743) - [Anomalous cooling of bosons by dimensional reduction](https://www.science.org/doi/10.1126/sciadv.adk6870)
 

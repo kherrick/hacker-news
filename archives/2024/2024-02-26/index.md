@@ -46,6 +46,7 @@
 * [2024-02-26, 16:18:25](https://news.ycombinator.com/item?id=39513059) - [Ending the Ivy League's Tax Dodge](https://www.levernews.com/ending-the-ivy-leagues-tax-dodge/)
 * [2024-02-26, 16:17:54](https://news.ycombinator.com/item?id=39513054) - [Launch HN: Delve (YC W24) – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
 * [2024-02-26, 16:17:36](https://news.ycombinator.com/item?id=39513051) - [What a Major Solar Storm Could Do to Our Planet](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
+* [2024-02-26, 16:08:45](https://news.ycombinator.com/item?id=39512912) - [Show HN: AI Dub Tool I Made to Watch Foreign Language Videos with My 7-Year-Old](https://speakz.ai)
 * [2024-02-26, 16:07:43](https://news.ycombinator.com/item?id=39512896) - [It's now possible to find the AWS Account ID for any S3 Bucket (private too)](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 15:58:30](https://news.ycombinator.com/item?id=39512754) - [\"Coding\" was never the source of value](https://twitter.com/id_aa_carmack/status/1762110222321975442)
 * [2024-02-26, 15:54:13](https://news.ycombinator.com/item?id=39512684) - [Gemini and Google's Culture](https://stratechery.com/2024/gemini-and-googles-culture/)
