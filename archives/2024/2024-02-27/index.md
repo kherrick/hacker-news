@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 17:01:04](https://news.ycombinator.com/item?id=39526423) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+* [2024-02-27, 16:56:44](https://news.ycombinator.com/item?id=39526371) - [Buying a Home Near Nvidia's Headquarters Is Nearly Impossible Right Now](https://www.wsj.com/real-estate/luxury-homes/nvidia-headquarters-santa-clara-california-d2634941)
+* [2024-02-27, 16:44:21](https://news.ycombinator.com/item?id=39526220) - [How Netflix Uses Java](https://www.infoq.com/presentations/netflix-java/)
 * [2024-02-27, 16:40:40](https://news.ycombinator.com/item?id=39526165) - [Airfoil](https://ciechanow.ski/)
+* [2024-02-27, 16:39:23](https://news.ycombinator.com/item?id=39526147) - [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
 * [2024-02-27, 16:37:43](https://news.ycombinator.com/item?id=39526126) - [Deploying Web Apps with Caddy: A Beginner's Guide Caddy](https://betterstack.com/community/guides/web-servers/caddy/)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 16:12:00](https://news.ycombinator.com/item?id=39525764) - [Software Has Eaten the Media](https://www.wheresyoured.at/the-anti-economy/)
@@ -32,6 +36,7 @@
 * [2024-02-27, 12:30:14](https://news.ycombinator.com/item?id=39523245) - [Apple Vision Pro's components cost $1,542–but that's not the full story](https://arstechnica.com/gadgets/2024/02/apple-vision-pros-components-cost-1542-but-thats-not-the-full-story/)
 * [2024-02-27, 12:29:22](https://news.ycombinator.com/item?id=39523241) - [Bitcoin scorches past $57,000 as big buyers flock in](https://www.reuters.com/technology/bitcoin-breaks-57000-big-buyers-circle-2024-02-27/)
 * [2024-02-27, 12:21:56](https://news.ycombinator.com/item?id=39523187) - [Swiss Maps Are Full of Hidden Secrets](https://www.atlasobscura.com/articles/swiss-map-secrets)
+* [2024-02-27, 12:21:56](https://news.ycombinator.com/item?id=39523187) - [Easter eggs on Swiss maps (2021)](https://bigthink.com/strange-maps/swiss-maps/)
 * [2024-02-27, 12:00:14](https://news.ycombinator.com/item?id=39523023) - [Promoted.ai (YC W21) Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
 * [2024-02-27, 11:47:11](https://news.ycombinator.com/item?id=39522926) - [AI PR adds auto generated comments to whole Spring Boot Project](https://github.com/spring-projects/spring-boot/pull/39754/)
 * [2024-02-27, 11:44:31](https://news.ycombinator.com/item?id=39522908) - [Solving Prompt Injection via Backtranslation](https://arxiv.org/abs/2402.16459)
