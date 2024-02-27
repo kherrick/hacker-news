@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-27, 15:12:59](https://news.ycombinator.com/item?id=39525034) - [Academics can no longer speak freely](https://www.newstatesman.com/comment/2024/02/academic-free-speech)
 * [2024-02-27, 14:59:53](https://news.ycombinator.com/item?id=39524874) - [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
 * [2024-02-27, 14:13:38](https://news.ycombinator.com/item?id=39524327) - [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
 * [2024-02-27, 13:59:45](https://news.ycombinator.com/item?id=39524164) - [Botanical gardens can cool city air by an average of 5°C](https://newatlas.com/environment/surrey-cooling-effects-green-spaces-waterways/)
@@ -24,7 +25,6 @@
 * [2024-02-26, 16:17:54](https://news.ycombinator.com/item?id=39513054) - [Launch HN: Delve (YC W24) – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
 * [2024-02-26, 13:10:13](https://news.ycombinator.com/item?id=39510874) - [Show HN: R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R)
-* [2024-02-26, 11:09:56](https://news.ycombinator.com/item?id=39509927) - [On the impossibility of composing finalizers and FFI](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 * [2024-02-26, 06:44:30](https://news.ycombinator.com/item?id=39508246) - [Cinnamon: Using Century Old Tech to Build a Mean Load Shedder](https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/)
 * [2024-02-26, 06:42:24](https://news.ycombinator.com/item?id=39508239) - [Conditional Love for AWS Metadata Enumeration](https://blog.plerion.com/conditional-love-for-aws-metadata-enumeration/)
 * [2024-02-26, 06:26:40](https://news.ycombinator.com/item?id=39508167) - [C++20 Idioms for Parameter Packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 15:12:59](https://news.ycombinator.com/item?id=39525034) - [Academics can no longer speak freely](https://www.newstatesman.com/comment/2024/02/academic-free-speech)
 * [2024-02-27, 14:59:53](https://news.ycombinator.com/item?id=39524874) - [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
 * [2024-02-27, 14:13:38](https://news.ycombinator.com/item?id=39524327) - [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
 * [2024-02-27, 14:06:16](https://news.ycombinator.com/item?id=39524239) - [Premium MistralAI models available for on-prem deployment](https://mistral.ai/technology/#models:~:text=contact%20our%20team%20to%20deploy%20our%20optimized%20models%20similarly.)
