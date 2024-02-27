@@ -5,6 +5,7 @@
 * [2024-02-27, 09:20:01](https://news.ycombinator.com/item?id=39521930) - [I Backup](https://sive.rs/backup)
 * [2024-02-27, 09:03:08](https://news.ycombinator.com/item?id=39521802) - [Balancing Optimization While Coding](https://breadchris.com/thinkies/finding-a-balance-while-coding/)
 * [2024-02-27, 08:42:22](https://news.ycombinator.com/item?id=39521650) - [Berlin TYPE: The official type for the city of Berlin](https://www.hvdfonts.com/custom-cases/berlin-type)
+* [2024-02-27, 08:39:15](https://news.ycombinator.com/item?id=39521626) - [Submarine cables linking Africa-Asia-Europe severed](https://en.globes.co.il/en/article-houthis-hit-underwater-communications-cables-1001472165)
 * [2024-02-27, 07:01:12](https://news.ycombinator.com/item?id=39520960) - [Bemlo (YC W22) Is Hiring React devs to change how healthcare shifts are filled](https://www.ycombinator.com/companies/bemlo/jobs/6QWqjSn-senior-frontend-fullstack-developer-ts-node-react)
 * [2024-02-27, 06:33:20](https://news.ycombinator.com/item?id=39520797) - [The importance of making games during a game engine's development](https://www.team-nutshell.dev/nutshellengine/articles/making-games-during-development.html)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
@@ -28,7 +29,6 @@
 * [2024-02-26, 04:54:45](https://news.ycombinator.com/item?id=39507820) - [Multi – Multiplayer Collaboration for macOS](https://multi.app/)
 * [2024-02-25, 22:31:32](https://news.ycombinator.com/item?id=39505597) - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 * [2024-02-25, 20:17:06](https://news.ycombinator.com/item?id=39504323) - [What's Behind the Evolution of Neanderthal Portraits](https://www.sapiens.org/archaeology/neanderthal-art-paleolithic-archaeology/)
-* [2024-02-25, 20:14:36](https://news.ycombinator.com/item?id=39504304) - [Notes on paper (2023)](https://voussoir.net/writing/notes_on_paper)
 * [2024-02-25, 05:19:08](https://news.ycombinator.com/item?id=39497907) - [What do we get wrong about the Byzantine Empire?](https://www.historytoday.com/archive/head-head/what-do-we-get-wrong-about-byzantine-empire)
 
 ## [Archives](archives/index.md)
