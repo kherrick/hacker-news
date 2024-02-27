@@ -10,6 +10,7 @@
 * [2024-02-27, 18:26:55](https://news.ycombinator.com/item?id=39527588) - [Tumblr and WordPress to Sell Users' Data to Train AI Tools](https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/)
 * [2024-02-27, 18:14:11](https://news.ycombinator.com/item?id=39527405) - [Powers of Ten (1977) [video]](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 * [2024-02-27, 18:12:41](https://news.ycombinator.com/item?id=39527379) - [Amazon lobbyists face ban from European Parliament](https://www.politico.eu/article/amazon-lobbyists-face-ban-from-european-parliament/)
+* [2024-02-27, 17:38:51](https://news.ycombinator.com/item?id=39526922) - [Pure Programming Language](https://agraef.github.io/pure-lang/)
 * [2024-02-27, 17:36:22](https://news.ycombinator.com/item?id=39526886) - [Google's Gemini Headaches Spur $90B Selloff](https://www.forbes.com/sites/dereksaul/2024/02/26/googles-gemini-headaches-spur-90-billion-selloff/)
 * [2024-02-27, 17:35:02](https://news.ycombinator.com/item?id=39526869) - [Forgejo makes a full break from Gitea](https://lwn.net/SubscriberLink/963095/85db4f864c060d22/)
 * [2024-02-27, 17:34:38](https://news.ycombinator.com/item?id=39526863) - [Dad died in 2022. Since 2023, things he selfhosted have slowly begun breaking](https://old.reddit.com/r/selfhosted/comments/1b0rdft/dad_died_in_2022_since_2023_things_he_selfhosted/)

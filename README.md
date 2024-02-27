@@ -2,6 +2,7 @@
 
 * [2024-02-27, 19:05:40](https://news.ycombinator.com/item?id=39528192) - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
 * [2024-02-27, 19:02:22](https://news.ycombinator.com/item?id=39528134) - [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
+* [2024-02-27, 17:38:51](https://news.ycombinator.com/item?id=39526922) - [Pure Programming Language](https://agraef.github.io/pure-lang/)
 * [2024-02-27, 17:30:10](https://news.ycombinator.com/item?id=39526797) - [The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
 * [2024-02-27, 17:24:11](https://news.ycombinator.com/item?id=39526707) - [The business of winding down startups is booming](https://pitchbook.com/news/articles/startup-shutdown-services-vc)
 * [2024-02-27, 17:01:04](https://news.ycombinator.com/item?id=39526423) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -29,7 +30,6 @@
 * [2024-02-26, 15:16:22](https://news.ycombinator.com/item?id=39512188) - [Dracula's Biggest Mistake](https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/)
 * [2024-02-26, 12:17:26](https://news.ycombinator.com/item?id=39510405) - [How I build and run behavioral interviews](https://www.benkuhn.net/behavioral/)
 * [2024-02-26, 06:44:30](https://news.ycombinator.com/item?id=39508246) - [Cinnamon: Using century old tech to build a mean load shedder (2023)](https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/)
-* [2024-02-26, 06:26:40](https://news.ycombinator.com/item?id=39508167) - [C++20 Idioms for Parameter Packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)
 
 ## [Archives](archives/index.md)
 
