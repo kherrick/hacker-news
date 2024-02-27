@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 21:25:50](https://news.ycombinator.com/item?id=39530203) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
+* [2024-02-27, 21:08:19](https://news.ycombinator.com/item?id=39529980) - [Tea.xyz causes a flood of spam pull requests to open source projects](https://github.com/TryGhost/Ghost/pull/19743)
 * [2024-02-27, 21:07:39](https://news.ycombinator.com/item?id=39529974) - [Amazon lobbyists to be banned from European parliament](https://www.uni-europa.org/news/victory-amazon-lobbyists-banned-from-european-parliament/)
 * [2024-02-27, 21:02:22](https://news.ycombinator.com/item?id=39529895) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-27, 20:23:50](https://news.ycombinator.com/item?id=39529319) - [Google Stock Slips as Tech Giant Grapples with AI Tool Criticism](https://www.investors.com/news/technology/google-stock-artificial-intelligence-ai-controversy/)
