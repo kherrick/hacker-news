@@ -63,6 +63,7 @@
 * [2024-02-26, 14:20:53](https://news.ycombinator.com/item?id=39511477) - [Mistral Large](https://mistral.ai/news/mistral-large/)
 * [2024-02-26, 14:13:58](https://news.ycombinator.com/item?id=39511414) - [Plex Accounts Getting Disabled](https://old.reddit.com/r/PleX/comments/1b07kvc/accounts_getting_disabled/)
 * [2024-02-26, 13:46:23](https://news.ycombinator.com/item?id=39511176) - [For Car Thieves, Toronto Is a 'Candy Store,' and Drivers Are Fed Up](https://www.nytimes.com/2024/02/24/world/canada/toronto-car-theft-epidemic.html)
+* [2024-02-26, 13:17:25](https://news.ycombinator.com/item?id=39510930) - [DHH: VSCode and WSL makes Windows awesome for web development](https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528)
 * [2024-02-26, 13:10:13](https://news.ycombinator.com/item?id=39510874) - [Show HN: R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R)
 * [2024-02-26, 13:08:14](https://news.ycombinator.com/item?id=39510859) - [Lenovo's concept laptop is real, transparent, and ready to impress](https://www.theverge.com/24082244/lenovo-concept-transparent-laptop-mwc-2024-drawing-tablet)
 * [2024-02-26, 12:59:55](https://news.ycombinator.com/item?id=39510793) - [Calyx: Intermediate Language for Hardware Accelerators](https://github.com/calyxir/calyx)
