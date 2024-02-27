@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-02-27, 18:38:29",
-      "https://news.ycombinator.com/item?id=39527759"
+      "2024-02-27, 19:02:22",
+      "https://news.ycombinator.com/item?id=39528134"
     ],
     [
-      "When surge pricing hits, your wallet takes a thrashing",
-      "https://ldstephens.me/when-surge-pricing-hits-your-wallet-takes-a-thrashing"
+      "Apple Cancels Work on Electric Car, Shifts Team to Generative AI",
+      "https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 18:14:11",
+      "https://news.ycombinator.com/item?id=39527405"
+    ],
+    [
+      "Powers of Ten (1977) [video]",
+      "https://www.youtube.com/watch?v=0fKBhvDjuy0"
     ]
   ],
   [
@@ -17,26 +27,6 @@
     [
       "Amazon lobbyists face ban from European Parliament",
       "https://www.politico.eu/article/amazon-lobbyists-face-ban-from-european-parliament/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 17:35:02",
-      "https://news.ycombinator.com/item?id=39526869"
-    ],
-    [
-      "Forgejo makes a full break from Gitea",
-      "https://lwn.net/SubscriberLink/963095/85db4f864c060d22/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 17:34:38",
-      "https://news.ycombinator.com/item?id=39526863"
-    ],
-    [
-      "Dad died in 2022. Since 2023, things he selfhosted have slowly begun breaking",
-      "https://old.reddit.com/r/selfhosted/comments/1b0rdft/dad_died_in_2022_since_2023_things_he_selfhosted/"
     ]
   ],
   [
@@ -81,32 +71,12 @@
   ],
   [
     [
-      "2024-02-27, 16:44:21",
-      "https://news.ycombinator.com/item?id=39526220"
-    ],
-    [
-      "How Netflix really uses Java",
-      "https://www.infoq.com/presentations/netflix-java/"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 16:39:23",
       "https://news.ycombinator.com/item?id=39526147"
     ],
     [
       "Rise of fast-fashion Shein, Temu roils global air cargo industry",
       "https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 16:37:43",
-      "https://news.ycombinator.com/item?id=39526126"
-    ],
-    [
-      "Deploying Web Apps with Caddy: A Beginner's Guide Caddy",
-      "https://betterstack.com/community/guides/web-servers/caddy/"
     ]
   ],
   [
@@ -211,6 +181,26 @@
   ],
   [
     [
+      "2024-02-27, 12:13:42",
+      "https://news.ycombinator.com/item?id=39523122"
+    ],
+    [
+      "The Second Golden Age of Emacs",
+      "https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 11:23:17",
+      "https://news.ycombinator.com/item?id=39522770"
+    ],
+    [
+      "Software Infrastructure 2.0: A Wishlist (2021)",
+      "https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html"
+    ]
+  ],
+  [
+    [
       "2024-02-27, 10:16:18",
       "https://news.ycombinator.com/item?id=39522348"
     ],
@@ -227,6 +217,16 @@
     [
       "Why time seems to pass faster as we age",
       "https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 03:39:02",
+      "https://news.ycombinator.com/item?id=39519894"
+    ],
+    [
+      "Rapier is a set of 2D and 3D physics engines written in Rust",
+      "https://rapier.rs/docs/"
     ]
   ],
   [
