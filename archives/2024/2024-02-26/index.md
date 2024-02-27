@@ -14,6 +14,7 @@
 * [2024-02-26, 21:25:18](https://news.ycombinator.com/item?id=39516927) - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
 * [2024-02-26, 21:20:23](https://news.ycombinator.com/item?id=39516883) - [Odysseus has less than a day left on the Moon before it freezes to death](https://arstechnica.com/space/2024/02/nasa-found-the-private-lander-on-the-moon-but-its-lifetime-is-running-short/)
 * [2024-02-26, 20:59:16](https://news.ycombinator.com/item?id=39516720) - [De-Googlify the Internet](https://degooglisons-internet.org/en/)
+* [2024-02-26, 20:46:03](https://news.ycombinator.com/item?id=39516587) - [Cap'n'Proto: infinitely faster than Protobuf](https://capnproto.org/)
 * [2024-02-26, 20:22:06](https://news.ycombinator.com/item?id=39516312) - [Goodhart's Law](https://xkcd.com/2899/)
 * [2024-02-26, 20:01:43](https://news.ycombinator.com/item?id=39516128) - [What is the Universal Windows Platform? (2021)](https://www.thomasclaudiushuber.com/2021/02/05/what-is-actually-the-universal-windows-platform-and-what-is-winui-msix-and-project-reunion/)
 * [2024-02-26, 20:00:25](https://news.ycombinator.com/item?id=39516108) - [Apple's decision to drop iPhone web apps comes under scrutiny in the EU](https://www.theverge.com/2024/2/26/24083511/apple-eu-investigation-web-app-support)
