@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 23:06:02](https://news.ycombinator.com/item?id=39531441) - [Electric cars produce twice as much CO₂ as trains, says rail group data](https://www.theguardian.com/business/2024/feb/27/train-travel-generates-less-carbon-than-battery-ev-says-rail-group-data)
+* [2024-02-27, 22:34:34](https://news.ycombinator.com/item?id=39531101) - [Dealing with surprising human emotions: desk moves (2017)](https://larahogan.me/blog/desk-moves/)
 * [2024-02-27, 21:56:42](https://news.ycombinator.com/item?id=39530648) - [Why the Future of Cloud Deployments Is Unikernels](https://kraft.cloud/blog/2023-07-22-unikraft-future-cloud-deployments/)
 * [2024-02-27, 21:46:41](https://news.ycombinator.com/item?id=39530487) - [U.S. Launches Antitrust Investigation of UnitedHealth](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
 * [2024-02-27, 21:26:50](https://news.ycombinator.com/item?id=39530215) - [Ask HN: Has Apple lost it's way?](https://news.ycombinator.com/item?id=39530215)

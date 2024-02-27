@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-27, 23:06:02](https://news.ycombinator.com/item?id=39531441) - [Electric cars produce twice as much CO₂ as trains, says rail group data](https://www.theguardian.com/business/2024/feb/27/train-travel-generates-less-carbon-than-battery-ev-says-rail-group-data)
+* [2024-02-27, 22:34:34](https://news.ycombinator.com/item?id=39531101) - [Dealing with surprising human emotions: desk moves (2017)](https://larahogan.me/blog/desk-moves/)
 * [2024-02-27, 21:46:41](https://news.ycombinator.com/item?id=39530487) - [U.S. Launches Antitrust Investigation of UnitedHealth](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
 * [2024-02-27, 21:25:50](https://news.ycombinator.com/item?id=39530203) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-27, 21:18:24](https://news.ycombinator.com/item?id=39530113) - [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
@@ -24,10 +26,8 @@
 * [2024-02-27, 10:16:18](https://news.ycombinator.com/item?id=39522348) - [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
 * [2024-02-27, 10:02:44](https://news.ycombinator.com/item?id=39522249) - [Why time seems to pass faster as we age](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/)
 * [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
-* [2024-02-26, 22:35:09](https://news.ycombinator.com/item?id=39517573) - [Herbgrind analyzes binaries to find inaccurate floating point expressions](https://herbgrind.ucsd.edu/)
 * [2024-02-26, 17:11:31](https://news.ycombinator.com/item?id=39513870) - [Social Media First Amendment Cases](https://www.lawfaremedia.org/article/supreme-court-oral-argument-preview-social-media-first-amendment-cases)
 * [2024-02-26, 16:08:45](https://news.ycombinator.com/item?id=39512912) - [Show HN: AI Dub Tool I Made to Watch Foreign Language Videos with My 7-Year-Old](https://speakz.ai)
-* [2024-02-26, 12:17:26](https://news.ycombinator.com/item?id=39510405) - [How I build and run behavioral interviews](https://www.benkuhn.net/behavioral/)
 * [2024-02-25, 22:31:32](https://news.ycombinator.com/item?id=39505597) - [A retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 * [2024-02-25, 13:36:44](https://news.ycombinator.com/item?id=39500743) - [Anomalous cooling of bosons by dimensional reduction](https://www.science.org/doi/10.1126/sciadv.adk6870)
 
