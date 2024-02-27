@@ -94,6 +94,7 @@
 * [2024-02-26, 07:26:26](https://news.ycombinator.com/item?id=39508467) - [Ants treat injured nestmates with antimicrobial compound in ant society](https://www.nature.com/articles/s41467-023-43885-w)
 * [2024-02-26, 07:09:03](https://news.ycombinator.com/item?id=39508373) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:46:09](https://news.ycombinator.com/item?id=39508257) - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
+* [2024-02-26, 06:42:24](https://news.ycombinator.com/item?id=39508239) - [Conditional Love for AWS Metadata Enumeration](https://blog.plerion.com/conditional-love-for-aws-metadata-enumeration/)
 * [2024-02-26, 06:38:29](https://news.ycombinator.com/item?id=39508217) - [Lenovo's Project Crystal is first laptop with a transparent MicroLED display](https://www.engadget.com/lenovos-project-crystal-is-the-worlds-first-laptop-with-a-transparent-microled-display-230025521.html)
 * [2024-02-26, 06:26:40](https://news.ycombinator.com/item?id=39508167) - [C++20 Idioms for Parameter Packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)
 * [2024-02-26, 05:54:31](https://news.ycombinator.com/item?id=39508046) - [You Are Not Late (2014)](https://kk.org/thetechnium/you-are-not-late/)
