@@ -9,6 +9,7 @@
 * [2024-02-26, 23:29:57](https://news.ycombinator.com/item?id=39518161) - [Cactus – A Modern Diablo II Version Switcher, Character Isolator, & Mod Manager](https://github.com/fearedbliss/Cactus)
 * [2024-02-26, 22:50:50](https://news.ycombinator.com/item?id=39517760) - [Wax: The Word Processor for the Web](https://waxjs.net/)
 * [2024-02-26, 22:23:59](https://news.ycombinator.com/item?id=39517455) - [Ask HN: Why do recommender systems not seem good?](https://news.ycombinator.com/item?id=39517455)
+* [2024-02-26, 22:18:32](https://news.ycombinator.com/item?id=39517396) - [Unity's stock sheds 15% after disappointing earnings](https://www.marketwatch.com/story/unitys-stock-crumbles-as-earnings-forecasts-underwhelm-658b02ac)
 * [2024-02-26, 21:50:37](https://news.ycombinator.com/item?id=39517145) - [Why Jalapeño Peppers Are Less Spicy Than Ever](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
 * [2024-02-26, 21:50:23](https://news.ycombinator.com/item?id=39517139) - [Shell, Awk, and Make Should Be Combined (2016)](https://www.oilshell.org/blog/2016/11/13.html)
 * [2024-02-26, 21:36:25](https://news.ycombinator.com/item?id=39517016) - [Mistral Remove \"Committing to open models\" from their website](https://old.reddit.com/r/LocalLLaMA/comments/1b0o41v/top_10_betrayals_in_anime_history/)
