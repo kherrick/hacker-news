@@ -129,6 +129,170 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39525338">
+          <h3>
+            <a
+              class="item"
+              href="https://spectrum.ieee.org/cold-climate-heat-pump"
+              >Heat Pumps Take on Cold Climates</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-27 @ 15:40:27</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39525338"
+                  >Comments</a
+                ><span class="descendants">: 38</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39525287">
+          <h3>
+            <a
+              class="item"
+              href="https://www.hopsworks.ai/post/5-machine-learning-myths-debunked"
+              >Machine Learning Myths Debunked</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-27 @ 15:36:39</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39525287"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39525071">
+          <h3>
+            <a class="item" href="https://github.com/bruin-data/ingestr"
+              >Show HN: I built an open-source data copy tool called ingestr</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-27 @ 15:18:13</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39525071"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/bruin-data/ingestr"
+                >https://github.com/bruin-data/ingestr</a
+              >)
+              <p>
+                I did build quite a few data warehouses both for the companies I
+                worked at, as well as for consultancy projects. One of the more
+                common pain points I observed was that everyone had to rebuild
+                the same data ingestion bit over and over again, and each in
+                different ways:
+              </p>
+              <p>
+                - some wrote code for the ingestion from scratch to various
+                degrees
+              </p>
+              <p>
+                - some used off-the-shelf data ingestion tools like Fivetran /
+                Airbyte
+              </p>
+              <p>
+                I have always disliked both of these approaches, for different
+                reasons, but never got around to working on what I'd imagine to
+                be the better way forward.
+              </p>
+              <p>
+                The solutions that required writing code for copying the data
+                had quite a bit of overhead such as how to generalize them, what
+                language/library to use, where to deploy, how to monitor, how to
+                schedule, etc. I ended up figuring out solutions for each of
+                these matters, but the process always felt suboptimal. I like
+                coding but for more novel stuff rather than trying to copy a
+                table from Postgres to BigQuery. There are libraries like dlt
+                (awesome lib btw, and awesome folks!) but that still required me
+                to write, deploy, and maintain the code.
+              </p>
+              <p>
+                Then there are solutions like Fivetran or Airbyte, where there's
+                a UI and everything is managed through there. While it is nice
+                that I didn't have to write code for copying the data, I still
+                had to either pay some unknown/hard-to-predict amount of money
+                to these vendors or host Airbyte myself which is roughly back to
+                square zero (for me, since I want to maintain the least amount
+                of tech myself). Nothing was versioned, people were changing
+                things in the UI and breaking the connectors, and what worked
+                yesterday didn't work today.
+              </p>
+              <p>
+                I had a bit of spare time a couple of weeks ago and I wanted to
+                take a stab at the problem. I have been thinking of
+                standardizing the process for quite some time already, and dlt
+                had some abstractions that allowed me to quickly prototype a CLI
+                that copies data from one place to another. I made a few
+                decisions (that I hope I won't regret in the future):
+              </p>
+              <p>
+                - everything is a URI: every source and every destination is
+                represented as a URI
+              </p>
+              <p>
+                - there can be only one thing copied at a time: it'll copy only
+                a single table within a single command, not a full database with
+                an unknown amount of tables
+              </p>
+              <p>
+                - incremental loading is a must, but doesn't have to be super
+                flexible: I decided to support full-refresh, append-only, merge,
+                and delete+insert incremental strategies, because I believe this
+                covers 90% of the use-cases out there.
+              </p>
+              <p>
+                - it is CLI-only, and can be configured with flags &amp; env
+                variables so that it can be automated quickly, e.g. drop it into
+                GitHub Actions and run it daily.
+              </p>
+              <p>
+                The result ended up being `ingestr` (<a
+                  href="https://github.com/bruin-data/ingestr"
+                  >https://github.com/bruin-data/ingestr</a
+                >).
+              </p>
+              <p>
+                I am pretty happy with how the first version turned out, and I
+                plan to add support for more sources &amp; destinations. ingestr
+                is built to be flexible with various source and destination
+                combinations, and I plan to introduce more non-DB sources such
+                as Notion, GSheets, and custom APIs that return JSON (which I am
+                not sure how exactly I'll do but open to suggestions!).
+              </p>
+              <p>
+                To be perfectly clear: I don't think ingestr covers 100% of data
+                ingestion/copying needs out there, and it doesn't aim that. My
+                goal with it is to cover most scenarios with a decent set of
+                trade-offs so that common scenarios can be solved easily without
+                having to write code or manage infra. There will be more complex
+                needs that require engineering effort by others, and that's
+                fine.
+              </p>
+              <p>
+                I'd love to hear your feedback on how can ingestr help data
+                copying needs better, looking forward to hearing your thoughts!
+              </p>
+              <p>Best, Burak</p>
+            </div>
+          </section>
+        </section>
         <section id="39524874">
           <h3>
             <a class="item" href="https://github.com/piercefreeman/mountaineer"
@@ -139,11 +303,11 @@
             <h4>
               <span>2024-02-27 @ 14:59:53</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39524874"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -203,7 +367,7 @@
             <h4>
               <span>2024-02-27 @ 14:13:38</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39524327"
                   >Comments</a
@@ -224,11 +388,11 @@
             <h4>
               <span>2024-02-27 @ 13:59:45</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39524164"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -245,11 +409,11 @@
             <h4>
               <span>2024-02-27 @ 13:30:24</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39523813"
                   >Comments</a
-                ><span class="descendants">: 123</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -264,11 +428,11 @@
             <h4>
               <span>2024-02-27 @ 13:11:47</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39523641"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -285,11 +449,11 @@
             <h4>
               <span>2024-02-27 @ 12:57:43</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39523495"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -307,11 +471,11 @@
             <h4>
               <span>2024-02-27 @ 12:48:09</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39523403"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -328,11 +492,11 @@
             <h4>
               <span>2024-02-27 @ 12:21:56</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39523187"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -367,11 +531,11 @@
             <h4>
               <span>2024-02-27 @ 11:47:11</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522926"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -390,7 +554,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522908"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -408,11 +572,11 @@
             <h4>
               <span>2024-02-27 @ 11:27:17</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522798"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -433,7 +597,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522770"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -450,11 +614,11 @@
             <h4>
               <span>2024-02-27 @ 10:16:18</span
               ><span class="points-container"
-                >Points: <span class="points">313</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522348"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -475,7 +639,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39521802"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -492,11 +656,11 @@
             <h4>
               <span>2024-02-27 @ 06:29:37</span
               ><span class="points-container"
-                >Points: <span class="points">1130</span></span
+                >Points: <span class="points">1168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39520776"
                   >Comments</a
-                ><span class="descendants">: 529</span></span
+                ><span class="descendants">: 536</span></span
               >
             </h4>
           </section>
@@ -511,11 +675,11 @@
             <h4>
               <span>2024-02-27 @ 03:39:02</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39519894"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -532,32 +696,11 @@
             <h4>
               <span>2024-02-27 @ 01:04:09</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39518791"
                   >Comments</a
                 ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39518202">
-          <h3>
-            <a
-              class="item"
-              href="https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html"
-              >Segmenting comic book frames</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-26 @ 23:33:55</span
-              ><span class="points-container"
-                >Points: <span class="points">183</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39518202"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -573,11 +716,11 @@
             <h4>
               <span>2024-02-26 @ 22:35:09</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39517573"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -601,27 +744,6 @@
             </h4>
           </section>
         </section>
-        <section id="39513870">
-          <h3>
-            <a
-              class="item"
-              href="https://www.lawfaremedia.org/article/supreme-court-oral-argument-preview-social-media-first-amendment-cases"
-              >Social Media First Amendment Cases</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-26 @ 17:11:31</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39513870"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="39513054">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=39513054"
@@ -632,7 +754,7 @@
             <h4>
               <span>2024-02-26 @ 16:17:54</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39513054"
                   >Comments</a
@@ -711,87 +833,13 @@
             <h4>
               <span>2024-02-26 @ 14:36:35</span
               ><span class="points-container"
-                >Points: <span class="points">640</span></span
+                >Points: <span class="points">641</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39511676"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="39510874">
-          <h3>
-            <a class="item" href="https://github.com/SciPhi-AI/R2R"
-              >Show HN: R2R – Open-source framework for production-grade RAG</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-26 @ 13:10:13</span
-              ><span class="points-container"
-                >Points: <span class="points">154</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39510874"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.sciphi.ai/">https://www.sciphi.ai/</a>), a
-              startup working on simplifying˛Retrieval-Augmented Generation
-              (RAG). Today we’re excited to share R2R (<a
-                href="https://github.com/SciPhi-AI/R2R"
-                >https://github.com/SciPhi-AI/R2R</a
-              >), an open-source framework that makes it simpler to develop and
-              deploy production-grade RAG systems.
-              <p>
-                Just a quick reminder: RAG helps Large Language Models (LLMs)
-                use current information and specific knowledge. For example, it
-                allows a programming assistant to use your latest documents to
-                answer questions. The idea is to gather all the relevant
-                information ("retrieval") and present it to the LLM with a
-                question ("augmentation"). This way, the LLM can provide answers
-                (“generation”) as though it was trained directly on your data.
-              </p>
-              <p>
-                The R2R framework is a powerful tool for addressing key
-                challenges in deploying RAG systems, avoiding the complex
-                abstractions common in other projects. Through conversations
-                with numerous developers, we discovered that many were
-                independently developing similar solutions. R2R distinguishes
-                itself by adopting a straightforward approach to streamline the
-                setup, monitoring, and upgrading of RAG systems. Specifically,
-                it focuses on reducing unnecessary complexity and enhancing the
-                visibility and tracking of system performance.
-              </p>
-              <p>
-                The key parts of R2R include: an Ingestion Pipeline that
-                transforms different data types (like json, txt, pdf, html) into
-                'Documents' ready for embedding. Next, the Embedding Pipeline
-                takes text and turns it into vector embeddings through various
-                processes (such as extracting text, transforming it, chunking,
-                and embedding). Finally, the RAG Pipeline follows the steps of
-                the embedding pipeline but adds an LLM provider to create text
-                completions.
-              </p>
-              <p>
-                R2R is currently in use at several companies building
-                applications from B2B lead generation to educational tools for
-                consumers.
-              </p>
-              <p>
-                Our GitHub repo (<a href="https://github.com/SciPhi-AI/R2R"
-                  >https://github.com/SciPhi-AI/R2R</a
-                >) includes basic examples for application deployment and
-                standalone use, demonstrating the framework's adaptability in a
-                simple way.
-              </p>
-              <p>
-                We’d love for you to give R2R a try, and welcome your feedback
-                and comments as we refine and develop it further!
-              </p>
-            </div>
           </section>
         </section>
         <section id="39508246">
@@ -806,11 +854,11 @@
             <h4>
               <span>2024-02-26 @ 06:44:30</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39508246"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -827,11 +875,11 @@
             <h4>
               <span>2024-02-26 @ 06:42:24</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39508239"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -848,11 +896,11 @@
             <h4>
               <span>2024-02-26 @ 06:26:40</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39508167"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -867,11 +915,11 @@
             <h4>
               <span>2024-02-26 @ 05:54:31</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39508046"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -888,7 +936,7 @@
             <h4>
               <span>2024-02-25 @ 22:31:32</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39505597"
                   >Comments</a
