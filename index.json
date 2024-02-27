@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-27, 19:42:21",
+      "https://news.ycombinator.com/item?id=39528726"
+    ],
+    [
+      "SuperTux",
+      "https://github.com/SuperTux/supertux"
+    ]
+  ],
+  [
+    [
       "2024-02-27, 19:19:03",
       "https://news.ycombinator.com/item?id=39528390"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
-      "2024-02-27, 19:01:26",
-      "https://news.ycombinator.com/item?id=39528118"
-    ],
-    [
-      "FTC chair Lina Khan takes victory lap on blocking Nvidia-Arm merger",
-      "https://www.cnbc.com/2024/02/27/ftc-chair-lina-khan-takes-victory-lap-on-blocking-nvidia-arm-merger.html"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 17:38:51",
       "https://news.ycombinator.com/item?id=39526922"
     ],
     [
       "Pure Programming Language",
       "https://agraef.github.io/pure-lang/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 17:30:10",
+      "https://news.ycombinator.com/item?id=39526797"
+    ],
+    [
+      "The /unblock API from Browserless: dodging bot detection as a service",
+      "https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2024-02-27, 08:52:54",
-      "https://news.ycombinator.com/item?id=39521730"
+      "2024-02-27, 06:29:37",
+      "https://news.ycombinator.com/item?id=39520776"
     ],
     [
-      "Google PageRank Adapted for Architecture Space Importance (2022)",
-      "https://www.chokoon.com/post/how-google-s-page-rank-algorithm-changes-architectural-layout"
+      "Netlify just sent me a $104k bill for a simple static site",
+      "https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "How I build and run behavioral interviews",
       "https://www.benkuhn.net/behavioral/"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 06:44:30",
-      "https://news.ycombinator.com/item?id=39508246"
-    ],
-    [
-      "Cinnamon: Using century old tech to build a mean load shedder (2023)",
-      "https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/"
     ]
   ],
   [
