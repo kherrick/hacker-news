@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 19:42:21](https://news.ycombinator.com/item?id=39528726) - [SuperTux](https://github.com/SuperTux/supertux)
 * [2024-02-27, 19:19:03](https://news.ycombinator.com/item?id=39528390) - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
 * [2024-02-27, 19:05:40](https://news.ycombinator.com/item?id=39528192) - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
 * [2024-02-27, 19:02:22](https://news.ycombinator.com/item?id=39528134) - [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
