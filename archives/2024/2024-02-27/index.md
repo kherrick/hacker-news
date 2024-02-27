@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
 * [2024-02-27, 16:40:40](https://news.ycombinator.com/item?id=39526165) - [Airfoil](https://ciechanow.ski/)
+* [2024-02-27, 16:37:43](https://news.ycombinator.com/item?id=39526126) - [Deploying Web Apps with Caddy: A Beginner's Guide Caddy](https://betterstack.com/community/guides/web-servers/caddy/)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 16:12:00](https://news.ycombinator.com/item?id=39525764) - [Software Has Eaten the Media](https://www.wheresyoured.at/the-anti-economy/)
 * [2024-02-27, 15:40:27](https://news.ycombinator.com/item?id=39525338) - [Heat Pumps Take on Cold Climates](https://spectrum.ieee.org/cold-climate-heat-pump)
@@ -67,6 +68,7 @@
 * [2024-02-27, 01:54:18](https://news.ycombinator.com/item?id=39519145) - [Is Tableau Dead?](https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau)
 * [2024-02-27, 01:48:54](https://news.ycombinator.com/item?id=39519108) - [Wendy's Is Introducing Uber-Style 'Surge Pricing'](https://www.foodandwine.com/wendys-introducing-dynamic-pricing-8600506)
 * [2024-02-27, 01:32:14](https://news.ycombinator.com/item?id=39518964) - [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
+* [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
 * [2024-02-27, 01:00:43](https://news.ycombinator.com/item?id=39518767) - [Breakdown products of niacin may spur vascular inflammation](https://arstechnica.com/science/2024/02/surprising-link-found-between-niacin-and-risk-of-heart-attack-and-stroke/)
 * [2024-02-27, 00:54:42](https://news.ycombinator.com/item?id=39518730) - [Birthrate in UK falls to record low as campaigners say 'procreation a luxury'](https://www.theguardian.com/uk-news/2024/feb/23/birthrate-in-uk-falls-to-record-low-as-campaigners-say-procreation-is-a-luxury)
