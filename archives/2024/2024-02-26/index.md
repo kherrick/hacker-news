@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 23:48:59](https://news.ycombinator.com/item?id=39518302) - [Sky High Sabotage: Major Airlines Are Using TSA to Shut Down Competitor](https://viewfromthewing.com/sky-high-sabotage-major-airlines-are-using-tsa-to-secretly-shut-down-a-competitor/)
 * [2024-02-26, 23:33:55](https://news.ycombinator.com/item?id=39518202) - [Segmenting Comic Books Using SAM (Segment-Anything)](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
+* [2024-02-26, 23:29:57](https://news.ycombinator.com/item?id=39518161) - [Cactus – A Modern Diablo II Version Switcher, Character Isolator, & Mod Manager](https://github.com/fearedbliss/Cactus)
 * [2024-02-26, 22:23:59](https://news.ycombinator.com/item?id=39517455) - [Ask HN: Why do recommender systems not seem good?](https://news.ycombinator.com/item?id=39517455)
 * [2024-02-26, 21:50:37](https://news.ycombinator.com/item?id=39517145) - [Why Jalapeño Peppers Are Less Spicy Than Ever](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
 * [2024-02-26, 21:50:23](https://news.ycombinator.com/item?id=39517139) - [Shell, Awk, and Make Should Be Combined (2016)](https://www.oilshell.org/blog/2016/11/13.html)
@@ -88,6 +90,7 @@
 * [2024-02-26, 05:23:18](https://news.ycombinator.com/item?id=39507926) - [I tried to create a newer version of 1k True Fans](https://thesocialjuice.substack.com/p/a-tldr-list-of-my-favourite-marketing)
 * [2024-02-26, 05:22:01](https://news.ycombinator.com/item?id=39507918) - [New search engine just dropped](https://explorer.globe.engineer)
 * [2024-02-26, 04:57:07](https://news.ycombinator.com/item?id=39507831) - [Ask HN: What do I do with my side projects?](https://news.ycombinator.com/item?id=39507831)
+* [2024-02-26, 04:54:45](https://news.ycombinator.com/item?id=39507820) - [Multi – Multiplayer Collaboration for macOS](https://multi.app/)
 * [2024-02-26, 04:42:39](https://news.ycombinator.com/item?id=39507758) - [Disillusioned with Deno](https://www.baldurbjarnason.com/2024/disillusioned-with-deno/)
 * [2024-02-26, 04:07:39](https://news.ycombinator.com/item?id=39507553) - [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
 * [2024-02-26, 03:57:27](https://news.ycombinator.com/item?id=39507477) - [Best Rain Jackets in the World Will Soon Be Illegal](https://www.outsideonline.com/outdoor-adventure/environment/forever-chemicals-pfas/)
