@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-27, 07:01:12](https://news.ycombinator.com/item?id=39520960) - [Bemlo (YC W22) Is Hiring React devs to change how healthcare shifts are filled](https://www.ycombinator.com/companies/bemlo/jobs/6QWqjSn-senior-frontend-fullstack-developer-ts-node-react)
 * [2024-02-27, 06:29:37](https://news.ycombinator.com/item?id=39520776) - [Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
 * [2024-02-27, 06:15:29](https://news.ycombinator.com/item?id=39520704) - [B.C. lawyer reprimanded for citing fake cases invented by ChatGPT](https://www.cbc.ca/news/canada/british-columbia/lawyer-chatgpt-fake-precedent-1.7126393)
 * [2024-02-27, 04:45:30](https://news.ycombinator.com/item?id=39520250) - [The creator economy can't rely on Patreon](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
+* [2024-02-27, 03:06:56](https://news.ycombinator.com/item?id=39519692) - [Ask HN: People who switched from GPT to their own models. How was it?](https://news.ycombinator.com/item?id=39519692)
 * [2024-02-27, 01:54:18](https://news.ycombinator.com/item?id=39519145) - [Is Tableau Dead?](https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
-* [2024-02-27, 01:00:43](https://news.ycombinator.com/item?id=39518767) - [Breakdown products of niacin may spur vascular inflammation](https://arstechnica.com/science/2024/02/surprising-link-found-between-niacin-and-risk-of-heart-attack-and-stroke/)
 * [2024-02-26, 23:33:55](https://news.ycombinator.com/item?id=39518202) - [Segmenting Comic book Frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 * [2024-02-26, 23:29:57](https://news.ycombinator.com/item?id=39518161) - [Cactus – A Modern Diablo II Version Switcher, Character Isolator, & Mod Manager](https://github.com/fearedbliss/Cactus)
 * [2024-02-26, 22:50:50](https://news.ycombinator.com/item?id=39517760) - [Wax: The Word Processor for the Web](https://waxjs.net/)
@@ -28,7 +29,6 @@
 * [2024-02-26, 04:54:45](https://news.ycombinator.com/item?id=39507820) - [Multi – Multiplayer Collaboration for macOS](https://multi.app/)
 * [2024-02-25, 20:17:06](https://news.ycombinator.com/item?id=39504323) - [What's Behind the Evolution of Neanderthal Portraits](https://www.sapiens.org/archaeology/neanderthal-art-paleolithic-archaeology/)
 * [2024-02-25, 20:14:36](https://news.ycombinator.com/item?id=39504304) - [Notes on paper (2023)](https://voussoir.net/writing/notes_on_paper)
-* [2024-02-25, 13:18:17](https://news.ycombinator.com/item?id=39500565) - [Pydantic-resolve, a hierarchical solution for data fetching and processing](https://github.com/allmonday/pydantic-resolve)
 * [2024-02-25, 06:51:12](https://news.ycombinator.com/item?id=39498304) - [Tenement Farming and Cloud HSMs](http://unmitigatedrisk.com/?p=771)
 
 ## [Archives](archives/index.md)
