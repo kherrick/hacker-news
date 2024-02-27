@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
 * [2024-02-27, 13:41:35](https://news.ycombinator.com/item?id=39523957) - [Sony Interactive Entertainment – Difficult News About Our Workforce](https://sonyinteractive.com/en/news/blog/difficult-news-about-our-workforce/)
+* [2024-02-27, 13:30:24](https://news.ycombinator.com/item?id=39523813) - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
+* [2024-02-27, 13:11:47](https://news.ycombinator.com/item?id=39523641) - [Consider the Pawpaw](https://beltmag.com/consider-the-pawpaw/)
 * [2024-02-27, 12:58:08](https://news.ycombinator.com/item?id=39523500) - [React Is the New IBM](https://chrlschn.dev/blog/2023/02/react-is-the-new-ibm/)
+* [2024-02-27, 12:57:43](https://news.ycombinator.com/item?id=39523495) - [Ants Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
 * [2024-02-27, 12:48:09](https://news.ycombinator.com/item?id=39523403) - [SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle](https://arstechnica.com/space/2024/02/faa-closes-starship-inquiry-and-spacex-details-causes-of-november-accidents/)
 * [2024-02-27, 12:34:36](https://news.ycombinator.com/item?id=39523271) - [Japan births hit record low, population down by largest margin in 2023](https://www.japantimes.co.jp/news/2024/02/27/japan/society/japan-2023-births-record-low/)
 * [2024-02-27, 12:30:14](https://news.ycombinator.com/item?id=39523245) - [Apple Vision Pro's components cost $1,542–but that's not the full story](https://arstechnica.com/gadgets/2024/02/apple-vision-pros-components-cost-1542-but-thats-not-the-full-story/)
