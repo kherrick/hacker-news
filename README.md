@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-27, 21:07:39](https://news.ycombinator.com/item?id=39529974) - [Amazon lobbyists to be banned from European parliament](https://www.uni-europa.org/news/victory-amazon-lobbyists-banned-from-european-parliament/)
 * [2024-02-27, 21:02:22](https://news.ycombinator.com/item?id=39529895) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-27, 19:42:21](https://news.ycombinator.com/item?id=39528726) - [SuperTux](https://github.com/SuperTux/supertux)
 * [2024-02-27, 19:19:03](https://news.ycombinator.com/item?id=39528390) - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
@@ -9,6 +8,7 @@
 * [2024-02-27, 19:01:26](https://news.ycombinator.com/item?id=39528118) - [FTC chair Lina Khan takes victory lap on blocking Nvidia-Arm merger](https://www.cnbc.com/2024/02/27/ftc-chair-lina-khan-takes-victory-lap-on-blocking-nvidia-arm-merger.html)
 * [2024-02-27, 17:38:51](https://news.ycombinator.com/item?id=39526922) - [Pure Programming Language](https://agraef.github.io/pure-lang/)
 * [2024-02-27, 17:30:10](https://news.ycombinator.com/item?id=39526797) - [The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
+* [2024-02-27, 17:24:11](https://news.ycombinator.com/item?id=39526707) - [The business of winding down startups is booming](https://pitchbook.com/news/articles/startup-shutdown-services-vc)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 15:32:36](https://news.ycombinator.com/item?id=39525243) - [Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
 * [2024-02-27, 15:18:13](https://news.ycombinator.com/item?id=39525071) - [Show HN: I built an open-source data copy tool called ingestr](https://github.com/bruin-data/ingestr)
