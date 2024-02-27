@@ -23,12 +23,12 @@
 * [2024-02-26, 14:25:05](https://news.ycombinator.com/item?id=39511530) - [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 * [2024-02-26, 11:09:56](https://news.ycombinator.com/item?id=39509927) - [On the impossibility of composing finalizers and FFI](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
-* [2024-02-26, 09:40:27](https://news.ycombinator.com/item?id=39509287) - [Fractal Scaling and the Aesthetics of Trees](http://www.arxiv.org/abs/2402.13520)
 * [2024-02-26, 08:57:45](https://news.ycombinator.com/item?id=39509012) - [Insecure Features in PDFs (2021)](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
 * [2024-02-26, 07:51:35](https://news.ycombinator.com/item?id=39508626) - [Show HN: Free Certificate Monitoring via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-26, 05:54:31](https://news.ycombinator.com/item?id=39508046) - [You Are Not Late (2014)](https://kk.org/thetechnium/you-are-not-late/)
 * [2024-02-26, 04:54:45](https://news.ycombinator.com/item?id=39507820) - [Multi – Multiplayer Collaboration for macOS](https://multi.app/)
 * [2024-02-25, 20:14:36](https://news.ycombinator.com/item?id=39504304) - [Notes on paper (2023)](https://voussoir.net/writing/notes_on_paper)
+* [2024-02-25, 17:01:28](https://news.ycombinator.com/item?id=39502439) - [FizzBuzz in GNU Smalltalk](https://brudgers.github.io/smalltalk-fizzbuzz/#orga8f879c)
 * [2024-02-25, 06:51:12](https://news.ycombinator.com/item?id=39498304) - [Tenement Farming and Cloud HSMs](http://unmitigatedrisk.com/?p=771)
 
 ## [Archives](archives/index.md)
