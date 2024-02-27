@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-27, 02:03:55](https://news.ycombinator.com/item?id=39519228) - [Why Capital One Wants to Buy Discover](https://onepercentamonth.com/2024/02/26/why-capital-one-wants-to-buy-discover/)
 * [2024-02-27, 01:32:14](https://news.ycombinator.com/item?id=39518964) - [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
-* [2024-02-27, 00:50:30](https://news.ycombinator.com/item?id=39518705) - [Stock markets are booming but the good times are unlikely to last](https://www.economist.com/finance-and-economics/2024/02/25/stockmarkets-are-booming-but-the-good-times-are-unlikely-to-last)
-* [2024-02-27, 00:30:08](https://news.ycombinator.com/item?id=39518590) - [Expedia to Eliminate 1,500 Jobs as Travel Growth Moderates](https://www.bloomberg.com/news/articles/2024-02-26/expedia-to-eliminate-1-500-jobs-as-travel-growth-moderates)
+* [2024-02-27, 01:00:43](https://news.ycombinator.com/item?id=39518767) - [Breakdown products of niacin may spur vascular inflammation](https://arstechnica.com/science/2024/02/surprising-link-found-between-niacin-and-risk-of-heart-attack-and-stroke/)
 * [2024-02-26, 23:33:55](https://news.ycombinator.com/item?id=39518202) - [Segmenting Comic book Frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 * [2024-02-26, 23:29:57](https://news.ycombinator.com/item?id=39518161) - [Cactus – A Modern Diablo II Version Switcher, Character Isolator, & Mod Manager](https://github.com/fearedbliss/Cactus)
 * [2024-02-26, 21:50:37](https://news.ycombinator.com/item?id=39517145) - [Why Jalapeño Peppers Are Less Spicy Than Ever (2023)](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
