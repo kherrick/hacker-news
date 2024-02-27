@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-27, 14:13:38](https://news.ycombinator.com/item?id=39524327) - [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
+* [2024-02-27, 14:06:16](https://news.ycombinator.com/item?id=39524239) - [Premium MistralAI models available for on-prem deployment](https://mistral.ai/technology/#models:~:text=contact%20our%20team%20to%20deploy%20our%20optimized%20models%20similarly.)
 * [2024-02-27, 13:59:45](https://news.ycombinator.com/item?id=39524164) - [Botanical gardens can cool city air by an average of 5°C](https://newatlas.com/environment/surrey-cooling-effects-green-spaces-waterways/)
-* [2024-02-27, 13:48:02](https://news.ycombinator.com/item?id=39524039) - [Honda's first US-market EV is here–the 2024 Prologue, driven](https://arstechnica.com/cars/2024/02/heres-the-first-drive-of-hondas-new-ev-crossover-the-2024-prologue/)
-* [2024-02-27, 13:41:35](https://news.ycombinator.com/item?id=39523957) - [Sony Interactive Entertainment – Difficult News About Our Workforce](https://sonyinteractive.com/en/news/blog/difficult-news-about-our-workforce/)
 * [2024-02-27, 13:30:24](https://news.ycombinator.com/item?id=39523813) - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
 * [2024-02-27, 13:11:47](https://news.ycombinator.com/item?id=39523641) - [Consider the Pawpaw](https://beltmag.com/consider-the-pawpaw/)
 * [2024-02-27, 12:57:43](https://news.ycombinator.com/item?id=39523495) - [Ant Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
@@ -21,6 +20,7 @@
 * [2024-02-26, 23:33:55](https://news.ycombinator.com/item?id=39518202) - [Segmenting Comic book Frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 * [2024-02-26, 20:35:45](https://news.ycombinator.com/item?id=39516465) - [Image formation with multiple wavelengths – simulation [video]](https://www.youtube.com/watch?v=nEjNbrydLKU)
 * [2024-02-26, 16:17:54](https://news.ycombinator.com/item?id=39513054) - [Launch HN: Delve (YC W24) – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
+* [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
 * [2024-02-26, 13:10:13](https://news.ycombinator.com/item?id=39510874) - [Show HN: R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R)
 * [2024-02-26, 11:09:56](https://news.ycombinator.com/item?id=39509927) - [On the impossibility of composing finalizers and FFI](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)

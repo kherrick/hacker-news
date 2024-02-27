@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
 * [2024-02-27, 14:13:38](https://news.ycombinator.com/item?id=39524327) - [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
+* [2024-02-27, 14:06:16](https://news.ycombinator.com/item?id=39524239) - [Premium MistralAI models available for on-prem deployment](https://mistral.ai/technology/#models:~:text=contact%20our%20team%20to%20deploy%20our%20optimized%20models%20similarly.)
 * [2024-02-27, 13:59:45](https://news.ycombinator.com/item?id=39524164) - [Botanical gardens can cool city air by an average of 5°C](https://newatlas.com/environment/surrey-cooling-effects-green-spaces-waterways/)
 * [2024-02-27, 13:50:06](https://news.ycombinator.com/item?id=39524059) - [Vice Media Collapse Entirely Fault of Incompetent, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/27/the-vice-media-collapse-was-entirely-the-fault-of-incompetent-fail-upward-brunchlords/)
 * [2024-02-27, 13:48:02](https://news.ycombinator.com/item?id=39524039) - [Honda's first US-market EV is here–the 2024 Prologue, driven](https://arstechnica.com/cars/2024/02/heres-the-first-drive-of-hondas-new-ev-crossover-the-2024-prologue/)
