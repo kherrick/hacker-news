@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-02-27, 00:16:47",
+      "https://news.ycombinator.com/item?id=39518507"
+    ],
+    [
+      "Reducing our AWS bill by $100k",
+      "https://usefathom.com/blog/reduce-aws-bill"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 23:33:55",
       "https://news.ycombinator.com/item?id=39518202"
     ],
@@ -87,6 +97,16 @@
     [
       "Wax: The Word Processor for the Web",
       "https://waxjs.net/"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 22:38:07",
+      "https://news.ycombinator.com/item?id=39517608"
+    ],
+    [
+      "Litestar – powerful, flexible, and highly performant Python ASGI framework",
+      "https://litestar.dev/"
     ]
   ],
   [
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2024-02-26, 13:10:13",
+      "https://news.ycombinator.com/item?id=39510874"
+    ],
+    [
+      "Show HN: R2R – Open-source framework for production-grade RAG",
+      "https://github.com/SciPhi-AI/R2R"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 11:18:13",
       "https://news.ycombinator.com/item?id=39509983"
     ],
@@ -217,36 +247,6 @@
     [
       "On the impossibility of composing finalizers and FFI",
       "https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 09:40:27",
-      "https://news.ycombinator.com/item?id=39509287"
-    ],
-    [
-      "Fractal Scaling and the Aesthetics of Trees",
-      "http://www.arxiv.org/abs/2402.13520"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 08:57:45",
-      "https://news.ycombinator.com/item?id=39509012"
-    ],
-    [
-      "Insecure Features in PDFs (2021)",
-      "https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 07:51:35",
-      "https://news.ycombinator.com/item?id=39508626"
-    ],
-    [
-      "Show HN: Free Certificate Monitoring via RSS",
-      "https://raphting.dev/posts/monitor-rss/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-02-25, 17:01:28",
-      "https://news.ycombinator.com/item?id=39502439"
+      "2024-02-25, 13:18:17",
+      "https://news.ycombinator.com/item?id=39500565"
     ],
     [
-      "FizzBuzz in GNU Smalltalk",
-      "https://brudgers.github.io/smalltalk-fizzbuzz/#orga8f879c"
+      "Pydantic-resolve, a hierarchical solution for data fetching and processing",
+      "https://github.com/allmonday/pydantic-resolve"
     ]
   ],
   [
