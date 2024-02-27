@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-27, 03:01:32",
-      "https://news.ycombinator.com/item?id=39519652"
-    ],
-    [
-      "AI commented the entire Spring Boot codebase",
-      "https://github.com/spring-projects/spring-boot/pull/39754/"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 01:32:14",
       "https://news.ycombinator.com/item?id=39518964"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2024-02-26, 22:50:50",
+      "https://news.ycombinator.com/item?id=39517760"
+    ],
+    [
+      "Wax: The Word Processor for the Web",
+      "https://waxjs.net/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 21:50:37",
       "https://news.ycombinator.com/item?id=39517145"
     ],
@@ -77,16 +77,6 @@
     [
       "New York medical school eliminates tuition after $1B gift",
       "https://www.bbc.com/news/world-us-canada-68407453"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 20:46:03",
-      "https://news.ycombinator.com/item?id=39516587"
-    ],
-    [
-      "Cap'n'Proto: infinitely faster than Protobuf",
-      "https://capnproto.org/"
     ]
   ],
   [
@@ -211,12 +201,32 @@
   ],
   [
     [
-      "2024-02-26, 12:01:07",
-      "https://news.ycombinator.com/item?id=39510292"
+      "2024-02-26, 12:59:55",
+      "https://news.ycombinator.com/item?id=39510793"
     ],
     [
-      "Ask HN: How do you learn and research every day?",
-      "https://news.ycombinator.com/item?id=39510292"
+      "Calyx: Intermediate Language for Hardware Accelerators",
+      "https://github.com/calyxir/calyx"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 11:18:13",
+      "https://news.ycombinator.com/item?id=39509983"
+    ],
+    [
+      "Let's compile like it's 1992 (2014)",
+      "https://fabiensanglard.net/Compile_Like_Its_1992/index.php"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 09:40:27",
+      "https://news.ycombinator.com/item?id=39509287"
+    ],
+    [
+      "Fractal Scaling and the Aesthetics of Trees",
+      "http://www.arxiv.org/abs/2402.13520"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Tenement Farming and Cloud HSMs",
       "http://unmitigatedrisk.com/?p=771"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 05:19:08",
-      "https://news.ycombinator.com/item?id=39497907"
-    ],
-    [
-      "What Do We Get Wrong About the Byzantine Empire?",
-      "https://www.historytoday.com/archive/head-head/what-do-we-get-wrong-about-byzantine-empire"
     ]
   ]
 ]
