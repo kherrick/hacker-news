@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-27, 19:19:03](https://news.ycombinator.com/item?id=39528390) - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
 * [2024-02-27, 19:05:40](https://news.ycombinator.com/item?id=39528192) - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
 * [2024-02-27, 19:02:22](https://news.ycombinator.com/item?id=39528134) - [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
 * [2024-02-27, 17:38:51](https://news.ycombinator.com/item?id=39526922) - [Pure Programming Language](https://agraef.github.io/pure-lang/)
 * [2024-02-27, 17:30:10](https://news.ycombinator.com/item?id=39526797) - [The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
 * [2024-02-27, 17:24:11](https://news.ycombinator.com/item?id=39526707) - [The business of winding down startups is booming](https://pitchbook.com/news/articles/startup-shutdown-services-vc)
 * [2024-02-27, 17:01:04](https://news.ycombinator.com/item?id=39526423) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-* [2024-02-27, 16:52:02](https://news.ycombinator.com/item?id=39526316) - [The unwritten rules of negotiating with Meta](https://interviewing.io/blog/how-to-negotiate-with-meta)
 * [2024-02-27, 16:45:55](https://news.ycombinator.com/item?id=39526246) - [YC by the Numbers: 2005–2023](https://my.causal.app/models/213633)
 * [2024-02-27, 16:39:23](https://news.ycombinator.com/item?id=39526147) - [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
