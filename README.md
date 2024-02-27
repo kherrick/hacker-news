@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-27, 04:58:34](https://news.ycombinator.com/item?id=39520343) - [Apollo calls AI a 'bubble' worse than even the dotcom era](https://fortune.com/2024/02/26/nvidia-ai-bubble-apollo-asset-manager-dotcom-artificial-intelligence/)
+* [2024-02-27, 04:16:48](https://news.ycombinator.com/item?id=39520099) - [URLs Make ChatGPT Stupid](https://www.acco.io/urls-make-chatgpt-stupid)
 * [2024-02-27, 03:39:02](https://news.ycombinator.com/item?id=39519894) - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
 * [2024-02-27, 03:06:56](https://news.ycombinator.com/item?id=39519692) - [Ask HN: People who switched from GPT to their own models. How was it?](https://news.ycombinator.com/item?id=39519692)
 * [2024-02-27, 01:04:09](https://news.ycombinator.com/item?id=39518791) - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
@@ -19,8 +21,6 @@
 * [2024-02-26, 14:39:40](https://news.ycombinator.com/item?id=39511714) - [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
 * [2024-02-26, 14:36:35](https://news.ycombinator.com/item?id=39511676) - [Apache Superset](https://superset.apache.org/)
 * [2024-02-26, 14:25:05](https://news.ycombinator.com/item?id=39511530) - [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
-* [2024-02-26, 13:10:13](https://news.ycombinator.com/item?id=39510874) - [Show HN: R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R)
-* [2024-02-26, 12:59:55](https://news.ycombinator.com/item?id=39510793) - [Calyx: Intermediate Language for Hardware Accelerators](https://github.com/calyxir/calyx)
 * [2024-02-26, 11:18:13](https://news.ycombinator.com/item?id=39509983) - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 * [2024-02-26, 11:09:56](https://news.ycombinator.com/item?id=39509927) - [On the impossibility of composing finalizers and FFI](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 * [2024-02-26, 09:40:27](https://news.ycombinator.com/item?id=39509287) - [Fractal Scaling and the Aesthetics of Trees](http://www.arxiv.org/abs/2402.13520)
