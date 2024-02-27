@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 13:41:35](https://news.ycombinator.com/item?id=39523957) - [Sony Interactive Entertainment – Difficult News About Our Workforce](https://sonyinteractive.com/en/news/blog/difficult-news-about-our-workforce/)
 * [2024-02-27, 12:58:08](https://news.ycombinator.com/item?id=39523500) - [React Is the New IBM](https://chrlschn.dev/blog/2023/02/react-is-the-new-ibm/)
 * [2024-02-27, 12:48:09](https://news.ycombinator.com/item?id=39523403) - [SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle](https://arstechnica.com/space/2024/02/faa-closes-starship-inquiry-and-spacex-details-causes-of-november-accidents/)
 * [2024-02-27, 12:34:36](https://news.ycombinator.com/item?id=39523271) - [Japan births hit record low, population down by largest margin in 2023](https://www.japantimes.co.jp/news/2024/02/27/japan/society/japan-2023-births-record-low/)
