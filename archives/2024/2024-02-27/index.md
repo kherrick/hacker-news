@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 10:42:50](https://news.ycombinator.com/item?id=39522499) - [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
 * [2024-02-27, 09:49:27](https://news.ycombinator.com/item?id=39522144) - [Google has another 'woke' problem with Gemini and it's going to be hard to fix](https://www.businessinsider.com/google-gemini-woke-images-ai-chatbot-criticism-controversy-2024-2)
 * [2024-02-27, 09:33:21](https://news.ycombinator.com/item?id=39522031) - [React Labs: What We've Been Working On – February 2024 – React Compiler](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 * [2024-02-27, 09:21:25](https://news.ycombinator.com/item?id=39521944) - [Shittier: Code formatting tool that makes your code look terrible](https://github.com/rohitdhas/shittier)
