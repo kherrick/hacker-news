@@ -17,7 +17,6 @@
 * [2024-02-27, 13:11:47](https://news.ycombinator.com/item?id=39523641) - [Consider the Pawpaw](https://beltmag.com/consider-the-pawpaw/)
 * [2024-02-27, 12:57:43](https://news.ycombinator.com/item?id=39523495) - [Ant Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
 * [2024-02-27, 12:48:09](https://news.ycombinator.com/item?id=39523403) - [SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle](https://arstechnica.com/space/2024/02/faa-closes-starship-inquiry-and-spacex-details-causes-of-november-accidents/)
-* [2024-02-27, 12:21:56](https://news.ycombinator.com/item?id=39523187) - [Easter eggs on Swiss maps (2021)](https://bigthink.com/strange-maps/swiss-maps/)
 * [2024-02-27, 12:13:42](https://news.ycombinator.com/item?id=39523122) - [The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 * [2024-02-27, 11:23:17](https://news.ycombinator.com/item?id=39522770) - [Software Infrastructure 2.0: A Wishlist (2021)](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
 * [2024-02-27, 10:16:18](https://news.ycombinator.com/item?id=39522348) - [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
@@ -25,11 +24,12 @@
 * [2024-02-27, 08:52:54](https://news.ycombinator.com/item?id=39521730) - [Google PageRank Adapted for Architecture Space Importance (2022)](https://www.chokoon.com/post/how-google-s-page-rank-algorithm-changes-architectural-layout)
 * [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
 * [2024-02-26, 22:35:09](https://news.ycombinator.com/item?id=39517573) - [Herbgrind analyzes binaries to find inaccurate floating point expressions](https://herbgrind.ucsd.edu/)
-* [2024-02-26, 20:35:45](https://news.ycombinator.com/item?id=39516465) - [Image formation with multiple wavelengths – simulation [video]](https://www.youtube.com/watch?v=nEjNbrydLKU)
 * [2024-02-26, 17:11:31](https://news.ycombinator.com/item?id=39513870) - [Social Media First Amendment Cases](https://www.lawfaremedia.org/article/supreme-court-oral-argument-preview-social-media-first-amendment-cases)
 * [2024-02-26, 15:16:22](https://news.ycombinator.com/item?id=39512188) - [Dracula's Biggest Mistake](https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/)
 * [2024-02-26, 12:17:26](https://news.ycombinator.com/item?id=39510405) - [How I build and run behavioral interviews](https://www.benkuhn.net/behavioral/)
 * [2024-02-26, 06:44:30](https://news.ycombinator.com/item?id=39508246) - [Cinnamon: Using century old tech to build a mean load shedder (2023)](https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/)
+* [2024-02-25, 22:31:32](https://news.ycombinator.com/item?id=39505597) - [A retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
+* [2024-02-25, 13:36:44](https://news.ycombinator.com/item?id=39500743) - [Anomalous cooling of bosons by dimensional reduction](https://www.science.org/doi/10.1126/sciadv.adk6870)
 
 ## [Archives](archives/index.md)
 
