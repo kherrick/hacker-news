@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-27, 12:58:08",
-      "https://news.ycombinator.com/item?id=39523500"
-    ],
-    [
-      "React Is the New IBM",
-      "https://chrlschn.dev/blog/2023/02/react-is-the-new-ibm/"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 12:48:09",
       "https://news.ycombinator.com/item?id=39523403"
     ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2024-02-27, 10:42:50",
-      "https://news.ycombinator.com/item?id=39522499"
-    ],
-    [
-      "Blender Open Movies. Featuring all the production files, assets, and artwork",
-      "https://studio.blender.org/films/"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 10:39:11",
       "https://news.ycombinator.com/item?id=39522475"
     ],
@@ -141,32 +121,12 @@
   ],
   [
     [
-      "2024-02-27, 09:20:01",
-      "https://news.ycombinator.com/item?id=39521930"
-    ],
-    [
-      "How I Backup",
-      "https://sive.rs/backup"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 09:03:08",
       "https://news.ycombinator.com/item?id=39521802"
     ],
     [
       "Balancing Optimization While Coding",
       "https://breadchris.com/thinkies/finding-a-balance-while-coding/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 08:42:22",
-      "https://news.ycombinator.com/item?id=39521650"
-    ],
-    [
-      "Berlin TYPE: The official type for the city of Berlin (2020)",
-      "https://www.hvdfonts.com/custom-cases/berlin-type"
     ]
   ],
   [
@@ -187,6 +147,16 @@
     [
       "Rapier is a set of 2D and 3D physics engines written in Rust",
       "https://rapier.rs/docs/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 01:54:18",
+      "https://news.ycombinator.com/item?id=39519145"
+    ],
+    [
+      "Is Tableau Dead?",
+      "https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau"
     ]
   ],
   [
@@ -231,12 +201,32 @@
   ],
   [
     [
+      "2024-02-26, 16:17:54",
+      "https://news.ycombinator.com/item?id=39513054"
+    ],
+    [
+      "Launch HN: Delve (YC W24) – HIPAA compliance as a service",
+      "https://news.ycombinator.com/item?id=39513054"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 14:36:35",
       "https://news.ycombinator.com/item?id=39511676"
     ],
     [
       "Apache Superset",
       "https://superset.apache.org/"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 13:10:13",
+      "https://news.ycombinator.com/item?id=39510874"
+    ],
+    [
+      "Show HN: R2R – Open-source framework for production-grade RAG",
+      "https://github.com/SciPhi-AI/R2R"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Retrospective on Requests",
       "https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 20:17:06",
+      "https://news.ycombinator.com/item?id=39504323"
+    ],
+    [
+      "What's Behind the Evolution of Neanderthal Portraits",
+      "https://www.sapiens.org/archaeology/neanderthal-art-paleolithic-archaeology/"
     ]
   ]
 ]
