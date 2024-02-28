@@ -79,6 +79,7 @@
 * [2024-02-27, 11:44:31](https://news.ycombinator.com/item?id=39522908) - [Solving Prompt Injection via Backtranslation](https://arxiv.org/abs/2402.16459)
 * [2024-02-27, 11:27:17](https://news.ycombinator.com/item?id=39522798) - [Rainwater everywhere on the planet is unsafe to drink due to chemicals (2022)](https://phys.org/news/2022-08-rainwater-unsafe-due-chemicals.html)
 * [2024-02-27, 11:23:17](https://news.ycombinator.com/item?id=39522770) - [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
+* [2024-02-27, 11:16:31](https://news.ycombinator.com/item?id=39522731) - [Apple rejected Bing for wrong answers about Annie Lennox](https://www.theregister.com/2024/02/26/google_antitrust_defense_apple_bing/)
 * [2024-02-27, 10:47:27](https://news.ycombinator.com/item?id=39522531) - [From Bootstrapped to $425M acquisition – Trello's story](https://marketcurve.substack.com/p/from-bootstrapped-to-a-425-million)
 * [2024-02-27, 10:42:50](https://news.ycombinator.com/item?id=39522499) - [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
 * [2024-02-27, 10:39:11](https://news.ycombinator.com/item?id=39522475) - [Nombrilliant, – On Being Middle Aged](https://wingolog.org/archives/2024/01/18/nombrilliant-actually)
