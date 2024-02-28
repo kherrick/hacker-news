@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 09:56:16](https://news.ycombinator.com/item?id=39535969) - [Pingora: HTTP Server and Proxy Library, in Rust, by Cloudflare, Released](https://github.com/cloudflare/pingora)
 * [2024-02-28, 08:04:04](https://news.ycombinator.com/item?id=39535283) - [Mistral: The 9-Month-Old AI Startup Challenging Silicon Valley's Giants](https://www.wsj.com/tech/ai/the-9-month-old-ai-startup-challenging-silicon-valleys-giants-ee2e4c48)
 * [2024-02-28, 07:35:22](https://news.ycombinator.com/item?id=39535106) - [A cross platform level editor for Quake-engine based games](https://trenchbroom.github.io/)
 * [2024-02-28, 07:23:46](https://news.ycombinator.com/item?id=39535028) - [European summer weather linked to North Atlantic freshwater anomalies](https://wcd.copernicus.org/articles/5/109/2024/)
@@ -26,7 +27,6 @@
 * [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
 * [2024-02-27, 00:22:45](https://news.ycombinator.com/item?id=39518535) - [The Marvelous Automata of Antiquity (2018)](https://daily.jstor.org/the-marvelous-automata-of-antiquity/)
 * [2024-02-26, 23:52:07](https://news.ycombinator.com/item?id=39518329) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
-* [2024-02-26, 20:35:45](https://news.ycombinator.com/item?id=39516465) - [Image formation with multiple wavelengths – simulation [video]](https://www.youtube.com/watch?v=nEjNbrydLKU)
 * [2024-02-26, 18:34:03](https://news.ycombinator.com/item?id=39515087) - [Neanderthals' use of complex adhesives shows high cognitive abilities](https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html)
 * [2024-02-26, 16:08:45](https://news.ycombinator.com/item?id=39512912) - [Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old](https://speakz.ai)
 * [2024-02-26, 12:55:30](https://news.ycombinator.com/item?id=39510752) - [Clouds vanish during a solar eclipse](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why)
