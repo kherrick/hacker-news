@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 22:27:36](https://news.ycombinator.com/item?id=39544286) - [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement)
 * [2024-02-28, 22:24:24](https://news.ycombinator.com/item?id=39544252) - [GitHub besieged by malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/)
 * [2024-02-28, 21:59:27](https://news.ycombinator.com/item?id=39544012) - [Google CEO Sundar Pichai Says Its Malfunctioning Gemini AI Is 'Unacceptable'](https://gizmodo.com/sundar-pichai-gemini-image-generator-ai-racism-1851292676)
 * [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists Find Genetic Signature of Down Syndrome in Ancient Bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
