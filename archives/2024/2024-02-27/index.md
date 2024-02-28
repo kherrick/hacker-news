@@ -92,6 +92,7 @@
 * [2024-02-27, 09:21:25](https://news.ycombinator.com/item?id=39521944) - [Shittier: Code formatting tool that makes your code look terrible](https://github.com/rohitdhas/shittier)
 * [2024-02-27, 09:20:01](https://news.ycombinator.com/item?id=39521930) - [I Backup](https://sive.rs/backup)
 * [2024-02-27, 09:03:08](https://news.ycombinator.com/item?id=39521802) - [Balancing Optimization While Coding](https://breadchris.com/thinkies/finding-a-balance-while-coding/)
+* [2024-02-27, 09:02:42](https://news.ycombinator.com/item?id=39521797) - [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 * [2024-02-27, 08:58:42](https://news.ycombinator.com/item?id=39521773) - [Ask HN: Who is still programming directly on a server?](https://news.ycombinator.com/item?id=39521773)
 * [2024-02-27, 08:52:54](https://news.ycombinator.com/item?id=39521730) - [Google PageRank Adapted for Architecture Space Importance (2022)](https://www.chokoon.com/post/how-google-s-page-rank-algorithm-changes-architectural-layout)
 * [2024-02-27, 08:42:22](https://news.ycombinator.com/item?id=39521650) - [Berlin TYPE: The official type for the city of Berlin](https://www.hvdfonts.com/custom-cases/berlin-type)
