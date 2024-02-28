@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 15:29:51](https://news.ycombinator.com/item?id=39539198) - [The Tech Industry Doesn't Understand Consent – Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
+* [2024-02-28, 15:08:50](https://news.ycombinator.com/item?id=39538903) - [Broadcom CEO pay award jumps 164% to $160.8M](https://www.theregister.com/2024/02/28/broadcom_ceo_pay_award_jumps/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
 * [2024-02-28, 14:47:49](https://news.ycombinator.com/item?id=39538618) - [Leaving Everything Behind For Elixir [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
 * [2024-02-28, 14:46:44](https://news.ycombinator.com/item?id=39538601) - [How I'm funded](https://roe.dev/blog/funding)
@@ -12,7 +14,6 @@
 * [2024-02-28, 13:26:54](https://news.ycombinator.com/item?id=39537570) - [VATSIM: The International Online Aviation Network](https://vatsim.net/)
 * [2024-02-28, 13:24:37](https://news.ycombinator.com/item?id=39537543) - [Why I use Firefox](https://xn--ime-zza.eu/3)
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
-* [2024-02-28, 13:05:42](https://news.ycombinator.com/item?id=39537327) - [The leap year is February 29, not December 32 due to a Roman calendar quirk](https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433)
 * [2024-02-28, 12:05:44](https://news.ycombinator.com/item?id=39536824) - [Europe probes Microsoft's €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
 * [2024-02-28, 12:02:04](https://news.ycombinator.com/item?id=39536794) - [The Amazon forest has an almost 3x year-on-year increase in fires in February](https://brazil.postsen.com/local/532131/The-Amazon-has-a-286--increase-in-fires-in-February.html)
 * [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
@@ -29,7 +30,6 @@
 * [2024-02-27, 10:06:05](https://news.ycombinator.com/item?id=39522268) - [Montage Fallacy](https://herbertlui.net/montage-fallacy/)
 * [2024-02-27, 08:30:17](https://news.ycombinator.com/item?id=39521568) - [Universal Domain Types](https://mmapped.blog/posts/25-domain-types.html)
 * [2024-02-26, 23:52:07](https://news.ycombinator.com/item?id=39518329) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
-* [2024-02-26, 12:55:30](https://news.ycombinator.com/item?id=39510752) - [Clouds vanish during a solar eclipse](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why)
 
 ## [Archives](archives/index.md)
 

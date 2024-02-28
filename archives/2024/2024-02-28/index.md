@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 15:29:51](https://news.ycombinator.com/item?id=39539198) - [The Tech Industry Doesn't Understand Consent – Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
+* [2024-02-28, 15:08:50](https://news.ycombinator.com/item?id=39538903) - [Broadcom CEO pay award jumps 164% to $160.8M](https://www.theregister.com/2024/02/28/broadcom_ceo_pay_award_jumps/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
 * [2024-02-28, 14:47:49](https://news.ycombinator.com/item?id=39538618) - [Leaving Everything Behind For Elixir [Theo – t3․gg] [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
 * [2024-02-28, 14:46:44](https://news.ycombinator.com/item?id=39538601) - [I'm Funded](https://roe.dev/blog/funding)
