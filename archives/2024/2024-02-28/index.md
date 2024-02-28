@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 12:05:44](https://news.ycombinator.com/item?id=39536824) - [Europe probes Microsoft's €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
+* [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
 * [2024-02-28, 10:46:56](https://news.ycombinator.com/item?id=39536370) - [Manuals](https://xkcd.com/1343/)
 * [2024-02-28, 09:56:24](https://news.ycombinator.com/item?id=39535970) - [Learn to Read Korean in 15 Minutes](https://www.ryanestrada.com/learntoreadkoreanin15minutes/)
 * [2024-02-28, 09:56:16](https://news.ycombinator.com/item?id=39535969) - [Pingora: HTTP Server and Proxy Library, in Rust, by Cloudflare, Released](https://github.com/cloudflare/pingora)
