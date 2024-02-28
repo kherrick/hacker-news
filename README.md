@@ -2,6 +2,7 @@
 
 * [2024-02-28, 04:27:43](https://news.ycombinator.com/item?id=39533997) - [Majority of workers at Mercedes plant in Alabama sign UAW authorization cards](https://www.detroitnews.com/story/business/autos/foreign/2024/02/27/mercedes-benz-uaw-organizing-autoworkers-alabama/72750019007/)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
+* [2024-02-28, 02:49:24](https://news.ycombinator.com/item?id=39533326) - [Generating Expressive Portrait Videos with Audio2Video](https://humanaigc.github.io/emote-portrait-alive/)
 * [2024-02-28, 01:48:23](https://news.ycombinator.com/item?id=39532892) - [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
 * [2024-02-28, 01:15:56](https://news.ycombinator.com/item?id=39532650) - [GoboLinux](https://www.gobolinux.org/)
 * [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
@@ -20,9 +21,8 @@
 * [2024-02-27, 16:39:23](https://news.ycombinator.com/item?id=39526147) - [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 15:32:36](https://news.ycombinator.com/item?id=39525243) - [Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
+* [2024-02-27, 15:18:13](https://news.ycombinator.com/item?id=39525071) - [Show HN: I built an open-source data copy tool called ingestr](https://github.com/bruin-data/ingestr)
 * [2024-02-27, 14:59:53](https://news.ycombinator.com/item?id=39524874) - [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
-* [2024-02-27, 14:13:38](https://news.ycombinator.com/item?id=39524327) - [Blazer: Business intelligence made simple](https://github.com/ankane/blazer)
-* [2024-02-27, 12:57:43](https://news.ycombinator.com/item?id=39523495) - [Ant Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
 * [2024-02-27, 06:30:33](https://news.ycombinator.com/item?id=39520782) - [The lumbar puncture that changed my life](https://www.legalnomads.com/lumbar-puncture/)
 * [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
 * [2024-02-26, 20:35:45](https://news.ycombinator.com/item?id=39516465) - [Image formation with multiple wavelengths – simulation [video]](https://www.youtube.com/watch?v=nEjNbrydLKU)
