@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 22:24:24](https://news.ycombinator.com/item?id=39544252) - [GitHub besieged by malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/)
+* [2024-02-28, 21:59:27](https://news.ycombinator.com/item?id=39544012) - [Google CEO Sundar Pichai Says Its Malfunctioning Gemini AI Is 'Unacceptable'](https://gizmodo.com/sundar-pichai-gemini-image-generator-ai-racism-1851292676)
+* [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists Find Genetic Signature of Down Syndrome in Ancient Bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 * [2024-02-28, 21:19:48](https://news.ycombinator.com/item?id=39543570) - [Snowflake says Frank Slootman is retiring as CEO; stock plunges 20%](https://www.cnbc.com/2024/02/28/snowflake-says-frank-slootman-is-retiring-as-ceo-stock-plunges-20percent.html)
 * [2024-02-28, 20:53:59](https://news.ycombinator.com/item?id=39543291) - [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
 * [2024-02-28, 20:53:01](https://news.ycombinator.com/item?id=39543281) - [Apple Orders 'Neuromancer' Series](https://variety.com/2024/tv/news/apple-neurmancer-series-william-gibson-1235925640/)

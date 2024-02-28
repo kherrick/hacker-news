@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 22:24:24](https://news.ycombinator.com/item?id=39544252) - [GitHub besieged by malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/)
+* [2024-02-28, 21:59:27](https://news.ycombinator.com/item?id=39544012) - [Google CEO Sundar Pichai Says Its Malfunctioning Gemini AI Is 'Unacceptable'](https://gizmodo.com/sundar-pichai-gemini-image-generator-ai-racism-1851292676)
+* [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists Find Genetic Signature of Down Syndrome in Ancient Bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 * [2024-02-28, 20:53:59](https://news.ycombinator.com/item?id=39543291) - [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
 * [2024-02-28, 20:52:32](https://news.ycombinator.com/item?id=39543275) - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
 * [2024-02-28, 20:46:29](https://news.ycombinator.com/item?id=39543232) - [How the media industry keeps losing the future](https://www.nytimes.com/2024/02/28/technology/news-media-industry-dying.html)
@@ -12,7 +15,6 @@
 * [2024-02-28, 17:01:55](https://news.ycombinator.com/item?id=39540738) - [How The Pentagon learned to use targeted ads to find its targets](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
 * [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
 * [2024-02-28, 16:23:49](https://news.ycombinator.com/item?id=39540078) - [Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
-* [2024-02-28, 16:12:01](https://news.ycombinator.com/item?id=39539865) - [Man in remission from blood cancer and HIV after remarkable treatment](https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment)
 * [2024-02-28, 15:39:31](https://news.ycombinator.com/item?id=39539356) - [Man convicted for trying to help undercover game wardens recover deer with drone](https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/)
 * [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Varda Capsule Reentry – Five Minutes from LEO to Earth [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
@@ -25,11 +27,9 @@
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 * [2024-02-28, 02:13:26](https://news.ycombinator.com/item?id=39533075) - [A lot of toast, with a side-order of roast (2002) [pdf]](https://www2.math.upenn.edu/~wilf/website/dek.pdf)
-* [2024-02-27, 18:29:48](https://news.ycombinator.com/item?id=39527639) - [Measuring the Shape of the Earth](https://www.historytoday.com/archive/great-debates/measuring-shape-earth)
 * [2024-02-27, 18:22:49](https://news.ycombinator.com/item?id=39527528) - [Solar storms, ice cores and nuns' teeth: the new science of history](https://www.theguardian.com/science/2024/feb/20/solar-storms-ice-cores-and-nuns-teeth-inside-the-new-science-of-history)
 * [2024-02-27, 12:22:24](https://news.ycombinator.com/item?id=39523190) - [Keeping an ice cream factory cool](https://spectrum.ieee.org/patryk-borkowski-unilever-profiile)
 * [2024-02-27, 11:27:33](https://news.ycombinator.com/item?id=39522801) - [One of world’s smallest fish found to make sound as loud as a gunshot](https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum)
-* [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
 
 ## [Archives](archives/index.md)
 
