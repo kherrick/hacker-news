@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 07:23:46](https://news.ycombinator.com/item?id=39535028) - [European summer weather linked to North Atlantic freshwater anomalies](https://wcd.copernicus.org/articles/5/109/2024/)
 * [2024-02-28, 06:51:35](https://news.ycombinator.com/item?id=39534856) - [Don't Mock Your Machine Learning Models in Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 * [2024-02-28, 06:06:11](https://news.ycombinator.com/item?id=39534608) - [Google CEO calls Gemini completely unacceptable, vows to make structural changes](https://www.semafor.com/article/02/27/2024/google-ceo-sundar-pichai-calls-ai-tools-responses-completely-unacceptable)
 * [2024-02-28, 06:01:04](https://news.ycombinator.com/item?id=39534579) - [Sex, violence, 'Game of Thrones'-style power grabs – the new 'Shōgun' has it all](https://text.npr.org/1233992898)
