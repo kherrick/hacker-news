@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 23:27:00](https://news.ycombinator.com/item?id=39531662) - [Klarna says its AI assistant does the work of 700 people](https://www.fastcompany.com/91039401/klarna-ai-virtual-assistant-does-the-work-of-700-humans-after-layoffs)
 * [2024-02-27, 23:21:42](https://news.ycombinator.com/item?id=39531600) - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 * [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
 * [2024-02-27, 23:06:02](https://news.ycombinator.com/item?id=39531441) - [Electric cars produce twice as much CO₂ as trains, says rail group data](https://www.theguardian.com/business/2024/feb/27/train-travel-generates-less-carbon-than-battery-ev-says-rail-group-data)

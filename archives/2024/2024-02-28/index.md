@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 17:44:13](https://news.ycombinator.com/item?id=39541285) - [Coinbase Shows Balance as 0](https://status.coinbase.com/incidents/qlpwww1zsm2y)
 * [2024-02-28, 17:14:17](https://news.ycombinator.com/item?id=39540886) - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 * [2024-02-28, 17:11:36](https://news.ycombinator.com/item?id=39540851) - [The $25B Kroger-Albertsons Merger Is Going to Fail](https://www.thebignewsletter.com/p/the-25b-kroger-albertsons-merger)
 * [2024-02-28, 17:10:50](https://news.ycombinator.com/item?id=39540841) - [RAR 7.0 Released](https://www.rarlab.com/rarnew.htm)
