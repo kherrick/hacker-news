@@ -1,11 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-28, 16:36:30](https://news.ycombinator.com/item?id=39540321) - [Apple cancels secretive electric car project in shift to focus on AI](https://www.ft.com/content/78bc9f62-8450-45c0-8c59-c5d87a122825)
-* [2024-02-28, 16:11:25](https://news.ycombinator.com/item?id=39539858) - [45 of 54 tattoo inks tested have unlabeled or mislabeled ingredients](https://arstechnica.com/science/2024/02/caveat-emptor-90-of-tattoo-inks-have-unlabeled-or-mislabeled-ingredients/)
-* [2024-02-28, 15:14:38](https://news.ycombinator.com/item?id=39538978) - [Call-Center Firm Sinks on Klarna Claims AI Is Doing Agents' Jobs](https://www.bloomberg.com/news/articles/2024-02-28/teleperformance-sinks-as-klarna-fuels-worries-over-impact-of-ai)
+* [2024-02-28, 16:23:49](https://news.ycombinator.com/item?id=39540078) - [Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
+* [2024-02-28, 16:10:04](https://news.ycombinator.com/item?id=39539842) - [South Fork Wind, the first US complete utility-scale offshore wind farm](https://electrek.co/2024/02/27/south-fork-us-first-complete-utility-scale-wind-farm/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
-* [2024-02-28, 14:47:49](https://news.ycombinator.com/item?id=39538618) - [Leaving Everything Behind For Elixir [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
-* [2024-02-28, 14:46:44](https://news.ycombinator.com/item?id=39538601) - [How I'm funded](https://roe.dev/blog/funding)
 * [2024-02-28, 14:42:15](https://news.ycombinator.com/item?id=39538550) - [Wear OS \"Hybrid\" design has two OSes, two CPUs, \"100 hour\" battery life](https://arstechnica.com/gadgets/2024/02/wear-os-hybrid-design-has-two-oses-two-cpus-100-hour-battery-life/)
 * [2024-02-28, 14:40:23](https://news.ycombinator.com/item?id=39538526) - [Intel puts 1nm process (10A) on the roadmap for 2027](https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots)
 * [2024-02-28, 14:31:55](https://news.ycombinator.com/item?id=39538425) - ['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
@@ -21,6 +18,7 @@
 * [2024-02-28, 01:15:56](https://news.ycombinator.com/item?id=39532650) - [GoboLinux](https://www.gobolinux.org/)
 * [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 * [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
+* [2024-02-27, 21:18:24](https://news.ycombinator.com/item?id=39530113) - [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
 * [2024-02-27, 21:02:22](https://news.ycombinator.com/item?id=39529895) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 11:27:33](https://news.ycombinator.com/item?id=39522801) - [One of world’s smallest fish found to make sound as loud as a gunshot](https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum)
@@ -28,8 +26,10 @@
 * [2024-02-27, 10:37:30](https://news.ycombinator.com/item?id=39522464) - [Micron Kicks Off Production of HBM3E Memory](https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory)
 * [2024-02-27, 10:06:05](https://news.ycombinator.com/item?id=39522268) - [Montage Fallacy](https://herbertlui.net/montage-fallacy/)
 * [2024-02-27, 08:30:17](https://news.ycombinator.com/item?id=39521568) - [Universal Domain Types](https://mmapped.blog/posts/25-domain-types.html)
+* [2024-02-27, 00:22:45](https://news.ycombinator.com/item?id=39518535) - [The Marvelous Automata of Antiquity (2018)](https://daily.jstor.org/the-marvelous-automata-of-antiquity/)
 * [2024-02-26, 23:52:07](https://news.ycombinator.com/item?id=39518329) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
 * [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
+* [2024-02-26, 16:08:45](https://news.ycombinator.com/item?id=39512912) - [Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old](https://speakz.ai)
 
 ## [Archives](archives/index.md)
 
