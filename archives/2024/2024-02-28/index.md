@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 * [2024-02-28, 04:27:43](https://news.ycombinator.com/item?id=39533997) - [Majority of workers at Mercedes plant in Alabama sign UAW authorization cards](https://www.detroitnews.com/story/business/autos/foreign/2024/02/27/mercedes-benz-uaw-organizing-autoworkers-alabama/72750019007/)
+* [2024-02-28, 04:10:29](https://news.ycombinator.com/item?id=39533881) - [Tea.xyz causes a flood of spam pull requests to open source projects](https://www.web3isgoinggreat.com/?id=teaxyz-spam)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
 * [2024-02-28, 02:49:24](https://news.ycombinator.com/item?id=39533326) - [Generating Expressive Portrait Videos with Audio2Video](https://humanaigc.github.io/emote-portrait-alive/)
 * [2024-02-28, 02:49:23](https://news.ycombinator.com/item?id=39533324) - [To Lose Weight, Eating Less Is Far More Important Than Exercising More (2015)](https://www.nytimes.com/2015/06/16/upshot/to-lose-weight-eating-less-is-far-more-important-than-exercising-more.html)
