@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 13:05:42](https://news.ycombinator.com/item?id=39537327) - [The leap year is February 29, not December 32 due to a Roman calendar quirk](https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433)
 * [2024-02-28, 12:42:36](https://news.ycombinator.com/item?id=39537104) - [46yr-old man claims to have a teen's body, wants to build nation of immortals](https://www.theatlantic.com/technology/archive/2024/02/bryan-johnson-dont-die-event/677535/)
 * [2024-02-28, 12:05:44](https://news.ycombinator.com/item?id=39536824) - [Europe probes Microsoft's €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
 * [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)

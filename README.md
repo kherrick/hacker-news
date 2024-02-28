@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 13:05:42](https://news.ycombinator.com/item?id=39537327) - [The leap year is February 29, not December 32 due to a Roman calendar quirk](https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433)
 * [2024-02-28, 12:42:36](https://news.ycombinator.com/item?id=39537104) - [46yr-old man claims to have a teen's body, wants to build nation of immortals](https://www.theatlantic.com/technology/archive/2024/02/bryan-johnson-dont-die-event/677535/)
 * [2024-02-28, 12:05:44](https://news.ycombinator.com/item?id=39536824) - [Europe probes Microsoft's €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
 * [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
@@ -12,7 +13,6 @@
 * [2024-02-28, 06:51:35](https://news.ycombinator.com/item?id=39534856) - [Don't Mock Machine Learning Models In Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 * [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC Broadband Standards Should Consider Latency](https://broadbandbreakfast.com/untitled-12/)
-* [2024-02-28, 01:48:23](https://news.ycombinator.com/item?id=39532892) - [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
 * [2024-02-28, 01:31:47](https://news.ycombinator.com/item?id=39532754) - [Serverless Horrors](https://serverlesshorrors.com/)
 * [2024-02-28, 01:15:56](https://news.ycombinator.com/item?id=39532650) - [GoboLinux](https://www.gobolinux.org/)
 * [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
