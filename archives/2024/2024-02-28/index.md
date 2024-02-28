@@ -6,6 +6,8 @@
 
 * [2024-02-28, 12:05:44](https://news.ycombinator.com/item?id=39536824) - [Europe probes Microsoft's €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
 * [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
+* [2024-02-28, 11:26:16](https://news.ycombinator.com/item?id=39536545) - [Klarna AI assistant handles two-thirds of customer service chats in first month](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/)
+* [2024-02-28, 11:12:57](https://news.ycombinator.com/item?id=39536490) - [The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits](https://synthical.com/article/56b9c006-6221-43a1-9678-79b1f1d9c7bc)
 * [2024-02-28, 10:46:56](https://news.ycombinator.com/item?id=39536370) - [Manuals](https://xkcd.com/1343/)
 * [2024-02-28, 09:56:24](https://news.ycombinator.com/item?id=39535970) - [Learn to Read Korean in 15 Minutes](https://www.ryanestrada.com/learntoreadkoreanin15minutes/)
 * [2024-02-28, 09:56:16](https://news.ycombinator.com/item?id=39535969) - [Pingora: HTTP Server and Proxy Library, in Rust, by Cloudflare, Released](https://github.com/cloudflare/pingora)
