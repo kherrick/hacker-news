@@ -129,6 +129,105 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39540445">
+          <h3>
+            <a class="item" href="https://floneum.com/blog/kalosm_0_2/"
+              >Show HN: Kalosm an embeddable framework for pre-trained models in
+              Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-28 @ 16:43:20</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39540445"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://floneum.com/kalosm/"
+                >https://floneum.com/kalosm/</a
+              >) is a framework for embedded AI in rust.
+              <p>## What is Kalosm?</p>
+              <p>
+                Kalosm provides a simple interface for pre-trained language,
+                audio, and image models models. To make it easy to use with
+                these models in your application, Kalosm includes a set of
+                integrations other systems like your database or documents.
+              </p>
+              <p>```rust use kalosm::language::*;</p>
+              <p>
+                #[tokio::main] async fn main() { let mut model =
+                Llama::new_chat();
+              </p>
+              <p></p>
+              <pre><code>    let mut chat = Chat::builder(&amp;mut model)
+        .with_system_prompt("The assistant will act like a pirate")
+        .build();
+
+    loop {
+        chat.add_message(prompt_input("\n&gt; ").unwrap())
+            .await
+            .unwrap()
+            .to_std_out()
+            .await
+            .unwrap();
+    }</code></pre>
+              } ```
+              <p>## What can you build with Kalosm?</p>
+              <p>
+                Kalosm is designed to be a flexible and powerful tool for
+                building AI into your applications. It is a great fit for any
+                application that uses AI models to process sensitive information
+                where local processing is important.
+              </p>
+              <p>
+                Here are a few examples of applications that are built with
+                Kalosm:
+              </p>
+              <p>
+                - Floneum (<a href="https://floneum.com/"
+                  >https://floneum.com/</a
+                >): A local open source workflow editor and automation tool that
+                uses Kalosm to provide natural language processing and other AI
+                features. - Kalosm Chat (<a
+                  href="https://github.com/floneum/kalosm-chat"
+                  >https://github.com/floneum/kalosm-chat</a
+                >): A simple chat application that uses Kalosm to run quantized
+                language models.
+              </p>
+              <p>## Kalosm 0.2</p>
+              <p>
+                The 0.2 release includes several new features and some
+                performance improvements:
+              </p>
+              <p>
+                - Tasks and Agents - Task Evaluation - Prompt Auto-Tuning -
+                Regex Validation - Surreal Database Integration - RAG
+                improvements - Performance Improvements - New Models
+              </p>
+              <p>
+                If you have any questions, feel free to ask them here, in the
+                discord (<a href="https://discord.gg/dQdmhuB8q5"
+                  >https://discord.gg/dQdmhuB8q5</a
+                >) or on GitHub (<a
+                  href="https://github.com/floneum/floneum/tree/master/interfaces/kalosm"
+                  >https://github.com/floneum/floneum/tree/master/interfaces/ka...</a
+                >).
+              </p>
+              <p>
+                To get started with Kalosm, you can follow the quick start
+                guide:
+                <a href="https://floneum.com/kalosm/docs/"
+                  >https://floneum.com/kalosm/docs/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="39540078">
           <h3>
             <a class="item" href="https://github.com/Vyxal/Vyxal"
@@ -139,33 +238,33 @@
             <h4>
               <span>2024-02-28 @ 16:23:49</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39540078"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="39539842">
+        <section id="39539865">
           <h3>
             <a
               class="item"
-              href="https://electrek.co/2024/02/27/south-fork-us-first-complete-utility-scale-wind-farm/"
-              >South Fork Wind, the first US complete utility-scale offshore
-              wind farm</a
+              href="https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment"
+              >Man in remission from blood cancer and HIV after remarkable
+              treatment</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-02-28 @ 16:10:04</span
+              <span>2024-02-28 @ 16:12:01</span
               ><span class="points-container"
-                >Points: <span class="points">3</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39539842"
+                ><a href="https://news.ycombinator.com/item?id=39539865"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -181,33 +280,31 @@
             <h4>
               <span>2024-02-28 @ 15:01:37</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39538800"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="39538550">
+        <section id="39538670">
           <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/gadgets/2024/02/wear-os-hybrid-design-has-two-oses-two-cpus-100-hour-battery-life/"
-              >Wear OS "Hybrid" design has two OSes, two CPUs, "100 hour"
-              battery life</a
+            <a class="item" href="https://enkimute.github.io/LookMaNoMatrices/"
+              >Supplanting matrices with Geometric Algebra in a forward 3D
+              renderer</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-02-28 @ 14:42:15</span
+              <span>2024-02-28 @ 14:51:49</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39538550"
+                ><a href="https://news.ycombinator.com/item?id=39538670"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -224,11 +321,11 @@
             <h4>
               <span>2024-02-28 @ 14:40:23</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39538526"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -246,11 +343,11 @@
             <h4>
               <span>2024-02-28 @ 14:31:55</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39538425"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -266,11 +363,11 @@
             <h4>
               <span>2024-02-28 @ 14:25:51</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39538335"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -287,11 +384,11 @@
             <h4>
               <span>2024-02-28 @ 13:39:37</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39537735"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -306,11 +403,11 @@
             <h4>
               <span>2024-02-28 @ 13:26:54</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39537570"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -325,11 +422,11 @@
             <h4>
               <span>2024-02-28 @ 13:17:28</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39537448"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -345,7 +442,7 @@
             <h4>
               <span>2024-02-28 @ 09:56:16</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39535969"
                   >Comments</a
@@ -365,11 +462,11 @@
             <h4>
               <span>2024-02-28 @ 09:28:43</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">293</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39535800"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -385,7 +482,7 @@
             <h4>
               <span>2024-02-28 @ 07:35:22</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39535106"
                   >Comments</a
@@ -425,11 +522,11 @@
             <h4>
               <span>2024-02-28 @ 03:57:47</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39533800"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -442,7 +539,7 @@
             <h4>
               <span>2024-02-28 @ 01:15:56</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39532650"
                   >Comments</a
@@ -461,11 +558,11 @@
             <h4>
               <span>2024-02-28 @ 00:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">448</span></span
+                >Points: <span class="points">452</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39532367"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
+                ><span class="descendants">: 192</span></span
               >
             </h4>
             <div class="text">
@@ -513,33 +610,11 @@
             <h4>
               <span>2024-02-27 @ 23:15:57</span
               ><span class="points-container"
-                >Points: <span class="points">560</span></span
+                >Points: <span class="points">563</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39531536"
                   >Comments</a
-                ><span class="descendants">: 219</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39530113">
-          <h3>
-            <a
-              class="item"
-              href="https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything"
-              >Does this 8088 code in the Leisure Suit Larry 2 game do
-              anything?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-27 @ 21:18:24</span
-              ><span class="points-container"
-                >Points: <span class="points">283</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39530113"
-                  >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 220</span></span
               >
             </h4>
           </section>
@@ -568,7 +643,7 @@
             <h4>
               <span>2024-02-27 @ 16:32:49</span
               ><span class="points-container"
-                >Points: <span class="points">2327</span></span
+                >Points: <span class="points">2336</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39526057"
                   >Comments</a
@@ -590,11 +665,11 @@
             <h4>
               <span>2024-02-27 @ 11:27:33</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522801"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -610,11 +685,11 @@
             <h4>
               <span>2024-02-27 @ 11:16:52</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522734"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
             <div class="text">
@@ -643,7 +718,7 @@
             <h4>
               <span>2024-02-27 @ 10:37:30</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522464"
                   >Comments</a
@@ -662,11 +737,11 @@
             <h4>
               <span>2024-02-27 @ 10:06:05</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39522268"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -683,7 +758,7 @@
             <h4>
               <span>2024-02-27 @ 08:30:17</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39521568"
                   >Comments</a
@@ -708,7 +783,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39518535"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -725,11 +800,11 @@
             <h4>
               <span>2024-02-26 @ 23:52:07</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39518329"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -745,11 +820,11 @@
             <h4>
               <span>2024-02-26 @ 22:40:44</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39517635"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -765,11 +840,11 @@
             <h4>
               <span>2024-02-26 @ 16:08:45</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">311</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39512912"
                   >Comments</a
-                ><span class="descendants">: 140</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
             <div class="text">
