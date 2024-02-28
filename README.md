@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 06:06:11](https://news.ycombinator.com/item?id=39534608) - [Google CEO calls Gemini completely unacceptable, vows to make structural changes](https://www.semafor.com/article/02/27/2024/google-ceo-sundar-pichai-calls-ai-tools-responses-completely-unacceptable)
 * [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 * [2024-02-28, 04:10:29](https://news.ycombinator.com/item?id=39533881) - [Tea.xyz causes a flood of spam pull requests to open source projects](https://www.web3isgoinggreat.com/?id=teaxyz-spam)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
@@ -7,7 +8,6 @@
 * [2024-02-28, 01:31:47](https://news.ycombinator.com/item?id=39532754) - [Serverless Horrors](https://serverlesshorrors.com/)
 * [2024-02-28, 01:15:56](https://news.ycombinator.com/item?id=39532650) - [GoboLinux](https://www.gobolinux.org/)
 * [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
-* [2024-02-28, 00:32:38](https://news.ycombinator.com/item?id=39532313) - [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
 * [2024-02-27, 23:21:42](https://news.ycombinator.com/item?id=39531600) - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 * [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
 * [2024-02-27, 21:46:41](https://news.ycombinator.com/item?id=39530487) - [U.S. opens UnitedHealth antitrust probe](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
