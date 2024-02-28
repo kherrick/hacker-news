@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-28, 22:24:24](https://news.ycombinator.com/item?id=39544252) - [GitHub besieged by malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/)
 * [2024-02-28, 21:59:27](https://news.ycombinator.com/item?id=39544012) - [Google CEO Sundar Pichai Says Its Malfunctioning Gemini AI Is 'Unacceptable'](https://gizmodo.com/sundar-pichai-gemini-image-generator-ai-racism-1851292676)
 * [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists Find Genetic Signature of Down Syndrome in Ancient Bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 * [2024-02-28, 20:53:59](https://news.ycombinator.com/item?id=39543291) - [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
@@ -30,6 +29,7 @@
 * [2024-02-27, 18:22:49](https://news.ycombinator.com/item?id=39527528) - [Solar storms, ice cores and nuns' teeth: the new science of history](https://www.theguardian.com/science/2024/feb/20/solar-storms-ice-cores-and-nuns-teeth-inside-the-new-science-of-history)
 * [2024-02-27, 12:22:24](https://news.ycombinator.com/item?id=39523190) - [Keeping an ice cream factory cool](https://spectrum.ieee.org/patryk-borkowski-unilever-profiile)
 * [2024-02-27, 11:27:33](https://news.ycombinator.com/item?id=39522801) - [One of world’s smallest fish found to make sound as loud as a gunshot](https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum)
+* [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
 
 ## [Archives](archives/index.md)
 
