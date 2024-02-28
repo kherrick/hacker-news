@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-02-28, 15:39:31",
-      "https://news.ycombinator.com/item?id=39539356"
-    ],
-    [
-      "Man Convicted for Trying to Help Undercover Game Wardens Recover a Deer Drone",
-      "https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 15:29:40",
-      "https://news.ycombinator.com/item?id=39539191"
-    ],
-    [
-      "US Government Buying Legally Available Consumer Data on US Citizens",
-      "https://www.politico.com/news/magazine/2024/02/28/government-buying-your-data-00143742"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 15:14:38",
       "https://news.ycombinator.com/item?id=39538978"
     ],
     [
       "Call-Center Firm Sinks on Klarna Claims AI Is Doing Agents' Jobs",
       "https://www.bloomberg.com/news/articles/2024-02-28/teleperformance-sinks-as-klarna-fuels-worries-over-impact-of-ai"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 15:08:50",
-      "https://news.ycombinator.com/item?id=39538903"
-    ],
-    [
-      "Broadcom CEO pay award jumps 164% to $160.8M",
-      "https://www.theregister.com/2024/02/28/broadcom_ceo_pay_award_jumps/"
     ]
   ],
   [
@@ -111,16 +81,6 @@
   ],
   [
     [
-      "2024-02-28, 14:00:38",
-      "https://news.ycombinator.com/item?id=39537995"
-    ],
-    [
-      "More than 80 AI models from Qualcomm",
-      "https://huggingface.co/qualcomm"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 13:39:37",
       "https://news.ycombinator.com/item?id=39537735"
     ],
@@ -151,22 +111,22 @@
   ],
   [
     [
-      "2024-02-28, 12:02:04",
-      "https://news.ycombinator.com/item?id=39536794"
+      "2024-02-28, 12:05:44",
+      "https://news.ycombinator.com/item?id=39536824"
     ],
     [
-      "The Amazon forest has an almost 3x year-on-year increase in fires in February",
-      "https://brazil.postsen.com/local/532131/The-Amazon-has-a-286--increase-in-fires-in-February.html"
+      "Europe probes Microsoft's €15M stake in AI upstart Mistral",
+      "https://www.theregister.com/2024/02/28/eu_microsoft_mistral/"
     ]
   ],
   [
     [
-      "2024-02-28, 11:44:11",
-      "https://news.ycombinator.com/item?id=39536645"
+      "2024-02-28, 09:56:16",
+      "https://news.ycombinator.com/item?id=39535969"
     ],
     [
-      "Google pays publishers to test AI tool that scrapes sites to craft new content",
-      "https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/"
+      "Pingora: build fast, reliable and programmable networked systems",
+      "https://github.com/cloudflare/pingora"
     ]
   ],
   [
@@ -177,6 +137,16 @@
     [
       "The Era of 1-bit LLMs: ternary parameters for cost-effective computing",
       "https://arxiv.org/abs/2402.17764"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 07:35:22",
+      "https://news.ycombinator.com/item?id=39535106"
+    ],
+    [
+      "TrenchBroom: A cross platform level editor for Quake-engine based games",
+      "https://trenchbroom.github.io/"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2024-02-27, 11:16:52",
+      "https://news.ycombinator.com/item?id=39522734"
+    ],
+    [
+      "Ask HN: Slow thinkers, how do you compensate for your lack of quick-wittedness?",
+      "https://news.ycombinator.com/item?id=39522734"
+    ]
+  ],
+  [
+    [
       "2024-02-27, 10:37:30",
       "https://news.ycombinator.com/item?id=39522464"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-02-27, 00:22:45",
+      "https://news.ycombinator.com/item?id=39518535"
+    ],
+    [
+      "The Marvelous Automata of Antiquity (2018)",
+      "https://daily.jstor.org/the-marvelous-automata-of-antiquity/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 23:52:07",
       "https://news.ycombinator.com/item?id=39518329"
     ],
@@ -297,6 +287,16 @@
     [
       "MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue",
       "https://www.mdpi.com/2079-9292/13/5/854"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 16:08:45",
+      "https://news.ycombinator.com/item?id=39512912"
+    ],
+    [
+      "Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old",
+      "https://speakz.ai"
     ]
   ]
 ]
