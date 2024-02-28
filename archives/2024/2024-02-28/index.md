@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
 * [2024-02-28, 16:36:30](https://news.ycombinator.com/item?id=39540321) - [Apple cancels secretive electric car project in shift to focus on AI](https://www.ft.com/content/78bc9f62-8450-45c0-8c59-c5d87a122825)
 * [2024-02-28, 16:23:49](https://news.ycombinator.com/item?id=39540078) - [Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
+* [2024-02-28, 16:12:01](https://news.ycombinator.com/item?id=39539865) - [Man in remission from blood cancer and HIV after remarkable treatment](https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment)
 * [2024-02-28, 16:11:25](https://news.ycombinator.com/item?id=39539858) - [45 of 54 tattoo inks tested have unlabeled or mislabeled ingredients](https://arstechnica.com/science/2024/02/caveat-emptor-90-of-tattoo-inks-have-unlabeled-or-mislabeled-ingredients/)
 * [2024-02-28, 16:10:04](https://news.ycombinator.com/item?id=39539842) - [South Fork Wind, the first US complete utility-scale offshore wind farm](https://electrek.co/2024/02/27/south-fork-us-first-complete-utility-scale-wind-farm/)
 * [2024-02-28, 15:39:31](https://news.ycombinator.com/item?id=39539356) - [Man Convicted for Trying to Help Undercover Game Wardens Recover a Deer Drone](https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/)
@@ -14,6 +16,7 @@
 * [2024-02-28, 15:14:38](https://news.ycombinator.com/item?id=39538978) - [Call-Center Firm Sinks on Klarna Claims AI Is Doing Agents' Jobs](https://www.bloomberg.com/news/articles/2024-02-28/teleperformance-sinks-as-klarna-fuels-worries-over-impact-of-ai)
 * [2024-02-28, 15:08:50](https://news.ycombinator.com/item?id=39538903) - [Broadcom CEO pay award jumps 164% to $160.8M](https://www.theregister.com/2024/02/28/broadcom_ceo_pay_award_jumps/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
+* [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Supplanting matrices with Geometric Algebra in a forward 3D renderer](https://enkimute.github.io/LookMaNoMatrices/)
 * [2024-02-28, 14:47:49](https://news.ycombinator.com/item?id=39538618) - [Leaving Everything Behind For Elixir [Theo – t3․gg] [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
 * [2024-02-28, 14:46:44](https://news.ycombinator.com/item?id=39538601) - [I'm Funded](https://roe.dev/blog/funding)
 * [2024-02-28, 14:42:15](https://news.ycombinator.com/item?id=39538550) - [Wear OS \"Hybrid\" design has two OSes, two CPUs, \"100 hour\" battery life](https://arstechnica.com/gadgets/2024/02/wear-os-hybrid-design-has-two-oses-two-cpus-100-hour-battery-life/)
