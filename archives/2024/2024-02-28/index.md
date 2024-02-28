@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 17:14:17](https://news.ycombinator.com/item?id=39540886) - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
+* [2024-02-28, 17:11:36](https://news.ycombinator.com/item?id=39540851) - [The $25B Kroger-Albertsons Merger Is Going to Fail](https://www.thebignewsletter.com/p/the-25b-kroger-albertsons-merger)
 * [2024-02-28, 17:10:50](https://news.ycombinator.com/item?id=39540841) - [RAR 7.0 Released](https://www.rarlab.com/rarnew.htm)
+* [2024-02-28, 17:01:55](https://news.ycombinator.com/item?id=39540738) - [How The Pentagon Learned to Use Targeted Ads to Find Its Targets](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
 * [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
 * [2024-02-28, 16:39:24](https://news.ycombinator.com/item?id=39540371) - [Biden orders crackdown on selling Americans' personal data abroad](https://www.theverge.com/2024/2/28/24085572/biden-executive-order-personal-data-transfer-china-privacy-surveillance)
 * [2024-02-28, 16:36:30](https://news.ycombinator.com/item?id=39540321) - [Apple cancels secretive electric car project in shift to focus on AI](https://www.ft.com/content/78bc9f62-8450-45c0-8c59-c5d87a122825)
@@ -13,6 +16,7 @@
 * [2024-02-28, 16:11:25](https://news.ycombinator.com/item?id=39539858) - [45 of 54 tattoo inks tested have unlabeled or mislabeled ingredients](https://arstechnica.com/science/2024/02/caveat-emptor-90-of-tattoo-inks-have-unlabeled-or-mislabeled-ingredients/)
 * [2024-02-28, 16:10:04](https://news.ycombinator.com/item?id=39539842) - [South Fork Wind, the first US complete utility-scale offshore wind farm](https://electrek.co/2024/02/27/south-fork-us-first-complete-utility-scale-wind-farm/)
 * [2024-02-28, 15:39:31](https://news.ycombinator.com/item?id=39539356) - [Man Convicted for Trying to Help Undercover Game Wardens Recover a Deer Drone](https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/)
+* [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
 * [2024-02-28, 15:29:51](https://news.ycombinator.com/item?id=39539198) - [The Tech Industry Doesn't Understand Consent – Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
 * [2024-02-28, 15:29:40](https://news.ycombinator.com/item?id=39539191) - [US Government Buying Legally Available Consumer Data on US Citizens](https://www.politico.com/news/magazine/2024/02/28/government-buying-your-data-00143742)
 * [2024-02-28, 15:14:38](https://news.ycombinator.com/item?id=39538978) - [Call-Center Firm Sinks on Klarna Claims AI Is Doing Agents' Jobs](https://www.bloomberg.com/news/articles/2024-02-28/teleperformance-sinks-as-klarna-fuels-worries-over-impact-of-ai)
