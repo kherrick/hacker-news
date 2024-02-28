@@ -14,6 +14,7 @@
 * [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Supplanting matrices with Geometric Algebra in a forward 3D renderer](https://enkimute.github.io/LookMaNoMatrices/)
 * [2024-02-28, 14:40:23](https://news.ycombinator.com/item?id=39538526) - [Intel puts 1nm process (10A) on the roadmap for 2027](https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots)
 * [2024-02-28, 14:31:55](https://news.ycombinator.com/item?id=39538425) - ['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
+* [2024-02-28, 13:44:57](https://news.ycombinator.com/item?id=39537794) - [Show HN: SQL Workbench in the Browser](https://sql-workbench.com)
 * [2024-02-28, 13:39:37](https://news.ycombinator.com/item?id=39537735) - [Rewrite the VP9 codec library in Rust](https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/)
 * [2024-02-28, 13:26:54](https://news.ycombinator.com/item?id=39537570) - [VATSIM: The International Online Aviation Network](https://vatsim.net/)
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
@@ -28,7 +29,6 @@
 * [2024-02-27, 10:37:30](https://news.ycombinator.com/item?id=39522464) - [Micron Kicks Off Production of HBM3E Memory](https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory)
 * [2024-02-27, 10:06:05](https://news.ycombinator.com/item?id=39522268) - [Montage Fallacy](https://herbertlui.net/montage-fallacy/)
 * [2024-02-27, 08:30:17](https://news.ycombinator.com/item?id=39521568) - [Universal Domain Types](https://mmapped.blog/posts/25-domain-types.html)
-* [2024-02-26, 23:52:07](https://news.ycombinator.com/item?id=39518329) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
 * [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
 
 ## [Archives](archives/index.md)

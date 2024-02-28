@@ -35,6 +35,7 @@
 * [2024-02-28, 14:31:55](https://news.ycombinator.com/item?id=39538425) - ['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
 * [2024-02-28, 14:25:51](https://news.ycombinator.com/item?id=39538335) - [Show HN: Pgs.sh – A zero-install static site hosting service for hackers](https://pgs.sh)
 * [2024-02-28, 14:00:38](https://news.ycombinator.com/item?id=39537995) - [Qualcomm has open sourced more than 80 AI models](https://huggingface.co/qualcomm)
+* [2024-02-28, 13:44:57](https://news.ycombinator.com/item?id=39537794) - [Show HN: SQL Workbench in the Browser](https://sql-workbench.com)
 * [2024-02-28, 13:39:37](https://news.ycombinator.com/item?id=39537735) - [Rewrite the VP9 codec library in Rust](https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/)
 * [2024-02-28, 13:26:54](https://news.ycombinator.com/item?id=39537570) - [VATSIM: The International Online Aviation Network](https://vatsim.net/)
 * [2024-02-28, 13:24:37](https://news.ycombinator.com/item?id=39537543) - [I Use Firefox](https://xn--ime-zza.eu/3)
