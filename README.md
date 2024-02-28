@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 06:01:04](https://news.ycombinator.com/item?id=39534579) - [Sex, violence, 'Game of Thrones'-style power grabs – the new 'Shōgun' has it all](https://text.npr.org/1233992898)
 * [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
-* [2024-02-28, 04:27:43](https://news.ycombinator.com/item?id=39533997) - [Majority of workers at Mercedes plant in Alabama sign UAW authorization cards](https://www.detroitnews.com/story/business/autos/foreign/2024/02/27/mercedes-benz-uaw-organizing-autoworkers-alabama/72750019007/)
 * [2024-02-28, 04:10:29](https://news.ycombinator.com/item?id=39533881) - [Tea.xyz causes a flood of spam pull requests to open source projects](https://www.web3isgoinggreat.com/?id=teaxyz-spam)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
 * [2024-02-28, 01:48:23](https://news.ycombinator.com/item?id=39532892) - [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
+* [2024-02-28, 01:15:56](https://news.ycombinator.com/item?id=39532650) - [GoboLinux](https://www.gobolinux.org/)
 * [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 * [2024-02-28, 00:32:38](https://news.ycombinator.com/item?id=39532313) - [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
 * [2024-02-27, 23:21:42](https://news.ycombinator.com/item?id=39531600) - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
@@ -21,7 +22,6 @@
 * [2024-02-27, 16:39:23](https://news.ycombinator.com/item?id=39526147) - [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 15:32:36](https://news.ycombinator.com/item?id=39525243) - [Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
-* [2024-02-27, 15:18:13](https://news.ycombinator.com/item?id=39525071) - [Show HN: I built an open-source data copy tool called ingestr](https://github.com/bruin-data/ingestr)
 * [2024-02-27, 10:37:30](https://news.ycombinator.com/item?id=39522464) - [Micron Kicks Off Production of HBM3E Memory – AnandTech](https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory)
 * [2024-02-27, 06:30:33](https://news.ycombinator.com/item?id=39520782) - [The lumbar puncture that changed my life](https://www.legalnomads.com/lumbar-puncture/)
 * [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
@@ -29,7 +29,7 @@
 * [2024-02-26, 18:34:03](https://news.ycombinator.com/item?id=39515087) - [Neanderthals' use of complex adhesives shows high cognitive abilities](https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html)
 * [2024-02-26, 16:08:45](https://news.ycombinator.com/item?id=39512912) - [Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old](https://speakz.ai)
 * [2024-02-26, 15:16:22](https://news.ycombinator.com/item?id=39512188) - [Dracula's Biggest Mistake](https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/)
-* [2024-02-26, 12:55:30](https://news.ycombinator.com/item?id=39510752) - [Clouds Vanish During a Solar Eclipse, and We Know Why](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why)
+* [2024-02-26, 12:55:30](https://news.ycombinator.com/item?id=39510752) - [Clouds vanish during a solar eclipse](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why)
 
 ## [Archives](archives/index.md)
 
