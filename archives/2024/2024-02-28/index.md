@@ -36,6 +36,7 @@
 * [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
 * [2024-02-28, 15:29:51](https://news.ycombinator.com/item?id=39539198) - [The Tech Industry Doesn't Understand Consent – Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
 * [2024-02-28, 15:29:40](https://news.ycombinator.com/item?id=39539191) - [US Government Buying Legally Available Consumer Data on US Citizens](https://www.politico.com/news/magazine/2024/02/28/government-buying-your-data-00143742)
+* [2024-02-28, 15:19:59](https://news.ycombinator.com/item?id=39539056) - [River: A Reverse Proxy Built on Pingora](https://www.memorysafety.org/blog/introducing-river/)
 * [2024-02-28, 15:14:38](https://news.ycombinator.com/item?id=39538978) - [Call-Center Firm Sinks on Klarna Claims AI Is Doing Agents' Jobs](https://www.bloomberg.com/news/articles/2024-02-28/teleperformance-sinks-as-klarna-fuels-worries-over-impact-of-ai)
 * [2024-02-28, 15:08:50](https://news.ycombinator.com/item?id=39538903) - [Broadcom CEO pay award jumps 164% to $160.8M](https://www.theregister.com/2024/02/28/broadcom_ceo_pay_award_jumps/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
