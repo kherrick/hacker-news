@@ -2,7 +2,6 @@
 
 * [2024-02-28, 17:10:50](https://news.ycombinator.com/item?id=39540841) - [RAR 7.0 Released](https://www.rarlab.com/rarnew.htm)
 * [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
-* [2024-02-28, 16:39:24](https://news.ycombinator.com/item?id=39540371) - [Biden orders crackdown on selling Americans' personal data abroad](https://www.theverge.com/2024/2/28/24085572/biden-executive-order-personal-data-transfer-china-privacy-surveillance)
 * [2024-02-28, 16:23:49](https://news.ycombinator.com/item?id=39540078) - [Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
 * [2024-02-28, 16:12:01](https://news.ycombinator.com/item?id=39539865) - [Man in remission from blood cancer and HIV after remarkable treatment](https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
@@ -20,6 +19,7 @@
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC Broadband Standards Should Consider Latency](https://broadbandbreakfast.com/untitled-12/)
 * [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 * [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
+* [2024-02-27, 21:18:24](https://news.ycombinator.com/item?id=39530113) - [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
 * [2024-02-27, 21:02:22](https://news.ycombinator.com/item?id=39529895) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 11:27:33](https://news.ycombinator.com/item?id=39522801) - [One of world’s smallest fish found to make sound as loud as a gunshot](https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum)
