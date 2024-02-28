@@ -4,7 +4,7 @@
 * [2024-02-28, 07:23:46](https://news.ycombinator.com/item?id=39535028) - [European summer weather linked to North Atlantic freshwater anomalies](https://wcd.copernicus.org/articles/5/109/2024/)
 * [2024-02-28, 06:51:35](https://news.ycombinator.com/item?id=39534856) - [Don't Mock Your Machine Learning Models in Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 * [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
-* [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
+* [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC Broadband Standards Should Consider Latency](https://broadbandbreakfast.com/untitled-12/)
 * [2024-02-28, 01:48:23](https://news.ycombinator.com/item?id=39532892) - [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
 * [2024-02-28, 01:31:47](https://news.ycombinator.com/item?id=39532754) - [Serverless Horrors](https://serverlesshorrors.com/)
 * [2024-02-28, 01:15:56](https://news.ycombinator.com/item?id=39532650) - [GoboLinux](https://www.gobolinux.org/)
