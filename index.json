@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-28, 22:24:24",
-      "https://news.ycombinator.com/item?id=39544252"
-    ],
-    [
-      "GitHub besieged by malicious repositories in ongoing attack",
-      "https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 21:59:27",
       "https://news.ycombinator.com/item?id=39544012"
     ],
@@ -297,6 +287,16 @@
     [
       "One of world’s smallest fish found to make sound as loud as a gunshot",
       "https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 22:40:44",
+      "https://news.ycombinator.com/item?id=39517635"
+    ],
+    [
+      "MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue",
+      "https://www.mdpi.com/2079-9292/13/5/854"
     ]
   ]
 ]
