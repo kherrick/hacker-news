@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=39534856"
     ],
     [
-      "Don't Mock Your Machine Learning Models in Unit Tests",
+      "Don't Mock Machine Learning Models In Unit Tests",
       "https://eugeneyan.com/writing/unit-testing-ml/"
     ]
   ],
@@ -141,22 +141,22 @@
   ],
   [
     [
-      "2024-02-27, 21:02:22",
-      "https://news.ycombinator.com/item?id=39529895"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)",
-      "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 20:53:39",
       "https://news.ycombinator.com/item?id=39529775"
     ],
     [
       "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
       "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 19:42:21",
+      "https://news.ycombinator.com/item?id=39528726"
+    ],
+    [
+      "SuperTux",
+      "https://github.com/SuperTux/supertux"
     ]
   ],
   [
