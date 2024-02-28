@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-28, 14:00:38](https://news.ycombinator.com/item?id=39537995) - [Qualcomm has open sourced more than 80 AI models](https://huggingface.co/qualcomm)
+* [2024-02-28, 14:00:38](https://news.ycombinator.com/item?id=39537995) - [More than 80 AI models from Qualcomm](https://huggingface.co/qualcomm)
 * [2024-02-28, 13:39:37](https://news.ycombinator.com/item?id=39537735) - [Rewrite the VP9 codec library in Rust](https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/)
+* [2024-02-28, 13:26:54](https://news.ycombinator.com/item?id=39537570) - [VATSIM: The International Online Aviation Network](https://vatsim.net/)
 * [2024-02-28, 13:24:37](https://news.ycombinator.com/item?id=39537543) - [Why I use Firefox](https://xn--ime-zza.eu/3)
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
 * [2024-02-28, 13:05:42](https://news.ycombinator.com/item?id=39537327) - [The leap year is February 29, not December 32 due to a Roman calendar quirk](https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433)
@@ -12,7 +13,6 @@
 * [2024-02-28, 09:56:16](https://news.ycombinator.com/item?id=39535969) - [Pingora: build fast, reliable and programmable networked systems](https://github.com/cloudflare/pingora)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 * [2024-02-28, 07:35:22](https://news.ycombinator.com/item?id=39535106) - [TrenchBroom: A cross platform level editor for Quake-engine based games](https://trenchbroom.github.io/)
-* [2024-02-28, 06:51:35](https://news.ycombinator.com/item?id=39534856) - [Don't mock machine learning models in unit tests](https://eugeneyan.com/writing/unit-testing-ml/)
 * [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC Broadband Standards Should Consider Latency](https://broadbandbreakfast.com/untitled-12/)
 * [2024-02-28, 01:15:56](https://news.ycombinator.com/item?id=39532650) - [GoboLinux](https://www.gobolinux.org/)
