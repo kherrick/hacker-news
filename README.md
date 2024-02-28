@@ -17,6 +17,7 @@
 * [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Varda Capsule Reentry – Five Minutes from LEO to Earth [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
 * [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
+* [2024-02-28, 14:40:23](https://news.ycombinator.com/item?id=39538526) - [Intel puts 1nm process (10A) on the roadmap for 2027](https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots)
 * [2024-02-28, 14:31:55](https://news.ycombinator.com/item?id=39538425) - ['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
 * [2024-02-28, 13:44:57](https://news.ycombinator.com/item?id=39537794) - [Show HN: SQL workbench in the browser](https://sql-workbench.com)
 * [2024-02-28, 13:31:19](https://news.ycombinator.com/item?id=39537608) - [Let Everybody Sing (2016)](https://bittersoutherner.com/sacred-harp-let-everybody-sing)
@@ -28,7 +29,6 @@
 * [2024-02-27, 18:22:49](https://news.ycombinator.com/item?id=39527528) - [Solar storms, ice cores and nuns' teeth: the new science of history](https://www.theguardian.com/science/2024/feb/20/solar-storms-ice-cores-and-nuns-teeth-inside-the-new-science-of-history)
 * [2024-02-27, 12:22:24](https://news.ycombinator.com/item?id=39523190) - [Keeping an ice cream factory cool](https://spectrum.ieee.org/patryk-borkowski-unilever-profiile)
 * [2024-02-27, 11:27:33](https://news.ycombinator.com/item?id=39522801) - [One of world’s smallest fish found to make sound as loud as a gunshot](https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum)
-* [2024-02-27, 08:30:17](https://news.ycombinator.com/item?id=39521568) - [Universal domain types](https://mmapped.blog/posts/25-domain-types.html)
 * [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
 
 ## [Archives](archives/index.md)
