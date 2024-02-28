@@ -2,7 +2,6 @@
 
 * [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring an extrovert hacker](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
 * [2024-02-28, 17:56:47](https://news.ycombinator.com/item?id=39541452) - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
-* [2024-02-28, 17:40:06](https://news.ycombinator.com/item?id=39541230) - [Epic Games hit by 189GB hack, including login and payment info](https://www.rockpapershotgun.com/epic-games-reportedly-hit-by-200gb-ransomware-attack-including-login-and-payment-info)
 * [2024-02-28, 17:14:17](https://news.ycombinator.com/item?id=39540886) - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 * [2024-02-28, 17:01:55](https://news.ycombinator.com/item?id=39540738) - [How The Pentagon Learned to Use Targeted Ads to Find Its Targets](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
 * [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
@@ -29,6 +28,7 @@
 * [2024-02-27, 10:37:30](https://news.ycombinator.com/item?id=39522464) - [Micron Kicks Off Production of HBM3E Memory](https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory)
 * [2024-02-27, 10:06:05](https://news.ycombinator.com/item?id=39522268) - [Montage Fallacy](https://herbertlui.net/montage-fallacy/)
 * [2024-02-27, 08:30:17](https://news.ycombinator.com/item?id=39521568) - [Universal Domain Types](https://mmapped.blog/posts/25-domain-types.html)
+* [2024-02-26, 23:52:07](https://news.ycombinator.com/item?id=39518329) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
 * [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
 
 ## [Archives](archives/index.md)
