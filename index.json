@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-02-28, 05:29:33",
-      "https://news.ycombinator.com/item?id=39534362"
-    ],
-    [
-      "Blind, Alone, and Confused for 24 Hours Challenge (2020)",
-      "https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 03:57:47",
       "https://news.ycombinator.com/item?id=39533800"
     ],
@@ -297,6 +287,16 @@
     [
       "Why Python's Integer Division Floors (2010)",
       "http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 22:40:44",
+      "https://news.ycombinator.com/item?id=39517635"
+    ],
+    [
+      "MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue",
+      "https://www.mdpi.com/2079-9292/13/5/854"
     ]
   ]
 ]
