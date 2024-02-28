@@ -11,6 +11,7 @@
 * [2024-02-27, 22:34:34](https://news.ycombinator.com/item?id=39531101) - [Dealing with surprising human emotions: desk moves (2017)](https://larahogan.me/blog/desk-moves/)
 * [2024-02-27, 21:56:42](https://news.ycombinator.com/item?id=39530648) - [Why the Future of Cloud Deployments Is Unikernels](https://kraft.cloud/blog/2023-07-22-unikraft-future-cloud-deployments/)
 * [2024-02-27, 21:46:41](https://news.ycombinator.com/item?id=39530487) - [U.S. Launches Antitrust Investigation of UnitedHealth](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
+* [2024-02-27, 21:37:04](https://news.ycombinator.com/item?id=39530332) - [A Look at Nix and Guix](https://lwn.net/SubscriberLink/962788/f0745ec735f074b0/)
 * [2024-02-27, 21:26:50](https://news.ycombinator.com/item?id=39530215) - [Ask HN: Has Apple lost it's way?](https://news.ycombinator.com/item?id=39530215)
 * [2024-02-27, 21:25:50](https://news.ycombinator.com/item?id=39530203) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-27, 21:22:09](https://news.ycombinator.com/item?id=39530154) - [Apple pulls the plug on trying to create its own electric car after a decade](https://fortune.com/2024/02/27/apple-electric-car-cancel-2000-workers-ai/)
