@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-28, 20:10:36](https://news.ycombinator.com/item?id=39542881) - [Bumble Laying Off 37%](https://www.cnbc.com/2024/02/27/bumble-layoffs-350-employees-or-about-37percent-of-workforce.html)
 * [2024-02-28, 19:40:08](https://news.ycombinator.com/item?id=39542601) - [Why Is Panera Exempted from California's New Minimum Wage Law?](https://reason.com/2024/02/28/why-is-panera-exempted-from-californias-new-minimum-wage-law/)
 * [2024-02-28, 18:51:48](https://news.ycombinator.com/item?id=39542128) - [Julius Caesar's Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 * [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
@@ -23,6 +22,7 @@
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 * [2024-02-28, 02:13:26](https://news.ycombinator.com/item?id=39533075) - [A lot of toast, with a side-order of roast (2002) [pdf]](https://www2.math.upenn.edu/~wilf/website/dek.pdf)
+* [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 * [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
 * [2024-02-27, 18:29:48](https://news.ycombinator.com/item?id=39527639) - [Measuring the Shape of the Earth](https://www.historytoday.com/archive/great-debates/measuring-shape-earth)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
