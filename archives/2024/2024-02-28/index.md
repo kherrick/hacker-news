@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 10:46:56](https://news.ycombinator.com/item?id=39536370) - [Manuals](https://xkcd.com/1343/)
 * [2024-02-28, 09:56:24](https://news.ycombinator.com/item?id=39535970) - [Learn to Read Korean in 15 Minutes](https://www.ryanestrada.com/learntoreadkoreanin15minutes/)
 * [2024-02-28, 09:56:16](https://news.ycombinator.com/item?id=39535969) - [Pingora: HTTP Server and Proxy Library, in Rust, by Cloudflare, Released](https://github.com/cloudflare/pingora)
 * [2024-02-28, 08:04:04](https://news.ycombinator.com/item?id=39535283) - [Mistral: The 9-Month-Old AI Startup Challenging Silicon Valley's Giants](https://www.wsj.com/tech/ai/the-9-month-old-ai-startup-challenging-silicon-valleys-giants-ee2e4c48)
