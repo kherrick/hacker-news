@@ -19,7 +19,6 @@
 * [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
 * [2024-02-28, 10:39:52](https://news.ycombinator.com/item?id=39536315) - [YouTube video embedding harm reduction](https://dustri.org/b/youtube-video-embedding-harm-reduction.html)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
-* [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC Broadband Standards Should Consider Latency](https://broadbandbreakfast.com/untitled-12/)
 * [2024-02-28, 01:15:56](https://news.ycombinator.com/item?id=39532650) - [GoboLinux](https://www.gobolinux.org/)
 * [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
@@ -30,6 +29,7 @@
 * [2024-02-27, 10:06:05](https://news.ycombinator.com/item?id=39522268) - [Montage Fallacy](https://herbertlui.net/montage-fallacy/)
 * [2024-02-27, 08:30:17](https://news.ycombinator.com/item?id=39521568) - [Universal Domain Types](https://mmapped.blog/posts/25-domain-types.html)
 * [2024-02-26, 23:52:07](https://news.ycombinator.com/item?id=39518329) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
+* [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
 
 ## [Archives](archives/index.md)
 

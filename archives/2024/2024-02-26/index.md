@@ -9,6 +9,7 @@
 * [2024-02-26, 23:33:55](https://news.ycombinator.com/item?id=39518202) - [Segmenting Comic Books Using SAM (Segment-Anything)](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 * [2024-02-26, 23:29:57](https://news.ycombinator.com/item?id=39518161) - [Cactus – A Modern Diablo II Version Switcher, Character Isolator, & Mod Manager](https://github.com/fearedbliss/Cactus)
 * [2024-02-26, 22:50:50](https://news.ycombinator.com/item?id=39517760) - [Wax: The Word Processor for the Web](https://waxjs.net/)
+* [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
 * [2024-02-26, 22:38:07](https://news.ycombinator.com/item?id=39517608) - [Litestar – powerful, flexible, and highly performant Python ASGI framework](https://litestar.dev/)
 * [2024-02-26, 22:35:09](https://news.ycombinator.com/item?id=39517573) - [Herbgrind analyzes binaries to find inaccurate floating point expressions](https://herbgrind.ucsd.edu/)
 * [2024-02-26, 22:23:59](https://news.ycombinator.com/item?id=39517455) - [Ask HN: Why do recommender systems not seem good?](https://news.ycombinator.com/item?id=39517455)
