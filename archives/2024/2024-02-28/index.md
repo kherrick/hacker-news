@@ -34,6 +34,7 @@
 * [2024-02-28, 17:14:17](https://news.ycombinator.com/item?id=39540886) - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 * [2024-02-28, 17:11:36](https://news.ycombinator.com/item?id=39540851) - [The $25B Kroger-Albertsons Merger Is Going to Fail](https://www.thebignewsletter.com/p/the-25b-kroger-albertsons-merger)
 * [2024-02-28, 17:10:50](https://news.ycombinator.com/item?id=39540841) - [RAR 7.0 Released](https://www.rarlab.com/rarnew.htm)
+* [2024-02-28, 17:07:08](https://news.ycombinator.com/item?id=39540807) - [Globe Explorer](https://explorer.globe.engineer/)
 * [2024-02-28, 17:01:55](https://news.ycombinator.com/item?id=39540738) - [How The Pentagon Learned to Use Targeted Ads to Find Its Targets](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
 * [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
 * [2024-02-28, 16:39:24](https://news.ycombinator.com/item?id=39540371) - [Biden orders crackdown on selling Americans' personal data abroad](https://www.theverge.com/2024/2/28/24085572/biden-executive-order-personal-data-transfer-china-privacy-surveillance)
