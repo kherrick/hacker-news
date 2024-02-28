@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 23:21:42](https://news.ycombinator.com/item?id=39531600) - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 * [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
 * [2024-02-27, 23:06:02](https://news.ycombinator.com/item?id=39531441) - [Electric cars produce twice as much CO₂ as trains, says rail group data](https://www.theguardian.com/business/2024/feb/27/train-travel-generates-less-carbon-than-battery-ev-says-rail-group-data)
 * [2024-02-27, 22:57:22](https://news.ycombinator.com/item?id=39531348) - [US Used AI to Help Find Middle East Targets for Airstrikes](https://www.bloomberg.com/news/articles/2024-02-26/us-says-it-used-ai-to-help-find-targets-it-hit-in-iraq-syria-and-yemen)
