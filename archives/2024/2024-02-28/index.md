@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 20:21:13](https://news.ycombinator.com/item?id=39542991) - [Sen. Wyden Exposes Data Brokers Selling Location Data to Anti-Abortion Groups](https://www.eff.org/deeplinks/2024/02/sen-wyden-exposes-data-brokers-selling-location-data-anti-abortion-groups-target)
+* [2024-02-28, 19:46:51](https://news.ycombinator.com/item?id=39542630) - [The Apple Vision Pro Is Unrepairable? [video]](https://www.youtube.com/watch?v=vZPzz0N-J38)
 * [2024-02-28, 19:37:27](https://news.ycombinator.com/item?id=39542567) - [90% of tattoo ink contains chemicals that can cause organ damage](https://pubs.acs.org/doi/10.1021/acs.analchem.3c05687#)
 * [2024-02-28, 19:23:13](https://news.ycombinator.com/item?id=39542440) - [United States White House Report on Memory Safe Programming [pdf]](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
 * [2024-02-28, 19:05:44](https://news.ycombinator.com/item?id=39542263) - [Why South Korean women aren't having babies](https://www.bbc.com/news/world-asia-68402139)
