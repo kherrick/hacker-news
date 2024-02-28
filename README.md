@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 12:42:36](https://news.ycombinator.com/item?id=39537104) - [46yr-old man claims to have a teen's body, wants to build nation of immortals](https://www.theatlantic.com/technology/archive/2024/02/bryan-johnson-dont-die-event/677535/)
 * [2024-02-28, 12:05:44](https://news.ycombinator.com/item?id=39536824) - [Europe probes Microsoft's €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
 * [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
 * [2024-02-28, 11:26:16](https://news.ycombinator.com/item?id=39536545) - [Klarna AI assistant handles two-thirds of customer service chats in first month](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/)
@@ -17,7 +18,6 @@
 * [2024-02-28, 00:40:00](https://news.ycombinator.com/item?id=39532367) - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 * [2024-02-27, 23:21:42](https://news.ycombinator.com/item?id=39531600) - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 * [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
-* [2024-02-27, 21:46:41](https://news.ycombinator.com/item?id=39530487) - [U.S. opens UnitedHealth antitrust probe](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
 * [2024-02-27, 21:18:24](https://news.ycombinator.com/item?id=39530113) - [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 11:16:52](https://news.ycombinator.com/item?id=39522734) - [Ask HN: Slow thinkers, how do you compensate for your lack of quick-wittedness?](https://news.ycombinator.com/item?id=39522734)
