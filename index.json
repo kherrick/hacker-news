@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-02-28, 10:46:56",
-      "https://news.ycombinator.com/item?id=39536370"
+      "2024-02-28, 12:05:44",
+      "https://news.ycombinator.com/item?id=39536824"
     ],
     [
-      "Manuals",
-      "https://xkcd.com/1343/"
+      "Europe probes Microsoft's €15M stake in AI upstart Mistral",
+      "https://www.theregister.com/2024/02/28/eu_microsoft_mistral/"
     ]
   ],
   [
     [
-      "2024-02-28, 09:56:24",
-      "https://news.ycombinator.com/item?id=39535970"
+      "2024-02-28, 11:44:11",
+      "https://news.ycombinator.com/item?id=39536645"
     ],
     [
-      "Learn to Read Korean in 15 Minutes",
-      "https://www.ryanestrada.com/learntoreadkoreanin15minutes/"
+      "Google pays publishers to test AI tool that scrapes sites to craft new content",
+      "https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "The Era of 1-bit LLMs: ternary parameters for cost-effective computing",
       "https://arxiv.org/abs/2402.17764"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 08:04:04",
-      "https://news.ycombinator.com/item?id=39535283"
-    ],
-    [
-      "Mistral: The 9-Month-Old AI Startup Challenging Silicon Valley's Giants",
-      "https://www.wsj.com/tech/ai/the-9-month-old-ai-startup-challenging-silicon-valleys-giants-ee2e4c48"
     ]
   ],
   [
@@ -101,6 +91,16 @@
   ],
   [
     [
+      "2024-02-28, 01:48:23",
+      "https://news.ycombinator.com/item?id=39532892"
+    ],
+    [
+      "Building Unorthodox Deep Learning GPU Machines",
+      "https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 01:31:47",
       "https://news.ycombinator.com/item?id=39532754"
     ],
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-02-27, 21:46:41",
+      "https://news.ycombinator.com/item?id=39530487"
+    ],
+    [
+      "U.S. opens UnitedHealth antitrust probe",
+      "https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2"
+    ]
+  ],
+  [
+    [
       "2024-02-27, 21:25:50",
       "https://news.ycombinator.com/item?id=39530203"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2024-02-27, 20:53:39",
-      "https://news.ycombinator.com/item?id=39529775"
+      "2024-02-27, 21:02:22",
+      "https://news.ycombinator.com/item?id=39529895"
     ],
     [
-      "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-      "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics"
+      "Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)",
+      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2024-02-27, 11:16:31",
-      "https://news.ycombinator.com/item?id=39522731"
-    ],
-    [
-      "Apple rejected Bing for wrong answers about Annie Lennox",
-      "https://www.theregister.com/2024/02/26/google_antitrust_defense_apple_bing/"
-    ]
-  ],
-  [
-    [
       "2024-02-27, 10:37:30",
       "https://news.ycombinator.com/item?id=39522464"
     ],
     [
-      "Micron Kicks Off Production of HBM3E Memory – AnandTech",
+      "Micron Kicks Off Production of HBM3E Memory",
       "https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 09:02:42",
-      "https://news.ycombinator.com/item?id=39521797"
-    ],
-    [
-      "The Bitter Lesson (2019)",
-      "http://www.incompleteideas.net/IncIdeas/BitterLesson.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Why Python's Integer Division Floors (2010)",
       "http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 20:35:45",
+      "https://news.ycombinator.com/item?id=39516465"
+    ],
+    [
+      "Image formation with multiple wavelengths – simulation [video]",
+      "https://www.youtube.com/watch?v=nEjNbrydLKU"
     ]
   ],
   [
