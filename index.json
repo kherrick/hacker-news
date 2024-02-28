@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-02-28, 17:14:17",
+      "https://news.ycombinator.com/item?id=39540886"
+    ],
+    [
+      "MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers",
+      "https://github.com/ZigEmbeddedGroup/microzig"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 17:11:36",
+      "https://news.ycombinator.com/item?id=39540851"
+    ],
+    [
+      "The $25B Kroger-Albertsons Merger Is Going to Fail",
+      "https://www.thebignewsletter.com/p/the-25b-kroger-albertsons-merger"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 17:10:50",
       "https://news.ycombinator.com/item?id=39540841"
     ],
     [
       "RAR 7.0 Released",
       "https://www.rarlab.com/rarnew.htm"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 17:01:55",
+      "https://news.ycombinator.com/item?id=39540738"
+    ],
+    [
+      "How The Pentagon Learned to Use Targeted Ads to Find Its Targets",
+      "https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/"
     ]
   ],
   [
@@ -37,6 +67,26 @@
     [
       "Man in remission from blood cancer and HIV after remarkable treatment",
       "https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 15:39:31",
+      "https://news.ycombinator.com/item?id=39539356"
+    ],
+    [
+      "Man convicted for trying to help undercover game wardens recover deer with drone",
+      "https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 15:33:56",
+      "https://news.ycombinator.com/item?id=39539252"
+    ],
+    [
+      "Pql, a pipelined query language that compiles to SQL (written in Go)",
+      "https://pql.dev/"
     ]
   ],
   [
@@ -121,32 +171,12 @@
   ],
   [
     [
-      "2024-02-28, 09:56:16",
-      "https://news.ycombinator.com/item?id=39535969"
-    ],
-    [
-      "Pingora: build fast, reliable and programmable networked systems",
-      "https://github.com/cloudflare/pingora"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 09:28:43",
       "https://news.ycombinator.com/item?id=39535800"
     ],
     [
       "The Era of 1-bit LLMs: ternary parameters for cost-effective computing",
       "https://arxiv.org/abs/2402.17764"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 07:35:22",
-      "https://news.ycombinator.com/item?id=39535106"
-    ],
-    [
-      "TrenchBroom: A cross platform level editor for Quake-engine based games",
-      "https://trenchbroom.github.io/"
     ]
   ],
   [
@@ -187,26 +217,6 @@
     [
       "Testcontainers",
       "https://testcontainers.com/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 21:18:24",
-      "https://news.ycombinator.com/item?id=39530113"
-    ],
-    [
-      "Does this 8088 code in the Leisure Suit Larry 2 game do anything?",
-      "https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 21:02:22",
-      "https://news.ycombinator.com/item?id=39529895"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)",
-      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue",
       "https://www.mdpi.com/2079-9292/13/5/854"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 16:08:45",
-      "https://news.ycombinator.com/item?id=39512912"
-    ],
-    [
-      "Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old",
-      "https://speakz.ai"
     ]
   ]
 ]
