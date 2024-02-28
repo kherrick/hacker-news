@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
-* [2024-02-28, 14:47:49](https://news.ycombinator.com/item?id=39538618) - [Leaving Everything Behind For Elixir [Theo – t3․gg] [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
-* [2024-02-28, 14:46:44](https://news.ycombinator.com/item?id=39538601) - [I'm Funded](https://roe.dev/blog/funding)
+* [2024-02-28, 14:47:49](https://news.ycombinator.com/item?id=39538618) - [Leaving Everything Behind For Elixir [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
+* [2024-02-28, 14:46:44](https://news.ycombinator.com/item?id=39538601) - [How I'm funded](https://roe.dev/blog/funding)
 * [2024-02-28, 14:42:15](https://news.ycombinator.com/item?id=39538550) - [Wear OS \"Hybrid\" design has two OSes, two CPUs, \"100 hour\" battery life](https://arstechnica.com/gadgets/2024/02/wear-os-hybrid-design-has-two-oses-two-cpus-100-hour-battery-life/)
 * [2024-02-28, 14:40:49](https://news.ycombinator.com/item?id=39538533) - [Wendy's will experiment with dynamic surge pricing for food in 2025](https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/)
 * [2024-02-28, 14:40:23](https://news.ycombinator.com/item?id=39538526) - [Intel puts 1nm process (10A) on the roadmap for 2027](https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots)
