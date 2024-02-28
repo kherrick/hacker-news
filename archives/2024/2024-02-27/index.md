@@ -77,6 +77,7 @@
 * [2024-02-27, 12:00:14](https://news.ycombinator.com/item?id=39523023) - [Promoted.ai (YC W21) Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
 * [2024-02-27, 11:47:11](https://news.ycombinator.com/item?id=39522926) - [AI PR adds auto generated comments to whole Spring Boot Project](https://github.com/spring-projects/spring-boot/pull/39754/)
 * [2024-02-27, 11:44:31](https://news.ycombinator.com/item?id=39522908) - [Solving Prompt Injection via Backtranslation](https://arxiv.org/abs/2402.16459)
+* [2024-02-27, 11:27:33](https://news.ycombinator.com/item?id=39522801) - [One of world’s smallest fish found to make sound as loud as a gunshot](https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum)
 * [2024-02-27, 11:27:17](https://news.ycombinator.com/item?id=39522798) - [Rainwater everywhere on the planet is unsafe to drink due to chemicals (2022)](https://phys.org/news/2022-08-rainwater-unsafe-due-chemicals.html)
 * [2024-02-27, 11:23:17](https://news.ycombinator.com/item?id=39522770) - [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
 * [2024-02-27, 11:16:52](https://news.ycombinator.com/item?id=39522734) - [Ask HN: Slow thinkers, how do you compensate for your lack of quick-wittedness?](https://news.ycombinator.com/item?id=39522734)
