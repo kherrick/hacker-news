@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 08:04:04](https://news.ycombinator.com/item?id=39535283) - [Mistral: The 9-Month-Old AI Startup Challenging Silicon Valley's Giants](https://www.wsj.com/tech/ai/the-9-month-old-ai-startup-challenging-silicon-valleys-giants-ee2e4c48)
 * [2024-02-28, 07:23:46](https://news.ycombinator.com/item?id=39535028) - [European summer weather linked to North Atlantic freshwater anomalies](https://wcd.copernicus.org/articles/5/109/2024/)
 * [2024-02-28, 06:51:35](https://news.ycombinator.com/item?id=39534856) - [Don't Mock Your Machine Learning Models in Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 * [2024-02-28, 06:06:11](https://news.ycombinator.com/item?id=39534608) - [Google CEO calls Gemini completely unacceptable, vows to make structural changes](https://www.semafor.com/article/02/27/2024/google-ceo-sundar-pichai-calls-ai-tools-responses-completely-unacceptable)

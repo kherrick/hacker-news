@@ -94,6 +94,7 @@
 * [2024-02-27, 08:52:54](https://news.ycombinator.com/item?id=39521730) - [Google PageRank Adapted for Architecture Space Importance (2022)](https://www.chokoon.com/post/how-google-s-page-rank-algorithm-changes-architectural-layout)
 * [2024-02-27, 08:42:22](https://news.ycombinator.com/item?id=39521650) - [Berlin TYPE: The official type for the city of Berlin](https://www.hvdfonts.com/custom-cases/berlin-type)
 * [2024-02-27, 08:39:15](https://news.ycombinator.com/item?id=39521626) - [Submarine cables linking Africa-Asia-Europe severed](https://en.globes.co.il/en/article-houthis-hit-underwater-communications-cables-1001472165)
+* [2024-02-27, 08:30:17](https://news.ycombinator.com/item?id=39521568) - [Universal Domain Types](https://mmapped.blog/posts/25-domain-types.html)
 * [2024-02-27, 07:39:18](https://news.ycombinator.com/item?id=39521226) - [Mistral Le Chat](https://mistral.ai/fr/news/le-chat-mistral/)
 * [2024-02-27, 07:01:12](https://news.ycombinator.com/item?id=39520960) - [Bemlo (YC W22) Is Hiring React devs to change how healthcare shifts are filled](https://www.ycombinator.com/companies/bemlo/jobs/6QWqjSn-senior-frontend-fullstack-developer-ts-node-react)
 * [2024-02-27, 06:33:20](https://news.ycombinator.com/item?id=39520797) - [On the importance to make games during the game engine's development](https://www.team-nutshell.dev/nutshellengine/articles/making-games-during-development.html)
