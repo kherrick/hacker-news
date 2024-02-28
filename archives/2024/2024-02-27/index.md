@@ -86,6 +86,7 @@
 * [2024-02-27, 10:39:11](https://news.ycombinator.com/item?id=39522475) - [Nombrilliant, – On Being Middle Aged](https://wingolog.org/archives/2024/01/18/nombrilliant-actually)
 * [2024-02-27, 10:37:30](https://news.ycombinator.com/item?id=39522464) - [Micron Kicks Off Production of HBM3E Memory – AnandTech](https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory)
 * [2024-02-27, 10:16:18](https://news.ycombinator.com/item?id=39522348) - [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
+* [2024-02-27, 10:06:05](https://news.ycombinator.com/item?id=39522268) - [Montage Fallacy](https://herbertlui.net/montage-fallacy/)
 * [2024-02-27, 10:02:44](https://news.ycombinator.com/item?id=39522249) - [Why time seems to pass faster as we age](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/)
 * [2024-02-27, 09:49:27](https://news.ycombinator.com/item?id=39522144) - [Google has another 'woke' problem with Gemini and it's going to be hard to fix](https://www.businessinsider.com/google-gemini-woke-images-ai-chatbot-criticism-controversy-2024-2)
 * [2024-02-27, 09:33:21](https://news.ycombinator.com/item?id=39522031) - [React Labs: What We've Been Working On – February 2024 – React Compiler](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
