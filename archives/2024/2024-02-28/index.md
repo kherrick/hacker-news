@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 21:19:48](https://news.ycombinator.com/item?id=39543570) - [Snowflake says Frank Slootman is retiring as CEO; stock plunges 20%](https://www.cnbc.com/2024/02/28/snowflake-says-frank-slootman-is-retiring-as-ceo-stock-plunges-20percent.html)
 * [2024-02-28, 20:53:59](https://news.ycombinator.com/item?id=39543291) - [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
 * [2024-02-28, 20:53:01](https://news.ycombinator.com/item?id=39543281) - [Apple Orders 'Neuromancer' Series](https://variety.com/2024/tv/news/apple-neurmancer-series-william-gibson-1235925640/)
+* [2024-02-28, 20:52:32](https://news.ycombinator.com/item?id=39543275) - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
 * [2024-02-28, 20:46:29](https://news.ycombinator.com/item?id=39543232) - [How the Media Industry Keeps Losing the Future](https://www.nytimes.com/2024/02/28/technology/news-media-industry-dying.html)
 * [2024-02-28, 20:36:35](https://news.ycombinator.com/item?id=39543152) - [AI Terms Explained](https://glossarytech.com/terms/artificial-intelligence-ai)
 * [2024-02-28, 20:21:13](https://news.ycombinator.com/item?id=39542991) - [Sen. Wyden Exposes Data Brokers Selling Location Data to Anti-Abortion Groups](https://www.eff.org/deeplinks/2024/02/sen-wyden-exposes-data-brokers-selling-location-data-anti-abortion-groups-target)
