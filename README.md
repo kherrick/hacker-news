@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-28, 21:19:48](https://news.ycombinator.com/item?id=39543570) - [Snowflake says Frank Slootman is retiring as CEO; stock plunges 20%](https://www.cnbc.com/2024/02/28/snowflake-says-frank-slootman-is-retiring-as-ceo-stock-plunges-20percent.html)
 * [2024-02-28, 20:53:59](https://news.ycombinator.com/item?id=39543291) - [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
 * [2024-02-28, 20:53:01](https://news.ycombinator.com/item?id=39543281) - [Apple Orders 'Neuromancer' Series](https://variety.com/2024/tv/news/apple-neurmancer-series-william-gibson-1235925640/)
 * [2024-02-28, 20:52:32](https://news.ycombinator.com/item?id=39543275) - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
@@ -24,6 +23,7 @@
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 * [2024-02-28, 02:13:26](https://news.ycombinator.com/item?id=39533075) - [A lot of toast, with a side-order of roast (2002) [pdf]](https://www2.math.upenn.edu/~wilf/website/dek.pdf)
+* [2024-02-27, 23:15:57](https://news.ycombinator.com/item?id=39531536) - [Testcontainers](https://testcontainers.com/)
 * [2024-02-27, 18:29:48](https://news.ycombinator.com/item?id=39527639) - [Measuring the Shape of the Earth](https://www.historytoday.com/archive/great-debates/measuring-shape-earth)
 * [2024-02-27, 18:22:49](https://news.ycombinator.com/item?id=39527528) - [Solar storms, ice cores and nuns' teeth: the new science of history](https://www.theguardian.com/science/2024/feb/20/solar-storms-ice-cores-and-nuns-teeth-inside-the-new-science-of-history)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
