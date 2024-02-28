@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39534856"
     ],
     [
-      "Don't Mock Machine Learning Models In Unit Tests",
+      "Don't mock machine learning models in unit tests",
       "https://eugeneyan.com/writing/unit-testing-ml/"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "New FCC Broadband Standards Should Consider Latency",
       "https://broadbandbreakfast.com/untitled-12/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 01:31:47",
-      "https://news.ycombinator.com/item?id=39532754"
-    ],
-    [
-      "Serverless Horrors",
-      "https://serverlesshorrors.com/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Testcontainers",
       "https://testcontainers.com/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 21:18:24",
+      "https://news.ycombinator.com/item?id=39530113"
+    ],
+    [
+      "Does this 8088 code in the Leisure Suit Larry 2 game do anything?",
+      "https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything"
     ]
   ],
   [
