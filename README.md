@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-28, 20:21:13](https://news.ycombinator.com/item?id=39542991) - [Sen. Wyden Exposes Data Brokers Selling Location Data to Anti-Abortion Groups](https://www.eff.org/deeplinks/2024/02/sen-wyden-exposes-data-brokers-selling-location-data-anti-abortion-groups-target)
-* [2024-02-28, 19:46:51](https://news.ycombinator.com/item?id=39542630) - [The Apple Vision Pro Is Unrepairable? [video]](https://www.youtube.com/watch?v=vZPzz0N-J38)
+* [2024-02-28, 20:10:36](https://news.ycombinator.com/item?id=39542881) - [Bumble Laying Off 37%](https://www.cnbc.com/2024/02/27/bumble-layoffs-350-employees-or-about-37percent-of-workforce.html)
+* [2024-02-28, 19:40:08](https://news.ycombinator.com/item?id=39542601) - [Why Is Panera Exempted from California's New Minimum Wage Law?](https://reason.com/2024/02/28/why-is-panera-exempted-from-californias-new-minimum-wage-law/)
+* [2024-02-28, 18:51:48](https://news.ycombinator.com/item?id=39542128) - [Julius Caesar's Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 * [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
 * [2024-02-28, 17:56:47](https://news.ycombinator.com/item?id=39541452) - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
 * [2024-02-28, 17:17:10](https://news.ycombinator.com/item?id=39540919) - [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
@@ -14,7 +15,6 @@
 * [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
 * [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
-* [2024-02-28, 14:40:23](https://news.ycombinator.com/item?id=39538526) - [Intel puts 1nm process (10A) on the roadmap for 2027](https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots)
 * [2024-02-28, 14:31:55](https://news.ycombinator.com/item?id=39538425) - ['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
 * [2024-02-28, 13:44:57](https://news.ycombinator.com/item?id=39537794) - [Show HN: SQL Workbench in the Browser](https://sql-workbench.com)
 * [2024-02-28, 13:39:37](https://news.ycombinator.com/item?id=39537735) - [Rewrite the VP9 codec library in Rust](https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/)
