@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 19:05:44](https://news.ycombinator.com/item?id=39542263) - [Why South Korean women aren't having babies](https://www.bbc.com/news/world-asia-68402139)
+* [2024-02-28, 18:50:59](https://news.ycombinator.com/item?id=39542118) - [The Yak Shave](https://www.marginalia.nu/log/a_102_yak_shave/)
 * [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring an extrovert hacker](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
 * [2024-02-28, 17:56:47](https://news.ycombinator.com/item?id=39541452) - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
 * [2024-02-28, 17:44:13](https://news.ycombinator.com/item?id=39541285) - [Coinbase Shows Balance as 0](https://status.coinbase.com/incidents/qlpwww1zsm2y)
