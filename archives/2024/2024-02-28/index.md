@@ -8,6 +8,8 @@
 * [2024-02-28, 19:05:44](https://news.ycombinator.com/item?id=39542263) - [Why South Korean women aren't having babies](https://www.bbc.com/news/world-asia-68402139)
 * [2024-02-28, 19:02:39](https://news.ycombinator.com/item?id=39542231) - [Stripe Now Requires Physical Biz Address That Isn't a Ups Box](https://support.stripe.com/questions/2024-updates-to-us-verification-requirements-faqs)
 * [2024-02-28, 18:50:59](https://news.ycombinator.com/item?id=39542118) - [The Yak Shave](https://www.marginalia.nu/log/a_102_yak_shave/)
+* [2024-02-28, 18:44:12](https://news.ycombinator.com/item?id=39542039) - [OpenCollective Shutting Down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
+* [2024-02-28, 18:11:50](https://news.ycombinator.com/item?id=39541662) - [The Roguelike Rule of Thumb](https://synystron.substack.com/p/the-roguelike-rule-of-thumb)
 * [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring an extrovert hacker](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
 * [2024-02-28, 17:56:47](https://news.ycombinator.com/item?id=39541452) - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
 * [2024-02-28, 17:44:13](https://news.ycombinator.com/item?id=39541285) - [Coinbase Shows Balance as 0](https://status.coinbase.com/incidents/qlpwww1zsm2y)
