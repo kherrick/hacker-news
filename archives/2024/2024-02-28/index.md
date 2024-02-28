@@ -10,6 +10,7 @@
 * [2024-02-28, 20:52:32](https://news.ycombinator.com/item?id=39543275) - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
 * [2024-02-28, 20:46:29](https://news.ycombinator.com/item?id=39543232) - [How the Media Industry Keeps Losing the Future](https://www.nytimes.com/2024/02/28/technology/news-media-industry-dying.html)
 * [2024-02-28, 20:36:35](https://news.ycombinator.com/item?id=39543152) - [AI Terms Explained](https://glossarytech.com/terms/artificial-intelligence-ai)
+* [2024-02-28, 20:25:33](https://news.ycombinator.com/item?id=39543034) - [EU countries already hitting some of their sustainable energy targets for 2030](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297856)
 * [2024-02-28, 20:21:13](https://news.ycombinator.com/item?id=39542991) - [Sen. Wyden Exposes Data Brokers Selling Location Data to Anti-Abortion Groups](https://www.eff.org/deeplinks/2024/02/sen-wyden-exposes-data-brokers-selling-location-data-anti-abortion-groups-target)
 * [2024-02-28, 20:10:36](https://news.ycombinator.com/item?id=39542881) - [Bumble Laying Off 37%](https://www.cnbc.com/2024/02/27/bumble-layoffs-350-employees-or-about-37percent-of-workforce.html)
 * [2024-02-28, 19:46:51](https://news.ycombinator.com/item?id=39542630) - [The Apple Vision Pro Is Unrepairable? [video]](https://www.youtube.com/watch?v=vZPzz0N-J38)
