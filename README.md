@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 14:00:38](https://news.ycombinator.com/item?id=39537995) - [Qualcomm has open sourced more than 80 AI models](https://huggingface.co/qualcomm)
 * [2024-02-28, 13:39:37](https://news.ycombinator.com/item?id=39537735) - [Rewrite the VP9 codec library in Rust](https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/)
-* [2024-02-28, 13:24:37](https://news.ycombinator.com/item?id=39537543) - [I Use Firefox](https://xn--ime-zza.eu/3)
+* [2024-02-28, 13:24:37](https://news.ycombinator.com/item?id=39537543) - [Why I use Firefox](https://xn--ime-zza.eu/3)
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
 * [2024-02-28, 13:05:42](https://news.ycombinator.com/item?id=39537327) - [The leap year is February 29, not December 32 due to a Roman calendar quirk](https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433)
 * [2024-02-28, 12:05:44](https://news.ycombinator.com/item?id=39536824) - [Europe probes Microsoft's €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
-* [2024-02-28, 12:02:04](https://news.ycombinator.com/item?id=39536794) - [The Amazon has a 286% increase in fires in February](https://brazil.postsen.com/local/532131/The-Amazon-has-a-286--increase-in-fires-in-February.html)
+* [2024-02-28, 12:02:04](https://news.ycombinator.com/item?id=39536794) - [The Amazon forest has an almost 3x year-on-year increase in fires in February](https://brazil.postsen.com/local/532131/The-Amazon-has-a-286--increase-in-fires-in-February.html)
 * [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
 * [2024-02-28, 10:39:52](https://news.ycombinator.com/item?id=39536315) - [YouTube video embedding harm reduction](https://dustri.org/b/youtube-video-embedding-harm-reduction.html)
 * [2024-02-28, 09:56:16](https://news.ycombinator.com/item?id=39535969) - [Pingora: build fast, reliable and programmable networked systems](https://github.com/cloudflare/pingora)
@@ -28,7 +29,6 @@
 * [2024-02-26, 23:52:07](https://news.ycombinator.com/item?id=39518329) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
 * [2024-02-26, 18:34:03](https://news.ycombinator.com/item?id=39515087) - [Neanderthals' use of complex adhesives shows high cognitive abilities](https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html)
 * [2024-02-26, 16:08:45](https://news.ycombinator.com/item?id=39512912) - [Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old](https://speakz.ai)
-* [2024-02-26, 13:28:48](https://news.ycombinator.com/item?id=39511017) - [Quantum computers move closer to the assembly line](https://www.axios.com/2024/02/18/quantum-computers-engineering-manufacturing)
 * [2024-02-26, 12:55:30](https://news.ycombinator.com/item?id=39510752) - [Clouds vanish during a solar eclipse](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why)
 
 ## [Archives](archives/index.md)

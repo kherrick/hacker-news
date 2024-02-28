@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 14:00:38](https://news.ycombinator.com/item?id=39537995) - [Qualcomm has open sourced more than 80 AI models](https://huggingface.co/qualcomm)
 * [2024-02-28, 13:39:37](https://news.ycombinator.com/item?id=39537735) - [Rewrite the VP9 codec library in Rust](https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/)
 * [2024-02-28, 13:24:37](https://news.ycombinator.com/item?id=39537543) - [I Use Firefox](https://xn--ime-zza.eu/3)
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
