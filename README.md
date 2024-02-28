@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-28, 06:51:35](https://news.ycombinator.com/item?id=39534856) - [Don't Mock Your Machine Learning Models in Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 * [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 * [2024-02-28, 04:10:29](https://news.ycombinator.com/item?id=39533881) - [Tea.xyz causes a flood of spam pull requests to open source projects](https://www.web3isgoinggreat.com/?id=teaxyz-spam)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
@@ -20,7 +21,6 @@
 * [2024-02-27, 17:30:10](https://news.ycombinator.com/item?id=39526797) - [The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
 * [2024-02-27, 16:39:23](https://news.ycombinator.com/item?id=39526147) - [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
 * [2024-02-27, 16:32:49](https://news.ycombinator.com/item?id=39526057) - [Airfoil](https://ciechanow.ski/airfoil/)
-* [2024-02-27, 15:32:36](https://news.ycombinator.com/item?id=39525243) - [Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
 * [2024-02-27, 10:37:30](https://news.ycombinator.com/item?id=39522464) - [Micron Kicks Off Production of HBM3E Memory – AnandTech](https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory)
 * [2024-02-27, 06:30:33](https://news.ycombinator.com/item?id=39520782) - [The lumbar puncture that changed my life](https://www.legalnomads.com/lumbar-puncture/)
 * [2024-02-27, 01:05:29](https://news.ycombinator.com/item?id=39518803) - [Cormac McCarthy's Sideline: Freelance copy editor](https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor)
