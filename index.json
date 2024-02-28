@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=39537995"
     ],
     [
-      "Qualcomm has open sourced more than 80 AI models",
+      "More than 80 AI models from Qualcomm",
       "https://huggingface.co/qualcomm"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "Rewrite the VP9 codec library in Rust",
       "https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 13:26:54",
+      "https://news.ycombinator.com/item?id=39537570"
+    ],
+    [
+      "VATSIM: The International Online Aviation Network",
+      "https://vatsim.net/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "TrenchBroom: A cross platform level editor for Quake-engine based games",
       "https://trenchbroom.github.io/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 06:51:35",
-      "https://news.ycombinator.com/item?id=39534856"
-    ],
-    [
-      "Don't mock machine learning models in unit tests",
-      "https://eugeneyan.com/writing/unit-testing-ml/"
     ]
   ],
   [
