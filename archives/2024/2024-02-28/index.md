@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 17:10:50](https://news.ycombinator.com/item?id=39540841) - [RAR 7.0 Released](https://www.rarlab.com/rarnew.htm)
 * [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
+* [2024-02-28, 16:39:24](https://news.ycombinator.com/item?id=39540371) - [Biden orders crackdown on selling Americans' personal data abroad](https://www.theverge.com/2024/2/28/24085572/biden-executive-order-personal-data-transfer-china-privacy-surveillance)
 * [2024-02-28, 16:36:30](https://news.ycombinator.com/item?id=39540321) - [Apple cancels secretive electric car project in shift to focus on AI](https://www.ft.com/content/78bc9f62-8450-45c0-8c59-c5d87a122825)
 * [2024-02-28, 16:23:49](https://news.ycombinator.com/item?id=39540078) - [Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
 * [2024-02-28, 16:12:01](https://news.ycombinator.com/item?id=39539865) - [Man in remission from blood cancer and HIV after remarkable treatment](https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment)
