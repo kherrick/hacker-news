@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 23:32:05](https://news.ycombinator.com/item?id=39544865) - [Electric bikes give more exercise than pedal bikes](https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/)
 * [2024-02-28, 23:20:46](https://news.ycombinator.com/item?id=39544790) - [Speedy SD Express cards have gone nowhere for years, Samsung could change that](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)
 * [2024-02-28, 22:27:36](https://news.ycombinator.com/item?id=39544286) - [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement)
 * [2024-02-28, 22:24:24](https://news.ycombinator.com/item?id=39544252) - [GitHub besieged by malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/)

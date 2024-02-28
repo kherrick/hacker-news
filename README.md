@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-28, 23:20:46](https://news.ycombinator.com/item?id=39544790) - [Speedy SD Express cards have gone nowhere for years, Samsung could change that](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)
+* [2024-02-28, 23:32:05](https://news.ycombinator.com/item?id=39544865) - [Electric bikes give more exercise than pedal bikes](https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/)
 * [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 * [2024-02-28, 20:53:59](https://news.ycombinator.com/item?id=39543291) - [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
 * [2024-02-28, 20:52:32](https://news.ycombinator.com/item?id=39543275) - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
