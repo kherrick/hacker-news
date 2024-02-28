@@ -4,6 +4,7 @@
 * [2024-02-28, 07:23:46](https://news.ycombinator.com/item?id=39535028) - [European summer weather linked to North Atlantic freshwater anomalies](https://wcd.copernicus.org/articles/5/109/2024/)
 * [2024-02-28, 06:51:35](https://news.ycombinator.com/item?id=39534856) - [Don't Mock Machine Learning Models In Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 * [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
+* [2024-02-28, 04:10:29](https://news.ycombinator.com/item?id=39533881) - [Tea.xyz causes a flood of spam pull requests to open source projects](https://www.web3isgoinggreat.com/?id=teaxyz-spam)
 * [2024-02-28, 03:57:47](https://news.ycombinator.com/item?id=39533800) - [New FCC Broadband Standards Should Consider Latency](https://broadbandbreakfast.com/untitled-12/)
 * [2024-02-28, 01:48:23](https://news.ycombinator.com/item?id=39532892) - [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
 * [2024-02-28, 01:31:47](https://news.ycombinator.com/item?id=39532754) - [Serverless Horrors](https://serverlesshorrors.com/)
@@ -28,7 +29,6 @@
 * [2024-02-26, 20:35:45](https://news.ycombinator.com/item?id=39516465) - [Image formation with multiple wavelengths – simulation [video]](https://www.youtube.com/watch?v=nEjNbrydLKU)
 * [2024-02-26, 18:34:03](https://news.ycombinator.com/item?id=39515087) - [Neanderthals' use of complex adhesives shows high cognitive abilities](https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html)
 * [2024-02-26, 16:08:45](https://news.ycombinator.com/item?id=39512912) - [Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old](https://speakz.ai)
-* [2024-02-26, 15:16:22](https://news.ycombinator.com/item?id=39512188) - [Dracula's Biggest Mistake](https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/)
 * [2024-02-26, 12:55:30](https://news.ycombinator.com/item?id=39510752) - [Clouds vanish during a solar eclipse](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why)
 
 ## [Archives](archives/index.md)
