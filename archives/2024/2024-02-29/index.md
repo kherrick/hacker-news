@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
 * [2024-02-29, 05:10:31](https://news.ycombinator.com/item?id=39546580) - [TIGForums Independent Gaming and Gamedev Discussions](https://forums.tigsource.com/)
 * [2024-02-29, 04:40:45](https://news.ycombinator.com/item?id=39546445) - [Environmental risks of car tyre microplastics and other road pollution runoff](https://microplastics.springeropen.com/articles/10.1186/s43591-021-00008-w)
