@@ -2,6 +2,7 @@
 
 * [2024-02-29, 04:32:06](https://news.ycombinator.com/item?id=39546412) - [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411)
 * [2024-02-29, 04:11:13](https://news.ycombinator.com/item?id=39546333) - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
+* [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
 * [2024-02-29, 01:22:12](https://news.ycombinator.com/item?id=39545574) - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
 * [2024-02-29, 01:09:44](https://news.ycombinator.com/item?id=39545501) - [The Claro Programming Language](https://docs.clarolang.com/)
@@ -13,7 +14,6 @@
 * [2024-02-28, 20:03:56](https://news.ycombinator.com/item?id=39542804) - [An HTML Switch Control](https://webkit.org/blog/15054/an-html-switch-control/)
 * [2024-02-28, 18:51:48](https://news.ycombinator.com/item?id=39542128) - [Julius Caesar's Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 * [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
-* [2024-02-28, 17:56:47](https://news.ycombinator.com/item?id=39541452) - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
 * [2024-02-28, 17:17:10](https://news.ycombinator.com/item?id=39540919) - [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
 * [2024-02-28, 17:14:17](https://news.ycombinator.com/item?id=39540886) - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 * [2024-02-28, 17:07:08](https://news.ycombinator.com/item?id=39540807) - [Globe Explorer](https://explorer.globe.engineer/)

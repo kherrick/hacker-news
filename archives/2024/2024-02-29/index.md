@@ -9,6 +9,7 @@
 * [2024-02-29, 04:30:56](https://news.ycombinator.com/item?id=39546408) - [Zed Kills VSCode [video]](https://www.youtube.com/watch?v=Fk08oNi0j1Y)
 * [2024-02-29, 04:24:04](https://news.ycombinator.com/item?id=39546379) - [Your TV Is Too Good for You](https://www.theatlantic.com/technology/archive/2024/02/4k-tv-resolution-lie/677586/)
 * [2024-02-29, 04:11:13](https://news.ycombinator.com/item?id=39546333) - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
+* [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An Overseas Experience with Hypertext and Packet Switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 * [2024-02-29, 03:28:44](https://news.ycombinator.com/item?id=39546131) - [The food industry pays 'influencer' dietitians](https://www.washingtonpost.com/wellness/2023/09/13/dietitian-instagram-tiktok-paid-food-industry/)
