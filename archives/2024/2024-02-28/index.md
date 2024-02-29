@@ -37,6 +37,7 @@
 * [2024-02-28, 17:56:47](https://news.ycombinator.com/item?id=39541452) - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
 * [2024-02-28, 17:44:13](https://news.ycombinator.com/item?id=39541285) - [Coinbase Shows Balance as 0](https://status.coinbase.com/incidents/qlpwww1zsm2y)
 * [2024-02-28, 17:40:06](https://news.ycombinator.com/item?id=39541230) - [Epic Games hit by 189GB hack, including login and payment info](https://www.rockpapershotgun.com/epic-games-reportedly-hit-by-200gb-ransomware-attack-including-login-and-payment-info)
+* [2024-02-28, 17:29:19](https://news.ycombinator.com/item?id=39541084) - [Transcript of \"Attacks on Anonymity Systems: The Theory\" (2003)](https://github.com/Dicklesworthstone/sassaman_and_dingledine_on_remailers_at_blackhat_2003)
 * [2024-02-28, 17:17:10](https://news.ycombinator.com/item?id=39540919) - [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
 * [2024-02-28, 17:14:17](https://news.ycombinator.com/item?id=39540886) - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 * [2024-02-28, 17:11:36](https://news.ycombinator.com/item?id=39540851) - [The $25B Kroger-Albertsons Merger Is Going to Fail](https://www.thebignewsletter.com/p/the-25b-kroger-albertsons-merger)
