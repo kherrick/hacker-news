@@ -11,7 +11,7 @@
 * [2024-02-29, 09:32:14](https://news.ycombinator.com/item?id=39547820) - [Haskell Weekly – Issue 409](https://haskellweekly.news/issue/409.html)
 * [2024-02-29, 08:51:10](https://news.ycombinator.com/item?id=39547612) - [Bluesky is rolling out Hashtags](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
 * [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra](https://nicf.net/articles/curvature-of-polyhedra/)
-* [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
+* [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [Heinz’s sustainable ketchup cap](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
 * [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-29, 03:25:28](https://news.ycombinator.com/item?id=39546120) - [Starlink terminal revision 4: overview and tests](https://olegkutkov.me/2024/02/12/starlink-terminal-revision-4-overview-and-tests/)
 * [2024-02-29, 01:38:51](https://news.ycombinator.com/item?id=39545676) - [Over 100k Infected Repos Found on GitHub](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)
