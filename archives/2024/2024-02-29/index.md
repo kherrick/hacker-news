@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 14:39:32](https://news.ycombinator.com/item?id=39549858) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
 * [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
 * [2024-02-29, 13:17:16](https://news.ycombinator.com/item?id=39548884) - [Three companies own 19,000 rental houses in Atlanta, GA](https://news.gsu.edu/2024/02/26/researchers-find-three-companies-own-more-than-19000-rental-houses-in-metro-atlanta/)

@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
-* [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
+* [2024-02-29, 14:39:32](https://news.ycombinator.com/item?id=39549858) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 13:17:16](https://news.ycombinator.com/item?id=39548884) - [Three companies own 19,000 rental houses in Atlanta, GA](https://news.gsu.edu/2024/02/26/researchers-find-three-companies-own-more-than-19000-rental-houses-in-metro-atlanta/)
 * [2024-02-29, 12:31:09](https://news.ycombinator.com/item?id=39548517) - [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
 * [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
@@ -20,6 +19,7 @@
 * [2024-02-29, 01:09:44](https://news.ycombinator.com/item?id=39545501) - [The Claro Programming Language](https://docs.clarolang.com/)
 * [2024-02-28, 23:39:46](https://news.ycombinator.com/item?id=39544937) - [A Social History of Jell-O Salad (2023)](https://www.seriouseats.com/history-of-jell-o-salad)
 * [2024-02-28, 23:09:41](https://news.ycombinator.com/item?id=39544698) - [Optimize sgemm on RISC-V platform](https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444)
+* [2024-02-28, 17:10:09](https://news.ycombinator.com/item?id=39540833) - [Thermodynamics and Statistical Mechanics](https://nicf.net/articles/thermodynamics-statistical-mechanics/)
 * [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
 * [2024-02-28, 13:20:29](https://news.ycombinator.com/item?id=39537486) - [The Emmy Computer Algebra System](https://github.com/mentat-collective/emmy)
 * [2024-02-28, 11:04:36](https://news.ycombinator.com/item?id=39536437) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
