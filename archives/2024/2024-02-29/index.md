@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
 * [2024-02-29, 12:38:22](https://news.ycombinator.com/item?id=39548564) - [Google announced Genie AI can generate platform video games](https://mashable.com/article/google-genie-can-create-video-games-2d-platformers)
 * [2024-02-29, 12:31:09](https://news.ycombinator.com/item?id=39548517) - [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
 * [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
