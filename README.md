@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-29, 17:11:29](https://news.ycombinator.com/item?id=39552159) - [Trudeau government unveils national pharmacare bill](https://www.thestar.com/politics/federal/trudeau-government-unveils-national-pharmacare-bill/article_a7a7b298-d676-11ee-a58f-9be8d8d15760.html)
 * [2024-02-29, 16:24:52](https://news.ycombinator.com/item?id=39551457) - [Neurosurgeon pioneers Alzheimer's, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
 * [2024-02-29, 16:00:41](https://news.ycombinator.com/item?id=39551115) - [Cloudflare Makes Pingora Rust Framework Open-Source](https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source)
 * [2024-02-29, 15:57:44](https://news.ycombinator.com/item?id=39551064) - [Show HN: We Built the Fastest Spreadsheet](https://rowzero.io)
@@ -29,6 +28,7 @@
 * [2024-02-28, 11:04:36](https://news.ycombinator.com/item?id=39536437) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 * [2024-02-28, 07:07:16](https://news.ycombinator.com/item?id=39534937) - [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)
+* [2024-02-28, 06:19:38](https://news.ycombinator.com/item?id=39534675) - [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 * [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 
 ## [Archives](archives/index.md)
