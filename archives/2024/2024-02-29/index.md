@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 18:17:09](https://news.ycombinator.com/item?id=39552934) - [US spends billions on roads rather than public transport in 'climate time bomb'](https://www.theguardian.com/business/2024/feb/29/biden-spending-highways-public-transport-climate-crisis)
+* [2024-02-29, 18:12:22](https://news.ycombinator.com/item?id=39552882) - [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)
 * [2024-02-29, 17:36:44](https://news.ycombinator.com/item?id=39552446) - [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
 * [2024-02-29, 17:36:21](https://news.ycombinator.com/item?id=39552442) - [Malicious AI models on Hugging Face backdoor users' machines](https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/)
 * [2024-02-29, 17:29:40](https://news.ycombinator.com/item?id=39552367) - [Alright then keep your secrets](https://old.reddit.com/r/LocalLLaMA/comments/1b2wron/alright_then_keep_your_secrets/)
