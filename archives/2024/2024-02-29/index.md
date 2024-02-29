@@ -86,6 +86,7 @@
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An Overseas Experience with Hypertext and Packet Switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 * [2024-02-29, 03:28:44](https://news.ycombinator.com/item?id=39546131) - [The food industry pays 'influencer' dietitians](https://www.washingtonpost.com/wellness/2023/09/13/dietitian-instagram-tiktok-paid-food-industry/)
+* [2024-02-29, 03:28:29](https://news.ycombinator.com/item?id=39546129) - [Re: You can't be a good .NET developer (2016)](https://ayende.com/blog/174433/re-why-you-cant-be-a-good-net-developer)
 * [2024-02-29, 03:25:28](https://news.ycombinator.com/item?id=39546120) - [Starlink terminal revision 4: overview and tests](https://olegkutkov.me/2024/02/12/starlink-terminal-revision-4-overview-and-tests/)
 * [2024-02-29, 02:04:40](https://news.ycombinator.com/item?id=39545797) - [Winklevoss Twins' Startup Gemini Will Pay Burned Customers $1B](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion)
 * [2024-02-29, 01:38:51](https://news.ycombinator.com/item?id=39545676) - [Over 100k Infected Repos Found on GitHub](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)
