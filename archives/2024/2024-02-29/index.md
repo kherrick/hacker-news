@@ -28,6 +28,7 @@
 * [2024-02-29, 19:30:00](https://news.ycombinator.com/item?id=39553883) - [Google abandoned \"don't be evil\" – and Gemini is the result](https://www.natesilver.net/p/google-abandoned-dont-be-evil-and)
 * [2024-02-29, 19:21:48](https://news.ycombinator.com/item?id=39553801) - [Financial Systems Take a Holiday](https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/)
 * [2024-02-29, 19:20:35](https://news.ycombinator.com/item?id=39553787) - [Are We Wayland Yet?](https://arewewaylandyet.com/)
+* [2024-02-29, 19:18:39](https://news.ycombinator.com/item?id=39553755) - [Self-pay gas station pumps break across NZ as software can't handle Leap Day](https://arstechnica.com/gadgets/2024/02/leap-year-glitch-broke-self-pay-pumps-across-new-zealand-for-over-10-hours/)
 * [2024-02-29, 19:17:36](https://news.ycombinator.com/item?id=39553743) - [Money Bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
 * [2024-02-29, 19:10:35](https://news.ycombinator.com/item?id=39553658) - [Max Developer Edition Preview](https://www.modular.com/blog/announcing-max-developer-edition-preview)
 * [2024-02-29, 19:06:57](https://news.ycombinator.com/item?id=39553601) - [Learning to Be Managed](https://medium.com/@theholy7/learning-to-be-managed-630e31c52282)
