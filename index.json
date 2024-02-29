@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-29, 16:00:41",
+      "https://news.ycombinator.com/item?id=39551115"
+    ],
+    [
+      "Cloudflare Makes Pingora Rust Framework Open-Source",
+      "https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 15:57:44",
       "https://news.ycombinator.com/item?id=39551064"
     ],
@@ -21,22 +31,32 @@
   ],
   [
     [
+      "2024-02-29, 15:45:47",
+      "https://news.ycombinator.com/item?id=39550891"
+    ],
+    [
+      "Scientists get closer to solving chemical puzzle of the origin of life",
+      "https://www.washingtonpost.com/climate-environment/2024/02/29/life-earth-origin-chemistry/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 15:42:24",
+      "https://news.ycombinator.com/item?id=39550837"
+    ],
+    [
+      "Niklaus Wirth, software developer who saw power in simplicity, dies at 89",
+      "https://www.washingtonpost.com/obituaries/2024/02/28/niklaus-wirth-pascal-software-dies/"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 15:32:57",
       "https://news.ycombinator.com/item?id=39550689"
     ],
     [
       "Why a White House Plan to Fund Office-to-Housing Conversions Isn't Working",
       "https://www.bloomberg.com/news/features/2024-02-29/white-house-funds-to-convert-offices-to-housing-find-few-takers"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 15:29:48",
-      "https://news.ycombinator.com/item?id=39550645"
-    ],
-    [
-      "Memory Safe TLS Library Now Has AWS Crypto and FIPS",
-      "https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Rendering protein structures inside cells at the atomic level with Unreal Engine",
       "https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 14:11:59",
-      "https://news.ycombinator.com/item?id=39549486"
-    ],
-    [
-      "You've just inherited a legacy C++ codebase, now what?",
-      "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-02-29, 03:54:23",
+      "https://news.ycombinator.com/item?id=39546255"
+    ],
+    [
+      "Transparent Image Layer Diffusion Using Latent Transparency",
+      "https://arxiv.org/abs/2402.17113"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 03:34:10",
       "https://news.ycombinator.com/item?id=39546158"
     ],
@@ -147,26 +167,6 @@
     [
       "Starlink terminal revision 4: overview and tests",
       "https://olegkutkov.me/2024/02/12/starlink-terminal-revision-4-overview-and-tests/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 01:38:51",
-      "https://news.ycombinator.com/item?id=39545676"
-    ],
-    [
-      "Over 100k Infected Repos Found on GitHub",
-      "https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 01:22:12",
-      "https://news.ycombinator.com/item?id=39545574"
-    ],
-    [
-      "Talc – A fast and flexible allocator for no_std and WebAssembly",
-      "https://github.com/SFBdragon/talc"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-02-28, 17:14:17",
+      "https://news.ycombinator.com/item?id=39540886"
+    ],
+    [
+      "MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers",
+      "https://github.com/ZigEmbeddedGroup/microzig"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 17:10:09",
       "https://news.ycombinator.com/item?id=39540833"
     ],
@@ -247,16 +257,6 @@
     [
       "Common Mistakes in Modularisation",
       "https://two-wrongs.com/software-design-tree-and-program-families.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 10:55:48",
-      "https://news.ycombinator.com/item?id=39536396"
-    ],
-    [
-      "Learning Elm by porting a medium-sized web frontend from React (2019)",
-      "https://benhoyt.com/writings/learning-elm/"
     ]
   ],
   [
