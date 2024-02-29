@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 14:57:03](https://news.ycombinator.com/item?id=39550124) - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
 * [2024-02-29, 14:39:32](https://news.ycombinator.com/item?id=39549858) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
+* [2024-02-29, 14:38:09](https://news.ycombinator.com/item?id=39549838) - [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
+* [2024-02-29, 14:00:55](https://news.ycombinator.com/item?id=39549380) - [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
 * [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
 * [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
 * [2024-02-29, 13:17:16](https://news.ycombinator.com/item?id=39548884) - [Three companies own 19,000 rental houses in Atlanta, GA](https://news.gsu.edu/2024/02/26/researchers-find-three-companies-own-more-than-19000-rental-houses-in-metro-atlanta/)
@@ -13,6 +16,7 @@
 * [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
 * [2024-02-29, 12:04:17](https://news.ycombinator.com/item?id=39548300) - [Implementing RSA from Scratch in JavaScript](https://coderoasis.com/implementing-rsa-from-scratch-in-javascript/)
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
+* [2024-02-29, 11:29:33](https://news.ycombinator.com/item?id=39548076) - [Ask HN: Code Llama 70B on a dedicated server](https://news.ycombinator.com/item?id=39548076)
 * [2024-02-29, 11:28:23](https://news.ycombinator.com/item?id=39548074) - [Doom Running on a Toothbrush](https://twitter.com/atc1441/status/1762974846487531834)
 * [2024-02-29, 11:14:56](https://news.ycombinator.com/item?id=39548058) - [Ask HN: Why is HN so often down?](https://news.ycombinator.com/item?id=39548058)
 * [2024-02-29, 10:33:52](https://news.ycombinator.com/item?id=39547976) - [Amazon lobbyists to be barred from European parliament](https://www.techradar.com/pro/amazon-lobbyists-to-be-barred-from-european-parliament)
