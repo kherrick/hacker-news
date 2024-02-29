@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-29, 21:03:47](https://news.ycombinator.com/item?id=39555055) - [Boiling Water May Help Remove Up to 90% of Microplastics](https://www.healthline.com/health-news/boiling-water-may-help-remove-up-to-90-of-microplastics)
-* [2024-02-29, 20:58:19](https://news.ycombinator.com/item?id=39554978) - [Norwegian Consumer Council files complaint against Meta for GDPR violations](https://www.forbrukerradet.no/side/the-norwegian-consumer-council-files-legal-complaint-against-meta-for-numerous-violations-of-the-gdpr/)
 * [2024-02-29, 20:55:55](https://news.ycombinator.com/item?id=39554940) - [ICANN Is Not the Internet Content Police (2015)](https://www.icann.org/en/blogs/details/icann-is-not-the-internet-content-police-12-6-2015-en)
 * [2024-02-29, 20:50:50](https://news.ycombinator.com/item?id=39554874) - [Defcon: Meta's system for preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
+* [2024-02-29, 20:22:43](https://news.ycombinator.com/item?id=39554539) - [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
 * [2024-02-29, 19:38:07](https://news.ycombinator.com/item?id=39553981) - [A mechanical keyboard with programmable knobs and full color screen panel](https://knob.design/)
 * [2024-02-29, 19:36:44](https://news.ycombinator.com/item?id=39553967) - [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
 * [2024-02-29, 19:21:48](https://news.ycombinator.com/item?id=39553801) - [Financial systems take a holiday](https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/)
