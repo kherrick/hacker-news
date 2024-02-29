@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 23:39:46](https://news.ycombinator.com/item?id=39544937) - [A Social History of Jell-O Salad (2023)](https://www.seriouseats.com/history-of-jell-o-salad)
 * [2024-02-28, 23:32:05](https://news.ycombinator.com/item?id=39544865) - [Electric bikes give more exercise than pedal bikes](https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/)
 * [2024-02-28, 23:20:46](https://news.ycombinator.com/item?id=39544790) - [Speedy SD Express cards have gone nowhere for years, Samsung could change that](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)
 * [2024-02-28, 23:18:04](https://news.ycombinator.com/item?id=39544769) - [The financial value of open source software](https://lemire.me/blog/2014/04/14/the-financial-value-of-open-source-software/)
@@ -84,6 +85,7 @@
 * [2024-02-28, 11:26:16](https://news.ycombinator.com/item?id=39536545) - [Klarna AI assistant handles two-thirds of customer service chats in first month](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/)
 * [2024-02-28, 11:12:57](https://news.ycombinator.com/item?id=39536490) - [The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits](https://synthical.com/article/56b9c006-6221-43a1-9678-79b1f1d9c7bc)
 * [2024-02-28, 11:04:36](https://news.ycombinator.com/item?id=39536437) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
+* [2024-02-28, 10:55:48](https://news.ycombinator.com/item?id=39536396) - [Learning Elm by porting a medium-sized web front end from React (2019)](https://benhoyt.com/writings/learning-elm/)
 * [2024-02-28, 10:46:56](https://news.ycombinator.com/item?id=39536370) - [Manuals](https://xkcd.com/1343/)
 * [2024-02-28, 10:39:52](https://news.ycombinator.com/item?id=39536315) - [YouTube video embedding harm reduction](https://dustri.org/b/youtube-video-embedding-harm-reduction.html)
 * [2024-02-28, 10:06:59](https://news.ycombinator.com/item?id=39536044) - [How to make your GNU Emacs commands 'relevant' for M-X](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsMetaXRelevantCommands)
