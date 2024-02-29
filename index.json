@@ -1,32 +1,52 @@
 [
   [
     [
-      "2024-02-29, 14:39:32",
-      "https://news.ycombinator.com/item?id=39549858"
+      "2024-02-29, 14:57:03",
+      "https://news.ycombinator.com/item?id=39550124"
     ],
     [
-      "FBI using push notification tokens to identify anonymous users",
-      "https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/"
+      "A lock-free ring-buffer with contiguous reservations (2019)",
+      "https://ferrous-systems.com/blog/lock-free-ring-buffer/"
     ]
   ],
   [
     [
-      "2024-02-29, 13:17:16",
-      "https://news.ycombinator.com/item?id=39548884"
+      "2024-02-29, 14:38:09",
+      "https://news.ycombinator.com/item?id=39549838"
     ],
     [
-      "Three companies own 19,000 rental houses in Atlanta, GA",
-      "https://news.gsu.edu/2024/02/26/researchers-find-three-companies-own-more-than-19000-rental-houses-in-metro-atlanta/"
+      "Rendering protein structures inside cells at the atomic level with Unreal Engine",
+      "https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1"
     ]
   ],
   [
     [
-      "2024-02-29, 12:31:09",
-      "https://news.ycombinator.com/item?id=39548517"
+      "2024-02-29, 14:00:55",
+      "https://news.ycombinator.com/item?id=39549380"
     ],
     [
-      "Shave and a Haircut",
-      "https://en.wikipedia.org/wiki/Shave_and_a_Haircut"
+      "Esperanto, Toki Pona, Swahili, Indonesian",
+      "https://sive.rs/esperanto"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 13:58:13",
+      "https://news.ycombinator.com/item?id=39549340"
+    ],
+    [
+      "Apple is turning William Gibson's Neuromancer into a TV series",
+      "https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 12:38:22",
+      "https://news.ycombinator.com/item?id=39548564"
+    ],
+    [
+      "Google announced Genie AI can generate platform video games",
+      "https://mashable.com/article/google-genie-can-create-video-games-2d-platformers"
     ]
   ],
   [
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2024-02-29, 11:28:23",
-      "https://news.ycombinator.com/item?id=39548074"
+      "2024-02-29, 11:29:33",
+      "https://news.ycombinator.com/item?id=39548076"
     ],
     [
-      "Doom Running on a Toothbrush",
-      "https://twitter.com/atc1441/status/1762974846487531834"
+      "Ask HN: Code Llama 70B on a dedicated server",
+      "https://news.ycombinator.com/item?id=39548076"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Hetzner switches to new billing model",
       "https://docs.hetzner.com/general/others/new-billing-model/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 09:32:14",
-      "https://news.ycombinator.com/item?id=39547820"
-    ],
-    [
-      "Haskell Weekly – Issue 409",
-      "https://haskellweekly.news/issue/409.html"
     ]
   ],
   [
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2024-02-28, 23:09:41",
-      "https://news.ycombinator.com/item?id=39544698"
+      "2024-02-28, 22:27:36",
+      "https://news.ycombinator.com/item?id=39544286"
     ],
     [
-      "Optimize sgemm on RISC-V platform",
-      "https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444"
+      "Children need risk, fear, and excitement in play",
+      "https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Learning Elm by porting a medium-sized web frontend from React (2019)",
       "https://benhoyt.com/writings/learning-elm/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 10:06:59",
-      "https://news.ycombinator.com/item?id=39536044"
-    ],
-    [
-      "How to make your GNU Emacs commands 'relevant' for M-X",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsMetaXRelevantCommands"
     ]
   ],
   [
