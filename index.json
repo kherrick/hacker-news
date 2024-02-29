@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-02-29, 15:42:27",
-      "https://news.ycombinator.com/item?id=39550838"
+      "2024-02-29, 15:56:04",
+      "https://news.ycombinator.com/item?id=39551033"
     ],
     [
-      "The aerodynamics of a turn: How an airplane turns",
-      "https://www.boldmethod.com/learn-to-fly/aerodynamics/the-aerodynamics-of-a-turn-in-an-airplane/"
+      "It's that most wonderful time of the year when tech cannot handle the date",
+      "https://www.theregister.com/2024/02/29/fuel_pump_leap_year_bug/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 15:45:50",
+      "https://news.ycombinator.com/item?id=39550893"
+    ],
+    [
+      "Amazon's Big Secret (which divisions are profitable)",
+      "https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 15:29:48",
+      "https://news.ycombinator.com/item?id=39550645"
+    ],
+    [
+      "Memory Safe TLS Library Now Has AWS Crypto and FIPS",
+      "https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/"
     ]
   ],
   [
@@ -41,32 +61,22 @@
   ],
   [
     [
+      "2024-02-29, 14:11:59",
+      "https://news.ycombinator.com/item?id=39549486"
+    ],
+    [
+      "You've just inherited a legacy C++ codebase, now what?",
+      "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 14:00:55",
       "https://news.ycombinator.com/item?id=39549380"
     ],
     [
       "Esperanto, Toki Pona, Swahili, Indonesian",
       "https://sive.rs/esperanto"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 13:57:37",
-      "https://news.ycombinator.com/item?id=39549334"
-    ],
-    [
-      "European media orgs legal action against Google",
-      "https://adtechclaim.eu/february-2024-case/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 12:40:15",
-      "https://news.ycombinator.com/item?id=39548574"
-    ],
-    [
-      "Behind Apple's Doomed Car Project: False Starts and Wrong Turns",
-      "https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Hetzner switches to new billing model",
       "https://docs.hetzner.com/general/others/new-billing-model/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 08:09:54",
-      "https://news.ycombinator.com/item?id=39547355"
-    ],
-    [
-      "Curvature of Polyhedra",
-      "https://nicf.net/articles/curvature-of-polyhedra/"
     ]
   ],
   [
