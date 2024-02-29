@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-02-29, 02:04:40",
+      "https://news.ycombinator.com/item?id=39545797"
+    ],
+    [
+      "Winklevoss Twins' Startup Gemini Will Pay Burned Customers $1B",
+      "https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 01:22:12",
       "https://news.ycombinator.com/item?id=39545574"
     ],
     [
       "Talc – A fast and flexible allocator for no_std and WebAssembly",
       "https://github.com/SFBdragon/talc"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 00:50:22",
+      "https://news.ycombinator.com/item?id=39545385"
+    ],
+    [
+      "Saturn's Hexagon",
+      "https://en.wikipedia.org/wiki/Saturn%27s_hexagon"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "How The Pentagon learned to use targeted ads to find its targets",
       "https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 16:43:20",
-      "https://news.ycombinator.com/item?id=39540445"
-    ],
-    [
-      "Show HN: Kalosm an embeddable framework for pre-trained models in Rust",
-      "https://floneum.com/blog/kalosm_0_2/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "One of world’s smallest fish found to make sound as loud as a gunshot",
       "https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 22:40:44",
-      "https://news.ycombinator.com/item?id=39517635"
-    ],
-    [
-      "MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue",
-      "https://www.mdpi.com/2079-9292/13/5/854"
     ]
   ]
 ]
