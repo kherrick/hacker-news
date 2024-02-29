@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-02-29, 20:50:50",
+      "https://news.ycombinator.com/item?id=39554874"
+    ],
+    [
+      "Defcon: Meta's system for preventing overload with graceful feature degradation",
+      "https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 20:22:43",
       "https://news.ycombinator.com/item?id=39554539"
     ],
     [
       "Ask HN: Did you encounter any leap year bugs today?",
       "https://news.ycombinator.com/item?id=39554539"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 20:13:36",
-      "https://news.ycombinator.com/item?id=39554427"
-    ],
-    [
-      "Are US EV sales a disaster or a booming segment? The answer may be both",
-      "https://www.bbc.com/worklife/article/20240228-are-us-ev-sales-a-disaster-or-a-booming-segment-the-answer-may-be-both"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Learning to be managed",
       "https://medium.com/@theholy7/learning-to-be-managed-630e31c52282"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 18:22:34",
-      "https://news.ycombinator.com/item?id=39552997"
-    ],
-    [
-      "The Board of Directors Is in Charge",
-      "https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge"
     ]
   ],
   [
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2024-02-29, 03:28:29",
-      "https://news.ycombinator.com/item?id=39546129"
+      "2024-02-28, 23:39:46",
+      "https://news.ycombinator.com/item?id=39544937"
     ],
     [
-      "Re: You can't be a good .NET developer (2016)",
-      "https://ayende.com/blog/174433/re-why-you-cant-be-a-good-net-developer"
+      "A Social History of Jell-O Salad (2023)",
+      "https://www.seriouseats.com/history-of-jell-o-salad"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The Emmy Computer Algebra System",
       "https://github.com/mentat-collective/emmy"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 11:04:36",
+      "https://news.ycombinator.com/item?id=39536437"
+    ],
+    [
+      "Common Mistakes in Modularisation",
+      "https://two-wrongs.com/software-design-tree-and-program-families.html"
     ]
   ],
   [
