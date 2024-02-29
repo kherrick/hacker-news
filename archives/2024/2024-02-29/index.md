@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 21:03:47](https://news.ycombinator.com/item?id=39555055) - [Boiling Water May Help Remove Up to 90% of Microplastics](https://www.healthline.com/health-news/boiling-water-may-help-remove-up-to-90-of-microplastics)
+* [2024-02-29, 20:58:19](https://news.ycombinator.com/item?id=39554978) - [Norwegian Consumer Council files complaint against Meta for GDPR violations](https://www.forbrukerradet.no/side/the-norwegian-consumer-council-files-legal-complaint-against-meta-for-numerous-violations-of-the-gdpr/)
+* [2024-02-29, 20:55:55](https://news.ycombinator.com/item?id=39554940) - [ICANN Is Not the Internet Content Police (2015)](https://www.icann.org/en/blogs/details/icann-is-not-the-internet-content-police-12-6-2015-en)
 * [2024-02-29, 20:50:50](https://news.ycombinator.com/item?id=39554874) - [Defcon: Meta's system for preventing overload with graceful feature degradation](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
 * [2024-02-29, 20:22:43](https://news.ycombinator.com/item?id=39554539) - [Ask HN: Did you encounter any Leap Year bugs today? How bad was it?](https://news.ycombinator.com/item?id=39554539)
 * [2024-02-29, 20:13:36](https://news.ycombinator.com/item?id=39554427) - [Are US EV sales a disaster or a booming segment? The answer may be both](https://www.bbc.com/worklife/article/20240228-are-us-ev-sales-a-disaster-or-a-booming-segment-the-answer-may-be-both)
