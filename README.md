@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-29, 22:02:09](https://news.ycombinator.com/item?id=39555791) - [Enlightenment is a window manager, compositor and minimal desktop for Linux](https://www.enlightenment.org/)
+* [2024-02-29, 22:18:38](https://news.ycombinator.com/item?id=39555966) - [Today's only half of the leap year fun](http://rachelbythebay.com/w/2024/02/29/tib/)
 * [2024-02-29, 21:52:13](https://news.ycombinator.com/item?id=39555675) - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
 * [2024-02-29, 21:46:06](https://news.ycombinator.com/item?id=39555598) - [Things You Should Never Do, Part I (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * [2024-02-29, 20:50:50](https://news.ycombinator.com/item?id=39554874) - [Defcon: Preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
@@ -24,8 +24,8 @@
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 * [2024-02-28, 23:39:46](https://news.ycombinator.com/item?id=39544937) - [A Social History of Jell-O Salad (2023)](https://www.seriouseats.com/history-of-jell-o-salad)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
+* [2024-02-28, 21:16:57](https://news.ycombinator.com/item?id=39543543) - [The Lincoln TX-2 Computer Development (1957) [pdf]](https://dl.acm.org/doi/pdf/10.1145/1455567.1455592)
 * [2024-02-28, 18:34:34](https://news.ycombinator.com/item?id=39541944) - [\"Dune\" and the delicate art of making fictional languages](https://www.newyorker.com/culture/cultural-comment/dune-and-the-delicate-art-of-making-fictional-languages)
-* [2024-02-28, 17:29:19](https://news.ycombinator.com/item?id=39541084) - [Attacks on Anonymity Systems: The Theory (2003)](https://github.com/Dicklesworthstone/sassaman_and_dingledine_on_remailers_at_blackhat_2003)
 * [2024-02-28, 07:07:16](https://news.ycombinator.com/item?id=39534937) - [Learn CSS layout the pedantic way (2015)](http://book.mixu.net/css/)
 * [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 01:03:44](https://news.ycombinator.com/item?id=39532550) - [Indexed types for a statically safe WebAssembly [pdf]](https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf)
