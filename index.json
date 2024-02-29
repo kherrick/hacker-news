@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-02-29, 13:58:13",
-      "https://news.ycombinator.com/item?id=39549340"
-    ],
-    [
-      "Apple is turning William Gibson's Neuromancer into a TV series",
-      "https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 12:09:11",
       "https://news.ycombinator.com/item?id=39548343"
     ],
@@ -67,16 +57,6 @@
     [
       "The KDE desktop gets an overhaul with Plasma 6",
       "https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 11:29:33",
-      "https://news.ycombinator.com/item?id=39548076"
-    ],
-    [
-      "Ask HN: Code Llama 70B on a dedicated server",
-      "https://news.ycombinator.com/item?id=39548076"
     ]
   ],
   [
@@ -197,6 +177,26 @@
     [
       "Children need risk, fear, and excitement in play",
       "https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 21:40:41",
+      "https://news.ycombinator.com/item?id=39543791"
+    ],
+    [
+      "Scientists find genetic signature of Down syndrome in ancient bones",
+      "https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 17:14:17",
+      "https://news.ycombinator.com/item?id=39540886"
+    ],
+    [
+      "MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers",
+      "https://github.com/ZigEmbeddedGroup/microzig"
     ]
   ],
   [
