@@ -6,6 +6,7 @@
 
 * [2024-02-29, 16:24:52](https://news.ycombinator.com/item?id=39551457) - [Neurosurgeon pioneers Alzheimer's, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
 * [2024-02-29, 16:14:34](https://news.ycombinator.com/item?id=39551287) - [Indiana Jones and the $3,500 Headset](https://twitter.com/ActionMovieKid/status/1761383471987970192)
+* [2024-02-29, 15:57:44](https://news.ycombinator.com/item?id=39551064) - [Show HN: We Built the Fastest Spreadsheet](https://rowzero.io)
 * [2024-02-29, 15:56:07](https://news.ycombinator.com/item?id=39551035) - [The internet feels fake now. It's all just staged videos and marketing](https://old.reddit.com/r/Millennials/comments/1b301qj/the_internet_feels_fake_now_its_all_just_staged/)
 * [2024-02-29, 15:56:04](https://news.ycombinator.com/item?id=39551033) - [It's that most wonderful time of the year when tech cannot handle the date](https://www.theregister.com/2024/02/29/fuel_pump_leap_year_bug/)
 * [2024-02-29, 15:45:50](https://news.ycombinator.com/item?id=39550893) - [Amazon's Big Secret (which divisions are profitable)](https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/)
@@ -22,6 +23,7 @@
 * [2024-02-29, 14:00:55](https://news.ycombinator.com/item?id=39549380) - [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
 * [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
 * [2024-02-29, 13:57:37](https://news.ycombinator.com/item?id=39549334) - [European media orgs legal action against Google](https://adtechclaim.eu/february-2024-case/)
+* [2024-02-29, 13:45:44](https://news.ycombinator.com/item?id=39549194) - [Show HN: Workout Tracker – self-hosted, single binary web application](https://github.com/jovandeginste/workout-tracker)
 * [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
 * [2024-02-29, 13:17:16](https://news.ycombinator.com/item?id=39548884) - [Three companies own 19,000 rental houses in Atlanta, GA](https://news.gsu.edu/2024/02/26/researchers-find-three-companies-own-more-than-19000-rental-houses-in-metro-atlanta/)
 * [2024-02-29, 12:40:15](https://news.ycombinator.com/item?id=39548574) - [Behind Apple's Doomed Car Project: False Starts and Wrong Turns](https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html)

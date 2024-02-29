@@ -32,6 +32,7 @@
 * [2024-02-28, 18:51:48](https://news.ycombinator.com/item?id=39542128) - [Julius Caesar's Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 * [2024-02-28, 18:50:59](https://news.ycombinator.com/item?id=39542118) - [The Yak Shave](https://www.marginalia.nu/log/a_102_yak_shave/)
 * [2024-02-28, 18:44:12](https://news.ycombinator.com/item?id=39542039) - [OpenCollective Shutting Down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
+* [2024-02-28, 18:34:34](https://news.ycombinator.com/item?id=39541944) - [\"Dune\" and the Delicate Art of Making Fictional Languages](https://www.newyorker.com/culture/cultural-comment/dune-and-the-delicate-art-of-making-fictional-languages)
 * [2024-02-28, 18:11:50](https://news.ycombinator.com/item?id=39541662) - [The Roguelike Rule of Thumb](https://synystron.substack.com/p/the-roguelike-rule-of-thumb)
 * [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring an extrovert hacker](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
 * [2024-02-28, 17:56:47](https://news.ycombinator.com/item?id=39541452) - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
