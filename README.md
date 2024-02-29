@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
-* [2024-02-29, 04:32:06](https://news.ycombinator.com/item?id=39546412) - [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411)
 * [2024-02-29, 04:11:13](https://news.ycombinator.com/item?id=39546333) - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
 * [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
@@ -23,6 +22,7 @@
 * [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL](https://pql.dev/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Varda Capsule Reentry – Five Minutes from LEO to Earth [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
 * [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
+* [2024-02-28, 14:40:23](https://news.ycombinator.com/item?id=39538526) - [Intel puts 1nm process (10A) on the roadmap for 2027](https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots)
 * [2024-02-28, 14:31:55](https://news.ycombinator.com/item?id=39538425) - ['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
 * [2024-02-28, 13:31:19](https://news.ycombinator.com/item?id=39537608) - [Let Everybody Sing (2016)](https://bittersoutherner.com/sacred-harp-let-everybody-sing)
 * [2024-02-28, 10:06:59](https://news.ycombinator.com/item?id=39536044) - [How to make your GNU Emacs commands 'relevant' for M-X](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsMetaXRelevantCommands)
