@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-02-29, 19:37:07",
+      "https://news.ycombinator.com/item?id=39553974"
+    ],
+    [
+      "WhatsApp Chats Will Soon Work with Other Encrypted Messaging Apps",
+      "https://www.wired.com/story/whatsapp-interoperability-messaging/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 19:30:38",
+      "https://news.ycombinator.com/item?id=39553892"
+    ],
+    [
+      "Apple orders 10 episodes of a Neuromancer TV series",
+      "https://arstechnica.com/culture/2024/02/william-gibsons-neuromancer-will-become-an-apple-tv-show/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 19:30:00",
+      "https://news.ycombinator.com/item?id=39553883"
+    ],
+    [
+      "Google abandoned \"don't be evil\" – and Gemini is the result",
+      "https://www.natesilver.net/p/google-abandoned-dont-be-evil-and"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 19:17:36",
+      "https://news.ycombinator.com/item?id=39553743"
+    ],
+    [
+      "Money Bubble",
+      "https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 19:06:57",
       "https://news.ycombinator.com/item?id=39553601"
     ],
@@ -17,26 +57,6 @@
     [
       "Dune: Part Two Is the Best Sci-Fi Film of the Decade",
       "https://www.esquire.com/entertainment/movies/a46885292/dune-part-two-review/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 18:22:34",
-      "https://news.ycombinator.com/item?id=39552997"
-    ],
-    [
-      "The Board of Directors Is in Charge",
-      "https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 18:12:22",
-      "https://news.ycombinator.com/item?id=39552882"
-    ],
-    [
-      "Show HN: Marimo – open-source reactive Python notebook – running in WASM",
-      "https://marimo.app/l/c7h6pz"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-02-29, 14:04:14",
-      "https://news.ycombinator.com/item?id=39549415"
-    ],
-    [
-      "'Entropy bagels' and other complex structures emerge from simple rules",
-      "https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 13:45:44",
       "https://news.ycombinator.com/item?id=39549194"
     ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2024-02-28, 17:10:09",
-      "https://news.ycombinator.com/item?id=39540833"
-    ],
-    [
-      "Thermodynamics and Statistical Mechanics",
-      "https://nicf.net/articles/thermodynamics-statistical-mechanics/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 14:51:49",
-      "https://news.ycombinator.com/item?id=39538670"
-    ],
-    [
-      "Look, ma, no matrices",
-      "https://enkimute.github.io/LookMaNoMatrices/"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 13:20:29",
       "https://news.ycombinator.com/item?id=39537486"
     ],
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=39534937"
     ],
     [
-      "Learn CSS Layout the Pedantic Way",
+      "Learn CSS layout the pedantic way (2015)",
       "http://book.mixu.net/css/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "How video games use lookup tables",
       "https://blog.frost.kiwi/WebGL-LUTS-made-simple/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 20:27:09",
+      "https://news.ycombinator.com/item?id=39529374"
+    ],
+    [
+      "'Entropy bagels' and other complex structures emerge from simple rules",
+      "https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/"
     ]
   ]
 ]
