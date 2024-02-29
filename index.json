@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-02-29, 22:18:38",
+      "https://news.ycombinator.com/item?id=39555966"
+    ],
+    [
+      "Today's only half of the leap year fun",
+      "http://rachelbythebay.com/w/2024/02/29/tib/"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 22:02:09",
       "https://news.ycombinator.com/item?id=39555791"
     ],
     [
-      "Enlightenment Is a Window Manager, Compositor and Minimal Desktop for Linux",
+      "Enlightenment is a window manager, compositor and minimal desktop for Linux",
       "https://www.enlightenment.org/"
     ]
   ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=39555675"
     ],
     [
-      "Functional Ownership Through Fractional Uniqueness",
+      "Functional ownership through fractional uniqueness",
       "https://arxiv.org/abs/2310.18166"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 21:46:06",
+      "https://news.ycombinator.com/item?id=39555598"
+    ],
+    [
+      "Things You Should Never Do, Part I (2000)",
+      "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/"
     ]
   ],
   [
@@ -25,8 +45,18 @@
       "https://news.ycombinator.com/item?id=39554874"
     ],
     [
-      "Defcon: Meta's system for preventing overload with graceful feature degradation (2023)",
+      "Defcon: Preventing overload with graceful feature degradation (2023)",
       "https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 20:22:43",
+      "https://news.ycombinator.com/item?id=39554539"
+    ],
+    [
+      "Ask HN: Did you encounter any leap year bugs today?",
+      "https://news.ycombinator.com/item?id=39554539"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Ford EVs gain access to Tesla Superchargers starting today",
       "https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 17:06:39",
-      "https://news.ycombinator.com/item?id=39552100"
-    ],
-    [
-      "The Buckland Review of Autism Employment",
-      "https://www.gov.uk/government/publications/the-buckland-review-of-autism-employment-report-and-recommendations/the-buckland-review-of-autism-employment-report-and-recommendations"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-02-29, 07:23:10",
-      "https://news.ycombinator.com/item?id=39547109"
-    ],
-    [
-      "Heinz’s sustainable ketchup cap",
-      "https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 23:39:46",
       "https://news.ycombinator.com/item?id=39544937"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2024-02-28, 13:20:29",
-      "https://news.ycombinator.com/item?id=39537486"
-    ],
-    [
-      "The Emmy Computer Algebra System",
-      "https://github.com/mentat-collective/emmy"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 07:07:16",
       "https://news.ycombinator.com/item?id=39534937"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39532550"
     ],
     [
-      "Indexed Types for a Statically Safe WebAssembly [pdf]",
+      "Indexed types for a statically safe WebAssembly [pdf]",
       "https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf"
     ]
   ],
