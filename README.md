@@ -2,6 +2,7 @@
 
 * [2024-02-29, 12:38:22](https://news.ycombinator.com/item?id=39548564) - [Google announced Genie AI can generate platform video games](https://mashable.com/article/google-genie-can-create-video-games-2d-platformers)
 * [2024-02-29, 12:31:09](https://news.ycombinator.com/item?id=39548517) - [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
+* [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
 * [2024-02-29, 12:04:17](https://news.ycombinator.com/item?id=39548300) - [Implementing RSA from Scratch in JavaScript](https://coderoasis.com/implementing-rsa-from-scratch-in-javascript/)
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 * [2024-02-29, 11:28:23](https://news.ycombinator.com/item?id=39548074) - [Doom Running on a Toothbrush](https://twitter.com/atc1441/status/1762974846487531834)
@@ -18,9 +19,8 @@
 * [2024-02-29, 01:09:44](https://news.ycombinator.com/item?id=39545501) - [The Claro Programming Language](https://docs.clarolang.com/)
 * [2024-02-28, 23:39:46](https://news.ycombinator.com/item?id=39544937) - [A Social History of Jell-O Salad (2023)](https://www.seriouseats.com/history-of-jell-o-salad)
 * [2024-02-28, 23:09:41](https://news.ycombinator.com/item?id=39544698) - [Optimize sgemm on RISC-V platform](https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444)
-* [2024-02-28, 22:27:36](https://news.ycombinator.com/item?id=39544286) - [Children need risk, fear, and excitement in play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement)
-* [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 * [2024-02-28, 17:10:09](https://news.ycombinator.com/item?id=39540833) - [Thermodynamics and Statistical Mechanics](https://nicf.net/articles/thermodynamics-statistical-mechanics/)
+* [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
 * [2024-02-28, 13:20:29](https://news.ycombinator.com/item?id=39537486) - [The Emmy Computer Algebra System](https://github.com/mentat-collective/emmy)
 * [2024-02-28, 11:04:36](https://news.ycombinator.com/item?id=39536437) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
 * [2024-02-28, 10:55:48](https://news.ycombinator.com/item?id=39536396) - [Learning Elm by porting a medium-sized web front end from React (2019)](https://benhoyt.com/writings/learning-elm/)
