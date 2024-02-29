@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 10:18:17",
+      "https://news.ycombinator.com/item?id=39547940"
+    ],
+    [
+      "Hetzner switches to new billing model",
+      "https://docs.hetzner.com/general/others/new-billing-model/"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 07:23:10",
       "https://news.ycombinator.com/item?id=39547109"
     ],
@@ -137,16 +147,6 @@
     [
       "Open Collective Official Statement – OCF Dissolution",
       "https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 17:14:17",
-      "https://news.ycombinator.com/item?id=39540886"
-    ],
-    [
-      "MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers",
-      "https://github.com/ZigEmbeddedGroup/microzig"
     ]
   ],
   [
