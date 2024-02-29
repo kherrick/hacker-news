@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-29, 15:56:04](https://news.ycombinator.com/item?id=39551033) - [It's that most wonderful time of the year when tech cannot handle the date](https://www.theregister.com/2024/02/29/fuel_pump_leap_year_bug/)
+* [2024-02-29, 16:14:34](https://news.ycombinator.com/item?id=39551287) - [Indiana Jones and the $3,500 Headset](https://twitter.com/ActionMovieKid/status/1761383471987970192)
+* [2024-02-29, 15:56:07](https://news.ycombinator.com/item?id=39551035) - [The internet feels fake now. It's all just staged videos and marketing](https://old.reddit.com/r/Millennials/comments/1b301qj/the_internet_feels_fake_now_its_all_just_staged/)
 * [2024-02-29, 15:45:50](https://news.ycombinator.com/item?id=39550893) - [Amazon's Big Secret (which divisions are profitable)](https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/)
 * [2024-02-29, 15:29:48](https://news.ycombinator.com/item?id=39550645) - [Memory Safe TLS Library Now Has AWS Crypto and FIPS](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
 * [2024-02-29, 15:01:57](https://news.ycombinator.com/item?id=39550202) - [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
@@ -11,7 +12,6 @@
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 * [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [Heinz’s sustainable ketchup cap](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
-* [2024-02-29, 04:11:13](https://news.ycombinator.com/item?id=39546333) - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
 * [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-29, 03:25:28](https://news.ycombinator.com/item?id=39546120) - [Starlink terminal revision 4: overview and tests](https://olegkutkov.me/2024/02/12/starlink-terminal-revision-4-overview-and-tests/)
 * [2024-02-29, 01:38:51](https://news.ycombinator.com/item?id=39545676) - [Over 100k Infected Repos Found on GitHub](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)

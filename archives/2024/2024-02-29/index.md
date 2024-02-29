@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 16:14:34](https://news.ycombinator.com/item?id=39551287) - [Indiana Jones and the $3,500 Headset](https://twitter.com/ActionMovieKid/status/1761383471987970192)
+* [2024-02-29, 15:56:07](https://news.ycombinator.com/item?id=39551035) - [The internet feels fake now. It's all just staged videos and marketing](https://old.reddit.com/r/Millennials/comments/1b301qj/the_internet_feels_fake_now_its_all_just_staged/)
 * [2024-02-29, 15:56:04](https://news.ycombinator.com/item?id=39551033) - [It's that most wonderful time of the year when tech cannot handle the date](https://www.theregister.com/2024/02/29/fuel_pump_leap_year_bug/)
 * [2024-02-29, 15:45:50](https://news.ycombinator.com/item?id=39550893) - [Amazon's Big Secret (which divisions are profitable)](https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/)
 * [2024-02-29, 15:42:27](https://news.ycombinator.com/item?id=39550838) - [The aerodynamics of a turn: How an airplane turns](https://www.boldmethod.com/learn-to-fly/aerodynamics/the-aerodynamics-of-a-turn-in-an-airplane/)
