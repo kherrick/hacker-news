@@ -9,6 +9,7 @@
 * [2024-02-28, 23:20:46](https://news.ycombinator.com/item?id=39544790) - [Speedy SD Express cards have gone nowhere for years, Samsung could change that](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)
 * [2024-02-28, 23:18:04](https://news.ycombinator.com/item?id=39544769) - [The financial value of open source software](https://lemire.me/blog/2014/04/14/the-financial-value-of-open-source-software/)
 * [2024-02-28, 23:09:41](https://news.ycombinator.com/item?id=39544698) - [Optimize sgemm on RISC-V platform](https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444)
+* [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
 * [2024-02-28, 22:27:36](https://news.ycombinator.com/item?id=39544286) - [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement)
 * [2024-02-28, 22:24:24](https://news.ycombinator.com/item?id=39544252) - [GitHub besieged by malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/)
 * [2024-02-28, 21:59:27](https://news.ycombinator.com/item?id=39544012) - [Google CEO Sundar Pichai Says Its Malfunctioning Gemini AI Is 'Unacceptable'](https://gizmodo.com/sundar-pichai-gemini-image-generator-ai-racism-1851292676)

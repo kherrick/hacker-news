@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 17:36:44](https://news.ycombinator.com/item?id=39552446) - [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
+* [2024-02-29, 17:29:40](https://news.ycombinator.com/item?id=39552367) - [Alright then keep your secrets](https://old.reddit.com/r/LocalLLaMA/comments/1b2wron/alright_then_keep_your_secrets/)
 * [2024-02-29, 17:11:29](https://news.ycombinator.com/item?id=39552159) - [Trudeau government unveils national pharmacare bill](https://www.thestar.com/politics/federal/trudeau-government-unveils-national-pharmacare-bill/article_a7a7b298-d676-11ee-a58f-9be8d8d15760.html)
 * [2024-02-29, 16:24:52](https://news.ycombinator.com/item?id=39551457) - [Neurosurgeon pioneers Alzheimer's, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
 * [2024-02-29, 16:14:34](https://news.ycombinator.com/item?id=39551287) - [Indiana Jones and the $3,500 Headset](https://twitter.com/ActionMovieKid/status/1761383471987970192)
@@ -35,6 +37,7 @@
 * [2024-02-29, 12:40:15](https://news.ycombinator.com/item?id=39548574) - [Behind Apple's Doomed Car Project: False Starts and Wrong Turns](https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html)
 * [2024-02-29, 12:38:22](https://news.ycombinator.com/item?id=39548564) - [Google announced Genie AI can generate platform video games](https://mashable.com/article/google-genie-can-create-video-games-2d-platformers)
 * [2024-02-29, 12:31:09](https://news.ycombinator.com/item?id=39548517) - [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
+* [2024-02-29, 12:18:20](https://news.ycombinator.com/item?id=39548410) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
 * [2024-02-29, 12:04:17](https://news.ycombinator.com/item?id=39548300) - [Implementing RSA from Scratch in JavaScript](https://coderoasis.com/implementing-rsa-from-scratch-in-javascript/)
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
