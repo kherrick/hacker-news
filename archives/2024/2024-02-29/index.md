@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 18:50:24](https://news.ycombinator.com/item?id=39553360) - [NYT Launches Leak Investigation over Report on Its Israel-Gaza Coverage](https://www.vanityfair.com/news/new-york-times-israel-gaza-leak)
+* [2024-02-29, 18:23:32](https://news.ycombinator.com/item?id=39553007) - [Correlation between height and being a F500 CEO](https://twitter.com/noor_siddiqui_/status/1763095214506619355)
 * [2024-02-29, 18:22:39](https://news.ycombinator.com/item?id=39553000) - [Dune: Part Two Is the Best Sci-Fi Film of the Decade](https://www.esquire.com/entertainment/movies/a46885292/dune-part-two-review/)
 * [2024-02-29, 18:17:09](https://news.ycombinator.com/item?id=39552934) - [US spends billions on roads rather than public transport in 'climate time bomb'](https://www.theguardian.com/business/2024/feb/29/biden-spending-highways-public-transport-climate-crisis)
 * [2024-02-29, 18:12:22](https://news.ycombinator.com/item?id=39552882) - [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)

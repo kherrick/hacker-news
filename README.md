@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 18:50:24](https://news.ycombinator.com/item?id=39553360) - [NYT Launches Leak Investigation over Report on Its Israel-Gaza Coverage](https://www.vanityfair.com/news/new-york-times-israel-gaza-leak)
+* [2024-02-29, 18:23:32](https://news.ycombinator.com/item?id=39553007) - [Correlation between height and being a F500 CEO](https://twitter.com/noor_siddiqui_/status/1763095214506619355)
 * [2024-02-29, 18:22:39](https://news.ycombinator.com/item?id=39553000) - [Dune: Part Two Is the Best Sci-Fi Film of the Decade](https://www.esquire.com/entertainment/movies/a46885292/dune-part-two-review/)
-* [2024-02-29, 18:17:09](https://news.ycombinator.com/item?id=39552934) - [US spends billions on roads rather than public transport in 'climate time bomb'](https://www.theguardian.com/business/2024/feb/29/biden-spending-highways-public-transport-climate-crisis)
 * [2024-02-29, 18:12:22](https://news.ycombinator.com/item?id=39552882) - [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)
 * [2024-02-29, 17:36:44](https://news.ycombinator.com/item?id=39552446) - [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
 * [2024-02-29, 17:36:21](https://news.ycombinator.com/item?id=39552442) - [Malicious AI models on Hugging Face backdoor users' machines](https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/)
@@ -21,7 +22,6 @@
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 * [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [Heinz’s sustainable ketchup cap](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
-* [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
 * [2024-02-28, 21:10:10](https://news.ycombinator.com/item?id=39543462) - [Between 'Star Wars' Trilogies, a Golden Age of Video Games](https://www.nytimes.com/2024/02/28/arts/star-wars-dark-forces-remaster.html)
 * [2024-02-28, 17:29:19](https://news.ycombinator.com/item?id=39541084) - [Transcript of \"Attacks on Anonymity Systems: The Theory\" (2003)](https://github.com/Dicklesworthstone/sassaman_and_dingledine_on_remailers_at_blackhat_2003)
