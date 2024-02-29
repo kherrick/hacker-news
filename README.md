@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An Overseas Experience with Hypertext and Packet Switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
-* [2024-02-29, 02:04:40](https://news.ycombinator.com/item?id=39545797) - [Winklevoss Twins' Startup Gemini Will Pay Burned Customers $1B](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion)
+* [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An overseas experience with hypertext and packet switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 * [2024-02-29, 01:22:12](https://news.ycombinator.com/item?id=39545574) - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
+* [2024-02-29, 01:09:44](https://news.ycombinator.com/item?id=39545501) - [The Claro Programming Language](https://docs.clarolang.com/)
 * [2024-02-29, 00:50:22](https://news.ycombinator.com/item?id=39545385) - [Saturn's Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
 * [2024-02-28, 23:09:41](https://news.ycombinator.com/item?id=39544698) - [Optimize sgemm on RISC-V platform](https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444)
 * [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
@@ -27,7 +27,7 @@
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 * [2024-02-28, 06:19:38](https://news.ycombinator.com/item?id=39534675) - [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 * [2024-02-28, 06:07:31](https://news.ycombinator.com/item?id=39534616) - [Flop rock: inside the underground floppy disk music scene](https://www.theverge.com/24034551/floppy-disk-music-scene-underground-diy)
-* [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [Unreasonably effective – How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
+* [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 02:13:26](https://news.ycombinator.com/item?id=39533075) - [A lot of toast, with a side-order of roast (2002) [pdf]](https://www2.math.upenn.edu/~wilf/website/dek.pdf)
 * [2024-02-27, 12:22:24](https://news.ycombinator.com/item?id=39523190) - [Keeping an ice cream factory cool](https://spectrum.ieee.org/patryk-borkowski-unilever-profiile)
 
