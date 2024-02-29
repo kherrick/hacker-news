@@ -83,6 +83,7 @@
 * [2024-02-28, 11:12:57](https://news.ycombinator.com/item?id=39536490) - [The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits](https://synthical.com/article/56b9c006-6221-43a1-9678-79b1f1d9c7bc)
 * [2024-02-28, 10:46:56](https://news.ycombinator.com/item?id=39536370) - [Manuals](https://xkcd.com/1343/)
 * [2024-02-28, 10:39:52](https://news.ycombinator.com/item?id=39536315) - [YouTube video embedding harm reduction](https://dustri.org/b/youtube-video-embedding-harm-reduction.html)
+* [2024-02-28, 09:56:41](https://news.ycombinator.com/item?id=39535976) - [Rocket Launches](https://rocketlaunch.org)
 * [2024-02-28, 09:56:24](https://news.ycombinator.com/item?id=39535970) - [Learn to Read Korean in 15 Minutes](https://www.ryanestrada.com/learntoreadkoreanin15minutes/)
 * [2024-02-28, 09:56:16](https://news.ycombinator.com/item?id=39535969) - [Pingora: HTTP Server and Proxy Library, in Rust, by Cloudflare, Released](https://github.com/cloudflare/pingora)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
