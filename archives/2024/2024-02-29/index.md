@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
 * [2024-02-29, 17:36:44](https://news.ycombinator.com/item?id=39552446) - [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
+* [2024-02-29, 17:36:21](https://news.ycombinator.com/item?id=39552442) - [Malicious AI models on Hugging Face backdoor users' machines](https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/)
 * [2024-02-29, 17:29:40](https://news.ycombinator.com/item?id=39552367) - [Alright then keep your secrets](https://old.reddit.com/r/LocalLLaMA/comments/1b2wron/alright_then_keep_your_secrets/)
 * [2024-02-29, 17:11:29](https://news.ycombinator.com/item?id=39552159) - [Trudeau government unveils national pharmacare bill](https://www.thestar.com/politics/federal/trudeau-government-unveils-national-pharmacare-bill/article_a7a7b298-d676-11ee-a58f-9be8d8d15760.html)
+* [2024-02-29, 17:06:39](https://news.ycombinator.com/item?id=39552100) - [The Buckland Review of Autism Employment: Report and Recommendations](https://www.gov.uk/government/publications/the-buckland-review-of-autism-employment-report-and-recommendations/the-buckland-review-of-autism-employment-report-and-recommendations)
 * [2024-02-29, 16:24:52](https://news.ycombinator.com/item?id=39551457) - [Neurosurgeon pioneers Alzheimer's, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
 * [2024-02-29, 16:14:34](https://news.ycombinator.com/item?id=39551287) - [Indiana Jones and the $3,500 Headset](https://twitter.com/ActionMovieKid/status/1761383471987970192)
 * [2024-02-29, 16:00:41](https://news.ycombinator.com/item?id=39551115) - [Cloudflare Makes Pingora Rust Framework Open-Source](https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source)
