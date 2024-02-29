@@ -26,8 +26,8 @@
 * [2024-02-28, 13:26:54](https://news.ycombinator.com/item?id=39537570) - [VATSIM: The International Online Aviation Network](https://vatsim.net/)
 * [2024-02-28, 13:17:28](https://news.ycombinator.com/item?id=39537448) - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
+* [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [Unreasonably effective – How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 02:13:26](https://news.ycombinator.com/item?id=39533075) - [A lot of toast, with a side-order of roast (2002) [pdf]](https://www2.math.upenn.edu/~wilf/website/dek.pdf)
-* [2024-02-27, 18:22:49](https://news.ycombinator.com/item?id=39527528) - [Solar storms, ice cores and nuns' teeth: the new science of history](https://www.theguardian.com/science/2024/feb/20/solar-storms-ice-cores-and-nuns-teeth-inside-the-new-science-of-history)
 * [2024-02-27, 12:22:24](https://news.ycombinator.com/item?id=39523190) - [Keeping an ice cream factory cool](https://spectrum.ieee.org/patryk-borkowski-unilever-profiile)
 * [2024-02-27, 11:27:33](https://news.ycombinator.com/item?id=39522801) - [One of world’s smallest fish found to make sound as loud as a gunshot](https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum)
 

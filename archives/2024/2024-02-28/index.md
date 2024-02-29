@@ -93,6 +93,7 @@
 * [2024-02-28, 06:51:35](https://news.ycombinator.com/item?id=39534856) - [Don't Mock Your Machine Learning Models in Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 * [2024-02-28, 06:06:11](https://news.ycombinator.com/item?id=39534608) - [Google CEO calls Gemini completely unacceptable, vows to make structural changes](https://www.semafor.com/article/02/27/2024/google-ceo-sundar-pichai-calls-ai-tools-responses-completely-unacceptable)
 * [2024-02-28, 06:01:04](https://news.ycombinator.com/item?id=39534579) - [Sex, violence, 'Game of Thrones'-style power grabs – the new 'Shōgun' has it all](https://text.npr.org/1233992898)
+* [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [Unreasonably effective – How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 05:29:33](https://news.ycombinator.com/item?id=39534362) - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 * [2024-02-28, 04:27:43](https://news.ycombinator.com/item?id=39533997) - [Majority of workers at Mercedes plant in Alabama sign UAW authorization cards](https://www.detroitnews.com/story/business/autos/foreign/2024/02/27/mercedes-benz-uaw-organizing-autoworkers-alabama/72750019007/)
 * [2024-02-28, 04:10:29](https://news.ycombinator.com/item?id=39533881) - [Tea.xyz causes a flood of spam pull requests to open source projects](https://www.web3isgoinggreat.com/?id=teaxyz-spam)
