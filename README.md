@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-29, 22:18:38](https://news.ycombinator.com/item?id=39555966) - [Today's only half of the leap year fun](http://rachelbythebay.com/w/2024/02/29/tib/)
 * [2024-02-29, 22:02:09](https://news.ycombinator.com/item?id=39555791) - [Enlightenment is a window manager, compositor and minimal desktop for Linux](https://www.enlightenment.org/)
 * [2024-02-29, 21:52:13](https://news.ycombinator.com/item?id=39555675) - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
 * [2024-02-29, 21:46:06](https://news.ycombinator.com/item?id=39555598) - [Things You Should Never Do, Part I (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
@@ -11,6 +10,7 @@
 * [2024-02-29, 19:06:57](https://news.ycombinator.com/item?id=39553601) - [Learning to be managed](https://medium.com/@theholy7/learning-to-be-managed-630e31c52282)
 * [2024-02-29, 17:59:16](https://news.ycombinator.com/item?id=39552705) - [Big Post About Big Context](https://gonzoml.substack.com/p/big-post-about-big-context)
 * [2024-02-29, 17:36:44](https://news.ycombinator.com/item?id=39552446) - [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
+* [2024-02-29, 17:06:39](https://news.ycombinator.com/item?id=39552100) - [The Buckland Review of Autism Employment](https://www.gov.uk/government/publications/the-buckland-review-of-autism-employment-report-and-recommendations/the-buckland-review-of-autism-employment-report-and-recommendations)
 * [2024-02-29, 16:24:52](https://news.ycombinator.com/item?id=39551457) - [Neurosurgeon pioneers Alzheimer's, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
 * [2024-02-29, 15:15:40](https://news.ycombinator.com/item?id=39550431) - [Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
 * [2024-02-29, 15:01:57](https://news.ycombinator.com/item?id=39550202) - [Unearthing the oldest forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
