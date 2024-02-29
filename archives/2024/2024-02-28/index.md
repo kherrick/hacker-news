@@ -83,6 +83,7 @@
 * [2024-02-28, 11:44:11](https://news.ycombinator.com/item?id=39536645) - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
 * [2024-02-28, 11:26:16](https://news.ycombinator.com/item?id=39536545) - [Klarna AI assistant handles two-thirds of customer service chats in first month](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/)
 * [2024-02-28, 11:12:57](https://news.ycombinator.com/item?id=39536490) - [The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits](https://synthical.com/article/56b9c006-6221-43a1-9678-79b1f1d9c7bc)
+* [2024-02-28, 11:04:36](https://news.ycombinator.com/item?id=39536437) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
 * [2024-02-28, 10:46:56](https://news.ycombinator.com/item?id=39536370) - [Manuals](https://xkcd.com/1343/)
 * [2024-02-28, 10:39:52](https://news.ycombinator.com/item?id=39536315) - [YouTube video embedding harm reduction](https://dustri.org/b/youtube-video-embedding-harm-reduction.html)
 * [2024-02-28, 10:06:59](https://news.ycombinator.com/item?id=39536044) - [How to make your GNU Emacs commands 'relevant' for M-X](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsMetaXRelevantCommands)
