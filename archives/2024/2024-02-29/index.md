@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
 * [2024-02-29, 14:57:03](https://news.ycombinator.com/item?id=39550124) - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
+* [2024-02-29, 14:42:11](https://news.ycombinator.com/item?id=39549896) - [Async Rust in a Nutshell](https://www.shuttle.rs/blog/2024/02/29/async-rust)
 * [2024-02-29, 14:39:32](https://news.ycombinator.com/item?id=39549858) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 14:38:09](https://news.ycombinator.com/item?id=39549838) - [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
 * [2024-02-29, 14:00:55](https://news.ycombinator.com/item?id=39549380) - [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
