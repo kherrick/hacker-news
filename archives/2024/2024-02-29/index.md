@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 15:42:27](https://news.ycombinator.com/item?id=39550838) - [The aerodynamics of a turn: How an airplane turns](https://www.boldmethod.com/learn-to-fly/aerodynamics/the-aerodynamics-of-a-turn-in-an-airplane/)
 * [2024-02-29, 15:01:57](https://news.ycombinator.com/item?id=39550202) - [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
 * [2024-02-29, 14:57:03](https://news.ycombinator.com/item?id=39550124) - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
 * [2024-02-29, 14:42:11](https://news.ycombinator.com/item?id=39549896) - [Async Rust in a Nutshell](https://www.shuttle.rs/blog/2024/02/29/async-rust)
@@ -11,6 +12,7 @@
 * [2024-02-29, 14:38:09](https://news.ycombinator.com/item?id=39549838) - [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
 * [2024-02-29, 14:00:55](https://news.ycombinator.com/item?id=39549380) - [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
 * [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
+* [2024-02-29, 13:57:37](https://news.ycombinator.com/item?id=39549334) - [European media orgs legal action against Google](https://adtechclaim.eu/february-2024-case/)
 * [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
 * [2024-02-29, 13:17:16](https://news.ycombinator.com/item?id=39548884) - [Three companies own 19,000 rental houses in Atlanta, GA](https://news.gsu.edu/2024/02/26/researchers-find-three-companies-own-more-than-19000-rental-houses-in-metro-atlanta/)
 * [2024-02-29, 12:40:15](https://news.ycombinator.com/item?id=39548574) - [Behind Apple's Doomed Car Project: False Starts and Wrong Turns](https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html)
