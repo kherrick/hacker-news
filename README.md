@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 04:31:47](https://news.ycombinator.com/item?id=39546410) - [Geometric Algebra in Three Dimensions](https://www.cv.nrao.edu/~mmorgan2/resources/geo3.html)
+* [2024-02-29, 04:11:13](https://news.ycombinator.com/item?id=39546333) - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An overseas experience with hypertext and packet switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 * [2024-02-29, 01:22:12](https://news.ycombinator.com/item?id=39545574) - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
 * [2024-02-29, 01:09:44](https://news.ycombinator.com/item?id=39545501) - [The Claro Programming Language](https://docs.clarolang.com/)
@@ -10,7 +12,6 @@
 * [2024-02-28, 20:03:56](https://news.ycombinator.com/item?id=39542804) - [An HTML Switch Control](https://webkit.org/blog/15054/an-html-switch-control/)
 * [2024-02-28, 18:51:48](https://news.ycombinator.com/item?id=39542128) - [Julius Caesar's Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 * [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
-* [2024-02-28, 17:56:47](https://news.ycombinator.com/item?id=39541452) - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
 * [2024-02-28, 17:17:10](https://news.ycombinator.com/item?id=39540919) - [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
 * [2024-02-28, 17:14:17](https://news.ycombinator.com/item?id=39540886) - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 * [2024-02-28, 17:07:08](https://news.ycombinator.com/item?id=39540807) - [Globe Explorer](https://explorer.globe.engineer/)
@@ -19,7 +20,6 @@
 * [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Varda Capsule Reentry – Five Minutes from LEO to Earth [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
 * [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
-* [2024-02-28, 14:40:23](https://news.ycombinator.com/item?id=39538526) - [Intel puts 1nm process (10A) on the roadmap for 2027](https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots)
 * [2024-02-28, 14:31:55](https://news.ycombinator.com/item?id=39538425) - ['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
 * [2024-02-28, 13:44:57](https://news.ycombinator.com/item?id=39537794) - [Show HN: SQL workbench in the browser](https://sql-workbench.com)
 * [2024-02-28, 13:31:19](https://news.ycombinator.com/item?id=39537608) - [Let Everybody Sing (2016)](https://bittersoutherner.com/sacred-harp-let-everybody-sing)
