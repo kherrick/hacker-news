@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-02-29, 03:31:23",
-      "https://news.ycombinator.com/item?id=39546147"
-    ],
-    [
-      "An overseas experience with hypertext and packet switching [pdf]",
-      "https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 03:25:28",
       "https://news.ycombinator.com/item?id=39546120"
     ],
@@ -147,6 +137,16 @@
     [
       "Open Collective Official Statement – OCF Dissolution",
       "https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 17:14:17",
+      "https://news.ycombinator.com/item?id=39540886"
+    ],
+    [
+      "MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers",
+      "https://github.com/ZigEmbeddedGroup/microzig"
     ]
   ],
   [
