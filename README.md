@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 02:04:40](https://news.ycombinator.com/item?id=39545797) - [Winklevoss Twins' Startup Gemini Will Pay Burned Customers $1B](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion)
 * [2024-02-29, 01:22:12](https://news.ycombinator.com/item?id=39545574) - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
+* [2024-02-29, 00:50:22](https://news.ycombinator.com/item?id=39545385) - [Saturn's Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
 * [2024-02-28, 23:09:41](https://news.ycombinator.com/item?id=39544698) - [Optimize sgemm on RISC-V platform](https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444)
 * [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 * [2024-02-28, 20:52:32](https://news.ycombinator.com/item?id=39543275) - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
@@ -12,7 +14,6 @@
 * [2024-02-28, 17:07:08](https://news.ycombinator.com/item?id=39540807) - [Globe Explorer](https://explorer.globe.engineer/)
 * [2024-02-28, 17:05:40](https://news.ycombinator.com/item?id=39540793) - [Calendar Meeting Links Used to Spread Mac Malware](https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/)
 * [2024-02-28, 17:01:55](https://news.ycombinator.com/item?id=39540738) - [How The Pentagon learned to use targeted ads to find its targets](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
-* [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
 * [2024-02-28, 16:23:49](https://news.ycombinator.com/item?id=39540078) - [Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
 * [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
 * [2024-02-28, 15:01:37](https://news.ycombinator.com/item?id=39538800) - [Varda Capsule Reentry – Five Minutes from LEO to Earth [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
@@ -29,7 +30,6 @@
 * [2024-02-27, 18:22:49](https://news.ycombinator.com/item?id=39527528) - [Solar storms, ice cores and nuns' teeth: the new science of history](https://www.theguardian.com/science/2024/feb/20/solar-storms-ice-cores-and-nuns-teeth-inside-the-new-science-of-history)
 * [2024-02-27, 12:22:24](https://news.ycombinator.com/item?id=39523190) - [Keeping an ice cream factory cool](https://spectrum.ieee.org/patryk-borkowski-unilever-profiile)
 * [2024-02-27, 11:27:33](https://news.ycombinator.com/item?id=39522801) - [One of world’s smallest fish found to make sound as loud as a gunshot](https://www.theguardian.com/science/2024/feb/27/smallest-fish-sounds-loud-danionella-cerebrum)
-* [2024-02-26, 22:40:44](https://news.ycombinator.com/item?id=39517635) - [MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue](https://www.mdpi.com/2079-9292/13/5/854)
 
 ## [Archives](archives/index.md)
 
