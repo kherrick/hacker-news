@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 22:18:38](https://news.ycombinator.com/item?id=39555966) - [Today's only half of the leap year fun](http://rachelbythebay.com/w/2024/02/29/tib/)
 * [2024-02-29, 22:02:09](https://news.ycombinator.com/item?id=39555791) - [Enlightenment Is a Window Manager, Compositor and Minimal Desktop for Linux](https://www.enlightenment.org/)
 * [2024-02-29, 21:52:13](https://news.ycombinator.com/item?id=39555675) - [Functional Ownership Through Fractional Uniqueness](https://arxiv.org/abs/2310.18166)
+* [2024-02-29, 21:46:06](https://news.ycombinator.com/item?id=39555598) - [Things You Should Never Do, Part I (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * [2024-02-29, 21:31:21](https://news.ycombinator.com/item?id=39555416) - [GTA 6 Developers Criticise Rockstar's Decision to Force Staff Back to the Office](https://www.ign.com/articles/gta-6-developers-criticise-rockstars-reckless-decision-to-force-staff-back-to-the-office)
 * [2024-02-29, 21:03:47](https://news.ycombinator.com/item?id=39555055) - [Boiling Water May Help Remove Up to 90% of Microplastics](https://www.healthline.com/health-news/boiling-water-may-help-remove-up-to-90-of-microplastics)
 * [2024-02-29, 20:58:19](https://news.ycombinator.com/item?id=39554978) - [Norwegian Consumer Council files complaint against Meta for GDPR violations](https://www.forbrukerradet.no/side/the-norwegian-consumer-council-files-legal-complaint-against-meta-for-numerous-violations-of-the-gdpr/)
