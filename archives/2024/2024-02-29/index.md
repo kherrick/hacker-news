@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 05:10:31](https://news.ycombinator.com/item?id=39546580) - [TIGForums Independent Gaming and Gamedev Discussions](https://forums.tigsource.com/)
 * [2024-02-29, 04:40:45](https://news.ycombinator.com/item?id=39546445) - [Environmental risks of car tyre microplastics and other road pollution runoff](https://microplastics.springeropen.com/articles/10.1186/s43591-021-00008-w)
 * [2024-02-29, 04:32:06](https://news.ycombinator.com/item?id=39546412) - [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411)
 * [2024-02-29, 04:31:47](https://news.ycombinator.com/item?id=39546410) - [Geometric Algebra in Three Dimensions](https://www.cv.nrao.edu/~mmorgan2/resources/geo3.html)
