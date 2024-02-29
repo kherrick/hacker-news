@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 21:31:21](https://news.ycombinator.com/item?id=39555416) - [GTA 6 Developers Criticise Rockstar's Decision to Force Staff Back to the Office](https://www.ign.com/articles/gta-6-developers-criticise-rockstars-reckless-decision-to-force-staff-back-to-the-office)
 * [2024-02-29, 21:03:47](https://news.ycombinator.com/item?id=39555055) - [Boiling Water May Help Remove Up to 90% of Microplastics](https://www.healthline.com/health-news/boiling-water-may-help-remove-up-to-90-of-microplastics)
 * [2024-02-29, 20:55:55](https://news.ycombinator.com/item?id=39554940) - [ICANN Is Not the Internet Content Police (2015)](https://www.icann.org/en/blogs/details/icann-is-not-the-internet-content-police-12-6-2015-en)
 * [2024-02-29, 20:50:50](https://news.ycombinator.com/item?id=39554874) - [Defcon: Meta's system for preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
-* [2024-02-29, 20:22:43](https://news.ycombinator.com/item?id=39554539) - [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
 * [2024-02-29, 19:38:07](https://news.ycombinator.com/item?id=39553981) - [A mechanical keyboard with programmable knobs and full color screen panel](https://knob.design/)
 * [2024-02-29, 19:36:44](https://news.ycombinator.com/item?id=39553967) - [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
 * [2024-02-29, 19:21:48](https://news.ycombinator.com/item?id=39553801) - [Financial systems take a holiday](https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/)
-* [2024-02-29, 19:17:36](https://news.ycombinator.com/item?id=39553743) - [Money bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
 * [2024-02-29, 19:06:57](https://news.ycombinator.com/item?id=39553601) - [Learning to be managed](https://medium.com/@theholy7/learning-to-be-managed-630e31c52282)
 * [2024-02-29, 17:36:44](https://news.ycombinator.com/item?id=39552446) - [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
 * [2024-02-29, 17:06:39](https://news.ycombinator.com/item?id=39552100) - [The Buckland Review of Autism Employment](https://www.gov.uk/government/publications/the-buckland-review-of-autism-employment-report-and-recommendations/the-buckland-review-of-autism-employment-report-and-recommendations)
@@ -29,6 +28,7 @@
 * [2024-02-28, 11:04:36](https://news.ycombinator.com/item?id=39536437) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
 * [2024-02-28, 07:07:16](https://news.ycombinator.com/item?id=39534937) - [Learn CSS layout the pedantic way (2015)](http://book.mixu.net/css/)
 * [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
+* [2024-02-28, 01:03:44](https://news.ycombinator.com/item?id=39532550) - [Indexed Types for a Statically Safe WebAssembly [pdf]](https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf)
 * [2024-02-27, 20:27:09](https://news.ycombinator.com/item?id=39529374) - ['Entropy bagels' and other complex structures emerge from simple rules](https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/)
 
 ## [Archives](archives/index.md)

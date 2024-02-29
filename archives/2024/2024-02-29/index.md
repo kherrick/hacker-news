@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 21:31:21](https://news.ycombinator.com/item?id=39555416) - [GTA 6 Developers Criticise Rockstar's Decision to Force Staff Back to the Office](https://www.ign.com/articles/gta-6-developers-criticise-rockstars-reckless-decision-to-force-staff-back-to-the-office)
 * [2024-02-29, 21:03:47](https://news.ycombinator.com/item?id=39555055) - [Boiling Water May Help Remove Up to 90% of Microplastics](https://www.healthline.com/health-news/boiling-water-may-help-remove-up-to-90-of-microplastics)
 * [2024-02-29, 20:58:19](https://news.ycombinator.com/item?id=39554978) - [Norwegian Consumer Council files complaint against Meta for GDPR violations](https://www.forbrukerradet.no/side/the-norwegian-consumer-council-files-legal-complaint-against-meta-for-numerous-violations-of-the-gdpr/)
 * [2024-02-29, 20:55:55](https://news.ycombinator.com/item?id=39554940) - [ICANN Is Not the Internet Content Police (2015)](https://www.icann.org/en/blogs/details/icann-is-not-the-internet-content-police-12-6-2015-en)
