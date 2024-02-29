@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-29, 00:49:52](https://news.ycombinator.com/item?id=39545378) - [Platforms are selling your work to AI vendors with impunity. They need to stop](https://werd.io/2024/platforms-are-selling-your-work-to-ai-vendors-with-impunity)
+* [2024-02-29, 01:22:12](https://news.ycombinator.com/item?id=39545574) - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
 * [2024-02-28, 23:09:41](https://news.ycombinator.com/item?id=39544698) - [Optimize sgemm on RISC-V platform](https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444)
 * [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 * [2024-02-28, 20:52:32](https://news.ycombinator.com/item?id=39543275) - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
