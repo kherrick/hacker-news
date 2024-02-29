@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 11:14:56](https://news.ycombinator.com/item?id=39548058) - [Ask HN: Why is HN so often down?](https://news.ycombinator.com/item?id=39548058)
 * [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
 * [2024-02-29, 04:11:13](https://news.ycombinator.com/item?id=39546333) - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
@@ -14,7 +15,6 @@
 * [2024-02-28, 21:40:41](https://news.ycombinator.com/item?id=39543791) - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 * [2024-02-28, 20:52:32](https://news.ycombinator.com/item?id=39543275) - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
 * [2024-02-28, 17:17:10](https://news.ycombinator.com/item?id=39540919) - [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
-* [2024-02-28, 17:14:17](https://news.ycombinator.com/item?id=39540886) - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 * [2024-02-28, 17:10:09](https://news.ycombinator.com/item?id=39540833) - [Thermodynamics and Statistical Mechanics](https://nicf.net/articles/thermodynamics-statistical-mechanics/)
 * [2024-02-28, 17:05:40](https://news.ycombinator.com/item?id=39540793) - [Calendar meeting links used to spread Mac malware](https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/)
 * [2024-02-28, 15:33:56](https://news.ycombinator.com/item?id=39539252) - [Pql, a pipelined query language that compiles to SQL](https://pql.dev/)
