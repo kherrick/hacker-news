@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
 * [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
 * [2024-02-29, 12:31:09](https://news.ycombinator.com/item?id=39548517) - [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
 * [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
@@ -11,7 +12,6 @@
 * [2024-02-29, 08:51:10](https://news.ycombinator.com/item?id=39547612) - [Bluesky is rolling out Hashtags](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
 * [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra](https://nicf.net/articles/curvature-of-polyhedra/)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [Heinz’s sustainable ketchup cap](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
-* [2024-02-29, 04:11:13](https://news.ycombinator.com/item?id=39546333) - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
 * [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-29, 03:25:28](https://news.ycombinator.com/item?id=39546120) - [Starlink terminal revision 4: overview and tests](https://olegkutkov.me/2024/02/12/starlink-terminal-revision-4-overview-and-tests/)
 * [2024-02-29, 01:38:51](https://news.ycombinator.com/item?id=39545676) - [Over 100k Infected Repos Found on GitHub](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)

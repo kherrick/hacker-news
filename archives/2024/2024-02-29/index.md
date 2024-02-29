@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
 * [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
 * [2024-02-29, 12:38:22](https://news.ycombinator.com/item?id=39548564) - [Google announced Genie AI can generate platform video games](https://mashable.com/article/google-genie-can-create-video-games-2d-platformers)
 * [2024-02-29, 12:31:09](https://news.ycombinator.com/item?id=39548517) - [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
