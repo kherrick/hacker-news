@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 12:04:17](https://news.ycombinator.com/item?id=39548300) - [Implementing RSA from Scratch in JavaScript](https://coderoasis.com/implementing-rsa-from-scratch-in-javascript/)
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
+* [2024-02-29, 11:28:23](https://news.ycombinator.com/item?id=39548074) - [Doom Running on a Toothbrush](https://twitter.com/atc1441/status/1762974846487531834)
 * [2024-02-29, 11:14:56](https://news.ycombinator.com/item?id=39548058) - [Ask HN: Why is HN so often down?](https://news.ycombinator.com/item?id=39548058)
+* [2024-02-29, 10:33:52](https://news.ycombinator.com/item?id=39547976) - [Amazon lobbyists to be barred from European parliament](https://www.techradar.com/pro/amazon-lobbyists-to-be-barred-from-european-parliament)
 * [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
+* [2024-02-29, 09:32:14](https://news.ycombinator.com/item?id=39547820) - [Haskell Weekly – Issue 409](https://haskellweekly.news/issue/409.html)
+* [2024-02-29, 08:51:10](https://news.ycombinator.com/item?id=39547612) - [Bluesky is rolling out Hashtags](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
+* [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra](https://nicf.net/articles/curvature-of-polyhedra/)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
 * [2024-02-29, 05:10:31](https://news.ycombinator.com/item?id=39546580) - [TIGForums Independent Gaming and Gamedev Discussions](https://forums.tigsource.com/)
 * [2024-02-29, 04:40:45](https://news.ycombinator.com/item?id=39546445) - [Environmental risks of car tyre microplastics and other road pollution runoff](https://microplastics.springeropen.com/articles/10.1186/s43591-021-00008-w)
