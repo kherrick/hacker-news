@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 19:37:07](https://news.ycombinator.com/item?id=39553974) - [WhatsApp Chats Will Soon Work with Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)
+* [2024-02-29, 19:30:38](https://news.ycombinator.com/item?id=39553892) - [Apple orders 10 episodes of a Neuromancer TV series](https://arstechnica.com/culture/2024/02/william-gibsons-neuromancer-will-become-an-apple-tv-show/)
+* [2024-02-29, 19:30:00](https://news.ycombinator.com/item?id=39553883) - [Google abandoned \"don't be evil\" – and Gemini is the result](https://www.natesilver.net/p/google-abandoned-dont-be-evil-and)
+* [2024-02-29, 19:17:36](https://news.ycombinator.com/item?id=39553743) - [Money Bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
 * [2024-02-29, 19:06:57](https://news.ycombinator.com/item?id=39553601) - [Learning to Be Managed](https://medium.com/@theholy7/learning-to-be-managed-630e31c52282)
 * [2024-02-29, 18:50:24](https://news.ycombinator.com/item?id=39553360) - [NYT Launches Leak Investigation over Report on Its Israel-Gaza Coverage](https://www.vanityfair.com/news/new-york-times-israel-gaza-leak)
 * [2024-02-29, 18:23:32](https://news.ycombinator.com/item?id=39553007) - [Correlation between height and being a F500 CEO](https://twitter.com/noor_siddiqui_/status/1763095214506619355)

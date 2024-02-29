@@ -22,6 +22,7 @@
 * [2024-02-27, 21:02:22](https://news.ycombinator.com/item?id=39529895) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-27, 20:53:39](https://news.ycombinator.com/item?id=39529775) - [All you need is Wide Events, not \"Metrics, Logs and Traces\"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 * [2024-02-27, 20:50:40](https://news.ycombinator.com/item?id=39529727) - [Srenity Online: Positive Affirmations for SREs](https://www.srenity.online/)
+* [2024-02-27, 20:27:09](https://news.ycombinator.com/item?id=39529374) - ['Entropy bagels' and other complex structures emerge from simple rules](https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/)
 * [2024-02-27, 20:23:50](https://news.ycombinator.com/item?id=39529319) - [Google Stock Slips as Tech Giant Grapples with AI Tool Criticism](https://www.investors.com/news/technology/google-stock-artificial-intelligence-ai-controversy/)
 * [2024-02-27, 19:42:21](https://news.ycombinator.com/item?id=39528726) - [SuperTux](https://github.com/SuperTux/supertux)
 * [2024-02-27, 19:19:03](https://news.ycombinator.com/item?id=39528390) - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
