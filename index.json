@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=39546147"
     ],
     [
-      "An Overseas Experience with Hypertext and Packet Switching",
+      "An overseas experience with hypertext and packet switching",
       "https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 02:04:40",
-      "https://news.ycombinator.com/item?id=39545797"
-    ],
-    [
-      "Winklevoss Twins' Startup Gemini Will Pay Burned Customers $1B",
-      "https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion"
     ]
   ],
   [
@@ -27,6 +17,16 @@
     [
       "Talc – A fast and flexible allocator for no_std and WebAssembly",
       "https://github.com/SFBdragon/talc"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 01:09:44",
+      "https://news.ycombinator.com/item?id=39545501"
+    ],
+    [
+      "The Claro Programming Language",
+      "https://docs.clarolang.com/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=39534574"
     ],
     [
-      "Unreasonably effective – How video games use LUTs and how you can too",
+      "How video games use lookup tables",
       "https://blog.frost.kiwi/WebGL-LUTS-made-simple/"
     ]
   ],
