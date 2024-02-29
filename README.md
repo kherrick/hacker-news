@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 19:06:57](https://news.ycombinator.com/item?id=39553601) - [Learning to Be Managed](https://medium.com/@theholy7/learning-to-be-managed-630e31c52282)
 * [2024-02-29, 18:22:39](https://news.ycombinator.com/item?id=39553000) - [Dune: Part Two Is the Best Sci-Fi Film of the Decade](https://www.esquire.com/entertainment/movies/a46885292/dune-part-two-review/)
 * [2024-02-29, 18:22:34](https://news.ycombinator.com/item?id=39552997) - [The Board of Directors Is in Charge](https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge)
 * [2024-02-29, 18:12:22](https://news.ycombinator.com/item?id=39552882) - [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)
@@ -22,7 +23,6 @@
 * [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-28, 23:39:46](https://news.ycombinator.com/item?id=39544937) - [A Social History of Jell-O Salad (2023)](https://www.seriouseats.com/history-of-jell-o-salad)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
-* [2024-02-28, 18:09:30](https://news.ycombinator.com/item?id=39541631) - [Aviator (YC S21) is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
 * [2024-02-28, 17:29:19](https://news.ycombinator.com/item?id=39541084) - [Transcript of \"Attacks on Anonymity Systems: The Theory\" (2003)](https://github.com/Dicklesworthstone/sassaman_and_dingledine_on_remailers_at_blackhat_2003)
 * [2024-02-28, 17:10:09](https://news.ycombinator.com/item?id=39540833) - [Thermodynamics and Statistical Mechanics](https://nicf.net/articles/thermodynamics-statistical-mechanics/)
 * [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
