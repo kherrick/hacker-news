@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
-* [2024-02-29, 05:10:31](https://news.ycombinator.com/item?id=39546580) - [TIGForums Independent Gaming and Gamedev Discussions](https://forums.tigsource.com/)
 * [2024-02-29, 04:32:06](https://news.ycombinator.com/item?id=39546412) - [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411)
 * [2024-02-29, 04:11:13](https://news.ycombinator.com/item?id=39546333) - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
 * [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
@@ -26,6 +25,7 @@
 * [2024-02-28, 14:51:49](https://news.ycombinator.com/item?id=39538670) - [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
 * [2024-02-28, 14:31:55](https://news.ycombinator.com/item?id=39538425) - ['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
 * [2024-02-28, 13:31:19](https://news.ycombinator.com/item?id=39537608) - [Let Everybody Sing (2016)](https://bittersoutherner.com/sacred-harp-let-everybody-sing)
+* [2024-02-28, 10:06:59](https://news.ycombinator.com/item?id=39536044) - [How to make your GNU Emacs commands 'relevant' for M-X](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsMetaXRelevantCommands)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 * [2024-02-28, 06:19:38](https://news.ycombinator.com/item?id=39534675) - [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 * [2024-02-28, 06:07:31](https://news.ycombinator.com/item?id=39534616) - [The floppy disk music scene](https://www.theverge.com/24034551/floppy-disk-music-scene-underground-diy)
