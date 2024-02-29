@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 17:11:29](https://news.ycombinator.com/item?id=39552159) - [Trudeau government unveils national pharmacare bill](https://www.thestar.com/politics/federal/trudeau-government-unveils-national-pharmacare-bill/article_a7a7b298-d676-11ee-a58f-9be8d8d15760.html)
 * [2024-02-29, 16:24:52](https://news.ycombinator.com/item?id=39551457) - [Neurosurgeon pioneers Alzheimer's, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
 * [2024-02-29, 16:14:34](https://news.ycombinator.com/item?id=39551287) - [Indiana Jones and the $3,500 Headset](https://twitter.com/ActionMovieKid/status/1761383471987970192)
 * [2024-02-29, 16:00:41](https://news.ycombinator.com/item?id=39551115) - [Cloudflare Makes Pingora Rust Framework Open-Source](https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source)
@@ -18,6 +19,7 @@
 * [2024-02-29, 15:29:48](https://news.ycombinator.com/item?id=39550645) - [Memory Safe TLS Library Now Has AWS Crypto and FIPS](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
 * [2024-02-29, 15:01:57](https://news.ycombinator.com/item?id=39550202) - [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
 * [2024-02-29, 14:57:03](https://news.ycombinator.com/item?id=39550124) - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
+* [2024-02-29, 14:54:33](https://news.ycombinator.com/item?id=39550081) - [Crypto firm Gemini to pay over $1B back to customers in settlement](https://www.theverge.com/2024/2/29/24086501/crypto-firm-gemini-ny-regulator-settlement)
 * [2024-02-29, 14:42:11](https://news.ycombinator.com/item?id=39549896) - [Async Rust in a Nutshell](https://www.shuttle.rs/blog/2024/02/29/async-rust)
 * [2024-02-29, 14:39:32](https://news.ycombinator.com/item?id=39549858) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 14:38:09](https://news.ycombinator.com/item?id=39549838) - [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)

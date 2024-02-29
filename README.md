@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 17:11:29](https://news.ycombinator.com/item?id=39552159) - [Trudeau government unveils national pharmacare bill](https://www.thestar.com/politics/federal/trudeau-government-unveils-national-pharmacare-bill/article_a7a7b298-d676-11ee-a58f-9be8d8d15760.html)
 * [2024-02-29, 16:24:52](https://news.ycombinator.com/item?id=39551457) - [Neurosurgeon pioneers Alzheimer's, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
 * [2024-02-29, 16:00:41](https://news.ycombinator.com/item?id=39551115) - [Cloudflare Makes Pingora Rust Framework Open-Source](https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source)
 * [2024-02-29, 15:57:44](https://news.ycombinator.com/item?id=39551064) - [Show HN: We Built the Fastest Spreadsheet](https://rowzero.io)
 * [2024-02-29, 15:45:47](https://news.ycombinator.com/item?id=39550891) - [Scientists get closer to solving chemical puzzle of the origin of life](https://www.washingtonpost.com/climate-environment/2024/02/29/life-earth-origin-chemistry/)
 * [2024-02-29, 15:42:24](https://news.ycombinator.com/item?id=39550837) - [Niklaus Wirth, software developer who saw power in simplicity, dies at 89](https://www.washingtonpost.com/obituaries/2024/02/28/niklaus-wirth-pascal-software-dies/)
-* [2024-02-29, 15:32:57](https://news.ycombinator.com/item?id=39550689) - [Why a White House Plan to Fund Office-to-Housing Conversions Isn't Working](https://www.bloomberg.com/news/features/2024-02-29/white-house-funds-to-convert-offices-to-housing-find-few-takers)
 * [2024-02-29, 15:01:57](https://news.ycombinator.com/item?id=39550202) - [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
 * [2024-02-29, 14:57:03](https://news.ycombinator.com/item?id=39550124) - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
+* [2024-02-29, 14:54:33](https://news.ycombinator.com/item?id=39550081) - [Crypto firm Gemini to pay over $1B back to customers in settlement](https://www.theverge.com/2024/2/29/24086501/crypto-firm-gemini-ny-regulator-settlement)
 * [2024-02-29, 14:38:09](https://news.ycombinator.com/item?id=39549838) - [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
 * [2024-02-29, 14:04:14](https://news.ycombinator.com/item?id=39549415) - ['Entropy Bagels' and Other Complex Structures Emerge from Simple Rules](https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/)
 * [2024-02-29, 13:45:44](https://news.ycombinator.com/item?id=39549194) - [Show HN: Workout Tracker – self-hosted, single binary web application](https://github.com/jovandeginste/workout-tracker)
@@ -28,7 +29,6 @@
 * [2024-02-28, 11:04:36](https://news.ycombinator.com/item?id=39536437) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
 * [2024-02-28, 09:28:43](https://news.ycombinator.com/item?id=39535800) - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 * [2024-02-28, 07:07:16](https://news.ycombinator.com/item?id=39534937) - [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)
-* [2024-02-28, 06:19:38](https://news.ycombinator.com/item?id=39534675) - [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 * [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 
 ## [Archives](archives/index.md)
