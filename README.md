@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-29, 19:20:35](https://news.ycombinator.com/item?id=39553787) - [Are We Wayland Yet?](https://arewewaylandyet.com/)
 * [2024-02-29, 19:17:36](https://news.ycombinator.com/item?id=39553743) - [Money Bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
 * [2024-02-29, 19:06:57](https://news.ycombinator.com/item?id=39553601) - [Learning to Be Managed](https://medium.com/@theholy7/learning-to-be-managed-630e31c52282)
 * [2024-02-29, 18:22:34](https://news.ycombinator.com/item?id=39552997) - [The Board of Directors Is in Charge](https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge)
@@ -19,7 +20,6 @@
 * [2024-02-29, 12:18:20](https://news.ycombinator.com/item?id=39548410) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can we get more decentralised than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
-* [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [Heinz’s sustainable ketchup cap](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
 * [2024-02-28, 23:01:47](https://news.ycombinator.com/item?id=39544640) - [Draw is now Open Source](https://rudyfaile.com/2020/08/10/draw-is-now-open-source/)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
