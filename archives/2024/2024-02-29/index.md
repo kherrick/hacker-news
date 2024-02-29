@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 20:22:43](https://news.ycombinator.com/item?id=39554539) - [Ask HN: Did you encounter any Leap Year bugs today? How bad was it?](https://news.ycombinator.com/item?id=39554539)
+* [2024-02-29, 20:13:36](https://news.ycombinator.com/item?id=39554427) - [Are US EV sales a disaster or a booming segment? The answer may be both](https://www.bbc.com/worklife/article/20240228-are-us-ev-sales-a-disaster-or-a-booming-segment-the-answer-may-be-both)
 * [2024-02-29, 19:37:07](https://news.ycombinator.com/item?id=39553974) - [WhatsApp Chats Will Soon Work with Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)
+* [2024-02-29, 19:36:44](https://news.ycombinator.com/item?id=39553967) - [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
 * [2024-02-29, 19:30:38](https://news.ycombinator.com/item?id=39553892) - [Apple orders 10 episodes of a Neuromancer TV series](https://arstechnica.com/culture/2024/02/william-gibsons-neuromancer-will-become-an-apple-tv-show/)
 * [2024-02-29, 19:30:00](https://news.ycombinator.com/item?id=39553883) - [Google abandoned \"don't be evil\" – and Gemini is the result](https://www.natesilver.net/p/google-abandoned-dont-be-evil-and)
 * [2024-02-29, 19:20:35](https://news.ycombinator.com/item?id=39553787) - [Are We Wayland Yet?](https://arewewaylandyet.com/)
