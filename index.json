@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-02-28, 23:32:05",
-      "https://news.ycombinator.com/item?id=39544865"
+      "2024-02-28, 23:18:04",
+      "https://news.ycombinator.com/item?id=39544769"
     ],
     [
-      "Electric bikes give more exercise than pedal bikes",
-      "https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/"
+      "The financial value of open source software",
+      "https://lemire.me/blog/2014/04/14/the-financial-value-of-open-source-software/"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 23:09:41",
+      "https://news.ycombinator.com/item?id=39544698"
+    ],
+    [
+      "Optimize sgemm on RISC-V platform",
+      "https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444"
     ]
   ],
   [
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2024-02-28, 20:53:59",
-      "https://news.ycombinator.com/item?id=39543291"
-    ],
-    [
-      "HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD",
-      "https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 20:52:32",
       "https://news.ycombinator.com/item?id=39543275"
     ],
     [
       "Show HN: CriticalPath – Advanced Profiler for Android",
       "https://crpath.app"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 20:25:33",
-      "https://news.ycombinator.com/item?id=39543034"
-    ],
-    [
-      "EU countries already hitting some of their sustainable energy targets for 2030",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297856"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Globe Explorer",
       "https://explorer.globe.engineer/"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 17:05:40",
+      "https://news.ycombinator.com/item?id=39540793"
+    ],
+    [
+      "Calendar Meeting Links Used to Spread Mac Malware",
+      "https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/"
     ]
   ],
   [
