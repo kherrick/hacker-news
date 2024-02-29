@@ -20,6 +20,7 @@
 * [2024-02-29, 14:38:09](https://news.ycombinator.com/item?id=39549838) - [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
 * [2024-02-29, 14:17:40](https://news.ycombinator.com/item?id=39549543) - [ExxonMobil is suing investors who want tougher action on climate change](https://www.npr.org/2024/02/29/1234358133/exxon-climate-change-oil-fossil-fuels-shareholders-investors-lawsuit)
 * [2024-02-29, 14:11:59](https://news.ycombinator.com/item?id=39549486) - [You've just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
+* [2024-02-29, 14:04:14](https://news.ycombinator.com/item?id=39549415) - ['Entropy Bagels' and Other Complex Structures Emerge from Simple Rules](https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/)
 * [2024-02-29, 14:00:55](https://news.ycombinator.com/item?id=39549380) - [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
 * [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
 * [2024-02-29, 13:57:37](https://news.ycombinator.com/item?id=39549334) - [European media orgs legal action against Google](https://adtechclaim.eu/february-2024-case/)
