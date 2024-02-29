@@ -6,6 +6,8 @@
 
 * [2024-02-28, 23:32:05](https://news.ycombinator.com/item?id=39544865) - [Electric bikes give more exercise than pedal bikes](https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/)
 * [2024-02-28, 23:20:46](https://news.ycombinator.com/item?id=39544790) - [Speedy SD Express cards have gone nowhere for years, Samsung could change that](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)
+* [2024-02-28, 23:18:04](https://news.ycombinator.com/item?id=39544769) - [The financial value of open source software](https://lemire.me/blog/2014/04/14/the-financial-value-of-open-source-software/)
+* [2024-02-28, 23:09:41](https://news.ycombinator.com/item?id=39544698) - [Optimize sgemm on RISC-V platform](https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444)
 * [2024-02-28, 22:27:36](https://news.ycombinator.com/item?id=39544286) - [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement)
 * [2024-02-28, 22:24:24](https://news.ycombinator.com/item?id=39544252) - [GitHub besieged by malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/)
 * [2024-02-28, 21:59:27](https://news.ycombinator.com/item?id=39544012) - [Google CEO Sundar Pichai Says Its Malfunctioning Gemini AI Is 'Unacceptable'](https://gizmodo.com/sundar-pichai-gemini-image-generator-ai-racism-1851292676)
@@ -38,6 +40,7 @@
 * [2024-02-28, 17:11:36](https://news.ycombinator.com/item?id=39540851) - [The $25B Kroger-Albertsons Merger Is Going to Fail](https://www.thebignewsletter.com/p/the-25b-kroger-albertsons-merger)
 * [2024-02-28, 17:10:50](https://news.ycombinator.com/item?id=39540841) - [RAR 7.0 Released](https://www.rarlab.com/rarnew.htm)
 * [2024-02-28, 17:07:08](https://news.ycombinator.com/item?id=39540807) - [Globe Explorer](https://explorer.globe.engineer/)
+* [2024-02-28, 17:05:40](https://news.ycombinator.com/item?id=39540793) - [Calendar Meeting Links Used to Spread Mac Malware](https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/)
 * [2024-02-28, 17:01:55](https://news.ycombinator.com/item?id=39540738) - [How The Pentagon Learned to Use Targeted Ads to Find Its Targets](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
 * [2024-02-28, 16:43:20](https://news.ycombinator.com/item?id=39540445) - [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
 * [2024-02-28, 16:39:24](https://news.ycombinator.com/item?id=39540371) - [Biden orders crackdown on selling Americans' personal data abroad](https://www.theverge.com/2024/2/28/24085572/biden-executive-order-personal-data-transfer-china-privacy-surveillance)
