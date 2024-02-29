@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 22:56:58](https://news.ycombinator.com/item?id=39556325) - [HP wants you to pay up to $36/month to rent a printer that it monitors](https://arstechnica.com/gadgets/2024/02/hp-wants-you-to-pay-up-to-36-month-to-rent-a-printer-that-it-monitors/)
+* [2024-02-29, 22:41:56](https://news.ycombinator.com/item?id=39556206) - [Ask HN: Nobody interested in an open hardware iPod Nano?](https://news.ycombinator.com/item?id=39556206)
+* [2024-02-29, 22:37:17](https://news.ycombinator.com/item?id=39556161) - [Nvidia GeForce RTX 5090 could be up to 70% faster than the 4090](https://www.techradar.com/computing/gpu/nvidia-geforce-rtx-5090-could-be-up-to-70-faster-than-the-4090-but-its-best-chips-might-be-reserved-for-ai)
 * [2024-02-29, 22:18:38](https://news.ycombinator.com/item?id=39555966) - [Today's only half of the leap year fun](http://rachelbythebay.com/w/2024/02/29/tib/)
 * [2024-02-29, 22:02:09](https://news.ycombinator.com/item?id=39555791) - [Enlightenment Is a Window Manager, Compositor and Minimal Desktop for Linux](https://www.enlightenment.org/)
 * [2024-02-29, 21:52:13](https://news.ycombinator.com/item?id=39555675) - [Functional Ownership Through Fractional Uniqueness](https://arxiv.org/abs/2310.18166)
