@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 10:29:33](https://news.ycombinator.com/item?id=39560466) - [AI Regurgitating Propaganda](https://mastodon.ie/@Eralea@mastodon.art/112012449057175121)
 * [2024-03-01, 10:20:19](https://news.ycombinator.com/item?id=39560413) - [La Bougie Du Sapeur](https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur)
 * [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Senior React and State Architect in Paris (Mobx)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-01, 09:37:08](https://news.ycombinator.com/item?id=39560180) - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
