@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2024-03-01, 10:20:19",
-      "https://news.ycombinator.com/item?id=39560413"
-    ],
-    [
-      "La Bougie Du Sapeur",
-      "https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur"
-    ]
-  ],
-  [
-    [
       "2024-03-01, 09:50:20",
       "https://news.ycombinator.com/item?id=39560250"
     ],
     [
       "Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)",
       "https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 09:44:25",
-      "https://news.ycombinator.com/item?id=39560215"
-    ],
-    [
-      "Open-Source Observability – SigNoz",
-      "https://signoz.io/"
     ]
   ],
   [
@@ -71,32 +51,22 @@
   ],
   [
     [
+      "2024-03-01, 08:13:17",
+      "https://news.ycombinator.com/item?id=39559691"
+    ],
+    [
+      "Apple Silicon: A little help from friends and co-processors",
+      "https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 07:19:15",
       "https://news.ycombinator.com/item?id=39559411"
     ],
     [
       "CACM Is Now Open Access",
       "https://cacm.acm.org/news/cacm-is-now-open-access-2/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 07:15:57",
-      "https://news.ycombinator.com/item?id=39559390"
-    ],
-    [
-      "New Applications of Clifford's Geometric Algebra",
-      "https://hal.science/hal-03603294/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 07:02:12",
-      "https://news.ycombinator.com/item?id=39559318"
-    ],
-    [
-      "You can't make an open source HDMI 2.1 driver",
-      "https://arstechnica.com/gadgets/2024/02/hdmi-forum-to-amd-no-you-cant-make-an-open-source-hdmi-2-1-driver/"
     ]
   ],
   [
@@ -161,22 +131,22 @@
   ],
   [
     [
-      "2024-02-29, 21:37:14",
-      "https://news.ycombinator.com/item?id=39555493"
-    ],
-    [
-      "Experimenting with GC-less (heap-less) Java",
-      "https://maximullaris.com/gc_less_java.html"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 20:50:50",
       "https://news.ycombinator.com/item?id=39554874"
     ],
     [
       "Defcon: Preventing overload with graceful feature degradation (2023)",
       "https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 20:22:43",
+      "https://news.ycombinator.com/item?id=39554539"
+    ],
+    [
+      "Ask HN: Did you encounter any leap year bugs today?",
+      "https://news.ycombinator.com/item?id=39554539"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2024-02-29, 14:57:03",
+      "https://news.ycombinator.com/item?id=39550124"
+    ],
+    [
+      "A lock-free ring-buffer with contiguous reservations (2019)",
+      "https://ferrous-systems.com/blog/lock-free-ring-buffer/"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 14:11:59",
       "https://news.ycombinator.com/item?id=39549486"
     ],
@@ -217,6 +197,16 @@
     [
       "How a leap second caused havoc with the Internet (2021)",
       "https://www.talesfromtheopsside.com/blog/how-a-leap-second-caused-havoc-with-the-internet/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 12:18:20",
+      "https://news.ycombinator.com/item?id=39548410"
+    ],
+    [
+      "Serving my blog posts as Linux manual pages",
+      "https://jamesg.blog/2024/02/29/linux-manual-pages/"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2024-02-29, 07:25:14",
-      "https://news.ycombinator.com/item?id=39547118"
+      "2024-02-29, 06:48:43",
+      "https://news.ycombinator.com/item?id=39546968"
     ],
     [
-      "Beyond Linux from Scratch",
-      "https://www.linuxfromscratch.org/blfs/view/stable-systemd/index.html"
+      "Via ferratas are finally catching on in the United States",
+      "https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Antarctic English",
       "https://en.wikipedia.org/wiki/Antarctic_English"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 06:00:04",
+      "https://news.ycombinator.com/item?id=39534574"
+    ],
+    [
+      "How video games use lookup tables",
+      "https://blog.frost.kiwi/WebGL-LUTS-made-simple/"
     ]
   ]
 ]
