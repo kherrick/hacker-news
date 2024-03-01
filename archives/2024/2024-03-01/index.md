@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 15:31:28](https://news.ycombinator.com/item?id=39562685) - [Meta rebuffs Google's virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
+* [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. New Growth Trees and the Wood Products They Make](https://hullworks.com/wood/)
 * [2024-03-01, 15:13:31](https://news.ycombinator.com/item?id=39562506) - [Anti-Trans Legislation in the South Is Putting Trans Kids at Risk](https://www.rollingstone.com/culture/culture-features/anti-trans-legislation-the-south-trans-kids-risk-1234977946/)
 * [2024-03-01, 14:55:23](https://news.ycombinator.com/item?id=39562329) - [Keycloak: Modern Authentication and Access Management](https://medium.com/@zaam.oussama/keycloak-modern-authentication-and-access-management-4c17976e4303)
 * [2024-03-01, 14:42:57](https://news.ycombinator.com/item?id=39562231) - [Challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
