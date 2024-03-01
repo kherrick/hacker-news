@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-01, 18:09:20](https://news.ycombinator.com/item?id=39564737) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
+* [2024-03-01, 19:46:29](https://news.ycombinator.com/item?id=39565975) - [A Letter to the European Commission on Apple's Lack of DMA Compliance](https://newsroom.spotify.com/2024-03-01/a-letter-to-the-european-commission-on-apples-lack-of-dma-compliance/)
 * [2024-03-01, 18:05:17](https://news.ycombinator.com/item?id=39564678) - [I accidentally made my link shortener into a malware honeypot](https://app.y.gy/blog/honeypot)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
@@ -24,11 +24,11 @@
 * [2024-03-01, 09:37:08](https://news.ycombinator.com/item?id=39560180) - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
 * [2024-03-01, 08:56:05](https://news.ycombinator.com/item?id=39559966) - [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf)
 * [2024-03-01, 06:55:59](https://news.ycombinator.com/item?id=39559281) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
+* [2024-02-29, 11:10:55](https://news.ycombinator.com/item?id=39548050) - [The game magazine that spent two years taunting a Final Fantasy VIII hater](https://ff8isthe.best/2024/02/the-game-magazine-that-spent-two-years-taunting-a-final-fantasy-viii-hater/)
 * [2024-02-29, 10:31:35](https://news.ycombinator.com/item?id=39547971) - [NVK is now ready for prime time](https://www.collabora.com/news-and-blog/news-and-events/nvk-is-now-ready-for-prime-time.html)
 * [2024-02-29, 09:17:59](https://news.ycombinator.com/item?id=39547748) - [On the genetic basis of tail-loss evolution in humans and apes](https://www.nature.com/articles/s41586-024-07095-8)
 * [2024-02-29, 07:49:09](https://news.ycombinator.com/item?id=39547236) - [How does the sky turn dark at night?](https://apod.nasa.gov/apod/ap240228.html)
 * [2024-02-29, 06:48:43](https://news.ycombinator.com/item?id=39546968) - [Via ferratas are finally catching on in the United States](https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/)
-* [2024-02-29, 03:32:54](https://news.ycombinator.com/item?id=39546150) - [Little Data: How do we query personal data? (2013)](https://www.petekeen.net/little-data)
 * [2024-02-28, 18:51:43](https://news.ycombinator.com/item?id=39542127) - [Why do we need for an Undefined Behavior Annex to C++](https://community.intel.com/t5/Blogs/Tech-Innovation/Tools/Why-do-we-need-a-Undefined-Behavior-Annex-for-the-C-standard/post/1574397)
 
 ## [Archives](archives/index.md)
