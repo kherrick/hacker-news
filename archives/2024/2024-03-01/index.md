@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 13:33:23](https://news.ycombinator.com/item?id=39561594) - [JSR: The JavaScript Registry](https://jsr.io)
 * [2024-03-01, 13:21:19](https://news.ycombinator.com/item?id=39561492) - [Daddy Longlegs Have Been Hiding Extra Eyes from Us](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
+* [2024-03-01, 13:04:41](https://news.ycombinator.com/item?id=39561378) - [Forever chemicals reach extraordinary levels in wildlife at Air Force Base](https://phys.org/news/2024-02-chemicals-extraordinary-wildlife-holloman-air.amp)
 * [2024-03-01, 13:01:50](https://news.ycombinator.com/item?id=39561356) - [The 'Atlanta Magnet Man' is saving our car tires, one bike ride at a time](https://www.wabe.org/the-atlanta-magnet-man-is-saving-our-car-tires-one-bike-ride-at-a-time/)
 * [2024-03-01, 12:13:31](https://news.ycombinator.com/item?id=39561021) - [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://theins.ru/en/politics/269612)
 * [2024-03-01, 11:51:11](https://news.ycombinator.com/item?id=39560887) - [I Accidentally Deleted a Game from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
