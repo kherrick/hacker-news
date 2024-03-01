@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 02:03:33](https://news.ycombinator.com/item?id=39557687) - [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
 * [2024-03-01, 01:04:32](https://news.ycombinator.com/item?id=39557300) - [Spotify pays out 70% of its revenue to record labels](https://twitter.com/carnage4life/status/1763347523509670357)
 * [2024-03-01, 00:56:53](https://news.ycombinator.com/item?id=39557241) - [Opening Up the Matrix.org Foundation](https://matrix.org/blog/2024/02/opening-up-foundation/)
 * [2024-03-01, 00:49:07](https://news.ycombinator.com/item?id=39557188) - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 * [2024-03-01, 00:33:23](https://news.ycombinator.com/item?id=39557098) - [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
 * [2024-03-01, 00:03:10](https://news.ycombinator.com/item?id=39556895) - [Show HN: A curated list of tech related to Autism Spectrum Disorder(ASD)](https://github.com/hbcondo/awesome-autism-tech)
-* [2024-02-29, 23:01:08](https://news.ycombinator.com/item?id=39556353) - [The True Rate of Unemployment](https://www.lisep.org/tru)
 * [2024-02-29, 21:52:13](https://news.ycombinator.com/item?id=39555675) - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
 * [2024-02-29, 21:46:06](https://news.ycombinator.com/item?id=39555598) - [Things You Should Never Do, Part I (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * [2024-02-29, 20:50:50](https://news.ycombinator.com/item?id=39554874) - [Defcon: Preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
