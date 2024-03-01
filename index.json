@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=39564678"
     ],
     [
-      "How I Accidentally Made My Link Shortener into a Malware Honeypot",
+      "I accidentally made my link shortener into a malware honeypot",
       "https://app.y.gy/blog/honeypot"
     ]
   ],
@@ -111,22 +111,22 @@
   ],
   [
     [
+      "2024-03-01, 15:15:13",
+      "https://news.ycombinator.com/item?id=39562530"
+    ],
+    [
+      "Old vs. new growth trees and the wood products they make",
+      "https://hullworks.com/wood/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 15:09:54",
       "https://news.ycombinator.com/item?id=39562467"
     ],
     [
       "How we applied fuzzing techniques to cURL",
       "https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 14:44:51",
-      "https://news.ycombinator.com/item?id=39562254"
-    ],
-    [
-      "On the Ocean Conditions of Hycean Worlds",
-      "https://arxiv.org/abs/2402.12330"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-03-01, 13:21:19",
+      "https://news.ycombinator.com/item?id=39561492"
+    ],
+    [
+      "A daddy-longlegs possesses six eyes, including two vestigial pairs",
+      "https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 12:13:31",
       "https://news.ycombinator.com/item?id=39561021"
     ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=39560887"
     ],
     [
-      "I accidentally deleted a game from MAME",
+      "I accidentally deleted a bad game revision from MAME",
       "https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "NVK is now ready for prime time",
       "https://www.collabora.com/news-and-blog/news-and-events/nvk-is-now-ready-for-prime-time.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 08:05:28",
-      "https://news.ycombinator.com/item?id=39547332"
-    ],
-    [
-      "Some Reflections on Writing Unix Daemon",
-      "https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html"
     ]
   ],
   [
