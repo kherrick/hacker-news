@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-01, 03:42:14](https://news.ycombinator.com/item?id=39558301) - [Dune: Part Two Is Huge, Kind of Great, and Here to Save Movies](https://www.vogue.com/article/dune-part-two-review)
+* [2024-03-01, 03:53:26](https://news.ycombinator.com/item?id=39558365) - [Docusign just admitted that they use customer data to train AI](https://twitter.com/nixcraft/status/1763124892986474689)
 * [2024-03-01, 03:01:22](https://news.ycombinator.com/item?id=39558072) - [Meta to Wind Down Its News Feature in the US and Australia](https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia)
-* [2024-03-01, 02:18:45](https://news.ycombinator.com/item?id=39557794) - [Study finds link between marijuana use and cardiovascular disease](https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/)
 * [2024-03-01, 02:02:19](https://news.ycombinator.com/item?id=39557681) - [Alcohol-Related Deaths Surge to Nearly 500 a Day, CDC Says](https://www.nytimes.com/2024/02/29/health/alcohol-deaths-cdc.html)
 * [2024-03-01, 01:37:14](https://news.ycombinator.com/item?id=39557500) - [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
 * [2024-03-01, 00:49:07](https://news.ycombinator.com/item?id=39557188) - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
@@ -10,6 +9,7 @@
 * [2024-03-01, 00:27:14](https://news.ycombinator.com/item?id=39557055) - [Sparrow: Distributed, Low Latency Scheduling [pdf]](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
 * [2024-02-29, 21:52:13](https://news.ycombinator.com/item?id=39555675) - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
 * [2024-02-29, 21:46:06](https://news.ycombinator.com/item?id=39555598) - [Things You Should Never Do, Part I (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+* [2024-02-29, 21:37:14](https://news.ycombinator.com/item?id=39555493) - [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
 * [2024-02-29, 20:50:50](https://news.ycombinator.com/item?id=39554874) - [Defcon: Preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
 * [2024-02-29, 20:22:43](https://news.ycombinator.com/item?id=39554539) - [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
 * [2024-02-29, 19:36:44](https://news.ycombinator.com/item?id=39553967) - [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
