@@ -93,6 +93,7 @@
 * [2024-02-29, 11:28:23](https://news.ycombinator.com/item?id=39548074) - [Doom Running on a Toothbrush](https://twitter.com/atc1441/status/1762974846487531834)
 * [2024-02-29, 11:14:56](https://news.ycombinator.com/item?id=39548058) - [Ask HN: Why is HN so often down?](https://news.ycombinator.com/item?id=39548058)
 * [2024-02-29, 10:33:52](https://news.ycombinator.com/item?id=39547976) - [Amazon lobbyists to be barred from European parliament](https://www.techradar.com/pro/amazon-lobbyists-to-be-barred-from-european-parliament)
+* [2024-02-29, 10:31:35](https://news.ycombinator.com/item?id=39547971) - [NVK is now ready for prime time](https://www.collabora.com/news-and-blog/news-and-events/nvk-is-now-ready-for-prime-time.html)
 * [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 * [2024-02-29, 09:32:14](https://news.ycombinator.com/item?id=39547820) - [Haskell Weekly – Issue 409](https://haskellweekly.news/issue/409.html)
 * [2024-02-29, 08:51:10](https://news.ycombinator.com/item?id=39547612) - [Bluesky is rolling out Hashtags](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
