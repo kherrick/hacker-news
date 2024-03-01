@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 21:02:59](https://news.ycombinator.com/item?id=39566766) - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
+* [2024-03-01, 19:54:30](https://news.ycombinator.com/item?id=39566064) - [Lazarus and the FudModule rootkit: Beyond BYOVD with an admin-to-kernel zero-day](https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/)
 * [2024-03-01, 19:54:30](https://news.ycombinator.com/item?id=39566064) - [Lazarus Group observed exploiting an admin-to-kernel Windows zero-day](https://www.scmagazine.com/news/lazarus-group-observed-exploiting-an-admin-to-kernel-windows-zero-day)
 * [2024-03-01, 19:48:52](https://news.ycombinator.com/item?id=39565998) - [Socialism when I buy, Capitalism when I sell](https://shobhitic.github.io/socialism-capitalism)
 * [2024-03-01, 19:46:29](https://news.ycombinator.com/item?id=39565975) - [A Letter to the European Commission on Apple's Lack of DMA Compliance](https://newsroom.spotify.com/2024-03-01/a-letter-to-the-european-commission-on-apples-lack-of-dma-compliance/)
@@ -19,6 +21,7 @@
 * [2024-03-01, 17:33:54](https://news.ycombinator.com/item?id=39564254) - [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
 * [2024-03-01, 17:28:11](https://news.ycombinator.com/item?id=39564172) - [Marchintosh](https://www.marchintosh.com/)
 * [2024-03-01, 17:15:55](https://news.ycombinator.com/item?id=39563982) - [Apple backs off killing web apps, but the fight continues](https://open-web-advocacy.org/blog/apple-backs-off-killing-web-apps/)
+* [2024-03-01, 16:55:34](https://news.ycombinator.com/item?id=39563709) - [To my ear, the octave ukulele sounds a little like a cello](https://sites.google.com/view/octaveukes)
 * [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
 * [2024-03-01, 16:42:11](https://news.ycombinator.com/item?id=39563528) - [The Humbugs of the World (1866)](https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up)
 * [2024-03-01, 16:25:00](https://news.ycombinator.com/item?id=39563305) - [Show HN: Replay your typing in a few lines of JavaScript](https://einenlum.github.io/human-replay/)
