@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 06:55:59](https://news.ycombinator.com/item?id=39559281) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * [2024-03-01, 04:13:04](https://news.ycombinator.com/item?id=39558464) - [Revealed: The names linked to ClothOff, the deepfake pornography app](https://www.theguardian.com/technology/2024/feb/29/clothoff-deepfake-ai-pornography-app-names-linked-revealed)
 * [2024-03-01, 03:56:14](https://news.ycombinator.com/item?id=39558376) - [Flexible Schemas Are the Mindkiller – Ludicity](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 * [2024-03-01, 03:53:26](https://news.ycombinator.com/item?id=39558365) - [Docusign just admitted that they use customer data to train AI](https://twitter.com/nixcraft/status/1763124892986474689)
