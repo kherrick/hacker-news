@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
 * [2024-03-01, 16:22:24](https://news.ycombinator.com/item?id=39563266) - [Apple says iOS 17.4 won't remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
 * [2024-03-01, 16:00:03](https://news.ycombinator.com/item?id=39562986) - [Ask HN: Who is hiring? (March 2024)](https://news.ycombinator.com/item?id=39562986)
 * [2024-03-01, 15:39:40](https://news.ycombinator.com/item?id=39562760) - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)

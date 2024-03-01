@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
 * [2024-03-01, 16:00:03](https://news.ycombinator.com/item?id=39562986) - [Ask HN: Who is hiring? (March 2024)](https://news.ycombinator.com/item?id=39562986)
 * [2024-03-01, 15:39:40](https://news.ycombinator.com/item?id=39562760) - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
 * [2024-03-01, 15:31:28](https://news.ycombinator.com/item?id=39562685) - [Meta rebuffs Google's virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
@@ -15,7 +16,6 @@
 * [2024-03-01, 12:13:31](https://news.ycombinator.com/item?id=39561021) - [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://theins.ru/en/politics/269612)
 * [2024-03-01, 11:51:11](https://news.ycombinator.com/item?id=39560887) - [I Accidentally Deleted a Game from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
 * [2024-03-01, 11:47:30](https://news.ycombinator.com/item?id=39560862) - [Where Is Noether's Principle in Machine Learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
-* [2024-03-01, 10:38:31](https://news.ycombinator.com/item?id=39560509) - [Ask HN: What AI assistants are already bundled for Linux?](https://news.ycombinator.com/item?id=39560509)
 * [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-01, 09:37:08](https://news.ycombinator.com/item?id=39560180) - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
 * [2024-03-01, 08:56:05](https://news.ycombinator.com/item?id=39559966) - [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf)
