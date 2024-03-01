@@ -87,6 +87,7 @@
 * [2024-02-29, 12:18:20](https://news.ycombinator.com/item?id=39548410) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
 * [2024-02-29, 12:04:17](https://news.ycombinator.com/item?id=39548300) - [Implementing RSA from Scratch in JavaScript](https://coderoasis.com/implementing-rsa-from-scratch-in-javascript/)
+* [2024-02-29, 11:40:18](https://news.ycombinator.com/item?id=39548130) - [Daft: Distributed DataFrame for Python](https://github.com/Eventual-Inc/Daft)
 * [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 * [2024-02-29, 11:29:33](https://news.ycombinator.com/item?id=39548076) - [Ask HN: Code Llama 70B on a dedicated server](https://news.ycombinator.com/item?id=39548076)
 * [2024-02-29, 11:28:23](https://news.ycombinator.com/item?id=39548074) - [Doom Running on a Toothbrush](https://twitter.com/atc1441/status/1762974846487531834)
