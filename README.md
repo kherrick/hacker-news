@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 03:56:14](https://news.ycombinator.com/item?id=39558376) - [Flexible Schemas Are the Mindkiller – Ludicity](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 * [2024-03-01, 03:53:26](https://news.ycombinator.com/item?id=39558365) - [Docusign just admitted that they use customer data to train AI](https://twitter.com/nixcraft/status/1763124892986474689)
 * [2024-03-01, 03:37:01](https://news.ycombinator.com/item?id=39558270) - [The \"End of Programming\" will look a lot like programming](https://ben11kehoe.medium.com/the-end-of-programming-will-look-a-lot-like-programming-8b877c8efef8)
-* [2024-03-01, 03:01:22](https://news.ycombinator.com/item?id=39558072) - [Meta to Wind Down Its News Feature in the US and Australia](https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia)
-* [2024-03-01, 02:02:19](https://news.ycombinator.com/item?id=39557681) - [Alcohol-Related Deaths Surge to Nearly 500 a Day, CDC Says](https://www.nytimes.com/2024/02/29/health/alcohol-deaths-cdc.html)
 * [2024-03-01, 01:37:14](https://news.ycombinator.com/item?id=39557500) - [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
 * [2024-03-01, 00:49:07](https://news.ycombinator.com/item?id=39557188) - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 * [2024-03-01, 00:33:23](https://news.ycombinator.com/item?id=39557098) - [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
@@ -22,6 +21,7 @@
 * [2024-02-29, 14:11:59](https://news.ycombinator.com/item?id=39549486) - [You've just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
 * [2024-02-29, 13:45:44](https://news.ycombinator.com/item?id=39549194) - [Show HN: Workout Tracker – self-hosted, single binary web application](https://github.com/jovandeginste/workout-tracker)
 * [2024-02-29, 12:18:20](https://news.ycombinator.com/item?id=39548410) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
+* [2024-02-29, 11:29:33](https://news.ycombinator.com/item?id=39548076) - [Ask HN: Code Llama 70B on a dedicated server](https://news.ycombinator.com/item?id=39548076)
 * [2024-02-29, 06:08:56](https://news.ycombinator.com/item?id=39546795) - [Endatabas: An open source immutable, Document Database with Full History](https://www.endatabas.com/)
 * [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
