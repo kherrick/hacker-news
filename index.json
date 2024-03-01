@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-01, 03:42:14",
-      "https://news.ycombinator.com/item?id=39558301"
+      "2024-03-01, 03:53:26",
+      "https://news.ycombinator.com/item?id=39558365"
     ],
     [
-      "Dune: Part Two Is Huge, Kind of Great, and Here to Save Movies",
-      "https://www.vogue.com/article/dune-part-two-review"
+      "Docusign just admitted that they use customer data to train AI",
+      "https://twitter.com/nixcraft/status/1763124892986474689"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Meta to Wind Down Its News Feature in the US and Australia",
       "https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 02:18:45",
-      "https://news.ycombinator.com/item?id=39557794"
-    ],
-    [
-      "Study finds link between marijuana use and cardiovascular disease",
-      "https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Things You Should Never Do, Part I (2000)",
       "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 21:37:14",
+      "https://news.ycombinator.com/item?id=39555493"
+    ],
+    [
+      "Experimenting with GC-less (heap-less) Java",
+      "https://maximullaris.com/gc_less_java.html"
     ]
   ],
   [
