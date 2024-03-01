@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Senior React and State Architect in Paris (Mobx)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-03-01, 09:08:47](https://news.ycombinator.com/item?id=39560033) - [Company forgets why they exist after 11-week migration to Kubernetes](https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes)
 * [2024-03-01, 08:07:47](https://news.ycombinator.com/item?id=39559667) - [Kappa Beta Phi](https://en.wikipedia.org/wiki/Kappa_Beta_Phi)
 * [2024-03-01, 07:19:15](https://news.ycombinator.com/item?id=39559411) - [CACM Is Now Open Access – Communications of the ACM](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 07:02:12](https://news.ycombinator.com/item?id=39559318) - [You can't make an open source HDMI 2.1 driver](https://arstechnica.com/gadgets/2024/02/hdmi-forum-to-amd-no-you-cant-make-an-open-source-hdmi-2-1-driver/)

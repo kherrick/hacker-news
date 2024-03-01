@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Senior React and State Architect in Paris (Mobx)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-03-01, 09:08:47](https://news.ycombinator.com/item?id=39560033) - [Company forgets why they exist after 11-week migration to Kubernetes](https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes)
 * [2024-03-01, 08:07:47](https://news.ycombinator.com/item?id=39559667) - [Kappa Beta Phi](https://en.wikipedia.org/wiki/Kappa_Beta_Phi)
 * [2024-03-01, 07:19:15](https://news.ycombinator.com/item?id=39559411) - [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 07:02:12](https://news.ycombinator.com/item?id=39559318) - [You can't make an open source HDMI 2.1 driver](https://arstechnica.com/gadgets/2024/02/hdmi-forum-to-amd-no-you-cant-make-an-open-source-hdmi-2-1-driver/)
@@ -9,7 +11,6 @@
 * [2024-03-01, 00:27:14](https://news.ycombinator.com/item?id=39557055) - [Sparrow: Distributed, Low Latency Scheduling (2013) [pdf]](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
 * [2024-03-01, 00:11:39](https://news.ycombinator.com/item?id=39556956) - [Show HN: Predictive text using only 13kb of JavaScript. no LLM](https://www.adamgrant.info/tiny-predictive-text)
 * [2024-02-29, 21:52:13](https://news.ycombinator.com/item?id=39555675) - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
-* [2024-02-29, 21:46:06](https://news.ycombinator.com/item?id=39555598) - [Things You Should Never Do, Part I (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * [2024-02-29, 21:37:14](https://news.ycombinator.com/item?id=39555493) - [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
 * [2024-02-29, 20:50:50](https://news.ycombinator.com/item?id=39554874) - [Defcon: Preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
 * [2024-02-29, 20:22:43](https://news.ycombinator.com/item?id=39554539) - [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
@@ -27,7 +28,6 @@
 * [2024-02-29, 07:25:14](https://news.ycombinator.com/item?id=39547118) - [Beyond Linux from Scratch](https://www.linuxfromscratch.org/blfs/view/stable-systemd/index.html)
 * [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
-* [2024-02-28, 18:34:34](https://news.ycombinator.com/item?id=39541944) - [\"Dune\" and the delicate art of making fictional languages](https://www.newyorker.com/culture/cultural-comment/dune-and-the-delicate-art-of-making-fictional-languages)
 * [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 01:03:44](https://news.ycombinator.com/item?id=39532550) - [Indexed types for a statically safe WebAssembly [pdf]](https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf)
 
