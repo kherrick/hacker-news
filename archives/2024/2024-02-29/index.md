@@ -105,6 +105,7 @@
 * [2024-02-29, 04:03:40](https://news.ycombinator.com/item?id=39546296) - [Mojeek](https://www.mojeek.com/)
 * [2024-02-29, 03:54:23](https://news.ycombinator.com/item?id=39546255) - [Transparent Image Layer Diffusion Using Latent Transparency](https://arxiv.org/abs/2402.17113)
 * [2024-02-29, 03:39:24](https://news.ycombinator.com/item?id=39546180) - [Put a date on your blog post (2014)](http://www.observationalhazard.com/2014/09/put-date-on-your-blog-post.html)
+* [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
 * [2024-02-29, 03:34:10](https://news.ycombinator.com/item?id=39546158) - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
 * [2024-02-29, 03:31:23](https://news.ycombinator.com/item?id=39546147) - [An Overseas Experience with Hypertext and Packet Switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
