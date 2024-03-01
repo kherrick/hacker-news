@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 18:48:05](https://news.ycombinator.com/item?id=39565252) - [ChatGPT and Google Gemini Are Both Doomed](https://nymag.com/intelligencer/article/chatgpt-and-google-gemini-are-both-doomed.html)
 * [2024-03-01, 18:37:27](https://news.ycombinator.com/item?id=39565115) - [CNN leak shows internal distress about double standards on Israel coverage](https://theintercept.com/2024/03/01/cnn-christiane-amanpour-israel-gaza-coverage/)
 * [2024-03-01, 18:09:20](https://news.ycombinator.com/item?id=39564737) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
+* [2024-03-01, 18:05:17](https://news.ycombinator.com/item?id=39564678) - [How I Accidentally Made My Link Shortener into a Malware Honeypot](https://app.y.gy/blog/honeypot)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [First Colecovision BASIC compiler (Z80) now available](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 17:50:58](https://news.ycombinator.com/item?id=39564476) - [I'm totally blind. Here's why I selfhost.](https://old.reddit.com/r/selfhosted/comments/1b3yvs8/im_totally_blind_heres_why_i_selfhost/)
 * [2024-03-01, 17:15:55](https://news.ycombinator.com/item?id=39563982) - [Apple backs off killing web apps, but the fight continues](https://open-web-advocacy.org/blog/apple-backs-off-killing-web-apps/)
@@ -14,6 +16,7 @@
 * [2024-03-01, 16:22:24](https://news.ycombinator.com/item?id=39563266) - [Apple says iOS 17.4 won't remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
 * [2024-03-01, 16:05:51](https://news.ycombinator.com/item?id=39563062) - [Plasma Mobile joins the Plasma 6 megarelease with a new shell and apps](https://plasma-mobile.org/2024/03/01/plasma-6/)
 * [2024-03-01, 16:00:03](https://news.ycombinator.com/item?id=39562986) - [Ask HN: Who is hiring? (March 2024)](https://news.ycombinator.com/item?id=39562986)
+* [2024-03-01, 16:00:02](https://news.ycombinator.com/item?id=39562984) - [Ask HN: Who wants to be hired? (March 2024)](https://news.ycombinator.com/item?id=39562984)
 * [2024-03-01, 15:39:40](https://news.ycombinator.com/item?id=39562760) - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
 * [2024-03-01, 15:31:28](https://news.ycombinator.com/item?id=39562685) - [Meta rebuffs Google's virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
 * [2024-03-01, 15:24:09](https://news.ycombinator.com/item?id=39562610) - [Clock Made Power Grids Possible](https://spectrum.ieee.org/history-of-power-grid)
