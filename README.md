@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-01, 19:54:30](https://news.ycombinator.com/item?id=39566064) - [Lazarus Group observed exploiting an admin-to-kernel Windows zero-day](https://www.scmagazine.com/news/lazarus-group-observed-exploiting-an-admin-to-kernel-windows-zero-day)
-* [2024-03-01, 19:48:52](https://news.ycombinator.com/item?id=39565998) - [Socialism when I buy, Capitalism when I sell](https://shobhitic.github.io/socialism-capitalism)
+* [2024-03-01, 19:26:09](https://news.ycombinator.com/item?id=39565740) - [iOS 17.4 won't remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
 * [2024-03-01, 18:05:17](https://news.ycombinator.com/item?id=39564678) - [I accidentally made my link shortener into a malware honeypot](https://app.y.gy/blog/honeypot)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
