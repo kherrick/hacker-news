@@ -3,7 +3,7 @@
 * [2024-03-01, 04:13:04](https://news.ycombinator.com/item?id=39558464) - [Revealed: The names linked to ClothOff, the deepfake pornography app](https://www.theguardian.com/technology/2024/feb/29/clothoff-deepfake-ai-pornography-app-names-linked-revealed)
 * [2024-03-01, 03:56:14](https://news.ycombinator.com/item?id=39558376) - [Flexible Schemas Are the Mindkiller – Ludicity](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 * [2024-03-01, 03:53:26](https://news.ycombinator.com/item?id=39558365) - [Docusign just admitted that they use customer data to train AI](https://twitter.com/nixcraft/status/1763124892986474689)
-* [2024-03-01, 03:37:01](https://news.ycombinator.com/item?id=39558270) - [The \"End of Programming\" will look a lot like programming](https://ben11kehoe.medium.com/the-end-of-programming-will-look-a-lot-like-programming-8b877c8efef8)
+* [2024-03-01, 03:37:01](https://news.ycombinator.com/item?id=39558270) - [The \"End of Programming\" will look a lot like programming (2023)](https://ben11kehoe.medium.com/the-end-of-programming-will-look-a-lot-like-programming-8b877c8efef8)
 * [2024-03-01, 01:37:14](https://news.ycombinator.com/item?id=39557500) - [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
 * [2024-03-01, 00:49:07](https://news.ycombinator.com/item?id=39557188) - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 * [2024-03-01, 00:33:23](https://news.ycombinator.com/item?id=39557098) - [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
