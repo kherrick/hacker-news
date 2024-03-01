@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 14:42:57](https://news.ycombinator.com/item?id=39562231) - [Challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
 * [2024-03-01, 14:00:02](https://news.ycombinator.com/item?id=39561816) - [Stack Overflow to charge LLM developers for access to its coding content](https://www.theregister.com/2024/03/01/stack_overflow_launches_api_to/)
 * [2024-03-01, 13:57:30](https://news.ycombinator.com/item?id=39561799) - [Colony Graphs: Visualizing the Cloud](https://www.brendangregg.com/ColonyGraphs/cloud.html)
 * [2024-03-01, 13:41:30](https://news.ycombinator.com/item?id=39561656) - [Seismology of rubble-pile asteroids in binary systems](https://academic.oup.com/mnras/article/528/4/6568/7596572)

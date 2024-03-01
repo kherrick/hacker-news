@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 14:42:57](https://news.ycombinator.com/item?id=39562231) - [Challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
 * [2024-03-01, 14:00:02](https://news.ycombinator.com/item?id=39561816) - [Stack Overflow to charge LLM developers for access to its coding content](https://www.theregister.com/2024/03/01/stack_overflow_launches_api_to/)
 * [2024-03-01, 13:57:30](https://news.ycombinator.com/item?id=39561799) - [Colony Graphs: Visualizing the Cloud](https://www.brendangregg.com/ColonyGraphs/cloud.html)
 * [2024-03-01, 13:41:30](https://news.ycombinator.com/item?id=39561656) - [Seismology of rubble-pile asteroids in binary systems](https://academic.oup.com/mnras/article/528/4/6568/7596572)
@@ -9,7 +10,6 @@
 * [2024-03-01, 12:13:31](https://news.ycombinator.com/item?id=39561021) - [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://theins.ru/en/politics/269612)
 * [2024-03-01, 11:51:11](https://news.ycombinator.com/item?id=39560887) - [I Accidentally Deleted a Game from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
 * [2024-03-01, 11:47:30](https://news.ycombinator.com/item?id=39560862) - [Where Is Noether's Principle in Machine Learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
-* [2024-03-01, 11:15:34](https://news.ycombinator.com/item?id=39560705) - [Where I'm at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/)
 * [2024-03-01, 10:38:31](https://news.ycombinator.com/item?id=39560509) - [Ask HN: What AI assistants are already bundled for Linux?](https://news.ycombinator.com/item?id=39560509)
 * [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-01, 09:37:08](https://news.ycombinator.com/item?id=39560180) - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
