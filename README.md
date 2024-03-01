@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-01, 02:03:33](https://news.ycombinator.com/item?id=39557687) - [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
-* [2024-03-01, 01:04:32](https://news.ycombinator.com/item?id=39557300) - [Spotify pays out 70% of its revenue to record labels](https://twitter.com/carnage4life/status/1763347523509670357)
-* [2024-03-01, 00:56:53](https://news.ycombinator.com/item?id=39557241) - [Opening Up the Matrix.org Foundation](https://matrix.org/blog/2024/02/opening-up-foundation/)
+* [2024-03-01, 01:34:33](https://news.ycombinator.com/item?id=39557484) - [Tesla to Face Nearly 6k Black Workers in Factory Racism Lawsuit](https://time.com/6836236/tesla-racism-lawsuit-black-workers-california/)
 * [2024-03-01, 00:49:07](https://news.ycombinator.com/item?id=39557188) - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 * [2024-03-01, 00:33:23](https://news.ycombinator.com/item?id=39557098) - [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
 * [2024-03-01, 00:03:10](https://news.ycombinator.com/item?id=39556895) - [Show HN: A curated list of tech related to Autism Spectrum Disorder(ASD)](https://github.com/hbcondo/awesome-autism-tech)
@@ -28,6 +26,8 @@
 * [2024-02-28, 21:16:57](https://news.ycombinator.com/item?id=39543543) - [The Lincoln TX-2 Computer Development (1957) [pdf]](https://dl.acm.org/doi/pdf/10.1145/1455567.1455592)
 * [2024-02-28, 20:05:57](https://news.ycombinator.com/item?id=39542830) - [Wall of stones found beneath Baltic Sea may have helped humans hunt reindeer](https://www.science.org/content/article/strange-wall-stones-found-beneath-baltic-sea-may-have-helped-humans-hunt-reindeer)
 * [2024-02-28, 18:34:34](https://news.ycombinator.com/item?id=39541944) - [\"Dune\" and the delicate art of making fictional languages](https://www.newyorker.com/culture/cultural-comment/dune-and-the-delicate-art-of-making-fictional-languages)
+* [2024-02-28, 07:07:16](https://news.ycombinator.com/item?id=39534937) - [Learn CSS layout the pedantic way (2015)](http://book.mixu.net/css/)
+* [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 01:03:44](https://news.ycombinator.com/item?id=39532550) - [Indexed types for a statically safe WebAssembly [pdf]](https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf)
 * [2024-02-27, 20:27:09](https://news.ycombinator.com/item?id=39529374) - ['Entropy bagels' and other complex structures emerge from simple rules](https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/)
 
