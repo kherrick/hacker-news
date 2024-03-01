@@ -2,6 +2,7 @@
 
 * [2024-03-01, 10:20:19](https://news.ycombinator.com/item?id=39560413) - [La Bougie Du Sapeur](https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur)
 * [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-03-01, 09:37:08](https://news.ycombinator.com/item?id=39560180) - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
 * [2024-03-01, 09:08:47](https://news.ycombinator.com/item?id=39560033) - [Company forgets why they exist after 11-week migration to Kubernetes](https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes)
 * [2024-03-01, 08:07:47](https://news.ycombinator.com/item?id=39559667) - [Kappa Beta Phi](https://en.wikipedia.org/wiki/Kappa_Beta_Phi)
 * [2024-03-01, 07:37:30](https://news.ycombinator.com/item?id=39559517) - [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
@@ -21,7 +22,6 @@
 * [2024-02-29, 19:21:48](https://news.ycombinator.com/item?id=39553801) - [Financial systems take a holiday](https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/)
 * [2024-02-29, 14:57:03](https://news.ycombinator.com/item?id=39550124) - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
 * [2024-02-29, 14:11:59](https://news.ycombinator.com/item?id=39549486) - [You've just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
-* [2024-02-29, 13:47:28](https://news.ycombinator.com/item?id=39549215) - [How a leap second caused havoc with the Internet (2021)](https://www.talesfromtheopsside.com/blog/how-a-leap-second-caused-havoc-with-the-internet/)
 * [2024-02-29, 12:18:20](https://news.ycombinator.com/item?id=39548410) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-02-29, 11:40:18](https://news.ycombinator.com/item?id=39548130) - [Daft: Distributed DataFrame for Python](https://github.com/Eventual-Inc/Daft)
 * [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra (2021)](https://nicf.net/articles/curvature-of-polyhedra/)
