@@ -85,6 +85,7 @@
 * [2024-02-29, 12:38:22](https://news.ycombinator.com/item?id=39548564) - [Google announced Genie AI can generate platform video games](https://mashable.com/article/google-genie-can-create-video-games-2d-platformers)
 * [2024-02-29, 12:31:09](https://news.ycombinator.com/item?id=39548517) - [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
 * [2024-02-29, 12:18:20](https://news.ycombinator.com/item?id=39548410) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
+* [2024-02-29, 12:17:34](https://news.ycombinator.com/item?id=39548403) - [The Butterfly Redemption](https://hakaimagazine.com/features/the-butterfly-redemption/)
 * [2024-02-29, 12:09:11](https://news.ycombinator.com/item?id=39548343) - [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
 * [2024-02-29, 12:04:17](https://news.ycombinator.com/item?id=39548300) - [Implementing RSA from Scratch in JavaScript](https://coderoasis.com/implementing-rsa-from-scratch-in-javascript/)
 * [2024-02-29, 11:40:18](https://news.ycombinator.com/item?id=39548130) - [Daft: Distributed DataFrame for Python](https://github.com/Eventual-Inc/Daft)

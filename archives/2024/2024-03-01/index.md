@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 15:13:31](https://news.ycombinator.com/item?id=39562506) - [Anti-Trans Legislation in the South Is Putting Trans Kids at Risk](https://www.rollingstone.com/culture/culture-features/anti-trans-legislation-the-south-trans-kids-risk-1234977946/)
+* [2024-03-01, 14:55:23](https://news.ycombinator.com/item?id=39562329) - [Keycloak: Modern Authentication and Access Management](https://medium.com/@zaam.oussama/keycloak-modern-authentication-and-access-management-4c17976e4303)
 * [2024-03-01, 14:42:57](https://news.ycombinator.com/item?id=39562231) - [Challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
+* [2024-03-01, 14:30:42](https://news.ycombinator.com/item?id=39562114) - [You too can (should) be a Fractional CTO](https://7ctos.substack.com/p/you-too-can-should-be-a-fractional)
 * [2024-03-01, 14:00:02](https://news.ycombinator.com/item?id=39561816) - [Stack Overflow to charge LLM developers for access to its coding content](https://www.theregister.com/2024/03/01/stack_overflow_launches_api_to/)
 * [2024-03-01, 13:57:30](https://news.ycombinator.com/item?id=39561799) - [Colony Graphs: Visualizing the Cloud](https://www.brendangregg.com/ColonyGraphs/cloud.html)
 * [2024-03-01, 13:41:30](https://news.ycombinator.com/item?id=39561656) - [Seismology of rubble-pile asteroids in binary systems](https://academic.oup.com/mnras/article/528/4/6568/7596572)
