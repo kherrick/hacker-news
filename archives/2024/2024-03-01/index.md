@@ -12,6 +12,7 @@
 * [2024-03-01, 17:50:58](https://news.ycombinator.com/item?id=39564476) - [I'm totally blind. Here's why I selfhost.](https://old.reddit.com/r/selfhosted/comments/1b3yvs8/im_totally_blind_heres_why_i_selfhost/)
 * [2024-03-01, 17:15:55](https://news.ycombinator.com/item?id=39563982) - [Apple backs off killing web apps, but the fight continues](https://open-web-advocacy.org/blog/apple-backs-off-killing-web-apps/)
 * [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
+* [2024-03-01, 16:42:11](https://news.ycombinator.com/item?id=39563528) - [The Humbugs of the World (1866)](https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up)
 * [2024-03-01, 16:25:00](https://news.ycombinator.com/item?id=39563305) - [Show HN: Replay your typing in a few lines of JavaScript](https://einenlum.github.io/human-replay/)
 * [2024-03-01, 16:22:24](https://news.ycombinator.com/item?id=39563266) - [Apple says iOS 17.4 won't remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
 * [2024-03-01, 16:05:51](https://news.ycombinator.com/item?id=39563062) - [Plasma Mobile joins the Plasma 6 megarelease with a new shell and apps](https://plasma-mobile.org/2024/03/01/plasma-6/)

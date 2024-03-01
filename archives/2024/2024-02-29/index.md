@@ -98,6 +98,7 @@
 * [2024-02-29, 10:31:35](https://news.ycombinator.com/item?id=39547971) - [NVK is now ready for prime time](https://www.collabora.com/news-and-blog/news-and-events/nvk-is-now-ready-for-prime-time.html)
 * [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 * [2024-02-29, 09:32:14](https://news.ycombinator.com/item?id=39547820) - [Haskell Weekly – Issue 409](https://haskellweekly.news/issue/409.html)
+* [2024-02-29, 09:17:59](https://news.ycombinator.com/item?id=39547748) - [On the genetic basis of tail-loss evolution in humans and apes](https://www.nature.com/articles/s41586-024-07095-8)
 * [2024-02-29, 08:51:10](https://news.ycombinator.com/item?id=39547612) - [Bluesky is rolling out Hashtags](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
 * [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra](https://nicf.net/articles/curvature-of-polyhedra/)
 * [2024-02-29, 08:05:28](https://news.ycombinator.com/item?id=39547332) - [Some Reflections on Writing Unix Daemon](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
