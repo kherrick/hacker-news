@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
 * [2024-03-01, 03:01:22](https://news.ycombinator.com/item?id=39558072) - [Meta to Wind Down Its News Feature in the US and Australia](https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia)
+* [2024-03-01, 02:49:32](https://news.ycombinator.com/item?id=39557993) - [Genode: FOSDEM 2024 Aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
 * [2024-03-01, 02:23:01](https://news.ycombinator.com/item?id=39557828) - [Tata Institute claims only Rs 100 tablet can prevent recurrent of cancer](https://economictimes.indiatimes.com/news/science/tata-institute-claims-new-breakthrough-cancer-treatment-only-costs-rs-100-heres-what-they-said/articleshow/108058030.cms?from=mdr)
 * [2024-03-01, 02:18:45](https://news.ycombinator.com/item?id=39557794) - [Study finds link between marijuana use and cardiovascular disease](https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/)
 * [2024-03-01, 02:03:33](https://news.ycombinator.com/item?id=39557687) - [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
@@ -15,4 +16,5 @@
 * [2024-03-01, 00:56:53](https://news.ycombinator.com/item?id=39557241) - [Opening Up the Matrix.org Foundation](https://matrix.org/blog/2024/02/opening-up-foundation/)
 * [2024-03-01, 00:49:07](https://news.ycombinator.com/item?id=39557188) - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 * [2024-03-01, 00:33:23](https://news.ycombinator.com/item?id=39557098) - [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
+* [2024-03-01, 00:27:14](https://news.ycombinator.com/item?id=39557055) - [Sparrow: Distributed, Low Latency Scheduling [pdf]](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
 * [2024-03-01, 00:03:10](https://news.ycombinator.com/item?id=39556895) - [Show HN: A curated list of tech related to Autism Spectrum Disorder(ASD)](https://github.com/hbcondo/awesome-autism-tech)
