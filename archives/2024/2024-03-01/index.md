@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 12:13:31](https://news.ycombinator.com/item?id=39561021) - [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://theins.ru/en/politics/269612)
 * [2024-03-01, 11:26:05](https://news.ycombinator.com/item?id=39560769) - [The Lithium-Ion Battery May Not Be the Best Bet for EVs](https://spectrum.ieee.org/ev-batteries-environment)
 * [2024-03-01, 11:15:34](https://news.ycombinator.com/item?id=39560705) - [Where I'm at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/)
 * [2024-03-01, 10:54:04](https://news.ycombinator.com/item?id=39560584) - [Company increased dev productivity 3x by laying off 20% of middle management](https://www.theolognion.com/p/company-accidentally-increased-dev-productivity-3x-by-laying-off-20-of-middle-management)
 * [2024-03-01, 10:29:33](https://news.ycombinator.com/item?id=39560466) - [AI Regurgitating Propaganda](https://mastodon.ie/@Eralea@mastodon.art/112012449057175121)
 * [2024-03-01, 10:20:19](https://news.ycombinator.com/item?id=39560413) - [La Bougie Du Sapeur](https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur)
 * [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Senior React and State Architect in Paris (Mobx)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-03-01, 09:44:25](https://news.ycombinator.com/item?id=39560215) - [Open-Source Observability – SigNoz](https://signoz.io/)
 * [2024-03-01, 09:37:08](https://news.ycombinator.com/item?id=39560180) - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
 * [2024-03-01, 09:08:47](https://news.ycombinator.com/item?id=39560033) - [Company forgets why they exist after 11-week migration to Kubernetes](https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes)
 * [2024-03-01, 08:13:17](https://news.ycombinator.com/item?id=39559691) - [Apple Silicon: A little help from friends and co-processors](https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/)

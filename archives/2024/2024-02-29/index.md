@@ -98,6 +98,7 @@
 * [2024-02-29, 09:32:14](https://news.ycombinator.com/item?id=39547820) - [Haskell Weekly – Issue 409](https://haskellweekly.news/issue/409.html)
 * [2024-02-29, 08:51:10](https://news.ycombinator.com/item?id=39547612) - [Bluesky is rolling out Hashtags](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
 * [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra](https://nicf.net/articles/curvature-of-polyhedra/)
+* [2024-02-29, 08:05:28](https://news.ycombinator.com/item?id=39547332) - [Some Reflections on Writing Unix Daemon](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
 * [2024-02-29, 08:05:16](https://news.ycombinator.com/item?id=39547330) - [The internet turned into a crowded mall. Now you need a corner shop](https://pithandpip.com/blog/15-minute-internet)
 * [2024-02-29, 07:25:14](https://news.ycombinator.com/item?id=39547118) - [Beyond Linux from Scratch](https://www.linuxfromscratch.org/blfs/view/stable-systemd/index.html)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
