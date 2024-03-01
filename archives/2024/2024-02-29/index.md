@@ -97,6 +97,7 @@
 * [2024-02-29, 10:33:52](https://news.ycombinator.com/item?id=39547976) - [Amazon lobbyists to be barred from European parliament](https://www.techradar.com/pro/amazon-lobbyists-to-be-barred-from-european-parliament)
 * [2024-02-29, 10:31:35](https://news.ycombinator.com/item?id=39547971) - [NVK is now ready for prime time](https://www.collabora.com/news-and-blog/news-and-events/nvk-is-now-ready-for-prime-time.html)
 * [2024-02-29, 10:18:17](https://news.ycombinator.com/item?id=39547940) - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
+* [2024-02-29, 09:32:34](https://news.ycombinator.com/item?id=39547822) - [Ask HN: Are there any websites for SQL puzzle games?](https://news.ycombinator.com/item?id=39547822)
 * [2024-02-29, 09:32:14](https://news.ycombinator.com/item?id=39547820) - [Haskell Weekly – Issue 409](https://haskellweekly.news/issue/409.html)
 * [2024-02-29, 09:17:59](https://news.ycombinator.com/item?id=39547748) - [On the genetic basis of tail-loss evolution in humans and apes](https://www.nature.com/articles/s41586-024-07095-8)
 * [2024-02-29, 08:51:10](https://news.ycombinator.com/item?id=39547612) - [Bluesky is rolling out Hashtags](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
