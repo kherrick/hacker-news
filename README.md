@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 04:13:04](https://news.ycombinator.com/item?id=39558464) - [Revealed: The names linked to ClothOff, the deepfake pornography app](https://www.theguardian.com/technology/2024/feb/29/clothoff-deepfake-ai-pornography-app-names-linked-revealed)
 * [2024-03-01, 03:56:14](https://news.ycombinator.com/item?id=39558376) - [Flexible Schemas Are the Mindkiller – Ludicity](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 * [2024-03-01, 03:53:26](https://news.ycombinator.com/item?id=39558365) - [Docusign just admitted that they use customer data to train AI](https://twitter.com/nixcraft/status/1763124892986474689)
 * [2024-03-01, 03:37:01](https://news.ycombinator.com/item?id=39558270) - [The \"End of Programming\" will look a lot like programming](https://ben11kehoe.medium.com/the-end-of-programming-will-look-a-lot-like-programming-8b877c8efef8)
@@ -26,7 +27,6 @@
 * [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
 * [2024-02-28, 21:16:57](https://news.ycombinator.com/item?id=39543543) - [The Lincoln TX-2 Computer Development (1957) [pdf]](https://dl.acm.org/doi/pdf/10.1145/1455567.1455592)
-* [2024-02-28, 18:34:34](https://news.ycombinator.com/item?id=39541944) - [\"Dune\" and the delicate art of making fictional languages](https://www.newyorker.com/culture/cultural-comment/dune-and-the-delicate-art-of-making-fictional-languages)
 * [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 01:03:44](https://news.ycombinator.com/item?id=39532550) - [Indexed types for a statically safe WebAssembly [pdf]](https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf)
 * [2024-02-27, 20:27:09](https://news.ycombinator.com/item?id=39529374) - ['Entropy bagels' and other complex structures emerge from simple rules](https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/)
