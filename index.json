@@ -21,6 +21,36 @@
   ],
   [
     [
+      "2024-03-01, 15:09:54",
+      "https://news.ycombinator.com/item?id=39562467"
+    ],
+    [
+      "How we applied advanced fuzzing techniques to cURL",
+      "https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 14:44:51",
+      "https://news.ycombinator.com/item?id=39562254"
+    ],
+    [
+      "On the Ocean Conditions of Hycean Worlds",
+      "https://arxiv.org/abs/2402.12330"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 14:38:23",
+      "https://news.ycombinator.com/item?id=39562194"
+    ],
+    [
+      "A story of a large loop with a long instruction dependency chain",
+      "https://johnnysswlab.com/a-story-of-a-very-large-loop-with-a-long-instruction-dependency-chain/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 13:57:30",
       "https://news.ycombinator.com/item?id=39561799"
     ],
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2024-02-29, 20:50:50",
-      "https://news.ycombinator.com/item?id=39554874"
-    ],
-    [
-      "Defcon: Preventing overload with graceful feature degradation (2023)",
-      "https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 19:36:44",
       "https://news.ycombinator.com/item?id=39553967"
     ],
     [
       "GGUF, the Long Way Around",
       "https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 19:21:48",
-      "https://news.ycombinator.com/item?id=39553801"
-    ],
-    [
-      "Financial systems take a holiday",
-      "https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 14:11:59",
-      "https://news.ycombinator.com/item?id=39549486"
-    ],
-    [
-      "You've just inherited a legacy C++ codebase, now what?",
-      "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html"
     ]
   ],
   [
