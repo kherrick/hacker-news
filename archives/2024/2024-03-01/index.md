@@ -14,6 +14,7 @@
 * [2024-03-01, 11:26:05](https://news.ycombinator.com/item?id=39560769) - [The Lithium-Ion Battery May Not Be the Best Bet for EVs](https://spectrum.ieee.org/ev-batteries-environment)
 * [2024-03-01, 11:15:34](https://news.ycombinator.com/item?id=39560705) - [Where I'm at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/)
 * [2024-03-01, 10:54:04](https://news.ycombinator.com/item?id=39560584) - [Company increased dev productivity 3x by laying off 20% of middle management](https://www.theolognion.com/p/company-accidentally-increased-dev-productivity-3x-by-laying-off-20-of-middle-management)
+* [2024-03-01, 10:38:31](https://news.ycombinator.com/item?id=39560509) - [Ask HN: What AI assistants are already bundled for Linux?](https://news.ycombinator.com/item?id=39560509)
 * [2024-03-01, 10:29:33](https://news.ycombinator.com/item?id=39560466) - [AI Regurgitating Propaganda](https://mastodon.ie/@Eralea@mastodon.art/112012449057175121)
 * [2024-03-01, 10:20:19](https://news.ycombinator.com/item?id=39560413) - [La Bougie Du Sapeur](https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur)
 * [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Senior React and State Architect in Paris (Mobx)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
