@@ -23,4 +23,5 @@
 * [2024-03-01, 00:49:07](https://news.ycombinator.com/item?id=39557188) - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 * [2024-03-01, 00:33:23](https://news.ycombinator.com/item?id=39557098) - [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
 * [2024-03-01, 00:27:14](https://news.ycombinator.com/item?id=39557055) - [Sparrow: Distributed, Low Latency Scheduling [pdf]](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
+* [2024-03-01, 00:11:39](https://news.ycombinator.com/item?id=39556956) - [Show HN: Predictive Text Using Only 13KB of JavaScript. No LLM](https://www.adamgrant.info/tiny-predictive-text)
 * [2024-03-01, 00:03:10](https://news.ycombinator.com/item?id=39556895) - [Show HN: A curated list of tech related to Autism Spectrum Disorder(ASD)](https://github.com/hbcondo/awesome-autism-tech)
