@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-01, 11:26:05",
+      "https://news.ycombinator.com/item?id=39560769"
+    ],
+    [
+      "The Lithium-Ion Battery May Not Be the Best Bet for EVs",
+      "https://spectrum.ieee.org/ev-batteries-environment"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 11:15:34",
       "https://news.ycombinator.com/item?id=39560705"
     ],
@@ -37,6 +47,16 @@
     [
       "Streaming HTML out of order without JavaScript",
       "https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 08:13:17",
+      "https://news.ycombinator.com/item?id=39559691"
+    ],
+    [
+      "Apple Silicon: A little help from friends and co-processors",
+      "https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Antarctic English",
       "https://en.wikipedia.org/wiki/Antarctic_English"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 06:00:04",
-      "https://news.ycombinator.com/item?id=39534574"
-    ],
-    [
-      "How video games use lookup tables",
-      "https://blog.frost.kiwi/WebGL-LUTS-made-simple/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 01:03:44",
-      "https://news.ycombinator.com/item?id=39532550"
-    ],
-    [
-      "Indexed types for a statically safe WebAssembly [pdf]",
-      "https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf"
     ]
   ]
 ]
