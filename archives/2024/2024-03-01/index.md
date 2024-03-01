@@ -15,6 +15,7 @@
 * [2024-03-01, 18:48:05](https://news.ycombinator.com/item?id=39565252) - [ChatGPT and Google Gemini Are Both Doomed](https://nymag.com/intelligencer/article/chatgpt-and-google-gemini-are-both-doomed.html)
 * [2024-03-01, 18:37:27](https://news.ycombinator.com/item?id=39565115) - [CNN leak shows internal distress about double standards on Israel coverage](https://theintercept.com/2024/03/01/cnn-christiane-amanpour-israel-gaza-coverage/)
 * [2024-03-01, 18:26:21](https://news.ycombinator.com/item?id=39564965) - [Measuring GitHub Copilot's impact on productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
+* [2024-03-01, 18:22:47](https://news.ycombinator.com/item?id=39564899) - [Lorenzo Milam, pioneer of community radio (2020)](https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/)
 * [2024-03-01, 18:09:20](https://news.ycombinator.com/item?id=39564737) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-03-01, 18:05:17](https://news.ycombinator.com/item?id=39564678) - [How I Accidentally Made My Link Shortener into a Malware Honeypot](https://app.y.gy/blog/honeypot)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [First Colecovision BASIC compiler (Z80) now available](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
