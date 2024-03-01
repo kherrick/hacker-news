@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 13:21:19](https://news.ycombinator.com/item?id=39561492) - [Daddy Longlegs Have Been Hiding Extra Eyes from Us](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
+* [2024-03-01, 13:01:50](https://news.ycombinator.com/item?id=39561356) - [The 'Atlanta Magnet Man' is saving our car tires, one bike ride at a time](https://www.wabe.org/the-atlanta-magnet-man-is-saving-our-car-tires-one-bike-ride-at-a-time/)
 * [2024-03-01, 12:13:31](https://news.ycombinator.com/item?id=39561021) - [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://theins.ru/en/politics/269612)
 * [2024-03-01, 11:26:05](https://news.ycombinator.com/item?id=39560769) - [The Lithium-Ion Battery May Not Be the Best Bet for EVs](https://spectrum.ieee.org/ev-batteries-environment)
 * [2024-03-01, 11:15:34](https://news.ycombinator.com/item?id=39560705) - [Where I'm at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/)
@@ -14,7 +16,6 @@
 * [2024-03-01, 00:11:39](https://news.ycombinator.com/item?id=39556956) - [Show HN: Predictive text using only 13kb of JavaScript. no LLM](https://www.adamgrant.info/tiny-predictive-text)
 * [2024-02-29, 21:52:13](https://news.ycombinator.com/item?id=39555675) - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
 * [2024-02-29, 20:50:50](https://news.ycombinator.com/item?id=39554874) - [Defcon: Preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
-* [2024-02-29, 20:22:43](https://news.ycombinator.com/item?id=39554539) - [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
 * [2024-02-29, 19:36:44](https://news.ycombinator.com/item?id=39553967) - [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
 * [2024-02-29, 19:21:48](https://news.ycombinator.com/item?id=39553801) - [Financial systems take a holiday](https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/)
 * [2024-02-29, 14:57:03](https://news.ycombinator.com/item?id=39550124) - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
@@ -27,7 +28,6 @@
 * [2024-02-29, 08:05:28](https://news.ycombinator.com/item?id=39547332) - [Some Reflections on Writing Unix Daemon](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
 * [2024-02-29, 06:48:43](https://news.ycombinator.com/item?id=39546968) - [Via ferratas are finally catching on in the United States](https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/)
 * [2024-02-29, 04:53:09](https://news.ycombinator.com/item?id=39546497) - [Beware the Lides of March](https://www.historytoday.com/archive/out-margins/beware-lides-march)
-* [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
 * [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 

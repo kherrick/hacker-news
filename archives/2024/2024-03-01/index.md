@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 13:21:19](https://news.ycombinator.com/item?id=39561492) - [Daddy Longlegs Have Been Hiding Extra Eyes from Us](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
+* [2024-03-01, 13:01:50](https://news.ycombinator.com/item?id=39561356) - [The 'Atlanta Magnet Man' is saving our car tires, one bike ride at a time](https://www.wabe.org/the-atlanta-magnet-man-is-saving-our-car-tires-one-bike-ride-at-a-time/)
 * [2024-03-01, 12:13:31](https://news.ycombinator.com/item?id=39561021) - [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://theins.ru/en/politics/269612)
 * [2024-03-01, 11:26:05](https://news.ycombinator.com/item?id=39560769) - [The Lithium-Ion Battery May Not Be the Best Bet for EVs](https://spectrum.ieee.org/ev-batteries-environment)
 * [2024-03-01, 11:15:34](https://news.ycombinator.com/item?id=39560705) - [Where I'm at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/)
