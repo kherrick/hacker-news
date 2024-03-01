@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-03-01, 15:13:31",
-      "https://news.ycombinator.com/item?id=39562506"
-    ],
-    [
-      "Anti-Trans Legislation in the South Is Putting Trans Kids at Risk",
-      "https://www.rollingstone.com/culture/culture-features/anti-trans-legislation-the-south-trans-kids-risk-1234977946/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 14:55:23",
-      "https://news.ycombinator.com/item?id=39562329"
-    ],
-    [
-      "Keycloak: Modern Authentication and Access Management",
-      "https://medium.com/@zaam.oussama/keycloak-modern-authentication-and-access-management-4c17976e4303"
-    ]
-  ],
-  [
-    [
       "2024-03-01, 14:42:57",
       "https://news.ycombinator.com/item?id=39562231"
     ],
     [
       "Challenging programming projects you should try",
       "https://jamesg.blog/2024/02/28/programming-projects/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 14:30:42",
-      "https://news.ycombinator.com/item?id=39562114"
-    ],
-    [
-      "You too can (should) be a Fractional CTO",
-      "https://7ctos.substack.com/p/you-too-can-should-be-a-fractional"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-03-01, 00:27:14",
+      "https://news.ycombinator.com/item?id=39557055"
+    ],
+    [
+      "Sparrow: Distributed, Low Latency Scheduling (2013) [pdf]",
+      "https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 00:11:39",
       "https://news.ycombinator.com/item?id=39556956"
     ],
@@ -201,12 +181,32 @@
   ],
   [
     [
+      "2024-02-29, 20:50:50",
+      "https://news.ycombinator.com/item?id=39554874"
+    ],
+    [
+      "Defcon: Preventing overload with graceful feature degradation (2023)",
+      "https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 19:36:44",
       "https://news.ycombinator.com/item?id=39553967"
     ],
     [
       "GGUF, the Long Way Around",
       "https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 14:11:59",
+      "https://news.ycombinator.com/item?id=39549486"
+    ],
+    [
+      "You've just inherited a legacy C++ codebase, now what?",
+      "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html"
     ]
   ],
   [
