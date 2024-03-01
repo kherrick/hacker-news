@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 11:26:05](https://news.ycombinator.com/item?id=39560769) - [The Lithium-Ion Battery May Not Be the Best Bet for EVs](https://spectrum.ieee.org/ev-batteries-environment)
 * [2024-03-01, 11:15:34](https://news.ycombinator.com/item?id=39560705) - [Where I'm at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/)
 * [2024-03-01, 10:20:19](https://news.ycombinator.com/item?id=39560413) - [La Bougie Du Sapeur](https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur)
 * [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-01, 09:37:08](https://news.ycombinator.com/item?id=39560180) - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
+* [2024-03-01, 08:13:17](https://news.ycombinator.com/item?id=39559691) - [Apple Silicon: A little help from friends and co-processors](https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/)
 * [2024-03-01, 07:19:15](https://news.ycombinator.com/item?id=39559411) - [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 07:15:57](https://news.ycombinator.com/item?id=39559390) - [New Applications of Clifford's Geometric Algebra](https://hal.science/hal-03603294/)
 * [2024-03-01, 07:02:12](https://news.ycombinator.com/item?id=39559318) - [You can't make an open source HDMI 2.1 driver](https://arstechnica.com/gadgets/2024/02/hdmi-forum-to-amd-no-you-cant-make-an-open-source-hdmi-2-1-driver/)
@@ -28,8 +30,6 @@
 * [2024-02-29, 04:53:09](https://news.ycombinator.com/item?id=39546497) - [Beware the Lides of March](https://www.historytoday.com/archive/out-margins/beware-lides-march)
 * [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
-* [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
-* [2024-02-28, 01:03:44](https://news.ycombinator.com/item?id=39532550) - [Indexed types for a statically safe WebAssembly [pdf]](https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf)
 
 ## [Archives](archives/index.md)
 
