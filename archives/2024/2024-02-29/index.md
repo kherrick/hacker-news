@@ -102,6 +102,7 @@
 * [2024-02-29, 08:05:16](https://news.ycombinator.com/item?id=39547330) - [The internet turned into a crowded mall. Now you need a corner shop](https://pithandpip.com/blog/15-minute-internet)
 * [2024-02-29, 07:25:14](https://news.ycombinator.com/item?id=39547118) - [Beyond Linux from Scratch](https://www.linuxfromscratch.org/blfs/view/stable-systemd/index.html)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
+* [2024-02-29, 06:48:43](https://news.ycombinator.com/item?id=39546968) - [Via ferratas are finally catching on in the United States](https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/)
 * [2024-02-29, 06:08:56](https://news.ycombinator.com/item?id=39546795) - [Endatabas: An open source immutable, Document Database with Full History](https://www.endatabas.com/)
 * [2024-02-29, 05:10:31](https://news.ycombinator.com/item?id=39546580) - [TIGForums Independent Gaming and Gamedev Discussions](https://forums.tigsource.com/)
 * [2024-02-29, 04:53:09](https://news.ycombinator.com/item?id=39546497) - [Beware the Lides of March](https://www.historytoday.com/archive/out-margins/beware-lides-march)
