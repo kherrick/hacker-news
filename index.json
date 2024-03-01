@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-01, 18:09:20",
+      "https://news.ycombinator.com/item?id=39564737"
+    ],
+    [
+      "Go Enums Suck",
+      "https://www.zarl.dev/articles/enums"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 18:04:48",
       "https://news.ycombinator.com/item?id=39564674"
     ],
@@ -37,16 +47,6 @@
     [
       "Study: 61 UK firms tried a 4-day workweek and after a year, they still love it",
       "https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 15:31:28",
-      "https://news.ycombinator.com/item?id=39562685"
-    ],
-    [
-      "Meta rebuffs Google's virtual reality tie-up proposal",
-      "https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-02-29, 11:40:18",
-      "https://news.ycombinator.com/item?id=39548130"
-    ],
-    [
-      "Daft: Distributed DataFrame for Python",
-      "https://github.com/Eventual-Inc/Daft"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 11:10:55",
       "https://news.ycombinator.com/item?id=39548050"
     ],
@@ -277,6 +267,16 @@
     [
       "Some Reflections on Writing Unix Daemon",
       "https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 07:49:09",
+      "https://news.ycombinator.com/item?id=39547236"
+    ],
+    [
+      "How does the sky turn dark at night?",
+      "https://apod.nasa.gov/apod/ap240228.html"
     ]
   ],
   [
