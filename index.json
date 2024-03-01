@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-01, 21:06:21",
-      "https://news.ycombinator.com/item?id=39566804"
+      "2024-03-01, 22:34:02",
+      "https://news.ycombinator.com/item?id=39567597"
     ],
     [
-      "Thieves using cellular and Wi-Fi jammers to enter homes for robbery",
-      "https://www.usatoday.com/story/tech/columnist/komando/2024/02/29/thieves-using-wifi-jammer/72758559007/"
+      "California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]",
+      "https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "WhatsApp forces Pegasus spyware maker to share its secret code",
       "https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 20:59:18",
+      "https://news.ycombinator.com/item?id=39566732"
+    ],
+    [
+      "FastUI: Build Better UIs Faster",
+      "https://github.com/pydantic/FastUI"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Lorenzo Milam, pioneer of community radio (2020)",
       "https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 18:05:17",
-      "https://news.ycombinator.com/item?id=39564678"
-    ],
-    [
-      "I accidentally made my link shortener into a malware honeypot",
-      "https://app.y.gy/blog/honeypot"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-03-01, 13:01:50",
+      "https://news.ycombinator.com/item?id=39561356"
+    ],
+    [
+      "The 'Atlanta Magnet Man' is saving our car tires, one bike ride at a time",
+      "https://www.wabe.org/the-atlanta-magnet-man-is-saving-our-car-tires-one-bike-ride-at-a-time/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 12:13:31",
       "https://news.ycombinator.com/item?id=39561021"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-02-29, 10:31:35",
-      "https://news.ycombinator.com/item?id=39547971"
+      "2024-02-29, 09:32:34",
+      "https://news.ycombinator.com/item?id=39547822"
     ],
     [
-      "NVK is now ready for prime time",
-      "https://www.collabora.com/news-and-blog/news-and-events/nvk-is-now-ready-for-prime-time.html"
+      "Ask HN: Are there any websites for SQL puzzle games?",
+      "https://news.ycombinator.com/item?id=39547822"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Via ferratas are finally catching on in the United States",
       "https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 18:51:43",
-      "https://news.ycombinator.com/item?id=39542127"
-    ],
-    [
-      "Why do we need for an Undefined Behavior Annex to C++",
-      "https://community.intel.com/t5/Blogs/Tech-Innovation/Tools/Why-do-we-need-a-Undefined-Behavior-Annex-for-the-C-standard/post/1574397"
     ]
   ]
 ]
