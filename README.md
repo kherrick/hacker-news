@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 22:39:08](https://news.ycombinator.com/item?id=39567646) - [America's ten-year-old fentanyl epidemic is still getting worse](https://www.economist.com/briefing/2024/02/29/americas-ten-year-old-fentanyl-epidemic-is-still-getting-worsefromTheEconomist)
 * [2024-03-01, 22:34:02](https://news.ycombinator.com/item?id=39567597) - [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
 * [2024-03-01, 21:02:59](https://news.ycombinator.com/item?id=39566766) - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
 * [2024-03-01, 20:59:18](https://news.ycombinator.com/item?id=39566732) - [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
 * [2024-03-01, 19:54:30](https://news.ycombinator.com/item?id=39566064) - [Lazarus and the FudModule rootkit: Beyond BYOVD with an admin-to-kernel zero-day](https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/)
-* [2024-03-01, 18:26:21](https://news.ycombinator.com/item?id=39564965) - [Measuring GitHub Copilot's impact on productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
 * [2024-03-01, 18:22:47](https://news.ycombinator.com/item?id=39564899) - [Lorenzo Milam, pioneer of community radio (2020)](https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 17:33:54](https://news.ycombinator.com/item?id=39564254) - [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)

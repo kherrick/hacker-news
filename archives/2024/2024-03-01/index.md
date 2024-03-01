@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 22:39:08](https://news.ycombinator.com/item?id=39567646) - [America's ten-year-old fentanyl epidemic is still getting worse](https://www.economist.com/briefing/2024/02/29/americas-ten-year-old-fentanyl-epidemic-is-still-getting-worsefromTheEconomist)
 * [2024-03-01, 22:34:02](https://news.ycombinator.com/item?id=39567597) - [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
 * [2024-03-01, 21:06:21](https://news.ycombinator.com/item?id=39566804) - [Thieves using cellular and Wi-Fi jammers to enter homes for robbery](https://www.usatoday.com/story/tech/columnist/komando/2024/02/29/thieves-using-wifi-jammer/72758559007/)
 * [2024-03-01, 21:02:59](https://news.ycombinator.com/item?id=39566766) - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
