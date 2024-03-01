@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-01, 12:13:31",
+      "https://news.ycombinator.com/item?id=39561021"
+    ],
+    [
+      "Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy",
+      "https://theins.ru/en/politics/269612"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 11:26:05",
       "https://news.ycombinator.com/item?id=39560769"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2024-03-01, 09:44:25",
+      "https://news.ycombinator.com/item?id=39560215"
+    ],
+    [
+      "Open-Source Observability – SigNoz",
+      "https://signoz.io/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 09:37:08",
       "https://news.ycombinator.com/item?id=39560180"
     ],
     [
       "Streaming HTML out of order without JavaScript",
       "https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 08:13:17",
-      "https://news.ycombinator.com/item?id=39559691"
-    ],
-    [
-      "Apple Silicon: A little help from friends and co-processors",
-      "https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-02-29, 14:57:03",
-      "https://news.ycombinator.com/item?id=39550124"
-    ],
-    [
-      "A lock-free ring-buffer with contiguous reservations (2019)",
-      "https://ferrous-systems.com/blog/lock-free-ring-buffer/"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 14:11:59",
       "https://news.ycombinator.com/item?id=39549486"
     ],
@@ -217,16 +217,6 @@
     [
       "How a leap second caused havoc with the Internet (2021)",
       "https://www.talesfromtheopsside.com/blog/how-a-leap-second-caused-havoc-with-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 12:18:20",
-      "https://news.ycombinator.com/item?id=39548410"
-    ],
-    [
-      "Serving my blog posts as Linux manual pages",
-      "https://jamesg.blog/2024/02/29/linux-manual-pages/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Curvature of Polyhedra (2021)",
       "https://nicf.net/articles/curvature-of-polyhedra/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 08:05:28",
+      "https://news.ycombinator.com/item?id=39547332"
+    ],
+    [
+      "Some Reflections on Writing Unix Daemon",
+      "https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html"
     ]
   ],
   [
