@@ -102,6 +102,7 @@
 * [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra](https://nicf.net/articles/curvature-of-polyhedra/)
 * [2024-02-29, 08:05:28](https://news.ycombinator.com/item?id=39547332) - [Some Reflections on Writing Unix Daemon](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
 * [2024-02-29, 08:05:16](https://news.ycombinator.com/item?id=39547330) - [The internet turned into a crowded mall. Now you need a corner shop](https://pithandpip.com/blog/15-minute-internet)
+* [2024-02-29, 07:49:09](https://news.ycombinator.com/item?id=39547236) - [How does the sky turn dark at night?](https://apod.nasa.gov/apod/ap240228.html)
 * [2024-02-29, 07:25:14](https://news.ycombinator.com/item?id=39547118) - [Beyond Linux from Scratch](https://www.linuxfromscratch.org/blfs/view/stable-systemd/index.html)
 * [2024-02-29, 07:23:10](https://news.ycombinator.com/item?id=39547109) - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
 * [2024-02-29, 06:48:43](https://news.ycombinator.com/item?id=39546968) - [Via ferratas are finally catching on in the United States](https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/)

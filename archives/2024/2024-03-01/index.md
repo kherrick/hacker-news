@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 18:09:20](https://news.ycombinator.com/item?id=39564737) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [First Colecovision BASIC compiler (Z80) now available](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 17:50:58](https://news.ycombinator.com/item?id=39564476) - [I'm totally blind. Here's why I selfhost.](https://old.reddit.com/r/selfhosted/comments/1b3yvs8/im_totally_blind_heres_why_i_selfhost/)
 * [2024-03-01, 17:15:55](https://news.ycombinator.com/item?id=39563982) - [Apple backs off killing web apps, but the fight continues](https://open-web-advocacy.org/blog/apple-backs-off-killing-web-apps/)

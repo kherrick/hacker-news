@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 18:09:20](https://news.ycombinator.com/item?id=39564737) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [First Colecovision BASIC compiler (Z80) now available](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
 * [2024-03-01, 16:00:03](https://news.ycombinator.com/item?id=39562986) - [Ask HN: Who is hiring? (March 2024)](https://news.ycombinator.com/item?id=39562986)
 * [2024-03-01, 15:39:40](https://news.ycombinator.com/item?id=39562760) - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
-* [2024-03-01, 15:31:28](https://news.ycombinator.com/item?id=39562685) - [Meta rebuffs Google's virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
 * [2024-03-01, 15:24:09](https://news.ycombinator.com/item?id=39562610) - [Clock Made Power Grids Possible](https://spectrum.ieee.org/history-of-power-grid)
 * [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
@@ -24,10 +24,10 @@
 * [2024-03-01, 07:19:15](https://news.ycombinator.com/item?id=39559411) - [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 06:55:59](https://news.ycombinator.com/item?id=39559281) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * [2024-02-29, 12:17:34](https://news.ycombinator.com/item?id=39548403) - [The Butterfly Redemption](https://hakaimagazine.com/features/the-butterfly-redemption/)
-* [2024-02-29, 11:40:18](https://news.ycombinator.com/item?id=39548130) - [Daft: Distributed DataFrame for Python](https://github.com/Eventual-Inc/Daft)
 * [2024-02-29, 11:10:55](https://news.ycombinator.com/item?id=39548050) - [The game magazine that spent two years taunting a Final Fantasy VIII hater](https://ff8isthe.best/2024/02/the-game-magazine-that-spent-two-years-taunting-a-final-fantasy-viii-hater/)
 * [2024-02-29, 10:31:35](https://news.ycombinator.com/item?id=39547971) - [NVK is now ready for prime time](https://www.collabora.com/news-and-blog/news-and-events/nvk-is-now-ready-for-prime-time.html)
 * [2024-02-29, 08:05:28](https://news.ycombinator.com/item?id=39547332) - [Some Reflections on Writing Unix Daemon](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
+* [2024-02-29, 07:49:09](https://news.ycombinator.com/item?id=39547236) - [How does the sky turn dark at night?](https://apod.nasa.gov/apod/ap240228.html)
 * [2024-02-29, 03:32:54](https://news.ycombinator.com/item?id=39546150) - [Little Data: How do we query personal data? (2013)](https://www.petekeen.net/little-data)
 * [2024-02-28, 18:51:43](https://news.ycombinator.com/item?id=39542127) - [Why do we need for an Undefined Behavior Annex to C++](https://community.intel.com/t5/Blogs/Tech-Innovation/Tools/Why-do-we-need-a-Undefined-Behavior-Annex-for-the-C-standard/post/1574397)
 
