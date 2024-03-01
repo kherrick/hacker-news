@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 02:23:01](https://news.ycombinator.com/item?id=39557828) - [Tata Institute claims only Rs 100 tablet can prevent recurrent of cancer](https://economictimes.indiatimes.com/news/science/tata-institute-claims-new-breakthrough-cancer-treatment-only-costs-rs-100-heres-what-they-said/articleshow/108058030.cms?from=mdr)
+* [2024-03-01, 02:18:45](https://news.ycombinator.com/item?id=39557794) - [Study finds link between marijuana use and cardiovascular disease](https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/)
 * [2024-03-01, 02:03:33](https://news.ycombinator.com/item?id=39557687) - [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
+* [2024-03-01, 01:37:14](https://news.ycombinator.com/item?id=39557500) - [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
 * [2024-03-01, 01:34:33](https://news.ycombinator.com/item?id=39557484) - [Tesla to Face Nearly 6k Black Workers in Factory Racism Lawsuit](https://time.com/6836236/tesla-racism-lawsuit-black-workers-california/)
 * [2024-03-01, 01:04:32](https://news.ycombinator.com/item?id=39557300) - [Spotify pays out 70% of its revenue to record labels](https://twitter.com/carnage4life/status/1763347523509670357)
 * [2024-03-01, 00:56:53](https://news.ycombinator.com/item?id=39557241) - [Opening Up the Matrix.org Foundation](https://matrix.org/blog/2024/02/opening-up-foundation/)
