@@ -26,7 +26,7 @@
 * [2024-03-01, 06:55:59](https://news.ycombinator.com/item?id=39559281) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * [2024-02-29, 11:10:55](https://news.ycombinator.com/item?id=39548050) - [The game magazine that spent two years taunting a Final Fantasy VIII hater](https://ff8isthe.best/2024/02/the-game-magazine-that-spent-two-years-taunting-a-final-fantasy-viii-hater/)
 * [2024-02-29, 10:31:35](https://news.ycombinator.com/item?id=39547971) - [NVK is now ready for prime time](https://www.collabora.com/news-and-blog/news-and-events/nvk-is-now-ready-for-prime-time.html)
-* [2024-02-29, 09:17:59](https://news.ycombinator.com/item?id=39547748) - [On the genetic basis of tail-loss evolution in humans and apes](https://www.nature.com/articles/s41586-024-07095-8)
+* [2024-02-29, 08:05:28](https://news.ycombinator.com/item?id=39547332) - [Some Reflections on Writing Unix Daemon](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
 * [2024-02-29, 07:49:09](https://news.ycombinator.com/item?id=39547236) - [How does the sky turn dark at night?](https://apod.nasa.gov/apod/ap240228.html)
 * [2024-02-29, 06:48:43](https://news.ycombinator.com/item?id=39546968) - [Via ferratas are finally catching on in the United States](https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/)
 * [2024-02-28, 18:51:43](https://news.ycombinator.com/item?id=39542127) - [Why do we need for an Undefined Behavior Annex to C++](https://community.intel.com/t5/Blogs/Tech-Innovation/Tools/Why-do-we-need-a-Undefined-Behavior-Annex-for-the-C-standard/post/1574397)
