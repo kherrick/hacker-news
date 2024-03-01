@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 03:01:22](https://news.ycombinator.com/item?id=39558072) - [Meta to Wind Down Its News Feature in the US and Australia](https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia)
 * [2024-03-01, 02:23:01](https://news.ycombinator.com/item?id=39557828) - [Tata Institute claims only Rs 100 tablet can prevent recurrent of cancer](https://economictimes.indiatimes.com/news/science/tata-institute-claims-new-breakthrough-cancer-treatment-only-costs-rs-100-heres-what-they-said/articleshow/108058030.cms?from=mdr)
 * [2024-03-01, 02:18:45](https://news.ycombinator.com/item?id=39557794) - [Study finds link between marijuana use and cardiovascular disease](https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/)
 * [2024-03-01, 02:03:33](https://news.ycombinator.com/item?id=39557687) - [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
