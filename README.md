@@ -2,7 +2,6 @@
 
 * [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-01, 09:08:47](https://news.ycombinator.com/item?id=39560033) - [Company forgets why they exist after 11-week migration to Kubernetes](https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes)
-* [2024-03-01, 08:13:17](https://news.ycombinator.com/item?id=39559691) - [Apple Silicon: A little help from friends and co-processors](https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/)
 * [2024-03-01, 08:07:47](https://news.ycombinator.com/item?id=39559667) - [Kappa Beta Phi](https://en.wikipedia.org/wiki/Kappa_Beta_Phi)
 * [2024-03-01, 07:37:30](https://news.ycombinator.com/item?id=39559517) - [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
 * [2024-03-01, 07:19:15](https://news.ycombinator.com/item?id=39559411) - [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
@@ -27,6 +26,7 @@
 * [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra (2021)](https://nicf.net/articles/curvature-of-polyhedra/)
 * [2024-02-29, 08:05:16](https://news.ycombinator.com/item?id=39547330) - [The internet turned into a crowded mall. Now you need a corner shop](https://pithandpip.com/blog/15-minute-internet)
 * [2024-02-29, 07:25:14](https://news.ycombinator.com/item?id=39547118) - [Beyond Linux from Scratch](https://www.linuxfromscratch.org/blfs/view/stable-systemd/index.html)
+* [2024-02-29, 04:53:09](https://news.ycombinator.com/item?id=39546497) - [Beware the Lides of March](https://www.historytoday.com/archive/out-margins/beware-lides-march)
 * [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
 * [2024-02-28, 01:03:44](https://news.ycombinator.com/item?id=39532550) - [Indexed types for a statically safe WebAssembly [pdf]](https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf)
