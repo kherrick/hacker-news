@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 19:54:30](https://news.ycombinator.com/item?id=39566064) - [Lazarus Group observed exploiting an admin-to-kernel Windows zero-day](https://www.scmagazine.com/news/lazarus-group-observed-exploiting-an-admin-to-kernel-windows-zero-day)
 * [2024-03-01, 19:46:29](https://news.ycombinator.com/item?id=39565975) - [A Letter to the European Commission on Apple's Lack of DMA Compliance](https://newsroom.spotify.com/2024-03-01/a-letter-to-the-european-commission-on-apples-lack-of-dma-compliance/)
 * [2024-03-01, 19:42:32](https://news.ycombinator.com/item?id=39565931) - [Learn and Test DMARC](https://www.dmarctester.com)
 * [2024-03-01, 19:39:32](https://news.ycombinator.com/item?id=39565899) - [Dell share price jumps 16% on mention of AI server backlog](https://www.theregister.com/2024/03/01/dell_share_price_jumps_16/)
