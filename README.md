@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-01, 07:19:15](https://news.ycombinator.com/item?id=39559411) - [CACM Is Now Open Access – Communications of the ACM](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
+* [2024-03-01, 07:19:15](https://news.ycombinator.com/item?id=39559411) - [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 06:55:59](https://news.ycombinator.com/item?id=39559281) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * [2024-03-01, 03:56:14](https://news.ycombinator.com/item?id=39558376) - [Flexible schemas are the mindkiller](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
-* [2024-03-01, 01:37:14](https://news.ycombinator.com/item?id=39557500) - [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
 * [2024-03-01, 00:49:07](https://news.ycombinator.com/item?id=39557188) - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 * [2024-03-01, 00:33:23](https://news.ycombinator.com/item?id=39557098) - [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
 * [2024-03-01, 00:27:14](https://news.ycombinator.com/item?id=39557055) - [Sparrow: Distributed, Low Latency Scheduling (2013) [pdf]](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
@@ -28,6 +27,7 @@
 * [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
 * [2024-02-28, 22:48:51](https://news.ycombinator.com/item?id=39544498) - [Antarctic English](https://en.wikipedia.org/wiki/Antarctic_English)
 * [2024-02-28, 18:34:34](https://news.ycombinator.com/item?id=39541944) - [\"Dune\" and the delicate art of making fictional languages](https://www.newyorker.com/culture/cultural-comment/dune-and-the-delicate-art-of-making-fictional-languages)
+* [2024-02-28, 07:07:16](https://news.ycombinator.com/item?id=39534937) - [Learn CSS layout the pedantic way (2015)](http://book.mixu.net/css/)
 * [2024-02-28, 06:00:04](https://news.ycombinator.com/item?id=39534574) - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 01:03:44](https://news.ycombinator.com/item?id=39532550) - [Indexed types for a statically safe WebAssembly [pdf]](https://williamjbowman.com/resources/geller2023-wasm-prechk-current-preprint.pdf)
 
