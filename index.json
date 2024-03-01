@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-03-01, 04:13:04",
-      "https://news.ycombinator.com/item?id=39558464"
-    ],
-    [
-      "Revealed: The names linked to ClothOff, the deepfake pornography app",
-      "https://www.theguardian.com/technology/2024/feb/29/clothoff-deepfake-ai-pornography-app-names-linked-revealed"
-    ]
-  ],
-  [
-    [
       "2024-03-01, 03:56:14",
       "https://news.ycombinator.com/item?id=39558376"
     ],
     [
-      "Flexible Schemas Are the Mindkiller – Ludicity",
+      "Flexible schemas are the mindkiller",
       "https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 03:53:26",
-      "https://news.ycombinator.com/item?id=39558365"
-    ],
-    [
-      "Docusign just admitted that they use customer data to train AI",
-      "https://twitter.com/nixcraft/status/1763124892986474689"
     ]
   ],
   [
@@ -75,8 +55,18 @@
       "https://news.ycombinator.com/item?id=39557055"
     ],
     [
-      "Sparrow: Distributed, Low Latency Scheduling [pdf]",
+      "Sparrow: Distributed, Low Latency Scheduling (2013) [pdf]",
       "https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 00:11:39",
+      "https://news.ycombinator.com/item?id=39556956"
+    ],
+    [
+      "Show HN: Predictive Text Using Only 13KB of JavaScript. No LLM",
+      "https://www.adamgrant.info/tiny-predictive-text"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Things You Should Never Do, Part I (2000)",
       "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 21:37:14",
+      "https://news.ycombinator.com/item?id=39555493"
+    ],
+    [
+      "Experimenting with GC-less (heap-less) Java",
+      "https://maximullaris.com/gc_less_java.html"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-02-29, 15:01:57",
-      "https://news.ycombinator.com/item?id=39550202"
-    ],
-    [
-      "Unearthing the oldest forest on Earth",
-      "https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 14:57:03",
       "https://news.ycombinator.com/item?id=39550124"
     ],
@@ -187,6 +177,16 @@
     [
       "You've just inherited a legacy C++ codebase, now what?",
       "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 13:47:28",
+      "https://news.ycombinator.com/item?id=39549215"
+    ],
+    [
+      "Ever Dealt with a Leap Second?",
+      "https://www.talesfromtheopsside.com/blog/how-a-leap-second-caused-havoc-with-the-internet/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-02-29, 06:08:56",
-      "https://news.ycombinator.com/item?id=39546795"
-    ],
-    [
-      "Endatabas: An open source immutable, Document Database with Full History",
-      "https://www.endatabas.com/"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 03:38:23",
       "https://news.ycombinator.com/item?id=39546174"
     ],
@@ -267,6 +257,16 @@
     [
       "The Lincoln TX-2 Computer Development (1957) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/1455567.1455592"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 18:34:34",
+      "https://news.ycombinator.com/item?id=39541944"
+    ],
+    [
+      "\"Dune\" and the delicate art of making fictional languages",
+      "https://www.newyorker.com/culture/cultural-comment/dune-and-the-delicate-art-of-making-fictional-languages"
     ]
   ],
   [
