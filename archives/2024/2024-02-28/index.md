@@ -36,6 +36,7 @@
 * [2024-02-28, 19:05:44](https://news.ycombinator.com/item?id=39542263) - [Why South Korean women aren't having babies](https://www.bbc.com/news/world-asia-68402139)
 * [2024-02-28, 19:02:39](https://news.ycombinator.com/item?id=39542231) - [Stripe Now Requires Physical Biz Address That Isn't a Ups Box](https://support.stripe.com/questions/2024-updates-to-us-verification-requirements-faqs)
 * [2024-02-28, 18:51:48](https://news.ycombinator.com/item?id=39542128) - [Julius Caesar's Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
+* [2024-02-28, 18:51:43](https://news.ycombinator.com/item?id=39542127) - [Why do we need for an Undefined Behavior Annex to C++](https://community.intel.com/t5/Blogs/Tech-Innovation/Tools/Why-do-we-need-a-Undefined-Behavior-Annex-for-the-C-standard/post/1574397)
 * [2024-02-28, 18:50:59](https://news.ycombinator.com/item?id=39542118) - [The Yak Shave](https://www.marginalia.nu/log/a_102_yak_shave/)
 * [2024-02-28, 18:44:12](https://news.ycombinator.com/item?id=39542039) - [OpenCollective Shutting Down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
 * [2024-02-28, 18:34:34](https://news.ycombinator.com/item?id=39541944) - [\"Dune\" and the Delicate Art of Making Fictional Languages](https://www.newyorker.com/culture/cultural-comment/dune-and-the-delicate-art-of-making-fictional-languages)
