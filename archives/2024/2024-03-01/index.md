@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 16:22:24](https://news.ycombinator.com/item?id=39563266) - [Apple says iOS 17.4 won't remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
 * [2024-03-01, 16:00:03](https://news.ycombinator.com/item?id=39562986) - [Ask HN: Who is hiring? (March 2024)](https://news.ycombinator.com/item?id=39562986)
 * [2024-03-01, 15:39:40](https://news.ycombinator.com/item?id=39562760) - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
 * [2024-03-01, 15:31:28](https://news.ycombinator.com/item?id=39562685) - [Meta rebuffs Google's virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
@@ -35,6 +36,7 @@
 * [2024-03-01, 09:44:25](https://news.ycombinator.com/item?id=39560215) - [Open-Source Observability – SigNoz](https://signoz.io/)
 * [2024-03-01, 09:37:08](https://news.ycombinator.com/item?id=39560180) - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
 * [2024-03-01, 09:08:47](https://news.ycombinator.com/item?id=39560033) - [Company forgets why they exist after 11-week migration to Kubernetes](https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes)
+* [2024-03-01, 08:56:05](https://news.ycombinator.com/item?id=39559966) - [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf)
 * [2024-03-01, 08:13:17](https://news.ycombinator.com/item?id=39559691) - [Apple Silicon: A little help from friends and co-processors](https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/)
 * [2024-03-01, 08:07:47](https://news.ycombinator.com/item?id=39559667) - [Kappa Beta Phi](https://en.wikipedia.org/wiki/Kappa_Beta_Phi)
 * [2024-03-01, 07:53:07](https://news.ycombinator.com/item?id=39559597) - [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI](https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/)
