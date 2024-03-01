@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-01, 08:07:47](https://news.ycombinator.com/item?id=39559667) - [Kappa Beta Phi](https://en.wikipedia.org/wiki/Kappa_Beta_Phi)
 * [2024-03-01, 07:19:15](https://news.ycombinator.com/item?id=39559411) - [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 07:02:12](https://news.ycombinator.com/item?id=39559318) - [You can't make an open source HDMI 2.1 driver](https://arstechnica.com/gadgets/2024/02/hdmi-forum-to-amd-no-you-cant-make-an-open-source-hdmi-2-1-driver/)
 * [2024-03-01, 06:55:59](https://news.ycombinator.com/item?id=39559281) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
@@ -22,7 +23,6 @@
 * [2024-02-29, 13:45:44](https://news.ycombinator.com/item?id=39549194) - [Show HN: Workout Tracker – self-hosted, single binary web application](https://github.com/jovandeginste/workout-tracker)
 * [2024-02-29, 12:18:20](https://news.ycombinator.com/item?id=39548410) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-02-29, 11:40:18](https://news.ycombinator.com/item?id=39548130) - [Daft: Distributed DataFrame for Python](https://github.com/Eventual-Inc/Daft)
-* [2024-02-29, 11:33:24](https://news.ycombinator.com/item?id=39548088) - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 * [2024-02-29, 08:09:54](https://news.ycombinator.com/item?id=39547355) - [Curvature of Polyhedra (2021)](https://nicf.net/articles/curvature-of-polyhedra/)
 * [2024-02-29, 08:05:16](https://news.ycombinator.com/item?id=39547330) - [The internet turned into a crowded mall. Now you need a corner shop](https://pithandpip.com/blog/15-minute-internet)
 * [2024-02-29, 03:38:23](https://news.ycombinator.com/item?id=39546174) - [Hash functions: An empirical comparison (2008)](https://www.strchr.com/hash_functions)
