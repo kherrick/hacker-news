@@ -9,6 +9,7 @@
 * [2024-03-01, 16:00:03](https://news.ycombinator.com/item?id=39562986) - [Ask HN: Who is hiring? (March 2024)](https://news.ycombinator.com/item?id=39562986)
 * [2024-03-01, 15:39:40](https://news.ycombinator.com/item?id=39562760) - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
 * [2024-03-01, 15:31:28](https://news.ycombinator.com/item?id=39562685) - [Meta rebuffs Google's virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
+* [2024-03-01, 15:24:09](https://news.ycombinator.com/item?id=39562610) - [Clock Made Power Grids Possible](https://spectrum.ieee.org/history-of-power-grid)
 * [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. New Growth Trees and the Wood Products They Make](https://hullworks.com/wood/)
 * [2024-03-01, 15:13:31](https://news.ycombinator.com/item?id=39562506) - [Anti-Trans Legislation in the South Is Putting Trans Kids at Risk](https://www.rollingstone.com/culture/culture-features/anti-trans-legislation-the-south-trans-kids-risk-1234977946/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
