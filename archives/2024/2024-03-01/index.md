@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 17:50:58](https://news.ycombinator.com/item?id=39564476) - [I'm totally blind. Here's why I selfhost.](https://old.reddit.com/r/selfhosted/comments/1b3yvs8/im_totally_blind_heres_why_i_selfhost/)
 * [2024-03-01, 17:15:55](https://news.ycombinator.com/item?id=39563982) - [Apple backs off killing web apps, but the fight continues](https://open-web-advocacy.org/blog/apple-backs-off-killing-web-apps/)
 * [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
 * [2024-03-01, 16:22:24](https://news.ycombinator.com/item?id=39563266) - [Apple says iOS 17.4 won't remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
