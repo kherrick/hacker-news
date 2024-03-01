@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-01, 18:37:27",
-      "https://news.ycombinator.com/item?id=39565115"
+      "2024-03-01, 18:48:05",
+      "https://news.ycombinator.com/item?id=39565252"
     ],
     [
-      "CNN leak shows internal distress about double standards on Israel coverage",
-      "https://theintercept.com/2024/03/01/cnn-christiane-amanpour-israel-gaza-coverage/"
+      "ChatGPT and Google Gemini Are Both Doomed",
+      "https://nymag.com/intelligencer/article/chatgpt-and-google-gemini-are-both-doomed.html"
     ]
   ],
   [
@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2024-03-01, 18:05:17",
+      "https://news.ycombinator.com/item?id=39564678"
+    ],
+    [
+      "How I Accidentally Made My Link Shortener into a Malware Honeypot",
+      "https://app.y.gy/blog/honeypot"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 18:04:48",
       "https://news.ycombinator.com/item?id=39564674"
     ],
     [
-      "First Colecovision BASIC compiler (Z80) now available",
+      "Colecovision BASIC compiler: CVBasic v0.1.0",
       "https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/"
     ]
   ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2024-03-01, 16:00:02",
+      "https://news.ycombinator.com/item?id=39562984"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (March 2024)",
+      "https://news.ycombinator.com/item?id=39562984"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 15:39:40",
       "https://news.ycombinator.com/item?id=39562760"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39562467"
     ],
     [
-      "How we applied advanced fuzzing techniques to cURL",
+      "How we applied fuzzing techniques to cURL",
       "https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "JSR: The JavaScript Registry",
       "https://jsr.io"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 13:21:19",
-      "https://news.ycombinator.com/item?id=39561492"
-    ],
-    [
-      "A daddy-longlegs possesses six eyes, including two vestigial pairs",
-      "https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "JPEG XL and the Pareto Front",
       "https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 12:17:34",
-      "https://news.ycombinator.com/item?id=39548403"
-    ],
-    [
-      "The Butterfly Redemption",
-      "https://hakaimagazine.com/features/the-butterfly-redemption/"
     ]
   ],
   [
