@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 03:56:14](https://news.ycombinator.com/item?id=39558376) - [Flexible Schemas Are the Mindkiller – Ludicity](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 * [2024-03-01, 03:53:26](https://news.ycombinator.com/item?id=39558365) - [Docusign just admitted that they use customer data to train AI](https://twitter.com/nixcraft/status/1763124892986474689)
 * [2024-03-01, 03:42:14](https://news.ycombinator.com/item?id=39558301) - [Dune: Part Two Is Huge, Kind of Great, and Here to Save Movies](https://www.vogue.com/article/dune-part-two-review)
+* [2024-03-01, 03:37:01](https://news.ycombinator.com/item?id=39558270) - [The \"End of Programming\" will look a lot like programming](https://ben11kehoe.medium.com/the-end-of-programming-will-look-a-lot-like-programming-8b877c8efef8)
+* [2024-03-01, 03:33:35](https://news.ycombinator.com/item?id=39558251) - [Show HN: The Case for Distributed SQL Streaming Databases](https://risingwave.com/blog/the-case-for-distributed-sql-streaming-databases/)
 * [2024-03-01, 03:01:22](https://news.ycombinator.com/item?id=39558072) - [Meta to Wind Down Its News Feature in the US and Australia](https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia)
 * [2024-03-01, 02:49:32](https://news.ycombinator.com/item?id=39557993) - [Genode: FOSDEM 2024 Aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
 * [2024-03-01, 02:23:01](https://news.ycombinator.com/item?id=39557828) - [Tata Institute claims only Rs 100 tablet can prevent recurrent of cancer](https://economictimes.indiatimes.com/news/science/tata-institute-claims-new-breakthrough-cancer-treatment-only-costs-rs-100-heres-what-they-said/articleshow/108058030.cms?from=mdr)
