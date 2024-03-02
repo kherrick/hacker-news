@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 * [2024-03-02, 13:45:22](https://news.ycombinator.com/item?id=39572472) - [Russia acknowledges continuing air leak from its segment of space station](https://www.theguardian.com/science/2024/feb/28/russia-acknowledges-continuing-air-leak-from-its-segment-of-space-station)
 * [2024-03-02, 13:31:43](https://news.ycombinator.com/item?id=39572395) - [How the Brexit dream of Singapore-on-Thames was lost](https://www.telegraph.co.uk/business/2024/02/28/uk-eu-are-being-pushed-back-together/)
 * [2024-03-02, 12:36:01](https://news.ycombinator.com/item?id=39572149) - [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
