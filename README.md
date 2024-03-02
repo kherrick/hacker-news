@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-02, 04:36:37](https://news.ycombinator.com/item?id=39569843) - [Don't Use Discord for FOSS](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
+* [2024-03-02, 04:36:37](https://news.ycombinator.com/item?id=39569843) - [Don't Use Discord for FOSS (2021)](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
 * [2024-03-02, 04:28:48](https://news.ycombinator.com/item?id=39569794) - [Phrack 71 Call for Papers](http://www.phrack.org/)
 * [2024-03-02, 04:15:23](https://news.ycombinator.com/item?id=39569747) - [The Myth of Scarcity and Its Threats to Human Society [pdf]](https://kemendo.com/Myth.pdf)
 * [2024-03-02, 04:10:59](https://news.ycombinator.com/item?id=39569734) - [Remaking Super Mario World in Godot](https://www.youtube.com/watch?v=u2fwxuHZXIA)
@@ -8,6 +8,7 @@
 * [2024-03-02, 03:57:54](https://news.ycombinator.com/item?id=39569671) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 * [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-02, 00:30:06](https://news.ycombinator.com/item?id=39568622) - [ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)
+* [2024-03-01, 23:14:57](https://news.ycombinator.com/item?id=39567960) - [Open-Source AI at FOSDEM](https://lwn.net/Articles/961868/)
 * [2024-03-01, 22:52:57](https://news.ycombinator.com/item?id=39567780) - [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm)
 * [2024-03-01, 22:34:02](https://news.ycombinator.com/item?id=39567597) - [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
 * [2024-03-01, 21:02:59](https://news.ycombinator.com/item?id=39566766) - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
@@ -17,7 +18,6 @@
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 17:33:54](https://news.ycombinator.com/item?id=39564254) - [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
 * [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
-* [2024-03-01, 16:25:00](https://news.ycombinator.com/item?id=39563305) - [Show HN: Replay your typing in a few lines of JavaScript](https://einenlum.github.io/human-replay/)
 * [2024-03-01, 16:00:03](https://news.ycombinator.com/item?id=39562986) - [Ask HN: Who is hiring? (March 2024)](https://news.ycombinator.com/item?id=39562986)
 * [2024-03-01, 16:00:02](https://news.ycombinator.com/item?id=39562984) - [Ask HN: Who wants to be hired? (March 2024)](https://news.ycombinator.com/item?id=39562984)
 * [2024-03-01, 15:39:40](https://news.ycombinator.com/item?id=39562760) - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
