@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-03-02, 12:36:01",
-      "https://news.ycombinator.com/item?id=39572149"
+      "2024-03-02, 13:31:43",
+      "https://news.ycombinator.com/item?id=39572395"
     ],
     [
-      "Every genetic mutation that could exist, does exist",
-      "https://twitter.com/richardfuisz/status/1763591765620121990"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 12:18:07",
-      "https://news.ycombinator.com/item?id=39572050"
-    ],
-    [
-      "GitHub struggles to keep up with automated malicious forks",
-      "https://www.theregister.com/2024/03/01/github_automated_fork_campaign/"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 12:17:19",
-      "https://news.ycombinator.com/item?id=39572049"
-    ],
-    [
-      "Indians are unwittingly recruited into the Russian army",
-      "https://www.lemonde.fr/en/international/article/2024/02/29/indians-are-unwittingly-recruited-into-the-russian-army_6573586_4.html"
+      "How the Brexit dream of Singapore-on-Thames was lost",
+      "https://www.telegraph.co.uk/business/2024/02/28/uk-eu-are-being-pushed-back-together/"
     ]
   ],
   [
@@ -71,16 +51,6 @@
   ],
   [
     [
-      "2024-03-02, 09:55:02",
-      "https://news.ycombinator.com/item?id=39571412"
-    ],
-    [
-      "Cowsay",
-      "https://en.wikipedia.org/wiki/Cowsay"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 09:30:29",
       "https://news.ycombinator.com/item?id=39571308"
     ],
@@ -91,12 +61,12 @@
   ],
   [
     [
-      "2024-03-02, 08:14:10",
-      "https://news.ycombinator.com/item?id=39570955"
+      "2024-03-02, 08:52:37",
+      "https://news.ycombinator.com/item?id=39571135"
     ],
     [
-      "Use KeePassXC to sign your Git commits",
-      "https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/"
+      "Bitwarden – Going Native",
+      "https://old.reddit.com/r/Bitwarden/comments/1b32bbz/going_native_the_future_of_the_bitwarden_mobile/"
     ]
   ],
   [
@@ -121,16 +91,6 @@
   ],
   [
     [
-      "2024-03-02, 04:28:48",
-      "https://news.ycombinator.com/item?id=39569794"
-    ],
-    [
-      "Phrack 71 Call for Papers",
-      "http://www.phrack.org/"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 04:10:59",
       "https://news.ycombinator.com/item?id=39569734"
     ],
@@ -147,6 +107,16 @@
     [
       "A 45 year engineer clears up electric sauna ventilation",
       "https://www.saunatimes.com/sauna-information/a-45-year-engineer-clears-up-electric-sauna-ventilation/"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 01:28:12",
+      "https://news.ycombinator.com/item?id=39568935"
+    ],
+    [
+      "Spotify, Epic Games pen letter to EC, claiming Apple has made a 'mockery' of DMA",
+      "https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/"
     ]
   ],
   [
@@ -227,6 +197,36 @@
     [
       "FastUI: Build Better UIs Faster",
       "https://github.com/pydantic/FastUI"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 18:22:47",
+      "https://news.ycombinator.com/item?id=39564899"
+    ],
+    [
+      "Lorenzo Milam, pioneer of community radio (2020)",
+      "https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 18:04:48",
+      "https://news.ycombinator.com/item?id=39564674"
+    ],
+    [
+      "Colecovision BASIC compiler: CVBasic v0.1.0",
+      "https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 15:24:09",
+      "https://news.ycombinator.com/item?id=39562610"
+    ],
+    [
+      "The Telechron master station clock was used to maintain power grid frequency",
+      "https://spectrum.ieee.org/history-of-power-grid"
     ]
   ],
   [
