@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-02, 15:08:41](https://news.ycombinator.com/item?id=39573032) - [Judge Fines Ex-Fox News Reporter for Not Revealing Sources](https://www.nytimes.com/2024/02/29/business/catherine-herridge-fox-news-sources.html)
+* [2024-03-02, 15:20:46](https://news.ycombinator.com/item?id=39573097) - [Nvidia and AMD Are Overhyped and Overvalued](https://seekingalpha.com/article/4664472-nvidia-and-amd-are-overhyped-and-overvalued)
 * [2024-03-02, 14:44:44](https://news.ycombinator.com/item?id=39572871) - [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
-* [2024-03-02, 14:33:50](https://news.ycombinator.com/item?id=39572795) - [NASA: Total Eclipse 2024 – Where and When](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/)
+* [2024-03-02, 14:22:27](https://news.ycombinator.com/item?id=39572718) - [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
 * [2024-03-02, 12:27:22](https://news.ycombinator.com/item?id=39572106) - [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
 * [2024-03-02, 12:02:19](https://news.ycombinator.com/item?id=39571975) - [Could Modified Gravity Kill Planet Nine?](https://nautil.us/could-modified-gravity-kill-planet-nine-521271/)
 * [2024-03-02, 11:27:59](https://news.ycombinator.com/item?id=39571814) - [TextAdept](https://orbitalquark.github.io/textadept/)
@@ -28,7 +28,7 @@
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-01, 11:51:11](https://news.ycombinator.com/item?id=39560887) - [I accidentally deleted a bad game revision from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
 * [2024-03-01, 11:47:30](https://news.ycombinator.com/item?id=39560862) - [Where is Noether's principle in machine learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
-* [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-03-01, 00:13:28](https://news.ycombinator.com/item?id=39556963) - [The Bip Buffer – The Circular Buffer with a Twist](https://www.codeproject.com/articles/3479/the-bip-buffer-the-circular-buffer-with-a-twist)
 * [2024-02-29, 11:59:02](https://news.ycombinator.com/item?id=39548260) - [Dallol](https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system))
 
 ## [Archives](archives/index.md)
