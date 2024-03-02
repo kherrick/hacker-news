@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
 * [2024-03-02, 17:58:31](https://news.ycombinator.com/item?id=39574330) - [Japan sees rise of 'ramen girls'](https://asia.nikkei.com/Life-Arts/Life/Japan-sees-rise-of-ramen-girls)
+* [2024-03-02, 16:55:39](https://news.ycombinator.com/item?id=39573805) - [Lawyers who voided Elon Musk's pay as excessive want $6B fee](https://ca.news.yahoo.com/legal-team-voided-musks-tesla-230039948.html)
 * [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 * [2024-03-02, 16:47:52](https://news.ycombinator.com/item?id=39573744) - [Oregon undoes groundbreaking drug decriminalization law](https://www.theguardian.com/us-news/2024/mar/02/oregon-overturn-drug-decriminalize-law)
 * [2024-03-02, 16:41:46](https://news.ycombinator.com/item?id=39573691) - [Badssl.com](https://badssl.com/)
@@ -33,6 +34,7 @@
 * [2024-03-02, 11:27:59](https://news.ycombinator.com/item?id=39571814) - [TextAdept](https://orbitalquark.github.io/textadept/)
 * [2024-03-02, 10:55:27](https://news.ycombinator.com/item?id=39571666) - [JSR – The JavaScript Registry](https://deno.com/blog/jsr_open_beta)
 * [2024-03-02, 10:39:13](https://news.ycombinator.com/item?id=39571593) - [What is Truth in this new AI world and how to make sense of it](https://news.ycombinator.com/item?id=39571593)
+* [2024-03-02, 10:27:22](https://news.ycombinator.com/item?id=39571533) - [I am building Anki for spaced repetition but Better (RepIt)](https://repit.framer.ai/)
 * [2024-03-02, 10:10:02](https://news.ycombinator.com/item?id=39571470) - [The Power of the 0.1x Developer: Unsung Heroes of the Codebase](https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8)
 * [2024-03-02, 10:03:01](https://news.ycombinator.com/item?id=39571439) - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 * [2024-03-02, 09:55:02](https://news.ycombinator.com/item?id=39571412) - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
