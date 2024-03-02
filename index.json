@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-03-02, 13:31:43",
-      "https://news.ycombinator.com/item?id=39572395"
-    ],
-    [
-      "How the Brexit dream of Singapore-on-Thames was lost",
-      "https://www.telegraph.co.uk/business/2024/02/28/uk-eu-are-being-pushed-back-together/"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 12:02:19",
       "https://news.ycombinator.com/item?id=39571975"
     ],
     [
       "Could Modified Gravity Kill Planet Nine?",
       "https://nautil.us/could-modified-gravity-kill-planet-nine-521271/"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 12:01:21",
-      "https://news.ycombinator.com/item?id=39571967"
-    ],
-    [
-      "HardenedBSD February 2024 status report",
-      "https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report"
     ]
   ],
   [
@@ -61,16 +41,6 @@
   ],
   [
     [
-      "2024-03-02, 08:52:37",
-      "https://news.ycombinator.com/item?id=39571135"
-    ],
-    [
-      "Bitwarden – Going Native",
-      "https://old.reddit.com/r/Bitwarden/comments/1b32bbz/going_native_the_future_of_the_bitwarden_mobile/"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 07:31:09",
       "https://news.ycombinator.com/item?id=39570692"
     ],
@@ -91,12 +61,12 @@
   ],
   [
     [
-      "2024-03-02, 04:10:59",
-      "https://news.ycombinator.com/item?id=39569734"
+      "2024-03-02, 03:57:54",
+      "https://news.ycombinator.com/item?id=39569671"
     ],
     [
-      "Remaking Super Mario World in Godot",
-      "https://www.youtube.com/watch?v=u2fwxuHZXIA"
+      "K8s Service Meshes: The Bill Comes Due",
+      "https://matduggan.com/k8s-service-meshes/"
     ]
   ],
   [
@@ -107,16 +77,6 @@
     [
       "A 45 year engineer clears up electric sauna ventilation",
       "https://www.saunatimes.com/sauna-information/a-45-year-engineer-clears-up-electric-sauna-ventilation/"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 01:28:12",
-      "https://news.ycombinator.com/item?id=39568935"
-    ],
-    [
-      "Spotify, Epic Games pen letter to EC, claiming Apple has made a 'mockery' of DMA",
-      "https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/"
     ]
   ],
   [
@@ -137,26 +97,6 @@
     [
       "ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs",
       "https://arxiv.org/abs/2402.11753"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 00:20:51",
-      "https://news.ycombinator.com/item?id=39568536"
-    ],
-    [
-      "TSDiagram – Diagrams as Code with TypeScript",
-      "https://tsdiagram.com/#"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 23:14:57",
-      "https://news.ycombinator.com/item?id=39567960"
-    ],
-    [
-      "Open-Source AI at FOSDEM",
-      "https://lwn.net/Articles/961868/"
     ]
   ],
   [
@@ -191,6 +131,16 @@
   ],
   [
     [
+      "2024-03-01, 21:02:59",
+      "https://news.ycombinator.com/item?id=39566766"
+    ],
+    [
+      "WhatsApp forces Pegasus spyware maker to share its secret code",
+      "https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 20:59:18",
       "https://news.ycombinator.com/item?id=39566732"
     ],
@@ -217,6 +167,46 @@
     [
       "Colecovision BASIC compiler: CVBasic v0.1.0",
       "https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 17:33:54",
+      "https://news.ycombinator.com/item?id=39564254"
+    ],
+    [
+      "The Cosmonaut of Potsdam",
+      "https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 16:48:45",
+      "https://news.ycombinator.com/item?id=39563618"
+    ],
+    [
+      "Apple reverses course on death of Progressive Web Apps in EU",
+      "https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 16:00:03",
+      "https://news.ycombinator.com/item?id=39562986"
+    ],
+    [
+      "Ask HN: Who is hiring? (March 2024)",
+      "https://news.ycombinator.com/item?id=39562986"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 16:00:02",
+      "https://news.ycombinator.com/item?id=39562984"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (March 2024)",
+      "https://news.ycombinator.com/item?id=39562984"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Dallol",
       "https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system)"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 06:48:43",
+      "https://news.ycombinator.com/item?id=39546968"
+    ],
+    [
+      "Via ferratas are finally catching on in the United States",
+      "https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/"
     ]
   ]
 ]
