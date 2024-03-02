@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-02, 10:10:02",
-      "https://news.ycombinator.com/item?id=39571470"
-    ],
-    [
-      "The Power of the 0.1x Developer: Unsung Heroes of the Codebase",
-      "https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 10:03:01",
       "https://news.ycombinator.com/item?id=39571439"
     ],
@@ -37,16 +27,6 @@
     [
       "Weather.gov 2.0",
       "https://github.com/weather-gov/weather.gov"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 08:30:04",
-      "https://news.ycombinator.com/item?id=39571033"
-    ],
-    [
-      "Text UIs != Terminal UIs",
-      "https://aartaka.me/tui-is-not-tui"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs",
       "https://arxiv.org/abs/2402.11753"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 00:20:51",
+      "https://news.ycombinator.com/item?id=39568536"
+    ],
+    [
+      "TSDiagram – Diagrams as Code with TypeScript",
+      "https://tsdiagram.com/#"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Out of the Woods (2015)",
       "https://www.nytimes.com/2015/08/09/magazine/out-of-the-woods.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 16:48:45",
+      "https://news.ycombinator.com/item?id=39563618"
+    ],
+    [
+      "Apple reverses course on death of Progressive Web Apps in EU",
+      "https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu"
     ]
   ],
   [
