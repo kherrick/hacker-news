@@ -16,6 +16,7 @@
 * [2024-03-01, 19:46:29](https://news.ycombinator.com/item?id=39565975) - [A Letter to the European Commission on Apple's Lack of DMA Compliance](https://newsroom.spotify.com/2024-03-01/a-letter-to-the-european-commission-on-apples-lack-of-dma-compliance/)
 * [2024-03-01, 19:42:32](https://news.ycombinator.com/item?id=39565931) - [Learn and Test DMARC](https://www.dmarctester.com)
 * [2024-03-01, 19:39:32](https://news.ycombinator.com/item?id=39565899) - [Dell share price jumps 16% on mention of AI server backlog](https://www.theregister.com/2024/03/01/dell_share_price_jumps_16/)
+* [2024-03-01, 19:29:33](https://news.ycombinator.com/item?id=39565788) - [Ask HN: How do you find employment opportunities in 2024?](https://news.ycombinator.com/item?id=39565788)
 * [2024-03-01, 19:26:09](https://news.ycombinator.com/item?id=39565740) - [iOS 17.4 won't remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
 * [2024-03-01, 18:48:05](https://news.ycombinator.com/item?id=39565252) - [ChatGPT and Google Gemini Are Both Doomed](https://nymag.com/intelligencer/article/chatgpt-and-google-gemini-are-both-doomed.html)
 * [2024-03-01, 18:37:27](https://news.ycombinator.com/item?id=39565115) - [CNN leak shows internal distress about double standards on Israel coverage](https://theintercept.com/2024/03/01/cnn-christiane-amanpour-israel-gaza-coverage/)
