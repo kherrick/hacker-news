@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-02, 23:01:17](https://news.ycombinator.com/item?id=39576592) - [Generative AI's environmental costs are soaring – and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
 * [2024-03-02, 22:30:52](https://news.ycombinator.com/item?id=39576343) - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 * [2024-03-02, 22:17:13](https://news.ycombinator.com/item?id=39576252) - [Poll: How much do you care about platform interoperability?](https://news.ycombinator.com/item?id=39576252)
 * [2024-03-02, 21:10:35](https://news.ycombinator.com/item?id=39575803) - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
@@ -22,6 +21,7 @@
 * [2024-03-02, 11:27:59](https://news.ycombinator.com/item?id=39571814) - [TextAdept](https://orbitalquark.github.io/textadept/)
 * [2024-03-02, 10:03:01](https://news.ycombinator.com/item?id=39571439) - [R: Introduction to Data Science (2019)](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 * [2024-03-02, 09:30:29](https://news.ycombinator.com/item?id=39571308) - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
+* [2024-03-02, 08:38:52](https://news.ycombinator.com/item?id=39571074) - [Show HN: ReverseETL – The open-source alternative to Hightouch and Census](https://github.com/Multiwoven/multiwoven)
 * [2024-03-02, 08:28:40](https://news.ycombinator.com/item?id=39571025) - [OpenIPC is an alternative open firmware for your IP camera](https://openipc.org/)
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-02, 07:29:30](https://news.ycombinator.com/item?id=39570679) - [KamilaLisp – A functional, flexible and concise Lisp](https://github.com/kspalaiologos/kamilalisp)
