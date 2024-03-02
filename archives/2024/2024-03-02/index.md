@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 18:53:50](https://news.ycombinator.com/item?id=39574878) - [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
 * [2024-03-02, 18:10:39](https://news.ycombinator.com/item?id=39574436) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
+* [2024-03-02, 18:06:25](https://news.ycombinator.com/item?id=39574397) - [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
 * [2024-03-02, 17:58:31](https://news.ycombinator.com/item?id=39574330) - [Japan sees rise of 'ramen girls'](https://asia.nikkei.com/Life-Arts/Life/Japan-sees-rise-of-ramen-girls)
 * [2024-03-02, 16:55:39](https://news.ycombinator.com/item?id=39573805) - [Lawyers who voided Elon Musk's pay as excessive want $6B fee](https://ca.news.yahoo.com/legal-team-voided-musks-tesla-230039948.html)
 * [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
