@@ -12,6 +12,7 @@
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016)](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 15:09:58](https://news.ycombinator.com/item?id=39573039) - [NASA satellite, Russian spacecraft crossed within 65 ft (20M) of each other](https://www.space.com/near-collision-nasa-timed-satellite-russian-space-junk)
 * [2024-03-02, 15:08:41](https://news.ycombinator.com/item?id=39573032) - [Judge Fines Ex-Fox News Reporter for Not Revealing Sources](https://www.nytimes.com/2024/02/29/business/catherine-herridge-fox-news-sources.html)
+* [2024-03-02, 15:01:49](https://news.ycombinator.com/item?id=39572984) - [On the Trail of the Denisovans](https://www.nytimes.com/2024/03/02/science/denisovan-neanderthal-dna.html)
 * [2024-03-02, 14:44:44](https://news.ycombinator.com/item?id=39572871) - [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 * [2024-03-02, 14:33:50](https://news.ycombinator.com/item?id=39572795) - [NASA: Total Eclipse 2024 – Where and When](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/)
