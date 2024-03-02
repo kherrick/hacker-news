@@ -80,6 +80,7 @@
 * [2024-03-02, 04:01:19](https://news.ycombinator.com/item?id=39569682) - [Stephen Covey Quotes](https://blog.hptbydts.com/30-of-the-best-stephen-covey-quotes)
 * [2024-03-02, 03:57:54](https://news.ycombinator.com/item?id=39569671) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 * [2024-03-02, 03:54:54](https://news.ycombinator.com/item?id=39569656) - [Hugging Face, the GitHub of AI, hosted code that backdoored user devices](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
+* [2024-03-02, 03:54:37](https://news.ycombinator.com/item?id=39569655) - [Under the Microscope: Three Dirty Dwarves](https://32bits.substack.com/p/under-the-microscope-three-dirty)
 * [2024-03-02, 03:33:26](https://news.ycombinator.com/item?id=39569559) - [Google Messages RCS is blocked on rooted, custom ROM Android phones](https://9to5google.com/2024/02/29/google-messages-rcs-rooted/)
 * [2024-03-02, 03:31:21](https://news.ycombinator.com/item?id=39569553) - [Dynamicland](https://dynamicland.org/)
 * [2024-03-02, 02:56:29](https://news.ycombinator.com/item?id=39569412) - [A Canticle for Leibowitz](https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz)
