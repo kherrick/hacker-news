@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 04:36:37](https://news.ycombinator.com/item?id=39569843) - [Don't Use Discord for FOSS](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
 * [2024-03-02, 04:28:48](https://news.ycombinator.com/item?id=39569794) - [Phrack 71 Call for Papers](http://www.phrack.org/)
 * [2024-03-02, 04:17:08](https://news.ycombinator.com/item?id=39569759) - [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
+* [2024-03-02, 04:15:23](https://news.ycombinator.com/item?id=39569747) - [The Myth of Scarcity and Its Threats to Human Society [pdf]](https://kemendo.com/Myth.pdf)
 * [2024-03-02, 04:10:59](https://news.ycombinator.com/item?id=39569734) - [Remaking Super Mario World in Godot](https://www.youtube.com/watch?v=u2fwxuHZXIA)
 * [2024-03-02, 04:01:19](https://news.ycombinator.com/item?id=39569682) - [Stephen Covey Quotes](https://blog.hptbydts.com/30-of-the-best-stephen-covey-quotes)
 * [2024-03-02, 03:57:54](https://news.ycombinator.com/item?id=39569671) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
