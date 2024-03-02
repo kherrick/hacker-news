@@ -6,6 +6,7 @@
 
 * [2024-03-02, 16:47:52](https://news.ycombinator.com/item?id=39573744) - [Oregon undoes groundbreaking drug decriminalization law](https://www.theguardian.com/us-news/2024/mar/02/oregon-overturn-drug-decriminalize-law)
 * [2024-03-02, 16:41:46](https://news.ycombinator.com/item?id=39573691) - [Badssl.com](https://badssl.com/)
+* [2024-03-02, 16:02:14](https://news.ycombinator.com/item?id=39573392) - [CDC ditches 5-day Covid isolation, argues Covid is becoming flu-like](https://arstechnica.com/science/2024/03/cdc-ditches-5-day-covid-isolation-argues-covid-is-becoming-flu-like/)
 * [2024-03-02, 15:20:46](https://news.ycombinator.com/item?id=39573097) - [Nvidia and AMD Are Overhyped and Overvalued](https://seekingalpha.com/article/4664472-nvidia-and-amd-are-overhyped-and-overvalued)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016)](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 15:09:58](https://news.ycombinator.com/item?id=39573039) - [NASA satellite, Russian spacecraft crossed within 65 ft (20M) of each other](https://www.space.com/near-collision-nasa-timed-satellite-russian-space-junk)
@@ -14,6 +15,7 @@
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 * [2024-03-02, 14:33:50](https://news.ycombinator.com/item?id=39572795) - [NASA: Total Eclipse 2024 – Where and When](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/)
 * [2024-03-02, 14:22:27](https://news.ycombinator.com/item?id=39572718) - [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
+* [2024-03-02, 13:48:39](https://news.ycombinator.com/item?id=39572505) - [Fastest camera drone vs. F1 car (ft. Max Verstappen) [video]](https://www.youtube.com/watch?v=9pEqyr_uT-k)
 * [2024-03-02, 13:45:22](https://news.ycombinator.com/item?id=39572472) - [Russia acknowledges continuing air leak from its segment of space station](https://www.theguardian.com/science/2024/feb/28/russia-acknowledges-continuing-air-leak-from-its-segment-of-space-station)
 * [2024-03-02, 13:31:43](https://news.ycombinator.com/item?id=39572395) - [How the Brexit dream of Singapore-on-Thames was lost](https://www.telegraph.co.uk/business/2024/02/28/uk-eu-are-being-pushed-back-together/)
 * [2024-03-02, 12:36:01](https://news.ycombinator.com/item?id=39572149) - [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
