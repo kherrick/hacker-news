@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 13:45:22](https://news.ycombinator.com/item?id=39572472) - [Russia acknowledges continuing air leak from its segment of space station](https://www.theguardian.com/science/2024/feb/28/russia-acknowledges-continuing-air-leak-from-its-segment-of-space-station)
 * [2024-03-02, 13:31:43](https://news.ycombinator.com/item?id=39572395) - [How the Brexit dream of Singapore-on-Thames was lost](https://www.telegraph.co.uk/business/2024/02/28/uk-eu-are-being-pushed-back-together/)
 * [2024-03-02, 12:36:01](https://news.ycombinator.com/item?id=39572149) - [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
 * [2024-03-02, 12:27:22](https://news.ycombinator.com/item?id=39572106) - [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
@@ -23,9 +24,11 @@
 * [2024-03-02, 08:19:16](https://news.ycombinator.com/item?id=39570983) - [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
 * [2024-03-02, 08:14:10](https://news.ycombinator.com/item?id=39570955) - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
+* [2024-03-02, 07:29:30](https://news.ycombinator.com/item?id=39570679) - [KamilaLisp – A functional, flexible and concise Lisp](https://github.com/kspalaiologos/kamilalisp)
 * [2024-03-02, 07:25:29](https://news.ycombinator.com/item?id=39570657) - [Google lays off entire team while they are testifying to the city council](https://mas.to/@yogthos/112020432735682211)
 * [2024-03-02, 06:47:10](https://news.ycombinator.com/item?id=39570444) - [Oregon Is Recriminalizing Drugs, Dealing Setback to Reform Movement](https://www.nytimes.com/2024/03/01/us/oregon-drug-decriminalization-rollback-measure-110.html)
 * [2024-03-02, 06:27:13](https://news.ycombinator.com/item?id=39570353) - [The human eye can see 'invisible' infrared light](https://source.wustl.edu/2014/12/the-human-eye-can-see-invisible-infrared-light/)
+* [2024-03-02, 06:25:29](https://news.ycombinator.com/item?id=39570343) - [Konilo: A personal computing system in Forth](http://konilo.org/)
 * [2024-03-02, 05:40:34](https://news.ycombinator.com/item?id=39570133) - [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
 * [2024-03-02, 04:36:37](https://news.ycombinator.com/item?id=39569843) - [Don't Use Discord for FOSS](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
 * [2024-03-02, 04:28:48](https://news.ycombinator.com/item?id=39569794) - [Phrack 71 Call for Papers](http://www.phrack.org/)
