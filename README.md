@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
+* [2024-03-02, 07:25:29](https://news.ycombinator.com/item?id=39570657) - [Google lays off entire team while they are testifying to the city council](https://mas.to/@yogthos/112020432735682211)
 * [2024-03-02, 06:47:10](https://news.ycombinator.com/item?id=39570444) - [Oregon Is Recriminalizing Drugs, Dealing Setback to Reform Movement](https://www.nytimes.com/2024/03/01/us/oregon-drug-decriminalization-rollback-measure-110.html)
 * [2024-03-02, 05:40:34](https://news.ycombinator.com/item?id=39570133) - [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
 * [2024-03-02, 04:36:37](https://news.ycombinator.com/item?id=39569843) - [Don't Use Discord for FOSS (2021)](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
@@ -20,8 +22,7 @@
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 17:33:54](https://news.ycombinator.com/item?id=39564254) - [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
 * [2024-03-01, 16:48:45](https://news.ycombinator.com/item?id=39563618) - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
-* [2024-03-01, 16:25:00](https://news.ycombinator.com/item?id=39563305) - [Show HN: Replay your typing in a few lines of JavaScript](https://einenlum.github.io/human-replay/)
-* [2024-03-01, 15:24:09](https://news.ycombinator.com/item?id=39562610) - [The Telechron master station clock was used to maintain power grid frequency](https://spectrum.ieee.org/history-of-power-grid)
+* [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-01, 11:51:11](https://news.ycombinator.com/item?id=39560887) - [I accidentally deleted a bad game revision from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
 * [2024-03-01, 11:47:30](https://news.ycombinator.com/item?id=39560862) - [Where is Noether's principle in machine learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
@@ -29,7 +30,6 @@
 * [2024-02-29, 13:52:51](https://news.ycombinator.com/item?id=39549273) - [Microsoft Security-101: Open-Source curriculum](https://github.com/microsoft/Security-101)
 * [2024-02-29, 11:59:02](https://news.ycombinator.com/item?id=39548260) - [Dallol](https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system))
 * [2024-02-29, 09:32:34](https://news.ycombinator.com/item?id=39547822) - [Ask HN: Are there any websites for SQL puzzle games?](https://news.ycombinator.com/item?id=39547822)
-* [2024-02-29, 07:49:09](https://news.ycombinator.com/item?id=39547236) - [How does the sky turn dark at night?](https://apod.nasa.gov/apod/ap240228.html)
 
 ## [Archives](archives/index.md)
 
