@@ -31,6 +31,7 @@
 * [2024-03-02, 08:52:37](https://news.ycombinator.com/item?id=39571135) - [Bitwarden – Going Native](https://old.reddit.com/r/Bitwarden/comments/1b32bbz/going_native_the_future_of_the_bitwarden_mobile/)
 * [2024-03-02, 08:38:52](https://news.ycombinator.com/item?id=39571074) - [Show HN: ReverseETL – The open-source alternative to Hightouch and Census](https://github.com/Multiwoven/multiwoven)
 * [2024-03-02, 08:30:04](https://news.ycombinator.com/item?id=39571033) - [Text UIs != Terminal UIs](https://aartaka.me/tui-is-not-tui)
+* [2024-03-02, 08:28:40](https://news.ycombinator.com/item?id=39571025) - [OpenIPC is an alternative open firmware for your IP camera](https://openipc.org/)
 * [2024-03-02, 08:19:16](https://news.ycombinator.com/item?id=39570983) - [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
 * [2024-03-02, 08:14:10](https://news.ycombinator.com/item?id=39570955) - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
