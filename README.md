@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-02, 20:31:15](https://news.ycombinator.com/item?id=39575498) - [We Can't Have Serious Discussions About Section 230 If People Misrepresent It](https://www.techdirt.com/2024/03/01/we-cant-have-serious-discussions-about-section-230-if-people-keep-misrepresenting-it/)
+* [2024-03-02, 20:13:12](https://news.ycombinator.com/item?id=39575395) - [Clang accepts MSVC arguments and targets Windows if its binary is named clang-cl](https://github.com/llvm/llvm-project/blob/8ec28af8eaff5acd0df3e53340159c034f08533d/clang/lib/Driver/Driver.cpp)
+* [2024-03-02, 20:01:38](https://news.ycombinator.com/item?id=39575326) - [Ask HN: Is it normal that Mistral answers he's GPT?](https://news.ycombinator.com/item?id=39575326)
 * [2024-03-02, 19:59:52](https://news.ycombinator.com/item?id=39575314) - [High Expectations: Observational Study of Programming and Cannabis Intoxication](https://arxiv.org/abs/2402.19194)
 * [2024-03-02, 19:38:34](https://news.ycombinator.com/item?id=39575172) - [IEA: 20% of 2023 new car sales globally were EVs, curbing oil demand](https://electrek.co/2024/03/02/1-in-5-new-car-sales-globally-in-were-evs-in-2023-oil-demand-iea/)
 * [2024-03-02, 19:31:58](https://news.ycombinator.com/item?id=39575122) - [Git: Programmatic Staging](https://choly.ca/post/git-programmatic-staging/)
 * [2024-03-02, 18:53:50](https://news.ycombinator.com/item?id=39574878) - [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
 * [2024-03-02, 18:10:39](https://news.ycombinator.com/item?id=39574436) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
 * [2024-03-02, 18:06:25](https://news.ycombinator.com/item?id=39574397) - [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
-* [2024-03-02, 17:25:56](https://news.ycombinator.com/item?id=39574055) - [Show HN: DanGPT–Dan Abramov as a GenAI with RAG](https://dangpt.vercel.app/)
 * [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016)](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 14:44:44](https://news.ycombinator.com/item?id=39572871) - [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
@@ -24,12 +26,10 @@
 * [2024-03-02, 06:25:29](https://news.ycombinator.com/item?id=39570343) - [Konilo: A personal computing system in Forth](http://konilo.org/)
 * [2024-03-02, 04:17:08](https://news.ycombinator.com/item?id=39569759) - [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
 * [2024-03-02, 02:43:08](https://news.ycombinator.com/item?id=39569331) - [A reactionary take on memory safety](https://lcamtuf.substack.com/p/a-reactionary-take-on-memory-safety)
-* [2024-03-02, 01:52:07](https://news.ycombinator.com/item?id=39569077) - [A 45 year engineer clears up electric sauna ventilation](https://www.saunatimes.com/sauna-information/a-45-year-engineer-clears-up-electric-sauna-ventilation/)
 * [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-01, 22:58:12](https://news.ycombinator.com/item?id=39567829) - [Chicken eggs are formed [video]](https://www.youtube.com/watch?v=5gdX04NgEMs)
 * [2024-02-29, 20:21:19](https://news.ycombinator.com/item?id=39554518) - [Drinking with Agatha Christie](https://crimereads.com/drinking-with-agatha-christie/)
 * [2024-02-29, 18:01:07](https://news.ycombinator.com/item?id=39552734) - [Silicon Valley weapons system117l and corona (2010)](https://steveblank.com/2010/01/18/the-secret-history-of-silicon-valley-part-14-weapons-system-117l-and-corona/)
-* [2024-02-29, 11:59:02](https://news.ycombinator.com/item?id=39548260) - [Dallol](https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system))
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 20:31:15](https://news.ycombinator.com/item?id=39575498) - [We Can't Have Serious Discussions About Section 230 If People Misrepresent It](https://www.techdirt.com/2024/03/01/we-cant-have-serious-discussions-about-section-230-if-people-keep-misrepresenting-it/)
+* [2024-03-02, 20:13:12](https://news.ycombinator.com/item?id=39575395) - [Clang accepts MSVC arguments and targets Windows if its binary is named clang-cl](https://github.com/llvm/llvm-project/blob/8ec28af8eaff5acd0df3e53340159c034f08533d/clang/lib/Driver/Driver.cpp)
+* [2024-03-02, 20:01:38](https://news.ycombinator.com/item?id=39575326) - [Ask HN: Is it normal that Mistral answers he's GPT?](https://news.ycombinator.com/item?id=39575326)
 * [2024-03-02, 19:59:52](https://news.ycombinator.com/item?id=39575314) - [High Expectations: Observational Study of Programming and Cannabis Intoxication](https://arxiv.org/abs/2402.19194)
 * [2024-03-02, 19:38:34](https://news.ycombinator.com/item?id=39575172) - [IEA: 20% of 2023 new car sales globally were EVs, curbing oil demand](https://electrek.co/2024/03/02/1-in-5-new-car-sales-globally-in-were-evs-in-2023-oil-demand-iea/)
 * [2024-03-02, 19:31:58](https://news.ycombinator.com/item?id=39575122) - [Git: Programmatic Staging](https://choly.ca/post/git-programmatic-staging/)
