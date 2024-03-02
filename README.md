@@ -22,7 +22,7 @@
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 18:02:16](https://news.ycombinator.com/item?id=39564637) - [Out of the Woods](https://www.nytimes.com/2015/08/09/magazine/out-of-the-woods.html)
 * [2024-03-01, 17:33:54](https://news.ycombinator.com/item?id=39564254) - [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
-* [2024-03-01, 15:24:09](https://news.ycombinator.com/item?id=39562610) - [The Telechron master station clock was used to maintain power grid frequency](https://spectrum.ieee.org/history-of-power-grid)
+* [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-01, 11:51:11](https://news.ycombinator.com/item?id=39560887) - [I accidentally deleted a bad game revision from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
 * [2024-03-01, 11:47:30](https://news.ycombinator.com/item?id=39560862) - [Where is Noether's principle in machine learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
