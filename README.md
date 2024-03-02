@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-02, 23:01:17](https://news.ycombinator.com/item?id=39576592) - [Generative AI's environmental costs are soaring – and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
+* [2024-03-02, 22:53:54](https://news.ycombinator.com/item?id=39576530) - [Apple Vision Pro's Optics Blurrier and Lower Contrast Than Meta Quest 3](https://kguttag.com/2024/03/01/apple-vision-pros-optics-blurrier-lower-contrast-than-meta-quest-3/)
 * [2024-03-02, 21:10:35](https://news.ycombinator.com/item?id=39575803) - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
 * [2024-03-02, 21:00:33](https://news.ycombinator.com/item?id=39575717) - [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
 * [2024-03-02, 19:59:01](https://news.ycombinator.com/item?id=39575308) - [Researchers create AI worms that can spread from one system to another](https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/)
@@ -11,7 +13,6 @@
 * [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016)](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 15:01:49](https://news.ycombinator.com/item?id=39572984) - [On the trail of the Denisovans](https://www.nytimes.com/2024/03/02/science/denisovan-neanderthal-dna.html)
-* [2024-03-02, 14:44:44](https://news.ycombinator.com/item?id=39572871) - [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 * [2024-03-02, 14:22:27](https://news.ycombinator.com/item?id=39572718) - [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
 * [2024-03-02, 13:47:26](https://news.ycombinator.com/item?id=39572488) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
@@ -26,7 +27,6 @@
 * [2024-03-02, 07:29:30](https://news.ycombinator.com/item?id=39570679) - [KamilaLisp – A functional, flexible and concise Lisp](https://github.com/kspalaiologos/kamilalisp)
 * [2024-03-02, 06:25:29](https://news.ycombinator.com/item?id=39570343) - [Konilo: A personal computing system in Forth](http://konilo.org/)
 * [2024-03-02, 03:54:37](https://news.ycombinator.com/item?id=39569655) - [Under the Microscope: Three Dirty Dwarves](https://32bits.substack.com/p/under-the-microscope-three-dirty)
-* [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-01, 22:58:12](https://news.ycombinator.com/item?id=39567829) - [Chicken Egg Production (2019) [video]](https://www.youtube.com/watch?v=5gdX04NgEMs)
 * [2024-03-01, 19:48:16](https://news.ycombinator.com/item?id=39565992) - [Tools of the Wild: Unveiling the Crafty Side of Nature](https://www.sapiens.org/archaeology/archaeology-tool-user-intelligence/)
 * [2024-02-29, 20:21:19](https://news.ycombinator.com/item?id=39554518) - [Drinking with Agatha Christie](https://crimereads.com/drinking-with-agatha-christie/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 23:01:17](https://news.ycombinator.com/item?id=39576592) - [Generative AI's environmental costs are soaring – and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
+* [2024-03-02, 22:53:54](https://news.ycombinator.com/item?id=39576530) - [Apple Vision Pro's Optics Blurrier and Lower Contrast Than Meta Quest 3](https://kguttag.com/2024/03/01/apple-vision-pros-optics-blurrier-lower-contrast-than-meta-quest-3/)
 * [2024-03-02, 22:05:02](https://news.ycombinator.com/item?id=39576176) - [EFF argues DMCA section 1201(a) violates First Amendment](https://www.eff.org/press/releases/licensing-scheme-fair-uses-and-other-speech-violates-first-amendment-eff-argues)
 * [2024-03-02, 21:10:35](https://news.ycombinator.com/item?id=39575803) - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
 * [2024-03-02, 21:02:11](https://news.ycombinator.com/item?id=39575732) - [Judge holds journalist in civil contempt for refusing to divulge source](https://apnews.com/article/catherine-herridge-journalist-contempt-fox-news-cbs-63f6b2cde67fceae192daebe5d11b1a1)
