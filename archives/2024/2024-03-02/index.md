@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 04:28:48](https://news.ycombinator.com/item?id=39569794) - [Phrack 71 Call for Papers](http://www.phrack.org/)
+* [2024-03-02, 04:17:08](https://news.ycombinator.com/item?id=39569759) - [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
 * [2024-03-02, 04:10:59](https://news.ycombinator.com/item?id=39569734) - [Remaking Super Mario World in Godot](https://www.youtube.com/watch?v=u2fwxuHZXIA)
+* [2024-03-02, 04:01:19](https://news.ycombinator.com/item?id=39569682) - [Stephen Covey Quotes](https://blog.hptbydts.com/30-of-the-best-stephen-covey-quotes)
+* [2024-03-02, 03:54:54](https://news.ycombinator.com/item?id=39569656) - [Hugging Face, the GitHub of AI, hosted code that backdoored user devices](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
 * [2024-03-02, 03:33:26](https://news.ycombinator.com/item?id=39569559) - [Google Messages RCS is blocked on rooted, custom ROM Android phones](https://9to5google.com/2024/02/29/google-messages-rcs-rooted/)
 * [2024-03-02, 02:31:33](https://news.ycombinator.com/item?id=39569274) - [Americans are spending the biggest share of their income on food in 3 decades](https://www.cbsnews.com/news/inflation-consumer-spending-food-and-restaurants-disposable-income-2024/)
 * [2024-03-02, 02:29:33](https://news.ycombinator.com/item?id=39569259) - [IRS is going after Americans who earn more $400k but don't file tax returns](https://fortune.com/2024/03/01/irs-125000-americans-earn-over-400000-no-file-tax-returns/)
