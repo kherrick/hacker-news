@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-02, 10:10:02",
+      "https://news.ycombinator.com/item?id=39571470"
+    ],
+    [
+      "The Power of the 0.1x Developer: Unsung Heroes of the Codebase",
+      "https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 10:03:01",
+      "https://news.ycombinator.com/item?id=39571439"
+    ],
+    [
+      "R: Introduction to Data Science",
+      "http://rafalab.dfci.harvard.edu/dsbook-part-1/"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 09:55:02",
       "https://news.ycombinator.com/item?id=39571412"
     ],
@@ -27,16 +47,6 @@
     [
       "Text UIs != Terminal UIs",
       "https://aartaka.me/tui-is-not-tui"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 08:19:16",
-      "https://news.ycombinator.com/item?id=39570983"
-    ],
-    [
-      "How did the viral Willy Wonka experience go so wrong?",
-      "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Fixing Ext4 Under Pressure",
       "https://sdomi.pl/weblog/18-fixing-ext4-under-pressure/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 20:05:58",
-      "https://news.ycombinator.com/item?id=39566183"
-    ],
-    [
-      "Show HN: Mojo Language Syntax Highlighting for Vim",
-      "https://github.com/ovikrai/mojo-syntax"
     ]
   ],
   [
