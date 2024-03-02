@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-02, 02:31:33](https://news.ycombinator.com/item?id=39569274) - [Americans are spending the biggest share of their income on food in 3 decades](https://www.cbsnews.com/news/inflation-consumer-spending-food-and-restaurants-disposable-income-2024/)
 * [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-01, 22:34:02](https://news.ycombinator.com/item?id=39567597) - [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
 * [2024-03-01, 21:02:59](https://news.ycombinator.com/item?id=39566766) - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
@@ -18,8 +19,6 @@
 * [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-01, 13:57:30](https://news.ycombinator.com/item?id=39561799) - [Colony Graphs: Visualizing the Cloud (2014)](https://www.brendangregg.com/ColonyGraphs/cloud.html)
-* [2024-03-01, 13:41:30](https://news.ycombinator.com/item?id=39561656) - [Seismology of rubble-pile asteroids in binary systems](https://academic.oup.com/mnras/article/528/4/6568/7596572)
-* [2024-03-01, 13:33:23](https://news.ycombinator.com/item?id=39561594) - [JSR: The JavaScript Registry](https://jsr.io)
 * [2024-03-01, 13:21:19](https://news.ycombinator.com/item?id=39561492) - [A daddy-longlegs possesses six eyes, including two vestigial pairs](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
 * [2024-03-01, 13:01:50](https://news.ycombinator.com/item?id=39561356) - [The 'Atlanta Magnet Man' is saving our car tires, one bike ride at a time](https://www.wabe.org/the-atlanta-magnet-man-is-saving-our-car-tires-one-bike-ride-at-a-time/)
 * [2024-03-01, 12:13:31](https://news.ycombinator.com/item?id=39561021) - [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://theins.ru/en/politics/269612)
@@ -28,6 +27,7 @@
 * [2024-03-01, 11:26:05](https://news.ycombinator.com/item?id=39560769) - [The lithium-ion battery may not be the best bet for EVs](https://spectrum.ieee.org/ev-batteries-environment)
 * [2024-03-01, 08:56:05](https://news.ycombinator.com/item?id=39559966) - [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf)
 * [2024-03-01, 06:55:59](https://news.ycombinator.com/item?id=39559281) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
+* [2024-02-29, 11:59:02](https://news.ycombinator.com/item?id=39548260) - [Dallol](https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system))
 * [2024-02-29, 09:32:34](https://news.ycombinator.com/item?id=39547822) - [Ask HN: Are there any websites for SQL puzzle games?](https://news.ycombinator.com/item?id=39547822)
 * [2024-02-29, 07:49:09](https://news.ycombinator.com/item?id=39547236) - [How does the sky turn dark at night?](https://apod.nasa.gov/apod/ap240228.html)
 
