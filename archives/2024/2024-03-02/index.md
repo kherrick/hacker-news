@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 16:47:52](https://news.ycombinator.com/item?id=39573744) - [Oregon undoes groundbreaking drug decriminalization law](https://www.theguardian.com/us-news/2024/mar/02/oregon-overturn-drug-decriminalize-law)
+* [2024-03-02, 16:41:46](https://news.ycombinator.com/item?id=39573691) - [Badssl.com](https://badssl.com/)
 * [2024-03-02, 15:20:46](https://news.ycombinator.com/item?id=39573097) - [Nvidia and AMD Are Overhyped and Overvalued](https://seekingalpha.com/article/4664472-nvidia-and-amd-are-overhyped-and-overvalued)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016)](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 15:09:58](https://news.ycombinator.com/item?id=39573039) - [NASA satellite, Russian spacecraft crossed within 65 ft (20M) of each other](https://www.space.com/near-collision-nasa-timed-satellite-russian-space-junk)
