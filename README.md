@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-02, 22:05:02](https://news.ycombinator.com/item?id=39576176) - [EFF argues DMCA section 1201(a) violates First Amendment](https://www.eff.org/press/releases/licensing-scheme-fair-uses-and-other-speech-violates-first-amendment-eff-argues)
 * [2024-03-02, 21:10:35](https://news.ycombinator.com/item?id=39575803) - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
 * [2024-03-02, 21:00:33](https://news.ycombinator.com/item?id=39575717) - [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
 * [2024-03-02, 19:53:42](https://news.ycombinator.com/item?id=39575274) - [Sorting the Self: Assessments and the Cult of Personality](https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self)
@@ -24,7 +25,6 @@
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-02, 07:29:30](https://news.ycombinator.com/item?id=39570679) - [KamilaLisp – A functional, flexible and concise Lisp](https://github.com/kspalaiologos/kamilalisp)
 * [2024-03-02, 06:25:29](https://news.ycombinator.com/item?id=39570343) - [Konilo: A personal computing system in Forth](http://konilo.org/)
-* [2024-03-02, 01:52:07](https://news.ycombinator.com/item?id=39569077) - [A 45 year engineer clears up electric sauna ventilation](https://www.saunatimes.com/sauna-information/a-45-year-engineer-clears-up-electric-sauna-ventilation/)
 * [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-01, 22:58:12](https://news.ycombinator.com/item?id=39567829) - [Chicken Egg Production (2019) [video]](https://www.youtube.com/watch?v=5gdX04NgEMs)
 * [2024-03-01, 19:48:16](https://news.ycombinator.com/item?id=39565992) - [Tools of the Wild: Unveiling the Crafty Side of Nature](https://www.sapiens.org/archaeology/archaeology-tool-user-intelligence/)
