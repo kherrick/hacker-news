@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-02, 21:02:11](https://news.ycombinator.com/item?id=39575732) - [Judge holds journalist in civil contempt for refusing to divulge source](https://apnews.com/article/catherine-herridge-journalist-contempt-fox-news-cbs-63f6b2cde67fceae192daebe5d11b1a1)
+* [2024-03-02, 20:55:46](https://news.ycombinator.com/item?id=39575671) - [Linux from Scratch v12.1 Released](https://www.linuxfromscratch.org/)
 * [2024-03-02, 20:31:15](https://news.ycombinator.com/item?id=39575498) - [We Can't Have Serious Discussions About Section 230 If People Misrepresent It](https://www.techdirt.com/2024/03/01/we-cant-have-serious-discussions-about-section-230-if-people-keep-misrepresenting-it/)
-* [2024-03-02, 20:13:12](https://news.ycombinator.com/item?id=39575395) - [Clang accepts MSVC arguments and targets Windows if its binary is named clang-cl](https://github.com/llvm/llvm-project/blob/8ec28af8eaff5acd0df3e53340159c034f08533d/clang/lib/Driver/Driver.cpp)
 * [2024-03-02, 20:01:38](https://news.ycombinator.com/item?id=39575326) - [Ask HN: Is it normal that Mistral answers he's GPT?](https://news.ycombinator.com/item?id=39575326)
 * [2024-03-02, 19:59:52](https://news.ycombinator.com/item?id=39575314) - [High Expectations: Observational Study of Programming and Cannabis Intoxication](https://arxiv.org/abs/2402.19194)
 * [2024-03-02, 19:38:34](https://news.ycombinator.com/item?id=39575172) - [IEA: 20% of 2023 new car sales globally were EVs, curbing oil demand](https://electrek.co/2024/03/02/1-in-5-new-car-sales-globally-in-were-evs-in-2023-oil-demand-iea/)
@@ -26,7 +27,6 @@
 * [2024-03-02, 06:25:29](https://news.ycombinator.com/item?id=39570343) - [Konilo: A personal computing system in Forth](http://konilo.org/)
 * [2024-03-02, 04:17:08](https://news.ycombinator.com/item?id=39569759) - [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
 * [2024-03-02, 02:43:08](https://news.ycombinator.com/item?id=39569331) - [A reactionary take on memory safety](https://lcamtuf.substack.com/p/a-reactionary-take-on-memory-safety)
-* [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-01, 22:58:12](https://news.ycombinator.com/item?id=39567829) - [Chicken eggs are formed [video]](https://www.youtube.com/watch?v=5gdX04NgEMs)
 * [2024-02-29, 20:21:19](https://news.ycombinator.com/item?id=39554518) - [Drinking with Agatha Christie](https://crimereads.com/drinking-with-agatha-christie/)
 * [2024-02-29, 18:01:07](https://news.ycombinator.com/item?id=39552734) - [Silicon Valley weapons system117l and corona (2010)](https://steveblank.com/2010/01/18/the-secret-history-of-silicon-valley-part-14-weapons-system-117l-and-corona/)
