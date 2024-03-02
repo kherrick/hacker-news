@@ -77,6 +77,7 @@
 * [2024-02-29, 14:00:55](https://news.ycombinator.com/item?id=39549380) - [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
 * [2024-02-29, 13:58:13](https://news.ycombinator.com/item?id=39549340) - [Apple is turning William Gibson's Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
 * [2024-02-29, 13:57:37](https://news.ycombinator.com/item?id=39549334) - [European media orgs legal action against Google](https://adtechclaim.eu/february-2024-case/)
+* [2024-02-29, 13:52:51](https://news.ycombinator.com/item?id=39549273) - [Microsoft Security-101: Open-Source curriculum](https://github.com/microsoft/Security-101)
 * [2024-02-29, 13:47:28](https://news.ycombinator.com/item?id=39549215) - [Ever Dealt with a Leap Second?](https://www.talesfromtheopsside.com/blog/how-a-leap-second-caused-havoc-with-the-internet/)
 * [2024-02-29, 13:45:44](https://news.ycombinator.com/item?id=39549194) - [Show HN: Workout Tracker – self-hosted, single binary web application](https://github.com/jovandeginste/workout-tracker)
 * [2024-02-29, 13:35:51](https://news.ycombinator.com/item?id=39549098) - [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
