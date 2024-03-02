@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 21:10:35](https://news.ycombinator.com/item?id=39575803) - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
 * [2024-03-02, 21:02:11](https://news.ycombinator.com/item?id=39575732) - [Judge holds journalist in civil contempt for refusing to divulge source](https://apnews.com/article/catherine-herridge-journalist-contempt-fox-news-cbs-63f6b2cde67fceae192daebe5d11b1a1)
 * [2024-03-02, 20:55:46](https://news.ycombinator.com/item?id=39575671) - [Linux from Scratch v12.1 Released](https://www.linuxfromscratch.org/)
 * [2024-03-02, 20:31:15](https://news.ycombinator.com/item?id=39575498) - [We Can't Have Serious Discussions About Section 230 If People Misrepresent It](https://www.techdirt.com/2024/03/01/we-cant-have-serious-discussions-about-section-230-if-people-keep-misrepresenting-it/)
