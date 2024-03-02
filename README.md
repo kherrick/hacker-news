@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-02, 03:33:26](https://news.ycombinator.com/item?id=39569559) - [Google Messages RCS is blocked on rooted, custom ROM Android phones](https://9to5google.com/2024/02/29/google-messages-rcs-rooted/)
+* [2024-03-02, 02:29:33](https://news.ycombinator.com/item?id=39569259) - [IRS is going after Americans who earn more $400k but don't file tax returns](https://fortune.com/2024/03/01/irs-125000-americans-earn-over-400000-no-file-tax-returns/)
 * [2024-03-02, 01:28:12](https://news.ycombinator.com/item?id=39568935) - [Spotify, Epic Games pen letter to EC, claiming Apple has made a 'mockery' of DMA](https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/)
 * [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-02, 00:30:06](https://news.ycombinator.com/item?id=39568622) - [ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)
@@ -9,7 +10,6 @@
 * [2024-03-01, 21:02:59](https://news.ycombinator.com/item?id=39566766) - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
 * [2024-03-01, 20:59:18](https://news.ycombinator.com/item?id=39566732) - [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
 * [2024-03-01, 19:54:30](https://news.ycombinator.com/item?id=39566064) - [Lazarus and the FudModule rootkit: Beyond BYOVD with an admin-to-kernel zero-day](https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/)
-* [2024-03-01, 19:29:33](https://news.ycombinator.com/item?id=39565788) - [Ask HN: How do you find employment opportunities in 2024?](https://news.ycombinator.com/item?id=39565788)
 * [2024-03-01, 18:22:47](https://news.ycombinator.com/item?id=39564899) - [Lorenzo Milam, pioneer of community radio (2020)](https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 17:33:54](https://news.ycombinator.com/item?id=39564254) - [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
