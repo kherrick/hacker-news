@@ -2,6 +2,7 @@
 
 * [2024-03-02, 12:36:01](https://news.ycombinator.com/item?id=39572149) - [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
 * [2024-03-02, 12:02:19](https://news.ycombinator.com/item?id=39571975) - [Could Modified Gravity Kill Planet Nine?](https://nautil.us/could-modified-gravity-kill-planet-nine-521271/)
+* [2024-03-02, 10:10:02](https://news.ycombinator.com/item?id=39571470) - [The Power of the 0.1x Developer: Unsung Heroes of the Codebase](https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8)
 * [2024-03-02, 10:03:01](https://news.ycombinator.com/item?id=39571439) - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 * [2024-03-02, 09:55:02](https://news.ycombinator.com/item?id=39571412) - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 * [2024-03-02, 09:30:29](https://news.ycombinator.com/item?id=39571308) - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
@@ -19,7 +20,6 @@
 * [2024-03-01, 22:52:57](https://news.ycombinator.com/item?id=39567780) - [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm)
 * [2024-03-01, 22:36:41](https://news.ycombinator.com/item?id=39567627) - [Building a Scalable Accounting Ledger](https://scratchdata.com/blog/building-a-ledger/)
 * [2024-03-01, 22:34:02](https://news.ycombinator.com/item?id=39567597) - [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
-* [2024-03-01, 21:02:59](https://news.ycombinator.com/item?id=39566766) - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
 * [2024-03-01, 20:59:18](https://news.ycombinator.com/item?id=39566732) - [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 * [2024-03-01, 15:24:09](https://news.ycombinator.com/item?id=39562610) - [The Telechron master station clock was used to maintain power grid frequency](https://spectrum.ieee.org/history-of-power-grid)
