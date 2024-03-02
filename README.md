@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 * [2024-03-02, 16:41:46](https://news.ycombinator.com/item?id=39573691) - [Badssl.com](https://badssl.com/)
 * [2024-03-02, 16:02:14](https://news.ycombinator.com/item?id=39573392) - [CDC ditches 5-day Covid isolation, argues Covid is becoming flu-like](https://arstechnica.com/science/2024/03/cdc-ditches-5-day-covid-isolation-argues-covid-is-becoming-flu-like/)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016)](https://www.youtube.com/watch?v=IvUU8joBb1Q)
@@ -24,10 +25,9 @@
 * [2024-03-02, 00:30:06](https://news.ycombinator.com/item?id=39568622) - [ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 * [2024-03-01, 22:52:57](https://news.ycombinator.com/item?id=39567780) - [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm)
 * [2024-03-01, 20:59:18](https://news.ycombinator.com/item?id=39566732) - [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
+* [2024-03-01, 18:22:47](https://news.ycombinator.com/item?id=39564899) - [Lorenzo Milam, pioneer of community radio (2020)](https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/)
 * [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
-* [2024-03-01, 11:51:11](https://news.ycombinator.com/item?id=39560887) - [I accidentally deleted a bad game revision from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
-* [2024-03-01, 11:47:30](https://news.ycombinator.com/item?id=39560862) - [Where is Noether's principle in machine learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
 * [2024-02-29, 18:01:07](https://news.ycombinator.com/item?id=39552734) - [Silicon Valley weapons system117l and corona (2010)](https://steveblank.com/2010/01/18/the-secret-history-of-silicon-valley-part-14-weapons-system-117l-and-corona/)
 * [2024-02-29, 11:59:02](https://news.ycombinator.com/item?id=39548260) - [Dallol](https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system))
 
