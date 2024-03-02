@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 13:31:43](https://news.ycombinator.com/item?id=39572395) - [How the Brexit dream of Singapore-on-Thames was lost](https://www.telegraph.co.uk/business/2024/02/28/uk-eu-are-being-pushed-back-together/)
 * [2024-03-02, 12:36:01](https://news.ycombinator.com/item?id=39572149) - [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
 * [2024-03-02, 12:18:07](https://news.ycombinator.com/item?id=39572050) - [GitHub struggles to keep up with automated malicious forks](https://www.theregister.com/2024/03/01/github_automated_fork_campaign/)
 * [2024-03-02, 12:17:19](https://news.ycombinator.com/item?id=39572049) - [Indians are unwittingly recruited into the Russian army](https://www.lemonde.fr/en/international/article/2024/02/29/indians-are-unwittingly-recruited-into-the-russian-army_6573586_4.html)
@@ -15,6 +16,7 @@
 * [2024-03-02, 10:03:01](https://news.ycombinator.com/item?id=39571439) - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 * [2024-03-02, 09:55:02](https://news.ycombinator.com/item?id=39571412) - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 * [2024-03-02, 09:30:29](https://news.ycombinator.com/item?id=39571308) - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
+* [2024-03-02, 08:52:37](https://news.ycombinator.com/item?id=39571135) - [Bitwarden – Going Native](https://old.reddit.com/r/Bitwarden/comments/1b32bbz/going_native_the_future_of_the_bitwarden_mobile/)
 * [2024-03-02, 08:30:04](https://news.ycombinator.com/item?id=39571033) - [Text UIs != Terminal UIs](https://aartaka.me/tui-is-not-tui)
 * [2024-03-02, 08:19:16](https://news.ycombinator.com/item?id=39570983) - [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
 * [2024-03-02, 08:14:10](https://news.ycombinator.com/item?id=39570955) - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
