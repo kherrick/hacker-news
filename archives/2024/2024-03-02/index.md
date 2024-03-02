@@ -30,3 +30,4 @@
 * [2024-03-02, 01:28:12](https://news.ycombinator.com/item?id=39568935) - [Spotify, Epic Games pen letter to EC, claiming Apple has made a 'mockery' of DMA](https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/)
 * [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-02, 00:30:06](https://news.ycombinator.com/item?id=39568622) - [ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)
+* [2024-03-02, 00:20:51](https://news.ycombinator.com/item?id=39568536) - [TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com/#)
