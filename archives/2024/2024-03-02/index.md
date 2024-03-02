@@ -5,7 +5,11 @@
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
 * [2024-03-02, 12:36:01](https://news.ycombinator.com/item?id=39572149) - [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
+* [2024-03-02, 12:18:07](https://news.ycombinator.com/item?id=39572050) - [GitHub struggles to keep up with automated malicious forks](https://www.theregister.com/2024/03/01/github_automated_fork_campaign/)
+* [2024-03-02, 12:17:19](https://news.ycombinator.com/item?id=39572049) - [Indians are unwittingly recruited into the Russian army](https://www.lemonde.fr/en/international/article/2024/02/29/indians-are-unwittingly-recruited-into-the-russian-army_6573586_4.html)
 * [2024-03-02, 12:02:19](https://news.ycombinator.com/item?id=39571975) - [Could Modified Gravity Kill Planet Nine?](https://nautil.us/could-modified-gravity-kill-planet-nine-521271/)
+* [2024-03-02, 12:01:21](https://news.ycombinator.com/item?id=39571967) - [HardenedBSD February 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report)
+* [2024-03-02, 11:27:59](https://news.ycombinator.com/item?id=39571814) - [TextAdept](https://orbitalquark.github.io/textadept/)
 * [2024-03-02, 10:39:13](https://news.ycombinator.com/item?id=39571593) - [What is Truth in this new AI world and how to make sense of it](https://news.ycombinator.com/item?id=39571593)
 * [2024-03-02, 10:10:02](https://news.ycombinator.com/item?id=39571470) - [The Power of the 0.1x Developer: Unsung Heroes of the Codebase](https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8)
 * [2024-03-02, 10:03:01](https://news.ycombinator.com/item?id=39571439) - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
