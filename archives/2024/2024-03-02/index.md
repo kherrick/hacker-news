@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 10:10:02](https://news.ycombinator.com/item?id=39571470) - [The Power of the 0.1x Developer: Unsung Heroes of the Codebase](https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8)
+* [2024-03-02, 10:03:01](https://news.ycombinator.com/item?id=39571439) - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 * [2024-03-02, 09:55:02](https://news.ycombinator.com/item?id=39571412) - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 * [2024-03-02, 09:30:29](https://news.ycombinator.com/item?id=39571308) - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
 * [2024-03-02, 08:30:04](https://news.ycombinator.com/item?id=39571033) - [Text UIs != Terminal UIs](https://aartaka.me/tui-is-not-tui)
