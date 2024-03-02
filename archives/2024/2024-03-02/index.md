@@ -68,6 +68,7 @@
 * [2024-03-02, 08:28:40](https://news.ycombinator.com/item?id=39571025) - [OpenIPC is an alternative open firmware for your IP camera](https://openipc.org/)
 * [2024-03-02, 08:19:16](https://news.ycombinator.com/item?id=39570983) - [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
 * [2024-03-02, 08:14:10](https://news.ycombinator.com/item?id=39570955) - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
+* [2024-03-02, 07:31:43](https://news.ycombinator.com/item?id=39570696) - [The speed of Microsoft's BASIC floating point routines](https://boston.conman.org/2024/03/01.1)
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-02, 07:29:30](https://news.ycombinator.com/item?id=39570679) - [KamilaLisp – A functional, flexible and concise Lisp](https://github.com/kspalaiologos/kamilalisp)
 * [2024-03-02, 07:25:29](https://news.ycombinator.com/item?id=39570657) - [Google lays off entire team while they are testifying to the city council](https://mas.to/@yogthos/112020432735682211)
