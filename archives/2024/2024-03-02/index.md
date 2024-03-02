@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 06:47:10](https://news.ycombinator.com/item?id=39570444) - [Oregon Is Recriminalizing Drugs, Dealing Setback to Reform Movement](https://www.nytimes.com/2024/03/01/us/oregon-drug-decriminalization-rollback-measure-110.html)
+* [2024-03-02, 05:40:34](https://news.ycombinator.com/item?id=39570133) - [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
 * [2024-03-02, 04:36:37](https://news.ycombinator.com/item?id=39569843) - [Don't Use Discord for FOSS](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
 * [2024-03-02, 04:28:48](https://news.ycombinator.com/item?id=39569794) - [Phrack 71 Call for Papers](http://www.phrack.org/)
 * [2024-03-02, 04:17:08](https://news.ycombinator.com/item?id=39569759) - [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
