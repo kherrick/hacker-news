@@ -26,8 +26,8 @@
 * [2024-03-01, 22:52:57](https://news.ycombinator.com/item?id=39567780) - [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm)
 * [2024-03-01, 20:59:18](https://news.ycombinator.com/item?id=39566732) - [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
 * [2024-03-01, 18:22:47](https://news.ycombinator.com/item?id=39564899) - [Lorenzo Milam, pioneer of community radio (2020)](https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/)
-* [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
+* [2024-02-29, 20:21:19](https://news.ycombinator.com/item?id=39554518) - [Drinking with Agatha Christie](https://crimereads.com/drinking-with-agatha-christie/)
 * [2024-02-29, 18:01:07](https://news.ycombinator.com/item?id=39552734) - [Silicon Valley weapons system117l and corona (2010)](https://steveblank.com/2010/01/18/the-secret-history-of-silicon-valley-part-14-weapons-system-117l-and-corona/)
 * [2024-02-29, 11:59:02](https://news.ycombinator.com/item?id=39548260) - [Dallol](https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system))
 
