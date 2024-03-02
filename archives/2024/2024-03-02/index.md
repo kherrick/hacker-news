@@ -15,6 +15,7 @@
 * [2024-03-02, 03:33:26](https://news.ycombinator.com/item?id=39569559) - [Google Messages RCS is blocked on rooted, custom ROM Android phones](https://9to5google.com/2024/02/29/google-messages-rcs-rooted/)
 * [2024-03-02, 02:31:33](https://news.ycombinator.com/item?id=39569274) - [Americans are spending the biggest share of their income on food in 3 decades](https://www.cbsnews.com/news/inflation-consumer-spending-food-and-restaurants-disposable-income-2024/)
 * [2024-03-02, 02:29:33](https://news.ycombinator.com/item?id=39569259) - [IRS is going after Americans who earn more $400k but don't file tax returns](https://fortune.com/2024/03/01/irs-125000-americans-earn-over-400000-no-file-tax-returns/)
+* [2024-03-02, 01:52:07](https://news.ycombinator.com/item?id=39569077) - [A 45 year engineer clears up electric sauna ventilation](https://www.saunatimes.com/sauna-information/a-45-year-engineer-clears-up-electric-sauna-ventilation/)
 * [2024-03-02, 01:28:12](https://news.ycombinator.com/item?id=39568935) - [Spotify, Epic Games pen letter to EC, claiming Apple has made a 'mockery' of DMA](https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/)
 * [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-02, 00:30:06](https://news.ycombinator.com/item?id=39568622) - [ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)
