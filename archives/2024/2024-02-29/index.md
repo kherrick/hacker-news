@@ -41,6 +41,7 @@
 * [2024-02-29, 18:22:34](https://news.ycombinator.com/item?id=39552997) - [The Board of Directors Is in Charge](https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge)
 * [2024-02-29, 18:17:09](https://news.ycombinator.com/item?id=39552934) - [US spends billions on roads rather than public transport in 'climate time bomb'](https://www.theguardian.com/business/2024/feb/29/biden-spending-highways-public-transport-climate-crisis)
 * [2024-02-29, 18:12:22](https://news.ycombinator.com/item?id=39552882) - [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)
+* [2024-02-29, 18:01:07](https://news.ycombinator.com/item?id=39552734) - [Silicon Valley weapons system117l and corona](https://steveblank.com/2010/01/18/the-secret-history-of-silicon-valley-part-14-weapons-system-117l-and-corona/)
 * [2024-02-29, 17:59:16](https://news.ycombinator.com/item?id=39552705) - [Big Post About Big Context](https://gonzoml.substack.com/p/big-post-about-big-context)
 * [2024-02-29, 17:59:01](https://news.ycombinator.com/item?id=39552701) - [Google Brings Stack Overflow's Knowledge Base to Gemini for Google Cloud](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/)
 * [2024-02-29, 17:56:05](https://news.ycombinator.com/item?id=39552657) - [Show HN: Pipedream now has 1700 integrated APIs](https://pipedream.com/explore)

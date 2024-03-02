@@ -28,7 +28,7 @@
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-01, 11:51:11](https://news.ycombinator.com/item?id=39560887) - [I accidentally deleted a bad game revision from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
 * [2024-03-01, 11:47:30](https://news.ycombinator.com/item?id=39560862) - [Where is Noether's principle in machine learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
-* [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-02-29, 18:01:07](https://news.ycombinator.com/item?id=39552734) - [Silicon Valley weapons system117l and corona](https://steveblank.com/2010/01/18/the-secret-history-of-silicon-valley-part-14-weapons-system-117l-and-corona/)
 * [2024-02-29, 11:59:02](https://news.ycombinator.com/item?id=39548260) - [Dallol](https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system))
 
 ## [Archives](archives/index.md)
