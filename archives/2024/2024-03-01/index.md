@@ -15,6 +15,7 @@
 * [2024-03-01, 21:02:59](https://news.ycombinator.com/item?id=39566766) - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
 * [2024-03-01, 20:59:18](https://news.ycombinator.com/item?id=39566732) - [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
 * [2024-03-01, 20:07:28](https://news.ycombinator.com/item?id=39566205) - [Fixing Ext4 Under Pressure](https://sdomi.pl/weblog/18-fixing-ext4-under-pressure/)
+* [2024-03-01, 20:05:58](https://news.ycombinator.com/item?id=39566183) - [Show HN: Mojo Language Syntax Highlighting for Vim](https://github.com/ovikrai/mojo-syntax)
 * [2024-03-01, 19:54:30](https://news.ycombinator.com/item?id=39566064) - [Lazarus and the FudModule rootkit: Beyond BYOVD with an admin-to-kernel zero-day](https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/)
 * [2024-03-01, 19:54:30](https://news.ycombinator.com/item?id=39566064) - [Lazarus Group observed exploiting an admin-to-kernel Windows zero-day](https://www.scmagazine.com/news/lazarus-group-observed-exploiting-an-admin-to-kernel-windows-zero-day)
 * [2024-03-01, 19:48:52](https://news.ycombinator.com/item?id=39565998) - [Socialism when I buy, Capitalism when I sell](https://shobhitic.github.io/socialism-capitalism)

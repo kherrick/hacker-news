@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 09:55:02](https://news.ycombinator.com/item?id=39571412) - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 * [2024-03-02, 09:30:29](https://news.ycombinator.com/item?id=39571308) - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
 * [2024-03-02, 08:30:04](https://news.ycombinator.com/item?id=39571033) - [Text UIs != Terminal UIs](https://aartaka.me/tui-is-not-tui)
 * [2024-03-02, 08:19:16](https://news.ycombinator.com/item?id=39570983) - [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
