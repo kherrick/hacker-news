@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 08:19:16](https://news.ycombinator.com/item?id=39570983) - [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
+* [2024-03-02, 08:14:10](https://news.ycombinator.com/item?id=39570955) - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-02, 07:25:29](https://news.ycombinator.com/item?id=39570657) - [Google lays off entire team while they are testifying to the city council](https://mas.to/@yogthos/112020432735682211)
 * [2024-03-02, 06:47:10](https://news.ycombinator.com/item?id=39570444) - [Oregon Is Recriminalizing Drugs, Dealing Setback to Reform Movement](https://www.nytimes.com/2024/03/01/us/oregon-drug-decriminalization-rollback-measure-110.html)
