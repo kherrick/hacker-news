@@ -3,8 +3,9 @@
 * [2024-03-02, 22:05:02](https://news.ycombinator.com/item?id=39576176) - [EFF argues DMCA section 1201(a) violates First Amendment](https://www.eff.org/press/releases/licensing-scheme-fair-uses-and-other-speech-violates-first-amendment-eff-argues)
 * [2024-03-02, 21:10:35](https://news.ycombinator.com/item?id=39575803) - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
 * [2024-03-02, 21:00:33](https://news.ycombinator.com/item?id=39575717) - [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
+* [2024-03-02, 19:59:01](https://news.ycombinator.com/item?id=39575308) - [Researchers create AI worms that can spread from one system to another](https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/)
 * [2024-03-02, 19:53:42](https://news.ycombinator.com/item?id=39575274) - [Sorting the Self: Assessments and the Cult of Personality](https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self)
-* [2024-03-02, 19:51:53](https://news.ycombinator.com/item?id=39575262) - [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
+* [2024-03-02, 19:51:53](https://news.ycombinator.com/item?id=39575262) - [How user groups made software reuse a reality](https://ztoz.blog/posts/user-group-reuse/)
 * [2024-03-02, 18:53:50](https://news.ycombinator.com/item?id=39574878) - [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
 * [2024-03-02, 18:10:39](https://news.ycombinator.com/item?id=39574436) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
 * [2024-03-02, 18:06:25](https://news.ycombinator.com/item?id=39574397) - [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
@@ -29,7 +30,6 @@
 * [2024-03-01, 22:58:12](https://news.ycombinator.com/item?id=39567829) - [Chicken Egg Production (2019) [video]](https://www.youtube.com/watch?v=5gdX04NgEMs)
 * [2024-03-01, 19:48:16](https://news.ycombinator.com/item?id=39565992) - [Tools of the Wild: Unveiling the Crafty Side of Nature](https://www.sapiens.org/archaeology/archaeology-tool-user-intelligence/)
 * [2024-02-29, 20:21:19](https://news.ycombinator.com/item?id=39554518) - [Drinking with Agatha Christie](https://crimereads.com/drinking-with-agatha-christie/)
-* [2024-02-29, 18:01:07](https://news.ycombinator.com/item?id=39552734) - [Silicon Valley weapons system117l and corona (2010)](https://steveblank.com/2010/01/18/the-secret-history-of-silicon-valley-part-14-weapons-system-117l-and-corona/)
 
 ## [Archives](archives/index.md)
 
