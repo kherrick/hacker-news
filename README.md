@@ -21,7 +21,7 @@
 * [2024-03-01, 20:59:18](https://news.ycombinator.com/item?id=39566732) - [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
 * [2024-03-01, 18:22:47](https://news.ycombinator.com/item?id=39564899) - [Lorenzo Milam, pioneer of community radio (2020)](https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
-* [2024-03-01, 18:02:16](https://news.ycombinator.com/item?id=39564637) - [Out of the Woods](https://www.nytimes.com/2015/08/09/magazine/out-of-the-woods.html)
+* [2024-03-01, 18:02:16](https://news.ycombinator.com/item?id=39564637) - [Out of the Woods (2015)](https://www.nytimes.com/2015/08/09/magazine/out-of-the-woods.html)
 * [2024-03-01, 15:24:09](https://news.ycombinator.com/item?id=39562610) - [The Telechron master station clock was used to maintain power grid frequency](https://spectrum.ieee.org/history-of-power-grid)
 * [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
