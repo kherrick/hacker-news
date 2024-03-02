@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
 * [2024-03-01, 23:35:07](https://news.ycombinator.com/item?id=39568143) - [Leap year: French readers enjoy only four-year newspaper](https://www.bbc.com/news/world-europe-68423991)
+* [2024-03-01, 23:14:57](https://news.ycombinator.com/item?id=39567960) - [Open-Source AI at FOSDEM](https://lwn.net/Articles/961868/)
 * [2024-03-01, 22:52:57](https://news.ycombinator.com/item?id=39567780) - [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm)
 * [2024-03-01, 22:39:08](https://news.ycombinator.com/item?id=39567646) - [America's ten-year-old fentanyl epidemic is still getting worse](https://www.economist.com/briefing/2024/02/29/americas-ten-year-old-fentanyl-epidemic-is-still-getting-worsefromTheEconomist)
 * [2024-03-01, 22:34:02](https://news.ycombinator.com/item?id=39567597) - [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
