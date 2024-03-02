@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-02, 03:33:26](https://news.ycombinator.com/item?id=39569559) - [Google Messages RCS is blocked on rooted, custom ROM Android phones](https://9to5google.com/2024/02/29/google-messages-rcs-rooted/)
+* [2024-03-02, 04:10:59](https://news.ycombinator.com/item?id=39569734) - [Remaking Super Mario World in Godot](https://www.youtube.com/watch?v=u2fwxuHZXIA)
 * [2024-03-02, 02:29:33](https://news.ycombinator.com/item?id=39569259) - [IRS is going after Americans who earn more $400k but don't file tax returns](https://fortune.com/2024/03/01/irs-125000-americans-earn-over-400000-no-file-tax-returns/)
 * [2024-03-02, 01:28:12](https://news.ycombinator.com/item?id=39568935) - [Spotify, Epic Games pen letter to EC, claiming Apple has made a 'mockery' of DMA](https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/)
 * [2024-03-02, 00:48:51](https://news.ycombinator.com/item?id=39568728) - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
@@ -22,8 +22,8 @@
 * [2024-03-01, 15:15:13](https://news.ycombinator.com/item?id=39562530) - [Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 * [2024-03-01, 15:09:54](https://news.ycombinator.com/item?id=39562467) - [How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-01, 13:57:30](https://news.ycombinator.com/item?id=39561799) - [Colony Graphs: Visualizing the Cloud (2014)](https://www.brendangregg.com/ColonyGraphs/cloud.html)
-* [2024-03-01, 13:21:19](https://news.ycombinator.com/item?id=39561492) - [A daddy-longlegs possesses six eyes, including two vestigial pairs](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
 * [2024-03-01, 11:47:30](https://news.ycombinator.com/item?id=39560862) - [Where is Noether's principle in machine learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
+* [2024-03-01, 09:50:20](https://news.ycombinator.com/item?id=39560250) - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-01, 08:56:05](https://news.ycombinator.com/item?id=39559966) - [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf)
 * [2024-03-01, 06:55:59](https://news.ycombinator.com/item?id=39559281) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * [2024-02-29, 13:52:51](https://news.ycombinator.com/item?id=39549273) - [Microsoft Security-101: Open-Source curriculum](https://github.com/microsoft/Security-101)
