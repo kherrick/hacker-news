@@ -30,6 +30,7 @@
 * [2024-03-01, 18:09:20](https://news.ycombinator.com/item?id=39564737) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-03-01, 18:05:17](https://news.ycombinator.com/item?id=39564678) - [How I Accidentally Made My Link Shortener into a Malware Honeypot](https://app.y.gy/blog/honeypot)
 * [2024-03-01, 18:04:48](https://news.ycombinator.com/item?id=39564674) - [First Colecovision BASIC compiler (Z80) now available](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
+* [2024-03-01, 18:02:16](https://news.ycombinator.com/item?id=39564637) - [Out of the Woods](https://www.nytimes.com/2015/08/09/magazine/out-of-the-woods.html)
 * [2024-03-01, 17:50:58](https://news.ycombinator.com/item?id=39564476) - [I'm totally blind. Here's why I selfhost.](https://old.reddit.com/r/selfhosted/comments/1b3yvs8/im_totally_blind_heres_why_i_selfhost/)
 * [2024-03-01, 17:33:54](https://news.ycombinator.com/item?id=39564254) - [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
 * [2024-03-01, 17:28:11](https://news.ycombinator.com/item?id=39564172) - [Marchintosh](https://www.marchintosh.com/)

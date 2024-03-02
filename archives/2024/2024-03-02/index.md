@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 08:30:04](https://news.ycombinator.com/item?id=39571033) - [Text UIs != Terminal UIs](https://aartaka.me/tui-is-not-tui)
 * [2024-03-02, 08:19:16](https://news.ycombinator.com/item?id=39570983) - [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
 * [2024-03-02, 08:14:10](https://news.ycombinator.com/item?id=39570955) - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
