@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 22:06:51](https://news.ycombinator.com/item?id=39584984) - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
 * [2024-03-03, 21:47:25](https://news.ycombinator.com/item?id=39584830) - [Cops visit school of 'wrong person's child,' mix up in epic data fail](https://www.theregister.com/2024/03/01/west_midlands_police_data_protection/)
 * [2024-03-03, 21:22:23](https://news.ycombinator.com/item?id=39584654) - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 * [2024-03-03, 21:09:28](https://news.ycombinator.com/item?id=39584566) - [French Artists in 1899 Envisioned What Life Would Look Like in the Year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
@@ -35,6 +36,7 @@
 * [2024-03-03, 16:54:21](https://news.ycombinator.com/item?id=39582042) - [3D printed titanium structure shows supernatural strength](https://www.rmit.edu.au/news/all-news/2024/feb/titanium-lattice)
 * [2024-03-03, 16:53:03](https://news.ycombinator.com/item?id=39582030) - [Top AIs still fail IQ tests](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests)
 * [2024-03-03, 16:52:05](https://news.ycombinator.com/item?id=39582018) - [What It's Like to Staff the Home of a Billionaire](https://www.thecut.com/article/staffing-billionaires.html)
+* [2024-03-03, 16:49:09](https://news.ycombinator.com/item?id=39582002) - [Running GTA Vice City on a TP-Link Router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 16:44:05](https://news.ycombinator.com/item?id=39581976) - [The Hater's Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
 * [2024-03-03, 16:23:34](https://news.ycombinator.com/item?id=39581855) - [Joplin is an open source note-taking app](https://joplinapp.org/)
 * [2024-03-03, 16:20:27](https://news.ycombinator.com/item?id=39581833) - [I decided not to apply YC again](https://news.ycombinator.com/item?id=39581833)
