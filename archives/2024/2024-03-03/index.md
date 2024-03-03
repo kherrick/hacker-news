@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 19:08:07](https://news.ycombinator.com/item?id=39583396) - [Did Apple Just Make a Gambling App?](https://www.theatlantic.com/technology/archive/2024/03/apple-sports-betting-app/677625/)
 * [2024-03-03, 19:02:30](https://news.ycombinator.com/item?id=39583349) - [\"Help, I see a problem and no one is prioritizing it \"](https://ntietz.com/blog/advice-if-problem-not-prioritized/)
 * [2024-03-03, 17:46:20](https://news.ycombinator.com/item?id=39582552) - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
 * [2024-03-03, 17:45:14](https://news.ycombinator.com/item?id=39582541) - [\"AI will cure cancer\" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
