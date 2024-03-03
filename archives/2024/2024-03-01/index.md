@@ -36,6 +36,7 @@
 * [2024-03-01, 18:02:16](https://news.ycombinator.com/item?id=39564637) - [Out of the Woods](https://www.nytimes.com/2015/08/09/magazine/out-of-the-woods.html)
 * [2024-03-01, 18:02:01](https://news.ycombinator.com/item?id=39564632) - [Ask HN: How can I learn about performance optimization?](https://news.ycombinator.com/item?id=39564632)
 * [2024-03-01, 17:50:58](https://news.ycombinator.com/item?id=39564476) - [I'm totally blind. Here's why I selfhost.](https://old.reddit.com/r/selfhosted/comments/1b3yvs8/im_totally_blind_heres_why_i_selfhost/)
+* [2024-03-01, 17:40:11](https://news.ycombinator.com/item?id=39564332) - [First known photos of 'lost bird' captured by scientists](https://phys.org/news/2024-02-photos-lost-bird-captured-scientists.html)
 * [2024-03-01, 17:33:54](https://news.ycombinator.com/item?id=39564254) - [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
 * [2024-03-01, 17:28:11](https://news.ycombinator.com/item?id=39564172) - [Marchintosh](https://www.marchintosh.com/)
 * [2024-03-01, 17:15:55](https://news.ycombinator.com/item?id=39563982) - [Apple backs off killing web apps, but the fight continues](https://open-web-advocacy.org/blog/apple-backs-off-killing-web-apps/)

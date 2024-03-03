@@ -19,7 +19,6 @@
 * [2024-03-02, 19:51:53](https://news.ycombinator.com/item?id=39575262) - [How user groups made software reuse a reality](https://ztoz.blog/posts/user-group-reuse/)
 * [2024-03-02, 19:40:50](https://news.ycombinator.com/item?id=39575189) - [The Substantiality of Spirit: Georgiana Houghton's Pictures from the Other Side](https://publicdomainreview.org/essay/the-substantiality-of-spirit/)
 * [2024-03-02, 18:10:39](https://news.ycombinator.com/item?id=39574436) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
-* [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016) [video]](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 * [2024-03-02, 13:47:26](https://news.ycombinator.com/item?id=39572488) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
@@ -29,6 +28,7 @@
 * [2024-03-02, 05:55:45](https://news.ycombinator.com/item?id=39570197) - [LumaCode](https://github.com/c0pperdragon/LumaCode/wiki/Overview)
 * [2024-03-02, 03:54:37](https://news.ycombinator.com/item?id=39569655) - [Under the Microscope: Three Dirty Dwarves](https://32bits.substack.com/p/under-the-microscope-three-dirty)
 * [2024-03-01, 18:02:01](https://news.ycombinator.com/item?id=39564632) - [Ask HN: How can I learn about performance optimization?](https://news.ycombinator.com/item?id=39564632)
+* [2024-03-01, 17:40:11](https://news.ycombinator.com/item?id=39564332) - [First known photos of 'lost bird' captured by scientists](https://phys.org/news/2024-02-photos-lost-bird-captured-scientists.html)
 * [2024-03-01, 16:42:11](https://news.ycombinator.com/item?id=39563528) - [The Humbugs of the World (1866)](https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up)
 
 ## [Archives](archives/index.md)
