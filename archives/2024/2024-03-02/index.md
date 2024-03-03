@@ -51,6 +51,7 @@
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 * [2024-03-02, 14:33:50](https://news.ycombinator.com/item?id=39572795) - [NASA: Total Eclipse 2024 – Where and When](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/)
 * [2024-03-02, 14:22:27](https://news.ycombinator.com/item?id=39572718) - [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
+* [2024-03-02, 14:12:22](https://news.ycombinator.com/item?id=39572655) - [Bookish Diversions: Do Audiobooks Count?](https://www.millersbookreview.com/p/bookish-diversions-do-audiobooks-count)
 * [2024-03-02, 13:48:39](https://news.ycombinator.com/item?id=39572505) - [Fastest camera drone vs. F1 car (ft. Max Verstappen) [video]](https://www.youtube.com/watch?v=9pEqyr_uT-k)
 * [2024-03-02, 13:47:26](https://news.ycombinator.com/item?id=39572488) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 * [2024-03-02, 13:45:22](https://news.ycombinator.com/item?id=39572472) - [Russia acknowledges continuing air leak from its segment of space station](https://www.theguardian.com/science/2024/feb/28/russia-acknowledges-continuing-air-leak-from-its-segment-of-space-station)
