@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-03, 12:38:33",
+      "https://news.ycombinator.com/item?id=39580449"
+    ],
+    [
+      "Ollama: Running Large Language Models Locally",
+      "https://www.andreagrandi.it/posts/ollama-running-llm-locally/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 12:34:31",
+      "https://news.ycombinator.com/item?id=39580439"
+    ],
+    [
+      "Supermium – Chromium fork for Win 2003/XP and newer",
+      "https://win32subsystem.live/supermium/"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 10:07:47",
       "https://news.ycombinator.com/item?id=39579833"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-03-03, 00:02:26",
-      "https://news.ycombinator.com/item?id=39577006"
-    ],
-    [
-      "Goodbye GUI … Hello NUI (1997)",
-      "https://halfhill.com/byte/1997-7_cover.html"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 23:56:02",
       "https://news.ycombinator.com/item?id=39576974"
     ],
@@ -217,16 +227,6 @@
     [
       "Writing a Minecraft server from scratch in Bash (2022)",
       "https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 13:47:26",
-      "https://news.ycombinator.com/item?id=39572488"
-    ],
-    [
-      "Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction",
-      "https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction"
     ]
   ],
   [
