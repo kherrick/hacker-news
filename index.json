@@ -141,12 +141,32 @@
   ],
   [
     [
+      "2024-03-03, 00:02:26",
+      "https://news.ycombinator.com/item?id=39577006"
+    ],
+    [
+      "Goodbye GUI … Hello NUI (1997)",
+      "https://halfhill.com/byte/1997-7_cover.html"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 23:56:02",
       "https://news.ycombinator.com/item?id=39576974"
     ],
     [
       "ShotSpotter: listening in on the neighborhood",
       "https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 23:26:40",
+      "https://news.ycombinator.com/item?id=39576770"
+    ],
+    [
+      "One of Science's Biggest Errors Persisted for 1,500 Years",
+      "https://www.atlasobscura.com/articles/ptolemy-geocentrism-almagest-copernicus"
     ]
   ],
   [
@@ -161,22 +181,12 @@
   ],
   [
     [
-      "2024-03-02, 21:10:35",
-      "https://news.ycombinator.com/item?id=39575803"
+      "2024-03-02, 19:51:53",
+      "https://news.ycombinator.com/item?id=39575262"
     ],
     [
-      "Price fixing by algorithm is still price fixing",
-      "https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 19:53:42",
-      "https://news.ycombinator.com/item?id=39575274"
-    ],
-    [
-      "Sorting the Self: Assessments and the cult of personality",
-      "https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self"
+      "How user groups made software reuse a reality",
+      "https://ztoz.blog/posts/user-group-reuse/"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2024-03-02, 13:47:26",
+      "https://news.ycombinator.com/item?id=39572488"
+    ],
+    [
+      "Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction",
+      "https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 12:27:22",
       "https://news.ycombinator.com/item?id=39572106"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-03-02, 03:54:37",
-      "https://news.ycombinator.com/item?id=39569655"
-    ],
-    [
-      "Under the Microscope: Three Dirty Dwarves",
-      "https://32bits.substack.com/p/under-the-microscope-three-dirty"
-    ]
-  ],
-  [
-    [
       "2024-03-01, 18:02:01",
       "https://news.ycombinator.com/item?id=39564632"
     ],
@@ -287,16 +297,6 @@
     [
       "First known photos of 'lost bird' captured by scientists",
       "https://phys.org/news/2024-02-photos-lost-bird-captured-scientists.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 16:42:11",
-      "https://news.ycombinator.com/item?id=39563528"
-    ],
-    [
-      "The Humbugs of the World (1866)",
-      "https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up"
     ]
   ]
 ]
