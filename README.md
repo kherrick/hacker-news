@@ -13,7 +13,6 @@
 * [2024-03-03, 17:04:32](https://news.ycombinator.com/item?id=39582116) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 * [2024-03-03, 16:54:21](https://news.ycombinator.com/item?id=39582042) - [3D printed titanium structure shows supernatural strength](https://www.rmit.edu.au/news/all-news/2024/feb/titanium-lattice)
 * [2024-03-03, 16:44:05](https://news.ycombinator.com/item?id=39581976) - [The hater's guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
-* [2024-03-03, 16:23:34](https://news.ycombinator.com/item?id=39581855) - [Joplin is an open source note-taking app](https://joplinapp.org/)
 * [2024-03-03, 16:02:02](https://news.ycombinator.com/item?id=39581678) - [Crash of the Titan: a short history of Apple's doomed car project](https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed)
 * [2024-03-03, 15:59:43](https://news.ycombinator.com/item?id=39581664) - [Bug in reader/writer locks in Windows API](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
 * [2024-03-03, 15:38:40](https://news.ycombinator.com/item?id=39581498) - [A kids' novel inspired me to simulate a gene drive on 86M genealogy profiles](https://worthdoingbadly.com/familytree/)
@@ -30,6 +29,7 @@
 * [2024-03-02, 17:49:26](https://news.ycombinator.com/item?id=39574240) - [Interlisp-D and MIT CADR Lisp Machine demos for IJCAI Conference (1981)](https://archive.org/details/xerox-parc_V-141_1)
 * [2024-03-02, 16:16:16](https://news.ycombinator.com/item?id=39573505) - [Show HN: An algorithmic audio landscape](https://ambient.garden)
 * [2024-03-02, 16:00:38](https://news.ycombinator.com/item?id=39573389) - [Open Beam Interface](https://github.com/nanographs/Open-Beam-Interface)
+* [2024-03-02, 14:12:22](https://news.ycombinator.com/item?id=39572655) - [Bookish Diversions: Do Audiobooks Count?](https://www.millersbookreview.com/p/bookish-diversions-do-audiobooks-count)
 
 ## [Archives](archives/index.md)
 
