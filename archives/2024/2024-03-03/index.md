@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 15:59:43](https://news.ycombinator.com/item?id=39581664) - [Bug in std:shared_mutex on Windows](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
 * [2024-03-03, 15:43:35](https://news.ycombinator.com/item?id=39581543) - [TikTok is finally on the decline](https://slate.com/technology/2024/02/tiktok-declining-finally-why-universal-ads-search.html)
 * [2024-03-03, 15:32:06](https://news.ycombinator.com/item?id=39581440) - [Writers can write anything. Programmers can't](https://www.mahendraker.com/blog/writing)
 * [2024-03-03, 15:16:34](https://news.ycombinator.com/item?id=39581341) - [The Classic Adventures Solution Archive](https://www.solutionarchive.com/)
