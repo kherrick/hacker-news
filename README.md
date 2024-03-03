@@ -3,7 +3,6 @@
 * [2024-03-03, 00:27:45](https://news.ycombinator.com/item?id=39577164) - [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
 * [2024-03-03, 00:20:19](https://news.ycombinator.com/item?id=39577113) - [Ask HN: What laptop are you using to daily drive Linux?](https://news.ycombinator.com/item?id=39577113)
 * [2024-03-02, 23:56:02](https://news.ycombinator.com/item?id=39576974) - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
-* [2024-03-02, 23:34:47](https://news.ycombinator.com/item?id=39576849) - [Colombia's Special Word for \"You\"](https://www.nytimes.com/2024/03/02/world/americas/colombia-sumerce-mothers-mercy.html)
 * [2024-03-02, 22:58:06](https://news.ycombinator.com/item?id=39576563) - [Where is all of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-03-02, 22:30:52](https://news.ycombinator.com/item?id=39576343) - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 * [2024-03-02, 22:03:30](https://news.ycombinator.com/item?id=39576167) - [More startups should take on monopolies](https://www.zaxis.page/p/taking-on-the-monopoly)
@@ -29,6 +28,7 @@
 * [2024-03-02, 03:54:37](https://news.ycombinator.com/item?id=39569655) - [Under the Microscope: Three Dirty Dwarves](https://32bits.substack.com/p/under-the-microscope-three-dirty)
 * [2024-03-01, 22:58:12](https://news.ycombinator.com/item?id=39567829) - [Chicken Egg Production (2019) [video]](https://www.youtube.com/watch?v=5gdX04NgEMs)
 * [2024-03-01, 19:48:16](https://news.ycombinator.com/item?id=39565992) - [Tools of the Wild: Unveiling the Crafty Side of Nature](https://www.sapiens.org/archaeology/archaeology-tool-user-intelligence/)
+* [2024-03-01, 16:42:11](https://news.ycombinator.com/item?id=39563528) - [The Humbugs of the World (1866)](https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up)
 * [2024-02-29, 20:21:19](https://news.ycombinator.com/item?id=39554518) - [Drinking with Agatha Christie](https://crimereads.com/drinking-with-agatha-christie/)
 
 ## [Archives](archives/index.md)
