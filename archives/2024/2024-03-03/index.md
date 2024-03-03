@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 21:47:25](https://news.ycombinator.com/item?id=39584830) - [Cops visit school of 'wrong person's child,' mix up in epic data fail](https://www.theregister.com/2024/03/01/west_midlands_police_data_protection/)
+* [2024-03-03, 21:22:23](https://news.ycombinator.com/item?id=39584654) - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 * [2024-03-03, 21:09:28](https://news.ycombinator.com/item?id=39584566) - [French Artists in 1899 Envisioned What Life Would Look Like in the Year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 * [2024-03-03, 21:03:48](https://news.ycombinator.com/item?id=39584532) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
 * [2024-03-03, 21:00:51](https://news.ycombinator.com/item?id=39584504) - [Sigma 15mm F/1.4 DG DN Art Review: Wide, Weird, and Wonderful](https://petapixel.com/2024/02/27/sigma-15mm-f-1-4-dg-dn-art-review-wide-weird-and-wonderful/)
@@ -18,6 +20,7 @@
 * [2024-03-03, 19:02:30](https://news.ycombinator.com/item?id=39583349) - [\"Help, I see a problem and no one is prioritizing it \"](https://ntietz.com/blog/advice-if-problem-not-prioritized/)
 * [2024-03-03, 18:58:08](https://news.ycombinator.com/item?id=39583309) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 * [2024-03-03, 18:32:54](https://news.ycombinator.com/item?id=39583064) - [U.S. seeks to revive idled shipyards with help of Japan, South Korea](https://asia.nikkei.com/Politics/Defense/U.S.-seeks-to-revive-idled-shipyards-with-help-of-Japan-South-Korea)
+* [2024-03-03, 18:08:00](https://news.ycombinator.com/item?id=39582830) - [How Computers Entered the Classroom, 1960–2000](https://www.degruyter.com/document/doi/10.1515/9783110780147/html)
 * [2024-03-03, 18:04:27](https://news.ycombinator.com/item?id=39582797) - [Organic Maps is a free Android and iOS offline maps app for travelers](https://github.com/organicmaps/organicmaps)
 * [2024-03-03, 18:01:13](https://news.ycombinator.com/item?id=39582745) - [Interesting Ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 17:47:57](https://news.ycombinator.com/item?id=39582571) - [Storing binary data in playing cards (2014)](https://www.timwarriner.com/carddata/)
@@ -41,6 +44,7 @@
 * [2024-03-03, 16:02:02](https://news.ycombinator.com/item?id=39581678) - [Crash of the Titan: a short history of Apple's doomed car project](https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed)
 * [2024-03-03, 15:59:43](https://news.ycombinator.com/item?id=39581664) - [Bug in std:shared_mutex on Windows](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
 * [2024-03-03, 15:55:08](https://news.ycombinator.com/item?id=39581627) - [AI-generated content, other unfavorable practices get CNET on Wikipedia banlist](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-generated-content-and-other-unfavorable-practices-have-put-longtime-staple-cnet-on-wikipedias-blacklisted-sources)
+* [2024-03-03, 15:50:41](https://news.ycombinator.com/item?id=39581592) - [Roaring Bitmaps](https://pncnmnp.github.io/blogs/roaring-bitmaps.html)
 * [2024-03-03, 15:43:35](https://news.ycombinator.com/item?id=39581543) - [TikTok is finally on the decline](https://slate.com/technology/2024/02/tiktok-declining-finally-why-universal-ads-search.html)
 * [2024-03-03, 15:38:40](https://news.ycombinator.com/item?id=39581498) - [A kids' novel inspired me to simulate a gene drive on 86M genealogy profiles](https://worthdoingbadly.com/familytree/)
 * [2024-03-03, 15:32:06](https://news.ycombinator.com/item?id=39581440) - [Writers can write anything. Programmers can't](https://www.mahendraker.com/blog/writing)
