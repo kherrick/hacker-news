@@ -48,6 +48,7 @@
 * [2024-03-03, 14:49:56](https://news.ycombinator.com/item?id=39581156) - [The Repair Shops Where Subway Cars Go for a Makeover](https://www.nytimes.com/2024/03/01/nyregion/subway-repair-shop-new-york.html)
 * [2024-03-03, 14:46:32](https://news.ycombinator.com/item?id=39581130) - [AI startups require new strategies: This time it's different](https://longform.asmartbear.com/ai-startups/)
 * [2024-03-03, 14:33:19](https://news.ycombinator.com/item?id=39581047) - [DUSt3R: Geometric 3D Vision Made Easy](https://dust3r.europe.naverlabs.com/)
+* [2024-03-03, 14:28:50](https://news.ycombinator.com/item?id=39581011) - [The $25B Eigenvector: The Linear Algebra behind Google (2006)](https://epubs.siam.org/doi/abs/10.1137/050623280?journalCode=siread)
 * [2024-03-03, 14:12:19](https://news.ycombinator.com/item?id=39580930) - [The Achilles Trap: how the US fatally failed to read Saddam](https://www.theguardian.com/books/2024/mar/03/achilles-trap-steve-coll-review)
 * [2024-03-03, 13:54:23](https://news.ycombinator.com/item?id=39580834) - [10 Minutes is ~1% of your day](https://taylor.town/10-minutes)
 * [2024-03-03, 13:53:49](https://news.ycombinator.com/item?id=39580831) - [Memetics](https://en.wikipedia.org/wiki/Memetics)
