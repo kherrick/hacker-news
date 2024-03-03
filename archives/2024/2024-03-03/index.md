@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 17:42:51](https://news.ycombinator.com/item?id=39582512) - [I'm going to keep opting out](https://coryd.dev/posts/2024/im-going-to-keep-opting-out/)
+* [2024-03-03, 17:24:34](https://news.ycombinator.com/item?id=39582327) - [AI is Taking Water from the Desert](https://www.theatlantic.com/technology/archive/2024/03/ai-water-climate-microsoft/677602/)
+* [2024-03-03, 17:19:11](https://news.ycombinator.com/item?id=39582265) - [How Did REST Come to Mean the Opposite of REST? (2022)](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [2024-03-03, 17:11:13](https://news.ycombinator.com/item?id=39582185) - [The Worst Possible Way to Be Rejected for a Job](https://slate.com/human-interest/2024/02/job-interview-questions-rejection-follow-up-weaknesses.html)
+* [2024-03-03, 17:04:32](https://news.ycombinator.com/item?id=39582116) - [Better PC Cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 * [2024-03-03, 16:53:03](https://news.ycombinator.com/item?id=39582030) - [Top AIs still fail IQ tests](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests)
 * [2024-03-03, 16:52:05](https://news.ycombinator.com/item?id=39582018) - [What It's Like to Staff the Home of a Billionaire](https://www.thecut.com/article/staffing-billionaires.html)
 * [2024-03-03, 16:44:05](https://news.ycombinator.com/item?id=39581976) - [The Hater's Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
@@ -19,8 +23,10 @@
 * [2024-03-03, 15:29:41](https://news.ycombinator.com/item?id=39581416) - [NIST 800-207A: Implementing Zero Trust Architecture](https://www.infoq.com/presentations/nist-800-207a/)
 * [2024-03-03, 15:16:34](https://news.ycombinator.com/item?id=39581341) - [The Classic Adventures Solution Archive](https://www.solutionarchive.com/)
 * [2024-03-03, 15:13:33](https://news.ycombinator.com/item?id=39581324) - [Homebuyers need to make about $50k more than they did pre-pandemic](https://fortune.com/2024/03/02/buying-a-house-expensive-50000-more-salary-pre-pandemic/)
+* [2024-03-03, 14:49:56](https://news.ycombinator.com/item?id=39581156) - [The Repair Shops Where Subway Cars Go for a Makeover](https://www.nytimes.com/2024/03/01/nyregion/subway-repair-shop-new-york.html)
 * [2024-03-03, 14:46:32](https://news.ycombinator.com/item?id=39581130) - [AI startups require new strategies: This time it's different](https://longform.asmartbear.com/ai-startups/)
 * [2024-03-03, 14:33:19](https://news.ycombinator.com/item?id=39581047) - [DUSt3R: Geometric 3D Vision Made Easy](https://dust3r.europe.naverlabs.com/)
+* [2024-03-03, 14:12:19](https://news.ycombinator.com/item?id=39580930) - [The Achilles Trap: how the US fatally failed to read Saddam](https://www.theguardian.com/books/2024/mar/03/achilles-trap-steve-coll-review)
 * [2024-03-03, 13:54:23](https://news.ycombinator.com/item?id=39580834) - [10 Minutes is ~1% of your day](https://taylor.town/10-minutes)
 * [2024-03-03, 13:53:49](https://news.ycombinator.com/item?id=39580831) - [Memetics](https://en.wikipedia.org/wiki/Memetics)
 * [2024-03-03, 13:50:21](https://news.ycombinator.com/item?id=39580813) - [The Trillion Dollar Equation [video]](https://www.youtube.com/watch?v=A5w-dEgIU1M)
