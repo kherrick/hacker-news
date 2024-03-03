@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-03, 05:17:30",
+      "https://news.ycombinator.com/item?id=39578616"
+    ],
+    [
+      "How do I stop being such a doomer?",
+      "https://news.ycombinator.com/item?id=39578616"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 05:02:11",
+      "https://news.ycombinator.com/item?id=39578546"
+    ],
+    [
+      "Known Meta Sites",
+      "https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 04:52:24",
       "https://news.ycombinator.com/item?id=39578501"
     ],
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2024-03-03, 03:06:52",
-      "https://news.ycombinator.com/item?id=39578090"
-    ],
-    [
-      "How to convert Node.js stream callback functions into an Async Iterator",
-      "https://www.jbernier.com/p?id=nodejs-stream-async-iterator"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 02:47:21",
       "https://news.ycombinator.com/item?id=39578007"
     ],
     [
       "Algorithmic Thinking (2nd Edition)",
       "https://nostarch.com/algorithmic-thinking-2nd-edition"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 02:37:06",
+      "https://news.ycombinator.com/item?id=39577957"
+    ],
+    [
+      "An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS Apple",
+      "http://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-03-02, 21:00:33",
-      "https://news.ycombinator.com/item?id=39575717"
-    ],
-    [
-      "Inside the miracle of modern chip manufacturing",
-      "https://ig.ft.com/microchips/"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 19:53:42",
       "https://news.ycombinator.com/item?id=39575274"
     ],
@@ -167,16 +177,6 @@
     [
       "Bob Heil, K9EID, Silent Key",
       "https://www.arrl.org/news/bob-heil-k9eid-silent-key"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 16:16:16",
-      "https://news.ycombinator.com/item?id=39573505"
-    ],
-    [
-      "Show HN: An Algorithmic Audio Landscape",
-      "https://ambient.garden"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-03-02, 05:55:45",
+      "https://news.ycombinator.com/item?id=39570197"
+    ],
+    [
+      "LumaCode",
+      "https://github.com/c0pperdragon/LumaCode/wiki/Overview"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 03:54:37",
       "https://news.ycombinator.com/item?id=39569655"
     ],
@@ -287,16 +297,6 @@
     [
       "The Humbugs of the World (1866)",
       "https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 20:21:19",
-      "https://news.ycombinator.com/item?id=39554518"
-    ],
-    [
-      "Drinking with Agatha Christie",
-      "https://crimereads.com/drinking-with-agatha-christie/"
     ]
   ]
 ]
