@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-03, 12:38:33](https://news.ycombinator.com/item?id=39580449) - [Ollama: Running Large Language Models Locally](https://www.andreagrandi.it/posts/ollama-running-llm-locally/)
 * [2024-03-03, 12:34:31](https://news.ycombinator.com/item?id=39580439) - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
 * [2024-03-03, 10:07:47](https://news.ycombinator.com/item?id=39579833) - [An Unbelievable Demo (2021)](https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
 * [2024-03-03, 08:38:48](https://news.ycombinator.com/item?id=39579447) - [David Holladay, blindness technology pioneer, dies at age 70](https://www.braillists.org/uncategorised/a-message-from-duxbury-systems-in-loving-memory-of-our-dear-friend-and-colleague/)
@@ -14,6 +13,7 @@
 * [2024-03-03, 01:40:03](https://news.ycombinator.com/item?id=39577599) - [Large solar farms could trigger rain in the desert](https://www.science.org/content/article/massive-solar-farms-could-provoke-rainclouds-desert)
 * [2024-03-03, 00:27:45](https://news.ycombinator.com/item?id=39577164) - [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
 * [2024-03-03, 00:18:50](https://news.ycombinator.com/item?id=39577105) - [What was life – and death – like for Roman legionaries?](https://www.theguardian.com/culture/2024/jan/29/heads-nailed-trees-roman-legionnaires-british-museum-legion)
+* [2024-03-03, 00:02:26](https://news.ycombinator.com/item?id=39577006) - [Goodbye GUI … Hello NUI (1997)](https://halfhill.com/byte/1997-7_cover.html)
 * [2024-03-02, 23:56:02](https://news.ycombinator.com/item?id=39576974) - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
 * [2024-03-02, 22:30:52](https://news.ycombinator.com/item?id=39576343) - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 * [2024-03-02, 21:10:35](https://news.ycombinator.com/item?id=39575803) - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
