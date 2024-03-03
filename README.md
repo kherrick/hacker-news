@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-03, 12:06:32](https://news.ycombinator.com/item?id=39580336) - [Google Founder Sergey Brin: Gemini issue due to lack of \"thorough testing\"](https://twitter.com/0interestrates/status/1764087484026392803)
 * [2024-03-03, 10:07:47](https://news.ycombinator.com/item?id=39579833) - [An Unbelievable Demo (2021)](https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
 * [2024-03-03, 08:38:48](https://news.ycombinator.com/item?id=39579447) - [David Holladay, blindness technology pioneer, dies at age 70](https://www.braillists.org/uncategorised/a-message-from-duxbury-systems-in-loving-memory-of-our-dear-friend-and-colleague/)
 * [2024-03-03, 08:38:08](https://news.ycombinator.com/item?id=39579446) - [Laurie Anderson on making AI chatbot of Lou Reed: 100%, sadly addicted](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
@@ -23,6 +22,7 @@
 * [2024-03-02, 18:10:39](https://news.ycombinator.com/item?id=39574436) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016) [video]](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
+* [2024-03-02, 13:47:26](https://news.ycombinator.com/item?id=39572488) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 * [2024-03-02, 12:27:22](https://news.ycombinator.com/item?id=39572106) - [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-02, 06:42:47](https://news.ycombinator.com/item?id=39570423) - [Sequent Calculus as a Compiler Intermediate Language (2016) [pdf]](https://simon.peytonjones.org/assets/pdfs/sequent-calculus.pdf)
