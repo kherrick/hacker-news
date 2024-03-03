@@ -3,7 +3,6 @@
 * [2024-03-03, 08:50:17](https://news.ycombinator.com/item?id=39579487) - [Testing AI and LLM on Rockchip RK3588 Using Mixtile Blade 3 SBC with 32GB RAM](https://taoofmac.com/space/links/2024/03/01/0116)
 * [2024-03-03, 08:38:08](https://news.ycombinator.com/item?id=39579446) - [Laurie Anderson on making AI chatbot of Lou Reed: 100%, sadly addicted](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
 * [2024-03-03, 07:33:30](https://news.ycombinator.com/item?id=39579197) - [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
-* [2024-03-03, 07:19:10](https://news.ycombinator.com/item?id=39579136) - [I Was a Heretic at the New York Times](https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546/)
 * [2024-03-03, 05:31:19](https://news.ycombinator.com/item?id=39578681) - [Feature: Morphcat Games, the New-Gen NES Devs Pushing the 8-Bit Envelope](https://www.nintendolife.com/features/meet-morphcat-games-the-new-gen-nes-devs-pushing-the-8-bit-envelope)
 * [2024-03-03, 05:02:11](https://news.ycombinator.com/item?id=39578546) - [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
 * [2024-03-03, 04:52:24](https://news.ycombinator.com/item?id=39578501) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
@@ -28,6 +27,7 @@
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-02, 06:42:47](https://news.ycombinator.com/item?id=39570423) - [Sequent Calculus as a Compiler Intermediate Language (2016) [pdf]](https://simon.peytonjones.org/assets/pdfs/sequent-calculus.pdf)
 * [2024-03-02, 05:55:45](https://news.ycombinator.com/item?id=39570197) - [LumaCode](https://github.com/c0pperdragon/LumaCode/wiki/Overview)
+* [2024-03-02, 03:54:37](https://news.ycombinator.com/item?id=39569655) - [Under the Microscope: Three Dirty Dwarves](https://32bits.substack.com/p/under-the-microscope-three-dirty)
 * [2024-03-01, 18:02:01](https://news.ycombinator.com/item?id=39564632) - [Ask HN: How can I learn about performance optimization?](https://news.ycombinator.com/item?id=39564632)
 * [2024-03-01, 17:40:11](https://news.ycombinator.com/item?id=39564332) - [First known photos of 'lost bird' captured by scientists](https://phys.org/news/2024-02-photos-lost-bird-captured-scientists.html)
 
