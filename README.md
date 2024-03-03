@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-03, 10:12:00](https://news.ycombinator.com/item?id=39579857) - [AI chatbots can apparently get better at math for the strangest reason](https://qz.com/ai-chatbots-math-study-star-trek-1851301719)
 * [2024-03-03, 10:07:47](https://news.ycombinator.com/item?id=39579833) - [An Unbelievable Demo](https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
 * [2024-03-03, 08:38:48](https://news.ycombinator.com/item?id=39579447) - [David Holladay, blindness technology pioneer, dies at age 70](https://www.braillists.org/uncategorised/a-message-from-duxbury-systems-in-loving-memory-of-our-dear-friend-and-colleague/)
 * [2024-03-03, 08:38:08](https://news.ycombinator.com/item?id=39579446) - [Laurie Anderson on making AI chatbot of Lou Reed: 100%, sadly addicted](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
 * [2024-03-03, 07:33:30](https://news.ycombinator.com/item?id=39579197) - [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
-* [2024-03-03, 03:44:40](https://news.ycombinator.com/item?id=39578248) - [US prescription market hamstrung for 9 days (so far) by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
 * [2024-03-03, 03:07:16](https://news.ycombinator.com/item?id=39578092) - [Telegram for America (1956)](https://archive.org/details/Telegram1956)
 * [2024-03-03, 02:47:21](https://news.ycombinator.com/item?id=39578007) - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
 * [2024-03-03, 02:37:06](https://news.ycombinator.com/item?id=39577957) - [An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS Apple](http://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
