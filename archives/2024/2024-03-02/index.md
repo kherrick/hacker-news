@@ -7,6 +7,7 @@
 * [2024-03-02, 23:56:02](https://news.ycombinator.com/item?id=39576974) - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
 * [2024-03-02, 23:35:08](https://news.ycombinator.com/item?id=39576854) - [Ancient Texts Can Shed Light on Auroras](https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/)
 * [2024-03-02, 23:34:47](https://news.ycombinator.com/item?id=39576849) - [Colombia's Special Word for \"You\"](https://www.nytimes.com/2024/03/02/world/americas/colombia-sumerce-mothers-mercy.html)
+* [2024-03-02, 23:26:40](https://news.ycombinator.com/item?id=39576770) - [One of Science's Biggest Errors Persisted for 1,500 Years](https://www.atlasobscura.com/articles/ptolemy-geocentrism-almagest-copernicus)
 * [2024-03-02, 23:01:17](https://news.ycombinator.com/item?id=39576592) - [Generative AI's environmental costs are soaring – and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
 * [2024-03-02, 22:58:06](https://news.ycombinator.com/item?id=39576563) - [Where Is All of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-03-02, 22:53:54](https://news.ycombinator.com/item?id=39576530) - [Apple Vision Pro's Optics Blurrier and Lower Contrast Than Meta Quest 3](https://kguttag.com/2024/03/01/apple-vision-pros-optics-blurrier-lower-contrast-than-meta-quest-3/)
