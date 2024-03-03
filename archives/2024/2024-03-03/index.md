@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 12:29:40](https://news.ycombinator.com/item?id=39580420) - [Visual Explanations of Core Machine Learning Concepts](https://mlu-explain.github.io/)
+* [2024-03-03, 12:00:48](https://news.ycombinator.com/item?id=39580310) - [HP is in the rent-a-printer business now](https://www.theverge.com/2024/3/2/24088867/hp-all-in-plan-printer-rental-instant-ink)
+* [2024-03-03, 11:58:35](https://news.ycombinator.com/item?id=39580296) - [The unreasonable effectiveness of i3, or: ten years of a boring desktop env](https://blog.waleson.com/2024/03/the-unreasonable-effectiveness-of-i3-or.html)
 * [2024-03-03, 10:12:00](https://news.ycombinator.com/item?id=39579857) - [AI chatbots can apparently get better at math for the strangest reason](https://qz.com/ai-chatbots-math-study-star-trek-1851301719)
 * [2024-03-03, 10:07:47](https://news.ycombinator.com/item?id=39579833) - [An Unbelievable Demo](https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
 * [2024-03-03, 09:56:26](https://news.ycombinator.com/item?id=39579775) - [I don’t think you should sign your Git commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
@@ -30,6 +33,7 @@
 * [2024-03-03, 02:25:28](https://news.ycombinator.com/item?id=39577878) - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
 * [2024-03-03, 01:55:22](https://news.ycombinator.com/item?id=39577695) - [The first observation of humpback whale copulation](https://nautil.us/humpback-whales-caught-humping-522330/)
 * [2024-03-03, 01:41:38](https://news.ycombinator.com/item?id=39577605) - [Megaparsec Tutorial](https://markkarpov.com/tutorial/megaparsec.html)
+* [2024-03-03, 01:04:56](https://news.ycombinator.com/item?id=39577386) - [Restoring sanity takes time](https://thecritic.co.uk/restoring-sanity-takes-time/)
 * [2024-03-03, 00:33:12](https://news.ycombinator.com/item?id=39577198) - [Ask HN: Any advice on navigating this job market or pivoting out of tech? (US)](https://news.ycombinator.com/item?id=39577198)
 * [2024-03-03, 00:27:45](https://news.ycombinator.com/item?id=39577164) - [Generating Transparent Images Using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
 * [2024-03-03, 00:20:19](https://news.ycombinator.com/item?id=39577113) - [Ask HN: What laptop are you using to daily drive Linux?](https://news.ycombinator.com/item?id=39577113)
