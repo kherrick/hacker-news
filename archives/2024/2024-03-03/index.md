@@ -24,3 +24,4 @@
 * [2024-03-03, 00:27:45](https://news.ycombinator.com/item?id=39577164) - [Generating Transparent Images Using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
 * [2024-03-03, 00:20:19](https://news.ycombinator.com/item?id=39577113) - [Ask HN: What laptop are you using to daily drive Linux?](https://news.ycombinator.com/item?id=39577113)
 * [2024-03-03, 00:18:50](https://news.ycombinator.com/item?id=39577105) - [What was life – and death – like for Roman legionaries?](https://www.theguardian.com/culture/2024/jan/29/heads-nailed-trees-roman-legionnaires-british-museum-legion)
+* [2024-03-03, 00:02:26](https://news.ycombinator.com/item?id=39577006) - [Goodbye GUI … Hello NUI (1997)](https://halfhill.com/byte/1997-7_cover.html)
