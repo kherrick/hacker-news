@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 20:04:57](https://news.ycombinator.com/item?id=39583968) - [What do insanely wealthy people buy, that ordinary people know nothing about?](https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/)
 * [2024-03-03, 19:25:30](https://news.ycombinator.com/item?id=39583575) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
 * [2024-03-03, 19:21:20](https://news.ycombinator.com/item?id=39583537) - [The People's Peace Treaty of 1971](https://www.larrysworld.com/peoples-peace-treaty/)
+* [2024-03-03, 19:15:51](https://news.ycombinator.com/item?id=39583473) - [I'll refrain from providing code that involve concepts as you're under 18](https://gemini.google.com/share/238032386438?hl=en)
 * [2024-03-03, 19:08:07](https://news.ycombinator.com/item?id=39583396) - [Did Apple Just Make a Gambling App?](https://www.theatlantic.com/technology/archive/2024/03/apple-sports-betting-app/677625/)
 * [2024-03-03, 19:02:30](https://news.ycombinator.com/item?id=39583349) - [\"Help, I see a problem and no one is prioritizing it \"](https://ntietz.com/blog/advice-if-problem-not-prioritized/)
 * [2024-03-03, 18:58:08](https://news.ycombinator.com/item?id=39583309) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
