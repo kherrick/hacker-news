@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-03, 21:09:28](https://news.ycombinator.com/item?id=39584566) - [French Artists in 1899 Envisioned What Life Would Look Like in the Year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 * [2024-03-03, 21:03:48](https://news.ycombinator.com/item?id=39584532) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
 * [2024-03-03, 20:02:54](https://news.ycombinator.com/item?id=39583945) - [Combating olive oil fraud with nuclear innovations](https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations)
 * [2024-03-03, 19:21:20](https://news.ycombinator.com/item?id=39583537) - [People’s Peace Treaty of 1971 (2021)](https://www.larrysworld.com/peoples-peace-treaty/)
@@ -8,7 +9,6 @@
 * [2024-03-03, 18:01:13](https://news.ycombinator.com/item?id=39582745) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 17:47:57](https://news.ycombinator.com/item?id=39582571) - [Storing binary data in playing cards (2014)](https://www.timwarriner.com/carddata/)
 * [2024-03-03, 17:46:20](https://news.ycombinator.com/item?id=39582552) - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
-* [2024-03-03, 17:45:14](https://news.ycombinator.com/item?id=39582541) - [\"AI will cure cancer\" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
 * [2024-03-03, 17:31:03](https://news.ycombinator.com/item?id=39582389) - [USB in a Nutshell (2010)](https://www.beyondlogic.org/usbnutshell/usb1.shtml)
 * [2024-03-03, 17:04:32](https://news.ycombinator.com/item?id=39582116) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 * [2024-03-03, 16:54:21](https://news.ycombinator.com/item?id=39582042) - [3D printed titanium structure shows supernatural strength](https://www.rmit.edu.au/news/all-news/2024/feb/titanium-lattice)

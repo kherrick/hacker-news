@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 21:09:28](https://news.ycombinator.com/item?id=39584566) - [French Artists in 1899 Envisioned What Life Would Look Like in the Year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 * [2024-03-03, 21:03:48](https://news.ycombinator.com/item?id=39584532) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
 * [2024-03-03, 20:14:51](https://news.ycombinator.com/item?id=39584070) - [My favourite data structure: The trie](https://jamesg.blog/2024/01/16/trie/)
 * [2024-03-03, 20:04:57](https://news.ycombinator.com/item?id=39583968) - [What do insanely wealthy people buy, that ordinary people know nothing about?](https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/)
