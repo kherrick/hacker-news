@@ -1,11 +1,41 @@
 [
   [
     [
+      "2024-03-03, 12:29:40",
+      "https://news.ycombinator.com/item?id=39580420"
+    ],
+    [
+      "Visual Explanations of Core Machine Learning Concepts",
+      "https://mlu-explain.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 12:00:48",
+      "https://news.ycombinator.com/item?id=39580310"
+    ],
+    [
+      "HP is in the rent-a-printer business now",
+      "https://www.theverge.com/2024/3/2/24088867/hp-all-in-plan-printer-rental-instant-ink"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 11:58:35",
+      "https://news.ycombinator.com/item?id=39580296"
+    ],
+    [
+      "The unreasonable effectiveness of i3, or: ten years of a boring desktop env",
+      "https://blog.waleson.com/2024/03/the-unreasonable-effectiveness-of-i3-or.html"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 10:07:47",
       "https://news.ycombinator.com/item?id=39579833"
     ],
     [
-      "An Unbelievable Demo",
+      "An Unbelievable Demo (2021)",
       "https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html"
     ]
   ],
@@ -91,6 +121,16 @@
   ],
   [
     [
+      "2024-03-03, 01:04:56",
+      "https://news.ycombinator.com/item?id=39577386"
+    ],
+    [
+      "Restoring sanity takes time",
+      "https://thecritic.co.uk/restoring-sanity-takes-time/"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 00:27:45",
       "https://news.ycombinator.com/item?id=39577164"
     ],
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2024-03-03, 00:02:26",
-      "https://news.ycombinator.com/item?id=39577006"
-    ],
-    [
-      "Goodbye GUI … Hello NUI (1997)",
-      "https://halfhill.com/byte/1997-7_cover.html"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 23:56:02",
       "https://news.ycombinator.com/item?id=39576974"
     ],
     [
       "ShotSpotter: listening in on the neighborhood",
       "https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 23:35:08",
-      "https://news.ycombinator.com/item?id=39576854"
-    ],
-    [
-      "Ancient Texts Can Shed Light on Auroras",
-      "https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-03-02, 13:47:26",
-      "https://news.ycombinator.com/item?id=39572488"
-    ],
-    [
-      "Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction",
-      "https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 12:27:22",
       "https://news.ycombinator.com/item?id=39572106"
     ],
@@ -257,16 +267,6 @@
     [
       "Sequent Calculus as a Compiler Intermediate Language (2016) [pdf]",
       "https://simon.peytonjones.org/assets/pdfs/sequent-calculus.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 03:54:37",
-      "https://news.ycombinator.com/item?id=39569655"
-    ],
-    [
-      "Under the Microscope: Three Dirty Dwarves",
-      "https://32bits.substack.com/p/under-the-microscope-three-dirty"
     ]
   ],
   [
