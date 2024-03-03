@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 09:56:26](https://news.ycombinator.com/item?id=39579775) - [I don’t think you should sign your Git commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
 * [2024-03-03, 08:50:17](https://news.ycombinator.com/item?id=39579487) - [Testing AI and LLM on Rockchip RK3588 Using Mixtile Blade 3 SBC with 32GB RAM](https://taoofmac.com/space/links/2024/03/01/0116)
 * [2024-03-03, 08:38:08](https://news.ycombinator.com/item?id=39579446) - [Laurie Anderson on making AI chatbot of Lou Reed: 100%, sadly addicted](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
 * [2024-03-03, 07:33:30](https://news.ycombinator.com/item?id=39579197) - [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
