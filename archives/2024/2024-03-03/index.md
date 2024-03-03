@@ -7,6 +7,7 @@
 * [2024-03-03, 04:52:24](https://news.ycombinator.com/item?id=39578501) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 * [2024-03-03, 04:40:19](https://news.ycombinator.com/item?id=39578460) - [S.F. schools abandon disastrous payroll system after spending $34M](https://www.sfchronicle.com/bayarea/article/sfusd-payroll-scandal-empower-teacher-pay-18698224.php)
 * [2024-03-03, 04:33:28](https://news.ycombinator.com/item?id=39578443) - [The 'banned' Star Trek episode that promised a united Ireland](https://www.bbc.co.uk/news/entertainment-arts-68342135)
+* [2024-03-03, 04:27:01](https://news.ycombinator.com/item?id=39578416) - [SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone](https://twitter.com/elonmusk/status/1764032892663906313)
 * [2024-03-03, 03:44:40](https://news.ycombinator.com/item?id=39578248) - [US prescription market hamstrung for 9 days (so far) by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
 * [2024-03-03, 03:38:32](https://news.ycombinator.com/item?id=39578221) - [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)
 * [2024-03-03, 03:38:03](https://news.ycombinator.com/item?id=39578218) - [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)

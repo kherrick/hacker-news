@@ -2,6 +2,7 @@
 
 * [2024-03-03, 04:52:24](https://news.ycombinator.com/item?id=39578501) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 * [2024-03-03, 04:33:28](https://news.ycombinator.com/item?id=39578443) - [The 'banned' Star Trek episode that promised a united Ireland](https://www.bbc.co.uk/news/entertainment-arts-68342135)
+* [2024-03-03, 04:27:01](https://news.ycombinator.com/item?id=39578416) - [SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone](https://twitter.com/elonmusk/status/1764032892663906313)
 * [2024-03-03, 03:44:40](https://news.ycombinator.com/item?id=39578248) - [US prescription market hamstrung for 9 days (so far) by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
 * [2024-03-03, 03:38:03](https://news.ycombinator.com/item?id=39578218) - [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)
 * [2024-03-03, 02:47:21](https://news.ycombinator.com/item?id=39578007) - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
@@ -18,7 +19,6 @@
 * [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 * [2024-03-02, 16:16:16](https://news.ycombinator.com/item?id=39573505) - [Show HN: An Algorithmic Audio Landscape](https://ambient.garden)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016) [video]](https://www.youtube.com/watch?v=IvUU8joBb1Q)
-* [2024-03-02, 15:01:49](https://news.ycombinator.com/item?id=39572984) - [On the trail of the Denisovans](https://www.nytimes.com/2024/03/02/science/denisovan-neanderthal-dna.html)
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 * [2024-03-02, 14:22:27](https://news.ycombinator.com/item?id=39572718) - [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
 * [2024-03-02, 13:47:26](https://news.ycombinator.com/item?id=39572488) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
