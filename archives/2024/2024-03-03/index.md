@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
 * [2024-03-03, 22:40:51](https://news.ycombinator.com/item?id=39585209) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
+* [2024-03-03, 22:40:13](https://news.ycombinator.com/item?id=39585207) - [Please, Enough with the Dead Butterflies](https://www.emilydamstra.com/please-enough-dead-butterflies/)
 * [2024-03-03, 22:06:51](https://news.ycombinator.com/item?id=39584984) - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
 * [2024-03-03, 21:47:25](https://news.ycombinator.com/item?id=39584830) - [Cops visit school of 'wrong person's child,' mix up in epic data fail](https://www.theregister.com/2024/03/01/west_midlands_police_data_protection/)
 * [2024-03-03, 21:22:23](https://news.ycombinator.com/item?id=39584654) - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
