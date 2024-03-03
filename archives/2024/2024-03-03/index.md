@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 16:53:03](https://news.ycombinator.com/item?id=39582030) - [Top AIs still fail IQ tests](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests)
+* [2024-03-03, 16:44:05](https://news.ycombinator.com/item?id=39581976) - [The Hater's Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
+* [2024-03-03, 16:23:34](https://news.ycombinator.com/item?id=39581855) - [Joplin is an open source note-taking app](https://joplinapp.org/)
+* [2024-03-03, 16:05:34](https://news.ycombinator.com/item?id=39581711) - [Why Women Outnumber Men in South Korea's Sports Stadiums](https://www.nytimes.com/2024/02/20/world/asia/women-sports-fans-south-korea.html)
 * [2024-03-03, 16:03:31](https://news.ycombinator.com/item?id=39581690) - [Billionaires building bunkers buying islands– prep for apocalypse or feudalism?](https://phys.org/news/2024-03-billionaires-bunkers-buying-islands-prepping.html)
 * [2024-03-03, 15:59:43](https://news.ycombinator.com/item?id=39581664) - [Bug in std:shared_mutex on Windows](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
 * [2024-03-03, 15:55:08](https://news.ycombinator.com/item?id=39581627) - [AI-generated content, other unfavorable practices get CNET on Wikipedia banlist](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-generated-content-and-other-unfavorable-practices-have-put-longtime-staple-cnet-on-wikipedias-blacklisted-sources)
@@ -15,6 +19,7 @@
 * [2024-03-03, 14:33:19](https://news.ycombinator.com/item?id=39581047) - [DUSt3R: Geometric 3D Vision Made Easy](https://dust3r.europe.naverlabs.com/)
 * [2024-03-03, 13:54:23](https://news.ycombinator.com/item?id=39580834) - [10 Minutes is ~1% of your day](https://taylor.town/10-minutes)
 * [2024-03-03, 13:53:49](https://news.ycombinator.com/item?id=39580831) - [Memetics](https://en.wikipedia.org/wiki/Memetics)
+* [2024-03-03, 13:50:21](https://news.ycombinator.com/item?id=39580813) - [The Trillion Dollar Equation [video]](https://www.youtube.com/watch?v=A5w-dEgIU1M)
 * [2024-03-03, 12:38:33](https://news.ycombinator.com/item?id=39580449) - [Ollama: Running Large Language Models Locally](https://www.andreagrandi.it/posts/ollama-running-llm-locally/)
 * [2024-03-03, 12:34:31](https://news.ycombinator.com/item?id=39580439) - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
 * [2024-03-03, 12:29:40](https://news.ycombinator.com/item?id=39580420) - [Visual Explanations of Core Machine Learning Concepts](https://mlu-explain.github.io/)
