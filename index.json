@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-03-03, 17:42:51",
-      "https://news.ycombinator.com/item?id=39582512"
+      "2024-03-03, 17:45:14",
+      "https://news.ycombinator.com/item?id=39582541"
     ],
     [
-      "I'm going to keep opting out",
-      "https://coryd.dev/posts/2024/im-going-to-keep-opting-out/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 17:24:34",
-      "https://news.ycombinator.com/item?id=39582327"
-    ],
-    [
-      "AI is Taking Water from the Desert",
-      "https://www.theatlantic.com/technology/archive/2024/03/ai-water-climate-microsoft/677602/"
+      "\"AI will cure cancer\" misunderstands both AI and medicine",
+      "https://rachel.fast.ai/posts/2024-02-20-ai-medicine/"
     ]
   ],
   [
@@ -37,6 +27,16 @@
     [
       "Better PC Cooling with Python and Grafana",
       "https://calbryant.uk/blog/better-pc-cooling-with-python/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 16:54:21",
+      "https://news.ycombinator.com/item?id=39582042"
+    ],
+    [
+      "3D printed titanium structure shows supernatural strength",
+      "https://www.rmit.edu.au/news/all-news/2024/feb/titanium-lattice"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-03-03, 16:20:05",
-      "https://news.ycombinator.com/item?id=39581831"
-    ],
-    [
-      "Everything is rising at a scary rate: Why car, home insurance costs are surging",
-      "https://text.npr.org/1233963377"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 16:05:34",
       "https://news.ycombinator.com/item?id=39581711"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2024-03-03, 15:38:40",
+      "https://news.ycombinator.com/item?id=39581498"
+    ],
+    [
+      "A kids' novel inspired me to simulate a gene drive on 86M genealogy profiles",
+      "https://worthdoingbadly.com/familytree/"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 15:29:41",
       "https://news.ycombinator.com/item?id=39581416"
     ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39581156"
     ],
     [
-      "The Repair Shops Where Subway Cars Go for a Makeover",
+      "Repair shops where subway cars go for a makeover",
       "https://www.nytimes.com/2024/03/01/nyregion/subway-repair-shop-new-york.html"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=39580346"
     ],
     [
-      "Google's SRE Book",
+      "Google's SRE Book (2017)",
       "https://sre.google/sre-book/table-of-contents/"
     ]
   ],
