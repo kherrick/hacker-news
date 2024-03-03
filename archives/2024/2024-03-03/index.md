@@ -6,6 +6,7 @@
 
 * [2024-03-03, 09:56:26](https://news.ycombinator.com/item?id=39579775) - [I don’t think you should sign your Git commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
 * [2024-03-03, 08:50:17](https://news.ycombinator.com/item?id=39579487) - [Testing AI and LLM on Rockchip RK3588 Using Mixtile Blade 3 SBC with 32GB RAM](https://taoofmac.com/space/links/2024/03/01/0116)
+* [2024-03-03, 08:38:48](https://news.ycombinator.com/item?id=39579447) - [David Holladay, blindness technology pioneer, dies at age 70](https://www.braillists.org/uncategorised/a-message-from-duxbury-systems-in-loving-memory-of-our-dear-friend-and-colleague/)
 * [2024-03-03, 08:38:08](https://news.ycombinator.com/item?id=39579446) - [Laurie Anderson on making AI chatbot of Lou Reed: 100%, sadly addicted](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
 * [2024-03-03, 07:33:30](https://news.ycombinator.com/item?id=39579197) - [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
 * [2024-03-03, 07:19:10](https://news.ycombinator.com/item?id=39579136) - [I Was a Heretic at the New York Times](https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546/)
@@ -19,6 +20,7 @@
 * [2024-03-03, 03:44:40](https://news.ycombinator.com/item?id=39578248) - [US prescription market hamstrung for 9 days (so far) by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
 * [2024-03-03, 03:38:32](https://news.ycombinator.com/item?id=39578221) - [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)
 * [2024-03-03, 03:38:03](https://news.ycombinator.com/item?id=39578218) - [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)
+* [2024-03-03, 03:07:16](https://news.ycombinator.com/item?id=39578092) - [Telegram for America (1956)](https://archive.org/details/Telegram1956)
 * [2024-03-03, 03:06:52](https://news.ycombinator.com/item?id=39578090) - [How to convert Node.js stream callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator)
 * [2024-03-03, 02:47:21](https://news.ycombinator.com/item?id=39578007) - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
 * [2024-03-03, 02:45:12](https://news.ycombinator.com/item?id=39577994) - [The Crisis at Google](https://www.bigtechnology.com/p/inside-the-crisis-at-google)
