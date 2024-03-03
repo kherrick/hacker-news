@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-03, 02:47:21](https://news.ycombinator.com/item?id=39578007) - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
 * [2024-03-03, 00:27:45](https://news.ycombinator.com/item?id=39577164) - [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
-* [2024-03-03, 00:20:19](https://news.ycombinator.com/item?id=39577113) - [Ask HN: What laptop are you using to daily drive Linux?](https://news.ycombinator.com/item?id=39577113)
 * [2024-03-02, 23:56:02](https://news.ycombinator.com/item?id=39576974) - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
 * [2024-03-02, 22:58:06](https://news.ycombinator.com/item?id=39576563) - [Where is all of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-03-02, 22:30:52](https://news.ycombinator.com/item?id=39576343) - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
@@ -23,8 +23,8 @@
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-02, 07:29:30](https://news.ycombinator.com/item?id=39570679) - [KamilaLisp – A functional, flexible and concise Lisp](https://github.com/kspalaiologos/kamilalisp)
 * [2024-03-02, 07:27:52](https://news.ycombinator.com/item?id=39570669) - [Two C64s Plus a Pile of Floppy Disks Equals One Accordion (2022)](https://spectrum.ieee.org/two-commodore-64s-one-accordion)
+* [2024-03-02, 06:42:47](https://news.ycombinator.com/item?id=39570423) - [Sequent Calculus as a Compiler Intermediate Language (2016) [pdf]](https://simon.peytonjones.org/assets/pdfs/sequent-calculus.pdf)
 * [2024-03-02, 06:25:29](https://news.ycombinator.com/item?id=39570343) - [Konilo: A personal computing system in Forth](http://konilo.org/)
-* [2024-03-02, 04:36:43](https://news.ycombinator.com/item?id=39569847) - [In Nome, where the muskoxen roam controversially](https://hakaimagazine.com/features/in-nome-where-the-muskoxen-roam-controversially/)
 * [2024-03-02, 03:54:37](https://news.ycombinator.com/item?id=39569655) - [Under the Microscope: Three Dirty Dwarves](https://32bits.substack.com/p/under-the-microscope-three-dirty)
 * [2024-03-01, 22:58:12](https://news.ycombinator.com/item?id=39567829) - [Chicken Egg Production (2019) [video]](https://www.youtube.com/watch?v=5gdX04NgEMs)
 * [2024-03-01, 19:48:16](https://news.ycombinator.com/item?id=39565992) - [Tools of the Wild: Unveiling the Crafty Side of Nature](https://www.sapiens.org/archaeology/archaeology-tool-user-intelligence/)

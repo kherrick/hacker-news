@@ -79,6 +79,7 @@
 * [2024-03-02, 07:27:52](https://news.ycombinator.com/item?id=39570669) - [Two C64s Plus a Pile of Floppy Disks Equals One Accordion](https://spectrum.ieee.org/two-commodore-64s-one-accordion)
 * [2024-03-02, 07:25:29](https://news.ycombinator.com/item?id=39570657) - [Google lays off entire team while they are testifying to the city council](https://mas.to/@yogthos/112020432735682211)
 * [2024-03-02, 06:47:10](https://news.ycombinator.com/item?id=39570444) - [Oregon Is Recriminalizing Drugs, Dealing Setback to Reform Movement](https://www.nytimes.com/2024/03/01/us/oregon-drug-decriminalization-rollback-measure-110.html)
+* [2024-03-02, 06:42:47](https://news.ycombinator.com/item?id=39570423) - [Sequent Calculus as a Compiler Intermediate Language (2016) [pdf]](https://simon.peytonjones.org/assets/pdfs/sequent-calculus.pdf)
 * [2024-03-02, 06:27:13](https://news.ycombinator.com/item?id=39570353) - [The human eye can see 'invisible' infrared light](https://source.wustl.edu/2014/12/the-human-eye-can-see-invisible-infrared-light/)
 * [2024-03-02, 06:25:29](https://news.ycombinator.com/item?id=39570343) - [Konilo: A personal computing system in Forth](http://konilo.org/)
 * [2024-03-02, 05:40:34](https://news.ycombinator.com/item?id=39570133) - [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
