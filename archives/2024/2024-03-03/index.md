@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 17:46:20](https://news.ycombinator.com/item?id=39582552) - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
 * [2024-03-03, 17:45:14](https://news.ycombinator.com/item?id=39582541) - [\"AI will cure cancer\" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
 * [2024-03-03, 17:42:51](https://news.ycombinator.com/item?id=39582512) - [I'm going to keep opting out](https://coryd.dev/posts/2024/im-going-to-keep-opting-out/)
 * [2024-03-03, 17:24:34](https://news.ycombinator.com/item?id=39582327) - [AI is Taking Water from the Desert](https://www.theatlantic.com/technology/archive/2024/03/ai-water-climate-microsoft/677602/)
@@ -15,6 +16,7 @@
 * [2024-03-03, 16:52:05](https://news.ycombinator.com/item?id=39582018) - [What It's Like to Staff the Home of a Billionaire](https://www.thecut.com/article/staffing-billionaires.html)
 * [2024-03-03, 16:44:05](https://news.ycombinator.com/item?id=39581976) - [The Hater's Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
 * [2024-03-03, 16:23:34](https://news.ycombinator.com/item?id=39581855) - [Joplin is an open source note-taking app](https://joplinapp.org/)
+* [2024-03-03, 16:20:27](https://news.ycombinator.com/item?id=39581833) - [I decided not to apply YC again](https://news.ycombinator.com/item?id=39581833)
 * [2024-03-03, 16:20:05](https://news.ycombinator.com/item?id=39581831) - [Everything is rising at a scary rate: Why car, home insurance costs are surging](https://text.npr.org/1233963377)
 * [2024-03-03, 16:05:34](https://news.ycombinator.com/item?id=39581711) - [Why Women Outnumber Men in South Korea's Sports Stadiums](https://www.nytimes.com/2024/02/20/world/asia/women-sports-fans-south-korea.html)
 * [2024-03-03, 16:03:31](https://news.ycombinator.com/item?id=39581690) - [Billionaires building bunkers buying islands– prep for apocalypse or feudalism?](https://phys.org/news/2024-03-billionaires-bunkers-buying-islands-prepping.html)
@@ -33,6 +35,7 @@
 * [2024-03-03, 13:54:23](https://news.ycombinator.com/item?id=39580834) - [10 Minutes is ~1% of your day](https://taylor.town/10-minutes)
 * [2024-03-03, 13:53:49](https://news.ycombinator.com/item?id=39580831) - [Memetics](https://en.wikipedia.org/wiki/Memetics)
 * [2024-03-03, 13:50:21](https://news.ycombinator.com/item?id=39580813) - [The Trillion Dollar Equation [video]](https://www.youtube.com/watch?v=A5w-dEgIU1M)
+* [2024-03-03, 13:49:45](https://news.ycombinator.com/item?id=39580812) - [Why Do East Asian Firms Value Drinking?](https://www.ggd.world/p/why-do-east-asian-firms-value-drinking)
 * [2024-03-03, 12:38:33](https://news.ycombinator.com/item?id=39580449) - [Ollama: Running Large Language Models Locally](https://www.andreagrandi.it/posts/ollama-running-llm-locally/)
 * [2024-03-03, 12:34:31](https://news.ycombinator.com/item?id=39580439) - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
 * [2024-03-03, 12:29:40](https://news.ycombinator.com/item?id=39580420) - [Visual Explanations of Core Machine Learning Concepts](https://mlu-explain.github.io/)
