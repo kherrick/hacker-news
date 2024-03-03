@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-03, 15:43:35",
-      "https://news.ycombinator.com/item?id=39581543"
+      "2024-03-03, 15:59:43",
+      "https://news.ycombinator.com/item?id=39581664"
     ],
     [
-      "TikTok is finally on the decline",
-      "https://slate.com/technology/2024/02/tiktok-declining-finally-why-universal-ads-search.html"
+      "Bug in std:shared_mutex on Windows",
+      "https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-03-02, 23:26:40",
+      "https://news.ycombinator.com/item?id=39576770"
+    ],
+    [
+      "How Copernicus took down Ptolemy's Almagest",
+      "https://www.atlasobscura.com/articles/ptolemy-geocentrism-almagest-copernicus"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 22:30:52",
       "https://news.ycombinator.com/item?id=39576343"
     ],
@@ -171,12 +181,22 @@
   ],
   [
     [
-      "2024-03-02, 19:51:53",
-      "https://news.ycombinator.com/item?id=39575262"
+      "2024-03-02, 22:03:30",
+      "https://news.ycombinator.com/item?id=39576167"
     ],
     [
-      "How user groups made software reuse a reality",
-      "https://ztoz.blog/posts/user-group-reuse/"
+      "Taking on the Monopoly",
+      "https://www.zaxis.page/p/taking-on-the-monopoly"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 21:10:35",
+      "https://news.ycombinator.com/item?id=39575803"
+    ],
+    [
+      "Price fixing by algorithm is still price fixing",
+      "https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-03-02, 14:22:27",
-      "https://news.ycombinator.com/item?id=39572718"
-    ],
-    [
-      "Scenes from the last operational Morse-code radio station in North America",
-      "https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 14:12:22",
       "https://news.ycombinator.com/item?id=39572655"
     ],
     [
       "Bookish Diversions: Do Audiobooks Count?",
       "https://www.millersbookreview.com/p/bookish-diversions-do-audiobooks-count"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 13:47:26",
-      "https://news.ycombinator.com/item?id=39572488"
-    ],
-    [
-      "Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction",
-      "https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction"
     ]
   ],
   [
