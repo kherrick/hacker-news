@@ -40,6 +40,7 @@
 * [2024-03-02, 16:41:46](https://news.ycombinator.com/item?id=39573691) - [Badssl.com](https://badssl.com/)
 * [2024-03-02, 16:16:16](https://news.ycombinator.com/item?id=39573505) - [Show HN: An Algorithmic Audio Landscape](https://ambient.garden)
 * [2024-03-02, 16:02:14](https://news.ycombinator.com/item?id=39573392) - [CDC ditches 5-day Covid isolation, argues Covid is becoming flu-like](https://arstechnica.com/science/2024/03/cdc-ditches-5-day-covid-isolation-argues-covid-is-becoming-flu-like/)
+* [2024-03-02, 16:00:38](https://news.ycombinator.com/item?id=39573389) - [Open Beam Interface](https://github.com/nanographs/Open-Beam-Interface)
 * [2024-03-02, 15:20:46](https://news.ycombinator.com/item?id=39573097) - [Nvidia and AMD Are Overhyped and Overvalued](https://seekingalpha.com/article/4664472-nvidia-and-amd-are-overhyped-and-overvalued)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016)](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 15:09:58](https://news.ycombinator.com/item?id=39573039) - [NASA satellite, Russian spacecraft crossed within 65 ft (20M) of each other](https://www.space.com/near-collision-nasa-timed-satellite-russian-space-junk)
