@@ -24,6 +24,7 @@
 * [2024-03-03, 02:37:06](https://news.ycombinator.com/item?id=39577957) - [An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS Apple](http://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
 * [2024-03-03, 02:25:28](https://news.ycombinator.com/item?id=39577878) - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
 * [2024-03-03, 01:55:22](https://news.ycombinator.com/item?id=39577695) - [The first observation of humpback whale copulation](https://nautil.us/humpback-whales-caught-humping-522330/)
+* [2024-03-03, 01:41:38](https://news.ycombinator.com/item?id=39577605) - [Megaparsec Tutorial](https://markkarpov.com/tutorial/megaparsec.html)
 * [2024-03-03, 00:33:12](https://news.ycombinator.com/item?id=39577198) - [Ask HN: Any advice on navigating this job market or pivoting out of tech? (US)](https://news.ycombinator.com/item?id=39577198)
 * [2024-03-03, 00:27:45](https://news.ycombinator.com/item?id=39577164) - [Generating Transparent Images Using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
 * [2024-03-03, 00:20:19](https://news.ycombinator.com/item?id=39577113) - [Ask HN: What laptop are you using to daily drive Linux?](https://news.ycombinator.com/item?id=39577113)
