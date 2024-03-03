@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 05:31:19](https://news.ycombinator.com/item?id=39578681) - [Feature: Morphcat Games, the New-Gen NES Devs Pushing the 8-Bit Envelope](https://www.nintendolife.com/features/meet-morphcat-games-the-new-gen-nes-devs-pushing-the-8-bit-envelope)
 * [2024-03-03, 05:17:30](https://news.ycombinator.com/item?id=39578616) - [How do I stop being such a doomer?](https://news.ycombinator.com/item?id=39578616)
 * [2024-03-03, 05:02:11](https://news.ycombinator.com/item?id=39578546) - [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
 * [2024-03-03, 04:52:24](https://news.ycombinator.com/item?id=39578501) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
