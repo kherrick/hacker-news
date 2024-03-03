@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 13:54:23](https://news.ycombinator.com/item?id=39580834) - [10 Minutes is ~1% of your day](https://taylor.town/10-minutes)
+* [2024-03-03, 13:53:49](https://news.ycombinator.com/item?id=39580831) - [Memetics](https://en.wikipedia.org/wiki/Memetics)
 * [2024-03-03, 12:38:33](https://news.ycombinator.com/item?id=39580449) - [Ollama: Running Large Language Models Locally](https://www.andreagrandi.it/posts/ollama-running-llm-locally/)
 * [2024-03-03, 12:34:31](https://news.ycombinator.com/item?id=39580439) - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
 * [2024-03-03, 12:29:40](https://news.ycombinator.com/item?id=39580420) - [Visual Explanations of Core Machine Learning Concepts](https://mlu-explain.github.io/)

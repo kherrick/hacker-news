@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-03, 13:54:23](https://news.ycombinator.com/item?id=39580834) - [10 Minutes is ~1% of your day](https://taylor.town/10-minutes)
+* [2024-03-03, 13:53:49](https://news.ycombinator.com/item?id=39580831) - [Memetics](https://en.wikipedia.org/wiki/Memetics)
 * [2024-03-03, 12:34:31](https://news.ycombinator.com/item?id=39580439) - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
 * [2024-03-03, 11:15:37](https://news.ycombinator.com/item?id=39580136) - [Show HN: Hancho – A simple and pleasant build system in ~500 lines of Python](https://github.com/aappleby/hancho)
 * [2024-03-03, 10:07:47](https://news.ycombinator.com/item?id=39579833) - [An Unbelievable Demo (2021)](https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
@@ -22,9 +24,7 @@
 * [2024-03-02, 16:00:38](https://news.ycombinator.com/item?id=39573389) - [Open Beam Interface](https://github.com/nanographs/Open-Beam-Interface)
 * [2024-03-02, 15:20:27](https://news.ycombinator.com/item?id=39573093) - [Wintergatan Marble Machine (2016) [video]](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 * [2024-03-02, 14:42:43](https://news.ycombinator.com/item?id=39572858) - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
-* [2024-03-02, 14:22:27](https://news.ycombinator.com/item?id=39572718) - [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
 * [2024-03-02, 14:12:22](https://news.ycombinator.com/item?id=39572655) - [Bookish Diversions: Do Audiobooks Count?](https://www.millersbookreview.com/p/bookish-diversions-do-audiobooks-count)
-* [2024-03-02, 13:47:26](https://news.ycombinator.com/item?id=39572488) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 * [2024-03-02, 12:27:22](https://news.ycombinator.com/item?id=39572106) - [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
 * [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-02, 06:42:47](https://news.ycombinator.com/item?id=39570423) - [Sequent Calculus as a Compiler Intermediate Language (2016) [pdf]](https://simon.peytonjones.org/assets/pdfs/sequent-calculus.pdf)
