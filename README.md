@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-03, 19:08:07](https://news.ycombinator.com/item?id=39583396) - [Did Apple Just Make a Gambling App?](https://www.theatlantic.com/technology/archive/2024/03/apple-sports-betting-app/677625/)
+* [2024-03-03, 19:25:30](https://news.ycombinator.com/item?id=39583575) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
+* [2024-03-03, 19:21:20](https://news.ycombinator.com/item?id=39583537) - [The People's Peace Treaty of 1971](https://www.larrysworld.com/peoples-peace-treaty/)
 * [2024-03-03, 17:46:20](https://news.ycombinator.com/item?id=39582552) - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
 * [2024-03-03, 17:45:14](https://news.ycombinator.com/item?id=39582541) - [\"AI will cure cancer\" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
 * [2024-03-03, 17:04:32](https://news.ycombinator.com/item?id=39582116) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
@@ -28,7 +29,6 @@
 * [2024-03-02, 17:49:26](https://news.ycombinator.com/item?id=39574240) - [Interlisp-D and MIT CADR Lispm Demos for IJCAI Conference 1981, from Xerox PARC](https://archive.org/details/xerox-parc_V-141_1)
 * [2024-03-02, 16:16:16](https://news.ycombinator.com/item?id=39573505) - [Show HN: An algorithmic audio landscape](https://ambient.garden)
 * [2024-03-02, 16:00:38](https://news.ycombinator.com/item?id=39573389) - [Open Beam Interface](https://github.com/nanographs/Open-Beam-Interface)
-* [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-01, 17:40:11](https://news.ycombinator.com/item?id=39564332) - [First known photos of 'lost bird' captured by scientists](https://phys.org/news/2024-02-photos-lost-bird-captured-scientists.html)
 
 ## [Archives](archives/index.md)
