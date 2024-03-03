@@ -11,6 +11,7 @@
 * [2024-03-03, 02:37:06](https://news.ycombinator.com/item?id=39577957) - [An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS Apple](http://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
 * [2024-03-03, 02:25:28](https://news.ycombinator.com/item?id=39577878) - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
 * [2024-03-03, 00:27:45](https://news.ycombinator.com/item?id=39577164) - [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
+* [2024-03-03, 00:18:50](https://news.ycombinator.com/item?id=39577105) - [What was life – and death – like for Roman legionaries?](https://www.theguardian.com/culture/2024/jan/29/heads-nailed-trees-roman-legionnaires-british-museum-legion)
 * [2024-03-02, 23:56:02](https://news.ycombinator.com/item?id=39576974) - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
 * [2024-03-02, 22:30:52](https://news.ycombinator.com/item?id=39576343) - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 * [2024-03-02, 21:10:35](https://news.ycombinator.com/item?id=39575803) - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
@@ -29,7 +30,6 @@
 * [2024-03-02, 03:54:37](https://news.ycombinator.com/item?id=39569655) - [Under the Microscope: Three Dirty Dwarves](https://32bits.substack.com/p/under-the-microscope-three-dirty)
 * [2024-03-01, 18:02:01](https://news.ycombinator.com/item?id=39564632) - [Ask HN: How can I learn about performance optimization?](https://news.ycombinator.com/item?id=39564632)
 * [2024-03-01, 16:42:11](https://news.ycombinator.com/item?id=39563528) - [The Humbugs of the World (1866)](https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up)
-* [2024-02-29, 20:21:19](https://news.ycombinator.com/item?id=39554518) - [Drinking with Agatha Christie](https://crimereads.com/drinking-with-agatha-christie/)
 
 ## [Archives](archives/index.md)
 
