@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-03, 20:14:51](https://news.ycombinator.com/item?id=39584070) - [My favourite data structure: The trie](https://jamesg.blog/2024/01/16/trie/)
 * [2024-03-03, 20:02:54](https://news.ycombinator.com/item?id=39583945) - [Combating olive oil fraud with nuclear innovations](https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations)
 * [2024-03-03, 19:21:20](https://news.ycombinator.com/item?id=39583537) - [People’s Peace Treaty of 1971 (2021)](https://www.larrysworld.com/peoples-peace-treaty/)
+* [2024-03-03, 18:04:27](https://news.ycombinator.com/item?id=39582797) - [Organic Maps is a free Android and iOS offline maps app for travelers](https://github.com/organicmaps/organicmaps)
 * [2024-03-03, 18:01:13](https://news.ycombinator.com/item?id=39582745) - [Interesting Ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 17:47:57](https://news.ycombinator.com/item?id=39582571) - [Storing binary data in playing cards (2014)](https://www.timwarriner.com/carddata/)
 * [2024-03-03, 17:46:20](https://news.ycombinator.com/item?id=39582552) - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
