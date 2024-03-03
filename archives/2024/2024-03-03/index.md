@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 17:11:13](https://news.ycombinator.com/item?id=39582185) - [The Worst Possible Way to Be Rejected for a Job](https://slate.com/human-interest/2024/02/job-interview-questions-rejection-follow-up-weaknesses.html)
 * [2024-03-03, 16:53:03](https://news.ycombinator.com/item?id=39582030) - [Top AIs still fail IQ tests](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests)
+* [2024-03-03, 16:52:05](https://news.ycombinator.com/item?id=39582018) - [What It's Like to Staff the Home of a Billionaire](https://www.thecut.com/article/staffing-billionaires.html)
 * [2024-03-03, 16:44:05](https://news.ycombinator.com/item?id=39581976) - [The Hater's Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
 * [2024-03-03, 16:23:34](https://news.ycombinator.com/item?id=39581855) - [Joplin is an open source note-taking app](https://joplinapp.org/)
 * [2024-03-03, 16:20:05](https://news.ycombinator.com/item?id=39581831) - [Everything is rising at a scary rate: Why car, home insurance costs are surging](https://text.npr.org/1233963377)

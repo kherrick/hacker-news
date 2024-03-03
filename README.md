@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-03, 16:53:03](https://news.ycombinator.com/item?id=39582030) - [Top AIs still fail IQ tests](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests)
+* [2024-03-03, 17:11:13](https://news.ycombinator.com/item?id=39582185) - [The Worst Possible Way to Be Rejected for a Job](https://slate.com/human-interest/2024/02/job-interview-questions-rejection-follow-up-weaknesses.html)
+* [2024-03-03, 16:52:05](https://news.ycombinator.com/item?id=39582018) - [What It's Like to Staff the Home of a Billionaire](https://www.thecut.com/article/staffing-billionaires.html)
 * [2024-03-03, 16:44:05](https://news.ycombinator.com/item?id=39581976) - [The Hater's Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
 * [2024-03-03, 16:23:34](https://news.ycombinator.com/item?id=39581855) - [Joplin is an open source note-taking app](https://joplinapp.org/)
 * [2024-03-03, 16:20:05](https://news.ycombinator.com/item?id=39581831) - [Everything is rising at a scary rate: Why car, home insurance costs are surging](https://text.npr.org/1233963377)
@@ -27,7 +28,6 @@
 * [2024-03-02, 16:16:16](https://news.ycombinator.com/item?id=39573505) - [Show HN: An algorithmic audio landscape](https://ambient.garden)
 * [2024-03-02, 16:00:38](https://news.ycombinator.com/item?id=39573389) - [Open Beam Interface](https://github.com/nanographs/Open-Beam-Interface)
 * [2024-03-02, 14:12:22](https://news.ycombinator.com/item?id=39572655) - [Bookish Diversions: Do Audiobooks Count?](https://www.millersbookreview.com/p/bookish-diversions-do-audiobooks-count)
-* [2024-03-02, 07:31:09](https://news.ycombinator.com/item?id=39570692) - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 * [2024-03-01, 18:02:01](https://news.ycombinator.com/item?id=39564632) - [Ask HN: How can I learn about performance optimization?](https://news.ycombinator.com/item?id=39564632)
 * [2024-03-01, 17:40:11](https://news.ycombinator.com/item?id=39564332) - [First known photos of 'lost bird' captured by scientists](https://phys.org/news/2024-02-photos-lost-bird-captured-scientists.html)
 
