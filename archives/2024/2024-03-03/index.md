@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 05:17:30](https://news.ycombinator.com/item?id=39578616) - [How do I stop being such a doomer?](https://news.ycombinator.com/item?id=39578616)
+* [2024-03-03, 05:02:11](https://news.ycombinator.com/item?id=39578546) - [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
 * [2024-03-03, 04:52:24](https://news.ycombinator.com/item?id=39578501) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 * [2024-03-03, 04:40:19](https://news.ycombinator.com/item?id=39578460) - [S.F. schools abandon disastrous payroll system after spending $34M](https://www.sfchronicle.com/bayarea/article/sfusd-payroll-scandal-empower-teacher-pay-18698224.php)
 * [2024-03-03, 04:33:28](https://news.ycombinator.com/item?id=39578443) - [The 'banned' Star Trek episode that promised a united Ireland](https://www.bbc.co.uk/news/entertainment-arts-68342135)
@@ -14,6 +16,7 @@
 * [2024-03-03, 03:06:52](https://news.ycombinator.com/item?id=39578090) - [How to convert Node.js stream callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator)
 * [2024-03-03, 02:47:21](https://news.ycombinator.com/item?id=39578007) - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
 * [2024-03-03, 02:45:12](https://news.ycombinator.com/item?id=39577994) - [The Crisis at Google](https://www.bigtechnology.com/p/inside-the-crisis-at-google)
+* [2024-03-03, 02:37:06](https://news.ycombinator.com/item?id=39577957) - [An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS Apple](http://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
 * [2024-03-03, 02:25:28](https://news.ycombinator.com/item?id=39577878) - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
 * [2024-03-03, 01:55:22](https://news.ycombinator.com/item?id=39577695) - [The first observation of humpback whale copulation](https://nautil.us/humpback-whales-caught-humping-522330/)
 * [2024-03-03, 00:33:12](https://news.ycombinator.com/item?id=39577198) - [Ask HN: Any advice on navigating this job market or pivoting out of tech? (US)](https://news.ycombinator.com/item?id=39577198)

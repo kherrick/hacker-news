@@ -82,6 +82,7 @@
 * [2024-03-02, 06:42:47](https://news.ycombinator.com/item?id=39570423) - [Sequent Calculus as a Compiler Intermediate Language (2016) [pdf]](https://simon.peytonjones.org/assets/pdfs/sequent-calculus.pdf)
 * [2024-03-02, 06:27:13](https://news.ycombinator.com/item?id=39570353) - [The human eye can see 'invisible' infrared light](https://source.wustl.edu/2014/12/the-human-eye-can-see-invisible-infrared-light/)
 * [2024-03-02, 06:25:29](https://news.ycombinator.com/item?id=39570343) - [Konilo: A personal computing system in Forth](http://konilo.org/)
+* [2024-03-02, 05:55:45](https://news.ycombinator.com/item?id=39570197) - [LumaCode](https://github.com/c0pperdragon/LumaCode/wiki/Overview)
 * [2024-03-02, 05:40:34](https://news.ycombinator.com/item?id=39570133) - [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
 * [2024-03-02, 04:36:43](https://news.ycombinator.com/item?id=39569847) - [In Nome, Where the Muskoxen Roam Controversially](https://hakaimagazine.com/features/in-nome-where-the-muskoxen-roam-controversially/)
 * [2024-03-02, 04:36:37](https://news.ycombinator.com/item?id=39569843) - [Don't Use Discord for FOSS](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
