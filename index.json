@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-03, 17:46:20",
+      "https://news.ycombinator.com/item?id=39582552"
+    ],
+    [
+      "Separating a particle's mass from its momentum",
+      "https://arxiv.org/abs/2401.10408"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 17:45:14",
       "https://news.ycombinator.com/item?id=39582541"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2024-03-03, 16:52:05",
-      "https://news.ycombinator.com/item?id=39582018"
-    ],
-    [
-      "What it's like to staff the home of a billionaire",
-      "https://www.thecut.com/article/staffing-billionaires.html"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 16:23:34",
       "https://news.ycombinator.com/item?id=39581855"
     ],
     [
       "Joplin is an open source note-taking app",
       "https://joplinapp.org/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 16:20:27",
+      "https://news.ycombinator.com/item?id=39581833"
+    ],
+    [
+      "I decided not to apply YC again",
+      "https://news.ycombinator.com/item?id=39581833"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Bug in reader/writer locks in Windows API",
       "https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 15:55:08",
-      "https://news.ycombinator.com/item?id=39581627"
-    ],
-    [
-      "AI-generated content, other unfavorable practices get CNET on Wikipedia banlist",
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-generated-content-and-other-unfavorable-practices-have-put-longtime-staple-cnet-on-wikipedias-blacklisted-sources"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "The Black-Scholes/Merton equation [video]",
       "https://www.youtube.com/watch?v=A5w-dEgIU1M"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 13:49:45",
+      "https://news.ycombinator.com/item?id=39580812"
+    ],
+    [
+      "Why Do East Asian Firms Value Drinking?",
+      "https://www.ggd.world/p/why-do-east-asian-firms-value-drinking"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Open Beam Interface",
       "https://github.com/nanographs/Open-Beam-Interface"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 07:31:09",
-      "https://news.ycombinator.com/item?id=39570692"
-    ],
-    [
-      "Ente: Open-Source, E2E Encrypted, Google Photos Alternative",
-      "https://ente.io/"
     ]
   ],
   [
