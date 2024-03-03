@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 22:40:51](https://news.ycombinator.com/item?id=39585209) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
 * [2024-03-03, 22:06:51](https://news.ycombinator.com/item?id=39584984) - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
 * [2024-03-03, 21:47:25](https://news.ycombinator.com/item?id=39584830) - [Cops visit school of 'wrong person's child,' mix up in epic data fail](https://www.theregister.com/2024/03/01/west_midlands_police_data_protection/)
 * [2024-03-03, 21:22:23](https://news.ycombinator.com/item?id=39584654) - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
@@ -16,6 +17,7 @@
 * [2024-03-03, 20:02:54](https://news.ycombinator.com/item?id=39583945) - [Combating olive oil fraud with nuclear innovations](https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations)
 * [2024-03-03, 19:25:30](https://news.ycombinator.com/item?id=39583575) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
 * [2024-03-03, 19:21:20](https://news.ycombinator.com/item?id=39583537) - [The People's Peace Treaty of 1971](https://www.larrysworld.com/peoples-peace-treaty/)
+* [2024-03-03, 19:17:32](https://news.ycombinator.com/item?id=39583492) - [Amiga's Final Days as Chronicled by the Village Voice 30 Years Ago](https://www.amigalove.com/viewtopic.php?t=2697)
 * [2024-03-03, 19:15:51](https://news.ycombinator.com/item?id=39583473) - [I'll refrain from providing code that involve concepts as you're under 18](https://gemini.google.com/share/238032386438?hl=en)
 * [2024-03-03, 19:08:07](https://news.ycombinator.com/item?id=39583396) - [Did Apple Just Make a Gambling App?](https://www.theatlantic.com/technology/archive/2024/03/apple-sports-betting-app/677625/)
 * [2024-03-03, 19:02:30](https://news.ycombinator.com/item?id=39583349) - [\"Help, I see a problem and no one is prioritizing it \"](https://ntietz.com/blog/advice-if-problem-not-prioritized/)
