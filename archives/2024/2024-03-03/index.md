@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 17:45:14](https://news.ycombinator.com/item?id=39582541) - [\"AI will cure cancer\" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
 * [2024-03-03, 17:42:51](https://news.ycombinator.com/item?id=39582512) - [I'm going to keep opting out](https://coryd.dev/posts/2024/im-going-to-keep-opting-out/)
 * [2024-03-03, 17:24:34](https://news.ycombinator.com/item?id=39582327) - [AI is Taking Water from the Desert](https://www.theatlantic.com/technology/archive/2024/03/ai-water-climate-microsoft/677602/)
 * [2024-03-03, 17:19:11](https://news.ycombinator.com/item?id=39582265) - [How Did REST Come to Mean the Opposite of REST? (2022)](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [2024-03-03, 17:11:13](https://news.ycombinator.com/item?id=39582185) - [The Worst Possible Way to Be Rejected for a Job](https://slate.com/human-interest/2024/02/job-interview-questions-rejection-follow-up-weaknesses.html)
 * [2024-03-03, 17:04:32](https://news.ycombinator.com/item?id=39582116) - [Better PC Cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
+* [2024-03-03, 16:54:21](https://news.ycombinator.com/item?id=39582042) - [3D printed titanium structure shows supernatural strength](https://www.rmit.edu.au/news/all-news/2024/feb/titanium-lattice)
 * [2024-03-03, 16:53:03](https://news.ycombinator.com/item?id=39582030) - [Top AIs still fail IQ tests](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests)
 * [2024-03-03, 16:52:05](https://news.ycombinator.com/item?id=39582018) - [What It's Like to Staff the Home of a Billionaire](https://www.thecut.com/article/staffing-billionaires.html)
 * [2024-03-03, 16:44:05](https://news.ycombinator.com/item?id=39581976) - [The Hater's Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
@@ -19,6 +21,7 @@
 * [2024-03-03, 15:59:43](https://news.ycombinator.com/item?id=39581664) - [Bug in std:shared_mutex on Windows](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
 * [2024-03-03, 15:55:08](https://news.ycombinator.com/item?id=39581627) - [AI-generated content, other unfavorable practices get CNET on Wikipedia banlist](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-generated-content-and-other-unfavorable-practices-have-put-longtime-staple-cnet-on-wikipedias-blacklisted-sources)
 * [2024-03-03, 15:43:35](https://news.ycombinator.com/item?id=39581543) - [TikTok is finally on the decline](https://slate.com/technology/2024/02/tiktok-declining-finally-why-universal-ads-search.html)
+* [2024-03-03, 15:38:40](https://news.ycombinator.com/item?id=39581498) - [A kids' novel inspired me to simulate a gene drive on 86M genealogy profiles](https://worthdoingbadly.com/familytree/)
 * [2024-03-03, 15:32:06](https://news.ycombinator.com/item?id=39581440) - [Writers can write anything. Programmers can't](https://www.mahendraker.com/blog/writing)
 * [2024-03-03, 15:29:41](https://news.ycombinator.com/item?id=39581416) - [NIST 800-207A: Implementing Zero Trust Architecture](https://www.infoq.com/presentations/nist-800-207a/)
 * [2024-03-03, 15:16:34](https://news.ycombinator.com/item?id=39581341) - [The Classic Adventures Solution Archive](https://www.solutionarchive.com/)
