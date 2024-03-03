@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 12:38:33](https://news.ycombinator.com/item?id=39580449) - [Ollama: Running Large Language Models Locally](https://www.andreagrandi.it/posts/ollama-running-llm-locally/)
+* [2024-03-03, 12:34:31](https://news.ycombinator.com/item?id=39580439) - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
 * [2024-03-03, 12:29:40](https://news.ycombinator.com/item?id=39580420) - [Visual Explanations of Core Machine Learning Concepts](https://mlu-explain.github.io/)
 * [2024-03-03, 12:06:32](https://news.ycombinator.com/item?id=39580336) - [Google Founder Sergey Brin: Gemini issue due to lack of \"thorough testing\"](https://twitter.com/0interestrates/status/1764087484026392803)
 * [2024-03-03, 12:00:48](https://news.ycombinator.com/item?id=39580310) - [HP is in the rent-a-printer business now](https://www.theverge.com/2024/3/2/24088867/hp-all-in-plan-printer-rental-instant-ink)
