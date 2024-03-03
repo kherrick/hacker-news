@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-03-03, 17:11:13",
-      "https://news.ycombinator.com/item?id=39582185"
-    ],
-    [
-      "The Worst Possible Way to Be Rejected for a Job",
-      "https://slate.com/human-interest/2024/02/job-interview-questions-rejection-follow-up-weaknesses.html"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 17:04:32",
       "https://news.ycombinator.com/item?id=39582116"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39581976"
     ],
     [
-      "The Hater's Guide to Kubernetes",
+      "The hater's guide to Kubernetes",
       "https://paulbutler.org/2024/the-haters-guide-to-kubernetes/"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39581711"
     ],
     [
-      "Why Women Outnumber Men in South Korea's Sports Stadiums",
+      "Women outnumber men in South Korea's sports stadiums",
       "https://www.nytimes.com/2024/02/20/world/asia/women-sports-fans-south-korea.html"
     ]
   ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39581664"
     ],
     [
-      "Bug in std:shared_mutex on Windows",
+      "Bug in reader/writer locks in Windows API",
       "https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/"
     ]
   ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=39580813"
     ],
     [
-      "The Trillion Dollar Equation [video]",
+      "The Black-Scholes/Merton equation [video]",
       "https://www.youtube.com/watch?v=A5w-dEgIU1M"
     ]
   ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-03-03, 03:07:16",
+      "https://news.ycombinator.com/item?id=39578092"
+    ],
+    [
+      "Telegram for America (1956) [video]",
+      "https://archive.org/details/Telegram1956"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 23:26:40",
       "https://news.ycombinator.com/item?id=39576770"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-03-02, 19:40:50",
+      "https://news.ycombinator.com/item?id=39575189"
+    ],
+    [
+      "The substantiality of spirit: Georgiana Houghton's pictures from the other side",
+      "https://publicdomainreview.org/essay/the-substantiality-of-spirit/"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 17:49:26",
       "https://news.ycombinator.com/item?id=39574240"
     ],
     [
       "Interlisp-D and MIT CADR Lispm Demos for IJCAI Conference 1981, from Xerox PARC",
       "https://archive.org/details/xerox-parc_V-141_1"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 16:16:16",
-      "https://news.ycombinator.com/item?id=39573505"
-    ],
-    [
-      "Show HN: An algorithmic audio landscape",
-      "https://ambient.garden"
     ]
   ],
   [
