@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-03, 19:25:30](https://news.ycombinator.com/item?id=39583575) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
 * [2024-03-03, 19:21:20](https://news.ycombinator.com/item?id=39583537) - [The People's Peace Treaty of 1971](https://www.larrysworld.com/peoples-peace-treaty/)
+* [2024-03-03, 18:58:08](https://news.ycombinator.com/item?id=39583309) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 * [2024-03-03, 17:46:20](https://news.ycombinator.com/item?id=39582552) - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
 * [2024-03-03, 17:45:14](https://news.ycombinator.com/item?id=39582541) - [\"AI will cure cancer\" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
 * [2024-03-03, 17:04:32](https://news.ycombinator.com/item?id=39582116) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
