@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 15:43:35](https://news.ycombinator.com/item?id=39581543) - [TikTok is finally on the decline](https://slate.com/technology/2024/02/tiktok-declining-finally-why-universal-ads-search.html)
 * [2024-03-03, 15:32:06](https://news.ycombinator.com/item?id=39581440) - [Writers can write anything. Programmers can't](https://www.mahendraker.com/blog/writing)
 * [2024-03-03, 15:16:34](https://news.ycombinator.com/item?id=39581341) - [The Classic Adventures Solution Archive](https://www.solutionarchive.com/)
 * [2024-03-03, 15:13:33](https://news.ycombinator.com/item?id=39581324) - [Homebuyers need to make about $50k more than they did pre-pandemic](https://fortune.com/2024/03/02/buying-a-house-expensive-50000-more-salary-pre-pandemic/)
+* [2024-03-03, 14:46:32](https://news.ycombinator.com/item?id=39581130) - [AI startups require new strategies: This time it's different](https://longform.asmartbear.com/ai-startups/)
 * [2024-03-03, 13:54:23](https://news.ycombinator.com/item?id=39580834) - [10 Minutes is ~1% of your day](https://taylor.town/10-minutes)
 * [2024-03-03, 13:53:49](https://news.ycombinator.com/item?id=39580831) - [Memetics](https://en.wikipedia.org/wiki/Memetics)
 * [2024-03-03, 12:38:33](https://news.ycombinator.com/item?id=39580449) - [Ollama: Running Large Language Models Locally](https://www.andreagrandi.it/posts/ollama-running-llm-locally/)
