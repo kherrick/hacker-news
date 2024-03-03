@@ -24,6 +24,7 @@
 * [2024-03-02, 19:59:01](https://news.ycombinator.com/item?id=39575308) - [Researchers create AI worms that can spread from one system to another](https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/)
 * [2024-03-02, 19:53:42](https://news.ycombinator.com/item?id=39575274) - [Sorting the Self: Assessments and the Cult of Personality](https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self)
 * [2024-03-02, 19:51:53](https://news.ycombinator.com/item?id=39575262) - [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
+* [2024-03-02, 19:40:50](https://news.ycombinator.com/item?id=39575189) - [The Substantiality of Spirit: Georgiana Houghton's Pictures from the Other Side](https://publicdomainreview.org/essay/the-substantiality-of-spirit/)
 * [2024-03-02, 19:38:34](https://news.ycombinator.com/item?id=39575172) - [IEA: 20% of 2023 new car sales globally were EVs, curbing oil demand](https://electrek.co/2024/03/02/1-in-5-new-car-sales-globally-in-were-evs-in-2023-oil-demand-iea/)
 * [2024-03-02, 19:31:58](https://news.ycombinator.com/item?id=39575122) - [Git: Programmatic Staging](https://choly.ca/post/git-programmatic-staging/)
 * [2024-03-02, 19:12:30](https://news.ycombinator.com/item?id=39575005) - [CO2 emissions reached record high in 2023 – IEA](https://www.dw.com/en/co2-emissions-reached-record-high-in-2023-iea/a-68413363)
