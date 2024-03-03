@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-03, 19:02:30](https://news.ycombinator.com/item?id=39583349) - [\"Help, I see a problem and no one is prioritizing it \"](https://ntietz.com/blog/advice-if-problem-not-prioritized/)
 * [2024-03-03, 17:46:20](https://news.ycombinator.com/item?id=39582552) - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
 * [2024-03-03, 17:45:14](https://news.ycombinator.com/item?id=39582541) - [\"AI will cure cancer\" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
 * [2024-03-03, 17:19:11](https://news.ycombinator.com/item?id=39582265) - [How Did REST Come to Mean the Opposite of REST? (2022)](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [2024-03-03, 17:04:32](https://news.ycombinator.com/item?id=39582116) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 * [2024-03-03, 16:54:21](https://news.ycombinator.com/item?id=39582042) - [3D printed titanium structure shows supernatural strength](https://www.rmit.edu.au/news/all-news/2024/feb/titanium-lattice)
 * [2024-03-03, 16:23:34](https://news.ycombinator.com/item?id=39581855) - [Joplin is an open source note-taking app](https://joplinapp.org/)
-* [2024-03-03, 16:20:27](https://news.ycombinator.com/item?id=39581833) - [I decided not to apply YC again](https://news.ycombinator.com/item?id=39581833)
 * [2024-03-03, 16:05:34](https://news.ycombinator.com/item?id=39581711) - [Women outnumber men in South Korea's sports stadiums](https://www.nytimes.com/2024/02/20/world/asia/women-sports-fans-south-korea.html)
 * [2024-03-03, 15:59:43](https://news.ycombinator.com/item?id=39581664) - [Bug in reader/writer locks in Windows API](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
 * [2024-03-03, 15:38:40](https://news.ycombinator.com/item?id=39581498) - [A kids' novel inspired me to simulate a gene drive on 86M genealogy profiles](https://worthdoingbadly.com/familytree/)
