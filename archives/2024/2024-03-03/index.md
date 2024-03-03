@@ -14,6 +14,7 @@
 * [2024-03-03, 03:06:52](https://news.ycombinator.com/item?id=39578090) - [How to convert Node.js stream callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator)
 * [2024-03-03, 02:47:21](https://news.ycombinator.com/item?id=39578007) - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
 * [2024-03-03, 02:45:12](https://news.ycombinator.com/item?id=39577994) - [The Crisis at Google](https://www.bigtechnology.com/p/inside-the-crisis-at-google)
+* [2024-03-03, 02:25:28](https://news.ycombinator.com/item?id=39577878) - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
 * [2024-03-03, 01:55:22](https://news.ycombinator.com/item?id=39577695) - [The first observation of humpback whale copulation](https://nautil.us/humpback-whales-caught-humping-522330/)
 * [2024-03-03, 00:33:12](https://news.ycombinator.com/item?id=39577198) - [Ask HN: Any advice on navigating this job market or pivoting out of tech? (US)](https://news.ycombinator.com/item?id=39577198)
 * [2024-03-03, 00:27:45](https://news.ycombinator.com/item?id=39577164) - [Generating Transparent Images Using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
