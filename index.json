@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-03, 20:04:57",
-      "https://news.ycombinator.com/item?id=39583968"
+      "2024-03-03, 20:14:51",
+      "https://news.ycombinator.com/item?id=39584070"
     ],
     [
-      "What do insanely wealthy people buy, that ordinary people know nothing about?",
-      "https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/"
+      "My favourite data structure: The trie",
+      "https://jamesg.blog/2024/01/16/trie/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 20:02:54",
+      "https://news.ycombinator.com/item?id=39583945"
+    ],
+    [
+      "Combating olive oil fraud with nuclear innovations",
+      "https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations"
     ]
   ],
   [
@@ -15,18 +25,18 @@
       "https://news.ycombinator.com/item?id=39583537"
     ],
     [
-      "The People's Peace Treaty of 1971",
+      "People’s Peace Treaty of 1971 (2021)",
       "https://www.larrysworld.com/peoples-peace-treaty/"
     ]
   ],
   [
     [
-      "2024-03-03, 19:15:51",
-      "https://news.ycombinator.com/item?id=39583473"
+      "2024-03-03, 18:01:13",
+      "https://news.ycombinator.com/item?id=39582745"
     ],
     [
-      "I'll refrain from providing code that involve concepts as you're under 18",
-      "https://gemini.google.com/share/238032386438?hl=en"
+      "Interesting Ideas in Observable Framework",
+      "https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2024-03-03, 16:44:05",
+      "https://news.ycombinator.com/item?id=39581976"
+    ],
+    [
+      "The hater's guide to Kubernetes",
+      "https://paulbutler.org/2024/the-haters-guide-to-kubernetes/"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 16:23:34",
       "https://news.ycombinator.com/item?id=39581855"
     ],
@@ -97,6 +117,16 @@
     [
       "Bug in reader/writer locks in Windows API",
       "https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 15:55:08",
+      "https://news.ycombinator.com/item?id=39581627"
+    ],
+    [
+      "AI-generated content, other unfavorable practices get CNET on Wikipedia banlist",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-generated-content-and-other-unfavorable-practices-have-put-longtime-staple-cnet-on-wikipedias-blacklisted-sources"
     ]
   ],
   [
@@ -137,16 +167,6 @@
     [
       "DUSt3R: Geometric 3D Vision Made Easy",
       "https://dust3r.europe.naverlabs.com/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 14:12:19",
-      "https://news.ycombinator.com/item?id=39580930"
-    ],
-    [
-      "The Achilles Trap: how the US fatally failed to read Saddam",
-      "https://www.theguardian.com/books/2024/mar/03/achilles-trap-steve-coll-review"
     ]
   ],
   [
@@ -231,21 +251,11 @@
   ],
   [
     [
-      "2024-03-03, 03:07:16",
-      "https://news.ycombinator.com/item?id=39578092"
-    ],
-    [
-      "Telegram for America (1956) [video]",
-      "https://archive.org/details/Telegram1956"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 17:49:26",
       "https://news.ycombinator.com/item?id=39574240"
     ],
     [
-      "Interlisp-D and MIT CADR Lispm Demos for IJCAI Conference 1981, from Xerox PARC",
+      "Interlisp-D and MIT CADR Lisp Machine demos for IJCAI Conference (1981)",
       "https://archive.org/details/xerox-parc_V-141_1"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Wintergatan Marble Machine (2016) [video]",
       "https://www.youtube.com/watch?v=IvUU8joBb1Q"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 07:31:09",
-      "https://news.ycombinator.com/item?id=39570692"
-    ],
-    [
-      "Ente: Open-Source, E2E Encrypted, Google Photos Alternative",
-      "https://ente.io/"
     ]
   ],
   [
