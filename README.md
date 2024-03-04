@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-04, 17:12:29](https://news.ycombinator.com/item?id=39592876) - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 * [2024-03-04, 17:05:46](https://news.ycombinator.com/item?id=39592771) - [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
 * [2024-03-04, 17:05:05](https://news.ycombinator.com/item?id=39592760) - [Walmart is migrating the remaining F# code into Java](https://careers.walmart.com//us/jobs/WD1786226-software-engineer-iii)
 * [2024-03-04, 17:00:14](https://news.ycombinator.com/item?id=39592704) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
@@ -27,7 +28,6 @@
 * [2024-03-03, 09:46:15](https://news.ycombinator.com/item?id=39579725) - [Intel Previews Sierra Forest with 288 E-Cores, Announces Granite Rapids-D](https://www.anandtech.com/show/21276/intel-previews-sierra-forest-with-288-e-cores-announces-granite-rapids-d-for-2025-launch-at-mwc-2024)
 * [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
 * [2024-03-03, 03:28:38](https://news.ycombinator.com/item?id=39578174) - [Cold Chemistry Is Different](https://physics.aps.org/articles/v17/37)
-* [2024-03-02, 22:01:48](https://news.ycombinator.com/item?id=39576156) - [Mathematical Journeys into Fictional Worlds (2021) [pdf]](https://www.gresham.ac.uk/sites/default/files/2021-02-09-1300-HART_FictionalWorlds-T.pdf)
 * [2024-03-02, 21:26:15](https://news.ycombinator.com/item?id=39575909) - [A broken vintage piano turned into an analog hybrid of 20 instruments](https://www.themusicman.uk/broken-vintage-piano/)
 * [2024-03-02, 19:52:40](https://news.ycombinator.com/item?id=39575264) - [A computational approach to emergence in complex multi-level systems](https://arxiv.org/abs/2402.09090)
 

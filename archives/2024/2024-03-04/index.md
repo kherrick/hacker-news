@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 17:12:29](https://news.ycombinator.com/item?id=39592876) - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 * [2024-03-04, 17:05:46](https://news.ycombinator.com/item?id=39592771) - [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
 * [2024-03-04, 17:05:05](https://news.ycombinator.com/item?id=39592760) - [Walmart is migrating the remaining F# code into Java](https://careers.walmart.com//us/jobs/WD1786226-software-engineer-iii)
 * [2024-03-04, 17:00:14](https://news.ycombinator.com/item?id=39592704) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
