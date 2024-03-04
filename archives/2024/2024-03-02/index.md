@@ -23,6 +23,7 @@
 * [2024-03-02, 20:55:46](https://news.ycombinator.com/item?id=39575671) - [Linux from Scratch v12.1 Released](https://www.linuxfromscratch.org/)
 * [2024-03-02, 20:31:15](https://news.ycombinator.com/item?id=39575498) - [We Can't Have Serious Discussions About Section 230 If People Misrepresent It](https://www.techdirt.com/2024/03/01/we-cant-have-serious-discussions-about-section-230-if-people-keep-misrepresenting-it/)
 * [2024-03-02, 20:13:12](https://news.ycombinator.com/item?id=39575395) - [Clang accepts MSVC arguments and targets Windows if its binary is named clang-cl](https://github.com/llvm/llvm-project/blob/8ec28af8eaff5acd0df3e53340159c034f08533d/clang/lib/Driver/Driver.cpp)
+* [2024-03-02, 20:06:18](https://news.ycombinator.com/item?id=39575356) - [Vibrating vests translate music for deaf concertgoers (2023)](https://techxplore.com/news/2023-07-vibrating-vests-music-deaf-concertgoers.html)
 * [2024-03-02, 20:06:18](https://news.ycombinator.com/item?id=39575356) - [Vibrating vest translates music for deaf](https://old.reddit.com/r/gadgets/comments/15b1d3z/vibrating_vests_translate_music_for_deaf/)
 * [2024-03-02, 20:01:38](https://news.ycombinator.com/item?id=39575326) - [Ask HN: Is it normal that Mistral answers he's GPT?](https://news.ycombinator.com/item?id=39575326)
 * [2024-03-02, 19:59:52](https://news.ycombinator.com/item?id=39575314) - [High Expectations: Observational Study of Programming and Cannabis Intoxication](https://arxiv.org/abs/2402.19194)
