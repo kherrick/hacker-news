@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=39594541"
     ],
     [
-      "Gtpdoor – A novel backdoor tailored for covert access over the roaming exchange",
+      "GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange",
       "https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR"
     ]
   ],
@@ -27,6 +27,26 @@
     [
       "Borrow checking without lifetimes",
       "https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 18:52:24",
+      "https://news.ycombinator.com/item?id=39594355"
+    ],
+    [
+      "There are only 12 binaries in Talos Linux",
+      "https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 18:46:46",
+      "https://news.ycombinator.com/item?id=39594275"
+    ],
+    [
+      "Le Grand K",
+      "https://www.atlasobscura.com/places/le-grand-k"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Yuzu emulator developers settle Nintendo lawsuit, pay $2.4M in damages",
       "https://twitter.com/oatmealdome/status/1764704580724576465"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 17:44:28",
+      "https://news.ycombinator.com/item?id=39593384"
+    ],
+    [
+      "Comparing Postgres Managed Services: AWS, Azure, GCP and Supabase",
+      "https://blog.peerdb.io/comparing-postgres-managed-services-aws-azure-gcp-and-supabase"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Skio (YC S20) – Subscriptions for Shopify, ReCharge migrations – Is Hiring",
       "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 16:58:51",
-      "https://news.ycombinator.com/item?id=39592689"
-    ],
-    [
-      "Nvidia bans using translation layers for CUDA software to run on other chips",
-      "https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-03-03, 05:55:37",
-      "https://news.ycombinator.com/item?id=39578796"
-    ],
-    [
-      "Velato: A programming language where source code must be a valid MIDI music file",
-      "http://www.velato.net/"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 19:29:06",
       "https://news.ycombinator.com/item?id=39575102"
     ],
     [
-      "Tal is the programming language for the Uxn virtual machine",
+      "Tal is the programming language for the Uxn virtual machine (2021)",
       "https://wiki.xxiivv.com/site/uxntal.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 17:37:14",
-      "https://news.ycombinator.com/item?id=39574137"
-    ],
-    [
-      "What the CEO wants you to know (2023)",
-      "https://commoncog.com/what-the-ceo-wants-you-to-know/"
     ]
   ]
 ]
