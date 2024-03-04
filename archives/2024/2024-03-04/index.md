@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [The Next Generation of Claude (Claude 3)](https://www.anthropic.com/news/claude-3-family)
 * [2024-03-04, 13:56:19](https://news.ycombinator.com/item?id=39590520) - [Artificial Intelligence AI worm infects users via AI-enabled email clients](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-worm-infects-users-via-ai-enabled-email-clients-morris-ii-generative-ai-worm-steals-confidential-data-as-it-spreads)
 * [2024-03-04, 13:30:46](https://news.ycombinator.com/item?id=39590227) - [FTC to Protect Data of 1.6B People Tracked by Now-Bankrupt Data Broker](https://www.techdirt.com/2024/03/04/wydens-office-gets-ftc-to-protect-the-data-of-1-6-billion-people-tracked-by-now-bankrupt-data-broker/)
 * [2024-03-04, 13:06:27](https://news.ycombinator.com/item?id=39589978) - [Lenovo ThinkPad X1 Carbon G12 laptop review: First major refresh in three years](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Carbon-G12-laptop-review-First-major-refresh-in-three-years.803321.0.html)
+* [2024-03-04, 12:30:25](https://news.ycombinator.com/item?id=39589626) - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
 * [2024-03-04, 12:27:22](https://news.ycombinator.com/item?id=39589595) - [Half of Organizations Spend More with Kubernetes, Mostly Due to Overprovisioning](https://www.infoq.com/news/2024/03/cncf-finops-kubernetes-overspend/)
 * [2024-03-04, 12:23:44](https://news.ycombinator.com/item?id=39589563) - [Sports gambling was a gateway drug](https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3)
 * [2024-03-04, 12:22:56](https://news.ycombinator.com/item?id=39589557) - [Hugging Face, the GitHub of AI, hosted code that backdoored user devices](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
@@ -32,6 +34,7 @@
 * [2024-03-04, 02:40:10](https://news.ycombinator.com/item?id=39586569) - [Nearly all of California's reservoir's are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
 * [2024-03-04, 02:37:25](https://news.ycombinator.com/item?id=39586554) - [Varda's drug-cooking Winnebago will be remembered as a space pioneer](https://arstechnica.com/space/2024/02/vardas-drug-cooking-winnebago-will-be-remembered-as-a-space-pioneer/)
 * [2024-03-04, 02:33:14](https://news.ycombinator.com/item?id=39586524) - [Move over, AI. Scientists announce a new 'organoid intelligence' field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
+* [2024-03-04, 02:31:55](https://news.ycombinator.com/item?id=39586513) - [Mental Models: 349 Models Explained to Carry Around in Your Head](https://junto.investments/mental-models/)
 * [2024-03-04, 02:30:59](https://news.ycombinator.com/item?id=39586508) - [US permanently deploys training mission in Taiwan](https://www.defensehere.com/en/us-permanently-deploys-training-mission-in-taiwan)
 * [2024-03-04, 02:29:05](https://news.ycombinator.com/item?id=39586495) - [Epic Games Hackers Say They Faked the Whole Thing](https://www.thegamer.com/epic-games-hack-faked-scam/)
 * [2024-03-04, 02:15:38](https://news.ycombinator.com/item?id=39586424) - [Nvidia CEO says \"coding is a dying profession\"](https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn)
