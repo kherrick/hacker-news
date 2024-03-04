@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 15:14:43](https://news.ycombinator.com/item?id=39591416) - [Red Sea cables have been damaged, disrupting internet traffic](https://www.cnn.com/2024/03/04/business/red-sea-cables-cut-internet/index.html)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [The Next Generation of Claude (Claude 3)](https://www.anthropic.com/news/claude-3-family)
 * [2024-03-04, 13:56:19](https://news.ycombinator.com/item?id=39590520) - [Artificial Intelligence AI worm infects users via AI-enabled email clients](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-worm-infects-users-via-ai-enabled-email-clients-morris-ii-generative-ai-worm-steals-confidential-data-as-it-spreads)
 * [2024-03-04, 13:53:47](https://news.ycombinator.com/item?id=39590489) - [Gleam Version 1](https://gleam.run/news/gleam-version-1/?q)

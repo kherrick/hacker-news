@@ -79,6 +79,7 @@
 * [2024-03-02, 10:10:02](https://news.ycombinator.com/item?id=39571470) - [The Power of the 0.1x Developer: Unsung Heroes of the Codebase](https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8)
 * [2024-03-02, 10:03:01](https://news.ycombinator.com/item?id=39571439) - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 * [2024-03-02, 09:55:02](https://news.ycombinator.com/item?id=39571412) - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
+* [2024-03-02, 09:52:53](https://news.ycombinator.com/item?id=39571406) - [Deploying Fiber in the Home](https://blog.daknob.net/fiber-in-the-home/)
 * [2024-03-02, 09:30:29](https://news.ycombinator.com/item?id=39571308) - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
 * [2024-03-02, 08:52:37](https://news.ycombinator.com/item?id=39571135) - [Bitwarden – Going Native](https://old.reddit.com/r/Bitwarden/comments/1b32bbz/going_native_the_future_of_the_bitwarden_mobile/)
 * [2024-03-02, 08:38:52](https://news.ycombinator.com/item?id=39571074) - [Show HN: ReverseETL – The open-source alternative to Hightouch and Census](https://github.com/Multiwoven/multiwoven)
