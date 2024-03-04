@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 17:20:34](https://news.ycombinator.com/item?id=39592993) - [The woman who coined the expression 'Surfing the Internet'](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
 * [2024-03-04, 17:12:29](https://news.ycombinator.com/item?id=39592876) - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 * [2024-03-04, 17:05:46](https://news.ycombinator.com/item?id=39592771) - [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
 * [2024-03-04, 17:05:05](https://news.ycombinator.com/item?id=39592760) - [Walmart is migrating the remaining F# code into Java](https://careers.walmart.com//us/jobs/WD1786226-software-engineer-iii)
