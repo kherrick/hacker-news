@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=39586951"
     ],
     [
-      "Bring Back Private Offices (Open Office Sucks)",
+      "Bring Back Private Offices",
       "https://albertcory50.substack.com/p/bring-back-private-offices"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=39586828"
     ],
     [
-      "Motion Blur All the Way Down",
+      "Motion blur all the way down (2022)",
       "https://www.osar.fr/notes/motionblur/"
     ]
   ],
@@ -35,18 +35,8 @@
       "https://news.ycombinator.com/item?id=39586524"
     ],
     [
-      "Move over, AI. Scientists announce a new 'organoid intelligence' field",
+      "Scientists announce a new 'organoid intelligence' field",
       "https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 02:15:38",
-      "https://news.ycombinator.com/item?id=39586424"
-    ],
-    [
-      "Nvidia CEO says \"coding is a dying profession\"",
-      "https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn"
     ]
   ],
   [
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2024-03-03, 22:04:42",
-      "https://news.ycombinator.com/item?id=39584967"
-    ],
-    [
-      "Commerce Department Proposes Imposing \"Know Your Customer\" on IaaS Providers",
-      "https://www.natlawreview.com/article/us-department-commerce-publishes-proposed-rule-imposing-know-your-customer-and"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 21:22:23",
       "https://news.ycombinator.com/item?id=39584654"
     ],
@@ -155,8 +135,18 @@
       "https://news.ycombinator.com/item?id=39584483"
     ],
     [
-      "How to Be a Good Listener",
+      "How to be a good listener",
       "https://tomblog.rip/the-myth-of-the-good-listener/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 20:55:00",
+      "https://news.ycombinator.com/item?id=39584454"
+    ],
+    [
+      "Short-term Hebbian learning can implement transformer-like attention",
+      "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011843"
     ]
   ],
   [
@@ -231,6 +221,26 @@
   ],
   [
     [
+      "2024-03-03, 16:12:54",
+      "https://news.ycombinator.com/item?id=39581768"
+    ],
+    [
+      "How dense is your city?",
+      "http://citydensity.com/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 15:59:43",
+      "https://news.ycombinator.com/item?id=39581664"
+    ],
+    [
+      "Bug in reader/writer locks in Windows API",
+      "https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 15:38:40",
       "https://news.ycombinator.com/item?id=39581498"
     ],
@@ -287,16 +297,6 @@
     [
       "Giant anaconda species in the Amazon of Ecuador is the largest to be documented",
       "https://www.usatoday.com/story/news/world/2024/03/02/photos-of-northern-green-anaconda-amazon/72806065007/"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 16:16:16",
-      "https://news.ycombinator.com/item?id=39573505"
-    ],
-    [
-      "Show HN: An algorithmic audio landscape",
-      "https://ambient.garden"
     ]
   ]
 ]
