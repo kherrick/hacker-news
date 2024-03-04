@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-03-04, 23:22:47",
+      "https://news.ycombinator.com/item?id=39597525"
+    ],
+    [
+      "Miles Davis and the Recording of a Jazz Masterpiece",
+      "https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 22:42:04",
       "https://news.ycombinator.com/item?id=39597131"
     ],
     [
-      "How I keep myself Alive using Golang",
+      "How I keep myself alive using Golang",
       "https://www.bytesizego.com/blog/keeping-alive-with-go"
     ]
   ],
@@ -21,42 +31,12 @@
   ],
   [
     [
-      "2024-03-04, 21:01:32",
-      "https://news.ycombinator.com/item?id=39596041"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 19:06:18",
       "https://news.ycombinator.com/item?id=39594541"
     ],
     [
       "GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange",
       "https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 18:52:53",
-      "https://news.ycombinator.com/item?id=39594362"
-    ],
-    [
-      "Borrow checking without lifetimes",
-      "https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 18:52:24",
-      "https://news.ycombinator.com/item?id=39594355"
-    ],
-    [
-      "There are only 12 binaries in Talos Linux",
-      "https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/"
     ]
   ],
   [
@@ -131,6 +111,16 @@
   ],
   [
     [
+      "2024-03-04, 17:00:14",
+      "https://news.ycombinator.com/item?id=39592704"
+    ],
+    [
+      "Skio (YC S20) – Subscriptions for Shopify, ReCharge migrations – Is Hiring",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 16:46:53",
       "https://news.ycombinator.com/item?id=39592499"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2024-03-04, 14:46:54",
+      "https://news.ycombinator.com/item?id=39591115"
+    ],
+    [
+      "What flying was like fifty years ago",
+      "https://airfactsjournal.com/2024/03/remembering-what-flying-was-like-fifty-years-ago/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 14:24:37",
       "https://news.ycombinator.com/item?id=39590852"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-03-04, 10:36:14",
-      "https://news.ycombinator.com/item?id=39588899"
-    ],
-    [
-      "What Is a Schur Decomposition? (2022)",
-      "https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 10:21:35",
       "https://news.ycombinator.com/item?id=39588830"
     ],
@@ -297,6 +287,16 @@
     [
       "Tal is the programming language for the Uxn virtual machine (2021)",
       "https://wiki.xxiivv.com/site/uxntal.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 09:52:53",
+      "https://news.ycombinator.com/item?id=39571406"
+    ],
+    [
+      "Deploying fiber in the home",
+      "https://blog.daknob.net/fiber-in-the-home/"
     ]
   ]
 ]
