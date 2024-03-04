@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-04, 22:56:47](https://news.ycombinator.com/item?id=39597286) - [Breakthrough in predicting chaotic outcomes in three body systems](https://phys.org/news/2024-02-breakthrough-chaotic-outcomes-body.html)
 * [2024-03-04, 22:42:04](https://news.ycombinator.com/item?id=39597131) - [How I keep myself Alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 21:01:32](https://news.ycombinator.com/item?id=39596041) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -28,6 +27,7 @@
 * [2024-03-04, 10:36:14](https://news.ycombinator.com/item?id=39588899) - [What Is a Schur Decomposition? (2022)](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
 * [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [Singapore Airlines Concorde](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
 * [2024-03-03, 11:38:06](https://news.ycombinator.com/item?id=39580219) - [World Server Throwing Championship](https://www.cloudfest.com/world-server-throwing-championship)
+* [2024-03-03, 08:44:04](https://news.ycombinator.com/item?id=39579465) - [What Is WebTV?](https://goblin-heart.net/sadgrl/shrines/webtv/)
 * [2024-03-02, 20:06:18](https://news.ycombinator.com/item?id=39575356) - [Vibrating vests translate music for deaf concertgoers (2023)](https://techxplore.com/news/2023-07-vibrating-vests-music-deaf-concertgoers.html)
 * [2024-03-02, 19:29:06](https://news.ycombinator.com/item?id=39575102) - [Tal is the programming language for the Uxn virtual machine (2021)](https://wiki.xxiivv.com/site/uxntal.html)
 

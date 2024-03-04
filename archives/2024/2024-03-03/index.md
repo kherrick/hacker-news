@@ -93,6 +93,7 @@
 * [2024-03-03, 09:46:15](https://news.ycombinator.com/item?id=39579725) - [Intel Previews Sierra Forest with 288 E-Cores, Announces Granite Rapids-D](https://www.anandtech.com/show/21276/intel-previews-sierra-forest-with-288-e-cores-announces-granite-rapids-d-for-2025-launch-at-mwc-2024)
 * [2024-03-03, 09:44:51](https://news.ycombinator.com/item?id=39579721) - [Advanced Functional Programming Free Course](http://www.cs.nott.ac.uk/~pszgmh/afp.html)
 * [2024-03-03, 08:50:17](https://news.ycombinator.com/item?id=39579487) - [Testing AI and LLM on Rockchip RK3588 Using Mixtile Blade 3 SBC with 32GB RAM](https://taoofmac.com/space/links/2024/03/01/0116)
+* [2024-03-03, 08:44:04](https://news.ycombinator.com/item?id=39579465) - [What Is WebTV?](https://goblin-heart.net/sadgrl/shrines/webtv/)
 * [2024-03-03, 08:38:48](https://news.ycombinator.com/item?id=39579447) - [David Holladay, blindness technology pioneer, dies at age 70](https://www.braillists.org/uncategorised/a-message-from-duxbury-systems-in-loving-memory-of-our-dear-friend-and-colleague/)
 * [2024-03-03, 08:38:08](https://news.ycombinator.com/item?id=39579446) - [Laurie Anderson on making AI chatbot of Lou Reed: 100%, sadly addicted](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
 * [2024-03-03, 07:33:30](https://news.ycombinator.com/item?id=39579197) - [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
