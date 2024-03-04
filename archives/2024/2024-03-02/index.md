@@ -40,6 +40,7 @@
 * [2024-03-02, 18:06:25](https://news.ycombinator.com/item?id=39574397) - [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
 * [2024-03-02, 17:58:31](https://news.ycombinator.com/item?id=39574330) - [Japan sees rise of 'ramen girls'](https://asia.nikkei.com/Life-Arts/Life/Japan-sees-rise-of-ramen-girls)
 * [2024-03-02, 17:49:26](https://news.ycombinator.com/item?id=39574240) - [Interlisp-D and MIT CADR Lispm Demos for IJCAI Conference 1981, from Xerox PARC](https://archive.org/details/xerox-parc_V-141_1)
+* [2024-03-02, 17:37:14](https://news.ycombinator.com/item?id=39574137) - [What the CEO Wants You to Know (2023)](https://commoncog.com/what-the-ceo-wants-you-to-know/)
 * [2024-03-02, 17:25:56](https://news.ycombinator.com/item?id=39574055) - [Show HN: DanGPT–Dan Abramov as a GenAI with RAG](https://dangpt.vercel.app/)
 * [2024-03-02, 17:25:47](https://news.ycombinator.com/item?id=39574051) - [The perils of pause(2) (2023)](https://www.cipht.net/2023/11/30/perils-of-pause.html)
 * [2024-03-02, 16:55:39](https://news.ycombinator.com/item?id=39573805) - [Lawyers who voided Elon Musk's pay as excessive want $6B fee](https://ca.news.yahoo.com/legal-team-voided-musks-tesla-230039948.html)

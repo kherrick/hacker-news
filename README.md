@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-04, 18:00:26](https://news.ycombinator.com/item?id=39593647) - [Yuzu emulator developers settle Nintendo lawsuit, pay $2.4M in damages](https://twitter.com/oatmealdome/status/1764704580724576465)
+* [2024-03-04, 17:44:28](https://news.ycombinator.com/item?id=39593384) - [Comparing Postgres Managed Services: AWS, Azure, GCP and Supabase](https://blog.peerdb.io/comparing-postgres-managed-services-aws-azure-gcp-and-supabase)
 * [2024-03-04, 17:36:42](https://news.ycombinator.com/item?id=39593256) - [Opus 1.5 Released: Opus Gets a Serious Machine Learning Upgrade](https://opus-codec.org/demo/opus-1.5/)
 * [2024-03-04, 17:30:04](https://news.ycombinator.com/item?id=39593159) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
 * [2024-03-04, 17:20:34](https://news.ycombinator.com/item?id=39592993) - [The woman who coined the expression 'Surfing the Internet'](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
@@ -23,13 +23,13 @@
 * [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform (2012)](https://ieeexplore.ieee.org/abstract/document/6319640)
 * [2024-03-04, 10:36:14](https://news.ycombinator.com/item?id=39588899) - [What Is a Schur Decomposition? (2022)](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
 * [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [Singapore Airlines Concorde](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
-* [2024-03-04, 07:35:28](https://news.ycombinator.com/item?id=39587947) - [Twenty years is nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 * [2024-03-04, 05:40:07](https://news.ycombinator.com/item?id=39587344) - [French court issues damages award for violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 03:43:20](https://news.ycombinator.com/item?id=39586828) - [Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
 * [2024-03-03, 09:46:15](https://news.ycombinator.com/item?id=39579725) - [Intel Previews Sierra Forest with 288 E-Cores, Announces Granite Rapids-D](https://www.anandtech.com/show/21276/intel-previews-sierra-forest-with-288-e-cores-announces-granite-rapids-d-for-2025-launch-at-mwc-2024)
 * [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
 * [2024-03-02, 21:26:15](https://news.ycombinator.com/item?id=39575909) - [A broken vintage piano turned into an analog hybrid of 20 instruments](https://www.themusicman.uk/broken-vintage-piano/)
 * [2024-03-02, 19:52:40](https://news.ycombinator.com/item?id=39575264) - [A computational approach to emergence in complex multi-level systems](https://arxiv.org/abs/2402.09090)
+* [2024-03-02, 17:37:14](https://news.ycombinator.com/item?id=39574137) - [What the CEO Wants You to Know (2023)](https://commoncog.com/what-the-ceo-wants-you-to-know/)
 
 ## [Archives](archives/index.md)
 
