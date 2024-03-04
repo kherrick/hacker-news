@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 07:35:28](https://news.ycombinator.com/item?id=39587947) - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
+* [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
 * [2024-03-04, 06:21:55](https://news.ycombinator.com/item?id=39587550) - [Film Companies Seek 'Torrenting History' Related to Redditor](https://torrentfreak.com/film-companies-seek-torrenting-history-related-to-redditor-240220/)
 * [2024-03-04, 05:40:07](https://news.ycombinator.com/item?id=39587344) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 05:28:34](https://news.ycombinator.com/item?id=39587304) - [PG&E claims no connection between rate increases and $2.2B jump in earnings](https://abc7news.com/pge-rate-increase-2023-earning-2-billion-dollar-profit/14483425/)
