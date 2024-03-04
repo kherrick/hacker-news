@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-04, 19:25:05",
-      "https://news.ycombinator.com/item?id=39594795"
+      "2024-03-04, 19:17:17",
+      "https://news.ycombinator.com/item?id=39594687"
     ],
     [
-      "Yuzu (Nintendo Switch emulator) is dead",
-      "https://files.catbox.moe/q50hp9.png"
+      "Sigmoid Loss for Language Image Pre-Training",
+      "https://arxiv.org/abs/2303.15343"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 19:06:18",
+      "https://news.ycombinator.com/item?id=39594541"
+    ],
+    [
+      "Gtpdoor – A novel backdoor tailored for covert access over the roaming exchange",
+      "https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Borrow checking without lifetimes",
       "https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 18:38:45",
+      "https://news.ycombinator.com/item?id=39594164"
+    ],
+    [
+      "Git Worktrees and GitButler",
+      "https://blog.gitbutler.com/git-worktrees/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Skio (YC S20) – Subscriptions for Shopify, ReCharge migrations – Is Hiring",
       "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 17:00:12",
-      "https://news.ycombinator.com/item?id=39592702"
-    ],
-    [
-      "What we learned from C++ atomics and memory model standardization [video]",
-      "https://www.youtube.com/watch?v=Ss7gIs2-hzk"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Velato: A programming language where source code must be a valid MIDI music file",
       "http://www.velato.net/"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 21:26:15",
-      "https://news.ycombinator.com/item?id=39575909"
-    ],
-    [
-      "A broken vintage piano turned into an analog hybrid of 20 instruments",
-      "https://www.themusicman.uk/broken-vintage-piano/"
     ]
   ],
   [
