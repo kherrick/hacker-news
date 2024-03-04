@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-03-04, 19:19:24",
+      "https://news.ycombinator.com/item?id=39594721"
+    ],
+    [
+      "Apple is right not to rush headlong into generative AI",
+      "https://www.economist.com/business/2024/03/03/apple-is-right-not-to-rush-headlong-into-generative-ai"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 18:52:53",
       "https://news.ycombinator.com/item?id=39594362"
     ],
     [
-      "Borrow Checking Without Lifetimes",
+      "Borrow checking without lifetimes",
       "https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/"
     ]
   ],
   [
     [
-      "2024-03-04, 17:44:28",
-      "https://news.ycombinator.com/item?id=39593384"
+      "2024-03-04, 18:00:26",
+      "https://news.ycombinator.com/item?id=39593647"
     ],
     [
-      "Comparing Postgres Managed Services: AWS, Azure, GCP and Supabase",
-      "https://blog.peerdb.io/comparing-postgres-managed-services-aws-azure-gcp-and-supabase"
+      "Yuzu emulator developers settle Nintendo lawsuit, pay $2.4M in damages",
+      "https://twitter.com/oatmealdome/status/1764704580724576465"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-03-04, 16:58:26",
-      "https://news.ycombinator.com/item?id=39592679"
-    ],
-    [
-      "Ts_zip: Text Compression Using Large Language Models",
-      "https://bellard.org/ts_zip/"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 16:46:53",
       "https://news.ycombinator.com/item?id=39592499"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=39591772"
     ],
     [
-      "Why It's So Challenging to Land Upright on the Moon",
+      "Why it's so challenging to land upright on the moon",
       "https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html"
     ]
   ],
@@ -167,16 +167,6 @@
     [
       "Show HN: Astro App",
       "https://astro.sshh.io/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 14:24:37",
-      "https://news.ycombinator.com/item?id=39590852"
-    ],
-    [
-      "New Signal Usernames Help Stymie Subpoenas, Data Privacy",
-      "https://theintercept.com/2024/03/04/signal-app-username-phone-number-privacy/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "A broken vintage piano turned into an analog hybrid of 20 instruments",
       "https://www.themusicman.uk/broken-vintage-piano/"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 19:52:40",
+      "https://news.ycombinator.com/item?id=39575264"
+    ],
+    [
+      "A computational approach to emergence in complex multi-level systems",
+      "https://arxiv.org/abs/2402.09090"
     ]
   ],
   [
