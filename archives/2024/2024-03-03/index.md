@@ -6,6 +6,7 @@
 
 * [2024-03-03, 23:54:56](https://news.ycombinator.com/item?id=39585648) - [Reclaim your focus with ~12 lines of bash](https://www.autodidacts.io/coldturkey-selfcontrol-freedom-leechblock-alternative-in-bash/)
 * [2024-03-03, 23:34:05](https://news.ycombinator.com/item?id=39585527) - [A woman named \"Steve\" – IT pioneer, entrepreneur, philanthropist (2019)](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
+* [2024-03-03, 23:17:17](https://news.ycombinator.com/item?id=39585431) - [Surrealism Is 100. The World's Still Surreal](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
 * [2024-03-03, 23:16:53](https://news.ycombinator.com/item?id=39585427) - [Bugs I've Filed on Browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
 * [2024-03-03, 22:48:59](https://news.ycombinator.com/item?id=39585265) - [California rains resurrect a long-dead lake in dry Death Valley](https://www.washingtonpost.com/nation/2024/03/01/death-valley-lake-california-rain/)
 * [2024-03-03, 22:40:51](https://news.ycombinator.com/item?id=39585209) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
