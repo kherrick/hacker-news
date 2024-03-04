@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 18:52:53](https://news.ycombinator.com/item?id=39594362) - [Borrow Checking Without Lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
 * [2024-03-04, 18:05:41](https://news.ycombinator.com/item?id=39593722) - [Global Warming Is Accelerating](https://twitter.com/tomaspueyo/status/1764677338506088941)
 * [2024-03-04, 18:00:26](https://news.ycombinator.com/item?id=39593647) - [Yuzu emulator developers settle Nintendo lawsuit, pay $2.4M in damages](https://twitter.com/oatmealdome/status/1764704580724576465)
 * [2024-03-04, 17:44:28](https://news.ycombinator.com/item?id=39593384) - [Comparing Postgres Managed Services: AWS, Azure, GCP and Supabase](https://blog.peerdb.io/comparing-postgres-managed-services-aws-azure-gcp-and-supabase)
 * [2024-03-04, 17:36:42](https://news.ycombinator.com/item?id=39593256) - [Opus 1.5 Released: Opus Gets a Serious Machine Learning Upgrade](https://opus-codec.org/demo/opus-1.5/)
 * [2024-03-04, 17:30:04](https://news.ycombinator.com/item?id=39593159) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
+* [2024-03-04, 17:21:42](https://news.ycombinator.com/item?id=39593008) - [Show HN: Workflow Orchestrator in Golang](https://github.com/harshadmanglani/polaris)
 * [2024-03-04, 17:20:34](https://news.ycombinator.com/item?id=39592993) - [The woman who coined the expression 'Surfing the Internet'](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
 * [2024-03-04, 17:12:29](https://news.ycombinator.com/item?id=39592876) - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 * [2024-03-04, 17:05:46](https://news.ycombinator.com/item?id=39592771) - [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
