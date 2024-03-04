@@ -2,6 +2,7 @@
 
 * [2024-03-04, 21:01:32](https://news.ycombinator.com/item?id=39596041) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-03-04, 20:48:09](https://news.ycombinator.com/item?id=39595839) - [3DS Emulator Citra is closing up shop and removing all their sites/code](https://twitter.com/citraemu/status/1764747696538046766)
+* [2024-03-04, 19:17:17](https://news.ycombinator.com/item?id=39594687) - [Sigmoid Loss for Language Image Pre-Training (2023)](https://arxiv.org/abs/2303.15343)
 * [2024-03-04, 19:06:18](https://news.ycombinator.com/item?id=39594541) - [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
 * [2024-03-04, 18:52:53](https://news.ycombinator.com/item?id=39594362) - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
 * [2024-03-04, 18:52:24](https://news.ycombinator.com/item?id=39594355) - [There are only 12 binaries in Talos Linux](https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/)
@@ -19,7 +20,6 @@
 * [2024-03-04, 15:46:03](https://news.ycombinator.com/item?id=39591772) - [Why it's so challenging to land upright on the moon](https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html)
 * [2024-03-04, 15:38:22](https://news.ycombinator.com/item?id=39591694) - [Rust for Embedded Systems: Current state, challenges and open problems](https://arxiv.org/abs/2311.05063)
 * [2024-03-04, 15:24:35](https://news.ycombinator.com/item?id=39591529) - [Show HN: Astro App](https://astro.sshh.io/)
-* [2024-03-04, 14:46:54](https://news.ycombinator.com/item?id=39591115) - [What flying was like fifty years ago](https://airfactsjournal.com/2024/03/remembering-what-flying-was-like-fifty-years-ago/)
 * [2024-03-04, 14:24:37](https://news.ycombinator.com/item?id=39590852) - [Ephemeral usernames safeguard privacy and make Signal harder to subpoena](https://theintercept.com/2024/03/04/signal-app-username-phone-number-privacy/)
 * [2024-03-04, 14:09:46](https://news.ycombinator.com/item?id=39590683) - [Revy – proof-of-concept time-travel debugger for the Bevy game engine](https://github.com/rerun-io/revy)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
