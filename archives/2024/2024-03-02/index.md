@@ -31,6 +31,7 @@
 * [2024-03-02, 19:31:58](https://news.ycombinator.com/item?id=39575122) - [Git: Programmatic Staging](https://choly.ca/post/git-programmatic-staging/)
 * [2024-03-02, 19:12:30](https://news.ycombinator.com/item?id=39575005) - [CO2 emissions reached record high in 2023 – IEA](https://www.dw.com/en/co2-emissions-reached-record-high-in-2023-iea/a-68413363)
 * [2024-03-02, 18:53:50](https://news.ycombinator.com/item?id=39574878) - [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
+* [2024-03-02, 18:53:06](https://news.ycombinator.com/item?id=39574864) - [Wonnx real-time webcam image classication using WebGPU](https://dl.pixelspark.nl/wonnx/)
 * [2024-03-02, 18:10:39](https://news.ycombinator.com/item?id=39574436) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
 * [2024-03-02, 18:06:25](https://news.ycombinator.com/item?id=39574397) - [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
 * [2024-03-02, 17:58:31](https://news.ycombinator.com/item?id=39574330) - [Japan sees rise of 'ramen girls'](https://asia.nikkei.com/Life-Arts/Life/Japan-sees-rise-of-ramen-girls)

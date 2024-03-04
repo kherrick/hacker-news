@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 05:40:07](https://news.ycombinator.com/item?id=39587344) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 05:28:34](https://news.ycombinator.com/item?id=39587304) - [PG&E claims no connection between rate increases and $2.2B jump in earnings](https://abc7news.com/pge-rate-increase-2023-earning-2-billion-dollar-profit/14483425/)
 * [2024-03-04, 04:13:35](https://news.ycombinator.com/item?id=39586951) - [Bring Back Private Offices (Open Office Sucks)](https://albertcory50.substack.com/p/bring-back-private-offices)
 * [2024-03-04, 03:43:20](https://news.ycombinator.com/item?id=39586828) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 03:31:36](https://news.ycombinator.com/item?id=39586777) - [\"Noah\": Naturally Occurring Affordable Housing](https://www.granolashotgun.com/granolashotguncom/madison-iii)
 * [2024-03-04, 02:58:34](https://news.ycombinator.com/item?id=39586644) - [Smashmallow, Silicon Valley's Failed Marshmallow Startup](https://www.businessinsider.com/smashmallow-lawsuit-marshmallow-failure-silicon-valley-business-growth-2024-1)
+* [2024-03-04, 02:40:10](https://news.ycombinator.com/item?id=39586569) - [Nearly all of California's reservoir's are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
 * [2024-03-04, 02:37:25](https://news.ycombinator.com/item?id=39586554) - [Varda's drug-cooking Winnebago will be remembered as a space pioneer](https://arstechnica.com/space/2024/02/vardas-drug-cooking-winnebago-will-be-remembered-as-a-space-pioneer/)
 * [2024-03-04, 02:33:14](https://news.ycombinator.com/item?id=39586524) - [Move over, AI. Scientists announce a new 'organoid intelligence' field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
 * [2024-03-04, 02:30:59](https://news.ycombinator.com/item?id=39586508) - [US permanently deploys training mission in Taiwan](https://www.defensehere.com/en/us-permanently-deploys-training-mission-in-taiwan)
