@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform](https://ieeexplore.ieee.org/abstract/document/6319640)
+* [2024-03-04, 10:36:14](https://news.ycombinator.com/item?id=39588899) - [What Is a Schur Decomposition?](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
+* [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [The Singapore Airlines Concorde: The full story](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
+* [2024-03-04, 10:00:42](https://news.ycombinator.com/item?id=39588708) - [Mercury – Compiler optimized, private Firefox fork](https://thorium.rocks/mercury)
 * [2024-03-04, 07:35:28](https://news.ycombinator.com/item?id=39587947) - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 * [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
 * [2024-03-04, 06:21:55](https://news.ycombinator.com/item?id=39587550) - [Film Companies Seek 'Torrenting History' Related to Redditor](https://torrentfreak.com/film-companies-seek-torrenting-history-related-to-redditor-240220/)
+* [2024-03-04, 05:49:20](https://news.ycombinator.com/item?id=39587379) - [Corvette that Windows zip folders bought](https://twitter.com/davepl1968/status/1764459921616359478)
 * [2024-03-04, 05:40:07](https://news.ycombinator.com/item?id=39587344) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 05:28:34](https://news.ycombinator.com/item?id=39587304) - [PG&E claims no connection between rate increases and $2.2B jump in earnings](https://abc7news.com/pge-rate-increase-2023-earning-2-billion-dollar-profit/14483425/)
 * [2024-03-04, 04:13:35](https://news.ycombinator.com/item?id=39586951) - [Bring Back Private Offices (Open Office Sucks)](https://albertcory50.substack.com/p/bring-back-private-offices)
@@ -22,3 +27,4 @@
 * [2024-03-04, 01:39:48](https://news.ycombinator.com/item?id=39586238) - [Sergey Brin on Gemini 1.5 Pro (03/02/2024) [video]](https://www.youtube.com/watch?v=BQ8ykNyZ6LY)
 * [2024-03-04, 01:07:03](https://news.ycombinator.com/item?id=39586055) - [How the Valley treats its experienced people (2018)](https://rachelbythebay.com/w/2018/12/29/age/)
 * [2024-03-04, 01:01:14](https://news.ycombinator.com/item?id=39586030) - [SuperKalam (YC W23) Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
+* [2024-03-04, 00:19:15](https://news.ycombinator.com/item?id=39585796) - [Show HN: Free comments section for personal sites](https://blog.bhread.com/posts/comment_embeds/)
