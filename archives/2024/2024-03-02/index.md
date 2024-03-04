@@ -41,6 +41,7 @@
 * [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 * [2024-03-02, 16:47:52](https://news.ycombinator.com/item?id=39573744) - [Oregon undoes groundbreaking drug decriminalization law](https://www.theguardian.com/us-news/2024/mar/02/oregon-overturn-drug-decriminalize-law)
 * [2024-03-02, 16:41:46](https://news.ycombinator.com/item?id=39573691) - [Badssl.com](https://badssl.com/)
+* [2024-03-02, 16:35:08](https://news.ycombinator.com/item?id=39573636) - [Giant anaconda species in the Amazon of Ecuador is the largest to be documented](https://www.usatoday.com/story/news/world/2024/03/02/photos-of-northern-green-anaconda-amazon/72806065007/)
 * [2024-03-02, 16:16:16](https://news.ycombinator.com/item?id=39573505) - [Show HN: An Algorithmic Audio Landscape](https://ambient.garden)
 * [2024-03-02, 16:02:14](https://news.ycombinator.com/item?id=39573392) - [CDC ditches 5-day Covid isolation, argues Covid is becoming flu-like](https://arstechnica.com/science/2024/03/cdc-ditches-5-day-covid-isolation-argues-covid-is-becoming-flu-like/)
 * [2024-03-02, 16:00:38](https://news.ycombinator.com/item?id=39573389) - [Open Beam Interface](https://github.com/nanographs/Open-Beam-Interface)

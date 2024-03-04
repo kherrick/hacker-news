@@ -19,6 +19,7 @@
 * [2024-03-03, 21:09:28](https://news.ycombinator.com/item?id=39584566) - [French Artists in 1899 Envisioned What Life Would Look Like in the Year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 * [2024-03-03, 21:03:48](https://news.ycombinator.com/item?id=39584532) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
 * [2024-03-03, 21:00:51](https://news.ycombinator.com/item?id=39584504) - [Sigma 15mm F/1.4 DG DN Art Review: Wide, Weird, and Wonderful](https://petapixel.com/2024/02/27/sigma-15mm-f-1-4-dg-dn-art-review-wide-weird-and-wonderful/)
+* [2024-03-03, 20:58:17](https://news.ycombinator.com/item?id=39584483) - [How to Be a Good Listener](https://tomblog.rip/the-myth-of-the-good-listener/)
 * [2024-03-03, 20:55:00](https://news.ycombinator.com/item?id=39584454) - [Short-term Hebbian learning can implement transformer-like attention](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011843)
 * [2024-03-03, 20:25:55](https://news.ycombinator.com/item?id=39584201) - [Sampling: What Nyquist Didn't Say, and What to Do About It [pdf]](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
 * [2024-03-03, 20:24:14](https://news.ycombinator.com/item?id=39584185) - [Show HN: Pipedream now has 1800 integrated APIs](https://pipedream.com/explore)
