@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-04, 18:00:26",
-      "https://news.ycombinator.com/item?id=39593647"
-    ],
-    [
-      "Yuzu emulator developers settle Nintendo lawsuit, pay $2.4M in damages",
-      "https://twitter.com/oatmealdome/status/1764704580724576465"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 17:44:28",
       "https://news.ycombinator.com/item?id=39593384"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=39593256"
     ],
     [
-      "Opus 1.5 Released: Opus Gets a Serious Machine Learning Upgrade",
+      "Opus 1.5 released: Opus gets a machine learning upgrade",
       "https://opus-codec.org/demo/opus-1.5/"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39593008"
     ],
     [
-      "Show HN: Workflow Orchestrator in Golang",
+      "Show HN: Workflow orchestrator in Golang",
       "https://github.com/harshadmanglani/polaris"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39592704"
     ],
     [
-      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
+      "Skio (YC S20) – Subscriptions for Shopify, ReCharge migrations – Is Hiring",
       "https://skio.com/careers/"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39592702"
     ],
     [
-      "What we learned from C++ atomics and memory model standardization – Hans-J Boehm [video]",
+      "What we learned from C++ atomics and memory model standardization [video]",
       "https://www.youtube.com/watch?v=Ss7gIs2-hzk"
     ]
   ],
@@ -101,6 +91,26 @@
   ],
   [
     [
+      "2024-03-04, 16:58:26",
+      "https://news.ycombinator.com/item?id=39592679"
+    ],
+    [
+      "Ts_zip: Text Compression Using Large Language Models",
+      "https://bellard.org/ts_zip/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 16:46:53",
+      "https://news.ycombinator.com/item?id=39592499"
+    ],
+    [
+      "U.S. Air Force Evaluating Pivotal's Blackfly Ultralight EVTOL Aircraft",
+      "https://www.futureflight.aero/news-article/2024-02-27/us-air-force-evaluating-pivotals-blackfly-ultralight-evtol-aircraft"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 16:42:14",
       "https://news.ycombinator.com/item?id=39592444"
     ],
@@ -111,21 +121,11 @@
   ],
   [
     [
-      "2024-03-04, 16:36:31",
-      "https://news.ycombinator.com/item?id=39592367"
-    ],
-    [
-      "Effect of gut microbiome modulation on muscle function and cognition",
-      "https://www.nature.com/articles/s41467-024-46116-y"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 16:30:55",
       "https://news.ycombinator.com/item?id=39592288"
     ],
     [
-      "MacPad: I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won't Make",
+      "MacPad: I created the hybrid Mac-iPad laptop and tablet that Apple won't make",
       "https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/"
     ]
   ],
@@ -137,6 +137,16 @@
     [
       "Launch HN: Just words (YC W24) – Optimize your product's copy for user growth",
       "https://news.ycombinator.com/item?id=39591972"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 15:46:03",
+      "https://news.ycombinator.com/item?id=39591772"
+    ],
+    [
+      "Why It's So Challenging to Land Upright on the Moon",
+      "https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html"
     ]
   ],
   [
@@ -157,6 +167,16 @@
     [
       "Show HN: Astro App",
       "https://astro.sshh.io/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 14:24:37",
+      "https://news.ycombinator.com/item?id=39590852"
+    ],
+    [
+      "New Signal Usernames Help Stymie Subpoenas, Data Privacy",
+      "https://theintercept.com/2024/03/04/signal-app-username-phone-number-privacy/"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "A mathematician who finds poetry in math and math in poetry",
       "https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 10:49:36",
-      "https://news.ycombinator.com/item?id=39588977"
-    ],
-    [
-      "A windowed graph Fourier transform (2012)",
-      "https://ieeexplore.ieee.org/abstract/document/6319640"
     ]
   ],
   [
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2024-03-02, 19:52:40",
-      "https://news.ycombinator.com/item?id=39575264"
-    ],
-    [
-      "A computational approach to emergence in complex multi-level systems",
-      "https://arxiv.org/abs/2402.09090"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 17:37:14",
       "https://news.ycombinator.com/item?id=39574137"
     ],
     [
-      "What the CEO Wants You to Know (2023)",
+      "What the CEO wants you to know (2023)",
       "https://commoncog.com/what-the-ceo-wants-you-to-know/"
     ]
   ]
