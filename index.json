@@ -11,12 +11,42 @@
   ],
   [
     [
+      "2024-03-04, 17:05:05",
+      "https://news.ycombinator.com/item?id=39592760"
+    ],
+    [
+      "Walmart is migrating the remaining F# code into Java",
+      "https://careers.walmart.com//us/jobs/WD1786226-software-engineer-iii"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 17:00:14",
       "https://news.ycombinator.com/item?id=39592704"
     ],
     [
       "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
       "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 17:00:12",
+      "https://news.ycombinator.com/item?id=39592702"
+    ],
+    [
+      "What we learned from C++ atomics and memory model standardization – Hans-J Boehm [video]",
+      "https://www.youtube.com/watch?v=Ss7gIs2-hzk"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 16:58:51",
+      "https://news.ycombinator.com/item?id=39592689"
+    ],
+    [
+      "Nvidia bans using translation layers for CUDA software to run on other chips",
+      "https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Launch HN: Just words (YC W24) – Optimize your product's copy for user growth",
       "https://news.ycombinator.com/item?id=39591972"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 15:57:40",
-      "https://news.ycombinator.com/item?id=39591910"
-    ],
-    [
-      "Do literally anything",
-      "https://aaronfrancis.com/2024/do-literally-anything"
     ]
   ],
   [
@@ -211,32 +231,22 @@
   ],
   [
     [
-      "2024-03-04, 02:42:56",
-      "https://news.ycombinator.com/item?id=39586583"
-    ],
-    [
-      "The Fundamentals of C/C++ Game Programming (2017)",
-      "https://www.taylorfrancis.com/books/mono/10.1201/9781315156361/fundamentals-game-programming-brian-beuken"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 23:34:05",
-      "https://news.ycombinator.com/item?id=39585527"
-    ],
-    [
-      "A woman named \"Steve\" – IT pioneer, entrepreneur, philanthropist (2019)",
-      "https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 21:22:23",
       "https://news.ycombinator.com/item?id=39584654"
     ],
     [
       "CSS for printing to paper",
       "https://voussoir.net/writing/css_for_printing"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 09:46:15",
+      "https://news.ycombinator.com/item?id=39579725"
+    ],
+    [
+      "Intel Previews Sierra Forest with 288 E-Cores, Announces Granite Rapids-D",
+      "https://www.anandtech.com/show/21276/intel-previews-sierra-forest-with-288-e-cores-announces-granite-rapids-d-for-2025-launch-at-mwc-2024"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A computational approach to emergence in complex multi-level systems",
       "https://arxiv.org/abs/2402.09090"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 09:52:53",
-      "https://news.ycombinator.com/item?id=39571406"
-    ],
-    [
-      "Deploying fiber in the home",
-      "https://blog.daknob.net/fiber-in-the-home/"
     ]
   ]
 ]
