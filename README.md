@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 21:01:32](https://news.ycombinator.com/item?id=39596041) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2024-03-04, 20:48:09](https://news.ycombinator.com/item?id=39595839) - [3DS Emulator Citra is closing up shop and removing all their sites/code](https://twitter.com/citraemu/status/1764747696538046766)
+* [2024-03-04, 19:17:17](https://news.ycombinator.com/item?id=39594687) - [Sigmoid Loss for Language Image Pre-Training (2023)](https://arxiv.org/abs/2303.15343)
 * [2024-03-04, 19:06:18](https://news.ycombinator.com/item?id=39594541) - [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
 * [2024-03-04, 18:52:53](https://news.ycombinator.com/item?id=39594362) - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
 * [2024-03-04, 18:52:24](https://news.ycombinator.com/item?id=39594355) - [There are only 12 binaries in Talos Linux](https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/)
@@ -29,7 +30,6 @@
 * [2024-03-03, 11:38:06](https://news.ycombinator.com/item?id=39580219) - [World Server Throwing Championship](https://www.cloudfest.com/world-server-throwing-championship)
 * [2024-03-02, 20:06:18](https://news.ycombinator.com/item?id=39575356) - [Vibrating vests translate music for deaf concertgoers (2023)](https://techxplore.com/news/2023-07-vibrating-vests-music-deaf-concertgoers.html)
 * [2024-03-02, 19:29:06](https://news.ycombinator.com/item?id=39575102) - [Tal is the programming language for the Uxn virtual machine (2021)](https://wiki.xxiivv.com/site/uxntal.html)
-* [2024-03-02, 09:52:23](https://news.ycombinator.com/item?id=39571401) - [Nicole Oresme](https://en.wikipedia.org/wiki/Nicole_Oresme)
 
 ## [Archives](archives/index.md)
 
