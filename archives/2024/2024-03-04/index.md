@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 13:56:19](https://news.ycombinator.com/item?id=39590520) - [Artificial Intelligence AI worm infects users via AI-enabled email clients](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-worm-infects-users-via-ai-enabled-email-clients-morris-ii-generative-ai-worm-steals-confidential-data-as-it-spreads)
+* [2024-03-04, 13:30:46](https://news.ycombinator.com/item?id=39590227) - [FTC to Protect Data of 1.6B People Tracked by Now-Bankrupt Data Broker](https://www.techdirt.com/2024/03/04/wydens-office-gets-ftc-to-protect-the-data-of-1-6-billion-people-tracked-by-now-bankrupt-data-broker/)
 * [2024-03-04, 13:06:27](https://news.ycombinator.com/item?id=39589978) - [Lenovo ThinkPad X1 Carbon G12 laptop review: First major refresh in three years](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Carbon-G12-laptop-review-First-major-refresh-in-three-years.803321.0.html)
+* [2024-03-04, 12:27:22](https://news.ycombinator.com/item?id=39589595) - [Half of Organizations Spend More with Kubernetes, Mostly Due to Overprovisioning](https://www.infoq.com/news/2024/03/cncf-finops-kubernetes-overspend/)
 * [2024-03-04, 12:23:44](https://news.ycombinator.com/item?id=39589563) - [Sports gambling was a gateway drug](https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3)
 * [2024-03-04, 12:22:56](https://news.ycombinator.com/item?id=39589557) - [Hugging Face, the GitHub of AI, hosted code that backdoored user devices](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
 * [2024-03-04, 12:11:28](https://news.ycombinator.com/item?id=39589483) - [Apple hit with over 1.8B euro EU antitrust fine in Spotify case](https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/)
