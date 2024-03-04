@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 19:51:46](https://news.ycombinator.com/item?id=39595132) - [China offers 'computing vouchers' to small AI startups](https://www.pymnts.com/artificial-intelligence-2/2024/china-offers-computing-vouchers-to-small-ai-startups/)
 * [2024-03-04, 19:25:05](https://news.ycombinator.com/item?id=39594795) - [Yuzu (Nintendo Switch emulator) is dead](https://files.catbox.moe/q50hp9.png)
 * [2024-03-04, 19:19:24](https://news.ycombinator.com/item?id=39594721) - [Apple is right not to rush headlong into generative AI](https://www.economist.com/business/2024/03/03/apple-is-right-not-to-rush-headlong-into-generative-ai)
 * [2024-03-04, 19:17:17](https://news.ycombinator.com/item?id=39594687) - [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343)
