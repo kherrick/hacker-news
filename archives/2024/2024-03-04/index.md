@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 21:01:32](https://news.ycombinator.com/item?id=39596041) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-03-04, 20:48:09](https://news.ycombinator.com/item?id=39595839) - [3DS Emulator Citra is closing up shop and removing all their sites/code](https://twitter.com/citraemu/status/1764747696538046766)
 * [2024-03-04, 19:51:46](https://news.ycombinator.com/item?id=39595132) - [China offers 'computing vouchers' to small AI startups](https://www.pymnts.com/artificial-intelligence-2/2024/china-offers-computing-vouchers-to-small-ai-startups/)
 * [2024-03-04, 19:25:05](https://news.ycombinator.com/item?id=39594795) - [Yuzu (Nintendo Switch emulator) is dead](https://files.catbox.moe/q50hp9.png)
 * [2024-03-04, 19:19:24](https://news.ycombinator.com/item?id=39594721) - [Apple is right not to rush headlong into generative AI](https://www.economist.com/business/2024/03/03/apple-is-right-not-to-rush-headlong-into-generative-ai)

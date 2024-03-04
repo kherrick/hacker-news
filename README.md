@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-04, 21:01:32](https://news.ycombinator.com/item?id=39596041) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-03-04, 20:48:09](https://news.ycombinator.com/item?id=39595839) - [3DS Emulator Citra is closing up shop and removing all their sites/code](https://twitter.com/citraemu/status/1764747696538046766)
 * [2024-03-04, 19:17:17](https://news.ycombinator.com/item?id=39594687) - [Sigmoid Loss for Language Image Pre-Training (2023)](https://arxiv.org/abs/2303.15343)
-* [2024-03-04, 19:06:18](https://news.ycombinator.com/item?id=39594541) - [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
 * [2024-03-04, 18:52:53](https://news.ycombinator.com/item?id=39594362) - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
 * [2024-03-04, 18:52:24](https://news.ycombinator.com/item?id=39594355) - [There are only 12 binaries in Talos Linux](https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/)
 * [2024-03-04, 18:46:46](https://news.ycombinator.com/item?id=39594275) - [Le Grand K (2018)](https://www.atlasobscura.com/places/le-grand-k)
@@ -11,7 +12,6 @@
 * [2024-03-04, 17:21:42](https://news.ycombinator.com/item?id=39593008) - [Show HN: Workflow orchestrator in Golang](https://github.com/harshadmanglani/polaris)
 * [2024-03-04, 17:20:34](https://news.ycombinator.com/item?id=39592993) - [The women who coined the expression 'surfing the internet' (2019)](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
 * [2024-03-04, 17:05:46](https://news.ycombinator.com/item?id=39592771) - [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
-* [2024-03-04, 17:00:14](https://news.ycombinator.com/item?id=39592704) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge migrations – Is Hiring](https://skio.com/careers/)
 * [2024-03-04, 16:46:53](https://news.ycombinator.com/item?id=39592499) - [U.S. Air Force Evaluating Pivotal's Blackfly Ultralight EVTOL Aircraft](https://www.futureflight.aero/news-article/2024-02-27/us-air-force-evaluating-pivotals-blackfly-ultralight-evtol-aircraft)
 * [2024-03-04, 16:42:14](https://news.ycombinator.com/item?id=39592444) - [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 16:30:55](https://news.ycombinator.com/item?id=39592288) - [MacPad: I created the hybrid Mac-iPad laptop and tablet that Apple won't make](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
