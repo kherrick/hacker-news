@@ -39,6 +39,7 @@
 * [2024-03-04, 15:24:35](https://news.ycombinator.com/item?id=39591529) - [Show HN: The Astro App](https://astro.sshh.io/)
 * [2024-03-04, 15:14:43](https://news.ycombinator.com/item?id=39591416) - [Red Sea cables have been damaged, disrupting internet traffic](https://www.cnn.com/2024/03/04/business/red-sea-cables-cut-internet/index.html)
 * [2024-03-04, 15:02:08](https://news.ycombinator.com/item?id=39591287) - ['Your pay is still – not – going up too fast'](https://www.nominalnews.com/p/your-pay-is-still-not-going-up-too-fast)
+* [2024-03-04, 14:46:54](https://news.ycombinator.com/item?id=39591115) - [What flying was like fifty years ago](https://airfactsjournal.com/2024/03/remembering-what-flying-was-like-fifty-years-ago/)
 * [2024-03-04, 14:24:37](https://news.ycombinator.com/item?id=39590852) - [New Signal Usernames Help Stymie Subpoenas, Data Privacy](https://theintercept.com/2024/03/04/signal-app-username-phone-number-privacy/)
 * [2024-03-04, 14:09:46](https://news.ycombinator.com/item?id=39590683) - [Revy – proof-of-concept time-travel debugger for the Bevy game engine](https://github.com/rerun-io/revy)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [The Next Generation of Claude (Claude 3)](https://www.anthropic.com/news/claude-3-family)
