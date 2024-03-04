@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-04, 15:14:43](https://news.ycombinator.com/item?id=39591416) - [Red Sea cables have been damaged, disrupting internet traffic](https://www.cnn.com/2024/03/04/business/red-sea-cables-cut-internet/index.html)
+* [2024-03-04, 15:24:35](https://news.ycombinator.com/item?id=39591529) - [Show HN: The Astro App](https://astro.sshh.io/)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
 * [2024-03-04, 12:30:25](https://news.ycombinator.com/item?id=39589626) - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
 * [2024-03-04, 12:11:28](https://news.ycombinator.com/item?id=39589483) - [Apple hit with over 1.8B euro EU antitrust fine in Spotify case](https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/)
@@ -18,8 +18,8 @@
 * [2024-03-04, 00:19:15](https://news.ycombinator.com/item?id=39585796) - [Show HN: Free comments section for personal sites](https://blog.bhread.com/posts/comment_embeds/)
 * [2024-03-03, 23:34:05](https://news.ycombinator.com/item?id=39585527) - [A woman named \"Steve\" – IT pioneer, entrepreneur, philanthropist (2019)](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
 * [2024-03-03, 23:17:17](https://news.ycombinator.com/item?id=39585431) - [Surrealism Is 100](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
-* [2024-03-03, 22:06:51](https://news.ycombinator.com/item?id=39584984) - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
 * [2024-03-03, 21:22:23](https://news.ycombinator.com/item?id=39584654) - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
+* [2024-03-03, 20:58:17](https://news.ycombinator.com/item?id=39584483) - [How to be a good listener](https://tomblog.rip/the-myth-of-the-good-listener/)
 * [2024-03-03, 20:25:55](https://news.ycombinator.com/item?id=39584201) - [Sampling: What Nyquist didn't say, and what to do about it (2018) [pdf]](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
 * [2024-03-03, 18:01:13](https://news.ycombinator.com/item?id=39582745) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 17:04:32](https://news.ycombinator.com/item?id=39582116) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
