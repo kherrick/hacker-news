@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-03-04, 15:43:57",
+      "https://news.ycombinator.com/item?id=39591757"
+    ],
+    [
+      "Google Trims Jobs in Trust and Safety While Others Work 'Around the Clock'",
+      "https://www.bloomberg.com/news/articles/2024-03-01/google-trims-jobs-in-trust-and-safety-while-others-work-around-the-clock"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 15:38:22",
       "https://news.ycombinator.com/item?id=39591694"
     ],
     [
-      "Rust for Embedded Systems: Current State, Challenges and Open Problems",
+      "Rust for Embedded Systems: Current state, challenges and open problems",
       "https://arxiv.org/abs/2311.05063"
     ]
   ],
@@ -115,8 +125,18 @@
       "https://news.ycombinator.com/item?id=39587947"
     ],
     [
-      "Twenty Years Is Nothing",
+      "Twenty years is nothing",
       "https://deprogrammaticaipsum.com/twenty-years-is-nothing/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 05:49:20",
+      "https://news.ycombinator.com/item?id=39587379"
+    ],
+    [
+      "The Corvette that Windows zip folders bought",
+      "https://twitter.com/davepl1968/status/1764459921616359478"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-03-03, 22:06:51",
-      "https://news.ycombinator.com/item?id=39584984"
-    ],
-    [
-      "Using a solar oven as a radiant refrigerator at night",
-      "http://solarcooking.org/radiant-fridge.htm"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 21:22:23",
       "https://news.ycombinator.com/item?id=39584654"
     ],
@@ -217,16 +227,6 @@
     [
       "Interesting ideas in Observable Framework",
       "https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 17:04:32",
-      "https://news.ycombinator.com/item?id=39582116"
-    ],
-    [
-      "Better PC cooling with Python and Grafana",
-      "https://calbryant.uk/blog/better-pc-cooling-with-python/"
     ]
   ],
   [
