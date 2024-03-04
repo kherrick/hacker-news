@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 16:42:14](https://news.ycombinator.com/item?id=39592444) - [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
+* [2024-03-04, 16:30:55](https://news.ycombinator.com/item?id=39592288) - [MacPad: I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won't Make](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
+* [2024-03-04, 16:03:45](https://news.ycombinator.com/item?id=39591972) - [Launch HN: Just words (YC W24) – Optimize your product's copy for user growth](https://news.ycombinator.com/item?id=39591972)
 * [2024-03-04, 15:57:40](https://news.ycombinator.com/item?id=39591910) - [Do literally anything](https://aaronfrancis.com/2024/do-literally-anything)
 * [2024-03-04, 15:43:57](https://news.ycombinator.com/item?id=39591757) - [Google Trims Jobs in Trust and Safety While Others Work 'Around the Clock'](https://www.bloomberg.com/news/articles/2024-03-01/google-trims-jobs-in-trust-and-safety-while-others-work-around-the-clock)
 * [2024-03-04, 15:38:22](https://news.ycombinator.com/item?id=39591694) - [Rust for Embedded Systems: Current State, Challenges and Open Problems](https://arxiv.org/abs/2311.05063)
