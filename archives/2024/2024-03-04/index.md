@@ -6,6 +6,7 @@
 
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [The Next Generation of Claude (Claude 3)](https://www.anthropic.com/news/claude-3-family)
 * [2024-03-04, 13:56:19](https://news.ycombinator.com/item?id=39590520) - [Artificial Intelligence AI worm infects users via AI-enabled email clients](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-worm-infects-users-via-ai-enabled-email-clients-morris-ii-generative-ai-worm-steals-confidential-data-as-it-spreads)
+* [2024-03-04, 13:53:47](https://news.ycombinator.com/item?id=39590489) - [Gleam Version 1](https://gleam.run/news/gleam-version-1/?q)
 * [2024-03-04, 13:30:46](https://news.ycombinator.com/item?id=39590227) - [FTC to Protect Data of 1.6B People Tracked by Now-Bankrupt Data Broker](https://www.techdirt.com/2024/03/04/wydens-office-gets-ftc-to-protect-the-data-of-1-6-billion-people-tracked-by-now-bankrupt-data-broker/)
 * [2024-03-04, 13:06:27](https://news.ycombinator.com/item?id=39589978) - [Lenovo ThinkPad X1 Carbon G12 laptop review: First major refresh in three years](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Carbon-G12-laptop-review-First-major-refresh-in-three-years.803321.0.html)
 * [2024-03-04, 12:30:25](https://news.ycombinator.com/item?id=39589626) - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
@@ -14,6 +15,7 @@
 * [2024-03-04, 12:22:56](https://news.ycombinator.com/item?id=39589557) - [Hugging Face, the GitHub of AI, hosted code that backdoored user devices](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
 * [2024-03-04, 12:11:28](https://news.ycombinator.com/item?id=39589483) - [Apple hit with over 1.8B euro EU antitrust fine in Spotify case](https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/)
 * [2024-03-04, 12:10:59](https://news.ycombinator.com/item?id=39589479) - [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
+* [2024-03-04, 12:06:31](https://news.ycombinator.com/item?id=39589450) - [The App Store, Spotify, and Europe's thriving digital music market](https://www.apple.com/newsroom/2024/03/the-app-store-spotify-and-europes-thriving-digital-music-market/)
 * [2024-03-04, 12:00:39](https://news.ycombinator.com/item?id=39589412) - [Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
 * [2024-03-04, 11:15:03](https://news.ycombinator.com/item?id=39589102) - [The Theorist Who Sees Math in Art, Music and Writing](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
 * [2024-03-04, 11:08:04](https://news.ycombinator.com/item?id=39589065) - [Incorrect Stack Exchange Answers Make Me Angry](https://1f6042.blogspot.com/2024/03/incorrect-stack-exchange-answers-make.html)
