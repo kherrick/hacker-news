@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-03-04, 01:01:14",
+      "https://news.ycombinator.com/item?id=39586030"
+    ],
+    [
+      "SuperKalam (YC W23) Is Hiring",
+      "https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 23:54:56",
+      "https://news.ycombinator.com/item?id=39585648"
+    ],
+    [
+      "Reclaim your focus with ~12 lines of bash",
+      "https://www.autodidacts.io/coldturkey-selfcontrol-freedom-leechblock-alternative-in-bash/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 23:34:05",
+      "https://news.ycombinator.com/item?id=39585527"
+    ],
+    [
+      "A woman named \"Steve\" – IT pioneer, entrepreneur, philanthropist (2019)",
+      "https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 22:48:59",
+      "https://news.ycombinator.com/item?id=39585265"
+    ],
+    [
+      "California rains resurrect a long-dead lake in dry Death Valley",
+      "https://www.washingtonpost.com/nation/2024/03/01/death-valley-lake-california-rain/"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 22:40:13",
       "https://news.ycombinator.com/item?id=39585207"
     ],
@@ -51,12 +91,12 @@
   ],
   [
     [
-      "2024-03-03, 21:03:48",
-      "https://news.ycombinator.com/item?id=39584532"
+      "2024-03-03, 20:55:00",
+      "https://news.ycombinator.com/item?id=39584454"
     ],
     [
-      "Meticulous (YC S21) is hiring to eliminate UI E2E tests",
-      "https://news.ycombinator.com/item?id=39584532"
+      "Short-term Hebbian learning can implement transformer-like attention",
+      "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011843"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-03-03, 17:46:20",
-      "https://news.ycombinator.com/item?id=39582552"
-    ],
-    [
-      "Separating a particle's mass from its momentum",
-      "https://arxiv.org/abs/2401.10408"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 17:31:03",
       "https://news.ycombinator.com/item?id=39582389"
     ],
@@ -157,6 +187,16 @@
     [
       "Better PC cooling with Python and Grafana",
       "https://calbryant.uk/blog/better-pc-cooling-with-python/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 16:12:54",
+      "https://news.ycombinator.com/item?id=39581768"
+    ],
+    [
+      "How dense is your city?",
+      "http://citydensity.com/"
     ]
   ],
   [
@@ -201,22 +241,12 @@
   ],
   [
     [
-      "2024-03-03, 14:28:50",
-      "https://news.ycombinator.com/item?id=39581011"
+      "2024-03-03, 13:50:21",
+      "https://news.ycombinator.com/item?id=39580813"
     ],
     [
-      "The $25B Eigenvector: The Linear Algebra behind Google (2006)",
-      "https://epubs.siam.org/doi/abs/10.1137/050623280?journalCode=siread"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 12:20:24",
-      "https://news.ycombinator.com/item?id=39580395"
-    ],
-    [
-      "What we learned in 6 months of working on an AI Developer",
-      "https://blog.pythagora.ai/2024/02/19/gpt-pilot-what-did-we-learn-in-6-months-of-working-on-a-codegen-pair-programmer/"
+      "The Black-Scholes/Merton equation [video]",
+      "https://www.youtube.com/watch?v=A5w-dEgIU1M"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2024-03-03, 10:07:47",
-      "https://news.ycombinator.com/item?id=39579833"
-    ],
-    [
-      "An Unbelievable Demo (2021)",
-      "https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 08:38:48",
-      "https://news.ycombinator.com/item?id=39579447"
-    ],
-    [
-      "David Holladay, blindness technology pioneer, has died",
-      "https://www.braillists.org/uncategorised/a-message-from-duxbury-systems-in-loving-memory-of-our-dear-friend-and-colleague/"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 17:49:26",
       "https://news.ycombinator.com/item?id=39574240"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: An algorithmic audio landscape",
       "https://ambient.garden"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 16:00:38",
-      "https://news.ycombinator.com/item?id=39573389"
-    ],
-    [
-      "Open Beam Interface",
-      "https://github.com/nanographs/Open-Beam-Interface"
     ]
   ],
   [
