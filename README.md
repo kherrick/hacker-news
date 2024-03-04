@@ -19,6 +19,7 @@
 * [2024-03-04, 03:43:20](https://news.ycombinator.com/item?id=39586828) - [Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 02:42:56](https://news.ycombinator.com/item?id=39586583) - [The Fundamentals of C/C++ Game Programming (2017)](https://www.taylorfrancis.com/books/mono/10.1201/9781315156361/fundamentals-game-programming-brian-beuken)
 * [2024-03-03, 23:34:05](https://news.ycombinator.com/item?id=39585527) - [A woman named \"Steve\" – IT pioneer, entrepreneur, philanthropist (2019)](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
+* [2024-03-03, 23:17:17](https://news.ycombinator.com/item?id=39585431) - [Surrealism Is 100](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
 * [2024-03-03, 21:22:23](https://news.ycombinator.com/item?id=39584654) - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 * [2024-03-03, 20:25:55](https://news.ycombinator.com/item?id=39584201) - [Sampling: What Nyquist didn't say, and what to do about it (2018) [pdf]](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
 * [2024-03-03, 18:01:13](https://news.ycombinator.com/item?id=39582745) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
@@ -28,7 +29,6 @@
 * [2024-03-02, 22:01:48](https://news.ycombinator.com/item?id=39576156) - [Mathematical Journeys into Fictional Worlds (2021) [pdf]](https://www.gresham.ac.uk/sites/default/files/2021-02-09-1300-HART_FictionalWorlds-T.pdf)
 * [2024-03-02, 21:26:15](https://news.ycombinator.com/item?id=39575909) - [A broken vintage piano turned into a unique analog hybrid of 20 instruments](https://www.themusicman.uk/broken-vintage-piano/)
 * [2024-03-02, 19:52:40](https://news.ycombinator.com/item?id=39575264) - [A computational approach to emergence in complex multi-level systems](https://arxiv.org/abs/2402.09090)
-* [2024-03-02, 16:35:08](https://news.ycombinator.com/item?id=39573636) - [Giant anaconda species in the Amazon of Ecuador is the largest to be documented](https://www.usatoday.com/story/news/world/2024/03/02/photos-of-northern-green-anaconda-amazon/72806065007/)
 * [2024-03-02, 09:52:53](https://news.ycombinator.com/item?id=39571406) - [Deploying Fiber in the Home](https://blog.daknob.net/fiber-in-the-home/)
 
 ## [Archives](archives/index.md)
