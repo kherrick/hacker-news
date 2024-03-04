@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-04, 12:23:44](https://news.ycombinator.com/item?id=39589563) - [Sports gambling was a gateway drug](https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3)
+* [2024-03-04, 13:06:27](https://news.ycombinator.com/item?id=39589978) - [Lenovo ThinkPad X1 Carbon G12 laptop review: First major refresh in three years](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Carbon-G12-laptop-review-First-major-refresh-in-three-years.803321.0.html)
+* [2024-03-04, 12:22:56](https://news.ycombinator.com/item?id=39589557) - [Hugging Face, the GitHub of AI, hosted code that backdoored user devices](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
 * [2024-03-04, 12:11:28](https://news.ycombinator.com/item?id=39589483) - [Apple hit with over 1.8B euro EU antitrust fine in Spotify case](https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/)
 * [2024-03-04, 12:10:59](https://news.ycombinator.com/item?id=39589479) - [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
 * [2024-03-04, 12:00:39](https://news.ycombinator.com/item?id=39589412) - [Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
@@ -17,7 +18,6 @@
 * [2024-03-03, 23:17:17](https://news.ycombinator.com/item?id=39585431) - [Surrealism Is 100](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
 * [2024-03-03, 23:16:53](https://news.ycombinator.com/item?id=39585427) - [Bugs I've filed on browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
 * [2024-03-03, 22:40:13](https://news.ycombinator.com/item?id=39585207) - [Enough with the dead butterflies (2017)](https://www.emilydamstra.com/please-enough-dead-butterflies/)
-* [2024-03-03, 22:06:51](https://news.ycombinator.com/item?id=39584984) - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
 * [2024-03-03, 21:22:23](https://news.ycombinator.com/item?id=39584654) - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 * [2024-03-03, 20:58:17](https://news.ycombinator.com/item?id=39584483) - [How to be a good listener](https://tomblog.rip/the-myth-of-the-good-listener/)
 * [2024-03-03, 20:25:55](https://news.ycombinator.com/item?id=39584201) - [Sampling: What Nyquist didn't say, and what to do about it (2018) [pdf]](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)

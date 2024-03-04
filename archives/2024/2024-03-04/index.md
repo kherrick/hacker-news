@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 13:06:27](https://news.ycombinator.com/item?id=39589978) - [Lenovo ThinkPad X1 Carbon G12 laptop review: First major refresh in three years](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Carbon-G12-laptop-review-First-major-refresh-in-three-years.803321.0.html)
 * [2024-03-04, 12:23:44](https://news.ycombinator.com/item?id=39589563) - [Sports gambling was a gateway drug](https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3)
+* [2024-03-04, 12:22:56](https://news.ycombinator.com/item?id=39589557) - [Hugging Face, the GitHub of AI, hosted code that backdoored user devices](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
 * [2024-03-04, 12:11:28](https://news.ycombinator.com/item?id=39589483) - [Apple hit with over 1.8B euro EU antitrust fine in Spotify case](https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/)
 * [2024-03-04, 12:10:59](https://news.ycombinator.com/item?id=39589479) - [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
 * [2024-03-04, 12:00:39](https://news.ycombinator.com/item?id=39589412) - [Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
