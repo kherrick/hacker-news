@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 23:54:56](https://news.ycombinator.com/item?id=39585648) - [Reclaim your focus with ~12 lines of bash](https://www.autodidacts.io/coldturkey-selfcontrol-freedom-leechblock-alternative-in-bash/)
+* [2024-03-03, 23:34:05](https://news.ycombinator.com/item?id=39585527) - [A woman named \"Steve\" – IT pioneer, entrepreneur, philanthropist (2019)](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
+* [2024-03-03, 22:48:59](https://news.ycombinator.com/item?id=39585265) - [California rains resurrect a long-dead lake in dry Death Valley](https://www.washingtonpost.com/nation/2024/03/01/death-valley-lake-california-rain/)
 * [2024-03-03, 22:40:51](https://news.ycombinator.com/item?id=39585209) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
 * [2024-03-03, 22:40:13](https://news.ycombinator.com/item?id=39585207) - [Please, Enough with the Dead Butterflies](https://www.emilydamstra.com/please-enough-dead-butterflies/)
 * [2024-03-03, 22:06:51](https://news.ycombinator.com/item?id=39584984) - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
@@ -13,6 +16,7 @@
 * [2024-03-03, 21:09:28](https://news.ycombinator.com/item?id=39584566) - [French Artists in 1899 Envisioned What Life Would Look Like in the Year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 * [2024-03-03, 21:03:48](https://news.ycombinator.com/item?id=39584532) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
 * [2024-03-03, 21:00:51](https://news.ycombinator.com/item?id=39584504) - [Sigma 15mm F/1.4 DG DN Art Review: Wide, Weird, and Wonderful](https://petapixel.com/2024/02/27/sigma-15mm-f-1-4-dg-dn-art-review-wide-weird-and-wonderful/)
+* [2024-03-03, 20:55:00](https://news.ycombinator.com/item?id=39584454) - [Short-term Hebbian learning can implement transformer-like attention](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011843)
 * [2024-03-03, 20:25:55](https://news.ycombinator.com/item?id=39584201) - [Sampling: What Nyquist Didn't Say, and What to Do About It [pdf]](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
 * [2024-03-03, 20:24:14](https://news.ycombinator.com/item?id=39584185) - [Show HN: Pipedream now has 1800 integrated APIs](https://pipedream.com/explore)
 * [2024-03-03, 20:14:51](https://news.ycombinator.com/item?id=39584070) - [My favourite data structure: The trie](https://jamesg.blog/2024/01/16/trie/)
@@ -46,6 +50,7 @@
 * [2024-03-03, 16:23:34](https://news.ycombinator.com/item?id=39581855) - [Joplin is an open source note-taking app](https://joplinapp.org/)
 * [2024-03-03, 16:20:27](https://news.ycombinator.com/item?id=39581833) - [I decided not to apply YC again](https://news.ycombinator.com/item?id=39581833)
 * [2024-03-03, 16:20:05](https://news.ycombinator.com/item?id=39581831) - [Everything is rising at a scary rate: Why car, home insurance costs are surging](https://text.npr.org/1233963377)
+* [2024-03-03, 16:12:54](https://news.ycombinator.com/item?id=39581768) - [How dense is your city?](http://citydensity.com/)
 * [2024-03-03, 16:05:34](https://news.ycombinator.com/item?id=39581711) - [Why Women Outnumber Men in South Korea's Sports Stadiums](https://www.nytimes.com/2024/02/20/world/asia/women-sports-fans-south-korea.html)
 * [2024-03-03, 16:03:31](https://news.ycombinator.com/item?id=39581690) - [Billionaires building bunkers buying islands– prep for apocalypse or feudalism?](https://phys.org/news/2024-03-billionaires-bunkers-buying-islands-prepping.html)
 * [2024-03-03, 16:02:02](https://news.ycombinator.com/item?id=39581678) - [Crash of the Titan: a short history of Apple's doomed car project](https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed)
