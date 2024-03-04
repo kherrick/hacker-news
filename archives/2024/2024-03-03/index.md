@@ -104,6 +104,7 @@
 * [2024-03-03, 03:44:40](https://news.ycombinator.com/item?id=39578248) - [US prescription market hamstrung for 9 days (so far) by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
 * [2024-03-03, 03:38:32](https://news.ycombinator.com/item?id=39578221) - [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)
 * [2024-03-03, 03:38:03](https://news.ycombinator.com/item?id=39578218) - [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)
+* [2024-03-03, 03:28:38](https://news.ycombinator.com/item?id=39578174) - [Cold Chemistry Is Different](https://physics.aps.org/articles/v17/37)
 * [2024-03-03, 03:07:16](https://news.ycombinator.com/item?id=39578092) - [Telegram for America (1956)](https://archive.org/details/Telegram1956)
 * [2024-03-03, 03:06:52](https://news.ycombinator.com/item?id=39578090) - [How to convert Node.js stream callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator)
 * [2024-03-03, 02:47:21](https://news.ycombinator.com/item?id=39578007) - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
