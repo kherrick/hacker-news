@@ -36,6 +36,7 @@
 * [2024-03-02, 17:58:31](https://news.ycombinator.com/item?id=39574330) - [Japan sees rise of 'ramen girls'](https://asia.nikkei.com/Life-Arts/Life/Japan-sees-rise-of-ramen-girls)
 * [2024-03-02, 17:49:26](https://news.ycombinator.com/item?id=39574240) - [Interlisp-D and MIT CADR Lispm Demos for IJCAI Conference 1981, from Xerox PARC](https://archive.org/details/xerox-parc_V-141_1)
 * [2024-03-02, 17:25:56](https://news.ycombinator.com/item?id=39574055) - [Show HN: DanGPT–Dan Abramov as a GenAI with RAG](https://dangpt.vercel.app/)
+* [2024-03-02, 17:25:47](https://news.ycombinator.com/item?id=39574051) - [The perils of pause(2) (2023)](https://www.cipht.net/2023/11/30/perils-of-pause.html)
 * [2024-03-02, 16:55:39](https://news.ycombinator.com/item?id=39573805) - [Lawyers who voided Elon Musk's pay as excessive want $6B fee](https://ca.news.yahoo.com/legal-team-voided-musks-tesla-230039948.html)
 * [2024-03-02, 16:48:39](https://news.ycombinator.com/item?id=39573756) - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 * [2024-03-02, 16:47:52](https://news.ycombinator.com/item?id=39573744) - [Oregon undoes groundbreaking drug decriminalization law](https://www.theguardian.com/us-news/2024/mar/02/oregon-overturn-drug-decriminalize-law)
