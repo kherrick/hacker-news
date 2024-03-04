@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 12:00:39](https://news.ycombinator.com/item?id=39589412) - [Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
+* [2024-03-04, 11:15:03](https://news.ycombinator.com/item?id=39589102) - [The Theorist Who Sees Math in Art, Music and Writing](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
+* [2024-03-04, 11:08:04](https://news.ycombinator.com/item?id=39589065) - [Incorrect Stack Exchange Answers Make Me Angry](https://1f6042.blogspot.com/2024/03/incorrect-stack-exchange-answers-make.html)
 * [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform](https://ieeexplore.ieee.org/abstract/document/6319640)
 * [2024-03-04, 10:36:14](https://news.ycombinator.com/item?id=39588899) - [What Is a Schur Decomposition?](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
 * [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [The Singapore Airlines Concorde: The full story](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
