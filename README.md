@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-04, 15:38:22](https://news.ycombinator.com/item?id=39591694) - [Rust for Embedded Systems: Current State, Challenges and Open Problems](https://arxiv.org/abs/2311.05063)
 * [2024-03-04, 15:24:35](https://news.ycombinator.com/item?id=39591529) - [Show HN: Astro App](https://astro.sshh.io/)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
 * [2024-03-04, 12:30:25](https://news.ycombinator.com/item?id=39589626) - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
@@ -15,7 +16,6 @@
 * [2024-03-04, 03:43:20](https://news.ycombinator.com/item?id=39586828) - [Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 02:42:56](https://news.ycombinator.com/item?id=39586583) - [The Fundamentals of C/C++ Game Programming (2017)](https://www.taylorfrancis.com/books/mono/10.1201/9781315156361/fundamentals-game-programming-brian-beuken)
 * [2024-03-04, 02:40:10](https://news.ycombinator.com/item?id=39586569) - [Nearly all of California's reservoir's are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
-* [2024-03-04, 00:19:15](https://news.ycombinator.com/item?id=39585796) - [Show HN: Free comments section for personal sites](https://blog.bhread.com/posts/comment_embeds/)
 * [2024-03-03, 23:34:05](https://news.ycombinator.com/item?id=39585527) - [A woman named \"Steve\" – IT pioneer, entrepreneur, philanthropist (2019)](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
 * [2024-03-03, 23:17:17](https://news.ycombinator.com/item?id=39585431) - [Surrealism Is 100](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
 * [2024-03-03, 22:06:51](https://news.ycombinator.com/item?id=39584984) - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)

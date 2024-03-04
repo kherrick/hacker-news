@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 15:38:22](https://news.ycombinator.com/item?id=39591694) - [Rust for Embedded Systems: Current State, Challenges and Open Problems](https://arxiv.org/abs/2311.05063)
 * [2024-03-04, 15:24:35](https://news.ycombinator.com/item?id=39591529) - [Show HN: The Astro App](https://astro.sshh.io/)
 * [2024-03-04, 15:14:43](https://news.ycombinator.com/item?id=39591416) - [Red Sea cables have been damaged, disrupting internet traffic](https://www.cnn.com/2024/03/04/business/red-sea-cables-cut-internet/index.html)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [The Next Generation of Claude (Claude 3)](https://www.anthropic.com/news/claude-3-family)
