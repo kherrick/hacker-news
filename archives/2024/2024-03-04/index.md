@@ -9,6 +9,8 @@
 * [2024-03-04, 19:17:17](https://news.ycombinator.com/item?id=39594687) - [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343)
 * [2024-03-04, 19:06:18](https://news.ycombinator.com/item?id=39594541) - [Gtpdoor – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
 * [2024-03-04, 18:52:53](https://news.ycombinator.com/item?id=39594362) - [Borrow Checking Without Lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
+* [2024-03-04, 18:52:24](https://news.ycombinator.com/item?id=39594355) - [There are only 12 binaries in Talos Linux](https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/)
+* [2024-03-04, 18:46:46](https://news.ycombinator.com/item?id=39594275) - [Le Grand K](https://www.atlasobscura.com/places/le-grand-k)
 * [2024-03-04, 18:38:45](https://news.ycombinator.com/item?id=39594164) - [Git Worktrees and GitButler](https://blog.gitbutler.com/git-worktrees/)
 * [2024-03-04, 18:05:41](https://news.ycombinator.com/item?id=39593722) - [Global Warming Is Accelerating](https://twitter.com/tomaspueyo/status/1764677338506088941)
 * [2024-03-04, 18:00:26](https://news.ycombinator.com/item?id=39593647) - [Yuzu emulator developers settle Nintendo lawsuit, pay $2.4M in damages](https://twitter.com/oatmealdome/status/1764704580724576465)
