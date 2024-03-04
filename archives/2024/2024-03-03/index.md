@@ -84,6 +84,7 @@
 * [2024-03-03, 12:06:32](https://news.ycombinator.com/item?id=39580336) - [Google Founder Sergey Brin: Gemini issue due to lack of \"thorough testing\"](https://twitter.com/0interestrates/status/1764087484026392803)
 * [2024-03-03, 12:00:48](https://news.ycombinator.com/item?id=39580310) - [HP is in the rent-a-printer business now](https://www.theverge.com/2024/3/2/24088867/hp-all-in-plan-printer-rental-instant-ink)
 * [2024-03-03, 11:58:35](https://news.ycombinator.com/item?id=39580296) - [The unreasonable effectiveness of i3, or: ten years of a boring desktop env](https://blog.waleson.com/2024/03/the-unreasonable-effectiveness-of-i3-or.html)
+* [2024-03-03, 11:38:06](https://news.ycombinator.com/item?id=39580219) - [World Server Throwing Championship](https://www.cloudfest.com/world-server-throwing-championship)
 * [2024-03-03, 11:15:37](https://news.ycombinator.com/item?id=39580136) - [Show HN: Hancho – A simple and pleasant build system in ~500 lines of Python](https://github.com/aappleby/hancho)
 * [2024-03-03, 11:01:32](https://news.ycombinator.com/item?id=39580076) - [Scaleway launches RISC-V servers](https://labs.scaleway.com/en/em-rv1/)
 * [2024-03-03, 10:12:00](https://news.ycombinator.com/item?id=39579857) - [AI chatbots can apparently get better at math for the strangest reason](https://qz.com/ai-chatbots-math-study-star-trek-1851301719)
