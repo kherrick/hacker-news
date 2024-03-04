@@ -89,6 +89,7 @@
 * [2024-03-03, 10:12:00](https://news.ycombinator.com/item?id=39579857) - [AI chatbots can apparently get better at math for the strangest reason](https://qz.com/ai-chatbots-math-study-star-trek-1851301719)
 * [2024-03-03, 10:07:47](https://news.ycombinator.com/item?id=39579833) - [An Unbelievable Demo](https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
 * [2024-03-03, 09:56:26](https://news.ycombinator.com/item?id=39579775) - [I don’t think you should sign your Git commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
+* [2024-03-03, 09:44:51](https://news.ycombinator.com/item?id=39579721) - [Advanced Functional Programming Free Course](http://www.cs.nott.ac.uk/~pszgmh/afp.html)
 * [2024-03-03, 08:50:17](https://news.ycombinator.com/item?id=39579487) - [Testing AI and LLM on Rockchip RK3588 Using Mixtile Blade 3 SBC with 32GB RAM](https://taoofmac.com/space/links/2024/03/01/0116)
 * [2024-03-03, 08:38:48](https://news.ycombinator.com/item?id=39579447) - [David Holladay, blindness technology pioneer, dies at age 70](https://www.braillists.org/uncategorised/a-message-from-duxbury-systems-in-loving-memory-of-our-dear-friend-and-colleague/)
 * [2024-03-03, 08:38:08](https://news.ycombinator.com/item?id=39579446) - [Laurie Anderson on making AI chatbot of Lou Reed: 100%, sadly addicted](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
