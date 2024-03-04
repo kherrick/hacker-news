@@ -33,6 +33,7 @@
 * [2024-03-02, 19:40:50](https://news.ycombinator.com/item?id=39575189) - [The Substantiality of Spirit: Georgiana Houghton's Pictures from the Other Side](https://publicdomainreview.org/essay/the-substantiality-of-spirit/)
 * [2024-03-02, 19:38:34](https://news.ycombinator.com/item?id=39575172) - [IEA: 20% of 2023 new car sales globally were EVs, curbing oil demand](https://electrek.co/2024/03/02/1-in-5-new-car-sales-globally-in-were-evs-in-2023-oil-demand-iea/)
 * [2024-03-02, 19:31:58](https://news.ycombinator.com/item?id=39575122) - [Git: Programmatic Staging](https://choly.ca/post/git-programmatic-staging/)
+* [2024-03-02, 19:29:06](https://news.ycombinator.com/item?id=39575102) - [Tal is the programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
 * [2024-03-02, 19:12:30](https://news.ycombinator.com/item?id=39575005) - [CO2 emissions reached record high in 2023 – IEA](https://www.dw.com/en/co2-emissions-reached-record-high-in-2023-iea/a-68413363)
 * [2024-03-02, 18:53:50](https://news.ycombinator.com/item?id=39574878) - [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
 * [2024-03-02, 18:53:06](https://news.ycombinator.com/item?id=39574864) - [Wonnx real-time webcam image classication using WebGPU](https://dl.pixelspark.nl/wonnx/)
