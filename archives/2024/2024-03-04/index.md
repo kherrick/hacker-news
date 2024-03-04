@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 18:00:26](https://news.ycombinator.com/item?id=39593647) - [Yuzu emulator developers settle Nintendo lawsuit, pay $2.4M in damages](https://twitter.com/oatmealdome/status/1764704580724576465)
+* [2024-03-04, 17:36:42](https://news.ycombinator.com/item?id=39593256) - [Opus 1.5 Released: Opus Gets a Serious Machine Learning Upgrade](https://opus-codec.org/demo/opus-1.5/)
+* [2024-03-04, 17:30:04](https://news.ycombinator.com/item?id=39593159) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
 * [2024-03-04, 17:20:34](https://news.ycombinator.com/item?id=39592993) - [The woman who coined the expression 'Surfing the Internet'](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
 * [2024-03-04, 17:12:29](https://news.ycombinator.com/item?id=39592876) - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 * [2024-03-04, 17:05:46](https://news.ycombinator.com/item?id=39592771) - [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
@@ -22,6 +25,7 @@
 * [2024-03-04, 15:24:35](https://news.ycombinator.com/item?id=39591529) - [Show HN: The Astro App](https://astro.sshh.io/)
 * [2024-03-04, 15:14:43](https://news.ycombinator.com/item?id=39591416) - [Red Sea cables have been damaged, disrupting internet traffic](https://www.cnn.com/2024/03/04/business/red-sea-cables-cut-internet/index.html)
 * [2024-03-04, 15:02:08](https://news.ycombinator.com/item?id=39591287) - ['Your pay is still – not – going up too fast'](https://www.nominalnews.com/p/your-pay-is-still-not-going-up-too-fast)
+* [2024-03-04, 14:09:46](https://news.ycombinator.com/item?id=39590683) - [Revy – proof-of-concept time-travel debugger for the Bevy game engine](https://github.com/rerun-io/revy)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [The Next Generation of Claude (Claude 3)](https://www.anthropic.com/news/claude-3-family)
 * [2024-03-04, 13:56:19](https://news.ycombinator.com/item?id=39590520) - [Artificial Intelligence AI worm infects users via AI-enabled email clients](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-worm-infects-users-via-ai-enabled-email-clients-morris-ii-generative-ai-worm-steals-confidential-data-as-it-spreads)
 * [2024-03-04, 13:53:47](https://news.ycombinator.com/item?id=39590489) - [Gleam Version 1](https://gleam.run/news/gleam-version-1/?q)
