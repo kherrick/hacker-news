@@ -6,9 +6,11 @@
 
 * [2024-03-03, 23:54:56](https://news.ycombinator.com/item?id=39585648) - [Reclaim your focus with ~12 lines of bash](https://www.autodidacts.io/coldturkey-selfcontrol-freedom-leechblock-alternative-in-bash/)
 * [2024-03-03, 23:34:05](https://news.ycombinator.com/item?id=39585527) - [A woman named \"Steve\" – IT pioneer, entrepreneur, philanthropist (2019)](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
+* [2024-03-03, 23:16:53](https://news.ycombinator.com/item?id=39585427) - [Bugs I've Filed on Browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
 * [2024-03-03, 22:48:59](https://news.ycombinator.com/item?id=39585265) - [California rains resurrect a long-dead lake in dry Death Valley](https://www.washingtonpost.com/nation/2024/03/01/death-valley-lake-california-rain/)
 * [2024-03-03, 22:40:51](https://news.ycombinator.com/item?id=39585209) - [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)
 * [2024-03-03, 22:40:13](https://news.ycombinator.com/item?id=39585207) - [Please, Enough with the Dead Butterflies](https://www.emilydamstra.com/please-enough-dead-butterflies/)
+* [2024-03-03, 22:16:51](https://news.ycombinator.com/item?id=39585063) - [Introducing our GDC Line-up](https://godotengine.org/article/gdc-2024-godot-games/)
 * [2024-03-03, 22:06:51](https://news.ycombinator.com/item?id=39584984) - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
 * [2024-03-03, 22:04:42](https://news.ycombinator.com/item?id=39584967) - [Commerce Department Proposes Imposing \"Know Your Customer\" on IaaS Providers](https://www.natlawreview.com/article/us-department-commerce-publishes-proposed-rule-imposing-know-your-customer-and)
 * [2024-03-03, 21:47:25](https://news.ycombinator.com/item?id=39584830) - [Cops visit school of 'wrong person's child,' mix up in epic data fail](https://www.theregister.com/2024/03/01/west_midlands_police_data_protection/)
