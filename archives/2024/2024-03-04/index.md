@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 23:22:47](https://news.ycombinator.com/item?id=39597525) - [Miles Davis and the Recording of a Jazz Masterpiece](https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/)
 * [2024-03-04, 22:56:47](https://news.ycombinator.com/item?id=39597286) - [Breakthrough in predicting chaotic outcomes in three body systems](https://phys.org/news/2024-02-breakthrough-chaotic-outcomes-body.html)
 * [2024-03-04, 22:42:04](https://news.ycombinator.com/item?id=39597131) - [How I keep myself Alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
