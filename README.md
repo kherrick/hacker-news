@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-04, 15:57:40](https://news.ycombinator.com/item?id=39591910) - [Do literally anything](https://aaronfrancis.com/2024/do-literally-anything)
 * [2024-03-04, 15:38:22](https://news.ycombinator.com/item?id=39591694) - [Rust for Embedded Systems: Current state, challenges and open problems](https://arxiv.org/abs/2311.05063)
 * [2024-03-04, 15:24:35](https://news.ycombinator.com/item?id=39591529) - [Show HN: Astro App](https://astro.sshh.io/)
 * [2024-03-04, 15:02:08](https://news.ycombinator.com/item?id=39591287) - ['Your pay is still – not – going up too fast'](https://www.nominalnews.com/p/your-pay-is-still-not-going-up-too-fast)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
-* [2024-03-04, 13:00:38](https://news.ycombinator.com/item?id=39589924) - [Apple unveils the new 13- and 15‑inch MacBook Air with the powerful M3 chip](https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/)
 * [2024-03-04, 12:30:25](https://news.ycombinator.com/item?id=39589626) - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
 * [2024-03-04, 12:11:28](https://news.ycombinator.com/item?id=39589483) - [Apple hit with over 1.8B euro EU antitrust fine in Spotify case](https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/)
 * [2024-03-04, 12:10:59](https://news.ycombinator.com/item?id=39589479) - [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)

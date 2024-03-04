@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 15:57:40](https://news.ycombinator.com/item?id=39591910) - [Do literally anything](https://aaronfrancis.com/2024/do-literally-anything)
 * [2024-03-04, 15:43:57](https://news.ycombinator.com/item?id=39591757) - [Google Trims Jobs in Trust and Safety While Others Work 'Around the Clock'](https://www.bloomberg.com/news/articles/2024-03-01/google-trims-jobs-in-trust-and-safety-while-others-work-around-the-clock)
 * [2024-03-04, 15:38:22](https://news.ycombinator.com/item?id=39591694) - [Rust for Embedded Systems: Current State, Challenges and Open Problems](https://arxiv.org/abs/2311.05063)
 * [2024-03-04, 15:24:35](https://news.ycombinator.com/item?id=39591529) - [Show HN: The Astro App](https://astro.sshh.io/)
