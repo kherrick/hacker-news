@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 06:21:55](https://news.ycombinator.com/item?id=39587550) - [Film Companies Seek 'Torrenting History' Related to Redditor](https://torrentfreak.com/film-companies-seek-torrenting-history-related-to-redditor-240220/)
 * [2024-03-04, 05:40:07](https://news.ycombinator.com/item?id=39587344) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 05:28:34](https://news.ycombinator.com/item?id=39587304) - [PG&E claims no connection between rate increases and $2.2B jump in earnings](https://abc7news.com/pge-rate-increase-2023-earning-2-billion-dollar-profit/14483425/)
 * [2024-03-04, 04:13:35](https://news.ycombinator.com/item?id=39586951) - [Bring Back Private Offices (Open Office Sucks)](https://albertcory50.substack.com/p/bring-back-private-offices)
@@ -14,6 +15,7 @@
 * [2024-03-04, 02:37:25](https://news.ycombinator.com/item?id=39586554) - [Varda's drug-cooking Winnebago will be remembered as a space pioneer](https://arstechnica.com/space/2024/02/vardas-drug-cooking-winnebago-will-be-remembered-as-a-space-pioneer/)
 * [2024-03-04, 02:33:14](https://news.ycombinator.com/item?id=39586524) - [Move over, AI. Scientists announce a new 'organoid intelligence' field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
 * [2024-03-04, 02:30:59](https://news.ycombinator.com/item?id=39586508) - [US permanently deploys training mission in Taiwan](https://www.defensehere.com/en/us-permanently-deploys-training-mission-in-taiwan)
+* [2024-03-04, 02:29:05](https://news.ycombinator.com/item?id=39586495) - [Epic Games Hackers Say They Faked the Whole Thing](https://www.thegamer.com/epic-games-hack-faked-scam/)
 * [2024-03-04, 02:15:38](https://news.ycombinator.com/item?id=39586424) - [Nvidia CEO says \"coding is a dying profession\"](https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn)
 * [2024-03-04, 01:39:48](https://news.ycombinator.com/item?id=39586238) - [Sergey Brin on Gemini 1.5 Pro (03/02/2024) [video]](https://www.youtube.com/watch?v=BQ8ykNyZ6LY)
 * [2024-03-04, 01:07:03](https://news.ycombinator.com/item?id=39586055) - [How the Valley treats its experienced people (2018)](https://rachelbythebay.com/w/2018/12/29/age/)
