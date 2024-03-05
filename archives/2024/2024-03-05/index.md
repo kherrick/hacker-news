@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+* [2024-03-05, 07:37:57](https://news.ycombinator.com/item?id=39600426) - [Dell exec reveals Nvidia has a 1,000-watt GPU in the works](https://www.theregister.com/2024/03/05/nvidias_b100_gpu_1000w/)
 * [2024-03-05, 06:49:23](https://news.ycombinator.com/item?id=39600172) - [Linux Crosses 4% Market Share Worldwide](https://linuxiac.com/linux-crosses-four-percent-market-share-worldwide/)
 * [2024-03-05, 06:45:29](https://news.ycombinator.com/item?id=39600158) - [JPEG XL Is a Stupid Name](https://www.mark-pekala.dev/posts/jpeg-xl)
+* [2024-03-05, 06:05:05](https://news.ycombinator.com/item?id=39599958) - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
 * [2024-03-05, 05:20:58](https://news.ycombinator.com/item?id=39599736) - [Apple Fined $2B in One of Europe's Largest Antitrust Actions](https://www.wsj.com/tech/apple-hit-with-near-2-billion-fine-in-europe-over-music-streaming-apps-74062ff7)
 * [2024-03-05, 04:05:03](https://news.ycombinator.com/item?id=39599312) - [Claude 3 Opus suspects it is being tested from benchmark question](https://twitter.com/alexalbert__/status/1764722513014329620)
 * [2024-03-05, 03:38:50](https://news.ycombinator.com/item?id=39599150) - [\"I became a writer to get rich\" (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
