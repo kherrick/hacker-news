@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
 * [2024-03-05, 19:19:38](https://news.ycombinator.com/item?id=39607993) - [Adding Systemd to PostmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
+* [2024-03-05, 18:57:03](https://news.ycombinator.com/item?id=39607747) - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
 * [2024-03-05, 18:47:36](https://news.ycombinator.com/item?id=39607630) - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
 * [2024-03-05, 18:41:12](https://news.ycombinator.com/item?id=39607551) - [Why Rust is worse than C for programming low-level hw](https://infosec.exchange/@lcamtuf/112043612201839620)
 * [2024-03-05, 18:30:47](https://news.ycombinator.com/item?id=39607412) - [This Is Knuth 3:16](http://www.larry.denenberg.com/Knuth-3-16/)
@@ -36,6 +37,7 @@
 * [2024-03-05, 15:35:12](https://news.ycombinator.com/item?id=39604713) - [Is Facebook logging out users?](https://news.ycombinator.com/item?id=39604713)
 * [2024-03-05, 15:31:49](https://news.ycombinator.com/item?id=39604652) - [Parent shaming causes the demographic collapse](https://woodfromeden.substack.com/p/parent-shaming-causes-the-demographic)
 * [2024-03-05, 15:29:21](https://news.ycombinator.com/item?id=39604621) - [A Vanishing World: On Europe's Disappearing Peasantry](https://lithub.com/a-vanishing-world-on-europes-disappearing-peasantry/)
+* [2024-03-05, 15:27:58](https://news.ycombinator.com/item?id=39604600) - [Elliptic Curve 'Murmurations' Found with AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
 * [2024-03-05, 15:27:57](https://news.ycombinator.com/item?id=39604598) - [Tell HN: Facebook, Instagram authentication looks down worldwide](https://news.ycombinator.com/item?id=39604598)
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Meta outage](https://metastatus.com/)
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Facebook Offline](https://downdetector.com/status/facebook/)
