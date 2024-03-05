@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 22:50:03](https://news.ycombinator.com/item?id=39610134) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
+* [2024-03-05, 22:39:47](https://news.ycombinator.com/item?id=39610054) - [Tether reaches $100B, stokes stablecoin stability concerns](https://reuters.com/technology/tethers-100-bln-stokes-stablecoin-stability-concerns-2024-03-05)
 * [2024-03-05, 22:16:06](https://news.ycombinator.com/item?id=39609846) - [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
 * [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
@@ -15,9 +17,7 @@
 * [2024-03-05, 16:53:02](https://news.ycombinator.com/item?id=39606093) - [Ancient Counterfeiters and Their Fake Coins](https://coinweek.com/bad-money-ancient-counterfeiters-and-their-fake-coins/)
 * [2024-03-05, 16:50:00](https://news.ycombinator.com/item?id=39606048) - [Kagi and Wolfram](https://blog.kagi.com/kagi-wolfram)
 * [2024-03-05, 16:41:39](https://news.ycombinator.com/item?id=39605923) - [Show HN: Workout Tracker PWA](https://workout.olzhasar.com/)
-* [2024-03-05, 16:39:02](https://news.ycombinator.com/item?id=39605884) - [Covert Racism in LLMs](https://garymarcus.substack.com/p/covert-racism-in-llms)
 * [2024-03-05, 16:14:10](https://news.ycombinator.com/item?id=39605487) - [Why are there so many methane satellites?](https://heatmap.news/technology/methanesat-edf-satellite-gosat)
-* [2024-03-05, 15:49:28](https://news.ycombinator.com/item?id=39604975) - [Event Interception](https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html)
 * [2024-03-05, 15:48:56](https://news.ycombinator.com/item?id=39604961) - [Launch HN: Greptile (YC W24) - RAG on codebases that actually works](https://news.ycombinator.com/item?id=39604961)
 * [2024-03-05, 15:29:21](https://news.ycombinator.com/item?id=39604621) - [A Vanishing World: On Europe's Disappearing Peasantry](https://lithub.com/a-vanishing-world-on-europes-disappearing-peasantry/)
 * [2024-03-05, 15:27:58](https://news.ycombinator.com/item?id=39604600) - [Elliptic curve 'murmurations' found with AI](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)

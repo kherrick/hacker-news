@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 22:50:03](https://news.ycombinator.com/item?id=39610134) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
+* [2024-03-05, 22:39:47](https://news.ycombinator.com/item?id=39610054) - [Tether reaches $100B, stokes stablecoin stability concerns](https://reuters.com/technology/tethers-100-bln-stokes-stablecoin-stability-concerns-2024-03-05)
 * [2024-03-05, 22:16:06](https://news.ycombinator.com/item?id=39609846) - [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
 * [2024-03-05, 21:58:42](https://news.ycombinator.com/item?id=39609639) - [Symbolic Computer algebra systems/libraries](https://github.com/topics/computer-algebra)
 * [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
