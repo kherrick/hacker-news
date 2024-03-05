@@ -78,6 +78,7 @@
 * [2024-03-03, 13:50:21](https://news.ycombinator.com/item?id=39580813) - [The Trillion Dollar Equation [video]](https://www.youtube.com/watch?v=A5w-dEgIU1M)
 * [2024-03-03, 13:49:45](https://news.ycombinator.com/item?id=39580812) - [Why Do East Asian Firms Value Drinking?](https://www.ggd.world/p/why-do-east-asian-firms-value-drinking)
 * [2024-03-03, 13:30:27](https://news.ycombinator.com/item?id=39580724) - [AI Is Bad/Good Actually](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/artificial-intelligence/bad/good/)
+* [2024-03-03, 13:18:03](https://news.ycombinator.com/item?id=39580647) - [Evo: DNA foundation modeling from molecular to genome scale](https://arcinstitute.org/news/blog/evo)
 * [2024-03-03, 13:12:28](https://news.ycombinator.com/item?id=39580609) - [How I Listen to Music](https://marginalrevolution.com/marginalrevolution/2024/02/how-i-listen-to-music.html)
 * [2024-03-03, 12:38:33](https://news.ycombinator.com/item?id=39580449) - [Ollama: Running Large Language Models Locally](https://www.andreagrandi.it/posts/ollama-running-llm-locally/)
 * [2024-03-03, 12:34:31](https://news.ycombinator.com/item?id=39580439) - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
