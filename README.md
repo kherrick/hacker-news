@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
 * [2024-03-05, 20:32:44](https://news.ycombinator.com/item?id=39608822) - [Array Languages vs. the Curse of the Spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
@@ -29,7 +30,6 @@
 * [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform (2012)](https://ieeexplore.ieee.org/abstract/document/6319640)
 * [2024-03-04, 10:35:27](https://news.ycombinator.com/item?id=39588895) - [Flexagon](https://en.wikipedia.org/wiki/Flexagon)
-* [2024-03-04, 07:03:10](https://news.ycombinator.com/item?id=39587744) - [The Ipe extensible drawing editor](https://ipe.otfried.org/)
 
 ## [Archives](archives/index.md)
 
