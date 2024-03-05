@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-05, 21:58:42](https://news.ycombinator.com/item?id=39609639) - [Symbolic Computer algebra systems/libraries](https://github.com/topics/computer-algebra)
+* [2024-03-05, 22:16:06](https://news.ycombinator.com/item?id=39609846) - [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
 * [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
 * [2024-03-05, 20:32:44](https://news.ycombinator.com/item?id=39608822) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
-* [2024-03-05, 19:34:12](https://news.ycombinator.com/item?id=39608188) - [Virginia Tech Helmet Ratings](https://www.helmet.beam.vt.edu/)
+* [2024-03-05, 19:44:24](https://news.ycombinator.com/item?id=39608319) - [Fighting Monopoly Can Save Journalism](https://washingtonmonthly.com/2024/01/16/how-fighting-monopoly-can-save-journalism/)
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC publishes GDDR7 graphics memory standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 * [2024-03-05, 18:57:03](https://news.ycombinator.com/item?id=39607747) - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
 * [2024-03-05, 18:30:47](https://news.ycombinator.com/item?id=39607412) - [This Is Knuth 3:16 (2002)](http://www.larry.denenberg.com/Knuth-3-16/)

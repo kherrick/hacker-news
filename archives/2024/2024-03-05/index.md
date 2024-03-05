@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 22:16:06](https://news.ycombinator.com/item?id=39609846) - [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
 * [2024-03-05, 21:58:42](https://news.ycombinator.com/item?id=39609639) - [Symbolic Computer algebra systems/libraries](https://github.com/topics/computer-algebra)
 * [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
@@ -14,6 +15,7 @@
 * [2024-03-05, 20:17:38](https://news.ycombinator.com/item?id=39608691) - [Observable Framework 1.1](https://github.com/observablehq/framework/releases/tag/v1.1.0)
 * [2024-03-05, 20:10:38](https://news.ycombinator.com/item?id=39608601) - [Logic Programming in Rust](https://s-arash.github.io/ascent/)
 * [2024-03-05, 20:02:57](https://news.ycombinator.com/item?id=39608503) - [Microsoft is killing off the Android apps in Windows 11 feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-off-the-android-apps-in-windows-11-feature/)
+* [2024-03-05, 19:44:24](https://news.ycombinator.com/item?id=39608319) - [Fighting Monopoly Can Save Journalism](https://washingtonmonthly.com/2024/01/16/how-fighting-monopoly-can-save-journalism/)
 * [2024-03-05, 19:34:12](https://news.ycombinator.com/item?id=39608188) - [Virginia Tech Helmet Ratings](https://www.helmet.beam.vt.edu/)
 * [2024-03-05, 19:19:38](https://news.ycombinator.com/item?id=39607993) - [Adding Systemd to PostmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
