@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 16:25:46](https://news.ycombinator.com/item?id=39605670) - [Doks – Build a Docs Site](https://getdoks.org/)
+* [2024-03-05, 16:14:10](https://news.ycombinator.com/item?id=39605487) - [Why Are There So Many Methane Satellites?](https://heatmap.news/technology/methanesat-edf-satellite-gosat)
 * [2024-03-05, 16:11:38](https://news.ycombinator.com/item?id=39605453) - [Red Sea cables have been damaged, disrupting internet traffic](https://www.cnn.com/2024/03/04/business/red-sea-cables-cut-internet/index.html)
 * [2024-03-05, 16:10:20](https://news.ycombinator.com/item?id=39605438) - [Prompt injection and jailbreaking are not the same thing](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/)
+* [2024-03-05, 16:06:55](https://news.ycombinator.com/item?id=39605380) - [Target launches paid membership program as it chases new revenue streams](https://www.cnbc.com/2024/03/05/target-launches-paid-membership-target-circle-360.html)
+* [2024-03-05, 16:04:41](https://news.ycombinator.com/item?id=39605337) - [Concern as the gambling industry embraces AI](https://www.bbc.com/news/business-68304137)
 * [2024-03-05, 15:48:56](https://news.ycombinator.com/item?id=39604961) - [Launch HN: Greptile (YC W24) - RAG on codebases that actually works](https://news.ycombinator.com/item?id=39604961)
 * [2024-03-05, 15:36:32](https://news.ycombinator.com/item?id=39604746) - [Facebook Is Not Working](https://metastatus.com/)
 * [2024-03-05, 15:36:27](https://news.ycombinator.com/item?id=39604745) - [Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
