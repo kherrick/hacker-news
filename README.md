@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 06:49:23](https://news.ycombinator.com/item?id=39600172) - [Linux Crosses 4% Market Share Worldwide](https://linuxiac.com/linux-crosses-four-percent-market-share-worldwide/)
 * [2024-03-05, 03:38:50](https://news.ycombinator.com/item?id=39599150) - [A moment of financial clarification (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 * [2024-03-05, 02:47:59](https://news.ycombinator.com/item?id=39598903) - [Sell for half a billion and get nothing (2021)](https://www.fundablestartups.com/blog/half-a-billion)
 * [2024-03-05, 01:02:57](https://news.ycombinator.com/item?id=39598189) - [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
@@ -27,7 +28,6 @@
 * [2024-03-03, 07:51:50](https://news.ycombinator.com/item?id=39579253) - [The largest climatized reading space](https://www.snohetta.com/projects/beijing-city-library)
 * [2024-03-03, 06:06:42](https://news.ycombinator.com/item?id=39578832) - [Filament – A Language for Fearless Hardware Design](https://filamenthdl.com/)
 * [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
-* [2024-03-02, 19:29:06](https://news.ycombinator.com/item?id=39575102) - [Tal is the programming language for the Uxn virtual machine (2021)](https://wiki.xxiivv.com/site/uxntal.html)
 * [2024-03-02, 12:39:19](https://news.ycombinator.com/item?id=39572164) - [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer/)
 * [2024-03-02, 09:52:53](https://news.ycombinator.com/item?id=39571406) - [Deploying fiber in the home](https://blog.daknob.net/fiber-in-the-home/)
 

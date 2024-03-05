@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 06:49:23](https://news.ycombinator.com/item?id=39600172) - [Linux Crosses 4% Market Share Worldwide](https://linuxiac.com/linux-crosses-four-percent-market-share-worldwide/)
 * [2024-03-05, 05:20:58](https://news.ycombinator.com/item?id=39599736) - [Apple Fined $2B in One of Europe's Largest Antitrust Actions](https://www.wsj.com/tech/apple-hit-with-near-2-billion-fine-in-europe-over-music-streaming-apps-74062ff7)
 * [2024-03-05, 03:38:50](https://news.ycombinator.com/item?id=39599150) - [\"I became a writer to get rich\" (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 * [2024-03-05, 03:13:13](https://news.ycombinator.com/item?id=39599051) - [Investigating immune response of a man who received 217 Covid vaccines](https://www.fau.eu/2024/03/05/news/research/researchers-investigate-immune-response-of-a-man-who-received-217-covid-vaccinations/)
