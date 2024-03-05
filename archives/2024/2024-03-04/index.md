@@ -79,6 +79,7 @@
 * [2024-03-04, 08:42:43](https://news.ycombinator.com/item?id=39588293) - [Gem12 Pro Mini PC: Ryzen 7 8845HS, Mini Screen, and OCuLink eGPU](https://www.tomshardware.com/desktops/mini-pcs/gem12-pro-mini-pc-uses-an-amped-up-ryzen-7-8845hs-apu-has-a-built-in-mini-screen-and-oculink-support)
 * [2024-03-04, 07:35:28](https://news.ycombinator.com/item?id=39587947) - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 * [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
+* [2024-03-04, 07:03:10](https://news.ycombinator.com/item?id=39587744) - [The Ipe extensible drawing editor](https://ipe.otfried.org/)
 * [2024-03-04, 06:21:55](https://news.ycombinator.com/item?id=39587550) - [Film Companies Seek 'Torrenting History' Related to Redditor](https://torrentfreak.com/film-companies-seek-torrenting-history-related-to-redditor-240220/)
 * [2024-03-04, 06:19:40](https://news.ycombinator.com/item?id=39587535) - [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
 * [2024-03-04, 05:49:20](https://news.ycombinator.com/item?id=39587379) - [Corvette that Windows zip folders bought](https://twitter.com/davepl1968/status/1764459921616359478)

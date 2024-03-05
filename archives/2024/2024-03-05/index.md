@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 18:08:06](https://news.ycombinator.com/item?id=39607080) - [Why desktop Linux is finally growing in popularity](https://www.zdnet.com/article/5-reasons-why-desktop-linux-is-finally-growing-in-popularity/)
+* [2024-03-05, 17:47:30](https://news.ycombinator.com/item?id=39606815) - [Nissan drops app support for the original Leaf](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/nissan-drops-app-support-for-the-original-leaf-are-evs-now-as-disposable-as-iphones)
 * [2024-03-05, 17:22:21](https://news.ycombinator.com/item?id=39606464) - [Microsoft is ending support for the Windows Subsystem for Android (WSA)](https://learn.microsoft.com/en-us/windows/android/wsa/)
 * [2024-03-05, 17:04:21](https://news.ycombinator.com/item?id=39606257) - [Tech bros need to realise deepfake porn ruins lives-–and the law has to catch up](https://www.theguardian.com/global-development/2024/mar/01/tech-bros-nonconsensual-sexual-deepfakes-videos-porn-law-taylor-swift)
 * [2024-03-05, 17:00:51](https://news.ycombinator.com/item?id=39606209) - [Keeper (YC S21) hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
