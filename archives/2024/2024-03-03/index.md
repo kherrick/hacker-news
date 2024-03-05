@@ -99,6 +99,7 @@
 * [2024-03-03, 07:33:30](https://news.ycombinator.com/item?id=39579197) - [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
 * [2024-03-03, 07:30:16](https://news.ycombinator.com/item?id=39579181) - [Folklore.org: A Message for Adam](https://folklore.org/Tell_Adam_Hes_An_Asshole.html?sort=rating)
 * [2024-03-03, 07:19:10](https://news.ycombinator.com/item?id=39579136) - [I Was a Heretic at the New York Times](https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546/)
+* [2024-03-03, 06:06:42](https://news.ycombinator.com/item?id=39578832) - [Filament – A Language for Fearless Hardware Design](https://filamenthdl.com/)
 * [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
 * [2024-03-03, 05:31:19](https://news.ycombinator.com/item?id=39578681) - [Feature: Morphcat Games, the New-Gen NES Devs Pushing the 8-Bit Envelope](https://www.nintendolife.com/features/meet-morphcat-games-the-new-gen-nes-devs-pushing-the-8-bit-envelope)
 * [2024-03-03, 05:17:30](https://news.ycombinator.com/item?id=39578616) - [How do I stop being such a doomer?](https://news.ycombinator.com/item?id=39578616)
