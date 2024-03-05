@@ -3,6 +3,7 @@
 * [2024-03-05, 10:22:09](https://news.ycombinator.com/item?id=39601538) - [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
 * [2024-03-05, 09:38:52](https://news.ycombinator.com/item?id=39601229) - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+* [2024-03-05, 06:22:03](https://news.ycombinator.com/item?id=39600031) - [Nuke: A memory arena implementation for Go](https://github.com/ortuman/nuke)
 * [2024-03-05, 06:05:05](https://news.ycombinator.com/item?id=39599958) - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
 * [2024-03-05, 03:43:23](https://news.ycombinator.com/item?id=39599175) - [Protecting paths in macro expansions by extending UTF-8](https://nullprogram.com/blog/2024/03/05/)
 * [2024-03-05, 02:47:59](https://news.ycombinator.com/item?id=39598903) - [Sell for half a billion and get nothing (2021)](https://www.fundablestartups.com/blog/half-a-billion)
@@ -29,7 +30,6 @@
 * [2024-03-03, 06:06:42](https://news.ycombinator.com/item?id=39578832) - [Filament – A Language for Fearless Hardware Design](https://filamenthdl.com/)
 * [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
 * [2024-03-02, 12:39:19](https://news.ycombinator.com/item?id=39572164) - [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer/)
-* [2024-03-02, 09:52:53](https://news.ycombinator.com/item?id=39571406) - [Deploying fiber in the home](https://blog.daknob.net/fiber-in-the-home/)
 
 ## [Archives](archives/index.md)
 
