@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-05, 14:01:35",
+      "https://news.ycombinator.com/item?id=39603518"
+    ],
+    [
+      "Likelihood functions, p-values, and the replication crisis",
+      "https://arbital.com/p/likelihoods_not_pvalues/?l=4xx"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 13:34:06",
       "https://news.ycombinator.com/item?id=39603163"
     ],
@@ -277,16 +287,6 @@
     [
       "Filament – A Language for Fearless Hardware Design",
       "https://filamenthdl.com/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 05:55:37",
-      "https://news.ycombinator.com/item?id=39578796"
-    ],
-    [
-      "Velato: A programming language where source code must be a valid MIDI music file",
-      "http://www.velato.net/"
     ]
   ],
   [
