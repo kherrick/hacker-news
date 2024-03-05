@@ -25,9 +25,9 @@
 * [2024-03-03, 13:12:28](https://news.ycombinator.com/item?id=39580609) - [How I listen to music](https://marginalrevolution.com/marginalrevolution/2024/02/how-i-listen-to-music.html)
 * [2024-03-03, 11:38:06](https://news.ycombinator.com/item?id=39580219) - [World Server Throwing Championship](https://www.cloudfest.com/world-server-throwing-championship)
 * [2024-03-03, 08:44:04](https://news.ycombinator.com/item?id=39579465) - [What Is WebTV?](https://goblin-heart.net/sadgrl/shrines/webtv/)
+* [2024-03-03, 07:51:50](https://news.ycombinator.com/item?id=39579253) - [The largest climatized reading space](https://www.snohetta.com/projects/beijing-city-library)
 * [2024-03-03, 06:06:42](https://news.ycombinator.com/item?id=39578832) - [Filament – A Language for Fearless Hardware Design](https://filamenthdl.com/)
 * [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
-* [2024-03-02, 19:29:06](https://news.ycombinator.com/item?id=39575102) - [Tal is the programming language for the Uxn virtual machine (2021)](https://wiki.xxiivv.com/site/uxntal.html)
 * [2024-03-02, 12:39:19](https://news.ycombinator.com/item?id=39572164) - [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer/)
 * [2024-03-02, 09:52:53](https://news.ycombinator.com/item?id=39571406) - [Deploying fiber in the home](https://blog.daknob.net/fiber-in-the-home/)
 
