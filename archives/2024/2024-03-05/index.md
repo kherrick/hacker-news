@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 18:41:12](https://news.ycombinator.com/item?id=39607551) - [Why Rust is worse than C for programming low-level hw](https://infosec.exchange/@lcamtuf/112043612201839620)
 * [2024-03-05, 18:28:18](https://news.ycombinator.com/item?id=39607374) - [Gender gap in tech jobs narrows across advanced economies](https://www.ft.com/content/f37f3af3-2c3a-4082-84c3-e6fe7fe53252)
 * [2024-03-05, 18:27:59](https://news.ycombinator.com/item?id=39607369) - [KDE Neon shows that the Plasma 6 Linux distro is something special](https://www.zdnet.com/article/kde-neon-shows-that-the-plasma-6-linux-distro-is-something-truly-special/)
 * [2024-03-05, 18:08:06](https://news.ycombinator.com/item?id=39607080) - [Why desktop Linux is finally growing in popularity](https://www.zdnet.com/article/5-reasons-why-desktop-linux-is-finally-growing-in-popularity/)
@@ -29,6 +30,7 @@
 * [2024-03-05, 15:36:27](https://news.ycombinator.com/item?id=39604745) - [Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
 * [2024-03-05, 15:35:12](https://news.ycombinator.com/item?id=39604713) - [Is Facebook logging out users?](https://news.ycombinator.com/item?id=39604713)
 * [2024-03-05, 15:31:49](https://news.ycombinator.com/item?id=39604652) - [Parent shaming causes the demographic collapse](https://woodfromeden.substack.com/p/parent-shaming-causes-the-demographic)
+* [2024-03-05, 15:29:21](https://news.ycombinator.com/item?id=39604621) - [A Vanishing World: On Europe's Disappearing Peasantry](https://lithub.com/a-vanishing-world-on-europes-disappearing-peasantry/)
 * [2024-03-05, 15:27:57](https://news.ycombinator.com/item?id=39604598) - [Tell HN: Facebook, Instagram authentication looks down worldwide](https://news.ycombinator.com/item?id=39604598)
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Meta outage](https://metastatus.com/)
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Facebook Offline](https://downdetector.com/status/facebook/)

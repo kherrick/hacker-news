@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 18:41:12](https://news.ycombinator.com/item?id=39607551) - [Why Rust is worse than C for programming low-level hw](https://infosec.exchange/@lcamtuf/112043612201839620)
 * [2024-03-05, 18:28:18](https://news.ycombinator.com/item?id=39607374) - [Gender gap in tech jobs narrows across advanced economies](https://www.ft.com/content/f37f3af3-2c3a-4082-84c3-e6fe7fe53252)
-* [2024-03-05, 18:27:59](https://news.ycombinator.com/item?id=39607369) - [KDE Neon shows that the Plasma 6 Linux distro is something special](https://www.zdnet.com/article/kde-neon-shows-that-the-plasma-6-linux-distro-is-something-truly-special/)
-* [2024-03-05, 17:22:21](https://news.ycombinator.com/item?id=39606464) - [Microsoft is ending support for the Windows Subsystem for Android (WSA)](https://learn.microsoft.com/en-us/windows/android/wsa/)
 * [2024-03-05, 17:14:20](https://news.ycombinator.com/item?id=39606371) - [How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
 * [2024-03-05, 17:03:26](https://news.ycombinator.com/item?id=39606245) - [London's Great Stink](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Londons-Great-Stink/)
 * [2024-03-05, 17:00:51](https://news.ycombinator.com/item?id=39606209) - [Keeper (YC S21) hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
@@ -13,6 +12,7 @@
 * [2024-03-05, 15:49:28](https://news.ycombinator.com/item?id=39604975) - [Event Interception](https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html)
 * [2024-03-05, 15:48:56](https://news.ycombinator.com/item?id=39604961) - [Launch HN: Greptile (YC W24) - RAG on codebases that actually works](https://news.ycombinator.com/item?id=39604961)
 * [2024-03-05, 15:36:27](https://news.ycombinator.com/item?id=39604745) - [Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
+* [2024-03-05, 15:29:21](https://news.ycombinator.com/item?id=39604621) - [A Vanishing World: On Europe's Disappearing Peasantry](https://lithub.com/a-vanishing-world-on-europes-disappearing-peasantry/)
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Meta outage](https://metastatus.com/)
 * [2024-03-05, 14:59:29](https://news.ycombinator.com/item?id=39604245) - [Show HN: NeedleDrop – Guess the movie from a song](https://www.needledrop.me/)
 * [2024-03-05, 12:30:22](https://news.ycombinator.com/item?id=39602472) - [The Shen Programming Language](https://shenlanguage.org/)
