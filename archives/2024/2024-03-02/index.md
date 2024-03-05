@@ -68,6 +68,7 @@
 * [2024-03-02, 13:45:22](https://news.ycombinator.com/item?id=39572472) - [Russia acknowledges continuing air leak from its segment of space station](https://www.theguardian.com/science/2024/feb/28/russia-acknowledges-continuing-air-leak-from-its-segment-of-space-station)
 * [2024-03-02, 13:39:12](https://news.ycombinator.com/item?id=39572441) - [Rogue Editors Started a Competing Wikipedia That's Only About Roads](https://gizmodo.com/competing-wikipedia-editors-only-about-roads-aaroads-1851298769)
 * [2024-03-02, 13:31:43](https://news.ycombinator.com/item?id=39572395) - [How the Brexit dream of Singapore-on-Thames was lost](https://www.telegraph.co.uk/business/2024/02/28/uk-eu-are-being-pushed-back-together/)
+* [2024-03-02, 12:39:19](https://news.ycombinator.com/item?id=39572164) - [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer/)
 * [2024-03-02, 12:36:01](https://news.ycombinator.com/item?id=39572149) - [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
 * [2024-03-02, 12:27:22](https://news.ycombinator.com/item?id=39572106) - [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
 * [2024-03-02, 12:18:07](https://news.ycombinator.com/item?id=39572050) - [GitHub struggles to keep up with automated malicious forks](https://www.theregister.com/2024/03/01/github_automated_fork_campaign/)
