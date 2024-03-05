@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-05, 20:02:57](https://news.ycombinator.com/item?id=39608503) - [Microsoft is killing off the Android apps in Windows 11 feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-off-the-android-apps-in-windows-11-feature/)
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 * [2024-03-05, 18:57:03](https://news.ycombinator.com/item?id=39607747) - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
 * [2024-03-05, 18:47:36](https://news.ycombinator.com/item?id=39607630) - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
@@ -27,6 +26,7 @@
 * [2024-03-05, 10:44:01](https://news.ycombinator.com/item?id=39601710) - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:05:05](https://news.ycombinator.com/item?id=39599958) - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
+* [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform (2012)](https://ieeexplore.ieee.org/abstract/document/6319640)
 * [2024-03-04, 10:35:27](https://news.ycombinator.com/item?id=39588895) - [Flexagon](https://en.wikipedia.org/wiki/Flexagon)
 * [2024-03-04, 07:03:10](https://news.ycombinator.com/item?id=39587744) - [The Ipe extensible drawing editor](https://ipe.otfried.org/)
