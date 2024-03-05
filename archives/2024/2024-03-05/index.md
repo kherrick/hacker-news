@@ -12,6 +12,7 @@
 * [2024-03-05, 06:05:05](https://news.ycombinator.com/item?id=39599958) - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
 * [2024-03-05, 05:20:58](https://news.ycombinator.com/item?id=39599736) - [Apple Fined $2B in One of Europe's Largest Antitrust Actions](https://www.wsj.com/tech/apple-hit-with-near-2-billion-fine-in-europe-over-music-streaming-apps-74062ff7)
 * [2024-03-05, 04:05:03](https://news.ycombinator.com/item?id=39599312) - [Claude 3 Opus suspects it is being tested from benchmark question](https://twitter.com/alexalbert__/status/1764722513014329620)
+* [2024-03-05, 03:43:23](https://news.ycombinator.com/item?id=39599175) - [Protecting paths in macro expansions by extending UTF-8](https://nullprogram.com/blog/2024/03/05/)
 * [2024-03-05, 03:38:50](https://news.ycombinator.com/item?id=39599150) - [\"I became a writer to get rich\" (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 * [2024-03-05, 03:13:13](https://news.ycombinator.com/item?id=39599051) - [Investigating immune response of a man who received 217 Covid vaccines](https://www.fau.eu/2024/03/05/news/research/researchers-investigate-immune-response-of-a-man-who-received-217-covid-vaccinations/)
 * [2024-03-05, 02:47:59](https://news.ycombinator.com/item?id=39598903) - [Sell your startup for half a billion and get nothing](https://www.fundablestartups.com/blog/half-a-billion)

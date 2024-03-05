@@ -4,9 +4,9 @@
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 07:37:57](https://news.ycombinator.com/item?id=39600426) - [Dell exec reveals Nvidia has a 1,000-watt GPU in the works](https://www.theregister.com/2024/03/05/nvidias_b100_gpu_1000w/)
 * [2024-03-05, 06:05:05](https://news.ycombinator.com/item?id=39599958) - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
+* [2024-03-05, 03:43:23](https://news.ycombinator.com/item?id=39599175) - [Protecting paths in macro expansions by extending UTF-8](https://nullprogram.com/blog/2024/03/05/)
 * [2024-03-05, 03:38:50](https://news.ycombinator.com/item?id=39599150) - [A moment of financial clarification (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 * [2024-03-05, 02:47:59](https://news.ycombinator.com/item?id=39598903) - [Sell for half a billion and get nothing (2021)](https://www.fundablestartups.com/blog/half-a-billion)
-* [2024-03-05, 02:30:47](https://news.ycombinator.com/item?id=39598776) - [Screen time robs average toddler of hearing 1,000 words spoken by adult a day](https://www.theguardian.com/australia-news/2024/mar/04/does-children-toddlers-kids-watching-tv-impact-development-learning)
 * [2024-03-05, 01:02:57](https://news.ycombinator.com/item?id=39598189) - [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 * [2024-03-05, 01:00:08](https://news.ycombinator.com/item?id=39598170) - [CodeCrafters (YC S22) is hiring an influencer manager (interns welcome)](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
 * [2024-03-05, 00:15:10](https://news.ycombinator.com/item?id=39597847) - [Based: Simple linear attention language models](https://www.together.ai/blog/based)
@@ -22,6 +22,7 @@
 * [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [Singapore Airlines Concorde](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
 * [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
+* [2024-03-04, 06:19:40](https://news.ycombinator.com/item?id=39587535) - [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
 * [2024-03-03, 15:25:51](https://news.ycombinator.com/item?id=39581398) - [Mustard](https://chloelist.substack.com/p/issue-12-mustard)
 * [2024-03-03, 11:38:06](https://news.ycombinator.com/item?id=39580219) - [World Server Throwing Championship](https://www.cloudfest.com/world-server-throwing-championship)
 * [2024-03-03, 08:44:04](https://news.ycombinator.com/item?id=39579465) - [What Is WebTV?](https://goblin-heart.net/sadgrl/shrines/webtv/)
@@ -29,7 +30,6 @@
 * [2024-03-03, 06:06:42](https://news.ycombinator.com/item?id=39578832) - [Filament – A Language for Fearless Hardware Design](https://filamenthdl.com/)
 * [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
 * [2024-03-02, 12:39:19](https://news.ycombinator.com/item?id=39572164) - [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer/)
-* [2024-03-02, 09:52:53](https://news.ycombinator.com/item?id=39571406) - [Deploying fiber in the home](https://blog.daknob.net/fiber-in-the-home/)
 
 ## [Archives](archives/index.md)
 
