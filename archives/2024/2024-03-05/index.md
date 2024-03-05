@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 15:36:32](https://news.ycombinator.com/item?id=39604746) - [Facebook Is Not Working](https://metastatus.com/)
+* [2024-03-05, 15:35:12](https://news.ycombinator.com/item?id=39604713) - [Is Facebook logging out users?](https://news.ycombinator.com/item?id=39604713)
+* [2024-03-05, 15:27:57](https://news.ycombinator.com/item?id=39604598) - [Tell HN: Facebook, Instagram authentication looks down worldwide](https://news.ycombinator.com/item?id=39604598)
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Facebook Offline](https://downdetector.com/status/facebook/)
 * [2024-03-05, 15:07:37](https://news.ycombinator.com/item?id=39604340) - [Nvidia bans using translation layers for CUDA software](https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers#:%5C%7E:text=Nvidia%20has%20banned%20running%20CUDA,system%20during%20the%20installation%20process)
 * [2024-03-05, 14:32:48](https://news.ycombinator.com/item?id=39603938) - [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
 * [2024-03-05, 14:01:35](https://news.ycombinator.com/item?id=39603518) - [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [IDF 'using spyware and AI targeting' to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
+* [2024-03-05, 13:37:27](https://news.ycombinator.com/item?id=39603207) - [Large language models can do jaw-dropping things. But nobody knows why](https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/)
 * [2024-03-05, 13:34:06](https://news.ycombinator.com/item?id=39603163) - [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
 * [2024-03-05, 13:27:59](https://news.ycombinator.com/item?id=39603074) - [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
 * [2024-03-05, 12:53:39](https://news.ycombinator.com/item?id=39602672) - [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
