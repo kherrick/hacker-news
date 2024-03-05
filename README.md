@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 02:18:21](https://news.ycombinator.com/item?id=39598703) - [Natron: Open-Source Alternative to Adobe After Effects](https://www.linuxtechmore.com/2024/03/linux-apps-tour-unveiling-natron-your-open-source-alternative-to-adobe-after-effects.html)
 * [2024-03-05, 01:02:57](https://news.ycombinator.com/item?id=39598189) - [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 * [2024-03-05, 01:00:08](https://news.ycombinator.com/item?id=39598170) - [CodeCrafters (YC S22) is hiring an influencer manager (interns welcome)](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
 * [2024-03-05, 00:15:10](https://news.ycombinator.com/item?id=39597847) - [Based: Simple linear attention language models](https://www.together.ai/blog/based)
@@ -22,7 +23,6 @@
 * [2024-03-04, 14:09:46](https://news.ycombinator.com/item?id=39590683) - [Revy – proof-of-concept time-travel debugger for the Bevy game engine](https://github.com/rerun-io/revy)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
 * [2024-03-04, 12:10:59](https://news.ycombinator.com/item?id=39589479) - [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
-* [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [Singapore Airlines Concorde](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
 * [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
 * [2024-03-03, 11:38:06](https://news.ycombinator.com/item?id=39580219) - [World Server Throwing Championship](https://www.cloudfest.com/world-server-throwing-championship)
 * [2024-03-03, 08:44:04](https://news.ycombinator.com/item?id=39579465) - [What Is WebTV?](https://goblin-heart.net/sadgrl/shrines/webtv/)
