@@ -15,6 +15,7 @@
 * [2024-03-05, 20:28:42](https://news.ycombinator.com/item?id=39608787) - [Magicschool.ai: An AI assistant for every teacher in the world](https://www.magicschool.ai/)
 * [2024-03-05, 20:18:17](https://news.ycombinator.com/item?id=39608702) - [Ask HN: AWS Down?](https://news.ycombinator.com/item?id=39608702)
 * [2024-03-05, 20:17:38](https://news.ycombinator.com/item?id=39608691) - [Observable Framework 1.1](https://github.com/observablehq/framework/releases/tag/v1.1.0)
+* [2024-03-05, 20:13:47](https://news.ycombinator.com/item?id=39608641) - [New Federal Rule Caps Credit Card Late Fees at $8](https://www.nytimes.com/2024/03/05/business/credit-card-late-fees.html)
 * [2024-03-05, 20:10:38](https://news.ycombinator.com/item?id=39608601) - [Logic Programming in Rust](https://s-arash.github.io/ascent/)
 * [2024-03-05, 20:02:57](https://news.ycombinator.com/item?id=39608503) - [Microsoft is killing off the Android apps in Windows 11 feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-off-the-android-apps-in-windows-11-feature/)
 * [2024-03-05, 19:44:24](https://news.ycombinator.com/item?id=39608319) - [Fighting Monopoly Can Save Journalism](https://washingtonmonthly.com/2024/01/16/how-fighting-monopoly-can-save-journalism/)
