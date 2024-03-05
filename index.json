@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-03-05, 15:07:37",
-      "https://news.ycombinator.com/item?id=39604340"
+      "2024-03-05, 15:27:43",
+      "https://news.ycombinator.com/item?id=39604590"
     ],
     [
-      "Nvidia bans using translation layers for CUDA software",
-      "https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers#:%5C%7E:text=Nvidia%20has%20banned%20running%20CUDA,system%20during%20the%20installation%20process"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 14:32:48",
-      "https://news.ycombinator.com/item?id=39603938"
-    ],
-    [
-      "Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance",
-      "https://accessibilityaid.com/"
+      "Facebook Offline",
+      "https://downdetector.com/status/facebook/"
     ]
   ],
   [
@@ -37,26 +27,6 @@
     [
       "Generative AI and the widening software developer knowledge gap",
       "https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 13:27:59",
-      "https://news.ycombinator.com/item?id=39603074"
-    ],
-    [
-      "Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure",
-      "https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 12:34:25",
-      "https://news.ycombinator.com/item?id=39602500"
-    ],
-    [
-      "Show HN: Hacker News Badges (Unofficial)",
-      "https://hnbadges.com/?retry"
     ]
   ],
   [
@@ -151,6 +121,16 @@
   ],
   [
     [
+      "2024-03-05, 03:43:23",
+      "https://news.ycombinator.com/item?id=39599175"
+    ],
+    [
+      "Protecting paths in macro expansions by extending UTF-8",
+      "https://nullprogram.com/blog/2024/03/05/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 02:47:59",
       "https://news.ycombinator.com/item?id=39598903"
     ],
@@ -177,16 +157,6 @@
     [
       "CodeCrafters (YC S22) is hiring an influencer manager (interns welcome)",
       "https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 00:15:10",
-      "https://news.ycombinator.com/item?id=39597847"
-    ],
-    [
-      "Based: Simple linear attention language models",
-      "https://www.together.ai/blog/based"
     ]
   ],
   [
@@ -231,6 +201,16 @@
   ],
   [
     [
+      "2024-03-04, 16:03:45",
+      "https://news.ycombinator.com/item?id=39591972"
+    ],
+    [
+      "Launch HN: Just words (YC W24) – Optimize your product's copy for user growth",
+      "https://news.ycombinator.com/item?id=39591972"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 10:35:27",
       "https://news.ycombinator.com/item?id=39588895"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2024-03-03, 15:25:51",
+      "https://news.ycombinator.com/item?id=39581398"
+    ],
+    [
+      "Mustard",
+      "https://chloelist.substack.com/p/issue-12-mustard"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 13:18:03",
       "https://news.ycombinator.com/item?id=39580647"
     ],
@@ -287,6 +277,16 @@
     [
       "How Automated Content Moderation Works (Even When It Doesn't)",
       "https://themarkup.org/automated-censorship/2024/03/01/how-automated-content-moderation-works-even-when-it-doesnt-work"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 05:55:37",
+      "https://news.ycombinator.com/item?id=39578796"
+    ],
+    [
+      "Velato: A programming language where source code must be a valid MIDI music file",
+      "http://www.velato.net/"
     ]
   ],
   [
