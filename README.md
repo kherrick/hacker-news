@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+* [2024-03-05, 04:05:03](https://news.ycombinator.com/item?id=39599312) - [Claude 3 Opus suspects it is being tested from benchmark question](https://twitter.com/alexalbert__/status/1764722513014329620)
 * [2024-03-05, 03:38:50](https://news.ycombinator.com/item?id=39599150) - [A moment of financial clarification (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 * [2024-03-05, 02:47:59](https://news.ycombinator.com/item?id=39598903) - [Sell for half a billion and get nothing (2021)](https://www.fundablestartups.com/blog/half-a-billion)
 * [2024-03-05, 02:30:47](https://news.ycombinator.com/item?id=39598776) - [Screen time robs average toddler of hearing 1,000 words spoken by adult a day](https://www.theguardian.com/australia-news/2024/mar/04/does-children-toddlers-kids-watching-tv-impact-development-learning)
@@ -11,7 +13,6 @@
 * [2024-03-04, 22:42:04](https://news.ycombinator.com/item?id=39597131) - [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 19:06:18](https://news.ycombinator.com/item?id=39594541) - [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
-* [2024-03-04, 18:46:46](https://news.ycombinator.com/item?id=39594275) - [Le Grand K (2018)](https://www.atlasobscura.com/places/le-grand-k)
 * [2024-03-04, 16:42:14](https://news.ycombinator.com/item?id=39592444) - [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 16:30:17](https://news.ycombinator.com/item?id=39592280) - [The Rise and Fall of Adam Osborne](https://every.to/the-crazy-ones/the-rise-and-fall-of-steve-jobs-s-greatest-rival)
 * [2024-03-04, 16:03:45](https://news.ycombinator.com/item?id=39591972) - [Launch HN: Just words (YC W24) – Optimize your product's copy for user growth](https://news.ycombinator.com/item?id=39591972)
@@ -19,7 +20,6 @@
 * [2024-03-04, 14:46:54](https://news.ycombinator.com/item?id=39591115) - [What flying was like fifty years ago](https://airfactsjournal.com/2024/03/remembering-what-flying-was-like-fifty-years-ago/)
 * [2024-03-04, 14:24:37](https://news.ycombinator.com/item?id=39590852) - [Ephemeral usernames safeguard privacy and make Signal harder to subpoena](https://theintercept.com/2024/03/04/signal-app-username-phone-number-privacy/)
 * [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
-* [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [Singapore Airlines Concorde](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
 * [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
 * [2024-03-03, 15:25:51](https://news.ycombinator.com/item?id=39581398) - [Mustard](https://chloelist.substack.com/p/issue-12-mustard)
