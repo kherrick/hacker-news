@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 16:11:38](https://news.ycombinator.com/item?id=39605453) - [Red Sea cables have been damaged, disrupting internet traffic](https://www.cnn.com/2024/03/04/business/red-sea-cables-cut-internet/index.html)
+* [2024-03-05, 16:10:20](https://news.ycombinator.com/item?id=39605438) - [Prompt injection and jailbreaking are not the same thing](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/)
+* [2024-03-05, 15:48:56](https://news.ycombinator.com/item?id=39604961) - [Launch HN: Greptile (YC W24) - RAG on codebases that actually works](https://news.ycombinator.com/item?id=39604961)
 * [2024-03-05, 15:36:32](https://news.ycombinator.com/item?id=39604746) - [Facebook Is Not Working](https://metastatus.com/)
 * [2024-03-05, 15:36:27](https://news.ycombinator.com/item?id=39604745) - [Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
 * [2024-03-05, 15:35:12](https://news.ycombinator.com/item?id=39604713) - [Is Facebook logging out users?](https://news.ycombinator.com/item?id=39604713)
@@ -12,6 +15,7 @@
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Meta outage](https://metastatus.com/)
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Facebook Offline](https://downdetector.com/status/facebook/)
 * [2024-03-05, 15:07:37](https://news.ycombinator.com/item?id=39604340) - [Nvidia bans using translation layers for CUDA software](https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers#:%5C%7E:text=Nvidia%20has%20banned%20running%20CUDA,system%20during%20the%20installation%20process)
+* [2024-03-05, 15:06:00](https://news.ycombinator.com/item?id=39604320) - [Tesla Berlin gigafactory goes dark after alleged eco-sabotage](https://www.theregister.com/2024/03/05/tesla_berlin_arson_attack/)
 * [2024-03-05, 14:32:48](https://news.ycombinator.com/item?id=39603938) - [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
 * [2024-03-05, 14:01:35](https://news.ycombinator.com/item?id=39603518) - [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [IDF 'using spyware and AI targeting' to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
