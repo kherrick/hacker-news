@@ -22,7 +22,7 @@
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Meta outage](https://metastatus.com/)
 * [2024-03-05, 14:59:29](https://news.ycombinator.com/item?id=39604245) - [Show HN: NeedleDrop – Guess the movie from a song](https://www.needledrop.me/)
 * [2024-03-05, 13:28:56](https://news.ycombinator.com/item?id=39603087) - [Nerdy internals of an Apple text editor](https://papereditor.app/internals)
-* [2024-03-05, 12:31:57](https://news.ycombinator.com/item?id=39602480) - [The Beauty of Roots](https://math.ucr.edu/home/baez/roots/)
+* [2024-03-05, 12:31:57](https://news.ycombinator.com/item?id=39602480) - [The Beauty of Roots (2023)](https://math.ucr.edu/home/baez/roots/)
 * [2024-03-05, 12:30:22](https://news.ycombinator.com/item?id=39602472) - [The Shen Programming Language](https://shenlanguage.org/)
 * [2024-03-05, 10:44:01](https://news.ycombinator.com/item?id=39601710) - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
