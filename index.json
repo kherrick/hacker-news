@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-05, 20:28:42",
+      "https://news.ycombinator.com/item?id=39608787"
+    ],
+    [
+      "Magicschool.ai: An AI assistant for every teacher in the world",
+      "https://www.magicschool.ai/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 20:18:17",
       "https://news.ycombinator.com/item?id=39608702"
     ],
@@ -117,16 +127,6 @@
     [
       "Kagi and Wolfram",
       "https://blog.kagi.com/kagi-wolfram"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 16:41:39",
-      "https://news.ycombinator.com/item?id=39605923"
-    ],
-    [
-      "Show HN: Workout Tracker PWA",
-      "https://workout.olzhasar.com/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-03-04, 22:31:15",
-      "https://news.ycombinator.com/item?id=39597030"
-    ],
-    [
-      "Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"",
-      "https://github.com/HeyPuter/puter"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 10:49:36",
       "https://news.ycombinator.com/item?id=39588977"
     ],
@@ -297,6 +287,16 @@
     [
       "The Ipe extensible drawing editor",
       "https://ipe.otfried.org/"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 06:51:08",
+      "https://news.ycombinator.com/item?id=39579027"
+    ],
+    [
+      "IP session management and smart proxy rotation",
+      "https://blog.apify.com/rotating-proxies/"
     ]
   ]
 ]
