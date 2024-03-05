@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
 * [2024-03-05, 12:53:39](https://news.ycombinator.com/item?id=39602672) - [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
+* [2024-03-05, 12:30:22](https://news.ycombinator.com/item?id=39602472) - [The Shen Programming Language](https://shenlanguage.org/)
 * [2024-03-05, 12:29:02](https://news.ycombinator.com/item?id=39602458) - [Sergey Brin says in rare appearance that company 'messed up' Gemini image launch](https://www.cnbc.com/2024/03/04/sergey-brin-says-google-definitely-messed-up-with-gemini-launch-.html)
 * [2024-03-05, 12:22:57](https://news.ycombinator.com/item?id=39602417) - [Facing reality about the EU is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
+* [2024-03-05, 12:12:48](https://news.ycombinator.com/item?id=39602343) - [LibraryBox](https://jasongriffey.net/librarybox/)
 * [2024-03-05, 11:28:21](https://news.ycombinator.com/item?id=39602035) - [France enshrines 'freedom' to abortion in Constitution, in world first](https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html)
 * [2024-03-05, 11:26:39](https://news.ycombinator.com/item?id=39602023) - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
+* [2024-03-05, 10:44:01](https://news.ycombinator.com/item?id=39601710) - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
 * [2024-03-05, 10:22:09](https://news.ycombinator.com/item?id=39601538) - [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
 * [2024-03-05, 09:38:52](https://news.ycombinator.com/item?id=39601229) - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
 * [2024-03-05, 09:34:35](https://news.ycombinator.com/item?id=39601201) - [Library of Juggling](http://libraryofjuggling.com/)
