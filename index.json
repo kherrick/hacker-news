@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-05, 20:32:44",
+      "https://news.ycombinator.com/item?id=39608822"
+    ],
+    [
+      "Array Languages vs. the Curse of the Spreadsheet",
+      "https://blog.dhsdevelopments.com/array-languages-vs"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 20:17:38",
+      "https://news.ycombinator.com/item?id=39608691"
+    ],
+    [
+      "Observable Framework 1.1",
+      "https://github.com/observablehq/framework/releases/tag/v1.1.0"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 18:57:24",
       "https://news.ycombinator.com/item?id=39607753"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-03-05, 06:05:05",
-      "https://news.ycombinator.com/item?id=39599958"
-    ],
-    [
-      "Stable Diffusion 3: Research Paper",
-      "https://stability.ai/news/stable-diffusion-3-research-paper"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 22:31:15",
       "https://news.ycombinator.com/item?id=39597030"
     ],
@@ -287,16 +297,6 @@
     [
       "The Ipe extensible drawing editor",
       "https://ipe.otfried.org/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 06:51:08",
-      "https://news.ycombinator.com/item?id=39579027"
-    ],
-    [
-      "IP session management and smart proxy rotation",
-      "https://blog.apify.com/rotating-proxies/"
     ]
   ]
 ]
