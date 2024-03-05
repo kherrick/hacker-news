@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-05, 20:10:38",
+      "https://news.ycombinator.com/item?id=39608601"
+    ],
+    [
+      "Logic Programming in Rust",
+      "https://s-arash.github.io/ascent/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 18:57:24",
       "https://news.ycombinator.com/item?id=39607753"
     ],
@@ -37,16 +47,6 @@
     [
       "This Is Knuth 3:16 (2002)",
       "http://www.larry.denenberg.com/Knuth-3-16/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 18:00:44",
-      "https://news.ycombinator.com/item?id=39606973"
-    ],
-    [
-      "JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities (Fixed)",
-      "https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/"
     ]
   ],
   [
