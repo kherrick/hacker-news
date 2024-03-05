@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 14:01:35](https://news.ycombinator.com/item?id=39603518) - [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
 * [2024-03-05, 13:34:06](https://news.ycombinator.com/item?id=39603163) - [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
 * [2024-03-05, 13:27:59](https://news.ycombinator.com/item?id=39603074) - [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
 * [2024-03-05, 12:34:25](https://news.ycombinator.com/item?id=39602500) - [Show HN: Hacker News Badges (Unofficial)](https://hnbadges.com/?retry)
@@ -28,7 +29,6 @@
 * [2024-03-03, 13:18:03](https://news.ycombinator.com/item?id=39580647) - [Evo: DNA foundation modeling from molecular to genome scale](https://arcinstitute.org/news/blog/evo)
 * [2024-03-03, 08:47:23](https://news.ycombinator.com/item?id=39579480) - [How Automated Content Moderation Works (Even When It Doesn't)](https://themarkup.org/automated-censorship/2024/03/01/how-automated-content-moderation-works-even-when-it-doesnt-work)
 * [2024-03-03, 06:06:42](https://news.ycombinator.com/item?id=39578832) - [Filament – A Language for Fearless Hardware Design](https://filamenthdl.com/)
-* [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
 * [2024-03-02, 12:39:19](https://news.ycombinator.com/item?id=39572164) - [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer/)
 
 ## [Archives](archives/index.md)
