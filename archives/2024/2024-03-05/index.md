@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 19:19:38](https://news.ycombinator.com/item?id=39607993) - [Adding Systemd to PostmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 * [2024-03-05, 18:47:36](https://news.ycombinator.com/item?id=39607630) - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
 * [2024-03-05, 18:41:12](https://news.ycombinator.com/item?id=39607551) - [Why Rust is worse than C for programming low-level hw](https://infosec.exchange/@lcamtuf/112043612201839620)
+* [2024-03-05, 18:30:47](https://news.ycombinator.com/item?id=39607412) - [This Is Knuth 3:16](http://www.larry.denenberg.com/Knuth-3-16/)
 * [2024-03-05, 18:28:18](https://news.ycombinator.com/item?id=39607374) - [Gender gap in tech jobs narrows across advanced economies](https://www.ft.com/content/f37f3af3-2c3a-4082-84c3-e6fe7fe53252)
 * [2024-03-05, 18:27:59](https://news.ycombinator.com/item?id=39607369) - [KDE Neon shows that the Plasma 6 Linux distro is something special](https://www.zdnet.com/article/kde-neon-shows-that-the-plasma-6-linux-distro-is-something-truly-special/)
 * [2024-03-05, 18:08:06](https://news.ycombinator.com/item?id=39607080) - [Why desktop Linux is finally growing in popularity](https://www.zdnet.com/article/5-reasons-why-desktop-linux-is-finally-growing-in-popularity/)
 * [2024-03-05, 18:00:44](https://news.ycombinator.com/item?id=39606973) - [JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities (Fixed)](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)
+* [2024-03-05, 17:53:22](https://news.ycombinator.com/item?id=39606885) - [The \"missing\" graph datatype already exists. It was invented in the '70s](https://tylerhou.com/posts/datalog-go-brrr/)
 * [2024-03-05, 17:47:30](https://news.ycombinator.com/item?id=39606815) - [Nissan drops app support for the original Leaf](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/nissan-drops-app-support-for-the-original-leaf-are-evs-now-as-disposable-as-iphones)
 * [2024-03-05, 17:22:21](https://news.ycombinator.com/item?id=39606464) - [Microsoft is ending support for the Windows Subsystem for Android (WSA)](https://learn.microsoft.com/en-us/windows/android/wsa/)
 * [2024-03-05, 17:14:20](https://news.ycombinator.com/item?id=39606371) - [How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)

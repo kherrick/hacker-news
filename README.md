@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 19:19:38](https://news.ycombinator.com/item?id=39607993) - [Adding Systemd to PostmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 * [2024-03-05, 18:47:36](https://news.ycombinator.com/item?id=39607630) - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
-* [2024-03-05, 18:28:18](https://news.ycombinator.com/item?id=39607374) - [Gender gap in tech jobs narrows across advanced economies](https://www.ft.com/content/f37f3af3-2c3a-4082-84c3-e6fe7fe53252)
+* [2024-03-05, 18:30:47](https://news.ycombinator.com/item?id=39607412) - [This Is Knuth 3:16](http://www.larry.denenberg.com/Knuth-3-16/)
 * [2024-03-05, 18:00:44](https://news.ycombinator.com/item?id=39606973) - [JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities (Fixed)](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)
+* [2024-03-05, 17:53:22](https://news.ycombinator.com/item?id=39606885) - [The \"missing\" graph datatype already exists. It was invented in the '70s](https://tylerhou.com/posts/datalog-go-brrr/)
 * [2024-03-05, 17:22:21](https://news.ycombinator.com/item?id=39606464) - [Microsoft is ending support for the Windows Subsystem for Android (WSA)](https://learn.microsoft.com/en-us/windows/android/wsa/)
 * [2024-03-05, 17:14:20](https://news.ycombinator.com/item?id=39606371) - [How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
 * [2024-03-05, 17:03:26](https://news.ycombinator.com/item?id=39606245) - [London's Great Stink](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Londons-Great-Stink/)
@@ -27,8 +29,6 @@
 * [2024-03-04, 10:35:27](https://news.ycombinator.com/item?id=39588895) - [Flexagon](https://en.wikipedia.org/wiki/Flexagon)
 * [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-04, 07:03:10](https://news.ycombinator.com/item?id=39587744) - [The Ipe extensible drawing editor](https://ipe.otfried.org/)
-* [2024-03-04, 07:01:08](https://news.ycombinator.com/item?id=39587738) - [How to create a sticky changelog component with Tailwind CSS and Astro.js](https://lexingtonthemes.com/tutorials/how-to-create-a-sticky-changelog-with-tailwind-css-and-astrojs/)
-* [2024-03-03, 08:47:23](https://news.ycombinator.com/item?id=39579480) - [How Automated Content Moderation Works (Even When It Doesn't)](https://themarkup.org/automated-censorship/2024/03/01/how-automated-content-moderation-works-even-when-it-doesnt-work)
 * [2024-03-03, 07:51:50](https://news.ycombinator.com/item?id=39579253) - [The largest climatized reading space](https://www.snohetta.com/projects/beijing-city-library)
 
 ## [Archives](archives/index.md)
