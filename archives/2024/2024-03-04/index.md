@@ -72,6 +72,7 @@
 * [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform](https://ieeexplore.ieee.org/abstract/document/6319640)
 * [2024-03-04, 10:36:14](https://news.ycombinator.com/item?id=39588899) - [What Is a Schur Decomposition?](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
 * [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [The Singapore Airlines Concorde: The full story](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
+* [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-04, 10:00:42](https://news.ycombinator.com/item?id=39588708) - [Mercury – Compiler optimized, private Firefox fork](https://thorium.rocks/mercury)
 * [2024-03-04, 07:35:28](https://news.ycombinator.com/item?id=39587947) - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 * [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)

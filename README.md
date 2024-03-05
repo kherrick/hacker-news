@@ -20,7 +20,7 @@
 * [2024-03-04, 16:03:45](https://news.ycombinator.com/item?id=39591972) - [Launch HN: Just words (YC W24) – Optimize your product's copy for user growth](https://news.ycombinator.com/item?id=39591972)
 * [2024-03-04, 15:46:03](https://news.ycombinator.com/item?id=39591772) - [Why it's so challenging to land upright on the moon](https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html)
 * [2024-03-04, 14:46:54](https://news.ycombinator.com/item?id=39591115) - [What flying was like fifty years ago](https://airfactsjournal.com/2024/03/remembering-what-flying-was-like-fifty-years-ago/)
-* [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
+* [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
 * [2024-03-03, 15:25:51](https://news.ycombinator.com/item?id=39581398) - [Mustard](https://chloelist.substack.com/p/issue-12-mustard)
 * [2024-03-03, 13:12:28](https://news.ycombinator.com/item?id=39580609) - [How I listen to music](https://marginalrevolution.com/marginalrevolution/2024/02/how-i-listen-to-music.html)
