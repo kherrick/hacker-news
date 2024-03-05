@@ -65,6 +65,7 @@
 * [2024-03-03, 15:38:40](https://news.ycombinator.com/item?id=39581498) - [A kids' novel inspired me to simulate a gene drive on 86M genealogy profiles](https://worthdoingbadly.com/familytree/)
 * [2024-03-03, 15:32:06](https://news.ycombinator.com/item?id=39581440) - [Writers can write anything. Programmers can't](https://www.mahendraker.com/blog/writing)
 * [2024-03-03, 15:29:41](https://news.ycombinator.com/item?id=39581416) - [NIST 800-207A: Implementing Zero Trust Architecture](https://www.infoq.com/presentations/nist-800-207a/)
+* [2024-03-03, 15:25:51](https://news.ycombinator.com/item?id=39581398) - [Mustard](https://chloelist.substack.com/p/issue-12-mustard)
 * [2024-03-03, 15:16:34](https://news.ycombinator.com/item?id=39581341) - [The Classic Adventures Solution Archive](https://www.solutionarchive.com/)
 * [2024-03-03, 15:13:33](https://news.ycombinator.com/item?id=39581324) - [Homebuyers need to make about $50k more than they did pre-pandemic](https://fortune.com/2024/03/02/buying-a-house-expensive-50000-more-salary-pre-pandemic/)
 * [2024-03-03, 14:49:56](https://news.ycombinator.com/item?id=39581156) - [The Repair Shops Where Subway Cars Go for a Makeover](https://www.nytimes.com/2024/03/01/nyregion/subway-repair-shop-new-york.html)
