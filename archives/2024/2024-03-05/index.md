@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [IDF 'using spyware and AI targeting' to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
+* [2024-03-05, 13:34:06](https://news.ycombinator.com/item?id=39603163) - [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
 * [2024-03-05, 13:27:59](https://news.ycombinator.com/item?id=39603074) - [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
 * [2024-03-05, 12:53:39](https://news.ycombinator.com/item?id=39602672) - [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
 * [2024-03-05, 12:34:25](https://news.ycombinator.com/item?id=39602500) - [Show HN: Hacker News Badges (Unofficial)](https://hnbadges.com/?retry)

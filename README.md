@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 13:34:06](https://news.ycombinator.com/item?id=39603163) - [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
 * [2024-03-05, 13:27:59](https://news.ycombinator.com/item?id=39603074) - [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
 * [2024-03-05, 12:34:25](https://news.ycombinator.com/item?id=39602500) - [Show HN: Hacker News Badges (Unofficial)](https://hnbadges.com/?retry)
 * [2024-03-05, 12:30:22](https://news.ycombinator.com/item?id=39602472) - [The Shen Programming Language](https://shenlanguage.org/)
@@ -8,7 +9,6 @@
 * [2024-03-05, 11:26:39](https://news.ycombinator.com/item?id=39602023) - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
 * [2024-03-05, 10:44:01](https://news.ycombinator.com/item?id=39601710) - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
 * [2024-03-05, 10:22:09](https://news.ycombinator.com/item?id=39601538) - [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
-* [2024-03-05, 09:38:52](https://news.ycombinator.com/item?id=39601229) - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
 * [2024-03-05, 09:34:35](https://news.ycombinator.com/item?id=39601201) - [Library of Juggling](http://libraryofjuggling.com/)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:22:03](https://news.ycombinator.com/item?id=39600031) - [Nuke: A memory arena implementation for Go](https://github.com/ortuman/nuke)
