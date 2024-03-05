@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [IDF 'using spyware and AI targeting' to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
+* [2024-03-05, 13:27:59](https://news.ycombinator.com/item?id=39603074) - [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
 * [2024-03-05, 12:53:39](https://news.ycombinator.com/item?id=39602672) - [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
 * [2024-03-05, 12:30:22](https://news.ycombinator.com/item?id=39602472) - [The Shen Programming Language](https://shenlanguage.org/)
 * [2024-03-05, 12:29:02](https://news.ycombinator.com/item?id=39602458) - [Sergey Brin says in rare appearance that company 'messed up' Gemini image launch](https://www.cnbc.com/2024/03/04/sergey-brin-says-google-definitely-messed-up-with-gemini-launch-.html)
