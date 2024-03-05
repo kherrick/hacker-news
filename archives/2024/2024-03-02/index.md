@@ -78,6 +78,7 @@
 * [2024-03-02, 11:27:59](https://news.ycombinator.com/item?id=39571814) - [TextAdept](https://orbitalquark.github.io/textadept/)
 * [2024-03-02, 10:55:27](https://news.ycombinator.com/item?id=39571666) - [JSR – The JavaScript Registry](https://deno.com/blog/jsr_open_beta)
 * [2024-03-02, 10:39:13](https://news.ycombinator.com/item?id=39571593) - [What is Truth in this new AI world and how to make sense of it](https://news.ycombinator.com/item?id=39571593)
+* [2024-03-02, 10:38:48](https://news.ycombinator.com/item?id=39571588) - [Two Planets by Kurd Lasswitz (1897)](https://en.wikipedia.org/wiki/Two_Planets)
 * [2024-03-02, 10:27:22](https://news.ycombinator.com/item?id=39571533) - [I am building Anki for spaced repetition but Better (RepIt)](https://repit.framer.ai/)
 * [2024-03-02, 10:10:02](https://news.ycombinator.com/item?id=39571470) - [The Power of the 0.1x Developer: Unsung Heroes of the Codebase](https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8)
 * [2024-03-02, 10:03:01](https://news.ycombinator.com/item?id=39571439) - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
