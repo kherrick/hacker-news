@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-05, 17:00:51",
+      "https://news.ycombinator.com/item?id=39606209"
+    ],
+    [
+      "Keeper (YC S21) hiring engineers to build AI tax prep",
+      "https://www.workatastartup.com/jobs/64643"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 16:25:46",
       "https://news.ycombinator.com/item?id=39605670"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-03-05, 16:19:37",
+      "https://news.ycombinator.com/item?id=39605588"
+    ],
+    [
+      "Ask HN: How's the current state of hiring in the LLM field?",
+      "https://news.ycombinator.com/item?id=39605588"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 16:14:10",
       "https://news.ycombinator.com/item?id=39605487"
     ],
     [
-      "Why Are There So Many Methane Satellites?",
+      "Why are there so many methane satellites?",
       "https://heatmap.news/technology/methanesat-edf-satellite-gosat"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 16:10:20",
+      "https://news.ycombinator.com/item?id=39605438"
+    ],
+    [
+      "Prompt injection and jailbreaking are not the same thing",
+      "https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/"
     ]
   ],
   [
@@ -141,32 +171,22 @@
   ],
   [
     [
+      "2024-03-05, 03:43:23",
+      "https://news.ycombinator.com/item?id=39599175"
+    ],
+    [
+      "Protecting paths in macro expansions by extending UTF-8",
+      "https://nullprogram.com/blog/2024/03/05/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 02:47:59",
       "https://news.ycombinator.com/item?id=39598903"
     ],
     [
       "Sell for half a billion and get nothing (2021)",
       "https://www.fundablestartups.com/blog/half-a-billion"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 01:02:57",
-      "https://news.ycombinator.com/item?id=39598189"
-    ],
-    [
-      "European crash tester says carmakers must bring back physical controls",
-      "https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 01:00:08",
-      "https://news.ycombinator.com/item?id=39598170"
-    ],
-    [
-      "CodeCrafters (YC S22) is hiring an influencer manager (interns welcome)",
-      "https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager"
     ]
   ],
   [
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2024-03-04, 16:03:45",
-      "https://news.ycombinator.com/item?id=39591972"
+      "2024-03-04, 13:06:27",
+      "https://news.ycombinator.com/item?id=39589978"
     ],
     [
-      "Launch HN: Just words (YC W24) – Optimize your product's copy for user growth",
-      "https://news.ycombinator.com/item?id=39591972"
+      "Lenovo ThinkPad X1 Carbon G12 laptop review: First major refresh in three years",
+      "https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Carbon-G12-laptop-review-First-major-refresh-in-three-years.803321.0.html"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-03-03, 15:25:51",
-      "https://news.ycombinator.com/item?id=39581398"
-    ],
-    [
-      "Mustard",
-      "https://chloelist.substack.com/p/issue-12-mustard"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 13:18:03",
       "https://news.ycombinator.com/item?id=39580647"
     ],
@@ -287,16 +297,6 @@
     [
       "The largest climatized reading space",
       "https://www.snohetta.com/projects/beijing-city-library"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 05:55:37",
-      "https://news.ycombinator.com/item?id=39578796"
-    ],
-    [
-      "Velato: A programming language where source code must be a valid MIDI music file",
-      "http://www.velato.net/"
     ]
   ]
 ]
