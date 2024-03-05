@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 18:28:18](https://news.ycombinator.com/item?id=39607374) - [Gender gap in tech jobs narrows across advanced economies](https://www.ft.com/content/f37f3af3-2c3a-4082-84c3-e6fe7fe53252)
+* [2024-03-05, 18:27:59](https://news.ycombinator.com/item?id=39607369) - [KDE Neon shows that the Plasma 6 Linux distro is something special](https://www.zdnet.com/article/kde-neon-shows-that-the-plasma-6-linux-distro-is-something-truly-special/)
 * [2024-03-05, 17:22:21](https://news.ycombinator.com/item?id=39606464) - [Microsoft is ending support for the Windows Subsystem for Android (WSA)](https://learn.microsoft.com/en-us/windows/android/wsa/)
 * [2024-03-05, 17:14:20](https://news.ycombinator.com/item?id=39606371) - [How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
 * [2024-03-05, 17:03:26](https://news.ycombinator.com/item?id=39606245) - [London's Great Stink](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Londons-Great-Stink/)
@@ -7,7 +9,6 @@
 * [2024-03-05, 16:53:02](https://news.ycombinator.com/item?id=39606093) - [Ancient Counterfeiters and Their Fake Coins](https://coinweek.com/bad-money-ancient-counterfeiters-and-their-fake-coins/)
 * [2024-03-05, 16:50:00](https://news.ycombinator.com/item?id=39606048) - [Kagi and Wolfram](https://blog.kagi.com/kagi-wolfram)
 * [2024-03-05, 16:26:51](https://news.ycombinator.com/item?id=39605682) - [Global Economy Approaches Soft Landing, but Risks Remain](https://www.imf.org/en/Blogs/Articles/2024/01/30/global-economy-approaches-soft-landing-but-risks-remain)
-* [2024-03-05, 16:25:46](https://news.ycombinator.com/item?id=39605670) - [Doks – Build a Docs Site](https://getdoks.org/)
 * [2024-03-05, 16:14:10](https://news.ycombinator.com/item?id=39605487) - [Why are there so many methane satellites?](https://heatmap.news/technology/methanesat-edf-satellite-gosat)
 * [2024-03-05, 15:49:28](https://news.ycombinator.com/item?id=39604975) - [Event Interception](https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html)
 * [2024-03-05, 15:48:56](https://news.ycombinator.com/item?id=39604961) - [Launch HN: Greptile (YC W24) - RAG on codebases that actually works](https://news.ycombinator.com/item?id=39604961)
@@ -22,7 +23,6 @@
 * [2024-03-05, 09:34:35](https://news.ycombinator.com/item?id=39601201) - [Library of Juggling](http://libraryofjuggling.com/)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:05:05](https://news.ycombinator.com/item?id=39599958) - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
-* [2024-03-04, 22:42:04](https://news.ycombinator.com/item?id=39597131) - [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 10:35:27](https://news.ycombinator.com/item?id=39588895) - [Flexagon](https://en.wikipedia.org/wiki/Flexagon)
 * [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
