@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 21:16:10](https://news.ycombinator.com/item?id=39609256) - [European Court Confirms: Weakening Encryption Violates Fundamental Rights](https://www.eff.org/deeplinks/2024/03/european-court-human-rights-confirms-undermining-encryption-violates-fundamental)
 * [2024-03-05, 20:32:44](https://news.ycombinator.com/item?id=39608822) - [Array Languages vs. the Curse of the Spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
-* [2024-03-05, 20:17:38](https://news.ycombinator.com/item?id=39608691) - [Observable Framework 1.1](https://github.com/observablehq/framework/releases/tag/v1.1.0)
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 * [2024-03-05, 18:57:03](https://news.ycombinator.com/item?id=39607747) - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
 * [2024-03-05, 18:47:36](https://news.ycombinator.com/item?id=39607630) - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)

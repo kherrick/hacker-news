@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 21:16:10](https://news.ycombinator.com/item?id=39609256) - [European Court Confirms: Weakening Encryption Violates Fundamental Rights](https://www.eff.org/deeplinks/2024/03/european-court-human-rights-confirms-undermining-encryption-violates-fundamental)
 * [2024-03-05, 20:32:44](https://news.ycombinator.com/item?id=39608822) - [Array Languages vs. the Curse of the Spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-03-05, 20:28:42](https://news.ycombinator.com/item?id=39608787) - [Magicschool.ai: An AI assistant for every teacher in the world](https://www.magicschool.ai/)
 * [2024-03-05, 20:18:17](https://news.ycombinator.com/item?id=39608702) - [Ask HN: AWS Down?](https://news.ycombinator.com/item?id=39608702)
