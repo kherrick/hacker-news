@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-05, 19:19:38",
-      "https://news.ycombinator.com/item?id=39607993"
+      "2024-03-05, 20:02:57",
+      "https://news.ycombinator.com/item?id=39608503"
     ],
     [
-      "Adding Systemd to PostmarketOS",
-      "https://postmarketos.org/blog/2024/03/05/adding-systemd/"
+      "Microsoft is killing off the Android apps in Windows 11 feature",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-off-the-android-apps-in-windows-11-feature/"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-03-05, 16:41:39",
+      "https://news.ycombinator.com/item?id=39605923"
+    ],
+    [
+      "Show HN: Workout Tracker PWA",
+      "https://workout.olzhasar.com/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 16:14:10",
       "https://news.ycombinator.com/item?id=39605487"
     ],
@@ -157,16 +167,6 @@
     [
       "Launch HN: Greptile (YC W24) - RAG on codebases that actually works",
       "https://news.ycombinator.com/item?id=39604961"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 15:36:27",
-      "https://news.ycombinator.com/item?id=39604745"
-    ],
-    [
-      "Open-source project ZLUDA lets CUDA apps run on AMD GPUs",
-      "https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-03-05, 12:31:57",
+      "https://news.ycombinator.com/item?id=39602480"
+    ],
+    [
+      "The Beauty of Roots",
+      "https://math.ucr.edu/home/baez/roots/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 12:30:22",
       "https://news.ycombinator.com/item?id=39602472"
     ],
@@ -237,16 +247,6 @@
     [
       "Why do tree-based models still outperform deep learning on tabular data? (2022)",
       "https://arxiv.org/abs/2207.08815"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 09:34:35",
-      "https://news.ycombinator.com/item?id=39601201"
-    ],
-    [
-      "Library of Juggling",
-      "http://libraryofjuggling.com/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-03-04, 22:31:15",
-      "https://news.ycombinator.com/item?id=39597030"
+      "2024-03-04, 10:49:36",
+      "https://news.ycombinator.com/item?id=39588977"
     ],
     [
-      "Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"",
-      "https://github.com/HeyPuter/puter"
+      "A windowed graph Fourier transform (2012)",
+      "https://ieeexplore.ieee.org/abstract/document/6319640"
     ]
   ],
   [
