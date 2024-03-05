@@ -2,7 +2,6 @@
 
 * [2024-03-05, 12:53:39](https://news.ycombinator.com/item?id=39602672) - [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
 * [2024-03-05, 12:30:22](https://news.ycombinator.com/item?id=39602472) - [The Shen Programming Language](https://shenlanguage.org/)
-* [2024-03-05, 12:29:02](https://news.ycombinator.com/item?id=39602458) - [Sergey Brin says in rare appearance that company 'messed up' Gemini image launch](https://www.cnbc.com/2024/03/04/sergey-brin-says-google-definitely-messed-up-with-gemini-launch-.html)
 * [2024-03-05, 12:22:57](https://news.ycombinator.com/item?id=39602417) - [Facing reality about the EU is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
 * [2024-03-05, 12:12:48](https://news.ycombinator.com/item?id=39602343) - [LibraryBox](https://jasongriffey.net/librarybox/)
 * [2024-03-05, 11:26:39](https://news.ycombinator.com/item?id=39602023) - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
@@ -13,6 +12,7 @@
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:22:03](https://news.ycombinator.com/item?id=39600031) - [Nuke: A memory arena implementation for Go](https://github.com/ortuman/nuke)
 * [2024-03-05, 06:05:05](https://news.ycombinator.com/item?id=39599958) - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
+* [2024-03-05, 03:43:23](https://news.ycombinator.com/item?id=39599175) - [Protecting paths in macro expansions by extending UTF-8](https://nullprogram.com/blog/2024/03/05/)
 * [2024-03-05, 02:47:59](https://news.ycombinator.com/item?id=39598903) - [Sell for half a billion and get nothing (2021)](https://www.fundablestartups.com/blog/half-a-billion)
 * [2024-03-05, 01:02:57](https://news.ycombinator.com/item?id=39598189) - [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 * [2024-03-05, 01:00:08](https://news.ycombinator.com/item?id=39598170) - [CodeCrafters (YC S22) is hiring an influencer manager (interns welcome)](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
