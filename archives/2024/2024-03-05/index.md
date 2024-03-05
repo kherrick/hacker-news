@@ -37,6 +37,7 @@
 * [2024-03-05, 16:53:02](https://news.ycombinator.com/item?id=39606093) - [Ancient Counterfeiters and Their Fake Coins](https://coinweek.com/bad-money-ancient-counterfeiters-and-their-fake-coins/)
 * [2024-03-05, 16:50:00](https://news.ycombinator.com/item?id=39606048) - [Kagi and Wolfram](https://blog.kagi.com/kagi-wolfram)
 * [2024-03-05, 16:41:39](https://news.ycombinator.com/item?id=39605923) - [Show HN: Workout Tracker PWA](https://workout.olzhasar.com/)
+* [2024-03-05, 16:39:02](https://news.ycombinator.com/item?id=39605884) - [Covert Racism in LLMs](https://garymarcus.substack.com/p/covert-racism-in-llms)
 * [2024-03-05, 16:26:51](https://news.ycombinator.com/item?id=39605682) - [Global Economy Approaches Soft Landing, but Risks Remain](https://www.imf.org/en/Blogs/Articles/2024/01/30/global-economy-approaches-soft-landing-but-risks-remain)
 * [2024-03-05, 16:25:46](https://news.ycombinator.com/item?id=39605670) - [Doks – Build a Docs Site](https://getdoks.org/)
 * [2024-03-05, 16:19:37](https://news.ycombinator.com/item?id=39605588) - [Ask HN: How's the current state of hiring in the LLM field?](https://news.ycombinator.com/item?id=39605588)
