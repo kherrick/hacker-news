@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 12:53:39](https://news.ycombinator.com/item?id=39602672) - [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
 * [2024-03-05, 12:29:02](https://news.ycombinator.com/item?id=39602458) - [Sergey Brin says in rare appearance that company 'messed up' Gemini image launch](https://www.cnbc.com/2024/03/04/sergey-brin-says-google-definitely-messed-up-with-gemini-launch-.html)
 * [2024-03-05, 12:22:57](https://news.ycombinator.com/item?id=39602417) - [Facing reality about the EU is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
 * [2024-03-05, 11:28:21](https://news.ycombinator.com/item?id=39602035) - [France enshrines 'freedom' to abortion in Constitution, in world first](https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html)
@@ -16,7 +17,6 @@
 * [2024-03-05, 01:00:08](https://news.ycombinator.com/item?id=39598170) - [CodeCrafters (YC S22) is hiring an influencer manager (interns welcome)](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
 * [2024-03-05, 00:15:10](https://news.ycombinator.com/item?id=39597847) - [Based: Simple linear attention language models](https://www.together.ai/blog/based)
 * [2024-03-04, 23:22:47](https://news.ycombinator.com/item?id=39597525) - [Miles Davis and the recording of Kind of Blue](https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/)
-* [2024-03-04, 22:47:06](https://news.ycombinator.com/item?id=39597184) - [AWS acquires Talen's 960MW nuclear data center campus in Pennsylvania](https://www.datacenterdynamics.com/en/news/aws-acquires-talens-nuclear-data-center-campus-in-pennsylvania/)
 * [2024-03-04, 22:42:04](https://news.ycombinator.com/item?id=39597131) - [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 16:42:14](https://news.ycombinator.com/item?id=39592444) - [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)

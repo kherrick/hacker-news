@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 12:53:39](https://news.ycombinator.com/item?id=39602672) - [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
 * [2024-03-05, 12:29:02](https://news.ycombinator.com/item?id=39602458) - [Sergey Brin says in rare appearance that company 'messed up' Gemini image launch](https://www.cnbc.com/2024/03/04/sergey-brin-says-google-definitely-messed-up-with-gemini-launch-.html)
 * [2024-03-05, 12:22:57](https://news.ycombinator.com/item?id=39602417) - [Facing reality about the EU is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
 * [2024-03-05, 11:28:21](https://news.ycombinator.com/item?id=39602035) - [France enshrines 'freedom' to abortion in Constitution, in world first](https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html)
