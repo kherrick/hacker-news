@@ -24,10 +24,10 @@
 * [2024-03-04, 14:46:54](https://news.ycombinator.com/item?id=39591115) - [What flying was like fifty years ago](https://airfactsjournal.com/2024/03/remembering-what-flying-was-like-fifty-years-ago/)
 * [2024-03-04, 07:06:43](https://news.ycombinator.com/item?id=39587763) - [Scientists put Jared Diamond's continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
 * [2024-03-03, 15:25:51](https://news.ycombinator.com/item?id=39581398) - [Mustard](https://chloelist.substack.com/p/issue-12-mustard)
+* [2024-03-03, 13:12:28](https://news.ycombinator.com/item?id=39580609) - [How I Listen to Music](https://marginalrevolution.com/marginalrevolution/2024/02/how-i-listen-to-music.html)
 * [2024-03-03, 11:38:06](https://news.ycombinator.com/item?id=39580219) - [World Server Throwing Championship](https://www.cloudfest.com/world-server-throwing-championship)
 * [2024-03-03, 08:44:04](https://news.ycombinator.com/item?id=39579465) - [What Is WebTV?](https://goblin-heart.net/sadgrl/shrines/webtv/)
 * [2024-03-03, 06:06:42](https://news.ycombinator.com/item?id=39578832) - [Filament – A Language for Fearless Hardware Design](https://filamenthdl.com/)
-* [2024-03-02, 19:29:06](https://news.ycombinator.com/item?id=39575102) - [Tal is the programming language for the Uxn virtual machine (2021)](https://wiki.xxiivv.com/site/uxntal.html)
 * [2024-03-02, 12:39:19](https://news.ycombinator.com/item?id=39572164) - [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer/)
 * [2024-03-02, 09:52:53](https://news.ycombinator.com/item?id=39571406) - [Deploying fiber in the home](https://blog.daknob.net/fiber-in-the-home/)
 
