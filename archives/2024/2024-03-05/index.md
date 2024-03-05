@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
 * [2024-03-05, 17:00:51](https://news.ycombinator.com/item?id=39606209) - [Keeper (YC S21) hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
+* [2024-03-05, 16:26:51](https://news.ycombinator.com/item?id=39605682) - [Global Economy Approaches Soft Landing, but Risks Remain](https://www.imf.org/en/Blogs/Articles/2024/01/30/global-economy-approaches-soft-landing-but-risks-remain)
 * [2024-03-05, 16:25:46](https://news.ycombinator.com/item?id=39605670) - [Doks – Build a Docs Site](https://getdoks.org/)
 * [2024-03-05, 16:19:37](https://news.ycombinator.com/item?id=39605588) - [Ask HN: How's the current state of hiring in the LLM field?](https://news.ycombinator.com/item?id=39605588)
 * [2024-03-05, 16:14:10](https://news.ycombinator.com/item?id=39605487) - [Why Are There So Many Methane Satellites?](https://heatmap.news/technology/methanesat-edf-satellite-gosat)
@@ -22,6 +23,7 @@
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Facebook Offline](https://downdetector.com/status/facebook/)
 * [2024-03-05, 15:07:37](https://news.ycombinator.com/item?id=39604340) - [Nvidia bans using translation layers for CUDA software](https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers#:%5C%7E:text=Nvidia%20has%20banned%20running%20CUDA,system%20during%20the%20installation%20process)
 * [2024-03-05, 15:06:00](https://news.ycombinator.com/item?id=39604320) - [Tesla Berlin gigafactory goes dark after alleged eco-sabotage](https://www.theregister.com/2024/03/05/tesla_berlin_arson_attack/)
+* [2024-03-05, 14:59:29](https://news.ycombinator.com/item?id=39604245) - [Show HN: AI Taught Me JavaScript](https://www.needledrop.me/)
 * [2024-03-05, 14:32:48](https://news.ycombinator.com/item?id=39603938) - [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
 * [2024-03-05, 14:01:35](https://news.ycombinator.com/item?id=39603518) - [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [IDF 'using spyware and AI targeting' to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
