@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 20:32:44](https://news.ycombinator.com/item?id=39608822) - [Array Languages vs. the Curse of the Spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-03-05, 20:28:42](https://news.ycombinator.com/item?id=39608787) - [Magicschool.ai: An AI assistant for every teacher in the world](https://www.magicschool.ai/)
 * [2024-03-05, 20:18:17](https://news.ycombinator.com/item?id=39608702) - [Ask HN: AWS Down?](https://news.ycombinator.com/item?id=39608702)
+* [2024-03-05, 20:17:38](https://news.ycombinator.com/item?id=39608691) - [Observable Framework 1.1](https://github.com/observablehq/framework/releases/tag/v1.1.0)
 * [2024-03-05, 20:10:38](https://news.ycombinator.com/item?id=39608601) - [Logic Programming in Rust](https://s-arash.github.io/ascent/)
 * [2024-03-05, 20:02:57](https://news.ycombinator.com/item?id=39608503) - [Microsoft is killing off the Android apps in Windows 11 feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-off-the-android-apps-in-windows-11-feature/)
 * [2024-03-05, 19:19:38](https://news.ycombinator.com/item?id=39607993) - [Adding Systemd to PostmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
