@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
 * [2024-03-05, 17:22:21](https://news.ycombinator.com/item?id=39606464) - [Microsoft is ending support for the Windows Subsystem for Android (WSA)](https://learn.microsoft.com/en-us/windows/android/wsa/)
+* [2024-03-05, 17:04:21](https://news.ycombinator.com/item?id=39606257) - [Tech bros need to realise deepfake porn ruins lives-–and the law has to catch up](https://www.theguardian.com/global-development/2024/mar/01/tech-bros-nonconsensual-sexual-deepfakes-videos-porn-law-taylor-swift)
 * [2024-03-05, 17:00:51](https://news.ycombinator.com/item?id=39606209) - [Keeper (YC S21) hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
+* [2024-03-05, 16:53:02](https://news.ycombinator.com/item?id=39606093) - [Ancient Counterfeiters and Their Fake Coins](https://coinweek.com/bad-money-ancient-counterfeiters-and-their-fake-coins/)
 * [2024-03-05, 16:26:51](https://news.ycombinator.com/item?id=39605682) - [Global Economy Approaches Soft Landing, but Risks Remain](https://www.imf.org/en/Blogs/Articles/2024/01/30/global-economy-approaches-soft-landing-but-risks-remain)
 * [2024-03-05, 16:25:46](https://news.ycombinator.com/item?id=39605670) - [Doks – Build a Docs Site](https://getdoks.org/)
 * [2024-03-05, 16:19:37](https://news.ycombinator.com/item?id=39605588) - [Ask HN: How's the current state of hiring in the LLM field?](https://news.ycombinator.com/item?id=39605588)
