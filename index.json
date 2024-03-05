@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-03-05, 12:30:22",
+      "https://news.ycombinator.com/item?id=39602472"
+    ],
+    [
+      "The Shen Programming Language",
+      "https://shenlanguage.org/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 12:29:02",
       "https://news.ycombinator.com/item?id=39602458"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2024-03-05, 11:28:21",
-      "https://news.ycombinator.com/item?id=39602035"
+      "2024-03-05, 12:12:48",
+      "https://news.ycombinator.com/item?id=39602343"
     ],
     [
-      "France enshrines 'freedom' to abortion in Constitution, in world first",
-      "https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html"
+      "LibraryBox",
+      "https://jasongriffey.net/librarybox/"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Cloudflare Announces Firewall for AI",
       "https://blog.cloudflare.com/firewall-for-ai"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 10:44:01",
+      "https://news.ycombinator.com/item?id=39601710"
+    ],
+    [
+      "Why do tree-based models still outperform deep learning on tabular data? (2022)",
+      "https://arxiv.org/abs/2207.08815"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Stable Diffusion 3: Research Paper",
       "https://stability.ai/news/stable-diffusion-3-research-paper"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 03:43:23",
-      "https://news.ycombinator.com/item?id=39599175"
-    ],
-    [
-      "Protecting paths in macro expansions by extending UTF-8",
-      "https://nullprogram.com/blog/2024/03/05/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The hunt for the missing data type",
       "https://www.hillelwayne.com/post/graph-types/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 16:03:45",
-      "https://news.ycombinator.com/item?id=39591972"
-    ],
-    [
-      "Launch HN: Just words (YC W24) – Optimize your product's copy for user growth",
-      "https://news.ycombinator.com/item?id=39591972"
     ]
   ],
   [
