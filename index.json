@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-05, 22:50:03",
+      "https://news.ycombinator.com/item?id=39610134"
+    ],
+    [
+      "How to speed up the Rust compiler in March 2024",
+      "https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 22:39:47",
+      "https://news.ycombinator.com/item?id=39610054"
+    ],
+    [
+      "Tether reaches $100B, stokes stablecoin stability concerns",
+      "https://reuters.com/technology/tethers-100-bln-stokes-stablecoin-stability-concerns-2024-03-05"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 22:16:06",
       "https://news.ycombinator.com/item?id=39609846"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-03-05, 16:39:02",
-      "https://news.ycombinator.com/item?id=39605884"
-    ],
-    [
-      "Covert Racism in LLMs",
-      "https://garymarcus.substack.com/p/covert-racism-in-llms"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 16:14:10",
       "https://news.ycombinator.com/item?id=39605487"
     ],
     [
       "Why are there so many methane satellites?",
       "https://heatmap.news/technology/methanesat-edf-satellite-gosat"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 15:49:28",
-      "https://news.ycombinator.com/item?id=39604975"
-    ],
-    [
-      "Event Interception",
-      "https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html"
     ]
   ],
   [
