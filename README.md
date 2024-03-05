@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 11:28:21](https://news.ycombinator.com/item?id=39602035) - [France enshrines 'freedom' to abortion in Constitution, in world first](https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html)
 * [2024-03-05, 11:26:39](https://news.ycombinator.com/item?id=39602023) - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
 * [2024-03-05, 10:22:09](https://news.ycombinator.com/item?id=39601538) - [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
 * [2024-03-05, 09:38:52](https://news.ycombinator.com/item?id=39601229) - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
@@ -17,10 +18,9 @@
 * [2024-03-04, 22:42:04](https://news.ycombinator.com/item?id=39597131) - [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 16:42:14](https://news.ycombinator.com/item?id=39592444) - [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
-* [2024-03-04, 16:30:17](https://news.ycombinator.com/item?id=39592280) - [The Rise and Fall of Adam Osborne](https://every.to/the-crazy-ones/the-rise-and-fall-of-steve-jobs-s-greatest-rival)
 * [2024-03-04, 16:03:45](https://news.ycombinator.com/item?id=39591972) - [Launch HN: Just words (YC W24) – Optimize your product's copy for user growth](https://news.ycombinator.com/item?id=39591972)
 * [2024-03-04, 15:46:03](https://news.ycombinator.com/item?id=39591772) - [Why it's so challenging to land upright on the moon](https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html)
-* [2024-03-04, 14:08:51](https://news.ycombinator.com/item?id=39590666) - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
+* [2024-03-04, 10:35:27](https://news.ycombinator.com/item?id=39588895) - [Flexagon](https://en.wikipedia.org/wiki/Flexagon)
 * [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-04, 06:19:40](https://news.ycombinator.com/item?id=39587535) - [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
 * [2024-03-03, 15:25:51](https://news.ycombinator.com/item?id=39581398) - [Mustard](https://chloelist.substack.com/p/issue-12-mustard)

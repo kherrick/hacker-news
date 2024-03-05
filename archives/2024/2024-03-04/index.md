@@ -71,6 +71,7 @@
 * [2024-03-04, 11:08:04](https://news.ycombinator.com/item?id=39589065) - [Incorrect Stack Exchange Answers Make Me Angry](https://1f6042.blogspot.com/2024/03/incorrect-stack-exchange-answers-make.html)
 * [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform](https://ieeexplore.ieee.org/abstract/document/6319640)
 * [2024-03-04, 10:36:14](https://news.ycombinator.com/item?id=39588899) - [What Is a Schur Decomposition?](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
+* [2024-03-04, 10:35:27](https://news.ycombinator.com/item?id=39588895) - [Flexagon](https://en.wikipedia.org/wiki/Flexagon)
 * [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [The Singapore Airlines Concorde: The full story](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
 * [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-04, 10:00:42](https://news.ycombinator.com/item?id=39588708) - [Mercury – Compiler optimized, private Firefox fork](https://thorium.rocks/mercury)
