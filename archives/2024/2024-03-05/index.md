@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 17:00:51](https://news.ycombinator.com/item?id=39606209) - [Keeper (YC S21) hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
 * [2024-03-05, 16:25:46](https://news.ycombinator.com/item?id=39605670) - [Doks – Build a Docs Site](https://getdoks.org/)
+* [2024-03-05, 16:19:37](https://news.ycombinator.com/item?id=39605588) - [Ask HN: How's the current state of hiring in the LLM field?](https://news.ycombinator.com/item?id=39605588)
 * [2024-03-05, 16:14:10](https://news.ycombinator.com/item?id=39605487) - [Why Are There So Many Methane Satellites?](https://heatmap.news/technology/methanesat-edf-satellite-gosat)
 * [2024-03-05, 16:11:38](https://news.ycombinator.com/item?id=39605453) - [Red Sea cables have been damaged, disrupting internet traffic](https://www.cnn.com/2024/03/04/business/red-sea-cables-cut-internet/index.html)
 * [2024-03-05, 16:10:20](https://news.ycombinator.com/item?id=39605438) - [Prompt injection and jailbreaking are not the same thing](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/)
