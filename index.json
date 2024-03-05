@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-05, 22:50:03",
-      "https://news.ycombinator.com/item?id=39610134"
-    ],
-    [
-      "How to speed up the Rust compiler in March 2024",
-      "https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 22:39:47",
       "https://news.ycombinator.com/item?id=39610054"
     ],
@@ -177,6 +167,16 @@
     [
       "Why are there so many methane satellites?",
       "https://heatmap.news/technology/methanesat-edf-satellite-gosat"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 15:49:28",
+      "https://news.ycombinator.com/item?id=39604975"
+    ],
+    [
+      "Event Interception",
+      "https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html"
     ]
   ],
   [
