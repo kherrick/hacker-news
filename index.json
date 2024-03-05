@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-05, 18:41:12",
-      "https://news.ycombinator.com/item?id=39607551"
+      "2024-03-05, 18:47:36",
+      "https://news.ycombinator.com/item?id=39607630"
     ],
     [
-      "Why Rust is worse than C for programming low-level hw",
-      "https://infosec.exchange/@lcamtuf/112043612201839620"
+      "Tell HN: Pivotal Tracker removes non-enterprise price tiers",
+      "https://news.ycombinator.com/item?id=39607630"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Gender gap in tech jobs narrows across advanced economies",
       "https://www.ft.com/content/f37f3af3-2c3a-4082-84c3-e6fe7fe53252"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 18:00:44",
+      "https://news.ycombinator.com/item?id=39606973"
+    ],
+    [
+      "JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities (Fixed)",
+      "https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Kagi and Wolfram",
       "https://blog.kagi.com/kagi-wolfram"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 16:26:51",
-      "https://news.ycombinator.com/item?id=39605682"
-    ],
-    [
-      "Global Economy Approaches Soft Landing, but Risks Remain",
-      "https://www.imf.org/en/Blogs/Articles/2024/01/30/global-economy-approaches-soft-landing-but-risks-remain"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-03-04, 06:19:40",
-      "https://news.ycombinator.com/item?id=39587535"
+      "2024-03-04, 07:01:08",
+      "https://news.ycombinator.com/item?id=39587738"
     ],
     [
-      "The algebraic structure of Infinite Craft",
-      "https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/"
+      "How to create a sticky changelog component with Tailwind CSS and Astro.js",
+      "https://lexingtonthemes.com/tutorials/how-to-create-a-sticky-changelog-with-tailwind-css-and-astrojs/"
     ]
   ],
   [
