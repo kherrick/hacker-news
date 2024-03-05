@@ -9,6 +9,7 @@
 * [2024-03-05, 15:35:12](https://news.ycombinator.com/item?id=39604713) - [Is Facebook logging out users?](https://news.ycombinator.com/item?id=39604713)
 * [2024-03-05, 15:31:49](https://news.ycombinator.com/item?id=39604652) - [Parent shaming causes the demographic collapse](https://woodfromeden.substack.com/p/parent-shaming-causes-the-demographic)
 * [2024-03-05, 15:27:57](https://news.ycombinator.com/item?id=39604598) - [Tell HN: Facebook, Instagram authentication looks down worldwide](https://news.ycombinator.com/item?id=39604598)
+* [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Meta outage](https://metastatus.com/)
 * [2024-03-05, 15:27:43](https://news.ycombinator.com/item?id=39604590) - [Facebook Offline](https://downdetector.com/status/facebook/)
 * [2024-03-05, 15:07:37](https://news.ycombinator.com/item?id=39604340) - [Nvidia bans using translation layers for CUDA software](https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers#:%5C%7E:text=Nvidia%20has%20banned%20running%20CUDA,system%20during%20the%20installation%20process)
 * [2024-03-05, 14:32:48](https://news.ycombinator.com/item?id=39603938) - [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
