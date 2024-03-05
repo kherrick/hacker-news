@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2024-03-05, 09:38:52",
+      "https://news.ycombinator.com/item?id=39601229"
+    ],
+    [
+      "Hetzner GEX44 with Nvidia GPU",
+      "https://www.hetzner.com/dedicated-rootserver/matrix-gpu/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 08:39:10",
       "https://news.ycombinator.com/item?id=39600810"
     ],
     [
       "Radicle: Open-Source, Peer-to-Peer, GitHub Alternative",
       "https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 07:37:57",
-      "https://news.ycombinator.com/item?id=39600426"
-    ],
-    [
-      "Dell exec reveals Nvidia has a 1,000-watt GPU in the works",
-      "https://www.theregister.com/2024/03/05/nvidias_b100_gpu_1000w/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Protecting paths in macro expansions by extending UTF-8",
       "https://nullprogram.com/blog/2024/03/05/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 03:38:50",
-      "https://news.ycombinator.com/item?id=39599150"
-    ],
-    [
-      "A moment of financial clarification (2013)",
-      "https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Recursion Viewer",
       "https://dmytrobaida.github.io/recursion-viewer/"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 09:52:53",
+      "https://news.ycombinator.com/item?id=39571406"
+    ],
+    [
+      "Deploying fiber in the home",
+      "https://blog.daknob.net/fiber-in-the-home/"
     ]
   ]
 ]
