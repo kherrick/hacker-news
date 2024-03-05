@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-03-05, 06:22:03",
+      "https://news.ycombinator.com/item?id=39600031"
+    ],
+    [
+      "Nuke: A memory arena implementation for Go",
+      "https://github.com/ortuman/nuke"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 06:05:05",
       "https://news.ycombinator.com/item?id=39599958"
     ],
@@ -287,16 +297,6 @@
     [
       "Recursion Viewer",
       "https://dmytrobaida.github.io/recursion-viewer/"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 09:52:53",
-      "https://news.ycombinator.com/item?id=39571406"
-    ],
-    [
-      "Deploying fiber in the home",
-      "https://blog.daknob.net/fiber-in-the-home/"
     ]
   ]
 ]
