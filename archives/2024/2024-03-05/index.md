@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 20:02:57](https://news.ycombinator.com/item?id=39608503) - [Microsoft is killing off the Android apps in Windows 11 feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-off-the-android-apps-in-windows-11-feature/)
 * [2024-03-05, 19:19:38](https://news.ycombinator.com/item?id=39607993) - [Adding Systemd to PostmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 * [2024-03-05, 18:57:03](https://news.ycombinator.com/item?id=39607747) - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
@@ -23,6 +24,7 @@
 * [2024-03-05, 17:00:51](https://news.ycombinator.com/item?id=39606209) - [Keeper (YC S21) hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
 * [2024-03-05, 16:53:02](https://news.ycombinator.com/item?id=39606093) - [Ancient Counterfeiters and Their Fake Coins](https://coinweek.com/bad-money-ancient-counterfeiters-and-their-fake-coins/)
 * [2024-03-05, 16:50:00](https://news.ycombinator.com/item?id=39606048) - [Kagi and Wolfram](https://blog.kagi.com/kagi-wolfram)
+* [2024-03-05, 16:41:39](https://news.ycombinator.com/item?id=39605923) - [Show HN: Workout Tracker PWA](https://workout.olzhasar.com/)
 * [2024-03-05, 16:26:51](https://news.ycombinator.com/item?id=39605682) - [Global Economy Approaches Soft Landing, but Risks Remain](https://www.imf.org/en/Blogs/Articles/2024/01/30/global-economy-approaches-soft-landing-but-risks-remain)
 * [2024-03-05, 16:25:46](https://news.ycombinator.com/item?id=39605670) - [Doks – Build a Docs Site](https://getdoks.org/)
 * [2024-03-05, 16:19:37](https://news.ycombinator.com/item?id=39605588) - [Ask HN: How's the current state of hiring in the LLM field?](https://news.ycombinator.com/item?id=39605588)
@@ -54,6 +56,7 @@
 * [2024-03-05, 13:27:59](https://news.ycombinator.com/item?id=39603074) - [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
 * [2024-03-05, 12:53:39](https://news.ycombinator.com/item?id=39602672) - [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
 * [2024-03-05, 12:34:25](https://news.ycombinator.com/item?id=39602500) - [Show HN: Hacker News Badges (Unofficial)](https://hnbadges.com/?retry)
+* [2024-03-05, 12:31:57](https://news.ycombinator.com/item?id=39602480) - [The Beauty of Roots](https://math.ucr.edu/home/baez/roots/)
 * [2024-03-05, 12:30:22](https://news.ycombinator.com/item?id=39602472) - [The Shen Programming Language](https://shenlanguage.org/)
 * [2024-03-05, 12:29:02](https://news.ycombinator.com/item?id=39602458) - [Sergey Brin says in rare appearance that company 'messed up' Gemini image launch](https://www.cnbc.com/2024/03/04/sergey-brin-says-google-definitely-messed-up-with-gemini-launch-.html)
 * [2024-03-05, 12:22:57](https://news.ycombinator.com/item?id=39602417) - [Facing reality about the EU is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
