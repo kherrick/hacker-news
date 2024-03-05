@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-05, 20:10:38](https://news.ycombinator.com/item?id=39608601) - [Logic Programming in Rust](https://s-arash.github.io/ascent/)
+* [2024-03-05, 20:18:17](https://news.ycombinator.com/item?id=39608702) - [Ask HN: AWS Down?](https://news.ycombinator.com/item?id=39608702)
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 * [2024-03-05, 18:57:03](https://news.ycombinator.com/item?id=39607747) - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
 * [2024-03-05, 18:47:36](https://news.ycombinator.com/item?id=39607630) - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)

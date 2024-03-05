@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 20:18:17](https://news.ycombinator.com/item?id=39608702) - [Ask HN: AWS Down?](https://news.ycombinator.com/item?id=39608702)
 * [2024-03-05, 20:10:38](https://news.ycombinator.com/item?id=39608601) - [Logic Programming in Rust](https://s-arash.github.io/ascent/)
 * [2024-03-05, 20:02:57](https://news.ycombinator.com/item?id=39608503) - [Microsoft is killing off the Android apps in Windows 11 feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-off-the-android-apps-in-windows-11-feature/)
 * [2024-03-05, 19:19:38](https://news.ycombinator.com/item?id=39607993) - [Adding Systemd to PostmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
