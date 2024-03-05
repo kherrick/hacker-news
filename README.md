@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-05, 14:32:48](https://news.ycombinator.com/item?id=39603938) - [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
 * [2024-03-05, 14:01:35](https://news.ycombinator.com/item?id=39603518) - [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
 * [2024-03-05, 13:34:06](https://news.ycombinator.com/item?id=39603163) - [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
 * [2024-03-05, 13:27:59](https://news.ycombinator.com/item?id=39603074) - [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
@@ -9,7 +10,6 @@
 * [2024-03-05, 12:12:48](https://news.ycombinator.com/item?id=39602343) - [LibraryBox](https://jasongriffey.net/librarybox/)
 * [2024-03-05, 11:26:39](https://news.ycombinator.com/item?id=39602023) - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
 * [2024-03-05, 10:44:01](https://news.ycombinator.com/item?id=39601710) - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
-* [2024-03-05, 10:22:09](https://news.ycombinator.com/item?id=39601538) - [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
 * [2024-03-05, 09:34:35](https://news.ycombinator.com/item?id=39601201) - [Library of Juggling](http://libraryofjuggling.com/)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:22:03](https://news.ycombinator.com/item?id=39600031) - [Nuke: A memory arena implementation for Go](https://github.com/ortuman/nuke)
@@ -24,11 +24,11 @@
 * [2024-03-04, 16:42:14](https://news.ycombinator.com/item?id=39592444) - [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 10:35:27](https://news.ycombinator.com/item?id=39588895) - [Flexagon](https://en.wikipedia.org/wiki/Flexagon)
 * [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
+* [2024-03-04, 08:42:43](https://news.ycombinator.com/item?id=39588293) - [Gem12 Pro Mini PC: Ryzen 7 8845HS, Mini Screen, and OCuLink eGPU](https://www.tomshardware.com/desktops/mini-pcs/gem12-pro-mini-pc-uses-an-amped-up-ryzen-7-8845hs-apu-has-a-built-in-mini-screen-and-oculink-support)
 * [2024-03-04, 06:19:40](https://news.ycombinator.com/item?id=39587535) - [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
-* [2024-03-03, 15:25:51](https://news.ycombinator.com/item?id=39581398) - [Mustard](https://chloelist.substack.com/p/issue-12-mustard)
 * [2024-03-03, 13:18:03](https://news.ycombinator.com/item?id=39580647) - [Evo: DNA foundation modeling from molecular to genome scale](https://arcinstitute.org/news/blog/evo)
 * [2024-03-03, 08:47:23](https://news.ycombinator.com/item?id=39579480) - [How Automated Content Moderation Works (Even When It Doesn't)](https://themarkup.org/automated-censorship/2024/03/01/how-automated-content-moderation-works-even-when-it-doesnt-work)
-* [2024-03-03, 06:06:42](https://news.ycombinator.com/item?id=39578832) - [Filament – A Language for Fearless Hardware Design](https://filamenthdl.com/)
+* [2024-03-03, 05:55:37](https://news.ycombinator.com/item?id=39578796) - [Velato: A programming language where source code must be a valid MIDI music file](http://www.velato.net/)
 * [2024-03-02, 12:39:19](https://news.ycombinator.com/item?id=39572164) - [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer/)
 
 ## [Archives](archives/index.md)

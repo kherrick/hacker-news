@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 14:32:48](https://news.ycombinator.com/item?id=39603938) - [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
 * [2024-03-05, 14:01:35](https://news.ycombinator.com/item?id=39603518) - [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [IDF 'using spyware and AI targeting' to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
 * [2024-03-05, 13:34:06](https://news.ycombinator.com/item?id=39603163) - [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
