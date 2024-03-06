@@ -2,6 +2,7 @@
 
 * [2024-03-06, 02:19:01](https://news.ycombinator.com/item?id=39611484) - [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
 * [2024-03-06, 01:14:51](https://news.ycombinator.com/item?id=39611144) - [Claude 3 Opus reinvented this quantum algorithm from scratch in just 2 prompts](https://twitter.com/GillVerd/status/1764901418664882327)
+* [2024-03-06, 01:13:11](https://news.ycombinator.com/item?id=39611130) - [Food Is Less Nutritious Than It Used to Be](https://modernfarmer.com/2024/03/your-food-is-less-nutritious-than-it-used-to-be/)
 * [2024-03-06, 01:10:49](https://news.ycombinator.com/item?id=39611111) - [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
 * [2024-03-06, 00:46:12](https://news.ycombinator.com/item?id=39610931) - [Accenture to Acquire Udacity](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
 * [2024-03-06, 00:32:09](https://news.ycombinator.com/item?id=39610846) - [BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Health](https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/)
@@ -12,7 +13,6 @@
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC publishes GDDR7 graphics memory standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 * [2024-03-05, 18:57:03](https://news.ycombinator.com/item?id=39607747) - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
 * [2024-03-05, 18:30:47](https://news.ycombinator.com/item?id=39607412) - [This Is Knuth 3:16 (2002)](http://www.larry.denenberg.com/Knuth-3-16/)
-* [2024-03-05, 18:08:05](https://news.ycombinator.com/item?id=39607079) - [New ways we're tackling spammy, low-quality content on Search](https://blog.google/products/search/google-search-update-march-2024/)
 * [2024-03-05, 17:53:22](https://news.ycombinator.com/item?id=39606885) - [The \"missing\" graph datatype already exists. It was invented in the '70s](https://tylerhou.com/posts/datalog-go-brrr/)
 * [2024-03-05, 17:22:21](https://news.ycombinator.com/item?id=39606464) - [Microsoft is ending support for the Windows Subsystem for Android (WSA)](https://learn.microsoft.com/en-us/windows/android/wsa/)
 * [2024-03-05, 17:14:20](https://news.ycombinator.com/item?id=39606371) - [How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
