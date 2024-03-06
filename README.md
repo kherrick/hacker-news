@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
 * [2024-03-06, 10:31:02](https://news.ycombinator.com/item?id=39614433) - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
 * [2024-03-06, 08:40:14](https://news.ycombinator.com/item?id=39613710) - [Welcome to MARCHintosh](https://www.marchintosh.com/)
 * [2024-03-06, 08:34:16](https://news.ycombinator.com/item?id=39613669) - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
@@ -21,7 +22,6 @@
 * [2024-03-06, 01:10:49](https://news.ycombinator.com/item?id=39611111) - [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
 * [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: Why you should do maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
-* [2024-03-05, 20:32:44](https://news.ycombinator.com/item?id=39608822) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-03-05, 15:48:56](https://news.ycombinator.com/item?id=39604961) - [Launch HN: Greptile (YC W24) - RAG on codebases that actually works](https://news.ycombinator.com/item?id=39604961)
 * [2024-03-05, 15:27:58](https://news.ycombinator.com/item?id=39604600) - [Elliptic curve 'murmurations' found with AI](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
 * [2024-03-05, 13:28:56](https://news.ycombinator.com/item?id=39603087) - [Nerdy internals of an Apple text editor](https://papereditor.app/internals)

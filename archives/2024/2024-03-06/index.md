@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
 * [2024-03-06, 10:31:02](https://news.ycombinator.com/item?id=39614433) - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
 * [2024-03-06, 09:34:45](https://news.ycombinator.com/item?id=39614060) - [AIs ranked by IQ; AI passes 100 IQ for first time, with release of Claude-3](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
 * [2024-03-06, 08:53:09](https://news.ycombinator.com/item?id=39613789) - [Tell HN: \"Default\" FileZilla download bundled with adware](https://filezilla-project.org/)
