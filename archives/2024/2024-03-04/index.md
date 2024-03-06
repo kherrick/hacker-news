@@ -67,6 +67,7 @@
 * [2024-03-04, 12:10:59](https://news.ycombinator.com/item?id=39589479) - [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
 * [2024-03-04, 12:06:31](https://news.ycombinator.com/item?id=39589450) - [The App Store, Spotify, and Europe's thriving digital music market](https://www.apple.com/newsroom/2024/03/the-app-store-spotify-and-europes-thriving-digital-music-market/)
 * [2024-03-04, 12:00:39](https://news.ycombinator.com/item?id=39589412) - [Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
+* [2024-03-04, 11:44:16](https://news.ycombinator.com/item?id=39589293) - [The most traveled crew transport spacecraft flies again](https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/)
 * [2024-03-04, 11:15:03](https://news.ycombinator.com/item?id=39589102) - [The Theorist Who Sees Math in Art, Music and Writing](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
 * [2024-03-04, 11:08:04](https://news.ycombinator.com/item?id=39589065) - [Incorrect Stack Exchange Answers Make Me Angry](https://1f6042.blogspot.com/2024/03/incorrect-stack-exchange-answers-make.html)
 * [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform](https://ieeexplore.ieee.org/abstract/document/6319640)
