@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://text.npr.org/1236277058)
 * [2024-03-06, 22:32:37](https://news.ycombinator.com/item?id=39622624) - [Andrew Johnson's drunk vice-presidential inaugural address](https://en.wikipedia.org/wiki/Andrew_Johnson%27s_drunk_vice-presidential_inaugural_address)
 * [2024-03-06, 22:23:01](https://news.ycombinator.com/item?id=39622524) - [Rooster Teeth Shut Down by Warner Bros. Discovery](https://deadline.com/2024/03/rooster-teeth-shut-down-warner-bros-discovery-roost-podcast-continue-1235847264/)
 * [2024-03-06, 22:13:24](https://news.ycombinator.com/item?id=39622401) - [How Apple Sank About $1B a Year Into a Car It Never Built](https://www.bloomberg.com/news/features/2024-03-06/apple-car-s-crash-design-details-tim-cook-s-indecision-failed-tesla-deal)
