@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-06, 12:17:01",
-      "https://news.ycombinator.com/item?id=39615097"
-    ],
-    [
-      "Ask HN: Feeling quite disheartened about job search, any advice?",
-      "https://news.ycombinator.com/item?id=39615097"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 12:01:08",
       "https://news.ycombinator.com/item?id=39614989"
     ],
@@ -41,32 +31,12 @@
   ],
   [
     [
-      "2024-03-06, 09:07:42",
-      "https://news.ycombinator.com/item?id=39613891"
-    ],
-    [
-      "Show HN: I Made a Landing Page Structure Generator",
-      "https://landingpage.fyi/structure-generator"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 08:34:16",
       "https://news.ycombinator.com/item?id=39613669"
     ],
     [
       "Pg_vectorize: The simplest way to do vector search and RAG on Postgres",
       "https://github.com/tembo-io/pg_vectorize"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 08:27:24",
-      "https://news.ycombinator.com/item?id=39613619"
-    ],
-    [
-      "SpaceX just showed us what every day could be like in spaceflight",
-      "https://arstechnica.com/space/2024/03/in-less-than-24-hours-spacex-launched-3-rockets-and-tested-another/"
     ]
   ],
   [
@@ -127,6 +97,16 @@
     [
       "Realtime telemetry from ISS internal components",
       "https://iss-mimic.github.io/Mimic/"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 05:22:35",
+      "https://news.ycombinator.com/item?id=39612607"
+    ],
+    [
+      "Free data transfer out to internet when moving out of AWS",
+      "https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2024-03-05, 08:39:10",
+      "https://news.ycombinator.com/item?id=39600810"
+    ],
+    [
+      "Radicle: Open-Source, Peer-to-Peer, GitHub Alternative",
+      "https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 06:35:29",
       "https://news.ycombinator.com/item?id=39600108"
     ],
@@ -287,6 +277,16 @@
     [
       "The Evolution of a Haskell Programmer (2001)",
       "https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 11:44:16",
+      "https://news.ycombinator.com/item?id=39589293"
+    ],
+    [
+      "The most traveled crew transport spacecraft flies again",
+      "https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/"
     ]
   ],
   [
