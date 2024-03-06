@@ -25,6 +25,7 @@
 * [2024-03-06, 04:49:38](https://news.ycombinator.com/item?id=39612443) - [Leaving LinkedIn: Choosing Engineering Excellence over Expediency](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
 * [2024-03-06, 04:16:09](https://news.ycombinator.com/item?id=39612243) - [70 years ago, an H-bomb test went awry. We must never forget the fallout](https://www.washingtonpost.com/opinions/2024/03/05/fallout-nuclear-test-70-years-marshall-islands/)
 * [2024-03-06, 03:48:56](https://news.ycombinator.com/item?id=39612078) - [Donald Knuth – The Patron Saint of Yak Shaves](https://yakshav.es/the-patron-saint-of-yakshaves/)
+* [2024-03-06, 03:20:39](https://news.ycombinator.com/item?id=39611924) - [Reverse engineering a cable modem and turning it into an SDR](https://stdw.github.io/cm-sdr/)
 * [2024-03-06, 03:20:38](https://news.ycombinator.com/item?id=39611923) - [Sora: Review on Background, Tech, Limits, and Opportunities of Vision Models](https://arxiv.org/abs/2402.17177)
 * [2024-03-06, 03:09:12](https://news.ycombinator.com/item?id=39611849) - [Sugar: An activity-focused, open-source software learning platform for children](https://www.sugarlabs.org/)
 * [2024-03-06, 02:43:54](https://news.ycombinator.com/item?id=39611662) - [Propagation of Error in Geometry Constructions](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
