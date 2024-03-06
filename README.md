@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-06, 04:16:09](https://news.ycombinator.com/item?id=39612243) - [70 years ago, an H-bomb test went awry. We must never forget the fallout](https://www.washingtonpost.com/opinions/2024/03/05/fallout-nuclear-test-70-years-marshall-islands/)
-* [2024-03-06, 03:48:56](https://news.ycombinator.com/item?id=39612078) - [Donald Knuth – The Patron Saint of Yak Shaves](https://yakshav.es/the-patron-saint-of-yakshaves/)
 * [2024-03-06, 03:20:38](https://news.ycombinator.com/item?id=39611923) - [Sora: Review on Background, Tech, Limits, and Opportunities of Vision Models](https://arxiv.org/abs/2402.17177)
 * [2024-03-06, 03:09:12](https://news.ycombinator.com/item?id=39611849) - [Sugar: An activity-focused, open-source software learning platform for children](https://www.sugarlabs.org/)
 * [2024-03-06, 02:43:54](https://news.ycombinator.com/item?id=39611662) - [The propagation of error in classical geometry constructions (2018)](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
@@ -27,6 +26,7 @@
 * [2024-03-05, 12:31:57](https://news.ycombinator.com/item?id=39602480) - [The Beauty of Roots (2023)](https://math.ucr.edu/home/baez/roots/)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:35:29](https://news.ycombinator.com/item?id=39600108) - [The Future That Never Was](http://www.os2museum.com/wp/the-future-that-never-was/)
+* [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 13:21:09](https://news.ycombinator.com/item?id=39590114) - [How can C Programs be so Reliable? (2008)](https://tratt.net/laurie/blog/2008/how_can_c_programs_be_so_reliable.html)
 * [2024-03-04, 11:44:16](https://news.ycombinator.com/item?id=39589293) - [The most traveled crew transport spacecraft flies again](https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/)
 * [2024-03-04, 11:12:40](https://news.ycombinator.com/item?id=39589089) - [On Implementation of Distributed Protocols](https://replica-io.dev/blog/2024/03/04/on-implementation-of-distributed-prtocols)
