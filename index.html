@@ -129,21 +129,100 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="39621458">
+        <section id="39622006">
           <h3>
-            <a class="item" href="https://www.linkedin-status.com"
-              >Linkedin.com Outage</a
+            <a class="item" href="https://github.com/elodin-sys/elodin"
+              >Show HN: Elodin – A better framework for physics simulation</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-03-06 @ 21:06:38</span
+              <span>2024-03-06 @ 21:44:40</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39621458"
+                ><a href="https://news.ycombinator.com/item?id=39622006"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://elodin.systems/">https://elodin.systems/</a>), a
+              code-first physics simulation framework. We just open-sourced our
+              core libraries on Github:
+              <a href="https://github.com/elodin-sys/elodin"
+                >https://github.com/elodin-sys/elodin</a
+              >
+              <p>
+                Have you ever wondered what happens when a satellite is first
+                placed into orbit? It turns out that often, they tumble out of
+                control, end over end, in a miraculous fight against stability.
+                Check out our demo here of a control system attempting to
+                rectify this:
+                <a href="https://app.elodin.systems/sandbox/hn/cube-sat"
+                  >https://app.elodin.systems/sandbox/hn/cube-sat</a
+                >
+              </p>
+              <p>
+                The spacecraft does not appreciate tumbling: deploying solar
+                panels and antennas might not work, and doing anything
+                worthwhile is out of the picture. So what are you to do about
+                this? You'll equip your satellite with reaction wheels (or
+                magnetorquers), but now you have a second problem. What commands
+                do you send to the reaction wheels?
+              </p>
+              <p>
+                We created Elodin to help solve problems like this. These
+                problems are firmly in the realm of GNC (guidance, navigation,
+                and control) engineers; they are traditionally solved with
+                MatLab / Simulink, a bunch of Python scripts, and/or a tool like
+                Gazebo or Basilisk. While building the flight software for a
+                deep-space mission, I tried all of these tools and didn’t like
+                them. In particular, I found that running Monte Carlo
+                simulations in the cloud was painful.
+              </p>
+              <p>
+                So we set out to build a better framework for physics
+                simulation. You might call it "Tensorflow for Physics." The name
+                fits for two reasons: we use XLA to accelerate your math, and
+                we've built an extensible framework for creating new physics
+                engines. Most physics engines are fixed-function. For example,
+                something like MuJoCo (<a
+                  href="https://mujoco.readthedocs.io/en/stable/overview.html"
+                  >https://mujoco.readthedocs.io/en/stable/overview.html</a
+                >) is great for traditional robotics, but GMAT (<a
+                  href="https://gmat.atlassian.net/wiki/spaces/GW/overview"
+                  >https://gmat.atlassian.net/wiki/spaces/GW/overview</a
+                >) is far better for orbital analysis. No single physics engine
+                can solve all problems, and it’s hard to integrate multiple
+                engines. Our framework allows you to easily compose different
+                physics algorithms.
+              </p>
+              <p>
+                Space is hard enough—let’s not have software make it harder than
+                it needs to be! We are still early in building our stack, so
+                we’d be grateful to hear any feedback that you have.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="39621605">
+          <h3>
+            <a
+              class="item"
+              href="https://docs.ayrshare.com/additional-info/status-update"
+              >LinkedIn Outage</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-06 @ 21:17:56</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39621605"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -177,11 +256,11 @@
             <h4>
               <span>2024-03-06 @ 20:00:11</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39620608"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -197,11 +276,11 @@
             <h4>
               <span>2024-03-06 @ 19:55:22</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39620540"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -218,11 +297,11 @@
             <h4>
               <span>2024-03-06 @ 19:47:39</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39620422"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -240,11 +319,11 @@
             <h4>
               <span>2024-03-06 @ 19:21:31</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39620060"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -260,11 +339,11 @@
             <h4>
               <span>2024-03-06 @ 18:27:49</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39619204"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -281,7 +360,7 @@
             <h4>
               <span>2024-03-06 @ 18:27:24</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39619196"
                   >Comments</a
@@ -300,7 +379,7 @@
             <h4>
               <span>2024-03-06 @ 18:17:42</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39619053"
                   >Comments</a
@@ -342,11 +421,11 @@
             <h4>
               <span>2024-03-06 @ 18:16:58</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39619041"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -363,11 +442,11 @@
             <h4>
               <span>2024-03-06 @ 18:03:43</span
               ><span class="points-container"
-                >Points: <span class="points">332</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39618822"
                   >Comments</a
-                ><span class="descendants">: 208</span></span
+                ><span class="descendants">: 220</span></span
               >
             </h4>
           </section>
@@ -419,11 +498,11 @@
             <h4>
               <span>2024-03-06 @ 17:53:35</span
               ><span class="points-container"
-                >Points: <span class="points">627</span></span
+                >Points: <span class="points">650</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39618673"
                   >Comments</a
-                ><span class="descendants">: 640</span></span
+                ><span class="descendants">: 659</span></span
               >
             </h4>
           </section>
@@ -443,7 +522,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39618640"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
             <div class="text">
@@ -572,11 +651,11 @@
             <h4>
               <span>2024-03-06 @ 17:03:58</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39618062"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -634,11 +713,11 @@
             <h4>
               <span>2024-03-06 @ 16:45:43</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39617809"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -655,11 +734,11 @@
             <h4>
               <span>2024-03-06 @ 16:01:59</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39617325"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -676,11 +755,11 @@
             <h4>
               <span>2024-03-06 @ 15:44:19</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39617130"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -695,11 +774,11 @@
             <h4>
               <span>2024-03-06 @ 14:15:25</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39616155"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -758,31 +837,11 @@
             <h4>
               <span>2024-03-06 @ 07:15:29</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39613198"
                   >Comments</a
                 ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39612950">
-          <h3>
-            <a class="item" href="https://yacy.net/"
-              >YaCy, a distributed Web Search Engine, based on a peer-to-peer
-              network</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-06 @ 06:33:04</span
-              ><span class="points-container"
-                >Points: <span class="points">244</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39612950"
-                  >Comments</a
-                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -799,11 +858,11 @@
             <h4>
               <span>2024-03-05 @ 22:31:43</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39609997"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -820,11 +879,11 @@
             <h4>
               <span>2024-03-05 @ 13:44:26</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39603299"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -841,7 +900,7 @@
             <h4>
               <span>2024-03-05 @ 10:58:03</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39601814"
                   >Comments</a
@@ -862,11 +921,11 @@
             <h4>
               <span>2024-03-05 @ 10:08:34</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39601443"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -883,11 +942,11 @@
             <h4>
               <span>2024-03-05 @ 08:11:16</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39600614"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -905,11 +964,11 @@
             <h4>
               <span>2024-03-05 @ 03:23:37</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39599095"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -925,11 +984,11 @@
             <h4>
               <span>2024-03-04 @ 11:42:51</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39589282"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
