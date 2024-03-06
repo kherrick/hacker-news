@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-06, 14:44:46](https://news.ycombinator.com/item?id=39616466) - [Lisa Su Says the \"Team Is on It\" After Tweet About Open-Source AMD GPU Firmware](https://www.phoronix.com/news/Lisa-Su-Tweet-OSS-Firmware)
 * [2024-03-06, 14:40:53](https://news.ycombinator.com/item?id=39616417) - [GPS Antenna Mods Make Starlink Terminal Immune to Jammers](https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/)
-* [2024-03-06, 14:28:57](https://news.ycombinator.com/item?id=39616302) - [Public trust in AI is sinking across the board](https://www.axios.com/2024/03/05/ai-trust-problem-edelman)
+* [2024-03-06, 14:15:25](https://news.ycombinator.com/item?id=39616155) - [How likely are chance resemblances between languages? (2002)](https://www.zompist.com/chance.htm)
 * [2024-03-06, 14:10:51](https://news.ycombinator.com/item?id=39616111) - [Early American Fire Alarm Systems (2022)](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
 * [2024-03-06, 13:55:30](https://news.ycombinator.com/item?id=39615987) - [You Might Not Need a CRDT: Document Sync in the Wild [video]](https://www.youtube.com/watch?v=0d73MdQkJOk)
 * [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
@@ -21,7 +22,6 @@
 * [2024-03-06, 02:19:01](https://news.ycombinator.com/item?id=39611484) - [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
 * [2024-03-06, 01:10:49](https://news.ycombinator.com/item?id=39611111) - [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
-* [2024-03-05, 15:27:58](https://news.ycombinator.com/item?id=39604600) - [Elliptic curve 'murmurations' found with AI](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
 * [2024-03-05, 13:28:56](https://news.ycombinator.com/item?id=39603087) - [Nerdy internals of an Apple text editor](https://papereditor.app/internals)
 * [2024-03-05, 13:06:23](https://news.ycombinator.com/item?id=39602807) - [Let's build a VORON Trident (a DIY 3D printer)](https://www.jonashietala.se/series/voron_trident/)
 * [2024-03-05, 11:37:34](https://news.ycombinator.com/item?id=39602093) - [Forecasting with Trees (2021)](https://www.amazon.science/publications/forecasting-with-trees)
