@@ -90,6 +90,7 @@
 * [2024-03-05, 09:38:52](https://news.ycombinator.com/item?id=39601229) - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
 * [2024-03-05, 09:34:35](https://news.ycombinator.com/item?id=39601201) - [Library of Juggling](http://libraryofjuggling.com/)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+* [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
 * [2024-03-05, 07:37:57](https://news.ycombinator.com/item?id=39600426) - [Dell exec reveals Nvidia has a 1,000-watt GPU in the works](https://www.theregister.com/2024/03/05/nvidias_b100_gpu_1000w/)
 * [2024-03-05, 07:27:57](https://news.ycombinator.com/item?id=39600373) - [FreeBSD 13.3-Release Announcement](https://www.freebsd.org/releases/13.3R/announce/)
 * [2024-03-05, 06:49:23](https://news.ycombinator.com/item?id=39600172) - [Linux Crosses 4% Market Share Worldwide](https://linuxiac.com/linux-crosses-four-percent-market-share-worldwide/)

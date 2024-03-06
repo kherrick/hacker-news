@@ -13,7 +13,6 @@
 * [2024-03-06, 17:52:36](https://news.ycombinator.com/item?id=39618662) - [Zapier Central: Work Hand in Hand with AI Bots](https://blog.productivity.directory/introducing-zapier-central-work-hand-in-hand-with-ai-bots-0d46ec8b2b6d?gi=5ba98b52e208)
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:13:59](https://news.ycombinator.com/item?id=39618180) - [Training great LLMs from ground zero in the wilderness as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
-* [2024-03-06, 17:06:57](https://news.ycombinator.com/item?id=39618093) - [Optimizing technical docs for LLMs](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms)
 * [2024-03-06, 17:03:58](https://news.ycombinator.com/item?id=39618062) - [Show HN: My first programming project – userscripts to change forum UIs](https://github.com/wkrouse/My-first-programming-project---userscripts-to-change-forum-UIs)
 * [2024-03-06, 17:01:09](https://news.ycombinator.com/item?id=39618027) - [Fathom AI Notetaker (YC W21) Is Hiring a Platform Engineer (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
 * [2024-03-06, 16:45:43](https://news.ycombinator.com/item?id=39617809) - [Worldcoin hit with temporary ban in Spain over privacy concerns](https://techcrunch.com/2024/03/06/worldcoin-spain-ban/)
@@ -28,6 +27,7 @@
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [Concerns raised Israel is deliberately targeting journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
 * [2024-03-05, 13:06:23](https://news.ycombinator.com/item?id=39602807) - [Let's build a VORON Trident (a DIY 3D printer)](https://www.jonashietala.se/series/voron_trident/)
 * [2024-03-05, 10:58:03](https://news.ycombinator.com/item?id=39601814) - [Linkers and Loaders (1999) [pdf]](https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf)
+* [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
 * [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
 * [2024-03-04, 11:42:51](https://news.ycombinator.com/item?id=39589282) - [A Global AppleTalk Network: Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
 
