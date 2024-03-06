@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 18:13:06](https://news.ycombinator.com/item?id=39618986) - [NY Community Bancorp tumbles 40% and is halted as troubled bank seeks cash](https://www.cnbc.com/2024/03/06/new-york-community-bancorp-tumbles-40percent-and-is-halted-as-troubled-bank-reportedly-seeking-cash-infusion.html)
+* [2024-03-06, 18:01:10](https://news.ycombinator.com/item?id=39618784) - [Show HN: Forest Watch](https://koenvangilst.nl/labs/forest-watch)
 * [2024-03-06, 17:57:06](https://news.ycombinator.com/item?id=39618730) - [Apple EU Antitrust Protest a Weird Thing to Do Just as the DMA Is Taking Effect](https://www.techdirt.com/2024/03/06/apple-doth-protest-too-much-regarding-eu-antitrust-fine-but-its-a-weird-thing-to-do-just-as-the-dma-is-taking-effect/)
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:41:37](https://news.ycombinator.com/item?id=39618521) - [Explanation of Quake III Arena Fast inverse square root code](https://old.reddit.com/r/todayilearned/comments/3xyo0t/til_quake_iii_arena_needing_to_calculate_x12/)
