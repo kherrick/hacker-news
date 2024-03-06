@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=39620608"
     ],
     [
-      "We Hacked Google A.I. for $50k",
+      "We hacked Google A.I.",
       "https://www.landh.tech/blog/20240304-google-hack-50000/"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 19:55:22",
+      "https://news.ycombinator.com/item?id=39620540"
+    ],
+    [
+      "Show HN: dockerc – Docker image to static executable \"compiler\"",
+      "https://github.com/NilsIrl/dockerc"
     ]
   ],
   [
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2024-03-06, 17:52:36",
-      "https://news.ycombinator.com/item?id=39618662"
-    ],
-    [
-      "Zapier Central: Work Hand in Hand with AI Bots",
-      "https://blog.productivity.directory/introducing-zapier-central-work-hand-in-hand-with-ai-bots-0d46ec8b2b6d?gi=5ba98b52e208"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 17:50:41",
       "https://news.ycombinator.com/item?id=39618640"
     ],
     [
       "Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient",
       "https://news.ycombinator.com/item?id=39618640"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 17:13:59",
-      "https://news.ycombinator.com/item?id=39618180"
-    ],
-    [
-      "Training great LLMs from ground zero in the wilderness as a startup",
-      "https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "YaCy, a distributed Web Search Engine, based on a peer-to-peer network",
       "https://yacy.net/"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 22:31:43",
+      "https://news.ycombinator.com/item?id=39609997"
+    ],
+    [
+      "Training LLMs from ground zero as a startup",
+      "https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness"
     ]
   ],
   [
