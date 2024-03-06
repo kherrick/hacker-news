@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 09:34:45](https://news.ycombinator.com/item?id=39614060) - [AIs ranked by IQ; AI passes 100 IQ for first time, with release of Claude-3](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
 * [2024-03-06, 08:53:09](https://news.ycombinator.com/item?id=39613789) - [Tell HN: \"Default\" FileZilla download bundled with adware](https://filezilla-project.org/)
 * [2024-03-06, 08:40:14](https://news.ycombinator.com/item?id=39613710) - [Welcome to MARCHintosh](https://www.marchintosh.com/)
 * [2024-03-06, 08:34:16](https://news.ycombinator.com/item?id=39613669) - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
