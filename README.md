@@ -25,7 +25,7 @@
 * [2024-03-06, 08:34:16](https://news.ycombinator.com/item?id=39613669) - [Pg_vectorize: Vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
 * [2024-03-06, 07:15:29](https://news.ycombinator.com/item?id=39613198) - [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
 * [2024-03-06, 06:33:04](https://news.ycombinator.com/item?id=39612950) - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
-* [2024-03-06, 05:28:50](https://news.ycombinator.com/item?id=39612640) - [Realtime telemetry from ISS internal components](https://iss-mimic.github.io/Mimic/)
+* [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [Concerns raised Israel is deliberately targeting journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
 * [2024-03-05, 13:06:23](https://news.ycombinator.com/item?id=39602807) - [Let's build a VORON Trident (a DIY 3D printer)](https://www.jonashietala.se/series/voron_trident/)
 * [2024-03-05, 10:58:03](https://news.ycombinator.com/item?id=39601814) - [Linkers and Loaders (1999) [pdf]](https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf)
 * [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
