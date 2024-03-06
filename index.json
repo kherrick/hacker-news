@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-06, 18:13:06",
-      "https://news.ycombinator.com/item?id=39618986"
+      "2024-03-06, 18:16:58",
+      "https://news.ycombinator.com/item?id=39619041"
     ],
     [
-      "NY Community Bancorp tumbles 40% and is halted as troubled bank seeks cash",
-      "https://www.cnbc.com/2024/03/06/new-york-community-bancorp-tumbles-40percent-and-is-halted-as-troubled-bank-reportedly-seeking-cash-infusion.html"
+      "The End of Airplane.dev",
+      "https://yolken.net/blog/end-of-airplanedev"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 18:01:57",
+      "https://news.ycombinator.com/item?id=39618796"
+    ],
+    [
+      "Adaptive immune responses larger and functionally preserved in a hypervaccinated",
+      "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00134-8/fulltext"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Show HN: Forest Watch",
       "https://koenvangilst.nl/labs/forest-watch"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 17:53:35",
+      "https://news.ycombinator.com/item?id=39618673"
+    ],
+    [
+      "Apple terminates Epic Games developer account calling it a 'threat' to iOS",
+      "https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/"
     ]
   ],
   [
@@ -91,21 +111,11 @@
   ],
   [
     [
-      "2024-03-06, 16:40:42",
-      "https://news.ycombinator.com/item?id=39617743"
-    ],
-    [
-      "A writer skewered the Formula One scene, then her article vanished",
-      "https://www.washingtonpost.com/style/media/2024/03/05/formula-one-road-track-kate-wagner/"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 16:01:59",
       "https://news.ycombinator.com/item?id=39617325"
     ],
     [
-      "Medellín's Green Corridors Are a Breath of Fresh, Cool Air",
+      "Medellín's Green Corridors",
       "https://reasonstobecheerful.world/green-corridors-medellin-colombia-urban-heat/"
     ]
   ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2024-03-06, 03:20:39",
-      "https://news.ycombinator.com/item?id=39611924"
-    ],
-    [
-      "Reverse engineering a cable modem and turning it into an SDR",
-      "https://stdw.github.io/cm-sdr/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 03:09:12",
-      "https://news.ycombinator.com/item?id=39611849"
-    ],
-    [
-      "Sugar: An activity-focused, open-source software learning platform for children",
-      "https://www.sugarlabs.org/"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 13:06:23",
       "https://news.ycombinator.com/item?id=39602807"
     ],
@@ -297,6 +287,16 @@
     [
       "The Evolution of a Haskell Programmer (2001)",
       "https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 11:42:51",
+      "https://news.ycombinator.com/item?id=39589282"
+    ],
+    [
+      "A Global AppleTalk Network: Pushing AppleTalk Across the Internet",
+      "https://biosrhythm.com/?p=2767"
     ]
   ]
 ]
