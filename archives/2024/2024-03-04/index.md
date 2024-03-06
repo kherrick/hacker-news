@@ -60,6 +60,7 @@
 * [2024-03-04, 13:21:09](https://news.ycombinator.com/item?id=39590114) - [How can C Programs be so Reliable? (2008)](https://tratt.net/laurie/blog/2008/how_can_c_programs_be_so_reliable.html)
 * [2024-03-04, 13:06:27](https://news.ycombinator.com/item?id=39589978) - [Lenovo ThinkPad X1 Carbon G12 laptop review: First major refresh in three years](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Carbon-G12-laptop-review-First-major-refresh-in-three-years.803321.0.html)
 * [2024-03-04, 13:00:38](https://news.ycombinator.com/item?id=39589924) - [Apple unveils the new 13- and 15‑inch MacBook Air with the powerful M3 chip](https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/)
+* [2024-03-04, 12:39:24](https://news.ycombinator.com/item?id=39589716) - [Two million old trees hiding in England, says report](https://www.bbc.co.uk/newsround/62039233)
 * [2024-03-04, 12:30:25](https://news.ycombinator.com/item?id=39589626) - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
 * [2024-03-04, 12:27:22](https://news.ycombinator.com/item?id=39589595) - [Half of Organizations Spend More with Kubernetes, Mostly Due to Overprovisioning](https://www.infoq.com/news/2024/03/cncf-finops-kubernetes-overspend/)
 * [2024-03-04, 12:23:44](https://news.ycombinator.com/item?id=39589563) - [Sports gambling was a gateway drug](https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3)
