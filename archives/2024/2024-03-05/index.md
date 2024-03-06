@@ -85,6 +85,7 @@
 * [2024-03-05, 11:37:34](https://news.ycombinator.com/item?id=39602093) - [Forecasting with Trees (2021)](https://www.amazon.science/publications/forecasting-with-trees)
 * [2024-03-05, 11:28:21](https://news.ycombinator.com/item?id=39602035) - [France enshrines 'freedom' to abortion in Constitution, in world first](https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html)
 * [2024-03-05, 11:26:39](https://news.ycombinator.com/item?id=39602023) - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
+* [2024-03-05, 11:14:44](https://news.ycombinator.com/item?id=39601938) - [CatBoost: Open-source gradient boosting library](https://catboost.ai/)
 * [2024-03-05, 11:10:47](https://news.ycombinator.com/item?id=39601913) - [I ate chicken parmesan five times in one day because our customers cooked it](https://quinnkeast.com/writing/eating-the-same-thing-five-times-a-day)
 * [2024-03-05, 10:58:03](https://news.ycombinator.com/item?id=39601814) - [Linkers and Loaders (1999) [pdf]](https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf)
 * [2024-03-05, 10:44:01](https://news.ycombinator.com/item?id=39601710) - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
