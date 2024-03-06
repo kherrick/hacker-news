@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-06, 08:53:09](https://news.ycombinator.com/item?id=39613789) - [Tell HN: \"Default\" FileZilla download bundled with adware](https://filezilla-project.org/)
+* [2024-03-06, 08:40:14](https://news.ycombinator.com/item?id=39613710) - [Welcome to MARCHintosh](https://www.marchintosh.com/)
 * [2024-03-06, 08:34:16](https://news.ycombinator.com/item?id=39613669) - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
 * [2024-03-06, 08:27:24](https://news.ycombinator.com/item?id=39613619) - [SpaceX just showed us what every day could be like in spaceflight](https://arstechnica.com/space/2024/03/in-less-than-24-hours-spacex-launched-3-rockets-and-tested-another/)
 * [2024-03-06, 07:15:29](https://news.ycombinator.com/item?id=39613198) - [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
@@ -7,7 +9,6 @@
 * [2024-03-06, 06:42:45](https://news.ycombinator.com/item?id=39613021) - [Show HN: Piping logs, visualizing in a web app – just suffix \"| npx logscreen\"](https://github.com/soorajshankar/logScreen)
 * [2024-03-06, 06:33:04](https://news.ycombinator.com/item?id=39612950) - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
 * [2024-03-06, 06:03:33](https://news.ycombinator.com/item?id=39612799) - [Alan Kay's talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
-* [2024-03-06, 05:57:47](https://news.ycombinator.com/item?id=39612775) - [Spc-kit: A toolkit for statistical process control using SQL](https://github.com/jchester/spc-kit)
 * [2024-03-06, 05:28:50](https://news.ycombinator.com/item?id=39612640) - [Realtime telemetry from ISS internal components](https://iss-mimic.github.io/Mimic/)
 * [2024-03-06, 05:22:35](https://news.ycombinator.com/item?id=39612607) - [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
 * [2024-03-06, 04:57:44](https://news.ycombinator.com/item?id=39612484) - [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
@@ -25,7 +26,6 @@
 * [2024-03-05, 13:28:56](https://news.ycombinator.com/item?id=39603087) - [Nerdy internals of an Apple text editor](https://papereditor.app/internals)
 * [2024-03-05, 12:31:57](https://news.ycombinator.com/item?id=39602480) - [The Beauty of Roots (2023)](https://math.ucr.edu/home/baez/roots/)
 * [2024-03-05, 11:37:34](https://news.ycombinator.com/item?id=39602093) - [Forecasting with Trees (2021)](https://www.amazon.science/publications/forecasting-with-trees)
-* [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:35:29](https://news.ycombinator.com/item?id=39600108) - [The Future That Never Was](http://www.os2museum.com/wp/the-future-that-never-was/)
 * [2024-03-04, 12:12:01](https://news.ycombinator.com/item?id=39589488) - [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
 * [2024-03-04, 11:44:16](https://news.ycombinator.com/item?id=39589293) - [The most traveled crew transport spacecraft flies again](https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/)
