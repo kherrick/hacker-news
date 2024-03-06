@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2024-03-06, 03:48:56",
+      "https://news.ycombinator.com/item?id=39612078"
+    ],
+    [
+      "Donald Knuth – The Patron Saint of Yak Shaves",
+      "https://yakshav.es/the-patron-saint-of-yakshaves/"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 03:20:38",
+      "https://news.ycombinator.com/item?id=39611923"
+    ],
+    [
+      "Sora: Review on Background, Tech, Limits, and Opportunities of Vision Models",
+      "https://arxiv.org/abs/2402.17177"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 03:09:12",
+      "https://news.ycombinator.com/item?id=39611849"
+    ],
+    [
+      "Sugar: An activity-focused, open-source software learning platform for children",
+      "https://www.sugarlabs.org/"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 02:43:54",
       "https://news.ycombinator.com/item?id=39611662"
     ],
@@ -57,16 +87,6 @@
     [
       "BlackCat ransomware group implodes after apparent payment by Change Healthcare",
       "https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 22:16:06",
-      "https://news.ycombinator.com/item?id=39609846"
-    ],
-    [
-      "European court favors strong encryption, calling it key to privacy rights",
-      "https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2024-03-05, 17:22:21",
-      "https://news.ycombinator.com/item?id=39606464"
-    ],
-    [
-      "Microsoft is ending support for the Windows Subsystem for Android (WSA)",
-      "https://learn.microsoft.com/en-us/windows/android/wsa/"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 17:14:20",
       "https://news.ycombinator.com/item?id=39606371"
     ],
     [
       "How to generate uniformly random points on n-spheres and in n-balls",
       "https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 17:03:26",
-      "https://news.ycombinator.com/item?id=39606245"
-    ],
-    [
-      "London's Great Stink",
-      "https://www.historic-uk.com/HistoryUK/HistoryofBritain/Londons-Great-Stink/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-03-04, 22:31:15",
-      "https://news.ycombinator.com/item?id=39597030"
-    ],
-    [
-      "Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"",
-      "https://github.com/HeyPuter/puter"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 13:21:09",
       "https://news.ycombinator.com/item?id=39590114"
     ],
@@ -297,6 +287,16 @@
     [
       "The most traveled crew transport spacecraft flies again",
       "https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 11:12:40",
+      "https://news.ycombinator.com/item?id=39589089"
+    ],
+    [
+      "On Implementation of Distributed Protocols",
+      "https://replica-io.dev/blog/2024/03/04/on-implementation-of-distributed-prtocols"
     ]
   ]
 ]
