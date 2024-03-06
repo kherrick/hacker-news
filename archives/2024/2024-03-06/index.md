@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 07:50:30](https://news.ycombinator.com/item?id=39613398) - [The Psychopolitics of Trauma](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma)
 * [2024-03-06, 07:12:05](https://news.ycombinator.com/item?id=39613181) - [Birmingham council's 'equal pay' bankruptcy provided cover for Oracle disaster](https://theconversation.com/how-birmingham-city-councils-equal-pay-bankruptcy-provided-cover-for-ongoing-oracle-it-disaster-224416)
 * [2024-03-06, 06:42:45](https://news.ycombinator.com/item?id=39613021) - [Show HN: Piping logs, visualizing in a web app – just suffix \"| npx logscreen\"](https://github.com/soorajshankar/logScreen)
 * [2024-03-06, 06:33:04](https://news.ycombinator.com/item?id=39612950) - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
 * [2024-03-06, 06:03:33](https://news.ycombinator.com/item?id=39612799) - [Alan Kay's talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
 * [2024-03-06, 05:32:14](https://news.ycombinator.com/item?id=39612657) - [EU Court finds overriding public interest in free access to European standards [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-03/cp240041en.pdf)
+* [2024-03-06, 05:28:50](https://news.ycombinator.com/item?id=39612640) - [Realtime telemetry from ISS internal components](https://iss-mimic.github.io/Mimic/)
 * [2024-03-06, 05:28:21](https://news.ycombinator.com/item?id=39612637) - [Derek Lowe's Things I Won't Work With (Index)](https://www.science.org/topic/blog-category/things-i-wont-work-with)
 * [2024-03-06, 05:22:35](https://news.ycombinator.com/item?id=39612607) - [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
 * [2024-03-06, 04:57:44](https://news.ycombinator.com/item?id=39612484) - [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
