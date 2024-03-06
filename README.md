@@ -22,12 +22,12 @@
 * [2024-03-06, 07:15:29](https://news.ycombinator.com/item?id=39613198) - [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
 * [2024-03-06, 06:42:45](https://news.ycombinator.com/item?id=39613021) - [Show HN: Piping logs, visualizing in a web app – just suffix \"| npx logscreen\"](https://github.com/soorajshankar/logScreen)
 * [2024-03-06, 06:33:04](https://news.ycombinator.com/item?id=39612950) - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
-* [2024-03-06, 05:57:47](https://news.ycombinator.com/item?id=39612775) - [Spc-kit: A toolkit for statistical process control using SQL](https://github.com/jchester/spc-kit)
 * [2024-03-06, 05:28:50](https://news.ycombinator.com/item?id=39612640) - [Realtime telemetry from ISS internal components](https://iss-mimic.github.io/Mimic/)
 * [2024-03-06, 04:57:44](https://news.ycombinator.com/item?id=39612484) - [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 * [2024-03-06, 04:49:38](https://news.ycombinator.com/item?id=39612443) - [Leaving LinkedIn](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
 * [2024-03-05, 13:06:23](https://news.ycombinator.com/item?id=39602807) - [Let's build a VORON Trident (a DIY 3D printer)](https://www.jonashietala.se/series/voron_trident/)
 * [2024-03-05, 10:58:03](https://news.ycombinator.com/item?id=39601814) - [Linkers and Loaders (1999) [pdf]](https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf)
+* [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
 * [2024-03-04, 12:12:01](https://news.ycombinator.com/item?id=39589488) - [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
 * [2024-03-04, 11:42:51](https://news.ycombinator.com/item?id=39589282) - [A Global AppleTalk Network: Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
 
