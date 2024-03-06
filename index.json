@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-06, 14:44:46",
-      "https://news.ycombinator.com/item?id=39616466"
+      "2024-03-06, 15:44:19",
+      "https://news.ycombinator.com/item?id=39617130"
     ],
     [
-      "Lisa Su Says the \"Team Is on It\" After Tweet About Open-Source AMD GPU Firmware",
-      "https://www.phoronix.com/news/Lisa-Su-Tweet-OSS-Firmware"
+      "World War II 'Rumor Clinics' Helped America Battle Wild Gossip",
+      "https://www.smithsonianmag.com/history/world-war-ii-rumor-clinics-helped-america-battle-wild-gossip-180983883/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "You Might Not Need a CRDT: Document Sync in the Wild [video]",
       "https://www.youtube.com/watch?v=0d73MdQkJOk"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 12:29:37",
+      "https://news.ycombinator.com/item?id=39615198"
+    ],
+    [
+      "Compression efficiency with shared dictionaries in Chrome",
+      "https://developer.chrome.com/blog/shared-dictionary-compression"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Cracking Meta's Messenger Certificate Pinning on macOS",
       "https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 13:28:56",
-      "https://news.ycombinator.com/item?id=39603087"
-    ],
-    [
-      "Nerdy internals of an Apple text editor",
-      "https://papereditor.app/internals"
     ]
   ],
   [
