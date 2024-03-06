@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
 * [2024-03-06, 08:34:16](https://news.ycombinator.com/item?id=39613669) - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
+* [2024-03-06, 08:27:24](https://news.ycombinator.com/item?id=39613619) - [SpaceX just showed us what every day could be like in spaceflight](https://arstechnica.com/space/2024/03/in-less-than-24-hours-spacex-launched-3-rockets-and-tested-another/)
 * [2024-03-06, 08:08:31](https://news.ycombinator.com/item?id=39613510) - [Tesla halts production at German factory after attack claimed by far-left group](https://www.france24.com/en/europe/20240305-tesla-halts-production-at-german-factory-after-attack-claimed-by-far-left-group)
 * [2024-03-06, 07:50:30](https://news.ycombinator.com/item?id=39613398) - [The Psychopolitics of Trauma](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma)
 * [2024-03-06, 07:15:29](https://news.ycombinator.com/item?id=39613198) - [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
