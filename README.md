@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-06, 21:44:40](https://news.ycombinator.com/item?id=39622006) - [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
-* [2024-03-06, 21:17:56](https://news.ycombinator.com/item?id=39621605) - [LinkedIn Outage](https://docs.ayrshare.com/additional-info/status-update)
 * [2024-03-06, 21:01:09](https://news.ycombinator.com/item?id=39621384) - [Eqtble (YC W21) Is Hiring a Founding Account Executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
 * [2024-03-06, 20:00:11](https://news.ycombinator.com/item?id=39620608) - [We hacked Google A.I.](https://www.landh.tech/blog/20240304-google-hack-50000/)
 * [2024-03-06, 19:55:22](https://news.ycombinator.com/item?id=39620540) - [Show HN: dockerc – Docker image to static executable \"compiler\"](https://github.com/NilsIrl/dockerc)
@@ -22,13 +21,14 @@
 * [2024-03-06, 14:15:25](https://news.ycombinator.com/item?id=39616155) - [How likely are chance resemblances between languages? (2002)](https://www.zompist.com/chance.htm)
 * [2024-03-06, 14:10:51](https://news.ycombinator.com/item?id=39616111) - [Early American Fire Alarm Systems (2022)](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
 * [2024-03-06, 12:29:37](https://news.ycombinator.com/item?id=39615198) - [Compression efficiency with shared dictionaries in Chrome](https://developer.chrome.com/blog/shared-dictionary-compression)
+* [2024-03-06, 08:34:16](https://news.ycombinator.com/item?id=39613669) - [Pg_vectorize: Vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
 * [2024-03-06, 07:15:29](https://news.ycombinator.com/item?id=39613198) - [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
+* [2024-03-06, 06:33:04](https://news.ycombinator.com/item?id=39612950) - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
 * [2024-03-05, 22:31:43](https://news.ycombinator.com/item?id=39609997) - [Training LLMs from ground zero as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [Journalist casualties in the Israel-Gaza war](https://cpj.org/2024/03/journalist-casualties-in-the-israel-gaza-conflict)
 * [2024-03-05, 10:58:03](https://news.ycombinator.com/item?id=39601814) - [Linkers and Loaders (1999) [pdf]](https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf)
 * [2024-03-05, 10:08:34](https://news.ycombinator.com/item?id=39601443) - [Generating a 3D map with OpenStreetMap and A-Frame](https://mary.codes/blog/programming/generating_a_vr_map_with_osm_and_aframe/)
 * [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
-* [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
 * [2024-03-04, 11:42:51](https://news.ycombinator.com/item?id=39589282) - [A Global AppleTalk Network: Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
 
 ## [Archives](archives/index.md)
