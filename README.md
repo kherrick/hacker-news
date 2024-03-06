@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-06, 02:19:01](https://news.ycombinator.com/item?id=39611484) - [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
+* [2024-03-06, 01:28:20](https://news.ycombinator.com/item?id=39611213) - [Over 2 years since the 120hz iPhone, Safari still doesn't support 120hz](https://www.testufo.com/)
 * [2024-03-06, 01:14:51](https://news.ycombinator.com/item?id=39611144) - [Claude 3 Opus reinvented this quantum algorithm from scratch in just 2 prompts](https://twitter.com/GillVerd/status/1764901418664882327)
 * [2024-03-06, 01:13:11](https://news.ycombinator.com/item?id=39611130) - [Food Is Less Nutritious Than It Used to Be](https://modernfarmer.com/2024/03/your-food-is-less-nutritious-than-it-used-to-be/)
 * [2024-03-06, 01:10:49](https://news.ycombinator.com/item?id=39611111) - [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
