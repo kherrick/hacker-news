@@ -70,6 +70,7 @@
 * [2024-03-04, 12:00:39](https://news.ycombinator.com/item?id=39589412) - [Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
 * [2024-03-04, 11:44:16](https://news.ycombinator.com/item?id=39589293) - [The most traveled crew transport spacecraft flies again](https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/)
 * [2024-03-04, 11:15:03](https://news.ycombinator.com/item?id=39589102) - [The Theorist Who Sees Math in Art, Music and Writing](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
+* [2024-03-04, 11:12:40](https://news.ycombinator.com/item?id=39589089) - [On Implementation of Distributed Protocols](https://replica-io.dev/blog/2024/03/04/on-implementation-of-distributed-prtocols)
 * [2024-03-04, 11:08:04](https://news.ycombinator.com/item?id=39589065) - [Incorrect Stack Exchange Answers Make Me Angry](https://1f6042.blogspot.com/2024/03/incorrect-stack-exchange-answers-make.html)
 * [2024-03-04, 10:49:36](https://news.ycombinator.com/item?id=39588977) - [A windowed graph Fourier transform](https://ieeexplore.ieee.org/abstract/document/6319640)
 * [2024-03-04, 10:36:14](https://news.ycombinator.com/item?id=39588899) - [What Is a Schur Decomposition?](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
