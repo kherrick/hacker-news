@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 20:00:11](https://news.ycombinator.com/item?id=39620608) - [We Hacked Google A.I. for $50k](https://www.landh.tech/blog/20240304-google-hack-50000/)
+* [2024-03-06, 19:47:39](https://news.ycombinator.com/item?id=39620422) - [The Law of Leaky Abstractions (2002)](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 * [2024-03-06, 19:21:31](https://news.ycombinator.com/item?id=39620060) - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
 * [2024-03-06, 19:06:07](https://news.ycombinator.com/item?id=39619850) - [Zapier Central](https://zapier.com/central)
 * [2024-03-06, 18:33:46](https://news.ycombinator.com/item?id=39619304) - [Anthropic's Claude 3 Models in Google Cloud Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/announcing-anthropics-claude-3-models-in-google-cloud-vertex-ai)
@@ -18,11 +20,14 @@
 * [2024-03-06, 18:01:10](https://news.ycombinator.com/item?id=39618784) - [Show HN: Forest Watch](https://koenvangilst.nl/labs/forest-watch)
 * [2024-03-06, 17:57:06](https://news.ycombinator.com/item?id=39618730) - [Apple EU Antitrust Protest a Weird Thing to Do Just as the DMA Is Taking Effect](https://www.techdirt.com/2024/03/06/apple-doth-protest-too-much-regarding-eu-antitrust-fine-but-its-a-weird-thing-to-do-just-as-the-dma-is-taking-effect/)
 * [2024-03-06, 17:53:35](https://news.ycombinator.com/item?id=39618673) - [Apple terminates Epic Games developer account calling it a 'threat' to iOS](https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/)
+* [2024-03-06, 17:52:36](https://news.ycombinator.com/item?id=39618662) - [Zapier Central: Work Hand in Hand with AI Bots](https://blog.productivity.directory/introducing-zapier-central-work-hand-in-hand-with-ai-bots-0d46ec8b2b6d?gi=5ba98b52e208)
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:41:37](https://news.ycombinator.com/item?id=39618521) - [Explanation of Quake III Arena Fast inverse square root code](https://old.reddit.com/r/todayilearned/comments/3xyo0t/til_quake_iii_arena_needing_to_calculate_x12/)
 * [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
 * [2024-03-06, 17:26:30](https://news.ycombinator.com/item?id=39618342) - [Stop Eating Sugar (2020)](https://mmalmi.github.io/stop-eating-sugar)
+* [2024-03-06, 17:13:59](https://news.ycombinator.com/item?id=39618180) - [Training great LLMs from ground zero in the wilderness as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
 * [2024-03-06, 17:11:24](https://news.ycombinator.com/item?id=39618152) - ['We had to educate Oracle about our contract,' CIO says after Big Red audit](https://www.theregister.com/2024/03/06/oracle_audits/)
+* [2024-03-06, 17:06:57](https://news.ycombinator.com/item?id=39618093) - [Optimizing technical docs for LLMs](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms)
 * [2024-03-06, 17:03:58](https://news.ycombinator.com/item?id=39618062) - [Show HN: My first programming project – userscripts to change forum UIs](https://github.com/wkrouse/My-first-programming-project---userscripts-to-change-forum-UIs)
 * [2024-03-06, 17:01:09](https://news.ycombinator.com/item?id=39618027) - [Fathom AI Notetaker (YC W21) Is Hiring a Platform Engineer (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
 * [2024-03-06, 16:56:29](https://news.ycombinator.com/item?id=39617953) - [Tailwind CSS v4.0.0 Alpha](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
