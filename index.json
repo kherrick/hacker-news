@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-03-06, 18:27:49",
-      "https://news.ycombinator.com/item?id=39619204"
-    ],
-    [
-      "You Don't Need a Dedicated Cache Service – PostgreSQL as a Cache (2023)",
-      "https://martinheinz.dev/blog/105"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 18:27:24",
       "https://news.ycombinator.com/item?id=39619196"
     ],
@@ -267,6 +257,16 @@
     [
       "Linkers and Loaders (1999) [pdf]",
       "https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 10:08:34",
+      "https://news.ycombinator.com/item?id=39601443"
+    ],
+    [
+      "Generating a 3D map with OpenStreetMap and A-Frame",
+      "https://mary.codes/blog/programming/generating_a_vr_map_with_osm_and_aframe/"
     ]
   ],
   [
