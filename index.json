@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-06, 21:06:38",
+      "https://news.ycombinator.com/item?id=39621458"
+    ],
+    [
+      "Linkedin.com Outage",
+      "https://www.linkedin-status.com"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 21:01:09",
       "https://news.ycombinator.com/item?id=39621384"
     ],
@@ -197,16 +207,6 @@
     [
       "Compression efficiency with shared dictionaries in Chrome",
       "https://developer.chrome.com/blog/shared-dictionary-compression"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 08:34:16",
-      "https://news.ycombinator.com/item?id=39613669"
-    ],
-    [
-      "Pg_vectorize: Vector search and RAG on Postgres",
-      "https://github.com/tembo-io/pg_vectorize"
     ]
   ],
   [
