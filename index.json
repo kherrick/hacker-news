@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-06, 18:33:46",
-      "https://news.ycombinator.com/item?id=39619304"
-    ],
-    [
-      "Anthropic's Claude 3 Models in Google Cloud Vertex AI",
-      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-anthropics-claude-3-models-in-google-cloud-vertex-ai"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 18:27:49",
       "https://news.ycombinator.com/item?id=39619204"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39618990"
     ],
     [
-      "How Do Satellites Communicate with a GPS System?",
+      "How Do Satellites Communicate with a GPS System? (2018)",
       "https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/"
     ]
   ],
@@ -67,16 +57,6 @@
     [
       "FDA Clears First Over-the-Counter Continuous Glucose Monitor",
       "https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 18:01:57",
-      "https://news.ycombinator.com/item?id=39618796"
-    ],
-    [
-      "Adaptive immune responses larger and functionally preserved in a hypervaccinated",
-      "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00134-8/fulltext"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-03-06, 06:42:45",
+      "https://news.ycombinator.com/item?id=39613021"
+    ],
+    [
+      "Show HN: Piping logs, visualizing in a web app – just suffix \"| npx logscreen\"",
+      "https://github.com/soorajshankar/logScreen"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 06:33:04",
       "https://news.ycombinator.com/item?id=39612950"
     ],
@@ -267,6 +257,16 @@
     [
       "Fonts are still a Helvetica of a Problem",
       "https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 04:49:38",
+      "https://news.ycombinator.com/item?id=39612443"
+    ],
+    [
+      "Leaving LinkedIn",
+      "https://corecursive.com/leaving-linkedin-with-chris-krycho/"
     ]
   ],
   [
