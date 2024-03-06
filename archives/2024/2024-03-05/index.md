@@ -83,6 +83,7 @@
 * [2024-03-05, 11:26:39](https://news.ycombinator.com/item?id=39602023) - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
 * [2024-03-05, 10:44:01](https://news.ycombinator.com/item?id=39601710) - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
 * [2024-03-05, 10:22:09](https://news.ycombinator.com/item?id=39601538) - [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
+* [2024-03-05, 09:45:46](https://news.ycombinator.com/item?id=39601284) - [Behind the design: A deep dive into Aptos](https://microsoft.design/articles/behind-the-design-a-deep-dive-into-aptos)
 * [2024-03-05, 09:38:52](https://news.ycombinator.com/item?id=39601229) - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
 * [2024-03-05, 09:34:35](https://news.ycombinator.com/item?id=39601201) - [Library of Juggling](http://libraryofjuggling.com/)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
