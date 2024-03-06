@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 19:21:31](https://news.ycombinator.com/item?id=39620060) - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
 * [2024-03-06, 18:33:46](https://news.ycombinator.com/item?id=39619304) - [Anthropic's Claude 3 Models in Google Cloud Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/announcing-anthropics-claude-3-models-in-google-cloud-vertex-ai)
 * [2024-03-06, 18:27:49](https://news.ycombinator.com/item?id=39619204) - [You Don't Need a Dedicated Cache Service – PostgreSQL as a Cache (2023)](https://martinheinz.dev/blog/105)
 * [2024-03-06, 18:27:24](https://news.ycombinator.com/item?id=39619196) - [Ultra Librarian Joins Flux to Take the Hard Out of Hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)

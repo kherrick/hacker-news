@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-06, 19:21:31](https://news.ycombinator.com/item?id=39620060) - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
 * [2024-03-06, 18:27:49](https://news.ycombinator.com/item?id=39619204) - [You Don't Need a Dedicated Cache Service – PostgreSQL as a Cache (2023)](https://martinheinz.dev/blog/105)
 * [2024-03-06, 18:27:24](https://news.ycombinator.com/item?id=39619196) - [Ultra Librarian Joins Flux to Take the Hard Out of Hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
 * [2024-03-06, 18:17:42](https://news.ycombinator.com/item?id=39619053) - [Show HN: Fructose, LLM calls as strongly typed functions](https://github.com/bananaml/fructose)
@@ -10,7 +11,6 @@
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:03:58](https://news.ycombinator.com/item?id=39618062) - [Show HN: My first programming project – userscripts to change forum UIs](https://github.com/wkrouse/My-first-programming-project---userscripts-to-change-forum-UIs)
 * [2024-03-06, 17:01:09](https://news.ycombinator.com/item?id=39618027) - [Fathom AI Notetaker (YC W21) Is Hiring a Platform Engineer (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
-* [2024-03-06, 16:56:29](https://news.ycombinator.com/item?id=39617953) - [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 * [2024-03-06, 16:45:43](https://news.ycombinator.com/item?id=39617809) - [Worldcoin hit with temporary ban in Spain over privacy concerns](https://techcrunch.com/2024/03/06/worldcoin-spain-ban/)
 * [2024-03-06, 16:01:59](https://news.ycombinator.com/item?id=39617325) - [Medellín's Green Corridors](https://reasonstobecheerful.world/green-corridors-medellin-colombia-urban-heat/)
 * [2024-03-06, 15:44:19](https://news.ycombinator.com/item?id=39617130) - [World War II 'rumor clinics' helped America battle wild gossip](https://www.smithsonianmag.com/history/world-war-ii-rumor-clinics-helped-america-battle-wild-gossip-180983883/)
