@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
 * [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://text.npr.org/1236277058)
 * [2024-03-06, 22:32:37](https://news.ycombinator.com/item?id=39622624) - [Andrew Johnson's drunk vice-presidential inaugural address](https://en.wikipedia.org/wiki/Andrew_Johnson%27s_drunk_vice-presidential_inaugural_address)
 * [2024-03-06, 22:23:01](https://news.ycombinator.com/item?id=39622524) - [Rooster Teeth Shut Down by Warner Bros. Discovery](https://deadline.com/2024/03/rooster-teeth-shut-down-warner-bros-discovery-roost-podcast-continue-1235847264/)
@@ -52,6 +53,7 @@
 * [2024-03-06, 16:01:59](https://news.ycombinator.com/item?id=39617325) - [Medellín's Green Corridors Are a Breath of Fresh, Cool Air](https://reasonstobecheerful.world/green-corridors-medellin-colombia-urban-heat/)
 * [2024-03-06, 15:50:32](https://news.ycombinator.com/item?id=39617204) - [Ask HN: Best Codebases You've Worked With?](https://news.ycombinator.com/item?id=39617204)
 * [2024-03-06, 15:44:19](https://news.ycombinator.com/item?id=39617130) - [World War II 'Rumor Clinics' Helped America Battle Wild Gossip](https://www.smithsonianmag.com/history/world-war-ii-rumor-clinics-helped-america-battle-wild-gossip-180983883/)
+* [2024-03-06, 15:04:41](https://news.ycombinator.com/item?id=39616709) - [Show HN: Daytona – Open-source dev env manager from a 15-year journey](https://github.com/daytonaio/daytona)
 * [2024-03-06, 14:44:46](https://news.ycombinator.com/item?id=39616466) - [Lisa Su Says the \"Team Is on It\" After Tweet About Open-Source AMD GPU Firmware](https://www.phoronix.com/news/Lisa-Su-Tweet-OSS-Firmware)
 * [2024-03-06, 14:40:53](https://news.ycombinator.com/item?id=39616417) - [GPS Antenna Mods Make Starlink Terminal Immune to Jammers](https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/)
 * [2024-03-06, 14:32:51](https://news.ycombinator.com/item?id=39616347) - [Republicans Kill Popular FCC Program That Made Broadband Affordable for the Poor](https://www.techdirt.com/2024/03/06/republicans-kill-popular-fcc-program-that-made-broadband-affordable-for-the-poor/)
