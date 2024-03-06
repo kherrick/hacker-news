@@ -1,12 +1,72 @@
 [
   [
     [
+      "2024-03-06, 18:33:46",
+      "https://news.ycombinator.com/item?id=39619304"
+    ],
+    [
+      "Anthropic's Claude 3 Models in Google Cloud Vertex AI",
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-anthropics-claude-3-models-in-google-cloud-vertex-ai"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 18:27:49",
+      "https://news.ycombinator.com/item?id=39619204"
+    ],
+    [
+      "You Don't Need a Dedicated Cache Service – PostgreSQL as a Cache (2023)",
+      "https://martinheinz.dev/blog/105"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 18:27:24",
+      "https://news.ycombinator.com/item?id=39619196"
+    ],
+    [
+      "Ultra Librarian Joins Flux to Take the Hard Out of Hardware",
+      "https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 18:17:42",
+      "https://news.ycombinator.com/item?id=39619053"
+    ],
+    [
+      "Show HN: Fructose, LLM calls as strongly typed functions",
+      "https://github.com/bananaml/fructose"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 18:16:58",
       "https://news.ycombinator.com/item?id=39619041"
     ],
     [
       "The End of Airplane.dev",
       "https://yolken.net/blog/end-of-airplanedev"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 18:13:14",
+      "https://news.ycombinator.com/item?id=39618990"
+    ],
+    [
+      "How Do Satellites Communicate with a GPS System?",
+      "https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 18:03:43",
+      "https://news.ycombinator.com/item?id=39618822"
+    ],
+    [
+      "FDA Clears First Over-the-Counter Continuous Glucose Monitor",
+      "https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor"
     ]
   ],
   [
@@ -35,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39618673"
     ],
     [
-      "Apple terminates Epic Games developer account calling it a 'threat' to iOS",
+      "Apple terminates Epic Games developer account, calling it a 'threat' to iOS",
       "https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/"
     ]
   ],
@@ -51,22 +111,22 @@
   ],
   [
     [
-      "2024-03-06, 17:33:45",
-      "https://news.ycombinator.com/item?id=39618433"
-    ],
-    [
-      "U.S. students will take the SAT online",
-      "https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 17:11:24",
       "https://news.ycombinator.com/item?id=39618152"
     ],
     [
       "'We had to educate Oracle about our contract,' CIO says after Big Red audit",
       "https://www.theregister.com/2024/03/06/oracle_audits/"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 17:03:58",
+      "https://news.ycombinator.com/item?id=39618062"
+    ],
+    [
+      "Show HN: My first programming project – userscripts to change forum UIs",
+      "https://github.com/wkrouse/My-first-programming-project---userscripts-to-change-forum-UIs"
     ]
   ],
   [
@@ -97,16 +157,6 @@
     [
       "Worldcoin hit with temporary ban in Spain over privacy concerns",
       "https://techcrunch.com/2024/03/06/worldcoin-spain-ban/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 16:40:51",
-      "https://news.ycombinator.com/item?id=39617745"
-    ],
-    [
-      "Worldcoin is now banned in Spain",
-      "https://www.elmundo.es/economia/empresas/2024/03/06/65e86b14e9cf4a11128b456f.html"
     ]
   ],
   [
@@ -191,32 +241,12 @@
   ],
   [
     [
-      "2024-03-06, 06:42:45",
-      "https://news.ycombinator.com/item?id=39613021"
-    ],
-    [
-      "Show HN: Piping logs, visualizing in a web app – just suffix \"| npx logscreen\"",
-      "https://github.com/soorajshankar/logScreen"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 06:33:04",
       "https://news.ycombinator.com/item?id=39612950"
     ],
     [
       "YaCy, a distributed Web Search Engine, based on a peer-to-peer network",
       "https://yacy.net/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 05:57:47",
-      "https://news.ycombinator.com/item?id=39612775"
-    ],
-    [
-      "Spc-kit: A toolkit for statistical process control using SQL",
-      "https://github.com/jchester/spc-kit"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2024-03-06, 04:49:38",
-      "https://news.ycombinator.com/item?id=39612443"
-    ],
-    [
-      "Leaving LinkedIn",
-      "https://corecursive.com/leaving-linkedin-with-chris-krycho/"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 13:06:23",
       "https://news.ycombinator.com/item?id=39602807"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-03-05, 11:37:34",
-      "https://news.ycombinator.com/item?id=39602093"
-    ],
-    [
-      "Forecasting with Trees (2021)",
-      "https://www.amazon.science/publications/forecasting-with-trees"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 10:58:03",
       "https://news.ycombinator.com/item?id=39601814"
     ],
     [
       "Linkers and Loaders (1999) [pdf]",
       "https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 12:12:01",
-      "https://news.ycombinator.com/item?id=39589488"
-    ],
-    [
-      "The Evolution of a Haskell Programmer (2001)",
-      "https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm"
     ]
   ],
   [
