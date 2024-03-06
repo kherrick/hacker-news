@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-03-06, 00:03:05",
-      "https://news.ycombinator.com/item?id=39610662"
+      "2024-03-06, 01:29:13",
+      "https://news.ycombinator.com/item?id=39611220"
     ],
     [
-      "BYD's EV Dream May Be Legacy Automakers' Nightmare",
-      "https://spectrum.ieee.org/byd-ev-china-supercar"
+      "EU Fines Apple $1.8B",
+      "https://www.theguardian.com/business/2024/mar/04/eu-fines-apple-18bn-over-app-store-restrictions-on-music-streaming"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 01:14:51",
+      "https://news.ycombinator.com/item?id=39611144"
+    ],
+    [
+      "Claude 3 Opus reinvented this quantum algorithm from scratch in just 2 prompts",
+      "https://twitter.com/GillVerd/status/1764901418664882327"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 01:10:49",
+      "https://news.ycombinator.com/item?id=39611111"
+    ],
+    [
+      "Embedded Swift on the Raspberry Pi Pico",
+      "https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 00:46:12",
+      "https://news.ycombinator.com/item?id=39610931"
+    ],
+    [
+      "Accenture to Acquire Udacity",
+      "https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/"
     ]
   ],
   [
@@ -77,6 +107,16 @@
     [
       "This Is Knuth 3:16 (2002)",
       "http://www.larry.denenberg.com/Knuth-3-16/"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 18:08:05",
+      "https://news.ycombinator.com/item?id=39607079"
+    ],
+    [
+      "New ways we're tackling spammy, low-quality content on Search",
+      "https://blog.google/products/search/google-search-update-march-2024/"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2024-03-05, 16:14:10",
-      "https://news.ycombinator.com/item?id=39605487"
-    ],
-    [
-      "Why are there so many methane satellites?",
-      "https://heatmap.news/technology/methanesat-edf-satellite-gosat"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 15:48:56",
       "https://news.ycombinator.com/item?id=39604961"
     ],
@@ -197,16 +227,6 @@
     [
       "Elliptic curve 'murmurations' found with AI",
       "https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 14:59:29",
-      "https://news.ycombinator.com/item?id=39604245"
-    ],
-    [
-      "Show HN: NeedleDrop – Guess the movie from a song",
-      "https://www.needledrop.me/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-03-05, 06:05:05",
-      "https://news.ycombinator.com/item?id=39599958"
-    ],
-    [
-      "Stable Diffusion 3: Research Paper",
-      "https://stability.ai/news/stable-diffusion-3-research-paper"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 22:31:15",
       "https://news.ycombinator.com/item?id=39597030"
     ],
@@ -287,16 +297,6 @@
     [
       "The most traveled crew transport spacecraft flies again",
       "https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 10:49:36",
-      "https://news.ycombinator.com/item?id=39588977"
-    ],
-    [
-      "A windowed graph Fourier transform (2012)",
-      "https://ieeexplore.ieee.org/abstract/document/6319640"
     ]
   ]
 ]
