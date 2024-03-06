@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 06:42:45](https://news.ycombinator.com/item?id=39613021) - [Show HN: Piping logs, visualizing in a web app – just suffix \"| npx logscreen\"](https://github.com/soorajshankar/logScreen)
 * [2024-03-06, 06:03:33](https://news.ycombinator.com/item?id=39612799) - [Alan Kay's talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
 * [2024-03-06, 05:28:21](https://news.ycombinator.com/item?id=39612637) - [Derek Lowe's Things I Won't Work With (Index)](https://www.science.org/topic/blog-category/things-i-wont-work-with)
 * [2024-03-06, 05:22:35](https://news.ycombinator.com/item?id=39612607) - [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
