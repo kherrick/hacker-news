@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 02:43:54](https://news.ycombinator.com/item?id=39611662) - [Propagation of Error in Geometry Constructions](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
 * [2024-03-06, 02:19:01](https://news.ycombinator.com/item?id=39611484) - [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
 * [2024-03-06, 01:29:13](https://news.ycombinator.com/item?id=39611220) - [EU Fines Apple $1.8B](https://www.theguardian.com/business/2024/mar/04/eu-fines-apple-18bn-over-app-store-restrictions-on-music-streaming)
 * [2024-03-06, 01:28:20](https://news.ycombinator.com/item?id=39611213) - [Over 2 years since the 120hz iPhone, Safari still doesn't support 120hz](https://www.testufo.com/)

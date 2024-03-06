@@ -89,6 +89,7 @@
 * [2024-03-05, 07:27:57](https://news.ycombinator.com/item?id=39600373) - [FreeBSD 13.3-Release Announcement](https://www.freebsd.org/releases/13.3R/announce/)
 * [2024-03-05, 06:49:23](https://news.ycombinator.com/item?id=39600172) - [Linux Crosses 4% Market Share Worldwide](https://linuxiac.com/linux-crosses-four-percent-market-share-worldwide/)
 * [2024-03-05, 06:45:29](https://news.ycombinator.com/item?id=39600158) - [JPEG XL Is a Stupid Name](https://www.mark-pekala.dev/posts/jpeg-xl)
+* [2024-03-05, 06:35:29](https://news.ycombinator.com/item?id=39600108) - [The Future That Never Was](http://www.os2museum.com/wp/the-future-that-never-was/)
 * [2024-03-05, 06:22:03](https://news.ycombinator.com/item?id=39600031) - [Nuke: A memory arena implementation for Go](https://github.com/ortuman/nuke)
 * [2024-03-05, 06:05:05](https://news.ycombinator.com/item?id=39599958) - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
 * [2024-03-05, 05:20:58](https://news.ycombinator.com/item?id=39599736) - [Apple Fined $2B in One of Europe's Largest Antitrust Actions](https://www.wsj.com/tech/apple-hit-with-near-2-billion-fine-in-europe-over-music-streaming-apps-74062ff7)
