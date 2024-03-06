@@ -41,6 +41,7 @@
 * [2024-03-05, 17:00:51](https://news.ycombinator.com/item?id=39606209) - [Keeper (YC S21) hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
 * [2024-03-05, 16:53:02](https://news.ycombinator.com/item?id=39606093) - [Ancient Counterfeiters and Their Fake Coins](https://coinweek.com/bad-money-ancient-counterfeiters-and-their-fake-coins/)
 * [2024-03-05, 16:50:00](https://news.ycombinator.com/item?id=39606048) - [Kagi and Wolfram](https://blog.kagi.com/kagi-wolfram)
+* [2024-03-05, 16:47:36](https://news.ycombinator.com/item?id=39606012) - [\"The Nature of Technology\" – Book review](https://asindu.xyz/posts/the-nature-of-technology-book-review/)
 * [2024-03-05, 16:41:39](https://news.ycombinator.com/item?id=39605923) - [Show HN: Workout Tracker PWA](https://workout.olzhasar.com/)
 * [2024-03-05, 16:39:02](https://news.ycombinator.com/item?id=39605884) - [Covert Racism in LLMs](https://garymarcus.substack.com/p/covert-racism-in-llms)
 * [2024-03-05, 16:26:51](https://news.ycombinator.com/item?id=39605682) - [Global Economy Approaches Soft Landing, but Risks Remain](https://www.imf.org/en/Blogs/Articles/2024/01/30/global-economy-approaches-soft-landing-but-risks-remain)

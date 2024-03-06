@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 22:13:24](https://news.ycombinator.com/item?id=39622401) - [How Apple Sank About $1B a Year Into a Car It Never Built](https://www.bloomberg.com/news/features/2024-03-06/apple-car-s-crash-design-details-tim-cook-s-indecision-failed-tesla-deal)
 * [2024-03-06, 21:57:29](https://news.ycombinator.com/item?id=39622180) - [Automating Reverse SSH Tunnels to Maximize Remote Connectivity](https://codenotary.com/blog/automating-reverse-ssh-tunnels-to-maximize-remote-connectivity)
 * [2024-03-06, 21:44:40](https://news.ycombinator.com/item?id=39622006) - [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
 * [2024-03-06, 21:17:56](https://news.ycombinator.com/item?id=39621605) - [LinkedIn Outage](https://docs.ayrshare.com/additional-info/status-update)
