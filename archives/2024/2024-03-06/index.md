@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 21:01:09](https://news.ycombinator.com/item?id=39621384) - [Eqtble (YC W21) Is Hiring a Founding Account Executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
 * [2024-03-06, 20:00:11](https://news.ycombinator.com/item?id=39620608) - [We Hacked Google A.I. for $50k](https://www.landh.tech/blog/20240304-google-hack-50000/)
 * [2024-03-06, 19:55:22](https://news.ycombinator.com/item?id=39620540) - [Show HN: dockerc – Docker image to static executable \"compiler\"](https://github.com/NilsIrl/dockerc)
 * [2024-03-06, 19:47:39](https://news.ycombinator.com/item?id=39620422) - [The Law of Leaky Abstractions (2002)](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)

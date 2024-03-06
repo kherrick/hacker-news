@@ -67,6 +67,7 @@
 * [2024-03-05, 14:59:29](https://news.ycombinator.com/item?id=39604245) - [Show HN: AI Taught Me JavaScript](https://www.needledrop.me/)
 * [2024-03-05, 14:32:48](https://news.ycombinator.com/item?id=39603938) - [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
 * [2024-03-05, 14:01:35](https://news.ycombinator.com/item?id=39603518) - [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
+* [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [Journalist casualties in the Israel-Gaza war](https://cpj.org/2024/03/journalist-casualties-in-the-israel-gaza-conflict)
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [IDF 'using spyware and AI targeting' to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
 * [2024-03-05, 13:37:27](https://news.ycombinator.com/item?id=39603207) - [Large language models can do jaw-dropping things. But nobody knows why](https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/)
 * [2024-03-05, 13:34:06](https://news.ycombinator.com/item?id=39603163) - [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
