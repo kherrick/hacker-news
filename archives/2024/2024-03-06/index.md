@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 17:01:09](https://news.ycombinator.com/item?id=39618027) - [Fathom AI Notetaker (YC W21) Is Hiring a Platform Engineer (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
+* [2024-03-06, 16:48:34](https://news.ycombinator.com/item?id=39617843) - [Flipper Zero's Co-Founder – It Exposes Big Tech's Shoddy Security](https://gizmodo.com/flipper-zeros-co-founder-says-the-hacking-tool-is-all-a-1851279603)
+* [2024-03-06, 16:45:43](https://news.ycombinator.com/item?id=39617809) - [Worldcoin hit with temporary ban in Spain over privacy concerns](https://techcrunch.com/2024/03/06/worldcoin-spain-ban/)
+* [2024-03-06, 16:40:51](https://news.ycombinator.com/item?id=39617745) - [Worldcoin is now banned in Spain](https://www.elmundo.es/economia/empresas/2024/03/06/65e86b14e9cf4a11128b456f.html)
 * [2024-03-06, 16:39:16](https://news.ycombinator.com/item?id=39617729) - [Apple Terminated Epic's Developer Account](https://www.epicgames.com/site/en-US/news/apple-terminated-epic-s-developer-account)
 * [2024-03-06, 16:22:39](https://news.ycombinator.com/item?id=39617531) - [EU users can't update 3rd party iOS apps if abroad too long](https://www.theregister.com/2024/03/06/apple_dma_geolocation/)
+* [2024-03-06, 16:01:59](https://news.ycombinator.com/item?id=39617325) - [Medellín's Green Corridors Are a Breath of Fresh, Cool Air](https://reasonstobecheerful.world/green-corridors-medellin-colombia-urban-heat/)
 * [2024-03-06, 15:50:32](https://news.ycombinator.com/item?id=39617204) - [Ask HN: Best Codebases You've Worked With?](https://news.ycombinator.com/item?id=39617204)
 * [2024-03-06, 15:44:19](https://news.ycombinator.com/item?id=39617130) - [World War II 'Rumor Clinics' Helped America Battle Wild Gossip](https://www.smithsonianmag.com/history/world-war-ii-rumor-clinics-helped-america-battle-wild-gossip-180983883/)
 * [2024-03-06, 14:44:46](https://news.ycombinator.com/item?id=39616466) - [Lisa Su Says the \"Team Is on It\" After Tweet About Open-Source AMD GPU Firmware](https://www.phoronix.com/news/Lisa-Su-Tweet-OSS-Firmware)
