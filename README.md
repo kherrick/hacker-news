@@ -27,9 +27,9 @@
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:35:29](https://news.ycombinator.com/item?id=39600108) - [The Future That Never Was](http://www.os2museum.com/wp/the-future-that-never-was/)
 * [2024-03-05, 05:37:39](https://news.ycombinator.com/item?id=39599823) - [Calyx, a Compiler Infrastructure for Accelerator Generators](https://calyxir.org/)
+* [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 12:12:01](https://news.ycombinator.com/item?id=39589488) - [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
 * [2024-03-04, 11:44:16](https://news.ycombinator.com/item?id=39589293) - [The most traveled crew transport spacecraft flies again](https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/)
-* [2024-03-04, 10:02:06](https://news.ycombinator.com/item?id=39588716) - [The Power Iteration Algorithm in Practice](https://scicoding.com/the-power-iteration-algorithm-in-practice/)
 
 ## [Archives](archives/index.md)
 
