@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 14:32:51](https://news.ycombinator.com/item?id=39616347) - [Republicans Kill Popular FCC Program That Made Broadband Affordable for the Poor](https://www.techdirt.com/2024/03/06/republicans-kill-popular-fcc-program-that-made-broadband-affordable-for-the-poor/)
 * [2024-03-06, 14:02:34](https://news.ycombinator.com/item?id=39616045) - [Alternative iOS App Stores Only Work for 'Grace Period' When Outside of EU](https://www.macrumors.com/2024/03/06/alternative-ios-app-stores-eu-grace-period/)
+* [2024-03-06, 13:55:30](https://news.ycombinator.com/item?id=39615987) - [You Might Not Need a CRDT: Document Sync in the Wild [video]](https://www.youtube.com/watch?v=0d73MdQkJOk)
 * [2024-03-06, 13:24:38](https://news.ycombinator.com/item?id=39615693) - [Dutch government in panic mode over keeping ASML in the country](https://www.theregister.com/2024/03/06/dutch_asml_visas/)
 * [2024-03-06, 12:17:01](https://news.ycombinator.com/item?id=39615097) - [Ask HN: Feeling quite disheartened about job search, any advice?](https://news.ycombinator.com/item?id=39615097)
 * [2024-03-06, 12:07:04](https://news.ycombinator.com/item?id=39615029) - [Windows 11 to lose official support for Android apps](https://techcrunch.com/2024/03/05/windows-11-to-lose-official-support-for-android-apps/)

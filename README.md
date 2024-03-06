@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-06, 14:32:51](https://news.ycombinator.com/item?id=39616347) - [Republicans Kill Popular FCC Program That Made Broadband Affordable for the Poor](https://www.techdirt.com/2024/03/06/republicans-kill-popular-fcc-program-that-made-broadband-affordable-for-the-poor/)
 * [2024-03-06, 14:02:34](https://news.ycombinator.com/item?id=39616045) - [Alternative iOS App Stores Only Work for 'Grace Period' When Outside of EU](https://www.macrumors.com/2024/03/06/alternative-ios-app-stores-eu-grace-period/)
-* [2024-03-06, 12:01:08](https://news.ycombinator.com/item?id=39614989) - [Ice-free summers in Arctic possible within next decade, scientists say](https://www.theguardian.com/world/2024/mar/05/ice-free-summers-in-arctic-possible-within-next-decade-scientists-say)
+* [2024-03-06, 13:55:30](https://news.ycombinator.com/item?id=39615987) - [You Might Not Need a CRDT: Document Sync in the Wild [video]](https://www.youtube.com/watch?v=0d73MdQkJOk)
 * [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
 * [2024-03-06, 10:31:02](https://news.ycombinator.com/item?id=39614433) - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
 * [2024-03-06, 08:34:16](https://news.ycombinator.com/item?id=39613669) - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
@@ -25,7 +26,6 @@
 * [2024-03-05, 13:28:56](https://news.ycombinator.com/item?id=39603087) - [Nerdy internals of an Apple text editor](https://papereditor.app/internals)
 * [2024-03-05, 11:37:34](https://news.ycombinator.com/item?id=39602093) - [Forecasting with Trees (2021)](https://www.amazon.science/publications/forecasting-with-trees)
 * [2024-03-05, 09:45:46](https://news.ycombinator.com/item?id=39601284) - [Behind the design: A deep dive into Aptos](https://microsoft.design/articles/behind-the-design-a-deep-dive-into-aptos)
-* [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:35:29](https://news.ycombinator.com/item?id=39600108) - [The Future That Never Was](http://www.os2museum.com/wp/the-future-that-never-was/)
 * [2024-03-05, 05:37:39](https://news.ycombinator.com/item?id=39599823) - [Calyx, a Compiler Infrastructure for Accelerator Generators](https://calyxir.org/)
 * [2024-03-04, 12:25:58](https://news.ycombinator.com/item?id=39589580) - [The Winners of the 2024 Dance Your PhD Contest](https://arstechnica.com/science/2024/02/kangaroo-time-tops-winners-list-for-2024-dance-your-phd-contest/)
