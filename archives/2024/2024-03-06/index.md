@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 13:24:38](https://news.ycombinator.com/item?id=39615693) - [Dutch government in panic mode over keeping ASML in the country](https://www.theregister.com/2024/03/06/dutch_asml_visas/)
 * [2024-03-06, 12:17:01](https://news.ycombinator.com/item?id=39615097) - [Ask HN: Feeling quite disheartened about job search, any advice?](https://news.ycombinator.com/item?id=39615097)
 * [2024-03-06, 12:01:08](https://news.ycombinator.com/item?id=39614989) - [Ice-free summers in Arctic possible within next decade, scientists say](https://www.theguardian.com/world/2024/mar/05/ice-free-summers-in-arctic-possible-within-next-decade-scientists-say)
 * [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)

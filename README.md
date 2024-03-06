@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-06, 13:24:38](https://news.ycombinator.com/item?id=39615693) - [Dutch government in panic mode over keeping ASML in the country](https://www.theregister.com/2024/03/06/dutch_asml_visas/)
 * [2024-03-06, 12:01:08](https://news.ycombinator.com/item?id=39614989) - [Ice-free summers in Arctic possible within next decade, scientists say](https://www.theguardian.com/world/2024/mar/05/ice-free-summers-in-arctic-possible-within-next-decade-scientists-say)
 * [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
 * [2024-03-06, 10:31:02](https://news.ycombinator.com/item?id=39614433) - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
@@ -27,7 +28,6 @@
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:35:29](https://news.ycombinator.com/item?id=39600108) - [The Future That Never Was](http://www.os2museum.com/wp/the-future-that-never-was/)
 * [2024-03-05, 05:37:39](https://news.ycombinator.com/item?id=39599823) - [Calyx, a Compiler Infrastructure for Accelerator Generators](https://calyxir.org/)
-* [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
 * [2024-03-04, 12:12:01](https://news.ycombinator.com/item?id=39589488) - [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
 * [2024-03-04, 11:44:16](https://news.ycombinator.com/item?id=39589293) - [The most traveled crew transport spacecraft flies again](https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/)
 
