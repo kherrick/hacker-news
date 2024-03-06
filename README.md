@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-06, 04:16:09](https://news.ycombinator.com/item?id=39612243) - [70 years ago, an H-bomb test went awry. We must never forget the fallout](https://www.washingtonpost.com/opinions/2024/03/05/fallout-nuclear-test-70-years-marshall-islands/)
 * [2024-03-06, 02:43:54](https://news.ycombinator.com/item?id=39611662) - [The propagation of error in classical geometry constructions (2018)](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
 * [2024-03-06, 02:19:01](https://news.ycombinator.com/item?id=39611484) - [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
 * [2024-03-06, 01:10:49](https://news.ycombinator.com/item?id=39611111) - [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
@@ -9,7 +10,6 @@
 * [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: Why you should do maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
 * [2024-03-05, 20:32:44](https://news.ycombinator.com/item?id=39608822) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
-* [2024-03-05, 20:13:47](https://news.ycombinator.com/item?id=39608641) - [New Federal Rule Caps Credit Card Late Fees at $8](https://www.nytimes.com/2024/03/05/business/credit-card-late-fees.html)
 * [2024-03-05, 18:57:24](https://news.ycombinator.com/item?id=39607753) - [JEDEC publishes GDDR7 graphics memory standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 * [2024-03-05, 18:30:47](https://news.ycombinator.com/item?id=39607412) - [This Is Knuth 3:16 (2002)](http://www.larry.denenberg.com/Knuth-3-16/)
 * [2024-03-05, 17:53:22](https://news.ycombinator.com/item?id=39606885) - [The \"missing\" graph datatype already exists. It was invented in the '70s](https://tylerhou.com/posts/datalog-go-brrr/)
