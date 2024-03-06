@@ -4,6 +4,7 @@
 * [2024-03-06, 01:14:51](https://news.ycombinator.com/item?id=39611144) - [Claude 3 Opus reinvented this quantum algorithm from scratch in just 2 prompts](https://twitter.com/GillVerd/status/1764901418664882327)
 * [2024-03-06, 01:10:49](https://news.ycombinator.com/item?id=39611111) - [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
 * [2024-03-06, 00:46:12](https://news.ycombinator.com/item?id=39610931) - [Accenture to Acquire Udacity](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
+* [2024-03-06, 00:32:09](https://news.ycombinator.com/item?id=39610846) - [BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Health](https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/)
 * [2024-03-05, 22:16:06](https://news.ycombinator.com/item?id=39609846) - [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
 * [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
@@ -26,9 +27,8 @@
 * [2024-03-05, 13:28:56](https://news.ycombinator.com/item?id=39603087) - [Nerdy internals of an Apple text editor](https://papereditor.app/internals)
 * [2024-03-05, 12:31:57](https://news.ycombinator.com/item?id=39602480) - [The Beauty of Roots (2023)](https://math.ucr.edu/home/baez/roots/)
 * [2024-03-05, 12:30:22](https://news.ycombinator.com/item?id=39602472) - [The Shen Programming Language](https://shenlanguage.org/)
-* [2024-03-05, 10:44:01](https://news.ycombinator.com/item?id=39601710) - [Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
-* [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
+* [2024-03-05, 07:27:57](https://news.ycombinator.com/item?id=39600373) - [FreeBSD 13.3-Release Announcement](https://www.freebsd.org/releases/13.3R/announce/)
 * [2024-03-04, 11:44:16](https://news.ycombinator.com/item?id=39589293) - [The most traveled crew transport spacecraft flies again](https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/)
 
 ## [Archives](archives/index.md)
