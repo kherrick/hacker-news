@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 16:22:39](https://news.ycombinator.com/item?id=39617531) - [EU users can't update 3rd party iOS apps if abroad too long](https://www.theregister.com/2024/03/06/apple_dma_geolocation/)
 * [2024-03-06, 15:44:19](https://news.ycombinator.com/item?id=39617130) - [World War II 'Rumor Clinics' Helped America Battle Wild Gossip](https://www.smithsonianmag.com/history/world-war-ii-rumor-clinics-helped-america-battle-wild-gossip-180983883/)
 * [2024-03-06, 14:44:46](https://news.ycombinator.com/item?id=39616466) - [Lisa Su Says the \"Team Is on It\" After Tweet About Open-Source AMD GPU Firmware](https://www.phoronix.com/news/Lisa-Su-Tweet-OSS-Firmware)
 * [2024-03-06, 14:40:53](https://news.ycombinator.com/item?id=39616417) - [GPS Antenna Mods Make Starlink Terminal Immune to Jammers](https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/)
