@@ -6,10 +6,12 @@
 
 * [2024-03-06, 17:11:24](https://news.ycombinator.com/item?id=39618152) - ['We had to educate Oracle about our contract,' CIO says after Big Red audit](https://www.theregister.com/2024/03/06/oracle_audits/)
 * [2024-03-06, 17:01:09](https://news.ycombinator.com/item?id=39618027) - [Fathom AI Notetaker (YC W21) Is Hiring a Platform Engineer (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
+* [2024-03-06, 16:56:29](https://news.ycombinator.com/item?id=39617953) - [Tailwind CSS v4.0.0 Alpha](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 * [2024-03-06, 16:48:34](https://news.ycombinator.com/item?id=39617843) - [Flipper Zero's Co-Founder – It Exposes Big Tech's Shoddy Security](https://gizmodo.com/flipper-zeros-co-founder-says-the-hacking-tool-is-all-a-1851279603)
 * [2024-03-06, 16:45:58](https://news.ycombinator.com/item?id=39617813) - [EU Commission protects consumers in Apple music streaming case](https://www.beuc.eu/press-releases/eu-commission-protects-consumers-apple-music-streaming-case)
 * [2024-03-06, 16:45:43](https://news.ycombinator.com/item?id=39617809) - [Worldcoin hit with temporary ban in Spain over privacy concerns](https://techcrunch.com/2024/03/06/worldcoin-spain-ban/)
 * [2024-03-06, 16:40:51](https://news.ycombinator.com/item?id=39617745) - [Worldcoin is now banned in Spain](https://www.elmundo.es/economia/empresas/2024/03/06/65e86b14e9cf4a11128b456f.html)
+* [2024-03-06, 16:40:42](https://news.ycombinator.com/item?id=39617743) - [A writer skewered the Formula One scene, then her article vanished](https://www.washingtonpost.com/style/media/2024/03/05/formula-one-road-track-kate-wagner/)
 * [2024-03-06, 16:39:16](https://news.ycombinator.com/item?id=39617729) - [Apple Terminated Epic's Developer Account](https://www.epicgames.com/site/en-US/news/apple-terminated-epic-s-developer-account)
 * [2024-03-06, 16:22:39](https://news.ycombinator.com/item?id=39617531) - [EU users can't update 3rd party iOS apps if abroad too long](https://www.theregister.com/2024/03/06/apple_dma_geolocation/)
 * [2024-03-06, 16:01:59](https://news.ycombinator.com/item?id=39617325) - [Medellín's Green Corridors Are a Breath of Fresh, Cool Air](https://reasonstobecheerful.world/green-corridors-medellin-colombia-urban-heat/)
