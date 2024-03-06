@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-06, 08:34:16",
+      "https://news.ycombinator.com/item?id=39613669"
+    ],
+    [
+      "Pg_vectorize: The simplest way to do vector search and RAG on Postgres",
+      "https://github.com/tembo-io/pg_vectorize"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 08:08:31",
       "https://news.ycombinator.com/item?id=39613510"
     ],
@@ -187,16 +197,6 @@
     [
       "JEDEC publishes GDDR7 graphics memory standard",
       "https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 18:57:03",
-      "https://news.ycombinator.com/item?id=39607747"
-    ],
-    [
-      "Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling",
-      "https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll"
     ]
   ],
   [
