@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-03-06, 06:03:33",
+      "https://news.ycombinator.com/item?id=39612799"
+    ],
+    [
+      "Alan Kay's talk at UCLA – Feb 21, 2024 [video]",
+      "https://www.youtube.com/watch?v=dZQ7x0-MZcI"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 05:28:21",
+      "https://news.ycombinator.com/item?id=39612637"
+    ],
+    [
+      "Derek Lowe's Things I Won't Work With (Index)",
+      "https://www.science.org/topic/blog-category/things-i-wont-work-with"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 05:22:35",
+      "https://news.ycombinator.com/item?id=39612607"
+    ],
+    [
+      "Free data transfer out to internet when moving out of AWS",
+      "https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 04:49:38",
+      "https://news.ycombinator.com/item?id=39612443"
+    ],
+    [
+      "Leaving LinkedIn: Choosing Engineering Excellence over Expediency",
+      "https://corecursive.com/leaving-linkedin-with-chris-krycho/"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 04:16:09",
       "https://news.ycombinator.com/item?id=39612243"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-03-05, 17:53:22",
-      "https://news.ycombinator.com/item?id=39606885"
-    ],
-    [
-      "The \"missing\" graph datatype already exists. It was invented in the '70s",
-      "https://tylerhou.com/posts/datalog-go-brrr/"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 17:14:20",
       "https://news.ycombinator.com/item?id=39606371"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2024-03-05, 16:41:39",
-      "https://news.ycombinator.com/item?id=39605923"
-    ],
-    [
-      "Show HN: Workout Tracker PWA",
-      "https://workout.olzhasar.com/"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 15:48:56",
       "https://news.ycombinator.com/item?id=39604961"
     ],
     [
       "Launch HN: Greptile (YC W24) - RAG on codebases that actually works",
       "https://news.ycombinator.com/item?id=39604961"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 15:29:21",
-      "https://news.ycombinator.com/item?id=39604621"
-    ],
-    [
-      "A Vanishing World: On Europe's Disappearing Peasantry",
-      "https://lithub.com/a-vanishing-world-on-europes-disappearing-peasantry/"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2024-03-04, 22:31:15",
-      "https://news.ycombinator.com/item?id=39597030"
-    ],
-    [
-      "Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"",
-      "https://github.com/HeyPuter/puter"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 13:21:09",
       "https://news.ycombinator.com/item?id=39590114"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-03-04, 12:39:24",
+      "https://news.ycombinator.com/item?id=39589716"
+    ],
+    [
+      "Two million old trees hiding in England, says report",
+      "https://www.bbc.co.uk/newsround/62039233"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 11:44:16",
       "https://news.ycombinator.com/item?id=39589293"
     ],
     [
       "The most traveled crew transport spacecraft flies again",
       "https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 11:12:40",
-      "https://news.ycombinator.com/item?id=39589089"
-    ],
-    [
-      "On Implementation of Distributed Protocols",
-      "https://replica-io.dev/blog/2024/03/04/on-implementation-of-distributed-prtocols"
     ]
   ]
 ]
