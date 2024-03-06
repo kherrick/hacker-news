@@ -79,6 +79,7 @@
 * [2024-03-04, 10:35:27](https://news.ycombinator.com/item?id=39588895) - [Flexagon](https://en.wikipedia.org/wiki/Flexagon)
 * [2024-03-04, 10:21:35](https://news.ycombinator.com/item?id=39588830) - [The Singapore Airlines Concorde: The full story](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
 * [2024-03-04, 10:08:32](https://news.ycombinator.com/item?id=39588745) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
+* [2024-03-04, 10:02:06](https://news.ycombinator.com/item?id=39588716) - [The Power Iteration Algorithm in Practice](https://scicoding.com/the-power-iteration-algorithm-in-practice/)
 * [2024-03-04, 10:00:42](https://news.ycombinator.com/item?id=39588708) - [Mercury – Compiler optimized, private Firefox fork](https://thorium.rocks/mercury)
 * [2024-03-04, 08:47:45](https://news.ycombinator.com/item?id=39588320) - [\"Help, I see a problem and no one is prioritizing it \"](https://ntietz.com/blog/advice-if-problem-not-prioritized/)
 * [2024-03-04, 08:42:43](https://news.ycombinator.com/item?id=39588293) - [Gem12 Pro Mini PC: Ryzen 7 8845HS, Mini Screen, and OCuLink eGPU](https://www.tomshardware.com/desktops/mini-pcs/gem12-pro-mini-pc-uses-an-amped-up-ryzen-7-8845hs-apu-has-a-built-in-mini-screen-and-oculink-support)
