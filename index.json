@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-06, 07:50:30",
+      "https://news.ycombinator.com/item?id=39613398"
+    ],
+    [
+      "The Psychopolitics of Trauma",
+      "https://www.astralcodexten.com/p/the-psychopolitics-of-trauma"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 07:12:05",
       "https://news.ycombinator.com/item?id=39613181"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-03-06, 05:32:14",
-      "https://news.ycombinator.com/item?id=39612657"
+      "2024-03-06, 05:28:50",
+      "https://news.ycombinator.com/item?id=39612640"
     ],
     [
-      "EU Court finds overriding public interest in free access to European standards [pdf]",
-      "https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-03/cp240041en.pdf"
+      "Realtime telemetry from ISS internal components",
+      "https://iss-mimic.github.io/Mimic/"
     ]
   ],
   [
@@ -171,22 +181,22 @@
   ],
   [
     [
+      "2024-03-05, 18:57:03",
+      "https://news.ycombinator.com/item?id=39607747"
+    ],
+    [
+      "Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling",
+      "https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 18:30:47",
       "https://news.ycombinator.com/item?id=39607412"
     ],
     [
       "This Is Knuth 3:16 (2002)",
       "http://www.larry.denenberg.com/Knuth-3-16/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 17:53:22",
-      "https://news.ycombinator.com/item?id=39606885"
-    ],
-    [
-      "The \"missing\" graph datatype already exists. It was invented in the '70s",
-      "https://tylerhou.com/posts/datalog-go-brrr/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Launch HN: Greptile (YC W24) - RAG on codebases that actually works",
       "https://news.ycombinator.com/item?id=39604961"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 15:29:21",
-      "https://news.ycombinator.com/item?id=39604621"
-    ],
-    [
-      "A Vanishing World: On Europe's Disappearing Peasantry",
-      "https://lithub.com/a-vanishing-world-on-europes-disappearing-peasantry/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-03-05, 11:37:34",
+      "https://news.ycombinator.com/item?id=39602093"
+    ],
+    [
+      "Forecasting with Trees (2021)",
+      "https://www.amazon.science/publications/forecasting-with-trees"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 08:39:10",
       "https://news.ycombinator.com/item?id=39600810"
     ],
@@ -267,16 +277,6 @@
     [
       "The Future That Never Was",
       "http://www.os2museum.com/wp/the-future-that-never-was/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 13:21:09",
-      "https://news.ycombinator.com/item?id=39590114"
-    ],
-    [
-      "How can C Programs be so Reliable? (2008)",
-      "https://tratt.net/laurie/blog/2008/how_can_c_programs_be_so_reliable.html"
     ]
   ],
   [
