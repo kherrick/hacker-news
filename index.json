@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-06, 14:40:53",
-      "https://news.ycombinator.com/item?id=39616417"
+      "2024-03-06, 14:28:57",
+      "https://news.ycombinator.com/item?id=39616302"
     ],
     [
-      "GPS Antenna Mods Make Starlink Terminal Immune to Jammers",
-      "https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/"
+      "Public trust in AI is sinking across the board",
+      "https://www.axios.com/2024/03/05/ai-trust-problem-edelman"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 14:10:51",
+      "https://news.ycombinator.com/item?id=39616111"
+    ],
+    [
+      "Early American Fire Alarm Systems (2022)",
+      "https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Calyx, a Compiler Infrastructure for Accelerator Generators",
       "https://calyxir.org/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 22:31:15",
-      "https://news.ycombinator.com/item?id=39597030"
-    ],
-    [
-      "Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"",
-      "https://github.com/HeyPuter/puter"
     ]
   ],
   [
