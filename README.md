@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-06, 19:21:31](https://news.ycombinator.com/item?id=39620060) - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
+* [2024-03-06, 19:06:07](https://news.ycombinator.com/item?id=39619850) - [Zapier Central](https://zapier.com/central)
 * [2024-03-06, 18:27:49](https://news.ycombinator.com/item?id=39619204) - [You Don't Need a Dedicated Cache Service – PostgreSQL as a Cache (2023)](https://martinheinz.dev/blog/105)
-* [2024-03-06, 18:27:24](https://news.ycombinator.com/item?id=39619196) - [Ultra Librarian Joins Flux to Take the Hard Out of Hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
+* [2024-03-06, 18:27:24](https://news.ycombinator.com/item?id=39619196) - [Ultra librarian joins Flux to take the hard out of hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
 * [2024-03-06, 18:17:42](https://news.ycombinator.com/item?id=39619053) - [Show HN: Fructose, LLM calls as strongly typed functions](https://github.com/bananaml/fructose)
 * [2024-03-06, 18:16:58](https://news.ycombinator.com/item?id=39619041) - [The end of Airplane.dev](https://yolken.net/blog/end-of-airplanedev)
 * [2024-03-06, 18:03:43](https://news.ycombinator.com/item?id=39618822) - [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
@@ -28,7 +29,6 @@
 * [2024-03-05, 13:06:23](https://news.ycombinator.com/item?id=39602807) - [Let's build a VORON Trident (a DIY 3D printer)](https://www.jonashietala.se/series/voron_trident/)
 * [2024-03-05, 10:58:03](https://news.ycombinator.com/item?id=39601814) - [Linkers and Loaders (1999) [pdf]](https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf)
 * [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
-* [2024-03-04, 12:12:01](https://news.ycombinator.com/item?id=39589488) - [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
 * [2024-03-04, 11:42:51](https://news.ycombinator.com/item?id=39589282) - [A Global AppleTalk Network: Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
 
 ## [Archives](archives/index.md)
