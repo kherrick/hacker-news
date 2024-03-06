@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 18:33:46](https://news.ycombinator.com/item?id=39619304) - [Anthropic's Claude 3 Models in Google Cloud Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/announcing-anthropics-claude-3-models-in-google-cloud-vertex-ai)
+* [2024-03-06, 18:27:49](https://news.ycombinator.com/item?id=39619204) - [You Don't Need a Dedicated Cache Service – PostgreSQL as a Cache (2023)](https://martinheinz.dev/blog/105)
+* [2024-03-06, 18:27:24](https://news.ycombinator.com/item?id=39619196) - [Ultra Librarian Joins Flux to Take the Hard Out of Hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
+* [2024-03-06, 18:17:42](https://news.ycombinator.com/item?id=39619053) - [Show HN: Fructose, LLM calls as strongly typed functions](https://github.com/bananaml/fructose)
 * [2024-03-06, 18:16:58](https://news.ycombinator.com/item?id=39619041) - [The End of Airplane.dev](https://yolken.net/blog/end-of-airplanedev)
+* [2024-03-06, 18:13:14](https://news.ycombinator.com/item?id=39618990) - [How Do Satellites Communicate with a GPS System?](https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/)
 * [2024-03-06, 18:13:06](https://news.ycombinator.com/item?id=39618986) - [NY Community Bancorp tumbles 40% and is halted as troubled bank seeks cash](https://www.cnbc.com/2024/03/06/new-york-community-bancorp-tumbles-40percent-and-is-halted-as-troubled-bank-reportedly-seeking-cash-infusion.html)
+* [2024-03-06, 18:03:43](https://news.ycombinator.com/item?id=39618822) - [FDA Clears First Over-the-Counter Continuous Glucose Monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
 * [2024-03-06, 18:01:57](https://news.ycombinator.com/item?id=39618796) - [Adaptive immune responses larger and functionally preserved in a hypervaccinated](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00134-8/fulltext)
 * [2024-03-06, 18:01:10](https://news.ycombinator.com/item?id=39618784) - [Show HN: Forest Watch](https://koenvangilst.nl/labs/forest-watch)
 * [2024-03-06, 17:57:06](https://news.ycombinator.com/item?id=39618730) - [Apple EU Antitrust Protest a Weird Thing to Do Just as the DMA Is Taking Effect](https://www.techdirt.com/2024/03/06/apple-doth-protest-too-much-regarding-eu-antitrust-fine-but-its-a-weird-thing-to-do-just-as-the-dma-is-taking-effect/)
@@ -15,6 +21,7 @@
 * [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
 * [2024-03-06, 17:26:30](https://news.ycombinator.com/item?id=39618342) - [Stop Eating Sugar (2020)](https://mmalmi.github.io/stop-eating-sugar)
 * [2024-03-06, 17:11:24](https://news.ycombinator.com/item?id=39618152) - ['We had to educate Oracle about our contract,' CIO says after Big Red audit](https://www.theregister.com/2024/03/06/oracle_audits/)
+* [2024-03-06, 17:03:58](https://news.ycombinator.com/item?id=39618062) - [Show HN: My first programming project – userscripts to change forum UIs](https://github.com/wkrouse/My-first-programming-project---userscripts-to-change-forum-UIs)
 * [2024-03-06, 17:01:09](https://news.ycombinator.com/item?id=39618027) - [Fathom AI Notetaker (YC W21) Is Hiring a Platform Engineer (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
 * [2024-03-06, 16:56:29](https://news.ycombinator.com/item?id=39617953) - [Tailwind CSS v4.0.0 Alpha](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 * [2024-03-06, 16:48:34](https://news.ycombinator.com/item?id=39617843) - [Flipper Zero's Co-Founder – It Exposes Big Tech's Shoddy Security](https://gizmodo.com/flipper-zeros-co-founder-says-the-hacking-tool-is-all-a-1851279603)
