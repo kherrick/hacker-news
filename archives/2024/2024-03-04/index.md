@@ -64,6 +64,7 @@
 * [2024-03-04, 12:39:24](https://news.ycombinator.com/item?id=39589716) - [Two million old trees hiding in England, says report](https://www.bbc.co.uk/newsround/62039233)
 * [2024-03-04, 12:30:25](https://news.ycombinator.com/item?id=39589626) - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
 * [2024-03-04, 12:27:22](https://news.ycombinator.com/item?id=39589595) - [Half of Organizations Spend More with Kubernetes, Mostly Due to Overprovisioning](https://www.infoq.com/news/2024/03/cncf-finops-kubernetes-overspend/)
+* [2024-03-04, 12:25:58](https://news.ycombinator.com/item?id=39589580) - [The Winners of the 2024 Dance Your PhD Contest](https://arstechnica.com/science/2024/02/kangaroo-time-tops-winners-list-for-2024-dance-your-phd-contest/)
 * [2024-03-04, 12:23:44](https://news.ycombinator.com/item?id=39589563) - [Sports gambling was a gateway drug](https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3)
 * [2024-03-04, 12:22:56](https://news.ycombinator.com/item?id=39589557) - [Hugging Face, the GitHub of AI, hosted code that backdoored user devices](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
 * [2024-03-04, 12:12:01](https://news.ycombinator.com/item?id=39589488) - [The Evolution of a Haskell Programmer (2010)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)

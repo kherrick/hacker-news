@@ -28,7 +28,7 @@
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 06:35:29](https://news.ycombinator.com/item?id=39600108) - [The Future That Never Was](http://www.os2museum.com/wp/the-future-that-never-was/)
 * [2024-03-05, 05:37:39](https://news.ycombinator.com/item?id=39599823) - [Calyx, a Compiler Infrastructure for Accelerator Generators](https://calyxir.org/)
-* [2024-03-04, 22:31:15](https://news.ycombinator.com/item?id=39597030) - [Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"](https://github.com/HeyPuter/puter)
+* [2024-03-04, 12:25:58](https://news.ycombinator.com/item?id=39589580) - [The Winners of the 2024 Dance Your PhD Contest](https://arstechnica.com/science/2024/02/kangaroo-time-tops-winners-list-for-2024-dance-your-phd-contest/)
 * [2024-03-04, 12:12:01](https://news.ycombinator.com/item?id=39589488) - [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
 
 ## [Archives](archives/index.md)
