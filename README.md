@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-06, 17:41:37](https://news.ycombinator.com/item?id=39618521) - [Explanation of Quake III Arena Fast inverse square root code](https://old.reddit.com/r/todayilearned/comments/3xyo0t/til_quake_iii_arena_needing_to_calculate_x12/)
+* [2024-03-06, 17:57:06](https://news.ycombinator.com/item?id=39618730) - [Apple EU Antitrust Protest a Weird Thing to Do Just as the DMA Is Taking Effect](https://www.techdirt.com/2024/03/06/apple-doth-protest-too-much-regarding-eu-antitrust-fine-but-its-a-weird-thing-to-do-just-as-the-dma-is-taking-effect/)
+* [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
+* [2024-03-06, 17:26:30](https://news.ycombinator.com/item?id=39618342) - [Stop Eating Sugar (2020)](https://mmalmi.github.io/stop-eating-sugar)
 * [2024-03-06, 17:11:24](https://news.ycombinator.com/item?id=39618152) - ['We had to educate Oracle about our contract,' CIO says after Big Red audit](https://www.theregister.com/2024/03/06/oracle_audits/)
 * [2024-03-06, 17:01:09](https://news.ycombinator.com/item?id=39618027) - [Fathom AI Notetaker (YC W21) Is Hiring a Platform Engineer (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
 * [2024-03-06, 16:56:29](https://news.ycombinator.com/item?id=39617953) - [Tailwind CSS v4.0.0 Alpha](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
-* [2024-03-06, 16:45:58](https://news.ycombinator.com/item?id=39617813) - [EU Commission protects consumers in Apple music streaming case](https://www.beuc.eu/press-releases/eu-commission-protects-consumers-apple-music-streaming-case)
 * [2024-03-06, 16:45:43](https://news.ycombinator.com/item?id=39617809) - [Worldcoin hit with temporary ban in Spain over privacy concerns](https://techcrunch.com/2024/03/06/worldcoin-spain-ban/)
 * [2024-03-06, 16:40:51](https://news.ycombinator.com/item?id=39617745) - [Worldcoin is now banned in Spain](https://www.elmundo.es/economia/empresas/2024/03/06/65e86b14e9cf4a11128b456f.html)
 * [2024-03-06, 16:40:42](https://news.ycombinator.com/item?id=39617743) - [A writer skewered the Formula One scene, then her article vanished](https://www.washingtonpost.com/style/media/2024/03/05/formula-one-road-track-kate-wagner/)
@@ -28,7 +29,6 @@
 * [2024-03-05, 13:06:23](https://news.ycombinator.com/item?id=39602807) - [Let's build a VORON Trident (a DIY 3D printer)](https://www.jonashietala.se/series/voron_trident/)
 * [2024-03-05, 11:37:34](https://news.ycombinator.com/item?id=39602093) - [Forecasting with Trees (2021)](https://www.amazon.science/publications/forecasting-with-trees)
 * [2024-03-05, 10:58:03](https://news.ycombinator.com/item?id=39601814) - [Linkers and Loaders (1999) [pdf]](https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf)
-* [2024-03-05, 09:45:46](https://news.ycombinator.com/item?id=39601284) - [Behind the design: A deep dive into Aptos](https://microsoft.design/articles/behind-the-design-a-deep-dive-into-aptos)
 * [2024-03-04, 12:12:01](https://news.ycombinator.com/item?id=39589488) - [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
 
 ## [Archives](archives/index.md)
