@@ -12,6 +12,7 @@
 * [2024-03-07, 16:43:15](https://news.ycombinator.com/item?id=39631135) - [\"AI, no ads please\": 4 words to wipe out $1T](https://12challenges.substack.com/p/ai-no-ads-please-4-words-to-wipe)
 * [2024-03-07, 16:38:14](https://news.ycombinator.com/item?id=39631071) - [Single dose of LSD provides immediate and lasting relief from anxiety, study say](https://www.cnn.com/2024/03/07/health/lsd-anxiety-fda-breakthrough-therapy-wellness/index.html)
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You can not simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
+* [2024-03-07, 16:26:15](https://news.ycombinator.com/item?id=39630949) - [New Bounds for Matrix Multiplication: From Alpha to Omega](https://epubs.siam.org/doi/10.1137/1.9781611977912.134)
 * [2024-03-07, 16:23:22](https://news.ycombinator.com/item?id=39630926) - [How the Great Green Wall Is Holding Back the Sahara Desert](https://kottke.org/24/03/how-the-great-green-wall-is-holding-back-the-sahara-desert)
 * [2024-03-07, 16:07:29](https://news.ycombinator.com/item?id=39630722) - [My co-founder wants to bring his wife as a late joining co-founder](https://news.ycombinator.com/item?id=39630722)
 * [2024-03-07, 15:51:58](https://news.ycombinator.com/item?id=39630520) - [Intentionally Blank Page](https://en.wikipedia.org/wiki/Intentionally_blank_page)
