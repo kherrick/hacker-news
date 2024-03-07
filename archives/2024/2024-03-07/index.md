@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 06:25:12](https://news.ycombinator.com/item?id=39625647) - [Tintin Charter for the use of the visuals of the Hergé's Work [pdf]](https://cdn001.tintin.com/public/pressclub/pdf/charte_v3_en.pdf)
 * [2024-03-07, 05:53:48](https://news.ycombinator.com/item?id=39625471) - [BYD launches cheaper Seagull EV with $9,700 starting price tag](https://electrek.co/2024/03/06/byd-launches-cheaper-seagull-ev-9700-price/)
 * [2024-03-07, 05:32:08](https://news.ycombinator.com/item?id=39625359) - [Australian Net Guide magazines – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
 * [2024-03-07, 05:07:15](https://news.ycombinator.com/item?id=39625250) - [S.3819 – Shrinkflation Prevention Act of 2024](https://www.congress.gov/bill/118th-congress/senate-bill/3819/text)
