@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 21:12:39](https://news.ycombinator.com/item?id=39634640) - [Carl Newport on his PhD experience at MIT: How I learn to concentrate](https://www.newyorker.com/culture/office-space/how-i-learned-to-concentrate)
 * [2024-03-07, 21:00:39](https://news.ycombinator.com/item?id=39634519) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-03-07, 20:37:31](https://news.ycombinator.com/item?id=39634297) - [Epic access to an Apple developer account was granted through a \"click through\"](https://arstechnica.com/gaming/2024/03/dma-be-damned-apple-cuts-off-path-to-epic-games-store-fortnite-on-eu-iphones/)
 * [2024-03-07, 20:23:46](https://news.ycombinator.com/item?id=39634162) - [Researchers jailbreak AI chatbots with ASCII art](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries)
@@ -76,6 +77,7 @@
 * [2024-03-07, 06:25:12](https://news.ycombinator.com/item?id=39625647) - [Tintin Charter for the use of the visuals of the Hergé's Work [pdf]](https://cdn001.tintin.com/public/pressclub/pdf/charte_v3_en.pdf)
 * [2024-03-07, 06:14:34](https://news.ycombinator.com/item?id=39625594) - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
 * [2024-03-07, 05:53:48](https://news.ycombinator.com/item?id=39625471) - [BYD launches cheaper Seagull EV with $9,700 starting price tag](https://electrek.co/2024/03/06/byd-launches-cheaper-seagull-ev-9700-price/)
+* [2024-03-07, 05:36:51](https://news.ycombinator.com/item?id=39625379) - [Gabriel García Márquez: Sons publish novel that late author wanted destroyed](https://www.bbc.co.uk/news/entertainment-arts-68488756.amp)
 * [2024-03-07, 05:32:08](https://news.ycombinator.com/item?id=39625359) - [Australian Net Guide magazines – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
 * [2024-03-07, 05:07:15](https://news.ycombinator.com/item?id=39625250) - [S.3819 – Shrinkflation Prevention Act of 2024](https://www.congress.gov/bill/118th-congress/senate-bill/3819/text)
 * [2024-03-07, 04:42:31](https://news.ycombinator.com/item?id=39625124) - [What if AGI is not coming?](https://www.mindprison.cc/p/what-if-agi-is-not-coming)
