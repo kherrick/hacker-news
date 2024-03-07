@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 10:14:45](https://news.ycombinator.com/item?id=39627240) - [EU Probes Apple's Decision to Shut Down Epic's Developer Account](https://www.macrumors.com/2024/03/07/eu-probes-apple-termination-epic-account/)
 * [2024-03-07, 09:27:11](https://news.ycombinator.com/item?id=39626955) - [Apple's exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
 * [2024-03-07, 09:05:26](https://news.ycombinator.com/item?id=39626813) - [OpenAI's \"Own Goal\"](https://garymarcus.substack.com/p/openais-own-goal)
 * [2024-03-07, 08:47:33](https://news.ycombinator.com/item?id=39626683) - [The Digital Markets Act is in force What happens now?](https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/)
