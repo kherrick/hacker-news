@@ -26,6 +26,7 @@
 * [2024-03-07, 15:51:58](https://news.ycombinator.com/item?id=39630520) - [Intentionally Blank Page](https://en.wikipedia.org/wiki/Intentionally_blank_page)
 * [2024-03-07, 15:49:37](https://news.ycombinator.com/item?id=39630498) - [Plastic Found Inside More Than 50% of Plaques from Clogged Arteries](https://www.sciencealert.com/plastic-found-inside-more-than-50-of-plaques-from-clogged-arteries)
 * [2024-03-07, 15:46:22](https://news.ycombinator.com/item?id=39630457) - [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
+* [2024-03-07, 15:22:01](https://news.ycombinator.com/item?id=39630173) - [Gabriel García Márquez Wanted to Destroy His Last Novel. It's Being Published](https://www.nytimes.com/2024/03/06/books/gabriel-garcia-marquez-last-novel-until-august.html)
 * [2024-03-07, 14:44:35](https://news.ycombinator.com/item?id=39629673) - [Law enforcement doesn't want to be \"customer service\" reps for Meta any more](https://www.wired.com/story/meta-hacked-users-draining-resources/)
 * [2024-03-07, 14:32:06](https://news.ycombinator.com/item?id=39629512) - [America's elite universities are bloated, complacent and illiberal](https://www.economist.com/international/2024/03/04/americas-elite-universities-are-bloated-complacent-and-illiberal)
 * [2024-03-07, 14:11:51](https://news.ycombinator.com/item?id=39629271) - [Amid explosive demand, America is running out of power](https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/)
