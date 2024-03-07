@@ -3,8 +3,10 @@
 * [2024-03-07, 21:12:39](https://news.ycombinator.com/item?id=39634640) - [Carl Newport on his PhD experience at MIT: How I learn to concentrate](https://www.newyorker.com/culture/office-space/how-i-learned-to-concentrate)
 * [2024-03-07, 21:00:39](https://news.ycombinator.com/item?id=39634519) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-03-07, 20:37:31](https://news.ycombinator.com/item?id=39634297) - [Epic access to an Apple developer account was granted through a \"click through\"](https://arstechnica.com/gaming/2024/03/dma-be-damned-apple-cuts-off-path-to-epic-games-store-fortnite-on-eu-iphones/)
+* [2024-03-07, 20:29:26](https://news.ycombinator.com/item?id=39634224) - [The EU Digital Markets Act Is Here](https://element.io/blog/the-eu-digital-markets-act-is-here/)
 * [2024-03-07, 20:02:42](https://news.ycombinator.com/item?id=39633936) - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
 * [2024-03-07, 19:37:39](https://news.ycombinator.com/item?id=39633626) - [Ask HN: What is the, currently, best Programming LLM (copilot) subscription?](https://news.ycombinator.com/item?id=39633626)
+* [2024-03-07, 19:30:54](https://news.ycombinator.com/item?id=39633580) - [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://news.ycombinator.com/item?id=39632872)
 * [2024-03-07, 18:03:44](https://news.ycombinator.com/item?id=39632332) - [Neural Chess](https://pvdz.ee/weblog/450)
@@ -20,7 +22,6 @@
 * [2024-03-07, 11:47:37](https://news.ycombinator.com/item?id=39627895) - [Show HN: Control Panel for YouTube](https://news.ycombinator.com/item?id=39627895)
 * [2024-03-07, 10:44:35](https://news.ycombinator.com/item?id=39627410) - [Show HN: TinyWasm – A tiny WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 10:27:32](https://news.ycombinator.com/item?id=39627302) - [Dear Linux Kernel CNA, what have you done?](https://amanitasecurity.com/posts/dear-linux-kernel-cna-what-have-you-done/)
-* [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 * [2024-03-07, 05:36:51](https://news.ycombinator.com/item?id=39625379) - [Gabriel García Márquez: Sons publish novel that late author wanted destroyed](https://www.bbc.co.uk/news/entertainment-arts-68488756.amp)
 * [2024-03-06, 13:27:37](https://news.ycombinator.com/item?id=39615715) - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)
@@ -29,7 +30,6 @@
 * [2024-03-06, 06:33:57](https://news.ycombinator.com/item?id=39612957) - [A peculiarity of the X Window System: Windows all the way down](https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown)
 * [2024-03-06, 06:26:33](https://news.ycombinator.com/item?id=39612913) - [The Cell Programming Language](https://www.cell-lang.net/)
 * [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
-* [2024-03-05, 23:40:13](https://news.ycombinator.com/item?id=39610509) - [A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)](https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299)
 
 ## [Archives](archives/index.md)
 
