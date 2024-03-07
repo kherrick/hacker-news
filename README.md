@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-07, 09:27:11](https://news.ycombinator.com/item?id=39626955) - [Apple's exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
+* [2024-03-07, 09:05:26](https://news.ycombinator.com/item?id=39626813) - [OpenAI's \"Own Goal\"](https://garymarcus.substack.com/p/openais-own-goal)
 * [2024-03-07, 08:47:33](https://news.ycombinator.com/item?id=39626683) - [The Digital Markets Act is in force What happens now?](https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/)
 * [2024-03-07, 08:11:10](https://news.ycombinator.com/item?id=39626454) - [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 * [2024-03-07, 06:14:34](https://news.ycombinator.com/item?id=39625594) - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
-* [2024-03-07, 03:52:47](https://news.ycombinator.com/item?id=39624886) - [Well-Known URIs](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml)
 * [2024-03-07, 03:42:47](https://news.ycombinator.com/item?id=39624842) - [Leadership is a hell of a drug](https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/)
 * [2024-03-07, 02:30:57](https://news.ycombinator.com/item?id=39624464) - [Signs you're about to be acquired (2020)](https://yolken.net/blog/youre-about-to-be-acquired)
 * [2024-03-06, 23:34:40](https://news.ycombinator.com/item?id=39623182) - [Minuteman Weapon System History and Description (2001) [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
