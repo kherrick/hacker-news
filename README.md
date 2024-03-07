@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-07, 02:30:57](https://news.ycombinator.com/item?id=39624464) - [Signs you're about to be acquired (2020)](https://yolken.net/blog/youre-about-to-be-acquired)
 * [2024-03-06, 23:34:40](https://news.ycombinator.com/item?id=39623182) - [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
 * [2024-03-06, 23:28:01](https://news.ycombinator.com/item?id=39623128) - [Bob_cassette_rewinder: Renew and Refill Bob Cassettes for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder)
 * [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
@@ -18,7 +19,6 @@
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
 * [2024-03-06, 17:06:57](https://news.ycombinator.com/item?id=39618093) - [Optimizing technical docs for LLMs](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms)
-* [2024-03-06, 17:03:58](https://news.ycombinator.com/item?id=39618062) - [Show HN: My first programming project – userscripts to change forum UIs](https://github.com/wkrouse/My-first-programming-project---userscripts-to-change-forum-UIs)
 * [2024-03-06, 14:15:25](https://news.ycombinator.com/item?id=39616155) - [How likely are chance resemblances between languages? (2002)](https://www.zompist.com/chance.htm)
 * [2024-03-06, 14:10:51](https://news.ycombinator.com/item?id=39616111) - [Early American fire alarm systems (2022)](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
 * [2024-03-06, 12:29:37](https://news.ycombinator.com/item?id=39615198) - [Compression efficiency with shared dictionaries in Chrome](https://developer.chrome.com/blog/shared-dictionary-compression)
