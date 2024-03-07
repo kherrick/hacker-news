@@ -14,6 +14,7 @@
 * [2024-03-05, 21:45:53](https://news.ycombinator.com/item?id=39609528) - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
 * [2024-03-05, 21:25:24](https://news.ycombinator.com/item?id=39609336) - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
 * [2024-03-05, 21:16:10](https://news.ycombinator.com/item?id=39609256) - [European Court Confirms: Weakening Encryption Violates Fundamental Rights](https://www.eff.org/deeplinks/2024/03/european-court-human-rights-confirms-undermining-encryption-violates-fundamental)
+* [2024-03-05, 21:16:01](https://news.ycombinator.com/item?id=39609254) - [Amazon Cancels Fees for Customers Moving to Rival Cloud Services](https://www.bloomberg.com/news/articles/2024-03-05/amazon-cancels-fees-for-customers-moving-to-rival-cloud-services)
 * [2024-03-05, 20:32:44](https://news.ycombinator.com/item?id=39608822) - [Array Languages vs. the Curse of the Spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-03-05, 20:28:42](https://news.ycombinator.com/item?id=39608787) - [Magicschool.ai: An AI assistant for every teacher in the world](https://www.magicschool.ai/)
 * [2024-03-05, 20:18:17](https://news.ycombinator.com/item?id=39608702) - [Ask HN: AWS Down?](https://news.ycombinator.com/item?id=39608702)
