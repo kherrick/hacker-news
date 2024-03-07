@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 09:27:11](https://news.ycombinator.com/item?id=39626955) - [Apple's exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
+* [2024-03-07, 08:47:33](https://news.ycombinator.com/item?id=39626683) - [The Digital Markets Act is in force What happens now?](https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/)
 * [2024-03-07, 08:11:10](https://news.ycombinator.com/item?id=39626454) - [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to Acquire US Cinema Camera Manufacturer Red.com, LLC](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [GTK: On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
