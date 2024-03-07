@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-07, 20:02:42](https://news.ycombinator.com/item?id=39633936) - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
-* [2024-03-07, 19:39:13](https://news.ycombinator.com/item?id=39633652) - [A data-driven case for why TikTok needs to be banned before the 2024 election](https://time.com/6836078/tiktok-sold-banned-2024-election/)
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)
 * [2024-03-07, 18:59:15](https://news.ycombinator.com/item?id=39633172) - [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
@@ -23,6 +22,7 @@
 * [2024-03-07, 10:44:35](https://news.ycombinator.com/item?id=39627410) - [Show HN: TinyWasm – A tiny WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
+* [2024-03-07, 06:28:11](https://news.ycombinator.com/item?id=39625662) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
 * [2024-03-06, 18:03:43](https://news.ycombinator.com/item?id=39618822) - [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
 * [2024-03-06, 13:27:37](https://news.ycombinator.com/item?id=39615715) - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)
