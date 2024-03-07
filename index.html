@@ -129,47 +129,107 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="39632106">
+        <section id="39632872">
           <h3>
-            <a
-              class="item"
-              href="https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3"
-              >Bike lanes are good for business</a
+            <a class="item" href="https://silogy.io/"
+              >Launch HN: SiLogy (YC W24) – Chip design and verification in the
+              cloud</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-03-07 @ 17:49:02</span
+              <span>2024-03-07 @ 18:38:22</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39632106"
+                ><a href="https://news.ycombinator.com/item?id=39632872"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="39631575">
-          <h3>
-            <a
-              class="item"
-              href="https://reclaimthenet.org/google-photos-and-icloud-photos-alternative-ente-open-sources-its-server-code"
-              >Google Photos and iCloud Photos Alternative Ente Open Sources Its
-              Server Code</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-07 @ 17:18:39</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39631575"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+            <div class="text">
+              <a href="https://silogy.io/">https://silogy.io/</a>). We’re
+              building chip design and verification tools to speed up the
+              semiconductor development cycle. Here's a demo:
+              <a href="https://www.youtube.com/watch?v=u0wAegt79EA"
+                >https://www.youtube.com/watch?v=u0wAegt79EA</a
               >
-            </h4>
+              <p>
+                Interest in designing new chips is growing, thanks to demand
+                from AI and the predicted decline of Moore’s Law. All these
+                chips need to be tested in simulation. Since the number of
+                possible states grows exponentially with chip complexity, the
+                need for verification is exploding. Chip developers already
+                spend 70% of their time on testing. (See this video on the
+                “verification gap”:
+                <a href="https://www.youtube.com/watch?v=rtaaOdGuMCc"
+                  >https://www.youtube.com/watch?v=rtaaOdGuMCc</a
+                >).
+              </p>
+              <p>
+                Tooling hasn’t kept up. The state of the art in collaborative
+                debugging is to walk to a coworker’s desk and point to an error
+                in a log file or waveform file. Each chip company rolls out its
+                own tooling and infra to deal with this—this was Kay’s (one of
+                our cofounders) entire job at his last gig. But they want to
+                work on chips, not devtools! The solutions they come up with are
+                often inadequate and frustrating. That’s why we started SiLogy.
+              </p>
+              <p>
+                SiLogy is a web app to manage the entire digital verification
+                workflow. (“Digital verification” means testing the logic of the
+                design and includes everything before the physical design of the
+                chip. It’s the most time-consuming stage in verification.)
+              </p>
+              <p>We combine three capabilities:</p>
+              <p>
+                <i>Test orchestration and running</i>: The heart of our product
+                is a CI tool that runs Verilator, a popular open-source
+                simulator, in a Docker container. When you push to your repo or
+                manually trigger a job in the UI, we install your dependencies
+                and compile your binaries into a Docker image, and run your
+                tests. You can also rerun a single test with custom arguments
+                using the UI.
+              </p>
+              <p>
+                <i>Test results and statistics</i>: We display logs from each
+                test in the web app. We’re working on displaying waveform files
+                in the app, too. We also keep track of passing and failing tests
+                within each test suite, and we’re working on slick
+                visualizations of test trends, to keep managers happy. :)
+              </p>
+              <p>
+                <i>Collaboration</i>: soon you’ll be able to send a link to and
+                leave a comment on a specific location within a log or waveform
+                file, just like in Google Docs.
+              </p>
+              <p>
+                Unlike generic CI tools, we focus on tight integration with
+                verification workflows. When an assertion fails, we show you the
+                source code where it happened. We’re hard at work on waveform
+                viewing – soon you’ll be able to generate waves from a failing
+                test, with the click of a button.
+              </p>
+              <p>
+                Our roadmap includes support for the major commercial
+                simulators: VCS, Xcelium, and Questa. We’re also working on a
+                test gen framework based on Buck2 to statically declare tests
+                for your post-commit runs, or programmatically generate
+                thousands of tests for nightly regressions.
+              </p>
+              <p>
+                We plan to sell seats, with discounts for individuals, startups,
+                and research labs (we’re working on pricing). For now, we’re
+                opening up guest registration so HN can play with what we hope
+                is the future of design verification. We owe so much of what we
+                know to this community and we’d be so grateful for any feedback.
+                &lt;3 You can sign up here, just press "Use guest email address"
+                if you don't want to give up your email:
+                <a href="https://dash.silogy.io/signup/"
+                  >https://dash.silogy.io/signup/</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="39631516">
@@ -183,33 +243,11 @@
             <h4>
               <span>2024-03-07 @ 17:14:51</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39631516"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39631402">
-          <h3>
-            <a
-              class="item"
-              href="https://www.techdirt.com/2024/03/07/hp-tries-desperately-to-make-printer-as-a-subscription-a-thing/"
-              >HP Tries Desperately to Make 'Printer as a Subscription' a
-              Thing</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-07 @ 17:06:46</span
-              ><span class="points-container"
-                >Points: <span class="points">84</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39631402"
-                  >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -242,32 +280,11 @@
             <h4>
               <span>2024-03-07 @ 16:48:28</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39631190"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39631139">
-          <h3>
-            <a
-              class="item"
-              href="https://www.government.se/press-releases/2024/03/sweden-is-a-nato-member/"
-              >Sweden Is a NATO Member</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-07 @ 16:43:41</span
-              ><span class="points-container"
-                >Points: <span class="points">356</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39631139"
-                  >Comments</a
-                ><span class="descendants">: 309</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -277,7 +294,7 @@
             <a
               class="item"
               href="https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html"
-              >You can not simply publicly access private secure links, can
+              >You cannot simply publicly access private secure links, can
               you?</a
             >
           </h3>
@@ -285,11 +302,11 @@
             <h4>
               <span>2024-03-07 @ 16:29:47</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39630985"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -306,11 +323,11 @@
             <h4>
               <span>2024-03-07 @ 16:26:15</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39630949"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -327,32 +344,11 @@
             <h4>
               <span>2024-03-07 @ 16:23:22</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39630926"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39630520">
-          <h3>
-            <a
-              class="item"
-              href="https://en.wikipedia.org/wiki/Intentionally_blank_page"
-              >Intentionally Blank Page</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-07 @ 15:51:58</span
-              ><span class="points-container"
-                >Points: <span class="points">57</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39630520"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -369,11 +365,11 @@
             <h4>
               <span>2024-03-07 @ 15:46:22</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39630457"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -410,11 +406,11 @@
             <h4>
               <span>2024-03-07 @ 14:07:53</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39629213"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -429,11 +425,11 @@
             <h4>
               <span>2024-03-07 @ 13:52:16</span
               ><span class="points-container"
-                >Points: <span class="points">403</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39629044"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -450,7 +446,7 @@
             <h4>
               <span>2024-03-07 @ 13:50:07</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39629015"
                   >Comments</a
@@ -473,7 +469,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39628285"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
             <div class="text">
@@ -518,6 +514,26 @@
             </div>
           </section>
         </section>
+        <section id="39628019">
+          <h3>
+            <a class="item" href="https://ieeexplore.ieee.org/document/10374117"
+              >D(HE)at: A Practical DoS Attack on the Finite Field
+              Diffie–Hellman Key Exchange</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-07 @ 12:00:40</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39628019"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39628015">
           <h3>
             <a
@@ -551,11 +567,11 @@
             <h4>
               <span>2024-03-07 @ 10:48:39</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39627443"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -570,7 +586,7 @@
             <h4>
               <span>2024-03-07 @ 10:44:35</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39627410"
                   >Comments</a
@@ -620,7 +636,7 @@
             <h4>
               <span>2024-03-07 @ 07:01:42</span
               ><span class="points-container"
-                >Points: <span class="points">457</span></span
+                >Points: <span class="points">460</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39625919"
                   >Comments</a
@@ -641,11 +657,73 @@
             <h4>
               <span>2024-03-07 @ 07:01:37</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39625917"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 83</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39625662">
+          <h3>
+            <a class="item" href="https://briancallahan.net/blog/20240306.html"
+              >FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-07 @ 06:28:11</span
+              ><span class="points-container"
+                >Points: <span class="points">75</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39625662"
+                  >Comments</a
+                ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39620060">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/classvsoftware/under-new-management"
+              >Detect when your installed Chrome extensions have changed
+              owners</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-06 @ 19:21:31</span
+              ><span class="points-container"
+                >Points: <span class="points">697</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39620060"
+                  >Comments</a
+                ><span class="descendants">: 269</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39618822">
+          <h3>
+            <a
+              class="item"
+              href="https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor"
+              >FDA clears first over-the-counter continuous glucose monitor</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-06 @ 18:03:43</span
+              ><span class="points-container"
+                >Points: <span class="points">736</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39618822"
+                  >Comments</a
+                ><span class="descendants">: 392</span></span
               >
             </h4>
           </section>
@@ -660,11 +738,11 @@
             <h4>
               <span>2024-03-06 @ 13:27:37</span
               ><span class="points-container"
-                >Points: <span class="points">277</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39615715"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -680,7 +758,7 @@
             <h4>
               <span>2024-03-06 @ 10:25:44</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39614398"
                   >Comments</a
@@ -693,7 +771,7 @@
           <h3>
             <a
               class="item"
-              href="https://gorisanson.github.io/pikachu-volleyball/en/"
+              href="https://github.com/gorisanson/pikachu-volleyball"
               >Pikachu Volleyball</a
             >
           </h3>
@@ -701,7 +779,7 @@
             <h4>
               <span>2024-03-06 @ 09:49:02</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39614156"
                   >Comments</a
@@ -720,11 +798,11 @@
             <h4>
               <span>2024-03-06 @ 06:26:33</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39612913"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -741,7 +819,7 @@
             <h4>
               <span>2024-03-06 @ 06:21:47</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39612885"
                   >Comments</a
@@ -763,11 +841,11 @@
             <h4>
               <span>2024-03-05 @ 23:40:13</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39610509"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -805,7 +883,7 @@
             <h4>
               <span>2024-03-05 @ 01:06:39</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39598211"
                   >Comments</a
