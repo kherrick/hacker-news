@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 12:33:36](https://news.ycombinator.com/item?id=39628285) - [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
+* [2024-03-07, 12:24:10](https://news.ycombinator.com/item?id=39628199) - [On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out](https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/)
 * [2024-03-07, 12:07:20](https://news.ycombinator.com/item?id=39628064) - [Total Functional Programming (2004) [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
+* [2024-03-07, 12:00:10](https://news.ycombinator.com/item?id=39628015) - [Snapdragon 8 Gen 1's iGPU: Adreno Gets Big](https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/)
 * [2024-03-07, 12:00:04](https://news.ycombinator.com/item?id=39628014) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-03-07, 11:16:15](https://news.ycombinator.com/item?id=39627624) - [ECJ finds IAB Europe responsible for TCF consent spam popups across the Internet](https://www.iccl.ie/digital-data/european-court-of-justice-finds-iab-europe-responsible-for-tcf-consent-spam-popups-across-the-internet/)
 * [2024-03-07, 11:06:20](https://news.ycombinator.com/item?id=39627557) - [Steve Wozniak Unveiled: Apple's Origins and Life Today (2024) [video]](https://www.youtube.com/watch?v=FkeueghEBA4)
@@ -21,6 +24,7 @@
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to Acquire US Cinema Camera Manufacturer Red.com, LLC](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [GTK: On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 * [2024-03-07, 06:30:54](https://news.ycombinator.com/item?id=39625684) - [Heidelberg Inaugurates 3D Printed Data Center](https://cobod.com/heidelberg-inaugurates-europes-largest-3d-printed-building-the-wave-house-data-center/)
+* [2024-03-07, 06:28:11](https://news.ycombinator.com/item?id=39625662) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
 * [2024-03-07, 06:25:12](https://news.ycombinator.com/item?id=39625647) - [Tintin Charter for the use of the visuals of the Hergé's Work [pdf]](https://cdn001.tintin.com/public/pressclub/pdf/charte_v3_en.pdf)
 * [2024-03-07, 06:14:34](https://news.ycombinator.com/item?id=39625594) - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
 * [2024-03-07, 05:53:48](https://news.ycombinator.com/item?id=39625471) - [BYD launches cheaper Seagull EV with $9,700 starting price tag](https://electrek.co/2024/03/06/byd-launches-cheaper-seagull-ev-9700-price/)
