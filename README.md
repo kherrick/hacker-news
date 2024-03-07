@@ -7,6 +7,7 @@
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 * [2024-03-07, 06:14:34](https://news.ycombinator.com/item?id=39625594) - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
+* [2024-03-07, 05:32:08](https://news.ycombinator.com/item?id=39625359) - [Australian Net Guide – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
 * [2024-03-07, 03:42:47](https://news.ycombinator.com/item?id=39624842) - [Leadership is a hell of a drug](https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/)
 * [2024-03-07, 02:30:57](https://news.ycombinator.com/item?id=39624464) - [Signs you're about to be acquired (2020)](https://yolken.net/blog/youre-about-to-be-acquired)
 * [2024-03-06, 23:34:40](https://news.ycombinator.com/item?id=39623182) - [Minuteman Weapon System History and Description (2001) [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
@@ -27,7 +28,6 @@
 * [2024-03-05, 17:52:11](https://news.ycombinator.com/item?id=39606873) - [Academish Voice (2022)](https://inkandswitch.notion.site/Academish-Voice-0d8126b3be5545d2a21705ceedb5dd45)
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [Journalist casualties in the Israel-Gaza war](https://cpj.org/2024/03/journalist-casualties-in-the-israel-gaza-conflict)
 * [2024-03-05, 08:58:12](https://news.ycombinator.com/item?id=39600968) - [Interactive SQLite Documentation: Experiment with Queries in Real-Time](https://blog.sqlitecloud.io/interactive-sqlite-documentation-experiment-with-queries-in-real-time)
-* [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe: NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
 * [2024-03-05, 01:06:39](https://news.ycombinator.com/item?id=39598211) - [My talk on CSS runtime performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
 * [2024-03-04, 13:15:38](https://news.ycombinator.com/item?id=39590071) - [Gold recovery from e-waste by food-waste amyloid aerogels](https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642)
 
