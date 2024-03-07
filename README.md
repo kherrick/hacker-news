@@ -20,7 +20,6 @@
 * [2024-03-06, 19:21:31](https://news.ycombinator.com/item?id=39620060) - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
 * [2024-03-06, 18:03:43](https://news.ycombinator.com/item?id=39618822) - [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
-* [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
 * [2024-03-06, 06:03:33](https://news.ycombinator.com/item?id=39612799) - [Alan Kay's talk at UCLA – Feb 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
 * [2024-03-06, 04:16:14](https://news.ycombinator.com/item?id=39612245) - [Renaissance Women](https://yalereview.org/article/catherine-nicholson-ramie-targoff-shakespeares-sisters)
 * [2024-03-05, 23:40:13](https://news.ycombinator.com/item?id=39610509) - [A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls](https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299)
@@ -29,6 +28,7 @@
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [Journalist casualties in the Israel-Gaza war](https://cpj.org/2024/03/journalist-casualties-in-the-israel-gaza-conflict)
 * [2024-03-05, 08:58:12](https://news.ycombinator.com/item?id=39600968) - [Interactive SQLite Documentation: Experiment with Queries in Real-Time](https://blog.sqlitecloud.io/interactive-sqlite-documentation-experiment-with-queries-in-real-time)
 * [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe: NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
+* [2024-03-05, 01:06:39](https://news.ycombinator.com/item?id=39598211) - [My talk on CSS runtime performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
 * [2024-03-04, 13:15:38](https://news.ycombinator.com/item?id=39590071) - [Gold recovery from e-waste by food-waste amyloid aerogels](https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642)
 
 ## [Archives](archives/index.md)

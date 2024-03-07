@@ -119,6 +119,7 @@
 * [2024-03-05, 02:37:35](https://news.ycombinator.com/item?id=39598826) - [Ubicloud: Open, Free, and Portable Cloud](https://www.ubicloud.com/)
 * [2024-03-05, 02:30:47](https://news.ycombinator.com/item?id=39598776) - [Screen time robs average toddler of hearing 1,000 words spoken by adult a day](https://www.theguardian.com/australia-news/2024/mar/04/does-children-toddlers-kids-watching-tv-impact-development-learning)
 * [2024-03-05, 02:18:21](https://news.ycombinator.com/item?id=39598703) - [Natron: Open-Source Alternative to Adobe After Effects](https://www.linuxtechmore.com/2024/03/linux-apps-tour-unveiling-natron-your-open-source-alternative-to-adobe-after-effects.html)
+* [2024-03-05, 01:06:39](https://news.ycombinator.com/item?id=39598211) - [My talk on CSS runtime performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
 * [2024-03-05, 01:02:57](https://news.ycombinator.com/item?id=39598189) - [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 * [2024-03-05, 01:00:08](https://news.ycombinator.com/item?id=39598170) - [CodeCrafters (YC S22) is hiring an influencer manager (interns welcome)](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
 * [2024-03-05, 00:15:10](https://news.ycombinator.com/item?id=39597847) - [Based: Simple linear attention language models](https://www.together.ai/blog/based)
