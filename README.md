@@ -2,6 +2,7 @@
 
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
 * [2024-03-07, 17:14:51](https://news.ycombinator.com/item?id=39631516) - [The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
+* [2024-03-07, 17:06:46](https://news.ycombinator.com/item?id=39631402) - [HP Tries Desperately to Make 'Printer as a Subscription' a Thing](https://www.techdirt.com/2024/03/07/hp-tries-desperately-to-make-printer-as-a-subscription-a-thing/)
 * [2024-03-07, 17:00:24](https://news.ycombinator.com/item?id=39631327) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
 * [2024-03-07, 16:48:28](https://news.ycombinator.com/item?id=39631190) - [The Race to 2nm: RISC-V Chips in Japan – By Dr. Ian Cutress](https://morethanmoore.substack.com/p/the-race-to-2nm-risc-v-chips-in-japan)
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You cannot simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
@@ -28,7 +29,6 @@
 * [2024-03-06, 06:26:33](https://news.ycombinator.com/item?id=39612913) - [The Cell Programming Language](https://www.cell-lang.net/)
 * [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
 * [2024-03-05, 23:40:13](https://news.ycombinator.com/item?id=39610509) - [A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)](https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299)
-* [2024-03-05, 17:52:11](https://news.ycombinator.com/item?id=39606873) - [Academish Voice (2022)](https://inkandswitch.notion.site/Academish-Voice-0d8126b3be5545d2a21705ceedb5dd45)
 * [2024-03-05, 01:06:39](https://news.ycombinator.com/item?id=39598211) - [My talk on CSS runtime performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
 
 ## [Archives](archives/index.md)
