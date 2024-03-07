@@ -3,6 +3,7 @@
 * [2024-03-07, 01:04:58](https://news.ycombinator.com/item?id=39623857) - [PFAS 'forever chemicals' to officially be removed from food packaging, FDA says](https://www.livescience.com/health/food-diet/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says)
 * [2024-03-06, 23:34:40](https://news.ycombinator.com/item?id=39623182) - [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
 * [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
+* [2024-03-06, 22:49:43](https://news.ycombinator.com/item?id=39622778) - [Show HN: Known – Semi-smart plant labels](https://www.knownplants.com/)
 * [2024-03-06, 21:52:48](https://news.ycombinator.com/item?id=39622130) - [The Art and History of Lettering Comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
 * [2024-03-06, 21:44:40](https://news.ycombinator.com/item?id=39622006) - [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
 * [2024-03-06, 21:01:09](https://news.ycombinator.com/item?id=39621384) - [Eqtble (YC W21) is hiring a founding account executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
@@ -29,7 +30,6 @@
 * [2024-03-05, 04:03:43](https://news.ycombinator.com/item?id=39599298) - [The Age of Impoliteness: Galateo: Or, a Treatise on Politeness (1774 Edition)](https://publicdomainreview.org/collection/galateo/)
 * [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
 * [2024-03-04, 13:15:38](https://news.ycombinator.com/item?id=39590071) - [Gold Recovery from E-Waste by Food-Waste Amyloid Aerogels](https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642)
-* [2024-03-04, 11:42:51](https://news.ycombinator.com/item?id=39589282) - [A Global AppleTalk Network: Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
 
 ## [Archives](archives/index.md)
 
