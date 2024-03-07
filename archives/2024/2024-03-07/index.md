@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 20:23:46](https://news.ycombinator.com/item?id=39634162) - [Researchers jailbreak AI chatbots with ASCII art](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries)
 * [2024-03-07, 20:02:42](https://news.ycombinator.com/item?id=39633936) - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
 * [2024-03-07, 19:39:13](https://news.ycombinator.com/item?id=39633652) - [A data-driven case for why TikTok needs to be banned before the 2024 election](https://time.com/6836078/tiktok-sold-banned-2024-election/)
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)
