@@ -106,6 +106,7 @@
 * [2024-03-05, 05:37:39](https://news.ycombinator.com/item?id=39599823) - [Calyx, a Compiler Infrastructure for Accelerator Generators](https://calyxir.org/)
 * [2024-03-05, 05:20:58](https://news.ycombinator.com/item?id=39599736) - [Apple Fined $2B in One of Europe's Largest Antitrust Actions](https://www.wsj.com/tech/apple-hit-with-near-2-billion-fine-in-europe-over-music-streaming-apps-74062ff7)
 * [2024-03-05, 04:05:03](https://news.ycombinator.com/item?id=39599312) - [Claude 3 Opus suspects it is being tested from benchmark question](https://twitter.com/alexalbert__/status/1764722513014329620)
+* [2024-03-05, 04:03:43](https://news.ycombinator.com/item?id=39599298) - [The Age of Impoliteness: Galateo: Or, a Treatise on Politeness (1774 Edition)](https://publicdomainreview.org/collection/galateo/)
 * [2024-03-05, 03:43:23](https://news.ycombinator.com/item?id=39599175) - [Protecting paths in macro expansions by extending UTF-8](https://nullprogram.com/blog/2024/03/05/)
 * [2024-03-05, 03:38:50](https://news.ycombinator.com/item?id=39599150) - [\"I became a writer to get rich\" (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 * [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
