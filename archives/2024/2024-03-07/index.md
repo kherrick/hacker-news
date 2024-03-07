@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 11:06:20](https://news.ycombinator.com/item?id=39627557) - [Steve Wozniak Unveiled: Apple's Origins and Life Today (2024) [video]](https://www.youtube.com/watch?v=FkeueghEBA4)
+* [2024-03-07, 10:48:39](https://news.ycombinator.com/item?id=39627443) - [Beautiful SAR images of the ocean reveal shipping lanes, wind farms](https://blog.datadesk.eco/p/sky-lapse-in-two-tone)
 * [2024-03-07, 10:27:32](https://news.ycombinator.com/item?id=39627302) - [Dear Linux Kernel CNA, What Have You Done?](https://amanitasecurity.com/posts/dear-linux-kernel-cna-what-have-you-done/)
 * [2024-03-07, 10:14:45](https://news.ycombinator.com/item?id=39627240) - [EU Probes Apple's Decision to Shut Down Epic's Developer Account](https://www.macrumors.com/2024/03/07/eu-probes-apple-termination-epic-account/)
 * [2024-03-07, 10:14:25](https://news.ycombinator.com/item?id=39627238) - [Apple calls Epic 'verifiably untrustworthy' and blocks Fortnite and App store](https://www.gamesindustry.biz/apple-calls-epic-verifiably-untrustworthy-and-blocks-bid-to-launch-fortnite-and-mobile-store-on-ios)
