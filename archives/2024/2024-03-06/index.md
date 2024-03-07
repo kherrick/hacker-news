@@ -75,6 +75,7 @@
 * [2024-03-06, 12:07:04](https://news.ycombinator.com/item?id=39615029) - [Windows 11 to lose official support for Android apps](https://techcrunch.com/2024/03/05/windows-11-to-lose-official-support-for-android-apps/)
 * [2024-03-06, 12:01:08](https://news.ycombinator.com/item?id=39614989) - [Ice-free summers in Arctic possible within next decade, scientists say](https://www.theguardian.com/world/2024/mar/05/ice-free-summers-in-arctic-possible-within-next-decade-scientists-say)
 * [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
+* [2024-03-06, 11:21:18](https://news.ycombinator.com/item?id=39614752) - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
 * [2024-03-06, 10:31:02](https://news.ycombinator.com/item?id=39614433) - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
 * [2024-03-06, 10:26:29](https://news.ycombinator.com/item?id=39614404) - [Using accesskey attribute in HTML forms and links (1998)](https://jkorpela.fi/forms/accesskey.html)
 * [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)

@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-07, 23:20:43](https://news.ycombinator.com/item?id=39635854) - [Gemma 2B 60 tk/s WebGPU on M1](https://mediapipe-studio.webapps.google.com/studio/demo/llm_inference)
-* [2024-03-07, 23:17:51](https://news.ycombinator.com/item?id=39635827) - [Infant health suffered during baby formula shortage](https://www.ucdavis.edu/health/news/infant-health-suffered-during-baby-formula-shortage)
 * [2024-03-07, 21:54:18](https://news.ycombinator.com/item?id=39635014) - [Grats: A More Pleasant Way to Build TypeScript GraphQL Servers](https://jordaneldredge.com/blog/grats/)
 * [2024-03-07, 21:25:26](https://news.ycombinator.com/item?id=39634756) - [Genesis of a New Programming Model](https://stealthrocket.tech/blog/genesis-of-a-new-programming-model/)
+* [2024-03-07, 21:09:04](https://news.ycombinator.com/item?id=39634603) - [Power Laws in Culture](https://dougshapiro.medium.com/power-laws-in-culture-27ab6461c693)
 * [2024-03-07, 21:00:39](https://news.ycombinator.com/item?id=39634519) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-03-07, 20:02:42](https://news.ycombinator.com/item?id=39633936) - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
 * [2024-03-07, 19:30:54](https://news.ycombinator.com/item?id=39633580) - [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)
@@ -24,6 +23,7 @@
 * [2024-03-07, 10:27:32](https://news.ycombinator.com/item?id=39627302) - [Dear Linux Kernel CNA, what have you done?](https://amanitasecurity.com/posts/dear-linux-kernel-cna-what-have-you-done/)
 * [2024-03-07, 05:36:51](https://news.ycombinator.com/item?id=39625379) - [Gabriel García Márquez: Sons publish novel that late author wanted destroyed](https://www.bbc.co.uk/news/entertainment-arts-68488756.amp)
 * [2024-03-06, 13:27:37](https://news.ycombinator.com/item?id=39615715) - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
+* [2024-03-06, 11:21:18](https://news.ycombinator.com/item?id=39614752) - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
 * [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)
 * [2024-03-06, 09:52:33](https://news.ycombinator.com/item?id=39614174) - [Free Electron Laser Time](https://www.science.org/content/blog-post/free-electron-laser-time)
 * [2024-03-06, 09:49:02](https://news.ycombinator.com/item?id=39614156) - [Pikachu Volleyball](https://github.com/gorisanson/pikachu-volleyball)
