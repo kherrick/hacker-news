@@ -9,6 +9,7 @@
 * [2024-03-07, 18:50:16](https://news.ycombinator.com/item?id=39633053) - [TikTok users bombard Congressional offices over bill that could ban app](https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
 * [2024-03-07, 17:49:02](https://news.ycombinator.com/item?id=39632106) - [Bike lanes are good for business](https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3)
+* [2024-03-07, 17:39:08](https://news.ycombinator.com/item?id=39631924) - [Intel to get $3.5B infusion from U.S. gov't to make chips for military: Report](https://www.tomshardware.com/tech-industry/intel-to-get-dollar35-billion-from-us-govt-to-make-chips-for-military-report)
 * [2024-03-07, 17:18:39](https://news.ycombinator.com/item?id=39631575) - [Google Photos and iCloud Photos Alternative Ente Open Sources Its Server Code](https://reclaimthenet.org/google-photos-and-icloud-photos-alternative-ente-open-sources-its-server-code)
 * [2024-03-07, 17:14:51](https://news.ycombinator.com/item?id=39631516) - [The Pile is a 825 GiB diverse, open source language modelling data set](https://pile.eleuther.ai/)
 * [2024-03-07, 17:06:46](https://news.ycombinator.com/item?id=39631402) - [HP Tries Desperately to Make 'Printer as a Subscription' a Thing](https://www.techdirt.com/2024/03/07/hp-tries-desperately-to-make-printer-as-a-subscription-a-thing/)

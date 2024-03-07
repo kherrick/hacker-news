@@ -4,6 +4,7 @@
 * [2024-03-07, 18:59:15](https://news.ycombinator.com/item?id=39633172) - [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 18:50:16](https://news.ycombinator.com/item?id=39633053) - [TikTok users bombard Congressional offices over bill that could ban app](https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
+* [2024-03-07, 17:39:08](https://news.ycombinator.com/item?id=39631924) - [Intel to get $3.5B infusion from U.S. gov't to make chips for military: Report](https://www.tomshardware.com/tech-industry/intel-to-get-dollar35-billion-from-us-govt-to-make-chips-for-military-report)
 * [2024-03-07, 17:14:51](https://news.ycombinator.com/item?id=39631516) - [The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
 * [2024-03-07, 17:00:24](https://news.ycombinator.com/item?id=39631327) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
 * [2024-03-07, 16:48:28](https://news.ycombinator.com/item?id=39631190) - [The Race to 2nm: RISC-V Chips in Japan – By Dr. Ian Cutress](https://morethanmoore.substack.com/p/the-race-to-2nm-risc-v-chips-in-japan)
@@ -28,7 +29,6 @@
 * [2024-03-06, 06:26:33](https://news.ycombinator.com/item?id=39612913) - [The Cell Programming Language](https://www.cell-lang.net/)
 * [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
 * [2024-03-05, 23:40:13](https://news.ycombinator.com/item?id=39610509) - [A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)](https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299)
-* [2024-03-05, 21:16:01](https://news.ycombinator.com/item?id=39609254) - [Amazon Cancels Fees for Customers Moving to Rival Cloud Services](https://www.bloomberg.com/news/articles/2024-03-05/amazon-cancels-fees-for-customers-moving-to-rival-cloud-services)
 * [2024-03-05, 01:06:39](https://news.ycombinator.com/item?id=39598211) - [My talk on CSS runtime performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
 
 ## [Archives](archives/index.md)
