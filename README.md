@@ -2,9 +2,9 @@
 
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
+* [2024-03-07, 06:25:12](https://news.ycombinator.com/item?id=39625647) - [Tintin Charter for the use of the visuals of the Hergé's Work [pdf]](https://cdn001.tintin.com/public/pressclub/pdf/charte_v3_en.pdf)
 * [2024-03-07, 06:14:34](https://news.ycombinator.com/item?id=39625594) - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
 * [2024-03-07, 05:32:08](https://news.ycombinator.com/item?id=39625359) - [Australian Net Guide – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
-* [2024-03-07, 05:07:15](https://news.ycombinator.com/item?id=39625250) - [S.3819 – Shrinkflation Prevention Act of 2024](https://www.congress.gov/bill/118th-congress/senate-bill/3819/text)
 * [2024-03-07, 03:52:47](https://news.ycombinator.com/item?id=39624886) - [Well-Known URIs](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml)
 * [2024-03-07, 03:42:47](https://news.ycombinator.com/item?id=39624842) - [Leadership is a hell of a drug](https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/)
 * [2024-03-07, 02:38:06](https://news.ycombinator.com/item?id=39624492) - [Dropping GNOME's X11 session approved for Fedora 41](https://pagure.io/fedora-workstation/issue/414#comment-899128)
