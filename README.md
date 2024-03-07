@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-07, 21:00:39](https://news.ycombinator.com/item?id=39634519) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-03-07, 20:37:31](https://news.ycombinator.com/item?id=39634297) - [Epic access to an Apple developer account was granted through a \"click through\"](https://arstechnica.com/gaming/2024/03/dma-be-damned-apple-cuts-off-path-to-epic-games-store-fortnite-on-eu-iphones/)
 * [2024-03-07, 20:23:46](https://news.ycombinator.com/item?id=39634162) - [Researchers jailbreak AI chatbots with ASCII art](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries)
 * [2024-03-07, 20:02:42](https://news.ycombinator.com/item?id=39633936) - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
 * [2024-03-07, 19:37:39](https://news.ycombinator.com/item?id=39633626) - [Ask HN: What is the, currently, best Programming LLM (copilot) subscription?](https://news.ycombinator.com/item?id=39633626)
@@ -11,7 +12,6 @@
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You cannot simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
 * [2024-03-07, 16:26:15](https://news.ycombinator.com/item?id=39630949) - [New Bounds for Matrix Multiplication: From Alpha to Omega](https://epubs.siam.org/doi/10.1137/1.9781611977912.134)
 * [2024-03-07, 15:46:22](https://news.ycombinator.com/item?id=39630457) - [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
-* [2024-03-07, 15:22:01](https://news.ycombinator.com/item?id=39630173) - [Gabriel García Márquez Wanted to Destroy His Last Novel. It's Being Published](https://www.nytimes.com/2024/03/06/books/gabriel-garcia-marquez-last-novel-until-august.html)
 * [2024-03-07, 14:08:26](https://news.ycombinator.com/item?id=39629225) - [Hurried Thoughts: You're Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
 * [2024-03-07, 14:07:53](https://news.ycombinator.com/item?id=39629213) - [Source Code for Area 51 (2005) by Midway Studios Austin Found at Garage Sale](https://github.com/ProjectDreamland/area51)
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
