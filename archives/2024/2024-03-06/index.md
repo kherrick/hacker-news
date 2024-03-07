@@ -77,6 +77,7 @@
 * [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
 * [2024-03-06, 10:31:02](https://news.ycombinator.com/item?id=39614433) - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
 * [2024-03-06, 10:26:29](https://news.ycombinator.com/item?id=39614404) - [Using accesskey attribute in HTML forms and links (1998)](https://jkorpela.fi/forms/accesskey.html)
+* [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)
 * [2024-03-06, 09:53:45](https://news.ycombinator.com/item?id=39614185) - [Visual Studio 2022 – 17.10 Preview 1: Productivity, Debugging, Diagnostics](https://www.infoq.com/news/2024/03/visual-studio-1710-preview-1/)
 * [2024-03-06, 09:52:23](https://news.ycombinator.com/item?id=39614173) - [Understanding DFT and FFT](https://www.adiuvoengineering.com/post/microzed-chronicles-the-frequency-domain)
 * [2024-03-06, 09:49:02](https://news.ycombinator.com/item?id=39614156) - [Pikachu Volleyball](https://gorisanson.github.io/pikachu-volleyball/en/)

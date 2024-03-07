@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 17:00:24](https://news.ycombinator.com/item?id=39631327) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
+* [2024-03-07, 16:43:41](https://news.ycombinator.com/item?id=39631139) - [Sweden Is a NATO Member](https://www.government.se/press-releases/2024/03/sweden-is-a-nato-member/)
 * [2024-03-07, 16:43:15](https://news.ycombinator.com/item?id=39631135) - [\"AI, no ads please\": 4 words to wipe out $1T](https://12challenges.substack.com/p/ai-no-ads-please-4-words-to-wipe)
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You can not simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
+* [2024-03-07, 16:23:22](https://news.ycombinator.com/item?id=39630926) - [How the Great Green Wall Is Holding Back the Sahara Desert](https://kottke.org/24/03/how-the-great-green-wall-is-holding-back-the-sahara-desert)
 * [2024-03-07, 16:07:29](https://news.ycombinator.com/item?id=39630722) - [My co-founder wants to bring his wife as a late joining co-founder](https://news.ycombinator.com/item?id=39630722)
 * [2024-03-07, 15:51:58](https://news.ycombinator.com/item?id=39630520) - [Intentionally Blank Page](https://en.wikipedia.org/wiki/Intentionally_blank_page)
 * [2024-03-07, 15:49:37](https://news.ycombinator.com/item?id=39630498) - [Plastic Found Inside More Than 50% of Plaques from Clogged Arteries](https://www.sciencealert.com/plastic-found-inside-more-than-50-of-plaques-from-clogged-arteries)
