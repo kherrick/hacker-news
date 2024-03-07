@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 23:40:13](https://news.ycombinator.com/item?id=39610509) - [A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls](https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299)
 * [2024-03-05, 22:50:03](https://news.ycombinator.com/item?id=39610134) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
 * [2024-03-05, 22:39:47](https://news.ycombinator.com/item?id=39610054) - [Tether reaches $100B, stokes stablecoin stability concerns](https://reuters.com/technology/tethers-100-bln-stokes-stablecoin-stability-concerns-2024-03-05)
 * [2024-03-05, 22:32:26](https://news.ycombinator.com/item?id=39610004) - [Building for power users](https://www.thediff.co/archive/building-for-power-users)
