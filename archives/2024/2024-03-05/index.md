@@ -94,6 +94,7 @@
 * [2024-03-05, 09:45:46](https://news.ycombinator.com/item?id=39601284) - [Behind the design: A deep dive into Aptos](https://microsoft.design/articles/behind-the-design-a-deep-dive-into-aptos)
 * [2024-03-05, 09:38:52](https://news.ycombinator.com/item?id=39601229) - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
 * [2024-03-05, 09:34:35](https://news.ycombinator.com/item?id=39601201) - [Library of Juggling](http://libraryofjuggling.com/)
+* [2024-03-05, 08:58:12](https://news.ycombinator.com/item?id=39600968) - [Interactive SQLite Documentation: Experiment with Queries in Real-Time](https://blog.sqlitecloud.io/interactive-sqlite-documentation-experiment-with-queries-in-real-time)
 * [2024-03-05, 08:39:10](https://news.ycombinator.com/item?id=39600810) - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 * [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
 * [2024-03-05, 07:37:57](https://news.ycombinator.com/item?id=39600426) - [Dell exec reveals Nvidia has a 1,000-watt GPU in the works](https://www.theregister.com/2024/03/05/nvidias_b100_gpu_1000w/)
