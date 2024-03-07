@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-03-07, 01:04:58",
-      "https://news.ycombinator.com/item?id=39623857"
-    ],
-    [
-      "PFAS 'forever chemicals' to officially be removed from food packaging, FDA says",
-      "https://www.livescience.com/health/food-diet/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 23:34:40",
       "https://news.ycombinator.com/item?id=39623182"
     ],
     [
       "Minuteman Weapons System History [pdf]",
       "https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 23:28:01",
+      "https://news.ycombinator.com/item?id=39623128"
+    ],
+    [
+      "Bob_cassette_rewinder: Renew and Refill Bob Cassettes for 98% Cost Saving",
+      "https://github.com/dekuNukem/bob_cassette_rewinder"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Show HN: dockerc – Docker image to static executable \"compiler\"",
       "https://github.com/NilsIrl/dockerc"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 19:47:39",
-      "https://news.ycombinator.com/item?id=39620422"
-    ],
-    [
-      "The Law of Leaky Abstractions (2002)",
-      "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Training LLMs from ground zero as a startup",
       "https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness"
+    ]
+  ],
+  [
+    [
+      "2024-03-05, 11:14:44",
+      "https://news.ycombinator.com/item?id=39601938"
+    ],
+    [
+      "CatBoost: Open-source gradient boosting library",
+      "https://catboost.ai/"
     ]
   ],
   [
