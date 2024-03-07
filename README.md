@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-07, 23:20:43](https://news.ycombinator.com/item?id=39635854) - [Gemma 2B 60 tk/s WebGPU on M1](https://mediapipe-studio.webapps.google.com/studio/demo/llm_inference)
+* [2024-03-07, 23:17:51](https://news.ycombinator.com/item?id=39635827) - [Infant health suffered during baby formula shortage](https://www.ucdavis.edu/health/news/infant-health-suffered-during-baby-formula-shortage)
 * [2024-03-07, 21:54:18](https://news.ycombinator.com/item?id=39635014) - [Grats: A More Pleasant Way to Build TypeScript GraphQL Servers](https://jordaneldredge.com/blog/grats/)
 * [2024-03-07, 21:25:26](https://news.ycombinator.com/item?id=39634756) - [Genesis of a New Programming Model](https://stealthrocket.tech/blog/genesis-of-a-new-programming-model/)
-* [2024-03-07, 21:09:04](https://news.ycombinator.com/item?id=39634603) - [Power Laws in Culture](https://dougshapiro.medium.com/power-laws-in-culture-27ab6461c693)
 * [2024-03-07, 21:00:39](https://news.ycombinator.com/item?id=39634519) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-* [2024-03-07, 20:51:58](https://news.ycombinator.com/item?id=39634450) - [Dynamic Printf Debugging with GDB](https://abstractexpr.com/2024/03/03/dynamic-printf-debugging-with-gdb/)
 * [2024-03-07, 20:02:42](https://news.ycombinator.com/item?id=39633936) - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
 * [2024-03-07, 19:30:54](https://news.ycombinator.com/item?id=39633580) - [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)

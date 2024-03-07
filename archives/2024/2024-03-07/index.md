@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 23:20:43](https://news.ycombinator.com/item?id=39635854) - [Gemma 2B 60 tk/s WebGPU on M1](https://mediapipe-studio.webapps.google.com/studio/demo/llm_inference)
+* [2024-03-07, 23:17:51](https://news.ycombinator.com/item?id=39635827) - [Infant health suffered during baby formula shortage](https://www.ucdavis.edu/health/news/infant-health-suffered-during-baby-formula-shortage)
 * [2024-03-07, 22:17:22](https://news.ycombinator.com/item?id=39635232) - [Boeing 777 loses tire while taking off from SF, crushing cars on the ground](https://twitter.com/unusual_whales/status/1765857050188259374)
 * [2024-03-07, 22:03:37](https://news.ycombinator.com/item?id=39635109) - [I miss the dumb stuff I used to write, and I hate that it's not good enough](https://old.reddit.com/r/worldbuilding/comments/1b8lszq/i_miss_the_dumb_stuff_i_used_to_write_and_i_hate/)
 * [2024-03-07, 21:54:18](https://news.ycombinator.com/item?id=39635014) - [Grats: A More Pleasant Way to Build TypeScript GraphQL Servers](https://jordaneldredge.com/blog/grats/)
