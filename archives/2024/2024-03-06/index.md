@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 23:34:40](https://news.ycombinator.com/item?id=39623182) - [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
 * [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
 * [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://text.npr.org/1236277058)
 * [2024-03-06, 22:49:43](https://news.ycombinator.com/item?id=39622778) - [Show HN: Known – Semi-smart plant labels](https://www.knownplants.com/)

@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-07, 00:26:41](https://news.ycombinator.com/item?id=39623602) - [A 'cowboy ski town' where high earners can't afford a home faces housing battle](https://www.nbcnews.com/politics/economics/cowboy-ski-town-high-earners-cant-afford-home-faces-housing-battle-rcna140429)
+* [2024-03-06, 23:34:40](https://news.ycombinator.com/item?id=39623182) - [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
 * [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
 * [2024-03-06, 22:49:43](https://news.ycombinator.com/item?id=39622778) - [Show HN: Known – Semi-smart plant labels](https://www.knownplants.com/)
-* [2024-03-06, 22:32:37](https://news.ycombinator.com/item?id=39622624) - [Andrew Johnson's drunk vice-presidential inaugural address](https://en.wikipedia.org/wiki/Andrew_Johnson%27s_drunk_vice-presidential_inaugural_address)
 * [2024-03-06, 21:52:48](https://news.ycombinator.com/item?id=39622130) - [The Art and History of Lettering Comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
 * [2024-03-06, 21:44:40](https://news.ycombinator.com/item?id=39622006) - [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
 * [2024-03-06, 21:01:09](https://news.ycombinator.com/item?id=39621384) - [Eqtble (YC W21) is hiring a founding account executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
@@ -17,8 +18,6 @@
 * [2024-03-06, 18:01:10](https://news.ycombinator.com/item?id=39618784) - [Show HN: Forest Watch](https://koenvangilst.nl/labs/forest-watch)
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
-* [2024-03-06, 17:06:57](https://news.ycombinator.com/item?id=39618093) - [Optimizing technical docs for LLMs](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms)
-* [2024-03-06, 17:03:58](https://news.ycombinator.com/item?id=39618062) - [Show HN: My first programming project – userscripts to change forum UIs](https://github.com/wkrouse/My-first-programming-project---userscripts-to-change-forum-UIs)
 * [2024-03-06, 14:15:25](https://news.ycombinator.com/item?id=39616155) - [How likely are chance resemblances between languages? (2002)](https://www.zompist.com/chance.htm)
 * [2024-03-06, 14:10:51](https://news.ycombinator.com/item?id=39616111) - [Early American fire alarm systems (2022)](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
 * [2024-03-06, 12:29:37](https://news.ycombinator.com/item?id=39615198) - [Compression efficiency with shared dictionaries in Chrome](https://developer.chrome.com/blog/shared-dictionary-compression)
@@ -29,6 +28,7 @@
 * [2024-03-05, 10:58:03](https://news.ycombinator.com/item?id=39601814) - [Linkers and Loaders (1999) [pdf]](https://www.wh0rd.org/books/linkers-and-loaders/linkers_and_loaders.pdf)
 * [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe: NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
 * [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
+* [2024-03-04, 13:15:38](https://news.ycombinator.com/item?id=39590071) - [Gold Recovery from E-Waste by Food-Waste Amyloid Aerogels](https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642)
 * [2024-03-04, 11:42:51](https://news.ycombinator.com/item?id=39589282) - [A Global AppleTalk Network: Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
 
 ## [Archives](archives/index.md)
