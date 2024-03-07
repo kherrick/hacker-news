@@ -2,9 +2,7 @@
 
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)
 * [2024-03-07, 18:59:15](https://news.ycombinator.com/item?id=39633172) - [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
-* [2024-03-07, 18:50:16](https://news.ycombinator.com/item?id=39633053) - [TikTok users bombard Congressional offices over bill that could ban app](https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
-* [2024-03-07, 17:39:08](https://news.ycombinator.com/item?id=39631924) - [Intel to get $3.5B infusion from U.S. gov't to make chips for military: Report](https://www.tomshardware.com/tech-industry/intel-to-get-dollar35-billion-from-us-govt-to-make-chips-for-military-report)
 * [2024-03-07, 17:14:51](https://news.ycombinator.com/item?id=39631516) - [The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
 * [2024-03-07, 17:00:24](https://news.ycombinator.com/item?id=39631327) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
 * [2024-03-07, 16:48:28](https://news.ycombinator.com/item?id=39631190) - [The Race to 2nm: RISC-V Chips in Japan – By Dr. Ian Cutress](https://morethanmoore.substack.com/p/the-race-to-2nm-risc-v-chips-in-japan)
@@ -23,13 +21,15 @@
 * [2024-03-07, 10:44:35](https://news.ycombinator.com/item?id=39627410) - [Show HN: TinyWasm – A tiny WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
+* [2024-03-07, 06:28:11](https://news.ycombinator.com/item?id=39625662) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
+* [2024-03-06, 19:21:31](https://news.ycombinator.com/item?id=39620060) - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
+* [2024-03-06, 18:03:43](https://news.ycombinator.com/item?id=39618822) - [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
 * [2024-03-06, 13:27:37](https://news.ycombinator.com/item?id=39615715) - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)
 * [2024-03-06, 09:49:02](https://news.ycombinator.com/item?id=39614156) - [Pikachu Volleyball](https://github.com/gorisanson/pikachu-volleyball)
 * [2024-03-06, 06:26:33](https://news.ycombinator.com/item?id=39612913) - [The Cell Programming Language](https://www.cell-lang.net/)
 * [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
 * [2024-03-05, 23:40:13](https://news.ycombinator.com/item?id=39610509) - [A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)](https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299)
-* [2024-03-05, 01:06:39](https://news.ycombinator.com/item?id=39598211) - [My talk on CSS runtime performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
 
 ## [Archives](archives/index.md)
 
