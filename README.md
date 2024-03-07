@@ -6,7 +6,7 @@
 * [2024-03-06, 23:34:40](https://news.ycombinator.com/item?id=39623182) - [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
 * [2024-03-06, 23:28:01](https://news.ycombinator.com/item?id=39623128) - [Bob_cassette_rewinder: Renew and Refill Bob Cassettes for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder)
 * [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
-* [2024-03-06, 21:52:48](https://news.ycombinator.com/item?id=39622130) - [The Art and History of Lettering Comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
+* [2024-03-06, 21:52:48](https://news.ycombinator.com/item?id=39622130) - [The art and history of lettering comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
 * [2024-03-06, 21:44:40](https://news.ycombinator.com/item?id=39622006) - [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
 * [2024-03-06, 21:01:09](https://news.ycombinator.com/item?id=39621384) - [Eqtble (YC W21) is hiring a founding account executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
 * [2024-03-06, 20:59:59](https://news.ycombinator.com/item?id=39621373) - [Show HN: Tech jobs on the command line](https://github.com/nicobrenner/commandjobs)
