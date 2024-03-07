@@ -95,6 +95,7 @@
 * [2024-03-06, 06:42:45](https://news.ycombinator.com/item?id=39613021) - [Show HN: Piping logs, visualizing in a web app – just suffix \"| npx logscreen\"](https://github.com/soorajshankar/logScreen)
 * [2024-03-06, 06:33:04](https://news.ycombinator.com/item?id=39612950) - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
 * [2024-03-06, 06:26:33](https://news.ycombinator.com/item?id=39612913) - [The Cell Programming Language](https://www.cell-lang.net/)
+* [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
 * [2024-03-06, 06:03:33](https://news.ycombinator.com/item?id=39612799) - [Alan Kay's talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
 * [2024-03-06, 05:57:47](https://news.ycombinator.com/item?id=39612775) - [Spc-kit: A toolkit for statistical process control using SQL](https://github.com/jchester/spc-kit)
 * [2024-03-06, 05:32:14](https://news.ycombinator.com/item?id=39612657) - [EU Court finds overriding public interest in free access to European standards [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-03/cp240041en.pdf)
