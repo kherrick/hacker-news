@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 16:43:15](https://news.ycombinator.com/item?id=39631135) - [\"AI, no ads please\": 4 words to wipe out $1T](https://12challenges.substack.com/p/ai-no-ads-please-4-words-to-wipe)
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You can not simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
 * [2024-03-07, 16:07:29](https://news.ycombinator.com/item?id=39630722) - [My co-founder wants to bring his wife as a late joining co-founder](https://news.ycombinator.com/item?id=39630722)
 * [2024-03-07, 15:51:58](https://news.ycombinator.com/item?id=39630520) - [Intentionally Blank Page](https://en.wikipedia.org/wiki/Intentionally_blank_page)
