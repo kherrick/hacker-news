@@ -68,6 +68,7 @@
 * [2024-03-06, 14:10:51](https://news.ycombinator.com/item?id=39616111) - [Early American Fire Alarm Systems (2022)](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
 * [2024-03-06, 14:02:34](https://news.ycombinator.com/item?id=39616045) - [Alternative iOS App Stores Only Work for 'Grace Period' When Outside of EU](https://www.macrumors.com/2024/03/06/alternative-ios-app-stores-eu-grace-period/)
 * [2024-03-06, 13:55:30](https://news.ycombinator.com/item?id=39615987) - [You Might Not Need a CRDT: Document Sync in the Wild [video]](https://www.youtube.com/watch?v=0d73MdQkJOk)
+* [2024-03-06, 13:27:37](https://news.ycombinator.com/item?id=39615715) - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-06, 13:24:38](https://news.ycombinator.com/item?id=39615693) - [Dutch government in panic mode over keeping ASML in the country](https://www.theregister.com/2024/03/06/dutch_asml_visas/)
 * [2024-03-06, 12:29:37](https://news.ycombinator.com/item?id=39615198) - [Compression efficiency with shared dictionaries in Chrome](https://developer.chrome.com/blog/shared-dictionary-compression)
 * [2024-03-06, 12:17:01](https://news.ycombinator.com/item?id=39615097) - [Ask HN: Feeling quite disheartened about job search, any advice?](https://news.ycombinator.com/item?id=39615097)
