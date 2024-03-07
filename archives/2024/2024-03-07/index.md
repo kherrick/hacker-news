@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 17:49:02](https://news.ycombinator.com/item?id=39632106) - [Bike lanes are good for business](https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3)
 * [2024-03-07, 17:14:51](https://news.ycombinator.com/item?id=39631516) - [The Pile is a 825 GiB diverse, open source language modelling data set](https://pile.eleuther.ai/)
 * [2024-03-07, 17:06:46](https://news.ycombinator.com/item?id=39631402) - [HP Tries Desperately to Make 'Printer as a Subscription' a Thing](https://www.techdirt.com/2024/03/07/hp-tries-desperately-to-make-printer-as-a-subscription-a-thing/)
 * [2024-03-07, 17:00:24](https://news.ycombinator.com/item?id=39631327) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)

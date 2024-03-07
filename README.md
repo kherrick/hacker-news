@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-07, 17:49:02](https://news.ycombinator.com/item?id=39632106) - [Bike lanes are good for business](https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3)
 * [2024-03-07, 17:14:51](https://news.ycombinator.com/item?id=39631516) - [The Pile is a 825 GiB diverse, open source language modelling data set](https://pile.eleuther.ai/)
 * [2024-03-07, 17:06:46](https://news.ycombinator.com/item?id=39631402) - [HP Tries Desperately to Make 'Printer as a Subscription' a Thing](https://www.techdirt.com/2024/03/07/hp-tries-desperately-to-make-printer-as-a-subscription-a-thing/)
 * [2024-03-07, 17:00:24](https://news.ycombinator.com/item?id=39631327) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
@@ -22,7 +23,6 @@
 * [2024-03-07, 10:44:35](https://news.ycombinator.com/item?id=39627410) - [Show HN: TinyWasm – A tiny WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
-* [2024-03-07, 06:28:11](https://news.ycombinator.com/item?id=39625662) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
 * [2024-03-06, 13:27:37](https://news.ycombinator.com/item?id=39615715) - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-06, 10:26:29](https://news.ycombinator.com/item?id=39614404) - [Using accesskey attribute in HTML forms and links (2006)](https://jkorpela.fi/forms/accesskey.html)
 * [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)
