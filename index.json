@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-03-07, 11:06:20",
-      "https://news.ycombinator.com/item?id=39627557"
+      "2024-03-07, 12:07:20",
+      "https://news.ycombinator.com/item?id=39628064"
     ],
     [
-      "Steve Wozniak Unveiled: Apple's Origins and Life Today (2024) [video]",
-      "https://www.youtube.com/watch?v=FkeueghEBA4"
+      "Total Functional Programming (2004) [pdf]",
+      "https://ncatlab.org/ufias2012/files/turner.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 12:00:04",
+      "https://news.ycombinator.com/item?id=39628014"
+    ],
+    [
+      "UpCodes (YC S17) Is Hiring SWEs Across the Americas",
+      "https://up.codes/careers?utm_source=HN"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 11:16:15",
+      "https://news.ycombinator.com/item?id=39627624"
+    ],
+    [
+      "ECJ finds IAB Europe responsible for TCF consent spam popups across the Internet",
+      "https://www.iccl.ie/digital-data/european-court-of-justice-finds-iab-europe-responsible-for-tcf-consent-spam-popups-across-the-internet/"
     ]
   ],
   [
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2024-03-07, 08:47:33",
-      "https://news.ycombinator.com/item?id=39626683"
+      "2024-03-07, 10:26:15",
+      "https://news.ycombinator.com/item?id=39627292"
     ],
     [
-      "The Digital Markets Act is in force What happens now?",
-      "https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/"
+      "Debian 12 is now the base operating system of Bitnami packages",
+      "https://blog.bitnami.com/2024/02/debian-12-is-now-base-operating-system.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 10:04:24",
+      "https://news.ycombinator.com/item?id=39627178"
+    ],
+    [
+      "Astronaut Candidate",
+      "https://www.usajobs.gov/job/779261100"
     ]
   ],
   [
@@ -61,22 +91,22 @@
   ],
   [
     [
+      "2024-03-07, 06:30:54",
+      "https://news.ycombinator.com/item?id=39625684"
+    ],
+    [
+      "Heidelberg Inaugurates 3D Printed Data Center",
+      "https://cobod.com/heidelberg-inaugurates-europes-largest-3d-printed-building-the-wave-house-data-center/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 06:14:34",
       "https://news.ycombinator.com/item?id=39625594"
     ],
     [
       "On the Double-Slit Experiment and Quantum Interference in the Wolfram Model",
       "https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 05:32:08",
-      "https://news.ycombinator.com/item?id=39625359"
-    ],
-    [
-      "Australian Net Guide – Issue 1, March 1996",
-      "https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152"
     ]
   ],
   [
@@ -137,26 +167,6 @@
     [
       "Show HN: Elodin – A better framework for physics simulation",
       "https://github.com/elodin-sys/elodin"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 21:01:09",
-      "https://news.ycombinator.com/item?id=39621384"
-    ],
-    [
-      "Eqtble (YC W21) is hiring a founding account executive",
-      "https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 19:55:22",
-      "https://news.ycombinator.com/item?id=39620540"
-    ],
-    [
-      "Show HN: dockerc – Docker image to static executable \"compiler\"",
-      "https://github.com/NilsIrl/dockerc"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)",
       "https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 22:31:43",
-      "https://news.ycombinator.com/item?id=39609997"
-    ],
-    [
-      "Training LLMs from ground zero as a startup",
-      "https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness"
     ]
   ],
   [
