@@ -21,6 +21,7 @@
 * [2024-03-06, 20:59:59](https://news.ycombinator.com/item?id=39621373) - [Show HN: Tech jobs on the command line](https://github.com/nicobrenner/commandjobs)
 * [2024-03-06, 20:00:11](https://news.ycombinator.com/item?id=39620608) - [We Hacked Google A.I. for $50k](https://www.landh.tech/blog/20240304-google-hack-50000/)
 * [2024-03-06, 19:55:22](https://news.ycombinator.com/item?id=39620540) - [Show HN: dockerc – Docker image to static executable \"compiler\"](https://github.com/NilsIrl/dockerc)
+* [2024-03-06, 19:51:02](https://news.ycombinator.com/item?id=39620475) - [Writing a Postgres logical replication system in Golang](https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/)
 * [2024-03-06, 19:47:39](https://news.ycombinator.com/item?id=39620422) - [The Law of Leaky Abstractions (2002)](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 * [2024-03-06, 19:38:18](https://news.ycombinator.com/item?id=39620309) - [Ask HN: How do you use userscripts?](https://news.ycombinator.com/item?id=39620309)
 * [2024-03-06, 19:21:31](https://news.ycombinator.com/item?id=39620060) - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
