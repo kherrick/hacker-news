@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 13:33:46](https://news.ycombinator.com/item?id=39628842) - [Ex-Google engineer charged with stealing AI trade secrets](https://apnews.com/article/china-google-justice-department-63156ade1e564d15d92adbef91e9c5da)
 * [2024-03-07, 13:22:46](https://news.ycombinator.com/item?id=39628732) - [Why tech job interviews became such a nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
+* [2024-03-07, 13:19:00](https://news.ycombinator.com/item?id=39628696) - [The Brotherhood of Morons](https://ludic.mataroa.blog/blog/the-brotherhood-of-morons/)
 * [2024-03-07, 12:33:36](https://news.ycombinator.com/item?id=39628285) - [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
 * [2024-03-07, 12:24:10](https://news.ycombinator.com/item?id=39628199) - [On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out](https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/)
 * [2024-03-07, 12:07:20](https://news.ycombinator.com/item?id=39628064) - [Total Functional Programming (2004) [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
