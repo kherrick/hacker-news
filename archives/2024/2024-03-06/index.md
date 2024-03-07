@@ -78,6 +78,7 @@
 * [2024-03-06, 10:31:02](https://news.ycombinator.com/item?id=39614433) - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
 * [2024-03-06, 10:26:29](https://news.ycombinator.com/item?id=39614404) - [Using accesskey attribute in HTML forms and links (1998)](https://jkorpela.fi/forms/accesskey.html)
 * [2024-03-06, 09:53:45](https://news.ycombinator.com/item?id=39614185) - [Visual Studio 2022 – 17.10 Preview 1: Productivity, Debugging, Diagnostics](https://www.infoq.com/news/2024/03/visual-studio-1710-preview-1/)
+* [2024-03-06, 09:49:02](https://news.ycombinator.com/item?id=39614156) - [Pikachu Volleyball](https://gorisanson.github.io/pikachu-volleyball/en/)
 * [2024-03-06, 09:34:45](https://news.ycombinator.com/item?id=39614060) - [AIs ranked by IQ; AI passes 100 IQ for first time, with release of Claude-3](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
 * [2024-03-06, 09:07:42](https://news.ycombinator.com/item?id=39613891) - [Show HN: I Made a Landing Page Structure Generator](https://landingpage.fyi/structure-generator)
 * [2024-03-06, 08:53:09](https://news.ycombinator.com/item?id=39613789) - [Tell HN: \"Default\" FileZilla download bundled with adware](https://filezilla-project.org/)
