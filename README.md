@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You can not simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
-* [2024-03-07, 16:07:29](https://news.ycombinator.com/item?id=39630722) - [My co-founder wants to bring his wife as a late joining co-founder](https://news.ycombinator.com/item?id=39630722)
 * [2024-03-07, 15:51:58](https://news.ycombinator.com/item?id=39630520) - [Intentionally Blank Page](https://en.wikipedia.org/wiki/Intentionally_blank_page)
 * [2024-03-07, 15:46:22](https://news.ycombinator.com/item?id=39630457) - [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
 * [2024-03-07, 14:08:26](https://news.ycombinator.com/item?id=39629225) - [Hurried Thoughts: You're Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
@@ -20,6 +19,7 @@
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 * [2024-03-07, 06:28:11](https://news.ycombinator.com/item?id=39625662) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
+* [2024-03-06, 23:28:01](https://news.ycombinator.com/item?id=39623128) - [Bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder)
 * [2024-03-06, 19:21:31](https://news.ycombinator.com/item?id=39620060) - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
 * [2024-03-06, 18:03:43](https://news.ycombinator.com/item?id=39618822) - [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
 * [2024-03-06, 13:27:37](https://news.ycombinator.com/item?id=39615715) - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
