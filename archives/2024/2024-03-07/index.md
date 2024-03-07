@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to Acquire US Cinema Camera Manufacturer Red.com, LLC](https://www.nikon.com/company/news/2024/0307_01.html)
+* [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [GTK: On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 * [2024-03-07, 06:25:12](https://news.ycombinator.com/item?id=39625647) - [Tintin Charter for the use of the visuals of the Hergé's Work [pdf]](https://cdn001.tintin.com/public/pressclub/pdf/charte_v3_en.pdf)
+* [2024-03-07, 06:14:34](https://news.ycombinator.com/item?id=39625594) - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
 * [2024-03-07, 05:53:48](https://news.ycombinator.com/item?id=39625471) - [BYD launches cheaper Seagull EV with $9,700 starting price tag](https://electrek.co/2024/03/06/byd-launches-cheaper-seagull-ev-9700-price/)
 * [2024-03-07, 05:32:08](https://news.ycombinator.com/item?id=39625359) - [Australian Net Guide magazines – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
 * [2024-03-07, 05:07:15](https://news.ycombinator.com/item?id=39625250) - [S.3819 – Shrinkflation Prevention Act of 2024](https://www.congress.gov/bill/118th-congress/senate-bill/3819/text)
