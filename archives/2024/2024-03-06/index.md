@@ -93,6 +93,7 @@
 * [2024-03-06, 05:22:35](https://news.ycombinator.com/item?id=39612607) - [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
 * [2024-03-06, 04:57:44](https://news.ycombinator.com/item?id=39612484) - [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 * [2024-03-06, 04:49:38](https://news.ycombinator.com/item?id=39612443) - [Leaving LinkedIn: Choosing Engineering Excellence over Expediency](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
+* [2024-03-06, 04:16:14](https://news.ycombinator.com/item?id=39612245) - [Renaissance Women](https://yalereview.org/article/catherine-nicholson-ramie-targoff-shakespeares-sisters)
 * [2024-03-06, 04:16:09](https://news.ycombinator.com/item?id=39612243) - [70 years ago, an H-bomb test went awry. We must never forget the fallout](https://www.washingtonpost.com/opinions/2024/03/05/fallout-nuclear-test-70-years-marshall-islands/)
 * [2024-03-06, 03:48:56](https://news.ycombinator.com/item?id=39612078) - [Donald Knuth – The Patron Saint of Yak Shaves](https://yakshav.es/the-patron-saint-of-yakshaves/)
 * [2024-03-06, 03:20:39](https://news.ycombinator.com/item?id=39611924) - [Reverse engineering a cable modem and turning it into an SDR](https://stdw.github.io/cm-sdr/)
