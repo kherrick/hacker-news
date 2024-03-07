@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2024-03-07, 18:50:16",
-      "https://news.ycombinator.com/item?id=39633053"
-    ],
-    [
-      "TikTok users bombard Congressional offices over bill that could ban app",
-      "https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 18:38:22",
       "https://news.ycombinator.com/item?id=39632872"
     ],
     [
       "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
       "https://silogy.io/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 17:39:08",
-      "https://news.ycombinator.com/item?id=39631924"
-    ],
-    [
-      "Intel to get $3.5B infusion from U.S. gov't to make chips for military: Report",
-      "https://www.tomshardware.com/tech-industry/intel-to-get-dollar35-billion-from-us-govt-to-make-chips-for-military-report"
     ]
   ],
   [
@@ -231,6 +211,36 @@
   ],
   [
     [
+      "2024-03-07, 06:28:11",
+      "https://news.ycombinator.com/item?id=39625662"
+    ],
+    [
+      "FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++",
+      "https://briancallahan.net/blog/20240306.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 19:21:31",
+      "https://news.ycombinator.com/item?id=39620060"
+    ],
+    [
+      "Detect when your installed Chrome extensions have changed owners",
+      "https://github.com/classvsoftware/under-new-management"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 18:03:43",
+      "https://news.ycombinator.com/item?id=39618822"
+    ],
+    [
+      "FDA clears first over-the-counter continuous glucose monitor",
+      "https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 13:27:37",
       "https://news.ycombinator.com/item?id=39615715"
     ],
@@ -287,16 +297,6 @@
     [
       "A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)",
       "https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 01:06:39",
-      "https://news.ycombinator.com/item?id=39598211"
-    ],
-    [
-      "My talk on CSS runtime performance",
-      "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/"
     ]
   ]
 ]
