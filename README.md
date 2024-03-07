@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-07, 10:27:32](https://news.ycombinator.com/item?id=39627302) - [Dear Linux Kernel CNA, What Have You Done?](https://amanitasecurity.com/posts/dear-linux-kernel-cna-what-have-you-done/)
 * [2024-03-07, 10:14:45](https://news.ycombinator.com/item?id=39627240) - [EU Probes Apple's Decision to Shut Down Epic's Developer Account](https://www.macrumors.com/2024/03/07/eu-probes-apple-termination-epic-account/)
 * [2024-03-07, 09:27:11](https://news.ycombinator.com/item?id=39626955) - [Apple's exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
 * [2024-03-07, 09:05:26](https://news.ycombinator.com/item?id=39626813) - [OpenAI's \"Own Goal\"](https://garymarcus.substack.com/p/openais-own-goal)
@@ -29,7 +30,6 @@
 * [2024-03-05, 13:44:26](https://news.ycombinator.com/item?id=39603299) - [Journalist casualties in the Israel-Gaza war](https://cpj.org/2024/03/journalist-casualties-in-the-israel-gaza-conflict)
 * [2024-03-05, 08:58:12](https://news.ycombinator.com/item?id=39600968) - [Interactive SQLite Documentation: Experiment with Queries in Real-Time](https://blog.sqlitecloud.io/interactive-sqlite-documentation-experiment-with-queries-in-real-time)
 * [2024-03-05, 01:06:39](https://news.ycombinator.com/item?id=39598211) - [My talk on CSS runtime performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
-* [2024-03-04, 13:15:38](https://news.ycombinator.com/item?id=39590071) - [Gold recovery from e-waste by food-waste amyloid aerogels](https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642)
 
 ## [Archives](archives/index.md)
 

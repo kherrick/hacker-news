@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 10:27:32](https://news.ycombinator.com/item?id=39627302) - [Dear Linux Kernel CNA, What Have You Done?](https://amanitasecurity.com/posts/dear-linux-kernel-cna-what-have-you-done/)
 * [2024-03-07, 10:14:45](https://news.ycombinator.com/item?id=39627240) - [EU Probes Apple's Decision to Shut Down Epic's Developer Account](https://www.macrumors.com/2024/03/07/eu-probes-apple-termination-epic-account/)
 * [2024-03-07, 09:27:11](https://news.ycombinator.com/item?id=39626955) - [Apple's exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
 * [2024-03-07, 09:05:26](https://news.ycombinator.com/item?id=39626813) - [OpenAI's \"Own Goal\"](https://garymarcus.substack.com/p/openais-own-goal)
