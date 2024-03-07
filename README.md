@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-07, 03:49:24](https://news.ycombinator.com/item?id=39624873) - [The fastest tool for measuring anything on your screen](https://getpixelsnap.com/)
 * [2024-03-07, 02:30:57](https://news.ycombinator.com/item?id=39624464) - [Signs you're about to be acquired (2020)](https://yolken.net/blog/youre-about-to-be-acquired)
+* [2024-03-07, 01:04:58](https://news.ycombinator.com/item?id=39623857) - [PFAS 'forever chemicals' to officially be removed from food packaging, FDA says](https://www.livescience.com/health/food-diet/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says)
 * [2024-03-06, 23:34:40](https://news.ycombinator.com/item?id=39623182) - [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
 * [2024-03-06, 23:28:01](https://news.ycombinator.com/item?id=39623128) - [Bob_cassette_rewinder: Renew and Refill Bob Cassettes for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder)
 * [2024-03-06, 22:50:34](https://news.ycombinator.com/item?id=39622787) - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
@@ -19,7 +21,6 @@
 * [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
 * [2024-03-06, 17:06:57](https://news.ycombinator.com/item?id=39618093) - [Optimizing technical docs for LLMs](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms)
 * [2024-03-06, 14:15:25](https://news.ycombinator.com/item?id=39616155) - [How likely are chance resemblances between languages? (2002)](https://www.zompist.com/chance.htm)
-* [2024-03-06, 14:10:51](https://news.ycombinator.com/item?id=39616111) - [Early American fire alarm systems (2022)](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
 * [2024-03-06, 12:29:37](https://news.ycombinator.com/item?id=39615198) - [Compression efficiency with shared dictionaries in Chrome](https://developer.chrome.com/blog/shared-dictionary-compression)
 * [2024-03-06, 06:03:33](https://news.ycombinator.com/item?id=39612799) - [Alan Kay's talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
 * [2024-03-06, 04:16:14](https://news.ycombinator.com/item?id=39612245) - [Renaissance Women](https://yalereview.org/article/catherine-nicholson-ramie-targoff-shakespeares-sisters)
@@ -29,7 +30,6 @@
 * [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe: NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
 * [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
 * [2024-03-04, 13:15:38](https://news.ycombinator.com/item?id=39590071) - [Gold Recovery from E-Waste by Food-Waste Amyloid Aerogels](https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642)
-* [2024-03-04, 11:42:51](https://news.ycombinator.com/item?id=39589282) - [A Global AppleTalk Network: Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
 
 ## [Archives](archives/index.md)
 
