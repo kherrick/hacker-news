@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 18:50:16](https://news.ycombinator.com/item?id=39633053) - [TikTok users bombard Congressional offices over bill that could ban app](https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
 * [2024-03-07, 17:49:02](https://news.ycombinator.com/item?id=39632106) - [Bike lanes are good for business](https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3)
 * [2024-03-07, 17:18:39](https://news.ycombinator.com/item?id=39631575) - [Google Photos and iCloud Photos Alternative Ente Open Sources Its Server Code](https://reclaimthenet.org/google-photos-and-icloud-photos-alternative-ente-open-sources-its-server-code)
