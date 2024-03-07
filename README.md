@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-07, 14:44:35](https://news.ycombinator.com/item?id=39629673) - [Law enforcement doesn't want to be \"customer service\" reps for Meta any more](https://www.wired.com/story/meta-hacked-users-draining-resources/)
-* [2024-03-07, 14:11:51](https://news.ycombinator.com/item?id=39629271) - [Amid explosive demand, America is running out of power](https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/)
 * [2024-03-07, 14:08:26](https://news.ycombinator.com/item?id=39629225) - [Hurried Thoughts: You're Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 13:50:07](https://news.ycombinator.com/item?id=39629015) - [The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
@@ -26,6 +24,8 @@
 * [2024-03-06, 10:26:29](https://news.ycombinator.com/item?id=39614404) - [Using accesskey attribute in HTML forms and links (2006)](https://jkorpela.fi/forms/accesskey.html)
 * [2024-03-06, 09:52:23](https://news.ycombinator.com/item?id=39614173) - [Understanding DFT and FFT](https://www.adiuvoengineering.com/post/microzed-chronicles-the-frequency-domain)
 * [2024-03-06, 09:49:02](https://news.ycombinator.com/item?id=39614156) - [Pikachu Volleyball](https://gorisanson.github.io/pikachu-volleyball/en/)
+* [2024-03-06, 08:38:45](https://news.ycombinator.com/item?id=39613699) - [Dr. Dobb's Journal – Vol 1 (1976)](https://archive.org/details/dr_dobbs_journal_vol_01/page/n316/mode/1up)
+* [2024-03-06, 06:03:33](https://news.ycombinator.com/item?id=39612799) - [Alan Kay's talk at UCLA – Feb 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
 * [2024-03-05, 23:40:13](https://news.ycombinator.com/item?id=39610509) - [A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)](https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299)
 * [2024-03-05, 17:52:11](https://news.ycombinator.com/item?id=39606873) - [Academish Voice (2022)](https://inkandswitch.notion.site/Academish-Voice-0d8126b3be5545d2a21705ceedb5dd45)
 * [2024-03-05, 08:58:12](https://news.ycombinator.com/item?id=39600968) - [Interactive SQLite Documentation: Experiment with Queries in Real-Time](https://blog.sqlitecloud.io/interactive-sqlite-documentation-experiment-with-queries-in-real-time)
