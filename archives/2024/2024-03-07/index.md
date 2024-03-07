@@ -7,6 +7,7 @@
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)
 * [2024-03-07, 18:59:15](https://news.ycombinator.com/item?id=39633172) - [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 18:50:16](https://news.ycombinator.com/item?id=39633053) - [TikTok users bombard Congressional offices over bill that could ban app](https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633)
+* [2024-03-07, 18:43:41](https://news.ycombinator.com/item?id=39632959) - [Gemini won't return C++ coding help if you're under 18 \"to preserve your safety\"](https://twitter.com/ylecun/status/1765515930556072312)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
 * [2024-03-07, 17:49:02](https://news.ycombinator.com/item?id=39632106) - [Bike lanes are good for business](https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3)
 * [2024-03-07, 17:39:08](https://news.ycombinator.com/item?id=39631924) - [Intel to get $3.5B infusion from U.S. gov't to make chips for military: Report](https://www.tomshardware.com/tech-industry/intel-to-get-dollar35-billion-from-us-govt-to-make-chips-for-military-report)

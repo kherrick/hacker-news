@@ -2,10 +2,10 @@
 
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)
 * [2024-03-07, 18:59:15](https://news.ycombinator.com/item?id=39633172) - [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
+* [2024-03-07, 18:43:41](https://news.ycombinator.com/item?id=39632959) - [Gemini won't return C++ coding help if you're under 18 \"to preserve your safety\"](https://twitter.com/ylecun/status/1765515930556072312)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
 * [2024-03-07, 17:14:51](https://news.ycombinator.com/item?id=39631516) - [The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
 * [2024-03-07, 17:00:24](https://news.ycombinator.com/item?id=39631327) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
-* [2024-03-07, 16:48:28](https://news.ycombinator.com/item?id=39631190) - [The Race to 2nm: RISC-V Chips in Japan – By Dr. Ian Cutress](https://morethanmoore.substack.com/p/the-race-to-2nm-risc-v-chips-in-japan)
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You cannot simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
 * [2024-03-07, 16:26:15](https://news.ycombinator.com/item?id=39630949) - [New Bounds for Matrix Multiplication: From Alpha to Omega](https://epubs.siam.org/doi/10.1137/1.9781611977912.134)
 * [2024-03-07, 16:23:22](https://news.ycombinator.com/item?id=39630926) - [How the Great Green Wall Is Holding Back the Sahara Desert](https://kottke.org/24/03/how-the-great-green-wall-is-holding-back-the-sahara-desert)
