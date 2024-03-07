@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 08:11:10](https://news.ycombinator.com/item?id=39626454) - [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to Acquire US Cinema Camera Manufacturer Red.com, LLC](https://www.nikon.com/company/news/2024/0307_01.html)
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [GTK: On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 * [2024-03-07, 06:25:12](https://news.ycombinator.com/item?id=39625647) - [Tintin Charter for the use of the visuals of the Hergé's Work [pdf]](https://cdn001.tintin.com/public/pressclub/pdf/charte_v3_en.pdf)
