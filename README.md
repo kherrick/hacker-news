@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-07, 20:02:42](https://news.ycombinator.com/item?id=39633936) - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
+* [2024-03-07, 19:39:13](https://news.ycombinator.com/item?id=39633652) - [A data-driven case for why TikTok needs to be banned before the 2024 election](https://time.com/6836078/tiktok-sold-banned-2024-election/)
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)
 * [2024-03-07, 18:59:15](https://news.ycombinator.com/item?id=39633172) - [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
-* [2024-03-07, 18:43:41](https://news.ycombinator.com/item?id=39632959) - [Gemini won't return C++ coding help if you're under 18 \"to preserve your safety\"](https://twitter.com/ylecun/status/1765515930556072312)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
-* [2024-03-07, 18:22:54](https://news.ycombinator.com/item?id=39632631) - [Rivian R2](https://rivian.com/r2)
 * [2024-03-07, 17:14:51](https://news.ycombinator.com/item?id=39631516) - [The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
 * [2024-03-07, 17:00:24](https://news.ycombinator.com/item?id=39631327) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You cannot simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
