@@ -76,6 +76,7 @@
 * [2024-03-06, 12:01:08](https://news.ycombinator.com/item?id=39614989) - [Ice-free summers in Arctic possible within next decade, scientists say](https://www.theguardian.com/world/2024/mar/05/ice-free-summers-in-arctic-possible-within-next-decade-scientists-say)
 * [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
 * [2024-03-06, 10:31:02](https://news.ycombinator.com/item?id=39614433) - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
+* [2024-03-06, 10:26:29](https://news.ycombinator.com/item?id=39614404) - [Using accesskey attribute in HTML forms and links (1998)](https://jkorpela.fi/forms/accesskey.html)
 * [2024-03-06, 09:53:45](https://news.ycombinator.com/item?id=39614185) - [Visual Studio 2022 – 17.10 Preview 1: Productivity, Debugging, Diagnostics](https://www.infoq.com/news/2024/03/visual-studio-1710-preview-1/)
 * [2024-03-06, 09:34:45](https://news.ycombinator.com/item?id=39614060) - [AIs ranked by IQ; AI passes 100 IQ for first time, with release of Claude-3](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
 * [2024-03-06, 09:07:42](https://news.ycombinator.com/item?id=39613891) - [Show HN: I Made a Landing Page Structure Generator](https://landingpage.fyi/structure-generator)
