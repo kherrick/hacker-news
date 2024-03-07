@@ -16,7 +16,6 @@
 * [2024-03-06, 18:17:42](https://news.ycombinator.com/item?id=39619053) - [Show HN: Fructose – LLM calls as strongly typed functions](https://github.com/bananaml/fructose)
 * [2024-03-06, 18:16:58](https://news.ycombinator.com/item?id=39619041) - [The end of Airplane.dev](https://yolken.net/blog/end-of-airplanedev)
 * [2024-03-06, 18:03:43](https://news.ycombinator.com/item?id=39618822) - [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
-* [2024-03-06, 18:01:10](https://news.ycombinator.com/item?id=39618784) - [Show HN: Forest Watch](https://koenvangilst.nl/labs/forest-watch)
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
 * [2024-03-06, 17:06:57](https://news.ycombinator.com/item?id=39618093) - [Optimizing technical docs for LLMs](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms)
@@ -30,6 +29,7 @@
 * [2024-03-05, 08:11:16](https://news.ycombinator.com/item?id=39600614) - [The Lost Universe: NASA's Tabletop Role-Playing Game Adventure](https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/)
 * [2024-03-05, 03:23:37](https://news.ycombinator.com/item?id=39599095) - [The built environment and the determination of fault in urban pedestrian crashes](https://www.jtlu.org/index.php/jtlu/article/view/2335)
 * [2024-03-04, 13:15:38](https://news.ycombinator.com/item?id=39590071) - [Gold Recovery from E-Waste by Food-Waste Amyloid Aerogels](https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642)
+* [2024-03-04, 11:42:51](https://news.ycombinator.com/item?id=39589282) - [A Global AppleTalk Network: Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
 
 ## [Archives](archives/index.md)
 
