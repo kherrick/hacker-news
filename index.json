@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-03-07, 17:49:02",
-      "https://news.ycombinator.com/item?id=39632106"
+      "2024-03-07, 18:38:22",
+      "https://news.ycombinator.com/item?id=39632872"
     ],
     [
-      "Bike lanes are good for business",
-      "https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 17:18:39",
-      "https://news.ycombinator.com/item?id=39631575"
-    ],
-    [
-      "Google Photos and iCloud Photos Alternative Ente Open Sources Its Server Code",
-      "https://reclaimthenet.org/google-photos-and-icloud-photos-alternative-ente-open-sources-its-server-code"
+      "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
+      "https://silogy.io/"
     ]
   ],
   [
@@ -27,16 +17,6 @@
     [
       "The Pile is a 825 GiB diverse, open-source language modelling data set",
       "https://pile.eleuther.ai/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 17:06:46",
-      "https://news.ycombinator.com/item?id=39631402"
-    ],
-    [
-      "HP Tries Desperately to Make 'Printer as a Subscription' a Thing",
-      "https://www.techdirt.com/2024/03/07/hp-tries-desperately-to-make-printer-as-a-subscription-a-thing/"
     ]
   ],
   [
@@ -61,21 +41,11 @@
   ],
   [
     [
-      "2024-03-07, 16:43:41",
-      "https://news.ycombinator.com/item?id=39631139"
-    ],
-    [
-      "Sweden Is a NATO Member",
-      "https://www.government.se/press-releases/2024/03/sweden-is-a-nato-member/"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 16:29:47",
       "https://news.ycombinator.com/item?id=39630985"
     ],
     [
-      "You can not simply publicly access private secure links, can you?",
+      "You cannot simply publicly access private secure links, can you?",
       "https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html"
     ]
   ],
@@ -97,16 +67,6 @@
     [
       "How the Great Green Wall Is Holding Back the Sahara Desert",
       "https://kottke.org/24/03/how-the-great-green-wall-is-holding-back-the-sahara-desert"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 15:51:58",
-      "https://news.ycombinator.com/item?id=39630520"
-    ],
-    [
-      "Intentionally Blank Page",
-      "https://en.wikipedia.org/wiki/Intentionally_blank_page"
     ]
   ],
   [
@@ -171,6 +131,16 @@
   ],
   [
     [
+      "2024-03-07, 12:00:40",
+      "https://news.ycombinator.com/item?id=39628019"
+    ],
+    [
+      "D(HE)at: A Practical DoS Attack on the Finite Field Diffie–Hellman Key Exchange",
+      "https://ieeexplore.ieee.org/document/10374117"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 12:00:10",
       "https://news.ycombinator.com/item?id=39628015"
     ],
@@ -221,6 +191,36 @@
   ],
   [
     [
+      "2024-03-07, 06:28:11",
+      "https://news.ycombinator.com/item?id=39625662"
+    ],
+    [
+      "FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++",
+      "https://briancallahan.net/blog/20240306.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 19:21:31",
+      "https://news.ycombinator.com/item?id=39620060"
+    ],
+    [
+      "Detect when your installed Chrome extensions have changed owners",
+      "https://github.com/classvsoftware/under-new-management"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 18:03:43",
+      "https://news.ycombinator.com/item?id=39618822"
+    ],
+    [
+      "FDA clears first over-the-counter continuous glucose monitor",
+      "https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 13:27:37",
       "https://news.ycombinator.com/item?id=39615715"
     ],
@@ -246,7 +246,7 @@
     ],
     [
       "Pikachu Volleyball",
-      "https://gorisanson.github.io/pikachu-volleyball/en/"
+      "https://github.com/gorisanson/pikachu-volleyball"
     ]
   ],
   [
