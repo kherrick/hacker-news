@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
 * [2024-03-07, 14:08:26](https://news.ycombinator.com/item?id=39629225) - [Hurried Thoughts: You're Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
+* [2024-03-07, 14:06:59](https://news.ycombinator.com/item?id=39629207) - [Voyager 1 spacecraft is talking nonsense. Its friends on Earth are worried](https://www.npr.org/2024/03/06/1236033493/nasas-voyager-1-spacecraft-is-talking-nonsense-its-friends-on-earth-are-worried)
+* [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+* [2024-03-07, 13:50:07](https://news.ycombinator.com/item?id=39629015) - [The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
 * [2024-03-07, 13:33:46](https://news.ycombinator.com/item?id=39628842) - [Ex-Google engineer charged with stealing AI trade secrets](https://apnews.com/article/china-google-justice-department-63156ade1e564d15d92adbef91e9c5da)
 * [2024-03-07, 13:22:46](https://news.ycombinator.com/item?id=39628732) - [Why tech job interviews became such a nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
 * [2024-03-07, 13:19:00](https://news.ycombinator.com/item?id=39628696) - [The Brotherhood of Morons](https://ludic.mataroa.blog/blog/the-brotherhood-of-morons/)
