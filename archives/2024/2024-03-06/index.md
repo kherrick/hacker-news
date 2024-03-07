@@ -105,6 +105,7 @@
 * [2024-03-06, 03:09:12](https://news.ycombinator.com/item?id=39611849) - [Sugar: An activity-focused, open-source software learning platform for children](https://www.sugarlabs.org/)
 * [2024-03-06, 02:43:54](https://news.ycombinator.com/item?id=39611662) - [Propagation of Error in Geometry Constructions](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
 * [2024-03-06, 02:19:01](https://news.ycombinator.com/item?id=39611484) - [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
+* [2024-03-06, 02:08:09](https://news.ycombinator.com/item?id=39611437) - [SQL looks like English is a well intentioned error](https://github.com/SPLWare/esProc/wiki/SQL-looks-like-English-is-a-well-intentioned-error)
 * [2024-03-06, 01:29:13](https://news.ycombinator.com/item?id=39611220) - [EU Fines Apple $1.8B](https://www.theguardian.com/business/2024/mar/04/eu-fines-apple-18bn-over-app-store-restrictions-on-music-streaming)
 * [2024-03-06, 01:28:20](https://news.ycombinator.com/item?id=39611213) - [Over 2 years since the 120hz iPhone, Safari still doesn't support 120hz](https://www.testufo.com/)
 * [2024-03-06, 01:14:51](https://news.ycombinator.com/item?id=39611144) - [Claude 3 Opus reinvented this quantum algorithm from scratch in just 2 prompts](https://twitter.com/GillVerd/status/1764901418664882327)
