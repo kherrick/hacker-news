@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 14:08:26](https://news.ycombinator.com/item?id=39629225) - [Hurried Thoughts: You're Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
 * [2024-03-07, 13:33:46](https://news.ycombinator.com/item?id=39628842) - [Ex-Google engineer charged with stealing AI trade secrets](https://apnews.com/article/china-google-justice-department-63156ade1e564d15d92adbef91e9c5da)
 * [2024-03-07, 13:22:46](https://news.ycombinator.com/item?id=39628732) - [Why tech job interviews became such a nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
 * [2024-03-07, 13:19:00](https://news.ycombinator.com/item?id=39628696) - [The Brotherhood of Morons](https://ludic.mataroa.blog/blog/the-brotherhood-of-morons/)
@@ -11,6 +12,7 @@
 * [2024-03-07, 12:33:36](https://news.ycombinator.com/item?id=39628285) - [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
 * [2024-03-07, 12:24:10](https://news.ycombinator.com/item?id=39628199) - [On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out](https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/)
 * [2024-03-07, 12:07:20](https://news.ycombinator.com/item?id=39628064) - [Total Functional Programming (2004) [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
+* [2024-03-07, 12:00:40](https://news.ycombinator.com/item?id=39628019) - [D(HE)at: A Practical DoS Attack on the Finite Field Diffie–Hellman Key Exchange](https://ieeexplore.ieee.org/document/10374117)
 * [2024-03-07, 12:00:10](https://news.ycombinator.com/item?id=39628015) - [Snapdragon 8 Gen 1's iGPU: Adreno Gets Big](https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/)
 * [2024-03-07, 12:00:04](https://news.ycombinator.com/item?id=39628014) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-03-07, 11:16:15](https://news.ycombinator.com/item?id=39627624) - [ECJ finds IAB Europe responsible for TCF consent spam popups across the Internet](https://www.iccl.ie/digital-data/european-court-of-justice-finds-iab-europe-responsible-for-tcf-consent-spam-popups-across-the-internet/)
