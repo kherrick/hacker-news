@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 15:49:37](https://news.ycombinator.com/item?id=39630498) - [Plastic Found Inside More Than 50% of Plaques from Clogged Arteries](https://www.sciencealert.com/plastic-found-inside-more-than-50-of-plaques-from-clogged-arteries)
 * [2024-03-07, 14:44:35](https://news.ycombinator.com/item?id=39629673) - [Law enforcement doesn't want to be \"customer service\" reps for Meta any more](https://www.wired.com/story/meta-hacked-users-draining-resources/)
+* [2024-03-07, 14:32:06](https://news.ycombinator.com/item?id=39629512) - [America's elite universities are bloated, complacent and illiberal](https://www.economist.com/international/2024/03/04/americas-elite-universities-are-bloated-complacent-and-illiberal)
 * [2024-03-07, 14:11:51](https://news.ycombinator.com/item?id=39629271) - [Amid explosive demand, America is running out of power](https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/)
 * [2024-03-07, 14:08:26](https://news.ycombinator.com/item?id=39629225) - [Hurried Thoughts: You're Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
+* [2024-03-07, 14:07:53](https://news.ycombinator.com/item?id=39629213) - [Source Code for Area 51 (2005) by Midway Studios Austin Found at Garage Sale](https://github.com/ProjectDreamland/area51)
 * [2024-03-07, 14:06:59](https://news.ycombinator.com/item?id=39629207) - [Voyager 1 spacecraft is talking nonsense. Its friends on Earth are worried](https://www.npr.org/2024/03/06/1236033493/nasas-voyager-1-spacecraft-is-talking-nonsense-its-friends-on-earth-are-worried)
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 13:50:07](https://news.ycombinator.com/item?id=39629015) - [The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
