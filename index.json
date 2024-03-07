@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2024-03-07, 13:22:46",
-      "https://news.ycombinator.com/item?id=39628732"
-    ],
-    [
-      "Why tech job interviews became such a nightmare",
-      "https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 13:19:00",
       "https://news.ycombinator.com/item?id=39628696"
     ],
     [
       "The Brotherhood of Morons",
       "https://ludic.mataroa.blog/blog/the-brotherhood-of-morons/"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 13:18:29",
+      "https://news.ycombinator.com/item?id=39628689"
+    ],
+    [
+      "Fedora Workstation 41 to No Longer Install Gnome X.org Session by Default",
+      "https://www.phoronix.com/news/Fedora-41-No-GNOME-Xorg-Install"
     ]
   ],
   [
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-03-07, 10:44:35",
+      "https://news.ycombinator.com/item?id=39627410"
+    ],
+    [
+      "Show HN: TinyWasm – A tiny WebAssembly Runtime written in Rust",
+      "https://github.com/explodingcamera/tinywasm"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 07:01:42",
       "https://news.ycombinator.com/item?id=39625919"
     ],
@@ -147,16 +157,6 @@
     [
       "Bob_cassette_rewinder",
       "https://github.com/dekuNukem/bob_cassette_rewinder"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 22:50:34",
-      "https://news.ycombinator.com/item?id=39622787"
-    ],
-    [
-      "NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9",
-      "https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-03-06, 09:49:02",
+      "https://news.ycombinator.com/item?id=39614156"
+    ],
+    [
+      "Pikachu Volleyball",
+      "https://gorisanson.github.io/pikachu-volleyball/en/"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 08:38:45",
       "https://news.ycombinator.com/item?id=39613699"
     ],
@@ -287,16 +297,6 @@
     [
       "My talk on CSS runtime performance",
       "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 13:15:38",
-      "https://news.ycombinator.com/item?id=39590071"
-    ],
-    [
-      "Gold recovery from e-waste by food-waste amyloid aerogels",
-      "https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642"
     ]
   ]
 ]
