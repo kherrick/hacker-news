@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-03-07, 04:09:20",
+      "https://news.ycombinator.com/item?id=39624972"
+    ],
+    [
+      "Japan to revise official romanization rules for first time in 70 years",
+      "https://www.japantimes.co.jp/news/2024/03/02/japan/society/japan-romanization-rules-revise/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 03:49:24",
       "https://news.ycombinator.com/item?id=39624873"
     ],
     [
-      "The fastest tool for measuring anything on your screen",
+      "PixelSnap: The fastest tool for measuring anything on your screen",
       "https://getpixelsnap.com/"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 03:42:47",
+      "https://news.ycombinator.com/item?id=39624842"
+    ],
+    [
+      "Leadership is a hell of a drug",
+      "https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39623182"
     ],
     [
-      "Minuteman Weapons System History [pdf]",
+      "Minuteman Weapon System History and Description (2001) [pdf]",
       "https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39623128"
     ],
     [
-      "Bob_cassette_rewinder: Renew and Refill Bob Cassettes for 98% Cost Saving",
+      "Bob_cassette_rewinder",
       "https://github.com/dekuNukem/bob_cassette_rewinder"
     ]
   ],
@@ -101,22 +121,22 @@
   ],
   [
     [
-      "2024-03-06, 20:00:11",
-      "https://news.ycombinator.com/item?id=39620608"
-    ],
-    [
-      "We hacked Google A.I.",
-      "https://www.landh.tech/blog/20240304-google-hack-50000/"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 19:55:22",
       "https://news.ycombinator.com/item?id=39620540"
     ],
     [
       "Show HN: dockerc – Docker image to static executable \"compiler\"",
       "https://github.com/NilsIrl/dockerc"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 19:51:02",
+      "https://news.ycombinator.com/item?id=39620475"
+    ],
+    [
+      "Writing a Postgres logical replication system in Golang",
+      "https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/"
     ]
   ],
   [
@@ -167,26 +187,6 @@
     [
       "U.S. students will take the SAT online",
       "https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 17:06:57",
-      "https://news.ycombinator.com/item?id=39618093"
-    ],
-    [
-      "Optimizing technical docs for LLMs",
-      "https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 14:15:25",
-      "https://news.ycombinator.com/item?id=39616155"
-    ],
-    [
-      "How likely are chance resemblances between languages? (2002)",
-      "https://www.zompist.com/chance.htm"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-03-05, 03:23:37",
-      "https://news.ycombinator.com/item?id=39599095"
+      "2024-03-05, 04:03:43",
+      "https://news.ycombinator.com/item?id=39599298"
     ],
     [
-      "The built environment and the determination of fault in urban pedestrian crashes",
-      "https://www.jtlu.org/index.php/jtlu/article/view/2335"
+      "The Age of Impoliteness: Galateo: Or, a Treatise on Politeness (1774 Edition)",
+      "https://publicdomainreview.org/collection/galateo/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39590071"
     ],
     [
-      "Gold Recovery from E-Waste by Food-Waste Amyloid Aerogels",
+      "Gold recovery from e-waste by food-waste amyloid aerogels",
       "https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642"
     ]
   ]
