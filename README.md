@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 18:38:36](https://news.ycombinator.com/item?id=39644379) - [Google fires employee who protested Israel tech event as internal dissent mounts](https://www.cnbc.com/2024/03/08/google-fires-employee-who-protested-israel-tech-event-shuts-forum.html)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 * [2024-03-08, 17:53:11](https://news.ycombinator.com/item?id=39643685) - [Apple restores Epic's account in the EU](https://twitter.com/TimSweeneyEpic/status/1766158416093798866)
 * [2024-03-08, 17:33:05](https://news.ycombinator.com/item?id=39643447) - [Airbnb's Devastating Effect on Canadian Housing](https://thewalrus.ca/airbnbs-canadian-housing/)
-* [2024-03-08, 17:30:03](https://news.ycombinator.com/item?id=39643407) - [Can We Just Throw in the Towel on Airport Security Theater Already?](https://jalopnik.com/can-we-just-throw-in-the-towel-on-airport-security-thea-1851317340)
 * [2024-03-08, 17:10:33](https://news.ycombinator.com/item?id=39643168) - [What Luddites can teach us about resisting an automated future](https://www.technologyreview.com/2024/02/28/1088262/luddites-resisting-automated-future-technology/)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 17:00:39](https://news.ycombinator.com/item?id=39643057) - [VS Code: Prompt Editor for LLMs (GPT4, Llama, Mistral, etc.)](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
