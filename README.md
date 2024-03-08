@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 16:28:11](https://news.ycombinator.com/item?id=39642671) - [NASA Unveils Design for Message Heading to Jupiter's Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
 * [2024-03-08, 15:46:34](https://news.ycombinator.com/item?id=39642135) - [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
 * [2024-03-08, 15:40:17](https://news.ycombinator.com/item?id=39642060) - [Impostor Syndrome vs. the Dunning-Kruger Effect](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/)
 * [2024-03-08, 15:25:06](https://news.ycombinator.com/item?id=39641878) - [A 7k-Pound Car Smashed Through a Guardrail. That's Bad News for All of Us](https://slate.com/business/2024/02/car-safety-guardrails-bloat-electric-vehicles.html)
@@ -20,7 +21,6 @@
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing (2023)](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 * [2024-03-08, 02:01:10](https://news.ycombinator.com/item?id=39636991) - [Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
-* [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://news.ycombinator.com/item?id=39632872)
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 06:25:43](https://news.ycombinator.com/item?id=39625651) - [The CAP theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
 * [2024-03-07, 01:54:32](https://news.ycombinator.com/item?id=39624223) - [In Mongolia, a killer winter is ravaging herds and a way of life](https://e360.yale.edu/features/mongolia-dzud-climate-change)
