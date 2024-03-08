@@ -7,7 +7,7 @@
 * [2024-03-08, 02:01:10](https://news.ycombinator.com/item?id=39636991) - [Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
 * [2024-03-08, 01:03:14](https://news.ycombinator.com/item?id=39636569) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
 * [2024-03-08, 00:49:16](https://news.ycombinator.com/item?id=39636469) - [Show HN: Manta – A tool for FPGA Debugging and Rapid Prototyping](https://fischermoseley.github.io/manta/)
-* [2024-03-08, 00:20:19](https://news.ycombinator.com/item?id=39636259) - [Metro Stations and Transfers (2022)](http://stations.albertguillaumes.cat/)
+* [2024-03-08, 00:20:19](https://news.ycombinator.com/item?id=39636259) - [Stations and transfers (2022)](http://stations.albertguillaumes.cat/)
 * [2024-03-07, 23:06:40](https://news.ycombinator.com/item?id=39635743) - [How to become a pirate archivist (2022)](https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
 * [2024-03-07, 20:26:51](https://news.ycombinator.com/item?id=39634195) - [The Life and Death of the Bulbdial Clock](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)
 * [2024-03-07, 19:30:54](https://news.ycombinator.com/item?id=39633580) - [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)
