@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 17:26:06](https://news.ycombinator.com/item?id=39643359) - [Instagram overtakes TikTok as most downloaded app](https://www.theguardian.com/technology/2024/mar/08/instagram-tiktok-app-reels-video-meta)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 17:00:39](https://news.ycombinator.com/item?id=39643057) - [VS Code: Prompt Editor for LLMs (GPT4, Llama, Mistral, etc.)](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
+* [2024-03-08, 16:49:37](https://news.ycombinator.com/item?id=39642920) - [The Mystery Social Media Account Schooling Congress on How to Do Its Job](https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314)
 * [2024-03-08, 16:44:31](https://news.ycombinator.com/item?id=39642851) - [Doctor Replied to Your Email. That'll Cost $25](https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32)
 * [2024-03-08, 16:39:18](https://news.ycombinator.com/item?id=39642789) - [Who Still Works from Home?](https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html)
 * [2024-03-08, 16:28:11](https://news.ycombinator.com/item?id=39642671) - [NASA Unveils Design for Message Heading to Jupiter's Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
