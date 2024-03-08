@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 03:38:06](https://news.ycombinator.com/item?id=39637530) - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 * [2024-03-08, 03:28:04](https://news.ycombinator.com/item?id=39637494) - [Dragon Ball Creator, Akira Toriyama, Has Passed Away](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 * [2024-03-08, 03:24:50](https://news.ycombinator.com/item?id=39637471) - [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)

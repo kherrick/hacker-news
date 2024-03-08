@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 03:38:06](https://news.ycombinator.com/item?id=39637530) - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 * [2024-03-08, 03:24:50](https://news.ycombinator.com/item?id=39637471) - [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)
 * [2024-03-08, 02:37:15](https://news.ycombinator.com/item?id=39637216) - [Fasting-mimicking diet causes markers indicating reduced age and disease risk](https://www.nature.com/articles/s41467-024-45260-9)
@@ -19,7 +20,6 @@
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 13:50:07](https://news.ycombinator.com/item?id=39629015) - [The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
 * [2024-03-07, 13:33:46](https://news.ycombinator.com/item?id=39628842) - [Ex-Google engineer charged with stealing trade secrets](https://apnews.com/article/china-google-justice-department-63156ade1e564d15d92adbef91e9c5da)
-* [2024-03-07, 12:33:36](https://news.ycombinator.com/item?id=39628285) - [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
 * [2024-03-07, 05:36:51](https://news.ycombinator.com/item?id=39625379) - [Gabriel García Márquez: Sons publish novel that late author wanted destroyed](https://www.bbc.co.uk/news/entertainment-arts-68488756.amp)
 * [2024-03-07, 00:28:40](https://news.ycombinator.com/item?id=39623619) - [Atlas of internet surveillance maps ownership of network infrastructures worldw](https://techxplore.com/news/2024-03-atlas-internet-surveillance-ownership-network.html)
 * [2024-03-06, 12:59:10](https://news.ycombinator.com/item?id=39615465) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
