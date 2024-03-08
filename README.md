@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-08, 14:08:23](https://news.ycombinator.com/item?id=39641167) - [How do you make an addictive video game?](https://pjvogt.substack.com/p/how-do-you-make-an-addictive-video)
-* [2024-03-08, 13:58:20](https://news.ycombinator.com/item?id=39641091) - [Wheel Falls Off United Boeing 777](https://www.theautopian.com/wheel-falls-off-united-boeing-777-damages-multiple-cars/)
 * [2024-03-08, 13:47:13](https://news.ycombinator.com/item?id=39640992) - [Home Lab Guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 * [2024-03-08, 12:25:31](https://news.ycombinator.com/item?id=39640422) - [Companies continue to export chlorpyrifos from the EU to poorer countries](https://unearthed.greenpeace.org/2023/03/28/eu-banned-pesticide-global-south/)
 * [2024-03-08, 12:05:14](https://news.ycombinator.com/item?id=39640303) - [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
@@ -18,6 +17,7 @@
 * [2024-03-08, 02:01:10](https://news.ycombinator.com/item?id=39636991) - [Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
 * [2024-03-08, 00:49:27](https://news.ycombinator.com/item?id=39636470) - [Don't fuck with paste](https://github.com/aaronraimist/DontFuckWithPaste)
 * [2024-03-08, 00:20:19](https://news.ycombinator.com/item?id=39636259) - [Stations and transfers (2022)](http://stations.albertguillaumes.cat/)
+* [2024-03-07, 23:06:40](https://news.ycombinator.com/item?id=39635743) - [How to become a pirate archivist (2022)](https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://news.ycombinator.com/item?id=39632872)
 * [2024-03-07, 16:11:01](https://news.ycombinator.com/item?id=39630759) - [New breakthrough brings matrix multiplication closer to ideal](https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/)
