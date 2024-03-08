@@ -48,6 +48,7 @@
 * [2024-03-07, 16:29:47](https://news.ycombinator.com/item?id=39630985) - [You can not simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
 * [2024-03-07, 16:26:15](https://news.ycombinator.com/item?id=39630949) - [New Bounds for Matrix Multiplication: From Alpha to Omega](https://epubs.siam.org/doi/10.1137/1.9781611977912.134)
 * [2024-03-07, 16:23:22](https://news.ycombinator.com/item?id=39630926) - [How the Great Green Wall Is Holding Back the Sahara Desert](https://kottke.org/24/03/how-the-great-green-wall-is-holding-back-the-sahara-desert)
+* [2024-03-07, 16:11:01](https://news.ycombinator.com/item?id=39630759) - [New breakthrough brings matrix multiplication closer to ideal](https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/)
 * [2024-03-07, 16:07:29](https://news.ycombinator.com/item?id=39630722) - [My co-founder wants to bring his wife as a late joining co-founder](https://news.ycombinator.com/item?id=39630722)
 * [2024-03-07, 15:51:58](https://news.ycombinator.com/item?id=39630520) - [Intentionally Blank Page](https://en.wikipedia.org/wiki/Intentionally_blank_page)
 * [2024-03-07, 15:49:37](https://news.ycombinator.com/item?id=39630498) - [Plastic Found Inside More Than 50% of Plaques from Clogged Arteries](https://www.sciencealert.com/plastic-found-inside-more-than-50-of-plaques-from-clogged-arteries)
