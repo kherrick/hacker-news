@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 18:24:13](https://news.ycombinator.com/item?id=39644153) - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
+* [2024-03-08, 18:09:58](https://news.ycombinator.com/item?id=39643951) - [NIST staffers revolt against expected appointment of Paul Cristiano to NIST](https://venturebeat.com/ai/nist-staffers-revolt-against-potential-appointment-of-effective-altruist-ai-researcher-to-us-ai-safety-institute/)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
-* [2024-03-08, 17:53:11](https://news.ycombinator.com/item?id=39643685) - [Apple restores Epic's account in the EU](https://twitter.com/TimSweeneyEpic/status/1766158416093798866)
-* [2024-03-08, 17:10:33](https://news.ycombinator.com/item?id=39643168) - [What Luddites can teach us about resisting an automated future](https://www.technologyreview.com/2024/02/28/1088262/luddites-resisting-automated-future-technology/)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 17:00:39](https://news.ycombinator.com/item?id=39643057) - [VS Code: Prompt Editor for LLMs (GPT4, Llama, Mistral, etc.)](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
 * [2024-03-08, 16:49:37](https://news.ycombinator.com/item?id=39642920) - [The Mystery Social Media Account Schooling Congress on How to Do Its Job](https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314)

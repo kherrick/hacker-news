@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
 * [2024-03-08, 18:38:36](https://news.ycombinator.com/item?id=39644379) - [Google fires employee who protested Israel tech event as internal dissent mounts](https://www.cnbc.com/2024/03/08/google-fires-employee-who-protested-israel-tech-event-shuts-forum.html)
+* [2024-03-08, 18:24:13](https://news.ycombinator.com/item?id=39644153) - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
+* [2024-03-08, 18:09:58](https://news.ycombinator.com/item?id=39643951) - [NIST staffers revolt against expected appointment of Paul Cristiano to NIST](https://venturebeat.com/ai/nist-staffers-revolt-against-potential-appointment-of-effective-altruist-ai-researcher-to-us-ai-safety-institute/)
 * [2024-03-08, 18:05:58](https://news.ycombinator.com/item?id=39643894) - [Four new models that are benchmarking near or above GPT-4](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 * [2024-03-08, 17:53:11](https://news.ycombinator.com/item?id=39643685) - [Apple restores Epic's account in the EU](https://twitter.com/TimSweeneyEpic/status/1766158416093798866)
