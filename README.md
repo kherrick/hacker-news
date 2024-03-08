@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 07:41:59](https://news.ycombinator.com/item?id=39638780) - [Apple planning default navigation app setting in iOS 18 for EU users](https://9to5mac.com/2024/03/07/apple-planning-default-navigation-app-setting-in-ios-18-for-eu-users/)
 * [2024-03-08, 07:05:36](https://news.ycombinator.com/item?id=39638569) - [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
-* [2024-03-08, 06:09:51](https://news.ycombinator.com/item?id=39638264) - [Notion for Macintosh System 7](https://68kmla.org/bb/index.php?threads/notion-for-system-7.46880/)
+* [2024-03-08, 05:45:03](https://news.ycombinator.com/item?id=39638150) - [OpenGFW: an open source implementation of China's Great Firewall](https://github.com/apernet/OpenGFW)
 * [2024-03-08, 05:16:41](https://news.ycombinator.com/item?id=39638021) - [Why does the `reset` command include a delay? (2017)](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
 * [2024-03-08, 04:27:09](https://news.ycombinator.com/item?id=39637771) - [The Greatest Meme Template](https://www.readtrung.com/p/the-greatest-meme-template-ever-ad8)
 * [2024-03-08, 03:38:06](https://news.ycombinator.com/item?id=39637530) - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
@@ -13,7 +14,6 @@
 * [2024-03-08, 00:49:16](https://news.ycombinator.com/item?id=39636469) - [Show HN: Manta – A tool for FPGA Debugging and Rapid Prototyping](https://fischermoseley.github.io/manta/)
 * [2024-03-08, 00:20:19](https://news.ycombinator.com/item?id=39636259) - [Stations and transfers (2022)](http://stations.albertguillaumes.cat/)
 * [2024-03-07, 23:06:40](https://news.ycombinator.com/item?id=39635743) - [How to become a pirate archivist (2022)](https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
-* [2024-03-07, 22:38:52](https://news.ycombinator.com/item?id=39635486) - [Ask HN: What underrated open source project deserves more recognition?](https://news.ycombinator.com/item?id=39635486)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 20:26:51](https://news.ycombinator.com/item?id=39634195) - [The Life and Death of the Bulbdial Clock](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)
 * [2024-03-07, 19:30:54](https://news.ycombinator.com/item?id=39633580) - [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)

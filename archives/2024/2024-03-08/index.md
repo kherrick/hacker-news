@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 07:41:59](https://news.ycombinator.com/item?id=39638780) - [Apple planning default navigation app setting in iOS 18 for EU users](https://9to5mac.com/2024/03/07/apple-planning-default-navigation-app-setting-in-ios-18-for-eu-users/)
 * [2024-03-08, 07:05:36](https://news.ycombinator.com/item?id=39638569) - [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
 * [2024-03-08, 06:13:24](https://news.ycombinator.com/item?id=39638282) - [The Terrifying A.I. Scam That Uses Your Loved One's Voice](https://www.newyorker.com/science/annals-of-artificial-intelligence/the-terrifying-ai-scam-that-uses-your-loved-ones-voice)
 * [2024-03-08, 06:09:51](https://news.ycombinator.com/item?id=39638264) - [Notion for Macintosh System 7](https://68kmla.org/bb/index.php?threads/notion-for-system-7.46880/)
+* [2024-03-08, 05:45:03](https://news.ycombinator.com/item?id=39638150) - [OpenGFW: an open source implementation of China's Great Firewall](https://github.com/apernet/OpenGFW)
 * [2024-03-08, 05:26:49](https://news.ycombinator.com/item?id=39638068) - [Rathole – A lightweight reverse proxy in Rust like frp and ngrok](https://github.com/rapiz1/rathole)
 * [2024-03-08, 05:16:41](https://news.ycombinator.com/item?id=39638021) - [Why does the `reset` command include a delay?](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
 * [2024-03-08, 04:27:09](https://news.ycombinator.com/item?id=39637771) - [The Greatest Meme Template](https://www.readtrung.com/p/the-greatest-meme-template-ever-ad8)
