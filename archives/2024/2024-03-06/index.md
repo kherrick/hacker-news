@@ -77,6 +77,7 @@
 * [2024-03-06, 12:30:55](https://news.ycombinator.com/item?id=39615207) - [Amazon Cancels Fees for Customers Moving to Rival Cloud Services](https://www.bloomberg.com/news/articles/2024-03-05/amazon-cancels-fees-for-customers-moving-to-rival-cloud-services)
 * [2024-03-06, 12:29:37](https://news.ycombinator.com/item?id=39615198) - [Compression efficiency with shared dictionaries in Chrome](https://developer.chrome.com/blog/shared-dictionary-compression)
 * [2024-03-06, 12:17:01](https://news.ycombinator.com/item?id=39615097) - [Ask HN: Feeling quite disheartened about job search, any advice?](https://news.ycombinator.com/item?id=39615097)
+* [2024-03-06, 12:12:50](https://news.ycombinator.com/item?id=39615068) - [Playing audio files in a Pi Pico without a DAC](http://antirez.com/news/143)
 * [2024-03-06, 12:07:04](https://news.ycombinator.com/item?id=39615029) - [Windows 11 to lose official support for Android apps](https://techcrunch.com/2024/03/05/windows-11-to-lose-official-support-for-android-apps/)
 * [2024-03-06, 12:01:08](https://news.ycombinator.com/item?id=39614989) - [Ice-free summers in Arctic possible within next decade, scientists say](https://www.theguardian.com/world/2024/mar/05/ice-free-summers-in-arctic-possible-within-next-decade-scientists-say)
 * [2024-03-06, 12:00:49](https://news.ycombinator.com/item?id=39614988) - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)

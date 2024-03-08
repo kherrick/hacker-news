@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 14:43:34](https://news.ycombinator.com/item?id=39641475) - [Harnessing chaos in Cloudflare offices](https://blog.cloudflare.com/harnessing-office-chaos)
 * [2024-03-08, 14:38:50](https://news.ycombinator.com/item?id=39641428) - [TikTok Stunt Motivates Lawmakers to Take on the App](https://www.wsj.com/politics/policy/a-tiktok-stunt-motivates-lawmakers-to-take-on-the-app-ba989656)
 * [2024-03-08, 14:28:52](https://news.ycombinator.com/item?id=39641322) - [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
 * [2024-03-08, 14:08:23](https://news.ycombinator.com/item?id=39641167) - [How do you make an addictive video game?](https://pjvogt.substack.com/p/how-do-you-make-an-addictive-video)
+* [2024-03-08, 14:01:54](https://news.ycombinator.com/item?id=39641113) - [Fishing for oil and meat drives extinction of deepwater sharks and rays](https://www.science.org/doi/10.1126/science.ade9121)
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
 * [2024-03-08, 13:58:20](https://news.ycombinator.com/item?id=39641091) - [Wheel Falls Off United Boeing 777](https://www.theautopian.com/wheel-falls-off-united-boeing-777-damages-multiple-cars/)
 * [2024-03-08, 13:47:13](https://news.ycombinator.com/item?id=39640992) - [Home Lab Guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
+* [2024-03-08, 13:32:17](https://news.ycombinator.com/item?id=39640857) - [Airbus electric air taxi makes its debut](https://www.airbus.com/en/newsroom/press-releases/2024-03-cityairbus-nextgen-makes-its-debut)
+* [2024-03-08, 13:03:49](https://news.ycombinator.com/item?id=39640680) - [The Forgiver's Dilemma: Can Letting Go Set You Free?](https://jyotirgamya.org/opinion/forgivers-dilemma/)
 * [2024-03-08, 13:03:43](https://news.ycombinator.com/item?id=39640678) - [Claude Sonnet and Pi AI give exact same response to a prompt](https://twitter.com/seshubon/status/1765870717844050221)
+* [2024-03-08, 12:58:36](https://news.ycombinator.com/item?id=39640647) - [Having Self-Control Leads to Power [Study]](https://today.ucsd.edu/story/having-self-control-leads-to-power)
 * [2024-03-08, 12:25:31](https://news.ycombinator.com/item?id=39640422) - [Europe shipping banned pesticide linked to child brain damage to Global South](https://unearthed.greenpeace.org/2023/03/28/eu-banned-pesticide-global-south/)
 * [2024-03-08, 12:05:14](https://news.ycombinator.com/item?id=39640303) - [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
 * [2024-03-08, 12:00:31](https://news.ycombinator.com/item?id=39640274) - [Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
