@@ -2,12 +2,12 @@
 
 * [2024-03-08, 08:58:40](https://news.ycombinator.com/item?id=39639253) - [Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
 * [2024-03-08, 07:24:01](https://news.ycombinator.com/item?id=39638676) - [Show HN: Cylinder HN – View Trending Hacker News and Search Everything](https://cylinder.doforce.xyz)
-* [2024-03-08, 07:05:36](https://news.ycombinator.com/item?id=39638569) - [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
 * [2024-03-08, 05:45:03](https://news.ycombinator.com/item?id=39638150) - [OpenGFW: an open source implementation of China's Great Firewall](https://github.com/apernet/OpenGFW)
 * [2024-03-08, 05:16:41](https://news.ycombinator.com/item?id=39638021) - [Why does the `reset` command include a delay? (2017)](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
 * [2024-03-08, 03:38:06](https://news.ycombinator.com/item?id=39637530) - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 * [2024-03-08, 03:24:50](https://news.ycombinator.com/item?id=39637471) - [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)
+* [2024-03-08, 02:30:55](https://news.ycombinator.com/item?id=39637176) - [Secure by Design: Google's Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
 * [2024-03-08, 02:01:10](https://news.ycombinator.com/item?id=39636991) - [Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
 * [2024-03-08, 01:03:14](https://news.ycombinator.com/item?id=39636569) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
 * [2024-03-08, 00:49:27](https://news.ycombinator.com/item?id=39636470) - [Don't fuck with paste](https://github.com/aaronraimist/DontFuckWithPaste)
