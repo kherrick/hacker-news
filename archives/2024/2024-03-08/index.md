@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 14:08:23](https://news.ycombinator.com/item?id=39641167) - [How do you make an addictive video game?](https://pjvogt.substack.com/p/how-do-you-make-an-addictive-video)
 * [2024-03-08, 13:58:20](https://news.ycombinator.com/item?id=39641091) - [Wheel Falls Off United Boeing 777](https://www.theautopian.com/wheel-falls-off-united-boeing-777-damages-multiple-cars/)
 * [2024-03-08, 13:47:13](https://news.ycombinator.com/item?id=39640992) - [Home Lab Guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 * [2024-03-08, 13:03:43](https://news.ycombinator.com/item?id=39640678) - [Claude Sonnet and Pi AI give exact same response to a prompt](https://twitter.com/seshubon/status/1765870717844050221)
@@ -12,6 +13,7 @@
 * [2024-03-08, 12:00:31](https://news.ycombinator.com/item?id=39640274) - [Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
 * [2024-03-08, 11:45:45](https://news.ycombinator.com/item?id=39640190) - [Learning Lessons From The Cyber-Attack: British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
 * [2024-03-08, 10:56:30](https://news.ycombinator.com/item?id=39639903) - [The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
+* [2024-03-08, 10:43:43](https://news.ycombinator.com/item?id=39639842) - [Full AMD Linux Laptop (Radeon 7600M XT GPU, Ryzen CPU): Tuxedo Sirius 16 Review](https://tilvids.com/videos/watch/7ed1d601-ea6b-43e9-9ca0-bfc84c016af2)
 * [2024-03-08, 10:19:09](https://news.ycombinator.com/item?id=39639689) - [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
 * [2024-03-08, 09:45:19](https://news.ycombinator.com/item?id=39639518) - [Spanish soldiers changing gender to female for added benefits, higher pay](https://nypost.com/2024/03/06/world-news/spanish-soldiers-changing-gender-to-female-for-added-benefits/)
 * [2024-03-08, 09:27:43](https://news.ycombinator.com/item?id=39639418) - [ComflowySpace: An open-source version of better ComfyUI](https://github.com/6174/comflowyspace)
