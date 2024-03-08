@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 20:30:36](https://news.ycombinator.com/item?id=39646020) - [Uber must pay wheelchair user $35,000, provide accessible rides](https://vancouversun.com/news/local-news/bc-uber-human-rights-tribunal-ruling)
+* [2024-03-08, 20:28:51](https://news.ycombinator.com/item?id=39645991) - [New York Times is targeting Wordle clones with legal takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
 * [2024-03-08, 19:56:52](https://news.ycombinator.com/item?id=39645575) - [Psychedelic news: The government fast-tracked LSD as an anxiety treatment](https://www.fastcompany.com/91050854/government-fast-tracked-lsd-as-anxiety-treatment-as-psychedelics-psilocybin-mdma-near-breakthrough)
 * [2024-03-08, 19:55:40](https://news.ycombinator.com/item?id=39645558) - [Just 2 cans of soda per week is too much – even if you exercise](https://nypost.com/2024/03/03/lifestyle/just-2-cans-of-soda-per-week-is-too-much-even-if-you-exercise-study/)
+* [2024-03-08, 19:44:59](https://news.ycombinator.com/item?id=39645412) - [Google says the AI-focused Pixel 8 can't run its latest smartphone AI models](https://arstechnica.com/gadgets/2024/03/google-says-the-ai-focused-pixel-8-cant-run-its-latest-smartphone-ai-models/)
 * [2024-03-08, 19:14:34](https://news.ycombinator.com/item?id=39644962) - [I'm an idiot. I just gave money to kinda-scammers, not the US government](https://news.ycombinator.com/item?id=39644962)
 * [2024-03-08, 18:50:07](https://news.ycombinator.com/item?id=39644529) - [Apple Reverses Move to Ban 'Fortnite' Maker from the EU](https://www.bloomberg.com/news/articles/2024-03-08/apple-reverses-move-to-ban-fortnite-maker-from-european-union)
 * [2024-03-08, 18:48:08](https://news.ycombinator.com/item?id=39644501) - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
@@ -46,6 +49,7 @@
 * [2024-03-08, 12:05:14](https://news.ycombinator.com/item?id=39640303) - [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
 * [2024-03-08, 12:00:31](https://news.ycombinator.com/item?id=39640274) - [Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
 * [2024-03-08, 11:45:45](https://news.ycombinator.com/item?id=39640190) - [Learning Lessons From The Cyber-Attack: British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
+* [2024-03-08, 11:03:39](https://news.ycombinator.com/item?id=39639944) - [Plasticity: CAD for Artists](https://www.plasticity.xyz/)
 * [2024-03-08, 10:56:30](https://news.ycombinator.com/item?id=39639903) - [The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
 * [2024-03-08, 10:43:43](https://news.ycombinator.com/item?id=39639842) - [Full AMD Linux Laptop (Radeon 7600M XT GPU, Ryzen CPU): Tuxedo Sirius 16 Review](https://tilvids.com/videos/watch/7ed1d601-ea6b-43e9-9ca0-bfc84c016af2)
 * [2024-03-08, 10:19:09](https://news.ycombinator.com/item?id=39639689) - [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
