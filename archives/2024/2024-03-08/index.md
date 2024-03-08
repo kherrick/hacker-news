@@ -50,6 +50,7 @@
 * [2024-03-08, 16:39:18](https://news.ycombinator.com/item?id=39642789) - [Who Still Works from Home?](https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html)
 * [2024-03-08, 16:28:11](https://news.ycombinator.com/item?id=39642671) - [NASA Unveils Design for Message Heading to Jupiter's Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
 * [2024-03-08, 16:24:18](https://news.ycombinator.com/item?id=39642612) - [Metaperson: The enchanted worlds of Marshall Sahlins](https://www.thenation.com/article/culture/marshall-sahlins-new-science-enchanted-universe/)
+* [2024-03-08, 16:07:29](https://news.ycombinator.com/item?id=39642390) - [Show HN: A talking board game in a 2k program and 128 bytes of RAM](https://s3-eu-west-1.amazonaws.com/makapufprojects/oie/doc.html)
 * [2024-03-08, 15:59:43](https://news.ycombinator.com/item?id=39642277) - [Countries That Close Gender Gaps See Substantial Growth Returns](https://www.imf.org/en/Blogs/Articles/2023/09/27/countries-that-close-gender-gaps-see-substantial-growth-returns)
 * [2024-03-08, 15:46:34](https://news.ycombinator.com/item?id=39642135) - [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
 * [2024-03-08, 15:40:17](https://news.ycombinator.com/item?id=39642060) - [Impostor Syndrome vs. the Dunning-Kruger Effect](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/)

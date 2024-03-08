@@ -12,7 +12,7 @@
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: Wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 16:49:37](https://news.ycombinator.com/item?id=39642920) - [A UK college student explaining congressional procedure to Washington](https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314)
-* [2024-03-08, 16:44:31](https://news.ycombinator.com/item?id=39642851) - [More doctors are charging fees to respond to patient messages](https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32)
+* [2024-03-08, 16:07:29](https://news.ycombinator.com/item?id=39642390) - [Show HN: A talking board game in a 2k program and 128 bytes of RAM](https://s3-eu-west-1.amazonaws.com/makapufprojects/oie/doc.html)
 * [2024-03-08, 15:46:34](https://news.ycombinator.com/item?id=39642135) - [Superconductivity scandal: the story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
 * [2024-03-08, 14:01:54](https://news.ycombinator.com/item?id=39641113) - [Fishing for oil and meat drives defaunation of deepwater sharks and rays](https://www.science.org/doi/10.1126/science.ade9121)
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
