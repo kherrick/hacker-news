@@ -25,7 +25,7 @@
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour is the game creation tool I have been working on for the past few years](https://v21.io/blog/downpour)
 * [2024-03-07, 08:28:37](https://news.ycombinator.com/item?id=39626567) - [Ask HN: 57 sales totaling $1,539 for micro-SaaS? Is the idea dead?](https://news.ycombinator.com/item?id=39626567)
-* [2024-03-07, 07:12:33](https://news.ycombinator.com/item?id=39626033) - [Vlite – Lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
+* [2024-03-07, 07:12:33](https://news.ycombinator.com/item?id=39626033) - [Show HN: Vlite – Lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
 * [2024-03-07, 01:24:49](https://news.ycombinator.com/item?id=39624030) - ['Lukewarm' and 'Lukecool' (2021)](https://www.grammarphobia.com/blog/2021/07/lukewarm-lukecool.html)
 * [2024-03-06, 23:22:16](https://news.ycombinator.com/item?id=39623065) - [The extraordinary lives of coast redwoods](https://www.noemamag.com/the-extraordinary-lives-of-coast-redwoods/)
 * [2024-03-06, 12:33:28](https://news.ycombinator.com/item?id=39615228) - [Orthogonal Persistence](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
