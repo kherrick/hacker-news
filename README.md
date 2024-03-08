@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 19:56:52](https://news.ycombinator.com/item?id=39645575) - [Psychedelic news: The government fast-tracked LSD as an anxiety treatment](https://www.fastcompany.com/91050854/government-fast-tracked-lsd-as-anxiety-treatment-as-psychedelics-psilocybin-mdma-near-breakthrough)
 * [2024-03-08, 19:55:40](https://news.ycombinator.com/item?id=39645558) - [Just 2 cans of soda per week is too much – even if you exercise](https://nypost.com/2024/03/03/lifestyle/just-2-cans-of-soda-per-week-is-too-much-even-if-you-exercise-study/)
-* [2024-03-08, 19:14:34](https://news.ycombinator.com/item?id=39644962) - [I'm an idiot. I just gave money to kinda-scammers, not the US government](https://news.ycombinator.com/item?id=39644962)
-* [2024-03-08, 18:50:07](https://news.ycombinator.com/item?id=39644529) - [Apple Reverses Move to Ban 'Fortnite' Maker from the EU](https://www.bloomberg.com/news/articles/2024-03-08/apple-reverses-move-to-ban-fortnite-maker-from-european-union)
 * [2024-03-08, 18:48:08](https://news.ycombinator.com/item?id=39644501) - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
 * [2024-03-08, 18:35:42](https://news.ycombinator.com/item?id=39644341) - [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
 * [2024-03-08, 18:24:13](https://news.ycombinator.com/item?id=39644153) - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
@@ -24,6 +23,7 @@
 * [2024-03-08, 10:19:09](https://news.ycombinator.com/item?id=39639689) - [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
 * [2024-03-08, 07:49:35](https://news.ycombinator.com/item?id=39638836) - [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
+* [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour Is Out](https://v21.io/blog/downpour)
 * [2024-03-07, 07:12:33](https://news.ycombinator.com/item?id=39626033) - [Vlite – Lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
 * [2024-03-07, 01:24:49](https://news.ycombinator.com/item?id=39624030) - ['Lukewarm' and 'Lukecool' (2021)](https://www.grammarphobia.com/blog/2021/07/lukewarm-lukecool.html)
 * [2024-03-06, 23:22:16](https://news.ycombinator.com/item?id=39623065) - [The Extraordinary Lives of Coast Redwoods](https://www.noemamag.com/the-extraordinary-lives-of-coast-redwoods/)
