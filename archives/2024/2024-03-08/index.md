@@ -76,6 +76,7 @@
 * [2024-03-08, 10:43:43](https://news.ycombinator.com/item?id=39639842) - [Full AMD Linux Laptop (Radeon 7600M XT GPU, Ryzen CPU): Tuxedo Sirius 16 Review](https://tilvids.com/videos/watch/7ed1d601-ea6b-43e9-9ca0-bfc84c016af2)
 * [2024-03-08, 10:19:09](https://news.ycombinator.com/item?id=39639689) - [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
 * [2024-03-08, 09:45:19](https://news.ycombinator.com/item?id=39639518) - [Spanish soldiers changing gender to female for added benefits, higher pay](https://nypost.com/2024/03/06/world-news/spanish-soldiers-changing-gender-to-female-for-added-benefits/)
+* [2024-03-08, 09:29:10](https://news.ycombinator.com/item?id=39639427) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-08, 09:27:43](https://news.ycombinator.com/item?id=39639418) - [ComflowySpace: An open-source version of better ComfyUI](https://github.com/6174/comflowyspace)
 * [2024-03-08, 09:21:15](https://news.ycombinator.com/item?id=39639386) - [Show HN: A directory of open source alternatives to proprietary software](https://openalternative.co)
 * [2024-03-08, 09:19:15](https://news.ycombinator.com/item?id=39639378) - [Self Learners](https://iamautodidact.com)
