@@ -6,6 +6,7 @@
 
 * [2024-03-08, 17:33:05](https://news.ycombinator.com/item?id=39643447) - [Airbnb's Devastating Effect on Canadian Housing](https://thewalrus.ca/airbnbs-canadian-housing/)
 * [2024-03-08, 17:26:06](https://news.ycombinator.com/item?id=39643359) - [Instagram overtakes TikTok as most downloaded app](https://www.theguardian.com/technology/2024/mar/08/instagram-tiktok-app-reels-video-meta)
+* [2024-03-08, 17:10:33](https://news.ycombinator.com/item?id=39643168) - [What Luddites can teach us about resisting an automated future](https://www.technologyreview.com/2024/02/28/1088262/luddites-resisting-automated-future-technology/)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 17:00:39](https://news.ycombinator.com/item?id=39643057) - [VS Code: Prompt Editor for LLMs (GPT4, Llama, Mistral, etc.)](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
 * [2024-03-08, 16:49:37](https://news.ycombinator.com/item?id=39642920) - [The Mystery Social Media Account Schooling Congress on How to Do Its Job](https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314)
