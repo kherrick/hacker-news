@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-08, 18:38:36",
-      "https://news.ycombinator.com/item?id=39644379"
-    ],
-    [
-      "Google fires employee who protested Israel tech event as internal dissent mounts",
-      "https://www.cnbc.com/2024/03/08/google-fires-employee-who-protested-israel-tech-event-shuts-forum.html"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 18:02:26",
       "https://news.ycombinator.com/item?id=39643833"
     ],
@@ -27,16 +17,6 @@
     [
       "Apple restores Epic's account in the EU",
       "https://twitter.com/TimSweeneyEpic/status/1766158416093798866"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 17:33:05",
-      "https://news.ycombinator.com/item?id=39643447"
-    ],
-    [
-      "Airbnb's Devastating Effect on Canadian Housing",
-      "https://thewalrus.ca/airbnbs-canadian-housing/"
     ]
   ],
   [
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=39640647"
     ],
     [
-      "Having Self-Control Leads to Power [Study]",
+      "Having Self-Control Leads to Power",
       "https://today.ucsd.edu/story/having-self-control-leads-to-power"
     ]
   ],
@@ -177,6 +157,16 @@
     [
       "Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead",
       "https://www.ribbonhealth.com/open-roles?gh_jid=5118848004"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 11:45:45",
+      "https://news.ycombinator.com/item?id=39640190"
+    ],
+    [
+      "British Library cyber incident review [pdf]",
+      "https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf"
     ]
   ],
   [
@@ -227,6 +217,26 @@
     [
       "Fine tune a 70B language model at home",
       "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 17:15:55",
+      "https://news.ycombinator.com/item?id=39631534"
+    ],
+    [
+      "Show HN: My first software project – a website to set goals and track progress",
+      "https://opus.cafe/"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 07:12:33",
+      "https://news.ycombinator.com/item?id=39626033"
+    ],
+    [
+      "Vlite – Lite demo server, inspired by Vite",
+      "https://github.com/Jinjiang/vlite"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Playing audio files in a Pi Pico without a DAC",
       "http://antirez.com/news/143"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 11:33:49",
-      "https://news.ycombinator.com/item?id=39614816"
-    ],
-    [
-      "Thousand Character Classic",
-      "https://en.wikipedia.org/wiki/Thousand_Character_Classic"
     ]
   ]
 ]
