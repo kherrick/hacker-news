@@ -98,6 +98,7 @@
 * [2024-03-06, 07:12:05](https://news.ycombinator.com/item?id=39613181) - [Birmingham council's 'equal pay' bankruptcy provided cover for Oracle disaster](https://theconversation.com/how-birmingham-city-councils-equal-pay-bankruptcy-provided-cover-for-ongoing-oracle-it-disaster-224416)
 * [2024-03-06, 06:42:45](https://news.ycombinator.com/item?id=39613021) - [Show HN: Piping logs, visualizing in a web app – just suffix \"| npx logscreen\"](https://github.com/soorajshankar/logScreen)
 * [2024-03-06, 06:33:57](https://news.ycombinator.com/item?id=39612957) - [A peculiarity of the X Window System: Windows all the way down](https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown)
+* [2024-03-06, 06:33:43](https://news.ycombinator.com/item?id=39612955) - [Ratchets over Levers](https://v5.chriskrycho.com/journal/next/role/)
 * [2024-03-06, 06:33:04](https://news.ycombinator.com/item?id=39612950) - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
 * [2024-03-06, 06:26:33](https://news.ycombinator.com/item?id=39612913) - [The Cell Programming Language](https://www.cell-lang.net/)
 * [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
