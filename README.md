@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 05:26:49](https://news.ycombinator.com/item?id=39638068) - [Rathole – A lightweight reverse proxy in Rust like frp and ngrok](https://github.com/rapiz1/rathole)
+* [2024-03-08, 05:16:41](https://news.ycombinator.com/item?id=39638021) - [Why does the `reset` command include a delay?](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
 * [2024-03-08, 03:38:06](https://news.ycombinator.com/item?id=39637530) - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 * [2024-03-08, 03:24:50](https://news.ycombinator.com/item?id=39637471) - [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)
@@ -10,6 +12,7 @@
 * [2024-03-08, 00:49:16](https://news.ycombinator.com/item?id=39636469) - [Show HN: Manta – A tool for FPGA Debugging and Rapid Prototyping](https://fischermoseley.github.io/manta/)
 * [2024-03-08, 00:20:19](https://news.ycombinator.com/item?id=39636259) - [Stations and transfers (2022)](http://stations.albertguillaumes.cat/)
 * [2024-03-07, 23:06:40](https://news.ycombinator.com/item?id=39635743) - [How to become a pirate archivist (2022)](https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
+* [2024-03-07, 22:38:52](https://news.ycombinator.com/item?id=39635486) - [Ask HN: What underrated open source project deserves more recognition?](https://news.ycombinator.com/item?id=39635486)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 20:26:51](https://news.ycombinator.com/item?id=39634195) - [The Life and Death of the Bulbdial Clock](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)
 * [2024-03-07, 19:30:54](https://news.ycombinator.com/item?id=39633580) - [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)
@@ -24,11 +27,8 @@
 * [2024-03-06, 12:59:10](https://news.ycombinator.com/item?id=39615465) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
 * [2024-03-06, 11:33:49](https://news.ycombinator.com/item?id=39614816) - [Thousand Character Classic](https://en.wikipedia.org/wiki/Thousand_Character_Classic)
 * [2024-03-06, 11:21:18](https://news.ycombinator.com/item?id=39614752) - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
-* [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)
 * [2024-03-06, 07:58:06](https://news.ycombinator.com/item?id=39613448) - [When Robustly Tolerable Beats Precariously Optimal](https://www.askell.blog/when-robustly-tolerable-beats-precariously-optimal/)
 * [2024-03-06, 06:33:57](https://news.ycombinator.com/item?id=39612957) - [A peculiarity of the X Window System: Windows all the way down](https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown)
-* [2024-03-06, 06:33:43](https://news.ycombinator.com/item?id=39612955) - [Ratchets over Levers](https://v5.chriskrycho.com/journal/next/role/)
-* [2024-03-06, 06:26:33](https://news.ycombinator.com/item?id=39612913) - [The Cell Programming Language](https://www.cell-lang.net/)
 * [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
 
 ## [Archives](archives/index.md)

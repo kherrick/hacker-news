@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 05:26:49](https://news.ycombinator.com/item?id=39638068) - [Rathole – A lightweight reverse proxy in Rust like frp and ngrok](https://github.com/rapiz1/rathole)
+* [2024-03-08, 05:16:41](https://news.ycombinator.com/item?id=39638021) - [Why does the `reset` command include a delay?](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
 * [2024-03-08, 03:38:06](https://news.ycombinator.com/item?id=39637530) - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 * [2024-03-08, 03:28:04](https://news.ycombinator.com/item?id=39637494) - [Dragon Ball Creator, Akira Toriyama, Has Passed Away](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
