@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-03-08, 15:40:17",
-      "https://news.ycombinator.com/item?id=39642060"
-    ],
-    [
-      "Impostor Syndrome vs. the Dunning-Kruger Effect",
-      "https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 14:43:34",
       "https://news.ycombinator.com/item?id=39641475"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
-      "2024-03-08, 02:01:10",
-      "https://news.ycombinator.com/item?id=39636991"
-    ],
-    [
-      "Reentry of International Space Station Batteries into Earth's Atmosphere",
-      "https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 22:38:49",
       "https://news.ycombinator.com/item?id=39635483"
     ],
     [
       "Fine tune a 70B language model at home",
       "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 18:38:22",
+      "https://news.ycombinator.com/item?id=39632872"
+    ],
+    [
+      "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
+      "https://news.ycombinator.com/item?id=39632872"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "How to Structure C Projects: These Best Practices Worked for Me",
       "https://www.lucavall.in/blog/how-to-structure-c-projects-my-experience-best-practices"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 12:33:28",
+      "https://news.ycombinator.com/item?id=39615228"
+    ],
+    [
+      "Orthogonal Persistence",
+      "https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md"
     ]
   ],
   [
