@@ -4,7 +4,7 @@
 * [2024-03-08, 12:05:14](https://news.ycombinator.com/item?id=39640303) - [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
 * [2024-03-08, 12:00:31](https://news.ycombinator.com/item?id=39640274) - [Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
 * [2024-03-08, 11:45:45](https://news.ycombinator.com/item?id=39640190) - [British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
-* [2024-03-08, 10:56:30](https://news.ycombinator.com/item?id=39639903) - [The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
+* [2024-03-08, 10:56:30](https://news.ycombinator.com/item?id=39639903) - [The Ruin of Mumbai](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
 * [2024-03-08, 10:19:09](https://news.ycombinator.com/item?id=39639689) - [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
 * [2024-03-08, 09:27:43](https://news.ycombinator.com/item?id=39639418) - [ComflowySpace: An open-source version of better ComfyUI](https://github.com/6174/comflowyspace)
 * [2024-03-08, 08:58:40](https://news.ycombinator.com/item?id=39639253) - [Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
