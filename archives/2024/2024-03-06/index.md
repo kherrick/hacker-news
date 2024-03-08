@@ -41,6 +41,7 @@
 * [2024-03-06, 17:52:36](https://news.ycombinator.com/item?id=39618662) - [Zapier Central: Work Hand in Hand with AI Bots](https://blog.productivity.directory/introducing-zapier-central-work-hand-in-hand-with-ai-bots-0d46ec8b2b6d?gi=5ba98b52e208)
 * [2024-03-06, 17:50:41](https://news.ycombinator.com/item?id=39618640) - [Launch HN: Circleback (YC W24) – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
 * [2024-03-06, 17:41:37](https://news.ycombinator.com/item?id=39618521) - [Explanation of Quake III Arena Fast inverse square root code](https://old.reddit.com/r/todayilearned/comments/3xyo0t/til_quake_iii_arena_needing_to_calculate_x12/)
+* [2024-03-06, 17:34:29](https://news.ycombinator.com/item?id=39618440) - [Iditarod musher Dallas Seavey kills moose to protect his dogs during race](https://theathletic.com/5318294/2024/03/05/iditarod-musher-kills-moose-race/)
 * [2024-03-06, 17:33:45](https://news.ycombinator.com/item?id=39618433) - [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
 * [2024-03-06, 17:26:30](https://news.ycombinator.com/item?id=39618342) - [Stop Eating Sugar (2020)](https://mmalmi.github.io/stop-eating-sugar)
 * [2024-03-06, 17:13:59](https://news.ycombinator.com/item?id=39618180) - [Training great LLMs from ground zero in the wilderness as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)

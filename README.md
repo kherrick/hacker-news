@@ -24,12 +24,12 @@
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 05:36:51](https://news.ycombinator.com/item?id=39625379) - [Gabriel García Márquez: Sons publish novel that late author wanted destroyed](https://www.bbc.co.uk/news/entertainment-arts-68488756.amp)
 * [2024-03-07, 00:28:40](https://news.ycombinator.com/item?id=39623619) - [Atlas of internet surveillance maps ownership of network infrastructures worldw](https://techxplore.com/news/2024-03-atlas-internet-surveillance-ownership-network.html)
+* [2024-03-06, 17:34:29](https://news.ycombinator.com/item?id=39618440) - [Iditarod musher Dallas Seavey kills moose to protect his dogs during race](https://theathletic.com/5318294/2024/03/05/iditarod-musher-kills-moose-race/)
 * [2024-03-06, 12:59:10](https://news.ycombinator.com/item?id=39615465) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
 * [2024-03-06, 11:33:49](https://news.ycombinator.com/item?id=39614816) - [Thousand Character Classic](https://en.wikipedia.org/wiki/Thousand_Character_Classic)
 * [2024-03-06, 11:21:18](https://news.ycombinator.com/item?id=39614752) - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
 * [2024-03-06, 07:58:06](https://news.ycombinator.com/item?id=39613448) - [When Robustly Tolerable Beats Precariously Optimal](https://www.askell.blog/when-robustly-tolerable-beats-precariously-optimal/)
 * [2024-03-06, 06:33:57](https://news.ycombinator.com/item?id=39612957) - [A peculiarity of the X Window System: Windows all the way down](https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown)
-* [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
 
 ## [Archives](archives/index.md)
 
