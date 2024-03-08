@@ -6,6 +6,7 @@
 
 * [2024-03-08, 22:35:01](https://news.ycombinator.com/item?id=39647331) - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
 * [2024-03-08, 22:07:19](https://news.ycombinator.com/item?id=39647105) - [Sam Altman to return to OpenAI board of directors](https://www.theinformation.com/articles/sam-altman-to-return-to-openai-board-of-directors?rc=bnfi9o)
+* [2024-03-08, 22:07:19](https://news.ycombinator.com/item?id=39647105) - [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
 * [2024-03-08, 21:36:45](https://news.ycombinator.com/item?id=39646791) - [M1 MacBook Storage Upgrade to the Highest 2TB Capacity](https://vancouvermac.ca/repair/macbook-storage-upgrade/)
 * [2024-03-08, 21:32:30](https://news.ycombinator.com/item?id=39646749) - [Coroutines in JavaScript for Web Components](https://lorenzofox.dev/posts/component-as-infinite-loop/)
 * [2024-03-08, 21:25:07](https://news.ycombinator.com/item?id=39646677) - [F-35A officially certified to carry nuclear bomb](https://breakingdefense.com/2024/03/exclusive-f-35a-officially-certified-to-carry-nuclear-bomb/)
@@ -44,6 +45,7 @@
 * [2024-03-08, 16:44:31](https://news.ycombinator.com/item?id=39642851) - [Doctor Replied to Your Email. That'll Cost $25](https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32)
 * [2024-03-08, 16:39:18](https://news.ycombinator.com/item?id=39642789) - [Who Still Works from Home?](https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html)
 * [2024-03-08, 16:28:11](https://news.ycombinator.com/item?id=39642671) - [NASA Unveils Design for Message Heading to Jupiter's Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
+* [2024-03-08, 16:24:18](https://news.ycombinator.com/item?id=39642612) - [Metaperson: The enchanted worlds of Marshall Sahlins](https://www.thenation.com/article/culture/marshall-sahlins-new-science-enchanted-universe/)
 * [2024-03-08, 15:59:43](https://news.ycombinator.com/item?id=39642277) - [Countries That Close Gender Gaps See Substantial Growth Returns](https://www.imf.org/en/Blogs/Articles/2023/09/27/countries-that-close-gender-gaps-see-substantial-growth-returns)
 * [2024-03-08, 15:46:34](https://news.ycombinator.com/item?id=39642135) - [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
 * [2024-03-08, 15:40:17](https://news.ycombinator.com/item?id=39642060) - [Impostor Syndrome vs. the Dunning-Kruger Effect](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/)
