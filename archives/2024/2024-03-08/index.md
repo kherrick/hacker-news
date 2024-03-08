@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 19:55:40](https://news.ycombinator.com/item?id=39645558) - [Just 2 cans of soda per week is too much – even if you exercise](https://nypost.com/2024/03/03/lifestyle/just-2-cans-of-soda-per-week-is-too-much-even-if-you-exercise-study/)
+* [2024-03-08, 19:14:34](https://news.ycombinator.com/item?id=39644962) - [I'm an idiot. I just gave money to kinda-scammers, not the US government](https://news.ycombinator.com/item?id=39644962)
 * [2024-03-08, 18:50:07](https://news.ycombinator.com/item?id=39644529) - [Apple Reverses Move to Ban 'Fortnite' Maker from the EU](https://www.bloomberg.com/news/articles/2024-03-08/apple-reverses-move-to-ban-fortnite-maker-from-european-union)
 * [2024-03-08, 18:48:08](https://news.ycombinator.com/item?id=39644501) - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
 * [2024-03-08, 18:38:36](https://news.ycombinator.com/item?id=39644379) - [Google fires employee who protested Israel tech event as internal dissent mounts](https://www.cnbc.com/2024/03/08/google-fires-employee-who-protested-israel-tech-event-shuts-forum.html)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 19:55:40](https://news.ycombinator.com/item?id=39645558) - [Just 2 cans of soda per week is too much – even if you exercise](https://nypost.com/2024/03/03/lifestyle/just-2-cans-of-soda-per-week-is-too-much-even-if-you-exercise-study/)
+* [2024-03-08, 19:14:34](https://news.ycombinator.com/item?id=39644962) - [I'm an idiot. I just gave money to kinda-scammers, not the US government](https://news.ycombinator.com/item?id=39644962)
 * [2024-03-08, 18:50:07](https://news.ycombinator.com/item?id=39644529) - [Apple Reverses Move to Ban 'Fortnite' Maker from the EU](https://www.bloomberg.com/news/articles/2024-03-08/apple-reverses-move-to-ban-fortnite-maker-from-european-union)
 * [2024-03-08, 18:48:08](https://news.ycombinator.com/item?id=39644501) - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
 * [2024-03-08, 18:35:42](https://news.ycombinator.com/item?id=39644341) - [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
@@ -18,10 +20,8 @@
 * [2024-03-08, 13:47:13](https://news.ycombinator.com/item?id=39640992) - [Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 * [2024-03-08, 12:58:36](https://news.ycombinator.com/item?id=39640647) - [Having Self-Control Leads to Power](https://today.ucsd.edu/story/having-self-control-leads-to-power)
 * [2024-03-08, 12:00:31](https://news.ycombinator.com/item?id=39640274) - [Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
-* [2024-03-08, 11:45:45](https://news.ycombinator.com/item?id=39640190) - [British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
 * [2024-03-08, 10:43:43](https://news.ycombinator.com/item?id=39639842) - [Full AMD Linux Laptop (Radeon 7600M XT GPU, Ryzen CPU): Tuxedo Sirius 16 Review](https://tilvids.com/videos/watch/7ed1d601-ea6b-43e9-9ca0-bfc84c016af2)
 * [2024-03-08, 10:19:09](https://news.ycombinator.com/item?id=39639689) - [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
-* [2024-03-08, 08:39:16](https://news.ycombinator.com/item?id=39639125) - [The Man in Seat 61](https://www.seat61.com)
 * [2024-03-08, 07:49:35](https://news.ycombinator.com/item?id=39638836) - [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 07:12:33](https://news.ycombinator.com/item?id=39626033) - [Vlite – Lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
