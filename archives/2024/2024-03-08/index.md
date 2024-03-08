@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
 * [2024-03-08, 20:47:52](https://news.ycombinator.com/item?id=39646267) - [Apple to reinstate Epic's developer account](https://www.pocketgamer.biz/news/83578/apple-reinstates-epic-games-developer-account-as-eus-digital-markets-act-bites/)
+* [2024-03-08, 20:31:57](https://news.ycombinator.com/item?id=39646044) - [Iterate over Parameter Packs in Swift 6.0](https://www.swift.org/blog/pack-iteration/)
 * [2024-03-08, 20:30:36](https://news.ycombinator.com/item?id=39646020) - [Uber must pay wheelchair user $35,000, provide accessible rides](https://vancouversun.com/news/local-news/bc-uber-human-rights-tribunal-ruling)
 * [2024-03-08, 20:28:51](https://news.ycombinator.com/item?id=39645991) - [New York Times is targeting Wordle clones with legal takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
 * [2024-03-08, 20:28:14](https://news.ycombinator.com/item?id=39645982) - [Unpacking Elixir: Phoenix](https://underjord.io/unpacking-elixir-phoenix.html)
