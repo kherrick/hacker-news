@@ -12,3 +12,4 @@
 * [2024-03-08, 00:49:27](https://news.ycombinator.com/item?id=39636470) - [Don't Fuck with Paste](https://github.com/aaronraimist/DontFuckWithPaste)
 * [2024-03-08, 00:49:16](https://news.ycombinator.com/item?id=39636469) - [Show HN: Manta – A tool for FPGA Debugging and Rapid Prototyping](https://fischermoseley.github.io/manta/)
 * [2024-03-08, 00:20:19](https://news.ycombinator.com/item?id=39636259) - [Metro Stations and Transfers](http://stations.albertguillaumes.cat/)
+* [2024-03-08, 00:06:12](https://news.ycombinator.com/item?id=39636164) - [Why React Server Components Are Breaking Builds to Win Tomorrow](https://www.builder.io/blog/why-react-server-components)
