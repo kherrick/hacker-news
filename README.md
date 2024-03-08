@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 18:50:07](https://news.ycombinator.com/item?id=39644529) - [Apple Reverses Move to Ban 'Fortnite' Maker from the EU](https://www.bloomberg.com/news/articles/2024-03-08/apple-reverses-move-to-ban-fortnite-maker-from-european-union)
 * [2024-03-08, 18:48:08](https://news.ycombinator.com/item?id=39644501) - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
 * [2024-03-08, 18:35:42](https://news.ycombinator.com/item?id=39644341) - [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
 * [2024-03-08, 18:24:13](https://news.ycombinator.com/item?id=39644153) - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
@@ -10,7 +11,6 @@
 * [2024-03-08, 17:00:39](https://news.ycombinator.com/item?id=39643057) - [VS Code: Prompt Editor for LLMs (GPT4, Llama, Mistral, etc.)](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
 * [2024-03-08, 16:49:37](https://news.ycombinator.com/item?id=39642920) - [A UK college student explaining congressional procedure to Washington](https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314)
 * [2024-03-08, 16:44:31](https://news.ycombinator.com/item?id=39642851) - [More doctors are charging fees to respond to patient messages](https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32)
-* [2024-03-08, 16:28:11](https://news.ycombinator.com/item?id=39642671) - [NASA Unveils Design for Message Heading to Jupiter's Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
 * [2024-03-08, 15:46:34](https://news.ycombinator.com/item?id=39642135) - [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
 * [2024-03-08, 14:28:52](https://news.ycombinator.com/item?id=39641322) - [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
 * [2024-03-08, 14:01:54](https://news.ycombinator.com/item?id=39641113) - [Fishing for oil and meat drives extinction of deepwater sharks and rays](https://www.science.org/doi/10.1126/science.ade9121)
