@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 21:25:07](https://news.ycombinator.com/item?id=39646677) - [F-35A officially certified to carry nuclear bomb](https://breakingdefense.com/2024/03/exclusive-f-35a-officially-certified-to-carry-nuclear-bomb/)
 * [2024-03-08, 21:13:58](https://news.ycombinator.com/item?id=39646571) - [Bazzite – The Next Generation of Linux Gaming](https://bazzite.gg/)
+* [2024-03-08, 21:11:20](https://news.ycombinator.com/item?id=39646549) - [Quantum Gravity Unveiled –Scientists Crack the Cosmic Code That Baffled Einstein](https://scitechdaily.com/quantum-gravity-unveiled-scientists-crack-the-cosmic-code-that-baffled-einstein/)
 * [2024-03-08, 21:01:03](https://news.ycombinator.com/item?id=39646431) - [Finley (YC W21) Is Hiring for Capital Markets Technologists](https://www.finleycms.com/careers/)
 * [2024-03-08, 20:47:52](https://news.ycombinator.com/item?id=39646267) - [Apple to reinstate Epic's developer account](https://www.pocketgamer.biz/news/83578/apple-reinstates-epic-games-developer-account-as-eus-digital-markets-act-bites/)
 * [2024-03-08, 20:31:57](https://news.ycombinator.com/item?id=39646044) - [Iterate over Parameter Packs in Swift 6.0](https://www.swift.org/blog/pack-iteration/)

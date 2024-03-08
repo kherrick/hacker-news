@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-08, 21:13:58](https://news.ycombinator.com/item?id=39646571) - [Bazzite – The Next Generation of Linux Gaming](https://bazzite.gg/)
+* [2024-03-08, 21:25:07](https://news.ycombinator.com/item?id=39646677) - [F-35A officially certified to carry nuclear bomb](https://breakingdefense.com/2024/03/exclusive-f-35a-officially-certified-to-carry-nuclear-bomb/)
+* [2024-03-08, 21:11:20](https://news.ycombinator.com/item?id=39646549) - [Quantum Gravity Unveiled –Scientists Crack the Cosmic Code That Baffled Einstein](https://scitechdaily.com/quantum-gravity-unveiled-scientists-crack-the-cosmic-code-that-baffled-einstein/)
 * [2024-03-08, 21:01:03](https://news.ycombinator.com/item?id=39646431) - [Finley (YC W21) Is Hiring for Capital Markets Technologists](https://www.finleycms.com/careers/)
 * [2024-03-08, 20:31:57](https://news.ycombinator.com/item?id=39646044) - [Iterate over Parameter Packs in Swift 6.0](https://www.swift.org/blog/pack-iteration/)
 * [2024-03-08, 20:30:36](https://news.ycombinator.com/item?id=39646020) - [Uber must pay wheelchair user $35,000, provide accessible rides](https://vancouversun.com/news/local-news/bc-uber-human-rights-tribunal-ruling)
 * [2024-03-08, 20:28:51](https://news.ycombinator.com/item?id=39645991) - [New York Times is targeting Wordle clones with DMCA takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
-* [2024-03-08, 18:26:29](https://news.ycombinator.com/item?id=39644196) - [Why Tolkien Hated Dune](https://whitherthewest.com/2024/03/08/why-tolkien-hated-dune/)
 * [2024-03-08, 18:12:25](https://news.ycombinator.com/item?id=39643981) - [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: Wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
