@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 08:58:40](https://news.ycombinator.com/item?id=39639253) - [Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
 * [2024-03-08, 07:41:59](https://news.ycombinator.com/item?id=39638780) - [Apple planning default navigation app setting in iOS 18 for EU users](https://9to5mac.com/2024/03/07/apple-planning-default-navigation-app-setting-in-ios-18-for-eu-users/)
 * [2024-03-08, 07:24:01](https://news.ycombinator.com/item?id=39638676) - [Show HN: Cylinder HN – View Trending Hacker News and Search Everything](https://cylinder.doforce.xyz)
 * [2024-03-08, 07:05:36](https://news.ycombinator.com/item?id=39638569) - [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
