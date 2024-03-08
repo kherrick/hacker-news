@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 02:37:15](https://news.ycombinator.com/item?id=39637216) - [Fasting-mimicking diet causes markers indicating reduced age and disease risk](https://www.nature.com/articles/s41467-024-45260-9)
 * [2024-03-08, 02:05:36](https://news.ycombinator.com/item?id=39637017) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-08, 02:01:10](https://news.ycombinator.com/item?id=39636991) - [Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
 * [2024-03-08, 01:03:14](https://news.ycombinator.com/item?id=39636569) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
