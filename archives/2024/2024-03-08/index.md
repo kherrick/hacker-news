@@ -6,6 +6,7 @@
 
 * [2024-03-08, 15:46:34](https://news.ycombinator.com/item?id=39642135) - [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
 * [2024-03-08, 15:40:17](https://news.ycombinator.com/item?id=39642060) - [Impostor Syndrome vs. the Dunning-Kruger Effect](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/)
+* [2024-03-08, 15:25:06](https://news.ycombinator.com/item?id=39641878) - [A 7k-Pound Car Smashed Through a Guardrail. That's Bad News for All of Us](https://slate.com/business/2024/02/car-safety-guardrails-bloat-electric-vehicles.html)
 * [2024-03-08, 14:43:34](https://news.ycombinator.com/item?id=39641475) - [Harnessing chaos in Cloudflare offices](https://blog.cloudflare.com/harnessing-office-chaos)
 * [2024-03-08, 14:38:50](https://news.ycombinator.com/item?id=39641428) - [TikTok Stunt Motivates Lawmakers to Take on the App](https://www.wsj.com/politics/policy/a-tiktok-stunt-motivates-lawmakers-to-take-on-the-app-ba989656)
 * [2024-03-08, 14:28:52](https://news.ycombinator.com/item?id=39641322) - [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
