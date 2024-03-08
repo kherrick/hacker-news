@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 13:03:43](https://news.ycombinator.com/item?id=39640678) - [Claude Sonnet and Pi AI give exact same response to a prompt](https://twitter.com/seshubon/status/1765870717844050221)
 * [2024-03-08, 12:05:14](https://news.ycombinator.com/item?id=39640303) - [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
 * [2024-03-08, 12:00:31](https://news.ycombinator.com/item?id=39640274) - [Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
 * [2024-03-08, 11:45:45](https://news.ycombinator.com/item?id=39640190) - [Learning Lessons From The Cyber-Attack: British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
