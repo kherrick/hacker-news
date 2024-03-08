@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 17:33:05](https://news.ycombinator.com/item?id=39643447) - [Airbnb's Devastating Effect on Canadian Housing](https://thewalrus.ca/airbnbs-canadian-housing/)
 * [2024-03-08, 17:26:06](https://news.ycombinator.com/item?id=39643359) - [Instagram overtakes TikTok as most downloaded app](https://www.theguardian.com/technology/2024/mar/08/instagram-tiktok-app-reels-video-meta)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 17:00:39](https://news.ycombinator.com/item?id=39643057) - [VS Code: Prompt Editor for LLMs (GPT4, Llama, Mistral, etc.)](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
@@ -21,7 +22,6 @@
 * [2024-03-08, 07:49:35](https://news.ycombinator.com/item?id=39638836) - [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing (2023)](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
-* [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 06:25:43](https://news.ycombinator.com/item?id=39625651) - [The CAP theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
 * [2024-03-07, 01:54:32](https://news.ycombinator.com/item?id=39624223) - [In Mongolia, a killer winter is ravaging herds and a way of life](https://e360.yale.edu/features/mongolia-dzud-climate-change)
 * [2024-03-06, 23:22:16](https://news.ycombinator.com/item?id=39623065) - [The Extraordinary Lives of Coast Redwoods](https://www.noemamag.com/the-extraordinary-lives-of-coast-redwoods/)
