@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-08, 14:38:50",
-      "https://news.ycombinator.com/item?id=39641428"
+      "2024-03-08, 14:43:34",
+      "https://news.ycombinator.com/item?id=39641475"
     ],
     [
-      "TikTok Stunt Motivates Lawmakers to Take on the App",
-      "https://www.wsj.com/politics/policy/a-tiktok-stunt-motivates-lawmakers-to-take-on-the-app-ba989656"
+      "Harnessing chaos in Cloudflare offices",
+      "https://blog.cloudflare.com/harnessing-office-chaos"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Build Initramfs Rootless",
       "https://blog.izissise.net/posts/initramfs/"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 14:01:54",
+      "https://news.ycombinator.com/item?id=39641113"
+    ],
+    [
+      "Fishing for oil and meat drives extinction of deepwater sharks and rays",
+      "https://www.science.org/doi/10.1126/science.ade9121"
     ]
   ],
   [
@@ -35,8 +45,38 @@
       "https://news.ycombinator.com/item?id=39640992"
     ],
     [
-      "Home Lab Guide",
+      "Home Lab Beginners guide",
       "https://linuxblog.io/home-lab-beginners-guide-hardware/"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 13:32:17",
+      "https://news.ycombinator.com/item?id=39640857"
+    ],
+    [
+      "Airbus electric air taxi makes its debut",
+      "https://www.airbus.com/en/newsroom/press-releases/2024-03-cityairbus-nextgen-makes-its-debut"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 13:03:49",
+      "https://news.ycombinator.com/item?id=39640680"
+    ],
+    [
+      "The Forgiver's Dilemma: Can Letting Go Set You Free?",
+      "https://jyotirgamya.org/opinion/forgivers-dilemma/"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 12:58:36",
+      "https://news.ycombinator.com/item?id=39640647"
+    ],
+    [
+      "Having Self-Control Leads to Power [Study]",
+      "https://today.ucsd.edu/story/having-self-control-leads-to-power"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "British Library cyber incident review [pdf]",
       "https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 10:56:30",
-      "https://news.ycombinator.com/item?id=39639903"
-    ],
-    [
-      "The Ruin of Mumbai",
-      "https://asteriskmag.com/issues/05/the-ruin-of-mumbai"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-03-08, 03:24:50",
-      "https://news.ycombinator.com/item?id=39637471"
-    ],
-    [
-      "Akira Toriyama has died",
-      "https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 02:01:10",
       "https://news.ycombinator.com/item?id=39636991"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-03-08, 00:20:19",
-      "https://news.ycombinator.com/item?id=39636259"
-    ],
-    [
-      "Stations and transfers (2022)",
-      "http://stations.albertguillaumes.cat/"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 22:38:49",
       "https://news.ycombinator.com/item?id=39635483"
     ],
     [
       "Fine tune a 70B language model at home",
       "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 18:38:22",
-      "https://news.ycombinator.com/item?id=39632872"
-    ],
-    [
-      "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
-      "https://news.ycombinator.com/item?id=39632872"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-03-06, 12:12:50",
+      "https://news.ycombinator.com/item?id=39615068"
+    ],
+    [
+      "Playing audio files in a Pi Pico without a DAC",
+      "http://antirez.com/news/143"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 11:33:49",
       "https://news.ycombinator.com/item?id=39614816"
     ],
     [
       "Thousand Character Classic",
       "https://en.wikipedia.org/wiki/Thousand_Character_Classic"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 07:58:06",
-      "https://news.ycombinator.com/item?id=39613448"
-    ],
-    [
-      "When robustly tolerable beats precariously optimal (2020)",
-      "https://www.askell.blog/when-robustly-tolerable-beats-precariously-optimal/"
     ]
   ],
   [
