@@ -75,6 +75,7 @@
 * [2024-03-06, 13:14:37](https://news.ycombinator.com/item?id=39615602) - [How to Structure C Projects: These Best Practices Worked for Me](https://www.lucavall.in/blog/how-to-structure-c-projects-my-experience-best-practices)
 * [2024-03-06, 12:59:10](https://news.ycombinator.com/item?id=39615465) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
 * [2024-03-06, 12:36:26](https://news.ycombinator.com/item?id=39615251) - [Snapdragon 8 Gen 1's iGPU: Adreno Gets Big](https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/)
+* [2024-03-06, 12:33:28](https://news.ycombinator.com/item?id=39615228) - [Orthogonal Persistence](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
 * [2024-03-06, 12:30:55](https://news.ycombinator.com/item?id=39615207) - [Amazon Cancels Fees for Customers Moving to Rival Cloud Services](https://www.bloomberg.com/news/articles/2024-03-05/amazon-cancels-fees-for-customers-moving-to-rival-cloud-services)
 * [2024-03-06, 12:29:37](https://news.ycombinator.com/item?id=39615198) - [Compression efficiency with shared dictionaries in Chrome](https://developer.chrome.com/blog/shared-dictionary-compression)
 * [2024-03-06, 12:17:01](https://news.ycombinator.com/item?id=39615097) - [Ask HN: Feeling quite disheartened about job search, any advice?](https://news.ycombinator.com/item?id=39615097)
