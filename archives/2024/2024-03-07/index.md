@@ -92,6 +92,7 @@
 * [2024-03-07, 07:01:37](https://news.ycombinator.com/item?id=39625917) - [GTK: On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 * [2024-03-07, 06:30:54](https://news.ycombinator.com/item?id=39625684) - [Heidelberg Inaugurates 3D Printed Data Center](https://cobod.com/heidelberg-inaugurates-europes-largest-3d-printed-building-the-wave-house-data-center/)
 * [2024-03-07, 06:28:11](https://news.ycombinator.com/item?id=39625662) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
+* [2024-03-07, 06:25:43](https://news.ycombinator.com/item?id=39625651) - [The CAP theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
 * [2024-03-07, 06:25:12](https://news.ycombinator.com/item?id=39625647) - [Tintin Charter for the use of the visuals of the Hergé's Work [pdf]](https://cdn001.tintin.com/public/pressclub/pdf/charte_v3_en.pdf)
 * [2024-03-07, 06:14:34](https://news.ycombinator.com/item?id=39625594) - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
 * [2024-03-07, 05:53:48](https://news.ycombinator.com/item?id=39625471) - [BYD launches cheaper Seagull EV with $9,700 starting price tag](https://electrek.co/2024/03/06/byd-launches-cheaper-seagull-ev-9700-price/)
