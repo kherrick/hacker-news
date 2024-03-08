@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 21:13:58](https://news.ycombinator.com/item?id=39646571) - [Bazzite – The Next Generation of Linux Gaming](https://bazzite.gg/)
 * [2024-03-08, 21:01:03](https://news.ycombinator.com/item?id=39646431) - [Finley (YC W21) Is Hiring for Capital Markets Technologists](https://www.finleycms.com/careers/)
 * [2024-03-08, 20:47:52](https://news.ycombinator.com/item?id=39646267) - [Apple to reinstate Epic's developer account](https://www.pocketgamer.biz/news/83578/apple-reinstates-epic-games-developer-account-as-eus-digital-markets-act-bites/)
 * [2024-03-08, 20:31:57](https://news.ycombinator.com/item?id=39646044) - [Iterate over Parameter Packs in Swift 6.0](https://www.swift.org/blog/pack-iteration/)
@@ -19,6 +20,7 @@
 * [2024-03-08, 18:48:08](https://news.ycombinator.com/item?id=39644501) - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
 * [2024-03-08, 18:38:36](https://news.ycombinator.com/item?id=39644379) - [Google fires employee who protested Israel tech event as internal dissent mounts](https://www.cnbc.com/2024/03/08/google-fires-employee-who-protested-israel-tech-event-shuts-forum.html)
 * [2024-03-08, 18:35:42](https://news.ycombinator.com/item?id=39644341) - [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
+* [2024-03-08, 18:26:29](https://news.ycombinator.com/item?id=39644196) - [Why Tolkien Hated Dune](https://whitherthewest.com/2024/03/08/why-tolkien-hated-dune/)
 * [2024-03-08, 18:24:13](https://news.ycombinator.com/item?id=39644153) - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
 * [2024-03-08, 18:12:25](https://news.ycombinator.com/item?id=39643981) - [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
 * [2024-03-08, 18:09:58](https://news.ycombinator.com/item?id=39643951) - [NIST staffers revolt against expected appointment of Paul Cristiano to NIST](https://venturebeat.com/ai/nist-staffers-revolt-against-potential-appointment-of-effective-altruist-ai-researcher-to-us-ai-safety-institute/)
