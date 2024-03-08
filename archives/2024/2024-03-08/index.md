@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 14:38:50](https://news.ycombinator.com/item?id=39641428) - [TikTok Stunt Motivates Lawmakers to Take on the App](https://www.wsj.com/politics/policy/a-tiktok-stunt-motivates-lawmakers-to-take-on-the-app-ba989656)
+* [2024-03-08, 14:28:52](https://news.ycombinator.com/item?id=39641322) - [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
 * [2024-03-08, 14:08:23](https://news.ycombinator.com/item?id=39641167) - [How do you make an addictive video game?](https://pjvogt.substack.com/p/how-do-you-make-an-addictive-video)
+* [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
 * [2024-03-08, 13:58:20](https://news.ycombinator.com/item?id=39641091) - [Wheel Falls Off United Boeing 777](https://www.theautopian.com/wheel-falls-off-united-boeing-777-damages-multiple-cars/)
 * [2024-03-08, 13:47:13](https://news.ycombinator.com/item?id=39640992) - [Home Lab Guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 * [2024-03-08, 13:03:43](https://news.ycombinator.com/item?id=39640678) - [Claude Sonnet and Pi AI give exact same response to a prompt](https://twitter.com/seshubon/status/1765870717844050221)
