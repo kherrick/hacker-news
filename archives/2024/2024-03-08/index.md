@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 21:36:45](https://news.ycombinator.com/item?id=39646791) - [M1 MacBook Storage Upgrade to the Highest 2TB Capacity](https://vancouvermac.ca/repair/macbook-storage-upgrade/)
 * [2024-03-08, 21:25:07](https://news.ycombinator.com/item?id=39646677) - [F-35A officially certified to carry nuclear bomb](https://breakingdefense.com/2024/03/exclusive-f-35a-officially-certified-to-carry-nuclear-bomb/)
 * [2024-03-08, 21:13:58](https://news.ycombinator.com/item?id=39646571) - [Bazzite – The Next Generation of Linux Gaming](https://bazzite.gg/)
 * [2024-03-08, 21:11:20](https://news.ycombinator.com/item?id=39646549) - [Quantum Gravity Unveiled –Scientists Crack the Cosmic Code That Baffled Einstein](https://scitechdaily.com/quantum-gravity-unveiled-scientists-crack-the-cosmic-code-that-baffled-einstein/)
