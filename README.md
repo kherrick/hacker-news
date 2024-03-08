@@ -25,7 +25,7 @@
 * [2024-03-06, 12:59:10](https://news.ycombinator.com/item?id=39615465) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
 * [2024-03-06, 11:33:49](https://news.ycombinator.com/item?id=39614816) - [Thousand Character Classic](https://en.wikipedia.org/wiki/Thousand_Character_Classic)
 * [2024-03-06, 11:21:18](https://news.ycombinator.com/item?id=39614752) - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
-* [2024-03-06, 09:02:36](https://news.ycombinator.com/item?id=39613858) - [Telling a Story and Making a Point](https://clauswilke.com/dataviz/telling-a-story.html)
+* [2024-03-06, 10:25:44](https://news.ycombinator.com/item?id=39614398) - [Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)](https://plus.maths.org/content/take-break)
 * [2024-03-06, 06:33:57](https://news.ycombinator.com/item?id=39612957) - [A peculiarity of the X Window System: Windows all the way down](https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown)
 * [2024-03-06, 06:33:43](https://news.ycombinator.com/item?id=39612955) - [Ratchets over Levers](https://v5.chriskrycho.com/journal/next/role/)
 * [2024-03-06, 06:26:33](https://news.ycombinator.com/item?id=39612913) - [The Cell Programming Language](https://www.cell-lang.net/)
