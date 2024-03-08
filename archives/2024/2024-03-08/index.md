@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 18:05:58](https://news.ycombinator.com/item?id=39643894) - [Four new models that are benchmarking near or above GPT-4](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 17:33:05](https://news.ycombinator.com/item?id=39643447) - [Airbnb's Devastating Effect on Canadian Housing](https://thewalrus.ca/airbnbs-canadian-housing/)
+* [2024-03-08, 17:30:03](https://news.ycombinator.com/item?id=39643407) - [Can We Just Throw in the Towel on Airport Security Theater Already?](https://jalopnik.com/can-we-just-throw-in-the-towel-on-airport-security-thea-1851317340)
 * [2024-03-08, 17:26:06](https://news.ycombinator.com/item?id=39643359) - [Instagram overtakes TikTok as most downloaded app](https://www.theguardian.com/technology/2024/mar/08/instagram-tiktok-app-reels-video-meta)
 * [2024-03-08, 17:10:33](https://news.ycombinator.com/item?id=39643168) - [What Luddites can teach us about resisting an automated future](https://www.technologyreview.com/2024/02/28/1088262/luddites-resisting-automated-future-technology/)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
