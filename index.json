@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-08, 05:26:49",
+      "https://news.ycombinator.com/item?id=39638068"
+    ],
+    [
+      "Rathole – A lightweight reverse proxy in Rust like frp and ngrok",
+      "https://github.com/rapiz1/rathole"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 05:16:41",
+      "https://news.ycombinator.com/item?id=39638021"
+    ],
+    [
+      "Why does the `reset` command include a delay?",
+      "https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 03:38:06",
       "https://news.ycombinator.com/item?id=39637530"
     ],
@@ -97,6 +117,16 @@
     [
       "How to become a pirate archivist (2022)",
       "https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 22:38:52",
+      "https://news.ycombinator.com/item?id=39635486"
+    ],
+    [
+      "Ask HN: What underrated open source project deserves more recognition?",
+      "https://news.ycombinator.com/item?id=39635486"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2024-03-06, 10:25:44",
-      "https://news.ycombinator.com/item?id=39614398"
-    ],
-    [
-      "Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)",
-      "https://plus.maths.org/content/take-break"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 07:58:06",
       "https://news.ycombinator.com/item?id=39613448"
     ],
@@ -267,26 +287,6 @@
     [
       "A peculiarity of the X Window System: Windows all the way down",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 06:33:43",
-      "https://news.ycombinator.com/item?id=39612955"
-    ],
-    [
-      "Ratchets over Levers",
-      "https://v5.chriskrycho.com/journal/next/role/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 06:26:33",
-      "https://news.ycombinator.com/item?id=39612913"
-    ],
-    [
-      "The Cell Programming Language",
-      "https://www.cell-lang.net/"
     ]
   ],
   [
