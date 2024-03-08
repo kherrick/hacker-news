@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
 * [2024-03-08, 09:45:19](https://news.ycombinator.com/item?id=39639518) - [Spanish soldiers changing gender to female for added benefits, higher pay](https://nypost.com/2024/03/06/world-news/spanish-soldiers-changing-gender-to-female-for-added-benefits/)
+* [2024-03-08, 09:21:15](https://news.ycombinator.com/item?id=39639386) - [Show HN: A directory of open source alternatives to proprietary software](https://openalternative.co)
 * [2024-03-08, 09:19:15](https://news.ycombinator.com/item?id=39639378) - [Self Learners](https://iamautodidact.com)
 * [2024-03-08, 08:58:40](https://news.ycombinator.com/item?id=39639253) - [Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
+* [2024-03-08, 08:39:16](https://news.ycombinator.com/item?id=39639125) - [The Man in Seat 61](https://www.seat61.com)
 * [2024-03-08, 07:49:35](https://news.ycombinator.com/item?id=39638836) - [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
 * [2024-03-08, 07:41:59](https://news.ycombinator.com/item?id=39638780) - [Apple planning default navigation app setting in iOS 18 for EU users](https://9to5mac.com/2024/03/07/apple-planning-default-navigation-app-setting-in-ios-18-for-eu-users/)
 * [2024-03-08, 07:24:01](https://news.ycombinator.com/item?id=39638676) - [Show HN: Cylinder HN – View Trending Hacker News and Search Everything](https://cylinder.doforce.xyz)
