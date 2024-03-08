@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
+* [2024-03-08, 17:00:39](https://news.ycombinator.com/item?id=39643057) - [VS Code: Prompt Editor for LLMs (GPT4, Llama, Mistral, etc.)](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
 * [2024-03-08, 16:44:31](https://news.ycombinator.com/item?id=39642851) - [Doctor Replied to Your Email. That'll Cost $25](https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32)
-* [2024-03-08, 16:39:18](https://news.ycombinator.com/item?id=39642789) - [Who Still Works from Home?](https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html)
 * [2024-03-08, 16:28:11](https://news.ycombinator.com/item?id=39642671) - [NASA Unveils Design for Message Heading to Jupiter's Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
 * [2024-03-08, 15:46:34](https://news.ycombinator.com/item?id=39642135) - [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
 * [2024-03-08, 14:43:34](https://news.ycombinator.com/item?id=39641475) - [Harnessing chaos in Cloudflare offices](https://blog.cloudflare.com/harnessing-office-chaos)
@@ -20,7 +21,6 @@
 * [2024-03-08, 07:49:35](https://news.ycombinator.com/item?id=39638836) - [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing (2023)](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
-* [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://news.ycombinator.com/item?id=39632872)
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 06:25:43](https://news.ycombinator.com/item?id=39625651) - [The CAP theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
 * [2024-03-07, 01:54:32](https://news.ycombinator.com/item?id=39624223) - [In Mongolia, a killer winter is ravaging herds and a way of life](https://e360.yale.edu/features/mongolia-dzud-climate-change)
