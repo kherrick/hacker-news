@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 18:48:08](https://news.ycombinator.com/item?id=39644501) - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
 * [2024-03-08, 18:38:36](https://news.ycombinator.com/item?id=39644379) - [Google fires employee who protested Israel tech event as internal dissent mounts](https://www.cnbc.com/2024/03/08/google-fires-employee-who-protested-israel-tech-event-shuts-forum.html)
+* [2024-03-08, 18:35:42](https://news.ycombinator.com/item?id=39644341) - [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
 * [2024-03-08, 18:24:13](https://news.ycombinator.com/item?id=39644153) - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
+* [2024-03-08, 18:12:25](https://news.ycombinator.com/item?id=39643981) - [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
 * [2024-03-08, 18:09:58](https://news.ycombinator.com/item?id=39643951) - [NIST staffers revolt against expected appointment of Paul Cristiano to NIST](https://venturebeat.com/ai/nist-staffers-revolt-against-potential-appointment-of-effective-altruist-ai-researcher-to-us-ai-safety-institute/)
 * [2024-03-08, 18:05:58](https://news.ycombinator.com/item?id=39643894) - [Four new models that are benchmarking near or above GPT-4](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
