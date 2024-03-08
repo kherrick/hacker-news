@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 23:33:50](https://news.ycombinator.com/item?id=39635950) - [Inflection-2.5: meet the best personal AI](https://inflection.ai/inflection-2-5)
 * [2024-03-07, 23:20:43](https://news.ycombinator.com/item?id=39635854) - [Gemma 2B 60 tk/s WebGPU on M1](https://mediapipe-studio.webapps.google.com/studio/demo/llm_inference)
 * [2024-03-07, 23:17:51](https://news.ycombinator.com/item?id=39635827) - [Infant health suffered during baby formula shortage](https://www.ucdavis.edu/health/news/infant-health-suffered-during-baby-formula-shortage)
 * [2024-03-07, 22:17:22](https://news.ycombinator.com/item?id=39635232) - [Boeing 777 loses tire while taking off from SF, crushing cars on the ground](https://twitter.com/unusual_whales/status/1765857050188259374)
+* [2024-03-07, 22:13:33](https://news.ycombinator.com/item?id=39635202) - [Gemini and Claudes are killing RAG?](https://zilliz.com/blog/will-retrieval-augmented-generation-RAG-be-killed-by-long-context-LLMs)
 * [2024-03-07, 22:03:37](https://news.ycombinator.com/item?id=39635109) - [I miss the dumb stuff I used to write, and I hate that it's not good enough](https://old.reddit.com/r/worldbuilding/comments/1b8lszq/i_miss_the_dumb_stuff_i_used_to_write_and_i_hate/)
 * [2024-03-07, 21:54:18](https://news.ycombinator.com/item?id=39635014) - [Grats: A More Pleasant Way to Build TypeScript GraphQL Servers](https://jordaneldredge.com/blog/grats/)
 * [2024-03-07, 21:48:25](https://news.ycombinator.com/item?id=39634957) - [US salaries are falling. Employers say compensation is just 'resetting'](https://www.bbc.com/worklife/article/20240306-slowing-us-wage-growth-lower-salaries)
@@ -17,6 +19,7 @@
 * [2024-03-07, 20:51:58](https://news.ycombinator.com/item?id=39634450) - [Dynamic Printf Debugging with GDB](https://abstractexpr.com/2024/03/03/dynamic-printf-debugging-with-gdb/)
 * [2024-03-07, 20:37:31](https://news.ycombinator.com/item?id=39634297) - [Epic access to an Apple developer account was granted through a \"click through\"](https://arstechnica.com/gaming/2024/03/dma-be-damned-apple-cuts-off-path-to-epic-games-store-fortnite-on-eu-iphones/)
 * [2024-03-07, 20:29:26](https://news.ycombinator.com/item?id=39634224) - [The EU Digital Markets Act Is Here](https://element.io/blog/the-eu-digital-markets-act-is-here/)
+* [2024-03-07, 20:26:51](https://news.ycombinator.com/item?id=39634195) - [The Life and Death of the Bulbdial Clock](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)
 * [2024-03-07, 20:23:46](https://news.ycombinator.com/item?id=39634162) - [Researchers jailbreak AI chatbots with ASCII art](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries)
 * [2024-03-07, 20:02:42](https://news.ycombinator.com/item?id=39633936) - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
 * [2024-03-07, 19:39:13](https://news.ycombinator.com/item?id=39633652) - [A data-driven case for why TikTok needs to be banned before the 2024 election](https://time.com/6836078/tiktok-sold-banned-2024-election/)
