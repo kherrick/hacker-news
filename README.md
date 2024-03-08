@@ -2,6 +2,7 @@
 
 * [2024-03-08, 07:05:36](https://news.ycombinator.com/item?id=39638569) - [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
 * [2024-03-08, 06:13:24](https://news.ycombinator.com/item?id=39638282) - [The Terrifying A.I. Scam That Uses Your Loved One's Voice](https://www.newyorker.com/science/annals-of-artificial-intelligence/the-terrifying-ai-scam-that-uses-your-loved-ones-voice)
+* [2024-03-08, 06:09:51](https://news.ycombinator.com/item?id=39638264) - [Notion for Macintosh System 7](https://68kmla.org/bb/index.php?threads/notion-for-system-7.46880/)
 * [2024-03-08, 05:16:41](https://news.ycombinator.com/item?id=39638021) - [Why does the `reset` command include a delay? (2017)](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
 * [2024-03-08, 03:38:06](https://news.ycombinator.com/item?id=39637530) - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 * [2024-03-08, 03:27:06](https://news.ycombinator.com/item?id=39637487) - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
@@ -29,7 +30,6 @@
 * [2024-03-06, 11:21:18](https://news.ycombinator.com/item?id=39614752) - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
 * [2024-03-06, 07:58:06](https://news.ycombinator.com/item?id=39613448) - [When Robustly Tolerable Beats Precariously Optimal](https://www.askell.blog/when-robustly-tolerable-beats-precariously-optimal/)
 * [2024-03-06, 06:33:57](https://news.ycombinator.com/item?id=39612957) - [A peculiarity of the X Window System: Windows all the way down](https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown)
-* [2024-03-06, 06:21:47](https://news.ycombinator.com/item?id=39612885) - [Kaist develops next-generation ultra-low power LLM accelerator](https://en.yna.co.kr/view/AEN20240306003700320)
 
 ## [Archives](archives/index.md)
 
