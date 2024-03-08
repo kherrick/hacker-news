@@ -89,6 +89,7 @@
 * [2024-03-07, 09:05:26](https://news.ycombinator.com/item?id=39626813) - [OpenAI's \"Own Goal\"](https://garymarcus.substack.com/p/openais-own-goal)
 * [2024-03-07, 08:47:33](https://news.ycombinator.com/item?id=39626683) - [The Digital Markets Act is in force What happens now?](https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/)
 * [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour Is Out](https://v21.io/blog/downpour)
+* [2024-03-07, 08:28:37](https://news.ycombinator.com/item?id=39626567) - [Ask HN: 57 sales totaling $1,539 for micro-SaaS? Is the idea dead?](https://news.ycombinator.com/item?id=39626567)
 * [2024-03-07, 08:11:10](https://news.ycombinator.com/item?id=39626454) - [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
 * [2024-03-07, 07:12:33](https://news.ycombinator.com/item?id=39626033) - [Vlite – Lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
 * [2024-03-07, 07:01:42](https://news.ycombinator.com/item?id=39625919) - [Nikon to Acquire US Cinema Camera Manufacturer Red.com, LLC](https://www.nikon.com/company/news/2024/0307_01.html)

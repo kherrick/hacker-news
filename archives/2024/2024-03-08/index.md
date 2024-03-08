@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 21:01:03](https://news.ycombinator.com/item?id=39646431) - [Finley (YC W21) Is Hiring for Capital Markets Technologists](https://www.finleycms.com/careers/)
 * [2024-03-08, 20:47:52](https://news.ycombinator.com/item?id=39646267) - [Apple to reinstate Epic's developer account](https://www.pocketgamer.biz/news/83578/apple-reinstates-epic-games-developer-account-as-eus-digital-markets-act-bites/)
 * [2024-03-08, 20:31:57](https://news.ycombinator.com/item?id=39646044) - [Iterate over Parameter Packs in Swift 6.0](https://www.swift.org/blog/pack-iteration/)
 * [2024-03-08, 20:30:36](https://news.ycombinator.com/item?id=39646020) - [Uber must pay wheelchair user $35,000, provide accessible rides](https://vancouversun.com/news/local-news/bc-uber-human-rights-tribunal-ruling)
@@ -11,6 +12,7 @@
 * [2024-03-08, 20:28:14](https://news.ycombinator.com/item?id=39645982) - [Unpacking Elixir: Phoenix](https://underjord.io/unpacking-elixir-phoenix.html)
 * [2024-03-08, 19:56:52](https://news.ycombinator.com/item?id=39645575) - [Psychedelic news: The government fast-tracked LSD as an anxiety treatment](https://www.fastcompany.com/91050854/government-fast-tracked-lsd-as-anxiety-treatment-as-psychedelics-psilocybin-mdma-near-breakthrough)
 * [2024-03-08, 19:55:40](https://news.ycombinator.com/item?id=39645558) - [Just 2 cans of soda per week is too much – even if you exercise](https://nypost.com/2024/03/03/lifestyle/just-2-cans-of-soda-per-week-is-too-much-even-if-you-exercise-study/)
+* [2024-03-08, 19:45:20](https://news.ycombinator.com/item?id=39645421) - [How to Design a Tabletop Game](https://stonemaiergames.com/kickstarter/how-to-design-a-tabletop-game/)
 * [2024-03-08, 19:44:59](https://news.ycombinator.com/item?id=39645412) - [Google says the AI-focused Pixel 8 can't run its latest smartphone AI models](https://arstechnica.com/gadgets/2024/03/google-says-the-ai-focused-pixel-8-cant-run-its-latest-smartphone-ai-models/)
 * [2024-03-08, 19:14:34](https://news.ycombinator.com/item?id=39644962) - [I'm an idiot. I just gave money to kinda-scammers, not the US government](https://news.ycombinator.com/item?id=39644962)
 * [2024-03-08, 18:50:07](https://news.ycombinator.com/item?id=39644529) - [Apple Reverses Move to Ban 'Fortnite' Maker from the EU](https://www.bloomberg.com/news/articles/2024-03-08/apple-reverses-move-to-ban-fortnite-maker-from-european-union)
@@ -33,6 +35,7 @@
 * [2024-03-08, 16:44:31](https://news.ycombinator.com/item?id=39642851) - [Doctor Replied to Your Email. That'll Cost $25](https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32)
 * [2024-03-08, 16:39:18](https://news.ycombinator.com/item?id=39642789) - [Who Still Works from Home?](https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html)
 * [2024-03-08, 16:28:11](https://news.ycombinator.com/item?id=39642671) - [NASA Unveils Design for Message Heading to Jupiter's Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
+* [2024-03-08, 15:59:43](https://news.ycombinator.com/item?id=39642277) - [Countries That Close Gender Gaps See Substantial Growth Returns](https://www.imf.org/en/Blogs/Articles/2023/09/27/countries-that-close-gender-gaps-see-substantial-growth-returns)
 * [2024-03-08, 15:46:34](https://news.ycombinator.com/item?id=39642135) - [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
 * [2024-03-08, 15:40:17](https://news.ycombinator.com/item?id=39642060) - [Impostor Syndrome vs. the Dunning-Kruger Effect](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/)
 * [2024-03-08, 15:25:06](https://news.ycombinator.com/item?id=39641878) - [A 7k-Pound Car Smashed Through a Guardrail. That's Bad News for All of Us](https://slate.com/business/2024/02/car-safety-guardrails-bloat-electric-vehicles.html)
