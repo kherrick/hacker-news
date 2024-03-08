@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 10:56:30](https://news.ycombinator.com/item?id=39639903) - [The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
 * [2024-03-08, 09:45:19](https://news.ycombinator.com/item?id=39639518) - [Spanish soldiers changing gender to female for added benefits, higher pay](https://nypost.com/2024/03/06/world-news/spanish-soldiers-changing-gender-to-female-for-added-benefits/)
 * [2024-03-08, 09:21:15](https://news.ycombinator.com/item?id=39639386) - [Show HN: A directory of open source alternatives to proprietary software](https://openalternative.co)
 * [2024-03-08, 09:19:15](https://news.ycombinator.com/item?id=39639378) - [Self Learners](https://iamautodidact.com)
