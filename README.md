@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
 * [2024-03-09, 13:44:01](https://news.ycombinator.com/item?id=39651526) - [M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower](https://wccftech.com/m3-macbook-air-severely-throttles-under-load/)
+* [2024-03-09, 13:43:00](https://news.ycombinator.com/item?id=39651521) - [The Acme Klein Bottle (From Cliff Stoll and Family)](https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html)
 * [2024-03-09, 13:33:45](https://news.ycombinator.com/item?id=39651481) - [Chinese hacking documents dump offers window into pervasive state surveillance](https://apnews.com/article/china-cybersecurity-leak-document-dump-spying-aac38c75f268b72910a94881ccbb77cb)
 * [2024-03-09, 13:20:26](https://news.ycombinator.com/item?id=39651427) - [Toyota's Hybrid-First Strategy Is Delivering Big Profits](https://www.nytimes.com/2024/03/09/business/toyotas-hybrid-electric-vehicles.html)
 * [2024-03-09, 12:28:29](https://news.ycombinator.com/item?id=39651230) - [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
@@ -20,14 +22,12 @@
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
-* [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 12:45:18](https://news.ycombinator.com/item?id=39628397) - [Chiplet IP Standards Are Just the Beginning](https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/)
 * [2024-03-07, 11:22:04](https://news.ycombinator.com/item?id=39627666) - [Ask HN: Why does it seem hard to buy an ONT for fiber?](https://news.ycombinator.com/item?id=39627666)
 * [2024-03-07, 09:48:14](https://news.ycombinator.com/item?id=39627080) - [Sea Kit](https://www.sea-kit.com)
 * [2024-03-07, 09:12:26](https://news.ycombinator.com/item?id=39626867) - [Optimizing Rabin-Karp Hashing](https://mattsills.github.io/2024/03/02/rabin-karp/)
 * [2024-03-07, 09:03:01](https://news.ycombinator.com/item?id=39626798) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
 * [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour is the game creation tool I have been working on for the past few years](https://v21.io/blog/downpour)
-* [2024-03-07, 03:37:33](https://news.ycombinator.com/item?id=39624813) - [Working with Tilt/Shift Lenses (2022)](https://phillipreeve.net/blog/working-with-tilt-shift-lenses/)
 * [2024-03-06, 12:33:28](https://news.ycombinator.com/item?id=39615228) - [Orthogonal Persistence](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
 * [2024-03-06, 08:50:39](https://news.ycombinator.com/item?id=39613767) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 
