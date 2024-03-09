@@ -19,7 +19,7 @@
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
 * [2024-03-08, 09:29:10](https://news.ycombinator.com/item?id=39639427) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
-* [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+* [2024-03-07, 12:34:08](https://news.ycombinator.com/item?id=39628292) - [Claude 3 catches researchers testing it](https://newatlas.com/technology/anthropic-claude-3/)
 * [2024-03-07, 11:32:25](https://news.ycombinator.com/item?id=39627753) - [NetBSD for the Advanced Minimalist](https://www.youtube.com/watch?v=-75TQMbar1Y)
 * [2024-03-07, 10:30:09](https://news.ycombinator.com/item?id=39627321) - [Nikon to acquire RED and make it a subsidiary](https://www.canonrumors.com/nikon-to-acquire-red-and-make-it-a-subsidiary/)
 * [2024-03-07, 09:48:14](https://news.ycombinator.com/item?id=39627080) - [Sea Kit](https://www.sea-kit.com)

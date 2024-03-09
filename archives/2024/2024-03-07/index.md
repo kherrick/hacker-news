@@ -69,6 +69,7 @@
 * [2024-03-07, 13:22:46](https://news.ycombinator.com/item?id=39628732) - [Why tech job interviews became such a nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
 * [2024-03-07, 13:19:00](https://news.ycombinator.com/item?id=39628696) - [The Brotherhood of Morons](https://ludic.mataroa.blog/blog/the-brotherhood-of-morons/)
 * [2024-03-07, 13:18:29](https://news.ycombinator.com/item?id=39628689) - [Fedora Workstation 41 to No Longer Install Gnome X.org Session by Default](https://www.phoronix.com/news/Fedora-41-No-GNOME-Xorg-Install)
+* [2024-03-07, 12:34:08](https://news.ycombinator.com/item?id=39628292) - [Claude 3 catches researchers testing it](https://newatlas.com/technology/anthropic-claude-3/)
 * [2024-03-07, 12:33:36](https://news.ycombinator.com/item?id=39628285) - [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
 * [2024-03-07, 12:24:10](https://news.ycombinator.com/item?id=39628199) - [On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out](https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/)
 * [2024-03-07, 12:07:20](https://news.ycombinator.com/item?id=39628064) - [Total Functional Programming (2004) [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
