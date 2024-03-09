@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-09, 09:15:05](https://news.ycombinator.com/item?id=39650498) - [Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
+* [2024-03-09, 09:14:50](https://news.ycombinator.com/item?id=39650497) - [Planet Vulcan](https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet))
+* [2024-03-09, 08:46:40](https://news.ycombinator.com/item?id=39650398) - [RC4 with a Deck of Cards](https://www.mail-archive.com/cryptography@wasabisystems.com/msg00065.html)
 * [2024-03-09, 05:44:13](https://news.ycombinator.com/item?id=39649684) - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
-* [2024-03-09, 04:57:15](https://news.ycombinator.com/item?id=39649486) - [The Suicide PhD Candidate Huixiang Chen (2019)](https://huixiangvoice.medium.com/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3)
 * [2024-03-09, 03:15:16](https://news.ycombinator.com/item?id=39649126) - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 * [2024-03-09, 01:46:43](https://news.ycombinator.com/item?id=39648689) - [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
 * [2024-03-09, 00:45:07](https://news.ycombinator.com/item?id=39648259) - [TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
@@ -10,7 +11,6 @@
 * [2024-03-08, 22:35:01](https://news.ycombinator.com/item?id=39647331) - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
 * [2024-03-08, 22:15:10](https://news.ycombinator.com/item?id=39647164) - [Show HN: My AI writing assistant for Chinese](https://unscrambler.dpw.me/)
 * [2024-03-08, 22:07:19](https://news.ycombinator.com/item?id=39647105) - [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
-* [2024-03-08, 21:01:03](https://news.ycombinator.com/item?id=39646431) - [Finley (YC W21) is hiring capital markets technologists](https://www.finleycms.com/careers/)
 * [2024-03-08, 18:12:25](https://news.ycombinator.com/item?id=39643981) - [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
 * [2024-03-08, 18:10:35](https://news.ycombinator.com/item?id=39643958) - [Piano on Paper](https://github.com/Mayuresh1611/Paper-Piano)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: Wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
