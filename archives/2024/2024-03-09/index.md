@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 17:19:44](https://news.ycombinator.com/item?id=39653125) - [FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder](https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder)
+* [2024-03-09, 17:17:17](https://news.ycombinator.com/item?id=39653111) - [What happens to an aluminum block when 0.5 ounce of plastic hits it in space](https://www.physicsforums.com/threads/this-is-what-happens-to-an-aluminum-block-when-it-hits.976599/)
 * [2024-03-09, 17:01:27](https://news.ycombinator.com/item?id=39652986) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39652986)
 * [2024-03-09, 16:56:25](https://news.ycombinator.com/item?id=39652946) - [Why do people bother with open source?](https://bunkum.us/2024/03/08/open-source-desires.html)
 * [2024-03-09, 16:55:50](https://news.ycombinator.com/item?id=39652938) - [One fan spent three years saving a Final Fantasy game before it shut down](https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix)
