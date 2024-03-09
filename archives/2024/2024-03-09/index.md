@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 18:43:29](https://news.ycombinator.com/item?id=39653805) - [Getting started as an alternative app marketplace in the European Union](https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/)
+* [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno](https://www.usebruno.com/)
+* [2024-03-09, 18:20:31](https://news.ycombinator.com/item?id=39653662) - [Digital Audio Mixer Pt.2](https://blog.brixit.nl/digital-audio-mixer-pt-2/)
 * [2024-03-09, 18:18:44](https://news.ycombinator.com/item?id=39653652) - [How fast can we process a CSV file](https://datapythonista.me/blog/how-fast-can-we-process-a-csv-file)
 * [2024-03-09, 18:17:18](https://news.ycombinator.com/item?id=39653644) - [The AI threats to climate change report [pdf]](https://foe.org/wp-content/uploads/2024/03/AI_Climate_Disinfo_v4_030124.pdf)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
+* [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
 * [2024-03-09, 17:23:09](https://news.ycombinator.com/item?id=39653155) - [Top US cybersecurity agency hacked and forced to take some systems offline](https://edition.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
 * [2024-03-09, 17:19:44](https://news.ycombinator.com/item?id=39653125) - [FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder](https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder)
 * [2024-03-09, 17:17:17](https://news.ycombinator.com/item?id=39653111) - [What happens to an aluminum block when 0.5 ounce of plastic hits it in space](https://www.physicsforums.com/threads/this-is-what-happens-to-an-aluminum-block-when-it-hits.976599/)
