@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-09, 01:40:21](https://news.ycombinator.com/item?id=39648643) - [How Head Works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
+* [2024-03-09, 01:40:21](https://news.ycombinator.com/item?id=39648643) - [How HEAD works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
 * [2024-03-09, 00:45:07](https://news.ycombinator.com/item?id=39648259) - [Open-Source Screen Recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
 * [2024-03-09, 00:37:41](https://news.ycombinator.com/item?id=39648218) - [Motorola's legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
-* [2024-03-09, 00:11:50](https://news.ycombinator.com/item?id=39648075) - [Tesla starts shipping $3k Cybertruck tent, looks nothing like what was unveiled](https://electrek.co/2024/03/08/tesla-shipping-cybertruck-tent/)
 * [2024-03-08, 23:13:45](https://news.ycombinator.com/item?id=39647681) - [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
 * [2024-03-08, 22:35:01](https://news.ycombinator.com/item?id=39647331) - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
 * [2024-03-08, 22:15:10](https://news.ycombinator.com/item?id=39647164) - [Show HN: My AI writing assistant for Chinese](https://unscrambler.dpw.me/)
@@ -21,6 +20,7 @@
 * [2024-03-08, 14:01:54](https://news.ycombinator.com/item?id=39641113) - [Fishing for oil and meat drives defaunation of deepwater sharks and rays](https://www.science.org/doi/10.1126/science.ade9121)
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
 * [2024-03-08, 13:47:13](https://news.ycombinator.com/item?id=39640992) - [Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
+* [2024-03-08, 12:58:36](https://news.ycombinator.com/item?id=39640647) - [Self-control signals and affords power](https://today.ucsd.edu/story/having-self-control-leads-to-power)
 * [2024-03-08, 09:29:10](https://news.ycombinator.com/item?id=39639427) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
