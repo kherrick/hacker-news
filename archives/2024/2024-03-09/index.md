@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 13:44:01](https://news.ycombinator.com/item?id=39651526) - [M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower](https://wccftech.com/m3-macbook-air-severely-throttles-under-load/)
+* [2024-03-09, 13:20:26](https://news.ycombinator.com/item?id=39651427) - [Toyota's Hybrid-First Strategy Is Delivering Big Profits](https://www.nytimes.com/2024/03/09/business/toyotas-hybrid-electric-vehicles.html)
 * [2024-03-09, 13:03:39](https://news.ycombinator.com/item?id=39651357) - [Tank Museum in U.K. Playing Big Role in Keeping Ukraine's Armor on Track](https://www.twz.com/news-features/little-tank-museum-in-u-k-playing-big-role-in-keeping-ukraines-armor-on-track)
 * [2024-03-09, 12:28:29](https://news.ycombinator.com/item?id=39651230) - [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
 * [2024-03-09, 12:15:24](https://news.ycombinator.com/item?id=39651177) - [Create Virtual USB Sticks with a Raspberry Pi Zero](https://hackaday.com/2024/03/09/create-virtual-usb-sticks-with-a-raspberry-pi-zero/)
@@ -13,6 +15,7 @@
 * [2024-03-09, 10:37:16](https://news.ycombinator.com/item?id=39650792) - [SQLite on macOS: Not ACID compliant with the bundled version (2022)](https://bonsaidb.io/blog/acid-on-apple/)
 * [2024-03-09, 10:36:25](https://news.ycombinator.com/item?id=39650788) - [SuperC: Parsing All of C by Taming the Preprocessor [pdf]](https://paulgazzillo.com/papers/pldi12.pdf)
 * [2024-03-09, 10:05:43](https://news.ycombinator.com/item?id=39650669) - [Why Rust is good for working with Strings](https://old.reddit.com/r/rust/comments/1ba4d6p/why_is_rust_good_for_working_with_strings/)
+* [2024-03-09, 09:49:50](https://news.ycombinator.com/item?id=39650606) - [Engineer bought prison laptop and 1,200 incarcerated folks lost their devices](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/)
 * [2024-03-09, 09:15:05](https://news.ycombinator.com/item?id=39650498) - [Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 09:14:50](https://news.ycombinator.com/item?id=39650497) - [Planet Vulcan](https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet))
 * [2024-03-09, 09:13:03](https://news.ycombinator.com/item?id=39650489) - [Anomalous contribution to galactic rotation curves due to stochastic spacetime](https://arxiv.org/abs/2402.19459)
