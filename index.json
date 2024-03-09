@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-09, 13:44:01",
+      "https://news.ycombinator.com/item?id=39651526"
+    ],
+    [
+      "M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower",
+      "https://wccftech.com/m3-macbook-air-severely-throttles-under-load/"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 13:20:26",
+      "https://news.ycombinator.com/item?id=39651427"
+    ],
+    [
+      "Toyota's Hybrid-First Strategy Is Delivering Big Profits",
+      "https://www.nytimes.com/2024/03/09/business/toyotas-hybrid-electric-vehicles.html"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 12:28:29",
       "https://news.ycombinator.com/item?id=39651230"
     ],
@@ -37,6 +57,16 @@
     [
       "SuperC: Parsing All of C by Taming the Preprocessor [pdf] (2012)",
       "https://paulgazzillo.com/papers/pldi12.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 09:49:50",
+      "https://news.ycombinator.com/item?id=39650606"
+    ],
+    [
+      "Engineer bought prison laptop and 1,200 incarcerated folks lost their devices",
+      "https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-03-08, 16:07:29",
-      "https://news.ycombinator.com/item?id=39642390"
-    ],
-    [
-      "Show HN: A talking board game in a 2k program and 128 bytes of RAM",
-      "https://s3-eu-west-1.amazonaws.com/makapufprojects/oie/doc.html"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 14:00:09",
       "https://news.ycombinator.com/item?id=39641105"
     ],
@@ -187,16 +207,6 @@
     [
       "Fine tune a 70B language model at home",
       "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 18:38:22",
-      "https://news.ycombinator.com/item?id=39632872"
-    ],
-    [
-      "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
-      "https://news.ycombinator.com/item?id=39632872"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Downpour is the game creation tool I have been working on for the past few years",
       "https://v21.io/blog/downpour"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 03:37:33",
-      "https://news.ycombinator.com/item?id=39624813"
-    ],
-    [
-      "Working with Tilt/Shift Lenses (2022)",
-      "https://phillipreeve.net/blog/working-with-tilt-shift-lenses/"
     ]
   ],
   [
