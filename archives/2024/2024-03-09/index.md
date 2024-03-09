@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 18:18:44](https://news.ycombinator.com/item?id=39653652) - [How fast can we process a CSV file](https://datapythonista.me/blog/how-fast-can-we-process-a-csv-file)
+* [2024-03-09, 17:23:09](https://news.ycombinator.com/item?id=39653155) - [Top US cybersecurity agency hacked and forced to take some systems offline](https://edition.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
 * [2024-03-09, 17:19:44](https://news.ycombinator.com/item?id=39653125) - [FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder](https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder)
 * [2024-03-09, 17:17:17](https://news.ycombinator.com/item?id=39653111) - [What happens to an aluminum block when 0.5 ounce of plastic hits it in space](https://www.physicsforums.com/threads/this-is-what-happens-to-an-aluminum-block-when-it-hits.976599/)
 * [2024-03-09, 17:14:55](https://news.ycombinator.com/item?id=39653086) - [Phalanx's Twilight, Legion's Triumph, Part IIIb: Pyrrhus](https://acoup.blog/2024/03/08/collections-phalanxs-twilight-legions-triumph-part-iiib-pyrrhus/)
