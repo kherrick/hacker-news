@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-09, 13:03:39",
-      "https://news.ycombinator.com/item?id=39651357"
-    ],
-    [
-      "Tank Museum in U.K. Playing Big Role in Keeping Ukraine's Armor on Track",
-      "https://www.twz.com/news-features/little-tank-museum-in-u-k-playing-big-role-in-keeping-ukraines-armor-on-track"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 12:28:29",
       "https://news.ycombinator.com/item?id=39651230"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39650788"
     ],
     [
-      "SuperC: Parsing All of C by Taming the Preprocessor [pdf]",
+      "SuperC: Parsing All of C by Taming the Preprocessor [pdf] (2012)",
       "https://paulgazzillo.com/papers/pldi12.pdf"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Fine tune a 70B language model at home",
       "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 18:38:22",
+      "https://news.ycombinator.com/item?id=39632872"
+    ],
+    [
+      "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
+      "https://news.ycombinator.com/item?id=39632872"
     ]
   ],
   [
