@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-03-09, 01:40:21",
+      "https://news.ycombinator.com/item?id=39648643"
+    ],
+    [
+      "How Head Works in Git",
+      "https://jvns.ca/blog/2024/03/08/how-head-works-in-git/"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 00:59:43",
       "https://news.ycombinator.com/item?id=39648344"
     ],
     [
       "Apple will cut off 3rd-party appstore updates if iPhone is not in EU for a month",
       "https://www.theverge.com/2024/3/7/24093437/apple-iphone-third-party-app-store-dma-eu"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 00:45:07",
+      "https://news.ycombinator.com/item?id=39648259"
+    ],
+    [
+      "Open-Source Screen Recorder",
+      "https://github.com/wkaisertexas/ScreenTimeLapse"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-03-08, 14:01:54",
-      "https://news.ycombinator.com/item?id=39641113"
-    ],
-    [
-      "Fishing for oil and meat drives defaunation of deepwater sharks and rays",
-      "https://www.science.org/doi/10.1126/science.ade9121"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 14:00:09",
       "https://news.ycombinator.com/item?id=39641105"
     ],
@@ -197,16 +207,6 @@
     [
       "Home Lab Beginners guide",
       "https://linuxblog.io/home-lab-beginners-guide-hardware/"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 12:58:36",
-      "https://news.ycombinator.com/item?id=39640647"
-    ],
-    [
-      "Self-control signals and affords power",
-      "https://today.ucsd.edu/story/having-self-control-leads-to-power"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-03-07, 13:52:16",
-      "https://news.ycombinator.com/item?id=39629044"
+      "2024-03-07, 09:03:01",
+      "https://news.ycombinator.com/item?id=39626798"
     ],
     [
-      "Eloquent JavaScript 4th edition (2024)",
-      "https://eloquentjavascript.net/"
+      "Towards zero-downtime upgrades of stateful systems",
+      "https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html"
     ]
   ],
   [
