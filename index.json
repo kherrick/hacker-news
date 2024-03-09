@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-09, 18:18:44",
+      "https://news.ycombinator.com/item?id=39653652"
+    ],
+    [
+      "How fast can we process a CSV file",
+      "https://datapythonista.me/blog/how-fast-can-we-process-a-csv-file"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 17:23:09",
+      "https://news.ycombinator.com/item?id=39653155"
+    ],
+    [
+      "Top US cybersecurity agency hacked and forced to take some systems offline",
+      "https://edition.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 17:19:44",
       "https://news.ycombinator.com/item?id=39653125"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-03-07, 22:38:49",
-      "https://news.ycombinator.com/item?id=39635483"
-    ],
-    [
-      "Fine tune a 70B language model at home",
-      "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 13:49:38",
       "https://news.ycombinator.com/item?id=39629004"
     ],
@@ -287,16 +297,6 @@
     [
       "Sea Kit",
       "https://www.sea-kit.com"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 12:33:28",
-      "https://news.ycombinator.com/item?id=39615228"
-    ],
-    [
-      "Orthogonal Persistence",
-      "https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md"
     ]
   ]
 ]
