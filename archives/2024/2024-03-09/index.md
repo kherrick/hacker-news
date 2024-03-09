@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
 * [2024-03-09, 14:54:38](https://news.ycombinator.com/item?id=39651960) - [The Obscene Energy Demands of A.I](https://www.newyorker.com/news/daily-comment/the-obscene-energy-demands-of-ai)
+* [2024-03-09, 14:51:40](https://news.ycombinator.com/item?id=39651938) - [Waymo's Double-Crash with Pickup Truck, Cyclist and Arson Examined](https://www.forbes.com/sites/bradtempleton/2024/03/05/waymos-double-crash-with-pickup-trucks-and-more-examined/)
 * [2024-03-09, 14:20:45](https://news.ycombinator.com/item?id=39651718) - [Korean researchers' neural AI chip: 625 times less power draw, 41 times smaller](https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller)
 * [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
 * [2024-03-09, 14:07:33](https://news.ycombinator.com/item?id=39651629) - [Gallery of Simple Websites](https://deadsimplesites.com/)
