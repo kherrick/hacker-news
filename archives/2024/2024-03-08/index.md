@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 23:13:45](https://news.ycombinator.com/item?id=39647681) - [Fear of regret influences our decisions](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
 * [2024-03-08, 22:53:35](https://news.ycombinator.com/item?id=39647491) - [OpenAI: OpenAI announces new members to board of directors](https://openai.com/blog/openai-announces-new-members-to-board-of-directors)
 * [2024-03-08, 22:53:06](https://news.ycombinator.com/item?id=39647488) - [Review completed and Altman, Brockman to continue to lead OpenAI](https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai)
 * [2024-03-08, 22:35:01](https://news.ycombinator.com/item?id=39647331) - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)

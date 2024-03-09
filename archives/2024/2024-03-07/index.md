@@ -109,6 +109,7 @@
 * [2024-03-07, 03:52:47](https://news.ycombinator.com/item?id=39624886) - [Well-Known URIs](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml)
 * [2024-03-07, 03:49:24](https://news.ycombinator.com/item?id=39624873) - [The fastest tool for measuring anything on your screen](https://getpixelsnap.com/)
 * [2024-03-07, 03:42:47](https://news.ycombinator.com/item?id=39624842) - [Leadership is a hell of a drug](https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/)
+* [2024-03-07, 03:37:33](https://news.ycombinator.com/item?id=39624813) - [Working with Tilt/Shift Lenses (2022)](https://phillipreeve.net/blog/working-with-tilt-shift-lenses/)
 * [2024-03-07, 03:33:00](https://news.ycombinator.com/item?id=39624788) - [Arctic will be ice-free within a decade](https://www.colorado.edu/today/2024/03/05/arctic-could-become-ice-free-within-decade)
 * [2024-03-07, 02:38:06](https://news.ycombinator.com/item?id=39624492) - [Dropping GNOME's X11 session approved for Fedora 41](https://pagure.io/fedora-workstation/issue/414#comment-899128)
 * [2024-03-07, 02:30:57](https://news.ycombinator.com/item?id=39624464) - [Signs you're about to be acquired (2020)](https://yolken.net/blog/youre-about-to-be-acquired)
