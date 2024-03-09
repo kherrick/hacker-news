@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-03-09, 18:33:22",
-      "https://news.ycombinator.com/item?id=39653741"
-    ],
-    [
-      "Let's give the Mac Classic 4 megs of RAM [video]",
-      "https://www.youtube.com/watch?v=_iE-CKcyR2E"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 18:29:56",
       "https://news.ycombinator.com/item?id=39653718"
     ],
     [
-      "Bruno",
+      "Bruno: Fast and Git-friendly open-source API client (Postman alternative)",
       "https://www.usebruno.com/"
     ]
   ],
@@ -101,6 +91,16 @@
   ],
   [
     [
+      "2024-03-09, 16:09:32",
+      "https://news.ycombinator.com/item?id=39652572"
+    ],
+    [
+      "How to Lose Control of Your Shell",
+      "https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 15:50:12",
       "https://news.ycombinator.com/item?id=39652422"
     ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39651926"
     ],
     [
-      "An All-Optical General-Purpose CPU and Optical Computer Architecture",
+      "An all-optical general-purpose CPU and optical computer architecture",
       "https://arxiv.org/abs/2403.00045"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=39651356"
     ],
     [
-      "What Cannot Be Skipped About the Skiplist: A Survey of Skiplists and Their Appl",
+      "What Cannot be Skipped About the Skiplist",
       "https://arxiv.org/abs/2403.04582"
     ]
   ],
