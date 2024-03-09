@@ -85,6 +85,7 @@
 * [2024-03-07, 10:14:45](https://news.ycombinator.com/item?id=39627240) - [EU Probes Apple's Decision to Shut Down Epic's Developer Account](https://www.macrumors.com/2024/03/07/eu-probes-apple-termination-epic-account/)
 * [2024-03-07, 10:14:25](https://news.ycombinator.com/item?id=39627238) - [Apple calls Epic 'verifiably untrustworthy' and blocks Fortnite and App store](https://www.gamesindustry.biz/apple-calls-epic-verifiably-untrustworthy-and-blocks-bid-to-launch-fortnite-and-mobile-store-on-ios)
 * [2024-03-07, 10:04:24](https://news.ycombinator.com/item?id=39627178) - [Astronaut Candidate](https://www.usajobs.gov/job/779261100)
+* [2024-03-07, 09:48:14](https://news.ycombinator.com/item?id=39627080) - [Sea Kit](https://www.sea-kit.com)
 * [2024-03-07, 09:27:11](https://news.ycombinator.com/item?id=39626955) - [Apple's exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
 * [2024-03-07, 09:12:26](https://news.ycombinator.com/item?id=39626867) - [Optimizating Rabin-Karp Hashing](https://mattsills.github.io/2024/03/02/rabin-karp/)
 * [2024-03-07, 09:05:26](https://news.ycombinator.com/item?id=39626813) - [OpenAI's \"Own Goal\"](https://garymarcus.substack.com/p/openais-own-goal)
