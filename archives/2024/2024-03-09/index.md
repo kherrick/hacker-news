@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 17:01:27](https://news.ycombinator.com/item?id=39652986) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39652986)
+* [2024-03-09, 16:55:50](https://news.ycombinator.com/item?id=39652938) - [One fan spent three years saving a Final Fantasy game before it shut down](https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix)
 * [2024-03-09, 16:20:51](https://news.ycombinator.com/item?id=39652667) - [An ALS Drug Fails. Again](https://www.science.org/content/blog-post/als-drug-fails-again)
 * [2024-03-09, 16:09:32](https://news.ycombinator.com/item?id=39652572) - [How to Lose Control of Your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 * [2024-03-09, 15:34:12](https://news.ycombinator.com/item?id=39652262) - [AI-Generated Data Can Poison Future AI Models](https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/)
