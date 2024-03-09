@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-09, 01:40:21",
-      "https://news.ycombinator.com/item?id=39648643"
+      "2024-03-09, 02:24:51",
+      "https://news.ycombinator.com/item?id=39648902"
     ],
     [
-      "How HEAD works in Git",
-      "https://jvns.ca/blog/2024/03/08/how-head-works-in-git/"
+      "Top US cybersecurity agency hacked and forced to take some systems offline",
+      "https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 01:46:43",
+      "https://news.ycombinator.com/item?id=39648689"
+    ],
+    [
+      "Building an Information Retrieval System with One Large Language Model",
+      "https://arxiv.org/abs/2403.00801"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-03-08, 14:01:54",
-      "https://news.ycombinator.com/item?id=39641113"
-    ],
-    [
-      "Fishing for oil and meat drives defaunation of deepwater sharks and rays",
-      "https://www.science.org/doi/10.1126/science.ade9121"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 14:00:09",
       "https://news.ycombinator.com/item?id=39641105"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-03-07, 18:38:22",
-      "https://news.ycombinator.com/item?id=39632872"
-    ],
-    [
-      "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
-      "https://news.ycombinator.com/item?id=39632872"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 13:52:16",
       "https://news.ycombinator.com/item?id=39629044"
     ],
     [
       "Eloquent JavaScript 4th edition (2024)",
       "https://eloquentjavascript.net/"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 09:12:26",
+      "https://news.ycombinator.com/item?id=39626867"
+    ],
+    [
+      "Optimizating Rabin-Karp Hashing",
+      "https://mattsills.github.io/2024/03/02/rabin-karp/"
     ]
   ],
   [
