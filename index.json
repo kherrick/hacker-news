@@ -1,46 +1,6 @@
 [
   [
     [
-      "2024-03-09, 10:05:43",
-      "https://news.ycombinator.com/item?id=39650669"
-    ],
-    [
-      "Why Rust is good for working with Strings",
-      "https://old.reddit.com/r/rust/comments/1ba4d6p/why_is_rust_good_for_working_with_strings/"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 09:15:05",
-      "https://news.ycombinator.com/item?id=39650498"
-    ],
-    [
-      "Apple curl security incident 12604",
-      "https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 09:14:50",
-      "https://news.ycombinator.com/item?id=39650497"
-    ],
-    [
-      "Planet Vulcan",
-      "https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet)"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 08:46:40",
-      "https://news.ycombinator.com/item?id=39650398"
-    ],
-    [
-      "RC4 with a Deck of Cards",
-      "https://www.mail-archive.com/cryptography@wasabisystems.com/msg00065.html"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 05:44:13",
       "https://news.ycombinator.com/item?id=39649684"
     ],
@@ -121,6 +81,16 @@
   ],
   [
     [
+      "2024-03-08, 21:32:30",
+      "https://news.ycombinator.com/item?id=39646749"
+    ],
+    [
+      "Coroutines in JavaScript for web components",
+      "https://lorenzofox.dev/posts/component-as-infinite-loop/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 21:01:03",
       "https://news.ycombinator.com/item?id=39646431"
     ],
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2024-03-08, 15:46:34",
+      "https://news.ycombinator.com/item?id=39642135"
+    ],
+    [
+      "Superconductivity scandal: the story of deception in a physics lab",
+      "https://www.nature.com/articles/d41586-024-00716-2"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 14:00:09",
       "https://news.ycombinator.com/item?id=39641105"
     ],
@@ -191,32 +171,62 @@
   ],
   [
     [
+      "2024-03-08, 13:47:13",
+      "https://news.ycombinator.com/item?id=39640992"
+    ],
+    [
+      "Home Lab Beginners guide",
+      "https://linuxblog.io/home-lab-beginners-guide-hardware/"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 09:29:10",
+      "https://news.ycombinator.com/item?id=39639427"
+    ],
+    [
+      "Making Friends with AttributeGraph",
+      "https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 22:38:49",
+      "https://news.ycombinator.com/item?id=39635483"
+    ],
+    [
+      "Fine tune a 70B language model at home",
+      "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 18:38:22",
+      "https://news.ycombinator.com/item?id=39632872"
+    ],
+    [
+      "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
+      "https://news.ycombinator.com/item?id=39632872"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 13:52:16",
+      "https://news.ycombinator.com/item?id=39629044"
+    ],
+    [
+      "Eloquent JavaScript 4th edition (2024)",
+      "https://eloquentjavascript.net/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 12:45:18",
       "https://news.ycombinator.com/item?id=39628397"
     ],
     [
       "Chiplet IP Standards Are Just the Beginning",
       "https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 12:34:08",
-      "https://news.ycombinator.com/item?id=39628292"
-    ],
-    [
-      "Claude 3 catches researchers testing it",
-      "https://newatlas.com/technology/anthropic-claude-3/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 11:32:25",
-      "https://news.ycombinator.com/item?id=39627753"
-    ],
-    [
-      "NetBSD for the Advanced Minimalist",
-      "https://www.youtube.com/watch?v=-75TQMbar1Y"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Working with Tilt/Shift Lenses (2022)",
       "https://phillipreeve.net/blog/working-with-tilt-shift-lenses/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 13:18:50",
-      "https://news.ycombinator.com/item?id=39615643"
-    ],
-    [
-      "The deep sea is filled with treasure, but it comes at a price",
-      "https://www.newyorker.com/magazine/2021/06/21/the-deep-sea-is-filled-with-treasure-but-it-comes-at-a-price"
     ]
   ],
   [
