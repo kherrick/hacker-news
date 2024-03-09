@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-09, 21:17:33](https://news.ycombinator.com/item?id=39654815) - [100 Years of Rent Control in Sweden](https://www.betonit.ai/p/100-years-of-rent-control-in-sweden)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
-* [2024-03-09, 20:54:58](https://news.ycombinator.com/item?id=39654656) - [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
 * [2024-03-09, 20:47:34](https://news.ycombinator.com/item?id=39654606) - [The Programmer's Apprentice Project: A Research Overview (1987) [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 * [2024-03-09, 20:37:31](https://news.ycombinator.com/item?id=39654538) - [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
+* [2024-03-09, 20:02:51](https://news.ycombinator.com/item?id=39654320) - [Cells from Pregnancy Fluid Used to Grow Mini Lungs, Organs](https://apnews.com/article/mini-organs-organoids-amniotic-fluid-fetus-f5a48564368d2cf383a7eac1371d67cf)
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
@@ -28,7 +29,6 @@
 * [2024-03-08, 12:50:46](https://news.ycombinator.com/item?id=39640588) - [Solar Storm Rendering](https://jakubtomsu.github.io/posts/solar_storm_renderer/)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 * [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
-* [2024-03-07, 12:45:18](https://news.ycombinator.com/item?id=39628397) - [Chiplet IP Standards Are Just the Beginning](https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/)
 * [2024-03-07, 12:35:07](https://news.ycombinator.com/item?id=39628304) - [Wikipedia over DNS (2008)](https://dgl.cx/wikipedia-dns)
 
 ## [Archives](archives/index.md)

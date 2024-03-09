@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 21:17:33](https://news.ycombinator.com/item?id=39654815) - [100 Years of Rent Control in Sweden](https://www.betonit.ai/p/100-years-of-rent-control-in-sweden)
 * [2024-03-09, 21:10:45](https://news.ycombinator.com/item?id=39654771) - [Legal row could force mystery artist Banksy to reveal his real name](https://www.theguardian.com/artanddesign/2024/mar/09/legal-row-banksy-reveal-real-name-art-images-authenticity)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-03-09, 20:54:58](https://news.ycombinator.com/item?id=39654656) - [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
 * [2024-03-09, 20:47:34](https://news.ycombinator.com/item?id=39654606) - [The Programmer's Apprentice Project: A Research Overview (1987) [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 * [2024-03-09, 20:37:31](https://news.ycombinator.com/item?id=39654538) - [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
+* [2024-03-09, 20:02:51](https://news.ycombinator.com/item?id=39654320) - [Cells from Pregnancy Fluid Used to Grow Mini Lungs, Organs](https://apnews.com/article/mini-organs-organoids-amniotic-fluid-fetus-f5a48564368d2cf383a7eac1371d67cf)
 * [2024-03-09, 19:21:29](https://news.ycombinator.com/item?id=39654060) - [Midnight Blizzard Attack on Microsoft is ongoing](https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:43:29](https://news.ycombinator.com/item?id=39653805) - [Getting started as an alternative app marketplace in the European Union](https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/)
