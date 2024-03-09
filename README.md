@@ -10,7 +10,6 @@
 * [2024-03-09, 16:57:39](https://news.ycombinator.com/item?id=39652956) - [Show HN: bef – a tool that encodes/decodes interleaved erasure coded streams](https://github.com/gbletr42/bef)
 * [2024-03-09, 16:55:47](https://news.ycombinator.com/item?id=39652937) - [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
 * [2024-03-09, 16:20:51](https://news.ycombinator.com/item?id=39652667) - [An ALS Drug Fails. Again](https://www.science.org/content/blog-post/als-drug-fails-again)
-* [2024-03-09, 16:09:32](https://news.ycombinator.com/item?id=39652572) - [How to Lose Control of Your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 * [2024-03-09, 15:50:12](https://news.ycombinator.com/item?id=39652422) - [Show HN: Schedule iMessage Texts from .txt Files](https://github.com/reidjs/schedule-texts-from-txt)
 * [2024-03-09, 15:34:12](https://news.ycombinator.com/item?id=39652262) - [AI-Generated Data Can Poison Future AI Models](https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/)
 * [2024-03-09, 15:19:41](https://news.ycombinator.com/item?id=39652139) - [Antarctic Explorers Wrote Cute, Funny Stories to Hide Dangerous Stunts](https://www.atlasobscura.com/articles/antarctica-book-and-newspapers)
@@ -30,6 +29,7 @@
 * [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
 * [2024-03-07, 13:09:31](https://news.ycombinator.com/item?id=39628608) - [Earliest forest discovered, scientists say](https://www.bbc.co.uk/news/science-environment-68500649)
 * [2024-03-07, 12:45:18](https://news.ycombinator.com/item?id=39628397) - [Chiplet IP Standards Are Just the Beginning](https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/)
+* [2024-03-07, 12:35:07](https://news.ycombinator.com/item?id=39628304) - [Wikipedia over DNS (2008)](https://dgl.cx/wikipedia-dns)
 
 ## [Archives](archives/index.md)
 

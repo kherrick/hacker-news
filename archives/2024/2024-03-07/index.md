@@ -74,6 +74,7 @@
 * [2024-03-07, 13:18:29](https://news.ycombinator.com/item?id=39628689) - [Fedora Workstation 41 to No Longer Install Gnome X.org Session by Default](https://www.phoronix.com/news/Fedora-41-No-GNOME-Xorg-Install)
 * [2024-03-07, 13:09:31](https://news.ycombinator.com/item?id=39628608) - [Earliest forest discovered, scientists say](https://www.bbc.co.uk/news/science-environment-68500649)
 * [2024-03-07, 12:45:18](https://news.ycombinator.com/item?id=39628397) - [Chiplet IP Standards Are Just the Beginning](https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/)
+* [2024-03-07, 12:35:07](https://news.ycombinator.com/item?id=39628304) - [Wikipedia over DNS (2008)](https://dgl.cx/wikipedia-dns)
 * [2024-03-07, 12:34:08](https://news.ycombinator.com/item?id=39628292) - [Claude 3 catches researchers testing it](https://newatlas.com/technology/anthropic-claude-3/)
 * [2024-03-07, 12:33:36](https://news.ycombinator.com/item?id=39628285) - [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
 * [2024-03-07, 12:24:10](https://news.ycombinator.com/item?id=39628199) - [On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out](https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/)
