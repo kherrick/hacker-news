@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
 * [2024-03-09, 19:21:29](https://news.ycombinator.com/item?id=39654060) - [Midnight Blizzard Attack on Microsoft is ongoing](https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
+* [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:43:29](https://news.ycombinator.com/item?id=39653805) - [Getting started as an alternative app marketplace in the European Union](https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/)
 * [2024-03-09, 18:33:22](https://news.ycombinator.com/item?id=39653741) - [Let's give the Mac Classic 4 megs of RAM [video]](https://www.youtube.com/watch?v=_iE-CKcyR2E)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno](https://www.usebruno.com/)
@@ -14,6 +15,8 @@
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
 * [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
 * [2024-03-09, 17:57:56](https://news.ycombinator.com/item?id=39653469) - [Essential Tremor Linked to Tripled Risk of Dementia, Study Finds](https://scienceblog.com/542898/essential-tremor-linked-to-tripled-risk-of-dementia-study-finds/)
+* [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
+* [2024-03-09, 17:24:33](https://news.ycombinator.com/item?id=39653163) - [Privacy-respecting software alternatives, compared and analyzed](https://github.com/Lissy93/awesome-privacy)
 * [2024-03-09, 17:23:09](https://news.ycombinator.com/item?id=39653155) - [Top US cybersecurity agency hacked and forced to take some systems offline](https://edition.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
 * [2024-03-09, 17:19:44](https://news.ycombinator.com/item?id=39653125) - [FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder](https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder)
 * [2024-03-09, 17:17:17](https://news.ycombinator.com/item?id=39653111) - [What happens to an aluminum block when 0.5 ounce of plastic hits it in space](https://www.physicsforums.com/threads/this-is-what-happens-to-an-aluminum-block-when-it-hits.976599/)
