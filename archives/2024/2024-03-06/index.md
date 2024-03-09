@@ -97,6 +97,7 @@
 * [2024-03-06, 09:07:42](https://news.ycombinator.com/item?id=39613891) - [Show HN: I Made a Landing Page Structure Generator](https://landingpage.fyi/structure-generator)
 * [2024-03-06, 09:02:36](https://news.ycombinator.com/item?id=39613858) - [Telling a Story and Making a Point](https://clauswilke.com/dataviz/telling-a-story.html)
 * [2024-03-06, 08:53:09](https://news.ycombinator.com/item?id=39613789) - [Tell HN: \"Default\" FileZilla download bundled with adware](https://filezilla-project.org/)
+* [2024-03-06, 08:50:39](https://news.ycombinator.com/item?id=39613767) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 * [2024-03-06, 08:40:14](https://news.ycombinator.com/item?id=39613710) - [Welcome to MARCHintosh](https://www.marchintosh.com/)
 * [2024-03-06, 08:38:45](https://news.ycombinator.com/item?id=39613699) - [Dr. Dobb's Journal – Vol 1 (1976)](https://archive.org/details/dr_dobbs_journal_vol_01/page/n316/mode/1up)
 * [2024-03-06, 08:34:16](https://news.ycombinator.com/item?id=39613669) - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)

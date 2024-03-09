@@ -2,7 +2,8 @@
 
 * [2024-03-09, 00:59:43](https://news.ycombinator.com/item?id=39648344) - [Apple will cut off 3rd-party appstore updates if iPhone is not in EU for a month](https://www.theverge.com/2024/3/7/24093437/apple-iphone-third-party-app-store-dma-eu)
 * [2024-03-09, 00:37:41](https://news.ycombinator.com/item?id=39648218) - [Motorola's legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
-* [2024-03-08, 23:13:45](https://news.ycombinator.com/item?id=39647681) - [Fear of regret influences our decisions](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
+* [2024-03-09, 00:11:50](https://news.ycombinator.com/item?id=39648075) - [Tesla starts shipping $3k Cybertruck tent, looks nothing like what was unveiled](https://electrek.co/2024/03/08/tesla-shipping-cybertruck-tent/)
+* [2024-03-08, 23:13:45](https://news.ycombinator.com/item?id=39647681) - [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
 * [2024-03-08, 22:35:01](https://news.ycombinator.com/item?id=39647331) - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
 * [2024-03-08, 22:07:19](https://news.ycombinator.com/item?id=39647105) - [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
 * [2024-03-08, 21:32:30](https://news.ycombinator.com/item?id=39646749) - [Coroutines in JavaScript for web components](https://lorenzofox.dev/posts/component-as-infinite-loop/)
@@ -20,16 +21,15 @@
 * [2024-03-08, 13:47:13](https://news.ycombinator.com/item?id=39640992) - [Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 * [2024-03-08, 12:58:36](https://news.ycombinator.com/item?id=39640647) - [Self-control signals and affords power](https://today.ucsd.edu/story/having-self-control-leads-to-power)
 * [2024-03-08, 11:03:39](https://news.ycombinator.com/item?id=39639944) - [Plasticity: CAD for Artists](https://www.plasticity.xyz/)
-* [2024-03-08, 10:19:09](https://news.ycombinator.com/item?id=39639689) - [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
 * [2024-03-08, 09:29:10](https://news.ycombinator.com/item?id=39639427) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://news.ycombinator.com/item?id=39632872)
 * [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour is the game creation tool I have been working on for the past few years](https://v21.io/blog/downpour)
-* [2024-03-07, 07:12:33](https://news.ycombinator.com/item?id=39626033) - [Show HN: Vlite – Lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
 * [2024-03-07, 03:37:33](https://news.ycombinator.com/item?id=39624813) - [Working with Tilt/Shift Lenses (2022)](https://phillipreeve.net/blog/working-with-tilt-shift-lenses/)
 * [2024-03-06, 12:33:28](https://news.ycombinator.com/item?id=39615228) - [Orthogonal Persistence](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
 * [2024-03-06, 12:12:50](https://news.ycombinator.com/item?id=39615068) - [Playing audio files in a Pi Pico without a DAC](http://antirez.com/news/143)
+* [2024-03-06, 08:50:39](https://news.ycombinator.com/item?id=39613767) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 
 ## [Archives](archives/index.md)
 
