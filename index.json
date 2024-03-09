@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2024-03-09, 00:11:50",
+      "https://news.ycombinator.com/item?id=39648075"
+    ],
+    [
+      "Tesla starts shipping $3k Cybertruck tent, looks nothing like what was unveiled",
+      "https://electrek.co/2024/03/08/tesla-shipping-cybertruck-tent/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 23:13:45",
       "https://news.ycombinator.com/item?id=39647681"
     ],
     [
-      "Fear of regret influences our decisions",
+      "A simple dice game shines a bit of light on the psychology of regret",
       "https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-03-08, 10:19:09",
-      "https://news.ycombinator.com/item?id=39639689"
-    ],
-    [
-      "Rolldown: Rollup compatible bundler written in Rust",
-      "https://rolldown.rs/"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 09:29:10",
       "https://news.ycombinator.com/item?id=39639427"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-03-07, 07:12:33",
-      "https://news.ycombinator.com/item?id=39626033"
-    ],
-    [
-      "Show HN: Vlite – Lite demo server, inspired by Vite",
-      "https://github.com/Jinjiang/vlite"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 03:37:33",
       "https://news.ycombinator.com/item?id=39624813"
     ],
@@ -297,6 +287,16 @@
     [
       "Playing audio files in a Pi Pico without a DAC",
       "http://antirez.com/news/143"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 08:50:39",
+      "https://news.ycombinator.com/item?id=39613767"
+    ],
+    [
+      "Prolly Trees",
+      "https://www.dolthub.com/blog/2024-03-03-prolly-trees/"
     ]
   ]
 ]
