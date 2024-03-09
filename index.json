@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-03-09, 16:56:25",
+      "https://news.ycombinator.com/item?id=39652946"
+    ],
+    [
+      "Why do people bother with open source?",
+      "https://bunkum.us/2024/03/08/open-source-desires.html"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 16:55:50",
       "https://news.ycombinator.com/item?id=39652938"
     ],
     [
       "One fan spent three years saving a Final Fantasy game before it shut down",
       "https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 16:41:18",
+      "https://news.ycombinator.com/item?id=39652818"
+    ],
+    [
+      "A Mistake in a Tesla and a Panicked Final Call: The Death of Angela Chao",
+      "https://www.wsj.com/real-estate/angela-chao-death-texas-tesla-safety-c435daa0"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "How to Lose Control of Your Shell",
       "https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 15:50:12",
+      "https://news.ycombinator.com/item?id=39652422"
+    ],
+    [
+      "Show HN: Schedule iMessage Texts from .txt Files",
+      "https://github.com/reidjs/schedule-texts-from-txt"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-03-09, 14:32:55",
-      "https://news.ycombinator.com/item?id=39651795"
-    ],
-    [
-      "Welcome to the Valley of the Creepy AI Dolls",
-      "https://www.wired.com/story/ai-dolls-for-older-adults/"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 14:28:50",
       "https://news.ycombinator.com/item?id=39651764"
     ],
@@ -137,6 +157,16 @@
     [
       "What Cannot Be Skipped About the Skiplist: A Survey of Skiplists and Their Appl",
       "https://arxiv.org/abs/2403.04582"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 13:02:26",
+      "https://news.ycombinator.com/item?id=39651354"
+    ],
+    [
+      "Small Joys When Programming",
+      "https://www.deusinmachina.net/p/small-joys-when-programming"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-03-08, 18:10:35",
-      "https://news.ycombinator.com/item?id=39643958"
-    ],
-    [
-      "Piano on Paper",
-      "https://github.com/Mayuresh1611/Paper-Piano"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 16:24:18",
       "https://news.ycombinator.com/item?id=39642612"
     ],
@@ -237,16 +257,6 @@
     [
       "Solar Storm Rendering",
       "https://jakubtomsu.github.io/posts/solar_storm_renderer/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 22:38:49",
-      "https://news.ycombinator.com/item?id=39635483"
-    ],
-    [
-      "Fine tune a 70B language model at home",
-      "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sea Kit",
       "https://www.sea-kit.com"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 12:33:28",
-      "https://news.ycombinator.com/item?id=39615228"
-    ],
-    [
-      "Orthogonal Persistence",
-      "https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md"
     ]
   ]
 ]
