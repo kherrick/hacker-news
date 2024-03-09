@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-09, 19:21:29](https://news.ycombinator.com/item?id=39654060) - [Midnight Blizzard Attack on Microsoft is ongoing](https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
+* [2024-03-09, 18:33:22](https://news.ycombinator.com/item?id=39653741) - [Let's give the Mac Classic 4 megs of RAM [video]](https://www.youtube.com/watch?v=_iE-CKcyR2E)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno](https://www.usebruno.com/)
 * [2024-03-09, 18:20:31](https://news.ycombinator.com/item?id=39653662) - [Digital Audio Mixer Pt.2](https://blog.brixit.nl/digital-audio-mixer-pt-2/)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
