@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-09, 14:54:38](https://news.ycombinator.com/item?id=39651960) - [The Obscene Energy Demands of A.I](https://www.newyorker.com/news/daily-comment/the-obscene-energy-demands-of-ai)
+* [2024-03-09, 14:20:45](https://news.ycombinator.com/item?id=39651718) - [Korean researchers' neural AI chip: 625 times less power draw, 41 times smaller](https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller)
 * [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
 * [2024-03-09, 14:07:33](https://news.ycombinator.com/item?id=39651629) - [Gallery of Simple Websites](https://deadsimplesites.com/)
 * [2024-03-09, 13:51:43](https://news.ycombinator.com/item?id=39651554) - [Google/Rulesofthumb](https://nonint.com/2024/01/06/go-rulesofthumb/)
@@ -17,7 +19,6 @@
 * [2024-03-09, 01:46:43](https://news.ycombinator.com/item?id=39648689) - [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
 * [2024-03-09, 00:45:07](https://news.ycombinator.com/item?id=39648259) - [TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
 * [2024-03-08, 23:13:45](https://news.ycombinator.com/item?id=39647681) - [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
-* [2024-03-08, 18:10:35](https://news.ycombinator.com/item?id=39643958) - [Piano on Paper](https://github.com/Mayuresh1611/Paper-Piano)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 16:24:18](https://news.ycombinator.com/item?id=39642612) - [Metaperson: The enchanted worlds of Marshall Sahlins](https://www.thenation.com/article/culture/marshall-sahlins-new-science-enchanted-universe/)
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
@@ -29,7 +30,6 @@
 * [2024-03-07, 09:12:26](https://news.ycombinator.com/item?id=39626867) - [Optimizing Rabin-Karp Hashing](https://mattsills.github.io/2024/03/02/rabin-karp/)
 * [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour is the game creation tool I have been working on for the past few years](https://v21.io/blog/downpour)
 * [2024-03-06, 12:33:28](https://news.ycombinator.com/item?id=39615228) - [Orthogonal Persistence](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
-* [2024-03-06, 08:50:39](https://news.ycombinator.com/item?id=39613767) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 
 ## [Archives](archives/index.md)
 
