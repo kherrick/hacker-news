@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-09, 07:29:25",
-      "https://news.ycombinator.com/item?id=39650115"
-    ],
-    [
-      "MKBHD, Fisker, and \"the worst car ever reviewed\"",
-      "https://twitter.com/MorningBrew/status/1766231831345541571"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 05:44:13",
       "https://news.ycombinator.com/item?id=39649684"
     ],
@@ -97,6 +87,16 @@
     [
       "OpenAI board reappoints Altman and adds three other directors",
       "https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 21:32:30",
+      "https://news.ycombinator.com/item?id=39646749"
+    ],
+    [
+      "Coroutines in JavaScript for web components",
+      "https://lorenzofox.dev/posts/component-as-infinite-loop/"
     ]
   ],
   [
