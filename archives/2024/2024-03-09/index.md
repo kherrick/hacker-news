@@ -6,6 +6,7 @@
 
 * [2024-03-09, 15:34:12](https://news.ycombinator.com/item?id=39652262) - [AI-Generated Data Can Poison Future AI Models](https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/)
 * [2024-03-09, 15:22:34](https://news.ycombinator.com/item?id=39652168) - [Update on String Templates (JEP 459)](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-March/004010.html)
+* [2024-03-09, 15:19:41](https://news.ycombinator.com/item?id=39652139) - [Antarctic Explorers Wrote Cute, Funny Stories to Hide Dangerous Stunts](https://www.atlasobscura.com/articles/antarctica-book-and-newspapers)
 * [2024-03-09, 15:15:51](https://news.ycombinator.com/item?id=39652103) - [Killer drones pioneered in Ukraine are the weapons of the future](https://www.economist.com/leaders/2024/02/08/killer-drones-pioneered-in-ukraine-are-the-weapons-of-the-future)
 * [2024-03-09, 15:06:02](https://news.ycombinator.com/item?id=39652038) - [Will a four-day work week solve Germany's labour shortage?](https://www.aljazeera.com/economy/2024/3/9/will-a-four-day-work-week-solve-germanys-labour-shortage)
 * [2024-03-09, 14:54:38](https://news.ycombinator.com/item?id=39651960) - [The Obscene Energy Demands of A.I](https://www.newyorker.com/news/daily-comment/the-obscene-energy-demands-of-ai)

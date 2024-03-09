@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-09, 15:34:12](https://news.ycombinator.com/item?id=39652262) - [AI-Generated Data Can Poison Future AI Models](https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/)
-* [2024-03-09, 15:22:34](https://news.ycombinator.com/item?id=39652168) - [Update on String Templates (JEP 459)](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-March/004010.html)
-* [2024-03-09, 15:15:51](https://news.ycombinator.com/item?id=39652103) - [Killer drones pioneered in Ukraine are the weapons of the future](https://www.economist.com/leaders/2024/02/08/killer-drones-pioneered-in-ukraine-are-the-weapons-of-the-future)
-* [2024-03-09, 15:06:02](https://news.ycombinator.com/item?id=39652038) - [Will a four-day work week solve Germany's labour shortage?](https://www.aljazeera.com/economy/2024/3/9/will-a-four-day-work-week-solve-germanys-labour-shortage)
+* [2024-03-09, 15:19:41](https://news.ycombinator.com/item?id=39652139) - [Antarctic Explorers Wrote Cute, Funny Stories to Hide Dangerous Stunts](https://www.atlasobscura.com/articles/antarctica-book-and-newspapers)
 * [2024-03-09, 14:49:53](https://news.ycombinator.com/item?id=39651926) - [An All-Optical General-Purpose CPU and Optical Computer Architecture](https://arxiv.org/abs/2403.00045)
 * [2024-03-09, 14:43:20](https://news.ycombinator.com/item?id=39651876) - [\"I Miss My Liver.\" Nonmedical Sources in the History of Hepatocentrism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
@@ -22,6 +20,7 @@
 * [2024-03-09, 00:45:07](https://news.ycombinator.com/item?id=39648259) - [TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
 * [2024-03-08, 23:13:45](https://news.ycombinator.com/item?id=39647681) - [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
 * [2024-03-08, 18:10:35](https://news.ycombinator.com/item?id=39643958) - [Piano on Paper](https://github.com/Mayuresh1611/Paper-Piano)
+* [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: Wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 * [2024-03-08, 16:24:18](https://news.ycombinator.com/item?id=39642612) - [Metaperson: The enchanted worlds of Marshall Sahlins](https://www.thenation.com/article/culture/marshall-sahlins-new-science-enchanted-universe/)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 13:09:31](https://news.ycombinator.com/item?id=39628608) - [Earliest forest discovered, scientists say](https://www.bbc.co.uk/news/science-environment-68500649)
@@ -30,6 +29,7 @@
 * [2024-03-07, 09:12:26](https://news.ycombinator.com/item?id=39626867) - [Optimizing Rabin-Karp Hashing](https://mattsills.github.io/2024/03/02/rabin-karp/)
 * [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour is the game creation tool I have been working on for the past few years](https://v21.io/blog/downpour)
 * [2024-03-06, 12:33:28](https://news.ycombinator.com/item?id=39615228) - [Orthogonal Persistence](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
+* [2024-03-06, 08:50:39](https://news.ycombinator.com/item?id=39613767) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 
 ## [Archives](archives/index.md)
 
