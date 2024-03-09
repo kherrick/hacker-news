@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
 * [2024-03-09, 16:20:51](https://news.ycombinator.com/item?id=39652667) - [An ALS Drug Fails. Again](https://www.science.org/content/blog-post/als-drug-fails-again)
+* [2024-03-09, 16:09:32](https://news.ycombinator.com/item?id=39652572) - [How to Lose Control of Your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 * [2024-03-09, 15:34:12](https://news.ycombinator.com/item?id=39652262) - [AI-Generated Data Can Poison Future AI Models](https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/)
 * [2024-03-09, 15:22:34](https://news.ycombinator.com/item?id=39652168) - [Update on String Templates (JEP 459)](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-March/004010.html)
 * [2024-03-09, 15:19:41](https://news.ycombinator.com/item?id=39652139) - [Antarctic Explorers Wrote Cute, Funny Stories to Hide Dangerous Stunts](https://www.atlasobscura.com/articles/antarctica-book-and-newspapers)
@@ -19,6 +20,7 @@
 * [2024-03-09, 14:43:19](https://news.ycombinator.com/item?id=39651875) - [AGI may never align with human needs – so says science](https://markgreville.ie/2024/03/05/agi-can-never-align-with-human-needs-so-says-science/)
 * [2024-03-09, 14:37:59](https://news.ycombinator.com/item?id=39651831) - [Crystal: Fast as C, Slick as Ruby with Tom Richards](https://www.youtube.com/watch?v=m8bYqfrGjGo)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
+* [2024-03-09, 14:32:55](https://news.ycombinator.com/item?id=39651795) - [Welcome to the Valley of the Creepy AI Dolls](https://www.wired.com/story/ai-dolls-for-older-adults/)
 * [2024-03-09, 14:28:50](https://news.ycombinator.com/item?id=39651764) - [Germany vs. Google: How Street View Won the Privacy Battle in Europe](https://petapixel.com/2024/03/08/germany-vs-google-how-street-view-won-the-privacy-battle-in-europes-most-private-country/)
 * [2024-03-09, 14:20:45](https://news.ycombinator.com/item?id=39651718) - [Korean researchers' neural AI chip: 625 times less power draw, 41 times smaller](https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller)
 * [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)

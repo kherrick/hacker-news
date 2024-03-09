@@ -69,6 +69,7 @@
 * [2024-03-08, 13:03:49](https://news.ycombinator.com/item?id=39640680) - [The Forgiver's Dilemma: Can Letting Go Set You Free?](https://jyotirgamya.org/opinion/forgivers-dilemma/)
 * [2024-03-08, 13:03:43](https://news.ycombinator.com/item?id=39640678) - [Claude Sonnet and Pi AI give exact same response to a prompt](https://twitter.com/seshubon/status/1765870717844050221)
 * [2024-03-08, 12:58:36](https://news.ycombinator.com/item?id=39640647) - [Having Self-Control Leads to Power [Study]](https://today.ucsd.edu/story/having-self-control-leads-to-power)
+* [2024-03-08, 12:50:46](https://news.ycombinator.com/item?id=39640588) - [Solar Storm Rendering](https://jakubtomsu.github.io/posts/solar_storm_renderer/)
 * [2024-03-08, 12:25:31](https://news.ycombinator.com/item?id=39640422) - [Europe shipping banned pesticide linked to child brain damage to Global South](https://unearthed.greenpeace.org/2023/03/28/eu-banned-pesticide-global-south/)
 * [2024-03-08, 12:05:14](https://news.ycombinator.com/item?id=39640303) - [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
 * [2024-03-08, 12:00:31](https://news.ycombinator.com/item?id=39640274) - [Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
