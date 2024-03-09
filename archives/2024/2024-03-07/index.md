@@ -80,6 +80,7 @@
 * [2024-03-07, 11:06:20](https://news.ycombinator.com/item?id=39627557) - [Steve Wozniak Unveiled: Apple's Origins and Life Today (2024) [video]](https://www.youtube.com/watch?v=FkeueghEBA4)
 * [2024-03-07, 10:48:39](https://news.ycombinator.com/item?id=39627443) - [Beautiful SAR images of the ocean reveal shipping lanes, wind farms](https://blog.datadesk.eco/p/sky-lapse-in-two-tone)
 * [2024-03-07, 10:44:35](https://news.ycombinator.com/item?id=39627410) - [Show HN: TinyWasm – A tiny WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
+* [2024-03-07, 10:30:09](https://news.ycombinator.com/item?id=39627321) - [Nikon to acquire RED and make it a subsidiary](https://www.canonrumors.com/nikon-to-acquire-red-and-make-it-a-subsidiary/)
 * [2024-03-07, 10:27:32](https://news.ycombinator.com/item?id=39627302) - [Dear Linux Kernel CNA, What Have You Done?](https://amanitasecurity.com/posts/dear-linux-kernel-cna-what-have-you-done/)
 * [2024-03-07, 10:26:15](https://news.ycombinator.com/item?id=39627292) - [Debian 12 is now the base operating system of Bitnami packages](https://blog.bitnami.com/2024/02/debian-12-is-now-base-operating-system.html)
 * [2024-03-07, 10:14:45](https://news.ycombinator.com/item?id=39627240) - [EU Probes Apple's Decision to Shut Down Epic's Developer Account](https://www.macrumors.com/2024/03/07/eu-probes-apple-termination-epic-account/)
