@@ -67,6 +67,7 @@
 * [2024-03-07, 13:50:07](https://news.ycombinator.com/item?id=39629015) - [The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 * [2024-03-07, 13:33:46](https://news.ycombinator.com/item?id=39628842) - [Ex-Google engineer charged with stealing AI trade secrets](https://apnews.com/article/china-google-justice-department-63156ade1e564d15d92adbef91e9c5da)
+* [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
 * [2024-03-07, 13:22:46](https://news.ycombinator.com/item?id=39628732) - [Why tech job interviews became such a nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
 * [2024-03-07, 13:19:00](https://news.ycombinator.com/item?id=39628696) - [The Brotherhood of Morons](https://ludic.mataroa.blog/blog/the-brotherhood-of-morons/)
 * [2024-03-07, 13:18:29](https://news.ycombinator.com/item?id=39628689) - [Fedora Workstation 41 to No Longer Install Gnome X.org Session by Default](https://www.phoronix.com/news/Fedora-41-No-GNOME-Xorg-Install)

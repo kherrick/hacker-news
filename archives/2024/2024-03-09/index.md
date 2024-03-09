@@ -6,9 +6,12 @@
 
 * [2024-03-09, 17:19:44](https://news.ycombinator.com/item?id=39653125) - [FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder](https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder)
 * [2024-03-09, 17:17:17](https://news.ycombinator.com/item?id=39653111) - [What happens to an aluminum block when 0.5 ounce of plastic hits it in space](https://www.physicsforums.com/threads/this-is-what-happens-to-an-aluminum-block-when-it-hits.976599/)
+* [2024-03-09, 17:14:55](https://news.ycombinator.com/item?id=39653086) - [Phalanx's Twilight, Legion's Triumph, Part IIIb: Pyrrhus](https://acoup.blog/2024/03/08/collections-phalanxs-twilight-legions-triumph-part-iiib-pyrrhus/)
 * [2024-03-09, 17:01:27](https://news.ycombinator.com/item?id=39652986) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39652986)
+* [2024-03-09, 16:57:39](https://news.ycombinator.com/item?id=39652956) - [Show HN: bef – a tool that encodes/decodes interleaved erasure coded streams](https://github.com/gbletr42/bef)
 * [2024-03-09, 16:56:25](https://news.ycombinator.com/item?id=39652946) - [Why do people bother with open source?](https://bunkum.us/2024/03/08/open-source-desires.html)
 * [2024-03-09, 16:55:50](https://news.ycombinator.com/item?id=39652938) - [One fan spent three years saving a Final Fantasy game before it shut down](https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix)
+* [2024-03-09, 16:55:47](https://news.ycombinator.com/item?id=39652937) - [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
 * [2024-03-09, 16:41:18](https://news.ycombinator.com/item?id=39652818) - [A Mistake in a Tesla and a Panicked Final Call: The Death of Angela Chao](https://www.wsj.com/real-estate/angela-chao-death-texas-tesla-safety-c435daa0)
 * [2024-03-09, 16:20:51](https://news.ycombinator.com/item?id=39652667) - [An ALS Drug Fails. Again](https://www.science.org/content/blog-post/als-drug-fails-again)
 * [2024-03-09, 16:09:32](https://news.ycombinator.com/item?id=39652572) - [How to Lose Control of Your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
