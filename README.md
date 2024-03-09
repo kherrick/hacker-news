@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-09, 12:01:08](https://news.ycombinator.com/item?id=39651128) - [Sieve (YC W22) Is hiring ML engineers to build AI video models](https://www.sievedata.com/)
 * [2024-03-09, 10:36:25](https://news.ycombinator.com/item?id=39650788) - [SuperC: Parsing All of C by Taming the Preprocessor [pdf]](https://paulgazzillo.com/papers/pldi12.pdf)
 * [2024-03-09, 09:13:03](https://news.ycombinator.com/item?id=39650489) - [Anomalous contribution to galactic rotation curves due to stochastic spacetime](https://arxiv.org/abs/2402.19459)
 * [2024-03-09, 05:44:13](https://news.ycombinator.com/item?id=39649684) - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
@@ -11,7 +12,6 @@
 * [2024-03-08, 22:15:10](https://news.ycombinator.com/item?id=39647164) - [Show HN: My AI writing assistant for Chinese](https://unscrambler.dpw.me/)
 * [2024-03-08, 22:07:19](https://news.ycombinator.com/item?id=39647105) - [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
 * [2024-03-08, 21:32:30](https://news.ycombinator.com/item?id=39646749) - [Coroutines in JavaScript for web components](https://lorenzofox.dev/posts/component-as-infinite-loop/)
-* [2024-03-08, 21:01:03](https://news.ycombinator.com/item?id=39646431) - [Finley (YC W21) is hiring capital markets technologists](https://www.finleycms.com/careers/)
 * [2024-03-08, 18:12:25](https://news.ycombinator.com/item?id=39643981) - [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
 * [2024-03-08, 18:10:35](https://news.ycombinator.com/item?id=39643958) - [Piano on Paper](https://github.com/Mayuresh1611/Paper-Piano)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: Wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
