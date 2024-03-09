@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 21:10:45](https://news.ycombinator.com/item?id=39654771) - [Legal row could force mystery artist Banksy to reveal his real name](https://www.theguardian.com/artanddesign/2024/mar/09/legal-row-banksy-reveal-real-name-art-images-authenticity)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-03-09, 20:47:34](https://news.ycombinator.com/item?id=39654606) - [The Programmer's Apprentice Project: A Research Overview (1987) [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 * [2024-03-09, 20:37:31](https://news.ycombinator.com/item?id=39654538) - [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
