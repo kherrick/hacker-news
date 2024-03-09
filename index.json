@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-03-09, 03:55:24",
+      "https://news.ycombinator.com/item?id=39649261"
+    ],
+    [
+      "Claude 3 System Prompt",
+      "https://twitter.com/amandaaskell/status/1765207842993434880"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 01:46:43",
       "https://news.ycombinator.com/item?id=39648689"
     ],
     [
       "Self-Retrieval: Building an information retrieval system with one LLM",
       "https://arxiv.org/abs/2403.00801"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 01:45:47",
+      "https://news.ycombinator.com/item?id=39648682"
+    ],
+    [
+      "The Existential Relief of Having Children",
+      "https://thelivingfossils.substack.com/p/the-existential-relief-of-having"
     ]
   ],
   [
@@ -211,21 +231,11 @@
   ],
   [
     [
-      "2024-03-07, 13:52:16",
-      "https://news.ycombinator.com/item?id=39629044"
-    ],
-    [
-      "Eloquent JavaScript 4th edition (2024)",
-      "https://eloquentjavascript.net/"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 09:12:26",
       "https://news.ycombinator.com/item?id=39626867"
     ],
     [
-      "Optimizating Rabin-Karp Hashing",
+      "Optimizing Rabin-Karp Hashing",
       "https://mattsills.github.io/2024/03/02/rabin-karp/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Orthogonal Persistence",
       "https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 12:12:50",
-      "https://news.ycombinator.com/item?id=39615068"
-    ],
-    [
-      "Playing audio files in a Pi Pico without a DAC",
-      "http://antirez.com/news/143"
     ]
   ],
   [
