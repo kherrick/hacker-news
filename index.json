@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-09, 17:01:27",
+      "https://news.ycombinator.com/item?id=39652986"
+    ],
+    [
+      "GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers",
+      "https://news.ycombinator.com/item?id=39652986"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 16:55:50",
+      "https://news.ycombinator.com/item?id=39652938"
+    ],
+    [
+      "One fan spent three years saving a Final Fantasy game before it shut down",
+      "https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 16:20:51",
       "https://news.ycombinator.com/item?id=39652667"
     ],
@@ -57,16 +77,6 @@
     [
       "Computing Without Processors",
       "https://cacm.acm.org/practice/computing-without-processors/"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 14:46:23",
-      "https://news.ycombinator.com/item?id=39651898"
-    ],
-    [
-      "Sam Altman Asserts Control of OpenAI as He Rejoins Its Board",
-      "https://www.nytimes.com/2024/03/08/technology/sam-altman-to-return-to-openais-board-of-directors.html"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-03-09, 12:01:08",
-      "https://news.ycombinator.com/item?id=39651128"
-    ],
-    [
-      "Sieve (YC W22) Is hiring ML engineers to build AI video models",
-      "https://www.sievedata.com/"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 10:51:45",
       "https://news.ycombinator.com/item?id=39650860"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2024-03-09, 03:15:16",
-      "https://news.ycombinator.com/item?id=39649126"
-    ],
-    [
-      "Differential: Type safe RPC that feels like local functions",
-      "https://www.differential.dev"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 01:46:43",
       "https://news.ycombinator.com/item?id=39648689"
     ],
     [
       "Self-Retrieval: Building an information retrieval system with one LLM",
       "https://arxiv.org/abs/2403.00801"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 18:10:35",
+      "https://news.ycombinator.com/item?id=39643958"
+    ],
+    [
+      "Piano on Paper",
+      "https://github.com/Mayuresh1611/Paper-Piano"
     ]
   ],
   [
