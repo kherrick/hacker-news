@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-09, 01:40:21](https://news.ycombinator.com/item?id=39648643) - [How Head Works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
-* [2024-03-09, 00:59:43](https://news.ycombinator.com/item?id=39648344) - [Apple will cut off 3rd-party appstore updates if iPhone is not in EU for a month](https://www.theverge.com/2024/3/7/24093437/apple-iphone-third-party-app-store-dma-eu)
 * [2024-03-09, 00:45:07](https://news.ycombinator.com/item?id=39648259) - [Open-Source Screen Recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
 * [2024-03-09, 00:37:41](https://news.ycombinator.com/item?id=39648218) - [Motorola's legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
 * [2024-03-09, 00:11:50](https://news.ycombinator.com/item?id=39648075) - [Tesla starts shipping $3k Cybertruck tent, looks nothing like what was unveiled](https://electrek.co/2024/03/08/tesla-shipping-cybertruck-tent/)
@@ -24,6 +23,7 @@
 * [2024-03-08, 11:03:39](https://news.ycombinator.com/item?id=39639944) - [Plasticity: CAD for Artists](https://www.plasticity.xyz/)
 * [2024-03-08, 09:29:10](https://news.ycombinator.com/item?id=39639427) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
+* [2024-03-07, 13:52:16](https://news.ycombinator.com/item?id=39629044) - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 * [2024-03-07, 09:03:01](https://news.ycombinator.com/item?id=39626798) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
 * [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour is the game creation tool I have been working on for the past few years](https://v21.io/blog/downpour)
 * [2024-03-07, 03:37:33](https://news.ycombinator.com/item?id=39624813) - [Working with Tilt/Shift Lenses (2022)](https://phillipreeve.net/blog/working-with-tilt-shift-lenses/)
