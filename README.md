@@ -10,7 +10,6 @@
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
 * [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
-* [2024-03-09, 17:57:56](https://news.ycombinator.com/item?id=39653469) - [Essential Tremor Linked to Tripled Risk of Dementia, Study Finds](https://scienceblog.com/542898/essential-tremor-linked-to-tripled-risk-of-dementia-study-finds/)
 * [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [Bypassing Safari 17's advanced audio fingerprinting protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-09, 16:57:39](https://news.ycombinator.com/item?id=39652956) - [Show HN: bef – a tool that encodes/decodes interleaved erasure coded streams](https://github.com/gbletr42/bef)
 * [2024-03-09, 16:55:47](https://news.ycombinator.com/item?id=39652937) - [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
@@ -30,6 +29,7 @@
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 * [2024-03-07, 13:48:32](https://news.ycombinator.com/item?id=39628987) - [Starting a side project as a creative studio](https://www.hellotime.io/blog/starting-a-side-project-as-a-creative-studio)
 * [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
+* [2024-03-07, 12:35:07](https://news.ycombinator.com/item?id=39628304) - [Wikipedia over DNS (2008)](https://dgl.cx/wikipedia-dns)
 
 ## [Archives](archives/index.md)
 
