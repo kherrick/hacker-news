@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-09, 10:05:43](https://news.ycombinator.com/item?id=39650669) - [Why Rust is good for working with Strings](https://old.reddit.com/r/rust/comments/1ba4d6p/why_is_rust_good_for_working_with_strings/)
 * [2024-03-09, 09:15:05](https://news.ycombinator.com/item?id=39650498) - [Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 09:14:50](https://news.ycombinator.com/item?id=39650497) - [Planet Vulcan](https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet))
 * [2024-03-09, 08:46:40](https://news.ycombinator.com/item?id=39650398) - [RC4 with a Deck of Cards](https://www.mail-archive.com/cryptography@wasabisystems.com/msg00065.html)
@@ -18,7 +19,6 @@
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 16:07:29](https://news.ycombinator.com/item?id=39642390) - [Show HN: A talking board game in a 2k program and 128 bytes of RAM](https://s3-eu-west-1.amazonaws.com/makapufprojects/oie/doc.html)
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
-* [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 12:45:18](https://news.ycombinator.com/item?id=39628397) - [Chiplet IP Standards Are Just the Beginning](https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/)
 * [2024-03-07, 12:34:08](https://news.ycombinator.com/item?id=39628292) - [Claude 3 catches researchers testing it](https://newatlas.com/technology/anthropic-claude-3/)
 * [2024-03-07, 11:32:25](https://news.ycombinator.com/item?id=39627753) - [NetBSD for the Advanced Minimalist](https://www.youtube.com/watch?v=-75TQMbar1Y)
