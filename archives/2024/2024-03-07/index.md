@@ -87,6 +87,7 @@
 * [2024-03-07, 10:04:24](https://news.ycombinator.com/item?id=39627178) - [Astronaut Candidate](https://www.usajobs.gov/job/779261100)
 * [2024-03-07, 09:27:11](https://news.ycombinator.com/item?id=39626955) - [Apple's exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
 * [2024-03-07, 09:05:26](https://news.ycombinator.com/item?id=39626813) - [OpenAI's \"Own Goal\"](https://garymarcus.substack.com/p/openais-own-goal)
+* [2024-03-07, 09:03:01](https://news.ycombinator.com/item?id=39626798) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
 * [2024-03-07, 08:47:33](https://news.ycombinator.com/item?id=39626683) - [The Digital Markets Act is in force What happens now?](https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/)
 * [2024-03-07, 08:43:06](https://news.ycombinator.com/item?id=39626657) - [Downpour Is Out](https://v21.io/blog/downpour)
 * [2024-03-07, 08:28:37](https://news.ycombinator.com/item?id=39626567) - [Ask HN: 57 sales totaling $1,539 for micro-SaaS? Is the idea dead?](https://news.ycombinator.com/item?id=39626567)
