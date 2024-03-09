@@ -79,6 +79,7 @@
 * [2024-03-07, 12:00:04](https://news.ycombinator.com/item?id=39628014) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-03-07, 11:47:37](https://news.ycombinator.com/item?id=39627895) - [Show HN: Control Panel for YouTube](https://news.ycombinator.com/item?id=39627895)
 * [2024-03-07, 11:32:25](https://news.ycombinator.com/item?id=39627753) - [NetBSD for the Advanced Minimalist](https://www.youtube.com/watch?v=-75TQMbar1Y)
+* [2024-03-07, 11:22:04](https://news.ycombinator.com/item?id=39627666) - [Ask HN: Why does it seem hard to buy an ONT for fiber?](https://news.ycombinator.com/item?id=39627666)
 * [2024-03-07, 11:16:15](https://news.ycombinator.com/item?id=39627624) - [ECJ finds IAB Europe responsible for TCF consent spam popups across the Internet](https://www.iccl.ie/digital-data/european-court-of-justice-finds-iab-europe-responsible-for-tcf-consent-spam-popups-across-the-internet/)
 * [2024-03-07, 11:06:20](https://news.ycombinator.com/item?id=39627557) - [Steve Wozniak Unveiled: Apple's Origins and Life Today (2024) [video]](https://www.youtube.com/watch?v=FkeueghEBA4)
 * [2024-03-07, 10:48:39](https://news.ycombinator.com/item?id=39627443) - [Beautiful SAR images of the ocean reveal shipping lanes, wind farms](https://blog.datadesk.eco/p/sky-lapse-in-two-tone)
