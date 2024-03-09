@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-09, 07:29:25](https://news.ycombinator.com/item?id=39650115) - [MKBHD, Fisker, and \"the worst car ever reviewed\"](https://twitter.com/MorningBrew/status/1766231831345541571)
 * [2024-03-09, 05:44:13](https://news.ycombinator.com/item?id=39649684) - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
 * [2024-03-09, 04:57:15](https://news.ycombinator.com/item?id=39649486) - [The Suicide PhD Candidate Huixiang Chen (2019)](https://huixiangvoice.medium.com/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3)
 * [2024-03-09, 03:15:16](https://news.ycombinator.com/item?id=39649126) - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
@@ -15,7 +16,6 @@
 * [2024-03-08, 18:10:35](https://news.ycombinator.com/item?id=39643958) - [Piano on Paper](https://github.com/Mayuresh1611/Paper-Piano)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: Wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
-* [2024-03-08, 16:49:37](https://news.ycombinator.com/item?id=39642920) - [A UK college student explaining congressional procedure to Washington](https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314)
 * [2024-03-08, 16:07:29](https://news.ycombinator.com/item?id=39642390) - [Show HN: A talking board game in a 2k program and 128 bytes of RAM](https://s3-eu-west-1.amazonaws.com/makapufprojects/oie/doc.html)
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
 * [2024-03-08, 09:29:10](https://news.ycombinator.com/item?id=39639427) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
