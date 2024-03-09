@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2024-03-09, 11:40:02",
-      "https://news.ycombinator.com/item?id=39651072"
-    ],
-    [
-      "Starlink cuts P99 Latency by 60% [pdf]",
-      "https://api.starlink.com/public-files/StarlinkLatency.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 10:37:16",
-      "https://news.ycombinator.com/item?id=39650792"
-    ],
-    [
-      "SQLite on macOS: Not ACID compliant with the bundled version (2022)",
-      "https://bonsaidb.io/blog/acid-on-apple/"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 10:36:25",
       "https://news.ycombinator.com/item?id=39650788"
     ],
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-03-08, 13:47:13",
+      "https://news.ycombinator.com/item?id=39640992"
+    ],
+    [
+      "Home Lab Beginners guide",
+      "https://linuxblog.io/home-lab-beginners-guide-hardware/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 09:29:10",
       "https://news.ycombinator.com/item?id=39639427"
     ],
@@ -207,6 +197,16 @@
     [
       "Fine tune a 70B language model at home",
       "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 18:38:22",
+      "https://news.ycombinator.com/item?id=39632872"
+    ],
+    [
+      "Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud",
+      "https://news.ycombinator.com/item?id=39632872"
     ]
   ],
   [
