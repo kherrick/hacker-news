@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
+* [2024-03-09, 20:47:34](https://news.ycombinator.com/item?id=39654606) - [The Programmer's Apprentice Project: A Research Overview (1987) [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 * [2024-03-09, 19:21:29](https://news.ycombinator.com/item?id=39654060) - [Midnight Blizzard Attack on Microsoft is ongoing](https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:43:29](https://news.ycombinator.com/item?id=39653805) - [Getting started as an alternative app marketplace in the European Union](https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/)
