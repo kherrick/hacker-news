@@ -2,7 +2,7 @@
 
 * [2024-03-09, 05:44:13](https://news.ycombinator.com/item?id=39649684) - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
 * [2024-03-09, 05:25:56](https://news.ycombinator.com/item?id=39649603) - [Don't Invent XML Languages (2006)](http://www.tbray.org/ongoing/When/200x/2006/01/08/No-New-XML-Languages)
-* [2024-03-09, 04:57:15](https://news.ycombinator.com/item?id=39649486) - [The Suicide PhD Candidate Huixiang Chen](https://huixiangvoice.medium.com/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3)
+* [2024-03-09, 04:57:15](https://news.ycombinator.com/item?id=39649486) - [The Suicide PhD Candidate Huixiang Chen (2019)](https://huixiangvoice.medium.com/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3)
 * [2024-03-09, 03:15:16](https://news.ycombinator.com/item?id=39649126) - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 * [2024-03-09, 01:46:43](https://news.ycombinator.com/item?id=39648689) - [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
 * [2024-03-09, 00:45:07](https://news.ycombinator.com/item?id=39648259) - [TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
