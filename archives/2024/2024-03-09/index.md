@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
 * [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
+* [2024-03-09, 14:07:33](https://news.ycombinator.com/item?id=39651629) - [Gallery of Simple Websites](https://deadsimplesites.com/)
+* [2024-03-09, 13:51:43](https://news.ycombinator.com/item?id=39651554) - [Google/Rulesofthumb](https://nonint.com/2024/01/06/go-rulesofthumb/)
 * [2024-03-09, 13:44:01](https://news.ycombinator.com/item?id=39651526) - [M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower](https://wccftech.com/m3-macbook-air-severely-throttles-under-load/)
 * [2024-03-09, 13:43:00](https://news.ycombinator.com/item?id=39651521) - [The Acme Klein Bottle (From Cliff Stoll and Family)](https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html)
 * [2024-03-09, 13:33:45](https://news.ycombinator.com/item?id=39651481) - [Chinese hacking documents dump offers window into pervasive state surveillance](https://apnews.com/article/china-cybersecurity-leak-document-dump-spying-aac38c75f268b72910a94881ccbb77cb)
