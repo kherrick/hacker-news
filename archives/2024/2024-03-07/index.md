@@ -86,6 +86,7 @@
 * [2024-03-07, 10:14:25](https://news.ycombinator.com/item?id=39627238) - [Apple calls Epic 'verifiably untrustworthy' and blocks Fortnite and App store](https://www.gamesindustry.biz/apple-calls-epic-verifiably-untrustworthy-and-blocks-bid-to-launch-fortnite-and-mobile-store-on-ios)
 * [2024-03-07, 10:04:24](https://news.ycombinator.com/item?id=39627178) - [Astronaut Candidate](https://www.usajobs.gov/job/779261100)
 * [2024-03-07, 09:27:11](https://news.ycombinator.com/item?id=39626955) - [Apple's exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
+* [2024-03-07, 09:12:26](https://news.ycombinator.com/item?id=39626867) - [Optimizating Rabin-Karp Hashing](https://mattsills.github.io/2024/03/02/rabin-karp/)
 * [2024-03-07, 09:05:26](https://news.ycombinator.com/item?id=39626813) - [OpenAI's \"Own Goal\"](https://garymarcus.substack.com/p/openais-own-goal)
 * [2024-03-07, 09:03:01](https://news.ycombinator.com/item?id=39626798) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
 * [2024-03-07, 08:47:33](https://news.ycombinator.com/item?id=39626683) - [The Digital Markets Act is in force What happens now?](https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/)
