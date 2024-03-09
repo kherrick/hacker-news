@@ -10,7 +10,7 @@
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
 * [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
 * [2024-03-09, 17:57:56](https://news.ycombinator.com/item?id=39653469) - [Essential Tremor Linked to Tripled Risk of Dementia, Study Finds](https://scienceblog.com/542898/essential-tremor-linked-to-tripled-risk-of-dementia-study-finds/)
-* [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
+* [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [Bypassing Safari 17's advanced audio fingerprinting protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-09, 16:57:39](https://news.ycombinator.com/item?id=39652956) - [Show HN: bef – a tool that encodes/decodes interleaved erasure coded streams](https://github.com/gbletr42/bef)
 * [2024-03-09, 16:55:47](https://news.ycombinator.com/item?id=39652937) - [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
 * [2024-03-09, 15:50:12](https://news.ycombinator.com/item?id=39652422) - [Show HN: Schedule iMessage Texts from .txt Files](https://github.com/reidjs/schedule-texts-from-txt)
