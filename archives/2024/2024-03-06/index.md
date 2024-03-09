@@ -72,6 +72,7 @@
 * [2024-03-06, 13:55:30](https://news.ycombinator.com/item?id=39615987) - [You Might Not Need a CRDT: Document Sync in the Wild [video]](https://www.youtube.com/watch?v=0d73MdQkJOk)
 * [2024-03-06, 13:27:37](https://news.ycombinator.com/item?id=39615715) - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-06, 13:24:38](https://news.ycombinator.com/item?id=39615693) - [Dutch government in panic mode over keeping ASML in the country](https://www.theregister.com/2024/03/06/dutch_asml_visas/)
+* [2024-03-06, 13:18:50](https://news.ycombinator.com/item?id=39615643) - [The Deep Sea Is Filled with Treasure, but It Comes at a Price](https://www.newyorker.com/magazine/2021/06/21/the-deep-sea-is-filled-with-treasure-but-it-comes-at-a-price)
 * [2024-03-06, 13:14:37](https://news.ycombinator.com/item?id=39615602) - [How to Structure C Projects: These Best Practices Worked for Me](https://www.lucavall.in/blog/how-to-structure-c-projects-my-experience-best-practices)
 * [2024-03-06, 12:59:10](https://news.ycombinator.com/item?id=39615465) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
 * [2024-03-06, 12:36:26](https://news.ycombinator.com/item?id=39615251) - [Snapdragon 8 Gen 1's iGPU: Adreno Gets Big](https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/)
