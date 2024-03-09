@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 10:36:25](https://news.ycombinator.com/item?id=39650788) - [SuperC: Parsing All of C by Taming the Preprocessor [pdf]](https://paulgazzillo.com/papers/pldi12.pdf)
 * [2024-03-09, 10:05:43](https://news.ycombinator.com/item?id=39650669) - [Why Rust is good for working with Strings](https://old.reddit.com/r/rust/comments/1ba4d6p/why_is_rust_good_for_working_with_strings/)
 * [2024-03-09, 09:15:05](https://news.ycombinator.com/item?id=39650498) - [Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 09:14:50](https://news.ycombinator.com/item?id=39650497) - [Planet Vulcan](https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet))

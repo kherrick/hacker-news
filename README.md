@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-09, 10:36:25](https://news.ycombinator.com/item?id=39650788) - [SuperC: Parsing All of C by Taming the Preprocessor [pdf]](https://paulgazzillo.com/papers/pldi12.pdf)
 * [2024-03-09, 09:13:03](https://news.ycombinator.com/item?id=39650489) - [Anomalous contribution to galactic rotation curves due to stochastic spacetime](https://arxiv.org/abs/2402.19459)
 * [2024-03-09, 05:44:13](https://news.ycombinator.com/item?id=39649684) - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
 * [2024-03-09, 03:15:16](https://news.ycombinator.com/item?id=39649126) - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
@@ -17,7 +18,6 @@
 * [2024-03-08, 17:07:35](https://news.ycombinator.com/item?id=39643136) - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 * [2024-03-08, 16:07:29](https://news.ycombinator.com/item?id=39642390) - [Show HN: A talking board game in a 2k program and 128 bytes of RAM](https://s3-eu-west-1.amazonaws.com/makapufprojects/oie/doc.html)
 * [2024-03-08, 14:00:09](https://news.ycombinator.com/item?id=39641105) - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
-* [2024-03-08, 13:47:13](https://news.ycombinator.com/item?id=39640992) - [Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 * [2024-03-08, 09:29:10](https://news.ycombinator.com/item?id=39639427) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://news.ycombinator.com/item?id=39632872)
