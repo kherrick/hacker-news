@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 09:15:05](https://news.ycombinator.com/item?id=39650498) - [Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 07:29:25](https://news.ycombinator.com/item?id=39650115) - [MKBHD, Fisker, and \"the worst car ever reviewed\"](https://twitter.com/MorningBrew/status/1766231831345541571)
 * [2024-03-09, 05:44:13](https://news.ycombinator.com/item?id=39649684) - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
 * [2024-03-09, 05:25:56](https://news.ycombinator.com/item?id=39649603) - [Don't Invent XML Languages (2006)](http://www.tbray.org/ongoing/When/200x/2006/01/08/No-New-XML-Languages)
