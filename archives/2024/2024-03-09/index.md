@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 02:47:51](https://news.ycombinator.com/item?id=39649019) - [SCO–Linux Disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes)
 * [2024-03-09, 02:24:51](https://news.ycombinator.com/item?id=39648902) - [Top US cybersecurity agency hacked and forced to take some systems offline](https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
 * [2024-03-09, 01:46:43](https://news.ycombinator.com/item?id=39648689) - [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
 * [2024-03-09, 01:40:21](https://news.ycombinator.com/item?id=39648643) - [How Head Works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)

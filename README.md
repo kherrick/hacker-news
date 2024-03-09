@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-09, 02:47:51](https://news.ycombinator.com/item?id=39649019) - [SCO–Linux Disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes)
 * [2024-03-09, 02:24:51](https://news.ycombinator.com/item?id=39648902) - [Top US cybersecurity agency hacked and forced to take some systems offline](https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
 * [2024-03-09, 01:46:43](https://news.ycombinator.com/item?id=39648689) - [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
 * [2024-03-09, 00:45:07](https://news.ycombinator.com/item?id=39648259) - [Open-Source Screen Recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
-* [2024-03-09, 00:37:41](https://news.ycombinator.com/item?id=39648218) - [Motorola's legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
 * [2024-03-08, 23:13:45](https://news.ycombinator.com/item?id=39647681) - [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
 * [2024-03-08, 22:35:01](https://news.ycombinator.com/item?id=39647331) - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
 * [2024-03-08, 22:15:10](https://news.ycombinator.com/item?id=39647164) - [Show HN: My AI writing assistant for Chinese](https://unscrambler.dpw.me/)
