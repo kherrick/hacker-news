@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 13:03:39](https://news.ycombinator.com/item?id=39651357) - [Tank Museum in U.K. Playing Big Role in Keeping Ukraine's Armor on Track](https://www.twz.com/news-features/little-tank-museum-in-u-k-playing-big-role-in-keeping-ukraines-armor-on-track)
 * [2024-03-09, 12:28:29](https://news.ycombinator.com/item?id=39651230) - [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
 * [2024-03-09, 12:15:24](https://news.ycombinator.com/item?id=39651177) - [Create Virtual USB Sticks with a Raspberry Pi Zero](https://hackaday.com/2024/03/09/create-virtual-usb-sticks-with-a-raspberry-pi-zero/)
 * [2024-03-09, 12:01:08](https://news.ycombinator.com/item?id=39651128) - [Sieve (YC W22) Is hiring ML engineers to build AI video models](https://www.sievedata.com/)
