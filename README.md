@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-10, 06:41:10](https://news.ycombinator.com/item?id=39657200) - [Show HN: Aussie startup. Debian Trixie phone. Taiwan contract](https://furilabs.com/blog/?no-amp=1)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
 * [2024-03-10, 04:43:29](https://news.ycombinator.com/item?id=39656772) - [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)
@@ -15,12 +14,12 @@
 * [2024-03-09, 20:21:24](https://news.ycombinator.com/item?id=39654445) - [Reverse Engineering Protobuf Definitions from Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
+* [2024-03-09, 18:16:18](https://news.ycombinator.com/item?id=39653634) - [Show HN: Digital Superpowers, a free book highlighting various FOSS tools](https://digitalsuperpowers.com/)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
 * [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
 * [2024-03-09, 17:57:56](https://news.ycombinator.com/item?id=39653469) - [Essential tremor linked to tripled risk of dementia, study finds](https://scienceblog.com/542898/essential-tremor-linked-to-tripled-risk-of-dementia-study-finds/)
 * [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [Bypassing Safari 17's advanced audio fingerprinting protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-09, 17:40:30](https://news.ycombinator.com/item?id=39653312) - [Using LLMs to Generate Fuzzers](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
-* [2024-03-09, 16:55:47](https://news.ycombinator.com/item?id=39652937) - [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
 * [2024-03-09, 14:49:53](https://news.ycombinator.com/item?id=39651926) - [An all-optical general-purpose CPU and optical computer architecture](https://arxiv.org/abs/2403.00045)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
@@ -28,6 +27,7 @@
 * [2024-03-09, 05:57:41](https://news.ycombinator.com/item?id=39649732) - [1brc merykitty's magic SWAR: 8 lines of code explained in 3k words](https://questdb.io/blog/1brc-merykittys-magic-swar/)
 * [2024-03-09, 03:31:52](https://news.ycombinator.com/item?id=39649185) - [The 160-year mystery of Europe's Ice Age 'queens'](https://www.bbc.com/future/article/20240307-the-160-year-mystery-of-the-stone-age-venus-figurines)
 * [2024-03-08, 18:25:46](https://news.ycombinator.com/item?id=39644175) - [Robert Burnham Jr](https://en.wikipedia.org/wiki/Robert_Burnham_Jr.)
+* [2024-03-08, 16:44:09](https://news.ycombinator.com/item?id=39642848) - [From Snowdrop to Nightjar: Robert Marsham's \"Indications of Spring\" (1789)](https://publicdomainreview.org/essay/from-snowdrop-to-nightjar/)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 * [2024-03-07, 12:35:07](https://news.ycombinator.com/item?id=39628304) - [Wikipedia over DNS (2008)](https://dgl.cx/wikipedia-dns)
 
