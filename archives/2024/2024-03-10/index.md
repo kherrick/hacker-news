@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
 * [2024-03-10, 15:45:48](https://news.ycombinator.com/item?id=39660074) - [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
+* [2024-03-10, 15:38:29](https://news.ycombinator.com/item?id=39660025) - [Could AI-designed proteins be weaponized? Scientists lay out safety guidelines](https://www.nature.com/articles/d41586-024-00699-0)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
 * [2024-03-10, 15:04:51](https://news.ycombinator.com/item?id=39659729) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2024-03-10, 14:13:32](https://news.ycombinator.com/item?id=39659246) - [\"Let them eat cereal\" How \"greedflation\" fueled consumer ire against Kellogg](https://www.salon.com/2024/03/10/let-them-eat-cereal-how-accusations-of-greedflation-fueled-consumer-ire-against-kelloggs/)

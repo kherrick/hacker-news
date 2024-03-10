@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 15:38:29](https://news.ycombinator.com/item?id=39660025) - [Could AI-designed proteins be weaponized? Scientists lay out safety guidelines](https://www.nature.com/articles/d41586-024-00699-0)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
 * [2024-03-10, 15:04:51](https://news.ycombinator.com/item?id=39659729) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2024-03-10, 13:15:03](https://news.ycombinator.com/item?id=39658787) - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
@@ -10,7 +11,6 @@
 * [2024-03-10, 09:52:44](https://news.ycombinator.com/item?id=39657936) - [Iris (Infra-Red, in Situ) Silicon Verification Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-10, 08:48:45](https://news.ycombinator.com/item?id=39657675) - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
-* [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-10, 03:30:34](https://news.ycombinator.com/item?id=39656510) - [A Copy of a Copy of a Copy: The Story of FDA Medical Device Clearances](https://wcedmisten.fyi/post/medical-device-analysis/)
 * [2024-03-10, 03:15:47](https://news.ycombinator.com/item?id=39656455) - [U.S. Is Said to Open Criminal Inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html)
