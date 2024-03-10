@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 19:55:28](https://news.ycombinator.com/item?id=39662079) - [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
 * [2024-03-10, 19:14:48](https://news.ycombinator.com/item?id=39661721) - [The Fashion Police in 16th-century Italy](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 * [2024-03-10, 18:48:34](https://news.ycombinator.com/item?id=39661497) - [Rebuilding Memchess.com from Its Archive](https://grondilu.github.io/memchess/)
 * [2024-03-10, 18:46:19](https://news.ycombinator.com/item?id=39661482) - [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
@@ -23,6 +24,7 @@
 * [2024-03-10, 15:45:48](https://news.ycombinator.com/item?id=39660074) - [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
 * [2024-03-10, 15:38:29](https://news.ycombinator.com/item?id=39660025) - [Could AI-designed proteins be weaponized? Scientists lay out safety guidelines](https://www.nature.com/articles/d41586-024-00699-0)
 * [2024-03-10, 15:32:48](https://news.ycombinator.com/item?id=39659978) - [Context-switching – one of the worst productivity killers](https://newsletter.eng-leadership.com/p/context-switching-one-of-the-worst)
+* [2024-03-10, 15:29:01](https://news.ycombinator.com/item?id=39659942) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
 * [2024-03-10, 15:04:51](https://news.ycombinator.com/item?id=39659729) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2024-03-10, 14:22:16](https://news.ycombinator.com/item?id=39659325) - [Icelandic Approved Names – Nordic Names](https://www.nordicnames.de/wiki/Icelandic_Approved_Names)
