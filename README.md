@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-10, 02:10:33](https://news.ycombinator.com/item?id=39656203) - [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev/)
-* [2024-03-10, 02:01:00](https://news.ycombinator.com/item?id=39656167) - [Apple 'like The Godfather' with new App Store rules](https://www.bbc.com/news/technology-68517246)
 * [2024-03-10, 01:35:35](https://news.ycombinator.com/item?id=39656066) - [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
-* [2024-03-09, 23:38:05](https://news.ycombinator.com/item?id=39655521) - [The Surprising Left-Right Alliance That Wants More Apartments in Suburbs](https://www.nytimes.com/2024/03/09/business/economy/yimby-housing-conference.html)
+* [2024-03-09, 23:06:44](https://news.ycombinator.com/item?id=39655384) - [Iris (Infra-Red, in Situ) Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-09, 22:23:42](https://news.ycombinator.com/item?id=39655179) - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-03-09, 20:56:01](https://news.ycombinator.com/item?id=39654660) - [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
@@ -19,6 +17,7 @@
 * [2024-03-09, 16:57:39](https://news.ycombinator.com/item?id=39652956) - [Show HN: bef – a tool that encodes/decodes interleaved erasure coded streams](https://github.com/gbletr42/bef)
 * [2024-03-09, 16:55:47](https://news.ycombinator.com/item?id=39652937) - [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
 * [2024-03-09, 16:20:51](https://news.ycombinator.com/item?id=39652667) - [An ALS drug fails, again](https://www.science.org/content/blog-post/als-drug-fails-again)
+* [2024-03-09, 15:50:12](https://news.ycombinator.com/item?id=39652422) - [Show HN: Schedule iMessage Texts from .txt Files](https://github.com/reidjs/schedule-texts-from-txt)
 * [2024-03-09, 15:19:41](https://news.ycombinator.com/item?id=39652139) - [Antarctic Explorers Wrote Cute, Funny Stories to Hide Dangerous Stunts](https://www.atlasobscura.com/articles/antarctica-book-and-newspapers)
 * [2024-03-09, 14:49:53](https://news.ycombinator.com/item?id=39651926) - [An all-optical general-purpose CPU and optical computer architecture](https://arxiv.org/abs/2403.00045)
 * [2024-03-09, 14:43:20](https://news.ycombinator.com/item?id=39651876) - [\"I Miss My Liver.\" Nonmedical Sources in the History of Hepatocentrism (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/)
@@ -30,6 +29,7 @@
 * [2024-03-08, 16:44:09](https://news.ycombinator.com/item?id=39642848) - [From Snowdrop to Nightjar: Robert Marsham's \"Indications of Spring\" (1789)](https://publicdomainreview.org/essay/from-snowdrop-to-nightjar/)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 * [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
+* [2024-03-07, 12:35:07](https://news.ycombinator.com/item?id=39628304) - [Wikipedia over DNS (2008)](https://dgl.cx/wikipedia-dns)
 
 ## [Archives](archives/index.md)
 
