@@ -53,6 +53,7 @@
 * [2024-03-09, 14:54:38](https://news.ycombinator.com/item?id=39651960) - [The Obscene Energy Demands of A.I](https://www.newyorker.com/news/daily-comment/the-obscene-energy-demands-of-ai)
 * [2024-03-09, 14:51:40](https://news.ycombinator.com/item?id=39651938) - [Waymo's Double-Crash with Pickup Truck, Cyclist and Arson Examined](https://www.forbes.com/sites/bradtempleton/2024/03/05/waymos-double-crash-with-pickup-trucks-and-more-examined/)
 * [2024-03-09, 14:49:53](https://news.ycombinator.com/item?id=39651926) - [An All-Optical General-Purpose CPU and Optical Computer Architecture](https://arxiv.org/abs/2403.00045)
+* [2024-03-09, 14:47:52](https://news.ycombinator.com/item?id=39651908) - [Could AI Outshine Us in Ethical Decision-Making?](https://www.beyond2060.com/ai-ethics/)
 * [2024-03-09, 14:47:33](https://news.ycombinator.com/item?id=39651906) - [Computing Without Processors](https://cacm.acm.org/practice/computing-without-processors/)
 * [2024-03-09, 14:46:23](https://news.ycombinator.com/item?id=39651898) - [Sam Altman Asserts Control of OpenAI as He Rejoins Its Board](https://www.nytimes.com/2024/03/08/technology/sam-altman-to-return-to-openais-board-of-directors.html)
 * [2024-03-09, 14:43:20](https://news.ycombinator.com/item?id=39651876) - [\"I Miss My Liver.\" Nonmedical Sources in the History of Hepatocentrism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/)
