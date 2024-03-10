@@ -67,6 +67,7 @@
 * [2024-03-09, 14:28:50](https://news.ycombinator.com/item?id=39651764) - [Germany vs. Google: How Street View Won the Privacy Battle in Europe](https://petapixel.com/2024/03/08/germany-vs-google-how-street-view-won-the-privacy-battle-in-europes-most-private-country/)
 * [2024-03-09, 14:20:45](https://news.ycombinator.com/item?id=39651718) - [Korean researchers' neural AI chip: 625 times less power draw, 41 times smaller](https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller)
 * [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
+* [2024-03-09, 14:15:27](https://news.ycombinator.com/item?id=39651677) - [Stylized image binning algorithm, for the web](https://benjdd.com/posts/stylized-image-binning-algorithm/)
 * [2024-03-09, 14:07:33](https://news.ycombinator.com/item?id=39651629) - [Gallery of Simple Websites](https://deadsimplesites.com/)
 * [2024-03-09, 13:51:43](https://news.ycombinator.com/item?id=39651554) - [Google/Rulesofthumb](https://nonint.com/2024/01/06/go-rulesofthumb/)
 * [2024-03-09, 13:44:01](https://news.ycombinator.com/item?id=39651526) - [M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower](https://wccftech.com/m3-macbook-air-severely-throttles-under-load/)
