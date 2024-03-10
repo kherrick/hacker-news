@@ -2,6 +2,7 @@
 
 * [2024-03-10, 14:13:32](https://news.ycombinator.com/item?id=39659246) - [\"Let them eat cereal\" How \"greedflation\" fueled consumer ire against Kellogg](https://www.salon.com/2024/03/10/let-them-eat-cereal-how-accusations-of-greedflation-fueled-consumer-ire-against-kelloggs/)
 * [2024-03-10, 13:55:12](https://news.ycombinator.com/item?id=39659087) - [Ask HN: When will LLMs be able to interrupt or interject?](https://news.ycombinator.com/item?id=39659087)
+* [2024-03-10, 13:40:15](https://news.ycombinator.com/item?id=39658956) - [Refuted papers continue to be cited more than failed replications:can search eng](https://statmodeling.stat.columbia.edu/2024/03/10/refuted-papers-continue-to-be-cited-more-than-their-failed-replications-can-a-new-search-engine-be-built-that-will-fix-this-problem/)
 * [2024-03-10, 13:15:03](https://news.ycombinator.com/item?id=39658787) - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
 * [2024-03-10, 12:50:21](https://news.ycombinator.com/item?id=39658647) - [Proton AG of ProtonMail can provide FBI with your account recovery email](https://fxtwitter.com/monetaryreset/status/1691446834655535105)
 * [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
@@ -27,7 +28,6 @@
 * [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-09, 14:15:27](https://news.ycombinator.com/item?id=39651677) - [Stylized image binning algorithm, for the web](https://benjdd.com/posts/stylized-image-binning-algorithm/)
-* [2024-03-09, 05:57:41](https://news.ycombinator.com/item?id=39649732) - [1brc merykitty's magic SWAR: 8 lines of code explained in 3k words](https://questdb.io/blog/1brc-merykittys-magic-swar/)
 * [2024-03-09, 03:31:52](https://news.ycombinator.com/item?id=39649185) - [The 160-year mystery of Europe's Ice Age 'queens'](https://www.bbc.com/future/article/20240307-the-160-year-mystery-of-the-stone-age-venus-figurines)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 
