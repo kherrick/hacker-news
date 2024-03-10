@@ -17,6 +17,7 @@
 * [2024-03-09, 20:37:31](https://news.ycombinator.com/item?id=39654538) - [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
 * [2024-03-09, 20:21:24](https://news.ycombinator.com/item?id=39654445) - [Reverse Engineering Protobuf Definitions from Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
 * [2024-03-09, 20:02:51](https://news.ycombinator.com/item?id=39654320) - [Cells from Pregnancy Fluid Used to Grow Mini Lungs, Organs](https://apnews.com/article/mini-organs-organoids-amniotic-fluid-fetus-f5a48564368d2cf383a7eac1371d67cf)
+* [2024-03-09, 19:59:00](https://news.ycombinator.com/item?id=39654291) - [Trapped in the Ivory Basement](https://thelocal.to/trapped-in-the-ivory-basement/)
 * [2024-03-09, 19:21:29](https://news.ycombinator.com/item?id=39654060) - [Midnight Blizzard Attack on Microsoft is ongoing](https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:44:31](https://news.ycombinator.com/item?id=39653813) - [Show HN: Print My Drone, catalog of 3D printable drone models](https://printmydrone.com)
