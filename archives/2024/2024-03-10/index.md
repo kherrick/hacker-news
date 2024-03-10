@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 23:00:53](https://news.ycombinator.com/item?id=39663219) - [The EBF Documentary](https://www.brendangregg.com/blog/2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:27:18](https://news.ycombinator.com/item?id=39663027) - [Nvidia is sued by authors over AI use of copyrighted works](https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/)
+* [2024-03-10, 21:38:06](https://news.ycombinator.com/item?id=39662721) - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:30:29](https://news.ycombinator.com/item?id=39662676) - [Why the Use of \"Recall\" for Tesla Over-the-Air Updates Is Silly](https://www.wsj.com/articles/dont-believe-the-tesla-headlines-safety-recall-software-update-c2e95f3a)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
