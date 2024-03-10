@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-10, 07:59:44](https://news.ycombinator.com/item?id=39657499) - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+* [2024-03-10, 08:48:45](https://news.ycombinator.com/item?id=39657675) - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
+* [2024-03-10, 07:59:44](https://news.ycombinator.com/item?id=39657499) - [Git from the Bottom Up (2022)](https://jwiegley.github.io/git-from-the-bottom-up/)
 * [2024-03-10, 07:26:42](https://news.ycombinator.com/item?id=39657362) - [Insurance Buys the Wheelchair, but Not the App to Run It](https://hackaday.com/2024/03/09/the-insurance-buys-the-wheelchair-but-not-the-app-to-run-it/)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
@@ -9,7 +10,6 @@
 * [2024-03-10, 03:21:26](https://news.ycombinator.com/item?id=39656475) - [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
 * [2024-03-10, 03:15:47](https://news.ycombinator.com/item?id=39656455) - [U.S. Is Said to Open Criminal Inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
-* [2024-03-10, 00:48:47](https://news.ycombinator.com/item?id=39655859) - [Activision QA Workers Vote to Form Largest US Video Game Worker Union to Date](https://www.ign.com/articles/activision-qa-workers-vote-to-form-largest-us-video-game-worker-union-to-date)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-03-09, 20:47:34](https://news.ycombinator.com/item?id=39654606) - [The Programmer's Apprentice Project: A Research Overview (1987) [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 * [2024-03-09, 20:37:31](https://news.ycombinator.com/item?id=39654538) - [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
