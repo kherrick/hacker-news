@@ -21,6 +21,7 @@
 * [2024-03-09, 19:50:43](https://news.ycombinator.com/item?id=39654232) - [Tales of the Catfish God: Earthquakes in Japanese Woodblock Prints (1855)](https://publicdomainreview.org/collection/earthquakes-in-japanese-woodblock-prints/)
 * [2024-03-09, 19:21:29](https://news.ycombinator.com/item?id=39654060) - [Midnight Blizzard Attack on Microsoft is ongoing](https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
+* [2024-03-09, 18:45:39](https://news.ycombinator.com/item?id=39653820) - [Being a Fast, Cogent Writer Is Useful](https://v5.chriskrycho.com/journal/writing-productivity/)
 * [2024-03-09, 18:44:31](https://news.ycombinator.com/item?id=39653813) - [Show HN: Print My Drone, catalog of 3D printable drone models](https://printmydrone.com)
 * [2024-03-09, 18:43:29](https://news.ycombinator.com/item?id=39653805) - [Getting started as an alternative app marketplace in the European Union](https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/)
 * [2024-03-09, 18:33:22](https://news.ycombinator.com/item?id=39653741) - [Let's give the Mac Classic 4 megs of RAM [video]](https://www.youtube.com/watch?v=_iE-CKcyR2E)
