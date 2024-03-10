@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:27:18](https://news.ycombinator.com/item?id=39663027) - [Nvidia is sued by authors over AI use of copyrighted works](https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/)
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:30:29](https://news.ycombinator.com/item?id=39662676) - [Why the Use of \"Recall\" for Tesla Over-the-Air Updates Is Silly](https://www.wsj.com/articles/dont-believe-the-tesla-headlines-safety-recall-software-update-c2e95f3a)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
 * [2024-03-10, 21:02:17](https://news.ycombinator.com/item?id=39662506) - [My Guide to Software Engineering Contracting in UK](https://codedeepdives.com/blog/guide-to-software-engineer-contracting-in-uk)
 * [2024-03-10, 20:19:07](https://news.ycombinator.com/item?id=39662246) - [How to use PostgreSQL for (military) geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
+* [2024-03-10, 20:11:41](https://news.ycombinator.com/item?id=39662188) - [One quarter of adult children estranged from a parent](https://thehill.com/blogs/blog-briefing-room/4104138-one-quarter-of-adult-children-estranged-from-a-parent/)
 * [2024-03-10, 19:55:28](https://news.ycombinator.com/item?id=39662079) - [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
 * [2024-03-10, 19:45:53](https://news.ycombinator.com/item?id=39662012) - [The 1970s Computer: A Slice of Computing](https://hackaday.com/2024/03/06/the-1970s-computer-a-slice-of-computing/)
 * [2024-03-10, 19:28:37](https://news.ycombinator.com/item?id=39661840) - [Controlling 3.6kW of Solar EV Charging with an Arduino GIGA R1 WiFi](https://blog.arduino.cc/2024/03/04/controlling-3-6kw-of-solar-ev-charging-with-an-arduino-giga-r1-wifi/)

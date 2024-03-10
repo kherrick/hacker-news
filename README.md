@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:27:18](https://news.ycombinator.com/item?id=39663027) - [Nvidia is sued by authors over AI use of copyrighted works](https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/)
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
 * [2024-03-10, 21:02:17](https://news.ycombinator.com/item?id=39662506) - [My Guide to Software Engineering Contracting in UK](https://codedeepdives.com/blog/guide-to-software-engineer-contracting-in-uk)
 * [2024-03-10, 20:19:07](https://news.ycombinator.com/item?id=39662246) - [Using PostgreSQL for military geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
+* [2024-03-10, 20:11:41](https://news.ycombinator.com/item?id=39662188) - [One quarter of adult children estranged from a parent](https://thehill.com/blogs/blog-briefing-room/4104138-one-quarter-of-adult-children-estranged-from-a-parent/)
 * [2024-03-10, 19:55:28](https://news.ycombinator.com/item?id=39662079) - [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
 * [2024-03-10, 19:28:37](https://news.ycombinator.com/item?id=39661840) - [Controlling 3.6kW of Solar EV Charging with an Arduino GIGA R1 WiFi](https://blog.arduino.cc/2024/03/04/controlling-3-6kw-of-solar-ev-charging-with-an-arduino-giga-r1-wifi/)
 * [2024-03-10, 19:14:48](https://news.ycombinator.com/item?id=39661721) - [The Fashion Police in 16th-century Italy (2014)](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
@@ -26,8 +28,6 @@
 * [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
-* [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
-* [2024-03-09, 16:12:56](https://news.ycombinator.com/item?id=39652608) - [Fair Benchmarking Considered Difficult (2018) [pdf]](https://hannes.muehleisen.org/publications/DBTEST2018-performance-testing.pdf)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-07, 23:00:01](https://news.ycombinator.com/item?id=39635691) - [Mandala: A little plaground for testing pixel logic patterns](https://github.com/gingerbeardman/mandala)
 
