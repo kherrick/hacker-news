@@ -95,6 +95,7 @@
 * [2024-03-09, 04:57:15](https://news.ycombinator.com/item?id=39649486) - [The Suicide PhD Candidate Huixiang Chen](https://huixiangvoice.medium.com/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3)
 * [2024-03-09, 03:55:24](https://news.ycombinator.com/item?id=39649261) - [Claude 3 System Prompt](https://twitter.com/amandaaskell/status/1765207842993434880)
 * [2024-03-09, 03:45:14](https://news.ycombinator.com/item?id=39649230) - [The Death of Angela Chao](https://www.wsj.com/real-estate/angela-chao-death-texas-tesla-safety-c435daa0)
+* [2024-03-09, 03:31:52](https://news.ycombinator.com/item?id=39649185) - [The 160-year mystery of Europe's Ice Age 'queens'](https://www.bbc.com/future/article/20240307-the-160-year-mystery-of-the-stone-age-venus-figurines)
 * [2024-03-09, 03:15:16](https://news.ycombinator.com/item?id=39649126) - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 * [2024-03-09, 02:47:51](https://news.ycombinator.com/item?id=39649019) - [SCO–Linux Disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes)
 * [2024-03-09, 02:24:51](https://news.ycombinator.com/item?id=39648902) - [Top US cybersecurity agency hacked and forced to take some systems offline](https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
