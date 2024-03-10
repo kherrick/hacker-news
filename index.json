@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-03-10, 11:54:33",
-      "https://news.ycombinator.com/item?id=39658435"
-    ],
-    [
-      "Sixty Four is a beautiful system design toy that reveals something rather dark",
-      "https://arstechnica.com/gaming/2024/03/sixty-four-is-an-idle-clicker-a-factory-sim-and-a-dark-extractive-journey/"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 10:03:11",
       "https://news.ycombinator.com/item?id=39657991"
     ],
@@ -157,6 +147,16 @@
     [
       "Open Data Description Language",
       "https://openddl.org/"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 02:09:08",
+      "https://news.ycombinator.com/item?id=39656195"
+    ],
+    [
+      "An ES5-compliant JavaScript interpreter, written in Java",
+      "https://github.com/TopchetoEU/jscript"
     ]
   ],
   [
