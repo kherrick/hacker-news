@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 03:21:26](https://news.ycombinator.com/item?id=39656475) - [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-09, 22:23:42](https://news.ycombinator.com/item?id=39655179) - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
@@ -16,7 +17,6 @@
 * [2024-03-09, 16:57:39](https://news.ycombinator.com/item?id=39652956) - [Show HN: bef – a tool that encodes/decodes interleaved erasure coded streams](https://github.com/gbletr42/bef)
 * [2024-03-09, 16:55:47](https://news.ycombinator.com/item?id=39652937) - [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
 * [2024-03-09, 16:20:51](https://news.ycombinator.com/item?id=39652667) - [An ALS drug fails, again](https://www.science.org/content/blog-post/als-drug-fails-again)
-* [2024-03-09, 16:05:38](https://news.ycombinator.com/item?id=39652539) - [ANSI/VT100-compatible serial terminal built with Raspberry Pi Pico](https://github.com/zephray/ELTerm)
 * [2024-03-09, 15:50:12](https://news.ycombinator.com/item?id=39652422) - [Show HN: Schedule iMessage Texts from .txt Files](https://github.com/reidjs/schedule-texts-from-txt)
 * [2024-03-09, 15:19:41](https://news.ycombinator.com/item?id=39652139) - [Antarctic Explorers Wrote Cute, Funny Stories to Hide Dangerous Stunts](https://www.atlasobscura.com/articles/antarctica-book-and-newspapers)
 * [2024-03-09, 14:49:53](https://news.ycombinator.com/item?id=39651926) - [An all-optical general-purpose CPU and optical computer architecture](https://arxiv.org/abs/2403.00045)
