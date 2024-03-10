@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 01:35:35](https://news.ycombinator.com/item?id=39656066) - [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
 * [2024-03-10, 00:33:06](https://news.ycombinator.com/item?id=39655783) - [Both pilots of an A320 fell asleep in the cockpit for 28 minutes](https://airlive.net/reports/2024/03/09/report-both-pilots-of-an-a320-fall-asleep-in-the-cockpit-for-28-minutes/)
 * [2024-03-09, 22:23:42](https://news.ycombinator.com/item?id=39655179) - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
@@ -23,7 +24,6 @@
 * [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
 * [2024-03-09, 13:03:16](https://news.ycombinator.com/item?id=39651356) - [What Cannot be Skipped About the Skiplist](https://arxiv.org/abs/2403.04582)
 * [2024-03-09, 12:28:29](https://news.ycombinator.com/item?id=39651230) - [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
-* [2024-03-09, 10:36:25](https://news.ycombinator.com/item?id=39650788) - [SuperC: Parsing All of C by Taming the Preprocessor [pdf] (2012)](https://paulgazzillo.com/papers/pldi12.pdf)
 * [2024-03-09, 05:57:41](https://news.ycombinator.com/item?id=39649732) - [1brc merykitty's magic SWAR: 8 lines of code explained in 3k words](https://questdb.io/blog/1brc-merykittys-magic-swar/)
 * [2024-03-08, 16:44:09](https://news.ycombinator.com/item?id=39642848) - [From Snowdrop to Nightjar: Robert Marsham's \"Indications of Spring\" (1789)](https://publicdomainreview.org/essay/from-snowdrop-to-nightjar/)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
