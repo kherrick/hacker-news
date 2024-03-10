@@ -14,6 +14,7 @@
 * [2024-03-10, 18:25:58](https://news.ycombinator.com/item?id=39661305) - [Read It Never](https://prertik.com/read-it-never)
 * [2024-03-10, 17:48:46](https://news.ycombinator.com/item?id=39661010) - [A.I. Is Learning What It Means to Be Alive](https://www.nytimes.com/2024/03/10/science/ai-learning-biology.html)
 * [2024-03-10, 17:47:46](https://news.ycombinator.com/item?id=39661003) - [Job seekers could soon face an 'employer's market' as unemployment rate rises](https://globalnews.ca/news/10344333/canada-jobs-report-february-2024/)
+* [2024-03-10, 17:46:25](https://news.ycombinator.com/item?id=39660990) - [Kernel Hardening – Protect Linux User Accounts Against Brute Force Attacks](https://github.com/Kicksecure/security-misc)
 * [2024-03-10, 17:17:11](https://news.ycombinator.com/item?id=39660780) - [How Far Are We from Intelligent Visual Deductive Reasoning?](https://arxiv.org/abs/2403.04732)
 * [2024-03-10, 17:13:10](https://news.ycombinator.com/item?id=39660749) - [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
 * [2024-03-10, 17:10:10](https://news.ycombinator.com/item?id=39660716) - [The FT's chief executive on AI, \"loyalist\" readers, and its U.S. expansion](https://www.niemanlab.org/2024/03/dont-expect-help-from-the-disruptors-the-fts-chief-executive-on-ai-loyalist-readers-and-its-u-s-expansion/)
