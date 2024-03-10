@@ -2,6 +2,7 @@
 
 * [2024-03-10, 17:17:11](https://news.ycombinator.com/item?id=39660780) - [How Far Are We from Intelligent Visual Deductive Reasoning?](https://arxiv.org/abs/2403.04732)
 * [2024-03-10, 17:13:10](https://news.ycombinator.com/item?id=39660749) - [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
+* [2024-03-10, 17:10:10](https://news.ycombinator.com/item?id=39660716) - [The FT's chief executive on AI, \"loyalist\" readers, and its U.S. expansion](https://www.niemanlab.org/2024/03/dont-expect-help-from-the-disruptors-the-fts-chief-executive-on-ai-loyalist-readers-and-its-u-s-expansion/)
 * [2024-03-10, 17:08:32](https://news.ycombinator.com/item?id=39660703) - [Canada faces a series of crises that will test it in the coming years, RCMP warn](https://www.cbc.ca/news/politics/rcmp-police-future-trends-1.7138046)
 * [2024-03-10, 17:06:11](https://news.ycombinator.com/item?id=39660687) - [Technical Skills Are Overrated. Focus on Your Attitude](https://www.scarletink.com/p/technical-skills-are-overrated-focus-on-your-attitude)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660474) - [Job growth is booming across the U.S. but not in California. Here's why](https://www.latimes.com/business/story/2024-03-08/u-s-and-california-jobs-report)
@@ -21,7 +22,6 @@
 * [2024-03-09, 19:59:00](https://news.ycombinator.com/item?id=39654291) - [Trapped in the Ivory Basement (2021)](https://thelocal.to/trapped-in-the-ivory-basement/)
 * [2024-03-09, 19:50:43](https://news.ycombinator.com/item?id=39654232) - [Tales of the Catfish God: Earthquakes in Japanese Woodblock Prints (1855)](https://publicdomainreview.org/collection/earthquakes-in-japanese-woodblock-prints/)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
-* [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [Bypassing Safari 17's advanced audio fingerprinting protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-09, 17:40:30](https://news.ycombinator.com/item?id=39653312) - [Using LLMs to Generate Fuzzers](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
 * [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
