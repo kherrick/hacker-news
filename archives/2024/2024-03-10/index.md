@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 15:45:48](https://news.ycombinator.com/item?id=39660074) - [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
 * [2024-03-10, 14:13:32](https://news.ycombinator.com/item?id=39659246) - [\"Let them eat cereal\" How \"greedflation\" fueled consumer ire against Kellogg](https://www.salon.com/2024/03/10/let-them-eat-cereal-how-accusations-of-greedflation-fueled-consumer-ire-against-kelloggs/)
 * [2024-03-10, 13:55:12](https://news.ycombinator.com/item?id=39659087) - [Ask HN: When will LLMs be able to interrupt or interject?](https://news.ycombinator.com/item?id=39659087)
@@ -31,6 +32,7 @@
 * [2024-03-10, 07:08:46](https://news.ycombinator.com/item?id=39657293) - [Suyu: A Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
 * [2024-03-10, 06:41:10](https://news.ycombinator.com/item?id=39657200) - [Show HN: Aussie startup. Debian Trixie phone. Taiwan contract](https://furilabs.com/blog/?no-amp=1)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
+* [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
 * [2024-03-10, 04:43:29](https://news.ycombinator.com/item?id=39656772) - [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
