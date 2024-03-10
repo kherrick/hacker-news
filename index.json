@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-10, 23:00:53",
+      "https://news.ycombinator.com/item?id=39663219"
+    ],
+    [
+      "The EBF Documentary",
+      "https://www.brendangregg.com/blog/2024-03-10/ebpf-documentary.html"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 22:45:34",
       "https://news.ycombinator.com/item?id=39663135"
     ],
@@ -17,6 +27,16 @@
     [
       "Nvidia is sued by authors over AI use of copyrighted works",
       "https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 21:38:06",
+      "https://news.ycombinator.com/item?id=39662721"
+    ],
+    [
+      "LocalSend: Open-source, cross-platform file sharing to nearby devices",
+      "https://localsend.org"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Kernel Hardening – Protect Linux User Accounts Against Brute Force Attacks",
       "https://github.com/Kicksecure/security-misc"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 17:17:11",
-      "https://news.ycombinator.com/item?id=39660780"
-    ],
-    [
-      "How far are we from intelligent visual deductive reasoning?",
-      "https://arxiv.org/abs/2403.04732"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Bruno: Fast and Git-friendly open-source API client (Postman alternative)",
       "https://www.usebruno.com/"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 14:33:02",
-      "https://news.ycombinator.com/item?id=39651796"
-    ],
-    [
-      "Monodraw",
-      "https://monodraw.helftone.com/"
     ]
   ],
   [
