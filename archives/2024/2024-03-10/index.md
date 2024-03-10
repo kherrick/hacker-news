@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 19:14:48](https://news.ycombinator.com/item?id=39661721) - [The Fashion Police in 16th-century Italy](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 * [2024-03-10, 18:48:34](https://news.ycombinator.com/item?id=39661497) - [Rebuilding Memchess.com from Its Archive](https://grondilu.github.io/memchess/)
+* [2024-03-10, 18:46:19](https://news.ycombinator.com/item?id=39661482) - [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
 * [2024-03-10, 18:25:58](https://news.ycombinator.com/item?id=39661305) - [Read It Never](https://prertik.com/read-it-never)
 * [2024-03-10, 17:48:46](https://news.ycombinator.com/item?id=39661010) - [A.I. Is Learning What It Means to Be Alive](https://www.nytimes.com/2024/03/10/science/ai-learning-biology.html)
 * [2024-03-10, 17:47:46](https://news.ycombinator.com/item?id=39661003) - [Job seekers could soon face an 'employer's market' as unemployment rate rises](https://globalnews.ca/news/10344333/canada-jobs-report-february-2024/)
@@ -14,6 +16,7 @@
 * [2024-03-10, 17:08:32](https://news.ycombinator.com/item?id=39660703) - [Canada faces a series of crises that will test it in the coming years, RCMP warn](https://www.cbc.ca/news/politics/rcmp-police-future-trends-1.7138046)
 * [2024-03-10, 17:06:11](https://news.ycombinator.com/item?id=39660687) - [Technical Skills Are Overrated. Focus on Your Attitude](https://www.scarletink.com/p/technical-skills-are-overrated-focus-on-your-attitude)
 * [2024-03-10, 16:52:39](https://news.ycombinator.com/item?id=39660596) - [The Only Force Stronger Than Polarization? Rising Home Prices](https://www.theatlantic.com/ideas/archive/2024/03/yimby-housing-bipartisan-zoning/677704/)
+* [2024-03-10, 16:52:21](https://news.ycombinator.com/item?id=39660592) - [DBeaver – open-source database client](https://github.com/dbeaver/dbeaver)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660475) - [A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660474) - [Job growth is booming across the U.S. but not in California. Here's why](https://www.latimes.com/business/story/2024-03-08/u-s-and-california-jobs-report)
 * [2024-03-10, 16:28:02](https://news.ycombinator.com/item?id=39660395) - [The hottest new programming language is English Or maybe not](https://garymarcus.substack.com/p/the-hottest-new-programming-language)
