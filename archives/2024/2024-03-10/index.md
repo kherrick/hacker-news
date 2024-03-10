@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
 * [2024-03-10, 08:48:45](https://news.ycombinator.com/item?id=39657675) - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
+* [2024-03-10, 08:42:32](https://news.ycombinator.com/item?id=39657650) - [What a $1 deal says about America's office market](https://www.bbc.co.uk/news/business-68472143)
 * [2024-03-10, 07:59:44](https://news.ycombinator.com/item?id=39657499) - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 * [2024-03-10, 07:26:42](https://news.ycombinator.com/item?id=39657362) - [Insurance Buys the Wheelchair, but Not the App to Run It](https://hackaday.com/2024/03/09/the-insurance-buys-the-wheelchair-but-not-the-app-to-run-it/)
 * [2024-03-10, 07:24:26](https://news.ycombinator.com/item?id=39657349) - [How the Gaza Ministry of Health Fakes Casualty Numbers](https://www.tabletmag.com/sections/news/articles/how-gaza-health-ministry-fakes-casualty-numbers)
