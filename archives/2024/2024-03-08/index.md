@@ -33,6 +33,7 @@
 * [2024-03-08, 18:38:36](https://news.ycombinator.com/item?id=39644379) - [Google fires employee who protested Israel tech event as internal dissent mounts](https://www.cnbc.com/2024/03/08/google-fires-employee-who-protested-israel-tech-event-shuts-forum.html)
 * [2024-03-08, 18:35:42](https://news.ycombinator.com/item?id=39644341) - [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
 * [2024-03-08, 18:26:29](https://news.ycombinator.com/item?id=39644196) - [Why Tolkien Hated Dune](https://whitherthewest.com/2024/03/08/why-tolkien-hated-dune/)
+* [2024-03-08, 18:25:46](https://news.ycombinator.com/item?id=39644175) - [Robert Burnham Jr](https://en.wikipedia.org/wiki/Robert_Burnham_Jr.)
 * [2024-03-08, 18:24:13](https://news.ycombinator.com/item?id=39644153) - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
 * [2024-03-08, 18:12:25](https://news.ycombinator.com/item?id=39643981) - [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
 * [2024-03-08, 18:10:35](https://news.ycombinator.com/item?id=39643958) - [Piano on Paper](https://github.com/Mayuresh1611/Paper-Piano)

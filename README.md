@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-10, 07:24:26](https://news.ycombinator.com/item?id=39657349) - [How the Gaza Ministry of Health Fakes Casualty Numbers](https://www.tabletmag.com/sections/news/articles/how-gaza-health-ministry-fakes-casualty-numbers)
 * [2024-03-10, 06:41:10](https://news.ycombinator.com/item?id=39657200) - [Show HN: Aussie startup. Debian Trixie phone. Taiwan contract](https://furilabs.com/blog/?no-amp=1)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
 * [2024-03-10, 04:43:29](https://news.ycombinator.com/item?id=39656772) - [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-10, 03:21:26](https://news.ycombinator.com/item?id=39656475) - [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
+* [2024-03-10, 03:15:47](https://news.ycombinator.com/item?id=39656455) - [U.S. Is Said to Open Criminal Inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-03-09, 20:56:01](https://news.ycombinator.com/item?id=39654660) - [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
@@ -27,8 +27,8 @@
 * [2024-03-09, 13:03:16](https://news.ycombinator.com/item?id=39651356) - [What Cannot be Skipped About the Skiplist](https://arxiv.org/abs/2403.04582)
 * [2024-03-09, 05:57:41](https://news.ycombinator.com/item?id=39649732) - [1brc merykitty's magic SWAR: 8 lines of code explained in 3k words](https://questdb.io/blog/1brc-merykittys-magic-swar/)
 * [2024-03-09, 03:31:52](https://news.ycombinator.com/item?id=39649185) - [The 160-year mystery of Europe's Ice Age 'queens'](https://www.bbc.com/future/article/20240307-the-160-year-mystery-of-the-stone-age-venus-figurines)
+* [2024-03-08, 18:25:46](https://news.ycombinator.com/item?id=39644175) - [Robert Burnham Jr](https://en.wikipedia.org/wiki/Robert_Burnham_Jr.)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
-* [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
 * [2024-03-07, 12:35:07](https://news.ycombinator.com/item?id=39628304) - [Wikipedia over DNS (2008)](https://dgl.cx/wikipedia-dns)
 
 ## [Archives](archives/index.md)
