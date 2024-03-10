@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 06:41:10](https://news.ycombinator.com/item?id=39657200) - [Show HN: Aussie startup. Debian Trixie phone. Taiwan contract](https://furilabs.com/blog/?no-amp=1)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
 * [2024-03-10, 04:43:29](https://news.ycombinator.com/item?id=39656772) - [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)

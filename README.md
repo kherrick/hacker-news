@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 06:41:10](https://news.ycombinator.com/item?id=39657200) - [Show HN: Aussie startup. Debian Trixie phone. Taiwan contract](https://furilabs.com/blog/?no-amp=1)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
 * [2024-03-10, 04:43:29](https://news.ycombinator.com/item?id=39656772) - [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)
@@ -13,7 +14,6 @@
 * [2024-03-09, 20:21:24](https://news.ycombinator.com/item?id=39654445) - [Reverse Engineering Protobuf Definitions from Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
-* [2024-03-09, 18:16:18](https://news.ycombinator.com/item?id=39653634) - [Show HN: Digital Superpowers, a free book highlighting various FOSS tools](https://digitalsuperpowers.com/)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
 * [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
 * [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [Bypassing Safari 17's advanced audio fingerprinting protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
