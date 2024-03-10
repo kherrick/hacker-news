@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 13:51:21](https://news.ycombinator.com/item?id=39659053) - [University of Virginia Spends $20M On 235 DEI Employees,Some Making $587,340](https://openthebooks.substack.com/p/university-of-virginia-spends-20)
 * [2024-03-10, 13:21:03](https://news.ycombinator.com/item?id=39658834) - [Cannabis use associated with 96% decreased odds of cognitive decline](https://www.eurekaselect.com/article/138726)
 * [2024-03-10, 13:15:03](https://news.ycombinator.com/item?id=39658787) - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
 * [2024-03-10, 13:09:14](https://news.ycombinator.com/item?id=39658742) - [Google confirmed it 'terminated' an employee who staged a protest against Israel](https://www.businessinsider.com/google-employee-fired-after-protesting-against-israel-2024-3)

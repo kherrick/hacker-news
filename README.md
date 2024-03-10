@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-10, 13:21:03](https://news.ycombinator.com/item?id=39658834) - [Cannabis use associated with 96% decreased odds of cognitive decline](https://www.eurekaselect.com/article/138726)
+* [2024-03-10, 13:51:21](https://news.ycombinator.com/item?id=39659053) - [University of Virginia Spends $20M On 235 DEI Employees,Some Making $587,340](https://openthebooks.substack.com/p/university-of-virginia-spends-20)
+* [2024-03-10, 13:21:03](https://news.ycombinator.com/item?id=39658834) - [Cannabis use associated with 96% decreased odds of subjective cognitive decline](https://www.eurekaselect.com/article/138726)
 * [2024-03-10, 13:15:03](https://news.ycombinator.com/item?id=39658787) - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
 * [2024-03-10, 13:09:14](https://news.ycombinator.com/item?id=39658742) - [Google confirmed it 'terminated' an employee who staged a protest against Israel](https://www.businessinsider.com/google-employee-fired-after-protesting-against-israel-2024-3)
 * [2024-03-10, 12:06:49](https://news.ycombinator.com/item?id=39658497) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -16,7 +17,6 @@
 * [2024-03-10, 03:00:15](https://news.ycombinator.com/item?id=39656393) - [Open Data Description Language](https://openddl.org/)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-10, 00:48:47](https://news.ycombinator.com/item?id=39655859) - [Activision QA Workers Vote to Form Largest US Video Game Worker Union to Date](https://www.ign.com/articles/activision-qa-workers-vote-to-form-largest-us-video-game-worker-union-to-date)
-* [2024-03-09, 20:37:31](https://news.ycombinator.com/item?id=39654538) - [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
 * [2024-03-09, 20:21:24](https://news.ycombinator.com/item?id=39654445) - [Reverse Engineering Protobuf Definitions from Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
 * [2024-03-09, 19:59:00](https://news.ycombinator.com/item?id=39654291) - [Trapped in the Ivory Basement (2021)](https://thelocal.to/trapped-in-the-ivory-basement/)
 * [2024-03-09, 19:50:43](https://news.ycombinator.com/item?id=39654232) - [Tales of the Catfish God: Earthquakes in Japanese Woodblock Prints (1855)](https://publicdomainreview.org/collection/earthquakes-in-japanese-woodblock-prints/)
