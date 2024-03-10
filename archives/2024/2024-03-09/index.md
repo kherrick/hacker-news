@@ -46,6 +46,7 @@
 * [2024-03-09, 16:55:47](https://news.ycombinator.com/item?id=39652937) - [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
 * [2024-03-09, 16:41:18](https://news.ycombinator.com/item?id=39652818) - [A Mistake in a Tesla and a Panicked Final Call: The Death of Angela Chao](https://www.wsj.com/real-estate/angela-chao-death-texas-tesla-safety-c435daa0)
 * [2024-03-09, 16:20:51](https://news.ycombinator.com/item?id=39652667) - [An ALS Drug Fails. Again](https://www.science.org/content/blog-post/als-drug-fails-again)
+* [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
 * [2024-03-09, 16:09:32](https://news.ycombinator.com/item?id=39652572) - [How to Lose Control of Your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 * [2024-03-09, 16:05:38](https://news.ycombinator.com/item?id=39652539) - [ANSI/VT100-compatible serial terminal built with Raspberry Pi Pico](https://github.com/zephray/ELTerm)
 * [2024-03-09, 15:50:12](https://news.ycombinator.com/item?id=39652422) - [Show HN: Schedule iMessage Texts from .txt Files](https://github.com/reidjs/schedule-texts-from-txt)

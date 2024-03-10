@@ -19,6 +19,7 @@
 * [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
 * [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [Bypassing Safari 17's advanced audio fingerprinting protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-09, 17:40:30](https://news.ycombinator.com/item?id=39653312) - [Using LLMs to Generate Fuzzers](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
+* [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
 * [2024-03-09, 15:19:41](https://news.ycombinator.com/item?id=39652139) - [Antarctic Explorers Wrote Cute, Funny Stories to Hide Dangerous Stunts](https://www.atlasobscura.com/articles/antarctica-book-and-newspapers)
 * [2024-03-09, 14:49:53](https://news.ycombinator.com/item?id=39651926) - [An all-optical general-purpose CPU and optical computer architecture](https://arxiv.org/abs/2403.00045)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
@@ -27,7 +28,6 @@
 * [2024-03-09, 13:03:16](https://news.ycombinator.com/item?id=39651356) - [What Cannot be Skipped About the Skiplist](https://arxiv.org/abs/2403.04582)
 * [2024-03-09, 05:57:41](https://news.ycombinator.com/item?id=39649732) - [1brc merykitty's magic SWAR: 8 lines of code explained in 3k words](https://questdb.io/blog/1brc-merykittys-magic-swar/)
 * [2024-03-09, 03:31:52](https://news.ycombinator.com/item?id=39649185) - [The 160-year mystery of Europe's Ice Age 'queens'](https://www.bbc.com/future/article/20240307-the-160-year-mystery-of-the-stone-age-venus-figurines)
-* [2024-03-08, 18:25:46](https://news.ycombinator.com/item?id=39644175) - [Robert Burnham Jr](https://en.wikipedia.org/wiki/Robert_Burnham_Jr.)
 * [2024-03-08, 16:44:09](https://news.ycombinator.com/item?id=39642848) - [From Snowdrop to Nightjar: Robert Marsham's \"Indications of Spring\" (1789)](https://publicdomainreview.org/essay/from-snowdrop-to-nightjar/)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 
