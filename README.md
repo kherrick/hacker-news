@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 17:17:11](https://news.ycombinator.com/item?id=39660780) - [How Far Are We from Intelligent Visual Deductive Reasoning?](https://arxiv.org/abs/2403.04732)
+* [2024-03-10, 17:13:10](https://news.ycombinator.com/item?id=39660749) - [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
 * [2024-03-10, 17:08:32](https://news.ycombinator.com/item?id=39660703) - [Canada faces a series of crises that will test it in the coming years, RCMP warn](https://www.cbc.ca/news/politics/rcmp-police-future-trends-1.7138046)
 * [2024-03-10, 17:06:11](https://news.ycombinator.com/item?id=39660687) - [Technical Skills Are Overrated. Focus on Your Attitude](https://www.scarletink.com/p/technical-skills-are-overrated-focus-on-your-attitude)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660474) - [Job growth is booming across the U.S. but not in California. Here's why](https://www.latimes.com/business/story/2024-03-08/u-s-and-california-jobs-report)
@@ -11,9 +13,7 @@
 * [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
 * [2024-03-10, 12:06:49](https://news.ycombinator.com/item?id=39658497) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-10, 09:52:44](https://news.ycombinator.com/item?id=39657936) - [Iris (Infra-Red, in Situ) Silicon Verification Project Updates](https://www.bunniestudios.com/blog/?p=6937)
-* [2024-03-10, 08:48:45](https://news.ycombinator.com/item?id=39657675) - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
-* [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-10, 03:30:34](https://news.ycombinator.com/item?id=39656510) - [A copy of a copy of a copy: FDA medical device clearances](https://wcedmisten.fyi/post/medical-device-analysis/)
 * [2024-03-10, 03:15:47](https://news.ycombinator.com/item?id=39656455) - [U.S. is said to open criminal inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 17:17:11](https://news.ycombinator.com/item?id=39660780) - [How Far Are We from Intelligent Visual Deductive Reasoning?](https://arxiv.org/abs/2403.04732)
+* [2024-03-10, 17:13:10](https://news.ycombinator.com/item?id=39660749) - [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
 * [2024-03-10, 17:08:32](https://news.ycombinator.com/item?id=39660703) - [Canada faces a series of crises that will test it in the coming years, RCMP warn](https://www.cbc.ca/news/politics/rcmp-police-future-trends-1.7138046)
 * [2024-03-10, 17:06:11](https://news.ycombinator.com/item?id=39660687) - [Technical Skills Are Overrated. Focus on Your Attitude](https://www.scarletink.com/p/technical-skills-are-overrated-focus-on-your-attitude)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660474) - [Job growth is booming across the U.S. but not in California. Here's why](https://www.latimes.com/business/story/2024-03-08/u-s-and-california-jobs-report)
