@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
 * [2024-03-10, 04:00:36](https://news.ycombinator.com/item?id=39656620) - [Boeing says no documents found on 737 MAX 9 key part removal](https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/)
 * [2024-03-10, 03:21:26](https://news.ycombinator.com/item?id=39656475) - [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
 * [2024-03-10, 03:00:40](https://news.ycombinator.com/item?id=39656395) - [Roku TV will be unusable if you don't agree to the company's new terms](https://www.zdnet.com/home-and-office/home-entertainment/your-roku-tv-will-be-unusable-if-you-dont-agree-to-the-companys-controversial-new-terms/)
