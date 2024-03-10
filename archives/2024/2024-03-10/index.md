@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
+* [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-10, 04:00:36](https://news.ycombinator.com/item?id=39656620) - [Boeing says no documents found on 737 MAX 9 key part removal](https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/)
 * [2024-03-10, 03:21:26](https://news.ycombinator.com/item?id=39656475) - [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
+* [2024-03-10, 03:20:47](https://news.ycombinator.com/item?id=39656472) - [Argentina inflation seen cooling as Milei austerity tempers food prices](https://www.reuters.com/world/americas/argentina-inflation-seen-cooling-milei-austerity-tempers-food-prices-2024-03-08/)
 * [2024-03-10, 03:00:40](https://news.ycombinator.com/item?id=39656395) - [Roku TV will be unusable if you don't agree to the company's new terms](https://www.zdnet.com/home-and-office/home-entertainment/your-roku-tv-will-be-unusable-if-you-dont-agree-to-the-companys-controversial-new-terms/)
 * [2024-03-10, 02:10:33](https://news.ycombinator.com/item?id=39656203) - [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev/)
 * [2024-03-10, 02:01:00](https://news.ycombinator.com/item?id=39656167) - [Apple 'like The Godfather' with new App Store rules](https://www.bbc.com/news/technology-68517246)
