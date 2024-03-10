@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-10, 18:48:34](https://news.ycombinator.com/item?id=39661497) - [Rebuilding Memchess.com from Its Archive](https://grondilu.github.io/memchess/)
-* [2024-03-10, 17:48:46](https://news.ycombinator.com/item?id=39661010) - [A.I. Is Learning What It Means to Be Alive](https://www.nytimes.com/2024/03/10/science/ai-learning-biology.html)
 * [2024-03-10, 17:17:11](https://news.ycombinator.com/item?id=39660780) - [How far are we from intelligent visual deductive reasoning?](https://arxiv.org/abs/2403.04732)
 * [2024-03-10, 17:13:10](https://news.ycombinator.com/item?id=39660749) - [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
 * [2024-03-10, 17:10:10](https://news.ycombinator.com/item?id=39660716) - [The FT's chief executive on AI, \"loyalist\" readers, and its U.S. expansion](https://www.niemanlab.org/2024/03/dont-expect-help-from-the-disruptors-the-fts-chief-executive-on-ai-loyalist-readers-and-its-u-s-expansion/)
@@ -14,6 +13,7 @@
 * [2024-03-10, 12:06:49](https://news.ycombinator.com/item?id=39658497) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-10, 09:52:44](https://news.ycombinator.com/item?id=39657936) - [Iris (Infra-Red, in Situ) Silicon Verification Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-10, 09:15:44](https://news.ycombinator.com/item?id=39657782) - [Moore on Moore – The past, present and uncertain future of Moore's Law](https://thechipletter.substack.com/p/moore-on-moore)
+* [2024-03-10, 08:48:45](https://news.ycombinator.com/item?id=39657675) - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 * [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
@@ -27,7 +27,7 @@
 * [2024-03-09, 16:12:56](https://news.ycombinator.com/item?id=39652608) - [Fair Benchmarking Considered Difficult (2018) [pdf]](https://hannes.muehleisen.org/publications/DBTEST2018-performance-testing.pdf)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-09, 14:15:27](https://news.ycombinator.com/item?id=39651677) - [Stylized image binning algorithm, for the web](https://benjdd.com/posts/stylized-image-binning-algorithm/)
-* [2024-03-08, 04:17:41](https://news.ycombinator.com/item?id=39637713) - [Do we know enough about the safety of quat disinfectants?](https://cen.acs.org/safety/consumer-safety/know-enough-safety-quat-disinfectants/98/i30)
+* [2024-03-08, 04:17:41](https://news.ycombinator.com/item?id=39637713) - [Do we know enough about the safety of quat disinfectants? (2020)](https://cen.acs.org/safety/consumer-safety/know-enough-safety-quat-disinfectants/98/i30)
 * [2024-03-07, 23:00:01](https://news.ycombinator.com/item?id=39635691) - [Mandala: A little plaground for testing pixel logic patterns](https://github.com/gingerbeardman/mandala)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 
