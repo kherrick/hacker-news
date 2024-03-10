@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
 * [2024-03-09, 23:51:44](https://news.ycombinator.com/item?id=39655587) - [mRNA vaccines: let's eradicate herpes, cure cancer, and be sick a whole lot less](https://bessstillman.substack.com/p/mrna-vaccines-lets-be-sick-a-whole)
+* [2024-03-09, 23:38:05](https://news.ycombinator.com/item?id=39655521) - [The Surprising Left-Right Alliance That Wants More Apartments in Suburbs](https://www.nytimes.com/2024/03/09/business/economy/yimby-housing-conference.html)
 * [2024-03-09, 22:23:42](https://news.ycombinator.com/item?id=39655179) - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
 * [2024-03-09, 21:17:33](https://news.ycombinator.com/item?id=39654815) - [100 Years of Rent Control in Sweden](https://www.betonit.ai/p/100-years-of-rent-control-in-sweden)
 * [2024-03-09, 21:10:45](https://news.ycombinator.com/item?id=39654771) - [Legal row could force mystery artist Banksy to reveal his real name](https://www.theguardian.com/artanddesign/2024/mar/09/legal-row-banksy-reveal-real-name-art-images-authenticity)
