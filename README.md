@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 13:21:03](https://news.ycombinator.com/item?id=39658834) - [Cannabis use associated with 96% decreased odds of cognitive decline](https://www.eurekaselect.com/article/138726)
+* [2024-03-10, 13:15:03](https://news.ycombinator.com/item?id=39658787) - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
 * [2024-03-10, 13:09:14](https://news.ycombinator.com/item?id=39658742) - [Google confirmed it 'terminated' an employee who staged a protest against Israel](https://www.businessinsider.com/google-employee-fired-after-protesting-against-israel-2024-3)
 * [2024-03-10, 12:06:49](https://news.ycombinator.com/item?id=39658497) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-10, 11:47:52](https://news.ycombinator.com/item?id=39658408) - [When 'open core' projects reject contributions for competing with the EE](https://github.com/hoppscotch/hoppscotch/pull/3266)
@@ -23,9 +25,7 @@
 * [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [Bypassing Safari 17's advanced audio fingerprinting protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-09, 17:40:30](https://news.ycombinator.com/item?id=39653312) - [Using LLMs to Generate Fuzzers](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
 * [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
-* [2024-03-09, 14:49:53](https://news.ycombinator.com/item?id=39651926) - [An all-optical general-purpose CPU and optical computer architecture](https://arxiv.org/abs/2403.00045)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
-* [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
 * [2024-03-09, 14:15:27](https://news.ycombinator.com/item?id=39651677) - [Stylized image binning algorithm, for the web](https://benjdd.com/posts/stylized-image-binning-algorithm/)
 * [2024-03-09, 05:57:41](https://news.ycombinator.com/item?id=39649732) - [1brc merykitty's magic SWAR: 8 lines of code explained in 3k words](https://questdb.io/blog/1brc-merykittys-magic-swar/)
 * [2024-03-09, 03:31:52](https://news.ycombinator.com/item?id=39649185) - [The 160-year mystery of Europe's Ice Age 'queens'](https://www.bbc.com/future/article/20240307-the-160-year-mystery-of-the-stone-age-venus-figurines)
