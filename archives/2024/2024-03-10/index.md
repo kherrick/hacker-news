@@ -11,6 +11,7 @@
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
 * [2024-03-10, 21:02:17](https://news.ycombinator.com/item?id=39662506) - [My Guide to Software Engineering Contracting in UK](https://codedeepdives.com/blog/guide-to-software-engineer-contracting-in-uk)
 * [2024-03-10, 20:19:07](https://news.ycombinator.com/item?id=39662246) - [How to use PostgreSQL for (military) geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
+* [2024-03-10, 20:17:50](https://news.ycombinator.com/item?id=39662234) - [Perf Is Not Enough](https://motherduck.com/blog/perf-is-not-enough/)
 * [2024-03-10, 20:11:41](https://news.ycombinator.com/item?id=39662188) - [One quarter of adult children estranged from a parent](https://thehill.com/blogs/blog-briefing-room/4104138-one-quarter-of-adult-children-estranged-from-a-parent/)
 * [2024-03-10, 19:55:28](https://news.ycombinator.com/item?id=39662079) - [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
 * [2024-03-10, 19:45:53](https://news.ycombinator.com/item?id=39662012) - [The 1970s Computer: A Slice of Computing](https://hackaday.com/2024/03/06/the-1970s-computer-a-slice-of-computing/)
