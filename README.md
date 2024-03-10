@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-10, 23:00:53](https://news.ycombinator.com/item?id=39663219) - [The EBF Documentary](https://www.brendangregg.com/blog/2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:27:18](https://news.ycombinator.com/item?id=39663027) - [Nvidia is sued by authors over AI use of copyrighted works](https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/)
 * [2024-03-10, 21:38:06](https://news.ycombinator.com/item?id=39662721) - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
-* [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
+* [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
 * [2024-03-10, 21:02:17](https://news.ycombinator.com/item?id=39662506) - [My Guide to Software Engineering Contracting in UK](https://codedeepdives.com/blog/guide-to-software-engineer-contracting-in-uk)
 * [2024-03-10, 20:19:07](https://news.ycombinator.com/item?id=39662246) - [Using PostgreSQL for military geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
@@ -14,7 +13,7 @@
 * [2024-03-10, 19:14:48](https://news.ycombinator.com/item?id=39661721) - [The Fashion Police in 16th-century Italy (2014)](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 * [2024-03-10, 18:48:34](https://news.ycombinator.com/item?id=39661497) - [Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
 * [2024-03-10, 18:46:19](https://news.ycombinator.com/item?id=39661482) - [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
-* [2024-03-10, 17:46:25](https://news.ycombinator.com/item?id=39660990) - [Kernel Hardening – Protect Linux User Accounts Against Brute Force Attacks](https://github.com/Kicksecure/security-misc)
+* [2024-03-10, 17:46:25](https://news.ycombinator.com/item?id=39660990) - [Kernel Hardening: Protect Linux user accounts against brute force attacks](https://github.com/Kicksecure/security-misc)
 * [2024-03-10, 16:52:21](https://news.ycombinator.com/item?id=39660592) - [DBeaver – open-source database client](https://github.com/dbeaver/dbeaver)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660475) - [A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)
 * [2024-03-10, 15:29:01](https://news.ycombinator.com/item?id=39659942) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
@@ -29,6 +28,7 @@
 * [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
+* [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-07, 23:00:01](https://news.ycombinator.com/item?id=39635691) - [Mandala: A little plaground for testing pixel logic patterns](https://github.com/gingerbeardman/mandala)
 
 ## [Archives](archives/index.md)
