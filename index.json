@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-03-10, 13:55:12",
-      "https://news.ycombinator.com/item?id=39659087"
-    ],
-    [
-      "Ask HN: When will LLMs be able to interrupt or interject?",
-      "https://news.ycombinator.com/item?id=39659087"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 13:15:03",
       "https://news.ycombinator.com/item?id=39658787"
     ],
@@ -161,22 +151,22 @@
   ],
   [
     [
+      "2024-03-10, 02:09:08",
+      "https://news.ycombinator.com/item?id=39656195"
+    ],
+    [
+      "An ES5-compliant JavaScript interpreter, written in Java",
+      "https://github.com/TopchetoEU/jscript"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 01:32:33",
       "https://news.ycombinator.com/item?id=39656056"
     ],
     [
       "Pipexec – Handling pipe of commands like a single command",
       "https://github.com/flonatel/pipexec"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 00:48:47",
-      "https://news.ycombinator.com/item?id=39655859"
-    ],
-    [
-      "Activision QA Workers Vote to Form Largest US Video Game Worker Union to Date",
-      "https://www.ign.com/articles/activision-qa-workers-vote-to-form-largest-us-video-game-worker-union-to-date"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Stylized image binning algorithm, for the web",
       "https://benjdd.com/posts/stylized-image-binning-algorithm/"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 05:57:41",
+      "https://news.ycombinator.com/item?id=39649732"
+    ],
+    [
+      "1brc merykitty's magic SWAR: 8 lines of code explained in 3k words",
+      "https://questdb.io/blog/1brc-merykittys-magic-swar/"
     ]
   ],
   [
