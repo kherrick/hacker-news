@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 12:17:05](https://news.ycombinator.com/item?id=39658532) - [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
 * [2024-03-10, 12:06:49](https://news.ycombinator.com/item?id=39658497) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-10, 11:21:49](https://news.ycombinator.com/item?id=39658310) - [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
 * [2024-03-10, 08:48:45](https://news.ycombinator.com/item?id=39657675) - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
@@ -18,7 +19,6 @@
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
-* [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
 * [2024-03-09, 17:54:23](https://news.ycombinator.com/item?id=39653431) - [Bypassing Safari 17's advanced audio fingerprinting protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-09, 17:40:30](https://news.ycombinator.com/item?id=39653312) - [Using LLMs to Generate Fuzzers](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
 * [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)

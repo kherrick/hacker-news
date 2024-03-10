@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 12:17:05](https://news.ycombinator.com/item?id=39658532) - [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
 * [2024-03-10, 12:06:49](https://news.ycombinator.com/item?id=39658497) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-10, 11:21:49](https://news.ycombinator.com/item?id=39658310) - [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
 * [2024-03-10, 08:48:45](https://news.ycombinator.com/item?id=39657675) - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
