@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 02:10:33](https://news.ycombinator.com/item?id=39656203) - [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev/)
 * [2024-03-10, 02:01:00](https://news.ycombinator.com/item?id=39656167) - [Apple 'like The Godfather' with new App Store rules](https://www.bbc.com/news/technology-68517246)
 * [2024-03-10, 01:35:35](https://news.ycombinator.com/item?id=39656066) - [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
@@ -28,7 +29,6 @@
 * [2024-03-09, 05:57:41](https://news.ycombinator.com/item?id=39649732) - [1brc merykitty's magic SWAR: 8 lines of code explained in 3k words](https://questdb.io/blog/1brc-merykittys-magic-swar/)
 * [2024-03-08, 16:44:09](https://news.ycombinator.com/item?id=39642848) - [From Snowdrop to Nightjar: Robert Marsham's \"Indications of Spring\" (1789)](https://publicdomainreview.org/essay/from-snowdrop-to-nightjar/)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
-* [2024-03-07, 13:48:32](https://news.ycombinator.com/item?id=39628987) - [Starting a side project as a creative studio](https://www.hellotime.io/blog/starting-a-side-project-as-a-creative-studio)
 * [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
 
 ## [Archives](archives/index.md)

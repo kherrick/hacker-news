@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 02:10:33](https://news.ycombinator.com/item?id=39656203) - [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev/)
 * [2024-03-10, 02:01:00](https://news.ycombinator.com/item?id=39656167) - [Apple 'like The Godfather' with new App Store rules](https://www.bbc.com/news/technology-68517246)
 * [2024-03-10, 01:35:35](https://news.ycombinator.com/item?id=39656066) - [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
