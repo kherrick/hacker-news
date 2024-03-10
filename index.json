@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-03-10, 10:03:11",
-      "https://news.ycombinator.com/item?id=39657991"
-    ],
-    [
-      "Do we need swap on modern systems? (2017)",
-      "https://www.redhat.com/en/blog/do-we-really-need-swap-modern-systems"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 09:52:44",
       "https://news.ycombinator.com/item?id=39657936"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2024-03-10, 06:06:37",
+      "https://news.ycombinator.com/item?id=39657055"
+    ],
+    [
+      "Two scammers, a web of betrayal, and Europe's fraud of the century",
+      "https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 04:11:26",
       "https://news.ycombinator.com/item?id=39656657"
     ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39656455"
     ],
     [
-      "U.S. Is Said to Open Criminal Inquiry into Boeing",
+      "U.S. is said to open criminal inquiry into Boeing",
       "https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Open Data Description Language",
       "https://openddl.org/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 02:09:08",
-      "https://news.ycombinator.com/item?id=39656195"
-    ],
-    [
-      "An ES5-compliant JavaScript interpreter, written in Java",
-      "https://github.com/TopchetoEU/jscript"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Stylized image binning algorithm, for the web",
       "https://benjdd.com/posts/stylized-image-binning-algorithm/"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 05:57:41",
+      "https://news.ycombinator.com/item?id=39649732"
+    ],
+    [
+      "1brc merykitty's magic SWAR: 8 lines of code explained in 3k words",
+      "https://questdb.io/blog/1brc-merykittys-magic-swar/"
     ]
   ],
   [
