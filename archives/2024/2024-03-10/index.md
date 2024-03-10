@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-10, 04:00:36](https://news.ycombinator.com/item?id=39656620) - [Boeing says no documents found on 737 MAX 9 key part removal](https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/)

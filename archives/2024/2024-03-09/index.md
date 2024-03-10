@@ -26,6 +26,7 @@
 * [2024-03-09, 18:20:31](https://news.ycombinator.com/item?id=39653662) - [Digital Audio Mixer Pt.2](https://blog.brixit.nl/digital-audio-mixer-pt-2/)
 * [2024-03-09, 18:18:44](https://news.ycombinator.com/item?id=39653652) - [How fast can we process a CSV file](https://datapythonista.me/blog/how-fast-can-we-process-a-csv-file)
 * [2024-03-09, 18:17:18](https://news.ycombinator.com/item?id=39653644) - [The AI threats to climate change report [pdf]](https://foe.org/wp-content/uploads/2024/03/AI_Climate_Disinfo_v4_030124.pdf)
+* [2024-03-09, 18:16:18](https://news.ycombinator.com/item?id=39653634) - [Show HN: Digital Superpowers, a free book highlighting various FOSS tools](https://digitalsuperpowers.com/)
 * [2024-03-09, 18:16:02](https://news.ycombinator.com/item?id=39653633) - [Finland: Hybrid model with greenhouse makes vertical farming business viable](https://www.hortidaily.com/article/9604866/finland-hybrid-model-with-greenhouse-makes-vertical-farming-business-viable/)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
 * [2024-03-09, 18:02:06](https://news.ycombinator.com/item?id=39653517) - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
