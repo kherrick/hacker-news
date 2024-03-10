@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 17:08:32](https://news.ycombinator.com/item?id=39660703) - [Canada faces a series of crises that will test it in the coming years, RCMP warn](https://www.cbc.ca/news/politics/rcmp-police-future-trends-1.7138046)
+* [2024-03-10, 17:06:11](https://news.ycombinator.com/item?id=39660687) - [Technical Skills Are Overrated. Focus on Your Attitude](https://www.scarletink.com/p/technical-skills-are-overrated-focus-on-your-attitude)
+* [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660474) - [Job growth is booming across the U.S. but not in California. Here's why](https://www.latimes.com/business/story/2024-03-08/u-s-and-california-jobs-report)
 * [2024-03-10, 16:28:02](https://news.ycombinator.com/item?id=39660395) - [The hottest new programming language is English Or maybe not](https://garymarcus.substack.com/p/the-hottest-new-programming-language)
 * [2024-03-10, 15:45:48](https://news.ycombinator.com/item?id=39660074) - [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
 * [2024-03-10, 15:38:29](https://news.ycombinator.com/item?id=39660025) - [Could AI-designed proteins be weaponized? Scientists lay out safety guidelines](https://www.nature.com/articles/d41586-024-00699-0)
