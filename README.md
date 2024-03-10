@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 04:00:36](https://news.ycombinator.com/item?id=39656620) - [Boeing says no documents found on 737 MAX 9 key part removal](https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-09, 23:06:44](https://news.ycombinator.com/item?id=39655384) - [Iris (Infra-Red, in Situ) Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-09, 22:23:42](https://news.ycombinator.com/item?id=39655179) - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
@@ -8,7 +9,6 @@
 * [2024-03-09, 20:47:34](https://news.ycombinator.com/item?id=39654606) - [The Programmer's Apprentice Project: A Research Overview (1987) [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 * [2024-03-09, 20:37:31](https://news.ycombinator.com/item?id=39654538) - [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
 * [2024-03-09, 20:21:24](https://news.ycombinator.com/item?id=39654445) - [Reverse Engineering Protobuf Definitions from Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
-* [2024-03-09, 20:02:51](https://news.ycombinator.com/item?id=39654320) - [Cells from Pregnancy Fluid Used to Grow Mini Lungs, Organs](https://apnews.com/article/mini-organs-organoids-amniotic-fluid-fetus-f5a48564368d2cf383a7eac1371d67cf)
 * [2024-03-09, 18:56:56](https://news.ycombinator.com/item?id=39653895) - [I'm Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
 * [2024-03-09, 18:15:25](https://news.ycombinator.com/item?id=39653625) - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
