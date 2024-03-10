@@ -8,6 +8,7 @@
 * [2024-03-07, 23:20:43](https://news.ycombinator.com/item?id=39635854) - [Gemma 2B 60 tk/s WebGPU on M1](https://mediapipe-studio.webapps.google.com/studio/demo/llm_inference)
 * [2024-03-07, 23:17:51](https://news.ycombinator.com/item?id=39635827) - [Infant health suffered during baby formula shortage](https://www.ucdavis.edu/health/news/infant-health-suffered-during-baby-formula-shortage)
 * [2024-03-07, 23:06:40](https://news.ycombinator.com/item?id=39635743) - [How to become a pirate archivist (2022)](https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
+* [2024-03-07, 23:00:01](https://news.ycombinator.com/item?id=39635691) - [Mandala: A little plaground for testing pixel logic patterns](https://github.com/gingerbeardman/mandala)
 * [2024-03-07, 22:38:52](https://news.ycombinator.com/item?id=39635486) - [Ask HN: What underrated open source project deserves more recognition?](https://news.ycombinator.com/item?id=39635486)
 * [2024-03-07, 22:38:49](https://news.ycombinator.com/item?id=39635483) - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 22:17:22](https://news.ycombinator.com/item?id=39635232) - [Boeing 777 loses tire while taking off from SF, crushing cars on the ground](https://twitter.com/unusual_whales/status/1765857050188259374)
