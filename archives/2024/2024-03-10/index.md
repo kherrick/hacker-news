@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
 * [2024-03-10, 14:13:32](https://news.ycombinator.com/item?id=39659246) - [\"Let them eat cereal\" How \"greedflation\" fueled consumer ire against Kellogg](https://www.salon.com/2024/03/10/let-them-eat-cereal-how-accusations-of-greedflation-fueled-consumer-ire-against-kelloggs/)
+* [2024-03-10, 13:55:12](https://news.ycombinator.com/item?id=39659087) - [Ask HN: When will LLMs be able to interrupt or interject?](https://news.ycombinator.com/item?id=39659087)
 * [2024-03-10, 13:51:21](https://news.ycombinator.com/item?id=39659053) - [University of Virginia Spends $20M On 235 DEI Employees,Some Making $587,340](https://openthebooks.substack.com/p/university-of-virginia-spends-20)
 * [2024-03-10, 13:21:03](https://news.ycombinator.com/item?id=39658834) - [Cannabis use associated with 96% decreased odds of cognitive decline](https://www.eurekaselect.com/article/138726)
 * [2024-03-10, 13:15:03](https://news.ycombinator.com/item?id=39658787) - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
 * [2024-03-10, 13:09:14](https://news.ycombinator.com/item?id=39658742) - [Google confirmed it 'terminated' an employee who staged a protest against Israel](https://www.businessinsider.com/google-employee-fired-after-protesting-against-israel-2024-3)
 * [2024-03-10, 12:50:21](https://news.ycombinator.com/item?id=39658647) - [Proton AG of ProtonMail can provide FBI with your account recovery email](https://fxtwitter.com/monetaryreset/status/1691446834655535105)
+* [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
 * [2024-03-10, 12:17:05](https://news.ycombinator.com/item?id=39658532) - [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
 * [2024-03-10, 12:06:49](https://news.ycombinator.com/item?id=39658497) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-10, 11:54:33](https://news.ycombinator.com/item?id=39658435) - [Sixty Four is a beautiful system design toy that reveals something rather dark](https://arstechnica.com/gaming/2024/03/sixty-four-is-an-idle-clicker-a-factory-sim-and-a-dark-extractive-journey/)
