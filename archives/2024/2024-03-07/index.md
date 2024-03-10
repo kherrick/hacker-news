@@ -85,6 +85,7 @@
 * [2024-03-07, 12:00:10](https://news.ycombinator.com/item?id=39628015) - [Snapdragon 8 Gen 1's iGPU: Adreno Gets Big](https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/)
 * [2024-03-07, 12:00:04](https://news.ycombinator.com/item?id=39628014) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-03-07, 11:47:37](https://news.ycombinator.com/item?id=39627895) - [Show HN: Control Panel for YouTube](https://news.ycombinator.com/item?id=39627895)
+* [2024-03-07, 11:42:52](https://news.ycombinator.com/item?id=39627840) - [SD Express cards from Samsung promise faster-than-SATA speeds for microSD](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)
 * [2024-03-07, 11:32:25](https://news.ycombinator.com/item?id=39627753) - [NetBSD for the Advanced Minimalist](https://www.youtube.com/watch?v=-75TQMbar1Y)
 * [2024-03-07, 11:22:04](https://news.ycombinator.com/item?id=39627666) - [Ask HN: Why does it seem hard to buy an ONT for fiber?](https://news.ycombinator.com/item?id=39627666)
 * [2024-03-07, 11:16:15](https://news.ycombinator.com/item?id=39627624) - [ECJ finds IAB Europe responsible for TCF consent spam popups across the Internet](https://www.iccl.ie/digital-data/european-court-of-justice-finds-iab-europe-responsible-for-tcf-consent-spam-popups-across-the-internet/)
