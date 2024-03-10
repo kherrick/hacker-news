@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-03-10, 02:10:33",
-      "https://news.ycombinator.com/item?id=39656203"
-    ],
-    [
-      "See this page fetch itself, byte by byte, over TLS",
-      "https://bytebybyte.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 02:01:00",
-      "https://news.ycombinator.com/item?id=39656167"
-    ],
-    [
-      "Apple 'like The Godfather' with new App Store rules",
-      "https://www.bbc.com/news/technology-68517246"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 01:35:35",
       "https://news.ycombinator.com/item?id=39656066"
     ],
@@ -41,12 +21,12 @@
   ],
   [
     [
-      "2024-03-09, 23:38:05",
-      "https://news.ycombinator.com/item?id=39655521"
+      "2024-03-09, 23:06:44",
+      "https://news.ycombinator.com/item?id=39655384"
     ],
     [
-      "The Surprising Left-Right Alliance That Wants More Apartments in Suburbs",
-      "https://www.nytimes.com/2024/03/09/business/economy/yimby-housing-conference.html"
+      "Iris (Infra-Red, in Situ) Project Updates",
+      "https://www.bunniestudios.com/blog/?p=6937"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-03-09, 15:50:12",
+      "https://news.ycombinator.com/item?id=39652422"
+    ],
+    [
+      "Show HN: Schedule iMessage Texts from .txt Files",
+      "https://github.com/reidjs/schedule-texts-from-txt"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 15:19:41",
       "https://news.ycombinator.com/item?id=39652139"
     ],
@@ -297,6 +287,16 @@
     [
       "Free Natural History Specimen CT Scans",
       "https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 12:35:07",
+      "https://news.ycombinator.com/item?id=39628304"
+    ],
+    [
+      "Wikipedia over DNS (2008)",
+      "https://dgl.cx/wikipedia-dns"
     ]
   ]
 ]
