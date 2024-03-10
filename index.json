@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-03-10, 15:12:30",
+      "https://news.ycombinator.com/item?id=39659781"
+    ],
+    [
+      "Yi: Open Foundation Models by 01.ai",
+      "https://arxiv.org/abs/2403.04652"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 13:55:12",
       "https://news.ycombinator.com/item?id=39659087"
     ],
     [
       "Ask HN: When will LLMs be able to interrupt or interject?",
       "https://news.ycombinator.com/item?id=39659087"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 13:40:15",
-      "https://news.ycombinator.com/item?id=39658956"
-    ],
-    [
-      "Refuted papers continue to be cited more than their failed replications",
-      "https://statmodeling.stat.columbia.edu/2024/03/10/refuted-papers-continue-to-be-cited-more-than-their-failed-replications-can-a-new-search-engine-be-built-that-will-fix-this-problem/"
     ]
   ],
   [
@@ -81,21 +81,11 @@
   ],
   [
     [
-      "2024-03-10, 11:21:49",
-      "https://news.ycombinator.com/item?id=39658310"
-    ],
-    [
-      "Windows 1.0 site – everything there is to know about the first Windows version",
-      "https://win1.krnl386.com/"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 10:03:11",
       "https://news.ycombinator.com/item?id=39657991"
     ],
     [
-      "Do we need swap on modern systems?",
+      "Do we need swap on modern systems? (2017)",
       "https://www.redhat.com/en/blog/do-we-really-need-swap-modern-systems"
     ]
   ],
@@ -117,16 +107,6 @@
     [
       "Numbers every programmer should know",
       "https://samwho.dev/numbers/?fo"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 07:35:18",
-      "https://news.ycombinator.com/item?id=39657397"
-    ],
-    [
-      "SQLite on macOS: Not ACID compliant with the bundled version (2022)",
-      "https://bonsaidb.io/blog/acid-on-apple/"
     ]
   ],
   [
@@ -197,6 +177,16 @@
     [
       "Activision QA Workers Vote to Form Largest US Video Game Worker Union to Date",
       "https://www.ign.com/articles/activision-qa-workers-vote-to-form-largest-us-video-game-worker-union-to-date"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 20:21:24",
+      "https://news.ycombinator.com/item?id=39654445"
+    ],
+    [
+      "Reverse Engineering Protobuf Definitions from Compiled Binaries",
+      "https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Stylized image binning algorithm, for the web",
       "https://benjdd.com/posts/stylized-image-binning-algorithm/"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 05:57:41",
+      "https://news.ycombinator.com/item?id=39649732"
+    ],
+    [
+      "1brc merykitty's magic SWAR: 8 lines of code explained in 3k words",
+      "https://questdb.io/blog/1brc-merykittys-magic-swar/"
     ]
   ],
   [
