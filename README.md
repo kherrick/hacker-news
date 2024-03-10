@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-10, 02:01:00](https://news.ycombinator.com/item?id=39656167) - [Apple 'like The Godfather' with new App Store rules](https://www.bbc.com/news/technology-68517246)
 * [2024-03-10, 01:35:35](https://news.ycombinator.com/item?id=39656066) - [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
-* [2024-03-10, 00:33:06](https://news.ycombinator.com/item?id=39655783) - [Both pilots of an A320 fell asleep in the cockpit for 28 minutes](https://airlive.net/reports/2024/03/09/report-both-pilots-of-an-a320-fall-asleep-in-the-cockpit-for-28-minutes/)
 * [2024-03-09, 22:23:42](https://news.ycombinator.com/item?id=39655179) - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
 * [2024-03-09, 21:02:44](https://news.ycombinator.com/item?id=39654706) - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-03-09, 20:56:01](https://news.ycombinator.com/item?id=39654660) - [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
@@ -29,7 +29,7 @@
 * [2024-03-08, 16:44:09](https://news.ycombinator.com/item?id=39642848) - [From Snowdrop to Nightjar: Robert Marsham's \"Indications of Spring\" (1789)](https://publicdomainreview.org/essay/from-snowdrop-to-nightjar/)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 * [2024-03-07, 13:48:32](https://news.ycombinator.com/item?id=39628987) - [Starting a side project as a creative studio](https://www.hellotime.io/blog/starting-a-side-project-as-a-creative-studio)
-* [2024-03-07, 11:42:52](https://news.ycombinator.com/item?id=39627840) - [SD Express cards from Samsung promise faster-than-SATA speeds for microSD](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)
+* [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
 
 ## [Archives](archives/index.md)
 
