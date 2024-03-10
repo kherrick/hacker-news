@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-10, 03:00:40](https://news.ycombinator.com/item?id=39656395) - [Roku TV will be unusable if you don't agree to the company's new terms](https://www.zdnet.com/home-and-office/home-entertainment/your-roku-tv-will-be-unusable-if-you-dont-agree-to-the-companys-controversial-new-terms/)
 * [2024-03-10, 01:35:35](https://news.ycombinator.com/item?id=39656066) - [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-09, 23:06:44](https://news.ycombinator.com/item?id=39655384) - [Iris (Infra-Red, in Situ) Project Updates](https://www.bunniestudios.com/blog/?p=6937)
@@ -21,6 +20,7 @@
 * [2024-03-09, 15:50:12](https://news.ycombinator.com/item?id=39652422) - [Show HN: Schedule iMessage Texts from .txt Files](https://github.com/reidjs/schedule-texts-from-txt)
 * [2024-03-09, 15:19:41](https://news.ycombinator.com/item?id=39652139) - [Antarctic Explorers Wrote Cute, Funny Stories to Hide Dangerous Stunts](https://www.atlasobscura.com/articles/antarctica-book-and-newspapers)
 * [2024-03-09, 14:49:53](https://news.ycombinator.com/item?id=39651926) - [An all-optical general-purpose CPU and optical computer architecture](https://arxiv.org/abs/2403.00045)
+* [2024-03-09, 14:47:33](https://news.ycombinator.com/item?id=39651906) - [Computing Without Processors (2011)](https://cacm.acm.org/practice/computing-without-processors/)
 * [2024-03-09, 14:43:20](https://news.ycombinator.com/item?id=39651876) - [\"I Miss My Liver.\" Nonmedical Sources in the History of Hepatocentrism (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-09, 14:19:19](https://news.ycombinator.com/item?id=39651710) - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
