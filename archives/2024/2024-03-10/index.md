@@ -22,4 +22,5 @@
 * [2024-03-10, 01:35:35](https://news.ycombinator.com/item?id=39656066) - [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
 * [2024-03-10, 01:32:33](https://news.ycombinator.com/item?id=39656056) - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-10, 01:15:06](https://news.ycombinator.com/item?id=39655973) - [See 3-D models of animal anatomy from openVertebrate's public collection](https://www.sciencenews.org/article/3d-animal-anatomy-openvertebrate)
+* [2024-03-10, 00:48:47](https://news.ycombinator.com/item?id=39655859) - [Activision QA Workers Vote to Form Largest US Video Game Worker Union to Date](https://www.ign.com/articles/activision-qa-workers-vote-to-form-largest-us-video-game-worker-union-to-date)
 * [2024-03-10, 00:33:06](https://news.ycombinator.com/item?id=39655783) - [Both pilots of an A320 fell asleep in the cockpit for 28 minutes](https://airlive.net/reports/2024/03/09/report-both-pilots-of-an-a320-fall-asleep-in-the-cockpit-for-28-minutes/)
