@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 17:46:55](https://news.ycombinator.com/item?id=39671218) - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 17:19:54](https://news.ycombinator.com/item?id=39670900) - [Are We Watching the Internet Die?](https://www.wheresyoured.at/are-we-watching-the-internet-die/)
 * [2024-03-11, 17:02:01](https://news.ycombinator.com/item?id=39670684) - [JSON Canvas: an open file format for infinite canvas data](https://obsidian.md/blog/json-canvas/)
