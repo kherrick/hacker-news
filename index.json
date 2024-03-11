@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-03-11, 04:12:57",
-      "https://news.ycombinator.com/item?id=39664860"
-    ],
-    [
-      "Another open-core project rejecting PR citing paid feature",
-      "https://github.com/ToolJet/ToolJet/pull/2303"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 04:12:51",
-      "https://news.ycombinator.com/item?id=39664858"
-    ],
-    [
-      "NSF funds the development of automated tools to censor speech \"at scale\" [pdf]",
-      "https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/NSF-Staff-Report_Appendix.pdf"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 03:48:40",
       "https://news.ycombinator.com/item?id=39664736"
     ],
@@ -41,16 +21,6 @@
   ],
   [
     [
-      "2024-03-11, 03:24:48",
-      "https://news.ycombinator.com/item?id=39664658"
-    ],
-    [
-      "Bring Back Private Offices, Part II",
-      "https://albertcory50.substack.com/p/bring-back-private-offices-part-ii"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 03:13:43",
       "https://news.ycombinator.com/item?id=39664612"
     ],
@@ -61,22 +31,22 @@
   ],
   [
     [
-      "2024-03-11, 01:54:54",
-      "https://news.ycombinator.com/item?id=39664180"
-    ],
-    [
-      "Microplastics linked to heart attack, stroke and death",
-      "https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 00:37:45",
       "https://news.ycombinator.com/item?id=39663708"
     ],
     [
       "Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved",
       "https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 00:17:15",
+      "https://news.ycombinator.com/item?id=39663593"
+    ],
+    [
+      "Two years later, deep learning is still faced with the same basic challenges",
+      "https://garymarcus.substack.com/p/two-years-later-deep-learning-is"
     ]
   ],
   [
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2024-03-10, 18:46:19",
+      "https://news.ycombinator.com/item?id=39661482"
+    ],
+    [
+      "Show HN: Timelock.dev – Send a secret into the future using timelock encryption",
+      "https://timelock.dev/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 17:46:25",
       "https://news.ycombinator.com/item?id=39660990"
     ],
@@ -221,12 +201,32 @@
   ],
   [
     [
+      "2024-03-10, 15:29:01",
+      "https://news.ycombinator.com/item?id=39659942"
+    ],
+    [
+      "Serving Astro with Rust",
+      "https://www.yieldcode.blog/post/serving-astro-with-rust/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 15:12:30",
       "https://news.ycombinator.com/item?id=39659781"
     ],
     [
       "Yi: Open Foundation Models by 01.AI",
       "https://arxiv.org/abs/2403.04652"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 15:04:51",
+      "https://news.ycombinator.com/item?id=39659729"
+    ],
+    [
+      "Profession by Isaac Asimov (1957)",
+      "https://www.abelard.org/asimov.php"
     ]
   ],
   [
