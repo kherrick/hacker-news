@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-11, 15:32:56",
-      "https://news.ycombinator.com/item?id=39669473"
+      "2024-03-11, 16:04:19",
+      "https://news.ycombinator.com/item?id=39669858"
     ],
     [
-      "Why does Rust choose not to provide `for` comprehensions?",
-      "https://langdev.stackexchange.com/questions/2848/why-does-rust-choose-not-to-provide-for-comprehensions"
+      "How we engineer feedback at Figma with eng crits",
+      "https://www.figma.com/blog/how-we-run-eng-crits-at-figma/"
     ]
   ],
   [
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-03-11, 14:21:33",
-      "https://news.ycombinator.com/item?id=39668608"
-    ],
-    [
-      "Review: Apple's efficient M3 MacBook Airs are just about as good as laptops get",
-      "https://arstechnica.com/gadgets/2024/03/review-apples-efficient-m3-macbook-airs-are-just-about-as-good-as-laptops-get/"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 14:09:05",
       "https://news.ycombinator.com/item?id=39668430"
     ],
@@ -87,6 +77,36 @@
     [
       "GrapheneOS finds Bluetooth memory corruption via ARM MTE",
       "https://grapheneos.social/@GrapheneOS/112066872276203917"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 13:33:11",
+      "https://news.ycombinator.com/item?id=39668021"
+    ],
+    [
+      "Linux 6.8 Is Announced",
+      "https://www.omgubuntu.co.uk/2024/03/linux-kernel-6-8-new-features"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 12:55:01",
+      "https://news.ycombinator.com/item?id=39667608"
+    ],
+    [
+      "Ask HN: Which skills are least likely to be replaced by AI?",
+      "https://news.ycombinator.com/item?id=39667608"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 12:41:18",
+      "https://news.ycombinator.com/item?id=39667456"
+    ],
+    [
+      "The Mad Stone, the One-Time 'Cure' for Rabies",
+      "https://www.atlasobscura.com/articles/mad-stones-rabies-cure-eerie-feeling"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-03-10, 17:46:25",
-      "https://news.ycombinator.com/item?id=39660990"
-    ],
-    [
-      "Kernel Hardening: Protect Linux user accounts against brute force attacks",
-      "https://github.com/Kicksecure/security-misc"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 05:19:25",
       "https://news.ycombinator.com/item?id=39656899"
     ],
@@ -277,16 +287,6 @@
     [
       "Bruno: Fast and Git-friendly open-source API client (Postman alternative)",
       "https://www.usebruno.com/"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 14:33:02",
-      "https://news.ycombinator.com/item?id=39651796"
-    ],
-    [
-      "Monodraw",
-      "https://monodraw.helftone.com/"
     ]
   ],
   [
