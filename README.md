@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanish](https://github.com/fm-sys/snapdrop-android/issues/356)
 * [2024-03-11, 04:53:41](https://news.ycombinator.com/item?id=39665017) - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
 * [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
@@ -18,7 +19,6 @@
 * [2024-03-10, 19:14:48](https://news.ycombinator.com/item?id=39661721) - [The Fashion Police in 16th-century Italy (2014)](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 * [2024-03-10, 19:08:52](https://news.ycombinator.com/item?id=39661674) - [The true, dramatic story of Robert Downey Jr.'s 'Oppenheimer' villain](https://www.washingtonpost.com/history/2024/03/09/lewis-strauss-oppenheimer-true-story-robert-downey/)
 * [2024-03-10, 18:48:34](https://news.ycombinator.com/item?id=39661497) - [Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
-* [2024-03-10, 18:46:19](https://news.ycombinator.com/item?id=39661482) - [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
 * [2024-03-10, 17:46:25](https://news.ycombinator.com/item?id=39660990) - [Kernel Hardening: Protect Linux user accounts against brute force attacks](https://github.com/Kicksecure/security-misc)
 * [2024-03-10, 16:52:21](https://news.ycombinator.com/item?id=39660592) - [DBeaver – open-source database client](https://github.com/dbeaver/dbeaver)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660475) - [A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)

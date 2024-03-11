@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
 * [2024-03-11, 04:53:41](https://news.ycombinator.com/item?id=39665017) - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
 * [2024-03-11, 04:12:57](https://news.ycombinator.com/item?id=39664860) - [Another open-core project rejecting PR citing paid feature](https://github.com/ToolJet/ToolJet/pull/2303)
