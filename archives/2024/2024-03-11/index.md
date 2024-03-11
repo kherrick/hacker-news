@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 12:33:35](https://news.ycombinator.com/item?id=39667372) - [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
+* [2024-03-11, 12:20:36](https://news.ycombinator.com/item?id=39667234) - [Brits left baffled by Brexit's 'not for EU' food labels](https://www.politico.eu/article/uk-brexit-not-for-eu-food-label/)
 * [2024-03-11, 12:14:10](https://news.ycombinator.com/item?id=39667173) - [The new croissant taking Paris by storm](https://www.bbc.com/travel/article/20240305-the-surprisingly-complicated-history-of-the-croissant)
+* [2024-03-11, 12:13:26](https://news.ycombinator.com/item?id=39667163) - [With Unusual Speed, Hong Kong Pushes Strict New Security Law](https://www.nytimes.com/2024/03/07/world/asia/hong-kong-security-law.html)
 * [2024-03-11, 12:01:10](https://news.ycombinator.com/item?id=39667041) - [Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
 * [2024-03-11, 11:59:22](https://news.ycombinator.com/item?id=39667026) - [Reddit: Return of the Junk Stock IPO](https://www.forbes.com/sites/greatspeculations/2024/03/06/reddit-return-of-the-junk-stock-ipo/)
 * [2024-03-11, 11:56:45](https://news.ycombinator.com/item?id=39666993) - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
@@ -32,6 +35,7 @@
 * [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
 * [2024-03-11, 05:33:37](https://news.ycombinator.com/item?id=39665184) - [The Surprising History of Claims for Life on the Sun (2011)](https://www.researchgate.net/publication/258495524_The_Surprising_History_of_Claims_for_Life_on_the_Sun)
+* [2024-03-11, 05:11:05](https://news.ycombinator.com/item?id=39665090) - [Exploring Bauhaus: Revolutionary Design School That Shaped Modern World](https://www.playforthoughts.com/blog/bauhaus)
 * [2024-03-11, 04:53:41](https://news.ycombinator.com/item?id=39665017) - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
 * [2024-03-11, 04:12:57](https://news.ycombinator.com/item?id=39664860) - [Another open-core project rejecting PR citing paid feature](https://github.com/ToolJet/ToolJet/pull/2303)
 * [2024-03-11, 04:12:51](https://news.ycombinator.com/item?id=39664858) - [NSF funds the development of automated tools to censor speech \"at scale\" [pdf]](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/NSF-Staff-Report_Appendix.pdf)
