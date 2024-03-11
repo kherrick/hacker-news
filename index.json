@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-03-10, 09:15:44",
-      "https://news.ycombinator.com/item?id=39657782"
-    ],
-    [
-      "Moore on Moore – The past, present and uncertain future of Moore's Law",
-      "https://thechipletter.substack.com/p/moore-on-moore"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 06:06:37",
       "https://news.ycombinator.com/item?id=39657055"
     ],
@@ -267,6 +257,16 @@
     [
       "Bruno: Fast and Git-friendly open-source API client (Postman alternative)",
       "https://www.usebruno.com/"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 17:40:30",
+      "https://news.ycombinator.com/item?id=39653312"
+    ],
+    [
+      "Using LLMs to Generate Fuzzers",
+      "https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/"
     ]
   ],
   [
