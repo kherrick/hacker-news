@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-11, 10:29:42",
+      "https://news.ycombinator.com/item?id=39666429"
+    ],
+    [
+      "Like that tune? Find its musical twin with this Similar Song Finder",
+      "https://www.beatdetect.com/similar-song-finder"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 10:17:39",
+      "https://news.ycombinator.com/item?id=39666369"
+    ],
+    [
+      "Humanity Is Dangerously Pushing Its Ability to Tolerate Heat",
+      "https://www.wired.com/story/extreme-heat-tolerance/"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 09:27:16",
       "https://news.ycombinator.com/item?id=39666106"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-03-10, 20:19:07",
-      "https://news.ycombinator.com/item?id=39662246"
-    ],
-    [
-      "Using PostgreSQL for military geoanalytics tasks",
-      "https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 20:17:50",
       "https://news.ycombinator.com/item?id=39662234"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2024-03-10, 17:17:11",
+      "https://news.ycombinator.com/item?id=39660780"
+    ],
+    [
+      "How far are we from intelligent visual deductive reasoning?",
+      "https://arxiv.org/abs/2403.04732"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 16:52:21",
       "https://news.ycombinator.com/item?id=39660592"
     ],
@@ -207,16 +227,6 @@
     [
       "Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning",
       "https://github.com/KhoomeiK/LlamaGym"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 09:52:44",
-      "https://news.ycombinator.com/item?id=39657936"
-    ],
-    [
-      "Iris (Infra-Red, in Situ) Silicon Verification Project Updates",
-      "https://www.bunniestudios.com/blog/?p=6937"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Bruno: Fast and Git-friendly open-source API client (Postman alternative)",
       "https://www.usebruno.com/"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 17:40:30",
-      "https://news.ycombinator.com/item?id=39653312"
-    ],
-    [
-      "Using LLMs to Generate Fuzzers",
-      "https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/"
     ]
   ],
   [
