@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-03-11, 16:22:33",
+      "https://news.ycombinator.com/item?id=39670121"
+    ],
+    [
+      "Who uses Google TPUs for inference in production?",
+      "https://news.ycombinator.com/item?id=39670121"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 16:21:17",
       "https://news.ycombinator.com/item?id=39670102"
     ],
@@ -87,16 +97,6 @@
     [
       "How we engineer feedback at Figma with eng crits",
       "https://www.figma.com/blog/how-we-run-eng-crits-at-figma/"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 15:56:32",
-      "https://news.ycombinator.com/item?id=39669756"
-    ],
-    [
-      "Linux 6.9 will be the first to top ten million Git objects",
-      "https://www.theregister.com/2024/03/11/linux_6_8_arrives/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "GrapheneOS finds Bluetooth memory corruption via ARM MTE",
       "https://grapheneos.social/@GrapheneOS/112066872276203917"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 12:44:46",
-      "https://news.ycombinator.com/item?id=39667489"
-    ],
-    [
-      "Show HN: Async tasks in 350 lines of C",
-      "https://github.com/rkaehn/cr_task.h"
     ]
   ],
   [
@@ -261,12 +251,32 @@
   ],
   [
     [
+      "2024-03-10, 20:17:50",
+      "https://news.ycombinator.com/item?id=39662234"
+    ],
+    [
+      "Perf Is Not Enough",
+      "https://motherduck.com/blog/perf-is-not-enough/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 05:19:25",
       "https://news.ycombinator.com/item?id=39656899"
     ],
     [
       "How the Devteam Conquered the iPhone",
       "https://fabiensanglard.net/iSummer/"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 18:29:56",
+      "https://news.ycombinator.com/item?id=39653718"
+    ],
+    [
+      "Bruno: Fast and Git-friendly open-source API client (Postman alternative)",
+      "https://www.usebruno.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Breakthrough in nanostructure technology for real-time color display",
       "https://phys.org/news/2024-03-breakthrough-nanostructure-technology-real-display.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 13:44:45",
-      "https://news.ycombinator.com/item?id=39628943"
-    ],
-    [
-      "Zama's homomorphic encryption tech lands it $73M on a valuation of nearly $400M",
-      "https://techcrunch.com/2024/03/07/zamas-homomorphic-encryption-tech-lands-it-73m-on-a-valuation-of-nearly-400m/"
     ]
   ]
 ]
