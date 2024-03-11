@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 13:36:11](https://news.ycombinator.com/item?id=39668053) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 13:35:14](https://news.ycombinator.com/item?id=39668044) - [EV Charging Points in America Are Finally Making Money](https://oilprice.com/Latest-Energy-News/World-News/EV-Charging-Points-in-America-Are-Finally-Making-Money.html)
 * [2024-03-11, 13:30:04](https://news.ycombinator.com/item?id=39667986) - [If you die, your 100+ accounts are a nightmare for your family](https://www.cnn.com/2024/02/26/tech/digital-legacy-planning-personal-technology/index.html)
 * [2024-03-11, 13:10:10](https://news.ycombinator.com/item?id=39667770) - [Is This 'Magic' Roundabout Made of 5 Mini-Roundabouts?](https://www.snopes.com/fact-check/magic-roundabout-photo/)
 * [2024-03-11, 13:05:21](https://news.ycombinator.com/item?id=39667710) - [Bitcoin rally pushes BlackRock ETF over $10B in record time](https://www.ft.com/content/1bb8413e-b974-4e05-933e-7ffedec62bdb)
 * [2024-03-11, 12:33:35](https://news.ycombinator.com/item?id=39667372) - [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
+* [2024-03-11, 12:29:57](https://news.ycombinator.com/item?id=39667340) - [The vessel from 2K years ago that functioned as a battery](https://stigmatisnews.wordpress.com/2024/03/11/el-misterio-de-la-pila-de-bagdad-la-vasija-de-hace-2-000-anos-que-funcionaba-como-bateria-y-cuyo-origen-desconocemos/)
 * [2024-03-11, 12:20:36](https://news.ycombinator.com/item?id=39667234) - [Brits left baffled by Brexit's 'not for EU' food labels](https://www.politico.eu/article/uk-brexit-not-for-eu-food-label/)
 * [2024-03-11, 12:14:10](https://news.ycombinator.com/item?id=39667173) - [The new croissant taking Paris by storm](https://www.bbc.com/travel/article/20240305-the-surprisingly-complicated-history-of-the-croissant)
 * [2024-03-11, 12:13:26](https://news.ycombinator.com/item?id=39667163) - [With Unusual Speed, Hong Kong Pushes Strict New Security Law](https://www.nytimes.com/2024/03/07/world/asia/hong-kong-security-law.html)
