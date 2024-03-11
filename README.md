@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-11, 18:40:45](https://news.ycombinator.com/item?id=39671851) - [Adding \"before:2023\" improves Google web searches](https://mastodon.social/@gulovsen/112051692995026577)
+* [2024-03-11, 18:47:02](https://news.ycombinator.com/item?id=39671919) - [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
 * [2024-03-11, 17:46:55](https://news.ycombinator.com/item?id=39671218) - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
 * [2024-03-11, 17:46:23](https://news.ycombinator.com/item?id=39671212) - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
 * [2024-03-11, 17:41:00](https://news.ycombinator.com/item?id=39671146) - [Gemma doesn't suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
