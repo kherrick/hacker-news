@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-11, 02:47:42](https://news.ycombinator.com/item?id=39664483) - [Ask HN: Why is hosting a contact form so difficult?](https://news.ycombinator.com/item?id=39664483)
+* [2024-03-11, 02:10:04](https://news.ycombinator.com/item?id=39664273) - [98% GPU Utilization Achieved in 1k GPU-Scale AI Training Using Distributed Cache](https://juicefs.com/en/blog/engineering/ai-gpu-utilization-mlperf-benchmark)
 * [2024-03-11, 02:04:06](https://news.ycombinator.com/item?id=39664239) - [Alexandre-Théophile Vandermonde (2001)](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
-* [2024-03-11, 01:46:39](https://news.ycombinator.com/item?id=39664122) - [Is Delphi a Memory Safe Language?](https://blogs.embarcadero.com/is-delphi-a-memory-safe-language/)
 * [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
 * [2024-03-10, 23:43:06](https://news.ycombinator.com/item?id=39663416) - [Roku's New TOS Makes It Nearly Impossible to Sue the Company](https://www.lifewire.com/roku-tos-update-8606211)
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
@@ -20,7 +21,6 @@
 * [2024-03-10, 16:52:21](https://news.ycombinator.com/item?id=39660592) - [DBeaver – open-source database client](https://github.com/dbeaver/dbeaver)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660475) - [A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
-* [2024-03-10, 15:04:51](https://news.ycombinator.com/item?id=39659729) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2024-03-10, 13:15:03](https://news.ycombinator.com/item?id=39658787) - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
 * [2024-03-10, 12:57:44](https://news.ycombinator.com/item?id=39658684) - [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
