@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 16:04:19](https://news.ycombinator.com/item?id=39669858) - [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
 * [2024-03-11, 15:32:56](https://news.ycombinator.com/item?id=39669473) - [Why does Rust choose not to provide `for` comprehensions?](https://langdev.stackexchange.com/questions/2848/why-does-rust-choose-not-to-provide-for-comprehensions)
 * [2024-03-11, 15:25:43](https://news.ycombinator.com/item?id=39669390) - [CO Bureau of Investigation: manipulated DNA data in 100s of cases over decades](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html)
 * [2024-03-11, 15:08:25](https://news.ycombinator.com/item?id=39669167) - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
@@ -16,9 +17,12 @@
 * [2024-03-11, 14:09:05](https://news.ycombinator.com/item?id=39668430) - [What Extropic Is Building](https://www.extropic.ai/future)
 * [2024-03-11, 13:36:11](https://news.ycombinator.com/item?id=39668053) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 13:35:14](https://news.ycombinator.com/item?id=39668044) - [EV Charging Points in America Are Finally Making Money](https://oilprice.com/Latest-Energy-News/World-News/EV-Charging-Points-in-America-Are-Finally-Making-Money.html)
+* [2024-03-11, 13:33:11](https://news.ycombinator.com/item?id=39668021) - [Linux 6.8 Is Announced](https://www.omgubuntu.co.uk/2024/03/linux-kernel-6-8-new-features)
 * [2024-03-11, 13:30:04](https://news.ycombinator.com/item?id=39667986) - [If you die, your 100+ accounts are a nightmare for your family](https://www.cnn.com/2024/02/26/tech/digital-legacy-planning-personal-technology/index.html)
 * [2024-03-11, 13:10:10](https://news.ycombinator.com/item?id=39667770) - [Is This 'Magic' Roundabout Made of 5 Mini-Roundabouts?](https://www.snopes.com/fact-check/magic-roundabout-photo/)
 * [2024-03-11, 13:05:21](https://news.ycombinator.com/item?id=39667710) - [Bitcoin rally pushes BlackRock ETF over $10B in record time](https://www.ft.com/content/1bb8413e-b974-4e05-933e-7ffedec62bdb)
+* [2024-03-11, 12:55:01](https://news.ycombinator.com/item?id=39667608) - [Ask HN: Which skills are least likely to be replaced by AI?](https://news.ycombinator.com/item?id=39667608)
+* [2024-03-11, 12:41:18](https://news.ycombinator.com/item?id=39667456) - [The Mad Stone, the One-Time 'Cure' for Rabies](https://www.atlasobscura.com/articles/mad-stones-rabies-cure-eerie-feeling)
 * [2024-03-11, 12:33:35](https://news.ycombinator.com/item?id=39667372) - [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
 * [2024-03-11, 12:29:57](https://news.ycombinator.com/item?id=39667340) - [The vessel from 2K years ago that functioned as a battery](https://stigmatisnews.wordpress.com/2024/03/11/el-misterio-de-la-pila-de-bagdad-la-vasija-de-hace-2-000-anos-que-funcionaba-como-bateria-y-cuyo-origen-desconocemos/)
 * [2024-03-11, 12:26:23](https://news.ycombinator.com/item?id=39667294) - [ICLR Blogposts](https://iclr-blogposts.github.io/)
