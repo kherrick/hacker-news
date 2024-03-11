@@ -4,6 +4,7 @@
 * [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [2024-03-11, 02:01:35](https://news.ycombinator.com/item?id=39664221) - [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
 * [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
+* [2024-03-11, 00:17:15](https://news.ycombinator.com/item?id=39663593) - [Two years later, deep learning is still faced with the same basic challenges](https://garymarcus.substack.com/p/two-years-later-deep-learning-is)
 * [2024-03-10, 23:30:45](https://news.ycombinator.com/item?id=39663371) - [Why Signal 'turned our architecture inside out' for its latest privacy feature](https://techcrunch.com/2024/03/04/why-signal-turned-our-architecture-inside-out-for-its-latest-privacy-feature/)
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 21:38:06](https://news.ycombinator.com/item?id=39662721) - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
@@ -27,7 +28,6 @@
 * [2024-03-10, 05:19:25](https://news.ycombinator.com/item?id=39656899) - [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
-* [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 
