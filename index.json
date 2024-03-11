@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 21:23:31",
+      "https://news.ycombinator.com/item?id=39673393"
+    ],
+    [
+      "Meta revokes Llama 2 licenses for anyone making a copyright claim",
+      "https://twitter.com/mikarv/status/1764177268115489081"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 20:49:35",
       "https://news.ycombinator.com/item?id=39673087"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39672583"
     ],
     [
-      "Google's Threat Model for Post-Quantum Cryptography",
+      "Google's threat model for post-quantum cryptography",
       "https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
       "https://www.norvig.com/lispy.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 03:59:13",
-      "https://news.ycombinator.com/item?id=39664782"
-    ],
-    [
-      "Speech and Language Processing (3rd ed. draft)",
-      "https://web.stanford.edu/~jurafsky/slp3/"
     ]
   ],
   [
