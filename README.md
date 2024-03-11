@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-11, 20:51:43](https://news.ycombinator.com/item?id=39673103) - [A Dutch Quandary Offers a Glimpse of a Deepening Problem for Europe](https://www.nytimes.com/2024/03/11/world/europe/geert-wilders-dutch-election-politics.html)
+* [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 20:29:41](https://news.ycombinator.com/item?id=39672901) - [OpenPlotter](https://openmarine.net/openplotter)
 * [2024-03-11, 19:43:32](https://news.ycombinator.com/item?id=39672450) - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 * [2024-03-11, 19:37:22](https://news.ycombinator.com/item?id=39672393) - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
@@ -11,7 +13,6 @@
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 17:00:49](https://news.ycombinator.com/item?id=39670665) - [Show HN: Prompts as WASM Programs](https://github.com/microsoft/aici)
 * [2024-03-11, 17:00:13](https://news.ycombinator.com/item?id=39670655) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
-* [2024-03-11, 16:22:33](https://news.ycombinator.com/item?id=39670121) - [Who uses Google TPUs for inference in production?](https://news.ycombinator.com/item?id=39670121)
 * [2024-03-11, 16:21:17](https://news.ycombinator.com/item?id=39670102) - [gh-116167: Allow disabling the GIL](https://github.com/python/cpython/pull/116338)
 * [2024-03-11, 16:17:18](https://news.ycombinator.com/item?id=39670035) - [Speedometer 3.0: A shared browser benchmark for web application responsiveness](https://browserbench.org/announcements/speedometer3/)
 * [2024-03-11, 16:04:19](https://news.ycombinator.com/item?id=39669858) - [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
@@ -26,9 +27,8 @@
 * [2024-03-11, 11:42:03](https://news.ycombinator.com/item?id=39666865) - [Show HN: Teable – Open-Source No-Code Database Fusion of Postgres and Airtable](https://github.com/teableio/teable)
 * [2024-03-11, 10:39:36](https://news.ycombinator.com/item?id=39666467) - [Show HN: Goqite, a persistent message queue Go library built on SQLite](https://www.goqite.com)
 * [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://www.norvig.com/lispy.html)
-* [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [2024-03-10, 13:15:39](https://news.ycombinator.com/item?id=39658793) - [Vegetable stock: my secret lover (2011)](https://blog.andymatuschak.org/post/8092537664/vegetable-stock-my-secret-lover)
-* [2024-03-09, 02:32:35](https://news.ycombinator.com/item?id=39648931) - [Relating t-statistics and the relative width of confidence intervals](https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/)
+* [2024-03-08, 17:45:17](https://news.ycombinator.com/item?id=39643585) - [Importance of Open-Source EDA Tools for Academia](https://open-source-eda-letter.eu)
 * [2024-03-07, 18:55:46](https://news.ycombinator.com/item?id=39633123) - [Breakthrough in nanostructure technology for real-time color display](https://phys.org/news/2024-03-breakthrough-nanostructure-technology-real-display.html)
 
 ## [Archives](archives/index.md)

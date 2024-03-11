@@ -41,6 +41,7 @@
 * [2024-03-08, 18:05:58](https://news.ycombinator.com/item?id=39643894) - [Four new models that are benchmarking near or above GPT-4](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 18:02:26](https://news.ycombinator.com/item?id=39643833) - [Show HN: wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 * [2024-03-08, 17:53:11](https://news.ycombinator.com/item?id=39643685) - [Apple restores Epic's account in the EU](https://twitter.com/TimSweeneyEpic/status/1766158416093798866)
+* [2024-03-08, 17:45:17](https://news.ycombinator.com/item?id=39643585) - [Importance of Open-Source EDA Tools for Academia](https://open-source-eda-letter.eu)
 * [2024-03-08, 17:33:05](https://news.ycombinator.com/item?id=39643447) - [Airbnb's Devastating Effect on Canadian Housing](https://thewalrus.ca/airbnbs-canadian-housing/)
 * [2024-03-08, 17:30:03](https://news.ycombinator.com/item?id=39643407) - [Can We Just Throw in the Towel on Airport Security Theater Already?](https://jalopnik.com/can-we-just-throw-in-the-towel-on-airport-security-thea-1851317340)
 * [2024-03-08, 17:26:06](https://news.ycombinator.com/item?id=39643359) - [Instagram overtakes TikTok as most downloaded app](https://www.theguardian.com/technology/2024/mar/08/instagram-tiktok-app-reels-video-meta)
