@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
 * [2024-03-11, 14:51:28](https://news.ycombinator.com/item?id=39668941) - [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
+* [2024-03-11, 14:42:48](https://news.ycombinator.com/item?id=39668847) - [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
 * [2024-03-11, 14:09:05](https://news.ycombinator.com/item?id=39668430) - [What Extropic Is Building](https://www.extropic.ai/future)
 * [2024-03-11, 13:36:11](https://news.ycombinator.com/item?id=39668053) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 13:35:14](https://news.ycombinator.com/item?id=39668044) - [EV Charging Points in America Are Finally Making Money](https://oilprice.com/Latest-Energy-News/World-News/EV-Charging-Points-in-America-Are-Finally-Making-Money.html)
