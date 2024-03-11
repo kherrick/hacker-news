@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 20:57:01](https://news.ycombinator.com/item?id=39673154) - [How to know if a job makes a difference](https://probablygood.org/core-concepts/self-framework/)
+* [2024-03-11, 20:54:54](https://news.ycombinator.com/item?id=39673134) - [WeTransfer is having issues](https://status.wetransfer.com)
 * [2024-03-11, 20:51:43](https://news.ycombinator.com/item?id=39673103) - [A Dutch Quandary Offers a Glimpse of a Deepening Problem for Europe](https://www.nytimes.com/2024/03/11/world/europe/geert-wilders-dutch-election-politics.html)
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
+* [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa](https://www.openculture.com/2024/03/how-engineers-straightened-the-leaning-tower-of-pisa.html)
 * [2024-03-11, 20:29:41](https://news.ycombinator.com/item?id=39672901) - [OpenPlotter](https://openmarine.net/openplotter)
 * [2024-03-11, 19:43:32](https://news.ycombinator.com/item?id=39672450) - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 * [2024-03-11, 19:37:22](https://news.ycombinator.com/item?id=39672393) - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
