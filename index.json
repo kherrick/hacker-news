@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-03-11, 12:14:10",
+      "https://news.ycombinator.com/item?id=39667173"
+    ],
+    [
+      "The new croissant taking Paris by storm",
+      "https://www.bbc.com/travel/article/20240305-the-surprisingly-complicated-history-of-the-croissant"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 12:01:10",
+      "https://news.ycombinator.com/item?id=39667041"
+    ],
+    [
+      "Fern (YC W23) is hiring a deployed engineer in NYC",
+      "https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 11:55:08",
+      "https://news.ycombinator.com/item?id=39666976"
+    ],
+    [
+      "Automakers Are Sharing Consumers' Driving Behavior with Insurance Companies",
+      "https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 11:53:03",
+      "https://news.ycombinator.com/item?id=39666956"
+    ],
+    [
+      "Flowers for Algernon (1965) [pdf]",
+      "https://www.sdfo.org/gj/stories/flowersforalgernon.pdf"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 11:50:12",
       "https://news.ycombinator.com/item?id=39666930"
     ],
     [
       "SQLPage – Building a full web application with nothing but SQL queries [video]",
       "https://www.youtube.com/watch?v=mXdgmSdaXkg"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 11:34:33",
-      "https://news.ycombinator.com/item?id=39666792"
-    ],
-    [
-      "You don't need a database, a queue, a distributed system: Go is enough",
-      "https://simonedutto.github.io/2024-03-09/binary-duel"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-03-11, 08:40:43",
-      "https://news.ycombinator.com/item?id=39665905"
-    ],
-    [
-      "Bython: Python with braces. Because Python is awesome, but whitespace is awful",
-      "https://pypi.org/project/Bython/"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 05:33:37",
       "https://news.ycombinator.com/item?id=39665184"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-03-10, 19:08:52",
-      "https://news.ycombinator.com/item?id=39661674"
-    ],
-    [
-      "The true, dramatic story of Robert Downey Jr.'s 'Oppenheimer' villain",
-      "https://www.washingtonpost.com/history/2024/03/09/lewis-strauss-oppenheimer-true-story-robert-downey/"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 18:48:34",
       "https://news.ycombinator.com/item?id=39661497"
     ],
@@ -247,16 +257,6 @@
     [
       "Kernel Hardening: Protect Linux user accounts against brute force attacks",
       "https://github.com/Kicksecure/security-misc"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 12:40:43",
-      "https://news.ycombinator.com/item?id=39658610"
-    ],
-    [
-      "Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning",
-      "https://github.com/KhoomeiK/LlamaGym"
     ]
   ],
   [
