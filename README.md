@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-11, 14:56:21](https://news.ycombinator.com/item?id=39669008) - [Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers](https://stability.ai/news/putting-the-ai-supercomputer-to-work)
+* [2024-03-11, 14:55:56](https://news.ycombinator.com/item?id=39669002) - [FDA Approves Wegovy for Heart Conditions in Game-Changing Move](https://www.sciencealert.com/fda-approves-wegovy-for-heart-conditions-in-game-changing-move)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
 * [2024-03-11, 14:51:28](https://news.ycombinator.com/item?id=39668941) - [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
 * [2024-03-11, 14:42:48](https://news.ycombinator.com/item?id=39668847) - [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
 * [2024-03-11, 14:09:05](https://news.ycombinator.com/item?id=39668430) - [What Extropic Is Building](https://www.extropic.ai/future)
 * [2024-03-11, 13:36:11](https://news.ycombinator.com/item?id=39668053) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
-* [2024-03-11, 13:35:14](https://news.ycombinator.com/item?id=39668044) - [EV Charging Points in America Are Finally Making Money](https://oilprice.com/Latest-Energy-News/World-News/EV-Charging-Points-in-America-Are-Finally-Making-Money.html)
 * [2024-03-11, 12:01:10](https://news.ycombinator.com/item?id=39667041) - [Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
 * [2024-03-11, 11:56:45](https://news.ycombinator.com/item?id=39666993) - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
 * [2024-03-11, 11:53:03](https://news.ycombinator.com/item?id=39666956) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
@@ -28,7 +29,6 @@
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:33:22](https://news.ycombinator.com/item?id=39653741) - [Let's give the Mac Classic 4 megs of RAM [video]](https://www.youtube.com/watch?v=_iE-CKcyR2E)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
-* [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-09, 02:32:35](https://news.ycombinator.com/item?id=39648931) - [Relating t-statistics and the relative width of confidence intervals](https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/)
 
 ## [Archives](archives/index.md)

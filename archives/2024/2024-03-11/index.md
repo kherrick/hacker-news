@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 14:56:21](https://news.ycombinator.com/item?id=39669008) - [Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers](https://stability.ai/news/putting-the-ai-supercomputer-to-work)
+* [2024-03-11, 14:55:56](https://news.ycombinator.com/item?id=39669002) - [FDA Approves Wegovy for Heart Conditions in Game-Changing Move](https://www.sciencealert.com/fda-approves-wegovy-for-heart-conditions-in-game-changing-move)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
 * [2024-03-11, 14:51:28](https://news.ycombinator.com/item?id=39668941) - [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
 * [2024-03-11, 14:42:48](https://news.ycombinator.com/item?id=39668847) - [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
