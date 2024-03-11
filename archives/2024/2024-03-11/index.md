@@ -11,6 +11,7 @@
 * [2024-03-11, 12:01:10](https://news.ycombinator.com/item?id=39667041) - [Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
 * [2024-03-11, 11:59:22](https://news.ycombinator.com/item?id=39667026) - [Reddit: Return of the Junk Stock IPO](https://www.forbes.com/sites/greatspeculations/2024/03/06/reddit-return-of-the-junk-stock-ipo/)
 * [2024-03-11, 11:56:45](https://news.ycombinator.com/item?id=39666993) - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
+* [2024-03-11, 11:56:22](https://news.ycombinator.com/item?id=39666986) - [Opinion: The actual hidden truth about UFOs](https://edition.cnn.com/2024/01/26/opinions/ufos-actual-truth-bergen-german/index.html)
 * [2024-03-11, 11:55:08](https://news.ycombinator.com/item?id=39666976) - [Automakers Are Sharing Consumers' Driving Behavior with Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
 * [2024-03-11, 11:53:03](https://news.ycombinator.com/item?id=39666956) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2024-03-11, 11:50:12](https://news.ycombinator.com/item?id=39666930) - [SQLPage – Building a full web application with nothing but SQL queries [video]](https://www.youtube.com/watch?v=mXdgmSdaXkg)

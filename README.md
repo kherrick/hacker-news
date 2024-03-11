@@ -2,10 +2,9 @@
 
 * [2024-03-11, 12:33:35](https://news.ycombinator.com/item?id=39667372) - [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
 * [2024-03-11, 12:20:36](https://news.ycombinator.com/item?id=39667234) - [Brits left baffled by Brexit's 'not for EU' food labels](https://www.politico.eu/article/uk-brexit-not-for-eu-food-label/)
-* [2024-03-11, 12:13:26](https://news.ycombinator.com/item?id=39667163) - [With Unusual Speed, Hong Kong Pushes Strict New Security Law](https://www.nytimes.com/2024/03/07/world/asia/hong-kong-security-law.html)
 * [2024-03-11, 12:01:10](https://news.ycombinator.com/item?id=39667041) - [Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
-* [2024-03-11, 11:59:22](https://news.ycombinator.com/item?id=39667026) - [Reddit: Return of the Junk Stock IPO](https://www.forbes.com/sites/greatspeculations/2024/03/06/reddit-return-of-the-junk-stock-ipo/)
 * [2024-03-11, 11:56:45](https://news.ycombinator.com/item?id=39666993) - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
+* [2024-03-11, 11:56:22](https://news.ycombinator.com/item?id=39666986) - [Opinion: The actual hidden truth about UFOs](https://edition.cnn.com/2024/01/26/opinions/ufos-actual-truth-bergen-german/index.html)
 * [2024-03-11, 11:53:03](https://news.ycombinator.com/item?id=39666956) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2024-03-11, 11:50:12](https://news.ycombinator.com/item?id=39666930) - [SQLPage – Building a full web application with nothing but SQL queries [video]](https://www.youtube.com/watch?v=mXdgmSdaXkg)
 * [2024-03-11, 10:57:54](https://news.ycombinator.com/item?id=39666561) - [European Commission's use of Microsoft 365 infringes data protection law for EU](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/european-commissions-use-microsoft-365-infringes-data-protection-law-eu-institutions-and-bodies_en)
@@ -30,6 +29,7 @@
 * [2024-03-10, 05:19:25](https://news.ycombinator.com/item?id=39656899) - [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
+* [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 
 ## [Archives](archives/index.md)
 
