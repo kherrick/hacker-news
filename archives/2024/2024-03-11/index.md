@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
 * [2024-03-11, 17:46:55](https://news.ycombinator.com/item?id=39671218) - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
+* [2024-03-11, 17:46:23](https://news.ycombinator.com/item?id=39671212) - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 17:19:54](https://news.ycombinator.com/item?id=39670900) - [Are We Watching the Internet Die?](https://www.wheresyoured.at/are-we-watching-the-internet-die/)
 * [2024-03-11, 17:02:01](https://news.ycombinator.com/item?id=39670684) - [JSON Canvas: an open file format for infinite canvas data](https://obsidian.md/blog/json-canvas/)
@@ -16,6 +17,7 @@
 * [2024-03-11, 16:17:47](https://news.ycombinator.com/item?id=39670046) - [Improving Performance in Firefox and Across the Web with Speedometer 3](https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/)
 * [2024-03-11, 16:17:18](https://news.ycombinator.com/item?id=39670035) - [Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness](https://browserbench.org/announcements/speedometer3/)
 * [2024-03-11, 16:04:19](https://news.ycombinator.com/item?id=39669858) - [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
+* [2024-03-11, 15:56:32](https://news.ycombinator.com/item?id=39669756) - [Linux 6.9 will be the first to top ten million Git objects](https://www.theregister.com/2024/03/11/linux_6_8_arrives/)
 * [2024-03-11, 15:32:56](https://news.ycombinator.com/item?id=39669473) - [Why does Rust choose not to provide `for` comprehensions?](https://langdev.stackexchange.com/questions/2848/why-does-rust-choose-not-to-provide-for-comprehensions)
 * [2024-03-11, 15:25:43](https://news.ycombinator.com/item?id=39669390) - [CO Bureau of Investigation: manipulated DNA data in 100s of cases over decades](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html)
 * [2024-03-11, 15:08:25](https://news.ycombinator.com/item?id=39669167) - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
