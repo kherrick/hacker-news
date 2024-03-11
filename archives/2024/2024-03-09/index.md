@@ -106,6 +106,7 @@
 * [2024-03-09, 03:31:52](https://news.ycombinator.com/item?id=39649185) - [The 160-year mystery of Europe's Ice Age 'queens'](https://www.bbc.com/future/article/20240307-the-160-year-mystery-of-the-stone-age-venus-figurines)
 * [2024-03-09, 03:15:16](https://news.ycombinator.com/item?id=39649126) - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 * [2024-03-09, 02:47:51](https://news.ycombinator.com/item?id=39649019) - [SCO–Linux Disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes)
+* [2024-03-09, 02:32:35](https://news.ycombinator.com/item?id=39648931) - [Relating t-statistics and the relative width of confidence intervals](https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/)
 * [2024-03-09, 02:24:51](https://news.ycombinator.com/item?id=39648902) - [Top US cybersecurity agency hacked and forced to take some systems offline](https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
 * [2024-03-09, 01:46:43](https://news.ycombinator.com/item?id=39648689) - [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
 * [2024-03-09, 01:45:47](https://news.ycombinator.com/item?id=39648682) - [The Existential Relief of Having Children](https://thelivingfossils.substack.com/p/the-existential-relief-of-having)
