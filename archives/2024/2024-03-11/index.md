@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-03-11](index.md)
+
+* [2024-03-11, 00:07:35](https://news.ycombinator.com/item?id=39663530) - [Global Population Crash Isn't Sci-Fi Anymore](https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson)
