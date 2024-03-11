@@ -1,12 +1,62 @@
 [
   [
     [
-      "2024-03-11, 10:29:42",
-      "https://news.ycombinator.com/item?id=39666429"
+      "2024-03-11, 10:57:54",
+      "https://news.ycombinator.com/item?id=39666561"
     ],
     [
-      "Like that tune? Find its musical twin with this Similar Song Finder",
-      "https://www.beatdetect.com/similar-song-finder"
+      "EDPS: European Commission's use of Microsoft 365 infringes data protection law [pdf]",
+      "https://www.edps.europa.eu/system/files/2024-03/EDPS-2024-05-European-Commission_s-use-of-M365-infringes-data-protection-rules-for-EU-institutions-and-bodies_EN.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 10:54:11",
+      "https://news.ycombinator.com/item?id=39666532"
+    ],
+    [
+      "Latam Airlines: 12 treated in New Zealand after mid-air 'technical' issue",
+      "https://www.bbc.com/news/world-asia-68488418"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 10:53:28",
+      "https://news.ycombinator.com/item?id=39666527"
+    ],
+    [
+      "AI chatbots found to use racist stereotypes even after anti-racism training",
+      "https://techxplore.com/news/2024-03-ai-chatbots-racist-stereotypes-anti.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 10:52:30",
+      "https://news.ycombinator.com/item?id=39666520"
+    ],
+    [
+      "A TUI Git client inspired by Magit",
+      "https://github.com/altsem/gitu"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 10:22:55",
+      "https://news.ycombinator.com/item?id=39666393"
+    ],
+    [
+      "Maybe Functions",
+      "https://blog.benwinding.com/maybe-functions/"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 10:21:44",
+      "https://news.ycombinator.com/item?id=39666389"
+    ],
+    [
+      "What is remarkable about Germany is productivity: wealthiness vs. worktime",
+      "https://twitter.com/martinvars/status/1767102149803085893"
     ]
   ],
   [
@@ -21,6 +71,16 @@
   ],
   [
     [
+      "2024-03-11, 09:31:19",
+      "https://news.ycombinator.com/item?id=39666126"
+    ],
+    [
+      "Study finds that we could lose science if publishers go bankrupt",
+      "https://arstechnica.com/science/2024/03/study-finds-that-we-could-lose-science-if-publishers-go-bankrupt/"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 09:27:16",
       "https://news.ycombinator.com/item?id=39666106"
     ],
@@ -31,12 +91,32 @@
   ],
   [
     [
+      "2024-03-11, 08:54:47",
+      "https://news.ycombinator.com/item?id=39665967"
+    ],
+    [
+      "Data Center Water Consumption: A Lack of Transparency (2021)",
+      "https://www.nature.com/articles/s41545-021-00101-w"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 08:47:55",
       "https://news.ycombinator.com/item?id=39665939"
     ],
     [
       "How to Write a (Lisp) Interpreter (In Python) (2010)",
       "https://www.norvig.com/lispy.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 08:40:43",
+      "https://news.ycombinator.com/item?id=39665905"
+    ],
+    [
+      "Bython: Python with braces. Because Python is awesome, but whitespace is awful",
+      "https://pypi.org/project/Bython/"
     ]
   ],
   [
@@ -121,26 +201,6 @@
   ],
   [
     [
-      "2024-03-10, 19:55:28",
-      "https://news.ycombinator.com/item?id=39662079"
-    ],
-    [
-      "PaperMC/Paper: The most widely used, high performance Minecraft server",
-      "https://github.com/PaperMC/Paper"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 19:28:37",
-      "https://news.ycombinator.com/item?id=39661840"
-    ],
-    [
-      "Controlling 3.6kW of Solar EV Charging with an Arduino GIGA R1 WiFi",
-      "https://blog.arduino.cc/2024/03/04/controlling-3-6kw-of-solar-ev-charging-with-an-arduino-giga-r1-wifi/"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 19:14:48",
       "https://news.ycombinator.com/item?id=39661721"
     ],
@@ -171,42 +231,12 @@
   ],
   [
     [
-      "2024-03-10, 18:46:19",
-      "https://news.ycombinator.com/item?id=39661482"
-    ],
-    [
-      "Show HN: Timelock.dev – Send a secret into the future using timelock encryption",
-      "https://timelock.dev/"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 17:46:25",
       "https://news.ycombinator.com/item?id=39660990"
     ],
     [
       "Kernel Hardening: Protect Linux user accounts against brute force attacks",
       "https://github.com/Kicksecure/security-misc"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 17:17:11",
-      "https://news.ycombinator.com/item?id=39660780"
-    ],
-    [
-      "How far are we from intelligent visual deductive reasoning?",
-      "https://arxiv.org/abs/2403.04732"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 16:52:21",
-      "https://news.ycombinator.com/item?id=39660592"
-    ],
-    [
-      "DBeaver – open-source database client",
-      "https://github.com/dbeaver/dbeaver"
     ]
   ],
   [
@@ -227,16 +257,6 @@
     [
       "Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning",
       "https://github.com/KhoomeiK/LlamaGym"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 06:06:37",
-      "https://news.ycombinator.com/item?id=39657055"
-    ],
-    [
-      "Two scammers, a web of betrayal, and Europe's fraud of the century",
-      "https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-03-09, 16:14:54",
-      "https://news.ycombinator.com/item?id=39652621"
-    ],
-    [
-      "The No Symbol: The History of the Red Circle-Slash",
-      "https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 14:33:02",
       "https://news.ycombinator.com/item?id=39651796"
     ],
     [
       "Monodraw",
       "https://monodraw.helftone.com/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 13:49:38",
-      "https://news.ycombinator.com/item?id=39629004"
-    ],
-    [
-      "Cystic fibrosis breakthrough has given patients a chance to live longer",
-      "https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/"
     ]
   ]
 ]
