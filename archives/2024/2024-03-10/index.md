@@ -77,6 +77,7 @@
 * [2024-03-10, 06:41:10](https://news.ycombinator.com/item?id=39657200) - [Show HN: Aussie startup. Debian Trixie phone. Taiwan contract](https://furilabs.com/blog/?no-amp=1)
 * [2024-03-10, 06:14:11](https://news.ycombinator.com/item?id=39657088) - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 * [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
+* [2024-03-10, 05:19:25](https://news.ycombinator.com/item?id=39656899) - [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
 * [2024-03-10, 05:06:53](https://news.ycombinator.com/item?id=39656857) - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
 * [2024-03-10, 04:43:29](https://news.ycombinator.com/item?id=39656772) - [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
