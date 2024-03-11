@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-11, 13:05:21",
-      "https://news.ycombinator.com/item?id=39667710"
+      "2024-03-11, 13:10:10",
+      "https://news.ycombinator.com/item?id=39667770"
     ],
     [
-      "Bitcoin rally pushes BlackRock ETF over $10B in record time",
-      "https://www.ft.com/content/1bb8413e-b974-4e05-933e-7ffedec62bdb"
+      "Is This 'Magic' Roundabout Made of 5 Mini-Roundabouts?",
+      "https://www.snopes.com/fact-check/magic-roundabout-photo/"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Fern (YC W23) is hiring a deployed engineer in NYC",
       "https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 11:59:22",
-      "https://news.ycombinator.com/item?id=39667026"
-    ],
-    [
-      "Reddit: Return of the Junk Stock IPO",
-      "https://www.forbes.com/sites/greatspeculations/2024/03/06/reddit-return-of-the-junk-stock-ipo/"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Flowers for Algernon (1965) [pdf]",
       "https://www.sdfo.org/gj/stories/flowersforalgernon.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 11:50:12",
-      "https://news.ycombinator.com/item?id=39666930"
-    ],
-    [
-      "SQLPage – Building a full web application with nothing but SQL queries [video]",
-      "https://www.youtube.com/watch?v=mXdgmSdaXkg"
     ]
   ],
   [
@@ -91,11 +71,21 @@
   ],
   [
     [
+      "2024-03-11, 08:54:47",
+      "https://news.ycombinator.com/item?id=39665967"
+    ],
+    [
+      "Data Center Water Consumption: A Lack of Transparency (2021)",
+      "https://www.nature.com/articles/s41545-021-00101-w"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 08:47:55",
       "https://news.ycombinator.com/item?id=39665939"
     ],
     [
-      "How to Write a (Lisp) Interpreter (In Python) (2010)",
+      "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
       "https://www.norvig.com/lispy.html"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Kernel Hardening: Protect Linux user accounts against brute force attacks",
       "https://github.com/Kicksecure/security-misc"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 16:52:21",
+      "https://news.ycombinator.com/item?id=39660592"
+    ],
+    [
+      "DBeaver – open-source database client",
+      "https://github.com/dbeaver/dbeaver"
     ]
   ],
   [
