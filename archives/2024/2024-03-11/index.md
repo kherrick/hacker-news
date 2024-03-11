@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 13:30:04](https://news.ycombinator.com/item?id=39667986) - [If you die, your 100+ accounts are a nightmare for your family](https://www.cnn.com/2024/02/26/tech/digital-legacy-planning-personal-technology/index.html)
 * [2024-03-11, 12:33:35](https://news.ycombinator.com/item?id=39667372) - [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
 * [2024-03-11, 12:20:36](https://news.ycombinator.com/item?id=39667234) - [Brits left baffled by Brexit's 'not for EU' food labels](https://www.politico.eu/article/uk-brexit-not-for-eu-food-label/)
 * [2024-03-11, 12:14:10](https://news.ycombinator.com/item?id=39667173) - [The new croissant taking Paris by storm](https://www.bbc.com/travel/article/20240305-the-surprisingly-complicated-history-of-the-croissant)
@@ -32,6 +33,7 @@
 * [2024-03-11, 08:54:47](https://news.ycombinator.com/item?id=39665967) - [Data Center Water Consumption: A Lack of Transparency (2021)](https://www.nature.com/articles/s41545-021-00101-w)
 * [2024-03-11, 08:49:23](https://news.ycombinator.com/item?id=39665944) - [\"xAI will open source Grok\"](https://twitter.com/elonmusk/status/1767108624038449405)
 * [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [How to Write a (Lisp) Interpreter (In Python)](https://www.norvig.com/lispy.html)
+* [2024-03-11, 08:40:55](https://news.ycombinator.com/item?id=39665906) - [Staff Speak Out at Turing Institute due to four men being given top jobs](https://www.theguardian.com/science/2024/mar/11/staff-at-alan-turing-institute-speak-out-after-four-men-given-top-roles)
 * [2024-03-11, 08:40:43](https://news.ycombinator.com/item?id=39665905) - [Bython: Python with braces. Because Python is awesome, but whitespace is awful](https://pypi.org/project/Bython/)
 * [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
