@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-03-11, 03:02:55",
-      "https://news.ycombinator.com/item?id=39664563"
+      "2024-03-11, 01:54:54",
+      "https://news.ycombinator.com/item?id=39664180"
     ],
     [
-      "As Use of A.I. Soars, So Does the Energy and Water It Requires",
-      "https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 02:04:06",
-      "https://news.ycombinator.com/item?id=39664239"
-    ],
-    [
-      "Alexandre-Théophile Vandermonde (2001)",
-      "https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/"
+      "Microplastics linked to heart attack, stroke and death",
+      "https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2024-03-10, 15:29:01",
+      "https://news.ycombinator.com/item?id=39659942"
+    ],
+    [
+      "Serving Astro with Rust",
+      "https://www.yieldcode.blog/post/serving-astro-with-rust/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 15:12:30",
       "https://news.ycombinator.com/item?id=39659781"
     ],
@@ -207,16 +207,6 @@
     [
       "Tenstorrent unveils Grayskull, its RISC-V answer to GPUs",
       "https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 12:57:44",
-      "https://news.ycombinator.com/item?id=39658684"
-    ],
-    [
-      "Kākāpō – A web bundler for Nix strings with context",
-      "https://github.com/adisbladis/kakapo"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mandala: A little plaground for testing pixel logic patterns",
       "https://github.com/gingerbeardman/mandala"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 13:49:38",
+      "https://news.ycombinator.com/item?id=39629004"
+    ],
+    [
+      "Cystic fibrosis breakthrough has given patients a chance to live longer",
+      "https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/"
     ]
   ]
 ]
