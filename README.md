@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-11, 09:27:16](https://news.ycombinator.com/item?id=39666106) - [Pirate IPTV Co. & Seven Workers Fined After Raids Eight Years Ago](https://torrentfreak.com/pirate-iptv-co-7-workers-fined-after-massive-raids-8-years-ago-240306/)
-* [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [How to Write a (Lisp) Interpreter (In Python)](https://www.norvig.com/lispy.html)
+* [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [How to Write a (Lisp) Interpreter (In Python) (2010)](https://www.norvig.com/lispy.html)
 * [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [2024-03-11, 02:01:35](https://news.ycombinator.com/item?id=39664221) - [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
 * [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
