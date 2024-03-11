@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-03-11, 17:22:22",
+      "https://news.ycombinator.com/item?id=39670922"
+    ],
+    [
+      "JSON Canvas – An open file format for infinite canvas data",
+      "https://jsoncanvas.org/"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 17:19:54",
       "https://news.ycombinator.com/item?id=39670900"
     ],
     [
       "Are We Watching the Internet Die?",
       "https://www.wheresyoured.at/are-we-watching-the-internet-die/"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 17:02:01",
+      "https://news.ycombinator.com/item?id=39670684"
+    ],
+    [
+      "JSON Canvas: an open file format for infinite canvas data",
+      "https://obsidian.md/blog/json-canvas/"
     ]
   ],
   [
@@ -31,21 +51,11 @@
   ],
   [
     [
-      "2024-03-11, 16:28:43",
-      "https://news.ycombinator.com/item?id=39670217"
-    ],
-    [
-      "The heavy hand of God: Europe's brutalist churches – in pictures",
-      "https://www.theguardian.com/artanddesign/gallery/2024/mar/07/the-heavy-hand-of-god-europes-brutalist-churches-in-pictures"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 16:21:17",
       "https://news.ycombinator.com/item?id=39670102"
     ],
     [
-      "The GIL can now be disabled in Python's main branch",
+      "gh-116167: Allow disabling the GIL",
       "https://github.com/python/cpython/pull/116338"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Airbnb is banning indoor security cameras",
       "https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 14:56:21",
-      "https://news.ycombinator.com/item?id=39669008"
-    ],
-    [
-      "Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers",
-      "https://stability.ai/news/putting-the-ai-supercomputer-to-work"
     ]
   ],
   [
