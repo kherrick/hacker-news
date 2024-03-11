@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 17:19:54](https://news.ycombinator.com/item?id=39670900) - [Are We Watching the Internet Die?](https://www.wheresyoured.at/are-we-watching-the-internet-die/)
 * [2024-03-11, 17:00:13](https://news.ycombinator.com/item?id=39670655) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
 * [2024-03-11, 16:47:05](https://news.ycombinator.com/item?id=39670484) - [How to Speak [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [2024-03-11, 16:28:43](https://news.ycombinator.com/item?id=39670217) - [The heavy hand of God: Europe's brutalist churches – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/07/the-heavy-hand-of-god-europes-brutalist-churches-in-pictures)
@@ -28,6 +29,7 @@
 * [2024-03-11, 13:10:10](https://news.ycombinator.com/item?id=39667770) - [Is This 'Magic' Roundabout Made of 5 Mini-Roundabouts?](https://www.snopes.com/fact-check/magic-roundabout-photo/)
 * [2024-03-11, 13:05:21](https://news.ycombinator.com/item?id=39667710) - [Bitcoin rally pushes BlackRock ETF over $10B in record time](https://www.ft.com/content/1bb8413e-b974-4e05-933e-7ffedec62bdb)
 * [2024-03-11, 12:55:01](https://news.ycombinator.com/item?id=39667608) - [Ask HN: Which skills are least likely to be replaced by AI?](https://news.ycombinator.com/item?id=39667608)
+* [2024-03-11, 12:44:46](https://news.ycombinator.com/item?id=39667489) - [Show HN: Async tasks in 350 lines of C](https://github.com/rkaehn/cr_task.h)
 * [2024-03-11, 12:41:18](https://news.ycombinator.com/item?id=39667456) - [The Mad Stone, the One-Time 'Cure' for Rabies](https://www.atlasobscura.com/articles/mad-stones-rabies-cure-eerie-feeling)
 * [2024-03-11, 12:33:35](https://news.ycombinator.com/item?id=39667372) - [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
 * [2024-03-11, 12:29:57](https://news.ycombinator.com/item?id=39667340) - [The vessel from 2K years ago that functioned as a battery](https://stigmatisnews.wordpress.com/2024/03/11/el-misterio-de-la-pila-de-bagdad-la-vasija-de-hace-2-000-anos-que-funcionaba-como-bateria-y-cuyo-origen-desconocemos/)
