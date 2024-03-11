@@ -12,6 +12,7 @@
 * [2024-03-11, 20:29:41](https://news.ycombinator.com/item?id=39672901) - [OpenPlotter](https://openmarine.net/openplotter)
 * [2024-03-11, 19:43:32](https://news.ycombinator.com/item?id=39672450) - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 * [2024-03-11, 19:37:22](https://news.ycombinator.com/item?id=39672393) - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
+* [2024-03-11, 19:28:43](https://news.ycombinator.com/item?id=39672317) - [Darknet bazaar Incognito Market is extorting former users](https://infosec.exchange/@briankrebs/112077458039064378)
 * [2024-03-11, 19:05:40](https://news.ycombinator.com/item?id=39672111) - [The later we meet someone in a sequence, the more negatively we describe them](https://suchscience.org/people-encountered-later-in-a-sequence-described-more-negatively/)
 * [2024-03-11, 18:47:02](https://news.ycombinator.com/item?id=39671919) - [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
 * [2024-03-11, 18:40:45](https://news.ycombinator.com/item?id=39671851) - [Adding \"before:2023\" improves Google web searches](https://mastodon.social/@gulovsen/112051692995026577)
