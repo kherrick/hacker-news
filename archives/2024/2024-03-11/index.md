@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 19:43:32](https://news.ycombinator.com/item?id=39672450) - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 * [2024-03-11, 18:47:02](https://news.ycombinator.com/item?id=39671919) - [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
 * [2024-03-11, 18:40:45](https://news.ycombinator.com/item?id=39671851) - [Adding \"before:2023\" improves Google web searches](https://mastodon.social/@gulovsen/112051692995026577)
 * [2024-03-11, 18:26:06](https://news.ycombinator.com/item?id=39671695) - [TikTok: Shareholders who make 'disparaging statements' will lose their holdings](https://fortune.com/2024/03/08/tiktok-non-disparagement-clause-shares-seized/)
