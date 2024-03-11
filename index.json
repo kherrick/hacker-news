@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-03-11, 08:15:09",
-      "https://news.ycombinator.com/item?id=39665804"
+      "2024-03-11, 08:49:23",
+      "https://news.ycombinator.com/item?id=39665944"
     ],
     [
-      "Tim Bray's De-Google Project",
-      "https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 07:41:52",
-      "https://news.ycombinator.com/item?id=39665668"
-    ],
-    [
-      "Did the whole pairdrop repo just vanish",
-      "https://github.com/fm-sys/snapdrop-android/issues/356"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 04:53:41",
-      "https://news.ycombinator.com/item?id=39665017"
-    ],
-    [
-      "Show HN: RE3 – Reversed Engineered GTA3 Source Code",
-      "https://github.com/halpz/re3"
+      "\"xAI will open source Grok\"",
+      "https://twitter.com/elonmusk/status/1767108624038449405"
     ]
   ],
   [
@@ -37,26 +17,6 @@
     [
       "Speech and Language Processing (3rd ed. draft)",
       "https://web.stanford.edu/~jurafsky/slp3/"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 03:48:40",
-      "https://news.ycombinator.com/item?id=39664736"
-    ],
-    [
-      "The Zayed Sustainability Prize has launched a US$600K award for Climate Action",
-      "https://www.wired.com/sponsored/story/zayed-sustainability-prize/"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 03:13:43",
-      "https://news.ycombinator.com/item?id=39664612"
-    ],
-    [
-      "Open-source Rust-based RAG",
-      "https://github.com/devflowinc/trieve"
     ]
   ],
   [
@@ -77,6 +37,16 @@
     [
       "Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved",
       "https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 23:30:45",
+      "https://news.ycombinator.com/item?id=39663371"
+    ],
+    [
+      "Why Signal 'turned our architecture inside out' for its latest privacy feature",
+      "https://techcrunch.com/2024/03/04/why-signal-turned-our-architecture-inside-out-for-its-latest-privacy-feature/"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-03-10, 18:46:19",
+      "https://news.ycombinator.com/item?id=39661482"
+    ],
+    [
+      "Show HN: Timelock.dev – Send a secret into the future using timelock encryption",
+      "https://timelock.dev/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 17:46:25",
       "https://news.ycombinator.com/item?id=39660990"
     ],
@@ -227,6 +207,16 @@
     [
       "Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning",
       "https://github.com/KhoomeiK/LlamaGym"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 09:52:44",
+      "https://news.ycombinator.com/item?id=39657936"
+    ],
+    [
+      "Iris (Infra-Red, in Situ) Silicon Verification Project Updates",
+      "https://www.bunniestudios.com/blog/?p=6937"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Bruno: Fast and Git-friendly open-source API client (Postman alternative)",
       "https://www.usebruno.com/"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 16:14:54",
+      "https://news.ycombinator.com/item?id=39652621"
+    ],
+    [
+      "The No Symbol: The History of the Red Circle-Slash",
+      "https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/"
     ]
   ],
   [
