@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
 * [2024-03-11, 08:49:23](https://news.ycombinator.com/item?id=39665944) - [\"xAI will open source Grok\"](https://twitter.com/elonmusk/status/1767108624038449405)
+* [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [How to Write a (Lisp) Interpreter (In Python)](https://www.norvig.com/lispy.html)
 * [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
 * [2024-03-11, 04:53:41](https://news.ycombinator.com/item?id=39665017) - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
