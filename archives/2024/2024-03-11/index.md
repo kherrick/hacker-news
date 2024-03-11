@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 12:14:10](https://news.ycombinator.com/item?id=39667173) - [The new croissant taking Paris by storm](https://www.bbc.com/travel/article/20240305-the-surprisingly-complicated-history-of-the-croissant)
+* [2024-03-11, 12:01:10](https://news.ycombinator.com/item?id=39667041) - [Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
+* [2024-03-11, 11:55:08](https://news.ycombinator.com/item?id=39666976) - [Automakers Are Sharing Consumers' Driving Behavior with Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
+* [2024-03-11, 11:53:03](https://news.ycombinator.com/item?id=39666956) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2024-03-11, 11:50:12](https://news.ycombinator.com/item?id=39666930) - [SQLPage – Building a full web application with nothing but SQL queries [video]](https://www.youtube.com/watch?v=mXdgmSdaXkg)
 * [2024-03-11, 11:34:33](https://news.ycombinator.com/item?id=39666792) - [You don't need a database, a queue, a distributed system: Go is enough](https://simonedutto.github.io/2024-03-09/binary-duel)
 * [2024-03-11, 11:02:54](https://news.ycombinator.com/item?id=39666582) - [European Commission's use of Microsoft 365 infringes data protection law for EU](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/european-commissions-use-microsoft-365-infringes-data-protection-law-eu-institutions-and-bodies_en)
