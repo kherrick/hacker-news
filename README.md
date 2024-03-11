@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-11, 18:40:45](https://news.ycombinator.com/item?id=39671851) - [Adding \"before:2023\" improves Google web searches](https://mastodon.social/@gulovsen/112051692995026577)
 * [2024-03-11, 17:46:55](https://news.ycombinator.com/item?id=39671218) - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
 * [2024-03-11, 17:46:23](https://news.ycombinator.com/item?id=39671212) - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
 * [2024-03-11, 17:41:00](https://news.ycombinator.com/item?id=39671146) - [Gemma doesn't suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
@@ -25,7 +26,6 @@
 * [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
-* [2024-03-10, 20:17:50](https://news.ycombinator.com/item?id=39662234) - [Perf Is Not Enough](https://motherduck.com/blog/perf-is-not-enough/)
 * [2024-03-10, 05:19:25](https://news.ycombinator.com/item?id=39656899) - [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
 * [2024-03-09, 02:32:35](https://news.ycombinator.com/item?id=39648931) - [Relating t-statistics and the relative width of confidence intervals](https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/)

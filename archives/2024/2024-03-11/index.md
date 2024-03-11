@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 18:40:45](https://news.ycombinator.com/item?id=39671851) - [Adding \"before:2023\" improves Google web searches](https://mastodon.social/@gulovsen/112051692995026577)
 * [2024-03-11, 18:26:06](https://news.ycombinator.com/item?id=39671695) - [TikTok: Shareholders who make 'disparaging statements' will lose their holdings](https://fortune.com/2024/03/08/tiktok-non-disparagement-clause-shares-seized/)
 * [2024-03-11, 17:46:55](https://news.ycombinator.com/item?id=39671218) - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
 * [2024-03-11, 17:46:23](https://news.ycombinator.com/item?id=39671212) - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
