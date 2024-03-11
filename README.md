@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-11, 04:53:41](https://news.ycombinator.com/item?id=39665017) - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
 * [2024-03-11, 03:48:40](https://news.ycombinator.com/item?id=39664736) - [The Zayed Sustainability Prize has launched a US$600K award for Climate Action](https://www.wired.com/sponsored/story/zayed-sustainability-prize/)
 * [2024-03-11, 03:48:29](https://news.ycombinator.com/item?id=39664735) - [Radical idea to protect 'doomsday' Thwaites Glacier with 62-mile long curtain](https://news.sky.com/story/scientists-on-radical-idea-to-protect-doomsday-thwaites-glacier-with-62-mile-long-curtain-13088357)
 * [2024-03-11, 03:13:43](https://news.ycombinator.com/item?id=39664612) - [Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
@@ -20,7 +21,6 @@
 * [2024-03-10, 17:17:11](https://news.ycombinator.com/item?id=39660780) - [How far are we from intelligent visual deductive reasoning?](https://arxiv.org/abs/2403.04732)
 * [2024-03-10, 16:52:21](https://news.ycombinator.com/item?id=39660592) - [DBeaver – open-source database client](https://github.com/dbeaver/dbeaver)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660475) - [A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)
-* [2024-03-10, 15:29:01](https://news.ycombinator.com/item?id=39659942) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
 * [2024-03-10, 15:04:51](https://news.ycombinator.com/item?id=39659729) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
