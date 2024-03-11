@@ -4,6 +4,7 @@
 * [2024-03-11, 03:48:40](https://news.ycombinator.com/item?id=39664736) - [The Zayed Sustainability Prize has launched a US$600K award for Climate Action](https://www.wired.com/sponsored/story/zayed-sustainability-prize/)
 * [2024-03-11, 03:48:29](https://news.ycombinator.com/item?id=39664735) - [Radical idea to protect 'doomsday' Thwaites Glacier with 62-mile long curtain](https://news.sky.com/story/scientists-on-radical-idea-to-protect-doomsday-thwaites-glacier-with-62-mile-long-curtain-13088357)
 * [2024-03-11, 03:13:43](https://news.ycombinator.com/item?id=39664612) - [Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
+* [2024-03-11, 02:01:35](https://news.ycombinator.com/item?id=39664221) - [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
 * [2024-03-11, 01:56:58](https://news.ycombinator.com/item?id=39664191) - [rlimit.com – rate-limiting made easy](https://rlimit.com)
 * [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
 * [2024-03-11, 00:17:15](https://news.ycombinator.com/item?id=39663593) - [Two years later, deep learning is still faced with the same basic challenges](https://garymarcus.substack.com/p/two-years-later-deep-learning-is)
@@ -18,10 +19,10 @@
 * [2024-03-10, 19:14:48](https://news.ycombinator.com/item?id=39661721) - [The Fashion Police in 16th-century Italy (2014)](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 * [2024-03-10, 18:48:34](https://news.ycombinator.com/item?id=39661497) - [Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
 * [2024-03-10, 17:46:25](https://news.ycombinator.com/item?id=39660990) - [Kernel Hardening: Protect Linux user accounts against brute force attacks](https://github.com/Kicksecure/security-misc)
+* [2024-03-10, 17:17:11](https://news.ycombinator.com/item?id=39660780) - [How far are we from intelligent visual deductive reasoning?](https://arxiv.org/abs/2403.04732)
 * [2024-03-10, 16:52:21](https://news.ycombinator.com/item?id=39660592) - [DBeaver – open-source database client](https://github.com/dbeaver/dbeaver)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660475) - [A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
-* [2024-03-10, 15:04:51](https://news.ycombinator.com/item?id=39659729) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
 * [2024-03-10, 09:15:44](https://news.ycombinator.com/item?id=39657782) - [Moore on Moore – The past, present and uncertain future of Moore's Law](https://thechipletter.substack.com/p/moore-on-moore)
 * [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
@@ -29,7 +30,6 @@
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
-* [2024-03-07, 23:00:01](https://news.ycombinator.com/item?id=39635691) - [Mandala: A little plaground for testing pixel logic patterns](https://github.com/gingerbeardman/mandala)
 
 ## [Archives](archives/index.md)
 
