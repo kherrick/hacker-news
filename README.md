@@ -6,7 +6,7 @@
 * [2024-03-11, 03:13:43](https://news.ycombinator.com/item?id=39664612) - [Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
 * [2024-03-11, 02:01:35](https://news.ycombinator.com/item?id=39664221) - [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
 * [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
-* [2024-03-11, 00:17:15](https://news.ycombinator.com/item?id=39663593) - [Two years later, deep learning is still faced with the same basic challenges](https://garymarcus.substack.com/p/two-years-later-deep-learning-is)
+* [2024-03-10, 23:30:45](https://news.ycombinator.com/item?id=39663371) - [Why Signal 'turned our architecture inside out' for its latest privacy feature](https://techcrunch.com/2024/03/04/why-signal-turned-our-architecture-inside-out-for-its-latest-privacy-feature/)
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 21:38:06](https://news.ycombinator.com/item?id=39662721) - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
