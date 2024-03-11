@@ -11,6 +11,7 @@
 * [2024-03-11, 17:46:55](https://news.ycombinator.com/item?id=39671218) - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
 * [2024-03-11, 17:46:23](https://news.ycombinator.com/item?id=39671212) - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
 * [2024-03-11, 17:41:00](https://news.ycombinator.com/item?id=39671146) - [Gemma doesn't suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
+* [2024-03-11, 17:40:15](https://news.ycombinator.com/item?id=39671129) - [Google's self-designed office swallows Wi-Fi](https://arstechnica.com/gadgets/2024/03/googles-self-designed-office-swallows-wi-fi-like-the-bermuda-triangle/)
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 17:19:54](https://news.ycombinator.com/item?id=39670900) - [Are We Watching the Internet Die?](https://www.wheresyoured.at/are-we-watching-the-internet-die/)
 * [2024-03-11, 17:02:01](https://news.ycombinator.com/item?id=39670684) - [JSON Canvas: an open file format for infinite canvas data](https://obsidian.md/blog/json-canvas/)
