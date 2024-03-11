@@ -13,6 +13,7 @@
 * [2024-03-11, 16:04:19](https://news.ycombinator.com/item?id=39669858) - [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
 * [2024-03-11, 14:42:48](https://news.ycombinator.com/item?id=39668847) - [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
+* [2024-03-11, 14:33:26](https://news.ycombinator.com/item?id=39668742) - [The complete story of Gödel incompleteness](https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/)
 * [2024-03-11, 13:36:11](https://news.ycombinator.com/item?id=39668053) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 12:44:46](https://news.ycombinator.com/item?id=39667489) - [Show HN: Async tasks in 350 lines of C](https://github.com/rkaehn/cr_task.h)
 * [2024-03-11, 12:41:18](https://news.ycombinator.com/item?id=39667456) - [The Mad Stone, the One-Time 'Cure' for Rabies](https://www.atlasobscura.com/articles/mad-stones-rabies-cure-eerie-feeling)
@@ -27,7 +28,6 @@
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
 * [2024-03-10, 05:19:25](https://news.ycombinator.com/item?id=39656899) - [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
-* [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
 * [2024-03-09, 02:32:35](https://news.ycombinator.com/item?id=39648931) - [Relating t-statistics and the relative width of confidence intervals](https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/)
 * [2024-03-07, 18:55:46](https://news.ycombinator.com/item?id=39633123) - [Breakthrough in nanostructure technology for real-time color display](https://phys.org/news/2024-03-breakthrough-nanostructure-technology-real-display.html)
 
