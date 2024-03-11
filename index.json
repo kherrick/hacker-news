@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-03-11, 16:21:17",
+      "https://news.ycombinator.com/item?id=39670102"
+    ],
+    [
+      "The GIL can now be disabled in Python's main branch",
+      "https://github.com/python/cpython/pull/116338"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 16:17:47",
+      "https://news.ycombinator.com/item?id=39670046"
+    ],
+    [
+      "Improving Performance in Firefox and Across the Web with Speedometer 3",
+      "https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 16:17:18",
+      "https://news.ycombinator.com/item?id=39670035"
+    ],
+    [
+      "Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness",
+      "https://browserbench.org/announcements/speedometer3/"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 16:04:19",
       "https://news.ycombinator.com/item?id=39669858"
     ],
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2024-03-10, 18:48:34",
-      "https://news.ycombinator.com/item?id=39661497"
-    ],
-    [
-      "Rebuilding memchess.com from its archive",
-      "https://grondilu.github.io/memchess/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 17:46:25",
-      "https://news.ycombinator.com/item?id=39660990"
-    ],
-    [
-      "Kernel Hardening: Protect Linux user accounts against brute force attacks",
-      "https://github.com/Kicksecure/security-misc"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 05:19:25",
       "https://news.ycombinator.com/item?id=39656899"
     ],
     [
       "How the Devteam Conquered the iPhone",
       "https://fabiensanglard.net/iSummer/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 04:11:26",
-      "https://news.ycombinator.com/item?id=39656657"
-    ],
-    [
-      "S3 is files, but not a filesystem",
-      "https://calpaterson.com/s3.html"
     ]
   ],
   [
