@@ -20,4 +20,5 @@
 * [2024-03-11, 00:39:30](https://news.ycombinator.com/item?id=39663725) - [News agencies recall image of Catherine, Princess of Wales](https://www.cnn.com/2024/03/10/uk/news-agencies-recall-image-of-catherine-princess-of-wales/index.html)
 * [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
 * [2024-03-11, 00:29:05](https://news.ycombinator.com/item?id=39663656) - [AI gives the news you need](https://sive.rs/ainews)
+* [2024-03-11, 00:17:15](https://news.ycombinator.com/item?id=39663593) - [Two years later, deep learning is still faced with the same basic challenges](https://garymarcus.substack.com/p/two-years-later-deep-learning-is)
 * [2024-03-11, 00:07:35](https://news.ycombinator.com/item?id=39663530) - [Global Population Crash Isn't Sci-Fi Anymore](https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson)
