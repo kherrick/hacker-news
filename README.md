@@ -2,6 +2,7 @@
 
 * [2024-03-11, 12:01:10](https://news.ycombinator.com/item?id=39667041) - [Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
 * [2024-03-11, 11:59:22](https://news.ycombinator.com/item?id=39667026) - [Reddit: Return of the Junk Stock IPO](https://www.forbes.com/sites/greatspeculations/2024/03/06/reddit-return-of-the-junk-stock-ipo/)
+* [2024-03-11, 11:56:45](https://news.ycombinator.com/item?id=39666993) - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
 * [2024-03-11, 11:55:08](https://news.ycombinator.com/item?id=39666976) - [Automakers Are Sharing Consumers' Driving Behavior with Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
 * [2024-03-11, 11:53:03](https://news.ycombinator.com/item?id=39666956) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2024-03-11, 11:50:12](https://news.ycombinator.com/item?id=39666930) - [SQLPage – Building a full web application with nothing but SQL queries [video]](https://www.youtube.com/watch?v=mXdgmSdaXkg)
@@ -24,7 +25,6 @@
 * [2024-03-10, 19:14:48](https://news.ycombinator.com/item?id=39661721) - [The Fashion Police in 16th-century Italy (2014)](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 * [2024-03-10, 18:48:34](https://news.ycombinator.com/item?id=39661497) - [Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
 * [2024-03-10, 17:46:25](https://news.ycombinator.com/item?id=39660990) - [Kernel Hardening: Protect Linux user accounts against brute force attacks](https://github.com/Kicksecure/security-misc)
-* [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660475) - [A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)
 * [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
 * [2024-03-10, 05:19:25](https://news.ycombinator.com/item?id=39656899) - [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
