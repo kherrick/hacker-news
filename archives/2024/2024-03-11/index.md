@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 10:29:42](https://news.ycombinator.com/item?id=39666429) - [Like that tune? Find its musical twin with this Similar Song Finder](https://www.beatdetect.com/similar-song-finder)
+* [2024-03-11, 10:17:39](https://news.ycombinator.com/item?id=39666369) - [Humanity Is Dangerously Pushing Its Ability to Tolerate Heat](https://www.wired.com/story/extreme-heat-tolerance/)
 * [2024-03-11, 09:27:16](https://news.ycombinator.com/item?id=39666106) - [Pirate IPTV Co. & Seven Workers Fined After Raids Eight Years Ago](https://torrentfreak.com/pirate-iptv-co-7-workers-fined-after-massive-raids-8-years-ago-240306/)
 * [2024-03-11, 08:49:23](https://news.ycombinator.com/item?id=39665944) - [\"xAI will open source Grok\"](https://twitter.com/elonmusk/status/1767108624038449405)
 * [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [How to Write a (Lisp) Interpreter (In Python)](https://www.norvig.com/lispy.html)
