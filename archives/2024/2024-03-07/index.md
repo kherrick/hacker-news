@@ -32,6 +32,7 @@
 * [2024-03-07, 19:30:54](https://news.ycombinator.com/item?id=39633580) - [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)
 * [2024-03-07, 19:11:33](https://news.ycombinator.com/item?id=39633311) - [Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)](https://publicdomainreview.org/collection/merian-metamorphosis/)
 * [2024-03-07, 18:59:15](https://news.ycombinator.com/item?id=39633172) - [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
+* [2024-03-07, 18:55:46](https://news.ycombinator.com/item?id=39633123) - [Breakthrough in nanostructure technology for real-time color display](https://phys.org/news/2024-03-breakthrough-nanostructure-technology-real-display.html)
 * [2024-03-07, 18:50:16](https://news.ycombinator.com/item?id=39633053) - [TikTok users bombard Congressional offices over bill that could ban app](https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633)
 * [2024-03-07, 18:43:41](https://news.ycombinator.com/item?id=39632959) - [Gemini won't return C++ coding help if you're under 18 \"to preserve your safety\"](https://twitter.com/ylecun/status/1765515930556072312)
 * [2024-03-07, 18:38:22](https://news.ycombinator.com/item?id=39632872) - [Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud](https://silogy.io/)
