@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 11:50:12](https://news.ycombinator.com/item?id=39666930) - [SQLPage – Building a full web application with nothing but SQL queries [video]](https://www.youtube.com/watch?v=mXdgmSdaXkg)
+* [2024-03-11, 11:34:33](https://news.ycombinator.com/item?id=39666792) - [You don't need a database, a queue, a distributed system: Go is enough](https://simonedutto.github.io/2024-03-09/binary-duel)
 * [2024-03-11, 11:02:54](https://news.ycombinator.com/item?id=39666582) - [European Commission's use of Microsoft 365 infringes data protection law for EU](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/european-commissions-use-microsoft-365-infringes-data-protection-law-eu-institutions-and-bodies_en)
 * [2024-03-11, 10:57:54](https://news.ycombinator.com/item?id=39666561) - [EDPS: European Commission's use of Microsoft 365 infringes data protection law [pdf]](https://www.edps.europa.eu/system/files/2024-03/EDPS-2024-05-European-Commission_s-use-of-M365-infringes-data-protection-rules-for-EU-institutions-and-bodies_EN.pdf)
 * [2024-03-11, 10:54:11](https://news.ycombinator.com/item?id=39666532) - [Latam Airlines: 12 treated in New Zealand after mid-air 'technical' issue](https://www.bbc.com/news/world-asia-68488418)
