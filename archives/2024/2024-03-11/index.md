@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 09:27:16](https://news.ycombinator.com/item?id=39666106) - [Pirate IPTV Co. & Seven Workers Fined After Raids Eight Years Ago](https://torrentfreak.com/pirate-iptv-co-7-workers-fined-after-massive-raids-8-years-ago-240306/)
 * [2024-03-11, 08:49:23](https://news.ycombinator.com/item?id=39665944) - [\"xAI will open source Grok\"](https://twitter.com/elonmusk/status/1767108624038449405)
 * [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [How to Write a (Lisp) Interpreter (In Python)](https://www.norvig.com/lispy.html)
 * [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
