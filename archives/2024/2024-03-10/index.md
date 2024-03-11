@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 23:43:06](https://news.ycombinator.com/item?id=39663416) - [Roku's New TOS Makes It Nearly Impossible to Sue the Company](https://www.lifewire.com/roku-tos-update-8606211)
 * [2024-03-10, 23:00:53](https://news.ycombinator.com/item?id=39663219) - [The EBF Documentary](https://www.brendangregg.com/blog/2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:42:50](https://news.ycombinator.com/item?id=39663120) - [The Case Against Homework](https://www.alfiekohn.org/article/case-against-homework/)
