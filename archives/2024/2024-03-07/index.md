@@ -70,6 +70,7 @@
 * [2024-03-07, 13:50:07](https://news.ycombinator.com/item?id=39629015) - [The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
 * [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 * [2024-03-07, 13:48:32](https://news.ycombinator.com/item?id=39628987) - [Starting a side project as a creative studio](https://www.hellotime.io/blog/starting-a-side-project-as-a-creative-studio)
+* [2024-03-07, 13:44:45](https://news.ycombinator.com/item?id=39628943) - [Zama's homomorphic encryption tech lands it $73M on a valuation of nearly $400M](https://techcrunch.com/2024/03/07/zamas-homomorphic-encryption-tech-lands-it-73m-on-a-valuation-of-nearly-400m/)
 * [2024-03-07, 13:33:46](https://news.ycombinator.com/item?id=39628842) - [Ex-Google engineer charged with stealing AI trade secrets](https://apnews.com/article/china-google-justice-department-63156ade1e564d15d92adbef91e9c5da)
 * [2024-03-07, 13:28:15](https://news.ycombinator.com/item?id=39628789) - [Meta Loves Python](https://engineering.fb.com/2024/02/12/developer-tools/meta-loves-python/)
 * [2024-03-07, 13:23:47](https://news.ycombinator.com/item?id=39628746) - [Free Natural History Specimen CT Scans](https://phys.org/news/2024-03-scientists-ct-scanned-thousands-natural.html)
