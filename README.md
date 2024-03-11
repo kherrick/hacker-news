@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-11, 02:04:06](https://news.ycombinator.com/item?id=39664239) - [Alexandre-Théophile Vandermonde (2001)](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
+* [2024-03-11, 01:46:39](https://news.ycombinator.com/item?id=39664122) - [Is Delphi a Memory Safe Language?](https://blogs.embarcadero.com/is-delphi-a-memory-safe-language/)
 * [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
 * [2024-03-10, 23:43:06](https://news.ycombinator.com/item?id=39663416) - [Roku's New TOS Makes It Nearly Impossible to Sue the Company](https://www.lifewire.com/roku-tos-update-8606211)
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
-* [2024-03-10, 22:01:08](https://news.ycombinator.com/item?id=39662853) - [Of course AI is extractive, everything is lately](https://coryd.dev/posts/2024/of-course-ai-is-extractive-everything-is-lately/)
 * [2024-03-10, 21:38:06](https://news.ycombinator.com/item?id=39662721) - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
