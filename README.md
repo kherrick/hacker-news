@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
+* [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanish](https://github.com/fm-sys/snapdrop-android/issues/356)
 * [2024-03-11, 04:53:41](https://news.ycombinator.com/item?id=39665017) - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
 * [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [2024-03-11, 03:48:40](https://news.ycombinator.com/item?id=39664736) - [The Zayed Sustainability Prize has launched a US$600K award for Climate Action](https://www.wired.com/sponsored/story/zayed-sustainability-prize/)
