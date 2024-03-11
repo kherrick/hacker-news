@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 16:21:17](https://news.ycombinator.com/item?id=39670102) - [The GIL can now be disabled in Python's main branch](https://github.com/python/cpython/pull/116338)
+* [2024-03-11, 16:17:47](https://news.ycombinator.com/item?id=39670046) - [Improving Performance in Firefox and Across the Web with Speedometer 3](https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/)
+* [2024-03-11, 16:17:18](https://news.ycombinator.com/item?id=39670035) - [Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness](https://browserbench.org/announcements/speedometer3/)
 * [2024-03-11, 16:04:19](https://news.ycombinator.com/item?id=39669858) - [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
 * [2024-03-11, 15:32:56](https://news.ycombinator.com/item?id=39669473) - [Why does Rust choose not to provide `for` comprehensions?](https://langdev.stackexchange.com/questions/2848/why-does-rust-choose-not-to-provide-for-comprehensions)
 * [2024-03-11, 15:25:43](https://news.ycombinator.com/item?id=39669390) - [CO Bureau of Investigation: manipulated DNA data in 100s of cases over decades](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html)
