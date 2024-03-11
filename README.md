@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-11, 17:00:13](https://news.ycombinator.com/item?id=39670655) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
+* [2024-03-11, 16:47:05](https://news.ycombinator.com/item?id=39670484) - [How to Speak [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
+* [2024-03-11, 16:28:43](https://news.ycombinator.com/item?id=39670217) - [The heavy hand of God: Europe's brutalist churches – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/07/the-heavy-hand-of-god-europes-brutalist-churches-in-pictures)
 * [2024-03-11, 16:21:17](https://news.ycombinator.com/item?id=39670102) - [The GIL can now be disabled in Python's main branch](https://github.com/python/cpython/pull/116338)
 * [2024-03-11, 16:17:47](https://news.ycombinator.com/item?id=39670046) - [Improving Performance in Firefox and Across the Web with Speedometer 3](https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/)
 * [2024-03-11, 16:04:19](https://news.ycombinator.com/item?id=39669858) - [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
@@ -18,7 +20,6 @@
 * [2024-03-11, 05:33:37](https://news.ycombinator.com/item?id=39665184) - [The Surprising History of Claims for Life on the Sun (2011)](https://www.researchgate.net/publication/258495524_The_Surprising_History_of_Claims_for_Life_on_the_Sun)
 * [2024-03-11, 05:11:05](https://news.ycombinator.com/item?id=39665090) - [Exploring Bauhaus: Revolutionary Design School That Shaped Modern World](https://www.playforthoughts.com/blog/bauhaus)
 * [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
-* [2024-03-11, 02:01:35](https://news.ycombinator.com/item?id=39664221) - [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
 * [2024-03-10, 20:17:50](https://news.ycombinator.com/item?id=39662234) - [Perf Is Not Enough](https://motherduck.com/blog/perf-is-not-enough/)
@@ -27,7 +28,6 @@
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:33:22](https://news.ycombinator.com/item?id=39653741) - [Let's give the Mac Classic 4 megs of RAM [video]](https://www.youtube.com/watch?v=_iE-CKcyR2E)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
-* [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-09, 02:32:35](https://news.ycombinator.com/item?id=39648931) - [Relating t-statistics and the relative width of confidence intervals](https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/)
 * [2024-03-07, 18:55:46](https://news.ycombinator.com/item?id=39633123) - [Breakthrough in nanostructure technology for real-time color display](https://phys.org/news/2024-03-breakthrough-nanostructure-technology-real-display.html)
 

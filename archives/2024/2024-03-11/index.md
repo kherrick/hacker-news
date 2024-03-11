@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
 * [2024-03-11, 17:00:13](https://news.ycombinator.com/item?id=39670655) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
+* [2024-03-11, 16:47:05](https://news.ycombinator.com/item?id=39670484) - [How to Speak [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
+* [2024-03-11, 16:28:43](https://news.ycombinator.com/item?id=39670217) - [The heavy hand of God: Europe's brutalist churches – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/07/the-heavy-hand-of-god-europes-brutalist-churches-in-pictures)
 * [2024-03-11, 16:21:17](https://news.ycombinator.com/item?id=39670102) - [The GIL can now be disabled in Python's main branch](https://github.com/python/cpython/pull/116338)
 * [2024-03-11, 16:17:47](https://news.ycombinator.com/item?id=39670046) - [Improving Performance in Firefox and Across the Web with Speedometer 3](https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/)
 * [2024-03-11, 16:17:18](https://news.ycombinator.com/item?id=39670035) - [Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness](https://browserbench.org/announcements/speedometer3/)
