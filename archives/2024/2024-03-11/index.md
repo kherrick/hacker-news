@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 04:12:57](https://news.ycombinator.com/item?id=39664860) - [Another open-core project rejecting PR citing paid feature](https://github.com/ToolJet/ToolJet/pull/2303)
+* [2024-03-11, 04:12:51](https://news.ycombinator.com/item?id=39664858) - [NSF funds the development of automated tools to censor speech \"at scale\" [pdf]](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/NSF-Staff-Report_Appendix.pdf)
 * [2024-03-11, 03:48:40](https://news.ycombinator.com/item?id=39664736) - [The Zayed Sustainability Prize has launched a US$600K award for Climate Action](https://www.wired.com/sponsored/story/zayed-sustainability-prize/)
+* [2024-03-11, 03:48:29](https://news.ycombinator.com/item?id=39664735) - [Radical idea to protect 'doomsday' Thwaites Glacier with 62-mile long curtain](https://news.sky.com/story/scientists-on-radical-idea-to-protect-doomsday-thwaites-glacier-with-62-mile-long-curtain-13088357)
+* [2024-03-11, 03:24:48](https://news.ycombinator.com/item?id=39664658) - [Bring Back Private Offices, Part II](https://albertcory50.substack.com/p/bring-back-private-offices-part-ii)
+* [2024-03-11, 03:13:43](https://news.ycombinator.com/item?id=39664612) - [Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
 * [2024-03-11, 03:02:55](https://news.ycombinator.com/item?id=39664563) - [As Use of A.I. Soars, So Does the Energy and Water It Requires](https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions)
 * [2024-03-11, 02:47:42](https://news.ycombinator.com/item?id=39664483) - [Ask HN: Why is hosting a contact form so difficult?](https://news.ycombinator.com/item?id=39664483)
 * [2024-03-11, 02:10:04](https://news.ycombinator.com/item?id=39664273) - [98% GPU Utilization Achieved in 1k GPU-Scale AI Training Using Distributed Cache](https://juicefs.com/en/blog/engineering/ai-gpu-utilization-mlperf-benchmark)
