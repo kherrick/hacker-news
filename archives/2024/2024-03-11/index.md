@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 03:02:55](https://news.ycombinator.com/item?id=39664563) - [As Use of A.I. Soars, So Does the Energy and Water It Requires](https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions)
 * [2024-03-11, 02:47:42](https://news.ycombinator.com/item?id=39664483) - [Ask HN: Why is hosting a contact form so difficult?](https://news.ycombinator.com/item?id=39664483)
 * [2024-03-11, 02:10:04](https://news.ycombinator.com/item?id=39664273) - [98% GPU Utilization Achieved in 1k GPU-Scale AI Training Using Distributed Cache](https://juicefs.com/en/blog/engineering/ai-gpu-utilization-mlperf-benchmark)
 * [2024-03-11, 02:04:06](https://news.ycombinator.com/item?id=39664239) - [Alexandre-Théophile Vandermonde (2001)](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
