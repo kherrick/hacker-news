@@ -26,6 +26,7 @@
 * [2024-03-10, 19:28:37](https://news.ycombinator.com/item?id=39661840) - [Controlling 3.6kW of Solar EV Charging with an Arduino GIGA R1 WiFi](https://blog.arduino.cc/2024/03/04/controlling-3-6kw-of-solar-ev-charging-with-an-arduino-giga-r1-wifi/)
 * [2024-03-10, 19:22:05](https://news.ycombinator.com/item?id=39661783) - [HN-Index](https://www.alexmolas.com/2024/02/12/hn-index.html)
 * [2024-03-10, 19:14:48](https://news.ycombinator.com/item?id=39661721) - [The Fashion Police in 16th-century Italy](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
+* [2024-03-10, 19:08:52](https://news.ycombinator.com/item?id=39661674) - [The true, dramatic story of Robert Downey Jr.'s 'Oppenheimer' villain](https://www.washingtonpost.com/history/2024/03/09/lewis-strauss-oppenheimer-true-story-robert-downey/)
 * [2024-03-10, 18:48:34](https://news.ycombinator.com/item?id=39661497) - [Rebuilding Memchess.com from Its Archive](https://grondilu.github.io/memchess/)
 * [2024-03-10, 18:46:19](https://news.ycombinator.com/item?id=39661482) - [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
 * [2024-03-10, 18:25:58](https://news.ycombinator.com/item?id=39661305) - [Read It Never](https://prertik.com/read-it-never)
