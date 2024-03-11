@@ -11,7 +11,7 @@
 * [2024-03-11, 11:56:45](https://news.ycombinator.com/item?id=39666993) - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
 * [2024-03-11, 11:53:03](https://news.ycombinator.com/item?id=39666956) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2024-03-11, 11:42:03](https://news.ycombinator.com/item?id=39666865) - [Show HN: Teable – Open-Source No-Code Database Fusion of Postgres and Airtable](https://github.com/teableio/teable)
-* [2024-03-11, 10:22:55](https://news.ycombinator.com/item?id=39666393) - [Maybe Functions](https://blog.benwinding.com/maybe-functions/)
+* [2024-03-11, 10:39:36](https://news.ycombinator.com/item?id=39666467) - [Show HN: Goqite, a persistent message queue Go library built on SQLite](https://www.goqite.com)
 * [2024-03-11, 09:27:16](https://news.ycombinator.com/item?id=39666106) - [Pirate IPTV Co. & Seven Workers Fined After Raids Eight Years Ago](https://torrentfreak.com/pirate-iptv-co-7-workers-fined-after-massive-raids-8-years-ago-240306/)
 * [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://www.norvig.com/lispy.html)
 * [2024-03-11, 05:33:37](https://news.ycombinator.com/item?id=39665184) - [The Surprising History of Claims for Life on the Sun (2011)](https://www.researchgate.net/publication/258495524_The_Surprising_History_of_Claims_for_Life_on_the_Sun)

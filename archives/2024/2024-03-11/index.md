@@ -37,6 +37,7 @@
 * [2024-03-11, 10:53:28](https://news.ycombinator.com/item?id=39666527) - [AI chatbots found to use racist stereotypes even after anti-racism training](https://techxplore.com/news/2024-03-ai-chatbots-racist-stereotypes-anti.html)
 * [2024-03-11, 10:52:30](https://news.ycombinator.com/item?id=39666520) - [A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 * [2024-03-11, 10:43:29](https://news.ycombinator.com/item?id=39666476) - [Reddit Launches Long-Awaited IPO with $748M Target](https://www.bloomberg.com/news/articles/2024-03-11/reddit-launches-long-awaited-ipo-with-748-million-target)
+* [2024-03-11, 10:39:36](https://news.ycombinator.com/item?id=39666467) - [Show HN: Goqite, a persistent message queue Go library built on SQLite](https://www.goqite.com)
 * [2024-03-11, 10:29:42](https://news.ycombinator.com/item?id=39666429) - [Like that tune? Find its musical twin with this Similar Song Finder](https://www.beatdetect.com/similar-song-finder)
 * [2024-03-11, 10:22:55](https://news.ycombinator.com/item?id=39666393) - [Maybe Functions](https://blog.benwinding.com/maybe-functions/)
 * [2024-03-11, 10:21:44](https://news.ycombinator.com/item?id=39666389) - [What is remarkable about Germany is productivity: wealthiness vs. worktime](https://twitter.com/martinvars/status/1767102149803085893)
