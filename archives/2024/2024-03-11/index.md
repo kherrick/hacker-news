@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 22:50:08](https://news.ycombinator.com/item?id=39674107) - [See 'horned' comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
 * [2024-03-11, 21:23:31](https://news.ycombinator.com/item?id=39673393) - [Meta revokes Llama 2 licenses for anyone making a copyright claim](https://twitter.com/mikarv/status/1764177268115489081)
+* [2024-03-11, 21:03:32](https://news.ycombinator.com/item?id=39673213) - [Tell HN: NetworkSoltutions.com lost the ability to update root DNS w/ custom DNS](https://news.ycombinator.com/item?id=39673213)
 * [2024-03-11, 20:57:01](https://news.ycombinator.com/item?id=39673154) - [How to know if a job makes a difference](https://probablygood.org/core-concepts/self-framework/)
 * [2024-03-11, 20:54:54](https://news.ycombinator.com/item?id=39673134) - [WeTransfer is having issues](https://status.wetransfer.com)
 * [2024-03-11, 20:51:43](https://news.ycombinator.com/item?id=39673103) - [A Dutch Quandary Offers a Glimpse of a Deepening Problem for Europe](https://www.nytimes.com/2024/03/11/world/europe/geert-wilders-dutch-election-politics.html)
