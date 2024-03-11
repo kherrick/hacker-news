@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 11:02:54](https://news.ycombinator.com/item?id=39666582) - [European Commission's use of Microsoft 365 infringes data protection law for EU](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/european-commissions-use-microsoft-365-infringes-data-protection-law-eu-institutions-and-bodies_en)
 * [2024-03-11, 10:57:54](https://news.ycombinator.com/item?id=39666561) - [EDPS: European Commission's use of Microsoft 365 infringes data protection law [pdf]](https://www.edps.europa.eu/system/files/2024-03/EDPS-2024-05-European-Commission_s-use-of-M365-infringes-data-protection-rules-for-EU-institutions-and-bodies_EN.pdf)
 * [2024-03-11, 10:54:11](https://news.ycombinator.com/item?id=39666532) - [Latam Airlines: 12 treated in New Zealand after mid-air 'technical' issue](https://www.bbc.com/news/world-asia-68488418)
 * [2024-03-11, 10:53:28](https://news.ycombinator.com/item?id=39666527) - [AI chatbots found to use racist stereotypes even after anti-racism training](https://techxplore.com/news/2024-03-ai-chatbots-racist-stereotypes-anti.html)
@@ -12,6 +13,7 @@
 * [2024-03-11, 10:22:55](https://news.ycombinator.com/item?id=39666393) - [Maybe Functions](https://blog.benwinding.com/maybe-functions/)
 * [2024-03-11, 10:21:44](https://news.ycombinator.com/item?id=39666389) - [What is remarkable about Germany is productivity: wealthiness vs. worktime](https://twitter.com/martinvars/status/1767102149803085893)
 * [2024-03-11, 10:17:39](https://news.ycombinator.com/item?id=39666369) - [Humanity Is Dangerously Pushing Its Ability to Tolerate Heat](https://www.wired.com/story/extreme-heat-tolerance/)
+* [2024-03-11, 10:12:15](https://news.ycombinator.com/item?id=39666349) - [Latam Airlines SYD to AKL flight: 50 people treated after mid-air incident](https://www.rnz.co.nz/news/national/511423/latam-airlines-sydney-to-auckland-flight-50-people-treated-after-mid-air-incident)
 * [2024-03-11, 09:31:19](https://news.ycombinator.com/item?id=39666126) - [Study finds that we could lose science if publishers go bankrupt](https://arstechnica.com/science/2024/03/study-finds-that-we-could-lose-science-if-publishers-go-bankrupt/)
 * [2024-03-11, 09:27:16](https://news.ycombinator.com/item?id=39666106) - [Pirate IPTV Co. & Seven Workers Fined After Raids Eight Years Ago](https://torrentfreak.com/pirate-iptv-co-7-workers-fined-after-massive-raids-8-years-ago-240306/)
 * [2024-03-11, 08:54:47](https://news.ycombinator.com/item?id=39665967) - [Data Center Water Consumption: A Lack of Transparency (2021)](https://www.nature.com/articles/s41545-021-00101-w)
@@ -20,6 +22,7 @@
 * [2024-03-11, 08:40:43](https://news.ycombinator.com/item?id=39665905) - [Bython: Python with braces. Because Python is awesome, but whitespace is awful](https://pypi.org/project/Bython/)
 * [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
+* [2024-03-11, 05:33:37](https://news.ycombinator.com/item?id=39665184) - [The Surprising History of Claims for Life on the Sun (2011)](https://www.researchgate.net/publication/258495524_The_Surprising_History_of_Claims_for_Life_on_the_Sun)
 * [2024-03-11, 04:53:41](https://news.ycombinator.com/item?id=39665017) - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
 * [2024-03-11, 04:12:57](https://news.ycombinator.com/item?id=39664860) - [Another open-core project rejecting PR citing paid feature](https://github.com/ToolJet/ToolJet/pull/2303)
 * [2024-03-11, 04:12:51](https://news.ycombinator.com/item?id=39664858) - [NSF funds the development of automated tools to censor speech \"at scale\" [pdf]](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/NSF-Staff-Report_Appendix.pdf)
