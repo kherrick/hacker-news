@@ -22,12 +22,12 @@
 * [2024-03-11, 11:53:03](https://news.ycombinator.com/item?id=39666956) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2024-03-11, 11:42:03](https://news.ycombinator.com/item?id=39666865) - [Show HN: Teable – Open-Source No-Code Database Fusion of Postgres and Airtable](https://github.com/teableio/teable)
 * [2024-03-11, 10:39:36](https://news.ycombinator.com/item?id=39666467) - [Show HN: Goqite, a persistent message queue Go library built on SQLite](https://www.goqite.com)
+* [2024-03-11, 10:20:36](https://news.ycombinator.com/item?id=39666384) - [Ex-workers at Temu owner PDD suffer surveillance and ruin over non-competes](https://www.ft.com/content/d40cd7a9-24c7-4bae-91b6-ae74b54e5978)
 * [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://www.norvig.com/lispy.html)
 * [2024-03-11, 05:11:05](https://news.ycombinator.com/item?id=39665090) - [Exploring Bauhaus: Revolutionary design school that shaped modern world](https://www.playforthoughts.com/blog/bauhaus)
 * [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [2024-03-10, 13:15:39](https://news.ycombinator.com/item?id=39658793) - [Vegetable stock: my secret lover (2011)](https://blog.andymatuschak.org/post/8092537664/vegetable-stock-my-secret-lover)
 * [2024-03-10, 05:19:25](https://news.ycombinator.com/item?id=39656899) - [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
-* [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-09, 02:32:35](https://news.ycombinator.com/item?id=39648931) - [Relating t-statistics and the relative width of confidence intervals](https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/)
 * [2024-03-07, 18:55:46](https://news.ycombinator.com/item?id=39633123) - [Breakthrough in nanostructure technology for real-time color display](https://phys.org/news/2024-03-breakthrough-nanostructure-technology-real-display.html)
 

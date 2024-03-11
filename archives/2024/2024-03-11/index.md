@@ -71,6 +71,7 @@
 * [2024-03-11, 10:29:42](https://news.ycombinator.com/item?id=39666429) - [Like that tune? Find its musical twin with this Similar Song Finder](https://www.beatdetect.com/similar-song-finder)
 * [2024-03-11, 10:22:55](https://news.ycombinator.com/item?id=39666393) - [Maybe Functions](https://blog.benwinding.com/maybe-functions/)
 * [2024-03-11, 10:21:44](https://news.ycombinator.com/item?id=39666389) - [What is remarkable about Germany is productivity: wealthiness vs. worktime](https://twitter.com/martinvars/status/1767102149803085893)
+* [2024-03-11, 10:20:36](https://news.ycombinator.com/item?id=39666384) - [Ex-workers at Temu owner PDD suffer surveillance and ruin over non-competes](https://www.ft.com/content/d40cd7a9-24c7-4bae-91b6-ae74b54e5978)
 * [2024-03-11, 10:17:39](https://news.ycombinator.com/item?id=39666369) - [Humanity Is Dangerously Pushing Its Ability to Tolerate Heat](https://www.wired.com/story/extreme-heat-tolerance/)
 * [2024-03-11, 10:12:15](https://news.ycombinator.com/item?id=39666349) - [Latam Airlines SYD to AKL flight: 50 people treated after mid-air incident](https://www.rnz.co.nz/news/national/511423/latam-airlines-sydney-to-auckland-flight-50-people-treated-after-mid-air-incident)
 * [2024-03-11, 09:31:19](https://news.ycombinator.com/item?id=39666126) - [Study finds that we could lose science if publishers go bankrupt](https://arstechnica.com/science/2024/03/study-finds-that-we-could-lose-science-if-publishers-go-bankrupt/)
