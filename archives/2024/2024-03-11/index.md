@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
 * [2024-03-11, 13:30:04](https://news.ycombinator.com/item?id=39667986) - [If you die, your 100+ accounts are a nightmare for your family](https://www.cnn.com/2024/02/26/tech/digital-legacy-planning-personal-technology/index.html)
+* [2024-03-11, 13:10:10](https://news.ycombinator.com/item?id=39667770) - [Is This 'Magic' Roundabout Made of 5 Mini-Roundabouts?](https://www.snopes.com/fact-check/magic-roundabout-photo/)
 * [2024-03-11, 13:05:21](https://news.ycombinator.com/item?id=39667710) - [Bitcoin rally pushes BlackRock ETF over $10B in record time](https://www.ft.com/content/1bb8413e-b974-4e05-933e-7ffedec62bdb)
 * [2024-03-11, 12:33:35](https://news.ycombinator.com/item?id=39667372) - [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
 * [2024-03-11, 12:20:36](https://news.ycombinator.com/item?id=39667234) - [Brits left baffled by Brexit's 'not for EU' food labels](https://www.politico.eu/article/uk-brexit-not-for-eu-food-label/)
