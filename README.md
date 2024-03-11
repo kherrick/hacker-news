@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-11, 20:57:01](https://news.ycombinator.com/item?id=39673154) - [How to know if a job makes a difference](https://probablygood.org/core-concepts/self-framework/)
-* [2024-03-11, 20:54:54](https://news.ycombinator.com/item?id=39673134) - [WeTransfer is having issues](https://status.wetransfer.com)
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa](https://www.openculture.com/2024/03/how-engineers-straightened-the-leaning-tower-of-pisa.html)
 * [2024-03-11, 20:29:41](https://news.ycombinator.com/item?id=39672901) - [OpenPlotter](https://openmarine.net/openplotter)
@@ -10,6 +9,7 @@
 * [2024-03-11, 19:05:40](https://news.ycombinator.com/item?id=39672111) - [The later we meet someone in a sequence, the more negatively we describe them](https://suchscience.org/people-encountered-later-in-a-sequence-described-more-negatively/)
 * [2024-03-11, 18:47:02](https://news.ycombinator.com/item?id=39671919) - [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
 * [2024-03-11, 17:46:55](https://news.ycombinator.com/item?id=39671218) - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
+* [2024-03-11, 17:46:23](https://news.ycombinator.com/item?id=39671212) - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
 * [2024-03-11, 17:41:00](https://news.ycombinator.com/item?id=39671146) - [Gemma doesn't suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 17:00:49](https://news.ycombinator.com/item?id=39670665) - [Show HN: Prompts as WASM Programs](https://github.com/microsoft/aici)
