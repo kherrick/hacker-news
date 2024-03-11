@@ -9,6 +9,7 @@
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 22:42:50](https://news.ycombinator.com/item?id=39663120) - [The Case Against Homework](https://www.alfiekohn.org/article/case-against-homework/)
 * [2024-03-10, 22:27:18](https://news.ycombinator.com/item?id=39663027) - [Nvidia is sued by authors over AI use of copyrighted works](https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/)
+* [2024-03-10, 22:25:08](https://news.ycombinator.com/item?id=39663009) - [Fortress Investment Group Decimated Newspapers Before Gutting Vice](https://defector.com/the-locusts-of-the-newspaper-world-how-fortress-investment-group-decimated-newspapers-before-gutting-vice)
 * [2024-03-10, 22:21:45](https://news.ycombinator.com/item?id=39662988) - [Lead in gasoline blunted IQ of half the U.S. population, study says](https://www.nbcnews.com/health/health-news/lead-gasoline-blunted-iq-half-us-population-study-rcna19028)
 * [2024-03-10, 22:01:08](https://news.ycombinator.com/item?id=39662853) - [Of course AI is extractive, everything is lately](https://coryd.dev/posts/2024/of-course-ai-is-extractive-everything-is-lately/)
 * [2024-03-10, 21:39:15](https://news.ycombinator.com/item?id=39662730) - [Writing Documentation for Your Team](https://www.shubhro.com/2020/01/06/writing-documentation-team/)
