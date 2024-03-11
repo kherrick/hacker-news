@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 17:00:13",
+      "https://news.ycombinator.com/item?id=39670655"
+    ],
+    [
+      "Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook",
+      "https://deepnote.com/join-us"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 16:21:17",
       "https://news.ycombinator.com/item?id=39670102"
     ],
@@ -17,16 +27,6 @@
     [
       "Improving Performance in Firefox and Across the Web with Speedometer 3",
       "https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 16:17:18",
-      "https://news.ycombinator.com/item?id=39670035"
-    ],
-    [
-      "Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness",
-      "https://browserbench.org/announcements/speedometer3/"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-03-11, 14:09:05",
-      "https://news.ycombinator.com/item?id=39668430"
-    ],
-    [
-      "What Extropic Is Building",
-      "https://www.extropic.ai/future"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 13:36:11",
       "https://news.ycombinator.com/item?id=39668053"
     ],
@@ -101,32 +91,12 @@
   ],
   [
     [
-      "2024-03-11, 13:33:11",
-      "https://news.ycombinator.com/item?id=39668021"
-    ],
-    [
-      "Linux 6.8 Is Announced",
-      "https://www.omgubuntu.co.uk/2024/03/linux-kernel-6-8-new-features"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 12:41:18",
       "https://news.ycombinator.com/item?id=39667456"
     ],
     [
       "The Mad Stone, the One-Time 'Cure' for Rabies",
       "https://www.atlasobscura.com/articles/mad-stones-rabies-cure-eerie-feeling"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 12:01:10",
-      "https://news.ycombinator.com/item?id=39667041"
-    ],
-    [
-      "Fern (YC W23) is hiring a deployed engineer in NYC",
-      "https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2024-03-10, 18:48:34",
+      "https://news.ycombinator.com/item?id=39661497"
+    ],
+    [
+      "Rebuilding memchess.com from its archive",
+      "https://grondilu.github.io/memchess/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 05:19:25",
       "https://news.ycombinator.com/item?id=39656899"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-03-09, 14:33:02",
+      "https://news.ycombinator.com/item?id=39651796"
+    ],
+    [
+      "Monodraw",
+      "https://monodraw.helftone.com/"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 02:32:35",
       "https://news.ycombinator.com/item?id=39648931"
     ],
     [
       "Relating t-statistics and the relative width of confidence intervals",
       "https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 18:55:46",
+      "https://news.ycombinator.com/item?id=39633123"
+    ],
+    [
+      "Breakthrough in nanostructure technology for real-time color display",
+      "https://phys.org/news/2024-03-breakthrough-nanostructure-technology-real-display.html"
     ]
   ]
 ]
