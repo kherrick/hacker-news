@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 15:25:43](https://news.ycombinator.com/item?id=39669390) - [CO Bureau of Investigation: manipulated DNA data in 100s of cases over decades](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html)
+* [2024-03-11, 15:08:25](https://news.ycombinator.com/item?id=39669167) - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
 * [2024-03-11, 14:56:21](https://news.ycombinator.com/item?id=39669008) - [Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers](https://stability.ai/news/putting-the-ai-supercomputer-to-work)
 * [2024-03-11, 14:55:56](https://news.ycombinator.com/item?id=39669002) - [FDA Approves Wegovy for Heart Conditions in Game-Changing Move](https://www.sciencealert.com/fda-approves-wegovy-for-heart-conditions-in-game-changing-move)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)

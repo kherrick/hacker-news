@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-11, 15:25:43](https://news.ycombinator.com/item?id=39669390) - [CO Bureau of Investigation: manipulated DNA data in 100s of cases over decades](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html)
+* [2024-03-11, 15:08:25](https://news.ycombinator.com/item?id=39669167) - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
 * [2024-03-11, 14:56:21](https://news.ycombinator.com/item?id=39669008) - [Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers](https://stability.ai/news/putting-the-ai-supercomputer-to-work)
-* [2024-03-11, 14:55:56](https://news.ycombinator.com/item?id=39669002) - [FDA Approves Wegovy for Heart Conditions in Game-Changing Move](https://www.sciencealert.com/fda-approves-wegovy-for-heart-conditions-in-game-changing-move)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
 * [2024-03-11, 14:51:28](https://news.ycombinator.com/item?id=39668941) - [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
 * [2024-03-11, 14:42:48](https://news.ycombinator.com/item?id=39668847) - [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
@@ -18,8 +19,6 @@
 * [2024-03-11, 05:11:05](https://news.ycombinator.com/item?id=39665090) - [Exploring Bauhaus: Revolutionary Design School That Shaped Modern World](https://www.playforthoughts.com/blog/bauhaus)
 * [2024-03-11, 03:59:13](https://news.ycombinator.com/item?id=39664782) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [2024-03-11, 02:01:35](https://news.ycombinator.com/item?id=39664221) - [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
-* [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
-* [2024-03-10, 21:38:06](https://news.ycombinator.com/item?id=39662721) - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
 * [2024-03-10, 21:33:46](https://news.ycombinator.com/item?id=39662698) - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 * [2024-03-10, 21:20:21](https://news.ycombinator.com/item?id=39662615) - [The Best Essay](https://paulgraham.com/best.html)
 * [2024-03-10, 20:17:50](https://news.ycombinator.com/item?id=39662234) - [Perf Is Not Enough](https://motherduck.com/blog/perf-is-not-enough/)
@@ -29,6 +28,7 @@
 * [2024-03-10, 04:11:26](https://news.ycombinator.com/item?id=39656657) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:33:22](https://news.ycombinator.com/item?id=39653741) - [Let's give the Mac Classic 4 megs of RAM [video]](https://www.youtube.com/watch?v=_iE-CKcyR2E)
 * [2024-03-09, 18:29:56](https://news.ycombinator.com/item?id=39653718) - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
+* [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-09, 02:32:35](https://news.ycombinator.com/item?id=39648931) - [Relating t-statistics and the relative width of confidence intervals](https://statmodeling.stat.columbia.edu/2024/03/07/relating-t-statistics-and-the-relative-width-of-confidence-intervals/)
 
 ## [Archives](archives/index.md)
