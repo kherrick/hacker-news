@@ -8,6 +8,7 @@
 * [2024-03-11, 02:47:42](https://news.ycombinator.com/item?id=39664483) - [Ask HN: Why is hosting a contact form so difficult?](https://news.ycombinator.com/item?id=39664483)
 * [2024-03-11, 02:10:04](https://news.ycombinator.com/item?id=39664273) - [98% GPU Utilization Achieved in 1k GPU-Scale AI Training Using Distributed Cache](https://juicefs.com/en/blog/engineering/ai-gpu-utilization-mlperf-benchmark)
 * [2024-03-11, 02:04:06](https://news.ycombinator.com/item?id=39664239) - [Alexandre-Théophile Vandermonde (2001)](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
+* [2024-03-11, 01:54:54](https://news.ycombinator.com/item?id=39664180) - [Microplastics linked to heart attack, stroke and death](https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/)
 * [2024-03-11, 01:46:39](https://news.ycombinator.com/item?id=39664122) - [Is Delphi a Memory Safe Language?](https://blogs.embarcadero.com/is-delphi-a-memory-safe-language/)
 * [2024-03-11, 01:25:41](https://news.ycombinator.com/item?id=39663986) - [Claude 3 claims it's conscious, doesn't want to die or be modified](https://www.lesswrong.com/posts/pc8uP4S9rDoNpwJDZ/claude-3-claims-it-s-conscious-doesn-t-want-to-die-or-be)
 * [2024-03-11, 00:39:30](https://news.ycombinator.com/item?id=39663725) - [News agencies recall image of Catherine, Princess of Wales](https://www.cnn.com/2024/03/10/uk/news-agencies-recall-image-of-catherine-princess-of-wales/index.html)

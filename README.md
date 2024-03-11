@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-11, 03:02:55](https://news.ycombinator.com/item?id=39664563) - [As Use of A.I. Soars, So Does the Energy and Water It Requires](https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions)
-* [2024-03-11, 02:04:06](https://news.ycombinator.com/item?id=39664239) - [Alexandre-Théophile Vandermonde (2001)](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
+* [2024-03-11, 01:54:54](https://news.ycombinator.com/item?id=39664180) - [Microplastics linked to heart attack, stroke and death](https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/)
 * [2024-03-11, 00:37:45](https://news.ycombinator.com/item?id=39663708) - [Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
 * [2024-03-10, 22:45:34](https://news.ycombinator.com/item?id=39663135) - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
 * [2024-03-10, 21:38:06](https://news.ycombinator.com/item?id=39662721) - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
@@ -18,10 +17,10 @@
 * [2024-03-10, 17:17:11](https://news.ycombinator.com/item?id=39660780) - [How far are we from intelligent visual deductive reasoning?](https://arxiv.org/abs/2403.04732)
 * [2024-03-10, 16:52:21](https://news.ycombinator.com/item?id=39660592) - [DBeaver – open-source database client](https://github.com/dbeaver/dbeaver)
 * [2024-03-10, 16:36:10](https://news.ycombinator.com/item?id=39660475) - [A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)
+* [2024-03-10, 15:29:01](https://news.ycombinator.com/item?id=39659942) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
 * [2024-03-10, 15:04:51](https://news.ycombinator.com/item?id=39659729) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2024-03-10, 13:15:03](https://news.ycombinator.com/item?id=39658787) - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
-* [2024-03-10, 12:57:44](https://news.ycombinator.com/item?id=39658684) - [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
 * [2024-03-10, 09:15:44](https://news.ycombinator.com/item?id=39657782) - [Moore on Moore – The past, present and uncertain future of Moore's Law](https://thechipletter.substack.com/p/moore-on-moore)
 * [2024-03-10, 06:06:37](https://news.ycombinator.com/item?id=39657055) - [Two scammers, a web of betrayal, and Europe's fraud of the century](https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/)
@@ -30,6 +29,7 @@
 * [2024-03-09, 16:14:54](https://news.ycombinator.com/item?id=39652621) - [The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
 * [2024-03-09, 14:33:02](https://news.ycombinator.com/item?id=39651796) - [Monodraw](https://monodraw.helftone.com/)
 * [2024-03-07, 23:00:01](https://news.ycombinator.com/item?id=39635691) - [Mandala: A little plaground for testing pixel logic patterns](https://github.com/gingerbeardman/mandala)
+* [2024-03-07, 13:49:38](https://news.ycombinator.com/item?id=39629004) - [Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
 
 ## [Archives](archives/index.md)
 
