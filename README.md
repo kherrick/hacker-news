@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 17:21:06](https://news.ycombinator.com/item?id=39682183) - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
+* [2024-03-12, 17:00:27](https://news.ycombinator.com/item?id=39681920) - [The NYPD Sent a Warrantless Subpoena for a Copwatcher's X Account](https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media)
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) Is Hiring to Build the Open Source Secret Management Platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
 * [2024-03-12, 16:54:10](https://news.ycombinator.com/item?id=39681812) - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
 * [2024-03-12, 16:53:41](https://news.ycombinator.com/item?id=39681804) - [California State University system sees unprecedented decline in enrollment](https://www.msn.com/en-us/money/careers/california-state-university-system-sees-unprecedented-decline-in-enrollment/ar-BB1jJy2i)
@@ -19,10 +21,8 @@
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 06:23:53](https://news.ycombinator.com/item?id=39676702) - [C++ Safety, in Context](https://herbsutter.com/2024/03/11/safety-in-context/)
 * [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
-* [2024-03-12, 03:01:03](https://news.ycombinator.com/item?id=39675735) - [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
 * [2024-03-12, 02:29:22](https://news.ycombinator.com/item?id=39675585) - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 * [2024-03-12, 00:57:51](https://news.ycombinator.com/item?id=39674931) - [Unix and Beyond: An Interview with Ken Thompson (1999)](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson)
-* [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 18:53:39](https://news.ycombinator.com/item?id=39671983) - [The great American llama (and ostrich and emu) collapse](https://www.washingtonpost.com/business/2024/03/07/llama-emu-ostrich-herds-down/)
 * [2024-03-11, 18:03:01](https://news.ycombinator.com/item?id=39671418) - [Not just humans: Bees and chimps can also pass on their skills](https://phys.org/news/2024-03-humans-bees-chimps-skills.html)
 * [2024-03-11, 17:26:28](https://news.ycombinator.com/item?id=39670986) - [Debugging a Golang Bug with Non-Blocking Reads](https://scratchdata.com/blog/go-nonblocking-pipes-bug/)

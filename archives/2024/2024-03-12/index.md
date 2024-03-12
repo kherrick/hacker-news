@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 17:21:06](https://news.ycombinator.com/item?id=39682183) - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
+* [2024-03-12, 17:00:27](https://news.ycombinator.com/item?id=39681920) - [The NYPD Sent a Warrantless Subpoena for a Copwatcher's X Account](https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media)
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) Is Hiring to Build the Open Source Secret Management Platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
 * [2024-03-12, 16:54:10](https://news.ycombinator.com/item?id=39681812) - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
 * [2024-03-12, 16:53:41](https://news.ycombinator.com/item?id=39681804) - [California State University system sees unprecedented decline in enrollment](https://www.msn.com/en-us/money/careers/california-state-university-system-sees-unprecedented-decline-in-enrollment/ar-BB1jJy2i)
