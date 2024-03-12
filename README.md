@@ -2,7 +2,6 @@
 
 * [2024-03-12, 13:43:08](https://news.ycombinator.com/item?id=39679378) - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
 * [2024-03-12, 13:24:13](https://news.ycombinator.com/item?id=39679181) - [The $100M Deal for Kickstarter to use Blockchain](https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/)
-* [2024-03-12, 13:22:46](https://news.ycombinator.com/item?id=39679170) - [How AI is disrupting the demand for software engineers: data from 20M jobs](https://bloomberry.com/how-ai-is-disrupting-the-tech-job-market-data-from-20m-job-postings/)
 * [2024-03-12, 12:11:55](https://news.ycombinator.com/item?id=39678555) - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 * [2024-03-12, 12:00:13](https://news.ycombinator.com/item?id=39678491) - [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
 * [2024-03-12, 11:33:06](https://news.ycombinator.com/item?id=39678312) - [DMCA Notices Took Down 20,517 GitHub Projects Last Year](https://torrentfreak.com/dmca-notices-took-down-20517-github-projects-last-year-240308/)
@@ -29,6 +28,7 @@
 * [2024-03-11, 18:03:01](https://news.ycombinator.com/item?id=39671418) - [Not just humans: Bees and chimps can also pass on their skills](https://phys.org/news/2024-03-humans-bees-chimps-skills.html)
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 16:35:48](https://news.ycombinator.com/item?id=39670324) - [Steve Wozniak and Stuart Brand Discuss Control of IP (1984) [video]](https://www.gettyimages.in/detail/video/at-the-first-hackers-conference-in-1984-steve-wozniak-and-news-footage/146496695)
+* [2024-03-11, 16:32:47](https://news.ycombinator.com/item?id=39670279) - [A Double Emergence of Periodical Cicadas Isn't Cicada-Geddon–It's a Marvel](https://www.scientificamerican.com/article/a-double-brood-of-periodical-cicadas-will-emerge-in-2024/)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)
 
 ## [Archives](archives/index.md)

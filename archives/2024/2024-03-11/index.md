@@ -45,6 +45,7 @@
 * [2024-03-11, 17:00:13](https://news.ycombinator.com/item?id=39670655) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
 * [2024-03-11, 16:47:05](https://news.ycombinator.com/item?id=39670484) - [How to Speak [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [2024-03-11, 16:35:48](https://news.ycombinator.com/item?id=39670324) - [Steve Wozniak and Stuart Brand Discuss Control of IP (1984) [video]](https://www.gettyimages.in/detail/video/at-the-first-hackers-conference-in-1984-steve-wozniak-and-news-footage/146496695)
+* [2024-03-11, 16:32:47](https://news.ycombinator.com/item?id=39670279) - [A Double Emergence of Periodical Cicadas Isn't Cicada-Geddon–It's a Marvel](https://www.scientificamerican.com/article/a-double-brood-of-periodical-cicadas-will-emerge-in-2024/)
 * [2024-03-11, 16:32:33](https://news.ycombinator.com/item?id=39670273) - [Robots Dream of Root Shells](https://blog.isosceles.com/robots-dream-of-root-shells/)
 * [2024-03-11, 16:28:43](https://news.ycombinator.com/item?id=39670217) - [The heavy hand of God: Europe's brutalist churches – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/07/the-heavy-hand-of-god-europes-brutalist-churches-in-pictures)
 * [2024-03-11, 16:22:33](https://news.ycombinator.com/item?id=39670121) - [Who uses Google TPUs for inference in production?](https://news.ycombinator.com/item?id=39670121)
