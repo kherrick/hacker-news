@@ -14,6 +14,7 @@
 * [2024-03-12, 17:05:38](https://news.ycombinator.com/item?id=39681986) - [\"Boards are invested in their C.E.O.s until they're not.\" [Boeing]](https://leehamnews.com/2024/03/12/pontifications-boards-are-invested-in-their-c-e-o-s-until-theyre-not/)
 * [2024-03-12, 17:00:27](https://news.ycombinator.com/item?id=39681920) - [The NYPD Sent a Warrantless Subpoena for a Copwatcher's X Account](https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media)
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) Is Hiring to Build the Open Source Secret Management Platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
+* [2024-03-12, 16:59:56](https://news.ycombinator.com/item?id=39681907) - [Open Policy Agent](https://www.openpolicyagent.org/)
 * [2024-03-12, 16:54:10](https://news.ycombinator.com/item?id=39681812) - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
 * [2024-03-12, 16:53:41](https://news.ycombinator.com/item?id=39681804) - [California State University system sees unprecedented decline in enrollment](https://www.msn.com/en-us/money/careers/california-state-university-system-sees-unprecedented-decline-in-enrollment/ar-BB1jJy2i)
 * [2024-03-12, 16:38:04](https://news.ycombinator.com/item?id=39681553) - [Open Carry Gun Laws May Boost Suicide Rates](https://www.forbes.com/sites/ariannajohnson/2024/03/12/open-carry-gun-laws-may-boost-suicide-rates-study-suggests/)
