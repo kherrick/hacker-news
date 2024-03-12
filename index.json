@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-03-12, 16:54:10",
+      "https://news.ycombinator.com/item?id=39681812"
+    ],
+    [
+      "Vulkan Foliage rendering using GPU Instancing",
+      "https://www.thegeeko.me/blog/foliage-rendering"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 16:53:41",
       "https://news.ycombinator.com/item?id=39681804"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-03-12, 16:19:34",
-      "https://news.ycombinator.com/item?id=39681313"
+      "2024-03-12, 16:34:37",
+      "https://news.ycombinator.com/item?id=39681493"
     ],
     [
-      "YouTube workers laid off mid-plea at City Hall meeting",
-      "https://www.theregister.com/2024/03/05/youtube_workers_sacked_on_camera/"
+      "Updating Unreal Engine Pricing in Late April",
+      "https://www.unrealengine.com/en-US/blog/we-are-updating-unreal-engine-twinmotion-and-realitycapture-pricing-in-late-april"
     ]
   ],
   [
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-03-12, 16:13:59",
-      "https://news.ycombinator.com/item?id=39681246"
+      "2024-03-12, 16:01:42",
+      "https://news.ycombinator.com/item?id=39681102"
     ],
     [
-      "Two-thirds of young Dutch say influencers affect their financial decisions",
-      "https://nltimes.nl/2024/03/12/two-thirds-young-dutch-people-say-influencers-affect-financial-decisions"
+      "Pilot of Boeing flight says he lost control after instrument failure",
+      "https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "For polyglots, there's something special about their native tongue",
       "https://news.mit.edu/2024/mit-study-polyglots-brain-processing-native-language-0310"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 15:58:17",
-      "https://news.ycombinator.com/item?id=39681062"
-    ],
-    [
-      "737 Max anti-ice system fix is slow going",
-      "https://theaircurrent.com/aviation-safety/737-max-anti-ice-fix-slow-going/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "The Epson HX-20 – A Contrarian's View",
       "https://feertech.com/legion/retro/computer/2021/07/12/epson-hx20.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 12:58:22",
-      "https://news.ycombinator.com/item?id=39678929"
-    ],
-    [
-      "Ask HN: Problems worth solving with a low-code back end?",
-      "https://news.ycombinator.com/item?id=39678929"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Launch HN: Onedoc (YC W24) – A better way to create PDFs",
       "https://github.com/OnedocLabs/react-print-pdf"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 03:03:11",
+      "https://news.ycombinator.com/item?id=39656405"
+    ],
+    [
+      "Compilers for continuous integration of Fortran projects",
+      "https://fortran-lang.discourse.group/t/which-compilers-are-available-for-ci-with-github-hosted-runners-all-but-nagfor/7554"
     ]
   ]
 ]
