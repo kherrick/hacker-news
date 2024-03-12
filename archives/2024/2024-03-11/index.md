@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
 * [2024-03-11, 23:30:19](https://news.ycombinator.com/item?id=39674394) - [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)
+* [2024-03-11, 23:17:20](https://news.ycombinator.com/item?id=39674301) - [Bouncy Ball – Compare Web Animation Techniques](https://sparkbox.github.io/bouncy-ball/)
 * [2024-03-11, 22:58:53](https://news.ycombinator.com/item?id=39674162) - [Organizing Developer Writing Retreats](https://www.swyx.io/dwr-review)
 * [2024-03-11, 22:50:08](https://news.ycombinator.com/item?id=39674107) - [See 'horned' comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
 * [2024-03-11, 22:41:42](https://news.ycombinator.com/item?id=39674041) - [Roku Confirms Data Breach of 15,000 Customers](https://www.claimdepot.com/data-breach/roku)
