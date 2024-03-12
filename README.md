@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
+* [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
 * [2024-03-12, 17:44:21](https://news.ycombinator.com/item?id=39682492) - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
 * [2024-03-12, 17:34:41](https://news.ycombinator.com/item?id=39682366) - [Astro DB](https://astro.build/db/)
@@ -20,8 +22,6 @@
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
 * [2024-03-12, 12:08:42](https://news.ycombinator.com/item?id=39678532) - [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
-* [2024-03-12, 06:23:53](https://news.ycombinator.com/item?id=39676702) - [C++ Safety, in Context](https://herbsutter.com/2024/03/11/safety-in-context/)
-* [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
 * [2024-03-11, 18:53:39](https://news.ycombinator.com/item?id=39671983) - [The great American llama (and ostrich and emu) collapse](https://www.washingtonpost.com/business/2024/03/07/llama-emu-ostrich-herds-down/)
 * [2024-03-11, 18:03:01](https://news.ycombinator.com/item?id=39671418) - [Bees and chimps can also pass on their skills](https://phys.org/news/2024-03-humans-bees-chimps-skills.html)
