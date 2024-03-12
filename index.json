@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-12, 06:37:23",
+      "https://news.ycombinator.com/item?id=39676767"
+    ],
+    [
+      "Cloning a Laptop over NVMe TCP",
+      "https://copyninja.in/blog/clone_laptop_nvmet.html"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 06:25:15",
       "https://news.ycombinator.com/item?id=39676716"
     ],
@@ -247,16 +257,6 @@
     [
       "Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook",
       "https://deepnote.com/join-us"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 16:21:17",
-      "https://news.ycombinator.com/item?id=39670102"
-    ],
-    [
-      "gh-116167: Allow disabling the GIL",
-      "https://github.com/python/cpython/pull/116338"
     ]
   ],
   [
