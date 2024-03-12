@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 * [2024-03-12, 20:24:48](https://news.ycombinator.com/item?id=39684472) - [Dutch gov. proudly announces it will tap Europe's largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
@@ -23,7 +24,6 @@
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
 * [2024-03-12, 12:08:42](https://news.ycombinator.com/item?id=39678532) - [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
-* [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
 * [2024-03-11, 18:53:39](https://news.ycombinator.com/item?id=39671983) - [The great American llama (and ostrich and emu) collapse](https://www.washingtonpost.com/business/2024/03/07/llama-emu-ostrich-herds-down/)

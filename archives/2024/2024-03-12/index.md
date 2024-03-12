@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 * [2024-03-12, 20:34:09](https://news.ycombinator.com/item?id=39684588) - [VLC surpasses five billion downloads, preps Vision Pro app](https://www.lowpass.cc/p/vlc-five-billion-downloads-vision-pro-app)
 * [2024-03-12, 20:24:48](https://news.ycombinator.com/item?id=39684472) - [Dutch gov. proudly announces it will tap Europe's largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
