@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 17:27:28](https://news.ycombinator.com/item?id=39682265) - [Google paid $10M in bug bounty rewards last year](https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/)
 * [2024-03-12, 17:21:06](https://news.ycombinator.com/item?id=39682183) - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
 * [2024-03-12, 17:05:38](https://news.ycombinator.com/item?id=39681986) - [\"Boards are invested in their C.E.O.s until they're not.\" [Boeing]](https://leehamnews.com/2024/03/12/pontifications-boards-are-invested-in-their-c-e-o-s-until-theyre-not/)
 * [2024-03-12, 17:00:27](https://news.ycombinator.com/item?id=39681920) - [The NYPD Sent a Warrantless Subpoena for a Copwatcher's X Account](https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media)
