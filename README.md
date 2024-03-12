@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 16:38:04](https://news.ycombinator.com/item?id=39681553) - [Open Carry Gun Laws May Boost Suicide Rates](https://www.forbes.com/sites/ariannajohnson/2024/03/12/open-carry-gun-laws-may-boost-suicide-rates-study-suggests/)
 * [2024-03-12, 16:15:07](https://news.ycombinator.com/item?id=39681265) - [Differential Storage: A Key Building Block for a DuckDB-Based Data Warehouse](https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse/)
 * [2024-03-12, 16:01:42](https://news.ycombinator.com/item?id=39681102) - [Pilot of Boeing flight says he lost control after instrument failure](https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html)
 * [2024-03-12, 15:58:17](https://news.ycombinator.com/item?id=39681062) - [737 Max anti-ice system fix is slow going](https://theaircurrent.com/aviation-safety/737-max-anti-ice-fix-slow-going/)
@@ -8,8 +9,7 @@
 * [2024-03-12, 15:43:22](https://news.ycombinator.com/item?id=39680877) - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)
 * [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
 * [2024-03-12, 14:45:52](https://news.ycombinator.com/item?id=39680155) - [The Epson HX-20 – A Contrarian's View](https://feertech.com/legion/retro/computer/2021/07/12/epson-hx20.html)
-* [2024-03-12, 14:15:15](https://news.ycombinator.com/item?id=39679787) - [Devin, the First AI Software Engineer](https://www.cognition-labs.com/blog)
-* [2024-03-12, 13:43:08](https://news.ycombinator.com/item?id=39679378) - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
+* [2024-03-12, 12:58:22](https://news.ycombinator.com/item?id=39678929) - [Ask HN: Problems worth solving with a low-code back end?](https://news.ycombinator.com/item?id=39678929)
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become much more accurate](https://ourworldindata.org/weather-forecasts)
 * [2024-03-12, 12:11:55](https://news.ycombinator.com/item?id=39678555) - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 * [2024-03-12, 10:14:06](https://news.ycombinator.com/item?id=39677845) - [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
