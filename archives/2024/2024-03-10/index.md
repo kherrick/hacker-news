@@ -63,6 +63,7 @@
 * [2024-03-10, 12:57:44](https://news.ycombinator.com/item?id=39658684) - [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 12:50:21](https://news.ycombinator.com/item?id=39658647) - [Proton AG of ProtonMail can provide FBI with your account recovery email](https://fxtwitter.com/monetaryreset/status/1691446834655535105)
 * [2024-03-10, 12:40:43](https://news.ycombinator.com/item?id=39658610) - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
+* [2024-03-10, 12:37:27](https://news.ycombinator.com/item?id=39658594) - [The Co-Evolution of Humans and Our Tools (2011)](https://blog.irvingwb.com/blog/2011/03/the-co-evolution-of-humans-and-our-tools.html)
 * [2024-03-10, 12:17:05](https://news.ycombinator.com/item?id=39658532) - [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
 * [2024-03-10, 12:06:49](https://news.ycombinator.com/item?id=39658497) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-10, 11:54:33](https://news.ycombinator.com/item?id=39658435) - [Sixty Four is a beautiful system design toy that reveals something rather dark](https://arstechnica.com/gaming/2024/03/sixty-four-is-an-idle-clicker-a-factory-sim-and-a-dark-extractive-journey/)
