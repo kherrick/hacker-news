@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 16:15:07](https://news.ycombinator.com/item?id=39681265) - [Differential Storage: A Key Building Block for a DuckDB-Based Data Warehouse](https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse/)
 * [2024-03-12, 16:01:42](https://news.ycombinator.com/item?id=39681102) - [Pilot of Boeing flight says he lost control after instrument failure](https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html)
 * [2024-03-12, 15:58:17](https://news.ycombinator.com/item?id=39681062) - [737 Max anti-ice system fix is slow going](https://theaircurrent.com/aviation-safety/737-max-anti-ice-fix-slow-going/)
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
@@ -19,7 +20,6 @@
 * [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
 * [2024-03-12, 03:01:03](https://news.ycombinator.com/item?id=39675735) - [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
 * [2024-03-12, 02:29:22](https://news.ycombinator.com/item?id=39675585) - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
-* [2024-03-12, 01:39:12](https://news.ycombinator.com/item?id=39675249) - [Breaking down tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
 * [2024-03-12, 01:12:22](https://news.ycombinator.com/item?id=39675054) - [OpenAI – transformer debugger release](https://github.com/openai/transformer-debugger)
 * [2024-03-12, 00:57:51](https://news.ycombinator.com/item?id=39674931) - [Unix and Beyond: An Interview with Ken Thompson (1999)](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson)
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
