@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-03-12, 12:58:22",
-      "https://news.ycombinator.com/item?id=39678929"
-    ],
-    [
-      "Ask HN: Problems worth solving with a low-code back end?",
-      "https://news.ycombinator.com/item?id=39678929"
-    ]
-  ],
-  [
-    [
       "2024-03-12, 12:11:55",
       "https://news.ycombinator.com/item?id=39678555"
     ],
@@ -117,16 +107,6 @@
     [
       "C++ Safety, in Context",
       "https://herbsutter.com/2024/03/11/safety-in-context/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 06:17:54",
-      "https://news.ycombinator.com/item?id=39676678"
-    ],
-    [
-      "An Introduction to Knowledge Graphs",
-      "https://textmine.com/post/an-introduction-to-knowledge-graphs"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-03-11, 19:56:05",
+      "https://news.ycombinator.com/item?id=39672583"
+    ],
+    [
+      "Google's threat model for post-quantum cryptography",
+      "https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 19:43:32",
       "https://news.ycombinator.com/item?id=39672450"
     ],
     [
       "Diffusion models from scratch, from a new theoretical perspective",
       "https://www.chenyang.co/diffusion.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 18:53:39",
+      "https://news.ycombinator.com/item?id=39671983"
+    ],
+    [
+      "The great American llama (and ostrich and emu) collapse",
+      "https://www.washingtonpost.com/business/2024/03/07/llama-emu-ostrich-herds-down/"
     ]
   ],
   [
