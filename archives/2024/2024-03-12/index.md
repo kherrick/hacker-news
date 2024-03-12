@@ -37,6 +37,7 @@
 * [2024-03-12, 16:01:42](https://news.ycombinator.com/item?id=39681102) - [Pilot of Boeing flight says he lost control after instrument failure](https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html)
 * [2024-03-12, 15:58:19](https://news.ycombinator.com/item?id=39681063) - [For polyglots, there's something special about their native tongue](https://news.mit.edu/2024/mit-study-polyglots-brain-processing-native-language-0310)
 * [2024-03-12, 15:58:17](https://news.ycombinator.com/item?id=39681062) - [737 Max anti-ice system fix is slow going](https://theaircurrent.com/aviation-safety/737-max-anti-ice-fix-slow-going/)
+* [2024-03-12, 15:54:15](https://news.ycombinator.com/item?id=39681017) - [WebTunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/)
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 15:48:51](https://news.ycombinator.com/item?id=39680945) - [Crypto 'Mixer' Convicted of Money Laundering on Bitcoin Fog](https://www.bloomberg.com/news/articles/2024-03-12/crypto-mixer-convicted-of-money-laundering-on-bitcoin-fog)
 * [2024-03-12, 15:43:22](https://news.ycombinator.com/item?id=39680877) - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)

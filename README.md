@@ -16,7 +16,7 @@
 * [2024-03-12, 16:59:56](https://news.ycombinator.com/item?id=39681907) - [Open Policy Agent](https://www.openpolicyagent.org/)
 * [2024-03-12, 16:54:39](https://news.ycombinator.com/item?id=39681820) - [Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
 * [2024-03-12, 16:54:10](https://news.ycombinator.com/item?id=39681812) - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
-* [2024-03-12, 16:01:42](https://news.ycombinator.com/item?id=39681102) - [Pilot of Boeing flight says he lost control after instrument failure](https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html)
+* [2024-03-12, 15:54:15](https://news.ycombinator.com/item?id=39681017) - [WebTunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/)
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 15:31:22](https://news.ycombinator.com/item?id=39680712) - [The Fishermen of Aci Trezza (La terra trema)](https://cinemasojourns.com/2024/03/12/the-fishermen-of-aci-trezza/)
 * [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic simulation testing for our entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
