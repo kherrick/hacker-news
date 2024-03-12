@@ -21,6 +21,7 @@
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 20:42:13](https://news.ycombinator.com/item?id=39673014) - [How Miles Davis Hired John Coltrane](https://www.honest-broker.com/p/how-miles-davis-hired-john-coltrane)
+* [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa](https://www.openculture.com/2024/03/how-engineers-straightened-the-leaning-tower-of-pisa.html)
 * [2024-03-11, 20:29:41](https://news.ycombinator.com/item?id=39672901) - [OpenPlotter](https://openmarine.net/openplotter)
 * [2024-03-11, 19:56:05](https://news.ycombinator.com/item?id=39672583) - [Google's Threat Model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
