@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 09:30:21](https://news.ycombinator.com/item?id=39677611) - [Google Announces Stealing Part of a Production Language Model](https://twitter.com/_akhaliq/status/1767384751269150828)
 * [2024-03-12, 09:10:11](https://news.ycombinator.com/item?id=39677530) - [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
 * [2024-03-12, 07:54:56](https://news.ycombinator.com/item?id=39677138) - [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children)
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
