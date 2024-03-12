@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
 * [2024-03-12, 18:00:35](https://news.ycombinator.com/item?id=39682698) - [Boeing whistleblower John Barnett found dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
 * [2024-03-12, 17:44:21](https://news.ycombinator.com/item?id=39682492) - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
 * [2024-03-12, 17:34:41](https://news.ycombinator.com/item?id=39682366) - [Astro DB](https://astro.build/db/)

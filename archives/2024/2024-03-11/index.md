@@ -27,6 +27,7 @@
 * [2024-03-11, 19:46:46](https://news.ycombinator.com/item?id=39672479) - ['Sparta and the Commemoration of War' and 'The Killing Ground' Review](https://www.historytoday.com/archive/review/sparta-and-commemoration-war-and-killing-ground-review)
 * [2024-03-11, 19:43:32](https://news.ycombinator.com/item?id=39672450) - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 * [2024-03-11, 19:37:22](https://news.ycombinator.com/item?id=39672393) - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
+* [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
 * [2024-03-11, 19:28:43](https://news.ycombinator.com/item?id=39672317) - [Darknet bazaar Incognito Market is extorting former users](https://infosec.exchange/@briankrebs/112077458039064378)
 * [2024-03-11, 19:05:40](https://news.ycombinator.com/item?id=39672111) - [The later we meet someone in a sequence, the more negatively we describe them](https://suchscience.org/people-encountered-later-in-a-sequence-described-more-negatively/)
 * [2024-03-11, 18:53:39](https://news.ycombinator.com/item?id=39671983) - [The great American llama (and ostrich and emu) collapse](https://www.washingtonpost.com/business/2024/03/07/llama-emu-ostrich-herds-down/)
