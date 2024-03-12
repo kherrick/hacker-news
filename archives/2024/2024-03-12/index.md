@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
 * [2024-03-12, 03:05:16](https://news.ycombinator.com/item?id=39675760) - [FAA Audit of Boeing's 737 MAX Production Found Issues](https://www.nytimes.com/2024/03/11/us/politics/faa-audit-boeing-737-max.html)
+* [2024-03-12, 03:01:03](https://news.ycombinator.com/item?id=39675735) - [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
 * [2024-03-12, 02:38:20](https://news.ycombinator.com/item?id=39675627) - [BYD to slash EV prices even more with new platform, looks to crush ICE car sales](https://electrek.co/2024/03/11/byds-new-lower-cost-ev-platform-crush-gas-powered-car-sales/)
 * [2024-03-12, 02:29:22](https://news.ycombinator.com/item?id=39675585) - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 * [2024-03-12, 01:49:18](https://news.ycombinator.com/item?id=39675320) - [Rabbit Inc. Faked Their Demo (Again)](https://rentry.co/rabbitscam)
