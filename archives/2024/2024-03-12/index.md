@@ -7,6 +7,7 @@
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 06:25:15](https://news.ycombinator.com/item?id=39676716) - [Apple's hysterics over new EU antitrust law have led to two climbdowns already](https://finance.yahoo.com/news/apple-hysterics-over-eu-antitrust-153713345.html)
 * [2024-03-12, 06:17:54](https://news.ycombinator.com/item?id=39676678) - [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
+* [2024-03-12, 05:38:29](https://news.ycombinator.com/item?id=39676493) - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
 * [2024-03-12, 03:51:14](https://news.ycombinator.com/item?id=39676030) - [No installation required: how WebAssembly is changing scientific computing](https://www.nature.com/articles/d41586-024-00725-1)
 * [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a FREE animator think of Adobe Illustrator but for animation](https://www.trangram.com)
 * [2024-03-12, 03:05:16](https://news.ycombinator.com/item?id=39675760) - [FAA Audit of Boeing's 737 MAX Production Found Issues](https://www.nytimes.com/2024/03/11/us/politics/faa-audit-boeing-737-max.html)
