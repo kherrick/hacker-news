@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 13:22:46](https://news.ycombinator.com/item?id=39679170) - [How AI is disrupting the demand for software engineers: data from 20M jobs](https://bloomberry.com/how-ai-is-disrupting-the-tech-job-market-data-from-20m-job-postings/)
 * [2024-03-12, 13:06:32](https://news.ycombinator.com/item?id=39678993) - [Ask HN: What not going to change in future?](https://news.ycombinator.com/item?id=39678993)
 * [2024-03-12, 12:11:55](https://news.ycombinator.com/item?id=39678555) - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 * [2024-03-12, 12:00:13](https://news.ycombinator.com/item?id=39678491) - [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
@@ -24,7 +25,6 @@
 * [2024-03-11, 22:02:53](https://news.ycombinator.com/item?id=39673754) - [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 20:42:13](https://news.ycombinator.com/item?id=39673014) - [How Miles Davis hired John Coltrane](https://www.honest-broker.com/p/how-miles-davis-hired-john-coltrane)
-* [2024-03-11, 19:43:32](https://news.ycombinator.com/item?id=39672450) - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 * [2024-03-11, 18:03:01](https://news.ycombinator.com/item?id=39671418) - [Not just humans: Bees and chimps can also pass on their skills](https://phys.org/news/2024-03-humans-bees-chimps-skills.html)
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 16:35:48](https://news.ycombinator.com/item?id=39670324) - [Steve Wozniak and Stuart Brand Discuss Control of IP (1984) [video]](https://www.gettyimages.in/detail/video/at-the-first-hackers-conference-in-1984-steve-wozniak-and-news-footage/146496695)
