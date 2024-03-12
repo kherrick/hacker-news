@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 21:36:53](https://news.ycombinator.com/item?id=39685272) - [Scammed by the top result for 'Bitcoin wallet' in Apple App Store](https://news.ycombinator.com/item?id=39685272)
 * [2024-03-12, 20:45:33](https://news.ycombinator.com/item?id=39684719) - [Discord to open up developer SDK to enable more games and apps inside platform](https://www.engadget.com/discord-will-soon-offer-more-games-and-apps-inside-its-chats-182540566.html)
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 * [2024-03-12, 20:34:09](https://news.ycombinator.com/item?id=39684588) - [VLC surpasses five billion downloads, preps Vision Pro app](https://www.lowpass.cc/p/vlc-five-billion-downloads-vision-pro-app)
 * [2024-03-12, 20:34:02](https://news.ycombinator.com/item?id=39684585) - [The Spreadsheet Is a Simulation Machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
+* [2024-03-12, 20:27:51](https://news.ycombinator.com/item?id=39684513) - [An Explanation of the Double-Dabble Bin-BCD Conversion Algorithm (2004)](http://cpmarchives.classiccmp.org/cpm/mirrors/cbfalconer.home.att.net/download/dubldabl.txt)
 * [2024-03-12, 20:24:48](https://news.ycombinator.com/item?id=39684472) - [Dutch gov. proudly announces it will tap Europe's largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
