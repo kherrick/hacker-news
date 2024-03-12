@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 06:25:15](https://news.ycombinator.com/item?id=39676716) - [Apple's hysterics over new EU antitrust law have led to two climbdowns already](https://finance.yahoo.com/news/apple-hysterics-over-eu-antitrust-153713345.html)
 * [2024-03-12, 03:51:14](https://news.ycombinator.com/item?id=39676030) - [No installation required: how WebAssembly is changing scientific computing](https://www.nature.com/articles/d41586-024-00725-1)
 * [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
@@ -25,7 +26,6 @@
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 17:00:49](https://news.ycombinator.com/item?id=39670665) - [Show HN: Prompts as WASM Programs](https://github.com/microsoft/aici)
 * [2024-03-11, 17:00:13](https://news.ycombinator.com/item?id=39670655) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
-* [2024-03-11, 16:21:17](https://news.ycombinator.com/item?id=39670102) - [gh-116167: Allow disabling the GIL](https://github.com/python/cpython/pull/116338)
 * [2024-03-11, 16:17:18](https://news.ycombinator.com/item?id=39670035) - [Speedometer 3.0: A shared browser benchmark for web application responsiveness](https://browserbench.org/announcements/speedometer3/)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)
 * [2024-03-10, 15:36:40](https://news.ycombinator.com/item?id=39660014) - [Japanese Handsaws: The Maebiki Ooga](https://covingtonandsons.com/2022/05/22/japanese-handsaws-the-maebiki-ooga/)
