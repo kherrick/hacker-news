@@ -46,6 +46,7 @@
 * [2024-03-10, 16:28:02](https://news.ycombinator.com/item?id=39660395) - [The hottest new programming language is English Or maybe not](https://garymarcus.substack.com/p/the-hottest-new-programming-language)
 * [2024-03-10, 15:45:48](https://news.ycombinator.com/item?id=39660074) - [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
 * [2024-03-10, 15:38:29](https://news.ycombinator.com/item?id=39660025) - [Could AI-designed proteins be weaponized? Scientists lay out safety guidelines](https://www.nature.com/articles/d41586-024-00699-0)
+* [2024-03-10, 15:36:40](https://news.ycombinator.com/item?id=39660014) - [Japanese Handsaws: The Maebiki Ooga](https://covingtonandsons.com/2022/05/22/japanese-handsaws-the-maebiki-ooga/)
 * [2024-03-10, 15:32:48](https://news.ycombinator.com/item?id=39659978) - [Context-switching – one of the worst productivity killers](https://newsletter.eng-leadership.com/p/context-switching-one-of-the-worst)
 * [2024-03-10, 15:29:01](https://news.ycombinator.com/item?id=39659942) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
 * [2024-03-10, 15:12:30](https://news.ycombinator.com/item?id=39659781) - [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
