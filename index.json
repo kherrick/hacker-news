@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-03-12, 21:15:23",
+      "https://news.ycombinator.com/item?id=39685046"
+    ],
+    [
+      "40 Years of Programming",
+      "https://liw.fi/40/"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 20:36:36",
       "https://news.ycombinator.com/item?id=39684618"
     ],
@@ -287,16 +297,6 @@
     [
       "The complete story of Gödel incompleteness",
       "https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 03:03:11",
-      "https://news.ycombinator.com/item?id=39656405"
-    ],
-    [
-      "Compilers for continuous integration of Fortran projects",
-      "https://fortran-lang.discourse.group/t/which-compilers-are-available-for-ci-with-github-hosted-runners-all-but-nagfor/7554"
     ]
   ]
 ]
