@@ -23,6 +23,7 @@
 * [2024-03-11, 20:42:13](https://news.ycombinator.com/item?id=39673014) - [How Miles Davis Hired John Coltrane](https://www.honest-broker.com/p/how-miles-davis-hired-john-coltrane)
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa](https://www.openculture.com/2024/03/how-engineers-straightened-the-leaning-tower-of-pisa.html)
+* [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa [video]](https://www.youtube.com/watch?v=0ZhHoyqQEhA)
 * [2024-03-11, 20:29:41](https://news.ycombinator.com/item?id=39672901) - [OpenPlotter](https://openmarine.net/openplotter)
 * [2024-03-11, 19:56:05](https://news.ycombinator.com/item?id=39672583) - [Google's Threat Model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 * [2024-03-11, 19:46:46](https://news.ycombinator.com/item?id=39672479) - ['Sparta and the Commemoration of War' and 'The Killing Ground' Review](https://www.historytoday.com/archive/review/sparta-and-commemoration-war-and-killing-ground-review)
