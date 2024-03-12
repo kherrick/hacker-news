@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
+* [2024-03-12, 15:18:55](https://news.ycombinator.com/item?id=39680553) - [Kid May Already Be Watching AI-Generated Videos on YouTube](https://www.wired.com/story/your-kid-may-be-watching-ai-generated-videos-on-youtube/)
 * [2024-03-12, 13:57:05](https://news.ycombinator.com/item?id=39679574) - [Ask HN: How much to charge for an API call?](https://news.ycombinator.com/item?id=39679574)
 * [2024-03-12, 13:43:08](https://news.ycombinator.com/item?id=39679378) - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
 * [2024-03-12, 13:24:13](https://news.ycombinator.com/item?id=39679181) - [The $100M Deal for Kickstarter to use Blockchain](https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/)
