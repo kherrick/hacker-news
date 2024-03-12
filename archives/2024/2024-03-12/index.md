@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 22:00:27](https://news.ycombinator.com/item?id=39685480) - [Wow Signal](https://en.wikipedia.org/wiki/Wow!_signal)
 * [2024-03-12, 21:36:53](https://news.ycombinator.com/item?id=39685272) - [Scammed by the top result for 'Bitcoin wallet' in Apple App Store](https://news.ycombinator.com/item?id=39685272)
 * [2024-03-12, 20:45:33](https://news.ycombinator.com/item?id=39684719) - [Discord to open up developer SDK to enable more games and apps inside platform](https://www.engadget.com/discord-will-soon-offer-more-games-and-apps-inside-its-chats-182540566.html)
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
