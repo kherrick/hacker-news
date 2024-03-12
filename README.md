@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-12, 01:39:12](https://news.ycombinator.com/item?id=39675249) - [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
+* [2024-03-12, 01:28:58](https://news.ycombinator.com/item?id=39675181) - [Nature Conformable to Herself (1992)](https://www.sfipress.org/4-nature-conformable-to-herself)
 * [2024-03-12, 01:18:17](https://news.ycombinator.com/item?id=39675111) - [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
-* [2024-03-12, 01:09:50](https://news.ycombinator.com/item?id=39675036) - [Nobel laureate economist savages his own profession](https://www.imf.org/en/Publications/fandd/issues/2024/03/Symposium-Rethinking-Economics-Angus-Deaton)
+* [2024-03-12, 01:09:50](https://news.ycombinator.com/item?id=39675036) - [Rethinking my economics](https://www.imf.org/en/Publications/fandd/issues/2024/03/Symposium-Rethinking-Economics-Angus-Deaton)
 * [2024-03-12, 00:57:47](https://news.ycombinator.com/item?id=39674930) - [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
 * [2024-03-12, 00:04:26](https://news.ycombinator.com/item?id=39674619) - [Create More, Consume Less (2021)](https://www.omaritani.com/blog/create-more-consume-less)
 * [2024-03-11, 22:50:08](https://news.ycombinator.com/item?id=39674107) - [See 'horned' comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
@@ -23,7 +24,6 @@
 * [2024-03-11, 16:17:18](https://news.ycombinator.com/item?id=39670035) - [Speedometer 3.0: A shared browser benchmark for web application responsiveness](https://browserbench.org/announcements/speedometer3/)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)
 * [2024-03-11, 14:42:48](https://news.ycombinator.com/item?id=39668847) - [The Secret Life of XY Monitors (2001)](https://www.jmargolin.com/xy/xymon.htm)
-* [2024-03-11, 14:09:05](https://news.ycombinator.com/item?id=39668430) - [What Extropic is building](https://www.extropic.ai/future)
 * [2024-03-11, 13:36:11](https://news.ycombinator.com/item?id=39668053) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 11:56:45](https://news.ycombinator.com/item?id=39666993) - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
 * [2024-03-11, 11:42:03](https://news.ycombinator.com/item?id=39666865) - [Show HN: Teable – Open-Source No-Code Database Fusion of Postgres and Airtable](https://github.com/teableio/teable)
