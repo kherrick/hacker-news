@@ -2,7 +2,6 @@
 
 * [2024-03-12, 07:54:56](https://news.ycombinator.com/item?id=39677138) - [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children)
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
-* [2024-03-12, 06:25:15](https://news.ycombinator.com/item?id=39676716) - [Apple's hysterics over new EU antitrust law have led to two climbdowns already](https://finance.yahoo.com/news/apple-hysterics-over-eu-antitrust-153713345.html)
 * [2024-03-12, 06:17:54](https://news.ycombinator.com/item?id=39676678) - [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
 * [2024-03-12, 05:38:29](https://news.ycombinator.com/item?id=39676493) - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
 * [2024-03-12, 03:51:14](https://news.ycombinator.com/item?id=39676030) - [No installation required: how WebAssembly is changing scientific computing](https://www.nature.com/articles/d41586-024-00725-1)
@@ -10,6 +9,7 @@
 * [2024-03-12, 03:01:03](https://news.ycombinator.com/item?id=39675735) - [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
 * [2024-03-12, 02:29:22](https://news.ycombinator.com/item?id=39675585) - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 * [2024-03-12, 01:39:12](https://news.ycombinator.com/item?id=39675249) - [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
+* [2024-03-12, 01:28:58](https://news.ycombinator.com/item?id=39675181) - [Nature Conformable to Herself (1992)](https://www.sfipress.org/4-nature-conformable-to-herself)
 * [2024-03-12, 01:12:22](https://news.ycombinator.com/item?id=39675054) - [OpenAI – transformer debugger release](https://github.com/openai/transformer-debugger)
 * [2024-03-12, 00:57:47](https://news.ycombinator.com/item?id=39674930) - [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
 * [2024-03-12, 00:04:26](https://news.ycombinator.com/item?id=39674619) - [Create More, Consume Less (2021)](https://www.omaritani.com/blog/create-more-consume-less)
