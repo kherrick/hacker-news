@@ -11,6 +11,7 @@
 * [2024-03-11, 22:41:42](https://news.ycombinator.com/item?id=39674041) - [Roku Confirms Data Breach of 15,000 Customers](https://www.claimdepot.com/data-breach/roku)
 * [2024-03-11, 22:02:53](https://news.ycombinator.com/item?id=39673754) - [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [2024-03-11, 21:57:59](https://news.ycombinator.com/item?id=39673702) - [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)
+* [2024-03-11, 21:45:13](https://news.ycombinator.com/item?id=39673589) - [Boeing whistleblower found dead in US](https://www.bbc.com/news/business-68534703)
 * [2024-03-11, 21:23:31](https://news.ycombinator.com/item?id=39673393) - [Meta revokes Llama 2 licenses for anyone making a copyright claim](https://twitter.com/mikarv/status/1764177268115489081)
 * [2024-03-11, 21:09:57](https://news.ycombinator.com/item?id=39673265) - [Among the A.I. Doomsayers](https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers)
 * [2024-03-11, 21:03:32](https://news.ycombinator.com/item?id=39673213) - [Tell HN: NetworkSoltutions.com lost the ability to update root DNS w/ custom DNS](https://news.ycombinator.com/item?id=39673213)
