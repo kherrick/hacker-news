@@ -2,6 +2,7 @@
 
 * [2024-03-12, 22:00:27](https://news.ycombinator.com/item?id=39685480) - [Wow Signal](https://en.wikipedia.org/wiki/Wow!_signal)
 * [2024-03-12, 21:36:53](https://news.ycombinator.com/item?id=39685272) - [Scammed by the top result for 'Bitcoin wallet' in Apple App Store](https://news.ycombinator.com/item?id=39685272)
+* [2024-03-12, 21:15:23](https://news.ycombinator.com/item?id=39685046) - [40 Years of Programming](https://liw.fi/40/)
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 * [2024-03-12, 20:34:02](https://news.ycombinator.com/item?id=39684585) - [The spreadsheet is a simulation machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
 * [2024-03-12, 20:27:51](https://news.ycombinator.com/item?id=39684513) - [An Explanation of the Double-Dabble Bin-BCD Conversion Algorithm (2004)](http://cpmarchives.classiccmp.org/cpm/mirrors/cbfalconer.home.att.net/download/dubldabl.txt)
@@ -29,7 +30,6 @@
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
 * [2024-03-11, 16:32:47](https://news.ycombinator.com/item?id=39670279) - [A ‘double brood’ of periodical cicadas will emerge in 2024](https://www.scientificamerican.com/article/a-double-brood-of-periodical-cicadas-will-emerge-in-2024/)
 * [2024-03-11, 14:33:26](https://news.ycombinator.com/item?id=39668742) - [The complete story of Gödel incompleteness](https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/)
-* [2024-03-10, 03:03:11](https://news.ycombinator.com/item?id=39656405) - [Compilers for continuous integration of Fortran projects](https://fortran-lang.discourse.group/t/which-compilers-are-available-for-ci-with-github-hosted-runners-all-but-nagfor/7554)
 
 ## [Archives](archives/index.md)
 
