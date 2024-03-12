@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 10:14:06](https://news.ycombinator.com/item?id=39677845) - [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
 * [2024-03-12, 09:43:43](https://news.ycombinator.com/item?id=39677677) - [The internet is slipping out of our reach](https://injuly.in/blog/darker-internet/index.html)
 * [2024-03-12, 09:30:21](https://news.ycombinator.com/item?id=39677611) - [Google Announces Stealing Part of a Production Language Model](https://twitter.com/_akhaliq/status/1767384751269150828)
 * [2024-03-12, 09:10:11](https://news.ycombinator.com/item?id=39677530) - [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
