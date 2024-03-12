@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 12:08:42](https://news.ycombinator.com/item?id=39678532) - [Apple Announces Ability to Download Apps Directly from Websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
+* [2024-03-12, 12:00:13](https://news.ycombinator.com/item?id=39678491) - [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
 * [2024-03-12, 10:50:42](https://news.ycombinator.com/item?id=39678062) - [A glimpse into the universe where Windows died with the 1980s](https://www.theregister.com/2024/03/11/trying_ms_prerelease_os2_2/)
 * [2024-03-12, 10:14:06](https://news.ycombinator.com/item?id=39677845) - [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
 * [2024-03-12, 09:43:43](https://news.ycombinator.com/item?id=39677677) - [The internet is slipping out of our reach](https://injuly.in/blog/darker-internet/index.html)
@@ -29,6 +31,7 @@
 * [2024-03-12, 01:18:17](https://news.ycombinator.com/item?id=39675111) - [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
 * [2024-03-12, 01:12:22](https://news.ycombinator.com/item?id=39675054) - [OpenAI – transformer debugger release](https://github.com/openai/transformer-debugger)
 * [2024-03-12, 01:09:50](https://news.ycombinator.com/item?id=39675036) - [Nobel laureate economist savages his own profession](https://www.imf.org/en/Publications/fandd/issues/2024/03/Symposium-Rethinking-Economics-Angus-Deaton)
+* [2024-03-12, 00:57:51](https://news.ycombinator.com/item?id=39674931) - [Unix and Beyond: An Interview with Ken Thompson (1999)](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson)
 * [2024-03-12, 00:57:47](https://news.ycombinator.com/item?id=39674930) - [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
 * [2024-03-12, 00:43:30](https://news.ycombinator.com/item?id=39674841) - [Biden proposes 30% tax on crypto mining](https://taxfoundation.org/research/all/federal/biden-budget-2025-tax-proposals/)
 * [2024-03-12, 00:04:36](https://news.ycombinator.com/item?id=39674623) - [Elon Musk Has a Giant Charity. Its Money Stays Close to Home](https://www.nytimes.com/2024/03/10/us/elon-musk-charity.html)
