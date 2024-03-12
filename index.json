@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-12, 16:15:07",
+      "https://news.ycombinator.com/item?id=39681265"
+    ],
+    [
+      "Differential Storage: A Key Building Block for a DuckDB-Based Data Warehouse",
+      "https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse/"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 16:01:42",
       "https://news.ycombinator.com/item?id=39681102"
     ],
@@ -187,16 +197,6 @@
     [
       "Is Cosine-Similarity of Embeddings Really About Similarity?",
       "https://arxiv.org/abs/2403.05440"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 01:39:12",
-      "https://news.ycombinator.com/item?id=39675249"
-    ],
-    [
-      "Breaking down tasks",
-      "https://jacobian.org/2024/mar/11/breaking-down-tasks/"
     ]
   ],
   [
