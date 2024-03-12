@@ -1,36 +1,6 @@
 [
   [
     [
-      "2024-03-12, 00:43:30",
-      "https://news.ycombinator.com/item?id=39674841"
-    ],
-    [
-      "Biden proposes 30% tax on crypto mining",
-      "https://taxfoundation.org/research/all/federal/biden-budget-2025-tax-proposals/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 00:04:36",
-      "https://news.ycombinator.com/item?id=39674623"
-    ],
-    [
-      "Elon Musk Has a Giant Charity. Its Money Stays Close to Home",
-      "https://www.nytimes.com/2024/03/10/us/elon-musk-charity.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 23:30:19",
-      "https://news.ycombinator.com/item?id=39674394"
-    ],
-    [
-      "Why and how to write things on the Internet",
-      "https://www.benkuhn.net/writing/"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 22:58:53",
       "https://news.ycombinator.com/item?id=39674162"
     ],
@@ -65,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39673265"
     ],
     [
-      "Among the A.I. Doomsayers",
+      "Among the A.I. doomsayers",
       "https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers"
     ]
   ],
@@ -211,6 +181,16 @@
   ],
   [
     [
+      "2024-03-11, 16:04:19",
+      "https://news.ycombinator.com/item?id=39669858"
+    ],
+    [
+      "How we engineer feedback at Figma with eng crits",
+      "https://www.figma.com/blog/how-we-run-eng-crits-at-figma/"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 14:52:56",
       "https://news.ycombinator.com/item?id=39668962"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-03-11, 12:44:46",
+      "https://news.ycombinator.com/item?id=39667489"
+    ],
+    [
+      "Show HN: Async tasks in 350 lines of C",
+      "https://github.com/rkaehn/cr_task.h"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 12:41:18",
       "https://news.ycombinator.com/item?id=39667456"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: Teable – Open-Source No-Code Database Fusion of Postgres and Airtable",
       "https://github.com/teableio/teable"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 15:36:40",
+      "https://news.ycombinator.com/item?id=39660014"
+    ],
+    [
+      "Japanese Handsaws: The Maebiki Ooga",
+      "https://covingtonandsons.com/2022/05/22/japanese-handsaws-the-maebiki-ooga/"
     ]
   ],
   [
