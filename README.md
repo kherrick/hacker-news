@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 20:34:09](https://news.ycombinator.com/item?id=39684588) - [VLC surpasses five billion downloads, preps Vision Pro app](https://www.lowpass.cc/p/vlc-five-billion-downloads-vision-pro-app)
 * [2024-03-12, 20:24:48](https://news.ycombinator.com/item?id=39684472) - [Dutch gov. proudly announces it will tap Europe's largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
@@ -25,7 +26,6 @@
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
-* [2024-03-11, 18:53:39](https://news.ycombinator.com/item?id=39671983) - [The great American llama (and ostrich and emu) collapse](https://www.washingtonpost.com/business/2024/03/07/llama-emu-ostrich-herds-down/)
 * [2024-03-11, 17:26:28](https://news.ycombinator.com/item?id=39670986) - [Debugging a Golang Bug with Non-Blocking Reads](https://scratchdata.com/blog/go-nonblocking-pipes-bug/)
 * [2024-03-11, 16:32:47](https://news.ycombinator.com/item?id=39670279) - [A ‘double brood’ of periodical cicadas will emerge in 2024](https://www.scientificamerican.com/article/a-double-brood-of-periodical-cicadas-will-emerge-in-2024/)
 * [2024-03-10, 12:37:27](https://news.ycombinator.com/item?id=39658594) - [The Co-Evolution of Humans and Our Tools (2011)](https://blog.irvingwb.com/blog/2011/03/the-co-evolution-of-humans-and-our-tools.html)
