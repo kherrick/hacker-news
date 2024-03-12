@@ -27,6 +27,7 @@
 * [2024-03-12, 06:23:53](https://news.ycombinator.com/item?id=39676702) - [C++ Safety, in Context](https://herbsutter.com/2024/03/11/safety-in-context/)
 * [2024-03-12, 06:17:54](https://news.ycombinator.com/item?id=39676678) - [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
 * [2024-03-12, 05:38:29](https://news.ycombinator.com/item?id=39676493) - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
+* [2024-03-12, 04:24:45](https://news.ycombinator.com/item?id=39676182) - [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
 * [2024-03-12, 03:51:14](https://news.ycombinator.com/item?id=39676030) - [No installation required: how WebAssembly is changing scientific computing](https://www.nature.com/articles/d41586-024-00725-1)
 * [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a FREE animator think of Adobe Illustrator but for animation](https://www.trangram.com)
 * [2024-03-12, 03:05:16](https://news.ycombinator.com/item?id=39675760) - [FAA Audit of Boeing's 737 MAX Production Found Issues](https://www.nytimes.com/2024/03/11/us/politics/faa-audit-boeing-737-max.html)
