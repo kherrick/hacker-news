@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) Is Hiring to Build the Open Source Secret Management Platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
+* [2024-03-12, 16:54:10](https://news.ycombinator.com/item?id=39681812) - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
 * [2024-03-12, 16:53:41](https://news.ycombinator.com/item?id=39681804) - [California State University system sees unprecedented decline in enrollment](https://www.msn.com/en-us/money/careers/california-state-university-system-sees-unprecedented-decline-in-enrollment/ar-BB1jJy2i)
 * [2024-03-12, 16:38:04](https://news.ycombinator.com/item?id=39681553) - [Open Carry Gun Laws May Boost Suicide Rates](https://www.forbes.com/sites/ariannajohnson/2024/03/12/open-carry-gun-laws-may-boost-suicide-rates-study-suggests/)
+* [2024-03-12, 16:34:37](https://news.ycombinator.com/item?id=39681493) - [Updating Unreal Engine Pricing in Late April](https://www.unrealengine.com/en-US/blog/we-are-updating-unreal-engine-twinmotion-and-realitycapture-pricing-in-late-april)
 * [2024-03-12, 16:19:34](https://news.ycombinator.com/item?id=39681313) - [YouTube workers laid off mid-plea at City Hall meeting](https://www.theregister.com/2024/03/05/youtube_workers_sacked_on_camera/)
 * [2024-03-12, 16:15:07](https://news.ycombinator.com/item?id=39681265) - [Differential Storage: A Key Building Block for a DuckDB-Based Data Warehouse](https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse/)
 * [2024-03-12, 16:13:59](https://news.ycombinator.com/item?id=39681246) - [Two-thirds of young Dutch say influencers affect their financial decisions](https://nltimes.nl/2024/03/12/two-thirds-young-dutch-people-say-influencers-affect-financial-decisions)

@@ -91,6 +91,7 @@
 * [2024-03-10, 03:21:26](https://news.ycombinator.com/item?id=39656475) - [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
 * [2024-03-10, 03:20:47](https://news.ycombinator.com/item?id=39656472) - [Argentina inflation seen cooling as Milei austerity tempers food prices](https://www.reuters.com/world/americas/argentina-inflation-seen-cooling-milei-austerity-tempers-food-prices-2024-03-08/)
 * [2024-03-10, 03:15:47](https://news.ycombinator.com/item?id=39656455) - [U.S. Is Said to Open Criminal Inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html)
+* [2024-03-10, 03:03:11](https://news.ycombinator.com/item?id=39656405) - [Compilers for continuous integration of Fortran projects](https://fortran-lang.discourse.group/t/which-compilers-are-available-for-ci-with-github-hosted-runners-all-but-nagfor/7554)
 * [2024-03-10, 03:00:40](https://news.ycombinator.com/item?id=39656395) - [Roku TV will be unusable if you don't agree to the company's new terms](https://www.zdnet.com/home-and-office/home-entertainment/your-roku-tv-will-be-unusable-if-you-dont-agree-to-the-companys-controversial-new-terms/)
 * [2024-03-10, 03:00:15](https://news.ycombinator.com/item?id=39656393) - [Open Data Description Language](https://openddl.org/)
 * [2024-03-10, 02:10:33](https://news.ycombinator.com/item?id=39656203) - [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev/)

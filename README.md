@@ -1,17 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) Is Hiring to Build the Open Source Secret Management Platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
+* [2024-03-12, 16:54:10](https://news.ycombinator.com/item?id=39681812) - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
 * [2024-03-12, 16:53:41](https://news.ycombinator.com/item?id=39681804) - [California State University system sees unprecedented decline in enrollment](https://www.msn.com/en-us/money/careers/california-state-university-system-sees-unprecedented-decline-in-enrollment/ar-BB1jJy2i)
-* [2024-03-12, 16:19:34](https://news.ycombinator.com/item?id=39681313) - [YouTube workers laid off mid-plea at City Hall meeting](https://www.theregister.com/2024/03/05/youtube_workers_sacked_on_camera/)
+* [2024-03-12, 16:34:37](https://news.ycombinator.com/item?id=39681493) - [Updating Unreal Engine Pricing in Late April](https://www.unrealengine.com/en-US/blog/we-are-updating-unreal-engine-twinmotion-and-realitycapture-pricing-in-late-april)
 * [2024-03-12, 16:15:07](https://news.ycombinator.com/item?id=39681265) - [Differential Storage: A Key Building Block for a DuckDB-Based Data Warehouse](https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse/)
-* [2024-03-12, 16:13:59](https://news.ycombinator.com/item?id=39681246) - [Two-thirds of young Dutch say influencers affect their financial decisions](https://nltimes.nl/2024/03/12/two-thirds-young-dutch-people-say-influencers-affect-financial-decisions)
+* [2024-03-12, 16:01:42](https://news.ycombinator.com/item?id=39681102) - [Pilot of Boeing flight says he lost control after instrument failure](https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html)
 * [2024-03-12, 15:58:19](https://news.ycombinator.com/item?id=39681063) - [For polyglots, there's something special about their native tongue](https://news.mit.edu/2024/mit-study-polyglots-brain-processing-native-language-0310)
-* [2024-03-12, 15:58:17](https://news.ycombinator.com/item?id=39681062) - [737 Max anti-ice system fix is slow going](https://theaircurrent.com/aviation-safety/737-max-anti-ice-fix-slow-going/)
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 15:48:51](https://news.ycombinator.com/item?id=39680945) - [Crypto 'Mixer' Convicted of Money Laundering on Bitcoin Fog](https://www.bloomberg.com/news/articles/2024-03-12/crypto-mixer-convicted-of-money-laundering-on-bitcoin-fog)
 * [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
 * [2024-03-12, 14:45:52](https://news.ycombinator.com/item?id=39680155) - [The Epson HX-20 – A Contrarian's View](https://feertech.com/legion/retro/computer/2021/07/12/epson-hx20.html)
-* [2024-03-12, 12:58:22](https://news.ycombinator.com/item?id=39678929) - [Ask HN: Problems worth solving with a low-code back end?](https://news.ycombinator.com/item?id=39678929)
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become much more accurate](https://ourworldindata.org/weather-forecasts)
 * [2024-03-12, 12:11:55](https://news.ycombinator.com/item?id=39678555) - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 * [2024-03-12, 10:14:06](https://news.ycombinator.com/item?id=39677845) - [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
@@ -30,6 +29,7 @@
 * [2024-03-11, 16:35:48](https://news.ycombinator.com/item?id=39670324) - [Steve Wozniak and Stuart Brand Discuss Control of IP (1984) [video]](https://www.gettyimages.in/detail/video/at-the-first-hackers-conference-in-1984-steve-wozniak-and-news-footage/146496695)
 * [2024-03-11, 16:32:47](https://news.ycombinator.com/item?id=39670279) - [A double emergence of periodical cicadas isn’t cicada-geddon – It’s a marvel](https://www.scientificamerican.com/article/a-double-brood-of-periodical-cicadas-will-emerge-in-2024/)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)
+* [2024-03-10, 03:03:11](https://news.ycombinator.com/item?id=39656405) - [Compilers for continuous integration of Fortran projects](https://fortran-lang.discourse.group/t/which-compilers-are-available-for-ci-with-github-hosted-runners-all-but-nagfor/7554)
 
 ## [Archives](archives/index.md)
 
