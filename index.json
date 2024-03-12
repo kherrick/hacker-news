@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-12, 18:24:35",
-      "https://news.ycombinator.com/item?id=39683011"
-    ],
-    [
-      "The Day Soft Deletes Caused Chaos",
-      "https://blog.bemi.io/soft-deleting-chaos/"
-    ]
-  ],
-  [
-    [
       "2024-03-12, 17:44:21",
       "https://news.ycombinator.com/item?id=39682492"
     ],
@@ -207,6 +197,16 @@
     [
       "Cloning a Laptop over NVMe TCP",
       "https://copyninja.in/blog/clone_laptop_nvmet.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 06:23:53",
+      "https://news.ycombinator.com/item?id=39676702"
+    ],
+    [
+      "C++ Safety, in Context",
+      "https://herbsutter.com/2024/03/11/safety-in-context/"
     ]
   ],
   [
