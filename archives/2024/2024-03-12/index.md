@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 22:52:40](https://news.ycombinator.com/item?id=39685894) - [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
 * [2024-03-12, 22:15:01](https://news.ycombinator.com/item?id=39685590) - [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
 * [2024-03-12, 22:00:27](https://news.ycombinator.com/item?id=39685480) - [Wow Signal](https://en.wikipedia.org/wiki/Wow!_signal)
 * [2024-03-12, 21:47:51](https://news.ycombinator.com/item?id=39685382) - [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
