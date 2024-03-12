@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 12:46:38](https://news.ycombinator.com/item?id=39678813) - [On reddit: Someone in IT trolled me for over a decade](https://old.reddit.com/r/LegalAdviceUK/comments/1bcvj6f/someone_in_it_trolled_me_for_over_a_decade_have_i/)
+* [2024-03-12, 12:11:55](https://news.ycombinator.com/item?id=39678555) - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 * [2024-03-12, 12:08:42](https://news.ycombinator.com/item?id=39678532) - [Apple Announces Ability to Download Apps Directly from Websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
 * [2024-03-12, 12:00:13](https://news.ycombinator.com/item?id=39678491) - [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
 * [2024-03-12, 11:33:06](https://news.ycombinator.com/item?id=39678312) - [DMCA Notices Took Down 20,517 GitHub Projects Last Year](https://torrentfreak.com/dmca-notices-took-down-20517-github-projects-last-year-240308/)
