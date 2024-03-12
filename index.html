@@ -129,6 +129,168 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39682183">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=39682183"
+              >Launch HN: Glide (YC W24) – AI-assisted technical design docs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-12 @ 17:21:06</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39682183"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://glide.agenticlabs.com"
+                >https://glide.agenticlabs.com</a
+              >) that helps developers write technical design docs faster. It’s
+              like an IDE with Copilot, but instead of directly editing your
+              code, it helps you come up with a solid plan before implementing a
+              change. There’s a basic demo here (<a
+                href="https://youtu.be/5uEapdT6nYE"
+                >https://youtu.be/5uEapdT6nYE</a
+              >), and we also recorded a session with one of our early users
+              running through an unusual task (calling a Fortran algorithm from
+              Go,
+              <a href="https://youtu.be/ppluB0Z1OIA"
+                >https://youtu.be/ppluB0Z1OIA</a
+              >)
+              <p>
+                Why use design docs? Mainly because on complex software
+                projects, if you don’t have a careful strategy, a few lines of
+                code can lead to a ripple effect across the whole codebase.
+                You're working on a small new feature and suddenly, your PR is
+                touching dozens of different files in a handful of directories,
+                and you may be questioning if it still makes sense at all.
+              </p>
+              <p>
+                Laying out your approach in a technical design document helps to
+                avoid these situations, so tech companies often embed this
+                practice in their engineering culture. Unfortunately, producing
+                these write-ups is a manual and time-consuming process that
+                keeps you switching between typing in Confluence, searching on
+                GitHub, and drawing on a whiteboard.
+              </p>
+              <p>
+                For example, one of our early users is building a RAG (Retrieval
+                Augmented Generation) system in Rust, and needs to rewrite their
+                original chunking algorithm that was created in Python. A change
+                like that involves not only porting the chunking logic but also
+                defining new structs, choosing the Rust libraries for text
+                parsing, re-integrating with the Rust server, and changing the
+                endpoint on the front end. Simple-sounding changes like these
+                can end up with many "tentacles" devs have to work through. Our
+                product helps teams like this spec out their approach more
+                quickly.
+              </p>
+              <p>
+                The need for this hit us when we were working on a product using
+                LLMs to turn tickets into PRs. You can just assign a ticket to
+                GPT-4 and review the PR, right? Turns out that most people
+                (including us) don’t write very complete or specific tickets on
+                the first pass, and when they do, that ends up being more effort
+                than just doing the whole thing yourself.
+              </p>
+              <p>
+                What was missing was a fast way to iterate on goals,
+                requirements, and implementation plans for code that could then
+                be useful to developers (whether AI assisted or not) to
+                implement with high confidence. Our editor, Glide, splits this
+                process into the following stages and lets you spend as much or
+                as little time on each stage as makes sense.
+              </p>
+              <p>
+                (1) We index your project code with Tree-Sitter and make it
+                searchable, so you can add relevant parts of the codebase to the
+                task context.
+              </p>
+              <p>
+                (2) AI writes the first pass for a high-level solution outline
+                given the code and the goal. It will try to point out missing
+                details or ambiguities about the task so far.
+              </p>
+              <p>
+                (3) As a developer you can easily edit the generated
+                content—tweaks like “change step 3” or “remove the part about
+                caching” don’t require additional back-and-forth conversation.
+              </p>
+              <p>
+                (4) The next stage is a step-by-step plan—a pseudocode-level
+                guide for how to complete the change. AI generates this, and
+                again you can make adjustments in-line as needed.
+              </p>
+              <p>
+                (5) There is a chat mode for deeper discussions about the
+                content—just highlight any text and click chat. This works well
+                for exploring alternatives, getting more specific on a
+                particular point, or understanding why the AI wrote what it did.
+              </p>
+              <p>
+                (6) Once the plan looks good, you can have AI generate code
+                edits for each step. You’re free to make additional changes here
+                or just open the markdown doc with code edits in your local
+                VSCode via an extension, so you have it as a reference while you
+                implement.
+              </p>
+              <p>
+                This looks a lot like collaborative Chain of Thought, explicitly
+                writing out each step in a line of reasoning, for both the
+                developer and the LLM. Breaking down a high-level task with AI
+                this way can work well for building consensus on the desired end
+                state of your change.
+              </p>
+              <p>
+                We plan to charge companies per seat, but today, it’s free for
+                individual use as we get more feedback on the product. One
+                future area we’re excited for is multiplayer mode—where a few
+                developers can share, edit, and leave comments on the generated
+                docs in a shared workspace. If you have ideas for this
+                experience, we’d love to hear them.
+              </p>
+              <p>
+                We would love for you to give it a try at
+                <a href="https://glide.agenticlabs.com/"
+                  >https://glide.agenticlabs.com/</a
+                >
+                and tell us what you think! We’re excited to discuss this with
+                any comments you have!
+              </p>
+              <p>
+                P.S. We only keep the indexed code in an in-memory cache while
+                you’re using it. We don’t store your code or use it as training
+                data!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="39681920">
+          <h3>
+            <a
+              class="item"
+              href="https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media"
+              >The NYPD Sent a Warrantless Subpoena for a Copwatcher's X
+              Account</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-12 @ 17:00:27</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39681920"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39681919">
           <h3>
             <a
@@ -159,7 +321,7 @@
             <h4>
               <span>2024-03-12 @ 16:54:10</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39681812"
                   >Comments</a
@@ -181,11 +343,11 @@
             <h4>
               <span>2024-03-12 @ 16:53:41</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39681804"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -202,11 +364,11 @@
             <h4>
               <span>2024-03-12 @ 16:34:37</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39681493"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -224,7 +386,7 @@
             <h4>
               <span>2024-03-12 @ 16:15:07</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39681265"
                   >Comments</a
@@ -246,11 +408,11 @@
             <h4>
               <span>2024-03-12 @ 16:01:42</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39681102"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -268,11 +430,11 @@
             <h4>
               <span>2024-03-12 @ 15:58:19</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39681063"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -289,11 +451,11 @@
             <h4>
               <span>2024-03-12 @ 15:52:35</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39680997"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -310,11 +472,11 @@
             <h4>
               <span>2024-03-12 @ 15:48:51</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39680945"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -331,11 +493,11 @@
             <h4>
               <span>2024-03-12 @ 15:21:23</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39680579"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -352,11 +514,11 @@
             <h4>
               <span>2024-03-12 @ 14:45:52</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39680155"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -371,11 +533,11 @@
             <h4>
               <span>2024-03-12 @ 12:42:35</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39678783"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -390,11 +552,11 @@
             <h4>
               <span>2024-03-12 @ 12:11:55</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39678555"
                   >Comments</a
-                ><span class="descendants">: 334</span></span
+                ><span class="descendants">: 347</span></span
               >
             </h4>
           </section>
@@ -430,11 +592,11 @@
             <h4>
               <span>2024-03-12 @ 09:10:11</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39677530"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -449,11 +611,11 @@
             <h4>
               <span>2024-03-12 @ 07:31:06</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39677009"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -470,7 +632,7 @@
             <h4>
               <span>2024-03-12 @ 06:37:23</span
               ><span class="points-container"
-                >Points: <span class="points">352</span></span
+                >Points: <span class="points">355</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39676767"
                   >Comments</a
@@ -491,11 +653,11 @@
             <h4>
               <span>2024-03-12 @ 06:23:53</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39676702"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
           </section>
@@ -511,11 +673,11 @@
             <h4>
               <span>2024-03-12 @ 03:15:51</span
               ><span class="points-container"
-                >Points: <span class="points">509</span></span
+                >Points: <span class="points">518</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39675807"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
             <div class="text">
@@ -523,25 +685,6 @@
               graphics and svg animations with a free built-in powerful editor
               which is a fusion of Adobe Illustrator and animation tools.
             </div>
-          </section>
-        </section>
-        <section id="39675735">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2403.06634"
-              >Stealing Part of a Production Language Model</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-12 @ 03:01:03</span
-              ><span class="points-container"
-                >Points: <span class="points">185</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39675735"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="39675585">
@@ -554,7 +697,7 @@
             <h4>
               <span>2024-03-12 @ 02:29:22</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39675585"
                   >Comments</a
@@ -575,32 +718,11 @@
             <h4>
               <span>2024-03-12 @ 00:57:51</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39674931"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39673087">
-          <h3>
-            <a
-              class="item"
-              href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate"
-              >Webb and Hubble confirm Universe's expansion rate</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-11 @ 20:49:35</span
-              ><span class="points-container"
-                >Points: <span class="points">593</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39673087"
-                  >Comments</a
-                ><span class="descendants">: 283</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -617,11 +739,11 @@
             <h4>
               <span>2024-03-11 @ 18:53:39</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39671983"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -642,7 +764,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39671418"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -659,7 +781,7 @@
             <h4>
               <span>2024-03-11 @ 17:26:28</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39670986"
                   >Comments</a
@@ -681,11 +803,11 @@
             <h4>
               <span>2024-03-11 @ 16:35:48</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39670324"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -703,7 +825,7 @@
             <h4>
               <span>2024-03-11 @ 16:32:47</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39670279"
                   >Comments</a
@@ -843,7 +965,7 @@
             <h4>
               <span>2024-03-10 @ 03:03:11</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39656405"
                   >Comments</a
