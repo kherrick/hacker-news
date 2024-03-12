@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-03-11, 16:17:18",
-      "https://news.ycombinator.com/item?id=39670035"
+      "2024-03-11, 16:21:17",
+      "https://news.ycombinator.com/item?id=39670102"
     ],
     [
-      "Speedometer 3.0: A shared browser benchmark for web application responsiveness",
-      "https://browserbench.org/announcements/speedometer3/"
+      "gh-116167: Allow disabling the GIL",
+      "https://github.com/python/cpython/pull/116338"
     ]
   ],
   [
