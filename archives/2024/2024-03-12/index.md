@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 13:43:08](https://news.ycombinator.com/item?id=39679378) - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
+* [2024-03-12, 13:24:13](https://news.ycombinator.com/item?id=39679181) - [The $100M Deal for Kickstarter to use Blockchain](https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/)
 * [2024-03-12, 13:22:46](https://news.ycombinator.com/item?id=39679170) - [How AI is disrupting the demand for software engineers: data from 20M jobs](https://bloomberry.com/how-ai-is-disrupting-the-tech-job-market-data-from-20m-job-postings/)
 * [2024-03-12, 13:06:32](https://news.ycombinator.com/item?id=39678993) - [Ask HN: What not going to change in future?](https://news.ycombinator.com/item?id=39678993)
 * [2024-03-12, 12:46:38](https://news.ycombinator.com/item?id=39678813) - [On reddit: Someone in IT trolled me for over a decade](https://old.reddit.com/r/LegalAdviceUK/comments/1bcvj6f/someone_in_it_trolled_me_for_over_a_decade_have_i/)

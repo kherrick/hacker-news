@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 13:43:08](https://news.ycombinator.com/item?id=39679378) - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
+* [2024-03-12, 13:24:13](https://news.ycombinator.com/item?id=39679181) - [The $100M Deal for Kickstarter to use Blockchain](https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/)
 * [2024-03-12, 13:22:46](https://news.ycombinator.com/item?id=39679170) - [How AI is disrupting the demand for software engineers: data from 20M jobs](https://bloomberry.com/how-ai-is-disrupting-the-tech-job-market-data-from-20m-job-postings/)
-* [2024-03-12, 13:06:32](https://news.ycombinator.com/item?id=39678993) - [Ask HN: What not going to change in future?](https://news.ycombinator.com/item?id=39678993)
 * [2024-03-12, 12:11:55](https://news.ycombinator.com/item?id=39678555) - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 * [2024-03-12, 12:00:13](https://news.ycombinator.com/item?id=39678491) - [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
 * [2024-03-12, 11:33:06](https://news.ycombinator.com/item?id=39678312) - [DMCA Notices Took Down 20,517 GitHub Projects Last Year](https://torrentfreak.com/dmca-notices-took-down-20517-github-projects-last-year-240308/)
@@ -21,15 +22,14 @@
 * [2024-03-12, 00:57:51](https://news.ycombinator.com/item?id=39674931) - [Unix and Beyond: An Interview with Ken Thompson (1999)](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson)
 * [2024-03-12, 00:57:47](https://news.ycombinator.com/item?id=39674930) - [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
 * [2024-03-12, 00:04:26](https://news.ycombinator.com/item?id=39674619) - [Create More, Consume Less (2021)](https://www.omaritani.com/blog/create-more-consume-less)
-* [2024-03-11, 22:50:08](https://news.ycombinator.com/item?id=39674107) - [See 'horned' comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
 * [2024-03-11, 22:02:53](https://news.ycombinator.com/item?id=39673754) - [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 20:42:13](https://news.ycombinator.com/item?id=39673014) - [How Miles Davis hired John Coltrane](https://www.honest-broker.com/p/how-miles-davis-hired-john-coltrane)
+* [2024-03-11, 19:43:32](https://news.ycombinator.com/item?id=39672450) - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 * [2024-03-11, 18:03:01](https://news.ycombinator.com/item?id=39671418) - [Not just humans: Bees and chimps can also pass on their skills](https://phys.org/news/2024-03-humans-bees-chimps-skills.html)
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 16:35:48](https://news.ycombinator.com/item?id=39670324) - [Steve Wozniak and Stuart Brand Discuss Control of IP (1984) [video]](https://www.gettyimages.in/detail/video/at-the-first-hackers-conference-in-1984-steve-wozniak-and-news-footage/146496695)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)
-* [2024-03-10, 15:36:40](https://news.ycombinator.com/item?id=39660014) - [Japanese Handsaws: The Maebiki Ooga](https://covingtonandsons.com/2022/05/22/japanese-handsaws-the-maebiki-ooga/)
 
 ## [Archives](archives/index.md)
 
