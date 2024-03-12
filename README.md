@@ -26,7 +26,7 @@
 * [2024-03-11, 17:41:00](https://news.ycombinator.com/item?id=39671146) - [Fixing Gemma Bugs](https://unsloth.ai/blog/gemma-bugs)
 * [2024-03-11, 17:22:22](https://news.ycombinator.com/item?id=39670922) - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 17:00:49](https://news.ycombinator.com/item?id=39670665) - [Show HN: Prompts as WASM Programs](https://github.com/microsoft/aici)
-* [2024-03-11, 16:21:17](https://news.ycombinator.com/item?id=39670102) - [gh-116167: Allow disabling the GIL](https://github.com/python/cpython/pull/116338)
+* [2024-03-11, 17:00:13](https://news.ycombinator.com/item?id=39670655) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)
 * [2024-03-10, 15:36:40](https://news.ycombinator.com/item?id=39660014) - [Japanese Handsaws: The Maebiki Ooga](https://covingtonandsons.com/2022/05/22/japanese-handsaws-the-maebiki-ooga/)
 * [2024-03-10, 13:15:39](https://news.ycombinator.com/item?id=39658793) - [Vegetable stock: my secret lover (2011)](https://blog.andymatuschak.org/post/8092537664/vegetable-stock-my-secret-lover)
