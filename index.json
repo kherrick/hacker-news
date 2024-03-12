@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-03-12, 00:43:30",
+      "https://news.ycombinator.com/item?id=39674841"
+    ],
+    [
+      "Biden proposes 30% tax on crypto mining",
+      "https://taxfoundation.org/research/all/federal/biden-budget-2025-tax-proposals/"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 00:04:36",
+      "https://news.ycombinator.com/item?id=39674623"
+    ],
+    [
+      "Elon Musk Has a Giant Charity. Its Money Stays Close to Home",
+      "https://www.nytimes.com/2024/03/10/us/elon-musk-charity.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 23:30:19",
+      "https://news.ycombinator.com/item?id=39674394"
+    ],
+    [
+      "Why and how to write things on the Internet",
+      "https://www.benkuhn.net/writing/"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 22:58:53",
+      "https://news.ycombinator.com/item?id=39674162"
+    ],
+    [
+      "Organizing Developer Writing Retreats",
+      "https://www.swyx.io/dwr-review"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 22:50:08",
       "https://news.ycombinator.com/item?id=39674107"
     ],
@@ -11,22 +51,22 @@
   ],
   [
     [
-      "2024-03-11, 22:41:42",
-      "https://news.ycombinator.com/item?id=39674041"
+      "2024-03-11, 22:02:53",
+      "https://news.ycombinator.com/item?id=39673754"
     ],
     [
-      "Roku Confirms Data Breach of 15,000 Customers",
-      "https://www.claimdepot.com/data-breach/roku"
+      "Simpson's Paradox",
+      "https://en.wikipedia.org/wiki/Simpson%27s_paradox"
     ]
   ],
   [
     [
-      "2024-03-11, 21:57:59",
-      "https://news.ycombinator.com/item?id=39673702"
+      "2024-03-11, 21:09:57",
+      "https://news.ycombinator.com/item?id=39673265"
     ],
     [
-      "A Swimming Dinosaur? Maybe Not, Study Says",
-      "https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html"
+      "Among the A.I. Doomsayers",
+      "https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers"
     ]
   ],
   [
@@ -47,6 +87,16 @@
     [
       "Webb and Hubble confirm Universe's expansion rate",
       "https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 20:42:13",
+      "https://news.ycombinator.com/item?id=39673014"
+    ],
+    [
+      "How Miles Davis Hired John Coltrane",
+      "https://www.honest-broker.com/p/how-miles-davis-hired-john-coltrane"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2024-03-11, 17:46:23",
-      "https://news.ycombinator.com/item?id=39671212"
-    ],
-    [
-      "Rnote – An open-source vector-based drawing app",
-      "https://rnote.flxzt.net/"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 17:22:22",
       "https://news.ycombinator.com/item?id=39670922"
     ],
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2024-03-11, 16:04:19",
-      "https://news.ycombinator.com/item?id=39669858"
-    ],
-    [
-      "How we engineer feedback at Figma with eng crits",
-      "https://www.figma.com/blog/how-we-run-eng-crits-at-figma/"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 14:52:56",
       "https://news.ycombinator.com/item?id=39668962"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2024-03-11, 12:44:46",
-      "https://news.ycombinator.com/item?id=39667489"
-    ],
-    [
-      "Show HN: Async tasks in 350 lines of C",
-      "https://github.com/rkaehn/cr_task.h"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 12:41:18",
       "https://news.ycombinator.com/item?id=39667456"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-03-11, 11:53:03",
-      "https://news.ycombinator.com/item?id=39666956"
-    ],
-    [
-      "Flowers for Algernon (1965) [pdf]",
-      "https://www.sdfo.org/gj/stories/flowersforalgernon.pdf"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 11:42:03",
       "https://news.ycombinator.com/item?id=39666865"
     ],
     [
       "Show HN: Teable – Open-Source No-Code Database Fusion of Postgres and Airtable",
       "https://github.com/teableio/teable"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 08:47:55",
-      "https://news.ycombinator.com/item?id=39665939"
-    ],
-    [
-      "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "https://www.norvig.com/lispy.html"
     ]
   ],
   [
