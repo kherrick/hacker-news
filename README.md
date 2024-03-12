@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 09:10:11](https://news.ycombinator.com/item?id=39677530) - [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
 * [2024-03-12, 07:54:56](https://news.ycombinator.com/item?id=39677138) - [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children)
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 06:23:53](https://news.ycombinator.com/item?id=39676702) - [C++ Safety, in Context](https://herbsutter.com/2024/03/11/safety-in-context/)
@@ -29,7 +30,6 @@
 * [2024-03-11, 16:32:33](https://news.ycombinator.com/item?id=39670273) - [Robots Dream of Root Shells](https://blog.isosceles.com/robots-dream-of-root-shells/)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)
 * [2024-03-10, 15:36:40](https://news.ycombinator.com/item?id=39660014) - [Japanese Handsaws: The Maebiki Ooga](https://covingtonandsons.com/2022/05/22/japanese-handsaws-the-maebiki-ooga/)
-* [2024-03-10, 13:15:39](https://news.ycombinator.com/item?id=39658793) - [Vegetable stock: my secret lover (2011)](https://blog.andymatuschak.org/post/8092537664/vegetable-stock-my-secret-lover)
 
 ## [Archives](archives/index.md)
 
