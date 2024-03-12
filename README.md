@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 15:43:22](https://news.ycombinator.com/item?id=39680877) - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)
 * [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
 * [2024-03-12, 15:18:55](https://news.ycombinator.com/item?id=39680553) - [Kid May Already Be Watching AI-Generated Videos on YouTube](https://www.wired.com/story/your-kid-may-be-watching-ai-generated-videos-on-youtube/)
 * [2024-03-12, 13:43:08](https://news.ycombinator.com/item?id=39679378) - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
@@ -22,7 +23,6 @@
 * [2024-03-12, 00:57:47](https://news.ycombinator.com/item?id=39674930) - [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
 * [2024-03-11, 22:02:53](https://news.ycombinator.com/item?id=39673754) - [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
-* [2024-03-11, 19:56:05](https://news.ycombinator.com/item?id=39672583) - [Google's threat model for post-quantum cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 * [2024-03-11, 19:43:32](https://news.ycombinator.com/item?id=39672450) - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 * [2024-03-11, 18:53:39](https://news.ycombinator.com/item?id=39671983) - [The great American llama (and ostrich and emu) collapse](https://www.washingtonpost.com/business/2024/03/07/llama-emu-ostrich-herds-down/)
 * [2024-03-11, 18:03:01](https://news.ycombinator.com/item?id=39671418) - [Not just humans: Bees and chimps can also pass on their skills](https://phys.org/news/2024-03-humans-bees-chimps-skills.html)

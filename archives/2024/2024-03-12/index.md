@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 15:43:22](https://news.ycombinator.com/item?id=39680877) - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)
 * [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
 * [2024-03-12, 15:18:55](https://news.ycombinator.com/item?id=39680553) - [Kid May Already Be Watching AI-Generated Videos on YouTube](https://www.wired.com/story/your-kid-may-be-watching-ai-generated-videos-on-youtube/)
 * [2024-03-12, 13:57:05](https://news.ycombinator.com/item?id=39679574) - [Ask HN: How much to charge for an API call?](https://news.ycombinator.com/item?id=39679574)
