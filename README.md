@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 07:54:56](https://news.ycombinator.com/item?id=39677138) - [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children)
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 06:25:15](https://news.ycombinator.com/item?id=39676716) - [Apple's hysterics over new EU antitrust law have led to two climbdowns already](https://finance.yahoo.com/news/apple-hysterics-over-eu-antitrust-153713345.html)
 * [2024-03-12, 06:17:54](https://news.ycombinator.com/item?id=39676678) - [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
@@ -14,7 +15,6 @@
 * [2024-03-12, 00:04:26](https://news.ycombinator.com/item?id=39674619) - [Create More, Consume Less (2021)](https://www.omaritani.com/blog/create-more-consume-less)
 * [2024-03-11, 22:50:08](https://news.ycombinator.com/item?id=39674107) - [See 'horned' comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
 * [2024-03-11, 22:02:53](https://news.ycombinator.com/item?id=39673754) - [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
-* [2024-03-11, 21:57:59](https://news.ycombinator.com/item?id=39673702) - [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)
 * [2024-03-11, 21:45:13](https://news.ycombinator.com/item?id=39673589) - [Boeing whistleblower found dead in US](https://www.bbc.com/news/business-68534703)
 * [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 20:42:13](https://news.ycombinator.com/item?id=39673014) - [How Miles Davis hired John Coltrane](https://www.honest-broker.com/p/how-miles-davis-hired-john-coltrane)
