@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 20:24:48](https://news.ycombinator.com/item?id=39684472) - [Dutch gov. proudly announces it will tap Europe's largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
