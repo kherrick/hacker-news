@@ -2,11 +2,11 @@
 
 * [2024-03-12, 09:30:21](https://news.ycombinator.com/item?id=39677611) - [Google Announces Stealing Part of a Production Language Model](https://twitter.com/_akhaliq/status/1767384751269150828)
 * [2024-03-12, 09:10:11](https://news.ycombinator.com/item?id=39677530) - [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
-* [2024-03-12, 07:54:56](https://news.ycombinator.com/item?id=39677138) - [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children)
 * [2024-03-12, 06:37:23](https://news.ycombinator.com/item?id=39676767) - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 06:23:53](https://news.ycombinator.com/item?id=39676702) - [C++ Safety, in Context](https://herbsutter.com/2024/03/11/safety-in-context/)
 * [2024-03-12, 06:17:54](https://news.ycombinator.com/item?id=39676678) - [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
 * [2024-03-12, 05:38:29](https://news.ycombinator.com/item?id=39676493) - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
+* [2024-03-12, 03:51:14](https://news.ycombinator.com/item?id=39676030) - [No installation required: how WebAssembly is changing scientific computing](https://www.nature.com/articles/d41586-024-00725-1)
 * [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
 * [2024-03-12, 03:01:03](https://news.ycombinator.com/item?id=39675735) - [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
 * [2024-03-12, 02:29:22](https://news.ycombinator.com/item?id=39675585) - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
