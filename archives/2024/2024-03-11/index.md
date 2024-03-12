@@ -29,6 +29,7 @@
 * [2024-03-11, 19:37:22](https://news.ycombinator.com/item?id=39672393) - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
 * [2024-03-11, 19:28:43](https://news.ycombinator.com/item?id=39672317) - [Darknet bazaar Incognito Market is extorting former users](https://infosec.exchange/@briankrebs/112077458039064378)
 * [2024-03-11, 19:05:40](https://news.ycombinator.com/item?id=39672111) - [The later we meet someone in a sequence, the more negatively we describe them](https://suchscience.org/people-encountered-later-in-a-sequence-described-more-negatively/)
+* [2024-03-11, 18:53:39](https://news.ycombinator.com/item?id=39671983) - [The great American llama (and ostrich and emu) collapse](https://www.washingtonpost.com/business/2024/03/07/llama-emu-ostrich-herds-down/)
 * [2024-03-11, 18:47:02](https://news.ycombinator.com/item?id=39671919) - [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
 * [2024-03-11, 18:40:45](https://news.ycombinator.com/item?id=39671851) - [Adding \"before:2023\" improves Google web searches](https://mastodon.social/@gulovsen/112051692995026577)
 * [2024-03-11, 18:26:06](https://news.ycombinator.com/item?id=39671695) - [TikTok: Shareholders who make 'disparaging statements' will lose their holdings](https://fortune.com/2024/03/08/tiktok-non-disparagement-clause-shares-seized/)
