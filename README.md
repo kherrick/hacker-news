@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a FREE animator think of Adobe Illustrator but for animation](https://www.trangram.com)
 * [2024-03-12, 03:01:03](https://news.ycombinator.com/item?id=39675735) - [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
 * [2024-03-12, 02:29:22](https://news.ycombinator.com/item?id=39675585) - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 * [2024-03-12, 01:39:12](https://news.ycombinator.com/item?id=39675249) - [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
-* [2024-03-12, 01:38:46](https://news.ycombinator.com/item?id=39675245) - [Incognito Darknet Market Mass-Extorts Buyers, Sellers](https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/)
 * [2024-03-12, 01:28:58](https://news.ycombinator.com/item?id=39675181) - [Nature Conformable to Herself (1992)](https://www.sfipress.org/4-nature-conformable-to-herself)
 * [2024-03-12, 01:18:17](https://news.ycombinator.com/item?id=39675111) - [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
 * [2024-03-12, 01:12:22](https://news.ycombinator.com/item?id=39675054) - [OpenAI – transformer debugger release](https://github.com/openai/transformer-debugger)
@@ -26,8 +26,8 @@
 * [2024-03-11, 16:21:17](https://news.ycombinator.com/item?id=39670102) - [gh-116167: Allow disabling the GIL](https://github.com/python/cpython/pull/116338)
 * [2024-03-11, 16:17:18](https://news.ycombinator.com/item?id=39670035) - [Speedometer 3.0: A shared browser benchmark for web application responsiveness](https://browserbench.org/announcements/speedometer3/)
 * [2024-03-11, 14:52:56](https://news.ycombinator.com/item?id=39668962) - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)
-* [2024-03-11, 14:42:48](https://news.ycombinator.com/item?id=39668847) - [The Secret Life of XY Monitors (2001)](https://www.jmargolin.com/xy/xymon.htm)
 * [2024-03-11, 14:09:05](https://news.ycombinator.com/item?id=39668430) - [What Extropic is building](https://www.extropic.ai/future)
+* [2024-03-11, 11:56:45](https://news.ycombinator.com/item?id=39666993) - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
 * [2024-03-10, 15:36:40](https://news.ycombinator.com/item?id=39660014) - [Japanese Handsaws: The Maebiki Ooga](https://covingtonandsons.com/2022/05/22/japanese-handsaws-the-maebiki-ooga/)
 * [2024-03-10, 13:15:39](https://news.ycombinator.com/item?id=39658793) - [Vegetable stock: my secret lover (2011)](https://blog.andymatuschak.org/post/8092537664/vegetable-stock-my-secret-lover)
 
