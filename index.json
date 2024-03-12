@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-12, 17:27:28",
-      "https://news.ycombinator.com/item?id=39682265"
+      "2024-03-12, 17:44:21",
+      "https://news.ycombinator.com/item?id=39682492"
     ],
     [
-      "Google paid $10M in bug bounty rewards last year",
-      "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/"
+      "Quantum Soccer (2009)",
+      "https://www.gregegan.net/BORDER/Soccer/Soccer.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 17:26:13",
+      "https://news.ycombinator.com/item?id=39682250"
+    ],
+    [
+      "LineageOS 21 review: Smartphone sustainability starts with software [video]",
+      "https://9to5google.com/2024/03/12/lineageos-21-review/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39681920"
     ],
     [
-      "The NYPD Sent a Warrantless Subpoena for a Copwatcher's X Account",
+      "The NYPD sent a warrantless subpoena for a copwatcher's Twitter account",
       "https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39681265"
     ],
     [
-      "Differential Storage: A Key Building Block for a DuckDB-Based Data Warehouse",
+      "Differential storage: A key building block for a DuckDB-based data warehouse",
       "https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse/"
     ]
   ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39680945"
     ],
     [
-      "Crypto 'Mixer' Convicted of Money Laundering on Bitcoin Fog",
+      "Crypto 'mixer' convicted of money laundering on Bitcoin Fog",
       "https://www.bloomberg.com/news/articles/2024-03-12/crypto-mixer-convicted-of-money-laundering-on-bitcoin-fog"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39680579"
     ],
     [
-      "Deterministic Simulation Testing for Our Entire SaaS",
+      "Deterministic simulation testing for our entire SaaS",
       "https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas"
     ]
   ],
@@ -131,11 +141,31 @@
   ],
   [
     [
+      "2024-03-12, 14:15:15",
+      "https://news.ycombinator.com/item?id=39679787"
+    ],
+    [
+      "Devin: AI Software Engineer",
+      "https://www.cognition-labs.com/blog"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 13:43:08",
+      "https://news.ycombinator.com/item?id=39679378"
+    ],
+    [
+      "Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)",
+      "https://crates.io/crates/csv-to-usv"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 12:42:35",
       "https://news.ycombinator.com/item?id=39678783"
     ],
     [
-      "Weather forecasts have become much more accurate",
+      "Weather forecasts have become more accurate",
       "https://ourworldindata.org/weather-forecasts"
     ]
   ],
@@ -147,16 +177,6 @@
     [
       "Apple announces ability to download apps directly from websites in EU",
       "https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 10:14:06",
-      "https://news.ycombinator.com/item?id=39677845"
-    ],
-    [
-      "Ultratec Technology Timeline",
-      "https://www.ultratec.com/about/timeline/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-03-12, 03:01:03",
-      "https://news.ycombinator.com/item?id=39675735"
-    ],
-    [
-      "Stealing Part of a Production Language Model",
-      "https://arxiv.org/abs/2403.06634"
-    ]
-  ],
-  [
-    [
       "2024-03-12, 00:57:51",
       "https://news.ycombinator.com/item?id=39674931"
     ],
     [
       "Unix and Beyond: An Interview with Ken Thompson (1999)",
       "https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 20:49:35",
-      "https://news.ycombinator.com/item?id=39673087"
-    ],
-    [
-      "Webb and Hubble confirm Universe's expansion rate",
-      "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=39671418"
     ],
     [
-      "Not just humans: Bees and chimps can also pass on their skills",
+      "Bees and chimps can also pass on their skills",
       "https://phys.org/news/2024-03-humans-bees-chimps-skills.html"
     ]
   ],
@@ -275,18 +275,18 @@
       "https://news.ycombinator.com/item?id=39670279"
     ],
     [
-      "A double emergence of periodical cicadas isn’t cicada-geddon – It’s a marvel",
+      "A ‘double brood’ of periodical cicadas will emerge in 2024",
       "https://www.scientificamerican.com/article/a-double-brood-of-periodical-cicadas-will-emerge-in-2024/"
     ]
   ],
   [
     [
-      "2024-03-11, 14:52:56",
-      "https://news.ycombinator.com/item?id=39668962"
+      "2024-03-10, 12:37:27",
+      "https://news.ycombinator.com/item?id=39658594"
     ],
     [
-      "Launch HN: Onedoc (YC W24) – A better way to create PDFs",
-      "https://github.com/OnedocLabs/react-print-pdf"
+      "The Co-Evolution of Humans and Our Tools (2011)",
+      "https://blog.irvingwb.com/blog/2011/03/the-co-evolution-of-humans-and-our-tools.html"
     ]
   ],
   [
