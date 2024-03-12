@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-12, 22:15:01](https://news.ycombinator.com/item?id=39685590) - [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
 * [2024-03-12, 22:00:27](https://news.ycombinator.com/item?id=39685480) - [Wow Signal](https://en.wikipedia.org/wiki/Wow!_signal)
+* [2024-03-12, 21:47:51](https://news.ycombinator.com/item?id=39685382) - [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
 * [2024-03-12, 21:36:53](https://news.ycombinator.com/item?id=39685272) - [Scammed by the top result for 'Bitcoin wallet' in Apple App Store](https://news.ycombinator.com/item?id=39685272)
-* [2024-03-12, 21:17:22](https://news.ycombinator.com/item?id=39685068) - [LOCS: Language developed at age 9 in Z80 machine code (1988)](https://nanochess.org/locs.html)
 * [2024-03-12, 21:15:23](https://news.ycombinator.com/item?id=39685046) - [40 Years of Programming](https://liw.fi/40/)
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 * [2024-03-12, 20:34:02](https://news.ycombinator.com/item?id=39684585) - [The spreadsheet is a simulation machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
@@ -28,7 +29,6 @@
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa [video]](https://www.youtube.com/watch?v=0ZhHoyqQEhA)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
-* [2024-03-11, 16:32:47](https://news.ycombinator.com/item?id=39670279) - [A ‘double brood’ of periodical cicadas will emerge in 2024](https://www.scientificamerican.com/article/a-double-brood-of-periodical-cicadas-will-emerge-in-2024/)
 * [2024-03-11, 14:33:26](https://news.ycombinator.com/item?id=39668742) - [The complete story of Gödel incompleteness](https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/)
 
 ## [Archives](archives/index.md)
