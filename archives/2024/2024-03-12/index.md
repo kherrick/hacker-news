@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 16:01:42](https://news.ycombinator.com/item?id=39681102) - [Pilot of Boeing flight says he lost control after instrument failure](https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html)
+* [2024-03-12, 15:58:17](https://news.ycombinator.com/item?id=39681062) - [737 Max anti-ice system fix is slow going](https://theaircurrent.com/aviation-safety/737-max-anti-ice-fix-slow-going/)
+* [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
+* [2024-03-12, 15:48:51](https://news.ycombinator.com/item?id=39680945) - [Crypto 'Mixer' Convicted of Money Laundering on Bitcoin Fog](https://www.bloomberg.com/news/articles/2024-03-12/crypto-mixer-convicted-of-money-laundering-on-bitcoin-fog)
 * [2024-03-12, 15:43:22](https://news.ycombinator.com/item?id=39680877) - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)
 * [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
 * [2024-03-12, 15:18:55](https://news.ycombinator.com/item?id=39680553) - [Kid May Already Be Watching AI-Generated Videos on YouTube](https://www.wired.com/story/your-kid-may-be-watching-ai-generated-videos-on-youtube/)
