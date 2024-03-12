@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-12, 19:33:05",
+      "https://news.ycombinator.com/item?id=39683889"
+    ],
+    [
+      "Fig Is Sunsetting",
+      "https://fig.io/blog/post/fig-is-sunsetting"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 19:01:53",
+      "https://news.ycombinator.com/item?id=39683455"
+    ],
+    [
+      "FloatCompMandelbrot: What impact does floating point precision have on Mandelbr",
+      "https://github.com/ProfJski/FloatCompMandelbrot"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 18:53:28",
       "https://news.ycombinator.com/item?id=39683351"
     ],
@@ -197,26 +217,6 @@
     [
       "Cloning a Laptop over NVMe TCP",
       "https://copyninja.in/blog/clone_laptop_nvmet.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 06:23:53",
-      "https://news.ycombinator.com/item?id=39676702"
-    ],
-    [
-      "C++ Safety, in Context",
-      "https://herbsutter.com/2024/03/11/safety-in-context/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 03:15:51",
-      "https://news.ycombinator.com/item?id=39675807"
-    ],
-    [
-      "Show HN: I made a free animator. Think Adobe Illustrator but for animation",
-      "https://www.trangram.com"
     ]
   ],
   [
