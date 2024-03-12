@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-12, 01:49:18](https://news.ycombinator.com/item?id=39675320) - [Rabbit Inc. Faked Their Demo (Again)](https://rentry.co/rabbitscam)
+* [2024-03-12, 01:39:12](https://news.ycombinator.com/item?id=39675249) - [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
 * [2024-03-12, 01:18:17](https://news.ycombinator.com/item?id=39675111) - [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
 * [2024-03-12, 01:09:50](https://news.ycombinator.com/item?id=39675036) - [Nobel laureate economist savages his own profession](https://www.imf.org/en/Publications/fandd/issues/2024/03/Symposium-Rethinking-Economics-Angus-Deaton)
 * [2024-03-12, 00:57:47](https://news.ycombinator.com/item?id=39674930) - [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
