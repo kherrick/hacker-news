@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 18:00:35](https://news.ycombinator.com/item?id=39682698) - [Boeing whistleblower John Barnett found dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
 * [2024-03-12, 17:44:21](https://news.ycombinator.com/item?id=39682492) - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
+* [2024-03-12, 17:34:41](https://news.ycombinator.com/item?id=39682366) - [Astro DB](https://astro.build/db/)
 * [2024-03-12, 17:27:28](https://news.ycombinator.com/item?id=39682265) - [Google paid $10M in bug bounty rewards last year](https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/)
 * [2024-03-12, 17:26:13](https://news.ycombinator.com/item?id=39682250) - [LineageOS 21 review: Smartphone sustainability starts with software [video]](https://9to5google.com/2024/03/12/lineageos-21-review/)
 * [2024-03-12, 17:21:06](https://news.ycombinator.com/item?id=39682183) - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
+* [2024-03-12, 17:18:09](https://news.ycombinator.com/item?id=39682143) - [Byte-Sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 * [2024-03-12, 17:05:38](https://news.ycombinator.com/item?id=39681986) - [\"Boards are invested in their C.E.O.s until they're not.\" [Boeing]](https://leehamnews.com/2024/03/12/pontifications-boards-are-invested-in-their-c-e-o-s-until-theyre-not/)
 * [2024-03-12, 17:00:27](https://news.ycombinator.com/item?id=39681920) - [The NYPD Sent a Warrantless Subpoena for a Copwatcher's X Account](https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media)
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) Is Hiring to Build the Open Source Secret Management Platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
