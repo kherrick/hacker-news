@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-12, 03:05:16](https://news.ycombinator.com/item?id=39675760) - [FAA Audit of Boeing's 737 MAX Production Found Issues](https://www.nytimes.com/2024/03/11/us/politics/faa-audit-boeing-737-max.html)
-* [2024-03-12, 02:38:20](https://news.ycombinator.com/item?id=39675627) - [BYD to slash EV prices even more with new platform, looks to crush ICE car sales](https://electrek.co/2024/03/11/byds-new-lower-cost-ev-platform-crush-gas-powered-car-sales/)
+* [2024-03-12, 02:29:22](https://news.ycombinator.com/item?id=39675585) - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 * [2024-03-12, 01:39:12](https://news.ycombinator.com/item?id=39675249) - [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
+* [2024-03-12, 01:38:46](https://news.ycombinator.com/item?id=39675245) - [Incognito Darknet Market Mass-Extorts Buyers, Sellers](https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/)
 * [2024-03-12, 01:28:58](https://news.ycombinator.com/item?id=39675181) - [Nature Conformable to Herself (1992)](https://www.sfipress.org/4-nature-conformable-to-herself)
 * [2024-03-12, 01:18:17](https://news.ycombinator.com/item?id=39675111) - [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
 * [2024-03-12, 01:12:22](https://news.ycombinator.com/item?id=39675054) - [OpenAI – transformer debugger release](https://github.com/openai/transformer-debugger)
