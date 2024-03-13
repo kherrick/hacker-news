@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
+* [2024-03-13, 19:51:48](https://news.ycombinator.com/item?id=39696534) - [As heat becomes a national threat, who will be protected?](https://grist.org/extreme-heat/extreme-heat-protection-florida-law-athletes-workers/)
+* [2024-03-13, 19:42:50](https://news.ycombinator.com/item?id=39696419) - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
 * [2024-03-13, 19:40:35](https://news.ycombinator.com/item?id=39696394) - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
 * [2024-03-13, 19:16:11](https://news.ycombinator.com/item?id=39696071) - [Boeing overwrote surveillance footage of door plug repair](https://abcnews.go.com/US/boeing-overwrote-surveillance-footage-door-plug-repair-ntsb/story?id=108084196)
 * [2024-03-13, 19:03:28](https://news.ycombinator.com/item?id=39695897) - [Don Lemon says Elon Musk canceled his deal with X after 'tense' interview](https://www.cnn.com/2024/03/13/media/don-lemon-says-elon-deal-canceled/index.html)
