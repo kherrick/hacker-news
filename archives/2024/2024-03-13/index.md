@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
 * [2024-03-13, 17:55:37](https://news.ycombinator.com/item?id=39694901) - [Show HN: PromptFox, high quality Midjourney prompts](https://www.promptfox.io/)
 * [2024-03-13, 17:54:19](https://news.ycombinator.com/item?id=39694884) - [Star Trek TNG Captain's Chair Heads to Auction in March](https://blog.trekcore.com/2024/03/star-trek-the-next-generation-captains-chair-heads-auction/)
 * [2024-03-13, 17:18:31](https://news.ycombinator.com/item?id=39694366) - [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)

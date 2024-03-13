@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
 * [2024-03-13, 17:17:36](https://news.ycombinator.com/item?id=39694353) - [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
 * [2024-03-13, 16:33:08](https://news.ycombinator.com/item?id=39693661) - [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
 * [2024-03-13, 16:23:25](https://news.ycombinator.com/item?id=39693496) - [How to Get Out of Vi (2015)](https://liw.fi/vi/)
@@ -20,15 +21,14 @@
 * [2024-03-13, 10:02:05](https://news.ycombinator.com/item?id=39689685) - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-13, 05:47:36](https://news.ycombinator.com/item?id=39688443) - [Insult Passphrase Generator](https://cheswick.com/insults)
-* [2024-03-13, 03:18:36](https://news.ycombinator.com/item?id=39687762) - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
 * [2024-03-13, 03:12:51](https://news.ycombinator.com/item?id=39687729) - [Show HN: I made an AI-first collaborative knowledge base](https://thedrive.ai)
 * [2024-03-12, 20:59:18](https://news.ycombinator.com/item?id=39684874) - [Show HN: DBOS – Transactional Serverless for TypeScript Apps](https://github.com/dbos-inc/dbos-ts)
 * [2024-03-12, 20:55:59](https://news.ycombinator.com/item?id=39684845) - [Luster Lost: Pondering the way that physical objects degrade over time](https://tedium.co/2024/03/02/why-physical-objects-decay/)
 * [2024-03-12, 19:44:18](https://news.ycombinator.com/item?id=39684043) - [I'm excited about Darklang](https://stachu.net/im-really-excited-about-darklang/)
+* [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:12:33](https://news.ycombinator.com/item?id=39682852) - [Identifying Software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 17:39:02](https://news.ycombinator.com/item?id=39682424) - [Arthropod Intelligence? The Case for Portia (2020)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.568049/full)
 * [2024-03-12, 17:38:55](https://news.ycombinator.com/item?id=39682422) - [Truffle-1 is an AI inference engine designed to run open source models at home](https://preorder.itsalltruffles.com)
-* [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) is hiring to build an open-source secret management platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
 * [2024-03-12, 07:57:42](https://news.ycombinator.com/item?id=39677152) - [Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)](https://www.hemmings.com/stories/article/steaming-sensation-1925-doble)
 
 ## [Archives](archives/index.md)
