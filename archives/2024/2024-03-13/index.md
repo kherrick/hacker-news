@@ -15,6 +15,7 @@
 * [2024-03-13, 20:09:26](https://news.ycombinator.com/item?id=39696769) - [Cerebras WSE-3 Chip](https://www.cerebras.net/product-chip/)
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 * [2024-03-13, 19:51:48](https://news.ycombinator.com/item?id=39696534) - [As heat becomes a national threat, who will be protected?](https://grist.org/extreme-heat/extreme-heat-protection-florida-law-athletes-workers/)
+* [2024-03-13, 19:47:53](https://news.ycombinator.com/item?id=39696482) - [EFF to Ninth Circuit: No Software Exception to Traditional Copyright Limits](https://www.eff.org/deeplinks/2024/03/eff-ninth-circuit-theres-no-software-exception-traditional-copyright-limits)
 * [2024-03-13, 19:42:50](https://news.ycombinator.com/item?id=39696419) - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
 * [2024-03-13, 19:40:35](https://news.ycombinator.com/item?id=39696394) - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
 * [2024-03-13, 19:21:10](https://news.ycombinator.com/item?id=39696139) - [A world from a sheet of paper – Tadashi Tokieda](https://www.youtube.com/watch?v=8p02DtmyQhU)
