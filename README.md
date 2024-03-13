@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 09:49:30](https://news.ycombinator.com/item?id=39689627) - [15 Clicks to install an app from the web using the newly proposed Apple flow](https://twitter.com/xroissance/status/1767570083038081069)
 * [2024-03-13, 09:06:22](https://news.ycombinator.com/item?id=39689383) - [Tor's new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/#google_vignette)
 * [2024-03-13, 08:24:20](https://news.ycombinator.com/item?id=39689167) - [Google restricts Gemini chatbot election answers](https://www.bbc.co.uk/news/business-68551206)
 * [2024-03-13, 08:10:33](https://news.ycombinator.com/item?id=39689090) - [Simplicity of IRC (2022)](https://susam.net/simplicity-of-irc.html)
@@ -29,7 +30,6 @@
 * [2024-03-11, 12:27:29](https://news.ycombinator.com/item?id=39667313) - [Five priceless artifacts of the digital age that sold for peanuts](https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/)
 * [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
 * [2024-03-11, 06:42:45](https://news.ycombinator.com/item?id=39665431) - [Proof of the Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/20/svd-proof/)
-* [2024-03-10, 22:30:15](https://news.ycombinator.com/item?id=39663046) - [To write a great essay, think and care deeply (2015)](https://www.theatlantic.com/entertainment/archive/2015/06/to-write-a-great-essay-think-and-care-deeply/394628/)
 
 ## [Archives](archives/index.md)
 
