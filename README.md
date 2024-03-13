@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 03:18:36](https://news.ycombinator.com/item?id=39687762) - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
 * [2024-03-13, 03:17:48](https://news.ycombinator.com/item?id=39687755) - [The New Audi A3 Is Amess with In-Car Subscriptions](https://www.motor1.com/news/711957/2025-audi-a3-in-car-subscriptions/)
 * [2024-03-13, 02:41:56](https://news.ycombinator.com/item?id=39687564) - [Apple cider vinegar for weight management](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
 * [2024-03-13, 02:15:16](https://news.ycombinator.com/item?id=39687393) - [Japan's Space One rocket explodes seconds after liftoff](https://twitter.com/BNONews/status/1767735668262752601/video/1)
@@ -28,7 +29,6 @@
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa [video]](https://www.youtube.com/watch?v=0ZhHoyqQEhA)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
-* [2024-03-11, 14:33:26](https://news.ycombinator.com/item?id=39668742) - [The complete story of Gödel incompleteness](https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/)
 * [2024-03-10, 22:30:15](https://news.ycombinator.com/item?id=39663046) - [To write a great essay, think and care deeply (2015)](https://www.theatlantic.com/entertainment/archive/2015/06/to-write-a-great-essay-think-and-care-deeply/394628/)
 
 ## [Archives](archives/index.md)

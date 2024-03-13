@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 03:18:36](https://news.ycombinator.com/item?id=39687762) - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
 * [2024-03-13, 03:17:48](https://news.ycombinator.com/item?id=39687755) - [The New Audi A3 Is Amess with In-Car Subscriptions](https://www.motor1.com/news/711957/2025-audi-a3-in-car-subscriptions/)
 * [2024-03-13, 02:41:56](https://news.ycombinator.com/item?id=39687564) - [Apple cider vinegar for weight management](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
 * [2024-03-13, 02:15:16](https://news.ycombinator.com/item?id=39687393) - [Japan's Space One rocket explodes seconds after liftoff](https://twitter.com/BNONews/status/1767735668262752601/video/1)
