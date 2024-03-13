@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-03-13, 20:59:50",
-      "https://news.ycombinator.com/item?id=39697442"
+      "2024-03-13, 21:42:32",
+      "https://news.ycombinator.com/item?id=39697902"
     ],
     [
-      "Claude 3 Haiku: our fastest model yet",
-      "https://www.anthropic.com/news/claude-3-haiku"
+      "Linux TTY font for Chinese, but treat it as a syllabic writing",
+      "https://github.com/oldherl/syllazh"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 21:25:18",
+      "https://news.ycombinator.com/item?id=39697731"
+    ],
+    [
+      "I like automations for inclusive development",
+      "https://blog.lmorchard.com/2024/03/13/github-actions-for-didthis/"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 20:32:35",
+      "https://news.ycombinator.com/item?id=39697081"
+    ],
+    [
+      "The Programmers of the Future",
+      "https://basedmeditations.substack.com/p/the-programmers-of-the-future"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2024-03-13, 19:21:53",
+      "https://news.ycombinator.com/item?id=39696152"
+    ],
+    [
+      "BreakTime: Running Breakout inside Google Calendar",
+      "https://eieio.games/nonsense/game-13-breaktime/"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 19:21:10",
       "https://news.ycombinator.com/item?id=39696139"
     ],
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2024-03-13, 16:13:36",
-      "https://news.ycombinator.com/item?id=39693356"
-    ],
-    [
-      "4T transistors, one giant chip (Cerebras WSE-3) [video]",
-      "https://www.youtube.com/watch?v=f4Dly8I8lMY"
-    ]
-  ],
-  [
-    [
       "2024-03-13, 16:05:29",
       "https://news.ycombinator.com/item?id=39693221"
     ],
     [
       "Marcel Grossmann and his contribution to the general theory of relativity",
       "https://ar5iv.labs.arxiv.org/html/1312.4068"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 16:02:46",
-      "https://news.ycombinator.com/item?id=39693169"
-    ],
-    [
-      "Pi 5 overclocking: Silicon Lottery",
-      "https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Show HN: Phospho – Text Analytics for LLM Apps (Posthog for Prompts)",
       "https://github.com/phospho-app/phospho"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 14:50:40",
-      "https://news.ycombinator.com/item?id=39691886"
-    ],
-    [
-      "Figure 01 robot demos its OpenAI integration",
-      "https://twitter.com/figure_robot/status/1767913661253984474"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-03-13, 10:31:32",
+      "https://news.ycombinator.com/item?id=39689872"
+    ],
+    [
+      "Giant sequoias are a rapidly growing feature of the UK landscape",
+      "https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 06:13:09",
       "https://news.ycombinator.com/item?id=39688545"
     ],
@@ -257,16 +267,6 @@
     [
       "Luster Lost: Pondering the way that physical objects degrade over time",
       "https://tedium.co/2024/03/02/why-physical-objects-decay/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 18:12:33",
-      "https://news.ycombinator.com/item?id=39682852"
-    ],
-    [
-      "Identifying Software",
-      "https://guix.gnu.org/en/blog/2024/identifying-software/"
     ]
   ],
   [
