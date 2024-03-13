@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 17:18:31](https://news.ycombinator.com/item?id=39694366) - [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
 * [2024-03-13, 17:14:43](https://news.ycombinator.com/item?id=39694315) - [UN experts find 'no harmful effects' from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
 * [2024-03-13, 16:33:08](https://news.ycombinator.com/item?id=39693661) - [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
 * [2024-03-13, 16:14:25](https://news.ycombinator.com/item?id=39693368) - [Montana Man Pleads to Federal Charges for Efforts to Create Giant Hybrid Sheep](https://www.justice.gov/opa/pr/montana-man-pleads-guilty-federal-wildlife-trafficking-charges-part-yearslong-effort-create)

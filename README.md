@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 17:18:31](https://news.ycombinator.com/item?id=39694366) - [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
 * [2024-03-13, 17:14:43](https://news.ycombinator.com/item?id=39694315) - [UN experts find 'no harmful effects' from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
 * [2024-03-13, 16:33:08](https://news.ycombinator.com/item?id=39693661) - [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
 * [2024-03-13, 16:13:36](https://news.ycombinator.com/item?id=39693356) - [4,000,000,000,000 Transistors, One Giant Chip (Cerebras WSE-3) [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
@@ -27,7 +28,6 @@
 * [2024-03-12, 18:12:33](https://news.ycombinator.com/item?id=39682852) - [Identifying Software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 17:39:02](https://news.ycombinator.com/item?id=39682424) - [Arthropod Intelligence? The Case for Portia (2020)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.568049/full)
 * [2024-03-12, 17:38:55](https://news.ycombinator.com/item?id=39682422) - [Truffle-1 is an AI inference engine designed to run open source models at home](https://preorder.itsalltruffles.com)
-* [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) is hiring to build an open-source secret management platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
 * [2024-03-12, 08:55:45](https://news.ycombinator.com/item?id=39677451) - [Honeypot Captcha (2007)](https://haacked.com/archive/2007/09/11/honeypot-captcha.aspx/)
 * [2024-03-12, 07:57:42](https://news.ycombinator.com/item?id=39677152) - [Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)](https://www.hemmings.com/stories/article/steaming-sensation-1925-doble)
 
