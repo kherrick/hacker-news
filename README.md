@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-13, 18:56:58](https://news.ycombinator.com/item?id=39695819) - [House passes bill that could ban TikTok](https://www.theverge.com/2024/3/13/24097125/house-bill-vote-tiktok-ban-china-bytedance-divestment)
+* [2024-03-13, 19:16:11](https://news.ycombinator.com/item?id=39696071) - [Boeing overwrote surveillance footage of door plug repair](https://abcnews.go.com/US/boeing-overwrote-surveillance-footage-door-plug-repair-ntsb/story?id=108084196)
 * [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
 * [2024-03-13, 17:17:36](https://news.ycombinator.com/item?id=39694353) - [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
 * [2024-03-13, 16:33:08](https://news.ycombinator.com/item?id=39693661) - [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
@@ -21,7 +21,7 @@
 * [2024-03-13, 10:02:05](https://news.ycombinator.com/item?id=39689685) - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-13, 05:47:36](https://news.ycombinator.com/item?id=39688443) - [Insult Passphrase Generator](https://cheswick.com/insults)
-* [2024-03-13, 03:12:51](https://news.ycombinator.com/item?id=39687729) - [Show HN: I made an AI-first collaborative knowledge base](https://thedrive.ai)
+* [2024-03-13, 03:18:36](https://news.ycombinator.com/item?id=39687762) - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
 * [2024-03-13, 03:09:23](https://news.ycombinator.com/item?id=39687711) - [Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
 * [2024-03-12, 20:59:18](https://news.ycombinator.com/item?id=39684874) - [Show HN: DBOS – Transactional Serverless for TypeScript Apps](https://github.com/dbos-inc/dbos-ts)
 * [2024-03-12, 20:55:59](https://news.ycombinator.com/item?id=39684845) - [Luster Lost: Pondering the way that physical objects degrade over time](https://tedium.co/2024/03/02/why-physical-objects-decay/)
