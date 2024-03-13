@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
 * [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
+* [2024-03-13, 15:19:19](https://news.ycombinator.com/item?id=39692337) - [:syntax off (2016)](https://dudzik.co/digress-into-development/syntax-off/)
 * [2024-03-13, 15:11:00](https://news.ycombinator.com/item?id=39692202) - [US House passes bill to force ByteDance to divest TikTok or face ban](https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/)
 * [2024-03-13, 14:59:01](https://news.ycombinator.com/item?id=39692020) - [Family Dollar to close almost 1,000 stores](https://www.nbcnews.com/business/business-news/family-dollar-closing-nearly-1000-stores-where-why-rcna143148)
 * [2024-03-13, 14:58:19](https://news.ycombinator.com/item?id=39692011) - [So you want to abolish time zones (2015)](https://qntm.org/abolish)
