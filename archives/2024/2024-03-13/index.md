@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 17:54:19](https://news.ycombinator.com/item?id=39694884) - [Star Trek TNG Captain's Chair Heads to Auction in March](https://blog.trekcore.com/2024/03/star-trek-the-next-generation-captains-chair-heads-auction/)
 * [2024-03-13, 17:18:31](https://news.ycombinator.com/item?id=39694366) - [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
 * [2024-03-13, 17:14:43](https://news.ycombinator.com/item?id=39694315) - [UN experts find 'no harmful effects' from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
+* [2024-03-13, 17:02:00](https://news.ycombinator.com/item?id=39694142) - [Intel Continues Prepping the Linux Kernel for X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
 * [2024-03-13, 16:33:08](https://news.ycombinator.com/item?id=39693661) - [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
+* [2024-03-13, 16:23:25](https://news.ycombinator.com/item?id=39693496) - [How to Get Out of Vi (2015)](https://liw.fi/vi/)
 * [2024-03-13, 16:14:25](https://news.ycombinator.com/item?id=39693368) - [Montana Man Pleads to Federal Charges for Efforts to Create Giant Hybrid Sheep](https://www.justice.gov/opa/pr/montana-man-pleads-guilty-federal-wildlife-trafficking-charges-part-yearslong-effort-create)
 * [2024-03-13, 16:13:36](https://news.ycombinator.com/item?id=39693356) - [4B,000 Transistors, One Giant Chip (Cerebras WSE-3) [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
 * [2024-03-13, 16:02:46](https://news.ycombinator.com/item?id=39693169) - [Pi 5 overclocking: Silicon Lottery](https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking)
