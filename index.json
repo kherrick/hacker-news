@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-13, 22:51:10",
+      "https://news.ycombinator.com/item?id=39698546"
+    ],
+    [
+      "LaVague: Open-source Large Action Model to automate Selenium browsing",
+      "https://github.com/lavague-ai/LaVague"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 22:32:12",
       "https://news.ycombinator.com/item?id=39698398"
     ],
@@ -17,6 +27,16 @@
     [
       "Death by Neti Pot",
       "https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 21:45:38",
+      "https://news.ycombinator.com/item?id=39697935"
+    ],
+    [
+      "Spinkube: Running WASM in Kubernetes",
+      "https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-03-13, 13:40:17",
-      "https://news.ycombinator.com/item?id=39691108"
-    ],
-    [
-      "More AR Glasses USB Protocols: The Worse, the Better and the Prettier",
-      "https://voidcomputing.hu/blog/worse-better-prettier/"
-    ]
-  ],
-  [
-    [
       "2024-03-13, 11:53:09",
       "https://news.ycombinator.com/item?id=39690363"
     ],
@@ -257,16 +267,6 @@
     [
       "Giant sequoias are a rapidly growing feature of the UK landscape",
       "https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 06:13:09",
-      "https://news.ycombinator.com/item?id=39688545"
-    ],
-    [
-      "JIT WireGuard",
-      "https://fly.io/blog/jit-wireguard-peers/"
     ]
   ],
   [
