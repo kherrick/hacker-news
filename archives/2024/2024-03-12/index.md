@@ -77,6 +77,7 @@
 * [2024-03-12, 09:43:43](https://news.ycombinator.com/item?id=39677677) - [The internet is slipping out of our reach](https://injuly.in/blog/darker-internet/index.html)
 * [2024-03-12, 09:30:21](https://news.ycombinator.com/item?id=39677611) - [Google Announces Stealing Part of a Production Language Model](https://twitter.com/_akhaliq/status/1767384751269150828)
 * [2024-03-12, 09:10:11](https://news.ycombinator.com/item?id=39677530) - [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
+* [2024-03-12, 08:55:45](https://news.ycombinator.com/item?id=39677451) - [Honeypot Captcha (2007)](https://haacked.com/archive/2007/09/11/honeypot-captcha.aspx/)
 * [2024-03-12, 08:08:32](https://news.ycombinator.com/item?id=39677204) - [Ask HN: How do you optimize your focus?](https://news.ycombinator.com/item?id=39677204)
 * [2024-03-12, 07:54:56](https://news.ycombinator.com/item?id=39677138) - [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children)
 * [2024-03-12, 07:44:19](https://news.ycombinator.com/item?id=39677090) - [The American Fotoplayer](https://www.silentcinemasociety.org/the-american-fotoplayer/)

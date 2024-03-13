@@ -2,7 +2,6 @@
 
 * [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
 * [2024-03-13, 15:19:19](https://news.ycombinator.com/item?id=39692337) - [:syntax off (2016)](https://dudzik.co/digress-into-development/syntax-off/)
-* [2024-03-13, 15:11:00](https://news.ycombinator.com/item?id=39692202) - [US House passes bill to force ByteDance to divest TikTok or face ban](https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/)
 * [2024-03-13, 14:59:01](https://news.ycombinator.com/item?id=39692020) - [Family Dollar to close almost 1,000 stores](https://www.nbcnews.com/business/business-news/family-dollar-closing-nearly-1000-stores-where-why-rcna143148)
 * [2024-03-13, 14:58:19](https://news.ycombinator.com/item?id=39692011) - [So you want to abolish time zones (2015)](https://qntm.org/abolish)
 * [2024-03-13, 14:53:24](https://news.ycombinator.com/item?id=39691921) - [Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
@@ -27,6 +26,7 @@
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) is hiring to build an open-source secret management platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 14:41:08](https://news.ycombinator.com/item?id=39680122) - [Own Your Web – Issue 11: Welcome to the IndieWeb](https://buttondown.email/ownyourweb/archive/issue-11/)
+* [2024-03-12, 08:55:45](https://news.ycombinator.com/item?id=39677451) - [Honeypot Captcha (2007)](https://haacked.com/archive/2007/09/11/honeypot-captcha.aspx/)
 * [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
 * [2024-03-11, 06:42:45](https://news.ycombinator.com/item?id=39665431) - [Proof of the Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/20/svd-proof/)
 * [2024-03-11, 05:43:43](https://news.ycombinator.com/item?id=39665214) - [Spondylus](https://en.wikipedia.org/wiki/Spondylus)
