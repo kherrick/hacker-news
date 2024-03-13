@@ -35,6 +35,7 @@
 * [2024-03-13, 13:05:38](https://news.ycombinator.com/item?id=39690877) - [Warner Bros. Discovery Disappears Games People Already Purchased](https://www.techdirt.com/2024/03/12/warner-bros-discovery-disappears-games-people-already-purchased/)
 * [2024-03-13, 12:47:43](https://news.ycombinator.com/item?id=39690725) - [Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
 * [2024-03-13, 11:53:44](https://news.ycombinator.com/item?id=39690368) - [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
+* [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 * [2024-03-13, 11:51:48](https://news.ycombinator.com/item?id=39690354) - [EU Passes AI Act: First regulation on Artificial Intelligence](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)
 * [2024-03-13, 11:51:48](https://news.ycombinator.com/item?id=39690354) - [Artificial Intelligence Act: MEPs adopt law](https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law)
 * [2024-03-13, 11:33:20](https://news.ycombinator.com/item?id=39690224) - [Interview: Linus Torvalds (1999)](https://www.linuxjournal.com/article/3655)
