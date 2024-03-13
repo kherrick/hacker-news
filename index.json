@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-13, 20:43:14",
-      "https://news.ycombinator.com/item?id=39697217"
-    ],
-    [
-      "Tech Titans Are the Robber Barons of Our Gilded Age",
-      "https://jacobin.com/2024/03/big-tech-apple-epic-regulations/"
-    ]
-  ],
-  [
-    [
       "2024-03-13, 20:17:16",
       "https://news.ycombinator.com/item?id=39696876"
     ],
@@ -27,6 +17,16 @@
     [
       "Arnold Schoenberg Changed Hollywood",
       "https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 20:14:53",
+      "https://news.ycombinator.com/item?id=39696845"
+    ],
+    [
+      "Storybook 8",
+      "https://storybook.js.org/blog/storybook-8/"
     ]
   ],
   [
@@ -155,8 +155,8 @@
       "https://news.ycombinator.com/item?id=39692387"
     ],
     [
-      "Google SIMA",
-      "https://twitter.com/GoogleDeepMind/status/1767918515585994818"
+      "A generalist AI agent for 3D virtual environments",
+      "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-03-13, 05:47:36",
-      "https://news.ycombinator.com/item?id=39688443"
+      "2024-03-12, 20:59:18",
+      "https://news.ycombinator.com/item?id=39684874"
     ],
     [
-      "Insult Passphrase Generator",
-      "https://cheswick.com/insults"
+      "Show HN: DBOS – Transactional Serverless for TypeScript Apps",
+      "https://github.com/dbos-inc/dbos-ts"
     ]
   ],
   [
