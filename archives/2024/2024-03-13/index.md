@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 17:55:37](https://news.ycombinator.com/item?id=39694901) - [Show HN: PromptFox, high quality Midjourney prompts](https://www.promptfox.io/)
 * [2024-03-13, 17:54:19](https://news.ycombinator.com/item?id=39694884) - [Star Trek TNG Captain's Chair Heads to Auction in March](https://blog.trekcore.com/2024/03/star-trek-the-next-generation-captains-chair-heads-auction/)
 * [2024-03-13, 17:18:31](https://news.ycombinator.com/item?id=39694366) - [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
 * [2024-03-13, 17:14:43](https://news.ycombinator.com/item?id=39694315) - [UN experts find 'no harmful effects' from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
@@ -66,6 +67,7 @@
 * [2024-03-13, 04:38:56](https://news.ycombinator.com/item?id=39688165) - [Any Technology Indistinguishable from Magic Is Hiding Something](https://www.fromjason.xyz/p/notebook/any-technology-indistinguishable-from-magic-is-hiding-something/)
 * [2024-03-13, 03:18:36](https://news.ycombinator.com/item?id=39687762) - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
 * [2024-03-13, 03:17:48](https://news.ycombinator.com/item?id=39687755) - [The New Audi A3 Is Amess with In-Car Subscriptions](https://www.motor1.com/news/711957/2025-audi-a3-in-car-subscriptions/)
+* [2024-03-13, 03:12:51](https://news.ycombinator.com/item?id=39687729) - [Show HN: I made an AI-first collaborative knowledge base](https://thedrive.ai)
 * [2024-03-13, 03:09:23](https://news.ycombinator.com/item?id=39687711) - [Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
 * [2024-03-13, 02:41:56](https://news.ycombinator.com/item?id=39687564) - [Apple cider vinegar for weight management](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
 * [2024-03-13, 02:15:16](https://news.ycombinator.com/item?id=39687393) - [Japan's Space One rocket explodes seconds after liftoff](https://twitter.com/BNONews/status/1767735668262752601/video/1)

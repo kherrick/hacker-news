@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 17:55:37](https://news.ycombinator.com/item?id=39694901) - [Show HN: PromptFox, high quality Midjourney prompts](https://www.promptfox.io/)
 * [2024-03-13, 17:54:19](https://news.ycombinator.com/item?id=39694884) - [Star Trek TNG Captain's Chair Heads to Auction in March](https://blog.trekcore.com/2024/03/star-trek-the-next-generation-captains-chair-heads-auction/)
 * [2024-03-13, 17:18:31](https://news.ycombinator.com/item?id=39694366) - [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
 * [2024-03-13, 17:14:43](https://news.ycombinator.com/item?id=39694315) - [UN experts find 'no harmful effects' from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
@@ -22,13 +23,12 @@
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-13, 05:47:36](https://news.ycombinator.com/item?id=39688443) - [Insult Passphrase Generator](https://cheswick.com/insults)
 * [2024-03-13, 03:18:36](https://news.ycombinator.com/item?id=39687762) - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
-* [2024-03-13, 03:09:23](https://news.ycombinator.com/item?id=39687711) - [Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
+* [2024-03-13, 03:12:51](https://news.ycombinator.com/item?id=39687729) - [Show HN: I made an AI-first collaborative knowledge base](https://thedrive.ai)
 * [2024-03-12, 20:55:59](https://news.ycombinator.com/item?id=39684845) - [Luster Lost: Pondering the way that physical objects degrade over time](https://tedium.co/2024/03/02/why-physical-objects-decay/)
 * [2024-03-12, 19:44:18](https://news.ycombinator.com/item?id=39684043) - [I'm excited about Darklang](https://stachu.net/im-really-excited-about-darklang/)
 * [2024-03-12, 18:12:33](https://news.ycombinator.com/item?id=39682852) - [Identifying Software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 17:39:02](https://news.ycombinator.com/item?id=39682424) - [Arthropod Intelligence? The Case for Portia (2020)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.568049/full)
 * [2024-03-12, 17:38:55](https://news.ycombinator.com/item?id=39682422) - [Truffle-1 is an AI inference engine designed to run open source models at home](https://preorder.itsalltruffles.com)
-* [2024-03-12, 08:55:45](https://news.ycombinator.com/item?id=39677451) - [Honeypot Captcha (2007)](https://haacked.com/archive/2007/09/11/honeypot-captcha.aspx/)
 * [2024-03-12, 07:57:42](https://news.ycombinator.com/item?id=39677152) - [Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)](https://www.hemmings.com/stories/article/steaming-sensation-1925-doble)
 
 ## [Archives](archives/index.md)
