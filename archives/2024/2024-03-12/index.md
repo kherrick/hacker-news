@@ -21,6 +21,7 @@
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
+* [2024-03-12, 18:27:55](https://news.ycombinator.com/item?id=39683059) - [Multi-Threading and Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
 * [2024-03-12, 18:24:35](https://news.ycombinator.com/item?id=39683011) - [The Day Soft Deletes Caused Chaos](https://blog.bemi.io/soft-deleting-chaos/)
 * [2024-03-12, 18:00:35](https://news.ycombinator.com/item?id=39682698) - [Boeing whistleblower John Barnett found dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
 * [2024-03-12, 17:44:21](https://news.ycombinator.com/item?id=39682492) - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
