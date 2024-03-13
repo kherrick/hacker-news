@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 10:02:05](https://news.ycombinator.com/item?id=39689685) - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
 * [2024-03-13, 09:49:30](https://news.ycombinator.com/item?id=39689627) - [15 Clicks to install an app from the web using the newly proposed Apple flow](https://twitter.com/xroissance/status/1767570083038081069)
 * [2024-03-13, 09:43:39](https://news.ycombinator.com/item?id=39689607) - [YouTube: The End of the MrBeast Era](https://www.polygon.com/24093399/end-of-mrbeast-youtube-era)
 * [2024-03-13, 09:06:22](https://news.ycombinator.com/item?id=39689383) - [Tor's new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/#google_vignette)
