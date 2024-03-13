@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 22:32:12](https://news.ycombinator.com/item?id=39698398) - [Giant 'sand battery' holds a week's heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
 * [2024-03-13, 21:58:37](https://news.ycombinator.com/item?id=39698087) - [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
 * [2024-03-13, 21:42:32](https://news.ycombinator.com/item?id=39697902) - [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
 * [2024-03-13, 21:07:27](https://news.ycombinator.com/item?id=39697521) - [March 14, 7:00 a.m. CT: Starship's third flight test](https://twitter.com/SpaceX/status/1768004039680426406)
@@ -29,7 +30,6 @@
 * [2024-03-12, 20:55:59](https://news.ycombinator.com/item?id=39684845) - [Luster Lost: Pondering the way that physical objects degrade over time](https://tedium.co/2024/03/02/why-physical-objects-decay/)
 * [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
 * [2024-03-12, 07:57:42](https://news.ycombinator.com/item?id=39677152) - [Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)](https://www.hemmings.com/stories/article/steaming-sensation-1925-doble)
-* [2024-03-11, 11:55:08](https://news.ycombinator.com/item?id=39666976) - [Automakers are sharing consumers' driving behavior with insurance companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
 
 ## [Archives](archives/index.md)
 

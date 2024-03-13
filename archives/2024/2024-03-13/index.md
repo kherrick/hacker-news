@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 22:32:12](https://news.ycombinator.com/item?id=39698398) - [Giant 'sand battery' holds a week's heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
 * [2024-03-13, 21:58:37](https://news.ycombinator.com/item?id=39698087) - [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
 * [2024-03-13, 21:42:32](https://news.ycombinator.com/item?id=39697902) - [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
 * [2024-03-13, 21:29:38](https://news.ycombinator.com/item?id=39697780) - [House votes to force TikTok owner ByteDance to divest or face US ban](https://www.theguardian.com/technology/2024/mar/13/house-passes-tiktok-bill-ban)
