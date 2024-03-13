@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
 * [2024-03-13, 16:14:25](https://news.ycombinator.com/item?id=39693368) - [Montana Man Pleads to Federal Charges for Efforts to Create Giant Hybrid Sheep](https://www.justice.gov/opa/pr/montana-man-pleads-guilty-federal-wildlife-trafficking-charges-part-yearslong-effort-create)
+* [2024-03-13, 16:13:36](https://news.ycombinator.com/item?id=39693356) - [4B,000 Transistors, One Giant Chip (Cerebras WSE-3) [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
 * [2024-03-13, 15:44:29](https://news.ycombinator.com/item?id=39692801) - [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
 * [2024-03-13, 15:37:37](https://news.ycombinator.com/item?id=39692670) - [TikTok crackdown bill passes U.S. House](https://www.cbc.ca/news/world/tiktok-vote-house-5-things-1.7142043)
 * [2024-03-13, 15:30:01](https://news.ycombinator.com/item?id=39692525) - [Wheel falls off United Airlines Boeing 777 and crushes cars in San Francisco](https://www.independent.co.uk/travel/news-and-advice/united-airlines-plane-tire-blowout-boeing-b2509241.html)
@@ -23,6 +24,7 @@
 * [2024-03-13, 14:25:46](https://news.ycombinator.com/item?id=39691591) - [Neil Young: My Return to Low Res Spotify](https://neilyoungarchives.com/news/1/article/MY+RETURN+TO+LOW+RES+SPOTIFY)
 * [2024-03-13, 13:50:18](https://news.ycombinator.com/item?id=39691198) - [United Airlines tells Boeing to stop building Max 10s and to switch to max 9s](https://simpleflying.com/major-blow-united-airlines-tells-boeing-stop-building-max-10s-switch-max-9s/)
 * [2024-03-13, 13:41:59](https://news.ycombinator.com/item?id=39691119) - [Mass Timber Is Great, but It Will Not Solve the Housing Shortage](https://www.construction-physics.com/p/mass-timber-is-great-but-it-will)
+* [2024-03-13, 13:40:17](https://news.ycombinator.com/item?id=39691108) - [More AR Glasses USB Protocols: The Worse, the Better and the Prettier](https://voidcomputing.hu/blog/worse-better-prettier/)
 * [2024-03-13, 13:32:22](https://news.ycombinator.com/item?id=39691055) - [Artificial Intelligence Act: MEPs adopt landmark law](https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law)
 * [2024-03-13, 13:25:56](https://news.ycombinator.com/item?id=39691023) - [Porn Sites Need Age-Verification Systems in Texas, Court Rules](https://arstechnica.com/tech-policy/2024/03/texas-can-require-age-verification-on-porn-sites-5th-circuit-judges-rule/)
 * [2024-03-13, 13:17:09](https://news.ycombinator.com/item?id=39690967) - [Physical Intelligence Is Building AI for Robots, Backed by OpenAI](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai)
