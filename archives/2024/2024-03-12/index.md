@@ -11,6 +11,7 @@
 * [2024-03-12, 21:36:53](https://news.ycombinator.com/item?id=39685272) - [Scammed by the top result for 'Bitcoin wallet' in Apple App Store](https://news.ycombinator.com/item?id=39685272)
 * [2024-03-12, 21:17:22](https://news.ycombinator.com/item?id=39685068) - [LOCS: Language developed at age 9 in Z80 machine code (1988)](https://nanochess.org/locs.html)
 * [2024-03-12, 21:15:23](https://news.ycombinator.com/item?id=39685046) - [40 Years of Programming](https://liw.fi/40/)
+* [2024-03-12, 20:51:27](https://news.ycombinator.com/item?id=39684795) - [The internet isn't dying, it's changing](https://coryd.dev/posts/2024/the-internet-isnt-dying-its-changing/)
 * [2024-03-12, 20:45:33](https://news.ycombinator.com/item?id=39684719) - [Discord to open up developer SDK to enable more games and apps inside platform](https://www.engadget.com/discord-will-soon-offer-more-games-and-apps-inside-its-chats-182540566.html)
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 * [2024-03-12, 20:34:09](https://news.ycombinator.com/item?id=39684588) - [VLC surpasses five billion downloads, preps Vision Pro app](https://www.lowpass.cc/p/vlc-five-billion-downloads-vision-pro-app)
