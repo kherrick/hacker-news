@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 * [2024-03-13, 19:40:35](https://news.ycombinator.com/item?id=39696394) - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
 * [2024-03-13, 19:16:11](https://news.ycombinator.com/item?id=39696071) - [Boeing overwrote surveillance footage of door plug repair](https://abcnews.go.com/US/boeing-overwrote-surveillance-footage-door-plug-repair-ntsb/story?id=108084196)
 * [2024-03-13, 19:03:28](https://news.ycombinator.com/item?id=39695897) - [Don Lemon says Elon Musk canceled his deal with X after 'tense' interview](https://www.cnn.com/2024/03/13/media/don-lemon-says-elon-deal-canceled/index.html)
@@ -21,6 +22,7 @@
 * [2024-03-13, 16:23:25](https://news.ycombinator.com/item?id=39693496) - [How to Get Out of Vi (2015)](https://liw.fi/vi/)
 * [2024-03-13, 16:14:25](https://news.ycombinator.com/item?id=39693368) - [Montana Man Pleads to Federal Charges for Efforts to Create Giant Hybrid Sheep](https://www.justice.gov/opa/pr/montana-man-pleads-guilty-federal-wildlife-trafficking-charges-part-yearslong-effort-create)
 * [2024-03-13, 16:13:36](https://news.ycombinator.com/item?id=39693356) - [4B,000 Transistors, One Giant Chip (Cerebras WSE-3) [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
+* [2024-03-13, 16:05:29](https://news.ycombinator.com/item?id=39693221) - [Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 * [2024-03-13, 16:02:46](https://news.ycombinator.com/item?id=39693169) - [Pi 5 overclocking: Silicon Lottery](https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking)
 * [2024-03-13, 15:44:29](https://news.ycombinator.com/item?id=39692801) - [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
 * [2024-03-13, 15:44:01](https://news.ycombinator.com/item?id=39692794) - [Nvidia founder tells Stanford students their high expectations is a hindrance](https://fortune.com/2024/03/13/nvidia-founder-ceo-jensen_huang-stanford-students-genz-grads-low-expectations-successful/)
