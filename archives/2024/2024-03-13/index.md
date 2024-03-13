@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 20:17:28](https://news.ycombinator.com/item?id=39696880) - [Ford shared driving data to insurance company via LexisNexis](https://old.reddit.com/r/F150Lightning/comments/1bds5x1/so_apparently_my_lightning_has_been_reporting/)
+* [2024-03-13, 20:14:21](https://news.ycombinator.com/item?id=39696836) - [IBM said to be binning off more staff as 'workforce rebalance' continues](https://www.theregister.com/2024/03/12/ibm_reportedly_laying_off_staff/)
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 * [2024-03-13, 19:51:48](https://news.ycombinator.com/item?id=39696534) - [As heat becomes a national threat, who will be protected?](https://grist.org/extreme-heat/extreme-heat-protection-florida-law-athletes-workers/)
 * [2024-03-13, 19:42:50](https://news.ycombinator.com/item?id=39696419) - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
