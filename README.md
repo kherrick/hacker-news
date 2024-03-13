@@ -10,7 +10,6 @@
 * [2024-03-13, 15:14:04](https://news.ycombinator.com/item?id=39692249) - [Show HN: Phospho – Text Analytics for LLM Apps (Posthog for Prompts)](https://github.com/phospho-app/phospho)
 * [2024-03-13, 14:50:40](https://news.ycombinator.com/item?id=39691886) - [Figure 01 robot demos its OpenAI integration](https://twitter.com/figure_robot/status/1767913661253984474)
 * [2024-03-13, 14:43:33](https://news.ycombinator.com/item?id=39691808) - [House passes bill to force TikTok sale from Chinese owner or ban the app](https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html)
-* [2024-03-13, 14:42:55](https://news.ycombinator.com/item?id=39691796) - [Show HN: Caltrans CCTV](https://ctcctv.pages.dev/)
 * [2024-03-13, 14:38:11](https://news.ycombinator.com/item?id=39691735) - [Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
 * [2024-03-13, 13:41:59](https://news.ycombinator.com/item?id=39691119) - [Mass timber is great, but it will not solve the housing shortage](https://www.construction-physics.com/p/mass-timber-is-great-but-it-will)
 * [2024-03-13, 13:40:17](https://news.ycombinator.com/item?id=39691108) - [More AR Glasses USB Protocols: The Worse, the Better and the Prettier](https://voidcomputing.hu/blog/worse-better-prettier/)
@@ -28,6 +27,7 @@
 * [2024-03-12, 18:12:33](https://news.ycombinator.com/item?id=39682852) - [Identifying Software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 17:39:02](https://news.ycombinator.com/item?id=39682424) - [Arthropod Intelligence? The Case for Portia (2020)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.568049/full)
 * [2024-03-12, 17:38:55](https://news.ycombinator.com/item?id=39682422) - [Truffle-1 is an AI inference engine designed to run open source models at home](https://preorder.itsalltruffles.com)
+* [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) is hiring to build an open-source secret management platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
 * [2024-03-12, 08:55:45](https://news.ycombinator.com/item?id=39677451) - [Honeypot Captcha (2007)](https://haacked.com/archive/2007/09/11/honeypot-captcha.aspx/)
 * [2024-03-12, 07:57:42](https://news.ycombinator.com/item?id=39677152) - [Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)](https://www.hemmings.com/stories/article/steaming-sensation-1925-doble)
 
