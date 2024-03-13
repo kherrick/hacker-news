@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
 * [2024-03-13, 21:29:38](https://news.ycombinator.com/item?id=39697780) - [House votes to force TikTok owner ByteDance to divest or face US ban](https://www.theguardian.com/technology/2024/mar/13/house-passes-tiktok-bill-ban)
+* [2024-03-13, 20:59:50](https://news.ycombinator.com/item?id=39697442) - [Claude 3 Haiku: our fastest model yet](https://www.anthropic.com/news/claude-3-haiku)
 * [2024-03-13, 20:43:14](https://news.ycombinator.com/item?id=39697217) - [Tech Titans Are the Robber Barons of Our Gilded Age](https://jacobin.com/2024/03/big-tech-apple-epic-regulations/)
 * [2024-03-13, 20:17:28](https://news.ycombinator.com/item?id=39696880) - [Ford shared driving data to insurance company via LexisNexis](https://old.reddit.com/r/F150Lightning/comments/1bds5x1/so_apparently_my_lightning_has_been_reporting/)
 * [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [AI reveals prostate cancer is not just one disease](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
