@@ -13,6 +13,7 @@
 * [2024-03-13, 21:25:18](https://news.ycombinator.com/item?id=39697731) - [I like automations for inclusive development](https://blog.lmorchard.com/2024/03/13/github-actions-for-didthis/)
 * [2024-03-13, 21:07:27](https://news.ycombinator.com/item?id=39697521) - [March 14, 7:00 a.m. CT: Starship's third flight test](https://twitter.com/SpaceX/status/1768004039680426406)
 * [2024-03-13, 21:07:19](https://news.ycombinator.com/item?id=39697520) - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
+* [2024-03-13, 21:03:29](https://news.ycombinator.com/item?id=39697483) - [OpenAI: Streaming is now available in the Assistants API](https://platform.openai.com/docs/assistants/overview/step-4-create-a-run?context=with-streaming)
 * [2024-03-13, 20:59:50](https://news.ycombinator.com/item?id=39697442) - [Claude 3 Haiku: our fastest model yet](https://www.anthropic.com/news/claude-3-haiku)
 * [2024-03-13, 20:43:14](https://news.ycombinator.com/item?id=39697217) - [Tech Titans Are the Robber Barons of Our Gilded Age](https://jacobin.com/2024/03/big-tech-apple-epic-regulations/)
 * [2024-03-13, 20:32:35](https://news.ycombinator.com/item?id=39697081) - [The Programmers of the Future](https://basedmeditations.substack.com/p/the-programmers-of-the-future)
