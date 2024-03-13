@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 21:58:37](https://news.ycombinator.com/item?id=39698087) - [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
 * [2024-03-13, 21:42:32](https://news.ycombinator.com/item?id=39697902) - [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
-* [2024-03-13, 21:25:18](https://news.ycombinator.com/item?id=39697731) - [I like automations for inclusive development](https://blog.lmorchard.com/2024/03/13/github-actions-for-didthis/)
+* [2024-03-13, 21:07:27](https://news.ycombinator.com/item?id=39697521) - [March 14, 7:00 a.m. CT: Starship's third flight test](https://twitter.com/SpaceX/status/1768004039680426406)
 * [2024-03-13, 21:07:19](https://news.ycombinator.com/item?id=39697520) - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 * [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [Prostate cancer includes two different evotypes](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [How Arnold Schoenberg changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
@@ -22,12 +23,11 @@
 * [2024-03-13, 14:38:11](https://news.ycombinator.com/item?id=39691735) - [Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
 * [2024-03-13, 13:41:59](https://news.ycombinator.com/item?id=39691119) - [Mass timber is great, but it will not solve the housing shortage](https://www.construction-physics.com/p/mass-timber-is-great-but-it-will)
 * [2024-03-13, 13:40:17](https://news.ycombinator.com/item?id=39691108) - [More AR Glasses USB Protocols: The Worse, the Better and the Prettier](https://voidcomputing.hu/blog/worse-better-prettier/)
-* [2024-03-13, 12:47:43](https://news.ycombinator.com/item?id=39690725) - [Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
 * [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 * [2024-03-13, 10:31:32](https://news.ycombinator.com/item?id=39689872) - [Giant sequoias are a rapidly growing feature of the UK landscape](https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-12, 20:55:59](https://news.ycombinator.com/item?id=39684845) - [Luster Lost: Pondering the way that physical objects degrade over time](https://tedium.co/2024/03/02/why-physical-objects-decay/)
-* [2024-03-12, 17:39:02](https://news.ycombinator.com/item?id=39682424) - [Arthropod Intelligence? The Case for Portia (2020)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.568049/full)
+* [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
 * [2024-03-12, 07:57:42](https://news.ycombinator.com/item?id=39677152) - [Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)](https://www.hemmings.com/stories/article/steaming-sensation-1925-doble)
 * [2024-03-11, 11:55:08](https://news.ycombinator.com/item?id=39666976) - [Automakers are sharing consumers' driving behavior with insurance companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
 

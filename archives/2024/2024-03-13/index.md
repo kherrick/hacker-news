@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 21:58:37](https://news.ycombinator.com/item?id=39698087) - [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
 * [2024-03-13, 21:42:32](https://news.ycombinator.com/item?id=39697902) - [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
 * [2024-03-13, 21:29:38](https://news.ycombinator.com/item?id=39697780) - [House votes to force TikTok owner ByteDance to divest or face US ban](https://www.theguardian.com/technology/2024/mar/13/house-passes-tiktok-bill-ban)
 * [2024-03-13, 21:25:18](https://news.ycombinator.com/item?id=39697731) - [I like automations for inclusive development](https://blog.lmorchard.com/2024/03/13/github-actions-for-didthis/)
+* [2024-03-13, 21:07:27](https://news.ycombinator.com/item?id=39697521) - [March 14, 7:00 a.m. CT: Starship's third flight test](https://twitter.com/SpaceX/status/1768004039680426406)
 * [2024-03-13, 21:07:19](https://news.ycombinator.com/item?id=39697520) - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 * [2024-03-13, 20:59:50](https://news.ycombinator.com/item?id=39697442) - [Claude 3 Haiku: our fastest model yet](https://www.anthropic.com/news/claude-3-haiku)
 * [2024-03-13, 20:43:14](https://news.ycombinator.com/item?id=39697217) - [Tech Titans Are the Robber Barons of Our Gilded Age](https://jacobin.com/2024/03/big-tech-apple-epic-regulations/)
