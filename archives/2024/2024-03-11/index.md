@@ -83,6 +83,7 @@
 * [2024-03-11, 12:41:18](https://news.ycombinator.com/item?id=39667456) - [The Mad Stone, the One-Time 'Cure' for Rabies](https://www.atlasobscura.com/articles/mad-stones-rabies-cure-eerie-feeling)
 * [2024-03-11, 12:33:35](https://news.ycombinator.com/item?id=39667372) - [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
 * [2024-03-11, 12:29:57](https://news.ycombinator.com/item?id=39667340) - [The vessel from 2K years ago that functioned as a battery](https://stigmatisnews.wordpress.com/2024/03/11/el-misterio-de-la-pila-de-bagdad-la-vasija-de-hace-2-000-anos-que-funcionaba-como-bateria-y-cuyo-origen-desconocemos/)
+* [2024-03-11, 12:27:29](https://news.ycombinator.com/item?id=39667313) - [Five priceless artifacts of the digital age that sold for peanuts](https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/)
 * [2024-03-11, 12:26:23](https://news.ycombinator.com/item?id=39667294) - [ICLR Blogposts](https://iclr-blogposts.github.io/)
 * [2024-03-11, 12:20:36](https://news.ycombinator.com/item?id=39667234) - [Brits left baffled by Brexit's 'not for EU' food labels](https://www.politico.eu/article/uk-brexit-not-for-eu-food-label/)
 * [2024-03-11, 12:14:10](https://news.ycombinator.com/item?id=39667173) - [The new croissant taking Paris by storm](https://www.bbc.com/travel/article/20240305-the-surprisingly-complicated-history-of-the-croissant)
