@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 17:14:43](https://news.ycombinator.com/item?id=39694315) - [UN experts find 'no harmful effects' from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
+* [2024-03-13, 16:33:08](https://news.ycombinator.com/item?id=39693661) - [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
 * [2024-03-13, 16:14:25](https://news.ycombinator.com/item?id=39693368) - [Montana Man Pleads to Federal Charges for Efforts to Create Giant Hybrid Sheep](https://www.justice.gov/opa/pr/montana-man-pleads-guilty-federal-wildlife-trafficking-charges-part-yearslong-effort-create)
 * [2024-03-13, 16:13:36](https://news.ycombinator.com/item?id=39693356) - [4B,000 Transistors, One Giant Chip (Cerebras WSE-3) [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
 * [2024-03-13, 16:02:46](https://news.ycombinator.com/item?id=39693169) - [Pi 5 overclocking: Silicon Lottery](https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking)
@@ -22,6 +24,7 @@
 * [2024-03-13, 14:53:24](https://news.ycombinator.com/item?id=39691921) - [Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
 * [2024-03-13, 14:50:40](https://news.ycombinator.com/item?id=39691886) - [Figure 01 robot demos its OpenAI integration](https://twitter.com/figure_robot/status/1767913661253984474)
 * [2024-03-13, 14:43:33](https://news.ycombinator.com/item?id=39691808) - [House Passes Bill to Force TikTok Sale From Chinese Owner or Ban the App](https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html)
+* [2024-03-13, 14:42:55](https://news.ycombinator.com/item?id=39691796) - [Show HN: Caltrans CCTV](https://ctcctv.pages.dev/)
 * [2024-03-13, 14:41:59](https://news.ycombinator.com/item?id=39691780) - [What to Do If Your Car Is Submerged in Water](https://www.wsj.com/business/autos/what-to-do-if-your-car-is-submerged-in-water-9755c28c)
 * [2024-03-13, 14:38:11](https://news.ycombinator.com/item?id=39691735) - [Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
 * [2024-03-13, 14:25:46](https://news.ycombinator.com/item?id=39691591) - [Neil Young: My Return to Low Res Spotify](https://neilyoungarchives.com/news/1/article/MY+RETURN+TO+LOW+RES+SPOTIFY)

@@ -30,6 +30,7 @@
 * [2024-03-12, 18:12:33](https://news.ycombinator.com/item?id=39682852) - [Identifying Software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 18:00:35](https://news.ycombinator.com/item?id=39682698) - [Boeing whistleblower John Barnett found dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
 * [2024-03-12, 17:44:21](https://news.ycombinator.com/item?id=39682492) - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
+* [2024-03-12, 17:39:02](https://news.ycombinator.com/item?id=39682424) - [Arthropod Intelligence? The Case for Portia (2020)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.568049/full)
 * [2024-03-12, 17:38:55](https://news.ycombinator.com/item?id=39682422) - [Truffle-1 is an AI inference engine designed to run open source models at home](https://preorder.itsalltruffles.com)
 * [2024-03-12, 17:34:41](https://news.ycombinator.com/item?id=39682366) - [Astro DB](https://astro.build/db/)
 * [2024-03-12, 17:27:28](https://news.ycombinator.com/item?id=39682265) - [Google paid $10M in bug bounty rewards last year](https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/)
