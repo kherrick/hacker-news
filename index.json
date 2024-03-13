@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-03-13, 20:09:26",
+      "https://news.ycombinator.com/item?id=39696769"
+    ],
+    [
+      "Cerebras WSE-3 Chip",
+      "https://www.cerebras.net/product-chip/"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 19:54:30",
       "https://news.ycombinator.com/item?id=39696583"
     ],
@@ -247,16 +257,6 @@
     [
       "JIT WireGuard",
       "https://fly.io/blog/jit-wireguard-peers/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 20:59:18",
-      "https://news.ycombinator.com/item?id=39684874"
-    ],
-    [
-      "Show HN: DBOS – Transactional Serverless for TypeScript Apps",
-      "https://github.com/dbos-inc/dbos-ts"
     ]
   ],
   [
