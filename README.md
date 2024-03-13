@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 11:33:20](https://news.ycombinator.com/item?id=39690224) - [Interview: Linus Torvalds (1999)](https://www.linuxjournal.com/article/3655)
 * [2024-03-13, 10:38:29](https://news.ycombinator.com/item?id=39689912) - [Japan's Space One rocket explodes shortly after launch](https://www.japantimes.co.jp/news/2024/03/13/japan/science-health/space-one-launch/)
 * [2024-03-13, 10:04:53](https://news.ycombinator.com/item?id=39689698) - [The Cordic Algorithm, Theory and FPGA Uses](https://www.adiuvoengineering.com/post/microzed-chronicles-the-cordic-algorithm)
 * [2024-03-13, 10:02:05](https://news.ycombinator.com/item?id=39689685) - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
@@ -15,7 +16,6 @@
 * [2024-03-12, 22:52:40](https://news.ycombinator.com/item?id=39685894) - [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
 * [2024-03-12, 21:17:22](https://news.ycombinator.com/item?id=39685068) - [LOCS: Language developed at age 9 in Z80 machine code (1988)](https://nanochess.org/locs.html)
 * [2024-03-12, 21:15:23](https://news.ycombinator.com/item?id=39685046) - [40 Years of Programming](https://liw.fi/40/)
-* [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 * [2024-03-12, 19:43:18](https://news.ycombinator.com/item?id=39684027) - [Bluesky's stackable approach to moderation](https://bsky.social/about/blog/03-12-2024-stackable-moderation)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:27:55](https://news.ycombinator.com/item?id=39683059) - [Multi-Threading and Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
@@ -24,10 +24,10 @@
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 15:21:18](https://news.ycombinator.com/item?id=39680578) - [Large Language Models Are Neurosymbolic Reasoners](https://arxiv.org/abs/2401.09334)
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
+* [2024-03-12, 12:08:42](https://news.ycombinator.com/item?id=39678532) - [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
 * [2024-03-12, 05:38:29](https://news.ycombinator.com/item?id=39676493) - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
 * [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
 * [2024-03-11, 14:33:26](https://news.ycombinator.com/item?id=39668742) - [The complete story of Gödel incompleteness](https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/)
-* [2024-03-11, 09:31:19](https://news.ycombinator.com/item?id=39666126) - [Study finds that we could lose science if publishers go bankrupt](https://arstechnica.com/science/2024/03/study-finds-that-we-could-lose-science-if-publishers-go-bankrupt/)
 * [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
 * [2024-03-11, 06:42:45](https://news.ycombinator.com/item?id=39665431) - [Proof of the Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/20/svd-proof/)
 

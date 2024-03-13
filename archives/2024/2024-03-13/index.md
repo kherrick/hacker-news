@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 11:33:20](https://news.ycombinator.com/item?id=39690224) - [Interview: Linus Torvalds (1999)](https://www.linuxjournal.com/article/3655)
 * [2024-03-13, 10:38:29](https://news.ycombinator.com/item?id=39689912) - [Japan's Space One rocket explodes shortly after launch](https://www.japantimes.co.jp/news/2024/03/13/japan/science-health/space-one-launch/)
 * [2024-03-13, 10:04:53](https://news.ycombinator.com/item?id=39689698) - [The Cordic Algorithm, Theory and FPGA Uses](https://www.adiuvoengineering.com/post/microzed-chronicles-the-cordic-algorithm)
 * [2024-03-13, 10:02:05](https://news.ycombinator.com/item?id=39689685) - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
