@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 13:32:22](https://news.ycombinator.com/item?id=39691055) - [Artificial Intelligence Act: MEPs adopt landmark law](https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law)
+* [2024-03-13, 13:25:56](https://news.ycombinator.com/item?id=39691023) - [Porn Sites Need Age-Verification Systems in Texas, Court Rules](https://arstechnica.com/tech-policy/2024/03/texas-can-require-age-verification-on-porn-sites-5th-circuit-judges-rule/)
 * [2024-03-13, 13:17:09](https://news.ycombinator.com/item?id=39690967) - [Physical Intelligence Is Building AI for Robots, Backed by OpenAI](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai)
 * [2024-03-13, 13:11:00](https://news.ycombinator.com/item?id=39690917) - [IRS has launched its free tax filing service, Direct File, in 12 states](https://arstechnica.com/tech-policy/2024/03/irs-free-tax-filing-service-now-available-but-most-people-dont-qualify/)
 * [2024-03-13, 11:53:44](https://news.ycombinator.com/item?id=39690368) - [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
