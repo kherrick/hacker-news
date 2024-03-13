@@ -2,7 +2,7 @@
 
 * [2024-03-13, 21:42:32](https://news.ycombinator.com/item?id=39697902) - [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
 * [2024-03-13, 21:25:18](https://news.ycombinator.com/item?id=39697731) - [I like automations for inclusive development](https://blog.lmorchard.com/2024/03/13/github-actions-for-didthis/)
-* [2024-03-13, 20:32:35](https://news.ycombinator.com/item?id=39697081) - [The Programmers of the Future](https://basedmeditations.substack.com/p/the-programmers-of-the-future)
+* [2024-03-13, 21:07:19](https://news.ycombinator.com/item?id=39697520) - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 * [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [Prostate cancer includes two different evotypes](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [How Arnold Schoenberg changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
 * [2024-03-13, 20:14:53](https://news.ycombinator.com/item?id=39696845) - [Storybook 8](https://storybook.js.org/blog/storybook-8/)
