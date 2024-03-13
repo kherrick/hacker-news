@@ -6,6 +6,7 @@
 
 * [2024-03-13, 16:14:25](https://news.ycombinator.com/item?id=39693368) - [Montana Man Pleads to Federal Charges for Efforts to Create Giant Hybrid Sheep](https://www.justice.gov/opa/pr/montana-man-pleads-guilty-federal-wildlife-trafficking-charges-part-yearslong-effort-create)
 * [2024-03-13, 16:13:36](https://news.ycombinator.com/item?id=39693356) - [4B,000 Transistors, One Giant Chip (Cerebras WSE-3) [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
+* [2024-03-13, 16:02:46](https://news.ycombinator.com/item?id=39693169) - [Pi 5 overclocking: Silicon Lottery](https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking)
 * [2024-03-13, 15:44:29](https://news.ycombinator.com/item?id=39692801) - [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
 * [2024-03-13, 15:37:37](https://news.ycombinator.com/item?id=39692670) - [TikTok crackdown bill passes U.S. House](https://www.cbc.ca/news/world/tiktok-vote-house-5-things-1.7142043)
 * [2024-03-13, 15:30:01](https://news.ycombinator.com/item?id=39692525) - [Wheel falls off United Airlines Boeing 777 and crushes cars in San Francisco](https://www.independent.co.uk/travel/news-and-advice/united-airlines-plane-tire-blowout-boeing-b2509241.html)
