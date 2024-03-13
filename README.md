@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [AI reveals prostate cancer is not just one disease](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
+* [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [Arnold Schoenberg Changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 * [2024-03-13, 19:51:48](https://news.ycombinator.com/item?id=39696534) - [As heat becomes a national threat, who will be protected?](https://grist.org/extreme-heat/extreme-heat-protection-florida-law-athletes-workers/)
 * [2024-03-13, 19:42:50](https://news.ycombinator.com/item?id=39696419) - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
@@ -17,7 +18,6 @@
 * [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
 * [2024-03-13, 15:14:04](https://news.ycombinator.com/item?id=39692249) - [Show HN: Phospho – Text Analytics for LLM Apps (Posthog for Prompts)](https://github.com/phospho-app/phospho)
 * [2024-03-13, 14:50:40](https://news.ycombinator.com/item?id=39691886) - [Figure 01 robot demos its OpenAI integration](https://twitter.com/figure_robot/status/1767913661253984474)
-* [2024-03-13, 14:43:33](https://news.ycombinator.com/item?id=39691808) - [House passes bill to force TikTok sale from Chinese owner or ban the app](https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html)
 * [2024-03-13, 14:38:59](https://news.ycombinator.com/item?id=39691749) - [Show HN: FlakeHub Cache: Fast, secure, configurable. A new take on Nix caching](https://determinate.systems/posts/flakehub-cache-beta/)
 * [2024-03-13, 14:38:11](https://news.ycombinator.com/item?id=39691735) - [Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
 * [2024-03-13, 13:41:59](https://news.ycombinator.com/item?id=39691119) - [Mass timber is great, but it will not solve the housing shortage](https://www.construction-physics.com/p/mass-timber-is-great-but-it-will)
