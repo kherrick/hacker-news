@@ -18,6 +18,7 @@
 * [2024-03-12, 20:34:02](https://news.ycombinator.com/item?id=39684585) - [The Spreadsheet Is a Simulation Machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
 * [2024-03-12, 20:27:51](https://news.ycombinator.com/item?id=39684513) - [An Explanation of the Double-Dabble Bin-BCD Conversion Algorithm (2004)](http://cpmarchives.classiccmp.org/cpm/mirrors/cbfalconer.home.att.net/download/dubldabl.txt)
 * [2024-03-12, 20:24:48](https://news.ycombinator.com/item?id=39684472) - [Dutch gov. proudly announces it will tap Europe's largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
+* [2024-03-12, 19:43:18](https://news.ycombinator.com/item?id=39684027) - [Bluesky's stackable approach to moderation](https://bsky.social/about/blog/03-12-2024-stackable-moderation)
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
