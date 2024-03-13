@@ -23,7 +23,7 @@
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic simulation testing for our entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
 * [2024-03-12, 15:21:18](https://news.ycombinator.com/item?id=39680578) - [Large Language Models Are Neurosymbolic Reasoners](https://arxiv.org/abs/2401.09334)
-* [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
+* [2024-03-12, 05:38:29](https://news.ycombinator.com/item?id=39676493) - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa [video]](https://www.youtube.com/watch?v=0ZhHoyqQEhA)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
