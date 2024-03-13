@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 22:59:41](https://news.ycombinator.com/item?id=39698608) - [Michael Saylor's MicroStrategy Raising Another $500M to Buy More Bitcoin](https://www.coindesk.com/business/2024/03/13/michael-saylors-microstrategy-raising-another-500m-to-buy-more-bitcoin/)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
+* [2024-03-13, 22:43:53](https://news.ycombinator.com/item?id=39698488) - [Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
 * [2024-03-13, 22:32:12](https://news.ycombinator.com/item?id=39698398) - [Giant 'sand battery' holds a week's heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
-* [2024-03-13, 21:58:37](https://news.ycombinator.com/item?id=39698087) - [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
 * [2024-03-13, 21:45:38](https://news.ycombinator.com/item?id=39697935) - [Spinkube: Running WASM in Kubernetes](https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s)
 * [2024-03-13, 21:42:32](https://news.ycombinator.com/item?id=39697902) - [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
 * [2024-03-13, 21:07:27](https://news.ycombinator.com/item?id=39697521) - [March 14, 7:00 a.m. CT: Starship's third flight test](https://twitter.com/SpaceX/status/1768004039680426406)
@@ -13,7 +14,6 @@
 * [2024-03-13, 20:14:53](https://news.ycombinator.com/item?id=39696845) - [Storybook 8](https://storybook.js.org/blog/storybook-8/)
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 * [2024-03-13, 19:47:53](https://news.ycombinator.com/item?id=39696482) - [EFF to Ninth Circuit: No Software Exception to Traditional Copyright Limits](https://www.eff.org/deeplinks/2024/03/eff-ninth-circuit-theres-no-software-exception-traditional-copyright-limits)
-* [2024-03-13, 19:40:35](https://news.ycombinator.com/item?id=39696394) - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
 * [2024-03-13, 19:21:53](https://news.ycombinator.com/item?id=39696152) - [BreakTime: Running Breakout inside Google Calendar](https://eieio.games/nonsense/game-13-breaktime/)
 * [2024-03-13, 19:21:10](https://news.ycombinator.com/item?id=39696139) - [A world from a sheet of paper (2023) [video]](https://www.youtube.com/watch?v=8p02DtmyQhU)
 * [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)

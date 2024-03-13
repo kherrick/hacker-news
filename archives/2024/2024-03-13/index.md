@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 22:59:41](https://news.ycombinator.com/item?id=39698608) - [Michael Saylor's MicroStrategy Raising Another $500M to Buy More Bitcoin](https://www.coindesk.com/business/2024/03/13/michael-saylors-microstrategy-raising-another-500m-to-buy-more-bitcoin/)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
+* [2024-03-13, 22:43:53](https://news.ycombinator.com/item?id=39698488) - [Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
 * [2024-03-13, 22:32:12](https://news.ycombinator.com/item?id=39698398) - [Giant 'sand battery' holds a week's heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
 * [2024-03-13, 21:58:37](https://news.ycombinator.com/item?id=39698087) - [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
 * [2024-03-13, 21:45:38](https://news.ycombinator.com/item?id=39697935) - [Spinkube: Running WASM in Kubernetes](https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s)
