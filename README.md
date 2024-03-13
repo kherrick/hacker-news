@@ -6,7 +6,7 @@
 * [2024-03-13, 00:26:45](https://news.ycombinator.com/item?id=39686585) - [Direct File officially opens in 12 pilot states](https://www.irs.gov/newsroom/direct-file-officially-opens-in-12-pilot-states-following-positive-early-reviews-eligible-taxpayers-can-file-online-directly-with-the-irs-for-free)
 * [2024-03-12, 22:52:40](https://news.ycombinator.com/item?id=39685894) - [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
 * [2024-03-12, 22:15:01](https://news.ycombinator.com/item?id=39685590) - [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
-* [2024-03-12, 21:47:51](https://news.ycombinator.com/item?id=39685382) - [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
+* [2024-03-12, 21:36:53](https://news.ycombinator.com/item?id=39685272) - [Scammed by the top result for 'Bitcoin wallet' in Apple App Store](https://news.ycombinator.com/item?id=39685272)
 * [2024-03-12, 21:17:22](https://news.ycombinator.com/item?id=39685068) - [LOCS: Language developed at age 9 in Z80 machine code (1988)](https://nanochess.org/locs.html)
 * [2024-03-12, 21:15:23](https://news.ycombinator.com/item?id=39685046) - [40 Years of Programming](https://liw.fi/40/)
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
