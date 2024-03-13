@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 14:59:01](https://news.ycombinator.com/item?id=39692020) - [Family Dollar to close almost 1,000 stores](https://www.nbcnews.com/business/business-news/family-dollar-closing-nearly-1000-stores-where-why-rcna143148)
+* [2024-03-13, 14:58:19](https://news.ycombinator.com/item?id=39692011) - [So you want to abolish time zones (2015)](https://qntm.org/abolish)
+* [2024-03-13, 14:53:24](https://news.ycombinator.com/item?id=39691921) - [Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
 * [2024-03-13, 14:43:33](https://news.ycombinator.com/item?id=39691808) - [House Passes Bill to Force TikTok Sale From Chinese Owner or Ban the App](https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html)
+* [2024-03-13, 14:41:59](https://news.ycombinator.com/item?id=39691780) - [What to Do If Your Car Is Submerged in Water](https://www.wsj.com/business/autos/what-to-do-if-your-car-is-submerged-in-water-9755c28c)
 * [2024-03-13, 14:38:11](https://news.ycombinator.com/item?id=39691735) - [Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
 * [2024-03-13, 13:50:18](https://news.ycombinator.com/item?id=39691198) - [United Airlines tells Boeing to stop building Max 10s and to switch to max 9s](https://simpleflying.com/major-blow-united-airlines-tells-boeing-stop-building-max-10s-switch-max-9s/)
 * [2024-03-13, 13:32:22](https://news.ycombinator.com/item?id=39691055) - [Artificial Intelligence Act: MEPs adopt landmark law](https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law)
