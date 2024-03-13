@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
 * [2024-03-13, 11:53:44](https://news.ycombinator.com/item?id=39690368) - [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
+* [2024-03-13, 11:51:48](https://news.ycombinator.com/item?id=39690354) - [EU Passes AI Act: First regulation on Artificial Intelligence](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)
 * [2024-03-13, 11:33:20](https://news.ycombinator.com/item?id=39690224) - [Interview: Linus Torvalds (1999)](https://www.linuxjournal.com/article/3655)
 * [2024-03-13, 10:38:29](https://news.ycombinator.com/item?id=39689912) - [Japan's Space One rocket explodes shortly after launch](https://www.japantimes.co.jp/news/2024/03/13/japan/science-health/space-one-launch/)
 * [2024-03-13, 10:31:32](https://news.ycombinator.com/item?id=39689872) - [Giant sequoias are a rapidly growing feature of the UK landscape](https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html)
