@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-03-13, 11:33:20",
-      "https://news.ycombinator.com/item?id=39690224"
+      "2024-03-13, 11:53:44",
+      "https://news.ycombinator.com/item?id=39690368"
     ],
     [
-      "Interview: Linus Torvalds (1999)",
-      "https://www.linuxjournal.com/article/3655"
+      "Show HN: I3wm Alt+Tab Workspace Switcher",
+      "https://news.ycombinator.com/item?id=39690368"
     ]
   ],
   [
     [
-      "2024-03-13, 10:38:29",
-      "https://news.ycombinator.com/item?id=39689912"
+      "2024-03-13, 10:31:32",
+      "https://news.ycombinator.com/item?id=39689872"
     ],
     [
-      "Japan's Space One rocket explodes shortly after launch",
-      "https://www.japantimes.co.jp/news/2024/03/13/japan/science-health/space-one-launch/"
+      "Giant sequoias are a rapidly growing feature of the UK landscape",
+      "https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-03-13, 08:10:33",
-      "https://news.ycombinator.com/item?id=39689090"
-    ],
-    [
-      "Simplicity of IRC (2022)",
-      "https://susam.net/simplicity-of-irc.html"
-    ]
-  ],
-  [
-    [
       "2024-03-13, 06:13:09",
       "https://news.ycombinator.com/item?id=39688545"
     ],
@@ -67,26 +57,6 @@
     [
       "Insult Passphrase Generator",
       "https://cheswick.com/insults"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 05:32:16",
-      "https://news.ycombinator.com/item?id=39688381"
-    ],
-    [
-      "Freenginx: Core Nginx Developer Announces Fork of Popular Web Server",
-      "https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 05:31:53",
-      "https://news.ycombinator.com/item?id=39688380"
-    ],
-    [
-      "TeX Live 2024 released – ISO available for download via torrent file and magnet",
-      "https://www.texastim.dev/texlive/2024/03/12/texlive.html"
     ]
   ],
   [
@@ -151,16 +121,6 @@
   ],
   [
     [
-      "2024-03-12, 21:15:23",
-      "https://news.ycombinator.com/item?id=39685046"
-    ],
-    [
-      "40 Years of Programming",
-      "https://liw.fi/40/"
-    ]
-  ],
-  [
-    [
       "2024-03-12, 19:43:18",
       "https://news.ycombinator.com/item?id=39684027"
     ],
@@ -211,6 +171,16 @@
   ],
   [
     [
+      "2024-03-12, 16:54:10",
+      "https://news.ycombinator.com/item?id=39681812"
+    ],
+    [
+      "Vulkan Foliage rendering using GPU Instancing",
+      "https://www.thegeeko.me/blog/foliage-rendering"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 15:52:35",
       "https://news.ycombinator.com/item?id=39680997"
     ],
@@ -227,6 +197,16 @@
     [
       "Large Language Models Are Neurosymbolic Reasoners",
       "https://arxiv.org/abs/2401.09334"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 14:41:08",
+      "https://news.ycombinator.com/item?id=39680122"
+    ],
+    [
+      "Own Your Web – Issue 11: Welcome to the IndieWeb",
+      "https://buttondown.email/ownyourweb/archive/issue-11/"
     ]
   ],
   [
@@ -251,12 +231,12 @@
   ],
   [
     [
-      "2024-03-12, 05:38:29",
-      "https://news.ycombinator.com/item?id=39676493"
+      "2024-03-12, 06:37:23",
+      "https://news.ycombinator.com/item?id=39676767"
     ],
     [
-      "Using Promise Theory to solve the distributed consensus problem",
-      "https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1"
+      "Cloning a Laptop over NVMe TCP",
+      "https://copyninja.in/blog/clone_laptop_nvmet.html"
     ]
   ],
   [
@@ -271,12 +251,22 @@
   ],
   [
     [
-      "2024-03-11, 14:33:26",
-      "https://news.ycombinator.com/item?id=39668742"
+      "2024-03-11, 20:49:35",
+      "https://news.ycombinator.com/item?id=39673087"
     ],
     [
-      "The complete story of Gödel incompleteness",
-      "https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/"
+      "Webb and Hubble confirm Universe's expansion rate",
+      "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 20:36:34",
+      "https://news.ycombinator.com/item?id=39672965"
+    ],
+    [
+      "How to colorize Game Boy games – Backgrounds",
+      "https://toruzz.com/blog/how-to-colorize-gb-games-04/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Proof of the Singular Value Decomposition",
       "https://gregorygundersen.com/blog/2018/12/20/svd-proof/"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 22:30:15",
+      "https://news.ycombinator.com/item?id=39663046"
+    ],
+    [
+      "To write a great essay, think and care deeply (2015)",
+      "https://www.theatlantic.com/entertainment/archive/2015/06/to-write-a-great-essay-think-and-care-deeply/394628/"
     ]
   ]
 ]
