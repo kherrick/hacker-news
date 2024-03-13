@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 21:29:38](https://news.ycombinator.com/item?id=39697780) - [House votes to force TikTok owner ByteDance to divest or face US ban](https://www.theguardian.com/technology/2024/mar/13/house-passes-tiktok-bill-ban)
 * [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [AI reveals prostate cancer is not just one disease](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [Arnold Schoenberg Changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
 * [2024-03-13, 20:14:53](https://news.ycombinator.com/item?id=39696845) - [Storybook 8](https://storybook.js.org/blog/storybook-8/)
@@ -11,7 +12,6 @@
 * [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
 * [2024-03-13, 17:27:27](https://news.ycombinator.com/item?id=39694505) - [Emulating the DMD 5620 Terminal (2018)](https://loomcom.com/blog/emulating-the-dmd-5620-terminal/)
 * [2024-03-13, 17:17:36](https://news.ycombinator.com/item?id=39694353) - [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
-* [2024-03-13, 16:33:08](https://news.ycombinator.com/item?id=39693661) - [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
 * [2024-03-13, 16:13:36](https://news.ycombinator.com/item?id=39693356) - [4T transistors, one giant chip (Cerebras WSE-3) [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
 * [2024-03-13, 16:05:29](https://news.ycombinator.com/item?id=39693221) - [Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 * [2024-03-13, 16:02:46](https://news.ycombinator.com/item?id=39693169) - [Pi 5 overclocking: Silicon Lottery](https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking)
