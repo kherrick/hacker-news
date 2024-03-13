@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 08:24:20](https://news.ycombinator.com/item?id=39689167) - [Google restricts Gemini chatbot election answers](https://www.bbc.co.uk/news/business-68551206)
 * [2024-03-13, 08:12:14](https://news.ycombinator.com/item?id=39689106) - [OpenDevin](https://twitter.com/JustinLin610/status/1767769034186211557)
-* [2024-03-13, 07:15:42](https://news.ycombinator.com/item?id=39688802) - [Give some new links a chance](https://news.ycombinator.com/newest)
+* [2024-03-13, 08:10:33](https://news.ycombinator.com/item?id=39689090) - [Simplicity of IRC (2022)](https://susam.net/simplicity-of-irc.html)
 * [2024-03-13, 06:25:36](https://news.ycombinator.com/item?id=39688590) - [Google's Ban on Election Queries in Gemini AI Sparks Debate](https://www.cryptopolitan.com/googles-ban-election-queries-in-gemini-ai/)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-13, 05:47:36](https://news.ycombinator.com/item?id=39688443) - [Insult Passphrase Generator](https://cheswick.com/insults)
@@ -11,7 +12,6 @@
 * [2024-03-13, 03:09:23](https://news.ycombinator.com/item?id=39687711) - [Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
 * [2024-03-13, 01:36:14](https://news.ycombinator.com/item?id=39687132) - [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
 * [2024-03-13, 00:26:45](https://news.ycombinator.com/item?id=39686585) - [Direct File officially opens in 12 pilot states](https://www.irs.gov/newsroom/direct-file-officially-opens-in-12-pilot-states-following-positive-early-reviews-eligible-taxpayers-can-file-online-directly-with-the-irs-for-free)
-* [2024-03-12, 22:52:40](https://news.ycombinator.com/item?id=39685894) - [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
 * [2024-03-12, 21:17:22](https://news.ycombinator.com/item?id=39685068) - [LOCS: Language developed at age 9 in Z80 machine code (1988)](https://nanochess.org/locs.html)
 * [2024-03-12, 21:15:23](https://news.ycombinator.com/item?id=39685046) - [40 Years of Programming](https://liw.fi/40/)
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
@@ -19,7 +19,6 @@
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health: study](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
 * [2024-03-12, 18:27:55](https://news.ycombinator.com/item?id=39683059) - [Multi-Threading and Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
-* [2024-03-12, 17:44:21](https://news.ycombinator.com/item?id=39682492) - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
 * [2024-03-12, 17:21:06](https://news.ycombinator.com/item?id=39682183) - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) is hiring to build an open-source secret management platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
 * [2024-03-12, 16:54:39](https://news.ycombinator.com/item?id=39681820) - [Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
@@ -29,6 +28,7 @@
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
 * [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
+* [2024-03-11, 06:42:45](https://news.ycombinator.com/item?id=39665431) - [Proof of the Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/20/svd-proof/)
 * [2024-03-10, 22:30:15](https://news.ycombinator.com/item?id=39663046) - [To write a great essay, think and care deeply (2015)](https://www.theatlantic.com/entertainment/archive/2015/06/to-write-a-great-essay-think-and-care-deeply/394628/)
 
 ## [Archives](archives/index.md)

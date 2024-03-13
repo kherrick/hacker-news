@@ -120,6 +120,7 @@
 * [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
 * [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
+* [2024-03-11, 06:42:45](https://news.ycombinator.com/item?id=39665431) - [Proof of the Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/20/svd-proof/)
 * [2024-03-11, 05:33:37](https://news.ycombinator.com/item?id=39665184) - [The Surprising History of Claims for Life on the Sun (2011)](https://www.researchgate.net/publication/258495524_The_Surprising_History_of_Claims_for_Life_on_the_Sun)
 * [2024-03-11, 05:11:05](https://news.ycombinator.com/item?id=39665090) - [Exploring Bauhaus: Revolutionary Design School That Shaped Modern World](https://www.playforthoughts.com/blog/bauhaus)
 * [2024-03-11, 04:56:36](https://news.ycombinator.com/item?id=39665031) - [The Eames Institute of Infinite Curiosity Now Open to the Public](https://hypebeast.com/2024/3/the-eames-institute-of-infinite-curiosity-opens)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 08:24:20](https://news.ycombinator.com/item?id=39689167) - [Google restricts Gemini chatbot election answers](https://www.bbc.co.uk/news/business-68551206)
 * [2024-03-13, 08:12:14](https://news.ycombinator.com/item?id=39689106) - [OpenDevin](https://twitter.com/JustinLin610/status/1767769034186211557)
+* [2024-03-13, 08:10:33](https://news.ycombinator.com/item?id=39689090) - [Simplicity of IRC (2022)](https://susam.net/simplicity-of-irc.html)
 * [2024-03-13, 07:15:42](https://news.ycombinator.com/item?id=39688802) - [Give some new links a chance](https://news.ycombinator.com/newest)
 * [2024-03-13, 06:25:36](https://news.ycombinator.com/item?id=39688590) - [Google's Ban on Election Queries in Gemini AI Sparks Debate](https://www.cryptopolitan.com/googles-ban-election-queries-in-gemini-ai/)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
