@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 09:06:22](https://news.ycombinator.com/item?id=39689383) - [Tor's new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/#google_vignette)
 * [2024-03-13, 08:24:20](https://news.ycombinator.com/item?id=39689167) - [Google restricts Gemini chatbot election answers](https://www.bbc.co.uk/news/business-68551206)
 * [2024-03-13, 08:10:33](https://news.ycombinator.com/item?id=39689090) - [Simplicity of IRC (2022)](https://susam.net/simplicity-of-irc.html)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
@@ -26,7 +27,6 @@
 * [2024-03-12, 05:38:29](https://news.ycombinator.com/item?id=39676493) - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
-* [2024-03-11, 14:33:26](https://news.ycombinator.com/item?id=39668742) - [The complete story of Gödel incompleteness](https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/)
 * [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
 * [2024-03-11, 06:42:45](https://news.ycombinator.com/item?id=39665431) - [Proof of the Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/20/svd-proof/)
 * [2024-03-10, 22:30:15](https://news.ycombinator.com/item?id=39663046) - [To write a great essay, think and care deeply (2015)](https://www.theatlantic.com/entertainment/archive/2015/06/to-write-a-great-essay-think-and-care-deeply/394628/)
