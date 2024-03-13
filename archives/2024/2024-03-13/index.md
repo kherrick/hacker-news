@@ -9,6 +9,7 @@
 * [2024-03-13, 09:43:39](https://news.ycombinator.com/item?id=39689607) - [YouTube: The End of the MrBeast Era](https://www.polygon.com/24093399/end-of-mrbeast-youtube-era)
 * [2024-03-13, 09:06:22](https://news.ycombinator.com/item?id=39689383) - [Tor's new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/#google_vignette)
 * [2024-03-13, 08:24:20](https://news.ycombinator.com/item?id=39689167) - [Google restricts Gemini chatbot election answers](https://www.bbc.co.uk/news/business-68551206)
+* [2024-03-13, 08:17:45](https://news.ycombinator.com/item?id=39689132) - [Anticipated NSFW AI Chatbots in 2024](https://nextpart.ai/blog/the-4-most-anticipated-nsfw-ai-chatbots-in-2024/)
 * [2024-03-13, 08:12:14](https://news.ycombinator.com/item?id=39689106) - [OpenDevin](https://twitter.com/JustinLin610/status/1767769034186211557)
 * [2024-03-13, 08:10:33](https://news.ycombinator.com/item?id=39689090) - [Simplicity of IRC (2022)](https://susam.net/simplicity-of-irc.html)
 * [2024-03-13, 07:15:42](https://news.ycombinator.com/item?id=39688802) - [Give some new links a chance](https://news.ycombinator.com/newest)

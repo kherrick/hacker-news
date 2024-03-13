@@ -24,6 +24,7 @@
 * [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
 * [2024-03-12, 18:27:55](https://news.ycombinator.com/item?id=39683059) - [Multi-Threading and Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
 * [2024-03-12, 18:24:35](https://news.ycombinator.com/item?id=39683011) - [The Day Soft Deletes Caused Chaos](https://blog.bemi.io/soft-deleting-chaos/)
+* [2024-03-12, 18:12:33](https://news.ycombinator.com/item?id=39682852) - [Identifying Software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 18:00:35](https://news.ycombinator.com/item?id=39682698) - [Boeing whistleblower John Barnett found dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
 * [2024-03-12, 17:44:21](https://news.ycombinator.com/item?id=39682492) - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
 * [2024-03-12, 17:34:41](https://news.ycombinator.com/item?id=39682366) - [Astro DB](https://astro.build/db/)
