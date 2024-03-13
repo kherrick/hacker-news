@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 14:43:33](https://news.ycombinator.com/item?id=39691808) - [House Passes Bill to Force TikTok Sale From Chinese Owner or Ban the App](https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html)
+* [2024-03-13, 14:38:11](https://news.ycombinator.com/item?id=39691735) - [Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
 * [2024-03-13, 13:50:18](https://news.ycombinator.com/item?id=39691198) - [United Airlines tells Boeing to stop building Max 10s and to switch to max 9s](https://simpleflying.com/major-blow-united-airlines-tells-boeing-stop-building-max-10s-switch-max-9s/)
 * [2024-03-13, 13:32:22](https://news.ycombinator.com/item?id=39691055) - [Artificial Intelligence Act: MEPs adopt landmark law](https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law)
 * [2024-03-13, 13:25:56](https://news.ycombinator.com/item?id=39691023) - [Porn Sites Need Age-Verification Systems in Texas, Court Rules](https://arstechnica.com/tech-policy/2024/03/texas-can-require-age-verification-on-porn-sites-5th-circuit-judges-rule/)
 * [2024-03-13, 13:17:09](https://news.ycombinator.com/item?id=39690967) - [Physical Intelligence Is Building AI for Robots, Backed by OpenAI](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai)
 * [2024-03-13, 13:11:00](https://news.ycombinator.com/item?id=39690917) - [IRS has launched its free tax filing service, Direct File, in 12 states](https://arstechnica.com/tech-policy/2024/03/irs-free-tax-filing-service-now-available-but-most-people-dont-qualify/)
+* [2024-03-13, 13:05:38](https://news.ycombinator.com/item?id=39690877) - [Warner Bros. Discovery Disappears Games People Already Purchased](https://www.techdirt.com/2024/03/12/warner-bros-discovery-disappears-games-people-already-purchased/)
 * [2024-03-13, 12:47:43](https://news.ycombinator.com/item?id=39690725) - [Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
 * [2024-03-13, 11:53:44](https://news.ycombinator.com/item?id=39690368) - [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
 * [2024-03-13, 11:51:48](https://news.ycombinator.com/item?id=39690354) - [EU Passes AI Act: First regulation on Artificial Intelligence](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)
