@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 19:40:35](https://news.ycombinator.com/item?id=39696394) - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
 * [2024-03-13, 19:16:11](https://news.ycombinator.com/item?id=39696071) - [Boeing overwrote surveillance footage of door plug repair](https://abcnews.go.com/US/boeing-overwrote-surveillance-footage-door-plug-repair-ntsb/story?id=108084196)
+* [2024-03-13, 19:03:28](https://news.ycombinator.com/item?id=39695897) - [Don Lemon says Elon Musk canceled his deal with X after 'tense' interview](https://www.cnn.com/2024/03/13/media/don-lemon-says-elon-deal-canceled/index.html)
 * [2024-03-13, 18:56:58](https://news.ycombinator.com/item?id=39695819) - [House passes bill that could ban TikTok](https://www.theverge.com/2024/3/13/24097125/house-bill-vote-tiktok-ban-china-bytedance-divestment)
 * [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
 * [2024-03-13, 17:59:45](https://news.ycombinator.com/item?id=39694978) - [Stripe's 2023 Annual Letter](https://stripe.com/en-de/annual-updates/2023)
 * [2024-03-13, 17:55:37](https://news.ycombinator.com/item?id=39694901) - [Show HN: PromptFox, high quality Midjourney prompts](https://www.promptfox.io/)
 * [2024-03-13, 17:54:19](https://news.ycombinator.com/item?id=39694884) - [Star Trek TNG Captain's Chair Heads to Auction in March](https://blog.trekcore.com/2024/03/star-trek-the-next-generation-captains-chair-heads-auction/)
+* [2024-03-13, 17:27:27](https://news.ycombinator.com/item?id=39694505) - [Emulating the DMD 5620 Terminal (2018)](https://loomcom.com/blog/emulating-the-dmd-5620-terminal/)
 * [2024-03-13, 17:18:31](https://news.ycombinator.com/item?id=39694366) - [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
 * [2024-03-13, 17:17:36](https://news.ycombinator.com/item?id=39694353) - [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
 * [2024-03-13, 17:14:43](https://news.ycombinator.com/item?id=39694315) - [UN experts find 'no harmful effects' from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
