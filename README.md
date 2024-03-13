@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 00:04:59](https://news.ycombinator.com/item?id=39686426) - [Airlines Colluded to Ensure Onboard Food Would Be Awful](https://viewfromthewing.com/airlines-colluded-bad-food/)
 * [2024-03-12, 22:52:40](https://news.ycombinator.com/item?id=39685894) - [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
 * [2024-03-12, 22:15:01](https://news.ycombinator.com/item?id=39685590) - [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
 * [2024-03-12, 21:47:51](https://news.ycombinator.com/item?id=39685382) - [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
 * [2024-03-12, 21:17:22](https://news.ycombinator.com/item?id=39685068) - [LOCS: Language developed at age 9 in Z80 machine code (1988)](https://nanochess.org/locs.html)
 * [2024-03-12, 21:15:23](https://news.ycombinator.com/item?id=39685046) - [40 Years of Programming](https://liw.fi/40/)
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
-* [2024-03-12, 20:34:02](https://news.ycombinator.com/item?id=39684585) - [The spreadsheet is a simulation machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
 * [2024-03-12, 20:27:51](https://news.ycombinator.com/item?id=39684513) - [An Explanation of the Double-Dabble Bin-BCD Conversion Algorithm (2004)](http://cpmarchives.classiccmp.org/cpm/mirrors/cbfalconer.home.att.net/download/dubldabl.txt)
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig is sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
@@ -22,7 +22,6 @@
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 15:31:22](https://news.ycombinator.com/item?id=39680712) - [The Fishermen of Aci Trezza (La terra trema)](https://cinemasojourns.com/2024/03/12/the-fishermen-of-aci-trezza/)
 * [2024-03-12, 15:21:23](https://news.ycombinator.com/item?id=39680579) - [Deterministic simulation testing for our entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
-* [2024-03-12, 14:45:52](https://news.ycombinator.com/item?id=39680155) - [The Epson HX-20 – A Contrarian's View (2021)](https://feertech.com/legion/retro/computer/2021/07/12/epson-hx20.html)
 * [2024-03-12, 13:43:08](https://news.ycombinator.com/item?id=39679378) - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
 * [2024-03-12, 12:08:42](https://news.ycombinator.com/item?id=39678532) - [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
@@ -30,6 +29,7 @@
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa [video]](https://www.youtube.com/watch?v=0ZhHoyqQEhA)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
 * [2024-03-11, 14:33:26](https://news.ycombinator.com/item?id=39668742) - [The complete story of Gödel incompleteness](https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/)
+* [2024-03-10, 22:30:15](https://news.ycombinator.com/item?id=39663046) - [To write a great essay, think and care deeply (2015)](https://www.theatlantic.com/entertainment/archive/2015/06/to-write-a-great-essay-think-and-care-deeply/394628/)
 
 ## [Archives](archives/index.md)
 
