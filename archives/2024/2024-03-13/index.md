@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 15:11:00](https://news.ycombinator.com/item?id=39692202) - [US House passes bill to force ByteDance to divest TikTok or face ban](https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/)
 * [2024-03-13, 14:59:01](https://news.ycombinator.com/item?id=39692020) - [Family Dollar to close almost 1,000 stores](https://www.nbcnews.com/business/business-news/family-dollar-closing-nearly-1000-stores-where-why-rcna143148)
 * [2024-03-13, 14:58:19](https://news.ycombinator.com/item?id=39692011) - [So you want to abolish time zones (2015)](https://qntm.org/abolish)
+* [2024-03-13, 14:57:42](https://news.ycombinator.com/item?id=39692000) - [Family dollar to close 1000 stores in 2024](https://www.forbes.com/sites/anafaguy/2024/03/13/nearly-1000-family-dollar-stores-will-close-in-2024-owner-announces)
 * [2024-03-13, 14:53:24](https://news.ycombinator.com/item?id=39691921) - [Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
+* [2024-03-13, 14:50:40](https://news.ycombinator.com/item?id=39691886) - [Figure 01 robot demos its OpenAI integration](https://twitter.com/figure_robot/status/1767913661253984474)
 * [2024-03-13, 14:43:33](https://news.ycombinator.com/item?id=39691808) - [House Passes Bill to Force TikTok Sale From Chinese Owner or Ban the App](https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html)
 * [2024-03-13, 14:41:59](https://news.ycombinator.com/item?id=39691780) - [What to Do If Your Car Is Submerged in Water](https://www.wsj.com/business/autos/what-to-do-if-your-car-is-submerged-in-water-9755c28c)
 * [2024-03-13, 14:38:11](https://news.ycombinator.com/item?id=39691735) - [Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
