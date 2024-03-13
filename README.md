@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-13, 13:50:18](https://news.ycombinator.com/item?id=39691198) - [United Airlines tells Boeing to stop building Max 10s and to switch to max 9s](https://simpleflying.com/major-blow-united-airlines-tells-boeing-stop-building-max-10s-switch-max-9s/)
-* [2024-03-13, 13:25:56](https://news.ycombinator.com/item?id=39691023) - [Porn Sites Need Age-Verification Systems in Texas, Court Rules](https://arstechnica.com/tech-policy/2024/03/texas-can-require-age-verification-on-porn-sites-5th-circuit-judges-rule/)
 * [2024-03-13, 13:17:09](https://news.ycombinator.com/item?id=39690967) - [Physical Intelligence Is Building a Brain for Robots](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai)
 * [2024-03-13, 13:11:00](https://news.ycombinator.com/item?id=39690917) - [IRS has launched its free tax filing service, Direct File, in 12 states](https://arstechnica.com/tech-policy/2024/03/irs-free-tax-filing-service-now-available-but-most-people-dont-qualify/)
 * [2024-03-13, 12:47:43](https://news.ycombinator.com/item?id=39690725) - [Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
@@ -26,6 +25,7 @@
 * [2024-03-12, 14:41:08](https://news.ycombinator.com/item?id=39680122) - [Own Your Web – Issue 11: Welcome to the IndieWeb](https://buttondown.email/ownyourweb/archive/issue-11/)
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
 * [2024-03-12, 03:15:51](https://news.ycombinator.com/item?id=39675807) - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
+* [2024-03-11, 20:49:35](https://news.ycombinator.com/item?id=39673087) - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
 * [2024-03-11, 06:42:45](https://news.ycombinator.com/item?id=39665431) - [Proof of the Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/20/svd-proof/)
