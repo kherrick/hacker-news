@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-13, 20:17:28](https://news.ycombinator.com/item?id=39696880) - [Ford shared driving data to insurance company via LexisNexis](https://old.reddit.com/r/F150Lightning/comments/1bds5x1/so_apparently_my_lightning_has_been_reporting/)
-* [2024-03-13, 20:14:21](https://news.ycombinator.com/item?id=39696836) - [IBM said to be binning off more staff as 'workforce rebalance' continues](https://www.theregister.com/2024/03/12/ibm_reportedly_laying_off_staff/)
+* [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [AI reveals prostate cancer is not just one disease](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 * [2024-03-13, 19:51:48](https://news.ycombinator.com/item?id=39696534) - [As heat becomes a national threat, who will be protected?](https://grist.org/extreme-heat/extreme-heat-protection-florida-law-athletes-workers/)
 * [2024-03-13, 19:42:50](https://news.ycombinator.com/item?id=39696419) - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
 * [2024-03-13, 19:40:35](https://news.ycombinator.com/item?id=39696394) - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
+* [2024-03-13, 19:21:10](https://news.ycombinator.com/item?id=39696139) - [A world from a sheet of paper – Tadashi Tokieda](https://www.youtube.com/watch?v=8p02DtmyQhU)
 * [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
 * [2024-03-13, 17:27:27](https://news.ycombinator.com/item?id=39694505) - [Emulating the DMD 5620 Terminal (2018)](https://loomcom.com/blog/emulating-the-dmd-5620-terminal/)
 * [2024-03-13, 17:17:36](https://news.ycombinator.com/item?id=39694353) - [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
