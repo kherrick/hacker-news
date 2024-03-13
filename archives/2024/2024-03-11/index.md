@@ -121,6 +121,7 @@
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
 * [2024-03-11, 05:33:37](https://news.ycombinator.com/item?id=39665184) - [The Surprising History of Claims for Life on the Sun (2011)](https://www.researchgate.net/publication/258495524_The_Surprising_History_of_Claims_for_Life_on_the_Sun)
 * [2024-03-11, 05:11:05](https://news.ycombinator.com/item?id=39665090) - [Exploring Bauhaus: Revolutionary Design School That Shaped Modern World](https://www.playforthoughts.com/blog/bauhaus)
+* [2024-03-11, 04:56:36](https://news.ycombinator.com/item?id=39665031) - [The Eames Institute of Infinite Curiosity Now Open to the Public](https://hypebeast.com/2024/3/the-eames-institute-of-infinite-curiosity-opens)
 * [2024-03-11, 04:53:41](https://news.ycombinator.com/item?id=39665017) - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
 * [2024-03-11, 04:12:57](https://news.ycombinator.com/item?id=39664860) - [Another open-core project rejecting PR citing paid feature](https://github.com/ToolJet/ToolJet/pull/2303)
 * [2024-03-11, 04:12:51](https://news.ycombinator.com/item?id=39664858) - [NSF funds the development of automated tools to censor speech \"at scale\" [pdf]](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/NSF-Staff-Report_Appendix.pdf)
