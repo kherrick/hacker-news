@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-03-13, 21:03:29",
+      "https://news.ycombinator.com/item?id=39697483"
+    ],
+    [
+      "OpenAI: Streaming is now available in the Assistants API",
+      "https://platform.openai.com/docs/assistants/overview/step-4-create-a-run?context=with-streaming"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 20:17:16",
       "https://news.ycombinator.com/item?id=39696876"
     ],
@@ -217,16 +227,6 @@
     [
       "Show HN: Phospho – Text Analytics for LLM Apps (Posthog for Prompts)",
       "https://github.com/phospho-app/phospho"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 14:38:59",
-      "https://news.ycombinator.com/item?id=39691749"
-    ],
-    [
-      "Show HN: FlakeHub Cache: Fast, secure, configurable. A new take on Nix caching",
-      "https://determinate.systems/posts/flakehub-cache-beta/"
     ]
   ],
   [
