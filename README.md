@@ -2,6 +2,7 @@
 
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-13, 05:47:36](https://news.ycombinator.com/item?id=39688443) - [Insult Passphrase Generator](https://cheswick.com/insults)
+* [2024-03-13, 05:32:16](https://news.ycombinator.com/item?id=39688381) - [Freenginx: Core Nginx Developer Announces Fork of Popular Web Server](https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/)
 * [2024-03-13, 03:18:36](https://news.ycombinator.com/item?id=39687762) - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
 * [2024-03-13, 03:09:23](https://news.ycombinator.com/item?id=39687711) - [Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
 * [2024-03-13, 01:36:14](https://news.ycombinator.com/item?id=39687132) - [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
@@ -28,7 +29,6 @@
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa [video]](https://www.youtube.com/watch?v=0ZhHoyqQEhA)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
-* [2024-03-11, 14:33:26](https://news.ycombinator.com/item?id=39668742) - [The complete story of Gödel incompleteness](https://billwadge.com/2024/03/11/the-complete-story-of-godel-incompleteness/)
 * [2024-03-10, 22:30:15](https://news.ycombinator.com/item?id=39663046) - [To write a great essay, think and care deeply (2015)](https://www.theatlantic.com/entertainment/archive/2015/06/to-write-a-great-essay-think-and-care-deeply/394628/)
 
 ## [Archives](archives/index.md)
