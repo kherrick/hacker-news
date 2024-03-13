@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 07:15:42](https://news.ycombinator.com/item?id=39688802) - [Give some new links a chance](https://news.ycombinator.com/newest)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-13, 05:47:36](https://news.ycombinator.com/item?id=39688443) - [Insult Passphrase Generator](https://cheswick.com/insults)
 * [2024-03-13, 05:32:16](https://news.ycombinator.com/item?id=39688381) - [Freenginx: Core Nginx Developer Announces Fork of Popular Web Server](https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/)

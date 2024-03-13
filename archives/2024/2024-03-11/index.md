@@ -117,6 +117,7 @@
 * [2024-03-11, 08:47:55](https://news.ycombinator.com/item?id=39665939) - [How to Write a (Lisp) Interpreter (In Python)](https://www.norvig.com/lispy.html)
 * [2024-03-11, 08:40:55](https://news.ycombinator.com/item?id=39665906) - [Staff Speak Out at Turing Institute due to four men being given top jobs](https://www.theguardian.com/science/2024/mar/11/staff-at-alan-turing-institute-speak-out-after-four-men-given-top-roles)
 * [2024-03-11, 08:40:43](https://news.ycombinator.com/item?id=39665905) - [Bython: Python with braces. Because Python is awesome, but whitespace is awful](https://pypi.org/project/Bython/)
+* [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
 * [2024-03-11, 08:15:09](https://news.ycombinator.com/item?id=39665804) - [Tim Bray's De-Google Project](https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling)
 * [2024-03-11, 07:41:52](https://news.ycombinator.com/item?id=39665668) - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
 * [2024-03-11, 05:33:37](https://news.ycombinator.com/item?id=39665184) - [The Surprising History of Claims for Life on the Sun (2011)](https://www.researchgate.net/publication/258495524_The_Surprising_History_of_Claims_for_Life_on_the_Sun)

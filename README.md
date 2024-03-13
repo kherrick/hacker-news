@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 07:15:42](https://news.ycombinator.com/item?id=39688802) - [Give some new links a chance](https://news.ycombinator.com/newest)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-13, 05:47:36](https://news.ycombinator.com/item?id=39688443) - [Insult Passphrase Generator](https://cheswick.com/insults)
 * [2024-03-13, 05:32:16](https://news.ycombinator.com/item?id=39688381) - [Freenginx: Core Nginx Developer Announces Fork of Popular Web Server](https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/)
@@ -15,7 +16,6 @@
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health: study](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
 * [2024-03-12, 18:27:55](https://news.ycombinator.com/item?id=39683059) - [Multi-Threading and Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
-* [2024-03-12, 17:44:21](https://news.ycombinator.com/item?id=39682492) - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
 * [2024-03-12, 17:21:06](https://news.ycombinator.com/item?id=39682183) - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
 * [2024-03-12, 17:18:09](https://news.ycombinator.com/item?id=39682143) - [Byte-Sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 * [2024-03-12, 17:00:27](https://news.ycombinator.com/item?id=39681920) - [The NYPD sent a warrantless subpoena for a copwatcher's Twitter account](https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media)
@@ -24,11 +24,11 @@
 * [2024-03-12, 16:54:10](https://news.ycombinator.com/item?id=39681812) - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 15:21:18](https://news.ycombinator.com/item?id=39680578) - [Large Language Models Are Neurosymbolic Reasoners](https://arxiv.org/abs/2401.09334)
-* [2024-03-12, 07:44:19](https://news.ycombinator.com/item?id=39677090) - [The American Fotoplayer](https://www.silentcinemasociety.org/the-american-fotoplayer/)
 * [2024-03-12, 05:38:29](https://news.ycombinator.com/item?id=39676493) - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
 * [2024-03-11, 20:36:34](https://news.ycombinator.com/item?id=39672965) - [How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 * [2024-03-11, 20:35:50](https://news.ycombinator.com/item?id=39672960) - [How engineers straightened the Leaning Tower of Pisa [video]](https://www.youtube.com/watch?v=0ZhHoyqQEhA)
 * [2024-03-11, 19:30:24](https://news.ycombinator.com/item?id=39672330) - [The invention of blue and purple pigments in ancient times (2006)](https://pubs.rsc.org/en/content/articlehtml/2007/cs/b606268g)
+* [2024-03-11, 08:22:18](https://news.ycombinator.com/item?id=39665828) - [Show HN: Pywebview 5](https://pywebview.flowrl.com/blog/pywebview5.html)
 * [2024-03-10, 22:30:15](https://news.ycombinator.com/item?id=39663046) - [To write a great essay, think and care deeply (2015)](https://www.theatlantic.com/entertainment/archive/2015/06/to-write-a-great-essay-think-and-care-deeply/394628/)
 
 ## [Archives](archives/index.md)
