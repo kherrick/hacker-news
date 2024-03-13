@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 13:17:09](https://news.ycombinator.com/item?id=39690967) - [Physical Intelligence Is Building AI for Robots, Backed by OpenAI](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai)
 * [2024-03-13, 11:53:44](https://news.ycombinator.com/item?id=39690368) - [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
 * [2024-03-13, 11:51:48](https://news.ycombinator.com/item?id=39690354) - [EU Passes AI Act: First regulation on Artificial Intelligence](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)
 * [2024-03-13, 11:33:20](https://news.ycombinator.com/item?id=39690224) - [Interview: Linus Torvalds (1999)](https://www.linuxjournal.com/article/3655)
