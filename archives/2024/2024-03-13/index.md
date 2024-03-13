@@ -10,6 +10,7 @@
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [Arnold Schoenberg Changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
 * [2024-03-13, 20:14:53](https://news.ycombinator.com/item?id=39696845) - [Storybook 8](https://storybook.js.org/blog/storybook-8/)
 * [2024-03-13, 20:14:21](https://news.ycombinator.com/item?id=39696836) - [IBM said to be binning off more staff as 'workforce rebalance' continues](https://www.theregister.com/2024/03/12/ibm_reportedly_laying_off_staff/)
+* [2024-03-13, 20:09:26](https://news.ycombinator.com/item?id=39696769) - [Cerebras WSE-3 Chip](https://www.cerebras.net/product-chip/)
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 * [2024-03-13, 19:51:48](https://news.ycombinator.com/item?id=39696534) - [As heat becomes a national threat, who will be protected?](https://grist.org/extreme-heat/extreme-heat-protection-florida-law-athletes-workers/)
 * [2024-03-13, 19:42:50](https://news.ycombinator.com/item?id=39696419) - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
