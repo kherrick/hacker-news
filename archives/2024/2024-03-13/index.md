@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
 * [2024-03-13, 09:49:30](https://news.ycombinator.com/item?id=39689627) - [15 Clicks to install an app from the web using the newly proposed Apple flow](https://twitter.com/xroissance/status/1767570083038081069)
+* [2024-03-13, 09:43:39](https://news.ycombinator.com/item?id=39689607) - [YouTube: The End of the MrBeast Era](https://www.polygon.com/24093399/end-of-mrbeast-youtube-era)
 * [2024-03-13, 09:06:22](https://news.ycombinator.com/item?id=39689383) - [Tor's new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/#google_vignette)
 * [2024-03-13, 08:24:20](https://news.ycombinator.com/item?id=39689167) - [Google restricts Gemini chatbot election answers](https://www.bbc.co.uk/news/business-68551206)
 * [2024-03-13, 08:12:14](https://news.ycombinator.com/item?id=39689106) - [OpenDevin](https://twitter.com/JustinLin610/status/1767769034186211557)
