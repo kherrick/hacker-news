@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-13, 20:43:14](https://news.ycombinator.com/item?id=39697217) - [Tech Titans Are the Robber Barons of Our Gilded Age](https://jacobin.com/2024/03/big-tech-apple-epic-regulations/)
 * [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [AI reveals prostate cancer is not just one disease](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [Arnold Schoenberg Changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
-* [2024-03-13, 19:51:48](https://news.ycombinator.com/item?id=39696534) - [As heat becomes a national threat, who will be protected?](https://grist.org/extreme-heat/extreme-heat-protection-florida-law-athletes-workers/)
 * [2024-03-13, 19:42:50](https://news.ycombinator.com/item?id=39696419) - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
 * [2024-03-13, 19:40:35](https://news.ycombinator.com/item?id=39696394) - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
 * [2024-03-13, 19:21:10](https://news.ycombinator.com/item?id=39696139) - [A world from a sheet of paper – Tadashi Tokieda](https://www.youtube.com/watch?v=8p02DtmyQhU)

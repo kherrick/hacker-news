@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 20:43:14](https://news.ycombinator.com/item?id=39697217) - [Tech Titans Are the Robber Barons of Our Gilded Age](https://jacobin.com/2024/03/big-tech-apple-epic-regulations/)
 * [2024-03-13, 20:17:28](https://news.ycombinator.com/item?id=39696880) - [Ford shared driving data to insurance company via LexisNexis](https://old.reddit.com/r/F150Lightning/comments/1bds5x1/so_apparently_my_lightning_has_been_reporting/)
 * [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [AI reveals prostate cancer is not just one disease](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [Arnold Schoenberg Changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
