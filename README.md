@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-13, 13:17:09](https://news.ycombinator.com/item?id=39690967) - [Physical Intelligence Is Building AI for Robots, Backed by OpenAI](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai)
+* [2024-03-13, 13:11:00](https://news.ycombinator.com/item?id=39690917) - [IRS has launched its free tax filing service, Direct File, in 12 states](https://arstechnica.com/tech-policy/2024/03/irs-free-tax-filing-service-now-available-but-most-people-dont-qualify/)
 * [2024-03-13, 11:53:44](https://news.ycombinator.com/item?id=39690368) - [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
 * [2024-03-13, 10:31:32](https://news.ycombinator.com/item?id=39689872) - [Giant sequoias are a rapidly growing feature of the UK landscape](https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html)
 * [2024-03-13, 10:02:05](https://news.ycombinator.com/item?id=39689685) - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
@@ -17,7 +18,6 @@
 * [2024-03-12, 18:12:33](https://news.ycombinator.com/item?id=39682852) - [Identifying Software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 17:21:06](https://news.ycombinator.com/item?id=39682183) - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
 * [2024-03-12, 17:00:26](https://news.ycombinator.com/item?id=39681919) - [Infisical (YC W23) is hiring to build an open-source secret management platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
-* [2024-03-12, 16:54:10](https://news.ycombinator.com/item?id=39681812) - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
 * [2024-03-12, 15:52:35](https://news.ycombinator.com/item?id=39680997) - [Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-12, 14:41:08](https://news.ycombinator.com/item?id=39680122) - [Own Your Web – Issue 11: Welcome to the IndieWeb](https://buttondown.email/ownyourweb/archive/issue-11/)
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
