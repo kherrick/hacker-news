@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 12:42:42](https://news.ycombinator.com/item?id=39703173) - [I Always Knew I Was Different. I Just Didn't Know I Was a Sociopath](https://www.wsj.com/health/wellness/i-always-knew-i-was-different-i-just-didnt-know-i-was-a-sociopath-68ebe08b)
 * [2024-03-14, 12:27:42](https://news.ycombinator.com/item?id=39703010) - [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-03-14, 12:17:39](https://news.ycombinator.com/item?id=39702915) - [Boeing overwrote security camera footage of repair work on Alaska door plug](https://www.axios.com/2024/03/13/boeing-video-footage-overwrite-erased-door-plug-alaska)
+* [2024-03-14, 12:10:53](https://news.ycombinator.com/item?id=39702838) - [How long is your child's lunch break? In France they get 2 hours (2012)](https://karenlebillon.com/2012/04/18/how-long-is-your-kids-lunch-break-in-france-they-get-2-hours/)
+* [2024-03-14, 12:03:48](https://news.ycombinator.com/item?id=39702774) - [NIH Researchers Identify Brain Connections Associated with ADHD in Youth](https://www.nimh.nih.gov/news/science-news/2024/nih-researchers-identify-brain-connections-associated-with-adhd-in-youth)
 * [2024-03-14, 12:01:58](https://news.ycombinator.com/item?id=39702752) - [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems](https://www.youtube.com/watch?v=fcP07Rx7TVM)
 * [2024-03-14, 11:42:58](https://news.ycombinator.com/item?id=39702610) - [What happens when an HTTP client raises $225M at a $5.6B valuation](https://twitter.com/ImSh4yy/status/1768131911379992921)
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
