@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 22:24:57](https://news.ycombinator.com/item?id=39709657) - [Ban on same-sex marriage unconstitutional, Sapporo High Court rules](https://www.japantimes.co.jp/news/2024/03/14/japan/crime-legal/same-sex-marriage-ruling/)
 * [2024-03-14, 22:19:51](https://news.ycombinator.com/item?id=39709617) - [H.R.1332 – Thirty-Two Hour Workweek Act](https://www.congress.gov/bill/118th-congress/house-bill/1332)
 * [2024-03-14, 21:17:33](https://news.ycombinator.com/item?id=39709089) - [CEO of Data Privacy Company Onerep.com Founded People-Search Firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
 * [2024-03-14, 21:04:14](https://news.ycombinator.com/item?id=39708957) - [FCC Officially Raises Minimum Broadband Metric from 25Mbps to 100Mbps](https://www.pcmag.com/news/fcc-officially-raises-minimum-broadband-metric-from-25mbps-to-100mbps)

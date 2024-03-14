@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-14, 22:19:51](https://news.ycombinator.com/item?id=39709617) - [H.R.1332 – Thirty-Two Hour Workweek Act](https://www.congress.gov/bill/118th-congress/house-bill/1332)
+* [2024-03-14, 22:24:57](https://news.ycombinator.com/item?id=39709657) - [Ban on same-sex marriage unconstitutional, Sapporo High Court rules](https://www.japantimes.co.jp/news/2024/03/14/japan/crime-legal/same-sex-marriage-ruling/)
 * [2024-03-14, 21:17:33](https://news.ycombinator.com/item?id=39709089) - [CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
 * [2024-03-14, 21:04:14](https://news.ycombinator.com/item?id=39708957) - [FCC Officially Raises Minimum Broadband Metric from 25Mbps to 100Mbps](https://www.pcmag.com/news/fcc-officially-raises-minimum-broadband-metric-from-25mbps-to-100mbps)
 * [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
@@ -24,9 +24,9 @@
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon passes right-to-repair law Apple lobbied to kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 11:18:09](https://news.ycombinator.com/item?id=39702457) - [Real time weather balloon tracking](https://sondehub.org)
+* [2024-03-14, 10:41:00](https://news.ycombinator.com/item?id=39702224) - [Following the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 09:26:14](https://news.ycombinator.com/item?id=39701848) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
-* [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 * [2024-03-14, 06:52:40](https://news.ycombinator.com/item?id=39701177) - [Vancouver’s new mega-development is big, ambitious and Indigenous](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-12, 14:48:50](https://news.ycombinator.com/item?id=39680187) - [Pacing: the most important skill in startup engineering leadership](https://danielmangum.com/posts/most-important-skill-startup-engineering-leadership/)
