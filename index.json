@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 09:45:05",
+      "https://news.ycombinator.com/item?id=39701931"
+    ],
+    [
+      "Reverse engineering a car key fob signal",
+      "https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 09:15:47",
       "https://news.ycombinator.com/item?id=39701791"
     ],
@@ -17,16 +27,6 @@
     [
       "I summarized my understanding of Linux systems",
       "https://github.com/lsc4719/MyViewOfLinuxSystems"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 07:10:24",
-      "https://news.ycombinator.com/item?id=39701261"
-    ],
-    [
-      "SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims",
-      "https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-03-13, 16:05:29",
-      "https://news.ycombinator.com/item?id=39693221"
+      "2024-03-13, 15:44:29",
+      "https://news.ycombinator.com/item?id=39692801"
     ],
     [
-      "Marcel Grossmann and his contribution to the general theory of relativity",
-      "https://ar5iv.labs.arxiv.org/html/1312.4068"
+      "Show HN: Flox 1.0 – Open-source dev env as code with Nix",
+      "https://github.com/flox/flox"
     ]
   ],
   [
