@@ -2,6 +2,7 @@
 
 * [2024-03-14, 10:41:00](https://news.ycombinator.com/item?id=39702224) - [For God's Sake, Follow the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
 * [2024-03-14, 10:39:00](https://news.ycombinator.com/item?id=39702211) - [March 14 (3/14): Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
+* [2024-03-14, 10:09:35](https://news.ycombinator.com/item?id=39702053) - [British spy had governments on both sides of the war paying for his girlfriends](https://en.wikipedia.org/wiki/Eddie_Chapman)
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 09:15:47](https://news.ycombinator.com/item?id=39701791) - [Swedish data brokers claim journalists' legal protection to evade EU law](https://noyb.eu/en/swedish-data-brokers-claim-journalists-legal-protection-evade-eu-law)
 * [2024-03-14, 08:15:18](https://news.ycombinator.com/item?id=39701502) - [FCC Denies Starlink Low-Orbit Bid for Lower Latency](https://spectrum.ieee.org/starlink-vleo-below-iss)
@@ -12,7 +13,6 @@
 * [2024-03-14, 03:54:30](https://news.ycombinator.com/item?id=39700443) - [HTTP/2 and HTTP/3 explained](https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for others but mostly for yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
-* [2024-03-14, 00:41:35](https://news.ycombinator.com/item?id=39699333) - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
 * [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
 * [2024-03-13, 22:48:18](https://news.ycombinator.com/item?id=39698520) - [What Is Enlightenment? (1784)](https://web.archive.org/web/20240314052227/http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)
