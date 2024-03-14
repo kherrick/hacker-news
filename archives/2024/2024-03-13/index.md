@@ -45,6 +45,7 @@
 * [2024-03-13, 17:59:45](https://news.ycombinator.com/item?id=39694978) - [Stripe's 2023 Annual Letter](https://stripe.com/en-de/annual-updates/2023)
 * [2024-03-13, 17:55:37](https://news.ycombinator.com/item?id=39694901) - [Show HN: PromptFox, high quality Midjourney prompts](https://www.promptfox.io/)
 * [2024-03-13, 17:54:19](https://news.ycombinator.com/item?id=39694884) - [Star Trek TNG Captain's Chair Heads to Auction in March](https://blog.trekcore.com/2024/03/star-trek-the-next-generation-captains-chair-heads-auction/)
+* [2024-03-13, 17:51:51](https://news.ycombinator.com/item?id=39694854) - [What would an LLM OS look like?](https://campedersen.com/llm-os/)
 * [2024-03-13, 17:27:27](https://news.ycombinator.com/item?id=39694505) - [Emulating the DMD 5620 Terminal (2018)](https://loomcom.com/blog/emulating-the-dmd-5620-terminal/)
 * [2024-03-13, 17:18:31](https://news.ycombinator.com/item?id=39694366) - [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
 * [2024-03-13, 17:17:36](https://news.ycombinator.com/item?id=39694353) - [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
