@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 15:11:46](https://news.ycombinator.com/item?id=39705043) - [You don't have to be a \"content creator\" to have a website](https://ohhelloana.blog/just-get-a-website/)
 * [2024-03-14, 14:25:14](https://news.ycombinator.com/item?id=39704430) - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
-* [2024-03-14, 14:18:00](https://news.ycombinator.com/item?id=39704339) - [Ask an Algo Dev – 6 HRT quants answer common questions about their role [video]](https://www.youtube.com/watch?v=VRpxqtA_Nlk)
+* [2024-03-14, 14:15:25](https://news.ycombinator.com/item?id=39704308) - [Die shots and transistor-level debugging on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2024/die-shots-and-transistor-level-debugging-on-raspberry-pi-5)
 * [2024-03-14, 14:15:03](https://news.ycombinator.com/item?id=39704304) - [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
 * [2024-03-14, 13:57:54](https://news.ycombinator.com/item?id=39704082) - [The neuroscientist formerly known as Prince's audio engineer](https://www.nature.com/articles/d41586-024-00791-5)
 * [2024-03-14, 13:19:54](https://news.ycombinator.com/item?id=39703625) - [Chainguard Images now available on Docker Hub](https://www.chainguard.dev/unchained/chainguard-images-now-available-on-docker-hub)
@@ -23,7 +24,6 @@
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for others but mostly for yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
 * [2024-03-13, 16:55:24](https://news.ycombinator.com/item?id=39694045) - [Ibis, a federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
-* [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 * [2024-03-12, 19:06:03](https://news.ycombinator.com/item?id=39683501) - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
 * [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 12:50:21](https://news.ycombinator.com/item?id=39678857) - [Building for Builders](https://deven.codes/posts/building-for-builders/)

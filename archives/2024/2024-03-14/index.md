@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 15:11:46](https://news.ycombinator.com/item?id=39705043) - [You don't have to be a \"content creator\" to have a website](https://ohhelloana.blog/just-get-a-website/)
 * [2024-03-14, 14:25:14](https://news.ycombinator.com/item?id=39704430) - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
 * [2024-03-14, 14:18:00](https://news.ycombinator.com/item?id=39704339) - [Ask an Algo Dev – 6 HRT quants answer common questions about their role](https://www.youtube.com/watch?v=VRpxqtA_Nlk)
+* [2024-03-14, 14:15:25](https://news.ycombinator.com/item?id=39704308) - [Die shots and transistor-level debugging on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2024/die-shots-and-transistor-level-debugging-on-raspberry-pi-5)
 * [2024-03-14, 14:15:03](https://news.ycombinator.com/item?id=39704304) - [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
 * [2024-03-14, 14:00:50](https://news.ycombinator.com/item?id=39704116) - [Judge rules Craig Wright is not Satoshi Nakamoto](https://cointelegraph.com/news/craig-wright-not-satoshi-nakamoto)
 * [2024-03-14, 13:57:54](https://news.ycombinator.com/item?id=39704082) - [The neuroscientist formerly known as Prince's audio engineer](https://www.nature.com/articles/d41586-024-00791-5)
