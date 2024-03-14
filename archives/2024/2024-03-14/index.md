@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 11:42:58](https://news.ycombinator.com/item?id=39702610) - [What happens when an HTTP client raises $225M at a $5.6B valuation](https://twitter.com/ImSh4yy/status/1768131911379992921)
+* [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
+* [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
+* [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 10:57:58](https://news.ycombinator.com/item?id=39702323) - [The Violence of Relentless Positivity in the Workplace](https://ludic.mataroa.blog/blog/the-violent-role-of-relentless-positivity-in-the-workplace/)
 * [2024-03-14, 10:41:00](https://news.ycombinator.com/item?id=39702224) - [For God's Sake, Follow the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
 * [2024-03-14, 10:39:00](https://news.ycombinator.com/item?id=39702211) - [March 14 (3/14): Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
