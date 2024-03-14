@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-03-14, 00:11:34",
+      "https://news.ycombinator.com/item?id=39699131"
+    ],
+    [
+      "Linux 6.9 Makes a Change to Satisfy Microsoft for EFI x86 Shim Loader Signing",
+      "https://www.phoronix.com/news/Linux-6.9-EFI-Updates"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 00:06:57",
+      "https://news.ycombinator.com/item?id=39699100"
+    ],
+    [
+      "Experienced engineers are struggling to get hired",
+      "https://twitter.com/Carnage4Life/status/1767527635297722786"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 23:36:06",
+      "https://news.ycombinator.com/item?id=39698879"
+    ],
+    [
+      "Unreleased preview of Microsoft's OS/2 2.0 is a glimpse down a road not taken",
+      "https://arstechnica.com/gadgets/2024/03/unreleased-preview-version-of-microsofts-os-2-2-0-posted-to-internet-archive/"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 22:59:41",
       "https://news.ycombinator.com/item?id=39698608"
     ],
@@ -17,16 +47,6 @@
     [
       "LaVague: Open-source Large Action Model to automate Selenium browsing",
       "https://github.com/lavague-ai/LaVague"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 22:43:53",
-      "https://news.ycombinator.com/item?id=39698488"
-    ],
-    [
-      "Projective Geometric Algebra",
-      "https://projectivegeometricalgebra.org/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "How Arnold Schoenberg changed Hollywood",
       "https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 20:14:53",
-      "https://news.ycombinator.com/item?id=39696845"
-    ],
-    [
-      "Storybook 8",
-      "https://storybook.js.org/blog/storybook-8/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-03-13, 15:14:04",
-      "https://news.ycombinator.com/item?id=39692249"
-    ],
-    [
-      "Show HN: Phospho – Text Analytics for LLM Apps (Posthog for Prompts)",
-      "https://github.com/phospho-app/phospho"
-    ]
-  ],
-  [
-    [
       "2024-03-13, 14:38:11",
       "https://news.ycombinator.com/item?id=39691735"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-03-12, 20:55:59",
-      "https://news.ycombinator.com/item?id=39684845"
+      "2024-03-12, 12:36:44",
+      "https://news.ycombinator.com/item?id=39678745"
     ],
     [
-      "Luster Lost: Pondering the way that physical objects degrade over time",
-      "https://tedium.co/2024/03/02/why-physical-objects-decay/"
+      "YX Problem",
+      "https://www.sicpers.info/2024/03/yx-problem/"
     ]
   ],
   [
