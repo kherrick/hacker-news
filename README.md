@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
+* [2024-03-14, 07:10:24](https://news.ycombinator.com/item?id=39701261) - [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
+* [2024-03-14, 06:52:40](https://news.ycombinator.com/item?id=39701177) - [Vancouver's New Mega-Development](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
 * [2024-03-14, 04:47:45](https://news.ycombinator.com/item?id=39700692) - [Resolume](https://www.resolume.com/)
 * [2024-03-14, 03:54:58](https://news.ycombinator.com/item?id=39700448) - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
@@ -15,7 +18,6 @@
 * [2024-03-13, 21:07:19](https://news.ycombinator.com/item?id=39697520) - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 * [2024-03-13, 21:03:29](https://news.ycombinator.com/item?id=39697483) - [OpenAI: Streaming is now available in the Assistants API](https://platform.openai.com/docs/assistants/overview/step-4-create-a-run?context=with-streaming)
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [How Arnold Schoenberg changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
-* [2024-03-13, 19:47:53](https://news.ycombinator.com/item?id=39696482) - [EFF to Ninth Circuit: No Software Exception to Traditional Copyright Limits](https://www.eff.org/deeplinks/2024/03/eff-ninth-circuit-theres-no-software-exception-traditional-copyright-limits)
 * [2024-03-13, 19:21:53](https://news.ycombinator.com/item?id=39696152) - [BreakTime: Running Breakout inside Google Calendar](https://eieio.games/nonsense/game-13-breaktime/)
 * [2024-03-13, 19:21:10](https://news.ycombinator.com/item?id=39696139) - [A world from a sheet of paper (2023) [video]](https://www.youtube.com/watch?v=8p02DtmyQhU)
 * [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
@@ -25,11 +27,9 @@
 * [2024-03-13, 15:44:29](https://news.ycombinator.com/item?id=39692801) - [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
 * [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 * [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
-* [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 12:36:44](https://news.ycombinator.com/item?id=39678745) - [YX Problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
-* [2024-03-12, 06:06:06](https://news.ycombinator.com/item?id=39676636) - [The Battles over Beginnings](https://aeon.co/essays/machiavelli-on-the-problem-of-our-impure-beginnings)
 
 ## [Archives](archives/index.md)
 
