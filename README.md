@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-14, 02:22:48](https://news.ycombinator.com/item?id=39699996) - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
+* [2024-03-14, 01:34:01](https://news.ycombinator.com/item?id=39699725) - [Chasing Passive Income, Americans Turn to Vending Machines](https://www.wsj.com/personal-finance/passive-income-money-vending-machines-41800d11)
 * [2024-03-14, 00:41:35](https://news.ycombinator.com/item?id=39699333) - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
 * [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
@@ -8,7 +9,6 @@
 * [2024-03-13, 21:45:38](https://news.ycombinator.com/item?id=39697935) - [Spinkube: Running WASM in Kubernetes](https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s)
 * [2024-03-13, 21:07:19](https://news.ycombinator.com/item?id=39697520) - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 * [2024-03-13, 21:03:29](https://news.ycombinator.com/item?id=39697483) - [OpenAI: Streaming is now available in the Assistants API](https://platform.openai.com/docs/assistants/overview/step-4-create-a-run?context=with-streaming)
-* [2024-03-13, 20:17:16](https://news.ycombinator.com/item?id=39696876) - [Prostate cancer includes two different evotypes](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [How Arnold Schoenberg changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
 * [2024-03-13, 19:54:30](https://news.ycombinator.com/item?id=39696583) - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 * [2024-03-13, 19:47:53](https://news.ycombinator.com/item?id=39696482) - [EFF to Ninth Circuit: No Software Exception to Traditional Copyright Limits](https://www.eff.org/deeplinks/2024/03/eff-ninth-circuit-theres-no-software-exception-traditional-copyright-limits)
