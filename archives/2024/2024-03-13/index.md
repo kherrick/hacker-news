@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
 * [2024-03-13, 23:36:06](https://news.ycombinator.com/item?id=39698879) - [Unreleased preview of Microsoft's OS/2 2.0 is a glimpse down a road not taken](https://arstechnica.com/gadgets/2024/03/unreleased-preview-version-of-microsofts-os-2-2-0-posted-to-internet-archive/)
 * [2024-03-13, 22:59:41](https://news.ycombinator.com/item?id=39698608) - [Michael Saylor's MicroStrategy Raising Another $500M to Buy More Bitcoin](https://www.coindesk.com/business/2024/03/13/michael-saylors-microstrategy-raising-another-500m-to-buy-more-bitcoin/)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
