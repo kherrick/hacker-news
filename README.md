@@ -9,6 +9,7 @@
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for Others but Mostly for Yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 * [2024-03-14, 02:22:48](https://news.ycombinator.com/item?id=39699996) - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
 * [2024-03-14, 00:41:35](https://news.ycombinator.com/item?id=39699333) - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
+* [2024-03-14, 00:28:42](https://news.ycombinator.com/item?id=39699251) - [Call by Hash](https://garnix.io/blog/call-by-hash)
 * [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
 * [2024-03-13, 22:48:18](https://news.ycombinator.com/item?id=39698520) - [What Is Enlightenment? By Immanuel Kant](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)
@@ -25,9 +26,8 @@
 * [2024-03-13, 16:05:29](https://news.ycombinator.com/item?id=39693221) - [Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 * [2024-03-13, 15:44:29](https://news.ycombinator.com/item?id=39692801) - [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
 * [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
-* [2024-03-13, 15:14:04](https://news.ycombinator.com/item?id=39692249) - [Show HN: Phospho – Text Analytics for LLM Apps (Posthog for Prompts)](https://github.com/phospho-app/phospho)
 * [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
-* [2024-03-13, 01:14:48](https://news.ycombinator.com/item?id=39686966) - [A wandering white shark's epic journey could provide clues for protection](https://phys.org/news/2024-03-white-shark-epic-journey-clues.html)
+* [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
 
