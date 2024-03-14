@@ -2,6 +2,7 @@
 
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 09:15:47](https://news.ycombinator.com/item?id=39701791) - [Swedish data brokers claim journalists' legal protection to evade EU law](https://noyb.eu/en/swedish-data-brokers-claim-journalists-legal-protection-evade-eu-law)
+* [2024-03-14, 08:15:18](https://news.ycombinator.com/item?id=39701502) - [FCC Denies Starlink Low-Orbit Bid for Lower Latency](https://spectrum.ieee.org/starlink-vleo-below-iss)
 * [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 * [2024-03-14, 06:52:40](https://news.ycombinator.com/item?id=39701177) - [Vancouver’s new mega-development is big, ambitious and undeniably Indigenous](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
 * [2024-03-14, 04:47:45](https://news.ycombinator.com/item?id=39700692) - [Resolume](https://www.resolume.com/)
@@ -9,7 +10,6 @@
 * [2024-03-14, 03:54:30](https://news.ycombinator.com/item?id=39700443) - [HTTP/2 and HTTP/3 explained](https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for others but mostly for yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
-* [2024-03-14, 02:22:48](https://news.ycombinator.com/item?id=39699996) - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
 * [2024-03-14, 00:41:35](https://news.ycombinator.com/item?id=39699333) - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
 * [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
@@ -28,7 +28,7 @@
 * [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 * [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
-* [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
+* [2024-03-12, 12:50:21](https://news.ycombinator.com/item?id=39678857) - [Building for Builders](https://deven.codes/posts/building-for-builders/)
 * [2024-03-12, 06:11:37](https://news.ycombinator.com/item?id=39676655) - [More Fixpoints (Functional Pearl) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3607853)
 
 ## [Archives](archives/index.md)

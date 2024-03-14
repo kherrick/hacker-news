@@ -70,6 +70,7 @@
 * [2024-03-12, 13:22:46](https://news.ycombinator.com/item?id=39679170) - [How AI is disrupting the demand for software engineers: data from 20M jobs](https://bloomberry.com/how-ai-is-disrupting-the-tech-job-market-data-from-20m-job-postings/)
 * [2024-03-12, 13:06:32](https://news.ycombinator.com/item?id=39678993) - [Ask HN: What not going to change in future?](https://news.ycombinator.com/item?id=39678993)
 * [2024-03-12, 12:58:22](https://news.ycombinator.com/item?id=39678929) - [Ask HN: Problems worth solving with a low-code back end?](https://news.ycombinator.com/item?id=39678929)
+* [2024-03-12, 12:50:21](https://news.ycombinator.com/item?id=39678857) - [Building for Builders](https://deven.codes/posts/building-for-builders/)
 * [2024-03-12, 12:46:38](https://news.ycombinator.com/item?id=39678813) - [On reddit: Someone in IT trolled me for over a decade](https://old.reddit.com/r/LegalAdviceUK/comments/1bcvj6f/someone_in_it_trolled_me_for_over_a_decade_have_i/)
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become much more accurate](https://ourworldindata.org/weather-forecasts)
 * [2024-03-12, 12:36:44](https://news.ycombinator.com/item?id=39678745) - [YX Problem](https://www.sicpers.info/2024/03/yx-problem/)
