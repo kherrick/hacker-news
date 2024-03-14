@@ -7,6 +7,8 @@
 * [2024-03-14, 21:17:33](https://news.ycombinator.com/item?id=39709089) - [CEO of Data Privacy Company Onerep.com Founded People-Search Firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
 * [2024-03-14, 21:04:14](https://news.ycombinator.com/item?id=39708957) - [FCC Officially Raises Minimum Broadband Metric from 25Mbps to 100Mbps](https://www.pcmag.com/news/fcc-officially-raises-minimum-broadband-metric-from-25mbps-to-100mbps)
 * [2024-03-14, 20:54:41](https://news.ycombinator.com/item?id=39708846) - [SEqlite – Minimal Stack Exchange Data Dump in SQLite Format](https://seqlite.puny.engineering/)
+* [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
+* [2024-03-14, 20:05:24](https://news.ycombinator.com/item?id=39708365) - [Chroma vs. Qdrant vs. Weaviate Benchmark](https://www.adesso.de/en/news/blog/procedure-for-the-creation-of-vector-databases-benchmark-tests-and-their-results.jsp)
 * [2024-03-14, 20:03:16](https://news.ycombinator.com/item?id=39708347) - [Pornhub Blocked in Texas](https://variety.com/2024/digital/news/pornhub-texas-blocked-age-verification-law-1235942280/)
 * [2024-03-14, 19:39:51](https://news.ycombinator.com/item?id=39708116) - [European Audi A3 Buyers Have to Subscribe to Use Basic Car Features](https://jalopnik.com/audi-a3-buyers-must-subscribe-to-use-basic-car-features-1851331903)
 * [2024-03-14, 19:15:03](https://news.ycombinator.com/item?id=39707843) - [Scott Manley: SpaceX Orbit Largest Spacecraft in History [video]](https://www.youtube.com/watch?v=8htMpR7mnaM)
