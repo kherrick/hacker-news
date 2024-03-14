@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 13:33:03](https://news.ycombinator.com/item?id=39703776) - [Sam Altman rejoins OpenAI's board after investigation into sudden firing](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)
 * [2024-03-14, 13:10:42](https://news.ycombinator.com/item?id=39703513) - [Hackers can read private AI assistant chats even though they're encrypted](https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/)
+* [2024-03-14, 12:58:32](https://news.ycombinator.com/item?id=39703357) - [What is China's future? Economic decline, or the next industrial revolution?](https://geopoliticaleconomy.substack.com/p/china-future-economy-desai-michael-hudson)
 * [2024-03-14, 12:49:56](https://news.ycombinator.com/item?id=39703255) - [Cloudflare mitigates AI side channel attack](https://blog.cloudflare.com/ai-side-channel-attack-mitigated)
 * [2024-03-14, 12:42:42](https://news.ycombinator.com/item?id=39703173) - [I Always Knew I Was Different. I Just Didn't Know I Was a Sociopath](https://www.wsj.com/health/wellness/i-always-knew-i-was-different-i-just-didnt-know-i-was-a-sociopath-68ebe08b)
 * [2024-03-14, 12:27:42](https://news.ycombinator.com/item?id=39703010) - [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations (100% Remote)](https://www.tesorio.com/careers#job-openings)
