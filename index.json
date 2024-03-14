@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-14, 11:42:58",
-      "https://news.ycombinator.com/item?id=39702610"
-    ],
-    [
-      "What happens when an HTTP client raises $225M at a $5.6B valuation",
-      "https://twitter.com/ImSh4yy/status/1768131911379992921"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 11:42:36",
       "https://news.ycombinator.com/item?id=39702604"
     ],
@@ -41,32 +31,12 @@
   ],
   [
     [
-      "2024-03-14, 10:41:00",
-      "https://news.ycombinator.com/item?id=39702224"
-    ],
-    [
-      "For God's Sake, Follow the Lean Startup Method",
-      "https://www.june.so/blog/lean-startup-method-2024"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 10:39:00",
       "https://news.ycombinator.com/item?id=39702211"
     ],
     [
       "March 14 (3/14): Pi Day",
       "https://en.wikipedia.org/wiki/Pi_Day"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 10:09:35",
-      "https://news.ycombinator.com/item?id=39702053"
-    ],
-    [
-      "British spy had governments on both sides of the war paying for his girlfriends",
-      "https://en.wikipedia.org/wiki/Eddie_Chapman"
     ]
   ],
   [
@@ -221,12 +191,32 @@
   ],
   [
     [
+      "2024-03-13, 21:03:29",
+      "https://news.ycombinator.com/item?id=39697483"
+    ],
+    [
+      "OpenAI: Streaming is now available in the Assistants API",
+      "https://platform.openai.com/docs/assistants/overview/step-4-create-a-run?context=with-streaming"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 19:21:53",
       "https://news.ycombinator.com/item?id=39696152"
     ],
     [
       "BreakTime: Running Breakout inside Google Calendar",
       "https://eieio.games/nonsense/game-13-breaktime/"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 19:21:10",
+      "https://news.ycombinator.com/item?id=39696139"
+    ],
+    [
+      "A world from a sheet of paper (2023) [video]",
+      "https://www.youtube.com/watch?v=8p02DtmyQhU"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "How photos were transmitted by wire in the 1930s",
       "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 06:13:09",
+      "https://news.ycombinator.com/item?id=39688545"
+    ],
+    [
+      "JIT WireGuard",
+      "https://fly.io/blog/jit-wireguard-peers/"
     ]
   ],
   [
