@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for Others but Mostly for Yourself](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 * [2024-03-14, 02:22:48](https://news.ycombinator.com/item?id=39699996) - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
 * [2024-03-14, 01:34:01](https://news.ycombinator.com/item?id=39699725) - [Chasing Passive Income, Americans Turn to Vending Machines](https://www.wsj.com/personal-finance/passive-income-money-vending-machines-41800d11)
 * [2024-03-14, 00:41:35](https://news.ycombinator.com/item?id=39699333) - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
 * [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
-* [2024-03-13, 23:05:59](https://news.ycombinator.com/item?id=39698650) - [The Median Down Payment for a House, by U.S. State](https://www.visualcapitalist.com/cp/median-down-payment-for-a-house-by-state/)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
 * [2024-03-13, 22:32:12](https://news.ycombinator.com/item?id=39698398) - [Giant 'sand battery' holds a week's heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
 * [2024-03-13, 21:45:38](https://news.ycombinator.com/item?id=39697935) - [Spinkube: Running WASM in Kubernetes](https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s)
