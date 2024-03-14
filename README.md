@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 05:43:38](https://news.ycombinator.com/item?id=39700885) - [OpenAI CTO Doesn't Know What Data Was Used to Train Sora [video]](https://www.youtube.com/watch?v=mAUpxN-EIgU)
+* [2024-03-14, 04:47:45](https://news.ycombinator.com/item?id=39700692) - [Resolume](https://www.resolume.com/)
 * [2024-03-14, 04:36:35](https://news.ycombinator.com/item?id=39700639) - [Boeing employee proposes fixes to the company](https://old.reddit.com/r/boeing/comments/1be2oyr/responsibility_for_boeings_poor_performance/)
 * [2024-03-14, 04:07:41](https://news.ycombinator.com/item?id=39700519) - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 * [2024-03-14, 03:54:58](https://news.ycombinator.com/item?id=39700448) - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
@@ -19,17 +21,15 @@
 * [2024-03-13, 19:21:10](https://news.ycombinator.com/item?id=39696139) - [A world from a sheet of paper (2023) [video]](https://www.youtube.com/watch?v=8p02DtmyQhU)
 * [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
 * [2024-03-13, 17:17:36](https://news.ycombinator.com/item?id=39694353) - [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
+* [2024-03-13, 16:55:24](https://news.ycombinator.com/item?id=39694045) - [Ibis, a federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
 * [2024-03-13, 16:05:29](https://news.ycombinator.com/item?id=39693221) - [Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 * [2024-03-13, 15:44:29](https://news.ycombinator.com/item?id=39692801) - [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
 * [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 * [2024-03-13, 15:14:04](https://news.ycombinator.com/item?id=39692249) - [Show HN: Phospho – Text Analytics for LLM Apps (Posthog for Prompts)](https://github.com/phospho-app/phospho)
 * [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
-* [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-13, 01:14:48](https://news.ycombinator.com/item?id=39686966) - [A wandering white shark's epic journey could provide clues for protection](https://phys.org/news/2024-03-white-shark-epic-journey-clues.html)
 * [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
-* [2024-03-12, 07:57:42](https://news.ycombinator.com/item?id=39677152) - [Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)](https://www.hemmings.com/stories/article/steaming-sensation-1925-doble)
-* [2024-03-12, 06:06:06](https://news.ycombinator.com/item?id=39676636) - [The Battles over Beginnings](https://aeon.co/essays/machiavelli-on-the-problem-of-our-impure-beginnings)
 
 ## [Archives](archives/index.md)
 

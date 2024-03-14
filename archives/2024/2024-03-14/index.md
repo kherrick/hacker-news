@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 05:43:38](https://news.ycombinator.com/item?id=39700885) - [OpenAI CTO Doesn't Know What Data Was Used to Train Sora [video]](https://www.youtube.com/watch?v=mAUpxN-EIgU)
+* [2024-03-14, 04:47:45](https://news.ycombinator.com/item?id=39700692) - [Resolume](https://www.resolume.com/)
 * [2024-03-14, 04:36:35](https://news.ycombinator.com/item?id=39700639) - [Boeing employee proposes fixes to the company](https://old.reddit.com/r/boeing/comments/1be2oyr/responsibility_for_boeings_poor_performance/)
 * [2024-03-14, 04:07:41](https://news.ycombinator.com/item?id=39700519) - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 * [2024-03-14, 03:54:58](https://news.ycombinator.com/item?id=39700448) - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
