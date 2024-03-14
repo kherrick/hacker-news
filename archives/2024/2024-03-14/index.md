@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 18:52:49](https://news.ycombinator.com/item?id=39707595) - [We Choose Profit at 37signals](https://37signals.com/why-we-choose-profit)
+* [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 17:57:25](https://news.ycombinator.com/item?id=39707034) - [Google prevents Gemini AI from answering questions about upcoming elections](https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/)
 * [2024-03-14, 17:56:02](https://news.ycombinator.com/item?id=39707017) - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 * [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's Databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)

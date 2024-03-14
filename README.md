@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 18:52:49](https://news.ycombinator.com/item?id=39707595) - [We Choose Profit at 37signals](https://37signals.com/why-we-choose-profit)
+* [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 17:56:02](https://news.ycombinator.com/item?id=39707017) - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 * [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 * [2024-03-14, 17:18:15](https://news.ycombinator.com/item?id=39706582) - [Parsing the Postgres protocol – logging executed statements](https://kviklet.dev/blog/parsing-the-postgres-protocol/)
@@ -18,7 +20,6 @@
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon passes right-to-repair law Apple lobbied to kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test [video]](https://www.spacex.com/launches/mission/?missionId=starship-flight-3)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
-* [2024-03-14, 10:41:00](https://news.ycombinator.com/item?id=39702224) - [Following the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 09:26:14](https://news.ycombinator.com/item?id=39701848) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
 * [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
@@ -28,7 +29,6 @@
 * [2024-03-12, 19:40:02](https://news.ycombinator.com/item?id=39683984) - [Edge AI devices eye lifetime learning](https://cacm.acm.org/news/lifetime-learning-for-ai/)
 * [2024-03-12, 19:06:03](https://news.ycombinator.com/item?id=39683501) - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
 * [2024-03-12, 14:48:50](https://news.ycombinator.com/item?id=39680187) - [Pacing: the most important skill in startup engineering leadership](https://danielmangum.com/posts/most-important-skill-startup-engineering-leadership/)
-* [2024-03-12, 12:20:25](https://news.ycombinator.com/item?id=39678608) - [I'll take it slow today](https://markozivanovic.com/ill-take-it-slow-today/)
 * [2024-03-12, 11:29:44](https://news.ycombinator.com/item?id=39678287) - [The Polka Dot Assembly Ships of the Eighth](https://www.vintagewings.ca/stories/polkadotwarriors)
 
 ## [Archives](archives/index.md)
