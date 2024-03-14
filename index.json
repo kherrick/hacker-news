@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 17:51:30",
+      "https://news.ycombinator.com/item?id=39706968"
+    ],
+    [
+      "How Figma's Databases team lived to tell the scale",
+      "https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 17:17:38",
       "https://news.ycombinator.com/item?id=39706577"
     ],
@@ -67,6 +77,16 @@
     [
       "Most HR data is bad data (2015)",
       "https://hbr.org/2015/02/most-hr-data-is-bad-data"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 15:02:29",
+      "https://news.ycombinator.com/item?id=39704914"
+    ],
+    [
+      "NASA engineers make progress toward understanding Voyager 1 issue",
+      "https://www.theregister.com/2024/03/14/voyager_1_not_dead/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-03-14, 08:08:15",
-      "https://news.ycombinator.com/item?id=39701473"
-    ],
-    [
-      "NASA engineers make progress toward understanding Voyager 1 issue",
-      "https://blogs.nasa.gov/sunspot/2024/03/13/nasa-engineers-make-progress-toward-understanding-voyager-1-issue/"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 07:33:10",
       "https://news.ycombinator.com/item?id=39701358"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2024-03-12, 18:14:24",
-      "https://news.ycombinator.com/item?id=39682871"
+      "2024-03-12, 14:48:50",
+      "https://news.ycombinator.com/item?id=39680187"
     ],
     [
-      "A formula for responsive font-size",
-      "https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/"
+      "The Most Important Skill in Startup Engineering Leadership",
+      "https://danielmangum.com/posts/most-important-skill-startup-engineering-leadership/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Polka Dot Assembly Ships of the Eighth",
       "https://www.vintagewings.ca/stories/polkadotwarriors"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 06:11:37",
-      "https://news.ycombinator.com/item?id=39676655"
-    ],
-    [
-      "More Fixpoints (Functional Pearl) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/3607853"
     ]
   ]
 ]
