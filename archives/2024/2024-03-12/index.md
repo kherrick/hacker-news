@@ -78,6 +78,7 @@
 * [2024-03-12, 12:42:35](https://news.ycombinator.com/item?id=39678783) - [Weather forecasts have become much more accurate](https://ourworldindata.org/weather-forecasts)
 * [2024-03-12, 12:36:44](https://news.ycombinator.com/item?id=39678745) - [YX Problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-12, 12:21:26](https://news.ycombinator.com/item?id=39678610) - [Apple will allow distribution of iOS apps via the web in the EU](https://developer.apple.com/support/web-distribution-eu/)
+* [2024-03-12, 12:20:25](https://news.ycombinator.com/item?id=39678608) - [I'll take it slow today](https://markozivanovic.com/ill-take-it-slow-today/)
 * [2024-03-12, 12:11:55](https://news.ycombinator.com/item?id=39678555) - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 * [2024-03-12, 12:08:42](https://news.ycombinator.com/item?id=39678532) - [Apple Announces Ability to Download Apps Directly from Websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
 * [2024-03-12, 12:00:13](https://news.ycombinator.com/item?id=39678491) - [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
