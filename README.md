@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 04:07:41](https://news.ycombinator.com/item?id=39700519) - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 * [2024-03-14, 03:54:58](https://news.ycombinator.com/item?id=39700448) - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for Others but Mostly for Yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 * [2024-03-14, 02:22:48](https://news.ycombinator.com/item?id=39699996) - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
 * [2024-03-14, 00:41:35](https://news.ycombinator.com/item?id=39699333) - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
-* [2024-03-14, 00:28:42](https://news.ycombinator.com/item?id=39699251) - [Call by Hash](https://garnix.io/blog/call-by-hash)
 * [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
 * [2024-03-13, 22:48:18](https://news.ycombinator.com/item?id=39698520) - [What Is Enlightenment? By Immanuel Kant](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)
