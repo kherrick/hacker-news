@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 14:25:14](https://news.ycombinator.com/item?id=39704430) - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
 * [2024-03-14, 14:18:00](https://news.ycombinator.com/item?id=39704339) - [Ask an Algo Dev – 6 HRT quants answer common questions about their role](https://www.youtube.com/watch?v=VRpxqtA_Nlk)
 * [2024-03-14, 14:15:03](https://news.ycombinator.com/item?id=39704304) - [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
 * [2024-03-14, 14:00:50](https://news.ycombinator.com/item?id=39704116) - [Judge rules Craig Wright is not Satoshi Nakamoto](https://cointelegraph.com/news/craig-wright-not-satoshi-nakamoto)
@@ -28,6 +29,7 @@
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 11:15:45](https://news.ycombinator.com/item?id=39702443) - [Estimate Your Age of Death](https://lars.yencken.org/tools/age-of-death)
+* [2024-03-14, 11:06:12](https://news.ycombinator.com/item?id=39702386) - [Playwright Test Generator](https://playwright.dev/docs/codegen)
 * [2024-03-14, 10:57:58](https://news.ycombinator.com/item?id=39702323) - [The Violence of Relentless Positivity in the Workplace](https://ludic.mataroa.blog/blog/the-violent-role-of-relentless-positivity-in-the-workplace/)
 * [2024-03-14, 10:41:00](https://news.ycombinator.com/item?id=39702224) - [For God's Sake, Follow the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
 * [2024-03-14, 10:39:00](https://news.ycombinator.com/item?id=39702211) - [March 14 (3/14): Pi Day](https://en.wikipedia.org/wiki/Pi_Day)

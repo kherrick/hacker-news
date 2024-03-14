@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 14:25:14](https://news.ycombinator.com/item?id=39704430) - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
 * [2024-03-14, 14:18:00](https://news.ycombinator.com/item?id=39704339) - [Ask an Algo Dev – 6 HRT quants answer common questions about their role [video]](https://www.youtube.com/watch?v=VRpxqtA_Nlk)
 * [2024-03-14, 14:15:03](https://news.ycombinator.com/item?id=39704304) - [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
 * [2024-03-14, 13:57:54](https://news.ycombinator.com/item?id=39704082) - [The neuroscientist formerly known as Prince's audio engineer](https://www.nature.com/articles/d41586-024-00791-5)
@@ -13,6 +14,7 @@
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-3)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 11:15:45](https://news.ycombinator.com/item?id=39702443) - [Estimate your age of death](https://lars.yencken.org/tools/age-of-death)
+* [2024-03-14, 11:06:12](https://news.ycombinator.com/item?id=39702386) - [Playwright Test Generator](https://playwright.dev/docs/codegen)
 * [2024-03-14, 10:39:00](https://news.ycombinator.com/item?id=39702211) - [Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
@@ -22,8 +24,6 @@
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for others but mostly for yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 * [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
-* [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
-* [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 * [2024-03-12, 19:06:03](https://news.ycombinator.com/item?id=39683501) - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
 * [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 12:50:21](https://news.ycombinator.com/item?id=39678857) - [Building for Builders](https://deven.codes/posts/building-for-builders/)
