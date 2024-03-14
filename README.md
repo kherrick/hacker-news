@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 04:36:35](https://news.ycombinator.com/item?id=39700639) - [Boeing employee proposes fixes to the company](https://old.reddit.com/r/boeing/comments/1be2oyr/responsibility_for_boeings_poor_performance/)
 * [2024-03-14, 04:07:41](https://news.ycombinator.com/item?id=39700519) - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 * [2024-03-14, 03:54:58](https://news.ycombinator.com/item?id=39700448) - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
@@ -14,7 +15,6 @@
 * [2024-03-13, 21:07:19](https://news.ycombinator.com/item?id=39697520) - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 * [2024-03-13, 21:03:29](https://news.ycombinator.com/item?id=39697483) - [OpenAI: Streaming is now available in the Assistants API](https://platform.openai.com/docs/assistants/overview/step-4-create-a-run?context=with-streaming)
 * [2024-03-13, 20:15:35](https://news.ycombinator.com/item?id=39696856) - [How Arnold Schoenberg changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
-* [2024-03-13, 19:47:53](https://news.ycombinator.com/item?id=39696482) - [EFF to Ninth Circuit: No Software Exception to Traditional Copyright Limits](https://www.eff.org/deeplinks/2024/03/eff-ninth-circuit-theres-no-software-exception-traditional-copyright-limits)
 * [2024-03-13, 19:21:53](https://news.ycombinator.com/item?id=39696152) - [BreakTime: Running Breakout inside Google Calendar](https://eieio.games/nonsense/game-13-breaktime/)
 * [2024-03-13, 19:21:10](https://news.ycombinator.com/item?id=39696139) - [A world from a sheet of paper (2023) [video]](https://www.youtube.com/watch?v=8p02DtmyQhU)
 * [2024-03-13, 18:46:35](https://news.ycombinator.com/item?id=39695685) - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
