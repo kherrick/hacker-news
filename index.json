@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-14, 13:10:42",
-      "https://news.ycombinator.com/item?id=39703513"
+      "2024-03-14, 13:33:03",
+      "https://news.ycombinator.com/item?id=39703776"
     ],
     [
-      "Hackers can read private AI assistant chats even though they're encrypted",
-      "https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/"
+      "Sam Altman rejoins OpenAI's board after investigation into sudden firing",
+      "https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 12:58:32",
+      "https://news.ycombinator.com/item?id=39703357"
+    ],
+    [
+      "What is China's future? Economic decline, or the next industrial revolution?",
+      "https://geopoliticaleconomy.substack.com/p/china-future-economy-desai-michael-hudson"
     ]
   ],
   [
@@ -37,26 +47,6 @@
     [
       "Tesorio Is Hiring a Head of Cloud Infrastructure and Operations (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 12:17:39",
-      "https://news.ycombinator.com/item?id=39702915"
-    ],
-    [
-      "Boeing overwrote security camera footage of repair work on Alaska door plug",
-      "https://www.axios.com/2024/03/13/boeing-video-footage-overwrite-erased-door-plug-alaska"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 12:12:42",
-      "https://news.ycombinator.com/item?id=39702851"
-    ],
-    [
-      "Adobe Firefly repeats the same AI blunders as Google Gemini",
-      "https://www.semafor.com/article/03/13/2024/adobe-firefly-repeats-the-same-ai-blunders-as-google-gemini"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "A generalist AI agent for 3D virtual environments",
       "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 11:53:09",
+      "https://news.ycombinator.com/item?id=39690363"
+    ],
+    [
+      "How photos were transmitted by wire in the 1930s",
+      "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s"
     ]
   ],
   [
