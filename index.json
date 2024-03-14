@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2024-03-14, 20:30:17",
+      "https://news.ycombinator.com/item?id=39708591"
+    ],
+    [
+      "More powerful Go execution traces",
+      "https://go.dev/blog/execution-traces-2024"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 20:05:24",
+      "https://news.ycombinator.com/item?id=39708365"
+    ],
+    [
+      "Chroma vs. Qdrant vs. Weaviate Benchmark",
+      "https://www.adesso.de/en/news/blog/procedure-for-the-creation-of-vector-databases-benchmark-tests-and-their-results.jsp"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 18:29:10",
       "https://news.ycombinator.com/item?id=39707356"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-03-14, 11:37:32",
-      "https://news.ycombinator.com/item?id=39702568"
-    ],
-    [
-      "Starship's Third Flight Test [video]",
-      "https://www.spacex.com/launches/mission/?missionId=starship-flight-3"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 11:23:13",
       "https://news.ycombinator.com/item?id=39702479"
     ],
@@ -217,16 +227,6 @@
     [
       "Real time weather balloon tracking",
       "https://sondehub.org"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 10:41:00",
-      "https://news.ycombinator.com/item?id=39702224"
-    ],
-    [
-      "Following the Lean Startup Method",
-      "https://www.june.so/blog/lean-startup-method-2024"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39694854"
     ],
     [
-      "What would an LLM OS look like?",
+      "What would an LLM OS look like? (2023)",
       "https://campedersen.com/llm-os/"
     ]
   ],
