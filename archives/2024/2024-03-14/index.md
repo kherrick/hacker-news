@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's Databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 * [2024-03-14, 17:17:38](https://news.ycombinator.com/item?id=39706577) - [Cicadas' unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
 * [2024-03-14, 17:14:36](https://news.ycombinator.com/item?id=39706535) - [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
 * [2024-03-14, 17:08:54](https://news.ycombinator.com/item?id=39706471) - [New Beeper Android App](https://blog.beeper.com/p/new-beeper-android-app-open-beta)

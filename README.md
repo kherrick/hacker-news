@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's Databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 * [2024-03-14, 17:17:38](https://news.ycombinator.com/item?id=39706577) - [Cicadas' unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
 * [2024-03-14, 17:14:36](https://news.ycombinator.com/item?id=39706535) - [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
 * [2024-03-14, 17:08:54](https://news.ycombinator.com/item?id=39706471) - [New Beeper Android app – Open beta test](https://blog.beeper.com/p/new-beeper-android-app-open-beta)
@@ -7,6 +8,7 @@
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
 * [2024-03-14, 16:13:37](https://news.ycombinator.com/item?id=39705788) - [Glassdoor updated my profile to add my real name and location](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
 * [2024-03-14, 15:45:26](https://news.ycombinator.com/item?id=39705487) - [Most HR data is bad data (2015)](https://hbr.org/2015/02/most-hr-data-is-bad-data)
+* [2024-03-14, 15:02:29](https://news.ycombinator.com/item?id=39704914) - [NASA engineers make progress toward understanding Voyager 1 issue](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
 * [2024-03-14, 14:45:33](https://news.ycombinator.com/item?id=39704712) - [Show HN: PyKidos, Teach Your Kid Python in the Browser](https://pykidos.github.io/)
 * [2024-03-14, 14:25:14](https://news.ycombinator.com/item?id=39704430) - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
 * [2024-03-14, 14:15:03](https://news.ycombinator.com/item?id=39704304) - [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
@@ -19,7 +21,6 @@
 * [2024-03-14, 10:41:00](https://news.ycombinator.com/item?id=39702224) - [Following the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 09:26:14](https://news.ycombinator.com/item?id=39701848) - [Digital Forgeries Are Hard](https://mjg59.dreamwidth.org/69507.html)
-* [2024-03-14, 08:08:15](https://news.ycombinator.com/item?id=39701473) - [NASA engineers make progress toward understanding Voyager 1 issue](https://blogs.nasa.gov/sunspot/2024/03/13/nasa-engineers-make-progress-toward-understanding-voyager-1-issue/)
 * [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 * [2024-03-14, 03:54:58](https://news.ycombinator.com/item?id=39700448) - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
 * [2024-03-14, 03:54:30](https://news.ycombinator.com/item?id=39700443) - [HTTP/2 and HTTP/3 explained](https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained/)
@@ -27,9 +28,8 @@
 * [2024-03-13, 16:55:24](https://news.ycombinator.com/item?id=39694045) - [Ibis, a federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
 * [2024-03-12, 19:40:02](https://news.ycombinator.com/item?id=39683984) - [Edge AI devices eye lifetime learning](https://cacm.acm.org/news/lifetime-learning-for-ai/)
 * [2024-03-12, 19:06:03](https://news.ycombinator.com/item?id=39683501) - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
-* [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
+* [2024-03-12, 14:48:50](https://news.ycombinator.com/item?id=39680187) - [The Most Important Skill in Startup Engineering Leadership](https://danielmangum.com/posts/most-important-skill-startup-engineering-leadership/)
 * [2024-03-12, 11:29:44](https://news.ycombinator.com/item?id=39678287) - [The Polka Dot Assembly Ships of the Eighth](https://www.vintagewings.ca/stories/polkadotwarriors)
-* [2024-03-12, 06:11:37](https://news.ycombinator.com/item?id=39676655) - [More Fixpoints (Functional Pearl) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3607853)
 
 ## [Archives](archives/index.md)
 
