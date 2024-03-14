@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 12:49:56](https://news.ycombinator.com/item?id=39703255) - [Cloudflare mitigates AI side channel attack](https://blog.cloudflare.com/ai-side-channel-attack-mitigated)
 * [2024-03-14, 12:42:42](https://news.ycombinator.com/item?id=39703173) - [I Always Knew I Was Different. I Just Didn't Know I Was a Sociopath](https://www.wsj.com/health/wellness/i-always-knew-i-was-different-i-just-didnt-know-i-was-a-sociopath-68ebe08b)
 * [2024-03-14, 12:27:42](https://news.ycombinator.com/item?id=39703010) - [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-03-14, 12:17:39](https://news.ycombinator.com/item?id=39702915) - [Boeing overwrote security camera footage of repair work on Alaska door plug](https://www.axios.com/2024/03/13/boeing-video-footage-overwrite-erased-door-plug-alaska)
+* [2024-03-14, 12:12:42](https://news.ycombinator.com/item?id=39702851) - [Adobe Firefly repeats the same AI blunders as Google Gemini](https://www.semafor.com/article/03/13/2024/adobe-firefly-repeats-the-same-ai-blunders-as-google-gemini)
 * [2024-03-14, 12:10:53](https://news.ycombinator.com/item?id=39702838) - [How long is your child's lunch break? In France they get 2 hours (2012)](https://karenlebillon.com/2012/04/18/how-long-is-your-kids-lunch-break-in-france-they-get-2-hours/)
 * [2024-03-14, 12:03:48](https://news.ycombinator.com/item?id=39702774) - [NIH Researchers Identify Brain Connections Associated with ADHD in Youth](https://www.nimh.nih.gov/news/science-news/2024/nih-researchers-identify-brain-connections-associated-with-adhd-in-youth)
 * [2024-03-14, 12:01:58](https://news.ycombinator.com/item?id=39702752) - [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems](https://www.youtube.com/watch?v=fcP07Rx7TVM)
