@@ -119,5 +119,6 @@
 * [2024-03-13, 01:38:23](https://news.ycombinator.com/item?id=39687149) - [DNS settings to avoid email spoofing and phishing for unused domain](https://www.cyberciti.biz/security/dns-settings-to-avoid-email-spoofing-and-phishing-for-unused-domain/)
 * [2024-03-13, 01:36:14](https://news.ycombinator.com/item?id=39687132) - [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
 * [2024-03-13, 01:23:12](https://news.ycombinator.com/item?id=39687037) - [Features lost across versions of macOS](https://talk.tidbits.com/t/features-lost-across-versions-of-macos/27037)
+* [2024-03-13, 01:14:48](https://news.ycombinator.com/item?id=39686966) - [A wandering white shark's epic journey could provide clues for protection](https://phys.org/news/2024-03-white-shark-epic-journey-clues.html)
 * [2024-03-13, 00:26:45](https://news.ycombinator.com/item?id=39686585) - [Direct File officially opens in 12 pilot states](https://www.irs.gov/newsroom/direct-file-officially-opens-in-12-pilot-states-following-positive-early-reviews-eligible-taxpayers-can-file-online-directly-with-the-irs-for-free)
 * [2024-03-13, 00:04:59](https://news.ycombinator.com/item?id=39686426) - [Airlines Colluded to Ensure Onboard Food Would Be Awful](https://viewfromthewing.com/airlines-colluded-bad-food/)
