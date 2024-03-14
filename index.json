@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-03-14, 13:33:16",
-      "https://news.ycombinator.com/item?id=39703780"
-    ],
-    [
-      "The NASA Pi Day Challenge",
-      "https://www.jpl.nasa.gov/edu/nasapidaychallenge"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 13:19:54",
       "https://news.ycombinator.com/item?id=39703625"
     ],
@@ -77,6 +67,16 @@
     [
       "Tesorio Is Hiring a Head of Cloud Infrastructure and Operations (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 12:10:53",
+      "https://news.ycombinator.com/item?id=39702838"
+    ],
+    [
+      "School lunch breaks in France can be two hours (2012)",
+      "https://karenlebillon.com/2012/04/18/how-long-is-your-kids-lunch-break-in-france-they-get-2-hours/"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39702568"
     ],
     [
-      "Starship's Third Flight Test",
+      "Starship's Third Flight Test [video]",
       "https://www.spacex.com/launches/mission/?missionId=starship-flight-3"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "The Good Soldier Švejk (2018)",
       "https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 11:15:45",
-      "https://news.ycombinator.com/item?id=39702443"
-    ],
-    [
-      "Estimate your age of death",
-      "https://lars.yencken.org/tools/age-of-death"
     ]
   ],
   [
@@ -221,22 +211,32 @@
   ],
   [
     [
-      "2024-03-13, 23:43:32",
-      "https://news.ycombinator.com/item?id=39698950"
-    ],
-    [
-      "Nanos – A Unikernel",
-      "https://nanos.org"
-    ]
-  ],
-  [
-    [
       "2024-03-13, 22:51:10",
       "https://news.ycombinator.com/item?id=39698546"
     ],
     [
       "LaVague: Open-source Large Action Model to automate Selenium browsing",
       "https://github.com/lavague-ai/LaVague"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 16:55:24",
+      "https://news.ycombinator.com/item?id=39694045"
+    ],
+    [
+      "Ibis, a federated Wikipedia alternative",
+      "https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 15:22:56",
+      "https://news.ycombinator.com/item?id=39692387"
+    ],
+    [
+      "A generalist AI agent for 3D virtual environments",
+      "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/"
     ]
   ],
   [
