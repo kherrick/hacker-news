@@ -18,6 +18,7 @@
 * [2024-03-12, 20:36:36](https://news.ycombinator.com/item?id=39684618) - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 * [2024-03-12, 20:34:09](https://news.ycombinator.com/item?id=39684588) - [VLC surpasses five billion downloads, preps Vision Pro app](https://www.lowpass.cc/p/vlc-five-billion-downloads-vision-pro-app)
 * [2024-03-12, 20:34:02](https://news.ycombinator.com/item?id=39684585) - [The Spreadsheet Is a Simulation Machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
+* [2024-03-12, 20:32:46](https://news.ycombinator.com/item?id=39684567) - [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
 * [2024-03-12, 20:27:51](https://news.ycombinator.com/item?id=39684513) - [An Explanation of the Double-Dabble Bin-BCD Conversion Algorithm (2004)](http://cpmarchives.classiccmp.org/cpm/mirrors/cbfalconer.home.att.net/download/dubldabl.txt)
 * [2024-03-12, 20:24:48](https://news.ycombinator.com/item?id=39684472) - [Dutch gov. proudly announces it will tap Europe's largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
 * [2024-03-12, 19:44:18](https://news.ycombinator.com/item?id=39684043) - [I'm Excited about Darklang](https://stachu.net/im-really-excited-about-darklang/)
