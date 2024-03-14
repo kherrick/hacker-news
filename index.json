@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-03-14, 17:57:25",
+      "https://news.ycombinator.com/item?id=39707034"
+    ],
+    [
+      "Google prevents Gemini AI from answering questions about upcoming elections",
+      "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 17:56:02",
+      "https://news.ycombinator.com/item?id=39707017"
+    ],
+    [
+      "Learning From DNA: a grand challenge in biology",
+      "https://hazyresearch.stanford.edu/blog/2024-03-14-evo"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 17:51:30",
       "https://news.ycombinator.com/item?id=39706968"
     ],
     [
-      "How Figma's Databases team lived to tell the scale",
+      "How Figma's databases team lived to tell the scale",
       "https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/"
     ]
   ],
@@ -41,12 +61,32 @@
   ],
   [
     [
+      "2024-03-14, 16:57:00",
+      "https://news.ycombinator.com/item?id=39706330"
+    ],
+    [
+      "Why Are (Most) Sofas So Bad?",
+      "https://www.dwell.com/article/dtc-sofa-crisis-32304b9e"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 16:51:23",
       "https://news.ycombinator.com/item?id=39706253"
     ],
     [
       "Launch HN: Meticulate (YC W24) – LLM pipelines for business research",
       "https://news.ycombinator.com/item?id=39706253"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 16:35:05",
+      "https://news.ycombinator.com/item?id=39706045"
+    ],
+    [
+      "SuperPrompt: Better Text to Image Prompts in 77M Parameters",
+      "https://brianfitzgerald.xyz/prompt-augmentation/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Glassdoor updated my profile to add my real name and location",
       "https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 15:45:26",
-      "https://news.ycombinator.com/item?id=39705487"
-    ],
-    [
-      "Most HR data is bad data (2015)",
-      "https://hbr.org/2015/02/most-hr-data-is-bad-data"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-03-14, 13:57:54",
-      "https://news.ycombinator.com/item?id=39704082"
-    ],
-    [
-      "The neuroscientist formerly known as Prince's audio engineer",
-      "https://www.nature.com/articles/d41586-024-00791-5"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 12:27:42",
       "https://news.ycombinator.com/item?id=39703010"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-03-14, 11:06:12",
-      "https://news.ycombinator.com/item?id=39702386"
-    ],
-    [
-      "Playwright Test Generator",
-      "https://playwright.dev/docs/codegen"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 10:41:00",
       "https://news.ycombinator.com/item?id=39702224"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=39701848"
     ],
     [
-      "Digital Forgeries Are Hard",
+      "Digital forgeries are hard",
       "https://mjg59.dreamwidth.org/69507.html"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Spreadsheets are all you need",
       "https://spreadsheets-are-all-you-need.ai/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 16:55:24",
-      "https://news.ycombinator.com/item?id=39694045"
-    ],
-    [
-      "Ibis, a federated Wikipedia alternative",
-      "https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki"
     ]
   ],
   [
