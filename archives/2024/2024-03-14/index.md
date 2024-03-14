@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 14:00:50](https://news.ycombinator.com/item?id=39704116) - [Judge rules Craig Wright is not Satoshi Nakamoto](https://cointelegraph.com/news/craig-wright-not-satoshi-nakamoto)
+* [2024-03-14, 13:57:54](https://news.ycombinator.com/item?id=39704082) - [The neuroscientist formerly known as Prince's audio engineer](https://www.nature.com/articles/d41586-024-00791-5)
+* [2024-03-14, 13:33:16](https://news.ycombinator.com/item?id=39703780) - [The NASA Pi Day Challenge](https://www.jpl.nasa.gov/edu/nasapidaychallenge)
 * [2024-03-14, 13:33:03](https://news.ycombinator.com/item?id=39703776) - [Sam Altman rejoins OpenAI's board after investigation into sudden firing](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)
+* [2024-03-14, 13:19:54](https://news.ycombinator.com/item?id=39703625) - [Chainguard Images now available on Docker Hub](https://www.chainguard.dev/unchained/chainguard-images-now-available-on-docker-hub)
 * [2024-03-14, 13:10:42](https://news.ycombinator.com/item?id=39703513) - [Hackers can read private AI assistant chats even though they're encrypted](https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/)
 * [2024-03-14, 12:58:32](https://news.ycombinator.com/item?id=39703357) - [What is China's future? Economic decline, or the next industrial revolution?](https://geopoliticaleconomy.substack.com/p/china-future-economy-desai-michael-hudson)
 * [2024-03-14, 12:49:56](https://news.ycombinator.com/item?id=39703255) - [Cloudflare mitigates AI side channel attack](https://blog.cloudflare.com/ai-side-channel-attack-mitigated)
@@ -18,6 +22,7 @@
 * [2024-03-14, 12:01:58](https://news.ycombinator.com/item?id=39702752) - [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems](https://www.youtube.com/watch?v=fcP07Rx7TVM)
 * [2024-03-14, 11:42:58](https://news.ycombinator.com/item?id=39702610) - [What happens when an HTTP client raises $225M at a $5.6B valuation](https://twitter.com/ImSh4yy/status/1768131911379992921)
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
+* [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-3)
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 11:15:45](https://news.ycombinator.com/item?id=39702443) - [Estimate Your Age of Death](https://lars.yencken.org/tools/age-of-death)
