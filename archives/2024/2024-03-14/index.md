@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 17:08:54](https://news.ycombinator.com/item?id=39706471) - [New Beeper Android App](https://blog.beeper.com/p/new-beeper-android-app-open-beta)
+* [2024-03-14, 17:06:26](https://news.ycombinator.com/item?id=39706429) - [Gun violence, the United States is an outlier](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 * [2024-03-14, 16:42:34](https://news.ycombinator.com/item?id=39706137) - [South Africa Internet Hit by Multiple Subsea Cable Breaks](https://subtelforum.com/south-africa-internet-hit-by-multiple-subsea-cable-breaks/)
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – open-source browser automation tool](https://github.com/Skyvern-AI/skyvern)
