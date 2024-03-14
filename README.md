@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 16:13:37](https://news.ycombinator.com/item?id=39705788) - [Time to delete your Glassdoor account](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
 * [2024-03-14, 15:52:34](https://news.ycombinator.com/item?id=39705559) - [Behind the OnlyFans porn boom: allegations of rape, abuse, betrayal](https://www.reuters.com/investigates/special-report/onlyfans-sex-legal-cases/)
 * [2024-03-14, 15:45:26](https://news.ycombinator.com/item?id=39705487) - [Most HR Data Is Bad Data](https://hbr.org/2015/02/most-hr-data-is-bad-data)
 * [2024-03-14, 15:21:59](https://news.ycombinator.com/item?id=39705172) - [The 'drinking bird' makes a comeback and could power gadgets with clean energy](https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html)
@@ -9,7 +10,6 @@
 * [2024-03-14, 14:15:25](https://news.ycombinator.com/item?id=39704308) - [Die shots and transistor-level debugging on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2024/die-shots-and-transistor-level-debugging-on-raspberry-pi-5)
 * [2024-03-14, 14:15:03](https://news.ycombinator.com/item?id=39704304) - [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
 * [2024-03-14, 13:57:54](https://news.ycombinator.com/item?id=39704082) - [The neuroscientist formerly known as Prince's audio engineer](https://www.nature.com/articles/d41586-024-00791-5)
-* [2024-03-14, 13:19:54](https://news.ycombinator.com/item?id=39703625) - [Chainguard Images now available on Docker Hub](https://www.chainguard.dev/unchained/chainguard-images-now-available-on-docker-hub)
 * [2024-03-14, 12:27:42](https://news.ycombinator.com/item?id=39703010) - [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-03-14, 12:03:48](https://news.ycombinator.com/item?id=39702774) - [NIH Researchers Identify Brain Connections Associated with ADHD in Youth](https://www.nimh.nih.gov/news/science-news/2024/nih-researchers-identify-brain-connections-associated-with-adhd-in-youth)
 * [2024-03-14, 12:01:58](https://news.ycombinator.com/item?id=39702752) - [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems [video]](https://www.youtube.com/watch?v=fcP07Rx7TVM)
