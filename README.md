@@ -3,7 +3,7 @@
 * [2024-03-14, 21:17:33](https://news.ycombinator.com/item?id=39709089) - [CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
 * [2024-03-14, 21:04:14](https://news.ycombinator.com/item?id=39708957) - [FCC Officially Raises Minimum Broadband Metric from 25Mbps to 100Mbps](https://www.pcmag.com/news/fcc-officially-raises-minimum-broadband-metric-from-25mbps-to-100mbps)
 * [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
-* [2024-03-14, 20:05:24](https://news.ycombinator.com/item?id=39708365) - [Chroma vs. Qdrant vs. Weaviate Benchmark](https://www.adesso.de/en/news/blog/procedure-for-the-creation-of-vector-databases-benchmark-tests-and-their-results.jsp)
+* [2024-03-14, 19:14:12](https://news.ycombinator.com/item?id=39707828) - [Gnet is the fastest networking framework in Go](https://gnet.host/)
 * [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 17:56:02](https://news.ycombinator.com/item?id=39707017) - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 * [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
