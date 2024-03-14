@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 13:10:42](https://news.ycombinator.com/item?id=39703513) - [Hackers can read private AI assistant chats even though they're encrypted](https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/)
 * [2024-03-14, 12:49:56](https://news.ycombinator.com/item?id=39703255) - [Cloudflare mitigates AI side channel attack](https://blog.cloudflare.com/ai-side-channel-attack-mitigated)
 * [2024-03-14, 12:42:42](https://news.ycombinator.com/item?id=39703173) - [I Always Knew I Was Different. I Just Didn't Know I Was a Sociopath](https://www.wsj.com/health/wellness/i-always-knew-i-was-different-i-just-didnt-know-i-was-a-sociopath-68ebe08b)
 * [2024-03-14, 12:27:42](https://news.ycombinator.com/item?id=39703010) - [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-03-14, 12:22:50](https://news.ycombinator.com/item?id=39702959) - [Young men and women are drifting apart](https://www.economist.com/international/2024/03/13/why-the-growing-gulf-between-young-men-and-women)
 * [2024-03-14, 12:17:39](https://news.ycombinator.com/item?id=39702915) - [Boeing overwrote security camera footage of repair work on Alaska door plug](https://www.axios.com/2024/03/13/boeing-video-footage-overwrite-erased-door-plug-alaska)
 * [2024-03-14, 12:12:42](https://news.ycombinator.com/item?id=39702851) - [Adobe Firefly repeats the same AI blunders as Google Gemini](https://www.semafor.com/article/03/13/2024/adobe-firefly-repeats-the-same-ai-blunders-as-google-gemini)
 * [2024-03-14, 12:10:53](https://news.ycombinator.com/item?id=39702838) - [How long is your child's lunch break? In France they get 2 hours (2012)](https://karenlebillon.com/2012/04/18/how-long-is-your-kids-lunch-break-in-france-they-get-2-hours/)
