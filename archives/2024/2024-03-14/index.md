@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 19:02:12](https://news.ycombinator.com/item?id=39707699) - [Epic asks court to block Apple's 27% commission on website purchases](https://arstechnica.com/tech-policy/2024/03/epic-asks-court-to-block-apples-27-commission-on-website-purchases/)
 * [2024-03-14, 18:52:49](https://news.ycombinator.com/item?id=39707595) - [We Choose Profit at 37signals](https://37signals.com/why-we-choose-profit)
+* [2024-03-14, 18:43:28](https://news.ycombinator.com/item?id=39707497) - [South Africa, Nigeria, Ghana, Liberia, Ivory Coast hit by major internet outages](https://www.bbc.co.uk/news/world-africa-68569022)
 * [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 17:57:25](https://news.ycombinator.com/item?id=39707034) - [Google prevents Gemini AI from answering questions about upcoming elections](https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/)
 * [2024-03-14, 17:56:02](https://news.ycombinator.com/item?id=39707017) - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
@@ -13,6 +15,7 @@
 * [2024-03-14, 17:18:15](https://news.ycombinator.com/item?id=39706582) - [Parsing the Postgres protocol – logging executed statements](https://kviklet.dev/blog/parsing-the-postgres-protocol/)
 * [2024-03-14, 17:17:38](https://news.ycombinator.com/item?id=39706577) - [Cicadas' unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
 * [2024-03-14, 17:14:36](https://news.ycombinator.com/item?id=39706535) - [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
+* [2024-03-14, 17:13:32](https://news.ycombinator.com/item?id=39706517) - [Show HN: ADHD STASH. A curated collection of ADHD friendly products and services](https://www.adhdstash.com)
 * [2024-03-14, 17:08:54](https://news.ycombinator.com/item?id=39706471) - [New Beeper Android App](https://blog.beeper.com/p/new-beeper-android-app-open-beta)
 * [2024-03-14, 17:06:26](https://news.ycombinator.com/item?id=39706429) - [Gun violence, the United States is an outlier](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
 * [2024-03-14, 16:57:00](https://news.ycombinator.com/item?id=39706330) - [Why Are (Most) Sofas So Bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)

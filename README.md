@@ -1,17 +1,18 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-14, 18:52:49](https://news.ycombinator.com/item?id=39707595) - [We Choose Profit at 37signals](https://37signals.com/why-we-choose-profit)
+* [2024-03-14, 19:02:12](https://news.ycombinator.com/item?id=39707699) - [Epic asks court to block Apple's 27% commission on website purchases](https://arstechnica.com/tech-policy/2024/03/epic-asks-court-to-block-apples-27-commission-on-website-purchases/)
+* [2024-03-14, 18:43:28](https://news.ycombinator.com/item?id=39707497) - [South Africa, Nigeria, Ghana, Liberia, Ivory Coast hit by major internet outages](https://www.bbc.co.uk/news/world-africa-68569022)
 * [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 17:56:02](https://news.ycombinator.com/item?id=39707017) - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 * [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 * [2024-03-14, 17:18:15](https://news.ycombinator.com/item?id=39706582) - [Parsing the Postgres protocol – logging executed statements](https://kviklet.dev/blog/parsing-the-postgres-protocol/)
 * [2024-03-14, 17:17:38](https://news.ycombinator.com/item?id=39706577) - [Cicadas' unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
 * [2024-03-14, 17:14:36](https://news.ycombinator.com/item?id=39706535) - [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
+* [2024-03-14, 17:13:32](https://news.ycombinator.com/item?id=39706517) - [Show HN: ADHD STASH. A curated collection of ADHD friendly products and services](https://www.adhdstash.com)
 * [2024-03-14, 17:08:54](https://news.ycombinator.com/item?id=39706471) - [New Beeper Android app – Open beta test](https://blog.beeper.com/p/new-beeper-android-app-open-beta)
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 * [2024-03-14, 16:35:05](https://news.ycombinator.com/item?id=39706045) - [SuperPrompt: Better Text to Image Prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/)
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
-* [2024-03-14, 16:13:37](https://news.ycombinator.com/item?id=39705788) - [Glassdoor updated my profile to add my real name and location](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
 * [2024-03-14, 15:02:29](https://news.ycombinator.com/item?id=39704914) - [NASA engineers make progress toward understanding Voyager 1 issue](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
 * [2024-03-14, 14:45:33](https://news.ycombinator.com/item?id=39704712) - [Show HN: PyKidos, Teach Your Kid Python in the Browser](https://pykidos.github.io/)
 * [2024-03-14, 14:25:14](https://news.ycombinator.com/item?id=39704430) - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
@@ -29,7 +30,6 @@
 * [2024-03-12, 19:40:02](https://news.ycombinator.com/item?id=39683984) - [Edge AI devices eye lifetime learning](https://cacm.acm.org/news/lifetime-learning-for-ai/)
 * [2024-03-12, 19:06:03](https://news.ycombinator.com/item?id=39683501) - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
 * [2024-03-12, 14:48:50](https://news.ycombinator.com/item?id=39680187) - [Pacing: the most important skill in startup engineering leadership](https://danielmangum.com/posts/most-important-skill-startup-engineering-leadership/)
-* [2024-03-12, 11:29:44](https://news.ycombinator.com/item?id=39678287) - [The Polka Dot Assembly Ships of the Eighth](https://www.vintagewings.ca/stories/polkadotwarriors)
 
 ## [Archives](archives/index.md)
 
