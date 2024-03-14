@@ -27,8 +27,8 @@
 * [2024-03-13, 16:05:29](https://news.ycombinator.com/item?id=39693221) - [Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 * [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 * [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
+* [2024-03-13, 06:13:09](https://news.ycombinator.com/item?id=39688545) - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 * [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
-* [2024-03-12, 12:36:44](https://news.ycombinator.com/item?id=39678745) - [YX Problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
 
 ## [Archives](archives/index.md)
