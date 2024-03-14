@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 17:17:38](https://news.ycombinator.com/item?id=39706577) - [Cicadas' unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
+* [2024-03-14, 17:14:36](https://news.ycombinator.com/item?id=39706535) - [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
 * [2024-03-14, 17:08:54](https://news.ycombinator.com/item?id=39706471) - [New Beeper Android App](https://blog.beeper.com/p/new-beeper-android-app-open-beta)
 * [2024-03-14, 17:06:26](https://news.ycombinator.com/item?id=39706429) - [Gun violence, the United States is an outlier](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
