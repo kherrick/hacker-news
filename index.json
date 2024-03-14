@@ -1,42 +1,22 @@
 [
   [
     [
-      "2024-03-14, 00:11:34",
-      "https://news.ycombinator.com/item?id=39699131"
+      "2024-03-14, 00:41:35",
+      "https://news.ycombinator.com/item?id=39699333"
     ],
     [
-      "Linux 6.9 Makes a Change to Satisfy Microsoft for EFI x86 Shim Loader Signing",
-      "https://www.phoronix.com/news/Linux-6.9-EFI-Updates"
+      "Care",
+      "https://johan.hal.se/wrote/2024/02/28/care/"
     ]
   ],
   [
     [
-      "2024-03-14, 00:06:57",
-      "https://news.ycombinator.com/item?id=39699100"
+      "2024-03-13, 23:43:32",
+      "https://news.ycombinator.com/item?id=39698950"
     ],
     [
-      "Experienced engineers are struggling to get hired",
-      "https://twitter.com/Carnage4Life/status/1767527635297722786"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 23:36:06",
-      "https://news.ycombinator.com/item?id=39698879"
-    ],
-    [
-      "Unreleased preview of Microsoft's OS/2 2.0 is a glimpse down a road not taken",
-      "https://arstechnica.com/gadgets/2024/03/unreleased-preview-version-of-microsofts-os-2-2-0-posted-to-internet-archive/"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 22:59:41",
-      "https://news.ycombinator.com/item?id=39698608"
-    ],
-    [
-      "Michael Saylor's MicroStrategy Raising Another $500M to Buy More Bitcoin",
-      "https://www.coindesk.com/business/2024/03/13/michael-saylors-microstrategy-raising-another-500m-to-buy-more-bitcoin/"
+      "Nanos – A Unikernel",
+      "https://nanos.org"
     ]
   ],
   [
@@ -77,16 +57,6 @@
     [
       "Linux TTY font for Chinese, but treat it as a syllabic writing",
       "https://github.com/oldherl/syllazh"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 21:07:27",
-      "https://news.ycombinator.com/item?id=39697521"
-    ],
-    [
-      "March 14, 7:00 a.m. CT: Starship's third flight test",
-      "https://twitter.com/SpaceX/status/1768004039680426406"
     ]
   ],
   [
@@ -271,6 +241,26 @@
   ],
   [
     [
+      "2024-03-13, 06:13:09",
+      "https://news.ycombinator.com/item?id=39688545"
+    ],
+    [
+      "JIT WireGuard",
+      "https://fly.io/blog/jit-wireguard-peers/"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 20:55:59",
+      "https://news.ycombinator.com/item?id=39684845"
+    ],
+    [
+      "Luster Lost: Pondering the way that physical objects degrade over time",
+      "https://tedium.co/2024/03/02/why-physical-objects-decay/"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 12:36:44",
       "https://news.ycombinator.com/item?id=39678745"
     ],
@@ -297,6 +287,16 @@
     [
       "Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)",
       "https://www.hemmings.com/stories/article/steaming-sensation-1925-doble"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 06:06:06",
+      "https://news.ycombinator.com/item?id=39676636"
+    ],
+    [
+      "The Battles over Beginnings",
+      "https://aeon.co/essays/machiavelli-on-the-problem-of-our-impure-beginnings"
     ]
   ]
 ]
