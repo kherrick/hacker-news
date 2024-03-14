@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 12:27:42](https://news.ycombinator.com/item?id=39703010) - [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-03-14, 12:17:39](https://news.ycombinator.com/item?id=39702915) - [Boeing overwrote security camera footage of repair work on Alaska door plug](https://www.axios.com/2024/03/13/boeing-video-footage-overwrite-erased-door-plug-alaska)
+* [2024-03-14, 12:01:58](https://news.ycombinator.com/item?id=39702752) - [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems](https://www.youtube.com/watch?v=fcP07Rx7TVM)
 * [2024-03-14, 11:42:58](https://news.ycombinator.com/item?id=39702610) - [What happens when an HTTP client raises $225M at a $5.6B valuation](https://twitter.com/ImSh4yy/status/1768131911379992921)
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
@@ -15,6 +18,7 @@
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 09:15:47](https://news.ycombinator.com/item?id=39701791) - [Swedish data brokers claim journalists' legal protection to evade EU law](https://noyb.eu/en/swedish-data-brokers-claim-journalists-legal-protection-evade-eu-law)
 * [2024-03-14, 08:15:18](https://news.ycombinator.com/item?id=39701502) - [FCC Denies Starlink Low-Orbit Bid for Lower Latency](https://spectrum.ieee.org/starlink-vleo-below-iss)
+* [2024-03-14, 08:08:15](https://news.ycombinator.com/item?id=39701473) - [NASA Engineers Make Progress Toward Understanding Voyager 1 Issue](https://blogs.nasa.gov/sunspot/2024/03/13/nasa-engineers-make-progress-toward-understanding-voyager-1-issue/)
 * [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 * [2024-03-14, 07:10:24](https://news.ycombinator.com/item?id=39701261) - [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
 * [2024-03-14, 06:52:40](https://news.ycombinator.com/item?id=39701177) - [Vancouver's New Mega-Development](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
