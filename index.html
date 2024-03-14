@@ -129,6 +129,122 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39706004">
+          <h3>
+            <a class="item" href="https://github.com/Skyvern-AI/skyvern"
+              >Show HN: Skyvern – open-source browser automation tool</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-14 @ 16:31:34</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39706004"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.skyvern.com">https://www.skyvern.com</a>), an
+              open-source tool that uses LLMs and computer vision to help
+              companies automate browser-based workflows.
+              <p>
+                We provide a natural-language API to automate repetitive manual
+                workflows that happen within the companies' backoffices. You can
+                check out our code and play with Skyvern here:
+                <a href="https://github.com/Skyvern-AI/Skyvern"
+                  >https://github.com/Skyvern-AI/Skyvern</a
+                >
+              </p>
+              <p>
+                We talked to hundreds of companies about things they do in the
+                background and found that most of them depend on repetitive
+                manual workflows. The breadth of these workflows surprised us –
+                most companies started off doing things manually, and eventually
+                either hired people to scale the manual work, or wrote scripts
+                using Selenium-like browser automation libraries.
+              </p>
+              <p>
+                In these conversations, one common point stood out: scaling is a
+                pain either way. Companies using human in the loop struggled to
+                adjust team sizes with fluctuating demand. The companies using
+                Selenium-like browser automation tools solved the scaling
+                problem (by virtue of software), but found that it would take
+                weeks to get a new workflow automated and would require ongoing
+                maintenance any time the underlying websites changed because
+                their XPath based interaction logic suddenly became invalid.
+              </p>
+              <p>
+                We felt like there was a way to get the best of both worlds with
+                LLMs. We could use LLMs to reason through a website’s layout,
+                while preserving the advantage of traditional browser
+                automations allowing it to scale alongside demand.
+              </p>
+              <p>
+                This led us to build Skyvern with a few core functionalities:
+              </p>
+              <p>
+                1. Skyvern can operate on websites it’s never seen before by
+                connecting visible elements with the natural language
+                instructions provided to us. We use a blend of computer vision
+                and DOM parsing to identify a set of possible actions on a
+                website, and multi-modal LLMs to map the natural language
+                instructions to the available actions on the page.
+              </p>
+              <p>
+                2. Skyvern is resistant to website layout changes, as it doesn’t
+                depend on any predetermined XPaths or other selectors. If a
+                layout ever changes, we can leverage the methodology in #1 to
+                complete the user-specified goal.
+              </p>
+              <p>
+                3. Skyvern accepts a blob of information when navigating
+                workflows. We rely on LLMs to reason through both the blob of
+                information and the information on the screen to create
+                real-time associations between user-supplied data and the
+                information on the screen.
+              </p>
+              <p></p>
+              <pre><code>    a. For example: While generating a quote from Geico, they commonly ask “Were you eligible to drive at 21?”. The answer could be inferred from the driver receiving their license in 2012, and having a birth date of 1996.
+</code></pre>
+              We’ve seen the above strategy adapt well to a number of use-cases
+              that Skyvern is helping companies with today [1]: 1. Automating
+              materials procurement by searching for, adding to cart, and
+              transacting products through vendor websites that don’t have APIs
+              2. Registering accounts, filing forms, and searching for
+              information on government websites (ex: registering franchise tax
+              information for Delaware C-corps) 3. Generating insurance quotes
+              by completing multi-step dynamic forms on insurance websites 4.
+              Automating the job application process by mapping user-specified
+              information (such as a Resume) to a job posting
+              <p>
+                And there are some use-cases we’re actively looking to expand
+                into: 1. Automating post-checkup data entry with patient data
+                inside medical EHR systems (ie submitting billing codes, adding
+                notes, etc) 2. Doing customer research ahead of discovery calls
+                by analyzing landing pages and other metadata about a specific
+                business
+              </p>
+              <p>
+                We have a quick demo of Skyvern in action here, along with some
+                instructions on running it locally (<a
+                  href="https://github.com/Skyvern-AI/skyvern?tab=readme-ov-file#demo"
+                  >https://github.com/Skyvern-AI/skyvern?tab=readme-ov-file#dem...</a
+                >)
+              </p>
+              <p>We’re still very early and would love to get your feedback!</p>
+              <p>
+                [1]
+                <a
+                  href="https://github.com/Skyvern-AI/skyvern?tab=readme-ov-file#real-world-examples-of-skyvern"
+                  >https://github.com/Skyvern-AI/skyvern?tab=readme-ov-file#rea...</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="39705788">
           <h3>
             <a
@@ -141,11 +257,11 @@
             <h4>
               <span>2024-03-14 @ 16:13:37</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39705788"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -163,11 +279,11 @@
             <h4>
               <span>2024-03-14 @ 15:52:34</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39705559"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -184,11 +300,11 @@
             <h4>
               <span>2024-03-14 @ 15:45:26</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39705487"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -206,11 +322,11 @@
             <h4>
               <span>2024-03-14 @ 15:21:59</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39705172"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -227,11 +343,11 @@
             <h4>
               <span>2024-03-14 @ 15:02:29</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39704914"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -246,7 +362,7 @@
             <h4>
               <span>2024-03-14 @ 14:45:33</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39704712"
                   >Comments</a
@@ -267,11 +383,11 @@
             <h4>
               <span>2024-03-14 @ 14:25:14</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39704430"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -288,7 +404,7 @@
             <h4>
               <span>2024-03-14 @ 14:15:25</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39704308"
                   >Comments</a
@@ -307,7 +423,7 @@
             <h4>
               <span>2024-03-14 @ 14:15:03</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39704304"
                   >Comments</a
@@ -328,7 +444,7 @@
             <h4>
               <span>2024-03-14 @ 13:57:54</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39704082"
                   >Comments</a
@@ -375,26 +491,6 @@
             </h4>
           </section>
         </section>
-        <section id="39702752">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=fcP07Rx7TVM"
-              >Interview with Robert Garner, Lead Designer of SPARC at Sun
-              Microsystems [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-14 @ 12:01:58</span
-              ><span class="points-container"
-                >Points: <span class="points">55</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39702752"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="39702604">
           <h3>
             <a
@@ -407,32 +503,11 @@
             <h4>
               <span>2024-03-14 @ 11:42:36</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">300</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39702604"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39702568">
-          <h3>
-            <a
-              class="item"
-              href="https://www.spacex.com/launches/mission/?missionId=starship-flight-3"
-              >Starship's Third Flight Test [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-14 @ 11:37:32</span
-              ><span class="points-container"
-                >Points: <span class="points">288</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39702568"
-                  >Comments</a
-                ><span class="descendants">: 227</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -449,11 +524,11 @@
             <h4>
               <span>2024-03-14 @ 11:23:13</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39702479"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -468,7 +543,7 @@
             <h4>
               <span>2024-03-14 @ 11:06:12</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39702386"
                   >Comments</a
@@ -487,11 +562,11 @@
             <h4>
               <span>2024-03-14 @ 10:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39702211"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -508,11 +583,11 @@
             <h4>
               <span>2024-03-14 @ 09:45:05</span
               ><span class="points-container"
-                >Points: <span class="points">212</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39701931"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -527,7 +602,7 @@
             <h4>
               <span>2024-03-14 @ 09:26:14</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39701848"
                   >Comments</a
@@ -548,11 +623,11 @@
             <h4>
               <span>2024-03-14 @ 07:33:10</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39701358"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -568,11 +643,11 @@
             <h4>
               <span>2024-03-14 @ 03:54:58</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39700448"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -589,11 +664,11 @@
             <h4>
               <span>2024-03-14 @ 03:54:30</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39700443"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -610,11 +685,11 @@
             <h4>
               <span>2024-03-14 @ 03:15:14</span
               ><span class="points-container"
-                >Points: <span class="points">818</span></span
+                >Points: <span class="points">823</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39700256"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -656,7 +731,28 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39694045"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 170</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39683984">
+          <h3>
+            <a
+              class="item"
+              href="https://cacm.acm.org/news/lifetime-learning-for-ai/"
+              >Edge AI devices eye lifetime learning</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-12 @ 19:40:02</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39683984"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -673,7 +769,7 @@
             <h4>
               <span>2024-03-12 @ 19:06:03</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39683501"
                   >Comments</a
@@ -698,7 +794,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39682871"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -715,7 +811,7 @@
             <h4>
               <span>2024-03-12 @ 11:29:44</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39678287"
                   >Comments</a
