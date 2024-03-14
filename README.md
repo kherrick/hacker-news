@@ -2,7 +2,7 @@
 
 * [2024-03-14, 05:43:38](https://news.ycombinator.com/item?id=39700885) - [OpenAI CTO Doesn't Know What Data Was Used to Train Sora [video]](https://www.youtube.com/watch?v=mAUpxN-EIgU)
 * [2024-03-14, 04:47:45](https://news.ycombinator.com/item?id=39700692) - [Resolume](https://www.resolume.com/)
-* [2024-03-14, 04:36:35](https://news.ycombinator.com/item?id=39700639) - [Boeing employee proposes fixes to the company](https://old.reddit.com/r/boeing/comments/1be2oyr/responsibility_for_boeings_poor_performance/)
+* [2024-03-14, 04:36:35](https://news.ycombinator.com/item?id=39700639) - [Responsibility for Boeing's Poor Performance](https://old.reddit.com/r/boeing/comments/1be2oyr/responsibility_for_boeings_poor_performance/)
 * [2024-03-14, 04:07:41](https://news.ycombinator.com/item?id=39700519) - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 * [2024-03-14, 03:54:58](https://news.ycombinator.com/item?id=39700448) - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
@@ -12,7 +12,7 @@
 * [2024-03-14, 00:28:42](https://news.ycombinator.com/item?id=39699251) - [Call by Hash](https://garnix.io/blog/call-by-hash)
 * [2024-03-13, 23:43:32](https://news.ycombinator.com/item?id=39698950) - [Nanos – A Unikernel](https://nanos.org)
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
-* [2024-03-13, 22:48:18](https://news.ycombinator.com/item?id=39698520) - [What Is Enlightenment? By Immanuel Kant [pdf]](https://courseworks2.columbia.edu/files/587042/download?download_frd=1)
+* [2024-03-13, 22:48:18](https://news.ycombinator.com/item?id=39698520) - [What Is Enlightenment? (1784)](https://web.archive.org/web/20240314052227/http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)
 * [2024-03-13, 22:32:12](https://news.ycombinator.com/item?id=39698398) - [Giant 'sand battery' holds a week's heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
 * [2024-03-13, 21:45:38](https://news.ycombinator.com/item?id=39697935) - [Spinkube: Running WASM in Kubernetes](https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s)
 * [2024-03-13, 21:07:19](https://news.ycombinator.com/item?id=39697520) - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)

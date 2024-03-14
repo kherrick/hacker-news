@@ -11,6 +11,7 @@
 * [2024-03-13, 22:51:10](https://news.ycombinator.com/item?id=39698546) - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
 * [2024-03-13, 22:48:18](https://news.ycombinator.com/item?id=39698520) - [What Is Enlightenment? By Immanuel Kant](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)
 * [2024-03-13, 22:48:18](https://news.ycombinator.com/item?id=39698520) - [What Is Enlightenment? By Immanuel Kant [pdf]](https://courseworks2.columbia.edu/files/587042/download?download_frd=1)
+* [2024-03-13, 22:48:18](https://news.ycombinator.com/item?id=39698520) - [What Is Enlightenment? (1784)](https://web.archive.org/web/20240314052227/http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)
 * [2024-03-13, 22:43:53](https://news.ycombinator.com/item?id=39698488) - [Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
 * [2024-03-13, 22:32:12](https://news.ycombinator.com/item?id=39698398) - [Giant 'sand battery' holds a week's heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
 * [2024-03-13, 21:58:37](https://news.ycombinator.com/item?id=39698087) - [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
