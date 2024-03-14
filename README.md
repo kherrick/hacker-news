@@ -14,6 +14,7 @@
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test [video]](https://www.spacex.com/launches/mission/?missionId=starship-flight-3)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
+* [2024-03-14, 11:15:45](https://news.ycombinator.com/item?id=39702443) - [Estimate your age of death](https://lars.yencken.org/tools/age-of-death)
 * [2024-03-14, 11:06:12](https://news.ycombinator.com/item?id=39702386) - [Playwright Test Generator](https://playwright.dev/docs/codegen)
 * [2024-03-14, 10:39:00](https://news.ycombinator.com/item?id=39702211) - [Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
@@ -28,7 +29,6 @@
 * [2024-03-12, 18:14:24](https://news.ycombinator.com/item?id=39682871) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 12:50:21](https://news.ycombinator.com/item?id=39678857) - [Building for Builders](https://deven.codes/posts/building-for-builders/)
 * [2024-03-12, 11:29:44](https://news.ycombinator.com/item?id=39678287) - [The Polka Dot Assembly Ships of the Eighth](https://www.vintagewings.ca/stories/polkadotwarriors)
-* [2024-03-12, 10:49:51](https://news.ycombinator.com/item?id=39678057) - [Estimating Software Projects: So you messed up. Now what? (2021)](https://jacobian.org/2021/jun/8/incorrect-estimates/)
 * [2024-03-12, 06:11:37](https://news.ycombinator.com/item?id=39676655) - [More Fixpoints (Functional Pearl) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3607853)
 
 ## [Archives](archives/index.md)
