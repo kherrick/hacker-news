@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
 * [2024-03-14, 16:02:19](https://news.ycombinator.com/item?id=39705680) - [How Nintendo's destruction of Yuzu is rocking the emulator world](https://www.theverge.com/24098640/nintendo-emulator-yuzu-lawsuit-switch-aftermath)
+* [2024-03-14, 15:52:34](https://news.ycombinator.com/item?id=39705559) - [Behind the OnlyFans porn boom: allegations of rape, abuse, betrayal](https://www.reuters.com/investigates/special-report/onlyfans-sex-legal-cases/)
 * [2024-03-14, 15:45:26](https://news.ycombinator.com/item?id=39705487) - [Most HR Data Is Bad Data](https://hbr.org/2015/02/most-hr-data-is-bad-data)
 * [2024-03-14, 15:44:21](https://news.ycombinator.com/item?id=39705477) - [The Atlantic's great American novels of the last 100 years](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fiction/677479/)
 * [2024-03-14, 15:41:00](https://news.ycombinator.com/item?id=39705430) - [Australian computer scientist is not Bitcoin creator Nakamoto, high court rules](https://www.theguardian.com/technology/2024/mar/14/australian-craig-wright-not-bitcoin-creator-satoshi-nakamoto-high-court-rules)
@@ -45,6 +46,7 @@
 * [2024-03-14, 10:39:00](https://news.ycombinator.com/item?id=39702211) - [March 14 (3/14): Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
 * [2024-03-14, 10:09:35](https://news.ycombinator.com/item?id=39702053) - [British spy had governments on both sides of the war paying for his girlfriends](https://en.wikipedia.org/wiki/Eddie_Chapman)
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
+* [2024-03-14, 09:26:14](https://news.ycombinator.com/item?id=39701848) - [Digital Forgeries Are Hard](https://mjg59.dreamwidth.org/69507.html)
 * [2024-03-14, 09:15:47](https://news.ycombinator.com/item?id=39701791) - [Swedish data brokers claim journalists' legal protection to evade EU law](https://noyb.eu/en/swedish-data-brokers-claim-journalists-legal-protection-evade-eu-law)
 * [2024-03-14, 08:15:18](https://news.ycombinator.com/item?id=39701502) - [FCC Denies Starlink Low-Orbit Bid for Lower Latency](https://spectrum.ieee.org/starlink-vleo-below-iss)
 * [2024-03-14, 08:08:15](https://news.ycombinator.com/item?id=39701473) - [NASA Engineers Make Progress Toward Understanding Voyager 1 Issue](https://blogs.nasa.gov/sunspot/2024/03/13/nasa-engineers-make-progress-toward-understanding-voyager-1-issue/)
