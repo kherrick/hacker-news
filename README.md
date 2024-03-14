@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-14, 23:00:24](https://news.ycombinator.com/item?id=39709991) - [Class Action Against General Motors LLC, OnStar LLC, LexisNexis Risk Solutions [pdf]](https://static01.nyt.com/newsgraphics/documenttools/0a813fc8e0ac1b6c/6c03d310-full.pdf)
+* [2024-03-14, 22:59:35](https://news.ycombinator.com/item?id=39709981) - [Oregon Outback is now the largest Dark Sky Sanctuary in the world](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
 * [2024-03-14, 22:58:33](https://news.ycombinator.com/item?id=39709974) - [Admin of darknet drug market demanding every user pays ransom after taking money](https://twitter.com/DrRebeccaTidy/status/1767670379609248180)
 * [2024-03-14, 22:43:45](https://news.ycombinator.com/item?id=39709835) - [Apple Buys DarwinAI Ahead of Major Generative AI Updates Coming in iOS 18](https://www.macrumors.com/2024/03/14/apple-acquires-darwinai/)
 * [2024-03-14, 22:43:14](https://news.ycombinator.com/item?id=39709827) - [It's Hearty, It's Meaty, It's Mold](https://newscenter.lbl.gov/2024/03/14/its-hearty-its-meaty-its-mold/)
@@ -21,7 +22,6 @@
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
 * [2024-03-14, 15:02:29](https://news.ycombinator.com/item?id=39704914) - [NASA engineers make progress toward understanding Voyager 1 issue](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
 * [2024-03-14, 12:27:42](https://news.ycombinator.com/item?id=39703010) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
-* [2024-03-14, 12:10:10](https://news.ycombinator.com/item?id=39702829) - [Mechanoid: WASM Applications on Embedded Systems](https://github.com/hybridgroup/mechanoid)
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon passes right-to-repair law Apple lobbied to kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 11:18:09](https://news.ycombinator.com/item?id=39702457) - [Real time weather balloon tracking](https://sondehub.org)
