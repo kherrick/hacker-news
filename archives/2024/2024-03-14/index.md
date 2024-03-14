@@ -12,6 +12,7 @@
 * [2024-03-14, 04:36:35](https://news.ycombinator.com/item?id=39700639) - [Boeing employee proposes fixes to the company](https://old.reddit.com/r/boeing/comments/1be2oyr/responsibility_for_boeings_poor_performance/)
 * [2024-03-14, 04:07:41](https://news.ycombinator.com/item?id=39700519) - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 * [2024-03-14, 03:54:58](https://news.ycombinator.com/item?id=39700448) - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
+* [2024-03-14, 03:54:30](https://news.ycombinator.com/item?id=39700443) - [HTTP/2 and HTTP/3 explained](https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained/)
 * [2024-03-14, 03:27:27](https://news.ycombinator.com/item?id=39700318) - [Movement of pilot's seat a focus of probe into Latam Boeing flight, report says](https://www.reuters.com/business/aerospace-defense/pilot-seat-movement-focus-probe-into-latam-boeing-flight-report-says-2024-03-13/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for Others but Mostly for Yourself](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
