@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 20:03:16](https://news.ycombinator.com/item?id=39708347) - [Pornhub Blocked in Texas](https://variety.com/2024/digital/news/pornhub-texas-blocked-age-verification-law-1235942280/)
+* [2024-03-14, 19:39:51](https://news.ycombinator.com/item?id=39708116) - [European Audi A3 Buyers Have to Subscribe to Use Basic Car Features](https://jalopnik.com/audi-a3-buyers-must-subscribe-to-use-basic-car-features-1851331903)
 * [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 17:56:02](https://news.ycombinator.com/item?id=39707017) - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 * [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
@@ -10,7 +12,6 @@
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 * [2024-03-14, 16:35:05](https://news.ycombinator.com/item?id=39706045) - [SuperPrompt: Better Text to Image Prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/)
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
-* [2024-03-14, 16:13:37](https://news.ycombinator.com/item?id=39705788) - [Glassdoor updated my profile to add my real name and location](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
 * [2024-03-14, 15:02:29](https://news.ycombinator.com/item?id=39704914) - [NASA engineers make progress toward understanding Voyager 1 issue](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
 * [2024-03-14, 14:45:33](https://news.ycombinator.com/item?id=39704712) - [Show HN: PyKidos, Teach Your Kid Python in the Browser](https://pykidos.github.io/)
 * [2024-03-14, 14:25:14](https://news.ycombinator.com/item?id=39704430) - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
@@ -29,7 +30,6 @@
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-12, 19:06:03](https://news.ycombinator.com/item?id=39683501) - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
 * [2024-03-12, 14:48:50](https://news.ycombinator.com/item?id=39680187) - [Pacing: the most important skill in startup engineering leadership](https://danielmangum.com/posts/most-important-skill-startup-engineering-leadership/)
-* [2024-03-12, 11:29:44](https://news.ycombinator.com/item?id=39678287) - [The Polka Dot Assembly Ships of the Eighth](https://www.vintagewings.ca/stories/polkadotwarriors)
 
 ## [Archives](archives/index.md)
 
