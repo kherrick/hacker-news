@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 12:49:56",
+      "https://news.ycombinator.com/item?id=39703255"
+    ],
+    [
+      "Cloudflare mitigates AI side channel attack",
+      "https://blog.cloudflare.com/ai-side-channel-attack-mitigated"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 12:42:42",
       "https://news.ycombinator.com/item?id=39703173"
     ],
@@ -27,6 +37,16 @@
     [
       "Boeing overwrote security camera footage of repair work on Alaska door plug",
       "https://www.axios.com/2024/03/13/boeing-video-footage-overwrite-erased-door-plug-alaska"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 12:12:42",
+      "https://news.ycombinator.com/item?id=39702851"
+    ],
+    [
+      "Adobe Firefly repeats the same AI blunders as Google Gemini",
+      "https://www.semafor.com/article/03/13/2024/adobe-firefly-repeats-the-same-ai-blunders-as-google-gemini"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "Giant 'sand battery' holds a week's heat for a whole town",
       "https://newatlas.com/energy/sand-battery-finland/"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 21:45:38",
-      "https://news.ycombinator.com/item?id=39697935"
-    ],
-    [
-      "Spinkube: Running WASM in Kubernetes",
-      "https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 19:21:53",
-      "https://news.ycombinator.com/item?id=39696152"
-    ],
-    [
-      "BreakTime: Running Breakout inside Google Calendar",
-      "https://eieio.games/nonsense/game-13-breaktime/"
     ]
   ],
   [
