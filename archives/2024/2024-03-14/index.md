@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 17:57:25](https://news.ycombinator.com/item?id=39707034) - [Google prevents Gemini AI from answering questions about upcoming elections](https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/)
+* [2024-03-14, 17:56:02](https://news.ycombinator.com/item?id=39707017) - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 * [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's Databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 * [2024-03-14, 17:17:38](https://news.ycombinator.com/item?id=39706577) - [Cicadas' unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
 * [2024-03-14, 17:14:36](https://news.ycombinator.com/item?id=39706535) - [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
 * [2024-03-14, 17:08:54](https://news.ycombinator.com/item?id=39706471) - [New Beeper Android App](https://blog.beeper.com/p/new-beeper-android-app-open-beta)
 * [2024-03-14, 17:06:26](https://news.ycombinator.com/item?id=39706429) - [Gun violence, the United States is an outlier](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
+* [2024-03-14, 16:57:00](https://news.ycombinator.com/item?id=39706330) - [Why Are (Most) Sofas So Bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 * [2024-03-14, 16:42:34](https://news.ycombinator.com/item?id=39706137) - [South Africa Internet Hit by Multiple Subsea Cable Breaks](https://subtelforum.com/south-africa-internet-hit-by-multiple-subsea-cable-breaks/)
+* [2024-03-14, 16:35:05](https://news.ycombinator.com/item?id=39706045) - [SuperPrompt: Better Text to Image Prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/)
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – open-source browser automation tool](https://github.com/Skyvern-AI/skyvern)
 * [2024-03-14, 16:22:12](https://news.ycombinator.com/item?id=39705887) - [UK Judge Declares Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto](https://unchainedcrypto.com/uk-judge-declares-craig-wright-is-not-bitcoin-creator-satoshi-nakamoto/)
 * [2024-03-14, 16:13:37](https://news.ycombinator.com/item?id=39705788) - [Time to delete your Glassdoor account](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
