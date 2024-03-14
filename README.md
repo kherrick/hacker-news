@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-14, 03:27:27](https://news.ycombinator.com/item?id=39700318) - [Movement of pilot's seat a focus of probe into Latam Boeing flight, report says](https://www.reuters.com/business/aerospace-defense/pilot-seat-movement-focus-probe-into-latam-boeing-flight-report-says-2024-03-13/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for Others but Mostly for Yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 * [2024-03-14, 02:22:48](https://news.ycombinator.com/item?id=39699996) - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
@@ -21,6 +20,7 @@
 * [2024-03-13, 16:05:29](https://news.ycombinator.com/item?id=39693221) - [Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 * [2024-03-13, 15:44:29](https://news.ycombinator.com/item?id=39692801) - [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
 * [2024-03-13, 15:22:56](https://news.ycombinator.com/item?id=39692387) - [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
+* [2024-03-13, 15:14:04](https://news.ycombinator.com/item?id=39692249) - [Show HN: Phospho – Text Analytics for LLM Apps (Posthog for Prompts)](https://github.com/phospho-app/phospho)
 * [2024-03-13, 14:38:11](https://news.ycombinator.com/item?id=39691735) - [Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
 * [2024-03-13, 13:41:59](https://news.ycombinator.com/item?id=39691119) - [Mass timber is great, but it will not solve the housing shortage](https://www.construction-physics.com/p/mass-timber-is-great-but-it-will)
 * [2024-03-13, 13:40:17](https://news.ycombinator.com/item?id=39691108) - [More AR Glasses USB Protocols: The Worse, the Better and the Prettier](https://voidcomputing.hu/blog/worse-better-prettier/)
