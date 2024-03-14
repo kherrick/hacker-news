@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 20:54:41](https://news.ycombinator.com/item?id=39708846) - [SEqlite – Minimal Stack Exchange Data Dump in SQLite Format](https://seqlite.puny.engineering/)
 * [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 17:56:02](https://news.ycombinator.com/item?id=39707017) - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 * [2024-03-14, 17:51:30](https://news.ycombinator.com/item?id=39706968) - [How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
@@ -29,7 +30,6 @@
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-12, 19:06:03](https://news.ycombinator.com/item?id=39683501) - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
 * [2024-03-12, 14:48:50](https://news.ycombinator.com/item?id=39680187) - [Pacing: the most important skill in startup engineering leadership](https://danielmangum.com/posts/most-important-skill-startup-engineering-leadership/)
-* [2024-03-12, 11:29:44](https://news.ycombinator.com/item?id=39678287) - [The Polka Dot Assembly Ships of the Eighth](https://www.vintagewings.ca/stories/polkadotwarriors)
 
 ## [Archives](archives/index.md)
 
