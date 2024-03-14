@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-14, 04:07:41](https://news.ycombinator.com/item?id=39700519) - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for Others but Mostly for Yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 * [2024-03-14, 02:22:48](https://news.ycombinator.com/item?id=39699996) - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
@@ -26,7 +27,6 @@
 * [2024-03-13, 13:40:17](https://news.ycombinator.com/item?id=39691108) - [More AR Glasses USB Protocols: The Worse, the Better and the Prettier](https://voidcomputing.hu/blog/worse-better-prettier/)
 * [2024-03-13, 11:53:09](https://news.ycombinator.com/item?id=39690363) - [How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 * [2024-03-13, 01:14:48](https://news.ycombinator.com/item?id=39686966) - [A wandering white shark's epic journey could provide clues for protection](https://phys.org/news/2024-03-white-shark-epic-journey-clues.html)
-* [2024-03-12, 12:36:44](https://news.ycombinator.com/item?id=39678745) - [YX Problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
 * [2024-03-12, 07:57:42](https://news.ycombinator.com/item?id=39677152) - [Howard Hughes modified a 1925 Doble steam car to reach 133 MPH (2022)](https://www.hemmings.com/stories/article/steaming-sensation-1925-doble)
 * [2024-03-12, 06:06:06](https://news.ycombinator.com/item?id=39676636) - [The Battles over Beginnings](https://aeon.co/essays/machiavelli-on-the-problem-of-our-impure-beginnings)

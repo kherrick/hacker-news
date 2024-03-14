@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 04:07:41](https://news.ycombinator.com/item?id=39700519) - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 * [2024-03-14, 03:27:27](https://news.ycombinator.com/item?id=39700318) - [Movement of pilot's seat a focus of probe into Latam Boeing flight, report says](https://www.reuters.com/business/aerospace-defense/pilot-seat-movement-focus-probe-into-latam-boeing-flight-report-says-2024-03-13/)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-14, 02:38:45](https://news.ycombinator.com/item?id=39700072) - [Write for Others but Mostly for Yourself](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
