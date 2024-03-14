@@ -23,6 +23,7 @@
 * [2024-03-12, 19:44:18](https://news.ycombinator.com/item?id=39684043) - [I'm Excited about Darklang](https://stachu.net/im-really-excited-about-darklang/)
 * [2024-03-12, 19:43:18](https://news.ycombinator.com/item?id=39684027) - [Bluesky's stackable approach to moderation](https://bsky.social/about/blog/03-12-2024-stackable-moderation)
 * [2024-03-12, 19:33:05](https://news.ycombinator.com/item?id=39683889) - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
+* [2024-03-12, 19:06:03](https://news.ycombinator.com/item?id=39683501) - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
 * [2024-03-12, 19:01:53](https://news.ycombinator.com/item?id=39683455) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:53:28](https://news.ycombinator.com/item?id=39683351) - [Vehicle brakes produce charged particles that may harm public health](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
 * [2024-03-12, 18:27:55](https://news.ycombinator.com/item?id=39683059) - [Multi-Threading and Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
