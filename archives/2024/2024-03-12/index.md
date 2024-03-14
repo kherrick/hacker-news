@@ -80,6 +80,7 @@
 * [2024-03-12, 12:00:13](https://news.ycombinator.com/item?id=39678491) - [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
 * [2024-03-12, 11:44:01](https://news.ycombinator.com/item?id=39678374) - [Veryl: A Modern Hardware Description Language](https://github.com/veryl-lang/veryl)
 * [2024-03-12, 11:33:06](https://news.ycombinator.com/item?id=39678312) - [DMCA Notices Took Down 20,517 GitHub Projects Last Year](https://torrentfreak.com/dmca-notices-took-down-20517-github-projects-last-year-240308/)
+* [2024-03-12, 11:29:44](https://news.ycombinator.com/item?id=39678287) - [The Polka Dot Assembly Ships of the Eighth](https://www.vintagewings.ca/stories/polkadotwarriors)
 * [2024-03-12, 11:03:49](https://news.ycombinator.com/item?id=39678123) - [Visually edit CSS, made for 5 year old's](https://eazycss.com/)
 * [2024-03-12, 10:50:42](https://news.ycombinator.com/item?id=39678062) - [A glimpse into the universe where Windows died with the 1980s](https://www.theregister.com/2024/03/11/trying_ms_prerelease_os2_2/)
 * [2024-03-12, 10:49:51](https://news.ycombinator.com/item?id=39678057) - [Estimating Software Projects: So you messed up. Now what? (2021)](https://jacobian.org/2021/jun/8/incorrect-estimates/)
