@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-15, 23:05:58](https://news.ycombinator.com/item?id=39721603) - [Win against Facebook. Giant not allowed to censor content at will](https://en.panoptykon.org/sin-wins-against-facebook)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance $$$$$](https://www.workatastartup.com/jobs/55496)
 * [2024-03-15, 22:00:31](https://news.ycombinator.com/item?id=39721158) - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 * [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
@@ -30,6 +29,7 @@
 * [2024-03-14, 07:54:43](https://news.ycombinator.com/item?id=39701427) - [How to embrace asynchronous communication for remote work](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
 * [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
 * [2024-03-14, 07:11:26](https://news.ycombinator.com/item?id=39701267) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95)
+* [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 
 ## [Archives](archives/index.md)
 
