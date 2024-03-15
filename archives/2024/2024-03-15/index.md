@@ -6,6 +6,7 @@
 
 * [2024-03-15, 08:58:53](https://news.ycombinator.com/item?id=39713489) - [McDonald's customers unable to order after systems outage](https://www.bbc.co.uk/news/business-68573106)
 * [2024-03-15, 08:36:13](https://news.ycombinator.com/item?id=39713362) - [Everest 2024: Nepal's \"GPS Chip\" Plan Has Major Problems](https://www.alanarnette.com/blog/2024/03/05/everest-2024-nepals-gps-chip-plan-has-major-problems/)
+* [2024-03-15, 08:29:52](https://news.ycombinator.com/item?id=39713323) - [Berlin's techno scene added to Unesco intangible cultural heritage list](https://www.theguardian.com/world/2024/mar/15/berlins-techno-scene-added-to-unesco-intangible-cultural-heritage-list)
 * [2024-03-15, 08:16:47](https://news.ycombinator.com/item?id=39713255) - [What Every User Should Know About Mixed Precision Training in PyTorch](https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/)
 * [2024-03-15, 08:06:14](https://news.ycombinator.com/item?id=39713174) - [South African minister: We will arrest citizens who return from IDF service](https://www.msn.com/en-za/news/other/south-african-minister-we-will-arrest-citizens-who-return-from-idf-service/ar-BB1jQgHH)
 * [2024-03-15, 06:36:06](https://news.ycombinator.com/item?id=39712637) - [Google asks me daily for my location to improve connectivity even if I say no](https://news.ycombinator.com/item?id=39712637)
