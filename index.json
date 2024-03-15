@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-03-15, 19:41:56",
-      "https://news.ycombinator.com/item?id=39719850"
+      "2024-03-15, 19:54:17",
+      "https://news.ycombinator.com/item?id=39719979"
     ],
     [
-      "Norfolk County Council beats Apple in £385M iPhone row",
-      "https://www.bbc.co.uk/news/technology-68580235"
+      "The Data Is Clear: People Are Having Less Sex",
+      "https://www.graphsaboutreligion.com/p/the-data-is-clear-people-are-having"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Open Source Alternatives to Popular Cloud Services",
       "https://degooglisons-internet.org/en/"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 19:33:26",
+      "https://news.ycombinator.com/item?id=39719777"
+    ],
+    [
+      "Building a dynamic Canvas rendering engine using JSX",
+      "https://www.aha.io/engineering/articles/canvasx"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Supreme Court Sets Rules for Blocking Citizens from Officials' Accounts",
       "https://www.nytimes.com/2024/03/15/us/supreme-court-social-media-free-speech.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 18:49:06",
+      "https://news.ycombinator.com/item?id=39719299"
+    ],
+    [
+      "Microsoft's Rust guide for C#/.NET developers",
+      "https://microsoft.github.io/rust-for-dotnet-devs/latest/"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Tiny bitfield based text renderer (2022)",
       "https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 16:45:05",
+      "https://news.ycombinator.com/item?id=39717728"
+    ],
+    [
+      "raylib – A simple library to enjoy videogames programming",
+      "https://www.raylib.com/index.html"
     ]
   ],
   [
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2024-03-14, 20:30:17",
-      "https://news.ycombinator.com/item?id=39708591"
-    ],
-    [
-      "More powerful Go execution traces",
-      "https://go.dev/blog/execution-traces-2024"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 16:57:00",
       "https://news.ycombinator.com/item?id=39706330"
     ],
     [
       "Why are most sofas so bad?",
       "https://www.dwell.com/article/dtc-sofa-crisis-32304b9e"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 11:22:12",
-      "https://news.ycombinator.com/item?id=39702475"
-    ],
-    [
-      "Experiments in Printmaking, Part 1",
-      "https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Romeo and Julia, Where Romeo Is Basic Statistics",
       "https://b-lukaszuk.github.io/RJ_BS_eng/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 07:21:20",
-      "https://news.ycombinator.com/item?id=39701307"
-    ],
-    [
-      "Generating the Alphabet",
-      "https://www.amygoodchild.com/blog/generating-the-alphabet"
     ]
   ]
 ]
