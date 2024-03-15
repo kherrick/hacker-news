@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=39720388"
     ],
     [
-      "CS251: Great Ideas in Theoretical Computer Science (CMU)",
+      "Great Ideas in Theoretical Computer Science",
       "https://www.cs251.com"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 20:11:56",
-      "https://news.ycombinator.com/item?id=39720188"
-    ],
-    [
-      "Mercedes is trialing humanoid robots for 'low skill, repetitive' tasks",
-      "https://www.theverge.com/2024/3/15/24101791/mercedes-robot-humanoid-apptronik-apollo-manufacturing"
     ]
   ],
   [
@@ -37,6 +27,16 @@
     [
       "ArXiv Papers as Audiobooks",
       "https://github.com/imelnyk/ArxivPapers"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 19:33:26",
+      "https://news.ycombinator.com/item?id=39719777"
+    ],
+    [
+      "Building a dynamic Canvas rendering engine using JSX",
+      "https://www.aha.io/engineering/articles/canvasx"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "OpenVPN Is Open to VPN Fingerprinting",
       "https://arxiv.org/abs/2403.03998"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 16:53:16",
-      "https://news.ycombinator.com/item?id=39717838"
-    ],
-    [
-      "What's worked in Computer Science: 1999 vs. 2015 (2015)",
-      "http://danluu.com/butler-lampson-1999/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "How to embrace asynchronous communication for remote work",
       "https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 07:21:20",
+      "https://news.ycombinator.com/item?id=39701307"
+    ],
+    [
+      "Generating the Alphabet",
+      "https://www.amygoodchild.com/blog/generating-the-alphabet"
     ]
   ],
   [
