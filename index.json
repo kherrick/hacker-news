@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 16:51:24",
+      "https://news.ycombinator.com/item?id=39717815"
+    ],
+    [
+      "Tiny bitfield based text renderer",
+      "https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 16:35:31",
       "https://news.ycombinator.com/item?id=39717615"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2024-03-15, 13:27:20",
+      "https://news.ycombinator.com/item?id=39715223"
+    ],
+    [
+      "The Montreal problem: Why programming languages need a style czar",
+      "https://earthly.dev/blog/language-style-czar/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 10:36:37",
       "https://news.ycombinator.com/item?id=39714053"
     ],
@@ -87,16 +107,6 @@
     [
       "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
       "https://arxiv.org/abs/2403.09629"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 08:40:04",
-      "https://news.ycombinator.com/item?id=39713383"
-    ],
-    [
-      "Work life culture is ruined today. My Experience of Last 12 Years",
-      "https://enginebogie.com/public/charchaa/post/the-decline-of-work-life-balance-a-12-year-tech-industry-perspective/144"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Zerodha Tech – Hello, World",
       "https://zerodha.tech/blog/hello-world/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 09:45:05",
-      "https://news.ycombinator.com/item?id=39701931"
-    ],
-    [
-      "Reverse engineering a car key fob signal",
-      "https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html"
     ]
   ],
   [
