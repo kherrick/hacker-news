@@ -42,6 +42,7 @@
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 * [2024-03-14, 16:42:34](https://news.ycombinator.com/item?id=39706137) - [South Africa Internet Hit by Multiple Subsea Cable Breaks](https://subtelforum.com/south-africa-internet-hit-by-multiple-subsea-cable-breaks/)
 * [2024-03-14, 16:35:05](https://news.ycombinator.com/item?id=39706045) - [SuperPrompt: Better Text to Image Prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/)
+* [2024-03-14, 16:34:15](https://news.ycombinator.com/item?id=39706035) - [Show HN: Frigade - React SDK for building quality onboarding & activation flows](https://frigade.com)
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – open-source browser automation tool](https://github.com/Skyvern-AI/skyvern)
 * [2024-03-14, 16:22:12](https://news.ycombinator.com/item?id=39705887) - [UK Judge Declares Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto](https://unchainedcrypto.com/uk-judge-declares-craig-wright-is-not-bitcoin-creator-satoshi-nakamoto/)
 * [2024-03-14, 16:13:37](https://news.ycombinator.com/item?id=39705788) - [Time to delete your Glassdoor account](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
