@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-15, 04:22:36",
-      "https://news.ycombinator.com/item?id=39712049"
+      "2024-03-15, 04:16:40",
+      "https://news.ycombinator.com/item?id=39712025"
     ],
     [
-      "OpenAI's Lies and Half-Truths",
-      "https://garymarcus.substack.com/p/openais-lies-and-half-truths"
+      "RSS was released 25 years ago today",
+      "https://en.wikipedia.org/wiki/RSS"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "TextSnatcher: Copy text from images, for the Linux Desktop",
       "https://github.com/RajSolai/TextSnatcher"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 02:40:24",
+      "https://news.ycombinator.com/item?id=39711527"
+    ],
+    [
+      "Weak rules allow ultra-processed foods like Lunchables on school menus",
+      "https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-03-14, 17:14:36",
-      "https://news.ycombinator.com/item?id=39706535"
-    ],
-    [
-      "Show HN: A fast HNSW implementation in Rust",
-      "https://github.com/swapneel/hnsw-rust"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 16:57:00",
       "https://news.ycombinator.com/item?id=39706330"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-03-14, 10:54:32",
+      "https://news.ycombinator.com/item?id=39702295"
+    ],
+    [
+      "Zerodha Tech – Hello, World",
+      "https://zerodha.tech/blog/hello-world/"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 09:26:14",
       "https://news.ycombinator.com/item?id=39701848"
     ],
     [
       "Digital forgeries are hard",
       "https://mjg59.dreamwidth.org/69507.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 04:47:45",
-      "https://news.ycombinator.com/item?id=39700692"
-    ],
-    [
-      "Resolume",
-      "https://www.resolume.com/"
     ]
   ],
   [
