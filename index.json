@@ -101,22 +101,32 @@
   ],
   [
     [
+      "2024-03-15, 07:07:46",
+      "https://news.ycombinator.com/item?id=39712804"
+    ],
+    [
+      "Programs written in Golang have no secrets",
+      "https://gopacker.dev/docs/"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 06:35:17",
+      "https://news.ycombinator.com/item?id=39712634"
+    ],
+    [
+      "I figured out how DMARC works, and it almost broke me",
+      "https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 04:53:25",
       "https://news.ycombinator.com/item?id=39712173"
     ],
     [
       "Harvard concluded that a dishonesty expert committed misconduct",
       "https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 04:16:12",
-      "https://news.ycombinator.com/item?id=39712021"
-    ],
-    [
-      "Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct",
-      "https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "More powerful Go execution traces",
       "https://go.dev/blog/execution-traces-2024"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 16:57:00",
-      "https://news.ycombinator.com/item?id=39706330"
-    ],
-    [
-      "Why are most sofas so bad?",
-      "https://www.dwell.com/article/dtc-sofa-crisis-32304b9e"
     ]
   ],
   [
