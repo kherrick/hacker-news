@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 15:50:30](https://news.ycombinator.com/item?id=39717097) - [Former telecom manager admits to doing SIM swaps for $1k](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
 * [2024-03-15, 15:00:27](https://news.ycombinator.com/item?id=39716527) - [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
 * [2024-03-15, 14:58:30](https://news.ycombinator.com/item?id=39716494) - [Reversing for dummies – x86 assembly and C code (Beginner/ADHD friendly)](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 * [2024-03-15, 13:54:22](https://news.ycombinator.com/item?id=39715497) - [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
@@ -20,7 +21,6 @@
 * [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 16:57:00](https://news.ycombinator.com/item?id=39706330) - [Why are most sofas so bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
-* [2024-03-14, 16:34:15](https://news.ycombinator.com/item?id=39706035) - [Show HN: Frigade - React SDK for building quality onboarding & activation flows](https://frigade.com)
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 11:22:12](https://news.ycombinator.com/item?id=39702475) - [Experiments in Printmaking, Part 1](https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html)
