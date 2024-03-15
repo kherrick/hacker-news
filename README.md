@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 20:30:45](https://news.ycombinator.com/item?id=39720388) - [CS251: Great Ideas in Theoretical Computer Science (CMU)](https://www.cs251.com)
+* [2024-03-15, 20:11:56](https://news.ycombinator.com/item?id=39720188) - [Mercedes is trialing humanoid robots for 'low skill, repetitive' tasks](https://www.theverge.com/2024/3/15/24101791/mercedes-robot-humanoid-apptronik-apollo-manufacturing)
 * [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
-* [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 19:37:55](https://news.ycombinator.com/item?id=39719815) - [Open Source Alternatives to Popular Cloud Services](https://degooglisons-internet.org/en/)
 * [2024-03-15, 19:33:26](https://news.ycombinator.com/item?id=39719777) - [Building a dynamic Canvas rendering engine using JSX](https://www.aha.io/engineering/articles/canvasx)
 * [2024-03-15, 19:01:24](https://news.ycombinator.com/item?id=39719438) - [Supreme Court Sets Rules for Blocking Citizens from Officials' Accounts](https://www.nytimes.com/2024/03/15/us/supreme-court-social-media-free-speech.html)
@@ -23,13 +24,12 @@
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-14, 22:59:35](https://news.ycombinator.com/item?id=39709981) - [The Oregon Outback International Dark Sky Sanctuary](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
-* [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 * [2024-03-14, 16:57:00](https://news.ycombinator.com/item?id=39706330) - [Why are most sofas so bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
 * [2024-03-14, 11:22:12](https://news.ycombinator.com/item?id=39702475) - [Experiments in Printmaking, Part 1](https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html)
 * [2024-03-14, 09:14:19](https://news.ycombinator.com/item?id=39701785) - [Improving cursor rendering on Wayland](https://blog.vaxry.net/articles/2024-cursors)
+* [2024-03-14, 08:21:08](https://news.ycombinator.com/item?id=39701543) - [DBOS Operating System](https://www.dbos.dev/)
 * [2024-03-14, 07:54:43](https://news.ycombinator.com/item?id=39701427) - [How to embrace asynchronous communication for remote work](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
 * [2024-03-14, 07:39:07](https://news.ycombinator.com/item?id=39701380) - [Romeo and Julia, Where Romeo Is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
-* [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
 
 ## [Archives](archives/index.md)
 

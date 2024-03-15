@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 20:30:45](https://news.ycombinator.com/item?id=39720388) - [CS251: Great Ideas in Theoretical Computer Science (CMU)](https://www.cs251.com)
+* [2024-03-15, 20:11:56](https://news.ycombinator.com/item?id=39720188) - [Mercedes is trialing humanoid robots for 'low skill, repetitive' tasks](https://www.theverge.com/2024/3/15/24101791/mercedes-robot-humanoid-apptronik-apollo-manufacturing)
 * [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
 * [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 19:54:17](https://news.ycombinator.com/item?id=39719979) - [The Data Is Clear: People Are Having Less Sex](https://www.graphsaboutreligion.com/p/the-data-is-clear-people-are-having)
