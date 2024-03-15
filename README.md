@@ -29,7 +29,7 @@
 * [2024-03-14, 09:14:19](https://news.ycombinator.com/item?id=39701785) - [Improving cursor rendering on Wayland](https://blog.vaxry.net/articles/2024-cursors)
 * [2024-03-14, 08:21:08](https://news.ycombinator.com/item?id=39701543) - [DBOS Operating System](https://www.dbos.dev/)
 * [2024-03-14, 07:54:43](https://news.ycombinator.com/item?id=39701427) - [How to embrace asynchronous communication for remote work](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
-* [2024-03-14, 07:39:07](https://news.ycombinator.com/item?id=39701380) - [Romeo and Julia, Where Romeo Is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
+* [2024-03-14, 07:11:26](https://news.ycombinator.com/item?id=39701267) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95)
 
 ## [Archives](archives/index.md)
 

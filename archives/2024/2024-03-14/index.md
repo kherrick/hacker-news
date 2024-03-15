@@ -105,6 +105,7 @@
 * [2024-03-14, 07:39:07](https://news.ycombinator.com/item?id=39701380) - [Romeo and Julia, Where Romeo Is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 * [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 * [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
+* [2024-03-14, 07:11:26](https://news.ycombinator.com/item?id=39701267) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95)
 * [2024-03-14, 07:10:24](https://news.ycombinator.com/item?id=39701261) - [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
 * [2024-03-14, 06:52:40](https://news.ycombinator.com/item?id=39701177) - [Vancouver's New Mega-Development](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
 * [2024-03-14, 06:45:10](https://news.ycombinator.com/item?id=39701142) - [The Mathematical Movie Database](https://www.qedcat.com/moviemath/index.html)
