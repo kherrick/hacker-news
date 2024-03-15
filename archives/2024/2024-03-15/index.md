@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)
 * [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
 * [2024-03-15, 16:35:31](https://news.ycombinator.com/item?id=39717615) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
+* [2024-03-15, 16:30:07](https://news.ycombinator.com/item?id=39717558) - [FTC and DOJ want to free McDonald's ice cream machines from DMCA repair rules](https://arstechnica.com/tech-policy/2024/03/ftc-and-doj-want-to-free-mcdonalds-ice-cream-machines-from-dmca-repair-rules/)
 * [2024-03-15, 16:00:21](https://news.ycombinator.com/item?id=39717232) - [Realtors Reach Settlement That Will Change How Americans Buy and Sell Homes](https://www.wsj.com/real-estate/realtors-settlement-change-buy-sell-homes-da45eb23)
+* [2024-03-15, 15:53:39](https://news.ycombinator.com/item?id=39717150) - [NPM Install Everything, and the Complete and Utter Chaos That Follows](https://boehs.org/node/npm-everything)
 * [2024-03-15, 15:50:30](https://news.ycombinator.com/item?id=39717097) - [Former telecom manager admits to doing SIM swaps for $1k](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
 * [2024-03-15, 15:06:38](https://news.ycombinator.com/item?id=39716589) - [A new technique to work out a corpse's time of death](https://www.economist.com/science-and-technology/2024/03/06/a-new-technique-to-work-out-a-corpses-time-of-death)
 * [2024-03-15, 15:00:27](https://news.ycombinator.com/item?id=39716527) - [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
