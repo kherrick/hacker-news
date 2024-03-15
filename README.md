@@ -2,6 +2,7 @@
 
 * [2024-03-15, 15:06:38](https://news.ycombinator.com/item?id=39716589) - [A new technique to work out a corpse's time of death](https://www.economist.com/science-and-technology/2024/03/06/a-new-technique-to-work-out-a-corpses-time-of-death)
 * [2024-03-15, 14:58:30](https://news.ycombinator.com/item?id=39716494) - [Reversing for dummies – x86 assembly and C code (Beginner/ADHD friendly)](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+* [2024-03-15, 14:04:09](https://news.ycombinator.com/item?id=39715857) - [Honda and Nissan might team up against Tesla and other EV rivals](https://qz.com/honda-nissan-ev-auto-partner-tesla-byd-china-1851338514)
 * [2024-03-15, 13:27:20](https://news.ycombinator.com/item?id=39715223) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
 * [2024-03-15, 10:06:39](https://news.ycombinator.com/item?id=39713891) - [Britain's decade of Art Deco densification](https://www.worksinprogress.news/p/britains-interwar-apartment-boom)
@@ -17,7 +18,6 @@
 * [2024-03-14, 22:59:35](https://news.ycombinator.com/item?id=39709981) - [The Oregon Outback International Dark Sky Sanctuary](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
 * [2024-03-14, 21:17:33](https://news.ycombinator.com/item?id=39709089) - [CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
 * [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
-* [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 16:57:00](https://news.ycombinator.com/item?id=39706330) - [Why are most sofas so bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 * [2024-03-14, 16:34:15](https://news.ycombinator.com/item?id=39706035) - [Show HN: Frigade - React SDK for building quality onboarding & activation flows](https://frigade.com)
