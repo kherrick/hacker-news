@@ -98,6 +98,7 @@
 * [2024-03-14, 08:15:18](https://news.ycombinator.com/item?id=39701502) - [FCC Denies Starlink Low-Orbit Bid for Lower Latency](https://spectrum.ieee.org/starlink-vleo-below-iss)
 * [2024-03-14, 08:08:15](https://news.ycombinator.com/item?id=39701473) - [NASA Engineers Make Progress Toward Understanding Voyager 1 Issue](https://blogs.nasa.gov/sunspot/2024/03/13/nasa-engineers-make-progress-toward-understanding-voyager-1-issue/)
 * [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
+* [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
 * [2024-03-14, 07:10:24](https://news.ycombinator.com/item?id=39701261) - [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
 * [2024-03-14, 06:52:40](https://news.ycombinator.com/item?id=39701177) - [Vancouver's New Mega-Development](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
 * [2024-03-14, 05:43:38](https://news.ycombinator.com/item?id=39700885) - [OpenAI CTO Doesn't Know What Data Was Used to Train Sora [video]](https://www.youtube.com/watch?v=mAUpxN-EIgU)

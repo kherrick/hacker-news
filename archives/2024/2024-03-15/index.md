@@ -6,6 +6,7 @@
 
 * [2024-03-15, 04:22:36](https://news.ycombinator.com/item?id=39712049) - [OpenAI's Lies and Half-Truths](https://garymarcus.substack.com/p/openais-lies-and-half-truths)
 * [2024-03-15, 04:16:40](https://news.ycombinator.com/item?id=39712025) - [RSS was released 25 years ago today](https://en.wikipedia.org/wiki/RSS)
+* [2024-03-15, 04:16:12](https://news.ycombinator.com/item?id=39712021) - [Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct](https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe)
 * [2024-03-15, 03:43:35](https://news.ycombinator.com/item?id=39711863) - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-15, 02:40:24](https://news.ycombinator.com/item?id=39711527) - [Weak rules allow ultra-processed foods like Lunchables on school menus](https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/)
