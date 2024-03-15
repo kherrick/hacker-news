@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
 * [2024-03-15, 17:23:19](https://news.ycombinator.com/item?id=39718257) - [Even the Feds Are Tired of McDonald's Broken Ice Cream Machines](https://gizmodo.com/feds-are-tired-mcdonalds-broken-ice-cream-machines-1851338944)
+* [2024-03-15, 17:20:39](https://news.ycombinator.com/item?id=39718230) - [Deadly morel mushroom outbreak highlights big gaps in fungi knowledge](https://arstechnica.com/science/2024/03/deadly-morel-mushroom-outbreak-highlights-big-gaps-in-fungi-knowledge/)
 * [2024-03-15, 17:19:13](https://news.ycombinator.com/item?id=39718208) - [Man who married a hologram can no longer communicate with his virtual wife](https://www.entrepreneur.com/business-news/the-man-who-married-a-hologram-in-japan-can-no-longer/426715)
 * [2024-03-15, 17:08:24](https://news.ycombinator.com/item?id=39718043) - [Uber, Lyft to stop operations in Minneapolis over minimum wage law](https://www.reuters.com/technology/uber-lyft-stop-operations-minneapolis-over-minimum-wage-law-2024-03-15/)
 * [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)

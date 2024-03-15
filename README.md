@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-15, 17:23:19](https://news.ycombinator.com/item?id=39718257) - [Even the Feds Are Tired of McDonald's Broken Ice Cream Machines](https://gizmodo.com/feds-are-tired-mcdonalds-broken-ice-cream-machines-1851338944)
-* [2024-03-15, 17:19:13](https://news.ycombinator.com/item?id=39718208) - [Man who married a hologram can no longer communicate with his virtual wife](https://www.entrepreneur.com/business-news/the-man-who-married-a-hologram-in-japan-can-no-longer/426715)
+* [2024-03-15, 17:20:39](https://news.ycombinator.com/item?id=39718230) - [Deadly morel mushroom outbreak highlights big gaps in fungi knowledge](https://arstechnica.com/science/2024/03/deadly-morel-mushroom-outbreak-highlights-big-gaps-in-fungi-knowledge/)
 * [2024-03-15, 17:08:24](https://news.ycombinator.com/item?id=39718043) - [Uber, Lyft to stop operations in Minneapolis over minimum wage law](https://www.reuters.com/technology/uber-lyft-stop-operations-minneapolis-over-minimum-wage-law-2024-03-15/)
 * [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)
 * [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
@@ -20,6 +19,7 @@
 * [2024-03-15, 04:53:25](https://news.ycombinator.com/item?id=39712173) - [Harvard concluded that a dishonesty expert committed misconduct](https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct)
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
+* [2024-03-14, 23:53:15](https://news.ycombinator.com/item?id=39710454) - [The Getty makes nearly 88k art images free to use](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
 * [2024-03-14, 22:59:35](https://news.ycombinator.com/item?id=39709981) - [The Oregon Outback International Dark Sky Sanctuary](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
 * [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 * [2024-03-14, 16:57:00](https://news.ycombinator.com/item?id=39706330) - [Why are most sofas so bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
