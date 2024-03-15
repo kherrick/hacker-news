@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-14, 23:53:29](https://news.ycombinator.com/item?id=39710456) - [Not so quickly extending QUIC](https://lwn.net/Articles/964377/)
+* [2024-03-15, 01:58:45](https://news.ycombinator.com/item?id=39711327) - [Scientists Discovered a 'Fear Switch' in the Brain, and How to Turn It Off](https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off)
 * [2024-03-14, 23:53:20](https://news.ycombinator.com/item?id=39710455) - [New York Disbars Infamous Copyright Troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
 * [2024-03-14, 23:53:15](https://news.ycombinator.com/item?id=39710454) - [The Getty Makes Nearly 88,000 Art Images Free to Use However You Like](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
 * [2024-03-14, 23:00:24](https://news.ycombinator.com/item?id=39709991) - [Class Action Against General Motors LLC, OnStar LLC, LexisNexis Risk Solutions [pdf]](https://static01.nyt.com/newsgraphics/documenttools/0a813fc8e0ac1b6c/6c03d310-full.pdf)
