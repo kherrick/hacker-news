@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 14:00:23](https://news.ycombinator.com/item?id=39715815) - [Structured Generation Improves LLM Performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
+* [2024-03-15, 13:54:22](https://news.ycombinator.com/item?id=39715497) - [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
 * [2024-03-15, 13:20:29](https://news.ycombinator.com/item?id=39715161) - [Boeing Whistleblower: \"If Anything Happens to Me, It's Not Suicide\"](https://twitter.com/WallStreetSilv/status/1768517997285482626)
 * [2024-03-15, 12:40:20](https://news.ycombinator.com/item?id=39714854) - [Show HN: Parikar, Read long form articles or blogs in a better, measurable way](https://www.parikar.org/)
 * [2024-03-15, 12:18:58](https://news.ycombinator.com/item?id=39714702) - [Urban humans have lost much of their ability to digest plants](https://arstechnica.com/science/2024/03/human-gut-bacteria-that-can-digest-plant-matter-probably-came-from-cows/)
