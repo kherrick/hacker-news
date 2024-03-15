@@ -6,6 +6,8 @@
 
 * [2024-03-15, 15:06:38](https://news.ycombinator.com/item?id=39716589) - [A new technique to work out a corpse's time of death](https://www.economist.com/science-and-technology/2024/03/06/a-new-technique-to-work-out-a-corpses-time-of-death)
 * [2024-03-15, 14:58:30](https://news.ycombinator.com/item?id=39716494) - [Reversing for dummies – x86 assembly and C code (Beginner/ADHD friendly)](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+* [2024-03-15, 14:41:54](https://news.ycombinator.com/item?id=39716298) - [How to Speak Fluent English?](https://news.ycombinator.com/item?id=39716298)
+* [2024-03-15, 14:29:45](https://news.ycombinator.com/item?id=39716168) - [McDonald's Technology Outage Forces Restaurant Closures](https://www.wsj.com/business/hospitality/mcdonalds-hampered-by-system-outages-in-japan-hong-kong-7e8dd3c7)
 * [2024-03-15, 14:04:09](https://news.ycombinator.com/item?id=39715857) - [Honda and Nissan might team up against Tesla and other EV rivals](https://qz.com/honda-nissan-ev-auto-partner-tesla-byd-china-1851338514)
 * [2024-03-15, 14:00:23](https://news.ycombinator.com/item?id=39715815) - [Structured Generation Improves LLM Performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
 * [2024-03-15, 13:54:22](https://news.ycombinator.com/item?id=39715497) - [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
