@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 04:22:36](https://news.ycombinator.com/item?id=39712049) - [OpenAI's Lies and Half-Truths](https://garymarcus.substack.com/p/openais-lies-and-half-truths)
 * [2024-03-15, 03:43:35](https://news.ycombinator.com/item?id=39711863) - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-15, 02:33:42](https://news.ycombinator.com/item?id=39711493) - [Does intermittent fasting have benefits for our brain?](https://theconversation.com/does-intermittent-fasting-have-benefits-for-our-brain-223181)

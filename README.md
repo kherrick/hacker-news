@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 04:22:36](https://news.ycombinator.com/item?id=39712049) - [OpenAI's Lies and Half-Truths](https://garymarcus.substack.com/p/openais-lies-and-half-truths)
 * [2024-03-15, 03:43:35](https://news.ycombinator.com/item?id=39711863) - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-15, 01:32:48](https://news.ycombinator.com/item?id=39711182) - [Deleting Software I Wrote Upon Leaving Employment of a Company](https://law.stackexchange.com/questions/101283/deleting-software-i-wrote-upon-leaving-employment-of-a-company)
@@ -22,7 +23,6 @@
 * [2024-03-14, 16:35:05](https://news.ycombinator.com/item?id=39706045) - [SuperPrompt: Better Text to Image Prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/)
 * [2024-03-14, 16:34:15](https://news.ycombinator.com/item?id=39706035) - [Show HN: Frigade - React SDK for building quality onboarding & activation flows](https://frigade.com)
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
-* [2024-03-14, 14:45:33](https://news.ycombinator.com/item?id=39704712) - [Show HN: PyKidos, Teach Your Kid Python in the Browser](https://pykidos.github.io/)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 11:18:09](https://news.ycombinator.com/item?id=39702457) - [Real time weather balloon tracking](https://sondehub.org)
 * [2024-03-14, 09:26:14](https://news.ycombinator.com/item?id=39701848) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
