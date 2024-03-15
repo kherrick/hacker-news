@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 23:53:20](https://news.ycombinator.com/item?id=39710455) - [New York Disbars Infamous Copyright Troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
+* [2024-03-14, 23:53:15](https://news.ycombinator.com/item?id=39710454) - [The Getty Makes Nearly 88,000 Art Images Free to Use However You Like](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
 * [2024-03-14, 23:00:24](https://news.ycombinator.com/item?id=39709991) - [Class Action Against General Motors LLC, OnStar LLC, LexisNexis Risk Solutions [pdf]](https://static01.nyt.com/newsgraphics/documenttools/0a813fc8e0ac1b6c/6c03d310-full.pdf)
 * [2024-03-14, 22:59:35](https://news.ycombinator.com/item?id=39709981) - [Oregon Outback is now the largest Dark Sky Sanctuary in the world](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
 * [2024-03-14, 22:58:33](https://news.ycombinator.com/item?id=39709974) - [Admin of darknet drug market demanding every user pays ransom after taking money](https://twitter.com/DrRebeccaTidy/status/1767670379609248180)
+* [2024-03-14, 22:51:25](https://news.ycombinator.com/item?id=39709912) - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 * [2024-03-14, 22:43:45](https://news.ycombinator.com/item?id=39709835) - [Apple Buys DarwinAI Ahead of Major Generative AI Updates Coming in iOS 18](https://www.macrumors.com/2024/03/14/apple-acquires-darwinai/)
 * [2024-03-14, 22:43:14](https://news.ycombinator.com/item?id=39709827) - [It's Hearty, It's Meaty, It's Mold](https://newscenter.lbl.gov/2024/03/14/its-hearty-its-meaty-its-mold/)
 * [2024-03-14, 22:24:57](https://news.ycombinator.com/item?id=39709657) - [Ban on same-sex marriage unconstitutional, Sapporo High Court rules](https://www.japantimes.co.jp/news/2024/03/14/japan/crime-legal/same-sex-marriage-ruling/)
