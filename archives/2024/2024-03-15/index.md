@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
 * [2024-03-15, 15:06:38](https://news.ycombinator.com/item?id=39716589) - [A new technique to work out a corpse's time of death](https://www.economist.com/science-and-technology/2024/03/06/a-new-technique-to-work-out-a-corpses-time-of-death)
+* [2024-03-15, 15:00:27](https://news.ycombinator.com/item?id=39716527) - [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
 * [2024-03-15, 14:58:30](https://news.ycombinator.com/item?id=39716494) - [Reversing for dummies – x86 assembly and C code (Beginner/ADHD friendly)](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 * [2024-03-15, 14:41:54](https://news.ycombinator.com/item?id=39716298) - [How to Speak Fluent English?](https://news.ycombinator.com/item?id=39716298)
 * [2024-03-15, 14:29:45](https://news.ycombinator.com/item?id=39716168) - [McDonald's Technology Outage Forces Restaurant Closures](https://www.wsj.com/business/hospitality/mcdonalds-hampered-by-system-outages-in-japan-hong-kong-7e8dd3c7)
