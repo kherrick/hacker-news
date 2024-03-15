@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 16:35:31",
+      "https://news.ycombinator.com/item?id=39717615"
+    ],
+    [
+      "Compressing Chess Moves for Fun and Profit",
+      "https://mbuffett.com/posts/compressing-chess-moves/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 16:00:21",
       "https://news.ycombinator.com/item?id=39717232"
     ],
@@ -17,16 +27,6 @@
     [
       "Former telecom manager admits to doing SIM swaps for $1k",
       "https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 15:00:27",
-      "https://news.ycombinator.com/item?id=39716527"
-    ],
-    [
-      "Do It Now",
-      "https://stevepavlina.com/blog/2005/11/do-it-now/"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
       "https://arxiv.org/abs/2403.09629"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 08:40:04",
+      "https://news.ycombinator.com/item?id=39713383"
+    ],
+    [
+      "Work life culture is ruined today. My Experience of Last 12 Years",
+      "https://enginebogie.com/public/charchaa/post/the-decline-of-work-life-balance-a-12-year-tech-industry-perspective/144"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2024-03-14, 16:51:23",
-      "https://news.ycombinator.com/item?id=39706253"
-    ],
-    [
-      "Launch HN: Meticulate (YC W24) – LLM pipelines for business research",
-      "https://news.ycombinator.com/item?id=39706253"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 16:31:34",
-      "https://news.ycombinator.com/item?id=39706004"
-    ],
-    [
-      "Show HN: Skyvern – Browser automation using LLMs and computer vision",
-      "https://github.com/Skyvern-AI/skyvern"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 11:23:13",
       "https://news.ycombinator.com/item?id=39702479"
     ],
@@ -257,6 +247,16 @@
     [
       "Zerodha Tech – Hello, World",
       "https://zerodha.tech/blog/hello-world/"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 09:45:05",
+      "https://news.ycombinator.com/item?id=39701931"
+    ],
+    [
+      "Reverse engineering a car key fob signal",
+      "https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html"
     ]
   ],
   [
