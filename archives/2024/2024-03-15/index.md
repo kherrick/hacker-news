@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
 * [2024-03-15, 09:50:39](https://news.ycombinator.com/item?id=39713790) - [Photoroom (YC S20) Is Hiring a Front End State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-03-15, 09:24:50](https://news.ycombinator.com/item?id=39713634) - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 * [2024-03-15, 08:58:53](https://news.ycombinator.com/item?id=39713489) - [McDonald's customers unable to order after systems outage](https://www.bbc.co.uk/news/business-68573106)
 * [2024-03-15, 08:36:13](https://news.ycombinator.com/item?id=39713362) - [Everest 2024: Nepal's \"GPS Chip\" Plan Has Major Problems](https://www.alanarnette.com/blog/2024/03/05/everest-2024-nepals-gps-chip-plan-has-major-problems/)
 * [2024-03-15, 08:29:52](https://news.ycombinator.com/item?id=39713323) - [Berlin's techno scene added to Unesco intangible cultural heritage list](https://www.theguardian.com/world/2024/mar/15/berlins-techno-scene-added-to-unesco-intangible-cultural-heritage-list)
@@ -16,6 +17,7 @@
 * [2024-03-15, 04:22:36](https://news.ycombinator.com/item?id=39712049) - [OpenAI's Lies and Half-Truths](https://garymarcus.substack.com/p/openais-lies-and-half-truths)
 * [2024-03-15, 04:16:40](https://news.ycombinator.com/item?id=39712025) - [RSS was released 25 years ago today](https://en.wikipedia.org/wiki/RSS)
 * [2024-03-15, 04:16:12](https://news.ycombinator.com/item?id=39712021) - [Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct](https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe)
+* [2024-03-15, 04:05:37](https://news.ycombinator.com/item?id=39711968) - [Cockpit Mishap Seen as Likely Cause of Plunge on Latam Boeing 787](https://www.wsj.com/business/airlines/cockpit-mishap-might-have-caused-plunge-on-latam-boeing-787-ee3dd7b4)
 * [2024-03-15, 03:43:35](https://news.ycombinator.com/item?id=39711863) - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-15, 02:40:24](https://news.ycombinator.com/item?id=39711527) - [Weak rules allow ultra-processed foods like Lunchables on school menus](https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/)
