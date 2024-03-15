@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 18:57:27](https://news.ycombinator.com/item?id=39719391) - [12 months of record ocean heat has scientists puzzled and concerned](https://www.nbcnews.com/science/environment/oceans-record-hot-rcna143179)
 * [2024-03-15, 17:55:59](https://news.ycombinator.com/item?id=39718672) - [Boeing Whistleblower Before Death: \"If Anything Happens, It's Not Suicide\"](https://futurism.com/the-byte/boeing-whistleblower-warning-not-suicide)
 * [2024-03-15, 17:47:20](https://news.ycombinator.com/item?id=39718558) - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
-* [2024-03-15, 17:20:39](https://news.ycombinator.com/item?id=39718230) - [Deadly morel mushroom outbreak highlights big gaps in fungi knowledge](https://arstechnica.com/science/2024/03/deadly-morel-mushroom-outbreak-highlights-big-gaps-in-fungi-knowledge/)
 * [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)
 * [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer (2022)](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
 * [2024-03-15, 16:35:31](https://news.ycombinator.com/item?id=39717615) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)

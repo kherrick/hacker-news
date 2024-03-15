@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 18:57:27](https://news.ycombinator.com/item?id=39719391) - [12 months of record ocean heat has scientists puzzled and concerned](https://www.nbcnews.com/science/environment/oceans-record-hot-rcna143179)
 * [2024-03-15, 17:58:43](https://news.ycombinator.com/item?id=39718716) - [Walmart begins selling the Mac for the first time: M1 MacBook Air for $699](https://9to5mac.com/2024/03/15/walmart-m1-macbook-air-launch/)
 * [2024-03-15, 17:55:59](https://news.ycombinator.com/item?id=39718672) - [Boeing Whistleblower Before Death: \"If Anything Happens, It's Not Suicide\"](https://futurism.com/the-byte/boeing-whistleblower-warning-not-suicide)
 * [2024-03-15, 17:47:20](https://news.ycombinator.com/item?id=39718558) - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
