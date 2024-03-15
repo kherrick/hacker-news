@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 06:36:06](https://news.ycombinator.com/item?id=39712637) - [Google asks me daily for my location to improve connectivity even if I say no](https://news.ycombinator.com/item?id=39712637)
 * [2024-03-15, 06:32:39](https://news.ycombinator.com/item?id=39712618) - [John Barnett before death \"if anything happens, it's not suicide\", claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
 * [2024-03-15, 04:16:12](https://news.ycombinator.com/item?id=39712021) - [Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct](https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe)
-* [2024-03-15, 03:43:35](https://news.ycombinator.com/item?id=39711863) - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-15, 02:40:24](https://news.ycombinator.com/item?id=39711527) - [Weak rules allow ultra-processed foods like Lunchables on school menus (2023)](https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/)
 * [2024-03-15, 01:32:48](https://news.ycombinator.com/item?id=39711182) - [Deleting Software I Wrote Upon Leaving Employment of a Company](https://law.stackexchange.com/questions/101283/deleting-software-i-wrote-upon-leaving-employment-of-a-company)
