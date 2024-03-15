@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 12:40:20](https://news.ycombinator.com/item?id=39714854) - [Show HN: Parikar, Read long form articles or blogs in a better, measurable way](https://www.parikar.org/)
 * [2024-03-15, 11:08:39](https://news.ycombinator.com/item?id=39714229) - [FCC scraps old speed benchmark, says broadband should be at least 100Mbps](https://arstechnica.com/tech-policy/2024/03/fcc-scraps-old-speed-benchmark-says-broadband-should-be-at-least-100mbps/)
 * [2024-03-15, 10:58:23](https://news.ycombinator.com/item?id=39714175) - [Banish OEM self-signed certs forever and roll your own private LetsEncrypt](https://arstechnica.com/information-technology/2024/03/banish-oem-self-signed-certs-forever-and-roll-your-own-private-letsencrypt/)
 * [2024-03-15, 10:55:22](https://news.ycombinator.com/item?id=39714155) - [IAM Is the Worst](https://matduggan.com/iam-is-the-worst/)
