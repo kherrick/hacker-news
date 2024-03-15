@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
 * [2024-03-15, 20:30:45](https://news.ycombinator.com/item?id=39720388) - [CS251: Great Ideas in Theoretical Computer Science (CMU)](https://www.cs251.com)
+* [2024-03-15, 20:29:43](https://news.ycombinator.com/item?id=39720379) - [Sheng Liang's Acorn Labs Drops Its Runtime for GPTScript](https://fossforce.com/2024/03/sheng-liangs-acorn-labs-drops-its-runtime-for-gptscript/)
+* [2024-03-15, 20:28:20](https://news.ycombinator.com/item?id=39720364) - [Boeing cockpit seat switch mishap reportedly led to Latam flight incident](https://www.theguardian.com/business/2024/mar/15/boeing-cockpit-seat-switch-latam-flight)
 * [2024-03-15, 20:11:56](https://news.ycombinator.com/item?id=39720188) - [Mercedes is trialing humanoid robots for 'low skill, repetitive' tasks](https://www.theverge.com/2024/3/15/24101791/mercedes-robot-humanoid-apptronik-apollo-manufacturing)
 * [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
 * [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
@@ -76,6 +79,7 @@
 * [2024-03-15, 06:36:06](https://news.ycombinator.com/item?id=39712637) - [Google asks me daily for my location to improve connectivity even if I say no](https://news.ycombinator.com/item?id=39712637)
 * [2024-03-15, 06:35:17](https://news.ycombinator.com/item?id=39712634) - [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
 * [2024-03-15, 06:32:39](https://news.ycombinator.com/item?id=39712618) - [John Barnett before death \"if anything happens, it's not suicide\", claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
+* [2024-03-15, 06:23:52](https://news.ycombinator.com/item?id=39712573) - [Stashpad launches Google Docs alternative you can use without any login](https://techcrunch.com/2024/03/13/dev-focused-note-taking-startup-stashpad-launches-google-docs-alternative-you-can-use-without-any-login/)
 * [2024-03-15, 04:53:25](https://news.ycombinator.com/item?id=39712173) - [Harvard Concluded That a Dishonesty Expert Committed Misconduct](https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct)
 * [2024-03-15, 04:22:36](https://news.ycombinator.com/item?id=39712049) - [OpenAI's Lies and Half-Truths](https://garymarcus.substack.com/p/openais-lies-and-half-truths)
 * [2024-03-15, 04:16:40](https://news.ycombinator.com/item?id=39712025) - [RSS was released 25 years ago today](https://en.wikipedia.org/wiki/RSS)
