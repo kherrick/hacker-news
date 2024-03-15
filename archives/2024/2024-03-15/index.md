@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 06:32:39](https://news.ycombinator.com/item?id=39712618) - [John Barnett before death \"if anything happens, it's not suicide\", claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
 * [2024-03-15, 04:53:25](https://news.ycombinator.com/item?id=39712173) - [Harvard Concluded That a Dishonesty Expert Committed Misconduct](https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct)
 * [2024-03-15, 04:22:36](https://news.ycombinator.com/item?id=39712049) - [OpenAI's Lies and Half-Truths](https://garymarcus.substack.com/p/openais-lies-and-half-truths)
 * [2024-03-15, 04:16:40](https://news.ycombinator.com/item?id=39712025) - [RSS was released 25 years ago today](https://en.wikipedia.org/wiki/RSS)
