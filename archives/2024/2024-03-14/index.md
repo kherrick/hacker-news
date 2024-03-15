@@ -87,6 +87,7 @@
 * [2024-03-14, 11:15:45](https://news.ycombinator.com/item?id=39702443) - [Estimate Your Age of Death](https://lars.yencken.org/tools/age-of-death)
 * [2024-03-14, 11:06:12](https://news.ycombinator.com/item?id=39702386) - [Playwright Test Generator](https://playwright.dev/docs/codegen)
 * [2024-03-14, 10:57:58](https://news.ycombinator.com/item?id=39702323) - [The Violence of Relentless Positivity in the Workplace](https://ludic.mataroa.blog/blog/the-violent-role-of-relentless-positivity-in-the-workplace/)
+* [2024-03-14, 10:54:32](https://news.ycombinator.com/item?id=39702295) - [Zerodha Tech – Hello, World](https://zerodha.tech/blog/hello-world/)
 * [2024-03-14, 10:41:00](https://news.ycombinator.com/item?id=39702224) - [For God's Sake, Follow the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
 * [2024-03-14, 10:39:00](https://news.ycombinator.com/item?id=39702211) - [March 14 (3/14): Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
 * [2024-03-14, 10:09:35](https://news.ycombinator.com/item?id=39702053) - [British spy had governments on both sides of the war paying for his girlfriends](https://en.wikipedia.org/wiki/Eddie_Chapman)
