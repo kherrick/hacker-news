@@ -101,6 +101,7 @@
 * [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
 * [2024-03-14, 07:10:24](https://news.ycombinator.com/item?id=39701261) - [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
 * [2024-03-14, 06:52:40](https://news.ycombinator.com/item?id=39701177) - [Vancouver's New Mega-Development](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
+* [2024-03-14, 06:45:10](https://news.ycombinator.com/item?id=39701142) - [The Mathematical Movie Database](https://www.qedcat.com/moviemath/index.html)
 * [2024-03-14, 05:43:38](https://news.ycombinator.com/item?id=39700885) - [OpenAI CTO Doesn't Know What Data Was Used to Train Sora [video]](https://www.youtube.com/watch?v=mAUpxN-EIgU)
 * [2024-03-14, 04:47:45](https://news.ycombinator.com/item?id=39700692) - [Resolume](https://www.resolume.com/)
 * [2024-03-14, 04:36:35](https://news.ycombinator.com/item?id=39700639) - [Boeing employee proposes fixes to the company](https://old.reddit.com/r/boeing/comments/1be2oyr/responsibility_for_boeings_poor_performance/)

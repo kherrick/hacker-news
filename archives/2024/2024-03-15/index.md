@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 08:16:47](https://news.ycombinator.com/item?id=39713255) - [What Every User Should Know About Mixed Precision Training in PyTorch](https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/)
 * [2024-03-15, 06:36:06](https://news.ycombinator.com/item?id=39712637) - [Google asks me daily for my location to improve connectivity even if I say no](https://news.ycombinator.com/item?id=39712637)
 * [2024-03-15, 06:32:39](https://news.ycombinator.com/item?id=39712618) - [John Barnett before death \"if anything happens, it's not suicide\", claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
 * [2024-03-15, 04:53:25](https://news.ycombinator.com/item?id=39712173) - [Harvard Concluded That a Dishonesty Expert Committed Misconduct](https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct)
