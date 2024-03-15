@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 04:53:25](https://news.ycombinator.com/item?id=39712173) - [Harvard Concluded That a Dishonesty Expert Committed Misconduct](https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct)
 * [2024-03-15, 04:22:36](https://news.ycombinator.com/item?id=39712049) - [OpenAI's Lies and Half-Truths](https://garymarcus.substack.com/p/openais-lies-and-half-truths)
 * [2024-03-15, 04:16:40](https://news.ycombinator.com/item?id=39712025) - [RSS was released 25 years ago today](https://en.wikipedia.org/wiki/RSS)
 * [2024-03-15, 04:16:12](https://news.ycombinator.com/item?id=39712021) - [Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct](https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe)
