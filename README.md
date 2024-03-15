@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 08:58:53](https://news.ycombinator.com/item?id=39713489) - [McDonald's customers unable to order after systems outage](https://www.bbc.co.uk/news/business-68573106)
+* [2024-03-15, 08:36:13](https://news.ycombinator.com/item?id=39713362) - [Everest 2024: Nepal's \"GPS Chip\" Plan Has Major Problems](https://www.alanarnette.com/blog/2024/03/05/everest-2024-nepals-gps-chip-plan-has-major-problems/)
 * [2024-03-15, 08:16:47](https://news.ycombinator.com/item?id=39713255) - [What Every User Should Know About Mixed Precision Training in PyTorch](https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/)
-* [2024-03-15, 06:36:06](https://news.ycombinator.com/item?id=39712637) - [Google asks me daily for my location to improve connectivity even if I say no](https://news.ycombinator.com/item?id=39712637)
-* [2024-03-15, 06:32:39](https://news.ycombinator.com/item?id=39712618) - [John Barnett before death \"if anything happens, it's not suicide\", claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
-* [2024-03-15, 04:53:25](https://news.ycombinator.com/item?id=39712173) - [Harvard concluded that a dishonesty expert committed misconduct](https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct)
+* [2024-03-15, 06:32:39](https://news.ycombinator.com/item?id=39712618) - [A friend of John Barnett said he predicted he might wind up dead](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
 * [2024-03-15, 04:16:12](https://news.ycombinator.com/item?id=39712021) - [Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct](https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-14, 23:53:20](https://news.ycombinator.com/item?id=39710455) - [New York disbars infamous copyright troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
