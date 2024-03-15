@@ -15,6 +15,7 @@
 * [2024-03-15, 12:18:58](https://news.ycombinator.com/item?id=39714702) - [Urban humans have lost much of their ability to digest plants](https://arstechnica.com/science/2024/03/human-gut-bacteria-that-can-digest-plant-matter-probably-came-from-cows/)
 * [2024-03-15, 11:51:47](https://news.ycombinator.com/item?id=39714502) - [\"Certainly, here is a possible introduction for your topic\" in scientific paper](https://www.sciencedirect.com/science/article/abs/pii/S2468023024002402)
 * [2024-03-15, 11:31:33](https://news.ycombinator.com/item?id=39714348) - [Writing Manual Pages (2019)](https://liw.fi/manpages/)
+* [2024-03-15, 11:30:38](https://news.ycombinator.com/item?id=39714340) - [Parents: Are Your Kids Backing Up Their Data?](https://theprivacydad.com/parents-are-your-kids-backing-up-their-data/)
 * [2024-03-15, 11:08:39](https://news.ycombinator.com/item?id=39714229) - [FCC scraps old speed benchmark, says broadband should be at least 100Mbps](https://arstechnica.com/tech-policy/2024/03/fcc-scraps-old-speed-benchmark-says-broadband-should-be-at-least-100mbps/)
 * [2024-03-15, 10:58:30](https://news.ycombinator.com/item?id=39714176) - [Don't Use Google Analytics](https://jak2k.schwanenberg.name/post/google-analytics/)
 * [2024-03-15, 10:58:23](https://news.ycombinator.com/item?id=39714175) - [Banish OEM self-signed certs forever and roll your own private LetsEncrypt](https://arstechnica.com/information-technology/2024/03/banish-oem-self-signed-certs-forever-and-roll-your-own-private-letsencrypt/)
