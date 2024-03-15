@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 21:46:29](https://news.ycombinator.com/item?id=39721066) - [Tech layoffs highest since dot-com crash](https://www.cnbc.com/2024/03/15/laid-off-techies-struggle-to-find-jobs-with-cuts-at-highest-since-2001.html)
 * [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
 * [2024-03-15, 20:30:45](https://news.ycombinator.com/item?id=39720388) - [CS251: Great Ideas in Theoretical Computer Science (CMU)](https://www.cs251.com)
 * [2024-03-15, 20:29:43](https://news.ycombinator.com/item?id=39720379) - [Sheng Liang's Acorn Labs Drops Its Runtime for GPTScript](https://fossforce.com/2024/03/sheng-liangs-acorn-labs-drops-its-runtime-for-gptscript/)

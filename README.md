@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 21:46:29](https://news.ycombinator.com/item?id=39721066) - [Tech layoffs highest since dot-com crash](https://www.cnbc.com/2024/03/15/laid-off-techies-struggle-to-find-jobs-with-cuts-at-highest-since-2001.html)
 * [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
 * [2024-03-15, 20:30:45](https://news.ycombinator.com/item?id=39720388) - [Great Ideas in Theoretical Computer Science](https://www.cs251.com)
 * [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
-* [2024-03-15, 19:33:26](https://news.ycombinator.com/item?id=39719777) - [Building a dynamic Canvas rendering engine using JSX](https://www.aha.io/engineering/articles/canvasx)
 * [2024-03-15, 17:47:20](https://news.ycombinator.com/item?id=39718558) - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
 * [2024-03-15, 17:34:09](https://news.ycombinator.com/item?id=39718389) - [OpenVPN Is Open to VPN Fingerprinting](https://arxiv.org/abs/2403.03998)
 * [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer (2022)](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
