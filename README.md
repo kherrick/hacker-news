@@ -23,13 +23,13 @@
 * [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 * [2024-03-14, 16:31:34](https://news.ycombinator.com/item?id=39706004) - [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
-* [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 09:14:19](https://news.ycombinator.com/item?id=39701785) - [Improving cursor rendering on Wayland](https://blog.vaxry.net/articles/2024-cursors)
 * [2024-03-14, 07:39:07](https://news.ycombinator.com/item?id=39701380) - [Romeo and Julia, Where Romeo Is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 * [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
 * [2024-03-14, 06:45:10](https://news.ycombinator.com/item?id=39701142) - [The Mathematical Movie Database](https://www.qedcat.com/moviemath/index.html)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-13, 21:45:23](https://news.ycombinator.com/item?id=39697933) - [Building an Arduino Car Gear Shifter Indicator Display [video]](https://www.youtube.com/watch?v=QixtxaAda18)
+* [2024-03-13, 17:00:08](https://news.ycombinator.com/item?id=39694121) - [Former players are making a comeback in baseball’s executive ranks](https://www.wsj.com/sports/baseball/gm-chris-young-craig-breslow-sam-fuld-d769da8b)
 
 ## [Archives](archives/index.md)
 

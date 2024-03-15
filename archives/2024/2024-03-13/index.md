@@ -52,6 +52,7 @@
 * [2024-03-13, 17:17:36](https://news.ycombinator.com/item?id=39694353) - [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
 * [2024-03-13, 17:14:43](https://news.ycombinator.com/item?id=39694315) - [UN experts find 'no harmful effects' from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
 * [2024-03-13, 17:02:00](https://news.ycombinator.com/item?id=39694142) - [Intel Continues Prepping the Linux Kernel for X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
+* [2024-03-13, 17:00:08](https://news.ycombinator.com/item?id=39694121) - [Former players are making a comeback in baseball’s executive ranks](https://www.wsj.com/sports/baseball/gm-chris-young-craig-breslow-sam-fuld-d769da8b)
 * [2024-03-13, 16:55:24](https://news.ycombinator.com/item?id=39694045) - [Ibis, a federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
 * [2024-03-13, 16:53:34](https://news.ycombinator.com/item?id=39694012) - [Socioeconomic status and the relationship between the SAT and GPA (2009) [pdf]](https://files.eric.ed.gov/fulltext/ED562860.pdf)
 * [2024-03-13, 16:33:08](https://news.ycombinator.com/item?id=39693661) - [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
