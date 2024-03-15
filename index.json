@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-15, 04:53:25",
-      "https://news.ycombinator.com/item?id=39712173"
-    ],
-    [
-      "Harvard Concluded That a Dishonesty Expert Committed Misconduct",
-      "https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 04:16:12",
       "https://news.ycombinator.com/item?id=39712021"
     ],
@@ -137,6 +127,16 @@
     [
       "More powerful Go execution traces",
       "https://go.dev/blog/execution-traces-2024"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 19:14:12",
+      "https://news.ycombinator.com/item?id=39707828"
+    ],
+    [
+      "Gnet is the fastest networking framework in Go",
+      "https://gnet.host/"
     ]
   ],
   [
