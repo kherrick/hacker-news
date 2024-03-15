@@ -8,4 +8,5 @@
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-15, 02:33:42](https://news.ycombinator.com/item?id=39711493) - [Does intermittent fasting have benefits for our brain?](https://theconversation.com/does-intermittent-fasting-have-benefits-for-our-brain-223181)
 * [2024-03-15, 01:58:45](https://news.ycombinator.com/item?id=39711327) - [Scientists Discovered a 'Fear Switch' in the Brain, and How to Turn It Off](https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off)
+* [2024-03-15, 01:32:48](https://news.ycombinator.com/item?id=39711182) - [Deleting Software I Wrote Upon Leaving Employment of a Company](https://law.stackexchange.com/questions/101283/deleting-software-i-wrote-upon-leaving-employment-of-a-company)
 * [2024-03-15, 00:54:06](https://news.ycombinator.com/item?id=39710930) - [CA train project needs another $100B to complete route from San Fran to LA](https://www.kcra.com/article/california-bullet-train-project-funding-san-francisco-los-angeles/60181448)
