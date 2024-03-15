@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 08:16:47",
+      "https://news.ycombinator.com/item?id=39713255"
+    ],
+    [
+      "What Every User Should Know About Mixed Precision Training in PyTorch",
+      "https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 06:36:06",
       "https://news.ycombinator.com/item?id=39712637"
     ],
@@ -47,16 +57,6 @@
     [
       "TextSnatcher: Copy text from images, for the Linux Desktop",
       "https://github.com/RajSolai/TextSnatcher"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 02:40:24",
-      "https://news.ycombinator.com/item?id=39711527"
-    ],
-    [
-      "Weak rules allow ultra-processed foods like Lunchables on school menus (2023)",
-      "https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-03-14, 16:35:05",
-      "https://news.ycombinator.com/item?id=39706045"
-    ],
-    [
-      "SuperPrompt: Better Text to Image Prompts in 77M Parameters",
-      "https://brianfitzgerald.xyz/prompt-augmentation/"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 16:34:15",
       "https://news.ycombinator.com/item?id=39706035"
     ],
@@ -267,6 +257,16 @@
     [
       "Generating the Alphabet",
       "https://www.amygoodchild.com/blog/generating-the-alphabet"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 06:45:10",
+      "https://news.ycombinator.com/item?id=39701142"
+    ],
+    [
+      "The Mathematical Movie Database",
+      "https://www.qedcat.com/moviemath/index.html"
     ]
   ],
   [
