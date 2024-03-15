@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
 * [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
+* [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 19:54:17](https://news.ycombinator.com/item?id=39719979) - [The Data Is Clear: People Are Having Less Sex](https://www.graphsaboutreligion.com/p/the-data-is-clear-people-are-having)
 * [2024-03-15, 19:41:56](https://news.ycombinator.com/item?id=39719850) - [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.co.uk/news/technology-68580235)
 * [2024-03-15, 19:37:55](https://news.ycombinator.com/item?id=39719815) - [Open Source Alternatives to Popular Cloud Services](https://degooglisons-internet.org/en/)
