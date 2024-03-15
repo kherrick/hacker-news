@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 12:40:20",
+      "https://news.ycombinator.com/item?id=39714854"
+    ],
+    [
+      "Show HN: Parikar, Read long form articles or blogs in a better, measurable way",
+      "https://www.parikar.org/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 10:58:23",
       "https://news.ycombinator.com/item?id=39714175"
     ],
@@ -71,42 +81,12 @@
   ],
   [
     [
-      "2024-03-15, 08:16:47",
-      "https://news.ycombinator.com/item?id=39713255"
-    ],
-    [
-      "What Every User Should Know About Mixed Precision Training in PyTorch",
-      "https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 08:13:48",
       "https://news.ycombinator.com/item?id=39713230"
     ],
     [
       "Google I/O '24 Puzzles",
       "https://io.google/2024/puzzle"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 07:07:46",
-      "https://news.ycombinator.com/item?id=39712804"
-    ],
-    [
-      "Programs written in Golang have no secrets",
-      "https://gopacker.dev/docs/"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 06:35:17",
-      "https://news.ycombinator.com/item?id=39712634"
-    ],
-    [
-      "I figured out how DMARC works, and it almost broke me",
-      "https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc"
     ]
   ],
   [
@@ -181,12 +161,32 @@
   ],
   [
     [
+      "2024-03-14, 21:17:33",
+      "https://news.ycombinator.com/item?id=39709089"
+    ],
+    [
+      "CEO of data privacy company Onerep.com founded dozens of people-search firms",
+      "https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 20:30:17",
       "https://news.ycombinator.com/item?id=39708591"
     ],
     [
       "More powerful Go execution traces",
       "https://go.dev/blog/execution-traces-2024"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 18:29:10",
+      "https://news.ycombinator.com/item?id=39707356"
+    ],
+    [
+      "The Mythical Non-Roboticist",
+      "https://generalrobots.substack.com/p/the-mythical-non-roboticist"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-03-14, 16:34:15",
+      "https://news.ycombinator.com/item?id=39706035"
+    ],
+    [
+      "Show HN: Frigade - React SDK for building quality onboarding & activation flows",
+      "https://frigade.com"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 16:31:34",
       "https://news.ycombinator.com/item?id=39706004"
     ],
@@ -227,6 +237,16 @@
     [
       "The Good Soldier Švejk (2018)",
       "https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 10:54:32",
+      "https://news.ycombinator.com/item?id=39702295"
+    ],
+    [
+      "Zerodha Tech – Hello, World",
+      "https://zerodha.tech/blog/hello-world/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-03-14, 06:45:10",
-      "https://news.ycombinator.com/item?id=39701142"
-    ],
-    [
-      "The Mathematical Movie Database",
-      "https://www.qedcat.com/moviemath/index.html"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 03:15:14",
       "https://news.ycombinator.com/item?id=39700256"
     ],
@@ -287,16 +297,6 @@
     [
       "Building an Arduino Car Gear Shifter Indicator Display [video]",
       "https://www.youtube.com/watch?v=QixtxaAda18"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 17:00:08",
-      "https://news.ycombinator.com/item?id=39694121"
-    ],
-    [
-      "Former players are making a comeback in baseball’s executive ranks",
-      "https://www.wsj.com/sports/baseball/gm-chris-young-craig-breslow-sam-fuld-d769da8b"
     ]
   ]
 ]
