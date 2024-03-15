@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 23:23:07](https://news.ycombinator.com/item?id=39721726) - [Leave car keys 'at front door' to avoid violent confrontations: Toronto Police](https://toronto.citynews.ca/2024/03/14/leave-car-keys-at-front-door-to-avoid-violent-confrontations-with-car-thieves-toronto-police/)
 * [2024-03-15, 23:05:58](https://news.ycombinator.com/item?id=39721603) - [Win against Facebook. Giant not allowed to censor content at will](https://en.panoptykon.org/sin-wins-against-facebook)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance $$$$$](https://www.workatastartup.com/jobs/55496)
+* [2024-03-15, 22:45:33](https://news.ycombinator.com/item?id=39721463) - [The End of the Dark Universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
+* [2024-03-15, 22:26:25](https://news.ycombinator.com/item?id=39721326) - [Atopile – build electronic circuit boards from code](https://atopile.io/)
 * [2024-03-15, 22:00:31](https://news.ycombinator.com/item?id=39721158) - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 * [2024-03-15, 21:46:29](https://news.ycombinator.com/item?id=39721066) - [Tech layoffs highest since dot-com crash](https://www.cnbc.com/2024/03/15/laid-off-techies-struggle-to-find-jobs-with-cuts-at-highest-since-2001.html)
+* [2024-03-15, 21:17:06](https://news.ycombinator.com/item?id=39720812) - [Hathora's Bare Metal Journey](https://blog.hathora.dev/our-bare-metal-journey/)
 * [2024-03-15, 21:13:55](https://news.ycombinator.com/item?id=39720777) - [Netflix Is Rethinking Employee Freedom, a Core Tenet of Its Vaunted Culture](https://www.wsj.com/business/media/netflix-is-rethinking-employee-freedom-a-core-tenet-of-its-vaunted-culture-a33f78e5)
 * [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
 * [2024-03-15, 20:30:45](https://news.ycombinator.com/item?id=39720388) - [CS251: Great Ideas in Theoretical Computer Science (CMU)](https://www.cs251.com)
