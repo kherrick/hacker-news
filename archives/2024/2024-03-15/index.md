@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
 * [2024-03-15, 17:58:43](https://news.ycombinator.com/item?id=39718716) - [Walmart begins selling the Mac for the first time: M1 MacBook Air for $699](https://9to5mac.com/2024/03/15/walmart-m1-macbook-air-launch/)
+* [2024-03-15, 17:55:59](https://news.ycombinator.com/item?id=39718672) - [Boeing Whistleblower Before Death: \"If Anything Happens, It's Not Suicide\"](https://futurism.com/the-byte/boeing-whistleblower-warning-not-suicide)
 * [2024-03-15, 17:47:20](https://news.ycombinator.com/item?id=39718558) - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
 * [2024-03-15, 17:30:11](https://news.ycombinator.com/item?id=39718336) - [Harnessing AI Compute Power Atop Open-Source Software: 8 X AMD MI300X](https://www.phoronix.com/review/amd-instinct-mi300x-rocm6)
 * [2024-03-15, 17:23:19](https://news.ycombinator.com/item?id=39718257) - [Even the Feds Are Tired of McDonald's Broken Ice Cream Machines](https://gizmodo.com/feds-are-tired-mcdonalds-broken-ice-cream-machines-1851338944)
