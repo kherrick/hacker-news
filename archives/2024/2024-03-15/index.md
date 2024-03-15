@@ -6,11 +6,13 @@
 
 * [2024-03-15, 14:00:23](https://news.ycombinator.com/item?id=39715815) - [Structured Generation Improves LLM Performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
 * [2024-03-15, 13:54:22](https://news.ycombinator.com/item?id=39715497) - [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
+* [2024-03-15, 13:49:42](https://news.ycombinator.com/item?id=39715448) - [CIA launched covert influence operation against China](https://www.reuters.com/world/us/trump-launched-cia-covert-influence-operation-against-china-2024-03-14/)
 * [2024-03-15, 13:20:29](https://news.ycombinator.com/item?id=39715161) - [Boeing Whistleblower: \"If Anything Happens to Me, It's Not Suicide\"](https://twitter.com/WallStreetSilv/status/1768517997285482626)
 * [2024-03-15, 12:40:20](https://news.ycombinator.com/item?id=39714854) - [Show HN: Parikar, Read long form articles or blogs in a better, measurable way](https://www.parikar.org/)
 * [2024-03-15, 12:18:58](https://news.ycombinator.com/item?id=39714702) - [Urban humans have lost much of their ability to digest plants](https://arstechnica.com/science/2024/03/human-gut-bacteria-that-can-digest-plant-matter-probably-came-from-cows/)
 * [2024-03-15, 11:31:33](https://news.ycombinator.com/item?id=39714348) - [Writing Manual Pages (2019)](https://liw.fi/manpages/)
 * [2024-03-15, 11:08:39](https://news.ycombinator.com/item?id=39714229) - [FCC scraps old speed benchmark, says broadband should be at least 100Mbps](https://arstechnica.com/tech-policy/2024/03/fcc-scraps-old-speed-benchmark-says-broadband-should-be-at-least-100mbps/)
+* [2024-03-15, 10:58:30](https://news.ycombinator.com/item?id=39714176) - [Don't Use Google Analytics](https://jak2k.schwanenberg.name/post/google-analytics/)
 * [2024-03-15, 10:58:23](https://news.ycombinator.com/item?id=39714175) - [Banish OEM self-signed certs forever and roll your own private LetsEncrypt](https://arstechnica.com/information-technology/2024/03/banish-oem-self-signed-certs-forever-and-roll-your-own-private-letsencrypt/)
 * [2024-03-15, 10:55:22](https://news.ycombinator.com/item?id=39714155) - [IAM Is the Worst](https://matduggan.com/iam-is-the-worst/)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
