@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 16:00:21](https://news.ycombinator.com/item?id=39717232) - [Realtors Reach Settlement That Will Change How Americans Buy and Sell Homes](https://www.wsj.com/real-estate/realtors-settlement-change-buy-sell-homes-da45eb23)
 * [2024-03-15, 15:50:30](https://news.ycombinator.com/item?id=39717097) - [Former telecom manager admits to doing SIM swaps for $1k](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
 * [2024-03-15, 15:00:27](https://news.ycombinator.com/item?id=39716527) - [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
 * [2024-03-15, 14:58:30](https://news.ycombinator.com/item?id=39716494) - [Reversing for dummies – x86 assembly and C code (Beginner/ADHD friendly)](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
@@ -25,7 +26,6 @@
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 * [2024-03-14, 11:22:12](https://news.ycombinator.com/item?id=39702475) - [Experiments in Printmaking, Part 1](https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html)
 * [2024-03-14, 10:54:32](https://news.ycombinator.com/item?id=39702295) - [Zerodha Tech – Hello, World](https://zerodha.tech/blog/hello-world/)
-* [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 09:14:19](https://news.ycombinator.com/item?id=39701785) - [Improving cursor rendering on Wayland](https://blog.vaxry.net/articles/2024-cursors)
 * [2024-03-14, 07:39:07](https://news.ycombinator.com/item?id=39701380) - [Romeo and Julia, Where Romeo Is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 * [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)

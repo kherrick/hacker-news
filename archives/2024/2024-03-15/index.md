@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 16:00:21](https://news.ycombinator.com/item?id=39717232) - [Realtors Reach Settlement That Will Change How Americans Buy and Sell Homes](https://www.wsj.com/real-estate/realtors-settlement-change-buy-sell-homes-da45eb23)
 * [2024-03-15, 15:50:30](https://news.ycombinator.com/item?id=39717097) - [Former telecom manager admits to doing SIM swaps for $1k](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
 * [2024-03-15, 15:06:38](https://news.ycombinator.com/item?id=39716589) - [A new technique to work out a corpse's time of death](https://www.economist.com/science-and-technology/2024/03/06/a-new-technique-to-work-out-a-corpses-time-of-death)
 * [2024-03-15, 15:00:27](https://news.ycombinator.com/item?id=39716527) - [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
