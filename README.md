@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-15, 23:23:07](https://news.ycombinator.com/item?id=39721726) - [Leave car keys 'at front door' to avoid violent confrontations: Toronto Police](https://toronto.citynews.ca/2024/03/14/leave-car-keys-at-front-door-to-avoid-violent-confrontations-with-car-thieves-toronto-police/)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance $$$$$](https://www.workatastartup.com/jobs/55496)
 * [2024-03-15, 22:45:33](https://news.ycombinator.com/item?id=39721463) - [The End of the Dark Universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
 * [2024-03-15, 22:26:25](https://news.ycombinator.com/item?id=39721326) - [Atopile – build electronic circuit boards from code](https://atopile.io/)
@@ -13,6 +12,7 @@
 * [2024-03-15, 17:34:09](https://news.ycombinator.com/item?id=39718389) - [OpenVPN Is Open to VPN Fingerprinting](https://arxiv.org/abs/2403.03998)
 * [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer (2022)](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
 * [2024-03-15, 16:35:31](https://news.ycombinator.com/item?id=39717615) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
+* [2024-03-15, 16:30:07](https://news.ycombinator.com/item?id=39717558) - [FTC and DOJ want to free McDonald's ice cream machines from DMCA repair rules](https://arstechnica.com/tech-policy/2024/03/ftc-and-doj-want-to-free-mcdonalds-ice-cream-machines-from-dmca-repair-rules/)
 * [2024-03-15, 16:02:41](https://news.ycombinator.com/item?id=39717268) - [Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL](https://github.com/pretzelai/pretzelai)
 * [2024-03-15, 13:54:22](https://news.ycombinator.com/item?id=39715497) - [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
