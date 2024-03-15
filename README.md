@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-15, 18:57:27](https://news.ycombinator.com/item?id=39719391) - [12 months of record ocean heat has scientists puzzled and concerned](https://www.nbcnews.com/science/environment/oceans-record-hot-rcna143179)
-* [2024-03-15, 17:55:59](https://news.ycombinator.com/item?id=39718672) - [Boeing whistleblower before death: \"If anything happens, it's not suicide\"](https://futurism.com/the-byte/boeing-whistleblower-warning-not-suicide)
+* [2024-03-15, 19:19:34](https://news.ycombinator.com/item?id=39719656) - [A developer portfolio as a 2D top-down walking simulator](https://jslegenddev.github.io/portfolio/)
+* [2024-03-15, 19:13:38](https://news.ycombinator.com/item?id=39719597) - [SIM swappers hijacking phone numbers in eSIM attacks](https://www.bleepingcomputer.com/news/security/sim-swappers-hijacking-phone-numbers-in-esim-attacks/)
 * [2024-03-15, 17:47:20](https://news.ycombinator.com/item?id=39718558) - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
 * [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)
 * [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer (2022)](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
