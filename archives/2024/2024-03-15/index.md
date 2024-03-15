@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
 * [2024-03-15, 19:41:56](https://news.ycombinator.com/item?id=39719850) - [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.co.uk/news/technology-68580235)
 * [2024-03-15, 19:37:55](https://news.ycombinator.com/item?id=39719815) - [Open Source Alternatives to Popular Cloud Services](https://degooglisons-internet.org/en/)
 * [2024-03-15, 19:19:34](https://news.ycombinator.com/item?id=39719656) - [A developer portfolio as a 2D top-down walking simulator](https://jslegenddev.github.io/portfolio/)
@@ -15,6 +16,7 @@
 * [2024-03-15, 17:58:43](https://news.ycombinator.com/item?id=39718716) - [Walmart begins selling the Mac for the first time: M1 MacBook Air for $699](https://9to5mac.com/2024/03/15/walmart-m1-macbook-air-launch/)
 * [2024-03-15, 17:55:59](https://news.ycombinator.com/item?id=39718672) - [Boeing Whistleblower Before Death: \"If Anything Happens, It's Not Suicide\"](https://futurism.com/the-byte/boeing-whistleblower-warning-not-suicide)
 * [2024-03-15, 17:47:20](https://news.ycombinator.com/item?id=39718558) - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
+* [2024-03-15, 17:34:09](https://news.ycombinator.com/item?id=39718389) - [OpenVPN Is Open to VPN Fingerprinting](https://arxiv.org/abs/2403.03998)
 * [2024-03-15, 17:30:11](https://news.ycombinator.com/item?id=39718336) - [Harnessing AI Compute Power Atop Open-Source Software: 8 X AMD MI300X](https://www.phoronix.com/review/amd-instinct-mi300x-rocm6)
 * [2024-03-15, 17:23:19](https://news.ycombinator.com/item?id=39718257) - [Even the Feds Are Tired of McDonald's Broken Ice Cream Machines](https://gizmodo.com/feds-are-tired-mcdonalds-broken-ice-cream-machines-1851338944)
 * [2024-03-15, 17:20:39](https://news.ycombinator.com/item?id=39718230) - [Deadly morel mushroom outbreak highlights big gaps in fungi knowledge](https://arstechnica.com/science/2024/03/deadly-morel-mushroom-outbreak-highlights-big-gaps-in-fungi-knowledge/)
