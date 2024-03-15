@@ -83,6 +83,7 @@
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-3)
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
+* [2024-03-14, 11:22:12](https://news.ycombinator.com/item?id=39702475) - [Experiments in Printmaking, Part 1](https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html)
 * [2024-03-14, 11:18:09](https://news.ycombinator.com/item?id=39702457) - [Real time weather balloon tracking](https://sondehub.org)
 * [2024-03-14, 11:15:45](https://news.ycombinator.com/item?id=39702443) - [Estimate Your Age of Death](https://lars.yencken.org/tools/age-of-death)
 * [2024-03-14, 11:06:12](https://news.ycombinator.com/item?id=39702386) - [Playwright Test Generator](https://playwright.dev/docs/codegen)
