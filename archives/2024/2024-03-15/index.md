@@ -33,6 +33,7 @@
 * [2024-03-15, 04:16:12](https://news.ycombinator.com/item?id=39712021) - [Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct](https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe)
 * [2024-03-15, 04:05:37](https://news.ycombinator.com/item?id=39711968) - [Cockpit Mishap Seen as Likely Cause of Plunge on Latam Boeing 787](https://www.wsj.com/business/airlines/cockpit-mishap-might-have-caused-plunge-on-latam-boeing-787-ee3dd7b4)
 * [2024-03-15, 03:43:35](https://news.ycombinator.com/item?id=39711863) - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
+* [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-15, 02:40:24](https://news.ycombinator.com/item?id=39711527) - [Weak rules allow ultra-processed foods like Lunchables on school menus](https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/)
 * [2024-03-15, 02:33:42](https://news.ycombinator.com/item?id=39711493) - [Does intermittent fasting have benefits for our brain?](https://theconversation.com/does-intermittent-fasting-have-benefits-for-our-brain-223181)
