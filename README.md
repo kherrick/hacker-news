@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-15, 17:30:11](https://news.ycombinator.com/item?id=39718336) - [Harnessing AI Compute Power Atop Open-Source Software: 8 X AMD MI300X](https://www.phoronix.com/review/amd-instinct-mi300x-rocm6)
 * [2024-03-15, 17:20:39](https://news.ycombinator.com/item?id=39718230) - [Deadly morel mushroom outbreak highlights big gaps in fungi knowledge](https://arstechnica.com/science/2024/03/deadly-morel-mushroom-outbreak-highlights-big-gaps-in-fungi-knowledge/)
 * [2024-03-15, 17:08:24](https://news.ycombinator.com/item?id=39718043) - [Uber, Lyft to stop operations in Minneapolis over minimum wage law](https://www.reuters.com/technology/uber-lyft-stop-operations-minneapolis-over-minimum-wage-law-2024-03-15/)
 * [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)
-* [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
+* [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer (2022)](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
 * [2024-03-15, 16:35:31](https://news.ycombinator.com/item?id=39717615) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 16:30:07](https://news.ycombinator.com/item?id=39717558) - [FTC and DOJ want to free McDonald's ice cream machines from DMCA repair rules](https://arstechnica.com/tech-policy/2024/03/ftc-and-doj-want-to-free-mcdonalds-ice-cream-machines-from-dmca-repair-rules/)
 * [2024-03-15, 16:02:41](https://news.ycombinator.com/item?id=39717268) - [Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL](https://github.com/pretzelai/pretzelai)
@@ -30,6 +29,7 @@
 * [2024-03-14, 09:14:19](https://news.ycombinator.com/item?id=39701785) - [Improving cursor rendering on Wayland](https://blog.vaxry.net/articles/2024-cursors)
 * [2024-03-14, 07:39:07](https://news.ycombinator.com/item?id=39701380) - [Romeo and Julia, Where Romeo Is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 * [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
+* [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 
 ## [Archives](archives/index.md)
 
