@@ -100,6 +100,7 @@
 * [2024-03-13, 11:51:48](https://news.ycombinator.com/item?id=39690354) - [EU Passes AI Act: First regulation on Artificial Intelligence](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)
 * [2024-03-13, 11:51:48](https://news.ycombinator.com/item?id=39690354) - [Artificial Intelligence Act: MEPs adopt law](https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law)
 * [2024-03-13, 11:33:20](https://news.ycombinator.com/item?id=39690224) - [Interview: Linus Torvalds (1999)](https://www.linuxjournal.com/article/3655)
+* [2024-03-13, 11:26:30](https://news.ycombinator.com/item?id=39690182) - [How the Biggest Plane Would Supersize Wind Energy](https://www.wsj.com/business/energy-oil/how-the-worlds-biggest-plane-would-supersize-wind-energy-2f116e9b)
 * [2024-03-13, 10:38:29](https://news.ycombinator.com/item?id=39689912) - [Japan's Space One rocket explodes shortly after launch](https://www.japantimes.co.jp/news/2024/03/13/japan/science-health/space-one-launch/)
 * [2024-03-13, 10:31:32](https://news.ycombinator.com/item?id=39689872) - [Giant sequoias are a rapidly growing feature of the UK landscape](https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html)
 * [2024-03-13, 10:04:53](https://news.ycombinator.com/item?id=39689698) - [The Cordic Algorithm, Theory and FPGA Uses](https://www.adiuvoengineering.com/post/microzed-chronicles-the-cordic-algorithm)
