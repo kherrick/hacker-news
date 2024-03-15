@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 17:30:11](https://news.ycombinator.com/item?id=39718336) - [Harnessing AI Compute Power Atop Open-Source Software: 8 X AMD MI300X](https://www.phoronix.com/review/amd-instinct-mi300x-rocm6)
 * [2024-03-15, 17:20:39](https://news.ycombinator.com/item?id=39718230) - [Deadly morel mushroom outbreak highlights big gaps in fungi knowledge](https://arstechnica.com/science/2024/03/deadly-morel-mushroom-outbreak-highlights-big-gaps-in-fungi-knowledge/)
 * [2024-03-15, 17:08:24](https://news.ycombinator.com/item?id=39718043) - [Uber, Lyft to stop operations in Minneapolis over minimum wage law](https://www.reuters.com/technology/uber-lyft-stop-operations-minneapolis-over-minimum-wage-law-2024-03-15/)
 * [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)
@@ -7,7 +8,6 @@
 * [2024-03-15, 16:35:31](https://news.ycombinator.com/item?id=39717615) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 16:30:07](https://news.ycombinator.com/item?id=39717558) - [FTC and DOJ want to free McDonald's ice cream machines from DMCA repair rules](https://arstechnica.com/tech-policy/2024/03/ftc-and-doj-want-to-free-mcdonalds-ice-cream-machines-from-dmca-repair-rules/)
 * [2024-03-15, 16:02:41](https://news.ycombinator.com/item?id=39717268) - [Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL](https://github.com/pretzelai/pretzelai)
-* [2024-03-15, 15:50:30](https://news.ycombinator.com/item?id=39717097) - [Former telecom manager admits to doing SIM swaps for $1k](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
 * [2024-03-15, 13:54:22](https://news.ycombinator.com/item?id=39715497) - [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
 * [2024-03-15, 13:27:20](https://news.ycombinator.com/item?id=39715223) - [The Montreal problem: Why programming languages need a style czar](https://earthly.dev/blog/language-style-czar/)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)

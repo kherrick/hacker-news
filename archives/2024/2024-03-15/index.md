@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 17:30:11](https://news.ycombinator.com/item?id=39718336) - [Harnessing AI Compute Power Atop Open-Source Software: 8 X AMD MI300X](https://www.phoronix.com/review/amd-instinct-mi300x-rocm6)
 * [2024-03-15, 17:23:19](https://news.ycombinator.com/item?id=39718257) - [Even the Feds Are Tired of McDonald's Broken Ice Cream Machines](https://gizmodo.com/feds-are-tired-mcdonalds-broken-ice-cream-machines-1851338944)
 * [2024-03-15, 17:20:39](https://news.ycombinator.com/item?id=39718230) - [Deadly morel mushroom outbreak highlights big gaps in fungi knowledge](https://arstechnica.com/science/2024/03/deadly-morel-mushroom-outbreak-highlights-big-gaps-in-fungi-knowledge/)
 * [2024-03-15, 17:19:13](https://news.ycombinator.com/item?id=39718208) - [Man who married a hologram can no longer communicate with his virtual wife](https://www.entrepreneur.com/business-news/the-man-who-married-a-hologram-in-japan-can-no-longer/426715)
