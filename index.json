@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-15, 04:16:40",
-      "https://news.ycombinator.com/item?id=39712025"
+      "2024-03-15, 04:16:12",
+      "https://news.ycombinator.com/item?id=39712021"
     ],
     [
-      "RSS was released 25 years ago today",
-      "https://en.wikipedia.org/wiki/RSS"
+      "Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct",
+      "https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "More powerful Go execution traces",
       "https://go.dev/blog/execution-traces-2024"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 19:14:12",
-      "https://news.ycombinator.com/item?id=39707828"
-    ],
-    [
-      "Gnet is the fastest networking framework in Go",
-      "https://gnet.host/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Digital forgeries are hard",
       "https://mjg59.dreamwidth.org/69507.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 07:21:20",
+      "https://news.ycombinator.com/item?id=39701307"
+    ],
+    [
+      "Generating the Alphabet",
+      "https://www.amygoodchild.com/blog/generating-the-alphabet"
     ]
   ],
   [
