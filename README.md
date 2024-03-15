@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 09:50:39](https://news.ycombinator.com/item?id=39713790) - [Photoroom (YC S20) Is Hiring a Front End State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-15, 08:58:53](https://news.ycombinator.com/item?id=39713489) - [McDonald's customers unable to order after systems outage](https://www.bbc.co.uk/news/business-68573106)
 * [2024-03-15, 08:36:13](https://news.ycombinator.com/item?id=39713362) - [Everest 2024: Nepal's \"GPS Chip\" Plan Has Major Problems](https://www.alanarnette.com/blog/2024/03/05/everest-2024-nepals-gps-chip-plan-has-major-problems/)
 * [2024-03-15, 08:29:52](https://news.ycombinator.com/item?id=39713323) - [Berlin's techno scene added to Unesco intangible cultural heritage list](https://www.theguardian.com/world/2024/mar/15/berlins-techno-scene-added-to-unesco-intangible-cultural-heritage-list)
@@ -29,7 +30,6 @@
 * [2024-03-14, 06:45:10](https://news.ycombinator.com/item?id=39701142) - [The Mathematical Movie Database](https://www.qedcat.com/moviemath/index.html)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 * [2024-03-13, 21:45:23](https://news.ycombinator.com/item?id=39697933) - [Building an Arduino Car Gear Shifter Indicator Display [video]](https://www.youtube.com/watch?v=QixtxaAda18)
-* [2024-03-12, 20:32:46](https://news.ycombinator.com/item?id=39684567) - [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
 
 ## [Archives](archives/index.md)
 

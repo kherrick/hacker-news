@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 09:50:39](https://news.ycombinator.com/item?id=39713790) - [Photoroom (YC S20) Is Hiring a Front End State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-15, 08:58:53](https://news.ycombinator.com/item?id=39713489) - [McDonald's customers unable to order after systems outage](https://www.bbc.co.uk/news/business-68573106)
 * [2024-03-15, 08:36:13](https://news.ycombinator.com/item?id=39713362) - [Everest 2024: Nepal's \"GPS Chip\" Plan Has Major Problems](https://www.alanarnette.com/blog/2024/03/05/everest-2024-nepals-gps-chip-plan-has-major-problems/)
 * [2024-03-15, 08:29:52](https://news.ycombinator.com/item?id=39713323) - [Berlin's techno scene added to Unesco intangible cultural heritage list](https://www.theguardian.com/world/2024/mar/15/berlins-techno-scene-added-to-unesco-intangible-cultural-heritage-list)
