@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-15, 12:18:58](https://news.ycombinator.com/item?id=39714702) - [Urban humans have lost much of their ability to digest plants](https://arstechnica.com/science/2024/03/human-gut-bacteria-that-can-digest-plant-matter-probably-came-from-cows/)
 * [2024-03-15, 10:55:22](https://news.ycombinator.com/item?id=39714155) - [IAM Is the Worst](https://matduggan.com/iam-is-the-worst/)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
 * [2024-03-15, 09:50:39](https://news.ycombinator.com/item?id=39713790) - [Photoroom (YC S20) Is Hiring a Front End State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
@@ -17,7 +16,9 @@
 * [2024-03-14, 22:59:35](https://news.ycombinator.com/item?id=39709981) - [The Oregon Outback International Dark Sky Sanctuary](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
 * [2024-03-14, 22:51:25](https://news.ycombinator.com/item?id=39709912) - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 * [2024-03-14, 22:43:14](https://news.ycombinator.com/item?id=39709827) - [Genetically engineering koji mold to create a meat alternative](https://newscenter.lbl.gov/2024/03/14/its-hearty-its-meaty-its-mold/)
+* [2024-03-14, 21:17:33](https://news.ycombinator.com/item?id=39709089) - [CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
 * [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
+* [2024-03-14, 18:29:10](https://news.ycombinator.com/item?id=39707356) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-03-14, 16:57:00](https://news.ycombinator.com/item?id=39706330) - [Why are most sofas so bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
 * [2024-03-14, 16:51:23](https://news.ycombinator.com/item?id=39706253) - [Launch HN: Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 * [2024-03-14, 16:34:15](https://news.ycombinator.com/item?id=39706035) - [Show HN: Frigade - React SDK for building quality onboarding & activation flows](https://frigade.com)
@@ -29,7 +30,6 @@
 * [2024-03-14, 07:39:07](https://news.ycombinator.com/item?id=39701380) - [Romeo and Julia, Where Romeo Is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 * [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
 * [2024-03-14, 03:15:14](https://news.ycombinator.com/item?id=39700256) - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
-* [2024-03-13, 21:45:23](https://news.ycombinator.com/item?id=39697933) - [Building an Arduino Car Gear Shifter Indicator Display [video]](https://www.youtube.com/watch?v=QixtxaAda18)
 
 ## [Archives](archives/index.md)
 
