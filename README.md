@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-15, 22:00:31](https://news.ycombinator.com/item?id=39721158) - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 * [2024-03-15, 21:46:29](https://news.ycombinator.com/item?id=39721066) - [Tech layoffs highest since dot-com crash](https://www.cnbc.com/2024/03/15/laid-off-techies-struggle-to-find-jobs-with-cuts-at-highest-since-2001.html)
+* [2024-03-15, 21:13:55](https://news.ycombinator.com/item?id=39720777) - [Netflix Is Rethinking Employee Freedom, a Core Tenet of Its Vaunted Culture](https://www.wsj.com/business/media/netflix-is-rethinking-employee-freedom-a-core-tenet-of-its-vaunted-culture-a33f78e5)
 * [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
 * [2024-03-15, 20:30:45](https://news.ycombinator.com/item?id=39720388) - [Great Ideas in Theoretical Computer Science](https://www.cs251.com)
 * [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
@@ -22,13 +24,11 @@
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-15, 02:57:55](https://news.ycombinator.com/item?id=39711621) - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 * [2024-03-14, 22:59:35](https://news.ycombinator.com/item?id=39709981) - [The Oregon Outback International Dark Sky Sanctuary](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
-* [2024-03-14, 20:30:17](https://news.ycombinator.com/item?id=39708591) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 * [2024-03-14, 16:57:00](https://news.ycombinator.com/item?id=39706330) - [Why are most sofas so bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
 * [2024-03-14, 11:22:12](https://news.ycombinator.com/item?id=39702475) - [Experiments in Printmaking, Part 1](https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html)
 * [2024-03-14, 09:14:19](https://news.ycombinator.com/item?id=39701785) - [Improving cursor rendering on Wayland](https://blog.vaxry.net/articles/2024-cursors)
 * [2024-03-14, 08:21:08](https://news.ycombinator.com/item?id=39701543) - [DBOS Operating System](https://www.dbos.dev/)
 * [2024-03-14, 07:54:43](https://news.ycombinator.com/item?id=39701427) - [How to embrace asynchronous communication for remote work](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
-* [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
 * [2024-03-14, 07:11:26](https://news.ycombinator.com/item?id=39701267) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95)
 
 ## [Archives](archives/index.md)
