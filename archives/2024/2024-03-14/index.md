@@ -97,6 +97,7 @@
 * [2024-03-14, 09:15:47](https://news.ycombinator.com/item?id=39701791) - [Swedish data brokers claim journalists' legal protection to evade EU law](https://noyb.eu/en/swedish-data-brokers-claim-journalists-legal-protection-evade-eu-law)
 * [2024-03-14, 08:15:18](https://news.ycombinator.com/item?id=39701502) - [FCC Denies Starlink Low-Orbit Bid for Lower Latency](https://spectrum.ieee.org/starlink-vleo-below-iss)
 * [2024-03-14, 08:08:15](https://news.ycombinator.com/item?id=39701473) - [NASA Engineers Make Progress Toward Understanding Voyager 1 Issue](https://blogs.nasa.gov/sunspot/2024/03/13/nasa-engineers-make-progress-toward-understanding-voyager-1-issue/)
+* [2024-03-14, 07:39:07](https://news.ycombinator.com/item?id=39701380) - [Romeo and Julia, Where Romeo Is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 * [2024-03-14, 07:33:10](https://news.ycombinator.com/item?id=39701358) - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 * [2024-03-14, 07:21:20](https://news.ycombinator.com/item?id=39701307) - [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)
 * [2024-03-14, 07:10:24](https://news.ycombinator.com/item?id=39701261) - [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
