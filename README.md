@@ -2,10 +2,10 @@
 
 * [2024-03-16, 06:01:07](https://news.ycombinator.com/item?id=39723704) - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 * [2024-03-16, 03:09:30](https://news.ycombinator.com/item?id=39723012) - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
+* [2024-03-16, 02:35:33](https://news.ycombinator.com/item?id=39722836) - [Reddit's Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
 * [2024-03-15, 23:52:05](https://news.ycombinator.com/item?id=39721922) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
 * [2024-03-15, 23:42:29](https://news.ycombinator.com/item?id=39721841) - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
-* [2024-03-15, 22:45:33](https://news.ycombinator.com/item?id=39721463) - [The end of the dark universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
 * [2024-03-15, 22:00:31](https://news.ycombinator.com/item?id=39721158) - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 * [2024-03-15, 21:40:42](https://news.ycombinator.com/item?id=39721015) - [1.1B Taxi Rides Using DuckDB](https://tech.marksblogg.com/duckdb-1b-taxi-rides.html)
 * [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and mitigating speculative race conditions](https://www.vusec.net/projects/ghostrace/)
