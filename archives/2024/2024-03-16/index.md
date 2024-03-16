@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 16:31:09](https://news.ycombinator.com/item?id=39727257) - [SpaceX is building spy satellite network for US intelligence agency, sources say](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/)
 * [2024-03-16, 15:49:26](https://news.ycombinator.com/item?id=39726937) - [Ask HN: Non-duopoly smart phone in Sweden?](https://news.ycombinator.com/item?id=39726937)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:25:49](https://news.ycombinator.com/item?id=39726730) - [Folding@Home](https://en.wikipedia.org/wiki/Folding@home)
@@ -11,6 +12,7 @@
 * [2024-03-16, 15:14:55](https://news.ycombinator.com/item?id=39726632) - [Ask HN: How do you use AI for software engineering?](https://news.ycombinator.com/item?id=39726632)
 * [2024-03-16, 15:04:42](https://news.ycombinator.com/item?id=39726545) - [After Thursday's flight, Starship is the most revolutionary rocket ever built](https://arstechnica.com/space/2024/03/thursdays-starship-flight-provided-a-glimpse-into-a-future-of-abundant-access-to-space/)
 * [2024-03-16, 15:00:08](https://news.ycombinator.com/item?id=39726516) - [\"It's a Silent Fire\": Decaying Digital Movie and TV Shows Are a Hollywood Crisis](https://www.hollywoodreporter.com/business/digital/digital-preservation-film-tv-shows-archives-1235851957/)
+* [2024-03-16, 14:47:44](https://news.ycombinator.com/item?id=39726417) - [The Staggering Ecological Impacts of Computation and the Cloud](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/)
 * [2024-03-16, 14:44:11](https://news.ycombinator.com/item?id=39726388) - [Study: Dark matter does not exist and the universe is 27B years old](https://www.earth.com/news/dark-matter-does-not-exist-universe-27-billion-years-old-study/)
 * [2024-03-16, 14:28:16](https://news.ycombinator.com/item?id=39726243) - [Man pleads guilty to genetically engineering giant hybrid sheep](https://abcnews.go.com/International/80-year-man-pleads-guilty-genetically-engineering-giant/story?id=108117977)
 * [2024-03-16, 14:18:47](https://news.ycombinator.com/item?id=39726156) - [Apple Unveils MM1: Multimodal AI Competing with ChatGPT](https://www.thebreakingai.com/apple-unveils-mm1-setting-new-standards-for-multimodal-ai-competing-with-chatgpt/)
@@ -56,6 +58,7 @@
 * [2024-03-16, 02:03:40](https://news.ycombinator.com/item?id=39722680) - [Apple Agrees to Pay $490M to Settle Lawsuit That Tim Cook Defrauded Shareholders](https://www.macrumors.com/2024/03/15/apple-agrees-to-settle-tim-cook-investor-lawsuit/)
 * [2024-03-16, 01:45:58](https://news.ycombinator.com/item?id=39722606) - [Chinese firm's leaked files show vast international hacking effort](https://www.washingtonpost.com/world/2024/02/21/china-hacking-leak-documents-isoon/)
 * [2024-03-16, 01:39:48](https://news.ycombinator.com/item?id=39722576) - [ChatGPT prompt reply copy-pasted in a published research paper](https://twitter.com/Saboo_Shubham_/status/1768714521340752093)
+* [2024-03-16, 01:27:14](https://news.ycombinator.com/item?id=39722498) - [Apple Announces MM1: Multimodal LLM Pre-Trainig Report](https://arxiv.org/abs/2403.09611)
 * [2024-03-16, 01:24:40](https://news.ycombinator.com/item?id=39722483) - [Two-Thirds of U.S. Adults Would Rather Wait to Watch Movies on Streaming](https://www.indiewire.com/news/analysis/movies-on-streaming-not-in-theaters-1234964413/)
 * [2024-03-16, 01:07:52](https://news.ycombinator.com/item?id=39722389) - [Amazon violated workers' rights at crucial air hub, labor regulators allege](https://www.washingtonpost.com/technology/2024/03/14/amazon-labor-law-violation-workers/)
 * [2024-03-16, 00:53:10](https://news.ycombinator.com/item?id=39722289) - [AI versions of deceased loved ones could be a serious threat to mental health](https://theconversation.com/ghostbots-ai-versions-of-deceased-loved-ones-could-be-a-serious-threat-to-mental-health-224984)
