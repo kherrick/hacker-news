@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-16, 21:53:45](https://news.ycombinator.com/item?id=39729819) - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
-* [2024-03-16, 21:17:30](https://news.ycombinator.com/item?id=39729549) - [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.com/news/technology-68580235)
 * [2024-03-16, 21:14:06](https://news.ycombinator.com/item?id=39729509) - [CXL Is Dead in the AI Era](https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:00:13](https://news.ycombinator.com/item?id=39728994) - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
@@ -29,6 +28,7 @@
 * [2024-03-16, 01:27:14](https://news.ycombinator.com/item?id=39722498) - [MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:20:55](https://news.ycombinator.com/item?id=39714721) - [How to Play Renju](https://www.renju.net/rules/)
+* [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 11:05:56](https://news.ycombinator.com/item?id=39702383) - [Jonathan Harris (2014)](https://transom.org/2014/jonathan-harris/)
 
 ## [Archives](archives/index.md)
