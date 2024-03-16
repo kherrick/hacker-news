@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 23:42:29](https://news.ycombinator.com/item?id=39721841) - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 * [2024-03-15, 23:23:07](https://news.ycombinator.com/item?id=39721726) - [Leave car keys 'at front door' to avoid violent confrontations: Toronto Police](https://toronto.citynews.ca/2024/03/14/leave-car-keys-at-front-door-to-avoid-violent-confrontations-with-car-thieves-toronto-police/)
 * [2024-03-15, 23:05:58](https://news.ycombinator.com/item?id=39721603) - [Win against Facebook. Giant not allowed to censor content at will](https://en.panoptykon.org/sin-wins-against-facebook)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance $$$$$](https://www.workatastartup.com/jobs/55496)
@@ -19,6 +20,7 @@
 * [2024-03-15, 20:29:43](https://news.ycombinator.com/item?id=39720379) - [Sheng Liang's Acorn Labs Drops Its Runtime for GPTScript](https://fossforce.com/2024/03/sheng-liangs-acorn-labs-drops-its-runtime-for-gptscript/)
 * [2024-03-15, 20:28:20](https://news.ycombinator.com/item?id=39720364) - [Boeing cockpit seat switch mishap reportedly led to Latam flight incident](https://www.theguardian.com/business/2024/mar/15/boeing-cockpit-seat-switch-latam-flight)
 * [2024-03-15, 20:11:56](https://news.ycombinator.com/item?id=39720188) - [Mercedes is trialing humanoid robots for 'low skill, repetitive' tasks](https://www.theverge.com/2024/3/15/24101791/mercedes-robot-humanoid-apptronik-apollo-manufacturing)
+* [2024-03-15, 20:11:56](https://news.ycombinator.com/item?id=39720187) - [Zig, Rust, and Other Languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 * [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
 * [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 19:54:17](https://news.ycombinator.com/item?id=39719979) - [The Data Is Clear: People Are Having Less Sex](https://www.graphsaboutreligion.com/p/the-data-is-clear-people-are-having)
