@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 15:49:26](https://news.ycombinator.com/item?id=39726937) - [Ask HN: Non-duopoly smart phone in Sweden?](https://news.ycombinator.com/item?id=39726937)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:25:49](https://news.ycombinator.com/item?id=39726730) - [Folding@Home](https://en.wikipedia.org/wiki/Folding@home)
 * [2024-03-16, 15:15:49](https://news.ycombinator.com/item?id=39726638) - [SpaceX Prepares to Comply with 'Lawful Intercepts' for Cellular Starlink System](https://www.pcmag.com/news/spacex-prepares-to-comply-with-lawful-intercepts-for-cellular-starlink)
+* [2024-03-16, 15:14:55](https://news.ycombinator.com/item?id=39726632) - [Ask HN: How do you use AI for software engineering?](https://news.ycombinator.com/item?id=39726632)
 * [2024-03-16, 15:04:42](https://news.ycombinator.com/item?id=39726545) - [After Thursday's flight, Starship is the most revolutionary rocket ever built](https://arstechnica.com/space/2024/03/thursdays-starship-flight-provided-a-glimpse-into-a-future-of-abundant-access-to-space/)
 * [2024-03-16, 15:00:08](https://news.ycombinator.com/item?id=39726516) - [\"It's a Silent Fire\": Decaying Digital Movie and TV Shows Are a Hollywood Crisis](https://www.hollywoodreporter.com/business/digital/digital-preservation-film-tv-shows-archives-1235851957/)
 * [2024-03-16, 14:44:11](https://news.ycombinator.com/item?id=39726388) - [Study: Dark matter does not exist and the universe is 27B years old](https://www.earth.com/news/dark-matter-does-not-exist-universe-27-billion-years-old-study/)
