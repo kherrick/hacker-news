@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-16, 01:45:58](https://news.ycombinator.com/item?id=39722606) - [Chinese firm's leaked files show vast international hacking effort](https://www.washingtonpost.com/world/2024/02/21/china-hacking-leak-documents-isoon/)
 * [2024-03-16, 00:30:39](https://news.ycombinator.com/item?id=39722146) - [Apple TV+ Cornered the Market on \"Prestige Dad TV\"](https://www.gq.com/story/apple-tv-plus-prestige-dad-tv)
 * [2024-03-15, 23:42:29](https://news.ycombinator.com/item?id=39721841) - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
@@ -30,6 +29,7 @@
 * [2024-03-14, 07:11:26](https://news.ycombinator.com/item?id=39701267) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95)
 * [2024-03-14, 04:40:12](https://news.ycombinator.com/item?id=39700655) - [On clock faces, 4 is Expressed as IIII, not IV](https://museum.seiko.co.jp/en/knowledge/trivia02/)
 * [2024-03-13, 22:43:39](https://news.ycombinator.com/item?id=39698485) - [On the implausibility of the Death Star's trash compactor (2002)](https://www.mcsweeneys.net/articles/on-the-implausibility-of-the-death-stars-trash-compactor)
+* [2024-03-13, 11:26:30](https://news.ycombinator.com/item?id=39690182) - [How the biggest plane would supersize wind energy](https://www.wsj.com/business/energy-oil/how-the-worlds-biggest-plane-would-supersize-wind-energy-2f116e9b)
 
 ## [Archives](archives/index.md)
 
