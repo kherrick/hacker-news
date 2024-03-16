@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 08:22:12](https://news.ycombinator.com/item?id=39724206) - [Self-Printing Machine Code (2005)](https://susam.net/self-printing-machine-code.html)
 * [2024-03-16, 08:04:54](https://news.ycombinator.com/item?id=39724132) - [Show HN: deptry 0.14.0 – detect unused Python dependencies up to 10 times faster](https://github.com/fpgmaas/deptry/releases/tag/0.14.0)
 * [2024-03-16, 06:01:07](https://news.ycombinator.com/item?id=39723704) - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 * [2024-03-16, 04:35:11](https://news.ycombinator.com/item?id=39723422) - [Apple researchers achieve breakthroughs in multimodal AI](https://venturebeat.com/ai/apple-researchers-achieve-breakthroughs-in-multimodal-ai-as-company-ramps-up-investments/)

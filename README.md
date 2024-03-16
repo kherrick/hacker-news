@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 08:22:12](https://news.ycombinator.com/item?id=39724206) - [Self-Printing Machine Code (2005)](https://susam.net/self-printing-machine-code.html)
 * [2024-03-16, 08:04:54](https://news.ycombinator.com/item?id=39724132) - [Show HN: deptry 0.14.0 – detect unused Python dependencies up to 10 times faster](https://github.com/fpgmaas/deptry/releases/tag/0.14.0)
 * [2024-03-16, 06:01:07](https://news.ycombinator.com/item?id=39723704) - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 * [2024-03-16, 03:09:30](https://news.ycombinator.com/item?id=39723012) - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
@@ -14,7 +15,6 @@
 * [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 17:47:20](https://news.ycombinator.com/item?id=39718558) - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
 * [2024-03-15, 17:34:09](https://news.ycombinator.com/item?id=39718389) - [OpenVPN Is Open to VPN Fingerprinting](https://arxiv.org/abs/2403.03998)
-* [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)
 * [2024-03-15, 16:35:31](https://news.ycombinator.com/item?id=39717615) - [Compressing chess moves for fun and profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 16:02:41](https://news.ycombinator.com/item?id=39717268) - [Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL](https://github.com/pretzelai/pretzelai)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
