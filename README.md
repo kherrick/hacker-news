@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 02:03:40](https://news.ycombinator.com/item?id=39722680) - [Apple Agrees to Pay $490M to Settle Lawsuit That Tim Cook Defrauded Shareholders](https://www.macrumors.com/2024/03/15/apple-agrees-to-settle-tim-cook-investor-lawsuit/)
 * [2024-03-16, 00:30:39](https://news.ycombinator.com/item?id=39722146) - [Apple TV+ Cornered the Market on \"Prestige Dad TV\"](https://www.gq.com/story/apple-tv-plus-prestige-dad-tv)
 * [2024-03-15, 23:42:29](https://news.ycombinator.com/item?id=39721841) - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
@@ -7,7 +8,6 @@
 * [2024-03-15, 22:00:31](https://news.ycombinator.com/item?id=39721158) - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 * [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and mitigating speculative race conditions](https://www.vusec.net/projects/ghostrace/)
 * [2024-03-15, 20:30:45](https://news.ycombinator.com/item?id=39720388) - [Great ideas in theoretical computer science](https://www.cs251.com)
-* [2024-03-15, 20:11:56](https://news.ycombinator.com/item?id=39720187) - [Zig, Rust, and Other Languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 * [2024-03-15, 20:00:26](https://news.ycombinator.com/item?id=39720049) - [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
 * [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 18:19:00](https://news.ycombinator.com/item?id=39718965) - [Gradient Descending Through Brinespace](https://slimemoldtimemold.com/2024/03/15/gradient-descending-through-brinespace/)
