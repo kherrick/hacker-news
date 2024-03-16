@@ -122,6 +122,7 @@
 * [2024-03-13, 05:32:16](https://news.ycombinator.com/item?id=39688381) - [Freenginx: Core Nginx Developer Announces Fork of Popular Web Server](https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/)
 * [2024-03-13, 05:31:53](https://news.ycombinator.com/item?id=39688380) - [TeX Live 2024 released – ISO available for download via torrent file and magnet](https://www.texastim.dev/texlive/2024/03/12/texlive.html)
 * [2024-03-13, 04:38:56](https://news.ycombinator.com/item?id=39688165) - [Any Technology Indistinguishable from Magic Is Hiding Something](https://www.fromjason.xyz/p/notebook/any-technology-indistinguishable-from-magic-is-hiding-something/)
+* [2024-03-13, 04:28:58](https://news.ycombinator.com/item?id=39688120) - [Can We Survive Technology? (1955) [pdf]](https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf)
 * [2024-03-13, 03:18:36](https://news.ycombinator.com/item?id=39687762) - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
 * [2024-03-13, 03:17:48](https://news.ycombinator.com/item?id=39687755) - [The New Audi A3 Is Amess with In-Car Subscriptions](https://www.motor1.com/news/711957/2025-audi-a3-in-car-subscriptions/)
 * [2024-03-13, 03:12:51](https://news.ycombinator.com/item?id=39687729) - [Show HN: I made an AI-first collaborative knowledge base](https://thedrive.ai)
