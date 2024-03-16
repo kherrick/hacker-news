@@ -40,6 +40,7 @@
 * [2024-03-16, 14:32:51](https://news.ycombinator.com/item?id=39726292) - [macOS 14.4 causes JVM crashes](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 * [2024-03-16, 14:28:16](https://news.ycombinator.com/item?id=39726243) - [Man pleads guilty to genetically engineering giant hybrid sheep](https://abcnews.go.com/International/80-year-man-pleads-guilty-genetically-engineering-giant/story?id=108117977)
 * [2024-03-16, 14:27:14](https://news.ycombinator.com/item?id=39726235) - [Aging Voyager 1 sends back surprising response after 'poke' from Earth](https://www.cnn.com/2024/03/14/world/voyager-1-communication-issue-poke-scn/index.html)
+* [2024-03-16, 14:20:33](https://news.ycombinator.com/item?id=39726172) - [Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript](https://bewcloud.com)
 * [2024-03-16, 14:18:47](https://news.ycombinator.com/item?id=39726156) - [Apple Unveils MM1: Multimodal AI Competing with ChatGPT](https://www.thebreakingai.com/apple-unveils-mm1-setting-new-standards-for-multimodal-ai-competing-with-chatgpt/)
 * [2024-03-16, 14:14:47](https://news.ycombinator.com/item?id=39726124) - [Loongson 3A6000: A Star Among Chinese CPUs](https://chipsandcheese.com/2024/03/13/loongson-3a6000-a-star-among-chinese-cpus/)
 * [2024-03-16, 14:14:41](https://news.ycombinator.com/item?id=39726123) - [Geekbench scores of systems I've used over past 20 years](https://blakespot.com/images/gb5_scores_2023.png)
