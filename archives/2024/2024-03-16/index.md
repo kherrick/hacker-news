@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 14:18:47](https://news.ycombinator.com/item?id=39726156) - [Apple Unveils MM1: Multimodal AI Competing with ChatGPT](https://www.thebreakingai.com/apple-unveils-mm1-setting-new-standards-for-multimodal-ai-competing-with-chatgpt/)
 * [2024-03-16, 13:22:08](https://news.ycombinator.com/item?id=39725663) - [Misirlou](https://en.wikipedia.org/wiki/Misirlou)
 * [2024-03-16, 12:50:51](https://news.ycombinator.com/item?id=39725458) - [Surgeon who burnt his initials on a patient's liver](https://www.theguardian.com/society/2024/mar/16/surgeon-who-signed-patients-livers)
 * [2024-03-16, 12:44:17](https://news.ycombinator.com/item?id=39725416) - [The Linux Desktop Is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
@@ -13,6 +14,7 @@
 * [2024-03-16, 12:03:48](https://news.ycombinator.com/item?id=39725150) - [My new System76 Thelio is hands-down the best desktop PC I've ever tested](https://www.zdnet.com/home-and-office/my-new-system76-thelio-is-hands-down-the-best-desktop-pc-ive-ever-tested/)
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-16, 11:46:46](https://news.ycombinator.com/item?id=39725035) - [Gaza: 23M tonnes of debris 'will take years to clear'](https://news.un.org/en/story/2024/03/1147616)
+* [2024-03-16, 11:35:39](https://news.ycombinator.com/item?id=39724966) - [The Rising Price of Power in Chips](https://semiengineering.com/the-rising-price-of-power-in-chips/)
 * [2024-03-16, 11:28:14](https://news.ycombinator.com/item?id=39724933) - [Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)
 * [2024-03-16, 11:06:41](https://news.ycombinator.com/item?id=39724844) - [Delusions Shape Our Reality](https://iai.tv/articles/delusions-shape-our-reality-auid-2772)
 * [2024-03-16, 10:47:21](https://news.ycombinator.com/item?id=39724749) - [DARPA to launch efforts that will bolster defenses against manipulated media](https://www.darpa.mil/news-events/2024-03-14)
