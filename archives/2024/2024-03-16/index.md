@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 08:58:41](https://news.ycombinator.com/item?id=39724338) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
+* [2024-03-16, 08:52:48](https://news.ycombinator.com/item?id=39724312) - [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
 * [2024-03-16, 08:22:12](https://news.ycombinator.com/item?id=39724206) - [Self-Printing Machine Code (2005)](https://susam.net/self-printing-machine-code.html)
+* [2024-03-16, 08:11:18](https://news.ycombinator.com/item?id=39724161) - [Telefunken Datenspeicher](https://retrocomputing.stackexchange.com/questions/29676/what-is-this-large-device-labelled-telefunken-datenspeicher-and-how-does-it-wo)
 * [2024-03-16, 08:04:54](https://news.ycombinator.com/item?id=39724132) - [Show HN: deptry 0.14.0 – detect unused Python dependencies up to 10 times faster](https://github.com/fpgmaas/deptry/releases/tag/0.14.0)
+* [2024-03-16, 07:47:11](https://news.ycombinator.com/item?id=39724045) - [Libraries struggle to afford e-books, seek new laws in fight with publishers](https://abcnews.go.com/US/wireStory/libraries-struggle-afford-demand-books-seek-new-state-108035200)
 * [2024-03-16, 06:01:07](https://news.ycombinator.com/item?id=39723704) - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 * [2024-03-16, 04:35:11](https://news.ycombinator.com/item?id=39723422) - [Apple researchers achieve breakthroughs in multimodal AI](https://venturebeat.com/ai/apple-researchers-achieve-breakthroughs-in-multimodal-ai-as-company-ramps-up-investments/)
 * [2024-03-16, 03:34:21](https://news.ycombinator.com/item?id=39723147) - [Boeing tells airlines to check pilot seats after shift led plane to plunge](https://apnews.com/article/boeing-warning-cockpit-seats-787-dreamliner-07c59619ab48c9cbea2a4df091fd6d21)
