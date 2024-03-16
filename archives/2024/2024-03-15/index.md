@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 23:52:05](https://news.ycombinator.com/item?id=39721922) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
 * [2024-03-15, 23:42:29](https://news.ycombinator.com/item?id=39721841) - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 * [2024-03-15, 23:23:07](https://news.ycombinator.com/item?id=39721726) - [Leave car keys 'at front door' to avoid violent confrontations: Toronto Police](https://toronto.citynews.ca/2024/03/14/leave-car-keys-at-front-door-to-avoid-violent-confrontations-with-car-thieves-toronto-police/)
 * [2024-03-15, 23:05:58](https://news.ycombinator.com/item?id=39721603) - [Win against Facebook. Giant not allowed to censor content at will](https://en.panoptykon.org/sin-wins-against-facebook)
