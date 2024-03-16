@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 18:16:17](https://news.ycombinator.com/item?id=39728146) - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-16, 17:40:09](https://news.ycombinator.com/item?id=39727857) - [Rachel Corrie Gave Her Life for Rafah](https://jacobin.com/2024/03/rachel-corrie-death-anniversary-rafah-gaza-idf)
 * [2024-03-16, 17:25:32](https://news.ycombinator.com/item?id=39727752) - [Why African startups don't always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
 * [2024-03-16, 17:23:46](https://news.ycombinator.com/item?id=39727735) - [Ten Best Electronic Inventions from the 70s](https://www.tti.com/content/ttiinc/en/resources/blog/10-best-electronic-inventions-from-the-70.html)
@@ -15,6 +16,7 @@
 * [2024-03-16, 17:07:21](https://news.ycombinator.com/item?id=39727587) - [The Future of the Monetary System [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/csri-future-of-the-monetary-system.pdf)
 * [2024-03-16, 17:05:40](https://news.ycombinator.com/item?id=39727568) - [Chewing Gum Is Associated with Better Diet Quality but Not Oral Health Measures](https://www.tandfonline.com/doi/full/10.1080/27697061.2023.2300441)
 * [2024-03-16, 17:01:34](https://news.ycombinator.com/item?id=39727529) - [Research shows that people who BS are more likely to fall for BS (2021)](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
+* [2024-03-16, 16:53:34](https://news.ycombinator.com/item?id=39727458) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
 * [2024-03-16, 16:43:34](https://news.ycombinator.com/item?id=39727376) - [Ask HN: Why can't image generation models spell?](https://news.ycombinator.com/item?id=39727376)
 * [2024-03-16, 16:31:09](https://news.ycombinator.com/item?id=39727257) - [SpaceX is building spy satellite network for US intelligence agency, sources say](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/)
 * [2024-03-16, 15:49:26](https://news.ycombinator.com/item?id=39726937) - [Ask HN: Non-duopoly smart phone in Sweden?](https://news.ycombinator.com/item?id=39726937)
