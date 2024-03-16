@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 15:15:49](https://news.ycombinator.com/item?id=39726638) - [SpaceX Prepares to Comply with 'Lawful Intercepts' for Cellular Starlink System](https://www.pcmag.com/news/spacex-prepares-to-comply-with-lawful-intercepts-for-cellular-starlink)
 * [2024-03-16, 15:04:42](https://news.ycombinator.com/item?id=39726545) - [After Thursday's flight, Starship is the most revolutionary rocket ever built](https://arstechnica.com/space/2024/03/thursdays-starship-flight-provided-a-glimpse-into-a-future-of-abundant-access-to-space/)
 * [2024-03-16, 14:44:11](https://news.ycombinator.com/item?id=39726388) - [Study: Dark matter does not exist and the universe is 27B years old](https://www.earth.com/news/dark-matter-does-not-exist-universe-27-billion-years-old-study/)
+* [2024-03-16, 14:28:16](https://news.ycombinator.com/item?id=39726243) - [Man pleads guilty to genetically engineering giant hybrid sheep](https://abcnews.go.com/International/80-year-man-pleads-guilty-genetically-engineering-giant/story?id=108117977)
 * [2024-03-16, 14:18:47](https://news.ycombinator.com/item?id=39726156) - [Apple Unveils MM1: Multimodal AI Competing with ChatGPT](https://www.thebreakingai.com/apple-unveils-mm1-setting-new-standards-for-multimodal-ai-competing-with-chatgpt/)
 * [2024-03-16, 14:14:47](https://news.ycombinator.com/item?id=39726124) - [Loongson 3A6000: A Star Among Chinese CPUs](https://chipsandcheese.com/2024/03/13/loongson-3a6000-a-star-among-chinese-cpus/)
 * [2024-03-16, 14:14:41](https://news.ycombinator.com/item?id=39726123) - [Geekbench scores of systems I've used over past 20 years](https://blakespot.com/images/gb5_scores_2023.png)

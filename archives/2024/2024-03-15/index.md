@@ -62,6 +62,7 @@
 * [2024-03-15, 14:29:45](https://news.ycombinator.com/item?id=39716168) - [McDonald's Technology Outage Forces Restaurant Closures](https://www.wsj.com/business/hospitality/mcdonalds-hampered-by-system-outages-in-japan-hong-kong-7e8dd3c7)
 * [2024-03-15, 14:04:09](https://news.ycombinator.com/item?id=39715857) - [Honda and Nissan might team up against Tesla and other EV rivals](https://qz.com/honda-nissan-ev-auto-partner-tesla-byd-china-1851338514)
 * [2024-03-15, 14:00:23](https://news.ycombinator.com/item?id=39715815) - [Structured Generation Improves LLM Performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
+* [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 13:54:22](https://news.ycombinator.com/item?id=39715497) - [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
 * [2024-03-15, 13:49:42](https://news.ycombinator.com/item?id=39715448) - [CIA launched covert influence operation against China](https://www.reuters.com/world/us/trump-launched-cia-covert-influence-operation-against-china-2024-03-14/)
 * [2024-03-15, 13:36:02](https://news.ycombinator.com/item?id=39715303) - [Supreme Court to hear case on how the government talks to social media companies](https://www.theverge.com/2024/3/15/24101298/supreme-court-murthy-missouri-speech-social-media)
