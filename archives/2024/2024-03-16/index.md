@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 11:46:46](https://news.ycombinator.com/item?id=39725035) - [Gaza: 23M tonnes of debris 'will take years to clear'](https://news.un.org/en/story/2024/03/1147616)
+* [2024-03-16, 11:28:14](https://news.ycombinator.com/item?id=39724933) - [Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)
 * [2024-03-16, 09:41:24](https://news.ycombinator.com/item?id=39724505) - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
 * [2024-03-16, 09:03:06](https://news.ycombinator.com/item?id=39724356) - [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
 * [2024-03-16, 09:01:57](https://news.ycombinator.com/item?id=39724349) - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
