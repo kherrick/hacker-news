@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 13:22:08",
+      "https://news.ycombinator.com/item?id=39725663"
+    ],
+    [
+      "Misirlou",
+      "https://en.wikipedia.org/wiki/Misirlou"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 12:50:51",
       "https://news.ycombinator.com/item?id=39725458"
     ],
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2024-03-16, 08:58:41",
-      "https://news.ycombinator.com/item?id=39724338"
+      "2024-03-16, 09:02:02",
+      "https://news.ycombinator.com/item?id=39724350"
     ],
     [
-      "Redefining Observability",
-      "https://hazelweakly.me/blog/redefining-observability/"
+      "How to Drive Meaningful Change – handling objections to your proposal",
+      "https://jgefroh.substack.com/p/how-to-drive-meaningful-change-handling"
     ]
   ],
   [
@@ -191,6 +201,26 @@
   ],
   [
     [
+      "2024-03-15, 16:02:41",
+      "https://news.ycombinator.com/item?id=39717268"
+    ],
+    [
+      "Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL",
+      "https://github.com/pretzelai/pretzelai"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 10:36:37",
+      "https://news.ycombinator.com/item?id=39714053"
+    ],
+    [
+      "Show HN: Matrix Multiplication with Half the Multiplications",
+      "https://github.com/trevorpogue/algebraic-nnhw"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 08:37:42",
       "https://news.ycombinator.com/item?id=39713370"
     ],
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2024-03-14, 15:59:56",
-      "https://news.ycombinator.com/item?id=39705648"
-    ],
-    [
-      "Stopping Spambots with Hashes and Honeypots (2007)",
-      "https://nedbatchelder.com/text/stopbots.html"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 05:17:01",
       "https://news.ycombinator.com/item?id=39700809"
     ],
@@ -277,26 +297,6 @@
     [
       "80 Level: AI Simulation Platform Where Characters Make Their Own Decisions",
       "https://80.lv/articles/ai-simulation-platform-where-characters-make-their-own-decisions"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 11:26:30",
-      "https://news.ycombinator.com/item?id=39690182"
-    ],
-    [
-      "How the biggest plane would supersize wind energy",
-      "https://www.wsj.com/business/energy-oil/how-the-worlds-biggest-plane-would-supersize-wind-energy-2f116e9b"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 04:28:58",
-      "https://news.ycombinator.com/item?id=39688120"
-    ],
-    [
-      "Can We Survive Technology? (1955) [pdf]",
-      "https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf"
     ]
   ]
 ]
