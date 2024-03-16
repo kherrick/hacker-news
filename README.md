@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-16, 03:29:51](https://news.ycombinator.com/item?id=39723135) - [Boeing 737 makes emergency landing in Oregon after losing panel in mid-air](https://old.reddit.com/r/pics/comments/1bfqefi/united_airlines_boeing_737_makes_emergency/)
 * [2024-03-16, 03:09:30](https://news.ycombinator.com/item?id=39723012) - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
-* [2024-03-16, 01:24:40](https://news.ycombinator.com/item?id=39722483) - [Two-Thirds of U.S. Adults Would Rather Wait to Watch Movies on Streaming](https://www.indiewire.com/news/analysis/movies-on-streaming-not-in-theaters-1234964413/)
+* [2024-03-16, 00:52:02](https://news.ycombinator.com/item?id=39722283) - [The Coprophagic AI Crisis](https://pluralistic.net/2024/03/14/inhuman-centipede/)
 * [2024-03-16, 00:07:37](https://news.ycombinator.com/item?id=39722013) - [Is Modern Mass Media a Mind Prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)
 * [2024-03-15, 23:42:29](https://news.ycombinator.com/item?id=39721841) - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
@@ -24,6 +23,7 @@
 * [2024-03-15, 06:23:52](https://news.ycombinator.com/item?id=39712573) - [Stashpad launches Google Docs alternative you can use without any login](https://techcrunch.com/2024/03/13/dev-focused-note-taking-startup-stashpad-launches-google-docs-alternative-you-can-use-without-any-login/)
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 23:52:01](https://news.ycombinator.com/item?id=39710443) - [An alternate pattern-matching conditional for Elisp](https://lwn.net/Articles/961682/)
+* [2024-03-14, 08:47:00](https://news.ycombinator.com/item?id=39701646) - [Ovid's myths of macOS: password entry dialogs and the death of Semele](https://eclecticlight.co/2024/03/14/ovids-myths-of-macos-password-entry-dialogs-and-the-death-of-semele/)
 * [2024-03-14, 08:21:08](https://news.ycombinator.com/item?id=39701543) - [DBOS Operating System](https://www.dbos.dev/)
 * [2024-03-14, 07:54:43](https://news.ycombinator.com/item?id=39701427) - [How to embrace asynchronous communication for remote work](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
 * [2024-03-14, 07:11:26](https://news.ycombinator.com/item?id=39701267) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95)
