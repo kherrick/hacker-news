@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-03-16, 13:22:08",
-      "https://news.ycombinator.com/item?id=39725663"
-    ],
-    [
-      "Misirlou",
-      "https://en.wikipedia.org/wiki/Misirlou"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 12:50:51",
-      "https://news.ycombinator.com/item?id=39725458"
-    ],
-    [
-      "Surgeon who burnt his initials on a patient's liver",
-      "https://www.theguardian.com/society/2024/mar/16/surgeon-who-signed-patients-livers"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 12:24:54",
       "https://news.ycombinator.com/item?id=39725303"
     ],
@@ -77,16 +57,6 @@
     [
       "AutoDev: Automated AI-driven development by Microsoft",
       "https://arxiv.org/abs/2403.08299"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 09:02:02",
-      "https://news.ycombinator.com/item?id=39724350"
-    ],
-    [
-      "How to Drive Meaningful Change – handling objections to your proposal",
-      "https://jgefroh.substack.com/p/how-to-drive-meaningful-change-handling"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-03-15, 20:43:41",
+      "https://news.ycombinator.com/item?id=39720508"
+    ],
+    [
+      "GhostRace: Exploiting and mitigating speculative race conditions",
+      "https://www.vusec.net/projects/ghostrace/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 19:56:47",
       "https://news.ycombinator.com/item?id=39720007"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-03-15, 06:23:52",
+      "https://news.ycombinator.com/item?id=39712573"
+    ],
+    [
+      "Stashpad launches Google Docs alternative you can use without any login",
+      "https://techcrunch.com/2024/03/13/dev-focused-note-taking-startup-stashpad-launches-google-docs-alternative-you-can-use-without-any-login/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 05:02:24",
       "https://news.ycombinator.com/item?id=39712211"
     ],
@@ -257,6 +247,16 @@
     [
       "An alternate pattern-matching conditional for Elisp",
       "https://lwn.net/Articles/961682/"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 08:47:00",
+      "https://news.ycombinator.com/item?id=39701646"
+    ],
+    [
+      "Ovid's myths of macOS: password entry dialogs and the death of Semele",
+      "https://eclecticlight.co/2024/03/14/ovids-myths-of-macos-password-entry-dialogs-and-the-death-of-semele/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-03-13, 19:45:24",
-      "https://news.ycombinator.com/item?id=39696452"
+      "2024-03-13, 04:28:58",
+      "https://news.ycombinator.com/item?id=39688120"
     ],
     [
-      "80 Level: AI Simulation Platform Where Characters Make Their Own Decisions",
-      "https://80.lv/articles/ai-simulation-platform-where-characters-make-their-own-decisions"
+      "Can We Survive Technology? (1955) [pdf]",
+      "https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf"
     ]
   ]
 ]
