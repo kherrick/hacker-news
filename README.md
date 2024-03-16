@@ -7,7 +7,7 @@
 * [2024-03-16, 17:07:21](https://news.ycombinator.com/item?id=39727587) - [The Future of the Monetary System [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/csri-future-of-the-monetary-system.pdf)
 * [2024-03-16, 17:01:34](https://news.ycombinator.com/item?id=39727529) - [Research shows that people who BS are more likely to fall for BS (2021)](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
 * [2024-03-16, 16:53:34](https://news.ycombinator.com/item?id=39727458) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
-* [2024-03-16, 16:43:34](https://news.ycombinator.com/item?id=39727376) - [Ask HN: Why can't image generation models spell?](https://news.ycombinator.com/item?id=39727376)
+* [2024-03-16, 15:44:34](https://news.ycombinator.com/item?id=39726898) - [Researchers propose fourth traffic signal light for self-driving car future](https://www.popsci.com/technology/fourth-traffic-light-self-driving-cars/)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:17:42](https://news.ycombinator.com/item?id=39726656) - [The Economics of Pirate Radio](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
 * [2024-03-16, 14:32:51](https://news.ycombinator.com/item?id=39726292) - [macOS 14.4 causes JVM crashes](https://blogs.oracle.com/java/post/java-on-macos-14-4)
