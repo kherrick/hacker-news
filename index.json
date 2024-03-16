@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-03-16, 12:44:17",
-      "https://news.ycombinator.com/item?id=39725416"
+      "2024-03-16, 12:50:51",
+      "https://news.ycombinator.com/item?id=39725458"
     ],
     [
-      "The Linux Desktop Is Finally Great (Both Ubuntu and Firefox)",
-      "https://punkx.org/jackdoe/linux-desktop.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 12:43:44",
-      "https://news.ycombinator.com/item?id=39725412"
-    ],
-    [
-      "Evangelicals Use Digital Surveillance to Target the Unconverted",
-      "https://newrepublic.com/article/179397/evangelical-app-targeting-immigrants-surveillance"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 12:41:05",
-      "https://news.ycombinator.com/item?id=39725400"
-    ],
-    [
-      "JWT confirms something is seriously wrong with our understanding of the universe",
-      "https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-is-something-seriously-wrong-with-our-understanding-of-the-universe"
+      "Surgeon who burnt his initials on a patient's liver",
+      "https://www.theguardian.com/society/2024/mar/16/surgeon-who-signed-patients-livers"
     ]
   ],
   [
@@ -51,22 +31,22 @@
   ],
   [
     [
-      "2024-03-16, 11:28:14",
-      "https://news.ycombinator.com/item?id=39724933"
-    ],
-    [
-      "Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right",
-      "https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 11:06:41",
       "https://news.ycombinator.com/item?id=39724844"
     ],
     [
       "Delusions shape our reality",
       "https://iai.tv/articles/delusions-shape-our-reality-auid-2772"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 10:47:21",
+      "https://news.ycombinator.com/item?id=39724749"
+    ],
+    [
+      "DARPA to launch efforts that will bolster defenses against manipulated media",
+      "https://www.darpa.mil/news-events/2024-03-14"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-03-16, 03:09:30",
+      "https://news.ycombinator.com/item?id=39723012"
+    ],
+    [
+      "Abnormal brain structure seen in children with developmental language issues",
+      "https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 23:52:05",
       "https://news.ycombinator.com/item?id=39721922"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2024-03-15, 12:09:17",
-      "https://news.ycombinator.com/item?id=39714649"
+      "2024-03-15, 19:56:47",
+      "https://news.ycombinator.com/item?id=39720007"
     ],
     [
-      "Golf, gardening and woodworking drive men's increase in ALS risk by 300%",
-      "https://newatlas.com/medical/als-linked-recreational-activities-men/"
+      "Nix is a better Docker image builder than Docker's image builder",
+      "https://xeiaso.net/talks/2024/nix-docker-build/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "An alternate pattern-matching conditional for Elisp",
       "https://lwn.net/Articles/961682/"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 15:59:56",
+      "https://news.ycombinator.com/item?id=39705648"
+    ],
+    [
+      "Stopping Spambots with Hashes and Honeypots (2007)",
+      "https://nedbatchelder.com/text/stopbots.html"
     ]
   ],
   [
