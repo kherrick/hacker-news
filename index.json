@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-03-16, 15:25:49",
-      "https://news.ycombinator.com/item?id=39726730"
+      "2024-03-16, 15:31:59",
+      "https://news.ycombinator.com/item?id=39726781"
     ],
     [
-      "Folding@Home",
-      "https://en.wikipedia.org/wiki/Folding@home"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 15:15:49",
-      "https://news.ycombinator.com/item?id=39726638"
-    ],
-    [
-      "SpaceX Prepares to Comply with 'Lawful Intercepts' for Cellular Starlink System",
-      "https://www.pcmag.com/news/spacex-prepares-to-comply-with-lawful-intercepts-for-cellular-starlink"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 15:04:42",
-      "https://news.ycombinator.com/item?id=39726545"
-    ],
-    [
-      "After Thursday's flight, Starship is the most revolutionary rocket ever built",
-      "https://arstechnica.com/space/2024/03/thursdays-starship-flight-provided-a-glimpse-into-a-future-of-abundant-access-to-space/"
+      "Show HN: Flash Attention in ~100 lines of CUDA",
+      "https://github.com/tspeterkim/flash-attention-minimal"
     ]
   ],
   [
@@ -37,26 +17,6 @@
     [
       "\"It's a Silent Fire\": Decaying Digital Movie and TV Shows Are a Hollywood Crisis",
       "https://www.hollywoodreporter.com/business/digital/digital-preservation-film-tv-shows-archives-1235851957/"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 14:44:11",
-      "https://news.ycombinator.com/item?id=39726388"
-    ],
-    [
-      "Study: Dark matter does not exist and the universe is 27B years old",
-      "https://www.earth.com/news/dark-matter-does-not-exist-universe-27-billion-years-old-study/"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 14:28:16",
-      "https://news.ycombinator.com/item?id=39726243"
-    ],
-    [
-      "Man pleads guilty to genetically engineering giant hybrid sheep",
-      "https://abcnews.go.com/International/80-year-man-pleads-guilty-genetically-engineering-giant/story?id=108117977"
     ]
   ],
   [
@@ -111,6 +71,16 @@
   ],
   [
     [
+      "2024-03-16, 11:17:58",
+      "https://news.ycombinator.com/item?id=39724886"
+    ],
+    [
+      "A New Manic Miner Port for an Arduino Uno Game Engine",
+      "https://www.hackster.io/news/a-new-manic-miner-port-for-an-arduino-uno-game-engine-d9ab11e33dfa"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 10:47:21",
       "https://news.ycombinator.com/item?id=39724749"
     ],
@@ -127,6 +97,16 @@
     [
       "Mozilla will be retiring the Mozilla Location Service",
       "https://github.com/mozilla/ichnaea/issues/2065"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 09:09:41",
+      "https://news.ycombinator.com/item?id=39724381"
+    ],
+    [
+      "What Is Erasure Coding: A Shield Against Data Loss",
+      "https://www.simplyblock.io/post/what-is-erasure-coding-a-shield-against-data-loss"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-03-15, 16:02:41",
+      "https://news.ycombinator.com/item?id=39717268"
+    ],
+    [
+      "Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL",
+      "https://github.com/pretzelai/pretzelai"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 13:58:14",
       "https://news.ycombinator.com/item?id=39715793"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: Matrix Multiplication with Half the Multiplications",
       "https://github.com/trevorpogue/algebraic-nnhw"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 08:37:42",
+      "https://news.ycombinator.com/item?id=39713370"
+    ],
+    [
+      "Sunlight, a Certificate Transparency log implementation",
+      "https://letsencrypt.org/2024/03/14/introducing-sunlight.html"
     ]
   ],
   [
