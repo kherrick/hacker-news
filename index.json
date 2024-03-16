@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-16, 11:46:46",
+      "https://news.ycombinator.com/item?id=39725035"
+    ],
+    [
+      "Gaza: 23M tonnes of debris 'will take years to clear'",
+      "https://news.un.org/en/story/2024/03/1147616"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 11:28:14",
+      "https://news.ycombinator.com/item?id=39724933"
+    ],
+    [
+      "Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right",
+      "https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 09:41:24",
       "https://news.ycombinator.com/item?id=39724505"
     ],
@@ -187,26 +207,6 @@
     [
       "Nix is a better Docker image builder than Docker's image builder",
       "https://xeiaso.net/talks/2024/nix-docker-build/"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 10:36:37",
-      "https://news.ycombinator.com/item?id=39714053"
-    ],
-    [
-      "Show HN: Matrix Multiplication with Half the Multiplications",
-      "https://github.com/trevorpogue/algebraic-nnhw"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 08:37:42",
-      "https://news.ycombinator.com/item?id=39713370"
-    ],
-    [
-      "Sunlight, a Certificate Transparency log implementation",
-      "https://letsencrypt.org/2024/03/14/introducing-sunlight.html"
     ]
   ],
   [
