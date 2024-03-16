@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 13:22:08](https://news.ycombinator.com/item?id=39725663) - [Misirlou](https://en.wikipedia.org/wiki/Misirlou)
 * [2024-03-16, 12:50:51](https://news.ycombinator.com/item?id=39725458) - [Surgeon who burnt his initials on a patient's liver](https://www.theguardian.com/society/2024/mar/16/surgeon-who-signed-patients-livers)
 * [2024-03-16, 12:44:17](https://news.ycombinator.com/item?id=39725416) - [The Linux Desktop Is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 12:43:44](https://news.ycombinator.com/item?id=39725412) - [Evangelicals Use Digital Surveillance to Target the Unconverted](https://newrepublic.com/article/179397/evangelical-app-targeting-immigrants-surveillance)
