@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 20:46:41](https://news.ycombinator.com/item?id=39729352) - [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
+* [2024-03-16, 20:08:16](https://news.ycombinator.com/item?id=39729053) - [Deep-sea hiatus record reveals orbital 2.4 Myr paced eccentricity grand cycles](https://www.nature.com/articles/s41467-024-46171-5)
 * [2024-03-16, 19:58:00](https://news.ycombinator.com/item?id=39728977) - [How to Win Friends and Hustle People](https://www.nytimes.com/2024/03/14/style/superiority-burger-ashwin-deshmukh.html)
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
 * [2024-03-16, 18:16:17](https://news.ycombinator.com/item?id=39728146) - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
@@ -24,10 +26,8 @@
 * [2024-03-16, 07:47:11](https://news.ycombinator.com/item?id=39724045) - [Libraries struggle to afford e-books, seek new laws in fight with publishers](https://abcnews.go.com/US/wireStory/libraries-struggle-afford-demand-books-seek-new-state-108035200)
 * [2024-03-16, 06:01:07](https://news.ycombinator.com/item?id=39723704) - [Brain waves appear to wash out waste during sleep in mice](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 * [2024-03-16, 01:27:14](https://news.ycombinator.com/item?id=39722498) - [MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
-* [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:20:55](https://news.ycombinator.com/item?id=39714721) - [How to Play Renju](https://www.renju.net/rules/)
-* [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 11:05:56](https://news.ycombinator.com/item?id=39702383) - [Jonathan Harris (2014)](https://transom.org/2014/jonathan-harris/)
 * [2024-03-14, 04:40:12](https://news.ycombinator.com/item?id=39700655) - [On clock faces, 4 is Expressed as IIII, not IV](https://museum.seiko.co.jp/en/knowledge/trivia02/)
 

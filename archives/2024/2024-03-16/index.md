@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 20:46:41](https://news.ycombinator.com/item?id=39729352) - [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
+* [2024-03-16, 20:08:16](https://news.ycombinator.com/item?id=39729053) - [Deep-sea hiatus record reveals orbital 2.4 Myr paced eccentricity grand cycles](https://www.nature.com/articles/s41467-024-46171-5)
 * [2024-03-16, 19:58:00](https://news.ycombinator.com/item?id=39728977) - [How to Win Friends and Hustle People](https://www.nytimes.com/2024/03/14/style/superiority-burger-ashwin-deshmukh.html)
 * [2024-03-16, 19:45:10](https://news.ycombinator.com/item?id=39728878) - [Podman Desktop just released its own Kubernetes GUI](https://podman-desktop.io/blog/podman-desktop-release-1.8)
 * [2024-03-16, 19:16:30](https://news.ycombinator.com/item?id=39728647) - [Outbreak Linked to Morel Mushroom Exposure – Montana, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a1.htm)
