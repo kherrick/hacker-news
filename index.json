@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-03-15, 23:52:05",
+      "https://news.ycombinator.com/item?id=39721922"
+    ],
+    [
+      "What part of Rust compilation is the bottleneck?",
+      "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 23:42:29",
       "https://news.ycombinator.com/item?id=39721841"
     ],
@@ -57,6 +67,16 @@
     [
       "The United States has its first large offshore wind farm, with more to come",
       "https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 21:40:42",
+      "https://news.ycombinator.com/item?id=39721015"
+    ],
+    [
+      "1.1B Taxi Rides Using DuckDB",
+      "https://tech.marksblogg.com/duckdb-1b-taxi-rides.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-03-15, 08:16:10",
-      "https://news.ycombinator.com/item?id=39713251"
-    ],
-    [
-      "MO| Why is shuffle support needed?",
-      "https://medium.com/@matrixorigin-database/why-is-shuffle-support-needed-5df13e8edaf2"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 06:23:52",
       "https://news.ycombinator.com/item?id=39712573"
     ],
@@ -207,16 +217,6 @@
     [
       "Vision Pro: What we got wrong at Oculus that Apple got right",
       "https://hugo.blog/2024/03/11/vision-pro/"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 02:57:55",
-      "https://news.ycombinator.com/item?id=39711621"
-    ],
-    [
-      "TextSnatcher: Copy text from images, for the Linux Desktop",
-      "https://github.com/RajSolai/TextSnatcher"
     ]
   ],
   [
