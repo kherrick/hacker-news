@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-16, 16:31:09",
-      "https://news.ycombinator.com/item?id=39727257"
-    ],
-    [
-      "SpaceX is building spy satellite network for US intelligence agency, sources say",
-      "https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 15:49:26",
       "https://news.ycombinator.com/item?id=39726937"
     ],
@@ -37,16 +27,6 @@
     [
       "\"It's a Silent Fire\": Decaying Digital Movie and TV Shows Are a Hollywood Crisis",
       "https://www.hollywoodreporter.com/business/digital/digital-preservation-film-tv-shows-archives-1235851957/"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 14:47:44",
-      "https://news.ycombinator.com/item?id=39726417"
-    ],
-    [
-      "The Staggering Ecological Impacts of Computation and the Cloud",
-      "https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/"
     ]
   ],
   [
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=39722498"
     ],
     [
-      "Apple Announces MM1: Multimodal LLM Pre-Trainig Report",
+      "MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training",
       "https://arxiv.org/abs/2403.09611"
     ]
   ],
@@ -221,12 +201,42 @@
   ],
   [
     [
+      "2024-03-15, 16:02:41",
+      "https://news.ycombinator.com/item?id=39717268"
+    ],
+    [
+      "Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL",
+      "https://github.com/pretzelai/pretzelai"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 13:58:14",
       "https://news.ycombinator.com/item?id=39715793"
     ],
     [
       "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
       "https://github.com/robjinman/richard"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 10:36:37",
+      "https://news.ycombinator.com/item?id=39714053"
+    ],
+    [
+      "Show HN: Matrix Multiplication with Half the Multiplications",
+      "https://github.com/trevorpogue/algebraic-nnhw"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 08:37:42",
+      "https://news.ycombinator.com/item?id=39713370"
+    ],
+    [
+      "Sunlight, a Certificate Transparency log implementation",
+      "https://letsencrypt.org/2024/03/14/introducing-sunlight.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "An alternate pattern-matching conditional for Elisp",
       "https://lwn.net/Articles/961682/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 11:11:28",
-      "https://news.ycombinator.com/item?id=39702422"
-    ],
-    [
-      "I, Cyborg: Using Co-Intelligence",
-      "https://www.oneusefulthing.org/p/i-cyborg-using-co-intelligence"
     ]
   ],
   [
