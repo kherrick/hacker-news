@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 06:01:07](https://news.ycombinator.com/item?id=39723704) - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 * [2024-03-16, 04:35:11](https://news.ycombinator.com/item?id=39723422) - [Apple researchers achieve breakthroughs in multimodal AI](https://venturebeat.com/ai/apple-researchers-achieve-breakthroughs-in-multimodal-ai-as-company-ramps-up-investments/)
 * [2024-03-16, 03:34:21](https://news.ycombinator.com/item?id=39723147) - [Boeing tells airlines to check pilot seats after shift led plane to plunge](https://apnews.com/article/boeing-warning-cockpit-seats-787-dreamliner-07c59619ab48c9cbea2a4df091fd6d21)
 * [2024-03-16, 03:29:51](https://news.ycombinator.com/item?id=39723135) - [Boeing 737 makes emergency landing in Oregon after losing panel in mid-air](https://old.reddit.com/r/pics/comments/1bfqefi/united_airlines_boeing_737_makes_emergency/)
