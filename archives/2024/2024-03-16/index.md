@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:25:49](https://news.ycombinator.com/item?id=39726730) - [Folding@Home](https://en.wikipedia.org/wiki/Folding@home)
 * [2024-03-16, 15:15:49](https://news.ycombinator.com/item?id=39726638) - [SpaceX Prepares to Comply with 'Lawful Intercepts' for Cellular Starlink System](https://www.pcmag.com/news/spacex-prepares-to-comply-with-lawful-intercepts-for-cellular-starlink)
 * [2024-03-16, 15:04:42](https://news.ycombinator.com/item?id=39726545) - [After Thursday's flight, Starship is the most revolutionary rocket ever built](https://arstechnica.com/space/2024/03/thursdays-starship-flight-provided-a-glimpse-into-a-future-of-abundant-access-to-space/)
@@ -30,6 +31,7 @@
 * [2024-03-16, 10:47:21](https://news.ycombinator.com/item?id=39724749) - [DARPA to launch efforts that will bolster defenses against manipulated media](https://www.darpa.mil/news-events/2024-03-14)
 * [2024-03-16, 09:55:36](https://news.ycombinator.com/item?id=39724554) - [ASCII Camera](https://andrei.codes/ascii-camera/)
 * [2024-03-16, 09:41:24](https://news.ycombinator.com/item?id=39724505) - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
+* [2024-03-16, 09:09:41](https://news.ycombinator.com/item?id=39724381) - [What Is Erasure Coding: A Shield Against Data Loss](https://www.simplyblock.io/post/what-is-erasure-coding-a-shield-against-data-loss)
 * [2024-03-16, 09:03:06](https://news.ycombinator.com/item?id=39724356) - [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
 * [2024-03-16, 09:02:02](https://news.ycombinator.com/item?id=39724350) - [How to Drive Meaningful Change – handling objections to your proposal](https://jgefroh.substack.com/p/how-to-drive-meaningful-change-handling)
 * [2024-03-16, 09:01:57](https://news.ycombinator.com/item?id=39724349) - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
