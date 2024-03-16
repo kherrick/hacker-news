@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-16, 09:41:24](https://news.ycombinator.com/item?id=39724505) - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
+* [2024-03-16, 09:03:06](https://news.ycombinator.com/item?id=39724356) - [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
 * [2024-03-16, 09:01:57](https://news.ycombinator.com/item?id=39724349) - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
 * [2024-03-16, 09:01:56](https://news.ycombinator.com/item?id=39724348) - [Ad agency boss owned two Ferraris but wouldn't buy a real server](https://www.theregister.com/2024/03/15/on_call/)
 * [2024-03-16, 08:58:41](https://news.ycombinator.com/item?id=39724338) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
@@ -20,7 +21,6 @@
 * [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
 * [2024-03-15, 08:37:42](https://news.ycombinator.com/item?id=39713370) - [Sunlight, a Certificate Transparency log implementation](https://letsencrypt.org/2024/03/14/introducing-sunlight.html)
-* [2024-03-15, 06:23:52](https://news.ycombinator.com/item?id=39712573) - [Stashpad launches Google Docs alternative you can use without any login](https://techcrunch.com/2024/03/13/dev-focused-note-taking-startup-stashpad-launches-google-docs-alternative-you-can-use-without-any-login/)
 * [2024-03-15, 05:02:24](https://news.ycombinator.com/item?id=39712211) - [Pg_hint_plan: Force PostgreSQL to execute query plans the way you want](https://github.com/ossc-db/pg_hint_plan)
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 23:52:01](https://news.ycombinator.com/item?id=39710443) - [An alternate pattern-matching conditional for Elisp](https://lwn.net/Articles/961682/)

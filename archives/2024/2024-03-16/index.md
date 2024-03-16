@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
 * [2024-03-16, 09:41:24](https://news.ycombinator.com/item?id=39724505) - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
+* [2024-03-16, 09:03:06](https://news.ycombinator.com/item?id=39724356) - [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
 * [2024-03-16, 09:01:57](https://news.ycombinator.com/item?id=39724349) - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
 * [2024-03-16, 09:01:56](https://news.ycombinator.com/item?id=39724348) - [Ad agency boss owned two Ferraris but wouldn't buy a real server](https://www.theregister.com/2024/03/15/on_call/)
 * [2024-03-16, 08:58:41](https://news.ycombinator.com/item?id=39724338) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
