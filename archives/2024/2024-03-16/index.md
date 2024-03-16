@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 12:43:44](https://news.ycombinator.com/item?id=39725412) - [Evangelicals Use Digital Surveillance to Target the Unconverted](https://newrepublic.com/article/179397/evangelical-app-targeting-immigrants-surveillance)
+* [2024-03-16, 12:03:48](https://news.ycombinator.com/item?id=39725150) - [My new System76 Thelio is hands-down the best desktop PC I've ever tested](https://www.zdnet.com/home-and-office/my-new-system76-thelio-is-hands-down-the-best-desktop-pc-ive-ever-tested/)
 * [2024-03-16, 11:46:46](https://news.ycombinator.com/item?id=39725035) - [Gaza: 23M tonnes of debris 'will take years to clear'](https://news.un.org/en/story/2024/03/1147616)
 * [2024-03-16, 11:28:14](https://news.ycombinator.com/item?id=39724933) - [Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)
 * [2024-03-16, 11:06:41](https://news.ycombinator.com/item?id=39724844) - [Delusions Shape Our Reality](https://iai.tv/articles/delusions-shape-our-reality-auid-2772)
