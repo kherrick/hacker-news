@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 03:34:21](https://news.ycombinator.com/item?id=39723147) - [Boeing tells airlines to check pilot seats after shift led plane to plunge](https://apnews.com/article/boeing-warning-cockpit-seats-787-dreamliner-07c59619ab48c9cbea2a4df091fd6d21)
 * [2024-03-16, 03:09:30](https://news.ycombinator.com/item?id=39723012) - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
-* [2024-03-16, 00:52:02](https://news.ycombinator.com/item?id=39722283) - [The Coprophagic AI Crisis](https://pluralistic.net/2024/03/14/inhuman-centipede/)
-* [2024-03-16, 00:07:37](https://news.ycombinator.com/item?id=39722013) - [Is Modern Mass Media a Mind Prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)
+* [2024-03-16, 00:07:37](https://news.ycombinator.com/item?id=39722013) - [Is modern mass media a mind prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)
 * [2024-03-15, 23:42:29](https://news.ycombinator.com/item?id=39721841) - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
 * [2024-03-15, 22:45:33](https://news.ycombinator.com/item?id=39721463) - [The end of the dark universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
