@@ -8,6 +8,7 @@
 * [2024-03-16, 09:01:56](https://news.ycombinator.com/item?id=39724348) - [Ad agency boss owned two Ferraris but wouldn't buy a real server](https://www.theregister.com/2024/03/15/on_call/)
 * [2024-03-16, 08:58:41](https://news.ycombinator.com/item?id=39724338) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
 * [2024-03-16, 08:52:48](https://news.ycombinator.com/item?id=39724312) - [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
+* [2024-03-16, 08:31:13](https://news.ycombinator.com/item?id=39724235) - [Researchers, please replace SQLite with DuckDB now](https://dirk-petersen.medium.com/researchers-please-replace-sqlite-with-duckdb-now-f038044a2702)
 * [2024-03-16, 08:22:12](https://news.ycombinator.com/item?id=39724206) - [Self-Printing Machine Code (2005)](https://susam.net/self-printing-machine-code.html)
 * [2024-03-16, 08:11:18](https://news.ycombinator.com/item?id=39724161) - [Telefunken Datenspeicher](https://retrocomputing.stackexchange.com/questions/29676/what-is-this-large-device-labelled-telefunken-datenspeicher-and-how-does-it-wo)
 * [2024-03-16, 08:04:54](https://news.ycombinator.com/item?id=39724132) - [Show HN: deptry 0.14.0 – detect unused Python dependencies up to 10 times faster](https://github.com/fpgmaas/deptry/releases/tag/0.14.0)
