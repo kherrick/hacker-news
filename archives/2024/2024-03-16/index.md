@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 20:51:32](https://news.ycombinator.com/item?id=39729378) - [Expensive EV repairs and low resale prices following purchase of 100,000 Teslas](https://fortune.com/2024/03/15/ceo-steps-down-prices-following-purchase-teslas/)
 * [2024-03-16, 20:46:41](https://news.ycombinator.com/item?id=39729352) - [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:08:16](https://news.ycombinator.com/item?id=39729053) - [Deep-sea hiatus record reveals orbital 2.4 Myr paced eccentricity grand cycles](https://www.nature.com/articles/s41467-024-46171-5)
 * [2024-03-16, 19:58:00](https://news.ycombinator.com/item?id=39728977) - [How to Win Friends and Hustle People](https://www.nytimes.com/2024/03/14/style/superiority-burger-ashwin-deshmukh.html)
 * [2024-03-16, 19:45:10](https://news.ycombinator.com/item?id=39728878) - [Podman Desktop just released its own Kubernetes GUI](https://podman-desktop.io/blog/podman-desktop-release-1.8)
+* [2024-03-16, 19:25:41](https://news.ycombinator.com/item?id=39728714) - [EVs Will Soon Be Cheaper to Make Than Gas Cars but Will Cost Much More to Repair](https://jalopnik.com/evs-will-soon-be-cheaper-to-make-than-gas-powered-cars-1851329177)
 * [2024-03-16, 19:16:30](https://news.ycombinator.com/item?id=39728647) - [Outbreak Linked to Morel Mushroom Exposure – Montana, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a1.htm)
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
 * [2024-03-16, 19:01:44](https://news.ycombinator.com/item?id=39728516) - [ECC vs. non-ECC RAM and ZFS (2013)](https://www.truenas.com/community/threads/ecc-vs-non-ecc-ram-and-zfs.15449/)
