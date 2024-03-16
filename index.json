@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 20:08:30",
+      "https://news.ycombinator.com/item?id=39729057"
+    ],
+    [
+      "How web bloat impacts users with slow devices",
+      "https://danluu.com/slow-device/"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 19:58:00",
       "https://news.ycombinator.com/item?id=39728977"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2024-03-16, 17:07:21",
-      "https://news.ycombinator.com/item?id=39727587"
-    ],
-    [
-      "The Future of the Monetary System [pdf]",
-      "https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/csri-future-of-the-monetary-system.pdf"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 17:01:34",
       "https://news.ycombinator.com/item?id=39727529"
     ],
@@ -131,12 +131,32 @@
   ],
   [
     [
+      "2024-03-16, 14:32:51",
+      "https://news.ycombinator.com/item?id=39726292"
+    ],
+    [
+      "macOS 14.4 causes JVM crashes",
+      "https://blogs.oracle.com/java/post/java-on-macos-14-4"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 14:20:33",
       "https://news.ycombinator.com/item?id=39726172"
     ],
     [
       "Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript",
       "https://bewcloud.com"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 13:24:12",
+      "https://news.ycombinator.com/item?id=39725678"
+    ],
+    [
+      "Y Combinator's chief startup whisperer is demoting himself",
+      "https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-03-16, 08:04:54",
-      "https://news.ycombinator.com/item?id=39724132"
-    ],
-    [
-      "Show HN: deptry 0.14.0 – detect unused Python dependencies up to 10 times faster",
-      "https://github.com/fpgmaas/deptry/releases/tag/0.14.0"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 07:47:11",
       "https://news.ycombinator.com/item?id=39724045"
     ],
@@ -237,16 +247,6 @@
     [
       "MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training",
       "https://arxiv.org/abs/2403.09611"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 22:54:02",
-      "https://news.ycombinator.com/item?id=39721526"
-    ],
-    [
-      "Doola (YC S20) Is Hiring a Director of Finance",
-      "https://www.workatastartup.com/jobs/55496"
     ]
   ],
   [
