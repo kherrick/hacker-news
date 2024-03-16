@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 17:13:17](https://news.ycombinator.com/item?id=39727657) - [OpenAI aims to make its own AI processors – in talks with Abu Dhabi investors](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-aims-to-make-its-own-ai-processors-chip-venture-in-talks-with-abu-dhabi-investment-firm-report)
 * [2024-03-16, 17:07:46](https://news.ycombinator.com/item?id=39727592) - [Why is Oregon about to re-criminalize psychedelics in response to opioid crisis?](https://www.vox.com/future-perfect/24102102/psychedelics-oregon-opioid-crisis-decriminalization-war-drugs-fentanyl-house-bill-4002)
 * [2024-03-16, 16:43:34](https://news.ycombinator.com/item?id=39727376) - [Ask HN: Why can't image generation models spell?](https://news.ycombinator.com/item?id=39727376)
-* [2024-03-16, 16:31:09](https://news.ycombinator.com/item?id=39727257) - [SpaceX is building spy satellite network for US intelligence agency, sources say](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/)
 * [2024-03-16, 15:44:34](https://news.ycombinator.com/item?id=39726898) - [Researchers propose fourth traffic signal light for self-driving car future](https://www.popsci.com/technology/fourth-traffic-light-self-driving-cars/)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:17:42](https://news.ycombinator.com/item?id=39726656) - [The Economics of Pirate Radio](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
@@ -24,7 +24,7 @@
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
 * [2024-03-15, 19:56:47](https://news.ycombinator.com/item?id=39720007) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
-* [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
+* [2024-03-15, 12:33:53](https://news.ycombinator.com/item?id=39714804) - [GDDR7 Memory Spec Adds Faster PAM3 Signaling and On-Die ECC](https://www.anandtech.com/show/21287/jedec-publishes-gddr7-specifications-pam3-ecc-higher-density)
 * [2024-03-15, 05:02:24](https://news.ycombinator.com/item?id=39712211) - [Pg_hint_plan: Force PostgreSQL to execute query plans the way you want](https://github.com/ossc-db/pg_hint_plan)
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 05:17:01](https://news.ycombinator.com/item?id=39700809) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)

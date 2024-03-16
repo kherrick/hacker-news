@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 17:13:17](https://news.ycombinator.com/item?id=39727657) - [OpenAI aims to make its own AI processors – in talks with Abu Dhabi investors](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-aims-to-make-its-own-ai-processors-chip-venture-in-talks-with-abu-dhabi-investment-firm-report)
 * [2024-03-16, 17:07:46](https://news.ycombinator.com/item?id=39727592) - [Why is Oregon about to re-criminalize psychedelics in response to opioid crisis?](https://www.vox.com/future-perfect/24102102/psychedelics-oregon-opioid-crisis-decriminalization-war-drugs-fentanyl-house-bill-4002)
 * [2024-03-16, 16:43:34](https://news.ycombinator.com/item?id=39727376) - [Ask HN: Why can't image generation models spell?](https://news.ycombinator.com/item?id=39727376)
 * [2024-03-16, 16:31:09](https://news.ycombinator.com/item?id=39727257) - [SpaceX is building spy satellite network for US intelligence agency, sources say](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/)
