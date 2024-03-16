@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 22:17:06](https://news.ycombinator.com/item?id=39729976) - [The plastic industry knowingly pushed recycling myth for decades [video]](https://www.pbs.org/newshour/show/the-plastic-industry-knowingly-pushed-recycling-myth-for-decades-new-report-finds)
 * [2024-03-16, 21:53:45](https://news.ycombinator.com/item?id=39729819) - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
 * [2024-03-16, 21:14:06](https://news.ycombinator.com/item?id=39729509) - [CXL Is Dead in the AI Era](https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era)
 * [2024-03-16, 21:10:31](https://news.ycombinator.com/item?id=39729483) - [What the Gardasil Testing May Have Missed](https://slate.com/health-and-science/2017/12/flaws-in-the-clinical-trials-for-gardasil-made-it-harder-to-properly-assess-safety.html)
@@ -17,7 +18,6 @@
 * [2024-03-16, 16:26:44](https://news.ycombinator.com/item?id=39727217) - [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:17:42](https://news.ycombinator.com/item?id=39726656) - [The Economics of Pirate Radio (2020)](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
-* [2024-03-16, 14:32:51](https://news.ycombinator.com/item?id=39726292) - [macOS 14.4 causes JVM crashes](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 * [2024-03-16, 14:20:33](https://news.ycombinator.com/item?id=39726172) - [Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript](https://bewcloud.com)
 * [2024-03-16, 13:24:12](https://news.ycombinator.com/item?id=39725678) - [Y Combinator's chief startup whisperer is demoting himself](https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/)
 * [2024-03-16, 12:24:54](https://news.ycombinator.com/item?id=39725303) - [Cloudflare loses 22% of its domains in Freenom .tk shutdown](https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/)

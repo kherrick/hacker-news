@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 22:17:06](https://news.ycombinator.com/item?id=39729976) - [The plastic industry knowingly pushed recycling myth for decades [video]](https://www.pbs.org/newshour/show/the-plastic-industry-knowingly-pushed-recycling-myth-for-decades-new-report-finds)
 * [2024-03-16, 21:53:45](https://news.ycombinator.com/item?id=39729819) - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
 * [2024-03-16, 21:27:54](https://news.ycombinator.com/item?id=39729633) - [SpaceX building a network of spy satellites for U.S. intelligence, report says](https://qz.com/spacex-starlink-spy-satellite-us-intelligence-elon-musk-1851342193)
 * [2024-03-16, 21:17:30](https://news.ycombinator.com/item?id=39729549) - [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.com/news/technology-68580235)
