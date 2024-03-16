@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 06:01:07",
+      "https://news.ycombinator.com/item?id=39723704"
+    ],
+    [
+      "Brain Waves Appear to Wash Out Waste During Sleep",
+      "https://jamanetwork.com/journals/jama/fullarticle/2816616"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 03:09:30",
       "https://news.ycombinator.com/item?id=39723012"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2024-03-15, 22:45:33",
-      "https://news.ycombinator.com/item?id=39721463"
-    ],
-    [
-      "The end of the dark universe?",
-      "https://nautil.us/the-end-of-the-dark-universe-531983/"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 22:00:31",
       "https://news.ycombinator.com/item?id=39721158"
     ],
@@ -87,16 +87,6 @@
     [
       "Nix is a better Docker image builder than Docker's image builder",
       "https://xeiaso.net/talks/2024/nix-docker-build/"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 18:19:00",
-      "https://news.ycombinator.com/item?id=39718965"
-    ],
-    [
-      "Gradient Descending Through Brinespace",
-      "https://slimemoldtimemold.com/2024/03/15/gradient-descending-through-brinespace/"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "Show HN: Matrix Multiplication with Half the Multiplications",
       "https://github.com/trevorpogue/algebraic-nnhw"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 09:05:02",
+      "https://news.ycombinator.com/item?id=39713529"
+    ],
+    [
+      "What's the fastest EC2 instance CPU?",
+      "https://runs-on.com/reference/benchmarks-ec2-instances/"
     ]
   ],
   [
