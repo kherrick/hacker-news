@@ -16,6 +16,8 @@
 * [2024-03-16, 14:18:47](https://news.ycombinator.com/item?id=39726156) - [Apple Unveils MM1: Multimodal AI Competing with ChatGPT](https://www.thebreakingai.com/apple-unveils-mm1-setting-new-standards-for-multimodal-ai-competing-with-chatgpt/)
 * [2024-03-16, 14:14:47](https://news.ycombinator.com/item?id=39726124) - [Loongson 3A6000: A Star Among Chinese CPUs](https://chipsandcheese.com/2024/03/13/loongson-3a6000-a-star-among-chinese-cpus/)
 * [2024-03-16, 14:14:41](https://news.ycombinator.com/item?id=39726123) - [Geekbench scores of systems I've used over past 20 years](https://blakespot.com/images/gb5_scores_2023.png)
+* [2024-03-16, 14:04:19](https://news.ycombinator.com/item?id=39726020) - [How to feed all the power-hungry AI data centers](https://caseyhandmer.wordpress.com/2024/03/12/how-to-feed-the-ais/)
+* [2024-03-16, 13:24:12](https://news.ycombinator.com/item?id=39725678) - [Y Combinator's Chief Startup Whisperer Is Demoting Himself](https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/)
 * [2024-03-16, 13:22:08](https://news.ycombinator.com/item?id=39725663) - [Misirlou](https://en.wikipedia.org/wiki/Misirlou)
 * [2024-03-16, 13:17:55](https://news.ycombinator.com/item?id=39725634) - [Thebroken (2003)](https://archive.org/details/thebroken_xvid/)
 * [2024-03-16, 12:50:51](https://news.ycombinator.com/item?id=39725458) - [Surgeon who burnt his initials on a patient's liver](https://www.theguardian.com/society/2024/mar/16/surgeon-who-signed-patients-livers)

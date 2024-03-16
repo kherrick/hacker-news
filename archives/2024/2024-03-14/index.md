@@ -88,6 +88,7 @@
 * [2024-03-14, 11:22:12](https://news.ycombinator.com/item?id=39702475) - [Experiments in Printmaking, Part 1](https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html)
 * [2024-03-14, 11:18:09](https://news.ycombinator.com/item?id=39702457) - [Real time weather balloon tracking](https://sondehub.org)
 * [2024-03-14, 11:15:45](https://news.ycombinator.com/item?id=39702443) - [Estimate Your Age of Death](https://lars.yencken.org/tools/age-of-death)
+* [2024-03-14, 11:11:28](https://news.ycombinator.com/item?id=39702422) - [I, Cyborg: Using Co-Intelligence](https://www.oneusefulthing.org/p/i-cyborg-using-co-intelligence)
 * [2024-03-14, 11:06:12](https://news.ycombinator.com/item?id=39702386) - [Playwright Test Generator](https://playwright.dev/docs/codegen)
 * [2024-03-14, 10:57:58](https://news.ycombinator.com/item?id=39702323) - [The Violence of Relentless Positivity in the Workplace](https://ludic.mataroa.blog/blog/the-violent-role-of-relentless-positivity-in-the-workplace/)
 * [2024-03-14, 10:54:32](https://news.ycombinator.com/item?id=39702295) - [Zerodha Tech – Hello, World](https://zerodha.tech/blog/hello-world/)
