@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 17:07:46](https://news.ycombinator.com/item?id=39727592) - [Why is Oregon about to re-criminalize psychedelics in response to opioid crisis?](https://www.vox.com/future-perfect/24102102/psychedelics-oregon-opioid-crisis-decriminalization-war-drugs-fentanyl-house-bill-4002)
+* [2024-03-16, 16:43:34](https://news.ycombinator.com/item?id=39727376) - [Ask HN: Why can't image generation models spell?](https://news.ycombinator.com/item?id=39727376)
 * [2024-03-16, 16:31:09](https://news.ycombinator.com/item?id=39727257) - [SpaceX is building spy satellite network for US intelligence agency, sources say](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/)
 * [2024-03-16, 15:49:26](https://news.ycombinator.com/item?id=39726937) - [Ask HN: Non-duopoly smart phone in Sweden?](https://news.ycombinator.com/item?id=39726937)
+* [2024-03-16, 15:44:34](https://news.ycombinator.com/item?id=39726898) - [Researchers propose fourth traffic signal light for self-driving car future](https://www.popsci.com/technology/fourth-traffic-light-self-driving-cars/)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:25:49](https://news.ycombinator.com/item?id=39726730) - [Folding@Home](https://en.wikipedia.org/wiki/Folding@home)
+* [2024-03-16, 15:17:42](https://news.ycombinator.com/item?id=39726656) - [The Economics of Pirate Radio](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
 * [2024-03-16, 15:15:49](https://news.ycombinator.com/item?id=39726638) - [SpaceX Prepares to Comply with 'Lawful Intercepts' for Cellular Starlink System](https://www.pcmag.com/news/spacex-prepares-to-comply-with-lawful-intercepts-for-cellular-starlink)
 * [2024-03-16, 15:14:55](https://news.ycombinator.com/item?id=39726632) - [Ask HN: How do you use AI for software engineering?](https://news.ycombinator.com/item?id=39726632)
 * [2024-03-16, 15:04:42](https://news.ycombinator.com/item?id=39726545) - [After Thursday's flight, Starship is the most revolutionary rocket ever built](https://arstechnica.com/space/2024/03/thursdays-starship-flight-provided-a-glimpse-into-a-future-of-abundant-access-to-space/)
