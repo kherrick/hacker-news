@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 08:04:54](https://news.ycombinator.com/item?id=39724132) - [Show HN: deptry 0.14.0 – detect unused Python dependencies up to 10 times faster](https://github.com/fpgmaas/deptry/releases/tag/0.14.0)
 * [2024-03-16, 06:01:07](https://news.ycombinator.com/item?id=39723704) - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 * [2024-03-16, 03:09:30](https://news.ycombinator.com/item?id=39723012) - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
-* [2024-03-16, 02:35:33](https://news.ycombinator.com/item?id=39722836) - [Reddit's Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
 * [2024-03-15, 23:52:05](https://news.ycombinator.com/item?id=39721922) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
 * [2024-03-15, 23:42:29](https://news.ycombinator.com/item?id=39721841) - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 * [2024-03-15, 22:54:02](https://news.ycombinator.com/item?id=39721526) - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
@@ -15,7 +15,6 @@
 * [2024-03-15, 17:34:09](https://news.ycombinator.com/item?id=39718389) - [OpenVPN Is Open to VPN Fingerprinting](https://arxiv.org/abs/2403.03998)
 * [2024-03-15, 16:53:16](https://news.ycombinator.com/item?id=39717838) - [What's worked in Computer Science: 1999 vs. 2015 (2015)](http://danluu.com/butler-lampson-1999/)
 * [2024-03-15, 16:51:24](https://news.ycombinator.com/item?id=39717815) - [Tiny bitfield based text renderer (2022)](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
-* [2024-03-15, 16:35:31](https://news.ycombinator.com/item?id=39717615) - [Compressing chess moves for fun and profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 16:02:41](https://news.ycombinator.com/item?id=39717268) - [Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL](https://github.com/pretzelai/pretzelai)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
 * [2024-03-15, 09:05:02](https://news.ycombinator.com/item?id=39713529) - [What's the fastest EC2 instance CPU?](https://runs-on.com/reference/benchmarks-ec2-instances/)
@@ -29,6 +28,7 @@
 * [2024-03-14, 07:11:26](https://news.ycombinator.com/item?id=39701267) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95)
 * [2024-03-14, 05:17:01](https://news.ycombinator.com/item?id=39700809) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [2024-03-14, 04:40:12](https://news.ycombinator.com/item?id=39700655) - [On clock faces, 4 is Expressed as IIII, not IV](https://museum.seiko.co.jp/en/knowledge/trivia02/)
+* [2024-03-13, 19:45:24](https://news.ycombinator.com/item?id=39696452) - [80 Level: AI Simulation Platform Where Characters Make Their Own Decisions](https://80.lv/articles/ai-simulation-platform-where-characters-make-their-own-decisions)
 * [2024-03-13, 11:26:30](https://news.ycombinator.com/item?id=39690182) - [How the biggest plane would supersize wind energy](https://www.wsj.com/business/energy-oil/how-the-worlds-biggest-plane-would-supersize-wind-energy-2f116e9b)
 
 ## [Archives](archives/index.md)
