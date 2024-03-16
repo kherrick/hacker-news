@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-03-16, 12:03:48",
-      "https://news.ycombinator.com/item?id=39725150"
-    ],
-    [
-      "My new System76 Thelio is hands-down the best desktop PC I've ever tested",
-      "https://www.zdnet.com/home-and-office/my-new-system76-thelio-is-hands-down-the-best-desktop-pc-ive-ever-tested/"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 11:06:41",
       "https://news.ycombinator.com/item?id=39724844"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2024-03-16, 09:55:36",
+      "https://news.ycombinator.com/item?id=39724554"
+    ],
+    [
+      "ASCII Camera",
+      "https://andrei.codes/ascii-camera/"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 09:41:24",
       "https://news.ycombinator.com/item?id=39724505"
     ],
@@ -67,26 +67,6 @@
     [
       "AutoDev: Automated AI-driven development by Microsoft",
       "https://arxiv.org/abs/2403.08299"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 09:02:02",
-      "https://news.ycombinator.com/item?id=39724350"
-    ],
-    [
-      "How to Drive Meaningful Change – handling objections to your proposal",
-      "https://jgefroh.substack.com/p/how-to-drive-meaningful-change-handling"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 09:01:57",
-      "https://news.ycombinator.com/item?id=39724349"
-    ],
-    [
-      "ASCII art elicits harmful responses from 5 major AI chatbots",
-      "https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-03-15, 23:42:29",
+      "https://news.ycombinator.com/item?id=39721841"
+    ],
+    [
+      "Titanosaurs were the biggest land animals Earth's ever seen",
+      "https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 22:54:02",
       "https://news.ycombinator.com/item?id=39721526"
     ],
@@ -197,6 +187,16 @@
     [
       "Nix is a better Docker image builder than Docker's image builder",
       "https://xeiaso.net/talks/2024/nix-docker-build/"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 08:37:42",
+      "https://news.ycombinator.com/item?id=39713370"
+    ],
+    [
+      "Sunlight, a Certificate Transparency log implementation",
+      "https://letsencrypt.org/2024/03/14/introducing-sunlight.html"
     ]
   ],
   [
