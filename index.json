@@ -51,6 +51,26 @@
   ],
   [
     [
+      "2024-03-16, 14:04:19",
+      "https://news.ycombinator.com/item?id=39726020"
+    ],
+    [
+      "How to feed all the power-hungry AI data centers",
+      "https://caseyhandmer.wordpress.com/2024/03/12/how-to-feed-the-ais/"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 13:24:12",
+      "https://news.ycombinator.com/item?id=39725678"
+    ],
+    [
+      "Y Combinator's Chief Startup Whisperer Is Demoting Himself",
+      "https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 13:17:55",
       "https://news.ycombinator.com/item?id=39725634"
     ],
@@ -87,16 +107,6 @@
     [
       "The Rising Price of Power in Chips",
       "https://semiengineering.com/the-rising-price-of-power-in-chips/"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 11:17:58",
-      "https://news.ycombinator.com/item?id=39724886"
-    ],
-    [
-      "A New Manic Miner Port for an Arduino Uno Game Engine",
-      "https://www.hackster.io/news/a-new-manic-miner-port-for-an-arduino-uno-game-engine-d9ab11e33dfa"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-03-15, 16:02:41",
-      "https://news.ycombinator.com/item?id=39717268"
-    ],
-    [
-      "Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL",
-      "https://github.com/pretzelai/pretzelai"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 13:58:14",
       "https://news.ycombinator.com/item?id=39715793"
     ],
@@ -227,16 +227,6 @@
     [
       "Show HN: Matrix Multiplication with Half the Multiplications",
       "https://github.com/trevorpogue/algebraic-nnhw"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 08:37:42",
-      "https://news.ycombinator.com/item?id=39713370"
-    ],
-    [
-      "Sunlight, a Certificate Transparency log implementation",
-      "https://letsencrypt.org/2024/03/14/introducing-sunlight.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "An alternate pattern-matching conditional for Elisp",
       "https://lwn.net/Articles/961682/"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 11:11:28",
+      "https://news.ycombinator.com/item?id=39702422"
+    ],
+    [
+      "I, Cyborg: Using Co-Intelligence",
+      "https://www.oneusefulthing.org/p/i-cyborg-using-co-intelligence"
     ]
   ],
   [
