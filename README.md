@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 * [2024-03-16, 22:17:06](https://news.ycombinator.com/item?id=39729976) - [The plastic industry knowingly pushed recycling myth for decades [video]](https://www.pbs.org/newshour/show/the-plastic-industry-knowingly-pushed-recycling-myth-for-decades-new-report-finds)
 * [2024-03-16, 21:53:45](https://news.ycombinator.com/item?id=39729819) - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
 * [2024-03-16, 21:14:06](https://news.ycombinator.com/item?id=39729509) - [CXL Is Dead in the AI Era](https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era)
@@ -24,7 +25,6 @@
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-16, 11:35:39](https://news.ycombinator.com/item?id=39724966) - [The Rising Price of Power in Chips](https://semiengineering.com/the-rising-price-of-power-in-chips/)
 * [2024-03-16, 08:52:48](https://news.ycombinator.com/item?id=39724312) - [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
-* [2024-03-16, 08:22:12](https://news.ycombinator.com/item?id=39724206) - [Self-Printing Machine Code (2005)](https://susam.net/self-printing-machine-code.html)
 * [2024-03-16, 08:11:18](https://news.ycombinator.com/item?id=39724161) - [Telefunken Datenspeicher](https://retrocomputing.stackexchange.com/questions/29676/what-is-this-large-device-labelled-telefunken-datenspeicher-and-how-does-it-wo)
 * [2024-03-16, 01:27:14](https://news.ycombinator.com/item?id=39722498) - [MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
