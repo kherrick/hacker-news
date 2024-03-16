@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 12:50:51](https://news.ycombinator.com/item?id=39725458) - [Surgeon who burnt his initials on a patient's liver](https://www.theguardian.com/society/2024/mar/16/surgeon-who-signed-patients-livers)
 * [2024-03-16, 12:44:17](https://news.ycombinator.com/item?id=39725416) - [The Linux Desktop Is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 12:43:44](https://news.ycombinator.com/item?id=39725412) - [Evangelicals Use Digital Surveillance to Target the Unconverted](https://newrepublic.com/article/179397/evangelical-app-targeting-immigrants-surveillance)
 * [2024-03-16, 12:41:05](https://news.ycombinator.com/item?id=39725400) - [JWT confirms something is seriously wrong with our understanding of the universe](https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-is-something-seriously-wrong-with-our-understanding-of-the-universe)
@@ -12,6 +13,7 @@
 * [2024-03-16, 11:46:46](https://news.ycombinator.com/item?id=39725035) - [Gaza: 23M tonnes of debris 'will take years to clear'](https://news.un.org/en/story/2024/03/1147616)
 * [2024-03-16, 11:28:14](https://news.ycombinator.com/item?id=39724933) - [Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)
 * [2024-03-16, 11:06:41](https://news.ycombinator.com/item?id=39724844) - [Delusions Shape Our Reality](https://iai.tv/articles/delusions-shape-our-reality-auid-2772)
+* [2024-03-16, 10:47:21](https://news.ycombinator.com/item?id=39724749) - [DARPA to launch efforts that will bolster defenses against manipulated media](https://www.darpa.mil/news-events/2024-03-14)
 * [2024-03-16, 09:41:24](https://news.ycombinator.com/item?id=39724505) - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
 * [2024-03-16, 09:03:06](https://news.ycombinator.com/item?id=39724356) - [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
 * [2024-03-16, 09:02:02](https://news.ycombinator.com/item?id=39724350) - [How to Drive Meaningful Change – handling objections to your proposal](https://jgefroh.substack.com/p/how-to-drive-meaningful-change-handling)
