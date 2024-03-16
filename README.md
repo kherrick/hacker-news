@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 19:16:30](https://news.ycombinator.com/item?id=39728647) - [Outbreak Linked to Morel Mushroom Exposure – Montana, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a1.htm)
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
+* [2024-03-16, 19:01:44](https://news.ycombinator.com/item?id=39728516) - [ECC vs. non-ECC RAM and ZFS (2013)](https://www.truenas.com/community/threads/ecc-vs-non-ecc-ram-and-zfs.15449/)
 * [2024-03-16, 18:16:17](https://news.ycombinator.com/item?id=39728146) - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-16, 17:25:32](https://news.ycombinator.com/item?id=39727752) - [Why African startups don't always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
 * [2024-03-16, 17:12:39](https://news.ycombinator.com/item?id=39727651) - [TV Station Launches Multiple 4K Broadcasts OTA on ATSC 1.0 [video]](https://www.youtube.com/watch?v=e_94q9TCCDY)
@@ -12,7 +14,6 @@
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:17:42](https://news.ycombinator.com/item?id=39726656) - [The Economics of Pirate Radio (2020)](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
 * [2024-03-16, 14:32:51](https://news.ycombinator.com/item?id=39726292) - [macOS 14.4 causes JVM crashes](https://blogs.oracle.com/java/post/java-on-macos-14-4)
-* [2024-03-16, 14:14:47](https://news.ycombinator.com/item?id=39726124) - [Loongson 3A6000: A Star Among Chinese CPUs](https://chipsandcheese.com/2024/03/13/loongson-3a6000-a-star-among-chinese-cpus/)
 * [2024-03-16, 12:24:54](https://news.ycombinator.com/item?id=39725303) - [Cloudflare loses 22% of its domains in Freenom .tk shutdown](https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/)
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-16, 11:35:39](https://news.ycombinator.com/item?id=39724966) - [The Rising Price of Power in Chips](https://semiengineering.com/the-rising-price-of-power-in-chips/)
@@ -29,7 +30,6 @@
 * [2024-03-15, 05:02:24](https://news.ycombinator.com/item?id=39712211) - [Pg_hint_plan: Force PostgreSQL to execute query plans the way you want](https://github.com/ossc-db/pg_hint_plan)
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 11:05:56](https://news.ycombinator.com/item?id=39702383) - [Jonathan Harris (2014)](https://transom.org/2014/jonathan-harris/)
-* [2024-03-14, 04:40:12](https://news.ycombinator.com/item?id=39700655) - [On clock faces, 4 is Expressed as IIII, not IV](https://museum.seiko.co.jp/en/knowledge/trivia02/)
 
 ## [Archives](archives/index.md)
 

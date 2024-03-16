@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 19:16:30](https://news.ycombinator.com/item?id=39728647) - [Outbreak Linked to Morel Mushroom Exposure – Montana, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a1.htm)
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
+* [2024-03-16, 19:01:44](https://news.ycombinator.com/item?id=39728516) - [ECC vs. non-ECC RAM and ZFS (2013)](https://www.truenas.com/community/threads/ecc-vs-non-ecc-ram-and-zfs.15449/)
 * [2024-03-16, 18:16:17](https://news.ycombinator.com/item?id=39728146) - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-16, 17:40:09](https://news.ycombinator.com/item?id=39727857) - [Rachel Corrie Gave Her Life for Rafah](https://jacobin.com/2024/03/rachel-corrie-death-anniversary-rafah-gaza-idf)
 * [2024-03-16, 17:25:32](https://news.ycombinator.com/item?id=39727752) - [Why African startups don't always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
