@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-16, 20:50:18](https://news.ycombinator.com/item?id=39729368) - [EagleX 1.7T: Soaring past LLaMA 7B 2T in both English and Multi-lang evals](https://substack.recursal.ai/p/eaglex-17t-soaring-past-llama-7b)
-* [2024-03-16, 20:46:41](https://news.ycombinator.com/item?id=39729352) - [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
+* [2024-03-16, 21:27:54](https://news.ycombinator.com/item?id=39729633) - [SpaceX building a network of spy satellites for U.S. intelligence, report says](https://qz.com/spacex-starlink-spy-satellite-us-intelligence-elon-musk-1851342193)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:08:16](https://news.ycombinator.com/item?id=39729053) - [Deep-sea hiatus record reveals orbital 2.4 Myr paced eccentricity grand cycles](https://www.nature.com/articles/s41467-024-46171-5)
 * [2024-03-16, 20:00:13](https://news.ycombinator.com/item?id=39728994) - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
@@ -20,6 +19,7 @@
 * [2024-03-16, 15:17:42](https://news.ycombinator.com/item?id=39726656) - [The Economics of Pirate Radio (2020)](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
 * [2024-03-16, 14:55:20](https://news.ycombinator.com/item?id=39726474) - [YAMLScript – Program in YAML](https://yamlscript.org/)
 * [2024-03-16, 13:24:12](https://news.ycombinator.com/item?id=39725678) - [Y Combinator's chief startup whisperer is demoting himself](https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/)
+* [2024-03-16, 12:24:54](https://news.ycombinator.com/item?id=39725303) - [Cloudflare loses 22% of its domains in Freenom .tk shutdown](https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/)
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-16, 11:35:39](https://news.ycombinator.com/item?id=39724966) - [The Rising Price of Power in Chips](https://semiengineering.com/the-rising-price-of-power-in-chips/)
 * [2024-03-16, 08:52:48](https://news.ycombinator.com/item?id=39724312) - [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)

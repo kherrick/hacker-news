@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 21:27:54](https://news.ycombinator.com/item?id=39729633) - [SpaceX building a network of spy satellites for U.S. intelligence, report says](https://qz.com/spacex-starlink-spy-satellite-us-intelligence-elon-musk-1851342193)
 * [2024-03-16, 20:51:32](https://news.ycombinator.com/item?id=39729378) - [Expensive EV repairs and low resale prices following purchase of 100,000 Teslas](https://fortune.com/2024/03/15/ceo-steps-down-prices-following-purchase-teslas/)
 * [2024-03-16, 20:50:18](https://news.ycombinator.com/item?id=39729368) - [EagleX 1.7T: Soaring past LLaMA 7B 2T in both English and Multi-lang evals](https://substack.recursal.ai/p/eaglex-17t-soaring-past-llama-7b)
 * [2024-03-16, 20:46:41](https://news.ycombinator.com/item?id=39729352) - [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
