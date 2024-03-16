@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 15:15:49",
+      "https://news.ycombinator.com/item?id=39726638"
+    ],
+    [
+      "SpaceX Prepares to Comply with 'Lawful Intercepts' for Cellular Starlink System",
+      "https://www.pcmag.com/news/spacex-prepares-to-comply-with-lawful-intercepts-for-cellular-starlink"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 15:04:42",
       "https://news.ycombinator.com/item?id=39726545"
     ],
@@ -17,6 +27,16 @@
     [
       "Study: Dark matter does not exist and the universe is 27B years old",
       "https://www.earth.com/news/dark-matter-does-not-exist-universe-27-billion-years-old-study/"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 14:28:16",
+      "https://news.ycombinator.com/item?id=39726243"
+    ],
+    [
+      "Man pleads guilty to genetically engineering giant hybrid sheep",
+      "https://abcnews.go.com/International/80-year-man-pleads-guilty-genetically-engineering-giant/story?id=108117977"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "The Rising Price of Power in Chips",
       "https://semiengineering.com/the-rising-price-of-power-in-chips/"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 11:17:58",
-      "https://news.ycombinator.com/item?id=39724886"
-    ],
-    [
-      "A New Manic Miner Port for an Arduino Uno Game Engine",
-      "https://www.hackster.io/news/a-new-manic-miner-port-for-an-arduino-uno-game-engine-d9ab11e33dfa"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-03-15, 23:52:05",
-      "https://news.ycombinator.com/item?id=39721922"
-    ],
-    [
-      "What part of Rust compilation is the bottleneck?",
-      "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 22:54:02",
       "https://news.ycombinator.com/item?id=39721526"
     ],
@@ -207,6 +207,16 @@
     [
       "Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL",
       "https://github.com/pretzelai/pretzelai"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 13:58:14",
+      "https://news.ycombinator.com/item?id=39715793"
+    ],
+    [
+      "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
+      "https://github.com/robjinman/richard"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "An alternate pattern-matching conditional for Elisp",
       "https://lwn.net/Articles/961682/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 16:57:00",
-      "https://news.ycombinator.com/item?id=39706330"
-    ],
-    [
-      "Why are most sofas so bad?",
-      "https://www.dwell.com/article/dtc-sofa-crisis-32304b9e"
     ]
   ],
   [
