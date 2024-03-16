@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-16, 17:07:46",
-      "https://news.ycombinator.com/item?id=39727592"
-    ],
-    [
-      "Why is Oregon about to re-criminalize psychedelics in response to opioid crisis?",
-      "https://www.vox.com/future-perfect/24102102/psychedelics-oregon-opioid-crisis-decriminalization-war-drugs-fentanyl-house-bill-4002"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 16:43:34",
       "https://news.ycombinator.com/item?id=39727376"
     ],
@@ -247,6 +237,16 @@
     [
       "GDDR7 Memory Spec Adds Faster PAM3 Signaling and On-Die ECC",
       "https://www.anandtech.com/show/21287/jedec-publishes-gddr7-specifications-pam3-ecc-higher-density"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 10:36:37",
+      "https://news.ycombinator.com/item?id=39714053"
+    ],
+    [
+      "Show HN: Matrix Multiplication with Half the Multiplications",
+      "https://github.com/trevorpogue/algebraic-nnhw"
     ]
   ],
   [
