@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 12:44:17",
+      "https://news.ycombinator.com/item?id=39725416"
+    ],
+    [
+      "The Linux Desktop Is Finally Great (Both Ubuntu and Firefox)",
+      "https://punkx.org/jackdoe/linux-desktop.html"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 12:43:44",
       "https://news.ycombinator.com/item?id=39725412"
     ],
@@ -17,6 +27,16 @@
     [
       "JWT confirms something is seriously wrong with our understanding of the universe",
       "https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-is-something-seriously-wrong-with-our-understanding-of-the-universe"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 12:24:54",
+      "https://news.ycombinator.com/item?id=39725303"
+    ],
+    [
+      "Cloudflare loses 22% of its domains in Freenom .tk shutdown",
+      "https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39724844"
     ],
     [
-      "Delusions Shape Our Reality",
+      "Delusions shape our reality",
       "https://iai.tv/articles/delusions-shape-our-reality-auid-2772"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-03-16, 03:09:30",
-      "https://news.ycombinator.com/item?id=39723012"
-    ],
-    [
-      "Abnormal brain structure seen in children with developmental language issues",
-      "https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 23:52:05",
       "https://news.ycombinator.com/item?id=39721922"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2024-03-15, 22:00:31",
-      "https://news.ycombinator.com/item?id=39721158"
+      "2024-03-15, 12:09:17",
+      "https://news.ycombinator.com/item?id=39714649"
     ],
     [
-      "The United States has its first large offshore wind farm, with more to come",
-      "https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384"
+      "Golf, gardening and woodworking drive men's increase in ALS risk by 300%",
+      "https://newatlas.com/medical/als-linked-recreational-activities-men/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "An alternate pattern-matching conditional for Elisp",
       "https://lwn.net/Articles/961682/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 15:59:56",
-      "https://news.ycombinator.com/item?id=39705648"
-    ],
-    [
-      "Stopping Spambots with Hashes and Honeypots (2007)",
-      "https://nedbatchelder.com/text/stopbots.html"
     ]
   ],
   [
