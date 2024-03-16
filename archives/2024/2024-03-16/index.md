@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 03:29:51](https://news.ycombinator.com/item?id=39723135) - [Boeing 737 makes emergency landing in Oregon after losing panel in mid-air](https://old.reddit.com/r/pics/comments/1bfqefi/united_airlines_boeing_737_makes_emergency/)
+* [2024-03-16, 03:09:30](https://news.ycombinator.com/item?id=39723012) - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
 * [2024-03-16, 02:03:40](https://news.ycombinator.com/item?id=39722680) - [Apple Agrees to Pay $490M to Settle Lawsuit That Tim Cook Defrauded Shareholders](https://www.macrumors.com/2024/03/15/apple-agrees-to-settle-tim-cook-investor-lawsuit/)
 * [2024-03-16, 01:45:58](https://news.ycombinator.com/item?id=39722606) - [Chinese firm's leaked files show vast international hacking effort](https://www.washingtonpost.com/world/2024/02/21/china-hacking-leak-documents-isoon/)
 * [2024-03-16, 01:39:48](https://news.ycombinator.com/item?id=39722576) - [ChatGPT prompt reply copy-pasted in a published research paper](https://twitter.com/Saboo_Shubham_/status/1768714521340752093)
