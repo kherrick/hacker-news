@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-03-16, 18:03:52",
+      "https://news.ycombinator.com/item?id=39728045"
+    ],
+    [
+      "Lambda on hard mode: serverless HTTP in Rust",
+      "https://modal.com/blog/serverless-http"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 17:25:32",
       "https://news.ycombinator.com/item?id=39727752"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2024-03-16, 16:26:44",
+      "https://news.ycombinator.com/item?id=39727217"
+    ],
+    [
+      "Mental Health in Open Source",
+      "https://antfu.me/posts/mental-health-oss"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 15:31:59",
       "https://news.ycombinator.com/item?id=39726781"
     ],
@@ -107,16 +127,6 @@
     [
       "macOS 14.4 causes JVM crashes",
       "https://blogs.oracle.com/java/post/java-on-macos-14-4"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 14:14:47",
-      "https://news.ycombinator.com/item?id=39726124"
-    ],
-    [
-      "Loongson 3A6000: A Star Among Chinese CPUs",
-      "https://chipsandcheese.com/2024/03/13/loongson-3a6000-a-star-among-chinese-cpus/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "How to Play Renju",
       "https://www.renju.net/rules/"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 05:02:24",
-      "https://news.ycombinator.com/item?id=39712211"
-    ],
-    [
-      "Pg_hint_plan: Force PostgreSQL to execute query plans the way you want",
-      "https://github.com/ossc-db/pg_hint_plan"
     ]
   ],
   [
