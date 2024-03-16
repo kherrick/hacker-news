@@ -49,6 +49,7 @@
 * [2024-03-14, 16:13:37](https://news.ycombinator.com/item?id=39705788) - [Time to delete your Glassdoor account](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
 * [2024-03-14, 16:05:29](https://news.ycombinator.com/item?id=39705702) - [Magnitude 5.8 earthquake has struck Fukushima](https://www3.nhk.or.jp/nhkworld/en/news/weather-disaster/earthquake/)
 * [2024-03-14, 16:02:19](https://news.ycombinator.com/item?id=39705680) - [How Nintendo's destruction of Yuzu is rocking the emulator world](https://www.theverge.com/24098640/nintendo-emulator-yuzu-lawsuit-switch-aftermath)
+* [2024-03-14, 15:59:56](https://news.ycombinator.com/item?id=39705648) - [Stopping Spambots with Hashes and Honeypots](https://nedbatchelder.com/text/stopbots.html)
 * [2024-03-14, 15:52:34](https://news.ycombinator.com/item?id=39705559) - [Behind the OnlyFans porn boom: allegations of rape, abuse, betrayal](https://www.reuters.com/investigates/special-report/onlyfans-sex-legal-cases/)
 * [2024-03-14, 15:45:26](https://news.ycombinator.com/item?id=39705487) - [Most HR Data Is Bad Data](https://hbr.org/2015/02/most-hr-data-is-bad-data)
 * [2024-03-14, 15:44:21](https://news.ycombinator.com/item?id=39705477) - [The Atlantic's great American novels of the last 100 years](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fiction/677479/)
