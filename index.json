@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-03-15, 23:42:29",
+      "https://news.ycombinator.com/item?id=39721841"
+    ],
+    [
+      "Titanosaurs were the biggest land animals Earth's ever seen",
+      "https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 22:54:02",
       "https://news.ycombinator.com/item?id=39721526"
     ],
     [
-      "Doola (YC S20) Is Hiring a Director of Finance $$$$$",
+      "Doola (YC S20) Is Hiring a Director of Finance",
       "https://www.workatastartup.com/jobs/55496"
     ]
   ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2024-03-15, 22:26:25",
-      "https://news.ycombinator.com/item?id=39721326"
-    ],
-    [
-      "Atopile – build electronic circuit boards from code",
-      "https://atopile.io/"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 22:00:31",
       "https://news.ycombinator.com/item?id=39721158"
     ],
     [
       "The United States has its first large offshore wind farm, with more to come",
       "https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 22:00:17",
-      "https://news.ycombinator.com/item?id=39721152"
-    ],
-    [
-      "Sam Bankman-Fried Should Get 40 to 50 Years in Prison, Prosecutors Say",
-      "https://www.nytimes.com/2024/03/15/technology/sam-bankman-fried-sentencing.html"
     ]
   ],
   [
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2024-03-15, 20:11:56",
+      "https://news.ycombinator.com/item?id=39720187"
+    ],
+    [
+      "Zig, Rust, and Other Languages",
+      "https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 20:00:26",
       "https://news.ycombinator.com/item?id=39720049"
     ],
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2024-03-15, 19:06:24",
-      "https://news.ycombinator.com/item?id=39719503"
+      "2024-03-15, 19:56:47",
+      "https://news.ycombinator.com/item?id=39720007"
     ],
     [
-      "How the wrong side won at Boeing",
-      "https://backofmind.substack.com/p/how-the-wrong-side-won-at-boeing"
+      "Nix is a better Docker image builder than Docker's image builder",
+      "https://xeiaso.net/talks/2024/nix-docker-build/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-03-15, 09:24:50",
-      "https://news.ycombinator.com/item?id=39713634"
-    ],
-    [
-      "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
-      "https://arxiv.org/abs/2403.09629"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 08:37:42",
       "https://news.ycombinator.com/item?id=39713370"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2024-03-14, 09:14:19",
-      "https://news.ycombinator.com/item?id=39701785"
-    ],
-    [
-      "Improving cursor rendering on Wayland",
-      "https://blog.vaxry.net/articles/2024-cursors"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 08:21:08",
       "https://news.ycombinator.com/item?id=39701543"
     ],
@@ -297,6 +277,26 @@
     [
       "Bending pause times to your will with Generational ZGC",
       "https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 04:40:12",
+      "https://news.ycombinator.com/item?id=39700655"
+    ],
+    [
+      "On clock faces, 4 is Expressed as IIII, not IV",
+      "https://museum.seiko.co.jp/en/knowledge/trivia02/"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 22:43:39",
+      "https://news.ycombinator.com/item?id=39698485"
+    ],
+    [
+      "On the implausibility of the Death Star's trash compactor (2002)",
+      "https://www.mcsweeneys.net/articles/on-the-implausibility-of-the-death-stars-trash-compactor"
     ]
   ]
 ]
