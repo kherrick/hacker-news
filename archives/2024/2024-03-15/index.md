@@ -13,6 +13,7 @@
 * [2024-03-15, 22:00:31](https://news.ycombinator.com/item?id=39721158) - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 * [2024-03-15, 22:00:17](https://news.ycombinator.com/item?id=39721152) - [Sam Bankman-Fried Should Get 40 to 50 Years in Prison, Prosecutors Say](https://www.nytimes.com/2024/03/15/technology/sam-bankman-fried-sentencing.html)
 * [2024-03-15, 21:46:29](https://news.ycombinator.com/item?id=39721066) - [Tech layoffs highest since dot-com crash](https://www.cnbc.com/2024/03/15/laid-off-techies-struggle-to-find-jobs-with-cuts-at-highest-since-2001.html)
+* [2024-03-15, 21:40:42](https://news.ycombinator.com/item?id=39721015) - [1.1B Taxi Rides Using DuckDB](https://tech.marksblogg.com/duckdb-1b-taxi-rides.html)
 * [2024-03-15, 21:17:06](https://news.ycombinator.com/item?id=39720812) - [Hathora's Bare Metal Journey](https://blog.hathora.dev/our-bare-metal-journey/)
 * [2024-03-15, 21:13:55](https://news.ycombinator.com/item?id=39720777) - [Netflix Is Rethinking Employee Freedom, a Core Tenet of Its Vaunted Culture](https://www.wsj.com/business/media/netflix-is-rethinking-employee-freedom-a-core-tenet-of-its-vaunted-culture-a33f78e5)
 * [2024-03-15, 20:43:41](https://news.ycombinator.com/item?id=39720508) - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
