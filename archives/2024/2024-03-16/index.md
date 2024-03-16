@@ -4,8 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 17:40:09](https://news.ycombinator.com/item?id=39727857) - [Rachel Corrie Gave Her Life for Rafah](https://jacobin.com/2024/03/rachel-corrie-death-anniversary-rafah-gaza-idf)
+* [2024-03-16, 17:25:32](https://news.ycombinator.com/item?id=39727752) - [Why African startups don't always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
+* [2024-03-16, 17:23:46](https://news.ycombinator.com/item?id=39727735) - [Ten Best Electronic Inventions from the 70s](https://www.tti.com/content/ttiinc/en/resources/blog/10-best-electronic-inventions-from-the-70.html)
+* [2024-03-16, 17:22:38](https://news.ycombinator.com/item?id=39727726) - [Doctors are turning medical generative AI into a booming business](https://www.cnbc.com/2024/03/16/himss-2024-ambient-clinical-documentation-steals-the-show.html)
 * [2024-03-16, 17:13:17](https://news.ycombinator.com/item?id=39727657) - [OpenAI aims to make its own AI processors – in talks with Abu Dhabi investors](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-aims-to-make-its-own-ai-processors-chip-venture-in-talks-with-abu-dhabi-investment-firm-report)
+* [2024-03-16, 17:12:39](https://news.ycombinator.com/item?id=39727651) - [TV Station Launches Multiple 4K Broadcasts OTA on ATSC 1.0 [video]](https://www.youtube.com/watch?v=e_94q9TCCDY)
+* [2024-03-16, 17:09:20](https://news.ycombinator.com/item?id=39727610) - [Georg Cantor and His Heritage](https://arxiv.org/abs/math/0209244)
 * [2024-03-16, 17:07:46](https://news.ycombinator.com/item?id=39727592) - [Why is Oregon about to re-criminalize psychedelics in response to opioid crisis?](https://www.vox.com/future-perfect/24102102/psychedelics-oregon-opioid-crisis-decriminalization-war-drugs-fentanyl-house-bill-4002)
+* [2024-03-16, 17:07:21](https://news.ycombinator.com/item?id=39727587) - [The Future of the Monetary System [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/csri-future-of-the-monetary-system.pdf)
+* [2024-03-16, 17:05:40](https://news.ycombinator.com/item?id=39727568) - [Chewing Gum Is Associated with Better Diet Quality but Not Oral Health Measures](https://www.tandfonline.com/doi/full/10.1080/27697061.2023.2300441)
+* [2024-03-16, 17:01:34](https://news.ycombinator.com/item?id=39727529) - [Research shows that people who BS are more likely to fall for BS (2021)](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
 * [2024-03-16, 16:43:34](https://news.ycombinator.com/item?id=39727376) - [Ask HN: Why can't image generation models spell?](https://news.ycombinator.com/item?id=39727376)
 * [2024-03-16, 16:31:09](https://news.ycombinator.com/item?id=39727257) - [SpaceX is building spy satellite network for US intelligence agency, sources say](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/)
 * [2024-03-16, 15:49:26](https://news.ycombinator.com/item?id=39726937) - [Ask HN: Non-duopoly smart phone in Sweden?](https://news.ycombinator.com/item?id=39726937)
