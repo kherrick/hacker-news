@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 09:41:24](https://news.ycombinator.com/item?id=39724505) - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
 * [2024-03-16, 09:01:57](https://news.ycombinator.com/item?id=39724349) - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
 * [2024-03-16, 09:01:56](https://news.ycombinator.com/item?id=39724348) - [Ad agency boss owned two Ferraris but wouldn't buy a real server](https://www.theregister.com/2024/03/15/on_call/)
 * [2024-03-16, 08:58:41](https://news.ycombinator.com/item?id=39724338) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
@@ -24,7 +25,6 @@
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 23:52:01](https://news.ycombinator.com/item?id=39710443) - [An alternate pattern-matching conditional for Elisp](https://lwn.net/Articles/961682/)
 * [2024-03-14, 15:59:56](https://news.ycombinator.com/item?id=39705648) - [Stopping Spambots with Hashes and Honeypots](https://nedbatchelder.com/text/stopbots.html)
-* [2024-03-14, 08:47:00](https://news.ycombinator.com/item?id=39701646) - [Ovid's myths of macOS: password entry dialogs and the death of Semele](https://eclecticlight.co/2024/03/14/ovids-myths-of-macos-password-entry-dialogs-and-the-death-of-semele/)
 * [2024-03-14, 07:11:26](https://news.ycombinator.com/item?id=39701267) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?gi=f77216038c95)
 * [2024-03-14, 05:17:01](https://news.ycombinator.com/item?id=39700809) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [2024-03-14, 04:40:12](https://news.ycombinator.com/item?id=39700655) - [On clock faces, 4 is Expressed as IIII, not IV](https://museum.seiko.co.jp/en/knowledge/trivia02/)
