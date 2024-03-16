@@ -100,6 +100,7 @@
 * [2024-03-14, 09:15:47](https://news.ycombinator.com/item?id=39701791) - [Swedish data brokers claim journalists' legal protection to evade EU law](https://noyb.eu/en/swedish-data-brokers-claim-journalists-legal-protection-evade-eu-law)
 * [2024-03-14, 09:14:19](https://news.ycombinator.com/item?id=39701785) - [Improving cursor rendering on Wayland](https://blog.vaxry.net/articles/2024-cursors)
 * [2024-03-14, 08:47:00](https://news.ycombinator.com/item?id=39701646) - [Ovid's myths of macOS: password entry dialogs and the death of Semele](https://eclecticlight.co/2024/03/14/ovids-myths-of-macos-password-entry-dialogs-and-the-death-of-semele/)
+* [2024-03-14, 08:39:56](https://news.ycombinator.com/item?id=39701624) - [Joggling Etiquette](https://justyouraveragejoggler.com/joggling-etiquette-series-part-1-how-to-line-up-for-a-race/)
 * [2024-03-14, 08:21:08](https://news.ycombinator.com/item?id=39701543) - [DBOS Operating System](https://www.dbos.dev/)
 * [2024-03-14, 08:15:18](https://news.ycombinator.com/item?id=39701502) - [FCC Denies Starlink Low-Orbit Bid for Lower Latency](https://spectrum.ieee.org/starlink-vleo-below-iss)
 * [2024-03-14, 08:08:15](https://news.ycombinator.com/item?id=39701473) - [NASA Engineers Make Progress Toward Understanding Voyager 1 Issue](https://blogs.nasa.gov/sunspot/2024/03/13/nasa-engineers-make-progress-toward-understanding-voyager-1-issue/)
