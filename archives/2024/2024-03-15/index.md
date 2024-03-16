@@ -87,6 +87,7 @@
 * [2024-03-15, 08:26:12](https://news.ycombinator.com/item?id=39713301) - [Intuitive da Vinci 5](https://www.intuitive.com/en-us/products-and-services/da-vinci/5)
 * [2024-03-15, 08:18:49](https://news.ycombinator.com/item?id=39713270) - [McDonald's Closes Amid Global IT Outage](https://www.newsweek.com/mcdonalds-closes-amid-global-it-outage-1879528)
 * [2024-03-15, 08:16:47](https://news.ycombinator.com/item?id=39713255) - [What Every User Should Know About Mixed Precision Training in PyTorch](https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/)
+* [2024-03-15, 08:16:10](https://news.ycombinator.com/item?id=39713251) - [MO| Why is shuffle support needed?](https://medium.com/@matrixorigin-database/why-is-shuffle-support-needed-5df13e8edaf2)
 * [2024-03-15, 08:13:48](https://news.ycombinator.com/item?id=39713230) - [Google I/O '24 Puzzles](https://io.google/2024/puzzle)
 * [2024-03-15, 08:06:14](https://news.ycombinator.com/item?id=39713174) - [South African minister: We will arrest citizens who return from IDF service](https://www.msn.com/en-za/news/other/south-african-minister-we-will-arrest-citizens-who-return-from-idf-service/ar-BB1jQgHH)
 * [2024-03-15, 07:07:46](https://news.ycombinator.com/item?id=39712804) - [Programs written in Golang have no secrets](https://gopacker.dev/docs/)
