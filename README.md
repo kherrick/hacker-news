@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-16, 21:53:45](https://news.ycombinator.com/item?id=39729819) - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
+* [2024-03-16, 21:17:30](https://news.ycombinator.com/item?id=39729549) - [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.com/news/technology-68580235)
 * [2024-03-16, 21:14:06](https://news.ycombinator.com/item?id=39729509) - [CXL Is Dead in the AI Era](https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era)
-* [2024-03-16, 20:46:41](https://news.ycombinator.com/item?id=39729352) - [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:00:13](https://news.ycombinator.com/item?id=39728994) - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
@@ -15,7 +16,6 @@
 * [2024-03-16, 16:26:44](https://news.ycombinator.com/item?id=39727217) - [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:17:42](https://news.ycombinator.com/item?id=39726656) - [The Economics of Pirate Radio (2020)](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
-* [2024-03-16, 14:55:20](https://news.ycombinator.com/item?id=39726474) - [YAMLScript – Program in YAML](https://yamlscript.org/)
 * [2024-03-16, 14:32:51](https://news.ycombinator.com/item?id=39726292) - [macOS 14.4 causes JVM crashes](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 * [2024-03-16, 14:20:33](https://news.ycombinator.com/item?id=39726172) - [Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript](https://bewcloud.com)
 * [2024-03-16, 13:24:12](https://news.ycombinator.com/item?id=39725678) - [Y Combinator's chief startup whisperer is demoting himself](https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/)
