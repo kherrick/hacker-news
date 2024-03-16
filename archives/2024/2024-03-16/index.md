@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 19:58:00](https://news.ycombinator.com/item?id=39728977) - [How to Win Friends and Hustle People](https://www.nytimes.com/2024/03/14/style/superiority-burger-ashwin-deshmukh.html)
 * [2024-03-16, 19:45:10](https://news.ycombinator.com/item?id=39728878) - [Podman Desktop just released its own Kubernetes GUI](https://podman-desktop.io/blog/podman-desktop-release-1.8)
 * [2024-03-16, 19:16:30](https://news.ycombinator.com/item?id=39728647) - [Outbreak Linked to Morel Mushroom Exposure – Montana, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a1.htm)
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)

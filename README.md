@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-16, 19:45:10](https://news.ycombinator.com/item?id=39728878) - [Podman Desktop just released its own Kubernetes GUI](https://podman-desktop.io/blog/podman-desktop-release-1.8)
+* [2024-03-16, 19:58:00](https://news.ycombinator.com/item?id=39728977) - [How to Win Friends and Hustle People](https://www.nytimes.com/2024/03/14/style/superiority-burger-ashwin-deshmukh.html)
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
 * [2024-03-16, 18:16:17](https://news.ycombinator.com/item?id=39728146) - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-16, 18:03:52](https://news.ycombinator.com/item?id=39728045) - [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
