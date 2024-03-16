@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 12:44:17](https://news.ycombinator.com/item?id=39725416) - [The Linux Desktop Is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 12:43:44](https://news.ycombinator.com/item?id=39725412) - [Evangelicals Use Digital Surveillance to Target the Unconverted](https://newrepublic.com/article/179397/evangelical-app-targeting-immigrants-surveillance)
 * [2024-03-16, 12:41:05](https://news.ycombinator.com/item?id=39725400) - [JWT confirms something is seriously wrong with our understanding of the universe](https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-is-something-seriously-wrong-with-our-understanding-of-the-universe)
+* [2024-03-16, 12:24:54](https://news.ycombinator.com/item?id=39725303) - [Cloudflare loses 22% of its domains in Freenom .tk shutdown](https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/)
 * [2024-03-16, 12:03:48](https://news.ycombinator.com/item?id=39725150) - [My new System76 Thelio is hands-down the best desktop PC I've ever tested](https://www.zdnet.com/home-and-office/my-new-system76-thelio-is-hands-down-the-best-desktop-pc-ive-ever-tested/)
 * [2024-03-16, 11:46:46](https://news.ycombinator.com/item?id=39725035) - [Gaza: 23M tonnes of debris 'will take years to clear'](https://news.un.org/en/story/2024/03/1147616)
 * [2024-03-16, 11:28:14](https://news.ycombinator.com/item?id=39724933) - [Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)

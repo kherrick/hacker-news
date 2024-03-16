@@ -70,6 +70,7 @@
 * [2024-03-15, 13:17:19](https://news.ycombinator.com/item?id=39715131) - [IBM CEO pay jumps 23% in 2023, average employee gets 7%](https://www.theregister.com/2024/03/15/ibm_ceo_pay_jumps_23/)
 * [2024-03-15, 12:40:20](https://news.ycombinator.com/item?id=39714854) - [Show HN: Parikar, Read long form articles or blogs in a better, measurable way](https://www.parikar.org/)
 * [2024-03-15, 12:18:58](https://news.ycombinator.com/item?id=39714702) - [Urban humans have lost much of their ability to digest plants](https://arstechnica.com/science/2024/03/human-gut-bacteria-that-can-digest-plant-matter-probably-came-from-cows/)
+* [2024-03-15, 12:09:17](https://news.ycombinator.com/item?id=39714649) - [Golf, gardening and woodworking drive men's increase in ALS risk by 300%](https://newatlas.com/medical/als-linked-recreational-activities-men/)
 * [2024-03-15, 11:51:47](https://news.ycombinator.com/item?id=39714502) - [\"Certainly, here is a possible introduction for your topic\" in scientific paper](https://www.sciencedirect.com/science/article/abs/pii/S2468023024002402)
 * [2024-03-15, 11:31:33](https://news.ycombinator.com/item?id=39714348) - [Writing Manual Pages (2019)](https://liw.fi/manpages/)
 * [2024-03-15, 11:30:38](https://news.ycombinator.com/item?id=39714340) - [Parents: Are Your Kids Backing Up Their Data?](https://theprivacydad.com/parents-are-your-kids-backing-up-their-data/)
