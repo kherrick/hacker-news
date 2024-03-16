@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 16:31:09",
+      "https://news.ycombinator.com/item?id=39727257"
+    ],
+    [
+      "SpaceX is building spy satellite network for US intelligence agency, sources say",
+      "https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 15:49:26",
       "https://news.ycombinator.com/item?id=39726937"
     ],
@@ -37,6 +47,16 @@
     [
       "\"It's a Silent Fire\": Decaying Digital Movie and TV Shows Are a Hollywood Crisis",
       "https://www.hollywoodreporter.com/business/digital/digital-preservation-film-tv-shows-archives-1235851957/"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 14:47:44",
+      "https://news.ycombinator.com/item?id=39726417"
+    ],
+    [
+      "The Staggering Ecological Impacts of Computation and the Cloud",
+      "https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-03-16, 09:03:06",
-      "https://news.ycombinator.com/item?id=39724356"
-    ],
-    [
-      "AutoDev: Automated AI-driven development by Microsoft",
-      "https://arxiv.org/abs/2403.08299"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 08:52:48",
       "https://news.ycombinator.com/item?id=39724312"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2024-03-16, 01:27:14",
+      "https://news.ycombinator.com/item?id=39722498"
+    ],
+    [
+      "Apple Announces MM1: Multimodal LLM Pre-Trainig Report",
+      "https://arxiv.org/abs/2403.09611"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 22:54:02",
       "https://news.ycombinator.com/item?id=39721526"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-03-15, 10:36:37",
-      "https://news.ycombinator.com/item?id=39714053"
-    ],
-    [
-      "Show HN: Matrix Multiplication with Half the Multiplications",
-      "https://github.com/trevorpogue/algebraic-nnhw"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 05:02:24",
       "https://news.ycombinator.com/item?id=39712211"
     ],
@@ -247,16 +257,6 @@
     [
       "Vision Pro: What we got wrong at Oculus that Apple got right",
       "https://hugo.blog/2024/03/11/vision-pro/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 23:52:01",
-      "https://news.ycombinator.com/item?id=39710443"
-    ],
-    [
-      "An alternate pattern-matching conditional for Elisp",
-      "https://lwn.net/Articles/961682/"
     ]
   ],
   [
