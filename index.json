@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-03-17, 11:08:45",
+      "https://news.ycombinator.com/item?id=39733555"
+    ],
+    [
+      "America's affordable house of the future failed",
+      "https://thehustle.co/originals/how-americas-affordable-house-of-the-future-failed"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 11:02:11",
       "https://news.ycombinator.com/item?id=39733515"
     ],
@@ -51,11 +61,21 @@
   ],
   [
     [
+      "2024-03-17, 09:36:42",
+      "https://news.ycombinator.com/item?id=39733107"
+    ],
+    [
+      "Retrowin32: Minesweeper and the Four Month Bug",
+      "https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 08:51:43",
       "https://news.ycombinator.com/item?id=39732932"
     ],
     [
-      "Django REST framework: 3.15.0 Release (Django 5.0 support)",
+      "Django REST framework 3.15.0",
       "https://www.django-rest-framework.org/community/release-notes/#315x-series"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-03-16, 23:47:19",
-      "https://news.ycombinator.com/item?id=39730480"
-    ],
-    [
-      "Show HN: SatCat5, the open-source FPGA Ethernet switch",
-      "https://github.com/the-aerospace-corporation/satcat5/blob/main/doc/FAQ.md"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 23:33:32",
       "https://news.ycombinator.com/item?id=39730412"
     ],
@@ -191,12 +201,22 @@
   ],
   [
     [
-      "2024-03-16, 18:17:09",
-      "https://news.ycombinator.com/item?id=39728153"
+      "2024-03-16, 18:16:17",
+      "https://news.ycombinator.com/item?id=39728146"
     ],
     [
-      "Fifty Things you can do with a Software Defined Radio",
-      "https://blinry.org/50-things-with-sdr/"
+      "Hackintosh is almost dead",
+      "https://aplus.rs/2024/hackintosh-almost-dead/"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 16:53:34",
+      "https://news.ycombinator.com/item?id=39727458"
+    ],
+    [
+      "Parsing URLs in Python",
+      "https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-03-15, 13:58:14",
-      "https://news.ycombinator.com/item?id=39715793"
-    ],
-    [
-      "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
-      "https://github.com/robjinman/richard"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 12:56:12",
       "https://news.ycombinator.com/item?id=39714973"
     ],
@@ -267,16 +277,6 @@
     [
       "Finding Lead in Stanley's Quencher",
       "https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 03:15:36",
-      "https://news.ycombinator.com/item?id=39711725"
-    ],
-    [
-      "Vision Pro: What we got wrong at Oculus that Apple got right",
-      "https://hugo.blog/2024/03/11/vision-pro/"
     ]
   ],
   [
