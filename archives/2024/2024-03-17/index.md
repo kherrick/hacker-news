@@ -45,6 +45,7 @@
 * [2024-03-17, 12:49:39](https://news.ycombinator.com/item?id=39734134) - [Using LLMs to reverse JavaScript variable name minification (2023)](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification.html)
 * [2024-03-17, 12:43:41](https://news.ycombinator.com/item?id=39734110) - [50 Ideas for Life I Repeatedly Share](https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/)
 * [2024-03-17, 12:27:49](https://news.ycombinator.com/item?id=39733998) - [Using ChatGPT for Podcast Suggestions](https://ryanbuening.com/posts/chatgpt-for-podcast-suggestions/)
+* [2024-03-17, 11:55:42](https://news.ycombinator.com/item?id=39733829) - [Gimballed Stove](https://100r.co/site/gimballed_stove.html)
 * [2024-03-17, 11:42:59](https://news.ycombinator.com/item?id=39733746) - [Imitation Learning](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
 * [2024-03-17, 11:29:55](https://news.ycombinator.com/item?id=39733685) - [History of Uniform Random Number Generation (2017) [pdf]](https://www.informs-sim.org/wsc17papers/includes/files/016.pdf)
 * [2024-03-17, 11:25:11](https://news.ycombinator.com/item?id=39733661) - [Super Micro Computer has gone from an obscure server maker to $60B market cap](https://www.wsj.com/tech/ai/super-micro-computer-company-profile-d93a41da)
