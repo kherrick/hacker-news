@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
+* [2024-03-17, 20:29:24](https://news.ycombinator.com/item?id=39737762) - [New iOS features you're not getting because you're outside the EU](https://mashable.com/article/5-best-new-ios-features-eu-dma)
 * [2024-03-17, 20:11:59](https://news.ycombinator.com/item?id=39737622) - [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
 * [2024-03-17, 20:04:50](https://news.ycombinator.com/item?id=39737548) - [Meow.camera – Live street cat feeder cams](https://meow.camera/viewer/)
 * [2024-03-17, 20:01:19](https://news.ycombinator.com/item?id=39737526) - [Neato](https://notes.neatnik.net/2024/03/neato)
 * [2024-03-17, 19:55:04](https://news.ycombinator.com/item?id=39737474) - [Pine64 March update: making waves](https://pine64.org/2024/03/17/march-update-making-waves/)
+* [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
 * [2024-03-17, 19:33:37](https://news.ycombinator.com/item?id=39737281) - [Grok](https://github.com/xai-org/grok)
 * [2024-03-17, 19:22:07](https://news.ycombinator.com/item?id=39737193) - [Grok Weights Available via Torrent](https://twitter.com/grok/status/1769441648910479423)
 * [2024-03-17, 19:14:56](https://news.ycombinator.com/item?id=39737122) - [Vector: A high-performance observability data pipeline](https://github.com/vectordotdev/vector)
