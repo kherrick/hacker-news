@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 18:57:10](https://news.ycombinator.com/item?id=39736975) - [To Delay Death, Lift Weights](https://www.outsideonline.com/health/training-performance/delay-death-lift-weights/)
 * [2024-03-17, 18:28:31](https://news.ycombinator.com/item?id=39736718) - [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
 * [2024-03-17, 18:18:30](https://news.ycombinator.com/item?id=39736622) - [Chinese Sellers are Manipulating Amazon in 2024](https://www.ecomcrew.com/chinese-sellers-manipulating-amazon/)
 * [2024-03-17, 18:07:48](https://news.ycombinator.com/item?id=39736545) - [Uber Australia Is Creating a Yellow Union to Head Off Reform](https://jacobin.com/2024/03/uber-australia-worker-committee-union)
