@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-17, 19:22:07](https://news.ycombinator.com/item?id=39737193) - [Grok Weights Available via Torrent](https://twitter.com/grok/status/1769441648910479423)
 * [2024-03-17, 19:09:50](https://news.ycombinator.com/item?id=39737084) - [Superiority by Arthur C. Clarke](https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/)
 * [2024-03-17, 19:06:24](https://news.ycombinator.com/item?id=39737053) - [Heat pumps slash emissions even if powered by a dirty grid](https://www.canarymedia.com/articles/heat-pumps/yes-heat-pumps-slash-emissions-even-if-powered-by-a-dirty-grid)
 * [2024-03-17, 18:57:10](https://news.ycombinator.com/item?id=39736975) - [To Delay Death, Lift Weights](https://www.outsideonline.com/health/training-performance/delay-death-lift-weights/)
@@ -9,9 +10,7 @@
 * [2024-03-17, 16:39:37](https://news.ycombinator.com/item?id=39735675) - [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
 * [2024-03-17, 16:38:45](https://news.ycombinator.com/item?id=39735669) - [Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:25:45](https://news.ycombinator.com/item?id=39735570) - [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
-* [2024-03-17, 16:05:16](https://news.ycombinator.com/item?id=39735382) - [A cheap, generic drug became a darling of longevity enthusiasts](https://www.washingtonpost.com/business/2024/03/15/rapamycin-longevity-drug/)
 * [2024-03-17, 16:04:52](https://news.ycombinator.com/item?id=39735380) - [Boinc lets you help cutting-edge science research using your computer](https://boinc.berkeley.edu/index.php)
-* [2024-03-17, 15:57:31](https://news.ycombinator.com/item?id=39735320) - ['Data Is Rectangular' and Other Common Misconceptions [video]](https://www.youtube.com/watch?v=zsvafrKvTTY)
 * [2024-03-17, 15:42:02](https://news.ycombinator.com/item?id=39735205) - [Seeding steel frames brings destroyed coral reefs back to life](https://arstechnica.com/science/2024/03/some-coral-reef-damage-can-be-fixed/)
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
 * [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to mess with your roommate (2018)](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
@@ -28,6 +27,7 @@
 * [2024-03-17, 00:12:03](https://news.ycombinator.com/item?id=39730625) - [Gravitational Collapse of Spongebob](https://twitter.com/PeRossello/status/1769035370031694214)
 * [2024-03-16, 23:47:19](https://news.ycombinator.com/item?id=39730480) - [Show HN: SatCat5, the open-source FPGA Ethernet switch](https://github.com/the-aerospace-corporation/satcat5/blob/main/doc/FAQ.md)
 * [2024-03-16, 16:33:22](https://news.ycombinator.com/item?id=39727280) - [Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
+* [2024-03-15, 14:49:32](https://news.ycombinator.com/item?id=39716397) - [Political Graffiti in Georgian Britain](https://www.historytoday.com/archive/history-matters/political-graffiti-georgian-britain)
 * [2024-03-15, 05:40:27](https://news.ycombinator.com/item?id=39712386) - [Finding Lead in Stanley's Quencher](https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct)
 * [2024-03-14, 16:37:09](https://news.ycombinator.com/item?id=39706070) - [Tests for Consciousness in Humans and Beyond](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00010-X)
 

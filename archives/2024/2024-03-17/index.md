@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 19:22:07](https://news.ycombinator.com/item?id=39737193) - [Grok Weights Available via Torrent](https://twitter.com/grok/status/1769441648910479423)
 * [2024-03-17, 19:09:50](https://news.ycombinator.com/item?id=39737084) - [Superiority by Arthur C. Clarke](https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/)
 * [2024-03-17, 19:06:24](https://news.ycombinator.com/item?id=39737053) - [Heat pumps slash emissions even if powered by a dirty grid](https://www.canarymedia.com/articles/heat-pumps/yes-heat-pumps-slash-emissions-even-if-powered-by-a-dirty-grid)
 * [2024-03-17, 18:57:10](https://news.ycombinator.com/item?id=39736975) - [To Delay Death, Lift Weights](https://www.outsideonline.com/health/training-performance/delay-death-lift-weights/)
