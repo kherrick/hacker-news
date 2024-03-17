@@ -14,7 +14,6 @@
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
 * [2024-03-16, 18:16:17](https://news.ycombinator.com/item?id=39728146) - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-16, 18:03:52](https://news.ycombinator.com/item?id=39728045) - [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
-* [2024-03-16, 17:54:19](https://news.ycombinator.com/item?id=39727963) - [Show HN: An Online Gantt Chart](https://gantt-online.com/gatt/a7bf5b29bd141b99a2bf5b29bd)
 * [2024-03-16, 17:09:20](https://news.ycombinator.com/item?id=39727610) - [Georg Cantor and His Heritage](https://arxiv.org/abs/math/0209244)
 * [2024-03-16, 17:01:34](https://news.ycombinator.com/item?id=39727529) - [Research shows that people who BS are more likely to fall for BS (2021)](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
 * [2024-03-16, 16:53:34](https://news.ycombinator.com/item?id=39727458) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
@@ -29,6 +28,7 @@
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:20:55](https://news.ycombinator.com/item?id=39714721) - [How to Play Renju](https://www.renju.net/rules/)
 * [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
+* [2024-03-14, 11:05:56](https://news.ycombinator.com/item?id=39702383) - [Jonathan Harris (2014)](https://transom.org/2014/jonathan-harris/)
 * [2024-03-14, 09:24:24](https://news.ycombinator.com/item?id=39701838) - [Intro to Hyperscript: Rethinking JavaScript](https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html)
 
 ## [Archives](archives/index.md)
