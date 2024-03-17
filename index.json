@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-03-17, 15:05:05",
+      "https://news.ycombinator.com/item?id=39734920"
+    ],
+    [
+      "Apple's New CarPlay Becomes Last Hope to Crack the Auto Industry",
+      "https://www.bloomberg.com/news/newsletters/2024-03-17/apple-aapl-revamped-carplay-becomes-last-hope-after-apple-car-is-canceled-ltvif8zt"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 14:50:50",
       "https://news.ycombinator.com/item?id=39734825"
     ],
     [
       "Ahead of IPO, Reddit blends advertising into user posts",
       "https://www.theregister.com/2024/03/16/reddit_promoted_posts/"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 14:14:04",
+      "https://news.ycombinator.com/item?id=39734619"
+    ],
+    [
+      "The News Business Is Cratering",
+      "https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "How to mess with your roommate (2018)",
       "https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 12:27:49",
+      "https://news.ycombinator.com/item?id=39733998"
+    ],
+    [
+      "Using ChatGPT for Podcast Suggestions",
+      "https://ryanbuening.com/posts/chatgpt-for-podcast-suggestions/"
     ]
   ],
   [
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2024-03-17, 09:36:42",
-      "https://news.ycombinator.com/item?id=39733107"
-    ],
-    [
-      "Retrowin32: Minesweeper and the Four Month Bug",
-      "https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html"
-    ]
-  ],
-  [
-    [
       "2024-03-17, 08:51:43",
       "https://news.ycombinator.com/item?id=39732932"
     ],
     [
       "Django REST framework 3.15.0",
       "https://www.django-rest-framework.org/community/release-notes/#315x-series"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 07:04:15",
-      "https://news.ycombinator.com/item?id=39732488"
-    ],
-    [
-      "Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test",
-      "https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test"
     ]
   ],
   [
@@ -205,18 +215,8 @@
       "https://news.ycombinator.com/item?id=39728994"
     ],
     [
-      "IBM 360 in UK need a home",
-      "https://www.ibm360.co.uk/"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 18:17:09",
-      "https://news.ycombinator.com/item?id=39728153"
-    ],
-    [
-      "Fifty Things you can do with a Software Defined Radio",
-      "https://blinry.org/50-things-with-sdr/"
+      "IBM 360’s are searching for a new home",
+      "https://www.ibm360.co.uk/?p=911"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "Fuzzing Ladybird with tools from Google Project Zero",
       "https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 02:16:22",
+      "https://news.ycombinator.com/item?id=39722729"
+    ],
+    [
+      "What are the \"worst\" spelling bee pangrams?",
+      "https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Mr. Aecroid's Tables: Calculations and Customs in the Early Modern Countryside",
       "https://www.journals.uchicago.edu/doi/10.1086/728594"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 14:49:22",
-      "https://news.ycombinator.com/item?id=39704763"
-    ],
-    [
-      "Passkeys – Under the Hood",
-      "https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/"
     ]
   ]
 ]
