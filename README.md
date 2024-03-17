@@ -20,7 +20,7 @@
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:00:13](https://news.ycombinator.com/item?id=39728994) - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
 * [2024-03-16, 18:03:52](https://news.ycombinator.com/item?id=39728045) - [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
-* [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
+* [2024-03-16, 16:33:22](https://news.ycombinator.com/item?id=39727280) - [Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
 * [2024-03-16, 12:49:05](https://news.ycombinator.com/item?id=39725445) - [U.S. is investigating Meta for role in drug sales](https://www.wsj.com/tech/u-s-is-investigating-meta-for-role-in-drug-sales-574944cb)
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-15, 22:34:33](https://news.ycombinator.com/item?id=39721388) - [APL Quest](https://www.dyalog.com/blog/2024/03/the-apl-quest-series/)
@@ -28,8 +28,8 @@
 * [2024-03-15, 12:56:12](https://news.ycombinator.com/item?id=39714973) - [Elizabeth Goodspeed on the delicate art of nostalgia in branding](https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-heritage-branding-graphic-design-130324)
 * [2024-03-15, 05:40:27](https://news.ycombinator.com/item?id=39712386) - [Finding Lead in Stanley's Quencher](https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct)
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
+* [2024-03-14, 22:09:38](https://news.ycombinator.com/item?id=39709531) - [Mr. Aecroid's Tables: Calculations and Customs in the Early Modern Countryside](https://www.journals.uchicago.edu/doi/10.1086/728594)
 * [2024-03-14, 14:49:22](https://news.ycombinator.com/item?id=39704763) - [Passkeys – Under the Hood](https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/)
-* [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
 
 ## [Archives](archives/index.md)
 

@@ -54,6 +54,7 @@
 * [2024-03-16, 16:53:34](https://news.ycombinator.com/item?id=39727458) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
 * [2024-03-16, 16:49:55](https://news.ycombinator.com/item?id=39727432) - [LLM Inference Speed of Light](https://zeux.io/2024/03/15/llm-inference-sol/)
 * [2024-03-16, 16:43:34](https://news.ycombinator.com/item?id=39727376) - [Ask HN: Why can't image generation models spell?](https://news.ycombinator.com/item?id=39727376)
+* [2024-03-16, 16:33:22](https://news.ycombinator.com/item?id=39727280) - [Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
 * [2024-03-16, 16:31:09](https://news.ycombinator.com/item?id=39727257) - [SpaceX is building spy satellite network for US intelligence agency, sources say](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/)
 * [2024-03-16, 16:26:44](https://news.ycombinator.com/item?id=39727217) - [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)
 * [2024-03-16, 15:49:26](https://news.ycombinator.com/item?id=39726937) - [Ask HN: Non-duopoly smart phone in Sweden?](https://news.ycombinator.com/item?id=39726937)
