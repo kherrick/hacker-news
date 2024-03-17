@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-03-17, 15:28:12",
+      "https://news.ycombinator.com/item?id=39735096"
+    ],
+    [
+      "Why Are There Suddenly So Many Car Washes?",
+      "https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 14:50:50",
       "https://news.ycombinator.com/item?id=39734825"
     ],
     [
       "Ahead of IPO, Reddit blends advertising into user posts",
       "https://www.theregister.com/2024/03/16/reddit_promoted_posts/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 14:14:04",
-      "https://news.ycombinator.com/item?id=39734619"
-    ],
-    [
-      "The News Business Is Cratering",
-      "https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187"
     ]
   ],
   [
@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2024-03-17, 13:38:17",
-      "https://news.ycombinator.com/item?id=39734406"
+      "2024-03-17, 13:44:03",
+      "https://news.ycombinator.com/item?id=39734440"
     ],
     [
-      "Dot: Standalone app for local RAG with Mistral 7B",
-      "https://github.com/alexpinel/Dot"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 13:05:23",
-      "https://news.ycombinator.com/item?id=39734231"
-    ],
-    [
-      "How to mess with your roommate (2018)",
-      "https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 12:27:49",
-      "https://news.ycombinator.com/item?id=39733998"
-    ],
-    [
-      "Using ChatGPT for Podcast Suggestions",
-      "https://ryanbuening.com/posts/chatgpt-for-podcast-suggestions/"
+      "Plentiful, high-paying jobs in the age of AI",
+      "https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the"
     ]
   ],
   [
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2024-03-17, 07:04:15",
+      "https://news.ycombinator.com/item?id=39732488"
+    ],
+    [
+      "Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test",
+      "https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 05:17:22",
       "https://news.ycombinator.com/item?id=39732116"
     ],
@@ -147,16 +137,6 @@
     [
       "The return of the frame pointers",
       "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 01:09:05",
-      "https://news.ycombinator.com/item?id=39730962"
-    ],
-    [
-      "Debloat non-rooted Android devices",
-      "https://github.com/0x192/universal-android-debloater"
     ]
   ],
   [
@@ -207,6 +187,26 @@
     [
       "IBM 360’s are searching for a new home",
       "https://www.ibm360.co.uk/?p=911"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 18:17:09",
+      "https://news.ycombinator.com/item?id=39728153"
+    ],
+    [
+      "Fifty Things you can do with a Software Defined Radio",
+      "https://blinry.org/50-things-with-sdr/"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 16:53:34",
+      "https://news.ycombinator.com/item?id=39727458"
+    ],
+    [
+      "Parsing URLs in Python",
+      "https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html"
     ]
   ],
   [
