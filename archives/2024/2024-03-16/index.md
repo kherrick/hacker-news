@@ -35,6 +35,7 @@
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
 * [2024-03-16, 19:01:44](https://news.ycombinator.com/item?id=39728516) - [ECC vs. non-ECC RAM and ZFS (2013)](https://www.truenas.com/community/threads/ecc-vs-non-ecc-ram-and-zfs.15449/)
 * [2024-03-16, 18:56:34](https://news.ycombinator.com/item?id=39728456) - [Hackathon Perl / Open Food Facts in Paris](https://forum.openfoodfacts.org/t/hackathon-perl-open-food-facts-in-paris/530)
+* [2024-03-16, 18:17:09](https://news.ycombinator.com/item?id=39728153) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2024-03-16, 18:16:17](https://news.ycombinator.com/item?id=39728146) - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-16, 18:03:52](https://news.ycombinator.com/item?id=39728045) - [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
 * [2024-03-16, 17:54:19](https://news.ycombinator.com/item?id=39727963) - [Show HN: An Online Gantt Chart](https://gantt-online.com/gatt/a7bf5b29bd141b99a2bf5b29bd)
