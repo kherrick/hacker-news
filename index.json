@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-17, 03:59:07",
+      "https://news.ycombinator.com/item?id=39731824"
+    ],
+    [
+      "The Return of the Frame Pointers",
+      "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 02:49:37",
       "https://news.ycombinator.com/item?id=39731503"
     ],
@@ -67,16 +77,6 @@
     [
       "Mintlify GitHub read/write token leak",
       "https://mintlify.com/blog/incident-march-13"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 22:27:38",
-      "https://news.ycombinator.com/item?id=39730042"
-    ],
-    [
-      "Application.garden – a platform for hosting small web apps written in Clojure",
-      "https://application.garden/signup"
     ]
   ],
   [
