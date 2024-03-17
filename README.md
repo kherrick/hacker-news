@@ -16,6 +16,7 @@
 * [2024-03-17, 16:04:52](https://news.ycombinator.com/item?id=39735380) - [Boinc lets you help cutting-edge science research using your computer](https://boinc.berkeley.edu/index.php)
 * [2024-03-17, 15:28:12](https://news.ycombinator.com/item?id=39735096) - [Why are there suddenly so many car washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
+* [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to mess with your roommate (2018)](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
 * [2024-03-17, 11:29:55](https://news.ycombinator.com/item?id=39733685) - [History of Uniform Random Number Generation (2017) [pdf]](https://www.informs-sim.org/wsc17papers/includes/files/016.pdf)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 * [2024-03-17, 10:11:48](https://news.ycombinator.com/item?id=39733257) - [Heinlein's Fan Mail Solution](https://kk.org/ct2/heinleins-fan-mail-solution/)
@@ -29,7 +30,6 @@
 * [2024-03-16, 02:16:22](https://news.ycombinator.com/item?id=39722729) - [What are the \"worst\" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
 * [2024-03-15, 14:49:32](https://news.ycombinator.com/item?id=39716397) - [Political Graffiti in Georgian Britain](https://www.historytoday.com/archive/history-matters/political-graffiti-georgian-britain)
 * [2024-03-15, 09:19:50](https://news.ycombinator.com/item?id=39713605) - [The Vicuñas and the $9k Sweater](https://www.bloomberg.com/features/2024-lvmh-loro-piana-vicuna-sweater-labor/)
-* [2024-03-15, 05:40:27](https://news.ycombinator.com/item?id=39712386) - [Finding lead in Stanley's Quencher](https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct)
 
 ## [Archives](archives/index.md)
 
