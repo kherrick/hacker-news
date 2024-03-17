@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
+* [2024-03-17, 09:38:45](https://news.ycombinator.com/item?id=39733117) - [Liebreich: Net Zero Will Be Harder Than You Think – and Easier. Part II: Easier](https://about.bnef.com/blog/liebreich-net-zero-will-be-harder-than-you-think-and-easier-part-ii-easier/)
 * [2024-03-17, 08:51:43](https://news.ycombinator.com/item?id=39732932) - [Django REST framework: 3.15.0 Release (Django 5.0 support)](https://www.django-rest-framework.org/community/release-notes/#315x-series)
 * [2024-03-17, 07:04:15](https://news.ycombinator.com/item?id=39732488) - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
 * [2024-03-17, 05:17:22](https://news.ycombinator.com/item?id=39732116) - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
@@ -23,7 +24,6 @@
 * [2024-03-16, 16:53:34](https://news.ycombinator.com/item?id=39727458) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
 * [2024-03-16, 12:49:05](https://news.ycombinator.com/item?id=39725445) - [U.S. is investigating Meta for role in drug sales](https://www.wsj.com/tech/u-s-is-investigating-meta-for-role-in-drug-sales-574944cb)
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
-* [2024-03-16, 01:27:14](https://news.ycombinator.com/item?id=39722498) - [MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
 * [2024-03-15, 22:34:33](https://news.ycombinator.com/item?id=39721388) - [APL Quest](https://www.dyalog.com/blog/2024/03/the-apl-quest-series/)
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:56:12](https://news.ycombinator.com/item?id=39714973) - [Elizabeth Goodspeed on the delicate art of nostalgia in branding](https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-heritage-branding-graphic-design-130324)

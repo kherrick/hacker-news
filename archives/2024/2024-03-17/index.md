@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
+* [2024-03-17, 09:38:45](https://news.ycombinator.com/item?id=39733117) - [Liebreich: Net Zero Will Be Harder Than You Think – and Easier. Part II: Easier](https://about.bnef.com/blog/liebreich-net-zero-will-be-harder-than-you-think-and-easier-part-ii-easier/)
 * [2024-03-17, 08:51:43](https://news.ycombinator.com/item?id=39732932) - [Django REST framework: 3.15.0 Release (Django 5.0 support)](https://www.django-rest-framework.org/community/release-notes/#315x-series)
 * [2024-03-17, 07:35:29](https://news.ycombinator.com/item?id=39732609) - [Tesla Is Getting Absolutely Destroyed Right Now](https://futurism.com/tesla-is-getting-absolutely-destroyed)
 * [2024-03-17, 07:04:15](https://news.ycombinator.com/item?id=39732488) - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
