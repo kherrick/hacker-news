@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-17, 02:19:30](https://news.ycombinator.com/item?id=39731369) - [Executive Order 12333 (1981) [pdf]](https://dpcld.defense.gov/Portals/49/Documents/Civil/eo-12333-2008.pdf)
 * [2024-03-17, 01:19:26](https://news.ycombinator.com/item?id=39731026) - [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
@@ -15,10 +16,10 @@
 * [2024-03-16, 17:09:20](https://news.ycombinator.com/item?id=39727610) - [Georg Cantor and His Heritage](https://arxiv.org/abs/math/0209244)
 * [2024-03-16, 17:01:34](https://news.ycombinator.com/item?id=39727529) - [Research shows that people who BS are more likely to fall for BS (2021)](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
 * [2024-03-16, 16:53:34](https://news.ycombinator.com/item?id=39727458) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
+* [2024-03-16, 16:49:55](https://news.ycombinator.com/item?id=39727432) - [LLM Inference Speed of Light](https://zeux.io/2024/03/15/llm-inference-sol/)
 * [2024-03-16, 16:26:44](https://news.ycombinator.com/item?id=39727217) - [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
 * [2024-03-16, 15:17:42](https://news.ycombinator.com/item?id=39726656) - [The Economics of Pirate Radio (2020)](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
-* [2024-03-16, 14:32:51](https://news.ycombinator.com/item?id=39726292) - [macOS 14.4 causes JVM crashes](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 * [2024-03-16, 14:20:33](https://news.ycombinator.com/item?id=39726172) - [Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript](https://bewcloud.com)
 * [2024-03-16, 13:24:12](https://news.ycombinator.com/item?id=39725678) - [Y Combinator's chief startup whisperer is demoting himself](https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/)
 * [2024-03-16, 12:37:53](https://news.ycombinator.com/item?id=39725384) - [Apple MM1: Methods, Analysis and Insights from Multimodal LLM Pre-Training](https://arxiv.org/abs/2403.09611)
@@ -29,7 +30,6 @@
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:20:55](https://news.ycombinator.com/item?id=39714721) - [How to Play Renju](https://www.renju.net/rules/)
 * [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
-* [2024-03-14, 11:05:56](https://news.ycombinator.com/item?id=39702383) - [Jonathan Harris (2014)](https://transom.org/2014/jonathan-harris/)
 
 ## [Archives](archives/index.md)
 

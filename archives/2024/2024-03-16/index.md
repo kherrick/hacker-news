@@ -47,6 +47,7 @@
 * [2024-03-16, 17:05:40](https://news.ycombinator.com/item?id=39727568) - [Chewing Gum Is Associated with Better Diet Quality but Not Oral Health Measures](https://www.tandfonline.com/doi/full/10.1080/27697061.2023.2300441)
 * [2024-03-16, 17:01:34](https://news.ycombinator.com/item?id=39727529) - [Research shows that people who BS are more likely to fall for BS (2021)](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
 * [2024-03-16, 16:53:34](https://news.ycombinator.com/item?id=39727458) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
+* [2024-03-16, 16:49:55](https://news.ycombinator.com/item?id=39727432) - [LLM Inference Speed of Light](https://zeux.io/2024/03/15/llm-inference-sol/)
 * [2024-03-16, 16:43:34](https://news.ycombinator.com/item?id=39727376) - [Ask HN: Why can't image generation models spell?](https://news.ycombinator.com/item?id=39727376)
 * [2024-03-16, 16:31:09](https://news.ycombinator.com/item?id=39727257) - [SpaceX is building spy satellite network for US intelligence agency, sources say](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/)
 * [2024-03-16, 16:26:44](https://news.ycombinator.com/item?id=39727217) - [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)
