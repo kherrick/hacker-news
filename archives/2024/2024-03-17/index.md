@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
 * [2024-03-17, 07:04:15](https://news.ycombinator.com/item?id=39732488) - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
+* [2024-03-17, 06:42:00](https://news.ycombinator.com/item?id=39732419) - [As AI tools get smarter, they're growing more covertly racist, experts find](https://www.theguardian.com/technology/2024/mar/16/ai-racism-chatgpt-gemini-bias)
 * [2024-03-17, 05:17:22](https://news.ycombinator.com/item?id=39732116) - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
 * [2024-03-17, 05:14:43](https://news.ycombinator.com/item?id=39732106) - [A JavaScript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 * [2024-03-17, 04:34:53](https://news.ycombinator.com/item?id=39731960) - [We were wizards – a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
