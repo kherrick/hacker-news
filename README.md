@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-17, 22:48:47](https://news.ycombinator.com/item?id=39738759) - [MANATEE(lm): Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E?usp=sharing)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
 * [2024-03-17, 19:55:04](https://news.ycombinator.com/item?id=39737474) - [Pine64 March update: making waves](https://pine64.org/2024/03/17/march-update-making-waves/)
 * [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
@@ -17,7 +18,6 @@
 * [2024-03-17, 15:28:12](https://news.ycombinator.com/item?id=39735096) - [Why are there suddenly so many car washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
 * [2024-03-17, 11:29:55](https://news.ycombinator.com/item?id=39733685) - [History of Uniform Random Number Generation (2017) [pdf]](https://www.informs-sim.org/wsc17papers/includes/files/016.pdf)
-* [2024-03-17, 11:25:11](https://news.ycombinator.com/item?id=39733661) - [Super Micro Computer has gone from an obscure server maker to $60B market cap](https://www.wsj.com/tech/ai/super-micro-computer-company-profile-d93a41da)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 * [2024-03-17, 10:11:48](https://news.ycombinator.com/item?id=39733257) - [Heinlein's Fan Mail Solution](https://kk.org/ct2/heinleins-fan-mail-solution/)
 * [2024-03-17, 09:36:42](https://news.ycombinator.com/item?id=39733107) - [Retrowin32: Minesweeper and the Four Month Bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
