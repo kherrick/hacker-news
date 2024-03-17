@@ -82,6 +82,7 @@
 * [2024-03-15, 10:58:23](https://news.ycombinator.com/item?id=39714175) - [Banish OEM self-signed certs forever and roll your own private LetsEncrypt](https://arstechnica.com/information-technology/2024/03/banish-oem-self-signed-certs-forever-and-roll-your-own-private-letsencrypt/)
 * [2024-03-15, 10:55:22](https://news.ycombinator.com/item?id=39714155) - [IAM Is the Worst](https://matduggan.com/iam-is-the-worst/)
 * [2024-03-15, 10:36:37](https://news.ycombinator.com/item?id=39714053) - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
+* [2024-03-15, 10:17:11](https://news.ycombinator.com/item?id=39713953) - [Free Math Texts](https://hefferon.net/)
 * [2024-03-15, 10:06:39](https://news.ycombinator.com/item?id=39713891) - [Britain's decade of Art Deco densification](https://www.worksinprogress.news/p/britains-interwar-apartment-boom)
 * [2024-03-15, 09:50:39](https://news.ycombinator.com/item?id=39713790) - [Photoroom (YC S20) Is Hiring a Front End State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-15, 09:24:50](https://news.ycombinator.com/item?id=39713634) - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
