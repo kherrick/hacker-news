@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 17:49:01](https://news.ycombinator.com/item?id=39736354) - [Start with a Minimum Viable System](https://www.dannyguo.com/blog/start-with-a-minimum-viable-system)
+* [2024-03-17, 17:48:45](https://news.ycombinator.com/item?id=39736350) - [Luxury bunkers to tactical vehicles, ultra-rich are preparing for the Big One](https://www.cbc.ca/news/billionaire-bunkers-doomsday-1.7130152)
 * [2024-03-17, 17:27:25](https://news.ycombinator.com/item?id=39736141) - [The Luddite's Guide to Defending Cash (Part 1)](https://www.asomo.co/p/the-luddites-guide-to-defending-physical-cash)
 * [2024-03-17, 16:48:18](https://news.ycombinator.com/item?id=39735764) - [Linux 6.9 Change Allows Old Macs Using Firewire to Enjoy Virtualization Support](https://www.phoronix.com/news/Linux-6.9-PCI)
 * [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 * [2024-03-17, 16:39:37](https://news.ycombinator.com/item?id=39735675) - [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
+* [2024-03-17, 16:38:45](https://news.ycombinator.com/item?id=39735669) - [Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:27:49](https://news.ycombinator.com/item?id=39735587) - [F-35 Cleared for Full-Rate Production 17 Years After Its First Flight](https://www.twz.com/air/f-35-cleared-for-full-rate-production-17-years-after-its-first-flight)
 * [2024-03-17, 16:25:45](https://news.ycombinator.com/item?id=39735570) - [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
 * [2024-03-17, 16:21:17](https://news.ycombinator.com/item?id=39735531) - [Python Users: BIPClip Is After Your Bitcoin Wallet, via PyPI](https://thenewstack.io/python-users-bibclip-is-after-your-bitcoin-wallet-via-pypi/)
