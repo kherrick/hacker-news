@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
 * [2024-03-17, 16:19:33](https://news.ycombinator.com/item?id=39735510) - [Simulation of Putting 4M Suns in a Black Hole over New York [video]](https://www.youtube.com/watch?v=pDUUT2Y_9qk)
+* [2024-03-17, 16:19:10](https://news.ycombinator.com/item?id=39735506) - [How the abnormal gets normalised – and what to do about it](https://www.bbc.com/future/article/20240314-how-the-abnormal-gets-normalised-and-what-to-do-about-it)
+* [2024-03-17, 16:16:15](https://news.ycombinator.com/item?id=39735480) - [htmx 2.0.0-beta1](https://v2-0v2-0.htmx.org/posts/2024-03-15-htmx-2-0-0-beta1-is-released/)
 * [2024-03-17, 16:14:52](https://news.ycombinator.com/item?id=39735465) - [Ask God's words in different religions with AI](https://askreligion.com/)
 * [2024-03-17, 16:05:16](https://news.ycombinator.com/item?id=39735382) - [A cheap, generic drug became a darling of longevity enthusiasts](https://www.washingtonpost.com/business/2024/03/15/rapamycin-longevity-drug/)
 * [2024-03-17, 15:57:31](https://news.ycombinator.com/item?id=39735320) - ['Data Is Rectangular' and Other Common Misconceptions [video]](https://www.youtube.com/watch?v=zsvafrKvTTY)
