@@ -8,6 +8,7 @@
 * [2024-03-16, 23:36:41](https://news.ycombinator.com/item?id=39730426) - [Florida Is on Its Way to Banning – and Criminalizing – Alternative Meat](https://www.foodandwine.com/florida-lab-grown-meat-ban-legislation-8609560)
 * [2024-03-16, 23:19:42](https://news.ycombinator.com/item?id=39730323) - [Loblaw facing backlash as it tests receipt scanners at self-checkout](https://www.cbc.ca/news/business/loblaw-receipt-scanners-1.7141850)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
+* [2024-03-16, 22:47:31](https://news.ycombinator.com/item?id=39730161) - [About tweaking the fundamental settings of your brain](http://bewelltuned.com)
 * [2024-03-16, 22:43:23](https://news.ycombinator.com/item?id=39730132) - [Seattle Law Mandating Higher Delivery Driver Pay Is a Disaster](https://reason.com/2024/03/16/seattle-law-mandating-higher-delivery-driver-pay-is-a-disaster/)
 * [2024-03-16, 22:27:38](https://news.ycombinator.com/item?id=39730042) - [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
 * [2024-03-16, 22:17:53](https://news.ycombinator.com/item?id=39729984) - [Prevalence of sleep-disordered breathing in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404207/)
