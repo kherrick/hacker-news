@@ -10,7 +10,6 @@
 * [2024-03-17, 05:17:22](https://news.ycombinator.com/item?id=39732116) - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
 * [2024-03-17, 04:34:53](https://news.ycombinator.com/item?id=39731960) - [We were wizards – a foreword to Learning Perl (1993)](https://jwgoerlich.com/we-were-wizards-learning-perl/)
 * [2024-03-17, 03:59:07](https://news.ycombinator.com/item?id=39731824) - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
-* [2024-03-17, 01:48:16](https://news.ycombinator.com/item?id=39731195) - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-17, 01:09:05](https://news.ycombinator.com/item?id=39730962) - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
 * [2024-03-17, 00:56:32](https://news.ycombinator.com/item?id=39730883) - [Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
@@ -30,6 +29,7 @@
 * [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 22:09:38](https://news.ycombinator.com/item?id=39709531) - [Mr. Aecroid's Tables: Calculations and Customs in the Early Modern Countryside](https://www.journals.uchicago.edu/doi/10.1086/728594)
 * [2024-03-14, 14:49:22](https://news.ycombinator.com/item?id=39704763) - [Passkeys – Under the Hood](https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/)
+* [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
 
 ## [Archives](archives/index.md)
 
