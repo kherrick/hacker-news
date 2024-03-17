@@ -14,6 +14,7 @@
 * [2024-03-17, 15:57:31](https://news.ycombinator.com/item?id=39735320) - ['Data Is Rectangular' and Other Common Misconceptions [video]](https://www.youtube.com/watch?v=zsvafrKvTTY)
 * [2024-03-17, 15:42:02](https://news.ycombinator.com/item?id=39735205) - [Seeding steel frames brings destroyed coral reefs back to life](https://arstechnica.com/science/2024/03/some-coral-reef-damage-can-be-fixed/)
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
+* [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to mess with your roommate (2018)](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
 * [2024-03-17, 13:01:52](https://news.ycombinator.com/item?id=39734207) - [OxidOS Automotive](https://oxidos.io/)
 * [2024-03-17, 11:55:42](https://news.ycombinator.com/item?id=39733829) - [Gimballed Stove](https://100r.co/site/gimballed_stove.html)
 * [2024-03-17, 11:29:55](https://news.ycombinator.com/item?id=39733685) - [History of Uniform Random Number Generation (2017) [pdf]](https://www.informs-sim.org/wsc17papers/includes/files/016.pdf)
@@ -28,7 +29,6 @@
 * [2024-03-16, 23:47:19](https://news.ycombinator.com/item?id=39730480) - [Show HN: SatCat5, the open-source FPGA Ethernet switch](https://github.com/the-aerospace-corporation/satcat5/blob/main/doc/FAQ.md)
 * [2024-03-16, 16:33:22](https://news.ycombinator.com/item?id=39727280) - [Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
 * [2024-03-15, 14:49:32](https://news.ycombinator.com/item?id=39716397) - [Political Graffiti in Georgian Britain](https://www.historytoday.com/archive/history-matters/political-graffiti-georgian-britain)
-* [2024-03-15, 05:40:27](https://news.ycombinator.com/item?id=39712386) - [Finding Lead in Stanley's Quencher](https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct)
 * [2024-03-14, 16:37:09](https://news.ycombinator.com/item?id=39706070) - [Tests for Consciousness in Humans and Beyond](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00010-X)
 
 ## [Archives](archives/index.md)
