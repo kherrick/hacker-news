@@ -18,7 +18,6 @@
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
 * [2024-03-17, 13:44:03](https://news.ycombinator.com/item?id=39734440) - [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)
 * [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to mess with your roommate (2018)](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
-* [2024-03-17, 11:25:11](https://news.ycombinator.com/item?id=39733661) - [Super Micro Computer has gone from an obscure server maker to $60B market cap](https://www.wsj.com/tech/ai/super-micro-computer-company-profile-d93a41da)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 * [2024-03-17, 10:11:48](https://news.ycombinator.com/item?id=39733257) - [Heinlein's Fan Mail Solution](https://kk.org/ct2/heinleins-fan-mail-solution/)
 * [2024-03-17, 05:17:22](https://news.ycombinator.com/item?id=39732116) - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
@@ -29,6 +28,7 @@
 * [2024-03-16, 23:47:19](https://news.ycombinator.com/item?id=39730480) - [Show HN: SatCat5, the open-source FPGA Ethernet switch](https://github.com/the-aerospace-corporation/satcat5/blob/main/doc/FAQ.md)
 * [2024-03-16, 16:33:22](https://news.ycombinator.com/item?id=39727280) - [Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
 * [2024-03-16, 02:16:22](https://news.ycombinator.com/item?id=39722729) - [What are the \"worst\" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
+* [2024-03-15, 08:48:17](https://news.ycombinator.com/item?id=39713435) - [Show HN: Making a Compiler to Prove Tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
 * [2024-03-15, 05:40:27](https://news.ycombinator.com/item?id=39712386) - [Finding Lead in Stanley's Quencher](https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct)
 
 ## [Archives](archives/index.md)
