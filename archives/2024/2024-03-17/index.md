@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 05:14:43](https://news.ycombinator.com/item?id=39732106) - [A JavaScript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 * [2024-03-17, 03:59:07](https://news.ycombinator.com/item?id=39731824) - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 * [2024-03-17, 02:49:37](https://news.ycombinator.com/item?id=39731503) - [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
 * [2024-03-17, 02:19:30](https://news.ycombinator.com/item?id=39731369) - [Executive Order 12333 (1981) [pdf]](https://dpcld.defense.gov/Portals/49/Documents/Civil/eo-12333-2008.pdf)
