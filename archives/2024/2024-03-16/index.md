@@ -6,6 +6,7 @@
 
 * [2024-03-16, 23:37:13](https://news.ycombinator.com/item?id=39730428) - [Sophisticated 'burglary tourists' fly from S America to rob wealthy homes – LAPD](https://www.latimes.com/california/story/2024-03-16/los-angeles-police-south-american-crime-tourism)
 * [2024-03-16, 23:36:41](https://news.ycombinator.com/item?id=39730426) - [Florida Is on Its Way to Banning – and Criminalizing – Alternative Meat](https://www.foodandwine.com/florida-lab-grown-meat-ban-legislation-8609560)
+* [2024-03-16, 23:33:32](https://news.ycombinator.com/item?id=39730412) - [Supercharging Fuel Cells with Caffeine](https://www.chiba-u.ac.jp/e/others/topics/topics/supercharging_fuel_cells_with_caffeine.html)
 * [2024-03-16, 23:19:42](https://news.ycombinator.com/item?id=39730323) - [Loblaw facing backlash as it tests receipt scanners at self-checkout](https://www.cbc.ca/news/business/loblaw-receipt-scanners-1.7141850)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 * [2024-03-16, 22:47:31](https://news.ycombinator.com/item?id=39730161) - [About tweaking the fundamental settings of your brain](http://bewelltuned.com)
