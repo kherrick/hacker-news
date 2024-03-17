@@ -90,6 +90,7 @@
 * [2024-03-15, 09:24:50](https://news.ycombinator.com/item?id=39713634) - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 * [2024-03-15, 09:05:02](https://news.ycombinator.com/item?id=39713529) - [What's the fastest EC2 instance CPU?](https://runs-on.com/reference/benchmarks-ec2-instances/)
 * [2024-03-15, 08:58:53](https://news.ycombinator.com/item?id=39713489) - [McDonald's customers unable to order after systems outage](https://www.bbc.co.uk/news/business-68573106)
+* [2024-03-15, 08:48:17](https://news.ycombinator.com/item?id=39713435) - [Show HN: Making a Compiler to Prove Tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
 * [2024-03-15, 08:40:04](https://news.ycombinator.com/item?id=39713383) - [Work life culture is ruined today. My Experience of Last 12 Years](https://enginebogie.com/public/charchaa/post/the-decline-of-work-life-balance-a-12-year-tech-industry-perspective/144)
 * [2024-03-15, 08:37:42](https://news.ycombinator.com/item?id=39713370) - [Sunlight, a Certificate Transparency log implementation](https://letsencrypt.org/2024/03/14/introducing-sunlight.html)
 * [2024-03-15, 08:36:13](https://news.ycombinator.com/item?id=39713362) - [Everest 2024: Nepal's \"GPS Chip\" Plan Has Major Problems](https://www.alanarnette.com/blog/2024/03/05/everest-2024-nepals-gps-chip-plan-has-major-problems/)
