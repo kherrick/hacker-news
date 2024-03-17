@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-17, 20:11:59](https://news.ycombinator.com/item?id=39737622) - [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
+* [2024-03-17, 20:04:50](https://news.ycombinator.com/item?id=39737548) - [Meow.camera – Live street cat feeder cams](https://meow.camera/viewer/)
 * [2024-03-17, 20:01:19](https://news.ycombinator.com/item?id=39737526) - [Neato](https://notes.neatnik.net/2024/03/neato)
 * [2024-03-17, 19:33:37](https://news.ycombinator.com/item?id=39737281) - [Grok](https://github.com/xai-org/grok)
 * [2024-03-17, 19:14:56](https://news.ycombinator.com/item?id=39737122) - [Vector: A high-performance observability data pipeline](https://github.com/vectordotdev/vector)
@@ -12,7 +13,6 @@
 * [2024-03-17, 16:38:45](https://news.ycombinator.com/item?id=39735669) - [Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:25:45](https://news.ycombinator.com/item?id=39735570) - [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
 * [2024-03-17, 16:04:52](https://news.ycombinator.com/item?id=39735380) - [Boinc lets you help cutting-edge science research using your computer](https://boinc.berkeley.edu/index.php)
-* [2024-03-17, 15:57:31](https://news.ycombinator.com/item?id=39735320) - ['Data Is Rectangular' and Other Common Misconceptions [video]](https://www.youtube.com/watch?v=zsvafrKvTTY)
 * [2024-03-17, 15:42:02](https://news.ycombinator.com/item?id=39735205) - [Seeding steel frames brings destroyed coral reefs back to life](https://arstechnica.com/science/2024/03/some-coral-reef-damage-can-be-fixed/)
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
 * [2024-03-17, 13:01:52](https://news.ycombinator.com/item?id=39734207) - [OxidOS Automotive](https://oxidos.io/)

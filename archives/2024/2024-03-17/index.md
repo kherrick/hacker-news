@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
 * [2024-03-17, 20:11:59](https://news.ycombinator.com/item?id=39737622) - [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
+* [2024-03-17, 20:04:50](https://news.ycombinator.com/item?id=39737548) - [Meow.camera – Live street cat feeder cams](https://meow.camera/viewer/)
 * [2024-03-17, 20:01:19](https://news.ycombinator.com/item?id=39737526) - [Neato](https://notes.neatnik.net/2024/03/neato)
 * [2024-03-17, 19:33:37](https://news.ycombinator.com/item?id=39737281) - [Grok](https://github.com/xai-org/grok)
 * [2024-03-17, 19:22:07](https://news.ycombinator.com/item?id=39737193) - [Grok Weights Available via Torrent](https://twitter.com/grok/status/1769441648910479423)
