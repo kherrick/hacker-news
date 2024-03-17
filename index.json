@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-17, 11:42:59",
+      "https://news.ycombinator.com/item?id=39733746"
+    ],
+    [
+      "Imitation Learning",
+      "https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 11:14:56",
       "https://news.ycombinator.com/item?id=39733605"
     ],
@@ -87,16 +97,6 @@
     [
       "The return of the frame pointers",
       "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 01:48:16",
-      "https://news.ycombinator.com/item?id=39731195"
-    ],
-    [
-      "Losing Faith on Testing",
-      "https://registerspill.thorstenball.com/p/a-few-words-on-testing"
     ]
   ],
   [
@@ -201,26 +201,6 @@
   ],
   [
     [
-      "2024-03-16, 18:03:52",
-      "https://news.ycombinator.com/item?id=39728045"
-    ],
-    [
-      "Lambda on hard mode: serverless HTTP in Rust",
-      "https://modal.com/blog/serverless-http"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 17:09:20",
-      "https://news.ycombinator.com/item?id=39727610"
-    ],
-    [
-      "Georg Cantor and His Heritage",
-      "https://arxiv.org/abs/math/0209244"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 12:49:05",
       "https://news.ycombinator.com/item?id=39725445"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2024-03-15, 13:58:14",
+      "https://news.ycombinator.com/item?id=39715793"
+    ],
+    [
+      "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
+      "https://github.com/robjinman/richard"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 12:56:12",
       "https://news.ycombinator.com/item?id=39714973"
     ],
     [
       "Elizabeth Goodspeed on the delicate art of nostalgia in branding",
       "https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-heritage-branding-graphic-design-130324"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 05:40:27",
+      "https://news.ycombinator.com/item?id=39712386"
+    ],
+    [
+      "Finding Lead in Stanley's Quencher",
+      "https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct"
     ]
   ],
   [
