@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-17, 08:51:43](https://news.ycombinator.com/item?id=39732932) - [Django REST framework: 3.15.0 Release (Django 5.0 support)](https://www.django-rest-framework.org/community/release-notes/#315x-series)
+* [2024-03-17, 07:35:29](https://news.ycombinator.com/item?id=39732609) - [Tesla Is Getting Absolutely Destroyed Right Now](https://futurism.com/tesla-is-getting-absolutely-destroyed)
 * [2024-03-17, 07:04:15](https://news.ycombinator.com/item?id=39732488) - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
 * [2024-03-17, 05:17:22](https://news.ycombinator.com/item?id=39732116) - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
 * [2024-03-17, 04:34:53](https://news.ycombinator.com/item?id=39731960) - [We were wizards – a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
@@ -12,7 +13,6 @@
 * [2024-03-17, 00:35:17](https://news.ycombinator.com/item?id=39730759) - [The Plight of Japan's AMA Divers](https://nautil.us/the-plight-of-japans-ama-divers-533289/)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 * [2024-03-16, 22:47:31](https://news.ycombinator.com/item?id=39730161) - [About tweaking the fundamental settings of your brain](http://bewelltuned.com)
-* [2024-03-16, 20:15:17](https://news.ycombinator.com/item?id=39729112) - [Hotdoc Documentation Framework](https://hotdoc.github.io/index.html)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:00:13](https://news.ycombinator.com/item?id=39728994) - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
 * [2024-03-16, 19:02:08](https://news.ycombinator.com/item?id=39728519) - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
