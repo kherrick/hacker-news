@@ -89,6 +89,7 @@
 * [2024-03-15, 10:06:39](https://news.ycombinator.com/item?id=39713891) - [Britain's decade of Art Deco densification](https://www.worksinprogress.news/p/britains-interwar-apartment-boom)
 * [2024-03-15, 09:50:39](https://news.ycombinator.com/item?id=39713790) - [Photoroom (YC S20) Is Hiring a Front End State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-03-15, 09:24:50](https://news.ycombinator.com/item?id=39713634) - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
+* [2024-03-15, 09:19:50](https://news.ycombinator.com/item?id=39713605) - [The Vicuñas and the $9k Sweater](https://www.bloomberg.com/features/2024-lvmh-loro-piana-vicuna-sweater-labor/)
 * [2024-03-15, 09:05:02](https://news.ycombinator.com/item?id=39713529) - [What's the fastest EC2 instance CPU?](https://runs-on.com/reference/benchmarks-ec2-instances/)
 * [2024-03-15, 08:58:53](https://news.ycombinator.com/item?id=39713489) - [McDonald's customers unable to order after systems outage](https://www.bbc.co.uk/news/business-68573106)
 * [2024-03-15, 08:48:17](https://news.ycombinator.com/item?id=39713435) - [Show HN: Making a Compiler to Prove Tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
