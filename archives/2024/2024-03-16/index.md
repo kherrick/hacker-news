@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 23:37:13](https://news.ycombinator.com/item?id=39730428) - [Sophisticated 'burglary tourists' fly from S America to rob wealthy homes – LAPD](https://www.latimes.com/california/story/2024-03-16/los-angeles-police-south-american-crime-tourism)
+* [2024-03-16, 23:36:41](https://news.ycombinator.com/item?id=39730426) - [Florida Is on Its Way to Banning – and Criminalizing – Alternative Meat](https://www.foodandwine.com/florida-lab-grown-meat-ban-legislation-8609560)
+* [2024-03-16, 23:19:42](https://news.ycombinator.com/item?id=39730323) - [Loblaw facing backlash as it tests receipt scanners at self-checkout](https://www.cbc.ca/news/business/loblaw-receipt-scanners-1.7141850)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
+* [2024-03-16, 22:43:23](https://news.ycombinator.com/item?id=39730132) - [Seattle Law Mandating Higher Delivery Driver Pay Is a Disaster](https://reason.com/2024/03/16/seattle-law-mandating-higher-delivery-driver-pay-is-a-disaster/)
 * [2024-03-16, 22:17:06](https://news.ycombinator.com/item?id=39729976) - [The plastic industry knowingly pushed recycling myth for decades [video]](https://www.pbs.org/newshour/show/the-plastic-industry-knowingly-pushed-recycling-myth-for-decades-new-report-finds)
 * [2024-03-16, 21:53:45](https://news.ycombinator.com/item?id=39729819) - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
 * [2024-03-16, 21:27:54](https://news.ycombinator.com/item?id=39729633) - [SpaceX building a network of spy satellites for U.S. intelligence, report says](https://qz.com/spacex-starlink-spy-satellite-us-intelligence-elon-musk-1851342193)
@@ -70,6 +74,7 @@
 * [2024-03-16, 12:44:17](https://news.ycombinator.com/item?id=39725416) - [The Linux Desktop Is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 12:43:44](https://news.ycombinator.com/item?id=39725412) - [Evangelicals Use Digital Surveillance to Target the Unconverted](https://newrepublic.com/article/179397/evangelical-app-targeting-immigrants-surveillance)
 * [2024-03-16, 12:41:05](https://news.ycombinator.com/item?id=39725400) - [JWT confirms something is seriously wrong with our understanding of the universe](https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-is-something-seriously-wrong-with-our-understanding-of-the-universe)
+* [2024-03-16, 12:37:53](https://news.ycombinator.com/item?id=39725384) - [Apple MM1: Methods, Analysis and Insights from Multimodal LLM Pre-Training](https://arxiv.org/abs/2403.09611)
 * [2024-03-16, 12:24:54](https://news.ycombinator.com/item?id=39725303) - [Cloudflare loses 22% of its domains in Freenom .tk shutdown](https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/)
 * [2024-03-16, 12:03:48](https://news.ycombinator.com/item?id=39725150) - [My new System76 Thelio is hands-down the best desktop PC I've ever tested](https://www.zdnet.com/home-and-office/my-new-system76-thelio-is-hands-down-the-best-desktop-pc-ive-ever-tested/)
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)

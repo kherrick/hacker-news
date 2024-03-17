@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-03-17](index.md)
+
+* [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
