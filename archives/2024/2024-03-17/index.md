@@ -29,6 +29,7 @@
 * [2024-03-17, 13:44:03](https://news.ycombinator.com/item?id=39734440) - [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)
 * [2024-03-17, 13:38:17](https://news.ycombinator.com/item?id=39734406) - [Dot: Standalone app for local RAG with Mistral 7B](https://github.com/alexpinel/Dot)
 * [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to Mess with Your Roommate](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
+* [2024-03-17, 13:01:52](https://news.ycombinator.com/item?id=39734207) - [OxidOS Automotive](https://oxidos.io/)
 * [2024-03-17, 12:49:39](https://news.ycombinator.com/item?id=39734134) - [Using LLMs to reverse JavaScript variable name minification (2023)](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification.html)
 * [2024-03-17, 12:43:41](https://news.ycombinator.com/item?id=39734110) - [50 Ideas for Life I Repeatedly Share](https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/)
 * [2024-03-17, 12:27:49](https://news.ycombinator.com/item?id=39733998) - [Using ChatGPT for Podcast Suggestions](https://ryanbuening.com/posts/chatgpt-for-podcast-suggestions/)
