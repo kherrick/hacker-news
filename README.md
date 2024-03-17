@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-17, 22:06:05](https://news.ycombinator.com/item?id=39738487) - [Why Oregon's Drug Decriminalization Failed](https://www.theatlantic.com/ideas/archive/2024/03/oregon-drug-decriminalization-failed/677678/)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
 * [2024-03-17, 19:55:04](https://news.ycombinator.com/item?id=39737474) - [Pine64 March update: making waves](https://pine64.org/2024/03/17/march-update-making-waves/)
 * [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
@@ -9,6 +8,7 @@
 * [2024-03-17, 19:14:56](https://news.ycombinator.com/item?id=39737122) - [Vector: A high-performance observability data pipeline](https://github.com/vectordotdev/vector)
 * [2024-03-17, 19:09:50](https://news.ycombinator.com/item?id=39737084) - [Superiority (1951)](https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/)
 * [2024-03-17, 18:28:31](https://news.ycombinator.com/item?id=39736718) - [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
+* [2024-03-17, 17:12:45](https://news.ycombinator.com/item?id=39736003) - [Low cost way to protect hardware under test](https://zetier.com/news/power-up-your-power-supplies/)
 * [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 * [2024-03-17, 16:39:37](https://news.ycombinator.com/item?id=39735675) - [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
 * [2024-03-17, 16:38:45](https://news.ycombinator.com/item?id=39735669) - [Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
