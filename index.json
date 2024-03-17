@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=39733746"
     ],
     [
-      "Imitation Learning",
+      "Imitation Learning (2023)",
       "https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "HashiCorp Exploring Potential Sale",
       "https://www.reuters.com/technology/cloud-software-company-hashicorp-exploring-potential-sale-bloomberg-news-reports-2024-03-15/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 10:23:39",
-      "https://news.ycombinator.com/item?id=39733310"
-    ],
-    [
-      "One of the more painful things: many bool fields with byte sized bools",
-      "https://twitter.com/mitchellh/status/1769143787862049013"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-03-16, 18:03:52",
+      "https://news.ycombinator.com/item?id=39728045"
+    ],
+    [
+      "Lambda on hard mode: serverless HTTP in Rust",
+      "https://modal.com/blog/serverless-http"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 12:49:05",
       "https://news.ycombinator.com/item?id=39725445"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-03-15, 13:58:14",
+      "https://news.ycombinator.com/item?id=39715793"
+    ],
+    [
+      "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
+      "https://github.com/robjinman/richard"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 12:56:12",
       "https://news.ycombinator.com/item?id=39714973"
     ],
@@ -277,16 +287,6 @@
     [
       "Passkeys – Under the Hood",
       "https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 11:46:54",
-      "https://news.ycombinator.com/item?id=39702633"
-    ],
-    [
-      "The end of classic Outlook for Windows is coming",
-      "https://www.theregister.com/2024/03/13/the_end_of_classic_outlook/"
     ]
   ],
   [
