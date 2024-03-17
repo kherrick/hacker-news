@@ -24,12 +24,12 @@
 * [2024-03-16, 13:24:12](https://news.ycombinator.com/item?id=39725678) - [Y Combinator's chief startup whisperer is demoting himself](https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/)
 * [2024-03-16, 12:37:53](https://news.ycombinator.com/item?id=39725384) - [Apple MM1: Methods, Analysis and Insights from Multimodal LLM Pre-Training](https://arxiv.org/abs/2403.09611)
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
-* [2024-03-16, 11:35:39](https://news.ycombinator.com/item?id=39724966) - [The Rising Price of Power in Chips](https://semiengineering.com/the-rising-price-of-power-in-chips/)
 * [2024-03-16, 08:52:48](https://news.ycombinator.com/item?id=39724312) - [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
 * [2024-03-16, 01:27:14](https://news.ycombinator.com/item?id=39722498) - [MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:20:55](https://news.ycombinator.com/item?id=39714721) - [How to Play Renju](https://www.renju.net/rules/)
 * [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
+* [2024-03-14, 09:24:24](https://news.ycombinator.com/item?id=39701838) - [Intro to Hyperscript: Rethinking JavaScript](https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html)
 
 ## [Archives](archives/index.md)
 

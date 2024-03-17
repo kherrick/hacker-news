@@ -100,6 +100,7 @@
 * [2024-03-14, 09:45:05](https://news.ycombinator.com/item?id=39701931) - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 09:27:31](https://news.ycombinator.com/item?id=39701857) - [The Mark Williams Company and the COHERENT operating system](https://www.abortretry.fail/p/the-mark-williams-company)
 * [2024-03-14, 09:26:14](https://news.ycombinator.com/item?id=39701848) - [Digital Forgeries Are Hard](https://mjg59.dreamwidth.org/69507.html)
+* [2024-03-14, 09:24:24](https://news.ycombinator.com/item?id=39701838) - [Intro to Hyperscript: Rethinking JavaScript](https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html)
 * [2024-03-14, 09:15:47](https://news.ycombinator.com/item?id=39701791) - [Swedish data brokers claim journalists' legal protection to evade EU law](https://noyb.eu/en/swedish-data-brokers-claim-journalists-legal-protection-evade-eu-law)
 * [2024-03-14, 09:14:19](https://news.ycombinator.com/item?id=39701785) - [Improving cursor rendering on Wayland](https://blog.vaxry.net/articles/2024-cursors)
 * [2024-03-14, 08:47:00](https://news.ycombinator.com/item?id=39701646) - [Ovid's myths of macOS: password entry dialogs and the death of Semele](https://eclecticlight.co/2024/03/14/ovids-myths-of-macos-password-entry-dialogs-and-the-death-of-semele/)
