@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 23:47:19](https://news.ycombinator.com/item?id=39730480) - [Show HN: SatCat5, the open-source FPGA Ethernet switch](https://github.com/the-aerospace-corporation/satcat5/blob/main/doc/FAQ.md)
 * [2024-03-16, 23:37:13](https://news.ycombinator.com/item?id=39730428) - [Sophisticated 'burglary tourists' fly from S America to rob wealthy homes – LAPD](https://www.latimes.com/california/story/2024-03-16/los-angeles-police-south-american-crime-tourism)
 * [2024-03-16, 23:36:41](https://news.ycombinator.com/item?id=39730426) - [Florida Is on Its Way to Banning – and Criminalizing – Alternative Meat](https://www.foodandwine.com/florida-lab-grown-meat-ban-legislation-8609560)
 * [2024-03-16, 23:33:32](https://news.ycombinator.com/item?id=39730412) - [Supercharging Fuel Cells with Caffeine](https://www.chiba-u.ac.jp/e/others/topics/topics/supercharging_fuel_cells_with_caffeine.html)
