@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 11:14:56](https://news.ycombinator.com/item?id=39733605) - [Google Scholar search: \"certainly, here is\" -chatgpt -llm](https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 * [2024-03-17, 09:38:45](https://news.ycombinator.com/item?id=39733117) - [Liebreich: Net Zero Will Be Harder Than You Think – and Easier. Part II: Easier](https://about.bnef.com/blog/liebreich-net-zero-will-be-harder-than-you-think-and-easier-part-ii-easier/)
 * [2024-03-17, 08:51:43](https://news.ycombinator.com/item?id=39732932) - [Django REST framework: 3.15.0 Release (Django 5.0 support)](https://www.django-rest-framework.org/community/release-notes/#315x-series)
