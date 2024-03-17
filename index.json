@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-17, 05:14:43",
-      "https://news.ycombinator.com/item?id=39732106"
-    ],
-    [
-      "A JavaScript Nightmare",
-      "https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html"
-    ]
-  ],
-  [
-    [
       "2024-03-17, 04:34:53",
       "https://news.ycombinator.com/item?id=39731960"
     ],
@@ -257,6 +247,16 @@
     [
       "APL Quest",
       "https://www.dyalog.com/blog/2024/03/the-apl-quest-series/"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 13:58:14",
+      "https://news.ycombinator.com/item?id=39715793"
+    ],
+    [
+      "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
+      "https://github.com/robjinman/richard"
     ]
   ],
   [
