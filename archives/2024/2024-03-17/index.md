@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 15:05:05](https://news.ycombinator.com/item?id=39734920) - [Apple's New CarPlay Becomes Last Hope to Crack the Auto Industry](https://www.bloomberg.com/news/newsletters/2024-03-17/apple-aapl-revamped-carplay-becomes-last-hope-after-apple-car-is-canceled-ltvif8zt)
 * [2024-03-17, 14:50:50](https://news.ycombinator.com/item?id=39734825) - [Ahead of IPO, Reddit blends advertising into user posts](https://www.theregister.com/2024/03/16/reddit_promoted_posts/)
+* [2024-03-17, 14:14:04](https://news.ycombinator.com/item?id=39734619) - [The News Business Is Cratering](https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187)
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
 * [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to Mess with Your Roommate](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
 * [2024-03-17, 12:49:39](https://news.ycombinator.com/item?id=39734134) - [Using LLMs to reverse JavaScript variable name minification (2023)](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification.html)
 * [2024-03-17, 12:43:41](https://news.ycombinator.com/item?id=39734110) - [50 Ideas for Life I Repeatedly Share](https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/)
+* [2024-03-17, 12:27:49](https://news.ycombinator.com/item?id=39733998) - [Using ChatGPT for Podcast Suggestions](https://ryanbuening.com/posts/chatgpt-for-podcast-suggestions/)
 * [2024-03-17, 11:42:59](https://news.ycombinator.com/item?id=39733746) - [Imitation Learning](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
 * [2024-03-17, 11:25:11](https://news.ycombinator.com/item?id=39733661) - [Super Micro Computer has gone from an obscure server maker to $60B market cap](https://www.wsj.com/tech/ai/super-micro-computer-company-profile-d93a41da)
 * [2024-03-17, 11:14:56](https://news.ycombinator.com/item?id=39733605) - [Google Scholar search: \"certainly, here is\" -chatgpt -llm](https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/)
