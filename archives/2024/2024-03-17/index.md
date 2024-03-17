@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
+* [2024-03-17, 16:25:45](https://news.ycombinator.com/item?id=39735570) - [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
+* [2024-03-17, 16:21:17](https://news.ycombinator.com/item?id=39735531) - [Python Users: BIPClip Is After Your Bitcoin Wallet, via PyPI](https://thenewstack.io/python-users-bibclip-is-after-your-bitcoin-wallet-via-pypi/)
 * [2024-03-17, 16:19:33](https://news.ycombinator.com/item?id=39735510) - [Simulation of Putting 4M Suns in a Black Hole over New York [video]](https://www.youtube.com/watch?v=pDUUT2Y_9qk)
 * [2024-03-17, 16:19:10](https://news.ycombinator.com/item?id=39735506) - [How the abnormal gets normalised – and what to do about it](https://www.bbc.com/future/article/20240314-how-the-abnormal-gets-normalised-and-what-to-do-about-it)
 * [2024-03-17, 16:16:15](https://news.ycombinator.com/item?id=39735480) - [htmx 2.0.0-beta1](https://v2-0v2-0.htmx.org/posts/2024-03-15-htmx-2-0-0-beta1-is-released/)
 * [2024-03-17, 16:14:52](https://news.ycombinator.com/item?id=39735465) - [Ask God's words in different religions with AI](https://askreligion.com/)
 * [2024-03-17, 16:05:16](https://news.ycombinator.com/item?id=39735382) - [A cheap, generic drug became a darling of longevity enthusiasts](https://www.washingtonpost.com/business/2024/03/15/rapamycin-longevity-drug/)
+* [2024-03-17, 16:04:52](https://news.ycombinator.com/item?id=39735380) - [Boinc lets you help cutting-edge science research using your computer](https://boinc.berkeley.edu/index.php)
 * [2024-03-17, 15:57:31](https://news.ycombinator.com/item?id=39735320) - ['Data Is Rectangular' and Other Common Misconceptions [video]](https://www.youtube.com/watch?v=zsvafrKvTTY)
 * [2024-03-17, 15:54:12](https://news.ycombinator.com/item?id=39735300) - [Internet providers have left rural Americans behind. One county is fighting back](https://www.theguardian.com/technology/2024/mar/17/rural-broadband-us-internet-providers)
 * [2024-03-17, 15:42:02](https://news.ycombinator.com/item?id=39735205) - [Seeding steel frames brings destroyed coral reefs back to life](https://arstechnica.com/science/2024/03/some-coral-reef-damage-can-be-fixed/)
