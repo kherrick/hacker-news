@@ -22,6 +22,7 @@
 * [2024-03-16, 20:46:41](https://news.ycombinator.com/item?id=39729352) - [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
 * [2024-03-16, 20:39:31](https://news.ycombinator.com/item?id=39729307) - [Ask HN: Books that gave you different perspective on religion](https://news.ycombinator.com/item?id=39729307)
 * [2024-03-16, 20:16:10](https://news.ycombinator.com/item?id=39729122) - [What happens to our memory as we age?](https://scopeblog.stanford.edu/2024/03/11/memory-age-dementia-healthy-brain/)
+* [2024-03-16, 20:15:17](https://news.ycombinator.com/item?id=39729112) - [Hotdoc Documentation Framework](https://hotdoc.github.io/index.html)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:08:16](https://news.ycombinator.com/item?id=39729053) - [Deep-sea hiatus record reveals orbital 2.4 Myr paced eccentricity grand cycles](https://www.nature.com/articles/s41467-024-46171-5)
 * [2024-03-16, 20:00:13](https://news.ycombinator.com/item?id=39728994) - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)

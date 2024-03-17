@@ -58,6 +58,7 @@
 * [2024-03-14, 15:11:46](https://news.ycombinator.com/item?id=39705043) - [You don't have to be a \"content creator\" to have a website](https://ohhelloana.blog/just-get-a-website/)
 * [2024-03-14, 15:02:29](https://news.ycombinator.com/item?id=39704914) - [Voyager 1 starts making sense again after months of babble](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
 * [2024-03-14, 14:59:29](https://news.ycombinator.com/item?id=39704886) - [Clinical Study to Commence on Migraines and Vitamin K2](https://www.nutraceuticalsworld.com/contents/view_breaking-news/2023-07-21/clinical-study-to-commence-on-migraines-and-vitamin-k2/)
+* [2024-03-14, 14:49:22](https://news.ycombinator.com/item?id=39704763) - [Passkeys – Under the Hood](https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/)
 * [2024-03-14, 14:45:33](https://news.ycombinator.com/item?id=39704712) - [Show HN: PyKidos, Teach Your Kid Python in the Browser](https://pykidos.github.io/)
 * [2024-03-14, 14:25:14](https://news.ycombinator.com/item?id=39704430) - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
 * [2024-03-14, 14:18:00](https://news.ycombinator.com/item?id=39704339) - [Ask an Algo Dev – 6 HRT quants answer common questions about their role](https://www.youtube.com/watch?v=VRpxqtA_Nlk)
