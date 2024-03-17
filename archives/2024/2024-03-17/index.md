@@ -23,3 +23,4 @@
 * [2024-03-17, 00:54:09](https://news.ycombinator.com/item?id=39730866) - [US prosecutors are investigating how Meta played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
 * [2024-03-17, 00:35:17](https://news.ycombinator.com/item?id=39730759) - [The Plight of Japan's AMA Divers](https://nautil.us/the-plight-of-japans-ama-divers-533289/)
+* [2024-03-17, 00:12:03](https://news.ycombinator.com/item?id=39730625) - [Gravitational Collapse of Spongebob](https://twitter.com/PeRossello/status/1769035370031694214)
