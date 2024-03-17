@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-17, 17:27:25](https://news.ycombinator.com/item?id=39736141) - [The Luddite's Guide to Defending Cash (Part 1)](https://www.asomo.co/p/the-luddites-guide-to-defending-physical-cash)
 * [2024-03-17, 16:48:18](https://news.ycombinator.com/item?id=39735764) - [Linux 6.9 Change Allows Old Macs Using Firewire to Enjoy Virtualization Support](https://www.phoronix.com/news/Linux-6.9-PCI)
 * [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 * [2024-03-17, 16:39:37](https://news.ycombinator.com/item?id=39735675) - [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
@@ -27,7 +28,6 @@
 * [2024-03-16, 23:47:19](https://news.ycombinator.com/item?id=39730480) - [Show HN: SatCat5, the open-source FPGA Ethernet switch](https://github.com/the-aerospace-corporation/satcat5/blob/main/doc/FAQ.md)
 * [2024-03-16, 16:33:22](https://news.ycombinator.com/item?id=39727280) - [Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
 * [2024-03-16, 02:16:22](https://news.ycombinator.com/item?id=39722729) - [What are the \"worst\" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
-* [2024-03-15, 08:48:17](https://news.ycombinator.com/item?id=39713435) - [Show HN: Making a Compiler to Prove Tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
 * [2024-03-15, 05:40:27](https://news.ycombinator.com/item?id=39712386) - [Finding Lead in Stanley's Quencher](https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct)
 * [2024-03-14, 16:37:09](https://news.ycombinator.com/item?id=39706070) - [Tests for Consciousness in Humans and Beyond](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00010-X)
 
