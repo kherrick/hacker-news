@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 22:06:05](https://news.ycombinator.com/item?id=39738487) - [Why Oregon's Drug Decriminalization Failed](https://www.theatlantic.com/ideas/archive/2024/03/oregon-drug-decriminalization-failed/677678/)
 * [2024-03-17, 21:47:05](https://news.ycombinator.com/item?id=39738342) - [Nvidia in talks to acquire AI infrastructure platform Run:AI](https://www.calcalistech.com/ctechnews/article/rkmbe9e0p)
 * [2024-03-17, 21:43:29](https://news.ycombinator.com/item?id=39738315) - [Rivian Is Turning into the Subaru of EVs](https://heatmap.news/electric-vehicles/subaru-rivian-r3-suv)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)

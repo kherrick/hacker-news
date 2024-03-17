@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-17, 22:06:05](https://news.ycombinator.com/item?id=39738487) - [Why Oregon's Drug Decriminalization Failed](https://www.theatlantic.com/ideas/archive/2024/03/oregon-drug-decriminalization-failed/677678/)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
 * [2024-03-17, 19:55:04](https://news.ycombinator.com/item?id=39737474) - [Pine64 March update: making waves](https://pine64.org/2024/03/17/march-update-making-waves/)
 * [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
@@ -25,7 +26,6 @@
 * [2024-03-17, 01:13:30](https://news.ycombinator.com/item?id=39730984) - [DIY Macro PCB Photography](https://niemczuk.tech/2024/02/11/detailed-macrophotography-of-PCBs)
 * [2024-03-17, 00:58:45](https://news.ycombinator.com/item?id=39730891) - [Show HN: Interactive Smartlog VSCode Extension – An Interactive Git GUI](https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog)
 * [2024-03-17, 00:12:03](https://news.ycombinator.com/item?id=39730625) - [Gravitational Collapse of Spongebob](https://twitter.com/PeRossello/status/1769035370031694214)
-* [2024-03-16, 21:15:33](https://news.ycombinator.com/item?id=39729528) - [IBM's Vela \"AI Supercomputer\"](https://www.eetimes.com/ibm-refreshes-its-vela-research-ai-supercomputer/)
 * [2024-03-16, 16:33:22](https://news.ycombinator.com/item?id=39727280) - [Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
 * [2024-03-16, 02:16:22](https://news.ycombinator.com/item?id=39722729) - [What are the \"worst\" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
 * [2024-03-15, 14:49:32](https://news.ycombinator.com/item?id=39716397) - [Political Graffiti in Georgian Britain](https://www.historytoday.com/archive/history-matters/political-graffiti-georgian-britain)
