@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 16:48:18](https://news.ycombinator.com/item?id=39735764) - [Linux 6.9 Change Allows Old Macs Using Firewire to Enjoy Virtualization Support](https://www.phoronix.com/news/Linux-6.9-PCI)
 * [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
+* [2024-03-17, 16:39:37](https://news.ycombinator.com/item?id=39735675) - [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
+* [2024-03-17, 16:27:49](https://news.ycombinator.com/item?id=39735587) - [F-35 Cleared for Full-Rate Production 17 Years After Its First Flight](https://www.twz.com/air/f-35-cleared-for-full-rate-production-17-years-after-its-first-flight)
 * [2024-03-17, 16:25:45](https://news.ycombinator.com/item?id=39735570) - [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
 * [2024-03-17, 16:21:17](https://news.ycombinator.com/item?id=39735531) - [Python Users: BIPClip Is After Your Bitcoin Wallet, via PyPI](https://thenewstack.io/python-users-bibclip-is-after-your-bitcoin-wallet-via-pypi/)
 * [2024-03-17, 16:19:33](https://news.ycombinator.com/item?id=39735510) - [Simulation of Putting 4M Suns in a Black Hole over New York [video]](https://www.youtube.com/watch?v=pDUUT2Y_9qk)
@@ -51,6 +54,7 @@
 * [2024-03-17, 01:48:16](https://news.ycombinator.com/item?id=39731195) - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-17, 01:45:19](https://news.ycombinator.com/item?id=39731171) - [CitizenX: Invest in Citizenship](https://citizenx.com/)
 * [2024-03-17, 01:19:26](https://news.ycombinator.com/item?id=39731026) - [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
+* [2024-03-17, 01:13:30](https://news.ycombinator.com/item?id=39730984) - [DIY Macro PCB Photography](https://niemczuk.tech/2024/02/11/detailed-macrophotography-of-PCBs)
 * [2024-03-17, 01:09:05](https://news.ycombinator.com/item?id=39730962) - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
 * [2024-03-17, 00:56:32](https://news.ycombinator.com/item?id=39730883) - [Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
 * [2024-03-17, 00:54:09](https://news.ycombinator.com/item?id=39730866) - [US prosecutors are investigating how Meta played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
