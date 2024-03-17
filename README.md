@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-17, 07:04:15](https://news.ycombinator.com/item?id=39732488) - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
-* [2024-03-17, 06:42:00](https://news.ycombinator.com/item?id=39732419) - [As AI tools get smarter, they're growing more covertly racist, experts find](https://www.theguardian.com/technology/2024/mar/16/ai-racism-chatgpt-gemini-bias)
 * [2024-03-17, 05:17:22](https://news.ycombinator.com/item?id=39732116) - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
 * [2024-03-17, 04:34:53](https://news.ycombinator.com/item?id=39731960) - [We were wizards – a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
 * [2024-03-17, 03:59:07](https://news.ycombinator.com/item?id=39731824) - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
@@ -10,6 +9,7 @@
 * [2024-03-17, 01:09:05](https://news.ycombinator.com/item?id=39730962) - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
 * [2024-03-17, 00:56:32](https://news.ycombinator.com/item?id=39730883) - [Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
+* [2024-03-17, 00:35:17](https://news.ycombinator.com/item?id=39730759) - [The Plight of Japan's AMA Divers](https://nautil.us/the-plight-of-japans-ama-divers-533289/)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 * [2024-03-16, 22:47:31](https://news.ycombinator.com/item?id=39730161) - [About tweaking the fundamental settings of your brain](http://bewelltuned.com)
 * [2024-03-16, 20:59:33](https://news.ycombinator.com/item?id=39729422) - [Why Is the Sea So Hot?](https://www.newyorker.com/news/daily-comment/why-is-the-sea-so-hot)
