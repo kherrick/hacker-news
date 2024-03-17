@@ -6,10 +6,12 @@
 
 * [2024-03-17, 11:42:59](https://news.ycombinator.com/item?id=39733746) - [Imitation Learning](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
 * [2024-03-17, 11:14:56](https://news.ycombinator.com/item?id=39733605) - [Google Scholar search: \"certainly, here is\" -chatgpt -llm](https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/)
+* [2024-03-17, 11:08:45](https://news.ycombinator.com/item?id=39733555) - [America's affordable house of the future failed](https://thehustle.co/originals/how-americas-affordable-house-of-the-future-failed)
 * [2024-03-17, 11:02:11](https://news.ycombinator.com/item?id=39733515) - [HashiCorp Exploring Potential Sale](https://www.reuters.com/technology/cloud-software-company-hashicorp-exploring-potential-sale-bloomberg-news-reports-2024-03-15/)
 * [2024-03-17, 10:23:39](https://news.ycombinator.com/item?id=39733310) - [One of the more painful things: many bool fields with byte sized bools](https://twitter.com/mitchellh/status/1769143787862049013)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 * [2024-03-17, 09:38:45](https://news.ycombinator.com/item?id=39733117) - [Liebreich: Net Zero Will Be Harder Than You Think – and Easier. Part II: Easier](https://about.bnef.com/blog/liebreich-net-zero-will-be-harder-than-you-think-and-easier-part-ii-easier/)
+* [2024-03-17, 09:36:42](https://news.ycombinator.com/item?id=39733107) - [Retrowin32: Minesweeper and the Four Month Bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
 * [2024-03-17, 08:51:43](https://news.ycombinator.com/item?id=39732932) - [Django REST framework: 3.15.0 Release (Django 5.0 support)](https://www.django-rest-framework.org/community/release-notes/#315x-series)
 * [2024-03-17, 07:35:29](https://news.ycombinator.com/item?id=39732609) - [Tesla Is Getting Absolutely Destroyed Right Now](https://futurism.com/tesla-is-getting-absolutely-destroyed)
 * [2024-03-17, 07:04:15](https://news.ycombinator.com/item?id=39732488) - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
