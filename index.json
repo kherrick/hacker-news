@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-03-17, 10:23:39",
+      "https://news.ycombinator.com/item?id=39733310"
+    ],
+    [
+      "One of the more painful things: many bool fields with byte sized bools",
+      "https://twitter.com/mitchellh/status/1769143787862049013"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 10:15:23",
       "https://news.ycombinator.com/item?id=39733275"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2024-03-16, 23:33:32",
+      "https://news.ycombinator.com/item?id=39730412"
+    ],
+    [
+      "Supercharging Fuel Cells with Caffeine",
+      "https://www.chiba-u.ac.jp/e/others/topics/topics/supercharging_fuel_cells_with_caffeine.html"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 23:07:18",
       "https://news.ycombinator.com/item?id=39730255"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-03-15, 13:58:14",
-      "https://news.ycombinator.com/item?id=39715793"
-    ],
-    [
-      "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
-      "https://github.com/robjinman/richard"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 12:56:12",
       "https://news.ycombinator.com/item?id=39714973"
     ],
@@ -287,16 +297,6 @@
     [
       "Anatomy of a MapServer: how to leverage and visualize your geographical data",
       "https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 11:03:22",
-      "https://news.ycombinator.com/item?id=39702360"
-    ],
-    [
-      "Decline Invitations",
-      "https://taylor.town/decline-invitations"
     ]
   ]
 ]
