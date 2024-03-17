@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to Mess with Your Roommate](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
 * [2024-03-17, 12:49:39](https://news.ycombinator.com/item?id=39734134) - [Using LLMs to reverse JavaScript variable name minification (2023)](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification.html)
 * [2024-03-17, 12:43:41](https://news.ycombinator.com/item?id=39734110) - [50 Ideas for Life I Repeatedly Share](https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/)
 * [2024-03-17, 11:42:59](https://news.ycombinator.com/item?id=39733746) - [Imitation Learning](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
