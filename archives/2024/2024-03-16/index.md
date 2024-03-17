@@ -76,6 +76,7 @@
 * [2024-03-16, 13:22:08](https://news.ycombinator.com/item?id=39725663) - [Misirlou](https://en.wikipedia.org/wiki/Misirlou)
 * [2024-03-16, 13:17:55](https://news.ycombinator.com/item?id=39725634) - [Thebroken (2003)](https://archive.org/details/thebroken_xvid/)
 * [2024-03-16, 12:50:51](https://news.ycombinator.com/item?id=39725458) - [Surgeon who burnt his initials on a patient's liver](https://www.theguardian.com/society/2024/mar/16/surgeon-who-signed-patients-livers)
+* [2024-03-16, 12:49:05](https://news.ycombinator.com/item?id=39725445) - [U.S. is investigating Meta for role in drug sales](https://www.wsj.com/tech/u-s-is-investigating-meta-for-role-in-drug-sales-574944cb)
 * [2024-03-16, 12:44:17](https://news.ycombinator.com/item?id=39725416) - [The Linux Desktop Is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 12:43:44](https://news.ycombinator.com/item?id=39725412) - [Evangelicals Use Digital Surveillance to Target the Unconverted](https://newrepublic.com/article/179397/evangelical-app-targeting-immigrants-surveillance)
 * [2024-03-16, 12:41:05](https://news.ycombinator.com/item?id=39725400) - [JWT confirms something is seriously wrong with our understanding of the universe](https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-is-something-seriously-wrong-with-our-understanding-of-the-universe)
