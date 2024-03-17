@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-17, 12:49:39",
+      "https://news.ycombinator.com/item?id=39734134"
+    ],
+    [
+      "Using LLMs to reverse JavaScript variable name minification (2023)",
+      "https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 12:43:41",
+      "https://news.ycombinator.com/item?id=39734110"
+    ],
+    [
+      "50 Ideas for Life I Repeatedly Share",
+      "https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 11:42:59",
       "https://news.ycombinator.com/item?id=39733746"
     ],
@@ -47,16 +67,6 @@
     [
       "LLM4Decompile: Decompiling Binary Code with LLM",
       "https://github.com/albertan017/LLM4Decompile"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 09:38:45",
-      "https://news.ycombinator.com/item?id=39733117"
-    ],
-    [
-      "Liebreich: Net Zero Will Be Harder Than You Think – and Easier. Part II: Easier",
-      "https://about.bnef.com/blog/liebreich-net-zero-will-be-harder-than-you-think-and-easier-part-ii-easier/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-03-17, 00:38:51",
-      "https://news.ycombinator.com/item?id=39730784"
-    ],
-    [
-      "How a Solar Revolution in Farming Is Depleting Groundwater",
-      "https://e360.yale.edu/features/solar-water-pumps-groundwater-crops"
-    ]
-  ],
-  [
-    [
       "2024-03-17, 00:12:03",
       "https://news.ycombinator.com/item?id=39730625"
     ],
@@ -161,22 +161,22 @@
   ],
   [
     [
+      "2024-03-16, 23:47:19",
+      "https://news.ycombinator.com/item?id=39730480"
+    ],
+    [
+      "Show HN: SatCat5, the open-source FPGA Ethernet switch",
+      "https://github.com/the-aerospace-corporation/satcat5/blob/main/doc/FAQ.md"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 23:33:32",
       "https://news.ycombinator.com/item?id=39730412"
     ],
     [
       "Supercharging Fuel Cells with Caffeine",
       "https://www.chiba-u.ac.jp/e/others/topics/topics/supercharging_fuel_cells_with_caffeine.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 23:07:18",
-      "https://news.ycombinator.com/item?id=39730255"
-    ],
-    [
-      "Mintlify GitHub read/write token leak",
-      "https://mintlify.com/blog/incident-march-13"
     ]
   ],
   [
