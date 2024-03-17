@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-03-17, 05:17:22",
+      "https://news.ycombinator.com/item?id=39732116"
+    ],
+    [
+      "How Microchips Work",
+      "https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 05:14:43",
       "https://news.ycombinator.com/item?id=39732106"
     ],
     [
       "A JavaScript Nightmare",
       "https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 04:34:53",
+      "https://news.ycombinator.com/item?id=39731960"
+    ],
+    [
+      "We were wizards – a foreword to Learning Perl",
+      "https://jwgoerlich.com/we-were-wizards-learning-perl/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "How a Solar Revolution in Farming Is Depleting Groundwater",
       "https://e360.yale.edu/features/solar-water-pumps-groundwater-crops"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 00:35:17",
-      "https://news.ycombinator.com/item?id=39730759"
-    ],
-    [
-      "The Plight of Japan's AMA Divers",
-      "https://nautil.us/the-plight-of-japans-ama-divers-533289/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training",
       "https://arxiv.org/abs/2403.09611"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 13:58:14",
-      "https://news.ycombinator.com/item?id=39715793"
-    ],
-    [
-      "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
-      "https://github.com/robjinman/richard"
     ]
   ],
   [
