@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 17:57:09](https://news.ycombinator.com/item?id=39736438) - [Why the world cannot afford the rich](https://www.nature.com/articles/d41586-024-00723-3)
 * [2024-03-17, 17:49:01](https://news.ycombinator.com/item?id=39736354) - [Start with a Minimum Viable System](https://www.dannyguo.com/blog/start-with-a-minimum-viable-system)
 * [2024-03-17, 17:48:45](https://news.ycombinator.com/item?id=39736350) - [Luxury bunkers to tactical vehicles, ultra-rich are preparing for the Big One](https://www.cbc.ca/news/billionaire-bunkers-doomsday-1.7130152)
 * [2024-03-17, 17:27:25](https://news.ycombinator.com/item?id=39736141) - [The Luddite's Guide to Defending Cash (Part 1)](https://www.asomo.co/p/the-luddites-guide-to-defending-physical-cash)
@@ -37,6 +38,7 @@
 * [2024-03-17, 12:43:41](https://news.ycombinator.com/item?id=39734110) - [50 Ideas for Life I Repeatedly Share](https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/)
 * [2024-03-17, 12:27:49](https://news.ycombinator.com/item?id=39733998) - [Using ChatGPT for Podcast Suggestions](https://ryanbuening.com/posts/chatgpt-for-podcast-suggestions/)
 * [2024-03-17, 11:42:59](https://news.ycombinator.com/item?id=39733746) - [Imitation Learning](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
+* [2024-03-17, 11:29:55](https://news.ycombinator.com/item?id=39733685) - [History of Uniform Random Number Generation (2017) [pdf]](https://www.informs-sim.org/wsc17papers/includes/files/016.pdf)
 * [2024-03-17, 11:25:11](https://news.ycombinator.com/item?id=39733661) - [Super Micro Computer has gone from an obscure server maker to $60B market cap](https://www.wsj.com/tech/ai/super-micro-computer-company-profile-d93a41da)
 * [2024-03-17, 11:14:56](https://news.ycombinator.com/item?id=39733605) - [Google Scholar search: \"certainly, here is\" -chatgpt -llm](https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/)
 * [2024-03-17, 11:08:45](https://news.ycombinator.com/item?id=39733555) - [America's affordable house of the future failed](https://thehustle.co/originals/how-americas-affordable-house-of-the-future-failed)
@@ -61,6 +63,7 @@
 * [2024-03-17, 01:19:26](https://news.ycombinator.com/item?id=39731026) - [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
 * [2024-03-17, 01:13:30](https://news.ycombinator.com/item?id=39730984) - [DIY Macro PCB Photography](https://niemczuk.tech/2024/02/11/detailed-macrophotography-of-PCBs)
 * [2024-03-17, 01:09:05](https://news.ycombinator.com/item?id=39730962) - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
+* [2024-03-17, 00:58:45](https://news.ycombinator.com/item?id=39730891) - [Show HN: Interactive Smartlog VSCode Extension – An Interactive Git GUI](https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog)
 * [2024-03-17, 00:56:32](https://news.ycombinator.com/item?id=39730883) - [Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
 * [2024-03-17, 00:54:09](https://news.ycombinator.com/item?id=39730866) - [US prosecutors are investigating how Meta played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
