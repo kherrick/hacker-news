@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 01:19:26](https://news.ycombinator.com/item?id=39731026) - [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)

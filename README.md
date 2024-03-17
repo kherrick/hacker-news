@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-17, 01:19:26](https://news.ycombinator.com/item?id=39731026) - [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 * [2024-03-16, 22:27:38](https://news.ycombinator.com/item?id=39730042) - [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
@@ -28,7 +29,6 @@
 * [2024-03-16, 01:27:14](https://news.ycombinator.com/item?id=39722498) - [MM1: Methods, Analysis and Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:20:55](https://news.ycombinator.com/item?id=39714721) - [How to Play Renju](https://www.renju.net/rules/)
-* [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 11:05:56](https://news.ycombinator.com/item?id=39702383) - [Jonathan Harris (2014)](https://transom.org/2014/jonathan-harris/)
 
 ## [Archives](archives/index.md)
