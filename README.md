@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-17, 02:49:37](https://news.ycombinator.com/item?id=39731503) - [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
 * [2024-03-17, 01:48:16](https://news.ycombinator.com/item?id=39731195) - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-17, 01:45:19](https://news.ycombinator.com/item?id=39731171) - [CitizenX: Invest in Citizenship](https://citizenx.com/)
 * [2024-03-17, 01:09:05](https://news.ycombinator.com/item?id=39730962) - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
@@ -15,7 +16,6 @@
 * [2024-03-16, 18:03:52](https://news.ycombinator.com/item?id=39728045) - [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
 * [2024-03-16, 17:54:19](https://news.ycombinator.com/item?id=39727963) - [Show HN: An Online Gantt Chart](https://gantt-online.com/gatt/a7bf5b29bd141b99a2bf5b29bd)
 * [2024-03-16, 17:09:20](https://news.ycombinator.com/item?id=39727610) - [Georg Cantor and His Heritage](https://arxiv.org/abs/math/0209244)
-* [2024-03-16, 17:01:34](https://news.ycombinator.com/item?id=39727529) - [Research shows that people who BS are more likely to fall for BS (2021)](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
 * [2024-03-16, 16:53:34](https://news.ycombinator.com/item?id=39727458) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
 * [2024-03-16, 16:26:44](https://news.ycombinator.com/item?id=39727217) - [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)
 * [2024-03-16, 15:31:59](https://news.ycombinator.com/item?id=39726781) - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)

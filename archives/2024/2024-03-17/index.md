@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 02:49:37](https://news.ycombinator.com/item?id=39731503) - [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
 * [2024-03-17, 02:19:30](https://news.ycombinator.com/item?id=39731369) - [Executive Order 12333 (1981) [pdf]](https://dpcld.defense.gov/Portals/49/Documents/Civil/eo-12333-2008.pdf)
 * [2024-03-17, 01:48:16](https://news.ycombinator.com/item?id=39731195) - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-17, 01:45:19](https://news.ycombinator.com/item?id=39731171) - [CitizenX: Invest in Citizenship](https://citizenx.com/)
