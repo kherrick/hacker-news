@@ -82,6 +82,7 @@
 * [2024-03-14, 12:01:58](https://news.ycombinator.com/item?id=39702752) - [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems](https://www.youtube.com/watch?v=fcP07Rx7TVM)
 * [2024-03-14, 11:42:58](https://news.ycombinator.com/item?id=39702610) - [What happens when an HTTP client raises $225M at a $5.6B valuation](https://twitter.com/ImSh4yy/status/1768131911379992921)
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
+* [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-3)
 * [2024-03-14, 11:37:32](https://news.ycombinator.com/item?id=39702568) - [Starship's Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
 * [2024-03-14, 11:23:13](https://news.ycombinator.com/item?id=39702479) - [The Good Soldier Švejk](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)

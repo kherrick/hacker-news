@@ -10,6 +10,7 @@
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 * [2024-03-16, 22:43:23](https://news.ycombinator.com/item?id=39730132) - [Seattle Law Mandating Higher Delivery Driver Pay Is a Disaster](https://reason.com/2024/03/16/seattle-law-mandating-higher-delivery-driver-pay-is-a-disaster/)
 * [2024-03-16, 22:27:38](https://news.ycombinator.com/item?id=39730042) - [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
+* [2024-03-16, 22:17:53](https://news.ycombinator.com/item?id=39729984) - [Prevalence of sleep-disordered breathing in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404207/)
 * [2024-03-16, 22:17:06](https://news.ycombinator.com/item?id=39729976) - [The plastic industry knowingly pushed recycling myth for decades [video]](https://www.pbs.org/newshour/show/the-plastic-industry-knowingly-pushed-recycling-myth-for-decades-new-report-finds)
 * [2024-03-16, 21:53:45](https://news.ycombinator.com/item?id=39729819) - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
 * [2024-03-16, 21:27:54](https://news.ycombinator.com/item?id=39729633) - [SpaceX building a network of spy satellites for U.S. intelligence, report says](https://qz.com/spacex-starlink-spy-satellite-us-intelligence-elon-musk-1851342193)
