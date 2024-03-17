@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-17, 11:14:56",
+      "https://news.ycombinator.com/item?id=39733605"
+    ],
+    [
+      "Google Scholar search: \"certainly, here is\" -chatgpt -llm",
+      "https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 10:15:23",
       "https://news.ycombinator.com/item?id=39733275"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-03-16, 18:17:09",
-      "https://news.ycombinator.com/item?id=39728153"
-    ],
-    [
-      "Fifty Things you can do with a Software Defined Radio",
-      "https://blinry.org/50-things-with-sdr/"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 18:16:17",
       "https://news.ycombinator.com/item?id=39728146"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-03-16, 16:53:34",
-      "https://news.ycombinator.com/item?id=39727458"
-    ],
-    [
-      "Parsing URLs in Python",
-      "https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html"
-    ]
-  ],
-  [
-    [
       "2024-03-16, 12:49:05",
       "https://news.ycombinator.com/item?id=39725445"
     ],
@@ -247,6 +237,16 @@
     [
       "APL Quest",
       "https://www.dyalog.com/blog/2024/03/the-apl-quest-series/"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 13:58:14",
+      "https://news.ycombinator.com/item?id=39715793"
+    ],
+    [
+      "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
+      "https://github.com/robjinman/richard"
     ]
   ],
   [
