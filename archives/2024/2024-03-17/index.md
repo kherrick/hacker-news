@@ -66,6 +66,7 @@
 * [2024-03-17, 10:11:48](https://news.ycombinator.com/item?id=39733257) - [Heinlein's Fan Mail Solution](https://kk.org/ct2/heinleins-fan-mail-solution/)
 * [2024-03-17, 09:38:45](https://news.ycombinator.com/item?id=39733117) - [Liebreich: Net Zero Will Be Harder Than You Think – and Easier. Part II: Easier](https://about.bnef.com/blog/liebreich-net-zero-will-be-harder-than-you-think-and-easier-part-ii-easier/)
 * [2024-03-17, 09:36:42](https://news.ycombinator.com/item?id=39733107) - [Retrowin32: Minesweeper and the Four Month Bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
+* [2024-03-17, 09:30:10](https://news.ycombinator.com/item?id=39733079) - [A Parabel (1973)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD365.html)
 * [2024-03-17, 08:51:43](https://news.ycombinator.com/item?id=39732932) - [Django REST framework: 3.15.0 Release (Django 5.0 support)](https://www.django-rest-framework.org/community/release-notes/#315x-series)
 * [2024-03-17, 07:35:29](https://news.ycombinator.com/item?id=39732609) - [Tesla Is Getting Absolutely Destroyed Right Now](https://futurism.com/tesla-is-getting-absolutely-destroyed)
 * [2024-03-17, 07:04:15](https://news.ycombinator.com/item?id=39732488) - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
