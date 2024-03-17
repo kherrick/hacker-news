@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 * [2024-03-17, 08:51:43](https://news.ycombinator.com/item?id=39732932) - [Django REST framework: 3.15.0 Release (Django 5.0 support)](https://www.django-rest-framework.org/community/release-notes/#315x-series)
 * [2024-03-17, 07:04:15](https://news.ycombinator.com/item?id=39732488) - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
 * [2024-03-17, 05:17:22](https://news.ycombinator.com/item?id=39732116) - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
@@ -26,7 +27,6 @@
 * [2024-03-15, 22:34:33](https://news.ycombinator.com/item?id=39721388) - [APL Quest](https://www.dyalog.com/blog/2024/03/the-apl-quest-series/)
 * [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:56:12](https://news.ycombinator.com/item?id=39714973) - [Elizabeth Goodspeed on the delicate art of nostalgia in branding](https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-heritage-branding-graphic-design-130324)
-* [2024-03-15, 03:15:36](https://news.ycombinator.com/item?id=39711725) - [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-14, 14:49:22](https://news.ycombinator.com/item?id=39704763) - [Passkeys – Under the Hood](https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/)
 * [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
 * [2024-03-14, 11:03:22](https://news.ycombinator.com/item?id=39702360) - [Decline Invitations](https://taylor.town/decline-invitations)
