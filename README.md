@@ -9,7 +9,6 @@
 * [2024-03-17, 01:09:05](https://news.ycombinator.com/item?id=39730962) - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
 * [2024-03-17, 00:56:32](https://news.ycombinator.com/item?id=39730883) - [Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
-* [2024-03-17, 00:35:17](https://news.ycombinator.com/item?id=39730759) - [The Plight of Japan's AMA Divers](https://nautil.us/the-plight-of-japans-ama-divers-533289/)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 * [2024-03-16, 22:47:31](https://news.ycombinator.com/item?id=39730161) - [About tweaking the fundamental settings of your brain](http://bewelltuned.com)
 * [2024-03-16, 20:15:17](https://news.ycombinator.com/item?id=39729112) - [Hotdoc Documentation Framework](https://hotdoc.github.io/index.html)
@@ -30,6 +29,7 @@
 * [2024-03-15, 12:56:12](https://news.ycombinator.com/item?id=39714973) - [Elizabeth Goodspeed on the delicate art of nostalgia in branding](https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-heritage-branding-graphic-design-130324)
 * [2024-03-14, 14:49:22](https://news.ycombinator.com/item?id=39704763) - [Passkeys – Under the Hood](https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/)
 * [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
+* [2024-03-14, 11:03:22](https://news.ycombinator.com/item?id=39702360) - [Decline Invitations](https://taylor.town/decline-invitations)
 
 ## [Archives](archives/index.md)
 
