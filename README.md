@@ -20,7 +20,6 @@
 * [2024-03-17, 00:56:32](https://news.ycombinator.com/item?id=39730883) - [Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
 * [2024-03-17, 00:12:03](https://news.ycombinator.com/item?id=39730625) - [Gravitational Collapse of Spongebob](https://twitter.com/PeRossello/status/1769035370031694214)
 * [2024-03-16, 23:47:19](https://news.ycombinator.com/item?id=39730480) - [Show HN: SatCat5, the open-source FPGA Ethernet switch](https://github.com/the-aerospace-corporation/satcat5/blob/main/doc/FAQ.md)
-* [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:00:13](https://news.ycombinator.com/item?id=39728994) - [IBM 360’s are searching for a new home](https://www.ibm360.co.uk/?p=911)
 * [2024-03-16, 16:33:22](https://news.ycombinator.com/item?id=39727280) - [Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
 * [2024-03-16, 12:49:05](https://news.ycombinator.com/item?id=39725445) - [U.S. is investigating Meta for role in drug sales](https://www.wsj.com/tech/u-s-is-investigating-meta-for-role-in-drug-sales-574944cb)
@@ -28,6 +27,7 @@
 * [2024-03-16, 02:16:22](https://news.ycombinator.com/item?id=39722729) - [What are the \"worst\" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
 * [2024-03-15, 22:34:33](https://news.ycombinator.com/item?id=39721388) - [APL Quest](https://www.dyalog.com/blog/2024/03/the-apl-quest-series/)
 * [2024-03-15, 12:56:12](https://news.ycombinator.com/item?id=39714973) - [Elizabeth Goodspeed on the delicate art of nostalgia in branding](https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-heritage-branding-graphic-design-130324)
+* [2024-03-15, 12:40:20](https://news.ycombinator.com/item?id=39714854) - [Show HN: Parikar, Read long form articles or blogs in a better, measurable way](https://www.parikar.org/)
 * [2024-03-15, 05:40:27](https://news.ycombinator.com/item?id=39712386) - [Finding Lead in Stanley's Quencher](https://www.lumafield.com/article/finding-lead-in-stanleys-quencher-industrial-ct)
 * [2024-03-14, 22:09:38](https://news.ycombinator.com/item?id=39709531) - [Mr. Aecroid's Tables: Calculations and Customs in the Early Modern Countryside](https://www.journals.uchicago.edu/doi/10.1086/728594)
 
