@@ -25,9 +25,9 @@
 * [2024-03-16, 12:49:05](https://news.ycombinator.com/item?id=39725445) - [U.S. is investigating Meta for role in drug sales](https://www.wsj.com/tech/u-s-is-investigating-meta-for-role-in-drug-sales-574944cb)
 * [2024-03-16, 11:49:57](https://news.ycombinator.com/item?id=39725057) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-15, 22:34:33](https://news.ycombinator.com/item?id=39721388) - [APL Quest](https://www.dyalog.com/blog/2024/03/the-apl-quest-series/)
-* [2024-03-15, 13:58:14](https://news.ycombinator.com/item?id=39715793) - [Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
 * [2024-03-15, 12:56:12](https://news.ycombinator.com/item?id=39714973) - [Elizabeth Goodspeed on the delicate art of nostalgia in branding](https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-heritage-branding-graphic-design-130324)
 * [2024-03-14, 14:49:22](https://news.ycombinator.com/item?id=39704763) - [Passkeys – Under the Hood](https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/)
+* [2024-03-14, 11:46:54](https://news.ycombinator.com/item?id=39702633) - [The end of classic Outlook for Windows is coming](https://www.theregister.com/2024/03/13/the_end_of_classic_outlook/)
 * [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
 * [2024-03-14, 11:03:22](https://news.ycombinator.com/item?id=39702360) - [Decline Invitations](https://taylor.town/decline-invitations)
 

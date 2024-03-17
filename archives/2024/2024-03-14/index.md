@@ -81,6 +81,7 @@
 * [2024-03-14, 12:10:10](https://news.ycombinator.com/item?id=39702829) - [Mechanoid: WASM Applications on Embedded Systems](https://github.com/hybridgroup/mechanoid)
 * [2024-03-14, 12:03:48](https://news.ycombinator.com/item?id=39702774) - [NIH Researchers Identify Brain Connections Associated with ADHD in Youth](https://www.nimh.nih.gov/news/science-news/2024/nih-researchers-identify-brain-connections-associated-with-adhd-in-youth)
 * [2024-03-14, 12:01:58](https://news.ycombinator.com/item?id=39702752) - [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems](https://www.youtube.com/watch?v=fcP07Rx7TVM)
+* [2024-03-14, 11:46:54](https://news.ycombinator.com/item?id=39702633) - [The end of classic Outlook for Windows is coming](https://www.theregister.com/2024/03/13/the_end_of_classic_outlook/)
 * [2024-03-14, 11:42:58](https://news.ycombinator.com/item?id=39702610) - [What happens when an HTTP client raises $225M at a $5.6B valuation](https://twitter.com/ImSh4yy/status/1768131911379992921)
 * [2024-03-14, 11:42:36](https://news.ycombinator.com/item?id=39702604) - [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
 * [2024-03-14, 11:37:56](https://news.ycombinator.com/item?id=39702571) - [Anatomy of a MapServer: how to leverage and visualize your geographical data](https://www.go-inicio.com/blog/anatomy-of-a-mapserver-how-to-leverage-and-visualize-your-geographical-data)
