@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 23:03:52](https://news.ycombinator.com/item?id=39738862) - [Uber to pay $272M to Australian taxi operators](https://www.smh.com.au/technology/uber-to-pay-272-million-to-australian-taxi-operators-20240318-p5fd4p.html)
 * [2024-03-17, 22:48:47](https://news.ycombinator.com/item?id=39738759) - [MANATEE(lm): Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E?usp=sharing)
 * [2024-03-17, 22:06:05](https://news.ycombinator.com/item?id=39738487) - [Why Oregon's Drug Decriminalization Failed](https://www.theatlantic.com/ideas/archive/2024/03/oregon-drug-decriminalization-failed/677678/)
 * [2024-03-17, 21:47:05](https://news.ycombinator.com/item?id=39738342) - [Nvidia in talks to acquire AI infrastructure platform Run:AI](https://www.calcalistech.com/ctechnews/article/rkmbe9e0p)
