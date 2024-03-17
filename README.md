@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-17, 02:19:30](https://news.ycombinator.com/item?id=39731369) - [Executive Order 12333 (1981) [pdf]](https://dpcld.defense.gov/Portals/49/Documents/Civil/eo-12333-2008.pdf)
+* [2024-03-17, 01:48:16](https://news.ycombinator.com/item?id=39731195) - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-17, 01:19:26](https://news.ycombinator.com/item?id=39731026) - [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
+* [2024-03-17, 01:09:05](https://news.ycombinator.com/item?id=39730962) - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
 * [2024-03-17, 00:38:51](https://news.ycombinator.com/item?id=39730784) - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
 * [2024-03-16, 23:07:18](https://news.ycombinator.com/item?id=39730255) - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 * [2024-03-16, 22:27:38](https://news.ycombinator.com/item?id=39730042) - [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
-* [2024-03-16, 22:17:53](https://news.ycombinator.com/item?id=39729984) - [Prevalence of sleep-disordered breathing in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404207/)
 * [2024-03-16, 21:53:45](https://news.ycombinator.com/item?id=39729819) - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
 * [2024-03-16, 20:08:30](https://news.ycombinator.com/item?id=39729057) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:00:13](https://news.ycombinator.com/item?id=39728994) - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
