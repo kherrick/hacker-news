@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 18:28:31](https://news.ycombinator.com/item?id=39736718) - [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
 * [2024-03-17, 18:18:30](https://news.ycombinator.com/item?id=39736622) - [Chinese Sellers are Manipulating Amazon in 2024](https://www.ecomcrew.com/chinese-sellers-manipulating-amazon/)
+* [2024-03-17, 18:07:48](https://news.ycombinator.com/item?id=39736545) - [Uber Australia Is Creating a Yellow Union to Head Off Reform](https://jacobin.com/2024/03/uber-australia-worker-committee-union)
 * [2024-03-17, 17:57:09](https://news.ycombinator.com/item?id=39736438) - [Why the world cannot afford the rich](https://www.nature.com/articles/d41586-024-00723-3)
 * [2024-03-17, 17:49:01](https://news.ycombinator.com/item?id=39736354) - [Start with a Minimum Viable System](https://www.dannyguo.com/blog/start-with-a-minimum-viable-system)
 * [2024-03-17, 17:48:45](https://news.ycombinator.com/item?id=39736350) - [Luxury bunkers to tactical vehicles, ultra-rich are preparing for the Big One](https://www.cbc.ca/news/billionaire-bunkers-doomsday-1.7130152)
