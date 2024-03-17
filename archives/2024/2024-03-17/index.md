@@ -8,6 +8,7 @@
 * [2024-03-17, 14:50:50](https://news.ycombinator.com/item?id=39734825) - [Ahead of IPO, Reddit blends advertising into user posts](https://www.theregister.com/2024/03/16/reddit_promoted_posts/)
 * [2024-03-17, 14:14:04](https://news.ycombinator.com/item?id=39734619) - [The News Business Is Cratering](https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187)
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
+* [2024-03-17, 13:38:17](https://news.ycombinator.com/item?id=39734406) - [Dot: Standalone app for local RAG with Mistral 7B](https://github.com/alexpinel/Dot)
 * [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to Mess with Your Roommate](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
 * [2024-03-17, 12:49:39](https://news.ycombinator.com/item?id=39734134) - [Using LLMs to reverse JavaScript variable name minification (2023)](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification.html)
 * [2024-03-17, 12:43:41](https://news.ycombinator.com/item?id=39734110) - [50 Ideas for Life I Repeatedly Share](https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/)
