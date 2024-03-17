@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-17, 20:11:59",
+      "https://news.ycombinator.com/item?id=39737622"
+    ],
+    [
+      "C++ Exit-Time Destructors",
+      "https://maskray.me/blog/2024-03-17-c++-exit-time-destructors"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 19:33:37",
       "https://news.ycombinator.com/item?id=39737281"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-03-17, 19:14:56",
+      "https://news.ycombinator.com/item?id=39737122"
+    ],
+    [
+      "Vector: A high-performance observability data pipeline",
+      "https://github.com/vectordotdev/vector"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 19:09:50",
       "https://news.ycombinator.com/item?id=39737084"
     ],
     [
       "Superiority by Arthur C. Clarke",
       "https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 19:00:10",
+      "https://news.ycombinator.com/item?id=39736999"
+    ],
+    [
+      "SAML v2.0 Deployment Profile for Federation Interoperability",
+      "https://kantarainitiative.github.io/SAMLprofiles/saml2int.html"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years",
       "https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 13:05:23",
-      "https://news.ycombinator.com/item?id=39734231"
-    ],
-    [
-      "How to mess with your roommate (2018)",
-      "https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-03-17, 00:56:32",
-      "https://news.ycombinator.com/item?id=39730883"
-    ],
-    [
-      "Low-tech Magazine underscores the potential of past technologies",
-      "https://solar.lowtechmagazine.com/"
-    ]
-  ],
-  [
-    [
       "2024-03-17, 00:12:03",
       "https://news.ycombinator.com/item?id=39730625"
     ],
@@ -267,16 +277,6 @@
     [
       "Political Graffiti in Georgian Britain",
       "https://www.historytoday.com/archive/history-matters/political-graffiti-georgian-britain"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 08:48:17",
-      "https://news.ycombinator.com/item?id=39713435"
-    ],
-    [
-      "Show HN: Making a Compiler to Prove Tmux Is Turing Complete",
-      "https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/"
     ]
   ],
   [
