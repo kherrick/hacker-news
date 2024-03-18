@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 13:26:23](https://news.ycombinator.com/item?id=39744151) - [I'm So Old: Web Edition](https://davidwalsh.name/im-so-old-1)
 * [2024-03-18, 13:05:26](https://news.ycombinator.com/item?id=39743871) - [Optery's Statement Following Investigative Report on Onerep by Krebs on Security](https://www.optery.com/optery-statement-following-investigative-report-on-onerep-by-krebs-on-security/)
 * [2024-03-18, 12:52:31](https://news.ycombinator.com/item?id=39743673) - [Running late for college, and the scooter is stuck in an update](https://old.reddit.com/r/indianbikes/comments/1bhi2ok/what_the_fck_is_this_i_m_running_late_for_my/)
 * [2024-03-18, 12:45:49](https://news.ycombinator.com/item?id=39743594) - [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
 * [2024-03-18, 12:37:14](https://news.ycombinator.com/item?id=39743483) - [Ask HN: What are your oldest \"online\" accounts still in use?](https://news.ycombinator.com/item?id=39743483)
 * [2024-03-18, 12:30:29](https://news.ycombinator.com/item?id=39743398) - [Tata joins hands with PSMC to build India's first 12-inch fab](https://www.powerchip.com/en-global/insights/press-releases/content/20240229)
 * [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
+* [2024-03-18, 11:53:10](https://news.ycombinator.com/item?id=39742855) - [Boeing Tells Airlines to Check 787 Cockpit Seats After Mishap on Latam Flight](https://www.msn.com/en-us/travel/news/cockpit-mishap-might-have-caused-plunge-on-latam-boeing-787/ar-BB1jUQzi)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-18, 11:25:16](https://news.ycombinator.com/item?id=39742578) - [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
 * [2024-03-18, 11:11:06](https://news.ycombinator.com/item?id=39742495) - [Uber and Lyft leave Minneapolis over $15 minimum wage](https://kstp.com/kstp-news/top-news/businesses-rideshare-drivers-look-to-the-future-as-uber-lyft-plan-to-pull-out-of-minneapolis/)
