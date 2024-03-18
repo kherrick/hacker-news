@@ -11,6 +11,7 @@
 * [2024-03-18, 09:54:36](https://news.ycombinator.com/item?id=39741998) - [Don't upgrade to macOS Sonoma 14.4 yet: plug-in compatibility issues](https://cdm.link/2024/03/ffs-pace/)
 * [2024-03-18, 09:46:57](https://news.ycombinator.com/item?id=39741956) - [Transpile Any SQL to PostgreSQL Dialect](https://gitlab.com/dalibo/transqlate)
 * [2024-03-18, 09:41:28](https://news.ycombinator.com/item?id=39741926) - [Microsoft pushes Bing, GPT-4 in Chrome pop-up adverts](https://www.theregister.com/2024/03/15/chrome_bing_microsoft_pop_ups/)
+* [2024-03-18, 09:15:58](https://news.ycombinator.com/item?id=39741781) - [Car is spying on you, leading to higher insurance rates](https://nypost.com/2024/03/12/business/your-car-is-spying-on-you-and-upping-your-insurance-rates-report/)
 * [2024-03-18, 08:38:08](https://news.ycombinator.com/item?id=39741565) - [Show HN: Let's Build AI](https://letsbuild.ai)
 * [2024-03-18, 08:01:04](https://news.ycombinator.com/item?id=39741383) - [Uber agrees $178M payout to Australia taxi drivers](https://www.bbc.com/news/business-68594134)
 * [2024-03-18, 07:25:59](https://news.ycombinator.com/item?id=39741207) - [Poseidona is removing invasive algae from oceans and turning it into food](https://techcrunch.com/2024/03/17/poseidona-seaweed-protein-food/)
