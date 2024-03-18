@@ -6,6 +6,7 @@
 
 * [2024-03-17, 23:03:52](https://news.ycombinator.com/item?id=39738862) - [Uber to pay $272M to Australian taxi operators](https://www.smh.com.au/technology/uber-to-pay-272-million-to-australian-taxi-operators-20240318-p5fd4p.html)
 * [2024-03-17, 22:48:47](https://news.ycombinator.com/item?id=39738759) - [MANATEE(lm): Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E?usp=sharing)
+* [2024-03-17, 22:45:07](https://news.ycombinator.com/item?id=39738729) - [The many flavors of edible ants](https://www.acs.org/pressroom/presspacs/2024/march/the-many-flavors-of-edible-ants.html)
 * [2024-03-17, 22:44:03](https://news.ycombinator.com/item?id=39738722) - [What I wish I knew about ESPP and RSUs sooner (2024, USA, California)](https://blog.demofox.org/2024/03/17/what-i-wish-i-knew-about-espp-and-rsus-sooner-company-stock-benefits-2024-usa-california/)
 * [2024-03-17, 22:28:54](https://news.ycombinator.com/item?id=39738639) - [6.2 GHz Intel Core I9-14900KS Review](https://www.tomshardware.com/pc-components/cpus/intel-core-i9-14900ks-cpu-review)
 * [2024-03-17, 22:23:08](https://news.ycombinator.com/item?id=39738609) - [CS 168: The Modern Algorithmic Toolbox (2023)](https://web.stanford.edu/class/cs168/index.html)
