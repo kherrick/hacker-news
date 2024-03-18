@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 13:45:37](https://news.ycombinator.com/item?id=39744430) - [Modifying mouth bacteria to remove cavities](https://www.luminaprobiotic.com/)
 * [2024-03-18, 13:26:23](https://news.ycombinator.com/item?id=39744151) - [I'm So Old: Web Edition](https://davidwalsh.name/im-so-old-1)
 * [2024-03-18, 13:05:26](https://news.ycombinator.com/item?id=39743871) - [Optery's Statement Following Investigative Report on Onerep by Krebs on Security](https://www.optery.com/optery-statement-following-investigative-report-on-onerep-by-krebs-on-security/)
 * [2024-03-18, 12:52:31](https://news.ycombinator.com/item?id=39743673) - [Running late for college, and the scooter is stuck in an update](https://old.reddit.com/r/indianbikes/comments/1bhi2ok/what_the_fck_is_this_i_m_running_late_for_my/)
