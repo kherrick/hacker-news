@@ -1,36 +1,6 @@
 [
   [
     [
-      "2024-03-18, 19:12:04",
-      "https://news.ycombinator.com/item?id=39748624"
-    ],
-    [
-      "IMF Emails Hacked",
-      "https://www.securityweek.com/imf-emails-hacked/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 19:01:02",
-      "https://news.ycombinator.com/item?id=39748495"
-    ],
-    [
-      "\"No way to prevent this\" say users of only language where this regularly happens",
-      "https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 18:54:24",
-      "https://news.ycombinator.com/item?id=39748428"
-    ],
-    [
-      "Have We Reached Peak AI?",
-      "https://www.wheresyoured.at/peakai/"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 17:16:15",
       "https://news.ycombinator.com/item?id=39747105"
     ],
@@ -91,12 +61,12 @@
   ],
   [
     [
-      "2024-03-18, 15:59:34",
-      "https://news.ycombinator.com/item?id=39746256"
+      "2024-03-18, 15:54:43",
+      "https://news.ycombinator.com/item?id=39746195"
     ],
     [
-      "Show HN: Fake or real? Try our AI image detector",
-      "https://trial.nuanced.dev/demo/"
+      "Ravi is a dialect of Lua, with JIT and AOT compilers",
+      "https://github.com/dibyendumajumdar/ravi"
     ]
   ],
   [
@@ -241,12 +211,22 @@
   ],
   [
     [
-      "2024-03-17, 21:41:30",
-      "https://news.ycombinator.com/item?id=39738295"
+      "2024-03-18, 04:26:03",
+      "https://news.ycombinator.com/item?id=39740518"
     ],
     [
-      "Ytoo: A retro-themed portal site",
-      "https://ytoo.org/"
+      "Ask HN: Do you also marvel at the complexity of everyday objects?",
+      "https://news.ycombinator.com/item?id=39740518"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 19:47:14",
+      "https://news.ycombinator.com/item?id=39737401"
+    ],
+    [
+      "2600.network Dialup Service",
+      "https://2600.network/"
     ]
   ],
   [
@@ -257,6 +237,16 @@
     [
       "When Armor Met Lips",
       "https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 16:39:37",
+      "https://news.ycombinator.com/item?id=39735675"
+    ],
+    [
+      "Nanofont3x4: Smallest readable 3x4 font with lowercase (2015)",
+      "https://github.com/Michaelangel007/nanofont3x4"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Zenv: Forth for the ZX Spectrum",
       "https://github.com/Veltas/zenv"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 03:59:07",
+      "https://news.ycombinator.com/item?id=39731824"
+    ],
+    [
+      "The return of the frame pointers",
+      "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html"
     ]
   ],
   [
