@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 17:17:32](https://news.ycombinator.com/item?id=39747116) - [macOS Sonoma 14.4: Reasons Not to Update](https://www.macrumors.com/2024/03/18/do-not-update-macos-sonoma-14-4/)
 * [2024-03-18, 17:16:15](https://news.ycombinator.com/item?id=39747105) - [Oh Shit, My App Is Successful and I Didn't Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 * [2024-03-18, 17:00:14](https://news.ycombinator.com/item?id=39746958) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
 * [2024-03-18, 16:56:13](https://news.ycombinator.com/item?id=39746915) - [From anxiety to cancer, the evidence against ultra-processed food piles up](https://text.npr.org/1238939706)
+* [2024-03-18, 16:47:38](https://news.ycombinator.com/item?id=39746806) - [EPA bans asbestos, a deadly carcinogen still in use decades after partial ban](https://apnews.com/article/epa-asbestos-cancer-brakes-biden-72b0fa8b36adedaff6000034d35c2acd)
 * [2024-03-18, 16:46:42](https://news.ycombinator.com/item?id=39746799) - [\"3 Body Problem\" Is a Rare Species of Sci-Fi Epic](https://www.newyorker.com/magazine/2024/03/25/3-body-problem-tv-review-netflix)
 * [2024-03-18, 16:46:32](https://news.ycombinator.com/item?id=39746796) - [Ads.txt](https://en.wikipedia.org/wiki/Ads.txt)
 * [2024-03-18, 16:37:13](https://news.ycombinator.com/item?id=39746688) - [Apple TV+ Cornered the Market on \"Prestige Dad TV\"](https://www.gq.com/story/apple-tv-plus-prestige-dad-tv)
 * [2024-03-18, 16:35:30](https://news.ycombinator.com/item?id=39746669) - [European Union AI Act](https://goodcomputer.substack.com/p/european-union-ai-act)
 * [2024-03-18, 16:31:55](https://news.ycombinator.com/item?id=39746625) - [RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
+* [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 16:18:34](https://news.ycombinator.com/item?id=39746446) - [How to Escape from the Iron Age?](https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/)
 * [2024-03-18, 16:16:48](https://news.ycombinator.com/item?id=39746427) - [Once America's Hottest Housing Market, Austin Is Running in Reverse](https://www.wsj.com/economy/housing/once-americas-hottest-housing-market-austin-is-running-in-reverse-94226027)
 * [2024-03-18, 16:07:35](https://news.ycombinator.com/item?id=39746333) - [5-year study finds no brain abnormalities in 'Havana Syndrome' patients](https://www.cbc.ca/news/world/havana-syndrome-nih-study-1.7147124)
