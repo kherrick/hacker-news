@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 15:24:07](https://news.ycombinator.com/item?id=39745809) - [Gas Trapped in Antarctic Ice Recorded the Mass Death of 56M People](https://www.atlasobscura.com/articles/colonization-antarctica-ice)
 * [2024-03-18, 14:58:28](https://news.ycombinator.com/item?id=39745466) - [Harvard has halted its long-planned atmospheric geoengineering experiment](https://www.technologyreview.com/2024/03/18/1089879/harvard-halts-its-long-planned-atmospheric-geoengineering-experiment/)
 * [2024-03-18, 14:44:51](https://news.ycombinator.com/item?id=39745254) - [Show HN: Return To Office Mandates suck](https://returntoofficemandate.com/)
 * [2024-03-18, 14:20:21](https://news.ycombinator.com/item?id=39744932) - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
