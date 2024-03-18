@@ -2,9 +2,8 @@
 
 * [2024-03-18, 17:16:15](https://news.ycombinator.com/item?id=39747105) - [Oh Shit, My App Is Successful and I Didn't Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 * [2024-03-18, 17:00:14](https://news.ycombinator.com/item?id=39746958) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
+* [2024-03-18, 16:56:13](https://news.ycombinator.com/item?id=39746915) - [From anxiety to cancer, the evidence against ultra-processed food piles up](https://text.npr.org/1238939706)
 * [2024-03-18, 16:46:42](https://news.ycombinator.com/item?id=39746799) - [\"3 Body Problem\" Is a Rare Species of Sci-Fi Epic](https://www.newyorker.com/magazine/2024/03/25/3-body-problem-tv-review-netflix)
-* [2024-03-18, 16:46:32](https://news.ycombinator.com/item?id=39746796) - [Ads.txt](https://en.wikipedia.org/wiki/Ads.txt)
-* [2024-03-18, 16:37:13](https://news.ycombinator.com/item?id=39746688) - [Apple TV+ Cornered the Market on \"Prestige Dad TV\"](https://www.gq.com/story/apple-tv-plus-prestige-dad-tv)
 * [2024-03-18, 16:31:55](https://news.ycombinator.com/item?id=39746625) - [RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
 * [2024-03-18, 16:18:34](https://news.ycombinator.com/item?id=39746446) - [How to Escape from the Iron Age?](https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/)
 * [2024-03-18, 16:07:35](https://news.ycombinator.com/item?id=39746333) - [5-year study finds no brain abnormalities in 'Havana Syndrome' patients](https://www.cbc.ca/news/world/havana-syndrome-nih-study-1.7147124)
@@ -28,6 +27,7 @@
 * [2024-03-18, 04:26:03](https://news.ycombinator.com/item?id=39740518) - [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
 * [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 * [2024-03-17, 15:27:57](https://news.ycombinator.com/item?id=39735093) - [Ancient Texts Can Shed Light on Auroras](https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/)
+* [2024-03-17, 14:13:27](https://news.ycombinator.com/item?id=39734614) - [Isamu Akasaki’s blue LEDs changed how we light our world](https://spectrum.ieee.org/blue-leds-changed-our-world)
 * [2024-03-17, 00:33:38](https://news.ycombinator.com/item?id=39730748) - [Instinctive Sleeping and Resting Postures (2000)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1119282/)
 * [2024-03-16, 03:13:59](https://news.ycombinator.com/item?id=39723041) - [VR Powered by N64 [video]](https://www.youtube.com/watch?v=ha3fDU-1wHk)
 
