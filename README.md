@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2024-03-18, 20:32:48](https://news.ycombinator.com/item?id=39749647) - [Intermittent fasting linked to a 91% higher risk of cardiovascular death](https://www.eurekalert.org/news-releases/1037544)
+* [2024-03-18, 20:59:44](https://news.ycombinator.com/item?id=39749943) - [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
 * [2024-03-18, 20:32:46](https://news.ycombinator.com/item?id=39749646) - [Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 20:00:06](https://news.ycombinator.com/item?id=39749238) - [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
