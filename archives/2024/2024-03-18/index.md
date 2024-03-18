@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 17:40:27](https://news.ycombinator.com/item?id=39747440) - [JetBrains' Temporary Solution for macOS 14.4 Issue with Java](https://youtrack.jetbrains.com/issue/JBR-6802/Crash-EXCBADINSTRUCTION-from-ObjectMonitorTrySpin-on-macOS-14.4#focus=Change-27-9471539.0-0.pinned)
 * [2024-03-18, 17:17:32](https://news.ycombinator.com/item?id=39747116) - [macOS Sonoma 14.4: Reasons Not to Update](https://www.macrumors.com/2024/03/18/do-not-update-macos-sonoma-14-4/)
 * [2024-03-18, 17:16:15](https://news.ycombinator.com/item?id=39747105) - [Oh Shit, My App Is Successful and I Didn't Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 * [2024-03-18, 17:00:14](https://news.ycombinator.com/item?id=39746958) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
