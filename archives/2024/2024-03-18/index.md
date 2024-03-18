@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 21:19:59](https://news.ycombinator.com/item?id=39750162) - [Turning Points: A meeting with Enrico Fermi (2004)](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
 * [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-03-18, 20:59:44](https://news.ycombinator.com/item?id=39749943) - [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
 * [2024-03-18, 20:32:48](https://news.ycombinator.com/item?id=39749647) - [Intermittent fasting linked to a 91% higher risk of cardiovascular death](https://www.eurekalert.org/news-releases/1037544)
