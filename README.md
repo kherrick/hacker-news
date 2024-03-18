@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-18, 05:31:14](https://news.ycombinator.com/item?id=39740731) - [Apple Is in Talks to Let Google's Gemini Power iPhone Generative AI Features](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools)
+* [2024-03-18, 06:24:32](https://news.ycombinator.com/item?id=39740922) - [Don Knuth letter about libraries increasingly unable to afford prices [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
 * [2024-03-18, 04:48:12](https://news.ycombinator.com/item?id=39740607) - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
 * [2024-03-18, 04:26:03](https://news.ycombinator.com/item?id=39740518) - [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
 * [2024-03-18, 02:51:36](https://news.ycombinator.com/item?id=39740138) - [Upside-Down-Ternet](http://pete.ex-parrot.com/upside-down-ternet.html)

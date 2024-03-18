@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 06:24:32](https://news.ycombinator.com/item?id=39740922) - [Don Knuth letter about libraries increasingly unable to afford prices [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
 * [2024-03-18, 05:31:14](https://news.ycombinator.com/item?id=39740731) - [Apple Is in Talks to Let Google's Gemini Power iPhone Generative AI Features](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools)
 * [2024-03-18, 04:48:43](https://news.ycombinator.com/item?id=39740608) - [Over 35,000 startups shut down in India in 2023](https://indiadispatch.xyz/2024/03/18/over-35000-startups-shut-down-in-india-in-2023/)
 * [2024-03-18, 04:48:12](https://news.ycombinator.com/item?id=39740607) - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
