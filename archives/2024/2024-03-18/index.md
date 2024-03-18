@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 10:06:23](https://news.ycombinator.com/item?id=39742058) - [Microsoft again bothers Chrome users with Bing popup ads in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/)
+* [2024-03-18, 09:54:39](https://news.ycombinator.com/item?id=39741999) - [Boeing 737 MAX engine issue will take up to a year to fix](https://nypost.com/2024/03/16/us-news/boeing-737-max-engine-issue-will-take-up-to-a-year-to-fix/)
+* [2024-03-18, 09:54:36](https://news.ycombinator.com/item?id=39741998) - [Don't upgrade to macOS Sonoma 14.4 yet: plug-in compatibility issues](https://cdm.link/2024/03/ffs-pace/)
+* [2024-03-18, 09:41:28](https://news.ycombinator.com/item?id=39741926) - [Microsoft pushes Bing, GPT-4 in Chrome pop-up adverts](https://www.theregister.com/2024/03/15/chrome_bing_microsoft_pop_ups/)
 * [2024-03-18, 08:01:04](https://news.ycombinator.com/item?id=39741383) - [Uber agrees $178M payout to Australia taxi drivers](https://www.bbc.com/news/business-68594134)
 * [2024-03-18, 07:25:59](https://news.ycombinator.com/item?id=39741207) - [Poseidona is removing invasive algae from oceans and turning it into food](https://techcrunch.com/2024/03/17/poseidona-seaweed-protein-food/)
 * [2024-03-18, 07:21:57](https://news.ycombinator.com/item?id=39741179) - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
