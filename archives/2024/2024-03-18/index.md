@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 16:06:59](https://news.ycombinator.com/item?id=39746327) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
+* [2024-03-18, 16:05:23](https://news.ycombinator.com/item?id=39746314) - [Filipino police free slaves toiling in romance scam operation](https://www.theregister.com/2024/03/18/phillipines_cyberslavery_gang_busted/)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 15:24:07](https://news.ycombinator.com/item?id=39745809) - [Gas Trapped in Antarctic Ice Recorded the Mass Death of 56M People](https://www.atlasobscura.com/articles/colonization-antarctica-ice)
 * [2024-03-18, 15:09:29](https://news.ycombinator.com/item?id=39745610) - [Sensor Tower acquires market intelligence platform data.ai](https://www.prnewswire.com/in/news-releases/sensor-tower-acquires-market-intelligence-platform-dataai-302090807.html)
 * [2024-03-18, 14:58:28](https://news.ycombinator.com/item?id=39745466) - [Harvard has halted its long-planned atmospheric geoengineering experiment](https://www.technologyreview.com/2024/03/18/1089879/harvard-halts-its-long-planned-atmospheric-geoengineering-experiment/)
 * [2024-03-18, 14:44:51](https://news.ycombinator.com/item?id=39745254) - [Show HN: Return To Office Mandates suck](https://returntoofficemandate.com/)
+* [2024-03-18, 14:24:32](https://news.ycombinator.com/item?id=39744989) - [How I Replaced Deadly Garage Door Torsion Springs](https://www.truetex.com/garage.htm)
 * [2024-03-18, 14:20:21](https://news.ycombinator.com/item?id=39744932) - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
 * [2024-03-18, 14:16:54](https://news.ycombinator.com/item?id=39744878) - [Vitamin D Is a Hormone](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story)
 * [2024-03-18, 13:59:58](https://news.ycombinator.com/item?id=39744649) - [Our bacteria are more personal than we thought, new study shows](https://phys.org/news/2024-03-bacteria-personal-thought.html)
