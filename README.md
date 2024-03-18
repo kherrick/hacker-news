@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-18, 06:24:32](https://news.ycombinator.com/item?id=39740922) - [Don Knuth letter about libraries increasingly unable to afford prices [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
+* [2024-03-18, 07:07:53](https://news.ycombinator.com/item?id=39741115) - [macOS Sonoma 14.4 might break Java on your machine](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue)
+* [2024-03-18, 06:24:32](https://news.ycombinator.com/item?id=39740922) - [Don Knuth letter about libraries increasingly unable to afford prices (2003) [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
 * [2024-03-18, 04:48:12](https://news.ycombinator.com/item?id=39740607) - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
 * [2024-03-18, 04:26:03](https://news.ycombinator.com/item?id=39740518) - [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
 * [2024-03-18, 02:51:36](https://news.ycombinator.com/item?id=39740138) - [Upside-Down-Ternet](http://pete.ex-parrot.com/upside-down-ternet.html)
@@ -10,7 +11,6 @@
 * [2024-03-17, 22:16:01](https://news.ycombinator.com/item?id=39738561) - [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
 * [2024-03-17, 22:13:38](https://news.ycombinator.com/item?id=39738547) - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
-* [2024-03-17, 20:39:58](https://news.ycombinator.com/item?id=39737857) - [Torcs for Reinforcement Learning](https://github.com/YurongYou/rlTORCS)
 * [2024-03-17, 20:35:41](https://news.ycombinator.com/item?id=39737810) - [Terminal Latency](https://beuke.org/terminal-latency/)
 * [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
 * [2024-03-17, 19:33:37](https://news.ycombinator.com/item?id=39737281) - [Grok](https://github.com/xai-org/grok)
