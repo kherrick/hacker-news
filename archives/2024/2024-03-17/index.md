@@ -16,6 +16,7 @@
 * [2024-03-17, 21:47:05](https://news.ycombinator.com/item?id=39738342) - [Nvidia in talks to acquire AI infrastructure platform Run:AI](https://www.calcalistech.com/ctechnews/article/rkmbe9e0p)
 * [2024-03-17, 21:44:15](https://news.ycombinator.com/item?id=39738321) - [The Fed's Big Problem, There Are Two Economies but Only One Interest Rate](https://mishtalk.com/economics/the-feds-big-problem-there-are-two-economies-but-only-one-interest-rate/)
 * [2024-03-17, 21:43:29](https://news.ycombinator.com/item?id=39738315) - [Rivian Is Turning into the Subaru of EVs](https://heatmap.news/electric-vehicles/subaru-rivian-r3-suv)
+* [2024-03-17, 21:41:30](https://news.ycombinator.com/item?id=39738295) - [Ytoo: A retro-themed portal site](https://ytoo.org/)
 * [2024-03-17, 21:28:15](https://news.ycombinator.com/item?id=39738223) - [How to overclock the Raspberry Pi 5 beyond 3 GHz](https://www.tomshardware.com/raspberry-pi/how-to-overclock-the-raspberry-pi-5-beyond-3-ghz)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
 * [2024-03-17, 20:39:58](https://news.ycombinator.com/item?id=39737857) - [Torcs for Reinforcement Learning](https://github.com/YurongYou/rlTORCS)

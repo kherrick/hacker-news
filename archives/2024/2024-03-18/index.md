@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 19:12:04](https://news.ycombinator.com/item?id=39748624) - [IMF Emails Hacked](https://www.securityweek.com/imf-emails-hacked/)
+* [2024-03-18, 19:01:02](https://news.ycombinator.com/item?id=39748495) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/)
+* [2024-03-18, 18:54:24](https://news.ycombinator.com/item?id=39748428) - [Have We Reached Peak AI?](https://www.wheresyoured.at/peakai/)
 * [2024-03-18, 18:24:01](https://news.ycombinator.com/item?id=39748001) - [Xata, a new serverless Postgres platform](https://xata.io/blog/serverless-postgres-platform)
 * [2024-03-18, 18:22:18](https://news.ycombinator.com/item?id=39747979) - [Digital bank Onyx Private tells customers it's closing their accounts](https://techcrunch.com/2024/03/18/y-combinator-digital-bank-onyx-private-shuts-customer-accounts/)
 * [2024-03-18, 18:18:31](https://news.ycombinator.com/item?id=39747946) - [Apex Legends finals postponed after suffering unprecedented hack](https://www.polygon.com/24104737/apex-legends-na-finals-destroyer-2009-hack)
