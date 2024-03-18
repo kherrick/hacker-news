@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 20:00:06](https://news.ycombinator.com/item?id=39749238) - [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
 * [2024-03-18, 19:34:30](https://news.ycombinator.com/item?id=39748942) - [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
 * [2024-03-18, 19:29:48](https://news.ycombinator.com/item?id=39748872) - [Waffle House's Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
 * [2024-03-18, 19:19:53](https://news.ycombinator.com/item?id=39748731) - [Collection of System Design Articles](https://github.com/systemdesign42/system-design)
 * [2024-03-18, 19:12:04](https://news.ycombinator.com/item?id=39748624) - [IMF Emails Hacked](https://www.securityweek.com/imf-emails-hacked/)
+* [2024-03-18, 19:10:18](https://news.ycombinator.com/item?id=39748603) - [Show HN: Next-Gen AI Training: LLM-RLHF-Tuning with PPO and DPO](https://github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO)
 * [2024-03-18, 19:01:02](https://news.ycombinator.com/item?id=39748495) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 18:54:24](https://news.ycombinator.com/item?id=39748428) - [Have We Reached Peak AI?](https://www.wheresyoured.at/peakai/)
 * [2024-03-18, 18:24:01](https://news.ycombinator.com/item?id=39748001) - [Xata, a new serverless Postgres platform](https://xata.io/blog/serverless-postgres-platform)

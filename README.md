@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-18, 20:00:06](https://news.ycombinator.com/item?id=39749238) - [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
 * [2024-03-18, 19:34:30](https://news.ycombinator.com/item?id=39748942) - [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
 * [2024-03-18, 19:29:48](https://news.ycombinator.com/item?id=39748872) - [Waffle House's Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
-* [2024-03-18, 19:19:53](https://news.ycombinator.com/item?id=39748731) - [Collection of System Design Articles](https://github.com/systemdesign42/system-design)
+* [2024-03-18, 19:10:18](https://news.ycombinator.com/item?id=39748603) - [Show HN: Next-Gen AI Training: LLM-RLHF-Tuning with PPO and DPO](https://github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO)
 * [2024-03-18, 17:16:15](https://news.ycombinator.com/item?id=39747105) - [Oh shit, my app is successful and I didn't think about accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 * [2024-03-18, 17:00:14](https://news.ycombinator.com/item?id=39746958) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
 * [2024-03-18, 16:47:38](https://news.ycombinator.com/item?id=39746806) - [EPA bans asbestos, a deadly carcinogen still in use decades after partial ban](https://apnews.com/article/epa-asbestos-cancer-brakes-biden-72b0fa8b36adedaff6000034d35c2acd)
@@ -24,7 +25,6 @@
 * [2024-03-18, 08:45:52](https://news.ycombinator.com/item?id=39741600) - [Building a streaming SQL engine with Arrow and DataFusion](https://www.arroyo.dev/blog/why-arrow-and-datafusion)
 * [2024-03-18, 04:59:35](https://news.ycombinator.com/item?id=39740654) - [Step by Step: Thinking through and beyond the repair manual](https://placesjournal.org/article/step-by-step-repair-manuals-political-ecology/)
 * [2024-03-18, 04:48:12](https://news.ycombinator.com/item?id=39740607) - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
-* [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
 * [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 * [2024-03-17, 15:27:57](https://news.ycombinator.com/item?id=39735093) - [Ancient Texts Can Shed Light on Auroras](https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/)
 * [2024-03-17, 14:45:40](https://news.ycombinator.com/item?id=39734803) - [Zenv: Forth for the ZX Spectrum](https://github.com/Veltas/zenv)
