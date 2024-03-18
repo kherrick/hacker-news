@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 16:18:34](https://news.ycombinator.com/item?id=39746446) - [How to Escape from the Iron Age?](https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/)
+* [2024-03-18, 16:16:48](https://news.ycombinator.com/item?id=39746427) - [Once America's Hottest Housing Market, Austin Is Running in Reverse](https://www.wsj.com/economy/housing/once-americas-hottest-housing-market-austin-is-running-in-reverse-94226027)
 * [2024-03-18, 16:06:59](https://news.ycombinator.com/item?id=39746327) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
 * [2024-03-18, 16:05:23](https://news.ycombinator.com/item?id=39746314) - [Filipino police free slaves toiling in romance scam operation](https://www.theregister.com/2024/03/18/phillipines_cyberslavery_gang_busted/)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
@@ -13,6 +15,7 @@
 * [2024-03-18, 14:58:28](https://news.ycombinator.com/item?id=39745466) - [Harvard has halted its long-planned atmospheric geoengineering experiment](https://www.technologyreview.com/2024/03/18/1089879/harvard-halts-its-long-planned-atmospheric-geoengineering-experiment/)
 * [2024-03-18, 14:44:51](https://news.ycombinator.com/item?id=39745254) - [Show HN: Return To Office Mandates suck](https://returntoofficemandate.com/)
 * [2024-03-18, 14:39:15](https://news.ycombinator.com/item?id=39745183) - [.well-known/avatar](https://shkspr.mobi/blog/2024/03/well-known-avatar/)
+* [2024-03-18, 14:30:20](https://news.ycombinator.com/item?id=39745072) - [Nomadic Identity Is Coming to ActivityPub](https://wedistribute.org/2024/03/activitypub-nomadic-identity/)
 * [2024-03-18, 14:24:32](https://news.ycombinator.com/item?id=39744989) - [How I Replaced Deadly Garage Door Torsion Springs](https://www.truetex.com/garage.htm)
 * [2024-03-18, 14:20:21](https://news.ycombinator.com/item?id=39744932) - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
 * [2024-03-18, 14:16:54](https://news.ycombinator.com/item?id=39744878) - [Vitamin D Is a Hormone](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story)
