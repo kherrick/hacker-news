@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-03-18, 07:07:53",
+      "https://news.ycombinator.com/item?id=39741115"
+    ],
+    [
+      "macOS Sonoma 14.4 might break Java on your machine",
+      "https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 06:24:32",
       "https://news.ycombinator.com/item?id=39740922"
     ],
     [
-      "Don Knuth letter about libraries increasingly unable to afford prices [pdf]",
+      "Don Knuth letter about libraries increasingly unable to afford prices (2003) [pdf]",
       "https://cs.stanford.edu/~knuth/joalet.pdf"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Meticulous (YC S21) is hiring to eliminate UI tests",
       "https://news.ycombinator.com/item?id=39738042"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 20:39:58",
-      "https://news.ycombinator.com/item?id=39737857"
-    ],
-    [
-      "Torcs for Reinforcement Learning",
-      "https://github.com/YurongYou/rlTORCS"
     ]
   ],
   [
