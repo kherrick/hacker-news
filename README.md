@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-18, 03:34:01](https://news.ycombinator.com/item?id=39740306) - [Journeyart.ai: Harness Midjourney's Power for 6 Free AI Artworks Daily](https://www.journeyart.ai/)
 * [2024-03-18, 01:26:15](https://news.ycombinator.com/item?id=39739688) - [IBM Research: Experience with an Uncommon Lisp (1986) [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
 * [2024-03-17, 22:16:01](https://news.ycombinator.com/item?id=39738561) - [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
 * [2024-03-17, 22:13:38](https://news.ycombinator.com/item?id=39738547) - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
@@ -26,7 +27,6 @@
 * [2024-03-17, 04:57:21](https://news.ycombinator.com/item?id=39732035) - [Sul Ross Desk](https://www.atlasobscura.com/places/sul-ross-desk-alpine-texas)
 * [2024-03-17, 03:59:07](https://news.ycombinator.com/item?id=39731824) - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 * [2024-03-17, 01:13:30](https://news.ycombinator.com/item?id=39730984) - [DIY Macro PCB Photography](https://niemczuk.tech/2024/02/11/detailed-macrophotography-of-PCBs)
-* [2024-03-17, 00:12:03](https://news.ycombinator.com/item?id=39730625) - [Gravitational Collapse of Spongebob](https://twitter.com/PeRossello/status/1769035370031694214)
 * [2024-03-16, 03:21:57](https://news.ycombinator.com/item?id=39723088) - [America's Last Top Models](https://www.newyorker.com/culture/culture-desk/americas-last-top-models)
 * [2024-03-16, 02:16:22](https://news.ycombinator.com/item?id=39722729) - [What are the \"worst\" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
 * [2024-03-15, 11:36:47](https://news.ycombinator.com/item?id=39714379) - [A Mathematician on Creativity, Art, Logic and Language](https://www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/)
