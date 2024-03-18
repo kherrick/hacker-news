@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 13:05:26](https://news.ycombinator.com/item?id=39743871) - [Optery's Statement Following Investigative Report on Onerep by Krebs on Security](https://www.optery.com/optery-statement-following-investigative-report-on-onerep-by-krebs-on-security/)
 * [2024-03-18, 12:52:31](https://news.ycombinator.com/item?id=39743673) - [Running late for college, and the scooter is stuck in an update](https://old.reddit.com/r/indianbikes/comments/1bhi2ok/what_the_fck_is_this_i_m_running_late_for_my/)
 * [2024-03-18, 12:45:49](https://news.ycombinator.com/item?id=39743594) - [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
 * [2024-03-18, 12:37:14](https://news.ycombinator.com/item?id=39743483) - [Ask HN: What are your oldest \"online\" accounts still in use?](https://news.ycombinator.com/item?id=39743483)

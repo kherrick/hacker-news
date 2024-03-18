@@ -60,6 +60,7 @@
 * [2024-03-17, 15:42:02](https://news.ycombinator.com/item?id=39735205) - [Seeding steel frames brings destroyed coral reefs back to life](https://arstechnica.com/science/2024/03/some-coral-reef-damage-can-be-fixed/)
 * [2024-03-17, 15:29:35](https://news.ycombinator.com/item?id=39735108) - [Ask HN: If you've used GPT-4-Turbo and Claude Opus, which do you prefer?](https://news.ycombinator.com/item?id=39735108)
 * [2024-03-17, 15:28:12](https://news.ycombinator.com/item?id=39735096) - [Why Are There Suddenly So Many Car Washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
+* [2024-03-17, 15:27:57](https://news.ycombinator.com/item?id=39735093) - [Ancient Texts Can Shed Light on Auroras](https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/)
 * [2024-03-17, 15:05:05](https://news.ycombinator.com/item?id=39734920) - [Apple's New CarPlay Becomes Last Hope to Crack the Auto Industry](https://www.bloomberg.com/news/newsletters/2024-03-17/apple-aapl-revamped-carplay-becomes-last-hope-after-apple-car-is-canceled-ltvif8zt)
 * [2024-03-17, 14:50:50](https://news.ycombinator.com/item?id=39734825) - [Ahead of IPO, Reddit blends advertising into user posts](https://www.theregister.com/2024/03/16/reddit_promoted_posts/)
 * [2024-03-17, 14:14:04](https://news.ycombinator.com/item?id=39734619) - [The News Business Is Cratering](https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187)
