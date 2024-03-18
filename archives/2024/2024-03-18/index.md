@@ -12,6 +12,7 @@
 * [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-18, 11:25:16](https://news.ycombinator.com/item?id=39742578) - [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
+* [2024-03-18, 11:11:06](https://news.ycombinator.com/item?id=39742495) - [Uber and Lyft leave Minneapolis over $15 minimum wage](https://kstp.com/kstp-news/top-news/businesses-rideshare-drivers-look-to-the-future-as-uber-lyft-plan-to-pull-out-of-minneapolis/)
 * [2024-03-18, 11:01:30](https://news.ycombinator.com/item?id=39742422) - [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
 * [2024-03-18, 10:51:26](https://news.ycombinator.com/item?id=39742349) - [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
 * [2024-03-18, 10:50:53](https://news.ycombinator.com/item?id=39742343) - [I Turned 72 Today](https://old.reddit.com/r/lifehacks/comments/1bgw44k/i_turned_72_today/)
