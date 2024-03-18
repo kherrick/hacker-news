@@ -8,6 +8,7 @@
 * [2024-03-18, 09:56:23](https://news.ycombinator.com/item?id=39742010) - [Hypothesis That Universe Has No Dark Matter and Is 27B Years Old](https://www.sciencealert.com/physicist-claims-universe-has-no-dark-matter-and-is-27-billion-years-old)
 * [2024-03-18, 09:54:39](https://news.ycombinator.com/item?id=39741999) - [Boeing 737 MAX engine issue will take up to a year to fix](https://nypost.com/2024/03/16/us-news/boeing-737-max-engine-issue-will-take-up-to-a-year-to-fix/)
 * [2024-03-18, 09:54:36](https://news.ycombinator.com/item?id=39741998) - [Don't upgrade to macOS Sonoma 14.4 yet: plug-in compatibility issues](https://cdm.link/2024/03/ffs-pace/)
+* [2024-03-18, 09:46:57](https://news.ycombinator.com/item?id=39741956) - [Transpile Any SQL to PostgreSQL Dialect](https://gitlab.com/dalibo/transqlate)
 * [2024-03-18, 09:41:28](https://news.ycombinator.com/item?id=39741926) - [Microsoft pushes Bing, GPT-4 in Chrome pop-up adverts](https://www.theregister.com/2024/03/15/chrome_bing_microsoft_pop_ups/)
 * [2024-03-18, 08:38:08](https://news.ycombinator.com/item?id=39741565) - [Show HN: Let's Build AI](https://letsbuild.ai)
 * [2024-03-18, 08:01:04](https://news.ycombinator.com/item?id=39741383) - [Uber agrees $178M payout to Australia taxi drivers](https://www.bbc.com/news/business-68594134)
