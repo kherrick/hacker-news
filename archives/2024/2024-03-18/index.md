@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
 * [2024-03-18, 11:25:16](https://news.ycombinator.com/item?id=39742578) - [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
+* [2024-03-18, 11:01:30](https://news.ycombinator.com/item?id=39742422) - [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
 * [2024-03-18, 10:51:26](https://news.ycombinator.com/item?id=39742349) - [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
 * [2024-03-18, 10:50:53](https://news.ycombinator.com/item?id=39742343) - [I Turned 72 Today](https://old.reddit.com/r/lifehacks/comments/1bgw44k/i_turned_72_today/)
 * [2024-03-18, 10:48:52](https://news.ycombinator.com/item?id=39742327) - [In Economics Do We Know What We're Doing? Nobel Prize winner grows disenchanted](https://www.chronicle.com/article/in-economics-do-we-know-what-were-doing)
@@ -14,6 +15,7 @@
 * [2024-03-18, 09:54:39](https://news.ycombinator.com/item?id=39741999) - [Boeing 737 MAX engine issue will take up to a year to fix](https://nypost.com/2024/03/16/us-news/boeing-737-max-engine-issue-will-take-up-to-a-year-to-fix/)
 * [2024-03-18, 09:54:36](https://news.ycombinator.com/item?id=39741998) - [Don't upgrade to macOS Sonoma 14.4 yet: plug-in compatibility issues](https://cdm.link/2024/03/ffs-pace/)
 * [2024-03-18, 09:46:57](https://news.ycombinator.com/item?id=39741956) - [Transpile Any SQL to PostgreSQL Dialect](https://gitlab.com/dalibo/transqlate)
+* [2024-03-18, 09:42:38](https://news.ycombinator.com/item?id=39741933) - [Hot takes on Devin, the AI software engineer](https://tomhipwell.co/blog/devin/)
 * [2024-03-18, 09:41:28](https://news.ycombinator.com/item?id=39741926) - [Microsoft pushes Bing, GPT-4 in Chrome pop-up adverts](https://www.theregister.com/2024/03/15/chrome_bing_microsoft_pop_ups/)
 * [2024-03-18, 09:15:58](https://news.ycombinator.com/item?id=39741781) - [Car is spying on you, leading to higher insurance rates](https://nypost.com/2024/03/12/business/your-car-is-spying-on-you-and-upping-your-insurance-rates-report/)
 * [2024-03-18, 08:38:08](https://news.ycombinator.com/item?id=39741565) - [Show HN: Let's Build AI](https://letsbuild.ai)
