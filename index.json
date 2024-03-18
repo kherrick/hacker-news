@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-18, 04:48:43",
-      "https://news.ycombinator.com/item?id=39740608"
+      "2024-03-18, 04:48:12",
+      "https://news.ycombinator.com/item?id=39740607"
     ],
     [
-      "Over 35,000 startups shut down in India in 2023",
-      "https://indiadispatch.xyz/2024/03/18/over-35000-startups-shut-down-in-india-in-2023/"
+      "Bats of the Midnight Sun",
+      "https://hakaimagazine.com/features/bats-of-the-midnight-sun/"
     ]
   ],
   [
@@ -27,6 +27,26 @@
     [
       "Experience with an Uncommon Lisp (1986) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/319838.319849"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 22:44:03",
+      "https://news.ycombinator.com/item?id=39738722"
+    ],
+    [
+      "What I wish I knew about ESPP and RSUs sooner",
+      "https://blog.demofox.org/2024/03/17/what-i-wish-i-knew-about-espp-and-rsus-sooner-company-stock-benefits-2024-usa-california/"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 22:28:54",
+      "https://news.ycombinator.com/item?id=39738639"
+    ],
+    [
+      "6.2 GHz Intel Core I9-14900KS Review",
+      "https://www.tomshardware.com/pc-components/cpus/intel-core-i9-14900ks-cpu-review"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Meticulous (YC S21) is hiring to eliminate UI tests",
       "https://news.ycombinator.com/item?id=39738042"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 20:39:58",
-      "https://news.ycombinator.com/item?id=39737857"
-    ],
-    [
-      "Torcs for Reinforcement Learning",
-      "https://github.com/YurongYou/rlTORCS"
     ]
   ],
   [
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=39735675"
     ],
     [
-      "Nanofont3x4: Smallest readable 3x4 font with lowercase",
+      "Nanofont3x4: Smallest readable 3x4 font with lowercase (2015)",
       "https://github.com/Michaelangel007/nanofont3x4"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "The High-Risk Refactoring",
       "https://webup.org/blog/the-high-risk-refactoring/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 16:04:52",
-      "https://news.ycombinator.com/item?id=39735380"
-    ],
-    [
-      "Boinc lets you help cutting-edge science research using your computer",
-      "https://boinc.berkeley.edu/index.php"
     ]
   ],
   [
