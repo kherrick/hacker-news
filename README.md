@@ -20,6 +20,7 @@
 * [2024-03-17, 16:39:37](https://news.ycombinator.com/item?id=39735675) - [Nanofont3x4: Smallest readable 3x4 font with lowercase (2015)](https://github.com/Michaelangel007/nanofont3x4)
 * [2024-03-17, 16:38:45](https://news.ycombinator.com/item?id=39735669) - [Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:25:45](https://news.ycombinator.com/item?id=39735570) - [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
+* [2024-03-17, 16:04:52](https://news.ycombinator.com/item?id=39735380) - [Boinc lets you help cutting-edge science research using your computer](https://boinc.berkeley.edu/index.php)
 * [2024-03-17, 15:28:12](https://news.ycombinator.com/item?id=39735096) - [Why are there suddenly so many car washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
 * [2024-03-17, 11:29:55](https://news.ycombinator.com/item?id=39733685) - [History of Uniform Random Number Generation (2017) [pdf]](https://www.informs-sim.org/wsc17papers/includes/files/016.pdf)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
@@ -28,7 +29,6 @@
 * [2024-03-17, 03:59:07](https://news.ycombinator.com/item?id=39731824) - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 * [2024-03-17, 01:13:30](https://news.ycombinator.com/item?id=39730984) - [DIY Macro PCB Photography](https://niemczuk.tech/2024/02/11/detailed-macrophotography-of-PCBs)
 * [2024-03-16, 03:21:57](https://news.ycombinator.com/item?id=39723088) - [America's Last Top Models](https://www.newyorker.com/culture/culture-desk/americas-last-top-models)
-* [2024-03-16, 02:16:22](https://news.ycombinator.com/item?id=39722729) - [What are the \"worst\" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
 * [2024-03-15, 11:36:47](https://news.ycombinator.com/item?id=39714379) - [A Mathematician on Creativity, Art, Logic and Language](https://www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/)
 
 ## [Archives](archives/index.md)
