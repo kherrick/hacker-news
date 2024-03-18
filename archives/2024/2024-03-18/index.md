@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 17:00:14](https://news.ycombinator.com/item?id=39746958) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
+* [2024-03-18, 16:56:13](https://news.ycombinator.com/item?id=39746915) - [From anxiety to cancer, the evidence against ultra-processed food piles up](https://text.npr.org/1238939706)
+* [2024-03-18, 16:35:30](https://news.ycombinator.com/item?id=39746669) - [European Union AI Act](https://goodcomputer.substack.com/p/european-union-ai-act)
 * [2024-03-18, 16:18:34](https://news.ycombinator.com/item?id=39746446) - [How to Escape from the Iron Age?](https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/)
 * [2024-03-18, 16:16:48](https://news.ycombinator.com/item?id=39746427) - [Once America's Hottest Housing Market, Austin Is Running in Reverse](https://www.wsj.com/economy/housing/once-americas-hottest-housing-market-austin-is-running-in-reverse-94226027)
 * [2024-03-18, 16:06:59](https://news.ycombinator.com/item?id=39746327) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
