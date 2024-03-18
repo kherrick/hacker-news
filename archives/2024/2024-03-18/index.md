@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 07:21:57](https://news.ycombinator.com/item?id=39741179) - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
 * [2024-03-18, 07:07:53](https://news.ycombinator.com/item?id=39741115) - [macOS Sonoma 14.4 might break Java on your machine](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue)
 * [2024-03-18, 06:24:32](https://news.ycombinator.com/item?id=39740922) - [Don Knuth letter about libraries increasingly unable to afford prices [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
 * [2024-03-18, 05:31:14](https://news.ycombinator.com/item?id=39740731) - [Apple Is in Talks to Let Google's Gemini Power iPhone Generative AI Features](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools)
