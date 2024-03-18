@@ -13,7 +13,6 @@
 * [2024-03-18, 16:07:35](https://news.ycombinator.com/item?id=39746333) - [5-year study finds no brain abnormalities in 'Havana Syndrome' patients](https://www.cbc.ca/news/world/havana-syndrome-nih-study-1.7147124)
 * [2024-03-18, 15:54:43](https://news.ycombinator.com/item?id=39746195) - [Ravi is a dialect of Lua, with JIT and AOT compilers](https://github.com/dibyendumajumdar/ravi)
 * [2024-03-18, 15:52:02](https://news.ycombinator.com/item?id=39746163) - [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything](https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/)
-* [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 14:30:20](https://news.ycombinator.com/item?id=39745072) - [Nomadic Identity Is Coming to ActivityPub](https://wedistribute.org/2024/03/activitypub-nomadic-identity/)
 * [2024-03-18, 14:24:32](https://news.ycombinator.com/item?id=39744989) - [How I replaced deadly garage door torsion springs (2002)](https://www.truetex.com/garage.htm)
@@ -30,6 +29,7 @@
 * [2024-03-17, 22:16:48](https://news.ycombinator.com/item?id=39738571) - [Inferring the \"Meaning\" of Wing-Tail Flicking Behavior in American Crows](https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1096&context=research_days_posters_2021)
 * [2024-03-17, 15:27:57](https://news.ycombinator.com/item?id=39735093) - [Ancient Texts Can Shed Light on Auroras](https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/)
 * [2024-03-16, 03:13:59](https://news.ycombinator.com/item?id=39723041) - [VR Powered by N64 [video]](https://www.youtube.com/watch?v=ha3fDU-1wHk)
+* [2024-03-16, 03:10:55](https://news.ycombinator.com/item?id=39723022) - [First N-channel diamond field-effect transistor for CMOS integrated circuits](https://techxplore.com/news/2024-03-world-channel-diamond-field-effect.html)
 
 ## [Archives](archives/index.md)
 

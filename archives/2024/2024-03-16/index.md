@@ -118,6 +118,7 @@
 * [2024-03-16, 03:29:51](https://news.ycombinator.com/item?id=39723135) - [Boeing 737 makes emergency landing in Oregon after losing panel in mid-air](https://old.reddit.com/r/pics/comments/1bfqefi/united_airlines_boeing_737_makes_emergency/)
 * [2024-03-16, 03:21:57](https://news.ycombinator.com/item?id=39723088) - [America's Last Top Models](https://www.newyorker.com/culture/culture-desk/americas-last-top-models)
 * [2024-03-16, 03:13:59](https://news.ycombinator.com/item?id=39723041) - [VR Powered by N64 [video]](https://www.youtube.com/watch?v=ha3fDU-1wHk)
+* [2024-03-16, 03:10:55](https://news.ycombinator.com/item?id=39723022) - [First N-channel diamond field-effect transistor for CMOS integrated circuits](https://techxplore.com/news/2024-03-world-channel-diamond-field-effect.html)
 * [2024-03-16, 03:09:30](https://news.ycombinator.com/item?id=39723012) - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
 * [2024-03-16, 02:35:33](https://news.ycombinator.com/item?id=39722836) - [Reddit's Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
 * [2024-03-16, 02:16:22](https://news.ycombinator.com/item?id=39722729) - [What are the \"worst\" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
