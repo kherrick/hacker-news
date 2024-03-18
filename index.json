@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-03-18, 15:24:07",
-      "https://news.ycombinator.com/item?id=39745809"
-    ],
-    [
-      "Gas Trapped in Antarctic Ice Recorded the Mass Death of 56M People",
-      "https://www.atlasobscura.com/articles/colonization-antarctica-ice"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 14:20:21",
       "https://news.ycombinator.com/item?id=39744932"
     ],
     [
       "Paris cycling numbers double in one year thanks to investment",
       "https://momentummag.com/paris-cycling-numbers-double/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 13:59:58",
-      "https://news.ycombinator.com/item?id=39744649"
-    ],
-    [
-      "Our bacteria are more personal than we thought, new study shows",
-      "https://phys.org/news/2024-03-bacteria-personal-thought.html"
     ]
   ],
   [
@@ -77,6 +57,16 @@
     [
       "Cranelift code generation comes to Rust",
       "https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 11:34:36",
+      "https://news.ycombinator.com/item?id=39742650"
+    ],
+    [
+      "The Mechanics of Async Await",
+      "https://blog.resonatehq.io/async-await-mechanics"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Experience with an Uncommon Lisp (1986) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/319838.319849"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 00:45:17",
+      "https://news.ycombinator.com/item?id=39739444"
+    ],
+    [
+      "JPEG DCT Text Lossifizer",
+      "https://lcamtuf.coredump.cx/lossifizer/"
     ]
   ],
   [
