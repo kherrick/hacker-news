@@ -22,6 +22,7 @@
 * [2024-03-18, 16:06:59](https://news.ycombinator.com/item?id=39746327) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
 * [2024-03-18, 16:05:23](https://news.ycombinator.com/item?id=39746314) - [Filipino police free slaves toiling in romance scam operation](https://www.theregister.com/2024/03/18/phillipines_cyberslavery_gang_busted/)
 * [2024-03-18, 15:59:34](https://news.ycombinator.com/item?id=39746256) - [Show HN: Fake or real? Try our AI image detector](https://trial.nuanced.dev/demo/)
+* [2024-03-18, 15:52:02](https://news.ycombinator.com/item?id=39746163) - [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything](https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/)
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 15:24:07](https://news.ycombinator.com/item?id=39745809) - [Gas Trapped in Antarctic Ice Recorded the Mass Death of 56M People](https://www.atlasobscura.com/articles/colonization-antarctica-ice)
