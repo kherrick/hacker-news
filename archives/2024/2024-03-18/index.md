@@ -21,6 +21,7 @@
 * [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 * [2024-03-18, 11:53:10](https://news.ycombinator.com/item?id=39742855) - [Boeing Tells Airlines to Check 787 Cockpit Seats After Mishap on Latam Flight](https://www.msn.com/en-us/travel/news/cockpit-mishap-might-have-caused-plunge-on-latam-boeing-787/ar-BB1jUQzi)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
+* [2024-03-18, 11:34:36](https://news.ycombinator.com/item?id=39742650) - [The Mechanics of Async Await](https://blog.resonatehq.io/async-await-mechanics)
 * [2024-03-18, 11:25:16](https://news.ycombinator.com/item?id=39742578) - [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
 * [2024-03-18, 11:11:06](https://news.ycombinator.com/item?id=39742495) - [Uber and Lyft leave Minneapolis over $15 minimum wage](https://kstp.com/kstp-news/top-news/businesses-rideshare-drivers-look-to-the-future-as-uber-lyft-plan-to-pull-out-of-minneapolis/)
 * [2024-03-18, 11:01:30](https://news.ycombinator.com/item?id=39742422) - [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
@@ -59,3 +60,4 @@
 * [2024-03-18, 01:26:15](https://news.ycombinator.com/item?id=39739688) - [IBM Research: Experience with an Uncommon Lisp (1986) [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
 * [2024-03-18, 01:19:01](https://news.ycombinator.com/item?id=39739647) - [American News Lost Its Nerve](https://www.semafor.com/article/03/17/2024/very-few-have-balls-how-american-news-lost-its-nerve)
 * [2024-03-18, 01:06:15](https://news.ycombinator.com/item?id=39739579) - [X.ai's Grok-1 Model Is Officially Open-Source and Larger Than Expected](https://synthedia.substack.com/p/xais-grok-1-model-is-officially-open)
+* [2024-03-18, 00:45:17](https://news.ycombinator.com/item?id=39739444) - [JPEG DCT Text Lossifizer](https://lcamtuf.coredump.cx/lossifizer/)
