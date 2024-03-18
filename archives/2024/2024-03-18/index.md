@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 14:20:21](https://news.ycombinator.com/item?id=39744932) - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
+* [2024-03-18, 13:59:58](https://news.ycombinator.com/item?id=39744649) - [Our bacteria are more personal than we thought, new study shows](https://phys.org/news/2024-03-bacteria-personal-thought.html)
+* [2024-03-18, 13:56:53](https://news.ycombinator.com/item?id=39744595) - [Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
 * [2024-03-18, 13:45:37](https://news.ycombinator.com/item?id=39744430) - [Modifying mouth bacteria to remove cavities](https://www.luminaprobiotic.com/)
 * [2024-03-18, 13:26:23](https://news.ycombinator.com/item?id=39744151) - [I'm So Old: Web Edition](https://davidwalsh.name/im-so-old-1)
 * [2024-03-18, 13:05:26](https://news.ycombinator.com/item?id=39743871) - [Optery's Statement Following Investigative Report on Onerep by Krebs on Security](https://www.optery.com/optery-statement-following-investigative-report-on-onerep-by-krebs-on-security/)
@@ -42,6 +45,7 @@
 * [2024-03-18, 06:24:32](https://news.ycombinator.com/item?id=39740922) - [Don Knuth letter about libraries increasingly unable to afford prices [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
 * [2024-03-18, 05:34:28](https://news.ycombinator.com/item?id=39740744) - [Show HN: Out-of-the-box text classification models](https://www.ycombinator.com/launches/KfT-taylor-tag-your-text-data-at-scale)
 * [2024-03-18, 05:31:14](https://news.ycombinator.com/item?id=39740731) - [Apple Is in Talks to Let Google's Gemini Power iPhone Generative AI Features](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools)
+* [2024-03-18, 04:59:35](https://news.ycombinator.com/item?id=39740654) - [Step by Step: Thinking through and beyond the repair manual](https://placesjournal.org/article/step-by-step-repair-manuals-political-ecology/)
 * [2024-03-18, 04:48:43](https://news.ycombinator.com/item?id=39740608) - [Over 35,000 startups shut down in India in 2023](https://indiadispatch.xyz/2024/03/18/over-35000-startups-shut-down-in-india-in-2023/)
 * [2024-03-18, 04:48:12](https://news.ycombinator.com/item?id=39740607) - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
 * [2024-03-18, 04:26:03](https://news.ycombinator.com/item?id=39740518) - [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
