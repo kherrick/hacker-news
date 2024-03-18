@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2024-03-18, 16:46:32",
+      "https://news.ycombinator.com/item?id=39746796"
+    ],
+    [
+      "Ads.txt",
+      "https://en.wikipedia.org/wiki/Ads.txt"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 16:37:13",
+      "https://news.ycombinator.com/item?id=39746688"
+    ],
+    [
+      "Apple TV+ Cornered the Market on \"Prestige Dad TV\"",
+      "https://www.gq.com/story/apple-tv-plus-prestige-dad-tv"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 16:35:30",
       "https://news.ycombinator.com/item?id=39746669"
     ],
@@ -31,12 +51,52 @@
   ],
   [
     [
+      "2024-03-18, 16:31:55",
+      "https://news.ycombinator.com/item?id=39746625"
+    ],
+    [
+      "RP2040 Boot Sequence",
+      "https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 16:18:34",
       "https://news.ycombinator.com/item?id=39746446"
     ],
     [
       "How to Escape from the Iron Age?",
       "https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 16:07:35",
+      "https://news.ycombinator.com/item?id=39746333"
+    ],
+    [
+      "5-year study finds no brain abnormalities in 'Havana Syndrome' patients",
+      "https://www.cbc.ca/news/world/havana-syndrome-nih-study-1.7147124"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 15:59:34",
+      "https://news.ycombinator.com/item?id=39746256"
+    ],
+    [
+      "Show HN: Fake or real? Try our AI image detector",
+      "https://trial.nuanced.dev/demo/"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 15:36:57",
+      "https://news.ycombinator.com/item?id=39745993"
+    ],
+    [
+      "WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport",
+      "https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html"
     ]
   ],
   [
@@ -201,26 +261,6 @@
   ],
   [
     [
-      "2024-03-18, 01:26:15",
-      "https://news.ycombinator.com/item?id=39739688"
-    ],
-    [
-      "Experience with an Uncommon Lisp (1986) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/319838.319849"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 19:47:14",
-      "https://news.ycombinator.com/item?id=39737401"
-    ],
-    [
-      "2600.network Dialup Service",
-      "https://2600.network/"
-    ]
-  ],
-  [
-    [
       "2024-03-17, 16:44:12",
       "https://news.ycombinator.com/item?id=39735716"
     ],
@@ -231,42 +271,12 @@
   ],
   [
     [
-      "2024-03-17, 16:39:37",
-      "https://news.ycombinator.com/item?id=39735675"
-    ],
-    [
-      "Nanofont3x4: Smallest readable 3x4 font with lowercase (2015)",
-      "https://github.com/Michaelangel007/nanofont3x4"
-    ]
-  ],
-  [
-    [
       "2024-03-17, 15:27:57",
       "https://news.ycombinator.com/item?id=39735093"
     ],
     [
       "Ancient Texts Can Shed Light on Auroras",
       "https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 04:57:21",
-      "https://news.ycombinator.com/item?id=39732035"
-    ],
-    [
-      "Sul Ross Desk",
-      "https://www.atlasobscura.com/places/sul-ross-desk-alpine-texas"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 03:59:07",
-      "https://news.ycombinator.com/item?id=39731824"
-    ],
-    [
-      "The return of the frame pointers",
-      "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "VR Powered by N64 [video]",
       "https://www.youtube.com/watch?v=ha3fDU-1wHk"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 11:36:47",
-      "https://news.ycombinator.com/item?id=39714379"
-    ],
-    [
-      "A Mathematician on Creativity, Art, Logic and Language",
-      "https://www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/"
     ]
   ]
 ]
