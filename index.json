@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-03-18, 09:46:57",
+      "https://news.ycombinator.com/item?id=39741956"
+    ],
+    [
+      "Transpile Any SQL to PostgreSQL Dialect",
+      "https://gitlab.com/dalibo/transqlate"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 09:41:28",
       "https://news.ycombinator.com/item?id=39741926"
     ],
@@ -187,16 +197,6 @@
     [
       "Grok",
       "https://github.com/xai-org/grok"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 19:14:56",
-      "https://news.ycombinator.com/item?id=39737122"
-    ],
-    [
-      "Vector: A high-performance observability data pipeline",
-      "https://github.com/vectordotdev/vector"
     ]
   ],
   [
