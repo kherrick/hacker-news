@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-18, 08:01:04](https://news.ycombinator.com/item?id=39741383) - [Uber agrees $178M payout to Australia taxi drivers](https://www.bbc.com/news/business-68594134)
+* [2024-03-18, 07:25:59](https://news.ycombinator.com/item?id=39741207) - [Poseidona is removing invasive algae from oceans and turning it into food](https://techcrunch.com/2024/03/17/poseidona-seaweed-protein-food/)
 * [2024-03-18, 07:21:57](https://news.ycombinator.com/item?id=39741179) - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
 * [2024-03-18, 07:07:53](https://news.ycombinator.com/item?id=39741115) - [macOS Sonoma 14.4 might break Java on your machine](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue)
 * [2024-03-18, 06:24:32](https://news.ycombinator.com/item?id=39740922) - [Don Knuth letter about libraries increasingly unable to afford prices (2003) [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
@@ -24,7 +25,6 @@
 * [2024-03-17, 16:38:45](https://news.ycombinator.com/item?id=39735669) - [Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 15:28:12](https://news.ycombinator.com/item?id=39735096) - [Why are there suddenly so many car washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
-* [2024-03-17, 09:36:42](https://news.ycombinator.com/item?id=39733107) - [Retrowin32: Minesweeper and the Four Month Bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
 * [2024-03-17, 04:57:21](https://news.ycombinator.com/item?id=39732035) - [Sul Ross Desk](https://www.atlasobscura.com/places/sul-ross-desk-alpine-texas)
 * [2024-03-17, 03:59:07](https://news.ycombinator.com/item?id=39731824) - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 * [2024-03-17, 00:33:38](https://news.ycombinator.com/item?id=39730748) - [Instinctive Sleeping and Resting Postures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1119282/)
