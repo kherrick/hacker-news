@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-18, 14:20:21](https://news.ycombinator.com/item?id=39744932) - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
+* [2024-03-18, 14:16:54](https://news.ycombinator.com/item?id=39744878) - [Vitamin D Is a Hormone](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story)
 * [2024-03-18, 13:56:53](https://news.ycombinator.com/item?id=39744595) - [Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
 * [2024-03-18, 12:45:49](https://news.ycombinator.com/item?id=39743594) - [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
 * [2024-03-18, 12:30:29](https://news.ycombinator.com/item?id=39743398) - [Tata joins hands with PSMC to build India's first 12-inch fab](https://www.powerchip.com/en-global/insights/press-releases/content/20240229)
 * [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
-* [2024-03-18, 11:34:36](https://news.ycombinator.com/item?id=39742650) - [The Mechanics of Async Await](https://blog.resonatehq.io/async-await-mechanics)
 * [2024-03-18, 11:01:30](https://news.ycombinator.com/item?id=39742422) - [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
 * [2024-03-18, 10:51:26](https://news.ycombinator.com/item?id=39742349) - [Take Ownership of Your Future Self (2020)](https://hbr.org/2020/08/take-ownership-of-your-future-self)
 * [2024-03-18, 10:29:44](https://news.ycombinator.com/item?id=39742188) - [Thoughts on the Future of Software Development](https://www.sheshbabu.com/posts/thoughts-on-the-future-of-software-development/)
