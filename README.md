@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-18, 18:18:31](https://news.ycombinator.com/item?id=39747946) - [Apex Legends finals postponed after suffering unprecedented hack](https://www.polygon.com/24104737/apex-legends-na-finals-destroyer-2009-hack)
 * [2024-03-18, 17:16:15](https://news.ycombinator.com/item?id=39747105) - [Oh shit, my app is successful and I didn't think about accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 * [2024-03-18, 17:00:14](https://news.ycombinator.com/item?id=39746958) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
 * [2024-03-18, 16:47:38](https://news.ycombinator.com/item?id=39746806) - [EPA bans asbestos, a deadly carcinogen still in use decades after partial ban](https://apnews.com/article/epa-asbestos-cancer-brakes-biden-72b0fa8b36adedaff6000034d35c2acd)
@@ -10,6 +9,7 @@
 * [2024-03-18, 15:59:34](https://news.ycombinator.com/item?id=39746256) - [Show HN: Fake or real? Try our AI image detector](https://trial.nuanced.dev/demo/)
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
+* [2024-03-18, 14:40:19](https://news.ycombinator.com/item?id=39745207) - [DuckDB in Action](https://www.manning.com/books/duckdb-in-action/)
 * [2024-03-18, 14:30:20](https://news.ycombinator.com/item?id=39745072) - [Nomadic Identity Is Coming to ActivityPub](https://wedistribute.org/2024/03/activitypub-nomadic-identity/)
 * [2024-03-18, 14:16:54](https://news.ycombinator.com/item?id=39744878) - [Story of Vitamin D Toxicity (2022)](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story)
 * [2024-03-18, 13:56:53](https://news.ycombinator.com/item?id=39744595) - [Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
