@@ -11,7 +11,6 @@
 * [2024-03-17, 22:16:01](https://news.ycombinator.com/item?id=39738561) - [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
 * [2024-03-17, 22:13:38](https://news.ycombinator.com/item?id=39738547) - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
-* [2024-03-17, 20:35:41](https://news.ycombinator.com/item?id=39737810) - [Terminal Latency](https://beuke.org/terminal-latency/)
 * [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
 * [2024-03-17, 19:33:37](https://news.ycombinator.com/item?id=39737281) - [Grok](https://github.com/xai-org/grok)
 * [2024-03-17, 19:28:53](https://news.ycombinator.com/item?id=39737236) - [Z85: Format for representing binary data as printable text](https://rfc.zeromq.org/spec/32/)
@@ -28,6 +27,7 @@
 * [2024-03-17, 09:36:42](https://news.ycombinator.com/item?id=39733107) - [Retrowin32: Minesweeper and the Four Month Bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
 * [2024-03-17, 04:57:21](https://news.ycombinator.com/item?id=39732035) - [Sul Ross Desk](https://www.atlasobscura.com/places/sul-ross-desk-alpine-texas)
 * [2024-03-17, 03:59:07](https://news.ycombinator.com/item?id=39731824) - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
+* [2024-03-17, 00:33:38](https://news.ycombinator.com/item?id=39730748) - [Instinctive Sleeping and Resting Postures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1119282/)
 * [2024-03-16, 03:21:57](https://news.ycombinator.com/item?id=39723088) - [America's Last Top Models](https://www.newyorker.com/culture/culture-desk/americas-last-top-models)
 * [2024-03-15, 11:36:47](https://news.ycombinator.com/item?id=39714379) - [A Mathematician on Creativity, Art, Logic and Language](https://www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/)
 
