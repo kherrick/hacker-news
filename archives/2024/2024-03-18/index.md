@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 18:24:01](https://news.ycombinator.com/item?id=39748001) - [Xata, a new serverless Postgres platform](https://xata.io/blog/serverless-postgres-platform)
 * [2024-03-18, 18:22:18](https://news.ycombinator.com/item?id=39747979) - [Digital bank Onyx Private tells customers it's closing their accounts](https://techcrunch.com/2024/03/18/y-combinator-digital-bank-onyx-private-shuts-customer-accounts/)
 * [2024-03-18, 18:18:31](https://news.ycombinator.com/item?id=39747946) - [Apex Legends finals postponed after suffering unprecedented hack](https://www.polygon.com/24104737/apex-legends-na-finals-destroyer-2009-hack)
 * [2024-03-18, 18:08:01](https://news.ycombinator.com/item?id=39747832) - [Saudi Aramco CEO says world should abandon 'fantasy' of phasing out oil](https://www.cnbc.com/2024/03/18/saudi-aramco-ceo-says-energy-transition-is-failing-give-up-fantasy-of-phasing-out-oil.html)
@@ -11,6 +12,7 @@
 * [2024-03-18, 17:17:32](https://news.ycombinator.com/item?id=39747116) - [macOS Sonoma 14.4: Reasons Not to Update](https://www.macrumors.com/2024/03/18/do-not-update-macos-sonoma-14-4/)
 * [2024-03-18, 17:16:15](https://news.ycombinator.com/item?id=39747105) - [Oh Shit, My App Is Successful and I Didn't Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 * [2024-03-18, 17:00:14](https://news.ycombinator.com/item?id=39746958) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
+* [2024-03-18, 16:59:01](https://news.ycombinator.com/item?id=39746943) - [Damaged undersea cables disrupting Africa's internet will take weeks to repair](https://www.semafor.com/article/03/18/2024/africas-damaged-undersea-cables-disrupt-internet-for-weeks)
 * [2024-03-18, 16:56:13](https://news.ycombinator.com/item?id=39746915) - [From anxiety to cancer, the evidence against ultra-processed food piles up](https://text.npr.org/1238939706)
 * [2024-03-18, 16:47:38](https://news.ycombinator.com/item?id=39746806) - [EPA bans asbestos, a deadly carcinogen still in use decades after partial ban](https://apnews.com/article/epa-asbestos-cancer-brakes-biden-72b0fa8b36adedaff6000034d35c2acd)
 * [2024-03-18, 16:46:42](https://news.ycombinator.com/item?id=39746799) - [\"3 Body Problem\" Is a Rare Species of Sci-Fi Epic](https://www.newyorker.com/magazine/2024/03/25/3-body-problem-tv-review-netflix)
