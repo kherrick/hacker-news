@@ -11,7 +11,7 @@
 * [2024-03-18, 16:47:38](https://news.ycombinator.com/item?id=39746806) - [EPA bans asbestos, a deadly carcinogen still in use decades after partial ban](https://apnews.com/article/epa-asbestos-cancer-brakes-biden-72b0fa8b36adedaff6000034d35c2acd)
 * [2024-03-18, 16:31:55](https://news.ycombinator.com/item?id=39746625) - [RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
-* [2024-03-18, 15:54:43](https://news.ycombinator.com/item?id=39746195) - [Ravi is a dialect of Lua, with JIT and AOT compilers](https://github.com/dibyendumajumdar/ravi)
+* [2024-03-18, 16:07:35](https://news.ycombinator.com/item?id=39746333) - [5-year study finds no brain abnormalities in 'Havana Syndrome' patients](https://www.cbc.ca/news/world/havana-syndrome-nih-study-1.7147124)
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 14:30:20](https://news.ycombinator.com/item?id=39745072) - [Nomadic Identity Is Coming to ActivityPub](https://wedistribute.org/2024/03/activitypub-nomadic-identity/)
