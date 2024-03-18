@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-18, 10:51:26](https://news.ycombinator.com/item?id=39742349) - [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
 * [2024-03-18, 10:06:23](https://news.ycombinator.com/item?id=39742058) - [Microsoft again bothers Chrome users with Bing popup ads in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/)
 * [2024-03-18, 09:56:23](https://news.ycombinator.com/item?id=39742010) - [Hypothesis That Universe Has No Dark Matter and Is 27B Years Old](https://www.sciencealert.com/physicist-claims-universe-has-no-dark-matter-and-is-27-billion-years-old)
 * [2024-03-18, 09:54:39](https://news.ycombinator.com/item?id=39741999) - [Boeing 737 MAX engine issue will take up to a year to fix](https://nypost.com/2024/03/16/us-news/boeing-737-max-engine-issue-will-take-up-to-a-year-to-fix/)
@@ -23,7 +24,6 @@
 * [2024-03-17, 18:28:31](https://news.ycombinator.com/item?id=39736718) - [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
 * [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 * [2024-03-17, 16:39:37](https://news.ycombinator.com/item?id=39735675) - [Nanofont3x4: Smallest readable 3x4 font with lowercase (2015)](https://github.com/Michaelangel007/nanofont3x4)
-* [2024-03-17, 15:28:12](https://news.ycombinator.com/item?id=39735096) - [Why are there suddenly so many car washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 * [2024-03-17, 04:57:21](https://news.ycombinator.com/item?id=39732035) - [Sul Ross Desk](https://www.atlasobscura.com/places/sul-ross-desk-alpine-texas)
 * [2024-03-17, 03:59:07](https://news.ycombinator.com/item?id=39731824) - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)

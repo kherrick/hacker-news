@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 10:51:26](https://news.ycombinator.com/item?id=39742349) - [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
 * [2024-03-18, 10:06:23](https://news.ycombinator.com/item?id=39742058) - [Microsoft again bothers Chrome users with Bing popup ads in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/)
 * [2024-03-18, 09:56:23](https://news.ycombinator.com/item?id=39742010) - [Hypothesis That Universe Has No Dark Matter and Is 27B Years Old](https://www.sciencealert.com/physicist-claims-universe-has-no-dark-matter-and-is-27-billion-years-old)
 * [2024-03-18, 09:54:39](https://news.ycombinator.com/item?id=39741999) - [Boeing 737 MAX engine issue will take up to a year to fix](https://nypost.com/2024/03/16/us-news/boeing-737-max-engine-issue-will-take-up-to-a-year-to-fix/)
