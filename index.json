@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-18, 07:21:57",
+      "https://news.ycombinator.com/item?id=39741179"
+    ],
+    [
+      "AWS Makes Cloud Formation Stack Creation Up to 40% Faster",
+      "https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 07:07:53",
       "https://news.ycombinator.com/item?id=39741115"
     ],
@@ -27,16 +37,6 @@
     [
       "Bats of the Midnight Sun",
       "https://hakaimagazine.com/features/bats-of-the-midnight-sun/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 04:26:03",
-      "https://news.ycombinator.com/item?id=39740518"
-    ],
-    [
-      "Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?",
-      "https://news.ycombinator.com/item?id=39740518"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Meticulous (YC S21) is hiring to eliminate UI tests",
       "https://news.ycombinator.com/item?id=39738042"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 20:39:58",
+      "https://news.ycombinator.com/item?id=39737857"
+    ],
+    [
+      "Torcs for Reinforcement Learning",
+      "https://github.com/YurongYou/rlTORCS"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Optimize CSS with SAT Solving",
       "https://github.com/matthewhague/sat-css-tool"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 16:25:45",
-      "https://news.ycombinator.com/item?id=39735570"
-    ],
-    [
-      "The High-Risk Refactoring",
-      "https://webup.org/blog/the-high-risk-refactoring/"
     ]
   ],
   [
