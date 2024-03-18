@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 20:32:48](https://news.ycombinator.com/item?id=39749647) - [Intermittent fasting linked to a 91% higher risk of cardiovascular death](https://www.eurekalert.org/news-releases/1037544)
 * [2024-03-18, 20:13:06](https://news.ycombinator.com/item?id=39749382) - [How does Russia make missiles?](https://www.rhodus.com/)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 20:00:06](https://news.ycombinator.com/item?id=39749238) - [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
