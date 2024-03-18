@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 20:00:06](https://news.ycombinator.com/item?id=39749238) - [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
+* [2024-03-18, 19:46:48](https://news.ycombinator.com/item?id=39749081) - [Nvidia GTC 2024 Keynote Live](https://www.youtube.com/watch?v=Y2F8yisiS6E&list=TLGGFIbdOwQMZx4xODAzMjAyNA)
 * [2024-03-18, 19:34:30](https://news.ycombinator.com/item?id=39748942) - [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
 * [2024-03-18, 19:29:48](https://news.ycombinator.com/item?id=39748872) - [Waffle House's Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
 * [2024-03-18, 19:19:53](https://news.ycombinator.com/item?id=39748731) - [Collection of System Design Articles](https://github.com/systemdesign42/system-design)
@@ -81,6 +83,7 @@
 * [2024-03-18, 09:42:38](https://news.ycombinator.com/item?id=39741933) - [Hot takes on Devin, the AI software engineer](https://tomhipwell.co/blog/devin/)
 * [2024-03-18, 09:41:28](https://news.ycombinator.com/item?id=39741926) - [Microsoft pushes Bing, GPT-4 in Chrome pop-up adverts](https://www.theregister.com/2024/03/15/chrome_bing_microsoft_pop_ups/)
 * [2024-03-18, 09:15:58](https://news.ycombinator.com/item?id=39741781) - [Car is spying on you, leading to higher insurance rates](https://nypost.com/2024/03/12/business/your-car-is-spying-on-you-and-upping-your-insurance-rates-report/)
+* [2024-03-18, 09:06:56](https://news.ycombinator.com/item?id=39741731) - [Show HN: Extend Zigbee sensor range with LoRaWAN](https://github.com/lorabridge)
 * [2024-03-18, 08:45:52](https://news.ycombinator.com/item?id=39741600) - [Building a streaming SQL engine with Arrow and DataFusion](https://www.arroyo.dev/blog/why-arrow-and-datafusion)
 * [2024-03-18, 08:38:08](https://news.ycombinator.com/item?id=39741565) - [Show HN: Let's Build AI](https://letsbuild.ai)
 * [2024-03-18, 08:31:43](https://news.ycombinator.com/item?id=39741532) - [Another view on designing websites – event.preventDeault();](https://event.preventdefault.net/)
