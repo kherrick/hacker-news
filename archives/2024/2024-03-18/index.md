@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 12:30:29](https://news.ycombinator.com/item?id=39743398) - [Tata joins hands with PSMC to build India's first 12-inch fab](https://www.powerchip.com/en-global/insights/press-releases/content/20240229)
+* [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
+* [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-18, 11:25:16](https://news.ycombinator.com/item?id=39742578) - [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
 * [2024-03-18, 11:01:30](https://news.ycombinator.com/item?id=39742422) - [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
 * [2024-03-18, 10:51:26](https://news.ycombinator.com/item?id=39742349) - [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
