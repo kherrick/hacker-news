@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 21:48:55](https://news.ycombinator.com/item?id=39750466) - [The Brewintosh, a 3D Printed Full-Size Macintosh [video]](https://www.youtube.com/watch?v=7N9oz4Ylzm4)
 * [2024-03-18, 21:19:59](https://news.ycombinator.com/item?id=39750162) - [Turning Points: A meeting with Enrico Fermi (2004)](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
 * [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-03-18, 20:59:44](https://news.ycombinator.com/item?id=39749943) - [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
@@ -13,6 +14,7 @@
 * [2024-03-18, 20:13:06](https://news.ycombinator.com/item?id=39749382) - [How does Russia make missiles?](https://www.rhodus.com/)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 20:00:06](https://news.ycombinator.com/item?id=39749238) - [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
+* [2024-03-18, 19:55:50](https://news.ycombinator.com/item?id=39749187) - [First-in-class MKK4 inhibitors enhance liver regeneration, prevent liver failure](https://www.cell.com/cell/fulltext/S0092-8674(24)00225-3)
 * [2024-03-18, 19:46:48](https://news.ycombinator.com/item?id=39749081) - [Nvidia GTC 2024 Keynote Live](https://www.youtube.com/watch?v=Y2F8yisiS6E&list=TLGGFIbdOwQMZx4xODAzMjAyNA)
 * [2024-03-18, 19:34:30](https://news.ycombinator.com/item?id=39748942) - [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
 * [2024-03-18, 19:29:48](https://news.ycombinator.com/item?id=39748872) - [Waffle House's Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
