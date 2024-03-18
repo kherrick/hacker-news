@@ -17,6 +17,7 @@
 * [2024-03-17, 21:44:15](https://news.ycombinator.com/item?id=39738321) - [The Fed's Big Problem, There Are Two Economies but Only One Interest Rate](https://mishtalk.com/economics/the-feds-big-problem-there-are-two-economies-but-only-one-interest-rate/)
 * [2024-03-17, 21:43:29](https://news.ycombinator.com/item?id=39738315) - [Rivian Is Turning into the Subaru of EVs](https://heatmap.news/electric-vehicles/subaru-rivian-r3-suv)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
+* [2024-03-17, 20:39:58](https://news.ycombinator.com/item?id=39737857) - [Torcs for Reinforcement Learning](https://github.com/YurongYou/rlTORCS)
 * [2024-03-17, 20:35:41](https://news.ycombinator.com/item?id=39737810) - [Terminal Latency](https://beuke.org/terminal-latency/)
 * [2024-03-17, 20:29:24](https://news.ycombinator.com/item?id=39737762) - [New iOS features you're not getting because you're outside the EU](https://mashable.com/article/5-best-new-ios-features-eu-dma)
 * [2024-03-17, 20:11:59](https://news.ycombinator.com/item?id=39737622) - [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
