@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-03-18, 11:53:10",
-      "https://news.ycombinator.com/item?id=39742855"
-    ],
-    [
-      "Boeing Tells Airlines to Check 787 Cockpit Seats After Mishap on Latam Flight",
-      "https://www.msn.com/en-us/travel/news/cockpit-mishap-might-have-caused-plunge-on-latam-boeing-787/ar-BB1jUQzi"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 11:39:42",
       "https://news.ycombinator.com/item?id=39742692"
     ],
@@ -61,32 +51,22 @@
   ],
   [
     [
-      "2024-03-18, 11:25:16",
-      "https://news.ycombinator.com/item?id=39742578"
-    ],
-    [
-      "Dear Paul Graham, there is no cookie banner law",
-      "https://www.amazingcto.com/cookie-banners-are-not-needed/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 11:11:06",
-      "https://news.ycombinator.com/item?id=39742495"
-    ],
-    [
-      "Uber and Lyft leave Minneapolis over $15 minimum wage",
-      "https://kstp.com/kstp-news/top-news/businesses-rideshare-drivers-look-to-the-future-as-uber-lyft-plan-to-pull-out-of-minneapolis/"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 11:01:30",
       "https://news.ycombinator.com/item?id=39742422"
     ],
     [
       "900 Sites, 125M accounts, 1 Vulnerability",
       "https://env.fail/posts/firewreck-1/"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 10:56:28",
+      "https://news.ycombinator.com/item?id=39742383"
+    ],
+    [
+      "The Cloud Outgrows Linux, and Sparks a New Operating System",
+      "https://www.nextplatform.com/2024/03/12/the-cloud-outgrows-linux-and-sparks-a-new-operating-system/"
     ]
   ],
   [
@@ -117,16 +97,6 @@
     [
       "Elegant open source project tracking, Trello like but self-hosted",
       "https://github.com/plankanban/planka"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 10:06:23",
-      "https://news.ycombinator.com/item?id=39742058"
-    ],
-    [
-      "Microsoft again bothers Chrome users with Bing popup ads in Windows",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/"
     ]
   ],
   [
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2024-03-17, 19:33:37",
+      "https://news.ycombinator.com/item?id=39737281"
+    ],
+    [
+      "Grok",
+      "https://github.com/xai-org/grok"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 16:44:12",
       "https://news.ycombinator.com/item?id=39735716"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2024-03-17, 10:15:23",
+      "https://news.ycombinator.com/item?id=39733275"
+    ],
+    [
+      "LLM4Decompile: Decompiling Binary Code with LLM",
+      "https://github.com/albertan017/LLM4Decompile"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 04:57:21",
       "https://news.ycombinator.com/item?id=39732035"
     ],
     [
       "Sul Ross Desk",
       "https://www.atlasobscura.com/places/sul-ross-desk-alpine-texas"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 03:59:07",
+      "https://news.ycombinator.com/item?id=39731824"
+    ],
+    [
+      "The return of the frame pointers",
+      "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html"
     ]
   ],
   [
