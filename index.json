@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-03-18, 15:36:57",
-      "https://news.ycombinator.com/item?id=39745993"
-    ],
-    [
-      "WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport",
-      "https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 15:32:53",
       "https://news.ycombinator.com/item?id=39745923"
     ],
@@ -297,6 +287,16 @@
     [
       "VR Powered by N64 [video]",
       "https://www.youtube.com/watch?v=ha3fDU-1wHk"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 03:10:55",
+      "https://news.ycombinator.com/item?id=39723022"
+    ],
+    [
+      "First N-channel diamond field-effect transistor for CMOS integrated circuits",
+      "https://techxplore.com/news/2024-03-world-channel-diamond-field-effect.html"
     ]
   ]
 ]
