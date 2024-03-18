@@ -6,6 +6,9 @@
 
 * [2024-03-17, 23:03:52](https://news.ycombinator.com/item?id=39738862) - [Uber to pay $272M to Australian taxi operators](https://www.smh.com.au/technology/uber-to-pay-272-million-to-australian-taxi-operators-20240318-p5fd4p.html)
 * [2024-03-17, 22:48:47](https://news.ycombinator.com/item?id=39738759) - [MANATEE(lm): Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E?usp=sharing)
+* [2024-03-17, 22:44:03](https://news.ycombinator.com/item?id=39738722) - [What I wish I knew about ESPP and RSUs sooner (2024, USA, California)](https://blog.demofox.org/2024/03/17/what-i-wish-i-knew-about-espp-and-rsus-sooner-company-stock-benefits-2024-usa-california/)
+* [2024-03-17, 22:23:08](https://news.ycombinator.com/item?id=39738609) - [CS 168: The Modern Algorithmic Toolbox (2023)](https://web.stanford.edu/class/cs168/index.html)
+* [2024-03-17, 22:13:38](https://news.ycombinator.com/item?id=39738547) - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
 * [2024-03-17, 22:06:05](https://news.ycombinator.com/item?id=39738487) - [Why Oregon's Drug Decriminalization Failed](https://www.theatlantic.com/ideas/archive/2024/03/oregon-drug-decriminalization-failed/677678/)
 * [2024-03-17, 21:47:05](https://news.ycombinator.com/item?id=39738342) - [Nvidia in talks to acquire AI infrastructure platform Run:AI](https://www.calcalistech.com/ctechnews/article/rkmbe9e0p)
 * [2024-03-17, 21:43:29](https://news.ycombinator.com/item?id=39738315) - [Rivian Is Turning into the Subaru of EVs](https://heatmap.news/electric-vehicles/subaru-rivian-r3-suv)
