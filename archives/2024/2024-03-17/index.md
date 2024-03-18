@@ -11,6 +11,7 @@
 * [2024-03-17, 22:23:08](https://news.ycombinator.com/item?id=39738609) - [CS 168: The Modern Algorithmic Toolbox (2023)](https://web.stanford.edu/class/cs168/index.html)
 * [2024-03-17, 22:13:38](https://news.ycombinator.com/item?id=39738547) - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
 * [2024-03-17, 22:06:05](https://news.ycombinator.com/item?id=39738487) - [Why Oregon's Drug Decriminalization Failed](https://www.theatlantic.com/ideas/archive/2024/03/oregon-drug-decriminalization-failed/677678/)
+* [2024-03-17, 21:48:29](https://news.ycombinator.com/item?id=39738353) - [OpenSora Releases its first trained checkpoints (2-5 SEC, 512x512 T2V)](https://github.com/hpcaitech/Open-Sora)
 * [2024-03-17, 21:47:05](https://news.ycombinator.com/item?id=39738342) - [Nvidia in talks to acquire AI infrastructure platform Run:AI](https://www.calcalistech.com/ctechnews/article/rkmbe9e0p)
 * [2024-03-17, 21:44:15](https://news.ycombinator.com/item?id=39738321) - [The Fed's Big Problem, There Are Two Economies but Only One Interest Rate](https://mishtalk.com/economics/the-feds-big-problem-there-are-two-economies-but-only-one-interest-rate/)
 * [2024-03-17, 21:43:29](https://news.ycombinator.com/item?id=39738315) - [Rivian Is Turning into the Subaru of EVs](https://heatmap.news/electric-vehicles/subaru-rivian-r3-suv)

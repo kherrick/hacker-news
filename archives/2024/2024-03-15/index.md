@@ -78,6 +78,7 @@
 * [2024-03-15, 12:18:58](https://news.ycombinator.com/item?id=39714702) - [Urban humans have lost much of their ability to digest plants](https://arstechnica.com/science/2024/03/human-gut-bacteria-that-can-digest-plant-matter-probably-came-from-cows/)
 * [2024-03-15, 12:09:17](https://news.ycombinator.com/item?id=39714649) - [Golf, gardening and woodworking drive men's increase in ALS risk by 300%](https://newatlas.com/medical/als-linked-recreational-activities-men/)
 * [2024-03-15, 11:51:47](https://news.ycombinator.com/item?id=39714502) - [\"Certainly, here is a possible introduction for your topic\" in scientific paper](https://www.sciencedirect.com/science/article/abs/pii/S2468023024002402)
+* [2024-03-15, 11:36:47](https://news.ycombinator.com/item?id=39714379) - [A Mathematician on Creativity, Art, Logic and Language](https://www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/)
 * [2024-03-15, 11:31:33](https://news.ycombinator.com/item?id=39714348) - [Writing Manual Pages (2019)](https://liw.fi/manpages/)
 * [2024-03-15, 11:30:38](https://news.ycombinator.com/item?id=39714340) - [Parents: Are Your Kids Backing Up Their Data?](https://theprivacydad.com/parents-are-your-kids-backing-up-their-data/)
 * [2024-03-15, 11:08:39](https://news.ycombinator.com/item?id=39714229) - [FCC scraps old speed benchmark, says broadband should be at least 100Mbps](https://arstechnica.com/tech-policy/2024/03/fcc-scraps-old-speed-benchmark-says-broadband-should-be-at-least-100mbps/)
