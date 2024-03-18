@@ -9,6 +9,7 @@
 * [2024-03-17, 22:44:03](https://news.ycombinator.com/item?id=39738722) - [What I wish I knew about ESPP and RSUs sooner (2024, USA, California)](https://blog.demofox.org/2024/03/17/what-i-wish-i-knew-about-espp-and-rsus-sooner-company-stock-benefits-2024-usa-california/)
 * [2024-03-17, 22:28:54](https://news.ycombinator.com/item?id=39738639) - [6.2 GHz Intel Core I9-14900KS Review](https://www.tomshardware.com/pc-components/cpus/intel-core-i9-14900ks-cpu-review)
 * [2024-03-17, 22:23:08](https://news.ycombinator.com/item?id=39738609) - [CS 168: The Modern Algorithmic Toolbox (2023)](https://web.stanford.edu/class/cs168/index.html)
+* [2024-03-17, 22:16:01](https://news.ycombinator.com/item?id=39738561) - [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
 * [2024-03-17, 22:13:38](https://news.ycombinator.com/item?id=39738547) - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
 * [2024-03-17, 22:06:05](https://news.ycombinator.com/item?id=39738487) - [Why Oregon's Drug Decriminalization Failed](https://www.theatlantic.com/ideas/archive/2024/03/oregon-drug-decriminalization-failed/677678/)
 * [2024-03-17, 21:48:29](https://news.ycombinator.com/item?id=39738353) - [OpenSora Releases its first trained checkpoints (2-5 SEC, 512x512 T2V)](https://github.com/hpcaitech/Open-Sora)
