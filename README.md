@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-18, 08:01:04](https://news.ycombinator.com/item?id=39741383) - [Uber agrees $178M payout to Australia taxi drivers](https://www.bbc.com/news/business-68594134)
+* [2024-03-18, 07:25:59](https://news.ycombinator.com/item?id=39741207) - [Poseidona is removing invasive algae from oceans and turning it into food](https://techcrunch.com/2024/03/17/poseidona-seaweed-protein-food/)
 * [2024-03-18, 07:21:57](https://news.ycombinator.com/item?id=39741179) - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
 * [2024-03-18, 07:07:53](https://news.ycombinator.com/item?id=39741115) - [macOS Sonoma 14.4 might break Java on your machine](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue)
 * [2024-03-18, 06:24:32](https://news.ycombinator.com/item?id=39740922) - [Don Knuth letter about libraries increasingly unable to afford prices (2003) [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
@@ -11,8 +13,6 @@
 * [2024-03-17, 22:16:01](https://news.ycombinator.com/item?id=39738561) - [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
 * [2024-03-17, 22:13:38](https://news.ycombinator.com/item?id=39738547) - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
 * [2024-03-17, 21:04:35](https://news.ycombinator.com/item?id=39738042) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
-* [2024-03-17, 20:39:58](https://news.ycombinator.com/item?id=39737857) - [Torcs for Reinforcement Learning](https://github.com/YurongYou/rlTORCS)
-* [2024-03-17, 19:55:04](https://news.ycombinator.com/item?id=39737474) - [Pine64 March update: making waves](https://pine64.org/2024/03/17/march-update-making-waves/)
 * [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
 * [2024-03-17, 19:33:37](https://news.ycombinator.com/item?id=39737281) - [Grok](https://github.com/xai-org/grok)
 * [2024-03-17, 19:28:53](https://news.ycombinator.com/item?id=39737236) - [Z85: Format for representing binary data as printable text](https://rfc.zeromq.org/spec/32/)
