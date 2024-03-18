@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-18, 10:06:23](https://news.ycombinator.com/item?id=39742058) - [Microsoft again bothers Chrome users with Bing popup ads in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/)
+* [2024-03-18, 09:56:23](https://news.ycombinator.com/item?id=39742010) - [Hypothesis That Universe Has No Dark Matter and Is 27B Years Old](https://www.sciencealert.com/physicist-claims-universe-has-no-dark-matter-and-is-27-billion-years-old)
 * [2024-03-18, 09:54:39](https://news.ycombinator.com/item?id=39741999) - [Boeing 737 MAX engine issue will take up to a year to fix](https://nypost.com/2024/03/16/us-news/boeing-737-max-engine-issue-will-take-up-to-a-year-to-fix/)
 * [2024-03-18, 09:54:36](https://news.ycombinator.com/item?id=39741998) - [Don't upgrade to macOS Sonoma 14.4 yet: plug-in compatibility issues](https://cdm.link/2024/03/ffs-pace/)
 * [2024-03-18, 09:41:28](https://news.ycombinator.com/item?id=39741926) - [Microsoft pushes Bing, GPT-4 in Chrome pop-up adverts](https://www.theregister.com/2024/03/15/chrome_bing_microsoft_pop_ups/)
@@ -18,7 +19,6 @@
 * [2024-03-17, 20:39:58](https://news.ycombinator.com/item?id=39737857) - [Torcs for Reinforcement Learning](https://github.com/YurongYou/rlTORCS)
 * [2024-03-17, 19:47:14](https://news.ycombinator.com/item?id=39737401) - [2600.network Dialup Service](https://2600.network/)
 * [2024-03-17, 19:33:37](https://news.ycombinator.com/item?id=39737281) - [Grok](https://github.com/xai-org/grok)
-* [2024-03-17, 19:28:53](https://news.ycombinator.com/item?id=39737236) - [Z85: Format for representing binary data as printable text](https://rfc.zeromq.org/spec/32/)
 * [2024-03-17, 19:14:56](https://news.ycombinator.com/item?id=39737122) - [Vector: A high-performance observability data pipeline](https://github.com/vectordotdev/vector)
 * [2024-03-17, 18:28:31](https://news.ycombinator.com/item?id=39736718) - [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
 * [2024-03-17, 16:44:12](https://news.ycombinator.com/item?id=39735716) - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
