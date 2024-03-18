@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 17:16:15](https://news.ycombinator.com/item?id=39747105) - [Oh Shit, My App Is Successful and I Didn't Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 * [2024-03-18, 17:00:14](https://news.ycombinator.com/item?id=39746958) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
 * [2024-03-18, 16:56:13](https://news.ycombinator.com/item?id=39746915) - [From anxiety to cancer, the evidence against ultra-processed food piles up](https://text.npr.org/1238939706)
+* [2024-03-18, 16:46:42](https://news.ycombinator.com/item?id=39746799) - [\"3 Body Problem\" Is a Rare Species of Sci-Fi Epic](https://www.newyorker.com/magazine/2024/03/25/3-body-problem-tv-review-netflix)
 * [2024-03-18, 16:46:32](https://news.ycombinator.com/item?id=39746796) - [Ads.txt](https://en.wikipedia.org/wiki/Ads.txt)
 * [2024-03-18, 16:37:13](https://news.ycombinator.com/item?id=39746688) - [Apple TV+ Cornered the Market on \"Prestige Dad TV\"](https://www.gq.com/story/apple-tv-plus-prestige-dad-tv)
 * [2024-03-18, 16:35:30](https://news.ycombinator.com/item?id=39746669) - [European Union AI Act](https://goodcomputer.substack.com/p/european-union-ai-act)
@@ -19,6 +21,7 @@
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 15:24:07](https://news.ycombinator.com/item?id=39745809) - [Gas Trapped in Antarctic Ice Recorded the Mass Death of 56M People](https://www.atlasobscura.com/articles/colonization-antarctica-ice)
+* [2024-03-18, 15:15:58](https://news.ycombinator.com/item?id=39745700) - [Parakeet: A Tiny LLM](https://news.ycombinator.com/item?id=39745700)
 * [2024-03-18, 15:09:29](https://news.ycombinator.com/item?id=39745610) - [Sensor Tower acquires market intelligence platform data.ai](https://www.prnewswire.com/in/news-releases/sensor-tower-acquires-market-intelligence-platform-dataai-302090807.html)
 * [2024-03-18, 14:59:44](https://news.ycombinator.com/item?id=39745482) - [Blackwater PMC founder Erik Prince on distributed open-source communication](https://twitter.com/realErikDPrince/status/1769696764423000168)
 * [2024-03-18, 14:58:28](https://news.ycombinator.com/item?id=39745466) - [Harvard has halted its long-planned atmospheric geoengineering experiment](https://www.technologyreview.com/2024/03/18/1089879/harvard-halts-its-long-planned-atmospheric-geoengineering-experiment/)
