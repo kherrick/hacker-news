@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-03-18, 20:32:48](https://news.ycombinator.com/item?id=39749647) - [Intermittent fasting linked to a 91% higher risk of cardiovascular death](https://www.eurekalert.org/news-releases/1037544)
 * [2024-03-18, 20:32:46](https://news.ycombinator.com/item?id=39749646) - [Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
 * [2024-03-18, 20:19:03](https://news.ycombinator.com/item?id=39749465) - [I Stopped Loving Captain Kirk](https://buttondown.email/charliejane/archive/i-stopped-loving-captain-kirk/)
