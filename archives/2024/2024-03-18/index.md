@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
 * [2024-03-18, 04:48:43](https://news.ycombinator.com/item?id=39740608) - [Over 35,000 startups shut down in India in 2023](https://indiadispatch.xyz/2024/03/18/over-35000-startups-shut-down-in-india-in-2023/)
+* [2024-03-18, 04:48:12](https://news.ycombinator.com/item?id=39740607) - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
 * [2024-03-18, 04:26:03](https://news.ycombinator.com/item?id=39740518) - [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
 * [2024-03-18, 03:34:01](https://news.ycombinator.com/item?id=39740306) - [Journeyart.ai: Harness Midjourney's Power for 6 Free AI Artworks Daily](https://www.journeyart.ai/)
 * [2024-03-18, 02:03:09](https://news.ycombinator.com/item?id=39739897) - [NIH Study Provides Long-Awaited Insight into Myalgic Encephalomyelitis/CFS](https://jamanetwork.com/journals/jama/fullarticle/2816614)
