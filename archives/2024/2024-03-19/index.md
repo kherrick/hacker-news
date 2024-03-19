@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 12:39:25](https://news.ycombinator.com/item?id=39755084) - [Show HN: Not sure you're talking to a human? Create a human check](https://r-u-human.com/)
+* [2024-03-19, 12:38:47](https://news.ycombinator.com/item?id=39755080) - [10% of retirees have $1M+ in savings](https://finance.yahoo.com/news/many-americans-retire-million-dollars-140019814.html)
 * [2024-03-19, 12:07:47](https://news.ycombinator.com/item?id=39754906) - [Titanfall is still EA's most innovative shooter ten years later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [ESA' Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
 * [2024-03-19, 10:17:46](https://news.ycombinator.com/item?id=39754315) - [Rust on Nails](https://rust-on-nails.com/)
