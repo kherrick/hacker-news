@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
 * [2024-03-18, 23:29:56](https://news.ycombinator.com/item?id=39751322) - [Cisco Acquires Splunk](https://www.cisco.com/site/us/en/about/corporate-strategy-office/acquisitions/splunk/index.html)
 * [2024-03-18, 22:58:29](https://news.ycombinator.com/item?id=39751072) - [Spent brewer's yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
 * [2024-03-18, 22:55:37](https://news.ycombinator.com/item?id=39751046) - [C++ creator rebuts White House warning](https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.amp.html)
