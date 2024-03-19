@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 10:17:46](https://news.ycombinator.com/item?id=39754315) - [Rust on Nails](https://rust-on-nails.com/)
 * [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
@@ -19,7 +20,6 @@
 * [2024-03-18, 16:31:55](https://news.ycombinator.com/item?id=39746625) - [RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
-* [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 14:24:32](https://news.ycombinator.com/item?id=39744989) - [How I replaced deadly garage door torsion springs (2002)](https://www.truetex.com/garage.htm)
 * [2024-03-18, 14:01:25](https://news.ycombinator.com/item?id=39744669) - [How do neural networks learn?](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
 * [2024-03-18, 13:59:24](https://news.ycombinator.com/item?id=39744641) - [Migration out of Africa may have been driven by first glaciation of Pleistocene](https://phys.org/news/2024-03-migration-hominins-africa-driven-major.html)
