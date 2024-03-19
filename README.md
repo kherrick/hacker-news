@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-19, 02:56:33](https://news.ycombinator.com/item?id=39752504) - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
-* [2024-03-19, 02:53:20](https://news.ycombinator.com/item?id=39752487) - [Loneliness in Midlife: A Growing Gap Between US and Europe](https://neurosciencenews.com/loneliness-midlife-psychology-25768/)
 * [2024-03-19, 01:40:51](https://news.ycombinator.com/item?id=39752168) - [An exploding star nova is due to show up in our skies soon. Here's how to view](https://www.businessinsider.com/how-to-see-exploding-star-nova-nasa-says-expect-soon-2024-3)
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 00:18:52](https://news.ycombinator.com/item?id=39751636) - [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
@@ -17,6 +16,7 @@
 * [2024-03-18, 16:31:55](https://news.ycombinator.com/item?id=39746625) - [RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 15:54:43](https://news.ycombinator.com/item?id=39746195) - [Ravi is a dialect of Lua, with JIT and AOT compilers](https://github.com/dibyendumajumdar/ravi)
+* [2024-03-18, 15:52:02](https://news.ycombinator.com/item?id=39746163) - [Suno, an AI music generator](https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/)
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 14:24:32](https://news.ycombinator.com/item?id=39744989) - [How I replaced deadly garage door torsion springs (2002)](https://www.truetex.com/garage.htm)
