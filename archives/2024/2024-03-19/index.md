@@ -7,6 +7,7 @@
 * [2024-03-19, 20:01:24](https://news.ycombinator.com/item?id=39759693) - [Lego price per part over the years – Brick Insights](https://brickinsights.com/statistics/ppp)
 * [2024-03-19, 20:01:14](https://news.ycombinator.com/item?id=39759687) - [Ubisoft let me speak with its new AI-powered video game NPCs](https://www.theverge.com/2024/3/19/24105748/nvidia-neo-npc-prototypes-gdc-2024)
 * [2024-03-19, 19:45:56](https://news.ycombinator.com/item?id=39759539) - [PostgreSQL is eating the database world](https://pigsty.io/blog/pg/pg-eat-db-world/)
+* [2024-03-19, 19:45:13](https://news.ycombinator.com/item?id=39759530) - [FlipperZero: Our Response to the Canadian Government](https://blog.flipper.net/response-to-canadian-government/)
 * [2024-03-19, 19:37:45](https://news.ycombinator.com/item?id=39759461) - [Ask HN: What are you building LLM/RAG chatbots with](https://news.ycombinator.com/item?id=39759461)
 * [2024-03-19, 19:30:52](https://news.ycombinator.com/item?id=39759398) - [Supreme Court unanimously rules against government in No Fly List case](https://thehill.com/regulation/court-battles/4541638-supreme-court-no-fly-list-case/)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
