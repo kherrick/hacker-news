@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 21:23:55](https://news.ycombinator.com/item?id=39760379) - [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
 * [2024-03-19, 20:34:29](https://news.ycombinator.com/item?id=39759942) - [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
 * [2024-03-19, 20:28:09](https://news.ycombinator.com/item?id=39759906) - [New algorithm unlocks high-resolution insights for computer vision](https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318)
 * [2024-03-19, 20:18:49](https://news.ycombinator.com/item?id=39759831) - [The end of landlords: the surprisingly simple solution to the UK housing crisis](https://www.theguardian.com/lifeandstyle/2024/mar/19/end-of-landlords-surprisingly-simple-solution-to-uk-housing-crisis)

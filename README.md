@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 21:23:55](https://news.ycombinator.com/item?id=39760379) - [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
 * [2024-03-19, 20:34:29](https://news.ycombinator.com/item?id=39759942) - [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
 * [2024-03-19, 20:28:09](https://news.ycombinator.com/item?id=39759906) - [New algorithm unlocks high-resolution insights for computer vision](https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318)
-* [2024-03-19, 20:01:24](https://news.ycombinator.com/item?id=39759693) - [Lego price per part over the years – Brick Insights](https://brickinsights.com/statistics/ppp)
+* [2024-03-19, 20:01:24](https://news.ycombinator.com/item?id=39759693) - [Lego price per part over the years](https://brickinsights.com/statistics/ppp)
 * [2024-03-19, 19:54:56](https://news.ycombinator.com/item?id=39759627) - [Retina – eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
 * [2024-03-19, 19:23:23](https://news.ycombinator.com/item?id=39759325) - [Show HN: jnv: interactive JSON filter using jq](https://github.com/ynqa/jnv)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
@@ -12,7 +13,6 @@
 * [2024-03-19, 16:47:29](https://news.ycombinator.com/item?id=39757665) - [Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
 * [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
 * [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)
-* [2024-03-19, 15:02:24](https://news.ycombinator.com/item?id=39756434) - [New Intermediate Certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
 * [2024-03-19, 14:53:51](https://news.ycombinator.com/item?id=39756325) - [Show HN: Godspeed is a fast, 100% keyboard oriented todo app for Mac](https://godspeedapp.com/)
 * [2024-03-19, 14:48:12](https://news.ycombinator.com/item?id=39756262) - [Understanding Google's File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
