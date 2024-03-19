@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-03-19, 14:49:43",
-      "https://news.ycombinator.com/item?id=39756269"
-    ],
-    [
-      "Marc Andreessen Lists Silicon Valley Compound After $250M Malibu Spending Spree",
-      "https://www.wsj.com/real-estate/luxury-homes/billionaire-marc-andreessen-lists-silicon-valley-compound-following-250-million-malibu-spending-spree-bc88dea2"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 14:30:08",
-      "https://news.ycombinator.com/item?id=39756093"
-    ],
-    [
-      "Ask HN: How should organize and back up 23 TiB of personal files?",
-      "https://news.ycombinator.com/item?id=39756093"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 14:14:24",
       "https://news.ycombinator.com/item?id=39755927"
     ],
@@ -127,6 +107,16 @@
     [
       "Inside the Massive Alleged AT&T Data Breach",
       "https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 09:06:30",
+      "https://news.ycombinator.com/item?id=39753985"
+    ],
+    [
+      "Apt archive mirrors in Git-LFS",
+      "https://blog.josefsson.org/2024/03/18/apt-archive-mirrors-in-git-lfs/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Cranelift code generation comes to Rust",
       "https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 09:06:56",
+      "https://news.ycombinator.com/item?id=39741731"
+    ],
+    [
+      "Show HN: Extend Zigbee sensor range with LoRaWAN",
+      "https://github.com/lorabridge"
     ]
   ],
   [
