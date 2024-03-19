@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 09:42:09](https://news.ycombinator.com/item?id=39754142) - [China's bonds boom as investors face 'asset famine'](https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/)
 * [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
-* [2024-03-19, 09:19:35](https://news.ycombinator.com/item?id=39754044) - [8hour time-restricted eating linked to a 91% higher risk of cardiovascular death](https://medicalxpress.com/news/2024-03-hour-restricted-linked-higher-cardiovascular.html)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 * [2024-03-19, 05:08:21](https://news.ycombinator.com/item?id=39753115) - [20 Years of \"Not Even Wrong\"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
