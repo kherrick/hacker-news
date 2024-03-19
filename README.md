@@ -7,6 +7,7 @@
 * [2024-03-19, 00:18:52](https://news.ycombinator.com/item?id=39751636) - [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 * [2024-03-18, 22:58:29](https://news.ycombinator.com/item?id=39751072) - [Spent brewer's yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
 * [2024-03-18, 21:19:59](https://news.ycombinator.com/item?id=39750162) - [Turning Points: A meeting with Enrico Fermi (2020)](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
+* [2024-03-18, 21:10:38](https://news.ycombinator.com/item?id=39750061) - [Inversion: Fast, Reliable Structured LLMs](https://rysana.com/inversion)
 * [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-03-18, 20:59:44](https://news.ycombinator.com/item?id=39749943) - [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
 * [2024-03-18, 20:32:46](https://news.ycombinator.com/item?id=39749646) - [Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
@@ -28,7 +29,6 @@
 * [2024-03-17, 18:35:23](https://news.ycombinator.com/item?id=39736775) - [Engima Breaker in Rust](https://github.com/iKevinY/ultra)
 * [2024-03-17, 16:57:35](https://news.ycombinator.com/item?id=39735862) - [Building a 7 Axis Robot from Scratch (2021) [video]](https://www.youtube.com/watch?v=HMSLPefUVeE)
 * [2024-03-17, 16:38:32](https://news.ycombinator.com/item?id=39735665) - [How Ultrasound Became Ultra Small](https://spectrum.ieee.org/mems-ultrasound-history)
-* [2024-03-16, 03:13:59](https://news.ycombinator.com/item?id=39723041) - [VR Powered by N64 [video]](https://www.youtube.com/watch?v=ha3fDU-1wHk)
 * [2024-03-16, 03:10:55](https://news.ycombinator.com/item?id=39723022) - [First N-channel diamond field-effect transistor for CMOS integrated circuits](https://techxplore.com/news/2024-03-world-channel-diamond-field-effect.html)
 
 ## [Archives](archives/index.md)
