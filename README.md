@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 02:34:13](https://news.ycombinator.com/item?id=39752394) - [The first walkable city in America in a century](https://devon.postach.io/post/part-3-the-first-walkable-city-in-america-in-a-century)
+* [2024-03-19, 01:40:51](https://news.ycombinator.com/item?id=39752168) - [An exploding star nova is due to show up in our skies soon. Here's how to view](https://www.businessinsider.com/how-to-see-exploding-star-nova-nasa-says-expect-soon-2024-3)
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 00:18:52](https://news.ycombinator.com/item?id=39751636) - [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
-* [2024-03-19, 00:02:12](https://news.ycombinator.com/item?id=39751533) - [Project GR00T by Nvidia](https://twitter.com/DrJimFan/status/1769860044324319658)
 * [2024-03-18, 22:58:29](https://news.ycombinator.com/item?id=39751072) - [Spent brewer's yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
 * [2024-03-18, 21:19:59](https://news.ycombinator.com/item?id=39750162) - [Turning Points: A meeting with Enrico Fermi (2020)](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
 * [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
@@ -26,7 +27,6 @@
 * [2024-03-17, 22:16:48](https://news.ycombinator.com/item?id=39738571) - [Inferring the \"Meaning\" of Wing-Tail Flicking Behavior in American Crows](https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1096&context=research_days_posters_2021)
 * [2024-03-17, 18:35:23](https://news.ycombinator.com/item?id=39736775) - [Engima Breaker in Rust](https://github.com/iKevinY/ultra)
 * [2024-03-17, 16:57:35](https://news.ycombinator.com/item?id=39735862) - [Building a 7 Axis Robot from Scratch (2021) [video]](https://www.youtube.com/watch?v=HMSLPefUVeE)
-* [2024-03-17, 15:49:58](https://news.ycombinator.com/item?id=39735267) - [My Quantum Spin: Qubit Ordering and Operations](https://hamacher.cloud/my-quantum-spin-qubit-ordering-and-operations)
 * [2024-03-17, 15:27:57](https://news.ycombinator.com/item?id=39735093) - [Ancient Texts Can Shed Light on Auroras](https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/)
 * [2024-03-16, 03:13:59](https://news.ycombinator.com/item?id=39723041) - [VR Powered by N64 [video]](https://www.youtube.com/watch?v=ha3fDU-1wHk)
 * [2024-03-16, 03:10:55](https://news.ycombinator.com/item?id=39723022) - [First N-channel diamond field-effect transistor for CMOS integrated circuits](https://techxplore.com/news/2024-03-world-channel-diamond-field-effect.html)
