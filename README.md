@@ -2,10 +2,10 @@
 
 * [2024-03-19, 09:42:09](https://news.ycombinator.com/item?id=39754142) - [China's bonds boom as investors face 'asset famine'](https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/)
 * [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
+* [2024-03-19, 07:51:27](https://news.ycombinator.com/item?id=39753740) - [Japan ends negative interest rate policy in historic pivot](https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 * [2024-03-19, 05:08:21](https://news.ycombinator.com/item?id=39753115) - [20 Years of \"Not Even Wrong\"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
-* [2024-03-19, 03:43:24](https://news.ycombinator.com/item?id=39752746) - [Show HN: Directories Where You Can Submit Your Product](https://github.com/BossChow/ultimate-submit-list)
 * [2024-03-19, 02:56:33](https://news.ycombinator.com/item?id=39752504) - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-19, 01:40:51](https://news.ycombinator.com/item?id=39752168) - [A star system 3,000 light-years away is predicted to become visible soon](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/)
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
