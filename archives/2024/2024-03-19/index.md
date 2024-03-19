@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
 * [2024-03-19, 13:25:59](https://news.ycombinator.com/item?id=39755503) - [Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO](https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo)
+* [2024-03-19, 13:10:30](https://news.ycombinator.com/item?id=39755358) - [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
 * [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford, commander of Apollo 10, dies at 93](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 * [2024-03-19, 12:39:25](https://news.ycombinator.com/item?id=39755084) - [Show HN: Not sure you're talking to a human? Create a human check](https://r-u-human.com/)
 * [2024-03-19, 12:38:47](https://news.ycombinator.com/item?id=39755080) - [10% of retirees have $1M+ in savings](https://finance.yahoo.com/news/many-americans-retire-million-dollars-140019814.html)
@@ -17,6 +18,7 @@
 * [2024-03-19, 09:42:09](https://news.ycombinator.com/item?id=39754142) - [China's bonds boom as investors face 'asset famine'](https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/)
 * [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
 * [2024-03-19, 09:19:35](https://news.ycombinator.com/item?id=39754044) - [8hour time-restricted eating linked to a 91% higher risk of cardiovascular death](https://medicalxpress.com/news/2024-03-hour-restricted-linked-higher-cardiovascular.html)
+* [2024-03-19, 08:38:15](https://news.ycombinator.com/item?id=39753890) - [Exceptional code quality is not only a developer's vanity metric](https://arxiv.org/abs/2401.13407)
 * [2024-03-19, 07:51:27](https://news.ycombinator.com/item?id=39753740) - [Japan ends negative interest rate policy in historic pivot](https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 06:54:55](https://news.ycombinator.com/item?id=39753499) - [Denmark to build one of the most powerful AI supercomputers](https://novonordiskfonden.dk/en/news/denmark-to-build-one-of-the-worlds-most-powerful-ai-supercomputers-accelerating-solutions-to-societal-challenges/)
