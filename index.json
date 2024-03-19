@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=39756434"
     ],
     [
-      "Let's Encrypt has new intermediate certificates",
+      "New Intermediate Certificates",
       "https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-03-19, 12:22:34",
+      "https://news.ycombinator.com/item?id=39754992"
+    ],
+    [
+      "Dell Says Remote Employees Won't Be Eligible for Promotions: Report",
+      "https://gizmodo.com/dell-remote-employees-eligible-promotions-1851347699"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 11:22:37",
       "https://news.ycombinator.com/item?id=39754651"
     ],
@@ -125,8 +135,8 @@
       "https://news.ycombinator.com/item?id=39754461"
     ],
     [
-      "ESA' Euclid Telescope Has an Ice Problem",
-      "https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/"
+      "Operations begin to de-ice Euclid’s vision",
+      "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Inside the Massive Alleged AT&T Data Breach",
       "https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 09:06:30",
-      "https://news.ycombinator.com/item?id=39753985"
-    ],
-    [
-      "Apt archive mirrors in Git-LFS",
-      "https://blog.josefsson.org/2024/03/18/apt-archive-mirrors-in-git-lfs/"
     ]
   ],
   [
