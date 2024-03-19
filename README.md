@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
-* [2024-03-19, 16:16:13](https://news.ycombinator.com/item?id=39757280) - [Death in Harlem: James VanDerZee's Funerary Portraits (2014)](https://time.com/3807384/death-in-harlem-james-vanderzees-funerary-portraits/)
+* [2024-03-19, 16:20:43](https://news.ycombinator.com/item?id=39757330) - [Mustafa Suleyman of Inflection AI Joins Microsoft](https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/)
 * [2024-03-19, 16:09:35](https://news.ycombinator.com/item?id=39757207) - [Quantum Weirdness in New Metals Bends the Rules of Physics](https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/)
-* [2024-03-19, 15:44:35](https://news.ycombinator.com/item?id=39756956) - [Figma removed `window.figma` on view-only pages today](https://forum.figma.com/t/figma-removed-window-figma-on-view-only-pages-today/67292)
 * [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)
+* [2024-03-19, 15:36:11](https://news.ycombinator.com/item?id=39756863) - [Eerie drone footage reveals first ever look inside Fukushima reactor](https://www.dailymail.co.uk/news/article-13214131/Inside-Fukushima-Eerie-drone-footage-reveals-look-melted-nuclear-reactor-880-tonnes-radioactive-fuel-inside-13-years-disaster.html)
 * [2024-03-19, 15:02:24](https://news.ycombinator.com/item?id=39756434) - [New Intermediate Certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
 * [2024-03-19, 14:48:12](https://news.ycombinator.com/item?id=39756262) - [Understanding Google's File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
