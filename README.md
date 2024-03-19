@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 17:35:23](https://news.ycombinator.com/item?id=39758262) - [Health experts plead for unvaxxed Americans to get measles shot as cases rise](https://arstechnica.com/science/2024/03/health-experts-plead-for-unvaxxed-americans-to-get-measles-shot-as-cases-rise/)
 * [2024-03-19, 17:01:03](https://news.ycombinator.com/item?id=39757824) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-03-19, 16:25:30](https://news.ycombinator.com/item?id=39757407) - [MacBook charger teardown: The surprising complexity inside Apple's power adapter (2015)](https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html)
 * [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
@@ -24,7 +25,6 @@
 * [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
 * [2024-03-19, 02:56:33](https://news.ycombinator.com/item?id=39752504) - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
-* [2024-03-18, 21:12:11](https://news.ycombinator.com/item?id=39750077) - [Show HN: File-based cache for slow Python functions](https://docs.sweep.dev/blogs/file-cache)
 * [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 19:05:14](https://news.ycombinator.com/item?id=39748546) - [Joel Spolsky on Stack Overflow, Inclusion, and How He Broke IT Recruiting (2018)](https://thenewstack.io/joel-spolsky-on-stack-overflow-inclusion-and-how-he-broke-it-recruiting/)

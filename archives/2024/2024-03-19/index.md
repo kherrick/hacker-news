@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 17:35:23](https://news.ycombinator.com/item?id=39758262) - [Health experts plead for unvaxxed Americans to get measles shot as cases rise](https://arstechnica.com/science/2024/03/health-experts-plead-for-unvaxxed-americans-to-get-measles-shot-as-cases-rise/)
 * [2024-03-19, 17:01:03](https://news.ycombinator.com/item?id=39757824) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-03-19, 16:43:05](https://news.ycombinator.com/item?id=39757606) - [Northrop Grumman to Develop Concept for Lunar Railroad](https://news.northropgrumman.com/news/releases/northrop-grumman-to-develop-concept-for-lunar-railroad)
 * [2024-03-19, 16:25:30](https://news.ycombinator.com/item?id=39757407) - [MacBook charger teardown: The surprising complexity inside Apple's power adapter](https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html)
