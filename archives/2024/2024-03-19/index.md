@@ -15,6 +15,7 @@
 * [2024-03-19, 19:37:45](https://news.ycombinator.com/item?id=39759461) - [Ask HN: What are you building LLM/RAG chatbots with](https://news.ycombinator.com/item?id=39759461)
 * [2024-03-19, 19:30:52](https://news.ycombinator.com/item?id=39759398) - [Supreme Court unanimously rules against government in No Fly List case](https://thehill.com/regulation/court-battles/4541638-supreme-court-no-fly-list-case/)
 * [2024-03-19, 19:24:58](https://news.ycombinator.com/item?id=39759338) - [New Node.js Website Design](https://nodejs.org/en)
+* [2024-03-19, 19:23:23](https://news.ycombinator.com/item?id=39759325) - [Show HN: jnv: interactive JSON filter using jq](https://github.com/ynqa/jnv)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
 * [2024-03-19, 18:09:05](https://news.ycombinator.com/item?id=39758601) - [Internals of the async/await pattern from first principles](https://github.com/Dobiasd/articles/blob/master/internals_of_the_async_await_pattern_from_first_principles.md)
 * [2024-03-19, 17:53:18](https://news.ycombinator.com/item?id=39758451) - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
