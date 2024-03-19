@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 19:37:45](https://news.ycombinator.com/item?id=39759461) - [Ask HN: What are you building LLM/RAG chatbots with](https://news.ycombinator.com/item?id=39759461)
 * [2024-03-19, 19:30:52](https://news.ycombinator.com/item?id=39759398) - [Supreme Court unanimously rules against government in No Fly List case](https://thehill.com/regulation/court-battles/4541638-supreme-court-no-fly-list-case/)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
 * [2024-03-19, 17:53:18](https://news.ycombinator.com/item?id=39758451) - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
@@ -29,7 +30,6 @@
 * [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
-* [2024-03-18, 14:01:25](https://news.ycombinator.com/item?id=39744669) - [How do neural networks learn?](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
 
 ## [Archives](archives/index.md)
 
