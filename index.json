@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-03-18, 15:36:57",
-      "https://news.ycombinator.com/item?id=39745993"
-    ],
-    [
-      "WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport",
-      "https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 15:32:53",
       "https://news.ycombinator.com/item?id=39745923"
     ],
@@ -247,6 +237,16 @@
     [
       "Building a streaming SQL engine with Arrow and DataFusion",
       "https://www.arroyo.dev/blog/why-arrow-and-datafusion"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 04:59:35",
+      "https://news.ycombinator.com/item?id=39740654"
+    ],
+    [
+      "Step by Step: Thinking through and beyond the repair manual",
+      "https://placesjournal.org/article/step-by-step-repair-manuals-political-ecology/"
     ]
   ],
   [
