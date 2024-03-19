@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-03-19, 19:37:45",
-      "https://news.ycombinator.com/item?id=39759461"
-    ],
-    [
-      "Ask HN: What are you building LLM/RAG chatbots with",
-      "https://news.ycombinator.com/item?id=39759461"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 19:30:52",
-      "https://news.ycombinator.com/item?id=39759398"
-    ],
-    [
-      "Supreme Court unanimously rules against government in No Fly List case",
-      "https://thehill.com/regulation/court-battles/4541638-supreme-court-no-fly-list-case/"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 18:15:29",
       "https://news.ycombinator.com/item?id=39758667"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-03-19, 02:56:33",
+      "https://news.ycombinator.com/item?id=39752504"
+    ],
+    [
+      "Garnet – A new remote cache-store from Microsoft Research",
+      "https://github.com/microsoft/garnet"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 01:20:45",
       "https://news.ycombinator.com/item?id=39752051"
     ],
@@ -297,6 +287,16 @@
     [
       "YouTube now requires to label their realistic-looking videos made using AI",
       "https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 14:05:07",
+      "https://news.ycombinator.com/item?id=39744727"
+    ],
+    [
+      "Waking My Computer from Afar",
+      "https://bernsteinbear.com/blog/wakeonlan/"
     ]
   ]
 ]
