@@ -12,6 +12,7 @@
 * [2024-03-18, 22:28:49](https://news.ycombinator.com/item?id=39750826) - [Report on the Censorship-Industrial Complex: The Top Organizations to Know](https://www.racket.news/p/report-on-the-censorship-industrial-74b)
 * [2024-03-18, 21:48:55](https://news.ycombinator.com/item?id=39750466) - [The Brewintosh, a 3D Printed Full-Size Macintosh [video]](https://www.youtube.com/watch?v=7N9oz4Ylzm4)
 * [2024-03-18, 21:19:59](https://news.ycombinator.com/item?id=39750162) - [Turning Points: A meeting with Enrico Fermi (2004)](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
+* [2024-03-18, 21:12:11](https://news.ycombinator.com/item?id=39750077) - [Show HN: File-based cache for slow Python functions](https://docs.sweep.dev/blogs/file-cache)
 * [2024-03-18, 21:10:38](https://news.ycombinator.com/item?id=39750061) - [Inversion: Fast, Reliable Structured LLMs](https://rysana.com/inversion)
 * [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-03-18, 20:59:44](https://news.ycombinator.com/item?id=39749943) - [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
