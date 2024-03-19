@@ -61,6 +61,7 @@
 * [2024-03-17, 16:04:52](https://news.ycombinator.com/item?id=39735380) - [Boinc lets you help cutting-edge science research using your computer](https://boinc.berkeley.edu/index.php)
 * [2024-03-17, 15:57:31](https://news.ycombinator.com/item?id=39735320) - ['Data Is Rectangular' and Other Common Misconceptions [video]](https://www.youtube.com/watch?v=zsvafrKvTTY)
 * [2024-03-17, 15:54:12](https://news.ycombinator.com/item?id=39735300) - [Internet providers have left rural Americans behind. One county is fighting back](https://www.theguardian.com/technology/2024/mar/17/rural-broadband-us-internet-providers)
+* [2024-03-17, 15:49:58](https://news.ycombinator.com/item?id=39735267) - [My Quantum Spin: Qubit Ordering and Operations](https://hamacher.cloud/my-quantum-spin-qubit-ordering-and-operations)
 * [2024-03-17, 15:42:02](https://news.ycombinator.com/item?id=39735205) - [Seeding steel frames brings destroyed coral reefs back to life](https://arstechnica.com/science/2024/03/some-coral-reef-damage-can-be-fixed/)
 * [2024-03-17, 15:29:35](https://news.ycombinator.com/item?id=39735108) - [Ask HN: If you've used GPT-4-Turbo and Claude Opus, which do you prefer?](https://news.ycombinator.com/item?id=39735108)
 * [2024-03-17, 15:28:12](https://news.ycombinator.com/item?id=39735096) - [Why Are There Suddenly So Many Car Washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
