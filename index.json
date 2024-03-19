@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-19, 00:02:12",
+      "https://news.ycombinator.com/item?id=39751533"
+    ],
+    [
+      "Project GR00T by Nvidia",
+      "https://twitter.com/DrJimFan/status/1769860044324319658"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 23:29:56",
+      "https://news.ycombinator.com/item?id=39751322"
+    ],
+    [
+      "Cisco Acquires Splunk",
+      "https://www.cisco.com/site/us/en/about/corporate-strategy-office/acquisitions/splunk/index.html"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 22:58:29",
       "https://news.ycombinator.com/item?id=39751072"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2024-03-18, 22:55:37",
-      "https://news.ycombinator.com/item?id=39751046"
+      "2024-03-18, 22:29:46",
+      "https://news.ycombinator.com/item?id=39750837"
     ],
     [
-      "C++ creator rebuts White House warning",
-      "https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.amp.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 21:48:55",
-      "https://news.ycombinator.com/item?id=39750466"
-    ],
-    [
-      "The Brewintosh, a 3D Printed Full-Size Macintosh [video]",
-      "https://www.youtube.com/watch?v=7N9oz4Ylzm4"
+      "Open Source Robotics Alliance: New Funding and Governance Model for ROS / Gazebo",
+      "https://osralliance.org/"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-03-18, 19:29:48",
-      "https://news.ycombinator.com/item?id=39748872"
-    ],
-    [
-      "Waffle House's Magic Marker System",
-      "https://kottke.org/24/03/waffle-houses-magic-marker-system"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 16:47:38",
       "https://news.ycombinator.com/item?id=39746806"
     ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-03-18, 15:54:43",
+      "https://news.ycombinator.com/item?id=39746195"
+    ],
+    [
+      "Ravi is a dialect of Lua, with JIT and AOT compilers",
+      "https://github.com/dibyendumajumdar/ravi"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 15:32:53",
       "https://news.ycombinator.com/item?id=39745923"
     ],
@@ -147,16 +157,6 @@
     [
       "How I replaced deadly garage door torsion springs (2002)",
       "https://www.truetex.com/garage.htm"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 13:56:53",
-      "https://news.ycombinator.com/item?id=39744595"
-    ],
-    [
-      "Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist",
-      "https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-03-18, 08:45:52",
-      "https://news.ycombinator.com/item?id=39741600"
-    ],
-    [
-      "Building a streaming SQL engine with Arrow and DataFusion",
-      "https://www.arroyo.dev/blog/why-arrow-and-datafusion"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 04:59:35",
       "https://news.ycombinator.com/item?id=39740654"
     ],
@@ -267,6 +257,16 @@
     [
       "Inferring the \"Meaning\" of Wing-Tail Flicking Behavior in American Crows",
       "https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1096&context=research_days_posters_2021"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 18:35:23",
+      "https://news.ycombinator.com/item?id=39736775"
+    ],
+    [
+      "Engima Breaker in Rust",
+      "https://github.com/iKevinY/ultra"
     ]
   ],
   [
