@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
+* [2024-03-19, 09:19:35](https://news.ycombinator.com/item?id=39754044) - [8hour time-restricted eating linked to a 91% higher risk of cardiovascular death](https://medicalxpress.com/news/2024-03-hour-restricted-linked-higher-cardiovascular.html)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
-* [2024-03-19, 05:54:49](https://news.ycombinator.com/item?id=39753298) - [Is Tesla more valuable than Toyota?](https://calpaterson.com/singleton.html)
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 * [2024-03-19, 05:08:21](https://news.ycombinator.com/item?id=39753115) - [20 Years of \"Not Even Wrong\"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
 * [2024-03-19, 03:43:24](https://news.ycombinator.com/item?id=39752746) - [Show HN: Directories Where You Can Submit Your Product](https://github.com/BossChow/ultimate-submit-list)
@@ -26,7 +27,6 @@
 * [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-18, 09:06:56](https://news.ycombinator.com/item?id=39741731) - [Show HN: Extend Zigbee sensor range with LoRaWAN](https://github.com/lorabridge)
-* [2024-03-17, 22:45:07](https://news.ycombinator.com/item?id=39738729) - [The many flavors of edible ants](https://www.acs.org/pressroom/presspacs/2024/march/the-many-flavors-of-edible-ants.html)
 * [2024-03-17, 18:35:23](https://news.ycombinator.com/item?id=39736775) - [Engima Breaker in Rust](https://github.com/iKevinY/ultra)
 * [2024-03-17, 16:38:32](https://news.ycombinator.com/item?id=39735665) - [How Ultrasound Became Ultra Small](https://spectrum.ieee.org/mems-ultrasound-history)
 * [2024-03-16, 03:10:55](https://news.ycombinator.com/item?id=39723022) - [First N-channel diamond field-effect transistor for CMOS integrated circuits](https://techxplore.com/news/2024-03-world-channel-diamond-field-effect.html)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
+* [2024-03-19, 09:19:35](https://news.ycombinator.com/item?id=39754044) - [8hour time-restricted eating linked to a 91% higher risk of cardiovascular death](https://medicalxpress.com/news/2024-03-hour-restricted-linked-higher-cardiovascular.html)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 05:54:49](https://news.ycombinator.com/item?id=39753298) - [Is Tesla more valuable than Toyota?](https://calpaterson.com/singleton.html)
 * [2024-03-19, 05:49:01](https://news.ycombinator.com/item?id=39753282) - [.NET Developers Begging for Ecosystem Destruction](https://aaronstannard.com/dotnet-eventing-backslide/)
