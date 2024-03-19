@@ -11,6 +11,7 @@
 * [2024-03-19, 09:19:35](https://news.ycombinator.com/item?id=39754044) - [8hour time-restricted eating linked to a 91% higher risk of cardiovascular death](https://medicalxpress.com/news/2024-03-hour-restricted-linked-higher-cardiovascular.html)
 * [2024-03-19, 07:51:27](https://news.ycombinator.com/item?id=39753740) - [Japan ends negative interest rate policy in historic pivot](https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
+* [2024-03-19, 06:54:55](https://news.ycombinator.com/item?id=39753499) - [Denmark to build one of the most powerful AI supercomputers](https://novonordiskfonden.dk/en/news/denmark-to-build-one-of-the-worlds-most-powerful-ai-supercomputers-accelerating-solutions-to-societal-challenges/)
 * [2024-03-19, 05:54:49](https://news.ycombinator.com/item?id=39753298) - [Is Tesla more valuable than Toyota?](https://calpaterson.com/singleton.html)
 * [2024-03-19, 05:49:01](https://news.ycombinator.com/item?id=39753282) - [.NET Developers Begging for Ecosystem Destruction](https://aaronstannard.com/dotnet-eventing-backslide/)
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
