@@ -60,6 +60,7 @@
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 15:24:07](https://news.ycombinator.com/item?id=39745809) - [Gas Trapped in Antarctic Ice Recorded the Mass Death of 56M People](https://www.atlasobscura.com/articles/colonization-antarctica-ice)
 * [2024-03-18, 15:15:58](https://news.ycombinator.com/item?id=39745700) - [Parakeet: A Tiny LLM](https://news.ycombinator.com/item?id=39745700)
+* [2024-03-18, 15:13:52](https://news.ycombinator.com/item?id=39745677) - [Singing Sand](https://en.wikipedia.org/wiki/Singing_sand)
 * [2024-03-18, 15:09:29](https://news.ycombinator.com/item?id=39745610) - [Sensor Tower acquires market intelligence platform data.ai](https://www.prnewswire.com/in/news-releases/sensor-tower-acquires-market-intelligence-platform-dataai-302090807.html)
 * [2024-03-18, 14:59:44](https://news.ycombinator.com/item?id=39745482) - [Blackwater PMC founder Erik Prince on distributed open-source communication](https://twitter.com/realErikDPrince/status/1769696764423000168)
 * [2024-03-18, 14:58:28](https://news.ycombinator.com/item?id=39745466) - [Harvard has halted its long-planned atmospheric geoengineering experiment](https://www.technologyreview.com/2024/03/18/1089879/harvard-halts-its-long-planned-atmospheric-geoengineering-experiment/)
