@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 23:29:53](https://news.ycombinator.com/item?id=39761399) - [First 'cyberflasher' convicted under UK's new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
 * [2024-03-19, 23:17:52](https://news.ycombinator.com/item?id=39761324) - [Judge demands social media sites prove they didn't help radicalize mass shooter](https://www.theregister.com/2024/03/19/social_media_sites_headed_to/)
 * [2024-03-19, 22:56:40](https://news.ycombinator.com/item?id=39761179) - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
 * [2024-03-19, 22:07:51](https://news.ycombinator.com/item?id=39760797) - [A new kind of MD5 collision](https://twitter.com/realhashbreaker/status/1770161965006008570)

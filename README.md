@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 23:29:53](https://news.ycombinator.com/item?id=39761399) - [First 'cyberflasher' convicted under UK's new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
 * [2024-03-19, 23:17:52](https://news.ycombinator.com/item?id=39761324) - [Judge demands social media sites prove they didn't help radicalize mass shooter](https://www.theregister.com/2024/03/19/social_media_sites_headed_to/)
 * [2024-03-19, 22:56:40](https://news.ycombinator.com/item?id=39761179) - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
 * [2024-03-19, 21:34:08](https://news.ycombinator.com/item?id=39760482) - [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
@@ -27,7 +28,6 @@
 * [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
 * [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
-* [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 14:05:07](https://news.ycombinator.com/item?id=39744727) - [Waking My Computer from Afar](https://bernsteinbear.com/blog/wakeonlan/)
 * [2024-03-17, 14:08:45](https://news.ycombinator.com/item?id=39734591) - [Pretending to be PostgreSQL: Part one](https://ivdl.co.za/2024/03/02/pretending-to-be-postgresql-part-one-1/)
 
