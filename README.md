@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 17:01:03](https://news.ycombinator.com/item?id=39757824) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-03-19, 16:43:05](https://news.ycombinator.com/item?id=39757606) - [Northrop Grumman to Develop Concept for Lunar Railroad](https://news.northropgrumman.com/news/releases/northrop-grumman-to-develop-concept-for-lunar-railroad)
+* [2024-03-19, 16:25:30](https://news.ycombinator.com/item?id=39757407) - [MacBook charger teardown: The surprising complexity inside Apple's power adapter](https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html)
 * [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
 * [2024-03-19, 16:20:43](https://news.ycombinator.com/item?id=39757330) - [Mustafa Suleyman of Inflection AI Joins Microsoft](https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/)
 * [2024-03-19, 16:09:35](https://news.ycombinator.com/item?id=39757207) - [Quantum Weirdness in New Metals Bends the Rules of Physics](https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/)
@@ -22,13 +25,10 @@
 * [2024-03-19, 02:56:33](https://news.ycombinator.com/item?id=39752504) - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-18, 21:12:11](https://news.ycombinator.com/item?id=39750077) - [Show HN: File-based cache for slow Python functions](https://docs.sweep.dev/blogs/file-cache)
-* [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
-* [2024-03-18, 19:14:09](https://news.ycombinator.com/item?id=39748648) - [LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
 * [2024-03-18, 19:05:14](https://news.ycombinator.com/item?id=39748546) - [Joel Spolsky on Stack Overflow, Inclusion, and How He Broke IT Recruiting (2018)](https://thenewstack.io/joel-spolsky-on-stack-overflow-inclusion-and-how-he-broke-it-recruiting/)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
-* [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 14:01:25](https://news.ycombinator.com/item?id=39744669) - [How do neural networks learn?](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
 
 ## [Archives](archives/index.md)
