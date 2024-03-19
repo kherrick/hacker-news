@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
+* [2024-03-19, 05:54:49](https://news.ycombinator.com/item?id=39753298) - [Is Tesla more valuable than Toyota?](https://calpaterson.com/singleton.html)
 * [2024-03-19, 05:49:01](https://news.ycombinator.com/item?id=39753282) - [.NET Developers Begging for Ecosystem Destruction](https://aaronstannard.com/dotnet-eventing-backslide/)
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 * [2024-03-19, 05:08:21](https://news.ycombinator.com/item?id=39753115) - [20 Years of \"Not Even Wrong\"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
