@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)
 * [2024-03-19, 15:02:24](https://news.ycombinator.com/item?id=39756434) - [Let's Encrypt has new intermediate certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
 * [2024-03-19, 14:49:43](https://news.ycombinator.com/item?id=39756269) - [Marc Andreessen Lists Silicon Valley Compound After $250M Malibu Spending Spree](https://www.wsj.com/real-estate/luxury-homes/billionaire-marc-andreessen-lists-silicon-valley-compound-following-250-million-malibu-spending-spree-bc88dea2)
+* [2024-03-19, 14:48:12](https://news.ycombinator.com/item?id=39756262) - [Understanding Google's File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
 * [2024-03-19, 14:30:08](https://news.ycombinator.com/item?id=39756093) - [Ask HN: How should organize and back up 23 TiB of personal files?](https://news.ycombinator.com/item?id=39756093)
 * [2024-03-19, 14:20:23](https://news.ycombinator.com/item?id=39755994) - [A FreeBSD User Tries NetBSD 10-RC5](https://www.youtube.com/watch?v=fLmIKENJxe4)
 * [2024-03-19, 14:19:30](https://news.ycombinator.com/item?id=39755982) - [AI researchers have started reviewing their peers using AI assistance](https://www.theregister.com/2024/03/19/ai_researchers_reviewing_peers/)
