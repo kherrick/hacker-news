@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-19, 05:49:01](https://news.ycombinator.com/item?id=39753282) - [.NET Developers Begging for Ecosystem Destruction](https://aaronstannard.com/dotnet-eventing-backslide/)
 * [2024-03-19, 05:08:21](https://news.ycombinator.com/item?id=39753115) - [20 Years of \"Not Even Wrong\"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
 * [2024-03-19, 04:52:24](https://news.ycombinator.com/item?id=39753049) - [Twstalker.com as a Twitter alternative front end](https://twstalker.com/EFF)
 * [2024-03-19, 02:56:33](https://news.ycombinator.com/item?id=39752504) - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
+* [2024-03-19, 01:40:51](https://news.ycombinator.com/item?id=39752168) - [An exploding star nova is due to show up in our skies soon. Here's how to view](https://www.businessinsider.com/how-to-see-exploding-star-nova-nasa-says-expect-soon-2024-3)
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 00:18:52](https://news.ycombinator.com/item?id=39751636) - [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 * [2024-03-18, 22:58:29](https://news.ycombinator.com/item?id=39751072) - [Spent brewer's yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
