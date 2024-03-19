@@ -77,6 +77,7 @@
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
 * [2024-03-17, 13:44:03](https://news.ycombinator.com/item?id=39734440) - [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)
 * [2024-03-17, 13:38:17](https://news.ycombinator.com/item?id=39734406) - [Dot: Standalone app for local RAG with Mistral 7B](https://github.com/alexpinel/Dot)
+* [2024-03-17, 13:27:35](https://news.ycombinator.com/item?id=39734355) - [IP Geolocation Is Twenty-Five Years Old](https://www.sanjayparekh.com/ip-geolocation-is-25-years-old/)
 * [2024-03-17, 13:05:23](https://news.ycombinator.com/item?id=39734231) - [How to Mess with Your Roommate](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
 * [2024-03-17, 13:01:52](https://news.ycombinator.com/item?id=39734207) - [OxidOS Automotive](https://oxidos.io/)
 * [2024-03-17, 12:49:39](https://news.ycombinator.com/item?id=39734134) - [Using LLMs to reverse JavaScript variable name minification (2023)](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification.html)

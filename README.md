@@ -22,7 +22,6 @@
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
 * [2024-03-19, 14:06:25](https://news.ycombinator.com/item?id=39755858) - [Show HN: Causal 2.0 – Modern Financial Planning for Startups](https://causal.app)
 * [2024-03-19, 13:15:38](https://news.ycombinator.com/item?id=39755407) - [Margaret Mead, John von Neumann, and the Prehistory of AI](https://resobscura.substack.com/p/he-spoke-of-computers-with-some-awe)
-* [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
@@ -30,6 +29,7 @@
 * [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
 * [2024-03-18, 14:05:07](https://news.ycombinator.com/item?id=39744727) - [Waking My Computer from Afar](https://bernsteinbear.com/blog/wakeonlan/)
 * [2024-03-17, 14:08:45](https://news.ycombinator.com/item?id=39734591) - [Pretending to be PostgreSQL: Part one](https://ivdl.co.za/2024/03/02/pretending-to-be-postgresql-part-one-1/)
+* [2024-03-17, 13:27:35](https://news.ycombinator.com/item?id=39734355) - [IP Geolocation Is Twenty-Five Years Old](https://www.sanjayparekh.com/ip-geolocation-is-25-years-old/)
 
 ## [Archives](archives/index.md)
 
