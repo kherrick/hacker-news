@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 20:34:29](https://news.ycombinator.com/item?id=39759942) - [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
 * [2024-03-19, 20:01:24](https://news.ycombinator.com/item?id=39759693) - [Lego price per part over the years – Brick Insights](https://brickinsights.com/statistics/ppp)
 * [2024-03-19, 19:45:56](https://news.ycombinator.com/item?id=39759539) - [PostgreSQL is eating the database world](https://pigsty.io/blog/pg/pg-eat-db-world/)
-* [2024-03-19, 19:45:13](https://news.ycombinator.com/item?id=39759530) - [FlipperZero: Our Response to the Canadian Government](https://blog.flipper.net/response-to-canadian-government/)
+* [2024-03-19, 19:24:58](https://news.ycombinator.com/item?id=39759338) - [New Node.js Website Design](https://nodejs.org/en)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
 * [2024-03-19, 17:53:18](https://news.ycombinator.com/item?id=39758451) - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
 * [2024-03-19, 17:48:28](https://news.ycombinator.com/item?id=39758391) - [What does Alan Kay think about LLMs?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
@@ -19,7 +20,6 @@
 * [2024-03-19, 13:15:38](https://news.ycombinator.com/item?id=39755407) - [Margaret Mead, John von Neumann, and the Prehistory of AI](https://resobscura.substack.com/p/he-spoke-of-computers-with-some-awe)
 * [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 * [2024-03-19, 11:44:20](https://news.ycombinator.com/item?id=39754770) - [Build System Schism: The Curse of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
-* [2024-03-19, 11:22:37](https://news.ycombinator.com/item?id=39754651) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
 * [2024-03-19, 10:19:34](https://news.ycombinator.com/item?id=39754330) - [Inside the Massive Alleged AT&T Data Breach](https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
