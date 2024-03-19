@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-19, 13:42:20](https://news.ycombinator.com/item?id=39755646) - [Spacedrive Alpha v0.2](https://www.spacedrive.com/blog/alpha-zero-two-release)
+* [2024-03-19, 14:30:08](https://news.ycombinator.com/item?id=39756093) - [Ask HN: How should organize and back up 23 TiB of personal files?](https://news.ycombinator.com/item?id=39756093)
+* [2024-03-19, 14:20:23](https://news.ycombinator.com/item?id=39755994) - [A FreeBSD User Tries NetBSD 10-RC5](https://www.youtube.com/watch?v=fLmIKENJxe4)
 * [2024-03-19, 13:33:11](https://news.ycombinator.com/item?id=39755565) - [The rise and fall of a Halifax man's illegal TV streaming empire](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-man-illegal-streaming-empire-1.7112573)
 * [2024-03-19, 13:25:59](https://news.ycombinator.com/item?id=39755503) - [Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO](https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo)
 * [2024-03-19, 13:10:30](https://news.ycombinator.com/item?id=39755358) - [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
@@ -24,7 +25,6 @@
 * [2024-03-18, 19:14:09](https://news.ycombinator.com/item?id=39748648) - [LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
-* [2024-03-18, 14:24:32](https://news.ycombinator.com/item?id=39744989) - [How I replaced deadly garage door torsion springs (2002)](https://www.truetex.com/garage.htm)
 * [2024-03-18, 14:01:25](https://news.ycombinator.com/item?id=39744669) - [How do neural networks learn?](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
 * [2024-03-18, 13:59:24](https://news.ycombinator.com/item?id=39744641) - [Migration out of Africa may have been driven by first glaciation of Pleistocene](https://phys.org/news/2024-03-migration-hominins-africa-driven-major.html)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)

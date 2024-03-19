@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 14:30:08](https://news.ycombinator.com/item?id=39756093) - [Ask HN: How should organize and back up 23 TiB of personal files?](https://news.ycombinator.com/item?id=39756093)
+* [2024-03-19, 14:20:23](https://news.ycombinator.com/item?id=39755994) - [A FreeBSD User Tries NetBSD 10-RC5](https://www.youtube.com/watch?v=fLmIKENJxe4)
 * [2024-03-19, 14:19:30](https://news.ycombinator.com/item?id=39755982) - [AI researchers have started reviewing their peers using AI assistance](https://www.theregister.com/2024/03/19/ai_researchers_reviewing_peers/)
 * [2024-03-19, 14:00:05](https://news.ycombinator.com/item?id=39755801) - [Nvidia Waves and Moats](https://stratechery.com/2024/nvidia-waves-and-moats/)
 * [2024-03-19, 13:53:56](https://news.ycombinator.com/item?id=39755758) - [Climate change indicators reached record levels in 2023: WMO](https://wmo.int/media/news/climate-change-indicators-reached-record-levels-2023-wmo)
