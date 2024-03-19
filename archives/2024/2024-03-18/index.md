@@ -27,6 +27,7 @@
 * [2024-03-18, 19:34:30](https://news.ycombinator.com/item?id=39748942) - [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
 * [2024-03-18, 19:29:48](https://news.ycombinator.com/item?id=39748872) - [Waffle House's Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
 * [2024-03-18, 19:19:53](https://news.ycombinator.com/item?id=39748731) - [Collection of System Design Articles](https://github.com/systemdesign42/system-design)
+* [2024-03-18, 19:14:09](https://news.ycombinator.com/item?id=39748648) - [LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
 * [2024-03-18, 19:12:04](https://news.ycombinator.com/item?id=39748624) - [IMF Emails Hacked](https://www.securityweek.com/imf-emails-hacked/)
 * [2024-03-18, 19:10:18](https://news.ycombinator.com/item?id=39748603) - [Show HN: Next-Gen AI Training: LLM-RLHF-Tuning with PPO and DPO](https://github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO)
 * [2024-03-18, 19:01:02](https://news.ycombinator.com/item?id=39748495) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/)
