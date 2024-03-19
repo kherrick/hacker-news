@@ -70,6 +70,7 @@
 * [2024-03-18, 14:20:21](https://news.ycombinator.com/item?id=39744932) - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
 * [2024-03-18, 14:16:54](https://news.ycombinator.com/item?id=39744878) - [Vitamin D Is a Hormone](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story)
 * [2024-03-18, 13:59:58](https://news.ycombinator.com/item?id=39744649) - [Our bacteria are more personal than we thought, new study shows](https://phys.org/news/2024-03-bacteria-personal-thought.html)
+* [2024-03-18, 13:59:24](https://news.ycombinator.com/item?id=39744641) - [Migration out of Africa may have been driven by first glaciation of Pleistocene](https://phys.org/news/2024-03-migration-hominins-africa-driven-major.html)
 * [2024-03-18, 13:56:53](https://news.ycombinator.com/item?id=39744595) - [Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
 * [2024-03-18, 13:45:37](https://news.ycombinator.com/item?id=39744430) - [Modifying mouth bacteria to remove cavities](https://www.luminaprobiotic.com/)
 * [2024-03-18, 13:26:23](https://news.ycombinator.com/item?id=39744151) - [I'm So Old: Web Edition](https://davidwalsh.name/im-so-old-1)

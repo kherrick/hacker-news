@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-19, 04:12:00](https://news.ycombinator.com/item?id=39752878) - [8h time-restricted eating linked to a 91% higher risk of cardiovascular death](https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death)
 * [2024-03-19, 02:56:33](https://news.ycombinator.com/item?id=39752504) - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-19, 02:53:20](https://news.ycombinator.com/item?id=39752487) - [Loneliness in Midlife: A Growing Gap Between US and Europe](https://neurosciencenews.com/loneliness-midlife-psychology-25768/)
 * [2024-03-19, 01:40:51](https://news.ycombinator.com/item?id=39752168) - [An exploding star nova is due to show up in our skies soon. Here's how to view](https://www.businessinsider.com/how-to-see-exploding-star-nova-nasa-says-expect-soon-2024-3)
@@ -21,6 +20,7 @@
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 * [2024-03-18, 14:24:32](https://news.ycombinator.com/item?id=39744989) - [How I replaced deadly garage door torsion springs (2002)](https://www.truetex.com/garage.htm)
+* [2024-03-18, 13:59:24](https://news.ycombinator.com/item?id=39744641) - [Migration out of Africa may have been driven by first glaciation of Pleistocene](https://phys.org/news/2024-03-migration-hominins-africa-driven-major.html)
 * [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-18, 09:06:56](https://news.ycombinator.com/item?id=39741731) - [Show HN: Extend Zigbee sensor range with LoRaWAN](https://github.com/lorabridge)
