@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 15:44:35](https://news.ycombinator.com/item?id=39756956) - [Figma removed `window.figma` on view-only pages today](https://forum.figma.com/t/figma-removed-window-figma-on-view-only-pages-today/67292)
 * [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)
 * [2024-03-19, 15:02:24](https://news.ycombinator.com/item?id=39756434) - [Let's Encrypt has new intermediate certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
 * [2024-03-19, 14:49:43](https://news.ycombinator.com/item?id=39756269) - [Marc Andreessen Lists Silicon Valley Compound After $250M Malibu Spending Spree](https://www.wsj.com/real-estate/luxury-homes/billionaire-marc-andreessen-lists-silicon-valley-compound-following-250-million-malibu-spending-spree-bc88dea2)
@@ -28,6 +29,7 @@
 * [2024-03-19, 12:22:34](https://news.ycombinator.com/item?id=39754992) - [Dell Says Remote Employees Won't Be Eligible for Promotions: Report](https://gizmodo.com/dell-remote-employees-eligible-promotions-1851347699)
 * [2024-03-19, 12:10:15](https://news.ycombinator.com/item?id=39754926) - [Try / Ripgrep in Y Minutes](https://codapi.org/try/ripgrep/)
 * [2024-03-19, 12:07:47](https://news.ycombinator.com/item?id=39754906) - [Titanfall is still EA's most innovative shooter ten years later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
+* [2024-03-19, 11:44:20](https://news.ycombinator.com/item?id=39754770) - [Build System Schism: The Curse of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
 * [2024-03-19, 11:22:37](https://news.ycombinator.com/item?id=39754651) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [ESA' Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
