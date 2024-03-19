@@ -37,6 +37,7 @@
 * [2024-03-17, 19:06:24](https://news.ycombinator.com/item?id=39737053) - [Heat pumps slash emissions even if powered by a dirty grid](https://www.canarymedia.com/articles/heat-pumps/yes-heat-pumps-slash-emissions-even-if-powered-by-a-dirty-grid)
 * [2024-03-17, 19:00:10](https://news.ycombinator.com/item?id=39736999) - [SAML v2.0 Deployment Profile for Federation Interoperability](https://kantarainitiative.github.io/SAMLprofiles/saml2int.html)
 * [2024-03-17, 18:57:10](https://news.ycombinator.com/item?id=39736975) - [To Delay Death, Lift Weights](https://www.outsideonline.com/health/training-performance/delay-death-lift-weights/)
+* [2024-03-17, 18:35:23](https://news.ycombinator.com/item?id=39736775) - [Engima Breaker in Rust](https://github.com/iKevinY/ultra)
 * [2024-03-17, 18:28:31](https://news.ycombinator.com/item?id=39736718) - [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
 * [2024-03-17, 18:18:30](https://news.ycombinator.com/item?id=39736622) - [Chinese Sellers are Manipulating Amazon in 2024](https://www.ecomcrew.com/chinese-sellers-manipulating-amazon/)
 * [2024-03-17, 18:07:48](https://news.ycombinator.com/item?id=39736545) - [Uber Australia Is Creating a Yellow Union to Head Off Reform](https://jacobin.com/2024/03/uber-australia-worker-committee-union)

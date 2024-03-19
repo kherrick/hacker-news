@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 23:29:56](https://news.ycombinator.com/item?id=39751322) - [Cisco Acquires Splunk](https://www.cisco.com/site/us/en/about/corporate-strategy-office/acquisitions/splunk/index.html)
 * [2024-03-18, 22:58:29](https://news.ycombinator.com/item?id=39751072) - [Spent brewer's yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
 * [2024-03-18, 22:55:37](https://news.ycombinator.com/item?id=39751046) - [C++ creator rebuts White House warning](https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.amp.html)
 * [2024-03-18, 22:37:43](https://news.ycombinator.com/item?id=39750894) - [Ask HN: What books have you found understandable during serious depression?](https://news.ycombinator.com/item?id=39750894)
+* [2024-03-18, 22:29:46](https://news.ycombinator.com/item?id=39750837) - [Open Source Robotics Alliance: New Funding and Governance Model for ROS / Gazebo](https://osralliance.org/)
 * [2024-03-18, 22:28:49](https://news.ycombinator.com/item?id=39750826) - [Report on the Censorship-Industrial Complex: The Top Organizations to Know](https://www.racket.news/p/report-on-the-censorship-industrial-74b)
 * [2024-03-18, 21:48:55](https://news.ycombinator.com/item?id=39750466) - [The Brewintosh, a 3D Printed Full-Size Macintosh [video]](https://www.youtube.com/watch?v=7N9oz4Ylzm4)
 * [2024-03-18, 21:19:59](https://news.ycombinator.com/item?id=39750162) - [Turning Points: A meeting with Enrico Fermi (2004)](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
