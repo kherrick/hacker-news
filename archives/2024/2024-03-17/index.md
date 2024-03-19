@@ -73,6 +73,7 @@
 * [2024-03-17, 14:45:40](https://news.ycombinator.com/item?id=39734803) - [Zenv: Forth for the ZX Spectrum](https://github.com/Veltas/zenv)
 * [2024-03-17, 14:14:04](https://news.ycombinator.com/item?id=39734619) - [The News Business Is Cratering](https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187)
 * [2024-03-17, 14:13:27](https://news.ycombinator.com/item?id=39734614) - [Isamu Akasaki’s blue LEDs changed how we light our world](https://spectrum.ieee.org/blue-leds-changed-our-world)
+* [2024-03-17, 14:08:45](https://news.ycombinator.com/item?id=39734591) - [Pretending to be PostgreSQL: Part one](https://ivdl.co.za/2024/03/02/pretending-to-be-postgresql-part-one-1/)
 * [2024-03-17, 13:44:23](https://news.ycombinator.com/item?id=39734441) - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
 * [2024-03-17, 13:44:03](https://news.ycombinator.com/item?id=39734440) - [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)
 * [2024-03-17, 13:38:17](https://news.ycombinator.com/item?id=39734406) - [Dot: Standalone app for local RAG with Mistral 7B](https://github.com/alexpinel/Dot)

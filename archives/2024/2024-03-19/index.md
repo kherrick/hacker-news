@@ -9,6 +9,7 @@
 * [2024-03-19, 21:34:08](https://news.ycombinator.com/item?id=39760482) - [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
 * [2024-03-19, 21:31:42](https://news.ycombinator.com/item?id=39760457) - [The Toxic Effects of Electronic Waste in Accra, Ghana](https://www.bloomberg.com/news/articles/2019-05-29/the-rich-world-s-electronic-waste-dumped-in-ghana)
 * [2024-03-19, 21:31:13](https://news.ycombinator.com/item?id=39760455) - [Hackers exploit Aiohttp bug to find vulnerable networks](https://www.bleepingcomputer.com/news/security/hackers-exploit-aiohttp-bug-to-find-vulnerable-networks/)
+* [2024-03-19, 21:27:46](https://news.ycombinator.com/item?id=39760423) - [You gotta fight, for your right, to have websites](http://www.circuitbored.com/communicate/viewtopic.php?t=235)
 * [2024-03-19, 21:23:55](https://news.ycombinator.com/item?id=39760379) - [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
 * [2024-03-19, 21:19:38](https://news.ycombinator.com/item?id=39760333) - [Root cause of Alzheimer's may be fat buildup in brain cells, research suggests](https://medicalxpress.com/news/2024-03-root-alzheimer-fat-buildup-brain.html)
 * [2024-03-19, 20:34:29](https://news.ycombinator.com/item?id=39759942) - [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)

@@ -3,6 +3,7 @@
 * [2024-03-19, 22:07:51](https://news.ycombinator.com/item?id=39760797) - [A new kind of MD5 collision](https://twitter.com/realhashbreaker/status/1770161965006008570)
 * [2024-03-19, 21:34:08](https://news.ycombinator.com/item?id=39760482) - [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
 * [2024-03-19, 21:31:42](https://news.ycombinator.com/item?id=39760457) - [The Toxic Effects of Electronic Waste in Accra, Ghana](https://www.bloomberg.com/news/articles/2019-05-29/the-rich-world-s-electronic-waste-dumped-in-ghana)
+* [2024-03-19, 21:27:46](https://news.ycombinator.com/item?id=39760423) - [You gotta fight, for your right, to have websites](http://www.circuitbored.com/communicate/viewtopic.php?t=235)
 * [2024-03-19, 21:23:55](https://news.ycombinator.com/item?id=39760379) - [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
 * [2024-03-19, 21:19:38](https://news.ycombinator.com/item?id=39760333) - [Root cause of Alzheimer's may be fat buildup in brain cells, research suggests](https://medicalxpress.com/news/2024-03-root-alzheimer-fat-buildup-brain.html)
 * [2024-03-19, 20:28:09](https://news.ycombinator.com/item?id=39759906) - [New algorithm unlocks high-resolution insights for computer vision](https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318)
@@ -10,7 +11,6 @@
 * [2024-03-19, 19:54:56](https://news.ycombinator.com/item?id=39759627) - [Retina – eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
 * [2024-03-19, 19:23:23](https://news.ycombinator.com/item?id=39759325) - [Show HN: jnv: interactive JSON filter using jq](https://github.com/ynqa/jnv)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
-* [2024-03-19, 17:53:18](https://news.ycombinator.com/item?id=39758451) - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
 * [2024-03-19, 17:01:03](https://news.ycombinator.com/item?id=39757824) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-03-19, 16:47:29](https://news.ycombinator.com/item?id=39757665) - [Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
 * [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
@@ -22,7 +22,6 @@
 * [2024-03-19, 13:15:38](https://news.ycombinator.com/item?id=39755407) - [Margaret Mead, John von Neumann, and the Prehistory of AI](https://resobscura.substack.com/p/he-spoke-of-computers-with-some-awe)
 * [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
-* [2024-03-19, 10:19:34](https://news.ycombinator.com/item?id=39754330) - [Inside the Massive Alleged AT&T Data Breach](https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
@@ -30,6 +29,7 @@
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 14:05:07](https://news.ycombinator.com/item?id=39744727) - [Waking My Computer from Afar](https://bernsteinbear.com/blog/wakeonlan/)
+* [2024-03-17, 14:08:45](https://news.ycombinator.com/item?id=39734591) - [Pretending to be PostgreSQL: Part one](https://ivdl.co.za/2024/03/02/pretending-to-be-postgresql-part-one-1/)
 
 ## [Archives](archives/index.md)
 
