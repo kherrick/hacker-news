@@ -30,6 +30,7 @@
 * [2024-03-18, 19:14:09](https://news.ycombinator.com/item?id=39748648) - [LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
 * [2024-03-18, 19:12:04](https://news.ycombinator.com/item?id=39748624) - [IMF Emails Hacked](https://www.securityweek.com/imf-emails-hacked/)
 * [2024-03-18, 19:10:18](https://news.ycombinator.com/item?id=39748603) - [Show HN: Next-Gen AI Training: LLM-RLHF-Tuning with PPO and DPO](https://github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO)
+* [2024-03-18, 19:05:14](https://news.ycombinator.com/item?id=39748546) - [Joel Spolsky on Stack Overflow, Inclusion, and How He Broke IT Recruiting (2018)](https://thenewstack.io/joel-spolsky-on-stack-overflow-inclusion-and-how-he-broke-it-recruiting/)
 * [2024-03-18, 19:01:02](https://news.ycombinator.com/item?id=39748495) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 18:54:24](https://news.ycombinator.com/item?id=39748428) - [Have We Reached Peak AI?](https://www.wheresyoured.at/peakai/)
 * [2024-03-18, 18:24:01](https://news.ycombinator.com/item?id=39748001) - [Xata, a new serverless Postgres platform](https://xata.io/blog/serverless-postgres-platform)
