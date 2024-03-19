@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
 * [2024-03-19, 20:34:29](https://news.ycombinator.com/item?id=39759942) - [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
+* [2024-03-19, 20:18:49](https://news.ycombinator.com/item?id=39759831) - [The end of landlords: the surprisingly simple solution to the UK housing crisis](https://www.theguardian.com/lifeandstyle/2024/mar/19/end-of-landlords-surprisingly-simple-solution-to-uk-housing-crisis)
 * [2024-03-19, 20:01:24](https://news.ycombinator.com/item?id=39759693) - [Lego price per part over the years – Brick Insights](https://brickinsights.com/statistics/ppp)
 * [2024-03-19, 20:01:14](https://news.ycombinator.com/item?id=39759687) - [Ubisoft let me speak with its new AI-powered video game NPCs](https://www.theverge.com/2024/3/19/24105748/nvidia-neo-npc-prototypes-gdc-2024)
+* [2024-03-19, 19:54:56](https://news.ycombinator.com/item?id=39759627) - [Retina – eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
 * [2024-03-19, 19:45:56](https://news.ycombinator.com/item?id=39759539) - [PostgreSQL is eating the database world](https://pigsty.io/blog/pg/pg-eat-db-world/)
 * [2024-03-19, 19:45:13](https://news.ycombinator.com/item?id=39759530) - [FlipperZero: Our Response to the Canadian Government](https://blog.flipper.net/response-to-canadian-government/)
 * [2024-03-19, 19:37:45](https://news.ycombinator.com/item?id=39759461) - [Ask HN: What are you building LLM/RAG chatbots with](https://news.ycombinator.com/item?id=39759461)
