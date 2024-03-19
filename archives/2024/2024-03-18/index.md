@@ -75,6 +75,7 @@
 * [2024-03-18, 14:24:32](https://news.ycombinator.com/item?id=39744989) - [How I Replaced Deadly Garage Door Torsion Springs](https://www.truetex.com/garage.htm)
 * [2024-03-18, 14:20:21](https://news.ycombinator.com/item?id=39744932) - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
 * [2024-03-18, 14:16:54](https://news.ycombinator.com/item?id=39744878) - [Vitamin D Is a Hormone](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story)
+* [2024-03-18, 14:05:07](https://news.ycombinator.com/item?id=39744727) - [Waking My Computer from Afar](https://bernsteinbear.com/blog/wakeonlan/)
 * [2024-03-18, 14:01:25](https://news.ycombinator.com/item?id=39744669) - [How do neural networks learn?](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
 * [2024-03-18, 13:59:58](https://news.ycombinator.com/item?id=39744649) - [Our bacteria are more personal than we thought, new study shows](https://phys.org/news/2024-03-bacteria-personal-thought.html)
 * [2024-03-18, 13:59:24](https://news.ycombinator.com/item?id=39744641) - [Migration out of Africa may have been driven by first glaciation of Pleistocene](https://phys.org/news/2024-03-migration-hominins-africa-driven-major.html)

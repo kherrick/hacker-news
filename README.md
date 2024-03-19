@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-19, 19:37:45](https://news.ycombinator.com/item?id=39759461) - [Ask HN: What are you building LLM/RAG chatbots with](https://news.ycombinator.com/item?id=39759461)
-* [2024-03-19, 19:30:52](https://news.ycombinator.com/item?id=39759398) - [Supreme Court unanimously rules against government in No Fly List case](https://thehill.com/regulation/court-battles/4541638-supreme-court-no-fly-list-case/)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
 * [2024-03-19, 17:53:18](https://news.ycombinator.com/item?id=39758451) - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
 * [2024-03-19, 17:48:28](https://news.ycombinator.com/item?id=39758391) - [What does Alan Kay think about LLMs?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
@@ -25,11 +23,13 @@
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 * [2024-03-19, 05:08:21](https://news.ycombinator.com/item?id=39753115) - [20 Years of \"Not Even Wrong\"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
 * [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
+* [2024-03-19, 02:56:33](https://news.ycombinator.com/item?id=39752504) - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
 * [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
+* [2024-03-18, 14:05:07](https://news.ycombinator.com/item?id=39744727) - [Waking My Computer from Afar](https://bernsteinbear.com/blog/wakeonlan/)
 
 ## [Archives](archives/index.md)
 
