@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-19, 14:00:05](https://news.ycombinator.com/item?id=39755801) - [Nvidia Waves and Moats](https://stratechery.com/2024/nvidia-waves-and-moats/)
-* [2024-03-19, 13:45:12](https://news.ycombinator.com/item?id=39755668) - [Show HN: Hypersplit – Like Infinite Craft but in Reverse](https://lantto.github.io/hypersplit/)
+* [2024-03-19, 14:19:30](https://news.ycombinator.com/item?id=39755982) - [AI researchers have started reviewing their peers using AI assistance](https://www.theregister.com/2024/03/19/ai_researchers_reviewing_peers/)
 * [2024-03-19, 13:33:11](https://news.ycombinator.com/item?id=39755565) - [The rise and fall of a Halifax man's illegal TV streaming empire](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-man-illegal-streaming-empire-1.7112573)
+* [2024-03-19, 13:25:59](https://news.ycombinator.com/item?id=39755503) - [Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO](https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo)
 * [2024-03-19, 13:10:30](https://news.ycombinator.com/item?id=39755358) - [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
 * [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 * [2024-03-19, 12:39:25](https://news.ycombinator.com/item?id=39755084) - [Show HN: Not sure you're talking to a human? Create a human check](https://r-u-human.com/)
