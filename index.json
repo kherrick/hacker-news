@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-03-19, 20:28:09",
+      "https://news.ycombinator.com/item?id=39759906"
+    ],
+    [
+      "New algorithm unlocks high-resolution insights for computer vision",
+      "https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 20:18:49",
       "https://news.ycombinator.com/item?id=39759831"
     ],
@@ -37,16 +47,6 @@
     [
       "Retina – eBPF distributed networking observability tool for Kubernetes",
       "https://github.com/microsoft/retina"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 19:45:56",
-      "https://news.ycombinator.com/item?id=39759539"
-    ],
-    [
-      "PostgreSQL is eating the database world",
-      "https://pigsty.io/blog/pg/pg-eat-db-world/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "How to Start Google",
       "https://paulgraham.com/google.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 15:02:24",
-      "https://news.ycombinator.com/item?id=39756434"
-    ],
-    [
-      "New Intermediate Certificates",
-      "https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications",
       "https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 01:20:45",
+      "https://news.ycombinator.com/item?id=39752051"
+    ],
+    [
+      "Gaining kernel code execution on an MTE-enabled Pixel 8",
+      "https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/"
     ]
   ],
   [
