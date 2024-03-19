@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 03:35:19](https://news.ycombinator.com/item?id=39752703) - [Intermittent Fasting Linked to Heart Risk in Study Surprise](https://www.bloomberg.com/news/articles/2024-03-18/intermittent-fasting-linked-to-heart-risks-in-research-surprise)
 * [2024-03-19, 02:56:33](https://news.ycombinator.com/item?id=39752504) - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-19, 02:53:20](https://news.ycombinator.com/item?id=39752487) - [Loneliness in Midlife: A Growing Gap Between US and Europe](https://neurosciencenews.com/loneliness-midlife-psychology-25768/)
 * [2024-03-19, 02:49:41](https://news.ycombinator.com/item?id=39752475) - [The Man-Made Miracle of SpaceX](https://www.thefp.com/p/man-made-miracle-spacex-starship)
