@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-19, 18:09:05",
-      "https://news.ycombinator.com/item?id=39758601"
+      "2024-03-19, 18:15:29",
+      "https://news.ycombinator.com/item?id=39758667"
     ],
     [
-      "Internals of the async/await pattern from first principles",
-      "https://github.com/Dobiasd/articles/blob/master/internals_of_the_async_await_pattern_from_first_principles.md"
+      "Intel 8080 emulator. 19th IOCCC. Best of Show",
+      "https://nanochess.org/emulator.html"
     ]
   ],
   [
@@ -51,22 +51,22 @@
   ],
   [
     [
-      "2024-03-19, 16:26:03",
-      "https://news.ycombinator.com/item?id=39757421"
-    ],
-    [
-      "The Steve Jobs Difference",
-      "https://atadistance.net/2024/03/19/the-steve-jobs-difference/"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 16:23:08",
       "https://news.ycombinator.com/item?id=39757368"
     ],
     [
       "The New Inflection",
       "https://inflection.ai/the-new-inflection"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 16:09:35",
+      "https://news.ycombinator.com/item?id=39757207"
+    ],
+    [
+      "Quantum Weirdness in New Metals Bends the Rules of Physics",
+      "https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-03-19, 11:44:20",
-      "https://news.ycombinator.com/item?id=39754770"
-    ],
-    [
-      "Build System Schism: The Curse of Meta Build Systems",
-      "https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 11:22:37",
       "https://news.ycombinator.com/item?id=39754651"
     ],
@@ -197,16 +187,6 @@
     [
       "Inside the Massive Alleged AT&T Data Breach",
       "https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 08:00:14",
-      "https://news.ycombinator.com/item?id=39753770"
-    ],
-    [
-      "Immutability Changes Everything (2016)",
-      "https://queue.acm.org/detail.cfm?id=2884038"
     ]
   ],
   [
@@ -247,6 +227,26 @@
     [
       "Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications",
       "https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 02:56:33",
+      "https://news.ycombinator.com/item?id=39752504"
+    ],
+    [
+      "Garnet – A new remote cache-store from Microsoft Research",
+      "https://github.com/microsoft/garnet"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 01:20:45",
+      "https://news.ycombinator.com/item?id=39752051"
+    ],
+    [
+      "Gaining kernel code execution on an MTE-enabled Pixel 8",
+      "https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/"
     ]
   ],
   [
