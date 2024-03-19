@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
+* [2024-03-19, 16:16:13](https://news.ycombinator.com/item?id=39757280) - [Death in Harlem: James VanDerZee's Funerary Portraits (2014)](https://time.com/3807384/death-in-harlem-james-vanderzees-funerary-portraits/)
 * [2024-03-19, 16:09:35](https://news.ycombinator.com/item?id=39757207) - [Quantum Weirdness in New Metals Bends the Rules of Physics](https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/)
 * [2024-03-19, 15:44:35](https://news.ycombinator.com/item?id=39756956) - [Figma removed `window.figma` on view-only pages today](https://forum.figma.com/t/figma-removed-window-figma-on-view-only-pages-today/67292)
 * [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)
@@ -10,7 +12,6 @@
 * [2024-03-19, 13:22:12](https://news.ycombinator.com/item?id=39755471) - [Java 22 Released](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
 * [2024-03-19, 13:15:38](https://news.ycombinator.com/item?id=39755407) - [Margaret Mead, John von Neumann, and the Prehistory of AI](https://resobscura.substack.com/p/he-spoke-of-computers-with-some-awe)
 * [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
-* [2024-03-19, 12:39:25](https://news.ycombinator.com/item?id=39755084) - [Show HN: Not sure you're talking to a human? Create a human check](https://r-u-human.com/)
 * [2024-03-19, 11:44:20](https://news.ycombinator.com/item?id=39754770) - [Build System Schism: The Curse of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
 * [2024-03-19, 11:22:37](https://news.ycombinator.com/item?id=39754651) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
@@ -22,14 +23,13 @@
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-18, 21:12:11](https://news.ycombinator.com/item?id=39750077) - [Show HN: File-based cache for slow Python functions](https://docs.sweep.dev/blogs/file-cache)
 * [2024-03-18, 21:00:07](https://news.ycombinator.com/item?id=39749950) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 * [2024-03-18, 19:14:09](https://news.ycombinator.com/item?id=39748648) - [LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
 * [2024-03-18, 19:05:14](https://news.ycombinator.com/item?id=39748546) - [Joel Spolsky on Stack Overflow, Inclusion, and How He Broke IT Recruiting (2018)](https://thenewstack.io/joel-spolsky-on-stack-overflow-inclusion-and-how-he-broke-it-recruiting/)
 * [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 14:01:25](https://news.ycombinator.com/item?id=39744669) - [How do neural networks learn?](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
-* [2024-03-18, 13:59:24](https://news.ycombinator.com/item?id=39744641) - [Migration out of Africa may have been driven by first glaciation of Pleistocene](https://phys.org/news/2024-03-migration-hominins-africa-driven-major.html)
-* [2024-03-17, 16:38:32](https://news.ycombinator.com/item?id=39735665) - [How Ultrasound Became Ultra Small](https://spectrum.ieee.org/mems-ultrasound-history)
 
 ## [Archives](archives/index.md)
 

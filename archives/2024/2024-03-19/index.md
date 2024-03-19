@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
+* [2024-03-19, 16:16:13](https://news.ycombinator.com/item?id=39757280) - [Death in Harlem: James VanDerZee's Funerary Portraits (2014)](https://time.com/3807384/death-in-harlem-james-vanderzees-funerary-portraits/)
 * [2024-03-19, 16:09:35](https://news.ycombinator.com/item?id=39757207) - [Quantum Weirdness in New Metals Bends the Rules of Physics](https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/)
 * [2024-03-19, 15:44:35](https://news.ycombinator.com/item?id=39756956) - [Figma removed `window.figma` on view-only pages today](https://forum.figma.com/t/figma-removed-window-figma-on-view-only-pages-today/67292)
 * [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)

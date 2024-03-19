@@ -18,6 +18,7 @@
 * [2024-03-18, 20:59:44](https://news.ycombinator.com/item?id=39749943) - [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
 * [2024-03-18, 20:32:48](https://news.ycombinator.com/item?id=39749647) - [Intermittent fasting linked to a 91% higher risk of cardiovascular death](https://www.eurekalert.org/news-releases/1037544)
 * [2024-03-18, 20:32:46](https://news.ycombinator.com/item?id=39749646) - [Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
+* [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
 * [2024-03-18, 20:19:03](https://news.ycombinator.com/item?id=39749465) - [I Stopped Loving Captain Kirk](https://buttondown.email/charliejane/archive/i-stopped-loving-captain-kirk/)
 * [2024-03-18, 20:13:06](https://news.ycombinator.com/item?id=39749382) - [How does Russia make missiles?](https://www.rhodus.com/)
 * [2024-03-18, 20:06:17](https://news.ycombinator.com/item?id=39749312) - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
