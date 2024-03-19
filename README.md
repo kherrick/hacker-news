@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-19, 13:25:59](https://news.ycombinator.com/item?id=39755503) - [Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO](https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo)
+* [2024-03-19, 13:53:56](https://news.ycombinator.com/item?id=39755758) - [Climate change indicators reached record levels in 2023: WMO](https://wmo.int/media/news/climate-change-indicators-reached-record-levels-2023-wmo)
+* [2024-03-19, 13:45:12](https://news.ycombinator.com/item?id=39755668) - [Show HN: Hypersplit – Like Infinite Craft but in Reverse](https://lantto.github.io/hypersplit/)
 * [2024-03-19, 13:10:30](https://news.ycombinator.com/item?id=39755358) - [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
-* [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford, commander of Apollo 10, dies at 93](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
+* [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 * [2024-03-19, 12:39:25](https://news.ycombinator.com/item?id=39755084) - [Show HN: Not sure you're talking to a human? Create a human check](https://r-u-human.com/)
-* [2024-03-19, 12:10:15](https://news.ycombinator.com/item?id=39754926) - [Try / Ripgrep in Y Minutes](https://codapi.org/try/ripgrep/)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [ESA' Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
 * [2024-03-19, 10:19:34](https://news.ycombinator.com/item?id=39754330) - [Inside the Massive Alleged AT&T Data Breach](https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/)
 * [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
