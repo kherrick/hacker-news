@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 18:09:05](https://news.ycombinator.com/item?id=39758601) - [Internals of the async/await pattern from first principles](https://github.com/Dobiasd/articles/blob/master/internals_of_the_async_await_pattern_from_first_principles.md)
+* [2024-03-19, 17:53:18](https://news.ycombinator.com/item?id=39758451) - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
 * [2024-03-19, 17:48:28](https://news.ycombinator.com/item?id=39758391) - [What does Alan Kay think about LLMs?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
 * [2024-03-19, 17:35:23](https://news.ycombinator.com/item?id=39758262) - [Health experts plead for unvaxxed Americans to get measles shot as cases rise](https://arstechnica.com/science/2024/03/health-experts-plead-for-unvaxxed-americans-to-get-measles-shot-as-cases-rise/)
 * [2024-03-19, 17:01:03](https://news.ycombinator.com/item?id=39757824) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-03-19, 16:47:29](https://news.ycombinator.com/item?id=39757665) - [Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
 * [2024-03-19, 16:43:05](https://news.ycombinator.com/item?id=39757606) - [Northrop Grumman to Develop Concept for Lunar Railroad](https://news.northropgrumman.com/news/releases/northrop-grumman-to-develop-concept-for-lunar-railroad)
 * [2024-03-19, 16:25:30](https://news.ycombinator.com/item?id=39757407) - [MacBook charger teardown: The surprising complexity inside Apple's power adapter](https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html)
 * [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
