@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-19, 17:35:23",
-      "https://news.ycombinator.com/item?id=39758262"
+      "2024-03-19, 17:48:28",
+      "https://news.ycombinator.com/item?id=39758391"
     ],
     [
-      "Health experts plead for unvaxxed Americans to get measles shot as cases rise",
-      "https://arstechnica.com/science/2024/03/health-experts-plead-for-unvaxxed-americans-to-get-measles-shot-as-cases-rise/"
+      "What does Alan Kay think about LLMs?",
+      "https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "How to Start Google",
       "https://paulgraham.com/google.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 15:36:11",
-      "https://news.ycombinator.com/item?id=39756863"
-    ],
-    [
-      "Eerie drone footage reveals first ever look inside Fukushima reactor",
-      "https://www.dailymail.co.uk/news/article-13214131/Inside-Fukushima-Eerie-drone-footage-reveals-look-melted-nuclear-reactor-880-tonnes-radioactive-fuel-inside-13-years-disaster.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Gaining kernel code execution on an MTE-enabled Pixel 8",
       "https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 21:12:11",
+      "https://news.ycombinator.com/item?id=39750077"
+    ],
+    [
+      "Show HN: File-based cache for slow Python functions",
+      "https://docs.sweep.dev/blogs/file-cache"
     ]
   ],
   [
