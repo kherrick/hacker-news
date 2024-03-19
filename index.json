@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-19, 15:02:24",
+      "https://news.ycombinator.com/item?id=39756434"
+    ],
+    [
+      "Let's Encrypt has new intermediate certificates",
+      "https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 14:49:43",
+      "https://news.ycombinator.com/item?id=39756269"
+    ],
+    [
+      "Marc Andreessen Lists Silicon Valley Compound After $250M Malibu Spending Spree",
+      "https://www.wsj.com/real-estate/luxury-homes/billionaire-marc-andreessen-lists-silicon-valley-compound-following-250-million-malibu-spending-spree-bc88dea2"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 14:30:08",
       "https://news.ycombinator.com/item?id=39756093"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2024-03-19, 14:20:23",
-      "https://news.ycombinator.com/item?id=39755994"
+      "2024-03-19, 14:14:24",
+      "https://news.ycombinator.com/item?id=39755927"
     ],
     [
-      "A FreeBSD User Tries NetBSD 10-RC5",
-      "https://www.youtube.com/watch?v=fLmIKENJxe4"
+      "Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX",
+      "https://news.ycombinator.com/item?id=39755927"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO",
       "https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 13:22:12",
+      "https://news.ycombinator.com/item?id=39755471"
+    ],
+    [
+      "Java 22 Released",
+      "https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html"
     ]
   ],
   [
@@ -101,26 +131,6 @@
   ],
   [
     [
-      "2024-03-19, 09:40:00",
-      "https://news.ycombinator.com/item?id=39754130"
-    ],
-    [
-      "The Timeless Parable of Mr. Market",
-      "https://fs.blog/mr-market/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 07:51:27",
-      "https://news.ycombinator.com/item?id=39753740"
-    ],
-    [
-      "Japan ends negative interest rate policy in historic pivot",
-      "https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 07:32:12",
       "https://news.ycombinator.com/item?id=39753650"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2024-03-19, 01:59:32",
+      "https://news.ycombinator.com/item?id=39752259"
+    ],
+    [
+      "Show HN: Watch GitHub get spammed in real time",
+      "https://play.trytrench.com/find?view=9BvB6eSyxNtKrQ93IEjn6"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 01:40:51",
       "https://news.ycombinator.com/item?id=39752168"
     ],
@@ -177,16 +197,6 @@
     [
       "Gaining kernel code execution on an MTE-enabled Pixel 8",
       "https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 22:58:29",
-      "https://news.ycombinator.com/item?id=39751072"
-    ],
-    [
-      "Spent brewer's yeast as a biosorbent for metal recovery from polymetallic waste",
-      "https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Cranelift code generation comes to Rust",
       "https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 09:06:56",
-      "https://news.ycombinator.com/item?id=39741731"
-    ],
-    [
-      "Show HN: Extend Zigbee sensor range with LoRaWAN",
-      "https://github.com/lorabridge"
     ]
   ],
   [
