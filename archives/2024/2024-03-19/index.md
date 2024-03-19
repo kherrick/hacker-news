@@ -31,6 +31,7 @@
 * [2024-03-19, 09:42:09](https://news.ycombinator.com/item?id=39754142) - [China's bonds boom as investors face 'asset famine'](https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/)
 * [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
 * [2024-03-19, 09:19:35](https://news.ycombinator.com/item?id=39754044) - [8hour time-restricted eating linked to a 91% higher risk of cardiovascular death](https://medicalxpress.com/news/2024-03-hour-restricted-linked-higher-cardiovascular.html)
+* [2024-03-19, 09:06:30](https://news.ycombinator.com/item?id=39753985) - [Apt archive mirrors in Git-LFS](https://blog.josefsson.org/2024/03/18/apt-archive-mirrors-in-git-lfs/)
 * [2024-03-19, 08:38:15](https://news.ycombinator.com/item?id=39753890) - [Exceptional code quality is not only a developer's vanity metric](https://arxiv.org/abs/2401.13407)
 * [2024-03-19, 07:51:27](https://news.ycombinator.com/item?id=39753740) - [Japan ends negative interest rate policy in historic pivot](https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)

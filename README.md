@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-19, 15:02:24](https://news.ycombinator.com/item?id=39756434) - [Let's Encrypt has new intermediate certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
-* [2024-03-19, 14:49:43](https://news.ycombinator.com/item?id=39756269) - [Marc Andreessen Lists Silicon Valley Compound After $250M Malibu Spending Spree](https://www.wsj.com/real-estate/luxury-homes/billionaire-marc-andreessen-lists-silicon-valley-compound-following-250-million-malibu-spending-spree-bc88dea2)
-* [2024-03-19, 14:30:08](https://news.ycombinator.com/item?id=39756093) - [Ask HN: How should organize and back up 23 TiB of personal files?](https://news.ycombinator.com/item?id=39756093)
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
 * [2024-03-19, 13:33:11](https://news.ycombinator.com/item?id=39755565) - [The rise and fall of a Halifax man's illegal TV streaming empire](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-man-illegal-streaming-empire-1.7112573)
 * [2024-03-19, 13:25:59](https://news.ycombinator.com/item?id=39755503) - [Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO](https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo)
@@ -13,6 +11,7 @@
 * [2024-03-19, 11:22:37](https://news.ycombinator.com/item?id=39754651) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [ESA' Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
 * [2024-03-19, 10:19:34](https://news.ycombinator.com/item?id=39754330) - [Inside the Massive Alleged AT&T Data Breach](https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/)
+* [2024-03-19, 09:06:30](https://news.ycombinator.com/item?id=39753985) - [Apt archive mirrors in Git-LFS](https://blog.josefsson.org/2024/03/18/apt-archive-mirrors-in-git-lfs/)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 * [2024-03-19, 05:08:21](https://news.ycombinator.com/item?id=39753115) - [20 Years of \"Not Even Wrong\"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
@@ -29,6 +28,7 @@
 * [2024-03-18, 14:01:25](https://news.ycombinator.com/item?id=39744669) - [How do neural networks learn?](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
 * [2024-03-18, 13:59:24](https://news.ycombinator.com/item?id=39744641) - [Migration out of Africa may have been driven by first glaciation of Pleistocene](https://phys.org/news/2024-03-migration-hominins-africa-driven-major.html)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
+* [2024-03-18, 09:06:56](https://news.ycombinator.com/item?id=39741731) - [Show HN: Extend Zigbee sensor range with LoRaWAN](https://github.com/lorabridge)
 * [2024-03-17, 16:38:32](https://news.ycombinator.com/item?id=39735665) - [How Ultrasound Became Ultra Small](https://spectrum.ieee.org/mems-ultrasound-history)
 
 ## [Archives](archives/index.md)
