@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 02:49:41](https://news.ycombinator.com/item?id=39752475) - [The Man-Made Miracle of SpaceX](https://www.thefp.com/p/man-made-miracle-spacex-starship)
 * [2024-03-19, 02:34:13](https://news.ycombinator.com/item?id=39752394) - [The first walkable city in America in a century](https://devon.postach.io/post/part-3-the-first-walkable-city-in-america-in-a-century)
 * [2024-03-19, 02:20:31](https://news.ycombinator.com/item?id=39752343) - [America's economy has escaped a hard landing](https://www.economist.com/briefing/2024/03/14/americas-economy-has-escaped-a-hard-landing)
 * [2024-03-19, 01:40:51](https://news.ycombinator.com/item?id=39752168) - [An exploding star nova is due to show up in our skies soon. Here's how to view](https://www.businessinsider.com/how-to-see-exploding-star-nova-nasa-says-expect-soon-2024-3)
