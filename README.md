@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-19, 02:20:31](https://news.ycombinator.com/item?id=39752343) - [America's economy has escaped a hard landing](https://www.economist.com/briefing/2024/03/14/americas-economy-has-escaped-a-hard-landing)
 * [2024-03-19, 01:20:45](https://news.ycombinator.com/item?id=39752051) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 00:18:52](https://news.ycombinator.com/item?id=39751636) - [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 * [2024-03-19, 00:02:12](https://news.ycombinator.com/item?id=39751533) - [Project GR00T by Nvidia](https://twitter.com/DrJimFan/status/1769860044324319658)
@@ -22,6 +21,7 @@
 * [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-18, 09:06:56](https://news.ycombinator.com/item?id=39741731) - [Show HN: Extend Zigbee sensor range with LoRaWAN](https://github.com/lorabridge)
+* [2024-03-18, 04:59:35](https://news.ycombinator.com/item?id=39740654) - [Step by Step: Thinking through and beyond the repair manual](https://placesjournal.org/article/step-by-step-repair-manuals-political-ecology/)
 * [2024-03-17, 22:45:07](https://news.ycombinator.com/item?id=39738729) - [The many flavors of edible ants](https://www.acs.org/pressroom/presspacs/2024/march/the-many-flavors-of-edible-ants.html)
 * [2024-03-17, 22:16:48](https://news.ycombinator.com/item?id=39738571) - [Inferring the \"Meaning\" of Wing-Tail Flicking Behavior in American Crows](https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1096&context=research_days_posters_2021)
 * [2024-03-17, 18:35:23](https://news.ycombinator.com/item?id=39736775) - [Engima Breaker in Rust](https://github.com/iKevinY/ultra)
