@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-03-19, 15:36:19",
+      "https://news.ycombinator.com/item?id=39756865"
+    ],
+    [
+      "How to Start Google",
+      "https://paulgraham.com/google.html"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 15:02:24",
       "https://news.ycombinator.com/item?id=39756434"
     ],
     [
       "Let's Encrypt has new intermediate certificates",
       "https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 14:48:12",
+      "https://news.ycombinator.com/item?id=39756262"
+    ],
+    [
+      "Understanding Google's File System (2020)",
+      "https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-03-19, 12:22:34",
-      "https://news.ycombinator.com/item?id=39754992"
-    ],
-    [
-      "Dell Says Remote Employees Won't Be Eligible for Promotions: Report",
-      "https://gizmodo.com/dell-remote-employees-eligible-promotions-1851347699"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 11:22:37",
       "https://news.ycombinator.com/item?id=39754651"
     ],
@@ -131,11 +141,21 @@
   ],
   [
     [
+      "2024-03-19, 09:06:30",
+      "https://news.ycombinator.com/item?id=39753985"
+    ],
+    [
+      "Apt archive mirrors in Git-LFS",
+      "https://blog.josefsson.org/2024/03/18/apt-archive-mirrors-in-git-lfs/"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 07:51:27",
       "https://news.ycombinator.com/item?id=39753740"
     ],
     [
-      "Japan ends negative interest rate policy in historic pivot",
+      "Japan brings negative interest rates era to an end with first hike in 17 years",
       "https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html"
     ]
   ],
@@ -177,16 +197,6 @@
     [
       "Garnet – A new remote cache-store from Microsoft Research",
       "https://github.com/microsoft/garnet"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 01:40:51",
-      "https://news.ycombinator.com/item?id=39752168"
-    ],
-    [
-      "A star system 3,000 light-years away is predicted to become visible soon",
-      "https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Migration out of Africa may have been driven by first glaciation of Pleistocene",
       "https://phys.org/news/2024-03-migration-hominins-africa-driven-major.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 11:39:42",
-      "https://news.ycombinator.com/item?id=39742692"
-    ],
-    [
-      "Cranelift code generation comes to Rust",
-      "https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/"
     ]
   ],
   [
