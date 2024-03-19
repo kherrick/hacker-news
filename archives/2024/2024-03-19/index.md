@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 21:58:14](https://news.ycombinator.com/item?id=39760726) - [Hacked – Installed a global KDE Plasma theme – it erased all my drives](https://old.reddit.com/r/openSUSE/comments/1biunsl/hacked_installed_a_global_theme_it_erased_all_my/)
 * [2024-03-19, 21:34:08](https://news.ycombinator.com/item?id=39760482) - [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
 * [2024-03-19, 21:31:42](https://news.ycombinator.com/item?id=39760457) - [The Toxic Effects of Electronic Waste in Accra, Ghana](https://www.bloomberg.com/news/articles/2019-05-29/the-rich-world-s-electronic-waste-dumped-in-ghana)
+* [2024-03-19, 21:31:13](https://news.ycombinator.com/item?id=39760455) - [Hackers exploit Aiohttp bug to find vulnerable networks](https://www.bleepingcomputer.com/news/security/hackers-exploit-aiohttp-bug-to-find-vulnerable-networks/)
 * [2024-03-19, 21:23:55](https://news.ycombinator.com/item?id=39760379) - [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
 * [2024-03-19, 20:34:29](https://news.ycombinator.com/item?id=39759942) - [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
 * [2024-03-19, 20:28:09](https://news.ycombinator.com/item?id=39759906) - [New algorithm unlocks high-resolution insights for computer vision](https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318)
