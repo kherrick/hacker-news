@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-19, 17:35:23",
+      "https://news.ycombinator.com/item?id=39758262"
+    ],
+    [
+      "Health experts plead for unvaxxed Americans to get measles shot as cases rise",
+      "https://arstechnica.com/science/2024/03/health-experts-plead-for-unvaxxed-americans-to-get-measles-shot-as-cases-rise/"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 17:01:03",
       "https://news.ycombinator.com/item?id=39757824"
     ],
@@ -237,16 +247,6 @@
     [
       "Gaining kernel code execution on an MTE-enabled Pixel 8",
       "https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 21:12:11",
-      "https://news.ycombinator.com/item?id=39750077"
-    ],
-    [
-      "Show HN: File-based cache for slow Python functions",
-      "https://docs.sweep.dev/blogs/file-cache"
     ]
   ],
   [
