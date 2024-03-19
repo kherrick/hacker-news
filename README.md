@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-19, 22:07:51](https://news.ycombinator.com/item?id=39760797) - [A new kind of MD5 collision](https://twitter.com/realhashbreaker/status/1770161965006008570)
+* [2024-03-19, 22:56:40](https://news.ycombinator.com/item?id=39761179) - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
 * [2024-03-19, 21:34:08](https://news.ycombinator.com/item?id=39760482) - [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
 * [2024-03-19, 21:31:42](https://news.ycombinator.com/item?id=39760457) - [The Toxic Effects of Electronic Waste in Accra, Ghana](https://www.bloomberg.com/news/articles/2019-05-29/the-rich-world-s-electronic-waste-dumped-in-ghana)
-* [2024-03-19, 21:27:46](https://news.ycombinator.com/item?id=39760423) - [You gotta fight, for your right, to have websites](http://www.circuitbored.com/communicate/viewtopic.php?t=235)
 * [2024-03-19, 21:23:55](https://news.ycombinator.com/item?id=39760379) - [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
 * [2024-03-19, 21:19:38](https://news.ycombinator.com/item?id=39760333) - [Root cause of Alzheimer's may be fat buildup in brain cells, research suggests](https://medicalxpress.com/news/2024-03-root-alzheimer-fat-buildup-brain.html)
 * [2024-03-19, 20:28:09](https://news.ycombinator.com/item?id=39759906) - [New algorithm unlocks high-resolution insights for computer vision](https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318)
@@ -22,6 +21,7 @@
 * [2024-03-19, 13:15:38](https://news.ycombinator.com/item?id=39755407) - [Margaret Mead, John von Neumann, and the Prehistory of AI](https://resobscura.substack.com/p/he-spoke-of-computers-with-some-awe)
 * [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
+* [2024-03-19, 10:19:34](https://news.ycombinator.com/item?id=39754330) - [Inside the Massive Alleged AT&T Data Breach](https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
