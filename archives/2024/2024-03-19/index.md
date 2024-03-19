@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 23:17:52](https://news.ycombinator.com/item?id=39761324) - [Judge demands social media sites prove they didn't help radicalize mass shooter](https://www.theregister.com/2024/03/19/social_media_sites_headed_to/)
 * [2024-03-19, 22:56:40](https://news.ycombinator.com/item?id=39761179) - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
 * [2024-03-19, 22:07:51](https://news.ycombinator.com/item?id=39760797) - [A new kind of MD5 collision](https://twitter.com/realhashbreaker/status/1770161965006008570)
 * [2024-03-19, 21:58:14](https://news.ycombinator.com/item?id=39760726) - [Hacked – Installed a global KDE Plasma theme – it erased all my drives](https://old.reddit.com/r/openSUSE/comments/1biunsl/hacked_installed_a_global_theme_it_erased_all_my/)
@@ -26,6 +27,7 @@
 * [2024-03-19, 19:30:52](https://news.ycombinator.com/item?id=39759398) - [Supreme Court unanimously rules against government in No Fly List case](https://thehill.com/regulation/court-battles/4541638-supreme-court-no-fly-list-case/)
 * [2024-03-19, 19:24:58](https://news.ycombinator.com/item?id=39759338) - [New Node.js Website Design](https://nodejs.org/en)
 * [2024-03-19, 19:23:23](https://news.ycombinator.com/item?id=39759325) - [Show HN: jnv: interactive JSON filter using jq](https://github.com/ynqa/jnv)
+* [2024-03-19, 19:21:55](https://news.ycombinator.com/item?id=39759312) - [Stardew Valley 1.6 Changelog](https://www.stardewvalley.net/stardew-valley-1-6-update-full-changelog/)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
 * [2024-03-19, 18:09:05](https://news.ycombinator.com/item?id=39758601) - [Internals of the async/await pattern from first principles](https://github.com/Dobiasd/articles/blob/master/internals_of_the_async_await_pattern_from_first_principles.md)
 * [2024-03-19, 17:53:18](https://news.ycombinator.com/item?id=39758451) - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
