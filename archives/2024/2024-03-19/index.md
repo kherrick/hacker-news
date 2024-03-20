@@ -71,6 +71,7 @@
 * [2024-03-19, 13:22:12](https://news.ycombinator.com/item?id=39755471) - [Java 22 Released](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
 * [2024-03-19, 13:15:38](https://news.ycombinator.com/item?id=39755407) - [Margaret Mead, John von Neumann, and the Prehistory of AI](https://resobscura.substack.com/p/he-spoke-of-computers-with-some-awe)
 * [2024-03-19, 13:10:30](https://news.ycombinator.com/item?id=39755358) - [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
+* [2024-03-19, 13:04:20](https://news.ycombinator.com/item?id=39755303) - [Show HN: NeetoRecord – an affordable Loom alternative for remote work](https://www.neeto.com/neetorecord)
 * [2024-03-19, 13:00:15](https://news.ycombinator.com/item?id=39755267) - [Astronaut Thomas Stafford, commander of Apollo 10, dies at 93](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 * [2024-03-19, 12:39:25](https://news.ycombinator.com/item?id=39755084) - [Show HN: Not sure you're talking to a human? Create a human check](https://r-u-human.com/)
 * [2024-03-19, 12:38:47](https://news.ycombinator.com/item?id=39755080) - [10% of retirees have $1M+ in savings](https://finance.yahoo.com/news/many-americans-retire-million-dollars-140019814.html)
