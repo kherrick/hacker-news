@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-20, 12:08:14",
-      "https://news.ycombinator.com/item?id=39765341"
+      "2024-03-20, 12:41:51",
+      "https://news.ycombinator.com/item?id=39765626"
     ],
     [
-      "Inserting 100k rows 66 times faster",
-      "https://xnacly.me/posts/2024/faster-inserts/"
+      "PostgreSQL 17 gains built-in collation",
+      "https://www.postgresql.org/message-id/E1rmhxt-004ezT-OB%40gemulon.postgresql.org"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Trusting Content on the KDE Store",
       "https://blog.davidedmundson.co.uk/blog/kde-store-content/"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 11:23:00",
+      "https://news.ycombinator.com/item?id=39765003"
+    ],
+    [
+      "Android malware, Android malware and more Android malware",
+      "https://securelist.com/crimeware-report-android-malware/112121/"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2024-03-20, 06:45:26",
+      "https://news.ycombinator.com/item?id=39763458"
+    ],
+    [
+      "Space Shuttle teleprinter reverse engineering",
+      "https://twitter.com/kenshirriff/status/1770188240777044079"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 05:22:00",
       "https://news.ycombinator.com/item?id=39763074"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-03-20, 01:35:00",
-      "https://news.ycombinator.com/item?id=39762128"
-    ],
-    [
-      "Show HN: Iteratively Building Virtual Creatures in Minecraft",
-      "https://github.com/cfusting/conditional-growth"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 23:32:18",
       "https://news.ycombinator.com/item?id=39761418"
     ],
@@ -227,16 +237,6 @@
     [
       "MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data",
       "https://arxiv.org/abs/2403.11207"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 21:23:55",
-      "https://news.ycombinator.com/item?id=39760379"
-    ],
-    [
-      "The Mechanics of Proof",
-      "https://hrmacbeth.github.io/math2001/index.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-03-19, 14:14:24",
-      "https://news.ycombinator.com/item?id=39755927"
+      "2024-03-19, 13:45:12",
+      "https://news.ycombinator.com/item?id=39755668"
     ],
     [
-      "Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX",
-      "https://news.ycombinator.com/item?id=39755927"
+      "Show HN: Hypersplit – Like Infinite Craft but in reverse",
+      "https://lantto.github.io/hypersplit/"
     ]
   ],
   [
