@@ -11,7 +11,7 @@
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:32:41](https://news.ycombinator.com/item?id=39766222) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
-* [2024-03-20, 13:29:02](https://news.ycombinator.com/item?id=39766170) - [8 Google Employees Invented Modern AI. Here's the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
+* [2024-03-20, 13:29:02](https://news.ycombinator.com/item?id=39766170) - [The Google employees who developed transformers](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
 * [2024-03-20, 12:48:31](https://news.ycombinator.com/item?id=39765692) - [Paris preserves its mixed society by pouring billions into public housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
 * [2024-03-20, 12:42:16](https://news.ycombinator.com/item?id=39765630) - [Lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-20, 12:00:59](https://news.ycombinator.com/item?id=39765287) - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
