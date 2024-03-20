@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-03-20, 16:58:18",
+      "https://news.ycombinator.com/item?id=39769225"
+    ],
+    [
+      "Introducing GNOME 46, \"Kathmandu\"",
+      "https://release.gnome.org/46/"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 16:31:14",
       "https://news.ycombinator.com/item?id=39768860"
     ],
@@ -67,16 +77,6 @@
     [
       "Ethereum Foundation removes their canary",
       "https://github.com/ethereum/ethereum-foundation-website/commit/769b30603504b4b5e8f601f8014691a8d1821390"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 15:35:13",
-      "https://news.ycombinator.com/item?id=39768069"
-    ],
-    [
-      "US Gov announces $8.5B preliminary CHIPS investment agreement with Intel",
-      "https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-03-20, 12:51:35",
+      "https://news.ycombinator.com/item?id=39765718"
+    ],
+    [
+      "Intel to Receive $8.5B in Grants to Build Chip Plants",
+      "https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 12:51:12",
       "https://news.ycombinator.com/item?id=39765715"
     ],
@@ -177,6 +187,16 @@
     [
       "Lcl.host: fast, easy HTTPS in your local dev environment",
       "https://anchor.dev/blog/introducing-lcl-host"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 11:20:26",
+      "https://news.ycombinator.com/item?id=39764992"
+    ],
+    [
+      "Indonesia's e-bike shops are building their own batteries",
+      "https://restofworld.org/2024/homemade-ebike-battery-indonesia/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Space Shuttle teleprinter reverse engineering",
       "https://twitter.com/kenshirriff/status/1770188240777044079"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 02:55:25",
-      "https://news.ycombinator.com/item?id=39762495"
-    ],
-    [
-      "Let's create a Tree-sitter grammar",
-      "https://www.jonashietala.se/blog/2024/03/19/lets_create_a_tree-sitter_grammar/"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 02:14:53",
-      "https://news.ycombinator.com/item?id=39762315"
-    ],
-    [
-      "Soul: A SQLite REST and Realtime Server",
-      "https://thevahidal.github.io/soul/"
     ]
   ],
   [
