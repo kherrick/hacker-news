@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-20, 13:33:57",
+      "https://news.ycombinator.com/item?id=39766236"
+    ],
+    [
+      "Focus by Automation",
+      "https://myme.no/posts/2024-03-19-focus-by-automation.html"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 13:29:23",
       "https://news.ycombinator.com/item?id=39766176"
     ],
@@ -41,12 +51,22 @@
   ],
   [
     [
-      "2024-03-20, 12:48:31",
-      "https://news.ycombinator.com/item?id=39765692"
+      "2024-03-20, 12:51:12",
+      "https://news.ycombinator.com/item?id=39765715"
     ],
     [
-      "How Does Paris Stay Paris? By Pouring Billions into Public Housing",
-      "https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html"
+      "Bug Hunting in Btrfs",
+      "https://tavianator.com/2024/btrfs_bug.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 12:42:16",
+      "https://news.ycombinator.com/item?id=39765630"
+    ],
+    [
+      "Lcl.host: fast, easy HTTPS in your local dev environment",
+      "https://anchor.dev/blog/introducing-lcl-host"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Google fined €250M in France for breaching intellectual property deal",
       "https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 11:26:44",
-      "https://news.ycombinator.com/item?id=39765028"
-    ],
-    [
-      "Trusting Content on the KDE Store",
-      "https://blog.davidedmundson.co.uk/blog/kde-store-content/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "HIV in cell culture can be completely eliminated using CRISPR-Cas gene editing [pdf]",
       "https://www.escmid.org/fileadmin/src/media/PDFs/2News_Discussions/Press_activities/2024/HIVCRISPRV4_1_.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 23:09:01",
-      "https://news.ycombinator.com/item?id=39761265"
-    ],
-    [
-      "MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data",
-      "https://arxiv.org/abs/2403.11207"
     ]
   ],
   [
