@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-03-20, 12:41:51",
-      "https://news.ycombinator.com/item?id=39765626"
+      "2024-03-20, 13:07:37",
+      "https://news.ycombinator.com/item?id=39765894"
     ],
     [
-      "PostgreSQL 17 gains built-in collation",
-      "https://www.postgresql.org/message-id/E1rmhxt-004ezT-OB%40gemulon.postgresql.org"
+      "DNA Tests Are Uncovering the True Prevalence of Incest",
+      "https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 12:48:31",
+      "https://news.ycombinator.com/item?id=39765692"
+    ],
+    [
+      "How Does Paris Stay Paris? By Pouring Billions into Public Housing",
+      "https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 12:17:39",
+      "https://news.ycombinator.com/item?id=39765419"
+    ],
+    [
+      "PFAS in blood are ubiquitous and associated with risk of cardiovascular diseases",
+      "https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 12:13:58",
+      "https://news.ycombinator.com/item?id=39765390"
+    ],
+    [
+      "Banning the purchase of sex increases cases of rape: evidence from Sweden",
+      "https://link.springer.com/article/10.1007/s00148-024-00984-2"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39765281"
     ],
     [
-      "People Hate the Idea of Car-Free Cities–Until They Live in One",
+      "People hate the idea of car-free cities until they live in one",
       "https://www.wired.com/story/car-free-cities-opposition/"
     ]
   ],
@@ -51,22 +81,22 @@
   ],
   [
     [
-      "2024-03-20, 11:23:00",
-      "https://news.ycombinator.com/item?id=39765003"
-    ],
-    [
-      "Android malware, Android malware and more Android malware",
-      "https://securelist.com/crimeware-report-android-malware/112121/"
-    ]
-  ],
-  [
-    [
       "2024-03-20, 11:20:26",
       "https://news.ycombinator.com/item?id=39764992"
     ],
     [
       "Indonesia's e-bike shops are building their own batteries",
       "https://restofworld.org/2024/homemade-ebike-battery-indonesia/"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 11:19:39",
+      "https://news.ycombinator.com/item?id=39764988"
+    ],
+    [
+      "Nvidia Unveils Blackwell, Its Next GPU",
+      "https://spectrum.ieee.org/nvidia-blackwell"
     ]
   ],
   [
@@ -147,16 +177,6 @@
     [
       "Regex character \"$\" doesn't mean \"end-of-string\"",
       "https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 06:54:45",
-      "https://news.ycombinator.com/item?id=39763498"
-    ],
-    [
-      "MoBoard,Text-based video editor for animated presentation",
-      "https://moboard.netlify.app/"
     ]
   ],
   [
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2024-03-19, 20:01:24",
-      "https://news.ycombinator.com/item?id=39759693"
-    ],
-    [
-      "Lego price per part over the years",
-      "https://brickinsights.com/statistics/ppp"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 19:23:23",
-      "https://news.ycombinator.com/item?id=39759325"
-    ],
-    [
-      "Show HN: jnv: interactive JSON filter using jq",
-      "https://github.com/ynqa/jnv"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 13:45:12",
       "https://news.ycombinator.com/item?id=39755668"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-03-19, 13:04:20",
-      "https://news.ycombinator.com/item?id=39755303"
-    ],
-    [
-      "Show HN: NeetoRecord – an affordable Loom alternative for remote work",
-      "https://www.neeto.com/neetorecord"
-    ]
-  ],
-  [
-    [
       "2024-03-18, 14:19:37",
       "https://news.ycombinator.com/item?id=39744920"
     ],
     [
       "Frederick Reines – The singing UCI Nobel Laureate who nearly bombed Nevada",
       "https://www.physics.uci.edu/node/14126"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 13:28:23",
+      "https://news.ycombinator.com/item?id=39744178"
+    ],
+    [
+      "Researchers observe how energy of single electron is tuned by surrounding atoms",
+      "https://phys.org/news/2024-03-quantum-energy-electron-tuned-atoms.html"
     ]
   ]
 ]
