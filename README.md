@@ -25,10 +25,10 @@
 * [2024-03-19, 19:23:23](https://news.ycombinator.com/item?id=39759325) - [Show HN: jnv: interactive JSON filter using jq](https://github.com/ynqa/jnv)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
 * [2024-03-19, 16:47:29](https://news.ycombinator.com/item?id=39757665) - [Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
-* [2024-03-19, 14:53:51](https://news.ycombinator.com/item?id=39756325) - [Show HN: Godspeed is a fast, 100% keyboard oriented todo app for Mac](https://godspeedapp.com/)
+* [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
-* [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
+* [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 15:31:06](https://news.ycombinator.com/item?id=39745900) - [The Speediest Creatures on Earth](https://nautil.us/the-speediest-creatures-on-earth-532660/)
 
 ## [Archives](archives/index.md)
