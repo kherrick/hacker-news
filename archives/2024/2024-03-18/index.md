@@ -71,6 +71,7 @@
 * [2024-03-18, 15:09:29](https://news.ycombinator.com/item?id=39745610) - [Sensor Tower acquires market intelligence platform data.ai](https://www.prnewswire.com/in/news-releases/sensor-tower-acquires-market-intelligence-platform-dataai-302090807.html)
 * [2024-03-18, 14:59:44](https://news.ycombinator.com/item?id=39745482) - [Blackwater PMC founder Erik Prince on distributed open-source communication](https://twitter.com/realErikDPrince/status/1769696764423000168)
 * [2024-03-18, 14:58:28](https://news.ycombinator.com/item?id=39745466) - [Harvard has halted its long-planned atmospheric geoengineering experiment](https://www.technologyreview.com/2024/03/18/1089879/harvard-halts-its-long-planned-atmospheric-geoengineering-experiment/)
+* [2024-03-18, 14:51:40](https://news.ycombinator.com/item?id=39745365) - [Encyclopaedia Britannica Seeking $1B Valuation in IPO](https://www.bloomberg.com/news/articles/2024-03-18/encyclopaedia-britannica-seeking-1-billion-valuation-in-ipo)
 * [2024-03-18, 14:44:51](https://news.ycombinator.com/item?id=39745254) - [Show HN: Return To Office Mandates suck](https://returntoofficemandate.com/)
 * [2024-03-18, 14:40:19](https://news.ycombinator.com/item?id=39745207) - [DuckDB in Action](https://www.manning.com/books/duckdb-in-action/)
 * [2024-03-18, 14:39:15](https://news.ycombinator.com/item?id=39745183) - [.well-known/avatar](https://shkspr.mobi/blog/2024/03/well-known-avatar/)

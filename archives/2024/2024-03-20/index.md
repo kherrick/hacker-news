@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 21:37:33](https://news.ycombinator.com/item?id=39772295) - [Neuralink patient controls games by thinking during interview](https://twitter.com/neuralink/status/1770563939413496146)
+* [2024-03-20, 21:01:11](https://news.ycombinator.com/item?id=39771983) - [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
 * [2024-03-20, 20:47:35](https://news.ycombinator.com/item?id=39771822) - [Apple could be in trouble over security warnings, as well as Core Technology Fee](https://9to5mac.com/2024/03/20/core-technology-fee-and-security-warnings/)
 * [2024-03-20, 20:38:21](https://news.ycombinator.com/item?id=39771742) - [Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 * [2024-03-20, 20:23:37](https://news.ycombinator.com/item?id=39771596) - [Texas schools fund pulls $8.5B from BlackRock over ESG investing](https://www.reuters.com/sustainability/sustainable-finance-reporting/texas-schools-fund-pulls-85-billion-blackrock-over-esg-policies-2024-03-19/)
