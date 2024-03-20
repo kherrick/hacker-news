@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-20, 11:16:42",
+      "https://news.ycombinator.com/item?id=39764969"
+    ],
+    [
+      "Honduras Ratchets Up Battle with Crypto-Libertarian Investors",
+      "https://theintercept.com/2024/03/19/honduras-crypto-investors-world-bank-prospera/"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 11:15:10",
       "https://news.ycombinator.com/item?id=39764963"
     ],
@@ -77,6 +87,16 @@
     [
       "European Space Agency to measure Earth at millimeter scale",
       "https://www.theregister.com/2024/03/20/esa_1_millimeter/"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 08:37:37",
+      "https://news.ycombinator.com/item?id=39764014"
+    ],
+    [
+      "Compiling Rust to WASI",
+      "https://benw.is/posts/compiling-rust-to-wasi"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-03-19, 19:54:56",
-      "https://news.ycombinator.com/item?id=39759627"
-    ],
-    [
-      "Retina – eBPF distributed networking observability tool for Kubernetes",
-      "https://github.com/microsoft/retina"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 19:23:23",
       "https://news.ycombinator.com/item?id=39759325"
     ],
@@ -247,16 +257,6 @@
     [
       "Intel 8080 emulator. 19th IOCCC. Best of Show",
       "https://nanochess.org/emulator.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 16:47:29",
-      "https://news.ycombinator.com/item?id=39757665"
-    ],
-    [
-      "Natural language instructions induce generalization in networks of neurons",
-      "https://www.nature.com/articles/s41593-024-01607-5"
     ]
   ],
   [
