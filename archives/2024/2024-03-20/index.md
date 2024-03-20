@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 16:31:14](https://news.ycombinator.com/item?id=39768860) - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-20, 16:00:56](https://news.ycombinator.com/item?id=39768402) - [Key Stable Diffusion Researchers Leave Stability AI as Company Flounders](https://www.forbes.com/sites/iainmartin/2024/03/20/key-stable-diffusion-researchers-leave-stability-ai-as-company-flounders)
 * [2024-03-20, 15:58:22](https://news.ycombinator.com/item?id=39768361) - [Multiple Stability AI researchers are departing, CEO says](https://twitter.com/kenrickcai/status/1770474370278035775)
