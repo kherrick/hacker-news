@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-20, 13:07:37](https://news.ycombinator.com/item?id=39765894) - [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/)
+* [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
 * [2024-03-20, 12:48:31](https://news.ycombinator.com/item?id=39765692) - [How Does Paris Stay Paris? By Pouring Billions into Public Housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
 * [2024-03-20, 12:17:39](https://news.ycombinator.com/item?id=39765419) - [PFAS in blood are ubiquitous and associated with risk of cardiovascular diseases](https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html)
-* [2024-03-20, 12:13:58](https://news.ycombinator.com/item?id=39765390) - [Banning the purchase of sex increases cases of rape: evidence from Sweden](https://link.springer.com/article/10.1007/s00148-024-00984-2)
 * [2024-03-20, 12:00:59](https://news.ycombinator.com/item?id=39765287) - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
 * [2024-03-20, 12:00:28](https://news.ycombinator.com/item?id=39765281) - [People hate the idea of car-free cities until they live in one](https://www.wired.com/story/car-free-cities-opposition/)
 * [2024-03-20, 11:49:17](https://news.ycombinator.com/item?id=39765179) - [Google fined €250M in France for breaching intellectual property deal](https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules)

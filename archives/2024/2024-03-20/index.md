@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
 * [2024-03-20, 13:07:37](https://news.ycombinator.com/item?id=39765894) - [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/)
+* [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
 * [2024-03-20, 12:48:31](https://news.ycombinator.com/item?id=39765692) - [How Does Paris Stay Paris? By Pouring Billions into Public Housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
 * [2024-03-20, 12:41:51](https://news.ycombinator.com/item?id=39765626) - [PostgreSQL 17 gains built-in collation](https://www.postgresql.org/message-id/E1rmhxt-004ezT-OB%40gemulon.postgresql.org)
 * [2024-03-20, 12:17:39](https://news.ycombinator.com/item?id=39765419) - [PFAS in blood are ubiquitous and associated with risk of cardiovascular diseases](https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html)
