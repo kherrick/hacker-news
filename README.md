@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-20, 20:23:37](https://news.ycombinator.com/item?id=39771596) - [Texas schools fund pulls $8.5B from BlackRock over ESG investing](https://www.reuters.com/sustainability/sustainable-finance-reporting/texas-schools-fund-pulls-85-billion-blackrock-over-esg-policies-2024-03-19/)
 * [2024-03-20, 19:23:11](https://news.ycombinator.com/item?id=39770908) - [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
 * [2024-03-20, 19:07:03](https://news.ycombinator.com/item?id=39770712) - [Claim: Private GitHub repos included in AI dataset](https://post.lurk.org/@emenel/112111014479288871)
 * [2024-03-20, 18:24:31](https://news.ycombinator.com/item?id=39770249) - [5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer](https://www.qamcom.com/look-into-qamcoms-research-on-5g/)
@@ -27,7 +28,6 @@
 * [2024-03-20, 09:18:06](https://news.ycombinator.com/item?id=39764287) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 * [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 * [2024-03-20, 06:45:26](https://news.ycombinator.com/item?id=39763458) - [Space Shuttle teleprinter reverse engineering](https://twitter.com/kenshirriff/status/1770188240777044079)
-* [2024-03-18, 21:39:17](https://news.ycombinator.com/item?id=39750372) - [We've Been Treating Concussions All Wrong](https://slate.com/technology/2024/03/concussion-symptoms-signs-treatment-advice.html)
 * [2024-03-17, 12:41:48](https://news.ycombinator.com/item?id=39734094) - [Eclipse Tracks](https://eclipsetracks.org/)
 * [2024-03-17, 10:41:54](https://news.ycombinator.com/item?id=39733408) - [Got my ultimate retro KVM setup working](https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/)
 
