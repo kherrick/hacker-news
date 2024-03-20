@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-20, 14:28:06](https://news.ycombinator.com/item?id=39767083) - ['Britain's Pompeii' reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
+* [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
+* [2024-03-20, 14:08:31](https://news.ycombinator.com/item?id=39766776) - [How OpenAI's Sora Model Works](https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:29:02](https://news.ycombinator.com/item?id=39766170) - [8 Google Employees Invented Modern AI. Here's the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
 * [2024-03-20, 13:26:13](https://news.ycombinator.com/item?id=39766138) - [First beta of Nintendo Switch emulator Suyu goes live](https://overkill.wtf/nintendo-switch-emulator-suyu-beta/)
@@ -18,7 +20,6 @@
 * [2024-03-20, 11:02:44](https://news.ycombinator.com/item?id=39764887) - [RStudio: Integrated development environment (IDE) for R](https://github.com/rstudio/rstudio)
 * [2024-03-20, 10:54:08](https://news.ycombinator.com/item?id=39764839) - [Show HN: Nebula – A network agnostic DHT crawler](https://github.com/dennis-tra/nebula)
 * [2024-03-20, 10:50:51](https://news.ycombinator.com/item?id=39764818) - [Show HN JetMove – Extra Nav and Multiple Caret Enhancements for Jetbrians IDEs](https://gist.github.com/lurebat/df773fecbc6829625d996fc8a65d5e25)
-* [2024-03-20, 10:40:15](https://news.ycombinator.com/item?id=39764768) - [European Space Agency to measure Earth at millimeter scale](https://www.theregister.com/2024/03/20/esa_1_millimeter/)
 * [2024-03-20, 09:18:06](https://news.ycombinator.com/item?id=39764287) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 * [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 * [2024-03-20, 06:45:26](https://news.ycombinator.com/item?id=39763458) - [Space Shuttle teleprinter reverse engineering](https://twitter.com/kenshirriff/status/1770188240777044079)
@@ -27,7 +28,6 @@
 * [2024-03-20, 02:14:53](https://news.ycombinator.com/item?id=39762315) - [Soul: A SQLite REST and Realtime Server](https://thevahidal.github.io/soul/)
 * [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
 * [2024-03-19, 23:32:18](https://news.ycombinator.com/item?id=39761418) - [Researchers used NYC buildings to measure the 1925 solar eclipse](https://www.6sqft.com/how-researchers-used-nyc-buildings-to-measure-the-1925-solar-eclipse/)
-* [2024-03-19, 23:12:27](https://news.ycombinator.com/item?id=39761283) - [HIV in cell culture can be completely eliminated using CRISPR-Cas gene editing [pdf]](https://www.escmid.org/fileadmin/src/media/PDFs/2News_Discussions/Press_activities/2024/HIVCRISPRV4_1_.pdf)
 * [2024-03-19, 13:45:12](https://news.ycombinator.com/item?id=39755668) - [Show HN: Hypersplit – Like Infinite Craft but in reverse](https://lantto.github.io/hypersplit/)
 * [2024-03-18, 13:28:23](https://news.ycombinator.com/item?id=39744178) - [Researchers observe how energy of single electron is tuned by surrounding atoms](https://phys.org/news/2024-03-quantum-energy-electron-tuned-atoms.html)
 
