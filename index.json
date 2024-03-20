@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-20, 07:50:09",
+      "https://news.ycombinator.com/item?id=39763750"
+    ],
+    [
+      "Regex character \"$\" doesn't mean \"end-of-string\"",
+      "https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 07:16:10",
       "https://news.ycombinator.com/item?id=39763595"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2024-03-20, 05:22:00",
+      "https://news.ycombinator.com/item?id=39763074"
+    ],
+    [
+      "Build systems a la carte: theory and practice (2020)",
+      "https://simon.peytonjones.org/build-systems-a-la-carte-theory-and-practice/"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 04:35:24",
       "https://news.ycombinator.com/item?id=39762890"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39762588"
     ],
     [
-      "Study Puts Fermented Foods, Not Fire, as Pivotal Moment in Human Brain Growth",
+      "Study puts fermented foods, not fire, as pivotal moment in human brain growth",
       "https://plantbasednews.org/news/science/fermented-foods-human-brain-growth/"
     ]
   ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-03-19, 15:36:19",
-      "https://news.ycombinator.com/item?id=39756865"
-    ],
-    [
-      "How to Start Google",
-      "https://paulgraham.com/google.html"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 14:14:24",
       "https://news.ycombinator.com/item?id=39755927"
     ],
@@ -277,16 +287,6 @@
     [
       "Unconventional Uses of FPGAs",
       "https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 16:19:58",
-      "https://news.ycombinator.com/item?id=39746468"
-    ],
-    [
-      "YouTube now requires to label their realistic-looking videos made using AI",
-      "https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/"
     ]
   ],
   [
