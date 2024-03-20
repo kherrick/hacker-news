@@ -15,7 +15,6 @@
 * [2024-03-20, 12:48:31](https://news.ycombinator.com/item?id=39765692) - [Paris preserves its mixed society by pouring billions into public housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
 * [2024-03-20, 12:42:16](https://news.ycombinator.com/item?id=39765630) - [Lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-20, 12:00:59](https://news.ycombinator.com/item?id=39765287) - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
-* [2024-03-20, 11:20:26](https://news.ycombinator.com/item?id=39764992) - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand Wins Abel Prize for Work Wrangling Randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-20, 11:07:36](https://news.ycombinator.com/item?id=39764919) - [Show HN: macOS Reminder Sync for Obsidian Tasks](https://turquoisehexagon.co.uk/remindersync/)
 * [2024-03-20, 11:02:44](https://news.ycombinator.com/item?id=39764887) - [RStudio: Integrated development environment (IDE) for R](https://github.com/rstudio/rstudio)
@@ -29,6 +28,7 @@
 * [2024-03-20, 02:14:53](https://news.ycombinator.com/item?id=39762315) - [Soul: A SQLite REST and Realtime Server](https://thevahidal.github.io/soul/)
 * [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
 * [2024-03-19, 23:32:18](https://news.ycombinator.com/item?id=39761418) - [Researchers used NYC buildings to measure the 1925 solar eclipse](https://www.6sqft.com/how-researchers-used-nyc-buildings-to-measure-the-1925-solar-eclipse/)
+* [2024-03-19, 13:45:12](https://news.ycombinator.com/item?id=39755668) - [Show HN: Hypersplit – Like Infinite Craft but in reverse](https://lantto.github.io/hypersplit/)
 * [2024-03-18, 13:28:23](https://news.ycombinator.com/item?id=39744178) - [Researchers observe how energy of single electron is tuned by surrounding atoms](https://phys.org/news/2024-03-quantum-energy-electron-tuned-atoms.html)
 
 ## [Archives](archives/index.md)
