@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
-* [2024-03-20, 02:02:20](https://news.ycombinator.com/item?id=39762265) - [Mexico refuses to accept any migrants deported by Texas under new state law](https://www.bbc.com/news/world-us-canada-68613083)
 * [2024-03-20, 01:35:00](https://news.ycombinator.com/item?id=39762128) - [Show HN: Iteratively Building Virtual Creatures](https://github.com/cfusting/conditional-growth)
 * [2024-03-20, 01:11:15](https://news.ycombinator.com/item?id=39762006) - [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
 * [2024-03-20, 01:07:53](https://news.ycombinator.com/item?id=39761990) - [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
@@ -28,6 +27,7 @@
 * [2024-03-19, 13:15:38](https://news.ycombinator.com/item?id=39755407) - [Margaret Mead, John von Neumann, and the Prehistory of AI](https://resobscura.substack.com/p/he-spoke-of-computers-with-some-awe)
 * [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
+* [2024-03-18, 20:19:24](https://news.ycombinator.com/item?id=39749475) - [The soul moved the pen, and broke it: Flaubert's emotional style](https://www.commonreader.co.uk/p/the-soul-moved-the-pen-and-broke)
 * [2024-03-18, 14:19:37](https://news.ycombinator.com/item?id=39744920) - [Nobel Laureate nearly bombed Nevada](https://www.physics.uci.edu/node/14126)
 * [2024-03-17, 13:27:35](https://news.ycombinator.com/item?id=39734355) - [IP Geolocation Is Twenty-Five Years Old](https://www.sanjayparekh.com/ip-geolocation-is-25-years-old/)
 
