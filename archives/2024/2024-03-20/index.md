@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 12:41:51](https://news.ycombinator.com/item?id=39765626) - [PostgreSQL 17 gains built-in collation](https://www.postgresql.org/message-id/E1rmhxt-004ezT-OB%40gemulon.postgresql.org)
 * [2024-03-20, 12:08:14](https://news.ycombinator.com/item?id=39765341) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
 * [2024-03-20, 12:00:59](https://news.ycombinator.com/item?id=39765287) - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
 * [2024-03-20, 12:00:28](https://news.ycombinator.com/item?id=39765281) - [People Hate the Idea of Car-Free Cities–Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)
 * [2024-03-20, 11:49:17](https://news.ycombinator.com/item?id=39765179) - [Google fined €250M in France for breaching intellectual property deal](https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules)
 * [2024-03-20, 11:49:15](https://news.ycombinator.com/item?id=39765178) - [Firefox 124 improved on Android and Macs plus adds keyboard navigation of PDFs](https://www.theregister.com/2024/03/19/firefox_124/)
 * [2024-03-20, 11:26:44](https://news.ycombinator.com/item?id=39765028) - [Trusting Content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
+* [2024-03-20, 11:23:00](https://news.ycombinator.com/item?id=39765003) - [Android malware, Android malware and more Android malware](https://securelist.com/crimeware-report-android-malware/112121/)
 * [2024-03-20, 11:20:26](https://news.ycombinator.com/item?id=39764992) - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
 * [2024-03-20, 11:16:42](https://news.ycombinator.com/item?id=39764969) - [Honduras Ratchets Up Battle with Crypto-Libertarian Investors](https://theintercept.com/2024/03/19/honduras-crypto-investors-world-bank-prospera/)
 * [2024-03-20, 11:15:10](https://news.ycombinator.com/item?id=39764963) - [Swept away: $500k sand dune built to protect US homes disappears in days](https://www.theguardian.com/us-news/2024/mar/13/sand-dune-tide-beach-house-massachusetts)
@@ -33,6 +35,7 @@
 * [2024-03-20, 07:00:37](https://news.ycombinator.com/item?id=39763524) - [Ashby (YC W19) Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
 * [2024-03-20, 06:54:45](https://news.ycombinator.com/item?id=39763498) - [MoBoard,Text-based video editor for animated presentation](https://moboard.netlify.app/)
 * [2024-03-20, 06:46:21](https://news.ycombinator.com/item?id=39763461) - [Airline List](https://airlinelist.com/)
+* [2024-03-20, 06:45:26](https://news.ycombinator.com/item?id=39763458) - [Space Shuttle teleprinter reverse engineering](https://twitter.com/kenshirriff/status/1770188240777044079)
 * [2024-03-20, 06:33:53](https://news.ycombinator.com/item?id=39763429) - [Lenovo announced ThinkPads for 'better sustainability and extended repairabilty'](https://news.lenovo.com/pressroom/press-releases/unleashing-innovation-and-better-sustainability-of-lenovos-latest-thinkpad-l-series-and-x-series-laptops/)
 * [2024-03-20, 05:51:45](https://news.ycombinator.com/item?id=39763221) - [They Praised AI at SXSW–and the Audience Started Booing](https://www.honest-broker.com/p/they-praised-ai-at-sxswand-the-audience)
 * [2024-03-20, 05:49:11](https://news.ycombinator.com/item?id=39763209) - [Commercial Bank of Ethiopia glitch lets customers withdraw millions](https://www.bbc.com/news/world-68599027)
