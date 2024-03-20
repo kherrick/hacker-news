@@ -2,6 +2,7 @@
 
 * [2024-03-20, 20:47:35](https://news.ycombinator.com/item?id=39771822) - [Apple could be in trouble over security warnings, as well as Core Technology Fee](https://9to5mac.com/2024/03/20/core-technology-fee-and-security-warnings/)
 * [2024-03-20, 20:38:21](https://news.ycombinator.com/item?id=39771742) - [Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+* [2024-03-20, 20:23:37](https://news.ycombinator.com/item?id=39771596) - [Texas schools fund pulls $8.5B from BlackRock over ESG investing](https://www.reuters.com/sustainability/sustainable-finance-reporting/texas-schools-fund-pulls-85-billion-blackrock-over-esg-policies-2024-03-19/)
 * [2024-03-20, 20:11:02](https://news.ycombinator.com/item?id=39771446) - [The Starship or the Canoe: Where Will Our Future Adaptations Be?](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
 * [2024-03-20, 19:23:11](https://news.ycombinator.com/item?id=39770908) - [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
 * [2024-03-20, 19:07:03](https://news.ycombinator.com/item?id=39770712) - [Claim: Private GitHub repos included in AI dataset](https://post.lurk.org/@emenel/112111014479288871)
@@ -14,7 +15,6 @@
 * [2024-03-20, 16:15:03](https://news.ycombinator.com/item?id=39768604) - [Parrots love playing tablet games. That's helping researchers understand them](https://news.northeastern.edu/2024/03/20/parrots-playing-tablet-games/)
 * [2024-03-20, 16:03:59](https://news.ycombinator.com/item?id=39768438) - [Google Scholar PDF Reader](https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
-* [2024-03-20, 14:56:40](https://news.ycombinator.com/item?id=39767533) - [In wake of powerful cyclone, remarkable recovery of Pacific island's forests](https://phys.org/news/2024-03-powerful-cyclone-remarkable-recovery-pacific.html)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:32:41](https://news.ycombinator.com/item?id=39766222) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
