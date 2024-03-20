@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 14:28:06](https://news.ycombinator.com/item?id=39767083) - ['Britain's Pompeii' reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:29:23](https://news.ycombinator.com/item?id=39766176) - [Farmed salmon leads to loss of nutrients, instead eat 'feed fishes' directly](https://www.lancaster.ac.uk/news/fish-fed-to-farmed-salmon-should-be-part-of-our-diet-too-study-suggests)
 * [2024-03-20, 13:29:02](https://news.ycombinator.com/item?id=39766170) - [8 Google Employees Invented Modern AI. Here's the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-20, 14:28:06](https://news.ycombinator.com/item?id=39767083) - ['Britain's Pompeii' reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:29:02](https://news.ycombinator.com/item?id=39766170) - [8 Google Employees Invented Modern AI. Here's the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
 * [2024-03-20, 13:26:13](https://news.ycombinator.com/item?id=39766138) - [First beta of Nintendo Switch emulator Suyu goes live](https://overkill.wtf/nintendo-switch-emulator-suyu-beta/)
@@ -7,7 +8,6 @@
 * [2024-03-20, 12:51:12](https://news.ycombinator.com/item?id=39765715) - [Bug Hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 * [2024-03-20, 12:48:31](https://news.ycombinator.com/item?id=39765692) - [Paris preserves its mixed society by pouring billions into public housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
 * [2024-03-20, 12:42:16](https://news.ycombinator.com/item?id=39765630) - [Lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
-* [2024-03-20, 12:17:39](https://news.ycombinator.com/item?id=39765419) - [PFAS in blood are ubiquitous and associated with risk of cardiovascular diseases](https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html)
 * [2024-03-20, 12:00:59](https://news.ycombinator.com/item?id=39765287) - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
 * [2024-03-20, 11:49:17](https://news.ycombinator.com/item?id=39765179) - [Google fined €250M in France for breaching intellectual property deal](https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules)
 * [2024-03-20, 11:46:10](https://news.ycombinator.com/item?id=39765159) - [Design Is an Island – By Kent Beck](https://tidyfirst.substack.com/p/design-is-an-island)
