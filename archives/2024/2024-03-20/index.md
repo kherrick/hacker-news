@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 23:03:06](https://news.ycombinator.com/item?id=39773072) - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
 * [2024-03-20, 22:29:55](https://news.ycombinator.com/item?id=39772784) - [More than 50,000 Americans died by suicide in 2023–more than any year on record](https://www.nbcnews.com/meet-the-press/video/more-than-50-000-americans-died-by-suicide-in-2023-more-than-any-year-on-record-201161285832)
 * [2024-03-20, 22:07:28](https://news.ycombinator.com/item?id=39772573) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 * [2024-03-20, 22:07:23](https://news.ycombinator.com/item?id=39772571) - [Governor signs bills creating EV charging station network across Wisconsin](https://apnews.com/article/wisconsin-electric-vehicles-charging-stations-8f240084670b7b210d162f83b22168d9)
