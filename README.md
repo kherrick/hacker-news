@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-20, 08:50:37](https://news.ycombinator.com/item?id=39764094) - [Stop Doing Business with Russia](https://leave-russia.org/)
 * [2024-03-20, 07:50:24](https://news.ycombinator.com/item?id=39763751) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 * [2024-03-20, 07:00:37](https://news.ycombinator.com/item?id=39763524) - [Ashby (YC W19) Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
@@ -28,6 +27,7 @@
 * [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
+* [2024-03-18, 16:19:58](https://news.ycombinator.com/item?id=39746468) - [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 * [2024-03-18, 15:31:06](https://news.ycombinator.com/item?id=39745900) - [The Speediest Creatures on Earth](https://nautil.us/the-speediest-creatures-on-earth-532660/)
 * [2024-03-18, 14:19:37](https://news.ycombinator.com/item?id=39744920) - [Frederick Reines – The singing UCI Nobel Laureate who nearly bombed Nevada](https://www.physics.uci.edu/node/14126)
 
