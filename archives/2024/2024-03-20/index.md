@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 23:11:33](https://news.ycombinator.com/item?id=39773137) - [America's Rental-Market Mystery](https://www.economist.com/finance-and-economics/2024/03/07/americas-rental-market-mystery)
 * [2024-03-20, 23:03:06](https://news.ycombinator.com/item?id=39773072) - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
 * [2024-03-20, 22:49:40](https://news.ycombinator.com/item?id=39772968) - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 * [2024-03-20, 22:29:55](https://news.ycombinator.com/item?id=39772784) - [More than 50,000 Americans died by suicide in 2023–more than any year on record](https://www.nbcnews.com/meet-the-press/video/more-than-50-000-americans-died-by-suicide-in-2023-more-than-any-year-on-record-201161285832)
