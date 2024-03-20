@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 17:41:21](https://news.ycombinator.com/item?id=39769785) - [The Crime Rings Stealing Everything from Purses to Power Tools](https://www.newyorker.com/magazine/2024/03/25/the-crime-rings-stealing-everything-from-purses-to-power-tools)
 * [2024-03-20, 17:13:07](https://news.ycombinator.com/item?id=39769412) - [Launch HN: CamelQA (YC W24) – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
 * [2024-03-20, 17:01:18](https://news.ycombinator.com/item?id=39769263) - [Fathom AI Notetaker (YC W21) Is Hiring a Senior SRE (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-senior-site-reliability-engineer-remote)
 * [2024-03-20, 16:58:18](https://news.ycombinator.com/item?id=39769225) - [Introducing GNOME 46, \"Kathmandu\"](https://release.gnome.org/46/)
 * [2024-03-20, 16:54:06](https://news.ycombinator.com/item?id=39769166) - [Glassdoor is now adding real names to user profiles without consent](https://www.teamblind.com/post/Glassdoor-is-now-adding-real-names-and-personal-info-to-user-profiles-without-consent-Delete-your-account-ASAP-TGx0k5mo)
 * [2024-03-20, 16:31:14](https://news.ycombinator.com/item?id=39768860) - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
+* [2024-03-20, 16:15:03](https://news.ycombinator.com/item?id=39768604) - [Parrots love playing tablet games. That's helping researchers understand them](https://news.northeastern.edu/2024/03/20/parrots-playing-tablet-games/)
 * [2024-03-20, 16:03:59](https://news.ycombinator.com/item?id=39768438) - [Google Scholar PDF Reader](https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-20, 16:00:56](https://news.ycombinator.com/item?id=39768402) - [Key Stable Diffusion Researchers Leave Stability AI as Company Flounders](https://www.forbes.com/sites/iainmartin/2024/03/20/key-stable-diffusion-researchers-leave-stability-ai-as-company-flounders)
@@ -17,6 +19,7 @@
 * [2024-03-20, 15:35:13](https://news.ycombinator.com/item?id=39768069) - [US Gov announces $8.5B preliminary CHIPS investment agreement with Intel](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support)
 * [2024-03-20, 15:33:20](https://news.ycombinator.com/item?id=39768048) - [United Arab Emirates is using cloud seeding tech to make it rain](https://www.cnbc.com/2024/03/18/united-arab-emirates-is-using-cloud-seeding-tech-to-make-it-rain.html)
 * [2024-03-20, 14:56:40](https://news.ycombinator.com/item?id=39767533) - [In wake of powerful cyclone, remarkable recovery of Pacific island's forests](https://phys.org/news/2024-03-powerful-cyclone-remarkable-recovery-pacific.html)
+* [2024-03-20, 14:49:29](https://news.ycombinator.com/item?id=39767408) - [Rare eleventh-century astrolabe discovery shows Islamic–Jewish sci. exchange](https://phys.org/news/2024-03-rare-eleventh-century-astrolabe-discovery.html)
 * [2024-03-20, 14:47:34](https://news.ycombinator.com/item?id=39767368) - [Culture over Policy: The birth rate decline](https://www.writingruxandrabio.com/p/culture-over-policy-the-birth-rate)
 * [2024-03-20, 14:41:04](https://news.ycombinator.com/item?id=39767286) - [ISP's Landmark Piracy Liability Case Doesn't Get a Do-Over in Appeals Court](https://torrentfreak.com/isps-landmark-piracy-liability-case-doesnt-get-a-do-over-in-appeals-court-240320/)
 * [2024-03-20, 14:28:06](https://news.ycombinator.com/item?id=39767083) - ['Britain's Pompeii' reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
