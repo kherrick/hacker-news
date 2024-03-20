@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 14:47:34](https://news.ycombinator.com/item?id=39767368) - [Culture over Policy: The birth rate decline](https://www.writingruxandrabio.com/p/culture-over-policy-the-birth-rate)
 * [2024-03-20, 14:28:06](https://news.ycombinator.com/item?id=39767083) - ['Britain's Pompeii' reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
+* [2024-03-20, 14:08:42](https://news.ycombinator.com/item?id=39766780) - [US Media Is Collapsing](https://jacobin.com/2024/02/us-media-journalism-layoffs-policy)
 * [2024-03-20, 14:08:31](https://news.ycombinator.com/item?id=39766776) - [How OpenAI's Sora Model Works](https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:29:23](https://news.ycombinator.com/item?id=39766176) - [Farmed salmon leads to loss of nutrients, instead eat 'feed fishes' directly](https://www.lancaster.ac.uk/news/fish-fed-to-farmed-salmon-should-be-part-of-our-diet-too-study-suggests)
