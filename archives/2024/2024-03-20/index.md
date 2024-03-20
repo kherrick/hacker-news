@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 13:29:23](https://news.ycombinator.com/item?id=39766176) - [Farmed salmon leads to loss of nutrients, instead eat 'feed fishes' directly](https://www.lancaster.ac.uk/news/fish-fed-to-farmed-salmon-should-be-part-of-our-diet-too-study-suggests)
+* [2024-03-20, 13:29:02](https://news.ycombinator.com/item?id=39766170) - [8 Google Employees Invented Modern AI. Here's the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
+* [2024-03-20, 13:26:13](https://news.ycombinator.com/item?id=39766138) - [First beta of Nintendo Switch emulator Suyu goes live](https://overkill.wtf/nintendo-switch-emulator-suyu-beta/)
 * [2024-03-20, 13:07:37](https://news.ycombinator.com/item?id=39765894) - [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/)
 * [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
 * [2024-03-20, 12:48:31](https://news.ycombinator.com/item?id=39765692) - [How Does Paris Stay Paris? By Pouring Billions into Public Housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
