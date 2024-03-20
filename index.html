@@ -129,23 +129,97 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39770908">
+          <h3>
+            <a class="item" href="https://github.com/getgrit/gritql"
+              >Show HN: GritQL, a Rust CLI for rewriting source code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-20 @ 19:23:11</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39770908"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’m excited to open source GritQL, a Rust CLI for searching and
+                transforming source code.
+              </p>
+              <p>
+                GritQL comes from my experiences with conducting large scale
+                refactors and migrations.
+              </p>
+              <p>
+                Usually, I would start exploring a codebase with grep. This is
+                easy to start with, but most migrations end up accumulating
+                additional requirements like ensuring the right packages are
+                imported and excluding cases which don’t have a viable migration
+                path.
+              </p>
+              <p>
+                Eventually, to build a complex migration, I usually ended up
+                having to write a full codemod program with a tool like
+                jscodeshift. This comes with its own problems:
+              </p>
+              <p>
+                - Most of the exploratory work has to be abandoned as you figure
+                out how to represent your original regex search as an AST. -
+                Reading/writing a codemod requires mentally translating from AST
+                names back to what source code actually looks like. -
+                Performance is often an afterthought, so iterating on a large
+                codemod can be painfully slow. - Codemod frameworks are
+                language-specific, so if you’re hopping between multiple
+                languages—or trying to migrate a shared API—you have to learn
+                different tools.
+              </p>
+              <p>
+                GritQL is an attempt to develop a powerful middle ground: -
+                Exploratory analysis is easy: just put a code snippet in
+                backticks and use $metavariables for placeholders. -
+                Incrementally add complexity by introducing side conditions with
+                where clauses. - Reuse named patterns to avoid rebuilding
+                queries, and use shared patterns from our standard library for
+                common tasks like ensuring modules are imported. - Iterate on
+                large codebases quickly: we use Rust for maximum performance
+              </p>
+              <p>
+                GritQL has already been used on thousands of repositories for
+                complex migrations[1] but we're excited to collaborate more with
+                the open source community.
+              </p>
+              <p>
+                [1] Ex.
+                <a
+                  href="https://github.com/openai/openai-python/discussions/742"
+                  >https://github.com/openai/openai-python/discussions/742</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="39770712">
           <h3>
             <a
               class="item"
               href="https://post.lurk.org/@emenel/112111014479288871"
-              >Private GitHub repos may have been used for an AI dataset</a
+              >Claim: Private GitHub repos included in AI dataset</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-03-20 @ 19:07:03</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39770712"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -163,7 +237,7 @@
             <h4>
               <span>2024-03-20 @ 18:24:31</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39770249"
                   >Comments</a
@@ -184,11 +258,11 @@
             <h4>
               <span>2024-03-20 @ 17:34:58</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39769708"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -203,7 +277,7 @@
             <h4>
               <span>2024-03-20 @ 17:13:07</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39769412"
                   >Comments</a
@@ -303,11 +377,11 @@
             <h4>
               <span>2024-03-20 @ 16:31:14</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768860"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -325,11 +399,11 @@
             <h4>
               <span>2024-03-20 @ 16:15:03</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768604"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -346,11 +420,11 @@
             <h4>
               <span>2024-03-20 @ 16:03:59</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768438"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -367,11 +441,11 @@
             <h4>
               <span>2024-03-20 @ 16:03:21</span
               ><span class="points-container"
-                >Points: <span class="points">409</span></span
+                >Points: <span class="points">421</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768434"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 150</span></span
               >
             </h4>
           </section>
@@ -432,11 +506,11 @@
             <h4>
               <span>2024-03-20 @ 14:49:29</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39767408"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -453,11 +527,11 @@
             <h4>
               <span>2024-03-20 @ 14:16:52</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39766893"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -474,7 +548,7 @@
             <h4>
               <span>2024-03-20 @ 13:33:57</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39766236"
                   >Comments</a
@@ -495,7 +569,7 @@
             <h4>
               <span>2024-03-20 @ 13:32:41</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39766222"
                   >Comments</a
@@ -516,7 +590,7 @@
             <h4>
               <span>2024-03-20 @ 13:29:02</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39766170"
                   >Comments</a
@@ -537,11 +611,11 @@
             <h4>
               <span>2024-03-20 @ 12:51:35</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39765718"
                   >Comments</a
-                ><span class="descendants">: 276</span></span
+                ><span class="descendants">: 280</span></span
               >
             </h4>
           </section>
@@ -560,7 +634,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39765715"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -582,7 +656,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39765692"
                   >Comments</a
-                ><span class="descendants">: 457</span></span
+                ><span class="descendants">: 464</span></span
               >
             </h4>
           </section>
@@ -597,11 +671,11 @@
             <h4>
               <span>2024-03-20 @ 12:42:16</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39765630"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -622,7 +696,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39764992"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -639,7 +713,7 @@
             <h4>
               <span>2024-03-20 @ 11:12:39</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39764954"
                   >Comments</a
@@ -677,7 +751,7 @@
             <h4>
               <span>2024-03-20 @ 09:18:06</span
               ><span class="points-container"
-                >Points: <span class="points">199</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39764287"
                   >Comments</a
@@ -698,7 +772,7 @@
             <h4>
               <span>2024-03-20 @ 07:50:09</span
               ><span class="points-container"
-                >Points: <span class="points">360</span></span
+                >Points: <span class="points">361</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39763750"
                   >Comments</a
@@ -740,33 +814,11 @@
             <h4>
               <span>2024-03-18 @ 21:39:17</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39750372"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39744178">
-          <h3>
-            <a
-              class="item"
-              href="https://phys.org/news/2024-03-quantum-energy-electron-tuned-atoms.html"
-              >Researchers observe how energy of single electron is tuned by
-              surrounding atoms</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-18 @ 13:28:23</span
-              ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39744178"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -779,11 +831,11 @@
             <h4>
               <span>2024-03-17 @ 12:41:48</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39734094"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -800,7 +852,7 @@
             <h4>
               <span>2024-03-17 @ 10:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39733408"
                   >Comments</a
