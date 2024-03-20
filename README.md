@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-20, 03:25:09](https://news.ycombinator.com/item?id=39762611) - [Web bloat means pages are 21MB+, some sites are harder to render than PUBG](https://www.tomshardware.com/tech-industry/modern-web-bloat-means-some-entry-level-phones-cant-run-simple-web-pages-and-load-times-are-high-for-pcs-some-sites-run-worse-than-pubg)
 * [2024-03-20, 01:35:00](https://news.ycombinator.com/item?id=39762128) - [Show HN: Iteratively Building Virtual Creatures in Minecraft](https://github.com/cfusting/conditional-growth)
 * [2024-03-20, 01:11:15](https://news.ycombinator.com/item?id=39762006) - [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
 * [2024-03-20, 01:07:53](https://news.ycombinator.com/item?id=39761990) - [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
@@ -24,7 +25,6 @@
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
 * [2024-03-19, 14:06:25](https://news.ycombinator.com/item?id=39755858) - [Show HN: Causal 2.0 – Modern Financial Planning for Startups](https://causal.app)
 * [2024-03-19, 13:15:38](https://news.ycombinator.com/item?id=39755407) - [Margaret Mead, John von Neumann, and the Prehistory of AI](https://resobscura.substack.com/p/he-spoke-of-computers-with-some-awe)
-* [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 04:27:27](https://news.ycombinator.com/item?id=39752941) - [Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
 * [2024-03-18, 15:31:06](https://news.ycombinator.com/item?id=39745900) - [The Speediest Creatures on Earth](https://nautil.us/the-speediest-creatures-on-earth-532660/)
