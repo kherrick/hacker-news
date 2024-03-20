@@ -29,6 +29,7 @@
 * [2024-03-18, 19:46:48](https://news.ycombinator.com/item?id=39749081) - [Nvidia GTC 2024 Keynote Live](https://www.youtube.com/watch?v=Y2F8yisiS6E&list=TLGGFIbdOwQMZx4xODAzMjAyNA)
 * [2024-03-18, 19:34:30](https://news.ycombinator.com/item?id=39748942) - [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
 * [2024-03-18, 19:29:48](https://news.ycombinator.com/item?id=39748872) - [Waffle House's Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
+* [2024-03-18, 19:21:48](https://news.ycombinator.com/item?id=39748761) - [Hitting the Jackpot: The Birth of the Monte Carlo Method (2023)](https://discover.lanl.gov/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method/)
 * [2024-03-18, 19:19:53](https://news.ycombinator.com/item?id=39748731) - [Collection of System Design Articles](https://github.com/systemdesign42/system-design)
 * [2024-03-18, 19:14:09](https://news.ycombinator.com/item?id=39748648) - [LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
 * [2024-03-18, 19:12:04](https://news.ycombinator.com/item?id=39748624) - [IMF Emails Hacked](https://www.securityweek.com/imf-emails-hacked/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 20:47:35](https://news.ycombinator.com/item?id=39771822) - [Apple could be in trouble over security warnings, as well as Core Technology Fee](https://9to5mac.com/2024/03/20/core-technology-fee-and-security-warnings/)
+* [2024-03-20, 20:38:21](https://news.ycombinator.com/item?id=39771742) - [Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 * [2024-03-20, 20:23:37](https://news.ycombinator.com/item?id=39771596) - [Texas schools fund pulls $8.5B from BlackRock over ESG investing](https://www.reuters.com/sustainability/sustainable-finance-reporting/texas-schools-fund-pulls-85-billion-blackrock-over-esg-policies-2024-03-19/)
 * [2024-03-20, 19:23:11](https://news.ycombinator.com/item?id=39770908) - [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
 * [2024-03-20, 19:07:03](https://news.ycombinator.com/item?id=39770712) - [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)
