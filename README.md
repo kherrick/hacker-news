@@ -2,6 +2,7 @@
 
 * [2024-03-20, 07:00:37](https://news.ycombinator.com/item?id=39763524) - [Ashby (YC W19) Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
 * [2024-03-20, 06:33:53](https://news.ycombinator.com/item?id=39763429) - [Lenovo announced ThinkPads for 'better sustainability and extended repairabilty'](https://news.lenovo.com/pressroom/press-releases/unleashing-innovation-and-better-sustainability-of-lenovos-latest-thinkpad-l-series-and-x-series-laptops/)
+* [2024-03-20, 05:51:45](https://news.ycombinator.com/item?id=39763221) - [They Praised AI at SXSW–and the Audience Started Booing](https://www.honest-broker.com/p/they-praised-ai-at-sxswand-the-audience)
 * [2024-03-20, 05:28:18](https://news.ycombinator.com/item?id=39763104) - [EFF: Tell Congress: We Can't Afford More Bad Patents](https://act.eff.org/action/tell-congress-we-can-t-afford-more-bad-patents)
 * [2024-03-20, 04:35:24](https://news.ycombinator.com/item?id=39762890) - [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
 * [2024-03-20, 04:14:35](https://news.ycombinator.com/item?id=39762807) - [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
@@ -22,7 +23,6 @@
 * [2024-03-19, 19:23:23](https://news.ycombinator.com/item?id=39759325) - [Show HN: jnv: interactive JSON filter using jq](https://github.com/ynqa/jnv)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
 * [2024-03-19, 16:47:29](https://news.ycombinator.com/item?id=39757665) - [Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
-* [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
 * [2024-03-19, 15:36:19](https://news.ycombinator.com/item?id=39756865) - [How to Start Google](https://paulgraham.com/google.html)
 * [2024-03-19, 14:53:51](https://news.ycombinator.com/item?id=39756325) - [Show HN: Godspeed is a fast, 100% keyboard oriented todo app for Mac](https://godspeedapp.com/)
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
