@@ -91,6 +91,7 @@
 * [2024-03-17, 11:14:56](https://news.ycombinator.com/item?id=39733605) - [Google Scholar search: \"certainly, here is\" -chatgpt -llm](https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/)
 * [2024-03-17, 11:08:45](https://news.ycombinator.com/item?id=39733555) - [America's affordable house of the future failed](https://thehustle.co/originals/how-americas-affordable-house-of-the-future-failed)
 * [2024-03-17, 11:02:11](https://news.ycombinator.com/item?id=39733515) - [HashiCorp Exploring Potential Sale](https://www.reuters.com/technology/cloud-software-company-hashicorp-exploring-potential-sale-bloomberg-news-reports-2024-03-15/)
+* [2024-03-17, 10:41:54](https://news.ycombinator.com/item?id=39733408) - [Got my ultimate retro KVM setup working](https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/)
 * [2024-03-17, 10:23:39](https://news.ycombinator.com/item?id=39733310) - [One of the more painful things: many bool fields with byte sized bools](https://twitter.com/mitchellh/status/1769143787862049013)
 * [2024-03-17, 10:15:23](https://news.ycombinator.com/item?id=39733275) - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 * [2024-03-17, 10:11:48](https://news.ycombinator.com/item?id=39733257) - [Heinlein's Fan Mail Solution](https://kk.org/ct2/heinleins-fan-mail-solution/)
