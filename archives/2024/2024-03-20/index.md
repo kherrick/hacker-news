@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 04:35:24](https://news.ycombinator.com/item?id=39762890) - [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
+* [2024-03-20, 04:14:35](https://news.ycombinator.com/item?id=39762807) - [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
 * [2024-03-20, 04:06:55](https://news.ycombinator.com/item?id=39762776) - [Long Covid brain fog may be due to damaged blood vessels in the brain](https://www.sciencenews.org/article/long-covid-brain-fog-blood-brain-barrier-damage)
+* [2024-03-20, 03:43:53](https://news.ycombinator.com/item?id=39762679) - [Hokusai's rare Mt. Fuji collection sold for $3.6M. at N.Y. auction](https://english.kyodonews.net/news/2024/03/593061bd27ea-hokusais-rare-mt-fuji-collection-sold-for-36-mil-at-ny-auction.html)
 * [2024-03-20, 03:25:09](https://news.ycombinator.com/item?id=39762611) - [Web bloat means pages are 21MB+, some sites are harder to render than PUBG](https://www.tomshardware.com/tech-industry/modern-web-bloat-means-some-entry-level-phones-cant-run-simple-web-pages-and-load-times-are-high-for-pcs-some-sites-run-worse-than-pubg)
+* [2024-03-20, 03:20:28](https://news.ycombinator.com/item?id=39762588) - [Study Puts Fermented Foods, Not Fire, as Pivotal Moment in Human Brain Growth](https://plantbasednews.org/news/science/fermented-foods-human-brain-growth/)
+* [2024-03-20, 02:55:25](https://news.ycombinator.com/item?id=39762495) - [Let's create a Tree-sitter grammar](https://www.jonashietala.se/blog/2024/03/19/lets_create_a_tree-sitter_grammar/)
 * [2024-03-20, 02:14:53](https://news.ycombinator.com/item?id=39762315) - [Soul: A SQLite REST and Realtime Server](https://thevahidal.github.io/soul/)
 * [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
 * [2024-03-20, 02:02:20](https://news.ycombinator.com/item?id=39762265) - [Mexico refuses to accept any migrants deported by Texas under new state law](https://www.bbc.com/news/world-us-canada-68613083)
