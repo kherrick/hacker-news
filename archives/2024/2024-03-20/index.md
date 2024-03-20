@@ -9,6 +9,7 @@
 * [2024-03-20, 16:58:18](https://news.ycombinator.com/item?id=39769225) - [Introducing GNOME 46, \"Kathmandu\"](https://release.gnome.org/46/)
 * [2024-03-20, 16:54:06](https://news.ycombinator.com/item?id=39769166) - [Glassdoor is now adding real names to user profiles without consent](https://www.teamblind.com/post/Glassdoor-is-now-adding-real-names-and-personal-info-to-user-profiles-without-consent-Delete-your-account-ASAP-TGx0k5mo)
 * [2024-03-20, 16:31:14](https://news.ycombinator.com/item?id=39768860) - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
+* [2024-03-20, 16:03:59](https://news.ycombinator.com/item?id=39768438) - [Google Scholar PDF Reader](https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-20, 16:00:56](https://news.ycombinator.com/item?id=39768402) - [Key Stable Diffusion Researchers Leave Stability AI as Company Flounders](https://www.forbes.com/sites/iainmartin/2024/03/20/key-stable-diffusion-researchers-leave-stability-ai-as-company-flounders)
 * [2024-03-20, 15:58:22](https://news.ycombinator.com/item?id=39768361) - [Multiple Stability AI researchers are departing, CEO says](https://twitter.com/kenrickcai/status/1770474370278035775)
