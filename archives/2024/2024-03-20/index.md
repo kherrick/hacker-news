@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
 * [2024-03-20, 03:25:09](https://news.ycombinator.com/item?id=39762611) - [Web bloat means pages are 21MB+, some sites are harder to render than PUBG](https://www.tomshardware.com/tech-industry/modern-web-bloat-means-some-entry-level-phones-cant-run-simple-web-pages-and-load-times-are-high-for-pcs-some-sites-run-worse-than-pubg)
+* [2024-03-20, 02:14:53](https://news.ycombinator.com/item?id=39762315) - [Soul: A SQLite REST and Realtime Server](https://thevahidal.github.io/soul/)
 * [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
 * [2024-03-20, 02:02:20](https://news.ycombinator.com/item?id=39762265) - [Mexico refuses to accept any migrants deported by Texas under new state law](https://www.bbc.com/news/world-us-canada-68613083)
 * [2024-03-20, 01:40:43](https://news.ycombinator.com/item?id=39762152) - [Young people becoming less happy than older generations, research shows](https://www.theguardian.com/society/2024/mar/20/young-people-becoming-less-happy-than-older-generations-research-shows)
