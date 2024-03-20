@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 01:40:43](https://news.ycombinator.com/item?id=39762152) - [Young people becoming less happy than older generations, research shows](https://www.theguardian.com/society/2024/mar/20/young-people-becoming-less-happy-than-older-generations-research-shows)
 * [2024-03-20, 01:35:00](https://news.ycombinator.com/item?id=39762128) - [Show HN: Iteratively Building Virtual Creatures](https://github.com/cfusting/conditional-growth)
 * [2024-03-20, 01:11:15](https://news.ycombinator.com/item?id=39762006) - [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
+* [2024-03-20, 01:07:53](https://news.ycombinator.com/item?id=39761990) - [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
 * [2024-03-20, 01:01:15](https://news.ycombinator.com/item?id=39761948) - [HomeRoom (YC W22) Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
 * [2024-03-20, 00:23:16](https://news.ycombinator.com/item?id=39761731) - [Dune Genesis (1980)](https://emmaconcepts.net/dune-genesis/)
 * [2024-03-20, 00:10:06](https://news.ycombinator.com/item?id=39761650) - [Job boards are still rife with 'ghost jobs'. What's the point?](https://www.bbc.com/worklife/article/20240315-ghost-jobs-digital-job-boards)
