@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 * [2024-03-20, 07:16:10](https://news.ycombinator.com/item?id=39763595) - [U.S. No Longer Ranks Among 20 Happiest Countries](https://www.wsj.com/health/wellness/world-happiness-report-americans-top-20-0f59cf98)
 * [2024-03-20, 07:05:44](https://news.ycombinator.com/item?id=39763545) - [Climate Change Speeds Up as Major Indicators Blow Off the Charts, WMO Warns](https://www.bloomberg.com/news/articles/2024-03-19/climate-change-speeds-up-as-major-indicators-blow-off-the-charts-wmo-warns)
 * [2024-03-20, 07:00:37](https://news.ycombinator.com/item?id=39763524) - [Ashby (YC W19) Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
@@ -11,6 +12,7 @@
 * [2024-03-20, 05:51:45](https://news.ycombinator.com/item?id=39763221) - [They Praised AI at SXSW–and the Audience Started Booing](https://www.honest-broker.com/p/they-praised-ai-at-sxswand-the-audience)
 * [2024-03-20, 05:49:11](https://news.ycombinator.com/item?id=39763209) - [Commercial Bank of Ethiopia glitch lets customers withdraw millions](https://www.bbc.com/news/world-68599027)
 * [2024-03-20, 05:28:18](https://news.ycombinator.com/item?id=39763104) - [EFF: Tell Congress: We Can't Afford More Bad Patents](https://act.eff.org/action/tell-congress-we-can-t-afford-more-bad-patents)
+* [2024-03-20, 05:22:00](https://news.ycombinator.com/item?id=39763074) - [Build systems a la carte: theory and practice (2020)](https://simon.peytonjones.org/build-systems-a-la-carte-theory-and-practice/)
 * [2024-03-20, 04:35:24](https://news.ycombinator.com/item?id=39762890) - [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
 * [2024-03-20, 04:14:35](https://news.ycombinator.com/item?id=39762807) - [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
 * [2024-03-20, 04:11:13](https://news.ycombinator.com/item?id=39762790) - [Universities Have a Computer Science Problem](https://www.theatlantic.com/technology/archive/2024/03/computing-college-cs-majors/677792/)
