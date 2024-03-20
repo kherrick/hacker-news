@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-20, 18:25:10](https://news.ycombinator.com/item?id=39770257) - [The AMD tinybox is on hold until we can build and run the firmware on our GPUs](https://twitter.com/__tinygrad__/status/1770151484363354195)
 * [2024-03-20, 17:41:21](https://news.ycombinator.com/item?id=39769785) - [The Crime Rings Stealing Everything from Purses to Power Tools](https://www.newyorker.com/magazine/2024/03/25/the-crime-rings-stealing-everything-from-purses-to-power-tools)
 * [2024-03-20, 17:34:58](https://news.ycombinator.com/item?id=39769708) - [OpenAI's chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
 * [2024-03-20, 17:13:07](https://news.ycombinator.com/item?id=39769412) - [Launch HN: CamelQA (YC W24) – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
@@ -12,7 +13,6 @@
 * [2024-03-20, 15:58:22](https://news.ycombinator.com/item?id=39768361) - [Multiple Stability AI researchers are departing, CEO says](https://twitter.com/kenrickcai/status/1770474370278035775)
 * [2024-03-20, 14:56:40](https://news.ycombinator.com/item?id=39767533) - [In wake of powerful cyclone, remarkable recovery of Pacific island's forests](https://phys.org/news/2024-03-powerful-cyclone-remarkable-recovery-pacific.html)
 * [2024-03-20, 14:49:29](https://news.ycombinator.com/item?id=39767408) - [Rare eleventh-century astrolabe discovery shows Islamic–Jewish sci. exchange](https://phys.org/news/2024-03-rare-eleventh-century-astrolabe-discovery.html)
-* [2024-03-20, 14:28:06](https://news.ycombinator.com/item?id=39767083) - ['Britain's Pompeii' reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:32:41](https://news.ycombinator.com/item?id=39766222) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
@@ -28,7 +28,7 @@
 * [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 * [2024-03-20, 06:45:26](https://news.ycombinator.com/item?id=39763458) - [Space Shuttle teleprinter reverse engineering](https://twitter.com/kenshirriff/status/1770188240777044079)
 * [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
-* [2024-03-19, 20:34:56](https://news.ycombinator.com/item?id=39759945) - [Optimizing black hole merger waveform calculations (Bluesky thread)](https://bsky.app/profile/duetosymmetry.com/post/3knzeem5w362r)
+* [2024-03-18, 21:39:17](https://news.ycombinator.com/item?id=39750372) - [We've Been Treating Concussions All Wrong](https://slate.com/technology/2024/03/concussion-symptoms-signs-treatment-advice.html)
 * [2024-03-17, 12:41:48](https://news.ycombinator.com/item?id=39734094) - [Eclipse Tracks](https://eclipsetracks.org/)
 
 ## [Archives](archives/index.md)

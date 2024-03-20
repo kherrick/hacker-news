@@ -12,6 +12,7 @@
 * [2024-03-18, 22:29:46](https://news.ycombinator.com/item?id=39750837) - [Open Source Robotics Alliance: New Funding and Governance Model for ROS / Gazebo](https://osralliance.org/)
 * [2024-03-18, 22:28:49](https://news.ycombinator.com/item?id=39750826) - [Report on the Censorship-Industrial Complex: The Top Organizations to Know](https://www.racket.news/p/report-on-the-censorship-industrial-74b)
 * [2024-03-18, 21:48:55](https://news.ycombinator.com/item?id=39750466) - [The Brewintosh, a 3D Printed Full-Size Macintosh [video]](https://www.youtube.com/watch?v=7N9oz4Ylzm4)
+* [2024-03-18, 21:39:17](https://news.ycombinator.com/item?id=39750372) - [We've Been Treating Concussions All Wrong](https://slate.com/technology/2024/03/concussion-symptoms-signs-treatment-advice.html)
 * [2024-03-18, 21:19:59](https://news.ycombinator.com/item?id=39750162) - [Turning Points: A meeting with Enrico Fermi (2004)](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
 * [2024-03-18, 21:12:11](https://news.ycombinator.com/item?id=39750077) - [Show HN: File-based cache for slow Python functions](https://docs.sweep.dev/blogs/file-cache)
 * [2024-03-18, 21:10:38](https://news.ycombinator.com/item?id=39750061) - [Inversion: Fast, Reliable Structured LLMs](https://rysana.com/inversion)
