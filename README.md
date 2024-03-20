@@ -2,6 +2,7 @@
 
 * [2024-03-20, 19:07:03](https://news.ycombinator.com/item?id=39770712) - [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)
 * [2024-03-20, 18:25:10](https://news.ycombinator.com/item?id=39770257) - [The AMD tinybox is on hold until we can build and run the firmware on our GPUs](https://twitter.com/__tinygrad__/status/1770151484363354195)
+* [2024-03-20, 18:24:31](https://news.ycombinator.com/item?id=39770249) - [5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer](https://www.qamcom.com/look-into-qamcoms-research-on-5g/)
 * [2024-03-20, 17:34:58](https://news.ycombinator.com/item?id=39769708) - [OpenAI's chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
 * [2024-03-20, 17:13:07](https://news.ycombinator.com/item?id=39769412) - [Launch HN: CamelQA (YC W24) – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
 * [2024-03-20, 17:01:18](https://news.ycombinator.com/item?id=39769263) - [Fathom AI Notetaker (YC W21) Is Hiring a Senior SRE (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-senior-site-reliability-engineer-remote)
@@ -26,7 +27,6 @@
 * [2024-03-20, 09:18:06](https://news.ycombinator.com/item?id=39764287) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 * [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 * [2024-03-20, 06:45:26](https://news.ycombinator.com/item?id=39763458) - [Space Shuttle teleprinter reverse engineering](https://twitter.com/kenshirriff/status/1770188240777044079)
-* [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
 * [2024-03-18, 21:39:17](https://news.ycombinator.com/item?id=39750372) - [We've Been Treating Concussions All Wrong](https://slate.com/technology/2024/03/concussion-symptoms-signs-treatment-advice.html)
 * [2024-03-18, 13:28:23](https://news.ycombinator.com/item?id=39744178) - [Researchers observe how energy of single electron is tuned by surrounding atoms](https://phys.org/news/2024-03-quantum-energy-electron-tuned-atoms.html)
 * [2024-03-17, 12:41:48](https://news.ycombinator.com/item?id=39734094) - [Eclipse Tracks](https://eclipsetracks.org/)

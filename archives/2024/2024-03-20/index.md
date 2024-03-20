@@ -6,6 +6,7 @@
 
 * [2024-03-20, 19:07:03](https://news.ycombinator.com/item?id=39770712) - [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)
 * [2024-03-20, 18:25:10](https://news.ycombinator.com/item?id=39770257) - [The AMD tinybox is on hold until we can build and run the firmware on our GPUs](https://twitter.com/__tinygrad__/status/1770151484363354195)
+* [2024-03-20, 18:24:31](https://news.ycombinator.com/item?id=39770249) - [5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer](https://www.qamcom.com/look-into-qamcoms-research-on-5g/)
 * [2024-03-20, 17:41:21](https://news.ycombinator.com/item?id=39769785) - [The Crime Rings Stealing Everything from Purses to Power Tools](https://www.newyorker.com/magazine/2024/03/25/the-crime-rings-stealing-everything-from-purses-to-power-tools)
 * [2024-03-20, 17:34:58](https://news.ycombinator.com/item?id=39769708) - [OpenAI's chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
 * [2024-03-20, 17:13:07](https://news.ycombinator.com/item?id=39769412) - [Launch HN: CamelQA (YC W24) – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
