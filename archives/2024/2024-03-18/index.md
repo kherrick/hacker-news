@@ -62,6 +62,7 @@
 * [2024-03-18, 15:52:02](https://news.ycombinator.com/item?id=39746163) - [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything](https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/)
 * [2024-03-18, 15:36:57](https://news.ycombinator.com/item?id=39745993) - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 15:32:53](https://news.ycombinator.com/item?id=39745923) - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
+* [2024-03-18, 15:31:06](https://news.ycombinator.com/item?id=39745900) - [The Speediest Creatures on Earth](https://nautil.us/the-speediest-creatures-on-earth-532660/)
 * [2024-03-18, 15:24:07](https://news.ycombinator.com/item?id=39745809) - [Gas Trapped in Antarctic Ice Recorded the Mass Death of 56M People](https://www.atlasobscura.com/articles/colonization-antarctica-ice)
 * [2024-03-18, 15:15:58](https://news.ycombinator.com/item?id=39745700) - [Parakeet: A Tiny LLM](https://news.ycombinator.com/item?id=39745700)
 * [2024-03-18, 15:13:52](https://news.ycombinator.com/item?id=39745677) - [Singing Sand](https://en.wikipedia.org/wiki/Singing_sand)
