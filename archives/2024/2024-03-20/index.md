@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 07:16:10](https://news.ycombinator.com/item?id=39763595) - [U.S. No Longer Ranks Among 20 Happiest Countries](https://www.wsj.com/health/wellness/world-happiness-report-americans-top-20-0f59cf98)
 * [2024-03-20, 07:05:44](https://news.ycombinator.com/item?id=39763545) - [Climate Change Speeds Up as Major Indicators Blow Off the Charts, WMO Warns](https://www.bloomberg.com/news/articles/2024-03-19/climate-change-speeds-up-as-major-indicators-blow-off-the-charts-wmo-warns)
 * [2024-03-20, 07:00:37](https://news.ycombinator.com/item?id=39763524) - [Ashby (YC W19) Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
 * [2024-03-20, 06:33:53](https://news.ycombinator.com/item?id=39763429) - [Lenovo announced ThinkPads for 'better sustainability and extended repairabilty'](https://news.lenovo.com/pressroom/press-releases/unleashing-innovation-and-better-sustainability-of-lenovos-latest-thinkpad-l-series-and-x-series-laptops/)
