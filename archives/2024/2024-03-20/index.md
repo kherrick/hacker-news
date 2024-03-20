@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 13:07:37](https://news.ycombinator.com/item?id=39765894) - [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/)
+* [2024-03-20, 12:48:31](https://news.ycombinator.com/item?id=39765692) - [How Does Paris Stay Paris? By Pouring Billions into Public Housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
 * [2024-03-20, 12:41:51](https://news.ycombinator.com/item?id=39765626) - [PostgreSQL 17 gains built-in collation](https://www.postgresql.org/message-id/E1rmhxt-004ezT-OB%40gemulon.postgresql.org)
+* [2024-03-20, 12:17:39](https://news.ycombinator.com/item?id=39765419) - [PFAS in blood are ubiquitous and associated with risk of cardiovascular diseases](https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html)
+* [2024-03-20, 12:13:58](https://news.ycombinator.com/item?id=39765390) - [Banning the purchase of sex increases cases of rape: evidence from Sweden](https://link.springer.com/article/10.1007/s00148-024-00984-2)
 * [2024-03-20, 12:08:14](https://news.ycombinator.com/item?id=39765341) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
 * [2024-03-20, 12:00:59](https://news.ycombinator.com/item?id=39765287) - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
 * [2024-03-20, 12:00:28](https://news.ycombinator.com/item?id=39765281) - [People Hate the Idea of Car-Free Cities–Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)
@@ -13,6 +17,7 @@
 * [2024-03-20, 11:26:44](https://news.ycombinator.com/item?id=39765028) - [Trusting Content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
 * [2024-03-20, 11:23:00](https://news.ycombinator.com/item?id=39765003) - [Android malware, Android malware and more Android malware](https://securelist.com/crimeware-report-android-malware/112121/)
 * [2024-03-20, 11:20:26](https://news.ycombinator.com/item?id=39764992) - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
+* [2024-03-20, 11:19:39](https://news.ycombinator.com/item?id=39764988) - [Nvidia Unveils Blackwell, Its Next GPU](https://spectrum.ieee.org/nvidia-blackwell)
 * [2024-03-20, 11:16:42](https://news.ycombinator.com/item?id=39764969) - [Honduras Ratchets Up Battle with Crypto-Libertarian Investors](https://theintercept.com/2024/03/19/honduras-crypto-investors-world-bank-prospera/)
 * [2024-03-20, 11:15:10](https://news.ycombinator.com/item?id=39764963) - [Swept away: $500k sand dune built to protect US homes disappears in days](https://www.theguardian.com/us-news/2024/mar/13/sand-dune-tide-beach-house-massachusetts)
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand Wins Abel Prize for Work Wrangling Randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
