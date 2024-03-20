@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-20, 14:47:34",
-      "https://news.ycombinator.com/item?id=39767368"
-    ],
-    [
-      "Culture over Policy: The birth rate decline",
-      "https://www.writingruxandrabio.com/p/culture-over-policy-the-birth-rate"
-    ]
-  ],
-  [
-    [
       "2024-03-20, 14:28:06",
       "https://news.ycombinator.com/item?id=39767083"
     ],
@@ -31,22 +21,12 @@
   ],
   [
     [
-      "2024-03-20, 14:08:42",
-      "https://news.ycombinator.com/item?id=39766780"
+      "2024-03-20, 14:07:22",
+      "https://news.ycombinator.com/item?id=39766761"
     ],
     [
-      "US Media Is Collapsing",
-      "https://jacobin.com/2024/02/us-media-journalism-layoffs-policy"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 14:08:31",
-      "https://news.ycombinator.com/item?id=39766776"
-    ],
-    [
-      "How OpenAI's Sora Model Works",
-      "https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works"
+      "Electronic waste has grown to record levels",
+      "https://www.cnn.com/2024/03/20/climate/electronic-waste-recycling-climate-un/index.html"
     ]
   ],
   [
@@ -57,6 +37,16 @@
     [
       "Focus by Automation",
       "https://myme.no/posts/2024-03-19-focus-by-automation.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 13:32:41",
+      "https://news.ycombinator.com/item?id=39766222"
+    ],
+    [
+      "So you think you want to write a deterministic hypervisor?",
+      "https://antithesis.com/blog/deterministic_hypervisor/"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Lcl.host: fast, easy HTTPS in your local dev environment",
       "https://anchor.dev/blog/introducing-lcl-host"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 12:31:54",
+      "https://news.ycombinator.com/item?id=39765519"
+    ],
+    [
+      "Show HN: Zebrapuzzles.com – Daily Logic Puzzles",
+      "https://www.zebrapuzzles.com/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-03-20, 10:40:15",
+      "https://news.ycombinator.com/item?id=39764768"
+    ],
+    [
+      "European Space Agency to measure Earth at millimeter scale",
+      "https://www.theregister.com/2024/03/20/esa_1_millimeter/"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 09:18:06",
       "https://news.ycombinator.com/item?id=39764287"
     ],
@@ -267,16 +277,6 @@
     [
       "Researchers used NYC buildings to measure the 1925 solar eclipse",
       "https://www.6sqft.com/how-researchers-used-nyc-buildings-to-measure-the-1925-solar-eclipse/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 22:51:37",
-      "https://news.ycombinator.com/item?id=39761137"
-    ],
-    [
-      "Why does an extraneous build step make my Zig app 10x faster?",
-      "https://mtlynch.io/zig-extraneous-build/"
     ]
   ],
   [
