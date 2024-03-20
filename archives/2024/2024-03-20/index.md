@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 07:50:24](https://news.ycombinator.com/item?id=39763751) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 * [2024-03-20, 07:16:10](https://news.ycombinator.com/item?id=39763595) - [U.S. No Longer Ranks Among 20 Happiest Countries](https://www.wsj.com/health/wellness/world-happiness-report-americans-top-20-0f59cf98)
 * [2024-03-20, 07:05:44](https://news.ycombinator.com/item?id=39763545) - [Climate Change Speeds Up as Major Indicators Blow Off the Charts, WMO Warns](https://www.bloomberg.com/news/articles/2024-03-19/climate-change-speeds-up-as-major-indicators-blow-off-the-charts-wmo-warns)
