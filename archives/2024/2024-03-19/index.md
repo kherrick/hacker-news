@@ -8,6 +8,7 @@
 * [2024-03-19, 23:33:11](https://news.ycombinator.com/item?id=39761422) - [Pen plotting SVGs at a small scale](https://adamfuhrer.com/small-scale-pen-plotting/)
 * [2024-03-19, 23:29:53](https://news.ycombinator.com/item?id=39761399) - [First 'cyberflasher' convicted under UK's new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
 * [2024-03-19, 23:17:52](https://news.ycombinator.com/item?id=39761324) - [Judge demands social media sites prove they didn't help radicalize mass shooter](https://www.theregister.com/2024/03/19/social_media_sites_headed_to/)
+* [2024-03-19, 23:12:27](https://news.ycombinator.com/item?id=39761283) - [HIV in cell culture can be completely eliminated using CRISPR-Cas gene editing [pdf]](https://www.escmid.org/fileadmin/src/media/PDFs/2News_Discussions/Press_activities/2024/HIVCRISPRV4_1_.pdf)
 * [2024-03-19, 23:09:01](https://news.ycombinator.com/item?id=39761265) - [MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data](https://arxiv.org/abs/2403.11207)
 * [2024-03-19, 22:56:40](https://news.ycombinator.com/item?id=39761179) - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
 * [2024-03-19, 22:07:51](https://news.ycombinator.com/item?id=39760797) - [A new kind of MD5 collision](https://twitter.com/realhashbreaker/status/1770161965006008570)
