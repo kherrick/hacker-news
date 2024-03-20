@@ -6,6 +6,7 @@
 
 * [2024-03-19, 23:33:47](https://news.ycombinator.com/item?id=39761431) - ['A landmark moment': scientists use AI to design antibodies from scratch](https://www.nature.com/articles/d41586-024-00846-7)
 * [2024-03-19, 23:33:11](https://news.ycombinator.com/item?id=39761422) - [Pen plotting SVGs at a small scale](https://adamfuhrer.com/small-scale-pen-plotting/)
+* [2024-03-19, 23:32:18](https://news.ycombinator.com/item?id=39761418) - [Researchers used NYC buildings to measure the 1925 solar eclipse](https://www.6sqft.com/how-researchers-used-nyc-buildings-to-measure-the-1925-solar-eclipse/)
 * [2024-03-19, 23:29:53](https://news.ycombinator.com/item?id=39761399) - [First 'cyberflasher' convicted under UK's new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
 * [2024-03-19, 23:17:52](https://news.ycombinator.com/item?id=39761324) - [Judge demands social media sites prove they didn't help radicalize mass shooter](https://www.theregister.com/2024/03/19/social_media_sites_headed_to/)
 * [2024-03-19, 23:12:27](https://news.ycombinator.com/item?id=39761283) - [HIV in cell culture can be completely eliminated using CRISPR-Cas gene editing [pdf]](https://www.escmid.org/fileadmin/src/media/PDFs/2News_Discussions/Press_activities/2024/HIVCRISPRV4_1_.pdf)

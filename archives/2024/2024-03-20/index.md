@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 12:08:14](https://news.ycombinator.com/item?id=39765341) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
+* [2024-03-20, 12:00:59](https://news.ycombinator.com/item?id=39765287) - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
+* [2024-03-20, 12:00:28](https://news.ycombinator.com/item?id=39765281) - [People Hate the Idea of Car-Free Cities–Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)
 * [2024-03-20, 11:49:17](https://news.ycombinator.com/item?id=39765179) - [Google fined €250M in France for breaching intellectual property deal](https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules)
 * [2024-03-20, 11:49:15](https://news.ycombinator.com/item?id=39765178) - [Firefox 124 improved on Android and Macs plus adds keyboard navigation of PDFs](https://www.theregister.com/2024/03/19/firefox_124/)
 * [2024-03-20, 11:26:44](https://news.ycombinator.com/item?id=39765028) - [Trusting Content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
@@ -13,6 +16,7 @@
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand Wins Abel Prize for Work Wrangling Randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-20, 11:07:36](https://news.ycombinator.com/item?id=39764919) - [Show HN: macOS Reminder Sync for Obsidian Tasks](https://turquoisehexagon.co.uk/remindersync/)
 * [2024-03-20, 11:00:16](https://news.ycombinator.com/item?id=39764874) - [Ask HN: What's behind all the UK IT failures this month?](https://news.ycombinator.com/item?id=39764874)
+* [2024-03-20, 10:54:08](https://news.ycombinator.com/item?id=39764839) - [Show HN: Nebula – A network agnostic DHT crawler](https://github.com/dennis-tra/nebula)
 * [2024-03-20, 10:52:58](https://news.ycombinator.com/item?id=39764835) - [An AI video tool to help language learners learn multiple languages efficiently](https://talkhub.framer.ai/)
 * [2024-03-20, 10:52:28](https://news.ycombinator.com/item?id=39764830) - [macOS Sonoma 14.4 Bug 'Destroys Saved Versions in iCloud Drive'](https://www.macrumors.com/2024/03/19/sonoma-bug-destroys-saved-versions-icloud-drive/)
 * [2024-03-20, 10:51:21](https://news.ycombinator.com/item?id=39764821) - [Intel prepares for $100B spending spree across four US states](https://www.reuters.com/technology/intel-prepares-100-bln-spending-spree-across-four-us-states-2024-03-20/)
@@ -27,6 +31,7 @@
 * [2024-03-20, 07:16:10](https://news.ycombinator.com/item?id=39763595) - [U.S. No Longer Ranks Among 20 Happiest Countries](https://www.wsj.com/health/wellness/world-happiness-report-americans-top-20-0f59cf98)
 * [2024-03-20, 07:05:44](https://news.ycombinator.com/item?id=39763545) - [Climate Change Speeds Up as Major Indicators Blow Off the Charts, WMO Warns](https://www.bloomberg.com/news/articles/2024-03-19/climate-change-speeds-up-as-major-indicators-blow-off-the-charts-wmo-warns)
 * [2024-03-20, 07:00:37](https://news.ycombinator.com/item?id=39763524) - [Ashby (YC W19) Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
+* [2024-03-20, 06:54:45](https://news.ycombinator.com/item?id=39763498) - [MoBoard,Text-based video editor for animated presentation](https://moboard.netlify.app/)
 * [2024-03-20, 06:46:21](https://news.ycombinator.com/item?id=39763461) - [Airline List](https://airlinelist.com/)
 * [2024-03-20, 06:33:53](https://news.ycombinator.com/item?id=39763429) - [Lenovo announced ThinkPads for 'better sustainability and extended repairabilty'](https://news.lenovo.com/pressroom/press-releases/unleashing-innovation-and-better-sustainability-of-lenovos-latest-thinkpad-l-series-and-x-series-laptops/)
 * [2024-03-20, 05:51:45](https://news.ycombinator.com/item?id=39763221) - [They Praised AI at SXSW–and the Audience Started Booing](https://www.honest-broker.com/p/they-praised-ai-at-sxswand-the-audience)
