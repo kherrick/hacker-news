@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-20, 14:41:04](https://news.ycombinator.com/item?id=39767286) - [ISP's Landmark Piracy Liability Case Doesn't Get a Do-Over in Appeals Court](https://torrentfreak.com/isps-landmark-piracy-liability-case-doesnt-get-a-do-over-in-appeals-court-240320/)
 * [2024-03-20, 14:28:06](https://news.ycombinator.com/item?id=39767083) - ['Britain's Pompeii' reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
-* [2024-03-20, 14:07:22](https://news.ycombinator.com/item?id=39766761) - [Electronic waste has grown to record levels](https://www.cnn.com/2024/03/20/climate/electronic-waste-recycling-climate-un/index.html)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:32:41](https://news.ycombinator.com/item?id=39766222) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
 * [2024-03-20, 13:29:02](https://news.ycombinator.com/item?id=39766170) - [8 Google Employees Invented Modern AI. Here's the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)

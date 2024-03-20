@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
 * [2024-03-20, 14:47:34](https://news.ycombinator.com/item?id=39767368) - [Culture over Policy: The birth rate decline](https://www.writingruxandrabio.com/p/culture-over-policy-the-birth-rate)
+* [2024-03-20, 14:41:04](https://news.ycombinator.com/item?id=39767286) - [ISP's Landmark Piracy Liability Case Doesn't Get a Do-Over in Appeals Court](https://torrentfreak.com/isps-landmark-piracy-liability-case-doesnt-get-a-do-over-in-appeals-court-240320/)
 * [2024-03-20, 14:28:06](https://news.ycombinator.com/item?id=39767083) - ['Britain's Pompeii' reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 14:08:42](https://news.ycombinator.com/item?id=39766780) - [US Media Is Collapsing](https://jacobin.com/2024/02/us-media-journalism-layoffs-policy)
