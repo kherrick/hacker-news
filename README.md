@@ -14,7 +14,7 @@
 * [2024-03-20, 16:15:03](https://news.ycombinator.com/item?id=39768604) - [Parrots love playing tablet games. That's helping researchers understand them](https://news.northeastern.edu/2024/03/20/parrots-playing-tablet-games/)
 * [2024-03-20, 16:03:59](https://news.ycombinator.com/item?id=39768438) - [Google Scholar PDF Reader](https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
-* [2024-03-20, 14:49:29](https://news.ycombinator.com/item?id=39767408) - [Rare eleventh-century astrolabe discovery shows Islamic–Jewish sci. exchange](https://phys.org/news/2024-03-rare-eleventh-century-astrolabe-discovery.html)
+* [2024-03-20, 14:56:40](https://news.ycombinator.com/item?id=39767533) - [In wake of powerful cyclone, remarkable recovery of Pacific island's forests](https://phys.org/news/2024-03-powerful-cyclone-remarkable-recovery-pacific.html)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:32:41](https://news.ycombinator.com/item?id=39766222) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
