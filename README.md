@@ -2,6 +2,7 @@
 
 * [2024-03-20, 04:35:24](https://news.ycombinator.com/item?id=39762890) - [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
 * [2024-03-20, 04:14:35](https://news.ycombinator.com/item?id=39762807) - [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
+* [2024-03-20, 04:11:13](https://news.ycombinator.com/item?id=39762790) - [Universities Have a Computer Science Problem](https://www.theatlantic.com/technology/archive/2024/03/computing-college-cs-majors/677792/)
 * [2024-03-20, 04:06:55](https://news.ycombinator.com/item?id=39762776) - [Long Covid brain fog may be due to damaged blood vessels in the brain](https://www.sciencenews.org/article/long-covid-brain-fog-blood-brain-barrier-damage)
 * [2024-03-20, 03:20:28](https://news.ycombinator.com/item?id=39762588) - [Study Puts Fermented Foods, Not Fire, as Pivotal Moment in Human Brain Growth](https://plantbasednews.org/news/science/fermented-foods-human-brain-growth/)
 * [2024-03-20, 02:55:25](https://news.ycombinator.com/item?id=39762495) - [Let's create a Tree-sitter grammar](https://www.jonashietala.se/blog/2024/03/19/lets_create_a_tree-sitter_grammar/)
@@ -9,7 +10,6 @@
 * [2024-03-20, 01:35:00](https://news.ycombinator.com/item?id=39762128) - [Show HN: Iteratively Building Virtual Creatures in Minecraft](https://github.com/cfusting/conditional-growth)
 * [2024-03-20, 01:07:53](https://news.ycombinator.com/item?id=39761990) - [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
 * [2024-03-20, 01:01:15](https://news.ycombinator.com/item?id=39761948) - [HomeRoom (YC W22) Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
-* [2024-03-19, 23:33:47](https://news.ycombinator.com/item?id=39761431) - ['A landmark moment': scientists use AI to design antibodies from scratch](https://www.nature.com/articles/d41586-024-00846-7)
 * [2024-03-19, 23:12:27](https://news.ycombinator.com/item?id=39761283) - [HIV in cell culture can be completely eliminated using CRISPR-Cas gene editing [pdf]](https://www.escmid.org/fileadmin/src/media/PDFs/2News_Discussions/Press_activities/2024/HIVCRISPRV4_1_.pdf)
 * [2024-03-19, 23:09:01](https://news.ycombinator.com/item?id=39761265) - [MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data](https://arxiv.org/abs/2403.11207)
 * [2024-03-19, 22:56:40](https://news.ycombinator.com/item?id=39761179) - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
