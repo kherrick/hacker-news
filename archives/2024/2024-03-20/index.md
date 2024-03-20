@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 11:15:10](https://news.ycombinator.com/item?id=39764963) - [Swept away: $500k sand dune built to protect US homes disappears in days](https://www.theguardian.com/us-news/2024/mar/13/sand-dune-tide-beach-house-massachusetts)
+* [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand Wins Abel Prize for Work Wrangling Randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
+* [2024-03-20, 11:07:36](https://news.ycombinator.com/item?id=39764919) - [Show HN: macOS Reminder Sync for Obsidian Tasks](https://turquoisehexagon.co.uk/remindersync/)
+* [2024-03-20, 10:52:28](https://news.ycombinator.com/item?id=39764830) - [macOS Sonoma 14.4 Bug 'Destroys Saved Versions in iCloud Drive'](https://www.macrumors.com/2024/03/19/sonoma-bug-destroys-saved-versions-icloud-drive/)
+* [2024-03-20, 10:51:21](https://news.ycombinator.com/item?id=39764821) - [Intel prepares for $100B spending spree across four US states](https://www.reuters.com/technology/intel-prepares-100-bln-spending-spree-across-four-us-states-2024-03-20/)
+* [2024-03-20, 10:50:51](https://news.ycombinator.com/item?id=39764818) - [JetMove – Extra Navigation and Multiple Caret Enhancements for Jetbrians IDEs](https://gist.github.com/lurebat/df773fecbc6829625d996fc8a65d5e25)
+* [2024-03-20, 10:40:15](https://news.ycombinator.com/item?id=39764768) - [European Space Agency to measure Earth at millimeter scale](https://www.theregister.com/2024/03/20/esa_1_millimeter/)
 * [2024-03-20, 09:33:40](https://news.ycombinator.com/item?id=39764387) - [Long-term leisure computer use 'linked to increased erectile dysfunction risk'](https://www.independent.co.uk/news/science/uk-biobank-studies-china-university-of-manchester-b2515459.html)
 * [2024-03-20, 08:50:37](https://news.ycombinator.com/item?id=39764094) - [Stop Doing Business with Russia](https://leave-russia.org/)
 * [2024-03-20, 07:50:24](https://news.ycombinator.com/item?id=39763751) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
