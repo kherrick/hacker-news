@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 09:33:40](https://news.ycombinator.com/item?id=39764387) - [Long-term leisure computer use 'linked to increased erectile dysfunction risk'](https://www.independent.co.uk/news/science/uk-biobank-studies-china-university-of-manchester-b2515459.html)
 * [2024-03-20, 08:50:37](https://news.ycombinator.com/item?id=39764094) - [Stop Doing Business with Russia](https://leave-russia.org/)
 * [2024-03-20, 07:50:24](https://news.ycombinator.com/item?id=39763751) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
