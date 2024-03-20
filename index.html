@@ -129,6 +129,89 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39769412">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=39769412"
+              >Launch HN: CamelQA (YC W24) – AI that tests mobile apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-20 @ 17:13:07</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39769412"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://camelqa.com/">https://camelqa.com/</a>). We’re
+              building an AI agent that can automate mobile devices using
+              computer vision. Our first use case is for mobile app QA. We
+              convert natural language test cases into tests that run on real
+              iOS and Android devices in our device farm.
+              <p>
+                Flaky UI tests suck. We want to create a solution where
+                engineers don’t waste time maintaining fragile scripts.
+              </p>
+              <p>
+                camelQA uses a combination of accessibility element data along
+                with an in-house custom vision-only RCNN object detection model
+                paired with Google Siglip for UI element classification (see a
+                sample output here -
+                <a href="https://camelqa.com/blog/sole-ui-element-detector.png"
+                  >https://camelqa.com/blog/sole-ui-element-detector.png</a
+                >). This way we’re able to detect elements even if they do not
+                have accessibility elements associated with them.
+              </p>
+              <p>
+                Under the hood the agent is using Appium to interface with the
+                device. We use GPT-4V to reason at a high level and GPT-3.5 to
+                execute the high-level actions. Check out a gif of our
+                playground here (<a
+                  href="https://camelqa.com/blog/sole-signup.gif"
+                  >https://camelqa.com/blog/sole-signup.gif</a
+                >)
+              </p>
+              <p>
+                Since we’re vision based, we don’t need access to your source
+                code and we work across all app types - SwiftUI and UIKit, React
+                Native, Flutter.
+              </p>
+              <p>
+                We built a demo for HN where you can use our model to control
+                Wikipedia on a simulated iPhone. Check that out here (<a
+                  href="https://demo.camelqa.com/"
+                  >https://demo.camelqa.com/</a
+                >). Try giving it a task like “Bookmark the wiki page for Ilya
+                Sutskever“ or “Find San Francisco in the Places tab”. We only
+                have 5 simulators running so there may be a wait. You get 5
+                minutes once you enter your first command.
+              </p>
+              <p>
+                If you want to see what our front end looks like, we made an
+                account with some test runs. Use this login (Username:
+                hackerNews Password: 1337hackerNews!) to view our sandboxed HN
+                account (<a href="https://dash.camelqa.com/login"
+                  >https://dash.camelqa.com/login</a
+                >).
+              </p>
+              <p>
+                Last year we left our corporate jobs to build in the AI space.
+                It felt like we were endlessly testing our apps, even for minor
+                updates, and we still shipped a bug that caused one of our apps
+                to crash on subscribe (the app in question -
+                <a
+                  href="https://apps.apple.com/us/app/tldr-ai-summarizer/id6449304716"
+                  >https://apps.apple.com/us/app/tldr-ai-summarizer/id644930471...</a
+                >). That was the catalyst for camelQA.
+              </p>
+              <p>We’re excited to hear what you all think!</p>
+            </div>
+          </section>
+        </section>
         <section id="39769263">
           <h3>
             <a
@@ -146,43 +229,21 @@
             </h4>
           </section>
         </section>
-        <section id="39769166">
-          <h3>
-            <a
-              class="item"
-              href="https://www.teamblind.com/post/Glassdoor-is-now-adding-real-names-and-personal-info-to-user-profiles-without-consent-Delete-your-account-ASAP-TGx0k5mo"
-              >Glassdoor is now adding real names to user profiles without
-              consent</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-20 @ 16:54:06</span
-              ><span class="points-container"
-                >Points: <span class="points">67</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39769166"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="39768860">
           <h3>
             <a class="item" href="https://danluu.com/discontinuities/"
-              >Suspicious Discontinuities</a
+              >Suspicious discontinuities (2020)</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-03-20 @ 16:31:14</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768860"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -199,11 +260,11 @@
             <h4>
               <span>2024-03-20 @ 16:03:21</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768434"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -221,11 +282,11 @@
             <h4>
               <span>2024-03-20 @ 16:00:56</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768402"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -242,11 +303,11 @@
             <h4>
               <span>2024-03-20 @ 15:58:22</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768361"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -263,11 +324,11 @@
             <h4>
               <span>2024-03-20 @ 15:55:46</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768336"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -285,11 +346,11 @@
             <h4>
               <span>2024-03-20 @ 15:35:13</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768069"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -307,11 +368,11 @@
             <h4>
               <span>2024-03-20 @ 15:33:20</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768048"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -329,7 +390,7 @@
             <h4>
               <span>2024-03-20 @ 14:56:40</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39767533"
                   >Comments</a
@@ -350,11 +411,11 @@
             <h4>
               <span>2024-03-20 @ 14:28:06</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39767083"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -371,11 +432,11 @@
             <h4>
               <span>2024-03-20 @ 14:16:52</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39766893"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -392,7 +453,7 @@
             <h4>
               <span>2024-03-20 @ 13:33:57</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39766236"
                   >Comments</a
@@ -413,11 +474,11 @@
             <h4>
               <span>2024-03-20 @ 13:32:41</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39766222"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -434,11 +495,30 @@
             <h4>
               <span>2024-03-20 @ 13:29:02</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39766170"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 130</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39765715">
+          <h3>
+            <a class="item" href="https://tavianator.com/2024/btrfs_bug.html"
+              >Bug hunting in Btrfs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-20 @ 12:51:12</span
+              ><span class="points-container"
+                >Points: <span class="points">66</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39765715"
+                  >Comments</a
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -456,11 +536,11 @@
             <h4>
               <span>2024-03-20 @ 12:48:31</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39765692"
                   >Comments</a
-                ><span class="descendants">: 324</span></span
+                ><span class="descendants">: 335</span></span
               >
             </h4>
           </section>
@@ -475,7 +555,7 @@
             <h4>
               <span>2024-03-20 @ 12:42:16</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39765630"
                   >Comments</a
@@ -489,7 +569,7 @@
             <a
               class="item"
               href="https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/"
-              >Michel Talagrand Wins Abel Prize for Work Wrangling Randomness</a
+              >Michel Talagrand wins Abel Prize for work wrangling randomness</a
             >
           </h3>
           <section>
@@ -500,7 +580,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39764954"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -515,7 +595,7 @@
             <h4>
               <span>2024-03-20 @ 11:07:36</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39764919"
                   >Comments</a
@@ -585,11 +665,11 @@
             <h4>
               <span>2024-03-20 @ 11:02:44</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39764887"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -604,7 +684,7 @@
             <h4>
               <span>2024-03-20 @ 10:54:08</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39764839"
                   >Comments</a
@@ -645,11 +725,11 @@
             <h4>
               <span>2024-03-20 @ 09:18:06</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39764287"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -666,11 +746,11 @@
             <h4>
               <span>2024-03-20 @ 07:50:09</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39763750"
                   >Comments</a
-                ><span class="descendants">: 253</span></span
+                ><span class="descendants">: 254</span></span
               >
             </h4>
           </section>
@@ -687,32 +767,11 @@
             <h4>
               <span>2024-03-20 @ 06:45:26</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39763458"
                   >Comments</a
                 ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39763074">
-          <h3>
-            <a
-              class="item"
-              href="https://simon.peytonjones.org/build-systems-a-la-carte-theory-and-practice/"
-              >Build systems a la carte: theory and practice (2020)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-20 @ 05:22:00</span
-              ><span class="points-container"
-                >Points: <span class="points">79</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39763074"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -729,11 +788,11 @@
             <h4>
               <span>2024-03-20 @ 02:55:25</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39762495"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -752,52 +811,30 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39762315"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="39755668">
+        <section id="39762272">
           <h3>
-            <a class="item" href="https://lantto.github.io/hypersplit/"
-              >Show HN: Hypersplit – Like Infinite Craft but in reverse</a
+            <a
+              class="item"
+              href="https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/"
+              >If gravity isn't a force, then why does it "need" a boson?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-03-19 @ 13:45:12</span
+              <span>2024-03-20 @ 02:03:33</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39755668"
+                ><a href="https://news.ycombinator.com/item?id=39762272"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                It's using GPT-4 to split the words, but a big difference from
-                Infinite Craft is that I can precalculate the possible paths
-                since they are limited (sooner or later you hit a quark or a
-                loop). This means that I can ship it with the whole dictionary
-                locally instead of hitting an LLM every split.
-              </p>
-              <p>
-                While it started with just the splitting, I quickly got the urge
-                to split things faster... which turned the app into the
-                incremental clicker it is now. It's pretty short and starts
-                lagging a lot once things get crazy with a lot of chain
-                reactions (turning off Effects helps a bit), but I plan to focus
-                on optimizations next.
-              </p>
-              <p>
-                I also wanted to try and build something without any graphical
-                assets. The whole game is all just emojis and CSS. A big gotcha
-                is that you can't rely on emojis looking the same on different
-                platforms (for example, on Windows, the explosions are
-                misaligned).
-              </p>
-            </div>
           </section>
         </section>
         <section id="39744178">
@@ -813,7 +850,7 @@
             <h4>
               <span>2024-03-18 @ 13:28:23</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39744178"
                   >Comments</a
