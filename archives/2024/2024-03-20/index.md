@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 17:13:07](https://news.ycombinator.com/item?id=39769412) - [Launch HN: CamelQA (YC W24) – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
 * [2024-03-20, 17:01:18](https://news.ycombinator.com/item?id=39769263) - [Fathom AI Notetaker (YC W21) Is Hiring a Senior SRE (Remote)](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-senior-site-reliability-engineer-remote)
 * [2024-03-20, 16:54:06](https://news.ycombinator.com/item?id=39769166) - [Glassdoor is now adding real names to user profiles without consent](https://www.teamblind.com/post/Glassdoor-is-now-adding-real-names-and-personal-info-to-user-profiles-without-consent-Delete-your-account-ASAP-TGx0k5mo)
 * [2024-03-20, 16:31:14](https://news.ycombinator.com/item?id=39768860) - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
