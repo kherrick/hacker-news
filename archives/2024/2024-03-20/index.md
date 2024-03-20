@@ -7,6 +7,7 @@
 * [2024-03-20, 11:15:10](https://news.ycombinator.com/item?id=39764963) - [Swept away: $500k sand dune built to protect US homes disappears in days](https://www.theguardian.com/us-news/2024/mar/13/sand-dune-tide-beach-house-massachusetts)
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand Wins Abel Prize for Work Wrangling Randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-20, 11:07:36](https://news.ycombinator.com/item?id=39764919) - [Show HN: macOS Reminder Sync for Obsidian Tasks](https://turquoisehexagon.co.uk/remindersync/)
+* [2024-03-20, 11:00:16](https://news.ycombinator.com/item?id=39764874) - [Ask HN: What's behind all the UK IT failures this month?](https://news.ycombinator.com/item?id=39764874)
 * [2024-03-20, 10:52:28](https://news.ycombinator.com/item?id=39764830) - [macOS Sonoma 14.4 Bug 'Destroys Saved Versions in iCloud Drive'](https://www.macrumors.com/2024/03/19/sonoma-bug-destroys-saved-versions-icloud-drive/)
 * [2024-03-20, 10:51:21](https://news.ycombinator.com/item?id=39764821) - [Intel prepares for $100B spending spree across four US states](https://www.reuters.com/technology/intel-prepares-100-bln-spending-spree-across-four-us-states-2024-03-20/)
 * [2024-03-20, 10:50:51](https://news.ycombinator.com/item?id=39764818) - [JetMove – Extra Navigation and Multiple Caret Enhancements for Jetbrians IDEs](https://gist.github.com/lurebat/df773fecbc6829625d996fc8a65d5e25)
