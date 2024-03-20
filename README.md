@@ -29,7 +29,7 @@
 * [2024-03-20, 07:50:09](https://news.ycombinator.com/item?id=39763750) - [Regex character \"$\" doesn't mean \"end-of-string\"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 * [2024-03-20, 06:45:26](https://news.ycombinator.com/item?id=39763458) - [Space Shuttle teleprinter reverse engineering](https://twitter.com/kenshirriff/status/1770188240777044079)
 * [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
-* [2024-03-18, 13:28:23](https://news.ycombinator.com/item?id=39744178) - [Researchers observe how energy of single electron is tuned by surrounding atoms](https://phys.org/news/2024-03-quantum-energy-electron-tuned-atoms.html)
+* [2024-03-17, 12:41:48](https://news.ycombinator.com/item?id=39734094) - [Eclipse Tracks](https://eclipsetracks.org/)
 
 ## [Archives](archives/index.md)
 
