@@ -17,7 +17,6 @@
 * [2024-03-20, 01:35:00](https://news.ycombinator.com/item?id=39762128) - [Show HN: Iteratively Building Virtual Creatures in Minecraft](https://github.com/cfusting/conditional-growth)
 * [2024-03-19, 23:12:27](https://news.ycombinator.com/item?id=39761283) - [HIV in cell culture can be completely eliminated using CRISPR-Cas gene editing [pdf]](https://www.escmid.org/fileadmin/src/media/PDFs/2News_Discussions/Press_activities/2024/HIVCRISPRV4_1_.pdf)
 * [2024-03-19, 23:09:01](https://news.ycombinator.com/item?id=39761265) - [MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data](https://arxiv.org/abs/2403.11207)
-* [2024-03-19, 22:56:40](https://news.ycombinator.com/item?id=39761179) - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
 * [2024-03-19, 21:35:08](https://news.ycombinator.com/item?id=39760496) - [Generic and Automated Drive-By GPU Cache Attacks from the Browser [pdf]](https://ginerlukas.com/publications/papers/WebGPUAttacks.pdf)
 * [2024-03-19, 21:23:55](https://news.ycombinator.com/item?id=39760379) - [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
 * [2024-03-19, 21:19:38](https://news.ycombinator.com/item?id=39760333) - [Root cause of Alzheimer's may be fat buildup in brain cells, research suggests](https://medicalxpress.com/news/2024-03-root-alzheimer-fat-buildup-brain.html)
@@ -30,6 +29,7 @@
 * [2024-03-19, 14:14:24](https://news.ycombinator.com/item?id=39755927) - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
 * [2024-03-18, 23:59:45](https://news.ycombinator.com/item?id=39751509) - [Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
 * [2024-03-18, 15:31:06](https://news.ycombinator.com/item?id=39745900) - [The Speediest Creatures on Earth](https://nautil.us/the-speediest-creatures-on-earth-532660/)
+* [2024-03-18, 14:19:37](https://news.ycombinator.com/item?id=39744920) - [Frederick Reines – A singing UCI Nobel Laureate who nearly bombed Nevada](https://www.physics.uci.edu/node/14126)
 
 ## [Archives](archives/index.md)
 
