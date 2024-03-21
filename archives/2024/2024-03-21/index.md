@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 13:42:55](https://news.ycombinator.com/item?id=39778415) - [Surgeons Transplant Pig Kidney into a Patient](https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html)
+* [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
 * [2024-03-21, 13:22:39](https://news.ycombinator.com/item?id=39778217) - [Hyperscript](https://hyperscript.org/)
 * [2024-03-21, 13:11:22](https://news.ycombinator.com/item?id=39778086) - [You've Been Thinking About Inflation All Wrong (2022)](https://ofdollarsanddata.com/youve-been-thinking-about-inflation-all-wrong/)
 * [2024-03-21, 13:06:56](https://news.ycombinator.com/item?id=39778040) - [My 2024 Setup](https://nullonerror.org/2024/03/20/my-2024-setup/)
@@ -28,6 +30,7 @@
 * [2024-03-21, 10:59:35](https://news.ycombinator.com/item?id=39777038) - [Biden administration to forgive $5.8B student debt for 78,000 borrowers](https://www.cnbc.com/2024/03/21/biden-to-forgive-5point8-billion-in-student-debt-for-nearly-78000-borrowers.html)
 * [2024-03-21, 10:56:08](https://news.ycombinator.com/item?id=39777007) - [Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling](https://github.com/mercari/tortoise)
 * [2024-03-21, 10:25:27](https://news.ycombinator.com/item?id=39776806) - [Declines in global fertility to transform global population patterns by 2100](https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform)
+* [2024-03-21, 10:16:01](https://news.ycombinator.com/item?id=39776745) - [HiddenVM – Use any desktop OS without leaving a trace](https://github.com/aforensics/HiddenVM)
 * [2024-03-21, 09:35:55](https://news.ycombinator.com/item?id=39776473) - [Justice Department to Sue Apple for Antitrust Violations as Soon as Thursday](https://twitter.com/tomwarren/status/1770580778251870295)
 * [2024-03-21, 09:32:45](https://news.ycombinator.com/item?id=39776447) - [Portal Demake in Lua for TIC-80 Fantasy Console](http://tic80.com/play?cart=3538)
 * [2024-03-21, 09:26:12](https://news.ycombinator.com/item?id=39776397) - [On how I got my first ten customers](https://onlineornot.com/how-to-get-your-first-ten-customers)
