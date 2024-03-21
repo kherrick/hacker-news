@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
 * [2024-03-21, 12:00:20](https://news.ycombinator.com/item?id=39777449) - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
+* [2024-03-21, 11:57:50](https://news.ycombinator.com/item?id=39777429) - [Scotland's Hate Speech Act and Abuse of Process](https://www.craigmurray.org.uk/archives/2024/03/scotlands-hate-speech-act-and-abuse-of-process/)
 * [2024-03-21, 11:35:53](https://news.ycombinator.com/item?id=39777267) - [Google: Angular and Wiz Are Merging](https://twitter.com/sarah_edo/status/1770478763253379488)
+* [2024-03-21, 11:35:53](https://news.ycombinator.com/item?id=39777266) - [Fossil fuel firms could be tried for homicide](https://www.theguardian.com/us-news/2024/mar/21/fossil-fuel-companies-homicide-climate-deaths-lawsuit)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 11:28:45](https://news.ycombinator.com/item?id=39777223) - [Ask HN: How to onboard yourself to a new product/industry in a new job?](https://news.ycombinator.com/item?id=39777223)
 * [2024-03-21, 10:59:35](https://news.ycombinator.com/item?id=39777038) - [Biden administration to forgive $5.8B student debt for 78,000 borrowers](https://www.cnbc.com/2024/03/21/biden-to-forgive-5point8-billion-in-student-debt-for-nearly-78000-borrowers.html)
@@ -19,6 +22,7 @@
 * [2024-03-21, 09:02:00](https://news.ycombinator.com/item?id=39776238) - [End the Phone-Based Childhood Now](https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/)
 * [2024-03-21, 09:00:37](https://news.ycombinator.com/item?id=39776228) - [Reddit CEO defends $193M compensation following backlash from unpaid moderators](https://fortune.com/2024/03/19/reddit-ceo-steve-huffman-defends-193-million-compensation-following-backlash-unpaid-moderators/)
 * [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
+* [2024-03-21, 08:46:38](https://news.ycombinator.com/item?id=39776132) - [GPT-5 might arrive this summer as a \"materially better\" update to ChatGPT](https://arstechnica.com/information-technology/2024/03/openais-gpt-5-may-launch-this-summer-upgrading-chatgpt-along-the-way/)
 * [2024-03-21, 06:12:04](https://news.ycombinator.com/item?id=39775332) - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-21, 05:06:18](https://news.ycombinator.com/item?id=39775011) - [Ask HN: How is the Spotify app so bad?](https://news.ycombinator.com/item?id=39775011)
