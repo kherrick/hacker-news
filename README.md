@@ -13,6 +13,7 @@
 * [2024-03-21, 12:00:20](https://news.ycombinator.com/item?id=39777449) - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 11:28:45](https://news.ycombinator.com/item?id=39777223) - [Ask HN: How to onboard yourself to a new product/industry in a new job?](https://news.ycombinator.com/item?id=39777223)
+* [2024-03-21, 10:56:08](https://news.ycombinator.com/item?id=39777007) - [Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling](https://github.com/mercari/tortoise)
 * [2024-03-21, 10:16:01](https://news.ycombinator.com/item?id=39776745) - [HiddenVM – Use any desktop OS without leaving a trace](https://github.com/aforensics/HiddenVM)
 * [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
@@ -29,7 +30,6 @@
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
-* [2024-03-19, 04:32:21](https://news.ycombinator.com/item?id=39752962) - [Painting by Roman Numerals](https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting)
 
 ## [Archives](archives/index.md)
 
