@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 16:16:38](https://news.ycombinator.com/item?id=39780581) - [Google Jamboard is winding down](https://support.google.com/jamboard/answer/14084927?hl=en)
+* [2024-03-21, 15:58:32](https://news.ycombinator.com/item?id=39780284) - [VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0)
 * [2024-03-21, 14:57:56](https://news.ycombinator.com/item?id=39779291) - [Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
 * [2024-03-21, 14:51:18](https://news.ycombinator.com/item?id=39779195) - [GoFetch: New side-channel attack using data memory-dependent prefetchers](https://gofetch.fail)
 * [2024-03-21, 14:39:24](https://news.ycombinator.com/item?id=39779024) - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
@@ -46,6 +48,7 @@
 * [2024-03-21, 09:26:12](https://news.ycombinator.com/item?id=39776397) - [On how I got my first ten customers](https://onlineornot.com/how-to-get-your-first-ten-customers)
 * [2024-03-21, 09:19:42](https://news.ycombinator.com/item?id=39776349) - [Julian Assange 'may not survive' trial and extradition, David Shoebridge says](https://www.theguardian.com/australia-news/live/2024/mar/21/australia-politics-live-penny-wong-wang-yi-china-foreign-affairs-minister-paul-keating-chris-minns-aukus-richard-marles-david-cameron-aukmin-question-time-anthony-albanese-peter-dutton)
 * [2024-03-21, 09:11:37](https://news.ycombinator.com/item?id=39776293) - [The London office where swinging pendulums keep cyber threats at bay](https://www.ianvisits.co.uk/articles/inside-the-london-office-where-swinging-pendulums-keep-cyber-threats-at-bay-71054/)
+* [2024-03-21, 09:08:52](https://news.ycombinator.com/item?id=39776274) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 * [2024-03-21, 09:02:00](https://news.ycombinator.com/item?id=39776238) - [End the Phone-Based Childhood Now](https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/)
 * [2024-03-21, 09:00:37](https://news.ycombinator.com/item?id=39776228) - [Reddit CEO defends $193M compensation following backlash from unpaid moderators](https://fortune.com/2024/03/19/reddit-ceo-steve-huffman-defends-193-million-compensation-following-backlash-unpaid-moderators/)
 * [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
