@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-21, 10:25:27](https://news.ycombinator.com/item?id=39776806) - [Declines in global fertility to transform global population patterns by 2100](https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform)
-* [2024-03-21, 09:26:12](https://news.ycombinator.com/item?id=39776397) - [On how I got my first ten customers](https://onlineornot.com/how-to-get-your-first-ten-customers)
 * [2024-03-21, 09:02:00](https://news.ycombinator.com/item?id=39776238) - [End the Phone-Based Childhood Now](https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/)
 * [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
@@ -22,8 +20,10 @@
 * [2024-03-20, 16:03:59](https://news.ycombinator.com/item?id=39768438) - [Google Scholar PDF Reader](https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
+* [2024-03-20, 13:32:41](https://news.ycombinator.com/item?id=39766222) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
 * [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
 * [2024-03-20, 12:51:12](https://news.ycombinator.com/item?id=39765715) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
+* [2024-03-20, 12:42:16](https://news.ycombinator.com/item?id=39765630) - [Lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-20, 11:20:26](https://news.ycombinator.com/item?id=39764992) - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand wins Abel Prize for work wrangling randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-20, 01:59:14](https://news.ycombinator.com/item?id=39762249) - [The Photo Behind the Iconic Columbia Pictures 'Torch Lady' Logo (2022)](https://petapixel.com/2022/02/20/the-photo-behind-the-iconic-columbia-pictures-torch-lady-logo/)
