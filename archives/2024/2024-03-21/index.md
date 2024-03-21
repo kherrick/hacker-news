@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 12:00:20](https://news.ycombinator.com/item?id=39777449) - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
+* [2024-03-21, 11:35:53](https://news.ycombinator.com/item?id=39777267) - [Google: Angular and Wiz Are Merging](https://twitter.com/sarah_edo/status/1770478763253379488)
+* [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
+* [2024-03-21, 11:28:45](https://news.ycombinator.com/item?id=39777223) - [Ask HN: How to onboard yourself to a new product/industry in a new job?](https://news.ycombinator.com/item?id=39777223)
+* [2024-03-21, 10:59:35](https://news.ycombinator.com/item?id=39777038) - [Biden administration to forgive $5.8B student debt for 78,000 borrowers](https://www.cnbc.com/2024/03/21/biden-to-forgive-5point8-billion-in-student-debt-for-nearly-78000-borrowers.html)
 * [2024-03-21, 10:56:08](https://news.ycombinator.com/item?id=39777007) - [Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling](https://github.com/mercari/tortoise)
 * [2024-03-21, 10:25:27](https://news.ycombinator.com/item?id=39776806) - [Declines in global fertility to transform global population patterns by 2100](https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform)
 * [2024-03-21, 09:35:55](https://news.ycombinator.com/item?id=39776473) - [Justice Department to Sue Apple for Antitrust Violations as Soon as Thursday](https://twitter.com/tomwarren/status/1770580778251870295)
