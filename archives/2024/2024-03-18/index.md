@@ -140,3 +140,4 @@
 * [2024-03-18, 01:19:01](https://news.ycombinator.com/item?id=39739647) - [American News Lost Its Nerve](https://www.semafor.com/article/03/17/2024/very-few-have-balls-how-american-news-lost-its-nerve)
 * [2024-03-18, 01:06:15](https://news.ycombinator.com/item?id=39739579) - [X.ai's Grok-1 Model Is Officially Open-Source and Larger Than Expected](https://synthedia.substack.com/p/xais-grok-1-model-is-officially-open)
 * [2024-03-18, 00:45:17](https://news.ycombinator.com/item?id=39739444) - [JPEG DCT Text Lossifizer](https://lcamtuf.coredump.cx/lossifizer/)
+* [2024-03-18, 00:38:25](https://news.ycombinator.com/item?id=39739404) - [Porsche's Active Suspension](https://www.motor1.com/features/712424/porsche-active-ride/)
