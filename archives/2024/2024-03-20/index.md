@@ -116,6 +116,7 @@
 * [2024-03-20, 02:14:53](https://news.ycombinator.com/item?id=39762315) - [Soul: A SQLite REST and Realtime Server](https://thevahidal.github.io/soul/)
 * [2024-03-20, 02:03:33](https://news.ycombinator.com/item?id=39762272) - [If gravity isn't a force, then why does it \"need\" a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
 * [2024-03-20, 02:02:20](https://news.ycombinator.com/item?id=39762265) - [Mexico refuses to accept any migrants deported by Texas under new state law](https://www.bbc.com/news/world-us-canada-68613083)
+* [2024-03-20, 01:59:14](https://news.ycombinator.com/item?id=39762249) - [The Photo Behind the Iconic Columbia Pictures 'Torch Lady' Logo (2022)](https://petapixel.com/2022/02/20/the-photo-behind-the-iconic-columbia-pictures-torch-lady-logo/)
 * [2024-03-20, 01:40:43](https://news.ycombinator.com/item?id=39762152) - [Young people becoming less happy than older generations, research shows](https://www.theguardian.com/society/2024/mar/20/young-people-becoming-less-happy-than-older-generations-research-shows)
 * [2024-03-20, 01:35:00](https://news.ycombinator.com/item?id=39762128) - [Show HN: Iteratively Building Virtual Creatures](https://github.com/cfusting/conditional-growth)
 * [2024-03-20, 01:11:15](https://news.ycombinator.com/item?id=39762006) - [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
