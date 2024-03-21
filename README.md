@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-21, 02:33:03](https://news.ycombinator.com/item?id=39774370) - [FreeCAD Project Association 2023 Annual report and 2024 plans](https://fpa.freecad.org/annualreports/2024.html)
+* [2024-03-21, 01:56:22](https://news.ycombinator.com/item?id=39774200) - [Things you can learn from Microsoft](https://josvisser.substack.com/p/things-you-can-learn-from-microsoft)
 * [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 * [2024-03-21, 00:09:34](https://news.ycombinator.com/item?id=39773556) - [Kids are not okay. New data shows Canadians under-30 'unhappy'](https://globalnews.ca/news/10372813/canada-world-happiness-report-2024/)
 * [2024-03-20, 23:03:06](https://news.ycombinator.com/item?id=39773072) - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
 * [2024-03-20, 22:49:40](https://news.ycombinator.com/item?id=39772968) - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
-* [2024-03-20, 22:07:23](https://news.ycombinator.com/item?id=39772571) - [Governor signs bills creating EV charging station network across Wisconsin](https://apnews.com/article/wisconsin-electric-vehicles-charging-stations-8f240084670b7b210d162f83b22168d9)
 * [2024-03-20, 21:56:34](https://news.ycombinator.com/item?id=39772468) - [Valve Built An Orb: The making of the Steam Deck OLED launch trailer](https://store.steampowered.com/news/app/593110/view/4118051100641390121)
+* [2024-03-20, 21:49:54](https://news.ycombinator.com/item?id=39772409) - [Red Hat to Author New Linux Driver for Nvidia GPUs in Rust](https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions)
 * [2024-03-20, 21:01:11](https://news.ycombinator.com/item?id=39771983) - [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
 * [2024-03-20, 20:40:11](https://news.ycombinator.com/item?id=39771754) - [Jim Ward Has Died](https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72)
 * [2024-03-20, 20:11:02](https://news.ycombinator.com/item?id=39771446) - [The Starship or the Canoe: Where Will Our Future Adaptations Be? (2017)](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
@@ -27,7 +28,6 @@
 * [2024-03-20, 12:51:12](https://news.ycombinator.com/item?id=39765715) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 * [2024-03-20, 12:42:16](https://news.ycombinator.com/item?id=39765630) - [Lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-19, 04:32:21](https://news.ycombinator.com/item?id=39752962) - [Painting by Roman Numerals](https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting)
-* [2024-03-18, 19:04:24](https://news.ycombinator.com/item?id=39748537) - [LLMs: RAG vs. Fine-Tuning](https://winder.ai/llms-rag-fine-tuning/)
 * [2024-03-17, 12:41:48](https://news.ycombinator.com/item?id=39734094) - [Eclipse Tracks](https://eclipsetracks.org/)
 * [2024-03-17, 10:41:54](https://news.ycombinator.com/item?id=39733408) - [Got my ultimate retro KVM setup working](https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/)
 
