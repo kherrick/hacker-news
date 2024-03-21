@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 12:35:35](https://news.ycombinator.com/item?id=39777751) - [US submits draft UN resolution for \"immediate cease-fire,\" in Gaza](https://www.msn.com/en-us/news/world/us-submits-draft-un-resolution-for-immediate-cease-fire-blinken-says/ar-BB1kh9uQ)
+* [2024-03-21, 12:35:20](https://news.ycombinator.com/item?id=39777746) - [Response from Flipper Zero to the Canada Ban](https://twitter.com/flipper_zero/status/1770459769452589468)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
 * [2024-03-21, 12:00:20](https://news.ycombinator.com/item?id=39777449) - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
 * [2024-03-21, 11:57:50](https://news.ycombinator.com/item?id=39777429) - [Scotland's Hate Speech Act and Abuse of Process](https://www.craigmurray.org.uk/archives/2024/03/scotlands-hate-speech-act-and-abuse-of-process/)
