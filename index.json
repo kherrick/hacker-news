@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-21, 12:35:35",
-      "https://news.ycombinator.com/item?id=39777751"
+      "2024-03-21, 12:45:03",
+      "https://news.ycombinator.com/item?id=39777837"
     ],
     [
-      "US submits draft UN resolution for \"immediate cease-fire,\" in Gaza",
-      "https://www.msn.com/en-us/news/world/us-submits-draft-un-resolution-for-immediate-cease-fire-blinken-says/ar-BB1kh9uQ"
+      "List of formerly open-source or free software",
+      "https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 12:35:39",
+      "https://news.ycombinator.com/item?id=39777752"
+    ],
+    [
+      "Glassdoor added real names to supposedly anonymous profiles",
+      "https://www.techradar.com/pro/glassdoor-added-real-names-to-supposedly-anonymous-profiles"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "Response from Flipper Zero to the Canada Ban",
       "https://twitter.com/flipper_zero/status/1770459769452589468"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 12:33:14",
+      "https://news.ycombinator.com/item?id=39777725"
+    ],
+    [
+      "SUSE Upgrades Its Rancher Kubernetes Management Family",
+      "https://thenewstack.io/suse-upgrades-its-rancher-kubernetes-management-family/"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 12:28:04",
+      "https://news.ycombinator.com/item?id=39777666"
+    ],
+    [
+      "ExFAT Driver Boasts Much Faster \"Dirsync\" Performance with Linux 6.9",
+      "https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "Google: Angular and Wiz Are Merging",
       "https://twitter.com/sarah_edo/status/1770478763253379488"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 11:32:59",
+      "https://news.ycombinator.com/item?id=39777250"
+    ],
+    [
+      "Spaced repetition can lower stakes of destructive inbox-maintenance operations",
+      "https://notes.andymatuschak.org/Spaced_repetition_can_lower_the_stakes_around_destructive_inbox-maintenance_operations"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2024-03-21, 08:46:38",
-      "https://news.ycombinator.com/item?id=39776132"
-    ],
-    [
-      "GPT-5 might arrive this summer as a \"materially better\" update to ChatGPT",
-      "https://arstechnica.com/information-technology/2024/03/openais-gpt-5-may-launch-this-summer-upgrading-chatgpt-along-the-way/"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 06:08:40",
       "https://news.ycombinator.com/item?id=39775304"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-03-20, 21:58:30",
-      "https://news.ycombinator.com/item?id=39772485"
-    ],
-    [
-      "Show HN: Personal Knowledge Base Visualization",
-      "https://github.com/raphaelsty/knowledge"
-    ]
-  ],
-  [
-    [
       "2024-03-20, 21:56:34",
       "https://news.ycombinator.com/item?id=39772468"
     ],
@@ -161,22 +181,22 @@
   ],
   [
     [
-      "2024-03-20, 21:49:54",
-      "https://news.ycombinator.com/item?id=39772409"
-    ],
-    [
-      "Red Hat to author new Linux driver for Nvidia GPUs in Rust",
-      "https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions"
-    ]
-  ],
-  [
-    [
       "2024-03-20, 21:01:11",
       "https://news.ycombinator.com/item?id=39771983"
     ],
     [
       "JITX – The Fastest Way to Design Circuit Boards",
       "https://www.jitx.com"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 20:56:41",
+      "https://news.ycombinator.com/item?id=39771925"
+    ],
+    [
+      "Crookes Radiometer",
+      "https://en.wikipedia.org/wiki/Crookes_radiometer"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "The Starship or the Canoe: Where will our future adaptations be? (2017)",
       "https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 19:23:11",
-      "https://news.ycombinator.com/item?id=39770908"
-    ],
-    [
-      "Show HN: GritQL, a Rust CLI for rewriting source code",
-      "https://github.com/getgrit/gritql"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Painting by Roman Numerals",
       "https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 10:41:54",
-      "https://news.ycombinator.com/item?id=39733408"
-    ],
-    [
-      "Got my ultimate retro KVM setup working",
-      "https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/"
     ]
   ]
 ]
