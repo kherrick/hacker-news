@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 03:19:59](https://news.ycombinator.com/item?id=39774613) - [.NET Smart Components](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/)
 * [2024-03-21, 02:10:23](https://news.ycombinator.com/item?id=39774253) - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 * [2024-03-20, 23:03:06](https://news.ycombinator.com/item?id=39773072) - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
@@ -24,9 +25,8 @@
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 13:33:57](https://news.ycombinator.com/item?id=39766236) - [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
 * [2024-03-20, 13:32:41](https://news.ycombinator.com/item?id=39766222) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
-* [2024-03-20, 13:29:02](https://news.ycombinator.com/item?id=39766170) - [The Google employees who created transformers](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
 * [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
-* [2024-03-20, 12:51:12](https://news.ycombinator.com/item?id=39765715) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
+* [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand wins Abel Prize for work wrangling randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-19, 04:32:21](https://news.ycombinator.com/item?id=39752962) - [Painting by Roman Numerals](https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting)
 * [2024-03-17, 12:41:48](https://news.ycombinator.com/item?id=39734094) - [Eclipse Tracks](https://eclipsetracks.org/)
 * [2024-03-17, 10:41:54](https://news.ycombinator.com/item?id=39733408) - [Got my ultimate retro KVM setup working](https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/)
