@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 10:56:08](https://news.ycombinator.com/item?id=39777007) - [Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling](https://github.com/mercari/tortoise)
 * [2024-03-21, 10:25:27](https://news.ycombinator.com/item?id=39776806) - [Declines in global fertility to transform global population patterns by 2100](https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform)
 * [2024-03-21, 09:35:55](https://news.ycombinator.com/item?id=39776473) - [Justice Department to Sue Apple for Antitrust Violations as Soon as Thursday](https://twitter.com/tomwarren/status/1770580778251870295)
 * [2024-03-21, 09:32:45](https://news.ycombinator.com/item?id=39776447) - [Portal Demake in Lua for TIC-80 Fantasy Console](http://tic80.com/play?cart=3538)

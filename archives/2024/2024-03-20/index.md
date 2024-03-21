@@ -15,6 +15,7 @@
 * [2024-03-20, 21:56:34](https://news.ycombinator.com/item?id=39772468) - [Valve Built An Orb: The making of the Steam Deck OLED launch trailer](https://store.steampowered.com/news/app/593110/view/4118051100641390121)
 * [2024-03-20, 21:49:54](https://news.ycombinator.com/item?id=39772409) - [Red Hat to Author New Linux Driver for Nvidia GPUs in Rust](https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions)
 * [2024-03-20, 21:37:33](https://news.ycombinator.com/item?id=39772295) - [Neuralink patient controls games by thinking during interview](https://twitter.com/neuralink/status/1770563939413496146)
+* [2024-03-20, 21:16:19](https://news.ycombinator.com/item?id=39772130) - [The Nerfed FPU in PS5's Zen 2 Cores](https://chipsandcheese.com/2024/03/20/the-nerfed-fpu-in-ps5s-zen-2-cores/)
 * [2024-03-20, 21:01:11](https://news.ycombinator.com/item?id=39771983) - [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
 * [2024-03-20, 20:47:35](https://news.ycombinator.com/item?id=39771822) - [Apple could be in trouble over security warnings, as well as Core Technology Fee](https://9to5mac.com/2024/03/20/core-technology-fee-and-security-warnings/)
 * [2024-03-20, 20:40:11](https://news.ycombinator.com/item?id=39771754) - [Jim Ward Has Died](https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72)
