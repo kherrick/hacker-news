@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 12:45:03](https://news.ycombinator.com/item?id=39777837) - [List of formerly open-source or free software](https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software)
 * [2024-03-21, 12:35:39](https://news.ycombinator.com/item?id=39777752) - [Glassdoor added real names to supposedly anonymous profiles](https://www.techradar.com/pro/glassdoor-added-real-names-to-supposedly-anonymous-profiles)
 * [2024-03-21, 12:35:35](https://news.ycombinator.com/item?id=39777751) - [US submits draft UN resolution for \"immediate cease-fire,\" in Gaza](https://www.msn.com/en-us/news/world/us-submits-draft-un-resolution-for-immediate-cease-fire-blinken-says/ar-BB1kh9uQ)

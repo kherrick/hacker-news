@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 12:45:03](https://news.ycombinator.com/item?id=39777837) - [List of formerly open-source or free software](https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software)
 * [2024-03-21, 12:35:39](https://news.ycombinator.com/item?id=39777752) - [Glassdoor added real names to supposedly anonymous profiles](https://www.techradar.com/pro/glassdoor-added-real-names-to-supposedly-anonymous-profiles)
-* [2024-03-21, 12:35:20](https://news.ycombinator.com/item?id=39777746) - [Response from Flipper Zero to the Canada Ban](https://twitter.com/flipper_zero/status/1770459769452589468)
 * [2024-03-21, 12:33:14](https://news.ycombinator.com/item?id=39777725) - [SUSE Upgrades Its Rancher Kubernetes Management Family](https://thenewstack.io/suse-upgrades-its-rancher-kubernetes-management-family/)
 * [2024-03-21, 12:28:04](https://news.ycombinator.com/item?id=39777666) - [ExFAT Driver Boasts Much Faster \"Dirsync\" Performance with Linux 6.9](https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
