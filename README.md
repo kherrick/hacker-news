@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 17:11:24](https://news.ycombinator.com/item?id=39781418) - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
 * [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
 * [2024-03-21, 15:58:32](https://news.ycombinator.com/item?id=39780284) - [VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0)
 * [2024-03-21, 15:48:16](https://news.ycombinator.com/item?id=39780114) - [Show HN: Ragas – Open-source library for evaluating RAG pipelines](https://github.com/explodinggradients/ragas)
@@ -21,7 +22,6 @@
 * [2024-03-21, 09:08:52](https://news.ycombinator.com/item?id=39776274) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 * [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
-* [2024-03-21, 02:10:23](https://news.ycombinator.com/item?id=39774253) - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 * [2024-03-20, 20:56:41](https://news.ycombinator.com/item?id=39771925) - [Crookes Radiometer](https://en.wikipedia.org/wiki/Crookes_radiometer)
 * [2024-03-20, 16:31:14](https://news.ycombinator.com/item?id=39768860) - [Suspicious discontinuities (2020)](https://danluu.com/discontinuities/)
