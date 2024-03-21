@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-21, 19:43:05](https://news.ycombinator.com/item?id=39783444) - [Nintendo emulator 'Suyu' removed from Gitlab following DMCA request](https://overkill.wtf/suyu-emulator-removed-from-gitlab/)
+* [2024-03-21, 19:40:16](https://news.ycombinator.com/item?id=39783413) - [Senators push to declassify TikTok Intel, hold public hearing ahead of ban vote](https://text.npr.org/1239691465)
 * [2024-03-21, 19:25:10](https://news.ycombinator.com/item?id=39783223) - [Show HN: Memories, FOSS Google Photos alternative built for high performance](https://memories.gallery/)
 * [2024-03-21, 19:04:53](https://news.ycombinator.com/item?id=39782975) - [OpenSplat – 3D gaussian splatting in C++ with CPU and GPU support](https://github.com/pierotofy/OpenSplat)
 * [2024-03-21, 18:56:21](https://news.ycombinator.com/item?id=39782876) - [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
@@ -28,8 +28,8 @@
 * [2024-03-20, 20:52:59](https://news.ycombinator.com/item?id=39771878) - [Array Languages: R vs. APL](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-19, 12:39:46](https://news.ycombinator.com/item?id=39755089) - [Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
+* [2024-03-19, 00:42:51](https://news.ycombinator.com/item?id=39751801) - [Highrises](https://highrises.hythacg.com)
 * [2024-03-18, 07:04:26](https://news.ycombinator.com/item?id=39741096) - [Disk write buffering and its interactions with write flushes](https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs)
-* [2024-03-18, 06:01:16](https://news.ycombinator.com/item?id=39740835) - [Three ways to improve parallelized tests](https://www.qawolf.com//blog/principles-for-writing-parallizable-tests)
 
 ## [Archives](archives/index.md)
 
