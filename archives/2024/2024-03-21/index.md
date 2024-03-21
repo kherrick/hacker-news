@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 10:25:27](https://news.ycombinator.com/item?id=39776806) - [Declines in global fertility to transform global population patterns by 2100](https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform)
 * [2024-03-21, 09:35:55](https://news.ycombinator.com/item?id=39776473) - [Justice Department to Sue Apple for Antitrust Violations as Soon as Thursday](https://twitter.com/tomwarren/status/1770580778251870295)
 * [2024-03-21, 09:32:45](https://news.ycombinator.com/item?id=39776447) - [Portal Demake in Lua for TIC-80 Fantasy Console](http://tic80.com/play?cart=3538)
+* [2024-03-21, 09:26:12](https://news.ycombinator.com/item?id=39776397) - [On how I got my first ten customers](https://onlineornot.com/how-to-get-your-first-ten-customers)
 * [2024-03-21, 09:19:42](https://news.ycombinator.com/item?id=39776349) - [Julian Assange 'may not survive' trial and extradition, David Shoebridge says](https://www.theguardian.com/australia-news/live/2024/mar/21/australia-politics-live-penny-wong-wang-yi-china-foreign-affairs-minister-paul-keating-chris-minns-aukus-richard-marles-david-cameron-aukmin-question-time-anthony-albanese-peter-dutton)
 * [2024-03-21, 09:11:37](https://news.ycombinator.com/item?id=39776293) - [The London office where swinging pendulums keep cyber threats at bay](https://www.ianvisits.co.uk/articles/inside-the-london-office-where-swinging-pendulums-keep-cyber-threats-at-bay-71054/)
+* [2024-03-21, 09:02:00](https://news.ycombinator.com/item?id=39776238) - [End the Phone-Based Childhood Now](https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/)
 * [2024-03-21, 09:00:37](https://news.ycombinator.com/item?id=39776228) - [Reddit CEO defends $193M compensation following backlash from unpaid moderators](https://fortune.com/2024/03/19/reddit-ceo-steve-huffman-defends-193-million-compensation-following-backlash-unpaid-moderators/)
+* [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
 * [2024-03-21, 06:12:04](https://news.ycombinator.com/item?id=39775332) - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-21, 05:06:18](https://news.ycombinator.com/item?id=39775011) - [Ask HN: How is the Spotify app so bad?](https://news.ycombinator.com/item?id=39775011)
