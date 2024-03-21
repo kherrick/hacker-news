@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
 * [2024-03-21, 02:33:03](https://news.ycombinator.com/item?id=39774370) - [FreeCAD Project Association 2023 Annual report and 2024 plans](https://fpa.freecad.org/annualreports/2024.html)
+* [2024-03-21, 02:10:23](https://news.ycombinator.com/item?id=39774253) - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2024-03-21, 01:56:22](https://news.ycombinator.com/item?id=39774200) - [Things you can learn from Microsoft](https://josvisser.substack.com/p/things-you-can-learn-from-microsoft)
 * [2024-03-21, 00:51:23](https://news.ycombinator.com/item?id=39773815) - [72% of U.S. Teens Feel Peaceful Without Smartphones.](https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/)
 * [2024-03-21, 00:22:56](https://news.ycombinator.com/item?id=39773648) - [Is the Job Market Dying?](https://rachdele.substack.com/p/is-the-job-market-dying)
