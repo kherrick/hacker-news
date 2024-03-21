@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 09:19:42](https://news.ycombinator.com/item?id=39776349) - [Julian Assange 'may not survive' trial and extradition, David Shoebridge says](https://www.theguardian.com/australia-news/live/2024/mar/21/australia-politics-live-penny-wong-wang-yi-china-foreign-affairs-minister-paul-keating-chris-minns-aukus-richard-marles-david-cameron-aukmin-question-time-anthony-albanese-peter-dutton)
+* [2024-03-21, 09:11:37](https://news.ycombinator.com/item?id=39776293) - [The London office where swinging pendulums keep cyber threats at bay](https://www.ianvisits.co.uk/articles/inside-the-london-office-where-swinging-pendulums-keep-cyber-threats-at-bay-71054/)
 * [2024-03-21, 06:12:04](https://news.ycombinator.com/item?id=39775332) - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-21, 05:06:18](https://news.ycombinator.com/item?id=39775011) - [Ask HN: How is the Spotify app so bad?](https://news.ycombinator.com/item?id=39775011)
