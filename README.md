@@ -7,7 +7,6 @@
 * [2024-03-20, 22:49:40](https://news.ycombinator.com/item?id=39772968) - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 * [2024-03-20, 22:07:23](https://news.ycombinator.com/item?id=39772571) - [Governor signs bills creating EV charging station network across Wisconsin](https://apnews.com/article/wisconsin-electric-vehicles-charging-stations-8f240084670b7b210d162f83b22168d9)
 * [2024-03-20, 21:56:34](https://news.ycombinator.com/item?id=39772468) - [Valve Built An Orb: The making of the Steam Deck OLED launch trailer](https://store.steampowered.com/news/app/593110/view/4118051100641390121)
-* [2024-03-20, 21:37:33](https://news.ycombinator.com/item?id=39772295) - [Neuralink patient controls games by thinking during interview](https://twitter.com/neuralink/status/1770563939413496146)
 * [2024-03-20, 21:01:11](https://news.ycombinator.com/item?id=39771983) - [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
 * [2024-03-20, 20:40:11](https://news.ycombinator.com/item?id=39771754) - [Jim Ward Has Died](https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72)
 * [2024-03-20, 20:11:02](https://news.ycombinator.com/item?id=39771446) - [The Starship or the Canoe: Where Will Our Future Adaptations Be? (2017)](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
@@ -28,6 +27,7 @@
 * [2024-03-20, 11:20:26](https://news.ycombinator.com/item?id=39764992) - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand wins Abel Prize for work wrangling randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-19, 04:32:21](https://news.ycombinator.com/item?id=39752962) - [Painting by Roman Numerals](https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting)
+* [2024-03-18, 18:34:42](https://news.ycombinator.com/item?id=39748155) - [Goto Is Not a Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-17, 12:41:48](https://news.ycombinator.com/item?id=39734094) - [Eclipse Tracks](https://eclipsetracks.org/)
 * [2024-03-17, 10:41:54](https://news.ycombinator.com/item?id=39733408) - [Got my ultimate retro KVM setup working](https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/)
 
