@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-03-21, 14:57:56",
+      "https://news.ycombinator.com/item?id=39779291"
+    ],
+    [
+      "Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds",
+      "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 14:39:24",
+      "https://news.ycombinator.com/item?id=39779024"
+    ],
+    [
+      "Introducing pgzx: create PostgreSQL extensions using Zig",
+      "https://xata.io/blog/introducing-pgzx"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 14:37:43",
       "https://news.ycombinator.com/item?id=39778999"
     ],
     [
-      "U.S. Sues Apple, Accusing It of Maintaining an iPhone Monopoly",
+      "U.S. sues Apple, accusing it of maintaining an iPhone monopoly",
       "https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html"
     ]
   ],
@@ -17,6 +37,16 @@
     [
       "Daily Maps of GPS Interference",
       "https://gpsjam.org/"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 14:00:04",
+      "https://news.ycombinator.com/item?id=39778590"
+    ],
+    [
+      "The Reddits",
+      "https://www.ycombinator.com/blog/the-reddits"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2024-03-21, 12:28:04",
-      "https://news.ycombinator.com/item?id=39777666"
-    ],
-    [
-      "ExFAT Driver Boasts Much Faster \"Dirsync\" Performance with Linux 6.9",
-      "https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 12:11:43",
       "https://news.ycombinator.com/item?id=39777528"
     ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=39775304"
     ],
     [
-      "Vernor Vinge (1944-2024)",
+      "Vernor Vinge has died",
       "https://file770.com/vernor-vinge-1944-2024/"
     ]
   ],
@@ -217,16 +237,6 @@
     [
       "Jim Ward has died",
       "https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 17:13:07",
-      "https://news.ycombinator.com/item?id=39769412"
-    ],
-    [
-      "Launch HN: CamelQA (YC W24) – AI that tests mobile apps",
-      "https://news.ycombinator.com/item?id=39769412"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Intel to Receive $8.5B in Grants to Build Chip Plants",
       "https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 04:32:21",
-      "https://news.ycombinator.com/item?id=39752962"
-    ],
-    [
-      "Painting by Roman Numerals",
-      "https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting"
     ]
   ]
 ]
