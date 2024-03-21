@@ -11,6 +11,7 @@
 * [2024-03-20, 22:07:28](https://news.ycombinator.com/item?id=39772573) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 * [2024-03-20, 22:07:23](https://news.ycombinator.com/item?id=39772571) - [Governor signs bills creating EV charging station network across Wisconsin](https://apnews.com/article/wisconsin-electric-vehicles-charging-stations-8f240084670b7b210d162f83b22168d9)
 * [2024-03-20, 21:56:34](https://news.ycombinator.com/item?id=39772468) - [Valve Built An Orb: The making of the Steam Deck OLED launch trailer](https://store.steampowered.com/news/app/593110/view/4118051100641390121)
+* [2024-03-20, 21:49:54](https://news.ycombinator.com/item?id=39772409) - [Red Hat to Author New Linux Driver for Nvidia GPUs in Rust](https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions)
 * [2024-03-20, 21:37:33](https://news.ycombinator.com/item?id=39772295) - [Neuralink patient controls games by thinking during interview](https://twitter.com/neuralink/status/1770563939413496146)
 * [2024-03-20, 21:01:11](https://news.ycombinator.com/item?id=39771983) - [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
 * [2024-03-20, 20:47:35](https://news.ycombinator.com/item?id=39771822) - [Apple could be in trouble over security warnings, as well as Core Technology Fee](https://9to5mac.com/2024/03/20/core-technology-fee-and-security-warnings/)
