@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-03-20, 22:02:43",
+      "https://news.ycombinator.com/item?id=39772533"
+    ],
+    [
+      "Sequential and parallel execution of long-running shell commands",
+      "https://github.com/Nukesor/pueue"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 21:58:30",
       "https://news.ycombinator.com/item?id=39772485"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2024-03-20, 17:01:18",
+      "https://news.ycombinator.com/item?id=39769263"
+    ],
+    [
+      "Fathom AI Notetaker (YC W21) Is Hiring a Senior SRE (Remote)",
+      "https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-senior-site-reliability-engineer-remote"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 16:31:14",
       "https://news.ycombinator.com/item?id=39768860"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-03-20, 13:32:41",
-      "https://news.ycombinator.com/item?id=39766222"
-    ],
-    [
-      "So you think you want to write a deterministic hypervisor?",
-      "https://antithesis.com/blog/deterministic_hypervisor/"
-    ]
-  ],
-  [
-    [
       "2024-03-20, 12:51:35",
       "https://news.ycombinator.com/item?id=39765718"
     ],
@@ -227,16 +237,6 @@
     [
       "Bug hunting in Btrfs",
       "https://tavianator.com/2024/btrfs_bug.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 12:42:16",
-      "https://news.ycombinator.com/item?id=39765630"
-    ],
-    [
-      "Lcl.host: fast, easy HTTPS in your local dev environment",
-      "https://anchor.dev/blog/introducing-lcl-host"
     ]
   ],
   [
