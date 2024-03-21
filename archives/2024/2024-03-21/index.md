@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 06:12:04](https://news.ycombinator.com/item?id=39775332) - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-21, 04:31:48](https://news.ycombinator.com/item?id=39774903) - [Return to Office Is a Mistake](https://www.infoworld.com/article/3714660/return-to-office-is-a-mistake.html)
 * [2024-03-21, 03:24:36](https://news.ycombinator.com/item?id=39774638) - [Guiding Principles for the Mormon Church's Use of AI](https://newsroom.churchofjesuschrist.org/article/church-jesus-christ-artificial-intelligence)
