@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 21:43:09](https://news.ycombinator.com/item?id=39784756) - [How Taiwan Became Arrakis](https://deepintothemundane.substack.com/p/how-taiwan-became-arrakis)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
 * [2024-03-21, 21:00:41](https://news.ycombinator.com/item?id=39784349) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-03-21, 20:49:14](https://news.ycombinator.com/item?id=39784226) - [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
@@ -7,7 +8,6 @@
 * [2024-03-21, 20:23:43](https://news.ycombinator.com/item?id=39783910) - [Tooling has improved for ambitious software developers](https://therealadam.com/2023/11/04/tooling-has-improved.html)
 * [2024-03-21, 20:13:17](https://news.ycombinator.com/item?id=39783803) - [Actual Uses for Near-Term Quantum Computers](https://spectrum.ieee.org/what-are-quantum-computers-used-for)
 * [2024-03-21, 19:25:10](https://news.ycombinator.com/item?id=39783223) - [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
-* [2024-03-21, 18:56:21](https://news.ycombinator.com/item?id=39782876) - [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
 * [2024-03-21, 18:19:23](https://news.ycombinator.com/item?id=39782356) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:09:18](https://news.ycombinator.com/item?id=39782213) - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
 * [2024-03-21, 17:35:39](https://news.ycombinator.com/item?id=39781776) - [Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant](https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/)
