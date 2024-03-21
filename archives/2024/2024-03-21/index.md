@@ -7,6 +7,7 @@
 * [2024-03-21, 21:00:41](https://news.ycombinator.com/item?id=39784349) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-03-21, 20:49:14](https://news.ycombinator.com/item?id=39784226) - [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
 * [2024-03-21, 20:43:03](https://news.ycombinator.com/item?id=39784148) - [A type of bacteria that causes dental plaque was found in 50% of colon cancers](https://www.nbcnews.com/health/cancer/aggressive-colon-cancer-newly-identified-bacteria-found-half-tumors-ma-rcna144164)
+* [2024-03-21, 20:23:43](https://news.ycombinator.com/item?id=39783910) - [Tooling has improved for ambitious software developers](https://therealadam.com/2023/11/04/tooling-has-improved.html)
 * [2024-03-21, 20:20:12](https://news.ycombinator.com/item?id=39783872) - [Feds Can Film Your Front Porch for 68 Days Without a Warrant, Says Court](https://jalopnik.com/feds-can-film-your-front-porch-without-warrant-1851356394)
 * [2024-03-21, 20:13:17](https://news.ycombinator.com/item?id=39783803) - [Actual Uses for Near-Term Quantum Computers](https://spectrum.ieee.org/what-are-quantum-computers-used-for)
 * [2024-03-21, 20:02:54](https://news.ycombinator.com/item?id=39783700) - [Oral Bacterium Migrates to Gut, Helps Colorectal Tumors Grow](https://www.genengnews.com/topics/cancer/oral-bacterium-migrates-to-gut-helps-colorectal-tumors-grow/)
