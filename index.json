@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-21, 09:02:00",
-      "https://news.ycombinator.com/item?id=39776238"
-    ],
-    [
-      "End the Phone-Based Childhood Now",
-      "https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 08:57:17",
       "https://news.ycombinator.com/item?id=39776199"
     ],
@@ -87,16 +77,6 @@
     [
       "Red Hat to author new Linux driver for Nvidia GPUs in Rust",
       "https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 21:16:19",
-      "https://news.ycombinator.com/item?id=39772130"
-    ],
-    [
-      "The Nerfed FPU in PS5's Zen 2 Cores",
-      "https://chipsandcheese.com/2024/03/20/the-nerfed-fpu-in-ps5s-zen-2-cores/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-03-20, 13:32:41",
+      "https://news.ycombinator.com/item?id=39766222"
+    ],
+    [
+      "So you think you want to write a deterministic hypervisor?",
+      "https://antithesis.com/blog/deterministic_hypervisor/"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 12:51:35",
       "https://news.ycombinator.com/item?id=39765718"
     ],
@@ -237,6 +227,16 @@
     [
       "Bug hunting in Btrfs",
       "https://tavianator.com/2024/btrfs_bug.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 12:42:16",
+      "https://news.ycombinator.com/item?id=39765630"
+    ],
+    [
+      "Lcl.host: fast, easy HTTPS in your local dev environment",
+      "https://anchor.dev/blog/introducing-lcl-host"
     ]
   ],
   [
