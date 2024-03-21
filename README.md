@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-21, 19:38:21](https://news.ycombinator.com/item?id=39783387) - [AMD FSR 3.1 Announced at GDC 2024](https://community.amd.com:443/t5/gaming/amd-fsr-3-1-announced-at-gdc-2024-fsr-3-available-and-upcoming/ba-p/674027)
+* [2024-03-21, 19:25:10](https://news.ycombinator.com/item?id=39783223) - [Show HN: Memories, FOSS Google Photos alternative built for high performance](https://memories.gallery/)
 * [2024-03-21, 19:04:53](https://news.ycombinator.com/item?id=39782975) - [OpenSplat – 3D gaussian splatting in C++ with CPU and GPU support](https://github.com/pierotofy/OpenSplat)
-* [2024-03-21, 19:00:21](https://news.ycombinator.com/item?id=39782923) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
 * [2024-03-21, 18:56:21](https://news.ycombinator.com/item?id=39782876) - [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
 * [2024-03-21, 18:09:18](https://news.ycombinator.com/item?id=39782213) - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
+* [2024-03-21, 17:11:24](https://news.ycombinator.com/item?id=39781418) - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
 * [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
 * [2024-03-21, 15:48:16](https://news.ycombinator.com/item?id=39780114) - [Show HN: Ragas – Open-source library for evaluating RAG pipelines](https://github.com/explodinggradients/ragas)
 * [2024-03-21, 14:57:56](https://news.ycombinator.com/item?id=39779291) - [Hackers found a way to open any of 3M hotel keycard locks in seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
