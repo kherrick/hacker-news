@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 09:35:55](https://news.ycombinator.com/item?id=39776473) - [Justice Department to Sue Apple for Antitrust Violations as Soon as Thursday](https://twitter.com/tomwarren/status/1770580778251870295)
 * [2024-03-21, 09:11:37](https://news.ycombinator.com/item?id=39776293) - [The London office where swinging pendulums keep cyber threats at bay](https://www.ianvisits.co.uk/articles/inside-the-london-office-where-swinging-pendulums-keep-cyber-threats-at-bay-71054/)
 * [2024-03-21, 09:00:37](https://news.ycombinator.com/item?id=39776228) - [Reddit CEO defends $193M compensation following backlash from unpaid moderators](https://fortune.com/2024/03/19/reddit-ceo-steve-huffman-defends-193-million-compensation-following-backlash-unpaid-moderators/)
 * [2024-03-21, 06:12:04](https://news.ycombinator.com/item?id=39775332) - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
@@ -28,7 +29,6 @@
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand wins Abel Prize for work wrangling randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-20, 01:59:14](https://news.ycombinator.com/item?id=39762249) - [The Photo Behind the Iconic Columbia Pictures 'Torch Lady' Logo (2022)](https://petapixel.com/2022/02/20/the-photo-behind-the-iconic-columbia-pictures-torch-lady-logo/)
 * [2024-03-19, 04:32:21](https://news.ycombinator.com/item?id=39752962) - [Painting by Roman Numerals](https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting)
-* [2024-03-18, 19:21:48](https://news.ycombinator.com/item?id=39748761) - [Hitting the Jackpot: The Birth of the Monte Carlo Method (2023)](https://discover.lanl.gov/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method/)
 * [2024-03-17, 10:41:54](https://news.ycombinator.com/item?id=39733408) - [Got my ultimate retro KVM setup working](https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/)
 
 ## [Archives](archives/index.md)
