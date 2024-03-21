@@ -3,7 +3,7 @@
 * [2024-03-21, 03:24:36](https://news.ycombinator.com/item?id=39774638) - [Guiding Principles for the Mormon Church's Use of AI](https://newsroom.churchofjesuschrist.org/article/church-jesus-christ-artificial-intelligence)
 * [2024-03-21, 02:10:23](https://news.ycombinator.com/item?id=39774253) - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
-* [2024-03-20, 23:03:06](https://news.ycombinator.com/item?id=39773072) - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
+* [2024-03-21, 00:02:08](https://news.ycombinator.com/item?id=39773496) - [FBI sent several informants to Standing Rock protests, court documents show](https://grist.org/indigenous/fbi-informant-standing-rock-protest-court-documents-surveillance/)
 * [2024-03-20, 22:49:40](https://news.ycombinator.com/item?id=39772968) - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 * [2024-03-20, 21:58:30](https://news.ycombinator.com/item?id=39772485) - [Show HN: Personal Knowledge Base Visualization](https://github.com/raphaelsty/knowledge)
 * [2024-03-20, 21:56:34](https://news.ycombinator.com/item?id=39772468) - [Valve Built An Orb: The making of the Steam Deck OLED launch trailer](https://store.steampowered.com/news/app/593110/view/4118051100641390121)

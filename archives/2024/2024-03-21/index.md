@@ -16,3 +16,4 @@
 * [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 * [2024-03-21, 00:10:11](https://news.ycombinator.com/item?id=39773561) - [Electric car battery prices are going back down faster than expected](https://electrek.co/2023/11/20/electric-car-battery-prices-are-going-back-down-faster/)
 * [2024-03-21, 00:09:34](https://news.ycombinator.com/item?id=39773556) - [Kids are not okay. New data shows Canadians under-30 'unhappy'](https://globalnews.ca/news/10372813/canada-world-happiness-report-2024/)
+* [2024-03-21, 00:02:08](https://news.ycombinator.com/item?id=39773496) - [FBI sent several informants to Standing Rock protests, court documents show](https://grist.org/indigenous/fbi-informant-standing-rock-protest-court-documents-surveillance/)
