@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-21, 17:38:23",
+      "https://news.ycombinator.com/item?id=39781816"
+    ],
+    [
+      "Change license from BSD-3 to dual RSALv2+SSPLv1",
+      "https://github.com/redis/redis/pull/13157"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 17:00:39",
       "https://news.ycombinator.com/item?id=39781248"
     ],
@@ -287,16 +297,6 @@
     [
       "Intel to Receive $8.5B in Grants to Build Chip Plants",
       "https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 00:38:25",
-      "https://news.ycombinator.com/item?id=39739404"
-    ],
-    [
-      "Porsche's Active Suspension",
-      "https://www.motor1.com/features/712424/porsche-active-ride/"
     ]
   ]
 ]
