@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-21, 19:43:05",
-      "https://news.ycombinator.com/item?id=39783444"
+      "2024-03-21, 19:40:16",
+      "https://news.ycombinator.com/item?id=39783413"
     ],
     [
-      "Nintendo emulator 'Suyu' removed from Gitlab following DMCA request",
-      "https://overkill.wtf/suyu-emulator-removed-from-gitlab/"
+      "Senators push to declassify TikTok Intel, hold public hearing ahead of ban vote",
+      "https://text.npr.org/1239691465"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-03-19, 00:42:51",
+      "https://news.ycombinator.com/item?id=39751801"
+    ],
+    [
+      "Highrises",
+      "https://highrises.hythacg.com"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 07:04:26",
       "https://news.ycombinator.com/item?id=39741096"
     ],
     [
       "Disk write buffering and its interactions with write flushes",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 06:01:16",
-      "https://news.ycombinator.com/item?id=39740835"
-    ],
-    [
-      "Three ways to improve parallelized tests",
-      "https://www.qawolf.com//blog/principles-for-writing-parallizable-tests"
     ]
   ]
 ]
