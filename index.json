@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-21, 00:51:23",
-      "https://news.ycombinator.com/item?id=39773815"
-    ],
-    [
-      "72% of U.S. Teens Feel Peaceful Without Smartphones.",
-      "https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 00:21:49",
       "https://news.ycombinator.com/item?id=39773641"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=39773561"
     ],
     [
-      "Electric car battery prices are going back down faster than expected",
+      "Electric car battery prices are going back down faster than expected (2023)",
       "https://electrek.co/2023/11/20/electric-car-battery-prices-are-going-back-down-faster/"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "Valve Built An Orb: The making of the Steam Deck OLED launch trailer",
       "https://store.steampowered.com/news/app/593110/view/4118051100641390121"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 21:49:54",
+      "https://news.ycombinator.com/item?id=39772409"
+    ],
+    [
+      "Red Hat to Author New Linux Driver for Nvidia GPUs in Rust",
+      "https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer",
       "https://www.qamcom.com/look-into-qamcoms-research-on-5g/"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 17:34:58",
+      "https://news.ycombinator.com/item?id=39769708"
+    ],
+    [
+      "OpenAI's chatbot store is filling up with spam",
+      "https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2024-03-20, 13:29:02",
+      "https://news.ycombinator.com/item?id=39766170"
+    ],
+    [
+      "The Google employees who created transformers",
+      "https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 12:51:35",
       "https://news.ycombinator.com/item?id=39765718"
     ],
@@ -241,22 +261,12 @@
   ],
   [
     [
-      "2024-03-20, 11:20:26",
-      "https://news.ycombinator.com/item?id=39764992"
+      "2024-03-20, 06:45:26",
+      "https://news.ycombinator.com/item?id=39763458"
     ],
     [
-      "Indonesia's e-bike shops are building their own batteries",
-      "https://restofworld.org/2024/homemade-ebike-battery-indonesia/"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 11:12:39",
-      "https://news.ycombinator.com/item?id=39764954"
-    ],
-    [
-      "Michel Talagrand wins Abel Prize for work wrangling randomness",
-      "https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/"
+      "Space Shuttle teleprinter reverse engineering",
+      "https://twitter.com/kenshirriff/status/1770188240777044079"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Painting by Roman Numerals",
       "https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 18:34:42",
-      "https://news.ycombinator.com/item?id=39748155"
-    ],
-    [
-      "Goto Is Not a Horror",
-      "https://jerf.org/iri/post/2024/goto/"
     ]
   ],
   [
