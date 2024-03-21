@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 13:22:39](https://news.ycombinator.com/item?id=39778217) - [Hyperscript](https://hyperscript.org/)
+* [2024-03-21, 13:11:22](https://news.ycombinator.com/item?id=39778086) - [You've Been Thinking About Inflation All Wrong (2022)](https://ofdollarsanddata.com/youve-been-thinking-about-inflation-all-wrong/)
+* [2024-03-21, 13:06:56](https://news.ycombinator.com/item?id=39778040) - [My 2024 Setup](https://nullonerror.org/2024/03/20/my-2024-setup/)
 * [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 12:50:52](https://news.ycombinator.com/item?id=39777896) - [Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)
-* [2024-03-21, 12:35:20](https://news.ycombinator.com/item?id=39777746) - [Response from Flipper Zero to the Canada Ban](https://twitter.com/flipper_zero/status/1770459769452589468)
 * [2024-03-21, 12:31:43](https://news.ycombinator.com/item?id=39777712) - [CDC sharply overestimates maternal death rate, new study finds](https://www.eurekalert.org/news-releases/1037372)
 * [2024-03-21, 12:28:04](https://news.ycombinator.com/item?id=39777666) - [ExFAT Driver Boasts Much Faster \"Dirsync\" Performance with Linux 6.9](https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
@@ -20,7 +22,6 @@
 * [2024-03-20, 21:01:11](https://news.ycombinator.com/item?id=39771983) - [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
 * [2024-03-20, 20:56:41](https://news.ycombinator.com/item?id=39771925) - [Crookes Radiometer](https://en.wikipedia.org/wiki/Crookes_radiometer)
 * [2024-03-20, 20:40:11](https://news.ycombinator.com/item?id=39771754) - [Jim Ward has died](https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72)
-* [2024-03-20, 19:23:11](https://news.ycombinator.com/item?id=39770908) - [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
 * [2024-03-20, 17:13:07](https://news.ycombinator.com/item?id=39769412) - [Launch HN: CamelQA (YC W24) – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
 * [2024-03-20, 16:31:14](https://news.ycombinator.com/item?id=39768860) - [Suspicious discontinuities (2020)](https://danluu.com/discontinuities/)
 * [2024-03-20, 16:15:03](https://news.ycombinator.com/item?id=39768604) - [Parrots love playing tablet games. That's helping researchers understand them](https://news.northeastern.edu/2024/03/20/parrots-playing-tablet-games/)
@@ -28,7 +29,6 @@
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
-* [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand wins Abel Prize for work wrangling randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-19, 04:32:21](https://news.ycombinator.com/item?id=39752962) - [Painting by Roman Numerals](https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 13:22:39](https://news.ycombinator.com/item?id=39778217) - [Hyperscript](https://hyperscript.org/)
+* [2024-03-21, 13:11:22](https://news.ycombinator.com/item?id=39778086) - [You've Been Thinking About Inflation All Wrong (2022)](https://ofdollarsanddata.com/youve-been-thinking-about-inflation-all-wrong/)
+* [2024-03-21, 13:06:56](https://news.ycombinator.com/item?id=39778040) - [My 2024 Setup](https://nullonerror.org/2024/03/20/my-2024-setup/)
 * [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 12:50:52](https://news.ycombinator.com/item?id=39777896) - [Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)
 * [2024-03-21, 12:45:03](https://news.ycombinator.com/item?id=39777837) - [List of formerly open-source or free software](https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software)
