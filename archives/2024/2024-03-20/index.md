@@ -18,6 +18,7 @@
 * [2024-03-20, 21:37:33](https://news.ycombinator.com/item?id=39772295) - [Neuralink patient controls games by thinking during interview](https://twitter.com/neuralink/status/1770563939413496146)
 * [2024-03-20, 21:16:19](https://news.ycombinator.com/item?id=39772130) - [The Nerfed FPU in PS5's Zen 2 Cores](https://chipsandcheese.com/2024/03/20/the-nerfed-fpu-in-ps5s-zen-2-cores/)
 * [2024-03-20, 21:01:11](https://news.ycombinator.com/item?id=39771983) - [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
+* [2024-03-20, 20:56:41](https://news.ycombinator.com/item?id=39771925) - [Crookes Radiometer](https://en.wikipedia.org/wiki/Crookes_radiometer)
 * [2024-03-20, 20:47:35](https://news.ycombinator.com/item?id=39771822) - [Apple could be in trouble over security warnings, as well as Core Technology Fee](https://9to5mac.com/2024/03/20/core-technology-fee-and-security-warnings/)
 * [2024-03-20, 20:40:11](https://news.ycombinator.com/item?id=39771754) - [Jim Ward Has Died](https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72)
 * [2024-03-20, 20:38:21](https://news.ycombinator.com/item?id=39771742) - [Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)

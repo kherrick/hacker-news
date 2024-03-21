@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 12:45:03](https://news.ycombinator.com/item?id=39777837) - [List of formerly open-source or free software](https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software)
+* [2024-03-21, 12:35:39](https://news.ycombinator.com/item?id=39777752) - [Glassdoor added real names to supposedly anonymous profiles](https://www.techradar.com/pro/glassdoor-added-real-names-to-supposedly-anonymous-profiles)
 * [2024-03-21, 12:35:35](https://news.ycombinator.com/item?id=39777751) - [US submits draft UN resolution for \"immediate cease-fire,\" in Gaza](https://www.msn.com/en-us/news/world/us-submits-draft-un-resolution-for-immediate-cease-fire-blinken-says/ar-BB1kh9uQ)
 * [2024-03-21, 12:35:20](https://news.ycombinator.com/item?id=39777746) - [Response from Flipper Zero to the Canada Ban](https://twitter.com/flipper_zero/status/1770459769452589468)
+* [2024-03-21, 12:33:14](https://news.ycombinator.com/item?id=39777725) - [SUSE Upgrades Its Rancher Kubernetes Management Family](https://thenewstack.io/suse-upgrades-its-rancher-kubernetes-management-family/)
+* [2024-03-21, 12:28:04](https://news.ycombinator.com/item?id=39777666) - [ExFAT Driver Boasts Much Faster \"Dirsync\" Performance with Linux 6.9](https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
 * [2024-03-21, 12:00:20](https://news.ycombinator.com/item?id=39777449) - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
 * [2024-03-21, 11:57:50](https://news.ycombinator.com/item?id=39777429) - [Scotland's Hate Speech Act and Abuse of Process](https://www.craigmurray.org.uk/archives/2024/03/scotlands-hate-speech-act-and-abuse-of-process/)
 * [2024-03-21, 11:35:53](https://news.ycombinator.com/item?id=39777267) - [Google: Angular and Wiz Are Merging](https://twitter.com/sarah_edo/status/1770478763253379488)
 * [2024-03-21, 11:35:53](https://news.ycombinator.com/item?id=39777266) - [Fossil fuel firms could be tried for homicide](https://www.theguardian.com/us-news/2024/mar/21/fossil-fuel-companies-homicide-climate-deaths-lawsuit)
+* [2024-03-21, 11:32:59](https://news.ycombinator.com/item?id=39777250) - [Spaced repetition can lower stakes of destructive inbox-maintenance operations](https://notes.andymatuschak.org/Spaced_repetition_can_lower_the_stakes_around_destructive_inbox-maintenance_operations)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 11:28:45](https://news.ycombinator.com/item?id=39777223) - [Ask HN: How to onboard yourself to a new product/industry in a new job?](https://news.ycombinator.com/item?id=39777223)
 * [2024-03-21, 10:59:35](https://news.ycombinator.com/item?id=39777038) - [Biden administration to forgive $5.8B student debt for 78,000 borrowers](https://www.cnbc.com/2024/03/21/biden-to-forgive-5point8-billion-in-student-debt-for-nearly-78000-borrowers.html)
