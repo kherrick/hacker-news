@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 14:57:56](https://news.ycombinator.com/item?id=39779291) - [Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
+* [2024-03-21, 14:39:24](https://news.ycombinator.com/item?id=39779024) - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. Sues Apple, Accusing It of Maintaining an iPhone Monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 14:34:47](https://news.ycombinator.com/item?id=39778961) - ['Gen X has had to learn or die': Mid-career workers facing ageism in job market](https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism)
 * [2024-03-21, 14:14:41](https://news.ycombinator.com/item?id=39778751) - [Daily Maps of GPS Interference](https://gpsjam.org/)
