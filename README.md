@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-21, 14:57:56](https://news.ycombinator.com/item?id=39779291) - [Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
+* [2024-03-21, 14:51:18](https://news.ycombinator.com/item?id=39779195) - [GoFetch: New side-channel attack using data memory-dependent prefetchers](https://gofetch.fail)
 * [2024-03-21, 14:39:24](https://news.ycombinator.com/item?id=39779024) - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 14:14:41](https://news.ycombinator.com/item?id=39778751) - [Daily Maps of GPS Interference](https://gpsjam.org/)
@@ -12,7 +13,6 @@
 * [2024-03-21, 13:37:45](https://news.ycombinator.com/item?id=39778372) - [UnitedHealth Group has paid more than $2B to providers following cyberattack](https://www.aol.com/news/unitedhealth-group-paid-more-2-125226015.html)
 * [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 12:50:52](https://news.ycombinator.com/item?id=39777896) - [Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)
-* [2024-03-21, 12:28:04](https://news.ycombinator.com/item?id=39777666) - [ExFAT Driver Boasts Much Faster \"Dirsync\" Performance with Linux 6.9](https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
 * [2024-03-21, 12:00:20](https://news.ycombinator.com/item?id=39777449) - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
