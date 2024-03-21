@@ -21,6 +21,7 @@
 * [2024-03-20, 20:38:21](https://news.ycombinator.com/item?id=39771742) - [Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 * [2024-03-20, 20:23:37](https://news.ycombinator.com/item?id=39771596) - [Texas schools fund pulls $8.5B from BlackRock over ESG investing](https://www.reuters.com/sustainability/sustainable-finance-reporting/texas-schools-fund-pulls-85-billion-blackrock-over-esg-policies-2024-03-19/)
 * [2024-03-20, 20:11:02](https://news.ycombinator.com/item?id=39771446) - [The Starship or the Canoe: Where Will Our Future Adaptations Be?](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
+* [2024-03-20, 19:25:38](https://news.ycombinator.com/item?id=39770941) - [First use of ammonia as marine fuel in a vessel](https://fortescue.com/news-and-media/news/2024/03/15/world-s-first-use-of-ammonia-as-a-marine-fuel-in-a-dual-fueled-ammonia-powered-vessel-in-the-port-of-singapore)
 * [2024-03-20, 19:23:11](https://news.ycombinator.com/item?id=39770908) - [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
 * [2024-03-20, 19:07:03](https://news.ycombinator.com/item?id=39770712) - [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)
 * [2024-03-20, 18:44:58](https://news.ycombinator.com/item?id=39770467) - [The C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)

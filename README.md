@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-21, 04:31:48](https://news.ycombinator.com/item?id=39774903) - [Return to Office Is a Mistake](https://www.infoworld.com/article/3714660/return-to-office-is-a-mistake.html)
-* [2024-03-21, 03:19:59](https://news.ycombinator.com/item?id=39774613) - [.NET Smart Components](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/)
 * [2024-03-21, 02:10:23](https://news.ycombinator.com/item?id=39774253) - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 * [2024-03-20, 23:03:06](https://news.ycombinator.com/item?id=39773072) - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
@@ -13,6 +12,7 @@
 * [2024-03-20, 21:01:11](https://news.ycombinator.com/item?id=39771983) - [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
 * [2024-03-20, 20:40:11](https://news.ycombinator.com/item?id=39771754) - [Jim Ward Has Died](https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72)
 * [2024-03-20, 20:11:02](https://news.ycombinator.com/item?id=39771446) - [The Starship or the Canoe: Where Will Our Future Adaptations Be? (2017)](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
+* [2024-03-20, 19:25:38](https://news.ycombinator.com/item?id=39770941) - [First use of ammonia as marine fuel in a vessel](https://fortescue.com/news-and-media/news/2024/03/15/world-s-first-use-of-ammonia-as-a-marine-fuel-in-a-dual-fueled-ammonia-powered-vessel-in-the-port-of-singapore)
 * [2024-03-20, 19:23:11](https://news.ycombinator.com/item?id=39770908) - [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
 * [2024-03-20, 18:24:31](https://news.ycombinator.com/item?id=39770249) - [5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer](https://www.qamcom.com/look-into-qamcoms-research-on-5g/)
 * [2024-03-20, 17:34:58](https://news.ycombinator.com/item?id=39769708) - [OpenAI's chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
