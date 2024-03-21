@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
 * [2024-03-21, 18:56:21](https://news.ycombinator.com/item?id=39782876) - [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
+* [2024-03-21, 18:45:14](https://news.ycombinator.com/item?id=39782711) - [SBF repeatedly lied to get out of \"supervillain\" prison term, FTX CEO alleges](https://arstechnica.com/tech-policy/2024/03/ftx-chief-lays-out-all-the-ways-sbf-sucks-in-detailed-court-filing/)
 * [2024-03-21, 18:13:51](https://news.ycombinator.com/item?id=39782278) - [Things That Don't Work](https://dynomight.substack.com/p/things)
 * [2024-03-21, 18:09:18](https://news.ycombinator.com/item?id=39782213) - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
 * [2024-03-21, 18:04:53](https://news.ycombinator.com/item?id=39782164) - [Am I Flying Boeing?](https://www.amiflyingonaboeing.com/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-21, 18:56:21](https://news.ycombinator.com/item?id=39782876) - [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
+* [2024-03-21, 18:45:14](https://news.ycombinator.com/item?id=39782711) - [SBF repeatedly lied to get out of \"supervillain\" prison term, FTX CEO alleges](https://arstechnica.com/tech-policy/2024/03/ftx-chief-lays-out-all-the-ways-sbf-sucks-in-detailed-court-filing/)
 * [2024-03-21, 18:09:18](https://news.ycombinator.com/item?id=39782213) - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
 * [2024-03-21, 17:11:24](https://news.ycombinator.com/item?id=39781418) - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
 * [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
@@ -14,7 +15,6 @@
 * [2024-03-21, 13:50:26](https://news.ycombinator.com/item?id=39778486) - [What is a pig butchering scam? (2023)](https://www.wired.com/story/what-is-pig-butchering-scam/)
 * [2024-03-21, 13:42:55](https://news.ycombinator.com/item?id=39778415) - [Surgeons transplant pig kidney into a patient](https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html)
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
-* [2024-03-21, 13:37:45](https://news.ycombinator.com/item?id=39778372) - [UnitedHealth Group has paid more than $2B to providers following cyberattack](https://www.aol.com/news/unitedhealth-group-paid-more-2-125226015.html)
 * [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 12:50:52](https://news.ycombinator.com/item?id=39777896) - [Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
@@ -27,7 +27,7 @@
 * [2024-03-20, 20:56:41](https://news.ycombinator.com/item?id=39771925) - [Crookes Radiometer](https://en.wikipedia.org/wiki/Crookes_radiometer)
 * [2024-03-20, 20:52:59](https://news.ycombinator.com/item?id=39771878) - [Array Languages: R vs. APL](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-19, 12:39:46](https://news.ycombinator.com/item?id=39755089) - [Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
-* [2024-03-18, 13:36:38](https://news.ycombinator.com/item?id=39744289) - [After five years I discovered why my network goes down (2020)](https://community.wd.com/t/after-five-years-i-finally-discovered-why-my-network-goes-down/245823)
+* [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 * [2024-03-18, 07:04:26](https://news.ycombinator.com/item?id=39741096) - [Disk write buffering and its interactions with write flushes](https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs)
 * [2024-03-18, 06:01:16](https://news.ycombinator.com/item?id=39740835) - [Three ways to improve parallelized tests](https://www.qawolf.com//blog/principles-for-writing-parallizable-tests)
 

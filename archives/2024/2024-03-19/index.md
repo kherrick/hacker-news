@@ -81,6 +81,7 @@
 * [2024-03-19, 12:22:34](https://news.ycombinator.com/item?id=39754992) - [Dell Says Remote Employees Won't Be Eligible for Promotions: Report](https://gizmodo.com/dell-remote-employees-eligible-promotions-1851347699)
 * [2024-03-19, 12:10:15](https://news.ycombinator.com/item?id=39754926) - [Try / Ripgrep in Y Minutes](https://codapi.org/try/ripgrep/)
 * [2024-03-19, 12:07:47](https://news.ycombinator.com/item?id=39754906) - [Titanfall is still EA's most innovative shooter ten years later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
+* [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 * [2024-03-19, 11:44:20](https://news.ycombinator.com/item?id=39754770) - [Build System Schism: The Curse of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
 * [2024-03-19, 11:22:37](https://news.ycombinator.com/item?id=39754651) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
