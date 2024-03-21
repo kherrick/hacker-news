@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-20, 23:11:33](https://news.ycombinator.com/item?id=39773137) - [America's Rental-Market Mystery](https://www.economist.com/finance-and-economics/2024/03/07/americas-rental-market-mystery)
+* [2024-03-21, 00:22:56](https://news.ycombinator.com/item?id=39773648) - [Is the Job Market Dying?](https://rachdele.substack.com/p/is-the-job-market-dying)
+* [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 * [2024-03-20, 23:03:06](https://news.ycombinator.com/item?id=39773072) - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
 * [2024-03-20, 22:49:40](https://news.ycombinator.com/item?id=39772968) - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 * [2024-03-20, 22:07:28](https://news.ycombinator.com/item?id=39772573) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
@@ -26,8 +27,7 @@
 * [2024-03-20, 12:42:16](https://news.ycombinator.com/item?id=39765630) - [Lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-20, 11:20:26](https://news.ycombinator.com/item?id=39764992) - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand wins Abel Prize for work wrangling randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
-* [2024-03-18, 17:37:00](https://news.ycombinator.com/item?id=39747389) - [100TB benchmarks for GPU native data processing on 5TB of RAM](https://voltrondata.com/benchmarks/theseus)
-* [2024-03-18, 14:51:40](https://news.ycombinator.com/item?id=39745365) - [Encyclopaedia Britannica Seeking $1B Valuation in IPO](https://www.bloomberg.com/news/articles/2024-03-18/encyclopaedia-britannica-seeking-1-billion-valuation-in-ipo)
+* [2024-03-20, 06:45:26](https://news.ycombinator.com/item?id=39763458) - [Space Shuttle teleprinter reverse engineering](https://twitter.com/kenshirriff/status/1770188240777044079)
 * [2024-03-17, 12:41:48](https://news.ycombinator.com/item?id=39734094) - [Eclipse Tracks](https://eclipsetracks.org/)
 * [2024-03-17, 10:41:54](https://news.ycombinator.com/item?id=39733408) - [Got my ultimate retro KVM setup working](https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/)
 
