@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-21, 21:43:09](https://news.ycombinator.com/item?id=39784756) - [How Taiwan Became Arrakis](https://deepintothemundane.substack.com/p/how-taiwan-became-arrakis)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
 * [2024-03-21, 21:00:41](https://news.ycombinator.com/item?id=39784349) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-03-21, 20:43:03](https://news.ycombinator.com/item?id=39784148) - [A type of bacteria that causes dental plaque was found in 50% of colon cancers](https://www.nbcnews.com/health/cancer/aggressive-colon-cancer-newly-identified-bacteria-found-half-tumors-ma-rcna144164)
@@ -22,6 +21,7 @@
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 10:16:01](https://news.ycombinator.com/item?id=39776745) - [HiddenVM – Use any desktop OS without leaving a trace](https://github.com/aforensics/HiddenVM)
+* [2024-03-21, 09:08:52](https://news.ycombinator.com/item?id=39776274) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 * [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-20, 20:56:41](https://news.ycombinator.com/item?id=39771925) - [Crookes Radiometer](https://en.wikipedia.org/wiki/Crookes_radiometer)
