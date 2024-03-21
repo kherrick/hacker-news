@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 19:43:05](https://news.ycombinator.com/item?id=39783444) - [Nintendo emulator 'Suyu' removed from Gitlab following DMCA request](https://overkill.wtf/suyu-emulator-removed-from-gitlab/)
 * [2024-03-21, 19:38:21](https://news.ycombinator.com/item?id=39783387) - [AMD FSR 3.1 Announced at GDC 2024](https://community.amd.com:443/t5/gaming/amd-fsr-3-1-announced-at-gdc-2024-fsr-3-available-and-upcoming/ba-p/674027)
 * [2024-03-21, 19:25:10](https://news.ycombinator.com/item?id=39783223) - [Show HN: Memories, FOSS Google Photos alternative built for high performance](https://memories.gallery/)
 * [2024-03-21, 19:04:53](https://news.ycombinator.com/item?id=39782975) - [OpenSplat – 3D gaussian splatting in C++ with CPU and GPU support](https://github.com/pierotofy/OpenSplat)
