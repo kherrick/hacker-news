@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 17:38:23](https://news.ycombinator.com/item?id=39781816) - [Change license from BSD-3 to dual RSALv2+SSPLv1](https://github.com/redis/redis/pull/13157)
 * [2024-03-21, 17:11:24](https://news.ycombinator.com/item?id=39781418) - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
 * [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing Engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
 * [2024-03-21, 16:46:29](https://news.ycombinator.com/item?id=39781031) - [User reports metallic taste in mouth when using laptop](https://forums.macrumors.com/threads/weird-taste-in-mouth-when-using-midnight-13-m3-air.2422177/)

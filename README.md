@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 17:38:23](https://news.ycombinator.com/item?id=39781816) - [Change license from BSD-3 to dual RSALv2+SSPLv1](https://github.com/redis/redis/pull/13157)
 * [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
 * [2024-03-21, 15:58:32](https://news.ycombinator.com/item?id=39780284) - [VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0)
 * [2024-03-21, 15:48:16](https://news.ycombinator.com/item?id=39780114) - [Show HN: Ragas – Open-source library for evaluating RAG pipelines](https://github.com/explodinggradients/ragas)
@@ -29,7 +30,6 @@
 * [2024-03-20, 16:03:59](https://news.ycombinator.com/item?id=39768438) - [Google Scholar PDF Reader](https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
-* [2024-03-18, 00:38:25](https://news.ycombinator.com/item?id=39739404) - [Porsche's Active Suspension](https://www.motor1.com/features/712424/porsche-active-ride/)
 
 ## [Archives](archives/index.md)
 
