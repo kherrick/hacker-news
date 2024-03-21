@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing Engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
+* [2024-03-21, 16:46:29](https://news.ycombinator.com/item?id=39781031) - [User reports metallic taste in mouth when using laptop](https://forums.macrumors.com/threads/weird-taste-in-mouth-when-using-midnight-13-m3-air.2422177/)
 * [2024-03-21, 15:58:32](https://news.ycombinator.com/item?id=39780284) - [VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0)
 * [2024-03-21, 14:57:56](https://news.ycombinator.com/item?id=39779291) - [Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
 * [2024-03-21, 14:51:18](https://news.ycombinator.com/item?id=39779195) - [GoFetch: New side-channel attack using data memory-dependent prefetchers](https://gofetch.fail)
@@ -14,7 +16,6 @@
 * [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 12:50:52](https://news.ycombinator.com/item?id=39777896) - [Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
-* [2024-03-21, 12:00:20](https://news.ycombinator.com/item?id=39777449) - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 11:28:45](https://news.ycombinator.com/item?id=39777223) - [Ask HN: How to onboard yourself to a new product/industry in a new job?](https://news.ycombinator.com/item?id=39777223)
 * [2024-03-21, 10:16:01](https://news.ycombinator.com/item?id=39776745) - [HiddenVM – Use any desktop OS without leaving a trace](https://github.com/aforensics/HiddenVM)
@@ -23,7 +24,6 @@
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-21, 02:10:23](https://news.ycombinator.com/item?id=39774253) - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
-* [2024-03-20, 22:02:43](https://news.ycombinator.com/item?id=39772533) - [Sequential and parallel execution of long-running shell commands](https://github.com/Nukesor/pueue)
 * [2024-03-20, 20:56:41](https://news.ycombinator.com/item?id=39771925) - [Crookes Radiometer](https://en.wikipedia.org/wiki/Crookes_radiometer)
 * [2024-03-20, 16:31:14](https://news.ycombinator.com/item?id=39768860) - [Suspicious discontinuities (2020)](https://danluu.com/discontinuities/)
 * [2024-03-20, 16:03:59](https://news.ycombinator.com/item?id=39768438) - [Google Scholar PDF Reader](https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html)

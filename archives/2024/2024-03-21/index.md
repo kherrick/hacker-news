@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing Engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
+* [2024-03-21, 16:46:29](https://news.ycombinator.com/item?id=39781031) - [User reports metallic taste in mouth when using laptop](https://forums.macrumors.com/threads/weird-taste-in-mouth-when-using-midnight-13-m3-air.2422177/)
 * [2024-03-21, 16:16:38](https://news.ycombinator.com/item?id=39780581) - [Google Jamboard is winding down](https://support.google.com/jamboard/answer/14084927?hl=en)
 * [2024-03-21, 15:58:32](https://news.ycombinator.com/item?id=39780284) - [VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0)
 * [2024-03-21, 14:57:56](https://news.ycombinator.com/item?id=39779291) - [Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
