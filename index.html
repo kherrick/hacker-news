@@ -129,21 +129,146 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="39782033">
+        <section id="39782213">
           <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=LB8KwiiUGy0"
-              >Node.js: The Documentary [video]</a
+            <a class="item" href="https://soundry.ai/"
+              >Launch HN: Soundry AI (YC W24) – Music sample generator for music
+              creators</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-03-21 @ 17:54:47</span
+              <span>2024-03-21 @ 18:09:18</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39782033"
+                ><a href="https://news.ycombinator.com/item?id=39782213"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://soundry.ai/">https://soundry.ai/</a>). We provide
+              generative AI tools for musicians, including text-to-sound and
+              infinite sample packs.
+              <p>
+                We (Mark and Justin) started writing music together a few years
+                ago but felt limited in our ability to create anything that we
+                were proud of. Modern music production is highly technical and
+                requires knowledge of sound design, tracking, arrangement,
+                mixing, mastering, and digital signal processing. Even with our
+                technical backgrounds (in AI and cloud computing respectively),
+                we struggled to learn what we needed to know.
+              </p>
+              <p>
+                The emergence of latent diffusion models was a turning point for
+                us just like many others in tech. All of a sudden it was
+                possible to leverage AI to create beautiful art. After meeting
+                our cofounder Diandre (half of the DJ duo Bandlez and expert
+                music producer), we formed a team to apply generative AI to
+                music production.
+              </p>
+              <p>
+                We began by focusing on generating music samples rather than
+                full songs. Focusing on samples gave us several advantages, but
+                the biggest one was the ability to build and train our custom
+                models very quickly due to the small required length of the
+                generated audio (typically 2-10 seconds). Conveniently, our
+                early text-to-sample model also fit well within many existing
+                music producers’ workflows which often involve heavy use of
+                music samples.
+              </p>
+              <p>
+                We ran into several challenges when creating our text-to-sound
+                model. The first was that we began by training our latent
+                transformer (similar to Open AI’s Sora) using off-the-shelf
+                audio autoencoders (like Meta’s Encodec) and text embedders
+                (like Google’s T5). The domain gap between the data used to
+                train these off-the-shelf models and sample data was much
+                greater than we expected, which caused us to incorrectly
+                attribute blame for issues in the three model components (latent
+                transformer, autoencoder, and embedder) during development. To
+                see how musicians can use our text-to-sound generator to write
+                music, you can see our text-to-sound demo below:
+              </p>
+              <p>
+                <a
+                  href="https://www.youtube.com/watch?v=MT3k4VV5yrs&amp;ab_channel=SoundryAI"
+                  >https://www.youtube.com/watch?v=MT3k4VV5yrs&amp;ab_channel=Sound...</a
+                >
+              </p>
+              <p>
+                The second issue we experienced was more on the product design
+                side. When we spoke with our users in-depth we learned that
+                novice music producers had no idea what to type into the prompt
+                box, and expert music producers felt that our model’s output
+                wasn’t always what they had in mind when they typed in their
+                prompt. It turns out that text is much better at specifying the
+                contents of visual art than music. This particular issue is what
+                led us to our new product: the Infinite Sample Pack.
+              </p>
+              <p>
+                The Infinite Sample Pack does something rather unconventional:
+                prompting with audio rather than text. Rather than requiring you
+                to type out a prompt and specify many parameters, all you need
+                to do is click a button to receive new samples. Each time you
+                select a sound, our system embeds “prompt samples” as input to
+                our model which then creates infinite variations. By limiting
+                the number of possible outputs we’re able to hide inference
+                latency by pre-computing lots of samples ahead of time. This new
+                approach has seen much wider adoption and so this month we’ll be
+                opening the system up so that everyone can create Infinite
+                Sample Packs of their very own! To compare the workflow of the
+                two products, you can check out our new demo using the Infinite
+                Sample Pack:
+              </p>
+              <p>
+                <a
+                  href="https://www.youtube.com/watch?v=BqYhGipZCDY&amp;ab_channel=SoundryAI"
+                  >https://www.youtube.com/watch?v=BqYhGipZCDY&amp;ab_channel=Sound...</a
+                >
+              </p>
+              <p>
+                Overall, our founding principle is to start by asking the
+                question: "what do musicians actually want?" Meta's open
+                sourcing of MusicGen has resulted in many interchangeable
+                text-to-music products, but ours is embraced by musicians. By
+                constantly having an open dialog with our users we’ve been able
+                to satisfy many needs including the ability to specify BPM and
+                key, including one-shot instrument samples (so musicians can
+                write their own melodies), and adding drag-and-drop support for
+                digital audio workstations via our desktop app and VST. To hear
+                some of the awesome songs made with our product, take a listen
+                to our community showcases below!
+              </p>
+              <p>
+                <a
+                  href="https://soundcloud.com/soundry-ai/sets/community-showcases"
+                  >https://soundcloud.com/soundry-ai/sets/community-showcases</a
+                >
+              </p>
+              <p>
+                We hope you enjoy our tool, and look forward to discussion in
+                the comments
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="39782164">
+          <h3>
+            <a class="item" href="https://www.amiflyingonaboeing.com/"
+              >Am I Flying Boeing?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-21 @ 18:04:53</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39782164"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -262,11 +387,11 @@
             <h4>
               <span>2024-03-21 @ 15:58:32</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39780284"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -282,7 +407,7 @@
             <h4>
               <span>2024-03-21 @ 15:48:16</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39780114"
                   >Comments</a
@@ -365,11 +490,11 @@
             <h4>
               <span>2024-03-21 @ 14:57:56</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39779291"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -385,11 +510,11 @@
             <h4>
               <span>2024-03-21 @ 14:51:18</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39779195"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -404,7 +529,7 @@
             <h4>
               <span>2024-03-21 @ 14:39:24</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39779024"
                   >Comments</a
@@ -425,11 +550,11 @@
             <h4>
               <span>2024-03-21 @ 14:37:43</span
               ><span class="points-container"
-                >Points: <span class="points">991</span></span
+                >Points: <span class="points">1029</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39778999"
                   >Comments</a
-                ><span class="descendants">: 977</span></span
+                ><span class="descendants">: 1016</span></span
               >
             </h4>
           </section>
@@ -444,11 +569,11 @@
             <h4>
               <span>2024-03-21 @ 14:00:04</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39778590"
                   >Comments</a
-                ><span class="descendants">: 346</span></span
+                ><span class="descendants">: 353</span></span
               >
             </h4>
           </section>
@@ -463,7 +588,7 @@
             <h4>
               <span>2024-03-21 @ 13:58:31</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39778570"
                   >Comments</a
@@ -511,11 +636,11 @@
             <h4>
               <span>2024-03-21 @ 13:50:26</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39778486"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -532,11 +657,11 @@
             <h4>
               <span>2024-03-21 @ 13:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39778415"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -551,33 +676,11 @@
             <h4>
               <span>2024-03-21 @ 13:42:46</span
               ><span class="points-container"
-                >Points: <span class="points">343</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39778412"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39778372">
-          <h3>
-            <a
-              class="item"
-              href="https://www.aol.com/news/unitedhealth-group-paid-more-2-125226015.html"
-              >UnitedHealth Group has paid more than $2B to providers following
-              cyberattack</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-21 @ 13:37:45</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39778372"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -595,11 +698,11 @@
             <h4>
               <span>2024-03-21 @ 12:50:58</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39777898"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -614,7 +717,7 @@
             <h4>
               <span>2024-03-21 @ 12:50:52</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39777896"
                   >Comments</a
@@ -640,7 +743,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39777528"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -656,11 +759,11 @@
             <h4>
               <span>2024-03-21 @ 11:29:37</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">287</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39777229"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -676,11 +779,11 @@
             <h4>
               <span>2024-03-21 @ 11:28:45</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39777223"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
             <div class="text">
@@ -714,7 +817,7 @@
             <h4>
               <span>2024-03-21 @ 10:16:01</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39776745"
                   >Comments</a
@@ -735,11 +838,11 @@
             <h4>
               <span>2024-03-21 @ 09:08:52</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39776274"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -754,11 +857,11 @@
             <h4>
               <span>2024-03-21 @ 08:57:17</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39776199"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -773,11 +876,11 @@
             <h4>
               <span>2024-03-21 @ 06:08:40</span
               ><span class="points-container"
-                >Points: <span class="points">719</span></span
+                >Points: <span class="points">727</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39775304"
                   >Comments</a
-                ><span class="descendants">: 192</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
           </section>
@@ -794,11 +897,11 @@
             <h4>
               <span>2024-03-20 @ 22:06:01</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39772562"
                   >Comments</a
-                ><span class="descendants">: 440</span></span
+                ><span class="descendants">: 445</span></span
               >
             </h4>
           </section>
@@ -819,28 +922,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39771925"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39768434">
-          <h3>
-            <a
-              class="item"
-              href="https://www.flightradar24.com/blog/gps-jamming-map/"
-              >Flightradar24's new GPS jamming map</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-20 @ 16:03:21</span
-              ><span class="points-container"
-                >Points: <span class="points">893</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39768434"
-                  >Comments</a
-                ><span class="descendants">: 252</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -861,7 +943,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39755089"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -878,11 +960,32 @@
             <h4>
               <span>2024-03-18 @ 13:36:38</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39744289"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39741096">
+          <h3>
+            <a
+              class="item"
+              href="https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs"
+              >Disk write buffering and its interactions with write flushes</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-18 @ 07:04:26</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39741096"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
