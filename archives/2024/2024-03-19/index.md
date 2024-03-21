@@ -84,6 +84,7 @@
 * [2024-03-19, 12:07:47](https://news.ycombinator.com/item?id=39754906) - [Titanfall is still EA's most innovative shooter ten years later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 * [2024-03-19, 11:44:20](https://news.ycombinator.com/item?id=39754770) - [Build System Schism: The Curse of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
+* [2024-03-19, 11:23:56](https://news.ycombinator.com/item?id=39754660) - [Python farming as a flexible and efficient form of agricultural food security](https://www.nature.com/articles/s41598-024-54874-4)
 * [2024-03-19, 11:22:37](https://news.ycombinator.com/item?id=39754651) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
 * [2024-03-19, 10:48:16](https://news.ycombinator.com/item?id=39754461) - [ESA' Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
