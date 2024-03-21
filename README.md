@@ -2,6 +2,7 @@
 
 * [2024-03-21, 06:12:04](https://news.ycombinator.com/item?id=39775332) - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
+* [2024-03-21, 05:06:18](https://news.ycombinator.com/item?id=39775011) - [Ask HN: How is the Spotify app so bad?](https://news.ycombinator.com/item?id=39775011)
 * [2024-03-21, 02:10:23](https://news.ycombinator.com/item?id=39774253) - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2024-03-21, 00:21:49](https://news.ycombinator.com/item?id=39773641) - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 * [2024-03-20, 22:49:40](https://news.ycombinator.com/item?id=39772968) - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
@@ -23,7 +24,6 @@
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
 * [2024-03-20, 12:51:12](https://news.ycombinator.com/item?id=39765715) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
-* [2024-03-20, 12:42:16](https://news.ycombinator.com/item?id=39765630) - [Lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-20, 11:20:26](https://news.ycombinator.com/item?id=39764992) - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
 * [2024-03-20, 11:12:39](https://news.ycombinator.com/item?id=39764954) - [Michel Talagrand wins Abel Prize for work wrangling randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
 * [2024-03-20, 01:59:14](https://news.ycombinator.com/item?id=39762249) - [The Photo Behind the Iconic Columbia Pictures 'Torch Lady' Logo (2022)](https://petapixel.com/2022/02/20/the-photo-behind-the-iconic-columbia-pictures-torch-lady-logo/)
