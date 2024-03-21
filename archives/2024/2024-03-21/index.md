@@ -6,6 +6,7 @@
 
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. Sues Apple, Accusing It of Maintaining an iPhone Monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 14:34:47](https://news.ycombinator.com/item?id=39778961) - ['Gen X has had to learn or die': Mid-career workers facing ageism in job market](https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism)
+* [2024-03-21, 14:14:41](https://news.ycombinator.com/item?id=39778751) - [Daily Maps of GPS Interference](https://gpsjam.org/)
 * [2024-03-21, 14:00:04](https://news.ycombinator.com/item?id=39778590) - [The Reddits](https://www.ycombinator.com/blog/the-reddits)
 * [2024-03-21, 13:58:31](https://news.ycombinator.com/item?id=39778570) - [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
 * [2024-03-21, 13:50:26](https://news.ycombinator.com/item?id=39778486) - [What Is a Pig Butchering Scam? (2023)](https://www.wired.com/story/what-is-pig-butchering-scam/)

@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. Sues Apple, Accusing It of Maintaining an iPhone Monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
-* [2024-03-21, 14:34:47](https://news.ycombinator.com/item?id=39778961) - ['Gen X has had to learn or die': Mid-career workers facing ageism in job market](https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism)
-* [2024-03-21, 14:00:04](https://news.ycombinator.com/item?id=39778590) - [The Reddits](https://www.ycombinator.com/blog/the-reddits)
+* [2024-03-21, 14:14:41](https://news.ycombinator.com/item?id=39778751) - [Daily Maps of GPS Interference](https://gpsjam.org/)
 * [2024-03-21, 13:58:31](https://news.ycombinator.com/item?id=39778570) - [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
 * [2024-03-21, 13:50:26](https://news.ycombinator.com/item?id=39778486) - [What Is a Pig Butchering Scam? (2023)](https://www.wired.com/story/what-is-pig-butchering-scam/)
 * [2024-03-21, 13:42:55](https://news.ycombinator.com/item?id=39778415) - [Surgeons Transplant Pig Kidney into a Patient](https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html)
@@ -30,6 +29,7 @@
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-20, 14:16:52](https://news.ycombinator.com/item?id=39766893) - [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 12:51:35](https://news.ycombinator.com/item?id=39765718) - [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
+* [2024-03-19, 04:32:21](https://news.ycombinator.com/item?id=39752962) - [Painting by Roman Numerals](https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting)
 
 ## [Archives](archives/index.md)
 
