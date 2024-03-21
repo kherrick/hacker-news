@@ -47,6 +47,7 @@
 * [2024-03-19, 16:43:05](https://news.ycombinator.com/item?id=39757606) - [Northrop Grumman to Develop Concept for Lunar Railroad](https://news.northropgrumman.com/news/releases/northrop-grumman-to-develop-concept-for-lunar-railroad)
 * [2024-03-19, 16:26:03](https://news.ycombinator.com/item?id=39757421) - [The Steve Jobs Difference](https://atadistance.net/2024/03/19/the-steve-jobs-difference/)
 * [2024-03-19, 16:25:30](https://news.ycombinator.com/item?id=39757407) - [MacBook charger teardown: The surprising complexity inside Apple's power adapter](https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html)
+* [2024-03-19, 16:24:29](https://news.ycombinator.com/item?id=39757394) - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 * [2024-03-19, 16:23:08](https://news.ycombinator.com/item?id=39757368) - [The New Inflection](https://inflection.ai/the-new-inflection)
 * [2024-03-19, 16:20:43](https://news.ycombinator.com/item?id=39757330) - [Mustafa Suleyman of Inflection AI Joins Microsoft](https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/)
 * [2024-03-19, 16:16:13](https://news.ycombinator.com/item?id=39757280) - [Death in Harlem: James VanDerZee's Funerary Portraits (2014)](https://time.com/3807384/death-in-harlem-james-vanderzees-funerary-portraits/)
