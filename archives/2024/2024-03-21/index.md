@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 20:20:12](https://news.ycombinator.com/item?id=39783872) - [Feds Can Film Your Front Porch for 68 Days Without a Warrant, Says Court](https://jalopnik.com/feds-can-film-your-front-porch-without-warrant-1851356394)
+* [2024-03-21, 20:02:54](https://news.ycombinator.com/item?id=39783700) - [Oral Bacterium Migrates to Gut, Helps Colorectal Tumors Grow](https://www.genengnews.com/topics/cancer/oral-bacterium-migrates-to-gut-helps-colorectal-tumors-grow/)
 * [2024-03-21, 19:43:05](https://news.ycombinator.com/item?id=39783444) - [Nintendo emulator 'Suyu' removed from Gitlab following DMCA request](https://overkill.wtf/suyu-emulator-removed-from-gitlab/)
 * [2024-03-21, 19:40:16](https://news.ycombinator.com/item?id=39783413) - [Senators push to declassify TikTok Intel, hold public hearing ahead of ban vote](https://text.npr.org/1239691465)
 * [2024-03-21, 19:38:21](https://news.ycombinator.com/item?id=39783387) - [AMD FSR 3.1 Announced at GDC 2024](https://community.amd.com:443/t5/gaming/amd-fsr-3-1-announced-at-gdc-2024-fsr-3-available-and-upcoming/ba-p/674027)

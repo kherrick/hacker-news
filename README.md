@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-21, 19:40:16](https://news.ycombinator.com/item?id=39783413) - [Senators push to declassify TikTok Intel, hold public hearing ahead of ban vote](https://text.npr.org/1239691465)
+* [2024-03-21, 20:20:12](https://news.ycombinator.com/item?id=39783872) - [Feds Can Film Your Front Porch for 68 Days Without a Warrant, Says Court](https://jalopnik.com/feds-can-film-your-front-porch-without-warrant-1851356394)
+* [2024-03-21, 20:02:54](https://news.ycombinator.com/item?id=39783700) - [Oral Bacterium Migrates to Gut, Helps Colorectal Tumors Grow](https://www.genengnews.com/topics/cancer/oral-bacterium-migrates-to-gut-helps-colorectal-tumors-grow/)
 * [2024-03-21, 19:25:10](https://news.ycombinator.com/item?id=39783223) - [Show HN: Memories, FOSS Google Photos alternative built for high performance](https://memories.gallery/)
-* [2024-03-21, 19:04:53](https://news.ycombinator.com/item?id=39782975) - [OpenSplat – 3D gaussian splatting in C++ with CPU and GPU support](https://github.com/pierotofy/OpenSplat)
 * [2024-03-21, 18:56:21](https://news.ycombinator.com/item?id=39782876) - [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
 * [2024-03-21, 18:09:18](https://news.ycombinator.com/item?id=39782213) - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
 * [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
