@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-03-21, 10:25:27",
-      "https://news.ycombinator.com/item?id=39776806"
-    ],
-    [
-      "Declines in global fertility to transform global population patterns by 2100",
-      "https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 09:26:12",
-      "https://news.ycombinator.com/item?id=39776397"
-    ],
-    [
-      "On how I got my first ten customers",
-      "https://onlineornot.com/how-to-get-your-first-ten-customers"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 09:02:00",
       "https://news.ycombinator.com/item?id=39776238"
     ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-03-20, 13:32:41",
+      "https://news.ycombinator.com/item?id=39766222"
+    ],
+    [
+      "So you think you want to write a deterministic hypervisor?",
+      "https://antithesis.com/blog/deterministic_hypervisor/"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 12:51:35",
       "https://news.ycombinator.com/item?id=39765718"
     ],
@@ -237,6 +227,16 @@
     [
       "Bug hunting in Btrfs",
       "https://tavianator.com/2024/btrfs_bug.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 12:42:16",
+      "https://news.ycombinator.com/item?id=39765630"
+    ],
+    [
+      "Lcl.host: fast, easy HTTPS in your local dev environment",
+      "https://anchor.dev/blog/introducing-lcl-host"
     ]
   ],
   [
