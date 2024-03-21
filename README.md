@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-21, 23:27:28](https://news.ycombinator.com/item?id=39785660) - [FDA says marijuana has a legitimate medicinal purpose](https://www.abcactionnews.com/news/national/fda-says-marijuana-has-a-legitimate-medicinal-purpose)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
 * [2024-03-21, 21:00:41](https://news.ycombinator.com/item?id=39784349) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-03-21, 20:43:03](https://news.ycombinator.com/item?id=39784148) - [A type of bacteria that causes dental plaque was found in 50% of colon cancers](https://www.nbcnews.com/health/cancer/aggressive-colon-cancer-newly-identified-bacteria-found-half-tumors-ma-rcna144164)
@@ -15,7 +16,6 @@
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 14:00:04](https://news.ycombinator.com/item?id=39778590) - [The Reddits](https://www.ycombinator.com/blog/the-reddits)
 * [2024-03-21, 13:58:31](https://news.ycombinator.com/item?id=39778570) - [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
-* [2024-03-21, 13:42:55](https://news.ycombinator.com/item?id=39778415) - [Surgeons transplant pig kidney into a patient](https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html)
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
 * [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
