@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 21:00:41](https://news.ycombinator.com/item?id=39784349) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-03-21, 20:43:03](https://news.ycombinator.com/item?id=39784148) - [A type of bacteria that causes dental plaque was found in 50% of colon cancers](https://www.nbcnews.com/health/cancer/aggressive-colon-cancer-newly-identified-bacteria-found-half-tumors-ma-rcna144164)
 * [2024-03-21, 20:20:12](https://news.ycombinator.com/item?id=39783872) - [Feds Can Film Your Front Porch for 68 Days Without a Warrant, Says Court](https://jalopnik.com/feds-can-film-your-front-porch-without-warrant-1851356394)
 * [2024-03-21, 20:02:54](https://news.ycombinator.com/item?id=39783700) - [Oral Bacterium Migrates to Gut, Helps Colorectal Tumors Grow](https://www.genengnews.com/topics/cancer/oral-bacterium-migrates-to-gut-helps-colorectal-tumors-grow/)
 * [2024-03-21, 19:43:05](https://news.ycombinator.com/item?id=39783444) - [Nintendo emulator 'Suyu' removed from Gitlab following DMCA request](https://overkill.wtf/suyu-emulator-removed-from-gitlab/)
@@ -20,6 +22,7 @@
 * [2024-03-21, 18:04:53](https://news.ycombinator.com/item?id=39782164) - [Am I Flying Boeing?](https://www.amiflyingonaboeing.com/)
 * [2024-03-21, 17:54:47](https://news.ycombinator.com/item?id=39782033) - [Node.js: The Documentary [video]](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 * [2024-03-21, 17:38:23](https://news.ycombinator.com/item?id=39781816) - [Change license from BSD-3 to dual RSALv2+SSPLv1](https://github.com/redis/redis/pull/13157)
+* [2024-03-21, 17:35:39](https://news.ycombinator.com/item?id=39781776) - [Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant](https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/)
 * [2024-03-21, 17:11:24](https://news.ycombinator.com/item?id=39781418) - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
 * [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing Engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
 * [2024-03-21, 16:46:29](https://news.ycombinator.com/item?id=39781031) - [User reports metallic taste in mouth when using laptop](https://forums.macrumors.com/threads/weird-taste-in-mouth-when-using-midnight-13-m3-air.2422177/)
