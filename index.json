@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-03-22, 02:07:14",
+      "https://news.ycombinator.com/item?id=39786745"
+    ],
+    [
+      "UN: E-waste is growing 5x faster than it can be recycled",
+      "https://www.theregister.com/2024/03/21/ewaste_grows/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 01:50:47",
       "https://news.ycombinator.com/item?id=39786666"
     ],
     [
       "How Chain-of-Thought Reasoning Helps Neural Networks Compute",
       "https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 01:31:55",
+      "https://news.ycombinator.com/item?id=39786539"
+    ],
+    [
+      "Byte Magazine August 1980 – The Forth Language (2012)",
+      "https://archive.org/details/byte-magazine-1980-08/page/n7/mode/2up"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "A cargo ship's 'WindWing' sails saved it up to 12 tons of fuel per day",
       "https://www.ajot.com/news/a-cargo-ships-windwing-sails-saved-it-up-to-12-tons-of-fuel-per-day"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 23:49:30",
-      "https://news.ycombinator.com/item?id=39785833"
-    ],
-    [
-      "18F: CSS Coding Styleguide",
-      "https://guides.18f.gov/engineering/languages-runtimes/css/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Disk write buffering and its interactions with write flushes",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 19:15:04",
-      "https://news.ycombinator.com/item?id=39737123"
-    ],
-    [
-      "Verifying Hardware Security with RTL Simulation",
-      "https://semiengineering.com/verifying-hardware-security-with-rtl-simulation/"
     ]
   ]
 ]
