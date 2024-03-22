@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
+* [2024-03-22, 16:10:16](https://news.ycombinator.com/item?id=39792077) - [British Library hailed by UK cyber agency for its response to ransomware attack](https://therecord.media/british-library-incident-response-uk-ncsc-praise)
+* [2024-03-22, 16:09:30](https://news.ycombinator.com/item?id=39792067) - [GCC Compiler Adds Support for Device Offloading with AMD RDNA3 APUs](https://www.phoronix.com/news/GCC-AMDGCN-GFX1103-RDNA3-APUs)
 * [2024-03-22, 15:48:30](https://news.ycombinator.com/item?id=39791859) - [How the Most Expensive Swords in the World Are Made](https://www.youtube.com/watch?v=Tt6WQYtefXA)
 * [2024-03-22, 15:20:56](https://news.ycombinator.com/item?id=39791595) - [First global AI resolution unanimously adopted by United Nations](https://arstechnica.com/information-technology/2024/03/worlds-first-global-ai-resolution-unanimously-adopted-by-united-nations/)
+* [2024-03-22, 14:52:06](https://news.ycombinator.com/item?id=39791301) - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
 * [2024-03-22, 14:39:09](https://news.ycombinator.com/item?id=39791182) - ['Backpacks' attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
 * [2024-03-22, 14:26:51](https://news.ycombinator.com/item?id=39791066) - [The first step toward disintegrating Israel's settler machine](https://www.972mag.com/sanctions-israel-settler-machine/)
 * [2024-03-22, 13:52:07](https://news.ycombinator.com/item?id=39790774) - [China's Age of Malaise (2023)](https://www.newyorker.com/magazine/2023/10/30/chinas-age-of-malaise)
