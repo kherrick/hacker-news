@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 19:47:40](https://news.ycombinator.com/item?id=39794124) - [Ubuntu on the ThinkPad X13s Review](https://ahoneybun.net/blog/Thinkpad-X13s-review/)
 * [2024-03-22, 19:43:00](https://news.ycombinator.com/item?id=39794072) - [Police, Prosecutors Used Junk Science to Decide 911 Callers Were Liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat the Open Source Quadruped Robotic Pet Framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 * [2024-03-22, 19:25:10](https://news.ycombinator.com/item?id=39793905) - [Cable ISP fined $10k for lying to FCC about where it offers broadband](https://arstechnica.com/tech-policy/2024/03/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
@@ -14,6 +15,7 @@
 * [2024-03-22, 19:06:35](https://news.ycombinator.com/item?id=39793758) - [The antitrust case against Apple](https://pluralistic.net/2024/03/22/reality-distortion-field/#three-trillion-here-three-trillion-there-pretty-soon-youre-talking-real-money)
 * [2024-03-22, 19:06:05](https://news.ycombinator.com/item?id=39793754) - [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
 * [2024-03-22, 18:42:39](https://news.ycombinator.com/item?id=39793505) - [Designing a Pure Python Web Framework](https://reflex.dev/blog/2024-03-21-reflex-architecture/)
+* [2024-03-22, 18:34:56](https://news.ycombinator.com/item?id=39793420) - [Pure CSS Website](https://pure-css-site.netlify.app/)
 * [2024-03-22, 18:25:40](https://news.ycombinator.com/item?id=39793339) - [Apple says it spent three years trying to bring Apple Watch to Android](https://9to5mac.com/2024/03/21/apple-watch-android-apple-work/)
 * [2024-03-22, 18:20:00](https://news.ycombinator.com/item?id=39793293) - [Why the 2% Inflation Target?](https://sites.lsa.umich.edu/mje/2023/09/04/why-the-2-inflation-target/)
 * [2024-03-22, 18:09:50](https://news.ycombinator.com/item?id=39793210) - [McDonald's Removed Kids From the Equation (and replaced them with teens) [video]](https://www.youtube.com/watch?v=JQFQ4BHL8_g)

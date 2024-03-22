@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-22, 19:43:00](https://news.ycombinator.com/item?id=39794072) - [Police, Prosecutors Used Junk Science to Decide 911 Callers Were Liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
+* [2024-03-22, 19:47:40](https://news.ycombinator.com/item?id=39794124) - [Ubuntu on the ThinkPad X13s Review](https://ahoneybun.net/blog/Thinkpad-X13s-review/)
+* [2024-03-22, 19:43:00](https://news.ycombinator.com/item?id=39794072) - [Police, Prosecutors Used Junk Science to Decide 911 Callers Were Liars (2022)](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat the Open Source Quadruped Robotic Pet Framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 * [2024-03-22, 19:25:10](https://news.ycombinator.com/item?id=39793905) - [Cable ISP fined $10k for lying to FCC about where it offers broadband](https://arstechnica.com/tech-policy/2024/03/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
 * [2024-03-22, 19:24:44](https://news.ycombinator.com/item?id=39793903) - [General Motors Quits Sharing Driving Behavior with Data Brokers](https://www.nytimes.com/2024/03/22/technology/gm-onstar-driver-data.html)
 * [2024-03-22, 19:17:23](https://news.ycombinator.com/item?id=39793842) - [EU Parliament commitee approves cash cap and ban on anonymous crypto payments](https://www.patrick-breyer.de/en/eu-cash-cap-and-ban-on-anonymous-crypto-payments-results-in-financial-paternalism/)
 * [2024-03-22, 19:11:45](https://news.ycombinator.com/item?id=39793805) - [Pack: A New Container Format for Compressed Files](https://pack.ac/note/pack)
-* [2024-03-22, 19:06:35](https://news.ycombinator.com/item?id=39793758) - [The antitrust case against Apple](https://pluralistic.net/2024/03/22/reality-distortion-field/#three-trillion-here-three-trillion-there-pretty-soon-youre-talking-real-money)
 * [2024-03-22, 19:06:05](https://news.ycombinator.com/item?id=39793754) - [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
 * [2024-03-22, 18:42:39](https://news.ycombinator.com/item?id=39793505) - [Designing a Pure Python Web Framework](https://reflex.dev/blog/2024-03-21-reflex-architecture/)
+* [2024-03-22, 18:34:56](https://news.ycombinator.com/item?id=39793420) - [Pure CSS Website](https://pure-css-site.netlify.app/)
 * [2024-03-22, 18:20:00](https://news.ycombinator.com/item?id=39793293) - [Why the 2% Inflation Target?](https://sites.lsa.umich.edu/mje/2023/09/04/why-the-2-inflation-target/)
 * [2024-03-22, 18:08:18](https://news.ycombinator.com/item?id=39793191) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-22, 17:45:53](https://news.ycombinator.com/item?id=39793044) - [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
@@ -29,7 +30,6 @@
 * [2024-03-21, 08:43:23](https://news.ycombinator.com/item?id=39776108) - [The details behind an F1 team's painful revolution](https://www.the-race.com/formula-1/shocking-details-behind-painful-williams-f1-revolution/)
 * [2024-03-19, 15:47:45](https://news.ycombinator.com/item?id=39756986) - [Abraham Wald and the airplane diagram with red bullet holes](https://www.cameronmoll.com/journal/abraham-wald-red-bullet-holes-origin-story)
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
-* [2024-03-18, 22:29:39](https://news.ycombinator.com/item?id=39750836) - [On limitations that hide in your blindspot](https://www.henrikkarlsson.xyz/p/limitatons)
 
 ## [Archives](archives/index.md)
 
