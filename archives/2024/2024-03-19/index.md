@@ -68,6 +68,7 @@
 * [2024-03-19, 14:06:25](https://news.ycombinator.com/item?id=39755858) - [Show HN: Causal 2.0 – Modern Financial Planning for Startups](https://causal.app)
 * [2024-03-19, 14:00:05](https://news.ycombinator.com/item?id=39755801) - [Nvidia Waves and Moats](https://stratechery.com/2024/nvidia-waves-and-moats/)
 * [2024-03-19, 13:53:56](https://news.ycombinator.com/item?id=39755758) - [Climate change indicators reached record levels in 2023: WMO](https://wmo.int/media/news/climate-change-indicators-reached-record-levels-2023-wmo)
+* [2024-03-19, 13:46:57](https://news.ycombinator.com/item?id=39755696) - [Fujitsu says it found malware on its corporate network, warns of data breach](https://arstechnica.com/security/2024/03/fujitsu-says-it-found-malware-on-its-corporate-network-warns-of-possible-data-breach/)
 * [2024-03-19, 13:45:12](https://news.ycombinator.com/item?id=39755668) - [Show HN: Hypersplit – Like Infinite Craft but in Reverse](https://lantto.github.io/hypersplit/)
 * [2024-03-19, 13:42:20](https://news.ycombinator.com/item?id=39755646) - [Spacedrive Alpha v0.2](https://www.spacedrive.com/blog/alpha-zero-two-release)
 * [2024-03-19, 13:33:11](https://news.ycombinator.com/item?id=39755565) - [The rise and fall of a Halifax man's illegal TV streaming empire](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-man-illegal-streaming-empire-1.7112573)
