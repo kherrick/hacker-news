@@ -6,7 +6,6 @@
 * [2024-03-22, 03:25:13](https://news.ycombinator.com/item?id=39787176) - [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 * [2024-03-22, 02:48:23](https://news.ycombinator.com/item?id=39786984) - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 02:40:39](https://news.ycombinator.com/item?id=39786943) - [Navigating the World of Large Language Models](https://www.bentoml.com/blog/navigating-the-world-of-large-language-models)
-* [2024-03-22, 02:39:09](https://news.ycombinator.com/item?id=39786934) - [Greece, Argentina and India are the fastest improving business environments](https://www.eiu.com/n/greece-argentina-and-india-are-the-fastest-improving-business-environments/)
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 * [2024-03-22, 01:03:16](https://news.ycombinator.com/item?id=39786370) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
 * [2024-03-22, 00:25:59](https://news.ycombinator.com/item?id=39786124) - [The Origins of the Generic Mapping Tools](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231)
@@ -29,6 +28,7 @@
 * [2024-03-20, 20:52:59](https://news.ycombinator.com/item?id=39771878) - [Array Languages: R vs. APL (2023)](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-19, 16:24:29](https://news.ycombinator.com/item?id=39757394) - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
+* [2024-03-18, 22:29:39](https://news.ycombinator.com/item?id=39750836) - [On limitations that hide in your blindspot](https://www.henrikkarlsson.xyz/p/limitatons)
 * [2024-03-18, 07:04:26](https://news.ycombinator.com/item?id=39741096) - [Disk write buffering and its interactions with write flushes](https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs)
 
 ## [Archives](archives/index.md)

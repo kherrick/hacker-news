@@ -10,6 +10,7 @@
 * [2024-03-18, 22:55:37](https://news.ycombinator.com/item?id=39751046) - [C++ creator rebuts White House warning](https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.amp.html)
 * [2024-03-18, 22:37:43](https://news.ycombinator.com/item?id=39750894) - [Ask HN: What books have you found understandable during serious depression?](https://news.ycombinator.com/item?id=39750894)
 * [2024-03-18, 22:29:46](https://news.ycombinator.com/item?id=39750837) - [Open Source Robotics Alliance: New Funding and Governance Model for ROS / Gazebo](https://osralliance.org/)
+* [2024-03-18, 22:29:39](https://news.ycombinator.com/item?id=39750836) - [On limitations that hide in your blindspot](https://www.henrikkarlsson.xyz/p/limitatons)
 * [2024-03-18, 22:28:49](https://news.ycombinator.com/item?id=39750826) - [Report on the Censorship-Industrial Complex: The Top Organizations to Know](https://www.racket.news/p/report-on-the-censorship-industrial-74b)
 * [2024-03-18, 21:48:55](https://news.ycombinator.com/item?id=39750466) - [The Brewintosh, a 3D Printed Full-Size Macintosh [video]](https://www.youtube.com/watch?v=7N9oz4Ylzm4)
 * [2024-03-18, 21:39:17](https://news.ycombinator.com/item?id=39750372) - [We've Been Treating Concussions All Wrong](https://slate.com/technology/2024/03/concussion-symptoms-signs-treatment-advice.html)
