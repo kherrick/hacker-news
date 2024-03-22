@@ -6,6 +6,7 @@
 
 * [2024-03-22, 22:13:35](https://news.ycombinator.com/item?id=39795415) - [Someone made a device that's just a mechanical finger connected to Zigbee](https://mastodon.social/@whitequark/112128649344539396)
 * [2024-03-22, 21:10:20](https://news.ycombinator.com/item?id=39794901) - [Robots Are Entering the Ukraine Battlefield](https://www.wsj.com/world/europe/robots-are-entering-the-ukraine-battlefield-fab195d2)
+* [2024-03-22, 21:06:13](https://news.ycombinator.com/item?id=39794864) - [Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers](https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers)
 * [2024-03-22, 21:01:02](https://news.ycombinator.com/item?id=39794815) - [Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
 * [2024-03-22, 20:36:05](https://news.ycombinator.com/item?id=39794554) - [Grok-1 Support for Llama.cpp](https://github.com/ggerganov/llama.cpp/pull/6204)
 * [2024-03-22, 19:47:40](https://news.ycombinator.com/item?id=39794124) - [Ubuntu on the ThinkPad X13s Review](https://ahoneybun.net/blog/Thinkpad-X13s-review/)
