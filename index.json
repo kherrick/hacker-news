@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-03-22, 02:24:01",
-      "https://news.ycombinator.com/item?id=39786855"
+      "2024-03-22, 02:49:44",
+      "https://news.ycombinator.com/item?id=39786989"
     ],
     [
-      "Netflix Kept Showing Smoking in TV Shows Despite 2019 Pledge, Study Finds",
-      "https://www.forbes.com/sites/zacharysmith/2022/01/11/netflix-kept-showing-smoking-in-tv-shows-despite-2019-pledge-study-finds/"
+      "Microsoft Launches Surface Laptop 6 for Business and Surface Pro 10",
+      "https://blogs.windows.com/devices/2024/03/21/introducing-surface-pro-10-for-business-and-surface-laptop-6-for-business/"
     ]
   ],
   [
     [
-      "2024-03-22, 02:07:14",
-      "https://news.ycombinator.com/item?id=39786745"
+      "2024-03-22, 02:48:23",
+      "https://news.ycombinator.com/item?id=39786984"
     ],
     [
-      "UN: E-waste is growing 5x faster than it can be recycled",
-      "https://www.theregister.com/2024/03/21/ewaste_grows/"
+      "Picotron Is a Fantasy Workstation",
+      "https://www.lexaloffle.com/picotron.php"
     ]
   ],
   [
@@ -31,42 +31,12 @@
   ],
   [
     [
-      "2024-03-22, 01:31:55",
-      "https://news.ycombinator.com/item?id=39786539"
-    ],
-    [
-      "Byte Magazine August 1980 – The Forth Language (2012)",
-      "https://archive.org/details/byte-magazine-1980-08/page/n7/mode/2up"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 01:08:34",
-      "https://news.ycombinator.com/item?id=39786407"
-    ],
-    [
-      "Allegations of criminality by Boeing in deceased whistleblower complaint",
-      "https://www.wsws.org/en/articles/2024/03/21/dbis-m21.html"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 01:03:16",
       "https://news.ycombinator.com/item?id=39786370"
     ],
     [
       "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
       "https://news.ycombinator.com/item?id=39786370"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 01:00:23",
-      "https://news.ycombinator.com/item?id=39786353"
-    ],
-    [
-      "New studies suggest millions with mild cognitive impairment go undiagnosed",
-      "https://theconversation.com/new-studies-suggest-millions-with-mild-cognitive-impairment-go-undiagnosed-often-until-its-too-late-216892"
     ]
   ],
   [
@@ -81,12 +51,12 @@
   ],
   [
     [
-      "2024-03-22, 00:06:17",
-      "https://news.ycombinator.com/item?id=39785942"
+      "2024-03-21, 23:49:30",
+      "https://news.ycombinator.com/item?id=39785833"
     ],
     [
-      "A cargo ship's 'WindWing' sails saved it up to 12 tons of fuel per day",
-      "https://www.ajot.com/news/a-cargo-ships-windwing-sails-saved-it-up-to-12-tons-of-fuel-per-day"
+      "18F: CSS Coding Styleguide",
+      "https://guides.18f.gov/engineering/languages-runtimes/css/"
     ]
   ],
   [
@@ -97,6 +67,16 @@
     [
       "Improving OKRs – By Daniel Walters",
       "https://wioota.substack.com/p/improving-okrs"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 21:31:47",
+      "https://news.ycombinator.com/item?id=39784656"
+    ],
+    [
+      "Introduction to Algorithmic Art",
+      "http://xahlee.info/math/algorithmic_math_art.html"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-03-19, 12:39:46",
+      "https://news.ycombinator.com/item?id=39755089"
+    ],
+    [
+      "Fast Virtual Functions: Hacking the VTable for Fun and Profit",
+      "https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 11:46:38",
       "https://news.ycombinator.com/item?id=39754786"
     ],
@@ -297,6 +287,16 @@
     [
       "Disk write buffering and its interactions with write flushes",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 19:15:04",
+      "https://news.ycombinator.com/item?id=39737123"
+    ],
+    [
+      "Verifying Hardware Security with RTL Simulation",
+      "https://semiengineering.com/verifying-hardware-security-with-rtl-simulation/"
     ]
   ]
 ]
