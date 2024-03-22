@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-22, 10:36:48](https://news.ycombinator.com/item?id=39789250) - [Ask HN: What are some of the best user experiences with AI?](https://news.ycombinator.com/item?id=39789250)
-* [2024-03-22, 09:11:10](https://news.ycombinator.com/item?id=39788748) - [UN adopts first global artificial intelligence resolution](https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/)
 * [2024-03-22, 08:52:51](https://news.ycombinator.com/item?id=39788649) - [Ask HN: How to run an old-school mailing list?](https://news.ycombinator.com/item?id=39788649)
 * [2024-03-22, 08:44:04](https://news.ycombinator.com/item?id=39788590) - [OpenAI GPT-4 vs. Groq Mistral-8x7B](https://serpapi.com/blog/openai-gpt-4-vs-groq-mistral/)
 * [2024-03-22, 08:05:04](https://news.ycombinator.com/item?id=39788385) - [New vuln in Apple M-series allowing secret keys extraction can't be patched](https://twitter.com/kimzetter/status/1770869722760061195)
@@ -18,6 +17,7 @@
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
 * [2024-03-21, 19:25:10](https://news.ycombinator.com/item?id=39783223) - [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
 * [2024-03-21, 18:09:18](https://news.ycombinator.com/item?id=39782213) - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
+* [2024-03-21, 14:51:18](https://news.ycombinator.com/item?id=39779195) - [GoFetch: New side-channel attack using data memory-dependent prefetchers](https://gofetch.fail)
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 13:58:31](https://news.ycombinator.com/item?id=39778570) - [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
