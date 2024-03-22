@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 15:48:30](https://news.ycombinator.com/item?id=39791859) - [How the Most Expensive Swords in the World Are Made](https://www.youtube.com/watch?v=Tt6WQYtefXA)
 * [2024-03-22, 15:20:56](https://news.ycombinator.com/item?id=39791595) - [First global AI resolution unanimously adopted by United Nations](https://arstechnica.com/information-technology/2024/03/worlds-first-global-ai-resolution-unanimously-adopted-by-united-nations/)
 * [2024-03-22, 14:39:09](https://news.ycombinator.com/item?id=39791182) - ['Backpacks' attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
 * [2024-03-22, 14:26:51](https://news.ycombinator.com/item?id=39791066) - [The first step toward disintegrating Israel's settler machine](https://www.972mag.com/sanctions-israel-settler-machine/)
@@ -11,6 +12,7 @@
 * [2024-03-22, 13:45:02](https://news.ycombinator.com/item?id=39790699) - [More than half of chickenpox diagnoses are wrong, study finds](https://arstechnica.com/science/2024/03/more-than-half-of-chickenpox-diagnoses-are-wrong-study-finds/)
 * [2024-03-22, 13:26:56](https://news.ycombinator.com/item?id=39790505) - [California's largest home insurer won't renew 72,000 policies](https://www.sfchronicle.com/california/article/state-farm-insurance-nonrenewals-19357533.php)
 * [2024-03-22, 13:26:01](https://news.ycombinator.com/item?id=39790497) - [Crime stories drove readers to GoFundMe campaigns, only the victims didn't exist](https://www.nbcnews.com/news/crime-stories-drove-readers-gofundme-campaigns-only-victims-didnt-exis-rcna144167)
+* [2024-03-22, 13:24:48](https://news.ycombinator.com/item?id=39790486) - [Tennessee becomes the first state to protect musicians against AI](https://www.npr.org/2024/03/22/1240114159/tennessee-protect-musicians-artists-ai)
 * [2024-03-22, 13:12:43](https://news.ycombinator.com/item?id=39790365) - [The Bulma CSS framework reaches 1.0](https://github.com/jgthms/bulma/releases/tag/1.0.0)
 * [2024-03-22, 12:55:46](https://news.ycombinator.com/item?id=39790238) - [The \"Current Branch\" in Git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 * [2024-03-22, 12:37:00](https://news.ycombinator.com/item?id=39790076) - [Robots Are Entering the Ukraine Battlefield Following Success in the Air and Sea](https://www.wsj.com/world/europe/robots-are-entering-the-ukraine-battlefield-fab195d2)
