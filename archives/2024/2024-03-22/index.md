@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 16:40:03](https://news.ycombinator.com/item?id=39792383) - [2K earthquakes in 1 day off Canada coast suggest ocean floor is ripping apart](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
+* [2024-03-22, 16:28:20](https://news.ycombinator.com/item?id=39792263) - [Dutch Court Orders ISP to Block 'Anna's Archive' and 'LibGen'](https://torrentfreak.com/dutch-court-orders-isp-to-block-annas-archive-and-libgen-240322/)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
 * [2024-03-22, 16:10:16](https://news.ycombinator.com/item?id=39792077) - [British Library hailed by UK cyber agency for its response to ransomware attack](https://therecord.media/british-library-incident-response-uk-ncsc-praise)
 * [2024-03-22, 16:09:30](https://news.ycombinator.com/item?id=39792067) - [GCC Compiler Adds Support for Device Offloading with AMD RDNA3 APUs](https://www.phoronix.com/news/GCC-AMDGCN-GFX1103-RDNA3-APUs)
 * [2024-03-22, 15:48:30](https://news.ycombinator.com/item?id=39791859) - [How the Most Expensive Swords in the World Are Made](https://www.youtube.com/watch?v=Tt6WQYtefXA)
+* [2024-03-22, 15:31:37](https://news.ycombinator.com/item?id=39791704) - [Global warming and heat extremes to enhance inflationary pressures](https://www.nature.com/articles/s43247-023-01173-x)
 * [2024-03-22, 15:20:56](https://news.ycombinator.com/item?id=39791595) - [First global AI resolution unanimously adopted by United Nations](https://arstechnica.com/information-technology/2024/03/worlds-first-global-ai-resolution-unanimously-adopted-by-united-nations/)
 * [2024-03-22, 15:01:56](https://news.ycombinator.com/item?id=39791405) - [Working-age death rate 2.5x higher in the US than other countries. Why?](https://newatlas.com/health-wellbeing/working-age-us-adults-mortality-rates/)
 * [2024-03-22, 14:52:06](https://news.ycombinator.com/item?id=39791301) - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
