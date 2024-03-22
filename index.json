@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2024-03-22, 16:28:20",
-      "https://news.ycombinator.com/item?id=39792263"
-    ],
-    [
-      "Dutch Court Orders ISP to Block 'Anna's Archive' and 'LibGen'",
-      "https://torrentfreak.com/dutch-court-orders-isp-to-block-annas-archive-and-libgen-240322/"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 16:15:53",
       "https://news.ycombinator.com/item?id=39792136"
     ],
     [
       "Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English",
       "https://news.ycombinator.com/item?id=39792136"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 15:48:30",
-      "https://news.ycombinator.com/item?id=39791859"
-    ],
-    [
-      "How the Most Expensive Swords in the World Are Made",
-      "https://www.youtube.com/watch?v=Tt6WQYtefXA"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2024-03-21, 21:31:47",
+      "https://news.ycombinator.com/item?id=39784656"
+    ],
+    [
+      "Algorithmic Mathematical Art (2004)",
+      "http://xahlee.info/math/algorithmic_math_art.html"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 21:02:08",
       "https://news.ycombinator.com/item?id=39784355"
     ],
@@ -217,6 +207,26 @@
     [
       "Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism",
       "https://www.cockroachlabs.com/blog/demonic-nondeterminism/"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 17:35:39",
+      "https://news.ycombinator.com/item?id=39781776"
+    ],
+    [
+      "Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant",
+      "https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 14:37:43",
+      "https://news.ycombinator.com/item?id=39778999"
+    ],
+    [
+      "U.S. sues Apple, accusing it of maintaining an iPhone monopoly",
+      "https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Implementation of mixture of experts language model in a single file of PyTorch",
       "https://github.com/AviSoori1x/makeMoE"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 06:01:16",
-      "https://news.ycombinator.com/item?id=39740835"
-    ],
-    [
-      "Three ways to improve parallelized tests",
-      "https://www.qawolf.com//blog/principles-for-writing-parallizable-tests"
     ]
   ]
 ]
