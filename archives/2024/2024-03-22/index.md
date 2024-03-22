@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
 * [2024-03-22, 02:24:01](https://news.ycombinator.com/item?id=39786855) - [Netflix Kept Showing Smoking in TV Shows Despite 2019 Pledge, Study Finds](https://www.forbes.com/sites/zacharysmith/2022/01/11/netflix-kept-showing-smoking-in-tv-shows-despite-2019-pledge-study-finds/)
+* [2024-03-22, 02:07:14](https://news.ycombinator.com/item?id=39786745) - [UN: E-waste is growing 5x faster than it can be recycled](https://www.theregister.com/2024/03/21/ewaste_grows/)
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
+* [2024-03-22, 01:31:55](https://news.ycombinator.com/item?id=39786539) - [Byte Magazine August 1980 – The Forth Language (2012)](https://archive.org/details/byte-magazine-1980-08/page/n7/mode/2up)
 * [2024-03-22, 01:08:34](https://news.ycombinator.com/item?id=39786407) - [Allegations of criminality by Boeing in deceased whistleblower complaint](https://www.wsws.org/en/articles/2024/03/21/dbis-m21.html)
 * [2024-03-22, 01:03:16](https://news.ycombinator.com/item?id=39786370) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
 * [2024-03-22, 01:00:23](https://news.ycombinator.com/item?id=39786353) - [New studies suggest millions with mild cognitive impairment go undiagnosed](https://theconversation.com/new-studies-suggest-millions-with-mild-cognitive-impairment-go-undiagnosed-often-until-its-too-late-216892)
