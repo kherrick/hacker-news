@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-22, 08:55:01](https://news.ycombinator.com/item?id=39788666) - ['Gen X has had to learn or die': Mid-career workers are facing ageism](https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism)
 * [2024-03-22, 08:44:04](https://news.ycombinator.com/item?id=39788590) - [OpenAI GPT-4 vs. Groq Mistral-8x7B](https://serpapi.com/blog/openai-gpt-4-vs-groq-mistral/)
 * [2024-03-22, 08:05:04](https://news.ycombinator.com/item?id=39788385) - [New vuln in Apple M-series allowing secret keys extraction can't be patched](https://twitter.com/kimzetter/status/1770869722760061195)
 * [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
@@ -12,6 +11,7 @@
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 * [2024-03-22, 01:03:16](https://news.ycombinator.com/item?id=39786370) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
 * [2024-03-22, 00:25:59](https://news.ycombinator.com/item?id=39786124) - [The Origins of the Generic Mapping Tools](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231)
+* [2024-03-21, 21:45:46](https://news.ycombinator.com/item?id=39784784) - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [2024-03-21, 21:31:47](https://news.ycombinator.com/item?id=39784656) - [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
