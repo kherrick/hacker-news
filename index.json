@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-03-21, 23:49:30",
-      "https://news.ycombinator.com/item?id=39785833"
-    ],
-    [
-      "18F: CSS Coding Styleguide",
-      "https://guides.18f.gov/engineering/languages-runtimes/css/"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 22:19:51",
       "https://news.ycombinator.com/item?id=39785126"
     ],
@@ -277,6 +267,16 @@
     [
       "Implementing Vertical Form Controls",
       "https://webkit.org/blog/15190/implementing-vertical-form-controls/"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 12:39:46",
+      "https://news.ycombinator.com/item?id=39755089"
+    ],
+    [
+      "Fast Virtual Functions: Hacking the VTable for Fun and Profit",
+      "https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0"
     ]
   ],
   [
