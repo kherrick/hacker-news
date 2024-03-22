@@ -24,10 +24,10 @@
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
-* [2024-03-20, 20:52:59](https://news.ycombinator.com/item?id=39771878) - [Array Languages: R vs. APL (2023)](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-19, 16:24:29](https://news.ycombinator.com/item?id=39757394) - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
+* [2024-03-19, 05:24:08](https://news.ycombinator.com/item?id=39753186) - [Chicken Sexing and Knowing](https://adadithya.medium.com/chicken-sexing-and-knowing-279af624b499)
 * [2024-03-18, 22:29:39](https://news.ycombinator.com/item?id=39750836) - [On limitations that hide in your blindspot](https://www.henrikkarlsson.xyz/p/limitatons)
 * [2024-03-18, 11:57:46](https://news.ycombinator.com/item?id=39742921) - [Implementation of mixture of experts language model in a single file of PyTorch](https://github.com/AviSoori1x/makeMoE)
 

@@ -104,6 +104,7 @@
 * [2024-03-19, 05:54:49](https://news.ycombinator.com/item?id=39753298) - [Is Tesla more valuable than Toyota?](https://calpaterson.com/singleton.html)
 * [2024-03-19, 05:49:01](https://news.ycombinator.com/item?id=39753282) - [.NET Developers Begging for Ecosystem Destruction](https://aaronstannard.com/dotnet-eventing-backslide/)
 * [2024-03-19, 05:29:19](https://news.ycombinator.com/item?id=39753210) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
+* [2024-03-19, 05:24:08](https://news.ycombinator.com/item?id=39753186) - [Chicken Sexing and Knowing](https://adadithya.medium.com/chicken-sexing-and-knowing-279af624b499)
 * [2024-03-19, 05:08:21](https://news.ycombinator.com/item?id=39753115) - [20 Years of \"Not Even Wrong\"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
 * [2024-03-19, 04:52:24](https://news.ycombinator.com/item?id=39753049) - [Twstalker.com as a Twitter alternative front end](https://twstalker.com/EFF)
 * [2024-03-19, 04:32:21](https://news.ycombinator.com/item?id=39752962) - [Painting by Roman Numerals](https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting)
