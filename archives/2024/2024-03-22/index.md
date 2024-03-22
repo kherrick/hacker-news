@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 12:37:00](https://news.ycombinator.com/item?id=39790076) - [Robots Are Entering the Ukraine Battlefield Following Success in the Air and Sea](https://www.wsj.com/world/europe/robots-are-entering-the-ukraine-battlefield-fab195d2)
 * [2024-03-22, 12:18:38](https://news.ycombinator.com/item?id=39789920) - [Why Is It So Hard to Build an Airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 * [2024-03-22, 12:00:35](https://news.ycombinator.com/item?id=39789790) - [Aviator (YC S21) is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 * [2024-03-22, 11:15:41](https://news.ycombinator.com/item?id=39789491) - [Plain Text Email](https://notes.ghed.in/posts/2024/plain-text-email/)
