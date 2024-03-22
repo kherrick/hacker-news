@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-03-22, 19:11:45",
+      "https://news.ycombinator.com/item?id=39793805"
+    ],
+    [
+      "Pack: A new container format for compressed files",
+      "https://pack.ac/note/pack"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 19:06:05",
       "https://news.ycombinator.com/item?id=39793754"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2024-03-22, 18:20:00",
+      "https://news.ycombinator.com/item?id=39793293"
+    ],
+    [
+      "Why the 2% inflation target? (2023)",
+      "https://sites.lsa.umich.edu/mje/2023/09/04/why-the-2-inflation-target/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 18:13:57",
       "https://news.ycombinator.com/item?id=39793250"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39793044"
     ],
     [
-      "Boom Announces Successful Flight of XB-1 Demonstrator Aircraft",
+      "Boom announces successful flight of XB-1 demonstrator aircraft",
       "https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator"
     ]
   ],
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2024-03-22, 10:19:53",
+      "https://news.ycombinator.com/item?id=39789139"
+    ],
+    [
+      "My grandfather Paul Tillich, the unbelieving theologian",
+      "https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 08:20:47",
       "https://news.ycombinator.com/item?id=39788456"
     ],
@@ -217,16 +247,6 @@
     [
       "Chronos: Learning the Language of Time Series",
       "https://arxiv.org/abs/2403.07815"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 02:48:23",
-      "https://news.ycombinator.com/item?id=39786984"
-    ],
-    [
-      "Picotron Is a Fantasy Workstation",
-      "https://www.lexaloffle.com/picotron.php"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Twilight of the Steam Age, Part 1: Internal Combustion",
       "https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 19:00:58",
-      "https://news.ycombinator.com/item?id=39759086"
-    ],
-    [
-      "An empirical answer to the question, when Postgres is not enough",
-      "https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31?gi=bdf24da23039"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 10:35:52",
-      "https://news.ycombinator.com/item?id=39754403"
-    ],
-    [
-      "Atari Falcon030",
-      "https://www.goto10retro.com/p/atari-falcon030"
     ]
   ]
 ]
