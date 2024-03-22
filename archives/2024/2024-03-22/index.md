@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 14:26:51](https://news.ycombinator.com/item?id=39791066) - [The first step toward disintegrating Israel's settler machine](https://www.972mag.com/sanctions-israel-settler-machine/)
 * [2024-03-22, 13:45:02](https://news.ycombinator.com/item?id=39790699) - [More than half of chickenpox diagnoses are wrong, study finds](https://arstechnica.com/science/2024/03/more-than-half-of-chickenpox-diagnoses-are-wrong-study-finds/)
 * [2024-03-22, 13:26:56](https://news.ycombinator.com/item?id=39790505) - [California's largest home insurer won't renew 72,000 policies](https://www.sfchronicle.com/california/article/state-farm-insurance-nonrenewals-19357533.php)
 * [2024-03-22, 13:26:01](https://news.ycombinator.com/item?id=39790497) - [Crime stories drove readers to GoFundMe campaigns, only the victims didn't exist](https://www.nbcnews.com/news/crime-stories-drove-readers-gofundme-campaigns-only-victims-didnt-exis-rcna144167)

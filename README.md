@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-22, 14:26:51](https://news.ycombinator.com/item?id=39791066) - [The first step toward disintegrating Israel's settler machine](https://www.972mag.com/sanctions-israel-settler-machine/)
 * [2024-03-22, 12:28:46](https://news.ycombinator.com/item?id=39790003) - [Show HN: Free Plain-Text Bookmarking](https://webtag.io)
 * [2024-03-22, 12:18:38](https://news.ycombinator.com/item?id=39789920) - [Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 * [2024-03-22, 12:00:35](https://news.ycombinator.com/item?id=39789790) - [Aviator (YC S21) is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
@@ -24,7 +25,6 @@
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
-* [2024-03-20, 20:52:59](https://news.ycombinator.com/item?id=39771878) - [Array Languages: R vs. APL (2023)](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-19, 16:24:29](https://news.ycombinator.com/item?id=39757394) - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
