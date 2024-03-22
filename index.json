@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-22, 19:47:40",
-      "https://news.ycombinator.com/item?id=39794124"
-    ],
-    [
-      "Ubuntu on the ThinkPad X13s Review",
-      "https://ahoneybun.net/blog/Thinkpad-X13s-review/"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 19:43:00",
       "https://news.ycombinator.com/item?id=39794072"
     ],
@@ -27,36 +17,6 @@
     [
       "OpenCat the Open Source Quadruped Robotic Pet Framework",
       "https://www.petoi.com/pages/opencat-open-source-robot-pet-framework"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 19:25:10",
-      "https://news.ycombinator.com/item?id=39793905"
-    ],
-    [
-      "Cable ISP fined $10k for lying to FCC about where it offers broadband",
-      "https://arstechnica.com/tech-policy/2024/03/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 19:24:44",
-      "https://news.ycombinator.com/item?id=39793903"
-    ],
-    [
-      "General Motors Quits Sharing Driving Behavior with Data Brokers",
-      "https://www.nytimes.com/2024/03/22/technology/gm-onstar-driver-data.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 19:17:23",
-      "https://news.ycombinator.com/item?id=39793842"
-    ],
-    [
-      "EU Parliament commitee approves cash cap and ban on anonymous crypto payments",
-      "https://www.patrick-breyer.de/en/eu-cash-cap-and-ban-on-anonymous-crypto-payments-results-in-financial-paternalism/"
     ]
   ],
   [
@@ -105,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39793293"
     ],
     [
-      "Why the 2% Inflation Target?",
+      "Why the 2% Inflation Target? (2023)",
       "https://sites.lsa.umich.edu/mje/2023/09/04/why-the-2-inflation-target/"
     ]
   ],
@@ -157,6 +117,16 @@
     [
       "Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English",
       "https://news.ycombinator.com/item?id=39792136"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 16:06:25",
+      "https://news.ycombinator.com/item?id=39792041"
+    ],
+    [
+      "Why Europe is dismantling its dams",
+      "https://www.bbc.com/future/article/20240229-why-europe-is-removing-its-dams"
     ]
   ],
   [
@@ -231,12 +201,32 @@
   ],
   [
     [
+      "2024-03-22, 03:25:13",
+      "https://news.ycombinator.com/item?id=39787176"
+    ],
+    [
+      "Chronos: Learning the Language of Time Series",
+      "https://arxiv.org/abs/2403.07815"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 02:48:23",
       "https://news.ycombinator.com/item?id=39786984"
     ],
     [
       "Picotron Is a Fantasy Workstation",
       "https://www.lexaloffle.com/picotron.php"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 01:50:47",
+      "https://news.ycombinator.com/item?id=39786666"
+    ],
+    [
+      "How Chain-of-Thought Reasoning Helps Neural Networks Compute",
+      "https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Atari Falcon030",
       "https://www.goto10retro.com/p/atari-falcon030"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 22:29:39",
+      "https://news.ycombinator.com/item?id=39750836"
+    ],
+    [
+      "On limitations that hide in your blindspot",
+      "https://www.henrikkarlsson.xyz/p/limitatons"
     ]
   ]
 ]
