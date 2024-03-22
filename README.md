@@ -10,7 +10,6 @@
 * [2024-03-22, 18:13:57](https://news.ycombinator.com/item?id=39793250) - [DenseFormer: Enhancing Information Flow in Transformers](https://arxiv.org/abs/2402.02622)
 * [2024-03-22, 18:08:18](https://news.ycombinator.com/item?id=39793191) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-22, 17:45:53](https://news.ycombinator.com/item?id=39793044) - [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
-* [2024-03-22, 16:46:00](https://news.ycombinator.com/item?id=39792454) - [Why You Hear Voices in Your White Noise Machine](https://www.wired.com/story/why-you-hear-voices-white-noise/)
 * [2024-03-22, 16:40:03](https://news.ycombinator.com/item?id=39792383) - [2K earthquakes in 1 day off Canada coast](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
 * [2024-03-22, 14:52:06](https://news.ycombinator.com/item?id=39791301) - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
@@ -28,6 +27,7 @@
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
 * [2024-03-21, 18:48:55](https://news.ycombinator.com/item?id=39782761) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
+* [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-19, 23:32:18](https://news.ycombinator.com/item?id=39761418) - [Researchers used NYC buildings to measure the 1925 solar eclipse](https://www.6sqft.com/how-researchers-used-nyc-buildings-to-measure-the-1925-solar-eclipse/)
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 
