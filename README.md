@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-22, 16:40:03](https://news.ycombinator.com/item?id=39792383) - [2K earthquakes in 1 day off Canada coast suggest ocean floor is ripping apart](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
-* [2024-03-22, 16:28:20](https://news.ycombinator.com/item?id=39792263) - [Dutch Court Orders ISP to Block 'Anna's Archive' and 'LibGen'](https://torrentfreak.com/dutch-court-orders-isp-to-block-annas-archive-and-libgen-240322/)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
-* [2024-03-22, 15:48:30](https://news.ycombinator.com/item?id=39791859) - [How the Most Expensive Swords in the World Are Made](https://www.youtube.com/watch?v=Tt6WQYtefXA)
 * [2024-03-22, 15:31:37](https://news.ycombinator.com/item?id=39791704) - [Global warming and heat extremes to enhance inflationary pressures](https://www.nature.com/articles/s43247-023-01173-x)
 * [2024-03-22, 14:52:06](https://news.ycombinator.com/item?id=39791301) - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
 * [2024-03-22, 14:39:09](https://news.ycombinator.com/item?id=39791182) - ['Backpacks' attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
@@ -20,8 +18,11 @@
 * [2024-03-22, 02:48:23](https://news.ycombinator.com/item?id=39786984) - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 * [2024-03-22, 01:50:06](https://news.ycombinator.com/item?id=39786663) - [Cwerg: C-like language that can be implemented in 10kLOC](https://github.com/robertmuth/Cwerg)
+* [2024-03-21, 21:31:47](https://news.ycombinator.com/item?id=39784656) - [Algorithmic Mathematical Art (2004)](http://xahlee.info/math/algorithmic_math_art.html)
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
 * [2024-03-21, 18:48:55](https://news.ycombinator.com/item?id=39782761) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
+* [2024-03-21, 17:35:39](https://news.ycombinator.com/item?id=39781776) - [Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant](https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/)
+* [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-19, 23:32:18](https://news.ycombinator.com/item?id=39761418) - [Researchers used NYC buildings to measure the 1925 solar eclipse](https://www.6sqft.com/how-researchers-used-nyc-buildings-to-measure-the-1925-solar-eclipse/)
@@ -29,7 +30,6 @@
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 * [2024-03-18, 22:29:39](https://news.ycombinator.com/item?id=39750836) - [On limitations that hide in your blindspot](https://www.henrikkarlsson.xyz/p/limitatons)
 * [2024-03-18, 11:57:46](https://news.ycombinator.com/item?id=39742921) - [Implementation of mixture of experts language model in a single file of PyTorch](https://github.com/AviSoori1x/makeMoE)
-* [2024-03-18, 06:01:16](https://news.ycombinator.com/item?id=39740835) - [Three ways to improve parallelized tests](https://www.qawolf.com//blog/principles-for-writing-parallizable-tests)
 
 ## [Archives](archives/index.md)
 
