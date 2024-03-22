@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 * [2024-03-22, 06:33:11](https://news.ycombinator.com/item?id=39787932) - [Hacker News Rankings. Graphs of HN posts rank on timeline](https://hnrankings.info)
 * [2024-03-22, 05:36:37](https://news.ycombinator.com/item?id=39787728) - [Gitlab confirms it's removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
 * [2024-03-22, 04:48:01](https://news.ycombinator.com/item?id=39787559) - [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
@@ -19,7 +20,6 @@
 * [2024-03-21, 18:09:18](https://news.ycombinator.com/item?id=39782213) - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
 * [2024-03-21, 17:35:39](https://news.ycombinator.com/item?id=39781776) - [Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant](https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/)
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
-* [2024-03-21, 13:58:31](https://news.ycombinator.com/item?id=39778570) - [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
