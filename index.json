@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-22, 03:25:13",
+      "https://news.ycombinator.com/item?id=39787176"
+    ],
+    [
+      "Amazon Chronos: Learning the Language of Time Series",
+      "https://arxiv.org/abs/2403.07815"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 03:07:29",
+      "https://news.ycombinator.com/item?id=39787096"
+    ],
+    [
+      "Daily Driving Ubuntu on M1 Mac",
+      "https://www.feliciano.tech/blog/daily-driving-ubuntu-asahi-for-over-a-month/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 02:49:44",
       "https://news.ycombinator.com/item?id=39786989"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-03-19, 12:39:46",
-      "https://news.ycombinator.com/item?id=39755089"
-    ],
-    [
-      "Fast Virtual Functions: Hacking the VTable for Fun and Profit",
-      "https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0"
-    ]
-  ],
-  [
-    [
       "2024-03-19, 11:46:38",
       "https://news.ycombinator.com/item?id=39754786"
     ],
@@ -287,16 +297,6 @@
     [
       "Disk write buffering and its interactions with write flushes",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 19:15:04",
-      "https://news.ycombinator.com/item?id=39737123"
-    ],
-    [
-      "Verifying Hardware Security with RTL Simulation",
-      "https://semiengineering.com/verifying-hardware-security-with-rtl-simulation/"
     ]
   ]
 ]
