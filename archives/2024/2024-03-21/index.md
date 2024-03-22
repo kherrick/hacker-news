@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
 * [2024-03-21, 23:27:28](https://news.ycombinator.com/item?id=39785660) - [FDA says marijuana has a legitimate medicinal purpose](https://www.abcactionnews.com/news/national/fda-says-marijuana-has-a-legitimate-medicinal-purpose)
+* [2024-03-21, 22:19:51](https://news.ycombinator.com/item?id=39785126) - [Improving OKRs – By Daniel Walters](https://wioota.substack.com/p/improving-okrs)
 * [2024-03-21, 21:43:09](https://news.ycombinator.com/item?id=39784756) - [How Taiwan Became Arrakis](https://deepintothemundane.substack.com/p/how-taiwan-became-arrakis)
 * [2024-03-21, 21:31:47](https://news.ycombinator.com/item?id=39784656) - [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
