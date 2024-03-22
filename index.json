@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 12:55:46",
+      "https://news.ycombinator.com/item?id=39790238"
+    ],
+    [
+      "The \"Current Branch\" in Git",
+      "https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 12:18:38",
       "https://news.ycombinator.com/item?id=39789920"
     ],
@@ -287,16 +297,6 @@
     [
       "Implementation of mixture of experts language model in a single file of PyTorch",
       "https://github.com/AviSoori1x/makeMoE"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 08:23:58",
-      "https://news.ycombinator.com/item?id=39741491"
-    ],
-    [
-      "About Compiled and Vectorized Queries (2018) [pdf]",
-      "https://15721.courses.cs.cmu.edu/spring2023/papers/10-vect-vs-comp/p2209-kersten.pdf"
     ]
   ]
 ]
