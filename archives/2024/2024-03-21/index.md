@@ -92,6 +92,7 @@
 * [2024-03-21, 09:00:37](https://news.ycombinator.com/item?id=39776228) - [Reddit CEO defends $193M compensation following backlash from unpaid moderators](https://fortune.com/2024/03/19/reddit-ceo-steve-huffman-defends-193-million-compensation-following-backlash-unpaid-moderators/)
 * [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
 * [2024-03-21, 08:46:38](https://news.ycombinator.com/item?id=39776132) - [GPT-5 might arrive this summer as a \"materially better\" update to ChatGPT](https://arstechnica.com/information-technology/2024/03/openais-gpt-5-may-launch-this-summer-upgrading-chatgpt-along-the-way/)
+* [2024-03-21, 08:43:23](https://news.ycombinator.com/item?id=39776108) - [The details behind an F1 team's painful revolution](https://www.the-race.com/formula-1/shocking-details-behind-painful-williams-f1-revolution/)
 * [2024-03-21, 06:12:04](https://news.ycombinator.com/item?id=39775332) - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-21, 05:06:18](https://news.ycombinator.com/item?id=39775011) - [Ask HN: How is the Spotify app so bad?](https://news.ycombinator.com/item?id=39775011)
