@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 21:01:02](https://news.ycombinator.com/item?id=39794815) - [Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
 * [2024-03-22, 20:36:05](https://news.ycombinator.com/item?id=39794554) - [Grok-1 Support for Llama.cpp](https://github.com/ggerganov/llama.cpp/pull/6204)
 * [2024-03-22, 19:47:40](https://news.ycombinator.com/item?id=39794124) - [Ubuntu on the ThinkPad X13s Review](https://ahoneybun.net/blog/Thinkpad-X13s-review/)
 * [2024-03-22, 19:46:57](https://news.ycombinator.com/item?id=39794118) - [Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
