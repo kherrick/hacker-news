@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-03-22, 12:37:00",
-      "https://news.ycombinator.com/item?id=39790076"
-    ],
-    [
-      "Robots Are Entering the Ukraine Battlefield Following Success in the Air and Sea",
-      "https://www.wsj.com/world/europe/robots-are-entering-the-ukraine-battlefield-fab195d2"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 12:18:38",
       "https://news.ycombinator.com/item?id=39789920"
     ],
     [
-      "Why Is It So Hard to Build an Airport?",
+      "Why is it so hard to build an airport?",
       "https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport"
     ]
   ],
@@ -27,6 +17,16 @@
     [
       "Aviator (YC S21) is hiring engineers to build the DevEx platform",
       "https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 09:43:39",
+      "https://news.ycombinator.com/item?id=39788909"
+    ],
+    [
+      "Tackling Tail Latency with eBPF",
+      "https://blog.allegro.tech/2024/03/kafka-performance-analysis.html"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "The Origins of the Generic Mapping Tools",
       "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 21:45:46",
-      "https://news.ycombinator.com/item?id=39784784"
-    ],
-    [
-      "An Introduction to Modern CMake",
-      "https://cliutils.gitlab.io/modern-cmake/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Implementation of mixture of experts language model in a single file of PyTorch",
       "https://github.com/AviSoori1x/makeMoE"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 08:23:58",
+      "https://news.ycombinator.com/item?id=39741491"
+    ],
+    [
+      "About Compiled and Vectorized Queries (2018) [pdf]",
+      "https://15721.courses.cs.cmu.edu/spring2023/papers/10-vect-vs-comp/p2209-kersten.pdf"
     ]
   ]
 ]
