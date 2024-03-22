@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-03-21, 18:48:55",
+      "https://news.ycombinator.com/item?id=39782761"
+    ],
+    [
+      "Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism",
+      "https://www.cockroachlabs.com/blog/demonic-nondeterminism/"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 18:09:18",
       "https://news.ycombinator.com/item?id=39782213"
     ],
@@ -257,16 +267,6 @@
     [
       "Implementing Vertical Form Controls",
       "https://webkit.org/blog/15190/implementing-vertical-form-controls/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 11:46:38",
-      "https://news.ycombinator.com/item?id=39754786"
-    ],
-    [
-      "Tunnelmole, an ngrok alternative (open source)",
-      "https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/"
     ]
   ],
   [
