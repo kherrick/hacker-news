@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 23:49:30](https://news.ycombinator.com/item?id=39785833) - [18F: CSS Coding Styleguide](https://guides.18f.gov/engineering/languages-runtimes/css/)
 * [2024-03-21, 23:27:28](https://news.ycombinator.com/item?id=39785660) - [FDA says marijuana has a legitimate medicinal purpose](https://www.abcactionnews.com/news/national/fda-says-marijuana-has-a-legitimate-medicinal-purpose)
 * [2024-03-21, 22:19:51](https://news.ycombinator.com/item?id=39785126) - [Improving OKRs – By Daniel Walters](https://wioota.substack.com/p/improving-okrs)
 * [2024-03-21, 21:43:09](https://news.ycombinator.com/item?id=39784756) - [How Taiwan Became Arrakis](https://deepintothemundane.substack.com/p/how-taiwan-became-arrakis)
