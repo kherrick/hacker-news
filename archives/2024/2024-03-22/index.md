@@ -18,6 +18,7 @@
 * [2024-03-22, 18:34:56](https://news.ycombinator.com/item?id=39793420) - [Pure CSS Website](https://pure-css-site.netlify.app/)
 * [2024-03-22, 18:25:40](https://news.ycombinator.com/item?id=39793339) - [Apple says it spent three years trying to bring Apple Watch to Android](https://9to5mac.com/2024/03/21/apple-watch-android-apple-work/)
 * [2024-03-22, 18:20:00](https://news.ycombinator.com/item?id=39793293) - [Why the 2% Inflation Target?](https://sites.lsa.umich.edu/mje/2023/09/04/why-the-2-inflation-target/)
+* [2024-03-22, 18:13:57](https://news.ycombinator.com/item?id=39793250) - [DenseFormer: Enhancing Information Flow in Transformers](https://arxiv.org/abs/2402.02622)
 * [2024-03-22, 18:09:50](https://news.ycombinator.com/item?id=39793210) - [McDonald's Removed Kids From the Equation (and replaced them with teens) [video]](https://www.youtube.com/watch?v=JQFQ4BHL8_g)
 * [2024-03-22, 18:08:18](https://news.ycombinator.com/item?id=39793191) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-22, 17:45:53](https://news.ycombinator.com/item?id=39793044) - [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
