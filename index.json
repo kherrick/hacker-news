@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39789139"
     ],
     [
-      "My grandfather Paul Tillich, the unbelieving theologian Essays",
+      "My grandfather Paul Tillich, the unbelieving theologian",
       "https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "How Chain-of-Thought Reasoning Helps Neural Networks Compute",
       "https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 01:50:06",
+      "https://news.ycombinator.com/item?id=39786663"
+    ],
+    [
+      "Cwerg: C-like language that can be implemented in 10kLOC",
+      "https://github.com/robertmuth/Cwerg"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism",
       "https://www.cockroachlabs.com/blog/demonic-nondeterminism/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 18:09:18",
-      "https://news.ycombinator.com/item?id=39782213"
-    ],
-    [
-      "Launch HN: Soundry AI (YC W24) – Music sample generator for music creators",
-      "https://soundry.ai/"
     ]
   ],
   [
