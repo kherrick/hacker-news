@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 17:00:55](https://news.ycombinator.com/item?id=39792640) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
 * [2024-03-22, 16:40:03](https://news.ycombinator.com/item?id=39792383) - [2K earthquakes in 1 day off Canada coast suggest ocean floor is ripping apart](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
 * [2024-03-22, 16:28:20](https://news.ycombinator.com/item?id=39792263) - [Dutch Court Orders ISP to Block 'Anna's Archive' and 'LibGen'](https://torrentfreak.com/dutch-court-orders-isp-to-block-annas-archive-and-libgen-240322/)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
@@ -18,6 +19,7 @@
 * [2024-03-22, 14:26:51](https://news.ycombinator.com/item?id=39791066) - [The first step toward disintegrating Israel's settler machine](https://www.972mag.com/sanctions-israel-settler-machine/)
 * [2024-03-22, 13:52:07](https://news.ycombinator.com/item?id=39790774) - [China's Age of Malaise (2023)](https://www.newyorker.com/magazine/2023/10/30/chinas-age-of-malaise)
 * [2024-03-22, 13:45:02](https://news.ycombinator.com/item?id=39790699) - [More than half of chickenpox diagnoses are wrong, study finds](https://arstechnica.com/science/2024/03/more-than-half-of-chickenpox-diagnoses-are-wrong-study-finds/)
+* [2024-03-22, 13:33:12](https://news.ycombinator.com/item?id=39790567) - [How to actually use the notes you take](https://dannb.org/blog/2024/obsidian-use-your-notes/)
 * [2024-03-22, 13:26:56](https://news.ycombinator.com/item?id=39790505) - [California's largest home insurer won't renew 72,000 policies](https://www.sfchronicle.com/california/article/state-farm-insurance-nonrenewals-19357533.php)
 * [2024-03-22, 13:26:01](https://news.ycombinator.com/item?id=39790497) - [Crime stories drove readers to GoFundMe campaigns, only the victims didn't exist](https://www.nbcnews.com/news/crime-stories-drove-readers-gofundme-campaigns-only-victims-didnt-exis-rcna144167)
 * [2024-03-22, 13:24:48](https://news.ycombinator.com/item?id=39790486) - [Tennessee becomes the first state to protect musicians against AI](https://www.npr.org/2024/03/22/1240114159/tennessee-protect-musicians-artists-ai)
