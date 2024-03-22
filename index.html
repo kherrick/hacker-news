@@ -129,6 +129,134 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39792136">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=39792136"
+              >Launch HN: DryMerge (YC W24) – Automate Workflows with Plain
+              English</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-22 @ 16:15:53</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39792136"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://drymerge.com/app">https://drymerge.com/app</a>),
+              a tool to automate workflows with plain English. For example, a
+              user can say "When I get an email from a potential customer, add
+              their details to a google sheet and send me a text", and DryMerge
+              sets that up end-to-end in seconds. Other examples might be “When
+              I finish a Google Meet with a customer, record any issues reported
+              in Linear”, or “Every morning at 9 am, text me a summary of my
+              calendar events for the day”.
+              <p>
+                Here’s a video walkthrough:
+                <a href="https://youtu.be/S4L3B21vXGY"
+                  >https://youtu.be/S4L3B21vXGY</a
+                >.
+              </p>
+              <p>
+                We initially set out to build a dev tool for API integration,
+                and while building in the integration space, we realized
+                existing workflow automation tools have a few key limitations.
+                They still force users to do a lot of work like: Navigate
+                through a sea of menus; Break down their workflow into discrete
+                steps; Manually configure data transformations.
+              </p>
+              <p>
+                This led us to explore how we could make workflow automation way
+                simpler by letting users describe what they want in plain
+                English and having AI take care of the automation setup,
+                replacing no-code GUIs or scripts.
+              </p>
+              <p>Under the hood, DryMerge has two key components:</p>
+              <p>
+                - A semantic layer that uses LLMs to interpret the user's
+                request and map it to a series of pre-defined triggers and
+                actions (we've built hundreds of these integrations).
+              </p>
+              <p>
+                - A data plane that orchestrates the actual execution, complete
+                with smart field mapping, conditional logic, and
+                human-in-the-loop checks.
+              </p>
+              <p>
+                When a user describes a workflow, our semantic layer generates
+                multiple candidate plans, scores them, and selects the best
+                based on prior successful/failed workflows. It extracts key
+                entities and fields needed, and auto-generates a simple form for
+                the user to fill in any missing details. Users can then
+                iteratively describe, tweak, and test their workflow in the same
+                chat.
+              </p>
+              <p>
+                The data plane then subscribes to the relevant event streams,
+                executes the workflow steps, and handles gnarly aspects like
+                pagination, retries, and rollbacks invisibly. We allow the
+                semantic layer to delegate some values for runtime dependency
+                injection from the data plane, to handle open-ended logic like
+                classifying an email as urgent or summarizing a Google Meet
+                transcript.
+              </p>
+              <p>
+                We integrate with 14 common services — we’d love for you to try
+                it out and share what you think. Check it out at
+                <a href="https://drymerge.com/app">https://drymerge.com/app</a>.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="39792077">
+          <h3>
+            <a
+              class="item"
+              href="https://therecord.media/british-library-incident-response-uk-ncsc-praise"
+              >British Library hailed by UK cyber agency for its response to
+              ransomware attack</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-22 @ 16:10:16</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39792077"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39792067">
+          <h3>
+            <a
+              class="item"
+              href="https://www.phoronix.com/news/GCC-AMDGCN-GFX1103-RDNA3-APUs"
+              >GCC Compiler Adds Support for Device Offloading with AMD RDNA3
+              APUs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-22 @ 16:09:30</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39792067"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39791859">
           <h3>
             <a class="item" href="https://www.youtube.com/watch?v=Tt6WQYtefXA"
@@ -139,13 +267,84 @@
             <h4>
               <span>2024-03-22 @ 15:48:30</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39791859"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="39791301">
+          <h3>
+            <a class="item" href="https://github.com/leapingio/leaping"
+              >Show HN: Leaping – Debug Python tests instantly with an LLM
+              debugger</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-22 @ 14:52:06</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39791301"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We’re currently working on a platform that ingests logs and then
+                automatically reproduces, root causes and ultimately fixes
+                production bugs as they happen. You can see some of our work on
+                this here -
+                <a href="https://news.ycombinator.com/item?id=39528087"
+                  >https://news.ycombinator.com/item?id=39528087</a
+                >
+              </p>
+              <p>
+                As we were building the root-cause phase of our automated
+                debugger, we realized that we developed something that resembled
+                an omniscient debugger. Like an omniscient debugger, it also
+                keeps track of variable assignments over time but, you can
+                interact with it at a higher level than a debugger using natural
+                language. We ended up sticking it in a pytest plugin and have
+                been using it ourselves for development over the past few weeks.
+              </p>
+              <p>
+                Using this pytest plugin, you’re able to reason at a much higher
+                level than conventional debuggers and can ask questions like:
+              </p>
+              <p>- Why did function x get hit?</p>
+              <p>- Why was variable y set to this value?</p>
+              <p>
+                - What changes can I make to this code to make this test pass?
+              </p>
+              <p>
+                Here’s a brief demo of this in action:
+                <a
+                  href="https://www.loom.com/share/94ebe34097a343c39876d7109f2a1428"
+                  >https://www.loom.com/share/94ebe34097a343c39876d7109f2a1428</a
+                >
+              </p>
+              <p>
+                To achieve this, we first instrument the test using sys.settrace
+                (or, on versions of python &gt;3.12, the far better
+                sys.monitoring!) to keep a history of all the functions that
+                were called, along with the calling line numbers. We then re-run
+                the test and use AST parsing to find all the variable
+                assignments and keep track of those changes over time. We also
+                use AST parsing to obtain the source code for these functions.
+                We then neatly format and pass all this context to GPT.
+              </p>
+              <p>
+                We’d love it if you checked the pytest plugin out and we welcome
+                all feedback :) . If you want to chat bugs, our emails are also
+                always open - kanav@leaping.io
+              </p>
+            </div>
           </section>
         </section>
         <section id="39791182">
@@ -161,7 +360,7 @@
             <h4>
               <span>2024-03-22 @ 14:39:09</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39791182"
                   >Comments</a
@@ -183,11 +382,11 @@
             <h4>
               <span>2024-03-22 @ 13:24:48</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39790486"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -208,7 +407,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39790365"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -223,11 +422,11 @@
             <h4>
               <span>2024-03-22 @ 12:28:46</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39790003"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -244,11 +443,11 @@
             <h4>
               <span>2024-03-22 @ 12:18:38</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39789920"
                   >Comments</a
-                ><span class="descendants">: 270</span></span
+                ><span class="descendants">: 284</span></span
               >
             </h4>
           </section>
@@ -283,11 +482,11 @@
             <h4>
               <span>2024-03-22 @ 10:19:53</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39789139"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -305,11 +504,11 @@
             <h4>
               <span>2024-03-22 @ 08:20:47</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39788456"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -327,11 +526,11 @@
             <h4>
               <span>2024-03-22 @ 07:53:38</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39788322"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
             <div class="text">
@@ -399,7 +598,7 @@
             <h4>
               <span>2024-03-22 @ 06:33:11</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39787932"
                   >Comments</a
@@ -422,7 +621,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39787176"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -437,11 +636,11 @@
             <h4>
               <span>2024-03-22 @ 02:48:23</span
               ><span class="points-container"
-                >Points: <span class="points">520</span></span
+                >Points: <span class="points">527</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39786984"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
@@ -458,30 +657,11 @@
             <h4>
               <span>2024-03-22 @ 01:50:47</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39786666"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39786663">
-          <h3>
-            <a class="item" href="https://github.com/robertmuth/Cwerg"
-              >Cwerg: C-like language that can be implemented in 10kLOC</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-22 @ 01:50:06</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39786663"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -507,6 +687,27 @@
             </h4>
           </section>
         </section>
+        <section id="39784395">
+          <h3>
+            <a
+              class="item"
+              href="https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data"
+              >Apollo Data Uncovers Lunar Seismic Events</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-21 @ 21:05:39</span
+              ><span class="points-container"
+                >Points: <span class="points">75</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39784395"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39784355">
           <h3>
             <a
@@ -528,70 +729,6 @@
             </h4>
           </section>
         </section>
-        <section id="39783223">
-          <h3>
-            <a class="item" href="https://memories.gallery/"
-              >Show HN: Memories – FOSS Google Photos alternative built for high
-              performance</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-21 @ 19:25:10</span
-              ><span class="points-container"
-                >Points: <span class="points">714</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39783223"
-                  >Comments</a
-                ><span class="descendants">: 206</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Website:
-                <a href="https://memories.gallery/"
-                  >https://memories.gallery/</a
-                >
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/pulsejet/memories"
-                  >https://github.com/pulsejet/memories</a
-                >
-              </p>
-              <p>
-                Demo Server:
-                <a href="https://demo.memories.gallery/apps/memories/"
-                  >https://demo.memories.gallery/apps/memories/</a
-                >
-                (demo runs in San Francisco on a free-tier cloud vm)
-              </p>
-              <p>
-                Memories has been built ground-up for high performance and is
-                extremely fast when configured correctly. In our testing
-                environment, it can load a timeline view with 100k photos in
-                under 500ms, including query and rendering time!
-              </p>
-              <p>Some features to highlight:</p>
-              <p>
-                * A timeline similar to Google Photos where you can skip to any
-                time in history instantly.
-              </p>
-              <p>
-                * AI-based tagging that runs locally on your server, identifying
-                and tagging people and objects.
-              </p>
-              <p>* Albums and external sharing.</p>
-              <p>* Metadata editing support</p>
-              <p>
-                * A world map of your photos, supported both on mobile and the
-                web
-              </p>
-              <p>* Did I mention it's extremely fast?</p>
-              <p>Would love to hear feedback from the HN community! :)</p>
-            </div>
-          </section>
-        </section>
         <section id="39782761">
           <h3>
             <a
@@ -605,100 +742,13 @@
             <h4>
               <span>2024-03-21 @ 18:48:55</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39782761"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="39779195">
-          <h3>
-            <a class="item" href="https://gofetch.fail"
-              >GoFetch: New side-channel attack using data memory-dependent
-              prefetchers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-21 @ 14:51:18</span
-              ><span class="points-container"
-                >Points: <span class="points">245</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39779195"
-                  >Comments</a
-                ><span class="descendants">: 65</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39778999">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html"
-              >U.S. sues Apple, accusing it of maintaining an iPhone monopoly</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-21 @ 14:37:43</span
-              ><span class="points-container"
-                >Points: <span class="points">2411</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39778999"
-                  >Comments</a
-                ><span class="descendants">: 2315</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39778570">
-          <h3>
-            <a class="item" href="https://github.com/chearon/dropflow"
-              >Show HN: Dropflow, a CSS layout engine for node or
-            </a>
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-21 @ 13:58:31</span
-              ><span class="points-container"
-                >Points: <span class="points">384</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39778570"
-                  >Comments</a
-                ><span class="descendants">: 124</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Live demo:
-                <a href="https://chearon.github.io/dropflow/"
-                  >https://chearon.github.io/dropflow/</a
-                >
-              </p>
-              <p>
-                It matches browsers in all cases I can find where they agree,
-                and it's fast. It supports `position`, `inline-block`,
-                `z-index`, and complex properties like `float` and
-                `vertical-align`. It doesn't support high-level layout like
-                flexbox or grid yet, but you can get intrinsics to easily divide
-                space yourself and paint multiple layout trees. It has a great
-                text layout implementation, and supporting non-Latin scripts is
-                a top priority.
-              </p>
-              <p>
-                I've wanted this to exist as far back as 2013, and the desire
-                kept coming up: for a way to get detailed intrinsics, for high
-                quality rich text layout to canvas and SVG, and for server-side
-                rich text. We currently use it in CellEngine for our new
-                canvas-based spreadsheet library to layout text in hundreds of
-                thousands of cells, and will be using it soon to render PDFs
-                with thousands of pages in a few seconds.
-              </p>
-            </div>
           </section>
         </section>
         <section id="39778412">
@@ -711,50 +761,11 @@
             <h4>
               <span>2024-03-21 @ 13:42:46</span
               ><span class="points-container"
-                >Points: <span class="points">1042</span></span
+                >Points: <span class="points">1044</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39778412"
                   >Comments</a
                 ><span class="descendants">: 173</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39777229">
-          <h3>
-            <a class="item" href="https://jsomers.net/e-coli-chemotaxis/"
-              >The baffling intelligence of a single cell: The story of E. coli
-              chemotaxis</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-21 @ 11:29:37</span
-              ><span class="points-container"
-                >Points: <span class="points">484</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39777229"
-                  >Comments</a
-                ><span class="descendants">: 197</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39775304">
-          <h3>
-            <a class="item" href="https://file770.com/vernor-vinge-1944-2024/"
-              >Vernor Vinge has died</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-21 @ 06:08:40</span
-              ><span class="points-container"
-                >Points: <span class="points">1100</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39775304"
-                  >Comments</a
-                ><span class="descendants">: 295</span></span
               >
             </h4>
           </section>
@@ -771,11 +782,33 @@
             <h4>
               <span>2024-03-20 @ 16:03:21</span
               ><span class="points-container"
-                >Points: <span class="points">949</span></span
+                >Points: <span class="points">950</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39768434"
                   >Comments</a
                 ><span class="descendants">: 269</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39761418">
+          <h3>
+            <a
+              class="item"
+              href="https://www.6sqft.com/how-researchers-used-nyc-buildings-to-measure-the-1925-solar-eclipse/"
+              >Researchers used NYC buildings to measure the 1925 solar
+              eclipse</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-19 @ 23:32:18</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39761418"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -811,11 +844,11 @@
             <h4>
               <span>2024-03-19 @ 10:35:52</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39754403"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -830,11 +863,11 @@
             <h4>
               <span>2024-03-18 @ 22:29:39</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39750836"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -850,9 +883,30 @@
             <h4>
               <span>2024-03-18 @ 11:57:46</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39742921"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39740835">
+          <h3>
+            <a
+              class="item"
+              href="https://www.qawolf.com//blog/principles-for-writing-parallizable-tests"
+              >Three ways to improve parallelized tests</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-18 @ 06:01:16</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39740835"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
               >
