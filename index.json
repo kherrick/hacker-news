@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-22, 02:49:44",
-      "https://news.ycombinator.com/item?id=39786989"
-    ],
-    [
-      "Microsoft Launches Surface Laptop 6 for Business and Surface Pro 10",
-      "https://blogs.windows.com/devices/2024/03/21/introducing-surface-pro-10-for-business-and-surface-laptop-6-for-business/"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 02:48:23",
       "https://news.ycombinator.com/item?id=39786984"
     ],
@@ -67,6 +57,16 @@
     [
       "Improving OKRs – By Daniel Walters",
       "https://wioota.substack.com/p/improving-okrs"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 21:57:34",
+      "https://news.ycombinator.com/item?id=39784897"
+    ],
+    [
+      "How to Harvest Moisture from the Atmosphere",
+      "https://www.economist.com/science-and-technology/2024/03/13/how-to-harvest-moisture-from-the-atmosphere"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-03-21, 12:50:58",
-      "https://news.ycombinator.com/item?id=39777898"
-    ],
-    [
-      "Research shows plant-based polymers can disappear within seven months",
-      "https://today.ucsd.edu/story/biodegradable-microplastics"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 11:29:37",
       "https://news.ycombinator.com/item?id=39777229"
     ],
@@ -297,6 +287,16 @@
     [
       "Disk write buffering and its interactions with write flushes",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs"
+    ]
+  ],
+  [
+    [
+      "2024-03-17, 19:15:04",
+      "https://news.ycombinator.com/item?id=39737123"
+    ],
+    [
+      "Verifying Hardware Security with RTL Simulation",
+      "https://semiengineering.com/verifying-hardware-security-with-rtl-simulation/"
     ]
   ]
 ]
