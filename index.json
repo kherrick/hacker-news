@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 21:06:13",
+      "https://news.ycombinator.com/item?id=39794864"
+    ],
+    [
+      "Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers",
+      "https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 21:01:02",
       "https://news.ycombinator.com/item?id=39794815"
     ],
@@ -57,16 +67,6 @@
     [
       "Show HN: magick.css – Minimalist CSS for Wizards",
       "https://css.winterveil.net"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 18:42:39",
-      "https://news.ycombinator.com/item?id=39793505"
-    ],
-    [
-      "Designing a Pure Python Web Framework",
-      "https://reflex.dev/blog/2024-03-21-reflex-architecture/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-03-22, 08:20:47",
-      "https://news.ycombinator.com/item?id=39788456"
-    ],
-    [
-      "Hexagons and Hilbert curves – The headaches of distributed spatial indices",
-      "https://hivekit.io/blog/the-headaches-of-distributed-spatial-indices/"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 07:53:38",
       "https://news.ycombinator.com/item?id=39788322"
     ],
@@ -237,6 +227,16 @@
     [
       "Chronos: Learning the Language of Time Series",
       "https://arxiv.org/abs/2403.07815"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 02:48:23",
+      "https://news.ycombinator.com/item?id=39786984"
+    ],
+    [
+      "Picotron Is a Fantasy Workstation",
+      "https://www.lexaloffle.com/picotron.php"
     ]
   ],
   [
