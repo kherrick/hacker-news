@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 17:45:53](https://news.ycombinator.com/item?id=39793044) - [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
 * [2024-03-22, 17:00:55](https://news.ycombinator.com/item?id=39792640) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
 * [2024-03-22, 16:40:03](https://news.ycombinator.com/item?id=39792383) - [2K earthquakes in 1 day off Canada coast suggest ocean floor is ripping apart](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
 * [2024-03-22, 16:28:20](https://news.ycombinator.com/item?id=39792263) - [Dutch Court Orders ISP to Block 'Anna's Archive' and 'LibGen'](https://torrentfreak.com/dutch-court-orders-isp-to-block-annas-archive-and-libgen-240322/)
