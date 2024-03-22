@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 12:37:00",
+      "https://news.ycombinator.com/item?id=39790076"
+    ],
+    [
+      "Robots Are Entering the Ukraine Battlefield Following Success in the Air and Sea",
+      "https://www.wsj.com/world/europe/robots-are-entering-the-ukraine-battlefield-fab195d2"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 12:18:38",
       "https://news.ycombinator.com/item?id=39789920"
     ],
@@ -55,8 +65,18 @@
       "https://news.ycombinator.com/item?id=39787176"
     ],
     [
-      "Amazon Chronos: Learning the Language of Time Series",
+      "Chronos: Learning the Language of Time Series",
       "https://arxiv.org/abs/2403.07815"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 02:49:44",
+      "https://news.ycombinator.com/item?id=39786989"
+    ],
+    [
+      "Microsoft Launches Surface Laptop 6 for Business and Surface Pro 10",
+      "https://blogs.windows.com/devices/2024/03/21/introducing-surface-pro-10-for-business-and-surface-laptop-6-for-business/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-03-21, 23:38:22",
-      "https://news.ycombinator.com/item?id=39785757"
-    ],
-    [
-      "Radix Tree in Julia",
-      "https://liorsinai.github.io/coding/2024/03/21/radix-tree.html"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 21:45:46",
       "https://news.ycombinator.com/item?id=39784784"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39784656"
     ],
     [
-      "Introduction to Algorithmic Art",
+      "Algorithmic Mathematical Art (2004)",
       "http://xahlee.info/math/algorithmic_math_art.html"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Implementing Vertical Form Controls",
       "https://webkit.org/blog/15190/implementing-vertical-form-controls/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 13:46:57",
-      "https://news.ycombinator.com/item?id=39755696"
-    ],
-    [
-      "Fujitsu says it found malware on its corporate network, warns of data breach",
-      "https://arstechnica.com/security/2024/03/fujitsu-says-it-found-malware-on-its-corporate-network-warns-of-possible-data-breach/"
     ]
   ],
   [
