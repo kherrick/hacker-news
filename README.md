@@ -19,7 +19,6 @@
 * [2024-03-21, 17:35:39](https://news.ycombinator.com/item?id=39781776) - [Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant](https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/)
 * [2024-03-21, 15:48:16](https://news.ycombinator.com/item?id=39780114) - [Show HN: Ragas – Open-source library for evaluating RAG pipelines](https://github.com/explodinggradients/ragas)
 * [2024-03-21, 14:57:56](https://news.ycombinator.com/item?id=39779291) - [Hackers found a way to open any of 3M hotel keycard locks](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
-* [2024-03-21, 14:51:18](https://news.ycombinator.com/item?id=39779195) - [GoFetch: New side-channel attack using data memory-dependent prefetchers](https://gofetch.fail)
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 13:58:31](https://news.ycombinator.com/item?id=39778570) - [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
@@ -28,6 +27,7 @@
 * [2024-03-20, 20:52:59](https://news.ycombinator.com/item?id=39771878) - [Array Languages: R vs. APL (2023)](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-19, 16:24:29](https://news.ycombinator.com/item?id=39757394) - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
+* [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 * [2024-03-18, 22:29:39](https://news.ycombinator.com/item?id=39750836) - [On limitations that hide in your blindspot](https://www.henrikkarlsson.xyz/p/limitatons)
 * [2024-03-18, 07:04:26](https://news.ycombinator.com/item?id=39741096) - [Disk write buffering and its interactions with write flushes](https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs)
 
