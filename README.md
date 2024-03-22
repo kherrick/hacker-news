@@ -23,12 +23,12 @@
 * [2024-03-22, 10:19:53](https://news.ycombinator.com/item?id=39789139) - [My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
 * [2024-03-22, 08:20:47](https://news.ycombinator.com/item?id=39788456) - [Hexagons and Hilbert curves – The headaches of distributed spatial indices](https://hivekit.io/blog/the-headaches-of-distributed-spatial-indices/)
 * [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
+* [2024-03-22, 03:25:13](https://news.ycombinator.com/item?id=39787176) - [Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
 * [2024-03-21, 18:48:55](https://news.ycombinator.com/item?id=39782761) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
-* [2024-03-20, 01:01:42](https://news.ycombinator.com/item?id=39761951) - [This Was Village Life in Britain 3k Years Ago](https://www.nytimes.com/2024/03/19/science/archaeology-britain-must-farm.html)
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 
 ## [Archives](archives/index.md)
