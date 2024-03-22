@@ -39,6 +39,7 @@
 * [2024-03-22, 15:01:56](https://news.ycombinator.com/item?id=39791405) - [Working-age death rate 2.5x higher in the US than other countries. Why?](https://newatlas.com/health-wellbeing/working-age-us-adults-mortality-rates/)
 * [2024-03-22, 14:52:06](https://news.ycombinator.com/item?id=39791301) - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
 * [2024-03-22, 14:39:09](https://news.ycombinator.com/item?id=39791182) - ['Backpacks' attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
+* [2024-03-22, 14:29:10](https://news.ycombinator.com/item?id=39791086) - [Abstrusegoose.com Is Gone for Good](https://news.ycombinator.com/item?id=39791086)
 * [2024-03-22, 14:26:51](https://news.ycombinator.com/item?id=39791066) - [The first step toward disintegrating Israel's settler machine](https://www.972mag.com/sanctions-israel-settler-machine/)
 * [2024-03-22, 13:52:07](https://news.ycombinator.com/item?id=39790774) - [China's Age of Malaise (2023)](https://www.newyorker.com/magazine/2023/10/30/chinas-age-of-malaise)
 * [2024-03-22, 13:45:10](https://news.ycombinator.com/item?id=39790701) - [Unionbusters (1986)](https://www.texasmonthly.com/news-politics/unionbusters-ila-port-houston/)
