@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-22, 15:20:56](https://news.ycombinator.com/item?id=39791595) - [First global AI resolution unanimously adopted by United Nations](https://arstechnica.com/information-technology/2024/03/worlds-first-global-ai-resolution-unanimously-adopted-by-united-nations/)
 * [2024-03-22, 13:12:43](https://news.ycombinator.com/item?id=39790365) - [The Bulma CSS framework reaches 1.0](https://github.com/jgthms/bulma/releases/tag/1.0.0)
 * [2024-03-22, 12:28:46](https://news.ycombinator.com/item?id=39790003) - [Show HN: Free Plain-Text Bookmarking](https://webtag.io)
 * [2024-03-22, 12:18:38](https://news.ycombinator.com/item?id=39789920) - [Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
@@ -23,6 +22,7 @@
 * [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 13:58:31](https://news.ycombinator.com/item?id=39778570) - [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
+* [2024-03-21, 12:50:58](https://news.ycombinator.com/item?id=39777898) - [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
