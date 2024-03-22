@@ -60,6 +60,7 @@
 * [2024-03-19, 14:53:51](https://news.ycombinator.com/item?id=39756325) - [Show HN: Godspeed is a fast, 100% keyboard oriented todo app for Mac](https://godspeedapp.com/)
 * [2024-03-19, 14:49:43](https://news.ycombinator.com/item?id=39756269) - [Marc Andreessen Lists Silicon Valley Compound After $250M Malibu Spending Spree](https://www.wsj.com/real-estate/luxury-homes/billionaire-marc-andreessen-lists-silicon-valley-compound-following-250-million-malibu-spending-spree-bc88dea2)
 * [2024-03-19, 14:48:12](https://news.ycombinator.com/item?id=39756262) - [Understanding Google's File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
+* [2024-03-19, 14:30:26](https://news.ycombinator.com/item?id=39756096) - [Show HN: Curl2Url](https://curl2url.com)
 * [2024-03-19, 14:30:08](https://news.ycombinator.com/item?id=39756093) - [Ask HN: How should organize and back up 23 TiB of personal files?](https://news.ycombinator.com/item?id=39756093)
 * [2024-03-19, 14:20:23](https://news.ycombinator.com/item?id=39755994) - [A FreeBSD User Tries NetBSD 10-RC5](https://www.youtube.com/watch?v=fLmIKENJxe4)
 * [2024-03-19, 14:19:30](https://news.ycombinator.com/item?id=39755982) - [AI researchers have started reviewing their peers using AI assistance](https://www.theregister.com/2024/03/19/ai_researchers_reviewing_peers/)

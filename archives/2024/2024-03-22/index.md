@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 10:36:48](https://news.ycombinator.com/item?id=39789250) - [Ask HN: What are some of the best user experiences with AI?](https://news.ycombinator.com/item?id=39789250)
 * [2024-03-22, 08:55:01](https://news.ycombinator.com/item?id=39788666) - ['Gen X has had to learn or die': Mid-career workers are facing ageism](https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism)
 * [2024-03-22, 08:52:51](https://news.ycombinator.com/item?id=39788649) - [Ask HN: How to run an old-school mailing list?](https://news.ycombinator.com/item?id=39788649)
 * [2024-03-22, 08:44:04](https://news.ycombinator.com/item?id=39788590) - [OpenAI GPT-4 vs. Groq Mistral-8x7B](https://serpapi.com/blog/openai-gpt-4-vs-groq-mistral/)
