@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 12:18:38](https://news.ycombinator.com/item?id=39789920) - [Why Is It So Hard to Build an Airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 * [2024-03-22, 12:00:35](https://news.ycombinator.com/item?id=39789790) - [Aviator (YC S21) is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 * [2024-03-22, 11:15:41](https://news.ycombinator.com/item?id=39789491) - [Plain Text Email](https://notes.ghed.in/posts/2024/plain-text-email/)
 * [2024-03-22, 10:54:38](https://news.ycombinator.com/item?id=39789369) - [Germany just legalized recreational marijuana](https://www.spiegel.de/politik/deutschland/cannabis-bundesrat-billigt-legalisierung-a-86ed2890-c788-4ce7-877a-21dced023219)
