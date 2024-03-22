@@ -7,7 +7,6 @@
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 * [2024-03-22, 01:03:16](https://news.ycombinator.com/item?id=39786370) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
 * [2024-03-22, 00:25:59](https://news.ycombinator.com/item?id=39786124) - [The Origins of the Generic Mapping Tools](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231)
-* [2024-03-21, 23:49:30](https://news.ycombinator.com/item?id=39785833) - [18F: CSS Coding Styleguide](https://guides.18f.gov/engineering/languages-runtimes/css/)
 * [2024-03-21, 22:19:51](https://news.ycombinator.com/item?id=39785126) - [Improving OKRs – By Daniel Walters](https://wioota.substack.com/p/improving-okrs)
 * [2024-03-21, 21:31:47](https://news.ycombinator.com/item?id=39784656) - [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
@@ -28,6 +27,7 @@
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-20, 20:52:59](https://news.ycombinator.com/item?id=39771878) - [Array Languages: R vs. APL (2023)](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-19, 16:24:29](https://news.ycombinator.com/item?id=39757394) - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
+* [2024-03-19, 12:39:46](https://news.ycombinator.com/item?id=39755089) - [Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 * [2024-03-18, 07:04:26](https://news.ycombinator.com/item?id=39741096) - [Disk write buffering and its interactions with write flushes](https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs)
 
