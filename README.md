@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-22, 03:25:13](https://news.ycombinator.com/item?id=39787176) - [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
-* [2024-03-22, 03:07:29](https://news.ycombinator.com/item?id=39787096) - [Daily Driving Ubuntu on M1 Mac](https://www.feliciano.tech/blog/daily-driving-ubuntu-asahi-for-over-a-month/)
 * [2024-03-22, 02:49:44](https://news.ycombinator.com/item?id=39786989) - [Microsoft Launches Surface Laptop 6 for Business and Surface Pro 10](https://blogs.windows.com/devices/2024/03/21/introducing-surface-pro-10-for-business-and-surface-laptop-6-for-business/)
 * [2024-03-22, 02:48:23](https://news.ycombinator.com/item?id=39786984) - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
@@ -14,6 +13,7 @@
 * [2024-03-21, 18:19:23](https://news.ycombinator.com/item?id=39782356) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:09:18](https://news.ycombinator.com/item?id=39782213) - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
 * [2024-03-21, 17:35:39](https://news.ycombinator.com/item?id=39781776) - [Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant](https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/)
+* [2024-03-21, 17:11:24](https://news.ycombinator.com/item?id=39781418) - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
 * [2024-03-21, 15:48:16](https://news.ycombinator.com/item?id=39780114) - [Show HN: Ragas – Open-source library for evaluating RAG pipelines](https://github.com/explodinggradients/ragas)
 * [2024-03-21, 14:57:56](https://news.ycombinator.com/item?id=39779291) - [Hackers found a way to open any of 3M hotel keycard locks](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
 * [2024-03-21, 14:51:18](https://news.ycombinator.com/item?id=39779195) - [GoFetch: New side-channel attack using data memory-dependent prefetchers](https://gofetch.fail)
