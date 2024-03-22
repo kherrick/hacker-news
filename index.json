@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-03-22, 19:24:44",
+      "https://news.ycombinator.com/item?id=39793903"
+    ],
+    [
+      "General Motors Quits Sharing Driving Behavior with Data Brokers",
+      "https://www.nytimes.com/2024/03/22/technology/gm-onstar-driver-data.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 19:21:07",
+      "https://news.ycombinator.com/item?id=39793871"
+    ],
+    [
+      "At least 18 killed, 43 wounded after terrorists attack at concert hall in Moscow",
+      "https://www.jpost.com/breaking-news/article-793277"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 19:17:23",
+      "https://news.ycombinator.com/item?id=39793842"
+    ],
+    [
+      "EU Parliament commitee approves cash cap and ban on anonymous crypto payments",
+      "https://www.patrick-breyer.de/en/eu-cash-cap-and-ban-on-anonymous-crypto-payments-results-in-financial-paternalism/"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 19:06:05",
+      "https://news.ycombinator.com/item?id=39793754"
+    ],
+    [
+      "Mozilla Drops Onerep After CEO Admits to Running People-Search Networks",
+      "https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 18:08:18",
       "https://news.ycombinator.com/item?id=39793191"
     ],
@@ -211,36 +251,6 @@
   ],
   [
     [
-      "2024-03-21, 17:35:39",
-      "https://news.ycombinator.com/item?id=39781776"
-    ],
-    [
-      "Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant",
-      "https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 14:37:43",
-      "https://news.ycombinator.com/item?id=39778999"
-    ],
-    [
-      "U.S. sues Apple, accusing it of maintaining an iPhone monopoly",
-      "https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 13:42:46",
-      "https://news.ycombinator.com/item?id=39778412"
-    ],
-    [
-      "Difftastic, a structural diff tool that understands syntax",
-      "https://difftastic.wilfred.me.uk/"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 08:43:23",
       "https://news.ycombinator.com/item?id=39776108"
     ],
@@ -287,16 +297,6 @@
     [
       "On limitations that hide in your blindspot",
       "https://www.henrikkarlsson.xyz/p/limitatons"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 11:57:46",
-      "https://news.ycombinator.com/item?id=39742921"
-    ],
-    [
-      "Implementation of mixture of experts language model in a single file of PyTorch",
-      "https://github.com/AviSoori1x/makeMoE"
     ]
   ]
 ]
