@@ -4,7 +4,6 @@
 * [2024-03-22, 05:36:37](https://news.ycombinator.com/item?id=39787728) - [Gitlab confirms it's removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
 * [2024-03-22, 04:48:01](https://news.ycombinator.com/item?id=39787559) - [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
 * [2024-03-22, 03:25:13](https://news.ycombinator.com/item?id=39787176) - [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
-* [2024-03-22, 03:22:31](https://news.ycombinator.com/item?id=39787165) - [Ask HN: Anyone looking for contributors for their open source projects](https://news.ycombinator.com/item?id=39787165)
 * [2024-03-22, 02:48:23](https://news.ycombinator.com/item?id=39786984) - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 02:40:39](https://news.ycombinator.com/item?id=39786943) - [Navigating the World of Large Language Models](https://www.bentoml.com/blog/navigating-the-world-of-large-language-models)
 * [2024-03-22, 02:39:09](https://news.ycombinator.com/item?id=39786934) - [Greece, Argentina and India are the fastest improving business environments](https://www.eiu.com/n/greece-argentina-and-india-are-the-fastest-improving-business-environments/)
@@ -29,6 +28,7 @@
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 * [2024-03-18, 22:29:39](https://news.ycombinator.com/item?id=39750836) - [On limitations that hide in your blindspot](https://www.henrikkarlsson.xyz/p/limitatons)
+* [2024-03-18, 11:57:46](https://news.ycombinator.com/item?id=39742921) - [Implementation of mixture of experts language model in a single file of PyTorch](https://github.com/AviSoori1x/makeMoE)
 * [2024-03-18, 07:04:26](https://news.ycombinator.com/item?id=39741096) - [Disk write buffering and its interactions with write flushes](https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs)
 
 ## [Archives](archives/index.md)

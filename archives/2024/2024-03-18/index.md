@@ -98,6 +98,7 @@
 * [2024-03-18, 12:45:49](https://news.ycombinator.com/item?id=39743594) - [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
 * [2024-03-18, 12:37:14](https://news.ycombinator.com/item?id=39743483) - [Ask HN: What are your oldest \"online\" accounts still in use?](https://news.ycombinator.com/item?id=39743483)
 * [2024-03-18, 12:30:29](https://news.ycombinator.com/item?id=39743398) - [Tata joins hands with PSMC to build India's first 12-inch fab](https://www.powerchip.com/en-global/insights/press-releases/content/20240229)
+* [2024-03-18, 11:57:46](https://news.ycombinator.com/item?id=39742921) - [Implementation of mixture of experts language model in a single file of PyTorch](https://github.com/AviSoori1x/makeMoE)
 * [2024-03-18, 11:57:24](https://news.ycombinator.com/item?id=39742916) - [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 * [2024-03-18, 11:53:10](https://news.ycombinator.com/item?id=39742855) - [Boeing Tells Airlines to Check 787 Cockpit Seats After Mishap on Latam Flight](https://www.msn.com/en-us/travel/news/cockpit-mishap-might-have-caused-plunge-on-latam-boeing-787/ar-BB1jUQzi)
 * [2024-03-18, 11:39:42](https://news.ycombinator.com/item?id=39742692) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
