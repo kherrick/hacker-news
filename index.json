@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 08:55:01",
+      "https://news.ycombinator.com/item?id=39788666"
+    ],
+    [
+      "'Gen X has had to learn or die': Mid-career workers are facing ageism",
+      "https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 08:05:04",
       "https://news.ycombinator.com/item?id=39788385"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-03-21, 18:19:23",
-      "https://news.ycombinator.com/item?id=39782356"
-    ],
-    [
-      "DuckDB as the New jq",
-      "https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 18:09:18",
       "https://news.ycombinator.com/item?id=39782213"
     ],
@@ -187,6 +187,16 @@
     [
       "Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant",
       "https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 14:51:18",
+      "https://news.ycombinator.com/item?id=39779195"
+    ],
+    [
+      "GoFetch: New side-channel attack using data memory-dependent prefetchers",
+      "https://gofetch.fail"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Implementing Vertical Form Controls",
       "https://webkit.org/blog/15190/implementing-vertical-form-controls/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 11:46:38",
-      "https://news.ycombinator.com/item?id=39754786"
-    ],
-    [
-      "Tunnelmole, an ngrok alternative (open source)",
-      "https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/"
     ]
   ],
   [
