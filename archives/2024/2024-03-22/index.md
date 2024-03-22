@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 03:39:30](https://news.ycombinator.com/item?id=39787251) - [Stanford Math-Education Expert Has 'Reckless Disregard for Accuracy'](https://www.chronicle.com/article/stanford-math-education-expert-has-reckless-disregard-for-accuracy-complaint-alleges)
 * [2024-03-22, 03:25:13](https://news.ycombinator.com/item?id=39787176) - [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 * [2024-03-22, 03:07:29](https://news.ycombinator.com/item?id=39787096) - [Daily Driving Ubuntu on M1 Mac](https://www.feliciano.tech/blog/daily-driving-ubuntu-asahi-for-over-a-month/)
 * [2024-03-22, 02:49:44](https://news.ycombinator.com/item?id=39786989) - [Microsoft Launches Surface Laptop 6 for Business and Surface Pro 10](https://blogs.windows.com/devices/2024/03/21/introducing-surface-pro-10-for-business-and-surface-laptop-6-for-business/)
