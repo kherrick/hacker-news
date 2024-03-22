@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-21, 23:27:28](https://news.ycombinator.com/item?id=39785660) - [FDA says marijuana has a legitimate medicinal purpose](https://www.abcactionnews.com/news/national/fda-says-marijuana-has-a-legitimate-medicinal-purpose)
+* [2024-03-21, 21:31:47](https://news.ycombinator.com/item?id=39784656) - [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
 * [2024-03-21, 21:00:41](https://news.ycombinator.com/item?id=39784349) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-03-21, 20:43:03](https://news.ycombinator.com/item?id=39784148) - [A type of bacteria that causes dental plaque was found in 50% of colon cancers](https://www.nbcnews.com/health/cancer/aggressive-colon-cancer-newly-identified-bacteria-found-half-tumors-ma-rcna144164)
@@ -21,8 +22,6 @@
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
 * [2024-03-21, 11:29:37](https://news.ycombinator.com/item?id=39777229) - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 * [2024-03-21, 10:16:01](https://news.ycombinator.com/item?id=39776745) - [HiddenVM – Use any desktop OS without leaving a trace](https://github.com/aforensics/HiddenVM)
-* [2024-03-21, 09:08:52](https://news.ycombinator.com/item?id=39776274) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
-* [2024-03-21, 08:57:17](https://news.ycombinator.com/item?id=39776199) - [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
 * [2024-03-21, 06:08:40](https://news.ycombinator.com/item?id=39775304) - [Vernor Vinge has died](https://file770.com/vernor-vinge-1944-2024/)
 * [2024-03-20, 20:56:41](https://news.ycombinator.com/item?id=39771925) - [Crookes Radiometer](https://en.wikipedia.org/wiki/Crookes_radiometer)
 * [2024-03-20, 20:52:59](https://news.ycombinator.com/item?id=39771878) - [Array Languages: R vs. APL (2023)](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
@@ -30,6 +29,7 @@
 * [2024-03-19, 12:39:46](https://news.ycombinator.com/item?id=39755089) - [Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 * [2024-03-18, 07:04:26](https://news.ycombinator.com/item?id=39741096) - [Disk write buffering and its interactions with write flushes](https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs)
+* [2024-03-17, 19:15:04](https://news.ycombinator.com/item?id=39737123) - [Verifying Hardware Security with RTL Simulation](https://semiengineering.com/verifying-hardware-security-with-rtl-simulation/)
 
 ## [Archives](archives/index.md)
 

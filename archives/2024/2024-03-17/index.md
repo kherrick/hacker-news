@@ -32,6 +32,7 @@
 * [2024-03-17, 19:33:37](https://news.ycombinator.com/item?id=39737281) - [Grok](https://github.com/xai-org/grok)
 * [2024-03-17, 19:28:53](https://news.ycombinator.com/item?id=39737236) - [Z85: Format for representing binary data as printable text](https://rfc.zeromq.org/spec/32/)
 * [2024-03-17, 19:22:07](https://news.ycombinator.com/item?id=39737193) - [Grok Weights Available via Torrent](https://twitter.com/grok/status/1769441648910479423)
+* [2024-03-17, 19:15:04](https://news.ycombinator.com/item?id=39737123) - [Verifying Hardware Security with RTL Simulation](https://semiengineering.com/verifying-hardware-security-with-rtl-simulation/)
 * [2024-03-17, 19:14:56](https://news.ycombinator.com/item?id=39737122) - [Vector: A high-performance observability data pipeline](https://github.com/vectordotdev/vector)
 * [2024-03-17, 19:09:50](https://news.ycombinator.com/item?id=39737084) - [Superiority by Arthur C. Clarke](https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/)
 * [2024-03-17, 19:06:24](https://news.ycombinator.com/item?id=39737053) - [Heat pumps slash emissions even if powered by a dirty grid](https://www.canarymedia.com/articles/heat-pumps/yes-heat-pumps-slash-emissions-even-if-powered-by-a-dirty-grid)
