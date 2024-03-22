@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
 * [2024-03-21, 23:49:30](https://news.ycombinator.com/item?id=39785833) - [18F: CSS Coding Styleguide](https://guides.18f.gov/engineering/languages-runtimes/css/)
+* [2024-03-21, 23:46:55](https://news.ycombinator.com/item?id=39785815) - [Employer Review Site Glassdoor Deanonymized Users Without Consent](https://restoreprivacy.com/employer-review-site-glassdoor-deanonymized-users-without-consent/)
 * [2024-03-21, 23:27:28](https://news.ycombinator.com/item?id=39785660) - [FDA says marijuana has a legitimate medicinal purpose](https://www.abcactionnews.com/news/national/fda-says-marijuana-has-a-legitimate-medicinal-purpose)
 * [2024-03-21, 22:19:51](https://news.ycombinator.com/item?id=39785126) - [Improving OKRs – By Daniel Walters](https://wioota.substack.com/p/improving-okrs)
 * [2024-03-21, 21:57:34](https://news.ycombinator.com/item?id=39784897) - [How to Harvest Moisture from the Atmosphere](https://www.economist.com/science-and-technology/2024/03/13/how-to-harvest-moisture-from-the-atmosphere)
