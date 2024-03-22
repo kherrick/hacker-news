@@ -29,6 +29,7 @@
 * [2024-03-21, 19:04:53](https://news.ycombinator.com/item?id=39782975) - [OpenSplat – 3D gaussian splatting in C++ with CPU and GPU support](https://github.com/pierotofy/OpenSplat)
 * [2024-03-21, 19:00:21](https://news.ycombinator.com/item?id=39782923) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
 * [2024-03-21, 18:56:21](https://news.ycombinator.com/item?id=39782876) - [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
+* [2024-03-21, 18:48:55](https://news.ycombinator.com/item?id=39782761) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 18:45:14](https://news.ycombinator.com/item?id=39782711) - [SBF repeatedly lied to get out of \"supervillain\" prison term, FTX CEO alleges](https://arstechnica.com/tech-policy/2024/03/ftx-chief-lays-out-all-the-ways-sbf-sucks-in-detailed-court-filing/)
 * [2024-03-21, 18:19:23](https://news.ycombinator.com/item?id=39782356) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:13:51](https://news.ycombinator.com/item?id=39782278) - [Things That Don't Work](https://dynomight.substack.com/p/things)
