@@ -18,6 +18,7 @@
 * [2024-03-22, 19:11:45](https://news.ycombinator.com/item?id=39793805) - [Pack: A New Container Format for Compressed Files](https://pack.ac/note/pack)
 * [2024-03-22, 19:06:35](https://news.ycombinator.com/item?id=39793758) - [The antitrust case against Apple](https://pluralistic.net/2024/03/22/reality-distortion-field/#three-trillion-here-three-trillion-there-pretty-soon-youre-talking-real-money)
 * [2024-03-22, 19:06:05](https://news.ycombinator.com/item?id=39793754) - [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
+* [2024-03-22, 18:43:12](https://news.ycombinator.com/item?id=39793513) - [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 * [2024-03-22, 18:42:39](https://news.ycombinator.com/item?id=39793505) - [Designing a Pure Python Web Framework](https://reflex.dev/blog/2024-03-21-reflex-architecture/)
 * [2024-03-22, 18:34:56](https://news.ycombinator.com/item?id=39793420) - [Pure CSS Website](https://pure-css-site.netlify.app/)
 * [2024-03-22, 18:25:40](https://news.ycombinator.com/item?id=39793339) - [Apple says it spent three years trying to bring Apple Watch to Android](https://9to5mac.com/2024/03/21/apple-watch-android-apple-work/)

@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-22, 21:10:20](https://news.ycombinator.com/item?id=39794901) - [Robots Are Entering the Ukraine Battlefield](https://www.wsj.com/world/europe/robots-are-entering-the-ukraine-battlefield-fab195d2)
 * [2024-03-22, 21:01:02](https://news.ycombinator.com/item?id=39794815) - [Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
 * [2024-03-22, 19:46:57](https://news.ycombinator.com/item?id=39794118) - [Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 * [2024-03-22, 19:06:05](https://news.ycombinator.com/item?id=39793754) - [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
+* [2024-03-22, 18:43:12](https://news.ycombinator.com/item?id=39793513) - [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 * [2024-03-22, 18:42:39](https://news.ycombinator.com/item?id=39793505) - [Designing a Pure Python Web Framework](https://reflex.dev/blog/2024-03-21-reflex-architecture/)
 * [2024-03-22, 18:34:56](https://news.ycombinator.com/item?id=39793420) - [Pure CSS Website](https://pure-css-site.netlify.app/)
-* [2024-03-22, 18:20:00](https://news.ycombinator.com/item?id=39793293) - [Why the 2% Inflation Target? (2023)](https://sites.lsa.umich.edu/mje/2023/09/04/why-the-2-inflation-target/)
 * [2024-03-22, 18:13:57](https://news.ycombinator.com/item?id=39793250) - [DenseFormer: Enhancing Information Flow in Transformers](https://arxiv.org/abs/2402.02622)
 * [2024-03-22, 18:08:18](https://news.ycombinator.com/item?id=39793191) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-22, 17:45:53](https://news.ycombinator.com/item?id=39793044) - [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
@@ -29,6 +28,7 @@
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
 * [2024-03-21, 18:48:55](https://news.ycombinator.com/item?id=39782761) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
+* [2024-03-19, 19:00:58](https://news.ycombinator.com/item?id=39759086) - [An empirical answer to the question, when Postgres is not enough](https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31?gi=bdf24da23039)
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 
 ## [Archives](archives/index.md)

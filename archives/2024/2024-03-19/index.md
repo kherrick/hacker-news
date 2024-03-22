@@ -37,6 +37,7 @@
 * [2024-03-19, 19:24:58](https://news.ycombinator.com/item?id=39759338) - [New Node.js Website Design](https://nodejs.org/en)
 * [2024-03-19, 19:23:23](https://news.ycombinator.com/item?id=39759325) - [Show HN: jnv: interactive JSON filter using jq](https://github.com/ynqa/jnv)
 * [2024-03-19, 19:21:55](https://news.ycombinator.com/item?id=39759312) - [Stardew Valley 1.6 Changelog](https://www.stardewvalley.net/stardew-valley-1-6-update-full-changelog/)
+* [2024-03-19, 19:00:58](https://news.ycombinator.com/item?id=39759086) - [An empirical answer to the question, when Postgres is not enough](https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31?gi=bdf24da23039)
 * [2024-03-19, 18:15:29](https://news.ycombinator.com/item?id=39758667) - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
 * [2024-03-19, 18:09:05](https://news.ycombinator.com/item?id=39758601) - [Internals of the async/await pattern from first principles](https://github.com/Dobiasd/articles/blob/master/internals_of_the_async_await_pattern_from_first_principles.md)
 * [2024-03-19, 17:53:18](https://news.ycombinator.com/item?id=39758451) - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
