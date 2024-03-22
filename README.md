@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-22, 22:13:35](https://news.ycombinator.com/item?id=39795415) - [Someone made a device that's just a mechanical finger connected to Zigbee](https://mastodon.social/@whitequark/112128649344539396)
 * [2024-03-22, 21:01:02](https://news.ycombinator.com/item?id=39794815) - [Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
 * [2024-03-22, 19:46:57](https://news.ycombinator.com/item?id=39794118) - [Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
@@ -24,6 +23,7 @@
 * [2024-03-22, 10:19:53](https://news.ycombinator.com/item?id=39789139) - [My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
 * [2024-03-22, 08:20:47](https://news.ycombinator.com/item?id=39788456) - [Hexagons and Hilbert curves – The headaches of distributed spatial indices](https://hivekit.io/blog/the-headaches-of-distributed-spatial-indices/)
 * [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
+* [2024-03-22, 03:25:13](https://news.ycombinator.com/item?id=39787176) - [Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
