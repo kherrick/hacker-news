@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-22, 05:11:20](https://news.ycombinator.com/item?id=39787642) - [Thiel Foundation Announces Next Thiel Fellow Class](https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class)
 * [2024-03-22, 04:48:01](https://news.ycombinator.com/item?id=39787559) - [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
 * [2024-03-22, 03:25:13](https://news.ycombinator.com/item?id=39787176) - [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 * [2024-03-22, 03:22:31](https://news.ycombinator.com/item?id=39787165) - [Ask HN: Anyone looking for contributors for their open source projects](https://news.ycombinator.com/item?id=39787165)
@@ -10,7 +11,6 @@
 * [2024-03-22, 00:25:59](https://news.ycombinator.com/item?id=39786124) - [The Origins of the Generic Mapping Tools](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231)
 * [2024-03-21, 23:46:55](https://news.ycombinator.com/item?id=39785815) - [Employer Review Site Glassdoor Deanonymized Users Without Consent](https://restoreprivacy.com/employer-review-site-glassdoor-deanonymized-users-without-consent/)
 * [2024-03-21, 22:19:51](https://news.ycombinator.com/item?id=39785126) - [Improving OKRs – By Daniel Walters](https://wioota.substack.com/p/improving-okrs)
-* [2024-03-21, 21:57:34](https://news.ycombinator.com/item?id=39784897) - [How to Harvest Moisture from the Atmosphere](https://www.economist.com/science-and-technology/2024/03/13/how-to-harvest-moisture-from-the-atmosphere)
 * [2024-03-21, 21:31:47](https://news.ycombinator.com/item?id=39784656) - [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
 * [2024-03-21, 19:25:10](https://news.ycombinator.com/item?id=39783223) - [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
