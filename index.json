@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-22, 13:26:56",
+      "https://news.ycombinator.com/item?id=39790505"
+    ],
+    [
+      "California's largest home insurer won't renew 72,000 policies",
+      "https://www.sfchronicle.com/california/article/state-farm-insurance-nonrenewals-19357533.php"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 13:26:01",
+      "https://news.ycombinator.com/item?id=39790497"
+    ],
+    [
+      "Crime stories drove readers to GoFundMe campaigns, only the victims didn't exist",
+      "https://www.nbcnews.com/news/crime-stories-drove-readers-gofundme-campaigns-only-victims-didnt-exis-rcna144167"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 12:55:46",
       "https://news.ycombinator.com/item?id=39790238"
     ],
@@ -21,12 +41,42 @@
   ],
   [
     [
+      "2024-03-22, 12:18:25",
+      "https://news.ycombinator.com/item?id=39789919"
+    ],
+    [
+      "PICO-8 fantasy console Education Edition",
+      "https://www.pico-8-edu.com/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 12:00:35",
       "https://news.ycombinator.com/item?id=39789790"
     ],
     [
       "Aviator (YC S21) is hiring engineers to build the DevEx platform",
       "https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 10:36:10",
+      "https://news.ycombinator.com/item?id=39789247"
+    ],
+    [
+      "Redis changes license from BSD-3 to dual RSALv2+SSPLv1",
+      "https://github.com/redis/redis/pull/13157"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 10:19:53",
+      "https://news.ycombinator.com/item?id=39789139"
+    ],
+    [
+      "My grandfather Paul Tillich, the unbelieving theologian Essays",
+      "https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian"
     ]
   ],
   [
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2024-03-22, 02:49:44",
-      "https://news.ycombinator.com/item?id=39786989"
-    ],
-    [
-      "Microsoft Launches Surface Laptop 6 for Business and Surface Pro 10",
-      "https://blogs.windows.com/devices/2024/03/21/introducing-surface-pro-10-for-business-and-surface-laptop-6-for-business/"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 02:48:23",
       "https://news.ycombinator.com/item?id=39786984"
     ],
@@ -107,26 +147,6 @@
     [
       "The Origins of the Generic Mapping Tools",
       "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 21:31:47",
-      "https://news.ycombinator.com/item?id=39784656"
-    ],
-    [
-      "Algorithmic Mathematical Art (2004)",
-      "http://xahlee.info/math/algorithmic_math_art.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 21:05:39",
-      "https://news.ycombinator.com/item?id=39784395"
-    ],
-    [
-      "Apollo Data Uncovers Lunar Seismic Events",
-      "https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data"
     ]
   ],
   [
@@ -167,26 +187,6 @@
     [
       "Launch HN: Soundry AI (YC W24) – Music sample generator for music creators",
       "https://soundry.ai/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 17:35:39",
-      "https://news.ycombinator.com/item?id=39781776"
-    ],
-    [
-      "Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant",
-      "https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 14:51:18",
-      "https://news.ycombinator.com/item?id=39779195"
-    ],
-    [
-      "GoFetch: New side-channel attack using data memory-dependent prefetchers",
-      "https://gofetch.fail"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-03-20, 20:52:59",
-      "https://news.ycombinator.com/item?id=39771878"
-    ],
-    [
-      "Array Languages: R vs. APL (2023)",
-      "https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/"
-    ]
-  ],
-  [
-    [
       "2024-03-20, 16:03:21",
       "https://news.ycombinator.com/item?id=39768434"
     ],
     [
       "Flightradar24's new GPS jamming map",
       "https://www.flightradar24.com/blog/gps-jamming-map/"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 17:00:48",
+      "https://news.ycombinator.com/item?id=39757821"
+    ],
+    [
+      "Let's create a Tree-sitter grammar",
+      "https://www.jonashietala.se/blog/2024/03/19/lets_create_a_tree-sitter_grammar/"
     ]
   ],
   [
