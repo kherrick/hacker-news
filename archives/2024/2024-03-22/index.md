@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
 * [2024-03-22, 08:55:01](https://news.ycombinator.com/item?id=39788666) - ['Gen X has had to learn or die': Mid-career workers are facing ageism](https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism)
+* [2024-03-22, 08:44:04](https://news.ycombinator.com/item?id=39788590) - [OpenAI GPT-4 vs. Groq Mistral-8x7B](https://serpapi.com/blog/openai-gpt-4-vs-groq-mistral/)
 * [2024-03-22, 08:05:04](https://news.ycombinator.com/item?id=39788385) - [New vuln in Apple M-series allowing secret keys extraction can't be patched](https://twitter.com/kimzetter/status/1770869722760061195)
 * [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 * [2024-03-22, 06:33:11](https://news.ycombinator.com/item?id=39787932) - [Hacker News Rankings. Graphs of HN posts rank on timeline](https://hnrankings.info)

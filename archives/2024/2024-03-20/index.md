@@ -109,6 +109,7 @@
 * [2024-03-20, 05:49:11](https://news.ycombinator.com/item?id=39763209) - [Commercial Bank of Ethiopia glitch lets customers withdraw millions](https://www.bbc.com/news/world-68599027)
 * [2024-03-20, 05:28:18](https://news.ycombinator.com/item?id=39763104) - [EFF: Tell Congress: We Can't Afford More Bad Patents](https://act.eff.org/action/tell-congress-we-can-t-afford-more-bad-patents)
 * [2024-03-20, 05:22:00](https://news.ycombinator.com/item?id=39763074) - [Build systems a la carte: theory and practice (2020)](https://simon.peytonjones.org/build-systems-a-la-carte-theory-and-practice/)
+* [2024-03-20, 05:09:52](https://news.ycombinator.com/item?id=39763023) - [Forcing Edge to load a specific URL in a specific browser](https://textslashplain.com/2022/07/18/edge-url-schemes/)
 * [2024-03-20, 04:35:24](https://news.ycombinator.com/item?id=39762890) - [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
 * [2024-03-20, 04:14:35](https://news.ycombinator.com/item?id=39762807) - [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
 * [2024-03-20, 04:11:13](https://news.ycombinator.com/item?id=39762790) - [Universities Have a Computer Science Problem](https://www.theatlantic.com/technology/archive/2024/03/computing-college-cs-majors/677792/)
