@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-22, 18:25:40](https://news.ycombinator.com/item?id=39793339) - [Apple says it spent three years trying to bring Apple Watch to Android](https://9to5mac.com/2024/03/21/apple-watch-android-apple-work/)
 * [2024-03-22, 17:45:53](https://news.ycombinator.com/item?id=39793044) - [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
 * [2024-03-22, 17:00:55](https://news.ycombinator.com/item?id=39792640) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
 * [2024-03-22, 16:46:00](https://news.ycombinator.com/item?id=39792454) - [Why You Hear Voices in Your White Noise Machine](https://www.wired.com/story/why-you-hear-voices-white-noise/)
@@ -22,7 +23,6 @@
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
 * [2024-03-21, 18:48:55](https://news.ycombinator.com/item?id=39782761) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
-* [2024-03-21, 14:37:43](https://news.ycombinator.com/item?id=39778999) - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
 * [2024-03-21, 13:42:46](https://news.ycombinator.com/item?id=39778412) - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
 * [2024-03-20, 16:03:21](https://news.ycombinator.com/item?id=39768434) - [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
 * [2024-03-19, 23:32:18](https://news.ycombinator.com/item?id=39761418) - [Researchers used NYC buildings to measure the 1925 solar eclipse](https://www.6sqft.com/how-researchers-used-nyc-buildings-to-measure-the-1925-solar-eclipse/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 18:25:40](https://news.ycombinator.com/item?id=39793339) - [Apple says it spent three years trying to bring Apple Watch to Android](https://9to5mac.com/2024/03/21/apple-watch-android-apple-work/)
 * [2024-03-22, 17:45:53](https://news.ycombinator.com/item?id=39793044) - [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
 * [2024-03-22, 17:00:55](https://news.ycombinator.com/item?id=39792640) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
 * [2024-03-22, 16:46:00](https://news.ycombinator.com/item?id=39792454) - [Why You Hear Voices in Your White Noise Machine](https://www.wired.com/story/why-you-hear-voices-white-noise/)
