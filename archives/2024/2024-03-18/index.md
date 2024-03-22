@@ -124,6 +124,7 @@
 * [2024-03-18, 08:45:52](https://news.ycombinator.com/item?id=39741600) - [Building a streaming SQL engine with Arrow and DataFusion](https://www.arroyo.dev/blog/why-arrow-and-datafusion)
 * [2024-03-18, 08:38:08](https://news.ycombinator.com/item?id=39741565) - [Show HN: Let's Build AI](https://letsbuild.ai)
 * [2024-03-18, 08:31:43](https://news.ycombinator.com/item?id=39741532) - [Another view on designing websites – event.preventDeault();](https://event.preventdefault.net/)
+* [2024-03-18, 08:23:58](https://news.ycombinator.com/item?id=39741491) - [About Compiled and Vectorized Queries (2018) [pdf]](https://15721.courses.cs.cmu.edu/spring2023/papers/10-vect-vs-comp/p2209-kersten.pdf)
 * [2024-03-18, 08:01:04](https://news.ycombinator.com/item?id=39741383) - [Uber agrees $178M payout to Australia taxi drivers](https://www.bbc.com/news/business-68594134)
 * [2024-03-18, 07:25:59](https://news.ycombinator.com/item?id=39741207) - [Poseidona is removing invasive algae from oceans and turning it into food](https://techcrunch.com/2024/03/17/poseidona-seaweed-protein-food/)
 * [2024-03-18, 07:21:57](https://news.ycombinator.com/item?id=39741179) - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)

@@ -10,6 +10,7 @@
 * [2024-03-22, 11:15:41](https://news.ycombinator.com/item?id=39789491) - [Plain Text Email](https://notes.ghed.in/posts/2024/plain-text-email/)
 * [2024-03-22, 10:54:38](https://news.ycombinator.com/item?id=39789369) - [Germany just legalized recreational marijuana](https://www.spiegel.de/politik/deutschland/cannabis-bundesrat-billigt-legalisierung-a-86ed2890-c788-4ce7-877a-21dced023219)
 * [2024-03-22, 10:36:48](https://news.ycombinator.com/item?id=39789250) - [Ask HN: What are some of the best user experiences with AI?](https://news.ycombinator.com/item?id=39789250)
+* [2024-03-22, 09:43:39](https://news.ycombinator.com/item?id=39788909) - [Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 * [2024-03-22, 09:11:10](https://news.ycombinator.com/item?id=39788748) - [UN adopts first global artificial intelligence resolution](https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/)
 * [2024-03-22, 08:55:01](https://news.ycombinator.com/item?id=39788666) - ['Gen X has had to learn or die': Mid-career workers are facing ageism](https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism)
 * [2024-03-22, 08:52:51](https://news.ycombinator.com/item?id=39788649) - [Ask HN: How to run an old-school mailing list?](https://news.ycombinator.com/item?id=39788649)

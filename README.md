@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-22, 12:37:00](https://news.ycombinator.com/item?id=39790076) - [Robots Are Entering the Ukraine Battlefield Following Success in the Air and Sea](https://www.wsj.com/world/europe/robots-are-entering-the-ukraine-battlefield-fab195d2)
-* [2024-03-22, 12:18:38](https://news.ycombinator.com/item?id=39789920) - [Why Is It So Hard to Build an Airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
+* [2024-03-22, 12:18:38](https://news.ycombinator.com/item?id=39789920) - [Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 * [2024-03-22, 12:00:35](https://news.ycombinator.com/item?id=39789790) - [Aviator (YC S21) is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+* [2024-03-22, 09:43:39](https://news.ycombinator.com/item?id=39788909) - [Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 * [2024-03-22, 08:52:51](https://news.ycombinator.com/item?id=39788649) - [Ask HN: How to run an old-school mailing list?](https://news.ycombinator.com/item?id=39788649)
 * [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 * [2024-03-22, 06:33:11](https://news.ycombinator.com/item?id=39787932) - [Hacker News Rankings. Graphs of HN posts rank on timeline](https://hnrankings.info)
@@ -11,7 +11,6 @@
 * [2024-03-22, 02:48:23](https://news.ycombinator.com/item?id=39786984) - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 * [2024-03-22, 00:25:59](https://news.ycombinator.com/item?id=39786124) - [The Origins of the Generic Mapping Tools](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231)
-* [2024-03-21, 21:45:46](https://news.ycombinator.com/item?id=39784784) - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [2024-03-21, 21:31:47](https://news.ycombinator.com/item?id=39784656) - [Algorithmic Mathematical Art (2004)](http://xahlee.info/math/algorithmic_math_art.html)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
@@ -30,6 +29,7 @@
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 * [2024-03-18, 22:29:39](https://news.ycombinator.com/item?id=39750836) - [On limitations that hide in your blindspot](https://www.henrikkarlsson.xyz/p/limitatons)
 * [2024-03-18, 11:57:46](https://news.ycombinator.com/item?id=39742921) - [Implementation of mixture of experts language model in a single file of PyTorch](https://github.com/AviSoori1x/makeMoE)
+* [2024-03-18, 08:23:58](https://news.ycombinator.com/item?id=39741491) - [About Compiled and Vectorized Queries (2018) [pdf]](https://15721.courses.cs.cmu.edu/spring2023/papers/10-vect-vs-comp/p2209-kersten.pdf)
 
 ## [Archives](archives/index.md)
 
