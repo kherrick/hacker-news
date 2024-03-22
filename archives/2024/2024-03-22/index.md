@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
 * [2024-03-22, 15:20:56](https://news.ycombinator.com/item?id=39791595) - [First global AI resolution unanimously adopted by United Nations](https://arstechnica.com/information-technology/2024/03/worlds-first-global-ai-resolution-unanimously-adopted-by-united-nations/)
+* [2024-03-22, 14:39:09](https://news.ycombinator.com/item?id=39791182) - ['Backpacks' attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
 * [2024-03-22, 14:26:51](https://news.ycombinator.com/item?id=39791066) - [The first step toward disintegrating Israel's settler machine](https://www.972mag.com/sanctions-israel-settler-machine/)
 * [2024-03-22, 13:52:07](https://news.ycombinator.com/item?id=39790774) - [China's Age of Malaise (2023)](https://www.newyorker.com/magazine/2023/10/30/chinas-age-of-malaise)
 * [2024-03-22, 13:45:02](https://news.ycombinator.com/item?id=39790699) - [More than half of chickenpox diagnoses are wrong, study finds](https://arstechnica.com/science/2024/03/more-than-half-of-chickenpox-diagnoses-are-wrong-study-finds/)
