@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 19:24:44](https://news.ycombinator.com/item?id=39793903) - [General Motors Quits Sharing Driving Behavior with Data Brokers](https://www.nytimes.com/2024/03/22/technology/gm-onstar-driver-data.html)
+* [2024-03-22, 19:21:07](https://news.ycombinator.com/item?id=39793871) - [At least 18 killed, 43 wounded after terrorists attack at concert hall in Moscow](https://www.jpost.com/breaking-news/article-793277)
+* [2024-03-22, 19:17:23](https://news.ycombinator.com/item?id=39793842) - [EU Parliament commitee approves cash cap and ban on anonymous crypto payments](https://www.patrick-breyer.de/en/eu-cash-cap-and-ban-on-anonymous-crypto-payments-results-in-financial-paternalism/)
+* [2024-03-22, 19:06:05](https://news.ycombinator.com/item?id=39793754) - [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
 * [2024-03-22, 18:25:40](https://news.ycombinator.com/item?id=39793339) - [Apple says it spent three years trying to bring Apple Watch to Android](https://9to5mac.com/2024/03/21/apple-watch-android-apple-work/)
 * [2024-03-22, 18:09:50](https://news.ycombinator.com/item?id=39793210) - [McDonald's Removed Kids From the Equation (and replaced them with teens) [video]](https://www.youtube.com/watch?v=JQFQ4BHL8_g)
 * [2024-03-22, 18:08:18](https://news.ycombinator.com/item?id=39793191) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
