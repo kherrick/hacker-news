@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 20:36:05](https://news.ycombinator.com/item?id=39794554) - [Grok-1 Support for Llama.cpp](https://github.com/ggerganov/llama.cpp/pull/6204)
 * [2024-03-22, 19:47:40](https://news.ycombinator.com/item?id=39794124) - [Ubuntu on the ThinkPad X13s Review](https://ahoneybun.net/blog/Thinkpad-X13s-review/)
+* [2024-03-22, 19:46:57](https://news.ycombinator.com/item?id=39794118) - [Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
 * [2024-03-22, 19:43:00](https://news.ycombinator.com/item?id=39794072) - [Police, Prosecutors Used Junk Science to Decide 911 Callers Were Liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat the Open Source Quadruped Robotic Pet Framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 * [2024-03-22, 19:25:10](https://news.ycombinator.com/item?id=39793905) - [Cable ISP fined $10k for lying to FCC about where it offers broadband](https://arstechnica.com/tech-policy/2024/03/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
@@ -38,6 +40,7 @@
 * [2024-03-22, 14:39:09](https://news.ycombinator.com/item?id=39791182) - ['Backpacks' attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
 * [2024-03-22, 14:26:51](https://news.ycombinator.com/item?id=39791066) - [The first step toward disintegrating Israel's settler machine](https://www.972mag.com/sanctions-israel-settler-machine/)
 * [2024-03-22, 13:52:07](https://news.ycombinator.com/item?id=39790774) - [China's Age of Malaise (2023)](https://www.newyorker.com/magazine/2023/10/30/chinas-age-of-malaise)
+* [2024-03-22, 13:45:10](https://news.ycombinator.com/item?id=39790701) - [Unionbusters (1986)](https://www.texasmonthly.com/news-politics/unionbusters-ila-port-houston/)
 * [2024-03-22, 13:45:02](https://news.ycombinator.com/item?id=39790699) - [More than half of chickenpox diagnoses are wrong, study finds](https://arstechnica.com/science/2024/03/more-than-half-of-chickenpox-diagnoses-are-wrong-study-finds/)
 * [2024-03-22, 13:33:12](https://news.ycombinator.com/item?id=39790567) - [How to actually use the notes you take](https://dannb.org/blog/2024/obsidian-use-your-notes/)
 * [2024-03-22, 13:26:56](https://news.ycombinator.com/item?id=39790505) - [California's largest home insurer won't renew 72,000 policies](https://www.sfchronicle.com/california/article/state-farm-insurance-nonrenewals-19357533.php)
