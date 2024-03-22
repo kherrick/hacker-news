@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 05:36:37](https://news.ycombinator.com/item?id=39787728) - [Gitlab confirms it's removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
 * [2024-03-22, 05:11:20](https://news.ycombinator.com/item?id=39787642) - [Thiel Foundation Announces Next Thiel Fellow Class](https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class)
 * [2024-03-22, 04:48:01](https://news.ycombinator.com/item?id=39787559) - [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
 * [2024-03-22, 03:39:30](https://news.ycombinator.com/item?id=39787251) - [Stanford Math-Education Expert Has 'Reckless Disregard for Accuracy'](https://www.chronicle.com/article/stanford-math-education-expert-has-reckless-disregard-for-accuracy-complaint-alleges)
@@ -12,6 +13,7 @@
 * [2024-03-22, 03:07:29](https://news.ycombinator.com/item?id=39787096) - [Daily Driving Ubuntu on M1 Mac](https://www.feliciano.tech/blog/daily-driving-ubuntu-asahi-for-over-a-month/)
 * [2024-03-22, 02:49:44](https://news.ycombinator.com/item?id=39786989) - [Microsoft Launches Surface Laptop 6 for Business and Surface Pro 10](https://blogs.windows.com/devices/2024/03/21/introducing-surface-pro-10-for-business-and-surface-laptop-6-for-business/)
 * [2024-03-22, 02:48:23](https://news.ycombinator.com/item?id=39786984) - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
+* [2024-03-22, 02:40:39](https://news.ycombinator.com/item?id=39786943) - [Navigating the World of Large Language Models](https://www.bentoml.com/blog/navigating-the-world-of-large-language-models)
 * [2024-03-22, 02:39:09](https://news.ycombinator.com/item?id=39786934) - [Greece, Argentina and India are the fastest improving business environments](https://www.eiu.com/n/greece-argentina-and-india-are-the-fastest-improving-business-environments/)
 * [2024-03-22, 02:24:01](https://news.ycombinator.com/item?id=39786855) - [Netflix Kept Showing Smoking in TV Shows Despite 2019 Pledge, Study Finds](https://www.forbes.com/sites/zacharysmith/2022/01/11/netflix-kept-showing-smoking-in-tv-shows-despite-2019-pledge-study-finds/)
 * [2024-03-22, 02:07:14](https://news.ycombinator.com/item?id=39786745) - [UN: E-waste is growing 5x faster than it can be recycled](https://www.theregister.com/2024/03/21/ewaste_grows/)
