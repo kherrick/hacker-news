@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 13:26:56](https://news.ycombinator.com/item?id=39790505) - [California's largest home insurer won't renew 72,000 policies](https://www.sfchronicle.com/california/article/state-farm-insurance-nonrenewals-19357533.php)
+* [2024-03-22, 13:26:01](https://news.ycombinator.com/item?id=39790497) - [Crime stories drove readers to GoFundMe campaigns, only the victims didn't exist](https://www.nbcnews.com/news/crime-stories-drove-readers-gofundme-campaigns-only-victims-didnt-exis-rcna144167)
 * [2024-03-22, 12:55:46](https://news.ycombinator.com/item?id=39790238) - [The \"Current Branch\" in Git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 * [2024-03-22, 12:37:00](https://news.ycombinator.com/item?id=39790076) - [Robots Are Entering the Ukraine Battlefield Following Success in the Air and Sea](https://www.wsj.com/world/europe/robots-are-entering-the-ukraine-battlefield-fab195d2)
 * [2024-03-22, 12:18:38](https://news.ycombinator.com/item?id=39789920) - [Why Is It So Hard to Build an Airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
+* [2024-03-22, 12:18:25](https://news.ycombinator.com/item?id=39789919) - [PICO-8 fantasy console Education Edition](https://www.pico-8-edu.com/)
 * [2024-03-22, 12:00:35](https://news.ycombinator.com/item?id=39789790) - [Aviator (YC S21) is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 * [2024-03-22, 11:15:41](https://news.ycombinator.com/item?id=39789491) - [Plain Text Email](https://notes.ghed.in/posts/2024/plain-text-email/)
 * [2024-03-22, 10:54:38](https://news.ycombinator.com/item?id=39789369) - [Germany just legalized recreational marijuana](https://www.spiegel.de/politik/deutschland/cannabis-bundesrat-billigt-legalisierung-a-86ed2890-c788-4ce7-877a-21dced023219)
 * [2024-03-22, 10:36:48](https://news.ycombinator.com/item?id=39789250) - [Ask HN: What are some of the best user experiences with AI?](https://news.ycombinator.com/item?id=39789250)
+* [2024-03-22, 10:36:10](https://news.ycombinator.com/item?id=39789247) - [Redis changes license from BSD-3 to dual RSALv2+SSPLv1](https://github.com/redis/redis/pull/13157)
+* [2024-03-22, 10:19:53](https://news.ycombinator.com/item?id=39789139) - [My grandfather Paul Tillich, the unbelieving theologian Essays](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
 * [2024-03-22, 09:43:39](https://news.ycombinator.com/item?id=39788909) - [Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 * [2024-03-22, 09:11:10](https://news.ycombinator.com/item?id=39788748) - [UN adopts first global artificial intelligence resolution](https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/)
 * [2024-03-22, 08:55:01](https://news.ycombinator.com/item?id=39788666) - ['Gen X has had to learn or die': Mid-career workers are facing ageism](https://www.bbc.com/worklife/article/20240320-gen-x-workplace-ageism)
