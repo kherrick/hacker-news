@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-03-22, 06:00:25",
+      "https://news.ycombinator.com/item?id=39787811"
+    ],
+    [
+      "Zig Defer Patterns",
+      "https://matklad.github.io/2024/03/21/defer-patterns.html"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 03:25:13",
       "https://news.ycombinator.com/item?id=39787176"
     ],
@@ -167,16 +177,6 @@
     [
       "Launch HN: Soundry AI (YC W24) – Music sample generator for music creators",
       "https://soundry.ai/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 14:51:18",
-      "https://news.ycombinator.com/item?id=39779195"
-    ],
-    [
-      "GoFetch: New side-channel attack using data memory-dependent prefetchers",
-      "https://gofetch.fail"
     ]
   ],
   [
