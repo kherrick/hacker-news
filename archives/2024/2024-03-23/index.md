@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
+* [2024-03-23, 22:24:20](https://news.ycombinator.com/item?id=39803469) - [Most CO2 emissions were in the last 30 years](https://ieep.eu/news/more-than-half-of-all-co2-emissions-since-1751-emitted-in-the-last-30-years/)
 * [2024-03-23, 21:40:27](https://news.ycombinator.com/item?id=39803287) - [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
 * [2024-03-23, 21:23:58](https://news.ycombinator.com/item?id=39803177) - [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/)
 * [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
