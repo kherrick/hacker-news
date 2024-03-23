@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 * [2024-03-23, 13:23:06](https://news.ycombinator.com/item?id=39799752) - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
 * [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
@@ -27,7 +28,6 @@
 * [2024-03-20, 09:29:12](https://news.ycombinator.com/item?id=39764360) - [Unbounded Recursion](https://wiki.secretgeek.net/unbounded-recursion#jokes-featuring-unbounded-recursion)
 * [2024-03-19, 21:27:43](https://news.ycombinator.com/item?id=39760421) - [A Stabilizing Robotic Tail for Floating Astronauts](https://www.core77.com/posts/130277/Industrial-Design-Student-Work-A-Stabilizing-Robotic-Tail-for-Floating-Astronauts)
 * [2024-03-19, 14:56:54](https://news.ycombinator.com/item?id=39756367) - [Quickwit 0.8: Indexing and Search at Petabyte Scale](https://quickwit.io/blog/quickwit-0.8)
-* [2024-03-19, 12:39:46](https://news.ycombinator.com/item?id=39755089) - [Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
 * [2024-03-19, 11:40:04](https://news.ycombinator.com/item?id=39754744) - [Explore the Paleobiology Database through space, time, and taxonomy](https://paleobiodb.org/navigator/)
 * [2024-03-19, 07:54:22](https://news.ycombinator.com/item?id=39753749) - [SQL is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
 

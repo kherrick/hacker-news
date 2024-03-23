@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
 * [2024-03-23, 14:25:04](https://news.ycombinator.com/item?id=39800143) - [Apple Silicon vulnerability leaks encryption keys, and can't be patched easily](https://appleinsider.com/articles/24/03/21/apple-silicon-vulnerability-leaks-encryption-keys-and-cant-be-patched-easily)
+* [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799754) - [Mozilla just ditched its privacy partner because its CEO is tied to data brokers](https://www.theverge.com/2024/3/22/24109116/mozilla-ends-onerep-data-removal-partnership)
 * [2024-03-23, 13:23:06](https://news.ycombinator.com/item?id=39799752) - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
