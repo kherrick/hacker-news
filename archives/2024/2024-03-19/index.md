@@ -123,6 +123,7 @@
 * [2024-03-19, 02:34:13](https://news.ycombinator.com/item?id=39752394) - [The first walkable city in America in a century](https://devon.postach.io/post/part-3-the-first-walkable-city-in-america-in-a-century)
 * [2024-03-19, 02:20:31](https://news.ycombinator.com/item?id=39752343) - [America's economy has escaped a hard landing](https://www.economist.com/briefing/2024/03/14/americas-economy-has-escaped-a-hard-landing)
 * [2024-03-19, 01:59:32](https://news.ycombinator.com/item?id=39752259) - [Show HN: Watch GitHub get spammed in real time](https://play.trytrench.com/find?view=9BvB6eSyxNtKrQ93IEjn6)
+* [2024-03-19, 01:55:48](https://news.ycombinator.com/item?id=39752239) - [Evolution of the Double Edge Blade (1990)](http://www.shaveworld.org/images/%20DEBladePage2010.htm)
 * [2024-03-19, 01:41:13](https://news.ycombinator.com/item?id=39752172) - [The \"Hidden Standards\" Problem in Interviews](https://thephilosopher.tech/the-hidden-standards-problem-in-interviews)
 * [2024-03-19, 01:40:51](https://news.ycombinator.com/item?id=39752168) - [An exploding star nova is due to show up in our skies soon. Here's how to view](https://www.businessinsider.com/how-to-see-exploding-star-nova-nasa-says-expect-soon-2024-3)
 * [2024-03-19, 01:40:51](https://news.ycombinator.com/item?id=39752168) - [An exploding star nova is due to show up in our skies soon. Here's how to view](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/)

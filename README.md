@@ -24,11 +24,11 @@
 * [2024-03-22, 14:52:06](https://news.ycombinator.com/item?id=39791301) - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
 * [2024-03-22, 13:12:43](https://news.ycombinator.com/item?id=39790365) - [The Bulma CSS framework reaches 1.0](https://github.com/jgthms/bulma/releases/tag/1.0.0)
 * [2024-03-22, 10:19:53](https://news.ycombinator.com/item?id=39789139) - [My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
-* [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
 * [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)
 * [2024-03-19, 21:34:08](https://news.ycombinator.com/item?id=39760482) - [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
+* [2024-03-19, 01:55:48](https://news.ycombinator.com/item?id=39752239) - [Evolution of the Double Edge Blade (1990)](http://www.shaveworld.org/images/%20DEBladePage2010.htm)
 * [2024-03-17, 07:56:34](https://news.ycombinator.com/item?id=39732713) - [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
 
 ## [Archives](archives/index.md)
