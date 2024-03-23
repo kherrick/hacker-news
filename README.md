@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-23, 16:01:13](https://news.ycombinator.com/item?id=39800844) - [The Lunduke Journal has been banned from YouTube](https://lunduke.locals.com/post/5423131/the-lunduke-journal-has-been-banned-from-youtube)
 * [2024-03-23, 15:52:20](https://news.ycombinator.com/item?id=39800779) - [Google will start showing AI-powered search results for users who didn't opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
 * [2024-03-23, 15:43:34](https://news.ycombinator.com/item?id=39800732) - [The \"Reitoff principle\": Why you should add \"nothing\" to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
 * [2024-03-23, 15:29:28](https://news.ycombinator.com/item?id=39800648) - [Why isn't dental health considered primary medical care?](https://knowablemagazine.org/content/article/health-disease/2024/why-isnt-dental-health-considered-primary-medical-care)
@@ -22,6 +21,7 @@
 * [2024-03-23, 02:19:13](https://news.ycombinator.com/item?id=39796893) - [Soupault: A static website management tool](https://soupault.app/)
 * [2024-03-23, 01:01:15](https://news.ycombinator.com/item?id=39796429) - [Visualization 'demonic' face distortions in a case of prosopometamorphopsia](https://medicalxpress.com/news/2024-03-visualizes-demonic-distortions-case-prosopometamorphopsia.html)
 * [2024-03-23, 00:21:13](https://news.ycombinator.com/item?id=39796216) - [Visiting Scarfolk, the most spectacular dystopia of the 1970s (2016)](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
+* [2024-03-22, 23:14:43](https://news.ycombinator.com/item?id=39795830) - [VCard and RSS as an alternative to social media](https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 * [2024-03-22, 18:43:12](https://news.ycombinator.com/item?id=39793513) - [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
