@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=39798569"
     ],
     [
-      "Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud",
+      "Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud (2023)",
       "https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39797659"
     ],
     [
-      "-2000 Lines of Code",
+      "-2000 Lines of Code (2007)",
       "https://www.folklore.org/Negative_2000_Lines_Of_Code.html"
     ]
   ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-03-22, 18:13:57",
-      "https://news.ycombinator.com/item?id=39793250"
-    ],
-    [
-      "DenseFormer: Enhancing Information Flow in Transformers",
-      "https://arxiv.org/abs/2402.02622"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 16:15:53",
       "https://news.ycombinator.com/item?id=39792136"
     ],
@@ -267,6 +257,16 @@
     [
       "Quickwit 0.8: Indexing and Search at Petabyte Scale",
       "https://quickwit.io/blog/quickwit-0.8"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 12:39:46",
+      "https://news.ycombinator.com/item?id=39755089"
+    ],
+    [
+      "Fast Virtual Functions: Hacking the VTable for Fun and Profit",
+      "https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0"
     ]
   ],
   [
