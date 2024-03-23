@@ -2,6 +2,7 @@
 
 * [2024-03-23, 21:40:27](https://news.ycombinator.com/item?id=39803287) - [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
 * [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
+* [2024-03-23, 21:22:26](https://news.ycombinator.com/item?id=39803168) - [Linux VServer: A soft partitioning concept based on Security Contexts (2018)](http://linux-vserver.org/Welcome_to_Linux-VServer.org)
 * [2024-03-23, 19:37:57](https://news.ycombinator.com/item?id=39802554) - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-23, 18:36:31](https://news.ycombinator.com/item?id=39802120) - [Show HN: Wirequery – Full-stack session replay and more](https://github.com/wirequery/wirequery)
@@ -14,7 +15,6 @@
 * [2024-03-23, 16:30:07](https://news.ycombinator.com/item?id=39801088) - [A Return to Blu-ray as Streaming Value Evaporates](https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates)
 * [2024-03-23, 15:58:30](https://news.ycombinator.com/item?id=39800821) - [Reverse DNS IPv4 Map](https://reversedns.space/)
 * [2024-03-23, 15:19:57](https://news.ycombinator.com/item?id=39800579) - [An Introductory 4.4BSD Interprocess Communication Tutorial [pdf] (1986)](https://docs-archive.freebsd.org/44doc/psd/20.ipctut/paper.pdf)
-* [2024-03-23, 14:53:37](https://news.ycombinator.com/item?id=39800370) - [Show HN: PgJQ: Use Jq in Postgres](https://github.com/Florents-Tselai/pgJQ)
 * [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
 * [2024-03-23, 14:04:17](https://news.ycombinator.com/item?id=39800016) - [NIST: Personal Identity Verification (PIV) of Federal Employees and Contractors](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3.pdf)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
