@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-23, 07:00:40](https://news.ycombinator.com/item?id=39798026) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
+* [2024-03-23, 06:26:58](https://news.ycombinator.com/item?id=39797889) - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
 * [2024-03-23, 05:19:39](https://news.ycombinator.com/item?id=39797659) - [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
 * [2024-03-23, 05:08:55](https://news.ycombinator.com/item?id=39797615) - [SceneScript, a novel approach for 3D scene reconstruction](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/)
 * [2024-03-23, 03:33:17](https://news.ycombinator.com/item?id=39797176) - [Stability AI Announcement](https://stability.ai/news/stabilityai-announcement)
 * [2024-03-23, 02:19:13](https://news.ycombinator.com/item?id=39796893) - [Soupault: A static website management tool](https://soupault.app/)
-* [2024-03-23, 02:03:32](https://news.ycombinator.com/item?id=39796824) - [Signs of life detectable in single ice grain emitted from extraterrestrial moons](https://www.washington.edu/news/2024/03/22/signs-of-life-detectable-in-single-ice-grain-emitted-from-extraterrestrial-moons/)
 * [2024-03-23, 01:23:57](https://news.ycombinator.com/item?id=39796595) - [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
 * [2024-03-23, 01:15:54](https://news.ycombinator.com/item?id=39796550) - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
 * [2024-03-23, 00:50:44](https://news.ycombinator.com/item?id=39796349) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
