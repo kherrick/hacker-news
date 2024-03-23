@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 18:21:21](https://news.ycombinator.com/item?id=39801991) - [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
 * [2024-03-23, 18:17:52](https://news.ycombinator.com/item?id=39801963) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-23, 17:37:06](https://news.ycombinator.com/item?id=39801618) - [Sonoma's lost versions bug: what it is and how to safeguard versions](https://eclecticlight.co/2024/03/19/sonomas-lost-versions-bug-what-it-is-and-how-to-safeguard-versions/)
 * [2024-03-23, 17:34:21](https://news.ycombinator.com/item?id=39801594) - [Bunk beds in aircraft cabins: the realistic prospects](https://www.aircraftinteriorsinternational.com/features/bunk-beds-in-aircraft-cabins-the-realistic-prospects.html)
