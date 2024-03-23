@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-23, 15:12:54](https://news.ycombinator.com/item?id=39800522) - [Apple in the Crosshairs: DOJ's Epic Showdown Echoes Microsoft's Antitrust Saga](https://www.wsj.com/tech/ghost-of-microsoft-stalks-apple-as-doj-takes-its-shot-1f2be684)
 * [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 * [2024-03-23, 13:23:06](https://news.ycombinator.com/item?id=39799752) - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
@@ -21,7 +22,6 @@
 * [2024-03-23, 01:01:15](https://news.ycombinator.com/item?id=39796429) - [Visualization 'demonic' face distortions in a case of prosopometamorphopsia](https://medicalxpress.com/news/2024-03-visualizes-demonic-distortions-case-prosopometamorphopsia.html)
 * [2024-03-23, 00:50:44](https://news.ycombinator.com/item?id=39796349) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
 * [2024-03-23, 00:21:13](https://news.ycombinator.com/item?id=39796216) - [Visiting Scarfolk, the most spectacular dystopia of the 1970s (2016)](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
-* [2024-03-22, 23:14:43](https://news.ycombinator.com/item?id=39795830) - [VCard and RSS as an alternative to social media](https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 * [2024-03-22, 18:43:12](https://news.ycombinator.com/item?id=39793513) - [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
