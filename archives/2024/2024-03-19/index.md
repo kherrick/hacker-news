@@ -91,6 +91,7 @@
 * [2024-03-19, 12:38:47](https://news.ycombinator.com/item?id=39755080) - [10% of retirees have $1M+ in savings](https://finance.yahoo.com/news/many-americans-retire-million-dollars-140019814.html)
 * [2024-03-19, 12:37:41](https://news.ycombinator.com/item?id=39755073) - [AWS building 414 exaflops AI computer exclusively for Nvidia's internal research](https://www.aboutamazon.com/news/aws/amazon-aws-nvidia-collaboration)
 * [2024-03-19, 12:22:34](https://news.ycombinator.com/item?id=39754992) - [Dell Says Remote Employees Won't Be Eligible for Promotions: Report](https://gizmodo.com/dell-remote-employees-eligible-promotions-1851347699)
+* [2024-03-19, 12:13:18](https://news.ycombinator.com/item?id=39754943) - [The Super Mario Maker community faces its final boss](https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/)
 * [2024-03-19, 12:10:15](https://news.ycombinator.com/item?id=39754926) - [Try / Ripgrep in Y Minutes](https://codapi.org/try/ripgrep/)
 * [2024-03-19, 12:07:47](https://news.ycombinator.com/item?id=39754906) - [Titanfall is still EA's most innovative shooter ten years later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
 * [2024-03-19, 12:04:28](https://news.ycombinator.com/item?id=39754885) - [Reviving PyMiniRacer: A Python <> JavaScript Bridge](https://bpcreech.com/post/mini-racer/)

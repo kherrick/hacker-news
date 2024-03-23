@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-23, 21:23:58](https://news.ycombinator.com/item?id=39803177) - [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/)
+* [2024-03-23, 20:00:34](https://news.ycombinator.com/item?id=39802699) - [Experiments with Bitnet 1.5 (Ngmi)](https://huggingface.co/blog/joey00072/experiments-with-bitnet-1-5)
 * [2024-03-23, 19:37:57](https://news.ycombinator.com/item?id=39802554) - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-23, 18:36:31](https://news.ycombinator.com/item?id=39802120) - [Show HN: Wirequery – Full-stack session replay and more](https://github.com/wirequery/wirequery)
@@ -11,7 +11,6 @@
 * [2024-03-23, 17:07:42](https://news.ycombinator.com/item?id=39801399) - [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
 * [2024-03-23, 17:00:05](https://news.ycombinator.com/item?id=39801340) - [Unify (YC W23) Is Hiring](https://apply.unify.ai/)
 * [2024-03-23, 16:30:07](https://news.ycombinator.com/item?id=39801088) - [A Return to Blu-ray as Streaming Value Evaporates](https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates)
-* [2024-03-23, 16:10:47](https://news.ycombinator.com/item?id=39800915) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:58:30](https://news.ycombinator.com/item?id=39800821) - [Reverse DNS IPv4 Map](https://reversedns.space/)
 * [2024-03-23, 15:19:57](https://news.ycombinator.com/item?id=39800579) - [An Introductory 4.4BSD Interprocess Communication Tutorial [pdf]](https://docs-archive.freebsd.org/44doc/psd/20.ipctut/paper.pdf)
 * [2024-03-23, 14:53:37](https://news.ycombinator.com/item?id=39800370) - [Show HN: PgJQ: Use Jq in Postgres](https://github.com/Florents-Tselai/pgJQ)
@@ -29,6 +28,7 @@
 * [2024-03-20, 11:38:51](https://news.ycombinator.com/item?id=39765109) - [A Surprising Advantage of Vinyl (2011)](https://blog.andymatuschak.org/post/6778945711/a-surprising-advantage-of-vinyl)
 * [2024-03-19, 21:27:43](https://news.ycombinator.com/item?id=39760421) - [A Stabilizing Robotic Tail for Floating Astronauts](https://www.core77.com/posts/130277/Industrial-Design-Student-Work-A-Stabilizing-Robotic-Tail-for-Floating-Astronauts)
 * [2024-03-19, 14:56:35](https://news.ycombinator.com/item?id=39756360) - [The Driest Place on Earth](https://astrobiology.nasa.gov/news/the-driest-place-on-earth/)
+* [2024-03-19, 12:13:18](https://news.ycombinator.com/item?id=39754943) - [The Super Mario Maker community faces its final boss](https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/)
 * [2024-03-19, 12:04:28](https://news.ycombinator.com/item?id=39754885) - [Reviving PyMiniRacer: A Python <> JavaScript Bridge](https://bpcreech.com/post/mini-racer/)
 
 ## [Archives](archives/index.md)
