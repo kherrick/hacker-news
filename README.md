@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-23, 01:15:54](https://news.ycombinator.com/item?id=39796550) - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
+* [2024-03-23, 01:12:13](https://news.ycombinator.com/item?id=39796527) - [Mars unsafe for humans to live, no one can survive for longer than 4 years](https://www.unilad.com/technology/space/mars-declared-unsafe-humans-survive-four-years-356854-20240320)
 * [2024-03-23, 00:50:44](https://news.ycombinator.com/item?id=39796349) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
 * [2024-03-23, 00:21:13](https://news.ycombinator.com/item?id=39796216) - [Visiting Scarfolk, the Most Spectacular Dystopia of the 1970s](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
 * [2024-03-22, 21:06:13](https://news.ycombinator.com/item?id=39794864) - [Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers](https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers)
@@ -26,7 +27,6 @@
 * [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
-* [2024-03-21, 18:48:55](https://news.ycombinator.com/item?id=39782761) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
 * [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)
 * [2024-03-17, 07:56:34](https://news.ycombinator.com/item?id=39732713) - [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
