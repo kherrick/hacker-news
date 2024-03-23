@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
-* [2024-03-23, 22:24:20](https://news.ycombinator.com/item?id=39803469) - [Most CO2 emissions were in the last 30 years](https://ieep.eu/news/more-than-half-of-all-co2-emissions-since-1751-emitted-in-the-last-30-years/)
 * [2024-03-23, 21:40:27](https://news.ycombinator.com/item?id=39803287) - [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
 * [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 * [2024-03-23, 20:36:20](https://news.ycombinator.com/item?id=39802934) - [What Happens to Google Maps When Tectonic Plates Move?](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
@@ -26,6 +25,7 @@
 * [2024-03-21, 04:25:15](https://news.ycombinator.com/item?id=39774881) - [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 * [2024-03-20, 12:23:14](https://news.ycombinator.com/item?id=39765453) - [The Virtue of Slow Writers](https://themillions.com/2024/03/the-virtue-of-slow-writers.html)
 * [2024-03-20, 11:38:51](https://news.ycombinator.com/item?id=39765109) - [A Surprising Advantage of Vinyl (2011)](https://blog.andymatuschak.org/post/6778945711/a-surprising-advantage-of-vinyl)
+* [2024-03-20, 00:23:16](https://news.ycombinator.com/item?id=39761731) - [Dune Genesis (1980)](https://emmaconcepts.net/dune-genesis/)
 * [2024-03-19, 21:27:43](https://news.ycombinator.com/item?id=39760421) - [A Stabilizing Robotic Tail for Floating Astronauts](https://www.core77.com/posts/130277/Industrial-Design-Student-Work-A-Stabilizing-Robotic-Tail-for-Floating-Astronauts)
 * [2024-03-19, 14:56:35](https://news.ycombinator.com/item?id=39756360) - [The Driest Place on Earth](https://astrobiology.nasa.gov/news/the-driest-place-on-earth/)
 * [2024-03-19, 12:13:18](https://news.ycombinator.com/item?id=39754943) - [The Super Mario Maker community faces its final boss](https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/)
