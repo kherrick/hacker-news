@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 12:01:00](https://news.ycombinator.com/item?id=39799273) - [Promoted.ai (YC W21) Is Hiring Enterprise AE (Sales)](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
-* [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts Grow About the Biosignature Approach to Alien-Hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
+* [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
 * [2024-03-23, 09:15:52](https://news.ycombinator.com/item?id=39798542) - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
 * [2024-03-23, 08:05:05](https://news.ycombinator.com/item?id=39798282) - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
 * [2024-03-23, 07:44:52](https://news.ycombinator.com/item?id=39798209) - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
@@ -17,7 +18,6 @@
 * [2024-03-23, 00:50:44](https://news.ycombinator.com/item?id=39796349) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
 * [2024-03-23, 00:21:13](https://news.ycombinator.com/item?id=39796216) - [Visiting Scarfolk, the most spectacular dystopia of the 1970s (2016)](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
 * [2024-03-22, 23:14:43](https://news.ycombinator.com/item?id=39795830) - [VCard and RSS as an alternative to social media](https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html)
-* [2024-03-22, 22:07:37](https://news.ycombinator.com/item?id=39795369) - [Toxic rare earth mining industry at the heart of the green energy transition](https://www.globalwitness.org/en/campaigns/natural-resource-governance/myanmars-poisoned-mountains/)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 * [2024-03-22, 18:43:12](https://news.ycombinator.com/item?id=39793513) - [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
