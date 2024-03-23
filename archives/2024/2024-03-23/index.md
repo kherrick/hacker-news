@@ -6,6 +6,7 @@
 
 * [2024-03-23, 09:22:36](https://news.ycombinator.com/item?id=39798569) - [Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3)
 * [2024-03-23, 09:21:18](https://news.ycombinator.com/item?id=39798565) - [VLC: App Stores Were a Mistake](https://twitter.com/videolan/status/1771104206872555660)
+* [2024-03-23, 09:15:52](https://news.ycombinator.com/item?id=39798542) - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
 * [2024-03-23, 08:44:51](https://news.ycombinator.com/item?id=39798429) - [BYD's new EV, starting under $10K, is stoking fear among rivals](https://electrek.co/2024/03/22/byds-new-ev-starting-under-10000-stoking-fear-rivals/)
 * [2024-03-23, 08:06:31](https://news.ycombinator.com/item?id=39798290) - [Anonymous crypto wallets now illegal in the EU](https://finbold.com/anonymous-crypto-wallets-now-illegal-in-the-eu/)
 * [2024-03-23, 08:05:05](https://news.ycombinator.com/item?id=39798282) - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
