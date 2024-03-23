@@ -92,6 +92,7 @@
 * [2024-03-19, 12:22:34](https://news.ycombinator.com/item?id=39754992) - [Dell Says Remote Employees Won't Be Eligible for Promotions: Report](https://gizmodo.com/dell-remote-employees-eligible-promotions-1851347699)
 * [2024-03-19, 12:10:15](https://news.ycombinator.com/item?id=39754926) - [Try / Ripgrep in Y Minutes](https://codapi.org/try/ripgrep/)
 * [2024-03-19, 12:07:47](https://news.ycombinator.com/item?id=39754906) - [Titanfall is still EA's most innovative shooter ten years later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
+* [2024-03-19, 12:04:28](https://news.ycombinator.com/item?id=39754885) - [Reviving PyMiniRacer: A Python <> JavaScript Bridge](https://bpcreech.com/post/mini-racer/)
 * [2024-03-19, 11:46:38](https://news.ycombinator.com/item?id=39754786) - [Tunnelmole, an ngrok alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 * [2024-03-19, 11:44:20](https://news.ycombinator.com/item?id=39754770) - [Build System Schism: The Curse of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
 * [2024-03-19, 11:40:04](https://news.ycombinator.com/item?id=39754744) - [Explore the Paleobiology Database through space, time, and taxonomy](https://paleobiodb.org/navigator/)

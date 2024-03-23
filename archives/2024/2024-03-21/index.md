@@ -99,6 +99,7 @@
 * [2024-03-21, 05:14:40](https://news.ycombinator.com/item?id=39775048) - [Jazz Legend Is His Own Work in Progress](https://www.nytimes.com/2024/03/18/books/review/notebooks-of-sonny-rollins.html)
 * [2024-03-21, 05:06:18](https://news.ycombinator.com/item?id=39775011) - [Ask HN: How is the Spotify app so bad?](https://news.ycombinator.com/item?id=39775011)
 * [2024-03-21, 04:31:48](https://news.ycombinator.com/item?id=39774903) - [Return to Office Is a Mistake](https://www.infoworld.com/article/3714660/return-to-office-is-a-mistake.html)
+* [2024-03-21, 04:25:15](https://news.ycombinator.com/item?id=39774881) - [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 * [2024-03-21, 03:24:36](https://news.ycombinator.com/item?id=39774638) - [Guiding Principles for the Mormon Church's Use of AI](https://newsroom.churchofjesuschrist.org/article/church-jesus-christ-artificial-intelligence)
 * [2024-03-21, 03:19:59](https://news.ycombinator.com/item?id=39774613) - [.NET Smart Components](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/)
 * [2024-03-21, 03:15:50](https://news.ycombinator.com/item?id=39774599) - [Who will build new search engines for new personal AI agents?](https://interconnected.org/home/2024/03/20/agents)
