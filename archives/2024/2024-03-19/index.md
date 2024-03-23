@@ -34,6 +34,7 @@
 * [2024-03-19, 19:45:13](https://news.ycombinator.com/item?id=39759530) - [FlipperZero: Our Response to the Canadian Government](https://blog.flipper.net/response-to-canadian-government/)
 * [2024-03-19, 19:37:45](https://news.ycombinator.com/item?id=39759461) - [Ask HN: What are you building LLM/RAG chatbots with](https://news.ycombinator.com/item?id=39759461)
 * [2024-03-19, 19:30:52](https://news.ycombinator.com/item?id=39759398) - [Supreme Court unanimously rules against government in No Fly List case](https://thehill.com/regulation/court-battles/4541638-supreme-court-no-fly-list-case/)
+* [2024-03-19, 19:25:27](https://news.ycombinator.com/item?id=39759344) - [Relacy Race Detector](https://www.1024cores.net/home/relacy-race-detector)
 * [2024-03-19, 19:24:58](https://news.ycombinator.com/item?id=39759338) - [New Node.js Website Design](https://nodejs.org/en)
 * [2024-03-19, 19:23:23](https://news.ycombinator.com/item?id=39759325) - [Show HN: jnv: interactive JSON filter using jq](https://github.com/ynqa/jnv)
 * [2024-03-19, 19:21:55](https://news.ycombinator.com/item?id=39759312) - [Stardew Valley 1.6 Changelog](https://www.stardewvalley.net/stardew-valley-1-6-update-full-changelog/)
