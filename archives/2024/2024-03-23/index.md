@@ -14,6 +14,7 @@
 * [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 12:01:00](https://news.ycombinator.com/item?id=39799273) - [Promoted.ai (YC W21) Is Hiring Enterprise AE (Sales)](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
 * [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts Grow About the Biosignature Approach to Alien-Hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
+* [2024-03-23, 10:29:51](https://news.ycombinator.com/item?id=39798833) - [Port-scanning the fleet and trying to put out fires](https://rachelbythebay.com/w/2024/03/21/scan/)
 * [2024-03-23, 09:22:36](https://news.ycombinator.com/item?id=39798569) - [Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3)
 * [2024-03-23, 09:21:18](https://news.ycombinator.com/item?id=39798565) - [VLC: App Stores Were a Mistake](https://twitter.com/videolan/status/1771104206872555660)
 * [2024-03-23, 09:15:52](https://news.ycombinator.com/item?id=39798542) - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
