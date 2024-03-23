@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-23, 20:00:34](https://news.ycombinator.com/item?id=39802699) - [Experiments with Bitnet 1.5 (Ngmi)](https://huggingface.co/blog/joey00072/experiments-with-bitnet-1-5)
+* [2024-03-23, 21:23:58](https://news.ycombinator.com/item?id=39803177) - [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/)
 * [2024-03-23, 19:37:57](https://news.ycombinator.com/item?id=39802554) - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-23, 18:36:31](https://news.ycombinator.com/item?id=39802120) - [Show HN: Wirequery – Full-stack session replay and more](https://github.com/wirequery/wirequery)
@@ -13,6 +13,7 @@
 * [2024-03-23, 16:30:07](https://news.ycombinator.com/item?id=39801088) - [A Return to Blu-ray as Streaming Value Evaporates](https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates)
 * [2024-03-23, 16:10:47](https://news.ycombinator.com/item?id=39800915) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:58:30](https://news.ycombinator.com/item?id=39800821) - [Reverse DNS IPv4 Map](https://reversedns.space/)
+* [2024-03-23, 15:19:57](https://news.ycombinator.com/item?id=39800579) - [An Introductory 4.4BSD Interprocess Communication Tutorial [pdf]](https://docs-archive.freebsd.org/44doc/psd/20.ipctut/paper.pdf)
 * [2024-03-23, 14:53:37](https://news.ycombinator.com/item?id=39800370) - [Show HN: PgJQ: Use Jq in Postgres](https://github.com/Florents-Tselai/pgJQ)
 * [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
 * [2024-03-23, 14:04:17](https://news.ycombinator.com/item?id=39800016) - [NIST: Personal Identity Verification (PIV) of Federal Employees and Contractors](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3.pdf)
@@ -21,7 +22,6 @@
 * [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 09:15:52](https://news.ycombinator.com/item?id=39798542) - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
-* [2024-03-22, 00:06:17](https://news.ycombinator.com/item?id=39785942) - [A cargo ship's 'WindWing' sails saved it up to 12 tons of fuel per day](https://www.ajot.com/news/a-cargo-ships-windwing-sails-saved-it-up-to-12-tons-of-fuel-per-day)
 * [2024-03-21, 05:14:40](https://news.ycombinator.com/item?id=39775048) - [Jazz Legend Is His Own Work in Progress](https://www.nytimes.com/2024/03/18/books/review/notebooks-of-sonny-rollins.html)
 * [2024-03-21, 04:25:15](https://news.ycombinator.com/item?id=39774881) - [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 * [2024-03-20, 13:44:01](https://news.ycombinator.com/item?id=39766380) - [A closeup on the flight and longevity of tropical bats](https://nautil.us/why-bats-are-flying-machines-536244/)

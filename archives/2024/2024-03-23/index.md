@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 21:23:58](https://news.ycombinator.com/item?id=39803177) - [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/)
 * [2024-03-23, 20:25:56](https://news.ycombinator.com/item?id=39802857) - [Sam Altman may have Siri and Alexa in his sights after OpenAI filed a trademark…](https://www.businessinsider.nl/sam-altman-may-have-siri-and-alexa-in-his-sights-after-openai-filed-a-digital-voice-assistant-trademark-application/)
 * [2024-03-23, 20:00:34](https://news.ycombinator.com/item?id=39802699) - [Experiments with Bitnet 1.5 (Ngmi)](https://huggingface.co/blog/joey00072/experiments-with-bitnet-1-5)
 * [2024-03-23, 19:49:12](https://news.ycombinator.com/item?id=39802629) - [Why Do Men Dominate Chess?](https://quillette.com/2024/03/22/why-do-men-dominate-chess/)
@@ -37,6 +38,7 @@
 * [2024-03-23, 15:42:51](https://news.ycombinator.com/item?id=39800728) - [Over 440k Starbucks holiday mugs recalled for burn and cut hazards](https://www.nbcnews.com/news/us-news/440000-starbucks-holiday-mugs-recalled-burn-cut-hazards-rcna144618)
 * [2024-03-23, 15:29:28](https://news.ycombinator.com/item?id=39800648) - [Why isn't dental health considered primary medical care?](https://knowablemagazine.org/content/article/health-disease/2024/why-isnt-dental-health-considered-primary-medical-care)
 * [2024-03-23, 15:20:18](https://news.ycombinator.com/item?id=39800581) - [Problem with Vim is that you don't grok vi (2009)](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
+* [2024-03-23, 15:19:57](https://news.ycombinator.com/item?id=39800579) - [An Introductory 4.4BSD Interprocess Communication Tutorial [pdf]](https://docs-archive.freebsd.org/44doc/psd/20.ipctut/paper.pdf)
 * [2024-03-23, 15:12:54](https://news.ycombinator.com/item?id=39800522) - [Apple in the Crosshairs: DOJ's Epic Showdown Echoes Microsoft's Antitrust Saga](https://www.wsj.com/tech/ghost-of-microsoft-stalks-apple-as-doj-takes-its-shot-1f2be684)
 * [2024-03-23, 14:53:37](https://news.ycombinator.com/item?id=39800370) - [Show HN: PgJQ: Use Jq in Postgres](https://github.com/Florents-Tselai/pgJQ)
 * [2024-03-23, 14:25:04](https://news.ycombinator.com/item?id=39800143) - [Apple Silicon vulnerability leaks encryption keys, and can't be patched easily](https://appleinsider.com/articles/24/03/21/apple-silicon-vulnerability-leaks-encryption-keys-and-cant-be-patched-easily)
