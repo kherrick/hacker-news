@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-23, 20:00:34](https://news.ycombinator.com/item?id=39802699) - [Experiments with Bitnet 1.5 (Ngmi)](https://huggingface.co/blog/joey00072/experiments-with-bitnet-1-5)
 * [2024-03-23, 19:37:57](https://news.ycombinator.com/item?id=39802554) - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-23, 18:36:31](https://news.ycombinator.com/item?id=39802120) - [Show HN: Wirequery – Full-stack session replay and more](https://github.com/wirequery/wirequery)
@@ -20,7 +21,6 @@
 * [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 09:15:52](https://news.ycombinator.com/item?id=39798542) - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
-* [2024-03-23, 06:26:58](https://news.ycombinator.com/item?id=39797889) - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
 * [2024-03-22, 00:06:17](https://news.ycombinator.com/item?id=39785942) - [A cargo ship's 'WindWing' sails saved it up to 12 tons of fuel per day](https://www.ajot.com/news/a-cargo-ships-windwing-sails-saved-it-up-to-12-tons-of-fuel-per-day)
 * [2024-03-21, 05:14:40](https://news.ycombinator.com/item?id=39775048) - [Jazz Legend Is His Own Work in Progress](https://www.nytimes.com/2024/03/18/books/review/notebooks-of-sonny-rollins.html)
 * [2024-03-21, 04:25:15](https://news.ycombinator.com/item?id=39774881) - [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
