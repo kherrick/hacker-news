@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 12:01:00](https://news.ycombinator.com/item?id=39799273) - [Promoted.ai (YC W21) Is Hiring Enterprise AE (Sales)](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
+* [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts Grow About the Biosignature Approach to Alien-Hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
 * [2024-03-23, 09:22:36](https://news.ycombinator.com/item?id=39798569) - [Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3)
 * [2024-03-23, 09:21:18](https://news.ycombinator.com/item?id=39798565) - [VLC: App Stores Were a Mistake](https://twitter.com/videolan/status/1771104206872555660)
 * [2024-03-23, 09:15:52](https://news.ycombinator.com/item?id=39798542) - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
@@ -17,6 +19,7 @@
 * [2024-03-23, 06:26:58](https://news.ycombinator.com/item?id=39797889) - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
 * [2024-03-23, 05:45:39](https://news.ycombinator.com/item?id=39797754) - [India's TikTok Ban Is a Cautionary Tale for the U.S.](https://www.wsj.com/world/india/india-tiktok-ban-cautionary-tale-us-congress-e014fc28)
 * [2024-03-23, 05:19:39](https://news.ycombinator.com/item?id=39797659) - [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+* [2024-03-23, 05:14:03](https://news.ycombinator.com/item?id=39797638) - [Beyond headlines of transmitted Alzheimer's, scientists see case for prions](https://www.fiercebiotech.com/research/alzheimers-transmission-medical-procedure-builds-case-prion-theory)
 * [2024-03-23, 05:08:55](https://news.ycombinator.com/item?id=39797615) - [SceneScript, a novel approach for 3D scene reconstruction](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/)
 * [2024-03-23, 04:51:27](https://news.ycombinator.com/item?id=39797544) - [He quit heading The Pentagon's UFO office. Now his report has shaken up ufology](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)
 * [2024-03-23, 04:28:39](https://news.ycombinator.com/item?id=39797455) - [Who Owns What in NYC?](https://whoownswhat.justfix.org/)
