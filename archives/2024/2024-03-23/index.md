@@ -15,4 +15,5 @@
 * [2024-03-23, 00:50:44](https://news.ycombinator.com/item?id=39796349) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
 * [2024-03-23, 00:46:42](https://news.ycombinator.com/item?id=39796333) - [Taurus: Writing JMeter Load Tests as Code](https://www.sheshbabu.com/posts/taurus-writing-jmeter-load-tests-as-code/)
 * [2024-03-23, 00:40:16](https://news.ycombinator.com/item?id=39796298) - [Redis Renamed to Redict](https://andrewkelley.me/post/redis-renamed-to-redict.html)
+* [2024-03-23, 00:37:09](https://news.ycombinator.com/item?id=39796290) - [The NakedCPU: Hardware Experiments and a Roadmap for Navigating Documentation [pdf]](http://web.evolbio.mpg.de/~alexander.pozhitkov/hardware_experiments_files/259Pozhitkov.pdf)
 * [2024-03-23, 00:21:13](https://news.ycombinator.com/item?id=39796216) - [Visiting Scarfolk, the Most Spectacular Dystopia of the 1970s](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
