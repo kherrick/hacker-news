@@ -2,9 +2,9 @@
 
 * [2024-03-23, 07:44:52](https://news.ycombinator.com/item?id=39798209) - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
-* [2024-03-23, 07:01:14](https://news.ycombinator.com/item?id=39798029) - [Redis Renamed to Redict](https://andrewkelley.me/post/redis-renamed-to-redict.html)
 * [2024-03-23, 07:00:40](https://news.ycombinator.com/item?id=39798026) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
 * [2024-03-23, 06:26:58](https://news.ycombinator.com/item?id=39797889) - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
+* [2024-03-23, 05:45:39](https://news.ycombinator.com/item?id=39797754) - [India's TikTok Ban Is a Cautionary Tale for the U.S.](https://www.wsj.com/world/india/india-tiktok-ban-cautionary-tale-us-congress-e014fc28)
 * [2024-03-23, 05:19:39](https://news.ycombinator.com/item?id=39797659) - [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
 * [2024-03-23, 05:08:55](https://news.ycombinator.com/item?id=39797615) - [SceneScript, a novel approach for 3D scene reconstruction](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/)
 * [2024-03-23, 03:33:17](https://news.ycombinator.com/item?id=39797176) - [Emad Mostaque resigned as CEO of Stability AI](https://stability.ai/news/stabilityai-announcement)
