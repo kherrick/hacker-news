@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 21:40:27](https://news.ycombinator.com/item?id=39803287) - [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
 * [2024-03-23, 21:23:58](https://news.ycombinator.com/item?id=39803177) - [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/)
+* [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 * [2024-03-23, 20:25:56](https://news.ycombinator.com/item?id=39802857) - [Sam Altman may have Siri and Alexa in his sights after OpenAI filed a trademark…](https://www.businessinsider.nl/sam-altman-may-have-siri-and-alexa-in-his-sights-after-openai-filed-a-digital-voice-assistant-trademark-application/)
 * [2024-03-23, 20:00:34](https://news.ycombinator.com/item?id=39802699) - [Experiments with Bitnet 1.5 (Ngmi)](https://huggingface.co/blog/joey00072/experiments-with-bitnet-1-5)
 * [2024-03-23, 19:49:12](https://news.ycombinator.com/item?id=39802629) - [Why Do Men Dominate Chess?](https://quillette.com/2024/03/22/why-do-men-dominate-chess/)
