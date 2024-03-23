@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 20:25:56](https://news.ycombinator.com/item?id=39802857) - [Sam Altman may have Siri and Alexa in his sights after OpenAI filed a trademark…](https://www.businessinsider.nl/sam-altman-may-have-siri-and-alexa-in-his-sights-after-openai-filed-a-digital-voice-assistant-trademark-application/)
 * [2024-03-23, 20:00:34](https://news.ycombinator.com/item?id=39802699) - [Experiments with Bitnet 1.5 (Ngmi)](https://huggingface.co/blog/joey00072/experiments-with-bitnet-1-5)
 * [2024-03-23, 19:49:12](https://news.ycombinator.com/item?id=39802629) - [Why Do Men Dominate Chess?](https://quillette.com/2024/03/22/why-do-men-dominate-chess/)
 * [2024-03-23, 19:37:57](https://news.ycombinator.com/item?id=39802554) - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
@@ -26,6 +27,7 @@
 * [2024-03-23, 16:25:46](https://news.ycombinator.com/item?id=39801032) - [SAS Grounds 18 Airbus A320neo because a component needs inspection](https://www.nrk.no/norge/sas-kansellerer-flyvninger-i-norge-og-sverige-1.16818798)
 * [2024-03-23, 16:15:03](https://news.ycombinator.com/item?id=39800944) - [If You Don't Change the UI, Nobody Notices (2009)](https://blog.codinghorror.com/if-you-dont-change-the-ui-nobody-notices/)
 * [2024-03-23, 16:13:21](https://news.ycombinator.com/item?id=39800931) - [Universities Lost the Internet](https://fossacademic.tech/2023/11/10/HowUniversitiesLostIT.html)
+* [2024-03-23, 16:10:47](https://news.ycombinator.com/item?id=39800915) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 16:01:13](https://news.ycombinator.com/item?id=39800844) - [The Lunduke Journal has been banned from YouTube](https://lunduke.locals.com/post/5423131/the-lunduke-journal-has-been-banned-from-youtube)
 * [2024-03-23, 15:58:30](https://news.ycombinator.com/item?id=39800821) - [Reverse DNS IPv4 Map](https://reversedns.space/)
 * [2024-03-23, 15:52:20](https://news.ycombinator.com/item?id=39800779) - [Google will start showing AI-powered search results for users who didn't opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)

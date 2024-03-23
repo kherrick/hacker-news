@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-23, 20:00:34](https://news.ycombinator.com/item?id=39802699) - [Experiments with Bitnet 1.5 (Ngmi)](https://huggingface.co/blog/joey00072/experiments-with-bitnet-1-5)
+* [2024-03-23, 20:25:56](https://news.ycombinator.com/item?id=39802857) - [Sam Altman may have Siri and Alexa in his sights after OpenAI filed a trademark…](https://www.businessinsider.nl/sam-altman-may-have-siri-and-alexa-in-his-sights-after-openai-filed-a-digital-voice-assistant-trademark-application/)
 * [2024-03-23, 19:37:57](https://news.ycombinator.com/item?id=39802554) - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-23, 18:21:21](https://news.ycombinator.com/item?id=39801991) - [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
@@ -11,6 +11,7 @@
 * [2024-03-23, 17:00:05](https://news.ycombinator.com/item?id=39801340) - [Unify (YC W23) Is Hiring](https://apply.unify.ai/)
 * [2024-03-23, 16:51:59](https://news.ycombinator.com/item?id=39801273) - [Efinix Titanium Ti375 FPGA offers quad-core hardened RISC-V, PCIe Gen 4, 10GbE](https://www.cnx-software.com/2024/03/22/efinix-titanium-ti375-fpga-quad-core-hardened-risc-v-block-pcie-gen-4-10gbe/)
 * [2024-03-23, 16:30:07](https://news.ycombinator.com/item?id=39801088) - [A Return to Blu-ray as Streaming Value Evaporates](https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates)
+* [2024-03-23, 16:10:47](https://news.ycombinator.com/item?id=39800915) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:58:30](https://news.ycombinator.com/item?id=39800821) - [Reverse DNS IPv4 Map](https://reversedns.space/)
 * [2024-03-23, 14:53:37](https://news.ycombinator.com/item?id=39800370) - [Show HN: PgJQ: Use Jq in Postgres](https://github.com/Florents-Tselai/pgJQ)
 * [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
@@ -19,7 +20,6 @@
 * [2024-03-23, 13:23:06](https://news.ycombinator.com/item?id=39799752) - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
 * [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 09:15:52](https://news.ycombinator.com/item?id=39798542) - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
-* [2024-03-23, 08:05:05](https://news.ycombinator.com/item?id=39798282) - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 * [2024-03-23, 06:26:58](https://news.ycombinator.com/item?id=39797889) - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
 * [2024-03-22, 00:06:17](https://news.ycombinator.com/item?id=39785942) - [A cargo ship's 'WindWing' sails saved it up to 12 tons of fuel per day](https://www.ajot.com/news/a-cargo-ships-windwing-sails-saved-it-up-to-12-tons-of-fuel-per-day)
