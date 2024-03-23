@@ -9,6 +9,7 @@
 * [2024-03-23, 19:49:12](https://news.ycombinator.com/item?id=39802629) - [Why Do Men Dominate Chess?](https://quillette.com/2024/03/22/why-do-men-dominate-chess/)
 * [2024-03-23, 19:37:57](https://news.ycombinator.com/item?id=39802554) - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [A Man Who Bought Pine Bluff, Arkansas (On Hacker News) (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
+* [2024-03-23, 18:36:31](https://news.ycombinator.com/item?id=39802120) - [Show HN: Wirequery – Full-stack session replay and more](https://github.com/wirequery/wirequery)
 * [2024-03-23, 18:21:21](https://news.ycombinator.com/item?id=39801991) - [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
 * [2024-03-23, 18:17:52](https://news.ycombinator.com/item?id=39801963) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-23, 17:43:22](https://news.ycombinator.com/item?id=39801670) - [On Microsoft, the U.S. Government Must Embrace the Stick](https://www.lawfaremedia.org/article/on-microsoft-the-u.s.-government-must-embrace-the-stick-ransomware-disruption)
