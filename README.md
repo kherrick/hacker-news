@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-23, 04:28:39](https://news.ycombinator.com/item?id=39797455) - [Who Owns What in NYC?](https://whoownswhat.justfix.org/)
-* [2024-03-23, 03:33:17](https://news.ycombinator.com/item?id=39797176) - [Stability AI: Emad Mostaque resigned from his role as CEO](https://stability.ai/news/stabilityai-announcement)
+* [2024-03-23, 03:33:17](https://news.ycombinator.com/item?id=39797176) - [Stability AI Announcement](https://stability.ai/news/stabilityai-announcement)
 * [2024-03-23, 02:19:13](https://news.ycombinator.com/item?id=39796893) - [Soupault: A static website management tool](https://soupault.app/)
 * [2024-03-23, 01:23:57](https://news.ycombinator.com/item?id=39796595) - [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
 * [2024-03-23, 01:15:54](https://news.ycombinator.com/item?id=39796550) - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
@@ -22,12 +22,12 @@
 * [2024-03-22, 17:45:53](https://news.ycombinator.com/item?id=39793044) - [Boom announces successful flight of XB-1 demonstrator aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
 * [2024-03-22, 14:52:06](https://news.ycombinator.com/item?id=39791301) - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
-* [2024-03-22, 10:19:53](https://news.ycombinator.com/item?id=39789139) - [My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
 * [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)
 * [2024-03-19, 21:34:08](https://news.ycombinator.com/item?id=39760482) - [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
 * [2024-03-19, 14:56:54](https://news.ycombinator.com/item?id=39756367) - [Indexing one petabyte of logs per day with Quickwit](https://quickwit.io/blog/quickwit-0.8)
+* [2024-03-19, 07:54:22](https://news.ycombinator.com/item?id=39753749) - [SQL is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
 * [2024-03-19, 01:55:48](https://news.ycombinator.com/item?id=39752239) - [Evolution of the Double Edge Blade (1990)](http://www.shaveworld.org/images/%20DEBladePage2010.htm)
 * [2024-03-17, 07:56:34](https://news.ycombinator.com/item?id=39732713) - [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
 

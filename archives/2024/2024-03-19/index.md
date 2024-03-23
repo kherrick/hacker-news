@@ -104,6 +104,7 @@
 * [2024-03-19, 09:06:30](https://news.ycombinator.com/item?id=39753985) - [Apt archive mirrors in Git-LFS](https://blog.josefsson.org/2024/03/18/apt-archive-mirrors-in-git-lfs/)
 * [2024-03-19, 08:38:15](https://news.ycombinator.com/item?id=39753890) - [Exceptional code quality is not only a developer's vanity metric](https://arxiv.org/abs/2401.13407)
 * [2024-03-19, 08:00:14](https://news.ycombinator.com/item?id=39753770) - [Immutability Changes Everything (2016)](https://queue.acm.org/detail.cfm?id=2884038)
+* [2024-03-19, 07:54:22](https://news.ycombinator.com/item?id=39753749) - [SQL is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
 * [2024-03-19, 07:51:27](https://news.ycombinator.com/item?id=39753740) - [Japan ends negative interest rate policy in historic pivot](https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html)
 * [2024-03-19, 07:32:12](https://news.ycombinator.com/item?id=39753650) - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 * [2024-03-19, 06:54:55](https://news.ycombinator.com/item?id=39753499) - [Denmark to build one of the most powerful AI supercomputers](https://novonordiskfonden.dk/en/news/denmark-to-build-one-of-the-worlds-most-powerful-ai-supercomputers-accelerating-solutions-to-societal-challenges/)
