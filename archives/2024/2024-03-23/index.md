@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 15:20:18](https://news.ycombinator.com/item?id=39800581) - [Problem with Vim is that you don't grok vi (2009)](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 * [2024-03-23, 15:12:54](https://news.ycombinator.com/item?id=39800522) - [Apple in the Crosshairs: DOJ's Epic Showdown Echoes Microsoft's Antitrust Saga](https://www.wsj.com/tech/ghost-of-microsoft-stalks-apple-as-doj-takes-its-shot-1f2be684)
 * [2024-03-23, 14:25:04](https://news.ycombinator.com/item?id=39800143) - [Apple Silicon vulnerability leaks encryption keys, and can't be patched easily](https://appleinsider.com/articles/24/03/21/apple-silicon-vulnerability-leaks-encryption-keys-and-cant-be-patched-easily)
 * [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
@@ -38,6 +39,7 @@
 * [2024-03-23, 02:03:32](https://news.ycombinator.com/item?id=39796824) - [Signs of life detectable in single ice grain emitted from extraterrestrial moons](https://www.washington.edu/news/2024/03/22/signs-of-life-detectable-in-single-ice-grain-emitted-from-extraterrestrial-moons/)
 * [2024-03-23, 01:56:04](https://news.ycombinator.com/item?id=39796778) - [The Strongman Fantasy – and Dictatorship in Real Life](https://snyder.substack.com/p/the-strongman-fantasy)
 * [2024-03-23, 01:23:57](https://news.ycombinator.com/item?id=39796595) - [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
+* [2024-03-23, 01:16:26](https://news.ycombinator.com/item?id=39796553) - [More than half of chickenpox diagnoses are wrong, study finds](https://arstechnica.com/science/2024/03/more-than-half-of-chickenpox-diagnoses-are-wrong-study-finds/)
 * [2024-03-23, 01:15:54](https://news.ycombinator.com/item?id=39796550) - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
 * [2024-03-23, 01:12:13](https://news.ycombinator.com/item?id=39796527) - [Mars unsafe for humans to live, no one can survive for longer than 4 years](https://www.unilad.com/technology/space/mars-declared-unsafe-humans-survive-four-years-356854-20240320)
 * [2024-03-23, 01:11:36](https://news.ycombinator.com/item?id=39796521) - [Arginine Peptides Induce Nucleolar Stress, Ribosomopathy and Aging in Mice](https://www.cell.com/molecular-cell/abstract/S1097-2765(24)00173-4)
