@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-23, 09:22:36](https://news.ycombinator.com/item?id=39798569) - [Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3)
+* [2024-03-23, 08:05:05](https://news.ycombinator.com/item?id=39798282) - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
 * [2024-03-23, 07:44:52](https://news.ycombinator.com/item?id=39798209) - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 * [2024-03-23, 07:00:40](https://news.ycombinator.com/item?id=39798026) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
@@ -23,12 +25,10 @@
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
 * [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)
 * [2024-03-20, 09:29:12](https://news.ycombinator.com/item?id=39764360) - [Unbounded Recursion](https://wiki.secretgeek.net/unbounded-recursion#jokes-featuring-unbounded-recursion)
-* [2024-03-19, 21:34:08](https://news.ycombinator.com/item?id=39760482) - [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
 * [2024-03-19, 19:25:27](https://news.ycombinator.com/item?id=39759344) - [Relacy Race Detector](https://www.1024cores.net/home/relacy-race-detector)
 * [2024-03-19, 14:56:54](https://news.ycombinator.com/item?id=39756367) - [Quickwit 0.8: Indexing and Search at Petabyte Scale](https://quickwit.io/blog/quickwit-0.8)
 * [2024-03-19, 10:12:18](https://news.ycombinator.com/item?id=39754295) - [Using axis lines for good or evil](https://dynomight.net/axes/)
 * [2024-03-19, 07:54:22](https://news.ycombinator.com/item?id=39753749) - [SQL is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
-* [2024-03-19, 01:55:48](https://news.ycombinator.com/item?id=39752239) - [Evolution of the Double Edge Blade (1990)](http://www.shaveworld.org/images/%20DEBladePage2010.htm)
 * [2024-03-17, 07:56:34](https://news.ycombinator.com/item?id=39732713) - [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
 
 ## [Archives](archives/index.md)
