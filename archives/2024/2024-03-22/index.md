@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
 * [2024-03-22, 23:59:33](https://news.ycombinator.com/item?id=39796099) - [Tech Job Seekers Without AI Skills Face Lower Salaries and Fewer Roles](https://www.wsj.com/articles/tech-job-seekers-without-ai-skills-face-a-new-reality-lower-salaries-and-fewer-roles-db63f6e0)
+* [2024-03-22, 23:24:39](https://news.ycombinator.com/item?id=39795905) - [How to Run Turbo Pascal on an Android Phone](https://blogs.embarcadero.com/running-turbo-pascal-on-android/)
 * [2024-03-22, 23:14:43](https://news.ycombinator.com/item?id=39795830) - [VCard and RSS as an alternative to social media](https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html)
 * [2024-03-22, 22:13:35](https://news.ycombinator.com/item?id=39795415) - [Someone made a device that's just a mechanical finger connected to Zigbee](https://mastodon.social/@whitequark/112128649344539396)
 * [2024-03-22, 22:07:37](https://news.ycombinator.com/item?id=39795369) - [Toxic rare earth mining industry at the heart of the green energy transition](https://www.globalwitness.org/en/campaigns/natural-resource-governance/myanmars-poisoned-mountains/)
