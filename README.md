@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-23, 09:22:36](https://news.ycombinator.com/item?id=39798569) - [Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3)
+* [2024-03-23, 08:06:31](https://news.ycombinator.com/item?id=39798290) - [Anonymous crypto wallets now illegal in the EU](https://finbold.com/anonymous-crypto-wallets-now-illegal-in-the-eu/)
 * [2024-03-23, 08:05:05](https://news.ycombinator.com/item?id=39798282) - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
 * [2024-03-23, 07:44:52](https://news.ycombinator.com/item?id=39798209) - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
@@ -20,7 +21,6 @@
 * [2024-03-22, 19:11:45](https://news.ycombinator.com/item?id=39793805) - [Pack: A new container format for compressed files](https://pack.ac/note/pack)
 * [2024-03-22, 18:43:12](https://news.ycombinator.com/item?id=39793513) - [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 * [2024-03-22, 18:34:56](https://news.ycombinator.com/item?id=39793420) - [Pure CSS Website](https://pure-css-site.netlify.app/)
-* [2024-03-22, 18:13:57](https://news.ycombinator.com/item?id=39793250) - [DenseFormer: Enhancing Information Flow in Transformers](https://arxiv.org/abs/2402.02622)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
 * [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)

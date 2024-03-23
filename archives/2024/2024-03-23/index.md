@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
 * [2024-03-23, 09:22:36](https://news.ycombinator.com/item?id=39798569) - [Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3)
+* [2024-03-23, 08:06:31](https://news.ycombinator.com/item?id=39798290) - [Anonymous crypto wallets now illegal in the EU](https://finbold.com/anonymous-crypto-wallets-now-illegal-in-the-eu/)
 * [2024-03-23, 08:05:05](https://news.ycombinator.com/item?id=39798282) - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
 * [2024-03-23, 07:44:52](https://news.ycombinator.com/item?id=39798209) - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
