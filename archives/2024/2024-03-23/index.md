@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 20:00:34](https://news.ycombinator.com/item?id=39802699) - [Experiments with Bitnet 1.5 (Ngmi)](https://huggingface.co/blog/joey00072/experiments-with-bitnet-1-5)
 * [2024-03-23, 19:49:12](https://news.ycombinator.com/item?id=39802629) - [Why Do Men Dominate Chess?](https://quillette.com/2024/03/22/why-do-men-dominate-chess/)
 * [2024-03-23, 19:37:57](https://news.ycombinator.com/item?id=39802554) - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [A Man Who Bought Pine Bluff, Arkansas (On Hacker News) (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
@@ -14,6 +15,7 @@
 * [2024-03-23, 17:34:21](https://news.ycombinator.com/item?id=39801594) - [Bunk beds in aircraft cabins: the realistic prospects](https://www.aircraftinteriorsinternational.com/features/bunk-beds-in-aircraft-cabins-the-realistic-prospects.html)
 * [2024-03-23, 17:22:03](https://news.ycombinator.com/item?id=39801503) - [The bike collection of Robin Williams](https://www.sterba-bike.cz/album/1926/category/museumsfoto?lang=EN)
 * [2024-03-23, 17:17:59](https://news.ycombinator.com/item?id=39801471) - [I will NEVER add such a privacy breaking a**hole feature](https://github.com/kimai/kimai/issues/3969)
+* [2024-03-23, 17:12:46](https://news.ycombinator.com/item?id=39801435) - [Ntex: Powerful, pragmatic, fast framework for composable networking services](https://ntex.rs/)
 * [2024-03-23, 17:07:42](https://news.ycombinator.com/item?id=39801399) - [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
 * [2024-03-23, 17:00:05](https://news.ycombinator.com/item?id=39801340) - [Unify (YC W23) Is Hiring](https://apply.unify.ai/)
 * [2024-03-23, 16:54:21](https://news.ycombinator.com/item?id=39801289) - [Fresno School Tracks Students' Bathroom Breaks with Countdown App](https://www.thedailybeast.com/fresno-school-tracks-students-bathroom-breaks-with-countdown-app)
