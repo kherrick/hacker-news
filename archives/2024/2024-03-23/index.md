@@ -8,6 +8,7 @@
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799754) - [Mozilla just ditched its privacy partner because its CEO is tied to data brokers](https://www.theverge.com/2024/3/22/24109116/mozilla-ends-onerep-data-removal-partnership)
 * [2024-03-23, 13:23:06](https://news.ycombinator.com/item?id=39799752) - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
+* [2024-03-23, 12:57:21](https://news.ycombinator.com/item?id=39799605) - [The Stock Market is not the Economy](https://www.nasdaq.com/articles/the-stock-market-is-not-the-economy)
 * [2024-03-23, 12:23:50](https://news.ycombinator.com/item?id=39799406) - [Ask HN: Doom and Gloom but financial markets doing well?](https://news.ycombinator.com/item?id=39799406)
 * [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 12:01:00](https://news.ycombinator.com/item?id=39799273) - [Promoted.ai (YC W21) Is Hiring Enterprise AE (Sales)](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
