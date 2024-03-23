@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-23, 12:23:50](https://news.ycombinator.com/item?id=39799406) - [Ask HN: Doom and Gloom but financial markets doing well?](https://news.ycombinator.com/item?id=39799406)
 * [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 12:01:00](https://news.ycombinator.com/item?id=39799273) - [Promoted.ai (YC W21) Is Hiring Enterprise AE (Sales)](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
 * [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
@@ -19,7 +20,6 @@
 * [2024-03-23, 00:21:13](https://news.ycombinator.com/item?id=39796216) - [Visiting Scarfolk, the most spectacular dystopia of the 1970s (2016)](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
 * [2024-03-22, 23:14:43](https://news.ycombinator.com/item?id=39795830) - [VCard and RSS as an alternative to social media](https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
-* [2024-03-22, 18:43:12](https://news.ycombinator.com/item?id=39793513) - [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 * [2024-03-22, 16:15:53](https://news.ycombinator.com/item?id=39792136) - [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
 * [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)
 * [2024-03-20, 09:29:12](https://news.ycombinator.com/item?id=39764360) - [Unbounded Recursion](https://wiki.secretgeek.net/unbounded-recursion#jokes-featuring-unbounded-recursion)

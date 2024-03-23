@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 12:23:50](https://news.ycombinator.com/item?id=39799406) - [Ask HN: Doom and Gloom but financial markets doing well?](https://news.ycombinator.com/item?id=39799406)
 * [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 12:01:00](https://news.ycombinator.com/item?id=39799273) - [Promoted.ai (YC W21) Is Hiring Enterprise AE (Sales)](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
 * [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts Grow About the Biosignature Approach to Alien-Hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
