@@ -99,6 +99,7 @@
 * [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 * [2024-03-19, 10:19:34](https://news.ycombinator.com/item?id=39754330) - [Inside the Massive Alleged AT&T Data Breach](https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/)
 * [2024-03-19, 10:17:46](https://news.ycombinator.com/item?id=39754315) - [Rust on Nails](https://rust-on-nails.com/)
+* [2024-03-19, 10:12:18](https://news.ycombinator.com/item?id=39754295) - [Using axis lines for good or evil](https://dynomight.net/axes/)
 * [2024-03-19, 09:42:09](https://news.ycombinator.com/item?id=39754142) - [China's bonds boom as investors face 'asset famine'](https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/)
 * [2024-03-19, 09:40:00](https://news.ycombinator.com/item?id=39754130) - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
 * [2024-03-19, 09:19:35](https://news.ycombinator.com/item?id=39754044) - [8hour time-restricted eating linked to a 91% higher risk of cardiovascular death](https://medicalxpress.com/news/2024-03-hour-restricted-linked-higher-cardiovascular.html)
