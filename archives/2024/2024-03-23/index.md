@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 07:44:52](https://news.ycombinator.com/item?id=39798209) - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
+* [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 * [2024-03-23, 07:01:14](https://news.ycombinator.com/item?id=39798029) - [Redis Renamed to Redict](https://andrewkelley.me/post/redis-renamed-to-redict.html)
 * [2024-03-23, 07:00:40](https://news.ycombinator.com/item?id=39798026) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
 * [2024-03-23, 06:26:58](https://news.ycombinator.com/item?id=39797889) - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
