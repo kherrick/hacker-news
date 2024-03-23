@@ -27,6 +27,7 @@
 * [2024-03-20, 20:11:02](https://news.ycombinator.com/item?id=39771446) - [The Starship or the Canoe: Where Will Our Future Adaptations Be?](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
 * [2024-03-20, 19:25:38](https://news.ycombinator.com/item?id=39770941) - [First use of ammonia as marine fuel in a vessel](https://fortescue.com/news-and-media/news/2024/03/15/world-s-first-use-of-ammonia-as-a-marine-fuel-in-a-dual-fueled-ammonia-powered-vessel-in-the-port-of-singapore)
 * [2024-03-20, 19:23:11](https://news.ycombinator.com/item?id=39770908) - [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
+* [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)
 * [2024-03-20, 19:07:03](https://news.ycombinator.com/item?id=39770712) - [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)
 * [2024-03-20, 18:44:58](https://news.ycombinator.com/item?id=39770467) - [The C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
 * [2024-03-20, 18:25:10](https://news.ycombinator.com/item?id=39770257) - [The AMD tinybox is on hold until we can build and run the firmware on our GPUs](https://twitter.com/__tinygrad__/status/1770151484363354195)
