@@ -18,6 +18,7 @@
 * [2024-03-23, 16:42:05](https://news.ycombinator.com/item?id=39801204) - [The bar keeps being lowered and the goal post keeps moving](http://www.circuitbored.com/communicate/viewtopic.php?p=241#p241)
 * [2024-03-23, 16:33:48](https://news.ycombinator.com/item?id=39801120) - [Meet the AI-Censored? Naked Capitalism](https://www.racket.news/p/meet-the-ai-censored-naked-capitalism)
 * [2024-03-23, 16:30:07](https://news.ycombinator.com/item?id=39801088) - [A Return to Blu-ray as Streaming Value Evaporates](https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates)
+* [2024-03-23, 16:25:46](https://news.ycombinator.com/item?id=39801032) - [SAS Grounds 18 Airbus A320neo because a component needs inspection](https://www.nrk.no/norge/sas-kansellerer-flyvninger-i-norge-og-sverige-1.16818798)
 * [2024-03-23, 16:15:03](https://news.ycombinator.com/item?id=39800944) - [If You Don't Change the UI, Nobody Notices (2009)](https://blog.codinghorror.com/if-you-dont-change-the-ui-nobody-notices/)
 * [2024-03-23, 16:13:21](https://news.ycombinator.com/item?id=39800931) - [Universities Lost the Internet](https://fossacademic.tech/2023/11/10/HowUniversitiesLostIT.html)
 * [2024-03-23, 16:01:13](https://news.ycombinator.com/item?id=39800844) - [The Lunduke Journal has been banned from YouTube](https://lunduke.locals.com/post/5423131/the-lunduke-journal-has-been-banned-from-youtube)
