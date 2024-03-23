@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-23, 18:17:52](https://news.ycombinator.com/item?id=39801963) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-23, 17:34:21](https://news.ycombinator.com/item?id=39801594) - [Bunk beds in aircraft cabins: the realistic prospects](https://www.aircraftinteriorsinternational.com/features/bunk-beds-in-aircraft-cabins-the-realistic-prospects.html)
+* [2024-03-23, 17:22:03](https://news.ycombinator.com/item?id=39801503) - [The bike collection of Robin Williams](https://www.sterba-bike.cz/album/1926/category/museumsfoto?lang=EN)
 * [2024-03-23, 17:07:42](https://news.ycombinator.com/item?id=39801399) - [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
 * [2024-03-23, 17:00:05](https://news.ycombinator.com/item?id=39801340) - [Unify (YC W23) Is Hiring](https://apply.unify.ai/)
 * [2024-03-23, 16:51:59](https://news.ycombinator.com/item?id=39801273) - [Efinix Titanium Ti375 FPGA offers quad-core hardened RISC-V, PCIe Gen 4, 10GbE](https://www.cnx-software.com/2024/03/22/efinix-titanium-ti375-fpga-quad-core-hardened-risc-v-block-pcie-gen-4-10gbe/)
@@ -28,8 +30,6 @@
 * [2024-03-20, 09:29:12](https://news.ycombinator.com/item?id=39764360) - [Unbounded Recursion](https://wiki.secretgeek.net/unbounded-recursion#jokes-featuring-unbounded-recursion)
 * [2024-03-19, 21:27:43](https://news.ycombinator.com/item?id=39760421) - [A Stabilizing Robotic Tail for Floating Astronauts](https://www.core77.com/posts/130277/Industrial-Design-Student-Work-A-Stabilizing-Robotic-Tail-for-Floating-Astronauts)
 * [2024-03-19, 11:40:04](https://news.ycombinator.com/item?id=39754744) - [Explore the Paleobiology Database through space, time, and taxonomy](https://paleobiodb.org/navigator/)
-* [2024-03-19, 10:12:18](https://news.ycombinator.com/item?id=39754295) - [Using axis lines for good or evil](https://dynomight.net/axes/)
-* [2024-03-19, 07:54:22](https://news.ycombinator.com/item?id=39753749) - [SQL is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
 
 ## [Archives](archives/index.md)
 

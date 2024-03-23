@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 18:17:52](https://news.ycombinator.com/item?id=39801963) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-23, 17:37:06](https://news.ycombinator.com/item?id=39801618) - [Sonoma's lost versions bug: what it is and how to safeguard versions](https://eclecticlight.co/2024/03/19/sonomas-lost-versions-bug-what-it-is-and-how-to-safeguard-versions/)
 * [2024-03-23, 17:34:21](https://news.ycombinator.com/item?id=39801594) - [Bunk beds in aircraft cabins: the realistic prospects](https://www.aircraftinteriorsinternational.com/features/bunk-beds-in-aircraft-cabins-the-realistic-prospects.html)
+* [2024-03-23, 17:22:03](https://news.ycombinator.com/item?id=39801503) - [The bike collection of Robin Williams](https://www.sterba-bike.cz/album/1926/category/museumsfoto?lang=EN)
 * [2024-03-23, 17:17:59](https://news.ycombinator.com/item?id=39801471) - [I will NEVER add such a privacy breaking a**hole feature](https://github.com/kimai/kimai/issues/3969)
 * [2024-03-23, 17:07:42](https://news.ycombinator.com/item?id=39801399) - [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
 * [2024-03-23, 17:00:05](https://news.ycombinator.com/item?id=39801340) - [Unify (YC W23) Is Hiring](https://apply.unify.ai/)
