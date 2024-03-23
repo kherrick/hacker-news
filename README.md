@@ -2,7 +2,6 @@
 
 * [2024-03-23, 03:33:17](https://news.ycombinator.com/item?id=39797176) - [Stability AI: Emad Mostaque resigned from his role as CEO](https://stability.ai/news/stabilityai-announcement)
 * [2024-03-23, 02:19:13](https://news.ycombinator.com/item?id=39796893) - [Soupault: A static website management tool](https://soupault.app/)
-* [2024-03-23, 01:56:04](https://news.ycombinator.com/item?id=39796778) - [The Strongman Fantasy – and Dictatorship in Real Life](https://snyder.substack.com/p/the-strongman-fantasy)
 * [2024-03-23, 01:23:57](https://news.ycombinator.com/item?id=39796595) - [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
 * [2024-03-23, 01:15:54](https://news.ycombinator.com/item?id=39796550) - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
 * [2024-03-23, 01:11:36](https://news.ycombinator.com/item?id=39796521) - [Arginine Peptides Induce Nucleolar Stress, Ribosomopathy and Aging in Mice](https://www.cell.com/molecular-cell/abstract/S1097-2765(24)00173-4)
@@ -24,6 +23,7 @@
 * [2024-03-22, 14:52:06](https://news.ycombinator.com/item?id=39791301) - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
 * [2024-03-22, 13:12:43](https://news.ycombinator.com/item?id=39790365) - [The Bulma CSS framework reaches 1.0](https://github.com/jgthms/bulma/releases/tag/1.0.0)
 * [2024-03-22, 10:19:53](https://news.ycombinator.com/item?id=39789139) - [My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
+* [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
 * [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)
