@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-23, 00:40:16](https://news.ycombinator.com/item?id=39796298) - [Redis Renamed to Redict](https://andrewkelley.me/post/redis-renamed-to-redict.html)
+* [2024-03-23, 01:15:54](https://news.ycombinator.com/item?id=39796550) - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
 * [2024-03-23, 00:21:13](https://news.ycombinator.com/item?id=39796216) - [Visiting Scarfolk, the Most Spectacular Dystopia of the 1970s](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
-* [2024-03-22, 23:59:33](https://news.ycombinator.com/item?id=39796099) - [Tech Job Seekers Without AI Skills Face Lower Salaries and Fewer Roles](https://www.wsj.com/articles/tech-job-seekers-without-ai-skills-face-a-new-reality-lower-salaries-and-fewer-roles-db63f6e0)
 * [2024-03-22, 21:06:13](https://news.ycombinator.com/item?id=39794864) - [Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers](https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers)
-* [2024-03-22, 21:05:25](https://news.ycombinator.com/item?id=39794856) - [Apple Turned on 'Discoverable by Others'. You Might Want It Off](https://www.wsj.com/tech/personal-tech/apple-iphone-discoverable-by-others-journaling-suggestions-9d63086d)
 * [2024-03-22, 21:01:02](https://news.ycombinator.com/item?id=39794815) - [Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
 * [2024-03-22, 19:46:57](https://news.ycombinator.com/item?id=39794118) - [Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
 * [2024-03-22, 19:25:59](https://news.ycombinator.com/item?id=39793912) - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
@@ -25,11 +23,13 @@
 * [2024-03-22, 12:18:38](https://news.ycombinator.com/item?id=39789920) - [Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 * [2024-03-22, 10:19:53](https://news.ycombinator.com/item?id=39789139) - [My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
 * [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
-* [2024-03-21, 21:38:57](https://news.ycombinator.com/item?id=39784721) - [Gigantic new aircraft design aims to create the largest plane ever to fly](https://www.cnn.com/travel/windrunner-biggest-plane-in-the-world/index.html)
+* [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
 * [2024-03-21, 20:59:32](https://news.ycombinator.com/item?id=39784339) - [Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
+* [2024-03-21, 18:48:55](https://news.ycombinator.com/item?id=39782761) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 01:46:46](https://news.ycombinator.com/item?id=39774153) - [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
 * [2024-03-20, 19:14:59](https://news.ycombinator.com/item?id=39770795) - [Neolithic boats found in the Mediterranean reveal advanced nautical technology](https://phys.org/news/2024-03-neolithic-boats-excavated-mediterranean-reveal.html)
+* [2024-03-19, 10:35:52](https://news.ycombinator.com/item?id=39754403) - [Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
 
 ## [Archives](archives/index.md)
 
