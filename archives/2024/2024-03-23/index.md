@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 15:52:20](https://news.ycombinator.com/item?id=39800779) - [Google will start showing AI-powered search results for users who didn't opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
+* [2024-03-23, 15:43:34](https://news.ycombinator.com/item?id=39800732) - [The \"Reitoff principle\": Why you should add \"nothing\" to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
+* [2024-03-23, 15:42:51](https://news.ycombinator.com/item?id=39800728) - [Over 440k Starbucks holiday mugs recalled for burn and cut hazards](https://www.nbcnews.com/news/us-news/440000-starbucks-holiday-mugs-recalled-burn-cut-hazards-rcna144618)
+* [2024-03-23, 15:29:28](https://news.ycombinator.com/item?id=39800648) - [Why isn't dental health considered primary medical care?](https://knowablemagazine.org/content/article/health-disease/2024/why-isnt-dental-health-considered-primary-medical-care)
 * [2024-03-23, 15:20:18](https://news.ycombinator.com/item?id=39800581) - [Problem with Vim is that you don't grok vi (2009)](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 * [2024-03-23, 15:12:54](https://news.ycombinator.com/item?id=39800522) - [Apple in the Crosshairs: DOJ's Epic Showdown Echoes Microsoft's Antitrust Saga](https://www.wsj.com/tech/ghost-of-microsoft-stalks-apple-as-doj-takes-its-shot-1f2be684)
 * [2024-03-23, 14:25:04](https://news.ycombinator.com/item?id=39800143) - [Apple Silicon vulnerability leaks encryption keys, and can't be patched easily](https://appleinsider.com/articles/24/03/21/apple-silicon-vulnerability-leaks-encryption-keys-and-cant-be-patched-easily)
 * [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
+* [2024-03-23, 14:04:17](https://news.ycombinator.com/item?id=39800016) - [NIST: Personal Identity Verification (PIV) of Federal Employees and Contractors](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3.pdf)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799754) - [Mozilla just ditched its privacy partner because its CEO is tied to data brokers](https://www.theverge.com/2024/3/22/24109116/mozilla-ends-onerep-data-removal-partnership)
 * [2024-03-23, 13:23:06](https://news.ycombinator.com/item?id=39799752) - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
