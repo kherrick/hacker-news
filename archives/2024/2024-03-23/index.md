@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 07:01:14](https://news.ycombinator.com/item?id=39798029) - [Redis Renamed to Redict](https://andrewkelley.me/post/redis-renamed-to-redict.html)
 * [2024-03-23, 07:00:40](https://news.ycombinator.com/item?id=39798026) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
 * [2024-03-23, 06:26:58](https://news.ycombinator.com/item?id=39797889) - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
 * [2024-03-23, 05:19:39](https://news.ycombinator.com/item?id=39797659) - [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)

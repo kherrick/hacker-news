@@ -94,6 +94,7 @@
 * [2024-03-20, 10:50:51](https://news.ycombinator.com/item?id=39764818) - [JetMove – Extra Navigation and Multiple Caret Enhancements for Jetbrians IDEs](https://gist.github.com/lurebat/df773fecbc6829625d996fc8a65d5e25)
 * [2024-03-20, 10:40:15](https://news.ycombinator.com/item?id=39764768) - [European Space Agency to measure Earth at millimeter scale](https://www.theregister.com/2024/03/20/esa_1_millimeter/)
 * [2024-03-20, 09:33:40](https://news.ycombinator.com/item?id=39764387) - [Long-term leisure computer use 'linked to increased erectile dysfunction risk'](https://www.independent.co.uk/news/science/uk-biobank-studies-china-university-of-manchester-b2515459.html)
+* [2024-03-20, 09:29:12](https://news.ycombinator.com/item?id=39764360) - [Unbounded Recursion](https://wiki.secretgeek.net/unbounded-recursion#jokes-featuring-unbounded-recursion)
 * [2024-03-20, 09:18:06](https://news.ycombinator.com/item?id=39764287) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 * [2024-03-20, 08:50:37](https://news.ycombinator.com/item?id=39764094) - [Stop Doing Business with Russia](https://leave-russia.org/)
 * [2024-03-20, 08:37:37](https://news.ycombinator.com/item?id=39764014) - [Compiling Rust to WASI](https://benw.is/posts/compiling-rust-to-wasi)
