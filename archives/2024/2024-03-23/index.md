@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 16:01:13](https://news.ycombinator.com/item?id=39800844) - [The Lunduke Journal has been banned from YouTube](https://lunduke.locals.com/post/5423131/the-lunduke-journal-has-been-banned-from-youtube)
 * [2024-03-23, 15:52:20](https://news.ycombinator.com/item?id=39800779) - [Google will start showing AI-powered search results for users who didn't opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
 * [2024-03-23, 15:43:34](https://news.ycombinator.com/item?id=39800732) - [The \"Reitoff principle\": Why you should add \"nothing\" to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
 * [2024-03-23, 15:42:51](https://news.ycombinator.com/item?id=39800728) - [Over 440k Starbucks holiday mugs recalled for burn and cut hazards](https://www.nbcnews.com/news/us-news/440000-starbucks-holiday-mugs-recalled-burn-cut-hazards-rcna144618)
