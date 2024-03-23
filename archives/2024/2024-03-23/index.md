@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 17:17:59](https://news.ycombinator.com/item?id=39801471) - [I will NEVER add such a privacy breaking a**hole feature](https://github.com/kimai/kimai/issues/3969)
 * [2024-03-23, 17:00:05](https://news.ycombinator.com/item?id=39801340) - [Unify (YC W23) Is Hiring](https://apply.unify.ai/)
+* [2024-03-23, 16:54:21](https://news.ycombinator.com/item?id=39801289) - [Fresno School Tracks Students' Bathroom Breaks with Countdown App](https://www.thedailybeast.com/fresno-school-tracks-students-bathroom-breaks-with-countdown-app)
+* [2024-03-23, 16:42:05](https://news.ycombinator.com/item?id=39801204) - [The bar keeps being lowered and the goal post keeps moving](http://www.circuitbored.com/communicate/viewtopic.php?p=241#p241)
+* [2024-03-23, 16:33:48](https://news.ycombinator.com/item?id=39801120) - [Meet the AI-Censored? Naked Capitalism](https://www.racket.news/p/meet-the-ai-censored-naked-capitalism)
+* [2024-03-23, 16:30:07](https://news.ycombinator.com/item?id=39801088) - [A Return to Blu-ray as Streaming Value Evaporates](https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates)
+* [2024-03-23, 16:15:03](https://news.ycombinator.com/item?id=39800944) - [If You Don't Change the UI, Nobody Notices (2009)](https://blog.codinghorror.com/if-you-dont-change-the-ui-nobody-notices/)
 * [2024-03-23, 16:01:13](https://news.ycombinator.com/item?id=39800844) - [The Lunduke Journal has been banned from YouTube](https://lunduke.locals.com/post/5423131/the-lunduke-journal-has-been-banned-from-youtube)
 * [2024-03-23, 15:52:20](https://news.ycombinator.com/item?id=39800779) - [Google will start showing AI-powered search results for users who didn't opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
 * [2024-03-23, 15:43:34](https://news.ycombinator.com/item?id=39800732) - [The \"Reitoff principle\": Why you should add \"nothing\" to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
