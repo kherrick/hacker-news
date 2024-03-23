@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
 * [2024-03-23, 17:37:06](https://news.ycombinator.com/item?id=39801618) - [Sonoma's lost versions bug: what it is and how to safeguard versions](https://eclecticlight.co/2024/03/19/sonomas-lost-versions-bug-what-it-is-and-how-to-safeguard-versions/)
+* [2024-03-23, 17:34:21](https://news.ycombinator.com/item?id=39801594) - [Bunk beds in aircraft cabins: the realistic prospects](https://www.aircraftinteriorsinternational.com/features/bunk-beds-in-aircraft-cabins-the-realistic-prospects.html)
 * [2024-03-23, 17:17:59](https://news.ycombinator.com/item?id=39801471) - [I will NEVER add such a privacy breaking a**hole feature](https://github.com/kimai/kimai/issues/3969)
 * [2024-03-23, 17:07:42](https://news.ycombinator.com/item?id=39801399) - [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
 * [2024-03-23, 17:00:05](https://news.ycombinator.com/item?id=39801340) - [Unify (YC W23) Is Hiring](https://apply.unify.ai/)
 * [2024-03-23, 16:54:21](https://news.ycombinator.com/item?id=39801289) - [Fresno School Tracks Students' Bathroom Breaks with Countdown App](https://www.thedailybeast.com/fresno-school-tracks-students-bathroom-breaks-with-countdown-app)
+* [2024-03-23, 16:51:59](https://news.ycombinator.com/item?id=39801273) - [Efinix Titanium Ti375 FPGA offers quad-core hardened RISC-V, PCIe Gen 4, 10GbE](https://www.cnx-software.com/2024/03/22/efinix-titanium-ti375-fpga-quad-core-hardened-risc-v-block-pcie-gen-4-10gbe/)
 * [2024-03-23, 16:42:05](https://news.ycombinator.com/item?id=39801204) - [The bar keeps being lowered and the goal post keeps moving](http://www.circuitbored.com/communicate/viewtopic.php?p=241#p241)
 * [2024-03-23, 16:33:48](https://news.ycombinator.com/item?id=39801120) - [Meet the AI-Censored? Naked Capitalism](https://www.racket.news/p/meet-the-ai-censored-naked-capitalism)
 * [2024-03-23, 16:30:07](https://news.ycombinator.com/item?id=39801088) - [A Return to Blu-ray as Streaming Value Evaporates](https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates)
