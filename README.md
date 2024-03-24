@@ -23,12 +23,12 @@
 * [2024-03-23, 18:21:21](https://news.ycombinator.com/item?id=39801991) - [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
 * [2024-03-23, 18:17:52](https://news.ycombinator.com/item?id=39801963) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-23, 17:07:42](https://news.ycombinator.com/item?id=39801399) - [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
-* [2024-03-23, 15:58:30](https://news.ycombinator.com/item?id=39800821) - [Reverse DNS IPv4 Map](https://reversedns.space/)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 * [2024-03-21, 04:25:15](https://news.ycombinator.com/item?id=39774881) - [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 * [2024-03-20, 12:23:14](https://news.ycombinator.com/item?id=39765453) - [The Virtue of Slow Writers](https://themillions.com/2024/03/the-virtue-of-slow-writers.html)
 * [2024-03-19, 21:31:50](https://news.ycombinator.com/item?id=39760458) - [Swedish composer becomes Spotify's most-famous musician you've never heard of](https://www.theguardian.com/uk-news/2024/mar/19/swedish-composer-johan-rohr-becomes-spotifys-most-famous-musician-youve-never-heard-of)
+* [2024-03-19, 18:19:32](https://news.ycombinator.com/item?id=39758712) - [Fault tolerance and resilience patterns for Go](https://github.com/failsafe-go/failsafe-go)
 * [2024-03-19, 12:13:18](https://news.ycombinator.com/item?id=39754943) - [The Super Mario Maker community faces its final boss](https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/)
 
 ## [Archives](archives/index.md)
