@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [Tinyssh](https://tinyssh.org/)
-* [2024-03-24, 09:59:37](https://news.ycombinator.com/item?id=39806119) - [Playground bullies do prosper – and go on to earn more in middle age](https://www.theguardian.com/society/2024/mar/24/playground-bullies-do-prosper-and-go-on-to-earn-more-in-middle-age)
 * [2024-03-24, 08:41:22](https://news.ycombinator.com/item?id=39805846) - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 08:33:23](https://news.ycombinator.com/item?id=39805834) - [Dead Man's Switch](https://www.deadmansswitch.net/)
 * [2024-03-24, 07:03:37](https://news.ycombinator.com/item?id=39805548) - [Fans quitting Spotify to save their love of music (2022)](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
@@ -22,6 +21,7 @@
 * [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 * [2024-03-23, 20:36:20](https://news.ycombinator.com/item?id=39802934) - [What happens to Google Maps when tectonic plates move?](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
 * [2024-03-23, 20:13:43](https://news.ycombinator.com/item?id=39802783) - [Interval Parsing Grammars for File Format Parsing (2023) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3591264)
+* [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-23, 18:17:52](https://news.ycombinator.com/item?id=39801963) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 * [2024-03-20, 14:47:37](https://news.ycombinator.com/item?id=39767371) - [Mantle convection –> seaway closure that transformed oceanographic circulation](https://phys.org/news/2024-03-mantle-convection-linked-seaway-closure.html)
