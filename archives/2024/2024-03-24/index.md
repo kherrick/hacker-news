@@ -32,6 +32,7 @@
 * [2024-03-24, 01:59:36](https://news.ycombinator.com/item?id=39804529) - [Cable ISP Fined $10k for Lying to FCC About Where It Offers Broadband](https://ordonews.com/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
 * [2024-03-24, 01:41:33](https://news.ycombinator.com/item?id=39804437) - [State Farm won't renew 72,000 insurance policies in California](https://www.latimes.com/california/story/2024-03-23/state-farm-wont-renew-72-000-insurance-policies-in-california-worsening-the-states-insurance-crisis)
 * [2024-03-24, 01:39:26](https://news.ycombinator.com/item?id=39804422) - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
+* [2024-03-24, 01:13:52](https://news.ycombinator.com/item?id=39804306) - [I Have Deleted Systemd](https://unix.stackexchange.com/questions/772960/i-have-deleted-systemd)
 * [2024-03-24, 01:00:14](https://news.ycombinator.com/item?id=39804248) - [CodeCrafters (YC S22) Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
