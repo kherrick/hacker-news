@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=39807967"
     ],
     [
-      "What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k?",
+      "What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k? (2002)",
       "http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm"
+    ]
+  ],
+  [
+    [
+      "2024-03-24, 15:43:16",
+      "https://news.ycombinator.com/item?id=39807912"
+    ],
+    [
+      "Show HN: Glossarie – a new, immersive way to learn a language",
+      "https://glossarie.app/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Deterministic simulation testing for a word processor",
       "https://www.eno-writer.com/008-deterministic-simulation-testing-for-a-word-processor/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 21:52:29",
-      "https://news.ycombinator.com/item?id=39760671"
-    ],
-    [
-      "I reduced (incremental) Rust compile times by up to 40%",
-      "https://www.coderemote.dev/blog/faster-rust-compiler-macro-expansion-caching/"
     ]
   ],
   [
