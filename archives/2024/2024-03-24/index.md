@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 14:51:12](https://news.ycombinator.com/item?id=39807582) - [How To Choose A Romantic Partner: What psychology tells us](https://www.robkhenderson.com/p/how-to-choose-a-romantic-partner)
 * [2024-03-24, 12:59:49](https://news.ycombinator.com/item?id=39806970) - [New 'Exercise Pill' Could Induce Fitness Benefits Without Exercise](https://www.sciencealert.com/new-exercise-pill-could-induce-fitness-benefits-without-exercise)
 * [2024-03-24, 12:00:08](https://news.ycombinator.com/item?id=39806654) - [Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-03-24, 11:47:07](https://news.ycombinator.com/item?id=39806584) - [Israel Has Formed a Task Force to Carry Out Covert Campaigns at US Universities](https://truthout.org/articles/israel-has-formed-a-task-force-to-carry-out-covert-campaigns-at-us-universities/)

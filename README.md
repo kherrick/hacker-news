@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 14:51:12](https://news.ycombinator.com/item?id=39807582) - [How To Choose A Romantic Partner: What psychology tells us](https://www.robkhenderson.com/p/how-to-choose-a-romantic-partner)
 * [2024-03-24, 12:00:08](https://news.ycombinator.com/item?id=39806654) - [Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
 * [2024-03-24, 08:41:22](https://news.ycombinator.com/item?id=39805846) - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 06:56:58](https://news.ycombinator.com/item?id=39805529) - [D2 Playground](https://play.d2lang.com/)
 * [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-24, 03:41:49](https://news.ycombinator.com/item?id=39805005) - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
-* [2024-03-24, 01:13:52](https://news.ycombinator.com/item?id=39804306) - [I Have Deleted Systemd](https://unix.stackexchange.com/questions/772960/i-have-deleted-systemd)
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 * [2024-03-24, 00:39:38](https://news.ycombinator.com/item?id=39804138) - [Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
