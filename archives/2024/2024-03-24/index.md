@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 22:22:34](https://news.ycombinator.com/item?id=39811043) - [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)
 * [2024-03-24, 21:28:57](https://news.ycombinator.com/item?id=39810692) - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
 * [2024-03-24, 21:01:09](https://news.ycombinator.com/item?id=39810493) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)

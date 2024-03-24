@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 22:22:34](https://news.ycombinator.com/item?id=39811043) - [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)
 * [2024-03-24, 21:28:57](https://news.ycombinator.com/item?id=39810692) - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 * [2024-03-24, 19:00:45](https://news.ycombinator.com/item?id=39809369) - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
@@ -25,7 +26,6 @@
 * [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
-* [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 * [2024-03-23, 20:36:20](https://news.ycombinator.com/item?id=39802934) - [What happens to Google Maps when tectonic plates move? (2020)](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
 * [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
 * [2024-03-22, 23:00:24](https://news.ycombinator.com/item?id=39795740) - [The Enchanting Blossom Explosion of Jacaranda Trees in Mexico City](https://worldsensorium.com/purple-spring-the-enchanting-blossom-explosion-of-jacaranda-trees-in-mexico-city/)
