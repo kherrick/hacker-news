@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 23:46:37](https://news.ycombinator.com/item?id=39803871) - [Safecast Open Radiation and Air Quality Map](https://map.safecast.org/)
 * [2024-03-23, 23:41:29](https://news.ycombinator.com/item?id=39803845) - [Cancer under age 50 increased 80% from 1990 to 2019](https://bmjoncology.bmj.com/content/2/1/e000049#DC1)
 * [2024-03-23, 23:08:56](https://news.ycombinator.com/item?id=39803684) - [Why \"Freakonomics\" failed to transform economics](https://www.economist.com/finance-and-economics/2024/03/21/why-freakonomics-failed-to-transform-economics)
 * [2024-03-23, 22:35:41](https://news.ycombinator.com/item?id=39803516) - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)

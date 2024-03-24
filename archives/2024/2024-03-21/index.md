@@ -71,6 +71,7 @@
 * [2024-03-21, 12:34:43](https://news.ycombinator.com/item?id=39777743) - [US Congress releases $1.1T spending package to avert shutdown](https://www.msn.com/en-us/news/politics/us-congress-releases-1-1-trillion-spending-package-to-avert-shutdown/ar-BB1khCPh)
 * [2024-03-21, 12:33:14](https://news.ycombinator.com/item?id=39777725) - [SUSE Upgrades Its Rancher Kubernetes Management Family](https://thenewstack.io/suse-upgrades-its-rancher-kubernetes-management-family/)
 * [2024-03-21, 12:31:43](https://news.ycombinator.com/item?id=39777712) - [CDC sharply overestimates maternal death rate, new study finds](https://www.eurekalert.org/news-releases/1037372)
+* [2024-03-21, 12:30:15](https://news.ycombinator.com/item?id=39777693) - [Number of known moonquakes tripled with discovery in Apollo archive](https://www.science.org/content/article/number-known-moonquakes-tripled-discovery-apollo-archive)
 * [2024-03-21, 12:28:04](https://news.ycombinator.com/item?id=39777666) - [ExFAT Driver Boasts Much Faster \"Dirsync\" Performance with Linux 6.9](https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync)
 * [2024-03-21, 12:11:43](https://news.ycombinator.com/item?id=39777528) - [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
 * [2024-03-21, 12:00:20](https://news.ycombinator.com/item?id=39777449) - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
