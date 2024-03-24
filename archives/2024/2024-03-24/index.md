@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 22:57:03](https://news.ycombinator.com/item?id=39811287) - [Do Artifacts Have Politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 * [2024-03-24, 22:22:34](https://news.ycombinator.com/item?id=39811043) - [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)
+* [2024-03-24, 22:11:33](https://news.ycombinator.com/item?id=39810979) - ['Quantum tornado' allows scientists to mimic a black hole on Earth](https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero)
 * [2024-03-24, 21:59:02](https://news.ycombinator.com/item?id=39810882) - [Cargo thefts spiked 68% in Q4, led by food and beverage freight](https://www.freightwaves.com/news/cargo-thefts-spiked-68-in-q4-led-by-food-and-beverage-freight)
 * [2024-03-24, 21:28:57](https://news.ycombinator.com/item?id=39810692) - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
 * [2024-03-24, 21:01:09](https://news.ycombinator.com/item?id=39810493) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -15,6 +17,7 @@
 * [2024-03-24, 19:11:28](https://news.ycombinator.com/item?id=39809447) - [Your customers hate MVPs. Make a SLC instead](https://longform.asmartbear.com/slc/)
 * [2024-03-24, 19:00:45](https://news.ycombinator.com/item?id=39809369) - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
 * [2024-03-24, 18:56:56](https://news.ycombinator.com/item?id=39809342) - [Majority of web apps could just run on a single server](https://old.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/)
+* [2024-03-24, 18:54:47](https://news.ycombinator.com/item?id=39809323) - [Gerbil Scheme – A Lisp for the 21st Century](https://cons.io/)
 * [2024-03-24, 18:52:10](https://news.ycombinator.com/item?id=39809294) - [Show HN: Math I'm creating, Space Numbers](https://github.com/abidsikder/space-numbers)
 * [2024-03-24, 18:34:33](https://news.ycombinator.com/item?id=39809177) - [GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
 * [2024-03-24, 18:20:14](https://news.ycombinator.com/item?id=39809065) - [Why are bidets just now getting popular in America?](https://www.cnn.com/2024/03/24/business/bidet-boom-america-toilets/index.html)
