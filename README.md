@@ -3,6 +3,7 @@
 * [2024-03-24, 19:15:56](https://news.ycombinator.com/item?id=39809478) - [The new Windows update made me think I'd installed malware](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/)
 * [2024-03-24, 19:00:45](https://news.ycombinator.com/item?id=39809369) - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
 * [2024-03-24, 18:56:56](https://news.ycombinator.com/item?id=39809342) - [Majority of web apps could just run on a single server](https://old.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/)
+* [2024-03-24, 18:52:10](https://news.ycombinator.com/item?id=39809294) - [Show HN: Math I'm creating, Space Numbers](https://github.com/abidsikder/space-numbers)
 * [2024-03-24, 18:34:33](https://news.ycombinator.com/item?id=39809177) - [GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
 * [2024-03-24, 18:10:02](https://news.ycombinator.com/item?id=39808994) - [If you watched certain YouTube videos, investigators demanded your data](https://mashable.com/article/google-ordered-to-hand-over-viewer-data-privacy-concerns)
 * [2024-03-24, 18:06:59](https://news.ycombinator.com/item?id=39808967) - [Why isn't preprint review being adopted?](https://www.theroadgoeson.com/why-isnt-preprint-review-being-adopted)
@@ -27,7 +28,6 @@
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
 * [2024-03-23, 20:36:20](https://news.ycombinator.com/item?id=39802934) - [What happens to Google Maps when tectonic plates move? (2020)](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
-* [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-22, 23:00:24](https://news.ycombinator.com/item?id=39795740) - [The Enchanting Blossom Explosion of Jacaranda Trees in Mexico City](https://worldsensorium.com/purple-spring-the-enchanting-blossom-explosion-of-jacaranda-trees-in-mexico-city/)
 * [2024-03-22, 16:05:53](https://news.ycombinator.com/item?id=39792034) - [RollerCoaster Tycoon at 25: 'It's mind-blowing how it inspired me'](https://www.theguardian.com/games/2024/mar/22/rollercoaster-tycoon-at-25-its-mind-blowing-how-it-inspired-me)
 
