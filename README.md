@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 01:39:26](https://news.ycombinator.com/item?id=39804422) - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
 * [2024-03-24, 01:00:14](https://news.ycombinator.com/item?id=39804248) - [CodeCrafters (YC S22) Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
@@ -23,7 +24,6 @@
 * [2024-03-23, 14:04:17](https://news.ycombinator.com/item?id=39800016) - [NIST: Personal Identity Verification (PIV) of Federal Employees and Contractors](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3.pdf)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 * [2024-03-23, 13:23:06](https://news.ycombinator.com/item?id=39799752) - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
-* [2024-03-23, 12:12:07](https://news.ycombinator.com/item?id=39799342) - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 * [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 * [2024-03-21, 04:25:15](https://news.ycombinator.com/item?id=39774881) - [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 * [2024-03-20, 12:23:14](https://news.ycombinator.com/item?id=39765453) - [The Virtue of Slow Writers](https://themillions.com/2024/03/the-virtue-of-slow-writers.html)
