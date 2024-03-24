@@ -8,6 +8,7 @@
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 * [2024-03-24, 00:39:38](https://news.ycombinator.com/item?id=39804138) - [Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
 * [2024-03-24, 00:20:40](https://news.ycombinator.com/item?id=39804052) - [Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)
+* [2024-03-24, 00:12:22](https://news.ycombinator.com/item?id=39803999) - [Sheets of Graph Paper Were Used to Design Super Mario Bros](https://www.archdaily.com/783657/the-sheets-of-graph-paper-they-used-to-design-super-mario-bros)
 * [2024-03-23, 23:46:37](https://news.ycombinator.com/item?id=39803871) - [Safecast Open Radiation and Air Quality Map](https://map.safecast.org/)
 * [2024-03-23, 23:01:48](https://news.ycombinator.com/item?id=39803648) - [OpenDevin – open-source implementation of devin](https://github.com/OpenDevin/OpenDevin)
 * [2024-03-23, 22:35:41](https://news.ycombinator.com/item?id=39803516) - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
@@ -28,7 +29,6 @@
 * [2024-03-21, 04:25:15](https://news.ycombinator.com/item?id=39774881) - [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 * [2024-03-20, 12:23:14](https://news.ycombinator.com/item?id=39765453) - [The Virtue of Slow Writers](https://themillions.com/2024/03/the-virtue-of-slow-writers.html)
 * [2024-03-19, 21:31:50](https://news.ycombinator.com/item?id=39760458) - [Swedish composer becomes Spotify's most-famous musician you've never heard of](https://www.theguardian.com/uk-news/2024/mar/19/swedish-composer-johan-rohr-becomes-spotifys-most-famous-musician-youve-never-heard-of)
-* [2024-03-19, 14:56:35](https://news.ycombinator.com/item?id=39756360) - [The Driest Place on Earth](https://astrobiology.nasa.gov/news/the-driest-place-on-earth/)
 * [2024-03-19, 12:13:18](https://news.ycombinator.com/item?id=39754943) - [The Super Mario Maker community faces its final boss](https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/)
 
 ## [Archives](archives/index.md)
