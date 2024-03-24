@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 23:41:29](https://news.ycombinator.com/item?id=39803845) - [Cancer under age 50 increased 80% from 1990 to 2019](https://bmjoncology.bmj.com/content/2/1/e000049#DC1)
+* [2024-03-23, 23:08:56](https://news.ycombinator.com/item?id=39803684) - [Why \"Freakonomics\" failed to transform economics](https://www.economist.com/finance-and-economics/2024/03/21/why-freakonomics-failed-to-transform-economics)
+* [2024-03-23, 22:35:41](https://news.ycombinator.com/item?id=39803516) - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
 * [2024-03-23, 22:24:20](https://news.ycombinator.com/item?id=39803469) - [Most CO2 emissions were in the last 30 years](https://ieep.eu/news/more-than-half-of-all-co2-emissions-since-1751-emitted-in-the-last-30-years/)
 * [2024-03-23, 21:40:27](https://news.ycombinator.com/item?id=39803287) - [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)

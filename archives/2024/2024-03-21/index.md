@@ -13,6 +13,7 @@
 * [2024-03-21, 21:45:46](https://news.ycombinator.com/item?id=39784784) - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [2024-03-21, 21:43:09](https://news.ycombinator.com/item?id=39784756) - [How Taiwan Became Arrakis](https://deepintothemundane.substack.com/p/how-taiwan-became-arrakis)
 * [2024-03-21, 21:38:57](https://news.ycombinator.com/item?id=39784721) - [Gigantic new aircraft design aims to create the largest plane ever to fly](https://www.cnn.com/travel/windrunner-biggest-plane-in-the-world/index.html)
+* [2024-03-21, 21:36:58](https://news.ycombinator.com/item?id=39784707) - [Hidden Rate Limits: How Providers Throttle LLM Throughput During Peak Demand](https://flyflow.dev/blog/hidden-rate-limits-how-providers-throttle-throughput-during-peak-demand)
 * [2024-03-21, 21:31:47](https://news.ycombinator.com/item?id=39784656) - [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
 * [2024-03-21, 21:05:39](https://news.ycombinator.com/item?id=39784395) - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
 * [2024-03-21, 21:02:08](https://news.ycombinator.com/item?id=39784355) - [Meteorite Self-test check-list](https://sites.wustl.edu/meteoritesite/items/meteorite-fusion-crust/)
