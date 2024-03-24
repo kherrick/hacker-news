@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 12:00:08](https://news.ycombinator.com/item?id=39806654) - [Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-03-24, 11:11:06](https://news.ycombinator.com/item?id=39806424) - [The Matrix](https://en.wikipedia.org/wiki/The_Matrix)
+* [2024-03-24, 11:07:16](https://news.ycombinator.com/item?id=39806406) - [LLM pricing comparison tool – [free]](https://www.botgenuity.com/tools/llm-pricing)
 * [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [Tinyssh](https://tinyssh.org/)
 * [2024-03-24, 09:59:37](https://news.ycombinator.com/item?id=39806119) - [Playground bullies do prosper – and go on to earn more in middle age](https://www.theguardian.com/society/2024/mar/24/playground-bullies-do-prosper-and-go-on-to-earn-more-in-middle-age)
 * [2024-03-24, 08:41:22](https://news.ycombinator.com/item?id=39805846) - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
