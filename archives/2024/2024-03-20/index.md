@@ -81,6 +81,7 @@
 * [2024-03-20, 11:49:15](https://news.ycombinator.com/item?id=39765178) - [Firefox 124 improved on Android and Macs plus adds keyboard navigation of PDFs](https://www.theregister.com/2024/03/19/firefox_124/)
 * [2024-03-20, 11:46:10](https://news.ycombinator.com/item?id=39765159) - [Design Is an Island – By Kent Beck](https://tidyfirst.substack.com/p/design-is-an-island)
 * [2024-03-20, 11:38:51](https://news.ycombinator.com/item?id=39765109) - [A Surprising Advantage of Vinyl (2011)](https://blog.andymatuschak.org/post/6778945711/a-surprising-advantage-of-vinyl)
+* [2024-03-20, 11:36:02](https://news.ycombinator.com/item?id=39765082) - [Unending bubble wrap: a pointless activity to spend a few satisfying minutes](https://brainteaser.top/bubblespop.html)
 * [2024-03-20, 11:26:44](https://news.ycombinator.com/item?id=39765028) - [Trusting Content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
 * [2024-03-20, 11:23:00](https://news.ycombinator.com/item?id=39765003) - [Android malware, Android malware and more Android malware](https://securelist.com/crimeware-report-android-malware/112121/)
 * [2024-03-20, 11:20:26](https://news.ycombinator.com/item?id=39764992) - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)

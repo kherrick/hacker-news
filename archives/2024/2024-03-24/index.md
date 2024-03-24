@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
 * [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [Tinyssh](https://tinyssh.org/)
+* [2024-03-24, 09:59:37](https://news.ycombinator.com/item?id=39806119) - [Playground bullies do prosper – and go on to earn more in middle age](https://www.theguardian.com/society/2024/mar/24/playground-bullies-do-prosper-and-go-on-to-earn-more-in-middle-age)
 * [2024-03-24, 08:41:22](https://news.ycombinator.com/item?id=39805846) - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 08:33:23](https://news.ycombinator.com/item?id=39805834) - [Dead Man's Switch](https://www.deadmansswitch.net/)
 * [2024-03-24, 07:45:45](https://news.ycombinator.com/item?id=39805683) - [Unplug Your Laptop Now, or It Will Stay Plugged in Forever](https://gizmodo.com/unplug-your-laptop-now-it-will-stay-plugged-in-forever-1851320725)
