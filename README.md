@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-24, 19:52:23](https://news.ycombinator.com/item?id=39809861) - [Gemini on the iPhone would be AI's mainstream moment](https://www.cnet.com/tech/mobile/google-gemini-on-the-iphone-would-be-ais-mainstream-moment/)
+* [2024-03-24, 21:28:57](https://news.ycombinator.com/item?id=39810692) - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
+* [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 * [2024-03-24, 19:00:45](https://news.ycombinator.com/item?id=39809369) - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
-* [2024-03-24, 18:34:33](https://news.ycombinator.com/item?id=39809177) - [GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
 * [2024-03-24, 18:06:59](https://news.ycombinator.com/item?id=39808967) - [Why isn't preprint review being adopted?](https://www.theroadgoeson.com/why-isnt-preprint-review-being-adopted)
 * [2024-03-24, 18:00:40](https://news.ycombinator.com/item?id=39808921) - [Aegis v3.0 – a free, secure and open source 2FA app for Android](https://github.com/beemdevelopment/Aegis/releases/tag/v3.0)
 * [2024-03-24, 17:27:47](https://news.ycombinator.com/item?id=39808664) - [China blocks use of Intel and AMD chips in government computers: Report](https://www.channelnewsasia.com/business/china-blocks-use-intel-and-amd-chips-government-computers-report-4218101)
