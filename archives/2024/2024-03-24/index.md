@@ -10,6 +10,7 @@
 * [2024-03-24, 15:57:45](https://news.ycombinator.com/item?id=39807998) - [Do ten times as much (2023)](https://www.betonit.ai/p/do-ten-times-as-much)
 * [2024-03-24, 15:54:56](https://news.ycombinator.com/item?id=39807980) - [American Military-Civil fusion at risk with the loss off the Shift fellowship](https://warontherocks.com/2024/03/american-military-civil-fusion-at-risk-with-the-loss-of-the-shift-fellowship/)
 * [2024-03-24, 15:52:06](https://news.ycombinator.com/item?id=39807967) - [What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k?](http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm)
+* [2024-03-24, 15:43:29](https://news.ycombinator.com/item?id=39807914) - [Be more lucky](https://newsletter.pnote.eu/p/be-more-lucky)
 * [2024-03-24, 15:43:16](https://news.ycombinator.com/item?id=39807912) - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
 * [2024-03-24, 15:30:22](https://news.ycombinator.com/item?id=39807842) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
 * [2024-03-24, 15:23:35](https://news.ycombinator.com/item?id=39807795) - [What Is Green Software and Why Do We Need It?](https://spectrum.ieee.org/green-software)
