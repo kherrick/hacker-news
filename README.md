@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 08:41:22](https://news.ycombinator.com/item?id=39805846) - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 08:33:23](https://news.ycombinator.com/item?id=39805834) - [Dead Man's Switch](https://www.deadmansswitch.net/)
 * [2024-03-24, 07:03:37](https://news.ycombinator.com/item?id=39805548) - [Fans quitting Spotify to save their love of music (2022)](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
 * [2024-03-24, 06:50:56](https://news.ycombinator.com/item?id=39805515) - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
@@ -9,7 +10,6 @@
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 * [2024-03-24, 00:39:38](https://news.ycombinator.com/item?id=39804138) - [Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
-* [2024-03-24, 00:12:22](https://news.ycombinator.com/item?id=39803999) - [Sheets of Graph Paper Were Used to Design Super Mario Bros](https://www.archdaily.com/783657/the-sheets-of-graph-paper-they-used-to-design-super-mario-bros)
 * [2024-03-23, 23:46:37](https://news.ycombinator.com/item?id=39803871) - [Safecast Open Radiation and Air Quality Map](https://map.safecast.org/)
 * [2024-03-23, 23:01:48](https://news.ycombinator.com/item?id=39803648) - [OpenDevin – open-source implementation of devin](https://github.com/OpenDevin/OpenDevin)
 * [2024-03-23, 22:35:41](https://news.ycombinator.com/item?id=39803516) - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
