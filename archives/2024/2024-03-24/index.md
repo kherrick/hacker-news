@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 17:00:29](https://news.ycombinator.com/item?id=39808425) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39808425)
+* [2024-03-24, 16:26:39](https://news.ycombinator.com/item?id=39808171) - [Ten years of selling web data: a personal perspective](https://substack.thewebscraping.club/p/selling-web-scraped-data)
 * [2024-03-24, 16:12:26](https://news.ycombinator.com/item?id=39808069) - [Programmers are bad at managing state (2020)](https://nolanlawson.com/2020/12/29/programmers-are-bad-at-managing-state/)
 * [2024-03-24, 15:57:45](https://news.ycombinator.com/item?id=39807998) - [Do ten times as much (2023)](https://www.betonit.ai/p/do-ten-times-as-much)
 * [2024-03-24, 15:54:56](https://news.ycombinator.com/item?id=39807980) - [American Military-Civil fusion at risk with the loss off the Shift fellowship](https://warontherocks.com/2024/03/american-military-civil-fusion-at-risk-with-the-loss-of-the-shift-fellowship/)
@@ -11,6 +13,8 @@
 * [2024-03-24, 15:43:16](https://news.ycombinator.com/item?id=39807912) - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
 * [2024-03-24, 15:30:22](https://news.ycombinator.com/item?id=39807842) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
 * [2024-03-24, 15:23:35](https://news.ycombinator.com/item?id=39807795) - [What Is Green Software and Why Do We Need It?](https://spectrum.ieee.org/green-software)
+* [2024-03-24, 15:19:27](https://news.ycombinator.com/item?id=39807759) - ['Super memory': Why Emily Nash is sharing her brain with science](https://www.ctvnews.ca/w5/why-18-year-old-canadian-emily-nash-is-sharing-her-unique-brain-with-science-1.6818765)
+* [2024-03-24, 15:15:23](https://news.ycombinator.com/item?id=39807735) - [How ML Model Data Poisoning Works in 5 Minutes](https://journal.hexmos.com/training-data-poisoning/?src=hn)
 * [2024-03-24, 15:02:02](https://news.ycombinator.com/item?id=39807655) - [Type-Safe Printf() in TypeScript](https://www.typescriptlang.org/play?#code/C4TwDgpgBAypDGUC8UDkATVUA+aDOqA3AFCiSwIAq4EAPDFBAB7AQB26eFE8AfMrEYt2nNJigB+KGwCuAWwBGEAE5QAXIOasOXVAUlQ8wZQEs2Ac3XSIANxUlSNKAAVTbYADMAgsvN5aAGJywPxIxFARUEHAQtqiAAYApAAkAN5mHiqawjrc8AC+aRlZAEoQRvnxBgDacDzUkPS8ADRQAHQdrmaePn60ZUa8ALrq4ZHRsSJc8UVsmaoA+vkp6XNZDFpTeYWr81ADwJU1dfANdDAt7Z1uPb7+B8OjkVDVQw4eMmzwwCYA9mxQMA3DyBYKTXJGNzmXgACg8wQ00VaHTaAEM7houu5vHdQSEAJRQVJjCLwf54X4AGwgbUpv3MMPiZXgEBMdnQUHhMUhZnMGgARGkufl+VBURwxRioGl0X5KviSPliMQAPQqqAASWAeigZGgeFRmQAhMQgd0PDD+QAJCCUumtRJ4NpQRIcgDULo5KFdbX5rX5AHVfspKeg-VAAKytAAsrQAnAqgA)
 * [2024-03-24, 14:51:12](https://news.ycombinator.com/item?id=39807582) - [How To Choose A Romantic Partner: What psychology tells us](https://www.robkhenderson.com/p/how-to-choose-a-romantic-partner)
 * [2024-03-24, 14:24:54](https://news.ycombinator.com/item?id=39807417) - [Antimatter Propulsion [pdf]](https://ntrs.nasa.gov/api/citations/20200001904/downloads/20200001904.pdf)
