@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-24, 12:00:08](https://news.ycombinator.com/item?id=39806654) - [Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
-* [2024-03-24, 11:47:07](https://news.ycombinator.com/item?id=39806584) - [Israel Has Formed a Task Force to Carry Out Covert Campaigns at US Universities](https://truthout.org/articles/israel-has-formed-a-task-force-to-carry-out-covert-campaigns-at-us-universities/)
 * [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [Tinyssh](https://tinyssh.org/)
 * [2024-03-24, 08:41:22](https://news.ycombinator.com/item?id=39805846) - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Why don't humans have tails?](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
@@ -14,6 +13,7 @@
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-23, 22:35:41](https://news.ycombinator.com/item?id=39803516) - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
+* [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 * [2024-03-23, 20:36:20](https://news.ycombinator.com/item?id=39802934) - [What happens to Google Maps when tectonic plates move? (2020)](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-23, 18:21:21](https://news.ycombinator.com/item?id=39801991) - [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
