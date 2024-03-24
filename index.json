@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-24, 21:59:02",
-      "https://news.ycombinator.com/item?id=39810882"
+      "2024-03-24, 22:57:03",
+      "https://news.ycombinator.com/item?id=39811287"
     ],
     [
-      "Cargo thefts spiked 68% in Q4, led by food and beverage freight",
-      "https://www.freightwaves.com/news/cargo-thefts-spiked-68-in-q4-led-by-food-and-beverage-freight"
+      "Do Artifacts Have Politics? [pdf]",
+      "https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-03-24, 22:11:33",
+      "https://news.ycombinator.com/item?id=39810979"
+    ],
+    [
+      "'Quantum tornado' allows scientists to mimic a black hole on Earth",
+      "https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Scientists traced a mysterious Covid case back to six toilets",
       "https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/"
+    ]
+  ],
+  [
+    [
+      "2024-03-24, 18:54:47",
+      "https://news.ycombinator.com/item?id=39809323"
+    ],
+    [
+      "Gerbil Scheme – A Lisp for the 21st Century",
+      "https://cons.io/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-03-23, 21:23:34",
-      "https://news.ycombinator.com/item?id=39803174"
-    ],
-    [
-      "Marimo: Interactive Fluffy Ball",
-      "https://oimo.io/works/marimo/"
-    ]
-  ],
-  [
-    [
       "2024-03-23, 20:36:20",
       "https://news.ycombinator.com/item?id=39802934"
     ],
@@ -267,16 +277,6 @@
     [
       "Doubts grow about the biosignature approach to alien-hunting",
       "https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/"
-    ]
-  ],
-  [
-    [
-      "2024-03-23, 07:20:13",
-      "https://news.ycombinator.com/item?id=39798115"
-    ],
-    [
-      "SQLite Schema Diagram Generator",
-      "https://gitlab.com/Screwtapello/sqlite-schema-diagram"
     ]
   ],
   [
