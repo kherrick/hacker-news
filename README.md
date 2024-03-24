@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 07:03:37](https://news.ycombinator.com/item?id=39805548) - [Fans quitting Spotify to save their love of music (2022)](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
 * [2024-03-24, 06:50:56](https://news.ycombinator.com/item?id=39805515) - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
-* [2024-03-24, 06:32:16](https://news.ycombinator.com/item?id=39805459) - [The Biggest Crisis Is the End of Scarcity](https://foreignpolicy.com/2024/03/16/end-of-scarcity-crisis-growth-war/)
+* [2024-03-24, 06:32:16](https://news.ycombinator.com/item?id=39805459) - [The biggest crisis is the end of scarcity](https://foreignpolicy.com/2024/03/16/end-of-scarcity-crisis-growth-war/)
 * [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-24, 03:41:49](https://news.ycombinator.com/item?id=39805005) - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
 * [2024-03-24, 01:39:26](https://news.ycombinator.com/item?id=39804422) - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz (2023)](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
@@ -9,7 +10,6 @@
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 * [2024-03-24, 00:39:38](https://news.ycombinator.com/item?id=39804138) - [Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
-* [2024-03-24, 00:20:40](https://news.ycombinator.com/item?id=39804052) - [Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)
 * [2024-03-24, 00:12:22](https://news.ycombinator.com/item?id=39803999) - [Sheets of Graph Paper Were Used to Design Super Mario Bros](https://www.archdaily.com/783657/the-sheets-of-graph-paper-they-used-to-design-super-mario-bros)
 * [2024-03-23, 23:46:37](https://news.ycombinator.com/item?id=39803871) - [Safecast Open Radiation and Air Quality Map](https://map.safecast.org/)
 * [2024-03-23, 23:01:48](https://news.ycombinator.com/item?id=39803648) - [OpenDevin – open-source implementation of devin](https://github.com/OpenDevin/OpenDevin)
