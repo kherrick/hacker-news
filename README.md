@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 08:33:23](https://news.ycombinator.com/item?id=39805834) - [Dead Man's Switch](https://www.deadmansswitch.net/)
 * [2024-03-24, 07:03:37](https://news.ycombinator.com/item?id=39805548) - [Fans quitting Spotify to save their love of music (2022)](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
 * [2024-03-24, 06:50:56](https://news.ycombinator.com/item?id=39805515) - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
 * [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-24, 03:41:49](https://news.ycombinator.com/item?id=39805005) - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
-* [2024-03-24, 01:39:26](https://news.ycombinator.com/item?id=39804422) - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz (2023)](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
 * [2024-03-24, 01:00:14](https://news.ycombinator.com/item?id=39804248) - [CodeCrafters (YC S22) Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
