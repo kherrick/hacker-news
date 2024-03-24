@@ -14,6 +14,7 @@
 * [2024-03-19, 23:09:01](https://news.ycombinator.com/item?id=39761265) - [MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data](https://arxiv.org/abs/2403.11207)
 * [2024-03-19, 22:56:40](https://news.ycombinator.com/item?id=39761179) - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
 * [2024-03-19, 22:30:08](https://news.ycombinator.com/item?id=39760980) - [Summarized Top YouTube Videos of A16Z](https://gosummarize.com/channel/a16z)
+* [2024-03-19, 22:24:55](https://news.ycombinator.com/item?id=39760936) - [Deterministic simulation testing for a word processor](https://www.eno-writer.com/008-deterministic-simulation-testing-for-a-word-processor/)
 * [2024-03-19, 22:07:51](https://news.ycombinator.com/item?id=39760797) - [A new kind of MD5 collision](https://twitter.com/realhashbreaker/status/1770161965006008570)
 * [2024-03-19, 21:58:14](https://news.ycombinator.com/item?id=39760726) - [Hacked – Installed a global KDE Plasma theme – it erased all my drives](https://old.reddit.com/r/openSUSE/comments/1biunsl/hacked_installed_a_global_theme_it_erased_all_my/)
 * [2024-03-19, 21:35:08](https://news.ycombinator.com/item?id=39760496) - [Generic and Automated Drive-By GPU Cache Attacks from the Browser [pdf]](https://ginerlukas.com/publications/papers/WebGPUAttacks.pdf)
