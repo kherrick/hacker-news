@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 15:30:22](https://news.ycombinator.com/item?id=39807842) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
 * [2024-03-24, 14:51:12](https://news.ycombinator.com/item?id=39807582) - [How To Choose A Romantic Partner: What psychology tells us](https://www.robkhenderson.com/p/how-to-choose-a-romantic-partner)
 * [2024-03-24, 14:24:54](https://news.ycombinator.com/item?id=39807417) - [Antimatter Propulsion [pdf]](https://ntrs.nasa.gov/api/citations/20200001904/downloads/20200001904.pdf)
 * [2024-03-24, 12:59:49](https://news.ycombinator.com/item?id=39806970) - [New 'Exercise Pill' Could Induce Fitness Benefits Without Exercise](https://www.sciencealert.com/new-exercise-pill-could-induce-fitness-benefits-without-exercise)
@@ -34,6 +35,7 @@
 * [2024-03-24, 01:59:36](https://news.ycombinator.com/item?id=39804529) - [Cable ISP Fined $10k for Lying to FCC About Where It Offers Broadband](https://ordonews.com/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
 * [2024-03-24, 01:41:33](https://news.ycombinator.com/item?id=39804437) - [State Farm won't renew 72,000 insurance policies in California](https://www.latimes.com/california/story/2024-03-23/state-farm-wont-renew-72-000-insurance-policies-in-california-worsening-the-states-insurance-crisis)
 * [2024-03-24, 01:39:26](https://news.ycombinator.com/item?id=39804422) - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
+* [2024-03-24, 01:20:28](https://news.ycombinator.com/item?id=39804337) - [Show HN: Jumprun – AI-powered research as interactive canvases](https://jumprun.ai/)
 * [2024-03-24, 01:13:52](https://news.ycombinator.com/item?id=39804306) - [I Have Deleted Systemd](https://unix.stackexchange.com/questions/772960/i-have-deleted-systemd)
 * [2024-03-24, 01:00:14](https://news.ycombinator.com/item?id=39804248) - [CodeCrafters (YC S22) Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
