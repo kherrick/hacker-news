@@ -2,7 +2,7 @@
 
 * [2024-03-24, 06:50:56](https://news.ycombinator.com/item?id=39805515) - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
 * [2024-03-24, 06:32:16](https://news.ycombinator.com/item?id=39805459) - [The Biggest Crisis Is the End of Scarcity](https://foreignpolicy.com/2024/03/16/end-of-scarcity-crisis-growth-war/)
-* [2024-03-24, 06:00:05](https://news.ycombinator.com/item?id=39805386) - [Startup Founder Wants to Sell Cocaine](https://www.thedailybeast.com/safe-supply-founder-bill-panagiotakopoulos-wants-to-sell-cocaine)
+* [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-24, 03:41:49](https://news.ycombinator.com/item?id=39805005) - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
 * [2024-03-24, 01:39:26](https://news.ycombinator.com/item?id=39804422) - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz (2023)](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
 * [2024-03-24, 01:00:14](https://news.ycombinator.com/item?id=39804248) - [CodeCrafters (YC S22) Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)

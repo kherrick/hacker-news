@@ -7,6 +7,7 @@
 * [2024-03-24, 06:50:56](https://news.ycombinator.com/item?id=39805515) - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
 * [2024-03-24, 06:32:16](https://news.ycombinator.com/item?id=39805459) - [The Biggest Crisis Is the End of Scarcity](https://foreignpolicy.com/2024/03/16/end-of-scarcity-crisis-growth-war/)
 * [2024-03-24, 06:00:05](https://news.ycombinator.com/item?id=39805386) - [Startup Founder Wants to Sell Cocaine](https://www.thedailybeast.com/safe-supply-founder-bill-panagiotakopoulos-wants-to-sell-cocaine)
+* [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-24, 03:41:49](https://news.ycombinator.com/item?id=39805005) - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
 * [2024-03-24, 03:37:59](https://news.ycombinator.com/item?id=39804988) - [Large Grocers Took Advantage of Pandemic Supply Chain Disruptions, FTC Finds](https://www.nytimes.com/2024/03/21/us/politics/grocery-prices-pandemic-ftc.html)
 * [2024-03-24, 02:06:07](https://news.ycombinator.com/item?id=39804560) - [Cloudflare and Hetzner threatens to takedown Fediverse instance because of yuri](https://bsky.app/profile/makai.chaotic.ninja/post/3kofrm3pcvc2p)
