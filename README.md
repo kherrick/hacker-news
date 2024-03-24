@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 11:11:06](https://news.ycombinator.com/item?id=39806424) - [The Matrix](https://en.wikipedia.org/wiki/The_Matrix)
 * [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [Tinyssh](https://tinyssh.org/)
 * [2024-03-24, 08:41:22](https://news.ycombinator.com/item?id=39805846) - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 08:33:23](https://news.ycombinator.com/item?id=39805834) - [Dead Man's Switch](https://www.deadmansswitch.net/)
-* [2024-03-24, 07:03:37](https://news.ycombinator.com/item?id=39805548) - [Fans quitting Spotify to save their love of music (2022)](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
-* [2024-03-24, 06:50:56](https://news.ycombinator.com/item?id=39805515) - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Why don't humans have tails?](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
 * [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-24, 03:41:49](https://news.ycombinator.com/item?id=39805005) - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
@@ -28,6 +27,7 @@
 * [2024-03-20, 11:38:51](https://news.ycombinator.com/item?id=39765109) - [A Surprising Advantage of Vinyl (2011)](https://blog.andymatuschak.org/post/6778945711/a-surprising-advantage-of-vinyl)
 * [2024-03-20, 11:36:02](https://news.ycombinator.com/item?id=39765082) - [Unending bubble wrap: a pointless activity to spend a few satisfying minutes](https://brainteaser.top/bubblespop.html)
 * [2024-03-20, 01:04:56](https://news.ycombinator.com/item?id=39761972) - [X-Ray Inspection in the Semiconductor Industry](https://semiengineering.com/x-ray-inspection-in-the-semiconductor-industry/)
+* [2024-03-19, 21:31:50](https://news.ycombinator.com/item?id=39760458) - [Swedish composer becomes Spotify's most-famous musician you've never heard of](https://www.theguardian.com/uk-news/2024/mar/19/swedish-composer-johan-rohr-becomes-spotifys-most-famous-musician-youve-never-heard-of)
 * [2024-03-19, 18:19:32](https://news.ycombinator.com/item?id=39758712) - [Fault tolerance and resilience patterns for Go](https://github.com/failsafe-go/failsafe-go)
 * [2024-03-19, 12:13:18](https://news.ycombinator.com/item?id=39754943) - [The Super Mario Maker community faces its final boss](https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/)
 
