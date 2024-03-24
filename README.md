@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-24, 07:45:45](https://news.ycombinator.com/item?id=39805683) - [Unplug Your Laptop Now, or It Will Stay Plugged in Forever](https://gizmodo.com/unplug-your-laptop-now-it-will-stay-plugged-in-forever-1851320725)
 * [2024-03-24, 07:03:37](https://news.ycombinator.com/item?id=39805548) - [Fans quitting Spotify to save their love of music (2022)](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
 * [2024-03-24, 06:50:56](https://news.ycombinator.com/item?id=39805515) - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
 * [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
@@ -15,6 +14,7 @@
 * [2024-03-23, 23:01:48](https://news.ycombinator.com/item?id=39803648) - [OpenDevin – open-source implementation of devin](https://github.com/OpenDevin/OpenDevin)
 * [2024-03-23, 22:35:41](https://news.ycombinator.com/item?id=39803516) - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
+* [2024-03-23, 21:40:27](https://news.ycombinator.com/item?id=39803287) - [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
 * [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 * [2024-03-23, 20:36:20](https://news.ycombinator.com/item?id=39802934) - [What Happens to Google Maps When Tectonic Plates Move?](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
 * [2024-03-23, 20:13:43](https://news.ycombinator.com/item?id=39802783) - [Interval Parsing Grammars for File Format Parsing (2023) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3591264)
