@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 19:15:56](https://news.ycombinator.com/item?id=39809478) - [The new Windows update made me think I'd installed malware](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/)
+* [2024-03-24, 19:11:28](https://news.ycombinator.com/item?id=39809447) - [Your customers hate MVPs. Make a SLC instead](https://longform.asmartbear.com/slc/)
+* [2024-03-24, 18:56:56](https://news.ycombinator.com/item?id=39809342) - [Majority of web apps could just run on a single server](https://old.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/)
 * [2024-03-24, 18:34:33](https://news.ycombinator.com/item?id=39809177) - [GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
 * [2024-03-24, 18:20:14](https://news.ycombinator.com/item?id=39809065) - [Why are bidets just now getting popular in America?](https://www.cnn.com/2024/03/24/business/bidet-boom-america-toilets/index.html)
 * [2024-03-24, 18:19:57](https://news.ycombinator.com/item?id=39809061) - [Ask HN: How common is developer burnout? Have you ever been burnt out?](https://news.ycombinator.com/item?id=39809061)
