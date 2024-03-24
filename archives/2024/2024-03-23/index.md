@@ -34,6 +34,7 @@
 * [2024-03-23, 17:00:05](https://news.ycombinator.com/item?id=39801340) - [Unify (YC W23) Is Hiring](https://apply.unify.ai/)
 * [2024-03-23, 16:54:21](https://news.ycombinator.com/item?id=39801289) - [Fresno School Tracks Students' Bathroom Breaks with Countdown App](https://www.thedailybeast.com/fresno-school-tracks-students-bathroom-breaks-with-countdown-app)
 * [2024-03-23, 16:51:59](https://news.ycombinator.com/item?id=39801273) - [Efinix Titanium Ti375 FPGA offers quad-core hardened RISC-V, PCIe Gen 4, 10GbE](https://www.cnx-software.com/2024/03/22/efinix-titanium-ti375-fpga-quad-core-hardened-risc-v-block-pcie-gen-4-10gbe/)
+* [2024-03-23, 16:46:23](https://news.ycombinator.com/item?id=39801234) - [CUDA Is Still a Giant Moat for Nvidia](https://weightythoughts.com/p/cuda-is-still-a-giant-moat-for-nvidia)
 * [2024-03-23, 16:42:05](https://news.ycombinator.com/item?id=39801204) - [The bar keeps being lowered and the goal post keeps moving](http://www.circuitbored.com/communicate/viewtopic.php?p=241#p241)
 * [2024-03-23, 16:33:48](https://news.ycombinator.com/item?id=39801120) - [Meet the AI-Censored? Naked Capitalism](https://www.racket.news/p/meet-the-ai-censored-naked-capitalism)
 * [2024-03-23, 16:30:07](https://news.ycombinator.com/item?id=39801088) - [A Return to Blu-ray as Streaming Value Evaporates](https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates)
