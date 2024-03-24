@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 17:09:04](https://news.ycombinator.com/item?id=39808497) - [Only Walking for Exercise?](https://theconversation.com/only-walking-for-exercise-heres-how-to-get-the-most-out-of-it-224159)
 * [2024-03-24, 17:00:29](https://news.ycombinator.com/item?id=39808425) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39808425)
 * [2024-03-24, 16:26:39](https://news.ycombinator.com/item?id=39808171) - [Ten years of selling web data: a personal perspective](https://substack.thewebscraping.club/p/selling-web-scraped-data)
 * [2024-03-24, 16:12:26](https://news.ycombinator.com/item?id=39808069) - [Programmers are bad at managing state (2020)](https://nolanlawson.com/2020/12/29/programmers-are-bad-at-managing-state/)
