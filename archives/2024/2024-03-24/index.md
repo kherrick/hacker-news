@@ -14,6 +14,7 @@
 * [2024-03-24, 12:16:46](https://news.ycombinator.com/item?id=39806746) - [ARM64EC (and ARM64X) Explained](http://www.emulators.com/docs/abc_arm64ec_explained.htm)
 * [2024-03-24, 12:00:08](https://news.ycombinator.com/item?id=39806654) - [Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-03-24, 11:53:24](https://news.ycombinator.com/item?id=39806619) - [Filling Nuclear Power's $5T Hole Is Beyond the Banks](https://www.bloomberg.com/news/articles/2024-03-22/filling-nuclear-power-s-5-trillion-hole-is-beyond-the-banks)
+* [2024-03-24, 11:53:22](https://news.ycombinator.com/item?id=39806618) - [Build time is a collective responsibility](https://yoyo-code.com/build-time-is-collective-responsibility/)
 * [2024-03-24, 11:47:07](https://news.ycombinator.com/item?id=39806584) - [Israel Has Formed a Task Force to Carry Out Covert Campaigns at US Universities](https://truthout.org/articles/israel-has-formed-a-task-force-to-carry-out-covert-campaigns-at-us-universities/)
 * [2024-03-24, 11:31:28](https://news.ycombinator.com/item?id=39806509) - [Ask HN: What is your approach for managing personal digital assets?](https://news.ycombinator.com/item?id=39806509)
 * [2024-03-24, 11:11:06](https://news.ycombinator.com/item?id=39806424) - [The Matrix](https://en.wikipedia.org/wiki/The_Matrix)
