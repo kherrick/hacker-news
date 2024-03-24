@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 16:12:26](https://news.ycombinator.com/item?id=39808069) - [Programmers are bad at managing state (2020)](https://nolanlawson.com/2020/12/29/programmers-are-bad-at-managing-state/)
+* [2024-03-24, 15:52:06](https://news.ycombinator.com/item?id=39807967) - [What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k?](http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm)
 * [2024-03-24, 15:30:22](https://news.ycombinator.com/item?id=39807842) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
 * [2024-03-24, 15:02:02](https://news.ycombinator.com/item?id=39807655) - [Type-Safe Printf() in TypeScript](https://www.typescriptlang.org/play?#code/C4TwDgpgBAypDGUC8UDkATVUA+aDOqA3AFCiSwIAq4EAPDFBAB7AQB26eFE8AfMrEYt2nNJigB+KGwCuAWwBGEAE5QAXIOasOXVAUlQ8wZQEs2Ac3XSIANxUlSNKAAVTbYADMAgsvN5aAGJywPxIxFARUEHAQtqiAAYApAAkAN5mHiqawjrc8AC+aRlZAEoQRvnxBgDacDzUkPS8ADRQAHQdrmaePn60ZUa8ALrq4ZHRsSJc8UVsmaoA+vkp6XNZDFpTeYWr81ADwJU1dfANdDAt7Z1uPb7+B8OjkVDVQw4eMmzwwCYA9mxQMA3DyBYKTXJGNzmXgACg8wQ00VaHTaAEM7houu5vHdQSEAJRQVJjCLwf54X4AGwgbUpv3MMPiZXgEBMdnQUHhMUhZnMGgARGkufl+VBURwxRioGl0X5KviSPliMQAPQqqAASWAeigZGgeFRmQAhMQgd0PDD+QAJCCUumtRJ4NpQRIcgDULo5KFdbX5rX5AHVfspKeg-VAAKytAAsrQAnAqgA)
 * [2024-03-24, 14:24:54](https://news.ycombinator.com/item?id=39807417) - [Antimatter Propulsion [pdf]](https://ntrs.nasa.gov/api/citations/20200001904/downloads/20200001904.pdf)
@@ -19,8 +21,6 @@
 * [2024-03-23, 18:41:08](https://news.ycombinator.com/item?id=39802157) - [The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 * [2024-03-23, 18:17:52](https://news.ycombinator.com/item?id=39801963) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-23, 13:24:02](https://news.ycombinator.com/item?id=39799755) - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
-* [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
-* [2024-03-21, 04:25:15](https://news.ycombinator.com/item?id=39774881) - [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 * [2024-03-20, 22:02:43](https://news.ycombinator.com/item?id=39772533) - [Sequential and parallel execution of long-running shell commands](https://github.com/Nukesor/pueue)
 * [2024-03-20, 11:38:51](https://news.ycombinator.com/item?id=39765109) - [A Surprising Advantage of Vinyl (2011)](https://blog.andymatuschak.org/post/6778945711/a-surprising-advantage-of-vinyl)
 * [2024-03-20, 11:36:02](https://news.ycombinator.com/item?id=39765082) - [Unending bubble wrap: a pointless activity to spend a few satisfying minutes](https://brainteaser.top/bubblespop.html)

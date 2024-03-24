@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 16:12:26](https://news.ycombinator.com/item?id=39808069) - [Programmers are bad at managing state (2020)](https://nolanlawson.com/2020/12/29/programmers-are-bad-at-managing-state/)
+* [2024-03-24, 15:52:06](https://news.ycombinator.com/item?id=39807967) - [What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k?](http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm)
 * [2024-03-24, 15:30:22](https://news.ycombinator.com/item?id=39807842) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
 * [2024-03-24, 15:02:02](https://news.ycombinator.com/item?id=39807655) - [Type-Safe Printf() in TypeScript](https://www.typescriptlang.org/play?#code/C4TwDgpgBAypDGUC8UDkATVUA+aDOqA3AFCiSwIAq4EAPDFBAB7AQB26eFE8AfMrEYt2nNJigB+KGwCuAWwBGEAE5QAXIOasOXVAUlQ8wZQEs2Ac3XSIANxUlSNKAAVTbYADMAgsvN5aAGJywPxIxFARUEHAQtqiAAYApAAkAN5mHiqawjrc8AC+aRlZAEoQRvnxBgDacDzUkPS8ADRQAHQdrmaePn60ZUa8ALrq4ZHRsSJc8UVsmaoA+vkp6XNZDFpTeYWr81ADwJU1dfANdDAt7Z1uPb7+B8OjkVDVQw4eMmzwwCYA9mxQMA3DyBYKTXJGNzmXgACg8wQ00VaHTaAEM7houu5vHdQSEAJRQVJjCLwf54X4AGwgbUpv3MMPiZXgEBMdnQUHhMUhZnMGgARGkufl+VBURwxRioGl0X5KviSPliMQAPQqqAASWAeigZGgeFRmQAhMQgd0PDD+QAJCCUumtRJ4NpQRIcgDULo5KFdbX5rX5AHVfspKeg-VAAKytAAsrQAnAqgA)
 * [2024-03-24, 14:51:12](https://news.ycombinator.com/item?id=39807582) - [How To Choose A Romantic Partner: What psychology tells us](https://www.robkhenderson.com/p/how-to-choose-a-romantic-partner)
