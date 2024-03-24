@@ -131,6 +131,7 @@
 * [2024-03-20, 01:35:00](https://news.ycombinator.com/item?id=39762128) - [Show HN: Iteratively Building Virtual Creatures](https://github.com/cfusting/conditional-growth)
 * [2024-03-20, 01:11:15](https://news.ycombinator.com/item?id=39762006) - [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
 * [2024-03-20, 01:07:53](https://news.ycombinator.com/item?id=39761990) - [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
+* [2024-03-20, 01:04:56](https://news.ycombinator.com/item?id=39761972) - [X-Ray Inspection in the Semiconductor Industry](https://semiengineering.com/x-ray-inspection-in-the-semiconductor-industry/)
 * [2024-03-20, 01:01:42](https://news.ycombinator.com/item?id=39761951) - [This Was Village Life in Britain 3k Years Ago](https://www.nytimes.com/2024/03/19/science/archaeology-britain-must-farm.html)
 * [2024-03-20, 01:01:15](https://news.ycombinator.com/item?id=39761948) - [HomeRoom (YC W22) Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
 * [2024-03-20, 00:35:55](https://news.ycombinator.com/item?id=39761808) - [Ask HN: How did you get yourself out of a rut?](https://news.ycombinator.com/item?id=39761808)
