@@ -80,6 +80,7 @@
 * [2024-03-19, 13:53:56](https://news.ycombinator.com/item?id=39755758) - [Climate change indicators reached record levels in 2023: WMO](https://wmo.int/media/news/climate-change-indicators-reached-record-levels-2023-wmo)
 * [2024-03-19, 13:46:57](https://news.ycombinator.com/item?id=39755696) - [Fujitsu says it found malware on its corporate network, warns of data breach](https://arstechnica.com/security/2024/03/fujitsu-says-it-found-malware-on-its-corporate-network-warns-of-possible-data-breach/)
 * [2024-03-19, 13:45:12](https://news.ycombinator.com/item?id=39755668) - [Show HN: Hypersplit – Like Infinite Craft but in Reverse](https://lantto.github.io/hypersplit/)
+* [2024-03-19, 13:43:09](https://news.ycombinator.com/item?id=39755653) - [Distributed coroutines with a native Python extension and Dispatch](https://stealthrocket.tech/blog/distributed-coroutines-in-python/)
 * [2024-03-19, 13:42:20](https://news.ycombinator.com/item?id=39755646) - [Spacedrive Alpha v0.2](https://www.spacedrive.com/blog/alpha-zero-two-release)
 * [2024-03-19, 13:33:11](https://news.ycombinator.com/item?id=39755565) - [The rise and fall of a Halifax man's illegal TV streaming empire](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-man-illegal-streaming-empire-1.7112573)
 * [2024-03-19, 13:25:59](https://news.ycombinator.com/item?id=39755503) - [Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO](https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo)
