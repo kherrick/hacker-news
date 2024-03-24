@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-24, 03:37:59](https://news.ycombinator.com/item?id=39804988) - [Large Grocers Took Advantage of Pandemic Supply Chain Disruptions, FTC Finds](https://www.nytimes.com/2024/03/21/us/politics/grocery-prices-pandemic-ftc.html)
 * [2024-03-24, 01:00:14](https://news.ycombinator.com/item?id=39804248) - [CodeCrafters (YC S22) Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
@@ -16,9 +17,8 @@
 * [2024-03-23, 18:36:31](https://news.ycombinator.com/item?id=39802120) - [Show HN: Wirequery – Full-stack session replay and more](https://github.com/wirequery/wirequery)
 * [2024-03-23, 18:21:21](https://news.ycombinator.com/item?id=39801991) - [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
 * [2024-03-23, 18:17:52](https://news.ycombinator.com/item?id=39801963) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
-* [2024-03-23, 17:12:46](https://news.ycombinator.com/item?id=39801435) - [Ntex: Powerful, pragmatic, fast framework for composable networking services](https://ntex.rs/)
 * [2024-03-23, 17:07:42](https://news.ycombinator.com/item?id=39801399) - [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
-* [2024-03-23, 16:46:23](https://news.ycombinator.com/item?id=39801234) - [CUDA Is Still a Giant Moat for Nvidia](https://weightythoughts.com/p/cuda-is-still-a-giant-moat-for-nvidia)
+* [2024-03-23, 16:10:47](https://news.ycombinator.com/item?id=39800915) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:58:30](https://news.ycombinator.com/item?id=39800821) - [Reverse DNS IPv4 Map](https://reversedns.space/)
 * [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
 * [2024-03-23, 14:04:17](https://news.ycombinator.com/item?id=39800016) - [NIST: Personal Identity Verification (PIV) of Federal Employees and Contractors](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3.pdf)
