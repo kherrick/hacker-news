@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2024-03-23, 16:10:47",
+      "https://news.ycombinator.com/item?id=39800915"
+    ],
+    [
+      "Why the hell is your Kubernetes API public?",
+      "https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane"
+    ]
+  ],
+  [
+    [
       "2024-03-23, 15:58:30",
       "https://news.ycombinator.com/item?id=39800821"
     ],
@@ -287,16 +297,6 @@
     [
       "The Super Mario Maker community faces its final boss",
       "https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 12:04:28",
-      "https://news.ycombinator.com/item?id=39754885"
-    ],
-    [
-      "Reviving PyMiniRacer: A Python <> JavaScript Bridge",
-      "https://bpcreech.com/post/mini-racer/"
     ]
   ]
 ]
