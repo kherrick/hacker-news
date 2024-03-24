@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-03-24, 11:07:16",
-      "https://news.ycombinator.com/item?id=39806406"
+      "2024-03-24, 11:31:28",
+      "https://news.ycombinator.com/item?id=39806509"
     ],
     [
-      "LLM pricing comparison tool – [free]",
-      "https://www.botgenuity.com/tools/llm-pricing"
+      "Ask HN: What is your approach for managing personal digital assets?",
+      "https://news.ycombinator.com/item?id=39806509"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-03-24, 02:58:13",
-      "https://news.ycombinator.com/item?id=39804829"
-    ],
-    [
-      "Solving the Nerd-Sniping Problem: When Electronics Meets Heat Equations",
-      "https://praveshkoirala.com/2024/03/07/solving-the-nerd-sniping-problem-when-electronics-meets-heat/"
-    ]
-  ],
-  [
-    [
       "2024-03-24, 00:51:44",
       "https://news.ycombinator.com/item?id=39804214"
     ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2024-03-23, 23:01:48",
-      "https://news.ycombinator.com/item?id=39803648"
-    ],
-    [
-      "OpenDevin – open-source implementation of devin",
-      "https://github.com/OpenDevin/OpenDevin"
-    ]
-  ],
-  [
-    [
       "2024-03-23, 22:35:41",
       "https://news.ycombinator.com/item?id=39803516"
     ],
@@ -181,16 +161,6 @@
   ],
   [
     [
-      "2024-03-23, 21:23:34",
-      "https://news.ycombinator.com/item?id=39803174"
-    ],
-    [
-      "Marimo: Interactive Fluffy Ball",
-      "https://oimo.io/works/marimo/"
-    ]
-  ],
-  [
-    [
       "2024-03-23, 20:36:20",
       "https://news.ycombinator.com/item?id=39802934"
     ],
@@ -211,6 +181,16 @@
   ],
   [
     [
+      "2024-03-23, 18:21:21",
+      "https://news.ycombinator.com/item?id=39801991"
+    ],
+    [
+      "Show HN: Rotary Phone Project",
+      "https://github.com/mnutt/rotary"
+    ]
+  ],
+  [
+    [
       "2024-03-23, 18:17:52",
       "https://news.ycombinator.com/item?id=39801963"
     ],
@@ -227,6 +207,26 @@
     [
       "Game of Life, simulating itself, infinitely zoomable",
       "https://oimo.io/works/life/"
+    ]
+  ],
+  [
+    [
+      "2024-03-23, 07:20:13",
+      "https://news.ycombinator.com/item?id=39798115"
+    ],
+    [
+      "SQLite Schema Diagram Generator",
+      "https://gitlab.com/Screwtapello/sqlite-schema-diagram"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 04:25:15",
+      "https://news.ycombinator.com/item?id=39774881"
+    ],
+    [
+      "Rye: Homoiconic dynamic programming language with some new ideas",
+      "https://github.com/refaktor/rye"
     ]
   ],
   [
