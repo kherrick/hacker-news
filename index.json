@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-03-24, 17:22:01",
+      "https://news.ycombinator.com/item?id=39808616"
+    ],
+    [
+      "C++ left arrow operator (2016)",
+      "https://www.atnnn.com/p/operator-larrow/"
+    ]
+  ],
+  [
+    [
       "2024-03-24, 17:00:29",
       "https://news.ycombinator.com/item?id=39808425"
     ],
@@ -77,6 +87,16 @@
     [
       "The ü/ü Conundrum",
       "https://unravelweb.dev/2024/02/12/the-u-u-conundrum/"
+    ]
+  ],
+  [
+    [
+      "2024-03-24, 16:18:07",
+      "https://news.ycombinator.com/item?id=39808104"
+    ],
+    [
+      "The Mirror (Godot bashed game engine)",
+      "https://github.com/the-mirror-gdp/the-mirror"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-03-23, 13:24:02",
-      "https://news.ycombinator.com/item?id=39799755"
-    ],
-    [
-      "Game of Life, simulating itself, infinitely zoomable",
-      "https://oimo.io/works/life/"
-    ]
-  ],
-  [
-    [
       "2024-03-23, 11:31:27",
       "https://news.ycombinator.com/item?id=39799137"
     ],
     [
       "Doubts grow about the biosignature approach to alien-hunting",
       "https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/"
-    ]
-  ],
-  [
-    [
-      "2024-03-23, 07:20:13",
-      "https://news.ycombinator.com/item?id=39798115"
-    ],
-    [
-      "SQLite Schema Diagram Generator",
-      "https://gitlab.com/Screwtapello/sqlite-schema-diagram"
     ]
   ],
   [
