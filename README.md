@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-24, 02:06:07](https://news.ycombinator.com/item?id=39804560) - [Cloudflare and Hetzner threatens to takedown Fediverse instance because of yuri](https://bsky.app/profile/makai.chaotic.ninja/post/3kofrm3pcvc2p)
 * [2024-03-24, 01:39:26](https://news.ycombinator.com/item?id=39804422) - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
 * [2024-03-24, 01:00:14](https://news.ycombinator.com/item?id=39804248) - [CodeCrafters (YC S22) Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
 * [2024-03-24, 00:51:44](https://news.ycombinator.com/item?id=39804214) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 * [2024-03-24, 00:39:38](https://news.ycombinator.com/item?id=39804138) - [Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
+* [2024-03-24, 00:23:20](https://news.ycombinator.com/item?id=39804063) - [Google is massively ahead in the AI battle of 2024](https://notcoding.today/blog/google-ai-monopoly)
 * [2024-03-24, 00:20:40](https://news.ycombinator.com/item?id=39804052) - [Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)
 * [2024-03-23, 23:46:37](https://news.ycombinator.com/item?id=39803871) - [Safecast Open Radiation and Air Quality Map](https://map.safecast.org/)
 * [2024-03-23, 22:35:41](https://news.ycombinator.com/item?id=39803516) - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
