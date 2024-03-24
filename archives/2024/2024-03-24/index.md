@@ -6,6 +6,7 @@
 
 * [2024-03-24, 12:59:49](https://news.ycombinator.com/item?id=39806970) - [New 'Exercise Pill' Could Induce Fitness Benefits Without Exercise](https://www.sciencealert.com/new-exercise-pill-could-induce-fitness-benefits-without-exercise)
 * [2024-03-24, 12:00:08](https://news.ycombinator.com/item?id=39806654) - [Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
+* [2024-03-24, 11:47:07](https://news.ycombinator.com/item?id=39806584) - [Israel Has Formed a Task Force to Carry Out Covert Campaigns at US Universities](https://truthout.org/articles/israel-has-formed-a-task-force-to-carry-out-covert-campaigns-at-us-universities/)
 * [2024-03-24, 11:31:28](https://news.ycombinator.com/item?id=39806509) - [Ask HN: What is your approach for managing personal digital assets?](https://news.ycombinator.com/item?id=39806509)
 * [2024-03-24, 11:11:06](https://news.ycombinator.com/item?id=39806424) - [The Matrix](https://en.wikipedia.org/wiki/The_Matrix)
 * [2024-03-24, 11:07:16](https://news.ycombinator.com/item?id=39806406) - [LLM pricing comparison tool – [free]](https://www.botgenuity.com/tools/llm-pricing)
