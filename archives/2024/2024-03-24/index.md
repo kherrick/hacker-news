@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 21:01:09](https://news.ycombinator.com/item?id=39810493) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-03-24, 19:52:23](https://news.ycombinator.com/item?id=39809861) - [Gemini on the iPhone would be AI's mainstream moment](https://www.cnet.com/tech/mobile/google-gemini-on-the-iphone-would-be-ais-mainstream-moment/)
 * [2024-03-24, 19:15:56](https://news.ycombinator.com/item?id=39809478) - [The new Windows update made me think I'd installed malware](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/)
 * [2024-03-24, 19:11:28](https://news.ycombinator.com/item?id=39809447) - [Your customers hate MVPs. Make a SLC instead](https://longform.asmartbear.com/slc/)
 * [2024-03-24, 19:00:45](https://news.ycombinator.com/item?id=39809369) - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
