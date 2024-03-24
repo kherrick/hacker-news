@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-24, 22:22:34](https://news.ycombinator.com/item?id=39811043) - [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)
 * [2024-03-24, 21:28:57](https://news.ycombinator.com/item?id=39810692) - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 * [2024-03-24, 19:00:45](https://news.ycombinator.com/item?id=39809369) - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
@@ -12,7 +11,6 @@
 * [2024-03-24, 16:50:41](https://news.ycombinator.com/item?id=39808357) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 * [2024-03-24, 16:18:07](https://news.ycombinator.com/item?id=39808104) - [The Mirror (Godot bashed game engine)](https://github.com/the-mirror-gdp/the-mirror)
 * [2024-03-24, 15:52:06](https://news.ycombinator.com/item?id=39807967) - [What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k? (2002)](http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm)
-* [2024-03-24, 15:43:29](https://news.ycombinator.com/item?id=39807914) - [Be more lucky](https://newsletter.pnote.eu/p/be-more-lucky)
 * [2024-03-24, 15:43:16](https://news.ycombinator.com/item?id=39807912) - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
 * [2024-03-24, 15:19:27](https://news.ycombinator.com/item?id=39807759) - ['Super memory': Why Emily Nash is sharing her brain with science](https://www.ctvnews.ca/w5/why-18-year-old-canadian-emily-nash-is-sharing-her-unique-brain-with-science-1.6818765)
 * [2024-03-24, 15:15:23](https://news.ycombinator.com/item?id=39807735) - [How ML Model Data Poisoning Works in 5 Minutes](https://journal.hexmos.com/training-data-poisoning/?src=hn)
@@ -26,8 +24,10 @@
 * [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
+* [2024-03-23, 21:23:34](https://news.ycombinator.com/item?id=39803174) - [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 * [2024-03-23, 20:36:20](https://news.ycombinator.com/item?id=39802934) - [What happens to Google Maps when tectonic plates move? (2020)](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
 * [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
+* [2024-03-23, 07:20:13](https://news.ycombinator.com/item?id=39798115) - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 * [2024-03-22, 23:00:24](https://news.ycombinator.com/item?id=39795740) - [The Enchanting Blossom Explosion of Jacaranda Trees in Mexico City](https://worldsensorium.com/purple-spring-the-enchanting-blossom-explosion-of-jacaranda-trees-in-mexico-city/)
 * [2024-03-22, 16:05:53](https://news.ycombinator.com/item?id=39792034) - [RollerCoaster Tycoon at 25: 'It's mind-blowing how it inspired me'](https://www.theguardian.com/games/2024/mar/22/rollercoaster-tycoon-at-25-its-mind-blowing-how-it-inspired-me)
 
