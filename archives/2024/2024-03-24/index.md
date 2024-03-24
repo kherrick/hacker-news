@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
 * [2024-03-24, 22:22:34](https://news.ycombinator.com/item?id=39811043) - [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)
+* [2024-03-24, 21:59:02](https://news.ycombinator.com/item?id=39810882) - [Cargo thefts spiked 68% in Q4, led by food and beverage freight](https://www.freightwaves.com/news/cargo-thefts-spiked-68-in-q4-led-by-food-and-beverage-freight)
 * [2024-03-24, 21:28:57](https://news.ycombinator.com/item?id=39810692) - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
 * [2024-03-24, 21:01:09](https://news.ycombinator.com/item?id=39810493) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
+* [2024-03-24, 20:41:59](https://news.ycombinator.com/item?id=39810320) - [\"She's Bouncing the Ball \" on the Uncanny Way Octopuses Play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
 * [2024-03-24, 19:52:23](https://news.ycombinator.com/item?id=39809861) - [Gemini on the iPhone would be AI's mainstream moment](https://www.cnet.com/tech/mobile/google-gemini-on-the-iphone-would-be-ais-mainstream-moment/)
 * [2024-03-24, 19:15:56](https://news.ycombinator.com/item?id=39809478) - [The new Windows update made me think I'd installed malware](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/)
 * [2024-03-24, 19:11:28](https://news.ycombinator.com/item?id=39809447) - [Your customers hate MVPs. Make a SLC instead](https://longform.asmartbear.com/slc/)
