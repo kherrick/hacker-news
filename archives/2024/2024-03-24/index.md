@@ -12,3 +12,4 @@
 * [2024-03-24, 00:50:43](https://news.ycombinator.com/item?id=39804204) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 * [2024-03-24, 00:39:38](https://news.ycombinator.com/item?id=39804138) - [Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
 * [2024-03-24, 00:20:40](https://news.ycombinator.com/item?id=39804052) - [Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)
+* [2024-03-24, 00:12:22](https://news.ycombinator.com/item?id=39803999) - [Sheets of Graph Paper Were Used to Design Super Mario Bros](https://www.archdaily.com/783657/the-sheets-of-graph-paper-they-used-to-design-super-mario-bros)
