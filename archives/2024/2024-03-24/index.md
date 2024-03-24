@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 18:19:57](https://news.ycombinator.com/item?id=39809061) - [Ask HN: How common is developer burnout? Have you ever been burnt out?](https://news.ycombinator.com/item?id=39809061)
+* [2024-03-24, 18:00:40](https://news.ycombinator.com/item?id=39808921) - [Aegis v3.0 – a free, secure and open source 2FA app for Android](https://github.com/beemdevelopment/Aegis/releases/tag/v3.0)
 * [2024-03-24, 17:09:04](https://news.ycombinator.com/item?id=39808497) - [Only Walking for Exercise?](https://theconversation.com/only-walking-for-exercise-heres-how-to-get-the-most-out-of-it-224159)
 * [2024-03-24, 17:00:29](https://news.ycombinator.com/item?id=39808425) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39808425)
 * [2024-03-24, 16:26:39](https://news.ycombinator.com/item?id=39808171) - [Ten years of selling web data: a personal perspective](https://substack.thewebscraping.club/p/selling-web-scraped-data)
