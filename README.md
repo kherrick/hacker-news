@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-24, 21:01:09](https://news.ycombinator.com/item?id=39810493) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-24, 19:52:23](https://news.ycombinator.com/item?id=39809861) - [Gemini on the iPhone would be AI's mainstream moment](https://www.cnet.com/tech/mobile/google-gemini-on-the-iphone-would-be-ais-mainstream-moment/)
 * [2024-03-24, 19:00:45](https://news.ycombinator.com/item?id=39809369) - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
 * [2024-03-24, 18:34:33](https://news.ycombinator.com/item?id=39809177) - [GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
 * [2024-03-24, 18:06:59](https://news.ycombinator.com/item?id=39808967) - [Why isn't preprint review being adopted?](https://www.theroadgoeson.com/why-isnt-preprint-review-being-adopted)
 * [2024-03-24, 18:00:40](https://news.ycombinator.com/item?id=39808921) - [Aegis v3.0 – a free, secure and open source 2FA app for Android](https://github.com/beemdevelopment/Aegis/releases/tag/v3.0)
 * [2024-03-24, 17:27:47](https://news.ycombinator.com/item?id=39808664) - [China blocks use of Intel and AMD chips in government computers: Report](https://www.channelnewsasia.com/business/china-blocks-use-intel-and-amd-chips-government-computers-report-4218101)
+* [2024-03-24, 17:00:29](https://news.ycombinator.com/item?id=39808425) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39808425)
 * [2024-03-24, 16:50:41](https://news.ycombinator.com/item?id=39808357) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 * [2024-03-24, 15:52:06](https://news.ycombinator.com/item?id=39807967) - [What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k? (2002)](http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm)
 * [2024-03-24, 15:43:29](https://news.ycombinator.com/item?id=39807914) - [Be more lucky](https://newsletter.pnote.eu/p/be-more-lucky)
