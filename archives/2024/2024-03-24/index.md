@@ -88,6 +88,7 @@
 * [2024-03-24, 05:07:49](https://news.ycombinator.com/item?id=39805269) - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 * [2024-03-24, 04:01:21](https://news.ycombinator.com/item?id=39805077) - [The Immortal Jellyfish](https://www.amnh.org/explore/news-blogs/on-exhibit-posts/the-immortal-jellyfish)
 * [2024-03-24, 03:55:38](https://news.ycombinator.com/item?id=39805052) - [For the Love of Cats in Turkey](https://www.sapiens.org/culture/cat-human-bonds-history-turkey/)
+* [2024-03-24, 03:45:59](https://news.ycombinator.com/item?id=39805021) - [Velox: Meta's Unified Execution Engine [pdf]](https://www.eecs.umich.edu/courses/eecs584/static_files/papers/p3372-pedreira.pdf)
 * [2024-03-24, 03:41:49](https://news.ycombinator.com/item?id=39805005) - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
 * [2024-03-24, 03:37:59](https://news.ycombinator.com/item?id=39804988) - [Large Grocers Took Advantage of Pandemic Supply Chain Disruptions, FTC Finds](https://www.nytimes.com/2024/03/21/us/politics/grocery-prices-pandemic-ftc.html)
 * [2024-03-24, 02:58:13](https://news.ycombinator.com/item?id=39804829) - [Solving the Nerd-Sniping Problem: When Electronics Meets Heat Equations](https://praveshkoirala.com/2024/03/07/solving-the-nerd-sniping-problem-when-electronics-meets-heat/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
 * [2024-03-25, 17:41:40](https://news.ycombinator.com/item?id=39819212) - [X Corp vs. Center for Countering Digital Hate, Order Granting Motion to Dismiss [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.416212/gov.uscourts.cand.416212.75.0.pdf)
+* [2024-03-25, 17:36:04](https://news.ycombinator.com/item?id=39819157) - [Livebook: Elixir's Swiss Army Knife](https://www.thestackcanary.com/elixirs-secret-weapon/)
 * [2024-03-25, 17:32:52](https://news.ycombinator.com/item?id=39819110) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
 * [2024-03-25, 17:12:53](https://news.ycombinator.com/item?id=39818825) - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 * [2024-03-25, 17:00:10](https://news.ycombinator.com/item?id=39818667) - [Patterns (YC S21) is hiring to automate data reporting with LLMs](https://patterns.app/)
@@ -13,6 +14,7 @@
 * [2024-03-25, 16:22:46](https://news.ycombinator.com/item?id=39818231) - [Houdini and the Art of Escape (2020)](https://www.newyorker.com/magazine/2020/03/30/harry-houdini-and-the-art-of-escape)
 * [2024-03-25, 16:14:05](https://news.ycombinator.com/item?id=39818136) - ['Is monetary policy even working?'](https://www.ft.com/content/78aecb9f-a2bb-48bb-b868-0e11ef68eddf)
 * [2024-03-25, 16:11:42](https://news.ycombinator.com/item?id=39818099) - [Anglo-Italian company says it has cracked Bitcoin. People have questions](https://www.ft.com/content/8aa731a0-5456-4121-a2f7-828ae90ed199)
+* [2024-03-25, 15:49:58](https://news.ycombinator.com/item?id=39817850) - [Show HN: Auto-generate an OpenAPI spec by listening to localhost](https://github.com/Adawg4/openapi-autospec)
 * [2024-03-25, 15:29:49](https://news.ycombinator.com/item?id=39817564) - [US salaries are surging for in-office jobs](https://www.bbc.com/worklife/article/20240322-us-salaries-higher-in-office-jobs)
 * [2024-03-25, 15:25:11](https://news.ycombinator.com/item?id=39817497) - [CFEngine's Star Trek and AI Origins (2023)](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
 * [2024-03-25, 15:13:44](https://news.ycombinator.com/item?id=39817340) - [EU rejects Apple's changes: Company could be fined 10% of global turnover](https://9to5mac.com/2024/03/25/app-store-proposals-rejected/)
