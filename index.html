@@ -129,25 +129,122 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="39819157">
+        <section id="39819458">
           <h3>
-            <a
-              class="item"
-              href="https://www.thestackcanary.com/elixirs-secret-weapon/"
-              >Livebook: Elixir's Swiss Army Knife</a
+            <a class="item" href="https://github.com/TracecatHQ/tracecat"
+              >Show HN: Tracecat – Open-source security alert automation / SOAR
+              alternative</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-03-25 @ 17:36:04</span
+              <span>2024-03-25 @ 18:05:07</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39819157"
+                ><a href="https://news.ycombinator.com/item?id=39819458"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://tracecat.com/">https://tracecat.com/</a>), an
+              open source automation platform for security alerts. Tracecat
+              automates the tasks a security analyst has to do when responding
+              to a security alert: e.g. contact victims, investigate security
+              logs, report vulnerability.
+              <p>
+                The average security analyst deals with 100 alerts per day. As
+                soon as an alert comes in, you have to investigate and respond.
+                An average alert takes ~30 minutes to analyze (and 100 x 30 min
+                = 50 hours &gt; one whole day) Lots of things get dropped, and
+                this creates vulnerabilities. Many breaches can be traced back
+                to week old alerts that didn’t get properly investigated.
+              </p>
+              <p>
+                Since the risks and costs are so high, top security teams
+                currently pay Splunk SOAR $100,000/year to help automate alert
+                processing. It’s a click-and-drag workflow builder with
+                webhooks, REST API integrations, and JSON processors. A security
+                engineer would use it to build alert automations that look like
+                this: (1) webhook to receive alert (e.g. unusual powershell cmd)
+                from Microsoft Defender; (2) send yes/no Slackbot to ask
+                employee about the alert; (3) if confirmed as suspicious, send
+                malware sample to VirusTotal for report (4) collect evidence
+                from previous steps and dump it into a ticket.
+              </p>
+              <p>
+                If $100k a year seems wildly expensive for a Zapier-like
+                platform, you’d be half right. Splunk SOAR is actually a Zapier
+                + log search + Jira ticketing system.
+              </p>
+              <p>
+                Log storage—that’s how Splunk turns a $99/month workflow
+                automation tool into a pricey enterprise product. Every piece of
+                evidence collected (e.g. Slackbot response, malware report,
+                GeoIP enrichment) and every past workflow trail has to be
+                searchable by a human incident responder or auditor. Security
+                teams need to know why every alert escalated to a SEV1 or not.
+              </p>
+              <p>
+                My cofounder and I are data engineers who fell into this space.
+                We heard our security friends constantly complain about being
+                priced out of a SOAR (security orchestration, automation, and
+                response platform) like Splunk SOAR.
+              </p>
+              <p>
+                We both wrote a lot of event-driven code at school (Master’s
+                thesis) and work (Meta / PwC). We’re also early adopters of
+                Quickwit / Tantivy, an OSS alternative to Elasticsearch / Apache
+                Lucene that is cheaper and faster. It didn’t seem that difficult
+                to build a cheaper open source SOAR, so we decided to do it.
+              </p>
+              <p>
+                Tracecat is also different as it can run in a single VM /
+                laptop. Splunk SOAR and Tines are built for Fortune 10 needs,
+                which means expensive Kubernetes clusters. Most security teams
+                don’t need that scale, but are forced to pay the K8s “premium”
+                (high complexity, hard to maintain). Tracecat uses OSS embedded
+                databases (SQLite) and an event processing engine we built using
+                Python 3.12 asyncio.
+              </p>
+              <p>
+                So far, we’ve just got a bare-bones alpha but you can already do
+                quite a few things with it. e.g. trigger event-driven workflows
+                from webhooks; use REST API integrations; parse responses using
+                JSONPath; control flow using conditional blocks; store logs
+                cheaply in Tantivy; open cases directly from workflows;
+                prioritize and manage cases in a Jira-like table.
+              </p>
+              <p>
+                Tracecat uses Pydantic V2 for fast input / output validation and
+                Zod for fast form validation. We care a lot about data quality!
+                It’s also Apache-2.0 licensed so anyone can self-host the
+                platform.
+              </p>
+              <p>
+                On our roadmap: integrations with popular security tools
+                (Crowdstrike, Microsoft defender); pre-built workflows (e.g.
+                investigating phishing email); better docs; more AI features
+                like auto-labeling tickets, extracting data from unstructured
+                text etc.
+              </p>
+              <p>
+                We’re still early so would love your feedback and opinions. Feel
+                free to try us out or share it with your security friends. We
+                have a cloud version up and running:
+                <a href="https://platform.tracecat.com"
+                  >https://platform.tracecat.com</a
+                >.
+              </p>
+              <p>
+                Dear HN readers, we’d love to hear your incident response
+                stories and the software you use (or not) to automate the work.
+                Stories from security, site reliability engineering, or even
+                physical systems like critical infrastructure monitoring are all
+                very welcome!
+              </p>
+            </div>
           </section>
         </section>
         <section id="39818825">
@@ -162,7 +259,7 @@
             <h4>
               <span>2024-03-25 @ 17:12:53</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39818825"
                   >Comments</a
@@ -187,35 +284,23 @@
             </h4>
           </section>
         </section>
-        <section id="39818284">
+        <section id="39818535">
           <h3>
-            <a class="item" href="https://github.com/harryzcy/mailbox"
-              >Show HN: Versatile email infrastructure on AWS serverless</a
+            <a class="item" href="https://peateasea.de/hotel-hotspot-hijinks/"
+              >Hotel Hotspot Hijinks</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-03-25 @ 16:28:07</span
+              <span>2024-03-25 @ 16:49:01</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39818284"
+                ><a href="https://news.ycombinator.com/item?id=39818535"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
-            <div class="text">
-              <p>Notes:</p>
-              <p>
-                - all emails share the same inbox, as long as set your DNS
-                correctly
-              </p>
-              <p>- Web client via self-hosted Docker or Cloudflare Pages</p>
-              <p>
-                - need additional access controls, may use Basic Auth or Forward
-                Auth with Cloudflare deployment
-              </p>
-            </div>
           </section>
         </section>
         <section id="39818248">
@@ -231,11 +316,11 @@
             <h4>
               <span>2024-03-25 @ 16:24:34</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39818248"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -252,7 +337,7 @@
             <h4>
               <span>2024-03-25 @ 16:22:46</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39818231"
                   >Comments</a
@@ -272,11 +357,11 @@
             <h4>
               <span>2024-03-25 @ 15:49:58</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39817850"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -338,7 +423,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39817026"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -354,11 +439,11 @@
             <h4>
               <span>2024-03-25 @ 14:32:46</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39816836"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
             <div class="text">
@@ -407,11 +492,11 @@
             <h4>
               <span>2024-03-25 @ 14:32:43</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39816835"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -426,7 +511,7 @@
             <h4>
               <span>2024-03-25 @ 14:30:23</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39816808"
                   >Comments</a
@@ -457,11 +542,11 @@
             <h4>
               <span>2024-03-25 @ 14:01:15</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39816423"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -477,7 +562,7 @@
             <h4>
               <span>2024-03-25 @ 13:23:44</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39815976"
                   >Comments</a
@@ -522,11 +607,11 @@
             <h4>
               <span>2024-03-25 @ 13:06:44</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">317</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39815805"
                   >Comments</a
-                ><span class="descendants">: 231</span></span
+                ><span class="descendants">: 233</span></span
               >
             </h4>
           </section>
@@ -543,11 +628,11 @@
             <h4>
               <span>2024-03-25 @ 12:01:48</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39815219"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -565,11 +650,11 @@
             <h4>
               <span>2024-03-25 @ 11:24:39</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39814877"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -586,11 +671,11 @@
             <h4>
               <span>2024-03-25 @ 10:58:16</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39814683"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -608,11 +693,11 @@
             <h4>
               <span>2024-03-25 @ 10:38:17</span
               ><span class="points-container"
-                >Points: <span class="points">380</span></span
+                >Points: <span class="points">385</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39814558"
                   >Comments</a
-                ><span class="descendants">: 344</span></span
+                ><span class="descendants">: 354</span></span
               >
             </h4>
           </section>
@@ -627,7 +712,7 @@
             <h4>
               <span>2024-03-25 @ 07:41:48</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39813588"
                   >Comments</a
@@ -646,11 +731,11 @@
             <h4>
               <span>2024-03-25 @ 07:36:08</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39813560"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -688,11 +773,11 @@
             <h4>
               <span>2024-03-24 @ 00:13:05</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39804004"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -707,7 +792,7 @@
             <h4>
               <span>2024-03-23 @ 23:13:55</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39803703"
                   >Comments</a
@@ -726,11 +811,11 @@
             <h4>
               <span>2024-03-23 @ 15:34:51</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39800678"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -747,11 +832,11 @@
             <h4>
               <span>2024-03-23 @ 15:15:17</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39800542"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -772,7 +857,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39799988"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -787,7 +872,7 @@
             <h4>
               <span>2024-03-23 @ 11:29:23</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39799131"
                   >Comments</a
@@ -813,7 +898,7 @@
             <h4>
               <span>2024-03-23 @ 07:49:45</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39798225"
                   >Comments</a
@@ -834,11 +919,11 @@
             <h4>
               <span>2024-03-23 @ 02:05:09</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39796837"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -855,11 +940,11 @@
             <h4>
               <span>2024-03-22 @ 03:54:11</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39787334"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
