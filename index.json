@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 07:00:46",
+      "https://news.ycombinator.com/item?id=39813399"
+    ],
+    [
+      "Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin",
+      "https://bitmovin.com/careers/senior-software-engineer-c-7093093002"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 06:22:38",
       "https://news.ycombinator.com/item?id=39813240"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-03-25, 05:18:28",
+      "https://news.ycombinator.com/item?id=39813032"
+    ],
+    [
+      "EVGA power supply kills 22TB of customer storage then denies responsibility",
+      "https://www.tomshardware.com/pc-components/power-supplies/evga-power-supply-allegedly-blows-up-22tb-of-customer-storage-revised-model-from-rma-had-a-different-pin-layout-and-killed-all-sata-powered-devices"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 04:56:24",
       "https://news.ycombinator.com/item?id=39812969"
     ],
@@ -47,16 +67,6 @@
     [
       "Context: The Missing Feature of Programming Languages",
       "https://medium.com/source-and-buggy/context-the-missing-feature-of-programming-languages-7c1095fe8d32"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 04:22:53",
-      "https://news.ycombinator.com/item?id=39812846"
-    ],
-    [
-      "OneSignal (YC S11) Is Hiring Engineers to Build a Customer Engagement Platform",
-      "https://onesignal.com/careers#section-job"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Weather Planning for Eclipse Day",
       "https://eclipsophile.com/eclipse-day-weather/"
-    ]
-  ],
-  [
-    [
-      "2024-03-24, 07:17:28",
-      "https://news.ycombinator.com/item?id=39805591"
-    ],
-    [
-      "Lezer: A parsing system for CodeMirror, inspired by Tree-sitter",
-      "https://marijnhaverbeke.nl/blog/lezer.html"
     ]
   ],
   [
