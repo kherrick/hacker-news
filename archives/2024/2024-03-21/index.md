@@ -42,6 +42,7 @@
 * [2024-03-21, 17:54:47](https://news.ycombinator.com/item?id=39782033) - [Node.js: The Documentary [video]](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 * [2024-03-21, 17:38:23](https://news.ycombinator.com/item?id=39781816) - [Change license from BSD-3 to dual RSALv2+SSPLv1](https://github.com/redis/redis/pull/13157)
 * [2024-03-21, 17:35:39](https://news.ycombinator.com/item?id=39781776) - [Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant](https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/)
+* [2024-03-21, 17:26:54](https://news.ycombinator.com/item?id=39781651) - [Redis switches licenses, acquires Speedb](https://techcrunch.com/2024/03/21/redis-switches-licenses-acquires-speedb-to-go-beyond-its-core-in-memory-database/)
 * [2024-03-21, 17:11:24](https://news.ycombinator.com/item?id=39781418) - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
 * [2024-03-21, 17:00:39](https://news.ycombinator.com/item?id=39781248) - [Together (YC S19) interviewing Engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
 * [2024-03-21, 16:46:29](https://news.ycombinator.com/item?id=39781031) - [User reports metallic taste in mouth when using laptop](https://forums.macrumors.com/threads/weird-taste-in-mouth-when-using-midnight-13-m3-air.2422177/)

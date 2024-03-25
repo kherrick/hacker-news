@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-25, 23:29:45](https://news.ycombinator.com/item?id=39822476) - [Illness Impacting Dairy Cattle Is Confirmed as Highly Pathogenic Avian Flu](https://www.agweb.com/news/livestock/dairy/breaking-mystery-illness-impacting-texas-kansas-dairy-cattle-confirmed-highly)
-* [2024-03-25, 23:06:05](https://news.ycombinator.com/item?id=39822261) - [Interoception: The inner sense driving your thoughts](https://www.bbc.com/future/article/20240322-interoception-the-mysterious-inner-sense-driving-your-emotions)
 * [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets Are for More Than Just Printing](https://spectrum.ieee.org/inkjet-printer)
+* [2024-03-25, 23:00:39](https://news.ycombinator.com/item?id=39822221) - [How Couples Meet](https://web.stanford.edu/~mrosenfe/Rosenfeld_how_hetero_couples_met_through2021v4.JPG)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:19:53](https://news.ycombinator.com/item?id=39821868) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
 * [2024-03-25, 21:20:58](https://news.ycombinator.com/item?id=39821400) - [Hacker fakes German minister's fingerprints using photos of her hands (2014)](https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands)
-* [2024-03-25, 19:35:44](https://news.ycombinator.com/item?id=39820432) - [Speeding up Azure development by not using Terraform](https://nitric.io/blog/terraform-comparison-demo)
 * [2024-03-25, 19:18:33](https://news.ycombinator.com/item?id=39820269) - [Inclusive Sans: Text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
@@ -30,6 +29,7 @@
 * [2024-03-23, 07:49:45](https://news.ycombinator.com/item?id=39798225) - [Repairing a buggy board arcade machine](https://philwip.com/2024/03/22/pcb-repair-speed-buggy-buggy-boy/)
 * [2024-03-23, 02:05:09](https://news.ycombinator.com/item?id=39796837) - [William Adams: English Advisor to the Shogun](https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun)
 * [2024-03-21, 18:12:26](https://news.ycombinator.com/item?id=39782261) - [Electronic project kits: hands on with a vintage 160-in-1 (2016)](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4)
+* [2024-03-21, 17:26:54](https://news.ycombinator.com/item?id=39781651) - [Redis switches licenses, acquires Speedb](https://techcrunch.com/2024/03/21/redis-switches-licenses-acquires-speedb-to-go-beyond-its-core-in-memory-database/)
 
 ## [Archives](archives/index.md)
 

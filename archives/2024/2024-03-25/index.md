@@ -7,6 +7,7 @@
 * [2024-03-25, 23:29:45](https://news.ycombinator.com/item?id=39822476) - [Illness Impacting Dairy Cattle Is Confirmed as Highly Pathogenic Avian Flu](https://www.agweb.com/news/livestock/dairy/breaking-mystery-illness-impacting-texas-kansas-dairy-cattle-confirmed-highly)
 * [2024-03-25, 23:06:05](https://news.ycombinator.com/item?id=39822261) - [Interoception: The inner sense driving your thoughts](https://www.bbc.com/future/article/20240322-interoception-the-mysterious-inner-sense-driving-your-emotions)
 * [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets Are for More Than Just Printing](https://spectrum.ieee.org/inkjet-printer)
+* [2024-03-25, 23:00:39](https://news.ycombinator.com/item?id=39822221) - [How Couples Meet](https://web.stanford.edu/~mrosenfe/Rosenfeld_how_hetero_couples_met_through2021v4.JPG)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:19:53](https://news.ycombinator.com/item?id=39821868) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
