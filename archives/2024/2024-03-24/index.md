@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 23:52:03](https://news.ycombinator.com/item?id=39811604) - [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
 * [2024-03-24, 22:57:03](https://news.ycombinator.com/item?id=39811287) - [Do Artifacts Have Politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
+* [2024-03-24, 22:56:07](https://news.ycombinator.com/item?id=39811280) - [Tiny-autodiff: A tiny autograd library in D](https://code.dlang.org/packages/tiny-autodiff)
+* [2024-03-24, 22:53:25](https://news.ycombinator.com/item?id=39811260) - [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
+* [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [Large Language Models' Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
 * [2024-03-24, 22:22:34](https://news.ycombinator.com/item?id=39811043) - [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)
 * [2024-03-24, 22:11:33](https://news.ycombinator.com/item?id=39810979) - ['Quantum tornado' allows scientists to mimic a black hole on Earth](https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero)
 * [2024-03-24, 21:59:02](https://news.ycombinator.com/item?id=39810882) - [Cargo thefts spiked 68% in Q4, led by food and beverage freight](https://www.freightwaves.com/news/cargo-thefts-spiked-68-in-q4-led-by-food-and-beverage-freight)
@@ -12,6 +16,7 @@
 * [2024-03-24, 21:01:09](https://news.ycombinator.com/item?id=39810493) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 * [2024-03-24, 20:41:59](https://news.ycombinator.com/item?id=39810320) - [\"She's Bouncing the Ball \" on the Uncanny Way Octopuses Play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
+* [2024-03-24, 20:38:22](https://news.ycombinator.com/item?id=39810282) - [The Lone Volcano in California's Central Valley](https://www.nytimes.com/2024/03/21/us/the-lone-volcano-in-californias-central-valley.html)
 * [2024-03-24, 19:52:23](https://news.ycombinator.com/item?id=39809861) - [Gemini on the iPhone would be AI's mainstream moment](https://www.cnet.com/tech/mobile/google-gemini-on-the-iphone-would-be-ais-mainstream-moment/)
 * [2024-03-24, 19:15:56](https://news.ycombinator.com/item?id=39809478) - [The new Windows update made me think I'd installed malware](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/)
 * [2024-03-24, 19:11:28](https://news.ycombinator.com/item?id=39809447) - [Your customers hate MVPs. Make a SLC instead](https://longform.asmartbear.com/slc/)
