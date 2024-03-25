@@ -2,6 +2,7 @@
 
 * [2024-03-25, 09:57:18](https://news.ycombinator.com/item?id=39814334) - [Friends don't let friends export to CSV](https://kaveland.no/friends-dont-let-friends-export-to-csv.html)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
+* [2024-03-25, 08:32:49](https://news.ycombinator.com/item?id=39813874) - [Tcl/Tk 9.0](https://www.tcl.tk/software/tcltk/9.0.html)
 * [2024-03-25, 08:17:09](https://news.ycombinator.com/item?id=39813801) - [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
 * [2024-03-25, 07:00:46](https://news.ycombinator.com/item?id=39813399) - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
 * [2024-03-25, 06:22:38](https://news.ycombinator.com/item?id=39813240) - [Windows 98 Icons](https://win98icons.alexmeub.com/)
@@ -25,7 +26,6 @@
 * [2024-03-24, 18:54:47](https://news.ycombinator.com/item?id=39809323) - [Gerbil Scheme – A Lisp for the 21st Century](https://cons.io/)
 * [2024-03-24, 15:43:16](https://news.ycombinator.com/item?id=39807912) - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
 * [2024-03-24, 14:31:45](https://news.ycombinator.com/item?id=39807463) - [Weather Planning for Eclipse Day](https://eclipsophile.com/eclipse-day-weather/)
-* [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Scientists have traced human tail loss to a short sequence of genetic code](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
 * [2024-03-24, 04:01:21](https://news.ycombinator.com/item?id=39805077) - [The Immortal Jellyfish (2015)](https://www.amnh.org/explore/news-blogs/on-exhibit-posts/the-immortal-jellyfish)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
