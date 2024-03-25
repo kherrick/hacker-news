@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-03-24, 22:57:03",
-      "https://news.ycombinator.com/item?id=39811287"
-    ],
-    [
-      "Do artifacts have politics? [pdf]",
-      "https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf"
-    ]
-  ],
-  [
-    [
       "2024-03-24, 22:53:33",
       "https://news.ycombinator.com/item?id=39811261"
     ],
@@ -257,6 +247,16 @@
     [
       "Weather Planning for Eclipse Day",
       "https://eclipsophile.com/eclipse-day-weather/"
+    ]
+  ],
+  [
+    [
+      "2024-03-24, 10:04:55",
+      "https://news.ycombinator.com/item?id=39806139"
+    ],
+    [
+      "TinySSH is a small SSH server using NaCl, TweetNaCl",
+      "https://github.com/janmojzis/tinyssh"
     ]
   ],
   [
