@@ -5,7 +5,7 @@
 * [2024-03-25, 21:46:36](https://news.ycombinator.com/item?id=39821606) - [United States Cyber Force: A Defense Imperative](https://www.fdd.org/analysis/2024/03/25/united-states-cyber-force/)
 * [2024-03-25, 21:20:58](https://news.ycombinator.com/item?id=39821400) - [Hacker fakes German minister's fingerprints using photos of her hands (2014)](https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands)
 * [2024-03-25, 21:01:11](https://news.ycombinator.com/item?id=39821224) - [As AI booms, land near nuclear power plants becomes hot real estate](https://www.theregister.com/2024/03/25/ai_boom_nuclear/)
-* [2024-03-25, 20:00:24](https://news.ycombinator.com/item?id=39820639) - [Is GPT-4 a Good Data Analyst?](https://arxiv.org/abs/2305.15038)
+* [2024-03-25, 20:00:24](https://news.ycombinator.com/item?id=39820639) - [Is GPT-4 a Good Data Analyst? (2023)](https://arxiv.org/abs/2305.15038)
 * [2024-03-25, 19:35:44](https://news.ycombinator.com/item?id=39820432) - [Speeding up Azure development by not using Terraform](https://nitric.io/blog/terraform-comparison-demo)
 * [2024-03-25, 19:18:33](https://news.ycombinator.com/item?id=39820269) - [Inclusive Sans: Text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
