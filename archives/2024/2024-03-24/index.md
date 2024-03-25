@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
 * [2024-03-24, 23:52:03](https://news.ycombinator.com/item?id=39811604) - [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
+* [2024-03-24, 22:59:07](https://news.ycombinator.com/item?id=39811298) - [Port-scanning the fleet and trying to put out fires](http://rachelbythebay.com/w/2024/03/21/scan/)
 * [2024-03-24, 22:57:41](https://news.ycombinator.com/item?id=39811291) - [Moving Back to London and 2023 Review](https://mccormick.cx/news/entries/moving-back-to-london-2023-review)
 * [2024-03-24, 22:57:03](https://news.ycombinator.com/item?id=39811287) - [Do Artifacts Have Politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 * [2024-03-24, 22:56:07](https://news.ycombinator.com/item?id=39811280) - [Tiny-autodiff: A tiny autograd library in D](https://code.dlang.org/packages/tiny-autodiff)
