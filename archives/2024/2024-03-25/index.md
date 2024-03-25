@@ -11,6 +11,7 @@
 * [2024-03-25, 12:12:17](https://news.ycombinator.com/item?id=39815315) - [Boeing CEO, Many Other Top Execs To Step Down in Leadership Shakeup](https://news.slashdot.org/story/24/03/25/1211230/boeing-ceo-intends-to-step-down-in-leadership-shakeup)
 * [2024-03-25, 12:01:05](https://news.ycombinator.com/item?id=39815208) - [Spine AI (YC S23) Is Hiring for a Senior Back End Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer)
 * [2024-03-25, 11:24:39](https://news.ycombinator.com/item?id=39814877) - [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
+* [2024-03-25, 10:58:16](https://news.ycombinator.com/item?id=39814683) - [Exosuit Muscle Control Steps Closer to Reality](https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project)
 * [2024-03-25, 10:38:17](https://news.ycombinator.com/item?id=39814558) - [EU Launches Probes into Apple, Meta, Google Under New Digital Competition Law](https://www.wsj.com/tech/eu-launches-probes-into-apple-meta-google-under-new-digital-competition-law-4d383201)
 * [2024-03-25, 09:57:18](https://news.ycombinator.com/item?id=39814334) - [Friends don't let friends export to CSV](https://kaveland.no/friends-dont-let-friends-export-to-csv.html)
 * [2024-03-25, 09:28:28](https://news.ycombinator.com/item?id=39814173) - [It's a SpaceX World (Everyone Else Is Playing Catch-Up)](https://www.astralytical.com/insights/its-a-spacex-world-everyone-else-is-playing-catch-up)
