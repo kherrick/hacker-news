@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 17:00:10](https://news.ycombinator.com/item?id=39818667) - [Patterns (YC S21) is hiring to automate data reporting with LLMs](https://patterns.app/)
 * [2024-03-25, 16:24:34](https://news.ycombinator.com/item?id=39818248) - [The semiconductor industry hinges on a quartz factory in North Carolina](https://www.tomshardware.com/tech-industry/semiconductors/the-worlds-semiconductor-industry-hinges-on-a-quartz-factory-in-north-carolina)
 * [2024-03-25, 16:22:46](https://news.ycombinator.com/item?id=39818231) - [Houdini and the Art of Escape (2020)](https://www.newyorker.com/magazine/2020/03/30/harry-houdini-and-the-art-of-escape)
+* [2024-03-25, 16:14:05](https://news.ycombinator.com/item?id=39818136) - ['Is monetary policy even working?'](https://www.ft.com/content/78aecb9f-a2bb-48bb-b868-0e11ef68eddf)
 * [2024-03-25, 16:11:42](https://news.ycombinator.com/item?id=39818099) - [Anglo-Italian company says it has cracked Bitcoin. People have questions](https://www.ft.com/content/8aa731a0-5456-4121-a2f7-828ae90ed199)
 * [2024-03-25, 15:29:49](https://news.ycombinator.com/item?id=39817564) - [US salaries are surging for in-office jobs](https://www.bbc.com/worklife/article/20240322-us-salaries-higher-in-office-jobs)
 * [2024-03-25, 15:25:11](https://news.ycombinator.com/item?id=39817497) - [CFEngine's Star Trek and AI Origins (2023)](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)

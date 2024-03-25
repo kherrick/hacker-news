@@ -18,6 +18,7 @@
 * [2024-03-24, 22:08:27](https://news.ycombinator.com/item?id=39810956) - [Minecraft exploit is allowing attackers to get any Xbox/MS account banned](https://www.windowscentral.com/software-apps/minecraft-exploit-is-allowing-harassers-to-get-content-creators-xbox-accounts-banned)
 * [2024-03-24, 21:59:02](https://news.ycombinator.com/item?id=39810882) - [Cargo thefts spiked 68% in Q4, led by food and beverage freight](https://www.freightwaves.com/news/cargo-thefts-spiked-68-in-q4-led-by-food-and-beverage-freight)
 * [2024-03-24, 21:28:57](https://news.ycombinator.com/item?id=39810692) - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
+* [2024-03-24, 21:21:21](https://news.ycombinator.com/item?id=39810629) - [Catching a break: How gig workers find rest](https://restofworld.org/2024/gig-worker-rest-breaks/)
 * [2024-03-24, 21:01:09](https://news.ycombinator.com/item?id=39810493) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 * [2024-03-24, 20:41:59](https://news.ycombinator.com/item?id=39810320) - [\"She's Bouncing the Ball \" on the Uncanny Way Octopuses Play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
@@ -102,4 +103,5 @@
 * [2024-03-24, 00:39:38](https://news.ycombinator.com/item?id=39804138) - [Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
 * [2024-03-24, 00:23:20](https://news.ycombinator.com/item?id=39804063) - [Google is massively ahead in the AI battle of 2024](https://notcoding.today/blog/google-ai-monopoly)
 * [2024-03-24, 00:20:40](https://news.ycombinator.com/item?id=39804052) - [Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)
+* [2024-03-24, 00:13:05](https://news.ycombinator.com/item?id=39804004) - [TCP connection timeout mystery](https://devnonsense.com/posts/tcp-connection-timeout-mystery/)
 * [2024-03-24, 00:12:22](https://news.ycombinator.com/item?id=39803999) - [Sheets of Graph Paper Were Used to Design Super Mario Bros](https://www.archdaily.com/783657/the-sheets-of-graph-paper-they-used-to-design-super-mario-bros)
