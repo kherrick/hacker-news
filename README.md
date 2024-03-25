@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-25, 21:33:45](https://news.ycombinator.com/item?id=39821495) - [\"FB internal Thrift over HTTP\" removed my phone – how is this possible?](https://old.reddit.com/r/facebook/comments/zp7y6j/fb_internal_thrift_over_http_removed_my_phone_how/)
 * [2024-03-25, 20:26:51](https://news.ycombinator.com/item?id=39820911) - [Vast Archive of Rare Japanese Textbooks Now Online to Explore Free](https://mymodernmet.com/historic-japanese-textbooks-online/)
 * [2024-03-25, 19:35:44](https://news.ycombinator.com/item?id=39820432) - [Speeding up Azure development by not using Terraform](https://nitric.io/blog/terraform-comparison-demo)
 * [2024-03-25, 19:18:33](https://news.ycombinator.com/item?id=39820269) - [Inclusive Sans: Text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
@@ -13,7 +14,6 @@
 * [2024-03-25, 15:49:58](https://news.ycombinator.com/item?id=39817850) - [Show HN: Auto-generate an OpenAPI spec by listening to localhost](https://github.com/Adawg4/openapi-autospec)
 * [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
 * [2024-03-25, 14:30:23](https://news.ycombinator.com/item?id=39816808) - [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
-* [2024-03-25, 13:23:44](https://news.ycombinator.com/item?id=39815976) - [Show HN: Nano-web – a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
 * [2024-03-25, 13:20:20](https://news.ycombinator.com/item?id=39815936) - [Martin Scorsese's secret life as an obsessive VHS archivist](https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive)
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona’s Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
 * [2024-03-25, 12:24:46](https://news.ycombinator.com/item?id=39815429) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
