@@ -6,6 +6,7 @@
 
 * [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
 * [2024-03-25, 21:33:45](https://news.ycombinator.com/item?id=39821495) - [\"FB internal Thrift over HTTP\" removed my phone – how is this possible?](https://old.reddit.com/r/facebook/comments/zp7y6j/fb_internal_thrift_over_http_removed_my_phone_how/)
+* [2024-03-25, 21:20:58](https://news.ycombinator.com/item?id=39821400) - [Hacker fakes German minister's fingerprints using photos of her hands (2014)](https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands)
 * [2024-03-25, 20:26:51](https://news.ycombinator.com/item?id=39820911) - [Vast Archive of Rare Japanese Textbooks Now Online to Explore Free](https://mymodernmet.com/historic-japanese-textbooks-online/)
 * [2024-03-25, 20:23:20](https://news.ycombinator.com/item?id=39820872) - [Madison County, MS spends $2.7M to train comptroller about phishing, IT security](http://kingfish1935.blogspot.com/2024/03/madison-county-scammed-out-of-27-million.html)
 * [2024-03-25, 20:06:24](https://news.ycombinator.com/item?id=39820703) - [Tesla Must Give Driver-Assist Demonstration with Every US Sale](https://www.bloomberg.com/news/articles/2024-03-25/musk-orders-tesla-driver-assist-testing-before-all-new-sales)
