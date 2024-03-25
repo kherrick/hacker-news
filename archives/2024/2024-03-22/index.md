@@ -79,6 +79,7 @@
 * [2024-03-22, 08:20:47](https://news.ycombinator.com/item?id=39788456) - [Hexagons and Hilbert Curves – The Horrors of Distributed Spatial Indices](https://hivekit.io/blog/the-headaches-of-distributed-spatial-indices/)
 * [2024-03-22, 08:05:04](https://news.ycombinator.com/item?id=39788385) - [New vuln in Apple M-series allowing secret keys extraction can't be patched](https://twitter.com/kimzetter/status/1770869722760061195)
 * [2024-03-22, 07:53:38](https://news.ycombinator.com/item?id=39788322) - [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
+* [2024-03-22, 07:37:57](https://news.ycombinator.com/item?id=39788226) - [Random Walk Simulation](https://random-walk.fly.dev/)
 * [2024-03-22, 06:33:11](https://news.ycombinator.com/item?id=39787932) - [Hacker News Rankings. Graphs of HN posts rank on timeline](https://hnrankings.info)
 * [2024-03-22, 06:00:25](https://news.ycombinator.com/item?id=39787811) - [Zig Defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
 * [2024-03-22, 05:36:37](https://news.ycombinator.com/item?id=39787728) - [Gitlab confirms it's removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
