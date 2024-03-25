@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-25, 04:22:53](https://news.ycombinator.com/item?id=39812846) - [OneSignal (YC S11) Is Hiring Engineers to Build a Customer Engagement Platform](https://onesignal.com/careers#section-job)
+* [2024-03-25, 03:39:46](https://news.ycombinator.com/item?id=39812675) - [The Lost Worlds of Telnet (2019)](https://thenewstack.io/the-lost-worlds-of-telnet/)
 * [2024-03-25, 01:58:33](https://news.ycombinator.com/item?id=39812259) - [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
-* [2024-03-25, 01:39:52](https://news.ycombinator.com/item?id=39812196) - [Revert \"video: Prefer Wayland over X11 (take 2)\"](https://github.com/libsdl-org/SDL/pull/9345)
 * [2024-03-25, 01:28:34](https://news.ycombinator.com/item?id=39812124) - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
 * [2024-03-25, 01:27:46](https://news.ycombinator.com/item?id=39812122) - [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
 * [2024-03-25, 01:18:15](https://news.ycombinator.com/item?id=39812076) - [Symbolics Sunstone Development Plan (1987) [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
@@ -28,7 +28,7 @@
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Scientists have traced human tail loss to a short sequence of genetic code](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
-* [2024-03-23, 13:25:47](https://news.ycombinator.com/item?id=39799767) - [The secret weapon of Bash power users](https://opensource.net/the-secret-weapon-of-bash-power-users/)
+* [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
 * [2024-03-22, 23:00:24](https://news.ycombinator.com/item?id=39795740) - [The Enchanting Blossom Explosion of Jacaranda Trees in Mexico City](https://worldsensorium.com/purple-spring-the-enchanting-blossom-explosion-of-jacaranda-trees-in-mexico-city/)
 
 ## [Archives](archives/index.md)
