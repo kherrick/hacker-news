@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-25, 09:57:18",
-      "https://news.ycombinator.com/item?id=39814334"
-    ],
-    [
-      "Friends don't let friends export to CSV",
-      "https://kaveland.no/friends-dont-let-friends-export-to-csv.html"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 08:34:01",
       "https://news.ycombinator.com/item?id=39813883"
     ],
@@ -21,42 +11,12 @@
   ],
   [
     [
-      "2024-03-25, 08:32:49",
-      "https://news.ycombinator.com/item?id=39813874"
-    ],
-    [
-      "Tcl/Tk 9.0",
-      "https://www.tcl.tk/software/tcltk/9.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 08:17:09",
-      "https://news.ycombinator.com/item?id=39813801"
-    ],
-    [
-      "GDPR Enforcement Tracker – list of GDPR fines",
-      "https://www.enforcementtracker.com/"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 07:00:46",
       "https://news.ycombinator.com/item?id=39813399"
     ],
     [
       "Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin",
       "https://bitmovin.com/careers/senior-software-engineer-c-7093093002"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 06:22:38",
-      "https://news.ycombinator.com/item?id=39813240"
-    ],
-    [
-      "Windows 98 Icons",
-      "https://win98icons.alexmeub.com/"
     ]
   ],
   [
@@ -241,6 +201,16 @@
   ],
   [
     [
+      "2024-03-24, 17:22:01",
+      "https://news.ycombinator.com/item?id=39808616"
+    ],
+    [
+      "C++ left arrow operator (2016)",
+      "https://www.atnnn.com/p/operator-larrow/"
+    ]
+  ],
+  [
+    [
       "2024-03-24, 15:43:16",
       "https://news.ycombinator.com/item?id=39807912"
     ],
@@ -257,6 +227,16 @@
     [
       "Weather Planning for Eclipse Day",
       "https://eclipsophile.com/eclipse-day-weather/"
+    ]
+  ],
+  [
+    [
+      "2024-03-24, 10:04:55",
+      "https://news.ycombinator.com/item?id=39806139"
+    ],
+    [
+      "TinySSH is a small SSH server using NaCl, TweetNaCl",
+      "https://github.com/janmojzis/tinyssh"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-03-23, 22:34:27",
+      "https://news.ycombinator.com/item?id=39803508"
+    ],
+    [
+      "New Aztec Codices Discovered: The Codices of San Andrés Tetepilco",
+      "https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 07:37:57",
       "https://news.ycombinator.com/item?id=39788226"
     ],
     [
       "Random Walk Simulation",
       "https://random-walk.fly.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 03:54:11",
+      "https://news.ycombinator.com/item?id=39787334"
+    ],
+    [
+      "When Did Dogs Become Our Best Friends?",
+      "https://www.atlasobscura.com/articles/when-did-dogs-become-our-best-friends"
     ]
   ]
 ]
