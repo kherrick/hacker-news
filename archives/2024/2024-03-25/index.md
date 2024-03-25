@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 08:17:09](https://news.ycombinator.com/item?id=39813801) - [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
 * [2024-03-25, 07:00:46](https://news.ycombinator.com/item?id=39813399) - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
 * [2024-03-25, 06:22:38](https://news.ycombinator.com/item?id=39813240) - [Windows 98 Icons](https://win98icons.alexmeub.com/)
 * [2024-03-25, 05:28:28](https://news.ycombinator.com/item?id=39813067) - [Best engineering interview question I've gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
