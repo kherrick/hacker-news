@@ -35,6 +35,7 @@
 * [2024-03-25, 13:23:44](https://news.ycombinator.com/item?id=39815976) - [Show HN: Nano-web, a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
 * [2024-03-25, 13:08:41](https://news.ycombinator.com/item?id=39815822) - [Looking at the Atari 400 Part 1 – By Paul Lefebvre](https://www.goto10retro.com/p/looking-at-the-atari-400-part-1)
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona's famous Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
+* [2024-03-25, 12:57:33](https://news.ycombinator.com/item?id=39815731) - [60% Percent of Ohio's driver's license suspensions do not stem from bad driving](https://www.clevelandfed.org/publications/cd-reports/2024/20240228-debt-related-drivers-license-suspensions)
 * [2024-03-25, 12:36:03](https://news.ycombinator.com/item?id=39815536) - [Boeing chief executive to leave at end of 2024](https://www.bbc.co.uk/news/business-68656925)
 * [2024-03-25, 12:27:35](https://news.ycombinator.com/item?id=39815458) - [Germany's Solar Panel Industry, Once a Leader, Is Getting Squeezed](https://www.nytimes.com/2024/03/25/business/germany-solar-panels-china-protectionism.html)
 * [2024-03-25, 12:27:28](https://news.ycombinator.com/item?id=39815456) - [Ask HN: How do you find smart people without a network?](https://news.ycombinator.com/item?id=39815456)
