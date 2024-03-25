@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2024-03-25, 23:06:05",
-      "https://news.ycombinator.com/item?id=39822261"
-    ],
-    [
-      "Interoception: The inner sense driving your thoughts",
-      "https://www.bbc.com/future/article/20240322-interoception-the-mysterious-inner-sense-driving-your-emotions"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 23:00:40",
       "https://news.ycombinator.com/item?id=39822222"
     ],
     [
       "Inkjets Are for More Than Just Printing",
       "https://spectrum.ieee.org/inkjet-printer"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 23:00:39",
+      "https://news.ycombinator.com/item?id=39822221"
+    ],
+    [
+      "How Couples Meet",
+      "https://web.stanford.edu/~mrosenfe/Rosenfeld_how_hetero_couples_met_through2021v4.JPG"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Hacker fakes German minister's fingerprints using photos of her hands (2014)",
       "https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 19:35:44",
-      "https://news.ycombinator.com/item?id=39820432"
-    ],
-    [
-      "Speeding up Azure development by not using Terraform",
-      "https://nitric.io/blog/terraform-comparison-demo"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Electronic project kits: hands on with a vintage 160-in-1 (2016)",
       "https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 17:26:54",
+      "https://news.ycombinator.com/item?id=39781651"
+    ],
+    [
+      "Redis switches licenses, acquires Speedb",
+      "https://techcrunch.com/2024/03/21/redis-switches-licenses-acquires-speedb-to-go-beyond-its-core-in-memory-database/"
     ]
   ]
 ]
