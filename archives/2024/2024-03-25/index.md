@@ -6,6 +6,7 @@
 
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
+* [2024-03-25, 17:58:21](https://news.ycombinator.com/item?id=39819401) - [Stop Your Car from Spying on You](https://reason.com/2024/03/25/stop-your-car-from-spying-on-you/)
 * [2024-03-25, 17:41:40](https://news.ycombinator.com/item?id=39819212) - [X Corp vs. Center for Countering Digital Hate, Order Granting Motion to Dismiss [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.416212/gov.uscourts.cand.416212.75.0.pdf)
 * [2024-03-25, 17:36:04](https://news.ycombinator.com/item?id=39819157) - [Livebook: Elixir's Swiss Army Knife](https://www.thestackcanary.com/elixirs-secret-weapon/)
 * [2024-03-25, 17:32:52](https://news.ycombinator.com/item?id=39819110) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)

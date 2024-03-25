@@ -2,6 +2,7 @@
 
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
+* [2024-03-25, 17:58:21](https://news.ycombinator.com/item?id=39819401) - [Stop Your Car from Spying on You](https://reason.com/2024/03/25/stop-your-car-from-spying-on-you/)
 * [2024-03-25, 17:12:53](https://news.ycombinator.com/item?id=39818825) - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 * [2024-03-25, 17:00:10](https://news.ycombinator.com/item?id=39818667) - [Patterns (YC S21) is hiring to automate data reporting with LLMs](https://patterns.app/)
 * [2024-03-25, 16:49:01](https://news.ycombinator.com/item?id=39818535) - [Hotel Hotspot Hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
@@ -12,7 +13,6 @@
 * [2024-03-25, 14:30:23](https://news.ycombinator.com/item?id=39816808) - [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
 * [2024-03-25, 13:23:44](https://news.ycombinator.com/item?id=39815976) - [Show HN: Nano-web – a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona’s Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
-* [2024-03-25, 12:57:33](https://news.ycombinator.com/item?id=39815731) - [60% Percent of Ohio's driver's license suspensions do not stem from bad driving](https://www.clevelandfed.org/publications/cd-reports/2024/20240228-debt-related-drivers-license-suspensions)
 * [2024-03-25, 12:24:46](https://news.ycombinator.com/item?id=39815429) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 * [2024-03-25, 12:01:48](https://news.ycombinator.com/item?id=39815219) - [The case of a leaky goroutine](https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/)
 * [2024-03-25, 11:24:39](https://news.ycombinator.com/item?id=39814877) - [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
