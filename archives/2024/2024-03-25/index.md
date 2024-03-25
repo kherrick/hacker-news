@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 20:26:51](https://news.ycombinator.com/item?id=39820911) - [Vast Archive of Rare Japanese Textbooks Now Online to Explore Free](https://mymodernmet.com/historic-japanese-textbooks-online/)
 * [2024-03-25, 20:23:20](https://news.ycombinator.com/item?id=39820872) - [Madison County, MS spends $2.7M to train comptroller about phishing, IT security](http://kingfish1935.blogspot.com/2024/03/madison-county-scammed-out-of-27-million.html)
 * [2024-03-25, 20:06:24](https://news.ycombinator.com/item?id=39820703) - [Tesla Must Give Driver-Assist Demonstration with Every US Sale](https://www.bloomberg.com/news/articles/2024-03-25/musk-orders-tesla-driver-assist-testing-before-all-new-sales)
 * [2024-03-25, 19:58:03](https://news.ycombinator.com/item?id=39820618) - [Researchers uncover 'pornification' trend among female streamers on Twitch](https://www.psypost.org/researchers-uncover-pornification-trend-among-female-streamers-on-twitch/)
 * [2024-03-25, 19:35:44](https://news.ycombinator.com/item?id=39820432) - [Speeding up Azure development by not using Terraform](https://nitric.io/blog/terraform-comparison-demo)
+* [2024-03-25, 19:18:33](https://news.ycombinator.com/item?id=39820269) - [Inclusive Sans: Text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 * [2024-03-25, 17:58:56](https://news.ycombinator.com/item?id=39819409) - [Two open source projects with great architecture documentation](https://johnjago.com/great-docs/)
