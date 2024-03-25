@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 14:01:15](https://news.ycombinator.com/item?id=39816423) - [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
+* [2024-03-25, 13:23:44](https://news.ycombinator.com/item?id=39815976) - [Show HN: Nano-web, a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona's famous Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
 * [2024-03-25, 12:36:03](https://news.ycombinator.com/item?id=39815536) - [Boeing chief executive to leave at end of 2024](https://www.bbc.co.uk/news/business-68656925)
 * [2024-03-25, 12:27:35](https://news.ycombinator.com/item?id=39815458) - [Germany's Solar Panel Industry, Once a Leader, Is Getting Squeezed](https://www.nytimes.com/2024/03/25/business/germany-solar-panels-china-protectionism.html)
