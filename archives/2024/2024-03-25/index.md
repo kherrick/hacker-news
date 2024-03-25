@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
 * [2024-03-25, 17:00:10](https://news.ycombinator.com/item?id=39818667) - [Patterns (YC S21) is hiring to automate data reporting with LLMs](https://patterns.app/)
+* [2024-03-25, 16:28:07](https://news.ycombinator.com/item?id=39818284) - [Show HN: Versatile email infrastructure on AWS serverless](https://github.com/harryzcy/mailbox)
 * [2024-03-25, 16:24:34](https://news.ycombinator.com/item?id=39818248) - [The semiconductor industry hinges on a quartz factory in North Carolina](https://www.tomshardware.com/tech-industry/semiconductors/the-worlds-semiconductor-industry-hinges-on-a-quartz-factory-in-north-carolina)
 * [2024-03-25, 16:22:46](https://news.ycombinator.com/item?id=39818231) - [Houdini and the Art of Escape (2020)](https://www.newyorker.com/magazine/2020/03/30/harry-houdini-and-the-art-of-escape)
 * [2024-03-25, 16:14:05](https://news.ycombinator.com/item?id=39818136) - ['Is monetary policy even working?'](https://www.ft.com/content/78aecb9f-a2bb-48bb-b868-0e11ef68eddf)
