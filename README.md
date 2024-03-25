@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-25, 17:32:52](https://news.ycombinator.com/item?id=39819110) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
+* [2024-03-25, 17:41:40](https://news.ycombinator.com/item?id=39819212) - [X Corp vs. Center for Countering Digital Hate, Order Granting Motion to Dismiss [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.416212/gov.uscourts.cand.416212.75.0.pdf)
+* [2024-03-25, 17:12:53](https://news.ycombinator.com/item?id=39818825) - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 * [2024-03-25, 17:00:10](https://news.ycombinator.com/item?id=39818667) - [Patterns (YC S21) is hiring to automate data reporting with LLMs](https://patterns.app/)
 * [2024-03-25, 16:28:07](https://news.ycombinator.com/item?id=39818284) - [Show HN: Versatile email infrastructure on AWS serverless](https://github.com/harryzcy/mailbox)
 * [2024-03-25, 16:24:34](https://news.ycombinator.com/item?id=39818248) - [The semiconductor industry hinges on a quartz factory in North Carolina](https://www.tomshardware.com/tech-industry/semiconductors/the-worlds-semiconductor-industry-hinges-on-a-quartz-factory-in-north-carolina)
@@ -18,7 +19,6 @@
 * [2024-03-25, 11:24:39](https://news.ycombinator.com/item?id=39814877) - [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
 * [2024-03-25, 10:58:16](https://news.ycombinator.com/item?id=39814683) - [Exosuit Muscle Control Steps Closer to Reality](https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project)
 * [2024-03-25, 10:38:17](https://news.ycombinator.com/item?id=39814558) - [Commission opens non-compliance investigations against Alphabet, Apple and Meta](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1689)
-* [2024-03-25, 09:45:58](https://news.ycombinator.com/item?id=39814271) - [Hidden Files in C64 OS](https://www.c64os.com/post/hiddenfiles)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
 * [2024-03-25, 07:41:48](https://news.ycombinator.com/item?id=39813588) - [Turbocall – Just-in-time compiler for Deno FFI](https://divy.work/turbocall.html)
 * [2024-03-25, 07:36:08](https://news.ycombinator.com/item?id=39813560) - [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)

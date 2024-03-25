@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 17:41:40](https://news.ycombinator.com/item?id=39819212) - [X Corp vs. Center for Countering Digital Hate, Order Granting Motion to Dismiss [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.416212/gov.uscourts.cand.416212.75.0.pdf)
 * [2024-03-25, 17:32:52](https://news.ycombinator.com/item?id=39819110) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
+* [2024-03-25, 17:12:53](https://news.ycombinator.com/item?id=39818825) - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 * [2024-03-25, 17:00:10](https://news.ycombinator.com/item?id=39818667) - [Patterns (YC S21) is hiring to automate data reporting with LLMs](https://patterns.app/)
 * [2024-03-25, 16:28:07](https://news.ycombinator.com/item?id=39818284) - [Show HN: Versatile email infrastructure on AWS serverless](https://github.com/harryzcy/mailbox)
 * [2024-03-25, 16:24:34](https://news.ycombinator.com/item?id=39818248) - [The semiconductor industry hinges on a quartz factory in North Carolina](https://www.tomshardware.com/tech-industry/semiconductors/the-worlds-semiconductor-industry-hinges-on-a-quartz-factory-in-north-carolina)
