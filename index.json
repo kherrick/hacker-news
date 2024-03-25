@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-03-25, 05:18:28",
-      "https://news.ycombinator.com/item?id=39813032"
-    ],
-    [
-      "EVGA power supply kills 22TB of customer storage then denies responsibility",
-      "https://www.tomshardware.com/pc-components/power-supplies/evga-power-supply-allegedly-blows-up-22tb-of-customer-storage-revised-model-from-rma-had-a-different-pin-layout-and-killed-all-sata-powered-devices"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 04:56:24",
       "https://news.ycombinator.com/item?id=39812969"
     ],
@@ -257,6 +247,16 @@
     [
       "Weather Planning for Eclipse Day",
       "https://eclipsophile.com/eclipse-day-weather/"
+    ]
+  ],
+  [
+    [
+      "2024-03-24, 10:04:55",
+      "https://news.ycombinator.com/item?id=39806139"
+    ],
+    [
+      "TinySSH is a small SSH server using NaCl, TweetNaCl",
+      "https://github.com/janmojzis/tinyssh"
     ]
   ],
   [
