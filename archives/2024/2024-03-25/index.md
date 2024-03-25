@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 23:06:05](https://news.ycombinator.com/item?id=39822261) - [Interoception: The inner sense driving your thoughts](https://www.bbc.com/future/article/20240322-interoception-the-mysterious-inner-sense-driving-your-emotions)
+* [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets Are for More Than Just Printing](https://spectrum.ieee.org/inkjet-printer)
 * [2024-03-25, 22:19:53](https://news.ycombinator.com/item?id=39821868) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
 * [2024-03-25, 21:46:36](https://news.ycombinator.com/item?id=39821606) - [United States Cyber Force: A Defense Imperative](https://www.fdd.org/analysis/2024/03/25/united-states-cyber-force/)
