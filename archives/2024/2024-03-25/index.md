@@ -7,6 +7,7 @@
 * [2024-03-25, 14:52:48](https://news.ycombinator.com/item?id=39817067) - [UN Security Council Passes Ceasefire Resolution](https://www.nytimes.com/live/2024/03/25/world/israel-hamas-war-gaza-news)
 * [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
 * [2024-03-25, 14:32:43](https://news.ycombinator.com/item?id=39816835) - [Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
+* [2024-03-25, 14:30:23](https://news.ycombinator.com/item?id=39816808) - [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
 * [2024-03-25, 14:28:57](https://news.ycombinator.com/item?id=39816789) - [Ask HN: Tips to get started on my own server](https://news.ycombinator.com/item?id=39816789)
 * [2024-03-25, 14:11:11](https://news.ycombinator.com/item?id=39816558) - [Sexualized culture on livestreaming platforms: a content analysis of Twitch.tv](https://www.nature.com/articles/s41599-024-02724-z)
 * [2024-03-25, 14:01:15](https://news.ycombinator.com/item?id=39816423) - [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
