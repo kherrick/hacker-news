@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 17:00:10",
+      "https://news.ycombinator.com/item?id=39818667"
+    ],
+    [
+      "Patterns (YC S21) is hiring to automate data reporting with LLMs",
+      "https://patterns.app/"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 16:24:34",
       "https://news.ycombinator.com/item?id=39818248"
     ],
@@ -17,6 +27,16 @@
     [
       "Houdini and the Art of Escape (2020)",
       "https://www.newyorker.com/magazine/2020/03/30/harry-houdini-and-the-art-of-escape"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 16:14:05",
+      "https://news.ycombinator.com/item?id=39818136"
+    ],
+    [
+      "'Is monetary policy even working?'",
+      "https://www.ft.com/content/78aecb9f-a2bb-48bb-b868-0e11ef68eddf"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39815976"
     ],
     [
-      "Show HN: Nano-web, a low latency one binary webserver designed for serving SPAs",
+      "Show HN: Nano-web – a low latency one binary webserver designed for serving SPAs",
       "https://github.com/radiosilence/nano-web"
     ]
   ],
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2024-03-25, 12:24:46",
-      "https://news.ycombinator.com/item?id=39815429"
-    ],
-    [
-      "Bump Allocation: Up or Down?",
-      "https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 12:01:48",
       "https://news.ycombinator.com/item?id=39815219"
     ],
     [
-      "The Case of a Leaky Goroutine",
+      "The case of a leaky goroutine",
       "https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 12:01:05",
-      "https://news.ycombinator.com/item?id=39815208"
-    ],
-    [
-      "Spine AI (YC S23) Is Hiring for a Senior Back End Engineer",
-      "https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=39813588"
     ],
     [
-      "Turbocall – the just-in-time compiler for Deno FFI",
+      "Turbocall – Just-in-time compiler for Deno FFI",
       "https://divy.work/turbocall.html"
     ]
   ],
@@ -201,92 +201,92 @@
   ],
   [
     [
-      "2024-03-25, 07:08:21",
-      "https://news.ycombinator.com/item?id=39813438"
+      "2024-03-24, 21:21:21",
+      "https://news.ycombinator.com/item?id=39810629"
     ],
     [
-      "Opera sees big jump in EU users on iOS, Android after DMA update",
-      "https://www.bleepingcomputer.com/news/technology/opera-sees-big-jump-in-eu-users-on-ios-android-after-dma-update/"
+      "Catching a break: How gig workers find rest",
+      "https://restofworld.org/2024/gig-worker-rest-breaks/"
     ]
   ],
   [
     [
-      "2024-03-25, 04:56:24",
-      "https://news.ycombinator.com/item?id=39812969"
+      "2024-03-24, 00:13:05",
+      "https://news.ycombinator.com/item?id=39804004"
     ],
     [
-      "Why choose async/await over threads?",
-      "https://notgull.net/why-not-threads/"
+      "TCP connection timeout mystery",
+      "https://devnonsense.com/posts/tcp-connection-timeout-mystery/"
     ]
   ],
   [
     [
-      "2024-03-25, 03:35:03",
-      "https://news.ycombinator.com/item?id=39812652"
+      "2024-03-23, 23:13:55",
+      "https://news.ycombinator.com/item?id=39803703"
     ],
     [
-      "Real-time map of every Starlink satellite in orbit",
-      "https://www.starlinkmap.org/"
+      "The Eider Keepers",
+      "https://www.biographic.com/the-eider-keepers/"
     ]
   ],
   [
     [
-      "2024-03-25, 01:58:33",
-      "https://news.ycombinator.com/item?id=39812259"
+      "2024-03-23, 15:34:51",
+      "https://news.ycombinator.com/item?id=39800678"
     ],
     [
-      "Supervision: Reusable Computer Vision",
-      "https://github.com/roboflow/supervision"
+      "See a Fish? Ring the Bell",
+      "https://visdeurbel.nl/en/the-fish-doorbell/"
     ]
   ],
   [
     [
-      "2024-03-24, 22:59:07",
-      "https://news.ycombinator.com/item?id=39811298"
+      "2024-03-23, 15:15:17",
+      "https://news.ycombinator.com/item?id=39800542"
     ],
     [
-      "Port-scanning the fleet and trying to put out fires",
-      "http://rachelbythebay.com/w/2024/03/21/scan/"
+      "Using JTAG to dump parallel NOR flash",
+      "https://zetier.com/news/jtag-chain-diagram-to-dump-nor/"
     ]
   ],
   [
     [
-      "2024-03-24, 22:53:33",
-      "https://news.ycombinator.com/item?id=39811261"
+      "2024-03-23, 13:57:58",
+      "https://news.ycombinator.com/item?id=39799988"
     ],
     [
-      "DongleHider+ Framework Laptop Expansion Card",
-      "https://github.com/LeoDJ/FW-EC-DongleHiderPlus"
+      "Why fuzzing over formal verification?",
+      "https://blog.trailofbits.com/2024/03/22/why-fuzzing-over-formal-verification/"
     ]
   ],
   [
     [
-      "2024-03-24, 20:48:06",
-      "https://news.ycombinator.com/item?id=39810378"
+      "2024-03-23, 11:29:23",
+      "https://news.ycombinator.com/item?id=39799131"
     ],
     [
-      "Monolith – CLI tool for saving complete web pages as a single HTML file",
-      "https://github.com/Y2Z/monolith"
+      "Show HN: FaviconHelper",
+      "https://www.faviconhelper.com/1"
     ]
   ],
   [
     [
-      "2024-03-24, 16:50:41",
-      "https://news.ycombinator.com/item?id=39808357"
+      "2024-03-23, 07:49:45",
+      "https://news.ycombinator.com/item?id=39798225"
     ],
     [
-      "The ü/ü Conundrum",
-      "https://unravelweb.dev/2024/02/12/the-u-u-conundrum/"
+      "Repairing a buggy board arcade machine",
+      "https://philwip.com/2024/03/22/pcb-repair-speed-buggy-buggy-boy/"
     ]
   ],
   [
     [
-      "2024-03-24, 04:01:21",
-      "https://news.ycombinator.com/item?id=39805077"
+      "2024-03-23, 02:05:09",
+      "https://news.ycombinator.com/item?id=39796837"
     ],
     [
-      "The Immortal Jellyfish (2015)",
-      "https://www.amnh.org/explore/news-blogs/on-exhibit-posts/the-immortal-jellyfish"
+      "William Adams: English Advisor to the Shogun",
+      "https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39787334"
     ],
     [
-      "When Did Dogs Become Our Best Friends?",
+      "When did dogs become our best friends?",
       "https://www.atlasobscura.com/articles/when-did-dogs-become-our-best-friends"
     ]
   ]
