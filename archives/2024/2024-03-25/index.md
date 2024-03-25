@@ -14,6 +14,8 @@
 * [2024-03-25, 15:13:44](https://news.ycombinator.com/item?id=39817340) - [EU rejects Apple's changes: Company could be fined 10% of global turnover](https://9to5mac.com/2024/03/25/app-store-proposals-rejected/)
 * [2024-03-25, 15:07:35](https://news.ycombinator.com/item?id=39817243) - [United States vs. Apple](https://stratechery.com/2024/united-states-v-apple/)
 * [2024-03-25, 14:52:48](https://news.ycombinator.com/item?id=39817067) - [UN Security Council Passes Ceasefire Resolution](https://www.nytimes.com/live/2024/03/25/world/israel-hamas-war-gaza-news)
+* [2024-03-25, 14:51:24](https://news.ycombinator.com/item?id=39817049) - [What techies keep getting wrong about industrial automation](https://hivekit.io/blog/what-techies-get-wrong-about-industrial-automation/)
+* [2024-03-25, 14:50:21](https://news.ycombinator.com/item?id=39817026) - [From full-stack development to systems programming](https://ochagavia.nl/blog/from-full-stack-development-to-systems-programming/)
 * [2024-03-25, 14:48:06](https://news.ycombinator.com/item?id=39817008) - [Boeing CEO Dave Calhoun to Step Down in Wake of 737 MAX Struggles](https://www.wsj.com/business/airlines/boeing-ceo-dave-calhoun-to-step-down-at-end-of-year-16917c94)
 * [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
 * [2024-03-25, 14:32:43](https://news.ycombinator.com/item?id=39816835) - [Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
