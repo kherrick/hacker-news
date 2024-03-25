@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-25, 20:06:24](https://news.ycombinator.com/item?id=39820703) - [Tesla Must Give Driver-Assist Demonstration with Every US Sale](https://www.bloomberg.com/news/articles/2024-03-25/musk-orders-tesla-driver-assist-testing-before-all-new-sales)
 * [2024-03-25, 19:35:44](https://news.ycombinator.com/item?id=39820432) - [Speeding up Azure development by not using Terraform](https://nitric.io/blog/terraform-comparison-demo)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
@@ -16,7 +15,8 @@
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona’s Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
 * [2024-03-25, 12:24:46](https://news.ycombinator.com/item?id=39815429) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 * [2024-03-25, 12:01:48](https://news.ycombinator.com/item?id=39815219) - [The case of a leaky goroutine](https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/)
-* [2024-03-25, 10:58:16](https://news.ycombinator.com/item?id=39814683) - [Exosuit Muscle Control Steps Closer to Reality](https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project)
+* [2024-03-25, 11:24:39](https://news.ycombinator.com/item?id=39814877) - [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
+* [2024-03-25, 10:58:16](https://news.ycombinator.com/item?id=39814683) - [Exosuit muscle control steps closer to reality](https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project)
 * [2024-03-25, 10:38:17](https://news.ycombinator.com/item?id=39814558) - [Commission opens non-compliance investigations against Alphabet, Apple and Meta](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1689)
 * [2024-03-25, 09:45:58](https://news.ycombinator.com/item?id=39814271) - [Hidden Files in C64 OS](https://www.c64os.com/post/hiddenfiles)
 * [2024-03-25, 07:41:48](https://news.ycombinator.com/item?id=39813588) - [Turbocall – Just-in-time compiler for Deno FFI](https://divy.work/turbocall.html)
