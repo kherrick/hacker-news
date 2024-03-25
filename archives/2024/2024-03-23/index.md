@@ -46,6 +46,7 @@
 * [2024-03-23, 16:10:47](https://news.ycombinator.com/item?id=39800915) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 16:01:13](https://news.ycombinator.com/item?id=39800844) - [The Lunduke Journal has been banned from YouTube](https://lunduke.locals.com/post/5423131/the-lunduke-journal-has-been-banned-from-youtube)
 * [2024-03-23, 15:58:30](https://news.ycombinator.com/item?id=39800821) - [Reverse DNS IPv4 Map](https://reversedns.space/)
+* [2024-03-23, 15:53:27](https://news.ycombinator.com/item?id=39800788) - [What Happens on Gitlab When You do Git push](https://nanmu.me/en/posts/2022/what-happens-on-gitlab-when-you-do-git-push/)
 * [2024-03-23, 15:52:20](https://news.ycombinator.com/item?id=39800779) - [Google will start showing AI-powered search results for users who didn't opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
 * [2024-03-23, 15:47:02](https://news.ycombinator.com/item?id=39800751) - [Coffee associated w reduced risk of colorectal cancer return/all-cause mortality](https://onlinelibrary.wiley.com/doi/10.1002/ijc.34879)
 * [2024-03-23, 15:43:34](https://news.ycombinator.com/item?id=39800732) - [The \"Reitoff principle\": Why you should add \"nothing\" to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
