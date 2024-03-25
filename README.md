@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-25, 15:29:49](https://news.ycombinator.com/item?id=39817564) - [US salaries are surging for in-office jobs](https://www.bbc.com/worklife/article/20240322-us-salaries-higher-in-office-jobs)
 * [2024-03-25, 15:13:44](https://news.ycombinator.com/item?id=39817340) - [EU rejects Apple's changes: Company could be fined 10% of global turnover](https://9to5mac.com/2024/03/25/app-store-proposals-rejected/)
 * [2024-03-25, 15:07:35](https://news.ycombinator.com/item?id=39817243) - [United States vs. Apple](https://stratechery.com/2024/united-states-v-apple/)
 * [2024-03-25, 14:48:06](https://news.ycombinator.com/item?id=39817008) - [Boeing CEO Dave Calhoun to Step Down in Wake of 737 MAX Struggles](https://www.wsj.com/business/airlines/boeing-ceo-dave-calhoun-to-step-down-at-end-of-year-16917c94)
@@ -14,7 +15,6 @@
 * [2024-03-25, 12:01:05](https://news.ycombinator.com/item?id=39815208) - [Spine AI (YC S23) Is Hiring for a Senior Back End Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer)
 * [2024-03-25, 11:24:39](https://news.ycombinator.com/item?id=39814877) - [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
 * [2024-03-25, 10:58:16](https://news.ycombinator.com/item?id=39814683) - [Exosuit Muscle Control Steps Closer to Reality](https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project)
-* [2024-03-25, 10:38:17](https://news.ycombinator.com/item?id=39814558) - [Commission opens non-compliance investigations against Alphabet, Apple and Meta](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1689)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
 * [2024-03-25, 07:41:48](https://news.ycombinator.com/item?id=39813588) - [Turbocall – the just-in-time compiler for Deno FFI](https://divy.work/turbocall.html)
 * [2024-03-25, 07:08:21](https://news.ycombinator.com/item?id=39813438) - [Opera sees big jump in EU users on iOS, Android after DMA update](https://www.bleepingcomputer.com/news/technology/opera-sees-big-jump-in-eu-users-on-ios-android-after-dma-update/)
