@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-25, 01:28:34](https://news.ycombinator.com/item?id=39812124) - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
 * [2024-03-25, 01:27:46](https://news.ycombinator.com/item?id=39812122) - [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
 * [2024-03-25, 01:18:15](https://news.ycombinator.com/item?id=39812076) - [Symbolics Sunstone Development Plan (1987) [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
 * [2024-03-24, 23:52:03](https://news.ycombinator.com/item?id=39811604) - [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
@@ -7,7 +8,6 @@
 * [2024-03-24, 22:57:03](https://news.ycombinator.com/item?id=39811287) - [Do artifacts have politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 * [2024-03-24, 22:53:25](https://news.ycombinator.com/item?id=39811260) - [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
 * [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [Large Language Models' Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
-* [2024-03-24, 22:08:27](https://news.ycombinator.com/item?id=39810956) - [Minecraft exploit is allowing attackers to get any Xbox/MS account banned](https://www.windowscentral.com/software-apps/minecraft-exploit-is-allowing-harassers-to-get-content-creators-xbox-accounts-banned)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 * [2024-03-24, 20:41:59](https://news.ycombinator.com/item?id=39810320) - [\"She's bouncing the ball\" – the uncanny way octopuses play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
 * [2024-03-24, 20:38:22](https://news.ycombinator.com/item?id=39810282) - [The Lone Volcano in California's Central Valley](https://www.nytimes.com/2024/03/21/us/the-lone-volcano-in-californias-central-valley.html)
