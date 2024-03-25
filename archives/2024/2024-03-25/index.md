@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 09:57:18](https://news.ycombinator.com/item?id=39814334) - [Friends don't let friends export to CSV](https://kaveland.no/friends-dont-let-friends-export-to-csv.html)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
 * [2024-03-25, 08:17:09](https://news.ycombinator.com/item?id=39813801) - [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
 * [2024-03-25, 07:00:46](https://news.ycombinator.com/item?id=39813399) - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
