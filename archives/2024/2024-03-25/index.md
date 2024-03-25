@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 07:00:46](https://news.ycombinator.com/item?id=39813399) - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
 * [2024-03-25, 06:22:38](https://news.ycombinator.com/item?id=39813240) - [Windows 98 Icons](https://win98icons.alexmeub.com/)
 * [2024-03-25, 05:28:28](https://news.ycombinator.com/item?id=39813067) - [Best engineering interview question I've gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
 * [2024-03-25, 05:27:19](https://news.ycombinator.com/item?id=39813060) - [GM stops sharing driver data with brokers amid backlash](https://arstechnica.com/cars/2024/03/gm-stops-sharing-driver-data-with-brokers-amid-backlash/)
+* [2024-03-25, 05:18:28](https://news.ycombinator.com/item?id=39813032) - [EVGA power supply kills 22TB of customer storage then denies responsibility](https://www.tomshardware.com/pc-components/power-supplies/evga-power-supply-allegedly-blows-up-22tb-of-customer-storage-revised-model-from-rma-had-a-different-pin-layout-and-killed-all-sata-powered-devices)
 * [2024-03-25, 04:56:24](https://news.ycombinator.com/item?id=39812969) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 04:40:26](https://news.ycombinator.com/item?id=39812917) - [Context: The Missing Feature of Programming Languages](https://medium.com/source-and-buggy/context-the-missing-feature-of-programming-languages-7c1095fe8d32)
 * [2024-03-25, 04:22:53](https://news.ycombinator.com/item?id=39812846) - [OneSignal (YC S11) Is Hiring Engineers to Build a Customer Engagement Platform](https://onesignal.com/careers#section-job)
