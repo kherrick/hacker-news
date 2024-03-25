@@ -1,11 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-25, 09:57:18](https://news.ycombinator.com/item?id=39814334) - [Friends don't let friends export to CSV](https://kaveland.no/friends-dont-let-friends-export-to-csv.html)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
-* [2024-03-25, 08:32:49](https://news.ycombinator.com/item?id=39813874) - [Tcl/Tk 9.0](https://www.tcl.tk/software/tcltk/9.0.html)
-* [2024-03-25, 08:17:09](https://news.ycombinator.com/item?id=39813801) - [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
 * [2024-03-25, 07:00:46](https://news.ycombinator.com/item?id=39813399) - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
-* [2024-03-25, 06:22:38](https://news.ycombinator.com/item?id=39813240) - [Windows 98 Icons](https://win98icons.alexmeub.com/)
 * [2024-03-25, 05:28:28](https://news.ycombinator.com/item?id=39813067) - [Best engineering interview question I've gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
 * [2024-03-25, 05:27:19](https://news.ycombinator.com/item?id=39813060) - [GM stops sharing driver data with brokers amid backlash](https://arstechnica.com/cars/2024/03/gm-stops-sharing-driver-data-with-brokers-amid-backlash/)
 * [2024-03-25, 04:56:24](https://news.ycombinator.com/item?id=39812969) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
@@ -24,12 +20,16 @@
 * [2024-03-24, 20:41:59](https://news.ycombinator.com/item?id=39810320) - [\"She's bouncing the ball\" – the uncanny way octopuses play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
 * [2024-03-24, 20:38:22](https://news.ycombinator.com/item?id=39810282) - [The Lone Volcano in California's Central Valley](https://www.nytimes.com/2024/03/21/us/the-lone-volcano-in-californias-central-valley.html)
 * [2024-03-24, 18:54:47](https://news.ycombinator.com/item?id=39809323) - [Gerbil Scheme – A Lisp for the 21st Century](https://cons.io/)
+* [2024-03-24, 17:22:01](https://news.ycombinator.com/item?id=39808616) - [C++ left arrow operator (2016)](https://www.atnnn.com/p/operator-larrow/)
 * [2024-03-24, 15:43:16](https://news.ycombinator.com/item?id=39807912) - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
 * [2024-03-24, 14:31:45](https://news.ycombinator.com/item?id=39807463) - [Weather Planning for Eclipse Day](https://eclipsophile.com/eclipse-day-weather/)
+* [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Scientists have traced human tail loss to a short sequence of genetic code](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
 * [2024-03-24, 04:01:21](https://news.ycombinator.com/item?id=39805077) - [The Immortal Jellyfish (2015)](https://www.amnh.org/explore/news-blogs/on-exhibit-posts/the-immortal-jellyfish)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
+* [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
 * [2024-03-22, 07:37:57](https://news.ycombinator.com/item?id=39788226) - [Random Walk Simulation](https://random-walk.fly.dev/)
+* [2024-03-22, 03:54:11](https://news.ycombinator.com/item?id=39787334) - [When Did Dogs Become Our Best Friends?](https://www.atlasobscura.com/articles/when-did-dogs-become-our-best-friends)
 
 ## [Archives](archives/index.md)
 

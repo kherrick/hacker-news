@@ -85,6 +85,7 @@
 * [2024-03-22, 05:36:37](https://news.ycombinator.com/item?id=39787728) - [Gitlab confirms it's removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
 * [2024-03-22, 05:11:20](https://news.ycombinator.com/item?id=39787642) - [Thiel Foundation Announces Next Thiel Fellow Class](https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class)
 * [2024-03-22, 04:48:01](https://news.ycombinator.com/item?id=39787559) - [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
+* [2024-03-22, 03:54:11](https://news.ycombinator.com/item?id=39787334) - [When Did Dogs Become Our Best Friends?](https://www.atlasobscura.com/articles/when-did-dogs-become-our-best-friends)
 * [2024-03-22, 03:39:30](https://news.ycombinator.com/item?id=39787251) - [Stanford Math-Education Expert Has 'Reckless Disregard for Accuracy'](https://www.chronicle.com/article/stanford-math-education-expert-has-reckless-disregard-for-accuracy-complaint-alleges)
 * [2024-03-22, 03:25:13](https://news.ycombinator.com/item?id=39787176) - [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 * [2024-03-22, 03:22:31](https://news.ycombinator.com/item?id=39787165) - [Ask HN: Anyone looking for contributors for their open source projects](https://news.ycombinator.com/item?id=39787165)
