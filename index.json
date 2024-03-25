@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-03-25, 12:22:47",
+      "https://news.ycombinator.com/item?id=39815408"
+    ],
+    [
+      "Boeing CEO Calhoun to step down at end of 2024",
+      "https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 12:17:57",
+      "https://news.ycombinator.com/item?id=39815362"
+    ],
+    [
+      "Step aside, influencers – we're now in the era of de-influencing",
+      "https://www.npr.org/2024/03/25/1239897929/influencers-deinfluencing-tiktok-instagram-shopping-environment"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 12:12:17",
+      "https://news.ycombinator.com/item?id=39815315"
+    ],
+    [
+      "Boeing CEO, Many Other Top Execs To Step Down in Leadership Shakeup",
+      "https://news.slashdot.org/story/24/03/25/1211230/boeing-ceo-intends-to-step-down-in-leadership-shakeup"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 12:01:05",
       "https://news.ycombinator.com/item?id=39815208"
     ],
@@ -37,16 +67,6 @@
     [
       "Pyenv – lets you easily switch between multiple versions of Python",
       "https://github.com/pyenv/pyenv"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 08:16:23",
-      "https://news.ycombinator.com/item?id=39813798"
-    ],
-    [
-      "Microsoft reuses its OpenAI playbook with Inflection takeover",
-      "https://www.theverge.com/2024/3/22/24109260/microsoft-openai-playbook-inflection-ai"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-03-24, 17:22:01",
-      "https://news.ycombinator.com/item?id=39808616"
-    ],
-    [
-      "C++ left arrow operator (2016)",
-      "https://www.atnnn.com/p/operator-larrow/"
-    ]
-  ],
-  [
-    [
       "2024-03-24, 15:43:16",
       "https://news.ycombinator.com/item?id=39807912"
     ],
@@ -237,16 +247,6 @@
     [
       "TinySSH is a small SSH server using NaCl, TweetNaCl",
       "https://github.com/janmojzis/tinyssh"
-    ]
-  ],
-  [
-    [
-      "2024-03-24, 07:17:28",
-      "https://news.ycombinator.com/item?id=39805591"
-    ],
-    [
-      "Lezer: A parsing system for CodeMirror, inspired by Tree-sitter",
-      "https://marijnhaverbeke.nl/blog/lezer.html"
     ]
   ],
   [
