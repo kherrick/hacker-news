@@ -21,6 +21,7 @@
 * [2024-03-24, 16:18:07](https://news.ycombinator.com/item?id=39808104) - [The Mirror (Godot bashed game engine)](https://github.com/the-mirror-gdp/the-mirror)
 * [2024-03-24, 15:43:16](https://news.ycombinator.com/item?id=39807912) - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
 * [2024-03-24, 15:19:27](https://news.ycombinator.com/item?id=39807759) - ['Super memory': Why Emily Nash is sharing her brain with science](https://www.ctvnews.ca/w5/why-18-year-old-canadian-emily-nash-is-sharing-her-unique-brain-with-science-1.6818765)
+* [2024-03-24, 14:51:49](https://news.ycombinator.com/item?id=39807588) - [Zeal OS](https://github.com/Zeal-Operating-System/ZealOS)
 * [2024-03-24, 14:31:45](https://news.ycombinator.com/item?id=39807463) - [Weather Planning for Eclipse Day](https://eclipsophile.com/eclipse-day-weather/)
 * [2024-03-24, 12:16:46](https://news.ycombinator.com/item?id=39806746) - [ARM64EC (and ARM64X) Explained](http://www.emulators.com/docs/abc_arm64ec_explained.htm)
 * [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
@@ -28,7 +29,6 @@
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Scientists have traced human tail loss to a short sequence of genetic code](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
-* [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
 * [2024-03-22, 23:00:24](https://news.ycombinator.com/item?id=39795740) - [The Enchanting Blossom Explosion of Jacaranda Trees in Mexico City](https://worldsensorium.com/purple-spring-the-enchanting-blossom-explosion-of-jacaranda-trees-in-mexico-city/)
 
 ## [Archives](archives/index.md)
