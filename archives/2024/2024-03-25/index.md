@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 * [2024-03-25, 17:41:40](https://news.ycombinator.com/item?id=39819212) - [X Corp vs. Center for Countering Digital Hate, Order Granting Motion to Dismiss [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.416212/gov.uscourts.cand.416212.75.0.pdf)
 * [2024-03-25, 17:36:04](https://news.ycombinator.com/item?id=39819157) - [Livebook: Elixir's Swiss Army Knife](https://www.thestackcanary.com/elixirs-secret-weapon/)
@@ -32,6 +33,7 @@
 * [2024-03-25, 14:11:11](https://news.ycombinator.com/item?id=39816558) - [Sexualized culture on livestreaming platforms: a content analysis of Twitch.tv](https://www.nature.com/articles/s41599-024-02724-z)
 * [2024-03-25, 14:01:15](https://news.ycombinator.com/item?id=39816423) - [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
 * [2024-03-25, 13:23:44](https://news.ycombinator.com/item?id=39815976) - [Show HN: Nano-web, a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
+* [2024-03-25, 13:08:41](https://news.ycombinator.com/item?id=39815822) - [Looking at the Atari 400 Part 1 – By Paul Lefebvre](https://www.goto10retro.com/p/looking-at-the-atari-400-part-1)
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona's famous Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
 * [2024-03-25, 12:36:03](https://news.ycombinator.com/item?id=39815536) - [Boeing chief executive to leave at end of 2024](https://www.bbc.co.uk/news/business-68656925)
 * [2024-03-25, 12:27:35](https://news.ycombinator.com/item?id=39815458) - [Germany's Solar Panel Industry, Once a Leader, Is Getting Squeezed](https://www.nytimes.com/2024/03/25/business/germany-solar-panels-china-protectionism.html)
