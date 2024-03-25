@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-25, 20:06:24",
+      "https://news.ycombinator.com/item?id=39820703"
+    ],
+    [
+      "Tesla Must Give Driver-Assist Demonstration with Every US Sale",
+      "https://www.bloomberg.com/news/articles/2024-03-25/musk-orders-tesla-driver-assist-testing-before-all-new-sales"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 19:35:44",
+      "https://news.ycombinator.com/item?id=39820432"
+    ],
+    [
+      "Speeding up Azure development by not using Terraform",
+      "https://nitric.io/blog/terraform-comparison-demo"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 18:20:05",
       "https://news.ycombinator.com/item?id=39819599"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-03-25, 17:58:21",
-      "https://news.ycombinator.com/item?id=39819401"
+      "2024-03-25, 17:58:56",
+      "https://news.ycombinator.com/item?id=39819409"
     ],
     [
-      "Stop Your Car from Spying on You",
-      "https://reason.com/2024/03/25/stop-your-car-from-spying-on-you/"
+      "Two open source projects with great architecture documentation",
+      "https://johnjago.com/great-docs/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Patterns (YC S21) is hiring to automate data reporting with LLMs",
       "https://patterns.app/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 16:49:01",
-      "https://news.ycombinator.com/item?id=39818535"
-    ],
-    [
-      "Hotel Hotspot Hijinks",
-      "https://peateasea.de/hotel-hotspot-hijinks/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "The case of a leaky goroutine",
       "https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 11:24:39",
-      "https://news.ycombinator.com/item?id=39814877"
-    ],
-    [
-      "SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL",
-      "https://github.com/pg-sharding/spqr/discussions/569"
     ]
   ],
   [
