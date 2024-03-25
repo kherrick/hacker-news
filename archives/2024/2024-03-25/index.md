@@ -24,6 +24,7 @@
 * [2024-03-25, 08:25:16](https://news.ycombinator.com/item?id=39813843) - [Lumen: A Lisp for Lua and JavaScript](https://github.com/sctb/lumen)
 * [2024-03-25, 08:17:09](https://news.ycombinator.com/item?id=39813801) - [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
 * [2024-03-25, 08:16:23](https://news.ycombinator.com/item?id=39813798) - [Microsoft reuses its OpenAI playbook with Inflection takeover](https://www.theverge.com/2024/3/22/24109260/microsoft-openai-playbook-inflection-ai)
+* [2024-03-25, 07:08:21](https://news.ycombinator.com/item?id=39813438) - [Opera sees big jump in EU users on iOS, Android after DMA update](https://www.bleepingcomputer.com/news/technology/opera-sees-big-jump-in-eu-users-on-ios-android-after-dma-update/)
 * [2024-03-25, 07:00:46](https://news.ycombinator.com/item?id=39813399) - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
 * [2024-03-25, 06:22:38](https://news.ycombinator.com/item?id=39813240) - [Windows 98 Icons](https://win98icons.alexmeub.com/)
 * [2024-03-25, 05:28:28](https://news.ycombinator.com/item?id=39813067) - [Best engineering interview question I've gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)

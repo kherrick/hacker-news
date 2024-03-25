@@ -9,7 +9,7 @@
 * [2024-03-25, 10:38:17](https://news.ycombinator.com/item?id=39814558) - [Commission opens non-compliance investigations against Alphabet, Apple and Meta](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1689)
 * [2024-03-25, 10:23:59](https://news.ycombinator.com/item?id=39814468) - [Live Starlink Constellation and Map](https://satellitemap.space/?constellation=starlink)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
-* [2024-03-25, 08:25:16](https://news.ycombinator.com/item?id=39813843) - [Lumen: A Lisp for Lua and JavaScript](https://github.com/sctb/lumen)
+* [2024-03-25, 07:08:21](https://news.ycombinator.com/item?id=39813438) - [Opera sees big jump in EU users on iOS, Android after DMA update](https://www.bleepingcomputer.com/news/technology/opera-sees-big-jump-in-eu-users-on-ios-android-after-dma-update/)
 * [2024-03-25, 04:56:24](https://news.ycombinator.com/item?id=39812969) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 04:40:26](https://news.ycombinator.com/item?id=39812917) - [Context: The Missing Feature of Programming Languages](https://medium.com/source-and-buggy/context-the-missing-feature-of-programming-languages-7c1095fe8d32)
 * [2024-03-25, 03:39:46](https://news.ycombinator.com/item?id=39812675) - [The Lost Worlds of Telnet (2019)](https://thenewstack.io/the-lost-worlds-of-telnet/)
