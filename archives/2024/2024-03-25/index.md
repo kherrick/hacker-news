@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 10:38:17](https://news.ycombinator.com/item?id=39814558) - [EU Launches Probes into Apple, Meta, Google Under New Digital Competition Law](https://www.wsj.com/tech/eu-launches-probes-into-apple-meta-google-under-new-digital-competition-law-4d383201)
 * [2024-03-25, 09:57:18](https://news.ycombinator.com/item?id=39814334) - [Friends don't let friends export to CSV](https://kaveland.no/friends-dont-let-friends-export-to-csv.html)
+* [2024-03-25, 09:28:28](https://news.ycombinator.com/item?id=39814173) - [It's a SpaceX World (Everyone Else Is Playing Catch-Up)](https://www.astralytical.com/insights/its-a-spacex-world-everyone-else-is-playing-catch-up)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
 * [2024-03-25, 08:32:49](https://news.ycombinator.com/item?id=39813874) - [Tcl/Tk 9.0](https://www.tcl.tk/software/tcltk/9.0.html)
 * [2024-03-25, 08:17:09](https://news.ycombinator.com/item?id=39813801) - [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
