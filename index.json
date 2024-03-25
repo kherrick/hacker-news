@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 18:20:05",
+      "https://news.ycombinator.com/item?id=39819599"
+    ],
+    [
+      "ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms",
+      "https://comsec.ethz.ch/research/dram/zenhammer/"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 18:05:07",
       "https://news.ycombinator.com/item?id=39819458"
     ],
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2024-03-25, 14:50:21",
-      "https://news.ycombinator.com/item?id=39817026"
-    ],
-    [
-      "From full-stack development to systems programming",
-      "https://ochagavia.nl/blog/from-full-stack-development-to-systems-programming/"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 14:32:46",
       "https://news.ycombinator.com/item?id=39816836"
     ],
     [
       "Show HN: Jampack – Optimizes static websites as a post-processing step",
       "https://github.com/divriots/jampack"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 14:32:43",
-      "https://news.ycombinator.com/item?id=39816835"
-    ],
-    [
-      "Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses",
-      "https://github.com/Mechazawa/103-early-anti-adblock"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Show HN: Nano-web – a low latency one binary webserver designed for serving SPAs",
       "https://github.com/radiosilence/nano-web"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 13:08:41",
+      "https://news.ycombinator.com/item?id=39815822"
+    ],
+    [
+      "Looking at the Atari 400 Part 1 – By Paul Lefebvre",
+      "https://www.goto10retro.com/p/looking-at-the-atari-400-part-1"
     ]
   ],
   [
