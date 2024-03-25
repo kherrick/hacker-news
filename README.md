@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-25, 17:32:52](https://news.ycombinator.com/item?id=39819110) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
 * [2024-03-25, 17:00:10](https://news.ycombinator.com/item?id=39818667) - [Patterns (YC S21) is hiring to automate data reporting with LLMs](https://patterns.app/)
 * [2024-03-25, 16:28:07](https://news.ycombinator.com/item?id=39818284) - [Show HN: Versatile email infrastructure on AWS serverless](https://github.com/harryzcy/mailbox)
 * [2024-03-25, 16:24:34](https://news.ycombinator.com/item?id=39818248) - [The semiconductor industry hinges on a quartz factory in North Carolina](https://www.tomshardware.com/tech-industry/semiconductors/the-worlds-semiconductor-industry-hinges-on-a-quartz-factory-in-north-carolina)
@@ -26,7 +27,6 @@
 * [2024-03-23, 15:34:51](https://news.ycombinator.com/item?id=39800678) - [See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
 * [2024-03-23, 15:15:17](https://news.ycombinator.com/item?id=39800542) - [Using JTAG to dump parallel NOR flash](https://zetier.com/news/jtag-chain-diagram-to-dump-nor/)
 * [2024-03-23, 13:57:58](https://news.ycombinator.com/item?id=39799988) - [Why fuzzing over formal verification?](https://blog.trailofbits.com/2024/03/22/why-fuzzing-over-formal-verification/)
-* [2024-03-23, 11:29:23](https://news.ycombinator.com/item?id=39799131) - [Show HN: FaviconHelper](https://www.faviconhelper.com/1)
 * [2024-03-23, 07:49:45](https://news.ycombinator.com/item?id=39798225) - [Repairing a buggy board arcade machine](https://philwip.com/2024/03/22/pcb-repair-speed-buggy-buggy-boy/)
 * [2024-03-23, 02:05:09](https://news.ycombinator.com/item?id=39796837) - [William Adams: English Advisor to the Shogun](https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun)
 * [2024-03-22, 03:54:11](https://news.ycombinator.com/item?id=39787334) - [When did dogs become our best friends?](https://www.atlasobscura.com/articles/when-did-dogs-become-our-best-friends)
