@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-25, 20:06:24",
-      "https://news.ycombinator.com/item?id=39820703"
-    ],
-    [
-      "Tesla Must Give Driver-Assist Demonstration with Every US Sale",
-      "https://www.bloomberg.com/news/articles/2024-03-25/musk-orders-tesla-driver-assist-testing-before-all-new-sales"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 19:35:44",
       "https://news.ycombinator.com/item?id=39820432"
     ],
@@ -161,11 +151,21 @@
   ],
   [
     [
+      "2024-03-25, 11:24:39",
+      "https://news.ycombinator.com/item?id=39814877"
+    ],
+    [
+      "SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL",
+      "https://github.com/pg-sharding/spqr/discussions/569"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 10:58:16",
       "https://news.ycombinator.com/item?id=39814683"
     ],
     [
-      "Exosuit Muscle Control Steps Closer to Reality",
+      "Exosuit muscle control steps closer to reality",
       "https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project"
     ]
   ],
