@@ -9,6 +9,7 @@
 * [2024-03-24, 22:57:03](https://news.ycombinator.com/item?id=39811287) - [Do Artifacts Have Politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 * [2024-03-24, 22:56:07](https://news.ycombinator.com/item?id=39811280) - [Tiny-autodiff: A tiny autograd library in D](https://code.dlang.org/packages/tiny-autodiff)
 * [2024-03-24, 22:53:25](https://news.ycombinator.com/item?id=39811260) - [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
+* [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [“Emergent” abilities in LLMs actually develop gradually and predictably – study](https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/)
 * [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [Large Language Models' Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
 * [2024-03-24, 22:22:34](https://news.ycombinator.com/item?id=39811043) - [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)
 * [2024-03-24, 22:11:33](https://news.ycombinator.com/item?id=39810979) - ['Quantum tornado' allows scientists to mimic a black hole on Earth](https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero)

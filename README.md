@@ -10,7 +10,7 @@
 * [2024-03-24, 22:57:41](https://news.ycombinator.com/item?id=39811291) - [Moving Back to London and 2023 Review](https://mccormick.cx/news/entries/moving-back-to-london-2023-review)
 * [2024-03-24, 22:57:03](https://news.ycombinator.com/item?id=39811287) - [Do artifacts have politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 * [2024-03-24, 22:53:25](https://news.ycombinator.com/item?id=39811260) - [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
-* [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [Large Language Models' Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
+* [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [“Emergent” abilities in LLMs actually develop gradually and predictably – study](https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 * [2024-03-24, 20:41:59](https://news.ycombinator.com/item?id=39810320) - [\"She's bouncing the ball\" – the uncanny way octopuses play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
 * [2024-03-24, 20:38:22](https://news.ycombinator.com/item?id=39810282) - [The Lone Volcano in California's Central Valley](https://www.nytimes.com/2024/03/21/us/the-lone-volcano-in-californias-central-valley.html)
@@ -28,7 +28,7 @@
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Scientists have traced human tail loss to a short sequence of genetic code](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
-* [2024-03-23, 11:31:27](https://news.ycombinator.com/item?id=39799137) - [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
+* [2024-03-23, 13:25:47](https://news.ycombinator.com/item?id=39799767) - [The secret weapon of Bash power users](https://opensource.net/the-secret-weapon-of-bash-power-users/)
 * [2024-03-22, 23:00:24](https://news.ycombinator.com/item?id=39795740) - [The Enchanting Blossom Explosion of Jacaranda Trees in Mexico City](https://worldsensorium.com/purple-spring-the-enchanting-blossom-explosion-of-jacaranda-trees-in-mexico-city/)
 
 ## [Archives](archives/index.md)
