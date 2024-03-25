@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-25, 17:41:40",
-      "https://news.ycombinator.com/item?id=39819212"
+      "2024-03-25, 17:36:04",
+      "https://news.ycombinator.com/item?id=39819157"
     ],
     [
-      "X Corp vs. Center for Countering Digital Hate, Order Granting Motion to Dismiss [pdf]",
-      "https://storage.courtlistener.com/recap/gov.uscourts.cand.416212/gov.uscourts.cand.416212.75.0.pdf"
+      "Livebook: Elixir's Swiss Army Knife",
+      "https://www.thestackcanary.com/elixirs-secret-weapon/"
     ]
   ],
   [
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2024-03-25, 15:25:11",
-      "https://news.ycombinator.com/item?id=39817497"
+      "2024-03-25, 15:49:58",
+      "https://news.ycombinator.com/item?id=39817850"
     ],
     [
-      "CFEngine's Star Trek and AI Origins (2023)",
-      "https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b"
+      "Show HN: Auto-generate an OpenAPI spec by listening to localhost",
+      "https://github.com/Adawg4/openapi-autospec"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-03-25, 12:24:46",
-      "https://news.ycombinator.com/item?id=39815429"
-    ],
-    [
-      "Bump Allocation: Up or Down?",
-      "https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 12:01:48",
       "https://news.ycombinator.com/item?id=39815219"
     ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2024-03-25, 08:34:01",
-      "https://news.ycombinator.com/item?id=39813883"
-    ],
-    [
-      "Pyenv – lets you easily switch between multiple versions of Python",
-      "https://github.com/pyenv/pyenv"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 07:41:48",
       "https://news.ycombinator.com/item?id=39813588"
     ],
@@ -217,6 +197,16 @@
     [
       "Ugly Avatar",
       "https://txstc55.github.io/ugly-avatar/"
+    ]
+  ],
+  [
+    [
+      "2024-03-24, 03:45:59",
+      "https://news.ycombinator.com/item?id=39805021"
+    ],
+    [
+      "Velox: Meta's Unified Execution Engine [pdf]",
+      "https://www.eecs.umich.edu/courses/eecs584/static_files/papers/p3372-pedreira.pdf"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Why fuzzing over formal verification?",
       "https://blog.trailofbits.com/2024/03/22/why-fuzzing-over-formal-verification/"
+    ]
+  ],
+  [
+    [
+      "2024-03-23, 11:29:23",
+      "https://news.ycombinator.com/item?id=39799131"
+    ],
+    [
+      "Show HN: FaviconHelper",
+      "https://www.faviconhelper.com/1"
     ]
   ],
   [
