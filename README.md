@@ -2,6 +2,7 @@
 
 * [2024-03-25, 22:19:53](https://news.ycombinator.com/item?id=39821868) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
+* [2024-03-25, 21:46:36](https://news.ycombinator.com/item?id=39821606) - [United States Cyber Force: A Defense Imperative](https://www.fdd.org/analysis/2024/03/25/united-states-cyber-force/)
 * [2024-03-25, 21:20:58](https://news.ycombinator.com/item?id=39821400) - [Hacker fakes German minister's fingerprints using photos of her hands (2014)](https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands)
 * [2024-03-25, 21:01:11](https://news.ycombinator.com/item?id=39821224) - [As AI booms, land near nuclear power plants becomes hot real estate](https://www.theregister.com/2024/03/25/ai_boom_nuclear/)
 * [2024-03-25, 20:00:24](https://news.ycombinator.com/item?id=39820639) - [Is GPT-4 a Good Data Analyst?](https://arxiv.org/abs/2305.15038)
@@ -12,7 +13,6 @@
 * [2024-03-25, 17:58:56](https://news.ycombinator.com/item?id=39819409) - [Two open source projects with great architecture documentation](https://johnjago.com/great-docs/)
 * [2024-03-25, 17:12:53](https://news.ycombinator.com/item?id=39818825) - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 * [2024-03-25, 16:24:34](https://news.ycombinator.com/item?id=39818248) - [The semiconductor industry hinges on a quartz factory in North Carolina](https://www.tomshardware.com/tech-industry/semiconductors/the-worlds-semiconductor-industry-hinges-on-a-quartz-factory-in-north-carolina)
-* [2024-03-25, 16:22:46](https://news.ycombinator.com/item?id=39818231) - [Houdini and the Art of Escape (2020)](https://www.newyorker.com/magazine/2020/03/30/harry-houdini-and-the-art-of-escape)
 * [2024-03-25, 15:49:58](https://news.ycombinator.com/item?id=39817850) - [Show HN: Auto-generate an OpenAPI spec by listening to localhost](https://github.com/Adawg4/openapi-autospec)
 * [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
 * [2024-03-25, 14:30:23](https://news.ycombinator.com/item?id=39816808) - [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
