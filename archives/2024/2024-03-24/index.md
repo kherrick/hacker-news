@@ -8,6 +8,7 @@
 * [2024-03-24, 22:57:41](https://news.ycombinator.com/item?id=39811291) - [Moving Back to London and 2023 Review](https://mccormick.cx/news/entries/moving-back-to-london-2023-review)
 * [2024-03-24, 22:57:03](https://news.ycombinator.com/item?id=39811287) - [Do Artifacts Have Politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 * [2024-03-24, 22:56:07](https://news.ycombinator.com/item?id=39811280) - [Tiny-autodiff: A tiny autograd library in D](https://code.dlang.org/packages/tiny-autodiff)
+* [2024-03-24, 22:53:33](https://news.ycombinator.com/item?id=39811261) - [DongleHider+ Framework Laptop Expansion Card](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
 * [2024-03-24, 22:53:25](https://news.ycombinator.com/item?id=39811260) - [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
 * [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [“Emergent” abilities in LLMs actually develop gradually and predictably – study](https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/)
 * [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [Large Language Models' Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
