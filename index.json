@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-03-25, 14:32:43",
+      "https://news.ycombinator.com/item?id=39816835"
+    ],
+    [
+      "Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses",
+      "https://github.com/Mechazawa/103-early-anti-adblock"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 14:30:23",
       "https://news.ycombinator.com/item?id=39816808"
     ],
@@ -117,16 +127,6 @@
     [
       "Show HN: Nano-web – a low latency one binary webserver designed for serving SPAs",
       "https://github.com/radiosilence/nano-web"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 13:08:41",
-      "https://news.ycombinator.com/item?id=39815822"
-    ],
-    [
-      "Looking at the Atari 400 Part 1 – By Paul Lefebvre",
-      "https://www.goto10retro.com/p/looking-at-the-atari-400-part-1"
     ]
   ],
   [
