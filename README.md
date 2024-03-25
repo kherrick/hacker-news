@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-25, 04:22:53](https://news.ycombinator.com/item?id=39812846) - [OneSignal (YC S11) Is Hiring Engineers to Build a Customer Engagement Platform](https://onesignal.com/careers#section-job)
 * [2024-03-25, 01:58:33](https://news.ycombinator.com/item?id=39812259) - [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
 * [2024-03-25, 01:39:52](https://news.ycombinator.com/item?id=39812196) - [Revert \"video: Prefer Wayland over X11 (take 2)\"](https://github.com/libsdl-org/SDL/pull/9345)
 * [2024-03-25, 01:28:34](https://news.ycombinator.com/item?id=39812124) - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
@@ -16,7 +17,6 @@
 * [2024-03-24, 18:54:47](https://news.ycombinator.com/item?id=39809323) - [Gerbil Scheme – A Lisp for the 21st Century](https://cons.io/)
 * [2024-03-24, 18:00:40](https://news.ycombinator.com/item?id=39808921) - [Aegis v3.0 – a free, secure and open source 2FA app for Android](https://github.com/beemdevelopment/Aegis/releases/tag/v3.0)
 * [2024-03-24, 17:22:01](https://news.ycombinator.com/item?id=39808616) - [C++ left arrow operator (2016)](https://www.atnnn.com/p/operator-larrow/)
-* [2024-03-24, 17:00:29](https://news.ycombinator.com/item?id=39808425) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39808425)
 * [2024-03-24, 16:32:33](https://news.ycombinator.com/item?id=39808215) - [Maps that show time instead of space](https://spacetime-maps.vercel.app/)
 * [2024-03-24, 16:18:07](https://news.ycombinator.com/item?id=39808104) - [The Mirror (Godot bashed game engine)](https://github.com/the-mirror-gdp/the-mirror)
 * [2024-03-24, 15:43:16](https://news.ycombinator.com/item?id=39807912) - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 04:22:53](https://news.ycombinator.com/item?id=39812846) - [OneSignal (YC S11) Is Hiring Engineers to Build a Customer Engagement Platform](https://onesignal.com/careers#section-job)
 * [2024-03-25, 01:58:33](https://news.ycombinator.com/item?id=39812259) - [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
 * [2024-03-25, 01:39:52](https://news.ycombinator.com/item?id=39812196) - [Revert \"video: Prefer Wayland over X11 (take 2)\"](https://github.com/libsdl-org/SDL/pull/9345)
 * [2024-03-25, 01:28:34](https://news.ycombinator.com/item?id=39812124) - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
