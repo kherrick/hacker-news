@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 14:28:57](https://news.ycombinator.com/item?id=39816789) - [Ask HN: Tips to get started on my own server](https://news.ycombinator.com/item?id=39816789)
+* [2024-03-25, 14:11:11](https://news.ycombinator.com/item?id=39816558) - [Sexualized culture on livestreaming platforms: a content analysis of Twitch.tv](https://www.nature.com/articles/s41599-024-02724-z)
 * [2024-03-25, 14:01:15](https://news.ycombinator.com/item?id=39816423) - [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
 * [2024-03-25, 13:23:44](https://news.ycombinator.com/item?id=39815976) - [Show HN: Nano-web, a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona's famous Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
