@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 16:11:42](https://news.ycombinator.com/item?id=39818099) - [Anglo-Italian company says it has cracked Bitcoin. People have questions](https://www.ft.com/content/8aa731a0-5456-4121-a2f7-828ae90ed199)
 * [2024-03-25, 15:29:49](https://news.ycombinator.com/item?id=39817564) - [US salaries are surging for in-office jobs](https://www.bbc.com/worklife/article/20240322-us-salaries-higher-in-office-jobs)
 * [2024-03-25, 15:25:11](https://news.ycombinator.com/item?id=39817497) - [CFEngine's Star Trek and AI Origins (2023)](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
 * [2024-03-25, 15:13:44](https://news.ycombinator.com/item?id=39817340) - [EU rejects Apple's changes: Company could be fined 10% of global turnover](https://9to5mac.com/2024/03/25/app-store-proposals-rejected/)
