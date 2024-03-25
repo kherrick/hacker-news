@@ -23,13 +23,13 @@
 * [2024-03-24, 16:32:33](https://news.ycombinator.com/item?id=39808215) - [Maps that show time instead of space](https://spacetime-maps.vercel.app/)
 * [2024-03-24, 16:18:07](https://news.ycombinator.com/item?id=39808104) - [The Mirror (Godot bashed game engine)](https://github.com/the-mirror-gdp/the-mirror)
 * [2024-03-24, 15:43:16](https://news.ycombinator.com/item?id=39807912) - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
+* [2024-03-24, 14:51:49](https://news.ycombinator.com/item?id=39807588) - [Zeal OS](https://github.com/Zeal-Operating-System/ZealOS)
 * [2024-03-24, 14:31:45](https://news.ycombinator.com/item?id=39807463) - [Weather Planning for Eclipse Day](https://eclipsophile.com/eclipse-day-weather/)
 * [2024-03-24, 10:04:55](https://news.ycombinator.com/item?id=39806139) - [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
 * [2024-03-24, 07:17:28](https://news.ycombinator.com/item?id=39805591) - [Lezer: A parsing system for CodeMirror, inspired by Tree-sitter](https://marijnhaverbeke.nl/blog/lezer.html)
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Scientists have traced human tail loss to a short sequence of genetic code](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
-* [2024-03-24, 04:01:21](https://news.ycombinator.com/item?id=39805077) - [The Immortal Jellyfish](https://www.amnh.org/explore/news-blogs/on-exhibit-posts/the-immortal-jellyfish)
+* [2024-03-24, 04:01:21](https://news.ycombinator.com/item?id=39805077) - [The Immortal Jellyfish (2015)](https://www.amnh.org/explore/news-blogs/on-exhibit-posts/the-immortal-jellyfish)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
-* [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
 
 ## [Archives](archives/index.md)
 
