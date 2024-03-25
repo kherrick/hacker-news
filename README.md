@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-25, 10:38:17](https://news.ycombinator.com/item?id=39814558) - [EU Launches Probes into Apple, Meta, Google Under New Digital Competition Law](https://www.wsj.com/tech/eu-launches-probes-into-apple-meta-google-under-new-digital-competition-law-4d383201)
-* [2024-03-25, 09:28:28](https://news.ycombinator.com/item?id=39814173) - [It's a SpaceX World (Everyone Else Is Playing Catch-Up)](https://www.astralytical.com/insights/its-a-spacex-world-everyone-else-is-playing-catch-up)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
 * [2024-03-25, 07:00:46](https://news.ycombinator.com/item?id=39813399) - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
 * [2024-03-25, 04:56:24](https://news.ycombinator.com/item?id=39812969) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
@@ -15,6 +14,7 @@
 * [2024-03-24, 23:52:03](https://news.ycombinator.com/item?id=39811604) - [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
 * [2024-03-24, 22:59:07](https://news.ycombinator.com/item?id=39811298) - [Port-scanning the fleet and trying to put out fires](http://rachelbythebay.com/w/2024/03/21/scan/)
 * [2024-03-24, 22:53:33](https://news.ycombinator.com/item?id=39811261) - [DongleHider+ Framework Laptop Expansion Card](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
+* [2024-03-24, 22:53:25](https://news.ycombinator.com/item?id=39811260) - [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
 * [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [“Emergent” abilities in LLMs actually develop gradually and predictably – study](https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 * [2024-03-24, 20:41:59](https://news.ycombinator.com/item?id=39810320) - [\"She's bouncing the ball\" – the uncanny way octopuses play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
