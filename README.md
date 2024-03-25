@@ -2,6 +2,7 @@
 
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona's famous Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
 * [2024-03-25, 12:27:35](https://news.ycombinator.com/item?id=39815458) - [Germany's Solar Panel Industry, Once a Leader, Is Getting Squeezed](https://www.nytimes.com/2024/03/25/business/germany-solar-panels-china-protectionism.html)
+* [2024-03-25, 12:27:28](https://news.ycombinator.com/item?id=39815456) - [Ask HN: How do you find smart people without a network?](https://news.ycombinator.com/item?id=39815456)
 * [2024-03-25, 12:22:47](https://news.ycombinator.com/item?id=39815408) - [Boeing CEO Calhoun to step down at end of 2024](https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/)
 * [2024-03-25, 12:01:05](https://news.ycombinator.com/item?id=39815208) - [Spine AI (YC S23) Is Hiring for a Senior Back End Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer)
 * [2024-03-25, 11:24:39](https://news.ycombinator.com/item?id=39814877) - [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
@@ -28,7 +29,6 @@
 * [2024-03-24, 05:18:54](https://news.ycombinator.com/item?id=39805299) - [Scientists have traced human tail loss to a short sequence of genetic code](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
 * [2024-03-24, 04:01:21](https://news.ycombinator.com/item?id=39805077) - [The Immortal Jellyfish (2015)](https://www.amnh.org/explore/news-blogs/on-exhibit-posts/the-immortal-jellyfish)
 * [2024-03-23, 22:54:48](https://news.ycombinator.com/item?id=39803606) - [PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
-* [2024-03-23, 22:34:27](https://news.ycombinator.com/item?id=39803508) - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
 * [2024-03-22, 03:54:11](https://news.ycombinator.com/item?id=39787334) - [When Did Dogs Become Our Best Friends?](https://www.atlasobscura.com/articles/when-did-dogs-become-our-best-friends)
 
 ## [Archives](archives/index.md)
