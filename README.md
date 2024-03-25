@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-25, 20:23:20](https://news.ycombinator.com/item?id=39820872) - [Madison County, MS spends $2.7M to train comptroller about phishing, IT security](http://kingfish1935.blogspot.com/2024/03/madison-county-scammed-out-of-27-million.html)
+* [2024-03-25, 19:58:03](https://news.ycombinator.com/item?id=39820618) - [Researchers uncover 'pornification' trend among female streamers on Twitch](https://www.psypost.org/researchers-uncover-pornification-trend-among-female-streamers-on-twitch/)
 * [2024-03-25, 19:35:44](https://news.ycombinator.com/item?id=39820432) - [Speeding up Azure development by not using Terraform](https://nitric.io/blog/terraform-comparison-demo)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
@@ -23,13 +23,13 @@
 * [2024-03-25, 07:36:08](https://news.ycombinator.com/item?id=39813560) - [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
 * [2024-03-24, 03:45:59](https://news.ycombinator.com/item?id=39805021) - [Velox: Meta's Unified Execution Engine [pdf]](https://www.eecs.umich.edu/courses/eecs584/static_files/papers/p3372-pedreira.pdf)
 * [2024-03-24, 00:13:05](https://news.ycombinator.com/item?id=39804004) - [TCP connection timeout mystery](https://devnonsense.com/posts/tcp-connection-timeout-mystery/)
-* [2024-03-23, 23:13:55](https://news.ycombinator.com/item?id=39803703) - [The Eider Keepers](https://www.biographic.com/the-eider-keepers/)
 * [2024-03-23, 15:34:51](https://news.ycombinator.com/item?id=39800678) - [See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
 * [2024-03-23, 15:15:17](https://news.ycombinator.com/item?id=39800542) - [Using JTAG to dump parallel NOR flash](https://zetier.com/news/jtag-chain-diagram-to-dump-nor/)
 * [2024-03-23, 11:29:23](https://news.ycombinator.com/item?id=39799131) - [Show HN: FaviconHelper](https://www.faviconhelper.com/1)
 * [2024-03-23, 07:49:45](https://news.ycombinator.com/item?id=39798225) - [Repairing a buggy board arcade machine](https://philwip.com/2024/03/22/pcb-repair-speed-buggy-buggy-boy/)
 * [2024-03-23, 02:05:09](https://news.ycombinator.com/item?id=39796837) - [William Adams: English Advisor to the Shogun](https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun)
 * [2024-03-22, 03:54:11](https://news.ycombinator.com/item?id=39787334) - [When did dogs become our best friends?](https://www.atlasobscura.com/articles/when-did-dogs-become-our-best-friends)
+* [2024-03-21, 18:12:26](https://news.ycombinator.com/item?id=39782261) - [Electronic project kits: hands on with a vintage 160-in-1 (2016)](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4)
 
 ## [Archives](archives/index.md)
 
