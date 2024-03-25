@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 14:52:48](https://news.ycombinator.com/item?id=39817067) - [UN Security Council Passes Ceasefire Resolution](https://www.nytimes.com/live/2024/03/25/world/israel-hamas-war-gaza-news)
+* [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
+* [2024-03-25, 14:32:43](https://news.ycombinator.com/item?id=39816835) - [Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
 * [2024-03-25, 14:28:57](https://news.ycombinator.com/item?id=39816789) - [Ask HN: Tips to get started on my own server](https://news.ycombinator.com/item?id=39816789)
 * [2024-03-25, 14:11:11](https://news.ycombinator.com/item?id=39816558) - [Sexualized culture on livestreaming platforms: a content analysis of Twitch.tv](https://www.nature.com/articles/s41599-024-02724-z)
 * [2024-03-25, 14:01:15](https://news.ycombinator.com/item?id=39816423) - [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
@@ -15,6 +18,7 @@
 * [2024-03-25, 12:22:47](https://news.ycombinator.com/item?id=39815408) - [Boeing CEO Calhoun to step down at end of 2024](https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/)
 * [2024-03-25, 12:17:57](https://news.ycombinator.com/item?id=39815362) - [Step aside, influencers – we're now in the era of de-influencing](https://www.npr.org/2024/03/25/1239897929/influencers-deinfluencing-tiktok-instagram-shopping-environment)
 * [2024-03-25, 12:12:17](https://news.ycombinator.com/item?id=39815315) - [Boeing CEO, Many Other Top Execs To Step Down in Leadership Shakeup](https://news.slashdot.org/story/24/03/25/1211230/boeing-ceo-intends-to-step-down-in-leadership-shakeup)
+* [2024-03-25, 12:01:48](https://news.ycombinator.com/item?id=39815219) - [The Case of a Leaky Goroutine](https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/)
 * [2024-03-25, 12:01:05](https://news.ycombinator.com/item?id=39815208) - [Spine AI (YC S23) Is Hiring for a Senior Back End Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer)
 * [2024-03-25, 11:24:39](https://news.ycombinator.com/item?id=39814877) - [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
 * [2024-03-25, 10:58:16](https://news.ycombinator.com/item?id=39814683) - [Exosuit Muscle Control Steps Closer to Reality](https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project)
