@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-25, 16:11:42](https://news.ycombinator.com/item?id=39818099) - [Anglo-Italian company says it has cracked Bitcoin. People have questions](https://www.ft.com/content/8aa731a0-5456-4121-a2f7-828ae90ed199)
 * [2024-03-25, 15:25:11](https://news.ycombinator.com/item?id=39817497) - [CFEngine's Star Trek and AI Origins (2023)](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
 * [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
 * [2024-03-25, 14:32:43](https://news.ycombinator.com/item?id=39816835) - [Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
@@ -21,6 +20,7 @@
 * [2024-03-25, 03:35:03](https://news.ycombinator.com/item?id=39812652) - [Real-time map of every Starlink satellite in orbit](https://www.starlinkmap.org/)
 * [2024-03-25, 01:58:33](https://news.ycombinator.com/item?id=39812259) - [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
 * [2024-03-25, 01:28:34](https://news.ycombinator.com/item?id=39812124) - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
+* [2024-03-24, 22:59:07](https://news.ycombinator.com/item?id=39811298) - [Port-scanning the fleet and trying to put out fires](http://rachelbythebay.com/w/2024/03/21/scan/)
 * [2024-03-24, 22:53:33](https://news.ycombinator.com/item?id=39811261) - [DongleHider+ Framework Laptop Expansion Card](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
 * [2024-03-24, 22:36:33](https://news.ycombinator.com/item?id=39811155) - [“Emergent” abilities in LLMs actually develop gradually and predictably – study](https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/)
 * [2024-03-24, 20:48:06](https://news.ycombinator.com/item?id=39810378) - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
