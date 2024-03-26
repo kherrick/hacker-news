@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 02:52:30](https://news.ycombinator.com/item?id=39823856) - [Nix at Scale](https://lwn.net/SubscriberLink/965631/f3db6d3dde3f83cb/)
 * [2024-03-26, 01:52:41](https://news.ycombinator.com/item?id=39823505) - [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
 * [2024-03-26, 01:14:39](https://news.ycombinator.com/item?id=39823282) - [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
 * [2024-03-26, 01:13:27](https://news.ycombinator.com/item?id=39823271) - [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
@@ -27,7 +28,6 @@
 * [2024-03-25, 07:36:08](https://news.ycombinator.com/item?id=39813560) - [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
 * [2024-03-24, 03:45:59](https://news.ycombinator.com/item?id=39805021) - [Velox: Meta's Unified Execution Engine [pdf]](https://www.eecs.umich.edu/courses/eecs584/static_files/papers/p3372-pedreira.pdf)
 * [2024-03-23, 15:34:51](https://news.ycombinator.com/item?id=39800678) - [See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
-* [2024-03-23, 07:49:45](https://news.ycombinator.com/item?id=39798225) - [Repairing a buggy board arcade machine](https://philwip.com/2024/03/22/pcb-repair-speed-buggy-buggy-boy/)
 * [2024-03-23, 02:05:09](https://news.ycombinator.com/item?id=39796837) - [William Adams: English Advisor to the Shogun](https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun)
 * [2024-03-21, 18:12:26](https://news.ycombinator.com/item?id=39782261) - [Electronic project kits: hands on with a vintage 160-in-1 (2016)](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4)
 
