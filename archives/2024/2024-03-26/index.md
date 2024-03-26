@@ -16,6 +16,7 @@
 * [2024-03-26, 18:19:26](https://news.ycombinator.com/item?id=39831074) - [Mathematics for Computer Science – MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 * [2024-03-26, 18:17:51](https://news.ycombinator.com/item?id=39831055) - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
 * [2024-03-26, 18:13:56](https://news.ycombinator.com/item?id=39831001) - [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
+* [2024-03-26, 17:56:22](https://news.ycombinator.com/item?id=39830774) - [Engineering Managers Should Not Exist](https://vrosasv.substack.com/p/engineering-managers-should-not-exist)
 * [2024-03-26, 17:45:01](https://news.ycombinator.com/item?id=39830654) - [ADHD Productivity Fundamentals](https://0xff.nu/adhd-productivity-fundamentals)
 * [2024-03-26, 17:43:39](https://news.ycombinator.com/item?id=39830639) - [One of the Most Anticipated AI Gadgets Now Has a Release Date](https://www.inverse.com/tech/rabbit-r1-release-date)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
