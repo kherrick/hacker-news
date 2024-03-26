@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 17:45:01](https://news.ycombinator.com/item?id=39830654) - [ADHD Productivity Fundamentals](https://0xff.nu/adhd-productivity-fundamentals)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
 * [2024-03-26, 17:00:49](https://news.ycombinator.com/item?id=39830166) - [Banner (YC S19) Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
 * [2024-03-26, 16:25:50](https://news.ycombinator.com/item?id=39829695) - [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
 * [2024-03-26, 16:24:30](https://news.ycombinator.com/item?id=39829681) - [Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
 * [2024-03-26, 16:24:18](https://news.ycombinator.com/item?id=39829677) - [We have a content quality problem, not a content quantity problem](https://coryd.dev/posts/2024/we-have-a-content-quality-problem-not-a-content-quantity-problem/)
+* [2024-03-26, 16:15:23](https://news.ycombinator.com/item?id=39829566) - [Building WOPR: A 7x4090 AI Server](https://www.mov-axbx.com/wopr/wopr_concept.html)
 * [2024-03-26, 15:37:59](https://news.ycombinator.com/item?id=39829230) - [Updates to the OpenVMS Community Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
 * [2024-03-26, 15:16:23](https://news.ycombinator.com/item?id=39828963) - [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
 * [2024-03-26, 15:16:06](https://news.ycombinator.com/item?id=39828960) - [Euclid successfully de-iced, gains 15% sensitivity](https://www.euclid-ec.org/euclid-successfully-de-iced-gains-15-sensitivity/)
