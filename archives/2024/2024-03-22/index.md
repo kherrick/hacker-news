@@ -94,6 +94,7 @@
 * [2024-03-22, 02:48:23](https://news.ycombinator.com/item?id=39786984) - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 02:40:39](https://news.ycombinator.com/item?id=39786943) - [Navigating the World of Large Language Models](https://www.bentoml.com/blog/navigating-the-world-of-large-language-models)
 * [2024-03-22, 02:39:09](https://news.ycombinator.com/item?id=39786934) - [Greece, Argentina and India are the fastest improving business environments](https://www.eiu.com/n/greece-argentina-and-india-are-the-fastest-improving-business-environments/)
+* [2024-03-22, 02:27:03](https://news.ycombinator.com/item?id=39786874) - [A new way Ebola replicates](https://nouvelles.umontreal.ca/en/article/2024/03/15/ebola-scientists-reveal-a-new-way-it-replicates/)
 * [2024-03-22, 02:24:01](https://news.ycombinator.com/item?id=39786855) - [Netflix Kept Showing Smoking in TV Shows Despite 2019 Pledge, Study Finds](https://www.forbes.com/sites/zacharysmith/2022/01/11/netflix-kept-showing-smoking-in-tv-shows-despite-2019-pledge-study-finds/)
 * [2024-03-22, 02:07:14](https://news.ycombinator.com/item?id=39786745) - [UN: E-waste is growing 5x faster than it can be recycled](https://www.theregister.com/2024/03/21/ewaste_grows/)
 * [2024-03-22, 01:50:47](https://news.ycombinator.com/item?id=39786666) - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
