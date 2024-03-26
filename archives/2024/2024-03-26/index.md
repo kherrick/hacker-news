@@ -31,5 +31,6 @@
 * [2024-03-26, 01:29:07](https://news.ycombinator.com/item?id=39823373) - [Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)
 * [2024-03-26, 01:14:39](https://news.ycombinator.com/item?id=39823282) - [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
 * [2024-03-26, 01:13:27](https://news.ycombinator.com/item?id=39823271) - [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
+* [2024-03-26, 00:57:44](https://news.ycombinator.com/item?id=39823146) - [An AI robot is destroying sick tulips in Dutch bulb fields](https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e)
 * [2024-03-26, 00:51:28](https://news.ycombinator.com/item?id=39823104) - [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
 * [2024-03-26, 00:48:47](https://news.ycombinator.com/item?id=39823079) - [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)

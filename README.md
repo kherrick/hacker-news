@@ -2,7 +2,6 @@
 
 * [2024-03-26, 10:37:30](https://news.ycombinator.com/item?id=39826176) - [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
-* [2024-03-26, 08:40:38](https://news.ycombinator.com/item?id=39825459) - [Innocent St. Louis family terrorized in SWAT raid over stolen AirPods](https://boingboing.net/2024/03/25/innocent-st-louis-family-terrorized-in-swat-raid-over-stolen-airpods.html)
 * [2024-03-26, 07:25:09](https://news.ycombinator.com/item?id=39825033) - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
 * [2024-03-26, 07:01:15](https://news.ycombinator.com/item?id=39824924) - [Kapa.ai (YC S23) is hiring a full stack engineer (with LLM focus)](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
 * [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
@@ -11,6 +10,7 @@
 * [2024-03-26, 03:27:56](https://news.ycombinator.com/item?id=39824019) - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
 * [2024-03-26, 01:52:41](https://news.ycombinator.com/item?id=39823505) - [Unlocking the secrets of myelin repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
 * [2024-03-26, 01:29:07](https://news.ycombinator.com/item?id=39823373) - [Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)
+* [2024-03-26, 00:57:44](https://news.ycombinator.com/item?id=39823146) - [An AI robot is destroying sick tulips in Dutch bulb fields](https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e)
 * [2024-03-26, 00:51:28](https://news.ycombinator.com/item?id=39823104) - [Moirai: A time series foundation model for universal forecasting](https://blog.salesforceairesearch.com/moirai/)
 * [2024-03-26, 00:48:47](https://news.ycombinator.com/item?id=39823079) - [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)
 * [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
