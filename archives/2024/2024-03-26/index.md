@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
 * [2024-03-26, 17:45:01](https://news.ycombinator.com/item?id=39830654) - [ADHD Productivity Fundamentals](https://0xff.nu/adhd-productivity-fundamentals)
+* [2024-03-26, 17:43:39](https://news.ycombinator.com/item?id=39830639) - [One of the Most Anticipated AI Gadgets Now Has a Release Date](https://www.inverse.com/tech/rabbit-r1-release-date)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
 * [2024-03-26, 17:00:49](https://news.ycombinator.com/item?id=39830166) - [Banner (YC S19) Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
 * [2024-03-26, 16:25:50](https://news.ycombinator.com/item?id=39829695) - [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
@@ -12,6 +13,7 @@
 * [2024-03-26, 16:24:18](https://news.ycombinator.com/item?id=39829677) - [We have a content quality problem, not a content quantity problem](https://coryd.dev/posts/2024/we-have-a-content-quality-problem-not-a-content-quantity-problem/)
 * [2024-03-26, 16:15:23](https://news.ycombinator.com/item?id=39829566) - [Building WOPR: A 7x4090 AI Server](https://www.mov-axbx.com/wopr/wopr_concept.html)
 * [2024-03-26, 15:37:59](https://news.ycombinator.com/item?id=39829230) - [Updates to the OpenVMS Community Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
+* [2024-03-26, 15:24:03](https://news.ycombinator.com/item?id=39829084) - [NixOS-generators – Collection of VM and Container disk image builders for NixOS](https://github.com/nix-community/nixos-generators)
 * [2024-03-26, 15:16:23](https://news.ycombinator.com/item?id=39828963) - [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
 * [2024-03-26, 15:16:06](https://news.ycombinator.com/item?id=39828960) - [Euclid successfully de-iced, gains 15% sensitivity](https://www.euclid-ec.org/euclid-successfully-de-iced-gains-15-sensitivity/)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
