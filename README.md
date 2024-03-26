@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 14:15:02](https://news.ycombinator.com/item?id=39828091) - [Visa, Mastercard Agree to Lower Swipe Fees, Settling Long-Running Lawsuit](https://www.wsj.com/finance/banking/visa-mastercard-agree-to-lower-swipe-fees-settling-long-running-lawsuit-d6e5f0a8)
 * [2024-03-26, 13:36:40](https://news.ycombinator.com/item?id=39827645) - [Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 * [2024-03-26, 13:13:04](https://news.ycombinator.com/item?id=39827390) - [Show HN: I Made a Books Recommendation App Based on Your Mood](https://booksbymood.com)
 * [2024-03-26, 12:42:17](https://news.ycombinator.com/item?id=39827127) - [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
@@ -15,7 +16,6 @@
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
 * [2024-03-26, 04:05:45](https://news.ycombinator.com/item?id=39824191) - [Canva has acquired Affinity in an effort to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
 * [2024-03-26, 03:27:56](https://news.ycombinator.com/item?id=39824019) - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
-* [2024-03-26, 01:52:41](https://news.ycombinator.com/item?id=39823505) - [Unlocking the secrets of myelin repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
 * [2024-03-26, 01:29:07](https://news.ycombinator.com/item?id=39823373) - [Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)
 * [2024-03-26, 01:14:39](https://news.ycombinator.com/item?id=39823282) - [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
 * [2024-03-26, 00:57:44](https://news.ycombinator.com/item?id=39823146) - [An AI robot is destroying sick tulips in Dutch bulb fields](https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e)

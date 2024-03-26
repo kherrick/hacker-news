@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 14:15:02](https://news.ycombinator.com/item?id=39828091) - [Visa, Mastercard Agree to Lower Swipe Fees, Settling Long-Running Lawsuit](https://www.wsj.com/finance/banking/visa-mastercard-agree-to-lower-swipe-fees-settling-long-running-lawsuit-d6e5f0a8)
 * [2024-03-26, 13:57:29](https://news.ycombinator.com/item?id=39827876) - [Barbara Fried SBF sentencing submission](https://www.documentcloud.org/documents/24445015-barbara-fried-sbf-sentencing-submission)
 * [2024-03-26, 13:51:48](https://news.ycombinator.com/item?id=39827828) - [VLC can't update on Android without giving Google private signing keys](https://social.treehouse.systems/@Aissen/112139649840297169)
 * [2024-03-26, 13:36:40](https://news.ycombinator.com/item?id=39827645) - [Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
