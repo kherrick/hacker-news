@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 13:36:40](https://news.ycombinator.com/item?id=39827645) - [Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 * [2024-03-26, 12:26:43](https://news.ycombinator.com/item?id=39826990) - [Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke](https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/)
 * [2024-03-26, 12:00:18](https://news.ycombinator.com/item?id=39826770) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
 * [2024-03-26, 10:41:48](https://news.ycombinator.com/item?id=39826209) - [Canva acquires Affinity to fill the Adobe-sized holes in its design suite](https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival)
@@ -29,7 +30,6 @@
 * [2024-03-23, 15:34:51](https://news.ycombinator.com/item?id=39800678) - [See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
 * [2024-03-23, 04:19:33](https://news.ycombinator.com/item?id=39797416) - [The Linux kernel.task_delayacct sysctl and why you might care about it](https://utcc.utoronto.ca/~cks/space/blog/linux/TaskDelayAccountingNotes)
 * [2024-03-22, 02:27:03](https://news.ycombinator.com/item?id=39786874) - [A new way Ebola replicates](https://nouvelles.umontreal.ca/en/article/2024/03/15/ebola-scientists-reveal-a-new-way-it-replicates/)
-* [2024-03-21, 18:12:26](https://news.ycombinator.com/item?id=39782261) - [Electronic project kits: hands on with a vintage 160-in-1 (2016)](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4)
 
 ## [Archives](archives/index.md)
 
