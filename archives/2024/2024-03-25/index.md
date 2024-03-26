@@ -103,6 +103,7 @@
 * [2024-03-25, 08:16:23](https://news.ycombinator.com/item?id=39813798) - [Microsoft reuses its OpenAI playbook with Inflection takeover](https://www.theverge.com/2024/3/22/24109260/microsoft-openai-playbook-inflection-ai)
 * [2024-03-25, 08:04:59](https://news.ycombinator.com/item?id=39813724) - [Writing x86 SIMD using x86inc.asm (2017)](https://blogs.gnome.org/rbultje/2017/07/14/writing-x86-simd-using-x86inc-asm/)
 * [2024-03-25, 07:56:09](https://news.ycombinator.com/item?id=39813679) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
+* [2024-03-25, 07:53:40](https://news.ycombinator.com/item?id=39813660) - [Backpressure explained – the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 * [2024-03-25, 07:48:34](https://news.ycombinator.com/item?id=39813626) - [Notes on debugging HotSpot's JIT compilation (2023)](https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html)
 * [2024-03-25, 07:41:48](https://news.ycombinator.com/item?id=39813588) - [Turbocall – the just-in-time compiler for Deno FFI](https://divy.work/turbocall.html)
 * [2024-03-25, 07:36:08](https://news.ycombinator.com/item?id=39813560) - [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
