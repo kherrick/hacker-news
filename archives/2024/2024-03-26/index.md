@@ -45,6 +45,7 @@
 * [2024-03-26, 12:58:21](https://news.ycombinator.com/item?id=39827266) - [Baltimore's Key Bridge struck by cargo ship, collapses](https://www.wbaltv.com/article/baltimore-bridge-collapse-key-bridge/60303975)
 * [2024-03-26, 12:42:17](https://news.ycombinator.com/item?id=39827127) - [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
 * [2024-03-26, 12:41:02](https://news.ycombinator.com/item?id=39827113) - [Florida's DeSantis signs law restricting social media for people under 16](https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25)
+* [2024-03-26, 12:39:41](https://news.ycombinator.com/item?id=39827102) - [What Computers Cannot Do: The Consequences of Turing-Completeness](https://yzena.com/2024/03/what-computers-cannot-do-the-consequences-of-turing-completeness/)
 * [2024-03-26, 12:26:43](https://news.ycombinator.com/item?id=39826990) - [Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke](https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/)
 * [2024-03-26, 12:06:42](https://news.ycombinator.com/item?id=39826820) - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 * [2024-03-26, 12:00:18](https://news.ycombinator.com/item?id=39826770) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)

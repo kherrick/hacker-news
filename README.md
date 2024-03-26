@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-26, 21:00:50](https://news.ycombinator.com/item?id=39832794) - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-* [2024-03-26, 19:50:47](https://news.ycombinator.com/item?id=39832090) - [Accumulation of Lewy-Related Pathology: The Tampere Sudden Death Study](https://onlinelibrary.wiley.com/doi/10.1002/ana.26912)
 * [2024-03-26, 19:49:17](https://news.ycombinator.com/item?id=39832071) - [The Bayesian Cringe (2021)](https://statmodeling.stat.columbia.edu/2021/09/15/the-bayesian-cringe/)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
-* [2024-03-26, 16:25:50](https://news.ycombinator.com/item?id=39829695) - [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
 * [2024-03-26, 16:24:30](https://news.ycombinator.com/item?id=39829681) - [Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 14:38:48](https://news.ycombinator.com/item?id=39828481) - [Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
@@ -15,6 +13,7 @@
 * [2024-03-26, 12:58:21](https://news.ycombinator.com/item?id=39827266) - [Baltimore's Key Bridge struck by cargo ship, collapses](https://www.wbaltv.com/article/baltimore-bridge-collapse-key-bridge/60303975)
 * [2024-03-26, 12:42:17](https://news.ycombinator.com/item?id=39827127) - [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
 * [2024-03-26, 12:41:02](https://news.ycombinator.com/item?id=39827113) - [Florida's DeSantis signs law restricting social media for people under 16](https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25)
+* [2024-03-26, 12:39:41](https://news.ycombinator.com/item?id=39827102) - [What Computers Cannot Do: The Consequences of Turing-Completeness](https://yzena.com/2024/03/what-computers-cannot-do-the-consequences-of-turing-completeness/)
 * [2024-03-26, 10:55:49](https://news.ycombinator.com/item?id=39826315) - [Show HN: WhatTheDuck – open-source, in-browser SQL on CSV files](https://github.com/incentius-foss/WhatTheDuck)
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis (2021)](https://www.copetti.org/writings/consoles/sega-saturn/)
 * [2024-03-26, 09:28:35](https://news.ycombinator.com/item?id=39825770) - [Spinner-mouse: Arduino-based USB rotary controller for Arkanoid, Tempest, etc.](https://github.com/carlosefr/spinner-mouse)
@@ -28,6 +27,7 @@
 * [2024-03-25, 18:07:01](https://news.ycombinator.com/item?id=39819472) - [Interview with Bluesky CEO Jay Graber](https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview)
 * [2024-03-25, 14:22:53](https://news.ycombinator.com/item?id=39816708) - [Manipulating Chess-GPT's World Model](https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html)
 * [2024-03-25, 09:10:14](https://news.ycombinator.com/item?id=39814079) - [Everyone is John: A competitive roleplaying game for three or more people](https://rtwolf.github.io/Everyone-is-John/)
+* [2024-03-25, 07:56:09](https://news.ycombinator.com/item?id=39813679) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 07:30:40](https://news.ycombinator.com/item?id=39813537) - [A simple, (as-of-yet unidentified) asymmetric Authenticated Key Exchange](https://dannyvanheumen.nl/post/simple-asymmetric-ake/)
 * [2024-03-25, 06:54:02](https://news.ycombinator.com/item?id=39813365) - [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 
