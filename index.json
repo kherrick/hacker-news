@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2024-03-26, 18:53:00",
-      "https://news.ycombinator.com/item?id=39831441"
-    ],
-    [
-      "Jamie Zawinski",
-      "https://en.wikipedia.org/wiki/Jamie_Zawinski"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 18:19:26",
       "https://news.ycombinator.com/item?id=39831074"
     ],
     [
-      "Mathematics for Computer Science – MIT Open Learning Library",
+      "Mathematics for Computer Science",
       "https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Sega Saturn Architecture – A practical analysis",
       "https://www.copetti.org/writings/consoles/sega-saturn/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 05:52:12",
+      "https://news.ycombinator.com/item?id=39824611"
+    ],
+    [
+      "Packet-Editing Games in Golang (2021)",
+      "https://remyhax.xyz/posts/golang-packet-editing/"
     ]
   ],
   [
