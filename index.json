@@ -181,26 +181,6 @@
   ],
   [
     [
-      "2024-03-25, 12:57:33",
-      "https://news.ycombinator.com/item?id=39815731"
-    ],
-    [
-      "Debt-related driver’s license suspensions in Ohio",
-      "https://www.clevelandfed.org/publications/cd-reports/2024/20240228-debt-related-drivers-license-suspensions"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 12:24:46",
-      "https://news.ycombinator.com/item?id=39815429"
-    ],
-    [
-      "Bump Allocation: Up or Down?",
-      "https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/"
-    ]
-  ],
-  [
-    [
       "2024-03-25, 09:57:18",
       "https://news.ycombinator.com/item?id=39814334"
     ],
@@ -221,12 +201,42 @@
   ],
   [
     [
-      "2024-03-25, 07:41:48",
-      "https://news.ycombinator.com/item?id=39813588"
+      "2024-03-25, 08:52:44",
+      "https://news.ycombinator.com/item?id=39813978"
     ],
     [
-      "Turbocall – Just-in-time compiler for Deno FFI",
-      "https://divy.work/turbocall.html"
+      "Computing with JavaScript's Undefined (2020)",
+      "https://esoteric.codes/blog/calculating-with-jss-undefined"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 08:04:59",
+      "https://news.ycombinator.com/item?id=39813724"
+    ],
+    [
+      "Writing x86 SIMD using x86inc.asm (2017)",
+      "https://blogs.gnome.org/rbultje/2017/07/14/writing-x86-simd-using-x86inc-asm/"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 07:56:09",
+      "https://news.ycombinator.com/item?id=39813679"
+    ],
+    [
+      "Radios, how do they work?",
+      "https://lcamtuf.substack.com/p/radios-how-do-they-work"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 07:48:34",
+      "https://news.ycombinator.com/item?id=39813626"
+    ],
+    [
+      "Notes on debugging HotSpot's JIT compilation (2023)",
+      "https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "See a Fish? Ring the Bell",
       "https://visdeurbel.nl/en/the-fish-doorbell/"
-    ]
-  ],
-  [
-    [
-      "2024-03-23, 15:15:17",
-      "https://news.ycombinator.com/item?id=39800542"
-    ],
-    [
-      "Using JTAG to dump parallel NOR flash",
-      "https://zetier.com/news/jtag-chain-diagram-to-dump-nor/"
     ]
   ],
   [
