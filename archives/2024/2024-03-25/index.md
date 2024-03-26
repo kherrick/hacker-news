@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 23:45:14](https://news.ycombinator.com/item?id=39822577) - [Florida Passes Law Banning Social Media for Minors Under 14](https://www.wsj.com/politics/florida-passes-law-banning-social-media-for-minors-under-14-abae4ce3)
 * [2024-03-25, 23:29:45](https://news.ycombinator.com/item?id=39822476) - [Illness Impacting Dairy Cattle Is Confirmed as Highly Pathogenic Avian Flu](https://www.agweb.com/news/livestock/dairy/breaking-mystery-illness-impacting-texas-kansas-dairy-cattle-confirmed-highly)
 * [2024-03-25, 23:06:05](https://news.ycombinator.com/item?id=39822261) - [Interoception: The inner sense driving your thoughts](https://www.bbc.com/future/article/20240322-interoception-the-mysterious-inner-sense-driving-your-emotions)
 * [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets Are for More Than Just Printing](https://spectrum.ieee.org/inkjet-printer)
