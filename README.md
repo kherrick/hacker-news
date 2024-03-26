@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
-* [2024-03-26, 08:38:13](https://news.ycombinator.com/item?id=39825440) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
-* [2024-03-26, 07:50:50](https://news.ycombinator.com/item?id=39825162) - [The Kalman Filter](https://thekalmanfilter.com/)
 * [2024-03-26, 07:25:09](https://news.ycombinator.com/item?id=39825033) - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
 * [2024-03-26, 07:01:15](https://news.ycombinator.com/item?id=39824924) - [Kapa.ai (YC S23) is hiring a full stack engineer (with LLM focus)](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
 * [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
@@ -20,6 +18,8 @@
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 * [2024-03-25, 17:58:56](https://news.ycombinator.com/item?id=39819409) - [Two open source projects with great architecture documentation](https://johnjago.com/great-docs/)
+* [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
+* [2024-03-25, 14:01:15](https://news.ycombinator.com/item?id=39816423) - [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
 * [2024-03-25, 13:20:20](https://news.ycombinator.com/item?id=39815936) - [Martin Scorsese's secret life as an obsessive VHS archivist](https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive)
 * [2024-03-25, 09:57:18](https://news.ycombinator.com/item?id=39814334) - [Friends don't let friends export to CSV](https://kaveland.no/friends-dont-let-friends-export-to-csv.html)
 * [2024-03-25, 08:52:44](https://news.ycombinator.com/item?id=39813978) - [Computing with JavaScript's Undefined (2020)](https://esoteric.codes/blog/calculating-with-jss-undefined)
