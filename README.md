@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 10:37:30](https://news.ycombinator.com/item?id=39826176) - [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 * [2024-03-26, 08:40:38](https://news.ycombinator.com/item?id=39825459) - [Innocent St. Louis family terrorized in SWAT raid over stolen AirPods](https://boingboing.net/2024/03/25/innocent-st-louis-family-terrorized-in-swat-raid-over-stolen-airpods.html)
 * [2024-03-26, 07:25:09](https://news.ycombinator.com/item?id=39825033) - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
@@ -15,7 +16,6 @@
 * [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
-* [2024-03-25, 20:01:19](https://news.ycombinator.com/item?id=39820649) - [Why is the LinkedIn app almost half a gig?](https://threadreaderapp.com/thread/1772350918534582525.html)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 * [2024-03-25, 17:58:56](https://news.ycombinator.com/item?id=39819409) - [Two open source projects with great architecture documentation](https://johnjago.com/great-docs/)
