@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-26, 13:57:29](https://news.ycombinator.com/item?id=39827876) - [Barbara Fried SBF sentencing submission](https://www.documentcloud.org/documents/24445015-barbara-fried-sbf-sentencing-submission)
 * [2024-03-26, 13:51:48](https://news.ycombinator.com/item?id=39827828) - [VLC can't update on Android without giving Google private signing keys](https://social.treehouse.systems/@Aissen/112139649840297169)
 * [2024-03-26, 13:36:40](https://news.ycombinator.com/item?id=39827645) - [Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 * [2024-03-26, 13:28:20](https://news.ycombinator.com/item?id=39827562) - [Grafana Labs Observability Survey 2024](https://grafana.com/observability-survey/)
@@ -16,6 +15,7 @@
 * [2024-03-26, 05:20:13](https://news.ycombinator.com/item?id=39824478) - [Show HN: Charcoal – Faster utf8.Valid using multi-byte processing without SIMD](https://github.com/sugawarayuuta/charcoal)
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
 * [2024-03-26, 04:05:45](https://news.ycombinator.com/item?id=39824191) - [Canva has acquired Affinity in an effort to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
+* [2024-03-26, 03:47:53](https://news.ycombinator.com/item?id=39824100) - [Scientists rename genes to stop Microsoft Excel from misreading them as dates (2020)](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 * [2024-03-26, 03:27:56](https://news.ycombinator.com/item?id=39824019) - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
 * [2024-03-26, 01:29:07](https://news.ycombinator.com/item?id=39823373) - [Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)
 * [2024-03-26, 01:14:39](https://news.ycombinator.com/item?id=39823282) - [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
