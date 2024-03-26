@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-25, 23:29:45](https://news.ycombinator.com/item?id=39822476) - [Illness Impacting Dairy Cattle Is Confirmed as Highly Pathogenic Avian Flu](https://www.agweb.com/news/livestock/dairy/breaking-mystery-illness-impacting-texas-kansas-dairy-cattle-confirmed-highly)
+* [2024-03-26, 01:13:27](https://news.ycombinator.com/item?id=39823271) - [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
+* [2024-03-26, 00:48:47](https://news.ycombinator.com/item?id=39823079) - [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)
 * [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:19:53](https://news.ycombinator.com/item?id=39821868) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
@@ -12,7 +13,6 @@
 * [2024-03-25, 15:49:58](https://news.ycombinator.com/item?id=39817850) - [Show HN: Auto-generate an OpenAPI spec by listening to localhost](https://github.com/Adawg4/openapi-autospec)
 * [2024-03-25, 15:25:11](https://news.ycombinator.com/item?id=39817497) - [CFEngine's Star Trek and AI Origins (2023)](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
 * [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
-* [2024-03-25, 14:30:23](https://news.ycombinator.com/item?id=39816808) - [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
 * [2024-03-25, 14:01:15](https://news.ycombinator.com/item?id=39816423) - [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
 * [2024-03-25, 13:20:20](https://news.ycombinator.com/item?id=39815936) - [Martin Scorsese's secret life as an obsessive VHS archivist](https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive)
 * [2024-03-25, 13:06:44](https://news.ycombinator.com/item?id=39815805) - [Barcelona’s Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
