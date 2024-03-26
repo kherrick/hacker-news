@@ -8,6 +8,7 @@
 * [2024-03-26, 07:01:15](https://news.ycombinator.com/item?id=39824924) - [Kapa.ai (YC S23) is hiring a full stack engineer (with LLM focus)](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
 * [2024-03-26, 06:48:08](https://news.ycombinator.com/item?id=39824862) - [Crypto Had Its Chance](https://joanwestenberg.com/blog/crypto-had-its-chance)
 * [2024-03-26, 06:39:47](https://news.ycombinator.com/item?id=39824827) - [Telegram's peer-to-peer SMS login service is a privacy nightmare](https://techcrunch.com/2024/03/25/telegrams-peer-to-peer-sms-login-service-is-a-privacy-nightmare/)
+* [2024-03-26, 06:37:25](https://news.ycombinator.com/item?id=39824812) - [Boeing Demands Virgin Galactic Destroy All Data from Failed Partnership](https://gizmodo.com/boeing-virgin-galactic-lawsuit-destroy-data-venture-1851363137)
 * [2024-03-26, 06:17:57](https://news.ycombinator.com/item?id=39824728) - [I asked ChatGPT to write the code to print \"Hello, world \" as a junior developer](https://hachyderm.io/@vnglst/112135583244850791)
 * [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
 * [2024-03-26, 05:07:12](https://news.ycombinator.com/item?id=39824435) - [Debian's ROCm Continuous Integration](https://ci.rocm.debian.net/)
