@@ -14,6 +14,7 @@
 * [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
+* [2024-03-25, 20:01:19](https://news.ycombinator.com/item?id=39820649) - [Why is the LinkedIn app almost half a gig?](https://threadreaderapp.com/thread/1772350918534582525.html)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 * [2024-03-25, 17:58:56](https://news.ycombinator.com/item?id=39819409) - [Two open source projects with great architecture documentation](https://johnjago.com/great-docs/)
@@ -27,7 +28,6 @@
 * [2024-03-25, 07:48:34](https://news.ycombinator.com/item?id=39813626) - [Notes on debugging HotSpot's JIT compilation (2023)](https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html)
 * [2024-03-24, 02:33:22](https://news.ycombinator.com/item?id=39804695) - [Globotipo: Making a typeface that is seen by 100M people daily](https://plau.design/fontes-sob-medida/globotipo/)
 * [2024-03-23, 15:34:51](https://news.ycombinator.com/item?id=39800678) - [See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
-* [2024-03-23, 01:24:29](https://news.ycombinator.com/item?id=39796600) - [How to trade software for small money?](https://www.scattered-thoughts.net/writing/how-to-trade-software-for-small-money/)
 * [2024-03-22, 02:27:03](https://news.ycombinator.com/item?id=39786874) - [A new way Ebola replicates](https://nouvelles.umontreal.ca/en/article/2024/03/15/ebola-scientists-reveal-a-new-way-it-replicates/)
 * [2024-03-21, 18:12:26](https://news.ycombinator.com/item?id=39782261) - [Electronic project kits: hands on with a vintage 160-in-1 (2016)](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4)
 
