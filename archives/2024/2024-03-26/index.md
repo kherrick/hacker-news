@@ -6,6 +6,7 @@
 
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 * [2024-03-26, 09:21:18](https://news.ycombinator.com/item?id=39825726) - [Affinity (Serif) being purchased by Canva](https://affinity.serif.com/en-gb/press/newsroom/canva-statement/)
+* [2024-03-26, 08:40:38](https://news.ycombinator.com/item?id=39825459) - [Innocent St. Louis family terrorized in SWAT raid over stolen AirPods](https://boingboing.net/2024/03/25/innocent-st-louis-family-terrorized-in-swat-raid-over-stolen-airpods.html)
 * [2024-03-26, 08:38:13](https://news.ycombinator.com/item?id=39825440) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2024-03-26, 07:50:50](https://news.ycombinator.com/item?id=39825162) - [The Kalman Filter](https://thekalmanfilter.com/)
 * [2024-03-26, 07:25:09](https://news.ycombinator.com/item?id=39825033) - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
