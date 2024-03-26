@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-03-26, 18:31:08",
-      "https://news.ycombinator.com/item?id=39831198"
-    ],
-    [
-      "Why Google failed to make GPT-3",
-      "https://www.latent.space/p/adept"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 18:20:55",
-      "https://news.ycombinator.com/item?id=39831095"
-    ],
-    [
-      "Podman 5.0 has been released",
-      "https://blog.podman.io/2024/03/podman-5-0-has-been-released/"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 18:19:26",
       "https://news.ycombinator.com/item?id=39831074"
     ],
@@ -207,6 +187,26 @@
     [
       "Sega Saturn Architecture – A practical analysis",
       "https://www.copetti.org/writings/consoles/sega-saturn/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 05:52:12",
+      "https://news.ycombinator.com/item?id=39824611"
+    ],
+    [
+      "Packet-Editing Games in Golang (2021)",
+      "https://remyhax.xyz/posts/golang-packet-editing/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 05:20:13",
+      "https://news.ycombinator.com/item?id=39824478"
+    ],
+    [
+      "Show HN: Charcoal – Faster utf8.Valid using multi-byte processing without SIMD",
+      "https://github.com/sugawarayuuta/charcoal"
     ]
   ],
   [
