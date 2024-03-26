@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-26, 05:07:12](https://news.ycombinator.com/item?id=39824435) - [Debian's ROCm Continuous Integration](https://ci.rocm.debian.net/)
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
 * [2024-03-26, 04:05:45](https://news.ycombinator.com/item?id=39824191) - [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
 * [2024-03-26, 03:27:56](https://news.ycombinator.com/item?id=39824019) - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
@@ -16,6 +15,7 @@
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 * [2024-03-25, 17:58:56](https://news.ycombinator.com/item?id=39819409) - [Two open source projects with great architecture documentation](https://johnjago.com/great-docs/)
+* [2024-03-25, 17:12:53](https://news.ycombinator.com/item?id=39818825) - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 * [2024-03-25, 15:49:58](https://news.ycombinator.com/item?id=39817850) - [Show HN: Auto-generate an OpenAPI spec by listening to localhost](https://github.com/Adawg4/openapi-autospec)
 * [2024-03-25, 15:25:11](https://news.ycombinator.com/item?id=39817497) - [CFEngine's Star Trek and AI Origins (2023)](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
 * [2024-03-25, 14:32:46](https://news.ycombinator.com/item?id=39816836) - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
