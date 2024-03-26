@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 19:40:41](https://news.ycombinator.com/item?id=39831980) - [Everything in our universe may be conscious, scientists say](https://www.popularmechanics.com/science/a60229168/panpsychism-everything-has-a-soul/)
+* [2024-03-26, 19:39:01](https://news.ycombinator.com/item?id=39831962) - [Researchers Discover 40k-Strong EOL Router, IoT Botnet](https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/)
 * [2024-03-26, 19:19:43](https://news.ycombinator.com/item?id=39831754) - [GPT-4V(ision) Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
 * [2024-03-26, 18:53:00](https://news.ycombinator.com/item?id=39831441) - [Jamie Zawinski](https://en.wikipedia.org/wiki/Jamie_Zawinski)
 * [2024-03-26, 18:31:08](https://news.ycombinator.com/item?id=39831198) - [Why Google failed to make GPT-3](https://www.latent.space/p/adept)
