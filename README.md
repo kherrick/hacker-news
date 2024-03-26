@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-26, 18:19:53](https://news.ycombinator.com/item?id=39831085) - [Zoom added a mail feature. Tell me why?](https://twitter.com/allenholub/status/1772674824059695127)
+* [2024-03-26, 18:31:08](https://news.ycombinator.com/item?id=39831198) - [Why Google failed to make GPT-3](https://www.latent.space/p/adept)
+* [2024-03-26, 18:20:55](https://news.ycombinator.com/item?id=39831095) - [Podman 5.0 has been released](https://blog.podman.io/2024/03/podman-5-0-has-been-released/)
 * [2024-03-26, 18:13:56](https://news.ycombinator.com/item?id=39831001) - [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
 * [2024-03-26, 17:00:49](https://news.ycombinator.com/item?id=39830166) - [Banner (YC S19) Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
@@ -27,7 +28,6 @@
 * [2024-03-25, 14:22:53](https://news.ycombinator.com/item?id=39816708) - [Manipulating Chess-GPT's World Model](https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html)
 * [2024-03-25, 13:48:11](https://news.ycombinator.com/item?id=39816258) - [The other hard retrieval problems](https://softwaredoug.com/blog/2024/03/24/other-hard-retrieval)
 * [2024-03-25, 13:39:06](https://news.ycombinator.com/item?id=39816152) - [How do MRI Headphones work? (2022)](https://tomlingham.com/articles/how-do-mri-headphones-work/)
-* [2024-03-25, 12:21:05](https://news.ycombinator.com/item?id=39815391) - [Thoughts on Vision Pro](https://andrewhart.me/vision-pro/)
 * [2024-03-25, 07:56:09](https://news.ycombinator.com/item?id=39813679) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 07:30:40](https://news.ycombinator.com/item?id=39813537) - [A simple, (as-of-yet unidentified) asymmetric Authenticated Key Exchange](https://dannyvanheumen.nl/post/simple-asymmetric-ake/)
 
