@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-03-26, 07:25:09",
+      "https://news.ycombinator.com/item?id=39825033"
+    ],
+    [
+      "The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed",
+      "https://twitter.com/sentdefender/status/1772514015790477667"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 05:52:12",
       "https://news.ycombinator.com/item?id=39824611"
     ],
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2024-03-25, 08:52:44",
+      "https://news.ycombinator.com/item?id=39813978"
+    ],
+    [
+      "Computing with JavaScript's Undefined (2020)",
+      "https://esoteric.codes/blog/calculating-with-jss-undefined"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 08:04:59",
       "https://news.ycombinator.com/item?id=39813724"
     ],
@@ -277,26 +297,6 @@
     [
       "Notes on debugging HotSpot's JIT compilation (2023)",
       "https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-23, 04:19:33",
-      "https://news.ycombinator.com/item?id=39797416"
-    ],
-    [
-      "The Linux kernel.task_delayacct sysctl and why you might care about it",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/TaskDelayAccountingNotes"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 02:27:03",
-      "https://news.ycombinator.com/item?id=39786874"
-    ],
-    [
-      "A new way Ebola replicates",
-      "https://nouvelles.umontreal.ca/en/article/2024/03/15/ebola-scientists-reveal-a-new-way-it-replicates/"
     ]
   ]
 ]
