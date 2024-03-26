@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-03-26, 09:51:42",
+      "https://news.ycombinator.com/item?id=39825901"
+    ],
+    [
+      "Sega Saturn Architecture – A practical analysis",
+      "https://www.copetti.org/writings/consoles/sega-saturn/"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 08:38:13",
       "https://news.ycombinator.com/item?id=39825440"
     ],
     [
       "Why do regexes use `$` and `^` as line anchors?",
       "https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 07:50:50",
+      "https://news.ycombinator.com/item?id=39825162"
+    ],
+    [
+      "The Kalman Filter",
+      "https://thekalmanfilter.com/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Kapa.ai (YC S23) is hiring a full stack engineer (with LLM focus)",
       "https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 06:39:47",
-      "https://news.ycombinator.com/item?id=39824827"
-    ],
-    [
-      "Telegram's peer-to-peer SMS login service is a privacy nightmare",
-      "https://techcrunch.com/2024/03/25/telegrams-peer-to-peer-sms-login-service-is-a-privacy-nightmare/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Two open source projects with great architecture documentation",
       "https://johnjago.com/great-docs/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 14:01:15",
-      "https://news.ycombinator.com/item?id=39816423"
-    ],
-    [
-      "For Brilliant Color: Packaging the First LSD Blotter",
-      "https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/"
     ]
   ],
   [
