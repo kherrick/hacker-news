@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 12:41:02](https://news.ycombinator.com/item?id=39827113) - [Florida's DeSantis signs law restricting social media for people under 16](https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25)
+* [2024-03-26, 12:26:43](https://news.ycombinator.com/item?id=39826990) - [Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke](https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/)
 * [2024-03-26, 12:00:18](https://news.ycombinator.com/item?id=39826770) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
 * [2024-03-26, 10:41:48](https://news.ycombinator.com/item?id=39826209) - [Canva acquires Affinity to fill the Adobe-sized holes in its design suite](https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival)
 * [2024-03-26, 10:37:30](https://news.ycombinator.com/item?id=39826176) - [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
@@ -17,7 +19,6 @@
 * [2024-03-26, 00:48:47](https://news.ycombinator.com/item?id=39823079) - [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)
 * [2024-03-25, 23:00:40](https://news.ycombinator.com/item?id=39822222) - [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
-* [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 * [2024-03-25, 18:05:07](https://news.ycombinator.com/item?id=39819458) - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 * [2024-03-25, 17:58:56](https://news.ycombinator.com/item?id=39819409) - [Two open source projects with great architecture documentation](https://johnjago.com/great-docs/)
@@ -29,7 +30,6 @@
 * [2024-03-25, 07:48:34](https://news.ycombinator.com/item?id=39813626) - [Notes on debugging HotSpot's JIT compilation (2023)](https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html)
 * [2024-03-23, 15:34:51](https://news.ycombinator.com/item?id=39800678) - [See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
 * [2024-03-22, 02:27:03](https://news.ycombinator.com/item?id=39786874) - [A new way Ebola replicates](https://nouvelles.umontreal.ca/en/article/2024/03/15/ebola-scientists-reveal-a-new-way-it-replicates/)
-* [2024-03-21, 18:12:26](https://news.ycombinator.com/item?id=39782261) - [Electronic project kits: hands on with a vintage 160-in-1 (2016)](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4)
 
 ## [Archives](archives/index.md)
 
