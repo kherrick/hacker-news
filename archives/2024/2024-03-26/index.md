@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 21:37:35](https://news.ycombinator.com/item?id=39833161) - [Show HN: A game to memorize the major scale patterns on the guitar](https://www.fretboardfly.com/play/FBG-301)
 * [2024-03-26, 21:00:50](https://news.ycombinator.com/item?id=39832794) - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-03-26, 19:50:47](https://news.ycombinator.com/item?id=39832090) - [Accumulation of Lewy-Related Pathology Starts in Middle Age](https://onlinelibrary.wiley.com/doi/10.1002/ana.26912)
 * [2024-03-26, 19:49:17](https://news.ycombinator.com/item?id=39832071) - [The Bayesian Cringe (2021)](https://statmodeling.stat.columbia.edu/2021/09/15/the-bayesian-cringe/)

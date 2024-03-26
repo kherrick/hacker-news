@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 21:37:35](https://news.ycombinator.com/item?id=39833161) - [Show HN: A game to memorize the major scale patterns on the guitar](https://www.fretboardfly.com/play/FBG-301)
 * [2024-03-26, 21:00:50](https://news.ycombinator.com/item?id=39832794) - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-03-26, 19:49:17](https://news.ycombinator.com/item?id=39832071) - [The Bayesian Cringe (2021)](https://statmodeling.stat.columbia.edu/2021/09/15/the-bayesian-cringe/)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
@@ -24,7 +25,6 @@
 * [2024-03-25, 20:09:14](https://news.ycombinator.com/item?id=39820731) - [Cream is thicker than blood: the rise and fall of the Devon split](https://www.vittlesmagazine.com/p/cream-is-thicker-than-blood-the-rise)
 * [2024-03-25, 19:23:42](https://news.ycombinator.com/item?id=39820328) - [Netherlands is the second-largest exporter of agricultural products](https://www.washingtonpost.com/business/interactive/2022/netherlands-agriculture-technology/)
 * [2024-03-25, 18:21:21](https://news.ycombinator.com/item?id=39819611) - [Designing the light source for IRIS](https://www.bunniestudios.com/blog/?p=7035)
-* [2024-03-25, 18:07:01](https://news.ycombinator.com/item?id=39819472) - [Interview with Bluesky CEO Jay Graber](https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview)
 * [2024-03-25, 14:22:53](https://news.ycombinator.com/item?id=39816708) - [Manipulating Chess-GPT's World Model](https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html)
 * [2024-03-25, 09:10:14](https://news.ycombinator.com/item?id=39814079) - [Everyone is John: A competitive roleplaying game for three or more people](https://rtwolf.github.io/Everyone-is-John/)
 * [2024-03-25, 07:56:09](https://news.ycombinator.com/item?id=39813679) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
