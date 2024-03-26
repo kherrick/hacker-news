@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 06:17:57](https://news.ycombinator.com/item?id=39824728) - [I asked ChatGPT to write the code to print \"Hello, world \" as a junior developer](https://hachyderm.io/@vnglst/112135583244850791)
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
 * [2024-03-26, 04:05:45](https://news.ycombinator.com/item?id=39824191) - [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
 * [2024-03-26, 03:27:56](https://news.ycombinator.com/item?id=39824019) - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
@@ -26,7 +27,6 @@
 * [2024-03-25, 07:48:34](https://news.ycombinator.com/item?id=39813626) - [Notes on debugging HotSpot's JIT compilation (2023)](https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html)
 * [2024-03-24, 03:45:59](https://news.ycombinator.com/item?id=39805021) - [Velox: Meta's Unified Execution Engine [pdf]](https://www.eecs.umich.edu/courses/eecs584/static_files/papers/p3372-pedreira.pdf)
 * [2024-03-23, 15:34:51](https://news.ycombinator.com/item?id=39800678) - [See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
-* [2024-03-23, 07:49:45](https://news.ycombinator.com/item?id=39798225) - [Repairing a buggy board arcade machine](https://philwip.com/2024/03/22/pcb-repair-speed-buggy-buggy-boy/)
 * [2024-03-23, 02:05:09](https://news.ycombinator.com/item?id=39796837) - [William Adams: English Advisor to the Shogun](https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun)
 * [2024-03-22, 02:27:03](https://news.ycombinator.com/item?id=39786874) - [A new way Ebola replicates](https://nouvelles.umontreal.ca/en/article/2024/03/15/ebola-scientists-reveal-a-new-way-it-replicates/)
 * [2024-03-21, 18:12:26](https://news.ycombinator.com/item?id=39782261) - [Electronic project kits: hands on with a vintage 160-in-1 (2016)](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4)
