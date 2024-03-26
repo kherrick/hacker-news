@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-26, 13:51:48",
-      "https://news.ycombinator.com/item?id=39827828"
-    ],
-    [
-      "VLC can't update on Android without giving Google private signing keys",
-      "https://social.treehouse.systems/@Aissen/112139649840297169"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 13:36:40",
       "https://news.ycombinator.com/item?id=39827645"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2024-03-26, 13:28:20",
-      "https://news.ycombinator.com/item?id=39827562"
+      "2024-03-26, 13:13:04",
+      "https://news.ycombinator.com/item?id=39827390"
     ],
     [
-      "Grafana Labs Observability Survey 2024",
-      "https://grafana.com/observability-survey/"
+      "Show HN: I Made a Books Recommendation App Based on Your Mood",
+      "https://booksbymood.com"
     ]
   ],
   [
@@ -71,12 +61,22 @@
   ],
   [
     [
-      "2024-03-26, 10:41:48",
-      "https://news.ycombinator.com/item?id=39826209"
+      "2024-03-26, 11:19:53",
+      "https://news.ycombinator.com/item?id=39826463"
     ],
     [
-      "Canva acquires Affinity to fill the Adobe-sized holes in its design suite",
-      "https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival"
+      "OpenAI Sora's first short film – \"Air Head,\" created by shy kids [video]",
+      "https://www.youtube.com/watch?v=yplb0yBEiRo"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 10:55:49",
+      "https://news.ycombinator.com/item?id=39826315"
+    ],
+    [
+      "Show HN: WhatTheDuck – open-source, in-browser SQL on CSV files",
+      "https://github.com/incentius-foss/WhatTheDuck"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Canva has acquired Affinity in an effort to compete with Adobe",
       "https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 03:47:53",
-      "https://news.ycombinator.com/item?id=39824100"
-    ],
-    [
-      "Scientists rename genes to stop Microsoft Excel from misreading them as dates (2020)",
-      "https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Show HN: Tracecat – Open-source security alert automation / SOAR alternative",
       "https://github.com/TracecatHQ/tracecat"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 13:20:20",
+      "https://news.ycombinator.com/item?id=39815936"
+    ],
+    [
+      "Martin Scorsese's secret life as an obsessive VHS archivist",
+      "https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive"
     ]
   ],
   [
