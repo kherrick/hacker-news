@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-26, 16:25:50",
-      "https://news.ycombinator.com/item?id=39829695"
+      "2024-03-26, 17:00:49",
+      "https://news.ycombinator.com/item?id=39830166"
     ],
     [
-      "Ask HN: What non-AI products are you working on?",
-      "https://news.ycombinator.com/item?id=39829695"
+      "Banner (YC S19) Is Hiring",
+      "https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager"
     ]
   ],
   [
@@ -55,8 +55,8 @@
       "https://news.ycombinator.com/item?id=39828424"
     ],
     [
-      "Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086",
-      "https://github.com/Notselwyn/CVE-2024-1086"
+      "Flipping Pages: New Linux vulnerability in nf_tables and exploitation techniques",
+      "https://pwning.tech/nftables/"
     ]
   ],
   [
@@ -111,12 +111,32 @@
   ],
   [
     [
+      "2024-03-26, 12:58:21",
+      "https://news.ycombinator.com/item?id=39827266"
+    ],
+    [
+      "Baltimore's Key Bridge struck by cargo ship, collapses",
+      "https://www.wbaltv.com/article/baltimore-bridge-collapse-key-bridge/60303975"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 12:42:17",
       "https://news.ycombinator.com/item?id=39827127"
     ],
     [
       "Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat",
       "https://github.com/DoMusic/Hybrid-Net"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 12:41:02",
+      "https://news.ycombinator.com/item?id=39827113"
+    ],
+    [
+      "Florida's DeSantis signs law restricting social media for people under 16",
+      "https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25"
     ]
   ],
   [
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2024-03-26, 12:00:18",
-      "https://news.ycombinator.com/item?id=39826770"
+      "2024-03-26, 12:06:42",
+      "https://news.ycombinator.com/item?id=39826820"
     ],
     [
-      "Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again",
-      "https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer"
+      "42.parquet – A Zip Bomb for the Big Data Age",
+      "https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Sega Saturn Architecture – A practical analysis",
       "https://www.copetti.org/writings/consoles/sega-saturn/"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 07:25:09",
-      "https://news.ycombinator.com/item?id=39825033"
-    ],
-    [
-      "The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed",
-      "https://twitter.com/sentdefender/status/1772514015790477667"
     ]
   ],
   [
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2024-03-26, 01:29:07",
-      "https://news.ycombinator.com/item?id=39823373"
-    ],
-    [
-      "Deej: An open-source hardware volume mixer for Windows and Linux",
-      "https://github.com/omriharel/deej"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 01:14:39",
-      "https://news.ycombinator.com/item?id=39823282"
-    ],
-    [
-      "Lifelong Disadvantage: How Socioeconomics Affect Brain Function",
-      "https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 00:57:44",
       "https://news.ycombinator.com/item?id=39823146"
     ],
@@ -251,22 +241,22 @@
   ],
   [
     [
-      "2024-03-25, 22:56:37",
-      "https://news.ycombinator.com/item?id=39822184"
+      "2024-03-26, 00:51:28",
+      "https://news.ycombinator.com/item?id=39823104"
     ],
     [
-      "Google's First Tensor Processing Unit: Architecture",
-      "https://thechipletter.substack.com/p/googles-first-tpu-architecture"
+      "Moirai: A time series foundation model for universal forecasting",
+      "https://blog.salesforceairesearch.com/moirai/"
     ]
   ],
   [
     [
-      "2024-03-25, 18:20:05",
-      "https://news.ycombinator.com/item?id=39819599"
+      "2024-03-25, 18:05:07",
+      "https://news.ycombinator.com/item?id=39819458"
     ],
     [
-      "ZenHammer: Rowhammer attacks on AMD Zen-based platforms",
-      "https://comsec.ethz.ch/research/dram/zenhammer/"
+      "Show HN: Tracecat – Open-source security alert automation / SOAR alternative",
+      "https://github.com/TracecatHQ/tracecat"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Notes on debugging HotSpot's JIT compilation (2023)",
       "https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-23, 15:34:51",
+      "https://news.ycombinator.com/item?id=39800678"
+    ],
+    [
+      "See a Fish? Ring the Bell",
+      "https://visdeurbel.nl/en/the-fish-doorbell/"
     ]
   ]
 ]
