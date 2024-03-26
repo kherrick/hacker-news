@@ -14,6 +14,7 @@
 * [2024-03-26, 12:00:18](https://news.ycombinator.com/item?id=39826770) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
 * [2024-03-26, 10:55:49](https://news.ycombinator.com/item?id=39826315) - [Show HN: WhatTheDuck – open-source, in-browser SQL on CSV files](https://github.com/incentius-foss/WhatTheDuck)
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
+* [2024-03-26, 07:25:09](https://news.ycombinator.com/item?id=39825033) - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
 * [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
 * [2024-03-26, 05:20:13](https://news.ycombinator.com/item?id=39824478) - [Show HN: Charcoal – Faster utf8.Valid using multi-byte processing without SIMD](https://github.com/sugawarayuuta/charcoal)
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
@@ -25,11 +26,10 @@
 * [2024-03-26, 00:51:28](https://news.ycombinator.com/item?id=39823104) - [Moirai: A time series foundation model for universal forecasting](https://blog.salesforceairesearch.com/moirai/)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
+* [2024-03-25, 08:52:44](https://news.ycombinator.com/item?id=39813978) - [Computing with JavaScript's Undefined (2020)](https://esoteric.codes/blog/calculating-with-jss-undefined)
 * [2024-03-25, 08:04:59](https://news.ycombinator.com/item?id=39813724) - [Writing x86 SIMD using x86inc.asm (2017)](https://blogs.gnome.org/rbultje/2017/07/14/writing-x86-simd-using-x86inc-asm/)
 * [2024-03-25, 07:56:09](https://news.ycombinator.com/item?id=39813679) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 07:48:34](https://news.ycombinator.com/item?id=39813626) - [Notes on debugging HotSpot's JIT compilation (2023)](https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html)
-* [2024-03-23, 04:19:33](https://news.ycombinator.com/item?id=39797416) - [The Linux kernel.task_delayacct sysctl and why you might care about it](https://utcc.utoronto.ca/~cks/space/blog/linux/TaskDelayAccountingNotes)
-* [2024-03-22, 02:27:03](https://news.ycombinator.com/item?id=39786874) - [A new way Ebola replicates](https://nouvelles.umontreal.ca/en/article/2024/03/15/ebola-scientists-reveal-a-new-way-it-replicates/)
 
 ## [Archives](archives/index.md)
 
