@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-03-26, 14:15:02",
-      "https://news.ycombinator.com/item?id=39828091"
-    ],
-    [
-      "Visa, Mastercard Agree to Lower Swipe Fees, Settling Long-Running Lawsuit",
-      "https://www.wsj.com/finance/banking/visa-mastercard-agree-to-lower-swipe-fees-settling-long-running-lawsuit-d6e5f0a8"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 14:12:16",
       "https://news.ycombinator.com/item?id=39828058"
     ],
@@ -141,26 +131,6 @@
   ],
   [
     [
-      "2024-03-26, 12:26:43",
-      "https://news.ycombinator.com/item?id=39826990"
-    ],
-    [
-      "HMRC offers a Linux version of Basic PAYE Tools, but it recently stopped working",
-      "https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 12:06:42",
-      "https://news.ycombinator.com/item?id=39826820"
-    ],
-    [
-      "42.parquet – A Zip Bomb for the Big Data Age",
-      "https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 10:55:49",
       "https://news.ycombinator.com/item?id=39826315"
     ],
@@ -211,32 +181,12 @@
   ],
   [
     [
-      "2024-03-26, 04:05:45",
-      "https://news.ycombinator.com/item?id=39824191"
-    ],
-    [
-      "Canva has acquired Affinity in an effort to compete with Adobe",
-      "https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 03:27:56",
       "https://news.ycombinator.com/item?id=39824019"
     ],
     [
       "Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia",
       "https://arxiv.org/abs/2403.16341"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 00:57:44",
-      "https://news.ycombinator.com/item?id=39823146"
-    ],
-    [
-      "An AI robot is destroying sick tulips in Dutch bulb fields",
-      "https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e"
     ]
   ],
   [
@@ -251,6 +201,16 @@
   ],
   [
     [
+      "2024-03-25, 20:58:05",
+      "https://news.ycombinator.com/item?id=39821196"
+    ],
+    [
+      "Building an email-to-calendar LLM",
+      "https://ngacho.com/blog/emaillm/"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 20:09:14",
       "https://news.ycombinator.com/item?id=39820731"
     ],
@@ -261,22 +221,62 @@
   ],
   [
     [
-      "2024-03-25, 18:05:07",
-      "https://news.ycombinator.com/item?id=39819458"
+      "2024-03-25, 18:56:14",
+      "https://news.ycombinator.com/item?id=39820011"
     ],
     [
-      "Show HN: Tracecat – Open-source security alert automation / SOAR alternative",
-      "https://github.com/TracecatHQ/tracecat"
+      "Scripts should be written using the project main language",
+      "https://joaomagfreitas.link/scripts-should-be-written-using-the-project-main-language/"
     ]
   ],
   [
     [
-      "2024-03-25, 13:20:20",
-      "https://news.ycombinator.com/item?id=39815936"
+      "2024-03-25, 16:24:05",
+      "https://news.ycombinator.com/item?id=39818244"
     ],
     [
-      "Martin Scorsese's secret life as an obsessive VHS archivist",
-      "https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive"
+      "The Future of Computer Science (2018)",
+      "https://dr-knz.net/on-the-future.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 14:22:53",
+      "https://news.ycombinator.com/item?id=39816708"
+    ],
+    [
+      "Manipulating Chess-GPT's World Model",
+      "https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 13:48:11",
+      "https://news.ycombinator.com/item?id=39816258"
+    ],
+    [
+      "The other hard retrieval problems",
+      "https://softwaredoug.com/blog/2024/03/24/other-hard-retrieval"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 13:39:06",
+      "https://news.ycombinator.com/item?id=39816152"
+    ],
+    [
+      "How do MRI Headphones work? (2022)",
+      "https://tomlingham.com/articles/how-do-mri-headphones-work/"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 12:21:05",
+      "https://news.ycombinator.com/item?id=39815391"
+    ],
+    [
+      "Thoughts on Vision Pro",
+      "https://andrewhart.me/vision-pro/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-03-23, 15:34:51",
-      "https://news.ycombinator.com/item?id=39800678"
+      "2024-03-25, 07:30:40",
+      "https://news.ycombinator.com/item?id=39813537"
     ],
     [
-      "See a Fish? Ring the Bell",
-      "https://visdeurbel.nl/en/the-fish-doorbell/"
+      "A simple, (as-of-yet unidentified) asymmetric Authenticated Key Exchange",
+      "https://dannyvanheumen.nl/post/simple-asymmetric-ake/"
     ]
   ]
 ]
