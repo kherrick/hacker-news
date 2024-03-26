@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
 * [2024-03-26, 12:00:18](https://news.ycombinator.com/item?id=39826770) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
+* [2024-03-26, 10:41:48](https://news.ycombinator.com/item?id=39826209) - [Canva acquires Affinity to fill the Adobe-sized holes in its design suite](https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival)
 * [2024-03-26, 10:37:30](https://news.ycombinator.com/item?id=39826176) - [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 * [2024-03-26, 09:21:18](https://news.ycombinator.com/item?id=39825726) - [Affinity (Serif) being purchased by Canva](https://affinity.serif.com/en-gb/press/newsroom/canva-statement/)
@@ -18,6 +19,7 @@
 * [2024-03-26, 06:37:25](https://news.ycombinator.com/item?id=39824812) - [Boeing Demands Virgin Galactic Destroy All Data from Failed Partnership](https://gizmodo.com/boeing-virgin-galactic-lawsuit-destroy-data-venture-1851363137)
 * [2024-03-26, 06:17:57](https://news.ycombinator.com/item?id=39824728) - [I asked ChatGPT to write the code to print \"Hello, world \" as a junior developer](https://hachyderm.io/@vnglst/112135583244850791)
 * [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
+* [2024-03-26, 05:45:17](https://news.ycombinator.com/item?id=39824589) - [Show HN: Learn Any Language with an AI Tutor at Your Own Pace](https://www.fluffytutor.com)
 * [2024-03-26, 05:21:01](https://news.ycombinator.com/item?id=39824483) - [Welcome to Virtualdesktop.org](http://www.virtualdesktop.org/complete/index.html)
 * [2024-03-26, 05:20:13](https://news.ycombinator.com/item?id=39824478) - [Show HN: Charcoal – Faster utf8.Valid using multi-byte processing without SIMD](https://github.com/sugawarayuuta/charcoal)
 * [2024-03-26, 05:07:12](https://news.ycombinator.com/item?id=39824435) - [Debian's ROCm Continuous Integration](https://ci.rocm.debian.net/)
