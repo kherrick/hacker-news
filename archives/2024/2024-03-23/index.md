@@ -92,6 +92,7 @@
 * [2024-03-23, 05:08:55](https://news.ycombinator.com/item?id=39797615) - [SceneScript, a novel approach for 3D scene reconstruction](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/)
 * [2024-03-23, 04:51:27](https://news.ycombinator.com/item?id=39797544) - [He quit heading The Pentagon's UFO office. Now his report has shaken up ufology](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)
 * [2024-03-23, 04:28:39](https://news.ycombinator.com/item?id=39797455) - [Who Owns What in NYC?](https://whoownswhat.justfix.org/)
+* [2024-03-23, 04:19:33](https://news.ycombinator.com/item?id=39797416) - [The Linux kernel.task_delayacct sysctl and why you might care about it](https://utcc.utoronto.ca/~cks/space/blog/linux/TaskDelayAccountingNotes)
 * [2024-03-23, 03:33:17](https://news.ycombinator.com/item?id=39797176) - [Stability AI: Emad Mostaque resigned from his role as CEO](https://stability.ai/news/stabilityai-announcement)
 * [2024-03-23, 02:19:13](https://news.ycombinator.com/item?id=39796893) - [Soupault: A static website management tool](https://soupault.app/)
 * [2024-03-23, 02:05:09](https://news.ycombinator.com/item?id=39796837) - [William Adams: English Advisor to the Shogun](https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun)
