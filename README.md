@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 16:25:50](https://news.ycombinator.com/item?id=39829695) - [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
+* [2024-03-26, 16:24:18](https://news.ycombinator.com/item?id=39829677) - [We have a content quality problem, not a content quantity problem](https://coryd.dev/posts/2024/we-have-a-content-quality-problem-not-a-content-quantity-problem/)
 * [2024-03-26, 15:16:23](https://news.ycombinator.com/item?id=39828963) - [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 14:38:48](https://news.ycombinator.com/item?id=39828481) - [Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
@@ -23,10 +25,8 @@
 * [2024-03-26, 01:29:07](https://news.ycombinator.com/item?id=39823373) - [Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)
 * [2024-03-26, 01:14:39](https://news.ycombinator.com/item?id=39823282) - [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
 * [2024-03-26, 00:57:44](https://news.ycombinator.com/item?id=39823146) - [An AI robot is destroying sick tulips in Dutch bulb fields](https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e)
-* [2024-03-26, 00:51:28](https://news.ycombinator.com/item?id=39823104) - [Moirai: A time series foundation model for universal forecasting](https://blog.salesforceairesearch.com/moirai/)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 18:20:05](https://news.ycombinator.com/item?id=39819599) - [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
-* [2024-03-25, 08:52:44](https://news.ycombinator.com/item?id=39813978) - [Computing with JavaScript's Undefined (2020)](https://esoteric.codes/blog/calculating-with-jss-undefined)
 * [2024-03-25, 08:04:59](https://news.ycombinator.com/item?id=39813724) - [Writing x86 SIMD using x86inc.asm (2017)](https://blogs.gnome.org/rbultje/2017/07/14/writing-x86-simd-using-x86inc-asm/)
 * [2024-03-25, 07:56:09](https://news.ycombinator.com/item?id=39813679) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 07:48:34](https://news.ycombinator.com/item?id=39813626) - [Notes on debugging HotSpot's JIT compilation (2023)](https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html)

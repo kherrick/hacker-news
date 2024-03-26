@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 16:25:50](https://news.ycombinator.com/item?id=39829695) - [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
+* [2024-03-26, 16:24:18](https://news.ycombinator.com/item?id=39829677) - [We have a content quality problem, not a content quantity problem](https://coryd.dev/posts/2024/we-have-a-content-quality-problem-not-a-content-quantity-problem/)
 * [2024-03-26, 15:16:23](https://news.ycombinator.com/item?id=39828963) - [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 14:38:48](https://news.ycombinator.com/item?id=39828481) - [Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
