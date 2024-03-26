@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 07:25:09](https://news.ycombinator.com/item?id=39825033) - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
 * [2024-03-26, 07:01:15](https://news.ycombinator.com/item?id=39824924) - [Kapa.ai (YC S23) is hiring a full stack engineer (with LLM focus)](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
 * [2024-03-26, 06:17:57](https://news.ycombinator.com/item?id=39824728) - [I asked ChatGPT to write the code to print \"Hello, world \" as a junior developer](https://hachyderm.io/@vnglst/112135583244850791)
 * [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
 * [2024-03-26, 04:05:45](https://news.ycombinator.com/item?id=39824191) - [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
-* [2024-03-26, 03:47:53](https://news.ycombinator.com/item?id=39824100) - [Scientists rename genes to stop Microsoft Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 * [2024-03-26, 03:27:56](https://news.ycombinator.com/item?id=39824019) - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
 * [2024-03-26, 01:52:41](https://news.ycombinator.com/item?id=39823505) - [Unlocking the secrets of myelin repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
 * [2024-03-26, 01:29:07](https://news.ycombinator.com/item?id=39823373) - [Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 07:25:09](https://news.ycombinator.com/item?id=39825033) - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
 * [2024-03-26, 07:01:15](https://news.ycombinator.com/item?id=39824924) - [Kapa.ai (YC S23) is hiring a full stack engineer (with LLM focus)](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
 * [2024-03-26, 06:17:57](https://news.ycombinator.com/item?id=39824728) - [I asked ChatGPT to write the code to print \"Hello, world \" as a junior developer](https://hachyderm.io/@vnglst/112135583244850791)
 * [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
