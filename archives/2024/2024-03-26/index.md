@@ -15,6 +15,7 @@
 * [2024-03-26, 05:07:12](https://news.ycombinator.com/item?id=39824435) - [Debian's ROCm Continuous Integration](https://ci.rocm.debian.net/)
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
 * [2024-03-26, 04:05:45](https://news.ycombinator.com/item?id=39824191) - [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
+* [2024-03-26, 03:54:06](https://news.ycombinator.com/item?id=39824138) - [Welcome to Canva, Affinity](https://www.canva.com/newsroom/news/affinity/)
 * [2024-03-26, 03:47:53](https://news.ycombinator.com/item?id=39824100) - [Scientists rename genes to stop Microsoft Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 * [2024-03-26, 03:27:56](https://news.ycombinator.com/item?id=39824019) - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
 * [2024-03-26, 02:52:30](https://news.ycombinator.com/item?id=39823856) - [Nix at Scale](https://lwn.net/SubscriberLink/965631/f3db6d3dde3f83cb/)
