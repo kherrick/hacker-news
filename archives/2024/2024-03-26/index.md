@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 18:19:53](https://news.ycombinator.com/item?id=39831085) - [Zoom added a mail feature. Tell me why?](https://twitter.com/allenholub/status/1772674824059695127)
+* [2024-03-26, 18:13:56](https://news.ycombinator.com/item?id=39831001) - [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
 * [2024-03-26, 17:45:01](https://news.ycombinator.com/item?id=39830654) - [ADHD Productivity Fundamentals](https://0xff.nu/adhd-productivity-fundamentals)
 * [2024-03-26, 17:43:39](https://news.ycombinator.com/item?id=39830639) - [One of the Most Anticipated AI Gadgets Now Has a Release Date](https://www.inverse.com/tech/rabbit-r1-release-date)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
