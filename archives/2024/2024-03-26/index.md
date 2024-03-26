@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 14:38:48](https://news.ycombinator.com/item?id=39828481) - [Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
+* [2024-03-26, 14:35:33](https://news.ycombinator.com/item?id=39828424) - [Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
 * [2024-03-26, 14:15:02](https://news.ycombinator.com/item?id=39828091) - [Visa, Mastercard Agree to Lower Swipe Fees, Settling Long-Running Lawsuit](https://www.wsj.com/finance/banking/visa-mastercard-agree-to-lower-swipe-fees-settling-long-running-lawsuit-d6e5f0a8)
+* [2024-03-26, 14:12:16](https://news.ycombinator.com/item?id=39828058) - [Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
 * [2024-03-26, 13:57:29](https://news.ycombinator.com/item?id=39827876) - [Barbara Fried SBF sentencing submission](https://www.documentcloud.org/documents/24445015-barbara-fried-sbf-sentencing-submission)
 * [2024-03-26, 13:51:48](https://news.ycombinator.com/item?id=39827828) - [VLC can't update on Android without giving Google private signing keys](https://social.treehouse.systems/@Aissen/112139649840297169)
 * [2024-03-26, 13:36:40](https://news.ycombinator.com/item?id=39827645) - [Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
