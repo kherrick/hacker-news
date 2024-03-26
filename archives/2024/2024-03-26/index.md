@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 22:21:08](https://news.ycombinator.com/item?id=39833512) - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 * [2024-03-26, 22:06:35](https://news.ycombinator.com/item?id=39833403) - [Sudo-rs dependencies: when less is better](https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better)
 * [2024-03-26, 21:37:35](https://news.ycombinator.com/item?id=39833161) - [Show HN: A game to memorize the major scale patterns on the guitar](https://www.fretboardfly.com/play/FBG-301)
 * [2024-03-26, 21:00:50](https://news.ycombinator.com/item?id=39832794) - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
