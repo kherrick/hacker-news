@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 21:00:50](https://news.ycombinator.com/item?id=39832794) - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-03-26, 19:50:47](https://news.ycombinator.com/item?id=39832090) - [Accumulation of Lewy-Related Pathology Starts in Middle Age](https://onlinelibrary.wiley.com/doi/10.1002/ana.26912)
 * [2024-03-26, 19:49:17](https://news.ycombinator.com/item?id=39832071) - [The Bayesian Cringe (2021)](https://statmodeling.stat.columbia.edu/2021/09/15/the-bayesian-cringe/)
 * [2024-03-26, 19:40:41](https://news.ycombinator.com/item?id=39831980) - [Everything in our universe may be conscious, scientists say](https://www.popularmechanics.com/science/a60229168/panpsychism-everything-has-a-soul/)
@@ -52,6 +53,7 @@
 * [2024-03-26, 10:41:48](https://news.ycombinator.com/item?id=39826209) - [Canva acquires Affinity to fill the Adobe-sized holes in its design suite](https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival)
 * [2024-03-26, 10:37:30](https://news.ycombinator.com/item?id=39826176) - [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
+* [2024-03-26, 09:28:35](https://news.ycombinator.com/item?id=39825770) - [Spinner-mouse: Arduino-based USB rotary controller for Arkanoid, Tempest, etc.](https://github.com/carlosefr/spinner-mouse)
 * [2024-03-26, 09:21:18](https://news.ycombinator.com/item?id=39825726) - [Affinity (Serif) being purchased by Canva](https://affinity.serif.com/en-gb/press/newsroom/canva-statement/)
 * [2024-03-26, 08:40:38](https://news.ycombinator.com/item?id=39825459) - [Innocent St. Louis family terrorized in SWAT raid over stolen AirPods](https://boingboing.net/2024/03/25/innocent-st-louis-family-terrorized-in-swat-raid-over-stolen-airpods.html)
 * [2024-03-26, 08:38:13](https://news.ycombinator.com/item?id=39825440) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
