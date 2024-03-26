@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-26, 18:31:08](https://news.ycombinator.com/item?id=39831198) - [Why Google failed to make GPT-3](https://www.latent.space/p/adept)
-* [2024-03-26, 18:20:55](https://news.ycombinator.com/item?id=39831095) - [Podman 5.0 has been released](https://blog.podman.io/2024/03/podman-5-0-has-been-released/)
 * [2024-03-26, 18:19:26](https://news.ycombinator.com/item?id=39831074) - [Mathematics for Computer Science – MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 * [2024-03-26, 18:17:51](https://news.ycombinator.com/item?id=39831055) - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
 * [2024-03-26, 18:13:56](https://news.ycombinator.com/item?id=39831001) - [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
@@ -21,6 +19,8 @@
 * [2024-03-26, 12:42:17](https://news.ycombinator.com/item?id=39827127) - [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
 * [2024-03-26, 10:55:49](https://news.ycombinator.com/item?id=39826315) - [Show HN: WhatTheDuck – open-source, in-browser SQL on CSV files](https://github.com/incentius-foss/WhatTheDuck)
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
+* [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
+* [2024-03-26, 05:20:13](https://news.ycombinator.com/item?id=39824478) - [Show HN: Charcoal – Faster utf8.Valid using multi-byte processing without SIMD](https://github.com/sugawarayuuta/charcoal)
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
 * [2024-03-25, 20:58:05](https://news.ycombinator.com/item?id=39821196) - [Building an email-to-calendar LLM](https://ngacho.com/blog/emaillm/)
 * [2024-03-25, 20:09:14](https://news.ycombinator.com/item?id=39820731) - [Cream is thicker than blood: the rise and fall of the Devon split](https://www.vittlesmagazine.com/p/cream-is-thicker-than-blood-the-rise)
