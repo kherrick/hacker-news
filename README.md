@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 19:19:43](https://news.ycombinator.com/item?id=39831754) - [GPT-4V(ision) Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
 * [2024-03-26, 18:19:26](https://news.ycombinator.com/item?id=39831074) - [Mathematics for Computer Science – MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 * [2024-03-26, 18:17:51](https://news.ycombinator.com/item?id=39831055) - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
-* [2024-03-26, 18:13:56](https://news.ycombinator.com/item?id=39831001) - [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
+* [2024-03-26, 18:13:56](https://news.ycombinator.com/item?id=39831001) - [Rust data structures with circular references (2021)](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
 * [2024-03-26, 17:00:49](https://news.ycombinator.com/item?id=39830166) - [Banner (YC S19) Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
 * [2024-03-26, 16:24:30](https://news.ycombinator.com/item?id=39829681) - [Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
@@ -20,7 +21,6 @@
 * [2024-03-26, 10:55:49](https://news.ycombinator.com/item?id=39826315) - [Show HN: WhatTheDuck – open-source, in-browser SQL on CSV files](https://github.com/incentius-foss/WhatTheDuck)
 * [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 * [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
-* [2024-03-26, 05:20:13](https://news.ycombinator.com/item?id=39824478) - [Show HN: Charcoal – Faster utf8.Valid using multi-byte processing without SIMD](https://github.com/sugawarayuuta/charcoal)
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
 * [2024-03-25, 20:58:05](https://news.ycombinator.com/item?id=39821196) - [Building an email-to-calendar LLM](https://ngacho.com/blog/emaillm/)
 * [2024-03-25, 20:09:14](https://news.ycombinator.com/item?id=39820731) - [Cream is thicker than blood: the rise and fall of the Devon split](https://www.vittlesmagazine.com/p/cream-is-thicker-than-blood-the-rise)
