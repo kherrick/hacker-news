@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
 * [2024-03-26, 19:19:43](https://news.ycombinator.com/item?id=39831754) - [GPT-4V(ision) Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
+* [2024-03-26, 18:53:00](https://news.ycombinator.com/item?id=39831441) - [Jamie Zawinski](https://en.wikipedia.org/wiki/Jamie_Zawinski)
 * [2024-03-26, 18:31:08](https://news.ycombinator.com/item?id=39831198) - [Why Google failed to make GPT-3](https://www.latent.space/p/adept)
 * [2024-03-26, 18:20:55](https://news.ycombinator.com/item?id=39831095) - [Podman 5.0 has been released](https://blog.podman.io/2024/03/podman-5-0-has-been-released/)
 * [2024-03-26, 18:19:53](https://news.ycombinator.com/item?id=39831085) - [Zoom added a mail feature. Tell me why?](https://twitter.com/allenholub/status/1772674824059695127)
