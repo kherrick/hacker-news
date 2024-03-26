@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
 * [2024-03-26, 06:17:57](https://news.ycombinator.com/item?id=39824728) - [I asked ChatGPT to write the code to print \"Hello, world \" as a junior developer](https://hachyderm.io/@vnglst/112135583244850791)
+* [2024-03-26, 05:52:12](https://news.ycombinator.com/item?id=39824611) - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
 * [2024-03-26, 05:07:12](https://news.ycombinator.com/item?id=39824435) - [Debian's ROCm Continuous Integration](https://ci.rocm.debian.net/)
 * [2024-03-26, 04:46:01](https://news.ycombinator.com/item?id=39824335) - [Chess puzzle, but you are what you capture](https://echochess.com)
 * [2024-03-26, 04:05:45](https://news.ycombinator.com/item?id=39824191) - [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
