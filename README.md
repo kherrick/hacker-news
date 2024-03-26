@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-26, 19:50:47](https://news.ycombinator.com/item?id=39832090) - [Accumulation of Lewy-Related Pathology Starts in Middle Age](https://onlinelibrary.wiley.com/doi/10.1002/ana.26912)
+* [2024-03-26, 19:49:17](https://news.ycombinator.com/item?id=39832071) - [The Bayesian Cringe (2021)](https://statmodeling.stat.columbia.edu/2021/09/15/the-bayesian-cringe/)
 * [2024-03-26, 19:39:01](https://news.ycombinator.com/item?id=39831962) - [Researchers Discover 40k-Strong EOL Router, IoT Botnet](https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/)
 * [2024-03-26, 19:19:43](https://news.ycombinator.com/item?id=39831754) - [GPT-4V(ision) Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
 * [2024-03-26, 18:17:51](https://news.ycombinator.com/item?id=39831055) - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
@@ -7,7 +9,6 @@
 * [2024-03-26, 17:00:49](https://news.ycombinator.com/item?id=39830166) - [Banner (YC S19) Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
 * [2024-03-26, 16:25:50](https://news.ycombinator.com/item?id=39829695) - [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
 * [2024-03-26, 16:24:30](https://news.ycombinator.com/item?id=39829681) - [Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
-* [2024-03-26, 15:16:23](https://news.ycombinator.com/item?id=39828963) - [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 14:38:48](https://news.ycombinator.com/item?id=39828481) - [Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
 * [2024-03-26, 14:35:33](https://news.ycombinator.com/item?id=39828424) - [Flipping Pages: New Linux vulnerability in nf_tables and exploitation techniques](https://pwning.tech/nftables/)
@@ -28,7 +29,6 @@
 * [2024-03-25, 14:22:53](https://news.ycombinator.com/item?id=39816708) - [Manipulating Chess-GPT's World Model](https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html)
 * [2024-03-25, 13:48:11](https://news.ycombinator.com/item?id=39816258) - [The other hard retrieval problems](https://softwaredoug.com/blog/2024/03/24/other-hard-retrieval)
 * [2024-03-25, 13:39:06](https://news.ycombinator.com/item?id=39816152) - [How do MRI Headphones work? (2022)](https://tomlingham.com/articles/how-do-mri-headphones-work/)
-* [2024-03-25, 07:56:09](https://news.ycombinator.com/item?id=39813679) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 07:30:40](https://news.ycombinator.com/item?id=39813537) - [A simple, (as-of-yet unidentified) asymmetric Authenticated Key Exchange](https://dannyvanheumen.nl/post/simple-asymmetric-ake/)
 
 ## [Archives](archives/index.md)

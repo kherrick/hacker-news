@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 19:50:47](https://news.ycombinator.com/item?id=39832090) - [Accumulation of Lewy-Related Pathology Starts in Middle Age](https://onlinelibrary.wiley.com/doi/10.1002/ana.26912)
+* [2024-03-26, 19:49:17](https://news.ycombinator.com/item?id=39832071) - [The Bayesian Cringe (2021)](https://statmodeling.stat.columbia.edu/2021/09/15/the-bayesian-cringe/)
 * [2024-03-26, 19:40:41](https://news.ycombinator.com/item?id=39831980) - [Everything in our universe may be conscious, scientists say](https://www.popularmechanics.com/science/a60229168/panpsychism-everything-has-a-soul/)
 * [2024-03-26, 19:39:01](https://news.ycombinator.com/item?id=39831962) - [Researchers Discover 40k-Strong EOL Router, IoT Botnet](https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/)
 * [2024-03-26, 19:19:43](https://news.ycombinator.com/item?id=39831754) - [GPT-4V(ision) Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
