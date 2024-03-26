@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-26, 13:57:29",
+      "https://news.ycombinator.com/item?id=39827876"
+    ],
+    [
+      "Barbara Fried SBF sentencing submission",
+      "https://www.documentcloud.org/documents/24445015-barbara-fried-sbf-sentencing-submission"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 13:51:48",
+      "https://news.ycombinator.com/item?id=39827828"
+    ],
+    [
+      "VLC can't update on Android without giving Google private signing keys",
+      "https://social.treehouse.systems/@Aissen/112139649840297169"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 13:36:40",
       "https://news.ycombinator.com/item?id=39827645"
     ],
@@ -11,11 +31,41 @@
   ],
   [
     [
+      "2024-03-26, 13:28:20",
+      "https://news.ycombinator.com/item?id=39827562"
+    ],
+    [
+      "Grafana Labs Observability Survey 2024",
+      "https://grafana.com/observability-survey/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 12:42:17",
+      "https://news.ycombinator.com/item?id=39827127"
+    ],
+    [
+      "Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat",
+      "https://github.com/DoMusic/Hybrid-Net"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 12:41:02",
+      "https://news.ycombinator.com/item?id=39827113"
+    ],
+    [
+      "Florida's DeSantis signs law restricting social media for people under 16",
+      "https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 12:26:43",
       "https://news.ycombinator.com/item?id=39826990"
     ],
     [
-      "Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke",
+      "HMRC offers a Linux version of Basic PAYE Tools, but it recently stopped working",
       "https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/"
     ]
   ],
@@ -37,16 +87,6 @@
     [
       "Canva acquires Affinity to fill the Adobe-sized holes in its design suite",
       "https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 10:37:30",
-      "https://news.ycombinator.com/item?id=39826176"
-    ],
-    [
-      "Julian Assange granted permission to appeal against extradition to US",
-      "https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us"
     ]
   ],
   [
@@ -101,6 +141,26 @@
   ],
   [
     [
+      "2024-03-26, 04:46:01",
+      "https://news.ycombinator.com/item?id=39824335"
+    ],
+    [
+      "Chess puzzle, but you are what you capture",
+      "https://echochess.com"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 04:05:45",
+      "https://news.ycombinator.com/item?id=39824191"
+    ],
+    [
+      "Canva has acquired Affinity in an effort to compete with Adobe",
+      "https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 03:27:56",
       "https://news.ycombinator.com/item?id=39824019"
     ],
@@ -111,22 +171,22 @@
   ],
   [
     [
-      "2024-03-26, 01:52:41",
-      "https://news.ycombinator.com/item?id=39823505"
-    ],
-    [
-      "Unlocking the secrets of myelin repair",
-      "https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 01:29:07",
       "https://news.ycombinator.com/item?id=39823373"
     ],
     [
       "Deej: An open-source hardware volume mixer for Windows and Linux",
       "https://github.com/omriharel/deej"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 01:14:39",
+      "https://news.ycombinator.com/item?id=39823282"
+    ],
+    [
+      "Lifelong Disadvantage: How Socioeconomics Affect Brain Function",
+      "https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024"
     ]
   ],
   [
@@ -147,26 +207,6 @@
     [
       "Moirai: A time series foundation model for universal forecasting",
       "https://blog.salesforceairesearch.com/moirai/"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 00:48:47",
-      "https://news.ycombinator.com/item?id=39823079"
-    ],
-    [
-      "Computational Astronomy: Exploring the Cosmos with Wolfram",
-      "https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 23:00:40",
-      "https://news.ycombinator.com/item?id=39822222"
-    ],
-    [
-      "Inkjets are for more than just printing",
-      "https://spectrum.ieee.org/inkjet-printer"
     ]
   ],
   [
@@ -197,36 +237,6 @@
     [
       "Show HN: Tracecat – Open-source security alert automation / SOAR alternative",
       "https://github.com/TracecatHQ/tracecat"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 17:58:56",
-      "https://news.ycombinator.com/item?id=39819409"
-    ],
-    [
-      "Two open source projects with great architecture documentation",
-      "https://johnjago.com/great-docs/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 13:20:20",
-      "https://news.ycombinator.com/item?id=39815936"
-    ],
-    [
-      "Martin Scorsese's secret life as an obsessive VHS archivist",
-      "https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 09:57:18",
-      "https://news.ycombinator.com/item?id=39814334"
-    ],
-    [
-      "Friends don't let friends export to CSV",
-      "https://kaveland.no/friends-dont-let-friends-export-to-csv.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Notes on debugging HotSpot's JIT compilation (2023)",
       "https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-23, 15:34:51",
-      "https://news.ycombinator.com/item?id=39800678"
-    ],
-    [
-      "See a Fish? Ring the Bell",
-      "https://visdeurbel.nl/en/the-fish-doorbell/"
     ]
   ],
   [
