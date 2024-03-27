@@ -98,6 +98,7 @@
 * [2024-03-25, 08:52:44](https://news.ycombinator.com/item?id=39813978) - [Computing with JavaScript's Undefined (2020)](https://esoteric.codes/blog/calculating-with-jss-undefined)
 * [2024-03-25, 08:34:01](https://news.ycombinator.com/item?id=39813883) - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
 * [2024-03-25, 08:32:49](https://news.ycombinator.com/item?id=39813874) - [Tcl/Tk 9.0](https://www.tcl.tk/software/tcltk/9.0.html)
+* [2024-03-25, 08:26:48](https://news.ycombinator.com/item?id=39813848) - [Music Making Apps](https://dopeloop.ai/)
 * [2024-03-25, 08:25:16](https://news.ycombinator.com/item?id=39813843) - [Lumen: A Lisp for Lua and JavaScript](https://github.com/sctb/lumen)
 * [2024-03-25, 08:17:09](https://news.ycombinator.com/item?id=39813801) - [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
 * [2024-03-25, 08:16:23](https://news.ycombinator.com/item?id=39813798) - [Microsoft reuses its OpenAI playbook with Inflection takeover](https://www.theverge.com/2024/3/22/24109260/microsoft-openai-playbook-inflection-ai)
