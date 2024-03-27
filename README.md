@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 00:57:14](https://news.ycombinator.com/item?id=39834610) - [Dealerships Rip You Off With The “Four-Square”, Here’s How To Beat It](https://www.consumerreports.org/consumerist/dealerships-rip-you-off-with-the-four-square-heres-how-to-beat-it/)
 * [2024-03-26, 22:21:08](https://news.ycombinator.com/item?id=39833512) - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 * [2024-03-26, 21:00:50](https://news.ycombinator.com/item?id=39832794) - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-03-26, 19:35:00](https://news.ycombinator.com/item?id=39831912) - [After Appalachian Hospitals Merged into a Monopoly, Their ERs Slowed to a Crawl](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
@@ -22,7 +23,6 @@
 * [2024-03-25, 23:27:52](https://news.ycombinator.com/item?id=39822468) - [Broadcasting LoRa packets wihout a radio [video]](https://www.youtube.com/watch?v=eIdHBDSQHyw)
 * [2024-03-25, 21:49:22](https://news.ycombinator.com/item?id=39821629) - [In B-Flat (2009)](http://www.inbflat.net/)
 * [2024-03-25, 20:58:05](https://news.ycombinator.com/item?id=39821196) - [Building an email-to-calendar LLM](https://ngacho.com/blog/emaillm/)
-* [2024-03-25, 20:09:14](https://news.ycombinator.com/item?id=39820731) - [Cream is thicker than blood: the rise and fall of the Devon split](https://www.vittlesmagazine.com/p/cream-is-thicker-than-blood-the-rise)
 * [2024-03-25, 14:22:53](https://news.ycombinator.com/item?id=39816708) - [Manipulating Chess-GPT's World Model](https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html)
 * [2024-03-25, 09:10:14](https://news.ycombinator.com/item?id=39814079) - [Everyone is John: A competitive roleplaying game for three or more people](https://rtwolf.github.io/Everyone-is-John/)
 * [2024-03-25, 08:26:48](https://news.ycombinator.com/item?id=39813848) - [Music Making Apps](https://dopeloop.ai/)
