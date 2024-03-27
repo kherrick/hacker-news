@@ -2,6 +2,7 @@
 
 * [2024-03-27, 17:22:28](https://news.ycombinator.com/item?id=39841984) - [Timekeepers may subtract a second in 2029 as planet spins slightly faster](https://www.pbs.org/newshour/science/timekeepers-may-subtract-a-second-from-clocks-as-soon-as-2029-as-planet-spins-slightly-faster)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
+* [2024-03-27, 17:11:13](https://news.ycombinator.com/item?id=39841823) - [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
 * [2024-03-27, 17:01:17](https://news.ycombinator.com/item?id=39841685) - [Spice (YC S19) Is Hiring a Founding Product Associate](https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate)
 * [2024-03-27, 16:56:23](https://news.ycombinator.com/item?id=39841618) - [Amazon spends $2.7B on startup Anthropic in largest venture investment](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
 * [2024-03-27, 16:43:05](https://news.ycombinator.com/item?id=39841476) - [JetZero: Ultra-Efficient Blended Wing Body Jet](https://www.jetzero.aero/why-jetzero)
@@ -11,7 +12,6 @@
 * [2024-03-27, 15:12:56](https://news.ycombinator.com/item?id=39840343) - [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:59:37](https://news.ycombinator.com/item?id=39840150) - [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
-* [2024-03-27, 14:43:23](https://news.ycombinator.com/item?id=39839871) - [Canada's maple syrup reserve hits 16-year low](https://www.bbc.com/news/world-us-canada-68657703)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The Last Crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 12:48:54](https://news.ycombinator.com/item?id=39838351) - [Sun Microsystems co-founder charged with insider trading](https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/)
 * [2024-03-27, 12:34:13](https://news.ycombinator.com/item?id=39838207) - [Show HN: Manage on-prem servers from my smartphone](https://github.com/c100k/rebootx-on-prem)
