@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-27, 16:15:52](https://news.ycombinator.com/item?id=39841152) - [Salesforce Paid $20M to License Einstein](https://www.bloomberg.com/news/articles/2024-03-27/salesforce-paid-20-million-to-license-einstein-for-ai)
 * [2024-03-27, 15:12:56](https://news.ycombinator.com/item?id=39840343) - [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:59:37](https://news.ycombinator.com/item?id=39840150) - [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
 * [2024-03-27, 14:54:22](https://news.ycombinator.com/item?id=39840062) - [RC Helicopter Acrobatics Aren't AI Fakes, If You Can Believe It](https://www.thedrive.com/news/these-rc-helicopter-acrobatics-arent-ai-fakes-if-you-can-believe-it)
+* [2024-03-27, 14:49:25](https://news.ycombinator.com/item?id=39839971) - [Using Framework parts to make a portable all-in-one computer [video]](https://www.youtube.com/watch?v=JomsnMH4k28)
 * [2024-03-27, 14:43:23](https://news.ycombinator.com/item?id=39839871) - [Canada's maple syrup reserve hits 16-year low](https://www.bbc.com/news/world-us-canada-68657703)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The Last Crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 13:24:33](https://news.ycombinator.com/item?id=39838725) - ['Operation 404' Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)

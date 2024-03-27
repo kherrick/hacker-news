@@ -14,6 +14,7 @@
 * [2024-03-27, 15:07:16](https://news.ycombinator.com/item?id=39840261) - [Polar vortex is 'spinning backwards' above Arctic after major reversal event](https://www.livescience.com/planet-earth/weather/polar-vortex-is-spinning-backwards-above-arctic-after-major-reversal-event)
 * [2024-03-27, 14:59:37](https://news.ycombinator.com/item?id=39840150) - [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
 * [2024-03-27, 14:54:22](https://news.ycombinator.com/item?id=39840062) - [RC Helicopter Acrobatics Aren't AI Fakes, If You Can Believe It](https://www.thedrive.com/news/these-rc-helicopter-acrobatics-arent-ai-fakes-if-you-can-believe-it)
+* [2024-03-27, 14:49:25](https://news.ycombinator.com/item?id=39839971) - [Using Framework parts to make a portable all-in-one computer [video]](https://www.youtube.com/watch?v=JomsnMH4k28)
 * [2024-03-27, 14:45:33](https://news.ycombinator.com/item?id=39839905) - [Flatpak builds are not reproducible and why that's a practical problem](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
 * [2024-03-27, 14:43:23](https://news.ycombinator.com/item?id=39839871) - [Canada's maple syrup reserve hits 16-year low](https://www.bbc.com/news/world-us-canada-68657703)
 * [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
