@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-27, 07:00:26",
+      "https://news.ycombinator.com/item?id=39836316"
+    ],
+    [
+      "Laudspeaker hiring senior engineer to build open source customer engagement",
+      "https://news.ycombinator.com/item?id=39836316"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 06:37:18",
+      "https://news.ycombinator.com/item?id=39836226"
+    ],
+    [
+      "Antitrust suit could force Apple to reveal its secrets",
+      "https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 03:40:33",
       "https://news.ycombinator.com/item?id=39835496"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2024-03-26, 21:00:50",
-      "https://news.ycombinator.com/item?id=39832794"
-    ],
-    [
-      "OneText (YC W23) Is Hiring a Lead Design/UX Engineer",
-      "https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 19:35:00",
       "https://news.ycombinator.com/item?id=39831912"
     ],
@@ -77,16 +87,6 @@
     [
       "Death and typos: my six years screening online obituary comments",
       "https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 17:25:53",
-      "https://news.ycombinator.com/item?id=39830459"
-    ],
-    [
-      "The closure of a Methodist chapel on Tyneside",
-      "https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion"
     ]
   ],
   [
@@ -167,6 +167,16 @@
     [
       "Spinner-mouse: Arduino-based USB rotary controller for Arkanoid, Tempest, etc.",
       "https://github.com/carlosefr/spinner-mouse"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 00:37:25",
+      "https://news.ycombinator.com/item?id=39822999"
+    ],
+    [
+      "Range Partitioning: Zero to One",
+      "https://www.aspiring.dev/range-partitioning/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Backpressure explained – the resisted flow of data through software (2019)",
       "https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 07:30:40",
-      "https://news.ycombinator.com/item?id=39813537"
-    ],
-    [
-      "A simple, (as-of-yet unidentified) asymmetric Authenticated Key Exchange",
-      "https://dannyvanheumen.nl/post/simple-asymmetric-ake/"
     ]
   ],
   [
