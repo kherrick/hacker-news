@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 19:29:56](https://news.ycombinator.com/item?id=39843531) - [Why x86 doesnt need to die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
+* [2024-03-27, 19:19:22](https://news.ycombinator.com/item?id=39843430) - [The one about the web developer job market](https://www.baldurbjarnason.com/2024/the-one-about-the-web-developer-job-market/)
 * [2024-03-27, 19:08:01](https://news.ycombinator.com/item?id=39843315) - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
 * [2024-03-27, 19:03:43](https://news.ycombinator.com/item?id=39843257) - [Andrew Huberman's Mechanisms of Control](https://nymag.com/intelligencer/article/andrew-huberman-podcast-stanford-joe-rogan.html)
 * [2024-03-27, 18:53:13](https://news.ycombinator.com/item?id=39843148) - [NASA and Boeing Are (Finally) Putting Astronauts on Starliner](https://payloadspace.com/nasa-and-boeing-are-finally-putting-astronauts-on-starliner/)

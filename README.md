@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 19:29:56](https://news.ycombinator.com/item?id=39843531) - [Why x86 doesnt need to die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
+* [2024-03-27, 19:19:22](https://news.ycombinator.com/item?id=39843430) - [The one about the web developer job market](https://www.baldurbjarnason.com/2024/the-one-about-the-web-developer-job-market/)
 * [2024-03-27, 19:08:01](https://news.ycombinator.com/item?id=39843315) - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
-* [2024-03-27, 18:53:13](https://news.ycombinator.com/item?id=39843148) - [NASA and Boeing Are (Finally) Putting Astronauts on Starliner](https://payloadspace.com/nasa-and-boeing-are-finally-putting-astronauts-on-starliner/)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 18:08:31](https://news.ycombinator.com/item?id=39842585) - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
 * [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
@@ -10,7 +11,6 @@
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 * [2024-03-27, 17:03:22](https://news.ycombinator.com/item?id=39841703) - [MTA board votes to approve new $15 toll to drive into Manhattan](https://www.nytimes.com/2024/03/27/business/nyc-congestion-pricing-tolls-mta.html)
 * [2024-03-27, 17:01:17](https://news.ycombinator.com/item?id=39841685) - [Spice (YC S19) Is Hiring a Founding Product Associate](https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate)
-* [2024-03-27, 16:56:23](https://news.ycombinator.com/item?id=39841618) - [Amazon spends another $2.7B on Anthropic](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
 * [2024-03-27, 16:43:05](https://news.ycombinator.com/item?id=39841476) - [JetZero: Ultra-efficient blended wing body jet](https://www.jetzero.aero/why-jetzero)
 * [2024-03-27, 16:40:05](https://news.ycombinator.com/item?id=39841449) - [Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
 * [2024-03-27, 16:33:07](https://news.ycombinator.com/item?id=39841363) - [Proxmox VE: Import Wizard for Migrating VMware ESXi VMs](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
