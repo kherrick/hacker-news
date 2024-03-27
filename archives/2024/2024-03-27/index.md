@@ -6,6 +6,7 @@
 
 * [2024-03-27, 18:16:27](https://news.ycombinator.com/item?id=39842688) - [The biggest financial frauds ever – from Sam Bankman-Fried to Bernie Madoff](https://qz.com/financial-frauds-sam-bankman-fried-bernie-madoff-enron-1851367680)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
+* [2024-03-27, 18:08:31](https://news.ycombinator.com/item?id=39842585) - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
 * [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
 * [2024-03-27, 17:48:49](https://news.ycombinator.com/item?id=39842340) - [Who's Behind All the 'Pussy in Bio' on X?](https://nymag.com/intelligencer/article/who-is-behind-all-the-pussy-in-bio-porn-spam-on-x.html)
 * [2024-03-27, 17:33:47](https://news.ycombinator.com/item?id=39842148) - [Ask HN: Do you feel scummy making AI products?](https://news.ycombinator.com/item?id=39842148)
@@ -19,6 +20,7 @@
 * [2024-03-27, 16:56:23](https://news.ycombinator.com/item?id=39841618) - [Amazon spends $2.7B on startup Anthropic in largest venture investment](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
 * [2024-03-27, 16:50:26](https://news.ycombinator.com/item?id=39841545) - [My Apple Vision Pro Nightmare](https://www.businessinsider.com/my-apple-vision-pro-nightmare-surveillance-privacy-2024-3)
 * [2024-03-27, 16:43:05](https://news.ycombinator.com/item?id=39841476) - [JetZero: Ultra-Efficient Blended Wing Body Jet](https://www.jetzero.aero/why-jetzero)
+* [2024-03-27, 16:40:05](https://news.ycombinator.com/item?id=39841449) - [Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
 * [2024-03-27, 16:36:21](https://news.ycombinator.com/item?id=39841390) - [\"The king is dead\"–Claude 3 surpasses GPT-4 on Chatbot Arena](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/)
 * [2024-03-27, 16:33:07](https://news.ycombinator.com/item?id=39841363) - [Proxmox VE: Import Wizard for Migrating VMware ESXi VMs](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 16:15:52](https://news.ycombinator.com/item?id=39841152) - [Salesforce Paid $20M to License Einstein](https://www.bloomberg.com/news/articles/2024-03-27/salesforce-paid-20-million-to-license-einstein-for-ai)
