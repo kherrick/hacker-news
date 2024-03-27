@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 14:45:33](https://news.ycombinator.com/item?id=39839905) - [Flatpak builds are not reproducible and why that's a practical problem](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
+* [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
 * [2024-03-27, 14:34:28](https://news.ycombinator.com/item?id=39839712) - [The film fans who refuse to surrender to streaming](https://www.theguardian.com/film/2024/mar/27/the-film-fans-who-refuse-to-surrender-to-streaming-one-day-youll-barter-bread-for-our-dvds)
 * [2024-03-27, 14:29:51](https://news.ycombinator.com/item?id=39839640) - [How to Figure Out What Your Car Knows About You, Opt Out of Sharing When You Can](https://www.eff.org/deeplinks/2024/03/how-figure-out-what-your-car-knows-about-you-and-opt-out-sharing-when-you-can)
 * [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
 * [2024-03-27, 14:11:12](https://news.ycombinator.com/item?id=39839358) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
+* [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The Last Crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 13:24:33](https://news.ycombinator.com/item?id=39838725) - ['Operation 404' Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
 * [2024-03-27, 13:11:29](https://news.ycombinator.com/item?id=39838580) - [Boeing's Dead Whistleblower Spoke the Truth](https://www.thefp.com/p/boeings-dead-whistleblower-spoke-the-truth)
 * [2024-03-27, 12:58:47](https://news.ycombinator.com/item?id=39838456) - [Israel Deploys Expansive Facial Recognition Program in Gaza](https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html)
