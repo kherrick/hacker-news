@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-27, 18:16:27](https://news.ycombinator.com/item?id=39842688) - [The biggest financial frauds ever – from Sam Bankman-Fried to Bernie Madoff](https://qz.com/financial-frauds-sam-bankman-fried-bernie-madoff-enron-1851367680)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
 * [2024-03-27, 17:33:47](https://news.ycombinator.com/item?id=39842148) - [Ask HN: Do you feel scummy making AI products?](https://news.ycombinator.com/item?id=39842148)
@@ -30,6 +29,7 @@
 * [2024-03-26, 17:35:14](https://news.ycombinator.com/item?id=39830564) - [Binary array set](https://www.nayuki.io/page/binary-array-set)
 * [2024-03-26, 01:53:23](https://news.ycombinator.com/item?id=39823512) - [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
 * [2024-03-25, 07:02:35](https://news.ycombinator.com/item?id=39813410) - [Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
+* [2024-03-23, 23:13:55](https://news.ycombinator.com/item?id=39803703) - [The Eider Keepers](https://www.biographic.com/the-eider-keepers/)
 
 ## [Archives](archives/index.md)
 
