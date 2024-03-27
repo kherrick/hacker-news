@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 14:11:12](https://news.ycombinator.com/item?id=39839358) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
 * [2024-03-27, 13:24:33](https://news.ycombinator.com/item?id=39838725) - ['Operation 404' Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
 * [2024-03-27, 13:11:29](https://news.ycombinator.com/item?id=39838580) - [Boeing's Dead Whistleblower Spoke the Truth](https://www.thefp.com/p/boeings-dead-whistleblower-spoke-the-truth)
 * [2024-03-27, 12:54:09](https://news.ycombinator.com/item?id=39838413) - [Fresno High tracks student bathroom visits with app. Not everyone likes it](https://www.fresnobee.com/news/local/article286882795.html)
@@ -24,7 +25,6 @@
 * [2024-03-27, 07:00:26](https://news.ycombinator.com/item?id=39836316) - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
 * [2024-03-27, 05:52:34](https://news.ycombinator.com/item?id=39836046) - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
 * [2024-03-27, 03:39:15](https://news.ycombinator.com/item?id=39835488) - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
-* [2024-03-26, 23:07:21](https://news.ycombinator.com/item?id=39833854) - [The Stoppable March of Time](https://www.openttd.org/news/2024/03/23/timekeeping)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 14:12:16](https://news.ycombinator.com/item?id=39828058) - [Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
 * [2024-03-26, 00:37:25](https://news.ycombinator.com/item?id=39822999) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)

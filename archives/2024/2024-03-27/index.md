@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 14:11:12](https://news.ycombinator.com/item?id=39839358) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
 * [2024-03-27, 13:24:33](https://news.ycombinator.com/item?id=39838725) - ['Operation 404' Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
 * [2024-03-27, 13:11:29](https://news.ycombinator.com/item?id=39838580) - [Boeing's Dead Whistleblower Spoke the Truth](https://www.thefp.com/p/boeings-dead-whistleblower-spoke-the-truth)
 * [2024-03-27, 12:58:47](https://news.ycombinator.com/item?id=39838456) - [Israel Deploys Expansive Facial Recognition Program in Gaza](https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html)
