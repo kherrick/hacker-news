@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-03-27, 18:36:33",
-      "https://news.ycombinator.com/item?id=39842946"
+      "2024-03-27, 19:08:01",
+      "https://news.ycombinator.com/item?id=39843315"
     ],
     [
-      "Researchers gave AI an 'inner monologue' and it improved its performance",
-      "https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance"
+      "Fisker lost track of millions of dollars in customer payments for months",
+      "https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 19:03:43",
+      "https://news.ycombinator.com/item?id=39843257"
+    ],
+    [
+      "Andrew Huberman's Mechanisms of Control",
+      "https://nymag.com/intelligencer/article/andrew-huberman-podcast-stanford-joe-rogan.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 18:53:13",
+      "https://news.ycombinator.com/item?id=39843148"
+    ],
+    [
+      "NASA and Boeing Are (Finally) Putting Astronauts on Starliner",
+      "https://payloadspace.com/nasa-and-boeing-are-finally-putting-astronauts-on-starliner/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Schiphol conducts trial with self-driving buses on airside",
       "https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 17:33:47",
-      "https://news.ycombinator.com/item?id=39842148"
-    ],
-    [
-      "Ask HN: Do you feel scummy making AI products?",
-      "https://news.ycombinator.com/item?id=39842148"
     ]
   ],
   [
@@ -127,6 +137,16 @@
     [
       "End of an Era: Final Delta IV Heavy Rocket Carries NROL-70 on Historic Mission",
       "https://www.spacedaily.com/reports/End_of_an_Era_Final_Delta_IV_Heavy_Rocket_Carries_NROL_70_on_Historic_Mission_999.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 15:31:53",
+      "https://news.ycombinator.com/item?id=39840593"
+    ],
+    [
+      "What Nvidia's Blackwell efficiency gains mean for DC operators",
+      "https://www.theregister.com/2024/03/27/nvidia_blackwell_efficiency/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Binary vector search is better than FP32 vectors",
       "https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 07:02:35",
-      "https://news.ycombinator.com/item?id=39813410"
-    ],
-    [
-      "Show HN: Budget Kanban – Visually manage finances in Kanban boards",
-      "https://budgetkanban.com"
-    ]
-  ],
-  [
-    [
-      "2024-03-23, 23:13:55",
-      "https://news.ycombinator.com/item?id=39803703"
-    ],
-    [
-      "The Eider Keepers",
-      "https://www.biographic.com/the-eider-keepers/"
     ]
   ]
 ]
