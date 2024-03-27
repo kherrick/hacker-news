@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
 * [2024-03-26, 23:07:21](https://news.ycombinator.com/item?id=39833854) - [The Stoppable March of Time](https://www.openttd.org/news/2024/03/23/timekeeping)
+* [2024-03-26, 22:55:32](https://news.ycombinator.com/item?id=39833756) - [Communications of the ACM Relaunched as Open Access, Web-First Publication](https://www.acm.org/media-center/2024/march/cacm-relaunch)
 * [2024-03-26, 22:49:31](https://news.ycombinator.com/item?id=39833716) - [How SMS Fraud Works and How to Guard Against It (2023)](https://technicallythinking.substack.com/p/how-sms-fraud-works-and-how-to-guard-against-it)
 * [2024-03-26, 22:21:08](https://news.ycombinator.com/item?id=39833512) - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 * [2024-03-26, 22:06:35](https://news.ycombinator.com/item?id=39833403) - [Sudo-rs dependencies: when less is better](https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better)
