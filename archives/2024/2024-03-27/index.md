@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 03:46:41](https://news.ycombinator.com/item?id=39835526) - [How to use GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
+* [2024-03-27, 03:40:33](https://news.ycombinator.com/item?id=39835496) - [How (and why) to run SQLite in production](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
+* [2024-03-27, 03:35:04](https://news.ycombinator.com/item?id=39835459) - [Yen sinks to 34-year low](https://www.nippon.com/en/news/kd1145551739041612055/)
 * [2024-03-27, 03:06:20](https://news.ycombinator.com/item?id=39835291) - [Yen Drops to Lowest Since 1990](https://www.bloomberg.com/news/articles/2024-03-27/yen-drops-to-lowest-since-1990-amid-intervention-speculation)
 * [2024-03-27, 02:04:33](https://news.ycombinator.com/item?id=39834988) - [Homeless Software Engineering Vlogger? [video]](https://www.youtube.com/watch?v=5POOknPt3os)
 * [2024-03-27, 01:48:18](https://news.ycombinator.com/item?id=39834904) - [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
