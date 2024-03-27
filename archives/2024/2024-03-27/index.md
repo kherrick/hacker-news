@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 10:52:01](https://news.ycombinator.com/item?id=39837498) - [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
+* [2024-03-27, 09:52:10](https://news.ycombinator.com/item?id=39837146) - [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
 * [2024-03-27, 09:47:32](https://news.ycombinator.com/item?id=39837117) - [How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
 * [2024-03-27, 09:33:37](https://news.ycombinator.com/item?id=39837045) - [Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
 * [2024-03-27, 09:00:50](https://news.ycombinator.com/item?id=39836879) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)

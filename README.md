@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 10:52:01](https://news.ycombinator.com/item?id=39837498) - [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
+* [2024-03-27, 09:52:10](https://news.ycombinator.com/item?id=39837146) - [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
 * [2024-03-27, 09:47:32](https://news.ycombinator.com/item?id=39837117) - [How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
 * [2024-03-27, 09:33:37](https://news.ycombinator.com/item?id=39837045) - [Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
 * [2024-03-27, 09:00:50](https://news.ycombinator.com/item?id=39836879) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
@@ -24,8 +26,6 @@
 * [2024-03-26, 14:12:16](https://news.ycombinator.com/item?id=39828058) - [Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
 * [2024-03-26, 09:28:35](https://news.ycombinator.com/item?id=39825770) - [Spinner-mouse: Arduino-based USB rotary controller for Arkanoid, Tempest, etc.](https://github.com/carlosefr/spinner-mouse)
 * [2024-03-26, 00:37:25](https://news.ycombinator.com/item?id=39822999) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
-* [2024-03-25, 21:49:22](https://news.ycombinator.com/item?id=39821629) - [In B-Flat (2009)](http://www.inbflat.net/)
-* [2024-03-25, 13:39:06](https://news.ycombinator.com/item?id=39816152) - [How do MRI Headphones work? (2022)](https://tomlingham.com/articles/how-do-mri-headphones-work/)
 * [2024-03-25, 09:10:14](https://news.ycombinator.com/item?id=39814079) - [Everyone is John: A competitive roleplaying game for three or more people (2002)](https://rtwolf.github.io/Everyone-is-John/)
 * [2024-03-25, 07:53:40](https://news.ycombinator.com/item?id=39813660) - [Backpressure explained – the resisted flow of data through software (2019)](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 * [2024-03-25, 06:54:02](https://news.ycombinator.com/item?id=39813365) - [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
