@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-27, 21:00:37",
+      "https://news.ycombinator.com/item?id=39844529"
+    ],
+    [
+      "Finley (YC W21) is hiring to remake the $1T private credit space",
+      "https://www.finleycms.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 20:24:43",
+      "https://news.ycombinator.com/item?id=39844159"
+    ],
+    [
+      "Want to start a startup? Meet all the YC partners in Boston – Apr 20th",
+      "https://www.ycombinator.com/blog/startup-school-east-boston/"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 20:05:48",
       "https://news.ycombinator.com/item?id=39843930"
     ],
@@ -97,16 +117,6 @@
     [
       "MTA board votes to approve new $15 toll to drive into Manhattan",
       "https://www.nytimes.com/2024/03/27/business/nyc-congestion-pricing-tolls-mta.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 17:01:17",
-      "https://news.ycombinator.com/item?id=39841685"
-    ],
-    [
-      "Spice (YC S19) is hiring a founding product associate",
-      "https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2024-03-27, 12:34:13",
-      "https://news.ycombinator.com/item?id=39838207"
-    ],
-    [
-      "Show HN: Manage on-prem servers from my smartphone",
-      "https://github.com/c100k/rebootx-on-prem"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 12:23:48",
       "https://news.ycombinator.com/item?id=39838104"
     ],
     [
       "DBRX: A new open LLM",
       "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 10:36:29",
-      "https://news.ycombinator.com/item?id=39837423"
-    ],
-    [
-      "Show HN: Figr Identity – Generate Design Systems in Figma Instantly",
-      "https://www.figma.com/community/plugin/1350743748296105581/generate-design-systems-quickly-figr-identity-free-beta"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Binary vector search is better than FP32 vectors",
       "https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors"
+    ]
+  ],
+  [
+    [
+      "2024-03-25, 19:58:18",
+      "https://news.ycombinator.com/item?id=39820619"
+    ],
+    [
+      "Things I Learned from René Girard",
+      "https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard"
     ]
   ]
 ]
