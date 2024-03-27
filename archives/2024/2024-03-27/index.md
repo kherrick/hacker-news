@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 19:08:01](https://news.ycombinator.com/item?id=39843315) - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
+* [2024-03-27, 19:03:43](https://news.ycombinator.com/item?id=39843257) - [Andrew Huberman's Mechanisms of Control](https://nymag.com/intelligencer/article/andrew-huberman-podcast-stanford-joe-rogan.html)
+* [2024-03-27, 18:53:13](https://news.ycombinator.com/item?id=39843148) - [NASA and Boeing Are (Finally) Putting Astronauts on Starliner](https://payloadspace.com/nasa-and-boeing-are-finally-putting-astronauts-on-starliner/)
 * [2024-03-27, 18:36:33](https://news.ycombinator.com/item?id=39842946) - [Researchers gave AI an 'inner monologue' and it improved its performance](https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance)
 * [2024-03-27, 18:16:27](https://news.ycombinator.com/item?id=39842688) - [The biggest financial frauds ever – from Sam Bankman-Fried to Bernie Madoff](https://qz.com/financial-frauds-sam-bankman-fried-bernie-madoff-enron-1851367680)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)

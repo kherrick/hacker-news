@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-27, 18:36:33](https://news.ycombinator.com/item?id=39842946) - [Researchers gave AI an 'inner monologue' and it improved its performance](https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance)
+* [2024-03-27, 19:08:01](https://news.ycombinator.com/item?id=39843315) - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
+* [2024-03-27, 19:03:43](https://news.ycombinator.com/item?id=39843257) - [Andrew Huberman's Mechanisms of Control](https://nymag.com/intelligencer/article/andrew-huberman-podcast-stanford-joe-rogan.html)
+* [2024-03-27, 18:53:13](https://news.ycombinator.com/item?id=39843148) - [NASA and Boeing Are (Finally) Putting Astronauts on Starliner](https://payloadspace.com/nasa-and-boeing-are-finally-putting-astronauts-on-starliner/)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 18:08:31](https://news.ycombinator.com/item?id=39842585) - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
 * [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
-* [2024-03-27, 17:33:47](https://news.ycombinator.com/item?id=39842148) - [Ask HN: Do you feel scummy making AI products?](https://news.ycombinator.com/item?id=39842148)
 * [2024-03-27, 17:31:31](https://news.ycombinator.com/item?id=39842116) - [Winner of the SF Mistral AI Hackathon: Automated Test Driven Prompting](https://prompting.flyflow.dev)
 * [2024-03-27, 17:28:20](https://news.ycombinator.com/item?id=39842067) - [We do not prefer chords to be perfectly in mathematical ratios: study](https://www.cam.ac.uk/research/news/pythagoras-was-wrong-there-are-no-universal-musical-harmonies-study-finds)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
@@ -13,6 +14,7 @@
 * [2024-03-27, 16:40:05](https://news.ycombinator.com/item?id=39841449) - [Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
 * [2024-03-27, 16:33:07](https://news.ycombinator.com/item?id=39841363) - [Proxmox VE: Import Wizard for Migrating VMware ESXi VMs](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an Era: Final Delta IV Heavy Rocket Carries NROL-70 on Historic Mission](https://www.spacedaily.com/reports/End_of_an_Era_Final_Delta_IV_Heavy_Rocket_Carries_NROL_70_on_Historic_Mission_999.html)
+* [2024-03-27, 15:31:53](https://news.ycombinator.com/item?id=39840593) - [What Nvidia's Blackwell efficiency gains mean for DC operators](https://www.theregister.com/2024/03/27/nvidia_blackwell_efficiency/)
 * [2024-03-27, 15:25:34](https://news.ycombinator.com/item?id=39840518) - [Notes on EndeavourOS](https://mudkip.me/2024/03/28/Notes-on-EndeavourOS/)
 * [2024-03-27, 15:12:56](https://news.ycombinator.com/item?id=39840343) - [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
@@ -28,8 +30,6 @@
 * [2024-03-26, 21:56:16](https://news.ycombinator.com/item?id=39833321) - [Write OpenAPI with TypeSpec](https://blog.trl.sn/blog/typespec-for-openapi/)
 * [2024-03-26, 17:35:14](https://news.ycombinator.com/item?id=39830564) - [Binary array set](https://www.nayuki.io/page/binary-array-set)
 * [2024-03-26, 01:53:23](https://news.ycombinator.com/item?id=39823512) - [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
-* [2024-03-25, 07:02:35](https://news.ycombinator.com/item?id=39813410) - [Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
-* [2024-03-23, 23:13:55](https://news.ycombinator.com/item?id=39803703) - [The Eider Keepers](https://www.biographic.com/the-eider-keepers/)
 
 ## [Archives](archives/index.md)
 
