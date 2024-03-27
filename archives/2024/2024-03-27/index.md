@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 23:22:28](https://news.ycombinator.com/item?id=39845837) - [Oregon's governor signs right-to-repair law that bans 'parts pairing'](https://www.theverge.com/2024/3/27/24097042/right-to-repair-law-oregon-sb1596-parts-pairing-tina-kotek-signed)
 * [2024-03-27, 22:45:48](https://news.ycombinator.com/item?id=39845525) - [Can Weed Improve a Workout?](https://www.nytimes.com/2024/03/26/well/move/weed-exercise-cannabis-workout.html)
 * [2024-03-27, 22:44:20](https://news.ycombinator.com/item?id=39845508) - [NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
+* [2024-03-27, 22:40:26](https://news.ycombinator.com/item?id=39845471) - [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
 * [2024-03-27, 22:38:42](https://news.ycombinator.com/item?id=39845450) - [Oregon signs right to repair into law](https://techcrunch.com/2024/03/27/oregon-signs-right-to-repair-into-law/)
 * [2024-03-27, 22:27:57](https://news.ycombinator.com/item?id=39845364) - [Being laid off in 2023-2024 as an early-career developer](https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs)
 * [2024-03-27, 21:57:37](https://news.ycombinator.com/item?id=39845099) - [Windows 3.1 Style Clock](https://rmcretro.store/products/windows-3-1-style-clock)
