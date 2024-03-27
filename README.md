@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-27, 19:29:56](https://news.ycombinator.com/item?id=39843531) - [Why x86 doesnt need to die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
+* [2024-03-27, 19:43:14](https://news.ycombinator.com/item?id=39843670) - [Netflix acquires AI-powered language learning app THINKIN](https://www.cnbc.com/2024/03/27/buy-stocks-on-wednesday-like-nvidia.html)
 * [2024-03-27, 19:19:22](https://news.ycombinator.com/item?id=39843430) - [The one about the web developer job market](https://www.baldurbjarnason.com/2024/the-one-about-the-web-developer-job-market/)
 * [2024-03-27, 19:08:01](https://news.ycombinator.com/item?id=39843315) - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
