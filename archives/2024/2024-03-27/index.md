@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 18:36:33](https://news.ycombinator.com/item?id=39842946) - [Researchers gave AI an 'inner monologue' and it improved its performance](https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance)
 * [2024-03-27, 18:16:27](https://news.ycombinator.com/item?id=39842688) - [The biggest financial frauds ever – from Sam Bankman-Fried to Bernie Madoff](https://qz.com/financial-frauds-sam-bankman-fried-bernie-madoff-enron-1851367680)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 18:08:31](https://news.ycombinator.com/item?id=39842585) - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
