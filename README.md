@@ -2,11 +2,12 @@
 
 * [2024-03-27, 20:05:48](https://news.ycombinator.com/item?id=39843930) - [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
 * [2024-03-27, 20:02:57](https://news.ycombinator.com/item?id=39843902) - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
+* [2024-03-27, 19:52:31](https://news.ycombinator.com/item?id=39843778) - [Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
 * [2024-03-27, 19:08:01](https://news.ycombinator.com/item?id=39843315) - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 18:08:31](https://news.ycombinator.com/item?id=39842585) - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
 * [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
-* [2024-03-27, 17:39:39](https://news.ycombinator.com/item?id=39842226) - [4D Golf is making my brain melt away](https://www.gamingonlinux.com/2024/03/4d-golf-is-making-my-brain-melt-away/)
+* [2024-03-27, 17:22:28](https://news.ycombinator.com/item?id=39841984) - [Timekeepers may subtract a second in 2029 as planet spins slightly faster](https://www.pbs.org/newshour/science/timekeepers-may-subtract-a-second-from-clocks-as-soon-as-2029-as-planet-spins-slightly-faster)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 * [2024-03-27, 17:03:22](https://news.ycombinator.com/item?id=39841703) - [MTA board votes to approve new $15 toll to drive into Manhattan](https://www.nytimes.com/2024/03/27/business/nyc-congestion-pricing-tolls-mta.html)
 * [2024-03-27, 17:01:17](https://news.ycombinator.com/item?id=39841685) - [Spice (YC S19) is hiring a founding product associate](https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate)
@@ -28,7 +29,6 @@
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-26, 22:06:35](https://news.ycombinator.com/item?id=39833403) - [Sudo-rs dependencies: when less is better](https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better)
 * [2024-03-26, 21:56:16](https://news.ycombinator.com/item?id=39833321) - [Write OpenAPI with TypeSpec](https://blog.trl.sn/blog/typespec-for-openapi/)
-* [2024-03-26, 17:35:14](https://news.ycombinator.com/item?id=39830564) - [Binary array set](https://www.nayuki.io/page/binary-array-set)
 * [2024-03-26, 01:53:23](https://news.ycombinator.com/item?id=39823512) - [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
 
 ## [Archives](archives/index.md)

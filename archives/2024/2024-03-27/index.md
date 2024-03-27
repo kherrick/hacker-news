@@ -6,6 +6,7 @@
 
 * [2024-03-27, 20:05:48](https://news.ycombinator.com/item?id=39843930) - [Cliff Stoll, the Mad Scientist Who Invented the Art of Hunting Hackers](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
 * [2024-03-27, 20:02:57](https://news.ycombinator.com/item?id=39843902) - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
+* [2024-03-27, 19:52:31](https://news.ycombinator.com/item?id=39843778) - [Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
 * [2024-03-27, 19:43:14](https://news.ycombinator.com/item?id=39843670) - [Netflix acquires AI-powered language learning app THINKIN](https://www.cnbc.com/2024/03/27/buy-stocks-on-wednesday-like-nvidia.html)
 * [2024-03-27, 19:29:56](https://news.ycombinator.com/item?id=39843531) - [Why x86 doesnt need to die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [2024-03-27, 19:19:22](https://news.ycombinator.com/item?id=39843430) - [The one about the web developer job market](https://www.baldurbjarnason.com/2024/the-one-about-the-web-developer-job-market/)
