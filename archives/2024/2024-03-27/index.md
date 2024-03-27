@@ -6,6 +6,7 @@
 
 * [2024-03-27, 07:00:26](https://news.ycombinator.com/item?id=39836316) - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
 * [2024-03-27, 06:37:18](https://news.ycombinator.com/item?id=39836226) - [Antitrust suit could force Apple to reveal its secrets](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit)
+* [2024-03-27, 05:52:34](https://news.ycombinator.com/item?id=39836046) - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
 * [2024-03-27, 04:25:21](https://news.ycombinator.com/item?id=39835704) - [Some of the Most Popular Websites Share Your Data with over 1,500 Companies](https://www.wired.com/story/cookie-pop-up-ad-tech-partner-top-websites/)
 * [2024-03-27, 04:21:22](https://news.ycombinator.com/item?id=39835693) - [Deficiencies in GCC's Code Generator and Optimiser](https://skanthak.hier-im-netz.de/gcc.html)
 * [2024-03-27, 03:46:41](https://news.ycombinator.com/item?id=39835526) - [How to use GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
