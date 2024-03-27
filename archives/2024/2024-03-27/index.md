@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 16:15:52](https://news.ycombinator.com/item?id=39841152) - [Salesforce Paid $20M to License Einstein](https://www.bloomberg.com/news/articles/2024-03-27/salesforce-paid-20-million-to-license-einstein-for-ai)
 * [2024-03-27, 15:35:07](https://news.ycombinator.com/item?id=39840635) - [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
 * [2024-03-27, 15:20:26](https://news.ycombinator.com/item?id=39840447) - [Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90](https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90)
 * [2024-03-27, 15:19:22](https://news.ycombinator.com/item?id=39840434) - [Ukraine Using Networked Microphones to Track Russian Drones](https://www.twz.com/land/thousands-of-networked-microphones-are-tracking-drones-in-ukraine)
@@ -12,6 +13,7 @@
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman, Nobel-winning economist, dies at 90](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 15:07:16](https://news.ycombinator.com/item?id=39840261) - [Polar vortex is 'spinning backwards' above Arctic after major reversal event](https://www.livescience.com/planet-earth/weather/polar-vortex-is-spinning-backwards-above-arctic-after-major-reversal-event)
 * [2024-03-27, 14:59:37](https://news.ycombinator.com/item?id=39840150) - [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
+* [2024-03-27, 14:54:22](https://news.ycombinator.com/item?id=39840062) - [RC Helicopter Acrobatics Aren't AI Fakes, If You Can Believe It](https://www.thedrive.com/news/these-rc-helicopter-acrobatics-arent-ai-fakes-if-you-can-believe-it)
 * [2024-03-27, 14:45:33](https://news.ycombinator.com/item?id=39839905) - [Flatpak builds are not reproducible and why that's a practical problem](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
 * [2024-03-27, 14:43:23](https://news.ycombinator.com/item?id=39839871) - [Canada's maple syrup reserve hits 16-year low](https://www.bbc.com/news/world-us-canada-68657703)
 * [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
@@ -25,6 +27,7 @@
 * [2024-03-27, 12:58:47](https://news.ycombinator.com/item?id=39838456) - [Israel Deploys Expansive Facial Recognition Program in Gaza](https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html)
 * [2024-03-27, 12:54:09](https://news.ycombinator.com/item?id=39838413) - [Fresno High tracks student bathroom visits with app. Not everyone likes it](https://www.fresnobee.com/news/local/article286882795.html)
 * [2024-03-27, 12:48:54](https://news.ycombinator.com/item?id=39838351) - [Sun Microsystems co-founder charged with insider trading](https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/)
+* [2024-03-27, 12:34:13](https://news.ycombinator.com/item?id=39838207) - [Show HN: Manage on-prem servers from my smartphone](https://github.com/c100k/rebootx-on-prem)
 * [2024-03-27, 12:31:06](https://news.ycombinator.com/item?id=39838169) - [Claude 3 beats GPT-4 on Aider's code editing benchmark](https://aider.chat/2024/03/08/claude-3.html)
 * [2024-03-27, 12:26:09](https://news.ycombinator.com/item?id=39838131) - [Cows in Texas and Kansas test positive for highly pathogenic bird flu](https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/)
 * [2024-03-27, 12:24:13](https://news.ycombinator.com/item?id=39838112) - [DOJ compares AAPL share buybacks with R&D as 'evidence' of lack of competition](https://9to5mac.com/2024/03/27/aapl-share-buybacks-verses-rd-spend/)
