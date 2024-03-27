@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-27, 09:00:50](https://news.ycombinator.com/item?id=39836879) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 08:29:22](https://news.ycombinator.com/item?id=39836715) - [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
 * [2024-03-27, 08:12:59](https://news.ycombinator.com/item?id=39836642) - [Japan nappy maker shifts from babies to adults](https://www.bbc.com/news/business-68672186)
@@ -10,6 +9,7 @@
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-27, 07:00:26](https://news.ycombinator.com/item?id=39836316) - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
 * [2024-03-27, 05:52:34](https://news.ycombinator.com/item?id=39836046) - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
+* [2024-03-27, 03:40:33](https://news.ycombinator.com/item?id=39835496) - [How (and why) to run SQLite in production](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
 * [2024-03-27, 03:39:15](https://news.ycombinator.com/item?id=39835488) - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
 * [2024-03-27, 03:14:33](https://news.ycombinator.com/item?id=39835343) - [Explorative Programming](https://blog.dziban.net/essays/explorative-programming/)
 * [2024-03-27, 01:48:18](https://news.ycombinator.com/item?id=39834904) - [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
