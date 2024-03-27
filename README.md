@@ -26,10 +26,10 @@
 * [2024-03-27, 03:39:15](https://news.ycombinator.com/item?id=39835488) - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
 * [2024-03-26, 23:07:21](https://news.ycombinator.com/item?id=39833854) - [The Stoppable March of Time](https://www.openttd.org/news/2024/03/23/timekeeping)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
+* [2024-03-26, 14:12:16](https://news.ycombinator.com/item?id=39828058) - [Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
 * [2024-03-26, 00:37:25](https://news.ycombinator.com/item?id=39822999) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-25, 07:02:35](https://news.ycombinator.com/item?id=39813410) - [Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
 * [2024-03-25, 06:54:02](https://news.ycombinator.com/item?id=39813365) - [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
-* [2024-03-25, 06:32:23](https://news.ycombinator.com/item?id=39813267) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 
 ## [Archives](archives/index.md)
 
