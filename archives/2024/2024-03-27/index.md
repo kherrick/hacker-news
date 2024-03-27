@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 17:31:31](https://news.ycombinator.com/item?id=39842116) - [Winner of the SF Mistral AI Hackathon: Automated Test Driven Prompting](https://prompting.flyflow.dev)
 * [2024-03-27, 17:22:28](https://news.ycombinator.com/item?id=39841984) - [Timekeepers may subtract a second in 2029 as planet spins slightly faster](https://www.pbs.org/newshour/science/timekeepers-may-subtract-a-second-from-clocks-as-soon-as-2029-as-planet-spins-slightly-faster)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 * [2024-03-27, 17:11:13](https://news.ycombinator.com/item?id=39841823) - [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
+* [2024-03-27, 17:03:22](https://news.ycombinator.com/item?id=39841703) - [MTA Board Votes to Approve New $15 Toll to Drive into Manhattan](https://www.nytimes.com/2024/03/27/business/nyc-congestion-pricing-tolls-mta.html)
 * [2024-03-27, 17:01:17](https://news.ycombinator.com/item?id=39841685) - [Spice (YC S19) Is Hiring a Founding Product Associate](https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate)
 * [2024-03-27, 16:56:23](https://news.ycombinator.com/item?id=39841618) - [Amazon spends $2.7B on startup Anthropic in largest venture investment](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
 * [2024-03-27, 16:50:26](https://news.ycombinator.com/item?id=39841545) - [My Apple Vision Pro Nightmare](https://www.businessinsider.com/my-apple-vision-pro-nightmare-surveillance-privacy-2024-3)
