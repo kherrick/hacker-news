@@ -110,6 +110,7 @@
 * [2024-03-25, 07:36:08](https://news.ycombinator.com/item?id=39813560) - [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
 * [2024-03-25, 07:30:40](https://news.ycombinator.com/item?id=39813537) - [A simple, (as-of-yet unidentified) asymmetric Authenticated Key Exchange](https://dannyvanheumen.nl/post/simple-asymmetric-ake/)
 * [2024-03-25, 07:08:21](https://news.ycombinator.com/item?id=39813438) - [Opera sees big jump in EU users on iOS, Android after DMA update](https://www.bleepingcomputer.com/news/technology/opera-sees-big-jump-in-eu-users-on-ios-android-after-dma-update/)
+* [2024-03-25, 07:02:35](https://news.ycombinator.com/item?id=39813410) - [Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
 * [2024-03-25, 07:00:46](https://news.ycombinator.com/item?id=39813399) - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
 * [2024-03-25, 06:54:02](https://news.ycombinator.com/item?id=39813365) - [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 * [2024-03-25, 06:22:38](https://news.ycombinator.com/item?id=39813240) - [Windows 98 Icons](https://win98icons.alexmeub.com/)

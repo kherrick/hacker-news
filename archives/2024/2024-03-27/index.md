@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 12:58:47](https://news.ycombinator.com/item?id=39838456) - [Israel Deploys Expansive Facial Recognition Program in Gaza](https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html)
 * [2024-03-27, 12:31:06](https://news.ycombinator.com/item?id=39838169) - [Claude 3 beats GPT-4 on Aider's code editing benchmark](https://aider.chat/2024/03/08/claude-3.html)
 * [2024-03-27, 12:26:09](https://news.ycombinator.com/item?id=39838131) - [Cows in Texas and Kansas test positive for highly pathogenic bird flu](https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/)
 * [2024-03-27, 12:24:13](https://news.ycombinator.com/item?id=39838112) - [DOJ compares AAPL share buybacks with R&D as 'evidence' of lack of competition](https://9to5mac.com/2024/03/27/aapl-share-buybacks-verses-rd-spend/)
@@ -11,6 +12,7 @@
 * [2024-03-27, 11:36:06](https://news.ycombinator.com/item?id=39837755) - [Austria is sleepwalking toward a far-right victory](https://www.politico.eu/article/austria-sleepwalking-far-right-victory-european-election-freedom-party-fpo-nazis-herbert-kickl/)
 * [2024-03-27, 11:28:13](https://news.ycombinator.com/item?id=39837714) - [Two nights of broken sleep can make people feel years older, finds study](https://www.theguardian.com/science/2024/mar/27/two-nights-of-broken-sleep-can-make-people-feel-years-older-finds-study)
 * [2024-03-27, 11:27:57](https://news.ycombinator.com/item?id=39837712) - [Younger Generations Have Larger Brains. Is That Healthier?](https://www.sciencealert.com/younger-generations-have-larger-brains-is-that-healthier)
+* [2024-03-27, 11:17:46](https://news.ycombinator.com/item?id=39837650) - [Are We Living in the Roaring 20s?](https://awealthofcommonsense.com/2024/03/are-we-living-in-the-roaring-20s/)
 * [2024-03-27, 10:52:01](https://news.ycombinator.com/item?id=39837498) - [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
 * [2024-03-27, 10:36:29](https://news.ycombinator.com/item?id=39837423) - [Show HN: Figr Identity – Generate Design Systems in Figma Instantly](https://www.figma.com/community/plugin/1350743748296105581/generate-design-systems-quickly-figr-identity-free-beta)
 * [2024-03-27, 09:52:10](https://news.ycombinator.com/item?id=39837146) - [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
