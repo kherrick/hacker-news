@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 04:25:21](https://news.ycombinator.com/item?id=39835704) - [Some of the Most Popular Websites Share Your Data with over 1,500 Companies](https://www.wired.com/story/cookie-pop-up-ad-tech-partner-top-websites/)
 * [2024-03-27, 03:46:41](https://news.ycombinator.com/item?id=39835526) - [How to use GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
 * [2024-03-27, 03:40:33](https://news.ycombinator.com/item?id=39835496) - [How (and why) to run SQLite in production](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
 * [2024-03-27, 03:35:04](https://news.ycombinator.com/item?id=39835459) - [Yen sinks to 34-year low](https://www.nippon.com/en/news/kd1145551739041612055/)
