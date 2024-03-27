@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
 * [2024-03-27, 09:00:50](https://news.ycombinator.com/item?id=39836879) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
+* [2024-03-27, 08:55:38](https://news.ycombinator.com/item?id=39836852) - [Why Elixir (2014)](https://www.theerlangelist.com/article/why_elixir)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 08:29:22](https://news.ycombinator.com/item?id=39836715) - [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
 * [2024-03-27, 08:19:24](https://news.ycombinator.com/item?id=39836664) - [My Partner Is Messy. Help](https://www.nytimes.com/2024/03/23/well/family/organization-mess-relationships.html)
@@ -17,6 +18,7 @@
 * [2024-03-27, 07:00:26](https://news.ycombinator.com/item?id=39836316) - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
 * [2024-03-27, 06:37:18](https://news.ycombinator.com/item?id=39836226) - [Antitrust suit could force Apple to reveal its secrets](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit)
 * [2024-03-27, 06:34:21](https://news.ycombinator.com/item?id=39836219) - [North Korea TV Censors Alan Titchmarsh's Trousers](https://www.bbc.com/news/world-asia-68664644)
+* [2024-03-27, 06:14:18](https://news.ycombinator.com/item?id=39836124) - [Ask HN: Startup Devs -What's your biggest pain while managing cloud deployments?](https://news.ycombinator.com/item?id=39836124)
 * [2024-03-27, 05:52:34](https://news.ycombinator.com/item?id=39836046) - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
 * [2024-03-27, 04:25:21](https://news.ycombinator.com/item?id=39835704) - [Some of the Most Popular Websites Share Your Data with over 1,500 Companies](https://www.wired.com/story/cookie-pop-up-ad-tech-partner-top-websites/)
 * [2024-03-27, 04:21:22](https://news.ycombinator.com/item?id=39835693) - [Deficiencies in GCC's Code Generator and Optimiser](https://skanthak.hier-im-netz.de/gcc.html)
