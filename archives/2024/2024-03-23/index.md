@@ -58,6 +58,7 @@
 * [2024-03-23, 15:19:57](https://news.ycombinator.com/item?id=39800579) - [An Introductory 4.4BSD Interprocess Communication Tutorial [pdf]](https://docs-archive.freebsd.org/44doc/psd/20.ipctut/paper.pdf)
 * [2024-03-23, 15:15:17](https://news.ycombinator.com/item?id=39800542) - [Using JTAG to dump parallel NOR flash](https://zetier.com/news/jtag-chain-diagram-to-dump-nor/)
 * [2024-03-23, 15:12:54](https://news.ycombinator.com/item?id=39800522) - [Apple in the Crosshairs: DOJ's Epic Showdown Echoes Microsoft's Antitrust Saga](https://www.wsj.com/tech/ghost-of-microsoft-stalks-apple-as-doj-takes-its-shot-1f2be684)
+* [2024-03-23, 14:58:38](https://news.ycombinator.com/item?id=39800416) - [Butterflies Full of Wasps Full of Microwasps Are a Science Nightmare (2021)](https://www.atlasobscura.com/articles/butterflies-parasitic-wasps-finland)
 * [2024-03-23, 14:53:37](https://news.ycombinator.com/item?id=39800370) - [Show HN: PgJQ: Use Jq in Postgres](https://github.com/Florents-Tselai/pgJQ)
 * [2024-03-23, 14:25:04](https://news.ycombinator.com/item?id=39800143) - [Apple Silicon vulnerability leaks encryption keys, and can't be patched easily](https://appleinsider.com/articles/24/03/21/apple-silicon-vulnerability-leaks-encryption-keys-and-cant-be-patched-easily)
 * [2024-03-23, 14:06:47](https://news.ycombinator.com/item?id=39800026) - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)

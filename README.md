@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-26, 22:21:08](https://news.ycombinator.com/item?id=39833512) - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
-* [2024-03-26, 21:26:29](https://news.ycombinator.com/item?id=39833060) - [A Look into Java 22's New Features and Security Enhancements](https://coderoasis.com/java-22-is-released/)
 * [2024-03-26, 21:00:50](https://news.ycombinator.com/item?id=39832794) - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-* [2024-03-26, 20:40:55](https://news.ycombinator.com/item?id=39832587) - [Affinity Is Joining Canva](https://affinity.serif.com/en-us/press/newsroom/canva-statement/)
+* [2024-03-26, 19:35:00](https://news.ycombinator.com/item?id=39831912) - [After Appalachian Hospitals Merged into a Monopoly, Their ERs Slowed to a Crawl](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
 * [2024-03-26, 19:27:47](https://news.ycombinator.com/item?id=39831838) - [Death and typos: my six years screening online obituary comments](https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening)
 * [2024-03-26, 17:25:53](https://news.ycombinator.com/item?id=39830459) - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
-* [2024-03-26, 16:25:50](https://news.ycombinator.com/item?id=39829695) - [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
+* [2024-03-26, 17:03:00](https://news.ycombinator.com/item?id=39830195) - [Astronomers find 49 galaxies in under three hours](https://www.icrar.org/49galaxies/)
 * [2024-03-26, 16:24:30](https://news.ycombinator.com/item?id=39829681) - [Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 14:38:48](https://news.ycombinator.com/item?id=39828481) - [Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
@@ -30,6 +29,7 @@
 * [2024-03-25, 07:53:40](https://news.ycombinator.com/item?id=39813660) - [Backpressure explained – the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 * [2024-03-25, 07:30:40](https://news.ycombinator.com/item?id=39813537) - [A simple, (as-of-yet unidentified) asymmetric Authenticated Key Exchange](https://dannyvanheumen.nl/post/simple-asymmetric-ake/)
 * [2024-03-25, 06:54:02](https://news.ycombinator.com/item?id=39813365) - [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
+* [2024-03-23, 14:58:38](https://news.ycombinator.com/item?id=39800416) - [Butterflies Full of Wasps Full of Microwasps Are a Science Nightmare (2021)](https://www.atlasobscura.com/articles/butterflies-parasitic-wasps-finland)
 
 ## [Archives](archives/index.md)
 
