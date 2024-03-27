@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-27, 19:03:43",
-      "https://news.ycombinator.com/item?id=39843257"
-    ],
-    [
-      "Andrew Huberman's Mechanisms of Control",
-      "https://nymag.com/intelligencer/article/andrew-huberman-podcast-stanford-joe-rogan.html"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 18:53:13",
       "https://news.ycombinator.com/item?id=39843148"
     ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2024-03-27, 17:03:22",
+      "https://news.ycombinator.com/item?id=39841703"
+    ],
+    [
+      "MTA board votes to approve new $15 toll to drive into Manhattan",
+      "https://www.nytimes.com/2024/03/27/business/nyc-congestion-pricing-tolls-mta.html"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 17:01:17",
       "https://news.ycombinator.com/item?id=39841685"
     ],
@@ -107,6 +107,16 @@
     [
       "Amazon spends another $2.7B on Anthropic",
       "https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 16:43:05",
+      "https://news.ycombinator.com/item?id=39841476"
+    ],
+    [
+      "JetZero: Ultra-efficient blended wing body jet",
+      "https://www.jetzero.aero/why-jetzero"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-03-27, 15:31:53",
-      "https://news.ycombinator.com/item?id=39840593"
-    ],
-    [
-      "What Nvidia's Blackwell efficiency gains mean for DC operators",
-      "https://www.theregister.com/2024/03/27/nvidia_blackwell_efficiency/"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 15:25:34",
       "https://news.ycombinator.com/item?id=39840518"
     ],
@@ -177,6 +177,26 @@
     [
       "Daniel Kahneman has died",
       "https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 14:38:51",
+      "https://news.ycombinator.com/item?id=39839789"
+    ],
+    [
+      "The Pentagon's Silicon Valley Problem",
+      "https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 14:28:54",
+      "https://news.ycombinator.com/item?id=39839629"
+    ],
+    [
+      "The window for great-grandmothers is closing",
+      "https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "Show HN: Figr Identity – Generate Design Systems in Figma Instantly",
       "https://www.figma.com/community/plugin/1350743748296105581/generate-design-systems-quickly-figr-identity-free-beta"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 09:33:37",
-      "https://news.ycombinator.com/item?id=39837045"
-    ],
-    [
-      "Egui 0.27 – easy-to-use immediate mode GUI for Rust",
-      "https://github.com/emilk/egui/releases/tag/0.27.0"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Write OpenAPI with TypeSpec",
       "https://blog.trl.sn/blog/typespec-for-openapi/"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 17:35:14",
-      "https://news.ycombinator.com/item?id=39830564"
-    ],
-    [
-      "Binary array set",
-      "https://www.nayuki.io/page/binary-array-set"
     ]
   ],
   [
