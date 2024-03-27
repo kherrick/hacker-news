@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 18:16:27](https://news.ycombinator.com/item?id=39842688) - [The biggest financial frauds ever – from Sam Bankman-Fried to Bernie Madoff](https://qz.com/financial-frauds-sam-bankman-fried-bernie-madoff-enron-1851367680)
+* [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
 * [2024-03-27, 17:48:49](https://news.ycombinator.com/item?id=39842340) - [Who's Behind All the 'Pussy in Bio' on X?](https://nymag.com/intelligencer/article/who-is-behind-all-the-pussy-in-bio-porn-spam-on-x.html)
 * [2024-03-27, 17:31:31](https://news.ycombinator.com/item?id=39842116) - [Winner of the SF Mistral AI Hackathon: Automated Test Driven Prompting](https://prompting.flyflow.dev)
 * [2024-03-27, 17:28:20](https://news.ycombinator.com/item?id=39842067) - [Pythagoras was wrong: there are no universal musical harmonies, study finds](https://www.cam.ac.uk/research/news/pythagoras-was-wrong-there-are-no-universal-musical-harmonies-study-finds)
@@ -20,6 +22,7 @@
 * [2024-03-27, 16:15:52](https://news.ycombinator.com/item?id=39841152) - [Salesforce Paid $20M to License Einstein](https://www.bloomberg.com/news/articles/2024-03-27/salesforce-paid-20-million-to-license-einstein-for-ai)
 * [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an Era: Final Delta IV Heavy Rocket Carries NROL-70 on Historic Mission](https://www.spacedaily.com/reports/End_of_an_Era_Final_Delta_IV_Heavy_Rocket_Carries_NROL_70_on_Historic_Mission_999.html)
 * [2024-03-27, 15:35:07](https://news.ycombinator.com/item?id=39840635) - [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
+* [2024-03-27, 15:35:06](https://news.ycombinator.com/item?id=39840634) - [Show HN: I built a web app where you can see what tools indiehackers are using](https://ramen.tools)
 * [2024-03-27, 15:31:53](https://news.ycombinator.com/item?id=39840593) - [What Nvidia's Blackwell efficiency gains mean for DC operators](https://www.theregister.com/2024/03/27/nvidia_blackwell_efficiency/)
 * [2024-03-27, 15:25:34](https://news.ycombinator.com/item?id=39840518) - [Notes on EndeavourOS](https://mudkip.me/2024/03/28/Notes-on-EndeavourOS/)
 * [2024-03-27, 15:20:26](https://news.ycombinator.com/item?id=39840447) - [Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90](https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90)
