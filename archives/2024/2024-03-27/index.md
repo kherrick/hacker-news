@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
 * [2024-03-27, 18:16:27](https://news.ycombinator.com/item?id=39842688) - [The biggest financial frauds ever – from Sam Bankman-Fried to Bernie Madoff](https://qz.com/financial-frauds-sam-bankman-fried-bernie-madoff-enron-1851367680)
+* [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
 * [2024-03-27, 17:48:49](https://news.ycombinator.com/item?id=39842340) - [Who's Behind All the 'Pussy in Bio' on X?](https://nymag.com/intelligencer/article/who-is-behind-all-the-pussy-in-bio-porn-spam-on-x.html)
+* [2024-03-27, 17:33:47](https://news.ycombinator.com/item?id=39842148) - [Ask HN: Do you feel scummy making AI products?](https://news.ycombinator.com/item?id=39842148)
 * [2024-03-27, 17:31:31](https://news.ycombinator.com/item?id=39842116) - [Winner of the SF Mistral AI Hackathon: Automated Test Driven Prompting](https://prompting.flyflow.dev)
 * [2024-03-27, 17:28:20](https://news.ycombinator.com/item?id=39842067) - [Pythagoras was wrong: there are no universal musical harmonies, study finds](https://www.cam.ac.uk/research/news/pythagoras-was-wrong-there-are-no-universal-musical-harmonies-study-finds)
 * [2024-03-27, 17:22:28](https://news.ycombinator.com/item?id=39841984) - [Timekeepers may subtract a second in 2029 as planet spins slightly faster](https://www.pbs.org/newshour/science/timekeepers-may-subtract-a-second-from-clocks-as-soon-as-2029-as-planet-spins-slightly-faster)
