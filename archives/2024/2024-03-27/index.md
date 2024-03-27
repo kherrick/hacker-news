@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 15:20:26](https://news.ycombinator.com/item?id=39840447) - [Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90](https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90)
+* [2024-03-27, 15:10:08](https://news.ycombinator.com/item?id=39840294) - [Microsoft's new era of AI PCs will need a Copilot key, says Intel](https://www.theverge.com/2024/3/26/24112500/microsoft-ai-pc-intel-windows-copilot-key-requirements)
+* [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman, Nobel-winning economist, dies at 90](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:45:33](https://news.ycombinator.com/item?id=39839905) - [Flatpak builds are not reproducible and why that's a practical problem](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
 * [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
 * [2024-03-27, 14:34:28](https://news.ycombinator.com/item?id=39839712) - [The film fans who refuse to surrender to streaming](https://www.theguardian.com/film/2024/mar/27/the-film-fans-who-refuse-to-surrender-to-streaming-one-day-youll-barter-bread-for-our-dvds)
