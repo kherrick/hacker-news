@@ -2,8 +2,10 @@
 
 * [2024-03-27, 17:01:17](https://news.ycombinator.com/item?id=39841685) - [Spice (YC S19) Is Hiring a Founding Product Associate](https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate)
 * [2024-03-27, 16:56:23](https://news.ycombinator.com/item?id=39841618) - [Amazon spends $2.7B on startup Anthropic in largest venture investment](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
+* [2024-03-27, 16:50:26](https://news.ycombinator.com/item?id=39841545) - [My Apple Vision Pro Nightmare](https://www.businessinsider.com/my-apple-vision-pro-nightmare-surveillance-privacy-2024-3)
 * [2024-03-27, 16:43:05](https://news.ycombinator.com/item?id=39841476) - [JetZero: Ultra-Efficient Blended Wing Body Jet](https://www.jetzero.aero/why-jetzero)
 * [2024-03-27, 16:36:21](https://news.ycombinator.com/item?id=39841390) - [\"The king is dead\"–Claude 3 surpasses GPT-4 on Chatbot Arena](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/)
+* [2024-03-27, 16:33:07](https://news.ycombinator.com/item?id=39841363) - [Proxmox VE: Import Wizard for Migrating VMware ESXi VMs](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an Era: Final Delta IV Heavy Rocket Carries NROL-70 on Historic Mission](https://www.spacedaily.com/reports/End_of_an_Era_Final_Delta_IV_Heavy_Rocket_Carries_NROL_70_on_Historic_Mission_999.html)
 * [2024-03-27, 15:31:53](https://news.ycombinator.com/item?id=39840593) - [What Nvidia's Blackwell efficiency gains mean for DC operators](https://www.theregister.com/2024/03/27/nvidia_blackwell_efficiency/)
 * [2024-03-27, 15:25:34](https://news.ycombinator.com/item?id=39840518) - [Notes on EndeavourOS](https://mudkip.me/2024/03/28/Notes-on-EndeavourOS/)
@@ -12,7 +14,6 @@
 * [2024-03-27, 14:59:37](https://news.ycombinator.com/item?id=39840150) - [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
 * [2024-03-27, 14:43:23](https://news.ycombinator.com/item?id=39839871) - [Canada's maple syrup reserve hits 16-year low](https://www.bbc.com/news/world-us-canada-68657703)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The Last Crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
-* [2024-03-27, 13:24:33](https://news.ycombinator.com/item?id=39838725) - ['Operation 404' Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
 * [2024-03-27, 12:48:54](https://news.ycombinator.com/item?id=39838351) - [Sun Microsystems co-founder charged with insider trading](https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/)
 * [2024-03-27, 12:34:13](https://news.ycombinator.com/item?id=39838207) - [Show HN: Manage on-prem servers from my smartphone](https://github.com/c100k/rebootx-on-prem)
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [Introducing DBRX: A New State-of-the-Art Open LLM by Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
@@ -27,7 +28,6 @@
 * [2024-03-27, 03:39:15](https://news.ycombinator.com/item?id=39835488) - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 00:37:25](https://news.ycombinator.com/item?id=39822999) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
-* [2024-03-25, 09:10:14](https://news.ycombinator.com/item?id=39814079) - [Everyone is John: A competitive roleplaying game for three or more people (2002)](https://rtwolf.github.io/Everyone-is-John/)
 * [2024-03-25, 07:02:35](https://news.ycombinator.com/item?id=39813410) - [Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
 * [2024-03-25, 06:54:02](https://news.ycombinator.com/item?id=39813365) - [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 

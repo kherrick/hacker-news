@@ -6,8 +6,10 @@
 
 * [2024-03-27, 17:01:17](https://news.ycombinator.com/item?id=39841685) - [Spice (YC S19) Is Hiring a Founding Product Associate](https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate)
 * [2024-03-27, 16:56:23](https://news.ycombinator.com/item?id=39841618) - [Amazon spends $2.7B on startup Anthropic in largest venture investment](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
+* [2024-03-27, 16:50:26](https://news.ycombinator.com/item?id=39841545) - [My Apple Vision Pro Nightmare](https://www.businessinsider.com/my-apple-vision-pro-nightmare-surveillance-privacy-2024-3)
 * [2024-03-27, 16:43:05](https://news.ycombinator.com/item?id=39841476) - [JetZero: Ultra-Efficient Blended Wing Body Jet](https://www.jetzero.aero/why-jetzero)
 * [2024-03-27, 16:36:21](https://news.ycombinator.com/item?id=39841390) - [\"The king is dead\"–Claude 3 surpasses GPT-4 on Chatbot Arena](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/)
+* [2024-03-27, 16:33:07](https://news.ycombinator.com/item?id=39841363) - [Proxmox VE: Import Wizard for Migrating VMware ESXi VMs](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 16:15:52](https://news.ycombinator.com/item?id=39841152) - [Salesforce Paid $20M to License Einstein](https://www.bloomberg.com/news/articles/2024-03-27/salesforce-paid-20-million-to-license-einstein-for-ai)
 * [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an Era: Final Delta IV Heavy Rocket Carries NROL-70 on Historic Mission](https://www.spacedaily.com/reports/End_of_an_Era_Final_Delta_IV_Heavy_Rocket_Carries_NROL_70_on_Historic_Mission_999.html)
 * [2024-03-27, 15:35:07](https://news.ycombinator.com/item?id=39840635) - [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
