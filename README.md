@@ -10,7 +10,6 @@
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 18:08:31](https://news.ycombinator.com/item?id=39842585) - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
 * [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
-* [2024-03-27, 17:22:28](https://news.ycombinator.com/item?id=39841984) - [Timekeepers may subtract a second in 2029 as planet spins slightly faster](https://www.pbs.org/newshour/science/timekeepers-may-subtract-a-second-from-clocks-as-soon-as-2029-as-planet-spins-slightly-faster)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 * [2024-03-27, 17:03:22](https://news.ycombinator.com/item?id=39841703) - [MTA board votes to approve new $15 toll to drive into Manhattan](https://www.nytimes.com/2024/03/27/business/nyc-congestion-pricing-tolls-mta.html)
 * [2024-03-27, 16:43:05](https://news.ycombinator.com/item?id=39841476) - [JetZero: Ultra-efficient blended wing body jet](https://www.jetzero.aero/why-jetzero)
@@ -24,12 +23,13 @@
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 12:48:54](https://news.ycombinator.com/item?id=39838351) - [Andy Bechtolsheim charged with insider trading](https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/)
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+* [2024-03-27, 10:36:29](https://news.ycombinator.com/item?id=39837423) - [Show HN: Figr Identity – Generate Design Systems in Figma Instantly](https://www.figma.com/community/plugin/1350743748296105581/generate-design-systems-quickly-figr-identity-free-beta)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 08:10:13](https://news.ycombinator.com/item?id=39836630) - [Show HN: I made a cheap alternative to college-level math & physics tutoring](https://news.ycombinator.com/item?id=39836630)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
+* [2024-03-26, 22:06:35](https://news.ycombinator.com/item?id=39833403) - [Sudo-rs dependencies: when less is better](https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better)
 * [2024-03-26, 21:56:16](https://news.ycombinator.com/item?id=39833321) - [Write OpenAPI with TypeSpec](https://blog.trl.sn/blog/typespec-for-openapi/)
 * [2024-03-26, 01:53:23](https://news.ycombinator.com/item?id=39823512) - [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
-* [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
 ## [Archives](archives/index.md)
 
