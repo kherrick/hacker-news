@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 15:35:07](https://news.ycombinator.com/item?id=39840635) - [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
 * [2024-03-27, 15:20:26](https://news.ycombinator.com/item?id=39840447) - [Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90](https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90)
+* [2024-03-27, 15:19:22](https://news.ycombinator.com/item?id=39840434) - [Ukraine Using Networked Microphones to Track Russian Drones](https://www.twz.com/land/thousands-of-networked-microphones-are-tracking-drones-in-ukraine)
+* [2024-03-27, 15:12:56](https://news.ycombinator.com/item?id=39840343) - [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
 * [2024-03-27, 15:10:08](https://news.ycombinator.com/item?id=39840294) - [Microsoft's new era of AI PCs will need a Copilot key, says Intel](https://www.theverge.com/2024/3/26/24112500/microsoft-ai-pc-intel-windows-copilot-key-requirements)
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman, Nobel-winning economist, dies at 90](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:45:33](https://news.ycombinator.com/item?id=39839905) - [Flatpak builds are not reproducible and why that's a practical problem](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)

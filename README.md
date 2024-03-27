@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 15:35:07](https://news.ycombinator.com/item?id=39840635) - [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
 * [2024-03-27, 15:20:26](https://news.ycombinator.com/item?id=39840447) - [Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90](https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90)
+* [2024-03-27, 15:19:22](https://news.ycombinator.com/item?id=39840434) - [Ukraine Using Networked Microphones to Track Russian Drones](https://www.twz.com/land/thousands-of-networked-microphones-are-tracking-drones-in-ukraine)
+* [2024-03-27, 15:12:56](https://news.ycombinator.com/item?id=39840343) - [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
 * [2024-03-27, 15:10:08](https://news.ycombinator.com/item?id=39840294) - [Microsoft's new era of AI PCs will need a Copilot key, says Intel](https://www.theverge.com/2024/3/26/24112500/microsoft-ai-pc-intel-windows-copilot-key-requirements)
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman, Nobel-winning economist, dies at 90](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:45:33](https://news.ycombinator.com/item?id=39839905) - [Flatpak builds are not reproducible and why that's a practical problem (2022)](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
@@ -14,7 +17,6 @@
 * [2024-03-27, 10:36:29](https://news.ycombinator.com/item?id=39837423) - [Show HN: Figr Identity – Generate Design Systems in Figma Instantly](https://www.figma.com/community/plugin/1350743748296105581/generate-design-systems-quickly-figr-identity-free-beta)
 * [2024-03-27, 09:52:10](https://news.ycombinator.com/item?id=39837146) - [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
 * [2024-03-27, 09:33:37](https://news.ycombinator.com/item?id=39837045) - [Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
-* [2024-03-27, 09:00:50](https://news.ycombinator.com/item?id=39836879) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-27, 08:55:38](https://news.ycombinator.com/item?id=39836852) - [Why Elixir (2014)](https://www.theerlangelist.com/article/why_elixir)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 08:10:13](https://news.ycombinator.com/item?id=39836630) - [Show HN: I made a cheap alternative to college-level math & physics tutoring](https://news.ycombinator.com/item?id=39836630)
@@ -22,14 +24,12 @@
 * [2024-03-27, 07:00:26](https://news.ycombinator.com/item?id=39836316) - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
 * [2024-03-27, 05:52:34](https://news.ycombinator.com/item?id=39836046) - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
 * [2024-03-27, 03:39:15](https://news.ycombinator.com/item?id=39835488) - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
-* [2024-03-26, 19:27:47](https://news.ycombinator.com/item?id=39831838) - [Death and typos: my six years screening online obituary comments](https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 14:12:16](https://news.ycombinator.com/item?id=39828058) - [Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
 * [2024-03-26, 00:37:25](https://news.ycombinator.com/item?id=39822999) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-25, 09:10:14](https://news.ycombinator.com/item?id=39814079) - [Everyone is John: A competitive roleplaying game for three or more people (2002)](https://rtwolf.github.io/Everyone-is-John/)
 * [2024-03-25, 07:02:35](https://news.ycombinator.com/item?id=39813410) - [Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
 * [2024-03-25, 06:54:02](https://news.ycombinator.com/item?id=39813365) - [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
-* [2024-03-23, 14:58:38](https://news.ycombinator.com/item?id=39800416) - [Butterflies Full of Wasps Full of Microwasps Are a Science Nightmare (2021)](https://www.atlasobscura.com/articles/butterflies-parasitic-wasps-finland)
 
 ## [Archives](archives/index.md)
 
