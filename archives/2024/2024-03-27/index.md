@@ -7,6 +7,7 @@
 * [2024-03-27, 22:45:48](https://news.ycombinator.com/item?id=39845525) - [Can Weed Improve a Workout?](https://www.nytimes.com/2024/03/26/well/move/weed-exercise-cannabis-workout.html)
 * [2024-03-27, 22:44:20](https://news.ycombinator.com/item?id=39845508) - [NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
 * [2024-03-27, 22:38:42](https://news.ycombinator.com/item?id=39845450) - [Oregon signs right to repair into law](https://techcrunch.com/2024/03/27/oregon-signs-right-to-repair-into-law/)
+* [2024-03-27, 22:27:57](https://news.ycombinator.com/item?id=39845364) - [Being laid off in 2023-2024 as an early-career developer](https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs)
 * [2024-03-27, 21:57:37](https://news.ycombinator.com/item?id=39845099) - [Windows 3.1 Style Clock](https://rmcretro.store/products/windows-3-1-style-clock)
 * [2024-03-27, 21:43:59](https://news.ycombinator.com/item?id=39844960) - [Digital wallets and the \"only Apple Pay does this\" mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
