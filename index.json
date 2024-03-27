@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-27, 17:22:28",
+      "https://news.ycombinator.com/item?id=39841984"
+    ],
+    [
+      "Timekeepers may subtract a second in 2029 as planet spins slightly faster",
+      "https://www.pbs.org/newshour/science/timekeepers-may-subtract-a-second-from-clocks-as-soon-as-2029-as-planet-spins-slightly-faster"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 17:20:43",
+      "https://news.ycombinator.com/item?id=39841956"
+    ],
+    [
+      "Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat",
+      "https://news.ycombinator.com/item?id=39841956"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 17:01:17",
       "https://news.ycombinator.com/item?id=39841685"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2024-03-27, 16:50:26",
-      "https://news.ycombinator.com/item?id=39841545"
-    ],
-    [
-      "My Apple Vision Pro Nightmare",
-      "https://www.businessinsider.com/my-apple-vision-pro-nightmare-surveillance-privacy-2024-3"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 16:43:05",
       "https://news.ycombinator.com/item?id=39841476"
     ],
     [
       "JetZero: Ultra-Efficient Blended Wing Body Jet",
       "https://www.jetzero.aero/why-jetzero"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 16:36:21",
-      "https://news.ycombinator.com/item?id=39841390"
-    ],
-    [
-      "\"The king is dead\"–Claude 3 surpasses GPT-4 on Chatbot Arena",
-      "https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "End of an Era: Final Delta IV Heavy Rocket Carries NROL-70 on Historic Mission",
       "https://www.spacedaily.com/reports/End_of_an_Era_Final_Delta_IV_Heavy_Rocket_Carries_NROL_70_on_Historic_Mission_999.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 15:31:53",
-      "https://news.ycombinator.com/item?id=39840593"
-    ],
-    [
-      "What Nvidia's Blackwell efficiency gains mean for DC operators",
-      "https://www.theregister.com/2024/03/27/nvidia_blackwell_efficiency/"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2024-03-27, 10:52:01",
-      "https://news.ycombinator.com/item?id=39837498"
-    ],
-    [
-      "Serious security breach hits EU police agency",
-      "https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 10:36:29",
       "https://news.ycombinator.com/item?id=39837423"
     ],
@@ -241,22 +221,52 @@
   ],
   [
     [
-      "2024-03-27, 05:52:34",
-      "https://news.ycombinator.com/item?id=39836046"
-    ],
-    [
-      "First practical SHA-256 collision for 31 steps. fse2024",
-      "https://twitter.com/jedisct1/status/1772647350554464448"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 03:39:15",
       "https://news.ycombinator.com/item?id=39835488"
     ],
     [
       "How I would automate monitoring DNS queries in basic Prometheus",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 22:06:35",
+      "https://news.ycombinator.com/item?id=39833403"
+    ],
+    [
+      "Sudo-rs dependencies: when less is better",
+      "https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 21:56:16",
+      "https://news.ycombinator.com/item?id=39833321"
+    ],
+    [
+      "Write OpenAPI with TypeSpec",
+      "https://blog.trl.sn/blog/typespec-for-openapi/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 17:52:45",
+      "https://news.ycombinator.com/item?id=39830740"
+    ],
+    [
+      "`async: false` is the worst",
+      "https://saltycrackers.dev/posts/bye-bye-async-false/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 17:35:14",
+      "https://news.ycombinator.com/item?id=39830564"
+    ],
+    [
+      "Binary array set",
+      "https://www.nayuki.io/page/binary-array-set"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2024-03-26, 00:37:25",
-      "https://news.ycombinator.com/item?id=39822999"
+      "2024-03-26, 01:53:23",
+      "https://news.ycombinator.com/item?id=39823512"
     ],
     [
-      "Range Partitioning: Zero to One",
-      "https://www.aspiring.dev/range-partitioning/"
+      "Binary vector search is better than FP32 vectors",
+      "https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Budget Kanban – Visually manage finances in Kanban boards",
       "https://budgetkanban.com"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 06:54:02",
-      "https://news.ycombinator.com/item?id=39813365"
-    ],
-    [
-      "Who killed the network switch? A Hubris Bug Story",
-      "https://cliffle.com/blog/who-killed-the-network-switch/"
     ]
   ]
 ]
