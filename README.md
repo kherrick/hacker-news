@@ -6,6 +6,7 @@
 * [2024-03-27, 21:43:59](https://news.ycombinator.com/item?id=39844960) - [Digital wallets and the \"only Apple Pay does this\" mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
+* [2024-03-27, 20:30:13](https://news.ycombinator.com/item?id=39844219) - [Show HN: The 2FA app that notifies you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
 * [2024-03-27, 20:24:43](https://news.ycombinator.com/item?id=39844159) - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
 * [2024-03-27, 20:05:48](https://news.ycombinator.com/item?id=39843930) - [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers (2019)](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
 * [2024-03-27, 20:02:57](https://news.ycombinator.com/item?id=39843902) - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
@@ -28,7 +29,6 @@
 * [2024-03-27, 12:34:13](https://news.ycombinator.com/item?id=39838207) - [Show HN: Manage on-prem servers from my smartphone](https://github.com/c100k/rebootx-on-prem)
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
-* [2024-03-27, 08:10:13](https://news.ycombinator.com/item?id=39836630) - [Show HN: I made a cheap alternative to college-level math & physics tutoring](https://news.ycombinator.com/item?id=39836630)
 * [2024-03-26, 01:53:23](https://news.ycombinator.com/item?id=39823512) - [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
 
 ## [Archives](archives/index.md)
