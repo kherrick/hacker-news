@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-27, 04:21:22](https://news.ycombinator.com/item?id=39835693) - [Deficiencies in GCC's Code Generator and Optimiser](https://skanthak.hier-im-netz.de/gcc.html)
+* [2024-03-27, 04:21:22](https://news.ycombinator.com/item?id=39835693) - [Deficiencies in GCC's code generator and optimiser](https://skanthak.hier-im-netz.de/gcc.html)
 * [2024-03-27, 03:40:33](https://news.ycombinator.com/item?id=39835496) - [How (and why) to run SQLite in production](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
 * [2024-03-27, 03:39:15](https://news.ycombinator.com/item?id=39835488) - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
 * [2024-03-27, 01:48:18](https://news.ycombinator.com/item?id=39834904) - [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
