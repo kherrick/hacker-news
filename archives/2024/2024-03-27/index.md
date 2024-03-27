@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 13:24:33](https://news.ycombinator.com/item?id=39838725) - ['Operation 404' Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
 * [2024-03-27, 12:58:47](https://news.ycombinator.com/item?id=39838456) - [Israel Deploys Expansive Facial Recognition Program in Gaza](https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html)
 * [2024-03-27, 12:31:06](https://news.ycombinator.com/item?id=39838169) - [Claude 3 beats GPT-4 on Aider's code editing benchmark](https://aider.chat/2024/03/08/claude-3.html)
 * [2024-03-27, 12:26:09](https://news.ycombinator.com/item?id=39838131) - [Cows in Texas and Kansas test positive for highly pathogenic bird flu](https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/)
