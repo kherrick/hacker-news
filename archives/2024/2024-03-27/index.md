@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 14:34:28](https://news.ycombinator.com/item?id=39839712) - [The film fans who refuse to surrender to streaming](https://www.theguardian.com/film/2024/mar/27/the-film-fans-who-refuse-to-surrender-to-streaming-one-day-youll-barter-bread-for-our-dvds)
+* [2024-03-27, 14:29:51](https://news.ycombinator.com/item?id=39839640) - [How to Figure Out What Your Car Knows About You, Opt Out of Sharing When You Can](https://www.eff.org/deeplinks/2024/03/how-figure-out-what-your-car-knows-about-you-and-opt-out-sharing-when-you-can)
+* [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
 * [2024-03-27, 14:11:12](https://news.ycombinator.com/item?id=39839358) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
 * [2024-03-27, 13:24:33](https://news.ycombinator.com/item?id=39838725) - ['Operation 404' Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
 * [2024-03-27, 13:11:29](https://news.ycombinator.com/item?id=39838580) - [Boeing's Dead Whistleblower Spoke the Truth](https://www.thefp.com/p/boeings-dead-whistleblower-spoke-the-truth)

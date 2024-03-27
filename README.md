@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 14:34:28](https://news.ycombinator.com/item?id=39839712) - [The film fans who refuse to surrender to streaming](https://www.theguardian.com/film/2024/mar/27/the-film-fans-who-refuse-to-surrender-to-streaming-one-day-youll-barter-bread-for-our-dvds)
+* [2024-03-27, 14:29:51](https://news.ycombinator.com/item?id=39839640) - [How to Figure Out What Your Car Knows About You, Opt Out of Sharing When You Can](https://www.eff.org/deeplinks/2024/03/how-figure-out-what-your-car-knows-about-you-and-opt-out-sharing-when-you-can)
+* [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
 * [2024-03-27, 14:11:12](https://news.ycombinator.com/item?id=39839358) - [Google's AI-powered search results are loaded with spammy, scammy garbage](https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/)
 * [2024-03-27, 13:24:33](https://news.ycombinator.com/item?id=39838725) - ['Operation 404' Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
 * [2024-03-27, 13:11:29](https://news.ycombinator.com/item?id=39838580) - [Boeing's Dead Whistleblower Spoke the Truth](https://www.thefp.com/p/boeings-dead-whistleblower-spoke-the-truth)
@@ -20,16 +23,13 @@
 * [2024-03-27, 08:55:38](https://news.ycombinator.com/item?id=39836852) - [Why Elixir (2014)](https://www.theerlangelist.com/article/why_elixir)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 08:10:13](https://news.ycombinator.com/item?id=39836630) - [Show HN: I made a cheap alternative to college-level math & physics tutoring](https://news.ycombinator.com/item?id=39836630)
-* [2024-03-27, 07:53:24](https://news.ycombinator.com/item?id=39836559) - [Happy birthday APFS, 7 years old today](https://eclecticlight.co/2024/03/27/happy-birthday-apfs-7-years-old-today/)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-27, 07:00:26](https://news.ycombinator.com/item?id=39836316) - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
 * [2024-03-27, 05:52:34](https://news.ycombinator.com/item?id=39836046) - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
 * [2024-03-27, 03:39:15](https://news.ycombinator.com/item?id=39835488) - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
-* [2024-03-26, 14:12:16](https://news.ycombinator.com/item?id=39828058) - [Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
 * [2024-03-26, 00:37:25](https://news.ycombinator.com/item?id=39822999) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-25, 07:02:35](https://news.ycombinator.com/item?id=39813410) - [Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
-* [2024-03-25, 06:54:02](https://news.ycombinator.com/item?id=39813365) - [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 
 ## [Archives](archives/index.md)
 
