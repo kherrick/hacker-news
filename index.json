@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-27, 15:20:26",
-      "https://news.ycombinator.com/item?id=39840447"
+      "2024-03-27, 16:15:52",
+      "https://news.ycombinator.com/item?id=39841152"
     ],
     [
-      "Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90",
-      "https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90"
+      "Salesforce Paid $20M to License Einstein",
+      "https://www.bloomberg.com/news/articles/2024-03-27/salesforce-paid-20-million-to-license-einstein-for-ai"
     ]
   ],
   [
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2024-03-27, 14:45:33",
-      "https://news.ycombinator.com/item?id=39839905"
+      "2024-03-27, 14:54:22",
+      "https://news.ycombinator.com/item?id=39840062"
     ],
     [
-      "Flatpak builds are not reproducible and why that's a practical problem (2022)",
-      "https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/"
+      "RC Helicopter Acrobatics Aren't AI Fakes, If You Can Believe It",
+      "https://www.thedrive.com/news/these-rc-helicopter-acrobatics-arent-ai-fakes-if-you-can-believe-it"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Sun Microsystems co-founder charged with insider trading",
       "https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 12:34:13",
+      "https://news.ycombinator.com/item?id=39838207"
+    ],
+    [
+      "Show HN: Manage on-prem servers from my smartphone",
+      "https://github.com/c100k/rebootx-on-prem"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Egui 0.27 – easy-to-use immediate mode GUI for Rust",
       "https://github.com/emilk/egui/releases/tag/0.27.0"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 09:00:50",
-      "https://news.ycombinator.com/item?id=39836879"
-    ],
-    [
-      "The What, Why and How of Containers",
-      "https://www.annwan.me/computers/what-why-how-containers/"
     ]
   ],
   [
