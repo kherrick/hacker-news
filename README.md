@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 22:38:42](https://news.ycombinator.com/item?id=39845450) - [Oregon signs right to repair into law](https://techcrunch.com/2024/03/27/oregon-signs-right-to-repair-into-law/)
 * [2024-03-27, 21:43:59](https://news.ycombinator.com/item?id=39844960) - [Digital wallets and the \"only Apple Pay does this\" mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
@@ -24,7 +25,6 @@
 * [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 12:48:54](https://news.ycombinator.com/item?id=39838351) - [Andy Bechtolsheim charged with insider trading](https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/)
-* [2024-03-27, 12:34:13](https://news.ycombinator.com/item?id=39838207) - [Show HN: Manage on-prem servers from my smartphone](https://github.com/c100k/rebootx-on-prem)
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 08:10:13](https://news.ycombinator.com/item?id=39836630) - [Show HN: I made a cheap alternative to college-level math & physics tutoring](https://news.ycombinator.com/item?id=39836630)
