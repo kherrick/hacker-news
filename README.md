@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-27, 01:07:50](https://news.ycombinator.com/item?id=39834675) - [MIT Unveils Gen AI Tool That Generates High Res Images 30 Times Faster](https://hothardware.com/news/mit-dmd-image-diffusion)
-* [2024-03-27, 00:57:14](https://news.ycombinator.com/item?id=39834610) - [Dealerships Rip You Off With The “Four-Square,” Here’s How To Beat It (2007)](https://www.consumerreports.org/consumerist/dealerships-rip-you-off-with-the-four-square-heres-how-to-beat-it/)
 * [2024-03-26, 22:21:08](https://news.ycombinator.com/item?id=39833512) - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 * [2024-03-26, 21:00:50](https://news.ycombinator.com/item?id=39832794) - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-03-26, 19:35:00](https://news.ycombinator.com/item?id=39831912) - [After Appalachian hospitals merged, their ERs became much slower](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
@@ -17,6 +16,7 @@
 * [2024-03-26, 12:58:21](https://news.ycombinator.com/item?id=39827266) - [Baltimore's Key Bridge struck by cargo ship, collapses](https://www.wbaltv.com/article/baltimore-bridge-collapse-key-bridge/60303975)
 * [2024-03-26, 12:42:17](https://news.ycombinator.com/item?id=39827127) - [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
 * [2024-03-26, 12:41:02](https://news.ycombinator.com/item?id=39827113) - [Florida's DeSantis signs law restricting social media for people under 16](https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25)
+* [2024-03-26, 09:51:42](https://news.ycombinator.com/item?id=39825901) - [Sega Saturn Architecture – A practical analysis (2021)](https://www.copetti.org/writings/consoles/sega-saturn/)
 * [2024-03-26, 09:28:35](https://news.ycombinator.com/item?id=39825770) - [Spinner-mouse: Arduino-based USB rotary controller for Arkanoid, Tempest, etc.](https://github.com/carlosefr/spinner-mouse)
 * [2024-03-25, 23:27:52](https://news.ycombinator.com/item?id=39822468) - [Broadcasting LoRa packets wihout a radio [video]](https://www.youtube.com/watch?v=eIdHBDSQHyw)
 * [2024-03-25, 21:49:22](https://news.ycombinator.com/item?id=39821629) - [In B-Flat (2009)](http://www.inbflat.net/)
