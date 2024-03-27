@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-27, 19:43:14](https://news.ycombinator.com/item?id=39843670) - [Netflix acquires AI-powered language learning app THINKIN](https://www.cnbc.com/2024/03/27/buy-stocks-on-wednesday-like-nvidia.html)
 * [2024-03-27, 19:08:01](https://news.ycombinator.com/item?id=39843315) - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 18:08:31](https://news.ycombinator.com/item?id=39842585) - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
@@ -29,6 +28,7 @@
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-26, 22:06:35](https://news.ycombinator.com/item?id=39833403) - [Sudo-rs dependencies: when less is better](https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better)
 * [2024-03-26, 21:56:16](https://news.ycombinator.com/item?id=39833321) - [Write OpenAPI with TypeSpec](https://blog.trl.sn/blog/typespec-for-openapi/)
+* [2024-03-26, 17:35:14](https://news.ycombinator.com/item?id=39830564) - [Binary array set](https://www.nayuki.io/page/binary-array-set)
 * [2024-03-26, 01:53:23](https://news.ycombinator.com/item?id=39823512) - [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
 
 ## [Archives](archives/index.md)
