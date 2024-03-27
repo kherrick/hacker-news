@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 09:33:37](https://news.ycombinator.com/item?id=39837045) - [Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
 * [2024-03-27, 08:55:38](https://news.ycombinator.com/item?id=39836852) - [Why Elixir (2014)](https://www.theerlangelist.com/article/why_elixir)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 08:29:22](https://news.ycombinator.com/item?id=39836715) - [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
@@ -17,7 +18,6 @@
 * [2024-03-27, 01:07:50](https://news.ycombinator.com/item?id=39834675) - [MIT Unveils Gen AI Tool That Generates High Res Images 30 Times Faster](https://hothardware.com/news/mit-dmd-image-diffusion)
 * [2024-03-26, 23:07:21](https://news.ycombinator.com/item?id=39833854) - [The Stoppable March of Time](https://www.openttd.org/news/2024/03/23/timekeeping)
 * [2024-03-26, 22:21:08](https://news.ycombinator.com/item?id=39833512) - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
-* [2024-03-26, 19:35:00](https://news.ycombinator.com/item?id=39831912) - [After Appalachian hospitals merged, their ERs became much slower](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
 * [2024-03-26, 19:27:47](https://news.ycombinator.com/item?id=39831838) - [Death and typos: my six years screening online obituary comments](https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening)
 * [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 14:12:16](https://news.ycombinator.com/item?id=39828058) - [Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
