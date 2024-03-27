@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-27, 04:25:21](https://news.ycombinator.com/item?id=39835704) - [Some of the Most Popular Websites Share Your Data with over 1,500 Companies](https://www.wired.com/story/cookie-pop-up-ad-tech-partner-top-websites/)
-* [2024-03-27, 03:46:41](https://news.ycombinator.com/item?id=39835526) - [How to use GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
+* [2024-03-27, 04:21:22](https://news.ycombinator.com/item?id=39835693) - [Deficiencies in GCC's Code Generator and Optimiser](https://skanthak.hier-im-netz.de/gcc.html)
 * [2024-03-27, 03:40:33](https://news.ycombinator.com/item?id=39835496) - [How (and why) to run SQLite in production](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
+* [2024-03-27, 03:39:15](https://news.ycombinator.com/item?id=39835488) - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
 * [2024-03-27, 01:48:18](https://news.ycombinator.com/item?id=39834904) - [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
 * [2024-03-27, 01:07:50](https://news.ycombinator.com/item?id=39834675) - [MIT Unveils Gen AI Tool That Generates High Res Images 30 Times Faster](https://hothardware.com/news/mit-dmd-image-diffusion)
 * [2024-03-26, 22:21:08](https://news.ycombinator.com/item?id=39833512) - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
