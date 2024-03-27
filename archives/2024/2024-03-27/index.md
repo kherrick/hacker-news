@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 21:43:59](https://news.ycombinator.com/item?id=39844960) - [Digital wallets and the \"only Apple Pay does this\" mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:27:33](https://news.ycombinator.com/item?id=39844788) - [I Worked Hard all my Life. I Regret it](https://news.ycombinator.com/item?id=39844788)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
@@ -17,6 +18,7 @@
 * [2024-03-27, 19:08:01](https://news.ycombinator.com/item?id=39843315) - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
 * [2024-03-27, 19:03:43](https://news.ycombinator.com/item?id=39843257) - [Andrew Huberman's Mechanisms of Control](https://nymag.com/intelligencer/article/andrew-huberman-podcast-stanford-joe-rogan.html)
 * [2024-03-27, 18:53:13](https://news.ycombinator.com/item?id=39843148) - [NASA and Boeing Are (Finally) Putting Astronauts on Starliner](https://payloadspace.com/nasa-and-boeing-are-finally-putting-astronauts-on-starliner/)
+* [2024-03-27, 18:52:42](https://news.ycombinator.com/item?id=39843137) - [Show HN: Upload a CSV file, get a Machine Learning model in 1 minute](https://lukasiewicz.tmlc.pl)
 * [2024-03-27, 18:36:33](https://news.ycombinator.com/item?id=39842946) - [Researchers gave AI an 'inner monologue' and it improved its performance](https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance)
 * [2024-03-27, 18:16:27](https://news.ycombinator.com/item?id=39842688) - [The biggest financial frauds ever – from Sam Bankman-Fried to Bernie Madoff](https://qz.com/financial-frauds-sam-bankman-fried-bernie-madoff-enron-1851367680)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
@@ -41,6 +43,7 @@
 * [2024-03-27, 16:15:52](https://news.ycombinator.com/item?id=39841152) - [Salesforce Paid $20M to License Einstein](https://www.bloomberg.com/news/articles/2024-03-27/salesforce-paid-20-million-to-license-einstein-for-ai)
 * [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an era: Final Delta IV heavy rocket carries NROL-70 on historic mission](https://floridamedianow.com/2024/03/25/the-end-of-an-era-the-last-delta-launches-this-week/)
 * [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an Era: Final Delta IV Heavy Rocket Carries NROL-70 on Historic Mission](https://www.spacedaily.com/reports/End_of_an_Era_Final_Delta_IV_Heavy_Rocket_Carries_NROL_70_on_Historic_Mission_999.html)
+* [2024-03-27, 16:01:07](https://news.ycombinator.com/item?id=39840977) - [Astronomers unveil strong magnetic fields spiraling Milky Way's black hole](https://eventhorizontelescope.org/blog/astronomers-unveil-strong-magnetic-fields-spiraling-edge-milky-way%E2%80%99s-central-black-hole)
 * [2024-03-27, 15:35:07](https://news.ycombinator.com/item?id=39840635) - [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
 * [2024-03-27, 15:35:06](https://news.ycombinator.com/item?id=39840634) - [Show HN: I built a web app where you can see what tools indiehackers are using](https://ramen.tools)
 * [2024-03-27, 15:31:53](https://news.ycombinator.com/item?id=39840593) - [What Nvidia's Blackwell efficiency gains mean for DC operators](https://www.theregister.com/2024/03/27/nvidia_blackwell_efficiency/)
