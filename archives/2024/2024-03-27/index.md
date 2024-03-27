@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 17:48:49](https://news.ycombinator.com/item?id=39842340) - [Who's Behind All the 'Pussy in Bio' on X?](https://nymag.com/intelligencer/article/who-is-behind-all-the-pussy-in-bio-porn-spam-on-x.html)
 * [2024-03-27, 17:31:31](https://news.ycombinator.com/item?id=39842116) - [Winner of the SF Mistral AI Hackathon: Automated Test Driven Prompting](https://prompting.flyflow.dev)
+* [2024-03-27, 17:28:20](https://news.ycombinator.com/item?id=39842067) - [Pythagoras was wrong: there are no universal musical harmonies, study finds](https://www.cam.ac.uk/research/news/pythagoras-was-wrong-there-are-no-universal-musical-harmonies-study-finds)
 * [2024-03-27, 17:22:28](https://news.ycombinator.com/item?id=39841984) - [Timekeepers may subtract a second in 2029 as planet spins slightly faster](https://www.pbs.org/newshour/science/timekeepers-may-subtract-a-second-from-clocks-as-soon-as-2029-as-planet-spins-slightly-faster)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 * [2024-03-27, 17:11:13](https://news.ycombinator.com/item?id=39841823) - [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
