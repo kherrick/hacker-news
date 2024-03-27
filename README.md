@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-27, 23:22:28](https://news.ycombinator.com/item?id=39845837) - [Oregon's governor signs right-to-repair law that bans 'parts pairing'](https://www.theverge.com/2024/3/27/24097042/right-to-repair-law-oregon-sb1596-parts-pairing-tina-kotek-signed)
+* [2024-03-27, 22:44:20](https://news.ycombinator.com/item?id=39845508) - [NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
 * [2024-03-27, 22:40:26](https://news.ycombinator.com/item?id=39845471) - [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
 * [2024-03-27, 22:27:57](https://news.ycombinator.com/item?id=39845364) - [Being laid off in 2023-2024 as an early-career developer](https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs)
 * [2024-03-27, 21:57:37](https://news.ycombinator.com/item?id=39845099) - [Windows 3.1 Style Clock](https://rmcretro.store/products/windows-3-1-style-clock)
@@ -20,7 +21,6 @@
 * [2024-03-27, 16:40:05](https://news.ycombinator.com/item?id=39841449) - [Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
 * [2024-03-27, 16:33:07](https://news.ycombinator.com/item?id=39841363) - [Proxmox VE: Import Wizard for Migrating VMware ESXi VMs](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an era: Final Delta IV heavy rocket carries NROL-70 on historic mission](https://floridamedianow.com/2024/03/25/the-end-of-an-era-the-last-delta-launches-this-week/)
-* [2024-03-27, 16:01:07](https://news.ycombinator.com/item?id=39840977) - [Astronomers unveil strong magnetic fields spiraling Milky Way's black hole](https://eventhorizontelescope.org/blog/astronomers-unveil-strong-magnetic-fields-spiraling-edge-milky-way%E2%80%99s-central-black-hole)
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
 * [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
