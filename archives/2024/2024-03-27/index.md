@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 08:29:22](https://news.ycombinator.com/item?id=39836715) - [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
 * [2024-03-27, 07:44:18](https://news.ycombinator.com/item?id=39836513) - [Facebook Accused of Using Your Phone to Wiretap Snapchat](https://gizmodo.com/project-ghostbusters-facebook-meta-wiretap-snapchat-1851366093)
 * [2024-03-27, 07:41:19](https://news.ycombinator.com/item?id=39836495) - [Vultr is now claiming full perpetual commercial rights over all hosted content](https://old.reddit.com/r/selfhosted/login/)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)

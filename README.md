@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-27, 08:29:22](https://news.ycombinator.com/item?id=39836715) - [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
 * [2024-03-27, 07:44:18](https://news.ycombinator.com/item?id=39836513) - [Facebook Accused of Using Your Phone to Wiretap Snapchat](https://gizmodo.com/project-ghostbusters-facebook-meta-wiretap-snapchat-1851366093)
 * [2024-03-27, 07:41:19](https://news.ycombinator.com/item?id=39836495) - [Vultr is now claiming full perpetual commercial rights over all hosted content](https://old.reddit.com/r/selfhosted/login/)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
@@ -23,7 +24,6 @@
 * [2024-03-26, 00:37:25](https://news.ycombinator.com/item?id=39822999) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-25, 21:49:22](https://news.ycombinator.com/item?id=39821629) - [In B-Flat (2009)](http://www.inbflat.net/)
 * [2024-03-25, 20:09:14](https://news.ycombinator.com/item?id=39820731) - [Cream is thicker than blood: the rise and fall of the Devon split](https://www.vittlesmagazine.com/p/cream-is-thicker-than-blood-the-rise)
-* [2024-03-25, 14:22:53](https://news.ycombinator.com/item?id=39816708) - [Manipulating Chess-GPT's World Model](https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html)
 * [2024-03-25, 13:39:06](https://news.ycombinator.com/item?id=39816152) - [How do MRI Headphones work? (2022)](https://tomlingham.com/articles/how-do-mri-headphones-work/)
 * [2024-03-25, 09:10:14](https://news.ycombinator.com/item?id=39814079) - [Everyone is John: A competitive roleplaying game for three or more people (2002)](https://rtwolf.github.io/Everyone-is-John/)
 * [2024-03-25, 07:56:09](https://news.ycombinator.com/item?id=39813679) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
