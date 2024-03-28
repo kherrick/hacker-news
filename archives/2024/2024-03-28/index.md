@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 22:35:39](https://news.ycombinator.com/item?id=39858219) - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
 * [2024-03-28, 22:31:27](https://news.ycombinator.com/item?id=39858186) - [Secret papers reveal Post Office knew its court defence was false](https://www.bbc.co.uk/news/uk-68663750)
 * [2024-03-28, 22:14:48](https://news.ycombinator.com/item?id=39858004) - [Literacy in the U.S. has fallen to 79%, down from 96% in the late 1980's](https://www.thenationalliteracyinstitute.com/post/literacy-statistics-2024-2025-where-we-are-now)
 * [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-28, 22:35:39](https://news.ycombinator.com/item?id=39858219) - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
 * [2024-03-28, 22:31:27](https://news.ycombinator.com/item?id=39858186) - [Secret papers reveal Post Office knew its court defence was false](https://www.bbc.co.uk/news/uk-68663750)
 * [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
 * [2024-03-28, 21:40:59](https://news.ycombinator.com/item?id=39857680) - [Cloud host Vultr rips user data ownership clause from ToS after web outrage](https://www.theregister.com/2024/03/28/vultr_content_controversy/)
@@ -27,7 +28,6 @@
 * [2024-03-28, 12:08:54](https://news.ycombinator.com/item?id=39850207) - [Linux Text Manipulation](https://yusuf.fyi/posts/linux-text-manipulation)
 * [2024-03-27, 21:24:36](https://news.ycombinator.com/item?id=39844768) - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
 * [2024-03-27, 17:34:17](https://news.ycombinator.com/item?id=39842156) - [Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share)
-* [2024-03-27, 08:47:00](https://news.ycombinator.com/item?id=39836797) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-26, 11:46:02](https://news.ycombinator.com/item?id=39826661) - [Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full)
 * [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 
