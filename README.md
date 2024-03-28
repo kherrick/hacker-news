@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-28, 18:19:59](https://news.ycombinator.com/item?id=39855462) - ['Noisy' autistic brains seem better at certain tasks](https://theconversation.com/noisy-autistic-brains-seem-better-at-certain-tasks-heres-why-neuroaffirmative-research-matters-225180)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 * [2024-03-28, 17:37:32](https://news.ycombinator.com/item?id=39854906) - [Banana prices to go up as temperatures rise, says expert](https://www.bbc.com/news/science-environment-68534309)
 * [2024-03-28, 17:27:35](https://news.ycombinator.com/item?id=39854747) - [How a Windows shake-up could position Microsoft to capitalize on AI PCs](https://www.theverge.com/2024/3/28/24114362/microsoft-windows-surface-reorg-ai-pcs-report)
@@ -27,7 +28,6 @@
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:24:36](https://news.ycombinator.com/item?id=39844768) - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
-* [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:47:00](https://news.ycombinator.com/item?id=39836797) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 
