@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-03-28, 05:55:56",
+      "https://news.ycombinator.com/item?id=39848164"
+    ],
+    [
+      "Representing State as Interfaces in Go",
+      "https://www.emoses.org/posts/resolver-resolved-pattern/"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 04:14:50",
       "https://news.ycombinator.com/item?id=39847728"
     ],
@@ -147,16 +157,6 @@
     [
       "A step beyond Rust's pattern matching",
       "https://radiki.dev/posts/match-and-bind-patterns/"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 22:40:26",
-      "https://news.ycombinator.com/item?id=39845471"
-    ],
-    [
-      "BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard",
-      "https://www.beagleboard.org/boards/beagley-ai"
     ]
   ],
   [
