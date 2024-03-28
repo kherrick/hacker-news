@@ -129,6 +129,116 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39853474">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=39853474"
+              >Launch HN: Eggnog (YC W24) – AI videos with consistent
+              characters</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-28 @ 16:14:16</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39853474"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.eggnog.ai">https://www.eggnog.ai</a>, an AI
+              video platform where your characters look the same across every
+              scene. Eggnog lets you create characters, use them in scene
+              generations, and share them with others for remixing. Here are
+              some videos made with Eggnog:
+              <p>
+                Fanfiction:
+                <a
+                  href="https://www.reddit.com/r/harrypotterfanfiction/comments/1bn6cdb/im_making_some_hp_short_videos_let_me_know_what/"
+                  >https://www.reddit.com/r/harrypotterfanfiction/comments/1bn6...</a
+                >
+                (includes some sounds from outside Eggnog) Comedy:
+                <a href="https://x.com/jitsvm/status/1771609353725919316?s=20"
+                  >https://x.com/jitsvm/status/1771609353725919316?s=20</a
+                >
+                Post-apocalyptic vibes:
+                <a
+                  href="https://x.com/saucebook/status/1771212617601659279?s=20"
+                  >https://x.com/saucebook/status/1771212617601659279?s=20</a
+                >
+              </p>
+              <p>
+                We got into making funny AI videos over the last year, but felt
+                annoyed that the characters always looked different in each
+                scene. It made it harder to make cool videos and for our friends
+                to understand the plot.
+              </p>
+              <p>
+                Diffusion models, like those that make AI videos, start with
+                random noise, then add detail. So the little things that make a
+                character recognizable will almost always come out looking
+                different across generations, no matter how many tricks you add
+                into the prompt. For instance, if you want your wizard to have a
+                red hat, it might be crooked in one generation and straight in
+                the next.
+              </p>
+              <p>
+                Eggnog allows users to make consistent characters by using
+                Low-Rank Adaption (LoRA). LoRA takes in a set of images of a
+                character in different scenarios and uses those images to teach
+                the model that character as a concept. We do this by taking a
+                single prompt that a user writes for a character (e.g., an
+                ancient Greek soldier with dark hair and bushy beard) and
+                turning it into a training set of images of the character in
+                different poses, shot from different angles. Once the character
+                is trained into the model, the user can then invoke that
+                character concept in the prompt and get consistent generations
+                about 80% of the time.
+              </p>
+              <p>
+                There is still a lot of room to make Eggnog generations more
+                consistent and controllable. Generations sometimes come out with
+                the wrong gender, missing key details from the costume, or fail
+                in a long tail of other ways. We also often struggle to control
+                the character’s exact body movement. We’re planning to address
+                these cases with more optimization of the prompt that invokes
+                the character concept and by using new open source video models
+                that bake in 3D representations of humans.
+              </p>
+              <p>
+                The other fun thing about making characters with Eggnog is that
+                you can share them. We already made one San Francisco “American
+                Psycho” video that got over 100k views on Twitter (<a
+                  href="https://x.com/jitsvm/status/1766987382916894966?s=20"
+                  >https://x.com/jitsvm/status/1766987382916894966?s=20</a
+                >). Then we expanded on the SF universe by making another video
+                with the same character and a new friend for him (<a
+                  href="https://x.com/SamuelMGPlank/status/1767405784986718406?s=20"
+                  >https://x.com/SamuelMGPlank/status/1767405784986718406?s=20</a
+                >). Eventually, you’ll be able to create and remix all the
+                components of a good video—the characters, the costumes, the
+                sets, and the sounds will all be part of a library of assets
+                built up by the Eggnog community.
+              </p>
+              <p>
+                Eggnog is free to use, and you can try it out in the playground:
+                &lt;<a href="https://www.eggnog.ai/playground"
+                  >https://www.eggnog.ai/playground</a
+                >&gt;. If you’re looking for some inspiration, you can try using
+                the character “herm” waving a glowing wand or the character
+                “lep” walking down a Dublin street. We’ll make money eventually
+                by showing ads to viewers who come to Eggnog to watch AI videos.
+              </p>
+              <p>
+                We’re really excited to see all the fun videos and characters
+                people are making with Eggnog, and looking forward to hearing
+                what you all think!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="39852953">
           <h3>
             <a
@@ -141,11 +251,11 @@
             <h4>
               <span>2024-03-28 @ 15:48:12</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">305</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39852953"
                   >Comments</a
-                ><span class="descendants">: 325</span></span
+                ><span class="descendants">: 380</span></span
               >
             </h4>
           </section>
@@ -166,28 +276,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39852849"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39852812">
-          <h3>
-            <a
-              class="item"
-              href="https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/"
-              >Kubernetes and back – Why I don't run distributed systems</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-28 @ 15:35:01</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39852812"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -204,13 +293,33 @@
             <h4>
               <span>2024-03-28 @ 15:16:32</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39852626"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="39852407">
+          <h3>
+            <a class="item" href="https://tripgeeks.app/community"
+              >Show HN: I built a web app to open source travel itineraries</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-28 @ 14:57:19</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39852407"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text"><p>Thanks!</p></div>
           </section>
         </section>
         <section id="39852219">
@@ -223,11 +332,11 @@
             <h4>
               <span>2024-03-28 @ 14:44:33</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39852219"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -242,11 +351,11 @@
             <h4>
               <span>2024-03-28 @ 14:41:23</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39852167"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -264,11 +373,11 @@
             <h4>
               <span>2024-03-28 @ 14:37:50</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39852118"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -286,11 +395,11 @@
             <h4>
               <span>2024-03-28 @ 14:32:05</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39852037"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -307,11 +416,11 @@
             <h4>
               <span>2024-03-28 @ 13:18:07</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39850972"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -329,32 +438,11 @@
             <h4>
               <span>2024-03-28 @ 12:27:31</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39850383"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39850207">
-          <h3>
-            <a
-              class="item"
-              href="https://yusuf.fyi/posts/linux-text-manipulation"
-              >Linux Text Manipulation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-28 @ 12:08:54</span
-              ><span class="points-container"
-                >Points: <span class="points">11</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39850207"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -372,7 +460,7 @@
             <h4>
               <span>2024-03-28 @ 10:03:14</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39849335"
                   >Comments</a
@@ -393,11 +481,11 @@
             <h4>
               <span>2024-03-28 @ 09:26:40</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39849126"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -414,11 +502,11 @@
             <h4>
               <span>2024-03-28 @ 08:28:41</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39848862"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -433,32 +521,11 @@
             <h4>
               <span>2024-03-28 @ 06:23:19</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39848268"
                   >Comments</a
                 ><span class="descendants">: 42</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39848164">
-          <h3>
-            <a
-              class="item"
-              href="https://www.emoses.org/posts/resolver-resolved-pattern/"
-              >Representing State as Interfaces in Go</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-28 @ 05:55:56</span
-              ><span class="points-container"
-                >Points: <span class="points">18</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39848164"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -497,7 +564,7 @@
             <h4>
               <span>2024-03-28 @ 02:42:16</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39847203"
                   >Comments</a
@@ -516,11 +583,11 @@
             <h4>
               <span>2024-03-27 @ 21:40:59</span
               ><span class="points-container"
-                >Points: <span class="points">509</span></span
+                >Points: <span class="points">513</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39844936"
                   >Comments</a
-                ><span class="descendants">: 249</span></span
+                ><span class="descendants">: 251</span></span
               >
             </h4>
           </section>
@@ -535,7 +602,7 @@
             <h4>
               <span>2024-03-27 @ 21:24:36</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39844768"
                   >Comments</a
@@ -575,7 +642,7 @@
             <h4>
               <span>2024-03-27 @ 20:19:54</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39844104"
                   >Comments</a
@@ -693,11 +760,11 @@
             <h4>
               <span>2024-03-27 @ 17:20:43</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39841956"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
             <div class="text">
@@ -813,7 +880,7 @@
             <h4>
               <span>2024-03-27 @ 14:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39839789"
                   >Comments</a
@@ -834,11 +901,11 @@
             <h4>
               <span>2024-03-27 @ 14:28:54</span
               ><span class="points-container"
-                >Points: <span class="points">251</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39839629"
                   >Comments</a
-                ><span class="descendants">: 418</span></span
+                ><span class="descendants">: 422</span></span
               >
             </h4>
           </section>
@@ -876,7 +943,7 @@
             <h4>
               <span>2024-03-27 @ 12:23:48</span
               ><span class="points-container"
-                >Points: <span class="points">789</span></span
+                >Points: <span class="points">790</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39838104"
                   >Comments</a
@@ -901,7 +968,26 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39836797"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39836745">
+          <h3>
+            <a class="item" href="https://www.furygpu.com"
+              >FuryGpu – Custom PCIe FPGA GPU</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-27 @ 08:37:38</span
+              ><span class="points-container"
+                >Points: <span class="points">393</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39836745"
+                  >Comments</a
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
