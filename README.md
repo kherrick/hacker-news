@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-28, 19:42:21](https://news.ycombinator.com/item?id=39856413) - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
-* [2024-03-28, 19:26:55](https://news.ycombinator.com/item?id=39856276) - [As space threats mount, U.S. lags in protecting GPS services](https://www.nytimes.com/2024/03/28/world/asia/as-threats-in-space-mount-us-lags-in-protecting-key-services.html)
 * [2024-03-28, 18:43:13](https://news.ycombinator.com/item?id=39855761) - [How A.I. chatbots become political](https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html?unlocked_article_code=1.gE0.4mlz.Yf7_amfNGgmx)
 * [2024-03-28, 18:43:06](https://news.ycombinator.com/item?id=39855760) - [The Next Big Step in Mojo Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
 * [2024-03-28, 18:06:55](https://news.ycombinator.com/item?id=39855285) - [Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
@@ -20,6 +19,7 @@
 * [2024-03-28, 14:44:33](https://news.ycombinator.com/item?id=39852219) - [I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
 * [2024-03-28, 14:41:23](https://news.ycombinator.com/item?id=39852167) - [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
 * [2024-03-28, 14:37:50](https://news.ycombinator.com/item?id=39852118) - [LLMs use a surprisingly simple mechanism to retrieve some stored knowledge](https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325)
+* [2024-03-28, 14:32:05](https://news.ycombinator.com/item?id=39852037) - [The company building a rotating detonation engine is pushing the tech forward](https://arstechnica.com/space/2024/03/venus-aerospace-takes-flight-as-it-progresses-with-tests-of-novel-engine/)
 * [2024-03-28, 13:27:43](https://news.ycombinator.com/item?id=39851110) - [How does an independent bookstore survive for 90 years?](https://www.deseret.com/entertainment/2019/8/15/20804020/how-does-an-independent-bookstore-survive-for-90-years-utahs-weller-book-works-found-an-answer/)
 * [2024-03-28, 13:18:07](https://news.ycombinator.com/item?id=39850972) - [UV-K5 is the most hackable handheld ham radio yet](https://spectrum.ieee.org/quansheng-uv-k5-hacking)
 * [2024-03-28, 12:08:54](https://news.ycombinator.com/item?id=39850207) - [Linux Text Manipulation](https://yusuf.fyi/posts/linux-text-manipulation)
