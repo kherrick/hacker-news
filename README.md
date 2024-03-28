@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-28, 10:03:14](https://news.ycombinator.com/item?id=39849335) - [What is DECT-2020 New Radio (NR), and how big a deal is it?](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
+* [2024-03-28, 09:54:03](https://news.ycombinator.com/item?id=39849269) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
 * [2024-03-28, 09:26:40](https://news.ycombinator.com/item?id=39849126) - [Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)
-* [2024-03-28, 08:29:52](https://news.ycombinator.com/item?id=39848868) - [My Cofounder was diagnosed with cancer, what should I do?](https://news.ycombinator.com/item?id=39848868)
 * [2024-03-28, 08:25:58](https://news.ycombinator.com/item?id=39848847) - [What things are happening in ML that we can't hear oer the din of LLMs?](https://news.ycombinator.com/item?id=39848847)
 * [2024-03-28, 07:44:29](https://news.ycombinator.com/item?id=39848657) - [AI hallucinates software packages and devs download them](https://www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/)
 * [2024-03-28, 06:59:55](https://news.ycombinator.com/item?id=39848439) - [Treemap of World GDP by Purchasing Power Parity (PPP) 2020](https://treemap-world-economy.pages.dev)
@@ -28,7 +29,6 @@
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
-* [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
 ## [Archives](archives/index.md)
