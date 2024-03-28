@@ -39,6 +39,7 @@
 * [2024-03-28, 07:44:29](https://news.ycombinator.com/item?id=39848657) - [AI hallucinates software packages and devs download them](https://www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/)
 * [2024-03-28, 06:59:55](https://news.ycombinator.com/item?id=39848439) - [Treemap of World GDP by Purchasing Power Parity (PPP) 2020](https://treemap-world-economy.pages.dev)
 * [2024-03-28, 06:23:19](https://news.ycombinator.com/item?id=39848268) - [Endlessh-go: a Golang SSH tarpit that traps bots/scanners](https://github.com/shizunge/endlessh-go)
+* [2024-03-28, 05:55:56](https://news.ycombinator.com/item?id=39848164) - [Representing State as Interfaces in Go](https://www.emoses.org/posts/resolver-resolved-pattern/)
 * [2024-03-28, 05:49:39](https://news.ycombinator.com/item?id=39848140) - [For young people, the job search has never been so miserable](https://www.ft.com/content/4b16c325-8758-4b90-bdb5-15536b401606)
 * [2024-03-28, 05:07:18](https://news.ycombinator.com/item?id=39847973) - [Show HN: Quasar Prime: Vue.js Admin Template](https://github.com/Quasar-Admin-Templates/quasar_prime_admin_template)
 * [2024-03-28, 05:01:45](https://news.ycombinator.com/item?id=39847943) - [Why quantum entanglement doesn't allow faster-than-light communication (2016)](https://www.forbes.com/sites/chadorzel/2016/05/04/the-real-reasons-quantum-entanglement-doesnt-allow-faster-than-light-communication/)
