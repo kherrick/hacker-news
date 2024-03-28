@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 15:16:32](https://news.ycombinator.com/item?id=39852626) - [How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu)
 * [2024-03-28, 14:44:33](https://news.ycombinator.com/item?id=39852219) - [Show HN: I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
 * [2024-03-28, 14:42:39](https://news.ycombinator.com/item?id=39852190) - [New open source GPU is free to all](https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb)
 * [2024-03-28, 14:41:23](https://news.ycombinator.com/item?id=39852167) - [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
 * [2024-03-28, 14:37:50](https://news.ycombinator.com/item?id=39852118) - [LLMs use a surprisingly simple mechanism to retrieve some stored knowledge](https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325)
 * [2024-03-28, 14:21:28](https://news.ycombinator.com/item?id=39851881) - [A Nigerian woman reviewed some tomato puree online. Now she faces jail](https://www.cnn.com/2024/03/27/africa/nigerian-woman-faces-jail-over-online-review-of-tomato-puree-intl-scli/index.html)
+* [2024-03-28, 14:18:54](https://news.ycombinator.com/item?id=39851838) - [Ask HN: Should Banks Phish Their Own Customers](https://news.ycombinator.com/item?id=39851838)
 * [2024-03-28, 14:06:47](https://news.ycombinator.com/item?id=39851640) - [Reddit insiders have been selling stock after the IPO](https://twitter.com/unusual_whales/status/1773141452022809078)
 * [2024-03-28, 14:00:10](https://news.ycombinator.com/item?id=39851564) - [Ontario school boards sue social media giants for $4.5B](https://www.cbc.ca/news/canada/toronto/ontario-school-boards-sue-social-media-giants-1.7158033)
 * [2024-03-28, 13:30:08](https://news.ycombinator.com/item?id=39851145) - [In-App Browsers: The worst erosion of user choice you haven't heard of](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
