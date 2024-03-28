@@ -6,6 +6,7 @@
 
 * [2024-03-28, 21:01:14](https://news.ycombinator.com/item?id=39857260) - [Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
 * [2024-03-28, 20:43:14](https://news.ycombinator.com/item?id=39857082) - [Babylon 7.0 Is Out](https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d)
+* [2024-03-28, 20:14:56](https://news.ycombinator.com/item?id=39856756) - [PyPI halted new users and projects while it fended off supply-chain attack](https://arstechnica.com/security/2024/03/pypi-halted-new-users-and-projects-while-it-fended-off-supply-chain-attack/)
 * [2024-03-28, 19:42:21](https://news.ycombinator.com/item?id=39856413) - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
 * [2024-03-28, 19:26:55](https://news.ycombinator.com/item?id=39856276) - [One Satellite Signal Rules Modern Life. What If Someone Knocks It Out?](https://www.nytimes.com/2024/03/28/world/asia/as-threats-in-space-mount-us-lags-in-protecting-key-services.html)
 * [2024-03-28, 18:43:13](https://news.ycombinator.com/item?id=39855761) - [How A.I. chatbots become political](https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html?unlocked_article_code=1.gE0.4mlz.Yf7_amfNGgmx)

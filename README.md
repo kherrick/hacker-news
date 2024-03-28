@@ -2,6 +2,7 @@
 
 * [2024-03-28, 21:01:14](https://news.ycombinator.com/item?id=39857260) - [Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
 * [2024-03-28, 20:43:14](https://news.ycombinator.com/item?id=39857082) - [Babylon 7.0 Is Out](https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d)
+* [2024-03-28, 20:14:56](https://news.ycombinator.com/item?id=39856756) - [PyPI halted new users and projects while it fended off supply-chain attack](https://arstechnica.com/security/2024/03/pypi-halted-new-users-and-projects-while-it-fended-off-supply-chain-attack/)
 * [2024-03-28, 19:42:21](https://news.ycombinator.com/item?id=39856413) - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
 * [2024-03-28, 18:43:13](https://news.ycombinator.com/item?id=39855761) - [How A.I. chatbots become political](https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html?unlocked_article_code=1.gE0.4mlz.Yf7_amfNGgmx)
 * [2024-03-28, 18:43:06](https://news.ycombinator.com/item?id=39855760) - [The Next Big Step in Mojo Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
@@ -9,7 +10,6 @@
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 * [2024-03-28, 17:16:32](https://news.ycombinator.com/item?id=39854584) - [Show HN: Spice.ai – materialize, accelerate, and query SQL data from any source](https://github.com/spiceai/spiceai)
 * [2024-03-28, 16:50:59](https://news.ycombinator.com/item?id=39854182) - [NotepadNext – a cross-platform reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
-* [2024-03-28, 16:43:14](https://news.ycombinator.com/item?id=39854056) - [We made a hot dog talk with RF [video]](https://www.youtube.com/watch?v=GgDxXDV4_hc)
 * [2024-03-28, 16:36:56](https://news.ycombinator.com/item?id=39853958) - [Jamba: Production-grade Mamba-based AI model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
 * [2024-03-28, 15:48:12](https://news.ycombinator.com/item?id=39852953) - [Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
