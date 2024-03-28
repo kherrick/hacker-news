@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 22:14:48](https://news.ycombinator.com/item?id=39858004) - [Literacy in the U.S. has fallen to 79%, down from 96% in the late 1980's](https://www.thenationalliteracyinstitute.com/post/literacy-statistics-2024-2025-where-we-are-now)
 * [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
 * [2024-03-28, 21:40:59](https://news.ycombinator.com/item?id=39857680) - [Cloud host Vultr rips user data ownership clause from ToS after web outrage](https://www.theregister.com/2024/03/28/vultr_content_controversy/)
 * [2024-03-28, 21:19:10](https://news.ycombinator.com/item?id=39857433) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 21:01:14](https://news.ycombinator.com/item?id=39857260) - [Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
+* [2024-03-28, 20:59:00](https://news.ycombinator.com/item?id=39857237) - [Sam Bankman-Fried is going to prison. The crypto industry isn't any better](https://www.theguardian.com/global/commentisfree/2024/mar/28/sam-bankman-fried-prison-crypto-regulation)
 * [2024-03-28, 20:48:43](https://news.ycombinator.com/item?id=39857138) - [Chevron owns this city's news site. Some stories aren't told](https://www.npr.org/2024/03/28/1239650727/chevron-fossil-fuel-richmond-standard-california-news)
 * [2024-03-28, 20:43:14](https://news.ycombinator.com/item?id=39857082) - [Babylon 7.0 Is Out](https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d)
 * [2024-03-28, 20:14:56](https://news.ycombinator.com/item?id=39856756) - [PyPI halted new users and projects while it fended off supply-chain attack](https://arstechnica.com/security/2024/03/pypi-halted-new-users-and-projects-while-it-fended-off-supply-chain-attack/)
