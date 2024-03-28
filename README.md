@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-28, 11:12:04](https://news.ycombinator.com/item?id=39849727) - [Intel Brags of $152B in Stock Buybacks. Why Does It Need an $8B Subsidy?](https://www.commondreams.org/opinion/intel-subsidy-chips-act-stock-buyback)
+* [2024-03-28, 10:42:36](https://news.ycombinator.com/item?id=39849548) - [A near 100pct renewable grid for Australia is feasible and affordable](https://reneweconomy.com.au/a-near-100pct-renewable-grid-for-australia-is-feasible-and-affordable-with-just-a-few-hours-of-storage/)
 * [2024-03-28, 10:03:14](https://news.ycombinator.com/item?id=39849335) - [What is DECT-2020 New Radio (NR), and how big a deal is it?](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
 * [2024-03-28, 09:54:03](https://news.ycombinator.com/item?id=39849269) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
 * [2024-03-28, 09:26:40](https://news.ycombinator.com/item?id=39849126) - [Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)
@@ -7,7 +9,6 @@
 * [2024-03-28, 08:25:58](https://news.ycombinator.com/item?id=39848847) - [What things are happening in ML that we can't hear oer the din of LLMs?](https://news.ycombinator.com/item?id=39848847)
 * [2024-03-28, 06:59:55](https://news.ycombinator.com/item?id=39848439) - [Treemap of World GDP by Purchasing Power Parity (PPP) 2020](https://treemap-world-economy.pages.dev)
 * [2024-03-28, 06:23:19](https://news.ycombinator.com/item?id=39848268) - [Endlessh-go: a Golang SSH tarpit that traps bots/scanners](https://github.com/shizunge/endlessh-go)
-* [2024-03-28, 05:01:45](https://news.ycombinator.com/item?id=39847943) - [Why quantum entanglement doesn't allow faster-than-light communication (2016)](https://www.forbes.com/sites/chadorzel/2016/05/04/the-real-reasons-quantum-entanglement-doesnt-allow-faster-than-light-communication/)
 * [2024-03-28, 04:14:50](https://news.ycombinator.com/item?id=39847728) - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 * [2024-03-28, 01:20:50](https://news.ycombinator.com/item?id=39846729) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 * [2024-03-28, 00:18:05](https://news.ycombinator.com/item?id=39846296) - [Astronomers discover a rare eclipsing X-ray binary](https://phys.org/news/2024-03-astronomers-rare-eclipsing-ray-binary.html)
@@ -18,7 +19,6 @@
 * [2024-03-27, 20:24:43](https://news.ycombinator.com/item?id=39844159) - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
 * [2024-03-27, 20:19:54](https://news.ycombinator.com/item?id=39844104) - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 * [2024-03-27, 20:05:48](https://news.ycombinator.com/item?id=39843930) - [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers (2019)](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
-* [2024-03-27, 20:02:57](https://news.ycombinator.com/item?id=39843902) - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 * [2024-03-27, 16:40:05](https://news.ycombinator.com/item?id=39841449) - [Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)

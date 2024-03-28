@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 11:12:04](https://news.ycombinator.com/item?id=39849727) - [Intel Brags of $152B in Stock Buybacks. Why Does It Need an $8B Subsidy?](https://www.commondreams.org/opinion/intel-subsidy-chips-act-stock-buyback)
+* [2024-03-28, 10:42:36](https://news.ycombinator.com/item?id=39849548) - [A near 100pct renewable grid for Australia is feasible and affordable](https://reneweconomy.com.au/a-near-100pct-renewable-grid-for-australia-is-feasible-and-affordable-with-just-a-few-hours-of-storage/)
 * [2024-03-28, 10:35:58](https://news.ycombinator.com/item?id=39849511) - [Apple M3 Ultra chip will be redesigned as its own standalone chip](https://twitter.com/VadimYuryev/status/1773135334567788661)
 * [2024-03-28, 10:03:14](https://news.ycombinator.com/item?id=39849335) - [What is DECT-2020 New Radio (NR), and how big a deal is it?](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
 * [2024-03-28, 09:54:03](https://news.ycombinator.com/item?id=39849269) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
