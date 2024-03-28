@@ -18,6 +18,7 @@
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 * [2024-03-27, 20:30:13](https://news.ycombinator.com/item?id=39844219) - [Show HN: The 2FA app that notifies you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
 * [2024-03-27, 20:24:43](https://news.ycombinator.com/item?id=39844159) - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
+* [2024-03-27, 20:19:54](https://news.ycombinator.com/item?id=39844104) - [Every employee tends to rise to their level of incompetence](https://en.wikipedia.org/wiki/Peter_principle)
 * [2024-03-27, 20:05:48](https://news.ycombinator.com/item?id=39843930) - [Cliff Stoll, the Mad Scientist Who Invented the Art of Hunting Hackers](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
 * [2024-03-27, 20:02:57](https://news.ycombinator.com/item?id=39843902) - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
 * [2024-03-27, 19:52:31](https://news.ycombinator.com/item?id=39843778) - [Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
