@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-28, 16:14:16",
+      "https://news.ycombinator.com/item?id=39853474"
+    ],
+    [
+      "Launch HN: Eggnog (YC W24) – AI videos with consistent characters",
+      "https://news.ycombinator.com/item?id=39853474"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 15:48:12",
       "https://news.ycombinator.com/item?id=39852953"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2024-03-28, 15:35:01",
-      "https://news.ycombinator.com/item?id=39852812"
-    ],
-    [
-      "Kubernetes and back – Why I don't run distributed systems",
-      "https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 15:16:32",
       "https://news.ycombinator.com/item?id=39852626"
     ],
     [
       "Advances in semiconductors are feeding the AI boom",
       "https://spectrum.ieee.org/trillion-transistor-gpu"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 14:57:19",
+      "https://news.ycombinator.com/item?id=39852407"
+    ],
+    [
+      "Show HN: I built a web app to open source travel itineraries",
+      "https://tripgeeks.app/community"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-03-28, 12:08:54",
-      "https://news.ycombinator.com/item?id=39850207"
-    ],
-    [
-      "Linux Text Manipulation",
-      "https://yusuf.fyi/posts/linux-text-manipulation"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 10:03:14",
       "https://news.ycombinator.com/item?id=39849335"
     ],
@@ -147,16 +147,6 @@
     [
       "Endlessh-go: a Golang SSH tarpit that traps bots/scanners",
       "https://github.com/shizunge/endlessh-go"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 05:55:56",
-      "https://news.ycombinator.com/item?id=39848164"
-    ],
-    [
-      "Representing State as Interfaces in Go",
-      "https://www.emoses.org/posts/resolver-resolved-pattern/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Erasure Coding versus Tail Latency",
       "https://brooker.co.za/blog/2023/01/06/erasure.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 08:37:38",
+      "https://news.ycombinator.com/item?id=39836745"
+    ],
+    [
+      "FuryGpu – Custom PCIe FPGA GPU",
+      "https://www.furygpu.com"
     ]
   ],
   [
