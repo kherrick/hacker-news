@@ -2,6 +2,7 @@
 
 * [2024-03-28, 04:14:50](https://news.ycombinator.com/item?id=39847728) - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 * [2024-03-28, 03:00:09](https://news.ycombinator.com/item?id=39847307) - [Digital signs in Brookline are collecting data from your phone as you walk by](https://brookline.news/digital-signs-around-brookline-are-collecting-data-from-your-phone-as-you-walk-by/)
+* [2024-03-28, 02:57:23](https://news.ycombinator.com/item?id=39847285) - [ADHD Stimulants May Increase Risk of Heart Damage in Young Adults](https://www.acc.org/About-ACC/Press-Releases/2024/03/26/18/35/adhd-stimulants-may-increase-risk-of-heart-damage-in-young-adults)
 * [2024-03-28, 02:04:40](https://news.ycombinator.com/item?id=39846998) - [Share Openly](https://werd.io/2024/share-openly)
 * [2024-03-28, 01:20:50](https://news.ycombinator.com/item?id=39846729) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 * [2024-03-28, 00:18:05](https://news.ycombinator.com/item?id=39846296) - [Astronomers discover a rare eclipsing X-ray binary](https://phys.org/news/2024-03-astronomers-rare-eclipsing-ray-binary.html)
@@ -28,7 +29,6 @@
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
-* [2024-03-26, 21:56:16](https://news.ycombinator.com/item?id=39833321) - [Write OpenAPI with TypeSpec](https://blog.trl.sn/blog/typespec-for-openapi/)
 * [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
 ## [Archives](archives/index.md)
