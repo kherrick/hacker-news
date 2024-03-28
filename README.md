@@ -10,7 +10,6 @@
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
 * [2024-03-28, 15:48:12](https://news.ycombinator.com/item?id=39852953) - [Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
 * [2024-03-28, 15:41:06](https://news.ycombinator.com/item?id=39852879) - [Ethereum has blobs. Where do we go from here?](https://vitalik.eth.limo/general/2024/03/28/blobs.html)
-* [2024-03-28, 15:31:06](https://news.ycombinator.com/item?id=39852777) - [RISC-V: How a group of Berkeley researchers took over the chip industry](https://boldandopen.substack.com/p/how-a-group-of-berkeley-researchers)
 * [2024-03-28, 15:16:32](https://news.ycombinator.com/item?id=39852626) - [Advances in semiconductors are feeding the AI boom](https://spectrum.ieee.org/trillion-transistor-gpu)
 * [2024-03-28, 14:57:19](https://news.ycombinator.com/item?id=39852407) - [Show HN: I built a web app to open source travel itineraries](https://tripgeeks.app/community)
 * [2024-03-28, 14:44:33](https://news.ycombinator.com/item?id=39852219) - [I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
@@ -28,6 +27,7 @@
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:24:36](https://news.ycombinator.com/item?id=39844768) - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
+* [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:47:00](https://news.ycombinator.com/item?id=39836797) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 
