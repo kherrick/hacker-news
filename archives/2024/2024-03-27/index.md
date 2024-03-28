@@ -101,6 +101,7 @@
 * [2024-03-27, 09:28:10](https://news.ycombinator.com/item?id=39837014) - [TinyMCE (also) moving from MIT to GPL](https://github.com/tinymce/tinymce/issues/9453)
 * [2024-03-27, 09:00:50](https://news.ycombinator.com/item?id=39836879) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-27, 08:55:38](https://news.ycombinator.com/item?id=39836852) - [Why Elixir (2014)](https://www.theerlangelist.com/article/why_elixir)
+* [2024-03-27, 08:47:00](https://news.ycombinator.com/item?id=39836797) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 08:29:22](https://news.ycombinator.com/item?id=39836715) - [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
 * [2024-03-27, 08:19:24](https://news.ycombinator.com/item?id=39836664) - [My Partner Is Messy. Help](https://www.nytimes.com/2024/03/23/well/family/organization-mess-relationships.html)
