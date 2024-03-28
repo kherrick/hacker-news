@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 13:30:08](https://news.ycombinator.com/item?id=39851145) - [In-App Browsers: The worst erosion of user choice you haven't heard of](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
 * [2024-03-28, 13:29:29](https://news.ycombinator.com/item?id=39851136) - [Ask HN: Who's getting their job applications rejected?](https://news.ycombinator.com/item?id=39851136)
 * [2024-03-28, 13:14:33](https://news.ycombinator.com/item?id=39850925) - [Google suspends romance author's account for writing sexually explicit content](https://fandom.ink/@Rozzychan/112161902225538242)
+* [2024-03-28, 13:07:04](https://news.ycombinator.com/item?id=39850840) - [Baltimore disaster may be the largest-ever marine insurance payout](https://www.cnbc.com/2024/03/28/baltimore-disaster-may-be-largest-ever-marine-insurance-payout-lloyds-.html)
+* [2024-03-28, 12:55:58](https://news.ycombinator.com/item?id=39850685) - [Visa and Mastercard agree to $30B settlement that will lower merchant fees](https://www.cnn.com/2024/03/26/economy/visa-mastercard-swipe-fee-settlement/index.html)
 * [2024-03-28, 12:28:16](https://news.ycombinator.com/item?id=39850396) - [Ask HN: How hard is it to find a job after trying to start your own thing](https://news.ycombinator.com/item?id=39850396)
 * [2024-03-28, 12:27:31](https://news.ycombinator.com/item?id=39850383) - [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
 * [2024-03-28, 12:20:19](https://news.ycombinator.com/item?id=39850318) - [Show HN: I taught ChatGPT to find cool domain names – with availability check](https://huehive.co/tools/domain_search)
@@ -22,6 +25,7 @@
 * [2024-03-28, 09:19:41](https://news.ycombinator.com/item?id=39849100) - [Never forget that utterly ridiculous Pepsi logo design document (2023)](https://www.creativebloq.com/news/never-forget-that-utterly-ridiculous-pepsi-logo-design-document)
 * [2024-03-28, 08:46:59](https://news.ycombinator.com/item?id=39848938) - [J&J can contest evidence linking its talc to cancer, US judge rules](https://www.mvariety.com/business/j-j-can-contest-evidence-linking-its-talc-to-cancer-us-judge-rules/article_76600956-ecd3-11ee-b136-e36d19197d61.html)
 * [2024-03-28, 08:29:52](https://news.ycombinator.com/item?id=39848868) - [My Cofounder was diagnosed with cancer, what should I do?](https://news.ycombinator.com/item?id=39848868)
+* [2024-03-28, 08:28:41](https://news.ycombinator.com/item?id=39848862) - [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
 * [2024-03-28, 08:25:58](https://news.ycombinator.com/item?id=39848847) - [What things are happening in ML that we can't hear oer the din of LLMs?](https://news.ycombinator.com/item?id=39848847)
 * [2024-03-28, 07:44:29](https://news.ycombinator.com/item?id=39848657) - [AI hallucinates software packages and devs download them](https://www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/)
 * [2024-03-28, 06:59:55](https://news.ycombinator.com/item?id=39848439) - [Treemap of World GDP by Purchasing Power Parity (PPP) 2020](https://treemap-world-economy.pages.dev)
