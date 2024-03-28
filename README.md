@@ -10,6 +10,7 @@
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 * [2024-03-27, 20:24:43](https://news.ycombinator.com/item?id=39844159) - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
+* [2024-03-27, 20:19:54](https://news.ycombinator.com/item?id=39844104) - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 * [2024-03-27, 20:05:48](https://news.ycombinator.com/item?id=39843930) - [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers (2019)](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
 * [2024-03-27, 20:02:57](https://news.ycombinator.com/item?id=39843902) - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
 * [2024-03-27, 19:52:31](https://news.ycombinator.com/item?id=39843778) - [Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
@@ -28,7 +29,6 @@
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-26, 21:56:16](https://news.ycombinator.com/item?id=39833321) - [Write OpenAPI with TypeSpec](https://blog.trl.sn/blog/typespec-for-openapi/)
-* [2024-03-26, 01:53:23](https://news.ycombinator.com/item?id=39823512) - [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
 * [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
 ## [Archives](archives/index.md)
