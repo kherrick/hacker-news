@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-03-28, 16:29:09",
-      "https://news.ycombinator.com/item?id=39853795"
+      "2024-03-28, 17:01:14",
+      "https://news.ycombinator.com/item?id=39854359"
     ],
     [
-      "Queues Aren't the Right Abstraction",
-      "https://www.inngest.com/blog/queues-are-no-longer-the-right-abstraction"
+      "RankScience (YC W17) is hiring to automate SEO for startups",
+      "https://remotejobs.org/companies/rankscience-remote-jobs"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 16:50:59",
+      "https://news.ycombinator.com/item?id=39854182"
+    ],
+    [
+      "NotepadNext – a cross-platform, reimplementation of Notepad++",
+      "https://github.com/dail8859/NotepadNext"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 16:31:25",
+      "https://news.ycombinator.com/item?id=39853843"
+    ],
+    [
+      "Reading and Writing WAV Files in Python",
+      "https://realpython.com/python-wav-files/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Ethereum has blobs. Where do we go from here?",
       "https://vitalik.eth.limo/general/2024/03/28/blobs.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 15:37:57",
-      "https://news.ycombinator.com/item?id=39852849"
-    ],
-    [
-      "What do you do if a hacker takes control of your ship? (2023)",
-      "https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-03-28, 12:08:54",
+      "https://news.ycombinator.com/item?id=39850207"
+    ],
+    [
+      "Linux Text Manipulation",
+      "https://yusuf.fyi/posts/linux-text-manipulation"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 10:03:14",
       "https://news.ycombinator.com/item?id=39849335"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-03-27, 21:00:37",
-      "https://news.ycombinator.com/item?id=39844529"
-    ],
-    [
-      "Finley (YC W21) is hiring to remake the $1T private credit space",
-      "https://www.finleycms.com/careers/"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 20:19:54",
       "https://news.ycombinator.com/item?id=39844104"
     ],
@@ -247,16 +257,6 @@
     [
       "Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat",
       "https://news.ycombinator.com/item?id=39841956"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 14:38:51",
-      "https://news.ycombinator.com/item?id=39839789"
-    ],
-    [
-      "The Pentagon's Silicon Valley Problem",
-      "https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/"
     ]
   ],
   [
