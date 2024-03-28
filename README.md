@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-28, 04:39:40](https://news.ycombinator.com/item?id=39847848) - [We've been here before: AI promised humanlike machines – in 1958](https://theconversation.com/weve-been-here-before-ai-promised-humanlike-machines-in-1958-222700)
 * [2024-03-28, 04:14:50](https://news.ycombinator.com/item?id=39847728) - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 * [2024-03-28, 03:00:09](https://news.ycombinator.com/item?id=39847307) - [Digital signs in Brookline are collecting data from your phone as you walk by](https://brookline.news/digital-signs-around-brookline-are-collecting-data-from-your-phone-as-you-walk-by/)
 * [2024-03-28, 02:04:40](https://news.ycombinator.com/item?id=39846998) - [Share Openly](https://werd.io/2024/share-openly)
@@ -28,7 +29,6 @@
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
-* [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
 ## [Archives](archives/index.md)
