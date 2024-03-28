@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-28, 22:37:34",
+      "https://news.ycombinator.com/item?id=39858240"
+    ],
+    [
+      "Xr0 Makes C Safer than Rust",
+      "https://xr0.dev/safer"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 22:35:39",
       "https://news.ycombinator.com/item?id=39858219"
     ],
@@ -17,6 +27,26 @@
     [
       "Secret papers reveal Post Office knew its court defence was false",
       "https://www.bbc.co.uk/news/uk-68663750"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 22:27:29",
+      "https://news.ycombinator.com/item?id=39858144"
+    ],
+    [
+      "The race to replace Redis",
+      "https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 22:17:03",
+      "https://news.ycombinator.com/item?id=39858030"
+    ],
+    [
+      "Keynes was wrong because he failed to consider class conflict",
+      "https://billmitchell.org/blog/?p=61635"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-03-28, 15:16:32",
-      "https://news.ycombinator.com/item?id=39852626"
-    ],
-    [
-      "Advances in semiconductors are feeding the AI boom",
-      "https://spectrum.ieee.org/trillion-transistor-gpu"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 14:57:19",
       "https://news.ycombinator.com/item?id=39852407"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-03-28, 13:27:43",
-      "https://news.ycombinator.com/item?id=39851110"
-    ],
-    [
-      "How does an independent bookstore survive for 90 years?",
-      "https://www.deseret.com/entertainment/2019/8/15/20804020/how-does-an-independent-bookstore-survive-for-90-years-utahs-weller-book-works-found-an-answer/"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 13:18:07",
       "https://news.ycombinator.com/item?id=39850972"
     ],
@@ -267,16 +277,6 @@
     [
       "Can Xerox's PARC find new life with SRI?",
       "https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 08:47:00",
-      "https://news.ycombinator.com/item?id=39836797"
-    ],
-    [
-      "Erasure Coding versus Tail Latency",
-      "https://brooker.co.za/blog/2023/01/06/erasure.html"
     ]
   ],
   [
