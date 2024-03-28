@@ -9,6 +9,7 @@
 * [2024-03-28, 17:01:14](https://news.ycombinator.com/item?id=39854359) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-03-28, 16:50:59](https://news.ycombinator.com/item?id=39854182) - [NotepadNext – a cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 * [2024-03-28, 16:43:14](https://news.ycombinator.com/item?id=39854056) - [We made a hot dog talk with RF [video]](https://www.youtube.com/watch?v=GgDxXDV4_hc)
+* [2024-03-28, 16:36:56](https://news.ycombinator.com/item?id=39853958) - [AI21 Labs Unveils Jamba: The First Production-Grade Mamba-Based AI Model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
 * [2024-03-28, 16:31:25](https://news.ycombinator.com/item?id=39853843) - [Reading and Writing WAV Files in Python](https://realpython.com/python-wav-files/)
 * [2024-03-28, 16:29:09](https://news.ycombinator.com/item?id=39853795) - [Queues Aren't the Right Abstraction](https://www.inngest.com/blog/queues-are-no-longer-the-right-abstraction)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)

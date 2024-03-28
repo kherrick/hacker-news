@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-28, 17:37:32](https://news.ycombinator.com/item?id=39854906) - [Banana prices to go up as temperatures rise, says expert](https://www.bbc.com/news/science-environment-68534309)
-* [2024-03-28, 17:12:57](https://news.ycombinator.com/item?id=39854533) - [ECJ rules that four specific safety standards must be freely available](https://curia.europa.eu/juris/document/document.jsf?text=&docid=283443&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6361468)
 * [2024-03-28, 17:01:14](https://news.ycombinator.com/item?id=39854359) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-03-28, 16:50:59](https://news.ycombinator.com/item?id=39854182) - [NotepadNext – a cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 * [2024-03-28, 16:43:14](https://news.ycombinator.com/item?id=39854056) - [We made a hot dog talk with RF [video]](https://www.youtube.com/watch?v=GgDxXDV4_hc)
+* [2024-03-28, 16:36:56](https://news.ycombinator.com/item?id=39853958) - [AI21 Labs Unveils Jamba: The First Production-Grade Mamba-Based AI Model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
 * [2024-03-28, 15:48:12](https://news.ycombinator.com/item?id=39852953) - [Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
 * [2024-03-28, 15:41:06](https://news.ycombinator.com/item?id=39852879) - [Ethereum has blobs. Where do we go from here?](https://vitalik.eth.limo/general/2024/03/28/blobs.html)
@@ -25,10 +25,10 @@
 * [2024-03-28, 02:42:16](https://news.ycombinator.com/item?id=39847203) - [The Researcher Who Explores Computation by Conjuring New Worlds](https://www.quantamagazine.org/the-researcher-who-explores-computation-by-conjuring-new-worlds-20240327/)
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:24:36](https://news.ycombinator.com/item?id=39844768) - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
-* [2024-03-27, 20:19:54](https://news.ycombinator.com/item?id=39844104) - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:47:00](https://news.ycombinator.com/item?id=39836797) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
+* [2024-03-27, 07:41:19](https://news.ycombinator.com/item?id=39836495) - [Vultr is now claiming full perpetual commercial rights over all hosted content](https://old.reddit.com/r/selfhosted/comments/1bouuv7/warning_vultr_a_major_cloud_provider_is_now/)
 * [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 
 ## [Archives](archives/index.md)

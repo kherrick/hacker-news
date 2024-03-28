@@ -110,6 +110,7 @@
 * [2024-03-27, 07:53:24](https://news.ycombinator.com/item?id=39836559) - [Happy birthday APFS, 7 years old today](https://eclecticlight.co/2024/03/27/happy-birthday-apfs-7-years-old-today/)
 * [2024-03-27, 07:44:18](https://news.ycombinator.com/item?id=39836513) - [Facebook Accused of Using Your Phone to Wiretap Snapchat](https://gizmodo.com/project-ghostbusters-facebook-meta-wiretap-snapchat-1851366093)
 * [2024-03-27, 07:41:19](https://news.ycombinator.com/item?id=39836495) - [Vultr is now claiming full perpetual commercial rights over all hosted content](https://old.reddit.com/r/selfhosted/login/)
+* [2024-03-27, 07:41:19](https://news.ycombinator.com/item?id=39836495) - [Vultr is now claiming full perpetual commercial rights over all hosted content](https://old.reddit.com/r/selfhosted/comments/1bouuv7/warning_vultr_a_major_cloud_provider_is_now/)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-27, 07:00:26](https://news.ycombinator.com/item?id=39836316) - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
 * [2024-03-27, 06:37:18](https://news.ycombinator.com/item?id=39836226) - [Antitrust suit could force Apple to reveal its secrets](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit)
