@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-28, 02:04:40](https://news.ycombinator.com/item?id=39846998) - [Share Openly](https://werd.io/2024/share-openly)
 * [2024-03-28, 00:18:04](https://news.ycombinator.com/item?id=39846295) - [The Lord of the Rings Family Tree](http://lotrproject.com/)
 * [2024-03-27, 22:44:20](https://news.ycombinator.com/item?id=39845508) - [NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
 * [2024-03-27, 22:40:26](https://news.ycombinator.com/item?id=39845471) - [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
-* [2024-03-27, 22:01:45](https://news.ycombinator.com/item?id=39845130) - [Many developers don't speak to users or collaborate with the business](https://bettersoftwarerequirements.com/)
 * [2024-03-27, 21:43:59](https://news.ycombinator.com/item?id=39844960) - [Digital wallets and the \"only Apple Pay does this\" mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)

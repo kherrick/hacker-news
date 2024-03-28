@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 02:04:40](https://news.ycombinator.com/item?id=39846998) - [Share Openly](https://werd.io/2024/share-openly)
 * [2024-03-28, 00:18:04](https://news.ycombinator.com/item?id=39846295) - [The Lord of the Rings Family Tree](http://lotrproject.com/)
