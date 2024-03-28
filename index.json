@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-03-27, 20:19:54",
+      "https://news.ycombinator.com/item?id=39844104"
+    ],
+    [
+      "Peter principle",
+      "https://en.wikipedia.org/wiki/Peter_principle"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 20:05:48",
       "https://news.ycombinator.com/item?id=39843930"
     ],
@@ -277,16 +287,6 @@
     [
       "Write OpenAPI with TypeSpec",
       "https://blog.trl.sn/blog/typespec-for-openapi/"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 01:53:23",
-      "https://news.ycombinator.com/item?id=39823512"
-    ],
-    [
-      "Binary vector search is better than FP32 vectors",
-      "https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors"
     ]
   ],
   [
