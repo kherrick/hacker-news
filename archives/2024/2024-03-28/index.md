@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 16:29:09](https://news.ycombinator.com/item?id=39853795) - [Queues Aren't the Right Abstraction](https://www.inngest.com/blog/queues-are-no-longer-the-right-abstraction)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
 * [2024-03-28, 15:55:10](https://news.ycombinator.com/item?id=39853079) - [Sam Bankman-Fried Sentenced to 25 Years in Prison](https://www.nytimes.com/2024/03/28/technology/sam-bankman-fried-sentenced.html)
 * [2024-03-28, 15:52:06](https://news.ycombinator.com/item?id=39853016) - [Sam Banknan Fried gets 25 years](https://twitter.com/innercitypress/status/1773376299626574125)
 * [2024-03-28, 15:50:26](https://news.ycombinator.com/item?id=39852992) - [Sam Bankman-Fried Sentenced to 25 Years](https://www.bbc.co.uk/news/live/world-us-canada-68656415)
 * [2024-03-28, 15:48:12](https://news.ycombinator.com/item?id=39852953) - [SBF Sentenced to 25 years in Prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
+* [2024-03-28, 15:41:06](https://news.ycombinator.com/item?id=39852879) - [Ethereum has blobs. Where do we go from here?](https://vitalik.eth.limo/general/2024/03/28/blobs.html)
 * [2024-03-28, 15:37:57](https://news.ycombinator.com/item?id=39852849) - [What Do You Do If a Hacker Takes Control of Your Ship? (2023)](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
 * [2024-03-28, 15:35:01](https://news.ycombinator.com/item?id=39852812) - [Kubernetes and back – Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
 * [2024-03-28, 15:16:32](https://news.ycombinator.com/item?id=39852626) - [How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu)

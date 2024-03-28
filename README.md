@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-28, 16:29:09](https://news.ycombinator.com/item?id=39853795) - [Queues Aren't the Right Abstraction](https://www.inngest.com/blog/queues-are-no-longer-the-right-abstraction)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
 * [2024-03-28, 15:48:12](https://news.ycombinator.com/item?id=39852953) - [Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
+* [2024-03-28, 15:41:06](https://news.ycombinator.com/item?id=39852879) - [Ethereum has blobs. Where do we go from here?](https://vitalik.eth.limo/general/2024/03/28/blobs.html)
 * [2024-03-28, 15:37:57](https://news.ycombinator.com/item?id=39852849) - [What do you do if a hacker takes control of your ship? (2023)](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
 * [2024-03-28, 15:16:32](https://news.ycombinator.com/item?id=39852626) - [Advances in semiconductors are feeding the AI boom](https://spectrum.ieee.org/trillion-transistor-gpu)
 * [2024-03-28, 14:57:19](https://news.ycombinator.com/item?id=39852407) - [Show HN: I built a web app to open source travel itineraries](https://tripgeeks.app/community)
@@ -24,11 +26,9 @@
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 * [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
-* [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:47:00](https://news.ycombinator.com/item?id=39836797) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
-* [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 
 ## [Archives](archives/index.md)
