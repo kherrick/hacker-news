@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-28, 14:41:23](https://news.ycombinator.com/item?id=39852167) - [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
-* [2024-03-28, 14:21:28](https://news.ycombinator.com/item?id=39851881) - [A Nigerian woman reviewed some tomato puree online. Now she faces jail](https://www.cnn.com/2024/03/27/africa/nigerian-woman-faces-jail-over-online-review-of-tomato-puree-intl-scli/index.html)
 * [2024-03-28, 14:00:10](https://news.ycombinator.com/item?id=39851564) - [Ontario school boards sue social media giants for $4.5B](https://www.cbc.ca/news/canada/toronto/ontario-school-boards-sue-social-media-giants-1.7158033)
 * [2024-03-28, 12:27:31](https://news.ycombinator.com/item?id=39850383) - [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
 * [2024-03-28, 12:18:08](https://news.ycombinator.com/item?id=39850301) - [Why Scientists Are Calling for the Moon to Be Better Protected from Development](https://www.smithsonianmag.com/smart-news/why-scientists-are-calling-for-the-moon-to-be-better-protected-from-development-180984026/)
@@ -28,6 +27,7 @@
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
+* [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 * [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
