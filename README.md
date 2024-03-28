@@ -6,7 +6,7 @@
 * [2024-03-28, 00:18:04](https://news.ycombinator.com/item?id=39846295) - [The Lord of the Rings Family Tree](http://lotrproject.com/)
 * [2024-03-27, 22:44:20](https://news.ycombinator.com/item?id=39845508) - [NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
 * [2024-03-27, 22:40:26](https://news.ycombinator.com/item?id=39845471) - [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
-* [2024-03-27, 21:43:59](https://news.ycombinator.com/item?id=39844960) - [Digital wallets and the \"only Apple Pay does this\" mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
+* [2024-03-27, 21:43:59](https://news.ycombinator.com/item?id=39844960) - [Misunderstanding about the details of how Apply Pay works](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 * [2024-03-27, 20:24:43](https://news.ycombinator.com/item?id=39844159) - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
@@ -20,7 +20,6 @@
 * [2024-03-27, 16:40:05](https://news.ycombinator.com/item?id=39841449) - [Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
 * [2024-03-27, 16:33:07](https://news.ycombinator.com/item?id=39841363) - [Proxmox VE: Import Wizard for Migrating VMware ESXi VMs](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an era: Final Delta IV heavy rocket carries NROL-70 on historic mission](https://floridamedianow.com/2024/03/25/the-end-of-an-era-the-last-delta-launches-this-week/)
-* [2024-03-27, 16:01:07](https://news.ycombinator.com/item?id=39840977) - [Astronomers unveil strong magnetic fields spiraling Milky Way's black hole](https://eventhorizontelescope.org/blog/astronomers-unveil-strong-magnetic-fields-spiraling-edge-milky-way%E2%80%99s-central-black-hole)
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
 * [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
@@ -30,6 +29,7 @@
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-26, 21:56:16](https://news.ycombinator.com/item?id=39833321) - [Write OpenAPI with TypeSpec](https://blog.trl.sn/blog/typespec-for-openapi/)
 * [2024-03-26, 01:53:23](https://news.ycombinator.com/item?id=39823512) - [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
+* [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
 ## [Archives](archives/index.md)
 
