@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-28, 02:04:40](https://news.ycombinator.com/item?id=39846998) - [Share Openly](https://werd.io/2024/share-openly)
+* [2024-03-28, 01:20:50](https://news.ycombinator.com/item?id=39846729) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 * [2024-03-28, 00:18:04](https://news.ycombinator.com/item?id=39846295) - [The Lord of the Rings Family Tree](http://lotrproject.com/)
 * [2024-03-27, 22:44:20](https://news.ycombinator.com/item?id=39845508) - [NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
 * [2024-03-27, 22:40:26](https://news.ycombinator.com/item?id=39845471) - [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
@@ -8,7 +9,6 @@
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 * [2024-03-27, 20:24:43](https://news.ycombinator.com/item?id=39844159) - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
-* [2024-03-27, 20:19:54](https://news.ycombinator.com/item?id=39844104) - [Every employee tends to rise to their level of incompetence](https://en.wikipedia.org/wiki/Peter_principle)
 * [2024-03-27, 20:05:48](https://news.ycombinator.com/item?id=39843930) - [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers (2019)](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
 * [2024-03-27, 20:02:57](https://news.ycombinator.com/item?id=39843902) - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
 * [2024-03-27, 19:52:31](https://news.ycombinator.com/item?id=39843778) - [Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
