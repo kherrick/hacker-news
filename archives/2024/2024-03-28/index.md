@@ -55,6 +55,7 @@
 * [2024-03-28, 11:46:09](https://news.ycombinator.com/item?id=39849985) - [AI-Shunning robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
 * [2024-03-28, 11:20:30](https://news.ycombinator.com/item?id=39849773) - [Harvard University removes human skin binding from book](https://library.harvard.edu/statement-des-destinees-de-lame)
 * [2024-03-28, 11:17:37](https://news.ycombinator.com/item?id=39849754) - [Addressing Visibility Challenges with TLS 1.3 Within the Enterprise](https://www.nist.gov/news-events/news/2024/01/new-nccoe-guide-helps-major-industries-observe-incoming-data-while-using)
+* [2024-03-28, 11:15:14](https://news.ycombinator.com/item?id=39849739) - [How A.I. Chatbots Become Political](https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html)
 * [2024-03-28, 11:12:04](https://news.ycombinator.com/item?id=39849727) - [Intel Brags of $152B in Stock Buybacks. Why Does It Need an $8B Subsidy?](https://www.commondreams.org/opinion/intel-subsidy-chips-act-stock-buyback)
 * [2024-03-28, 10:42:36](https://news.ycombinator.com/item?id=39849548) - [A near 100pct renewable grid for Australia is feasible and affordable](https://reneweconomy.com.au/a-near-100pct-renewable-grid-for-australia-is-feasible-and-affordable-with-just-a-few-hours-of-storage/)
 * [2024-03-28, 10:35:58](https://news.ycombinator.com/item?id=39849511) - [Apple M3 Ultra chip will be redesigned as its own standalone chip](https://twitter.com/VadimYuryev/status/1773135334567788661)
