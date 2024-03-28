@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 17:01:14](https://news.ycombinator.com/item?id=39854359) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+* [2024-03-28, 16:50:59](https://news.ycombinator.com/item?id=39854182) - [NotepadNext – a cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
+* [2024-03-28, 16:31:25](https://news.ycombinator.com/item?id=39853843) - [Reading and Writing WAV Files in Python](https://realpython.com/python-wav-files/)
 * [2024-03-28, 16:29:09](https://news.ycombinator.com/item?id=39853795) - [Queues Aren't the Right Abstraction](https://www.inngest.com/blog/queues-are-no-longer-the-right-abstraction)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
 * [2024-03-28, 15:55:10](https://news.ycombinator.com/item?id=39853079) - [Sam Bankman-Fried Sentenced to 25 Years in Prison](https://www.nytimes.com/2024/03/28/technology/sam-bankman-fried-sentenced.html)
