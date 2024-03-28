@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 13:14:33](https://news.ycombinator.com/item?id=39850925) - [Google suspends romance author's account for writing sexually explicit content](https://fandom.ink/@Rozzychan/112161902225538242)
+* [2024-03-28, 12:28:16](https://news.ycombinator.com/item?id=39850396) - [Ask HN: How hard is it to find a job after trying to start your own thing](https://news.ycombinator.com/item?id=39850396)
 * [2024-03-28, 12:27:31](https://news.ycombinator.com/item?id=39850383) - [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
 * [2024-03-28, 12:20:19](https://news.ycombinator.com/item?id=39850318) - [Show HN: I taught ChatGPT to find cool domain names – with availability check](https://huehive.co/tools/domain_search)
 * [2024-03-28, 12:18:08](https://news.ycombinator.com/item?id=39850301) - [Why Scientists Are Calling for the Moon to Be Better Protected from Development](https://www.smithsonianmag.com/smart-news/why-scientists-are-calling-for-the-moon-to-be-better-protected-from-development-180984026/)
