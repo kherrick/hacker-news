@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 23:44:57](https://news.ycombinator.com/item?id=39858850) - [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
 * [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
 * [2024-03-28, 22:37:34](https://news.ycombinator.com/item?id=39858240) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
 * [2024-03-28, 22:35:39](https://news.ycombinator.com/item?id=39858219) - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
