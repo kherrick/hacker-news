@@ -2,7 +2,6 @@
 
 * [2024-03-28, 04:14:50](https://news.ycombinator.com/item?id=39847728) - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 * [2024-03-28, 03:00:09](https://news.ycombinator.com/item?id=39847307) - [Digital signs in Brookline are collecting data from your phone as you walk by](https://brookline.news/digital-signs-around-brookline-are-collecting-data-from-your-phone-as-you-walk-by/)
-* [2024-03-28, 02:57:23](https://news.ycombinator.com/item?id=39847285) - [ADHD Stimulants May Increase Risk of Heart Damage in Young Adults](https://www.acc.org/About-ACC/Press-Releases/2024/03/26/18/35/adhd-stimulants-may-increase-risk-of-heart-damage-in-young-adults)
 * [2024-03-28, 02:04:40](https://news.ycombinator.com/item?id=39846998) - [Share Openly](https://werd.io/2024/share-openly)
 * [2024-03-28, 01:20:50](https://news.ycombinator.com/item?id=39846729) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 * [2024-03-28, 00:18:05](https://news.ycombinator.com/item?id=39846296) - [Astronomers discover a rare eclipsing X-ray binary](https://phys.org/news/2024-03-astronomers-rare-eclipsing-ray-binary.html)
@@ -12,6 +11,7 @@
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 * [2024-03-27, 20:24:43](https://news.ycombinator.com/item?id=39844159) - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
+* [2024-03-27, 20:19:54](https://news.ycombinator.com/item?id=39844104) - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 * [2024-03-27, 20:05:48](https://news.ycombinator.com/item?id=39843930) - [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers (2019)](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
 * [2024-03-27, 20:02:57](https://news.ycombinator.com/item?id=39843902) - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
 * [2024-03-27, 19:52:31](https://news.ycombinator.com/item?id=39843778) - [Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
