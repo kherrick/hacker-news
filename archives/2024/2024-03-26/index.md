@@ -64,6 +64,7 @@
 * [2024-03-26, 12:26:43](https://news.ycombinator.com/item?id=39826990) - [Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke](https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/)
 * [2024-03-26, 12:06:42](https://news.ycombinator.com/item?id=39826820) - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 * [2024-03-26, 12:00:18](https://news.ycombinator.com/item?id=39826770) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
+* [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 * [2024-03-26, 11:19:53](https://news.ycombinator.com/item?id=39826463) - [OpenAI Sora's first short film – \"Air Head,\" created by shy kids [video]](https://www.youtube.com/watch?v=yplb0yBEiRo)
 * [2024-03-26, 10:55:49](https://news.ycombinator.com/item?id=39826315) - [Show HN: WhatTheDuck – open-source, in-browser SQL on CSV files](https://github.com/incentius-foss/WhatTheDuck)
 * [2024-03-26, 10:41:48](https://news.ycombinator.com/item?id=39826209) - [Canva acquires Affinity to fill the Adobe-sized holes in its design suite](https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival)

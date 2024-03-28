@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 14:06:47](https://news.ycombinator.com/item?id=39851640) - [Reddit insiders have been selling stock after the IPO](https://twitter.com/unusual_whales/status/1773141452022809078)
 * [2024-03-28, 13:30:08](https://news.ycombinator.com/item?id=39851145) - [In-App Browsers: The worst erosion of user choice you haven't heard of](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
 * [2024-03-28, 13:29:29](https://news.ycombinator.com/item?id=39851136) - [Ask HN: Who's getting their job applications rejected?](https://news.ycombinator.com/item?id=39851136)
 * [2024-03-28, 13:14:33](https://news.ycombinator.com/item?id=39850925) - [Google suspends romance author's account for writing sexually explicit content](https://fandom.ink/@Rozzychan/112161902225538242)
