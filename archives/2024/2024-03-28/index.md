@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 19:42:21](https://news.ycombinator.com/item?id=39856413) - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
 * [2024-03-28, 19:26:55](https://news.ycombinator.com/item?id=39856276) - [One Satellite Signal Rules Modern Life. What If Someone Knocks It Out?](https://www.nytimes.com/2024/03/28/world/asia/as-threats-in-space-mount-us-lags-in-protecting-key-services.html)
 * [2024-03-28, 18:43:06](https://news.ycombinator.com/item?id=39855760) - [The Next Big Step in Mojo Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
 * [2024-03-28, 18:31:58](https://news.ycombinator.com/item?id=39855619) - [PyPI Suspends New User and Project Creation in Wake of Malware Campaign](https://blog.phylum.io/typosquatting-campaign-targets-python-developers/)
