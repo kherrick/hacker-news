@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
 * [2024-03-28, 18:19:59](https://news.ycombinator.com/item?id=39855462) - ['Noisy' autistic brains seem better at certain tasks](https://theconversation.com/noisy-autistic-brains-seem-better-at-certain-tasks-heres-why-neuroaffirmative-research-matters-225180)
+* [2024-03-28, 18:06:55](https://news.ycombinator.com/item?id=39855285) - [Edgar, Build a Dyson Swarm](https://playedgar.netlify.app/)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 * [2024-03-28, 17:37:32](https://news.ycombinator.com/item?id=39854906) - [Banana prices to go up as temperatures rise, says expert](https://www.bbc.com/news/science-environment-68534309)
 * [2024-03-28, 17:27:35](https://news.ycombinator.com/item?id=39854747) - [How a Windows shake-up could position Microsoft to capitalize on AI PCs](https://www.theverge.com/2024/3/28/24114362/microsoft-windows-surface-reorg-ai-pcs-report)
