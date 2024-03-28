@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-28, 05:49:39](https://news.ycombinator.com/item?id=39848140) - [For young people, the job search has never been so miserable](https://www.ft.com/content/4b16c325-8758-4b90-bdb5-15536b401606)
 * [2024-03-28, 04:14:50](https://news.ycombinator.com/item?id=39847728) - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 * [2024-03-28, 03:00:09](https://news.ycombinator.com/item?id=39847307) - [Digital signs in Brookline are collecting data from your phone as you walk by](https://brookline.news/digital-signs-around-brookline-are-collecting-data-from-your-phone-as-you-walk-by/)
+* [2024-03-28, 02:04:40](https://news.ycombinator.com/item?id=39846998) - [Share Openly](https://werd.io/2024/share-openly)
 * [2024-03-28, 01:20:50](https://news.ycombinator.com/item?id=39846729) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 * [2024-03-28, 00:18:05](https://news.ycombinator.com/item?id=39846296) - [Astronomers discover a rare eclipsing X-ray binary](https://phys.org/news/2024-03-astronomers-rare-eclipsing-ray-binary.html)
 * [2024-03-27, 22:44:20](https://news.ycombinator.com/item?id=39845508) - [NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
@@ -21,7 +21,6 @@
 * [2024-03-27, 16:43:05](https://news.ycombinator.com/item?id=39841476) - [JetZero: Ultra-efficient blended wing body jet](https://www.jetzero.aero/why-jetzero)
 * [2024-03-27, 16:40:05](https://news.ycombinator.com/item?id=39841449) - [Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
 * [2024-03-27, 16:33:07](https://news.ycombinator.com/item?id=39841363) - [Proxmox VE: Import Wizard for Migrating VMware ESXi VMs](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
-* [2024-03-27, 16:04:45](https://news.ycombinator.com/item?id=39841027) - [End of an era: Final Delta IV heavy rocket carries NROL-70 on historic mission](https://floridamedianow.com/2024/03/25/the-end-of-an-era-the-last-delta-launches-this-week/)
 * [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
 * [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
@@ -29,6 +28,7 @@
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 * [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
+* [2024-03-26, 14:53:52](https://news.ycombinator.com/item?id=39828686) - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 * [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
 ## [Archives](archives/index.md)
