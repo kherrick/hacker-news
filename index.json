@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-28, 14:44:33",
+      "https://news.ycombinator.com/item?id=39852219"
+    ],
+    [
+      "Show HN: I scraped all of OpenAI's Community Forum",
+      "https://julep-ai.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 14:42:39",
+      "https://news.ycombinator.com/item?id=39852190"
+    ],
+    [
+      "New open source GPU is free to all",
+      "https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 14:41:23",
       "https://news.ycombinator.com/item?id=39852167"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2024-03-28, 14:00:10",
-      "https://news.ycombinator.com/item?id=39851564"
+      "2024-03-28, 14:37:50",
+      "https://news.ycombinator.com/item?id=39852118"
     ],
     [
-      "Ontario school boards sue social media giants for $4.5B",
-      "https://www.cbc.ca/news/canada/toronto/ontario-school-boards-sue-social-media-giants-1.7158033"
+      "LLMs use a surprisingly simple mechanism to retrieve some stored knowledge",
+      "https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-03-27, 22:40:26",
-      "https://news.ycombinator.com/item?id=39845471"
-    ],
-    [
-      "BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard",
-      "https://www.beagleboard.org/boards/beagley-ai"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 21:40:59",
       "https://news.ycombinator.com/item?id=39844936"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-03-27, 15:09:13",
-      "https://news.ycombinator.com/item?id=39840286"
-    ],
-    [
-      "Daniel Kahneman has died",
-      "https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 14:38:51",
       "https://news.ycombinator.com/item?id=39839789"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-03-27, 08:47:00",
+      "https://news.ycombinator.com/item?id=39836797"
+    ],
+    [
+      "Erasure Coding versus Tail Latency",
+      "https://brooker.co.za/blog/2023/01/06/erasure.html"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 08:37:38",
       "https://news.ycombinator.com/item?id=39836745"
     ],
@@ -267,16 +277,6 @@
     [
       "Recent 'MFA Bombing' Attacks Targeting Apple Users",
       "https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 14:53:52",
-      "https://news.ycombinator.com/item?id=39828686"
-    ],
-    [
-      "Launch HN: Aqua Voice (YC W24) – Voice-driven text editor",
-      "https://news.ycombinator.com/item?id=39828686"
     ]
   ],
   [
