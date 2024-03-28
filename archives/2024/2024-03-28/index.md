@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 * [2024-03-28, 17:37:32](https://news.ycombinator.com/item?id=39854906) - [Banana prices to go up as temperatures rise, says expert](https://www.bbc.com/news/science-environment-68534309)
+* [2024-03-28, 17:27:35](https://news.ycombinator.com/item?id=39854747) - [How a Windows shake-up could position Microsoft to capitalize on AI PCs](https://www.theverge.com/2024/3/28/24114362/microsoft-windows-surface-reorg-ai-pcs-report)
 * [2024-03-28, 17:12:57](https://news.ycombinator.com/item?id=39854533) - [ECJ rules that four specific safety standards must be freely available](https://curia.europa.eu/juris/document/document.jsf?text=&docid=283443&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6361468)
 * [2024-03-28, 17:01:14](https://news.ycombinator.com/item?id=39854359) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-03-28, 16:50:59](https://news.ycombinator.com/item?id=39854182) - [NotepadNext – a cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
@@ -21,6 +23,7 @@
 * [2024-03-28, 15:41:06](https://news.ycombinator.com/item?id=39852879) - [Ethereum has blobs. Where do we go from here?](https://vitalik.eth.limo/general/2024/03/28/blobs.html)
 * [2024-03-28, 15:37:57](https://news.ycombinator.com/item?id=39852849) - [What Do You Do If a Hacker Takes Control of Your Ship? (2023)](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
 * [2024-03-28, 15:35:01](https://news.ycombinator.com/item?id=39852812) - [Kubernetes and back – Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
+* [2024-03-28, 15:31:06](https://news.ycombinator.com/item?id=39852777) - [RISC-V: How a group of Berkeley researchers took over the chip industry](https://boldandopen.substack.com/p/how-a-group-of-berkeley-researchers)
 * [2024-03-28, 15:16:32](https://news.ycombinator.com/item?id=39852626) - [How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu)
 * [2024-03-28, 14:57:19](https://news.ycombinator.com/item?id=39852407) - [Show HN: I built a web app to open source travel itineraries](https://tripgeeks.app/community)
 * [2024-03-28, 14:44:33](https://news.ycombinator.com/item?id=39852219) - [Show HN: I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
