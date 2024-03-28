@@ -15,6 +15,7 @@
 * [2024-03-27, 21:43:59](https://news.ycombinator.com/item?id=39844960) - [Digital wallets and the \"only Apple Pay does this\" mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 * [2024-03-27, 21:40:59](https://news.ycombinator.com/item?id=39844936) - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 * [2024-03-27, 21:27:33](https://news.ycombinator.com/item?id=39844788) - [I Worked Hard all my Life. I Regret it](https://news.ycombinator.com/item?id=39844788)
+* [2024-03-27, 21:24:36](https://news.ycombinator.com/item?id=39844768) - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
 * [2024-03-27, 21:00:37](https://news.ycombinator.com/item?id=39844529) - [Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 * [2024-03-27, 20:30:13](https://news.ycombinator.com/item?id=39844219) - [Show HN: The 2FA app that notifies you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
 * [2024-03-27, 20:24:43](https://news.ycombinator.com/item?id=39844159) - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)

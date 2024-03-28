@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
 * [2024-03-28, 14:06:47](https://news.ycombinator.com/item?id=39851640) - [Reddit insiders have been selling stock after the IPO](https://twitter.com/unusual_whales/status/1773141452022809078)
+* [2024-03-28, 14:00:10](https://news.ycombinator.com/item?id=39851564) - [Ontario school boards sue social media giants for $4.5B](https://www.cbc.ca/news/canada/toronto/ontario-school-boards-sue-social-media-giants-1.7158033)
 * [2024-03-28, 13:30:08](https://news.ycombinator.com/item?id=39851145) - [In-App Browsers: The worst erosion of user choice you haven't heard of](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
 * [2024-03-28, 13:29:29](https://news.ycombinator.com/item?id=39851136) - [Ask HN: Who's getting their job applications rejected?](https://news.ycombinator.com/item?id=39851136)
 * [2024-03-28, 13:14:33](https://news.ycombinator.com/item?id=39850925) - [Google suspends romance author's account for writing sexually explicit content](https://fandom.ink/@Rozzychan/112161902225538242)
@@ -32,6 +33,7 @@
 * [2024-03-28, 06:59:55](https://news.ycombinator.com/item?id=39848439) - [Treemap of World GDP by Purchasing Power Parity (PPP) 2020](https://treemap-world-economy.pages.dev)
 * [2024-03-28, 06:23:19](https://news.ycombinator.com/item?id=39848268) - [Endlessh-go: a Golang SSH tarpit that traps bots/scanners](https://github.com/shizunge/endlessh-go)
 * [2024-03-28, 05:49:39](https://news.ycombinator.com/item?id=39848140) - [For young people, the job search has never been so miserable](https://www.ft.com/content/4b16c325-8758-4b90-bdb5-15536b401606)
+* [2024-03-28, 05:07:18](https://news.ycombinator.com/item?id=39847973) - [Show HN: Quasar Prime: Vue.js Admin Template](https://github.com/Quasar-Admin-Templates/quasar_prime_admin_template)
 * [2024-03-28, 05:01:45](https://news.ycombinator.com/item?id=39847943) - [Why quantum entanglement doesn't allow faster-than-light communication (2016)](https://www.forbes.com/sites/chadorzel/2016/05/04/the-real-reasons-quantum-entanglement-doesnt-allow-faster-than-light-communication/)
 * [2024-03-28, 04:39:40](https://news.ycombinator.com/item?id=39847848) - [We've been here before: AI promised humanlike machines – in 1958](https://theconversation.com/weve-been-here-before-ai-promised-humanlike-machines-in-1958-222700)
 * [2024-03-28, 04:14:50](https://news.ycombinator.com/item?id=39847728) - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
