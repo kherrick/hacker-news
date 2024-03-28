@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 19:26:55](https://news.ycombinator.com/item?id=39856276) - [One Satellite Signal Rules Modern Life. What If Someone Knocks It Out?](https://www.nytimes.com/2024/03/28/world/asia/as-threats-in-space-mount-us-lags-in-protecting-key-services.html)
 * [2024-03-28, 18:43:06](https://news.ycombinator.com/item?id=39855760) - [The Next Big Step in Mojo Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
+* [2024-03-28, 18:31:58](https://news.ycombinator.com/item?id=39855619) - [PyPI Suspends New User and Project Creation in Wake of Malware Campaign](https://blog.phylum.io/typosquatting-campaign-targets-python-developers/)
 * [2024-03-28, 18:19:59](https://news.ycombinator.com/item?id=39855462) - ['Noisy' autistic brains seem better at certain tasks](https://theconversation.com/noisy-autistic-brains-seem-better-at-certain-tasks-heres-why-neuroaffirmative-research-matters-225180)
 * [2024-03-28, 18:06:55](https://news.ycombinator.com/item?id=39855285) - [Edgar, Build a Dyson Swarm](https://playedgar.netlify.app/)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
