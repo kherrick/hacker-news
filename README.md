@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-28, 18:43:06](https://news.ycombinator.com/item?id=39855760) - [The Next Big Step in Mojo Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
-* [2024-03-28, 18:06:55](https://news.ycombinator.com/item?id=39855285) - [Edgar, Build a Dyson Swarm](https://playedgar.netlify.app/)
+* [2024-03-28, 18:06:55](https://news.ycombinator.com/item?id=39855285) - [Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 * [2024-03-28, 17:37:32](https://news.ycombinator.com/item?id=39854906) - [Banana prices to go up as temperatures rise, says expert](https://www.bbc.com/news/science-environment-68534309)
 * [2024-03-28, 17:16:32](https://news.ycombinator.com/item?id=39854584) - [Show HN: Spice.ai – materialize, accelerate, and query SQL data from any source](https://github.com/spiceai/spiceai)
@@ -22,12 +22,12 @@
 * [2024-03-28, 13:18:07](https://news.ycombinator.com/item?id=39850972) - [UV-K5 Is the Most Hackable Handheld Ham Radio Yet](https://spectrum.ieee.org/quansheng-uv-k5-hacking)
 * [2024-03-28, 12:27:31](https://news.ycombinator.com/item?id=39850383) - [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
 * [2024-03-28, 12:08:54](https://news.ycombinator.com/item?id=39850207) - [Linux Text Manipulation](https://yusuf.fyi/posts/linux-text-manipulation)
-* [2024-03-28, 11:15:14](https://news.ycombinator.com/item?id=39849739) - [How A.I. Chatbots Become Political](https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html)
 * [2024-03-28, 10:03:14](https://news.ycombinator.com/item?id=39849335) - [What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
+* [2024-03-28, 09:26:40](https://news.ycombinator.com/item?id=39849126) - [Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)
 * [2024-03-28, 08:28:41](https://news.ycombinator.com/item?id=39848862) - [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
 * [2024-03-28, 06:23:19](https://news.ycombinator.com/item?id=39848268) - [Endlessh-go: a Golang SSH tarpit that traps bots/scanners](https://github.com/shizunge/endlessh-go)
-* [2024-03-28, 04:14:50](https://news.ycombinator.com/item?id=39847728) - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 * [2024-03-27, 21:24:36](https://news.ycombinator.com/item?id=39844768) - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
+* [2024-03-27, 17:34:17](https://news.ycombinator.com/item?id=39842156) - [Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html)
 * [2024-03-27, 08:47:00](https://news.ycombinator.com/item?id=39836797) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 

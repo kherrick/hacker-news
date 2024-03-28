@@ -38,6 +38,7 @@
 * [2024-03-27, 17:55:19](https://news.ycombinator.com/item?id=39842425) - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
 * [2024-03-27, 17:48:49](https://news.ycombinator.com/item?id=39842340) - [Who's Behind All the 'Pussy in Bio' on X?](https://nymag.com/intelligencer/article/who-is-behind-all-the-pussy-in-bio-porn-spam-on-x.html)
 * [2024-03-27, 17:39:39](https://news.ycombinator.com/item?id=39842226) - [4D Golf is making my brain melt away](https://www.gamingonlinux.com/2024/03/4d-golf-is-making-my-brain-melt-away/)
+* [2024-03-27, 17:34:17](https://news.ycombinator.com/item?id=39842156) - [Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html)
 * [2024-03-27, 17:33:47](https://news.ycombinator.com/item?id=39842148) - [Ask HN: Do you feel scummy making AI products?](https://news.ycombinator.com/item?id=39842148)
 * [2024-03-27, 17:31:31](https://news.ycombinator.com/item?id=39842116) - [Winner of the SF Mistral AI Hackathon: Automated Test Driven Prompting](https://prompting.flyflow.dev)
 * [2024-03-27, 17:28:20](https://news.ycombinator.com/item?id=39842067) - [Pythagoras was wrong: there are no universal musical harmonies, study finds](https://www.cam.ac.uk/research/news/pythagoras-was-wrong-there-are-no-universal-musical-harmonies-study-finds)
