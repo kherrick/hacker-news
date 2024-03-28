@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 14:41:23](https://news.ycombinator.com/item?id=39852167) - [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
+* [2024-03-28, 14:21:28](https://news.ycombinator.com/item?id=39851881) - [A Nigerian woman reviewed some tomato puree online. Now she faces jail](https://www.cnn.com/2024/03/27/africa/nigerian-woman-faces-jail-over-online-review-of-tomato-puree-intl-scli/index.html)
 * [2024-03-28, 14:06:47](https://news.ycombinator.com/item?id=39851640) - [Reddit insiders have been selling stock after the IPO](https://twitter.com/unusual_whales/status/1773141452022809078)
 * [2024-03-28, 14:00:10](https://news.ycombinator.com/item?id=39851564) - [Ontario school boards sue social media giants for $4.5B](https://www.cbc.ca/news/canada/toronto/ontario-school-boards-sue-social-media-giants-1.7158033)
 * [2024-03-28, 13:30:08](https://news.ycombinator.com/item?id=39851145) - [In-App Browsers: The worst erosion of user choice you haven't heard of](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
