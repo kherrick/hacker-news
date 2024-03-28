@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 10:35:58](https://news.ycombinator.com/item?id=39849511) - [Apple M3 Ultra chip will be redesigned as its own standalone chip](https://twitter.com/VadimYuryev/status/1773135334567788661)
 * [2024-03-28, 10:03:14](https://news.ycombinator.com/item?id=39849335) - [What is DECT-2020 New Radio (NR), and how big a deal is it?](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
 * [2024-03-28, 09:54:03](https://news.ycombinator.com/item?id=39849269) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
 * [2024-03-28, 09:26:40](https://news.ycombinator.com/item?id=39849126) - [Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)

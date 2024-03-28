@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-28, 10:35:58](https://news.ycombinator.com/item?id=39849511) - [Apple M3 Ultra chip will be redesigned as its own standalone chip](https://twitter.com/VadimYuryev/status/1773135334567788661)
 * [2024-03-28, 10:03:14](https://news.ycombinator.com/item?id=39849335) - [What is DECT-2020 New Radio (NR), and how big a deal is it?](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
 * [2024-03-28, 09:54:03](https://news.ycombinator.com/item?id=39849269) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
 * [2024-03-28, 09:26:40](https://news.ycombinator.com/item?id=39849126) - [Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)
@@ -23,7 +24,6 @@
 * [2024-03-27, 18:10:57](https://news.ycombinator.com/item?id=39842617) - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 * [2024-03-27, 17:20:43](https://news.ycombinator.com/item?id=39841956) - [Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 * [2024-03-27, 16:40:05](https://news.ycombinator.com/item?id=39841449) - [Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
-* [2024-03-27, 15:09:13](https://news.ycombinator.com/item?id=39840286) - [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 * [2024-03-27, 14:38:51](https://news.ycombinator.com/item?id=39839789) - [The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
 * [2024-03-27, 14:28:54](https://news.ycombinator.com/item?id=39839629) - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
