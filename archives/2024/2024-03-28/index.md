@@ -40,6 +40,7 @@
 * [2024-03-28, 03:49:40](https://news.ycombinator.com/item?id=39847592) - [A few thoughts on the DOJ's antitrust case against Apple](https://birchtree.me/blog/a-few-thoughts-on-the-dojs-antitrust-case-against-apple/)
 * [2024-03-28, 03:00:09](https://news.ycombinator.com/item?id=39847307) - [Digital signs in Brookline are collecting data from your phone as you walk by](https://brookline.news/digital-signs-around-brookline-are-collecting-data-from-your-phone-as-you-walk-by/)
 * [2024-03-28, 02:57:23](https://news.ycombinator.com/item?id=39847285) - [ADHD Stimulants May Increase Risk of Heart Damage in Young Adults](https://www.acc.org/About-ACC/Press-Releases/2024/03/26/18/35/adhd-stimulants-may-increase-risk-of-heart-damage-in-young-adults)
+* [2024-03-28, 02:42:16](https://news.ycombinator.com/item?id=39847203) - [The Researcher Who Explores Computation by Conjuring New Worlds](https://www.quantamagazine.org/the-researcher-who-explores-computation-by-conjuring-new-worlds-20240327/)
 * [2024-03-28, 02:04:40](https://news.ycombinator.com/item?id=39846998) - [Share Openly](https://werd.io/2024/share-openly)
 * [2024-03-28, 01:20:50](https://news.ycombinator.com/item?id=39846729) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 * [2024-03-28, 00:18:05](https://news.ycombinator.com/item?id=39846296) - [Astronomers discover a rare eclipsing X-ray binary](https://phys.org/news/2024-03-astronomers-rare-eclipsing-ray-binary.html)
