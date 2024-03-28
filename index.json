@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-28, 10:35:58",
-      "https://news.ycombinator.com/item?id=39849511"
-    ],
-    [
-      "Apple M3 Ultra chip will be redesigned as its own standalone chip",
-      "https://twitter.com/VadimYuryev/status/1773135334567788661"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 10:03:14",
       "https://news.ycombinator.com/item?id=39849335"
     ],
@@ -37,6 +27,16 @@
     [
       "Memories are made by breaking DNA – and fixing it",
       "https://www.nature.com/articles/d41586-024-00930-y"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 08:46:59",
+      "https://news.ycombinator.com/item?id=39848938"
+    ],
+    [
+      "J&J can contest evidence linking its talc to cancer, US judge rules",
+      "https://www.mvariety.com/business/j-j-can-contest-evidence-linking-its-talc-to-cancer-us-judge-rules/article_76600956-ecd3-11ee-b136-e36d19197d61.html"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Endlessh-go: a Golang SSH tarpit that traps bots/scanners",
       "https://github.com/shizunge/endlessh-go"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 05:01:45",
+      "https://news.ycombinator.com/item?id=39847943"
+    ],
+    [
+      "Why quantum entanglement doesn't allow faster-than-light communication (2016)",
+      "https://www.forbes.com/sites/chadorzel/2016/05/04/the-real-reasons-quantum-entanglement-doesnt-allow-faster-than-light-communication/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Infinite Mac: Turning to the dark side",
       "https://blog.persistent.info/2024/03/infinite-mac-nextstep.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 19:52:31",
-      "https://news.ycombinator.com/item?id=39843778"
-    ],
-    [
-      "Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes",
-      "https://github.com/meribold/btry"
     ]
   ],
   [
