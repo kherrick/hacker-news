@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-28, 00:18:04",
+      "https://news.ycombinator.com/item?id=39846295"
+    ],
+    [
+      "The Lord of the Rings Family Tree",
+      "http://lotrproject.com/"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 22:44:20",
       "https://news.ycombinator.com/item?id=39845508"
     ],
@@ -17,16 +27,6 @@
     [
       "BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard",
       "https://www.beagleboard.org/boards/beagley-ai"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 22:27:57",
-      "https://news.ycombinator.com/item?id=39845364"
-    ],
-    [
-      "Being laid off in 2023-2024 as an early-career developer",
-      "https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-03-27, 19:08:01",
-      "https://news.ycombinator.com/item?id=39843315"
-    ],
-    [
-      "Fisker lost track of millions of dollars in customer payments for months",
-      "https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 18:10:57",
       "https://news.ycombinator.com/item?id=39842617"
     ],
@@ -177,16 +167,6 @@
     [
       "End of an era: Final Delta IV heavy rocket carries NROL-70 on historic mission",
       "https://floridamedianow.com/2024/03/25/the-end-of-an-era-the-last-delta-launches-this-week/"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 16:01:07",
-      "https://news.ycombinator.com/item?id=39840977"
-    ],
-    [
-      "Astronomers unveil strong magnetic fields spiraling Milky Way's black hole",
-      "https://eventhorizontelescope.org/blog/astronomers-unveil-strong-magnetic-fields-spiraling-edge-milky-way%E2%80%99s-central-black-hole"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "FuryGpu – Custom PCIe FPGA GPU",
       "https://www.furygpu.com"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 07:10:11",
+      "https://news.ycombinator.com/item?id=39836350"
+    ],
+    [
+      "Recent 'MFA Bombing' Attacks Targeting Apple Users",
+      "https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 21:56:16",
+      "https://news.ycombinator.com/item?id=39833321"
+    ],
+    [
+      "Write OpenAPI with TypeSpec",
+      "https://blog.trl.sn/blog/typespec-for-openapi/"
     ]
   ],
   [
