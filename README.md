@@ -6,7 +6,6 @@
 * [2024-03-28, 07:44:29](https://news.ycombinator.com/item?id=39848657) - [AI hallucinates software packages and devs download them](https://www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/)
 * [2024-03-28, 06:59:55](https://news.ycombinator.com/item?id=39848439) - [Treemap of World GDP by Purchasing Power Parity (PPP) 2020](https://treemap-world-economy.pages.dev)
 * [2024-03-28, 06:23:19](https://news.ycombinator.com/item?id=39848268) - [Endlessh-go: a Golang SSH tarpit that traps bots/scanners](https://github.com/shizunge/endlessh-go)
-* [2024-03-28, 04:39:40](https://news.ycombinator.com/item?id=39847848) - [We've been here before: AI promised humanlike machines – in 1958](https://theconversation.com/weve-been-here-before-ai-promised-humanlike-machines-in-1958-222700)
 * [2024-03-28, 04:14:50](https://news.ycombinator.com/item?id=39847728) - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 * [2024-03-28, 03:49:40](https://news.ycombinator.com/item?id=39847592) - [A few thoughts on the DOJ's antitrust case against Apple](https://birchtree.me/blog/a-few-thoughts-on-the-dojs-antitrust-case-against-apple/)
 * [2024-03-28, 01:20:50](https://news.ycombinator.com/item?id=39846729) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
@@ -29,6 +28,7 @@
 * [2024-03-27, 14:04:16](https://news.ycombinator.com/item?id=39839257) - [The last crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 * [2024-03-27, 12:23:48](https://news.ycombinator.com/item?id=39838104) - [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [2024-03-27, 08:37:38](https://news.ycombinator.com/item?id=39836745) - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
+* [2024-03-27, 07:10:11](https://news.ycombinator.com/item?id=39836350) - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 * [2024-03-25, 19:58:18](https://news.ycombinator.com/item?id=39820619) - [Things I Learned from René Girard](https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard)
 
 ## [Archives](archives/index.md)
