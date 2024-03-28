@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
 * [2024-03-28, 15:55:10](https://news.ycombinator.com/item?id=39853079) - [Sam Bankman-Fried Sentenced to 25 Years in Prison](https://www.nytimes.com/2024/03/28/technology/sam-bankman-fried-sentenced.html)
 * [2024-03-28, 15:52:06](https://news.ycombinator.com/item?id=39853016) - [Sam Banknan Fried gets 25 years](https://twitter.com/innercitypress/status/1773376299626574125)
 * [2024-03-28, 15:50:26](https://news.ycombinator.com/item?id=39852992) - [Sam Bankman-Fried Sentenced to 25 Years](https://www.bbc.co.uk/news/live/world-us-canada-68656415)
@@ -11,6 +12,7 @@
 * [2024-03-28, 15:37:57](https://news.ycombinator.com/item?id=39852849) - [What Do You Do If a Hacker Takes Control of Your Ship? (2023)](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
 * [2024-03-28, 15:35:01](https://news.ycombinator.com/item?id=39852812) - [Kubernetes and back – Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
 * [2024-03-28, 15:16:32](https://news.ycombinator.com/item?id=39852626) - [How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu)
+* [2024-03-28, 14:57:19](https://news.ycombinator.com/item?id=39852407) - [Show HN: I built a web app to open source travel itineraries](https://tripgeeks.app/community)
 * [2024-03-28, 14:44:33](https://news.ycombinator.com/item?id=39852219) - [Show HN: I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
 * [2024-03-28, 14:42:39](https://news.ycombinator.com/item?id=39852190) - [New open source GPU is free to all](https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb)
 * [2024-03-28, 14:41:23](https://news.ycombinator.com/item?id=39852167) - [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
