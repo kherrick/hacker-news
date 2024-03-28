@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-28, 23:44:57",
+      "https://news.ycombinator.com/item?id=39858850"
+    ],
+    [
+      "Facebook let Netflix see user DMs, quit streaming to keep Netflix happy",
+      "https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 23:32:29",
       "https://news.ycombinator.com/item?id=39858750"
     ],
@@ -11,52 +21,12 @@
   ],
   [
     [
-      "2024-03-28, 22:37:34",
-      "https://news.ycombinator.com/item?id=39858240"
-    ],
-    [
-      "Xr0 Makes C Safer than Rust",
-      "https://xr0.dev/safer"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 22:35:39",
       "https://news.ycombinator.com/item?id=39858219"
     ],
     [
       "Deep Learning in JavaScript",
       "https://github.com/eduardoleao052/js-torch"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 22:31:27",
-      "https://news.ycombinator.com/item?id=39858186"
-    ],
-    [
-      "Secret papers reveal Post Office knew its court defence was false",
-      "https://www.bbc.co.uk/news/uk-68663750"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 22:27:29",
-      "https://news.ycombinator.com/item?id=39858144"
-    ],
-    [
-      "The race to replace Redis",
-      "https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 22:17:03",
-      "https://news.ycombinator.com/item?id=39858030"
-    ],
-    [
-      "Keynes was wrong because he failed to consider class conflict",
-      "https://billmitchell.org/blog/?p=61635"
     ]
   ],
   [
@@ -107,6 +77,16 @@
     [
       "What Boeing did to all the guys who remember how to build a plane",
       "https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 18:43:06",
+      "https://news.ycombinator.com/item?id=39855760"
+    ],
+    [
+      "The Next Big Step in Mojo Open Source",
+      "https://www.modular.com/blog/the-next-big-step-in-mojo-open-source"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2024-03-28, 15:16:32",
+      "https://news.ycombinator.com/item?id=39852626"
+    ],
+    [
+      "Advances in semiconductors are feeding the AI boom",
+      "https://spectrum.ieee.org/trillion-transistor-gpu"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 14:57:19",
       "https://news.ycombinator.com/item?id=39852407"
     ],
@@ -277,6 +267,16 @@
     [
       "Can Xerox's PARC find new life with SRI?",
       "https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 08:47:00",
+      "https://news.ycombinator.com/item?id=39836797"
+    ],
+    [
+      "Erasure Coding versus Tail Latency",
+      "https://brooker.co.za/blog/2023/01/06/erasure.html"
     ]
   ],
   [
