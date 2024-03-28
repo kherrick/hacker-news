@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 17:12:57](https://news.ycombinator.com/item?id=39854533) - [ECJ rules that four specific safety standards must be freely available](https://curia.europa.eu/juris/document/document.jsf?text=&docid=283443&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6361468)
 * [2024-03-28, 17:01:14](https://news.ycombinator.com/item?id=39854359) - [RankScience (YC W17) is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-03-28, 16:50:59](https://news.ycombinator.com/item?id=39854182) - [NotepadNext – a cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 * [2024-03-28, 16:31:25](https://news.ycombinator.com/item?id=39853843) - [Reading and Writing WAV Files in Python](https://realpython.com/python-wav-files/)
