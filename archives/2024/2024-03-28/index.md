@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
+* [2024-03-28, 21:40:59](https://news.ycombinator.com/item?id=39857680) - [Cloud host Vultr rips user data ownership clause from ToS after web outrage](https://www.theregister.com/2024/03/28/vultr_content_controversy/)
 * [2024-03-28, 21:19:10](https://news.ycombinator.com/item?id=39857433) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 21:01:14](https://news.ycombinator.com/item?id=39857260) - [Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
 * [2024-03-28, 20:48:43](https://news.ycombinator.com/item?id=39857138) - [Chevron owns this city's news site. Some stories aren't told](https://www.npr.org/2024/03/28/1239650727/chevron-fossil-fuel-richmond-standard-california-news)
