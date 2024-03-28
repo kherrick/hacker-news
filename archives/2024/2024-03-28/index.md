@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 09:26:40](https://news.ycombinator.com/item?id=39849126) - [Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)
 * [2024-03-28, 08:29:52](https://news.ycombinator.com/item?id=39848868) - [My Cofounder was diagnosed with cancer, what should I do?](https://news.ycombinator.com/item?id=39848868)
 * [2024-03-28, 08:25:58](https://news.ycombinator.com/item?id=39848847) - [What things are happening in ML that we can't hear oer the din of LLMs?](https://news.ycombinator.com/item?id=39848847)
 * [2024-03-28, 07:44:29](https://news.ycombinator.com/item?id=39848657) - [AI hallucinates software packages and devs download them](https://www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/)
