@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics–if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
+* [2024-03-29, 18:17:19](https://news.ycombinator.com/item?id=39867254) - [Fuchsia 2024 Roadmap](https://fuchsia.dev/fuchsia-src/contribute/roadmap/2024)
 * [2024-03-29, 18:07:54](https://news.ycombinator.com/item?id=39867160) - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
 * [2024-03-29, 17:52:56](https://news.ycombinator.com/item?id=39866977) - [Gemini is a dual-screen e-reader and is coming out soon [video]](https://www.youtube.com/watch?v=FfFaz832pUA)
 * [2024-03-29, 17:13:36](https://news.ycombinator.com/item?id=39866493) - [OpenAI: Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
