@@ -6,6 +6,7 @@
 
 * [2024-03-29, 12:23:09](https://news.ycombinator.com/item?id=39863178) - [Amazon fined in Europe for screwing shoppers with underhand dark patterns](https://www.theregister.com/2024/03/29/amazon_poland_fine/)
 * [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
+* [2024-03-29, 11:17:45](https://news.ycombinator.com/item?id=39862702) - [Thin, bacteria-coated fibers could lead to self-healing concrete](https://theconversation.com/thin-bacteria-coated-fibers-could-lead-to-self-healing-concrete-that-fills-in-its-own-cracks-220190)
 * [2024-03-29, 10:47:15](https://news.ycombinator.com/item?id=39862541) - [SSPL Is Bad](https://ssplisbad.com/)
 * [2024-03-29, 10:44:28](https://news.ycombinator.com/item?id=39862524) - [No equality for working women in any country in the world, study reveals](https://www.theguardian.com/global-development/2024/mar/05/no-equality-for-working-women-in-any-country-in-the-world-study-reveals-world-bank-gender-gap)
 * [2024-03-29, 10:20:55](https://news.ycombinator.com/item?id=39862404) - [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
