@@ -7,6 +7,7 @@
 * [2024-03-29, 12:50:29](https://news.ycombinator.com/item?id=39863445) - [Bartók's Monster – Stalking the dead composer through Transylvania (2013)](https://harpers.org/archive/2013/10/bartoks-monster/)
 * [2024-03-29, 12:47:57](https://news.ycombinator.com/item?id=39863428) - [Ask HN: How do I acquire an overachiever personality like the typical HN user?](https://news.ycombinator.com/item?id=39863428)
 * [2024-03-29, 12:34:33](https://news.ycombinator.com/item?id=39863306) - [Antarctica, Earth's largest refrigerator, is defrosting](https://www.economist.com/interactive/science-and-technology/2024/03/27/antarctica-earths-largest-refrigerator-is-defrosting)
+* [2024-03-29, 12:33:46](https://news.ycombinator.com/item?id=39863298) - [Online Gambling Is Changing Sports for the Worse](https://www.newyorker.com/news/fault-lines/online-gambling-is-changing-sports-for-the-worse)
 * [2024-03-29, 12:23:25](https://news.ycombinator.com/item?id=39863182) - [China's economy is not in a Great Decline but a Great Transition](https://think.ing.com/downloads/pdf/article/china-economy-not-in-a-great-decline-but-in-a-great-transition)
 * [2024-03-29, 12:23:09](https://news.ycombinator.com/item?id=39863178) - [Amazon fined in Europe for screwing shoppers with underhand dark patterns](https://www.theregister.com/2024/03/29/amazon_poland_fine/)
 * [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
