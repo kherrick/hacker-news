@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-29, 16:02:07",
-      "https://news.ycombinator.com/item?id=39865647"
+      "2024-03-29, 16:16:50",
+      "https://news.ycombinator.com/item?id=39865810"
     ],
     [
-      "Colon Cancer Is Rising in Young People: What to Know About Causes and Symptoms",
-      "https://www.nytimes.com/2024/03/27/well/colon-cancer-symptoms-treatment.html"
+      "Backdoor in upstream xz/liblzma leading to SSH server compromise",
+      "https://www.openwall.com/lists/oss-security/2024/03/29/4"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-03-29, 14:07:04",
+      "https://news.ycombinator.com/item?id=39864282"
+    ],
+    [
+      "Detailed maps of offshore wind installations with electrical interconnections",
+      "https://map.4coffshore.com/offshorewind/"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 13:51:50",
       "https://news.ycombinator.com/item?id=39864107"
     ],
@@ -41,42 +51,12 @@
   ],
   [
     [
-      "2024-03-29, 13:38:05",
-      "https://news.ycombinator.com/item?id=39863982"
-    ],
-    [
-      "Ruzzy, a coverage-guided Ruby fuzzer",
-      "https://blog.trailofbits.com/2024/03/29/introducing-ruzzy-a-coverage-guided-ruby-fuzzer/"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 12:50:29",
       "https://news.ycombinator.com/item?id=39863445"
     ],
     [
       "Bartók's Monster – Stalking the dead composer through Transylvania (2013)",
       "https://harpers.org/archive/2013/10/bartoks-monster/"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 11:31:17",
-      "https://news.ycombinator.com/item?id=39862789"
-    ],
-    [
-      "The rise and collapse of the Bulgarian computer [video]",
-      "https://www.youtube.com/watch?v=t-UVPw1c_So"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 11:17:45",
-      "https://news.ycombinator.com/item?id=39862702"
-    ],
-    [
-      "Thin, bacteria-coated fibers could lead to self-healing concrete",
-      "https://theconversation.com/thin-bacteria-coated-fibers-could-lead-to-self-healing-concrete-that-fills-in-its-own-cracks-220190"
     ]
   ],
   [
@@ -131,16 +111,6 @@
   ],
   [
     [
-      "2024-03-29, 02:11:06",
-      "https://news.ycombinator.com/item?id=39859849"
-    ],
-    [
-      "SBCL: The Assembly Code Breadboard",
-      "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 02:03:13",
       "https://news.ycombinator.com/item?id=39859801"
     ],
@@ -157,26 +127,6 @@
     [
       "Monogon: A Linux userland in pure Go",
       "https://github.com/monogon-dev/monogon"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 23:32:29",
-      "https://news.ycombinator.com/item?id=39858750"
-    ],
-    [
-      "Doom Captcha (2021)",
-      "https://vivirenremoto.github.io/doomcaptcha/"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 22:35:39",
-      "https://news.ycombinator.com/item?id=39858219"
-    ],
-    [
-      "Deep Learning in JavaScript",
-      "https://github.com/eduardoleao052/js-torch"
     ]
   ],
   [
@@ -231,6 +181,16 @@
   ],
   [
     [
+      "2024-03-28, 09:12:23",
+      "https://news.ycombinator.com/item?id=39849071"
+    ],
+    [
+      "How fuzz testing was invented (2008)",
+      "https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 08:21:14",
       "https://news.ycombinator.com/item?id=39848828"
     ],
@@ -247,6 +207,16 @@
     [
       "The Call of the Weird",
       "https://www.lrb.co.uk/the-paper/v46/n07/michael-ledger-lomas/the-call-of-the-weird"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 05:01:45",
+      "https://news.ycombinator.com/item?id=39847943"
+    ],
+    [
+      "Why quantum entanglement doesn't allow faster-than-light communication (2016)",
+      "https://www.forbes.com/sites/chadorzel/2016/05/04/the-real-reasons-quantum-entanglement-doesnt-allow-faster-than-light-communication/"
     ]
   ],
   [
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2024-03-27, 16:55:18",
+      "https://news.ycombinator.com/item?id=39841601"
+    ],
+    [
+      "Building the Chesapeake Bay Bridge-Tunnel (2014)",
+      "https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 16:14:06",
       "https://news.ycombinator.com/item?id=39841126"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-03-27, 12:17:11",
+      "https://news.ycombinator.com/item?id=39838046"
+    ],
+    [
+      "Queue System Analysis at Starbucks Stores (2021) [pdf]",
+      "http://ieomsociety.org/proceedings/2021indonesia/361.pdf"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 20:09:24",
       "https://news.ycombinator.com/item?id=39832272"
     ],
     [
       "The Apple Jonathan: A 1980s concept computer that never shipped",
       "https://512pixels.net/2024/03/apple-jonathan-modular-concept/"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 18:14:06",
+      "https://news.ycombinator.com/item?id=39831002"
+    ],
+    [
+      "Topologists Tackle the Trouble with Poll Placement",
+      "https://www.quantamagazine.org/topologists-tackle-the-trouble-with-poll-placement-20240326/"
     ]
   ],
   [
