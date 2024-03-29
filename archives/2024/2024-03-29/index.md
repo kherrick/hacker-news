@@ -15,6 +15,7 @@
 * [2024-03-29, 13:58:17](https://news.ycombinator.com/item?id=39864170) - [James Webb Telescope Confirms That the Universe Is Expanding at Different Speeds](https://www.tomorrowsworldtoday.com/space/james-webb-telescope-to-confirms-that-the-universe-is-expanding-at-different-speeds/)
 * [2024-03-29, 13:51:50](https://news.ycombinator.com/item?id=39864107) - [Fiber-optic data transfer speeds hit a rapid 301 Tbps](https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection)
 * [2024-03-29, 13:51:21](https://news.ycombinator.com/item?id=39864103) - [Bipedal robot takes a beating, keeps on hiking](https://www.freethink.com/robots-ai/bipedal-robot-limx)
+* [2024-03-29, 13:38:05](https://news.ycombinator.com/item?id=39863982) - [Ruzzy, a coverage-guided Ruby fuzzer](https://blog.trailofbits.com/2024/03/29/introducing-ruzzy-a-coverage-guided-ruby-fuzzer/)
 * [2024-03-29, 13:29:29](https://news.ycombinator.com/item?id=39863891) - [How Java Got Started at Sun Microsystems](https://www.youtube.com/watch?v=TfpCFed2Ntw)
 * [2024-03-29, 13:13:12](https://news.ycombinator.com/item?id=39863700) - [Win32 Is the Only Stable ABI on Linux](https://blog.hiler.eu/win32-the-only-stable-abi/)
 * [2024-03-29, 13:11:47](https://news.ycombinator.com/item?id=39863684) - [Ask HN: Projects You Thought Were Cool but Failed Miserably – What Happened?](https://news.ycombinator.com/item?id=39863684)
