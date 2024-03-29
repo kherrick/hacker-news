@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics–if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
 * [2024-03-29, 18:07:54](https://news.ycombinator.com/item?id=39867160) - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
 * [2024-03-29, 17:52:56](https://news.ycombinator.com/item?id=39866977) - [Gemini is a dual-screen e-reader and is coming out soon [video]](https://www.youtube.com/watch?v=FfFaz832pUA)
 * [2024-03-29, 17:13:36](https://news.ycombinator.com/item?id=39866493) - [OpenAI: Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay Networks Based on WebRTC](https://github.com/pojntfx/weron)
+* [2024-03-29, 16:41:12](https://news.ycombinator.com/item?id=39866083) - [Beware Scaling on AWS in Early Days](https://news.ycombinator.com/item?id=39866083)
 * [2024-03-29, 16:39:05](https://news.ycombinator.com/item?id=39866056) - [Germany publishes law that will make E2EE mandatory for messengers and cloud](https://tuta.com/blog/german-government-publishes-encryption-law)
 * [2024-03-29, 16:27:21](https://news.ycombinator.com/item?id=39865941) - [A Note About Vultr's Terms of Service](https://www.vultr.com/news/a-note-about-vultrs-terms-of-service/)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
