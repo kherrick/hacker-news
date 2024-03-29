@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 16:39:05](https://news.ycombinator.com/item?id=39866056) - [Germany publishes law that will make E2EE mandatory for messengers and cloud](https://tuta.com/blog/german-government-publishes-encryption-law)
+* [2024-03-29, 16:27:21](https://news.ycombinator.com/item?id=39865941) - [A Note About Vultr's Terms of Service](https://www.vultr.com/news/a-note-about-vultrs-terms-of-service/)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 16:02:07](https://news.ycombinator.com/item?id=39865647) - [Colon Cancer Is Rising in Young People: What to Know About Causes and Symptoms](https://www.nytimes.com/2024/03/27/well/colon-cancer-symptoms-treatment.html)
 * [2024-03-29, 15:35:38](https://news.ycombinator.com/item?id=39865340) - [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://jasonppy.github.io/VoiceCraft_web/)
