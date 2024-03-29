@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
 * [2024-03-29, 15:04:52](https://news.ycombinator.com/item?id=39864946) - [Too many labs run like this](https://www.science.org/content/blog-post/too-many-labs-run)
+* [2024-03-29, 15:01:17](https://news.ycombinator.com/item?id=39864898) - [U.S. podcast listening reach new high: 47% listened one last month, +12% YoY](https://podnews.net/press-release/infinite-dial-2024)
 * [2024-03-29, 14:35:04](https://news.ycombinator.com/item?id=39864586) - [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)
 * [2024-03-29, 14:18:56](https://news.ycombinator.com/item?id=39864412) - [Group buys up large tracts of land in Romania to create 'European Yellowstone'](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
 * [2024-03-29, 14:17:11](https://news.ycombinator.com/item?id=39864388) - [Doom running in task manager with each CPU core as a pixel](https://boingboing.net/2020/07/20/doom-running-in-task-manager-w.html)
