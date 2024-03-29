@@ -29,6 +29,7 @@
 * [2024-03-26, 18:19:53](https://news.ycombinator.com/item?id=39831085) - [Zoom added a mail feature. Tell me why?](https://twitter.com/allenholub/status/1772674824059695127)
 * [2024-03-26, 18:19:26](https://news.ycombinator.com/item?id=39831074) - [Mathematics for Computer Science – MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 * [2024-03-26, 18:17:51](https://news.ycombinator.com/item?id=39831055) - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
+* [2024-03-26, 18:14:06](https://news.ycombinator.com/item?id=39831002) - [Topologists Tackle the Trouble with Poll Placement](https://www.quantamagazine.org/topologists-tackle-the-trouble-with-poll-placement-20240326/)
 * [2024-03-26, 18:13:56](https://news.ycombinator.com/item?id=39831001) - [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
 * [2024-03-26, 17:56:22](https://news.ycombinator.com/item?id=39830774) - [Engineering Managers Should Not Exist](https://vrosasv.substack.com/p/engineering-managers-should-not-exist)
 * [2024-03-26, 17:52:45](https://news.ycombinator.com/item?id=39830740) - [`async: false` is the worst](https://saltycrackers.dev/posts/bye-bye-async-false/)
