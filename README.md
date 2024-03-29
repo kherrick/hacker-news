@@ -2,6 +2,7 @@
 
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product Search Based on Reddit and YouTube Reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
+* [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
 * [2024-03-29, 18:07:54](https://news.ycombinator.com/item?id=39867160) - [When new hires get paid more, top performers resign first](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
 * [2024-03-29, 17:35:20](https://news.ycombinator.com/item?id=39866795) - [Can Demis Hassabis Save Google?](https://www.bigtechnology.com/p/can-demis-hassabis-save-google)
@@ -22,7 +23,6 @@
 * [2024-03-28, 10:38:07](https://news.ycombinator.com/item?id=39849528) - [Behavioral Programming (2018)](https://lmatteis.github.io/react-behavioral/)
 * [2024-03-28, 09:12:23](https://news.ycombinator.com/item?id=39849071) - [How fuzz testing was invented (2008)](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-03-28, 05:46:38](https://news.ycombinator.com/item?id=39848126) - [The Call of the Weird](https://www.lrb.co.uk/the-paper/v46/n07/michael-ledger-lomas/the-call-of-the-weird)
-* [2024-03-28, 05:01:45](https://news.ycombinator.com/item?id=39847943) - [Why quantum entanglement doesn't allow faster-than-light communication (2016)](https://www.forbes.com/sites/chadorzel/2016/05/04/the-real-reasons-quantum-entanglement-doesnt-allow-faster-than-light-communication/)
 * [2024-03-28, 05:01:17](https://news.ycombinator.com/item?id=39847940) - [Hellandizing (1998)](https://www.multicians.org/thvv/hellandizing.html)
 * [2024-03-27, 20:50:39](https://news.ycombinator.com/item?id=39844439) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 16:55:18](https://news.ycombinator.com/item?id=39841601) - [Building the Chesapeake Bay Bridge-Tunnel (2014)](https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html)
