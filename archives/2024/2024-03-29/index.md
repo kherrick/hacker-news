@@ -6,6 +6,7 @@
 
 * [2024-03-29, 12:50:29](https://news.ycombinator.com/item?id=39863445) - [Bartók's Monster – Stalking the dead composer through Transylvania (2013)](https://harpers.org/archive/2013/10/bartoks-monster/)
 * [2024-03-29, 12:47:57](https://news.ycombinator.com/item?id=39863428) - [Ask HN: How do I acquire an overachiever personality like the typical HN user?](https://news.ycombinator.com/item?id=39863428)
+* [2024-03-29, 12:34:33](https://news.ycombinator.com/item?id=39863306) - [Antarctica, Earth's largest refrigerator, is defrosting](https://www.economist.com/interactive/science-and-technology/2024/03/27/antarctica-earths-largest-refrigerator-is-defrosting)
 * [2024-03-29, 12:23:25](https://news.ycombinator.com/item?id=39863182) - [China's economy is not in a Great Decline but a Great Transition](https://think.ing.com/downloads/pdf/article/china-economy-not-in-a-great-decline-but-in-a-great-transition)
 * [2024-03-29, 12:23:09](https://news.ycombinator.com/item?id=39863178) - [Amazon fined in Europe for screwing shoppers with underhand dark patterns](https://www.theregister.com/2024/03/29/amazon_poland_fine/)
 * [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
@@ -31,6 +32,7 @@
 * [2024-03-29, 03:26:07](https://news.ycombinator.com/item?id=39860365) - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
 * [2024-03-29, 03:12:30](https://news.ycombinator.com/item?id=39860270) - [Equinix: Major Accounting Manipulation, Core Business Decay](https://hindenburgresearch.com/equinix/)
 * [2024-03-29, 02:19:27](https://news.ycombinator.com/item?id=39859913) - [Amazon Bets $150B on Data Centers Required for AI Boom](https://www.bloomberg.com/news/articles/2024-03-28/amazon-bets-150-billion-on-data-centers-required-for-ai-boom)
+* [2024-03-29, 02:11:06](https://news.ycombinator.com/item?id=39859849) - [SBCL: The Assembly Code Breadboard](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 * [2024-03-29, 02:03:44](https://news.ycombinator.com/item?id=39859805) - [Tesla's $25,000 Car Means Tossing Out the 100-Year-Old Assembly Line](https://www.bloomberg.com/news/articles/2024-03-28/tesla-s-tsla-new-unboxed-manufacturing-process-aims-to-cut-costs-50)
 * [2024-03-29, 02:03:13](https://news.ycombinator.com/item?id=39859801) - [Why Mathematics Is Boring](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
 * [2024-03-29, 01:53:13](https://news.ycombinator.com/item?id=39859736) - [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
