@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 10:20:55](https://news.ycombinator.com/item?id=39862404) - [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
 * [2024-03-29, 10:05:50](https://news.ycombinator.com/item?id=39862307) - [Two hundred reasons to not use Azure](https://mastodon.social/@azureshit)
 * [2024-03-29, 09:19:21](https://news.ycombinator.com/item?id=39862042) - [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
 * [2024-03-29, 08:08:54](https://news.ycombinator.com/item?id=39861680) - [PostgreSQL maintainer Simon Riggs has died in a small airplane crash](https://m6n.io/@fuzzychef/112172393647826741)
@@ -19,7 +20,6 @@
 * [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha (2021)](https://vivirenremoto.github.io/doomcaptcha/)
 * [2024-03-28, 22:35:39](https://news.ycombinator.com/item?id=39858219) - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
 * [2024-03-28, 22:27:29](https://news.ycombinator.com/item?id=39858144) - [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
-* [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
 * [2024-03-28, 21:19:10](https://news.ycombinator.com/item?id=39857433) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 * [2024-03-28, 16:36:56](https://news.ycombinator.com/item?id=39853958) - [Jamba: Production-grade Mamba-based AI model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
