@@ -2,9 +2,9 @@
 
 * [2024-03-29, 02:03:13](https://news.ycombinator.com/item?id=39859801) - [Math writing is dull when it neglects the human dimension](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
 * [2024-03-29, 01:18:49](https://news.ycombinator.com/item?id=39859522) - [Faintest known star system orbiting the Milky Way discovered](https://phys.org/news/2024-03-faintest-star-orbiting-milky.html)
+* [2024-03-29, 00:19:05](https://news.ycombinator.com/item?id=39859119) - [Thirty Seven](http://thirty-seven.org/)
 * [2024-03-29, 00:01:03](https://news.ycombinator.com/item?id=39859000) - [The rev.ng decompiler goes open source](https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta)
 * [2024-03-28, 23:54:34](https://news.ycombinator.com/item?id=39858941) - [Is the Sun Conscious? (2021) [pdf]](https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf)
-* [2024-03-28, 23:45:18](https://news.ycombinator.com/item?id=39858852) - [Utah Passes Artificial Intelligence Legislation](https://www.jdsupra.com/legalnews/utah-passes-artificial-intelligence-1386840/)
 * [2024-03-28, 23:44:57](https://news.ycombinator.com/item?id=39858850) - [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
 * [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
 * [2024-03-28, 22:35:39](https://news.ycombinator.com/item?id=39858219) - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)

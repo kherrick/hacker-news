@@ -10,4 +10,5 @@
 * [2024-03-29, 01:53:13](https://news.ycombinator.com/item?id=39859736) - [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
 * [2024-03-29, 01:18:49](https://news.ycombinator.com/item?id=39859522) - [Faintest known star system orbiting the Milky Way discovered](https://phys.org/news/2024-03-faintest-star-orbiting-milky.html)
 * [2024-03-29, 01:10:36](https://news.ycombinator.com/item?id=39859472) - [Reddit shares plunge 25% in two days, finish the week below first day close](https://www.cnbc.com/2024/03/28/reddit-shares-on-a-two-day-tumble-after-post-ipo-high.html)
+* [2024-03-29, 00:19:05](https://news.ycombinator.com/item?id=39859119) - [Thirty Seven](http://thirty-seven.org/)
 * [2024-03-29, 00:01:03](https://news.ycombinator.com/item?id=39859000) - [The rev.ng decompiler goes open source](https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta)
