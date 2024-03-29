@@ -10,6 +10,7 @@
 * [2024-03-29, 20:32:49](https://news.ycombinator.com/item?id=39868700) - [New York City's official AI chatbot is hallucinating incorrect legal advice](https://arstechnica.com/ai/2024/03/nycs-government-chatbot-is-lying-about-city-laws-and-regulations/)
 * [2024-03-29, 20:31:04](https://news.ycombinator.com/item?id=39868679) - [Project Wayfield – The JDK Wayland Desktop on Linux](https://inside.java/2024/03/24/openjdk-wakefield/)
 * [2024-03-29, 20:30:37](https://news.ycombinator.com/item?id=39868673) - [Everything I Know About the XZ Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
+* [2024-03-29, 20:25:55](https://news.ycombinator.com/item?id=39868630) - [Santa Barbara's Collective Memory, Sold for Kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
 * [2024-03-29, 20:22:04](https://news.ycombinator.com/item?id=39868586) - [Do you really need Kubernetes?](https://blog.ekern.me/2024/03/28/do-you-really-need-kubernetes.html)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 * [2024-03-29, 19:30:46](https://news.ycombinator.com/item?id=39868047) - [Arch Linux – News: The xz package has been backdoored](https://archlinux.org/news/the-xz-package-has-been-backdoored/)

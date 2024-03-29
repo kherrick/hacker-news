@@ -2,10 +2,10 @@
 
 * [2024-03-29, 22:18:45](https://news.ycombinator.com/item?id=39869603) - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 * [2024-03-29, 20:31:04](https://news.ycombinator.com/item?id=39868679) - [Project Wayfield – The JDK Wayland Desktop on Linux [video]](https://inside.java/2024/03/24/openjdk-wakefield/)
+* [2024-03-29, 20:25:55](https://news.ycombinator.com/item?id=39868630) - [Santa Barbara's Collective Memory, Sold for Kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
-* [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner blindness](https://en.wikipedia.org/wiki/Banner_blindness)
 * [2024-03-29, 18:52:05](https://news.ycombinator.com/item?id=39867616) - [Porting the GCLC to the Web](https://blog.ubavic.rs/9/)
 * [2024-03-29, 18:45:31](https://news.ycombinator.com/item?id=39867551) - [Qwen1.5-Moe: Matching 7B Model Performance with 1/3 Activated Parameters](https://qwenlm.github.io/blog/qwen-moe/)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
