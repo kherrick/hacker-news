@@ -29,6 +29,7 @@
 * [2024-03-29, 17:31:39](https://news.ycombinator.com/item?id=39866748) - [Google Podcasts service shuts down in the US next week](https://www.bleepingcomputer.com/news/google/google-podcasts-service-shuts-down-in-the-us-next-week/)
 * [2024-03-29, 17:13:36](https://news.ycombinator.com/item?id=39866493) - [OpenAI: Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay Networks Based on WebRTC](https://github.com/pojntfx/weron)
+* [2024-03-29, 16:42:47](https://news.ycombinator.com/item?id=39866111) - [Awk as a major systems programming language, revisited (2018)](http://www.skeeve.com/awk-sys-prog.html)
 * [2024-03-29, 16:41:12](https://news.ycombinator.com/item?id=39866083) - [Beware Scaling on AWS in Early Days](https://news.ycombinator.com/item?id=39866083)
 * [2024-03-29, 16:39:05](https://news.ycombinator.com/item?id=39866056) - [Germany publishes law that will make E2EE mandatory for messengers and cloud](https://tuta.com/blog/german-government-publishes-encryption-law)
 * [2024-03-29, 16:27:21](https://news.ycombinator.com/item?id=39865941) - [A Note About Vultr's Terms of Service](https://www.vultr.com/news/a-note-about-vultrs-terms-of-service/)
