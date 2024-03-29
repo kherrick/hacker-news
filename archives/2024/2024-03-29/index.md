@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
 * [2024-03-29, 10:47:15](https://news.ycombinator.com/item?id=39862541) - [SSPL Is Bad](https://ssplisbad.com/)
 * [2024-03-29, 10:44:28](https://news.ycombinator.com/item?id=39862524) - [No equality for working women in any country in the world, study reveals](https://www.theguardian.com/global-development/2024/mar/05/no-equality-for-working-women-in-any-country-in-the-world-study-reveals-world-bank-gender-gap)
 * [2024-03-29, 10:20:55](https://news.ycombinator.com/item?id=39862404) - [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
