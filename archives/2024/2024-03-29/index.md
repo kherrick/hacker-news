@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 19:23:40](https://news.ycombinator.com/item?id=39867968) - [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product Search Based on Reddit and YouTube Reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
@@ -21,6 +22,7 @@
 * [2024-03-29, 16:39:05](https://news.ycombinator.com/item?id=39866056) - [Germany publishes law that will make E2EE mandatory for messengers and cloud](https://tuta.com/blog/german-government-publishes-encryption-law)
 * [2024-03-29, 16:27:21](https://news.ycombinator.com/item?id=39865941) - [A Note About Vultr's Terms of Service](https://www.vultr.com/news/a-note-about-vultrs-terms-of-service/)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+* [2024-03-29, 16:16:01](https://news.ycombinator.com/item?id=39865796) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-03-29, 16:02:07](https://news.ycombinator.com/item?id=39865647) - [Colon Cancer Is Rising in Young People: What to Know About Causes and Symptoms](https://www.nytimes.com/2024/03/27/well/colon-cancer-symptoms-treatment.html)
 * [2024-03-29, 15:35:38](https://news.ycombinator.com/item?id=39865340) - [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://jasonppy.github.io/VoiceCraft_web/)
 * [2024-03-29, 15:04:52](https://news.ycombinator.com/item?id=39864946) - [Too many labs run like this](https://www.science.org/content/blog-post/too-many-labs-run)

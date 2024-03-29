@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 19:23:40](https://news.ycombinator.com/item?id=39867968) - [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product Search Based on Reddit and YouTube Reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
@@ -8,6 +9,7 @@
 * [2024-03-29, 17:35:20](https://news.ycombinator.com/item?id=39866795) - [Can Demis Hassabis Save Google?](https://www.bigtechnology.com/p/can-demis-hassabis-save-google)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+* [2024-03-29, 16:16:01](https://news.ycombinator.com/item?id=39865796) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-03-29, 14:18:56](https://news.ycombinator.com/item?id=39864412) - [Group buys up large tracts of land in Romania to create 'European Yellowstone'](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
 * [2024-03-29, 14:01:13](https://news.ycombinator.com/item?id=39864210) - [Professor Ross Anderson Died, RIP](https://alecmuffett.com/article/109513)
 * [2024-03-29, 13:51:50](https://news.ycombinator.com/item?id=39864107) - [Fiber-optic data transfer speeds hit a rapid 301 Tbps](https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection)
@@ -16,8 +18,6 @@
 * [2024-03-29, 08:08:54](https://news.ycombinator.com/item?id=39861680) - [Simon Riggs has died](https://m6n.io/@fuzzychef/112172393647826741)
 * [2024-03-29, 07:50:29](https://news.ycombinator.com/item?id=39861578) - [OpenVoice: Versatile instant voice cloning](https://research.myshell.ai/open-voice)
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
-* [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
-* [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha (2021)](https://vivirenremoto.github.io/doomcaptcha/)
 * [2024-03-28, 11:27:45](https://news.ycombinator.com/item?id=39849818) - [Provably Secure DNS: A Case Study in Reliable Software (2013) [pdf]](https://ironsides.martincarlisle.com/ICRST2013.pdf)
 * [2024-03-28, 10:58:34](https://news.ycombinator.com/item?id=39849644) - [Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
 * [2024-03-28, 10:38:07](https://news.ycombinator.com/item?id=39849528) - [Behavioral Programming (2018)](https://lmatteis.github.io/react-behavioral/)
