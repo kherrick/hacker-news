@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 23:29:14](https://news.ycombinator.com/item?id=39870191) - [Suppressing boredom at work hurts future productivity](https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html)
 * [2024-03-29, 22:18:45](https://news.ycombinator.com/item?id=39869603) - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 * [2024-03-29, 21:11:53](https://news.ycombinator.com/item?id=39869068) - [FAQ on the xz-utils backdoor – via a project dev](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27)
 * [2024-03-29, 20:47:07](https://news.ycombinator.com/item?id=39868810) - [Xz format inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)
