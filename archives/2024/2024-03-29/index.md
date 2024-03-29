@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 07:07:05](https://news.ycombinator.com/item?id=39861398) - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-29, 06:56:59](https://news.ycombinator.com/item?id=39861350) - [Money corrupts; Bitcoin corrupts absolutely](https://www.cynicusrex.com/file/cryptocultscience.html)
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)

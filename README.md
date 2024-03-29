@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 07:07:05](https://news.ycombinator.com/item?id=39861398) - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
 * [2024-03-29, 03:49:12](https://news.ycombinator.com/item?id=39860498) - [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
@@ -23,7 +24,6 @@
 * [2024-03-28, 16:50:59](https://news.ycombinator.com/item?id=39854182) - [NotepadNext – a cross-platform reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 * [2024-03-28, 16:36:56](https://news.ycombinator.com/item?id=39853958) - [Jamba: Production-grade Mamba-based AI model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
-* [2024-03-28, 13:18:07](https://news.ycombinator.com/item?id=39850972) - [UV-K5 is the most hackable handheld ham radio yet](https://spectrum.ieee.org/quansheng-uv-k5-hacking)
 * [2024-03-27, 21:58:15](https://news.ycombinator.com/item?id=39845104) - [The CIA's Cold War plan to use stray cats as spies](https://lflank.wordpress.com/2024/03/26/the-cias-cold-war-plan-to-use-stray-cats-as-spies/)
 * [2024-03-27, 21:00:56](https://news.ycombinator.com/item?id=39844532) - [Sunken Ships of the Second World War](https://www.arcgis.com/apps/dashboards/fe88b5e18c6443c7afaf6e32f8432687)
 * [2024-03-27, 17:34:17](https://news.ycombinator.com/item?id=39842156) - [Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share)
