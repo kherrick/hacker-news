@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
 * [2024-03-29, 03:46:29](https://news.ycombinator.com/item?id=39860486) - [Facebook: We install a root CA on the device and MitM all SSL traffic](https://www.documentcloud.org/documents/24514262-discovery-brief-in-facebook-case)
 * [2024-03-29, 03:36:32](https://news.ycombinator.com/item?id=39860427) - [Hay for cattle consumes nearly half the water drawn from Colorado River, study](https://www.latimes.com/environment/story/2024-03-28/alfalfa-hay-beef-water-colorado-river)
