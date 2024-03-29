@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-03-29, 18:07:54",
+      "https://news.ycombinator.com/item?id=39867160"
+    ],
+    [
+      "When New Hires Get Paid More, Top Performers Resign First",
+      "https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 17:52:56",
+      "https://news.ycombinator.com/item?id=39866977"
+    ],
+    [
+      "Gemini is a dual-screen e-reader and is coming out soon [video]",
+      "https://www.youtube.com/watch?v=FfFaz832pUA"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 17:13:36",
       "https://news.ycombinator.com/item?id=39866493"
     ],
     [
-      "OpenAI: Navigating the Challenges and Opportunities of Synthetic Voices",
+      "Navigating the Challenges and Opportunities of Synthetic Voices",
       "https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices"
     ]
   ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39866325"
     ],
     [
-      "Overlay Networks Based on WebRTC",
+      "Overlay networks based on WebRTC",
       "https://github.com/pojntfx/weron"
     ]
   ],
@@ -67,6 +87,16 @@
     [
       "Fiber-optic data transfer speeds hit a rapid 301 Tbps",
       "https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 13:38:05",
+      "https://news.ycombinator.com/item?id=39863982"
+    ],
+    [
+      "Ruzzy, a coverage-guided Ruby fuzzer",
+      "https://blog.trailofbits.com/2024/03/29/introducing-ruzzy-a-coverage-guided-ruby-fuzzer/"
     ]
   ],
   [
@@ -125,28 +155,8 @@
       "https://news.ycombinator.com/item?id=39860365"
     ],
     [
-      "Arraymancer – Deep Learning Nim Library",
+      "Arraymancer – Deep learning Nim library",
       "https://github.com/mratsim/Arraymancer"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 02:03:13",
-      "https://news.ycombinator.com/item?id=39859801"
-    ],
-    [
-      "Math writing is dull when it neglects the human dimension",
-      "https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 23:32:29",
-      "https://news.ycombinator.com/item?id=39858750"
-    ],
-    [
-      "Doom Captcha (2021)",
-      "https://vivirenremoto.github.io/doomcaptcha/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "How fuzz testing was invented (2008)",
       "https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 08:21:14",
-      "https://news.ycombinator.com/item?id=39848828"
-    ],
-    [
-      "Temperature Control Mugs Tested",
-      "https://www.seriouseats.com/best-temperature-control-mugs-5498744"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=39841126"
     ],
     [
-      "Solving Domino Fit Using Constraint Programming",
+      "Solving domino fit using constraint programming",
       "https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39831002"
     ],
     [
-      "Topologists Tackle the Trouble with Poll Placement",
+      "Topologists tackle the trouble with poll placement",
       "https://www.quantamagazine.org/topologists-tackle-the-trouble-with-poll-placement-20240326/"
     ]
   ],
