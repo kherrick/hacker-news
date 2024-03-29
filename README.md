@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 02:19:27](https://news.ycombinator.com/item?id=39859913) - [Amazon Bets $150B on Data Centers Required for AI Boom](https://www.bloomberg.com/news/articles/2024-03-28/amazon-bets-150-billion-on-data-centers-required-for-ai-boom)
 * [2024-03-29, 02:03:44](https://news.ycombinator.com/item?id=39859805) - [Tesla's $25,000 Car Means Tossing Out the 100-Year-Old Assembly Line](https://www.bloomberg.com/news/articles/2024-03-28/tesla-s-tsla-new-unboxed-manufacturing-process-aims-to-cut-costs-50)
 * [2024-03-29, 01:53:13](https://news.ycombinator.com/item?id=39859736) - [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
 * [2024-03-29, 01:18:49](https://news.ycombinator.com/item?id=39859522) - [Faintest known star system orbiting the Milky Way discovered](https://phys.org/news/2024-03-faintest-star-orbiting-milky.html)
@@ -27,7 +28,6 @@
 * [2024-03-28, 14:44:33](https://news.ycombinator.com/item?id=39852219) - [I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
 * [2024-03-28, 14:37:50](https://news.ycombinator.com/item?id=39852118) - [LLMs use a surprisingly simple mechanism to retrieve some stored knowledge](https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325)
 * [2024-03-28, 13:18:07](https://news.ycombinator.com/item?id=39850972) - [UV-K5 is the most hackable handheld ham radio yet](https://spectrum.ieee.org/quansheng-uv-k5-hacking)
-* [2024-03-27, 21:24:36](https://news.ycombinator.com/item?id=39844768) - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
 * [2024-03-27, 17:34:17](https://news.ycombinator.com/item?id=39842156) - [Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share)
 * [2024-03-26, 11:46:02](https://news.ycombinator.com/item?id=39826661) - [Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full)
 

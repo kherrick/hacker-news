@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 02:19:27](https://news.ycombinator.com/item?id=39859913) - [Amazon Bets $150B on Data Centers Required for AI Boom](https://www.bloomberg.com/news/articles/2024-03-28/amazon-bets-150-billion-on-data-centers-required-for-ai-boom)
 * [2024-03-29, 02:03:44](https://news.ycombinator.com/item?id=39859805) - [Tesla's $25,000 Car Means Tossing Out the 100-Year-Old Assembly Line](https://www.bloomberg.com/news/articles/2024-03-28/tesla-s-tsla-new-unboxed-manufacturing-process-aims-to-cut-costs-50)
 * [2024-03-29, 01:53:13](https://news.ycombinator.com/item?id=39859736) - [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
 * [2024-03-29, 01:18:49](https://news.ycombinator.com/item?id=39859522) - [Faintest known star system orbiting the Milky Way discovered](https://phys.org/news/2024-03-faintest-star-orbiting-milky.html)
