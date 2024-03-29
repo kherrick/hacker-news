@@ -17,7 +17,6 @@
 * [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
 * [2024-03-28, 21:29:17](https://news.ycombinator.com/item?id=39857535) - [Traffic jams, AirTags and GPS darts are ways NY, NJ are trying to stop car theft](https://gothamist.com/news/traffic-jams-airtags-and-gps-darts-are-all-ways-ny-nj-police-are-trying-to-stop-car-theft)
 * [2024-03-28, 21:19:10](https://news.ycombinator.com/item?id=39857433) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
-* [2024-03-28, 19:42:21](https://news.ycombinator.com/item?id=39856413) - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
 * [2024-03-28, 18:06:55](https://news.ycombinator.com/item?id=39855285) - [Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 * [2024-03-28, 17:16:32](https://news.ycombinator.com/item?id=39854584) - [Show HN: Spice.ai – materialize, accelerate, and query SQL data from any source](https://github.com/spiceai/spiceai)
@@ -28,6 +27,7 @@
 * [2024-03-27, 21:58:15](https://news.ycombinator.com/item?id=39845104) - [The CIA's Cold War plan to use stray cats as spies](https://lflank.wordpress.com/2024/03/26/the-cias-cold-war-plan-to-use-stray-cats-as-spies/)
 * [2024-03-27, 21:00:56](https://news.ycombinator.com/item?id=39844532) - [Sunken Ships of the Second World War](https://www.arcgis.com/apps/dashboards/fe88b5e18c6443c7afaf6e32f8432687)
 * [2024-03-27, 17:34:17](https://news.ycombinator.com/item?id=39842156) - [Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share)
+* [2024-03-27, 04:57:46](https://news.ycombinator.com/item?id=39835817) - [The Proceedings of the Friesian School, Fourth Series](https://friesian.com)
 * [2024-03-26, 20:09:24](https://news.ycombinator.com/item?id=39832272) - [The Apple Jonathan: A 1980s concept computer that never shipped](https://512pixels.net/2024/03/apple-jonathan-modular-concept/)
 * [2024-03-26, 11:46:02](https://news.ycombinator.com/item?id=39826661) - [Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full)
 

@@ -121,6 +121,7 @@
 * [2024-03-27, 06:34:21](https://news.ycombinator.com/item?id=39836219) - [North Korea TV Censors Alan Titchmarsh's Trousers](https://www.bbc.com/news/world-asia-68664644)
 * [2024-03-27, 06:14:18](https://news.ycombinator.com/item?id=39836124) - [Ask HN: Startup Devs -What's your biggest pain while managing cloud deployments?](https://news.ycombinator.com/item?id=39836124)
 * [2024-03-27, 05:52:34](https://news.ycombinator.com/item?id=39836046) - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
+* [2024-03-27, 04:57:46](https://news.ycombinator.com/item?id=39835817) - [The Proceedings of the Friesian School, Fourth Series](https://friesian.com)
 * [2024-03-27, 04:25:21](https://news.ycombinator.com/item?id=39835704) - [Some of the Most Popular Websites Share Your Data with over 1,500 Companies](https://www.wired.com/story/cookie-pop-up-ad-tech-partner-top-websites/)
 * [2024-03-27, 04:21:22](https://news.ycombinator.com/item?id=39835693) - [Deficiencies in GCC's Code Generator and Optimiser](https://skanthak.hier-im-netz.de/gcc.html)
 * [2024-03-27, 04:08:11](https://news.ycombinator.com/item?id=39835620) - [Australian Digital ID Bill to be passed without debate](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=s1404)
