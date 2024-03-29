@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 * [2024-03-29, 19:30:46](https://news.ycombinator.com/item?id=39868047) - [Arch Linux – News: The xz package has been backdoored](https://archlinux.org/news/the-xz-package-has-been-backdoored/)
 * [2024-03-29, 19:23:40](https://news.ycombinator.com/item?id=39867968) - [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product Search Based on Reddit and YouTube Reviews](https://news.ycombinator.com/item?id=39867757)
@@ -50,6 +51,7 @@
 * [2024-03-29, 12:33:46](https://news.ycombinator.com/item?id=39863298) - [Online Gambling Is Changing Sports for the Worse](https://www.newyorker.com/news/fault-lines/online-gambling-is-changing-sports-for-the-worse)
 * [2024-03-29, 12:23:25](https://news.ycombinator.com/item?id=39863182) - [China's economy is not in a Great Decline but a Great Transition](https://think.ing.com/downloads/pdf/article/china-economy-not-in-a-great-decline-but-in-a-great-transition)
 * [2024-03-29, 12:23:09](https://news.ycombinator.com/item?id=39863178) - [Amazon fined in Europe for screwing shoppers with underhand dark patterns](https://www.theregister.com/2024/03/29/amazon_poland_fine/)
+* [2024-03-29, 12:12:59](https://news.ycombinator.com/item?id=39863086) - [Some Git Poll Results](https://jvns.ca/blog/2024/03/28/git-poll-results/)
 * [2024-03-29, 12:02:16](https://news.ycombinator.com/item?id=39863001) - [Knuth and Plass line-breaking revisited (2007)](https://defoe.sourceforge.net/folio/knuth-plass.html)
 * [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
 * [2024-03-29, 11:50:56](https://news.ycombinator.com/item?id=39862914) - [MáLà Project](https://www.malaproject.com/?goal=0_01cde0de1a-4b64508e4d-332505168&mc_cid=4b64508e4d&mc_eid=e6813d27bc)
