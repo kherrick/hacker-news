@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 08:08:54](https://news.ycombinator.com/item?id=39861680) - [PostgreSQL maintainer Simon Riggs has died in a small airplane crash](https://m6n.io/@fuzzychef/112172393647826741)
 * [2024-03-29, 07:07:05](https://news.ycombinator.com/item?id=39861398) - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
-* [2024-03-29, 03:51:47](https://news.ycombinator.com/item?id=39860509) - [The Chandler Visual Programming Model](https://github.com/EternityForest/KaithemAutomation/wiki/The-Chandler-Visual-Programming-Model)
 * [2024-03-29, 03:49:12](https://news.ycombinator.com/item?id=39860498) - [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
 * [2024-03-29, 03:26:07](https://news.ycombinator.com/item?id=39860365) - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
 * [2024-03-29, 03:12:30](https://news.ycombinator.com/item?id=39860270) - [Equinix: Major Accounting Manipulation, Core Business Decay](https://hindenburgresearch.com/equinix/)
