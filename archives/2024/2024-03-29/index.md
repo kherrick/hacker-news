@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 12:50:29](https://news.ycombinator.com/item?id=39863445) - [Bartók's Monster – Stalking the dead composer through Transylvania (2013)](https://harpers.org/archive/2013/10/bartoks-monster/)
 * [2024-03-29, 12:23:25](https://news.ycombinator.com/item?id=39863182) - [China's economy is not in a Great Decline but a Great Transition](https://think.ing.com/downloads/pdf/article/china-economy-not-in-a-great-decline-but-in-a-great-transition)
 * [2024-03-29, 12:23:09](https://news.ycombinator.com/item?id=39863178) - [Amazon fined in Europe for screwing shoppers with underhand dark patterns](https://www.theregister.com/2024/03/29/amazon_poland_fine/)
 * [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
+* [2024-03-29, 11:25:46](https://news.ycombinator.com/item?id=39862753) - [Plastics Contain Thousands More Chemicals Than Thought, and Most Are Unregulated](https://www.smithsonianmag.com/smart-news/plastics-contain-thousands-more-chemicals-than-thought-and-most-are-unregulated-report-finds-180983967/)
 * [2024-03-29, 11:17:45](https://news.ycombinator.com/item?id=39862702) - [Thin, bacteria-coated fibers could lead to self-healing concrete](https://theconversation.com/thin-bacteria-coated-fibers-could-lead-to-self-healing-concrete-that-fills-in-its-own-cracks-220190)
 * [2024-03-29, 10:47:15](https://news.ycombinator.com/item?id=39862541) - [SSPL Is Bad](https://ssplisbad.com/)
 * [2024-03-29, 10:44:28](https://news.ycombinator.com/item?id=39862524) - [No equality for working women in any country in the world, study reveals](https://www.theguardian.com/global-development/2024/mar/05/no-equality-for-working-women-in-any-country-in-the-world-study-reveals-world-bank-gender-gap)
