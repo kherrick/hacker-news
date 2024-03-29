@@ -8,6 +8,7 @@
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-29, 06:56:59](https://news.ycombinator.com/item?id=39861350) - [Money corrupts; Bitcoin corrupts absolutely](https://www.cynicusrex.com/file/cryptocultscience.html)
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
+* [2024-03-29, 03:51:47](https://news.ycombinator.com/item?id=39860509) - [The Chandler Visual Programming Model](https://github.com/EternityForest/KaithemAutomation/wiki/The-Chandler-Visual-Programming-Model)
 * [2024-03-29, 03:49:12](https://news.ycombinator.com/item?id=39860498) - [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
 * [2024-03-29, 03:46:29](https://news.ycombinator.com/item?id=39860486) - [Facebook: We install a root CA on the device and MitM all SSL traffic](https://www.documentcloud.org/documents/24514262-discovery-brief-in-facebook-case)
 * [2024-03-29, 03:36:32](https://news.ycombinator.com/item?id=39860427) - [Hay for cattle consumes nearly half the water drawn from Colorado River, study](https://www.latimes.com/environment/story/2024-03-28/alfalfa-hay-beef-water-colorado-river)
