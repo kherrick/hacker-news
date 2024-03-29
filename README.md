@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-29, 17:13:36](https://news.ycombinator.com/item?id=39866493) - [OpenAI: Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay Networks Based on WebRTC](https://github.com/pojntfx/weron)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 14:35:04](https://news.ycombinator.com/item?id=39864586) - [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)
@@ -13,9 +12,10 @@
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
 * [2024-03-29, 03:26:07](https://news.ycombinator.com/item?id=39860365) - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
-* [2024-03-29, 02:11:06](https://news.ycombinator.com/item?id=39859849) - [SBCL: The Assembly Code Breadboard](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 * [2024-03-29, 02:03:13](https://news.ycombinator.com/item?id=39859801) - [Math writing is dull when it neglects the human dimension](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
+* [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha (2021)](https://vivirenremoto.github.io/doomcaptcha/)
 * [2024-03-28, 12:33:49](https://news.ycombinator.com/item?id=39850451) - [Trapcc – computing with traps](https://github.com/jbangert/trapcc)
+* [2024-03-28, 11:27:45](https://news.ycombinator.com/item?id=39849818) - [Provably Secure DNS: A Case Study in Reliable Software (2013) [pdf]](https://ironsides.martincarlisle.com/ICRST2013.pdf)
 * [2024-03-28, 10:58:34](https://news.ycombinator.com/item?id=39849644) - [Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
 * [2024-03-28, 10:38:07](https://news.ycombinator.com/item?id=39849528) - [Behavioral Programming (2018)](https://lmatteis.github.io/react-behavioral/)
 * [2024-03-28, 09:12:23](https://news.ycombinator.com/item?id=39849071) - [How fuzz testing was invented (2008)](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
