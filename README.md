@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 20:47:07](https://news.ycombinator.com/item?id=39868810) - [Xz format inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-03-29, 20:31:04](https://news.ycombinator.com/item?id=39868679) - [Project Wayfield – The JDK Wayland Desktop on Linux [video]](https://inside.java/2024/03/24/openjdk-wakefield/)
 * [2024-03-29, 20:30:37](https://news.ycombinator.com/item?id=39868673) - [Everything I Know About the XZ Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
@@ -22,7 +23,6 @@
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-28, 12:22:07](https://news.ycombinator.com/item?id=39850340) - [Mazda's rotary engine in the age of the electric car](https://www.nippon.com/en/in-depth/d00956/)
 * [2024-03-28, 10:58:34](https://news.ycombinator.com/item?id=39849644) - [Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
-* [2024-03-28, 10:38:07](https://news.ycombinator.com/item?id=39849528) - [Behavioral Programming (2018)](https://lmatteis.github.io/react-behavioral/)
 * [2024-03-28, 09:12:23](https://news.ycombinator.com/item?id=39849071) - [How fuzz testing was invented (2008)](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-03-28, 05:46:38](https://news.ycombinator.com/item?id=39848126) - [The Call of the Weird](https://www.lrb.co.uk/the-paper/v46/n07/michael-ledger-lomas/the-call-of-the-weird)
 * [2024-03-28, 05:01:17](https://news.ycombinator.com/item?id=39847940) - [Hellandizing (1998)](https://www.multicians.org/thvv/hellandizing.html)
