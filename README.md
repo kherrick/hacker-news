@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
 * [2024-03-29, 03:26:07](https://news.ycombinator.com/item?id=39860365) - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
 * [2024-03-29, 03:12:30](https://news.ycombinator.com/item?id=39860270) - [Equinix: Major Accounting Manipulation, Core Business Decay](https://hindenburgresearch.com/equinix/)
 * [2024-03-29, 02:03:13](https://news.ycombinator.com/item?id=39859801) - [Math writing is dull when it neglects the human dimension](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
@@ -24,7 +25,6 @@
 * [2024-03-28, 15:48:12](https://news.ycombinator.com/item?id=39852953) - [Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
 * [2024-03-28, 15:41:06](https://news.ycombinator.com/item?id=39852879) - [Ethereum has blobs. Where do we go from here?](https://vitalik.eth.limo/general/2024/03/28/blobs.html)
 * [2024-03-28, 15:37:57](https://news.ycombinator.com/item?id=39852849) - [What do you do if a hacker takes control of your ship? (2023)](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
-* [2024-03-28, 14:57:19](https://news.ycombinator.com/item?id=39852407) - [Show HN: I built a web app to open source travel itineraries](https://tripgeeks.app/community)
 * [2024-03-27, 21:58:15](https://news.ycombinator.com/item?id=39845104) - [The CIA's Cold War plan to use stray cats as spies](https://lflank.wordpress.com/2024/03/26/the-cias-cold-war-plan-to-use-stray-cats-as-spies/)
 * [2024-03-27, 21:00:56](https://news.ycombinator.com/item?id=39844532) - [Sunken Ships of the Second World War](https://www.arcgis.com/apps/dashboards/fe88b5e18c6443c7afaf6e32f8432687)
 * [2024-03-27, 17:34:17](https://news.ycombinator.com/item?id=39842156) - [Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share)
