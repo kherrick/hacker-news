@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 12:23:09](https://news.ycombinator.com/item?id=39863178) - [Amazon fined in Europe for screwing shoppers with underhand dark patterns](https://www.theregister.com/2024/03/29/amazon_poland_fine/)
 * [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
 * [2024-03-29, 10:47:15](https://news.ycombinator.com/item?id=39862541) - [SSPL Is Bad](https://ssplisbad.com/)
 * [2024-03-29, 10:44:28](https://news.ycombinator.com/item?id=39862524) - [No equality for working women in any country in the world, study reveals](https://www.theguardian.com/global-development/2024/mar/05/no-equality-for-working-women-in-any-country-in-the-world-study-reveals-world-bank-gender-gap)
@@ -13,6 +14,7 @@
 * [2024-03-29, 08:08:54](https://news.ycombinator.com/item?id=39861680) - [PostgreSQL maintainer Simon Riggs has died in a small airplane crash](https://m6n.io/@fuzzychef/112172393647826741)
 * [2024-03-29, 07:50:29](https://news.ycombinator.com/item?id=39861578) - [OpenVoice: Versatile Instant Voice Cloning](https://research.myshell.ai/open-voice)
 * [2024-03-29, 07:07:05](https://news.ycombinator.com/item?id=39861398) - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
+* [2024-03-29, 07:05:37](https://news.ycombinator.com/item?id=39861391) - [Maersk names first vessel of its large methanol-enabled fleet \"Ane Maersk\"](https://www.maersk.com/news/articles/2024/01/26/maersk-names-first-vessel-of-its-large-methanol-enabled-fleet-ane-maersk)
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-29, 06:56:59](https://news.ycombinator.com/item?id=39861350) - [Money corrupts; Bitcoin corrupts absolutely](https://www.cynicusrex.com/file/cryptocultscience.html)
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
