@@ -13,7 +13,7 @@
 * [2024-03-28, 22:35:39](https://news.ycombinator.com/item?id=39858219) - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
 * [2024-03-28, 22:27:29](https://news.ycombinator.com/item?id=39858144) - [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
 * [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
-* [2024-03-28, 21:29:17](https://news.ycombinator.com/item?id=39857535) - [Police Are Tagging Fleeing Cars with GPS Darts to Avoid Dangerous Pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
+* [2024-03-28, 21:29:17](https://news.ycombinator.com/item?id=39857535) - [Traffic jams, AirTags and GPS darts are ways NY, NJ are trying to stop car theft](https://gothamist.com/news/traffic-jams-airtags-and-gps-darts-are-all-ways-ny-nj-police-are-trying-to-stop-car-theft)
 * [2024-03-28, 21:19:10](https://news.ycombinator.com/item?id=39857433) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 21:01:14](https://news.ycombinator.com/item?id=39857260) - [Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
 * [2024-03-28, 19:42:21](https://news.ycombinator.com/item?id=39856413) - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
