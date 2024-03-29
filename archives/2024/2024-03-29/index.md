@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 22:18:45](https://news.ycombinator.com/item?id=39869603) - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 * [2024-03-29, 21:11:53](https://news.ycombinator.com/item?id=39869068) - [FAQ on the xz-utils backdoor – via a project dev](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27)
 * [2024-03-29, 20:47:07](https://news.ycombinator.com/item?id=39868810) - [Xz format inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-03-29, 20:32:49](https://news.ycombinator.com/item?id=39868700) - [New York City's official AI chatbot is hallucinating incorrect legal advice](https://arstechnica.com/ai/2024/03/nycs-government-chatbot-is-lying-about-city-laws-and-regulations/)
@@ -36,6 +37,7 @@
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 16:16:01](https://news.ycombinator.com/item?id=39865796) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-03-29, 16:02:07](https://news.ycombinator.com/item?id=39865647) - [Colon Cancer Is Rising in Young People: What to Know About Causes and Symptoms](https://www.nytimes.com/2024/03/27/well/colon-cancer-symptoms-treatment.html)
+* [2024-03-29, 15:45:27](https://news.ycombinator.com/item?id=39865458) - [Ray Marching: Menger Sponge Breakdown](https://connorahaskins.substack.com/p/ray-marching-menger-sponge-breakdown)
 * [2024-03-29, 15:35:38](https://news.ycombinator.com/item?id=39865340) - [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://jasonppy.github.io/VoiceCraft_web/)
 * [2024-03-29, 15:04:52](https://news.ycombinator.com/item?id=39864946) - [Too many labs run like this](https://www.science.org/content/blog-post/too-many-labs-run)
 * [2024-03-29, 15:01:17](https://news.ycombinator.com/item?id=39864898) - [U.S. podcast listening reach new high: 47% listened one last month, +12% YoY](https://podnews.net/press-release/infinite-dial-2024)
