@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 16:02:07](https://news.ycombinator.com/item?id=39865647) - [Colon Cancer Is Rising in Young People: What to Know About Causes and Symptoms](https://www.nytimes.com/2024/03/27/well/colon-cancer-symptoms-treatment.html)
 * [2024-03-29, 15:35:38](https://news.ycombinator.com/item?id=39865340) - [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://jasonppy.github.io/VoiceCraft_web/)
 * [2024-03-29, 15:04:52](https://news.ycombinator.com/item?id=39864946) - [Too many labs run like this](https://www.science.org/content/blog-post/too-many-labs-run)
 * [2024-03-29, 15:01:17](https://news.ycombinator.com/item?id=39864898) - [U.S. podcast listening reach new high: 47% listened one last month, +12% YoY](https://podnews.net/press-release/infinite-dial-2024)
@@ -26,6 +27,7 @@
 * [2024-03-29, 12:23:25](https://news.ycombinator.com/item?id=39863182) - [China's economy is not in a Great Decline but a Great Transition](https://think.ing.com/downloads/pdf/article/china-economy-not-in-a-great-decline-but-in-a-great-transition)
 * [2024-03-29, 12:23:09](https://news.ycombinator.com/item?id=39863178) - [Amazon fined in Europe for screwing shoppers with underhand dark patterns](https://www.theregister.com/2024/03/29/amazon_poland_fine/)
 * [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
+* [2024-03-29, 11:31:17](https://news.ycombinator.com/item?id=39862789) - [The rise and collapse of the Bulgarian computer [video]](https://www.youtube.com/watch?v=t-UVPw1c_So)
 * [2024-03-29, 11:25:46](https://news.ycombinator.com/item?id=39862753) - [Plastics Contain Thousands More Chemicals Than Thought, and Most Are Unregulated](https://www.smithsonianmag.com/smart-news/plastics-contain-thousands-more-chemicals-than-thought-and-most-are-unregulated-report-finds-180983967/)
 * [2024-03-29, 11:17:45](https://news.ycombinator.com/item?id=39862702) - [Thin, bacteria-coated fibers could lead to self-healing concrete](https://theconversation.com/thin-bacteria-coated-fibers-could-lead-to-self-healing-concrete-that-fills-in-its-own-cracks-220190)
 * [2024-03-29, 10:47:15](https://news.ycombinator.com/item?id=39862541) - [SSPL Is Bad](https://ssplisbad.com/)
