@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 21:11:53](https://news.ycombinator.com/item?id=39869068) - [FAQ on the xz-utils backdoor – via a project dev](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27)
 * [2024-03-29, 20:31:04](https://news.ycombinator.com/item?id=39868679) - [Project Wayfield – The JDK Wayland Desktop on Linux [video]](https://inside.java/2024/03/24/openjdk-wakefield/)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 * [2024-03-29, 19:09:28](https://news.ycombinator.com/item?id=39867804) - [Show HN: Appamor.d – Full set of AppArmor profiles (~ 1500 profiles)](https://github.com/roddhjav/apparmor.d)
@@ -27,7 +28,6 @@
 * [2024-03-28, 05:01:17](https://news.ycombinator.com/item?id=39847940) - [Hellandizing (1998)](https://www.multicians.org/thvv/hellandizing.html)
 * [2024-03-27, 20:50:39](https://news.ycombinator.com/item?id=39844439) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 16:55:18](https://news.ycombinator.com/item?id=39841601) - [Building the Chesapeake Bay Bridge-Tunnel (2014)](https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html)
-* [2024-03-27, 16:14:06](https://news.ycombinator.com/item?id=39841126) - [Solving domino fit using constraint programming](https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html)
 * [2024-03-26, 18:14:06](https://news.ycombinator.com/item?id=39831002) - [Topologists tackle the trouble with poll placement](https://www.quantamagazine.org/topologists-tackle-the-trouble-with-poll-placement-20240326/)
 * [2024-03-25, 21:58:21](https://news.ycombinator.com/item?id=39821712) - [A lavish lifestyle strains credibility (1985)](https://www.chicagotribune.com/1985/12/02/a-lavish-lifestyle-strains-credibility/)
 
