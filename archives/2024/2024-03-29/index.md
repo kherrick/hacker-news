@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
 * [2024-03-29, 18:30:04](https://news.ycombinator.com/item?id=39867412) - [How to fix CSV: make it even more U+1F4A9 PILE OF POO](https://www.getgrist.com/blog/how-to-fix-csv-make-it-even-more-💩/)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics–if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
 * [2024-03-29, 18:17:19](https://news.ycombinator.com/item?id=39867254) - [Fuchsia 2024 Roadmap](https://fuchsia.dev/fuchsia-src/contribute/roadmap/2024)
+* [2024-03-29, 18:10:44](https://news.ycombinator.com/item?id=39867185) - [Sholto Douglas and Trenton Bricken – How to Build and Understand GPT-7's Mind](https://www.dwarkeshpatel.com/p/sholto-douglas-trenton-bricken)
 * [2024-03-29, 18:07:54](https://news.ycombinator.com/item?id=39867160) - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
 * [2024-03-29, 17:52:56](https://news.ycombinator.com/item?id=39866977) - [Gemini is a dual-screen e-reader and is coming out soon [video]](https://www.youtube.com/watch?v=FfFaz832pUA)
+* [2024-03-29, 17:35:20](https://news.ycombinator.com/item?id=39866795) - [Can Demis Hassabis Save Google?](https://www.bigtechnology.com/p/can-demis-hassabis-save-google)
+* [2024-03-29, 17:31:39](https://news.ycombinator.com/item?id=39866748) - [Google Podcasts service shuts down in the US next week](https://www.bleepingcomputer.com/news/google/google-podcasts-service-shuts-down-in-the-us-next-week/)
 * [2024-03-29, 17:13:36](https://news.ycombinator.com/item?id=39866493) - [OpenAI: Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay Networks Based on WebRTC](https://github.com/pojntfx/weron)
 * [2024-03-29, 16:41:12](https://news.ycombinator.com/item?id=39866083) - [Beware Scaling on AWS in Early Days](https://news.ycombinator.com/item?id=39866083)
