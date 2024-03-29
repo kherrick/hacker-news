@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 14:35:04](https://news.ycombinator.com/item?id=39864586) - [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)
+* [2024-03-29, 14:18:56](https://news.ycombinator.com/item?id=39864412) - [Group buys up large tracts of land in Romania to create 'European Yellowstone'](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
 * [2024-03-29, 14:17:11](https://news.ycombinator.com/item?id=39864388) - [Doom running in task manager with each CPU core as a pixel](https://boingboing.net/2020/07/20/doom-running-in-task-manager-w.html)
+* [2024-03-29, 14:17:09](https://news.ycombinator.com/item?id=39864387) - [Scientists Put Tardigrade Proteins into Human Cells. Here's What Happened](https://www.sciencealert.com/scientists-put-tardigrade-proteins-into-human-cells-heres-what-happened)
 * [2024-03-29, 13:58:17](https://news.ycombinator.com/item?id=39864170) - [James Webb Telescope Confirms That the Universe Is Expanding at Different Speeds](https://www.tomorrowsworldtoday.com/space/james-webb-telescope-to-confirms-that-the-universe-is-expanding-at-different-speeds/)
 * [2024-03-29, 13:51:50](https://news.ycombinator.com/item?id=39864107) - [Fiber-optic data transfer speeds hit a rapid 301 Tbps](https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection)
 * [2024-03-29, 13:29:29](https://news.ycombinator.com/item?id=39863891) - [How Java Got Started at Sun Microsystems](https://www.youtube.com/watch?v=TfpCFed2Ntw)
 * [2024-03-29, 13:13:12](https://news.ycombinator.com/item?id=39863700) - [Win32 Is the Only Stable ABI on Linux](https://blog.hiler.eu/win32-the-only-stable-abi/)
+* [2024-03-29, 13:11:47](https://news.ycombinator.com/item?id=39863684) - [Ask HN: Projects You Thought Were Cool but Failed Miserably – What Happened?](https://news.ycombinator.com/item?id=39863684)
 * [2024-03-29, 12:50:29](https://news.ycombinator.com/item?id=39863445) - [Bartók's Monster – Stalking the dead composer through Transylvania (2013)](https://harpers.org/archive/2013/10/bartoks-monster/)
 * [2024-03-29, 12:47:57](https://news.ycombinator.com/item?id=39863428) - [Ask HN: How do I acquire an overachiever personality like the typical HN user?](https://news.ycombinator.com/item?id=39863428)
 * [2024-03-29, 12:34:33](https://news.ycombinator.com/item?id=39863306) - [Antarctica, Earth's largest refrigerator, is defrosting](https://www.economist.com/interactive/science-and-technology/2024/03/27/antarctica-earths-largest-refrigerator-is-defrosting)
