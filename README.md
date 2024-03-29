@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-29, 23:29:14](https://news.ycombinator.com/item?id=39870191) - [Suppressing boredom at work hurts future productivity](https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html)
+* [2024-03-29, 22:57:37](https://news.ycombinator.com/item?id=39869931) - [Amazon's palm-scanning service now lets you sign up from your phone](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)
+* [2024-03-29, 22:37:16](https://news.ycombinator.com/item?id=39869777) - [Looking to build a personalized AI for myself. Any resources?](https://news.ycombinator.com/item?id=39869777)
 * [2024-03-29, 22:18:45](https://news.ycombinator.com/item?id=39869603) - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 * [2024-03-29, 20:31:04](https://news.ycombinator.com/item?id=39868679) - [Project Wayfield – The JDK Wayland Desktop on Linux [video]](https://inside.java/2024/03/24/openjdk-wakefield/)
 * [2024-03-29, 20:25:55](https://news.ycombinator.com/item?id=39868630) - [Santa Barbara's Collective Memory, Sold for Kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
@@ -22,14 +24,12 @@
 * [2024-03-29, 11:37:27](https://news.ycombinator.com/item?id=39862828) - [AutoBNN: Probabilistic Time Series Forecasting](https://blog.research.google/2024/03/autobnn-probabilistic-time-series.html?m=1)
 * [2024-03-28, 12:22:07](https://news.ycombinator.com/item?id=39850340) - [Mazda's rotary engine in the age of the electric car](https://www.nippon.com/en/in-depth/d00956/)
 * [2024-03-28, 10:58:34](https://news.ycombinator.com/item?id=39849644) - [Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
-* [2024-03-28, 10:38:07](https://news.ycombinator.com/item?id=39849528) - [Behavioral Programming (2018)](https://lmatteis.github.io/react-behavioral/)
 * [2024-03-28, 09:12:23](https://news.ycombinator.com/item?id=39849071) - [How fuzz testing was invented (2008)](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-03-28, 06:13:00](https://news.ycombinator.com/item?id=39848221) - [Linux ext2 filesystem driver now marked as deprecated](https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/)
 * [2024-03-28, 05:46:38](https://news.ycombinator.com/item?id=39848126) - [The Call of the Weird](https://www.lrb.co.uk/the-paper/v46/n07/michael-ledger-lomas/the-call-of-the-weird)
 * [2024-03-28, 05:01:17](https://news.ycombinator.com/item?id=39847940) - [Hellandizing (1998)](https://www.multicians.org/thvv/hellandizing.html)
 * [2024-03-27, 20:50:39](https://news.ycombinator.com/item?id=39844439) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 16:55:18](https://news.ycombinator.com/item?id=39841601) - [Building the Chesapeake Bay Bridge-Tunnel (2014)](https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html)
-* [2024-03-25, 21:58:21](https://news.ycombinator.com/item?id=39821712) - [A lavish lifestyle strains credibility (1985)](https://www.chicagotribune.com/1985/12/02/a-lavish-lifestyle-strains-credibility/)
 
 ## [Archives](archives/index.md)
 
