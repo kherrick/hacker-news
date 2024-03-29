@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-29, 01:10:36](https://news.ycombinator.com/item?id=39859472) - [Reddit shares plunge 25% in two days, finish the week below first day close](https://www.cnbc.com/2024/03/28/reddit-shares-on-a-two-day-tumble-after-post-ipo-high.html)
+* [2024-03-29, 02:03:44](https://news.ycombinator.com/item?id=39859805) - [Tesla's $25,000 Car Means Tossing Out the 100-Year-Old Assembly Line](https://www.bloomberg.com/news/articles/2024-03-28/tesla-s-tsla-new-unboxed-manufacturing-process-aims-to-cut-costs-50)
+* [2024-03-29, 01:53:13](https://news.ycombinator.com/item?id=39859736) - [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
+* [2024-03-29, 01:18:49](https://news.ycombinator.com/item?id=39859522) - [Faintest known star system orbiting the Milky Way discovered](https://phys.org/news/2024-03-faintest-star-orbiting-milky.html)
 * [2024-03-29, 00:01:03](https://news.ycombinator.com/item?id=39859000) - [The rev.ng decompiler goes open source](https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta)
+* [2024-03-28, 23:54:34](https://news.ycombinator.com/item?id=39858941) - [Is the Sun Conscious? [pdf]](https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf)
 * [2024-03-28, 23:45:18](https://news.ycombinator.com/item?id=39858852) - [Utah Passes Artificial Intelligence Legislation](https://www.jdsupra.com/legalnews/utah-passes-artificial-intelligence-1386840/)
 * [2024-03-28, 23:44:57](https://news.ycombinator.com/item?id=39858850) - [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
 * [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
@@ -10,7 +13,6 @@
 * [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
 * [2024-03-28, 21:19:10](https://news.ycombinator.com/item?id=39857433) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 21:01:14](https://news.ycombinator.com/item?id=39857260) - [Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
-* [2024-03-28, 20:43:14](https://news.ycombinator.com/item?id=39857082) - [Babylon 7.0 Is Out](https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d)
 * [2024-03-28, 19:42:21](https://news.ycombinator.com/item?id=39856413) - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
 * [2024-03-28, 18:06:55](https://news.ycombinator.com/item?id=39855285) - [Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
@@ -23,13 +25,11 @@
 * [2024-03-28, 15:37:57](https://news.ycombinator.com/item?id=39852849) - [What do you do if a hacker takes control of your ship? (2023)](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
 * [2024-03-28, 14:57:19](https://news.ycombinator.com/item?id=39852407) - [Show HN: I built a web app to open source travel itineraries](https://tripgeeks.app/community)
 * [2024-03-28, 14:44:33](https://news.ycombinator.com/item?id=39852219) - [I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
-* [2024-03-28, 14:41:23](https://news.ycombinator.com/item?id=39852167) - [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
 * [2024-03-28, 14:37:50](https://news.ycombinator.com/item?id=39852118) - [LLMs use a surprisingly simple mechanism to retrieve some stored knowledge](https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325)
 * [2024-03-28, 13:18:07](https://news.ycombinator.com/item?id=39850972) - [UV-K5 is the most hackable handheld ham radio yet](https://spectrum.ieee.org/quansheng-uv-k5-hacking)
 * [2024-03-27, 21:24:36](https://news.ycombinator.com/item?id=39844768) - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
 * [2024-03-27, 17:34:17](https://news.ycombinator.com/item?id=39842156) - [Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share)
 * [2024-03-26, 11:46:02](https://news.ycombinator.com/item?id=39826661) - [Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full)
-* [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 
 ## [Archives](archives/index.md)
 

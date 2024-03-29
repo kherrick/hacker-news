@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 23:54:34](https://news.ycombinator.com/item?id=39858941) - [Is the Sun Conscious? [pdf]](https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf)
 * [2024-03-28, 23:45:18](https://news.ycombinator.com/item?id=39858852) - [Utah Passes Artificial Intelligence Legislation](https://www.jdsupra.com/legalnews/utah-passes-artificial-intelligence-1386840/)
 * [2024-03-28, 23:44:57](https://news.ycombinator.com/item?id=39858850) - [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
 * [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
