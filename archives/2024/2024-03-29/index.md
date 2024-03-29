@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 13:51:50](https://news.ycombinator.com/item?id=39864107) - [Fiber-optic data transfer speeds hit a rapid 301 Tbps](https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection)
+* [2024-03-29, 13:29:29](https://news.ycombinator.com/item?id=39863891) - [How Java Got Started at Sun Microsystems](https://www.youtube.com/watch?v=TfpCFed2Ntw)
 * [2024-03-29, 12:50:29](https://news.ycombinator.com/item?id=39863445) - [Bartók's Monster – Stalking the dead composer through Transylvania (2013)](https://harpers.org/archive/2013/10/bartoks-monster/)
 * [2024-03-29, 12:47:57](https://news.ycombinator.com/item?id=39863428) - [Ask HN: How do I acquire an overachiever personality like the typical HN user?](https://news.ycombinator.com/item?id=39863428)
 * [2024-03-29, 12:34:33](https://news.ycombinator.com/item?id=39863306) - [Antarctica, Earth's largest refrigerator, is defrosting](https://www.economist.com/interactive/science-and-technology/2024/03/27/antarctica-earths-largest-refrigerator-is-defrosting)
