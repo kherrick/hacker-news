@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 13:58:17](https://news.ycombinator.com/item?id=39864170) - [James Webb Telescope Confirms That the Universe Is Expanding at Different Speeds](https://www.tomorrowsworldtoday.com/space/james-webb-telescope-to-confirms-that-the-universe-is-expanding-at-different-speeds/)
 * [2024-03-29, 13:51:50](https://news.ycombinator.com/item?id=39864107) - [Fiber-optic data transfer speeds hit a rapid 301 Tbps](https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection)
-* [2024-03-29, 13:13:12](https://news.ycombinator.com/item?id=39863700) - [Win32 Is the Only Stable ABI on Linux](https://blog.hiler.eu/win32-the-only-stable-abi/)
 * [2024-03-29, 12:50:29](https://news.ycombinator.com/item?id=39863445) - [Bartók's Monster – Stalking the dead composer through Transylvania (2013)](https://harpers.org/archive/2013/10/bartoks-monster/)
-* [2024-03-29, 11:53:16](https://news.ycombinator.com/item?id=39862931) - [School absences have ‘exploded’ almost everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
 * [2024-03-29, 11:17:45](https://news.ycombinator.com/item?id=39862702) - [Thin, bacteria-coated fibers could lead to self-healing concrete](https://theconversation.com/thin-bacteria-coated-fibers-could-lead-to-self-healing-concrete-that-fills-in-its-own-cracks-220190)
 * [2024-03-29, 08:08:54](https://news.ycombinator.com/item?id=39861680) - [Simon Riggs has died](https://m6n.io/@fuzzychef/112172393647826741)
 * [2024-03-29, 07:50:29](https://news.ycombinator.com/item?id=39861578) - [OpenVoice: Versatile Instant Voice Cloning](https://research.myshell.ai/open-voice)
@@ -22,6 +21,7 @@
 * [2024-03-28, 22:35:39](https://news.ycombinator.com/item?id=39858219) - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
 * [2024-03-28, 22:27:29](https://news.ycombinator.com/item?id=39858144) - [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
 * [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
+* [2024-03-28, 18:06:55](https://news.ycombinator.com/item?id=39855285) - [Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 * [2024-03-28, 16:36:56](https://news.ycombinator.com/item?id=39853958) - [Jamba: Production-grade Mamba-based AI model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
