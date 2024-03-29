@@ -66,6 +66,7 @@
 * [2024-03-26, 12:06:42](https://news.ycombinator.com/item?id=39826820) - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 * [2024-03-26, 12:00:18](https://news.ycombinator.com/item?id=39826770) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
 * [2024-03-26, 11:46:02](https://news.ycombinator.com/item?id=39826661) - [Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full)
+* [2024-03-26, 11:32:05](https://news.ycombinator.com/item?id=39826552) - [Chocolate and the Hawaiian Dream Comes True](https://worldsensorium.com/chocolate-and-the-hawaiian-dream-comes-true/)
 * [2024-03-26, 11:27:41](https://news.ycombinator.com/item?id=39826521) - [Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 * [2024-03-26, 11:19:53](https://news.ycombinator.com/item?id=39826463) - [OpenAI Sora's first short film – \"Air Head,\" created by shy kids [video]](https://www.youtube.com/watch?v=yplb0yBEiRo)
 * [2024-03-26, 10:55:49](https://news.ycombinator.com/item?id=39826315) - [Show HN: WhatTheDuck – open-source, in-browser SQL on CSV files](https://github.com/incentius-foss/WhatTheDuck)

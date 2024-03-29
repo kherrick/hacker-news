@@ -5,7 +5,6 @@
 * [2024-03-29, 07:07:05](https://news.ycombinator.com/item?id=39861398) - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
-* [2024-03-29, 03:51:47](https://news.ycombinator.com/item?id=39860509) - [The Chandler Visual Programming Model](https://github.com/EternityForest/KaithemAutomation/wiki/The-Chandler-Visual-Programming-Model)
 * [2024-03-29, 03:49:12](https://news.ycombinator.com/item?id=39860498) - [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
 * [2024-03-29, 03:26:07](https://news.ycombinator.com/item?id=39860365) - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
 * [2024-03-29, 03:12:30](https://news.ycombinator.com/item?id=39860270) - [Equinix: Major Accounting Manipulation, Core Business Decay](https://hindenburgresearch.com/equinix/)
@@ -30,6 +29,7 @@
 * [2024-03-27, 04:57:46](https://news.ycombinator.com/item?id=39835817) - [The Proceedings of the Friesian School, Fourth Series](https://friesian.com)
 * [2024-03-26, 20:09:24](https://news.ycombinator.com/item?id=39832272) - [The Apple Jonathan: A 1980s concept computer that never shipped](https://512pixels.net/2024/03/apple-jonathan-modular-concept/)
 * [2024-03-26, 11:46:02](https://news.ycombinator.com/item?id=39826661) - [Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full)
+* [2024-03-26, 11:32:05](https://news.ycombinator.com/item?id=39826552) - [Chocolate and the Hawaiian Dream Comes True](https://worldsensorium.com/chocolate-and-the-hawaiian-dream-comes-true/)
 
 ## [Archives](archives/index.md)
 
