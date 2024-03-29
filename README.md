@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-29, 20:31:04](https://news.ycombinator.com/item?id=39868679) - [Project Wayfield – The JDK Wayland Desktop on Linux [video]](https://inside.java/2024/03/24/openjdk-wakefield/)
+* [2024-03-29, 20:30:37](https://news.ycombinator.com/item?id=39868673) - [Everything I Know About the XZ Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
-* [2024-03-29, 19:09:28](https://news.ycombinator.com/item?id=39867804) - [Show HN: Appamor.d – Full set of AppArmor profiles (~ 1500 profiles)](https://github.com/roddhjav/apparmor.d)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner blindness](https://en.wikipedia.org/wiki/Banner_blindness)
@@ -16,6 +16,7 @@
 * [2024-03-29, 14:01:13](https://news.ycombinator.com/item?id=39864210) - [Ross Anderson has died](https://alecmuffett.com/article/109513)
 * [2024-03-29, 12:50:29](https://news.ycombinator.com/item?id=39863445) - [Bartók's Monster – Stalking the dead composer through Transylvania (2013)](https://harpers.org/archive/2013/10/bartoks-monster/)
 * [2024-03-29, 12:02:16](https://news.ycombinator.com/item?id=39863001) - [Knuth and Plass line-breaking revisited (2007)](https://defoe.sourceforge.net/folio/knuth-plass.html)
+* [2024-03-29, 11:37:27](https://news.ycombinator.com/item?id=39862828) - [AutoBNN: Probabilistic Time Series Forecasting](https://blog.research.google/2024/03/autobnn-probabilistic-time-series.html?m=1)
 * [2024-03-29, 07:52:12](https://news.ycombinator.com/item?id=39861589) - [The First Cat War](https://birdhistory.substack.com/p/the-first-cat-war)
 * [2024-03-29, 07:50:29](https://news.ycombinator.com/item?id=39861578) - [OpenVoice: Versatile instant voice cloning](https://research.myshell.ai/open-voice)
 * [2024-03-29, 07:00:52](https://news.ycombinator.com/item?id=39861367) - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
@@ -27,7 +28,6 @@
 * [2024-03-28, 05:01:17](https://news.ycombinator.com/item?id=39847940) - [Hellandizing (1998)](https://www.multicians.org/thvv/hellandizing.html)
 * [2024-03-27, 20:50:39](https://news.ycombinator.com/item?id=39844439) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 16:55:18](https://news.ycombinator.com/item?id=39841601) - [Building the Chesapeake Bay Bridge-Tunnel (2014)](https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html)
-* [2024-03-27, 16:14:06](https://news.ycombinator.com/item?id=39841126) - [Solving domino fit using constraint programming](https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html)
 * [2024-03-26, 18:14:06](https://news.ycombinator.com/item?id=39831002) - [Topologists tackle the trouble with poll placement](https://www.quantamagazine.org/topologists-tackle-the-trouble-with-poll-placement-20240326/)
 * [2024-03-25, 21:58:21](https://news.ycombinator.com/item?id=39821712) - [A lavish lifestyle strains credibility (1985)](https://www.chicagotribune.com/1985/12/02/a-lavish-lifestyle-strains-credibility/)
 
