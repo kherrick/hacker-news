@@ -14,6 +14,7 @@
 * [2024-03-29, 10:05:50](https://news.ycombinator.com/item?id=39862307) - [Two hundred reasons to not use Azure](https://mastodon.social/@azureshit)
 * [2024-03-29, 09:19:21](https://news.ycombinator.com/item?id=39862042) - [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
 * [2024-03-29, 08:08:54](https://news.ycombinator.com/item?id=39861680) - [PostgreSQL maintainer Simon Riggs has died in a small airplane crash](https://m6n.io/@fuzzychef/112172393647826741)
+* [2024-03-29, 07:52:40](https://news.ycombinator.com/item?id=39861593) - [Ask HN: What's the simplest static website generator?](https://news.ycombinator.com/item?id=39861593)
 * [2024-03-29, 07:50:29](https://news.ycombinator.com/item?id=39861578) - [OpenVoice: Versatile Instant Voice Cloning](https://research.myshell.ai/open-voice)
 * [2024-03-29, 07:07:05](https://news.ycombinator.com/item?id=39861398) - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 07:05:37](https://news.ycombinator.com/item?id=39861391) - [Maersk names first vessel of its large methanol-enabled fleet \"Ane Maersk\"](https://www.maersk.com/news/articles/2024/01/26/maersk-names-first-vessel-of-its-large-methanol-enabled-fleet-ane-maersk)
