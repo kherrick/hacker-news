@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 10:47:15](https://news.ycombinator.com/item?id=39862541) - [SSPL Is Bad](https://ssplisbad.com/)
+* [2024-03-29, 10:44:28](https://news.ycombinator.com/item?id=39862524) - [No equality for working women in any country in the world, study reveals](https://www.theguardian.com/global-development/2024/mar/05/no-equality-for-working-women-in-any-country-in-the-world-study-reveals-world-bank-gender-gap)
 * [2024-03-29, 10:20:55](https://news.ycombinator.com/item?id=39862404) - [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
 * [2024-03-29, 10:05:50](https://news.ycombinator.com/item?id=39862307) - [Two hundred reasons to not use Azure](https://mastodon.social/@azureshit)
 * [2024-03-29, 09:19:21](https://news.ycombinator.com/item?id=39862042) - [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
@@ -10,7 +12,6 @@
 * [2024-03-29, 04:38:00](https://news.ycombinator.com/item?id=39860769) - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
 * [2024-03-29, 03:49:12](https://news.ycombinator.com/item?id=39860498) - [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
 * [2024-03-29, 03:26:07](https://news.ycombinator.com/item?id=39860365) - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
-* [2024-03-29, 03:12:30](https://news.ycombinator.com/item?id=39860270) - [Equinix: Major Accounting Manipulation, Core Business Decay](https://hindenburgresearch.com/equinix/)
 * [2024-03-29, 02:03:13](https://news.ycombinator.com/item?id=39859801) - [Math writing is dull when it neglects the human dimension](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
 * [2024-03-29, 01:48:44](https://news.ycombinator.com/item?id=39859710) - [Monogon: A Linux userland in pure Go](https://github.com/monogon-dev/monogon)
 * [2024-03-29, 00:19:05](https://news.ycombinator.com/item?id=39859119) - [Thirty Seven](http://thirty-seven.org/)
@@ -22,14 +23,13 @@
 * [2024-03-28, 22:27:29](https://news.ycombinator.com/item?id=39858144) - [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
 * [2024-03-28, 21:19:10](https://news.ycombinator.com/item?id=39857433) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 17:39:17](https://news.ycombinator.com/item?id=39854921) - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
-* [2024-03-28, 16:36:56](https://news.ycombinator.com/item?id=39853958) - [Jamba: Production-grade Mamba-based AI model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
 * [2024-03-28, 16:14:16](https://news.ycombinator.com/item?id=39853474) - [Launch HN: Eggnog (YC W24) – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
-* [2024-03-28, 13:18:07](https://news.ycombinator.com/item?id=39850972) - [UV-K5 is the most hackable handheld ham radio yet](https://spectrum.ieee.org/quansheng-uv-k5-hacking)
 * [2024-03-27, 21:58:15](https://news.ycombinator.com/item?id=39845104) - [The CIA's Cold War plan to use stray cats as spies](https://lflank.wordpress.com/2024/03/26/the-cias-cold-war-plan-to-use-stray-cats-as-spies/)
 * [2024-03-27, 21:00:56](https://news.ycombinator.com/item?id=39844532) - [Sunken Ships of the Second World War](https://www.arcgis.com/apps/dashboards/fe88b5e18c6443c7afaf6e32f8432687)
 * [2024-03-27, 04:57:46](https://news.ycombinator.com/item?id=39835817) - [The Proceedings of the Friesian School, Fourth Series](https://friesian.com)
 * [2024-03-26, 20:09:24](https://news.ycombinator.com/item?id=39832272) - [The Apple Jonathan: A 1980s concept computer that never shipped](https://512pixels.net/2024/03/apple-jonathan-modular-concept/)
 * [2024-03-26, 11:32:05](https://news.ycombinator.com/item?id=39826552) - [Chocolate and the Hawaiian Dream Comes True](https://worldsensorium.com/chocolate-and-the-hawaiian-dream-comes-true/)
+* [2024-03-25, 21:58:21](https://news.ycombinator.com/item?id=39821712) - [Takis Veliotis - A Lavish Lifestyle Strains Credibility (1985)](https://www.chicagotribune.com/1985/12/02/a-lavish-lifestyle-strains-credibility/)
 
 ## [Archives](archives/index.md)
 

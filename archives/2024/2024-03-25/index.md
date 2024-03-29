@@ -12,6 +12,7 @@
 * [2024-03-25, 23:00:39](https://news.ycombinator.com/item?id=39822221) - [How Couples Meet](https://web.stanford.edu/~mrosenfe/Rosenfeld_how_hetero_couples_met_through2021v4.JPG)
 * [2024-03-25, 22:56:37](https://news.ycombinator.com/item?id=39822184) - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:19:53](https://news.ycombinator.com/item?id=39821868) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+* [2024-03-25, 21:58:21](https://news.ycombinator.com/item?id=39821712) - [Takis Veliotis - A Lavish Lifestyle Strains Credibility (1985)](https://www.chicagotribune.com/1985/12/02/a-lavish-lifestyle-strains-credibility/)
 * [2024-03-25, 21:49:32](https://news.ycombinator.com/item?id=39821632) - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
 * [2024-03-25, 21:49:22](https://news.ycombinator.com/item?id=39821629) - [In B-Flat](http://www.inbflat.net/)
 * [2024-03-25, 21:46:36](https://news.ycombinator.com/item?id=39821606) - [United States Cyber Force: A Defense Imperative](https://www.fdd.org/analysis/2024/03/25/united-states-cyber-force/)
