@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product Search Based on Reddit and YouTube Reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
 * [2024-03-29, 18:30:04](https://news.ycombinator.com/item?id=39867412) - [How to fix CSV: make it even more U+1F4A9 PILE OF POO](https://www.getgrist.com/blog/how-to-fix-csv-make-it-even-more-💩/)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics–if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
