@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 18:30:04](https://news.ycombinator.com/item?id=39867412) - [How to fix CSV: make it even more U+1F4A9 PILE OF POO](https://www.getgrist.com/blog/how-to-fix-csv-make-it-even-more-💩/)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
 * [2024-03-29, 18:17:19](https://news.ycombinator.com/item?id=39867254) - [Fuchsia 2024 Roadmap](https://fuchsia.dev/fuchsia-src/contribute/roadmap/2024)
 * [2024-03-29, 18:07:54](https://news.ycombinator.com/item?id=39867160) - [When new hires get paid more, top performers resign first](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
-* [2024-03-29, 17:13:36](https://news.ycombinator.com/item?id=39866493) - [Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 14:35:04](https://news.ycombinator.com/item?id=39864586) - [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)

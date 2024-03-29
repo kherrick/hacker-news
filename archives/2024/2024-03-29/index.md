@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 18:30:04](https://news.ycombinator.com/item?id=39867412) - [How to fix CSV: make it even more U+1F4A9 PILE OF POO](https://www.getgrist.com/blog/how-to-fix-csv-make-it-even-more-💩/)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics–if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
 * [2024-03-29, 18:17:19](https://news.ycombinator.com/item?id=39867254) - [Fuchsia 2024 Roadmap](https://fuchsia.dev/fuchsia-src/contribute/roadmap/2024)
 * [2024-03-29, 18:07:54](https://news.ycombinator.com/item?id=39867160) - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
