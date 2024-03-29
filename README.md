@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 19:30:46](https://news.ycombinator.com/item?id=39868047) - [Arch Linux – News: The xz package has been backdoored](https://archlinux.org/news/the-xz-package-has-been-backdoored/)
 * [2024-03-29, 19:23:40](https://news.ycombinator.com/item?id=39867968) - [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product Search Based on Reddit and YouTube Reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
@@ -9,7 +10,6 @@
 * [2024-03-29, 17:35:20](https://news.ycombinator.com/item?id=39866795) - [Can Demis Hassabis Save Google?](https://www.bigtechnology.com/p/can-demis-hassabis-save-google)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
-* [2024-03-29, 16:16:01](https://news.ycombinator.com/item?id=39865796) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-03-29, 14:18:56](https://news.ycombinator.com/item?id=39864412) - [Group buys up large tracts of land in Romania to create 'European Yellowstone'](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
 * [2024-03-29, 14:01:13](https://news.ycombinator.com/item?id=39864210) - [Professor Ross Anderson Died, RIP](https://alecmuffett.com/article/109513)
 * [2024-03-29, 13:51:50](https://news.ycombinator.com/item?id=39864107) - [Fiber-optic data transfer speeds hit a rapid 301 Tbps](https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection)
