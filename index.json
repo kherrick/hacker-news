@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-29, 17:13:36",
-      "https://news.ycombinator.com/item?id=39866493"
-    ],
-    [
-      "OpenAI: Navigating the Challenges and Opportunities of Synthetic Voices",
-      "https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 17:00:07",
       "https://news.ycombinator.com/item?id=39866325"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2024-03-29, 02:11:06",
-      "https://news.ycombinator.com/item?id=39859849"
-    ],
-    [
-      "SBCL: The Assembly Code Breadboard",
-      "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 02:03:13",
       "https://news.ycombinator.com/item?id=39859801"
     ],
@@ -151,12 +131,32 @@
   ],
   [
     [
+      "2024-03-28, 23:32:29",
+      "https://news.ycombinator.com/item?id=39858750"
+    ],
+    [
+      "Doom Captcha (2021)",
+      "https://vivirenremoto.github.io/doomcaptcha/"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 12:33:49",
       "https://news.ycombinator.com/item?id=39850451"
     ],
     [
       "Trapcc – computing with traps",
       "https://github.com/jbangert/trapcc"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 11:27:45",
+      "https://news.ycombinator.com/item?id=39849818"
+    ],
+    [
+      "Provably Secure DNS: A Case Study in Reliable Software (2013) [pdf]",
+      "https://ironsides.martincarlisle.com/ICRST2013.pdf"
     ]
   ],
   [
