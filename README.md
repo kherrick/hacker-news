@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-29, 01:10:36](https://news.ycombinator.com/item?id=39859472) - [Reddit shares plunge 25% in two days, finish the week below first day close](https://www.cnbc.com/2024/03/28/reddit-shares-on-a-two-day-tumble-after-post-ipo-high.html)
 * [2024-03-29, 00:01:03](https://news.ycombinator.com/item?id=39859000) - [The rev.ng decompiler goes open source](https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta)
 * [2024-03-28, 23:45:18](https://news.ycombinator.com/item?id=39858852) - [Utah Passes Artificial Intelligence Legislation](https://www.jdsupra.com/legalnews/utah-passes-artificial-intelligence-1386840/)
 * [2024-03-28, 23:44:57](https://news.ycombinator.com/item?id=39858850) - [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
 * [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
-* [2024-03-28, 22:50:09](https://news.ycombinator.com/item?id=39858361) - [A Camel Through the Eye of a Needle, and Other Wild Tales of Translation (2018)](https://stantlitore.com/2018/06/01/a-camel-through-the-eye-of-a-needle-and-other-wild-tales-of-translation/)
 * [2024-03-28, 22:35:39](https://news.ycombinator.com/item?id=39858219) - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
 * [2024-03-28, 22:27:29](https://news.ycombinator.com/item?id=39858144) - [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
 * [2024-03-28, 21:55:58](https://news.ycombinator.com/item?id=39857837) - [Why are so many people being hit with £5 fines for 'counterfeit' stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
