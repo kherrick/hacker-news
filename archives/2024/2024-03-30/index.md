@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 17:05:42](https://news.ycombinator.com/item?id=39876565) - [AT&T confirms data breach and resets customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
+* [2024-03-30, 17:00:09](https://news.ycombinator.com/item?id=39876517) - [Hadrius (YC W23) – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+* [2024-03-30, 16:51:57](https://news.ycombinator.com/item?id=39876447) - [Benchmarking LLMs against human expert-curated biomedical knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2667318524000023)
+* [2024-03-30, 16:04:53](https://news.ycombinator.com/item?id=39876114) - [Mamba Explained](https://thegradient.pub/mamba-explained/)
 * [2024-03-30, 15:43:12](https://news.ycombinator.com/item?id=39875922) - [AT&T Says Data from 73M Accounts Leaked on Dark Web](https://www.bloomberg.com/news/articles/2024-03-30/at-t-t-says-data-from-73-million-accounts-leaked-on-dark-web)
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
 * [2024-03-30, 15:27:20](https://news.ycombinator.com/item?id=39875738) - [Map of US Foreign Assistance](https://www.foreignassistance.gov/)
@@ -19,6 +23,7 @@
 * [2024-03-30, 14:29:22](https://news.ycombinator.com/item?id=39875225) - [Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes](https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283)
 * [2024-03-30, 14:26:00](https://news.ycombinator.com/item?id=39875198) - [How the Atlantic Went from Broke to Profitable in Three Years](https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18)
 * [2024-03-30, 14:09:37](https://news.ycombinator.com/item?id=39875053) - [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
+* [2024-03-30, 13:56:45](https://news.ycombinator.com/item?id=39874931) - [IrfanView](https://www.irfanview.com/)
 * [2024-03-30, 13:18:12](https://news.ycombinator.com/item?id=39874583) - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
 * [2024-03-30, 13:05:15](https://news.ycombinator.com/item?id=39874494) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 13:05:01](https://news.ycombinator.com/item?id=39874490) - [Return-to-Office Mandates: How to Lose Your Best Performers](https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/)
