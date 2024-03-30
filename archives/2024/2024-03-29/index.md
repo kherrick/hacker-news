@@ -22,6 +22,7 @@
 * [2024-03-29, 20:25:55](https://news.ycombinator.com/item?id=39868630) - [Santa Barbara's Collective Memory, Sold for Kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
 * [2024-03-29, 20:22:04](https://news.ycombinator.com/item?id=39868586) - [Do you really need Kubernetes?](https://blog.ekern.me/2024/03/28/do-you-really-need-kubernetes.html)
 * [2024-03-29, 20:12:57](https://news.ycombinator.com/item?id=39868504) - [Radicle: Peer-to-Peer Collaboration with Git](https://lwn.net/SubscriberLink/966869/4077c682c91ab5ab/)
+* [2024-03-29, 20:01:10](https://news.ycombinator.com/item?id=39868378) - [Ways of Seeing by John Berger](https://www.ways-of-seeing.com/)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 * [2024-03-29, 19:30:46](https://news.ycombinator.com/item?id=39868047) - [Arch Linux – News: The xz package has been backdoored](https://archlinux.org/news/the-xz-package-has-been-backdoored/)
 * [2024-03-29, 19:23:40](https://news.ycombinator.com/item?id=39867968) - [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
