@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-03-30, 08:53:19",
+      "https://news.ycombinator.com/item?id=39873037"
+    ],
+    [
+      "Rustic UI: Crafting the Future of UX",
+      "https://blog.dragonscale.ai/rustic-ui-crafting-the-future-of-ux/"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 08:48:34",
+      "https://news.ycombinator.com/item?id=39873011"
+    ],
+    [
+      "Debian on xz-utils: revert to version that does not contain changes by bad actor",
+      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 08:29:22",
       "https://news.ycombinator.com/item?id=39872938"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2024-03-29, 18:18:03",
-      "https://news.ycombinator.com/item?id=39867270"
-    ],
-    [
-      "A muon collider could revolutionize particle physics, if it can be built",
-      "https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 17:00:07",
       "https://news.ycombinator.com/item?id=39866325"
     ],
     [
       "Overlay networks based on WebRTC",
       "https://github.com/pojntfx/weron"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 16:42:47",
-      "https://news.ycombinator.com/item?id=39866111"
-    ],
-    [
-      "Awk as a major systems programming language, revisited (2018)",
-      "http://www.skeeve.com/awk-sys-prog.html"
     ]
   ],
   [
