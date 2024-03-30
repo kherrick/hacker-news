@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
+* [2024-03-30, 09:35:05](https://news.ycombinator.com/item?id=39873262) - [Missouri AG sues Media Matters over its X research, demands donor names](https://arstechnica.com/tech-policy/2024/03/missouri-ag-sues-media-matters-in-lawsuit-echoing-elon-musks-complaints/)
 * [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox's media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
 * [2024-03-30, 08:53:19](https://news.ycombinator.com/item?id=39873037) - [Rustic UI: Crafting the Future of UX](https://blog.dragonscale.ai/rustic-ui-crafting-the-future-of-ux/)
 * [2024-03-30, 08:48:34](https://news.ycombinator.com/item?id=39873011) - [Debian on xz-utils: revert to version that does not contain changes by bad actor](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024)
@@ -24,6 +26,7 @@
 * [2024-03-30, 02:28:43](https://news.ycombinator.com/item?id=39871295) - [Police Are Tagging Fleeing Cars with GPS Darts to Avoid Dangerous Pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
 * [2024-03-30, 02:13:53](https://news.ycombinator.com/item?id=39871215) - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 * [2024-03-30, 02:07:48](https://news.ycombinator.com/item?id=39871186) - [Paint.net](https://www.getpaint.net/)
+* [2024-03-30, 01:53:02](https://news.ycombinator.com/item?id=39871104) - [Gravitational waves may have made human life possible](https://phys.org/news/2024-03-gravitational-human-life.html)
 * [2024-03-30, 01:25:39](https://news.ycombinator.com/item?id=39870959) - [Building the first highway segment in the U.S. that can charge electric vehicles](https://www.purdue.edu/newsroom/releases/2024/Q1/building-the-first-highway-segment-in-the-u.s-that-can-charge-electric-vehicles-big-and-small-as-they-drive.html)
 * [2024-03-30, 01:21:14](https://news.ycombinator.com/item?id=39870929) - [GPU4FS: A filesystem runs on GPU to accelerate data access](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
 * [2024-03-30, 01:20:31](https://news.ycombinator.com/item?id=39870926) - [History of JavaScript Interop in Dart](https://medium.com/dartlang/history-of-js-interop-in-dart-98b06991158f)
