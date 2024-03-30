@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 14:59:25](https://news.ycombinator.com/item?id=39875485) - [1 in every 13 bridges in America is in 'poor' condition](https://www.cnn.com/2024/03/30/business/americas-bridges-climate-infrastructure/index.html)
 * [2024-03-30, 14:26:00](https://news.ycombinator.com/item?id=39875198) - [How the Atlantic Went from Broke to Profitable in Three Years](https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18)
 * [2024-03-30, 14:09:37](https://news.ycombinator.com/item?id=39875053) - [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
 * [2024-03-30, 13:18:12](https://news.ycombinator.com/item?id=39874583) - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
@@ -13,6 +14,7 @@
 * [2024-03-30, 12:56:03](https://news.ycombinator.com/item?id=39874404) - [Xz: Can you spot the single character that disabled Linux landlock?](https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d)
 * [2024-03-30, 12:41:35](https://news.ycombinator.com/item?id=39874303) - [The Ken Thompson Hack](https://wiki.c2.com/?TheKenThompsonHack)
 * [2024-03-30, 12:32:47](https://news.ycombinator.com/item?id=39874224) - [Invalid SMILES are beneficial rather than detrimental to chemical lang models](https://www.nature.com/articles/s42256-024-00821-x)
+* [2024-03-30, 12:29:13](https://news.ycombinator.com/item?id=39874201) - [Ask HN: How to secure website for public launch](https://news.ycombinator.com/item?id=39874201)
 * [2024-03-30, 12:20:24](https://news.ycombinator.com/item?id=39874144) - [Robotic police dog shot, credited with averting bloodshed](https://www.theguardian.com/us-news/2024/mar/28/massachusetts-robotic-police-dog-shot)
 * [2024-03-30, 12:06:01](https://news.ycombinator.com/item?id=39874066) - [Brilliant Pebbles](https://www.llnl.gov/archives/1980s/brilliant-pebbles)
 * [2024-03-30, 11:58:41](https://news.ycombinator.com/item?id=39874017) - [X confirms plans for NSFW Communities](https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/)
@@ -48,6 +50,7 @@
 * [2024-03-30, 04:49:47](https://news.ycombinator.com/item?id=39871914) - [Xz format inadequate for long-term archiving (2022-02-02)](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-03-30, 04:49:45](https://news.ycombinator.com/item?id=39871913) - [Bpfman: An eBPF Manager](https://bpfman.io/main/)
 * [2024-03-30, 04:43:28](https://news.ycombinator.com/item?id=39871887) - [British water company dumps sewage, claims \"no right to swim in the sea\"](https://inews.co.uk/news/environment/public-no-right-swim-sea-firm-dumped-sewage-2981778)
+* [2024-03-30, 04:20:34](https://news.ycombinator.com/item?id=39871804) - [My laptop is faster than your Elastic cluster](https://haybatov.com/blog/saved-searches/)
 * [2024-03-30, 04:06:50](https://news.ycombinator.com/item?id=39871749) - [GitHub Disabled the Xz Repo](https://pony.social/@cadey/112182224209533198)
 * [2024-03-30, 03:54:42](https://news.ycombinator.com/item?id=39871704) - [Tesla starts using 'Supervised Full Self-Driving' language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
 * [2024-03-30, 03:35:18](https://news.ycombinator.com/item?id=39871632) - [A Seemingly Fake Person Was Running OpenAI's $175M Startup Fund](https://www.businessinsider.com/who-is-running-openais-startup-fund-2024-3)
