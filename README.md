@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 21:27:36](https://news.ycombinator.com/item?id=39878841) - [See, this is why I retired early from software engineering](https://twitter.com/Devon_Eriksen_/status/1774094415235092494)
 * [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 * [2024-03-30, 20:29:02](https://news.ycombinator.com/item?id=39878317) - [NetBSD 10.0 Released](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 20:25:09](https://news.ycombinator.com/item?id=39878275) - ['Shear sound waves' provide the magic for linking ultrasound and magnetic waves](https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html)
@@ -16,7 +17,6 @@
 * [2024-03-30, 17:18:06](https://news.ycombinator.com/item?id=39876676) - [Unlocking the NES (For Former Dawn) (2022)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
 * [2024-03-30, 17:04:45](https://news.ycombinator.com/item?id=39876555) - [AT&T confirms data for 73M customers leaked on hacker forum](https://www.bleepingcomputer.com/news/security/atandt-confirms-data-for-73-million-customers-leaked-on-hacker-forum/)
 * [2024-03-30, 17:00:09](https://news.ycombinator.com/item?id=39876517) - [Hadrius (YC W23) – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-* [2024-03-30, 16:51:57](https://news.ycombinator.com/item?id=39876447) - [Benchmarking LLMs against human expert-curated biomedical knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2667318524000023)
 * [2024-03-30, 16:04:53](https://news.ycombinator.com/item?id=39876114) - [Mamba Explained](https://thegradient.pub/mamba-explained/)
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
 * [2024-03-30, 14:57:51](https://news.ycombinator.com/item?id=39875473) - [DeWitt and Stonebraker's \"MapReduce: A major step backwards\" (2009)](http://craig-henderson.blogspot.com/2009/11/dewitt-and-stonebrakers-mapreduce-major.html)
