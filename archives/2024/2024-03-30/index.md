@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 03:54:42](https://news.ycombinator.com/item?id=39871704) - [Tesla starts using 'Supervised Full Self-Driving' language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
+* [2024-03-30, 03:35:18](https://news.ycombinator.com/item?id=39871632) - [A Seemingly Fake Person Was Running OpenAI's $175M Startup Fund](https://www.businessinsider.com/who-is-running-openais-startup-fund-2024-3)
 * [2024-03-30, 02:40:51](https://news.ycombinator.com/item?id=39871357) - [Zuckerberg personally ok'ed wiretapping both Amazon and YouTube [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.369872/gov.uscourts.cand.369872.736.0.pdf)
 * [2024-03-30, 02:28:43](https://news.ycombinator.com/item?id=39871295) - [Police Are Tagging Fleeing Cars with GPS Darts to Avoid Dangerous Pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
 * [2024-03-30, 02:07:48](https://news.ycombinator.com/item?id=39871186) - [Paint.net](https://www.getpaint.net/)
