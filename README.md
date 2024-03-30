@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 05:46:05](https://news.ycombinator.com/item?id=39872165) - [America's Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
 * [2024-03-30, 05:31:18](https://news.ycombinator.com/item?id=39872109) - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
 * [2024-03-30, 05:30:11](https://news.ycombinator.com/item?id=39872102) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
 * [2024-03-30, 04:43:28](https://news.ycombinator.com/item?id=39871887) - [British water company dumps sewage, claims \"no right to swim in the sea\"](https://inews.co.uk/news/environment/public-no-right-swim-sea-firm-dumped-sewage-2981778)
@@ -21,7 +22,6 @@
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 14:01:13](https://news.ycombinator.com/item?id=39864210) - [Ross Anderson has died](https://alecmuffett.com/article/109513)
 * [2024-03-29, 12:02:16](https://news.ycombinator.com/item?id=39863001) - [Knuth and Plass line-breaking revisited (2007)](https://defoe.sourceforge.net/folio/knuth-plass.html)
-* [2024-03-28, 23:32:29](https://news.ycombinator.com/item?id=39858750) - [Doom Captcha (2021)](https://vivirenremoto.github.io/doomcaptcha/)
 * [2024-03-28, 12:22:07](https://news.ycombinator.com/item?id=39850340) - [Mazda's rotary engine in the age of the electric car](https://www.nippon.com/en/in-depth/d00956/)
 * [2024-03-28, 10:58:34](https://news.ycombinator.com/item?id=39849644) - [Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
 * [2024-03-28, 09:12:23](https://news.ycombinator.com/item?id=39849071) - [How fuzz testing was invented (2008)](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
