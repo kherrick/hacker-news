@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 15:16:51](https://news.ycombinator.com/item?id=39875643) - [Tesla engineers don't have engineering degrees or even common sense apparently](https://twitter.com/InverseTheCons/status/1773175478867632162)
+* [2024-03-30, 15:07:26](https://news.ycombinator.com/item?id=39875553) - [The Reasonable Effectiveness of Using Old Phones as Servers](https://jarbus.net/blog/phone-server/)
 * [2024-03-30, 14:59:25](https://news.ycombinator.com/item?id=39875485) - [1 in every 13 bridges in America is in 'poor' condition](https://www.cnn.com/2024/03/30/business/americas-bridges-climate-infrastructure/index.html)
+* [2024-03-30, 14:56:50](https://news.ycombinator.com/item?id=39875464) - [Fully countering trusting trust through diverse double-compiling (2005)](https://arxiv.org/abs/1004.5534)
+* [2024-03-30, 14:51:31](https://news.ycombinator.com/item?id=39875430) - [Easy-to-use make-me-root exploit lands for recent Linux kernels. Get patching](https://www.theregister.com/2024/03/29/linux_kernel_flaw/)
+* [2024-03-30, 14:45:30](https://news.ycombinator.com/item?id=39875374) - [Ask HN: Anybody Using Htmx on the Job?](https://news.ycombinator.com/item?id=39875374)
 * [2024-03-30, 14:26:00](https://news.ycombinator.com/item?id=39875198) - [How the Atlantic Went from Broke to Profitable in Three Years](https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18)
 * [2024-03-30, 14:09:37](https://news.ycombinator.com/item?id=39875053) - [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
 * [2024-03-30, 13:18:12](https://news.ycombinator.com/item?id=39874583) - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
