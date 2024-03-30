@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 15:43:12](https://news.ycombinator.com/item?id=39875922) - [AT&T Says Data from 73M Accounts Leaked on Dark Web](https://www.bloomberg.com/news/articles/2024-03-30/at-t-t-says-data-from-73-million-accounts-leaked-on-dark-web)
 * [2024-03-30, 15:16:51](https://news.ycombinator.com/item?id=39875643) - [Tesla engineers don't have engineering degrees or even common sense apparently](https://twitter.com/InverseTheCons/status/1773175478867632162)
 * [2024-03-30, 15:07:26](https://news.ycombinator.com/item?id=39875553) - [The Reasonable Effectiveness of Using Old Phones as Servers](https://jarbus.net/blog/phone-server/)
 * [2024-03-30, 14:59:25](https://news.ycombinator.com/item?id=39875485) - [1 in every 13 bridges in America is in 'poor' condition](https://www.cnn.com/2024/03/30/business/americas-bridges-climate-infrastructure/index.html)

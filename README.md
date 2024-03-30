@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-30, 15:07:26](https://news.ycombinator.com/item?id=39875553) - [The Reasonable Effectiveness of Using Old Phones as Servers](https://jarbus.net/blog/phone-server/)
+* [2024-03-30, 15:43:12](https://news.ycombinator.com/item?id=39875922) - [AT&T Says Data from 73M Accounts Leaked on Dark Web](https://www.bloomberg.com/news/articles/2024-03-30/at-t-t-says-data-from-73-million-accounts-leaked-on-dark-web)
 * [2024-03-30, 14:45:30](https://news.ycombinator.com/item?id=39875374) - [Ask HN: Anybody Using Htmx on the Job?](https://news.ycombinator.com/item?id=39875374)
 * [2024-03-30, 14:26:00](https://news.ycombinator.com/item?id=39875198) - [How the Atlantic Went from Broke to Profitable in Three Years](https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18)
+* [2024-03-30, 14:09:37](https://news.ycombinator.com/item?id=39875053) - [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
 * [2024-03-30, 13:18:12](https://news.ycombinator.com/item?id=39874583) - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
-* [2024-03-30, 13:05:15](https://news.ycombinator.com/item?id=39874494) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 12:41:35](https://news.ycombinator.com/item?id=39874303) - [The Ken Thompson Hack](https://wiki.c2.com/?TheKenThompsonHack)
 * [2024-03-30, 12:29:13](https://news.ycombinator.com/item?id=39874201) - [Ask HN: How to secure website for public launch](https://news.ycombinator.com/item?id=39874201)
 * [2024-03-30, 12:06:01](https://news.ycombinator.com/item?id=39874066) - [Brilliant Pebbles (2001)](https://www.llnl.gov/archives/1980s/brilliant-pebbles)
