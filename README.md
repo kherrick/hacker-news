@@ -21,7 +21,7 @@
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
 * [2024-03-30, 14:57:51](https://news.ycombinator.com/item?id=39875473) - [DeWitt and Stonebraker's \"MapReduce: A major step backwards\" (2009)](http://craig-henderson.blogspot.com/2009/11/dewitt-and-stonebrakers-mapreduce-major.html)
 * [2024-03-30, 13:56:45](https://news.ycombinator.com/item?id=39874931) - [IrfanView](https://www.irfanview.com/)
-* [2024-03-30, 11:42:34](https://news.ycombinator.com/item?id=39873909) - [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
+* [2024-03-30, 12:56:03](https://news.ycombinator.com/item?id=39874404) - [Xz: Can you spot the single character that disabled Linux landlock?](https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 * [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
