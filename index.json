@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 17:08:08",
+      "https://news.ycombinator.com/item?id=39876590"
+    ],
+    [
+      "Type Inference Was a Mistake",
+      "https://borretti.me/article/type-inference-was-a-mistake"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 17:05:42",
       "https://news.ycombinator.com/item?id=39876565"
     ],
@@ -27,6 +37,26 @@
     [
       "Benchmarking LLMs against human expert-curated biomedical knowledge graphs",
       "https://www.sciencedirect.com/science/article/pii/S2667318524000023"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 16:39:30",
+      "https://news.ycombinator.com/item?id=39876374"
+    ],
+    [
+      "Marissa Mayer's Startup",
+      "https://techcrunch.com/2024/03/27/marissa-mayers-startup-just-rolled-out-apps-for-group-photo-sharing-and-event-planning-and-the-internet-isnt-sure-what-to-think/"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 16:31:25",
+      "https://news.ycombinator.com/item?id=39876320"
+    ],
+    [
+      "Personal 'invisibility shield' goes on sale, starting under $70",
+      "https://newatlas.com/good-thinking/invisibility-shield-2/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2024-03-30, 03:35:13",
-      "https://news.ycombinator.com/item?id=39871630"
-    ],
-    [
-      "How do I get started with Jax on TPU VMs",
-      "https://github.com/shawwn/website/blob/master/jaxtpu.md"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 02:07:48",
       "https://news.ycombinator.com/item?id=39871186"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-03-28, 12:22:07",
-      "https://news.ycombinator.com/item?id=39850340"
-    ],
-    [
-      "Mazda’s rotary engine in the age of the electric car",
-      "https://www.nippon.com/en/in-depth/d00956/"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 10:58:34",
       "https://news.ycombinator.com/item?id=39849644"
     ],
     [
       "Towards 1-bit Machine Learning Models",
       "https://mobiusml.github.io/1bit_blog/"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 06:13:00",
-      "https://news.ycombinator.com/item?id=39848221"
-    ],
-    [
-      "Linux ext2 filesystem driver now marked as deprecated",
-      "https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/"
     ]
   ],
   [
