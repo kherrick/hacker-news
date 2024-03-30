@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 04:06:50](https://news.ycombinator.com/item?id=39871749) - [GitHub Disabled the Xz Repo](https://pony.social/@cadey/112182224209533198)
 * [2024-03-30, 03:54:42](https://news.ycombinator.com/item?id=39871704) - [Tesla starts using 'Supervised Full Self-Driving' language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
 * [2024-03-30, 03:35:18](https://news.ycombinator.com/item?id=39871632) - [A Seemingly Fake Person Was Running OpenAI's $175M Startup Fund](https://www.businessinsider.com/who-is-running-openais-startup-fund-2024-3)
 * [2024-03-30, 02:28:43](https://news.ycombinator.com/item?id=39871295) - [Police are tagging fleeing cars with GPS darts to avoid dangerous pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
@@ -8,7 +9,6 @@
 * [2024-03-30, 01:17:19](https://news.ycombinator.com/item?id=39870902) - [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
 * [2024-03-29, 23:50:01](https://news.ycombinator.com/item?id=39870312) - [Engineers find a new way to convert carbon dioxide into useful products](https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327)
 * [2024-03-29, 22:19:42](https://news.ycombinator.com/item?id=39869614) - [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
-* [2024-03-29, 22:18:45](https://news.ycombinator.com/item?id=39869603) - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 * [2024-03-29, 20:25:55](https://news.ycombinator.com/item?id=39868630) - [Santa Barbara's collective memory, sold for kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)

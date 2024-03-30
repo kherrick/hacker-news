@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 04:06:50](https://news.ycombinator.com/item?id=39871749) - [GitHub Disabled the Xz Repo](https://pony.social/@cadey/112182224209533198)
 * [2024-03-30, 03:54:42](https://news.ycombinator.com/item?id=39871704) - [Tesla starts using 'Supervised Full Self-Driving' language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
 * [2024-03-30, 03:35:18](https://news.ycombinator.com/item?id=39871632) - [A Seemingly Fake Person Was Running OpenAI's $175M Startup Fund](https://www.businessinsider.com/who-is-running-openais-startup-fund-2024-3)
 * [2024-03-30, 02:40:51](https://news.ycombinator.com/item?id=39871357) - [Zuckerberg personally ok'ed wiretapping both Amazon and YouTube [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.369872/gov.uscourts.cand.369872.736.0.pdf)
