@@ -22,6 +22,7 @@
 * [2024-03-25, 21:14:25](https://news.ycombinator.com/item?id=39821335) - [Fisker Trading Suspended by NYSE](https://techcrunch.com/2024/03/25/fisker-trading-suspended-by-nyse/)
 * [2024-03-25, 21:01:11](https://news.ycombinator.com/item?id=39821224) - [As AI booms, land near nuclear power plants becomes hot real estate](https://www.theregister.com/2024/03/25/ai_boom_nuclear/)
 * [2024-03-25, 20:58:05](https://news.ycombinator.com/item?id=39821196) - [Building an email-to-calendar LLM](https://ngacho.com/blog/emaillm/)
+* [2024-03-25, 20:32:03](https://news.ycombinator.com/item?id=39820961) - [Landlines are dying out. But to some, they're a lifeline](https://www.washingtonpost.com/technology/2024/03/23/landline-emergencies-home-phones/)
 * [2024-03-25, 20:26:51](https://news.ycombinator.com/item?id=39820911) - [Vast Archive of Rare Japanese Textbooks Now Online to Explore Free](https://mymodernmet.com/historic-japanese-textbooks-online/)
 * [2024-03-25, 20:23:20](https://news.ycombinator.com/item?id=39820872) - [Madison County, MS spends $2.7M to train comptroller about phishing, IT security](http://kingfish1935.blogspot.com/2024/03/madison-county-scammed-out-of-27-million.html)
 * [2024-03-25, 20:09:14](https://news.ycombinator.com/item?id=39820731) - [Cream is thicker than blood: the rise and fall of the Devon split](https://www.vittlesmagazine.com/p/cream-is-thicker-than-blood-the-rise)

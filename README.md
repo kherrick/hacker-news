@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 18:25:44](https://news.ycombinator.com/item?id=39877327) - [Contributing to Postgres 101: A Beginner's Experience](https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience)
 * [2024-03-30, 18:20:35](https://news.ycombinator.com/item?id=39877276) - [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
 * [2024-03-30, 18:19:18](https://news.ycombinator.com/item?id=39877267) - [XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
 * [2024-03-30, 17:59:51](https://news.ycombinator.com/item?id=39877077) - [The federal government promised to plant two billion trees. How's that going?](https://www.cbc.ca/newsinteractives/features/two-billion-trees)
@@ -15,7 +16,6 @@
 * [2024-03-30, 14:29:22](https://news.ycombinator.com/item?id=39875225) - [Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes](https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283)
 * [2024-03-30, 13:56:45](https://news.ycombinator.com/item?id=39874931) - [IrfanView](https://www.irfanview.com/)
 * [2024-03-30, 13:18:12](https://news.ycombinator.com/item?id=39874583) - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
-* [2024-03-30, 12:41:35](https://news.ycombinator.com/item?id=39874303) - [The Ken Thompson Hack](https://wiki.c2.com/?TheKenThompsonHack)
 * [2024-03-30, 12:06:01](https://news.ycombinator.com/item?id=39874066) - [Brilliant Pebbles (2001)](https://www.llnl.gov/archives/1980s/brilliant-pebbles)
 * [2024-03-30, 11:42:34](https://news.ycombinator.com/item?id=39873909) - [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
@@ -29,7 +29,7 @@
 * [2024-03-30, 01:21:14](https://news.ycombinator.com/item?id=39870929) - [Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
 * [2024-03-30, 00:49:30](https://news.ycombinator.com/item?id=39870717) - [Figurative Representations in the North European Neolithic–Are They There?](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/figurative-representations-in-the-north-european-neolithicare-they-there/1907EFA10388E86A93E41C366C280133)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
-* [2024-03-26, 21:58:53](https://news.ycombinator.com/item?id=39833337) - [A proposal for a novel acoustic crystal with continuous changes in elasticity](https://phys.org/news/2024-03-team-acoustic-crystal-smooth-elastic.html)
+* [2024-03-25, 20:32:03](https://news.ycombinator.com/item?id=39820961) - [Landlines are dying out. But to some, they're a lifeline](https://www.washingtonpost.com/technology/2024/03/23/landline-emergencies-home-phones/)
 
 ## [Archives](archives/index.md)
 
