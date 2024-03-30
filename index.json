@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-03-30, 10:23:10",
-      "https://news.ycombinator.com/item?id=39873483"
-    ],
-    [
-      "Scotland's hateful hate-crime law",
-      "https://unherd.com/2024/03/scotlands-hateful-hate-crime-law/"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 10:09:36",
       "https://news.ycombinator.com/item?id=39873422"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39873167"
     ],
     [
-      "White space killed an enterprise app",
+      "White space killed an enterprise app (2019)",
       "https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a?gi=f8010877f37d"
     ]
   ],
@@ -137,16 +127,6 @@
     [
       "Bpfman: An eBPF Manager",
       "https://bpfman.io/main/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 04:06:50",
-      "https://news.ycombinator.com/item?id=39871749"
-    ],
-    [
-      "GitHub Disabled the Xz Repo",
-      "https://pony.social/@cadey/112182224209533198"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2024-03-28, 12:22:07",
+      "https://news.ycombinator.com/item?id=39850340"
+    ],
+    [
+      "Mazda's rotary engine in the age of the electric car",
+      "https://www.nippon.com/en/in-depth/d00956/"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 10:58:34",
       "https://news.ycombinator.com/item?id=39849644"
     ],
     [
       "Towards 1-bit Machine Learning Models",
       "https://mobiusml.github.io/1bit_blog/"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 06:13:00",
+      "https://news.ycombinator.com/item?id=39848221"
+    ],
+    [
+      "Linux ext2 filesystem driver now marked as deprecated",
+      "https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/"
     ]
   ],
   [
