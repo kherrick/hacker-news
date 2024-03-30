@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 10:09:36",
+      "https://news.ycombinator.com/item?id=39873422"
+    ],
+    [
+      "Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library",
+      "https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 09:36:53",
       "https://news.ycombinator.com/item?id=39873272"
     ],
@@ -87,16 +97,6 @@
     [
       "TSMC was founded by Morris Chang when he was 55 years old",
       "https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 04:49:47",
-      "https://news.ycombinator.com/item?id=39871914"
-    ],
-    [
-      "Xz format inadequate for long-term archiving (2022-02-02)",
-      "https://www.nongnu.org/lzip/xz_inadequate.html"
     ]
   ],
   [
