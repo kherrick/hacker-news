@@ -9,6 +9,7 @@
 * [2024-03-26, 22:49:31](https://news.ycombinator.com/item?id=39833716) - [How SMS Fraud Works and How to Guard Against It (2023)](https://technicallythinking.substack.com/p/how-sms-fraud-works-and-how-to-guard-against-it)
 * [2024-03-26, 22:21:08](https://news.ycombinator.com/item?id=39833512) - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 * [2024-03-26, 22:06:35](https://news.ycombinator.com/item?id=39833403) - [Sudo-rs dependencies: when less is better](https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better)
+* [2024-03-26, 21:58:53](https://news.ycombinator.com/item?id=39833337) - [A proposal for a novel acoustic crystal with continuous changes in elasticity](https://phys.org/news/2024-03-team-acoustic-crystal-smooth-elastic.html)
 * [2024-03-26, 21:56:16](https://news.ycombinator.com/item?id=39833321) - [Write OpenAPI with TypeSpec](https://blog.trl.sn/blog/typespec-for-openapi/)
 * [2024-03-26, 21:37:35](https://news.ycombinator.com/item?id=39833161) - [Show HN: A game to memorize the major scale patterns on the guitar](https://www.fretboardfly.com/play/FBG-301)
 * [2024-03-26, 21:26:29](https://news.ycombinator.com/item?id=39833060) - [A Look into Java 22's New Features and Security Enhancements](https://coderoasis.com/java-22-is-released/)
