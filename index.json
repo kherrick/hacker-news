@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-30, 15:27:20",
-      "https://news.ycombinator.com/item?id=39875738"
-    ],
-    [
-      "Map of US Foreign Assistance",
-      "https://www.foreignassistance.gov/"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 14:57:51",
       "https://news.ycombinator.com/item?id=39875473"
     ],
@@ -57,16 +47,6 @@
     [
       "Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes",
       "https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 14:09:37",
-      "https://news.ycombinator.com/item?id=39875053"
-    ],
-    [
-      "US appeals court kills ban on plastic containers contaminated with PFAS",
-      "https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2024-03-30, 02:13:53",
+      "https://news.ycombinator.com/item?id=39871215"
+    ],
+    [
+      "Why Has Figma Reinvented the Wheel with PostgreSQL?",
+      "https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 02:07:48",
       "https://news.ycombinator.com/item?id=39871186"
     ],
@@ -217,6 +207,16 @@
     [
       "Full-scale file system acceleration on GPU [pdf]",
       "https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 19:49:51",
+      "https://news.ycombinator.com/item?id=39868254"
+    ],
+    [
+      "EEG channels with low-cost PiEEG device",
+      "https://pieeg.com/"
     ]
   ],
   [
