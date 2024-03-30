@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 14:09:37](https://news.ycombinator.com/item?id=39875053) - [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
 * [2024-03-30, 13:18:12](https://news.ycombinator.com/item?id=39874583) - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
 * [2024-03-30, 13:05:01](https://news.ycombinator.com/item?id=39874490) - [Return-to-Office Mandates: How to Lose Your Best Performers](https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/)
 * [2024-03-30, 13:02:25](https://news.ycombinator.com/item?id=39874466) - [XZ Utils Backdoor](https://tukaani.org/xz-backdoor/)
@@ -31,6 +32,7 @@
 * [2024-03-30, 08:48:34](https://news.ycombinator.com/item?id=39873011) - [Debian on xz-utils: revert to version that does not contain changes by bad actor](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024)
 * [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
+* [2024-03-30, 08:00:55](https://news.ycombinator.com/item?id=39872804) - [Tom's Essay (2008)](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
 * [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 07:09:51](https://news.ycombinator.com/item?id=39872540) - [He Turned 55. Then He Started the Most Important Company. [TSMC]](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
 * [2024-03-30, 06:03:00](https://news.ycombinator.com/item?id=39872242) - [Playboy image from 1972 gets ban from IEEE computer journals](https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/)
