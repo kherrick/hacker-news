@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 20:29:02](https://news.ycombinator.com/item?id=39878317) - [NetBSD 10.0 Released](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 20:08:58](https://news.ycombinator.com/item?id=39878156) - [Novo Nordisk facing pressure as study finds $1k drug can be made for $5](https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/)
+* [2024-03-30, 19:59:00](https://news.ycombinator.com/item?id=39878079) - [Fraudulent studies are undermining the reliability of systematic reviews](https://www.biorxiv.org/content/10.1101/2024.02.13.580196v1)
 * [2024-03-30, 19:44:12](https://news.ycombinator.com/item?id=39877949) - [Toni Morrison's Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
 * [2024-03-30, 19:16:53](https://news.ycombinator.com/item?id=39877730) - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
 * [2024-03-30, 19:05:21](https://news.ycombinator.com/item?id=39877637) - [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
@@ -10,7 +12,7 @@
 * [2024-03-30, 17:59:51](https://news.ycombinator.com/item?id=39877077) - [The federal government promised to plant two billion trees. How's that going?](https://www.cbc.ca/newsinteractives/features/two-billion-trees)
 * [2024-03-30, 17:33:23](https://news.ycombinator.com/item?id=39876817) - [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 17:31:30](https://news.ycombinator.com/item?id=39876804) - [Veloren, an open source game, release 0.16](https://veloren.net/blog/release-0-16/)
-* [2024-03-30, 17:18:06](https://news.ycombinator.com/item?id=39876676) - [Unlocking the NES (For Former Dawn)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
+* [2024-03-30, 17:18:06](https://news.ycombinator.com/item?id=39876676) - [Unlocking the NES (For Former Dawn) (2022)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
 * [2024-03-30, 17:00:09](https://news.ycombinator.com/item?id=39876517) - [Hadrius (YC W23) – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-03-30, 16:51:57](https://news.ycombinator.com/item?id=39876447) - [Benchmarking LLMs against human expert-curated biomedical knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2667318524000023)
 * [2024-03-30, 16:06:57](https://news.ycombinator.com/item?id=39876131) - [Landlock: Unprivileged Access Control](https://docs.kernel.org/userspace-api/landlock.html)
@@ -23,13 +25,11 @@
 * [2024-03-30, 11:42:34](https://news.ycombinator.com/item?id=39873909) - [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
-* [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox’s media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
 * [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
 * [2024-03-30, 08:00:55](https://news.ycombinator.com/item?id=39872804) - [Tom's Essay (2008)](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
 * [2024-03-30, 06:01:32](https://news.ycombinator.com/item?id=39872236) - [When will the eclipse happen? A multimillennium tale of computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
 * [2024-03-30, 00:49:30](https://news.ycombinator.com/item?id=39870717) - [Figurative Representations in the North European Neolithic–Are They There?](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/figurative-representations-in-the-north-european-neolithicare-they-there/1907EFA10388E86A93E41C366C280133)
 * [2024-03-26, 14:12:57](https://news.ycombinator.com/item?id=39828064) - [Tunnel Vision: When you dig beyond all purpose, digging becomes the purpose](https://historynewsnetwork.org/article/tunnel-vision)
-* [2024-03-25, 20:32:03](https://news.ycombinator.com/item?id=39820961) - [Landlines are dying out. But to some, they're a lifeline](https://www.washingtonpost.com/technology/2024/03/23/landline-emergencies-home-phones/)
 
 ## [Archives](archives/index.md)
 
