@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 23:52:51](https://news.ycombinator.com/item?id=39870329) - [Can We Get Kids Off Smartphones?](https://www.newyorker.com/books/under-review/can-we-get-kids-off-smartphones)
+* [2024-03-29, 23:50:01](https://news.ycombinator.com/item?id=39870312) - [Engineers find a new way to convert carbon dioxide into useful products](https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327)
 * [2024-03-29, 23:29:14](https://news.ycombinator.com/item?id=39870191) - [Suppressing boredom at work hurts future productivity](https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html)
 * [2024-03-29, 22:57:37](https://news.ycombinator.com/item?id=39869931) - [Amazon's palm-scanning service now lets you sign up from your phone](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)
 * [2024-03-29, 22:37:16](https://news.ycombinator.com/item?id=39869777) - [Looking to build a personalized AI for myself. Any resources?](https://news.ycombinator.com/item?id=39869777)
+* [2024-03-29, 22:19:42](https://news.ycombinator.com/item?id=39869614) - [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
 * [2024-03-29, 22:18:45](https://news.ycombinator.com/item?id=39869603) - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 * [2024-03-29, 21:11:53](https://news.ycombinator.com/item?id=39869068) - [FAQ on the xz-utils backdoor – via a project dev](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27)
 * [2024-03-29, 20:47:07](https://news.ycombinator.com/item?id=39868810) - [Xz format inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)

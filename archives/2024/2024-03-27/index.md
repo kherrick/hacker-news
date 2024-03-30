@@ -102,6 +102,7 @@
 * [2024-03-27, 11:27:57](https://news.ycombinator.com/item?id=39837712) - [Younger Generations Have Larger Brains. Is That Healthier?](https://www.sciencealert.com/younger-generations-have-larger-brains-is-that-healthier)
 * [2024-03-27, 11:17:46](https://news.ycombinator.com/item?id=39837650) - [Are We Living in the Roaring 20s?](https://awealthofcommonsense.com/2024/03/are-we-living-in-the-roaring-20s/)
 * [2024-03-27, 10:52:01](https://news.ycombinator.com/item?id=39837498) - [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
+* [2024-03-27, 10:46:47](https://news.ycombinator.com/item?id=39837467) - [Richard Serra, Minimalist Sculptor Whose Steel Creations Awed Viewers,Dies at 85](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
 * [2024-03-27, 10:36:29](https://news.ycombinator.com/item?id=39837423) - [Show HN: Figr Identity – Generate Design Systems in Figma Instantly](https://www.figma.com/community/plugin/1350743748296105581/generate-design-systems-quickly-figr-identity-free-beta)
 * [2024-03-27, 09:52:10](https://news.ycombinator.com/item?id=39837146) - [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
 * [2024-03-27, 09:47:32](https://news.ycombinator.com/item?id=39837117) - [How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
