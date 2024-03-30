@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 19:16:53](https://news.ycombinator.com/item?id=39877730) - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
+* [2024-03-30, 19:05:21](https://news.ycombinator.com/item?id=39877637) - [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
 * [2024-03-30, 18:38:16](https://news.ycombinator.com/item?id=39877443) - [California fast-food workers will get $20 minimum wage, starting Monday](https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage)
 * [2024-03-30, 18:33:11](https://news.ycombinator.com/item?id=39877391) - [Running OCR against PDFs and images directly in the browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
 * [2024-03-30, 18:25:44](https://news.ycombinator.com/item?id=39877327) - [Contributing to Postgres 101: A Beginner's Experience](https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience)
@@ -18,6 +20,7 @@
 * [2024-03-30, 17:05:42](https://news.ycombinator.com/item?id=39876565) - [AT&T confirms data breach and resets customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
 * [2024-03-30, 17:00:09](https://news.ycombinator.com/item?id=39876517) - [Hadrius (YC W23) – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-03-30, 16:51:57](https://news.ycombinator.com/item?id=39876447) - [Benchmarking LLMs against human expert-curated biomedical knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2667318524000023)
+* [2024-03-30, 16:47:05](https://news.ycombinator.com/item?id=39876416) - [Bird flu discovered in U.S. dairy cows is 'disturbing'](https://www.science.org/content/article/bird-flu-discovered-u-s-dairy-cows-disturbing)
 * [2024-03-30, 16:39:30](https://news.ycombinator.com/item?id=39876374) - [Marissa Mayer's Startup](https://techcrunch.com/2024/03/27/marissa-mayers-startup-just-rolled-out-apps-for-group-photo-sharing-and-event-planning-and-the-internet-isnt-sure-what-to-think/)
 * [2024-03-30, 16:31:25](https://news.ycombinator.com/item?id=39876320) - [Personal 'invisibility shield' goes on sale, starting under $70](https://newatlas.com/good-thinking/invisibility-shield-2/)
 * [2024-03-30, 16:06:57](https://news.ycombinator.com/item?id=39876131) - [Landlock: Unprivileged Access Control](https://docs.kernel.org/userspace-api/landlock.html)
