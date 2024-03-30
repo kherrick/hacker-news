@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 14:59:25",
+      "https://news.ycombinator.com/item?id=39875485"
+    ],
+    [
+      "1 in every 13 bridges in America is in 'poor' condition",
+      "https://www.cnn.com/2024/03/30/business/americas-bridges-climate-infrastructure/index.html"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 14:26:00",
       "https://news.ycombinator.com/item?id=39875198"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2024-03-30, 13:05:01",
-      "https://news.ycombinator.com/item?id=39874490"
-    ],
-    [
-      "Return-to-Office Mandates: How to Lose Your Best Performers",
-      "https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 12:41:35",
       "https://news.ycombinator.com/item?id=39874303"
     ],
@@ -61,12 +61,22 @@
   ],
   [
     [
-      "2024-03-30, 12:32:47",
-      "https://news.ycombinator.com/item?id=39874224"
+      "2024-03-30, 12:29:13",
+      "https://news.ycombinator.com/item?id=39874201"
     ],
     [
-      "Invalid SMILES are beneficial rather than detrimental to chemical lang models",
-      "https://www.nature.com/articles/s42256-024-00821-x"
+      "Ask HN: How to secure website for public launch",
+      "https://news.ycombinator.com/item?id=39874201"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 12:20:24",
+      "https://news.ycombinator.com/item?id=39874144"
+    ],
+    [
+      "Robotic police dog shot, credited with averting bloodshed",
+      "https://www.theguardian.com/us-news/2024/mar/28/massachusetts-robotic-police-dog-shot"
     ]
   ],
   [
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2024-03-30, 02:13:53",
-      "https://news.ycombinator.com/item?id=39871215"
+      "2024-03-30, 04:20:34",
+      "https://news.ycombinator.com/item?id=39871804"
     ],
     [
-      "Why Has Figma Reinvented the Wheel with PostgreSQL?",
-      "https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c"
+      "My laptop is faster than your Elastic cluster",
+      "https://haybatov.com/blog/saved-searches/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Towards 1-bit Machine Learning Models",
       "https://mobiusml.github.io/1bit_blog/"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 06:13:00",
-      "https://news.ycombinator.com/item?id=39848221"
-    ],
-    [
-      "Linux ext2 filesystem driver now marked as deprecated",
-      "https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/"
     ]
   ],
   [
