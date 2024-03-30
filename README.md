@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox's media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
+* [2024-03-30, 08:53:19](https://news.ycombinator.com/item?id=39873037) - [Rustic UI: Crafting the Future of UX](https://blog.dragonscale.ai/rustic-ui-crafting-the-future-of-ux/)
+* [2024-03-30, 08:48:34](https://news.ycombinator.com/item?id=39873011) - [Debian on xz-utils: revert to version that does not contain changes by bad actor](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024)
 * [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 07:09:51](https://news.ycombinator.com/item?id=39872540) - [He Turned 55. Then He Started the Most Important Company. [TSMC]](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
@@ -18,9 +20,7 @@
 * [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner blindness](https://en.wikipedia.org/wiki/Banner_blindness)
 * [2024-03-29, 18:52:05](https://news.ycombinator.com/item?id=39867616) - [Porting the GCLC to the Web](https://blog.ubavic.rs/9/)
-* [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
-* [2024-03-29, 16:42:47](https://news.ycombinator.com/item?id=39866111) - [Awk as a major systems programming language, revisited (2018)](http://www.skeeve.com/awk-sys-prog.html)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 12:02:16](https://news.ycombinator.com/item?id=39863001) - [Knuth and Plass line-breaking revisited (2007)](https://defoe.sourceforge.net/folio/knuth-plass.html)
 * [2024-03-28, 12:22:07](https://news.ycombinator.com/item?id=39850340) - [Mazda's rotary engine in the age of the electric car](https://www.nippon.com/en/in-depth/d00956/)
