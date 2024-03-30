@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 06:03:00](https://news.ycombinator.com/item?id=39872242) - [Playboy image from 1972 gets ban from IEEE computer journals](https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/)
 * [2024-03-30, 05:46:05](https://news.ycombinator.com/item?id=39872165) - [America's Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
@@ -15,7 +16,6 @@
 * [2024-03-29, 20:01:10](https://news.ycombinator.com/item?id=39868378) - [Ways of Seeing by John Berger](https://www.ways-of-seeing.com/)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
-* [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [2024-03-29, 18:53:33](https://news.ycombinator.com/item?id=39867632) - [Banner blindness](https://en.wikipedia.org/wiki/Banner_blindness)
 * [2024-03-29, 18:52:05](https://news.ycombinator.com/item?id=39867616) - [Porting the GCLC to the Web](https://blog.ubavic.rs/9/)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
