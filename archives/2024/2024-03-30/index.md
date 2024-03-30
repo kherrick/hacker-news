@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 10:09:36](https://news.ycombinator.com/item?id=39873422) - [Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 * [2024-03-30, 09:35:05](https://news.ycombinator.com/item?id=39873262) - [Missouri AG sues Media Matters over its X research, demands donor names](https://arstechnica.com/tech-policy/2024/03/missouri-ag-sues-media-matters-in-lawsuit-echoing-elon-musks-complaints/)
 * [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox's media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)

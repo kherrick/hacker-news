@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 10:09:36](https://news.ycombinator.com/item?id=39873422) - [Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 * [2024-03-30, 09:35:05](https://news.ycombinator.com/item?id=39873262) - [Missouri AG sues Media Matters over its X research, demands donor names](https://arstechnica.com/tech-policy/2024/03/missouri-ag-sues-media-matters-in-lawsuit-echoing-elon-musks-complaints/)
 * [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox's media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
@@ -9,7 +10,6 @@
 * [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
 * [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 07:09:51](https://news.ycombinator.com/item?id=39872540) - [TSMC was founded by Morris Chang when he was 55 years old](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
-* [2024-03-30, 04:49:47](https://news.ycombinator.com/item?id=39871914) - [Xz format inadequate for long-term archiving (2022-02-02)](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-03-30, 02:13:53](https://news.ycombinator.com/item?id=39871215) - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 * [2024-03-30, 02:07:48](https://news.ycombinator.com/item?id=39871186) - [Paint.net](https://www.getpaint.net/)
 * [2024-03-30, 01:53:02](https://news.ycombinator.com/item?id=39871104) - [Gravitational waves may have made human life possible](https://phys.org/news/2024-03-gravitational-human-life.html)
