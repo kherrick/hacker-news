@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 17:46:26](https://news.ycombinator.com/item?id=39876952) - [China uses foreign firms to turbocharge its industry](https://www.high-capacity.com/p/how-china-uses-foreign-firms-to-turbocharge)
+* [2024-03-30, 17:33:23](https://news.ycombinator.com/item?id=39876817) - [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 17:08:08](https://news.ycombinator.com/item?id=39876590) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
 * [2024-03-30, 17:07:06](https://news.ycombinator.com/item?id=39876579) - [AT&T Says Personal Information from 73M Customers Leaked on the Dark Web](https://www.forbes.com/sites/tylerroush/2024/03/30/att-says-personal-information-from-73-million-customers-leaked-on-the-dark-web-including-social-security-numbers/)
 * [2024-03-30, 17:05:42](https://news.ycombinator.com/item?id=39876565) - [AT&T confirms data breach and resets customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
@@ -11,6 +13,7 @@
 * [2024-03-30, 16:51:57](https://news.ycombinator.com/item?id=39876447) - [Benchmarking LLMs against human expert-curated biomedical knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2667318524000023)
 * [2024-03-30, 16:39:30](https://news.ycombinator.com/item?id=39876374) - [Marissa Mayer's Startup](https://techcrunch.com/2024/03/27/marissa-mayers-startup-just-rolled-out-apps-for-group-photo-sharing-and-event-planning-and-the-internet-isnt-sure-what-to-think/)
 * [2024-03-30, 16:31:25](https://news.ycombinator.com/item?id=39876320) - [Personal 'invisibility shield' goes on sale, starting under $70](https://newatlas.com/good-thinking/invisibility-shield-2/)
+* [2024-03-30, 16:06:57](https://news.ycombinator.com/item?id=39876131) - [Landlock: Unprivileged Access Control](https://docs.kernel.org/userspace-api/landlock.html)
 * [2024-03-30, 16:04:53](https://news.ycombinator.com/item?id=39876114) - [Mamba Explained](https://thegradient.pub/mamba-explained/)
 * [2024-03-30, 15:43:12](https://news.ycombinator.com/item?id=39875922) - [AT&T Says Data from 73M Accounts Leaked on Dark Web](https://www.bloomberg.com/news/articles/2024-03-30/at-t-t-says-data-from-73-million-accounts-leaked-on-dark-web)
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
@@ -87,6 +90,7 @@
 * [2024-03-30, 01:17:19](https://news.ycombinator.com/item?id=39870902) - [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
 * [2024-03-30, 01:13:07](https://news.ycombinator.com/item?id=39870875) - [Jails banned visits in \"quid pro quo\" with prison phone companies, lawsuits say](https://arstechnica.com/tech-policy/2024/03/jails-banned-family-visits-to-make-more-money-on-video-calls-lawsuits-claim/)
 * [2024-03-30, 01:11:44](https://news.ycombinator.com/item?id=39870867) - [State of emergency declared in Niagara Region for Solar eclipse](https://globalnews.ca/news/10392024/solar-eclipse-state-of-emergency-niagara-region/)
+* [2024-03-30, 00:49:30](https://news.ycombinator.com/item?id=39870717) - [Figurative Representations in the North European Neolithic–Are They There?](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/figurative-representations-in-the-north-european-neolithicare-they-there/1907EFA10388E86A93E41C366C280133)
 * [2024-03-30, 00:28:00](https://news.ycombinator.com/item?id=39870570) - [Neutrino Radiation Challenges and Proposed Solutions for Many-TeV Muon Colliders](https://arxiv.org/abs/hep-ex/0005006)
 * [2024-03-30, 00:12:36](https://news.ycombinator.com/item?id=39870458) - [Big money lines up behind a Redis fork](https://www.runtime.news/big-money-lines-up-behind-a-redis-fork/)
 * [2024-03-30, 00:07:24](https://news.ycombinator.com/item?id=39870416) - [What makes Norway's criminal justice system different to other countries?](https://www.thelocal.no/20210429/what-makes-norways-criminal-justice-system-different-to-other-countries)
