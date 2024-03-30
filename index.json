@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 22:03:39",
+      "https://news.ycombinator.com/item?id=39879117"
+    ],
+    [
+      "SpaceX's Gwynne Shotwell on the future of space travel [video]",
+      "https://www.youtube.com/watch?v=PqUoBaO7mzM"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 21:38:49",
       "https://news.ycombinator.com/item?id=39878938"
     ],
@@ -17,16 +27,6 @@
     [
       "Xz/liblzma: Bash-stage Obfuscation Explained",
       "https://gynvael.coldwind.pl/?lang=en&id=782"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 20:29:02",
-      "https://news.ycombinator.com/item?id=39878317"
-    ],
-    [
-      "NetBSD 10.0 Released",
-      "https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=39873692"
     ],
     [
-      "Garbage Collection for Systems Programmers (2023)",
+      "Garbage collection for systems programmers (2023)",
       "https://bitbashing.io/gc-for-systems-programmers.html"
     ]
   ],
