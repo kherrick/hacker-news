@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
 * [2024-03-30, 18:38:16](https://news.ycombinator.com/item?id=39877443) - [California fast-food workers will get $20 minimum wage, starting Monday](https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage)
+* [2024-03-30, 18:33:11](https://news.ycombinator.com/item?id=39877391) - [Running OCR against PDFs and images directly in the browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
 * [2024-03-30, 18:25:44](https://news.ycombinator.com/item?id=39877327) - [Contributing to Postgres 101: A Beginner's Experience](https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience)
 * [2024-03-30, 18:20:35](https://news.ycombinator.com/item?id=39877276) - [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
 * [2024-03-30, 18:19:18](https://news.ycombinator.com/item?id=39877267) - [XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)

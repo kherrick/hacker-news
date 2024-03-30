@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 18:33:11](https://news.ycombinator.com/item?id=39877391) - [Running OCR against PDFs and images directly in the browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
 * [2024-03-30, 18:25:44](https://news.ycombinator.com/item?id=39877327) - [Contributing to Postgres 101: A Beginner's Experience](https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience)
 * [2024-03-30, 18:20:35](https://news.ycombinator.com/item?id=39877276) - [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
 * [2024-03-30, 18:19:18](https://news.ycombinator.com/item?id=39877267) - [XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
@@ -27,8 +28,7 @@
 * [2024-03-30, 04:49:45](https://news.ycombinator.com/item?id=39871913) - [Bpfman: An eBPF Manager](https://bpfman.io/main/)
 * [2024-03-30, 01:21:14](https://news.ycombinator.com/item?id=39870929) - [Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
 * [2024-03-30, 00:49:30](https://news.ycombinator.com/item?id=39870717) - [Figurative Representations in the North European Neolithic–Are They There?](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/figurative-representations-in-the-north-european-neolithicare-they-there/1907EFA10388E86A93E41C366C280133)
-* [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
-* [2024-03-27, 10:46:47](https://news.ycombinator.com/item?id=39837467) - [Richard Serra, minimalist sculptor whose steel creations awed viewers, has died](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
+* [2024-03-29, 20:16:56](https://news.ycombinator.com/item?id=39868539) - [How Stability AI’s founder tanked his billion-dollar startup](https://www.forbes.com/sites/kenrickcai/2024/03/29/how-stability-ais-founder-tanked-his-billion-dollar-startup/)
 * [2024-03-25, 20:32:03](https://news.ycombinator.com/item?id=39820961) - [Landlines are dying out. But to some, they're a lifeline](https://www.washingtonpost.com/technology/2024/03/23/landline-emergencies-home-phones/)
 
 ## [Archives](archives/index.md)

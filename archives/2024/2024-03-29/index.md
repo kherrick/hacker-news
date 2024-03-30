@@ -21,6 +21,7 @@
 * [2024-03-29, 20:30:37](https://news.ycombinator.com/item?id=39868673) - [Everything I Know About the XZ Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
 * [2024-03-29, 20:25:55](https://news.ycombinator.com/item?id=39868630) - [Santa Barbara's Collective Memory, Sold for Kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
 * [2024-03-29, 20:22:04](https://news.ycombinator.com/item?id=39868586) - [Do you really need Kubernetes?](https://blog.ekern.me/2024/03/28/do-you-really-need-kubernetes.html)
+* [2024-03-29, 20:16:56](https://news.ycombinator.com/item?id=39868539) - [How Stability AI’s founder tanked his billion-dollar startup](https://www.forbes.com/sites/kenrickcai/2024/03/29/how-stability-ais-founder-tanked-his-billion-dollar-startup/)
 * [2024-03-29, 20:12:57](https://news.ycombinator.com/item?id=39868504) - [Radicle: Peer-to-Peer Collaboration with Git](https://lwn.net/SubscriberLink/966869/4077c682c91ab5ab/)
 * [2024-03-29, 20:01:10](https://news.ycombinator.com/item?id=39868378) - [Ways of Seeing by John Berger](https://www.ways-of-seeing.com/)
 * [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
