@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-30, 01:25:39](https://news.ycombinator.com/item?id=39870959) - [Building the first highway segment in the U.S. that can charge electric vehicles](https://www.purdue.edu/newsroom/releases/2024/Q1/building-the-first-highway-segment-in-the-u.s-that-can-charge-electric-vehicles-big-and-small-as-they-drive.html)
+* [2024-03-30, 01:21:14](https://news.ycombinator.com/item?id=39870929) - [GPU4FS: A filesystem runs on GPU to accelerate data access](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
+* [2024-03-30, 01:17:19](https://news.ycombinator.com/item?id=39870902) - [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
 * [2024-03-30, 01:13:07](https://news.ycombinator.com/item?id=39870875) - [Jails banned visits in \"quid pro quo\" with prison phone companies, lawsuits say](https://arstechnica.com/tech-policy/2024/03/jails-banned-family-visits-to-make-more-money-on-video-calls-lawsuits-claim/)
-* [2024-03-30, 00:07:24](https://news.ycombinator.com/item?id=39870416) - [What makes Norway's criminal justice system different to other countries?](https://www.thelocal.no/20210429/what-makes-norways-criminal-justice-system-different-to-other-countries)
 * [2024-03-29, 23:50:01](https://news.ycombinator.com/item?id=39870312) - [Engineers find a new way to convert carbon dioxide into useful products](https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327)
 * [2024-03-29, 23:29:14](https://news.ycombinator.com/item?id=39870191) - [Suppressing boredom at work hurts future productivity](https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html)
 * [2024-03-29, 22:19:42](https://news.ycombinator.com/item?id=39869614) - [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
@@ -26,7 +27,6 @@
 * [2024-03-28, 10:58:34](https://news.ycombinator.com/item?id=39849644) - [Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
 * [2024-03-28, 09:12:23](https://news.ycombinator.com/item?id=39849071) - [How fuzz testing was invented (2008)](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-03-28, 06:13:00](https://news.ycombinator.com/item?id=39848221) - [Linux ext2 filesystem driver now marked as deprecated](https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/)
-* [2024-03-28, 05:46:38](https://news.ycombinator.com/item?id=39848126) - [The Call of the Weird](https://www.lrb.co.uk/the-paper/v46/n07/michael-ledger-lomas/the-call-of-the-weird)
 * [2024-03-28, 05:01:17](https://news.ycombinator.com/item?id=39847940) - [Hellandizing (1998)](https://www.multicians.org/thvv/hellandizing.html)
 * [2024-03-27, 16:55:18](https://news.ycombinator.com/item?id=39841601) - [Building the Chesapeake Bay Bridge-Tunnel (2014)](https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html)
 * [2024-03-27, 10:46:47](https://news.ycombinator.com/item?id=39837467) - [Richard Serra, Minimalist Sculptor Whose Steel Creations Awed Viewers,Dies at 85](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
