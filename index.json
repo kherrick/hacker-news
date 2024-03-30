@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-03-30, 09:55:08",
+      "https://news.ycombinator.com/item?id=39873358"
+    ],
+    [
+      "KasmVNC – WASM Based VNC Server and Client",
+      "https://github.com/kasmtech/KasmVNC"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 09:36:53",
       "https://news.ycombinator.com/item?id=39873272"
     ],
@@ -57,6 +67,16 @@
     [
       "Some notes on Firefox's media autoplay settings in practice as of Firefox 124",
       "https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 09:14:17",
+      "https://news.ycombinator.com/item?id=39873167"
+    ],
+    [
+      "White space killed an enterprise app",
+      "https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a?gi=f8010877f37d"
     ]
   ],
   [
@@ -111,22 +131,22 @@
   ],
   [
     [
-      "2024-03-30, 07:09:51",
-      "https://news.ycombinator.com/item?id=39872540"
-    ],
-    [
-      "TSMC was founded by Morris Chang when he was 55 years old",
-      "https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 04:49:45",
       "https://news.ycombinator.com/item?id=39871913"
     ],
     [
       "Bpfman: An eBPF Manager",
       "https://bpfman.io/main/"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 04:06:50",
+      "https://news.ycombinator.com/item?id=39871749"
+    ],
+    [
+      "GitHub Disabled the Xz Repo",
+      "https://pony.social/@cadey/112182224209533198"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2024-03-28, 12:22:07",
-      "https://news.ycombinator.com/item?id=39850340"
-    ],
-    [
-      "Mazda's rotary engine in the age of the electric car",
-      "https://www.nippon.com/en/in-depth/d00956/"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 10:58:34",
       "https://news.ycombinator.com/item?id=39849644"
     ],
     [
       "Towards 1-bit Machine Learning Models",
       "https://mobiusml.github.io/1bit_blog/"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 06:13:00",
-      "https://news.ycombinator.com/item?id=39848221"
-    ],
-    [
-      "Linux ext2 filesystem driver now marked as deprecated",
-      "https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/"
     ]
   ],
   [
