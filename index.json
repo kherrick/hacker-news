@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-30, 19:16:53",
+      "https://news.ycombinator.com/item?id=39877730"
+    ],
+    [
+      "Roll-Invert-Unroll: An easier way to replace a duvet cover",
+      "https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 19:05:21",
+      "https://news.ycombinator.com/item?id=39877637"
+    ],
+    [
+      "Git as a debugging tool",
+      "https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 18:33:11",
       "https://news.ycombinator.com/item?id=39877391"
     ],
@@ -87,6 +107,16 @@
     [
       "Benchmarking LLMs against human expert-curated biomedical knowledge graphs",
       "https://www.sciencedirect.com/science/article/pii/S2667318524000023"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 16:47:05",
+      "https://news.ycombinator.com/item?id=39876416"
+    ],
+    [
+      "Bird flu discovered in U.S. dairy cows is 'disturbing'",
+      "https://www.science.org/content/article/bird-flu-discovered-u-s-dairy-cows-disturbing"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2024-03-30, 10:56:51",
-      "https://news.ycombinator.com/item?id=39873644"
-    ],
-    [
-      "Ask HN: Going from CTO to Developer?",
-      "https://news.ycombinator.com/item?id=39873644"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 09:36:53",
       "https://news.ycombinator.com/item?id=39873272"
     ],
@@ -247,26 +267,6 @@
     [
       "When will the eclipse happen? A multimillennium tale of computation",
       "https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 04:49:45",
-      "https://news.ycombinator.com/item?id=39871913"
-    ],
-    [
-      "Bpfman: An eBPF Manager",
-      "https://bpfman.io/main/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 01:21:14",
-      "https://news.ycombinator.com/item?id=39870929"
-    ],
-    [
-      "Full-scale file system acceleration on GPU [pdf]",
-      "https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content"
     ]
   ],
   [
