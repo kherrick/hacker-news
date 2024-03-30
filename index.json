@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-03-30, 00:07:24",
+      "https://news.ycombinator.com/item?id=39870416"
+    ],
+    [
+      "What makes Norway's criminal justice system different to other countries?",
+      "https://www.thelocal.no/20210429/what-makes-norways-criminal-justice-system-different-to-other-countries"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 00:04:43",
+      "https://news.ycombinator.com/item?id=39870402"
+    ],
+    [
+      "Iowa fertilizer spill kills nearly all fish across 60-mile stretch of rivers",
+      "https://www.nytimes.com/2024/03/29/us/iowa-spill-fish-kill.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 23:52:51",
+      "https://news.ycombinator.com/item?id=39870329"
+    ],
+    [
+      "Can We Get Kids Off Smartphones?",
+      "https://www.newyorker.com/books/under-review/can-we-get-kids-off-smartphones"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 23:50:01",
+      "https://news.ycombinator.com/item?id=39870312"
+    ],
+    [
+      "Engineers find a new way to convert carbon dioxide into useful products",
+      "https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 23:29:14",
       "https://news.ycombinator.com/item?id=39870191"
     ],
     [
       "Suppressing boredom at work hurts future productivity",
       "https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 22:57:37",
-      "https://news.ycombinator.com/item?id=39869931"
-    ],
-    [
-      "Amazon's palm-scanning service now lets you sign up from your phone",
-      "https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app"
     ]
   ],
   [
@@ -31,22 +61,22 @@
   ],
   [
     [
+      "2024-03-29, 22:19:42",
+      "https://news.ycombinator.com/item?id=39869614"
+    ],
+    [
+      "Running a Raspberry Pi with a read-only root filesystem",
+      "https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 22:18:45",
       "https://news.ycombinator.com/item?id=39869603"
     ],
     [
       "TnT-LLM: Text Mining at Scale with Large Language Models",
       "https://arxiv.org/abs/2403.12173"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 20:31:04",
-      "https://news.ycombinator.com/item?id=39868679"
-    ],
-    [
-      "Project Wayfield – The JDK Wayland Desktop on Linux [video]",
-      "https://inside.java/2024/03/24/openjdk-wakefield/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-03-29, 17:35:20",
-      "https://news.ycombinator.com/item?id=39866795"
-    ],
-    [
-      "Can Demis Hassabis save Google?",
-      "https://www.bigtechnology.com/p/can-demis-hassabis-save-google"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 17:00:07",
       "https://news.ycombinator.com/item?id=39866325"
     ],
@@ -157,26 +177,6 @@
     [
       "Backdoor in upstream xz/liblzma leading to SSH server compromise",
       "https://www.openwall.com/lists/oss-security/2024/03/29/4"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 15:45:27",
-      "https://news.ycombinator.com/item?id=39865458"
-    ],
-    [
-      "Ray Marching: Menger Sponge Breakdown",
-      "https://connorahaskins.substack.com/p/ray-marching-menger-sponge-breakdown"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 14:18:56",
-      "https://news.ycombinator.com/item?id=39864412"
-    ],
-    [
-      "Group buys up large tracts of land in Romania to create 'European Yellowstone'",
-      "https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-03-28, 05:46:38",
-      "https://news.ycombinator.com/item?id=39848126"
-    ],
-    [
-      "The Call of the Weird",
-      "https://www.lrb.co.uk/the-paper/v46/n07/michael-ledger-lomas/the-call-of-the-weird"
-    ]
-  ],
-  [
-    [
       "2024-03-28, 05:01:17",
       "https://news.ycombinator.com/item?id=39847940"
     ],
@@ -297,6 +287,16 @@
     [
       "Building the Chesapeake Bay Bridge-Tunnel (2014)",
       "https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-27, 10:46:47",
+      "https://news.ycombinator.com/item?id=39837467"
+    ],
+    [
+      "Richard Serra, Minimalist Sculptor Whose Steel Creations Awed Viewers,Dies at 85",
+      "https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/"
     ]
   ]
 ]
