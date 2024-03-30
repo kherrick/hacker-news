@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 02:28:43](https://news.ycombinator.com/item?id=39871295) - [Police Are Tagging Fleeing Cars with GPS Darts to Avoid Dangerous Pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
 * [2024-03-30, 01:25:39](https://news.ycombinator.com/item?id=39870959) - [Building the first highway segment in the U.S. that can charge electric vehicles](https://www.purdue.edu/newsroom/releases/2024/Q1/building-the-first-highway-segment-in-the-u.s-that-can-charge-electric-vehicles-big-and-small-as-they-drive.html)
 * [2024-03-30, 01:21:14](https://news.ycombinator.com/item?id=39870929) - [GPU4FS: A filesystem runs on GPU to accelerate data access](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
 * [2024-03-30, 01:17:19](https://news.ycombinator.com/item?id=39870902) - [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
@@ -14,7 +15,6 @@
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 18:59:50](https://news.ycombinator.com/item?id=39867702) - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [2024-03-29, 18:52:05](https://news.ycombinator.com/item?id=39867616) - [Porting the GCLC to the Web](https://blog.ubavic.rs/9/)
-* [2024-03-29, 18:45:31](https://news.ycombinator.com/item?id=39867551) - [Qwen1.5-Moe: Matching 7B Model Performance with 1/3 Activated Parameters](https://qwenlm.github.io/blog/qwen-moe/)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
 * [2024-03-29, 16:42:47](https://news.ycombinator.com/item?id=39866111) - [Awk as a major systems programming language, revisited (2018)](http://www.skeeve.com/awk-sys-prog.html)

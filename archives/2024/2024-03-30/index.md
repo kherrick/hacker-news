@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 02:28:43](https://news.ycombinator.com/item?id=39871295) - [Police Are Tagging Fleeing Cars with GPS Darts to Avoid Dangerous Pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
 * [2024-03-30, 01:25:39](https://news.ycombinator.com/item?id=39870959) - [Building the first highway segment in the U.S. that can charge electric vehicles](https://www.purdue.edu/newsroom/releases/2024/Q1/building-the-first-highway-segment-in-the-u.s-that-can-charge-electric-vehicles-big-and-small-as-they-drive.html)
 * [2024-03-30, 01:21:14](https://news.ycombinator.com/item?id=39870929) - [GPU4FS: A filesystem runs on GPU to accelerate data access](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
 * [2024-03-30, 01:17:19](https://news.ycombinator.com/item?id=39870902) - [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
