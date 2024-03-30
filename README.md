@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 06:03:00](https://news.ycombinator.com/item?id=39872242) - [Playboy image from 1972 gets ban from IEEE computer journals](https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/)
 * [2024-03-30, 05:46:05](https://news.ycombinator.com/item?id=39872165) - [America's Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
 * [2024-03-30, 05:31:18](https://news.ycombinator.com/item?id=39872109) - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
@@ -27,7 +28,6 @@
 * [2024-03-28, 09:12:23](https://news.ycombinator.com/item?id=39849071) - [How fuzz testing was invented (2008)](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-03-28, 06:13:00](https://news.ycombinator.com/item?id=39848221) - [Linux ext2 filesystem driver now marked as deprecated](https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/)
 * [2024-03-28, 05:01:17](https://news.ycombinator.com/item?id=39847940) - [Hellandizing (1998)](https://www.multicians.org/thvv/hellandizing.html)
-* [2024-03-27, 16:55:18](https://news.ycombinator.com/item?id=39841601) - [Building the Chesapeake Bay Bridge-Tunnel (2014)](https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html)
 * [2024-03-27, 10:46:47](https://news.ycombinator.com/item?id=39837467) - [Richard Serra, minimalist sculptor whose steel creations awed viewers, has died](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
 * [2024-03-26, 21:58:53](https://news.ycombinator.com/item?id=39833337) - [A proposal for a novel acoustic crystal with continuous changes in elasticity](https://phys.org/news/2024-03-team-acoustic-crystal-smooth-elastic.html)
 
