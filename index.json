@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-03-30, 18:25:44",
-      "https://news.ycombinator.com/item?id=39877327"
-    ],
-    [
-      "Contributing to Postgres 101: A Beginner's Experience",
-      "https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 18:20:35",
       "https://news.ycombinator.com/item?id=39877276"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2024-03-30, 12:06:01",
-      "https://news.ycombinator.com/item?id=39874066"
+      "2024-03-30, 13:18:12",
+      "https://news.ycombinator.com/item?id=39874583"
     ],
     [
-      "Brilliant Pebbles (2001)",
-      "https://www.llnl.gov/archives/1980s/brilliant-pebbles"
+      "How GitHub replaced SourceForge as the dominant code hosting platform",
+      "https://graphite.dev/blog/github-monopoly-on-code-hosting"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Prolog language for PostgreSQL proof of concept",
       "https://github.com/tatut/pgprolog"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 09:14:23",
+      "https://news.ycombinator.com/item?id=39873169"
+    ],
+    [
+      "Some notes on Firefox’s media autoplay settings in practice as of Firefox 124",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV"
     ]
   ],
   [
