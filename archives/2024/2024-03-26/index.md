@@ -61,6 +61,7 @@
 * [2024-03-26, 13:36:40](https://news.ycombinator.com/item?id=39827645) - [Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 * [2024-03-26, 13:28:20](https://news.ycombinator.com/item?id=39827562) - [Grafana Labs Observability Survey 2024](https://grafana.com/observability-survey/)
 * [2024-03-26, 13:13:04](https://news.ycombinator.com/item?id=39827390) - [Show HN: I Made a Books Recommendation App Based on Your Mood](https://booksbymood.com)
+* [2024-03-26, 13:10:21](https://news.ycombinator.com/item?id=39827362) - [Canada's maple syrup reserve almost empty](https://www.thestar.com/news/gta/canadas-maple-syrup-reserve-almost-empty-as-sap-season-at-risk-of-becoming-another-casualty/article_6f498bce-e788-11ee-8773-c71464d8be74.html)
 * [2024-03-26, 12:58:21](https://news.ycombinator.com/item?id=39827266) - [Baltimore's Key Bridge struck by cargo ship, collapses](https://www.wbaltv.com/article/baltimore-bridge-collapse-key-bridge/60303975)
 * [2024-03-26, 12:47:00](https://news.ycombinator.com/item?id=39827165) - [Letters from 1719 reveal familiar worries of London life](https://www.theguardian.com/culture/2024/mar/26/letters-from-1719-reveal-familiar-worries-london-life)
 * [2024-03-26, 12:42:17](https://news.ycombinator.com/item?id=39827127) - [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
