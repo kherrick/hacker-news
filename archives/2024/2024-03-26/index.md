@@ -78,6 +78,7 @@
 * [2024-03-26, 09:28:35](https://news.ycombinator.com/item?id=39825770) - [Spinner-mouse: Arduino-based USB rotary controller for Arkanoid, Tempest, etc.](https://github.com/carlosefr/spinner-mouse)
 * [2024-03-26, 09:21:18](https://news.ycombinator.com/item?id=39825726) - [Affinity (Serif) being purchased by Canva](https://affinity.serif.com/en-gb/press/newsroom/canva-statement/)
 * [2024-03-26, 09:14:13](https://news.ycombinator.com/item?id=39825686) - [Elixir's Impact: Shaping the Evolution of Erlang](https://goto.buzzsprout.com/1714721/14674925)
+* [2024-03-26, 08:56:50](https://news.ycombinator.com/item?id=39825582) - [Algebra problems selected from the Romanian Olympiad (Part 2)](https://www.andreinc.net/2024/03/25/10-algebra-problems-part-2)
 * [2024-03-26, 08:40:38](https://news.ycombinator.com/item?id=39825459) - [Innocent St. Louis family terrorized in SWAT raid over stolen AirPods](https://boingboing.net/2024/03/25/innocent-st-louis-family-terrorized-in-swat-raid-over-stolen-airpods.html)
 * [2024-03-26, 08:38:13](https://news.ycombinator.com/item?id=39825440) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2024-03-26, 07:50:50](https://news.ycombinator.com/item?id=39825162) - [The Kalman Filter](https://thekalmanfilter.com/)

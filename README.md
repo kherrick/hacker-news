@@ -2,8 +2,7 @@
 
 * [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
-* [2024-03-30, 05:46:05](https://news.ycombinator.com/item?id=39872165) - [America's Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
-* [2024-03-30, 05:31:18](https://news.ycombinator.com/item?id=39872109) - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
+* [2024-03-30, 07:09:51](https://news.ycombinator.com/item?id=39872540) - [He Turned 55. Then He Started the Most Important Company. [TSMC]](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
 * [2024-03-30, 04:49:47](https://news.ycombinator.com/item?id=39871914) - [Xz format inadequate for long-term archiving (2022-02-02)](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-03-30, 02:13:53](https://news.ycombinator.com/item?id=39871215) - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 * [2024-03-30, 02:07:48](https://news.ycombinator.com/item?id=39871186) - [Paint.net](https://www.getpaint.net/)
@@ -30,6 +29,7 @@
 * [2024-03-27, 16:55:18](https://news.ycombinator.com/item?id=39841601) - [Building the Chesapeake Bay Bridge-Tunnel (2014)](https://web.archive.org/web/20171014122847/http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html)
 * [2024-03-27, 10:46:47](https://news.ycombinator.com/item?id=39837467) - [Richard Serra, minimalist sculptor whose steel creations awed viewers, has died](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
 * [2024-03-26, 21:58:53](https://news.ycombinator.com/item?id=39833337) - [A proposal for a novel acoustic crystal with continuous changes in elasticity](https://phys.org/news/2024-03-team-acoustic-crystal-smooth-elastic.html)
+* [2024-03-26, 08:56:50](https://news.ycombinator.com/item?id=39825582) - [Algebra problems selected from the Romanian Olympiad (Part 2)](https://www.andreinc.net/2024/03/25/10-algebra-problems-part-2)
 
 ## [Archives](archives/index.md)
 

@@ -6,6 +6,7 @@
 
 * [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
+* [2024-03-30, 07:09:51](https://news.ycombinator.com/item?id=39872540) - [He Turned 55. Then He Started the Most Important Company. [TSMC]](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
 * [2024-03-30, 06:03:00](https://news.ycombinator.com/item?id=39872242) - [Playboy image from 1972 gets ban from IEEE computer journals](https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/)
 * [2024-03-30, 05:46:05](https://news.ycombinator.com/item?id=39872165) - [America's Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
 * [2024-03-30, 05:31:18](https://news.ycombinator.com/item?id=39872109) - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
