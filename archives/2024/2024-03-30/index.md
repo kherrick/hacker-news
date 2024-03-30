@@ -10,6 +10,7 @@
 * [2024-03-30, 17:59:51](https://news.ycombinator.com/item?id=39877077) - [The federal government promised to plant two billion trees. How's that going?](https://www.cbc.ca/newsinteractives/features/two-billion-trees)
 * [2024-03-30, 17:46:26](https://news.ycombinator.com/item?id=39876952) - [China uses foreign firms to turbocharge its industry](https://www.high-capacity.com/p/how-china-uses-foreign-firms-to-turbocharge)
 * [2024-03-30, 17:33:23](https://news.ycombinator.com/item?id=39876817) - [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
+* [2024-03-30, 17:31:30](https://news.ycombinator.com/item?id=39876804) - [Veloren, an open source game, release 0.16](https://veloren.net/blog/release-0-16/)
 * [2024-03-30, 17:08:08](https://news.ycombinator.com/item?id=39876590) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
 * [2024-03-30, 17:07:06](https://news.ycombinator.com/item?id=39876579) - [AT&T Says Personal Information from 73M Customers Leaked on the Dark Web](https://www.forbes.com/sites/tylerroush/2024/03/30/att-says-personal-information-from-73-million-customers-leaked-on-the-dark-web-including-social-security-numbers/)
 * [2024-03-30, 17:05:42](https://news.ycombinator.com/item?id=39876565) - [AT&T confirms data breach and resets customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
