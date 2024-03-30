@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-30, 22:56:29](https://news.ycombinator.com/item?id=39879488) - [Disillusioned Businesses Discovering That AI Kind of Sucks](https://futurism.com/the-byte/businesses-discovering-ai-sucks)
 * [2024-03-30, 22:45:42](https://news.ycombinator.com/item?id=39879426) - [Delirium Tremens](https://en.wikipedia.org/wiki/Delirium_tremens)
 * [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Redox: Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
 * [2024-03-30, 21:38:49](https://news.ycombinator.com/item?id=39878938) - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
@@ -26,8 +25,9 @@
 * [2024-03-30, 12:56:03](https://news.ycombinator.com/item?id=39874404) - [Xz: Can you spot the single character that disabled Linux landlock?](https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage collection for systems programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
+* [2024-03-30, 08:00:55](https://news.ycombinator.com/item?id=39872804) - [Tom's Essay (2008)](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
 * [2024-03-30, 06:01:32](https://news.ycombinator.com/item?id=39872236) - [When will the eclipse happen? A multimillennium tale of computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
-* [2024-03-26, 13:10:21](https://news.ycombinator.com/item?id=39827362) - [Canada's maple syrup reserve almost empty](https://www.thestar.com/news/gta/canadas-maple-syrup-reserve-almost-empty-as-sap-season-at-risk-of-becoming-another-casualty/article_6f498bce-e788-11ee-8773-c71464d8be74.html)
+* [2024-03-26, 14:12:57](https://news.ycombinator.com/item?id=39828064) - [Tunnel Vision: When you dig beyond all purpose, digging becomes the purpose](https://historynewsnetwork.org/article/tunnel-vision)
 * [2024-03-26, 12:47:00](https://news.ycombinator.com/item?id=39827165) - [Letters from 1719 reveal familiar worries of London life](https://www.theguardian.com/culture/2024/mar/26/letters-from-1719-reveal-familiar-worries-london-life)
 * [2024-03-26, 12:23:54](https://news.ycombinator.com/item?id=39826967) - [Silicon Photonics Manufacturing Ramps Up](https://semiengineering.com/silicon-photonics-manufacturing-ramps-up/)
 
