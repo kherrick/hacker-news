@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 10:51:51](https://news.ycombinator.com/item?id=39873618) - [20 Years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
 * [2024-03-30, 10:33:44](https://news.ycombinator.com/item?id=39873528) - [OpenAI says it can clone a voice from just 15 seconds of audio](https://www.engadget.com/openai-says-it-can-clone-a-voice-from-just-15-seconds-of-audio-190356431.html)
 * [2024-03-30, 10:23:36](https://news.ycombinator.com/item?id=39873484) - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
 * [2024-03-30, 10:23:10](https://news.ycombinator.com/item?id=39873483) - [Scotland's hateful hate-crime law](https://unherd.com/2024/03/scotlands-hateful-hate-crime-law/)

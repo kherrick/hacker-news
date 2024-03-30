@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 10:51:51](https://news.ycombinator.com/item?id=39873618) - [20 Years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
 * [2024-03-30, 10:33:44](https://news.ycombinator.com/item?id=39873528) - [OpenAI says it can clone a voice from just 15 seconds of audio](https://www.engadget.com/openai-says-it-can-clone-a-voice-from-just-15-seconds-of-audio-190356431.html)
 * [2024-03-30, 10:23:36](https://news.ycombinator.com/item?id=39873484) - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
 * [2024-03-30, 10:09:36](https://news.ycombinator.com/item?id=39873422) - [Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)
@@ -11,7 +12,7 @@
 * [2024-03-30, 08:48:34](https://news.ycombinator.com/item?id=39873011) - [Debian on xz-utils: revert to version that does not contain changes by bad actor](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024)
 * [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
-* [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
+* [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [Someone has been attempting to DDoS us for weeks and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 04:49:45](https://news.ycombinator.com/item?id=39871913) - [Bpfman: An eBPF Manager](https://bpfman.io/main/)
 * [2024-03-30, 02:13:53](https://news.ycombinator.com/item?id=39871215) - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 * [2024-03-30, 02:07:48](https://news.ycombinator.com/item?id=39871186) - [Paint.net](https://www.getpaint.net/)
@@ -26,7 +27,6 @@
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-28, 12:22:07](https://news.ycombinator.com/item?id=39850340) - [Mazda's rotary engine in the age of the electric car](https://www.nippon.com/en/in-depth/d00956/)
 * [2024-03-28, 10:58:34](https://news.ycombinator.com/item?id=39849644) - [Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
-* [2024-03-28, 06:13:00](https://news.ycombinator.com/item?id=39848221) - [Linux ext2 filesystem driver now marked as deprecated](https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/)
 * [2024-03-27, 10:46:47](https://news.ycombinator.com/item?id=39837467) - [Richard Serra, minimalist sculptor whose steel creations awed viewers, has died](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
 * [2024-03-26, 21:58:53](https://news.ycombinator.com/item?id=39833337) - [A proposal for a novel acoustic crystal with continuous changes in elasticity](https://phys.org/news/2024-03-team-acoustic-crystal-smooth-elastic.html)
 * [2024-03-26, 08:56:50](https://news.ycombinator.com/item?id=39825582) - [Algebra problems selected from the Romanian Olympiad (Part 2)](https://www.andreinc.net/2024/03/25/10-algebra-problems-part-2)
