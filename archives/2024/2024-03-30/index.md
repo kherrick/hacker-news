@@ -6,6 +6,7 @@
 
 * [2024-03-30, 15:43:12](https://news.ycombinator.com/item?id=39875922) - [AT&T Says Data from 73M Accounts Leaked on Dark Web](https://www.bloomberg.com/news/articles/2024-03-30/at-t-t-says-data-from-73-million-accounts-leaked-on-dark-web)
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
+* [2024-03-30, 15:27:20](https://news.ycombinator.com/item?id=39875738) - [Map of US Foreign Assistance](https://www.foreignassistance.gov/)
 * [2024-03-30, 15:16:51](https://news.ycombinator.com/item?id=39875643) - [Tesla engineers don't have engineering degrees or even common sense apparently](https://twitter.com/InverseTheCons/status/1773175478867632162)
 * [2024-03-30, 15:07:26](https://news.ycombinator.com/item?id=39875553) - [The Reasonable Effectiveness of Using Old Phones as Servers](https://jarbus.net/blog/phone-server/)
 * [2024-03-30, 14:59:38](https://news.ycombinator.com/item?id=39875488) - [Engaging with Developers on Hacker News with Dan Moore [video]](https://redmonk.com/videos/a-redmonk-conversation-engaging-with-developers-on-hacker-news-with-dan-moore/)
@@ -65,6 +66,7 @@
 * [2024-03-30, 04:06:50](https://news.ycombinator.com/item?id=39871749) - [GitHub Disabled the Xz Repo](https://pony.social/@cadey/112182224209533198)
 * [2024-03-30, 03:54:42](https://news.ycombinator.com/item?id=39871704) - [Tesla starts using 'Supervised Full Self-Driving' language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
 * [2024-03-30, 03:35:18](https://news.ycombinator.com/item?id=39871632) - [A Seemingly Fake Person Was Running OpenAI's $175M Startup Fund](https://www.businessinsider.com/who-is-running-openais-startup-fund-2024-3)
+* [2024-03-30, 03:35:13](https://news.ycombinator.com/item?id=39871630) - [How do I get started with Jax on TPU VMs](https://github.com/shawwn/website/blob/master/jaxtpu.md)
 * [2024-03-30, 02:40:51](https://news.ycombinator.com/item?id=39871357) - [Zuckerberg personally ok'ed wiretapping both Amazon and YouTube [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.369872/gov.uscourts.cand.369872.736.0.pdf)
 * [2024-03-30, 02:28:43](https://news.ycombinator.com/item?id=39871295) - [Police Are Tagging Fleeing Cars with GPS Darts to Avoid Dangerous Pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
 * [2024-03-30, 02:13:53](https://news.ycombinator.com/item?id=39871215) - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
