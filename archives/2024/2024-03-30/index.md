@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 22:03:39](https://news.ycombinator.com/item?id=39879117) - [SpaceX's Gwynne Shotwell on the future of space travel [video]](https://www.youtube.com/watch?v=PqUoBaO7mzM)
 * [2024-03-30, 21:38:49](https://news.ycombinator.com/item?id=39878938) - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
 * [2024-03-30, 21:29:54](https://news.ycombinator.com/item?id=39878858) - [My Ideal Libre Computer+Phone](https://mpeyton.com/posts/my_ideal_libre_computer_phone/)
 * [2024-03-30, 21:27:36](https://news.ycombinator.com/item?id=39878841) - [See, this is why I retired early from software engineering](https://twitter.com/Devon_Eriksen_/status/1774094415235092494)
