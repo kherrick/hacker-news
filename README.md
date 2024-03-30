@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 * [2024-03-30, 20:29:02](https://news.ycombinator.com/item?id=39878317) - [NetBSD 10.0 Released](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 20:08:58](https://news.ycombinator.com/item?id=39878156) - [Novo Nordisk facing pressure as study finds $1k drug can be made for $5](https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/)
 * [2024-03-30, 19:59:00](https://news.ycombinator.com/item?id=39878079) - [Fraudulent studies are undermining the reliability of systematic reviews](https://www.biorxiv.org/content/10.1101/2024.02.13.580196v1)
@@ -21,7 +22,6 @@
 * [2024-03-30, 14:57:51](https://news.ycombinator.com/item?id=39875473) - [DeWitt and Stonebraker's \"MapReduce: A major step backwards\" (2009)](http://craig-henderson.blogspot.com/2009/11/dewitt-and-stonebrakers-mapreduce-major.html)
 * [2024-03-30, 14:29:22](https://news.ycombinator.com/item?id=39875225) - [Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes](https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283)
 * [2024-03-30, 13:56:45](https://news.ycombinator.com/item?id=39874931) - [IrfanView](https://www.irfanview.com/)
-* [2024-03-30, 13:18:12](https://news.ycombinator.com/item?id=39874583) - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
 * [2024-03-30, 11:42:34](https://news.ycombinator.com/item?id=39873909) - [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)

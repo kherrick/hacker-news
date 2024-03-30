@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 * [2024-03-30, 20:29:02](https://news.ycombinator.com/item?id=39878317) - [NetBSD 10.0 Released](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 20:08:58](https://news.ycombinator.com/item?id=39878156) - [Novo Nordisk facing pressure as study finds $1k drug can be made for $5](https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/)
 * [2024-03-30, 19:59:00](https://news.ycombinator.com/item?id=39878079) - [Fraudulent studies are undermining the reliability of systematic reviews](https://www.biorxiv.org/content/10.1101/2024.02.13.580196v1)
