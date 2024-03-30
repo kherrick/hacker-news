@@ -13,6 +13,7 @@
 * [2024-03-30, 19:16:53](https://news.ycombinator.com/item?id=39877730) - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
 * [2024-03-30, 19:05:21](https://news.ycombinator.com/item?id=39877637) - [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
 * [2024-03-30, 18:38:16](https://news.ycombinator.com/item?id=39877443) - [California fast-food workers will get $20 minimum wage, starting Monday](https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage)
+* [2024-03-30, 18:33:15](https://news.ycombinator.com/item?id=39877395) - [Popular songs are simpler and more repetitive than they used to be](https://www.science.org/content/article/popular-songs-are-simpler-and-more-repetitive-they-used-be)
 * [2024-03-30, 18:33:11](https://news.ycombinator.com/item?id=39877391) - [Running OCR against PDFs and images directly in the browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
 * [2024-03-30, 18:25:44](https://news.ycombinator.com/item?id=39877327) - [Contributing to Postgres 101: A Beginner's Experience](https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience)
 * [2024-03-30, 18:20:35](https://news.ycombinator.com/item?id=39877276) - [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
