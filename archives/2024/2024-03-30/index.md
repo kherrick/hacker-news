@@ -12,6 +12,7 @@
 * [2024-03-30, 20:25:09](https://news.ycombinator.com/item?id=39878275) - ['Shear sound waves' provide the magic for linking ultrasound and magnetic waves](https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html)
 * [2024-03-30, 20:08:58](https://news.ycombinator.com/item?id=39878156) - [Novo Nordisk facing pressure as study finds $1k drug can be made for $5](https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/)
 * [2024-03-30, 19:59:00](https://news.ycombinator.com/item?id=39878079) - [Fraudulent studies are undermining the reliability of systematic reviews](https://www.biorxiv.org/content/10.1101/2024.02.13.580196v1)
+* [2024-03-30, 19:44:55](https://news.ycombinator.com/item?id=39877960) - [Models all the way down](https://knowingmachines.org/models-all-the-way)
 * [2024-03-30, 19:44:12](https://news.ycombinator.com/item?id=39877949) - [Toni Morrison's Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
 * [2024-03-30, 19:16:53](https://news.ycombinator.com/item?id=39877730) - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
 * [2024-03-30, 19:05:21](https://news.ycombinator.com/item?id=39877637) - [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
