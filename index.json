@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-30, 02:40:51",
-      "https://news.ycombinator.com/item?id=39871357"
-    ],
-    [
-      "Zuckerberg personally ok'ed wiretapping both Amazon and YouTube [pdf]",
-      "https://storage.courtlistener.com/recap/gov.uscourts.cand.369872/gov.uscourts.cand.369872.736.0.pdf"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 02:28:43",
       "https://news.ycombinator.com/item?id=39871295"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2024-03-30, 01:25:39",
-      "https://news.ycombinator.com/item?id=39870959"
+      "2024-03-30, 02:07:48",
+      "https://news.ycombinator.com/item?id=39871186"
     ],
     [
-      "Building the first highway segment in the U.S. that can charge electric vehicles",
-      "https://www.purdue.edu/newsroom/releases/2024/Q1/building-the-first-highway-segment-in-the-u.s-that-can-charge-electric-vehicles-big-and-small-as-they-drive.html"
+      "Paint.net",
+      "https://www.getpaint.net/"
     ]
   ],
   [
@@ -37,6 +27,16 @@
     [
       "GPU4FS: A filesystem runs on GPU to accelerate data access",
       "https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 01:20:31",
+      "https://news.ycombinator.com/item?id=39870926"
+    ],
+    [
+      "History of JavaScript Interop in Dart",
+      "https://medium.com/dartlang/history-of-js-interop-in-dart-98b06991158f"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-03-29, 23:21:03",
-      "https://news.ycombinator.com/item?id=39870130"
-    ],
-    [
-      "Iowa official finds dead fish in 50 miles of fertilizer-contaminated river",
-      "https://www.desmoinesregister.com/story/tech/science/environment/2024/03/18/iowa-fertilizer-spill-results-in-miles-long-fish-kill-east-nishnabotna-river-red-oak/72995246007/"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 23:09:40",
       "https://news.ycombinator.com/item?id=39870037"
     ],
@@ -121,21 +111,11 @@
   ],
   [
     [
-      "2024-03-29, 20:51:14",
-      "https://news.ycombinator.com/item?id=39868852"
-    ],
-    [
-      "Nine writers on their Adderall use and experiences",
-      "https://pioneerworks.org/broadcast/club-med-adderall"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 20:25:55",
       "https://news.ycombinator.com/item?id=39868630"
     ],
     [
-      "Santa Barbara's Collective Memory, Sold for Kindling",
+      "Santa Barbara's collective memory, sold for kindling",
       "https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/"
     ]
   ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-03-29, 12:02:16",
+      "https://news.ycombinator.com/item?id=39863001"
+    ],
+    [
+      "Knuth and Plass line-breaking revisited (2007)",
+      "https://defoe.sourceforge.net/folio/knuth-plass.html"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 12:22:07",
       "https://news.ycombinator.com/item?id=39850340"
     ],
@@ -277,6 +267,16 @@
     [
       "Linux ext2 filesystem driver now marked as deprecated",
       "https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 05:01:17",
+      "https://news.ycombinator.com/item?id=39847940"
+    ],
+    [
+      "Hellandizing (1998)",
+      "https://www.multicians.org/thvv/hellandizing.html"
     ]
   ],
   [
