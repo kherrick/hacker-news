@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-30, 14:59:38",
-      "https://news.ycombinator.com/item?id=39875488"
+      "2024-03-30, 15:34:58",
+      "https://news.ycombinator.com/item?id=39875822"
     ],
     [
-      "Engaging with Developers on Hacker News with Dan Moore [video]",
-      "https://redmonk.com/videos/a-redmonk-conversation-engaging-with-developers-on-hacker-news-with-dan-moore/"
+      "About the Tailscale.com outage on March 7, 2024",
+      "https://tailscale.com/blog/tls-outage-20240307"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 14:57:51",
+      "https://news.ycombinator.com/item?id=39875473"
+    ],
+    [
+      "DeWitt and Stonebraker's \"MapReduce: A major step backwards\" (2009)",
+      "http://craig-henderson.blogspot.com/2009/11/dewitt-and-stonebrakers-mapreduce-major.html"
     ]
   ],
   [
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2024-03-30, 14:26:00",
-      "https://news.ycombinator.com/item?id=39875198"
+      "2024-03-30, 14:35:14",
+      "https://news.ycombinator.com/item?id=39875277"
     ],
     [
-      "How the Atlantic Went from Broke to Profitable in Three Years",
-      "https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18"
+      "Helix: Release 24.03 Highlights",
+      "https://helix-editor.com/news/release-24-03-highlights/"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 14:29:22",
+      "https://news.ycombinator.com/item?id=39875225"
+    ],
+    [
+      "Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes",
+      "https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=39872236"
     ],
     [
-      "When Will the Eclipse Happen? A Multimillennium Tale of Computation",
+      "When will the eclipse happen? A multimillennium tale of computation",
       "https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/"
     ]
   ],
@@ -157,16 +177,6 @@
     [
       "Bpfman: An eBPF Manager",
       "https://bpfman.io/main/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 02:13:53",
-      "https://news.ycombinator.com/item?id=39871215"
-    ],
-    [
-      "Why Has Figma Reinvented the Wheel with PostgreSQL?",
-      "https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Santa Barbara's collective memory, sold for kindling",
       "https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 19:49:51",
-      "https://news.ycombinator.com/item?id=39868254"
-    ],
-    [
-      "EEG channels with low-cost PiEEG device",
-      "https://pieeg.com/"
     ]
   ],
   [
