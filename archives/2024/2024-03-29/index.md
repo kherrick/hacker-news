@@ -12,6 +12,7 @@
 * [2024-03-29, 22:19:42](https://news.ycombinator.com/item?id=39869614) - [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
 * [2024-03-29, 22:18:45](https://news.ycombinator.com/item?id=39869603) - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 * [2024-03-29, 21:11:53](https://news.ycombinator.com/item?id=39869068) - [FAQ on the xz-utils backdoor – via a project dev](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27)
+* [2024-03-29, 20:51:14](https://news.ycombinator.com/item?id=39868852) - [Nine writers on their Adderall use and experiences](https://pioneerworks.org/broadcast/club-med-adderall)
 * [2024-03-29, 20:47:07](https://news.ycombinator.com/item?id=39868810) - [Xz format inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-03-29, 20:32:49](https://news.ycombinator.com/item?id=39868700) - [New York City's official AI chatbot is hallucinating incorrect legal advice](https://arstechnica.com/ai/2024/03/nycs-government-chatbot-is-lying-about-city-laws-and-regulations/)
 * [2024-03-29, 20:31:04](https://news.ycombinator.com/item?id=39868679) - [Project Wayfield – The JDK Wayland Desktop on Linux](https://inside.java/2024/03/24/openjdk-wakefield/)
