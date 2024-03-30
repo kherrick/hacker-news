@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-30, 12:56:03",
-      "https://news.ycombinator.com/item?id=39874404"
-    ],
-    [
-      "Xz: Can you spot the single character that disabled Linux landlock?",
-      "https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 11:58:41",
       "https://news.ycombinator.com/item?id=39874017"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2024-03-30, 10:09:36",
+      "https://news.ycombinator.com/item?id=39873422"
+    ],
+    [
+      "Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library",
+      "https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 09:55:08",
       "https://news.ycombinator.com/item?id=39873358"
     ],
@@ -97,16 +97,6 @@
     [
       "White space killed an enterprise app (2019)",
       "https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a?gi=f8010877f37d"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 09:12:01",
-      "https://news.ycombinator.com/item?id=39873144"
-    ],
-    [
-      "How Long Will x86 Endure?",
-      "https://thechipletter.substack.com/p/how-long-will-x86-endure"
     ]
   ],
   [
@@ -211,12 +201,22 @@
   ],
   [
     [
-      "2024-03-29, 20:12:57",
-      "https://news.ycombinator.com/item?id=39868504"
+      "2024-03-29, 19:49:51",
+      "https://news.ycombinator.com/item?id=39868254"
     ],
     [
-      "Radicle: Peer-to-Peer Collaboration with Git",
-      "https://lwn.net/SubscriberLink/966869/4077c682c91ab5ab/"
+      "EEG channels with low-cost PiEEG device",
+      "https://pieeg.com/"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 19:09:28",
+      "https://news.ycombinator.com/item?id=39867804"
+    ],
+    [
+      "Show HN: Appamor.d – Full set of AppArmor profiles (~ 1500 profiles)",
+      "https://github.com/roddhjav/apparmor.d"
     ]
   ],
   [
