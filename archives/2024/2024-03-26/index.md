@@ -62,6 +62,7 @@
 * [2024-03-26, 13:28:20](https://news.ycombinator.com/item?id=39827562) - [Grafana Labs Observability Survey 2024](https://grafana.com/observability-survey/)
 * [2024-03-26, 13:13:04](https://news.ycombinator.com/item?id=39827390) - [Show HN: I Made a Books Recommendation App Based on Your Mood](https://booksbymood.com)
 * [2024-03-26, 12:58:21](https://news.ycombinator.com/item?id=39827266) - [Baltimore's Key Bridge struck by cargo ship, collapses](https://www.wbaltv.com/article/baltimore-bridge-collapse-key-bridge/60303975)
+* [2024-03-26, 12:47:00](https://news.ycombinator.com/item?id=39827165) - [Letters from 1719 reveal familiar worries of London life](https://www.theguardian.com/culture/2024/mar/26/letters-from-1719-reveal-familiar-worries-london-life)
 * [2024-03-26, 12:42:17](https://news.ycombinator.com/item?id=39827127) - [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
 * [2024-03-26, 12:41:02](https://news.ycombinator.com/item?id=39827113) - [Florida's DeSantis signs law restricting social media for people under 16](https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25)
 * [2024-03-26, 12:39:41](https://news.ycombinator.com/item?id=39827102) - [What Computers Cannot Do: The Consequences of Turing-Completeness](https://yzena.com/2024/03/what-computers-cannot-do-the-consequences-of-turing-completeness/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-30, 21:38:49](https://news.ycombinator.com/item?id=39878938) - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
+* [2024-03-30, 21:29:54](https://news.ycombinator.com/item?id=39878858) - [My Ideal Libre Computer+Phone](https://mpeyton.com/posts/my_ideal_libre_computer_phone/)
 * [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 * [2024-03-30, 20:29:02](https://news.ycombinator.com/item?id=39878317) - [NetBSD 10.0 Released](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 20:25:09](https://news.ycombinator.com/item?id=39878275) - ['Shear sound waves' provide the magic for linking ultrasound and magnetic waves](https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html)
@@ -19,7 +20,6 @@
 * [2024-03-30, 16:04:53](https://news.ycombinator.com/item?id=39876114) - [Mamba Explained](https://thegradient.pub/mamba-explained/)
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
 * [2024-03-30, 14:57:51](https://news.ycombinator.com/item?id=39875473) - [DeWitt and Stonebraker's \"MapReduce: A major step backwards\" (2009)](http://craig-henderson.blogspot.com/2009/11/dewitt-and-stonebrakers-mapreduce-major.html)
-* [2024-03-30, 14:29:22](https://news.ycombinator.com/item?id=39875225) - [Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes](https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283)
 * [2024-03-30, 13:56:45](https://news.ycombinator.com/item?id=39874931) - [IrfanView](https://www.irfanview.com/)
 * [2024-03-30, 11:42:34](https://news.ycombinator.com/item?id=39873909) - [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
@@ -27,8 +27,8 @@
 * [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
 * [2024-03-30, 08:00:55](https://news.ycombinator.com/item?id=39872804) - [Tom's Essay (2008)](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
 * [2024-03-30, 06:01:32](https://news.ycombinator.com/item?id=39872236) - [When will the eclipse happen? A multimillennium tale of computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
-* [2024-03-30, 00:49:30](https://news.ycombinator.com/item?id=39870717) - [Figurative Representations in the North European Neolithic–Are They There?](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/figurative-representations-in-the-north-european-neolithicare-they-there/1907EFA10388E86A93E41C366C280133)
 * [2024-03-26, 14:12:57](https://news.ycombinator.com/item?id=39828064) - [Tunnel Vision: When you dig beyond all purpose, digging becomes the purpose](https://historynewsnetwork.org/article/tunnel-vision)
+* [2024-03-26, 12:47:00](https://news.ycombinator.com/item?id=39827165) - [Letters from 1719 reveal familiar worries of London life](https://www.theguardian.com/culture/2024/mar/26/letters-from-1719-reveal-familiar-worries-london-life)
 * [2024-03-26, 12:23:54](https://news.ycombinator.com/item?id=39826967) - [Silicon Photonics Manufacturing Ramps Up](https://semiengineering.com/silicon-photonics-manufacturing-ramps-up/)
 
 ## [Archives](archives/index.md)
