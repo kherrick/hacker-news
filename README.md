@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox's media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
 * [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 07:09:51](https://news.ycombinator.com/item?id=39872540) - [He Turned 55. Then He Started the Most Important Company. [TSMC]](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
@@ -25,7 +26,6 @@
 * [2024-03-28, 12:22:07](https://news.ycombinator.com/item?id=39850340) - [Mazda's rotary engine in the age of the electric car](https://www.nippon.com/en/in-depth/d00956/)
 * [2024-03-28, 10:58:34](https://news.ycombinator.com/item?id=39849644) - [Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
 * [2024-03-28, 06:13:00](https://news.ycombinator.com/item?id=39848221) - [Linux ext2 filesystem driver now marked as deprecated](https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/)
-* [2024-03-28, 05:46:38](https://news.ycombinator.com/item?id=39848126) - [The Call of the Weird](https://www.lrb.co.uk/the-paper/v46/n07/michael-ledger-lomas/the-call-of-the-weird)
 * [2024-03-28, 05:01:17](https://news.ycombinator.com/item?id=39847940) - [Hellandizing (1998)](https://www.multicians.org/thvv/hellandizing.html)
 * [2024-03-27, 10:46:47](https://news.ycombinator.com/item?id=39837467) - [Richard Serra, minimalist sculptor whose steel creations awed viewers, has died](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
 * [2024-03-26, 21:58:53](https://news.ycombinator.com/item?id=39833337) - [A proposal for a novel acoustic crystal with continuous changes in elasticity](https://phys.org/news/2024-03-team-acoustic-crystal-smooth-elastic.html)

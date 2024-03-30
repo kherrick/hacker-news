@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox's media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
 * [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 07:09:51](https://news.ycombinator.com/item?id=39872540) - [He Turned 55. Then He Started the Most Important Company. [TSMC]](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
