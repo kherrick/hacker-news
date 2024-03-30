@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 18:38:16](https://news.ycombinator.com/item?id=39877443) - [California fast-food workers will get $20 minimum wage, starting Monday](https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage)
 * [2024-03-30, 18:20:35](https://news.ycombinator.com/item?id=39877276) - [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
+* [2024-03-30, 18:19:18](https://news.ycombinator.com/item?id=39877267) - [XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
+* [2024-03-30, 17:59:51](https://news.ycombinator.com/item?id=39877077) - [The federal government promised to plant two billion trees. How's that going?](https://www.cbc.ca/newsinteractives/features/two-billion-trees)
 * [2024-03-30, 17:46:26](https://news.ycombinator.com/item?id=39876952) - [China uses foreign firms to turbocharge its industry](https://www.high-capacity.com/p/how-china-uses-foreign-firms-to-turbocharge)
 * [2024-03-30, 17:33:23](https://news.ycombinator.com/item?id=39876817) - [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 17:08:08](https://news.ycombinator.com/item?id=39876590) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
@@ -49,6 +52,8 @@
 * [2024-03-30, 11:42:34](https://news.ycombinator.com/item?id=39873909) - [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
 * [2024-03-30, 11:28:47](https://news.ycombinator.com/item?id=39873831) - [NYC AI Chatbot Touted by Adams Tells Businesses to Break the Law](https://www.thecity.nyc/2024/03/29/ai-chat-false-information-small-business/)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
+* [2024-03-30, 11:01:02](https://news.ycombinator.com/item?id=39873672) - [The Nicest Place on the Internet](https://thenicestplace.net)
+* [2024-03-30, 10:56:51](https://news.ycombinator.com/item?id=39873644) - [Ask HN: Going from CTO to Developer?](https://news.ycombinator.com/item?id=39873644)
 * [2024-03-30, 10:51:51](https://news.ycombinator.com/item?id=39873618) - [20 Years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
 * [2024-03-30, 10:33:44](https://news.ycombinator.com/item?id=39873528) - [OpenAI says it can clone a voice from just 15 seconds of audio](https://www.engadget.com/openai-says-it-can-clone-a-voice-from-just-15-seconds-of-audio-190356431.html)
 * [2024-03-30, 10:23:36](https://news.ycombinator.com/item?id=39873484) - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
