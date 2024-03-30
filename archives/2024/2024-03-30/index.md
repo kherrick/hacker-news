@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 22:56:29](https://news.ycombinator.com/item?id=39879488) - [Disillusioned Businesses Discovering That AI Kind of Sucks](https://futurism.com/the-byte/businesses-discovering-ai-sucks)
+* [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Redox: Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
 * [2024-03-30, 22:03:39](https://news.ycombinator.com/item?id=39879117) - [SpaceX's Gwynne Shotwell on the future of space travel [video]](https://www.youtube.com/watch?v=PqUoBaO7mzM)
 * [2024-03-30, 21:38:49](https://news.ycombinator.com/item?id=39878938) - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
 * [2024-03-30, 21:29:54](https://news.ycombinator.com/item?id=39878858) - [My Ideal Libre Computer+Phone](https://mpeyton.com/posts/my_ideal_libre_computer_phone/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-30, 22:03:39](https://news.ycombinator.com/item?id=39879117) - [SpaceX's Gwynne Shotwell on the future of space travel [video]](https://www.youtube.com/watch?v=PqUoBaO7mzM)
+* [2024-03-30, 22:56:29](https://news.ycombinator.com/item?id=39879488) - [Disillusioned Businesses Discovering That AI Kind of Sucks](https://futurism.com/the-byte/businesses-discovering-ai-sucks)
+* [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Redox: Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
 * [2024-03-30, 21:38:49](https://news.ycombinator.com/item?id=39878938) - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
 * [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 * [2024-03-30, 20:25:09](https://news.ycombinator.com/item?id=39878275) - ['Shear sound waves' provide the magic for linking ultrasound and magnetic waves](https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html)
@@ -24,7 +25,6 @@
 * [2024-03-30, 12:56:03](https://news.ycombinator.com/item?id=39874404) - [Xz: Can you spot the single character that disabled Linux landlock?](https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage collection for systems programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
-* [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
 * [2024-03-30, 08:00:55](https://news.ycombinator.com/item?id=39872804) - [Tom's Essay (2008)](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
 * [2024-03-30, 06:01:32](https://news.ycombinator.com/item?id=39872236) - [When will the eclipse happen? A multimillennium tale of computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
 * [2024-03-26, 14:12:57](https://news.ycombinator.com/item?id=39828064) - [Tunnel Vision: When you dig beyond all purpose, digging becomes the purpose](https://historynewsnetwork.org/article/tunnel-vision)
