@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 10:23:36](https://news.ycombinator.com/item?id=39873484) - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
 * [2024-03-30, 10:09:36](https://news.ycombinator.com/item?id=39873422) - [Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 * [2024-03-30, 09:35:05](https://news.ycombinator.com/item?id=39873262) - [Missouri AG sues Media Matters over its X research, demands donor names](https://arstechnica.com/tech-policy/2024/03/missouri-ag-sues-media-matters-in-lawsuit-echoing-elon-musks-complaints/)
@@ -19,6 +20,7 @@
 * [2024-03-30, 05:31:18](https://news.ycombinator.com/item?id=39872109) - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
 * [2024-03-30, 05:30:11](https://news.ycombinator.com/item?id=39872102) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
 * [2024-03-30, 04:49:47](https://news.ycombinator.com/item?id=39871914) - [Xz format inadequate for long-term archiving (2022-02-02)](https://www.nongnu.org/lzip/xz_inadequate.html)
+* [2024-03-30, 04:49:45](https://news.ycombinator.com/item?id=39871913) - [Bpfman: An eBPF Manager](https://bpfman.io/main/)
 * [2024-03-30, 04:43:28](https://news.ycombinator.com/item?id=39871887) - [British water company dumps sewage, claims \"no right to swim in the sea\"](https://inews.co.uk/news/environment/public-no-right-swim-sea-firm-dumped-sewage-2981778)
 * [2024-03-30, 04:06:50](https://news.ycombinator.com/item?id=39871749) - [GitHub Disabled the Xz Repo](https://pony.social/@cadey/112182224209533198)
 * [2024-03-30, 03:54:42](https://news.ycombinator.com/item?id=39871704) - [Tesla starts using 'Supervised Full Self-Driving' language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
