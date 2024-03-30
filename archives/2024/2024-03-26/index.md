@@ -53,6 +53,7 @@
 * [2024-03-26, 14:35:33](https://news.ycombinator.com/item?id=39828424) - [Flipping Pages: New Linux vulnerability in nf_tables and exploitation techniques](https://pwning.tech/nftables/)
 * [2024-03-26, 14:35:33](https://news.ycombinator.com/item?id=39828424) - [Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
 * [2024-03-26, 14:15:02](https://news.ycombinator.com/item?id=39828091) - [Visa, Mastercard Agree to Lower Swipe Fees, Settling Long-Running Lawsuit](https://www.wsj.com/finance/banking/visa-mastercard-agree-to-lower-swipe-fees-settling-long-running-lawsuit-d6e5f0a8)
+* [2024-03-26, 14:12:57](https://news.ycombinator.com/item?id=39828064) - [Tunnel Vision: When you dig beyond all purpose, digging becomes the purpose](https://historynewsnetwork.org/article/tunnel-vision)
 * [2024-03-26, 14:12:16](https://news.ycombinator.com/item?id=39828058) - [Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
 * [2024-03-26, 14:05:02](https://news.ycombinator.com/item?id=39827972) - [Pinnacle – a modern tribute to the 1986 classic, The Sentinel](https://viperfish.com.au/games/pinnacle.html)
 * [2024-03-26, 13:57:29](https://news.ycombinator.com/item?id=39827876) - [Barbara Fried SBF sentencing submission](https://www.documentcloud.org/documents/24445015-barbara-fried-sbf-sentencing-submission)

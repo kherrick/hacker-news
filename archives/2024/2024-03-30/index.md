@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
 * [2024-03-30, 20:08:58](https://news.ycombinator.com/item?id=39878156) - [Novo Nordisk facing pressure as study finds $1k drug can be made for $5](https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/)
+* [2024-03-30, 19:44:12](https://news.ycombinator.com/item?id=39877949) - [Toni Morrison's Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
 * [2024-03-30, 19:16:53](https://news.ycombinator.com/item?id=39877730) - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
 * [2024-03-30, 19:05:21](https://news.ycombinator.com/item?id=39877637) - [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
 * [2024-03-30, 18:38:16](https://news.ycombinator.com/item?id=39877443) - [California fast-food workers will get $20 minimum wage, starting Monday](https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage)
