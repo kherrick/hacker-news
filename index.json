@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-03-30, 17:05:42",
+      "https://news.ycombinator.com/item?id=39876565"
+    ],
+    [
+      "AT&T confirms data breach and resets customer passcodes",
+      "https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 17:00:09",
+      "https://news.ycombinator.com/item?id=39876517"
+    ],
+    [
+      "Hadrius (YC W23) – Founding Engineer for fastest growing compliance software",
+      "https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 16:51:57",
+      "https://news.ycombinator.com/item?id=39876447"
+    ],
+    [
+      "Benchmarking LLMs against human expert-curated biomedical knowledge graphs",
+      "https://www.sciencedirect.com/science/article/pii/S2667318524000023"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 16:04:53",
+      "https://news.ycombinator.com/item?id=39876114"
+    ],
+    [
+      "Mamba Explained",
+      "https://thegradient.pub/mamba-explained/"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 15:34:58",
       "https://news.ycombinator.com/item?id=39875822"
     ],
@@ -21,32 +61,22 @@
   ],
   [
     [
-      "2024-03-30, 14:45:30",
-      "https://news.ycombinator.com/item?id=39875374"
-    ],
-    [
-      "Ask HN: Anybody Using Htmx on the Job?",
-      "https://news.ycombinator.com/item?id=39875374"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 14:35:14",
-      "https://news.ycombinator.com/item?id=39875277"
-    ],
-    [
-      "Helix: Release 24.03 Highlights",
-      "https://helix-editor.com/news/release-24-03-highlights/"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 14:29:22",
       "https://news.ycombinator.com/item?id=39875225"
     ],
     [
       "Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes",
       "https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 13:56:45",
+      "https://news.ycombinator.com/item?id=39874931"
+    ],
+    [
+      "IrfanView",
+      "https://www.irfanview.com/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-03-30, 02:13:53",
-      "https://news.ycombinator.com/item?id=39871215"
-    ],
-    [
-      "Why Has Figma Reinvented the Wheel with PostgreSQL?",
-      "https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 02:07:48",
       "https://news.ycombinator.com/item?id=39871186"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-03-29, 19:49:51",
-      "https://news.ycombinator.com/item?id=39868254"
-    ],
-    [
-      "EEG channels with low-cost PiEEG device",
-      "https://pieeg.com/"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 19:04:04",
       "https://news.ycombinator.com/item?id=39867757"
     ],
@@ -237,16 +247,6 @@
     [
       "Overlay networks based on WebRTC",
       "https://github.com/pojntfx/weron"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 16:16:50",
-      "https://news.ycombinator.com/item?id=39865810"
-    ],
-    [
-      "Backdoor in upstream xz/liblzma leading to SSH server compromise",
-      "https://www.openwall.com/lists/oss-security/2024/03/29/4"
     ]
   ],
   [
