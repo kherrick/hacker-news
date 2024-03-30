@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-30, 13:02:25",
-      "https://news.ycombinator.com/item?id=39874466"
+      "2024-03-30, 12:41:35",
+      "https://news.ycombinator.com/item?id=39874303"
     ],
     [
-      "XZ Utils Backdoor",
-      "https://tukaani.org/xz-backdoor/"
+      "The Ken Thompson Hack",
+      "https://wiki.c2.com/?TheKenThompsonHack"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "X confirms plans for NSFW Communities",
       "https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 11:55:19",
-      "https://news.ycombinator.com/item?id=39873989"
-    ],
-    [
-      "OpenAI and Microsoft reportedly planning $100B project for an AI supercomputer",
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-reportedly-planning-dollar100-billion-datacenter-project-for-an-ai-supercomputer"
     ]
   ],
   [
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2024-03-30, 08:48:34",
-      "https://news.ycombinator.com/item?id=39873011"
-    ],
-    [
-      "Debian on xz-utils: revert to version that does not contain changes by bad actor",
-      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 08:29:22",
       "https://news.ycombinator.com/item?id=39872938"
     ],
@@ -157,6 +137,16 @@
     [
       "Bpfman: An eBPF Manager",
       "https://bpfman.io/main/"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 02:13:53",
+      "https://news.ycombinator.com/item?id=39871215"
+    ],
+    [
+      "Why Has Figma Reinvented the Wheel with PostgreSQL?",
+      "https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Towards 1-bit Machine Learning Models",
       "https://mobiusml.github.io/1bit_blog/"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 06:13:00",
+      "https://news.ycombinator.com/item?id=39848221"
+    ],
+    [
+      "Linux ext2 filesystem driver now marked as deprecated",
+      "https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/"
     ]
   ],
   [
