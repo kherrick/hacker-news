@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2024-03-30, 11:58:41",
-      "https://news.ycombinator.com/item?id=39874017"
+      "2024-03-30, 12:06:01",
+      "https://news.ycombinator.com/item?id=39874066"
     ],
     [
-      "X confirms plans for NSFW Communities",
-      "https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/"
+      "Brilliant Pebbles",
+      "https://www.llnl.gov/archives/1980s/brilliant-pebbles"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "20 Years of Gmail",
       "https://www.theverge.com/24113616/gmail-email-20-years-old-internet"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 10:23:36",
-      "https://news.ycombinator.com/item?id=39873484"
-    ],
-    [
-      "App scans your pile of Lego and uses ML to suggest projects",
-      "https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39873169"
     ],
     [
-      "Some notes on Firefox's media autoplay settings in practice as of Firefox 124",
+      "Some notes on Firefox’s media autoplay settings in practice as of Firefox 124",
       "https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV"
     ]
   ],
@@ -147,16 +137,6 @@
     [
       "Paint.net",
       "https://www.getpaint.net/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 01:53:02",
-      "https://news.ycombinator.com/item?id=39871104"
-    ],
-    [
-      "Gravitational waves may have made human life possible",
-      "https://phys.org/news/2024-03-gravitational-human-life.html"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-03-29, 16:42:47",
+      "https://news.ycombinator.com/item?id=39866111"
+    ],
+    [
+      "Awk as a major systems programming language, revisited (2018)",
+      "http://www.skeeve.com/awk-sys-prog.html"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 16:16:50",
       "https://news.ycombinator.com/item?id=39865810"
     ],
     [
       "Backdoor in upstream xz/liblzma leading to SSH server compromise",
       "https://www.openwall.com/lists/oss-security/2024/03/29/4"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 23:32:29",
+      "https://news.ycombinator.com/item?id=39858750"
+    ],
+    [
+      "Doom Captcha (2021)",
+      "https://vivirenremoto.github.io/doomcaptcha/"
     ]
   ],
   [
