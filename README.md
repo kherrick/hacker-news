@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-30, 15:43:12](https://news.ycombinator.com/item?id=39875922) - [AT&T Says Data from 73M Accounts Leaked on Dark Web](https://www.bloomberg.com/news/articles/2024-03-30/at-t-t-says-data-from-73-million-accounts-leaked-on-dark-web)
+* [2024-03-30, 14:59:38](https://news.ycombinator.com/item?id=39875488) - [Engaging with Developers on Hacker News with Dan Moore [video]](https://redmonk.com/videos/a-redmonk-conversation-engaging-with-developers-on-hacker-news-with-dan-moore/)
 * [2024-03-30, 14:45:30](https://news.ycombinator.com/item?id=39875374) - [Ask HN: Anybody Using Htmx on the Job?](https://news.ycombinator.com/item?id=39875374)
 * [2024-03-30, 14:26:00](https://news.ycombinator.com/item?id=39875198) - [How the Atlantic Went from Broke to Profitable in Three Years](https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18)
 * [2024-03-30, 14:09:37](https://news.ycombinator.com/item?id=39875053) - [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
@@ -12,7 +12,6 @@
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 * [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox’s media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
-* [2024-03-30, 09:14:17](https://news.ycombinator.com/item?id=39873167) - [White space killed an enterprise app (2019)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a?gi=f8010877f37d)
 * [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
 * [2024-03-30, 08:00:55](https://news.ycombinator.com/item?id=39872804) - [Tom's Essay (2008)](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
 * [2024-03-30, 06:01:32](https://news.ycombinator.com/item?id=39872236) - [When Will the Eclipse Happen? A Multimillennium Tale of Computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
@@ -22,6 +21,7 @@
 * [2024-03-30, 01:21:14](https://news.ycombinator.com/item?id=39870929) - [Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
 * [2024-03-29, 22:19:42](https://news.ycombinator.com/item?id=39869614) - [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
 * [2024-03-29, 20:25:55](https://news.ycombinator.com/item?id=39868630) - [Santa Barbara's collective memory, sold for kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
+* [2024-03-29, 19:49:51](https://news.ycombinator.com/item?id=39868254) - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
