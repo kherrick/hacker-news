@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 13:18:12](https://news.ycombinator.com/item?id=39874583) - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
+* [2024-03-30, 13:05:01](https://news.ycombinator.com/item?id=39874490) - [Return-to-Office Mandates: How to Lose Your Best Performers](https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/)
 * [2024-03-30, 13:02:25](https://news.ycombinator.com/item?id=39874466) - [XZ Utils Backdoor](https://tukaani.org/xz-backdoor/)
 * [2024-03-30, 12:56:03](https://news.ycombinator.com/item?id=39874404) - [Xz: Can you spot the single character that disabled Linux landlock?](https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d)
 * [2024-03-30, 12:41:35](https://news.ycombinator.com/item?id=39874303) - [The Ken Thompson Hack](https://wiki.c2.com/?TheKenThompsonHack)
