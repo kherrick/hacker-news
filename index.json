@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-03-30, 00:12:36",
-      "https://news.ycombinator.com/item?id=39870458"
-    ],
-    [
-      "Big money lines up behind a Redis fork",
-      "https://www.runtime.news/big-money-lines-up-behind-a-redis-fork/"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 23:50:01",
       "https://news.ycombinator.com/item?id=39870312"
     ],
@@ -87,6 +77,16 @@
     [
       "Running a Raspberry Pi with a read-only root filesystem",
       "https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 22:18:45",
+      "https://news.ycombinator.com/item?id=39869603"
+    ],
+    [
+      "TnT-LLM: Text Mining at Scale with Large Language Models",
+      "https://arxiv.org/abs/2403.12173"
     ]
   ],
   [
