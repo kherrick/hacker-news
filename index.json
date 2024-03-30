@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 14:09:37",
+      "https://news.ycombinator.com/item?id=39875053"
+    ],
+    [
+      "US appeals court kills ban on plastic containers contaminated with PFAS",
+      "https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 13:18:12",
       "https://news.ycombinator.com/item?id=39874583"
     ],
@@ -51,26 +61,6 @@
   ],
   [
     [
-      "2024-03-30, 10:51:51",
-      "https://news.ycombinator.com/item?id=39873618"
-    ],
-    [
-      "20 Years of Gmail",
-      "https://www.theverge.com/24113616/gmail-email-20-years-old-internet"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 09:55:08",
-      "https://news.ycombinator.com/item?id=39873358"
-    ],
-    [
-      "KasmVNC – WASM Based VNC Server and Client",
-      "https://github.com/kasmtech/KasmVNC"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 09:36:53",
       "https://news.ycombinator.com/item?id=39873272"
     ],
@@ -107,6 +97,16 @@
     [
       "From scratch OpenGL and shaders with raw Xlib",
       "https://hereket.com/posts/x11_window_with_shaders/"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 08:00:55",
+      "https://news.ycombinator.com/item?id=39872804"
+    ],
+    [
+      "Tom's Essay (2008)",
+      "https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=39850340"
     ],
     [
-      "Mazda's rotary engine in the age of the electric car",
+      "Mazda’s rotary engine in the age of the electric car",
       "https://www.nippon.com/en/in-depth/d00956/"
     ]
   ],
