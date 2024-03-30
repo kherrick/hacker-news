@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 17:08:08](https://news.ycombinator.com/item?id=39876590) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
 * [2024-03-30, 17:05:42](https://news.ycombinator.com/item?id=39876565) - [AT&T confirms data breach and resets customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
 * [2024-03-30, 17:00:09](https://news.ycombinator.com/item?id=39876517) - [Hadrius (YC W23) – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-03-30, 16:51:57](https://news.ycombinator.com/item?id=39876447) - [Benchmarking LLMs against human expert-curated biomedical knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2667318524000023)
+* [2024-03-30, 16:39:30](https://news.ycombinator.com/item?id=39876374) - [Marissa Mayer's Startup](https://techcrunch.com/2024/03/27/marissa-mayers-startup-just-rolled-out-apps-for-group-photo-sharing-and-event-planning-and-the-internet-isnt-sure-what-to-think/)
+* [2024-03-30, 16:31:25](https://news.ycombinator.com/item?id=39876320) - [Personal 'invisibility shield' goes on sale, starting under $70](https://newatlas.com/good-thinking/invisibility-shield-2/)
 * [2024-03-30, 16:04:53](https://news.ycombinator.com/item?id=39876114) - [Mamba Explained](https://thegradient.pub/mamba-explained/)
 * [2024-03-30, 15:43:12](https://news.ycombinator.com/item?id=39875922) - [AT&T Says Data from 73M Accounts Leaked on Dark Web](https://www.bloomberg.com/news/articles/2024-03-30/at-t-t-says-data-from-73-million-accounts-leaked-on-dark-web)
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
