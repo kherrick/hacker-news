@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-30, 04:43:28](https://news.ycombinator.com/item?id=39871887) - [British water company dumps sewage, claims \"no right to swim in the sea\"](https://inews.co.uk/news/environment/public-no-right-swim-sea-firm-dumped-sewage-2981778)
 * [2024-03-30, 03:54:42](https://news.ycombinator.com/item?id=39871704) - [Tesla starts using 'Supervised Full Self-Driving' language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
+* [2024-03-30, 02:13:53](https://news.ycombinator.com/item?id=39871215) - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 * [2024-03-30, 02:07:48](https://news.ycombinator.com/item?id=39871186) - [Paint.net](https://www.getpaint.net/)
 * [2024-03-30, 01:21:14](https://news.ycombinator.com/item?id=39870929) - [Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
 * [2024-03-30, 01:17:19](https://news.ycombinator.com/item?id=39870902) - [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
