@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 05:31:18](https://news.ycombinator.com/item?id=39872109) - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
+* [2024-03-30, 05:30:11](https://news.ycombinator.com/item?id=39872102) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
 * [2024-03-30, 04:43:28](https://news.ycombinator.com/item?id=39871887) - [British water company dumps sewage, claims \"no right to swim in the sea\"](https://inews.co.uk/news/environment/public-no-right-swim-sea-firm-dumped-sewage-2981778)
 * [2024-03-30, 04:06:50](https://news.ycombinator.com/item?id=39871749) - [GitHub Disabled the Xz Repo](https://pony.social/@cadey/112182224209533198)
 * [2024-03-30, 03:54:42](https://news.ycombinator.com/item?id=39871704) - [Tesla starts using 'Supervised Full Self-Driving' language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
