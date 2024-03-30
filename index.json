@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 10:23:36",
+      "https://news.ycombinator.com/item?id=39873484"
+    ],
+    [
+      "App scans your pile of Lego and uses ML to suggest projects",
+      "https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 10:09:36",
       "https://news.ycombinator.com/item?id=39873422"
     ],
@@ -17,16 +27,6 @@
     [
       "Prolog language for PostgreSQL proof of concept",
       "https://github.com/tatut/pgprolog"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 09:35:05",
-      "https://news.ycombinator.com/item?id=39873262"
-    ],
-    [
-      "Missouri AG sues Media Matters over its X research, demands donor names",
-      "https://arstechnica.com/tech-policy/2024/03/missouri-ag-sues-media-matters-in-lawsuit-echoing-elon-musks-complaints/"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "TSMC was founded by Morris Chang when he was 55 years old",
       "https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 04:49:45",
+      "https://news.ycombinator.com/item?id=39871913"
+    ],
+    [
+      "Bpfman: An eBPF Manager",
+      "https://bpfman.io/main/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Backdoor in upstream xz/liblzma leading to SSH server compromise",
       "https://www.openwall.com/lists/oss-security/2024/03/29/4"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 12:22:07",
-      "https://news.ycombinator.com/item?id=39850340"
-    ],
-    [
-      "Mazda's rotary engine in the age of the electric car",
-      "https://www.nippon.com/en/in-depth/d00956/"
     ]
   ],
   [
