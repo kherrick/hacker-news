@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 18:20:35](https://news.ycombinator.com/item?id=39877276) - [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
 * [2024-03-30, 17:46:26](https://news.ycombinator.com/item?id=39876952) - [China uses foreign firms to turbocharge its industry](https://www.high-capacity.com/p/how-china-uses-foreign-firms-to-turbocharge)
 * [2024-03-30, 17:33:23](https://news.ycombinator.com/item?id=39876817) - [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 17:08:08](https://news.ycombinator.com/item?id=39876590) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
