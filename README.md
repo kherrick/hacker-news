@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-30, 12:41:35](https://news.ycombinator.com/item?id=39874303) - [The Ken Thompson Hack](https://wiki.c2.com/?TheKenThompsonHack)
+* [2024-03-30, 12:56:03](https://news.ycombinator.com/item?id=39874404) - [Xz: Can you spot the single character that disabled Linux landlock?](https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d)
 * [2024-03-30, 11:58:41](https://news.ycombinator.com/item?id=39874017) - [X confirms plans for NSFW Communities](https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/)
+* [2024-03-30, 11:52:55](https://news.ycombinator.com/item?id=39873977) - [Navy to Test Microwave Anti-Drone Weapon at Sea in 2026](https://news.usni.org/2024/03/27/navy-to-test-microwave-anti-drone-weapon-at-sea-in-2026)
 * [2024-03-30, 11:42:34](https://news.ycombinator.com/item?id=39873909) - [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
 * [2024-03-30, 10:51:51](https://news.ycombinator.com/item?id=39873618) - [20 Years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
 * [2024-03-30, 10:23:36](https://news.ycombinator.com/item?id=39873484) - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
@@ -9,10 +10,9 @@
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 * [2024-03-30, 09:14:23](https://news.ycombinator.com/item?id=39873169) - [Some notes on Firefox's media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
 * [2024-03-30, 09:14:17](https://news.ycombinator.com/item?id=39873167) - [White space killed an enterprise app (2019)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a?gi=f8010877f37d)
+* [2024-03-30, 09:12:01](https://news.ycombinator.com/item?id=39873144) - [How Long Will x86 Endure?](https://thechipletter.substack.com/p/how-long-will-x86-endure)
 * [2024-03-30, 08:53:19](https://news.ycombinator.com/item?id=39873037) - [Rustic UI: Crafting the Future of UX](https://blog.dragonscale.ai/rustic-ui-crafting-the-future-of-ux/)
-* [2024-03-30, 08:29:22](https://news.ycombinator.com/item?id=39872938) - [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 * [2024-03-30, 08:08:57](https://news.ycombinator.com/item?id=39872848) - [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
-* [2024-03-30, 07:35:30](https://news.ycombinator.com/item?id=39872686) - [Someone has been attempting to DDoS us for weeks and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
 * [2024-03-30, 04:49:45](https://news.ycombinator.com/item?id=39871913) - [Bpfman: An eBPF Manager](https://bpfman.io/main/)
 * [2024-03-30, 02:13:53](https://news.ycombinator.com/item?id=39871215) - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 * [2024-03-30, 02:07:48](https://news.ycombinator.com/item?id=39871186) - [Paint.net](https://www.getpaint.net/)
@@ -21,6 +21,7 @@
 * [2024-03-29, 23:50:01](https://news.ycombinator.com/item?id=39870312) - [Engineers find a new way to convert carbon dioxide into useful products](https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327)
 * [2024-03-29, 22:19:42](https://news.ycombinator.com/item?id=39869614) - [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
 * [2024-03-29, 20:25:55](https://news.ycombinator.com/item?id=39868630) - [Santa Barbara's collective memory, sold for kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
+* [2024-03-29, 20:12:57](https://news.ycombinator.com/item?id=39868504) - [Radicle: Peer-to-Peer Collaboration with Git](https://lwn.net/SubscriberLink/966869/4077c682c91ab5ab/)
 * [2024-03-29, 19:04:04](https://news.ycombinator.com/item?id=39867757) - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
 * [2024-03-29, 17:00:07](https://news.ycombinator.com/item?id=39866325) - [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
 * [2024-03-29, 16:16:50](https://news.ycombinator.com/item?id=39865810) - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
@@ -29,7 +30,6 @@
 * [2024-03-28, 06:13:00](https://news.ycombinator.com/item?id=39848221) - [Linux ext2 filesystem driver now marked as deprecated](https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/)
 * [2024-03-27, 10:46:47](https://news.ycombinator.com/item?id=39837467) - [Richard Serra, minimalist sculptor whose steel creations awed viewers, has died](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
 * [2024-03-26, 21:58:53](https://news.ycombinator.com/item?id=39833337) - [A proposal for a novel acoustic crystal with continuous changes in elasticity](https://phys.org/news/2024-03-team-acoustic-crystal-smooth-elastic.html)
-* [2024-03-26, 08:56:50](https://news.ycombinator.com/item?id=39825582) - [Algebra problems selected from the Romanian Olympiad (Part 2)](https://www.andreinc.net/2024/03/25/10-algebra-problems-part-2)
 
 ## [Archives](archives/index.md)
 
