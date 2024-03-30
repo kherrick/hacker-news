@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-03-30, 08:08:57",
+      "https://news.ycombinator.com/item?id=39872848"
+    ],
+    [
+      "From scratch OpenGL and shaders with raw Xlib",
+      "https://hereket.com/posts/x11_window_with_shaders/"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 07:35:30",
       "https://news.ycombinator.com/item?id=39872686"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39872540"
     ],
     [
-      "He Turned 55. Then He Started the Most Important Company. [TSMC]",
+      "TSMC was founded by Morris Chang when he was 55 years old",
       "https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Backdoor in upstream xz/liblzma leading to SSH server compromise",
       "https://www.openwall.com/lists/oss-security/2024/03/29/4"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 12:02:16",
-      "https://news.ycombinator.com/item?id=39863001"
-    ],
-    [
-      "Knuth and Plass line-breaking revisited (2007)",
-      "https://defoe.sourceforge.net/folio/knuth-plass.html"
     ]
   ],
   [
