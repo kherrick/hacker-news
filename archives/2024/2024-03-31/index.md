@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 16:43:01](https://news.ycombinator.com/item?id=39885773) - [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
+* [2024-03-31, 15:41:10](https://news.ycombinator.com/item?id=39885238) - [2023 goes down as one of the safest years in commercial aviation history](https://askthepilot.com/safest-year-2023/)
 * [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
+* [2024-03-31, 14:41:54](https://news.ycombinator.com/item?id=39884711) - [Robinhood's new, attractive and expensive credit card](https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/)
 * [2024-03-31, 14:38:17](https://news.ycombinator.com/item?id=39884683) - [Totality and non-standard recursion in Idris](https://franklin.dyer.me/post/222)
 * [2024-03-31, 14:31:12](https://news.ycombinator.com/item?id=39884623) - [How do TV detector vans work?](https://www.theguardian.com/notesandqueries/query/0,5753,-22440,00.html)
 * [2024-03-31, 14:28:22](https://news.ycombinator.com/item?id=39884596) - [First Council of Nicaea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
