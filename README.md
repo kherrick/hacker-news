@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-31, 02:03:31](https://news.ycombinator.com/item?id=39880664) - [A Microsoft Excel Spreadsheet from Hell Slowed Williams' F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
 * [2024-03-31, 00:34:07](https://news.ycombinator.com/item?id=39880152) - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
-* [2024-03-31, 00:26:12](https://news.ycombinator.com/item?id=39880090) - [Average worker now logs off at 4 p.m. on Fridays](https://www.axios.com/2024/03/30/work-log-off-early-fridays-early-weekend)
 * [2024-03-30, 22:46:23](https://news.ycombinator.com/item?id=39879432) - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
 * [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
 * [2024-03-30, 22:21:44](https://news.ycombinator.com/item?id=39879250) - [The Set-Up-to-Fail Syndrome (1998)](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
