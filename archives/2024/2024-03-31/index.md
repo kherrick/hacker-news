@@ -12,6 +12,7 @@
 * [2024-03-31, 13:22:40](https://news.ycombinator.com/item?id=39884009) - [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
 * [2024-03-31, 13:21:50](https://news.ycombinator.com/item?id=39884004) - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 * [2024-03-31, 13:12:00](https://news.ycombinator.com/item?id=39883949) - [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
+* [2024-03-31, 12:47:41](https://news.ycombinator.com/item?id=39883780) - [Apple TV's Fantastic \"Silo\" Plays Out Like Great Sci-Fi Literature (2023)](https://www.rogerebert.com/streaming/silo-tv-review)
 * [2024-03-31, 12:42:34](https://news.ycombinator.com/item?id=39883747) - [Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included](https://news.ycombinator.com/item?id=39883747)
 * [2024-03-31, 12:31:04](https://news.ycombinator.com/item?id=39883668) - [Silicon spikes take out 96% of virus particles](https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes)
 * [2024-03-31, 12:16:07](https://news.ycombinator.com/item?id=39883571) - [The AI industry spent 17x more on Nvidia chips than it brought in in revenue](https://old.reddit.com/r/MachineLearning/comments/1bs1ebl/wsj_the_ai_industry_spent_17x_more_on_nvidia/)
