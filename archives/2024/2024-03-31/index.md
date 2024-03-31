@@ -5,9 +5,13 @@
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
 * [2024-03-31, 21:27:56](https://news.ycombinator.com/item?id=39888213) - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
+* [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Cpp2 and cppfront – An experimental 'C++ syntax 2' and its first compiler](https://hsutter.github.io/cppfront/)
 * [2024-03-31, 21:12:34](https://news.ycombinator.com/item?id=39888113) - [Microsoft Helping Out in Making the Linux Kernel Language More Inclusive](https://www.phoronix.com/news/Microsoft-Linux-More-Inclusive)
 * [2024-03-31, 21:09:53](https://news.ycombinator.com/item?id=39888090) - [Tesla Cybertruck Frunk Is Hungry for Fingers](https://jalopnik.com/tesla-cybertruck-frunk-is-hungry-for-fingers-1851372744)
+* [2024-03-31, 21:05:05](https://news.ycombinator.com/item?id=39888059) - [The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
 * [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
+* [2024-03-31, 21:04:08](https://news.ycombinator.com/item?id=39888054) - [IBM lifts lid on latest bid to halt mainframe skill slips](https://www.theregister.com/2024/03/08/ibm_mainframe_skill/)
+* [2024-03-31, 20:32:45](https://news.ycombinator.com/item?id=39887815) - [Modeling of Pulsed Plasma Rocket Shows It Should Be Possible to Create One](https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/)
 * [2024-03-31, 20:24:12](https://news.ycombinator.com/item?id=39887732) - [Post-operative cognitive dysfunction is exacerbated by high-fat diet](https://www.sciencedirect.com/science/article/abs/pii/S0889159123004105)
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
