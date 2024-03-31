@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-31, 10:54:19",
+      "https://news.ycombinator.com/item?id=39883123"
+    ],
+    [
+      "WSJ: AI industry spent 17x more on Nvidia chips than it brought in in revenue",
+      "https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 10:44:49",
+      "https://news.ycombinator.com/item?id=39883089"
+    ],
+    [
+      "Ask HN: How bad is the xz hack?",
+      "https://news.ycombinator.com/item?id=39883089"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 10:42:04",
       "https://news.ycombinator.com/item?id=39883072"
     ],
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2024-03-30, 21:38:49",
-      "https://news.ycombinator.com/item?id=39878938"
+      "2024-03-30, 22:31:24",
+      "https://news.ycombinator.com/item?id=39879325"
     ],
     [
-      "The jobs being replaced by AI – an analysis of 5M freelancing jobs",
-      "https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/"
+      "Xz.git: Fix Linux Landlock Feature Test in Autotools",
+      "https://git.tukaani.org/?p=xz.git;a=commitdiff;h=328c52da8a2bbb81307644efdb58db2c422d9ba7"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Git as a debugging tool",
       "https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 18:33:11",
-      "https://news.ycombinator.com/item?id=39877391"
-    ],
-    [
-      "Running OCR against PDFs and images directly in the browser",
-      "https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Prolog language for PostgreSQL proof of concept",
       "https://github.com/tatut/pgprolog"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 06:01:32",
-      "https://news.ycombinator.com/item?id=39872236"
-    ],
-    [
-      "When will the eclipse happen? A multimillennium tale of computation",
-      "https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/"
     ]
   ]
 ]
