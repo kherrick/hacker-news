@@ -6,7 +6,6 @@
 * [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
 * [2024-03-31, 21:27:56](https://news.ycombinator.com/item?id=39888213) - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
 * [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
-* [2024-03-31, 21:05:05](https://news.ycombinator.com/item?id=39888059) - [The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
 * [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
 * [2024-03-31, 20:58:33](https://news.ycombinator.com/item?id=39888020) - [Documentation for the AMD 7900XTX](https://github.com/geohot/7900xtx)
 * [2024-03-31, 20:32:45](https://news.ycombinator.com/item?id=39887815) - [Modeling of pulsed plasma rocket shows it should be possible to create one](https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/)
@@ -28,6 +27,7 @@
 * [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
 * [2024-03-30, 06:42:18](https://news.ycombinator.com/item?id=39872406) - [The roller ship was not an effective way to cross the high seas](https://hackaday.com/2024/03/27/the-roller-ship-was-not-an-effective-way-to-cross-the-high-seas/)
 * [2024-03-29, 12:21:04](https://news.ycombinator.com/item?id=39863163) - [When Bacteria Are Beautiful](https://nautil.us/when-bacteria-are-beautiful-541411/)
+* [2024-03-29, 12:11:43](https://news.ycombinator.com/item?id=39863072) - [Typesetting the LaTeX Way (2013)](https://chriscummins.cc/2013/typesetting/)
 * [2024-03-29, 07:36:45](https://news.ycombinator.com/item?id=39861525) - [Show HN: An adventure game in Z80 assembly for CP/M and ZX Spectrum](https://github.com/skx/lighthouse-of-doom)
 * [2024-03-28, 05:23:11](https://news.ycombinator.com/item?id=39848027) - [Influencers: Japan's secret weapon to promote niche tourism spots](https://www.japantimes.co.jp/business/2024/03/28/japan-tourism-influencers/)
 
