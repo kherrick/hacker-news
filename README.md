@@ -2,7 +2,6 @@
 
 * [2024-03-31, 10:42:04](https://news.ycombinator.com/item?id=39883072) - [How read-intensive is Linux's use of RCU? (And what is its latency?)](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
-* [2024-03-31, 07:57:24](https://news.ycombinator.com/item?id=39882337) - [BYD Rolls Off Its 7Mth New Energy Vehicle](https://cleantechnica.com/2024/03/27/byd-rolls-off-its-7-millionth-new-energy-vehicle/)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess My RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 06:41:55](https://news.ycombinator.com/item?id=39881980) - [Layout of Rust's u128 and i128 changed](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 * [2024-03-31, 06:36:11](https://news.ycombinator.com/item?id=39881962) - [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
@@ -14,6 +13,7 @@
 * [2024-03-30, 23:34:50](https://news.ycombinator.com/item?id=39879710) - [xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 * [2024-03-30, 22:57:39](https://news.ycombinator.com/item?id=39879496) - [Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
 * [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
+* [2024-03-30, 21:38:49](https://news.ycombinator.com/item?id=39878938) - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
 * [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 * [2024-03-30, 19:44:12](https://news.ycombinator.com/item?id=39877949) - [Toni Morrison's Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
 * [2024-03-30, 19:16:53](https://news.ycombinator.com/item?id=39877730) - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
