@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
 * [2024-03-31, 16:43:01](https://news.ycombinator.com/item?id=39885773) - [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
+* [2024-03-31, 16:42:04](https://news.ycombinator.com/item?id=39885764) - [It's time to stop using SMS for anything. (2021)](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
 * [2024-03-31, 15:41:10](https://news.ycombinator.com/item?id=39885238) - [2023 goes down as one of the safest years in commercial aviation history](https://askthepilot.com/safest-year-2023/)
 * [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
 * [2024-03-31, 14:41:54](https://news.ycombinator.com/item?id=39884711) - [Robinhood's new, attractive and expensive credit card](https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/)
@@ -46,6 +47,7 @@
 * [2024-03-31, 05:29:32](https://news.ycombinator.com/item?id=39881705) - [World Backup Day](https://www.worldbackupday.com/en)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 * [2024-03-31, 03:13:27](https://news.ycombinator.com/item?id=39881044) - [XZ backdoor may have a killswitch and mitigation](https://news.ycombinator.com/item?id=39881044)
+* [2024-03-31, 03:09:11](https://news.ycombinator.com/item?id=39881014) - [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416)
 * [2024-03-31, 02:49:20](https://news.ycombinator.com/item?id=39880913) - [Light and Infrared Radiation](https://ehs.lbl.gov/resource/documents/radiation-protection/non-ionizing-radiation/light-and-infrared-radiation/#)
 * [2024-03-31, 02:30:09](https://news.ycombinator.com/item?id=39880807) - [specmatic: transform API specs into executable contracts](https://github.com/znsio/specmatic)
 * [2024-03-31, 02:03:31](https://news.ycombinator.com/item?id=39880664) - [A Microsoft Excel Spreadsheet from Hell Slowed Williams' F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
