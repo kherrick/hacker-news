@@ -83,6 +83,7 @@
 * [2024-03-30, 11:52:55](https://news.ycombinator.com/item?id=39873977) - [Navy to Test Microwave Anti-Drone Weapon at Sea in 2026](https://news.usni.org/2024/03/27/navy-to-test-microwave-anti-drone-weapon-at-sea-in-2026)
 * [2024-03-30, 11:42:34](https://news.ycombinator.com/item?id=39873909) - [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
 * [2024-03-30, 11:28:47](https://news.ycombinator.com/item?id=39873831) - [NYC AI Chatbot Touted by Adams Tells Businesses to Break the Law](https://www.thecity.nyc/2024/03/29/ai-chat-false-information-small-business/)
+* [2024-03-30, 11:14:25](https://news.ycombinator.com/item?id=39873756) - [Linear Algebra of Types (2019)](https://www.philipzucker.com/linear-algebra-of-types/)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 11:01:02](https://news.ycombinator.com/item?id=39873672) - [The Nicest Place on the Internet](https://thenicestplace.net)
 * [2024-03-30, 10:56:51](https://news.ycombinator.com/item?id=39873644) - [Ask HN: Going from CTO to Developer?](https://news.ycombinator.com/item?id=39873644)
