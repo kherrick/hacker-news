@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-31, 06:18:59](https://news.ycombinator.com/item?id=39881894) - [Software Needs to Be More Expensive](https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html)
+* [2024-03-31, 06:25:51](https://news.ycombinator.com/item?id=39881918) - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 * [2024-03-31, 00:34:07](https://news.ycombinator.com/item?id=39880152) - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
+* [2024-03-30, 23:34:50](https://news.ycombinator.com/item?id=39879710) - [xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 * [2024-03-30, 22:57:39](https://news.ycombinator.com/item?id=39879496) - [Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
 * [2024-03-30, 22:46:23](https://news.ycombinator.com/item?id=39879432) - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
 * [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
@@ -22,7 +23,6 @@
 * [2024-03-30, 17:31:30](https://news.ycombinator.com/item?id=39876804) - [Veloren, an open source game, release 0.16](https://veloren.net/blog/release-0-16/)
 * [2024-03-30, 17:18:06](https://news.ycombinator.com/item?id=39876676) - [Unlocking the NES (For Former Dawn) (2022)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
 * [2024-03-30, 17:00:09](https://news.ycombinator.com/item?id=39876517) - [Hadrius (YC W23) – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-* [2024-03-30, 16:47:34](https://news.ycombinator.com/item?id=39876417) - [Black Holes Are Even Weirder Than You Imagined](https://www.newyorker.com/science/elements/black-holes-are-even-weirder-than-you-imagined)
 * [2024-03-30, 16:04:53](https://news.ycombinator.com/item?id=39876114) - [Mamba Explained](https://thegradient.pub/mamba-explained/)
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
 * [2024-03-30, 13:56:45](https://news.ycombinator.com/item?id=39874931) - [IrfanView](https://www.irfanview.com/)
