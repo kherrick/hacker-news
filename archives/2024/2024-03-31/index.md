@@ -6,6 +6,7 @@
 
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
+* [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html)
 * [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.internethalloffame.org/2021/04/19/dan-lynchs-love-brilliant-complexity-fuels-early-internet-development-growth/)
 * [2024-03-31, 19:27:51](https://news.ycombinator.com/item?id=39887263) - [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
 * [2024-03-31, 19:09:13](https://news.ycombinator.com/item?id=39887098) - [Kia recalls over 427K Telluride SUVs because they might roll away while parked](https://abcnews.go.com/Technology/wireStory/kia-recalls-427000-telluride-suvs-roll-parked-108695466)
@@ -21,6 +22,7 @@
 * [2024-03-31, 16:42:04](https://news.ycombinator.com/item?id=39885764) - [It's time to stop using SMS for anything. (2021)](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
 * [2024-03-31, 16:19:14](https://news.ycombinator.com/item?id=39885545) - [Update Jia Tan](https://github.com/JiaT75/oss-fuzz/commit/6403e93344476972e908ce17e8244f5c2b957dfd)
 * [2024-03-31, 15:54:52](https://news.ycombinator.com/item?id=39885361) - [Tell HN: Windows 3D Pinball (Space Cadet)](https://github.com/k4zmu2a/SpaceCadetPinball)
+* [2024-03-31, 15:45:29](https://news.ycombinator.com/item?id=39885280) - [YouTube: Google has found a way to break Invidious](https://chipp.in/news/youtube-google-has-found-a-way-to-break-invidious/)
 * [2024-03-31, 15:41:10](https://news.ycombinator.com/item?id=39885238) - [2023 goes down as one of the safest years in commercial aviation history](https://askthepilot.com/safest-year-2023/)
 * [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
 * [2024-03-31, 14:41:54](https://news.ycombinator.com/item?id=39884711) - [Robinhood's new, attractive and expensive credit card](https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/)
@@ -46,6 +48,7 @@
 * [2024-03-31, 10:29:39](https://news.ycombinator.com/item?id=39883005) - [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=39883005)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
 * [2024-03-31, 09:48:20](https://news.ycombinator.com/item?id=39882810) - [The unreasonable effectiveness of VMs in hacker pedagogy](https://hiandrewquinn.github.io/til-site/posts/the-unreasonable-effectiveness-of-vms-in-hacker-pedagogy/)
+* [2024-03-31, 08:29:06](https://news.ycombinator.com/item?id=39882468) - [Ask HN: Degoogling in 2024](https://news.ycombinator.com/item?id=39882468)
 * [2024-03-31, 08:23:43](https://news.ycombinator.com/item?id=39882455) - [How Google fights Invidious (a privacy YouTube Front end)](https://github.com/iv-org/invidious/issues/4498)
 * [2024-03-31, 07:57:24](https://news.ycombinator.com/item?id=39882337) - [BYD Rolls Off Its 7Mth New Energy Vehicle](https://cleantechnica.com/2024/03/27/byd-rolls-off-its-7-millionth-new-energy-vehicle/)
 * [2024-03-31, 07:23:25](https://news.ycombinator.com/item?id=39882174) - [Python for Everyday, Everyone, Everywhere](https://leanpub.com/python-everyday)
