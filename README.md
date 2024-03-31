@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-31, 17:32:16](https://news.ycombinator.com/item?id=39886178) - [Ask HN: Is anybody getting value from AI Agents? How so?](https://news.ycombinator.com/item?id=39886178)
+* [2024-03-31, 17:10:23](https://news.ycombinator.com/item?id=39885977) - [IEEE no longer accepts Lena image containing submissions from 4/1 onward](https://www.theguardian.com/technology/2024/mar/31/tech-publisher-bans-playboy-centrefold-test-image-from-its-journals)
 * [2024-03-31, 16:43:01](https://news.ycombinator.com/item?id=39885773) - [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
 * [2024-03-31, 16:42:04](https://news.ycombinator.com/item?id=39885764) - [It's time to stop using SMS (2021)](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
-* [2024-03-31, 16:19:14](https://news.ycombinator.com/item?id=39885545) - [Update Jia Tan](https://github.com/JiaT75/oss-fuzz/commit/6403e93344476972e908ce17e8244f5c2b957dfd)
 * [2024-03-31, 15:54:52](https://news.ycombinator.com/item?id=39885361) - [Tell HN: Windows 3D Pinball (Space Cadet)](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [2024-03-31, 15:41:10](https://news.ycombinator.com/item?id=39885238) - [2023 was one of the safest years in commercial aviation](https://askthepilot.com/safest-year-2023/)
 * [2024-03-31, 14:25:41](https://news.ycombinator.com/item?id=39884570) - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)

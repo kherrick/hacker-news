@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
 * [2024-03-31, 17:32:16](https://news.ycombinator.com/item?id=39886178) - [Ask HN: Is anybody getting value from AI Agents? How so?](https://news.ycombinator.com/item?id=39886178)
+* [2024-03-31, 17:10:23](https://news.ycombinator.com/item?id=39885977) - [IEEE no longer accepts Lena image containing submissions from 4/1 onward](https://www.theguardian.com/technology/2024/mar/31/tech-publisher-bans-playboy-centrefold-test-image-from-its-journals)
 * [2024-03-31, 16:43:01](https://news.ycombinator.com/item?id=39885773) - [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
 * [2024-03-31, 16:42:04](https://news.ycombinator.com/item?id=39885764) - [It's time to stop using SMS for anything. (2021)](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
 * [2024-03-31, 16:19:14](https://news.ycombinator.com/item?id=39885545) - [Update Jia Tan](https://github.com/JiaT75/oss-fuzz/commit/6403e93344476972e908ce17e8244f5c2b957dfd)
