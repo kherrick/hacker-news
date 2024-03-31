@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
+* [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.internethalloffame.org/2021/04/19/dan-lynchs-love-brilliant-complexity-fuels-early-internet-development-growth/)
 * [2024-03-31, 19:27:51](https://news.ycombinator.com/item?id=39887263) - [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
+* [2024-03-31, 19:09:13](https://news.ycombinator.com/item?id=39887098) - [Kia recalls over 427K Telluride SUVs because they might roll away while parked](https://abcnews.go.com/Technology/wireStory/kia-recalls-427000-telluride-suvs-roll-parked-108695466)
 * [2024-03-31, 18:35:54](https://news.ycombinator.com/item?id=39886776) - [It Only Takes a $7k Debt to End Up Trapped in China](https://www.wsj.com/world/china/chinese-exit-bans-business-c38cb10c)
 * [2024-03-31, 18:14:32](https://news.ycombinator.com/item?id=39886586) - [Ask HN: Are there some bad actors in Who is hiring?](https://news.ycombinator.com/item?id=39886586)
 * [2024-03-31, 18:08:45](https://news.ycombinator.com/item?id=39886534) - [OpenAI deems its voice cloning tool too risky for general release](https://www.theguardian.com/technology/2024/mar/31/openai-deems-its-voice-cloning-tool-too-risky-for-general-release)
