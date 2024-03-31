@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 18:35:54](https://news.ycombinator.com/item?id=39886776) - [It Only Takes a $7k Debt to End Up Trapped in China](https://www.wsj.com/world/china/chinese-exit-bans-business-c38cb10c)
 * [2024-03-31, 18:14:32](https://news.ycombinator.com/item?id=39886586) - [Ask HN: Are there some bad actors in Who is hiring?](https://news.ycombinator.com/item?id=39886586)
 * [2024-03-31, 18:08:45](https://news.ycombinator.com/item?id=39886534) - [OpenAI deems its voice cloning tool too risky for general release](https://www.theguardian.com/technology/2024/mar/31/openai-deems-its-voice-cloning-tool-too-risky-for-general-release)
 * [2024-03-31, 17:48:45](https://news.ycombinator.com/item?id=39886328) - [Proposal: Signals as a Built-In Primitive of JavaScript](https://github.com/proposal-signals/proposal-signals)

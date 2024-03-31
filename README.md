@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-31, 18:35:54](https://news.ycombinator.com/item?id=39886776) - [It Only Takes a $7k Debt to End Up Trapped in China](https://www.wsj.com/world/china/chinese-exit-bans-business-c38cb10c)
 * [2024-03-31, 17:48:45](https://news.ycombinator.com/item?id=39886328) - [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
 * [2024-03-31, 17:43:08](https://news.ycombinator.com/item?id=39886272) - [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
 * [2024-03-31, 16:42:04](https://news.ycombinator.com/item?id=39885764) - [It's time to stop using SMS (2021)](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
@@ -21,7 +22,6 @@
 * [2024-03-30, 19:47:44](https://news.ycombinator.com/item?id=39877987) - [Spacing the Cans](https://robhorning.substack.com/p/spacing-the-cans)
 * [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
 * [2024-03-30, 18:19:18](https://news.ycombinator.com/item?id=39877267) - [XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
-* [2024-03-30, 17:33:23](https://news.ycombinator.com/item?id=39876817) - [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 11:22:20](https://news.ycombinator.com/item?id=39873793) - [How well can LLMs write COBOL?](https://bloop.ai/blog/evaluating-llms-on-cobol)
 * [2024-03-30, 11:14:25](https://news.ycombinator.com/item?id=39873756) - [Linear Algebra of Types (2019)](https://www.philipzucker.com/linear-algebra-of-types/)
 * [2024-03-30, 10:49:00](https://news.ycombinator.com/item?id=39873605) - [The Past, Present and Future of Stream Processing](https://www.kai-waehner.de/blog/2024/03/20/the-past-present-and-future-of-stream-processing/)
