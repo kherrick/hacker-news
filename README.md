@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-31, 21:55:13](https://news.ycombinator.com/item?id=39888417) - [Tesla stock drops 29% in first quarter as global dominance wanes](https://www.cnbc.com/2024/03/29/tesla-stock-drops-29percent-in-first-quarter-as-global-dominance-wanes.html)
+* [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [Upcoming email service provider guidelines](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
 * [2024-03-31, 21:27:56](https://news.ycombinator.com/item?id=39888213) - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
 * [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Cpp2 and cppfront – An experimental 'C++ syntax 2' and its first compiler](https://hsutter.github.io/cppfront/)
 * [2024-03-31, 21:05:05](https://news.ycombinator.com/item?id=39888059) - [The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
@@ -13,7 +14,6 @@
 * [2024-03-31, 17:48:45](https://news.ycombinator.com/item?id=39886328) - [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
 * [2024-03-31, 17:43:08](https://news.ycombinator.com/item?id=39886272) - [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
 * [2024-03-31, 15:26:08](https://news.ycombinator.com/item?id=39885097) - [Safeguarding Identity and Privacy: Fundamental Human Rights in the Digital Age](https://idpro.org/safeguarding-identity-and-privacy-fundamental-human-rights-in-the-digital-age/)
-* [2024-03-31, 13:55:52](https://news.ycombinator.com/item?id=39884287) - [Dr. Katalin Karikó (2021)](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
 * [2024-03-31, 13:21:50](https://news.ycombinator.com/item?id=39884004) - [The illusion of being stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 * [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 * [2024-03-31, 11:41:09](https://news.ycombinator.com/item?id=39883328) - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
