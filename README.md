@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-31, 22:35:51](https://news.ycombinator.com/item?id=39888740) - [Technical debt is an invisible $1.52T problem](https://www.wsj.com/tech/personal-tech/the-invisible-1-52-trillion-problem-clunky-old-software-f5cbba27)
+* [2024-03-31, 22:28:33](https://news.ycombinator.com/item?id=39888672) - [Famine Early Warning Systems Network: Food Insecurity Area Classification](https://fews.net/)
 * [2024-03-31, 22:05:39](https://news.ycombinator.com/item?id=39888496) - [Smart devices are turning out to be a poor investment](https://www.androidpolice.com/smart-devices-poor-investment/)
 * [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
 * [2024-03-31, 21:27:56](https://news.ycombinator.com/item?id=39888213) - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
@@ -27,7 +28,6 @@
 * [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
 * [2024-03-30, 06:42:18](https://news.ycombinator.com/item?id=39872406) - [The roller ship was not an effective way to cross the high seas](https://hackaday.com/2024/03/27/the-roller-ship-was-not-an-effective-way-to-cross-the-high-seas/)
 * [2024-03-29, 12:21:04](https://news.ycombinator.com/item?id=39863163) - [When Bacteria Are Beautiful](https://nautil.us/when-bacteria-are-beautiful-541411/)
-* [2024-03-29, 12:11:43](https://news.ycombinator.com/item?id=39863072) - [Typesetting the LaTeX Way (2013)](https://chriscummins.cc/2013/typesetting/)
 * [2024-03-29, 07:36:45](https://news.ycombinator.com/item?id=39861525) - [Show HN: An adventure game in Z80 assembly for CP/M and ZX Spectrum](https://github.com/skx/lighthouse-of-doom)
 * [2024-03-28, 05:23:11](https://news.ycombinator.com/item?id=39848027) - [Influencers: Japan's secret weapon to promote niche tourism spots](https://www.japantimes.co.jp/business/2024/03/28/japan-tourism-influencers/)
 

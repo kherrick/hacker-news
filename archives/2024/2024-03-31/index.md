@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
 * [2024-03-31, 22:35:51](https://news.ycombinator.com/item?id=39888740) - [Ever-compounding technical debt is an invisible $1.52T problem](https://www.wsj.com/tech/personal-tech/the-invisible-1-52-trillion-problem-clunky-old-software-f5cbba27)
+* [2024-03-31, 22:28:33](https://news.ycombinator.com/item?id=39888672) - [Famine Early Warning Systems Network: Food Insecurity Area Classification](https://fews.net/)
 * [2024-03-31, 22:05:39](https://news.ycombinator.com/item?id=39888496) - [Smart devices are turning out to be a poor investment](https://www.androidpolice.com/smart-devices-poor-investment/)
 * [2024-03-31, 21:55:13](https://news.ycombinator.com/item?id=39888417) - [Tesla stock drops 29% in first quarter as global dominance wanes](https://www.cnbc.com/2024/03/29/tesla-stock-drops-29percent-in-first-quarter-as-global-dominance-wanes.html)
 * [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [Upcoming email service provider guidelines](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
