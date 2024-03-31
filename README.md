@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-31, 06:18:59](https://news.ycombinator.com/item?id=39881894) - [Software Needs to Be More Expensive](https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 * [2024-03-31, 00:34:07](https://news.ycombinator.com/item?id=39880152) - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
 * [2024-03-30, 22:57:39](https://news.ycombinator.com/item?id=39879496) - [Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
@@ -7,7 +8,6 @@
 * [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
 * [2024-03-30, 22:21:44](https://news.ycombinator.com/item?id=39879250) - [The Set-Up-to-Fail Syndrome (1998)](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
 * [2024-03-30, 21:38:49](https://news.ycombinator.com/item?id=39878938) - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
-* [2024-03-30, 21:17:59](https://news.ycombinator.com/item?id=39878758) - [Why Ireland's housing bubble burst](https://worksinprogress.co/issue/why-irelands-housing-bubble-burst/)
 * [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 * [2024-03-30, 19:44:55](https://news.ycombinator.com/item?id=39877960) - [Models all the way down](https://knowingmachines.org/models-all-the-way)
 * [2024-03-30, 19:44:12](https://news.ycombinator.com/item?id=39877949) - [Toni Morrison's Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
