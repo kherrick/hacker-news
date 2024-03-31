@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-03-31, 12:13:25",
+      "https://news.ycombinator.com/item?id=39883555"
+    ],
+    [
+      "What is a coder's worst nightmare? (2016)",
+      "https://www.quora.com/What-is-a-coders-worst-nightmare"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 12:02:33",
       "https://news.ycombinator.com/item?id=39883487"
     ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2024-03-31, 10:29:39",
+      "https://news.ycombinator.com/item?id=39883005"
+    ],
+    [
+      "Ask HN: What Are You Learning?",
+      "https://news.ycombinator.com/item?id=39883005"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 09:58:26",
       "https://news.ycombinator.com/item?id=39882873"
     ],
     [
       "Show HN: Truncate, a word-based strategy game",
       "https://truncate.town/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 08:23:43",
+      "https://news.ycombinator.com/item?id=39882455"
+    ],
+    [
+      "How Google fights Invidious (a privacy YouTube Front end)",
+      "https://github.com/iv-org/invidious/issues/4498"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2024-03-30, 19:05:21",
-      "https://news.ycombinator.com/item?id=39877637"
-    ],
-    [
-      "Git as a debugging tool",
-      "https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 18:20:35",
-      "https://news.ycombinator.com/item?id=39877276"
-    ],
-    [
-      "Kolmogorov Complexity and Compression Distance (2023)",
-      "https://smunshi.net/kolmogorov-complexity-and-compression-distance.html"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 18:19:18",
       "https://news.ycombinator.com/item?id=39877267"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2024-03-30, 17:00:09",
+      "https://news.ycombinator.com/item?id=39876517"
+    ],
+    [
+      "Hadrius (YC W23) – Founding Engineer for fastest growing compliance software",
+      "https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 16:04:53",
       "https://news.ycombinator.com/item?id=39876114"
     ],
@@ -247,16 +267,6 @@
     [
       "About the Tailscale.com outage on March 7, 2024",
       "https://tailscale.com/blog/tls-outage-20240307"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 13:56:45",
-      "https://news.ycombinator.com/item?id=39874931"
-    ],
-    [
-      "IrfanView",
-      "https://www.irfanview.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Prolog language for PostgreSQL proof of concept",
       "https://github.com/tatut/pgprolog"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 06:01:32",
-      "https://news.ycombinator.com/item?id=39872236"
-    ],
-    [
-      "When will the eclipse happen? A multimillennium tale of computation",
-      "https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/"
     ]
   ]
 ]
