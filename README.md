@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-31, 21:55:13](https://news.ycombinator.com/item?id=39888417) - [Tesla stock drops 29% in first quarter as global dominance wanes](https://www.cnbc.com/2024/03/29/tesla-stock-drops-29percent-in-first-quarter-as-global-dominance-wanes.html)
 * [2024-03-31, 21:27:56](https://news.ycombinator.com/item?id=39888213) - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
 * [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Cpp2 and cppfront – An experimental 'C++ syntax 2' and its first compiler](https://hsutter.github.io/cppfront/)
 * [2024-03-31, 21:05:05](https://news.ycombinator.com/item?id=39888059) - [The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
@@ -24,7 +25,6 @@
 * [2024-03-30, 21:03:07](https://news.ycombinator.com/item?id=39878635) - [Tiny orchid flowers pollinated by tiny flies](https://phys.org/news/2024-03-tiny-orchid-pollinated-flies.html)
 * [2024-03-30, 19:47:44](https://news.ycombinator.com/item?id=39877987) - [Spacing the Cans](https://robhorning.substack.com/p/spacing-the-cans)
 * [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
-* [2024-03-30, 11:22:20](https://news.ycombinator.com/item?id=39873793) - [How well can LLMs write COBOL?](https://bloop.ai/blog/evaluating-llms-on-cobol)
 * [2024-03-30, 06:42:18](https://news.ycombinator.com/item?id=39872406) - [The roller ship was not an effective way to cross the high seas](https://hackaday.com/2024/03/27/the-roller-ship-was-not-an-effective-way-to-cross-the-high-seas/)
 * [2024-03-29, 12:21:04](https://news.ycombinator.com/item?id=39863163) - [When Bacteria Are Beautiful](https://nautil.us/when-bacteria-are-beautiful-541411/)
 * [2024-03-29, 12:11:43](https://news.ycombinator.com/item?id=39863072) - [Typesetting the LaTeX Way (2013)](https://chriscummins.cc/2013/typesetting/)

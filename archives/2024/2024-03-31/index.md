@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 21:55:13](https://news.ycombinator.com/item?id=39888417) - [Tesla stock drops 29% in first quarter as global dominance wanes](https://www.cnbc.com/2024/03/29/tesla-stock-drops-29percent-in-first-quarter-as-global-dominance-wanes.html)
 * [2024-03-31, 21:27:56](https://news.ycombinator.com/item?id=39888213) - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
 * [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Cpp2 and cppfront – An experimental 'C++ syntax 2' and its first compiler](https://hsutter.github.io/cppfront/)
 * [2024-03-31, 21:12:34](https://news.ycombinator.com/item?id=39888113) - [Microsoft Helping Out in Making the Linux Kernel Language More Inclusive](https://www.phoronix.com/news/Microsoft-Linux-More-Inclusive)
