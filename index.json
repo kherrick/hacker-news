@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-03-31, 10:54:19",
-      "https://news.ycombinator.com/item?id=39883123"
+      "2024-03-31, 12:16:07",
+      "https://news.ycombinator.com/item?id=39883571"
     ],
     [
-      "Cognition Labs Seeks $2B Valuation",
-      "https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d"
+      "The AI industry spent 17x more on Nvidia chips than it brought in in revenue",
+      "https://old.reddit.com/r/MachineLearning/comments/1bs1ebl/wsj_the_ai_industry_spent_17x_more_on_nvidia/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 12:02:33",
+      "https://news.ycombinator.com/item?id=39883487"
+    ],
+    [
+      "Zoomable Circles, a Svelte component for hierarchical data",
+      "https://www.npmjs.com/package/svelte-zoomable-circles"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 11:41:09",
+      "https://news.ycombinator.com/item?id=39883328"
+    ],
+    [
+      "Shutting down the letsblock.it project and its official instance",
+      "https://github.com/letsblockit/letsblockit/discussions/663"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-03-30, 21:38:49",
-      "https://news.ycombinator.com/item?id=39878938"
-    ],
-    [
-      "The jobs being replaced by AI – an analysis of 5M freelancing jobs",
-      "https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 19:44:12",
       "https://news.ycombinator.com/item?id=39877949"
     ],
@@ -287,16 +297,6 @@
     [
       "Prolog language for PostgreSQL proof of concept",
       "https://github.com/tatut/pgprolog"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 06:01:32",
-      "https://news.ycombinator.com/item?id=39872236"
-    ],
-    [
-      "When will the eclipse happen? A multimillennium tale of computation",
-      "https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/"
     ]
   ]
 ]
