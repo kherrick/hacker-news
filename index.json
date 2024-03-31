@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-03-30, 21:17:59",
-      "https://news.ycombinator.com/item?id=39878758"
-    ],
-    [
-      "Why Ireland's housing bubble burst",
-      "https://worksinprogress.co/issue/why-irelands-housing-bubble-burst/"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 21:08:16",
       "https://news.ycombinator.com/item?id=39878681"
     ],
@@ -277,6 +267,16 @@
     [
       "Garbage collection for systems programmers (2023)",
       "https://bitbashing.io/gc-for-systems-programmers.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 09:36:53",
+      "https://news.ycombinator.com/item?id=39873272"
+    ],
+    [
+      "Prolog language for PostgreSQL proof of concept",
+      "https://github.com/tatut/pgprolog"
     ]
   ],
   [
