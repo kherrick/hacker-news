@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-31, 19:33:25](https://news.ycombinator.com/item?id=39887307) - [Fired Americans Say Indian Firm Gave Their Jobs to H-1B Visa Holders](https://www.msn.com/en-us/money/careers/fired-americans-say-indian-firm-gave-their-jobs-to-h-1b-visa-holders/ar-BB1kIVHE)
@@ -37,6 +38,7 @@
 * [2024-03-31, 13:22:40](https://news.ycombinator.com/item?id=39884009) - [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
 * [2024-03-31, 13:21:50](https://news.ycombinator.com/item?id=39884004) - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 * [2024-03-31, 13:12:00](https://news.ycombinator.com/item?id=39883949) - [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
+* [2024-03-31, 12:55:50](https://news.ycombinator.com/item?id=39883833) - [Taws – The Amiga Workbench](https://taws.ch/WB.html)
 * [2024-03-31, 12:47:41](https://news.ycombinator.com/item?id=39883780) - [Apple TV's Fantastic \"Silo\" Plays Out Like Great Sci-Fi Literature (2023)](https://www.rogerebert.com/streaming/silo-tv-review)
 * [2024-03-31, 12:42:34](https://news.ycombinator.com/item?id=39883747) - [Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included](https://news.ycombinator.com/item?id=39883747)
 * [2024-03-31, 12:31:04](https://news.ycombinator.com/item?id=39883668) - [Silicon spikes take out 96% of virus particles](https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes)
