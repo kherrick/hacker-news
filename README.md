@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-31, 18:08:45](https://news.ycombinator.com/item?id=39886534) - [OpenAI deems its voice cloning tool too risky for general release](https://www.theguardian.com/technology/2024/mar/31/openai-deems-its-voice-cloning-tool-too-risky-for-general-release)
+* [2024-03-31, 17:48:45](https://news.ycombinator.com/item?id=39886328) - [Proposal: Signals as a Built-In Primitive of JavaScript](https://github.com/proposal-signals/proposal-signals)
+* [2024-03-31, 17:43:08](https://news.ycombinator.com/item?id=39886272) - [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
 * [2024-03-31, 17:32:16](https://news.ycombinator.com/item?id=39886178) - [Ask HN: Is anybody getting value from AI Agents? How so?](https://news.ycombinator.com/item?id=39886178)
 * [2024-03-31, 17:10:23](https://news.ycombinator.com/item?id=39885977) - [IEEE no longer accepts Lena image containing submissions from 4/1 onward](https://www.theguardian.com/technology/2024/mar/31/tech-publisher-bans-playboy-centrefold-test-image-from-its-journals)
 * [2024-03-31, 16:43:01](https://news.ycombinator.com/item?id=39885773) - [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
@@ -12,10 +15,8 @@
 * [2024-03-31, 13:12:00](https://news.ycombinator.com/item?id=39883949) - [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
 * [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 * [2024-03-31, 11:41:09](https://news.ycombinator.com/item?id=39883328) - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
-* [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 06:24:56](https://news.ycombinator.com/item?id=39881915) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
-* [2024-03-31, 05:43:15](https://news.ycombinator.com/item?id=39881758) - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
 * [2024-03-31, 03:09:11](https://news.ycombinator.com/item?id=39881014) - [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416)
 * [2024-03-31, 01:10:45](https://news.ycombinator.com/item?id=39880389) - [The Human Hemisphere (2015)](http://www.radicalcartography.net/index.html?human-hemisphere)
 * [2024-03-30, 22:21:44](https://news.ycombinator.com/item?id=39879250) - [The Set-Up-to-Fail Syndrome (1998)](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
@@ -28,7 +29,6 @@
 * [2024-03-30, 06:42:18](https://news.ycombinator.com/item?id=39872406) - [The roller ship was not an effective way to cross the high seas](https://hackaday.com/2024/03/27/the-roller-ship-was-not-an-effective-way-to-cross-the-high-seas/)
 * [2024-03-29, 12:21:04](https://news.ycombinator.com/item?id=39863163) - [When Bacteria Are Beautiful](https://nautil.us/when-bacteria-are-beautiful-541411/)
 * [2024-03-29, 12:11:43](https://news.ycombinator.com/item?id=39863072) - [Typesetting the LaTeX Way (2013)](https://chriscummins.cc/2013/typesetting/)
-* [2024-03-29, 07:36:45](https://news.ycombinator.com/item?id=39861525) - [Show HN: An adventure game in Z80 assembly for CP/M and ZX Spectrum](https://github.com/skx/lighthouse-of-doom)
 * [2024-03-28, 09:46:22](https://news.ycombinator.com/item?id=39849219) - [\"Real\" anonymous functions for Python](https://lwn.net/Articles/964839/)
 
 ## [Archives](archives/index.md)
