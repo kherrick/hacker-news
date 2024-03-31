@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 14:28:22](https://news.ycombinator.com/item?id=39884596) - [First Council of Nicaea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
 * [2024-03-31, 14:04:22](https://news.ycombinator.com/item?id=39884371) - [U.S. Tech Giants Turn to Mexico to Make AI Gear, Spurning China](https://www.wsj.com/tech/u-s-tech-giants-turn-to-mexico-to-make-ai-gear-spurning-china-8ccd27cb)
 * [2024-03-31, 13:55:52](https://news.ycombinator.com/item?id=39884287) - [Dr. Katalin Karikó](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
 * [2024-03-31, 13:22:40](https://news.ycombinator.com/item?id=39884009) - [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
