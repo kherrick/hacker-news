@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
+* [2024-03-31, 19:27:51](https://news.ycombinator.com/item?id=39887263) - [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
 * [2024-03-31, 18:35:54](https://news.ycombinator.com/item?id=39886776) - [It Only Takes a $7k Debt to End Up Trapped in China](https://www.wsj.com/world/china/chinese-exit-bans-business-c38cb10c)
 * [2024-03-31, 18:14:32](https://news.ycombinator.com/item?id=39886586) - [Ask HN: Are there some bad actors in Who is hiring?](https://news.ycombinator.com/item?id=39886586)
 * [2024-03-31, 18:08:45](https://news.ycombinator.com/item?id=39886534) - [OpenAI deems its voice cloning tool too risky for general release](https://www.theguardian.com/technology/2024/mar/31/openai-deems-its-voice-cloning-tool-too-risky-for-general-release)
