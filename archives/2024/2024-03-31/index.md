@@ -6,6 +6,7 @@
 
 * [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
 * [2024-03-31, 14:38:17](https://news.ycombinator.com/item?id=39884683) - [Totality and non-standard recursion in Idris](https://franklin.dyer.me/post/222)
+* [2024-03-31, 14:31:12](https://news.ycombinator.com/item?id=39884623) - [How do TV detector vans work?](https://www.theguardian.com/notesandqueries/query/0,5753,-22440,00.html)
 * [2024-03-31, 14:28:22](https://news.ycombinator.com/item?id=39884596) - [First Council of Nicaea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
 * [2024-03-31, 14:25:41](https://news.ycombinator.com/item?id=39884570) - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
 * [2024-03-31, 14:04:22](https://news.ycombinator.com/item?id=39884371) - [U.S. Tech Giants Turn to Mexico to Make AI Gear, Spurning China](https://www.wsj.com/tech/u-s-tech-giants-turn-to-mexico-to-make-ai-gear-spurning-china-8ccd27cb)

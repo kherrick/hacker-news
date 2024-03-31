@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
+* [2024-03-31, 14:31:12](https://news.ycombinator.com/item?id=39884623) - [How do TV detector vans work?](https://www.theguardian.com/notesandqueries/query/0,5753,-22440,00.html)
 * [2024-03-31, 14:25:41](https://news.ycombinator.com/item?id=39884570) - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
 * [2024-03-31, 13:55:52](https://news.ycombinator.com/item?id=39884287) - [Dr. Katalin Karikó (2021)](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
 * [2024-03-31, 13:21:50](https://news.ycombinator.com/item?id=39884004) - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
@@ -15,7 +16,6 @@
 * [2024-03-31, 06:24:56](https://news.ycombinator.com/item?id=39881915) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
 * [2024-03-31, 05:43:15](https://news.ycombinator.com/item?id=39881758) - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated (2022)](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
-* [2024-03-31, 02:49:20](https://news.ycombinator.com/item?id=39880913) - [Light and Infrared Radiation (2018)](https://ehs.lbl.gov/resource/documents/radiation-protection/non-ionizing-radiation/light-and-infrared-radiation/#)
 * [2024-03-31, 02:30:09](https://news.ycombinator.com/item?id=39880807) - [Specmatic: transform API specs into executable contracts](https://github.com/znsio/specmatic)
 * [2024-03-30, 23:34:50](https://news.ycombinator.com/item?id=39879710) - [Xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 * [2024-03-30, 22:57:39](https://news.ycombinator.com/item?id=39879496) - [Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
