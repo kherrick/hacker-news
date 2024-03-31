@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 22:05:39](https://news.ycombinator.com/item?id=39888496) - [Smart devices are turning out to be a poor investment](https://www.androidpolice.com/smart-devices-poor-investment/)
 * [2024-03-31, 21:55:13](https://news.ycombinator.com/item?id=39888417) - [Tesla stock drops 29% in first quarter as global dominance wanes](https://www.cnbc.com/2024/03/29/tesla-stock-drops-29percent-in-first-quarter-as-global-dominance-wanes.html)
 * [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [Upcoming email service provider guidelines](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
 * [2024-03-31, 21:27:56](https://news.ycombinator.com/item?id=39888213) - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
@@ -13,6 +14,8 @@
 * [2024-03-31, 21:05:05](https://news.ycombinator.com/item?id=39888059) - [The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
 * [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
 * [2024-03-31, 21:04:08](https://news.ycombinator.com/item?id=39888054) - [IBM lifts lid on latest bid to halt mainframe skill slips](https://www.theregister.com/2024/03/08/ibm_mainframe_skill/)
+* [2024-03-31, 20:58:33](https://news.ycombinator.com/item?id=39888020) - [Documentation for the AMD 7900XTX](https://github.com/geohot/7900xtx)
+* [2024-03-31, 20:36:38](https://news.ycombinator.com/item?id=39887852) - [Engineering a culture](https://oxide.computer/blog/engineering-culture)
 * [2024-03-31, 20:32:45](https://news.ycombinator.com/item?id=39887815) - [Modeling of Pulsed Plasma Rocket Shows It Should Be Possible to Create One](https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/)
 * [2024-03-31, 20:24:12](https://news.ycombinator.com/item?id=39887732) - [Post-operative cognitive dysfunction is exacerbated by high-fat diet](https://www.sciencedirect.com/science/article/abs/pii/S0889159123004105)
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
@@ -37,6 +40,7 @@
 * [2024-03-31, 15:54:52](https://news.ycombinator.com/item?id=39885361) - [Tell HN: Windows 3D Pinball (Space Cadet)](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [2024-03-31, 15:45:29](https://news.ycombinator.com/item?id=39885280) - [YouTube: Google has found a way to break Invidious](https://chipp.in/news/youtube-google-has-found-a-way-to-break-invidious/)
 * [2024-03-31, 15:41:10](https://news.ycombinator.com/item?id=39885238) - [2023 goes down as one of the safest years in commercial aviation history](https://askthepilot.com/safest-year-2023/)
+* [2024-03-31, 15:26:57](https://news.ycombinator.com/item?id=39885107) - [Can GPT optimize my taxes? An experiment in letting the LLM be the UX](https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/)
 * [2024-03-31, 15:26:08](https://news.ycombinator.com/item?id=39885097) - [Safeguarding Identity and Privacy: Fundamental Human Rights in the Digital Age](https://idpro.org/safeguarding-identity-and-privacy-fundamental-human-rights-in-the-digital-age/)
 * [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
 * [2024-03-31, 14:41:54](https://news.ycombinator.com/item?id=39884711) - [Robinhood's new, attractive and expensive credit card](https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/)
