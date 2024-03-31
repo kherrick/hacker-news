@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 12:16:07](https://news.ycombinator.com/item?id=39883571) - [The AI industry spent 17x more on Nvidia chips than it brought in in revenue](https://old.reddit.com/r/MachineLearning/comments/1bs1ebl/wsj_the_ai_industry_spent_17x_more_on_nvidia/)
+* [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
+* [2024-03-31, 11:41:09](https://news.ycombinator.com/item?id=39883328) - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
 * [2024-03-31, 10:54:19](https://news.ycombinator.com/item?id=39883123) - [WSJ: AI industry spent 17x more on Nvidia chips than it brought in in revenue](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
 * [2024-03-31, 10:44:49](https://news.ycombinator.com/item?id=39883089) - [Ask HN: How bad is the xz hack?](https://news.ycombinator.com/item?id=39883089)
 * [2024-03-31, 10:42:04](https://news.ycombinator.com/item?id=39883072) - [How read-intensive is Linux's use of RCU? (And what is its latency?)](https://paulmck.livejournal.com/67547.html)

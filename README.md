@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-31, 10:54:19](https://news.ycombinator.com/item?id=39883123) - [Cognition Labs Seeks $2B Valuation](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
+* [2024-03-31, 12:16:07](https://news.ycombinator.com/item?id=39883571) - [The AI industry spent 17x more on Nvidia chips than it brought in in revenue](https://old.reddit.com/r/MachineLearning/comments/1bs1ebl/wsj_the_ai_industry_spent_17x_more_on_nvidia/)
+* [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
+* [2024-03-31, 11:41:09](https://news.ycombinator.com/item?id=39883328) - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
 * [2024-03-31, 10:42:04](https://news.ycombinator.com/item?id=39883072) - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
 * [2024-03-31, 07:23:25](https://news.ycombinator.com/item?id=39882174) - [Python for Everyday, Everyone, Everywhere](https://leanpub.com/python-everyday)
@@ -15,7 +17,6 @@
 * [2024-03-30, 23:34:50](https://news.ycombinator.com/item?id=39879710) - [xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 * [2024-03-30, 22:57:39](https://news.ycombinator.com/item?id=39879496) - [Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
 * [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
-* [2024-03-30, 21:38:49](https://news.ycombinator.com/item?id=39878938) - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
 * [2024-03-30, 19:44:12](https://news.ycombinator.com/item?id=39877949) - [Toni Morrison's Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
 * [2024-03-30, 19:16:53](https://news.ycombinator.com/item?id=39877730) - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
 * [2024-03-30, 19:05:21](https://news.ycombinator.com/item?id=39877637) - [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
@@ -29,7 +30,6 @@
 * [2024-03-30, 11:14:25](https://news.ycombinator.com/item?id=39873756) - [Linear Algebra of Types (2019)](https://www.philipzucker.com/linear-algebra-of-types/)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage collection for systems programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
-* [2024-03-30, 06:01:32](https://news.ycombinator.com/item?id=39872236) - [When will the eclipse happen? A multimillennium tale of computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
 
 ## [Archives](archives/index.md)
 
