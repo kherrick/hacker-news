@@ -29,6 +29,7 @@
 * [2024-03-31, 06:41:55](https://news.ycombinator.com/item?id=39881980) - [Layout of Rust's u128 and i128 changed](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 * [2024-03-31, 06:36:11](https://news.ycombinator.com/item?id=39881962) - [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
 * [2024-03-31, 06:25:51](https://news.ycombinator.com/item?id=39881918) - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
+* [2024-03-31, 06:25:14](https://news.ycombinator.com/item?id=39881916) - [Reducing Wealth Inequality: The Wealth Time Limit](https://www.wealtheconomics.org/introduction-2/reducing-wealth-inequality/)
 * [2024-03-31, 06:24:56](https://news.ycombinator.com/item?id=39881915) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
 * [2024-03-31, 06:23:51](https://news.ycombinator.com/item?id=39881911) - [Not able to click on map during Google search why did they change this (in EU)](https://old.reddit.com/r/GoogleMaps/comments/1b228yx/not_able_to_click_on_map_during_google_searchwhy/)
 * [2024-03-31, 06:18:59](https://news.ycombinator.com/item?id=39881894) - [Software Needs to Be More Expensive](https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html)
