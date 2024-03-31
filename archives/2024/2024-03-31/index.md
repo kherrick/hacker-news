@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
 * [2024-03-31, 14:04:22](https://news.ycombinator.com/item?id=39884371) - [U.S. Tech Giants Turn to Mexico to Make AI Gear, Spurning China](https://www.wsj.com/tech/u-s-tech-giants-turn-to-mexico-to-make-ai-gear-spurning-china-8ccd27cb)
+* [2024-03-31, 13:22:40](https://news.ycombinator.com/item?id=39884009) - [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
 * [2024-03-31, 13:21:50](https://news.ycombinator.com/item?id=39884004) - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 * [2024-03-31, 13:12:00](https://news.ycombinator.com/item?id=39883949) - [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
 * [2024-03-31, 12:42:34](https://news.ycombinator.com/item?id=39883747) - [Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included](https://news.ycombinator.com/item?id=39883747)

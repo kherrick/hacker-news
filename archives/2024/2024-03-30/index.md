@@ -19,6 +19,7 @@
 * [2024-03-30, 21:27:36](https://news.ycombinator.com/item?id=39878841) - [See, this is why I retired early from software engineering](https://twitter.com/Devon_Eriksen_/status/1774094415235092494)
 * [2024-03-30, 21:17:59](https://news.ycombinator.com/item?id=39878758) - [Why Ireland's housing bubble burst](https://worksinprogress.co/issue/why-irelands-housing-bubble-burst/)
 * [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
+* [2024-03-30, 21:03:07](https://news.ycombinator.com/item?id=39878635) - [Tiny orchid flowers pollinated by tiny flies](https://phys.org/news/2024-03-tiny-orchid-pollinated-flies.html)
 * [2024-03-30, 20:29:02](https://news.ycombinator.com/item?id=39878317) - [NetBSD 10.0 Released](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 20:25:09](https://news.ycombinator.com/item?id=39878275) - ['Shear sound waves' provide the magic for linking ultrasound and magnetic waves](https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html)
 * [2024-03-30, 20:08:58](https://news.ycombinator.com/item?id=39878156) - [Novo Nordisk facing pressure as study finds $1k drug can be made for $5](https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/)
