@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=39888740"
     ],
     [
-      "Ever-compounding technical debt is an invisible $1.52T problem",
+      "Technical debt is an invisible $1.52T problem",
       "https://www.wsj.com/tech/personal-tech/the-invisible-1-52-trillion-problem-clunky-old-software-f5cbba27"
     ]
   ],
@@ -21,22 +21,22 @@
   ],
   [
     [
-      "2024-03-31, 21:55:13",
-      "https://news.ycombinator.com/item?id=39888417"
-    ],
-    [
-      "Tesla stock drops 29% in first quarter as global dominance wanes",
-      "https://www.cnbc.com/2024/03/29/tesla-stock-drops-29percent-in-first-quarter-as-global-dominance-wanes.html"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 21:51:22",
       "https://news.ycombinator.com/item?id=39888383"
     ],
     [
-      "Upcoming email service provider guidelines",
+      "A deep dive into email deliverability in 2024",
       "https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 21:27:56",
+      "https://news.ycombinator.com/item?id=39888213"
+    ],
+    [
+      "Is social media behind an epidemic of teenage mental illness?",
+      "https://www.nature.com/articles/d41586-024-00902-2"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39888203"
     ],
     [
-      "Cpp2 and cppfront – An experimental 'C++ syntax 2' and its first compiler",
+      "Overview: What are Cpp2 and cppfront? How do I get and build cppfront?",
       "https://hsutter.github.io/cppfront/"
     ]
   ],
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-03-31, 21:04:08",
-      "https://news.ycombinator.com/item?id=39888054"
-    ],
-    [
-      "IBM lifts lid on latest bid to halt mainframe skill slips",
-      "https://www.theregister.com/2024/03/08/ibm_mainframe_skill/"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 20:58:33",
       "https://news.ycombinator.com/item?id=39888020"
     ],
@@ -91,32 +81,12 @@
   ],
   [
     [
-      "2024-03-31, 20:36:38",
-      "https://news.ycombinator.com/item?id=39887852"
-    ],
-    [
-      "Engineering a culture",
-      "https://oxide.computer/blog/engineering-culture"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 20:32:45",
       "https://news.ycombinator.com/item?id=39887815"
     ],
     [
-      "Modeling of Pulsed Plasma Rocket Shows It Should Be Possible to Create One",
+      "Modeling of pulsed plasma rocket shows it should be possible to create one",
       "https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 20:24:12",
-      "https://news.ycombinator.com/item?id=39887732"
-    ],
-    [
-      "Post-operative cognitive dysfunction is exacerbated by high-fat diet",
-      "https://www.sciencedirect.com/science/article/abs/pii/S0889159123004105"
     ]
   ],
   [
@@ -137,6 +107,16 @@
     [
       "Dan Lynch Has Died (SRI, Arpanet, Internet)",
       "https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 17:58:47",
+      "https://news.ycombinator.com/item?id=39886442"
+    ],
+    [
+      "Show HN: Focumon – Turn your work into a multiplayer adventure",
+      "https://www.focumon.com/landing"
     ]
   ],
   [
@@ -167,6 +147,16 @@
     [
       "Can GPT optimize my taxes? An experiment in letting the LLM be the UX",
       "https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 15:26:08",
+      "https://news.ycombinator.com/item?id=39885097"
+    ],
+    [
+      "Safeguarding Identity and Privacy: Fundamental Human Rights in the Digital Age",
+      "https://idpro.org/safeguarding-identity-and-privacy-fundamental-human-rights-in-the-digital-age/"
     ]
   ],
   [
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=39880856"
     ],
     [
-      "Cutting a 700 Carat Rare Valuable Gemstone [video]",
+      "Cutting a 700 carat rare valuable gemstone [video]",
       "https://www.youtube.com/watch?v=Qe9tnIB2Yro"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "When Bacteria Are Beautiful",
       "https://nautil.us/when-bacteria-are-beautiful-541411/"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 12:11:43",
+      "https://news.ycombinator.com/item?id=39863072"
+    ],
+    [
+      "Typesetting the LaTeX Way (2013)",
+      "https://chriscummins.cc/2013/typesetting/"
     ]
   ],
   [
