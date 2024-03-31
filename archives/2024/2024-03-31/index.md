@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 12:42:34](https://news.ycombinator.com/item?id=39883747) - [Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included](https://news.ycombinator.com/item?id=39883747)
 * [2024-03-31, 12:16:07](https://news.ycombinator.com/item?id=39883571) - [The AI industry spent 17x more on Nvidia chips than it brought in in revenue](https://old.reddit.com/r/MachineLearning/comments/1bs1ebl/wsj_the_ai_industry_spent_17x_more_on_nvidia/)
 * [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 * [2024-03-31, 11:41:09](https://news.ycombinator.com/item?id=39883328) - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
@@ -18,6 +19,7 @@
 * [2024-03-31, 06:41:55](https://news.ycombinator.com/item?id=39881980) - [Layout of Rust's u128 and i128 changed](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 * [2024-03-31, 06:36:11](https://news.ycombinator.com/item?id=39881962) - [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
 * [2024-03-31, 06:25:51](https://news.ycombinator.com/item?id=39881918) - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
+* [2024-03-31, 06:24:56](https://news.ycombinator.com/item?id=39881915) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
 * [2024-03-31, 06:23:51](https://news.ycombinator.com/item?id=39881911) - [Not able to click on map during Google search why did they change this (in EU)](https://old.reddit.com/r/GoogleMaps/comments/1b228yx/not_able_to_click_on_map_during_google_searchwhy/)
 * [2024-03-31, 06:18:59](https://news.ycombinator.com/item?id=39881894) - [Software Needs to Be More Expensive](https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html)
 * [2024-03-31, 05:43:15](https://news.ycombinator.com/item?id=39881758) - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
