@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-03-31, 12:31:04",
+      "https://news.ycombinator.com/item?id=39883668"
+    ],
+    [
+      "Silicon spikes take out 96% of virus particles",
+      "https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 12:13:25",
       "https://news.ycombinator.com/item?id=39883555"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2024-03-31, 09:48:20",
+      "https://news.ycombinator.com/item?id=39882810"
+    ],
+    [
+      "The unreasonable effectiveness of VMs in hacker pedagogy",
+      "https://hiandrewquinn.github.io/til-site/posts/the-unreasonable-effectiveness-of-vms-in-hacker-pedagogy/"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 08:23:43",
       "https://news.ycombinator.com/item?id=39882455"
     ],
@@ -107,16 +127,6 @@
     [
       "Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic",
       "https://www.documentcloud.org/documents/24520332-merged-fb"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 06:24:56",
-      "https://news.ycombinator.com/item?id=39881915"
-    ],
-    [
-      "A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage",
-      "https://www.bunniestudios.com/blog/?p=7066"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Garbage collection for systems programmers (2023)",
       "https://bitbashing.io/gc-for-systems-programmers.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 09:36:53",
-      "https://news.ycombinator.com/item?id=39873272"
-    ],
-    [
-      "Prolog language for PostgreSQL proof of concept",
-      "https://github.com/tatut/pgprolog"
     ]
   ]
 ]
