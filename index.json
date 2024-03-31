@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-31, 12:16:07",
-      "https://news.ycombinator.com/item?id=39883571"
+      "2024-03-31, 12:42:34",
+      "https://news.ycombinator.com/item?id=39883747"
     ],
     [
-      "The AI industry spent 17x more on Nvidia chips than it brought in in revenue",
-      "https://old.reddit.com/r/MachineLearning/comments/1bs1ebl/wsj_the_ai_industry_spent_17x_more_on_nvidia/"
+      "Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included",
+      "https://news.ycombinator.com/item?id=39883747"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-03-31, 07:23:25",
-      "https://news.ycombinator.com/item?id=39882174"
-    ],
-    [
-      "Python for Everyday, Everyone, Everywhere",
-      "https://leanpub.com/python-everyday"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 06:52:23",
       "https://news.ycombinator.com/item?id=39882018"
     ],
@@ -87,6 +77,16 @@
     [
       "Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic",
       "https://www.documentcloud.org/documents/24520332-merged-fb"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 06:24:56",
+      "https://news.ycombinator.com/item?id=39881915"
+    ],
+    [
+      "A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage",
+      "https://www.bunniestudios.com/blog/?p=7066"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-03-30, 17:00:09",
-      "https://news.ycombinator.com/item?id=39876517"
-    ],
-    [
-      "Hadrius (YC W23) – Founding Engineer for fastest growing compliance software",
-      "https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 16:04:53",
       "https://news.ycombinator.com/item?id=39876114"
     ],
@@ -297,6 +287,16 @@
     [
       "Prolog language for PostgreSQL proof of concept",
       "https://github.com/tatut/pgprolog"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 06:01:32",
+      "https://news.ycombinator.com/item?id=39872236"
+    ],
+    [
+      "When will the eclipse happen? A multimillennium tale of computation",
+      "https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/"
     ]
   ]
 ]
