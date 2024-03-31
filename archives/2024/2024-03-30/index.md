@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 22:57:39](https://news.ycombinator.com/item?id=39879496) - [Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
 * [2024-03-30, 22:56:29](https://news.ycombinator.com/item?id=39879488) - [Disillusioned Businesses Discovering That AI Kind of Sucks](https://futurism.com/the-byte/businesses-discovering-ai-sucks)
 * [2024-03-30, 22:46:23](https://news.ycombinator.com/item?id=39879432) - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
 * [2024-03-30, 22:45:42](https://news.ycombinator.com/item?id=39879426) - [Delirium Tremens](https://en.wikipedia.org/wiki/Delirium_tremens)
