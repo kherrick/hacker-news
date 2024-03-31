@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 18:14:32](https://news.ycombinator.com/item?id=39886586) - [Ask HN: Are there some bad actors in Who is hiring?](https://news.ycombinator.com/item?id=39886586)
 * [2024-03-31, 18:08:45](https://news.ycombinator.com/item?id=39886534) - [OpenAI deems its voice cloning tool too risky for general release](https://www.theguardian.com/technology/2024/mar/31/openai-deems-its-voice-cloning-tool-too-risky-for-general-release)
 * [2024-03-31, 17:48:45](https://news.ycombinator.com/item?id=39886328) - [Proposal: Signals as a Built-In Primitive of JavaScript](https://github.com/proposal-signals/proposal-signals)
 * [2024-03-31, 17:43:08](https://news.ycombinator.com/item?id=39886272) - [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-31, 18:14:32](https://news.ycombinator.com/item?id=39886586) - [Ask HN: Are there some bad actors in Who is hiring?](https://news.ycombinator.com/item?id=39886586)
 * [2024-03-31, 18:08:45](https://news.ycombinator.com/item?id=39886534) - [OpenAI deems its voice cloning tool too risky for general release](https://www.theguardian.com/technology/2024/mar/31/openai-deems-its-voice-cloning-tool-too-risky-for-general-release)
 * [2024-03-31, 17:48:45](https://news.ycombinator.com/item?id=39886328) - [Proposal: Signals as a Built-In Primitive of JavaScript](https://github.com/proposal-signals/proposal-signals)
 * [2024-03-31, 17:43:08](https://news.ycombinator.com/item?id=39886272) - [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
 * [2024-03-31, 17:32:16](https://news.ycombinator.com/item?id=39886178) - [Ask HN: Is anybody getting value from AI Agents? How so?](https://news.ycombinator.com/item?id=39886178)
 * [2024-03-31, 17:10:23](https://news.ycombinator.com/item?id=39885977) - [IEEE no longer accepts Lena image containing submissions from 4/1 onward](https://www.theguardian.com/technology/2024/mar/31/tech-publisher-bans-playboy-centrefold-test-image-from-its-journals)
-* [2024-03-31, 16:43:01](https://news.ycombinator.com/item?id=39885773) - [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
 * [2024-03-31, 16:42:04](https://news.ycombinator.com/item?id=39885764) - [It's time to stop using SMS (2021)](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
 * [2024-03-31, 15:54:52](https://news.ycombinator.com/item?id=39885361) - [Tell HN: Windows 3D Pinball (Space Cadet)](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [2024-03-31, 15:41:10](https://news.ycombinator.com/item?id=39885238) - [2023 was one of the safest years in commercial aviation](https://askthepilot.com/safest-year-2023/)
