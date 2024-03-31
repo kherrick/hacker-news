@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2024-03-31, 21:09:53",
-      "https://news.ycombinator.com/item?id=39888090"
+      "2024-03-31, 21:26:44",
+      "https://news.ycombinator.com/item?id=39888203"
     ],
     [
-      "Tesla Cybertruck Frunk Is Hungry for Fingers",
-      "https://jalopnik.com/tesla-cybertruck-frunk-is-hungry-for-fingers-1851372744"
+      "Cpp2 and cppfront – An experimental 'C++ syntax 2' and its first compiler",
+      "https://hsutter.github.io/cppfront/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 21:05:05",
+      "https://news.ycombinator.com/item?id=39888059"
+    ],
+    [
+      "The xz backdoor thing reminds me of a story",
+      "https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177"
     ]
   ],
   [
@@ -27,6 +37,26 @@
     [
       "Meticulous (YC S21) is hiring to eliminate UI tests",
       "https://news.ycombinator.com/item?id=39888057"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 21:04:08",
+      "https://news.ycombinator.com/item?id=39888054"
+    ],
+    [
+      "IBM lifts lid on latest bid to halt mainframe skill slips",
+      "https://www.theregister.com/2024/03/08/ibm_mainframe_skill/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 20:32:45",
+      "https://news.ycombinator.com/item?id=39887815"
+    ],
+    [
+      "Modeling of Pulsed Plasma Rocket Shows It Should Be Possible to Create One",
+      "https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/"
     ]
   ],
   [
@@ -51,42 +81,12 @@
   ],
   [
     [
-      "2024-03-31, 19:33:25",
-      "https://news.ycombinator.com/item?id=39887307"
-    ],
-    [
-      "Fired Americans Say Indian Firm Gave Their Jobs to H-1B Visa Holders",
-      "https://www.msn.com/en-us/money/careers/fired-americans-say-indian-firm-gave-their-jobs-to-h-1b-visa-holders/ar-BB1kIVHE"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 19:29:11",
       "https://news.ycombinator.com/item?id=39887275"
     ],
     [
       "Dan Lynch Has Died (SRI, Arpanet, Internet)",
       "https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 19:27:51",
-      "https://news.ycombinator.com/item?id=39887263"
-    ],
-    [
-      "Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4",
-      "https://www.phoronix.com/news/Llamafile-0.7"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 19:06:40",
-      "https://news.ycombinator.com/item?id=39887071"
-    ],
-    [
-      "OpenSSF scorecard github.com/tukaani-project/xz",
-      "https://securityscorecards.dev/viewer/?uri=github.com/tukaani-project/xz"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "A. K. Dewdney has died",
       "https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 15:45:29",
-      "https://news.ycombinator.com/item?id=39885280"
-    ],
-    [
-      "YouTube: Google has found a way to break Invidious",
-      "https://chipp.in/news/youtube-google-has-found-a-way-to-break-invidious/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The Mongolian Meta",
       "https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 11:22:20",
+      "https://news.ycombinator.com/item?id=39873793"
+    ],
+    [
+      "How well can LLMs write COBOL?",
+      "https://bloop.ai/blog/evaluating-llms-on-cobol"
     ]
   ],
   [
