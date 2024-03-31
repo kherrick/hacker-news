@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-31, 03:13:27",
-      "https://news.ycombinator.com/item?id=39881044"
-    ],
-    [
-      "XZ backdoor may have a killswitch and mitigation without package update",
-      "https://news.ycombinator.com/item?id=39881044"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 02:03:31",
       "https://news.ycombinator.com/item?id=39880664"
     ],
@@ -277,6 +267,16 @@
     [
       "Garbage collection for systems programmers (2023)",
       "https://bitbashing.io/gc-for-systems-programmers.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 09:36:53",
+      "https://news.ycombinator.com/item?id=39873272"
+    ],
+    [
+      "Prolog language for PostgreSQL proof of concept",
+      "https://github.com/tatut/pgprolog"
     ]
   ],
   [
