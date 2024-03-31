@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2024-03-31, 16:42:04",
+      "https://news.ycombinator.com/item?id=39885764"
+    ],
+    [
+      "It's time to stop using SMS for anything. (2021)",
+      "https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 15:41:10",
       "https://news.ycombinator.com/item?id=39885238"
     ],
     [
-      "2023 goes down as one of the safest years in commercial aviation history",
+      "2023 was one of the safest years in commercial aviation",
       "https://askthepilot.com/safest-year-2023/"
     ]
   ],
@@ -27,26 +37,6 @@
     [
       "Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones",
       "https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 14:41:54",
-      "https://news.ycombinator.com/item?id=39884711"
-    ],
-    [
-      "Robinhood's new, attractive and expensive credit card",
-      "https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 14:31:12",
-      "https://news.ycombinator.com/item?id=39884623"
-    ],
-    [
-      "How do TV detector vans work?",
-      "https://www.theguardian.com/notesandqueries/query/0,5753,-22440,00.html"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39884004"
     ],
     [
-      "The Illusion of Being Stuck",
+      "The illusion of being stuck",
       "https://the-simulation-strategists.beehiiv.com/p/being-stuck"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included",
       "https://news.ycombinator.com/item?id=39883747"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 12:31:04",
+      "https://news.ycombinator.com/item?id=39883668"
+    ],
+    [
+      "Silicon spikes take out 96% of virus particles",
+      "https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39882018"
     ],
     [
-      "Guess My RGB",
+      "Guess my RGB",
       "https://susam.net/myrgb.html"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-03-31, 03:09:11",
+      "https://news.ycombinator.com/item?id=39881014"
+    ],
+    [
+      "Pacemaker powered by light: new research",
+      "https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 02:30:09",
       "https://news.ycombinator.com/item?id=39880807"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2024-03-30, 22:57:39",
-      "https://news.ycombinator.com/item?id=39879496"
-    ],
-    [
-      "Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize",
-      "https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 21:08:16",
-      "https://news.ycombinator.com/item?id=39878681"
-    ],
-    [
-      "Xz/liblzma: Bash-stage Obfuscation Explained",
-      "https://gynvael.coldwind.pl/?lang=en&id=782"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 21:03:07",
       "https://news.ycombinator.com/item?id=39878635"
     ],
@@ -231,32 +221,32 @@
   ],
   [
     [
-      "2024-03-30, 19:44:12",
-      "https://news.ycombinator.com/item?id=39877949"
-    ],
-    [
-      "Toni Morrison's Rejection Letters",
-      "https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 19:16:53",
-      "https://news.ycombinator.com/item?id=39877730"
-    ],
-    [
-      "Roll-Invert-Unroll: An easier way to replace a duvet cover",
-      "https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 18:19:18",
       "https://news.ycombinator.com/item?id=39877267"
     ],
     [
       "XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"",
       "https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 17:33:23",
+      "https://news.ycombinator.com/item?id=39876817"
+    ],
+    [
+      "An unusual 7400-series chip implemented with a gate array",
+      "https://www.righto.com/2024/03/idt-gate-array.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 16:04:53",
+      "https://news.ycombinator.com/item?id=39876114"
+    ],
+    [
+      "Mamba Explained",
+      "https://thegradient.pub/mamba-explained/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Xz: Can you spot the single character that disabled Linux landlock?",
       "https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 11:22:20",
+      "https://news.ycombinator.com/item?id=39873793"
+    ],
+    [
+      "How well can LLMs write COBOL?",
+      "https://bloop.ai/blog/evaluating-llms-on-cobol"
     ]
   ],
   [
