@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-31, 06:25:51](https://news.ycombinator.com/item?id=39881918) - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
+* [2024-03-31, 06:23:51](https://news.ycombinator.com/item?id=39881911) - [Not able to click on map during Google search why did they change this (in EU)](https://old.reddit.com/r/GoogleMaps/comments/1b228yx/not_able_to_click_on_map_during_google_searchwhy/)
+* [2024-03-31, 05:29:32](https://news.ycombinator.com/item?id=39881705) - [World Backup Day](https://www.worldbackupday.com/en)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
-* [2024-03-31, 00:34:07](https://news.ycombinator.com/item?id=39880152) - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
 * [2024-03-30, 23:34:50](https://news.ycombinator.com/item?id=39879710) - [xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 * [2024-03-30, 22:57:39](https://news.ycombinator.com/item?id=39879496) - [Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
 * [2024-03-30, 22:46:23](https://news.ycombinator.com/item?id=39879432) - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
@@ -29,7 +30,6 @@
 * [2024-03-30, 12:56:03](https://news.ycombinator.com/item?id=39874404) - [Xz: Can you spot the single character that disabled Linux landlock?](https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage collection for systems programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
-* [2024-03-30, 06:01:32](https://news.ycombinator.com/item?id=39872236) - [When will the eclipse happen? A multimillennium tale of computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
 
 ## [Archives](archives/index.md)
 
