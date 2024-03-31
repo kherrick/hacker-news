@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-03-31, 06:43:51",
-      "https://news.ycombinator.com/item?id=39881989"
+      "2024-03-31, 06:41:55",
+      "https://news.ycombinator.com/item?id=39881980"
     ],
     [
-      "Kilroy Was Here",
-      "https://en.wikipedia.org/wiki/Kilroy_was_here"
+      "Layout of Rust's u128 and i128 changed",
+      "https://blog.rust-lang.org/2024/03/30/i128-layout-update.html"
     ]
   ],
   [
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-03-31, 00:34:07",
+      "https://news.ycombinator.com/item?id=39880152"
+    ],
+    [
+      "Nvidia Is Simulating a Copy of the Earth",
+      "https://futurism.com/the-byte/nvidia-simulating-copy-earth"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 23:34:50",
       "https://news.ycombinator.com/item?id=39879710"
     ],
@@ -107,16 +117,6 @@
     [
       "Significant performance and correctness improvements to the kernel",
       "https://www.redox-os.org/news/kernel-10/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 22:21:44",
-      "https://news.ycombinator.com/item?id=39879250"
-    ],
-    [
-      "The Set-Up-to-Fail Syndrome (1998)",
-      "https://hbr.org/1998/03/the-set-up-to-fail-syndrome"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-03-30, 17:59:51",
-      "https://news.ycombinator.com/item?id=39877077"
-    ],
-    [
-      "The Canadian government's plan to plant two billion trees",
-      "https://www.cbc.ca/newsinteractives/features/two-billion-trees"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 17:33:23",
       "https://news.ycombinator.com/item?id=39876817"
     ],
@@ -297,6 +287,16 @@
     [
       "Prolog language for PostgreSQL proof of concept",
       "https://github.com/tatut/pgprolog"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 06:01:32",
+      "https://news.ycombinator.com/item?id=39872236"
+    ],
+    [
+      "When will the eclipse happen? A multimillennium tale of computation",
+      "https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/"
     ]
   ]
 ]
