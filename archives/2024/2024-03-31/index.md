@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 21:12:34](https://news.ycombinator.com/item?id=39888113) - [Microsoft Helping Out in Making the Linux Kernel Language More Inclusive](https://www.phoronix.com/news/Microsoft-Linux-More-Inclusive)
 * [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
 * [2024-03-31, 20:24:12](https://news.ycombinator.com/item?id=39887732) - [Post-operative cognitive dysfunction is exacerbated by high-fat diet](https://www.sciencedirect.com/science/article/abs/pii/S0889159123004105)
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
@@ -13,6 +14,7 @@
 * [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.internethalloffame.org/2021/04/19/dan-lynchs-love-brilliant-complexity-fuels-early-internet-development-growth/)
 * [2024-03-31, 19:27:51](https://news.ycombinator.com/item?id=39887263) - [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
 * [2024-03-31, 19:09:13](https://news.ycombinator.com/item?id=39887098) - [Kia recalls over 427K Telluride SUVs because they might roll away while parked](https://abcnews.go.com/Technology/wireStory/kia-recalls-427000-telluride-suvs-roll-parked-108695466)
+* [2024-03-31, 19:06:40](https://news.ycombinator.com/item?id=39887071) - [OpenSSF scorecard github.com/tukaani-project/xz](https://securityscorecards.dev/viewer/?uri=github.com/tukaani-project/xz)
 * [2024-03-31, 18:42:05](https://news.ycombinator.com/item?id=39886838) - [Fast and concise probabilistic filters in Python](https://lemire.me/blog/2024/03/31/fast-and-concise-probabilistic-filters-in-python/)
 * [2024-03-31, 18:35:54](https://news.ycombinator.com/item?id=39886776) - [It Only Takes a $7k Debt to End Up Trapped in China](https://www.wsj.com/world/china/chinese-exit-bans-business-c38cb10c)
 * [2024-03-31, 18:14:32](https://news.ycombinator.com/item?id=39886586) - [Ask HN: Are there some bad actors in Who is hiring?](https://news.ycombinator.com/item?id=39886586)
