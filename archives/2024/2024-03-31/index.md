@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 23:30:10](https://news.ycombinator.com/item?id=39889245) - [Stop Believing in Free Shipping](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
+* [2024-03-31, 22:55:09](https://news.ycombinator.com/item?id=39888943) - [Adaptive RAG – dynamic retrieval methods adjustment](https://arxiv.org/abs/2403.14403)
+* [2024-03-31, 22:38:09](https://news.ycombinator.com/item?id=39888769) - [Mini-Gemini: Mining the Potential of Multi-Modality Vision Language Models](https://arxiv.org/abs/2403.18814)
 * [2024-03-31, 22:35:51](https://news.ycombinator.com/item?id=39888740) - [Ever-compounding technical debt is an invisible $1.52T problem](https://www.wsj.com/tech/personal-tech/the-invisible-1-52-trillion-problem-clunky-old-software-f5cbba27)
 * [2024-03-31, 22:28:33](https://news.ycombinator.com/item?id=39888672) - [Famine Early Warning Systems Network: Food Insecurity Area Classification](https://fews.net/)
 * [2024-03-31, 22:05:39](https://news.ycombinator.com/item?id=39888496) - [Smart devices are turning out to be a poor investment](https://www.androidpolice.com/smart-devices-poor-investment/)
