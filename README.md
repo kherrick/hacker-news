@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-03-31, 21:12:34](https://news.ycombinator.com/item?id=39888113) - [Microsoft Helping Out in Making the Linux Kernel Language More Inclusive](https://www.phoronix.com/news/Microsoft-Linux-More-Inclusive)
+* [2024-03-31, 21:27:56](https://news.ycombinator.com/item?id=39888213) - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
+* [2024-03-31, 21:09:53](https://news.ycombinator.com/item?id=39888090) - [Tesla Cybertruck Frunk Is Hungry for Fingers](https://jalopnik.com/tesla-cybertruck-frunk-is-hungry-for-fingers-1851372744)
 * [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
 * [2024-03-31, 20:24:12](https://news.ycombinator.com/item?id=39887732) - [Post-operative cognitive dysfunction is exacerbated by high-fat diet](https://www.sciencedirect.com/science/article/abs/pii/S0889159123004105)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
@@ -18,7 +19,6 @@
 * [2024-03-31, 11:41:09](https://news.ycombinator.com/item?id=39883328) - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
-* [2024-03-31, 06:24:56](https://news.ycombinator.com/item?id=39881915) - [A kinematically coupled, nanometer-resolution piezo focus stage](https://www.bunniestudios.com/blog/?p=7066)
 * [2024-03-31, 03:09:11](https://news.ycombinator.com/item?id=39881014) - [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416)
 * [2024-03-31, 02:38:39](https://news.ycombinator.com/item?id=39880856) - [Cutting a 700 Carat Rare Valuable Gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
 * [2024-03-30, 22:21:44](https://news.ycombinator.com/item?id=39879250) - [The Set-Up-to-Fail Syndrome (1998)](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
