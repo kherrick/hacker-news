@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-31, 06:52:23",
+      "https://news.ycombinator.com/item?id=39882018"
+    ],
+    [
+      "Guess My RGB",
+      "https://susam.net/myrgb.html"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 06:41:55",
       "https://news.ycombinator.com/item?id=39881980"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39881135"
     ],
     [
-      "How the California forest that was Endor in 'Return of the Jedi' was obliterated",
+      "How the California forest that was Endor in 'Return of the Jedi' was obliterated (2022)",
       "https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Prolog language for PostgreSQL proof of concept",
       "https://github.com/tatut/pgprolog"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 06:01:32",
-      "https://news.ycombinator.com/item?id=39872236"
-    ],
-    [
-      "When will the eclipse happen? A multimillennium tale of computation",
-      "https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/"
     ]
   ]
 ]
