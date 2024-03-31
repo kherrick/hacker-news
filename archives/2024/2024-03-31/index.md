@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 * [2024-03-31, 03:13:27](https://news.ycombinator.com/item?id=39881044) - [XZ backdoor may have a killswitch and mitigation](https://news.ycombinator.com/item?id=39881044)
 * [2024-03-31, 02:03:31](https://news.ycombinator.com/item?id=39880664) - [A Microsoft Excel Spreadsheet from Hell Slowed Williams' F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
 * [2024-03-31, 01:07:23](https://news.ycombinator.com/item?id=39880367) - [A Person Who Was in Charge of OpenAI's $175M Fund Appears to Be Fake](https://futurism.com/the-byte/fake-person-openai-fund)
