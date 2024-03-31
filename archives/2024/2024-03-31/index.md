@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 10:54:19](https://news.ycombinator.com/item?id=39883123) - [WSJ: AI industry spent 17x more on Nvidia chips than it brought in in revenue](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
+* [2024-03-31, 10:44:49](https://news.ycombinator.com/item?id=39883089) - [Ask HN: How bad is the xz hack?](https://news.ycombinator.com/item?id=39883089)
 * [2024-03-31, 10:42:04](https://news.ycombinator.com/item?id=39883072) - [How read-intensive is Linux's use of RCU? (And what is its latency?)](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
 * [2024-03-31, 07:57:24](https://news.ycombinator.com/item?id=39882337) - [BYD Rolls Off Its 7Mth New Energy Vehicle](https://cleantechnica.com/2024/03/27/byd-rolls-off-its-7-millionth-new-energy-vehicle/)
