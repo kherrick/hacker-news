@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
 * [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
+* [2024-03-31, 20:24:12](https://news.ycombinator.com/item?id=39887732) - [Post-operative cognitive dysfunction is exacerbated by high-fat diet](https://www.sciencedirect.com/science/article/abs/pii/S0889159123004105)
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-31, 19:33:25](https://news.ycombinator.com/item?id=39887307) - [Fired Americans Say Indian Firm Gave Their Jobs to H-1B Visa Holders](https://www.msn.com/en-us/money/careers/fired-americans-say-indian-firm-gave-their-jobs-to-h-1b-visa-holders/ar-BB1kIVHE)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
+* [2024-03-31, 20:24:12](https://news.ycombinator.com/item?id=39887732) - [Post-operative cognitive dysfunction is exacerbated by high-fat diet](https://www.sciencedirect.com/science/article/abs/pii/S0889159123004105)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-31, 19:33:25](https://news.ycombinator.com/item?id=39887307) - [Fired Americans Say Indian Firm Gave Their Jobs to H-1B Visa Holders](https://www.msn.com/en-us/money/careers/fired-americans-say-indian-firm-gave-their-jobs-to-h-1b-visa-holders/ar-BB1kIVHE)
 * [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html)
@@ -9,7 +10,6 @@
 * [2024-03-31, 17:43:08](https://news.ycombinator.com/item?id=39886272) - [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
 * [2024-03-31, 15:45:29](https://news.ycombinator.com/item?id=39885280) - [YouTube: Google has found a way to break Invidious](https://chipp.in/news/youtube-google-has-found-a-way-to-break-invidious/)
 * [2024-03-31, 15:26:08](https://news.ycombinator.com/item?id=39885097) - [Safeguarding Identity and Privacy: Fundamental Human Rights in the Digital Age](https://idpro.org/safeguarding-identity-and-privacy-fundamental-human-rights-in-the-digital-age/)
-* [2024-03-31, 14:25:41](https://news.ycombinator.com/item?id=39884570) - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
 * [2024-03-31, 13:55:52](https://news.ycombinator.com/item?id=39884287) - [Dr. Katalin Karikó (2021)](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
 * [2024-03-31, 13:21:50](https://news.ycombinator.com/item?id=39884004) - [The illusion of being stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 * [2024-03-31, 12:55:50](https://news.ycombinator.com/item?id=39883833) - [Taws – The Amiga Workbench](https://taws.ch/WB.html)
@@ -25,11 +25,11 @@
 * [2024-03-30, 19:47:44](https://news.ycombinator.com/item?id=39877987) - [Spacing the Cans](https://robhorning.substack.com/p/spacing-the-cans)
 * [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
 * [2024-03-30, 11:22:20](https://news.ycombinator.com/item?id=39873793) - [How well can LLMs write COBOL?](https://bloop.ai/blog/evaluating-llms-on-cobol)
-* [2024-03-30, 11:14:25](https://news.ycombinator.com/item?id=39873756) - [Linear Algebra of Types (2019)](https://www.philipzucker.com/linear-algebra-of-types/)
 * [2024-03-30, 06:42:18](https://news.ycombinator.com/item?id=39872406) - [The roller ship was not an effective way to cross the high seas](https://hackaday.com/2024/03/27/the-roller-ship-was-not-an-effective-way-to-cross-the-high-seas/)
 * [2024-03-29, 12:21:04](https://news.ycombinator.com/item?id=39863163) - [When Bacteria Are Beautiful](https://nautil.us/when-bacteria-are-beautiful-541411/)
 * [2024-03-29, 12:11:43](https://news.ycombinator.com/item?id=39863072) - [Typesetting the LaTeX Way (2013)](https://chriscummins.cc/2013/typesetting/)
 * [2024-03-29, 07:36:45](https://news.ycombinator.com/item?id=39861525) - [Show HN: An adventure game in Z80 assembly for CP/M and ZX Spectrum](https://github.com/skx/lighthouse-of-doom)
+* [2024-03-28, 05:23:11](https://news.ycombinator.com/item?id=39848027) - [Influencers: Japan's secret weapon to promote niche tourism spots](https://www.japantimes.co.jp/business/2024/03/28/japan-tourism-influencers/)
 
 ## [Archives](archives/index.md)
 
