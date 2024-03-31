@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-31, 19:40:43",
+      "https://news.ycombinator.com/item?id=39887355"
+    ],
+    [
+      "Show HN: Picohsm, a $5 open-source hsm",
+      "https://www.picokeys.com/pico-hsm/"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 19:33:43",
       "https://news.ycombinator.com/item?id=39887313"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-03-31, 19:29:11",
+      "https://news.ycombinator.com/item?id=39887275"
+    ],
+    [
+      "Dan Lynch Has Died (SRI, Arpanet, Internet)",
+      "https://www.internethalloffame.org/2021/04/19/dan-lynchs-love-brilliant-complexity-fuels-early-internet-development-growth/"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 19:27:51",
       "https://news.ycombinator.com/item?id=39887263"
     ],
     [
       "Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4",
       "https://www.phoronix.com/news/Llamafile-0.7"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 19:09:13",
+      "https://news.ycombinator.com/item?id=39887098"
+    ],
+    [
+      "Kia recalls over 427K Telluride SUVs because they might roll away while parked",
+      "https://abcnews.go.com/Technology/wireStory/kia-recalls-427000-telluride-suvs-roll-parked-108695466"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2024-03-31, 15:41:10",
-      "https://news.ycombinator.com/item?id=39885238"
-    ],
-    [
-      "2023 was one of the safest years in commercial aviation",
-      "https://askthepilot.com/safest-year-2023/"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 14:25:41",
       "https://news.ycombinator.com/item?id=39884570"
     ],
@@ -87,16 +107,6 @@
     [
       "The illusion of being stuck",
       "https://the-simulation-strategists.beehiiv.com/p/being-stuck"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 13:12:00",
-      "https://news.ycombinator.com/item?id=39883949"
-    ],
-    [
-      "How to graduate your PhD when you have no hope",
-      "https://huiwenn.github.io/feynman"
     ]
   ],
   [
@@ -141,22 +151,22 @@
   ],
   [
     [
+      "2024-03-31, 06:36:11",
+      "https://news.ycombinator.com/item?id=39881962"
+    ],
+    [
+      "Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic",
+      "https://www.documentcloud.org/documents/24520332-merged-fb"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 06:24:56",
       "https://news.ycombinator.com/item?id=39881915"
     ],
     [
       "A kinematically coupled, nanometer-resolution piezo focus stage",
       "https://www.bunniestudios.com/blog/?p=7066"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 05:43:15",
-      "https://news.ycombinator.com/item?id=39881758"
-    ],
-    [
-      "Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai",
-      "https://ragdoll-studio.vercel.app/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: An adventure game in Z80 assembly for CP/M and ZX Spectrum",
       "https://github.com/skx/lighthouse-of-doom"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 09:46:22",
-      "https://news.ycombinator.com/item?id=39849219"
-    ],
-    [
-      "\"Real\" anonymous functions for Python",
-      "https://lwn.net/Articles/964839/"
     ]
   ]
 ]
