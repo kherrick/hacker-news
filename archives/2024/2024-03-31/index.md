@@ -6,6 +6,7 @@
 
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
+* [2024-03-31, 19:33:25](https://news.ycombinator.com/item?id=39887307) - [Fired Americans Say Indian Firm Gave Their Jobs to H-1B Visa Holders](https://www.msn.com/en-us/money/careers/fired-americans-say-indian-firm-gave-their-jobs-to-h-1b-visa-holders/ar-BB1kIVHE)
 * [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html)
 * [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.internethalloffame.org/2021/04/19/dan-lynchs-love-brilliant-complexity-fuels-early-internet-development-growth/)
 * [2024-03-31, 19:27:51](https://news.ycombinator.com/item?id=39887263) - [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
@@ -24,6 +25,7 @@
 * [2024-03-31, 15:54:52](https://news.ycombinator.com/item?id=39885361) - [Tell HN: Windows 3D Pinball (Space Cadet)](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [2024-03-31, 15:45:29](https://news.ycombinator.com/item?id=39885280) - [YouTube: Google has found a way to break Invidious](https://chipp.in/news/youtube-google-has-found-a-way-to-break-invidious/)
 * [2024-03-31, 15:41:10](https://news.ycombinator.com/item?id=39885238) - [2023 goes down as one of the safest years in commercial aviation history](https://askthepilot.com/safest-year-2023/)
+* [2024-03-31, 15:26:08](https://news.ycombinator.com/item?id=39885097) - [Safeguarding Identity and Privacy: Fundamental Human Rights in the Digital Age](https://idpro.org/safeguarding-identity-and-privacy-fundamental-human-rights-in-the-digital-age/)
 * [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
 * [2024-03-31, 14:41:54](https://news.ycombinator.com/item?id=39884711) - [Robinhood's new, attractive and expensive credit card](https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/)
 * [2024-03-31, 14:38:17](https://news.ycombinator.com/item?id=39884683) - [Totality and non-standard recursion in Idris](https://franklin.dyer.me/post/222)
