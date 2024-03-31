@@ -19,7 +19,7 @@
 * [2024-03-31, 05:43:15](https://news.ycombinator.com/item?id=39881758) - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated (2022)](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 * [2024-03-31, 02:30:09](https://news.ycombinator.com/item?id=39880807) - [Specmatic: transform API specs into executable contracts](https://github.com/znsio/specmatic)
-* [2024-03-30, 23:34:50](https://news.ycombinator.com/item?id=39879710) - [Xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
+* [2024-03-30, 23:34:50](https://news.ycombinator.com/item?id=39879710) - [Xz: A microcosm of the interactions in open source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 * [2024-03-30, 22:57:39](https://news.ycombinator.com/item?id=39879496) - [Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
 * [2024-03-30, 21:08:16](https://news.ycombinator.com/item?id=39878681) - [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 * [2024-03-30, 21:03:07](https://news.ycombinator.com/item?id=39878635) - [Tiny orchid flowers pollinated by tiny flies](https://phys.org/news/2024-03-tiny-orchid-pollinated-flies.html)
