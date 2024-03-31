@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 17:32:16](https://news.ycombinator.com/item?id=39886178) - [Ask HN: Is anybody getting value from AI Agents? How so?](https://news.ycombinator.com/item?id=39886178)
 * [2024-03-31, 16:43:01](https://news.ycombinator.com/item?id=39885773) - [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
 * [2024-03-31, 16:42:04](https://news.ycombinator.com/item?id=39885764) - [It's time to stop using SMS for anything. (2021)](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
 * [2024-03-31, 15:41:10](https://news.ycombinator.com/item?id=39885238) - [2023 goes down as one of the safest years in commercial aviation history](https://askthepilot.com/safest-year-2023/)
@@ -51,6 +52,7 @@
 * [2024-03-31, 02:49:20](https://news.ycombinator.com/item?id=39880913) - [Light and Infrared Radiation](https://ehs.lbl.gov/resource/documents/radiation-protection/non-ionizing-radiation/light-and-infrared-radiation/#)
 * [2024-03-31, 02:30:09](https://news.ycombinator.com/item?id=39880807) - [specmatic: transform API specs into executable contracts](https://github.com/znsio/specmatic)
 * [2024-03-31, 02:03:31](https://news.ycombinator.com/item?id=39880664) - [A Microsoft Excel Spreadsheet from Hell Slowed Williams' F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
+* [2024-03-31, 01:10:45](https://news.ycombinator.com/item?id=39880389) - [The Human Hemisphere (2015)](http://www.radicalcartography.net/index.html?human-hemisphere)
 * [2024-03-31, 01:07:23](https://news.ycombinator.com/item?id=39880367) - [A Person Who Was in Charge of OpenAI's $175M Fund Appears to Be Fake](https://futurism.com/the-byte/fake-person-openai-fund)
 * [2024-03-31, 00:34:07](https://news.ycombinator.com/item?id=39880152) - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
 * [2024-03-31, 00:26:12](https://news.ycombinator.com/item?id=39880090) - [Average worker now logs off at 4 p.m. on Fridays](https://www.axios.com/2024/03/30/work-log-off-early-fridays-early-weekend)
