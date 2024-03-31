@@ -1,17 +1,18 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-31, 12:42:34](https://news.ycombinator.com/item?id=39883747) - [Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included](https://news.ycombinator.com/item?id=39883747)
+* [2024-03-31, 12:31:04](https://news.ycombinator.com/item?id=39883668) - [Silicon spikes take out 96% of virus particles](https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes)
 * [2024-03-31, 12:13:25](https://news.ycombinator.com/item?id=39883555) - [What is a coder's worst nightmare? (2016)](https://www.quora.com/What-is-a-coders-worst-nightmare)
 * [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 * [2024-03-31, 11:41:09](https://news.ycombinator.com/item?id=39883328) - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
 * [2024-03-31, 10:42:04](https://news.ycombinator.com/item?id=39883072) - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 10:29:39](https://news.ycombinator.com/item?id=39883005) - [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=39883005)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
+* [2024-03-31, 09:48:20](https://news.ycombinator.com/item?id=39882810) - [The unreasonable effectiveness of VMs in hacker pedagogy](https://hiandrewquinn.github.io/til-site/posts/the-unreasonable-effectiveness-of-vms-in-hacker-pedagogy/)
 * [2024-03-31, 08:23:43](https://news.ycombinator.com/item?id=39882455) - [How Google fights Invidious (a privacy YouTube Front end)](https://github.com/iv-org/invidious/issues/4498)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess My RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 06:41:55](https://news.ycombinator.com/item?id=39881980) - [Layout of Rust's u128 and i128 changed](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 * [2024-03-31, 06:36:11](https://news.ycombinator.com/item?id=39881962) - [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
-* [2024-03-31, 06:24:56](https://news.ycombinator.com/item?id=39881915) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
 * [2024-03-31, 05:43:15](https://news.ycombinator.com/item?id=39881758) - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
 * [2024-03-31, 05:29:32](https://news.ycombinator.com/item?id=39881705) - [World Backup Day](https://www.worldbackupday.com/en)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated (2022)](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
@@ -29,7 +30,6 @@
 * [2024-03-30, 15:34:58](https://news.ycombinator.com/item?id=39875822) - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
 * [2024-03-30, 11:14:25](https://news.ycombinator.com/item?id=39873756) - [Linear Algebra of Types (2019)](https://www.philipzucker.com/linear-algebra-of-types/)
 * [2024-03-30, 11:03:54](https://news.ycombinator.com/item?id=39873692) - [Garbage collection for systems programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
-* [2024-03-30, 09:36:53](https://news.ycombinator.com/item?id=39873272) - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 
 ## [Archives](archives/index.md)
 

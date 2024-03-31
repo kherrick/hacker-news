@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
 * [2024-03-31, 12:42:34](https://news.ycombinator.com/item?id=39883747) - [Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included](https://news.ycombinator.com/item?id=39883747)
+* [2024-03-31, 12:31:04](https://news.ycombinator.com/item?id=39883668) - [Silicon spikes take out 96% of virus particles](https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes)
 * [2024-03-31, 12:16:07](https://news.ycombinator.com/item?id=39883571) - [The AI industry spent 17x more on Nvidia chips than it brought in in revenue](https://old.reddit.com/r/MachineLearning/comments/1bs1ebl/wsj_the_ai_industry_spent_17x_more_on_nvidia/)
 * [2024-03-31, 12:13:25](https://news.ycombinator.com/item?id=39883555) - [What is a coder's worst nightmare? (2016)](https://www.quora.com/What-is-a-coders-worst-nightmare)
 * [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
@@ -14,6 +15,7 @@
 * [2024-03-31, 10:42:04](https://news.ycombinator.com/item?id=39883072) - [How read-intensive is Linux's use of RCU? (And what is its latency?)](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 10:29:39](https://news.ycombinator.com/item?id=39883005) - [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=39883005)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
+* [2024-03-31, 09:48:20](https://news.ycombinator.com/item?id=39882810) - [The unreasonable effectiveness of VMs in hacker pedagogy](https://hiandrewquinn.github.io/til-site/posts/the-unreasonable-effectiveness-of-vms-in-hacker-pedagogy/)
 * [2024-03-31, 08:23:43](https://news.ycombinator.com/item?id=39882455) - [How Google fights Invidious (a privacy YouTube Front end)](https://github.com/iv-org/invidious/issues/4498)
 * [2024-03-31, 07:57:24](https://news.ycombinator.com/item?id=39882337) - [BYD Rolls Off Its 7Mth New Energy Vehicle](https://cleantechnica.com/2024/03/27/byd-rolls-off-its-7-millionth-new-energy-vehicle/)
 * [2024-03-31, 07:23:25](https://news.ycombinator.com/item?id=39882174) - [Python for Everyday, Everyone, Everywhere](https://leanpub.com/python-everyday)
