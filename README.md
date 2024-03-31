@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
 * [2024-03-31, 14:25:41](https://news.ycombinator.com/item?id=39884570) - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
-* [2024-03-31, 13:55:52](https://news.ycombinator.com/item?id=39884287) - [Dr. Katalin Karikó](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
+* [2024-03-31, 13:55:52](https://news.ycombinator.com/item?id=39884287) - [Dr. Katalin Karikó (2021)](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
 * [2024-03-31, 13:21:50](https://news.ycombinator.com/item?id=39884004) - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 * [2024-03-31, 13:12:00](https://news.ycombinator.com/item?id=39883949) - [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
 * [2024-03-31, 12:42:34](https://news.ycombinator.com/item?id=39883747) - [Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included](https://news.ycombinator.com/item?id=39883747)
@@ -9,7 +10,6 @@
 * [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 * [2024-03-31, 11:41:09](https://news.ycombinator.com/item?id=39883328) - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
-* [2024-03-31, 09:48:20](https://news.ycombinator.com/item?id=39882810) - [The unreasonable effectiveness of VMs in hacker pedagogy](https://hiandrewquinn.github.io/til-site/posts/the-unreasonable-effectiveness-of-vms-in-hacker-pedagogy/)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess My RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 06:41:55](https://news.ycombinator.com/item?id=39881980) - [Layout of Rust's u128 and i128 changed](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 * [2024-03-31, 06:24:56](https://news.ycombinator.com/item?id=39881915) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
 * [2024-03-31, 14:38:17](https://news.ycombinator.com/item?id=39884683) - [Totality and non-standard recursion in Idris](https://franklin.dyer.me/post/222)
 * [2024-03-31, 14:28:22](https://news.ycombinator.com/item?id=39884596) - [First Council of Nicaea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
 * [2024-03-31, 14:25:41](https://news.ycombinator.com/item?id=39884570) - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
