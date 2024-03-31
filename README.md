@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-03-31, 02:03:31](https://news.ycombinator.com/item?id=39880664) - [A Microsoft Excel Spreadsheet from Hell Slowed Williams' F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
+* [2024-03-31, 01:07:23](https://news.ycombinator.com/item?id=39880367) - [A Person Who Was in Charge of OpenAI's $175M Fund Appears to Be Fake](https://futurism.com/the-byte/fake-person-openai-fund)
 * [2024-03-31, 00:34:07](https://news.ycombinator.com/item?id=39880152) - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
 * [2024-03-30, 22:46:23](https://news.ycombinator.com/item?id=39879432) - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
 * [2024-03-30, 22:44:24](https://news.ycombinator.com/item?id=39879414) - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
@@ -19,7 +20,6 @@
 * [2024-03-30, 17:59:51](https://news.ycombinator.com/item?id=39877077) - [The Canadian government's plan to plant two billion trees](https://www.cbc.ca/newsinteractives/features/two-billion-trees)
 * [2024-03-30, 17:33:23](https://news.ycombinator.com/item?id=39876817) - [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 17:31:30](https://news.ycombinator.com/item?id=39876804) - [Veloren, an open source game, release 0.16](https://veloren.net/blog/release-0-16/)
-* [2024-03-30, 17:18:06](https://news.ycombinator.com/item?id=39876676) - [Unlocking the NES (For Former Dawn) (2022)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
 * [2024-03-30, 17:00:09](https://news.ycombinator.com/item?id=39876517) - [Hadrius (YC W23) – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-03-30, 16:47:34](https://news.ycombinator.com/item?id=39876417) - [Black Holes Are Even Weirder Than You Imagined](https://www.newyorker.com/science/elements/black-holes-are-even-weirder-than-you-imagined)
 * [2024-03-30, 16:04:53](https://news.ycombinator.com/item?id=39876114) - [Mamba Explained](https://thegradient.pub/mamba-explained/)
