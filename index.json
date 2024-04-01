@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-04-01, 00:39:53",
-      "https://news.ycombinator.com/item?id=39889668"
-    ],
-    [
-      "Self-driving semi-trucks are coming to America's highways",
-      "https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 00:12:16",
       "https://news.ycombinator.com/item?id=39889506"
     ],
@@ -227,6 +217,16 @@
     [
       "Syntax highlighting is a waste of an information channel (2020)",
       "https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 12:02:33",
+      "https://news.ycombinator.com/item?id=39883487"
+    ],
+    [
+      "Zoomable Circles, a Svelte component for hierarchical data",
+      "https://www.npmjs.com/package/svelte-zoomable-circles"
     ]
   ],
   [
