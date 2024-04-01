@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-01, 14:09:41](https://news.ycombinator.com/item?id=39894351) - [Wait, does America suddenly have a record number of bees?](https://www.washingtonpost.com/business/2024/03/29/bees-boom-colony-collapse/)
+* [2024-04-01, 14:03:31](https://news.ycombinator.com/item?id=39894302) - [The Graph of Wikipedia [video]](https://www.youtube.com/watch?v=JheGL6uSF-4)
 * [2024-04-01, 12:52:21](https://news.ycombinator.com/item?id=39893619) - [Beam.cloud (YC W22) is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
 * [2024-04-01, 11:55:24](https://news.ycombinator.com/item?id=39893160) - [Ask HN: Freelance website builders/maintainers, what's in your 2024 toolkit?](https://news.ycombinator.com/item?id=39893160)
 * [2024-04-01, 11:52:41](https://news.ycombinator.com/item?id=39893142) - [Ask HN: What is the current (Apr. 2024) gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
@@ -25,8 +27,6 @@
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-31, 17:58:47](https://news.ycombinator.com/item?id=39886442) - [Show HN: Focumon – Turn your work into a multiplayer adventure](https://www.focumon.com/landing)
 * [2024-03-31, 15:26:57](https://news.ycombinator.com/item?id=39885107) - [Can GPT optimize my taxes? An experiment in letting the LLM be the UX](https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/)
-* [2024-03-31, 14:55:28](https://news.ycombinator.com/item?id=39884821) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
-* [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 02:38:39](https://news.ycombinator.com/item?id=39880856) - [Cutting a 700 carat rare valuable gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
 * [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
