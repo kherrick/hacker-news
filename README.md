@@ -13,6 +13,7 @@
 * [2024-04-01, 15:23:58](https://news.ycombinator.com/item?id=39895115) - [Show HN: Parallel Arabic, Arabic reading and writing practice](https://parallel-arabic.com/)
 * [2024-04-01, 15:17:30](https://news.ycombinator.com/item?id=39895035) - [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
 * [2024-04-01, 15:03:21](https://news.ycombinator.com/item?id=39894866) - [Cancer signs could be spotted years before symptoms, says new research institute](https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute)
+* [2024-04-01, 15:02:50](https://news.ycombinator.com/item?id=39894858) - [Meow.camera](https://meow.camera)
 * [2024-04-01, 14:03:31](https://news.ycombinator.com/item?id=39894302) - [The Graph of Wikipedia [video]](https://www.youtube.com/watch?v=JheGL6uSF-4)
 * [2024-04-01, 14:00:55](https://news.ycombinator.com/item?id=39894274) - [Show HN: Celest – Flutter Cloud Platform](https://celest.dev/)
 * [2024-04-01, 12:52:21](https://news.ycombinator.com/item?id=39893619) - [Beam.cloud (YC W22) is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
@@ -28,7 +29,6 @@
 * [2024-04-01, 02:58:43](https://news.ycombinator.com/item?id=39890494) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
-* [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 
 ## [Archives](archives/index.md)

@@ -27,6 +27,7 @@
 * [2024-04-01, 15:17:30](https://news.ycombinator.com/item?id=39895035) - [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
 * [2024-04-01, 15:11:13](https://news.ycombinator.com/item?id=39894965) - [10 Years of Hacker News \"Ask HN: Who Is Hiring\" Trends](https://customizedresumes.com/blog/hackernews-who-is-hiring-analysis)
 * [2024-04-01, 15:03:21](https://news.ycombinator.com/item?id=39894866) - [Cancer signs could be spotted years before symptoms, says new research institute](https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute)
+* [2024-04-01, 15:02:50](https://news.ycombinator.com/item?id=39894858) - [Meow.camera](https://meow.camera)
 * [2024-04-01, 14:52:28](https://news.ycombinator.com/item?id=39894748) - [April Fools Day Request for Comments](https://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments)
 * [2024-04-01, 14:44:42](https://news.ycombinator.com/item?id=39894669) - [Battle of the Redis Forks?](https://www.thestack.technology/battle-of-the-redis-forks-begins/)
 * [2024-04-01, 14:29:47](https://news.ycombinator.com/item?id=39894526) - [Postgres vs. File Systems: A Performance Comparison (2022)](https://www.enterprisedb.com/blog/postgres-vs-file-systems-performance-comparison)
