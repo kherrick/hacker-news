@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
 * [2024-04-01, 16:11:21](https://news.ycombinator.com/item?id=39895744) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
+* [2024-04-01, 16:03:46](https://news.ycombinator.com/item?id=39895644) - [Ask HN: Which tools are the best for internet safety for kids?](https://news.ycombinator.com/item?id=39895644)
 * [2024-04-01, 15:48:33](https://news.ycombinator.com/item?id=39895453) - [Show HN: DN$ – an innovative, ad-supported DNS resolver](https://github.com/tedkim97/adcache)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot)
 * [2024-04-01, 15:39:34](https://news.ycombinator.com/item?id=39895332) - [Panel says FAA should end mandate pilots disclose talk therapy sessions](https://www.reuters.com/business/aerospace-defense/panel-says-faa-should-end-mandate-pilots-disclose-talk-therapy-sessions-2024-04-01/)
