@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-01, 06:38:27](https://news.ycombinator.com/item?id=39891432) - [Stuff that is backwards in Australia](https://blog.plover.com/geo/Australia.html)
 * [2024-04-01, 03:14:49](https://news.ycombinator.com/item?id=39890603) - [Climate Pulse](https://pulse.climate.copernicus.eu/)
 * [2024-04-01, 03:07:14](https://news.ycombinator.com/item?id=39890561) - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
 * [2024-04-01, 02:58:43](https://news.ycombinator.com/item?id=39890494) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
@@ -17,7 +18,6 @@
 * [2024-03-31, 20:58:33](https://news.ycombinator.com/item?id=39888020) - [Documentation for the AMD 7900XTX](https://github.com/geohot/7900xtx)
 * [2024-03-31, 20:56:18](https://news.ycombinator.com/item?id=39888005) - [Skin in the Game](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/)
 * [2024-03-31, 20:45:24](https://news.ycombinator.com/item?id=39887931) - [Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
-* [2024-03-31, 20:32:45](https://news.ycombinator.com/item?id=39887815) - [Modeling of pulsed plasma rocket shows it should be possible to create one](https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/)
 * [2024-03-31, 20:16:42](https://news.ycombinator.com/item?id=39887661) - [Aphantasia and hyperphantasia: exploring imagery vividness extremes](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2?)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html)

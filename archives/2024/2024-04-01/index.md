@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 06:38:27](https://news.ycombinator.com/item?id=39891432) - [Stuff that is backwards in Australia](https://blog.plover.com/geo/Australia.html)
 * [2024-04-01, 03:14:49](https://news.ycombinator.com/item?id=39890603) - [Climate Pulse](https://pulse.climate.copernicus.eu/)
 * [2024-04-01, 03:07:14](https://news.ycombinator.com/item?id=39890561) - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
 * [2024-04-01, 02:58:43](https://news.ycombinator.com/item?id=39890494) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
