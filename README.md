@@ -4,7 +4,7 @@
 * [2024-04-01, 06:43:54](https://news.ycombinator.com/item?id=39891456) - [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
 * [2024-04-01, 06:35:20](https://news.ycombinator.com/item?id=39891415) - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
 * [2024-04-01, 06:10:39](https://news.ycombinator.com/item?id=39891317) - [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
-* [2024-04-01, 05:56:39](https://news.ycombinator.com/item?id=39891263) - [Discord to Start Showing Ads for Gamers to Boost Revenue](https://www.wsj.com/tech/discord-to-start-showing-ads-for-gamers-to-boost-revenue-bf5848b9)
+* [2024-04-01, 05:18:58](https://news.ycombinator.com/item?id=39891130) - [U.S. dairy cows have tested positive for bird flu](https://text.npr.org/1241897770)
 * [2024-04-01, 04:06:03](https://news.ycombinator.com/item?id=39890817) - [The failed attempt to backdoor SSH globally – that got caught by chance](https://doublepulsar.com/inside-the-failed-attempt-to-backdoor-ssh-globally-that-got-caught-by-chance-bbfe628fafdd)
 * [2024-04-01, 03:14:49](https://news.ycombinator.com/item?id=39890603) - [Climate Pulse](https://pulse.climate.copernicus.eu/)
 * [2024-04-01, 03:07:14](https://news.ycombinator.com/item?id=39890561) - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
