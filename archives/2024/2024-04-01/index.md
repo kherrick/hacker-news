@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 18:50:04](https://news.ycombinator.com/item?id=39897667) - [People liked AI art – when they thought it was made by humans](https://www.sciencenorway.no/art-artificial-intelligence/people-liked-ai-art-when-they-thought-it-was-made-by-humans/2337417)
 * [2024-04-01, 18:42:57](https://news.ycombinator.com/item?id=39897594) - [Book Review: \"Tidy First?\" By Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
+* [2024-04-01, 18:36:01](https://news.ycombinator.com/item?id=39897501) - [Has Trust in the U.S. Intelligence Community Eroded?](https://www.rand.org/pubs/research_reports/RRA864-1.html)
+* [2024-04-01, 18:35:47](https://news.ycombinator.com/item?id=39897499) - [FuryGpu – Hello](https://www.furygpu.com/blog/hello)
 * [2024-04-01, 18:13:58](https://news.ycombinator.com/item?id=39897233) - [Good information still pollutes the epistemic ecosystem](https://ronghosh.substack.com/p/good-information-still-pollutes-the)
 * [2024-04-01, 17:56:14](https://news.ycombinator.com/item?id=39896994) - [First human case of avian flu in Texas](https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949)
+* [2024-04-01, 17:50:54](https://news.ycombinator.com/item?id=39896923) - [RAGFlow is an open-source RAG engine based on deep document understanding](https://github.com/infiniflow/ragflow)
 * [2024-04-01, 17:38:16](https://news.ycombinator.com/item?id=39896745) - [The `xz` package backdoor is just the tip of the iceberg](https://twitter.com/feross/status/1774153518800404494)
 * [2024-04-01, 17:22:37](https://news.ycombinator.com/item?id=39896560) - [Terraform Industries converts electricity and air into synthetic natural gas](https://techcrunch.com/2024/04/01/terraform-industries-converted-electricity-and-air-into-synthetic-natural-gas/)
 * [2024-04-01, 17:16:03](https://news.ycombinator.com/item?id=39896480) - [Could the cosmos, in fact, be conscious?](https://www.heraldscotland.com/business_hq/24222253.mind-blowing-theory-god-may-spark-radical-new-21st-century-religion/)
