@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
 * [2024-03-31, 23:54:34](https://news.ycombinator.com/item?id=39889424) - [Amazon Bets $150B on Data Centers Required for AI Boom](https://www.bnnbloomberg.ca/amazon-bets-150-billion-on-data-centers-required-for-ai-boom-1.2052777)
+* [2024-03-31, 23:51:26](https://news.ycombinator.com/item?id=39889404) - [InternLM2](https://arxiv.org/abs/2403.17297)
 * [2024-03-31, 23:36:35](https://news.ycombinator.com/item?id=39889302) - [America is divided over major efforts to rewrite child labor laws](https://www.washingtonpost.com/business/2024/03/31/us-child-labor-laws-state-bills/)
 * [2024-03-31, 23:35:14](https://news.ycombinator.com/item?id=39889286) - [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
 * [2024-03-31, 23:30:10](https://news.ycombinator.com/item?id=39889245) - [Stop Believing in Free Shipping](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
