@@ -65,6 +65,7 @@
 * [2024-03-31, 14:31:12](https://news.ycombinator.com/item?id=39884623) - [How do TV detector vans work?](https://www.theguardian.com/notesandqueries/query/0,5753,-22440,00.html)
 * [2024-03-31, 14:28:22](https://news.ycombinator.com/item?id=39884596) - [First Council of Nicaea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
 * [2024-03-31, 14:25:41](https://news.ycombinator.com/item?id=39884570) - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
+* [2024-03-31, 14:24:24](https://news.ycombinator.com/item?id=39884555) - [Mistral-7B Playing Doom](https://github.com/umuthopeyildirim/DOOM-Mistral)
 * [2024-03-31, 14:04:22](https://news.ycombinator.com/item?id=39884371) - [U.S. Tech Giants Turn to Mexico to Make AI Gear, Spurning China](https://www.wsj.com/tech/u-s-tech-giants-turn-to-mexico-to-make-ai-gear-spurning-china-8ccd27cb)
 * [2024-03-31, 13:55:52](https://news.ycombinator.com/item?id=39884287) - [Dr. Katalin Karikó](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
 * [2024-03-31, 13:22:40](https://news.ycombinator.com/item?id=39884009) - [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
