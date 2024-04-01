@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
 * [2024-04-01, 08:25:51](https://news.ycombinator.com/item?id=39891882) - [Smoking cannabis is now legal in Germany](https://www.theguardian.com/world/2024/apr/01/germany-legal-cannabis-weed-laws-personal-use)
+* [2024-04-01, 08:25:31](https://news.ycombinator.com/item?id=39891881) - [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
 * [2024-04-01, 07:19:12](https://news.ycombinator.com/item?id=39891607) - [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
 * [2024-04-01, 07:01:54](https://news.ycombinator.com/item?id=39891527) - [U.S. Navy Submarine First in World Fitted with Silent Caterpillar Drive](https://www.navalnews.com/naval-news/2024/04/u-s-navy-submarine-first-in-world-fitted-with-silent-caterpillar-drive/)
 * [2024-04-01, 06:43:54](https://news.ycombinator.com/item?id=39891456) - [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
