@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 21:09:07](https://news.ycombinator.com/item?id=39899369) - [iFixit Announces New Spudger Pro and Spudger Pro Ultra](https://www.ifixit.com/News/93647/ifixit-announces-new-spudger-pro-and-spudger-pro-ultra)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
 * [2024-04-01, 20:12:19](https://news.ycombinator.com/item?id=39898619) - [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
