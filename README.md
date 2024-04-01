@@ -29,7 +29,7 @@
 * [2024-04-01, 06:35:20](https://news.ycombinator.com/item?id=39891415) - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
 * [2024-04-01, 06:10:39](https://news.ycombinator.com/item?id=39891317) - [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
-* [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
+* [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead (2021)](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 
 ## [Archives](archives/index.md)
 
