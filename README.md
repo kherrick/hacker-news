@@ -1,12 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-01, 16:11:21](https://news.ycombinator.com/item?id=39895744) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-01, 15:48:33](https://news.ycombinator.com/item?id=39895453) - [Show HN: DN$ – an innovative, ad-supported DNS resolver](https://github.com/tedkim97/adcache)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot)
-* [2024-04-01, 15:39:34](https://news.ycombinator.com/item?id=39895332) - [Panel says FAA should end mandate pilots disclose talk therapy sessions](https://www.reuters.com/business/aerospace-defense/panel-says-faa-should-end-mandate-pilots-disclose-talk-therapy-sessions-2024-04-01/)
 * [2024-04-01, 15:34:51](https://news.ycombinator.com/item?id=39895258) - [Why Vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
 * [2024-04-01, 15:29:17](https://news.ycombinator.com/item?id=39895184) - [Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
-* [2024-04-01, 15:23:49](https://news.ycombinator.com/item?id=39895114) - [What Caused the Red Sea Submarine Cable Cuts?](https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/)
 * [2024-04-01, 15:17:30](https://news.ycombinator.com/item?id=39895035) - [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
 * [2024-04-01, 15:03:21](https://news.ycombinator.com/item?id=39894866) - [Cancer signs could be spotted years before symptoms, says new research institute](https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute)
 * [2024-04-01, 14:29:47](https://news.ycombinator.com/item?id=39894526) - [Postgres vs. File Systems: A Performance Comparison (2022)](https://www.enterprisedb.com/blog/postgres-vs-file-systems-performance-comparison)
@@ -29,6 +26,9 @@
 * [2024-04-01, 02:05:44](https://news.ycombinator.com/item?id=39890203) - [Anarchy in the US (The Revolution That Almost Happened)](https://albertcory50.substack.com/p/anarchy-in-the-us-part-1)
 * [2024-03-31, 23:51:26](https://news.ycombinator.com/item?id=39889404) - [InternLM2](https://arxiv.org/abs/2403.17297)
 * [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
+* [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
+* [2024-03-31, 20:45:24](https://news.ycombinator.com/item?id=39887931) - [Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
+* [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any actual lead](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 
 ## [Archives](archives/index.md)
