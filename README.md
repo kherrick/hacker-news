@@ -26,8 +26,8 @@
 * [2024-04-01, 10:22:11](https://news.ycombinator.com/item?id=39892533) - [Century-old stone \"tsunami stones\" dot Japan's coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 * [2024-04-01, 09:16:07](https://news.ycombinator.com/item?id=39892119) - [Chrome Feature: ZSTD Content-Encoding](https://chromestatus.com/feature/6186023867908096)
 * [2024-04-01, 08:17:31](https://news.ycombinator.com/item?id=39891847) - [Will any crap we put into graphene increase its electrocatalytic effect? (2020)](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
-* [2024-04-01, 06:43:54](https://news.ycombinator.com/item?id=39891456) - [First-in-human implantation of bionic device to halt Crohn's disease (2023)](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)
+* [2024-04-01, 02:15:05](https://news.ycombinator.com/item?id=39890250) - [Mycenaean Warriors and the Sea-Peoples](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead (2021)](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 * [2024-03-29, 03:03:55](https://news.ycombinator.com/item?id=39860199) - [RSS Feed Organization Strategies and New Feed Cost](https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html)
 

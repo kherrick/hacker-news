@@ -93,6 +93,7 @@
 * [2024-04-01, 02:58:43](https://news.ycombinator.com/item?id=39890494) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-04-01, 02:15:10](https://news.ycombinator.com/item?id=39890254) - [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
+* [2024-04-01, 02:15:05](https://news.ycombinator.com/item?id=39890250) - [Mycenaean Warriors and the Sea-Peoples](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
 * [2024-04-01, 02:05:44](https://news.ycombinator.com/item?id=39890203) - [Anarchy in the US (The Revolution That Almost Happened)](https://albertcory50.substack.com/p/anarchy-in-the-us-part-1)
 * [2024-04-01, 01:41:02](https://news.ycombinator.com/item?id=39890069) - [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
 * [2024-04-01, 00:39:53](https://news.ycombinator.com/item?id=39889668) - [Self-driving semi-trucks are coming to America's highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)
