@@ -59,6 +59,7 @@
 * [2024-03-31, 15:26:57](https://news.ycombinator.com/item?id=39885107) - [Can GPT optimize my taxes? An experiment in letting the LLM be the UX](https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/)
 * [2024-03-31, 15:26:08](https://news.ycombinator.com/item?id=39885097) - [Safeguarding Identity and Privacy: Fundamental Human Rights in the Digital Age](https://idpro.org/safeguarding-identity-and-privacy-fundamental-human-rights-in-the-digital-age/)
 * [2024-03-31, 15:05:20](https://news.ycombinator.com/item?id=39884906) - [Indian Investigators Ask Apple to Access Delhi Chief Minister's Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
+* [2024-03-31, 14:55:28](https://news.ycombinator.com/item?id=39884821) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
 * [2024-03-31, 14:41:54](https://news.ycombinator.com/item?id=39884711) - [Robinhood's new, attractive and expensive credit card](https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/)
 * [2024-03-31, 14:38:17](https://news.ycombinator.com/item?id=39884683) - [Totality and non-standard recursion in Idris](https://franklin.dyer.me/post/222)
 * [2024-03-31, 14:31:12](https://news.ycombinator.com/item?id=39884623) - [How do TV detector vans work?](https://www.theguardian.com/notesandqueries/query/0,5753,-22440,00.html)
