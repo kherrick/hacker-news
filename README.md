@@ -2,8 +2,10 @@
 
 * [2024-04-01, 03:14:49](https://news.ycombinator.com/item?id=39890603) - [Climate Pulse](https://pulse.climate.copernicus.eu/)
 * [2024-04-01, 03:07:14](https://news.ycombinator.com/item?id=39890561) - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
+* [2024-04-01, 02:58:43](https://news.ycombinator.com/item?id=39890494) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-04-01, 02:15:10](https://news.ycombinator.com/item?id=39890254) - [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
+* [2024-04-01, 02:05:44](https://news.ycombinator.com/item?id=39890203) - [Anarchy in the US (The Revolution That Almost Happened)](https://albertcory50.substack.com/p/anarchy-in-the-us-part-1)
 * [2024-04-01, 01:41:02](https://news.ycombinator.com/item?id=39890069) - [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
 * [2024-04-01, 00:12:16](https://news.ycombinator.com/item?id=39889506) - [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
 * [2024-03-31, 23:51:26](https://news.ycombinator.com/item?id=39889404) - [InternLM2](https://arxiv.org/abs/2403.17297)
@@ -28,8 +30,6 @@
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 02:38:39](https://news.ycombinator.com/item?id=39880856) - [Cutting a 700 carat rare valuable gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
 * [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
-* [2024-03-29, 12:21:04](https://news.ycombinator.com/item?id=39863163) - [When Bacteria Are Beautiful](https://nautil.us/when-bacteria-are-beautiful-541411/)
-* [2024-03-29, 12:11:43](https://news.ycombinator.com/item?id=39863072) - [Typesetting the LaTeX Way (2013)](https://chriscummins.cc/2013/typesetting/)
 
 ## [Archives](archives/index.md)
 
