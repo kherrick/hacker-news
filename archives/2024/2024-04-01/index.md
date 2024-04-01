@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 16:23:39](https://news.ycombinator.com/item?id=39895869) - [Demographics Professor Warns That by 2531, Everyone in Japan Will Be Named Sato](https://www.spoon-tamago.com/2531-sato-surname-problem/)
 * [2024-04-01, 16:11:21](https://news.ycombinator.com/item?id=39895744) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-01, 16:03:46](https://news.ycombinator.com/item?id=39895644) - [Ask HN: Which tools are the best for internet safety for kids?](https://news.ycombinator.com/item?id=39895644)
 * [2024-04-01, 15:48:33](https://news.ycombinator.com/item?id=39895453) - [Show HN: DN$ – an innovative, ad-supported DNS resolver](https://github.com/tedkim97/adcache)

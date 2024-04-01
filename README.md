@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-01, 16:23:39](https://news.ycombinator.com/item?id=39895869) - [Demographics Professor Warns That by 2531, Everyone in Japan Will Be Named Sato](https://www.spoon-tamago.com/2531-sato-surname-problem/)
 * [2024-04-01, 16:03:46](https://news.ycombinator.com/item?id=39895644) - [Ask HN: Which tools are the best for internet safety for kids?](https://news.ycombinator.com/item?id=39895644)
 * [2024-04-01, 15:48:33](https://news.ycombinator.com/item?id=39895453) - [Show HN: DN$ – an innovative, ad-supported DNS resolver](https://github.com/tedkim97/adcache)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot)
@@ -28,7 +29,6 @@
 * [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
 * [2024-03-31, 20:45:24](https://news.ycombinator.com/item?id=39887931) - [Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
-* [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any actual lead](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 
 ## [Archives](archives/index.md)
