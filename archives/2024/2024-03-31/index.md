@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 23:54:34](https://news.ycombinator.com/item?id=39889424) - [Amazon Bets $150B on Data Centers Required for AI Boom](https://www.bnnbloomberg.ca/amazon-bets-150-billion-on-data-centers-required-for-ai-boom-1.2052777)
 * [2024-03-31, 23:36:35](https://news.ycombinator.com/item?id=39889302) - [America is divided over major efforts to rewrite child labor laws](https://www.washingtonpost.com/business/2024/03/31/us-child-labor-laws-state-bills/)
 * [2024-03-31, 23:35:14](https://news.ycombinator.com/item?id=39889286) - [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
 * [2024-03-31, 23:30:10](https://news.ycombinator.com/item?id=39889245) - [Stop Believing in Free Shipping](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
@@ -25,9 +26,11 @@
 * [2024-03-31, 21:04:08](https://news.ycombinator.com/item?id=39888054) - [IBM lifts lid on latest bid to halt mainframe skill slips](https://www.theregister.com/2024/03/08/ibm_mainframe_skill/)
 * [2024-03-31, 20:58:33](https://news.ycombinator.com/item?id=39888020) - [Documentation for the AMD 7900XTX](https://github.com/geohot/7900xtx)
 * [2024-03-31, 20:56:18](https://news.ycombinator.com/item?id=39888005) - [Skin in the Game](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/)
+* [2024-03-31, 20:45:24](https://news.ycombinator.com/item?id=39887931) - [Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
 * [2024-03-31, 20:36:38](https://news.ycombinator.com/item?id=39887852) - [Engineering a culture](https://oxide.computer/blog/engineering-culture)
 * [2024-03-31, 20:32:45](https://news.ycombinator.com/item?id=39887815) - [Modeling of Pulsed Plasma Rocket Shows It Should Be Possible to Create One](https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/)
 * [2024-03-31, 20:24:12](https://news.ycombinator.com/item?id=39887732) - [Post-operative cognitive dysfunction is exacerbated by high-fat diet](https://www.sciencedirect.com/science/article/abs/pii/S0889159123004105)
+* [2024-03-31, 20:16:42](https://news.ycombinator.com/item?id=39887661) - [Aphantasia and hyperphantasia: exploring imagery vividness extremes](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2?)
 * [2024-03-31, 19:47:41](https://news.ycombinator.com/item?id=39887428) - [XZ Backdoor Investigation Request to Gitlab Team](https://gitlab.com/gitlab-org/gitlab/-/issues/452603)
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
