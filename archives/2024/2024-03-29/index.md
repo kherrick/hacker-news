@@ -35,6 +35,7 @@
 * [2024-03-29, 18:45:31](https://news.ycombinator.com/item?id=39867551) - [Qwen1.5-Moe: Matching 7B Model Performance with 1/3 Activated Parameters](https://qwenlm.github.io/blog/qwen-moe/)
 * [2024-03-29, 18:30:04](https://news.ycombinator.com/item?id=39867412) - [How to fix CSV: make it even more U+1F4A9 PILE OF POO](https://www.getgrist.com/blog/how-to-fix-csv-make-it-even-more-💩/)
 * [2024-03-29, 18:18:03](https://news.ycombinator.com/item?id=39867270) - [A muon collider could revolutionize particle physics–if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
+* [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any actual lead](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 * [2024-03-29, 18:17:19](https://news.ycombinator.com/item?id=39867254) - [Fuchsia 2024 Roadmap](https://fuchsia.dev/fuchsia-src/contribute/roadmap/2024)
 * [2024-03-29, 18:10:44](https://news.ycombinator.com/item?id=39867185) - [Sholto Douglas and Trenton Bricken – How to Build and Understand GPT-7's Mind](https://www.dwarkeshpatel.com/p/sholto-douglas-trenton-bricken)
 * [2024-03-29, 18:07:54](https://news.ycombinator.com/item?id=39867160) - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
