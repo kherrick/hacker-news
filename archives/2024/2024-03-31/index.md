@@ -99,6 +99,7 @@
 * [2024-03-31, 06:23:51](https://news.ycombinator.com/item?id=39881911) - [Not able to click on map during Google search why did they change this (in EU)](https://old.reddit.com/r/GoogleMaps/comments/1b228yx/not_able_to_click_on_map_during_google_searchwhy/)
 * [2024-03-31, 06:18:59](https://news.ycombinator.com/item?id=39881894) - [Software Needs to Be More Expensive](https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html)
 * [2024-03-31, 05:43:15](https://news.ycombinator.com/item?id=39881758) - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
+* [2024-03-31, 05:41:34](https://news.ycombinator.com/item?id=39881749) - [Refurb weekend: Data General/One (and the worst LCD in the world)](http://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
 * [2024-03-31, 05:29:32](https://news.ycombinator.com/item?id=39881705) - [World Backup Day](https://www.worldbackupday.com/en)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 * [2024-03-31, 03:13:27](https://news.ycombinator.com/item?id=39881044) - [XZ backdoor may have a killswitch and mitigation](https://news.ycombinator.com/item?id=39881044)

@@ -14,6 +14,7 @@
 * [2024-04-01, 19:54:14](https://news.ycombinator.com/item?id=39898422) - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 * [2024-04-01, 19:54:03](https://news.ycombinator.com/item?id=39898416) - ['Vaccine lettuce' bill (food containing a vaccine is a drug) passes in Tennessee](https://www.wsmv.com/2024/03/29/vaccine-lettuce-bill-aiming-classify-food-containing-vaccine-drug-passes-tennessee/)
 * [2024-04-01, 19:37:40](https://news.ycombinator.com/item?id=39898221) - [3Blue1Brown: But what is a GPT? [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
+* [2024-04-01, 19:36:13](https://news.ycombinator.com/item?id=39898205) - [Bypassing Denuvo in Hogwarts Legacy](https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/)
 * [2024-04-01, 19:29:57](https://news.ycombinator.com/item?id=39898121) - [The Pirate Bay's Oldest Torrent Is Now 20 Years Old](https://torrentfreak.com/the-pirate-bays-oldest-torrent-is-now-20-years-old-240401/)
 * [2024-04-01, 19:24:21](https://news.ycombinator.com/item?id=39898057) - [Virtual Pinhead](https://www.engineersneedart.com/blog/pinhead/pinhead.html)
 * [2024-04-01, 19:19:04](https://news.ycombinator.com/item?id=39898004) - [A biased test kept Black people from getting a kidney transplant](https://apnews.com/article/kidney-transplant-race-black-inequity-bias-d4fabf2f3a47aab2fe8e18b2a5432135)
