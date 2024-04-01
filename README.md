@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-01, 12:52:21](https://news.ycombinator.com/item?id=39893619) - [Beam.cloud (YC W22) is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
 * [2024-04-01, 12:04:36](https://news.ycombinator.com/item?id=39893217) - [There were no ancient computers and it's fine](https://lcamtuf.substack.com/p/there-were-no-ancient-computers-and)
 * [2024-04-01, 11:52:41](https://news.ycombinator.com/item?id=39893142) - [Ask HN: What is the current (Apr. 2024) gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
 * [2024-04-01, 10:22:11](https://news.ycombinator.com/item?id=39892533) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
@@ -23,7 +24,6 @@
 * [2024-03-31, 22:38:09](https://news.ycombinator.com/item?id=39888769) - [Mini-Gemini: Mining the Potential of Multi-Modality Vision Language Models](https://arxiv.org/abs/2403.18814)
 * [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
 * [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
-* [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
 * [2024-03-31, 20:58:33](https://news.ycombinator.com/item?id=39888020) - [Documentation for the AMD 7900XTX](https://github.com/geohot/7900xtx)
 * [2024-03-31, 20:45:24](https://news.ycombinator.com/item?id=39887931) - [Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)

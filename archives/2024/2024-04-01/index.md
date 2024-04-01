@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 12:52:21](https://news.ycombinator.com/item?id=39893619) - [Beam.cloud (YC W22) is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
 * [2024-04-01, 12:04:36](https://news.ycombinator.com/item?id=39893217) - [There were no ancient computers and it's fine](https://lcamtuf.substack.com/p/there-were-no-ancient-computers-and)
 * [2024-04-01, 11:52:41](https://news.ycombinator.com/item?id=39893142) - [Ask HN: What is the current (Apr. 2024) gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
 * [2024-04-01, 10:41:53](https://news.ycombinator.com/item?id=39892634) - [Would you use a government-issued ID to prove your identity online?](https://www.abc.net.au/news/2024-04-01/government-backed-digital-id-passes-senate/103653648)
