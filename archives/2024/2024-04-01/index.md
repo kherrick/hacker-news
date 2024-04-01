@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 03:07:14](https://news.ycombinator.com/item?id=39890561) - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+* [2024-04-01, 02:15:10](https://news.ycombinator.com/item?id=39890254) - [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
 * [2024-04-01, 01:41:02](https://news.ycombinator.com/item?id=39890069) - [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
 * [2024-04-01, 00:39:53](https://news.ycombinator.com/item?id=39889668) - [Self-driving semi-trucks are coming to America's highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)
 * [2024-04-01, 00:30:25](https://news.ycombinator.com/item?id=39889601) - [Libera Cat: IRC network rebranding](https://libera.cat/)
