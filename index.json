@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2024-04-01, 18:42:57",
+      "https://news.ycombinator.com/item?id=39897594"
+    ],
+    [
+      "Book Review: \"Tidy First?\" By Kent Beck",
+      "https://www.pathsensitive.com/2024/04/book-review-tidy-first.html"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 18:36:01",
       "https://news.ycombinator.com/item?id=39897501"
     ],
     [
       "Has Trust in the U.S. Intelligence Community Eroded?",
       "https://www.rand.org/pubs/research_reports/RRA864-1.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 18:35:47",
-      "https://news.ycombinator.com/item?id=39897499"
-    ],
-    [
-      "FuryGpu – Hello",
-      "https://www.furygpu.com/blog/hello"
     ]
   ],
   [
@@ -41,32 +41,32 @@
   ],
   [
     [
-      "2024-04-01, 17:56:14",
-      "https://news.ycombinator.com/item?id=39896994"
-    ],
-    [
-      "First human case of avian flu in Texas",
-      "https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 17:50:54",
       "https://news.ycombinator.com/item?id=39896923"
     ],
     [
-      "RAGFlow is an open-source RAG engine based on deep document understanding",
+      "RAGFlow is an open-source RAG engine based on OCR and document parsing",
       "https://github.com/infiniflow/ragflow"
     ]
   ],
   [
     [
-      "2024-04-01, 17:22:37",
-      "https://news.ycombinator.com/item?id=39896560"
+      "2024-04-01, 17:16:03",
+      "https://news.ycombinator.com/item?id=39896480"
     ],
     [
-      "Terraform Industries converts electricity and air into synthetic natural gas",
-      "https://techcrunch.com/2024/04/01/terraform-industries-converted-electricity-and-air-into-synthetic-natural-gas/"
+      "Could the cosmos, in fact, be conscious?",
+      "https://www.heraldscotland.com/business_hq/24222253.mind-blowing-theory-god-may-spark-radical-new-21st-century-religion/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 17:14:36",
+      "https://news.ycombinator.com/item?id=39896462"
+    ],
+    [
+      "OpenAI: Start using ChatGPT instantly",
+      "https://openai.com/blog/start-using-chatgpt-instantly"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Show HN: I just made my profitable online form builder open-sourced",
       "https://github.com/heyform/heyform"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 16:23:39",
-      "https://news.ycombinator.com/item?id=39895869"
-    ],
-    [
-      "Demographics Professor Warns That by 2531, Everyone in Japan Will Be Named Sato",
-      "https://www.spoon-tamago.com/2531-sato-surname-problem/"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39895115"
     ],
     [
-      "Show HN: Parallel Arabic, Arabic reading and writing practice",
+      "Show HN: Parallel Arabic – Arabic reading and writing practice",
       "https://parallel-arabic.com/"
     ]
   ],
@@ -161,22 +151,32 @@
   ],
   [
     [
-      "2024-04-01, 15:03:21",
-      "https://news.ycombinator.com/item?id=39894866"
+      "2024-04-01, 15:00:56",
+      "https://news.ycombinator.com/item?id=39894820"
     ],
     [
-      "Cancer signs could be spotted years before symptoms, says new research institute",
-      "https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute"
+      "Ask HN: Who is hiring? (April 2024)",
+      "https://news.ycombinator.com/item?id=39894820"
     ]
   ],
   [
     [
-      "2024-04-01, 14:03:31",
-      "https://news.ycombinator.com/item?id=39894302"
+      "2024-04-01, 15:00:55",
+      "https://news.ycombinator.com/item?id=39894819"
     ],
     [
-      "The Graph of Wikipedia [video]",
-      "https://www.youtube.com/watch?v=JheGL6uSF-4"
+      "Ask HN: Freelancer? Seeking freelancer? (April 2024)",
+      "https://news.ycombinator.com/item?id=39894819"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 15:00:55",
+      "https://news.ycombinator.com/item?id=39894818"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (April 2024)",
+      "https://news.ycombinator.com/item?id=39894818"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=39892533"
     ],
     [
-      "Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline (2015)",
+      "Century-old stone \"tsunami stones\" dot Japan's coastline (2015)",
       "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=39891847"
     ],
     [
-      "Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? (2020)",
+      "Will any crap we put into graphene increase its electrocatalytic effect? (2020)",
       "https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=39891415"
     ],
     [
-      "Hosting a Public Website on MS-DOS",
+      "Hosting a Public Website on MS-DOS (2022)",
       "https://fsturmat.net/blog/04202022/"
     ]
   ],
