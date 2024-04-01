@@ -1,12 +1,92 @@
 [
   [
     [
+      "2024-04-01, 16:11:21",
+      "https://news.ycombinator.com/item?id=39895744"
+    ],
+    [
+      "Bun 1.1",
+      "https://bun.sh/blog/bun-v1.1"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 15:48:33",
+      "https://news.ycombinator.com/item?id=39895453"
+    ],
+    [
+      "Show HN: DN$ – an innovative, ad-supported DNS resolver",
+      "https://github.com/tedkim97/adcache"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 15:40:28",
+      "https://news.ycombinator.com/item?id=39895344"
+    ],
+    [
+      "Xzbot: Notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)",
+      "https://github.com/amlweems/xzbot"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 15:39:34",
+      "https://news.ycombinator.com/item?id=39895332"
+    ],
+    [
+      "Panel says FAA should end mandate pilots disclose talk therapy sessions",
+      "https://www.reuters.com/business/aerospace-defense/panel-says-faa-should-end-mandate-pilots-disclose-talk-therapy-sessions-2024-04-01/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 15:34:51",
+      "https://news.ycombinator.com/item?id=39895258"
+    ],
+    [
+      "Why Vim uses hjkl keys as arrow keys",
+      "https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 15:29:17",
       "https://news.ycombinator.com/item?id=39895184"
     ],
     [
       "Error Handling in Baby Toys",
       "https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 15:23:49",
+      "https://news.ycombinator.com/item?id=39895114"
+    ],
+    [
+      "What Caused the Red Sea Submarine Cable Cuts?",
+      "https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 15:17:30",
+      "https://news.ycombinator.com/item?id=39895035"
+    ],
+    [
+      "The Tale of Daniel",
+      "https://www.hillelwayne.com/post/tale-of-daniel/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 15:03:21",
+      "https://news.ycombinator.com/item?id=39894866"
+    ],
+    [
+      "Cancer signs could be spotted years before symptoms, says new research institute",
+      "https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute"
     ]
   ],
   [
@@ -41,6 +121,16 @@
   ],
   [
     [
+      "2024-04-01, 14:00:55",
+      "https://news.ycombinator.com/item?id=39894274"
+    ],
+    [
+      "Show HN: Celest – Flutter Cloud Platform",
+      "https://celest.dev/"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 12:52:21",
       "https://news.ycombinator.com/item?id=39893619"
     ],
@@ -61,12 +151,12 @@
   ],
   [
     [
-      "2024-04-01, 11:52:41",
-      "https://news.ycombinator.com/item?id=39893142"
+      "2024-04-01, 11:47:28",
+      "https://news.ycombinator.com/item?id=39893094"
     ],
     [
-      "Ask HN: What is the current (Apr. 2024) gold standard of running an LLM locally?",
-      "https://news.ycombinator.com/item?id=39893142"
+      "An Awk Implementation in C99",
+      "https://www.raygard.net/awkdoc/"
     ]
   ],
   [
@@ -111,32 +201,12 @@
   ],
   [
     [
-      "2024-04-01, 08:26:01",
-      "https://news.ycombinator.com/item?id=39891885"
-    ],
-    [
-      "Ask HN: What is the state of AI data annotation of pdf documents using LLM",
-      "https://news.ycombinator.com/item?id=39891885"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 08:17:31",
       "https://news.ycombinator.com/item?id=39891847"
     ],
     [
       "Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? (2020)",
       "https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 07:19:12",
-      "https://news.ycombinator.com/item?id=39891607"
-    ],
-    [
-      "What we know about the xz Utils backdoor that almost infected the world",
-      "https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/"
     ]
   ],
   [
@@ -211,16 +281,6 @@
   ],
   [
     [
-      "2024-03-31, 22:55:09",
-      "https://news.ycombinator.com/item?id=39888943"
-    ],
-    [
-      "Adaptive RAG – dynamic retrieval methods adjustment",
-      "https://arxiv.org/abs/2403.14403"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 21:51:22",
       "https://news.ycombinator.com/item?id=39888383"
     ],
@@ -231,72 +291,12 @@
   ],
   [
     [
-      "2024-03-31, 21:26:44",
-      "https://news.ycombinator.com/item?id=39888203"
+      "2024-03-29, 18:17:41",
+      "https://news.ycombinator.com/item?id=39867267"
     ],
     [
-      "Overview: What are Cpp2 and cppfront? How do I get and build cppfront?",
-      "https://hsutter.github.io/cppfront/"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 20:58:33",
-      "https://news.ycombinator.com/item?id=39888020"
-    ],
-    [
-      "Documentation for the AMD 7900XTX",
-      "https://github.com/geohot/7900xtx"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 20:45:24",
-      "https://news.ycombinator.com/item?id=39887931"
-    ],
-    [
-      "Upscayl – Free and Open Source AI Image Upscaler",
-      "https://github.com/upscayl/upscayl"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 19:33:43",
-      "https://news.ycombinator.com/item?id=39887313"
-    ],
-    [
-      "Show HN: Libmui is a macOS Classic widget lib for Linux",
-      "https://github.com/buserror/libmui"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 15:26:57",
-      "https://news.ycombinator.com/item?id=39885107"
-    ],
-    [
-      "Can GPT optimize my taxes? An experiment in letting the LLM be the UX",
-      "https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 06:52:23",
-      "https://news.ycombinator.com/item?id=39882018"
-    ],
-    [
-      "Guess my RGB",
-      "https://susam.net/myrgb.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 02:38:39",
-      "https://news.ycombinator.com/item?id=39880856"
-    ],
-    [
-      "Cutting a 700 carat rare valuable gemstone [video]",
-      "https://www.youtube.com/watch?v=Qe9tnIB2Yro"
+      "The history of lead pencils and their lack of any actual lead",
+      "https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/"
     ]
   ]
 ]
