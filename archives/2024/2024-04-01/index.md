@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 10:41:53](https://news.ycombinator.com/item?id=39892634) - [Would you use a government-issued ID to prove your identity online?](https://www.abc.net.au/news/2024-04-01/government-backed-digital-id-passes-senate/103653648)
 * [2024-04-01, 10:22:11](https://news.ycombinator.com/item?id=39892533) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 * [2024-04-01, 08:55:39](https://news.ycombinator.com/item?id=39892024) - [I'm Too Old](https://www.amazingcto.com/im-too-old/)
 * [2024-04-01, 08:53:04](https://news.ycombinator.com/item?id=39892015) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-01, 10:41:53](https://news.ycombinator.com/item?id=39892634) - [Would you use a government-issued ID to prove your identity online?](https://www.abc.net.au/news/2024-04-01/government-backed-digital-id-passes-senate/103653648)
 * [2024-04-01, 10:22:11](https://news.ycombinator.com/item?id=39892533) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 * [2024-04-01, 08:53:04](https://news.ycombinator.com/item?id=39892015) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:40:35](https://news.ycombinator.com/item?id=39891948) - [Headline Driven Development](https://www.spakhm.com/headline-development)
-* [2024-04-01, 08:25:51](https://news.ycombinator.com/item?id=39891882) - [Smoking cannabis is now legal in Germany](https://www.theguardian.com/world/2024/apr/01/germany-legal-cannabis-weed-laws-personal-use)
 * [2024-04-01, 08:25:31](https://news.ycombinator.com/item?id=39891881) - [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
 * [2024-04-01, 08:17:31](https://news.ycombinator.com/item?id=39891847) - [Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? (2020)](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
 * [2024-04-01, 07:24:13](https://news.ycombinator.com/item?id=39891627) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
