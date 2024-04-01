@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 14:52:28](https://news.ycombinator.com/item?id=39894748) - [April Fools Day Request for Comments](https://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments)
+* [2024-04-01, 14:44:42](https://news.ycombinator.com/item?id=39894669) - [Battle of the Redis Forks?](https://www.thestack.technology/battle-of-the-redis-forks-begins/)
+* [2024-04-01, 14:29:47](https://news.ycombinator.com/item?id=39894526) - [Postgres vs. File Systems: A Performance Comparison (2022)](https://www.enterprisedb.com/blog/postgres-vs-file-systems-performance-comparison)
+* [2024-04-01, 14:15:57](https://news.ycombinator.com/item?id=39894393) - [What someone learnt when they replaced their Pi 5 with a Amazon mini desktop](https://arstechnica.com/gadgets/2024/04/what-i-learned-when-i-replaced-my-cheap-pi-5-pc-with-a-no-name-amazon-mini-desktop/)
 * [2024-04-01, 14:09:41](https://news.ycombinator.com/item?id=39894351) - [Wait, does America suddenly have a record number of bees?](https://www.washingtonpost.com/business/2024/03/29/bees-boom-colony-collapse/)
 * [2024-04-01, 14:03:31](https://news.ycombinator.com/item?id=39894302) - [The Graph of Wikipedia [video]](https://www.youtube.com/watch?v=JheGL6uSF-4)
 * [2024-04-01, 12:52:21](https://news.ycombinator.com/item?id=39893619) - [Beam.cloud (YC W22) is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
 * [2024-04-01, 12:04:36](https://news.ycombinator.com/item?id=39893217) - [There were no ancient computers and it's fine](https://lcamtuf.substack.com/p/there-were-no-ancient-computers-and)
 * [2024-04-01, 11:55:24](https://news.ycombinator.com/item?id=39893160) - [Ask HN: Freelance website builders/maintainers, what's in your 2024 toolkit?](https://news.ycombinator.com/item?id=39893160)
 * [2024-04-01, 11:52:41](https://news.ycombinator.com/item?id=39893142) - [Ask HN: What is the current (Apr. 2024) gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
+* [2024-04-01, 11:07:39](https://news.ycombinator.com/item?id=39892813) - [What is Your Private Phone setup? (2022-2024)](https://discuss.privacyguides.net/t/what-is-your-private-phone-setup/97)
 * [2024-04-01, 10:41:53](https://news.ycombinator.com/item?id=39892634) - [Would you use a government-issued ID to prove your identity online?](https://www.abc.net.au/news/2024-04-01/government-backed-digital-id-passes-senate/103653648)
 * [2024-04-01, 10:31:50](https://news.ycombinator.com/item?id=39892583) - [Your database skills are not 'good to have'](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html)
 * [2024-04-01, 10:22:11](https://news.ycombinator.com/item?id=39892533) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
