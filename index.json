@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-04-01, 03:07:14",
+      "https://news.ycombinator.com/item?id=39890561"
+    ],
+    [
+      "Killing the Messenger: My Final Days Working at a Disaster",
+      "https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 02:17:05",
       "https://news.ycombinator.com/item?id=39890262"
     ],
     [
       "LLaMA Now Goes Faster on CPUs",
       "https://justine.lol/matmul/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 02:15:10",
+      "https://news.ycombinator.com/item?id=39890254"
+    ],
+    [
+      "LLM Paper on Mamba MoE: Jamba Technical Report from AI2",
+      "https://arxiv.org/abs/2403.19887"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "InternLM2",
       "https://arxiv.org/abs/2403.17297"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 23:35:14",
-      "https://news.ycombinator.com/item?id=39889286"
-    ],
-    [
-      "XZ Backdoor: Times, damned times, and scams",
-      "https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Syntax highlighting is a waste of an information channel (2020)",
       "https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 12:02:33",
-      "https://news.ycombinator.com/item?id=39883487"
-    ],
-    [
-      "Zoomable Circles, a Svelte component for hierarchical data",
-      "https://www.npmjs.com/package/svelte-zoomable-circles"
     ]
   ],
   [
