@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 07:19:12](https://news.ycombinator.com/item?id=39891607) - [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
 * [2024-04-01, 07:01:54](https://news.ycombinator.com/item?id=39891527) - [U.S. Navy Submarine First in World Fitted with Silent Caterpillar Drive](https://www.navalnews.com/naval-news/2024/04/u-s-navy-submarine-first-in-world-fitted-with-silent-caterpillar-drive/)
 * [2024-04-01, 06:43:54](https://news.ycombinator.com/item?id=39891456) - [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
 * [2024-04-01, 06:38:27](https://news.ycombinator.com/item?id=39891432) - [Stuff that is backwards in Australia](https://blog.plover.com/geo/Australia.html)
 * [2024-04-01, 06:35:20](https://news.ycombinator.com/item?id=39891415) - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
+* [2024-04-01, 06:10:39](https://news.ycombinator.com/item?id=39891317) - [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
 * [2024-04-01, 05:18:58](https://news.ycombinator.com/item?id=39891130) - [U.S. dairy cows have tested positive for bird flu](https://text.npr.org/1241897770)
 * [2024-04-01, 04:19:01](https://news.ycombinator.com/item?id=39890888) - [OSS backdoors: the folly of the easy fix](https://lcamtuf.substack.com/p/oss-backdoors-the-allure-of-the-easy)
 * [2024-04-01, 04:06:03](https://news.ycombinator.com/item?id=39890817) - [The failed attempt to backdoor SSH globally – that got caught by chance](https://doublepulsar.com/inside-the-failed-attempt-to-backdoor-ssh-globally-that-got-caught-by-chance-bbfe628fafdd)
