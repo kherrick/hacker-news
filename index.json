@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-01, 19:19:04",
+      "https://news.ycombinator.com/item?id=39898004"
+    ],
+    [
+      "A biased test kept Black people from getting a kidney transplant",
+      "https://apnews.com/article/kidney-transplant-race-black-inequity-bias-d4fabf2f3a47aab2fe8e18b2a5432135"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 18:42:57",
       "https://news.ycombinator.com/item?id=39897594"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2024-04-01, 18:04:41",
+      "https://news.ycombinator.com/item?id=39897112"
+    ],
+    [
+      "Show HN: Exponentile – A match 3 game mixed with 2048",
+      "https://www.bellika.dk/exponentile"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 17:50:54",
       "https://news.ycombinator.com/item?id=39896923"
     ],
     [
       "RAGFlow is an open-source RAG engine based on OCR and document parsing",
       "https://github.com/infiniflow/ragflow"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 17:22:37",
-      "https://news.ycombinator.com/item?id=39896560"
-    ],
-    [
-      "Terraform Industries converts electricity and air into synthetic natural gas",
-      "https://techcrunch.com/2024/04/01/terraform-industries-converted-electricity-and-air-into-synthetic-natural-gas/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Show HN: I just made my profitable online form builder open-sourced",
       "https://github.com/heyform/heyform"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 16:23:39",
-      "https://news.ycombinator.com/item?id=39895869"
-    ],
-    [
-      "Demographics professor warns that by 2531, everyone in Japan will be named Sato",
-      "https://www.spoon-tamago.com/2531-sato-surname-problem/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39890262"
     ],
     [
-      "LLaMA Now Goes Faster on CPUs",
+      "LLaMA now goes faster on CPUs",
       "https://justine.lol/matmul/"
     ]
   ],
