@@ -2,7 +2,6 @@
 
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-04-01, 01:41:02](https://news.ycombinator.com/item?id=39890069) - [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
-* [2024-04-01, 00:39:53](https://news.ycombinator.com/item?id=39889668) - [Self-driving semi-trucks are coming to America's highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)
 * [2024-04-01, 00:12:16](https://news.ycombinator.com/item?id=39889506) - [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
 * [2024-03-31, 23:51:26](https://news.ycombinator.com/item?id=39889404) - [InternLM2](https://arxiv.org/abs/2403.17297)
 * [2024-03-31, 23:35:14](https://news.ycombinator.com/item?id=39889286) - [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
@@ -23,6 +22,7 @@
 * [2024-03-31, 17:43:08](https://news.ycombinator.com/item?id=39886272) - [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
 * [2024-03-31, 15:26:57](https://news.ycombinator.com/item?id=39885107) - [Can GPT optimize my taxes? An experiment in letting the LLM be the UX](https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/)
 * [2024-03-31, 14:55:28](https://news.ycombinator.com/item?id=39884821) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
+* [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 02:38:39](https://news.ycombinator.com/item?id=39880856) - [Cutting a 700 carat rare valuable gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
 * [2024-03-30, 21:03:07](https://news.ycombinator.com/item?id=39878635) - [Tiny orchid flowers pollinated by tiny flies](https://phys.org/news/2024-03-tiny-orchid-pollinated-flies.html)
