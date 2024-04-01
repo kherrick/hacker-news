@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-01, 10:41:53](https://news.ycombinator.com/item?id=39892634) - [Would you use a government-issued ID to prove your identity online?](https://www.abc.net.au/news/2024-04-01/government-backed-digital-id-passes-senate/103653648)
+* [2024-04-01, 12:04:36](https://news.ycombinator.com/item?id=39893217) - [There were no ancient computers and it's fine](https://lcamtuf.substack.com/p/there-were-no-ancient-computers-and)
+* [2024-04-01, 11:52:41](https://news.ycombinator.com/item?id=39893142) - [Ask HN: What is the current (Apr. 2024) gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
 * [2024-04-01, 10:22:11](https://news.ycombinator.com/item?id=39892533) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
-* [2024-04-01, 08:53:04](https://news.ycombinator.com/item?id=39892015) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:40:35](https://news.ycombinator.com/item?id=39891948) - [Headline Driven Development](https://www.spakhm.com/headline-development)
-* [2024-04-01, 08:25:31](https://news.ycombinator.com/item?id=39891881) - [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
 * [2024-04-01, 08:17:31](https://news.ycombinator.com/item?id=39891847) - [Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? (2020)](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
 * [2024-04-01, 07:24:13](https://news.ycombinator.com/item?id=39891627) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
 * [2024-04-01, 07:19:12](https://news.ycombinator.com/item?id=39891607) - [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
@@ -24,12 +23,13 @@
 * [2024-03-31, 21:26:44](https://news.ycombinator.com/item?id=39888203) - [Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
 * [2024-03-31, 21:04:36](https://news.ycombinator.com/item?id=39888057) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
 * [2024-03-31, 20:58:33](https://news.ycombinator.com/item?id=39888020) - [Documentation for the AMD 7900XTX](https://github.com/geohot/7900xtx)
-* [2024-03-31, 20:56:18](https://news.ycombinator.com/item?id=39888005) - [Skin in the Game](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/)
 * [2024-03-31, 20:45:24](https://news.ycombinator.com/item?id=39887931) - [Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
+* [2024-03-31, 17:58:47](https://news.ycombinator.com/item?id=39886442) - [Show HN: Focumon – Turn your work into a multiplayer adventure](https://www.focumon.com/landing)
 * [2024-03-31, 15:26:57](https://news.ycombinator.com/item?id=39885107) - [Can GPT optimize my taxes? An experiment in letting the LLM be the UX](https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 02:38:39](https://news.ycombinator.com/item?id=39880856) - [Cutting a 700 carat rare valuable gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
+* [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
 
 ## [Archives](archives/index.md)
 
