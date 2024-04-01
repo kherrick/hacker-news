@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-01, 21:38:43](https://news.ycombinator.com/item?id=39899685) - [California is gripped by economic problems, with no easy fix](https://www.economist.com/united-states/2024/03/31/california-is-gripped-by-interlocking-economic-problems-with-no-easy-solution)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
 * [2024-04-01, 20:12:19](https://news.ycombinator.com/item?id=39898619) - [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
@@ -26,9 +25,10 @@
 * [2024-04-01, 09:16:07](https://news.ycombinator.com/item?id=39892119) - [Chrome Feature: ZSTD Content-Encoding](https://chromestatus.com/feature/6186023867908096)
 * [2024-04-01, 08:17:31](https://news.ycombinator.com/item?id=39891847) - [Will any crap we put into graphene increase its electrocatalytic effect? (2020)](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)
-* [2024-04-01, 02:15:05](https://news.ycombinator.com/item?id=39890250) - [Mycenaean Warriors and the Sea-Peoples](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
+* [2024-04-01, 02:15:05](https://news.ycombinator.com/item?id=39890250) - [Mycenaean Warriors and the Sea-Peoples (2013)](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
 * [2024-03-31, 05:41:34](https://news.ycombinator.com/item?id=39881749) - [Refurb weekend: Data General/One (and the worst LCD in the world)](http://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead (2021)](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
+* [2024-03-29, 12:02:16](https://news.ycombinator.com/item?id=39863001) - [Knuth and Plass line-breaking revisited (2007)](https://defoe.sourceforge.net/folio/knuth-plass.html)
 * [2024-03-29, 03:03:55](https://news.ycombinator.com/item?id=39860199) - [RSS Feed Organization Strategies and New Feed Cost](https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html)
 
 ## [Archives](archives/index.md)
