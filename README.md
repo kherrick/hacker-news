@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-01, 22:10:34](https://news.ycombinator.com/item?id=39900002) - [From its start, Gmail conditioned us to trade privacy for free services](https://www.engadget.com/from-its-start-gmail-conditioned-us-to-trade-privacy-for-free-services-120009741.html)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
 * [2024-04-01, 20:12:19](https://news.ycombinator.com/item?id=39898619) - [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
@@ -9,7 +10,6 @@
 * [2024-04-01, 18:42:57](https://news.ycombinator.com/item?id=39897594) - [Book Review: \"Tidy First?\" By Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
 * [2024-04-01, 18:29:12](https://news.ycombinator.com/item?id=39897418) - [Control Data Corporation's CDC 6600](https://chipsandcheese.com/2024/04/01/inside-control-data-corporations-cdc-6600/)
 * [2024-04-01, 17:50:54](https://news.ycombinator.com/item?id=39896923) - [RAGFlow is an open-source RAG engine based on OCR and document parsing](https://github.com/infiniflow/ragflow)
-* [2024-04-01, 17:14:36](https://news.ycombinator.com/item?id=39896462) - [OpenAI: Start using ChatGPT instantly](https://openai.com/blog/start-using-chatgpt-instantly)
 * [2024-04-01, 17:07:36](https://news.ycombinator.com/item?id=39896371) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2024-04-01, 16:34:36](https://news.ycombinator.com/item?id=39895994) - [OpenAI removes Sam Altman's ownership of its Startup Fund](https://www.reuters.com/technology/openai-removes-sam-altmans-ownership-its-startup-fund-2024-04-01/)
 * [2024-04-01, 16:30:48](https://news.ycombinator.com/item?id=39895960) - [Show HN: I just made my profitable online form builder open-sourced](https://github.com/heyform/heyform)
