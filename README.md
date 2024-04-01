@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-01, 17:56:14](https://news.ycombinator.com/item?id=39896994) - [First human case of avian flu in Texas](https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949)
+* [2024-04-01, 17:22:37](https://news.ycombinator.com/item?id=39896560) - [Terraform Industries converts electricity and air into synthetic natural gas](https://techcrunch.com/2024/04/01/terraform-industries-converted-electricity-and-air-into-synthetic-natural-gas/)
 * [2024-04-01, 17:16:03](https://news.ycombinator.com/item?id=39896480) - [Could the cosmos, in fact, be conscious?](https://www.heraldscotland.com/business_hq/24222253.mind-blowing-theory-god-may-spark-radical-new-21st-century-religion/)
 * [2024-04-01, 17:11:20](https://news.ycombinator.com/item?id=39896423) - [Ketogenic Diet Intervention on Metabolic and Psychiatric Health](https://www.sciencedirect.com/science/article/pii/S0165178124001513)
 * [2024-04-01, 17:07:36](https://news.ycombinator.com/item?id=39896371) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
@@ -27,7 +28,6 @@
 * [2024-04-01, 02:58:43](https://news.ycombinator.com/item?id=39890494) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
-* [2024-03-31, 20:45:24](https://news.ycombinator.com/item?id=39887931) - [Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 
