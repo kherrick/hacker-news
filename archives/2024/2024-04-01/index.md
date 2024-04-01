@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 17:56:14](https://news.ycombinator.com/item?id=39896994) - [First human case of avian flu in Texas](https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949)
 * [2024-04-01, 17:38:16](https://news.ycombinator.com/item?id=39896745) - [The `xz` package backdoor is just the tip of the iceberg](https://twitter.com/feross/status/1774153518800404494)
 * [2024-04-01, 17:16:03](https://news.ycombinator.com/item?id=39896480) - [Could the cosmos, in fact, be conscious?](https://www.heraldscotland.com/business_hq/24222253.mind-blowing-theory-god-may-spark-radical-new-21st-century-religion/)
 * [2024-04-01, 17:14:36](https://news.ycombinator.com/item?id=39896462) - [OpenAI: Start Using ChatGPT Instantly](https://openai.com/blog/start-using-chatgpt-instantly)
