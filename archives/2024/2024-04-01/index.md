@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 17:16:03](https://news.ycombinator.com/item?id=39896480) - [Could the cosmos, in fact, be conscious?](https://www.heraldscotland.com/business_hq/24222253.mind-blowing-theory-god-may-spark-radical-new-21st-century-religion/)
 * [2024-04-01, 17:14:36](https://news.ycombinator.com/item?id=39896462) - [OpenAI: Start Using ChatGPT Instantly](https://openai.com/blog/start-using-chatgpt-instantly)
 * [2024-04-01, 17:11:20](https://news.ycombinator.com/item?id=39896423) - [Ketogenic Diet Intervention on Metabolic and Psychiatric Health](https://www.sciencedirect.com/science/article/pii/S0165178124001513)
 * [2024-04-01, 17:07:36](https://news.ycombinator.com/item?id=39896371) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
+* [2024-04-01, 16:39:00](https://news.ycombinator.com/item?id=39896043) - [Apple Says iPhone 6 Plus Now 'Obsolete' and iPad Mini 4 Now 'Vintage'](https://www.macrumors.com/2024/04/01/apple-says-iphone-6-plus-is-now-obsolete/)
 * [2024-04-01, 16:34:36](https://news.ycombinator.com/item?id=39895994) - [OpenAI removes Sam Altman's ownership of its Startup Fund](https://www.reuters.com/technology/openai-removes-sam-altmans-ownership-its-startup-fund-2024-04-01/)
 * [2024-04-01, 16:30:48](https://news.ycombinator.com/item?id=39895960) - [Show HN: I just made my profitable online form builder open-sourced](https://github.com/heyform/heyform)
 * [2024-04-01, 16:23:39](https://news.ycombinator.com/item?id=39895869) - [Demographics Professor Warns That by 2531, Everyone in Japan Will Be Named Sato](https://www.spoon-tamago.com/2531-sato-surname-problem/)
