@@ -4,6 +4,7 @@
 * [2024-04-01, 03:07:14](https://news.ycombinator.com/item?id=39890561) - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-04-01, 02:15:10](https://news.ycombinator.com/item?id=39890254) - [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
+* [2024-04-01, 01:41:02](https://news.ycombinator.com/item?id=39890069) - [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
 * [2024-04-01, 00:12:16](https://news.ycombinator.com/item?id=39889506) - [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
 * [2024-03-31, 23:51:26](https://news.ycombinator.com/item?id=39889404) - [InternLM2](https://arxiv.org/abs/2403.17297)
 * [2024-03-31, 22:55:09](https://news.ycombinator.com/item?id=39888943) - [Adaptive RAG – dynamic retrieval methods adjustment](https://arxiv.org/abs/2403.14403)
@@ -29,7 +30,6 @@
 * [2024-03-30, 11:22:20](https://news.ycombinator.com/item?id=39873793) - [How well can LLMs write COBOL?](https://bloop.ai/blog/evaluating-llms-on-cobol)
 * [2024-03-29, 12:11:43](https://news.ycombinator.com/item?id=39863072) - [Typesetting the LaTeX Way (2013)](https://chriscummins.cc/2013/typesetting/)
 * [2024-03-29, 07:36:45](https://news.ycombinator.com/item?id=39861525) - [Show HN: An adventure game in Z80 assembly for CP/M and ZX Spectrum](https://github.com/skx/lighthouse-of-doom)
-* [2024-03-28, 05:23:11](https://news.ycombinator.com/item?id=39848027) - [Influencers: Japan's secret weapon to promote niche tourism spots](https://www.japantimes.co.jp/business/2024/03/28/japan-tourism-influencers/)
 
 ## [Archives](archives/index.md)
 
