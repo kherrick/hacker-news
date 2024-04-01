@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
 * [2024-04-01, 08:55:39](https://news.ycombinator.com/item?id=39892024) - [I'm Too Old](https://www.amazingcto.com/im-too-old/)
+* [2024-04-01, 08:53:04](https://news.ycombinator.com/item?id=39892015) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:40:35](https://news.ycombinator.com/item?id=39891948) - [Headline Driven Development](https://www.spakhm.com/headline-development)
 * [2024-04-01, 08:25:51](https://news.ycombinator.com/item?id=39891882) - [Smoking cannabis is now legal in Germany](https://www.theguardian.com/world/2024/apr/01/germany-legal-cannabis-weed-laws-personal-use)
 * [2024-04-01, 08:25:31](https://news.ycombinator.com/item?id=39891881) - [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
