@@ -1,12 +1,72 @@
 [
   [
     [
+      "2024-04-01, 00:30:25",
+      "https://news.ycombinator.com/item?id=39889601"
+    ],
+    [
+      "Libera Cat: IRC network rebranding",
+      "https://libera.cat/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 00:14:16",
+      "https://news.ycombinator.com/item?id=39889517"
+    ],
+    [
+      "Unraveling Havana Syndrome: New Evidence implicates the GRU's Assassination Unit",
+      "https://theins.ru/en/politics/270425"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 00:12:16",
+      "https://news.ycombinator.com/item?id=39889506"
+    ],
+    [
+      "Programming Beyond Paradigms",
+      "https://www.micahcantor.com/blog/programming-beyond-paradigms/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 23:36:35",
+      "https://news.ycombinator.com/item?id=39889302"
+    ],
+    [
+      "America is divided over major efforts to rewrite child labor laws",
+      "https://www.washingtonpost.com/business/2024/03/31/us-child-labor-laws-state-bills/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 23:35:14",
+      "https://news.ycombinator.com/item?id=39889286"
+    ],
+    [
+      "XZ Backdoor: Times, damned times, and scams",
+      "https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 23:30:10",
       "https://news.ycombinator.com/item?id=39889245"
     ],
     [
-      "Stop Believing in Free Shipping",
+      "Free shipping isn’t really free (2020)",
       "https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 23:06:27",
+      "https://news.ycombinator.com/item?id=39889043"
+    ],
+    [
+      "Modern Git Commands and Features You Should Be Using",
+      "https://martinheinz.dev/blog/109"
     ]
   ],
   [
@@ -21,22 +81,22 @@
   ],
   [
     [
+      "2024-03-31, 22:46:17",
+      "https://news.ycombinator.com/item?id=39888854"
+    ],
+    [
+      "Watching Xz Unfold from Afar",
+      "https://connortumbleson.com/2024/03/31/watching-xz-unfold-from-afar/"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 22:38:09",
       "https://news.ycombinator.com/item?id=39888769"
     ],
     [
       "Mini-Gemini: Mining the Potential of Multi-Modality Vision Language Models",
       "https://arxiv.org/abs/2403.18814"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 22:05:39",
-      "https://news.ycombinator.com/item?id=39888496"
-    ],
-    [
-      "Smart devices are turning out to be a poor investment",
-      "https://www.androidpolice.com/smart-devices-poor-investment/"
     ]
   ],
   [
@@ -61,16 +121,6 @@
   ],
   [
     [
-      "2024-03-31, 21:05:05",
-      "https://news.ycombinator.com/item?id=39888059"
-    ],
-    [
-      "The xz backdoor thing reminds me of a story",
-      "https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 21:04:36",
       "https://news.ycombinator.com/item?id=39888057"
     ],
@@ -91,12 +141,22 @@
   ],
   [
     [
-      "2024-03-31, 20:32:45",
-      "https://news.ycombinator.com/item?id=39887815"
+      "2024-03-31, 20:56:18",
+      "https://news.ycombinator.com/item?id=39888005"
     ],
     [
-      "Modeling of pulsed plasma rocket shows it should be possible to create one",
-      "https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/"
+      "Skin in the Game",
+      "https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 19:47:41",
+      "https://news.ycombinator.com/item?id=39887428"
+    ],
+    [
+      "XZ Backdoor Investigation Request to Gitlab Team",
+      "https://gitlab.com/gitlab-org/gitlab/-/issues/452603"
     ]
   ],
   [
@@ -161,32 +221,12 @@
   ],
   [
     [
-      "2024-03-31, 13:21:50",
-      "https://news.ycombinator.com/item?id=39884004"
-    ],
-    [
-      "The illusion of being stuck",
-      "https://the-simulation-strategists.beehiiv.com/p/being-stuck"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 12:02:33",
       "https://news.ycombinator.com/item?id=39883487"
     ],
     [
       "Zoomable Circles, a Svelte component for hierarchical data",
       "https://www.npmjs.com/package/svelte-zoomable-circles"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 11:41:09",
-      "https://news.ycombinator.com/item?id=39883328"
-    ],
-    [
-      "Shutting down the letsblock.it project and its official instance",
-      "https://github.com/letsblockit/letsblockit/discussions/663"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2024-03-31, 03:09:11",
-      "https://news.ycombinator.com/item?id=39881014"
-    ],
-    [
-      "Pacemaker powered by light: new research",
-      "https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 02:38:39",
       "https://news.ycombinator.com/item?id=39880856"
     ],
@@ -241,42 +271,12 @@
   ],
   [
     [
-      "2024-03-30, 19:47:44",
-      "https://news.ycombinator.com/item?id=39877987"
-    ],
-    [
-      "Spacing the Cans",
-      "https://robhorning.substack.com/p/spacing-the-cans"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 19:45:38",
       "https://news.ycombinator.com/item?id=39877967"
     ],
     [
       "The Mongolian Meta",
       "https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 06:42:18",
-      "https://news.ycombinator.com/item?id=39872406"
-    ],
-    [
-      "The roller ship was not an effective way to cross the high seas",
-      "https://hackaday.com/2024/03/27/the-roller-ship-was-not-an-effective-way-to-cross-the-high-seas/"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 12:11:43",
-      "https://news.ycombinator.com/item?id=39863072"
-    ],
-    [
-      "Typesetting the LaTeX Way (2013)",
-      "https://chriscummins.cc/2013/typesetting/"
     ]
   ],
   [
