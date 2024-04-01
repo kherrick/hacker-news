@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-01, 16:11:21",
-      "https://news.ycombinator.com/item?id=39895744"
-    ],
-    [
-      "Bun 1.1",
-      "https://bun.sh/blog/bun-v1.1"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 15:48:33",
       "https://news.ycombinator.com/item?id=39895453"
     ],
@@ -31,16 +21,6 @@
   ],
   [
     [
-      "2024-04-01, 15:39:34",
-      "https://news.ycombinator.com/item?id=39895332"
-    ],
-    [
-      "Panel says FAA should end mandate pilots disclose talk therapy sessions",
-      "https://www.reuters.com/business/aerospace-defense/panel-says-faa-should-end-mandate-pilots-disclose-talk-therapy-sessions-2024-04-01/"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 15:34:51",
       "https://news.ycombinator.com/item?id=39895258"
     ],
@@ -57,16 +37,6 @@
     [
       "Error Handling in Baby Toys",
       "https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 15:23:49",
-      "https://news.ycombinator.com/item?id=39895114"
-    ],
-    [
-      "What Caused the Red Sea Submarine Cable Cuts?",
-      "https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/"
     ]
   ],
   [
@@ -287,6 +257,36 @@
     [
       "A deep dive into email deliverability in 2024",
       "https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 21:26:44",
+      "https://news.ycombinator.com/item?id=39888203"
+    ],
+    [
+      "Overview: What are Cpp2 and cppfront? How do I get and build cppfront?",
+      "https://hsutter.github.io/cppfront/"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 20:45:24",
+      "https://news.ycombinator.com/item?id=39887931"
+    ],
+    [
+      "Upscayl – Free and Open Source AI Image Upscaler",
+      "https://github.com/upscayl/upscayl"
+    ]
+  ],
+  [
+    [
+      "2024-03-31, 19:33:43",
+      "https://news.ycombinator.com/item?id=39887313"
+    ],
+    [
+      "Show HN: Libmui is a macOS Classic widget lib for Linux",
+      "https://github.com/buserror/libmui"
     ]
   ],
   [
