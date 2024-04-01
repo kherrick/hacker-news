@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-01, 12:52:21](https://news.ycombinator.com/item?id=39893619) - [Beam.cloud (YC W22) is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
-* [2024-04-01, 12:04:36](https://news.ycombinator.com/item?id=39893217) - [There were no ancient computers and it's fine](https://lcamtuf.substack.com/p/there-were-no-ancient-computers-and)
 * [2024-04-01, 11:52:41](https://news.ycombinator.com/item?id=39893142) - [Ask HN: What is the current (Apr. 2024) gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
 * [2024-04-01, 10:22:11](https://news.ycombinator.com/item?id=39892533) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 * [2024-04-01, 09:16:07](https://news.ycombinator.com/item?id=39892119) - [Chrome Feature: ZSTD Content-Encoding](https://chromestatus.com/feature/6186023867908096)
@@ -12,8 +11,6 @@
 * [2024-04-01, 06:43:54](https://news.ycombinator.com/item?id=39891456) - [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
 * [2024-04-01, 06:35:20](https://news.ycombinator.com/item?id=39891415) - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
 * [2024-04-01, 06:10:39](https://news.ycombinator.com/item?id=39891317) - [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
-* [2024-04-01, 05:18:58](https://news.ycombinator.com/item?id=39891130) - [U.S. dairy cows have tested positive for bird flu](https://text.npr.org/1241897770)
-* [2024-04-01, 04:06:03](https://news.ycombinator.com/item?id=39890817) - [Inside the failed attempt to backdoor SSH globally that got caught by chance](https://doublepulsar.com/inside-the-failed-attempt-to-backdoor-ssh-globally-that-got-caught-by-chance-bbfe628fafdd)
 * [2024-04-01, 03:14:49](https://news.ycombinator.com/item?id=39890603) - [Climate Pulse](https://pulse.climate.copernicus.eu/)
 * [2024-04-01, 02:58:43](https://news.ycombinator.com/item?id=39890494) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
@@ -27,9 +24,12 @@
 * [2024-03-31, 20:58:33](https://news.ycombinator.com/item?id=39888020) - [Documentation for the AMD 7900XTX](https://github.com/geohot/7900xtx)
 * [2024-03-31, 20:45:24](https://news.ycombinator.com/item?id=39887931) - [Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
+* [2024-03-31, 17:58:47](https://news.ycombinator.com/item?id=39886442) - [Show HN: Focumon – Turn your work into a multiplayer adventure](https://www.focumon.com/landing)
 * [2024-03-31, 15:26:57](https://news.ycombinator.com/item?id=39885107) - [Can GPT optimize my taxes? An experiment in letting the LLM be the UX](https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/)
+* [2024-03-31, 12:02:33](https://news.ycombinator.com/item?id=39883487) - [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 02:38:39](https://news.ycombinator.com/item?id=39880856) - [Cutting a 700 carat rare valuable gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
+* [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
 
 ## [Archives](archives/index.md)
 
