@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-01, 03:14:49](https://news.ycombinator.com/item?id=39890603) - [Climate Pulse](https://pulse.climate.copernicus.eu/)
 * [2024-04-01, 03:07:14](https://news.ycombinator.com/item?id=39890561) - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-04-01, 02:15:10](https://news.ycombinator.com/item?id=39890254) - [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
@@ -25,7 +26,6 @@
 * [2024-03-31, 14:55:28](https://news.ycombinator.com/item?id=39884821) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
 * [2024-03-31, 02:38:39](https://news.ycombinator.com/item?id=39880856) - [Cutting a 700 carat rare valuable gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
-* [2024-03-30, 21:03:07](https://news.ycombinator.com/item?id=39878635) - [Tiny orchid flowers pollinated by tiny flies](https://phys.org/news/2024-03-tiny-orchid-pollinated-flies.html)
 * [2024-03-30, 19:45:38](https://news.ycombinator.com/item?id=39877967) - [The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
 * [2024-03-30, 11:22:20](https://news.ycombinator.com/item?id=39873793) - [How well can LLMs write COBOL?](https://bloop.ai/blog/evaluating-llms-on-cobol)
 * [2024-03-29, 07:36:45](https://news.ycombinator.com/item?id=39861525) - [Show HN: An adventure game in Z80 assembly for CP/M and ZX Spectrum](https://github.com/skx/lighthouse-of-doom)
