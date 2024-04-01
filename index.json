@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-03-31, 20:32:45",
+      "https://news.ycombinator.com/item?id=39887815"
+    ],
+    [
+      "Modeling of pulsed plasma rocket shows it should be possible to create one",
+      "https://www.universetoday.com/166395/thermal-modeling-of-a-pulsed-plasma-rocket-shows-it-should-be-possible-to-create-one/"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 20:16:42",
       "https://news.ycombinator.com/item?id=39887661"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2024-03-30, 11:22:20",
-      "https://news.ycombinator.com/item?id=39873793"
+      "2024-03-29, 12:21:04",
+      "https://news.ycombinator.com/item?id=39863163"
     ],
     [
-      "How well can LLMs write COBOL?",
-      "https://bloop.ai/blog/evaluating-llms-on-cobol"
+      "When Bacteria Are Beautiful",
+      "https://nautil.us/when-bacteria-are-beautiful-541411/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Typesetting the LaTeX Way (2013)",
       "https://chriscummins.cc/2013/typesetting/"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 07:36:45",
-      "https://news.ycombinator.com/item?id=39861525"
-    ],
-    [
-      "Show HN: An adventure game in Z80 assembly for CP/M and ZX Spectrum",
-      "https://github.com/skx/lighthouse-of-doom"
     ]
   ]
 ]
