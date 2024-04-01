@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
+* [2024-04-01, 20:12:19](https://news.ycombinator.com/item?id=39898619) - [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
 * [2024-04-01, 20:03:25](https://news.ycombinator.com/item?id=39898526) - [AT&T Addresses Recent Data Set Released on the Dark Web](https://about.att.com/story/2024/addressing-data-set-released-on-dark-web.html)
 * [2024-04-01, 19:57:25](https://news.ycombinator.com/item?id=39898459) - [AI used well can restore middle class jobs [pdf]](https://www.nber.org/system/files/working_papers/w32140/w32140.pdf)
 * [2024-04-01, 19:54:14](https://news.ycombinator.com/item?id=39898422) - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
