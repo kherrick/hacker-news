@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-01, 18:42:57](https://news.ycombinator.com/item?id=39897594) - [Book Review: \"Tidy First?\" By Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
+* [2024-04-01, 18:13:58](https://news.ycombinator.com/item?id=39897233) - [Good information still pollutes the epistemic ecosystem](https://ronghosh.substack.com/p/good-information-still-pollutes-the)
 * [2024-04-01, 17:56:14](https://news.ycombinator.com/item?id=39896994) - [First human case of avian flu in Texas](https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949)
 * [2024-04-01, 17:22:37](https://news.ycombinator.com/item?id=39896560) - [Terraform Industries converts electricity and air into synthetic natural gas](https://techcrunch.com/2024/04/01/terraform-industries-converted-electricity-and-air-into-synthetic-natural-gas/)
 * [2024-04-01, 17:16:03](https://news.ycombinator.com/item?id=39896480) - [Could the cosmos, in fact, be conscious?](https://www.heraldscotland.com/business_hq/24222253.mind-blowing-theory-god-may-spark-radical-new-21st-century-religion/)
@@ -8,6 +10,7 @@
 * [2024-04-01, 16:34:36](https://news.ycombinator.com/item?id=39895994) - [OpenAI removes Sam Altman's ownership of its Startup Fund](https://www.reuters.com/technology/openai-removes-sam-altmans-ownership-its-startup-fund-2024-04-01/)
 * [2024-04-01, 16:30:48](https://news.ycombinator.com/item?id=39895960) - [Show HN: I just made my profitable online form builder open-sourced](https://github.com/heyform/heyform)
 * [2024-04-01, 16:23:39](https://news.ycombinator.com/item?id=39895869) - [Demographics Professor Warns That by 2531, Everyone in Japan Will Be Named Sato](https://www.spoon-tamago.com/2531-sato-surname-problem/)
+* [2024-04-01, 15:48:33](https://news.ycombinator.com/item?id=39895453) - [Show HN: DN$ – an innovative, ad-supported DNS resolver](https://github.com/tedkim97/adcache)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://github.com/amlweems/xzbot)
 * [2024-04-01, 15:29:17](https://news.ycombinator.com/item?id=39895184) - [Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
 * [2024-04-01, 15:23:58](https://news.ycombinator.com/item?id=39895115) - [Show HN: Parallel Arabic, Arabic reading and writing practice](https://parallel-arabic.com/)
@@ -25,10 +28,7 @@
 * [2024-04-01, 06:43:54](https://news.ycombinator.com/item?id=39891456) - [First-in-human implantation of bionic device to halt Crohn's disease (2023)](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
 * [2024-04-01, 06:35:20](https://news.ycombinator.com/item?id=39891415) - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
 * [2024-04-01, 06:10:39](https://news.ycombinator.com/item?id=39891317) - [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
-* [2024-04-01, 02:58:43](https://news.ycombinator.com/item?id=39890494) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
-* [2024-03-31, 21:51:22](https://news.ycombinator.com/item?id=39888383) - [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
-* [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 
 ## [Archives](archives/index.md)
