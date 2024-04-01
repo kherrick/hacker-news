@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 15:29:17](https://news.ycombinator.com/item?id=39895184) - [Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
 * [2024-04-01, 15:11:13](https://news.ycombinator.com/item?id=39894965) - [10 Years of Hacker News \"Ask HN: Who Is Hiring\" Trends](https://customizedresumes.com/blog/hackernews-who-is-hiring-analysis)
 * [2024-04-01, 14:52:28](https://news.ycombinator.com/item?id=39894748) - [April Fools Day Request for Comments](https://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments)
 * [2024-04-01, 14:44:42](https://news.ycombinator.com/item?id=39894669) - [Battle of the Redis Forks?](https://www.thestack.technology/battle-of-the-redis-forks-begins/)
@@ -25,6 +26,7 @@
 * [2024-04-01, 08:55:39](https://news.ycombinator.com/item?id=39892024) - [I'm Too Old](https://www.amazingcto.com/im-too-old/)
 * [2024-04-01, 08:53:04](https://news.ycombinator.com/item?id=39892015) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:40:35](https://news.ycombinator.com/item?id=39891948) - [Headline Driven Development](https://www.spakhm.com/headline-development)
+* [2024-04-01, 08:26:01](https://news.ycombinator.com/item?id=39891885) - [Ask HN: What is the state of AI data annotation of pdf documents using LLM](https://news.ycombinator.com/item?id=39891885)
 * [2024-04-01, 08:25:51](https://news.ycombinator.com/item?id=39891882) - [Smoking cannabis is now legal in Germany](https://www.theguardian.com/world/2024/apr/01/germany-legal-cannabis-weed-laws-personal-use)
 * [2024-04-01, 08:25:31](https://news.ycombinator.com/item?id=39891881) - [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
 * [2024-04-01, 08:17:31](https://news.ycombinator.com/item?id=39891847) - [Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? (2020)](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)

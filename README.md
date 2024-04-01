@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-01, 15:11:13](https://news.ycombinator.com/item?id=39894965) - [10 Years of Hacker News \"Ask HN: Who Is Hiring\" Trends](https://customizedresumes.com/blog/hackernews-who-is-hiring-analysis)
+* [2024-04-01, 15:29:17](https://news.ycombinator.com/item?id=39895184) - [Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
 * [2024-04-01, 14:29:47](https://news.ycombinator.com/item?id=39894526) - [Postgres vs. File Systems: A Performance Comparison (2022)](https://www.enterprisedb.com/blog/postgres-vs-file-systems-performance-comparison)
-* [2024-04-01, 14:15:57](https://news.ycombinator.com/item?id=39894393) - [What someone learnt when they replaced their Pi 5 with a Amazon mini desktop](https://arstechnica.com/gadgets/2024/04/what-i-learned-when-i-replaced-my-cheap-pi-5-pc-with-a-no-name-amazon-mini-desktop/)
 * [2024-04-01, 14:09:41](https://news.ycombinator.com/item?id=39894351) - [Does America suddenly have a record number of bees?](https://www.washingtonpost.com/business/2024/03/29/bees-boom-colony-collapse/)
 * [2024-04-01, 14:03:31](https://news.ycombinator.com/item?id=39894302) - [The Graph of Wikipedia [video]](https://www.youtube.com/watch?v=JheGL6uSF-4)
 * [2024-04-01, 12:52:21](https://news.ycombinator.com/item?id=39893619) - [Beam.cloud (YC W22) is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
@@ -12,8 +11,8 @@
 * [2024-04-01, 10:22:11](https://news.ycombinator.com/item?id=39892533) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 * [2024-04-01, 09:16:07](https://news.ycombinator.com/item?id=39892119) - [Chrome Feature: ZSTD Content-Encoding](https://chromestatus.com/feature/6186023867908096)
 * [2024-04-01, 08:40:35](https://news.ycombinator.com/item?id=39891948) - [Headline Driven Development](https://www.spakhm.com/headline-development)
+* [2024-04-01, 08:26:01](https://news.ycombinator.com/item?id=39891885) - [Ask HN: What is the state of AI data annotation of pdf documents using LLM](https://news.ycombinator.com/item?id=39891885)
 * [2024-04-01, 08:17:31](https://news.ycombinator.com/item?id=39891847) - [Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? (2020)](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
-* [2024-04-01, 07:24:13](https://news.ycombinator.com/item?id=39891627) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
 * [2024-04-01, 07:19:12](https://news.ycombinator.com/item?id=39891607) - [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
 * [2024-04-01, 06:43:54](https://news.ycombinator.com/item?id=39891456) - [First-in-human implantation of bionic device to halt Crohn's disease (2023)](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
 * [2024-04-01, 06:35:20](https://news.ycombinator.com/item?id=39891415) - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
@@ -30,6 +29,7 @@
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-31, 15:26:57](https://news.ycombinator.com/item?id=39885107) - [Can GPT optimize my taxes? An experiment in letting the LLM be the UX](https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/)
 * [2024-03-31, 06:52:23](https://news.ycombinator.com/item?id=39882018) - [Guess my RGB](https://susam.net/myrgb.html)
+* [2024-03-31, 02:38:39](https://news.ycombinator.com/item?id=39880856) - [Cutting a 700 carat rare valuable gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
 
 ## [Archives](archives/index.md)
 
