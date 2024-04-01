@@ -106,6 +106,7 @@
 * [2024-03-29, 03:36:32](https://news.ycombinator.com/item?id=39860427) - [Hay for cattle consumes nearly half the water drawn from Colorado River, study](https://www.latimes.com/environment/story/2024-03-28/alfalfa-hay-beef-water-colorado-river)
 * [2024-03-29, 03:26:07](https://news.ycombinator.com/item?id=39860365) - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
 * [2024-03-29, 03:12:30](https://news.ycombinator.com/item?id=39860270) - [Equinix: Major Accounting Manipulation, Core Business Decay](https://hindenburgresearch.com/equinix/)
+* [2024-03-29, 03:03:55](https://news.ycombinator.com/item?id=39860199) - [RSS Feed Organization Strategies and New Feed Cost](https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html)
 * [2024-03-29, 02:19:27](https://news.ycombinator.com/item?id=39859913) - [Amazon Bets $150B on Data Centers Required for AI Boom](https://www.bloomberg.com/news/articles/2024-03-28/amazon-bets-150-billion-on-data-centers-required-for-ai-boom)
 * [2024-03-29, 02:11:06](https://news.ycombinator.com/item?id=39859849) - [SBCL: The Assembly Code Breadboard](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 * [2024-03-29, 02:03:44](https://news.ycombinator.com/item?id=39859805) - [Tesla's $25,000 Car Means Tossing Out the 100-Year-Old Assembly Line](https://www.bloomberg.com/news/articles/2024-03-28/tesla-s-tsla-new-unboxed-manufacturing-process-aims-to-cut-costs-50)

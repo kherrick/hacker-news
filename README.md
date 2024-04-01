@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-01, 20:03:25](https://news.ycombinator.com/item?id=39898526) - [AT&T Addresses Recent Data Set Released on the Dark Web](https://about.att.com/story/2024/addressing-data-set-released-on-dark-web.html)
 * [2024-04-01, 19:57:25](https://news.ycombinator.com/item?id=39898459) - [AI used well can restore middle class jobs [pdf]](https://www.nber.org/system/files/working_papers/w32140/w32140.pdf)
 * [2024-04-01, 19:54:14](https://news.ycombinator.com/item?id=39898422) - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 * [2024-04-01, 19:37:40](https://news.ycombinator.com/item?id=39898221) - [3Blue1Brown: But what is a GPT? [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
-* [2024-04-01, 19:29:57](https://news.ycombinator.com/item?id=39898121) - [The Pirate Bay's Oldest Torrent Is Now 20 Years Old](https://torrentfreak.com/the-pirate-bays-oldest-torrent-is-now-20-years-old-240401/)
 * [2024-04-01, 18:42:57](https://news.ycombinator.com/item?id=39897594) - [Book Review: \"Tidy First?\" By Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
 * [2024-04-01, 18:36:01](https://news.ycombinator.com/item?id=39897501) - [Has Trust in the U.S. Intelligence Community Eroded?](https://www.rand.org/pubs/research_reports/RRA864-1.html)
 * [2024-04-01, 18:29:12](https://news.ycombinator.com/item?id=39897418) - [Control Data Corporation's CDC 6600](https://chipsandcheese.com/2024/04/01/inside-control-data-corporations-cdc-6600/)
 * [2024-04-01, 17:50:54](https://news.ycombinator.com/item?id=39896923) - [RAGFlow is an open-source RAG engine based on OCR and document parsing](https://github.com/infiniflow/ragflow)
+* [2024-04-01, 17:14:36](https://news.ycombinator.com/item?id=39896462) - [OpenAI: Start using ChatGPT instantly](https://openai.com/blog/start-using-chatgpt-instantly)
 * [2024-04-01, 17:07:36](https://news.ycombinator.com/item?id=39896371) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2024-04-01, 16:34:36](https://news.ycombinator.com/item?id=39895994) - [OpenAI removes Sam Altman's ownership of its Startup Fund](https://www.reuters.com/technology/openai-removes-sam-altmans-ownership-its-startup-fund-2024-04-01/)
 * [2024-04-01, 16:30:48](https://news.ycombinator.com/item?id=39895960) - [Show HN: I just made my profitable online form builder open-sourced](https://github.com/heyform/heyform)
@@ -30,6 +29,7 @@
 * [2024-04-01, 06:10:39](https://news.ycombinator.com/item?id=39891317) - [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead (2021)](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
+* [2024-03-29, 03:03:55](https://news.ycombinator.com/item?id=39860199) - [RSS Feed Organization Strategies and New Feed Cost](https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html)
 
 ## [Archives](archives/index.md)
 
