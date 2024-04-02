@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-02, 00:24:56",
+      "https://news.ycombinator.com/item?id=39901040"
+    ],
+    [
+      "A path out of bloat: A Linux built for VMs",
+      "https://www.theregister.com/2024/02/23/linux_built_for_a_vm/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 22:51:29",
+      "https://news.ycombinator.com/item?id=39900329"
+    ],
+    [
+      "WireGuard client that exposes itself as a HTTP/SOCKS5 proxy",
+      "https://github.com/pufferffish/wireproxy"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 22:35:23",
+      "https://news.ycombinator.com/item?id=39900197"
+    ],
+    [
+      "OpenAI's comment to the NTIA on open model weights",
+      "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 21:00:18",
       "https://news.ycombinator.com/item?id=39899262"
     ],
@@ -17,16 +47,6 @@
     [
       "OWASP Data Breach Notification",
       "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 20:12:19",
-      "https://news.ycombinator.com/item?id=39898619"
-    ],
-    [
-      "Google to delete records from Incognito tracking",
-      "https://www.bbc.com/news/business-68709119"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Virtual Pinhead",
       "https://www.engineersneedart.com/blog/pinhead/pinhead.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 18:42:57",
-      "https://news.ycombinator.com/item?id=39897594"
-    ],
-    [
-      "Book Review: \"Tidy First?\" By Kent Beck",
-      "https://www.pathsensitive.com/2024/04/book-review-tidy-first.html"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2024-04-01, 15:23:58",
+      "https://news.ycombinator.com/item?id=39895115"
+    ],
+    [
+      "Show HN: Parallel Arabic – Arabic reading and writing practice",
+      "https://parallel-arabic.com/"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 15:17:30",
       "https://news.ycombinator.com/item?id=39895035"
     ],
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2024-04-01, 14:09:41",
+      "https://news.ycombinator.com/item?id=39894351"
+    ],
+    [
+      "Does America suddenly have a record number of bees?",
+      "https://www.washingtonpost.com/business/2024/03/29/bees-boom-colony-collapse/"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 14:00:55",
       "https://news.ycombinator.com/item?id=39894274"
     ],
@@ -217,26 +247,6 @@
     [
       "Century-old stone \"tsunami stones\" dot Japan's coastline (2015)",
       "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 09:16:07",
-      "https://news.ycombinator.com/item?id=39892119"
-    ],
-    [
-      "Chrome Feature: ZSTD Content-Encoding",
-      "https://chromestatus.com/feature/6186023867908096"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 08:17:31",
-      "https://news.ycombinator.com/item?id=39891847"
-    ],
-    [
-      "Will any crap we put into graphene increase its electrocatalytic effect? (2020)",
-      "https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The history of lead pencils and their lack of any lead (2021)",
       "https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 12:02:16",
-      "https://news.ycombinator.com/item?id=39863001"
-    ],
-    [
-      "Knuth and Plass line-breaking revisited (2007)",
-      "https://defoe.sourceforge.net/folio/knuth-plass.html"
     ]
   ],
   [
