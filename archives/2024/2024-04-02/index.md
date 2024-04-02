@@ -12,6 +12,7 @@
 * [2024-04-02, 17:55:40](https://news.ycombinator.com/item?id=39908763) - [How to stream PostgreSQL CDC to Kafka and use Propel to get an instant API](https://www.propeldata.com/blog/postgresql-cdc-to-kafka)
 * [2024-04-02, 17:47:25](https://news.ycombinator.com/item?id=39908660) - [Artificio de Juanelo](https://en.wikipedia.org/wiki/Artificio_de_Juanelo)
 * [2024-04-02, 17:44:22](https://news.ycombinator.com/item?id=39908629) - [Konrad Zuse](http://www.xn--plankalkl-x9a.de/)
+* [2024-04-02, 17:44:22](https://news.ycombinator.com/item?id=39908629) - [Konrad Zuse (1994)](http://www.xn--plankalkl-x9a.de)
 * [2024-04-02, 17:39:36](https://news.ycombinator.com/item?id=39908579) - [Amazon Ditches 'Just Walk Out' Checkouts at Its Grocery Stores](https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116)
 * [2024-04-02, 17:37:34](https://news.ycombinator.com/item?id=39908561) - [The secret world of competitive bass fishing cheaters (2014)](https://grantland.com/features/bass-fishing-cheaters/)
 * [2024-04-02, 17:36:55](https://news.ycombinator.com/item?id=39908553) - [Wonderful $25/HR opportunity -or- Canada LMIA abuse and immigration fraud](https://www.jobbank.gc.ca/jobsearch/jobposting/39914886)

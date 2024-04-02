@@ -7,7 +7,7 @@
 * [2024-04-02, 17:58:28](https://news.ycombinator.com/item?id=39908798) - [Study uses wearables to show that physical activity lengthens REM latency](https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/)
 * [2024-04-02, 17:55:40](https://news.ycombinator.com/item?id=39908763) - [How to stream PostgreSQL CDC to Kafka and use Propel to get an instant API](https://www.propeldata.com/blog/postgresql-cdc-to-kafka)
 * [2024-04-02, 17:47:25](https://news.ycombinator.com/item?id=39908660) - [Artificio de Juanelo](https://en.wikipedia.org/wiki/Artificio_de_Juanelo)
-* [2024-04-02, 17:44:22](https://news.ycombinator.com/item?id=39908629) - [Konrad Zuse (1994)](http://www.xn--plankalkl-x9a.de/)
+* [2024-04-02, 17:44:22](https://news.ycombinator.com/item?id=39908629) - [Konrad Zuse (1994)](http://www.xn--plankalkl-x9a.de)
 * [2024-04-02, 17:37:34](https://news.ycombinator.com/item?id=39908561) - [The secret world of competitive bass fishing cheaters (2014)](https://grantland.com/features/bass-fishing-cheaters/)
 * [2024-04-02, 17:06:25](https://news.ycombinator.com/item?id=39908146) - [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 * [2024-04-02, 16:46:32](https://news.ycombinator.com/item?id=39907876) - [CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
