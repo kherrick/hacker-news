@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 22:47:53](https://news.ycombinator.com/item?id=39911680) - [Apple Got Caught Censoring Its Own Regulator Lina Khan](https://www.thebignewsletter.com/p/apple-got-caught-censoring-its-own)
 * [2024-04-02, 22:47:13](https://news.ycombinator.com/item?id=39911674) - [Ask HN: How to choose the desktop platform and tech for desktop app development?](https://news.ycombinator.com/item?id=39911674)
 * [2024-04-02, 22:40:00](https://news.ycombinator.com/item?id=39911616) - [Show HN: Generate admin apps without writing a single line of code](https://github.com/dashpresshq/dashpress)
 * [2024-04-02, 22:37:03](https://news.ycombinator.com/item?id=39911594) - [Show HN: A Product Hunt Alternative for Indie Makers](https://www.indiehunting.com/)
@@ -19,7 +20,6 @@
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform WASM graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 16:16:07](https://news.ycombinator.com/item?id=39907468) - [Princeton group open sources \"SWE-agent\", with 12% fix rate for GitHub issues](https://github.com/princeton-nlp/SWE-agent)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with NextJS and AI](https://news.ycombinator.com/item?id=39907073)
-* [2024-04-02, 15:31:08](https://news.ycombinator.com/item?id=39906887) - [Recreating the Flying Toasters screen saver for the Vision Pro](https://abhipray.com/posts/flying_toasters/)
 * [2024-04-02, 09:15:35](https://news.ycombinator.com/item?id=39903738) - [Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 08:22:58](https://news.ycombinator.com/item?id=39903471) - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
