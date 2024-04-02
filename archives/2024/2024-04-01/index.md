@@ -75,6 +75,7 @@
 * [2024-04-01, 11:55:24](https://news.ycombinator.com/item?id=39893160) - [Ask HN: Freelance website builders/maintainers, what's in your 2024 toolkit?](https://news.ycombinator.com/item?id=39893160)
 * [2024-04-01, 11:52:41](https://news.ycombinator.com/item?id=39893142) - [Ask HN: What is the current (Apr. 2024) gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
 * [2024-04-01, 11:47:28](https://news.ycombinator.com/item?id=39893094) - [An Awk Implementation in C99](https://www.raygard.net/awkdoc/)
+* [2024-04-01, 11:46:53](https://news.ycombinator.com/item?id=39893090) - [Application of Locality Sensitive Hashing to audio fingerprinting](https://santhoshhari.github.io/Locality-Sensitive-Hashing/)
 * [2024-04-01, 11:07:39](https://news.ycombinator.com/item?id=39892813) - [What is Your Private Phone setup? (2022-2024)](https://discuss.privacyguides.net/t/what-is-your-private-phone-setup/97)
 * [2024-04-01, 10:41:53](https://news.ycombinator.com/item?id=39892634) - [Would you use a government-issued ID to prove your identity online?](https://www.abc.net.au/news/2024-04-01/government-backed-digital-id-passes-senate/103653648)
 * [2024-04-01, 10:39:27](https://news.ycombinator.com/item?id=39892622) - [Show HN: I built an API for Google autocomplete](https://keywordquill.com/)
