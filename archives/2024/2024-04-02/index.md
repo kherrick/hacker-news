@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
 * [2024-04-02, 18:32:48](https://news.ycombinator.com/item?id=39909246) - [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)
+* [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
 * [2024-04-02, 18:19:35](https://news.ycombinator.com/item?id=39909070) - [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)
 * [2024-04-02, 18:09:07](https://news.ycombinator.com/item?id=39908932) - [ComfyUI workflows from prototype to production](https://modal.com/blog/comfyui-prototype-to-production)
 * [2024-04-02, 18:05:41](https://news.ycombinator.com/item?id=39908891) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)

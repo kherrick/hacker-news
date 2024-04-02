@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-02, 18:32:48](https://news.ycombinator.com/item?id=39909246) - [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)
+* [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
 * [2024-04-02, 18:19:35](https://news.ycombinator.com/item?id=39909070) - [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)
 * [2024-04-02, 18:09:07](https://news.ycombinator.com/item?id=39908932) - [ComfyUI workflows from prototype to production](https://modal.com/blog/comfyui-prototype-to-production)
 * [2024-04-02, 18:05:41](https://news.ycombinator.com/item?id=39908891) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
@@ -29,7 +30,6 @@
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - ['10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-03-31, 07:30:27](https://news.ycombinator.com/item?id=39882203) - [(Free) Sam (Surface to Air Missile System) Simulator (2009)](https://sites.google.com/site/samsimulator1972/home)
 * [2024-03-30, 00:49:30](https://news.ycombinator.com/item?id=39870717) - [Figurative Representations in the North European Neolithic–Are They There?](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/figurative-representations-in-the-north-european-neolithicare-they-there/1907EFA10388E86A93E41C366C280133)
-* [2024-03-29, 03:05:02](https://news.ycombinator.com/item?id=39860207) - [Drawing Kolam patterns in stitches and code](https://alpaca.pubpub.org/pub/eljjyi80/release/5)
 
 ## [Archives](archives/index.md)
 
