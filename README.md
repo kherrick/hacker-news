@@ -2,7 +2,6 @@
 
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
-* [2024-04-02, 18:16:16](https://news.ycombinator.com/item?id=39909023) - [Botswana threatens to deport 20k elephants to Germany](https://www.politico.eu/article/botswana-president-mokgweetsi-masisi-threatens-deport-20000-elephants-germany/)
 * [2024-04-02, 18:09:07](https://news.ycombinator.com/item?id=39908932) - [Prototype to production with ComfyUI](https://modal.com/blog/comfyui-prototype-to-production)
 * [2024-04-02, 18:05:41](https://news.ycombinator.com/item?id=39908891) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 * [2024-04-02, 17:58:28](https://news.ycombinator.com/item?id=39908798) - [Study uses wearables to show that physical activity lengthens REM latency](https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/)
@@ -30,6 +29,7 @@
 * [2024-04-01, 15:01:04](https://news.ycombinator.com/item?id=39894823) - [Show HN: Floro – Visual Version Control](https://news.ycombinator.com/item?id=39894823)
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-03-31, 07:30:27](https://news.ycombinator.com/item?id=39882203) - [Free SAM (Surface to Air Missile) Simulator (2009)](https://sites.google.com/site/samsimulator1972/home)
+* [2024-03-31, 07:02:08](https://news.ycombinator.com/item?id=39882067) - [CamSimulate: Python app to stream Videos from files to video devices on computer](https://github.com/MK-1407/CamSimulate)
 
 ## [Archives](archives/index.md)
 
