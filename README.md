@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 13:15:26](https://news.ycombinator.com/item?id=39905388) - [Is MEV Possible on Bitcoin?](https://ethereum.stackexchange.com/questions/119253/is-mev-possible-on-bitcoin)
 * [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-02, 09:21:27](https://news.ycombinator.com/item?id=39903773) - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
@@ -18,7 +19,6 @@
 * [2024-04-01, 23:57:51](https://news.ycombinator.com/item?id=39900857) - [Pilot study shows ketogenic diet improves mental illness](https://med.stanford.edu/news/all-news/2024/04/keto-diet-mental-illness.html)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 17:07:36](https://news.ycombinator.com/item?id=39896371) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
-* [2024-04-01, 16:11:21](https://news.ycombinator.com/item?id=39895744) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://github.com/amlweems/xzbot)
 * [2024-04-01, 15:00:56](https://news.ycombinator.com/item?id=39894820) - [Ask HN: Who is hiring? (April 2024)](https://news.ycombinator.com/item?id=39894820)
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - ['10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
