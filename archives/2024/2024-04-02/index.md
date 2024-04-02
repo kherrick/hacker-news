@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 09:37:16](https://news.ycombinator.com/item?id=39903854) - [GNU Make Standard Library v1.2.2 released](https://github.com/jgrahamc/gmsl/releases/tag/v1.2.2)
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 * [2024-04-02, 08:35:21](https://news.ycombinator.com/item?id=39903516) - [Israeli airstrike on Gaza kills foreign aid workers](https://www.euronews.com/2024/04/02/israeli-airstrike-on-gaza-kills-foreign-aid-workers)
 * [2024-04-02, 08:30:18](https://news.ycombinator.com/item?id=39903497) - [MIT Claims They've Figured Out How to Make Fusion Energy Practical](https://www.msn.com/en-us/money/technology/mit-claims-they-ve-figured-out-how-to-make-fusion-energy-practical/ar-BB1kUejm)
 * [2024-04-02, 07:33:03](https://news.ycombinator.com/item?id=39903216) - [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
+* [2024-04-02, 06:58:36](https://news.ycombinator.com/item?id=39903056) - [KraftCloud](https://github.com/unikraft/unikraft)
 * [2024-04-02, 05:56:34](https://news.ycombinator.com/item?id=39902791) - [Copilot pane as annoying as Clippy may pop up in Windows 11](https://www.theregister.com/2024/03/05/copilot_update_windows_11_beta_build/)
 * [2024-04-02, 04:30:44](https://news.ycombinator.com/item?id=39902395) - [What Would Society Look Like If Extreme Wealth Were Impossible?](https://www.theatlantic.com/family/archive/2024/04/ingrid-robeyns-limitarianism-makes-case-capping-wealth/677925/)
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
