@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 17:27:06](https://news.ycombinator.com/item?id=39908436) - [Google to delete search data of millions who used incognito mode](https://text.npr.org/1242019127)
 * [2024-04-02, 17:06:25](https://news.ycombinator.com/item?id=39908146) - [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 * [2024-04-02, 17:02:10](https://news.ycombinator.com/item?id=39908089) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-04-02, 16:46:32](https://news.ycombinator.com/item?id=39907876) - [CityGaussian: Real-Time High-Quality Large-Scale Scene Rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 16:17:48](https://news.ycombinator.com/item?id=39907488) - [AltStore to offer iPhone apps backed by Patreon in the EU](https://9to5mac.com/2024/04/01/altstore-iphone-apps-patreon-eu/)
-* [2024-04-02, 15:56:46](https://news.ycombinator.com/item?id=39907230) - [Developing a Modern Full-Stack Application: Choosing the Right Tech Stack](https://isultan.bearblog.dev/modern-full-stack-development/)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with React/NextJS](https://news.ycombinator.com/item?id=39907073)
 * [2024-04-02, 15:33:38](https://news.ycombinator.com/item?id=39906924) - [Canoo spent double its annual revenue on the CEO's private jet](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
 * [2024-04-02, 15:31:08](https://news.ycombinator.com/item?id=39906887) - [Recreating a 90s Screen Saver (Flying Toasters) for the Vision Pro](https://abhipray.com/posts/flying_toasters/)
