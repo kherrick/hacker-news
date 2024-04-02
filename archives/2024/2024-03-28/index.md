@@ -103,6 +103,7 @@
 * [2024-03-28, 08:25:58](https://news.ycombinator.com/item?id=39848847) - [What things are happening in ML that we can't hear oer the din of LLMs?](https://news.ycombinator.com/item?id=39848847)
 * [2024-03-28, 08:21:14](https://news.ycombinator.com/item?id=39848828) - [Temperature Control Mugs Tested](https://www.seriouseats.com/best-temperature-control-mugs-5498744)
 * [2024-03-28, 07:44:29](https://news.ycombinator.com/item?id=39848657) - [AI hallucinates software packages and devs download them](https://www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/)
+* [2024-03-28, 07:14:42](https://news.ycombinator.com/item?id=39848508) - [Interop 2023: MDN Updates](https://developer.mozilla.org/en-US/blog/interop2023-mdn-doc-updates/)
 * [2024-03-28, 06:59:55](https://news.ycombinator.com/item?id=39848439) - [Treemap of World GDP by Purchasing Power Parity (PPP) 2020](https://treemap-world-economy.pages.dev)
 * [2024-03-28, 06:23:19](https://news.ycombinator.com/item?id=39848268) - [Endlessh-go: a Golang SSH tarpit that traps bots/scanners](https://github.com/shizunge/endlessh-go)
 * [2024-03-28, 06:13:00](https://news.ycombinator.com/item?id=39848221) - [Linux ext2 filesystem driver now marked as deprecated](https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/)

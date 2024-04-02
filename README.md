@@ -7,7 +7,6 @@
 * [2024-04-02, 01:09:26](https://news.ycombinator.com/item?id=39901290) - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
 * [2024-04-01, 19:37:40](https://news.ycombinator.com/item?id=39898221) - [But what is a GPT?  Visual intro to Transformers [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
 * [2024-04-01, 19:36:13](https://news.ycombinator.com/item?id=39898205) - [Bypassing Denuvo in Hogwarts Legacy](https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/)
 * [2024-04-01, 19:24:21](https://news.ycombinator.com/item?id=39898057) - [Virtual Pinhead](https://www.engineersneedart.com/blog/pinhead/pinhead.html)
@@ -30,6 +29,7 @@
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead (2021)](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 * [2024-03-28, 21:07:46](https://news.ycombinator.com/item?id=39857315) - [Blue Ball Machine](https://blueballfixed.ytmnd.com/)
 * [2024-03-28, 11:55:43](https://news.ycombinator.com/item?id=39850087) - [Property-based testing in practice [pdf]](https://harrisongoldste.in/papers/icse24-pbt-in-practice.pdf)
+* [2024-03-28, 07:14:42](https://news.ycombinator.com/item?id=39848508) - [Interop 2023: MDN Updates](https://developer.mozilla.org/en-US/blog/interop2023-mdn-doc-updates/)
 
 ## [Archives](archives/index.md)
 
