@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
 * [2024-04-02, 18:16:16](https://news.ycombinator.com/item?id=39909023) - [Botswana threatens to deport 20k elephants to Germany](https://www.politico.eu/article/botswana-president-mokgweetsi-masisi-threatens-deport-20000-elephants-germany/)
 * [2024-04-02, 18:09:07](https://news.ycombinator.com/item?id=39908932) - [Prototype to production with ComfyUI](https://modal.com/blog/comfyui-prototype-to-production)
@@ -9,7 +10,7 @@
 * [2024-04-02, 17:47:25](https://news.ycombinator.com/item?id=39908660) - [Artificio de Juanelo](https://en.wikipedia.org/wiki/Artificio_de_Juanelo)
 * [2024-04-02, 17:44:22](https://news.ycombinator.com/item?id=39908629) - [Konrad Zuse (1994)](http://www.xn--plankalkl-x9a.de)
 * [2024-04-02, 17:37:34](https://news.ycombinator.com/item?id=39908561) - [Competitive Bass Fishing Cheaters (2014)](https://grantland.com/features/bass-fishing-cheaters/)
-* [2024-04-02, 17:06:25](https://news.ycombinator.com/item?id=39908146) - [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
+* [2024-04-02, 17:06:25](https://news.ycombinator.com/item?id=39908146) - [Everything I know about SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 * [2024-04-02, 16:46:32](https://news.ycombinator.com/item?id=39907876) - [CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform WASM graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 16:16:07](https://news.ycombinator.com/item?id=39907468) - [Princeton group open sources \"SWE-agent\", with 12.3% fix rate for GitHub issues](https://github.com/princeton-nlp/SWE-agent)
@@ -23,13 +24,12 @@
 * [2024-04-02, 04:50:04](https://news.ycombinator.com/item?id=39902489) - [Debugging (2003)](https://airs.com/ian/essays/debug/debug.html)
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
 * [2024-04-02, 03:51:51](https://news.ycombinator.com/item?id=39902212) - [Bradford pear trees banned in few states – More are looking to eradicate them](https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/)
-* [2024-04-02, 03:50:58](https://news.ycombinator.com/item?id=39902207) - [Receive push notifications from your rice cooker](https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/)
 * [2024-04-01, 19:10:18](https://news.ycombinator.com/item?id=39897901) - [The Color of Silence](https://carlosalvarenga.substack.com/p/the-color-of-silence)
 * [2024-04-01, 17:57:53](https://news.ycombinator.com/item?id=39897020) - [Exploring versions of the Postgres logical replication protocol](https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol)
+* [2024-04-01, 15:03:37](https://news.ycombinator.com/item?id=39894871) - [The Great Oxygenation Event](https://bigthink.com/starts-with-a-bang/oxygen-killed-life-on-earth/)
 * [2024-04-01, 15:01:04](https://news.ycombinator.com/item?id=39894823) - [Show HN: Floro – Visual Version Control](https://news.ycombinator.com/item?id=39894823)
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-03-31, 07:30:27](https://news.ycombinator.com/item?id=39882203) - [Free SAM (Surface to Air Missile) Simulator (2009)](https://sites.google.com/site/samsimulator1972/home)
-* [2024-03-30, 00:49:30](https://news.ycombinator.com/item?id=39870717) - [Figurative Representations in the North European Neolithic–Are They There?](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/figurative-representations-in-the-north-european-neolithicare-they-there/1907EFA10388E86A93E41C366C280133)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 19:25:31](https://news.ycombinator.com/item?id=39909845) - [Apple wouldn't let Jon Stewart interview FTC Chair Lina Khan, TV host claims](https://arstechnica.com/gadgets/2024/04/apple-wouldnt-let-jon-stewart-interview-ftc-chair-lina-khan-tv-host-claims/)
 * [2024-04-02, 18:56:45](https://news.ycombinator.com/item?id=39909538) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2024-04-02, 18:32:48](https://news.ycombinator.com/item?id=39909246) - [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)

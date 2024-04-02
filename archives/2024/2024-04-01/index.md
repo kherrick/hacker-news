@@ -58,6 +58,7 @@
 * [2024-04-01, 15:23:49](https://news.ycombinator.com/item?id=39895114) - [What Caused the Red Sea Submarine Cable Cuts?](https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/)
 * [2024-04-01, 15:17:30](https://news.ycombinator.com/item?id=39895035) - [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
 * [2024-04-01, 15:11:13](https://news.ycombinator.com/item?id=39894965) - [10 Years of Hacker News \"Ask HN: Who Is Hiring\" Trends](https://customizedresumes.com/blog/hackernews-who-is-hiring-analysis)
+* [2024-04-01, 15:03:37](https://news.ycombinator.com/item?id=39894871) - [The Great Oxygenation Event](https://bigthink.com/starts-with-a-bang/oxygen-killed-life-on-earth/)
 * [2024-04-01, 15:03:21](https://news.ycombinator.com/item?id=39894866) - [Cancer signs could be spotted years before symptoms, says new research institute](https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute)
 * [2024-04-01, 15:02:50](https://news.ycombinator.com/item?id=39894858) - [Meow.camera](https://meow.camera)
 * [2024-04-01, 15:01:04](https://news.ycombinator.com/item?id=39894823) - [Show HN: Floro – Visual Version Control](https://news.ycombinator.com/item?id=39894823)
