@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 15:33:38](https://news.ycombinator.com/item?id=39906924) - [Canoo spent double its annual revenue on the CEO's private jet](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
 * [2024-04-02, 15:06:49](https://news.ycombinator.com/item?id=39906581) - [Apple AI researcher boast on-device model that 'substantially outperforms' GPT-4](https://9to5mac.com/2024/04/01/apple-ai-gpt-4/)
 * [2024-04-02, 15:02:10](https://news.ycombinator.com/item?id=39906536) - [Ask HN: Is a masters in ML worth it?](https://news.ycombinator.com/item?id=39906536)
 * [2024-04-02, 14:29:15](https://news.ycombinator.com/item?id=39906147) - [Tesla releases Q1 2024 deliveries: disastrous results](https://electrek.co/2024/04/02/tesla-releases-q1-2024-deliveries-disastrous-results/)
