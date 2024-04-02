@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-02, 12:18:00](https://news.ycombinator.com/item?id=39904877) - [Unforgivable: World Central Kitchen says seven aid workers killed in Gaza strike](https://www.axios.com/2024/04/02/gaza-aid-workers-killed-strike-world-central-kitchen)
 * [2024-04-02, 12:06:54](https://news.ycombinator.com/item?id=39904808) - [The end of Google Podcasts is in June if you're not in the US](https://notes.ghed.in/posts/2024/end-google-podcast-rest-of-world/)
 * [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-02, 09:21:27](https://news.ycombinator.com/item?id=39903773) - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
@@ -19,6 +18,7 @@
 * [2024-04-01, 23:57:51](https://news.ycombinator.com/item?id=39900857) - [Pilot study shows ketogenic diet improves mental illness](https://med.stanford.edu/news/all-news/2024/04/keto-diet-mental-illness.html)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 17:07:36](https://news.ycombinator.com/item?id=39896371) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
+* [2024-04-01, 16:11:21](https://news.ycombinator.com/item?id=39895744) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://github.com/amlweems/xzbot)
 * [2024-04-01, 15:00:56](https://news.ycombinator.com/item?id=39894820) - [Ask HN: Who is hiring? (April 2024)](https://news.ycombinator.com/item?id=39894820)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)
