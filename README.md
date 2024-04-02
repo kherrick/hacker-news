@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-02, 09:52:24](https://news.ycombinator.com/item?id=39903928) - [Redis' license change and forking are a mess that everybody can feel bad about](https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/)
-* [2024-04-02, 09:37:16](https://news.ycombinator.com/item?id=39903854) - [GNU Make Standard Library v1.2.2 released](https://github.com/jgrahamc/gmsl/releases/tag/v1.2.2)
 * [2024-04-02, 09:26:40](https://news.ycombinator.com/item?id=39903802) - [The Disarray Inside Boeing's 737 Factory Before the Door Plug Blowout](https://www.wsj.com/business/airlines/disarray-boeing-factory-door-plug-blowout-f063e27e)
 * [2024-04-02, 09:21:27](https://news.ycombinator.com/item?id=39903773) - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
@@ -18,8 +17,9 @@
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-01, 19:54:14](https://news.ycombinator.com/item?id=39898422) - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
-* [2024-04-01, 19:36:13](https://news.ycombinator.com/item?id=39898205) - [Bypassing Denuvo in Hogwarts Legacy](https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/)
 * [2024-04-01, 17:07:36](https://news.ycombinator.com/item?id=39896371) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
+* [2024-04-01, 16:30:48](https://news.ycombinator.com/item?id=39895960) - [Show HN: I just made my profitable online form builder open-sourced](https://github.com/heyform/heyform)
+* [2024-04-01, 16:11:21](https://news.ycombinator.com/item?id=39895744) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://github.com/amlweems/xzbot)
 * [2024-04-01, 15:00:56](https://news.ycombinator.com/item?id=39894820) - [Ask HN: Who is hiring? (April 2024)](https://news.ycombinator.com/item?id=39894820)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)
