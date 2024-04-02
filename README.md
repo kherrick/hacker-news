@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 17:02:10](https://news.ycombinator.com/item?id=39908089) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-04-02, 16:45:28](https://news.ycombinator.com/item?id=39907860) - [Population tipping point could arrive by 2030](https://www.science.org/content/article/population-tipping-point-could-arrive-2030)
 * [2024-04-02, 16:17:48](https://news.ycombinator.com/item?id=39907488) - [AltStore to offer iPhone apps backed by Patreon in the EU](https://9to5mac.com/2024/04/01/altstore-iphone-apps-patreon-eu/)
 * [2024-04-02, 15:56:46](https://news.ycombinator.com/item?id=39907230) - [Developing a Modern Full-Stack Application: Choosing the Right Tech Stack](https://isultan.bearblog.dev/modern-full-stack-development/)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with React/NextJS](https://news.ycombinator.com/item?id=39907073)
@@ -10,7 +12,6 @@
 * [2024-04-02, 13:40:01](https://news.ycombinator.com/item?id=39905644) - [DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
 * [2024-04-02, 13:20:21](https://news.ycombinator.com/item?id=39905441) - [Python Cloudflare Workers](https://blog.cloudflare.com/python-workers)
 * [2024-04-02, 13:09:42](https://news.ycombinator.com/item?id=39905335) - [Living human brain images of \"unrivaled clarity\" from new 11.7 teslas MRI](https://www.cea.fr/english/Pages/News/Iseult-MRI-Magnet-Record.aspx)
-* [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 * [2024-04-02, 09:15:35](https://news.ycombinator.com/item?id=39903738) - [Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
@@ -26,7 +27,6 @@
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - ['10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 11:46:53](https://news.ycombinator.com/item?id=39893090) - [Application of Locality Sensitive Hashing to audio fingerprinting](https://santhoshhari.github.io/Locality-Sensitive-Hashing/)
 * [2024-03-31, 12:09:07](https://news.ycombinator.com/item?id=39883531) - [PaperBack: How to store arbitrary data on A4 sheets of paper (2007)](https://ollydbg.de/Paperbak/#1)
-* [2024-03-31, 04:04:06](https://news.ycombinator.com/item?id=39881324) - [Original Pirate Material](https://www.historytoday.com/miscellanies/original-pirate-material)
 * [2024-03-31, 03:54:24](https://news.ycombinator.com/item?id=39881256) - [A Family Tree: Hippolyte Hodeau's Trench Art (Ca. 1917)](https://publicdomainreview.org/collection/hippolyte-hodeau-trench-art/)
 * [2024-03-29, 23:19:30](https://news.ycombinator.com/item?id=39870121) - [Refix: Fast, Debuggable, Reproducible Builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
 * [2024-03-29, 03:05:02](https://news.ycombinator.com/item?id=39860207) - [Drawing Kolam Patterns in Stitches and Code](https://alpaca.pubpub.org/pub/eljjyi80/release/5)
