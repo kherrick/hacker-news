@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-02, 15:43:56",
+      "https://news.ycombinator.com/item?id=39907073"
+    ],
+    [
+      "Launch HN: Creo (YC W24) – Build Internal Tools with React/NextJS",
+      "https://news.ycombinator.com/item?id=39907073"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 15:33:38",
       "https://news.ycombinator.com/item?id=39906924"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-04-02, 15:06:49",
-      "https://news.ycombinator.com/item?id=39906581"
+      "2024-04-02, 15:18:38",
+      "https://news.ycombinator.com/item?id=39906730"
     ],
     [
-      "Apple AI researcher boast on-device model that 'substantially outperforms' GPT-4",
-      "https://9to5mac.com/2024/04/01/apple-ai-gpt-4/"
+      "Snottite",
+      "https://en.wikipedia.org/wiki/Snottite"
     ]
   ],
   [
@@ -31,22 +41,12 @@
   ],
   [
     [
-      "2024-04-02, 14:28:51",
-      "https://news.ycombinator.com/item?id=39906143"
+      "2024-04-02, 15:00:53",
+      "https://news.ycombinator.com/item?id=39906511"
     ],
     [
-      "South Africa aims to be global supplier of HTR fuel",
-      "https://www.world-nuclear-news.org/Articles/South-Africa-aims-to-be-global-supplier-of-HTR-fue?feed=feed"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 13:54:57",
-      "https://news.ycombinator.com/item?id=39905803"
-    ],
-    [
-      "Python Workers",
-      "https://developers.cloudflare.com/workers/languages/python/"
+      "Building a Compiler in 25 Days [video]",
+      "https://www.youtube.com/watch?v=l3AeN4wQirE"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-04-02, 09:05:04",
+      "https://news.ycombinator.com/item?id=39903685"
+    ],
+    [
+      "The xz attack shell script",
+      "https://research.swtch.com/xz-script"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 08:22:58",
       "https://news.ycombinator.com/item?id=39903471"
     ],
@@ -187,16 +197,6 @@
     [
       "Low Cost Robot Arm",
       "https://github.com/AlexanderKoch-Koch/low_cost_robot"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 01:09:26",
-      "https://news.ycombinator.com/item?id=39901290"
-    ],
-    [
-      "Building GCC 1.27 (first GCC with x86 support) (2019)",
-      "http://kristerw.blogspot.com/2019/01/building-gcc-127.html"
     ]
   ],
   [
