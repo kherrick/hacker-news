@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 02:20:41](https://news.ycombinator.com/item?id=39901739) - [Part of California's famed Highway 1 crumbles into the ocean](https://www.cnn.com/travel/california-highway-1-damage-big-sur/index.html)
 * [2024-04-02, 01:09:26](https://news.ycombinator.com/item?id=39901290) - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
 * [2024-04-02, 01:08:54](https://news.ycombinator.com/item?id=39901289) - [A16Z blogs are just glorified marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
 * [2024-04-02, 00:24:56](https://news.ycombinator.com/item?id=39901040) - [A path out of bloat: A Linux built for VMs](https://www.theregister.com/2024/02/23/linux_built_for_a_vm/)
 * [2024-04-01, 23:03:29](https://news.ycombinator.com/item?id=39900422) - [Get a person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
-* [2024-04-01, 23:00:33](https://news.ycombinator.com/item?id=39900405) - [Big Banks Are \"Quiet Quitting\" Their Climate Promises](https://www.bloomberg.com/news/articles/2024-04-01/big-banks-are-cooling-on-climate-change-promises)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 22:35:23](https://news.ycombinator.com/item?id=39900197) - [OpenAI's comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
