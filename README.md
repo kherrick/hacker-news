@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
+* [2024-04-02, 04:03:45](https://news.ycombinator.com/item?id=39902271) - [Myscaledb: Open-source SQL vector database to build AI apps using SQL](https://github.com/myscale/myscaledb)
 * [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 * [2024-04-02, 03:34:13](https://news.ycombinator.com/item?id=39902130) - [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
 * [2024-04-02, 03:04:21](https://news.ycombinator.com/item?id=39901978) - [Banning open weight models would be a disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
@@ -19,7 +20,6 @@
 * [2024-04-01, 16:30:48](https://news.ycombinator.com/item?id=39895960) - [Show HN: I just made my profitable online form builder open-sourced](https://github.com/heyform/heyform)
 * [2024-04-01, 16:11:21](https://news.ycombinator.com/item?id=39895744) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://github.com/amlweems/xzbot)
-* [2024-04-01, 15:17:30](https://news.ycombinator.com/item?id=39895035) - [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
 * [2024-04-01, 15:00:56](https://news.ycombinator.com/item?id=39894820) - [Ask HN: Who is hiring? (April 2024)](https://news.ycombinator.com/item?id=39894820)
 * [2024-04-01, 15:00:55](https://news.ycombinator.com/item?id=39894818) - [Ask HN: Who wants to be hired? (April 2024)](https://news.ycombinator.com/item?id=39894818)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)

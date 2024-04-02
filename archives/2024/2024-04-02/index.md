@@ -7,6 +7,7 @@
 * [2024-04-02, 05:56:34](https://news.ycombinator.com/item?id=39902791) - [Copilot pane as annoying as Clippy may pop up in Windows 11](https://www.theregister.com/2024/03/05/copilot_update_windows_11_beta_build/)
 * [2024-04-02, 04:30:44](https://news.ycombinator.com/item?id=39902395) - [What Would Society Look Like If Extreme Wealth Were Impossible?](https://www.theatlantic.com/family/archive/2024/04/ingrid-robeyns-limitarianism-makes-case-capping-wealth/677925/)
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
+* [2024-04-02, 04:03:45](https://news.ycombinator.com/item?id=39902271) - [Myscaledb: Open-source SQL vector database to build AI apps using SQL](https://github.com/myscale/myscaledb)
 * [2024-04-02, 03:52:37](https://news.ycombinator.com/item?id=39902217) - [Jon Stewart on the False Promises of AI [video]](https://www.youtube.com/watch?v=20TAkcy3aBY)
 * [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 * [2024-04-02, 03:34:13](https://news.ycombinator.com/item?id=39902130) - [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
