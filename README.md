@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
+* [2024-04-02, 20:27:56](https://news.ycombinator.com/item?id=39910520) - [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
-* [2024-04-02, 18:09:07](https://news.ycombinator.com/item?id=39908932) - [Prototype to production with ComfyUI](https://modal.com/blog/comfyui-prototype-to-production)
 * [2024-04-02, 18:05:41](https://news.ycombinator.com/item?id=39908891) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 * [2024-04-02, 17:58:28](https://news.ycombinator.com/item?id=39908798) - [Study uses wearables to show that physical activity lengthens REM latency](https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/)
 * [2024-04-02, 17:47:25](https://news.ycombinator.com/item?id=39908660) - [Artificio de Juanelo](https://en.wikipedia.org/wiki/Artificio_de_Juanelo)
