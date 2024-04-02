@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 17:06:25](https://news.ycombinator.com/item?id=39908146) - [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 * [2024-04-02, 17:02:10](https://news.ycombinator.com/item?id=39908089) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-04-02, 16:46:32](https://news.ycombinator.com/item?id=39907876) - [CityGaussian: Real-Time High-Quality Large-Scale Scene Rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
 * [2024-04-02, 16:45:28](https://news.ycombinator.com/item?id=39907860) - [Population tipping point could arrive by 2030](https://www.science.org/content/article/population-tipping-point-could-arrive-2030)
+* [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 16:17:48](https://news.ycombinator.com/item?id=39907488) - [AltStore to offer iPhone apps backed by Patreon in the EU](https://9to5mac.com/2024/04/01/altstore-iphone-apps-patreon-eu/)
 * [2024-04-02, 16:15:58](https://news.ycombinator.com/item?id=39907466) - [Google Podcasts is gone – and so is my faith in Google](https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard)
 * [2024-04-02, 15:56:46](https://news.ycombinator.com/item?id=39907230) - [Developing a Modern Full-Stack Application: Choosing the Right Tech Stack](https://isultan.bearblog.dev/modern-full-stack-development/)
