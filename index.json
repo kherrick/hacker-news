@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-04-02, 17:49:00",
-      "https://news.ycombinator.com/item?id=39908676"
-    ],
-    [
-      "Stop using the Internet Archive as the sole host for preservation projects",
-      "https://old.reddit.com/r/DataHoarder/comments/1bswhdj/if_there_is_a_book_on_internet_archive_your/"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 17:47:25",
       "https://news.ycombinator.com/item?id=39908660"
     ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39907468"
     ],
     [
-      "Princeton group open sources \"SWE-agent\", with 12.3% fix rate for GitHub issues",
+      "Princeton group open sources \"SWE-agent\", with 12% fix rate for GitHub issues",
       "https://github.com/princeton-nlp/SWE-agent"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39907073"
     ],
     [
-      "Launch HN: Creo (YC W24) – Build internal tools with React/NextJS",
+      "Launch HN: Creo (YC W24) – Build internal tools with NextJS and AI",
       "https://news.ycombinator.com/item?id=39907073"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Show HN: OneUptime – open-source Datadog Alternative",
       "https://github.com/OneUptime/oneuptime"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 04:50:04",
+      "https://news.ycombinator.com/item?id=39902489"
+    ],
+    [
+      "Debugging (2003)",
+      "https://airs.com/ian/essays/debug/debug.html"
     ]
   ],
   [
