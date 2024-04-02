@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
+* [2024-04-01, 22:35:23](https://news.ycombinator.com/item?id=39900197) - [OpenAI's comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
 * [2024-04-01, 22:10:34](https://news.ycombinator.com/item?id=39900002) - [From its start, Gmail conditioned us to trade privacy for free services](https://www.engadget.com/from-its-start-gmail-conditioned-us-to-trade-privacy-for-free-services-120009741.html)
 * [2024-04-01, 21:38:43](https://news.ycombinator.com/item?id=39899685) - [California is gripped by economic problems, with no easy fix](https://www.economist.com/united-states/2024/03/31/california-is-gripped-by-interlocking-economic-problems-with-no-easy-solution)
 * [2024-04-01, 21:09:07](https://news.ycombinator.com/item?id=39899369) - [iFixit Announces New Spudger Pro and Spudger Pro Ultra](https://www.ifixit.com/News/93647/ifixit-announces-new-spudger-pro-and-spudger-pro-ultra)
