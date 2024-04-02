@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 23:03:29](https://news.ycombinator.com/item?id=39900422) - [Get a Person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 22:35:23](https://news.ycombinator.com/item?id=39900197) - [OpenAI's comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
 * [2024-04-01, 22:10:34](https://news.ycombinator.com/item?id=39900002) - [From its start, Gmail conditioned us to trade privacy for free services](https://www.engadget.com/from-its-start-gmail-conditioned-us-to-trade-privacy-for-free-services-120009741.html)

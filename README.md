@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 01:09:26](https://news.ycombinator.com/item?id=39901290) - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
+* [2024-04-02, 01:08:54](https://news.ycombinator.com/item?id=39901289) - [A16Z Blogs Are Just Glorified Marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
 * [2024-04-02, 00:35:24](https://news.ycombinator.com/item?id=39901101) - [Vision Transformers Are Overrated](https://frankzliu.com/blog/vision-transformers-are-overrated)
 * [2024-04-02, 00:24:56](https://news.ycombinator.com/item?id=39901040) - [A path out of bloat: A Linux built for VMs](https://www.theregister.com/2024/02/23/linux_built_for_a_vm/)
+* [2024-04-01, 23:03:29](https://news.ycombinator.com/item?id=39900422) - [Get a Person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 22:35:23](https://news.ycombinator.com/item?id=39900197) - [OpenAI's comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
 * [2024-04-01, 21:36:47](https://news.ycombinator.com/item?id=39899672) - [Why isn't anyone signing up?](https://imgz.org/blog/2024/02/25/why-isnt-anyone-signing-up/)
@@ -10,7 +13,6 @@
 * [2024-04-01, 19:54:14](https://news.ycombinator.com/item?id=39898422) - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 * [2024-04-01, 19:37:40](https://news.ycombinator.com/item?id=39898221) - [But what is a GPT?  Visual intro to Transformers [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
 * [2024-04-01, 19:36:13](https://news.ycombinator.com/item?id=39898205) - [Bypassing Denuvo in Hogwarts Legacy](https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/)
-* [2024-04-01, 19:24:21](https://news.ycombinator.com/item?id=39898057) - [Virtual Pinhead](https://www.engineersneedart.com/blog/pinhead/pinhead.html)
 * [2024-04-01, 18:29:12](https://news.ycombinator.com/item?id=39897418) - [Control Data Corporation's CDC 6600](https://chipsandcheese.com/2024/04/01/inside-control-data-corporations-cdc-6600/)
 * [2024-04-01, 17:50:54](https://news.ycombinator.com/item?id=39896923) - [RAGFlow is an open-source RAG engine based on OCR and document parsing](https://github.com/infiniflow/ragflow)
 * [2024-04-01, 17:07:36](https://news.ycombinator.com/item?id=39896371) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
@@ -19,7 +21,6 @@
 * [2024-04-01, 16:11:21](https://news.ycombinator.com/item?id=39895744) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-01, 15:40:28](https://news.ycombinator.com/item?id=39895344) - [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://github.com/amlweems/xzbot)
 * [2024-04-01, 15:29:17](https://news.ycombinator.com/item?id=39895184) - [Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
-* [2024-04-01, 15:23:58](https://news.ycombinator.com/item?id=39895115) - [Show HN: Parallel Arabic – Arabic reading and writing practice](https://parallel-arabic.com/)
 * [2024-04-01, 15:17:30](https://news.ycombinator.com/item?id=39895035) - [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
 * [2024-04-01, 15:00:56](https://news.ycombinator.com/item?id=39894820) - [Ask HN: Who is hiring? (April 2024)](https://news.ycombinator.com/item?id=39894820)
 * [2024-04-01, 15:00:55](https://news.ycombinator.com/item?id=39894818) - [Ask HN: Who wants to be hired? (April 2024)](https://news.ycombinator.com/item?id=39894818)
@@ -29,7 +30,6 @@
 * [2024-04-01, 02:15:05](https://news.ycombinator.com/item?id=39890250) - [Mycenaean Warriors and the Sea-Peoples (2013)](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
 * [2024-03-31, 05:41:34](https://news.ycombinator.com/item?id=39881749) - [Refurb weekend: Data General/One (and the worst LCD in the world)](http://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead (2021)](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
-* [2024-03-29, 03:03:55](https://news.ycombinator.com/item?id=39860199) - [RSS Feed Organization Strategies and New Feed Cost](https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html)
 
 ## [Archives](archives/index.md)
 
