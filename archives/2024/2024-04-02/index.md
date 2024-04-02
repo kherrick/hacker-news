@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 15:02:10](https://news.ycombinator.com/item?id=39906536) - [Ask HN: Is a masters in ML worth it?](https://news.ycombinator.com/item?id=39906536)
 * [2024-04-02, 14:29:15](https://news.ycombinator.com/item?id=39906147) - [Tesla releases Q1 2024 deliveries: disastrous results](https://electrek.co/2024/04/02/tesla-releases-q1-2024-deliveries-disastrous-results/)
 * [2024-04-02, 14:28:51](https://news.ycombinator.com/item?id=39906143) - [South Africa aims to be global supplier of HTR fuel](https://www.world-nuclear-news.org/Articles/South-Africa-aims-to-be-global-supplier-of-HTR-fue?feed=feed)
 * [2024-04-02, 14:27:07](https://news.ycombinator.com/item?id=39906123) - [Algojobs.io: simple tech-focused job board](https://algojobs.io/)
