@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 19:25:31](https://news.ycombinator.com/item?id=39909845) - [Apple wouldn't let Jon Stewart interview FTC Chair Lina Khan, TV host claims](https://arstechnica.com/gadgets/2024/04/apple-wouldnt-let-jon-stewart-interview-ftc-chair-lina-khan-tv-host-claims/)
+* [2024-04-02, 18:56:45](https://news.ycombinator.com/item?id=39909538) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2024-04-02, 18:32:48](https://news.ycombinator.com/item?id=39909246) - [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
 * [2024-04-02, 18:19:35](https://news.ycombinator.com/item?id=39909070) - [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)
@@ -27,6 +29,7 @@
 * [2024-04-02, 16:45:28](https://news.ycombinator.com/item?id=39907860) - [Population tipping point could arrive by 2030](https://www.science.org/content/article/population-tipping-point-could-arrive-2030)
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 16:17:48](https://news.ycombinator.com/item?id=39907488) - [AltStore to offer iPhone apps backed by Patreon in the EU](https://9to5mac.com/2024/04/01/altstore-iphone-apps-patreon-eu/)
+* [2024-04-02, 16:16:07](https://news.ycombinator.com/item?id=39907468) - [Princeton group open sources \"SWE-agent\", with 12.3% fix rate for GitHub issues](https://github.com/princeton-nlp/SWE-agent)
 * [2024-04-02, 16:15:58](https://news.ycombinator.com/item?id=39907466) - [Google Podcasts is gone – and so is my faith in Google](https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard)
 * [2024-04-02, 15:56:46](https://news.ycombinator.com/item?id=39907230) - [Developing a Modern Full-Stack Application: Choosing the Right Tech Stack](https://isultan.bearblog.dev/modern-full-stack-development/)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build Internal Tools with React/NextJS](https://news.ycombinator.com/item?id=39907073)
