@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 16:17:48](https://news.ycombinator.com/item?id=39907488) - [AltStore to offer iPhone apps backed by Patreon in the EU](https://9to5mac.com/2024/04/01/altstore-iphone-apps-patreon-eu/)
+* [2024-04-02, 16:15:58](https://news.ycombinator.com/item?id=39907466) - [Google Podcasts is gone – and so is my faith in Google](https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build Internal Tools with React/NextJS](https://news.ycombinator.com/item?id=39907073)
 * [2024-04-02, 15:33:38](https://news.ycombinator.com/item?id=39906924) - [Canoo spent double its annual revenue on the CEO's private jet](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
+* [2024-04-02, 15:31:08](https://news.ycombinator.com/item?id=39906887) - [Recreating a 90s Screen Saver (Flying Toasters) for the Vision Pro](https://abhipray.com/posts/flying_toasters/)
 * [2024-04-02, 15:18:38](https://news.ycombinator.com/item?id=39906730) - [Snottite](https://en.wikipedia.org/wiki/Snottite)
 * [2024-04-02, 15:06:49](https://news.ycombinator.com/item?id=39906581) - [Apple AI researcher boast on-device model that 'substantially outperforms' GPT-4](https://9to5mac.com/2024/04/01/apple-ai-gpt-4/)
 * [2024-04-02, 15:02:10](https://news.ycombinator.com/item?id=39906536) - [Ask HN: Is a masters in ML worth it?](https://news.ycombinator.com/item?id=39906536)
