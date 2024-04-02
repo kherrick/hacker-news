@@ -8,6 +8,7 @@
 * [2024-04-01, 22:35:23](https://news.ycombinator.com/item?id=39900197) - [OpenAI's comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
 * [2024-04-01, 22:10:34](https://news.ycombinator.com/item?id=39900002) - [From its start, Gmail conditioned us to trade privacy for free services](https://www.engadget.com/from-its-start-gmail-conditioned-us-to-trade-privacy-for-free-services-120009741.html)
 * [2024-04-01, 21:38:43](https://news.ycombinator.com/item?id=39899685) - [California is gripped by economic problems, with no easy fix](https://www.economist.com/united-states/2024/03/31/california-is-gripped-by-interlocking-economic-problems-with-no-easy-solution)
+* [2024-04-01, 21:36:47](https://news.ycombinator.com/item?id=39899672) - [Why isn't anyone signing up?](https://imgz.org/blog/2024/02/25/why-isnt-anyone-signing-up/)
 * [2024-04-01, 21:09:07](https://news.ycombinator.com/item?id=39899369) - [iFixit Announces New Spudger Pro and Spudger Pro Ultra](https://www.ifixit.com/News/93647/ifixit-announces-new-spudger-pro-and-spudger-pro-ultra)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
