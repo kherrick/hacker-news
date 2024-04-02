@@ -129,6 +129,25 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39908146">
+          <h3>
+            <a class="item" href="https://kcall.co.uk/ssd/index.html"
+              >Everything I Know About SSDs (2019)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-02 @ 17:06:25</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39908146"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39908089">
           <h3>
             <a class="item" href="https://www.easypost.com/careers"
@@ -140,6 +159,26 @@
               <span>2024-04-02 @ 17:02:10</span
               ><span class="points-container"
                 >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39907876">
+          <h3>
+            <a class="item" href="https://dekuliutesla.github.io/citygs/"
+              >CityGaussian: Real-Time High-Quality Large-Scale Scene Rendering
+              with Gaussians</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-02 @ 16:46:32</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39907876"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -156,13 +195,99 @@
             <h4>
               <span>2024-04-02 @ 16:45:28</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39907860"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="39907845">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=39907845"
+              >3D + 2D: Testing out my cross-platform graphics engine</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-02 @ 16:44:32</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39907845"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The graphics stack continues to be one of the biggest
+                bottlenecks in portability. One day I realized that WebAssembly
+                (Wasm) actually held the solution to the madness. It’s runnable
+                anywhere, embeddable into anything, and performant enough for
+                real-time graphics. So I quit my job and dove into the adventure
+                of creating a portable, embeddable WASM-based graphics framework
+                from the ground up: high-level enough for app developers to
+                easily make whatever graphics they want, and low-level enough to
+                take full advantage of the GPU and everything else needed for a
+                high-performance application.
+              </p>
+              <p>
+                I call it Renderlet to emphasize the embeddable aspect — you can
+                make self-contained graphics modules that do just what you want,
+                connect them together, and make them run <i>on</i> anything or
+                <i>in</i> anything with trivial interop.
+              </p>
+              <p>
+                If you think of how Unity made it easy for devs to build
+                cross-platform games, the idea is to do the same thing for all
+                visual applications.
+              </p>
+              <p>
+                Somewhere along the way I got into YC as a solo founder (!) but
+                mostly I’ve been heads-down building this thing for the last 6
+                months. It’s not <i>quite</i> ready for an open alpha release,
+                but it’s close - close enough that I’m ready to write about it,
+                show it off, and start getting feedback. This is the thing I
+                dreamed of as an application developer, and I want to know what
+                you think!
+              </p>
+              <p>
+                When Rive open-sourced their 2D vector engine and made a splash
+                on HN a couple weeks ago (<a
+                  href="https://news.ycombinator.com/item?id=39766893"
+                  >https://news.ycombinator.com/item?id=39766893</a
+                >), I was intrigued. Rive’s renderer is built as a higher-level
+                2D API similar to SVG, whereas the Wander renderer (the
+                open-source runtime part of Renderlet) exposes a lower-level 3D
+                API over the GPU. Could Renderlet use its GPU backend to run the
+                Rive Renderer library, enabling any 3D app to have a 2D vector
+                backend? Yes it can - I implemented it!
+              </p>
+              <p>
+                You can see it working here:
+                <a href="https://vimeo.com/929416955"
+                  >https://vimeo.com/929416955</a
+                >
+                and there’s a deep technical dive here:
+                <a
+                  href="https://github.com/renderlet/wander/wiki/Using-renderlet-with-rive%E2%80%90renderer"
+                  >https://github.com/renderlet/wander/wiki/Using-renderlet-wit...</a
+                >. The code for my runtime Wasm Renderer (a.k.a. Wander) is
+                here:
+                <a href="https://github.com/renderlet/wander"
+                  >https://github.com/renderlet/wander</a
+                >.
+              </p>
+              <p>
+                I’ll come back and do a proper Show HN or Launch HN when the
+                compiler is ready for anyone to use and I have the integration
+                working on all platforms, but I hope this is interesting enough
+                to take a look at now. I want to hear what you think of this!
+              </p>
+            </div>
           </section>
         </section>
         <section id="39907488">
@@ -177,11 +302,11 @@
             <h4>
               <span>2024-04-02 @ 16:17:48</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39907488"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -199,11 +324,11 @@
             <h4>
               <span>2024-04-02 @ 15:56:46</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39907230"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -219,11 +344,11 @@
             <h4>
               <span>2024-04-02 @ 15:43:56</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39907073"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
             <div class="text">
@@ -325,11 +450,11 @@
             <h4>
               <span>2024-04-02 @ 15:33:38</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39906924"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -345,49 +470,11 @@
             <h4>
               <span>2024-04-02 @ 15:31:08</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39906887"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39906730">
-          <h3>
-            <a class="item" href="https://en.wikipedia.org/wiki/Snottite"
-              >Snottite</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-02 @ 15:18:38</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39906730"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39906511">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=l3AeN4wQirE"
-              >Building a Compiler in 25 Days [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-02 @ 15:00:53</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39906511"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -404,7 +491,7 @@
             <h4>
               <span>2024-04-02 @ 13:40:01</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39905644"
                   >Comments</a
@@ -423,33 +510,11 @@
             <h4>
               <span>2024-04-02 @ 13:20:21</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39905441"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39905335">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cea.fr/english/Pages/News/Iseult-MRI-Magnet-Record.aspx"
-              >Living human brain images of "unrivaled clarity" from new 11.7
-              teslas MRI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-02 @ 13:09:42</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39905335"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -464,11 +529,11 @@
             <h4>
               <span>2024-04-02 @ 09:16:24</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39903742"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -485,11 +550,11 @@
             <h4>
               <span>2024-04-02 @ 09:15:35</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39903738"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -504,7 +569,7 @@
             <h4>
               <span>2024-04-02 @ 09:05:04</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39903685"
                   >Comments</a
@@ -523,11 +588,11 @@
             <h4>
               <span>2024-04-02 @ 08:22:58</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39903471"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -542,11 +607,11 @@
             <h4>
               <span>2024-04-02 @ 06:58:36</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39903056"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -580,11 +645,11 @@
             <h4>
               <span>2024-04-02 @ 03:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">558</span></span
+                >Points: <span class="points">568</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39902241"
                   >Comments</a
-                ><span class="descendants">: 276</span></span
+                ><span class="descendants">: 280</span></span
               >
             </h4>
           </section>
@@ -602,11 +667,11 @@
             <h4>
               <span>2024-04-02 @ 03:51:51</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39902212"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -623,11 +688,11 @@
             <h4>
               <span>2024-04-02 @ 03:50:58</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39902207"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -644,11 +709,11 @@
             <h4>
               <span>2024-04-02 @ 03:50:18</span
               ><span class="points-container"
-                >Points: <span class="points">387</span></span
+                >Points: <span class="points">392</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39902205"
                   >Comments</a
-                ><span class="descendants">: 189</span></span
+                ><span class="descendants">: 190</span></span
               >
             </h4>
           </section>
@@ -666,7 +731,7 @@
             <h4>
               <span>2024-04-01 @ 17:57:53</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39897020"
                   >Comments</a
@@ -685,11 +750,11 @@
             <h4>
               <span>2024-04-01 @ 15:01:04</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39894823"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -801,7 +866,7 @@
             <h4>
               <span>2024-04-01 @ 13:48:07</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39894148"
                   >Comments</a
@@ -843,11 +908,32 @@
             <h4>
               <span>2024-03-31 @ 12:09:07</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39883531"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39882203">
+          <h3>
+            <a
+              class="item"
+              href="https://sites.google.com/site/samsimulator1972/home"
+              >(Free) Sam (Surface to Air Missile System) Simulator (2009)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-03-31 @ 07:30:27</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39882203"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -864,32 +950,11 @@
             <h4>
               <span>2024-03-31 @ 03:54:24</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39881256"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39870121">
-          <h3>
-            <a
-              class="item"
-              href="https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html"
-              >Refix: Fast, Debuggable, Reproducible Builds</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-03-29 @ 23:19:30</span
-              ><span class="points-container"
-                >Points: <span class="points">100</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39870121"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -906,7 +971,7 @@
             <h4>
               <span>2024-03-29 @ 03:05:02</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39860207"
                   >Comments</a
