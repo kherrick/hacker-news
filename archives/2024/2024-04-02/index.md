@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 21:39:49](https://news.ycombinator.com/item?id=39911155) - [Science Fiction and the Death of the Sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 * [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
 * [2024-04-02, 20:27:56](https://news.ycombinator.com/item?id=39910520) - [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
