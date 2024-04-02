@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 04:30:44](https://news.ycombinator.com/item?id=39902395) - [What Would Society Look Like If Extreme Wealth Were Impossible?](https://www.theatlantic.com/family/archive/2024/04/ingrid-robeyns-limitarianism-makes-case-capping-wealth/677925/)
+* [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
 * [2024-04-02, 03:52:37](https://news.ycombinator.com/item?id=39902217) - [Jon Stewart on the False Promises of AI [video]](https://www.youtube.com/watch?v=20TAkcy3aBY)
 * [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+* [2024-04-02, 03:34:13](https://news.ycombinator.com/item?id=39902130) - [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
 * [2024-04-02, 03:04:21](https://news.ycombinator.com/item?id=39901978) - [Banning Open Weight Models Would Be a Disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
 * [2024-04-02, 02:25:46](https://news.ycombinator.com/item?id=39901775) - [What is T-Mobile's \"Profiling and automated decisions\" app setting about?](https://news.ycombinator.com/item?id=39901775)
 * [2024-04-02, 02:21:55](https://news.ycombinator.com/item?id=39901745) - [Key Safari designer departs Apple to join 'The Browser Company'](https://9to5mac.com/2024/04/01/safari-designer-apple-arc-browser/)
