@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build Internal Tools with React/NextJS](https://news.ycombinator.com/item?id=39907073)
 * [2024-04-02, 15:33:38](https://news.ycombinator.com/item?id=39906924) - [Canoo spent double its annual revenue on the CEO's private jet](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
+* [2024-04-02, 15:18:38](https://news.ycombinator.com/item?id=39906730) - [Snottite](https://en.wikipedia.org/wiki/Snottite)
 * [2024-04-02, 15:06:49](https://news.ycombinator.com/item?id=39906581) - [Apple AI researcher boast on-device model that 'substantially outperforms' GPT-4](https://9to5mac.com/2024/04/01/apple-ai-gpt-4/)
 * [2024-04-02, 15:02:10](https://news.ycombinator.com/item?id=39906536) - [Ask HN: Is a masters in ML worth it?](https://news.ycombinator.com/item?id=39906536)
+* [2024-04-02, 15:00:53](https://news.ycombinator.com/item?id=39906511) - [Building a Compiler in 25 Days [video]](https://www.youtube.com/watch?v=l3AeN4wQirE)
 * [2024-04-02, 14:29:15](https://news.ycombinator.com/item?id=39906147) - [Tesla releases Q1 2024 deliveries: disastrous results](https://electrek.co/2024/04/02/tesla-releases-q1-2024-deliveries-disastrous-results/)
 * [2024-04-02, 14:28:51](https://news.ycombinator.com/item?id=39906143) - [South Africa aims to be global supplier of HTR fuel](https://www.world-nuclear-news.org/Articles/South-Africa-aims-to-be-global-supplier-of-HTR-fue?feed=feed)
 * [2024-04-02, 14:27:07](https://news.ycombinator.com/item?id=39906123) - [Algojobs.io: simple tech-focused job board](https://algojobs.io/)
@@ -26,6 +29,7 @@
 * [2024-04-02, 09:26:40](https://news.ycombinator.com/item?id=39903802) - [The Disarray Inside Boeing's 737 Factory Before the Door Plug Blowout](https://www.wsj.com/business/airlines/disarray-boeing-factory-door-plug-blowout-f063e27e)
 * [2024-04-02, 09:21:27](https://news.ycombinator.com/item?id=39903773) - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
+* [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 08:35:21](https://news.ycombinator.com/item?id=39903516) - [Israeli airstrike on Gaza kills foreign aid workers](https://www.euronews.com/2024/04/02/israeli-airstrike-on-gaza-kills-foreign-aid-workers)
 * [2024-04-02, 08:30:18](https://news.ycombinator.com/item?id=39903497) - [MIT Claims They've Figured Out How to Make Fusion Energy Practical](https://www.msn.com/en-us/money/technology/mit-claims-they-ve-figured-out-how-to-make-fusion-energy-practical/ar-BB1kUejm)
 * [2024-04-02, 08:22:58](https://news.ycombinator.com/item?id=39903471) - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
