@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 15:06:49](https://news.ycombinator.com/item?id=39906581) - [Apple AI researcher boast on-device model that 'substantially outperforms' GPT-4](https://9to5mac.com/2024/04/01/apple-ai-gpt-4/)
 * [2024-04-02, 15:02:10](https://news.ycombinator.com/item?id=39906536) - [Ask HN: Is a masters in ML worth it?](https://news.ycombinator.com/item?id=39906536)
 * [2024-04-02, 14:29:15](https://news.ycombinator.com/item?id=39906147) - [Tesla releases Q1 2024 deliveries: disastrous results](https://electrek.co/2024/04/02/tesla-releases-q1-2024-deliveries-disastrous-results/)
 * [2024-04-02, 14:28:51](https://news.ycombinator.com/item?id=39906143) - [South Africa aims to be global supplier of HTR fuel](https://www.world-nuclear-news.org/Articles/South-Africa-aims-to-be-global-supplier-of-HTR-fue?feed=feed)
@@ -14,6 +15,7 @@
 * [2024-04-02, 13:23:18](https://news.ycombinator.com/item?id=39905475) - [Yahoo is buying Artifact, the AI news app from the Instagram co-founders](https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition)
 * [2024-04-02, 13:20:21](https://news.ycombinator.com/item?id=39905441) - [Python Cloudflare Workers](https://blog.cloudflare.com/python-workers)
 * [2024-04-02, 13:15:26](https://news.ycombinator.com/item?id=39905388) - [Is MEV Possible on Bitcoin?](https://ethereum.stackexchange.com/questions/119253/is-mev-possible-on-bitcoin)
+* [2024-04-02, 13:09:42](https://news.ycombinator.com/item?id=39905335) - [Living human brain images of \"unrivaled clarity\" from new 11.7 teslas MRI](https://www.cea.fr/english/Pages/News/Iseult-MRI-Magnet-Record.aspx)
 * [2024-04-02, 12:19:41](https://news.ycombinator.com/item?id=39904883) - [Hunting up-to-date Wikidata datasets](https://news.ycombinator.com/item?id=39904883)
 * [2024-04-02, 12:18:00](https://news.ycombinator.com/item?id=39904877) - [Unforgivable: World Central Kitchen says seven aid workers killed in Gaza strike](https://www.axios.com/2024/04/02/gaza-aid-workers-killed-strike-world-central-kitchen)
 * [2024-04-02, 12:06:54](https://news.ycombinator.com/item?id=39904808) - [The end of Google Podcasts is in June if you're not in the US](https://notes.ghed.in/posts/2024/end-google-podcast-rest-of-world/)
