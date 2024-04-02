@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-02, 02:20:41](https://news.ycombinator.com/item?id=39901739) - [Part of California's famed Highway 1 crumbles into the ocean](https://www.cnn.com/travel/california-highway-1-damage-big-sur/index.html)
 * [2024-04-02, 01:09:26](https://news.ycombinator.com/item?id=39901290) - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
 * [2024-04-02, 01:08:54](https://news.ycombinator.com/item?id=39901289) - [A16Z blogs are just glorified marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
-* [2024-04-02, 00:24:56](https://news.ycombinator.com/item?id=39901040) - [A path out of bloat: A Linux built for VMs](https://www.theregister.com/2024/02/23/linux_built_for_a_vm/)
 * [2024-04-01, 23:03:29](https://news.ycombinator.com/item?id=39900422) - [Get a person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 22:35:23](https://news.ycombinator.com/item?id=39900197) - [OpenAI's comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
@@ -28,8 +26,10 @@
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)
 * [2024-04-01, 02:15:05](https://news.ycombinator.com/item?id=39890250) - [Mycenaean Warriors and the Sea-Peoples (2013)](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
 * [2024-03-31, 05:41:34](https://news.ycombinator.com/item?id=39881749) - [Refurb weekend: Data General/One (and the worst LCD in the world)](http://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
+* [2024-03-29, 23:19:30](https://news.ycombinator.com/item?id=39870121) - [Refix: Fast, Debuggable, Reproducible Builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead (2021)](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
-* [2024-03-29, 03:03:55](https://news.ycombinator.com/item?id=39860199) - [RSS Feed Organization Strategies and New Feed Cost](https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html)
+* [2024-03-28, 21:07:46](https://news.ycombinator.com/item?id=39857315) - [Blue Ball Machine](https://blueballfixed.ytmnd.com/)
+* [2024-03-28, 11:55:43](https://news.ycombinator.com/item?id=39850087) - [Property-based testing in practice [pdf]](https://harrisongoldste.in/papers/icse24-pbt-in-practice.pdf)
 
 ## [Archives](archives/index.md)
 
