@@ -82,6 +82,7 @@
 * [2024-03-31, 10:54:19](https://news.ycombinator.com/item?id=39883123) - [WSJ: AI industry spent 17x more on Nvidia chips than it brought in in revenue](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
 * [2024-03-31, 10:44:49](https://news.ycombinator.com/item?id=39883089) - [Ask HN: How bad is the xz hack?](https://news.ycombinator.com/item?id=39883089)
 * [2024-03-31, 10:42:04](https://news.ycombinator.com/item?id=39883072) - [How read-intensive is Linux's use of RCU? (And what is its latency?)](https://paulmck.livejournal.com/67547.html)
+* [2024-03-31, 10:40:47](https://news.ycombinator.com/item?id=39883064) - [Documentation as code: Principles, workflow, and challenges](https://www.tabnine.com/blog/documentation-as-code-principles-workflow-and-challenges/)
 * [2024-03-31, 10:29:39](https://news.ycombinator.com/item?id=39883005) - [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=39883005)
 * [2024-03-31, 09:58:26](https://news.ycombinator.com/item?id=39882873) - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
 * [2024-03-31, 09:48:20](https://news.ycombinator.com/item?id=39882810) - [The unreasonable effectiveness of VMs in hacker pedagogy](https://hiandrewquinn.github.io/til-site/posts/the-unreasonable-effectiveness-of-vms-in-hacker-pedagogy/)
