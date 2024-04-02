@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 07:33:03](https://news.ycombinator.com/item?id=39903216) - [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
 * [2024-04-02, 04:03:45](https://news.ycombinator.com/item?id=39902271) - [Myscaledb: Open-source SQL vector database to build AI apps using SQL](https://github.com/myscale/myscaledb)
 * [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
@@ -8,7 +9,6 @@
 * [2024-04-02, 02:09:08](https://news.ycombinator.com/item?id=39901655) - [From xz to ibus: more questionable tarballs](https://www.openwall.com/lists/oss-security/2024/04/01/1)
 * [2024-04-02, 01:09:26](https://news.ycombinator.com/item?id=39901290) - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
-* [2024-04-01, 22:35:23](https://news.ycombinator.com/item?id=39900197) - [OpenAI's comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
 * [2024-04-01, 19:54:14](https://news.ycombinator.com/item?id=39898422) - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
