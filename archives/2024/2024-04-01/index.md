@@ -33,6 +33,7 @@
 * [2024-04-01, 18:29:12](https://news.ycombinator.com/item?id=39897418) - [Control Data Corporation's CDC 6600](https://chipsandcheese.com/2024/04/01/inside-control-data-corporations-cdc-6600/)
 * [2024-04-01, 18:13:58](https://news.ycombinator.com/item?id=39897233) - [Good information still pollutes the epistemic ecosystem](https://ronghosh.substack.com/p/good-information-still-pollutes-the)
 * [2024-04-01, 18:04:41](https://news.ycombinator.com/item?id=39897112) - [Show HN: Exponentile – A match 3 game mixed with 2048](https://www.bellika.dk/exponentile)
+* [2024-04-01, 17:57:53](https://news.ycombinator.com/item?id=39897020) - [Exploring versions of the Postgres logical replication protocol](https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol)
 * [2024-04-01, 17:56:14](https://news.ycombinator.com/item?id=39896994) - [First human case of avian flu in Texas](https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949)
 * [2024-04-01, 17:50:54](https://news.ycombinator.com/item?id=39896923) - [RAGFlow is an open-source RAG engine based on deep document understanding](https://github.com/infiniflow/ragflow)
 * [2024-04-01, 17:38:16](https://news.ycombinator.com/item?id=39896745) - [The `xz` package backdoor is just the tip of the iceberg](https://twitter.com/feross/status/1774153518800404494)
