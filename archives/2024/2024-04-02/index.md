@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+* [2024-04-02, 03:04:21](https://news.ycombinator.com/item?id=39901978) - [Banning Open Weight Models Would Be a Disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
 * [2024-04-02, 02:25:46](https://news.ycombinator.com/item?id=39901775) - [What is T-Mobile's \"Profiling and automated decisions\" app setting about?](https://news.ycombinator.com/item?id=39901775)
 * [2024-04-02, 02:21:55](https://news.ycombinator.com/item?id=39901745) - [Key Safari designer departs Apple to join 'The Browser Company'](https://9to5mac.com/2024/04/01/safari-designer-apple-arc-browser/)
 * [2024-04-02, 02:20:41](https://news.ycombinator.com/item?id=39901739) - [Part of California's famed Highway 1 crumbles into the ocean](https://www.cnn.com/travel/california-highway-1-damage-big-sur/index.html)
