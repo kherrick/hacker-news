@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 09:52:24](https://news.ycombinator.com/item?id=39903928) - [Redis' license change and forking are a mess that everybody can feel bad about](https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/)
 * [2024-04-02, 09:37:16](https://news.ycombinator.com/item?id=39903854) - [GNU Make Standard Library v1.2.2 released](https://github.com/jgrahamc/gmsl/releases/tag/v1.2.2)
+* [2024-04-02, 09:26:40](https://news.ycombinator.com/item?id=39903802) - [The Disarray Inside Boeing's 737 Factory Before the Door Plug Blowout](https://www.wsj.com/business/airlines/disarray-boeing-factory-door-plug-blowout-f063e27e)
+* [2024-04-02, 09:21:27](https://news.ycombinator.com/item?id=39903773) - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 * [2024-04-02, 08:35:21](https://news.ycombinator.com/item?id=39903516) - [Israeli airstrike on Gaza kills foreign aid workers](https://www.euronews.com/2024/04/02/israeli-airstrike-on-gaza-kills-foreign-aid-workers)
 * [2024-04-02, 08:30:18](https://news.ycombinator.com/item?id=39903497) - [MIT Claims They've Figured Out How to Make Fusion Energy Practical](https://www.msn.com/en-us/money/technology/mit-claims-they-ve-figured-out-how-to-make-fusion-energy-practical/ar-BB1kUejm)
