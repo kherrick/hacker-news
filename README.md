@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-02, 04:30:44](https://news.ycombinator.com/item?id=39902395) - [What Would Society Look Like If Extreme Wealth Were Impossible?](https://www.theatlantic.com/family/archive/2024/04/ingrid-robeyns-limitarianism-makes-case-capping-wealth/677925/)
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
 * [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 * [2024-04-02, 03:34:13](https://news.ycombinator.com/item?id=39902130) - [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
 * [2024-04-02, 03:04:21](https://news.ycombinator.com/item?id=39901978) - [Banning open weight models would be a disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
 * [2024-04-02, 01:09:26](https://news.ycombinator.com/item?id=39901290) - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
 * [2024-04-02, 01:08:54](https://news.ycombinator.com/item?id=39901289) - [A16Z blogs are just glorified marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
+* [2024-04-01, 23:03:29](https://news.ycombinator.com/item?id=39900422) - [Get a person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
