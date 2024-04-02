@@ -16,6 +16,7 @@
 * [2024-04-02, 16:16:07](https://news.ycombinator.com/item?id=39907468) - [Princeton group open sources \"SWE-agent\", with 12% fix rate for GitHub issues](https://github.com/princeton-nlp/SWE-agent)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with NextJS and AI](https://news.ycombinator.com/item?id=39907073)
 * [2024-04-02, 15:31:08](https://news.ycombinator.com/item?id=39906887) - [Recreating the Flying Toasters screen saver for the Vision Pro](https://abhipray.com/posts/flying_toasters/)
+* [2024-04-02, 13:40:01](https://news.ycombinator.com/item?id=39905644) - [DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
 * [2024-04-02, 09:15:35](https://news.ycombinator.com/item?id=39903738) - [Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 08:22:58](https://news.ycombinator.com/item?id=39903471) - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
@@ -28,7 +29,6 @@
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
 * [2024-03-31, 07:30:27](https://news.ycombinator.com/item?id=39882203) - [Free SAM (Surface to Air Missile) Simulator (2009)](https://sites.google.com/site/samsimulator1972/home)
-* [2024-03-31, 07:02:08](https://news.ycombinator.com/item?id=39882067) - [CamSimulate: Python app to stream Videos from files to video devices on computer](https://github.com/MK-1407/CamSimulate)
 * [2024-03-31, 03:44:46](https://news.ycombinator.com/item?id=39881212) - [Activating Browser Modes with Doctype](https://hsivonen.fi/doctype/)
 
 ## [Archives](archives/index.md)
