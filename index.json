@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-02, 19:25:31",
-      "https://news.ycombinator.com/item?id=39909845"
-    ],
-    [
-      "Apple wouldn't let Jon Stewart interview FTC Chair Lina Khan, TV host claims",
-      "https://arstechnica.com/gadgets/2024/04/apple-wouldnt-let-jon-stewart-interview-ftc-chair-lina-khan-tv-host-claims/"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 18:56:45",
       "https://news.ycombinator.com/item?id=39909538"
     ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=39908561"
     ],
     [
-      "The secret world of competitive bass fishing cheaters (2014)",
+      "Competitive Bass Fishing Cheaters (2014)",
       "https://grantland.com/features/bass-fishing-cheaters/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39907845"
     ],
     [
-      "3D + 2D: Testing out my cross-platform graphics engine",
+      "3D + 2D: Testing out my cross-platform WASM graphics engine",
       "https://news.ycombinator.com/item?id=39907845"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Los Alamos Chess",
       "https://en.wikipedia.org/wiki/Los_Alamos_chess"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 09:05:04",
+      "https://news.ycombinator.com/item?id=39903685"
+    ],
+    [
+      "The xz attack shell script",
+      "https://research.swtch.com/xz-script"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=39894148"
     ],
     [
-      "'10 > 64, in QR Codes",
+      "10 > 64, in QR Codes",
       "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39882203"
     ],
     [
-      "(Free) Sam (Surface to Air Missile System) Simulator (2009)",
+      "Free SAM (Surface to Air Missile) Simulator (2009)",
       "https://sites.google.com/site/samsimulator1972/home"
     ]
   ],
