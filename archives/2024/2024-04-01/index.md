@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 23:57:51](https://news.ycombinator.com/item?id=39900857) - [Pilot study shows ketogenic diet improves mental illness](https://med.stanford.edu/news/all-news/2024/04/keto-diet-mental-illness.html)
 * [2024-04-01, 23:03:29](https://news.ycombinator.com/item?id=39900422) - [Get a Person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
 * [2024-04-01, 23:00:33](https://news.ycombinator.com/item?id=39900405) - [Big Banks Are \"Quiet Quitting\" Their Climate Promises](https://www.bloomberg.com/news/articles/2024-04-01/big-banks-are-cooling-on-climate-change-promises)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)

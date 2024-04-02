@@ -11,6 +11,8 @@
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 * [2024-04-02, 08:35:21](https://news.ycombinator.com/item?id=39903516) - [Israeli airstrike on Gaza kills foreign aid workers](https://www.euronews.com/2024/04/02/israeli-airstrike-on-gaza-kills-foreign-aid-workers)
 * [2024-04-02, 08:30:18](https://news.ycombinator.com/item?id=39903497) - [MIT Claims They've Figured Out How to Make Fusion Energy Practical](https://www.msn.com/en-us/money/technology/mit-claims-they-ve-figured-out-how-to-make-fusion-energy-practical/ar-BB1kUejm)
+* [2024-04-02, 08:22:58](https://news.ycombinator.com/item?id=39903471) - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
+* [2024-04-02, 07:43:40](https://news.ycombinator.com/item?id=39903267) - [Show HN: Docfd: TUI multiline fuzzy document finder](https://github.com/darrenldl/docfd)
 * [2024-04-02, 07:33:03](https://news.ycombinator.com/item?id=39903216) - [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
 * [2024-04-02, 06:58:36](https://news.ycombinator.com/item?id=39903056) - [KraftCloud](https://github.com/unikraft/unikraft)
 * [2024-04-02, 05:56:34](https://news.ycombinator.com/item?id=39902791) - [Copilot pane as annoying as Clippy may pop up in Windows 11](https://www.theregister.com/2024/03/05/copilot_update_windows_11_beta_build/)
