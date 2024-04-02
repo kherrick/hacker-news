@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-02, 09:52:24](https://news.ycombinator.com/item?id=39903928) - [Redis' license change and forking are a mess that everybody can feel bad about](https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/)
-* [2024-04-02, 09:26:40](https://news.ycombinator.com/item?id=39903802) - [The Disarray Inside Boeing's 737 Factory Before the Door Plug Blowout](https://www.wsj.com/business/airlines/disarray-boeing-factory-door-plug-blowout-f063e27e)
 * [2024-04-02, 09:21:27](https://news.ycombinator.com/item?id=39903773) - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 * [2024-04-02, 08:22:58](https://news.ycombinator.com/item?id=39903471) - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
+* [2024-04-02, 07:43:40](https://news.ycombinator.com/item?id=39903267) - [Show HN: Docfd: TUI multiline fuzzy document finder](https://github.com/darrenldl/docfd)
+* [2024-04-02, 07:33:03](https://news.ycombinator.com/item?id=39903216) - [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
 * [2024-04-02, 06:58:36](https://news.ycombinator.com/item?id=39903056) - [KraftCloud](https://github.com/unikraft/unikraft)
 * [2024-04-02, 04:24:18](https://news.ycombinator.com/item?id=39902372) - [You won't find a technical co-founder](https://www.breakneck.dev/blog/no-tech-cofounder)
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
