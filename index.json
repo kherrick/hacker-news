@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-02, 07:33:03",
+      "https://news.ycombinator.com/item?id=39903216"
+    ],
+    [
+      "XZ: Repo maintainer Lasse Collin responding on LKML",
+      "https://lkml.org/lkml/2024/3/30/188"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 04:19:52",
       "https://news.ycombinator.com/item?id=39902350"
     ],
@@ -77,16 +87,6 @@
     [
       "Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy",
       "https://github.com/pufferffish/wireproxy"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 22:35:23",
-      "https://news.ycombinator.com/item?id=39900197"
-    ],
-    [
-      "OpenAI's comment to the NTIA on open model weights",
-      "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights"
     ]
   ],
   [
