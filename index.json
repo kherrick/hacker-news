@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-04-02, 16:15:58",
-      "https://news.ycombinator.com/item?id=39907466"
+      "2024-04-02, 15:56:46",
+      "https://news.ycombinator.com/item?id=39907230"
     ],
     [
-      "Google Podcasts is gone – and so is my faith in Google",
-      "https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard"
+      "Developing a Modern Full-Stack Application: Choosing the Right Tech Stack",
+      "https://isultan.bearblog.dev/modern-full-stack-development/"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-04-02, 13:23:18",
-      "https://news.ycombinator.com/item?id=39905475"
-    ],
-    [
-      "Yahoo is buying Artifact, the AI news app from the Instagram co-founders",
-      "https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 13:20:21",
       "https://news.ycombinator.com/item?id=39905441"
     ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2024-04-02, 12:19:41",
-      "https://news.ycombinator.com/item?id=39904883"
-    ],
-    [
-      "Hunting up-to-date Wikidata datasets",
-      "https://news.ycombinator.com/item?id=39904883"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 12:00:29",
       "https://news.ycombinator.com/item?id=39904759"
     ],
@@ -137,6 +117,16 @@
     [
       "Debian Git Monorepo",
       "https://blog.liw.fi/posts/2024/monorepo/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 09:15:35",
+      "https://news.ycombinator.com/item?id=39903738"
+    ],
+    [
+      "Los Alamos Chess",
+      "https://en.wikipedia.org/wiki/Los_Alamos_chess"
     ]
   ],
   [
@@ -171,22 +161,12 @@
   ],
   [
     [
-      "2024-04-02, 04:24:18",
-      "https://news.ycombinator.com/item?id=39902372"
+      "2024-04-02, 04:50:04",
+      "https://news.ycombinator.com/item?id=39902489"
     ],
     [
-      "You won't find a technical co-founder",
-      "https://www.breakneck.dev/blog/no-tech-cofounder"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 04:19:52",
-      "https://news.ycombinator.com/item?id=39902350"
-    ],
-    [
-      "Microchess for the Kim-1 (2006)",
-      "http://www.benlo.com/microchess/index.html"
+      "Debugging (2003)",
+      "https://airs.com/ian/essays/debug/debug.html"
     ]
   ],
   [
@@ -201,6 +181,26 @@
   ],
   [
     [
+      "2024-04-02, 03:51:51",
+      "https://news.ycombinator.com/item?id=39902212"
+    ],
+    [
+      "Bradford pear trees banned in few states – More are looking to eradicate them",
+      "https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 03:50:58",
+      "https://news.ycombinator.com/item?id=39902207"
+    ],
+    [
+      "Receive push notifications from your rice cooker",
+      "https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 03:50:18",
       "https://news.ycombinator.com/item?id=39902205"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2024-04-01, 17:07:36",
-      "https://news.ycombinator.com/item?id=39896371"
+      "2024-04-01, 17:57:53",
+      "https://news.ycombinator.com/item?id=39897020"
     ],
     [
-      "The Wi-Fi only works when it's raining",
-      "https://predr.ag/blog/wifi-only-works-when-its-raining/"
+      "Exploring versions of the Postgres logical replication protocol",
+      "https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-03-31, 03:54:24",
+      "https://news.ycombinator.com/item?id=39881256"
+    ],
+    [
+      "A Family Tree: Hippolyte Hodeau's Trench Art (Ca. 1917)",
+      "https://publicdomainreview.org/collection/hippolyte-hodeau-trench-art/"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 23:19:30",
       "https://news.ycombinator.com/item?id=39870121"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2024-03-28, 21:07:46",
-      "https://news.ycombinator.com/item?id=39857315"
+      "2024-03-29, 03:05:02",
+      "https://news.ycombinator.com/item?id=39860207"
     ],
     [
-      "Blue Ball Machine",
-      "https://blueballfixed.ytmnd.com/"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 11:55:43",
-      "https://news.ycombinator.com/item?id=39850087"
-    ],
-    [
-      "Property-based testing in practice [pdf]",
-      "https://harrisongoldste.in/papers/icse24-pbt-in-practice.pdf"
+      "Drawing Kolam Patterns in Stitches and Code",
+      "https://alpaca.pubpub.org/pub/eljjyi80/release/5"
     ]
   ]
 ]
