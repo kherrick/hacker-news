@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 17:39:36](https://news.ycombinator.com/item?id=39908579) - [Amazon Ditches 'Just Walk Out' Checkouts at Its Grocery Stores](https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116)
 * [2024-04-02, 17:27:06](https://news.ycombinator.com/item?id=39908436) - [Google to delete search data of millions who used incognito mode](https://text.npr.org/1242019127)
+* [2024-04-02, 17:17:54](https://news.ycombinator.com/item?id=39908300) - [\"30.1K BTC of Silk Road funds controlled by US gov is on the move \"](https://twitter.com/zachxbt/status/1775193016363356238)
 * [2024-04-02, 17:06:25](https://news.ycombinator.com/item?id=39908146) - [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 * [2024-04-02, 17:02:10](https://news.ycombinator.com/item?id=39908089) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-04-02, 16:46:32](https://news.ycombinator.com/item?id=39907876) - [CityGaussian: Real-Time High-Quality Large-Scale Scene Rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
