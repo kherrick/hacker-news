@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
+* [2024-04-02, 19:34:07](https://news.ycombinator.com/item?id=39909949) - [Microsoft posted on the FFMPEG tracker that their issue is 'high priority'](https://trac.ffmpeg.org/ticket/10341#comment:4)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
 * [2024-04-02, 18:09:07](https://news.ycombinator.com/item?id=39908932) - [Prototype to production with ComfyUI](https://modal.com/blog/comfyui-prototype-to-production)
 * [2024-04-02, 18:05:41](https://news.ycombinator.com/item?id=39908891) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
@@ -15,7 +16,6 @@
 * [2024-04-02, 16:16:07](https://news.ycombinator.com/item?id=39907468) - [Princeton group open sources \"SWE-agent\", with 12.3% fix rate for GitHub issues](https://github.com/princeton-nlp/SWE-agent)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with React/NextJS](https://news.ycombinator.com/item?id=39907073)
 * [2024-04-02, 15:31:08](https://news.ycombinator.com/item?id=39906887) - [Recreating the Flying Toasters screen saver for the Vision Pro](https://abhipray.com/posts/flying_toasters/)
-* [2024-04-02, 13:40:01](https://news.ycombinator.com/item?id=39905644) - [DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
 * [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-02, 09:15:35](https://news.ycombinator.com/item?id=39903738) - [Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
