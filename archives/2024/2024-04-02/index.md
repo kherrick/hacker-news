@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
 * [2024-04-02, 14:29:15](https://news.ycombinator.com/item?id=39906147) - [Tesla releases Q1 2024 deliveries: disastrous results](https://electrek.co/2024/04/02/tesla-releases-q1-2024-deliveries-disastrous-results/)
+* [2024-04-02, 14:28:51](https://news.ycombinator.com/item?id=39906143) - [South Africa aims to be global supplier of HTR fuel](https://www.world-nuclear-news.org/Articles/South-Africa-aims-to-be-global-supplier-of-HTR-fue?feed=feed)
 * [2024-04-02, 13:40:01](https://news.ycombinator.com/item?id=39905644) - [DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
+* [2024-04-02, 13:39:12](https://news.ycombinator.com/item?id=39905640) - [Trusting Trust: Ken Thompson on supply chain security (1984)](https://dl.acm.org/doi/pdf/10.1145/358198.358210)
 * [2024-04-02, 13:23:18](https://news.ycombinator.com/item?id=39905475) - [Yahoo is buying Artifact, the AI news app from the Instagram co-founders](https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition)
 * [2024-04-02, 13:20:21](https://news.ycombinator.com/item?id=39905441) - [Python Cloudflare Workers](https://blog.cloudflare.com/python-workers)
 * [2024-04-02, 13:15:26](https://news.ycombinator.com/item?id=39905388) - [Is MEV Possible on Bitcoin?](https://ethereum.stackexchange.com/questions/119253/is-mev-possible-on-bitcoin)
