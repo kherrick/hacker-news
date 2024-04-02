@@ -9,6 +9,7 @@
 * [2024-04-02, 13:23:18](https://news.ycombinator.com/item?id=39905475) - [Yahoo is buying Artifact, the AI news app from the Instagram co-founders](https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition)
 * [2024-04-02, 13:20:21](https://news.ycombinator.com/item?id=39905441) - [Python Cloudflare Workers](https://blog.cloudflare.com/python-workers)
 * [2024-04-02, 13:15:26](https://news.ycombinator.com/item?id=39905388) - [Is MEV Possible on Bitcoin?](https://ethereum.stackexchange.com/questions/119253/is-mev-possible-on-bitcoin)
+* [2024-04-02, 12:19:41](https://news.ycombinator.com/item?id=39904883) - [Hunting up-to-date Wikidata datasets](https://news.ycombinator.com/item?id=39904883)
 * [2024-04-02, 12:18:00](https://news.ycombinator.com/item?id=39904877) - [Unforgivable: World Central Kitchen says seven aid workers killed in Gaza strike](https://www.axios.com/2024/04/02/gaza-aid-workers-killed-strike-world-central-kitchen)
 * [2024-04-02, 12:06:54](https://news.ycombinator.com/item?id=39904808) - [The end of Google Podcasts is in June if you're not in the US](https://notes.ghed.in/posts/2024/end-google-podcast-rest-of-world/)
 * [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
