@@ -34,6 +34,7 @@
 * [2024-04-02, 17:37:34](https://news.ycombinator.com/item?id=39908561) - [The secret world of competitive bass fishing cheaters (2014)](https://grantland.com/features/bass-fishing-cheaters/)
 * [2024-04-02, 17:36:55](https://news.ycombinator.com/item?id=39908553) - [Wonderful $25/HR opportunity -or- Canada LMIA abuse and immigration fraud](https://www.jobbank.gc.ca/jobsearch/jobposting/39914886)
 * [2024-04-02, 17:32:55](https://news.ycombinator.com/item?id=39908502) - [Show HN: Personal Blog based on Astro.build and styled by TailwindCSS](https://github.com/tisonkun/dacapo)
+* [2024-04-02, 17:31:36](https://news.ycombinator.com/item?id=39908487) - [The customer has nuclear weapons](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4)
 * [2024-04-02, 17:27:06](https://news.ycombinator.com/item?id=39908436) - [Google to delete search data of millions who used incognito mode](https://text.npr.org/1242019127)
 * [2024-04-02, 17:17:54](https://news.ycombinator.com/item?id=39908300) - [\"30.1K BTC of Silk Road funds controlled by US gov is on the move \"](https://twitter.com/zachxbt/status/1775193016363356238)
 * [2024-04-02, 17:06:25](https://news.ycombinator.com/item?id=39908146) - [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
