@@ -9,6 +9,7 @@
 * [2024-04-02, 18:32:48](https://news.ycombinator.com/item?id=39909246) - [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
 * [2024-04-02, 18:19:35](https://news.ycombinator.com/item?id=39909070) - [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)
+* [2024-04-02, 18:16:16](https://news.ycombinator.com/item?id=39909023) - [Botswana threatens to deport 20k elephants to Germany](https://www.politico.eu/article/botswana-president-mokgweetsi-masisi-threatens-deport-20000-elephants-germany/)
 * [2024-04-02, 18:09:07](https://news.ycombinator.com/item?id=39908932) - [ComfyUI workflows from prototype to production](https://modal.com/blog/comfyui-prototype-to-production)
 * [2024-04-02, 18:05:41](https://news.ycombinator.com/item?id=39908891) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 * [2024-04-02, 17:58:28](https://news.ycombinator.com/item?id=39908798) - [Study uses wearables to show that physical activity lengthens REM latency](https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/)
