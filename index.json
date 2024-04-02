@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-02, 09:16:24",
+      "https://news.ycombinator.com/item?id=39903742"
+    ],
+    [
+      "Debian Git Monorepo",
+      "https://blog.liw.fi/posts/2024/monorepo/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 08:30:18",
+      "https://news.ycombinator.com/item?id=39903497"
+    ],
+    [
+      "MIT Claims They've Figured Out How to Make Fusion Energy Practical",
+      "https://www.msn.com/en-us/money/technology/mit-claims-they-ve-figured-out-how-to-make-fusion-energy-practical/ar-BB1kUejm"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 07:33:03",
       "https://news.ycombinator.com/item?id=39903216"
     ],
@@ -27,6 +47,16 @@
     [
       "Myscaledb: Open-source SQL vector database to build AI apps using SQL",
       "https://github.com/myscale/myscaledb"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 03:58:00",
+      "https://news.ycombinator.com/item?id=39902241"
+    ],
+    [
+      "Timeline of the xz open source attack",
+      "https://research.swtch.com/xz-timeline"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-04-01, 20:21:12",
-      "https://news.ycombinator.com/item?id=39898743"
-    ],
-    [
-      "OWASP Data Breach Notification",
-      "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 19:54:14",
       "https://news.ycombinator.com/item?id=39898422"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2024-04-01, 19:37:40",
-      "https://news.ycombinator.com/item?id=39898221"
-    ],
-    [
-      "But what is a GPT?  Visual intro to Transformers [video]",
-      "https://www.youtube.com/watch?v=wjZofJX0v4M"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 19:36:13",
       "https://news.ycombinator.com/item?id=39898205"
     ],
     [
       "Bypassing Denuvo in Hogwarts Legacy",
       "https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 19:24:21",
-      "https://news.ycombinator.com/item?id=39898057"
-    ],
-    [
-      "Virtual Pinhead",
-      "https://www.engineersneedart.com/blog/pinhead/pinhead.html"
     ]
   ],
   [
