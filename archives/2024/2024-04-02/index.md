@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 19:34:07](https://news.ycombinator.com/item?id=39909949) - [Microsoft posted on the FFMPEG tracker that their issue is 'high priority'](https://trac.ffmpeg.org/ticket/10341#comment:4)
 * [2024-04-02, 19:25:31](https://news.ycombinator.com/item?id=39909845) - [Apple wouldn't let Jon Stewart interview FTC Chair Lina Khan, TV host claims](https://arstechnica.com/gadgets/2024/04/apple-wouldnt-let-jon-stewart-interview-ftc-chair-lina-khan-tv-host-claims/)
@@ -16,6 +17,7 @@
 * [2024-04-02, 18:05:41](https://news.ycombinator.com/item?id=39908891) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 * [2024-04-02, 17:58:28](https://news.ycombinator.com/item?id=39908798) - [Study uses wearables to show that physical activity lengthens REM latency](https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/)
 * [2024-04-02, 17:55:40](https://news.ycombinator.com/item?id=39908763) - [How to stream PostgreSQL CDC to Kafka and use Propel to get an instant API](https://www.propeldata.com/blog/postgresql-cdc-to-kafka)
+* [2024-04-02, 17:49:00](https://news.ycombinator.com/item?id=39908676) - [Stop using the Internet Archive as the sole host for preservation projects](https://old.reddit.com/r/DataHoarder/comments/1bswhdj/if_there_is_a_book_on_internet_archive_your/)
 * [2024-04-02, 17:47:25](https://news.ycombinator.com/item?id=39908660) - [Artificio de Juanelo](https://en.wikipedia.org/wiki/Artificio_de_Juanelo)
 * [2024-04-02, 17:44:22](https://news.ycombinator.com/item?id=39908629) - [Konrad Zuse](http://www.xn--plankalkl-x9a.de/)
 * [2024-04-02, 17:44:22](https://news.ycombinator.com/item?id=39908629) - [Konrad Zuse (1994)](http://www.xn--plankalkl-x9a.de)
