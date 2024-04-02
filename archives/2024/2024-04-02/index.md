@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 08:35:21](https://news.ycombinator.com/item?id=39903516) - [Israeli airstrike on Gaza kills foreign aid workers](https://www.euronews.com/2024/04/02/israeli-airstrike-on-gaza-kills-foreign-aid-workers)
 * [2024-04-02, 07:33:03](https://news.ycombinator.com/item?id=39903216) - [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
 * [2024-04-02, 05:56:34](https://news.ycombinator.com/item?id=39902791) - [Copilot pane as annoying as Clippy may pop up in Windows 11](https://www.theregister.com/2024/03/05/copilot_update_windows_11_beta_build/)
 * [2024-04-02, 04:30:44](https://news.ycombinator.com/item?id=39902395) - [What Would Society Look Like If Extreme Wealth Were Impossible?](https://www.theatlantic.com/family/archive/2024/04/ingrid-robeyns-limitarianism-makes-case-capping-wealth/677925/)

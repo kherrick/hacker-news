@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 08:35:21](https://news.ycombinator.com/item?id=39903516) - [Israeli airstrike on Gaza kills foreign aid workers](https://www.euronews.com/2024/04/02/israeli-airstrike-on-gaza-kills-foreign-aid-workers)
 * [2024-04-02, 07:33:03](https://news.ycombinator.com/item?id=39903216) - [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
 * [2024-04-02, 04:03:45](https://news.ycombinator.com/item?id=39902271) - [Myscaledb: Open-source SQL vector database to build AI apps using SQL](https://github.com/myscale/myscaledb)
@@ -10,7 +11,6 @@
 * [2024-04-02, 01:09:26](https://news.ycombinator.com/item?id=39901290) - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
 * [2024-04-01, 22:51:29](https://news.ycombinator.com/item?id=39900329) - [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 * [2024-04-01, 21:00:18](https://news.ycombinator.com/item?id=39899262) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2024-04-01, 20:21:12](https://news.ycombinator.com/item?id=39898743) - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
 * [2024-04-01, 19:54:14](https://news.ycombinator.com/item?id=39898422) - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 * [2024-04-01, 19:37:40](https://news.ycombinator.com/item?id=39898221) - [But what is a GPT?  Visual intro to Transformers [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
 * [2024-04-01, 19:36:13](https://news.ycombinator.com/item?id=39898205) - [Bypassing Denuvo in Hogwarts Legacy](https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/)
