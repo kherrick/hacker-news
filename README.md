@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-02, 14:29:15](https://news.ycombinator.com/item?id=39906147) - [Tesla releases Q1 2024 deliveries: disastrous results](https://electrek.co/2024/04/02/tesla-releases-q1-2024-deliveries-disastrous-results/)
-* [2024-04-02, 14:28:51](https://news.ycombinator.com/item?id=39906143) - [South Africa aims to be global supplier of HTR fuel](https://www.world-nuclear-news.org/Articles/South-Africa-aims-to-be-global-supplier-of-HTR-fue?feed=feed)
+* [2024-04-02, 14:27:07](https://news.ycombinator.com/item?id=39906123) - [Algojobs.io: simple tech-focused job board](https://algojobs.io/)
+* [2024-04-02, 13:54:57](https://news.ycombinator.com/item?id=39905803) - [Python Workers](https://developers.cloudflare.com/workers/languages/python/)
 * [2024-04-02, 13:40:01](https://news.ycombinator.com/item?id=39905644) - [DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
 * [2024-04-02, 13:39:12](https://news.ycombinator.com/item?id=39905640) - [Trusting Trust: Ken Thompson on supply chain security (1984)](https://dl.acm.org/doi/pdf/10.1145/358198.358210)
 * [2024-04-02, 13:23:18](https://news.ycombinator.com/item?id=39905475) - [Yahoo is buying Artifact, the AI news app from the Instagram co-founders](https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition)
@@ -24,7 +25,6 @@
 * [2024-04-01, 11:46:53](https://news.ycombinator.com/item?id=39893090) - [Application of Locality Sensitive Hashing to audio fingerprinting](https://santhoshhari.github.io/Locality-Sensitive-Hashing/)
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)
 * [2024-03-31, 12:09:07](https://news.ycombinator.com/item?id=39883531) - [PaperBack: How to store arbitrary data on A4 sheets of paper (2007)](https://ollydbg.de/Paperbak/#1)
-* [2024-03-31, 10:40:47](https://news.ycombinator.com/item?id=39883064) - [Documentation as code: Principles, workflow, and challenges](https://www.tabnine.com/blog/documentation-as-code-principles-workflow-and-challenges/)
 * [2024-03-31, 04:04:06](https://news.ycombinator.com/item?id=39881324) - [Original Pirate Material](https://www.historytoday.com/miscellanies/original-pirate-material)
 * [2024-03-31, 01:10:45](https://news.ycombinator.com/item?id=39880389) - [The Human Hemisphere (2015)](http://www.radicalcartography.net/index.html?human-hemisphere)
 * [2024-03-29, 23:19:30](https://news.ycombinator.com/item?id=39870121) - [Refix: Fast, Debuggable, Reproducible Builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
