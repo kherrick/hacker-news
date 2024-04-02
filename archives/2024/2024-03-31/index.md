@@ -110,6 +110,7 @@
 * [2024-03-31, 05:29:32](https://news.ycombinator.com/item?id=39881705) - [World Backup Day](https://www.worldbackupday.com/en)
 * [2024-03-31, 04:04:06](https://news.ycombinator.com/item?id=39881324) - [Original Pirate Material](https://www.historytoday.com/miscellanies/original-pirate-material)
 * [2024-03-31, 03:54:24](https://news.ycombinator.com/item?id=39881256) - [A Family Tree: Hippolyte Hodeau's Trench Art (Ca. 1917)](https://publicdomainreview.org/collection/hippolyte-hodeau-trench-art/)
+* [2024-03-31, 03:44:46](https://news.ycombinator.com/item?id=39881212) - [Activating Browser Modes with Doctype](https://hsivonen.fi/doctype/)
 * [2024-03-31, 03:41:33](https://news.ycombinator.com/item?id=39881196) - [Bananas as a Macroeconomic Indicator](https://banananomics.co/bananas_as_a_macroeconomic_indicator)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 * [2024-03-31, 03:13:27](https://news.ycombinator.com/item?id=39881044) - [XZ backdoor may have a killswitch and mitigation](https://news.ycombinator.com/item?id=39881044)
