@@ -69,6 +69,7 @@
 * [2024-04-01, 14:09:41](https://news.ycombinator.com/item?id=39894351) - [Wait, does America suddenly have a record number of bees?](https://www.washingtonpost.com/business/2024/03/29/bees-boom-colony-collapse/)
 * [2024-04-01, 14:03:31](https://news.ycombinator.com/item?id=39894302) - [The Graph of Wikipedia [video]](https://www.youtube.com/watch?v=JheGL6uSF-4)
 * [2024-04-01, 14:00:55](https://news.ycombinator.com/item?id=39894274) - [Show HN: Celest – Flutter Cloud Platform](https://celest.dev/)
+* [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - ['10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 12:52:21](https://news.ycombinator.com/item?id=39893619) - [Beam.cloud (YC W22) is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
 * [2024-04-01, 12:04:36](https://news.ycombinator.com/item?id=39893217) - [There were no ancient computers and it's fine](https://lcamtuf.substack.com/p/there-were-no-ancient-computers-and)
 * [2024-04-01, 11:55:24](https://news.ycombinator.com/item?id=39893160) - [Ask HN: Freelance website builders/maintainers, what's in your 2024 toolkit?](https://news.ycombinator.com/item?id=39893160)
