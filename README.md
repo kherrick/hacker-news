@@ -24,7 +24,7 @@
 * [2024-04-02, 03:51:51](https://news.ycombinator.com/item?id=39902212) - [Bradford pear trees banned in few states – More are looking to eradicate them](https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/)
 * [2024-04-02, 03:50:58](https://news.ycombinator.com/item?id=39902207) - [Receive push notifications from your rice cooker](https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/)
 * [2024-04-01, 19:10:18](https://news.ycombinator.com/item?id=39897901) - [The Color of Silence](https://carlosalvarenga.substack.com/p/the-color-of-silence)
-* [2024-04-01, 15:03:37](https://news.ycombinator.com/item?id=39894871) - [The Great Oxygenation Event](https://bigthink.com/starts-with-a-bang/oxygen-killed-life-on-earth/)
+* [2024-04-01, 17:57:53](https://news.ycombinator.com/item?id=39897020) - [Exploring versions of the Postgres logical replication protocol](https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol)
 * [2024-04-01, 15:01:04](https://news.ycombinator.com/item?id=39894823) - [Show HN: Floro – Visual Version Control](https://news.ycombinator.com/item?id=39894823)
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
