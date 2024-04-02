@@ -101,6 +101,7 @@
 * [2024-03-31, 06:24:56](https://news.ycombinator.com/item?id=39881915) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
 * [2024-03-31, 06:23:51](https://news.ycombinator.com/item?id=39881911) - [Not able to click on map during Google search why did they change this (in EU)](https://old.reddit.com/r/GoogleMaps/comments/1b228yx/not_able_to_click_on_map_during_google_searchwhy/)
 * [2024-03-31, 06:18:59](https://news.ycombinator.com/item?id=39881894) - [Software Needs to Be More Expensive](https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html)
+* [2024-03-31, 06:16:23](https://news.ycombinator.com/item?id=39881878) - [Where Are the Supply Chain Safe Programming Languages?](http://blog.vmsplice.net/2024/03/where-are-supply-chain-safe-programming.html)
 * [2024-03-31, 05:56:47](https://news.ycombinator.com/item?id=39881815) - [Do be do be do (2017) [pdf]](https://arxiv.org/abs/1611.09259)
 * [2024-03-31, 05:43:15](https://news.ycombinator.com/item?id=39881758) - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
 * [2024-03-31, 05:42:17](https://news.ycombinator.com/item?id=39881753) - [Show HN: Write JSON processor queries (jq) in natural language](https://github.com/AgentOps-AI/Jaiqu)
