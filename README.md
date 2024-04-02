@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-02, 12:06:54](https://news.ycombinator.com/item?id=39904808) - [The end of Google Podcasts is in June if you're not in the US](https://notes.ghed.in/posts/2024/end-google-podcast-rest-of-world/)
 * [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-02, 09:21:27](https://news.ycombinator.com/item?id=39903773) - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 * [2024-04-02, 09:16:24](https://news.ycombinator.com/item?id=39903742) - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 * [2024-04-02, 08:22:58](https://news.ycombinator.com/item?id=39903471) - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
+* [2024-04-02, 07:43:40](https://news.ycombinator.com/item?id=39903267) - [Show HN: Docfd: TUI multiline fuzzy document finder](https://github.com/darrenldl/docfd)
 * [2024-04-02, 06:58:36](https://news.ycombinator.com/item?id=39903056) - [KraftCloud](https://github.com/unikraft/unikraft)
 * [2024-04-02, 04:24:18](https://news.ycombinator.com/item?id=39902372) - [You won't find a technical co-founder](https://www.breakneck.dev/blog/no-tech-cofounder)
 * [2024-04-02, 04:19:52](https://news.ycombinator.com/item?id=39902350) - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
