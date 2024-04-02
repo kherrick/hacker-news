@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-02, 22:47:53](https://news.ycombinator.com/item?id=39911680) - [Apple Got Caught Censoring Its Own Regulator Lina Khan](https://www.thebignewsletter.com/p/apple-got-caught-censoring-its-own)
+* [2024-04-02, 22:54:28](https://news.ycombinator.com/item?id=39911742) - [Raising the minimum wage? Study using US tax data finds more gain than pain](https://phys.org/news/2024-04-minimum-wage-tax-gain-pain.html)
 * [2024-04-02, 22:47:13](https://news.ycombinator.com/item?id=39911674) - [Ask HN: How to choose the desktop platform and tech for desktop app development?](https://news.ycombinator.com/item?id=39911674)
 * [2024-04-02, 22:40:00](https://news.ycombinator.com/item?id=39911616) - [Show HN: Generate admin apps without writing a single line of code](https://github.com/dashpresshq/dashpress)
 * [2024-04-02, 22:37:03](https://news.ycombinator.com/item?id=39911594) - [Show HN: A Product Hunt Alternative for Indie Makers](https://www.indiehunting.com/)
