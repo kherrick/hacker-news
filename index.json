@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-02, 02:20:41",
-      "https://news.ycombinator.com/item?id=39901739"
-    ],
-    [
-      "Part of California's famed Highway 1 crumbles into the ocean",
-      "https://www.cnn.com/travel/california-highway-1-damage-big-sur/index.html"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 01:09:26",
       "https://news.ycombinator.com/item?id=39901290"
     ],
@@ -27,16 +17,6 @@
     [
       "A16Z blogs are just glorified marketing",
       "https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 00:24:56",
-      "https://news.ycombinator.com/item?id=39901040"
-    ],
-    [
-      "A path out of bloat: A Linux built for VMs",
-      "https://www.theregister.com/2024/02/23/linux_built_for_a_vm/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-03-29, 23:19:30",
+      "https://news.ycombinator.com/item?id=39870121"
+    ],
+    [
+      "Refix: Fast, Debuggable, Reproducible Builds",
+      "https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 18:17:41",
       "https://news.ycombinator.com/item?id=39867267"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-03-29, 03:03:55",
-      "https://news.ycombinator.com/item?id=39860199"
+      "2024-03-28, 21:07:46",
+      "https://news.ycombinator.com/item?id=39857315"
     ],
     [
-      "RSS Feed Organization Strategies and New Feed Cost",
-      "https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html"
+      "Blue Ball Machine",
+      "https://blueballfixed.ytmnd.com/"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 11:55:43",
+      "https://news.ycombinator.com/item?id=39850087"
+    ],
+    [
+      "Property-based testing in practice [pdf]",
+      "https://harrisongoldste.in/papers/icse24-pbt-in-practice.pdf"
     ]
   ]
 ]
