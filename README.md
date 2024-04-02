@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-02, 03:52:37](https://news.ycombinator.com/item?id=39902217) - [Jon Stewart on the False Promises of AI [video]](https://www.youtube.com/watch?v=20TAkcy3aBY)
 * [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 * [2024-04-02, 03:04:21](https://news.ycombinator.com/item?id=39901978) - [Banning Open Weight Models Would Be a Disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
 * [2024-04-02, 01:09:26](https://news.ycombinator.com/item?id=39901290) - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
@@ -25,7 +26,6 @@
 * [2024-04-01, 02:17:05](https://news.ycombinator.com/item?id=39890262) - [LLaMA now goes faster on CPUs](https://justine.lol/matmul/)
 * [2024-04-01, 02:15:05](https://news.ycombinator.com/item?id=39890250) - [Mycenaean Warriors and the Sea-Peoples (2013)](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
 * [2024-03-31, 05:56:47](https://news.ycombinator.com/item?id=39881815) - [Do be do be do (2017) [pdf]](https://arxiv.org/abs/1611.09259)
-* [2024-03-31, 05:41:34](https://news.ycombinator.com/item?id=39881749) - [Refurb weekend: Data General/One (and the worst LCD in the world)](http://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
 * [2024-03-29, 23:19:30](https://news.ycombinator.com/item?id=39870121) - [Refix: Fast, Debuggable, Reproducible Builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
 * [2024-03-29, 18:17:41](https://news.ycombinator.com/item?id=39867267) - [The history of lead pencils and their lack of any lead (2021)](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)
 * [2024-03-28, 21:07:46](https://news.ycombinator.com/item?id=39857315) - [Blue Ball Machine](https://blueballfixed.ytmnd.com/)

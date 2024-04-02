@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 03:52:37](https://news.ycombinator.com/item?id=39902217) - [Jon Stewart on the False Promises of AI [video]](https://www.youtube.com/watch?v=20TAkcy3aBY)
 * [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 * [2024-04-02, 03:04:21](https://news.ycombinator.com/item?id=39901978) - [Banning Open Weight Models Would Be a Disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
 * [2024-04-02, 02:25:46](https://news.ycombinator.com/item?id=39901775) - [What is T-Mobile's \"Profiling and automated decisions\" app setting about?](https://news.ycombinator.com/item?id=39901775)
