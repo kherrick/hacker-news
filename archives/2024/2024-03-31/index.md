@@ -104,6 +104,7 @@
 * [2024-03-31, 05:42:17](https://news.ycombinator.com/item?id=39881753) - [Show HN: Write JSON processor queries (jq) in natural language](https://github.com/AgentOps-AI/Jaiqu)
 * [2024-03-31, 05:41:34](https://news.ycombinator.com/item?id=39881749) - [Refurb weekend: Data General/One (and the worst LCD in the world)](http://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
 * [2024-03-31, 05:29:32](https://news.ycombinator.com/item?id=39881705) - [World Backup Day](https://www.worldbackupday.com/en)
+* [2024-03-31, 03:41:33](https://news.ycombinator.com/item?id=39881196) - [Bananas as a Macroeconomic Indicator](https://banananomics.co/bananas_as_a_macroeconomic_indicator)
 * [2024-03-31, 03:29:23](https://news.ycombinator.com/item?id=39881135) - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 * [2024-03-31, 03:13:27](https://news.ycombinator.com/item?id=39881044) - [XZ backdoor may have a killswitch and mitigation](https://news.ycombinator.com/item?id=39881044)
 * [2024-03-31, 03:09:11](https://news.ycombinator.com/item?id=39881014) - [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416)
