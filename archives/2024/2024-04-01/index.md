@@ -23,6 +23,7 @@
 * [2024-04-01, 19:29:57](https://news.ycombinator.com/item?id=39898121) - [The Pirate Bay's Oldest Torrent Is Now 20 Years Old](https://torrentfreak.com/the-pirate-bays-oldest-torrent-is-now-20-years-old-240401/)
 * [2024-04-01, 19:24:21](https://news.ycombinator.com/item?id=39898057) - [Virtual Pinhead](https://www.engineersneedart.com/blog/pinhead/pinhead.html)
 * [2024-04-01, 19:19:04](https://news.ycombinator.com/item?id=39898004) - [A biased test kept Black people from getting a kidney transplant](https://apnews.com/article/kidney-transplant-race-black-inequity-bias-d4fabf2f3a47aab2fe8e18b2a5432135)
+* [2024-04-01, 19:18:59](https://news.ycombinator.com/item?id=39898003) - ['If it's Boeing, I'm not going': travelers nervous to fly after plane issues](https://www.wfla.com/news/national/if-its-boeing-im-not-going-some-travelers-nervous-to-fly-after-recent-plane-issues/)
 * [2024-04-01, 18:50:04](https://news.ycombinator.com/item?id=39897667) - [People liked AI art – when they thought it was made by humans](https://www.sciencenorway.no/art-artificial-intelligence/people-liked-ai-art-when-they-thought-it-was-made-by-humans/2337417)
 * [2024-04-01, 18:42:57](https://news.ycombinator.com/item?id=39897594) - [Book Review: \"Tidy First?\" By Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
 * [2024-04-01, 18:36:01](https://news.ycombinator.com/item?id=39897501) - [Has Trust in the U.S. Intelligence Community Eroded?](https://www.rand.org/pubs/research_reports/RRA864-1.html)
