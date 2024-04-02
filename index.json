@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-04-02, 22:47:13",
+      "https://news.ycombinator.com/item?id=39911674"
+    ],
+    [
+      "Ask HN: How to choose the desktop platform and tech for desktop app development?",
+      "https://news.ycombinator.com/item?id=39911674"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 22:40:00",
+      "https://news.ycombinator.com/item?id=39911616"
+    ],
+    [
+      "Show HN: Generate admin apps without writing a single line of code",
+      "https://github.com/dashpresshq/dashpress"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 22:37:03",
+      "https://news.ycombinator.com/item?id=39911594"
+    ],
+    [
+      "Show HN: A Product Hunt Alternative for Indie Makers",
+      "https://www.indiehunting.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 21:48:29",
+      "https://news.ycombinator.com/item?id=39911219"
+    ],
+    [
+      "Discovering Devin, Devika, and OpenDevin",
+      "https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 21:39:49",
       "https://news.ycombinator.com/item?id=39911155"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2024-04-02, 13:40:01",
-      "https://news.ycombinator.com/item?id=39905644"
-    ],
-    [
-      "DECT NR+: A technical dive into non-cellular 5G",
-      "https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 09:15:35",
       "https://news.ycombinator.com/item?id=39903738"
     ],
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2024-04-02, 04:19:52",
-      "https://news.ycombinator.com/item?id=39902350"
-    ],
-    [
-      "Microchess for the Kim-1 (2006)",
-      "http://www.benlo.com/microchess/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 03:51:51",
-      "https://news.ycombinator.com/item?id=39902212"
-    ],
-    [
-      "Bradford pear trees banned in few states – More are looking to eradicate them",
-      "https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 03:50:58",
       "https://news.ycombinator.com/item?id=39902207"
     ],
@@ -237,26 +247,6 @@
     [
       "The Color of Silence",
       "https://carlosalvarenga.substack.com/p/the-color-of-silence"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 17:57:53",
-      "https://news.ycombinator.com/item?id=39897020"
-    ],
-    [
-      "Exploring versions of the Postgres logical replication protocol",
-      "https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 15:01:04",
-      "https://news.ycombinator.com/item?id=39894823"
-    ],
-    [
-      "Show HN: Floro – Visual Version Control",
-      "https://news.ycombinator.com/item?id=39894823"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Activating Browser Modes with Doctype",
       "https://hsivonen.fi/doctype/"
+    ]
+  ],
+  [
+    [
+      "2024-03-30, 21:05:18",
+      "https://news.ycombinator.com/item?id=39878658"
+    ],
+    [
+      "Nano-oscillator hits record quality factor",
+      "https://phys.org/news/2024-03-nano-oscillator-quality-factor.html"
     ]
   ]
 ]
