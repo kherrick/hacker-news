@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 18:22:52](https://news.ycombinator.com/item?id=39921064) - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
+* [2024-04-03, 18:17:13](https://news.ycombinator.com/item?id=39920975) - [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
+* [2024-04-03, 18:04:28](https://news.ycombinator.com/item?id=39920798) - [Growth is a mind cancer](https://manuelmoreale.com/growth-is-a-mind-cancer)
 * [2024-04-03, 17:51:36](https://news.ycombinator.com/item?id=39920644) - [Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 17:42:50](https://news.ycombinator.com/item?id=39920555) - [NASA, Lockheed Martin Working to Resolve Artemis II Orion Issues](https://www.nasaspaceflight.com/2024/04/resolving-artemis-ii-issues/)
 * [2024-04-03, 17:39:25](https://news.ycombinator.com/item?id=39920516) - [Ugreen to Challenge Synology with Affordable Series of NAS Hardware](https://petapixel.com/2024/03/26/ugreen-to-challenge-synology-with-affordable-series-of-nas-hardware/)
