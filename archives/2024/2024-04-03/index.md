@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 16:47:38](https://news.ycombinator.com/item?id=39919725) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
+* [2024-04-03, 16:46:35](https://news.ycombinator.com/item?id=39919713) - [An EMP or Solar Incident Could Result in Blackout Warfare](https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare)
+* [2024-04-03, 16:42:04](https://news.ycombinator.com/item?id=39919646) - [Iowa sysadmin pleads guilty to 33-year identity theft of former co-worker](https://www.theregister.com/2024/04/03/sysadmin_33_year_id_theft/)
+* [2024-04-03, 16:40:13](https://news.ycombinator.com/item?id=39919622) - [Billie Eilish, Pearl Jam, 200 artists say AI poses threat to their livelihoods](https://arstechnica.com/information-technology/2024/04/billie-eilish-pearl-jam-200-artists-say-ai-poses-existential-threat-to-their-livelihoods/)
+* [2024-04-03, 16:36:35](https://news.ycombinator.com/item?id=39919582) - [Twitter Files Brazil](https://twitter.com/shellenberger/status/1775516415023251835)
 * [2024-04-03, 16:30:57](https://news.ycombinator.com/item?id=39919505) - [Oregon governor signs bill recriminalizing drug possession into law](https://apnews.com/article/oregon-drug-recriminalization-law-signed-governor-96e36ed60e999572bbf47c160b412a73)
+* [2024-04-03, 16:29:45](https://news.ycombinator.com/item?id=39919491) - [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for Linking Shell Companies to Their Secret Owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 16:18:07](https://news.ycombinator.com/item?id=39919352) - [The Ethics of AI in Military Decision-Making: Unpacking Lavender and Its Impact](https://ytech.news/en/the-ethics-of-ai-in-military-decision-making-unpacking-lavender-and-its-impact/)
 * [2024-04-03, 16:07:34](https://news.ycombinator.com/item?id=39919226) - [The xz attack may be bad, but trusting Microsoft certs is worse](https://twitter.com/HackingDave/status/1775300793710612919)
