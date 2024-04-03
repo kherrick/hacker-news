@@ -22,6 +22,7 @@
 * [2024-04-03, 11:41:01](https://news.ycombinator.com/item?id=39916142) - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
 * [2024-04-03, 11:36:46](https://news.ycombinator.com/item?id=39916102) - [White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)](https://www.bbc.co.uk/news/science-environment-68722032)
 * [2024-04-03, 11:18:22](https://news.ycombinator.com/item?id=39915968) - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
+* [2024-04-03, 10:57:29](https://news.ycombinator.com/item?id=39915801) - [Show HN: I made a library for LLM prompt injection/exploit/jailbreak detection](https://github.com/lastlayer/last_layer)
 * [2024-04-03, 10:34:45](https://news.ycombinator.com/item?id=39915636) - [Russian influence network in Europe: list of promoted politicians](https://insightnews.media/russian-influence-network-in-europe-list-of-promoted-politicians/)
 * [2024-04-03, 10:28:25](https://news.ycombinator.com/item?id=39915594) - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
 * [2024-04-03, 10:10:01](https://news.ycombinator.com/item?id=39915473) - [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
