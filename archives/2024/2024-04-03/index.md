@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 21:11:58](https://news.ycombinator.com/item?id=39923212) - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+* [2024-04-03, 21:05:45](https://news.ycombinator.com/item?id=39923136) - [The Triumph of Philanthropy (2018)](https://www.laphamsquarterly.org/roundtable/triumph-philanthropy)
 * [2024-04-03, 20:35:42](https://news.ycombinator.com/item?id=39922744) - [Disarm Russia](https://disarmrussia.com/)
 * [2024-04-03, 20:35:30](https://news.ycombinator.com/item?id=39922737) - [YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 * [2024-04-03, 20:01:12](https://news.ycombinator.com/item?id=39922325) - [All Your Dragons Are Belong to Us](https://www.raymondcamden.com/2024/04/02/all-your-dragons-are-belong-to-us)
@@ -104,4 +106,5 @@
 * [2024-04-03, 01:53:03](https://news.ycombinator.com/item?id=39912835) - [Feds decide to do something about years-old SS7 spy holes phone networks](https://www.theregister.com/2024/04/02/fcc_ss7_security/)
 * [2024-04-03, 01:42:31](https://news.ycombinator.com/item?id=39912771) - [The Threat of Discontinued Software (2021)](https://almy.us/softwaredeath.html)
 * [2024-04-03, 01:07:34](https://news.ycombinator.com/item?id=39912597) - [Choose your weapon: Survival strategies for depressed AI academics](https://ar5iv.labs.arxiv.org/html/2304.06035)
+* [2024-04-03, 00:42:42](https://news.ycombinator.com/item?id=39912448) - [John Barth has died](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
 * [2024-04-03, 00:24:56](https://news.ycombinator.com/item?id=39912330) - [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
