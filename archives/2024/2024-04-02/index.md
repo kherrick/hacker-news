@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 23:26:37](https://news.ycombinator.com/item?id=39911961) - [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
 * [2024-04-02, 22:54:28](https://news.ycombinator.com/item?id=39911742) - [Raising the minimum wage? Study using US tax data finds more gain than pain](https://phys.org/news/2024-04-minimum-wage-tax-gain-pain.html)
 * [2024-04-02, 22:47:53](https://news.ycombinator.com/item?id=39911680) - [Apple Got Caught Censoring Its Own Regulator Lina Khan](https://www.thebignewsletter.com/p/apple-got-caught-censoring-its-own)
 * [2024-04-02, 22:47:13](https://news.ycombinator.com/item?id=39911674) - [Ask HN: How to choose the desktop platform and tech for desktop app development?](https://news.ycombinator.com/item?id=39911674)
@@ -18,6 +19,7 @@
 * [2024-04-02, 19:25:31](https://news.ycombinator.com/item?id=39909845) - [Apple wouldn't let Jon Stewart interview FTC Chair Lina Khan, TV host claims](https://arstechnica.com/gadgets/2024/04/apple-wouldnt-let-jon-stewart-interview-ftc-chair-lina-khan-tv-host-claims/)
 * [2024-04-02, 18:56:45](https://news.ycombinator.com/item?id=39909538) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2024-04-02, 18:32:48](https://news.ycombinator.com/item?id=39909246) - [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)
+* [2024-04-02, 18:28:19](https://news.ycombinator.com/item?id=39909187) - [Trader Joe's and their pattern of copycat merchandising](https://tastecooking.com/we-need-to-talk-about-trader-joes/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
 * [2024-04-02, 18:19:35](https://news.ycombinator.com/item?id=39909070) - [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)
 * [2024-04-02, 18:16:16](https://news.ycombinator.com/item?id=39909023) - [Botswana threatens to deport 20k elephants to Germany](https://www.politico.eu/article/botswana-president-mokgweetsi-masisi-threatens-deport-20000-elephants-germany/)
