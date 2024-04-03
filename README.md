@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-03, 22:10:47](https://news.ycombinator.com/item?id=39923903) - [AMD to Open Source more of their software stack, release more hardware docs](https://twitter.com/amdradeon/status/1775261152987271614)
+* [2024-04-03, 22:48:29](https://news.ycombinator.com/item?id=39924323) - [A viral $22 burrito explains inflation in the US](https://www.theguardian.com/food/ng-interactive/2024/mar/27/burrito-price-inflation-vaca-birria-san-francisco)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running perplexity clone](https://github.com/nilsherzig/LLocalSearch)
-* [2024-04-03, 21:06:09](https://news.ycombinator.com/item?id=39923138) - [How to hack the Jacksonville Jaguars' jumbotron](https://arstechnica.com/security/2024/04/how-to-hack-the-jacksonville-jaguars-jumbotron-and-end-up-in-jail-for-220-years/)
 * [2024-04-03, 20:57:06](https://news.ycombinator.com/item?id=39923023) - [Pitcairn Island Immigration](https://www.immigration.pn)
+* [2024-04-03, 20:35:30](https://news.ycombinator.com/item?id=39922737) - [YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 * [2024-04-03, 20:25:58](https://news.ycombinator.com/item?id=39922631) - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
