@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-03, 16:47:38",
-      "https://news.ycombinator.com/item?id=39919725"
+      "2024-04-03, 16:49:54",
+      "https://news.ycombinator.com/item?id=39919757"
     ],
     [
-      "OpenTofu may be showing us the wrong way to fork",
-      "https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html"
+      "Amazon's 'Just Walk Out' tech was powered by low-paid Indian workers: report",
+      "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/amazons-just-walk-out-tech-was-actually-powered-by-low-paid-indian-workers-report-12566201.html"
     ]
   ],
   [
@@ -41,26 +41,6 @@
   ],
   [
     [
-      "2024-04-03, 16:36:35",
-      "https://news.ycombinator.com/item?id=39919582"
-    ],
-    [
-      "Twitter Files Brazil",
-      "https://twitter.com/shellenberger/status/1775516415023251835"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 16:30:57",
-      "https://news.ycombinator.com/item?id=39919505"
-    ],
-    [
-      "Oregon governor signs bill recriminalizing drug possession into law",
-      "https://apnews.com/article/oregon-drug-recriminalization-law-signed-governor-96e36ed60e999572bbf47c160b412a73"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 16:29:45",
       "https://news.ycombinator.com/item?id=39919491"
     ],
@@ -81,32 +61,22 @@
   ],
   [
     [
-      "2024-04-03, 15:14:37",
-      "https://news.ycombinator.com/item?id=39918553"
-    ],
-    [
-      "Fisker's Ocean SUV investigated for doors that won't open",
-      "https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 14:53:53",
-      "https://news.ycombinator.com/item?id=39918278"
-    ],
-    [
-      "GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows",
-      "https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 14:53:46",
       "https://news.ycombinator.com/item?id=39918277"
     ],
     [
       "Truemetrics (YC S23) Hiring a Back End Engineer",
       "https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 14:17:10",
+      "https://news.ycombinator.com/item?id=39917830"
+    ],
+    [
+      "Saffron: The  Story of the World's Most Expensive Spice",
+      "https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/"
     ]
   ],
   [
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2024-04-02, 20:14:14",
+      "https://news.ycombinator.com/item?id=39910383"
+    ],
+    [
+      "A Brazilian special-forces unit fighting to save the Amazon",
+      "https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 16:46:32",
       "https://news.ycombinator.com/item?id=39907876"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-04-02, 09:05:04",
+      "https://news.ycombinator.com/item?id=39903685"
+    ],
+    [
+      "The xz attack shell script",
+      "https://research.swtch.com/xz-script"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 06:13:23",
       "https://news.ycombinator.com/item?id=39902854"
     ],
     [
       "Avoid blundering: 80% of a winning strategy",
       "https://longform.asmartbear.com/avoid-blundering/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 03:58:00",
+      "https://news.ycombinator.com/item?id=39902241"
+    ],
+    [
+      "Timeline of the xz open source attack",
+      "https://research.swtch.com/xz-timeline"
     ]
   ]
 ]
