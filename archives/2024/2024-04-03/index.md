@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 14:08:38](https://news.ycombinator.com/item?id=39917727) - [Israel used AI to identify 37,000 Hamas targets](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
+* [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 13:13:23](https://news.ycombinator.com/item?id=39917033) - [AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation](https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/)
+* [2024-04-03, 13:08:33](https://news.ycombinator.com/item?id=39916972) - [Cloudflare R2 IA storage tier](https://blog.cloudflare.com/r2-events-gcs-migration-infrequent-access)
 * [2024-04-03, 13:05:54](https://news.ycombinator.com/item?id=39916939) - [No joke: FTC boss goes on the Daily Show and is told Apple tried to block her](https://www.theregister.com/2024/04/02/ftc_boss_apple_daily_show/)
 * [2024-04-03, 13:05:19](https://news.ycombinator.com/item?id=39916931) - [What the Suburb Haters Don't Understand](https://www.theatlantic.com/family/archive/2024/04/nostalgia-nowhere-suburbs-strip-malls-subdivisions-community/677939/)
 * [2024-04-03, 13:01:41](https://news.ycombinator.com/item?id=39916882) - [Amazon Web Services cuts jobs in sales, training, and physical stores tech group](https://www.geekwire.com/2024/amazon-web-services-cuts-hundreds-of-jobs-in-sales-training-and-physical-stores-technology/)
