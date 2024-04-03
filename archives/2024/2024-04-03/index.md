@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 20:35:42](https://news.ycombinator.com/item?id=39922744) - [Disarm Russia](https://disarmrussia.com/)
+* [2024-04-03, 20:01:12](https://news.ycombinator.com/item?id=39922325) - [All Your Dragons Are Belong to Us](https://www.raymondcamden.com/2024/04/02/all-your-dragons-are-belong-to-us)
 * [2024-04-03, 19:58:48](https://news.ycombinator.com/item?id=39922294) - [Land Use Policies Make Urban Childcare Expensive and Rare](https://www.ryanpuzycki.com/p/who-cares-about-childcare)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)

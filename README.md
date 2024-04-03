@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 20:35:42](https://news.ycombinator.com/item?id=39922744) - [Disarm Russia](https://disarmrussia.com/)
+* [2024-04-03, 20:01:12](https://news.ycombinator.com/item?id=39922325) - [All Your Dragons Are Belong to Us](https://www.raymondcamden.com/2024/04/02/all-your-dragons-are-belong-to-us)
 * [2024-04-03, 19:58:48](https://news.ycombinator.com/item?id=39922294) - [Land Use Policies Make Urban Childcare Expensive and Rare](https://www.ryanpuzycki.com/p/who-cares-about-childcare)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
@@ -20,14 +22,12 @@
 * [2024-04-03, 13:42:34](https://news.ycombinator.com/item?id=39917364) - [Show HN: Burr – A framework for building and debugging GenAI apps faster](https://github.com/DAGWorks-Inc/burr)
 * [2024-04-03, 13:21:28](https://news.ycombinator.com/item?id=39917107) - ['The Manipulaters' Improve Phishing, Still Fail at Opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
 * [2024-04-03, 13:08:33](https://news.ycombinator.com/item?id=39916972) - [Cloudflare R2 IA storage tier](https://blog.cloudflare.com/r2-events-gcs-migration-infrequent-access)
-* [2024-04-03, 12:20:48](https://news.ycombinator.com/item?id=39916503) - [The speed of sight: Individual variation in critical flicker fusion thresholds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298007)
 * [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre Transform, Better Explained (2017)](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-03, 10:28:25](https://news.ycombinator.com/item?id=39915594) - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
 * [2024-04-03, 05:52:35](https://news.ycombinator.com/item?id=39914047) - [Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads](https://github.com/0verread/goralim)
 * [2024-04-03, 05:30:50](https://news.ycombinator.com/item?id=39913913) - [America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150](https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [The ancient world before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
-* [2024-04-02, 22:36:23](https://news.ycombinator.com/item?id=39911587) - [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform WASM graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 05:07:46](https://news.ycombinator.com/item?id=39902576) - [Qiling: A True Instrumentable Binary Emulation Framework](https://github.com/qilingframework/qiling)
 
