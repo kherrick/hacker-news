@@ -28,8 +28,8 @@
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 03:50:58](https://news.ycombinator.com/item?id=39902207) - [Receive push notifications from your rice cooker](https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/)
-* [2024-04-01, 19:10:18](https://news.ycombinator.com/item?id=39897901) - [The Color of Silence](https://carlosalvarenga.substack.com/p/the-color-of-silence)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
+* [2024-03-31, 14:20:59](https://news.ycombinator.com/item?id=39884526) - [AMD Zen 5 Core CPU Arch Alleged to Be over 40% Faster Than Zen 4](https://hothardware.com/news/zen5-core-40pct-faster-zen4)
 
 ## [Archives](archives/index.md)
 
