@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 06:38:15](https://news.ycombinator.com/item?id=39914293) - [HP Disables Printer Functionality Until You Install the HP Smart App](https://twitter.com/Schappi/status/1775384892970533208/photo/1)
 * [2024-04-03, 06:07:58](https://news.ycombinator.com/item?id=39914142) - [Annin Robotics AR4, open plan low cost 6DOF desktop industrial robot](https://www.anninrobotics.com)
 * [2024-04-03, 05:35:47](https://news.ycombinator.com/item?id=39913946) - [Full EU chat control proposal attack on digital privacy and encryption](https://www.patrick-breyer.de/en/full-chat-control-proposal-leaked-attack-on-digital-privacy-of-correspondence-and-secure-encryption/)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)

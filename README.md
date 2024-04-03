@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 06:38:15](https://news.ycombinator.com/item?id=39914293) - [HP Disables Printer Functionality Until You Install the HP Smart App](https://twitter.com/Schappi/status/1775384892970533208/photo/1)
 * [2024-04-03, 06:07:58](https://news.ycombinator.com/item?id=39914142) - [Annin Robotics AR4, open plan low cost 6DOF desktop industrial robot](https://www.anninrobotics.com)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
@@ -28,7 +29,6 @@
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 03:50:58](https://news.ycombinator.com/item?id=39902207) - [Receive push notifications from your rice cooker](https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/)
-* [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
 
 ## [Archives](archives/index.md)
