@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 17:51:36](https://news.ycombinator.com/item?id=39920644) - [Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
+* [2024-04-03, 17:42:50](https://news.ycombinator.com/item?id=39920555) - [NASA, Lockheed Martin Working to Resolve Artemis II Orion Issues](https://www.nasaspaceflight.com/2024/04/resolving-artemis-ii-issues/)
 * [2024-04-03, 17:39:25](https://news.ycombinator.com/item?id=39920516) - [Ugreen to Challenge Synology with Affordable Series of NAS Hardware](https://petapixel.com/2024/03/26/ugreen-to-challenge-synology-with-affordable-series-of-nas-hardware/)
+* [2024-04-03, 16:58:52](https://news.ycombinator.com/item?id=39919910) - [Putting an xz Backdoor Payload in a Valid RSA Key](https://rya.nc/xz-valid-n.html)
 * [2024-04-03, 16:54:28](https://news.ycombinator.com/item?id=39919831) - [The Texas Triangle: A rising megaregion unlike all others](https://kinder.rice.edu/urbanedge/texas-triangle-rising-megaregion-unlike-all-others)
 * [2024-04-03, 16:49:54](https://news.ycombinator.com/item?id=39919757) - [Amazon's 'Just Walk Out' tech was powered by low-paid Indian workers: report](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/amazons-just-walk-out-tech-was-actually-powered-by-low-paid-indian-workers-report-12566201.html)
 * [2024-04-03, 16:47:38](https://news.ycombinator.com/item?id=39919725) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
@@ -21,6 +24,7 @@
 * [2024-04-03, 15:43:51](https://news.ycombinator.com/item?id=39918942) - [Plunging Pickup Truck Sales Threaten Detroit's Profit Engine](https://www.bloomberg.com/news/articles/2024-04-03/f-150-ram-pickup-sales-fall-as-americans-shift-to-cheaper-cars)
 * [2024-04-03, 15:31:42](https://news.ycombinator.com/item?id=39918778) - [George Carlin estate forces \"AI Carlin\" off the Internet for good](https://arstechnica.com/ai/2024/04/george-carlin-estate-forces-ai-carlin-off-the-internet-for-good/)
 * [2024-04-03, 15:14:37](https://news.ycombinator.com/item?id=39918553) - [Fisker's Ocean SUV investigated for doors that won't open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
+* [2024-04-03, 15:10:11](https://news.ycombinator.com/item?id=39918500) - [Show HN: Plandex – an AI coding engine for complex tasks](https://github.com/plandex-ai/plandex)
 * [2024-04-03, 14:53:53](https://news.ycombinator.com/item?id=39918278) - [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
 * [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
 * [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
@@ -43,6 +47,7 @@
 * [2024-04-03, 12:57:38](https://news.ycombinator.com/item?id=39916841) - [What books are these in the late Steve Job's Office?](https://twitter.com/devkanya_rck/status/1775494833412399170)
 * [2024-04-03, 12:49:45](https://news.ycombinator.com/item?id=39916761) - [Judge Sides with Tech Billionaires in CA Forever Case Against Family Ranchers](https://gizmodo.com/judge-sides-tech-billionaires-california-forever-case-1851381794)
 * [2024-04-03, 12:38:00](https://news.ycombinator.com/item?id=39916651) - [Founders Salarys](https://twitter.com/0zne/status/1774889594976338238)
+* [2024-04-03, 12:20:48](https://news.ycombinator.com/item?id=39916503) - [The speed of sight: Individual variation in critical flicker fusion thresholds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298007)
 * [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
 * [2024-04-03, 12:10:43](https://news.ycombinator.com/item?id=39916397) - [Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0)
 * [2024-04-03, 12:07:24](https://news.ycombinator.com/item?id=39916369) - [Welcome to the AI Gadget Era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
