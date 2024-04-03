@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-03, 15:57:24",
+      "https://news.ycombinator.com/item?id=39919109"
+    ],
+    [
+      "'Lavender': The AI machine directing Israel's bombing spree in Gaza",
+      "https://web.archive.org/web/20240403151726/https://www.972mag.com/lavender-ai-israeli-army-gaza/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 15:14:37",
+      "https://news.ycombinator.com/item?id=39918553"
+    ],
+    [
+      "Fisker's Ocean SUV investigated for doors that won't open",
+      "https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 14:53:53",
       "https://news.ycombinator.com/item?id=39918278"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2024-04-03, 14:34:04",
-      "https://news.ycombinator.com/item?id=39918055"
-    ],
-    [
-      "Best printer 2024, best printer for home use, office use, printing labels",
-      "https://www.theverge.com/2024/4/2/24117976/best-printer-2024-home-use-office-use-labels-school-homework"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 13:57:22",
       "https://news.ycombinator.com/item?id=39917551"
     ],
@@ -47,6 +57,16 @@
     [
       "New Seafloor Map Only 25% Done, with 6 Years to Go",
       "https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 13:54:28",
+      "https://news.ycombinator.com/item?id=39917509"
+    ],
+    [
+      "Improvements to static analysis in GCC 14",
+      "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-04-02, 09:15:35",
-      "https://news.ycombinator.com/item?id=39903738"
-    ],
-    [
-      "Los Alamos Chess",
-      "https://en.wikipedia.org/wiki/Los_Alamos_chess"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 09:05:04",
       "https://news.ycombinator.com/item?id=39903685"
     ],
@@ -287,16 +297,6 @@
     [
       "Timeline of the xz open source attack",
       "https://research.swtch.com/xz-timeline"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 13:48:07",
-      "https://news.ycombinator.com/item?id=39894148"
-    ],
-    [
-      "10 > 64, in QR Codes",
-      "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
     ]
   ]
 ]
