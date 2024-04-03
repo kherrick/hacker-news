@@ -89,6 +89,7 @@
 * [2024-04-02, 06:58:36](https://news.ycombinator.com/item?id=39903056) - [KraftCloud](https://github.com/unikraft/unikraft)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 05:56:34](https://news.ycombinator.com/item?id=39902791) - [Copilot pane as annoying as Clippy may pop up in Windows 11](https://www.theregister.com/2024/03/05/copilot_update_windows_11_beta_build/)
+* [2024-04-02, 05:07:46](https://news.ycombinator.com/item?id=39902576) - [Qiling: A True Instrumentable Binary Emulation Framework](https://github.com/qilingframework/qiling)
 * [2024-04-02, 04:50:04](https://news.ycombinator.com/item?id=39902489) - [Debugging (2003)](https://airs.com/ian/essays/debug/debug.html)
 * [2024-04-02, 04:30:44](https://news.ycombinator.com/item?id=39902395) - [What Would Society Look Like If Extreme Wealth Were Impossible?](https://www.theatlantic.com/family/archive/2024/04/ingrid-robeyns-limitarianism-makes-case-capping-wealth/677925/)
 * [2024-04-02, 04:24:18](https://news.ycombinator.com/item?id=39902372) - [You won't find a technical co-founder](https://www.breakneck.dev/blog/no-tech-cofounder)
