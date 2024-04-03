@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 * [2024-04-03, 18:51:54](https://news.ycombinator.com/item?id=39921432) - [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
 * [2024-04-03, 18:39:50](https://news.ycombinator.com/item?id=39921257) - [Why is observability so expensive?](https://mattklein123.dev/2024/04/03/observability-cost-crisis/)
 * [2024-04-03, 18:26:16](https://news.ycombinator.com/item?id=39921096) - [Google Is Killing Retro Dodo and Other Independent Sites](https://retrododo.com/google-is-killing-retro-dodo/)

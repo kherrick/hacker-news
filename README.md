@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 * [2024-04-03, 18:51:54](https://news.ycombinator.com/item?id=39921432) - [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
 * [2024-04-03, 18:22:52](https://news.ycombinator.com/item?id=39921064) - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
 * [2024-04-03, 18:18:53](https://news.ycombinator.com/item?id=39921000) - [JPMorgan to sell customer transaction data to advertisers](https://media.chase.com/news/chase-launches-chase-media-solutions)
@@ -29,7 +30,6 @@
 * [2024-04-02, 22:36:23](https://news.ycombinator.com/item?id=39911587) - [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
 * [2024-04-02, 16:46:32](https://news.ycombinator.com/item?id=39907876) - [CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform WASM graphics engine](https://news.ycombinator.com/item?id=39907845)
-* [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 
 ## [Archives](archives/index.md)
 
