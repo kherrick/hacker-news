@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 16:18:07](https://news.ycombinator.com/item?id=39919352) - [The Ethics of AI in Military Decision-Making: Unpacking Lavender and Its Impact](https://ytech.news/en/the-ethics-of-ai-in-military-decision-making-unpacking-lavender-and-its-impact/)
+* [2024-04-03, 16:07:34](https://news.ycombinator.com/item?id=39919226) - [The xz attack may be bad, but trusting Microsoft certs is worse](https://twitter.com/HackingDave/status/1775300793710612919)
 * [2024-04-03, 15:57:24](https://news.ycombinator.com/item?id=39919109) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://web.archive.org/web/20240403151726/https://www.972mag.com/lavender-ai-israeli-army-gaza/)
+* [2024-04-03, 15:43:51](https://news.ycombinator.com/item?id=39918942) - [Plunging Pickup Truck Sales Threaten Detroit's Profit Engine](https://www.bloomberg.com/news/articles/2024-04-03/f-150-ram-pickup-sales-fall-as-americans-shift-to-cheaper-cars)
 * [2024-04-03, 15:31:42](https://news.ycombinator.com/item?id=39918778) - [George Carlin estate forces \"AI Carlin\" off the Internet for good](https://arstechnica.com/ai/2024/04/george-carlin-estate-forces-ai-carlin-off-the-internet-for-good/)
 * [2024-04-03, 15:14:37](https://news.ycombinator.com/item?id=39918553) - [Fisker's Ocean SUV investigated for doors that won't open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
 * [2024-04-03, 14:53:53](https://news.ycombinator.com/item?id=39918278) - [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
