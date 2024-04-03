@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 05:35:47](https://news.ycombinator.com/item?id=39913946) - [Full EU chat control proposal attack on digital privacy and encryption](https://www.patrick-breyer.de/en/full-chat-control-proposal-leaked-attack-on-digital-privacy-of-correspondence-and-secure-encryption/)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
 * [2024-04-03, 01:56:34](https://news.ycombinator.com/item?id=39912854) - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
@@ -8,7 +9,6 @@
 * [2024-04-02, 23:26:37](https://news.ycombinator.com/item?id=39911961) - [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
 * [2024-04-02, 21:39:49](https://news.ycombinator.com/item?id=39911155) - [Science fiction and the death of the sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 * [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
-* [2024-04-02, 20:58:03](https://news.ycombinator.com/item?id=39910784) - [You Don't Feel Jet-Lagged When You Run a Fever (2016)](https://www.hopkinsmedicine.org/news/media/releases/heres_why_you_dont_feel_jet_lagged_when_you_run_a_fever)
 * [2024-04-02, 20:14:14](https://news.ycombinator.com/item?id=39910383) - [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
