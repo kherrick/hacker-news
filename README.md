@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-03, 05:35:47](https://news.ycombinator.com/item?id=39913946) - [Full EU chat control proposal attack on digital privacy and encryption](https://www.patrick-breyer.de/en/full-chat-control-proposal-leaked-attack-on-digital-privacy-of-correspondence-and-secure-encryption/)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
 * [2024-04-03, 01:56:34](https://news.ycombinator.com/item?id=39912854) - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
@@ -29,6 +28,7 @@
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 03:51:51](https://news.ycombinator.com/item?id=39902212) - [Bradford pear trees banned in few states – More are looking to eradicate them](https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/)
 * [2024-04-02, 03:50:58](https://news.ycombinator.com/item?id=39902207) - [Receive push notifications from your rice cooker](https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/)
+* [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
 
 ## [Archives](archives/index.md)
