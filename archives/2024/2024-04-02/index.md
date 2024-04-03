@@ -13,6 +13,7 @@
 * [2024-04-02, 21:48:29](https://news.ycombinator.com/item?id=39911219) - [Discovering Devin, Devika, and OpenDevin](https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/)
 * [2024-04-02, 21:39:49](https://news.ycombinator.com/item?id=39911155) - [Science Fiction and the Death of the Sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 * [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
+* [2024-04-02, 20:58:03](https://news.ycombinator.com/item?id=39910784) - [You Don't Feel Jet-Lagged When You Run a Fever (2016)](https://www.hopkinsmedicine.org/news/media/releases/heres_why_you_dont_feel_jet_lagged_when_you_run_a_fever)
 * [2024-04-02, 20:27:56](https://news.ycombinator.com/item?id=39910520) - [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
 * [2024-04-02, 20:14:14](https://news.ycombinator.com/item?id=39910383) - [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
