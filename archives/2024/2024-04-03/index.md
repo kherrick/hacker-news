@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 13:13:23](https://news.ycombinator.com/item?id=39917033) - [AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation](https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/)
 * [2024-04-03, 13:05:54](https://news.ycombinator.com/item?id=39916939) - [No joke: FTC boss goes on the Daily Show and is told Apple tried to block her](https://www.theregister.com/2024/04/02/ftc_boss_apple_daily_show/)
+* [2024-04-03, 13:05:19](https://news.ycombinator.com/item?id=39916931) - [What the Suburb Haters Don't Understand](https://www.theatlantic.com/family/archive/2024/04/nostalgia-nowhere-suburbs-strip-malls-subdivisions-community/677939/)
 * [2024-04-03, 13:01:41](https://news.ycombinator.com/item?id=39916882) - [Amazon Web Services cuts jobs in sales, training, and physical stores tech group](https://www.geekwire.com/2024/amazon-web-services-cuts-hundreds-of-jobs-in-sales-training-and-physical-stores-technology/)
+* [2024-04-03, 12:57:38](https://news.ycombinator.com/item?id=39916841) - [What books are these in the late Steve Job's Office?](https://twitter.com/devkanya_rck/status/1775494833412399170)
 * [2024-04-03, 12:38:00](https://news.ycombinator.com/item?id=39916651) - [Founders Salarys](https://twitter.com/0zne/status/1774889594976338238)
 * [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
 * [2024-04-03, 12:07:24](https://news.ycombinator.com/item?id=39916369) - [Welcome to the AI Gadget Era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
+* [2024-04-03, 11:57:04](https://news.ycombinator.com/item?id=39916282) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
+* [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-03, 11:41:01](https://news.ycombinator.com/item?id=39916142) - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
 * [2024-04-03, 11:36:46](https://news.ycombinator.com/item?id=39916102) - [White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)](https://www.bbc.co.uk/news/science-environment-68722032)
 * [2024-04-03, 11:18:22](https://news.ycombinator.com/item?id=39915968) - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
