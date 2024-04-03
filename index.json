@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-03, 21:13:25",
+      "https://news.ycombinator.com/item?id=39923231"
+    ],
+    [
+      "FCC to Vote on Restoring Net Neutrality",
+      "https://www.fcc.gov/document/fcc-vote-restoring-net-neutrality"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 21:06:20",
       "https://news.ycombinator.com/item?id=39923142"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2024-04-03, 20:35:30",
-      "https://news.ycombinator.com/item?id=39922737"
-    ],
-    [
-      "YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble",
-      "https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 20:25:58",
       "https://news.ycombinator.com/item?id=39922631"
     ],
     [
       "Logik: Open-source FPGA toolchain by Zero ASIC",
       "https://github.com/zeroasiccorp/logik"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 19:58:48",
-      "https://news.ycombinator.com/item?id=39922294"
-    ],
-    [
-      "Land Use Policies Make Urban Childcare Expensive and Rare",
-      "https://www.ryanpuzycki.com/p/who-cares-about-childcare"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "MOnSter 6502: a working transistor-scale replica of the classic MOS 6502",
       "https://monster6502.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 18:40:23",
+      "https://news.ycombinator.com/item?id=39921268"
+    ],
+    [
+      "The largest deep lake water cooling project just got bigger",
+      "https://www.theglobeandmail.com/business/industry-news/property-report/article-the-worlds-largest-deep-lake-water-cooling-project-just-got-bigger/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Tips for linking shell companies to their secret owners",
       "https://gijn.org/stories/tracking-shell-companies-secret-owners/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 16:08:49",
-      "https://news.ycombinator.com/item?id=39919242"
-    ],
-    [
-      "Show HN: Humble-HN, hide Hacker News number of votes, comments, and karma",
-      "https://github.com/alexmolas/humble-hn"
     ]
   ],
   [
@@ -165,18 +155,8 @@
       "https://news.ycombinator.com/item?id=39917830"
     ],
     [
-      "Saffron: The  Story of the World's Most Expensive Spice",
+      "Saffron: The Most Expensive Spice",
       "https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 13:57:22",
-      "https://news.ycombinator.com/item?id=39917551"
-    ],
-    [
-      "'Mini liver' will grow in person's own lymph node in bold new trial",
-      "https://www.nature.com/articles/d41586-024-00975-z"
     ]
   ],
   [
@@ -211,12 +191,22 @@
   ],
   [
     [
-      "2024-04-03, 13:21:28",
-      "https://news.ycombinator.com/item?id=39917107"
+      "2024-04-03, 13:31:44",
+      "https://news.ycombinator.com/item?id=39917215"
     ],
     [
-      "'The Manipulaters' Improve Phishing, Still Fail at Opsec",
-      "https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/"
+      "Blood, sweat, and water: paper analytical devices track health and environment",
+      "https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 12:37:13",
+      "https://news.ycombinator.com/item?id=39916639"
+    ],
+    [
+      "The Oxford English Dictionary's latest update adds 23 Japanese words",
+      "https://www.theguardian.com/books/2024/mar/27/the-oxford-english-dictionarys-latest-update-adds-23-japanese-words"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Legendre transform, better explained (2017)",
       "https://blog.jessriedel.com/2017/06/28/legendre-transform/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 11:42:13",
+      "https://news.ycombinator.com/item?id=39916151"
+    ],
+    [
+      "Making old orchards new again",
+      "https://modernfarmer.com/2024/04/making-old-orchards-new-again/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-04-03, 05:52:35",
-      "https://news.ycombinator.com/item?id=39914047"
+      "2024-04-03, 05:30:50",
+      "https://news.ycombinator.com/item?id=39913913"
     ],
     [
-      "Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads",
-      "https://github.com/0verread/goralim"
+      "America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150",
+      "https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39902576"
     ],
     [
-      "Qiling: A True Instrumentable Binary Emulation Framework",
+      "Qiling: A true instrumentable binary emulation framework",
       "https://github.com/qilingframework/qiling"
     ]
   ]
