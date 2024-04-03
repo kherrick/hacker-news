@@ -30,6 +30,7 @@
 * [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New Seafloor Map Only 25% Done, with 6 Years to Go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
+* [2024-04-03, 13:42:34](https://news.ycombinator.com/item?id=39917364) - [Show HN: Burr – A framework for building and debugging GenAI apps faster](https://github.com/DAGWorks-Inc/burr)
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 13:21:28](https://news.ycombinator.com/item?id=39917107) - ['The Manipulaters' Improve Phishing, Still Fail at Opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
 * [2024-04-03, 13:13:23](https://news.ycombinator.com/item?id=39917033) - [AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation](https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/)
