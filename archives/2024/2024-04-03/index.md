@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for Linking Shell Companies to Their Secret Owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 16:18:07](https://news.ycombinator.com/item?id=39919352) - [The Ethics of AI in Military Decision-Making: Unpacking Lavender and Its Impact](https://ytech.news/en/the-ethics-of-ai-in-military-decision-making-unpacking-lavender-and-its-impact/)
 * [2024-04-03, 16:07:34](https://news.ycombinator.com/item?id=39919226) - [The xz attack may be bad, but trusting Microsoft certs is worse](https://twitter.com/HackingDave/status/1775300793710612919)
 * [2024-04-03, 15:57:24](https://news.ycombinator.com/item?id=39919109) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://web.archive.org/web/20240403151726/https://www.972mag.com/lavender-ai-israeli-army-gaza/)
