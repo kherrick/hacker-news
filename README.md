@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-03, 18:39:50](https://news.ycombinator.com/item?id=39921257) - [Why is observability so expensive?](https://mattklein123.dev/2024/04/03/observability-cost-crisis/)
+* [2024-04-03, 18:51:54](https://news.ycombinator.com/item?id=39921432) - [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
 * [2024-04-03, 18:22:52](https://news.ycombinator.com/item?id=39921064) - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
 * [2024-04-03, 18:17:13](https://news.ycombinator.com/item?id=39920975) - [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
 * [2024-04-03, 18:11:03](https://news.ycombinator.com/item?id=39920890) - [Unreal Engine 5 multi-threaded rendering in the browser with WASM](https://temple.tiwsamples.com/)
