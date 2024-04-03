@@ -5,7 +5,6 @@
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 * [2024-04-03, 18:51:54](https://news.ycombinator.com/item?id=39921432) - [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
 * [2024-04-03, 18:22:52](https://news.ycombinator.com/item?id=39921064) - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
-* [2024-04-03, 18:18:53](https://news.ycombinator.com/item?id=39921000) - [JPMorgan to sell customer transaction data to advertisers](https://media.chase.com/news/chase-launches-chase-media-solutions)
 * [2024-04-03, 18:17:13](https://news.ycombinator.com/item?id=39920975) - [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
 * [2024-04-03, 17:51:36](https://news.ycombinator.com/item?id=39920644) - [Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 17:42:50](https://news.ycombinator.com/item?id=39920555) - [NASA, Lockheed Martin Working to Resolve Artemis II Orion Issues](https://www.nasaspaceflight.com/2024/04/resolving-artemis-ii-issues/)
@@ -28,6 +27,7 @@
 * [2024-04-03, 05:52:35](https://news.ycombinator.com/item?id=39914047) - [Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads](https://github.com/0verread/goralim)
 * [2024-04-03, 05:30:50](https://news.ycombinator.com/item?id=39913913) - [America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150](https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [The ancient world before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
+* [2024-04-02, 22:36:23](https://news.ycombinator.com/item?id=39911587) - [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform WASM graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 05:07:46](https://news.ycombinator.com/item?id=39902576) - [Qiling: A True Instrumentable Binary Emulation Framework](https://github.com/qilingframework/qiling)
 
