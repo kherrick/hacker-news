@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-04-03, 16:58:52",
-      "https://news.ycombinator.com/item?id=39919910"
-    ],
-    [
-      "Putting an xz Backdoor Payload in a Valid RSA Key",
-      "https://rya.nc/xz-valid-n.html"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 16:54:28",
       "https://news.ycombinator.com/item?id=39919831"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2024-04-03, 13:31:44",
+      "https://news.ycombinator.com/item?id=39917215"
+    ],
+    [
+      "Blood, sweat, and water: paper analytical devices track health and environment",
+      "https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 13:21:28",
       "https://news.ycombinator.com/item?id=39917107"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-04-03, 03:01:19",
-      "https://news.ycombinator.com/item?id=39913197"
-    ],
-    [
-      "Show HN: Portr – open-source ngrok alternative designed for teams",
-      "https://github.com/amalshaji/portr"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 22:36:23",
       "https://news.ycombinator.com/item?id=39911587"
     ],
@@ -287,6 +277,16 @@
     [
       "3D + 2D: Testing out my cross-platform WASM graphics engine",
       "https://news.ycombinator.com/item?id=39907845"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 09:05:04",
+      "https://news.ycombinator.com/item?id=39903685"
+    ],
+    [
+      "The xz attack shell script",
+      "https://research.swtch.com/xz-script"
     ]
   ],
   [
