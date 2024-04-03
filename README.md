@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 03:29:30](https://news.ycombinator.com/item?id=39913334) - [Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?](https://github.com/reactjs/react.dev/issues/3896)
 * [2024-04-03, 02:46:35](https://news.ycombinator.com/item?id=39913117) - [Why will my device lose access to Libby & OverDrive April 15, 2024?](https://help.overdrive.com/en-us/2271.htm)
 * [2024-04-03, 01:56:34](https://news.ycombinator.com/item?id=39912854) - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
 * [2024-04-03, 01:42:31](https://news.ycombinator.com/item?id=39912771) - [The Threat of Discontinued Software (2021)](https://almy.us/softwaredeath.html)
@@ -8,7 +9,6 @@
 * [2024-04-02, 22:40:00](https://news.ycombinator.com/item?id=39911616) - [Show HN: Generate admin apps without writing a single line of code](https://github.com/dashpresshq/dashpress)
 * [2024-04-02, 21:39:49](https://news.ycombinator.com/item?id=39911155) - [Science fiction and the death of the sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 * [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
-* [2024-04-02, 20:58:03](https://news.ycombinator.com/item?id=39910784) - [You Don't Feel Jet-Lagged When You Run a Fever (2016)](https://www.hopkinsmedicine.org/news/media/releases/heres_why_you_dont_feel_jet_lagged_when_you_run_a_fever)
 * [2024-04-02, 20:14:14](https://news.ycombinator.com/item?id=39910383) - [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
