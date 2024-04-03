@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-03, 23:21:51](https://news.ycombinator.com/item?id=39924634) - [Roblox Accused of Concocting Illegal Gambling Ring for Minors](https://news.bloomberglaw.com/privacy-and-data-security/roblox-accused-of-concocting-illegal-gambling-ring-for-minors)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 20:35:30](https://news.ycombinator.com/item?id=39922737) - [YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 * [2024-04-03, 20:25:58](https://news.ycombinator.com/item?id=39922631) - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
@@ -20,6 +19,7 @@
 * [2024-04-03, 13:42:34](https://news.ycombinator.com/item?id=39917364) - [Show HN: Burr – A framework for building and debugging GenAI apps faster](https://github.com/DAGWorks-Inc/burr)
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 13:21:28](https://news.ycombinator.com/item?id=39917107) - ['The Manipulaters' improve phishing, still fail at opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
+* [2024-04-03, 12:20:48](https://news.ycombinator.com/item?id=39916503) - [The speed of sight: Individual variation in critical flicker fusion thresholds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298007)
 * [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre transform, better explained (2017)](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:42:13](https://news.ycombinator.com/item?id=39916151) - [Making old orchards new again](https://modernfarmer.com/2024/04/making-old-orchards-new-again/)
 * [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
