@@ -6,6 +6,7 @@
 
 * [2024-04-03, 13:13:23](https://news.ycombinator.com/item?id=39917033) - [AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation](https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/)
 * [2024-04-03, 13:05:54](https://news.ycombinator.com/item?id=39916939) - [No joke: FTC boss goes on the Daily Show and is told Apple tried to block her](https://www.theregister.com/2024/04/02/ftc_boss_apple_daily_show/)
+* [2024-04-03, 13:01:41](https://news.ycombinator.com/item?id=39916882) - [Amazon Web Services cuts jobs in sales, training, and physical stores tech group](https://www.geekwire.com/2024/amazon-web-services-cuts-hundreds-of-jobs-in-sales-training-and-physical-stores-technology/)
 * [2024-04-03, 12:38:00](https://news.ycombinator.com/item?id=39916651) - [Founders Salarys](https://twitter.com/0zne/status/1774889594976338238)
 * [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
 * [2024-04-03, 12:07:24](https://news.ycombinator.com/item?id=39916369) - [Welcome to the AI Gadget Era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)

@@ -2,6 +2,7 @@
 
 * [2024-04-03, 13:13:23](https://news.ycombinator.com/item?id=39917033) - [AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation](https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/)
 * [2024-04-03, 13:05:54](https://news.ycombinator.com/item?id=39916939) - [No joke: FTC boss goes on the Daily Show and is told Apple tried to block her](https://www.theregister.com/2024/04/02/ftc_boss_apple_daily_show/)
+* [2024-04-03, 13:01:41](https://news.ycombinator.com/item?id=39916882) - [Amazon Web Services cuts jobs in sales, training, and physical stores tech group](https://www.geekwire.com/2024/amazon-web-services-cuts-hundreds-of-jobs-in-sales-training-and-physical-stores-technology/)
 * [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
 * [2024-04-03, 12:07:24](https://news.ycombinator.com/item?id=39916369) - [Welcome to the AI Gadget Era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
 * [2024-04-03, 11:41:01](https://news.ycombinator.com/item?id=39916142) - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
@@ -29,7 +30,6 @@
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 03:58:00](https://news.ycombinator.com/item?id=39902241) - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
-* [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 
 ## [Archives](archives/index.md)
 
