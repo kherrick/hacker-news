@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-04-03, 17:39:25",
-      "https://news.ycombinator.com/item?id=39920516"
+      "2024-04-03, 17:51:36",
+      "https://news.ycombinator.com/item?id=39920644"
     ],
     [
-      "Ugreen to Challenge Synology with Affordable Series of NAS Hardware",
-      "https://petapixel.com/2024/03/26/ugreen-to-challenge-synology-with-affordable-series-of-nas-hardware/"
+      "Jpegli: A New JPEG Coding Library",
+      "https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 17:42:50",
+      "https://news.ycombinator.com/item?id=39920555"
+    ],
+    [
+      "NASA, Lockheed Martin Working to Resolve Artemis II Orion Issues",
+      "https://www.nasaspaceflight.com/2024/04/resolving-artemis-ii-issues/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 16:58:52",
+      "https://news.ycombinator.com/item?id=39919910"
+    ],
+    [
+      "Putting an xz Backdoor Payload in a Valid RSA Key",
+      "https://rya.nc/xz-valid-n.html"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Tips for Linking Shell Companies to Their Secret Owners",
       "https://gijn.org/stories/tracking-shell-companies-secret-owners/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 15:10:11",
+      "https://news.ycombinator.com/item?id=39918500"
+    ],
+    [
+      "Show HN: Plandex – an AI coding engine for complex tasks",
+      "https://github.com/plandex-ai/plandex"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-04-03, 13:31:44",
-      "https://news.ycombinator.com/item?id=39917215"
-    ],
-    [
-      "Blood, sweat, and water: paper analytical devices track health and environment",
-      "https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 13:21:28",
       "https://news.ycombinator.com/item?id=39917107"
     ],
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2024-04-03, 12:20:48",
+      "https://news.ycombinator.com/item?id=39916503"
+    ],
+    [
+      "The speed of sight: Individual variation in critical flicker fusion thresholds",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298007"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 11:44:02",
       "https://news.ycombinator.com/item?id=39916165"
     ],
@@ -157,16 +187,6 @@
     [
       "LiveView Is Best with Svelte",
       "https://blog.sequin.io/liveview-is-best-with-svelte/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 11:36:46",
-      "https://news.ycombinator.com/item?id=39916102"
-    ],
-    [
-      "White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)",
-      "https://www.bbc.co.uk/news/science-environment-68722032"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-04-02, 09:05:04",
-      "https://news.ycombinator.com/item?id=39903685"
-    ],
-    [
-      "The xz attack shell script",
-      "https://research.swtch.com/xz-script"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 06:13:23",
       "https://news.ycombinator.com/item?id=39902854"
     ],
     [
       "Avoid blundering: 80% of a winning strategy",
       "https://longform.asmartbear.com/avoid-blundering/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 03:58:00",
-      "https://news.ycombinator.com/item?id=39902241"
-    ],
-    [
-      "Timeline of the xz open source attack",
-      "https://research.swtch.com/xz-timeline"
     ]
   ]
 ]
