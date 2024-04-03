@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 16:30:57](https://news.ycombinator.com/item?id=39919505) - [Oregon governor signs bill recriminalizing drug possession into law](https://apnews.com/article/oregon-drug-recriminalization-law-signed-governor-96e36ed60e999572bbf47c160b412a73)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for Linking Shell Companies to Their Secret Owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 16:18:07](https://news.ycombinator.com/item?id=39919352) - [The Ethics of AI in Military Decision-Making: Unpacking Lavender and Its Impact](https://ytech.news/en/the-ethics-of-ai-in-military-decision-making-unpacking-lavender-and-its-impact/)
 * [2024-04-03, 16:07:34](https://news.ycombinator.com/item?id=39919226) - [The xz attack may be bad, but trusting Microsoft certs is worse](https://twitter.com/HackingDave/status/1775300793710612919)
@@ -13,7 +14,6 @@
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 13:21:28](https://news.ycombinator.com/item?id=39917107) - ['The Manipulaters' Improve Phishing, Still Fail at Opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
 * [2024-04-03, 13:08:33](https://news.ycombinator.com/item?id=39916972) - [Cloudflare R2 IA storage tier](https://blog.cloudflare.com/r2-events-gcs-migration-infrequent-access)
-* [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
 * [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre Transform, Better Explained (2017)](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-03, 11:36:46](https://news.ycombinator.com/item?id=39916102) - [White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)](https://www.bbc.co.uk/news/science-environment-68722032)
