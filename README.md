@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 23:21:51](https://news.ycombinator.com/item?id=39924634) - [Roblox Accused of Concocting Illegal Gambling Ring for Minors](https://news.bloomberglaw.com/privacy-and-data-security/roblox-accused-of-concocting-illegal-gambling-ring-for-minors)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
-* [2024-04-03, 20:57:06](https://news.ycombinator.com/item?id=39923023) - [Pitcairn Island Immigration](https://www.immigration.pn)
 * [2024-04-03, 20:35:30](https://news.ycombinator.com/item?id=39922737) - [YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 * [2024-04-03, 20:25:58](https://news.ycombinator.com/item?id=39922631) - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
