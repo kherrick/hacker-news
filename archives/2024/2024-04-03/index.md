@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 16:49:54](https://news.ycombinator.com/item?id=39919757) - [Amazon's 'Just Walk Out' tech was powered by low-paid Indian workers: report](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/amazons-just-walk-out-tech-was-actually-powered-by-low-paid-indian-workers-report-12566201.html)
 * [2024-04-03, 16:47:38](https://news.ycombinator.com/item?id=39919725) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 * [2024-04-03, 16:46:35](https://news.ycombinator.com/item?id=39919713) - [An EMP or Solar Incident Could Result in Blackout Warfare](https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare)
 * [2024-04-03, 16:42:04](https://news.ycombinator.com/item?id=39919646) - [Iowa sysadmin pleads guilty to 33-year identity theft of former co-worker](https://www.theregister.com/2024/04/03/sysadmin_33_year_id_theft/)
@@ -24,6 +25,7 @@
 * [2024-04-03, 14:43:45](https://news.ycombinator.com/item?id=39918165) - [Gen-Z is shunning college to take up traditional trades like welding, plumbing](https://www.dailymail.co.uk/news/article-13265379/Gen-Z-trade-school-college-debt-trade-work-jobs.html)
 * [2024-04-03, 14:34:04](https://news.ycombinator.com/item?id=39918055) - [Best printer 2024, best printer for home use, office use, printing labels](https://www.theverge.com/2024/4/2/24117976/best-printer-2024-home-use-office-use-labels-school-homework)
 * [2024-04-03, 14:20:32](https://news.ycombinator.com/item?id=39917873) - [Ubuntu 24.04 Beta Delayed Due to XZ Nightmare](https://www.phoronix.com/news/Ubuntu-24.04-Beta-Delayed)
+* [2024-04-03, 14:17:10](https://news.ycombinator.com/item?id=39917830) - [Saffron: The  Story of the World's Most Expensive Spice](https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/)
 * [2024-04-03, 14:08:38](https://news.ycombinator.com/item?id=39917727) - [Israel used AI to identify 37,000 Hamas targets](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
 * [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New Seafloor Map Only 25% Done, with 6 Years to Go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
