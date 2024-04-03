@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 18:26:16](https://news.ycombinator.com/item?id=39921096) - [Google Is Killing Retro Dodo and Other Independent Sites](https://retrododo.com/google-is-killing-retro-dodo/)
 * [2024-04-03, 18:22:52](https://news.ycombinator.com/item?id=39921064) - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
 * [2024-04-03, 18:17:13](https://news.ycombinator.com/item?id=39920975) - [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
 * [2024-04-03, 18:04:28](https://news.ycombinator.com/item?id=39920798) - [Growth is a mind cancer](https://manuelmoreale.com/growth-is-a-mind-cancer)
@@ -58,6 +59,7 @@
 * [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre Transform, Better Explained](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-03, 11:41:01](https://news.ycombinator.com/item?id=39916142) - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
+* [2024-04-03, 11:39:39](https://news.ycombinator.com/item?id=39916133) - [German state Schleswig Holstein is rolling out their Open Source strategy](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/Presse/PI/2024/CdS/240403_cds_it-arbeitsplatz.html)
 * [2024-04-03, 11:36:46](https://news.ycombinator.com/item?id=39916102) - [White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)](https://www.bbc.co.uk/news/science-environment-68722032)
 * [2024-04-03, 11:18:22](https://news.ycombinator.com/item?id=39915968) - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
 * [2024-04-03, 10:57:29](https://news.ycombinator.com/item?id=39915801) - [Show HN: I made a library for LLM prompt injection/exploit/jailbreak detection](https://github.com/lastlayer/last_layer)
