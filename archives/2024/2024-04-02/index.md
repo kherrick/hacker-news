@@ -11,6 +11,7 @@
 * [2024-04-02, 22:40:00](https://news.ycombinator.com/item?id=39911616) - [Show HN: Generate admin apps without writing a single line of code](https://github.com/dashpresshq/dashpress)
 * [2024-04-02, 22:37:03](https://news.ycombinator.com/item?id=39911594) - [Show HN: A Product Hunt Alternative for Indie Makers](https://www.indiehunting.com/)
 * [2024-04-02, 22:36:23](https://news.ycombinator.com/item?id=39911587) - [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
+* [2024-04-02, 22:00:29](https://news.ycombinator.com/item?id=39911311) - [How the XZ Backdoor Works](https://lwn.net/SubscriberLink/967192/6c39d47b5f299a23/)
 * [2024-04-02, 21:48:29](https://news.ycombinator.com/item?id=39911219) - [Discovering Devin, Devika, and OpenDevin](https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/)
 * [2024-04-02, 21:39:49](https://news.ycombinator.com/item?id=39911155) - [Science Fiction and the Death of the Sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 * [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
