@@ -34,6 +34,7 @@
 * [2024-04-03, 16:29:45](https://news.ycombinator.com/item?id=39919491) - [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for Linking Shell Companies to Their Secret Owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 16:18:07](https://news.ycombinator.com/item?id=39919352) - [The Ethics of AI in Military Decision-Making: Unpacking Lavender and Its Impact](https://ytech.news/en/the-ethics-of-ai-in-military-decision-making-unpacking-lavender-and-its-impact/)
+* [2024-04-03, 16:08:49](https://news.ycombinator.com/item?id=39919242) - [Show HN: Humble-HN, hide Hacker News number of votes, comments, and karma](https://github.com/alexmolas/humble-hn)
 * [2024-04-03, 16:07:34](https://news.ycombinator.com/item?id=39919226) - [The xz attack may be bad, but trusting Microsoft certs is worse](https://twitter.com/HackingDave/status/1775300793710612919)
 * [2024-04-03, 15:57:24](https://news.ycombinator.com/item?id=39919109) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://web.archive.org/web/20240403151726/https://www.972mag.com/lavender-ai-israeli-army-gaza/)
 * [2024-04-03, 15:43:51](https://news.ycombinator.com/item?id=39918942) - [Plunging Pickup Truck Sales Threaten Detroit's Profit Engine](https://www.bloomberg.com/news/articles/2024-04-03/f-150-ram-pickup-sales-fall-as-americans-shift-to-cheaper-cars)
