@@ -11,52 +11,12 @@
   ],
   [
     [
-      "2024-04-03, 13:13:23",
-      "https://news.ycombinator.com/item?id=39917033"
+      "2024-04-03, 12:49:45",
+      "https://news.ycombinator.com/item?id=39916761"
     ],
     [
-      "AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation",
-      "https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 13:05:54",
-      "https://news.ycombinator.com/item?id=39916939"
-    ],
-    [
-      "No joke: FTC boss goes on the Daily Show and is told Apple tried to block her",
-      "https://www.theregister.com/2024/04/02/ftc_boss_apple_daily_show/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 13:05:19",
-      "https://news.ycombinator.com/item?id=39916931"
-    ],
-    [
-      "What the Suburb Haters Don't Understand",
-      "https://www.theatlantic.com/family/archive/2024/04/nostalgia-nowhere-suburbs-strip-malls-subdivisions-community/677939/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 12:13:58",
-      "https://news.ycombinator.com/item?id=39916439"
-    ],
-    [
-      "Opera becomes the first major browser with built-in access to local AI models",
-      "https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 12:07:24",
-      "https://news.ycombinator.com/item?id=39916369"
-    ],
-    [
-      "Welcome to the AI Gadget Era",
-      "https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta"
+      "Judge Sides with Tech Billionaires in CA Forever Case Against Family Ranchers",
+      "https://gizmodo.com/judge-sides-tech-billionaires-california-forever-case-1851381794"
     ]
   ],
   [
@@ -81,16 +41,6 @@
   ],
   [
     [
-      "2024-04-03, 11:41:01",
-      "https://news.ycombinator.com/item?id=39916142"
-    ],
-    [
-      "Long-term nuclear waste warning messages",
-      "https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 11:36:46",
       "https://news.ycombinator.com/item?id=39916102"
     ],
@@ -101,42 +51,12 @@
   ],
   [
     [
-      "2024-04-03, 11:18:22",
-      "https://news.ycombinator.com/item?id=39915968"
-    ],
-    [
-      "Every Dunder Method in Python",
-      "https://www.pythonmorsels.com/every-dunder-method/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 10:28:25",
       "https://news.ycombinator.com/item?id=39915594"
     ],
     [
       "PyTorch Library for Running LLM on Intel CPU and GPU",
       "https://github.com/intel-analytics/ipex-llm"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 10:10:01",
-      "https://news.ycombinator.com/item?id=39915473"
-    ],
-    [
-      "Redict 7.3.0, a copyleft fork of Redis, is now available",
-      "https://redict.io/posts/2024-04-03-redict-7.3.0-released/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 08:56:14",
-      "https://news.ycombinator.com/item?id=39914981"
-    ],
-    [
-      "Reflections on Distrusting xz",
-      "https://joeyh.name/blog/entry/reflections_on_distrusting_xz/"
     ]
   ],
   [
@@ -167,16 +87,6 @@
     [
       "The Rise and Fall of 3M's Floppy Disk",
       "https://spectrum.ieee.org/3m-floppy"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 04:02:02",
-      "https://news.ycombinator.com/item?id=39913490"
-    ],
-    [
-      "Python Project-Local Virtualenv Management Redux",
-      "https://hynek.me/articles/python-virtualenv-redux/"
     ]
   ],
   [
@@ -221,12 +131,12 @@
   ],
   [
     [
-      "2024-04-02, 22:00:29",
-      "https://news.ycombinator.com/item?id=39911311"
+      "2024-04-02, 21:39:49",
+      "https://news.ycombinator.com/item?id=39911155"
     ],
     [
-      "How the XZ Backdoor Works",
-      "https://lwn.net/SubscriberLink/967192/6c39d47b5f299a23/"
+      "Science fiction and the death of the sun",
+      "https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/"
     ]
   ],
   [
@@ -247,6 +157,26 @@
     [
       "A Brazilian special-forces unit fighting to save the Amazon",
       "https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 19:49:14",
+      "https://news.ycombinator.com/item?id=39910119"
+    ],
+    [
+      "Anonymous public voicemail inbox",
+      "https://afterthebeep.tel/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 18:23:35",
+      "https://news.ycombinator.com/item?id=39909123"
+    ],
+    [
+      "A rudimentary simulation of the three-body problem",
+      "https://github.com/achristmascarl/three_body"
     ]
   ],
   [
@@ -281,6 +211,26 @@
   ],
   [
     [
+      "2024-04-02, 15:31:08",
+      "https://news.ycombinator.com/item?id=39906887"
+    ],
+    [
+      "Recreating the Flying Toasters screen saver for the Vision Pro",
+      "https://abhipray.com/posts/flying_toasters/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 09:15:35",
+      "https://news.ycombinator.com/item?id=39903738"
+    ],
+    [
+      "Los Alamos Chess",
+      "https://en.wikipedia.org/wiki/Los_Alamos_chess"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 09:05:04",
       "https://news.ycombinator.com/item?id=39903685"
     ],
@@ -297,6 +247,56 @@
     [
       "Avoid blundering: 80% of a winning strategy",
       "https://longform.asmartbear.com/avoid-blundering/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 03:58:00",
+      "https://news.ycombinator.com/item?id=39902241"
+    ],
+    [
+      "Timeline of the xz open source attack",
+      "https://research.swtch.com/xz-timeline"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 03:51:51",
+      "https://news.ycombinator.com/item?id=39902212"
+    ],
+    [
+      "Bradford pear trees banned in few states – More are looking to eradicate them",
+      "https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 03:50:18",
+      "https://news.ycombinator.com/item?id=39902205"
+    ],
+    [
+      "Low Cost Robot Arm",
+      "https://github.com/AlexanderKoch-Koch/low_cost_robot"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 13:48:07",
+      "https://news.ycombinator.com/item?id=39894148"
+    ],
+    [
+      "10 > 64, in QR Codes",
+      "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 00:22:51",
+      "https://news.ycombinator.com/item?id=39889558"
+    ],
+    [
+      "Ross Anderson",
+      "https://www.schneier.com/blog/archives/2024/03/ross-anderson.html"
     ]
   ]
 ]
