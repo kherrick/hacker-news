@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
-* [2024-04-03, 03:29:30](https://news.ycombinator.com/item?id=39913334) - [Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?](https://github.com/reactjs/react.dev/issues/3896)
-* [2024-04-03, 02:46:35](https://news.ycombinator.com/item?id=39913117) - [Why will my device lose access to Libby & OverDrive April 15, 2024?](https://help.overdrive.com/en-us/2271.htm)
+* [2024-04-03, 03:32:41](https://news.ycombinator.com/item?id=39913353) - [Eight U.S. States Now Have Plans to Ban Sales of Gas-Powered Cars](https://money.com/states-banning-gas-powered-cars/)
 * [2024-04-03, 01:56:34](https://news.ycombinator.com/item?id=39912854) - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
 * [2024-04-03, 01:42:31](https://news.ycombinator.com/item?id=39912771) - [The Threat of Discontinued Software (2021)](https://almy.us/softwaredeath.html)
 * [2024-04-03, 00:24:56](https://news.ycombinator.com/item?id=39912330) - [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
@@ -24,12 +23,13 @@
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform WASM graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 16:16:07](https://news.ycombinator.com/item?id=39907468) - [Princeton group open sources \"SWE-agent\", with 12% fix rate for GitHub issues](https://github.com/princeton-nlp/SWE-agent)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with NextJS and AI](https://news.ycombinator.com/item?id=39907073)
+* [2024-04-02, 15:31:08](https://news.ycombinator.com/item?id=39906887) - [Recreating the Flying Toasters screen saver for the Vision Pro](https://abhipray.com/posts/flying_toasters/)
+* [2024-04-02, 13:40:01](https://news.ycombinator.com/item?id=39905644) - [DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
 * [2024-04-02, 09:15:35](https://news.ycombinator.com/item?id=39903738) - [Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
+* [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 03:50:58](https://news.ycombinator.com/item?id=39902207) - [Receive push notifications from your rice cooker](https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/)
-* [2024-04-01, 15:01:04](https://news.ycombinator.com/item?id=39894823) - [Show HN: Floro – Visual Version Control](https://news.ycombinator.com/item?id=39894823)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
-* [2024-03-31, 19:34:16](https://news.ycombinator.com/item?id=39887315) - [Nails Through the Ages: A Look at the History and Evolution of Nails](https://medium.com/@ritikwriter/nails-through-the-ages-a-look-at-the-history-and-evolution-of-nails-f827ae8ee9fe)
 
 ## [Archives](archives/index.md)
 
