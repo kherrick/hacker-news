@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 13:13:23](https://news.ycombinator.com/item?id=39917033) - [AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation](https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/)
+* [2024-04-03, 13:05:54](https://news.ycombinator.com/item?id=39916939) - [No joke: FTC boss goes on the Daily Show and is told Apple tried to block her](https://www.theregister.com/2024/04/02/ftc_boss_apple_daily_show/)
 * [2024-04-03, 12:38:00](https://news.ycombinator.com/item?id=39916651) - [Founders Salarys](https://twitter.com/0zne/status/1774889594976338238)
+* [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
+* [2024-04-03, 12:07:24](https://news.ycombinator.com/item?id=39916369) - [Welcome to the AI Gadget Era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
 * [2024-04-03, 11:41:01](https://news.ycombinator.com/item?id=39916142) - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
+* [2024-04-03, 11:36:46](https://news.ycombinator.com/item?id=39916102) - [White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)](https://www.bbc.co.uk/news/science-environment-68722032)
 * [2024-04-03, 11:18:22](https://news.ycombinator.com/item?id=39915968) - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
 * [2024-04-03, 10:34:45](https://news.ycombinator.com/item?id=39915636) - [Russian influence network in Europe: list of promoted politicians](https://insightnews.media/russian-influence-network-in-europe-list-of-promoted-politicians/)
 * [2024-04-03, 10:28:25](https://news.ycombinator.com/item?id=39915594) - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
@@ -20,6 +25,7 @@
 * [2024-04-03, 06:38:15](https://news.ycombinator.com/item?id=39914293) - [HP Disables Printer Functionality Until You Install the HP Smart App](https://twitter.com/Schappi/status/1775384892970533208/photo/1)
 * [2024-04-03, 06:24:18](https://news.ycombinator.com/item?id=39914230) - [OpenTelemetry Is Too Complicated](https://www.datanami.com/2024/04/01/opentelemetry-is-too-complicated-victoriametrics-says/)
 * [2024-04-03, 06:07:58](https://news.ycombinator.com/item?id=39914142) - [Annin Robotics AR4, open plan low cost 6DOF desktop industrial robot](https://www.anninrobotics.com)
+* [2024-04-03, 05:52:35](https://news.ycombinator.com/item?id=39914047) - [Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads](https://github.com/0verread/goralim)
 * [2024-04-03, 05:35:47](https://news.ycombinator.com/item?id=39913946) - [Full EU chat control proposal attack on digital privacy and encryption](https://www.patrick-breyer.de/en/full-chat-control-proposal-leaked-attack-on-digital-privacy-of-correspondence-and-secure-encryption/)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
