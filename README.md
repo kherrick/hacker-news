@@ -22,12 +22,12 @@
 * [2024-04-02, 17:06:25](https://news.ycombinator.com/item?id=39908146) - [Everything I know about SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 * [2024-04-02, 16:46:32](https://news.ycombinator.com/item?id=39907876) - [CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform WASM graphics engine](https://news.ycombinator.com/item?id=39907845)
-* [2024-04-02, 16:16:07](https://news.ycombinator.com/item?id=39907468) - [Princeton group open sources \"SWE-agent\", with 12% fix rate for GitHub issues](https://github.com/princeton-nlp/SWE-agent)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with NextJS and AI](https://news.ycombinator.com/item?id=39907073)
 * [2024-04-02, 15:31:08](https://news.ycombinator.com/item?id=39906887) - [Recreating the Flying Toasters screen saver for the Vision Pro](https://abhipray.com/posts/flying_toasters/)
 * [2024-04-02, 09:15:35](https://news.ycombinator.com/item?id=39903738) - [Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
+* [2024-04-01, 19:10:18](https://news.ycombinator.com/item?id=39897901) - [The Color of Silence](https://carlosalvarenga.substack.com/p/the-color-of-silence)
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
 
