@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
 * [2024-04-03, 10:34:45](https://news.ycombinator.com/item?id=39915636) - [Russian influence network in Europe: list of promoted politicians](https://insightnews.media/russian-influence-network-in-europe-list-of-promoted-politicians/)
+* [2024-04-03, 10:28:25](https://news.ycombinator.com/item?id=39915594) - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
 * [2024-04-03, 10:10:01](https://news.ycombinator.com/item?id=39915473) - [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
 * [2024-04-03, 10:03:44](https://news.ycombinator.com/item?id=39915437) - [Censorship: Jon Stewart says Apple told him not to interview FTC chair Lina Khan](https://www.theguardian.com/media/2024/apr/02/jon-stewart-interview-lina-khan-apple)
 * [2024-04-03, 09:42:19](https://news.ycombinator.com/item?id=39915268) - [Cups vs. grams: why can't American and British cooks agree on food measurements?](https://www.theguardian.com/food/2024/apr/02/cups-v-grams-why-cant-american-and-british-cooks-agree-on-food-measurements)
@@ -21,6 +22,7 @@
 * [2024-04-03, 04:02:02](https://news.ycombinator.com/item?id=39913490) - [Python Project-Local Virtualenv Management Redux](https://hynek.me/articles/python-virtualenv-redux/)
 * [2024-04-03, 03:32:41](https://news.ycombinator.com/item?id=39913353) - [Eight U.S. States Now Have Plans to Ban Sales of Gas-Powered Cars](https://money.com/states-banning-gas-powered-cars/)
 * [2024-04-03, 03:29:30](https://news.ycombinator.com/item?id=39913334) - [Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?](https://github.com/reactjs/react.dev/issues/3896)
+* [2024-04-03, 03:01:19](https://news.ycombinator.com/item?id=39913197) - [Portr – open-source ngrok alternative designed for teams](https://github.com/amalshaji/portr)
 * [2024-04-03, 02:46:35](https://news.ycombinator.com/item?id=39913117) - [Why will my device lose access to Libby & OverDrive April 15, 2024?](https://help.overdrive.com/en-us/2271.htm)
 * [2024-04-03, 02:10:01](https://news.ycombinator.com/item?id=39912916) - [Microsoft offered FFmpeg small one-time payment instead of support contract](https://twitter.com/FFmpeg/status/1775178805704888726)
 * [2024-04-03, 01:56:34](https://news.ycombinator.com/item?id=39912854) - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
