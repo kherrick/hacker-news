@@ -34,6 +34,7 @@
 * [2024-03-31, 20:16:42](https://news.ycombinator.com/item?id=39887661) - [Aphantasia and hyperphantasia: exploring imagery vividness extremes](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2?)
 * [2024-03-31, 19:47:41](https://news.ycombinator.com/item?id=39887428) - [XZ Backdoor Investigation Request to Gitlab Team](https://gitlab.com/gitlab-org/gitlab/-/issues/452603)
 * [2024-03-31, 19:40:43](https://news.ycombinator.com/item?id=39887355) - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
+* [2024-03-31, 19:34:16](https://news.ycombinator.com/item?id=39887315) - [Nails Through the Ages: A Look at the History and Evolution of Nails](https://medium.com/@ritikwriter/nails-through-the-ages-a-look-at-the-history-and-evolution-of-nails-f827ae8ee9fe)
 * [2024-03-31, 19:33:43](https://news.ycombinator.com/item?id=39887313) - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 * [2024-03-31, 19:33:25](https://news.ycombinator.com/item?id=39887307) - [Fired Americans Say Indian Firm Gave Their Jobs to H-1B Visa Holders](https://www.msn.com/en-us/money/careers/fired-americans-say-indian-firm-gave-their-jobs-to-h-1b-visa-holders/ar-BB1kIVHE)
 * [2024-03-31, 19:29:11](https://news.ycombinator.com/item?id=39887275) - [Dan Lynch Has Died (SRI, Arpanet, Internet)](https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html)

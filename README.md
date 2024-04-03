@@ -8,7 +8,6 @@
 * [2024-04-02, 22:40:00](https://news.ycombinator.com/item?id=39911616) - [Show HN: Generate admin apps without writing a single line of code](https://github.com/dashpresshq/dashpress)
 * [2024-04-02, 21:39:49](https://news.ycombinator.com/item?id=39911155) - [Science fiction and the death of the sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 * [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
-* [2024-04-02, 20:58:03](https://news.ycombinator.com/item?id=39910784) - [You Don't Feel Jet-Lagged When You Run a Fever (2016)](https://www.hopkinsmedicine.org/news/media/releases/heres_why_you_dont_feel_jet_lagged_when_you_run_a_fever)
 * [2024-04-02, 20:14:14](https://news.ycombinator.com/item?id=39910383) - [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
@@ -30,6 +29,7 @@
 * [2024-04-01, 19:10:18](https://news.ycombinator.com/item?id=39897901) - [The Color of Silence](https://carlosalvarenga.substack.com/p/the-color-of-silence)
 * [2024-04-01, 15:01:04](https://news.ycombinator.com/item?id=39894823) - [Show HN: Floro – Visual Version Control](https://news.ycombinator.com/item?id=39894823)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
+* [2024-03-31, 19:34:16](https://news.ycombinator.com/item?id=39887315) - [Nails Through the Ages: A Look at the History and Evolution of Nails](https://medium.com/@ritikwriter/nails-through-the-ages-a-look-at-the-history-and-evolution-of-nails-f827ae8ee9fe)
 
 ## [Archives](archives/index.md)
 
