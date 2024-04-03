@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-03, 21:13:25](https://news.ycombinator.com/item?id=39923231) - [FCC to vote on restoring net neutrality](https://www.fcc.gov/document/fcc-vote-restoring-net-neutrality)
 * [2024-04-03, 21:06:09](https://news.ycombinator.com/item?id=39923138) - [How to hack the Jacksonville Jaguars' jumbotron](https://arstechnica.com/security/2024/04/how-to-hack-the-jacksonville-jaguars-jumbotron-and-end-up-in-jail-for-220-years/)
 * [2024-04-03, 21:05:45](https://news.ycombinator.com/item?id=39923136) - [The Triumph of Philanthropy (2018)](https://www.laphamsquarterly.org/roundtable/triumph-philanthropy)
 * [2024-04-03, 20:57:06](https://news.ycombinator.com/item?id=39923023) - [Pitcairn Island Immigration](https://www.immigration.pn)
@@ -25,6 +24,7 @@
 * [2024-04-03, 11:42:13](https://news.ycombinator.com/item?id=39916151) - [Making old orchards new again](https://modernfarmer.com/2024/04/making-old-orchards-new-again/)
 * [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-03, 10:28:25](https://news.ycombinator.com/item?id=39915594) - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
+* [2024-04-03, 05:52:35](https://news.ycombinator.com/item?id=39914047) - [Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads](https://github.com/0verread/goralim)
 * [2024-04-03, 05:30:50](https://news.ycombinator.com/item?id=39913913) - [America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150](https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-03, 00:42:42](https://news.ycombinator.com/item?id=39912448) - [John Barth has died](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
