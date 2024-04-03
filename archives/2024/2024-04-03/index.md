@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 14:20:32](https://news.ycombinator.com/item?id=39917873) - [Ubuntu 24.04 Beta Delayed Due to XZ Nightmare](https://www.phoronix.com/news/Ubuntu-24.04-Beta-Delayed)
 * [2024-04-03, 14:08:38](https://news.ycombinator.com/item?id=39917727) - [Israel used AI to identify 37,000 Hamas targets](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
 * [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
@@ -16,8 +17,10 @@
 * [2024-04-03, 12:49:45](https://news.ycombinator.com/item?id=39916761) - [Judge Sides with Tech Billionaires in CA Forever Case Against Family Ranchers](https://gizmodo.com/judge-sides-tech-billionaires-california-forever-case-1851381794)
 * [2024-04-03, 12:38:00](https://news.ycombinator.com/item?id=39916651) - [Founders Salarys](https://twitter.com/0zne/status/1774889594976338238)
 * [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
+* [2024-04-03, 12:10:43](https://news.ycombinator.com/item?id=39916397) - [Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0)
 * [2024-04-03, 12:07:24](https://news.ycombinator.com/item?id=39916369) - [Welcome to the AI Gadget Era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
 * [2024-04-03, 11:57:04](https://news.ycombinator.com/item?id=39916282) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
+* [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre Transform, Better Explained](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-03, 11:41:01](https://news.ycombinator.com/item?id=39916142) - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
 * [2024-04-03, 11:36:46](https://news.ycombinator.com/item?id=39916102) - [White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)](https://www.bbc.co.uk/news/science-environment-68722032)
