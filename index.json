@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-04-03, 19:58:48",
+      "https://news.ycombinator.com/item?id=39922294"
+    ],
+    [
+      "Land Use Policies Make Urban Childcare Expensive and Rare",
+      "https://www.ryanpuzycki.com/p/who-cares-about-childcare"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 19:35:00",
       "https://news.ycombinator.com/item?id=39922006"
     ],
     [
       "Terraform makes carbon neutral natural gas",
       "https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 19:31:38",
+      "https://news.ycombinator.com/item?id=39921964"
+    ],
+    [
+      "MOnSter 6502: a working transistor-scale replica of the classic MOS 6502",
+      "https://monster6502.com/"
     ]
   ],
   [
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2024-04-03, 04:05:10",
-      "https://news.ycombinator.com/item?id=39913505"
-    ],
-    [
-      "The Rise and Fall of 3M's Floppy Disk (2023)",
-      "https://spectrum.ieee.org/3m-floppy"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 22:36:23",
-      "https://news.ycombinator.com/item?id=39911587"
-    ],
-    [
-      "A Gentle Introduction to the Art of Mathematics",
-      "https://giam.southernct.edu/GIAM/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 16:46:32",
-      "https://news.ycombinator.com/item?id=39907876"
-    ],
-    [
-      "CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians",
-      "https://dekuliutesla.github.io/citygs/"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 16:44:32",
       "https://news.ycombinator.com/item?id=39907845"
     ],
     [
       "3D + 2D: Testing out my cross-platform WASM graphics engine",
       "https://news.ycombinator.com/item?id=39907845"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 05:07:46",
+      "https://news.ycombinator.com/item?id=39902576"
+    ],
+    [
+      "Qiling: A True Instrumentable Binary Emulation Framework",
+      "https://github.com/qilingframework/qiling"
     ]
   ]
 ]
