@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-04-03, 12:38:00",
-      "https://news.ycombinator.com/item?id=39916651"
+      "2024-04-03, 13:13:23",
+      "https://news.ycombinator.com/item?id=39917033"
     ],
     [
-      "Founders Salarys",
-      "https://twitter.com/0zne/status/1774889594976338238"
+      "AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation",
+      "https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 13:05:54",
+      "https://news.ycombinator.com/item?id=39916939"
+    ],
+    [
+      "No joke: FTC boss goes on the Daily Show and is told Apple tried to block her",
+      "https://www.theregister.com/2024/04/02/ftc_boss_apple_daily_show/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 12:13:58",
+      "https://news.ycombinator.com/item?id=39916439"
+    ],
+    [
+      "Opera becomes the first major browser with built-in access to local AI models",
+      "https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 12:07:24",
+      "https://news.ycombinator.com/item?id=39916369"
+    ],
+    [
+      "Welcome to the AI Gadget Era",
+      "https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "Long-term nuclear waste warning messages",
       "https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 11:36:46",
+      "https://news.ycombinator.com/item?id=39916102"
+    ],
+    [
+      "White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)",
+      "https://www.bbc.co.uk/news/science-environment-68722032"
     ]
   ],
   [
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2024-04-03, 07:37:29",
-      "https://news.ycombinator.com/item?id=39914592"
+      "2024-04-03, 05:52:35",
+      "https://news.ycombinator.com/item?id=39914047"
     ],
     [
-      "Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M",
-      "https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04"
+      "Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads",
+      "https://github.com/0verread/goralim"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2024-04-02, 18:23:35",
-      "https://news.ycombinator.com/item?id=39909123"
-    ],
-    [
-      "A rudimentary simulation of the three-body problem",
-      "https://github.com/achristmascarl/three_body"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 16:46:32",
       "https://news.ycombinator.com/item?id=39907876"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2024-04-02, 03:51:51",
-      "https://news.ycombinator.com/item?id=39902212"
-    ],
-    [
-      "Bradford pear trees banned in few states – More are looking to eradicate them",
-      "https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 03:50:18",
-      "https://news.ycombinator.com/item?id=39902205"
-    ],
-    [
-      "Low Cost Robot Arm",
-      "https://github.com/AlexanderKoch-Koch/low_cost_robot"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 13:48:07",
       "https://news.ycombinator.com/item?id=39894148"
     ],
     [
       "10 > 64, in QR Codes",
       "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 00:22:51",
-      "https://news.ycombinator.com/item?id=39889558"
-    ],
-    [
-      "Ross Anderson",
-      "https://www.schneier.com/blog/archives/2024/03/ross-anderson.html"
     ]
   ]
 ]
