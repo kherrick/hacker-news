@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 11:18:22](https://news.ycombinator.com/item?id=39915968) - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
 * [2024-04-03, 10:34:45](https://news.ycombinator.com/item?id=39915636) - [Russian influence network in Europe: list of promoted politicians](https://insightnews.media/russian-influence-network-in-europe-list-of-promoted-politicians/)
 * [2024-04-03, 10:28:25](https://news.ycombinator.com/item?id=39915594) - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
 * [2024-04-03, 10:10:01](https://news.ycombinator.com/item?id=39915473) - [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)

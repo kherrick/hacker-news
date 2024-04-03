@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 11:18:22](https://news.ycombinator.com/item?id=39915968) - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
 * [2024-04-03, 10:28:25](https://news.ycombinator.com/item?id=39915594) - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
 * [2024-04-03, 10:10:01](https://news.ycombinator.com/item?id=39915473) - [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
 * [2024-04-03, 09:42:19](https://news.ycombinator.com/item?id=39915268) - [Cups vs. grams: why can't American and British cooks agree on food measurements?](https://www.theguardian.com/food/2024/apr/02/cups-v-grams-why-cant-american-and-british-cooks-agree-on-food-measurements)
@@ -27,7 +28,6 @@
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 03:58:00](https://news.ycombinator.com/item?id=39902241) - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
 * [2024-04-02, 03:51:51](https://news.ycombinator.com/item?id=39902212) - [Bradford pear trees banned in few states – More are looking to eradicate them](https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/)
-* [2024-04-02, 03:50:18](https://news.ycombinator.com/item?id=39902205) - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 * [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
 
