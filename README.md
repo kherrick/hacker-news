@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 22:10:47](https://news.ycombinator.com/item?id=39923903) - [AMD to Open Source more of their software stack, release more hardware docs](https://twitter.com/amdradeon/status/1775261152987271614)
+* [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 21:06:09](https://news.ycombinator.com/item?id=39923138) - [How to hack the Jacksonville Jaguars' jumbotron](https://arstechnica.com/security/2024/04/how-to-hack-the-jacksonville-jaguars-jumbotron-and-end-up-in-jail-for-220-years/)
-* [2024-04-03, 21:05:45](https://news.ycombinator.com/item?id=39923136) - [The Triumph of Philanthropy (2018)](https://www.laphamsquarterly.org/roundtable/triumph-philanthropy)
 * [2024-04-03, 20:57:06](https://news.ycombinator.com/item?id=39923023) - [Pitcairn Island Immigration](https://www.immigration.pn)
 * [2024-04-03, 20:25:58](https://news.ycombinator.com/item?id=39922631) - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
@@ -19,7 +20,6 @@
 * [2024-04-03, 13:42:34](https://news.ycombinator.com/item?id=39917364) - [Show HN: Burr – A framework for building and debugging GenAI apps faster](https://github.com/DAGWorks-Inc/burr)
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 13:21:28](https://news.ycombinator.com/item?id=39917107) - ['The Manipulaters' improve phishing, still fail at opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
-* [2024-04-03, 12:37:13](https://news.ycombinator.com/item?id=39916639) - [The Oxford English Dictionary's latest update adds 23 Japanese words](https://www.theguardian.com/books/2024/mar/27/the-oxford-english-dictionarys-latest-update-adds-23-japanese-words)
 * [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre transform, better explained (2017)](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:42:13](https://news.ycombinator.com/item?id=39916151) - [Making old orchards new again](https://modernfarmer.com/2024/04/making-old-orchards-new-again/)
 * [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)

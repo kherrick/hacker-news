@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 22:10:47](https://news.ycombinator.com/item?id=39923903) - [AMD to Open Source more of their software stack, release more hardware docs](https://twitter.com/amdradeon/status/1775261152987271614)
+* [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 21:13:25](https://news.ycombinator.com/item?id=39923231) - [FCC to Vote on Restoring Net Neutrality](https://www.fcc.gov/document/fcc-vote-restoring-net-neutrality)
 * [2024-04-03, 21:11:58](https://news.ycombinator.com/item?id=39923212) - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [2024-04-03, 21:06:20](https://news.ycombinator.com/item?id=39923142) - ['HR is not your friend': why frustrated workers are hiring reps of their own](https://www.theguardian.com/money/2024/apr/03/human-resources-hr-departments-us-workers)
