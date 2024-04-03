@@ -4,7 +4,6 @@
 * [2024-04-03, 13:13:23](https://news.ycombinator.com/item?id=39917033) - [AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation](https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/)
 * [2024-04-03, 13:05:54](https://news.ycombinator.com/item?id=39916939) - [No joke: FTC boss goes on the Daily Show and is told Apple tried to block her](https://www.theregister.com/2024/04/02/ftc_boss_apple_daily_show/)
 * [2024-04-03, 13:05:19](https://news.ycombinator.com/item?id=39916931) - [What the Suburb Haters Don't Understand](https://www.theatlantic.com/family/archive/2024/04/nostalgia-nowhere-suburbs-strip-malls-subdivisions-community/677939/)
-* [2024-04-03, 12:57:38](https://news.ycombinator.com/item?id=39916841) - [What books are these in the late Steve Job's Office?](https://twitter.com/devkanya_rck/status/1775494833412399170)
 * [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
 * [2024-04-03, 12:07:24](https://news.ycombinator.com/item?id=39916369) - [Welcome to the AI Gadget Era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
 * [2024-04-03, 11:57:04](https://news.ycombinator.com/item?id=39916282) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
@@ -17,8 +16,10 @@
 * [2024-04-03, 08:56:14](https://news.ycombinator.com/item?id=39914981) - [Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 * [2024-04-03, 05:52:35](https://news.ycombinator.com/item?id=39914047) - [Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads](https://github.com/0verread/goralim)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
+* [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
 * [2024-04-03, 04:02:02](https://news.ycombinator.com/item?id=39913490) - [Python Project-Local Virtualenv Management Redux](https://hynek.me/articles/python-virtualenv-redux/)
 * [2024-04-03, 03:01:19](https://news.ycombinator.com/item?id=39913197) - [Portr – open-source ngrok alternative designed for teams](https://github.com/amalshaji/portr)
+* [2024-04-03, 01:07:34](https://news.ycombinator.com/item?id=39912597) - [Choose your weapon: Survival strategies for depressed AI academics](https://ar5iv.labs.arxiv.org/html/2304.06035)
 * [2024-04-02, 23:26:37](https://news.ycombinator.com/item?id=39911961) - [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
 * [2024-04-02, 22:36:23](https://news.ycombinator.com/item?id=39911587) - [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
 * [2024-04-02, 22:00:29](https://news.ycombinator.com/item?id=39911311) - [How the XZ Backdoor Works](https://lwn.net/SubscriberLink/967192/6c39d47b5f299a23/)
@@ -29,7 +30,6 @@
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with NextJS and AI](https://news.ycombinator.com/item?id=39907073)
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
-* [2024-04-02, 03:58:00](https://news.ycombinator.com/item?id=39902241) - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
 
 ## [Archives](archives/index.md)
 
