@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 10:34:45](https://news.ycombinator.com/item?id=39915636) - [Russian influence network in Europe: list of promoted politicians](https://insightnews.media/russian-influence-network-in-europe-list-of-promoted-politicians/)
 * [2024-04-03, 10:10:01](https://news.ycombinator.com/item?id=39915473) - [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
 * [2024-04-03, 10:03:44](https://news.ycombinator.com/item?id=39915437) - [Censorship: Jon Stewart says Apple told him not to interview FTC chair Lina Khan](https://www.theguardian.com/media/2024/apr/02/jon-stewart-interview-lina-khan-apple)
+* [2024-04-03, 09:42:19](https://news.ycombinator.com/item?id=39915268) - [Cups vs. grams: why can't American and British cooks agree on food measurements?](https://www.theguardian.com/food/2024/apr/02/cups-v-grams-why-cant-american-and-british-cooks-agree-on-food-measurements)
 * [2024-04-03, 09:13:17](https://news.ycombinator.com/item?id=39915066) - [A Cheat Sheet to Database Access Control: PostgreSQL](https://thenewstack.io/a-cheat-sheet-to-database-access-control-postgresql/)
 * [2024-04-03, 08:56:14](https://news.ycombinator.com/item?id=39914981) - [Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 * [2024-04-03, 08:27:49](https://news.ycombinator.com/item?id=39914851) - [When Will the GenAI Bubble Burst?](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst)
