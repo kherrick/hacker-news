@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-04-02, 22:40:00",
+      "https://news.ycombinator.com/item?id=39911616"
+    ],
+    [
+      "Show HN: Generate admin apps without writing a single line of code",
+      "https://github.com/dashpresshq/dashpress"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 21:39:49",
       "https://news.ycombinator.com/item?id=39911155"
     ],
@@ -67,6 +77,16 @@
     [
       "Roe AI (YC W24) Is Hiring",
       "https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 20:58:03",
+      "https://news.ycombinator.com/item?id=39910784"
+    ],
+    [
+      "You Don't Feel Jet-Lagged When You Run a Fever (2016)",
+      "https://www.hopkinsmedicine.org/news/media/releases/heres_why_you_dont_feel_jet_lagged_when_you_run_a_fever"
     ]
   ],
   [
@@ -211,12 +231,32 @@
   ],
   [
     [
+      "2024-04-02, 13:40:01",
+      "https://news.ycombinator.com/item?id=39905644"
+    ],
+    [
+      "DECT NR+: A technical dive into non-cellular 5G",
+      "https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 09:15:35",
       "https://news.ycombinator.com/item?id=39903738"
     ],
     [
       "Los Alamos Chess",
       "https://en.wikipedia.org/wiki/Los_Alamos_chess"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 09:05:04",
+      "https://news.ycombinator.com/item?id=39903685"
+    ],
+    [
+      "The xz attack shell script",
+      "https://research.swtch.com/xz-script"
     ]
   ],
   [
@@ -241,12 +281,12 @@
   ],
   [
     [
-      "2024-04-01, 13:48:07",
-      "https://news.ycombinator.com/item?id=39894148"
+      "2024-04-01, 15:01:04",
+      "https://news.ycombinator.com/item?id=39894823"
     ],
     [
-      "10 > 64, in QR Codes",
-      "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
+      "Show HN: Floro – Visual Version Control",
+      "https://news.ycombinator.com/item?id=39894823"
     ]
   ],
   [
@@ -257,46 +297,6 @@
     [
       "Ross Anderson",
       "https://www.schneier.com/blog/archives/2024/03/ross-anderson.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 07:30:27",
-      "https://news.ycombinator.com/item?id=39882203"
-    ],
-    [
-      "Free SAM (Surface to Air Missile) Simulator (2009)",
-      "https://sites.google.com/site/samsimulator1972/home"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 03:44:46",
-      "https://news.ycombinator.com/item?id=39881212"
-    ],
-    [
-      "Activating Browser Modes with Doctype",
-      "https://hsivonen.fi/doctype/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 21:05:18",
-      "https://news.ycombinator.com/item?id=39878658"
-    ],
-    [
-      "Nano-oscillator hits record quality factor",
-      "https://phys.org/news/2024-03-nano-oscillator-quality-factor.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 15:45:27",
-      "https://news.ycombinator.com/item?id=39865458"
-    ],
-    [
-      "Ray Marching: Menger Sponge Breakdown",
-      "https://connorahaskins.substack.com/p/ray-marching-menger-sponge-breakdown"
     ]
   ]
 ]
