@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-03, 15:57:24](https://news.ycombinator.com/item?id=39919109) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://web.archive.org/web/20240403151726/https://www.972mag.com/lavender-ai-israeli-army-gaza/)
+* [2024-04-03, 15:14:37](https://news.ycombinator.com/item?id=39918553) - [Fisker's Ocean SUV investigated for doors that won't open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
 * [2024-04-03, 14:53:53](https://news.ycombinator.com/item?id=39918278) - [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
 * [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
-* [2024-04-03, 14:34:04](https://news.ycombinator.com/item?id=39918055) - [Best printer 2024, best printer for home use, office use, printing labels](https://www.theverge.com/2024/4/2/24117976/best-printer-2024-home-use-office-use-labels-school-homework)
 * [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New Seafloor Map Only 25% Done, with 6 Years to Go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
+* [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 13:21:28](https://news.ycombinator.com/item?id=39917107) - ['The Manipulaters' Improve Phishing, Still Fail at Opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
 * [2024-04-03, 13:08:33](https://news.ycombinator.com/item?id=39916972) - [Cloudflare R2 IA storage tier](https://blog.cloudflare.com/r2-events-gcs-migration-infrequent-access)
@@ -25,11 +27,9 @@
 * [2024-04-02, 16:46:32](https://news.ycombinator.com/item?id=39907876) - [CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
 * [2024-04-02, 16:44:32](https://news.ycombinator.com/item?id=39907845) - [3D + 2D: Testing out my cross-platform WASM graphics engine](https://news.ycombinator.com/item?id=39907845)
 * [2024-04-02, 15:43:56](https://news.ycombinator.com/item?id=39907073) - [Launch HN: Creo (YC W24) – Build internal tools with NextJS and AI](https://news.ycombinator.com/item?id=39907073)
-* [2024-04-02, 09:15:35](https://news.ycombinator.com/item?id=39903738) - [Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 03:58:00](https://news.ycombinator.com/item?id=39902241) - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
-* [2024-04-01, 13:48:07](https://news.ycombinator.com/item?id=39894148) - [10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 
 ## [Archives](archives/index.md)
 

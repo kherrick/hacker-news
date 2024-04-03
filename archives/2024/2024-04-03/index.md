@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 15:57:24](https://news.ycombinator.com/item?id=39919109) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://web.archive.org/web/20240403151726/https://www.972mag.com/lavender-ai-israeli-army-gaza/)
 * [2024-04-03, 15:31:42](https://news.ycombinator.com/item?id=39918778) - [George Carlin estate forces \"AI Carlin\" off the Internet for good](https://arstechnica.com/ai/2024/04/george-carlin-estate-forces-ai-carlin-off-the-internet-for-good/)
+* [2024-04-03, 15:14:37](https://news.ycombinator.com/item?id=39918553) - [Fisker's Ocean SUV investigated for doors that won't open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
 * [2024-04-03, 14:53:53](https://news.ycombinator.com/item?id=39918278) - [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
 * [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
 * [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
@@ -14,6 +16,7 @@
 * [2024-04-03, 14:08:38](https://news.ycombinator.com/item?id=39917727) - [Israel used AI to identify 37,000 Hamas targets](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
 * [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New Seafloor Map Only 25% Done, with 6 Years to Go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
+* [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 13:21:28](https://news.ycombinator.com/item?id=39917107) - ['The Manipulaters' Improve Phishing, Still Fail at Opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
 * [2024-04-03, 13:13:23](https://news.ycombinator.com/item?id=39917033) - [AMD ROCm Going Open-Source: Will Include Software and Hardware Documentation](https://wccftech.com/amd-rocm-going-open-source-will-include-software-stack-hardware-documentation/)
