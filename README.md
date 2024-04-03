@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-03, 15:31:42](https://news.ycombinator.com/item?id=39918778) - [George Carlin estate forces \"AI Carlin\" off the Internet for good](https://arstechnica.com/ai/2024/04/george-carlin-estate-forces-ai-carlin-off-the-internet-for-good/)
+* [2024-04-03, 14:53:53](https://news.ycombinator.com/item?id=39918278) - [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
 * [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
+* [2024-04-03, 14:34:04](https://news.ycombinator.com/item?id=39918055) - [Best printer 2024, best printer for home use, office use, printing labels](https://www.theverge.com/2024/4/2/24117976/best-printer-2024-home-use-office-use-labels-school-homework)
 * [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New Seafloor Map Only 25% Done, with 6 Years to Go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
@@ -18,7 +19,6 @@
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk (2023)](https://spectrum.ieee.org/3m-floppy)
 * [2024-04-03, 03:01:19](https://news.ycombinator.com/item?id=39913197) - [Portr – open-source ngrok alternative designed for teams](https://github.com/amalshaji/portr)
 * [2024-04-03, 01:07:34](https://news.ycombinator.com/item?id=39912597) - [Choose your weapon: Survival strategies for depressed AI academics](https://ar5iv.labs.arxiv.org/html/2304.06035)
-* [2024-04-02, 23:26:37](https://news.ycombinator.com/item?id=39911961) - [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
 * [2024-04-02, 22:36:23](https://news.ycombinator.com/item?id=39911587) - [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
 * [2024-04-02, 20:14:14](https://news.ycombinator.com/item?id=39910383) - [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)

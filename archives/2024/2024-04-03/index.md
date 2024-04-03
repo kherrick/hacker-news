@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
 * [2024-04-03, 15:31:42](https://news.ycombinator.com/item?id=39918778) - [George Carlin estate forces \"AI Carlin\" off the Internet for good](https://arstechnica.com/ai/2024/04/george-carlin-estate-forces-ai-carlin-off-the-internet-for-good/)
+* [2024-04-03, 14:53:53](https://news.ycombinator.com/item?id=39918278) - [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
 * [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
 * [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
 * [2024-04-03, 14:43:45](https://news.ycombinator.com/item?id=39918165) - [Gen-Z is shunning college to take up traditional trades like welding, plumbing](https://www.dailymail.co.uk/news/article-13265379/Gen-Z-trade-school-college-debt-trade-work-jobs.html)
+* [2024-04-03, 14:34:04](https://news.ycombinator.com/item?id=39918055) - [Best printer 2024, best printer for home use, office use, printing labels](https://www.theverge.com/2024/4/2/24117976/best-printer-2024-home-use-office-use-labels-school-homework)
 * [2024-04-03, 14:20:32](https://news.ycombinator.com/item?id=39917873) - [Ubuntu 24.04 Beta Delayed Due to XZ Nightmare](https://www.phoronix.com/news/Ubuntu-24.04-Beta-Delayed)
 * [2024-04-03, 14:08:38](https://news.ycombinator.com/item?id=39917727) - [Israel used AI to identify 37,000 Hamas targets](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
 * [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
