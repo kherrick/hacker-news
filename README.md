@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-03, 21:11:58](https://news.ycombinator.com/item?id=39923212) - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [2024-04-03, 21:05:45](https://news.ycombinator.com/item?id=39923136) - [The Triumph of Philanthropy (2018)](https://www.laphamsquarterly.org/roundtable/triumph-philanthropy)
 * [2024-04-03, 20:35:30](https://news.ycombinator.com/item?id=39922737) - [YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 * [2024-04-03, 19:58:48](https://news.ycombinator.com/item?id=39922294) - [Land Use Policies Make Urban Childcare Expensive and Rare](https://www.ryanpuzycki.com/p/who-cares-about-childcare)
@@ -11,6 +10,7 @@
 * [2024-04-03, 17:42:50](https://news.ycombinator.com/item?id=39920555) - [NASA, Lockheed Martin Working to Resolve Artemis II Orion Issues](https://www.nasaspaceflight.com/2024/04/resolving-artemis-ii-issues/)
 * [2024-04-03, 16:29:45](https://news.ycombinator.com/item?id=39919491) - [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for linking shell companies to their secret owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
+* [2024-04-03, 16:08:49](https://news.ycombinator.com/item?id=39919242) - [Show HN: Humble-HN, hide Hacker News number of votes, comments, and karma](https://github.com/alexmolas/humble-hn)
 * [2024-04-03, 15:10:11](https://news.ycombinator.com/item?id=39918500) - [Show HN: Plandex – an AI coding engine for complex tasks](https://github.com/plandex-ai/plandex)
 * [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
 * [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
