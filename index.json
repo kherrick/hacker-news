@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-03, 14:50:30",
-      "https://news.ycombinator.com/item?id=39918245"
-    ],
-    [
-      "'Lavender': The AI machine directing Israel's bombing spree in Gaza",
-      "https://www.972mag.com/lavender-ai-israeli-army-gaza/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 13:57:22",
       "https://news.ycombinator.com/item?id=39917551"
     ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2024-04-03, 10:57:29",
-      "https://news.ycombinator.com/item?id=39915801"
-    ],
-    [
-      "Show HN: I made a library for LLM prompt injection/exploit/jailbreak detection",
-      "https://github.com/lastlayer/last_layer"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 10:28:25",
       "https://news.ycombinator.com/item?id=39915594"
     ],
@@ -197,6 +177,16 @@
     [
       "Choose your weapon: Survival strategies for depressed AI academics",
       "https://ar5iv.labs.arxiv.org/html/2304.06035"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 23:26:37",
+      "https://news.ycombinator.com/item?id=39911961"
+    ],
+    [
+      "ReALM: Reference Resolution as Language Modeling",
+      "https://arxiv.org/abs/2403.20329"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Timeline of the xz open source attack",
       "https://research.swtch.com/xz-timeline"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 13:48:07",
+      "https://news.ycombinator.com/item?id=39894148"
+    ],
+    [
+      "10 > 64, in QR Codes",
+      "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
     ]
   ]
 ]
