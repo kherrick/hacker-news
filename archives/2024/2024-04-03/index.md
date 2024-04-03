@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 17:39:25](https://news.ycombinator.com/item?id=39920516) - [Ugreen to Challenge Synology with Affordable Series of NAS Hardware](https://petapixel.com/2024/03/26/ugreen-to-challenge-synology-with-affordable-series-of-nas-hardware/)
+* [2024-04-03, 16:54:28](https://news.ycombinator.com/item?id=39919831) - [The Texas Triangle: A rising megaregion unlike all others](https://kinder.rice.edu/urbanedge/texas-triangle-rising-megaregion-unlike-all-others)
 * [2024-04-03, 16:49:54](https://news.ycombinator.com/item?id=39919757) - [Amazon's 'Just Walk Out' tech was powered by low-paid Indian workers: report](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/amazons-just-walk-out-tech-was-actually-powered-by-low-paid-indian-workers-report-12566201.html)
 * [2024-04-03, 16:47:38](https://news.ycombinator.com/item?id=39919725) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 * [2024-04-03, 16:46:35](https://news.ycombinator.com/item?id=39919713) - [An EMP or Solar Incident Could Result in Blackout Warfare](https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare)
