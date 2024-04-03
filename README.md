@@ -12,6 +12,7 @@
 * [2024-04-02, 21:39:49](https://news.ycombinator.com/item?id=39911155) - [Science fiction and the death of the sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 * [2024-04-02, 21:00:55](https://news.ycombinator.com/item?id=39910806) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
 * [2024-04-02, 20:14:14](https://news.ycombinator.com/item?id=39910383) - [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
+* [2024-04-02, 19:55:10](https://news.ycombinator.com/item?id=39910186) - [Male archetypes in fairy tales](https://sharonblackie.substack.com/p/so-what-about-the-men)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
 * [2024-04-02, 18:05:41](https://news.ycombinator.com/item?id=39908891) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
@@ -28,7 +29,6 @@
 * [2024-04-02, 09:15:35](https://news.ycombinator.com/item?id=39903738) - [Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
 * [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
-* [2024-04-02, 03:50:58](https://news.ycombinator.com/item?id=39902207) - [Receive push notifications from your rice cooker](https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/)
 * [2024-04-01, 00:22:51](https://news.ycombinator.com/item?id=39889558) - [Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
 
 ## [Archives](archives/index.md)

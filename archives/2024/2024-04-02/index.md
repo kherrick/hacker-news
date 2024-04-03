@@ -17,6 +17,7 @@
 * [2024-04-02, 20:58:03](https://news.ycombinator.com/item?id=39910784) - [You Don't Feel Jet-Lagged When You Run a Fever (2016)](https://www.hopkinsmedicine.org/news/media/releases/heres_why_you_dont_feel_jet_lagged_when_you_run_a_fever)
 * [2024-04-02, 20:27:56](https://news.ycombinator.com/item?id=39910520) - [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
 * [2024-04-02, 20:14:14](https://news.ycombinator.com/item?id=39910383) - [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
+* [2024-04-02, 19:55:10](https://news.ycombinator.com/item?id=39910186) - [Male archetypes in fairy tales](https://sharonblackie.substack.com/p/so-what-about-the-men)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 19:34:07](https://news.ycombinator.com/item?id=39909949) - [Microsoft posted on the FFMPEG tracker that their issue is 'high priority'](https://trac.ffmpeg.org/ticket/10341#comment:4)
 * [2024-04-02, 19:25:31](https://news.ycombinator.com/item?id=39909845) - [Apple wouldn't let Jon Stewart interview FTC Chair Lina Khan, TV host claims](https://arstechnica.com/gadgets/2024/04/apple-wouldnt-let-jon-stewart-interview-ftc-chair-lina-khan-tv-host-claims/)
