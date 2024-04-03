@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
 * [2024-04-03, 21:11:58](https://news.ycombinator.com/item?id=39923212) - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+* [2024-04-03, 21:06:20](https://news.ycombinator.com/item?id=39923142) - ['HR is not your friend': why frustrated workers are hiring reps of their own](https://www.theguardian.com/money/2024/apr/03/human-resources-hr-departments-us-workers)
+* [2024-04-03, 21:06:09](https://news.ycombinator.com/item?id=39923138) - [How to hack the Jacksonville Jaguars' jumbotron](https://arstechnica.com/security/2024/04/how-to-hack-the-jacksonville-jaguars-jumbotron-and-end-up-in-jail-for-220-years/)
 * [2024-04-03, 21:05:45](https://news.ycombinator.com/item?id=39923136) - [The Triumph of Philanthropy (2018)](https://www.laphamsquarterly.org/roundtable/triumph-philanthropy)
+* [2024-04-03, 20:57:06](https://news.ycombinator.com/item?id=39923023) - [Pitcairn Island Immigration (current population ~ 50)](https://www.immigration.pn)
 * [2024-04-03, 20:35:42](https://news.ycombinator.com/item?id=39922744) - [Disarm Russia](https://disarmrussia.com/)
 * [2024-04-03, 20:35:30](https://news.ycombinator.com/item?id=39922737) - [YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 * [2024-04-03, 20:01:12](https://news.ycombinator.com/item?id=39922325) - [All Your Dragons Are Belong to Us](https://www.raymondcamden.com/2024/04/02/all-your-dragons-are-belong-to-us)
