@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
 * [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
+* [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
 * [2024-04-03, 14:43:45](https://news.ycombinator.com/item?id=39918165) - [Gen-Z is shunning college to take up traditional trades like welding, plumbing](https://www.dailymail.co.uk/news/article-13265379/Gen-Z-trade-school-college-debt-trade-work-jobs.html)
 * [2024-04-03, 14:20:32](https://news.ycombinator.com/item?id=39917873) - [Ubuntu 24.04 Beta Delayed Due to XZ Nightmare](https://www.phoronix.com/news/Ubuntu-24.04-Beta-Delayed)
 * [2024-04-03, 14:08:38](https://news.ycombinator.com/item?id=39917727) - [Israel used AI to identify 37,000 Hamas targets](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
@@ -46,6 +47,7 @@
 * [2024-04-03, 05:35:47](https://news.ycombinator.com/item?id=39913946) - [Full EU chat control proposal attack on digital privacy and encryption](https://www.patrick-breyer.de/en/full-chat-control-proposal-leaked-attack-on-digital-privacy-of-correspondence-and-secure-encryption/)
 * [2024-04-03, 05:30:50](https://news.ycombinator.com/item?id=39913913) - [America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150](https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
+* [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [The ancient world before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
 * [2024-04-03, 04:02:02](https://news.ycombinator.com/item?id=39913490) - [Python Project-Local Virtualenv Management Redux](https://hynek.me/articles/python-virtualenv-redux/)
 * [2024-04-03, 03:32:41](https://news.ycombinator.com/item?id=39913353) - [Eight U.S. States Now Have Plans to Ban Sales of Gas-Powered Cars](https://money.com/states-banning-gas-powered-cars/)
