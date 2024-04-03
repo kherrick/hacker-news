@@ -2,8 +2,8 @@
 
 * [2024-04-03, 18:51:54](https://news.ycombinator.com/item?id=39921432) - [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
 * [2024-04-03, 18:22:52](https://news.ycombinator.com/item?id=39921064) - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
+* [2024-04-03, 18:18:53](https://news.ycombinator.com/item?id=39921000) - [JPMorgan to sell customer transaction data to advertisers](https://media.chase.com/news/chase-launches-chase-media-solutions)
 * [2024-04-03, 18:17:13](https://news.ycombinator.com/item?id=39920975) - [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
-* [2024-04-03, 18:11:03](https://news.ycombinator.com/item?id=39920890) - [Unreal Engine 5 multi-threaded rendering in the browser with WASM](https://temple.tiwsamples.com/)
 * [2024-04-03, 17:51:36](https://news.ycombinator.com/item?id=39920644) - [Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 17:42:50](https://news.ycombinator.com/item?id=39920555) - [NASA, Lockheed Martin Working to Resolve Artemis II Orion Issues](https://www.nasaspaceflight.com/2024/04/resolving-artemis-ii-issues/)
 * [2024-04-03, 16:29:45](https://news.ycombinator.com/item?id=39919491) - [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
