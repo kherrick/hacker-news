@@ -14,6 +14,7 @@
 * [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
 * [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
 * [2024-04-03, 14:17:10](https://news.ycombinator.com/item?id=39917830) - [Saffron: The Most Expensive Spice](https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/)
+* [2024-04-03, 13:57:22](https://news.ycombinator.com/item?id=39917551) - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New seafloor map only 25% done, with 6 years to go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 13:42:34](https://news.ycombinator.com/item?id=39917364) - [Show HN: Burr – A framework for building and debugging GenAI apps faster](https://github.com/DAGWorks-Inc/burr)
@@ -28,7 +29,6 @@
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-03, 00:42:42](https://news.ycombinator.com/item?id=39912448) - [John Barth has died](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
-* [2024-04-02, 08:23:33](https://news.ycombinator.com/item?id=39903476) - [Building and using a 29-year-old compiler on a modern system (2017)](https://miyuki.github.io/2017/10/04/gcc-archaeology-1.html)
 * [2024-04-02, 05:07:46](https://news.ycombinator.com/item?id=39902576) - [Qiling: A true instrumentable binary emulation framework](https://github.com/qilingframework/qiling)
 
 ## [Archives](archives/index.md)
