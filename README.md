@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-03, 22:48:29](https://news.ycombinator.com/item?id=39924323) - [A viral $22 burrito explains inflation in the US](https://www.theguardian.com/food/ng-interactive/2024/mar/27/burrito-price-inflation-vaca-birria-san-francisco)
-* [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running perplexity clone](https://github.com/nilsherzig/LLocalSearch)
+* [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 20:57:06](https://news.ycombinator.com/item?id=39923023) - [Pitcairn Island Immigration](https://www.immigration.pn)
 * [2024-04-03, 20:35:30](https://news.ycombinator.com/item?id=39922737) - [YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 * [2024-04-03, 20:25:58](https://news.ycombinator.com/item?id=39922631) - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
@@ -29,6 +28,7 @@
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-03, 00:42:42](https://news.ycombinator.com/item?id=39912448) - [John Barth has died](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
+* [2024-04-02, 08:23:33](https://news.ycombinator.com/item?id=39903476) - [Building and using a 29-year-old compiler on a modern system (2017)](https://miyuki.github.io/2017/10/04/gcc-archaeology-1.html)
 * [2024-04-02, 05:07:46](https://news.ycombinator.com/item?id=39902576) - [Qiling: A true instrumentable binary emulation framework](https://github.com/qilingframework/qiling)
 
 ## [Archives](archives/index.md)
