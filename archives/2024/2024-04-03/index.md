@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
 * [2024-04-03, 20:35:42](https://news.ycombinator.com/item?id=39922744) - [Disarm Russia](https://disarmrussia.com/)
+* [2024-04-03, 20:35:30](https://news.ycombinator.com/item?id=39922737) - [YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 * [2024-04-03, 20:01:12](https://news.ycombinator.com/item?id=39922325) - [All Your Dragons Are Belong to Us](https://www.raymondcamden.com/2024/04/02/all-your-dragons-are-belong-to-us)
 * [2024-04-03, 19:58:48](https://news.ycombinator.com/item?id=39922294) - [Land Use Policies Make Urban Childcare Expensive and Rare](https://www.ryanpuzycki.com/p/who-cares-about-childcare)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 * [2024-04-03, 18:51:54](https://news.ycombinator.com/item?id=39921432) - [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
+* [2024-04-03, 18:46:36](https://news.ycombinator.com/item?id=39921371) - [Kiss High-Availability with OpenBSD](https://foo.zone/gemfeed/2024-04-01-KISS-high-availability-with-OpenBSD.html)
 * [2024-04-03, 18:39:50](https://news.ycombinator.com/item?id=39921257) - [Why is observability so expensive?](https://mattklein123.dev/2024/04/03/observability-cost-crisis/)
 * [2024-04-03, 18:26:16](https://news.ycombinator.com/item?id=39921096) - [Google Is Killing Retro Dodo and Other Independent Sites](https://retrododo.com/google-is-killing-retro-dodo/)
 * [2024-04-03, 18:22:52](https://news.ycombinator.com/item?id=39921064) - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
