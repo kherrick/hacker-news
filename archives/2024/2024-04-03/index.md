@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 02:46:35](https://news.ycombinator.com/item?id=39913117) - [Why will my device lose access to Libby & OverDrive April 15, 2024?](https://help.overdrive.com/en-us/2271.htm)
 * [2024-04-03, 01:56:34](https://news.ycombinator.com/item?id=39912854) - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
 * [2024-04-03, 01:42:31](https://news.ycombinator.com/item?id=39912771) - [The Threat of Discontinued Software (2021)](https://almy.us/softwaredeath.html)
 * [2024-04-03, 01:07:34](https://news.ycombinator.com/item?id=39912597) - [Choose your weapon: Survival strategies for depressed AI academics](https://ar5iv.labs.arxiv.org/html/2304.06035)
