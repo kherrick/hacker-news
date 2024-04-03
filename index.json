@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-03, 18:26:16",
-      "https://news.ycombinator.com/item?id=39921096"
+      "2024-04-03, 18:39:50",
+      "https://news.ycombinator.com/item?id=39921257"
     ],
     [
-      "Google Is Killing Retro Dodo and Other Independent Sites",
-      "https://retrododo.com/google-is-killing-retro-dodo/"
+      "Why is observability so expensive?",
+      "https://mattklein123.dev/2024/04/03/observability-cost-crisis/"
     ]
   ],
   [
@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2024-04-03, 18:04:28",
-      "https://news.ycombinator.com/item?id=39920798"
+      "2024-04-03, 18:11:03",
+      "https://news.ycombinator.com/item?id=39920890"
     ],
     [
-      "Growth is a mind cancer",
-      "https://manuelmoreale.com/growth-is-a-mind-cancer"
+      "Unreal Engine 5 multi-threaded rendering in the browser with WASM",
+      "https://temple.tiwsamples.com/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-04-03, 11:39:39",
-      "https://news.ycombinator.com/item?id=39916133"
-    ],
-    [
-      "German state Schleswig Holstein is rolling out their Open Source strategy",
-      "https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/Presse/PI/2024/CdS/240403_cds_it-arbeitsplatz.html"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 10:28:25",
       "https://news.ycombinator.com/item?id=39915594"
     ],
@@ -297,6 +287,16 @@
     [
       "3D + 2D: Testing out my cross-platform WASM graphics engine",
       "https://news.ycombinator.com/item?id=39907845"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 06:13:23",
+      "https://news.ycombinator.com/item?id=39902854"
+    ],
+    [
+      "Avoid blundering: 80% of a winning strategy",
+      "https://longform.asmartbear.com/avoid-blundering/"
     ]
   ]
 ]
