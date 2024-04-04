@@ -14,6 +14,7 @@
 * [2024-04-04, 16:13:04](https://news.ycombinator.com/item?id=39932324) - [We should all be reading more Ursula Le Guin](https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory)
 * [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-Based Home Server Management](https://runtipi.io)
 * [2024-04-04, 14:58:19](https://news.ycombinator.com/item?id=39931256) - [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
+* [2024-04-04, 14:58:06](https://news.ycombinator.com/item?id=39931250) - [Improvements to the fine-tuning API and expanding our custom models program](https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program)
 * [2024-04-04, 14:56:17](https://news.ycombinator.com/item?id=39931228) - [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
 * [2024-04-04, 14:46:20](https://news.ycombinator.com/item?id=39931096) - ['AI-assisted genocide': Israel reportedly used database for Gaza kill lists](https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists)
 * [2024-04-04, 14:44:34](https://news.ycombinator.com/item?id=39931072) - [Radxa's SATA HAT makes compact Pi 5 NAS](https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas)

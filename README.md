@@ -3,11 +3,11 @@
 * [2024-04-04, 17:22:14](https://news.ycombinator.com/item?id=39933342) - [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
 * [2024-04-04, 17:00:15](https://news.ycombinator.com/item?id=39933016) - [Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
 * [2024-04-04, 16:34:00](https://news.ycombinator.com/item?id=39932667) - [Open Source Infrastructure must be a publicly funded service](https://matrix.org/blog/2024/04/open-source-publicly-funded-service/)
-* [2024-04-04, 16:26:28](https://news.ycombinator.com/item?id=39932556) - [Developers, what marketing strategies work on you?](https://twitter.com/kelseyhightower/status/1775913633064894669)
 * [2024-04-04, 16:17:08](https://news.ycombinator.com/item?id=39932378) - [PCIe 7.0 Draft 0.5 Spec: 512 GB/s over PCIe x16 On Track For 2025](https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming)
 * [2024-04-04, 16:13:04](https://news.ycombinator.com/item?id=39932324) - [Reading more Ursula Le Guin (2019)](https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory)
 * [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-based home server management](https://runtipi.io)
 * [2024-04-04, 14:58:19](https://news.ycombinator.com/item?id=39931256) - [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
+* [2024-04-04, 14:58:06](https://news.ycombinator.com/item?id=39931250) - [Improvements to the fine-tuning API and expanding our custom models program](https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program)
 * [2024-04-04, 14:32:50](https://news.ycombinator.com/item?id=39930919) - [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 * [2024-04-04, 14:30:32](https://news.ycombinator.com/item?id=39930887) - [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
 * [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
@@ -21,7 +21,6 @@
 * [2024-04-04, 06:40:47](https://news.ycombinator.com/item?id=39927246) - [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
 * [2024-04-04, 02:57:57](https://news.ycombinator.com/item?id=39926081) - [Advice to Young People, the Lies I Tell Myself](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-* [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 07:15:29](https://news.ycombinator.com/item?id=39914478) - [Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs](https://www.theregister.com/2024/04/01/rickroll_meme_asic/)
@@ -30,6 +29,7 @@
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-babel](https://emacsconf.org/2023/talks/collab/)
+* [2024-04-02, 05:19:17](https://news.ycombinator.com/item?id=39902636) - [The Angry Video Game Model: neural network arch to predict videogame ratings](https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/)
 
 ## [Archives](archives/index.md)
 
