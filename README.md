@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-04, 14:08:07](https://news.ycombinator.com/item?id=39930598) - [Vigilante Hacker Took Down North Korea's Internet. Now He's Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
 * [2024-04-04, 13:57:51](https://news.ycombinator.com/item?id=39930463) - [AI-generated sad girl with piano performs the text of the MIT License](https://twitter.com/goodside/status/1775713487529922702)
 * [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
 * [2024-04-04, 12:15:09](https://news.ycombinator.com/item?id=39929416) - [Washington's Lottery forced to pull site after creating AI porn of lotto user](https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/)
@@ -29,7 +30,6 @@
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 05:19:17](https://news.ycombinator.com/item?id=39902636) - [The Angry Video Game Model: neural network arch to predict videogame ratings](https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/)
 * [2024-04-02, 02:29:29](https://news.ycombinator.com/item?id=39901800) - [Basic and the ROMs that changed the world (and then disappeared) (2022)](https://jcoterhals.medium.com/basic-and-the-roms-that-changed-the-world-and-then-disappeared-38318db4611c)
-* [2024-04-01, 17:57:53](https://news.ycombinator.com/item?id=39897020) - [Exploring versions of the Postgres logical replication protocol](https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol)
 
 ## [Archives](archives/index.md)
 

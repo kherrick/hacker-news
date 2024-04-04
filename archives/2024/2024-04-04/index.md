@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 14:08:07](https://news.ycombinator.com/item?id=39930598) - [Vigilante Hacker Took Down North Korea's Internet. Now He's Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
 * [2024-04-04, 13:57:51](https://news.ycombinator.com/item?id=39930463) - [AI-generated sad girl with piano performs the text of the MIT License](https://twitter.com/goodside/status/1775713487529922702)
 * [2024-04-04, 13:23:17](https://news.ycombinator.com/item?id=39930072) - [Meta's AI image generator can't imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
 * [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
