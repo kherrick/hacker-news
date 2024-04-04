@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-04, 01:24:52",
-      "https://news.ycombinator.com/item?id=39925527"
+      "2024-04-04, 01:36:51",
+      "https://news.ycombinator.com/item?id=39925609"
     ],
     [
-      "OWASP discloses breach due to a Wiki web server misconfig",
-      "https://www.theregister.com/2024/04/02/owasp_discloses_data_breach/"
+      "7 out of every 10 Fentanyl pills seized by DEA contain a lethal dose",
+      "https://www.dea.gov/onepill"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 00:59:56",
+      "https://news.ycombinator.com/item?id=39925315"
+    ],
+    [
+      "Andres Freund and the xz backdoor",
+      "https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Henry Darger",
       "https://www.moma.org/artists/28600"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 22:52:41",
+      "https://news.ycombinator.com/item?id=39924362"
+    ],
+    [
+      "PHP: The Right Way",
+      "https://phptherightway.com/"
     ]
   ],
   [
@@ -181,36 +201,6 @@
   ],
   [
     [
-      "2024-04-03, 13:42:34",
-      "https://news.ycombinator.com/item?id=39917364"
-    ],
-    [
-      "Show HN: Burr – A framework for building and debugging GenAI apps faster",
-      "https://github.com/DAGWorks-Inc/burr"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 13:31:44",
-      "https://news.ycombinator.com/item?id=39917215"
-    ],
-    [
-      "Blood, sweat, and water: paper analytical devices track health and environment",
-      "https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 13:21:28",
-      "https://news.ycombinator.com/item?id=39917107"
-    ],
-    [
-      "'The Manipulaters' improve phishing, still fail at opsec",
-      "https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 11:44:02",
       "https://news.ycombinator.com/item?id=39916165"
     ],
@@ -287,6 +277,16 @@
     [
       "Tonal.js: Functional music theory lib",
       "https://github.com/tonaljs/tonal"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 05:25:42",
+      "https://news.ycombinator.com/item?id=39902660"
+    ],
+    [
+      "Our tools shape our selves",
+      "https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world"
     ]
   ],
   [
