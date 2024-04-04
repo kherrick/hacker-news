@@ -9,6 +9,7 @@
 * [2024-04-04, 18:58:05](https://news.ycombinator.com/item?id=39934434) - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
 * [2024-04-04, 18:50:26](https://news.ycombinator.com/item?id=39934354) - [DataStax has acquired Langflow to accelerate generative AI development](https://www.datastax.com/blog/datastax-acquires-langflow-to-accelerate-generative-ai-app-development)
 * [2024-04-04, 18:47:19](https://news.ycombinator.com/item?id=39934322) - [Rule-Based NLP System Beats LLM for Analysis of Psychiatric Clinical Notes](https://arxiv.org/abs/2403.17199)
+* [2024-04-04, 18:47:07](https://news.ycombinator.com/item?id=39934320) - [How should we define 'open' AI?](https://thenewstack.io/how-should-we-define-open-ai/)
 * [2024-04-04, 18:26:13](https://news.ycombinator.com/item?id=39934117) - [Yi-34B, Llama 2, and common practices in LLM training](https://blog.eleuther.ai/nyt-yi-34b-response/)
 * [2024-04-04, 18:24:09](https://news.ycombinator.com/item?id=39934101) - [Roblox Studio boss: children making money on the platform isn't exploitation](https://www.eurogamer.net/roblox-studio-boss-children-making-money-on-the-platform-isnt-exploitation-its-a-gift)
 * [2024-04-04, 18:24:09](https://news.ycombinator.com/item?id=39934101) - [Roblox Boss: We Don't Exploit Child Labor, We're Giving Kids in \"The Slum\" a Job](https://kotaku.com/roblox-boss-kids-child-labor-exploit-indonesia-slum-1851387795)
