@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 21:00:16](https://news.ycombinator.com/item?id=39935746) - [Reclaim Protocol (YC W21) Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
+* [2024-04-04, 20:46:10](https://news.ycombinator.com/item?id=39935597) - [Apple Explores Home Robotics as Potential 'Next Big Thing'](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts)
 * [2024-04-04, 19:57:39](https://news.ycombinator.com/item?id=39935090) - [Amazon's \"Just Walk Out\" checkout turns out to be 1000 workers watching you shop](https://boingboing.net/2024/04/03/amazons-ai-powered-just-walk-outcheckout-option-turns-out-to-be-1000-workers-watching-you-shop.html)
 * [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language Models as Compilers](https://arxiv.org/abs/2404.02575)
+* [2024-04-04, 19:23:00](https://news.ycombinator.com/item?id=39934696) - [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 * [2024-04-04, 19:21:59](https://news.ycombinator.com/item?id=39934684) - [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 19:01:37](https://news.ycombinator.com/item?id=39934480) - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
