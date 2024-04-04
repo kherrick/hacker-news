@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 17:00:15](https://news.ycombinator.com/item?id=39933016) - [Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
+* [2024-04-04, 16:52:01](https://news.ycombinator.com/item?id=39932906) - [Vercel: Improved Infrastructure Pricing](https://vercel.com/blog/improved-infrastructure-pricing)
+* [2024-04-04, 16:36:26](https://news.ycombinator.com/item?id=39932696) - [PfSense Software Embraces Change: A Strategic Migration to the Linux Kernel](https://www.netgate.com/blog/pfsense-software-embraces-change-a-strategic-migration-to-the-linux-kernel)
 * [2024-04-04, 16:26:28](https://news.ycombinator.com/item?id=39932556) - [Kelsey Hightower: Developers, what marketing strategies work on you?](https://twitter.com/kelseyhightower/status/1775913633064894669)
 * [2024-04-04, 16:17:08](https://news.ycombinator.com/item?id=39932378) - [PCIe 7.0 Draft 0.5 Spec Available: 512 GB/s over PCIe x16 On Track For 2025](https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming)
 * [2024-04-04, 16:13:04](https://news.ycombinator.com/item?id=39932324) - [We should all be reading more Ursula Le Guin](https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory)
