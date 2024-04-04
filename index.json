@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-04, 14:40:11",
-      "https://news.ycombinator.com/item?id=39931012"
+      "2024-04-04, 14:46:20",
+      "https://news.ycombinator.com/item?id=39931096"
     ],
     [
-      "\"Pink slime\" local news outlets erupt all over US as election nears",
-      "https://arstechnica.com/tech-policy/2024/04/pink-slime-local-news-outlets-erupt-all-over-us-during-election-year/"
+      "'AI-assisted genocide': Israel reportedly used database for Gaza kill lists",
+      "https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists"
     ]
   ],
   [
@@ -51,32 +51,32 @@
   ],
   [
     [
+      "2024-04-04, 13:51:54",
+      "https://news.ycombinator.com/item?id=39930408"
+    ],
+    [
+      "The return of never-ending job interviews: 'It can go beyond the pale'",
+      "https://www.bbc.com/worklife/article/20240402-return-of-never-ending-job-interviews"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 13:47:19",
+      "https://news.ycombinator.com/item?id=39930364"
+    ],
+    [
+      "Command R+: A Scalable LLM Built for Business",
+      "https://txt.cohere.com/command-r-plus-microsoft-azure/"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 12:59:26",
       "https://news.ycombinator.com/item?id=39929842"
     ],
     [
       "US Government funds pilot project for heated sand energy storage",
       "https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 12:15:09",
-      "https://news.ycombinator.com/item?id=39929416"
-    ],
-    [
-      "Washington's Lottery forced to pull site after creating AI porn of lotto user",
-      "https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 12:10:18",
-      "https://news.ycombinator.com/item?id=39929361"
-    ],
-    [
-      "HOPE Deepfakes",
-      "https://hope.net/deepfakes.html"
     ]
   ],
   [
@@ -97,6 +97,26 @@
     [
       "SableDb – a key/value store that uses RocksDB and Redis API (written in Rust)",
       "https://github.com/sabledb-io/sabledb"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 11:27:43",
+      "https://news.ycombinator.com/item?id=39928950"
+    ],
+    [
+      "Ask HN: Happy 404 Day. Whats your favorite 404 error page?",
+      "https://news.ycombinator.com/item?id=39928950"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 11:23:09",
+      "https://news.ycombinator.com/item?id=39928913"
+    ],
+    [
+      "Hertz’s bet on Teslas went sideways",
+      "https://www.bloomberg.com/news/features/2024-04-03/hertz-htz-selling-electric-cars-ends-its-failed-tesla-bet"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-04-03, 23:16:27",
-      "https://news.ycombinator.com/item?id=39924574"
-    ],
-    [
-      "Henry Darger",
-      "https://www.moma.org/artists/28600"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 21:27:46",
       "https://news.ycombinator.com/item?id=39923404"
     ],
@@ -257,16 +267,6 @@
     [
       "Breaking Silos",
       "https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 10:35:59",
-      "https://news.ycombinator.com/item?id=39904189"
-    ],
-    [
-      "Tonal.js: Functional music theory lib",
-      "https://github.com/tonaljs/tonal"
     ]
   ],
   [
