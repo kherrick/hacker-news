@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 09:10:07](https://news.ycombinator.com/item?id=39928111) - [Show HN: A universal Helm Chart for deploying applications into K8s/OpenShift](https://github.com/nixys/nxs-universal-chart)
 * [2024-04-04, 08:16:28](https://news.ycombinator.com/item?id=39927759) - [Physically healthy 28-year-old woman schedules euthanasia due to depression](https://www.themirror.com/news/world-news/physically-healthy-28-year-old-419986)
 * [2024-04-04, 07:53:17](https://news.ycombinator.com/item?id=39927657) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 * [2024-04-04, 06:59:11](https://news.ycombinator.com/item?id=39927352) - [Seattle shuts down gifted program for having too many white and Asian students](https://nypost.com/2024/04/03/us-news/seattle-public-schools-shuts-down-gifted-and-talented-program/)
