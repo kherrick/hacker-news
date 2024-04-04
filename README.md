@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-04, 13:23:17](https://news.ycombinator.com/item?id=39930072) - [Meta's AI image generator can't imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
 * [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
 * [2024-04-04, 12:15:09](https://news.ycombinator.com/item?id=39929416) - [Washington's Lottery forced to pull site after creating AI porn of lotto user](https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/)
 * [2024-04-04, 12:10:18](https://news.ycombinator.com/item?id=39929361) - [HOPE Deepfakes](https://hope.net/deepfakes.html)
@@ -22,6 +21,7 @@
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
+* [2024-04-03, 15:10:11](https://news.ycombinator.com/item?id=39918500) - [Show HN: Plandex – an AI coding engine for complex tasks](https://github.com/plandex-ai/plandex)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 07:15:29](https://news.ycombinator.com/item?id=39914478) - [Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs](https://www.theregister.com/2024/04/01/rickroll_meme_asic/)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
