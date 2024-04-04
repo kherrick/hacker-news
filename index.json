@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-04, 21:58:01",
+      "https://news.ycombinator.com/item?id=39936291"
+    ],
+    [
+      "C but Safe",
+      "https://xr0.dev/"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 21:57:29",
       "https://news.ycombinator.com/item?id=39936284"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2024-04-04, 21:37:00",
+      "https://news.ycombinator.com/item?id=39936064"
+    ],
+    [
+      "The Crescendo Multi-Turn LLM Jailbreak Attack",
+      "https://crescendo-the-multiturn-jailbreak.github.io//"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 21:00:16",
       "https://news.ycombinator.com/item?id=39935746"
     ],
     [
       "Reclaim Protocol (YC W21) Is Hiring BDRs",
       "https://www.workatastartup.com/jobs/65710"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 20:46:10",
-      "https://news.ycombinator.com/item?id=39935597"
-    ],
-    [
-      "Apple explores home robotics as potential 'next big thing'",
-      "https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use",
       "https://fizzbee.io/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 08:27:37",
-      "https://news.ycombinator.com/item?id=39903494"
-    ],
-    [
-      "std::launder: the most obscure new feature of C++17 (2016)",
-      "https://miyuki.github.io/2016/10/21/std-launder.html"
     ]
   ]
 ]
