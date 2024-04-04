@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-04, 06:59:11",
+      "https://news.ycombinator.com/item?id=39927352"
+    ],
+    [
+      "Seattle shuts down gifted program for having too many white and Asian students",
+      "https://nypost.com/2024/04/03/us-news/seattle-public-schools-shuts-down-gifted-and-talented-program/"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 06:05:23",
       "https://news.ycombinator.com/item?id=39927057"
     ],
@@ -217,16 +227,6 @@
     [
       "Improvements to static analysis in GCC 14",
       "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 13:42:34",
-      "https://news.ycombinator.com/item?id=39917364"
-    ],
-    [
-      "Show HN: Burr – A framework for building and debugging GenAI apps faster",
-      "https://github.com/DAGWorks-Inc/burr"
     ]
   ],
   [
