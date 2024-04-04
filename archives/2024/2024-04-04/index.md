@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The Design Philosophy of Great Tables (Python)](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 * [2024-04-04, 17:47:58](https://news.ycombinator.com/item?id=39933683) - [Coding agent in the IDE: Generate task plan and get plan-aware code completion](https://twitter.com/itamar_mar/status/1775888498220028041)
 * [2024-04-04, 17:22:14](https://news.ycombinator.com/item?id=39933342) - [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
 * [2024-04-04, 17:00:15](https://news.ycombinator.com/item?id=39933016) - [Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
