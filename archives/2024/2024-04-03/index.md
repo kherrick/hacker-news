@@ -87,6 +87,7 @@
 * [2024-04-03, 12:13:58](https://news.ycombinator.com/item?id=39916439) - [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
 * [2024-04-03, 12:10:43](https://news.ycombinator.com/item?id=39916397) - [Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0)
 * [2024-04-03, 12:07:24](https://news.ycombinator.com/item?id=39916369) - [Welcome to the AI Gadget Era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
+* [2024-04-03, 12:07:17](https://news.ycombinator.com/item?id=39916366) - [You don't have to type faster to type faster](https://blog.abreevy8.io/you-dont-have-to-type-faster-to-type-faster/)
 * [2024-04-03, 11:57:04](https://news.ycombinator.com/item?id=39916282) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
 * [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre Transform, Better Explained](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:42:13](https://news.ycombinator.com/item?id=39916151) - [Making old orchards new again](https://modernfarmer.com/2024/04/making-old-orchards-new-again/)

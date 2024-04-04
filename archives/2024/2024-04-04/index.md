@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 04:46:35](https://news.ycombinator.com/item?id=39926633) - [Washington State judge blocks use of AI-enhanced video as evidence](https://www.nbcnews.com/news/us-news/washington-state-judge-blocks-use-ai-enhanced-video-evidence-rcna141932)
 * [2024-04-04, 04:16:13](https://news.ycombinator.com/item?id=39926466) - [Sei (YC W22) Is Hiring Principal Engineers (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
 * [2024-04-04, 03:40:41](https://news.ycombinator.com/item?id=39926302) - [The App Store Was Down, Along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
 * [2024-04-04, 03:39:38](https://news.ycombinator.com/item?id=39926295) - [Australian lab-grown meat cultured from quail cells hits the market in Singapore](https://www.abc.net.au/news/2024-04-04/australian-lab-grown-meat-from-quail-cells-in-singapore/103667178)
