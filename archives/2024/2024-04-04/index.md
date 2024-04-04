@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
 * [2024-04-04, 08:16:28](https://news.ycombinator.com/item?id=39927759) - [Physically healthy 28-year-old woman schedules euthanasia due to depression](https://www.themirror.com/news/world-news/physically-healthy-28-year-old-419986)
+* [2024-04-04, 07:53:17](https://news.ycombinator.com/item?id=39927657) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 * [2024-04-04, 06:59:11](https://news.ycombinator.com/item?id=39927352) - [Seattle shuts down gifted program for having too many white and Asian students](https://nypost.com/2024/04/03/us-news/seattle-public-schools-shuts-down-gifted-and-talented-program/)
+* [2024-04-04, 06:40:47](https://news.ycombinator.com/item?id=39927246) - [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
 * [2024-04-04, 06:05:23](https://news.ycombinator.com/item?id=39927057) - [GenZ software engineers, according to older colleagues](https://newsletter.pragmaticengineer.com/p/genz)
 * [2024-04-04, 04:53:26](https://news.ycombinator.com/item?id=39926673) - [Cally: Accessibility Statement](https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/)
 * [2024-04-04, 04:46:35](https://news.ycombinator.com/item?id=39926633) - [Washington State judge blocks use of AI-enhanced video as evidence](https://www.nbcnews.com/news/us-news/washington-state-judge-blocks-use-ai-enhanced-video-evidence-rcna141932)
