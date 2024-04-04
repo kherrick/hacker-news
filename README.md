@@ -26,8 +26,8 @@
 * [2024-04-03, 05:30:50](https://news.ycombinator.com/item?id=39913913) - [America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150](https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-03, 00:42:42](https://news.ycombinator.com/item?id=39912448) - [John Barth has died](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
+* [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
-* [2024-04-02, 09:05:04](https://news.ycombinator.com/item?id=39903685) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 05:25:42](https://news.ycombinator.com/item?id=39902660) - [Our tools shape our selves](https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world)
 * [2024-04-02, 05:07:46](https://news.ycombinator.com/item?id=39902576) - [Qiling: A true instrumentable binary emulation framework](https://github.com/qilingframework/qiling)
 
