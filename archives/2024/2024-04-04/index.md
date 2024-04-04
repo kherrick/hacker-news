@@ -7,6 +7,7 @@
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
 * [2024-04-04, 01:36:51](https://news.ycombinator.com/item?id=39925609) - [7 out of every 10 Fentanyl pills seized by DEA contain a lethal dose](https://www.dea.gov/onepill)
 * [2024-04-04, 01:24:52](https://news.ycombinator.com/item?id=39925527) - [OWASP discloses breach due to a Wiki web server misconfig](https://www.theregister.com/2024/04/02/owasp_discloses_data_breach/)
+* [2024-04-04, 01:00:06](https://news.ycombinator.com/item?id=39925316) - [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
 * [2024-04-04, 00:59:56](https://news.ycombinator.com/item?id=39925315) - [Andres Freund and the xz backdoor](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html)
 * [2024-04-04, 00:41:14](https://news.ycombinator.com/item?id=39925186) - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 * [2024-04-04, 00:31:51](https://news.ycombinator.com/item?id=39925129) - [The Software Architecture of Palia](https://www.singularity6.com/news/software-architecture-of-palia)
