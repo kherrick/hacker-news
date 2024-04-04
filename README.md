@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-04, 18:26:13](https://news.ycombinator.com/item?id=39934117) - [Yi-34B, Llama 2, and common practices in LLM training](https://blog.eleuther.ai/nyt-yi-34b-response/)
+* [2024-04-04, 18:24:09](https://news.ycombinator.com/item?id=39934101) - [Roblox Boss: We Don't Exploit Child Labor, We're Giving Kids in \"The Slum\" a Job](https://kotaku.com/roblox-boss-kids-child-labor-exploit-indonesia-slum-1851387795)
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The Design Philosophy of Great Tables (Python)](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 * [2024-04-04, 17:22:14](https://news.ycombinator.com/item?id=39933342) - [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [Reaching LLaMA2 Performance with 0.1M Dollars](https://research.myshell.ai/jetmoe)
@@ -24,7 +25,6 @@
 * [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 * [2024-04-04, 06:40:47](https://news.ycombinator.com/item?id=39927246) - [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-* [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
