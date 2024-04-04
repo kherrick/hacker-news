@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-04, 17:00:15",
+      "https://news.ycombinator.com/item?id=39933016"
+    ],
+    [
+      "Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF",
+      "https://markprompt.com/jobs"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 16:52:01",
+      "https://news.ycombinator.com/item?id=39932906"
+    ],
+    [
+      "Vercel: Improved Infrastructure Pricing",
+      "https://vercel.com/blog/improved-infrastructure-pricing"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 16:36:26",
+      "https://news.ycombinator.com/item?id=39932696"
+    ],
+    [
+      "PfSense Software Embraces Change: A Strategic Migration to the Linux Kernel",
+      "https://www.netgate.com/blog/pfsense-software-embraces-change-a-strategic-migration-to-the-linux-kernel"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 16:26:28",
       "https://news.ycombinator.com/item?id=39932556"
     ],
@@ -47,16 +77,6 @@
     [
       "AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together",
       "https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 14:44:34",
-      "https://news.ycombinator.com/item?id=39931072"
-    ],
-    [
-      "Radxa's SATA HAT makes compact Pi 5 NAS",
-      "https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-04-04, 04:16:13",
-      "https://news.ycombinator.com/item?id=39926466"
-    ],
-    [
-      "Sei (YC W22) Is Hiring Principal Engineers (On-Site, India)",
-      "https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 02:57:57",
       "https://news.ycombinator.com/item?id=39926081"
     ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2024-04-03, 21:27:46",
-      "https://news.ycombinator.com/item?id=39923404"
-    ],
-    [
-      "Show HN: I've built a locally running Perplexity clone",
-      "https://github.com/nilsherzig/LLocalSearch"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 19:35:00",
-      "https://news.ycombinator.com/item?id=39922006"
-    ],
-    [
-      "Terraform makes carbon neutral natural gas",
-      "https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 07:15:29",
       "https://news.ycombinator.com/item?id=39914478"
     ],
     [
       "Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs",
       "https://www.theregister.com/2024/04/01/rickroll_meme_asic/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 04:33:39",
+      "https://news.ycombinator.com/item?id=39913616"
+    ],
+    [
+      "Subroutine calls in the ancient world, before computers had stacks or heaps",
+      "https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599"
     ]
   ],
   [
