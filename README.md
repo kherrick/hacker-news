@@ -6,12 +6,11 @@
 * [2024-04-04, 19:01:37](https://news.ycombinator.com/item?id=39934480) - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
 * [2024-04-04, 18:58:05](https://news.ycombinator.com/item?id=39934434) - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
 * [2024-04-04, 18:47:19](https://news.ycombinator.com/item?id=39934322) - [Rule-based NLP system beats LLM for analysis of psychiatric clinical notes](https://arxiv.org/abs/2403.17199)
-* [2024-04-04, 18:47:07](https://news.ycombinator.com/item?id=39934320) - [How should we define 'open' AI? (2024)](https://thenewstack.io/how-should-we-define-open-ai/)
+* [2024-04-04, 18:47:07](https://news.ycombinator.com/item?id=39934320) - [How should we define ‘open’ AI?](https://thenewstack.io/how-should-we-define-open-ai/)
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The design philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
-* [2024-04-04, 17:46:43](https://news.ycombinator.com/item?id=39933660) - [Xdp for game programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
+* [2024-04-04, 17:46:43](https://news.ycombinator.com/item?id=39933660) - [XDP for game programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [JetMoE: Reaching LLaMA2 performance with 0.1M dollars](https://research.myshell.ai/jetmoe)
 * [2024-04-04, 17:00:15](https://news.ycombinator.com/item?id=39933016) - [Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
-* [2024-04-04, 16:13:04](https://news.ycombinator.com/item?id=39932324) - [Reading more Ursula Le Guin (2019)](https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory)
 * [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-based home server management](https://runtipi.io)
 * [2024-04-04, 14:58:06](https://news.ycombinator.com/item?id=39931250) - [Improvements to the fine-tuning API and expanding our custom models program](https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program)
 * [2024-04-04, 14:32:50](https://news.ycombinator.com/item?id=39930919) - [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
@@ -30,6 +29,7 @@
 * [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-babel](https://emacsconf.org/2023/talks/collab/)
+* [2024-04-02, 08:27:37](https://news.ycombinator.com/item?id=39903494) - [std::launder: the most obscure new feature of C++17](https://miyuki.github.io/2016/10/21/std-launder.html)
 
 ## [Archives](archives/index.md)
 

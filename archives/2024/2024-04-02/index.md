@@ -89,6 +89,7 @@
 * [2024-04-02, 08:35:21](https://news.ycombinator.com/item?id=39903516) - [Israeli airstrike on Gaza kills foreign aid workers](https://www.euronews.com/2024/04/02/israeli-airstrike-on-gaza-kills-foreign-aid-workers)
 * [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-Babel](https://emacsconf.org/2023/talks/collab/)
 * [2024-04-02, 08:30:18](https://news.ycombinator.com/item?id=39903497) - [MIT Claims They've Figured Out How to Make Fusion Energy Practical](https://www.msn.com/en-us/money/technology/mit-claims-they-ve-figured-out-how-to-make-fusion-energy-practical/ar-BB1kUejm)
+* [2024-04-02, 08:27:37](https://news.ycombinator.com/item?id=39903494) - [std::launder: the most obscure new feature of C++17](https://miyuki.github.io/2016/10/21/std-launder.html)
 * [2024-04-02, 08:23:33](https://news.ycombinator.com/item?id=39903476) - [Building and using a 29-year-old compiler on a modern system (2017)](https://miyuki.github.io/2017/10/04/gcc-archaeology-1.html)
 * [2024-04-02, 08:22:58](https://news.ycombinator.com/item?id=39903471) - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
 * [2024-04-02, 07:43:40](https://news.ycombinator.com/item?id=39903267) - [Show HN: Docfd: TUI multiline fuzzy document finder](https://github.com/darrenldl/docfd)
