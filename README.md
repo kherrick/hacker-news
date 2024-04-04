@@ -2,9 +2,9 @@
 
 * [2024-04-04, 21:40:27](https://news.ycombinator.com/item?id=39936100) - [Dow closes 500 points lower, worst day since March 2023](https://www.cnbc.com/2024/04/03/stock-market-today-live-updates.html)
 * [2024-04-04, 21:31:41](https://news.ycombinator.com/item?id=39936016) - [Roku files patent to inject ads via HDMI](https://patents.google.com/patent/US20230388589A1/en)
+* [2024-04-04, 21:06:33](https://news.ycombinator.com/item?id=39935805) - [Cory Doctorow on Kagi Search](https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/)
 * [2024-04-04, 21:00:16](https://news.ycombinator.com/item?id=39935746) - [Reclaim Protocol (YC W21) Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
 * [2024-04-04, 20:39:31](https://news.ycombinator.com/item?id=39935526) - [Roblox executive says children making money on the platform is 'a gift'](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)
-* [2024-04-04, 20:38:51](https://news.ycombinator.com/item?id=39935519) - [The Rise of the Remote Husband](https://www.economist.com/united-states/2024/04/04/the-rise-of-the-remote-husband)
 * [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
 * [2024-04-04, 19:23:00](https://news.ycombinator.com/item?id=39934696) - [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
