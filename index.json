@@ -31,6 +31,26 @@
   ],
   [
     [
+      "2024-04-04, 11:31:54",
+      "https://news.ycombinator.com/item?id=39928984"
+    ],
+    [
+      "SableDb – a key/value store that uses RocksDB and Redis API (written in Rust)",
+      "https://github.com/sabledb-io/sabledb"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 11:27:43",
+      "https://news.ycombinator.com/item?id=39928950"
+    ],
+    [
+      "Ask HN: Happy 404 Day. Whats your favorite 404 error page?",
+      "https://news.ycombinator.com/item?id=39928950"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 11:17:25",
       "https://news.ycombinator.com/item?id=39928867"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-04-04, 00:31:51",
-      "https://news.ycombinator.com/item?id=39925129"
-    ],
-    [
-      "The Software Architecture of Palia",
-      "https://www.singularity6.com/news/software-architecture-of-palia"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 23:16:27",
       "https://news.ycombinator.com/item?id=39924574"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-04-03, 21:05:45",
-      "https://news.ycombinator.com/item?id=39923136"
-    ],
-    [
-      "The Triumph of Philanthropy (2018)",
-      "https://www.laphamsquarterly.org/roundtable/triumph-philanthropy"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 20:25:58",
       "https://news.ycombinator.com/item?id=39922631"
     ],
@@ -207,16 +207,6 @@
     [
       "MOnSter 6502: a working transistor-scale replica of the classic MOS 6502",
       "https://monster6502.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 15:10:11",
-      "https://news.ycombinator.com/item?id=39918500"
-    ],
-    [
-      "Show HN: Plandex – an AI coding engine for complex tasks",
-      "https://github.com/plandex-ai/plandex"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Angry Video Game Model: neural network arch to predict videogame ratings",
       "https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 02:29:29",
+      "https://news.ycombinator.com/item?id=39901800"
+    ],
+    [
+      "Basic and the ROMs that changed the world (and then disappeared) (2022)",
+      "https://jcoterhals.medium.com/basic-and-the-roms-that-changed-the-world-and-then-disappeared-38318db4611c"
     ]
   ],
   [
