@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-04, 01:08:32",
-      "https://news.ycombinator.com/item?id=39925405"
-    ],
-    [
-      "Ask HN: What's the worst that could have happened had xz gone unnoticed?",
-      "https://news.ycombinator.com/item?id=39925405"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 01:00:06",
       "https://news.ycombinator.com/item?id=39925316"
     ],
@@ -41,22 +31,22 @@
   ],
   [
     [
+      "2024-04-04, 00:31:51",
+      "https://news.ycombinator.com/item?id=39925129"
+    ],
+    [
+      "The Software Architecture of Palia",
+      "https://www.singularity6.com/news/software-architecture-of-palia"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 23:16:27",
       "https://news.ycombinator.com/item?id=39924574"
     ],
     [
       "Henry Darger",
       "https://www.moma.org/artists/28600"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 22:52:41",
-      "https://news.ycombinator.com/item?id=39924362"
-    ],
-    [
-      "PHP: The Right Way",
-      "https://phptherightway.com/"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2024-04-03, 14:53:46",
-      "https://news.ycombinator.com/item?id=39918277"
-    ],
-    [
-      "Truemetrics (YC S23) Hiring a Back End Engineer",
-      "https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 14:50:30",
       "https://news.ycombinator.com/item?id=39918245"
     ],
@@ -217,6 +197,16 @@
     [
       "Improvements to static analysis in GCC 14",
       "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 13:31:44",
+      "https://news.ycombinator.com/item?id=39917215"
+    ],
+    [
+      "Blood, sweat, and water: paper analytical devices track health and environment",
+      "https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Our tools shape our selves",
       "https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 05:07:46",
+      "https://news.ycombinator.com/item?id=39902576"
+    ],
+    [
+      "Qiling: A true instrumentable binary emulation framework",
+      "https://github.com/qilingframework/qiling"
     ]
   ]
 ]
