@@ -8,6 +8,7 @@
 * [2024-04-03, 23:21:51](https://news.ycombinator.com/item?id=39924634) - [Roblox Accused of Concocting Illegal Gambling Ring for Minors](https://news.bloomberglaw.com/privacy-and-data-security/roblox-accused-of-concocting-illegal-gambling-ring-for-minors)
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
 * [2024-04-03, 22:48:29](https://news.ycombinator.com/item?id=39924323) - [A viral $22 burrito explains inflation in the US](https://www.theguardian.com/food/ng-interactive/2024/mar/27/burrito-price-inflation-vaca-birria-san-francisco)
+* [2024-04-03, 22:38:38](https://news.ycombinator.com/item?id=39924210) - [Strudel: A live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
 * [2024-04-03, 22:10:47](https://news.ycombinator.com/item?id=39923903) - [AMD to Open Source more of their software stack, release more hardware docs](https://twitter.com/amdradeon/status/1775261152987271614)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 21:13:25](https://news.ycombinator.com/item?id=39923231) - [FCC to Vote on Restoring Net Neutrality](https://www.fcc.gov/document/fcc-vote-restoring-net-neutrality)
