@@ -25,6 +25,7 @@
 * [2024-04-02, 19:34:07](https://news.ycombinator.com/item?id=39909949) - [Microsoft posted on the FFMPEG tracker that their issue is 'high priority'](https://trac.ffmpeg.org/ticket/10341#comment:4)
 * [2024-04-02, 19:25:31](https://news.ycombinator.com/item?id=39909845) - [Apple wouldn't let Jon Stewart interview FTC Chair Lina Khan, TV host claims](https://arstechnica.com/gadgets/2024/04/apple-wouldnt-let-jon-stewart-interview-ftc-chair-lina-khan-tv-host-claims/)
 * [2024-04-02, 18:56:45](https://news.ycombinator.com/item?id=39909538) - [Stop Killing Games](https://www.stopkillinggames.com/)
+* [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 18:32:48](https://news.ycombinator.com/item?id=39909246) - [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)
 * [2024-04-02, 18:28:19](https://news.ycombinator.com/item?id=39909187) - [Trader Joe's and their pattern of copycat merchandising](https://tastecooking.com/we-need-to-talk-about-trader-joes/)
 * [2024-04-02, 18:23:35](https://news.ycombinator.com/item?id=39909123) - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)

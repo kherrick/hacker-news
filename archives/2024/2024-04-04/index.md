@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
+* [2024-04-04, 19:01:37](https://news.ycombinator.com/item?id=39934480) - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
+* [2024-04-04, 18:58:05](https://news.ycombinator.com/item?id=39934434) - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
 * [2024-04-04, 18:50:26](https://news.ycombinator.com/item?id=39934354) - [DataStax has acquired Langflow to accelerate generative AI development](https://www.datastax.com/blog/datastax-acquires-langflow-to-accelerate-generative-ai-app-development)
 * [2024-04-04, 18:47:19](https://news.ycombinator.com/item?id=39934322) - [Rule-Based NLP System Beats LLM for Analysis of Psychiatric Clinical Notes](https://arxiv.org/abs/2403.17199)
 * [2024-04-04, 18:26:13](https://news.ycombinator.com/item?id=39934117) - [Yi-34B, Llama 2, and common practices in LLM training](https://blog.eleuther.ai/nyt-yi-34b-response/)
@@ -33,6 +36,7 @@
 * [2024-04-04, 14:27:30](https://news.ycombinator.com/item?id=39930846) - [Polars DataFrame Processing on GPU's](https://pola.rs/posts/polars-on-gpu/)
 * [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 14:08:07](https://news.ycombinator.com/item?id=39930598) - [Vigilante Hacker Took Down North Korea's Internet. Now He's Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
+* [2024-04-04, 13:59:34](https://news.ycombinator.com/item?id=39930493) - [Show HN: DotLottie Player – A New Universal Lottie Player Built with Rust](https://github.com/LottieFiles/dotlottie-rs)
 * [2024-04-04, 13:57:51](https://news.ycombinator.com/item?id=39930463) - [AI-generated sad girl with piano performs the text of the MIT License](https://twitter.com/goodside/status/1775713487529922702)
 * [2024-04-04, 13:55:53](https://news.ycombinator.com/item?id=39930450) - [Generational Luck in the Housing Market](https://awealthofcommonsense.com/2024/04/generational-luck-in-the-housing-market/)
 * [2024-04-04, 13:51:54](https://news.ycombinator.com/item?id=39930408) - [The return of never-ending job interviews: 'It can go beyond the pale'](https://www.bbc.com/worklife/article/20240402-return-of-never-ending-job-interviews)
