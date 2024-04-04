@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-Based Home Server Management](https://runtipi.io)
 * [2024-04-04, 14:58:19](https://news.ycombinator.com/item?id=39931256) - [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
 * [2024-04-04, 14:56:17](https://news.ycombinator.com/item?id=39931228) - [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
 * [2024-04-04, 14:46:20](https://news.ycombinator.com/item?id=39931096) - ['AI-assisted genocide': Israel reportedly used database for Gaza kill lists](https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists)
@@ -33,6 +34,7 @@
 * [2024-04-04, 10:27:19](https://news.ycombinator.com/item?id=39928558) - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
 * [2024-04-04, 10:05:46](https://news.ycombinator.com/item?id=39928445) - [Browse Self-Hosted Software](https://selfh.st/apps/)
 * [2024-04-04, 09:19:12](https://news.ycombinator.com/item?id=39928173) - [German state moving 30k PCs to LibreOffice](https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/)
+* [2024-04-04, 09:16:08](https://news.ycombinator.com/item?id=39928156) - [Show HN: CloudTabs Web Browser – a streaming web browser on every website](https://browse.cloudtabs.net/signupless_sessions)
 * [2024-04-04, 09:10:07](https://news.ycombinator.com/item?id=39928111) - [Show HN: A universal Helm Chart for deploying applications into K8s/OpenShift](https://github.com/nixys/nxs-universal-chart)
 * [2024-04-04, 08:20:37](https://news.ycombinator.com/item?id=39927783) - [The British Are Coming for Your White-Collar Job](https://www.wsj.com/finance/investing/britain-white-collar-jobs-7a59629d)
 * [2024-04-04, 08:16:28](https://news.ycombinator.com/item?id=39927759) - [Physically healthy 28-year-old woman schedules euthanasia due to depression](https://www.themirror.com/news/world-news/physically-healthy-28-year-old-419986)
