@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-04, 17:47:58",
+      "https://news.ycombinator.com/item?id=39933683"
+    ],
+    [
+      "Coding agent in the IDE: Generate task plan and get plan-aware code completion",
+      "https://twitter.com/itamar_mar/status/1775888498220028041"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 17:22:14",
       "https://news.ycombinator.com/item?id=39933342"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2024-04-04, 13:57:51",
+      "https://news.ycombinator.com/item?id=39930463"
+    ],
+    [
+      "AI-generated sad girl with piano performs the text of the MIT License",
+      "https://twitter.com/goodside/status/1775713487529922702"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 13:32:03",
       "https://news.ycombinator.com/item?id=39930195"
     ],
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2024-04-04, 07:57:47",
+      "https://news.ycombinator.com/item?id=39927682"
+    ],
+    [
+      "LSST Camera: largest camera for astronomy",
+      "https://www6.slac.stanford.edu/lsst"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 06:40:47",
       "https://news.ycombinator.com/item?id=39927246"
     ],
@@ -195,7 +225,7 @@
       "https://news.ycombinator.com/item?id=39926081"
     ],
     [
-      "Advice to Young People, the Lies I Tell Myself",
+      "Advice to young people, the lies I tell myself",
       "https://jxnl.co/writing/2024/06/01/advice-to-young-people/"
     ]
   ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2024-04-03, 19:31:38",
-      "https://news.ycombinator.com/item?id=39921964"
-    ],
-    [
-      "MOnSter 6502: a working transistor-scale replica of the classic MOS 6502",
-      "https://monster6502.com/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 13:54:28",
       "https://news.ycombinator.com/item?id=39917509"
     ],
     [
       "Improvements to static analysis in GCC 14",
       "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 07:15:29",
-      "https://news.ycombinator.com/item?id=39914478"
-    ],
-    [
-      "Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs",
-      "https://www.theregister.com/2024/04/01/rickroll_meme_asic/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Collaborative data processing and documenting using org-babel",
       "https://emacsconf.org/2023/talks/collab/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 05:19:17",
-      "https://news.ycombinator.com/item?id=39902636"
-    ],
-    [
-      "The Angry Video Game Model: neural network arch to predict videogame ratings",
-      "https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/"
     ]
   ]
 ]
