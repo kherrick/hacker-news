@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-04, 06:59:11](https://news.ycombinator.com/item?id=39927352) - [Seattle shuts down gifted program for having too many white and Asian students](https://nypost.com/2024/04/03/us-news/seattle-public-schools-shuts-down-gifted-and-talented-program/)
 * [2024-04-04, 06:05:23](https://news.ycombinator.com/item?id=39927057) - [GenZ software engineers, according to older colleagues](https://newsletter.pragmaticengineer.com/p/genz)
-* [2024-04-04, 04:53:26](https://news.ycombinator.com/item?id=39926673) - [Cally: Accessibility Statement](https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/)
 * [2024-04-04, 04:46:35](https://news.ycombinator.com/item?id=39926633) - [Washington State judge blocks use of AI-enhanced video as evidence](https://www.nbcnews.com/news/us-news/washington-state-judge-blocks-use-ai-enhanced-video-evidence-rcna141932)
+* [2024-04-04, 04:36:42](https://news.ycombinator.com/item?id=39926575) - [How to take down production with a single Helm command](https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/)
 * [2024-04-04, 04:16:13](https://news.ycombinator.com/item?id=39926466) - [Sei (YC W22) Is Hiring Principal Engineers (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
 * [2024-04-04, 04:06:00](https://news.ycombinator.com/item?id=39926423) - [Oh, Cool, Our $69K Fisker Ocean Is Only Worth $21K Now](https://www.edmunds.com/car-news/fisker-ocean-appraisal-long-term-update.html)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
@@ -20,6 +19,7 @@
 * [2024-04-03, 16:29:45](https://news.ycombinator.com/item?id=39919491) - [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for linking shell companies to their secret owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 15:10:11](https://news.ycombinator.com/item?id=39918500) - [Show HN: Plandex – an AI coding engine for complex tasks](https://github.com/plandex-ai/plandex)
+* [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
 * [2024-04-03, 14:17:10](https://news.ycombinator.com/item?id=39917830) - [Saffron: The Most Expensive Spice](https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New seafloor map only 25% done, with 6 years to go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
