@@ -5,7 +5,6 @@
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
 * [2024-04-04, 21:37:00](https://news.ycombinator.com/item?id=39936064) - [The Crescendo Multi-Turn LLM Jailbreak Attack](https://crescendo-the-multiturn-jailbreak.github.io//)
 * [2024-04-04, 21:00:16](https://news.ycombinator.com/item?id=39935746) - [Reclaim Protocol (YC W21) Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
-* [2024-04-04, 20:39:31](https://news.ycombinator.com/item?id=39935526) - [Roblox executive says children making money on the platform is 'a gift'](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)
 * [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
 * [2024-04-04, 19:23:00](https://news.ycombinator.com/item?id=39934696) - [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
@@ -30,6 +29,7 @@
 * [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use](https://fizzbee.io/)
+* [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-babel](https://emacsconf.org/2023/talks/collab/)
 
 ## [Archives](archives/index.md)
 
