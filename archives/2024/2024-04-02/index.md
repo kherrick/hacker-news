@@ -75,6 +75,7 @@
 * [2024-04-02, 13:09:42](https://news.ycombinator.com/item?id=39905335) - [Living human brain images of \"unrivaled clarity\" from new 11.7 teslas MRI](https://www.cea.fr/english/Pages/News/Iseult-MRI-Magnet-Record.aspx)
 * [2024-04-02, 12:19:41](https://news.ycombinator.com/item?id=39904883) - [Hunting up-to-date Wikidata datasets](https://news.ycombinator.com/item?id=39904883)
 * [2024-04-02, 12:18:00](https://news.ycombinator.com/item?id=39904877) - [Unforgivable: World Central Kitchen says seven aid workers killed in Gaza strike](https://www.axios.com/2024/04/02/gaza-aid-workers-killed-strike-world-central-kitchen)
+* [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 12:06:54](https://news.ycombinator.com/item?id=39904808) - [The end of Google Podcasts is in June if you're not in the US](https://notes.ghed.in/posts/2024/end-google-podcast-rest-of-world/)
 * [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use](https://fizzbee.io/)
