@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-04-04, 00:10:06",
-      "https://news.ycombinator.com/item?id=39924985"
+      "2024-04-04, 01:24:52",
+      "https://news.ycombinator.com/item?id=39925527"
     ],
     [
-      "Uv saves Home Assistant 215 compute hours per month",
-      "https://developers.home-assistant.io/blog/2024/04/03/build-images-with-uv/"
+      "OWASP discloses breach due to a Wiki web server misconfig",
+      "https://www.theregister.com/2024/04/02/owasp_discloses_data_breach/"
     ]
   ],
   [
     [
-      "2024-04-03, 23:30:34",
-      "https://news.ycombinator.com/item?id=39924702"
+      "2024-04-04, 00:41:14",
+      "https://news.ycombinator.com/item?id=39925186"
     ],
     [
-      "macOS Finder is still bad at network file copies",
-      "https://www.jeffgeerling.com/blog/2024/macos-finder-still-bad-network-file-copies"
+      "A disk so full, it couldn't be restored",
+      "https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Henry Darger",
       "https://www.moma.org/artists/28600"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 22:38:38",
+      "https://news.ycombinator.com/item?id=39924210"
+    ],
+    [
+      "Strudel: A live coding platform to write dynamic music pieces in the browser",
+      "https://strudel.cc"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "LiveView Is Best with Svelte",
       "https://blog.sequin.io/liveview-is-best-with-svelte/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 10:28:25",
-      "https://news.ycombinator.com/item?id=39915594"
-    ],
-    [
-      "PyTorch Library for Running LLM on Intel CPU and GPU",
-      "https://github.com/intel-analytics/ipex-llm"
     ]
   ],
   [
