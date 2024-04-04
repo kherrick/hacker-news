@@ -7,6 +7,7 @@
 * [2024-04-04, 04:16:13](https://news.ycombinator.com/item?id=39926466) - [Sei (YC W22) Is Hiring Principal Engineers (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
 * [2024-04-04, 03:40:41](https://news.ycombinator.com/item?id=39926302) - [The App Store Was Down, Along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
 * [2024-04-04, 03:39:38](https://news.ycombinator.com/item?id=39926295) - [Australian lab-grown meat cultured from quail cells hits the market in Singapore](https://www.abc.net.au/news/2024-04-04/australian-lab-grown-meat-from-quail-cells-in-singapore/103667178)
+* [2024-04-04, 02:28:56](https://news.ycombinator.com/item?id=39925920) - [Tired of late messages from your boss? A new bill aims to make it illegal](https://www.msn.com/en-us/news/other/tired-of-late-messages-from-your-boss-a-new-bill-aims-to-make-it-illegal/ar-BB1l2niL)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
 * [2024-04-04, 01:36:51](https://news.ycombinator.com/item?id=39925609) - [7 out of every 10 Fentanyl pills seized by DEA contain a lethal dose](https://www.dea.gov/onepill)
 * [2024-04-04, 01:24:52](https://news.ycombinator.com/item?id=39925527) - [OWASP discloses breach due to a Wiki web server misconfig](https://www.theregister.com/2024/04/02/owasp_discloses_data_breach/)
