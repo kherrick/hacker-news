@@ -1,22 +1,42 @@
 [
   [
     [
+      "2024-04-04, 00:10:06",
+      "https://news.ycombinator.com/item?id=39924985"
+    ],
+    [
+      "Uv saves Home Assistant 215 compute hours per month",
+      "https://developers.home-assistant.io/blog/2024/04/03/build-images-with-uv/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 23:30:34",
+      "https://news.ycombinator.com/item?id=39924702"
+    ],
+    [
+      "macOS Finder is still bad at network file copies",
+      "https://www.jeffgeerling.com/blog/2024/macos-finder-still-bad-network-file-copies"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 23:16:27",
+      "https://news.ycombinator.com/item?id=39924574"
+    ],
+    [
+      "Henry Darger",
+      "https://www.moma.org/artists/28600"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 21:27:46",
       "https://news.ycombinator.com/item?id=39923404"
     ],
     [
       "Show HN: I've built a locally running Perplexity clone",
       "https://github.com/nilsherzig/LLocalSearch"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 20:35:30",
-      "https://news.ycombinator.com/item?id=39922737"
-    ],
-    [
-      "YC's Winter 2024 Demo Day confirms that we are indeed in an AI bubble",
-      "https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-04-03, 13:57:22",
-      "https://news.ycombinator.com/item?id=39917551"
-    ],
-    [
-      "'Mini liver' will grow in person's own lymph node in bold new trial",
-      "https://www.nature.com/articles/d41586-024-00975-z"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 13:57:06",
       "https://news.ycombinator.com/item?id=39917547"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-04-03, 12:20:48",
-      "https://news.ycombinator.com/item?id=39916503"
-    ],
-    [
-      "The speed of sight: Individual variation in critical flicker fusion thresholds",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298007"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 11:44:02",
       "https://news.ycombinator.com/item?id=39916165"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-04-03, 05:52:35",
-      "https://news.ycombinator.com/item?id=39914047"
-    ],
-    [
-      "Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads",
-      "https://github.com/0verread/goralim"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 05:30:50",
       "https://news.ycombinator.com/item?id=39913913"
     ],
     [
       "America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150",
       "https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 05:29:45",
+      "https://news.ycombinator.com/item?id=39913905"
+    ],
+    [
+      "Autoconf makes me think we stopped evolving too soon",
+      "https://rachelbythebay.com/w/2024/04/02/autoconf/"
     ]
   ],
   [
