@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 21:06:33](https://news.ycombinator.com/item?id=39935805) - [Cory Doctorow on Kagi Search](https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/)
 * [2024-04-04, 21:00:16](https://news.ycombinator.com/item?id=39935746) - [Reclaim Protocol (YC W21) Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
 * [2024-04-04, 20:46:10](https://news.ycombinator.com/item?id=39935597) - [Apple Explores Home Robotics as Potential 'Next Big Thing'](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts)
 * [2024-04-04, 20:39:31](https://news.ycombinator.com/item?id=39935526) - [Roblox executive says children making money on the platform is 'a gift'](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)
@@ -12,6 +13,7 @@
 * [2024-04-04, 19:23:00](https://news.ycombinator.com/item?id=39934696) - [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 * [2024-04-04, 19:21:59](https://news.ycombinator.com/item?id=39934684) - [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
+* [2024-04-04, 19:06:40](https://news.ycombinator.com/item?id=39934533) - [Rejuvenating the Blood Cell Population](https://www.science.org/content/blog-post/rejuvenating-blood-cell-population)
 * [2024-04-04, 19:01:37](https://news.ycombinator.com/item?id=39934480) - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
 * [2024-04-04, 18:58:05](https://news.ycombinator.com/item?id=39934434) - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
 * [2024-04-04, 18:50:26](https://news.ycombinator.com/item?id=39934354) - [DataStax has acquired Langflow to accelerate generative AI development](https://www.datastax.com/blog/datastax-acquires-langflow-to-accelerate-generative-ai-app-development)
