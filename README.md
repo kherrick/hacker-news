@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
+* [2024-04-04, 01:08:32](https://news.ycombinator.com/item?id=39925405) - [Ask HN: What's the worst that could have happened had xz gone unnoticed?](https://news.ycombinator.com/item?id=39925405)
 * [2024-04-04, 01:00:06](https://news.ycombinator.com/item?id=39925316) - [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
 * [2024-04-04, 00:41:14](https://news.ycombinator.com/item?id=39925186) - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
-* [2024-04-04, 00:31:51](https://news.ycombinator.com/item?id=39925129) - [The Software Architecture of Palia](https://www.singularity6.com/news/software-architecture-of-palia)
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
 * [2024-04-03, 22:52:41](https://news.ycombinator.com/item?id=39924362) - [PHP: The Right Way](https://phptherightway.com/)
 * [2024-04-03, 22:38:38](https://news.ycombinator.com/item?id=39924210) - [Strudel: A live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
