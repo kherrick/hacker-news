@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 17:47:58](https://news.ycombinator.com/item?id=39933683) - [Coding agent in the IDE: Generate task plan and get plan-aware code completion](https://twitter.com/itamar_mar/status/1775888498220028041)
 * [2024-04-04, 17:22:14](https://news.ycombinator.com/item?id=39933342) - [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
 * [2024-04-04, 17:00:15](https://news.ycombinator.com/item?id=39933016) - [Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
 * [2024-04-04, 16:52:01](https://news.ycombinator.com/item?id=39932906) - [Vercel: Improved Infrastructure Pricing](https://vercel.com/blog/improved-infrastructure-pricing)
@@ -47,6 +48,7 @@
 * [2024-04-04, 09:10:07](https://news.ycombinator.com/item?id=39928111) - [Show HN: A universal Helm Chart for deploying applications into K8s/OpenShift](https://github.com/nixys/nxs-universal-chart)
 * [2024-04-04, 08:20:37](https://news.ycombinator.com/item?id=39927783) - [The British Are Coming for Your White-Collar Job](https://www.wsj.com/finance/investing/britain-white-collar-jobs-7a59629d)
 * [2024-04-04, 08:16:28](https://news.ycombinator.com/item?id=39927759) - [Physically healthy 28-year-old woman schedules euthanasia due to depression](https://www.themirror.com/news/world-news/physically-healthy-28-year-old-419986)
+* [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 * [2024-04-04, 07:53:17](https://news.ycombinator.com/item?id=39927657) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 * [2024-04-04, 06:59:11](https://news.ycombinator.com/item?id=39927352) - [Seattle shuts down gifted program for having too many white and Asian students](https://nypost.com/2024/04/03/us-news/seattle-public-schools-shuts-down-gifted-and-talented-program/)
 * [2024-04-04, 06:40:47](https://news.ycombinator.com/item?id=39927246) - [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
