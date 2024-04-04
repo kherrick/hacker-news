@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-04-03, 10:19:07",
+      "https://news.ycombinator.com/item?id=39915526"
+    ],
+    [
+      "Row Zero and Viewport Data Streaming",
+      "https://digest.browsertech.com/archive/browsertech-digest-row-zero-and-viewport-data/"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 18:47:00",
       "https://news.ycombinator.com/item?id=39909436"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use",
       "https://fizzbee.io/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 08:34:54",
-      "https://news.ycombinator.com/item?id=39903514"
-    ],
-    [
-      "Collaborative data processing and documenting using org-babel",
-      "https://emacsconf.org/2023/talks/collab/"
     ]
   ]
 ]
