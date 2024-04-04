@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 19:57:39](https://news.ycombinator.com/item?id=39935090) - [Amazon's \"Just Walk Out\" checkout turns out to be 1000 workers watching you shop](https://boingboing.net/2024/04/03/amazons-ai-powered-just-walk-outcheckout-option-turns-out-to-be-1000-workers-watching-you-shop.html)
+* [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language Models as Compilers](https://arxiv.org/abs/2404.02575)
 * [2024-04-04, 19:21:59](https://news.ycombinator.com/item?id=39934684) - [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 19:01:37](https://news.ycombinator.com/item?id=39934480) - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
@@ -34,6 +36,7 @@
 * [2024-04-04, 14:40:11](https://news.ycombinator.com/item?id=39931012) - [\"Pink slime\" local news outlets erupt all over US as election nears](https://arstechnica.com/tech-policy/2024/04/pink-slime-local-news-outlets-erupt-all-over-us-during-election-year/)
 * [2024-04-04, 14:36:56](https://news.ycombinator.com/item?id=39930980) - [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
 * [2024-04-04, 14:32:50](https://news.ycombinator.com/item?id=39930919) - [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
+* [2024-04-04, 14:32:20](https://news.ycombinator.com/item?id=39930908) - [Show HN: Managed GitHub Actions Runners for AWS](https://news.ycombinator.com/item?id=39930908)
 * [2024-04-04, 14:30:32](https://news.ycombinator.com/item?id=39930887) - [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
 * [2024-04-04, 14:27:30](https://news.ycombinator.com/item?id=39930846) - [Polars DataFrame Processing on GPU's](https://pola.rs/posts/polars-on-gpu/)
 * [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
