@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 14:58:19](https://news.ycombinator.com/item?id=39931256) - [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
 * [2024-04-04, 14:56:17](https://news.ycombinator.com/item?id=39931228) - [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
 * [2024-04-04, 14:46:20](https://news.ycombinator.com/item?id=39931096) - ['AI-assisted genocide': Israel reportedly used database for Gaza kill lists](https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists)
+* [2024-04-04, 14:44:34](https://news.ycombinator.com/item?id=39931072) - [Radxa's SATA HAT makes compact Pi 5 NAS](https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas)
 * [2024-04-04, 14:40:11](https://news.ycombinator.com/item?id=39931012) - [\"Pink slime\" local news outlets erupt all over US as election nears](https://arstechnica.com/tech-policy/2024/04/pink-slime-local-news-outlets-erupt-all-over-us-during-election-year/)
 * [2024-04-04, 14:36:56](https://news.ycombinator.com/item?id=39930980) - [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
+* [2024-04-04, 14:27:30](https://news.ycombinator.com/item?id=39930846) - [Polars DataFrame Processing on GPU's](https://pola.rs/posts/polars-on-gpu/)
 * [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 14:08:07](https://news.ycombinator.com/item?id=39930598) - [Vigilante Hacker Took Down North Korea's Internet. Now He's Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
 * [2024-04-04, 13:57:51](https://news.ycombinator.com/item?id=39930463) - [AI-generated sad girl with piano performs the text of the MIT License](https://twitter.com/goodside/status/1775713487529922702)
