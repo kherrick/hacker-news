@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 21:58:01](https://news.ycombinator.com/item?id=39936291) - [C but Safe](https://xr0.dev/)
 * [2024-04-04, 21:57:29](https://news.ycombinator.com/item?id=39936284) - [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
 * [2024-04-04, 21:40:27](https://news.ycombinator.com/item?id=39936100) - [Dow closes 500 points lower, worst day since March 2023](https://www.cnbc.com/2024/04/03/stock-market-today-live-updates.html)
+* [2024-04-04, 21:37:00](https://news.ycombinator.com/item?id=39936064) - [The Crescendo Multi-Turn LLM Jailbreak Attack](https://crescendo-the-multiturn-jailbreak.github.io//)
 * [2024-04-04, 21:31:41](https://news.ycombinator.com/item?id=39936016) - [Roku files patent to inject ads via HDMI](https://patents.google.com/patent/US20230388589A1/en)
 * [2024-04-04, 21:06:33](https://news.ycombinator.com/item?id=39935805) - [Cory Doctorow on Kagi Search](https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/)
 * [2024-04-04, 21:00:16](https://news.ycombinator.com/item?id=39935746) - [Reclaim Protocol (YC W21) Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
