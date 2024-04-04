@@ -19,7 +19,6 @@
 * [2024-04-03, 16:29:45](https://news.ycombinator.com/item?id=39919491) - [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for linking shell companies to their secret owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 15:10:11](https://news.ycombinator.com/item?id=39918500) - [Show HN: Plandex – an AI coding engine for complex tasks](https://github.com/plandex-ai/plandex)
-* [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
 * [2024-04-03, 14:17:10](https://news.ycombinator.com/item?id=39917830) - [Saffron: The Most Expensive Spice](https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New seafloor map only 25% done, with 6 years to go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
@@ -30,6 +29,7 @@
 * [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 05:25:42](https://news.ycombinator.com/item?id=39902660) - [Our tools shape our selves](https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world)
+* [2024-04-02, 05:19:17](https://news.ycombinator.com/item?id=39902636) - [The Angry Video Game Model: neural network arch to predict videogame ratings](https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/)
 
 ## [Archives](archives/index.md)
 
