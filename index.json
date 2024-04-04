@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-04, 14:56:17",
-      "https://news.ycombinator.com/item?id=39931228"
-    ],
-    [
-      "Deaths at a California skydiving center, but the jumps go on",
-      "https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 14:36:56",
       "https://news.ycombinator.com/item?id=39930980"
     ],
@@ -37,16 +27,6 @@
     [
       "Vigilante Hacker Took Down North Korea's Internet. Now He's Taking Off His Mask",
       "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 13:57:51",
-      "https://news.ycombinator.com/item?id=39930463"
-    ],
-    [
-      "AI-generated sad girl with piano performs the text of the MIT License",
-      "https://twitter.com/goodside/status/1775713487529922702"
     ]
   ],
   [
@@ -91,16 +71,6 @@
   ],
   [
     [
-      "2024-04-04, 12:05:22",
-      "https://news.ycombinator.com/item?id=39929310"
-    ],
-    [
-      "US court blocks EPA order to eliminate PFAS in plastic containers",
-      "https://www.thenewlede.org/2024/03/us-court-blocks-epa-order-to-eliminate-pfas-in-plastic-containers/"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 11:31:54",
       "https://news.ycombinator.com/item?id=39928984"
     ],
@@ -131,16 +101,6 @@
   ],
   [
     [
-      "2024-04-04, 11:17:25",
-      "https://news.ycombinator.com/item?id=39928867"
-    ],
-    [
-      "A podcast about the xz backdoor with the guy who found it",
-      "https://risky.biz/RB743/"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 10:35:17",
       "https://news.ycombinator.com/item?id=39928604"
     ],
@@ -157,16 +117,6 @@
     [
       "Kobold letters: Why HTML emails are a risk to your organization",
       "https://lutrasecurity.com/en/articles/kobold-letters/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 10:05:46",
-      "https://news.ycombinator.com/item?id=39928445"
-    ],
-    [
-      "Browse Self-Hosted Software",
-      "https://selfh.st/apps/"
     ]
   ],
   [
@@ -221,6 +171,16 @@
   ],
   [
     [
+      "2024-04-03, 23:16:27",
+      "https://news.ycombinator.com/item?id=39924574"
+    ],
+    [
+      "Henry Darger",
+      "https://www.moma.org/artists/28600"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 21:27:46",
       "https://news.ycombinator.com/item?id=39923404"
     ],
@@ -241,12 +201,42 @@
   ],
   [
     [
+      "2024-04-03, 19:31:38",
+      "https://news.ycombinator.com/item?id=39921964"
+    ],
+    [
+      "MOnSter 6502: a working transistor-scale replica of the classic MOS 6502",
+      "https://monster6502.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 13:54:28",
+      "https://news.ycombinator.com/item?id=39917509"
+    ],
+    [
+      "Improvements to static analysis in GCC 14",
+      "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 07:15:29",
       "https://news.ycombinator.com/item?id=39914478"
     ],
     [
       "Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs",
       "https://www.theregister.com/2024/04/01/rickroll_meme_asic/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 04:33:39",
+      "https://news.ycombinator.com/item?id=39913616"
+    ],
+    [
+      "Subroutine calls in the ancient world, before computers had stacks or heaps",
+      "https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2024-04-02, 20:03:35",
+      "https://news.ycombinator.com/item?id=39910273"
+    ],
+    [
+      "Surveilling Alone",
+      "https://www.thenewatlantis.com/publications/surveilling-alone"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 10:37:45",
       "https://news.ycombinator.com/item?id=39904205"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-04-02, 05:25:42",
-      "https://news.ycombinator.com/item?id=39902660"
+      "2024-04-02, 10:35:59",
+      "https://news.ycombinator.com/item?id=39904189"
     ],
     [
-      "Our tools shape our selves",
-      "https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world"
+      "Tonal.js: Functional music theory lib",
+      "https://github.com/tonaljs/tonal"
     ]
   ],
   [
