@@ -29,7 +29,7 @@
 * [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-babel](https://emacsconf.org/2023/talks/collab/)
-* [2024-04-02, 08:27:37](https://news.ycombinator.com/item?id=39903494) - [std::launder: the most obscure new feature of C++17](https://miyuki.github.io/2016/10/21/std-launder.html)
+* [2024-04-02, 08:27:37](https://news.ycombinator.com/item?id=39903494) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
 
 ## [Archives](archives/index.md)
 
