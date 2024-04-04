@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-04-04, 18:50:26",
-      "https://news.ycombinator.com/item?id=39934354"
+      "2024-04-04, 19:11:41",
+      "https://news.ycombinator.com/item?id=39934584"
     ],
     [
-      "DataStax has acquired Langflow to accelerate generative AI development",
-      "https://www.datastax.com/blog/datastax-acquires-langflow-to-accelerate-generative-ai-app-development"
+      "Understanding and managing the impact of machine learning models on the web",
+      "https://www.w3.org/reports/ai-web-impact/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 19:01:37",
+      "https://news.ycombinator.com/item?id=39934480"
+    ],
+    [
+      "Ask HN: Most efficient way to fine-tune an LLM in 2024?",
+      "https://news.ycombinator.com/item?id=39934480"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 18:58:05",
+      "https://news.ycombinator.com/item?id=39934434"
+    ],
+    [
+      "Containers and Unikernels: Similar, different, and intertwined",
+      "https://unikraft.io/blog/containers-and-unikernels/"
     ]
   ],
   [
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=39934322"
     ],
     [
-      "Rule-Based NLP System Beats LLM for Analysis of Psychiatric Clinical Notes",
+      "Rule-based NLP system beats LLM for analysis of psychiatric clinical notes",
       "https://arxiv.org/abs/2403.17199"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 18:24:09",
-      "https://news.ycombinator.com/item?id=39934101"
-    ],
-    [
-      "Roblox Studio boss: children making money on the platform isn't exploitation",
-      "https://www.eurogamer.net/roblox-studio-boss-children-making-money-on-the-platform-isnt-exploitation-its-a-gift"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39933076"
     ],
     [
-      "Reaching LLaMA2 Performance with 0.1M Dollars",
+      "JetMoE: Reaching LLaMA2 performance with 0.1M dollars",
       "https://research.myshell.ai/jetmoe"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF",
       "https://markprompt.com/jobs"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 16:17:08",
-      "https://news.ycombinator.com/item?id=39932378"
-    ],
-    [
-      "PCIe 7.0 Draft 0.5 Spec: 512 GB/s over PCIe x16 On Track For 2025",
-      "https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-04-04, 13:59:34",
+      "https://news.ycombinator.com/item?id=39930493"
+    ],
+    [
+      "Show HN: DotLottie Player – A New Universal Lottie Player Built with Rust",
+      "https://github.com/LottieFiles/dotlottie-rs"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 13:57:51",
       "https://news.ycombinator.com/item?id=39930463"
     ],
@@ -177,16 +187,6 @@
     [
       "SableDb – Fast, persistent database supporting Redis API",
       "https://github.com/sabledb-io/sabledb"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 11:27:43",
-      "https://news.ycombinator.com/item?id=39928950"
-    ],
-    [
-      "Ask HN: Happy 404 Day. Whats your favorite 404 error page?",
-      "https://news.ycombinator.com/item?id=39928950"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-04-02, 20:03:35",
-      "https://news.ycombinator.com/item?id=39910273"
+      "2024-04-02, 18:47:00",
+      "https://news.ycombinator.com/item?id=39909436"
     ],
     [
-      "Surveilling Alone",
-      "https://www.thenewatlantis.com/publications/surveilling-alone"
+      "Landslide topology uncovers failure movements",
+      "https://www.nature.com/articles/s41467-024-46741-7"
     ]
   ],
   [
