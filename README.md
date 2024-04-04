@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-04, 01:36:51](https://news.ycombinator.com/item?id=39925609) - [7 out of every 10 Fentanyl pills seized by DEA contain a lethal dose](https://www.dea.gov/onepill)
 * [2024-04-04, 00:59:56](https://news.ycombinator.com/item?id=39925315) - [Andres Freund and the xz backdoor](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html)
 * [2024-04-04, 00:41:14](https://news.ycombinator.com/item?id=39925186) - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
@@ -20,6 +19,7 @@
 * [2024-04-03, 14:17:10](https://news.ycombinator.com/item?id=39917830) - [Saffron: The Most Expensive Spice](https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New seafloor map only 25% done, with 6 years to go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
+* [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre transform, better explained (2017)](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:42:13](https://news.ycombinator.com/item?id=39916151) - [Making old orchards new again](https://modernfarmer.com/2024/04/making-old-orchards-new-again/)
 * [2024-04-03, 11:41:17](https://news.ycombinator.com/item?id=39916144) - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
