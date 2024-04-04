@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-04-04, 08:16:28",
-      "https://news.ycombinator.com/item?id=39927759"
-    ],
-    [
-      "Physically healthy 28-year-old woman schedules euthanasia due to depression",
-      "https://www.themirror.com/news/world-news/physically-healthy-28-year-old-419986"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 04:36:42",
-      "https://news.ycombinator.com/item?id=39926575"
-    ],
-    [
-      "How to take down production with a single Helm command",
-      "https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 04:16:13",
       "https://news.ycombinator.com/item?id=39926466"
     ],
@@ -47,6 +27,16 @@
     [
       "Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt",
       "https://github.com/linkdd/logfmtxx"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 01:00:06",
+      "https://news.ycombinator.com/item?id=39925316"
+    ],
+    [
+      "Ask HN: Has Anyone Trained a personal LLM using their personal notes?",
+      "https://news.ycombinator.com/item?id=39925316"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2024-04-03, 13:31:44",
-      "https://news.ycombinator.com/item?id=39917215"
-    ],
-    [
-      "Blood, sweat, and water: paper analytical devices track health and environment",
-      "https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 11:42:13",
       "https://news.ycombinator.com/item?id=39916151"
     ],
@@ -247,6 +227,16 @@
     [
       "Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs",
       "https://www.theregister.com/2024/04/01/rickroll_meme_asic/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 05:30:50",
+      "https://news.ycombinator.com/item?id=39913913"
+    ],
+    [
+      "America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150",
+      "https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Tonal.js: Functional music theory lib",
       "https://github.com/tonaljs/tonal"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 09:05:04",
+      "https://news.ycombinator.com/item?id=39903685"
+    ],
+    [
+      "The xz attack shell script",
+      "https://research.swtch.com/xz-script"
     ]
   ],
   [
