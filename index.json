@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39934320"
     ],
     [
-      "How should we define 'open' AI? (2024)",
+      "How should we define ‘open’ AI?",
       "https://thenewstack.io/how-should-we-define-open-ai/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39933660"
     ],
     [
-      "Xdp for game programmers",
+      "XDP for game programmers",
       "https://mas-bandwidth.com/xdp-for-game-programmers/"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF",
       "https://markprompt.com/jobs"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 16:13:04",
-      "https://news.ycombinator.com/item?id=39932324"
-    ],
-    [
-      "Reading more Ursula Le Guin (2019)",
-      "https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Collaborative data processing and documenting using org-babel",
       "https://emacsconf.org/2023/talks/collab/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 08:27:37",
+      "https://news.ycombinator.com/item?id=39903494"
+    ],
+    [
+      "std::launder: the most obscure new feature of C++17",
+      "https://miyuki.github.io/2016/10/21/std-launder.html"
     ]
   ]
 ]
