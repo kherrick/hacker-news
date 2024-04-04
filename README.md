@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-04, 19:21:59](https://news.ycombinator.com/item?id=39934684) - [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 19:01:37](https://news.ycombinator.com/item?id=39934480) - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
 * [2024-04-04, 18:58:05](https://news.ycombinator.com/item?id=39934434) - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
@@ -19,7 +20,6 @@
 * [2024-04-04, 13:57:51](https://news.ycombinator.com/item?id=39930463) - [AI-generated sad girl with piano performs the text of the MIT License](https://twitter.com/goodside/status/1775713487529922702)
 * [2024-04-04, 13:32:03](https://news.ycombinator.com/item?id=39930195) - [Homemade 6 GHz pulse compression radar](https://hforsten.com/homemade-6-ghz-pulse-compression-radar.html)
 * [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
-* [2024-04-04, 11:31:54](https://news.ycombinator.com/item?id=39928984) - [SableDb – Fast, persistent database supporting Redis API](https://github.com/sabledb-io/sabledb)
 * [2024-04-04, 11:23:09](https://news.ycombinator.com/item?id=39928913) - [How Hertz’s bet on Teslas went sideways](https://www.bloomberg.com/news/features/2024-04-03/hertz-htz-selling-electric-cars-ends-its-failed-tesla-bet)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 10:27:19](https://news.ycombinator.com/item?id=39928558) - [Kobold letters: HTML emails are a risk](https://lutrasecurity.com/en/articles/kobold-letters/)

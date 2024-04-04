@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 19:21:59](https://news.ycombinator.com/item?id=39934684) - [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 19:01:37](https://news.ycombinator.com/item?id=39934480) - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
 * [2024-04-04, 18:58:05](https://news.ycombinator.com/item?id=39934434) - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
