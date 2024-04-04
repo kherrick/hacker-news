@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-04, 14:56:17](https://news.ycombinator.com/item?id=39931228) - [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
-* [2024-04-04, 14:46:20](https://news.ycombinator.com/item?id=39931096) - ['AI-assisted genocide': Israel reportedly used database for Gaza kill lists](https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists)
 * [2024-04-04, 14:36:56](https://news.ycombinator.com/item?id=39930980) - [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
 * [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 14:08:07](https://news.ycombinator.com/item?id=39930598) - [Vigilante Hacker Took Down North Korea's Internet. Now He's Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
 * [2024-04-04, 13:57:51](https://news.ycombinator.com/item?id=39930463) - [AI-generated sad girl with piano performs the text of the MIT License](https://twitter.com/goodside/status/1775713487529922702)
+* [2024-04-04, 13:55:53](https://news.ycombinator.com/item?id=39930450) - [Generational Luck in the Housing Market](https://awealthofcommonsense.com/2024/04/generational-luck-in-the-housing-market/)
 * [2024-04-04, 13:51:54](https://news.ycombinator.com/item?id=39930408) - [The return of never-ending job interviews: 'It can go beyond the pale'](https://www.bbc.com/worklife/article/20240402-return-of-never-ending-job-interviews)
 * [2024-04-04, 13:47:19](https://news.ycombinator.com/item?id=39930364) - [Command R+: A Scalable LLM Built for Business](https://txt.cohere.com/command-r-plus-microsoft-azure/)
 * [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
