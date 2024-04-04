@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-04, 14:56:17](https://news.ycombinator.com/item?id=39931228) - [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
 * [2024-04-04, 14:46:20](https://news.ycombinator.com/item?id=39931096) - ['AI-assisted genocide': Israel reportedly used database for Gaza kill lists](https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists)
 * [2024-04-04, 14:36:56](https://news.ycombinator.com/item?id=39930980) - [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
 * [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
@@ -24,8 +25,7 @@
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 * [2024-04-03, 07:15:29](https://news.ycombinator.com/item?id=39914478) - [Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs](https://www.theregister.com/2024/04/01/rickroll_meme_asic/)
-* [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
-* [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
+* [2024-04-02, 20:03:48](https://news.ycombinator.com/item?id=39910277) - [Performing Muggu](https://garlandmag.com/article/muggu/)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 05:25:42](https://news.ycombinator.com/item?id=39902660) - [Our tools shape our selves](https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world)
 * [2024-04-02, 05:19:17](https://news.ycombinator.com/item?id=39902636) - [The Angry Video Game Model: neural network arch to predict videogame ratings](https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/)

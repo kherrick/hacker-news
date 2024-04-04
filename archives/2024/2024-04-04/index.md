@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 14:56:17](https://news.ycombinator.com/item?id=39931228) - [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
 * [2024-04-04, 14:46:20](https://news.ycombinator.com/item?id=39931096) - ['AI-assisted genocide': Israel reportedly used database for Gaza kill lists](https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists)
 * [2024-04-04, 14:40:11](https://news.ycombinator.com/item?id=39931012) - [\"Pink slime\" local news outlets erupt all over US as election nears](https://arstechnica.com/tech-policy/2024/04/pink-slime-local-news-outlets-erupt-all-over-us-during-election-year/)
 * [2024-04-04, 14:36:56](https://news.ycombinator.com/item?id=39930980) - [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
