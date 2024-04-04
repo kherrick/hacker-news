@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-04, 13:23:17](https://news.ycombinator.com/item?id=39930072) - [Meta's AI image generator can't imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
+* [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
 * [2024-04-04, 12:15:09](https://news.ycombinator.com/item?id=39929416) - [Washington's Lottery forced to pull site after creating AI porn of lotto user](https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/)
 * [2024-04-04, 12:10:18](https://news.ycombinator.com/item?id=39929361) - [HOPE Deepfakes](https://hope.net/deepfakes.html)
 * [2024-04-04, 12:05:22](https://news.ycombinator.com/item?id=39929310) - [US court blocks EPA order to eliminate PFAS in plastic containers](https://www.thenewlede.org/2024/03/us-court-blocks-epa-order-to-eliminate-pfas-in-plastic-containers/)
@@ -18,7 +20,6 @@
 * [2024-04-04, 01:52:40](https://news.ycombinator.com/item?id=39925699) - [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
 * [2024-04-04, 00:41:14](https://news.ycombinator.com/item?id=39925186) - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
-* [2024-04-03, 22:38:38](https://news.ycombinator.com/item?id=39924210) - [Strudel: A live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
@@ -26,7 +27,6 @@
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
-* [2024-04-02, 05:25:42](https://news.ycombinator.com/item?id=39902660) - [Our tools shape our selves](https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world)
 * [2024-04-02, 05:19:17](https://news.ycombinator.com/item?id=39902636) - [The Angry Video Game Model: neural network arch to predict videogame ratings](https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/)
 * [2024-04-02, 02:29:29](https://news.ycombinator.com/item?id=39901800) - [Basic and the ROMs that changed the world (and then disappeared) (2022)](https://jcoterhals.medium.com/basic-and-the-roms-that-changed-the-world-and-then-disappeared-38318db4611c)
 * [2024-04-01, 17:57:53](https://news.ycombinator.com/item?id=39897020) - [Exploring versions of the Postgres logical replication protocol](https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol)

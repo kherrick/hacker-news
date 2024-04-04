@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 13:23:17](https://news.ycombinator.com/item?id=39930072) - [Meta's AI image generator can't imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
+* [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
 * [2024-04-04, 12:15:09](https://news.ycombinator.com/item?id=39929416) - [Washington's Lottery forced to pull site after creating AI porn of lotto user](https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/)
 * [2024-04-04, 12:10:18](https://news.ycombinator.com/item?id=39929361) - [HOPE Deepfakes](https://hope.net/deepfakes.html)
 * [2024-04-04, 12:05:22](https://news.ycombinator.com/item?id=39929310) - [US court blocks EPA order to eliminate PFAS in plastic containers](https://www.thenewlede.org/2024/03/us-court-blocks-epa-order-to-eliminate-pfas-in-plastic-containers/)
