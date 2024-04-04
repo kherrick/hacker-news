@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 23:30:34](https://news.ycombinator.com/item?id=39924702) - [macOS Finder is still bad at network file copies](https://www.jeffgeerling.com/blog/2024/macos-finder-still-bad-network-file-copies)
 * [2024-04-03, 23:21:51](https://news.ycombinator.com/item?id=39924634) - [Roblox Accused of Concocting Illegal Gambling Ring for Minors](https://news.bloomberglaw.com/privacy-and-data-security/roblox-accused-of-concocting-illegal-gambling-ring-for-minors)
+* [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
 * [2024-04-03, 22:48:29](https://news.ycombinator.com/item?id=39924323) - [A viral $22 burrito explains inflation in the US](https://www.theguardian.com/food/ng-interactive/2024/mar/27/burrito-price-inflation-vaca-birria-san-francisco)
 * [2024-04-03, 22:10:47](https://news.ycombinator.com/item?id=39923903) - [AMD to Open Source more of their software stack, release more hardware docs](https://twitter.com/amdradeon/status/1775261152987271614)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running perplexity clone](https://github.com/nilsherzig/LLocalSearch)
@@ -105,6 +107,7 @@
 * [2024-04-03, 05:52:35](https://news.ycombinator.com/item?id=39914047) - [Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads](https://github.com/0verread/goralim)
 * [2024-04-03, 05:35:47](https://news.ycombinator.com/item?id=39913946) - [Full EU chat control proposal attack on digital privacy and encryption](https://www.patrick-breyer.de/en/full-chat-control-proposal-leaked-attack-on-digital-privacy-of-correspondence-and-secure-encryption/)
 * [2024-04-03, 05:30:50](https://news.ycombinator.com/item?id=39913913) - [America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150](https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness)
+* [2024-04-03, 05:29:45](https://news.ycombinator.com/item?id=39913905) - [Autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [The ancient world before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
