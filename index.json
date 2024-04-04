@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-04-04, 19:57:39",
-      "https://news.ycombinator.com/item?id=39935090"
-    ],
-    [
-      "Amazon's \"Just Walk Out\" checkout turns out to be 1000 workers watching you shop",
-      "https://boingboing.net/2024/04/03/amazons-ai-powered-just-walk-outcheckout-option-turns-out-to-be-1000-workers-watching-you-shop.html"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 19:46:44",
       "https://news.ycombinator.com/item?id=39934956"
     ],
     [
-      "Language Models as Compilers",
+      "Language models as compilers: Simulating pseudocode execution",
       "https://arxiv.org/abs/2404.02575"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39934320"
     ],
     [
-      "How should we define 'open' AI?",
+      "How should we define 'open' AI? (2024)",
       "https://thenewstack.io/how-should-we-define-open-ai/"
     ]
   ],
@@ -87,6 +77,16 @@
     [
       "The design philosophy of Great Tables",
       "https://posit-dev.github.io/great-tables/blog/design-philosophy/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 17:46:43",
+      "https://news.ycombinator.com/item?id=39933660"
+    ],
+    [
+      "Xdp for game programmers",
+      "https://mas-bandwidth.com/xdp-for-game-programmers/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF",
       "https://markprompt.com/jobs"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 16:17:08",
-      "https://news.ycombinator.com/item?id=39932378"
-    ],
-    [
-      "PCIe 7.0 Draft 0.5 Spec: 512 GB/s over PCIe x16 On Track For 2025",
-      "https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Show HN: DotLottie Player – A New Universal Lottie Player Built with Rust",
       "https://github.com/LottieFiles/dotlottie-rs"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 13:57:51",
+      "https://news.ycombinator.com/item?id=39930463"
+    ],
+    [
+      "AI-generated sad girl with piano performs the text of the MIT License",
+      "https://twitter.com/goodside/status/1775713487529922702"
     ]
   ],
   [
