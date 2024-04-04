@@ -6,7 +6,7 @@
 * [2024-04-04, 00:31:51](https://news.ycombinator.com/item?id=39925129) - [The Software Architecture of Palia](https://www.singularity6.com/news/software-architecture-of-palia)
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
 * [2024-04-03, 22:38:38](https://news.ycombinator.com/item?id=39924210) - [Strudel: A live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
-* [2024-04-03, 22:34:56](https://news.ycombinator.com/item?id=39924168) - [Patient with Transplanted Pig Kidney Leaves Hospital for Home](https://www.nytimes.com/2024/04/03/health/pig-kidney-transplant-slayman.html)
+* [2024-04-03, 22:27:39](https://news.ycombinator.com/item?id=39924086) - [Can We Engineer Our Way Out of the Climate Crisis?](https://www.nytimes.com/2024/03/31/climate/climate-change-carbon-capture-ccs.html)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 20:25:58](https://news.ycombinator.com/item?id=39922631) - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)

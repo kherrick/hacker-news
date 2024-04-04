@@ -12,6 +12,7 @@
 * [2024-04-03, 22:48:29](https://news.ycombinator.com/item?id=39924323) - [A viral $22 burrito explains inflation in the US](https://www.theguardian.com/food/ng-interactive/2024/mar/27/burrito-price-inflation-vaca-birria-san-francisco)
 * [2024-04-03, 22:38:38](https://news.ycombinator.com/item?id=39924210) - [Strudel: A live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
 * [2024-04-03, 22:34:56](https://news.ycombinator.com/item?id=39924168) - [Patient with Transplanted Pig Kidney Leaves Hospital for Home](https://www.nytimes.com/2024/04/03/health/pig-kidney-transplant-slayman.html)
+* [2024-04-03, 22:27:39](https://news.ycombinator.com/item?id=39924086) - [Can We Engineer Our Way Out of the Climate Crisis?](https://www.nytimes.com/2024/03/31/climate/climate-change-carbon-capture-ccs.html)
 * [2024-04-03, 22:10:47](https://news.ycombinator.com/item?id=39923903) - [AMD to Open Source more of their software stack, release more hardware docs](https://twitter.com/amdradeon/status/1775261152987271614)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 21:13:25](https://news.ycombinator.com/item?id=39923231) - [FCC to Vote on Restoring Net Neutrality](https://www.fcc.gov/document/fcc-vote-restoring-net-neutrality)
