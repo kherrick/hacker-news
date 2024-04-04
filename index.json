@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-04-04, 16:36:26",
-      "https://news.ycombinator.com/item?id=39932696"
-    ],
-    [
-      "PfSense Software Embraces Change: A Strategic Migration to the Linux Kernel",
-      "https://www.netgate.com/blog/pfsense-software-embraces-change-a-strategic-migration-to-the-linux-kernel"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 16:34:00",
       "https://news.ycombinator.com/item?id=39932667"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39932556"
     ],
     [
-      "Kelsey Hightower: Developers, what marketing strategies work on you?",
+      "Developers, what marketing strategies work on you?",
       "https://twitter.com/kelseyhightower/status/1775913633064894669"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39932378"
     ],
     [
-      "PCIe 7.0 Draft 0.5 Spec Available: 512 GB/s over PCIe x16 On Track For 2025",
+      "PCIe 7.0 Draft 0.5 Spec: 512 GB/s over PCIe x16 On Track For 2025",
       "https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39932324"
     ],
     [
-      "We should all be reading more Ursula Le Guin",
+      "Reading more Ursula Le Guin (2019)",
       "https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39931315"
     ],
     [
-      "Runtipi: Docker-Based Home Server Management",
+      "Runtipi: Docker-based home server management",
       "https://runtipi.io"
     ]
   ],
@@ -107,16 +97,6 @@
     [
       "The Great American Rail-Trail",
       "https://www.railstotrails.org/site/greatamericanrailtrail/content/route/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 14:27:30",
-      "https://news.ycombinator.com/item?id=39930846"
-    ],
-    [
-      "Polars DataFrame Processing on GPU's",
-      "https://pola.rs/posts/polars-on-gpu/"
     ]
   ],
   [
@@ -175,7 +155,7 @@
       "https://news.ycombinator.com/item?id=39928913"
     ],
     [
-      "Hertz’s bet on Teslas went sideways",
+      "How Hertz’s bet on Teslas went sideways",
       "https://www.bloomberg.com/news/features/2024-04-03/hertz-htz-selling-electric-cars-ends-its-failed-tesla-bet"
     ]
   ],
@@ -227,6 +207,26 @@
     [
       "Online Encyclopedia of Integer Sequences",
       "https://oeis.org/"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 13:54:28",
+      "https://news.ycombinator.com/item?id=39917509"
+    ],
+    [
+      "Improvements to static analysis in GCC 14",
+      "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 10:40:45",
+      "https://news.ycombinator.com/item?id=39915672"
+    ],
+    [
+      "Le Mans 2024",
+      "https://world.hey.com/dhh/le-mans-2024-1f87d732"
     ]
   ],
   [
