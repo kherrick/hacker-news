@@ -13,6 +13,7 @@
 * [2024-04-04, 11:17:25](https://news.ycombinator.com/item?id=39928867) - [A podcast about the xz backdoor with the guy who found it](https://risky.biz/RB743/)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 10:27:19](https://news.ycombinator.com/item?id=39928558) - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
+* [2024-04-04, 10:05:46](https://news.ycombinator.com/item?id=39928445) - [Browse Self-Hosted Software](https://selfh.st/apps/)
 * [2024-04-04, 09:19:12](https://news.ycombinator.com/item?id=39928173) - [German state moving 30k PCs to LibreOffice](https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/)
 * [2024-04-04, 09:10:07](https://news.ycombinator.com/item?id=39928111) - [Show HN: A universal Helm Chart for deploying applications into K8s/OpenShift](https://github.com/nixys/nxs-universal-chart)
 * [2024-04-04, 08:20:37](https://news.ycombinator.com/item?id=39927783) - [The British Are Coming for Your White-Collar Job](https://www.wsj.com/finance/investing/britain-white-collar-jobs-7a59629d)
