@@ -26,10 +26,10 @@
 * [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
+* [2024-04-03, 10:19:07](https://news.ycombinator.com/item?id=39915526) - [Row Zero and Viewport Data Streaming](https://digest.browsertech.com/archive/browsertech-digest-row-zero-and-viewport-data/)
 * [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use](https://fizzbee.io/)
-* [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-babel](https://emacsconf.org/2023/talks/collab/)
 
 ## [Archives](archives/index.md)
 
