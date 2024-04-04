@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-* [2024-04-04, 01:08:32](https://news.ycombinator.com/item?id=39925405) - [Ask HN: What's the worst that could have happened had xz gone unnoticed?](https://news.ycombinator.com/item?id=39925405)
 * [2024-04-04, 01:00:06](https://news.ycombinator.com/item?id=39925316) - [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
 * [2024-04-04, 00:41:14](https://news.ycombinator.com/item?id=39925186) - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
+* [2024-04-04, 00:31:51](https://news.ycombinator.com/item?id=39925129) - [The Software Architecture of Palia](https://www.singularity6.com/news/software-architecture-of-palia)
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
-* [2024-04-03, 22:52:41](https://news.ycombinator.com/item?id=39924362) - [PHP: The Right Way](https://phptherightway.com/)
 * [2024-04-03, 22:38:38](https://news.ycombinator.com/item?id=39924210) - [Strudel: A live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
 * [2024-04-03, 22:34:56](https://news.ycombinator.com/item?id=39924168) - [Patient with Transplanted Pig Kidney Leaves Hospital for Home](https://www.nytimes.com/2024/04/03/health/pig-kidney-transplant-slayman.html)
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
@@ -17,11 +16,11 @@
 * [2024-04-03, 16:29:45](https://news.ycombinator.com/item?id=39919491) - [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for linking shell companies to their secret owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 15:10:11](https://news.ycombinator.com/item?id=39918500) - [Show HN: Plandex – an AI coding engine for complex tasks](https://github.com/plandex-ai/plandex)
-* [2024-04-03, 14:53:46](https://news.ycombinator.com/item?id=39918277) - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
 * [2024-04-03, 14:50:30](https://news.ycombinator.com/item?id=39918245) - ['Lavender': The AI machine directing Israel's bombing in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
 * [2024-04-03, 14:17:10](https://news.ycombinator.com/item?id=39917830) - [Saffron: The Most Expensive Spice](https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New seafloor map only 25% done, with 6 years to go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
+* [2024-04-03, 13:31:44](https://news.ycombinator.com/item?id=39917215) - [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
 * [2024-04-03, 11:44:02](https://news.ycombinator.com/item?id=39916165) - [Legendre transform, better explained (2017)](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 * [2024-04-03, 11:42:13](https://news.ycombinator.com/item?id=39916151) - [Making old orchards new again](https://modernfarmer.com/2024/04/making-old-orchards-new-again/)
 * [2024-04-03, 05:30:50](https://news.ycombinator.com/item?id=39913913) - [America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150](https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness)
@@ -30,6 +29,7 @@
 * [2024-04-03, 00:42:42](https://news.ycombinator.com/item?id=39912448) - [John Barth has died](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 05:25:42](https://news.ycombinator.com/item?id=39902660) - [Our tools shape our selves](https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world)
+* [2024-04-02, 05:07:46](https://news.ycombinator.com/item?id=39902576) - [Qiling: A true instrumentable binary emulation framework](https://github.com/qilingframework/qiling)
 
 ## [Archives](archives/index.md)
 
