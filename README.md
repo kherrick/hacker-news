@@ -2,6 +2,7 @@
 
 * [2024-04-04, 11:23:09](https://news.ycombinator.com/item?id=39928913) - [Hertz's Bet on Teslas Went Horribly Sideways](https://www.bloomberg.com/news/features/2024-04-03/hertz-htz-selling-electric-cars-ends-its-failed-tesla-bet)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
+* [2024-04-04, 10:27:19](https://news.ycombinator.com/item?id=39928558) - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
 * [2024-04-04, 09:19:12](https://news.ycombinator.com/item?id=39928173) - [German state moving 30k PCs to LibreOffice](https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/)
 * [2024-04-04, 09:10:07](https://news.ycombinator.com/item?id=39928111) - [Show HN: A universal Helm Chart for deploying applications into K8s/OpenShift](https://github.com/nixys/nxs-universal-chart)
 * [2024-04-04, 08:20:37](https://news.ycombinator.com/item?id=39927783) - [The British Are Coming for Your White-Collar Job](https://www.wsj.com/finance/investing/britain-white-collar-jobs-7a59629d)
@@ -20,16 +21,15 @@
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for linking shell companies to their secret owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 15:10:11](https://news.ycombinator.com/item?id=39918500) - [Show HN: Plandex – an AI coding engine for complex tasks](https://github.com/plandex-ai/plandex)
-* [2024-04-03, 14:17:10](https://news.ycombinator.com/item?id=39917830) - [Saffron: The Most Expensive Spice](https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/)
 * [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New seafloor map only 25% done, with 6 years to go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
-* [2024-04-03, 11:42:13](https://news.ycombinator.com/item?id=39916151) - [Making old orchards new again](https://modernfarmer.com/2024/04/making-old-orchards-new-again/)
 * [2024-04-03, 07:15:29](https://news.ycombinator.com/item?id=39914478) - [Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs](https://www.theregister.com/2024/04/01/rickroll_meme_asic/)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 05:25:42](https://news.ycombinator.com/item?id=39902660) - [Our tools shape our selves](https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world)
 * [2024-04-02, 05:19:17](https://news.ycombinator.com/item?id=39902636) - [The Angry Video Game Model: neural network arch to predict videogame ratings](https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/)
+* [2024-04-01, 17:57:53](https://news.ycombinator.com/item?id=39897020) - [Exploring versions of the Postgres logical replication protocol](https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol)
 
 ## [Archives](archives/index.md)
 
