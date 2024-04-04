@@ -3,7 +3,7 @@
 * [2024-04-04, 04:36:42](https://news.ycombinator.com/item?id=39926575) - [How to take down production with a single Helm command](https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/)
 * [2024-04-04, 04:16:13](https://news.ycombinator.com/item?id=39926466) - [Sei (YC W22) Is Hiring Principal Engineers (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-* [2024-04-04, 01:00:06](https://news.ycombinator.com/item?id=39925316) - [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
+* [2024-04-04, 01:52:40](https://news.ycombinator.com/item?id=39925699) - [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
 * [2024-04-04, 00:41:14](https://news.ycombinator.com/item?id=39925186) - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 * [2024-04-04, 00:31:51](https://news.ycombinator.com/item?id=39925129) - [The Software Architecture of Palia](https://www.singularity6.com/news/software-architecture-of-palia)
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)

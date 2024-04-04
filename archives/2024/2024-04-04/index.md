@@ -15,6 +15,7 @@
 * [2024-04-04, 03:39:38](https://news.ycombinator.com/item?id=39926295) - [Australian lab-grown meat cultured from quail cells hits the market in Singapore](https://www.abc.net.au/news/2024-04-04/australian-lab-grown-meat-from-quail-cells-in-singapore/103667178)
 * [2024-04-04, 02:28:56](https://news.ycombinator.com/item?id=39925920) - [Tired of late messages from your boss? A new bill aims to make it illegal](https://www.msn.com/en-us/news/other/tired-of-late-messages-from-your-boss-a-new-bill-aims-to-make-it-illegal/ar-BB1l2niL)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
+* [2024-04-04, 01:52:40](https://news.ycombinator.com/item?id=39925699) - [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
 * [2024-04-04, 01:36:51](https://news.ycombinator.com/item?id=39925609) - [7 out of every 10 Fentanyl pills seized by DEA contain a lethal dose](https://www.dea.gov/onepill)
 * [2024-04-04, 01:24:52](https://news.ycombinator.com/item?id=39925527) - [OWASP discloses breach due to a Wiki web server misconfig](https://www.theregister.com/2024/04/02/owasp_discloses_data_breach/)
 * [2024-04-04, 01:08:32](https://news.ycombinator.com/item?id=39925405) - [Ask HN: What's the worst that could have happened had xz gone unnoticed?](https://news.ycombinator.com/item?id=39925405)
