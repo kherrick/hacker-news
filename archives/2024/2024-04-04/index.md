@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 18:50:26](https://news.ycombinator.com/item?id=39934354) - [DataStax has acquired Langflow to accelerate generative AI development](https://www.datastax.com/blog/datastax-acquires-langflow-to-accelerate-generative-ai-app-development)
+* [2024-04-04, 18:47:19](https://news.ycombinator.com/item?id=39934322) - [Rule-Based NLP System Beats LLM for Analysis of Psychiatric Clinical Notes](https://arxiv.org/abs/2403.17199)
 * [2024-04-04, 18:26:13](https://news.ycombinator.com/item?id=39934117) - [Yi-34B, Llama 2, and common practices in LLM training](https://blog.eleuther.ai/nyt-yi-34b-response/)
 * [2024-04-04, 18:24:09](https://news.ycombinator.com/item?id=39934101) - [Roblox Boss: We Don't Exploit Child Labor, We're Giving Kids in \"The Slum\" a Job](https://kotaku.com/roblox-boss-kids-child-labor-exploit-indonesia-slum-1851387795)
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The Design Philosophy of Great Tables (Python)](https://posit-dev.github.io/great-tables/blog/design-philosophy/)

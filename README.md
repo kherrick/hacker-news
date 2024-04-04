@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-04, 18:26:13](https://news.ycombinator.com/item?id=39934117) - [Yi-34B, Llama 2, and common practices in LLM training](https://blog.eleuther.ai/nyt-yi-34b-response/)
+* [2024-04-04, 18:50:26](https://news.ycombinator.com/item?id=39934354) - [DataStax has acquired Langflow to accelerate generative AI development](https://www.datastax.com/blog/datastax-acquires-langflow-to-accelerate-generative-ai-app-development)
+* [2024-04-04, 18:47:19](https://news.ycombinator.com/item?id=39934322) - [Rule-Based NLP System Beats LLM for Analysis of Psychiatric Clinical Notes](https://arxiv.org/abs/2403.17199)
 * [2024-04-04, 18:24:09](https://news.ycombinator.com/item?id=39934101) - [Roblox Boss: We Don't Exploit Child Labor, We're Giving Kids in \"The Slum\" a Job](https://kotaku.com/roblox-boss-kids-child-labor-exploit-indonesia-slum-1851387795)
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The Design Philosophy of Great Tables (Python)](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
-* [2024-04-04, 17:22:14](https://news.ycombinator.com/item?id=39933342) - [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [Reaching LLaMA2 Performance with 0.1M Dollars](https://research.myshell.ai/jetmoe)
 * [2024-04-04, 17:00:15](https://news.ycombinator.com/item?id=39933016) - [Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
 * [2024-04-04, 16:17:08](https://news.ycombinator.com/item?id=39932378) - [PCIe 7.0 Draft 0.5 Spec: 512 GB/s over PCIe x16 On Track For 2025](https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming)
@@ -26,10 +26,10 @@
 * [2024-04-04, 06:40:47](https://news.ycombinator.com/item?id=39927246) - [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
+* [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-babel](https://emacsconf.org/2023/talks/collab/)
-* [2024-04-02, 06:35:03](https://news.ycombinator.com/item?id=39902949) - [Unikraft Launches KraftCloud: Never Pay for Idle Again](https://news.ycombinator.com/item?id=39902949)
 
 ## [Archives](archives/index.md)
 
