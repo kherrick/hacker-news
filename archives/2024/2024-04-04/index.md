@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 17:22:14](https://news.ycombinator.com/item?id=39933342) - [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
 * [2024-04-04, 17:00:15](https://news.ycombinator.com/item?id=39933016) - [Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
 * [2024-04-04, 16:52:01](https://news.ycombinator.com/item?id=39932906) - [Vercel: Improved Infrastructure Pricing](https://vercel.com/blog/improved-infrastructure-pricing)
 * [2024-04-04, 16:36:26](https://news.ycombinator.com/item?id=39932696) - [PfSense Software Embraces Change: A Strategic Migration to the Linux Kernel](https://www.netgate.com/blog/pfsense-software-embraces-change-a-strategic-migration-to-the-linux-kernel)
