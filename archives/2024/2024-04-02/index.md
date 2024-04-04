@@ -75,6 +75,7 @@
 * [2024-04-02, 12:18:00](https://news.ycombinator.com/item?id=39904877) - [Unforgivable: World Central Kitchen says seven aid workers killed in Gaza strike](https://www.axios.com/2024/04/02/gaza-aid-workers-killed-strike-world-central-kitchen)
 * [2024-04-02, 12:06:54](https://news.ycombinator.com/item?id=39904808) - [The end of Google Podcasts is in June if you're not in the US](https://notes.ghed.in/posts/2024/end-google-podcast-rest-of-world/)
 * [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+* [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 09:52:24](https://news.ycombinator.com/item?id=39903928) - [Redis' license change and forking are a mess that everybody can feel bad about](https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/)
 * [2024-04-02, 09:37:16](https://news.ycombinator.com/item?id=39903854) - [GNU Make Standard Library v1.2.2 released](https://github.com/jgrahamc/gmsl/releases/tag/v1.2.2)
