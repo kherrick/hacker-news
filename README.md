@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-04, 16:26:28](https://news.ycombinator.com/item?id=39932556) - [Kelsey Hightower: Developers, what marketing strategies work on you?](https://twitter.com/kelseyhightower/status/1775913633064894669)
+* [2024-04-04, 16:17:08](https://news.ycombinator.com/item?id=39932378) - [PCIe 7.0 Draft 0.5 Spec Available: 512 GB/s over PCIe x16 On Track For 2025](https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming)
+* [2024-04-04, 16:13:04](https://news.ycombinator.com/item?id=39932324) - [We should all be reading more Ursula Le Guin](https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory)
 * [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-Based Home Server Management](https://runtipi.io)
 * [2024-04-04, 14:58:19](https://news.ycombinator.com/item?id=39931256) - [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
 * [2024-04-04, 14:44:34](https://news.ycombinator.com/item?id=39931072) - [Radxa's SATA HAT makes compact Pi 5 NAS](https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas)
@@ -7,7 +10,6 @@
 * [2024-04-04, 14:30:32](https://news.ycombinator.com/item?id=39930887) - [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
 * [2024-04-04, 14:27:30](https://news.ycombinator.com/item?id=39930846) - [Polars DataFrame Processing on GPU's](https://pola.rs/posts/polars-on-gpu/)
 * [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
-* [2024-04-04, 14:08:07](https://news.ycombinator.com/item?id=39930598) - [Vigilante Hacker Took Down North Korea's Internet. Now He's Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
 * [2024-04-04, 13:47:19](https://news.ycombinator.com/item?id=39930364) - [Command R+: A Scalable LLM Built for Business](https://txt.cohere.com/command-r-plus-microsoft-azure/)
 * [2024-04-04, 13:32:03](https://news.ycombinator.com/item?id=39930195) - [Homemade 6 GHz pulse compression radar](https://hforsten.com/homemade-6-ghz-pulse-compression-radar.html)
 * [2024-04-04, 12:59:26](https://news.ycombinator.com/item?id=39929842) - [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
@@ -24,10 +26,8 @@
 * [2024-04-03, 21:27:46](https://news.ycombinator.com/item?id=39923404) - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 * [2024-04-03, 19:35:00](https://news.ycombinator.com/item?id=39922006) - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 * [2024-04-03, 07:15:29](https://news.ycombinator.com/item?id=39914478) - [Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs](https://www.theregister.com/2024/04/01/rickroll_meme_asic/)
-* [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
-* [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-Babel](https://emacsconf.org/2023/talks/collab/)
 * [2024-04-02, 05:19:17](https://news.ycombinator.com/item?id=39902636) - [The Angry Video Game Model: neural network arch to predict videogame ratings](https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/)
 
