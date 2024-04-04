@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-04, 21:57:29](https://news.ycombinator.com/item?id=39936284) - [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
-* [2024-04-04, 21:31:41](https://news.ycombinator.com/item?id=39936016) - [Roku files patent to inject ads via HDMI](https://patents.google.com/patent/US20230388589A1/en)
+* [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
+* [2024-04-04, 21:06:33](https://news.ycombinator.com/item?id=39935805) - [Cory Doctorow on Kagi Search](https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/)
 * [2024-04-04, 21:00:16](https://news.ycombinator.com/item?id=39935746) - [Reclaim Protocol (YC W21) Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
 * [2024-04-04, 20:46:10](https://news.ycombinator.com/item?id=39935597) - [Apple explores home robotics as potential 'next big thing'](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts)
 * [2024-04-04, 20:39:31](https://news.ycombinator.com/item?id=39935526) - [Roblox executive says children making money on the platform is 'a gift'](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)
@@ -28,7 +29,6 @@
 * [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 * [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use](https://fizzbee.io/)
-* [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-babel](https://emacsconf.org/2023/talks/collab/)
 * [2024-04-02, 08:27:37](https://news.ycombinator.com/item?id=39903494) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
 
 ## [Archives](archives/index.md)
