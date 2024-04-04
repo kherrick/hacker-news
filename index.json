@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-04, 14:40:11",
+      "https://news.ycombinator.com/item?id=39931012"
+    ],
+    [
+      "\"Pink slime\" local news outlets erupt all over US as election nears",
+      "https://arstechnica.com/tech-policy/2024/04/pink-slime-local-news-outlets-erupt-all-over-us-during-election-year/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 14:36:56",
+      "https://news.ycombinator.com/item?id=39930980"
+    ],
+    [
+      "PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold",
+      "https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 14:24:53",
+      "https://news.ycombinator.com/item?id=39930809"
+    ],
+    [
+      "The V8 Sandbox",
+      "https://v8.dev/blog/sandbox"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 14:08:07",
       "https://news.ycombinator.com/item?id=39930598"
     ],
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2024-04-04, 09:19:12",
-      "https://news.ycombinator.com/item?id=39928173"
-    ],
-    [
-      "German state moving 30k PCs to LibreOffice",
-      "https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 09:10:07",
       "https://news.ycombinator.com/item?id=39928111"
     ],
     [
       "Show HN: A universal Helm Chart for deploying applications into K8s/OpenShift",
       "https://github.com/nixys/nxs-universal-chart"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 07:53:17",
-      "https://news.ycombinator.com/item?id=39927657"
-    ],
-    [
-      "Keeping your data from Apple is harder than expected",
-      "https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-04-04, 01:52:40",
-      "https://news.ycombinator.com/item?id=39925699"
-    ],
-    [
-      "Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt",
-      "https://github.com/linkdd/logfmtxx"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 00:41:14",
       "https://news.ycombinator.com/item?id=39925186"
     ],
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2024-04-03, 19:31:38",
-      "https://news.ycombinator.com/item?id=39921964"
+      "2024-04-03, 19:35:00",
+      "https://news.ycombinator.com/item?id=39922006"
     ],
     [
-      "MOnSter 6502: a working transistor-scale replica of the classic MOS 6502",
-      "https://monster6502.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 13:54:28",
-      "https://news.ycombinator.com/item?id=39917509"
-    ],
-    [
-      "Improvements to static analysis in GCC 14",
-      "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
+      "Terraform makes carbon neutral natural gas",
+      "https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Tonal.js: Functional music theory lib",
       "https://github.com/tonaljs/tonal"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 05:25:42",
+      "https://news.ycombinator.com/item?id=39902660"
+    ],
+    [
+      "Our tools shape our selves",
+      "https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world"
     ]
   ],
   [
