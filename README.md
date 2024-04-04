@@ -3,8 +3,8 @@
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The Design Philosophy of Great Tables (Python)](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 * [2024-04-04, 17:47:58](https://news.ycombinator.com/item?id=39933683) - [Coding agent in the IDE: Generate task plan and get plan-aware code completion](https://twitter.com/itamar_mar/status/1775888498220028041)
 * [2024-04-04, 17:22:14](https://news.ycombinator.com/item?id=39933342) - [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
+* [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [Reaching LLaMA2 Performance with 0.1M Dollars](https://research.myshell.ai/jetmoe)
 * [2024-04-04, 17:00:15](https://news.ycombinator.com/item?id=39933016) - [Markprompt (YC W24) – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
-* [2024-04-04, 16:34:00](https://news.ycombinator.com/item?id=39932667) - [Open Source Infrastructure must be a publicly funded service](https://matrix.org/blog/2024/04/open-source-publicly-funded-service/)
 * [2024-04-04, 16:17:08](https://news.ycombinator.com/item?id=39932378) - [PCIe 7.0 Draft 0.5 Spec: 512 GB/s over PCIe x16 On Track For 2025](https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming)
 * [2024-04-04, 16:13:04](https://news.ycombinator.com/item?id=39932324) - [Reading more Ursula Le Guin (2019)](https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory)
 * [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-based home server management](https://runtipi.io)
@@ -24,12 +24,12 @@
 * [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 * [2024-04-04, 06:40:47](https://news.ycombinator.com/item?id=39927246) - [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-* [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 08:34:54](https://news.ycombinator.com/item?id=39903514) - [Collaborative data processing and documenting using org-babel](https://emacsconf.org/2023/talks/collab/)
+* [2024-04-02, 06:35:03](https://news.ycombinator.com/item?id=39902949) - [Unikraft Launches KraftCloud: Never Pay for Idle Again](https://news.ycombinator.com/item?id=39902949)
 
 ## [Archives](archives/index.md)
 
