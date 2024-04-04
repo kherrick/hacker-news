@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 12:15:09](https://news.ycombinator.com/item?id=39929416) - [Washington's Lottery forced to pull site after creating AI porn of lotto user](https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/)
 * [2024-04-04, 12:10:18](https://news.ycombinator.com/item?id=39929361) - [HOPE Deepfakes](https://hope.net/deepfakes.html)
+* [2024-04-04, 12:05:22](https://news.ycombinator.com/item?id=39929310) - [US court blocks EPA order to eliminate PFAS in plastic containers](https://www.thenewlede.org/2024/03/us-court-blocks-epa-order-to-eliminate-pfas-in-plastic-containers/)
 * [2024-04-04, 11:23:09](https://news.ycombinator.com/item?id=39928913) - [Hertz's Bet on Teslas Went Horribly Sideways](https://www.bloomberg.com/news/features/2024-04-03/hertz-htz-selling-electric-cars-ends-its-failed-tesla-bet)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 10:27:19](https://news.ycombinator.com/item?id=39928558) - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)

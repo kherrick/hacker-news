@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-04, 12:15:09](https://news.ycombinator.com/item?id=39929416) - [Washington's Lottery forced to pull site after creating AI porn of lotto user](https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/)
 * [2024-04-04, 12:10:18](https://news.ycombinator.com/item?id=39929361) - [HOPE Deepfakes](https://hope.net/deepfakes.html)
+* [2024-04-04, 12:05:22](https://news.ycombinator.com/item?id=39929310) - [US court blocks EPA order to eliminate PFAS in plastic containers](https://www.thenewlede.org/2024/03/us-court-blocks-epa-order-to-eliminate-pfas-in-plastic-containers/)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 10:27:19](https://news.ycombinator.com/item?id=39928558) - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
 * [2024-04-04, 09:19:12](https://news.ycombinator.com/item?id=39928173) - [German state moving 30k PCs to LibreOffice](https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/)
@@ -20,9 +22,7 @@
 * [2024-04-03, 19:31:38](https://news.ycombinator.com/item?id=39921964) - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 * [2024-04-03, 16:22:12](https://news.ycombinator.com/item?id=39919401) - [Tips for linking shell companies to their secret owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
 * [2024-04-03, 15:10:11](https://news.ycombinator.com/item?id=39918500) - [Show HN: Plandex – an AI coding engine for complex tasks](https://github.com/plandex-ai/plandex)
-* [2024-04-03, 13:57:06](https://news.ycombinator.com/item?id=39917547) - [New seafloor map only 25% done, with 6 years to go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
 * [2024-04-03, 13:54:28](https://news.ycombinator.com/item?id=39917509) - [Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
-* [2024-04-03, 11:42:13](https://news.ycombinator.com/item?id=39916151) - [Making old orchards new again](https://modernfarmer.com/2024/04/making-old-orchards-new-again/)
 * [2024-04-03, 07:15:29](https://news.ycombinator.com/item?id=39914478) - [Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs](https://www.theregister.com/2024/04/01/rickroll_meme_asic/)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
