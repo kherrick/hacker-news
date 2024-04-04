@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-04-04, 14:58:19",
+      "https://news.ycombinator.com/item?id=39931256"
+    ],
+    [
+      "AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together",
+      "https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 14:44:34",
+      "https://news.ycombinator.com/item?id=39931072"
+    ],
+    [
+      "Radxa's SATA HAT makes compact Pi 5 NAS",
+      "https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 14:36:56",
       "https://news.ycombinator.com/item?id=39930980"
     ],
     [
       "PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold",
       "https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 14:27:30",
+      "https://news.ycombinator.com/item?id=39930846"
+    ],
+    [
+      "Polars DataFrame Processing on GPU's",
+      "https://pola.rs/posts/polars-on-gpu/"
     ]
   ],
   [
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=39928984"
     ],
     [
-      "SableDb – a key/value store that uses RocksDB and Redis API (written in Rust)",
+      "SableDb – Fast, persistent database supporting Redis API",
       "https://github.com/sabledb-io/sabledb"
     ]
   ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-04-03, 13:54:28",
-      "https://news.ycombinator.com/item?id=39917509"
-    ],
-    [
-      "Improvements to static analysis in GCC 14",
-      "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 07:15:29",
       "https://news.ycombinator.com/item?id=39914478"
     ],
@@ -237,16 +257,6 @@
     [
       "Subroutine calls in the ancient world, before computers had stacks or heaps",
       "https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 20:03:48",
-      "https://news.ycombinator.com/item?id=39910277"
-    ],
-    [
-      "Performing Muggu",
-      "https://garlandmag.com/article/muggu/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Angry Video Game Model: neural network arch to predict videogame ratings",
       "https://jgeekstudies.org/2024/04/01/the-angry-video-game-model-exploring-neural-network-architectures-to-predict-videogame-review-ratings/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 02:29:29",
-      "https://news.ycombinator.com/item?id=39901800"
-    ],
-    [
-      "Basic and the ROMs that changed the world (and then disappeared) (2022)",
-      "https://jcoterhals.medium.com/basic-and-the-roms-that-changed-the-world-and-then-disappeared-38318db4611c"
     ]
   ]
 ]
