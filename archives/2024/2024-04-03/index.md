@@ -96,6 +96,7 @@
 * [2024-04-03, 11:39:39](https://news.ycombinator.com/item?id=39916133) - [German state Schleswig Holstein is rolling out their Open Source strategy](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/Presse/PI/2024/CdS/240403_cds_it-arbeitsplatz.html)
 * [2024-04-03, 11:36:46](https://news.ycombinator.com/item?id=39916102) - [White House wants Moon to have its own time zone, Coordinated Lunar Time (CLT)](https://www.bbc.co.uk/news/science-environment-68722032)
 * [2024-04-03, 11:18:22](https://news.ycombinator.com/item?id=39915968) - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
+* [2024-04-03, 11:14:49](https://news.ycombinator.com/item?id=39915932) - [Understanding Linear Feedback Shift Registers in FPGAs](https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register)
 * [2024-04-03, 10:57:29](https://news.ycombinator.com/item?id=39915801) - [Show HN: I made a library for LLM prompt injection/exploit/jailbreak detection](https://github.com/lastlayer/last_layer)
 * [2024-04-03, 10:40:45](https://news.ycombinator.com/item?id=39915672) - [Le Mans 2024](https://world.hey.com/dhh/le-mans-2024-1f87d732)
 * [2024-04-03, 10:34:45](https://news.ycombinator.com/item?id=39915636) - [Russian influence network in Europe: list of promoted politicians](https://insightnews.media/russian-influence-network-in-europe-list-of-promoted-politicians/)
