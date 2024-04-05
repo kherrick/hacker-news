@@ -86,6 +86,7 @@
 * [2024-04-04, 06:59:11](https://news.ycombinator.com/item?id=39927352) - [Seattle shuts down gifted program for having too many white and Asian students](https://nypost.com/2024/04/03/us-news/seattle-public-schools-shuts-down-gifted-and-talented-program/)
 * [2024-04-04, 06:40:47](https://news.ycombinator.com/item?id=39927246) - [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
 * [2024-04-04, 06:05:23](https://news.ycombinator.com/item?id=39927057) - [GenZ software engineers, according to older colleagues](https://newsletter.pragmaticengineer.com/p/genz)
+* [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing Back the Somali Shilling](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
 * [2024-04-04, 05:47:01](https://news.ycombinator.com/item?id=39926961) - [Device Bound Session Credentials Explainer](https://github.com/WICG/dbsc)
 * [2024-04-04, 05:36:46](https://news.ycombinator.com/item?id=39926908) - [Securing Your Codebase](https://tattle.co.in/blog/2024-04-03-securing-feluda-pt1/)
 * [2024-04-04, 04:53:26](https://news.ycombinator.com/item?id=39926673) - [Cally: Accessibility Statement](https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/)

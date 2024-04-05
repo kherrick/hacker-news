@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 14:49:47](https://news.ycombinator.com/item?id=39943066) - [4.7 Earthquake in NYC](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=ld2009021400&extent=39.64377,-78.45886&extent=42.91218,-69.94446&range=search&sort=largest&listOnlyShown=true&baseLayer=terrain&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221900-01-01%2000:00:00%22,%22maxlatitude%22:45.176,%22minlatitude%22:40.657,%22maxlongitude%22:-71.642,%22minlongitude%22:-79.991,%22minmagnitude%22:0,%22orderby%22:%22time%22%7D%7D)
+* [2024-04-05, 14:43:59](https://news.ycombinator.com/item?id=39943001) - [Tremor Shakes NYC](https://ny1.com/nyc/all-boroughs/news/2024/04/05/earthquake-shakes-new-york-city-area)
 * [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.7 Earthquake 5 Km NE of Lebanon, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:57:58](https://news.ycombinator.com/item?id=39942460) - [Amazon increased US plastic packaging despite global phase-out](https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us)
 * [2024-04-05, 13:55:23](https://news.ycombinator.com/item?id=39942418) - [RubyGems is not vulnerable to the xz/liblzma backdoor](https://blog.rubygems.org/2024/03/31/rubygems-and-xz.html)
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have been working on?](https://news.ycombinator.com/item?id=39942397)
+* [2024-04-05, 13:52:04](https://news.ycombinator.com/item?id=39942387) - [Rich Harris: Svelte parses HTML all wrong](https://github.com/sveltejs/svelte/issues/11052)
 * [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 * [2024-04-05, 13:34:43](https://news.ycombinator.com/item?id=39942187) - [WindCon2024: A Joke Too Far for Many](https://blog.windscribe.com/a-joke-too-far/)
 * [2024-04-05, 13:28:55](https://news.ycombinator.com/item?id=39942122) - [Top Israeli spy chief exposes his true identity in online security lapse](https://www.theguardian.com/world/2024/apr/05/top-israeli-spy-chief-exposes-his-true-identity-in-online-security-lapse)
