@@ -18,7 +18,6 @@
 * [2024-04-04, 17:46:43](https://news.ycombinator.com/item?id=39933660) - [XDP for game programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [JetMoE: Reaching LLaMA2 performance with 0.1M dollars](https://research.myshell.ai/jetmoe)
 * [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-based home server management](https://runtipi.io)
-* [2024-04-04, 14:58:06](https://news.ycombinator.com/item?id=39931250) - [Improvements to the fine-tuning API and expanding our custom models program](https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program)
 * [2024-04-04, 14:56:17](https://news.ycombinator.com/item?id=39931228) - [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
 * [2024-04-04, 14:32:50](https://news.ycombinator.com/item?id=39930919) - [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 * [2024-04-04, 14:32:20](https://news.ycombinator.com/item?id=39930908) - [Show HN: Managed GitHub Actions Runners for AWS](https://news.ycombinator.com/item?id=39930908)
@@ -28,6 +27,7 @@
 * [2024-04-03, 10:19:07](https://news.ycombinator.com/item?id=39915526) - [Row Zero and Viewport Data Streaming](https://digest.browsertech.com/archive/browsertech-digest-row-zero-and-viewport-data/)
 * [2024-04-03, 07:47:56](https://news.ycombinator.com/item?id=39914644) - [A first look at Europe's alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
 * [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
+* [2024-04-02, 13:36:15](https://news.ycombinator.com/item?id=39905608) - [Dungeons and Dragons All Started in This Tiny Wisconsin Town](https://www.atlasobscura.com/articles/gary-con-lake-geneva-dungeons-and-dragons-history)
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python](https://fizzbee.io/)
 
