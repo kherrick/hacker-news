@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 05:16:46](https://news.ycombinator.com/item?id=39938903) - [Scientists investigate dead Antarctic penguins for bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-investigate-thousands-dead-antarctic-penguins-bird-flu-2024-04-04/)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
 * [2024-04-05, 03:14:11](https://news.ycombinator.com/item?id=39938348) - [A Japanese hikikomori released a game after 6 years of development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
@@ -28,7 +29,6 @@
 * [2024-04-03, 07:47:56](https://news.ycombinator.com/item?id=39914644) - [A first look at Europe's alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
 * [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
 * [2024-04-02, 13:36:15](https://news.ycombinator.com/item?id=39905608) - [Dungeons and Dragons All Started in This Tiny Wisconsin Town](https://www.atlasobscura.com/articles/gary-con-lake-geneva-dungeons-and-dragons-history)
-* [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python](https://fizzbee.io/)
 
 ## [Archives](archives/index.md)
