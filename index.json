@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-04-05, 14:49:47",
-      "https://news.ycombinator.com/item?id=39943066"
-    ],
-    [
-      "4.7 Earthquake in NYC",
-      "https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=ld2009021400&extent=39.64377,-78.45886&extent=42.91218,-69.94446&range=search&sort=largest&listOnlyShown=true&baseLayer=terrain&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221900-01-01%2000:00:00%22,%22maxlatitude%22:45.176,%22minlatitude%22:40.657,%22maxlongitude%22:-71.642,%22minlongitude%22:-79.991,%22minmagnitude%22:0,%22orderby%22:%22time%22%7D%7D"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 14:43:59",
-      "https://news.ycombinator.com/item?id=39943001"
-    ],
-    [
-      "Tremor Shakes NYC",
-      "https://ny1.com/nyc/all-boroughs/news/2024/04/05/earthquake-shakes-new-york-city-area"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 14:34:13",
       "https://news.ycombinator.com/item?id=39942880"
     ],
     [
       "M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS",
       "https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 13:57:58",
-      "https://news.ycombinator.com/item?id=39942460"
-    ],
-    [
-      "Amazon increased US plastic packaging despite global phase-out",
-      "https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us"
     ]
   ],
   [
@@ -51,26 +21,6 @@
   ],
   [
     [
-      "2024-04-05, 13:53:10",
-      "https://news.ycombinator.com/item?id=39942397"
-    ],
-    [
-      "Ask HN: What is the most useless project you have been working on?",
-      "https://news.ycombinator.com/item?id=39942397"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 13:52:04",
-      "https://news.ycombinator.com/item?id=39942387"
-    ],
-    [
-      "Rich Harris: Svelte parses HTML all wrong",
-      "https://github.com/sveltejs/svelte/issues/11052"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 13:43:14",
       "https://news.ycombinator.com/item?id=39942288"
     ],
@@ -81,32 +31,12 @@
   ],
   [
     [
-      "2024-04-05, 13:34:43",
-      "https://news.ycombinator.com/item?id=39942187"
+      "2024-04-05, 13:27:02",
+      "https://news.ycombinator.com/item?id=39942104"
     ],
     [
-      "WindCon2024: A Joke Too Far for Many",
-      "https://blog.windscribe.com/a-joke-too-far/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 13:28:55",
-      "https://news.ycombinator.com/item?id=39942122"
-    ],
-    [
-      "Top Israeli spy chief exposes his true identity in online security lapse",
-      "https://www.theguardian.com/world/2024/apr/05/top-israeli-spy-chief-exposes-his-true-identity-in-online-security-lapse"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 13:16:12",
-      "https://news.ycombinator.com/item?id=39941975"
-    ],
-    [
-      "We need a permanent solution for universal broadband access",
-      "https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp"
+      "Big Tech's underground race to buy AI training data",
+      "https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/"
     ]
   ],
   [
@@ -171,6 +101,16 @@
   ],
   [
     [
+      "2024-04-05, 04:27:35",
+      "https://news.ycombinator.com/item?id=39938686"
+    ],
+    [
+      "Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System",
+      "http://chinascope.org/archives/34811"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 03:37:14",
       "https://news.ycombinator.com/item?id=39938452"
     ],
@@ -221,6 +161,36 @@
   ],
   [
     [
+      "2024-04-04, 21:35:17",
+      "https://news.ycombinator.com/item?id=39936048"
+    ],
+    [
+      "Tool Use (function calling)",
+      "https://docs.anthropic.com/claude/docs/tool-use"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 19:46:44",
+      "https://news.ycombinator.com/item?id=39934956"
+    ],
+    [
+      "Language models as compilers: Simulating pseudocode execution",
+      "https://arxiv.org/abs/2404.02575"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 19:11:41",
+      "https://news.ycombinator.com/item?id=39934584"
+    ],
+    [
+      "Understanding and managing the impact of machine learning models on the web",
+      "https://www.w3.org/reports/ai-web-impact/"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 18:00:28",
       "https://news.ycombinator.com/item?id=39933833"
     ],
@@ -237,6 +207,26 @@
     [
       "JetMoE: Reaching LLaMA2 performance with 0.1M dollars",
       "https://research.myshell.ai/jetmoe"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 14:32:50",
+      "https://news.ycombinator.com/item?id=39930919"
+    ],
+    [
+      "HTTP/2 Continuation Flood: Technical Details",
+      "https://nowotarski.info/http2-continuation-flood-technical-details/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 14:30:32",
+      "https://news.ycombinator.com/item?id=39930887"
+    ],
+    [
+      "The Great American Rail-Trail",
+      "https://www.railstotrails.org/site/greatamericanrailtrail/content/route/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-04-02, 08:08:28",
-      "https://news.ycombinator.com/item?id=39903393"
+      "2024-04-02, 19:57:37",
+      "https://news.ycombinator.com/item?id=39910208"
     ],
     [
-      "The Submarine (2005)",
-      "https://paulgraham.com/submarine.html"
+      "Letting go of the idea of keeping up",
+      "https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 10:45:19",
+      "https://news.ycombinator.com/item?id=39904256"
+    ],
+    [
+      "Show HN: FizzBee – Formal methods in Python",
+      "https://fizzbee.io/"
     ]
   ]
 ]
