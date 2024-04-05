@@ -116,6 +116,7 @@
 * [2024-04-03, 08:46:38](https://news.ycombinator.com/item?id=39914929) - [Show HN: Fancy-ANSI – Small JavaScript library for converting ANSI to HTML](https://github.com/kubetail-org/fancy-ansi)
 * [2024-04-03, 08:27:49](https://news.ycombinator.com/item?id=39914851) - [When Will the GenAI Bubble Burst?](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst)
 * [2024-04-03, 08:14:29](https://news.ycombinator.com/item?id=39914783) - [White House directs NASA to create time standard for the moon](https://www.reuters.com/science/white-house-directs-nasa-create-time-standard-moon-2024-04-02/)
+* [2024-04-03, 08:13:40](https://news.ycombinator.com/item?id=39914776) - [Philly Typewriter – Largest Typewriter Company [Atlas Obscura]](https://www.atlasobscura.com/places/philly-typewriter-philadelphia)
 * [2024-04-03, 08:09:53](https://news.ycombinator.com/item?id=39914756) - [A lazy and flippant classification of programming languages](https://blog.brycekerley.net/2024/04/01/p-langs.html)
 * [2024-04-03, 07:47:56](https://news.ycombinator.com/item?id=39914644) - [A first look at Europe's alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
 * [2024-04-03, 07:37:29](https://news.ycombinator.com/item?id=39914592) - [Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M](https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04)
