@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
 * [2024-04-05, 18:18:30](https://news.ycombinator.com/item?id=39945406) - [Top Israeli Spy Chief Accidentally Revealed His True Identity Online](https://www.thedailybeast.com/israeli-spy-chief-accidentally-revealed-his-true-identity-online-report)
+* [2024-04-05, 18:15:34](https://news.ycombinator.com/item?id=39945375) - [Should employers pay for employees' phones if 2FA apps are required?](https://news.ycombinator.com/item?id=39945375)
 * [2024-04-05, 18:09:20](https://news.ycombinator.com/item?id=39945323) - [AI will shrink workforces within five years, say company execs](https://www.cnn.com/2024/04/05/business/ai-job-losses/index.html)
 * [2024-04-05, 17:54:37](https://news.ycombinator.com/item?id=39945218) - [Zimbabwe Launches a New Currency Again](https://www.wsj.com/world/africa/zimbabwe-launches-a-new-currencyagain-0696a104)
+* [2024-04-05, 17:46:20](https://news.ycombinator.com/item?id=39945133) - [Some Colleges Will Soon Charge $100k a Year. How Did This Happen?](https://www.nytimes.com/2024/04/05/your-money/paying-for-college/100k-college-cost-vanderbilt.html)
 * [2024-04-05, 17:45:42](https://news.ycombinator.com/item?id=39945126) - [Themes from (and Beyond) Altitude Cyber's 2023 Cybersecurity Year in Review](https://strategyofsecurity.com/themes-from-and-beyond-altitude-cybers-2023-cybersecurity-year-in-review/)
 * [2024-04-05, 17:43:52](https://news.ycombinator.com/item?id=39945104) - [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
 * [2024-04-05, 17:33:00](https://news.ycombinator.com/item?id=39944996) - [Favorites from our prompt engineering tournament](https://blog.promptlayer.com/our-favorite-prompts-from-the-tournament-b9d99464c1dc?gi=3dcc2105be1e)
