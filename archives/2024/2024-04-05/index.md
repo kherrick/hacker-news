@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 17:45:42](https://news.ycombinator.com/item?id=39945126) - [Themes from (and Beyond) Altitude Cyber's 2023 Cybersecurity Year in Review](https://strategyofsecurity.com/themes-from-and-beyond-altitude-cybers-2023-cybersecurity-year-in-review/)
+* [2024-04-05, 17:43:52](https://news.ycombinator.com/item?id=39945104) - [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
+* [2024-04-05, 17:33:00](https://news.ycombinator.com/item?id=39944996) - [Favorites from our prompt engineering tournament](https://blog.promptlayer.com/our-favorite-prompts-from-the-tournament-b9d99464c1dc?gi=3dcc2105be1e)
 * [2024-04-05, 17:00:39](https://news.ycombinator.com/item?id=39944658) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-04-05, 16:42:38](https://news.ycombinator.com/item?id=39944496) - [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
 * [2024-04-05, 16:38:49](https://news.ycombinator.com/item?id=39944452) - [Identifying Stable Diffusion XL 1.0 images from VAE artifacts](https://hforsten.com/identifying-stable-diffusion-xl-10-images-from-vae-artifacts.html)
