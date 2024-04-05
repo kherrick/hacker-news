@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 15:13:29](https://news.ycombinator.com/item?id=39943408) - [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series](https://qwenlm.github.io/blog/qwen1.5-32b/)
+* [2024-04-05, 14:59:52](https://news.ycombinator.com/item?id=39943217) - [Go's Error Handling Is Perfect](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-05, 14:49:47](https://news.ycombinator.com/item?id=39943066) - [4.7 Earthquake in NYC](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=ld2009021400&extent=39.64377,-78.45886&extent=42.91218,-69.94446&range=search&sort=largest&listOnlyShown=true&baseLayer=terrain&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221900-01-01%2000:00:00%22,%22maxlatitude%22:45.176,%22minlatitude%22:40.657,%22maxlongitude%22:-71.642,%22minlongitude%22:-79.991,%22minmagnitude%22:0,%22orderby%22:%22time%22%7D%7D)
+* [2024-04-05, 14:49:33](https://news.ycombinator.com/item?id=39943062) - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 * [2024-04-05, 14:43:59](https://news.ycombinator.com/item?id=39943001) - [Tremor Shakes NYC](https://ny1.com/nyc/all-boroughs/news/2024/04/05/earthquake-shakes-new-york-city-area)
 * [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.7 Earthquake 5 Km NE of Lebanon, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:57:58](https://news.ycombinator.com/item?id=39942460) - [Amazon increased US plastic packaging despite global phase-out](https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us)
