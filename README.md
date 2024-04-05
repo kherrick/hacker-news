@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 20:16:56](https://news.ycombinator.com/item?id=39946694) - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
 * [2024-04-05, 19:30:30](https://news.ycombinator.com/item?id=39946169) - [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
 * [2024-04-05, 19:27:49](https://news.ycombinator.com/item?id=39946137) - [Breakthrough drug trial saw cancer vanish in every patient (2022)](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
@@ -9,7 +10,6 @@
 * [2024-04-05, 16:42:38](https://news.ycombinator.com/item?id=39944496) - [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
 * [2024-04-05, 16:38:49](https://news.ycombinator.com/item?id=39944452) - [Identifying Stable Diffusion XL 1.0 images from VAE artifacts (2023)](https://hforsten.com/identifying-stable-diffusion-xl-10-images-from-vae-artifacts.html)
 * [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
-* [2024-04-05, 15:10:37](https://news.ycombinator.com/item?id=39943365) - [March job growth zoomed: payrolls jumped by 303,000, unemployment drops to 3.8%](https://www.cnbc.com/2024/04/05/job-growth-totaled-303000-in-march-better-than-expected-and-unemployment-was-3point8percent.html)
 * [2024-04-05, 14:35:55](https://news.ycombinator.com/item?id=39942902) - [Deep sea mining could be worse for the climate than land ores](https://planet-tracker.org/deep-sea-mining-could-be-worse-for-the-climate-than-land-ores/)
 * [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.8 – 2024 Whitehouse Station, New Jersey Earthquake](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
