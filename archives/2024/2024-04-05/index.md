@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
 * [2024-04-05, 06:16:13](https://news.ycombinator.com/item?id=39939201) - [Plex Asks GitHub to Take Down 'Reshare' Repository over Piracy Fears](https://torrentfreak.com/plex-asks-github-to-take-down-reshare-repository-over-piracy-fears-240404/)
+* [2024-04-05, 05:49:56](https://news.ycombinator.com/item?id=39939061) - [Alcohol Use and Mortality Among Couples in US: Individual and Partner Effects](https://academic.oup.com/gerontologist/article-abstract/64/2/gnad101/7230161)
 * [2024-04-05, 05:45:39](https://news.ycombinator.com/item?id=39939037) - [Surveillance by the New Microsoft Outlook App](https://www.schneier.com/blog/archives/2024/04/surveillance-by-the-new-microsoft-outlook-app.html)
 * [2024-04-05, 05:16:46](https://news.ycombinator.com/item?id=39938903) - [Scientists investigate dead Antarctic penguins for bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-investigate-thousands-dead-antarctic-penguins-bird-flu-2024-04-04/)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
@@ -12,6 +13,7 @@
 * [2024-04-05, 03:14:11](https://news.ycombinator.com/item?id=39938348) - [A Japanese Hikikomori (Shut in) Released a Game After 6 Years of Development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 * [2024-04-05, 02:52:34](https://news.ycombinator.com/item?id=39938241) - [Seattle Is Getting Rid of Gifted Schools in a Bid to Increase Equity](https://reason.com/2024/04/04/seattle-is-getting-rid-of-gifted-schools-in-a-bid-to-increase-equity/)
 * [2024-04-05, 02:31:23](https://news.ycombinator.com/item?id=39938126) - [Google Books Is Indexing AI-Generated Garbage](https://www.404media.co/google-books-is-indexing-ai-generated-garbage/)
+* [2024-04-05, 02:19:49](https://news.ycombinator.com/item?id=39938072) - [OpenBSD 7.5 Released](https://www.openbsd.org/75.html)
 * [2024-04-05, 02:07:40](https://news.ycombinator.com/item?id=39938005) - [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
 * [2024-04-05, 01:33:14](https://news.ycombinator.com/item?id=39937826) - [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)
 * [2024-04-05, 01:20:41](https://news.ycombinator.com/item?id=39937762) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
