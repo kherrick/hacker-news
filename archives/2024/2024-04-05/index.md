@@ -21,6 +21,7 @@
 * [2024-04-05, 03:14:11](https://news.ycombinator.com/item?id=39938348) - [A Japanese Hikikomori (Shut in) Released a Game After 6 Years of Development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 * [2024-04-05, 02:52:34](https://news.ycombinator.com/item?id=39938241) - [Seattle Is Getting Rid of Gifted Schools in a Bid to Increase Equity](https://reason.com/2024/04/04/seattle-is-getting-rid-of-gifted-schools-in-a-bid-to-increase-equity/)
 * [2024-04-05, 02:31:23](https://news.ycombinator.com/item?id=39938126) - [Google Books Is Indexing AI-Generated Garbage](https://www.404media.co/google-books-is-indexing-ai-generated-garbage/)
+* [2024-04-05, 02:31:03](https://news.ycombinator.com/item?id=39938125) - [KDE1 on Debian 13](https://ariasft.github.io/)
 * [2024-04-05, 02:19:49](https://news.ycombinator.com/item?id=39938072) - [OpenBSD 7.5 Released](https://www.openbsd.org/75.html)
 * [2024-04-05, 02:07:40](https://news.ycombinator.com/item?id=39938005) - [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
 * [2024-04-05, 01:33:14](https://news.ycombinator.com/item?id=39937826) - [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)

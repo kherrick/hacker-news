@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-05, 09:48:40](https://news.ycombinator.com/item?id=39940547) - [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/)
 * [2024-04-05, 09:47:47](https://news.ycombinator.com/item?id=39940541) - [Ask HN: I want to put free WiFi in schools in my city, how do I go about it?](https://news.ycombinator.com/item?id=39940541)
 * [2024-04-05, 07:06:21](https://news.ycombinator.com/item?id=39939477) - [Features I wish PostgreSQL had as a developer](https://www.bytebase.com/blog/features-i-wish-postgres-had/)
 * [2024-04-05, 06:44:01](https://news.ycombinator.com/item?id=39939363) - [Proton Mail says Outlook for Windows is Microsoft's new data collection service](https://www.ghacks.net/2024/01/12/proton-mail-says-that-the-new-outlook-app-for-windows-is-microsofts-new-data-collection-service/)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
 * [2024-04-05, 02:31:23](https://news.ycombinator.com/item?id=39938126) - [Google Books Is Indexing AI-Generated Garbage](https://www.404media.co/google-books-is-indexing-ai-generated-garbage/)
+* [2024-04-05, 02:31:03](https://news.ycombinator.com/item?id=39938125) - [KDE1 on Debian 13](https://ariasft.github.io/)
 * [2024-04-05, 02:19:49](https://news.ycombinator.com/item?id=39938072) - [OpenBSD 7.5 Released](https://www.openbsd.org/75.html)
 * [2024-04-05, 02:07:40](https://news.ycombinator.com/item?id=39938005) - [Former University of Iowa hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
 * [2024-04-05, 01:20:41](https://news.ycombinator.com/item?id=39937762) - [C++ coroutines do not spark joy (2021)](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
