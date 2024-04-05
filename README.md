@@ -2,6 +2,7 @@
 
 * [2024-04-05, 18:18:30](https://news.ycombinator.com/item?id=39945406) - [Top Israeli Spy Chief Accidentally Revealed His True Identity Online](https://www.thedailybeast.com/israeli-spy-chief-accidentally-revealed-his-true-identity-online-report)
 * [2024-04-05, 18:09:20](https://news.ycombinator.com/item?id=39945323) - [AI will shrink workforces within five years, say company execs](https://www.cnn.com/2024/04/05/business/ai-job-losses/index.html)
+* [2024-04-05, 17:54:37](https://news.ycombinator.com/item?id=39945218) - [Zimbabwe Launches a New Currency Again](https://www.wsj.com/world/africa/zimbabwe-launches-a-new-currencyagain-0696a104)
 * [2024-04-05, 17:45:42](https://news.ycombinator.com/item?id=39945126) - [Themes from (and Beyond) Altitude Cyber's 2023 Cybersecurity Year in Review](https://strategyofsecurity.com/themes-from-and-beyond-altitude-cybers-2023-cybersecurity-year-in-review/)
 * [2024-04-05, 17:43:52](https://news.ycombinator.com/item?id=39945104) - [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
 * [2024-04-05, 17:33:00](https://news.ycombinator.com/item?id=39944996) - [Favorites from our prompt engineering tournament](https://blog.promptlayer.com/our-favorite-prompts-from-the-tournament-b9d99464c1dc?gi=3dcc2105be1e)
@@ -11,7 +12,6 @@
 * [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.8 – 2024 Whitehouse Station, New Jersey Earthquake](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
-* [2024-04-05, 13:27:02](https://news.ycombinator.com/item?id=39942104) - [Big Tech's underground race to buy AI training data](https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/)
 * [2024-04-05, 13:22:32](https://news.ycombinator.com/item?id=39942052) - [Jedi Knight (Plus, Notes on an Expanded Universe)](https://www.filfre.net/2024/04/jedi-knight-plus-notes-on-an-expanded-universe/)
 * [2024-04-05, 13:03:44](https://news.ycombinator.com/item?id=39941859) - [Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
 * [2024-04-05, 11:49:55](https://news.ycombinator.com/item?id=39941232) - [Show HN: Kyoo – Self-hosted media browser (Jellyfin/Plex alternative)](https://github.com/zoriya/Kyoo)
