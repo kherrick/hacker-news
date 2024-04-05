@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-05, 10:16:38",
+      "https://news.ycombinator.com/item?id=39940707"
+    ],
+    [
+      "Infrastructure as Code Is Not the Answer – By Luke Shaughnessy",
+      "https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 09:47:47",
       "https://news.ycombinator.com/item?id=39940541"
     ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2024-04-04, 19:39:30",
-      "https://news.ycombinator.com/item?id=39934881"
-    ],
-    [
-      "Slowroads",
-      "https://slowroads.io/"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 19:11:41",
       "https://news.ycombinator.com/item?id=39934584"
     ],
     [
       "Understanding and managing the impact of machine learning models on the web",
       "https://www.w3.org/reports/ai-web-impact/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 19:06:40",
-      "https://news.ycombinator.com/item?id=39934533"
-    ],
-    [
-      "Rejuvenating the blood cell population",
-      "https://www.science.org/content/blog-post/rejuvenating-blood-cell-population"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: FizzBee – Formal methods in Python",
       "https://fizzbee.io/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 06:45:46",
+      "https://news.ycombinator.com/item?id=39903004"
+    ],
+    [
+      "Easy Mode Rust",
+      "https://llogiq.github.io/2024/03/28/easy.html"
     ]
   ]
 ]
