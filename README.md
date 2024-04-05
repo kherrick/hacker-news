@@ -2,6 +2,7 @@
 
 * [2024-04-05, 17:00:39](https://news.ycombinator.com/item?id=39944658) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-04-05, 16:42:38](https://news.ycombinator.com/item?id=39944496) - [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
+* [2024-04-05, 16:38:49](https://news.ycombinator.com/item?id=39944452) - [Identifying Stable Diffusion XL 1.0 images from VAE artifacts](https://hforsten.com/identifying-stable-diffusion-xl-10-images-from-vae-artifacts.html)
 * [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
@@ -14,7 +15,6 @@
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego Model of Financial Capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
-* [2024-04-05, 02:31:23](https://news.ycombinator.com/item?id=39938126) - [Google Books Is Indexing AI-Generated Garbage](https://www.404media.co/google-books-is-indexing-ai-generated-garbage/)
 * [2024-04-05, 02:19:49](https://news.ycombinator.com/item?id=39938072) - [OpenBSD 7.5](https://www.openbsd.org/75.html)
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 * [2024-04-04, 21:35:17](https://news.ycombinator.com/item?id=39936048) - [Tool Use (function calling)](https://docs.anthropic.com/claude/docs/tool-use)
