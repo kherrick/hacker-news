@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:14:11](https://news.ycombinator.com/item?id=39938348) - [A Japanese Hikikomori (Shut in) Released a Game After 6 Years of Development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 * [2024-04-05, 02:52:34](https://news.ycombinator.com/item?id=39938241) - [Seattle Is Getting Rid of Gifted Schools in a Bid to Increase Equity](https://reason.com/2024/04/04/seattle-is-getting-rid-of-gifted-schools-in-a-bid-to-increase-equity/)
 * [2024-04-05, 02:07:40](https://news.ycombinator.com/item?id=39938005) - [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:14:11](https://news.ycombinator.com/item?id=39938348) - [A Japanese Hikikomori (Shut in) Released a Game After 6 Years of Development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 * [2024-04-05, 02:07:40](https://news.ycombinator.com/item?id=39938005) - [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
 * [2024-04-05, 01:33:14](https://news.ycombinator.com/item?id=39937826) - [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)
@@ -22,12 +23,11 @@
 * [2024-04-04, 14:32:50](https://news.ycombinator.com/item?id=39930919) - [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 * [2024-04-04, 14:32:20](https://news.ycombinator.com/item?id=39930908) - [Show HN: Managed GitHub Actions Runners for AWS](https://news.ycombinator.com/item?id=39930908)
 * [2024-04-04, 14:30:32](https://news.ycombinator.com/item?id=39930887) - [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
-* [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 13:32:03](https://news.ycombinator.com/item?id=39930195) - [Homemade 6 GHz pulse compression radar](https://hforsten.com/homemade-6-ghz-pulse-compression-radar.html)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-03, 10:19:07](https://news.ycombinator.com/item?id=39915526) - [Row Zero and Viewport Data Streaming](https://digest.browsertech.com/archive/browsertech-digest-row-zero-and-viewport-data/)
+* [2024-04-03, 07:47:56](https://news.ycombinator.com/item?id=39914644) - [A first look at Europe's alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
 * [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
-* [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use](https://fizzbee.io/)
 
