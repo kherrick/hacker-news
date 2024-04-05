@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-04-05, 21:49:38",
-      "https://news.ycombinator.com/item?id=39947666"
-    ],
-    [
-      "Open-Source 4WD AI Robot Kit Compatible with Raspberry Pi Models 4 and 5",
-      "https://linuxgizmos.com/open-source-4wd-ai-robot-kit-compatible-with-raspberry-pi-models-4-and-5/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 21:25:43",
-      "https://news.ycombinator.com/item?id=39947432"
-    ],
-    [
-      "Do Kwon and Terraform Labs found liable for $40B fraud",
-      "https://www.web3isgoinggreat.com/?id=do-kwon-and-terraform-labs-found-liable-for-40-billion-fraud"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 20:39:29",
       "https://news.ycombinator.com/item?id=39946923"
     ],
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-04-05, 11:49:55",
+      "https://news.ycombinator.com/item?id=39941232"
+    ],
+    [
+      "Show HN: Kyoo – Self-hosted media browser (Jellyfin/Plex alternative)",
+      "https://github.com/zoriya/Kyoo"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 11:13:57",
       "https://news.ycombinator.com/item?id=39940975"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=39922854"
     ],
     [
-      "When William Met Sigmund (2010)",
+      "When William met Sigmund (2010)",
       "http://thesecondpass.com/?p=6447"
     ]
   ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2024-04-03, 08:46:38",
+      "https://news.ycombinator.com/item?id=39914929"
+    ],
+    [
+      "Show HN: Fancy-ANSI – Small JavaScript library for converting ANSI to HTML",
+      "https://github.com/kubetail-org/fancy-ansi"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 08:13:40",
       "https://news.ycombinator.com/item?id=39914776"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39903398"
     ],
     [
-      "JetBrains has just released a 3000 inspections Encyclopedia",
+      "Inspectopedia: Analyze code against inspections in your IDE or CI pipeline",
       "https://www.jetbrains.com/pages/inspectopedia-by-jetbrains/"
     ]
   ]
