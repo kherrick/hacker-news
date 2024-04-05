@@ -24,12 +24,12 @@
 * [2024-04-04, 14:24:53](https://news.ycombinator.com/item?id=39930809) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 13:32:03](https://news.ycombinator.com/item?id=39930195) - [Homemade 6 GHz pulse compression radar](https://hforsten.com/homemade-6-ghz-pulse-compression-radar.html)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
+* [2024-04-04, 05:36:46](https://news.ycombinator.com/item?id=39926908) - [Securing Your Codebase](https://tattle.co.in/blog/2024-04-03-securing-feluda-pt1/)
 * [2024-04-03, 10:19:07](https://news.ycombinator.com/item?id=39915526) - [Row Zero and Viewport Data Streaming](https://digest.browsertech.com/archive/browsertech-digest-row-zero-and-viewport-data/)
 * [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
 * [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use](https://fizzbee.io/)
-* [2024-04-02, 06:02:20](https://news.ycombinator.com/item?id=39902812) - [Exploring versions of the Postgres logical replication protocol](https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol)
 
 ## [Archives](archives/index.md)
 
