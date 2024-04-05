@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 13:57:58](https://news.ycombinator.com/item?id=39942460) - [Amazon increased US plastic packaging despite global phase-out](https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us)
+* [2024-04-05, 13:55:23](https://news.ycombinator.com/item?id=39942418) - [RubyGems is not vulnerable to the xz/liblzma backdoor](https://blog.rubygems.org/2024/03/31/rubygems-and-xz.html)
+* [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 * [2024-04-05, 13:34:43](https://news.ycombinator.com/item?id=39942187) - [WindCon2024: A Joke Too Far for Many](https://blog.windscribe.com/a-joke-too-far/)
 * [2024-04-05, 13:28:55](https://news.ycombinator.com/item?id=39942122) - [Top Israeli spy chief exposes his true identity in online security lapse](https://www.theguardian.com/world/2024/apr/05/top-israeli-spy-chief-exposes-his-true-identity-in-online-security-lapse)
 * [2024-04-05, 13:16:12](https://news.ycombinator.com/item?id=39941975) - [We need a permanent solution for universal broadband access](https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp)
@@ -12,6 +15,7 @@
 * [2024-04-05, 12:36:39](https://news.ycombinator.com/item?id=39941645) - [Apple cuts 600 jobs after dropping self-driving car plans](https://www.bbc.com/news/articles/c98rz9nq9rvo)
 * [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-04-05, 11:46:53](https://news.ycombinator.com/item?id=39941208) - [The economics of American lotteries (poorest 1% zip codes spends 5% of income)](https://www.economist.com/graphic-detail/2024/04/02/the-economics-of-american-lotteries)
+* [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego Model of Financial Capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
 * [2024-04-05, 11:04:07](https://news.ycombinator.com/item?id=39940922) - [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
 * [2024-04-05, 10:16:38](https://news.ycombinator.com/item?id=39940707) - [Infrastructure as Code Is Not the Answer – By Luke Shaughnessy](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
 * [2024-04-05, 09:48:40](https://news.ycombinator.com/item?id=39940547) - [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/)
