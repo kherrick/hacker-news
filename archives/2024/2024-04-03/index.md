@@ -118,6 +118,7 @@
 * [2024-04-03, 05:35:47](https://news.ycombinator.com/item?id=39913946) - [Full EU chat control proposal attack on digital privacy and encryption](https://www.patrick-breyer.de/en/full-chat-control-proposal-leaked-attack-on-digital-privacy-of-correspondence-and-secure-encryption/)
 * [2024-04-03, 05:30:50](https://news.ycombinator.com/item?id=39913913) - [America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150](https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness)
 * [2024-04-03, 05:29:45](https://news.ycombinator.com/item?id=39913905) - [Autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
+* [2024-04-03, 05:18:05](https://news.ycombinator.com/item?id=39913842) - [Mission Talita is a Grand Theft Auto mod meant to stop trafficking](https://www.polygon.com/24119385/mission-talita-grand-theft-auto-mod-nonprofit-sex-trafficking)
 * [2024-04-03, 05:12:12](https://news.ycombinator.com/item?id=39913807) - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 * [2024-04-03, 04:33:39](https://news.ycombinator.com/item?id=39913616) - [The ancient world before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-03, 04:05:10](https://news.ycombinator.com/item?id=39913505) - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
