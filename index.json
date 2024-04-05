@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=39938005"
     ],
     [
-      "Former University of Iowa Hospital employee used fake identity for 35 years",
+      "Former University of Iowa hospital employee used fake identity for 35 years",
       "https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39937762"
     ],
     [
-      "C++ Coroutines Do Not Spark Joy",
+      "C++ coroutines do not spark joy (2021)",
       "https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39936246"
     ],
     [
-      "Mario meets Pareto: multi-objective optimization of Mario Kart builds",
+      "Mario meets Pareto",
       "https://www.mayerowitz.io/blog/mario-meets-pareto"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "The design philosophy of Great Tables",
       "https://posit-dev.github.io/great-tables/blog/design-philosophy/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 17:46:43",
-      "https://news.ycombinator.com/item?id=39933660"
-    ],
-    [
-      "XDP for game programmers",
-      "https://mas-bandwidth.com/xdp-for-game-programmers/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "The Great American Rail-Trail",
       "https://www.railstotrails.org/site/greatamericanrailtrail/content/route/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 14:24:53",
+      "https://news.ycombinator.com/item?id=39930809"
+    ],
+    [
+      "The V8 Sandbox",
+      "https://v8.dev/blog/sandbox"
     ]
   ],
   [
