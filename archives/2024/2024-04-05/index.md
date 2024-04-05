@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.7 Earthquake 5 Km NE of Lebanon, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:57:58](https://news.ycombinator.com/item?id=39942460) - [Amazon increased US plastic packaging despite global phase-out](https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us)
 * [2024-04-05, 13:55:23](https://news.ycombinator.com/item?id=39942418) - [RubyGems is not vulnerable to the xz/liblzma backdoor](https://blog.rubygems.org/2024/03/31/rubygems-and-xz.html)
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have been working on?](https://news.ycombinator.com/item?id=39942397)
@@ -14,6 +15,7 @@
 * [2024-04-05, 13:03:44](https://news.ycombinator.com/item?id=39941859) - [Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
 * [2024-04-05, 12:59:14](https://news.ycombinator.com/item?id=39941821) - [Microsoft, Google join study to see if AI will affect jobs](https://www.washingtonpost.com/technology/2024/04/04/jobs-ai-replace-study-microsoft-google-cisco/)
 * [2024-04-05, 12:36:39](https://news.ycombinator.com/item?id=39941645) - [Apple cuts 600 jobs after dropping self-driving car plans](https://www.bbc.com/news/articles/c98rz9nq9rvo)
+* [2024-04-05, 12:24:19](https://news.ycombinator.com/item?id=39941524) - [A Tantalizing 'Hint' That Astronomers Got Dark Energy All Wrong](https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html)
 * [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-04-05, 11:46:53](https://news.ycombinator.com/item?id=39941208) - [The economics of American lotteries (poorest 1% zip codes spends 5% of income)](https://www.economist.com/graphic-detail/2024/04/02/the-economics-of-american-lotteries)
 * [2024-04-05, 11:29:04](https://news.ycombinator.com/item?id=39941069) - [Transforming of Communist-era apartment blocks that dominate Eastern Europe](https://www.bbc.com/future/article/20240403-the-race-to-retrofit-europes-ex-communist-housing)

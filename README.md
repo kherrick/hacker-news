@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.7 Earthquake 5 Km NE of Lebanon, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:57:58](https://news.ycombinator.com/item?id=39942460) - [Amazon increased US plastic packaging despite global phase-out](https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us)
 * [2024-04-05, 13:55:23](https://news.ycombinator.com/item?id=39942418) - [RubyGems is not vulnerable to the xz/liblzma backdoor](https://blog.rubygems.org/2024/03/31/rubygems-and-xz.html)
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have been working on?](https://news.ycombinator.com/item?id=39942397)
@@ -8,6 +9,7 @@
 * [2024-04-05, 13:28:55](https://news.ycombinator.com/item?id=39942122) - [Top Israeli spy chief exposes his true identity in online security lapse](https://www.theguardian.com/world/2024/apr/05/top-israeli-spy-chief-exposes-his-true-identity-in-online-security-lapse)
 * [2024-04-05, 13:16:12](https://news.ycombinator.com/item?id=39941975) - [We need a permanent solution for universal broadband access](https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp)
 * [2024-04-05, 13:03:44](https://news.ycombinator.com/item?id=39941859) - [Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
+* [2024-04-05, 12:24:19](https://news.ycombinator.com/item?id=39941524) - [A Tantalizing 'Hint' That Astronomers Got Dark Energy All Wrong](https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html)
 * [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-04-05, 11:29:04](https://news.ycombinator.com/item?id=39941069) - [Transforming of Communist-era apartment blocks that dominate Eastern Europe](https://www.bbc.com/future/article/20240403-the-race-to-retrofit-europes-ex-communist-housing)
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego Model of Financial Capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
@@ -27,8 +29,6 @@
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-03, 13:17:05](https://news.ycombinator.com/item?id=39917061) - [Dark extinction: the problem of unknown historical extinctions (2021)](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2021.0007)
 * [2024-04-03, 11:14:49](https://news.ycombinator.com/item?id=39915932) - [Understanding Linear Feedback Shift Registers in FPGAs](https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register)
-* [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
-* [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python](https://fizzbee.io/)
 * [2024-04-02, 08:08:28](https://news.ycombinator.com/item?id=39903393) - [The Submarine (2005)](https://paulgraham.com/submarine.html)
 
 ## [Archives](archives/index.md)
