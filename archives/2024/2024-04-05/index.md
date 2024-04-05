@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2024-04-05, 11:46:53](https://news.ycombinator.com/item?id=39941208) - [The economics of American lotteries (poorest 1% zip codes spends 5% of income)](https://www.economist.com/graphic-detail/2024/04/02/the-economics-of-american-lotteries)
+* [2024-04-05, 11:04:07](https://news.ycombinator.com/item?id=39940922) - [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
 * [2024-04-05, 10:16:38](https://news.ycombinator.com/item?id=39940707) - [Infrastructure as Code Is Not the Answer – By Luke Shaughnessy](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
 * [2024-04-05, 09:48:40](https://news.ycombinator.com/item?id=39940547) - [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/)
 * [2024-04-05, 09:47:47](https://news.ycombinator.com/item?id=39940541) - [Ask HN: I want to put free WiFi in schools in my city, how do I go about it?](https://news.ycombinator.com/item?id=39940541)

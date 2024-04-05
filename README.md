@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-05, 10:16:38](https://news.ycombinator.com/item?id=39940707) - [Infrastructure as Code Is Not the Answer – By Luke Shaughnessy](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
+* [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2024-04-05, 11:46:53](https://news.ycombinator.com/item?id=39941208) - [The economics of American lotteries (poorest 1% zip codes spends 5% of income)](https://www.economist.com/graphic-detail/2024/04/02/the-economics-of-american-lotteries)
+* [2024-04-05, 11:04:07](https://news.ycombinator.com/item?id=39940922) - [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
+* [2024-04-05, 10:16:38](https://news.ycombinator.com/item?id=39940707) - [Infrastructure as code is not the answer (2022)](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
 * [2024-04-05, 09:47:47](https://news.ycombinator.com/item?id=39940541) - [Ask HN: I want to put free WiFi in schools in my city, how do I go about it?](https://news.ycombinator.com/item?id=39940541)
-* [2024-04-05, 07:06:21](https://news.ycombinator.com/item?id=39939477) - [Features I wish PostgreSQL had as a developer](https://www.bytebase.com/blog/features-i-wish-postgres-had/)
 * [2024-04-05, 06:44:01](https://news.ycombinator.com/item?id=39939363) - [Proton Mail says Outlook for Windows is Microsoft's new data collection service](https://www.ghacks.net/2024/01/12/proton-mail-says-that-the-new-outlook-app-for-windows-is-microsofts-new-data-collection-service/)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
@@ -11,7 +13,6 @@
 * [2024-04-05, 02:19:49](https://news.ycombinator.com/item?id=39938072) - [OpenBSD 7.5 Released](https://www.openbsd.org/75.html)
 * [2024-04-05, 02:07:40](https://news.ycombinator.com/item?id=39938005) - [Former University of Iowa hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
 * [2024-04-05, 01:20:41](https://news.ycombinator.com/item?id=39937762) - [C++ coroutines do not spark joy (2021)](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
-* [2024-04-05, 01:04:08](https://news.ycombinator.com/item?id=39937666) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
 * [2024-04-04, 21:58:01](https://news.ycombinator.com/item?id=39936291) - [Xr0: C but Safe](https://xr0.dev/)
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 * [2024-04-04, 21:35:17](https://news.ycombinator.com/item?id=39936048) - [Tool Use (function calling)](https://docs.anthropic.com/claude/docs/tool-use)
@@ -27,7 +28,6 @@
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-03, 11:14:49](https://news.ycombinator.com/item?id=39915932) - [Understanding Linear Feedback Shift Registers in FPGAs](https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register)
 * [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
-* [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python](https://fizzbee.io/)
 * [2024-04-02, 06:45:46](https://news.ycombinator.com/item?id=39903004) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 
