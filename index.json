@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-05, 09:48:40",
+      "https://news.ycombinator.com/item?id=39940547"
+    ],
+    [
+      "Understanding Childhood Trauma Can Help Us Be More Resilient",
+      "https://time.com/6962700/childhood-trauma-resilience-essay/"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 07:06:21",
       "https://news.ycombinator.com/item?id=39939477"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2024-04-05, 03:14:11",
-      "https://news.ycombinator.com/item?id=39938348"
-    ],
-    [
-      "A Japanese hikikomori released a game after 6 years of development [video]",
-      "https://www.youtube.com/watch?v=LJBv_hvvbBg"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 02:19:49",
       "https://news.ycombinator.com/item?id=39938072"
     ],
@@ -67,6 +67,16 @@
     [
       "Former University of Iowa hospital employee used fake identity for 35 years",
       "https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/"
+    ]
+  ],
+  [
+    [
+      "2024-04-05, 01:20:41",
+      "https://news.ycombinator.com/item?id=39937762"
+    ],
+    [
+      "C++ coroutines do not spark joy (2021)",
+      "https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-04-04, 18:58:05",
-      "https://news.ycombinator.com/item?id=39934434"
-    ],
-    [
-      "Containers and Unikernels: Similar, different, and intertwined",
-      "https://unikraft.io/blog/containers-and-unikernels/"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 18:00:28",
       "https://news.ycombinator.com/item?id=39933833"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
+      "2024-04-04, 15:02:59",
+      "https://news.ycombinator.com/item?id=39931315"
+    ],
+    [
+      "Runtipi: Docker-based home server management",
+      "https://runtipi.io"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 14:32:50",
       "https://news.ycombinator.com/item?id=39930919"
     ],
     [
       "HTTP/2 Continuation Flood: Technical Details",
       "https://nowotarski.info/http2-continuation-flood-technical-details/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 14:32:20",
-      "https://news.ycombinator.com/item?id=39930908"
-    ],
-    [
-      "Show HN: Managed GitHub Actions Runners for AWS",
-      "https://news.ycombinator.com/item?id=39930908"
     ]
   ],
   [
