@@ -20,6 +20,7 @@
 * [2024-04-02, 20:14:14](https://news.ycombinator.com/item?id=39910383) - [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
 * [2024-04-02, 20:03:48](https://news.ycombinator.com/item?id=39910277) - [Performing Muggu](https://garlandmag.com/article/muggu/)
 * [2024-04-02, 20:03:35](https://news.ycombinator.com/item?id=39910273) - [Surveilling Alone](https://www.thenewatlantis.com/publications/surveilling-alone)
+* [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
 * [2024-04-02, 19:55:10](https://news.ycombinator.com/item?id=39910186) - [Male archetypes in fairy tales](https://sharonblackie.substack.com/p/so-what-about-the-men)
 * [2024-04-02, 19:49:14](https://news.ycombinator.com/item?id=39910119) - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 * [2024-04-02, 19:34:07](https://news.ycombinator.com/item?id=39909949) - [Microsoft posted on the FFMPEG tracker that their issue is 'high priority'](https://trac.ffmpeg.org/ticket/10341#comment:4)
