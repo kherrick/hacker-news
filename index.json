@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-05, 17:00:39",
+      "https://news.ycombinator.com/item?id=39944658"
+    ],
+    [
+      "Continue (YC S23) is hiring a founding engineer in San Francisco",
+      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 16:42:38",
       "https://news.ycombinator.com/item?id=39944496"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-04-05, 14:49:33",
-      "https://news.ycombinator.com/item?id=39943062"
+      "2024-04-05, 16:21:49",
+      "https://news.ycombinator.com/item?id=39944275"
     ],
     [
-      "Excellent succinct breakdown of the xz mess, from an OpenBSD developer",
-      "https://marc.info/?l=openbsd-misc&m=171227941117852&w=2"
+      "Fortran on WebAssembly",
+      "https://gws.phd/posts/fortran_wasm/"
     ]
   ],
   [
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2024-04-05, 12:30:01",
-      "https://news.ycombinator.com/item?id=39941574"
-    ],
-    [
-      "Show HN: No-bs \"HN: Who is Hiring?\" job picks straight to your inbox",
-      "https://hnrecap.news"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 12:24:19",
       "https://news.ycombinator.com/item?id=39941524"
     ],
     [
       "A Tantalizing 'Hint' That Astronomers Got Dark Energy All Wrong",
       "https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 12:00:10",
-      "https://news.ycombinator.com/item?id=39941303"
-    ],
-    [
-      "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
-      "https://deepnote.com/join-us"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Understanding Linear Feedback Shift Registers in FPGAs",
       "https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 08:46:38",
+      "https://news.ycombinator.com/item?id=39914929"
+    ],
+    [
+      "Show HN: Fancy-ANSI – Small JavaScript library for converting ANSI to HTML",
+      "https://github.com/kubetail-org/fancy-ansi"
     ]
   ]
 ]
