@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 23:09:35](https://news.ycombinator.com/item?id=39948366) - [I fell out of love with academia](https://www.math.columbia.edu/~woit/wordpress/?p=13907)
 * [2024-04-05, 22:27:59](https://news.ycombinator.com/item?id=39948044) - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 * [2024-04-05, 22:21:28](https://news.ycombinator.com/item?id=39947981) - [EV bargains to be found as Hertz sells off some of its electric cars](https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/)
-* [2024-04-05, 22:12:20](https://news.ycombinator.com/item?id=39947894) - [Why the Arabic World Turned Away from Science (2011)](https://www.thenewatlantis.com/publications/why-the-arabic-world-turned-away-from-science)
 * [2024-04-05, 22:07:55](https://news.ycombinator.com/item?id=39947843) - [A stealth attack came close to compromising the Internet](https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers)
 * [2024-04-05, 21:55:01](https://news.ycombinator.com/item?id=39947713) - [world_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
 * [2024-04-05, 20:39:29](https://news.ycombinator.com/item?id=39946923) - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
