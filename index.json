@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-04-05, 14:59:52",
-      "https://news.ycombinator.com/item?id=39943217"
-    ],
-    [
-      "Go's Error Handling Is Perfect",
-      "https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 14:49:33",
-      "https://news.ycombinator.com/item?id=39943062"
-    ],
-    [
-      "Excellent succinct breakdown of the xz mess, from an OpenBSD developer",
-      "https://marc.info/?l=openbsd-misc&m=171227941117852&w=2"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 14:34:13",
       "https://news.ycombinator.com/item?id=39942880"
     ],
@@ -71,6 +51,16 @@
   ],
   [
     [
+      "2024-04-05, 13:22:32",
+      "https://news.ycombinator.com/item?id=39942052"
+    ],
+    [
+      "Jedi Knight (Plus, Notes on an Expanded Universe)",
+      "https://www.filfre.net/2024/04/jedi-knight-plus-notes-on-an-expanded-universe/"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 13:03:44",
       "https://news.ycombinator.com/item?id=39941859"
     ],
@@ -97,16 +87,6 @@
     [
       "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
       "https://deepnote.com/join-us"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 11:29:04",
-      "https://news.ycombinator.com/item?id=39941069"
-    ],
-    [
-      "Transforming of Communist-era apartment blocks that dominate Eastern Europe",
-      "https://www.bbc.com/future/article/20240403-the-race-to-retrofit-europes-ex-communist-housing"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Understanding Linear Feedback Shift Registers in FPGAs",
       "https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 19:57:37",
+      "https://news.ycombinator.com/item?id=39910208"
+    ],
+    [
+      "Letting go of the idea of keeping up",
+      "https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 10:45:19",
+      "https://news.ycombinator.com/item?id=39904256"
+    ],
+    [
+      "Show HN: FizzBee – Formal methods in Python",
+      "https://fizzbee.io/"
     ]
   ]
 ]
