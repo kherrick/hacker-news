@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-05, 07:08:40](https://news.ycombinator.com/item?id=39939490) - [Why Today's Software Sucks?](https://laurentiu-raducu.medium.com/why-todays-software-sucks-42dc8562428c)
+* [2024-04-05, 07:48:38](https://news.ycombinator.com/item?id=39939738) - [Facebook caught snooping on Snapchat users. What is going on?](https://tuta.com/blog/what-is-going-on-at-facebook)
 * [2024-04-05, 05:49:56](https://news.ycombinator.com/item?id=39939061) - [Alcohol Use and Mortality Among Couples in US: Individual and Partner Effects](https://academic.oup.com/gerontologist/article-abstract/64/2/gnad101/7230161)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
