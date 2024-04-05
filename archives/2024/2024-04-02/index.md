@@ -97,6 +97,7 @@
 * [2024-04-02, 08:27:37](https://news.ycombinator.com/item?id=39903494) - [std::launder: the most obscure new feature of C++17](https://miyuki.github.io/2016/10/21/std-launder.html)
 * [2024-04-02, 08:23:33](https://news.ycombinator.com/item?id=39903476) - [Building and using a 29-year-old compiler on a modern system (2017)](https://miyuki.github.io/2017/10/04/gcc-archaeology-1.html)
 * [2024-04-02, 08:22:58](https://news.ycombinator.com/item?id=39903471) - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
+* [2024-04-02, 08:08:28](https://news.ycombinator.com/item?id=39903393) - [The Submarine (2005)](https://paulgraham.com/submarine.html)
 * [2024-04-02, 07:43:40](https://news.ycombinator.com/item?id=39903267) - [Show HN: Docfd: TUI multiline fuzzy document finder](https://github.com/darrenldl/docfd)
 * [2024-04-02, 07:33:03](https://news.ycombinator.com/item?id=39903216) - [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
 * [2024-04-02, 06:58:36](https://news.ycombinator.com/item?id=39903056) - [KraftCloud](https://github.com/unikraft/unikraft)
