@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 02:52:34](https://news.ycombinator.com/item?id=39938241) - [Seattle Is Getting Rid of Gifted Schools in a Bid to Increase Equity](https://reason.com/2024/04/04/seattle-is-getting-rid-of-gifted-schools-in-a-bid-to-increase-equity/)
 * [2024-04-05, 02:07:40](https://news.ycombinator.com/item?id=39938005) - [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
 * [2024-04-05, 01:33:14](https://news.ycombinator.com/item?id=39937826) - [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)
 * [2024-04-05, 01:04:08](https://news.ycombinator.com/item?id=39937666) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
@@ -7,7 +8,6 @@
 * [2024-04-04, 21:57:29](https://news.ycombinator.com/item?id=39936284) - [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
 * [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
-* [2024-04-04, 19:39:30](https://news.ycombinator.com/item?id=39934881) - [S l o w r o a d s](https://slowroads.io/)
 * [2024-04-04, 19:23:00](https://news.ycombinator.com/item?id=39934696) - [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 19:06:40](https://news.ycombinator.com/item?id=39934533) - [Rejuvenating the Blood Cell Population](https://www.science.org/content/blog-post/rejuvenating-blood-cell-population)
