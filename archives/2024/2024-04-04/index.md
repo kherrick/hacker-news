@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 22:10:30](https://news.ycombinator.com/item?id=39936420) - [Executives Get Rich Making Poor Decisions – Cold Take [video]](https://www.youtube.com/watch?v=vuIitYcoSiE)
 * [2024-04-04, 21:58:01](https://news.ycombinator.com/item?id=39936291) - [C but Safe](https://xr0.dev/)
 * [2024-04-04, 21:57:29](https://news.ycombinator.com/item?id=39936284) - [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
