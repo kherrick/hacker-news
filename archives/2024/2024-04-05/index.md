@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 21:03:37](https://news.ycombinator.com/item?id=39947188) - [Roku looks into serving you ads on whatever you plug into its TVs](https://www.engadget.com/roku-looks-into-serving-you-ads-on-whatever-you-plug-into-its-tvs-120016754.html)
+* [2024-04-05, 20:39:29](https://news.ycombinator.com/item?id=39946923) - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
 * [2024-04-05, 20:16:56](https://news.ycombinator.com/item?id=39946694) - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
 * [2024-04-05, 19:41:34](https://news.ycombinator.com/item?id=39946304) - [Wine 9.6 Adds Support for Advanced AVX Features in Register Contexts](https://www.phoronix.com/news/Wine-9.6-Released)
 * [2024-04-05, 19:30:30](https://news.ycombinator.com/item?id=39946169) - [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
@@ -12,6 +14,7 @@
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
 * [2024-04-05, 19:08:38](https://news.ycombinator.com/item?id=39945918) - [Guide to Bourbon](https://www.seriouseats.com/serious-eats-guide-to-bourbon-what-is-bourbon-history-whiskey-cocktails)
 * [2024-04-05, 19:01:34](https://news.ycombinator.com/item?id=39945841) - [Meta's AI image generator can't imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
+* [2024-04-05, 18:58:59](https://news.ycombinator.com/item?id=39945811) - [A local news site was critical of Facebook–then Meta banned all their links](https://www.thehandbasket.co/p/facebook-kansas-reflector-links-banned)
 * [2024-04-05, 18:50:46](https://news.ycombinator.com/item?id=39945733) - [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 * [2024-04-05, 18:22:52](https://news.ycombinator.com/item?id=39945451) - [Roku's idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)
 * [2024-04-05, 18:18:30](https://news.ycombinator.com/item?id=39945406) - [Top Israeli Spy Chief Accidentally Revealed His True Identity Online](https://www.thedailybeast.com/israeli-spy-chief-accidentally-revealed-his-true-identity-online-report)
