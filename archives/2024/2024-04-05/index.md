@@ -22,6 +22,7 @@
 * [2024-04-05, 05:45:39](https://news.ycombinator.com/item?id=39939037) - [Surveillance by the New Microsoft Outlook App](https://www.schneier.com/blog/archives/2024/04/surveillance-by-the-new-microsoft-outlook-app.html)
 * [2024-04-05, 05:16:46](https://news.ycombinator.com/item?id=39938903) - [Scientists investigate dead Antarctic penguins for bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-investigate-thousands-dead-antarctic-penguins-bird-flu-2024-04-04/)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
+* [2024-04-05, 04:27:35](https://news.ycombinator.com/item?id=39938686) - [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She Slept with a Violin on Her Pillow. Her Dreams Came True in Italy](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
 * [2024-04-05, 03:14:11](https://news.ycombinator.com/item?id=39938348) - [A Japanese Hikikomori (Shut in) Released a Game After 6 Years of Development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 * [2024-04-05, 02:52:34](https://news.ycombinator.com/item?id=39938241) - [Seattle Is Getting Rid of Gifted Schools in a Bid to Increase Equity](https://reason.com/2024/04/04/seattle-is-getting-rid-of-gifted-schools-in-a-bid-to-increase-equity/)
