@@ -11,6 +11,7 @@
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
 * [2024-04-05, 19:08:38](https://news.ycombinator.com/item?id=39945918) - [Guide to Bourbon](https://www.seriouseats.com/serious-eats-guide-to-bourbon-what-is-bourbon-history-whiskey-cocktails)
 * [2024-04-05, 19:01:34](https://news.ycombinator.com/item?id=39945841) - [Meta's AI image generator can't imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
+* [2024-04-05, 18:50:46](https://news.ycombinator.com/item?id=39945733) - [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 * [2024-04-05, 18:22:52](https://news.ycombinator.com/item?id=39945451) - [Roku's idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)
 * [2024-04-05, 18:18:30](https://news.ycombinator.com/item?id=39945406) - [Top Israeli Spy Chief Accidentally Revealed His True Identity Online](https://www.thedailybeast.com/israeli-spy-chief-accidentally-revealed-his-true-identity-online-report)
 * [2024-04-05, 18:15:34](https://news.ycombinator.com/item?id=39945375) - [Should employers pay for employees' phones if 2FA apps are required?](https://news.ycombinator.com/item?id=39945375)
