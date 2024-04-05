@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-05, 19:41:34](https://news.ycombinator.com/item?id=39946304) - [Wine 9.6 Adds Support for Advanced AVX Features in Register Contexts](https://www.phoronix.com/news/Wine-9.6-Released)
+* [2024-04-05, 19:30:30](https://news.ycombinator.com/item?id=39946169) - [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
 * [2024-04-05, 19:27:49](https://news.ycombinator.com/item?id=39946137) - [Breakthrough drug trial saw cancer vanish in every patient](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
 * [2024-04-05, 19:11:00](https://news.ycombinator.com/item?id=39945948) - [Angular and Wiz](https://blog.angular.io/angular-and-wiz-are-better-together-91e633d8cd5a?gi=a136e0cac466)
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
@@ -14,7 +15,6 @@
 * [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.8 – 2024 Whitehouse Station, New Jersey Earthquake](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
 * [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
-* [2024-04-05, 13:03:44](https://news.ycombinator.com/item?id=39941859) - [Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
 * [2024-04-05, 11:49:55](https://news.ycombinator.com/item?id=39941232) - [Show HN: Kyoo – Self-hosted media browser (Jellyfin/Plex alternative)](https://github.com/zoriya/Kyoo)
 * [2024-04-05, 11:13:57](https://news.ycombinator.com/item?id=39940975) - [An IRC client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego model of financial capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)

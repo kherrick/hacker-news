@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
 * [2024-04-05, 19:41:34](https://news.ycombinator.com/item?id=39946304) - [Wine 9.6 Adds Support for Advanced AVX Features in Register Contexts](https://www.phoronix.com/news/Wine-9.6-Released)
+* [2024-04-05, 19:30:30](https://news.ycombinator.com/item?id=39946169) - [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
 * [2024-04-05, 19:27:49](https://news.ycombinator.com/item?id=39946137) - [Breakthrough drug trial saw cancer vanish in every patient](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
 * [2024-04-05, 19:11:00](https://news.ycombinator.com/item?id=39945948) - [Angular and Wiz](https://blog.angular.io/angular-and-wiz-are-better-together-91e633d8cd5a?gi=a136e0cac466)
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
