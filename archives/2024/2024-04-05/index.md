@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 07:56:14](https://news.ycombinator.com/item?id=39939794) - [How Would You Turn This Dial to Make the Freezer Colder?](https://kottke.org/24/03/how-would-you-turn-this-dial-to-make-the-freezer-colder)
 * [2024-04-05, 07:48:38](https://news.ycombinator.com/item?id=39939738) - [Facebook caught snooping on Snapchat users. What is going on?](https://tuta.com/blog/what-is-going-on-at-facebook)
 * [2024-04-05, 07:08:40](https://news.ycombinator.com/item?id=39939490) - [Why Today's Software Sucks?](https://laurentiu-raducu.medium.com/why-todays-software-sucks-42dc8562428c)
 * [2024-04-05, 06:16:13](https://news.ycombinator.com/item?id=39939201) - [Plex Asks GitHub to Take Down 'Reshare' Repository over Piracy Fears](https://torrentfreak.com/plex-asks-github-to-take-down-reshare-repository-over-piracy-fears-240404/)

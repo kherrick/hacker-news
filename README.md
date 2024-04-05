@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 07:56:14](https://news.ycombinator.com/item?id=39939794) - [How Would You Turn This Dial to Make the Freezer Colder?](https://kottke.org/24/03/how-would-you-turn-this-dial-to-make-the-freezer-colder)
 * [2024-04-05, 07:48:38](https://news.ycombinator.com/item?id=39939738) - [Facebook caught snooping on Snapchat users. What is going on?](https://tuta.com/blog/what-is-going-on-at-facebook)
 * [2024-04-05, 05:49:56](https://news.ycombinator.com/item?id=39939061) - [Alcohol Use and Mortality Among Couples in US: Individual and Partner Effects](https://academic.oup.com/gerontologist/article-abstract/64/2/gnad101/7230161)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
@@ -7,7 +8,6 @@
 * [2024-04-05, 03:14:11](https://news.ycombinator.com/item?id=39938348) - [A Japanese hikikomori released a game after 6 years of development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 * [2024-04-05, 02:19:49](https://news.ycombinator.com/item?id=39938072) - [OpenBSD 7.5 Released](https://www.openbsd.org/75.html)
 * [2024-04-05, 02:07:40](https://news.ycombinator.com/item?id=39938005) - [Former University of Iowa hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
-* [2024-04-05, 01:20:41](https://news.ycombinator.com/item?id=39937762) - [C++ coroutines do not spark joy (2021)](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 * [2024-04-05, 01:04:08](https://news.ycombinator.com/item?id=39937666) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
 * [2024-04-04, 21:58:01](https://news.ycombinator.com/item?id=39936291) - [Xr0: C but Safe](https://xr0.dev/)
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
