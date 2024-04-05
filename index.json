@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-05, 13:57:58",
+      "https://news.ycombinator.com/item?id=39942460"
+    ],
+    [
+      "Amazon increased US plastic packaging despite global phase-out",
+      "https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us"
+    ]
+  ],
+  [
+    [
+      "2024-04-05, 13:55:23",
+      "https://news.ycombinator.com/item?id=39942418"
+    ],
+    [
+      "RubyGems is not vulnerable to the xz/liblzma backdoor",
+      "https://blog.rubygems.org/2024/03/31/rubygems-and-xz.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-05, 13:43:14",
+      "https://news.ycombinator.com/item?id=39942288"
+    ],
+    [
+      "So you wanna de-bog yourself",
+      "https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 13:34:43",
       "https://news.ycombinator.com/item?id=39942187"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2024-04-05, 12:36:39",
-      "https://news.ycombinator.com/item?id=39941645"
-    ],
-    [
-      "Apple cuts 600 jobs after dropping self-driving car plans",
-      "https://www.bbc.com/news/articles/c98rz9nq9rvo"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 12:00:10",
       "https://news.ycombinator.com/item?id=39941303"
     ],
@@ -71,12 +91,12 @@
   ],
   [
     [
-      "2024-04-05, 11:04:07",
-      "https://news.ycombinator.com/item?id=39940922"
+      "2024-04-05, 11:10:47",
+      "https://news.ycombinator.com/item?id=39940959"
     ],
     [
-      "Almost no one cares if your site is not on social media",
-      "https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/"
+      "A Lego Model of Financial Capitalism",
+      "https://www.asomo.co/p/a-lego-model-of-financial-capitalism"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Google Books Is Indexing AI-Generated Garbage",
       "https://www.404media.co/google-books-is-indexing-ai-generated-garbage/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 02:31:03",
-      "https://news.ycombinator.com/item?id=39938125"
-    ],
-    [
-      "KDE1 on Debian 13",
-      "https://ariasft.github.io/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Submarine (2005)",
       "https://paulgraham.com/submarine.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 06:45:46",
-      "https://news.ycombinator.com/item?id=39903004"
-    ],
-    [
-      "Easy Mode Rust",
-      "https://llogiq.github.io/2024/03/28/easy.html"
     ]
   ]
 ]
