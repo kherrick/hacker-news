@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 06:16:13](https://news.ycombinator.com/item?id=39939201) - [Plex Asks GitHub to Take Down 'Reshare' Repository over Piracy Fears](https://torrentfreak.com/plex-asks-github-to-take-down-reshare-repository-over-piracy-fears-240404/)
 * [2024-04-05, 05:45:39](https://news.ycombinator.com/item?id=39939037) - [Surveillance by the New Microsoft Outlook App](https://www.schneier.com/blog/archives/2024/04/surveillance-by-the-new-microsoft-outlook-app.html)
 * [2024-04-05, 05:16:46](https://news.ycombinator.com/item?id=39938903) - [Scientists investigate dead Antarctic penguins for bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-investigate-thousands-dead-antarctic-penguins-bird-flu-2024-04-04/)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)

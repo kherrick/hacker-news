@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 06:16:13](https://news.ycombinator.com/item?id=39939201) - [Plex Asks GitHub to Take Down 'Reshare' Repository over Piracy Fears](https://torrentfreak.com/plex-asks-github-to-take-down-reshare-repository-over-piracy-fears-240404/)
 * [2024-04-05, 05:45:39](https://news.ycombinator.com/item?id=39939037) - [Surveillance by the New Microsoft Outlook App](https://www.schneier.com/blog/archives/2024/04/surveillance-by-the-new-microsoft-outlook-app.html)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
@@ -15,7 +16,6 @@
 * [2024-04-04, 19:23:00](https://news.ycombinator.com/item?id=39934696) - [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 19:06:40](https://news.ycombinator.com/item?id=39934533) - [Rejuvenating the Blood Cell Population](https://www.science.org/content/blog-post/rejuvenating-blood-cell-population)
-* [2024-04-04, 18:58:05](https://news.ycombinator.com/item?id=39934434) - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The design philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 * [2024-04-04, 17:46:43](https://news.ycombinator.com/item?id=39933660) - [XDP for game programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [JetMoE: Reaching LLaMA2 performance with 0.1M dollars](https://research.myshell.ai/jetmoe)
