@@ -19,7 +19,6 @@
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The design philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 * [2024-04-04, 17:46:43](https://news.ycombinator.com/item?id=39933660) - [XDP for game programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [JetMoE: Reaching LLaMA2 performance with 0.1M dollars](https://research.myshell.ai/jetmoe)
-* [2024-04-04, 16:17:08](https://news.ycombinator.com/item?id=39932378) - [PCIe 7.0 Draft 0.5 Spec: 512 GB/s over PCIe x16 On Track For 2025](https://www.anandtech.com/show/21335/full-draft-of-pcie-70-spec-available-512-gbs-over-pcie-x16-incoming)
 * [2024-04-04, 14:32:50](https://news.ycombinator.com/item?id=39930919) - [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 * [2024-04-04, 14:30:32](https://news.ycombinator.com/item?id=39930887) - [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
 * [2024-04-04, 13:32:03](https://news.ycombinator.com/item?id=39930195) - [Homemade 6 GHz pulse compression radar](https://hforsten.com/homemade-6-ghz-pulse-compression-radar.html)
@@ -29,6 +28,7 @@
 * [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
 * [2024-04-02, 18:47:00](https://news.ycombinator.com/item?id=39909436) - [Landslide topology uncovers failure movements](https://www.nature.com/articles/s41467-024-46741-7)
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
+* [2024-04-02, 11:01:14](https://news.ycombinator.com/item?id=39904360) - [Dragon's Dogma 2's combat is sloppy and unrefined – on purpose](https://www.polygon.com/24114455/dragons-dogma-2-combat-jank)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python](https://fizzbee.io/)
 
 ## [Archives](archives/index.md)

@@ -80,6 +80,7 @@
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 12:06:54](https://news.ycombinator.com/item?id=39904808) - [The end of Google Podcasts is in June if you're not in the US](https://notes.ghed.in/posts/2024/end-google-podcast-rest-of-world/)
 * [2024-04-02, 12:00:29](https://news.ycombinator.com/item?id=39904759) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+* [2024-04-02, 11:01:14](https://news.ycombinator.com/item?id=39904360) - [Dragon's Dogma 2's combat is sloppy and unrefined – on purpose](https://www.polygon.com/24114455/dragons-dogma-2-combat-jank)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use](https://fizzbee.io/)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
