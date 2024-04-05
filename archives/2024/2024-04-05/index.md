@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 13:28:55](https://news.ycombinator.com/item?id=39942122) - [Top Israeli spy chief exposes his true identity in online security lapse](https://www.theguardian.com/world/2024/apr/05/top-israeli-spy-chief-exposes-his-true-identity-in-online-security-lapse)
 * [2024-04-05, 13:16:12](https://news.ycombinator.com/item?id=39941975) - [We need a permanent solution for universal broadband access](https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp)
 * [2024-04-05, 12:36:39](https://news.ycombinator.com/item?id=39941645) - [Apple cuts 600 jobs after dropping self-driving car plans](https://www.bbc.com/news/articles/c98rz9nq9rvo)
 * [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
