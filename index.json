@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-04-04, 05:36:46",
+      "https://news.ycombinator.com/item?id=39926908"
+    ],
+    [
+      "Securing Your Codebase",
+      "https://tattle.co.in/blog/2024-04-03-securing-feluda-pt1/"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 10:19:07",
       "https://news.ycombinator.com/item?id=39915526"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use",
       "https://fizzbee.io/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 06:02:20",
-      "https://news.ycombinator.com/item?id=39902812"
-    ],
-    [
-      "Exploring versions of the Postgres logical replication protocol",
-      "https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol"
     ]
   ]
 ]
