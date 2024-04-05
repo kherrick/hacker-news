@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 21:49:38](https://news.ycombinator.com/item?id=39947666) - [Open-Source 4WD AI Robot Kit Compatible with Raspberry Pi Models 4 and 5](https://linuxgizmos.com/open-source-4wd-ai-robot-kit-compatible-with-raspberry-pi-models-4-and-5/)
+* [2024-04-05, 21:30:45](https://news.ycombinator.com/item?id=39947485) - [How does DNS work](https://cr.yp.to/djbdns/intro-dns.html)
 * [2024-04-05, 21:03:37](https://news.ycombinator.com/item?id=39947188) - [Roku looks into serving you ads on whatever you plug into its TVs](https://www.engadget.com/roku-looks-into-serving-you-ads-on-whatever-you-plug-into-its-tvs-120016754.html)
 * [2024-04-05, 20:39:29](https://news.ycombinator.com/item?id=39946923) - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
 * [2024-04-05, 20:16:56](https://news.ycombinator.com/item?id=39946694) - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)

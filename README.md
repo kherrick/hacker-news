@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 21:49:38](https://news.ycombinator.com/item?id=39947666) - [Open-Source 4WD AI Robot Kit Compatible with Raspberry Pi Models 4 and 5](https://linuxgizmos.com/open-source-4wd-ai-robot-kit-compatible-with-raspberry-pi-models-4-and-5/)
+* [2024-04-05, 21:30:45](https://news.ycombinator.com/item?id=39947485) - [How does DNS work](https://cr.yp.to/djbdns/intro-dns.html)
 * [2024-04-05, 21:03:37](https://news.ycombinator.com/item?id=39947188) - [Roku looks into serving you ads on whatever you plug into its TVs](https://www.engadget.com/roku-looks-into-serving-you-ads-on-whatever-you-plug-into-its-tvs-120016754.html)
 * [2024-04-05, 20:39:29](https://news.ycombinator.com/item?id=39946923) - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
 * [2024-04-05, 20:16:56](https://news.ycombinator.com/item?id=39946694) - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
@@ -21,9 +23,7 @@
 * [2024-04-05, 11:13:57](https://news.ycombinator.com/item?id=39940975) - [An IRC client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego model of financial capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
-* [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing back the Somali shilling (2017)](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
-* [2024-04-04, 05:04:33](https://news.ycombinator.com/item?id=39926733) - [Speeding up autoconf with caching (2022)](https://jmmv.dev/2022/06/autoconf-caching.html)
 * [2024-04-03, 19:08:23](https://news.ycombinator.com/item?id=39921653) - [St. Louis Brick by Brick (2023)](https://beltmag.com/st-louis-brick-by-brick/)
 * [2024-04-03, 15:51:20](https://news.ycombinator.com/item?id=39919035) - [The Defenestrations of Prague (1419–1997)](https://publicdomainreview.org/essay/windows-onto-history/)
 * [2024-04-03, 13:17:05](https://news.ycombinator.com/item?id=39917061) - [Dark extinction: the problem of unknown historical extinctions (2021)](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2021.0007)
