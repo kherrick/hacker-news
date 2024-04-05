@@ -75,6 +75,7 @@
 * [2024-04-02, 13:20:21](https://news.ycombinator.com/item?id=39905441) - [Python Cloudflare Workers](https://blog.cloudflare.com/python-workers)
 * [2024-04-02, 13:15:26](https://news.ycombinator.com/item?id=39905388) - [Is MEV Possible on Bitcoin?](https://ethereum.stackexchange.com/questions/119253/is-mev-possible-on-bitcoin)
 * [2024-04-02, 13:09:42](https://news.ycombinator.com/item?id=39905335) - [Living human brain images of \"unrivaled clarity\" from new 11.7 teslas MRI](https://www.cea.fr/english/Pages/News/Iseult-MRI-Magnet-Record.aspx)
+* [2024-04-02, 12:57:40](https://news.ycombinator.com/item?id=39905211) - [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
 * [2024-04-02, 12:19:41](https://news.ycombinator.com/item?id=39904883) - [Hunting up-to-date Wikidata datasets](https://news.ycombinator.com/item?id=39904883)
 * [2024-04-02, 12:18:00](https://news.ycombinator.com/item?id=39904877) - [Unforgivable: World Central Kitchen says seven aid workers killed in Gaza strike](https://www.axios.com/2024/04/02/gaza-aid-workers-killed-strike-world-central-kitchen)
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
