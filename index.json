@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-05, 16:42:38",
+      "https://news.ycombinator.com/item?id=39944496"
+    ],
+    [
+      "The Rise and Fall of Silicon Graphics",
+      "https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 14:49:33",
       "https://news.ycombinator.com/item?id=39943062"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2024-04-05, 12:30:01",
+      "https://news.ycombinator.com/item?id=39941574"
+    ],
+    [
+      "Show HN: No-bs \"HN: Who is Hiring?\" job picks straight to your inbox",
+      "https://hnrecap.news"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 12:24:19",
       "https://news.ycombinator.com/item?id=39941524"
     ],
@@ -87,6 +107,16 @@
     [
       "Show HN: Kyoo self hosted media browser (jellyfin/plex alternative)",
       "https://github.com/zoriya/Kyoo"
+    ]
+  ],
+  [
+    [
+      "2024-04-05, 11:13:57",
+      "https://news.ycombinator.com/item?id=39940975"
+    ],
+    [
+      "An IRC Client in your motherboard",
+      "https://axleos.com/an-irc-client-in-your-motherboard/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-04-04, 19:11:41",
-      "https://news.ycombinator.com/item?id=39934584"
-    ],
-    [
-      "Understanding and managing the impact of machine learning models on the web",
-      "https://www.w3.org/reports/ai-web-impact/"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 18:00:28",
       "https://news.ycombinator.com/item?id=39933833"
     ],
@@ -207,16 +227,6 @@
     [
       "JetMoE: Reaching LLaMA2 performance with 0.1M dollars",
       "https://research.myshell.ai/jetmoe"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 15:02:59",
-      "https://news.ycombinator.com/item?id=39931315"
-    ],
-    [
-      "Runtipi: Docker-based home server management",
-      "https://runtipi.io"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Understanding Linear Feedback Shift Registers in FPGAs",
       "https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 10:45:19",
-      "https://news.ycombinator.com/item?id=39904256"
-    ],
-    [
-      "Show HN: FizzBee – Formal methods in Python",
-      "https://fizzbee.io/"
     ]
   ]
 ]
