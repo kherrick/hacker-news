@@ -89,6 +89,7 @@
 * [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing Back the Somali Shilling](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
 * [2024-04-04, 05:47:01](https://news.ycombinator.com/item?id=39926961) - [Device Bound Session Credentials Explainer](https://github.com/WICG/dbsc)
 * [2024-04-04, 05:36:46](https://news.ycombinator.com/item?id=39926908) - [Securing Your Codebase](https://tattle.co.in/blog/2024-04-03-securing-feluda-pt1/)
+* [2024-04-04, 04:59:31](https://news.ycombinator.com/item?id=39926706) - [Apple Explores Home Robotics](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts)
 * [2024-04-04, 04:53:26](https://news.ycombinator.com/item?id=39926673) - [Cally: Accessibility Statement](https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/)
 * [2024-04-04, 04:46:35](https://news.ycombinator.com/item?id=39926633) - [Washington State judge blocks use of AI-enhanced video as evidence](https://www.nbcnews.com/news/us-news/washington-state-judge-blocks-use-ai-enhanced-video-evidence-rcna141932)
 * [2024-04-04, 04:36:42](https://news.ycombinator.com/item?id=39926575) - [How to take down production with a single Helm command](https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/)
