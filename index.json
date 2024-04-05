@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-04, 21:58:01",
-      "https://news.ycombinator.com/item?id=39936291"
+      "2024-04-04, 22:10:30",
+      "https://news.ycombinator.com/item?id=39936420"
     ],
     [
-      "C but Safe",
-      "https://xr0.dev/"
+      "Executives Get Rich Making Poor Decisions – Cold Take [video]",
+      "https://www.youtube.com/watch?v=vuIitYcoSiE"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Mario meets Pareto: multi-objective optimization of Mario Kart builds",
       "https://www.mayerowitz.io/blog/mario-meets-pareto"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 21:37:00",
-      "https://news.ycombinator.com/item?id=39936064"
-    ],
-    [
-      "The Crescendo Multi-Turn LLM Jailbreak Attack",
-      "https://crescendo-the-multiturn-jailbreak.github.io//"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2024-04-04, 07:57:47",
-      "https://news.ycombinator.com/item?id=39927682"
-    ],
-    [
-      "LSST Camera: largest camera for astronomy",
-      "https://www6.slac.stanford.edu/lsst"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 10:19:07",
       "https://news.ycombinator.com/item?id=39915526"
     ],
@@ -297,6 +277,26 @@
     [
       "Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use",
       "https://fizzbee.io/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 08:34:54",
+      "https://news.ycombinator.com/item?id=39903514"
+    ],
+    [
+      "Collaborative data processing and documenting using org-babel",
+      "https://emacsconf.org/2023/talks/collab/"
+    ]
+  ],
+  [
+    [
+      "2024-04-02, 06:02:20",
+      "https://news.ycombinator.com/item?id=39902812"
+    ],
+    [
+      "Exploring versions of the Postgres logical replication protocol",
+      "https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol"
     ]
   ]
 ]
