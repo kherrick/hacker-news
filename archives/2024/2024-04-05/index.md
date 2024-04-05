@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 16:42:38](https://news.ycombinator.com/item?id=39944496) - [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
 * [2024-04-05, 15:13:29](https://news.ycombinator.com/item?id=39943408) - [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series](https://qwenlm.github.io/blog/qwen1.5-32b/)
 * [2024-04-05, 14:59:52](https://news.ycombinator.com/item?id=39943217) - [Go's Error Handling Is Perfect](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-05, 14:49:47](https://news.ycombinator.com/item?id=39943066) - [4.7 Earthquake in NYC](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=ld2009021400&extent=39.64377,-78.45886&extent=42.91218,-69.94446&range=search&sort=largest&listOnlyShown=true&baseLayer=terrain&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221900-01-01%2000:00:00%22,%22maxlatitude%22:45.176,%22minlatitude%22:40.657,%22maxlongitude%22:-71.642,%22minlongitude%22:-79.991,%22minmagnitude%22:0,%22orderby%22:%22time%22%7D%7D)
@@ -23,11 +24,13 @@
 * [2024-04-05, 13:03:44](https://news.ycombinator.com/item?id=39941859) - [Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
 * [2024-04-05, 12:59:14](https://news.ycombinator.com/item?id=39941821) - [Microsoft, Google join study to see if AI will affect jobs](https://www.washingtonpost.com/technology/2024/04/04/jobs-ai-replace-study-microsoft-google-cisco/)
 * [2024-04-05, 12:36:39](https://news.ycombinator.com/item?id=39941645) - [Apple cuts 600 jobs after dropping self-driving car plans](https://www.bbc.com/news/articles/c98rz9nq9rvo)
+* [2024-04-05, 12:30:01](https://news.ycombinator.com/item?id=39941574) - [Show HN: No-bs \"HN: Who is Hiring?\" job picks straight to your inbox](https://hnrecap.news)
 * [2024-04-05, 12:24:19](https://news.ycombinator.com/item?id=39941524) - [A Tantalizing 'Hint' That Astronomers Got Dark Energy All Wrong](https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html)
 * [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-04-05, 11:49:55](https://news.ycombinator.com/item?id=39941232) - [Show HN: Kyoo self hosted media browser (jellyfin/plex alternative)](https://github.com/zoriya/Kyoo)
 * [2024-04-05, 11:46:53](https://news.ycombinator.com/item?id=39941208) - [The economics of American lotteries (poorest 1% zip codes spends 5% of income)](https://www.economist.com/graphic-detail/2024/04/02/the-economics-of-american-lotteries)
 * [2024-04-05, 11:29:04](https://news.ycombinator.com/item?id=39941069) - [Transforming of Communist-era apartment blocks that dominate Eastern Europe](https://www.bbc.com/future/article/20240403-the-race-to-retrofit-europes-ex-communist-housing)
+* [2024-04-05, 11:13:57](https://news.ycombinator.com/item?id=39940975) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego Model of Financial Capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
 * [2024-04-05, 11:04:07](https://news.ycombinator.com/item?id=39940922) - [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
 * [2024-04-05, 10:16:38](https://news.ycombinator.com/item?id=39940707) - [Infrastructure as Code Is Not the Answer – By Luke Shaughnessy](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
