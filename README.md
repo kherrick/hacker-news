@@ -9,6 +9,7 @@
 * [2024-04-05, 13:03:44](https://news.ycombinator.com/item?id=39941859) - [Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
 * [2024-04-05, 12:59:14](https://news.ycombinator.com/item?id=39941821) - [Microsoft, Google join study to see if AI will affect jobs](https://www.washingtonpost.com/technology/2024/04/04/jobs-ai-replace-study-microsoft-google-cisco/)
 * [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2024-04-05, 11:29:04](https://news.ycombinator.com/item?id=39941069) - [Transforming of Communist-era apartment blocks that dominate Eastern Europe](https://www.bbc.com/future/article/20240403-the-race-to-retrofit-europes-ex-communist-housing)
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego Model of Financial Capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
@@ -27,7 +28,6 @@
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-03, 13:17:05](https://news.ycombinator.com/item?id=39917061) - [Dark extinction: the problem of unknown historical extinctions (2021)](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2021.0007)
 * [2024-04-03, 11:14:49](https://news.ycombinator.com/item?id=39915932) - [Understanding Linear Feedback Shift Registers in FPGAs](https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register)
-* [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python](https://fizzbee.io/)
 * [2024-04-02, 08:08:28](https://news.ycombinator.com/item?id=39903393) - [The Submarine (2005)](https://paulgraham.com/submarine.html)
 
