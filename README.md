@@ -21,7 +21,7 @@
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego model of financial capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
-* [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing back the Somali shilling](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
+* [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing back the Somali shilling (2017)](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
 * [2024-04-04, 05:04:33](https://news.ycombinator.com/item?id=39926733) - [Speeding up autoconf with caching (2022)](https://jmmv.dev/2022/06/autoconf-caching.html)
 * [2024-04-03, 19:08:23](https://news.ycombinator.com/item?id=39921653) - [St. Louis Brick by Brick (2023)](https://beltmag.com/st-louis-brick-by-brick/)
 * [2024-04-03, 15:51:20](https://news.ycombinator.com/item?id=39919035) - [The Defenestrations of Prague (1419–1997)](https://publicdomainreview.org/essay/windows-onto-history/)
