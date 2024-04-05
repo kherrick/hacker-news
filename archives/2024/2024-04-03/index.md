@@ -109,6 +109,7 @@
 * [2024-04-03, 09:13:17](https://news.ycombinator.com/item?id=39915066) - [A Cheat Sheet to Database Access Control: PostgreSQL](https://thenewstack.io/a-cheat-sheet-to-database-access-control-postgresql/)
 * [2024-04-03, 08:56:14](https://news.ycombinator.com/item?id=39914981) - [Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 * [2024-04-03, 08:27:49](https://news.ycombinator.com/item?id=39914851) - [When Will the GenAI Bubble Burst?](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst)
+* [2024-04-03, 08:14:29](https://news.ycombinator.com/item?id=39914783) - [White House directs NASA to create time standard for the moon](https://www.reuters.com/science/white-house-directs-nasa-create-time-standard-moon-2024-04-02/)
 * [2024-04-03, 07:47:56](https://news.ycombinator.com/item?id=39914644) - [A first look at Europe's alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
 * [2024-04-03, 07:37:29](https://news.ycombinator.com/item?id=39914592) - [Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M](https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04)
 * [2024-04-03, 07:15:29](https://news.ycombinator.com/item?id=39914478) - [Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs](https://www.theregister.com/2024/04/01/rickroll_meme_asic/)
