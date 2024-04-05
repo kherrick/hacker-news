@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-04-05, 14:49:47",
+      "https://news.ycombinator.com/item?id=39943066"
+    ],
+    [
+      "4.7 Earthquake in NYC",
+      "https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=ld2009021400&extent=39.64377,-78.45886&extent=42.91218,-69.94446&range=search&sort=largest&listOnlyShown=true&baseLayer=terrain&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221900-01-01%2000:00:00%22,%22maxlatitude%22:45.176,%22minlatitude%22:40.657,%22maxlongitude%22:-71.642,%22minlongitude%22:-79.991,%22minmagnitude%22:0,%22orderby%22:%22time%22%7D%7D"
+    ]
+  ],
+  [
+    [
+      "2024-04-05, 14:43:59",
+      "https://news.ycombinator.com/item?id=39943001"
+    ],
+    [
+      "Tremor Shakes NYC",
+      "https://ny1.com/nyc/all-boroughs/news/2024/04/05/earthquake-shakes-new-york-city-area"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 14:34:13",
       "https://news.ycombinator.com/item?id=39942880"
     ],
     [
-      "M 4.7 Earthquake 5 Km NE of Lebanon, New Jersey – USGS",
+      "M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS",
       "https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive"
     ]
   ],
@@ -37,6 +57,16 @@
     [
       "Ask HN: What is the most useless project you have been working on?",
       "https://news.ycombinator.com/item?id=39942397"
+    ]
+  ],
+  [
+    [
+      "2024-04-05, 13:52:04",
+      "https://news.ycombinator.com/item?id=39942387"
+    ],
+    [
+      "Rich Harris: Svelte parses HTML all wrong",
+      "https://github.com/sveltejs/svelte/issues/11052"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2024-04-04, 21:35:17",
-      "https://news.ycombinator.com/item?id=39936048"
-    ],
-    [
-      "Tool Use (function calling)",
-      "https://docs.anthropic.com/claude/docs/tool-use"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 19:46:44",
-      "https://news.ycombinator.com/item?id=39934956"
-    ],
-    [
-      "Language models as compilers: Simulating pseudocode execution",
-      "https://arxiv.org/abs/2404.02575"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 18:00:28",
       "https://news.ycombinator.com/item?id=39933833"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2024-04-04, 14:32:50",
-      "https://news.ycombinator.com/item?id=39930919"
-    ],
-    [
-      "HTTP/2 Continuation Flood: Technical Details",
-      "https://nowotarski.info/http2-continuation-flood-technical-details/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 14:30:32",
-      "https://news.ycombinator.com/item?id=39930887"
-    ],
-    [
-      "The Great American Rail-Trail",
-      "https://www.railstotrails.org/site/greatamericanrailtrail/content/route/"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 13:32:03",
       "https://news.ycombinator.com/item?id=39930195"
     ],
@@ -267,6 +257,16 @@
     [
       "Anatomy of a credit card rewards program",
       "https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 06:01:05",
+      "https://news.ycombinator.com/item?id=39927040"
+    ],
+    [
+      "Bringing Back the Somali Shilling",
+      "http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html"
     ]
   ],
   [
