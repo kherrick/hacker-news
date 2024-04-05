@@ -2,8 +2,9 @@
 
 * [2024-04-05, 22:27:59](https://news.ycombinator.com/item?id=39948044) - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 * [2024-04-05, 22:21:28](https://news.ycombinator.com/item?id=39947981) - [EV bargains to be found as Hertz sells off some of its electric cars](https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/)
-* [2024-04-05, 22:12:20](https://news.ycombinator.com/item?id=39947894) - [Why the Arabic World Turned Away from Science](https://www.thenewatlantis.com/publications/why-the-arabic-world-turned-away-from-science)
+* [2024-04-05, 22:12:20](https://news.ycombinator.com/item?id=39947894) - [Why the Arabic World Turned Away from Science (2011)](https://www.thenewatlantis.com/publications/why-the-arabic-world-turned-away-from-science)
 * [2024-04-05, 22:07:55](https://news.ycombinator.com/item?id=39947843) - [A stealth attack came close to compromising the Internet](https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers)
+* [2024-04-05, 20:39:29](https://news.ycombinator.com/item?id=39946923) - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
 * [2024-04-05, 20:16:56](https://news.ycombinator.com/item?id=39946694) - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
 * [2024-04-05, 19:30:30](https://news.ycombinator.com/item?id=39946169) - [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
 * [2024-04-05, 19:27:49](https://news.ycombinator.com/item?id=39946137) - [Breakthrough drug trial saw cancer vanish in every patient (2022)](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
@@ -22,7 +23,6 @@
 * [2024-04-05, 11:13:57](https://news.ycombinator.com/item?id=39940975) - [An IRC client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego model of financial capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
-* [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing back the Somali shilling (2017)](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
 * [2024-04-03, 20:44:38](https://news.ycombinator.com/item?id=39922854) - [When William met Sigmund (2010)](http://thesecondpass.com/?p=6447)
 * [2024-04-03, 19:08:23](https://news.ycombinator.com/item?id=39921653) - [St. Louis Brick by Brick (2023)](https://beltmag.com/st-louis-brick-by-brick/)
