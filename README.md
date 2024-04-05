@@ -2,11 +2,11 @@
 
 * [2024-04-05, 01:33:14](https://news.ycombinator.com/item?id=39937826) - [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)
 * [2024-04-05, 01:04:08](https://news.ycombinator.com/item?id=39937666) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
-* [2024-04-05, 00:51:51](https://news.ycombinator.com/item?id=39937598) - [Ask HN: For those with a successful Show HN, what happened next?](https://news.ycombinator.com/item?id=39937598)
 * [2024-04-05, 00:21:06](https://news.ycombinator.com/item?id=39937427) - [Big Tech Is Trying to Prevent Debate About Its Social Harms](https://foreignpolicy.com/2024/04/04/big-tech-digital-trade-regulation/)
 * [2024-04-04, 21:57:29](https://news.ycombinator.com/item?id=39936284) - [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
 * [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
+* [2024-04-04, 19:39:30](https://news.ycombinator.com/item?id=39934881) - [S l o w r o a d s](https://slowroads.io/)
 * [2024-04-04, 19:23:00](https://news.ycombinator.com/item?id=39934696) - [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 19:06:40](https://news.ycombinator.com/item?id=39934533) - [Rejuvenating the Blood Cell Population](https://www.science.org/content/blog-post/rejuvenating-blood-cell-population)

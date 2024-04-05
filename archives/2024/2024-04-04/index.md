@@ -18,6 +18,7 @@
 * [2024-04-04, 20:38:51](https://news.ycombinator.com/item?id=39935519) - [The Rise of the Remote Husband](https://www.economist.com/united-states/2024/04/04/the-rise-of-the-remote-husband)
 * [2024-04-04, 19:57:39](https://news.ycombinator.com/item?id=39935090) - [Amazon's \"Just Walk Out\" checkout turns out to be 1000 workers watching you shop](https://boingboing.net/2024/04/03/amazons-ai-powered-just-walk-outcheckout-option-turns-out-to-be-1000-workers-watching-you-shop.html)
 * [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language Models as Compilers](https://arxiv.org/abs/2404.02575)
+* [2024-04-04, 19:39:30](https://news.ycombinator.com/item?id=39934881) - [S l o w r o a d s](https://slowroads.io/)
 * [2024-04-04, 19:23:00](https://news.ycombinator.com/item?id=39934696) - [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 * [2024-04-04, 19:21:59](https://news.ycombinator.com/item?id=39934684) - [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
