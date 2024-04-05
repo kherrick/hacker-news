@@ -14,6 +14,7 @@
 * [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 * [2024-04-05, 13:34:43](https://news.ycombinator.com/item?id=39942187) - [WindCon2024: A Joke Too Far for Many](https://blog.windscribe.com/a-joke-too-far/)
 * [2024-04-05, 13:28:55](https://news.ycombinator.com/item?id=39942122) - [Top Israeli spy chief exposes his true identity in online security lapse](https://www.theguardian.com/world/2024/apr/05/top-israeli-spy-chief-exposes-his-true-identity-in-online-security-lapse)
+* [2024-04-05, 13:27:02](https://news.ycombinator.com/item?id=39942104) - [Big Tech's underground race to buy AI training data](https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/)
 * [2024-04-05, 13:16:12](https://news.ycombinator.com/item?id=39941975) - [We need a permanent solution for universal broadband access](https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp)
 * [2024-04-05, 13:03:44](https://news.ycombinator.com/item?id=39941859) - [Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
 * [2024-04-05, 12:59:14](https://news.ycombinator.com/item?id=39941821) - [Microsoft, Google join study to see if AI will affect jobs](https://www.washingtonpost.com/technology/2024/04/04/jobs-ai-replace-study-microsoft-google-cisco/)
