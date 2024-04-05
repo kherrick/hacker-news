@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-05, 08:35:25](https://news.ycombinator.com/item?id=39940017) - [GitHub is down](https://www.githubstatus.com/incidents/bnkkbj90yhz6)
 * [2024-04-05, 05:49:56](https://news.ycombinator.com/item?id=39939061) - [Alcohol Use and Mortality Among Couples in US: Individual and Partner Effects](https://academic.oup.com/gerontologist/article-abstract/64/2/gnad101/7230161)
 * [2024-04-05, 04:31:04](https://news.ycombinator.com/item?id=39938703) - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 * [2024-04-05, 03:37:14](https://news.ycombinator.com/item?id=39938452) - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
@@ -18,6 +17,7 @@
 * [2024-04-04, 19:06:40](https://news.ycombinator.com/item?id=39934533) - [Rejuvenating the blood cell population](https://www.science.org/content/blog-post/rejuvenating-blood-cell-population)
 * [2024-04-04, 18:58:05](https://news.ycombinator.com/item?id=39934434) - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The design philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
+* [2024-04-04, 17:46:43](https://news.ycombinator.com/item?id=39933660) - [XDP for game programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [JetMoE: Reaching LLaMA2 performance with 0.1M dollars](https://research.myshell.ai/jetmoe)
 * [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-based home server management](https://runtipi.io)
 * [2024-04-04, 14:32:50](https://news.ycombinator.com/item?id=39930919) - [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
