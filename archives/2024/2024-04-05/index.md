@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 10:16:38](https://news.ycombinator.com/item?id=39940707) - [Infrastructure as Code Is Not the Answer – By Luke Shaughnessy](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
 * [2024-04-05, 09:48:40](https://news.ycombinator.com/item?id=39940547) - [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/)
 * [2024-04-05, 09:47:47](https://news.ycombinator.com/item?id=39940541) - [Ask HN: I want to put free WiFi in schools in my city, how do I go about it?](https://news.ycombinator.com/item?id=39940541)
 * [2024-04-05, 08:35:25](https://news.ycombinator.com/item?id=39940017) - [GitHub is down](https://www.githubstatus.com/incidents/bnkkbj90yhz6)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 10:16:38](https://news.ycombinator.com/item?id=39940707) - [Infrastructure as Code Is Not the Answer – By Luke Shaughnessy](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
 * [2024-04-05, 09:47:47](https://news.ycombinator.com/item?id=39940541) - [Ask HN: I want to put free WiFi in schools in my city, how do I go about it?](https://news.ycombinator.com/item?id=39940541)
 * [2024-04-05, 07:06:21](https://news.ycombinator.com/item?id=39939477) - [Features I wish PostgreSQL had as a developer](https://www.bytebase.com/blog/features-i-wish-postgres-had/)
 * [2024-04-05, 06:44:01](https://news.ycombinator.com/item?id=39939363) - [Proton Mail says Outlook for Windows is Microsoft's new data collection service](https://www.ghacks.net/2024/01/12/proton-mail-says-that-the-new-outlook-app-for-windows-is-microsofts-new-data-collection-service/)
@@ -15,9 +16,7 @@
 * [2024-04-04, 21:53:32](https://news.ycombinator.com/item?id=39936246) - [Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 * [2024-04-04, 21:35:17](https://news.ycombinator.com/item?id=39936048) - [Tool Use (function calling)](https://docs.anthropic.com/claude/docs/tool-use)
 * [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
-* [2024-04-04, 19:39:30](https://news.ycombinator.com/item?id=39934881) - [Slowroads](https://slowroads.io/)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
-* [2024-04-04, 19:06:40](https://news.ycombinator.com/item?id=39934533) - [Rejuvenating the blood cell population](https://www.science.org/content/blog-post/rejuvenating-blood-cell-population)
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The design philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 * [2024-04-04, 17:46:43](https://news.ycombinator.com/item?id=39933660) - [XDP for game programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [JetMoE: Reaching LLaMA2 performance with 0.1M dollars](https://research.myshell.ai/jetmoe)
@@ -30,6 +29,7 @@
 * [2024-04-02, 19:57:37](https://news.ycombinator.com/item?id=39910208) - [Letting go of the idea of keeping up](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
 * [2024-04-02, 12:17:42](https://news.ycombinator.com/item?id=39904872) - [A Lifetime Under the Moon's Shadow](https://www.nytimes.com/2024/04/02/science/eclipse-chasers-jay-pasachoff.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python](https://fizzbee.io/)
+* [2024-04-02, 06:45:46](https://news.ycombinator.com/item?id=39903004) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 
 ## [Archives](archives/index.md)
 

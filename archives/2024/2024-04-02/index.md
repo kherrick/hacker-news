@@ -100,6 +100,7 @@
 * [2024-04-02, 07:43:40](https://news.ycombinator.com/item?id=39903267) - [Show HN: Docfd: TUI multiline fuzzy document finder](https://github.com/darrenldl/docfd)
 * [2024-04-02, 07:33:03](https://news.ycombinator.com/item?id=39903216) - [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
 * [2024-04-02, 06:58:36](https://news.ycombinator.com/item?id=39903056) - [KraftCloud](https://github.com/unikraft/unikraft)
+* [2024-04-02, 06:45:46](https://news.ycombinator.com/item?id=39903004) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 * [2024-04-02, 06:35:03](https://news.ycombinator.com/item?id=39902949) - [Unikraft Launches KraftCloud: Never Pay for Idle Again](https://news.ycombinator.com/item?id=39902949)
 * [2024-04-02, 06:13:23](https://news.ycombinator.com/item?id=39902854) - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 * [2024-04-02, 06:02:20](https://news.ycombinator.com/item?id=39902812) - [Exploring versions of the Postgres logical replication protocol](https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol)
