@@ -1,15 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 17:00:39](https://news.ycombinator.com/item?id=39944658) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-04-05, 16:42:38](https://news.ycombinator.com/item?id=39944496) - [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
-* [2024-04-05, 14:49:33](https://news.ycombinator.com/item?id=39943062) - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
+* [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 * [2024-04-05, 13:27:02](https://news.ycombinator.com/item?id=39942104) - [Big Tech's underground race to buy AI training data](https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/)
 * [2024-04-05, 13:22:32](https://news.ycombinator.com/item?id=39942052) - [Jedi Knight (Plus, Notes on an Expanded Universe)](https://www.filfre.net/2024/04/jedi-knight-plus-notes-on-an-expanded-universe/)
 * [2024-04-05, 13:03:44](https://news.ycombinator.com/item?id=39941859) - [Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
-* [2024-04-05, 12:30:01](https://news.ycombinator.com/item?id=39941574) - [Show HN: No-bs \"HN: Who is Hiring?\" job picks straight to your inbox](https://hnrecap.news)
 * [2024-04-05, 12:24:19](https://news.ycombinator.com/item?id=39941524) - [A Tantalizing 'Hint' That Astronomers Got Dark Energy All Wrong](https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html)
-* [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-04-05, 11:49:55](https://news.ycombinator.com/item?id=39941232) - [Show HN: Kyoo self hosted media browser (jellyfin/plex alternative)](https://github.com/zoriya/Kyoo)
 * [2024-04-05, 11:13:57](https://news.ycombinator.com/item?id=39940975) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego Model of Financial Capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
@@ -30,6 +29,7 @@
 * [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing Back the Somali Shilling](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
 * [2024-04-03, 13:17:05](https://news.ycombinator.com/item?id=39917061) - [Dark extinction: the problem of unknown historical extinctions (2021)](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2021.0007)
 * [2024-04-03, 11:14:49](https://news.ycombinator.com/item?id=39915932) - [Understanding Linear Feedback Shift Registers in FPGAs](https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register)
+* [2024-04-03, 08:46:38](https://news.ycombinator.com/item?id=39914929) - [Show HN: Fancy-ANSI – Small JavaScript library for converting ANSI to HTML](https://github.com/kubetail-org/fancy-ansi)
 
 ## [Archives](archives/index.md)
 

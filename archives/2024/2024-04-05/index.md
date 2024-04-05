@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 17:00:39](https://news.ycombinator.com/item?id=39944658) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-04-05, 16:42:38](https://news.ycombinator.com/item?id=39944496) - [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
+* [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 15:13:29](https://news.ycombinator.com/item?id=39943408) - [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series](https://qwenlm.github.io/blog/qwen1.5-32b/)
 * [2024-04-05, 14:59:52](https://news.ycombinator.com/item?id=39943217) - [Go's Error Handling Is Perfect](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-05, 14:49:47](https://news.ycombinator.com/item?id=39943066) - [4.7 Earthquake in NYC](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=ld2009021400&extent=39.64377,-78.45886&extent=42.91218,-69.94446&range=search&sort=largest&listOnlyShown=true&baseLayer=terrain&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221900-01-01%2000:00:00%22,%22maxlatitude%22:45.176,%22minlatitude%22:40.657,%22maxlongitude%22:-71.642,%22minlongitude%22:-79.991,%22minmagnitude%22:0,%22orderby%22:%22time%22%7D%7D)
