@@ -6,6 +6,7 @@
 
 * [2024-04-05, 13:57:58](https://news.ycombinator.com/item?id=39942460) - [Amazon increased US plastic packaging despite global phase-out](https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us)
 * [2024-04-05, 13:55:23](https://news.ycombinator.com/item?id=39942418) - [RubyGems is not vulnerable to the xz/liblzma backdoor](https://blog.rubygems.org/2024/03/31/rubygems-and-xz.html)
+* [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have been working on?](https://news.ycombinator.com/item?id=39942397)
 * [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 * [2024-04-05, 13:34:43](https://news.ycombinator.com/item?id=39942187) - [WindCon2024: A Joke Too Far for Many](https://blog.windscribe.com/a-joke-too-far/)
 * [2024-04-05, 13:28:55](https://news.ycombinator.com/item?id=39942122) - [Top Israeli spy chief exposes his true identity in online security lapse](https://www.theguardian.com/world/2024/apr/05/top-israeli-spy-chief-exposes-his-true-identity-in-online-security-lapse)
