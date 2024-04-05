@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-05, 15:13:29](https://news.ycombinator.com/item?id=39943408) - [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series](https://qwenlm.github.io/blog/qwen1.5-32b/)
 * [2024-04-05, 14:49:33](https://news.ycombinator.com/item?id=39943062) - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 * [2024-04-05, 14:34:13](https://news.ycombinator.com/item?id=39942880) - [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 * [2024-04-05, 13:43:14](https://news.ycombinator.com/item?id=39942288) - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
@@ -20,6 +19,7 @@
 * [2024-04-04, 19:46:44](https://news.ycombinator.com/item?id=39934956) - [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
 * [2024-04-04, 19:11:41](https://news.ycombinator.com/item?id=39934584) - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 18:00:28](https://news.ycombinator.com/item?id=39933833) - [The design philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
+* [2024-04-04, 17:46:43](https://news.ycombinator.com/item?id=39933660) - [XDP for game programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
 * [2024-04-04, 17:04:21](https://news.ycombinator.com/item?id=39933076) - [JetMoE: Reaching LLaMA2 performance with 0.1M dollars](https://research.myshell.ai/jetmoe)
 * [2024-04-04, 15:02:59](https://news.ycombinator.com/item?id=39931315) - [Runtipi: Docker-based home server management](https://runtipi.io)
 * [2024-04-04, 14:32:50](https://news.ycombinator.com/item?id=39930919) - [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
