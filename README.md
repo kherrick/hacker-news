@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-05, 19:27:49](https://news.ycombinator.com/item?id=39946137) - [Breakthrough drug trial saw cancer vanish in every patient](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
-* [2024-04-05, 19:08:38](https://news.ycombinator.com/item?id=39945918) - [Guide to bourbon](https://www.seriouseats.com/serious-eats-guide-to-bourbon-what-is-bourbon-history-whiskey-cocktails)
 * [2024-04-05, 18:15:34](https://news.ycombinator.com/item?id=39945375) - [Should employers pay for employees' phones if 2FA apps are required?](https://news.ycombinator.com/item?id=39945375)
 * [2024-04-05, 17:45:42](https://news.ycombinator.com/item?id=39945126) - [Themes from (and Beyond) Altitude Cyber's 2023 Cybersecurity Year in Review](https://strategyofsecurity.com/themes-from-and-beyond-altitude-cybers-2023-cybersecurity-year-in-review/)
 * [2024-04-05, 17:43:52](https://news.ycombinator.com/item?id=39945104) - [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
@@ -18,7 +18,6 @@
 * [2024-04-05, 11:49:55](https://news.ycombinator.com/item?id=39941232) - [Show HN: Kyoo – Self-hosted media browser (Jellyfin/Plex alternative)](https://github.com/zoriya/Kyoo)
 * [2024-04-05, 11:13:57](https://news.ycombinator.com/item?id=39940975) - [An IRC client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 11:10:47](https://news.ycombinator.com/item?id=39940959) - [A Lego model of financial capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
-* [2024-04-04, 11:21:04](https://news.ycombinator.com/item?id=39928894) - [Oh No Robot: Comics search](https://www.ohnorobot.com/)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing back the Somali shilling](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
@@ -28,6 +27,7 @@
 * [2024-04-03, 15:51:20](https://news.ycombinator.com/item?id=39919035) - [The Defenestrations of Prague (1419–1997)](https://publicdomainreview.org/essay/windows-onto-history/)
 * [2024-04-03, 13:17:05](https://news.ycombinator.com/item?id=39917061) - [Dark extinction: the problem of unknown historical extinctions (2021)](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2021.0007)
 * [2024-04-03, 08:46:38](https://news.ycombinator.com/item?id=39914929) - [Show HN: Fancy-ANSI – Small JavaScript library for converting ANSI to HTML](https://github.com/kubetail-org/fancy-ansi)
+* [2024-04-03, 08:13:40](https://news.ycombinator.com/item?id=39914776) - [Philly Typewriter](https://www.atlasobscura.com/places/philly-typewriter-philadelphia)
 * [2024-04-03, 08:09:53](https://news.ycombinator.com/item?id=39914756) - [A lazy and flippant classification of programming languages](https://blog.brycekerley.net/2024/04/01/p-langs.html)
 * [2024-04-02, 12:57:40](https://news.ycombinator.com/item?id=39905211) - [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
 

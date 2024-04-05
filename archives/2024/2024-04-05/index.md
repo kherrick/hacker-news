@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 19:27:49](https://news.ycombinator.com/item?id=39946137) - [Breakthrough drug trial saw cancer vanish in every patient](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
 * [2024-04-05, 19:08:38](https://news.ycombinator.com/item?id=39945918) - [Guide to Bourbon](https://www.seriouseats.com/serious-eats-guide-to-bourbon-what-is-bourbon-history-whiskey-cocktails)
 * [2024-04-05, 19:01:34](https://news.ycombinator.com/item?id=39945841) - [Meta's AI image generator can't imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
