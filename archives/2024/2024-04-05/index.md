@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 12:36:39](https://news.ycombinator.com/item?id=39941645) - [Apple cuts 600 jobs after dropping self-driving car plans](https://www.bbc.com/news/articles/c98rz9nq9rvo)
 * [2024-04-05, 12:00:10](https://news.ycombinator.com/item?id=39941303) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-04-05, 11:46:53](https://news.ycombinator.com/item?id=39941208) - [The economics of American lotteries (poorest 1% zip codes spends 5% of income)](https://www.economist.com/graphic-detail/2024/04/02/the-economics-of-american-lotteries)
 * [2024-04-05, 11:04:07](https://news.ycombinator.com/item?id=39940922) - [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
