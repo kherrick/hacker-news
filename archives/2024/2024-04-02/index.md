@@ -85,6 +85,7 @@
 * [2024-04-02, 11:01:14](https://news.ycombinator.com/item?id=39904360) - [Dragon's Dogma 2's combat is sloppy and unrefined – on purpose](https://www.polygon.com/24114455/dragons-dogma-2-combat-jank)
 * [2024-04-02, 10:46:09](https://news.ycombinator.com/item?id=39904266) - [The IT Productivity Paradox](https://cs.stanford.edu/people/eroberts/cs201/projects/productivity-paradox/background.html)
 * [2024-04-02, 10:45:19](https://news.ycombinator.com/item?id=39904256) - [Show HN: FizzBee – Formal methods in Python – Easiest Lang for everyday use](https://fizzbee.io/)
+* [2024-04-02, 10:42:17](https://news.ycombinator.com/item?id=39904234) - [I am not a supplier – Musings about software](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2024-04-02, 10:37:45](https://news.ycombinator.com/item?id=39904205) - [Breaking Silos](https://blog.bracha.org/primordialsoup.html?snapshot=AmpleforthViewer.vfuel&docName=BreakingSilos)
 * [2024-04-02, 10:35:59](https://news.ycombinator.com/item?id=39904189) - [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 * [2024-04-02, 09:52:24](https://news.ycombinator.com/item?id=39903928) - [Redis' license change and forking are a mess that everybody can feel bad about](https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/)
