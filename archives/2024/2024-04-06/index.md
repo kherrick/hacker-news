@@ -16,6 +16,7 @@
 * [2024-04-06, 19:40:50](https://news.ycombinator.com/item?id=39954849) - [What is the most useful project you have worked on?](https://news.ycombinator.com/item?id=39954849)
 * [2024-04-06, 19:37:47](https://news.ycombinator.com/item?id=39954823) - [Teachers are using AI to grade essays. Some experts are raising ethical concerns](https://www.cnn.com/2024/04/06/tech/teachers-grading-ai/index.html)
 * [2024-04-06, 19:23:18](https://news.ycombinator.com/item?id=39954724) - [Namecheap Disrupting Itself with Spaceship](https://twitter.com/NamecheapCEO/status/1776484212629004385)
+* [2024-04-06, 19:08:37](https://news.ycombinator.com/item?id=39954636) - [Why are kids being forced to eat lunch in silence?](https://www.theguardian.com/us-news/2024/apr/04/silent-school-lunch-kids-mental-health)
 * [2024-04-06, 18:54:41](https://news.ycombinator.com/item?id=39954541) - [Brutalist Hacker News](https://github.com/wkyleg/brutalist-hacker-news)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 18:34:12](https://news.ycombinator.com/item?id=39954398) - [Facebook Is Censoring Stories about Climate Change and Illegal Raid](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
