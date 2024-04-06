@@ -1,15 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-06, 21:08:42](https://news.ycombinator.com/item?id=39955569) - [After shooting, MSU promised safety. It delivered surveillance](https://statenews.com/article/2024/04/after-shooting-msu-promised-safety-it-delivered-surveillance?ct=content_open&cv=cbox_featured)
 * [2024-04-06, 20:24:31](https://news.ycombinator.com/item?id=39955189) - [Trademark bully': Momofuku turns up heat on others selling 'chili crunch'](https://www.theguardian.com/food/2024/apr/04/chili-crunch-trademark-momofuku-david-chang)
 * [2024-04-06, 20:18:58](https://news.ycombinator.com/item?id=39955148) - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
 * [2024-04-06, 19:44:14](https://news.ycombinator.com/item?id=39954881) - [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
+* [2024-04-06, 19:37:47](https://news.ycombinator.com/item?id=39954823) - [Teachers are using AI to grade essays. Some experts are raising ethical concerns](https://www.cnn.com/2024/04/06/tech/teachers-grading-ai/index.html)
 * [2024-04-06, 19:23:18](https://news.ycombinator.com/item?id=39954724) - [Namecheap Disrupting Itself with Spaceship](https://twitter.com/NamecheapCEO/status/1776484212629004385)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 18:22:00](https://news.ycombinator.com/item?id=39954333) - [What to do when an airline website doesn't accept your legal name](https://www.preethamrn.com/posts/southwest-flight-bug)
-* [2024-04-06, 17:58:15](https://news.ycombinator.com/item?id=39954149) - [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols (2023)](https://programming-journal.org/2023/7/6/)
-* [2024-04-06, 17:43:36](https://news.ycombinator.com/item?id=39954026) - [Cybersecurity Is Broken](https://crankysec.com/blog/broken/)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
 * [2024-04-06, 15:47:02](https://news.ycombinator.com/item?id=39953207) - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 * [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Home insurers are dropping customers based on aerial images](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
@@ -19,6 +17,7 @@
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:26:05](https://news.ycombinator.com/item?id=39951990) - [Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
 * [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [Loki: An open-source tool for fact verification](https://github.com/Libr-AI/OpenFactVerification)
+* [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
 * [2024-04-06, 07:58:13](https://news.ycombinator.com/item?id=39950812) - [PID Controller Explainer (2022)](https://ben.bolte.cc/pid-controller)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
@@ -30,6 +29,7 @@
 * [2024-04-04, 10:24:47](https://news.ycombinator.com/item?id=39928542) - [PostgreSQL and Its Annoying Crosstab](https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 * [2024-04-04, 08:00:53](https://news.ycombinator.com/item?id=39927698) - [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/)
+* [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 
 ## [Archives](archives/index.md)
 

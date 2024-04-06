@@ -12,6 +12,7 @@
 * [2024-04-06, 19:50:14](https://news.ycombinator.com/item?id=39954926) - [Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution](https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/)
 * [2024-04-06, 19:44:14](https://news.ycombinator.com/item?id=39954881) - [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
 * [2024-04-06, 19:40:50](https://news.ycombinator.com/item?id=39954849) - [What is the most useful project you have worked on?](https://news.ycombinator.com/item?id=39954849)
+* [2024-04-06, 19:37:47](https://news.ycombinator.com/item?id=39954823) - [Teachers are using AI to grade essays. Some experts are raising ethical concerns](https://www.cnn.com/2024/04/06/tech/teachers-grading-ai/index.html)
 * [2024-04-06, 19:23:18](https://news.ycombinator.com/item?id=39954724) - [Namecheap Disrupting Itself with Spaceship](https://twitter.com/NamecheapCEO/status/1776484212629004385)
 * [2024-04-06, 18:54:41](https://news.ycombinator.com/item?id=39954541) - [Brutalist Hacker News](https://github.com/wkyleg/brutalist-hacker-news)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
