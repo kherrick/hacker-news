@@ -9,6 +9,7 @@
 * [2024-04-03, 23:21:51](https://news.ycombinator.com/item?id=39924634) - [Roblox Accused of Concocting Illegal Gambling Ring for Minors](https://news.bloomberglaw.com/privacy-and-data-security/roblox-accused-of-concocting-illegal-gambling-ring-for-minors)
 * [2024-04-03, 23:16:27](https://news.ycombinator.com/item?id=39924574) - [Henry Darger](https://www.moma.org/artists/28600)
 * [2024-04-03, 22:52:41](https://news.ycombinator.com/item?id=39924362) - [PHP: The Right Way](https://phptherightway.com/)
+* [2024-04-03, 22:48:57](https://news.ycombinator.com/item?id=39924332) - [Science Saved the World (2000)](https://www.nature.com/articles/83892)
 * [2024-04-03, 22:48:29](https://news.ycombinator.com/item?id=39924323) - [A viral $22 burrito explains inflation in the US](https://www.theguardian.com/food/ng-interactive/2024/mar/27/burrito-price-inflation-vaca-birria-san-francisco)
 * [2024-04-03, 22:38:38](https://news.ycombinator.com/item?id=39924210) - [Strudel: A live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
 * [2024-04-03, 22:34:56](https://news.ycombinator.com/item?id=39924168) - [Patient with Transplanted Pig Kidney Leaves Hospital for Home](https://www.nytimes.com/2024/04/03/health/pig-kidney-transplant-slayman.html)

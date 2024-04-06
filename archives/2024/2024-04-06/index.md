@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 14:16:49](https://news.ycombinator.com/item?id=39952611) - [Text Manipulation in Linux: Awk vs. Sed](https://www.linuxjournal.com/content/text-manipulation-linux-awk-vs-sed)
+* [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
 * [2024-04-06, 14:07:28](https://news.ycombinator.com/item?id=39952533) - [ESR is building an autotools killer](https://twitter.com/esrtweet/status/1776587609021514215)
 * [2024-04-06, 13:53:02](https://news.ycombinator.com/item?id=39952453) - [Netflix's '3 Body Problem' Has Chilling Social Media Parallels](https://reason.com/2024/04/03/the-3-body-problems-chilling-social-media-parallel/)
 * [2024-04-06, 13:26:39](https://news.ycombinator.com/item?id=39952299) - [Ask HN: How do I find a job, in this market with ADHD](https://news.ycombinator.com/item?id=39952299)
