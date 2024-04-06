@@ -20,6 +20,7 @@
 * [2024-04-06, 08:33:23](https://news.ycombinator.com/item?id=39950955) - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
 * [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
 * [2024-04-06, 08:00:25](https://news.ycombinator.com/item?id=39950823) - [Support for Windows 10 will end in October 2025](https://www.microsoft.com/en-sg/windows/end-of-support)
+* [2024-04-06, 07:57:01](https://news.ycombinator.com/item?id=39950805) - [Show HN: A url only notepad that hosts itself](https://github.com/con-dog/serverless-architecture)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-06, 07:29:36](https://news.ycombinator.com/item?id=39950683) - [Ask HN: How do I learn more about LLMs and ML?](https://news.ycombinator.com/item?id=39950683)
