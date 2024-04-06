@@ -45,8 +45,18 @@
       "https://news.ycombinator.com/item?id=39951086"
     ],
     [
-      "The 37signals Guide to Internal Communication",
+      "How we communicate",
       "https://37signals.com/how-we-communicate"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 08:46:52",
+      "https://news.ycombinator.com/item?id=39950989"
+    ],
+    [
+      "Programming with DOS Debugger (2003)",
+      "https://susam.net/programming-with-dos-debugger.html"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "A History of Source Control Systems: SCCS and RCS",
       "https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 07:03:43",
-      "https://news.ycombinator.com/item?id=39950579"
-    ],
-    [
-      "Ownership in Rust",
-      "https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39904234"
     ],
     [
-      "I am not a supplier – Musings about software",
+      "I am not a supplier (2022)",
       "https://www.softwaremaxims.com/blog/not-a-supplier"
     ]
   ],
