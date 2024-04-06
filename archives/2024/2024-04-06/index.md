@@ -9,6 +9,7 @@
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
 * [2024-04-06, 16:42:03](https://news.ycombinator.com/item?id=39953581) - [Slides from a lecture series on algebraic geometry for computer graphics (2022)](https://courses.cs.washington.edu/courses/cse590b/13au/)
 * [2024-04-06, 16:31:13](https://news.ycombinator.com/item?id=39953518) - [Citizen scientist has measured Rockies snowfall for 50 years](https://apnews.com/article/citizen-scientist-snow-rocky-mountains-drought-water-3a4e053d7db9be3eb22aa6809eab57c0)
+* [2024-04-06, 16:22:32](https://news.ycombinator.com/item?id=39953454) - [The One Piece of Tech That Would Make the New York City Subway Safer: Barriers](https://themarkup.org/hello-world/2024/04/06/the-one-piece-of-tech-that-would-make-the-new-york-city-subway-much-safer)
 * [2024-04-06, 15:51:05](https://news.ycombinator.com/item?id=39953225) - [A crane with a CIA history helps with the Baltimore bridge cleanup](https://www.npr.org/2024/04/05/1242887913/baltimore-bridge-collapse-port-crane-chessy-cia)
 * [2024-04-06, 15:47:02](https://news.ycombinator.com/item?id=39953207) - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 * [2024-04-06, 15:34:35](https://news.ycombinator.com/item?id=39953123) - [Tesla Cancels Mass-Market $25,000 Car, Musk Says This Is a Lie](https://jalopnik.com/tesla-cancels-mass-market-25-000-car-musk-says-this-i-1851391326)
