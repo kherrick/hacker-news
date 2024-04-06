@@ -22,6 +22,7 @@
 * [2024-04-03, 21:06:20](https://news.ycombinator.com/item?id=39923142) - ['HR is not your friend': why frustrated workers are hiring reps of their own](https://www.theguardian.com/money/2024/apr/03/human-resources-hr-departments-us-workers)
 * [2024-04-03, 21:06:09](https://news.ycombinator.com/item?id=39923138) - [How to hack the Jacksonville Jaguars' jumbotron](https://arstechnica.com/security/2024/04/how-to-hack-the-jacksonville-jaguars-jumbotron-and-end-up-in-jail-for-220-years/)
 * [2024-04-03, 21:05:45](https://news.ycombinator.com/item?id=39923136) - [The Triumph of Philanthropy (2018)](https://www.laphamsquarterly.org/roundtable/triumph-philanthropy)
+* [2024-04-03, 21:03:59](https://news.ycombinator.com/item?id=39923111) - [Ultraviolet catastrophe](https://en.wikipedia.org/wiki/Ultraviolet_catastrophe)
 * [2024-04-03, 20:57:06](https://news.ycombinator.com/item?id=39923023) - [Pitcairn Island Immigration (current population ~ 50)](https://www.immigration.pn)
 * [2024-04-03, 20:44:38](https://news.ycombinator.com/item?id=39922854) - [When William Met Sigmund (2010)](http://thesecondpass.com/?p=6447)
 * [2024-04-03, 20:35:42](https://news.ycombinator.com/item?id=39922744) - [Disarm Russia](https://disarmrussia.com/)
