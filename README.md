@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 06:57:24](https://news.ycombinator.com/item?id=39950557) - [Microsoft blocks even more customization apps in Windows 11 version 24H2](https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/)
 * [2024-04-06, 04:12:24](https://news.ycombinator.com/item?id=39949882) - [Working with Qubes OS at the Guardian](https://www.theguardian.com/info/2024/apr/04/when-security-matters-working-with-qubes-os-at-the-guardian)
 * [2024-04-06, 04:09:08](https://news.ycombinator.com/item?id=39949866) - [The \"Eisenhower matrix\" productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
@@ -14,12 +15,10 @@
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
 * [2024-04-05, 18:50:46](https://news.ycombinator.com/item?id=39945733) - [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 * [2024-04-05, 17:00:39](https://news.ycombinator.com/item?id=39944658) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-* [2024-04-05, 16:42:38](https://news.ycombinator.com/item?id=39944496) - [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
 * [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
 * [2024-04-05, 12:24:19](https://news.ycombinator.com/item?id=39941524) - [Scientists may have discovered a flaw in their understanding of dark energy](https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html)
 * [2024-04-05, 11:49:55](https://news.ycombinator.com/item?id=39941232) - [Show HN: Kyoo – Self-hosted media browser (Jellyfin/Plex alternative)](https://github.com/zoriya/Kyoo)
-* [2024-04-05, 11:13:57](https://news.ycombinator.com/item?id=39940975) - [An IRC client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 05:45:36](https://news.ycombinator.com/item?id=39939036) - [Postgres locks explorer](https://leontrolski.github.io/pglockpy.html)
 * [2024-04-04, 11:21:04](https://news.ycombinator.com/item?id=39928894) - [Oh No Robot: Comics search](https://www.ohnorobot.com/)
 * [2024-04-04, 11:16:09](https://news.ycombinator.com/item?id=39928860) - [65 years ago, America announced the names of its first astronauts](https://www.theregister.com/2024/04/04/65_years_ago_mercury_7/)
@@ -30,6 +29,7 @@
 * [2024-04-04, 06:03:28](https://news.ycombinator.com/item?id=39927051) - [The Secret Lives of Ernest Beaux](https://buchananb.substack.com/p/the-secret-lives-of-ernest-beaux)
 * [2024-04-03, 09:13:01](https://news.ycombinator.com/item?id=39915063) - [NASA is working on new clock for the Moon](https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html)
 * [2024-04-03, 08:13:40](https://news.ycombinator.com/item?id=39914776) - [Philly Typewriter](https://www.atlasobscura.com/places/philly-typewriter-philadelphia)
+* [2024-04-02, 07:31:19](https://news.ycombinator.com/item?id=39903210) - [Blink to Generate Power for Smart Contact Lenses](https://spectrum.ieee.org/power-smart-contact-lenses)
 
 ## [Archives](archives/index.md)
 
