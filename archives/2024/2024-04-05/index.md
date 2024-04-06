@@ -9,6 +9,7 @@
 * [2024-04-05, 23:09:35](https://news.ycombinator.com/item?id=39948366) - [I fell out of love with academia](https://www.math.columbia.edu/~woit/wordpress/?p=13907)
 * [2024-04-05, 22:58:04](https://news.ycombinator.com/item?id=39948271) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
 * [2024-04-05, 22:47:04](https://news.ycombinator.com/item?id=39948198) - [Roku explores taking over HDMI feeds with ads](https://www.lowpass.cc/p/roku-hdmi-ad-insertion-patent)
+* [2024-04-05, 22:44:25](https://news.ycombinator.com/item?id=39948185) - [Why Were So Many Renaissance Portraits Multisided?](https://www.smithsonianmag.com/smart-news/why-were-so-many-renaissance-portraits-multisided-180984096/)
 * [2024-04-05, 22:27:59](https://news.ycombinator.com/item?id=39948044) - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 * [2024-04-05, 22:21:28](https://news.ycombinator.com/item?id=39947981) - [EV bargains to be found as Hertz sells off some of its electric cars](https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/)
 * [2024-04-05, 22:12:20](https://news.ycombinator.com/item?id=39947894) - [Why the Arabic World Turned Away from Science](https://www.thenewatlantis.com/publications/why-the-arabic-world-turned-away-from-science)
