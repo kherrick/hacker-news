@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 09:08:47](https://news.ycombinator.com/item?id=39951086) - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 * [2024-04-06, 08:33:23](https://news.ycombinator.com/item?id=39950955) - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
@@ -15,7 +16,6 @@
 * [2024-04-05, 22:27:59](https://news.ycombinator.com/item?id=39948044) - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 * [2024-04-05, 21:56:59](https://news.ycombinator.com/item?id=39947731) - [Emacs bug: describe-key and lambda too poetic](https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u)
 * [2024-04-05, 21:55:01](https://news.ycombinator.com/item?id=39947713) - [World_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
-* [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
 * [2024-04-05, 18:50:46](https://news.ycombinator.com/item?id=39945733) - [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 * [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
