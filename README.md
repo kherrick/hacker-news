@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 08:00:25](https://news.ycombinator.com/item?id=39950823) - [Support for Windows 10 will end in October 2025](https://www.microsoft.com/en-sg/windows/end-of-support)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-06, 04:12:24](https://news.ycombinator.com/item?id=39949882) - [Working with Qubes OS at the Guardian](https://www.theguardian.com/info/2024/apr/04/when-security-matters-working-with-qubes-os-at-the-guardian)
@@ -28,7 +29,6 @@
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 06:03:28](https://news.ycombinator.com/item?id=39927051) - [The Secret Lives of Ernest Beaux](https://buchananb.substack.com/p/the-secret-lives-of-ernest-beaux)
 * [2024-04-03, 09:13:01](https://news.ycombinator.com/item?id=39915063) - [NASA is working on new clock for the Moon](https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html)
-* [2024-04-03, 08:13:40](https://news.ycombinator.com/item?id=39914776) - [Philly Typewriter](https://www.atlasobscura.com/places/philly-typewriter-philadelphia)
 * [2024-04-02, 07:31:19](https://news.ycombinator.com/item?id=39903210) - [Blink to Generate Power for Smart Contact Lenses](https://spectrum.ieee.org/power-smart-contact-lenses)
 
 ## [Archives](archives/index.md)
