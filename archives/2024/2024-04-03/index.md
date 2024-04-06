@@ -113,6 +113,7 @@
 * [2024-04-03, 09:42:19](https://news.ycombinator.com/item?id=39915268) - [Cups vs. grams: why can't American and British cooks agree on food measurements?](https://www.theguardian.com/food/2024/apr/02/cups-v-grams-why-cant-american-and-british-cooks-agree-on-food-measurements)
 * [2024-04-03, 09:17:05](https://news.ycombinator.com/item?id=39915091) - [Show HN: I made a site to find top YouTube courses, bypassing expensive courses](https://www.eduhunt.be/)
 * [2024-04-03, 09:13:17](https://news.ycombinator.com/item?id=39915066) - [A Cheat Sheet to Database Access Control: PostgreSQL](https://thenewstack.io/a-cheat-sheet-to-database-access-control-postgresql/)
+* [2024-04-03, 09:13:01](https://news.ycombinator.com/item?id=39915063) - [NASA is working on new clock for the Moon](https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html)
 * [2024-04-03, 08:56:14](https://news.ycombinator.com/item?id=39914981) - [Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 * [2024-04-03, 08:46:38](https://news.ycombinator.com/item?id=39914929) - [Show HN: Fancy-ANSI – Small JavaScript library for converting ANSI to HTML](https://github.com/kubetail-org/fancy-ansi)
 * [2024-04-03, 08:27:49](https://news.ycombinator.com/item?id=39914851) - [When Will the GenAI Bubble Burst?](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst)

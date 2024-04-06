@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-06, 04:09:08](https://news.ycombinator.com/item?id=39949866) - [The \"Eisenhower matrix\" productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
-* [2024-04-06, 04:06:34](https://news.ycombinator.com/item?id=39949853) - [How Often Have You Seen Mostly or 100% AWOL Managers?](https://news.ycombinator.com/item?id=39949853)
 * [2024-04-06, 02:40:50](https://news.ycombinator.com/item?id=39949555) - [NASA knows what knocked Voyager 1 offline, but it will take a while to fix](https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/)
 * [2024-04-06, 00:51:47](https://news.ycombinator.com/item?id=39949010) - [Twenty years maintaining the WiX Toolset](https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/)
 * [2024-04-06, 00:18:20](https://news.ycombinator.com/item?id=39948840) - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
@@ -28,6 +27,7 @@
 * [2024-04-04, 06:03:28](https://news.ycombinator.com/item?id=39927051) - [The Secret Lives of Ernest Beaux](https://buchananb.substack.com/p/the-secret-lives-of-ernest-beaux)
 * [2024-04-03, 19:08:23](https://news.ycombinator.com/item?id=39921653) - [St. Louis Brick by Brick (2023)](https://beltmag.com/st-louis-brick-by-brick/)
 * [2024-04-03, 15:51:20](https://news.ycombinator.com/item?id=39919035) - [The Defenestrations of Prague (1419–1997)](https://publicdomainreview.org/essay/windows-onto-history/)
+* [2024-04-03, 09:13:01](https://news.ycombinator.com/item?id=39915063) - [NASA is working on new clock for the Moon](https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html)
 * [2024-04-03, 08:13:40](https://news.ycombinator.com/item?id=39914776) - [Philly Typewriter](https://www.atlasobscura.com/places/philly-typewriter-philadelphia)
 * [2024-04-02, 12:57:40](https://news.ycombinator.com/item?id=39905211) - [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
 
