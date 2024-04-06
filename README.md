@@ -2,6 +2,7 @@
 
 * [2024-04-06, 04:09:08](https://news.ycombinator.com/item?id=39949866) - [Why the \"Eisenhower matrix\" is a fantastic productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
 * [2024-04-06, 04:06:34](https://news.ycombinator.com/item?id=39949853) - [How Often Have You Seen Mostly or 100% AWOL Managers?](https://news.ycombinator.com/item?id=39949853)
+* [2024-04-06, 02:40:50](https://news.ycombinator.com/item?id=39949555) - [NASA knows what knocked Voyager 1 offline, but it will take a while to fix](https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/)
 * [2024-04-06, 00:51:47](https://news.ycombinator.com/item?id=39949010) - [Twenty years maintaining the WiX Toolset](https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/)
 * [2024-04-06, 00:18:20](https://news.ycombinator.com/item?id=39948840) - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 * [2024-04-05, 23:55:41](https://news.ycombinator.com/item?id=39948686) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
@@ -24,7 +25,6 @@
 * [2024-04-04, 10:54:18](https://news.ycombinator.com/item?id=39928714) - [SLAC completes construction of the largest digital camera built for astronomy](https://www6.slac.stanford.edu/news/2024-04-03-slac-completes-construction-largest-digital-camera-ever-built-astronomy)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
 * [2024-04-04, 10:42:04](https://news.ycombinator.com/item?id=39928646) - [Pragmatic Semiconductor made a flexible version of the 6502 processor (2021)](https://www.pragmaticsemi.com/newsroom/press-releases/pragmatic-semiconductor-re-invents-the-iconic-processor-that-changed-the-world)
-* [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 06:03:28](https://news.ycombinator.com/item?id=39927051) - [The Secret Lives of Ernest Beaux](https://buchananb.substack.com/p/the-secret-lives-of-ernest-beaux)
 * [2024-04-03, 19:08:23](https://news.ycombinator.com/item?id=39921653) - [St. Louis Brick by Brick (2023)](https://beltmag.com/st-louis-brick-by-brick/)
 * [2024-04-03, 15:51:20](https://news.ycombinator.com/item?id=39919035) - [The Defenestrations of Prague (1419–1997)](https://publicdomainreview.org/essay/windows-onto-history/)
