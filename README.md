@@ -2,6 +2,7 @@
 
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:37:03](https://news.ycombinator.com/item?id=39952037) - [What Happens When the Oxide Server Boots? [video]](https://www.youtube.com/watch?v=ENAMGTOe6NA)
+* [2024-04-06, 12:09:58](https://news.ycombinator.com/item?id=39951904) - [The wealthy are starting to have more babies than the poor again](https://www.japantimes.co.jp/commentary/2024/04/03/wealthy-having-babies/)
 * [2024-04-06, 12:06:13](https://news.ycombinator.com/item?id=39951885) - [Let's Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
 * [2024-04-06, 12:02:15](https://news.ycombinator.com/item?id=39951863) - [Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
 * [2024-04-06, 11:16:22](https://news.ycombinator.com/item?id=39951649) - [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
@@ -27,7 +28,6 @@
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
 * [2024-04-04, 09:16:08](https://news.ycombinator.com/item?id=39928156) - [Show HN: CloudTabs Web Browser – a streaming web browser on every website](https://browse.cloudtabs.net/signupless_sessions)
 * [2024-04-03, 09:13:01](https://news.ycombinator.com/item?id=39915063) - [NASA is working on new clock for the Moon](https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html)
-* [2024-04-03, 07:02:03](https://news.ycombinator.com/item?id=39914407) - [Starting the Journey (2022)](https://decafbad.net/2022/02/09/starting-the-journey/)
 * [2024-04-02, 20:02:13](https://news.ycombinator.com/item?id=39910256) - [The Wide Awakes: A 19th century club of cape-wearing anti-slavery activists](https://www.smithsonianmag.com/history/club-cape-wearing-activists-helped-elect-lincoln-spark-civil-war-180984000/)
 * [2024-04-02, 07:31:19](https://news.ycombinator.com/item?id=39903210) - [Blink to Generate Power for Smart Contact Lenses](https://spectrum.ieee.org/power-smart-contact-lenses)
 
