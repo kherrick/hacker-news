@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-06, 21:28:08",
+      "https://news.ycombinator.com/item?id=39955745"
+    ],
+    [
+      "Tridge Returns to Rsync",
+      "https://lwn.net/Articles/968732/"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 20:24:31",
       "https://news.ycombinator.com/item?id=39955189"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2024-04-06, 08:26:48",
-      "https://news.ycombinator.com/item?id=39950929"
+      "2024-04-06, 08:44:33",
+      "https://news.ycombinator.com/item?id=39950979"
     ],
     [
-      "Optuna – A Hyperparameter Optimization Framework",
-      "https://optuna.org/"
+      "Replacing Complicated Hashmaps with SQLite",
+      "https://husin.dev/ephemeral-sqlite/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Generative UI and Outcome-Oriented Design",
       "https://www.nngroup.com/articles/generative-ui/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 07:57:47",
-      "https://news.ycombinator.com/item?id=39927682"
-    ],
-    [
-      "LSST Camera: largest camera for astronomy",
-      "https://www6.slac.stanford.edu/lsst"
     ]
   ]
 ]
