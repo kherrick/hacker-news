@@ -12,6 +12,7 @@
 * [2024-04-06, 11:16:22](https://news.ycombinator.com/item?id=39951649) - [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
 * [2024-04-06, 11:02:04](https://news.ycombinator.com/item?id=39951587) - [Lessons I learned from working full-time on a FOSS project for 503 days](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
 * [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [An Open Source Tool for Multimodal Fact Verification](https://github.com/Libr-AI/OpenFactVerification)
+* [2024-04-06, 10:56:31](https://news.ycombinator.com/item?id=39951549) - [Writing a Unix-Like OS in Rust](https://vmm.dev/en/rust/osinrust.md)
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
 * [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
 * [2024-04-06, 07:58:13](https://news.ycombinator.com/item?id=39950812) - [PID Controller Explainer (2022)](https://ben.bolte.cc/pid-controller)
@@ -25,9 +26,8 @@
 * [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
-* [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
+* [2024-04-04, 10:24:47](https://news.ycombinator.com/item?id=39928542) - [PostgreSQL and Its Annoying Crosstab](https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
-* [2024-04-04, 09:16:08](https://news.ycombinator.com/item?id=39928156) - [Show HN: CloudTabs Web Browser – a streaming web browser on every website](https://browse.cloudtabs.net/signupless_sessions)
 * [2024-04-02, 20:02:13](https://news.ycombinator.com/item?id=39910256) - [The Wide Awakes: A 19th century club of cape-wearing anti-slavery activists](https://www.smithsonianmag.com/history/club-cape-wearing-activists-helped-elect-lincoln-spark-civil-war-180984000/)
 * [2024-04-02, 07:31:19](https://news.ycombinator.com/item?id=39903210) - [Blink to generate power for smart contact lenses](https://spectrum.ieee.org/power-smart-contact-lenses)
 

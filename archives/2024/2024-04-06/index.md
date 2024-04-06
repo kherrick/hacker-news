@@ -29,6 +29,7 @@
 * [2024-04-06, 11:16:22](https://news.ycombinator.com/item?id=39951649) - [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
 * [2024-04-06, 11:02:04](https://news.ycombinator.com/item?id=39951587) - [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
 * [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [An Open Source Tool for Multimodal Fact Verification](https://github.com/Libr-AI/OpenFactVerification)
+* [2024-04-06, 10:56:31](https://news.ycombinator.com/item?id=39951549) - [Writing a Unix-Like OS in Rust](https://vmm.dev/en/rust/osinrust.md)
 * [2024-04-06, 10:24:48](https://news.ycombinator.com/item?id=39951422) - [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
 * [2024-04-06, 09:31:31](https://news.ycombinator.com/item?id=39951197) - [When Wizards and Orcs Came to Death Row](https://www.themarshallproject.org/2023/08/31/dungeons-and-dragons-texas-death-row-tdcj)

@@ -81,6 +81,7 @@
 * [2024-04-04, 10:42:04](https://news.ycombinator.com/item?id=39928646) - [PragmatIC Semiconductor made a flexible 6502 in two weeks. (2021)](https://www.pragmaticsemi.com/newsroom/press-releases/pragmatic-semiconductor-re-invents-the-iconic-processor-that-changed-the-world)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 10:27:19](https://news.ycombinator.com/item?id=39928558) - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
+* [2024-04-04, 10:24:47](https://news.ycombinator.com/item?id=39928542) - [PostgreSQL and Its Annoying Crosstab](https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/)
 * [2024-04-04, 10:05:46](https://news.ycombinator.com/item?id=39928445) - [Browse Self-Hosted Software](https://selfh.st/apps/)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 * [2024-04-04, 09:19:12](https://news.ycombinator.com/item?id=39928173) - [German state moving 30k PCs to LibreOffice](https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/)
