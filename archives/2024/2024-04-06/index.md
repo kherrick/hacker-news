@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:42:13](https://news.ycombinator.com/item?id=39952070) - [Hacked](https://pbfcomics.com/comics/hacked/)
 * [2024-04-06, 12:06:13](https://news.ycombinator.com/item?id=39951885) - [Let's Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
 * [2024-04-06, 12:02:15](https://news.ycombinator.com/item?id=39951863) - [Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
@@ -14,7 +15,9 @@
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
 * [2024-04-06, 09:08:47](https://news.ycombinator.com/item?id=39951086) - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
+* [2024-04-06, 08:44:33](https://news.ycombinator.com/item?id=39950979) - [Replacing Complicated Hashmaps with SQLite](https://husin.dev/ephemeral-sqlite/)
 * [2024-04-06, 08:33:23](https://news.ycombinator.com/item?id=39950955) - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
+* [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
 * [2024-04-06, 08:00:25](https://news.ycombinator.com/item?id=39950823) - [Support for Windows 10 will end in October 2025](https://www.microsoft.com/en-sg/windows/end-of-support)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
