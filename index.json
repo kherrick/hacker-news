@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-04-06, 21:52:38",
+      "https://news.ycombinator.com/item?id=39955944"
+    ],
+    [
+      "Show HN: Online database diagram editor",
+      "https://github.com/drawdb-io/drawdb"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 20:18:58",
       "https://news.ycombinator.com/item?id=39955148"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2024-04-06, 19:40:50",
-      "https://news.ycombinator.com/item?id=39954849"
+      "2024-04-06, 19:44:14",
+      "https://news.ycombinator.com/item?id=39954881"
     ],
     [
-      "What is the most useful project you have worked on?",
-      "https://news.ycombinator.com/item?id=39954849"
+      "Ask HN: Which low-budget camera would you recommend for recording podcasts?",
+      "https://news.ycombinator.com/item?id=39954881"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Teachers are using AI to grade essays. Some experts are raising ethical concerns",
       "https://www.cnn.com/2024/04/06/tech/teachers-grading-ai/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 19:08:37",
-      "https://news.ycombinator.com/item?id=39954636"
-    ],
-    [
-      "Why are kids being forced to eat lunch in silence?",
-      "https://www.theguardian.com/us-news/2024/apr/04/silent-school-lunch-kids-mental-health"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "A Theory of Composing Protocols (2023)",
       "https://programming-journal.org/2023/7/6/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 17:43:36",
-      "https://news.ycombinator.com/item?id=39954026"
-    ],
-    [
-      "Cybersecurity Is Broken",
-      "https://crankysec.com/blog/broken/"
     ]
   ],
   [
@@ -191,32 +181,32 @@
   ],
   [
     [
+      "2024-04-06, 09:51:06",
+      "https://news.ycombinator.com/item?id=39951275"
+    ],
+    [
+      "Ohmyksh: A Framework for OpenBSD's Ksh",
+      "https://github.com/qbit/ohmyksh"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 08:44:33",
+      "https://news.ycombinator.com/item?id=39950979"
+    ],
+    [
+      "Replacing Complicated Hashmaps with SQLite",
+      "https://husin.dev/ephemeral-sqlite/"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 08:26:48",
       "https://news.ycombinator.com/item?id=39950929"
     ],
     [
       "Optuna – A Hyperparameter Optimization Framework",
       "https://optuna.org/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 07:58:13",
-      "https://news.ycombinator.com/item?id=39950812"
-    ],
-    [
-      "PID Controller Explainer (2022)",
-      "https://ben.bolte.cc/pid-controller"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 07:48:25",
-      "https://news.ycombinator.com/item?id=39950760"
-    ],
-    [
-      "What I think about when I edit (2019)",
-      "https://evaparish.com/blog/how-i-edit"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Generative UI and outcome-oriented design",
       "https://www.nngroup.com/articles/generative-ui/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 07:57:47",
+      "https://news.ycombinator.com/item?id=39927682"
+    ],
+    [
+      "LSST Camera: largest camera for astronomy",
+      "https://www6.slac.stanford.edu/lsst"
     ]
   ]
 ]
