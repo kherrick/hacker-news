@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-06, 20:08:47](https://news.ycombinator.com/item?id=39955057) - [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
+* [2024-04-06, 20:18:58](https://news.ycombinator.com/item?id=39955148) - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
+* [2024-04-06, 20:04:29](https://news.ycombinator.com/item?id=39955029) - [Do Loud Pipes Save Lives?](https://www.autoweek.com/news/industry-news/a35952569/loud-pipes-do-not-save-lives/)
 * [2024-04-06, 19:44:14](https://news.ycombinator.com/item?id=39954881) - [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
 * [2024-04-06, 19:40:50](https://news.ycombinator.com/item?id=39954849) - [What is the most useful project you have worked on?](https://news.ycombinator.com/item?id=39954849)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
@@ -29,7 +30,6 @@
 * [2024-04-04, 10:24:47](https://news.ycombinator.com/item?id=39928542) - [PostgreSQL and Its Annoying Crosstab](https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 * [2024-04-04, 08:00:53](https://news.ycombinator.com/item?id=39927698) - [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/)
-* [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 
 ## [Archives](archives/index.md)
 

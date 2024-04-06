@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 20:18:58](https://news.ycombinator.com/item?id=39955148) - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
 * [2024-04-06, 20:08:47](https://news.ycombinator.com/item?id=39955057) - [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
+* [2024-04-06, 20:04:29](https://news.ycombinator.com/item?id=39955029) - [Do Loud Pipes Save Lives?](https://www.autoweek.com/news/industry-news/a35952569/loud-pipes-do-not-save-lives/)
 * [2024-04-06, 19:50:14](https://news.ycombinator.com/item?id=39954926) - [Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution](https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/)
 * [2024-04-06, 19:44:14](https://news.ycombinator.com/item?id=39954881) - [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
 * [2024-04-06, 19:40:50](https://news.ycombinator.com/item?id=39954849) - [What is the most useful project you have worked on?](https://news.ycombinator.com/item?id=39954849)
