@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 18:54:41](https://news.ycombinator.com/item?id=39954541) - [Brutalist Hacker News](https://github.com/wkyleg/brutalist-hacker-news)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 18:34:12](https://news.ycombinator.com/item?id=39954398) - [Facebook Is Censoring Stories about Climate Change and Illegal Raid](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
 * [2024-04-06, 17:58:15](https://news.ycombinator.com/item?id=39954149) - [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
+* [2024-04-06, 17:43:36](https://news.ycombinator.com/item?id=39954026) - [Cybersecurity Is Broken](https://crankysec.com/blog/broken/)
 * [2024-04-06, 17:06:26](https://news.ycombinator.com/item?id=39953746) - [Xbox has a new team dedicated to game preservation and forward compatibility](https://www.windowscentral.com/gaming/xbox/exclusive-xbox-president-sarah-bond-has-set-up-a-new-team-dedicated-to-game-preservation-and-forward-compatibility)
 * [2024-04-06, 17:05:53](https://news.ycombinator.com/item?id=39953745) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
