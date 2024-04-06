@@ -6,6 +6,7 @@
 
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:42:13](https://news.ycombinator.com/item?id=39952070) - [Hacked](https://pbfcomics.com/comics/hacked/)
+* [2024-04-06, 12:37:03](https://news.ycombinator.com/item?id=39952037) - [What Happens When the Oxide Server Boots? [video]](https://www.youtube.com/watch?v=ENAMGTOe6NA)
 * [2024-04-06, 12:06:13](https://news.ycombinator.com/item?id=39951885) - [Let's Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
 * [2024-04-06, 12:02:15](https://news.ycombinator.com/item?id=39951863) - [Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
 * [2024-04-06, 11:16:22](https://news.ycombinator.com/item?id=39951649) - [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)

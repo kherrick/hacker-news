@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
-* [2024-04-06, 12:42:13](https://news.ycombinator.com/item?id=39952070) - [Hacked](https://pbfcomics.com/comics/hacked/)
+* [2024-04-06, 12:37:03](https://news.ycombinator.com/item?id=39952037) - [What Happens When the Oxide Server Boots? [video]](https://www.youtube.com/watch?v=ENAMGTOe6NA)
 * [2024-04-06, 12:06:13](https://news.ycombinator.com/item?id=39951885) - [Let's Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
 * [2024-04-06, 12:02:15](https://news.ycombinator.com/item?id=39951863) - [Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
 * [2024-04-06, 11:16:22](https://news.ycombinator.com/item?id=39951649) - [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
@@ -20,6 +20,7 @@
 * [2024-04-05, 23:15:40](https://news.ycombinator.com/item?id=39948404) - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
 * [2024-04-05, 22:27:59](https://news.ycombinator.com/item?id=39948044) - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 * [2024-04-05, 21:55:01](https://news.ycombinator.com/item?id=39947713) - [World_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
+* [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 05:45:36](https://news.ycombinator.com/item?id=39939036) - [Postgres locks explorer](https://leontrolski.github.io/pglockpy.html)
 * [2024-04-04, 11:16:09](https://news.ycombinator.com/item?id=39928860) - [65 years ago, America announced the names of its first astronauts](https://www.theregister.com/2024/04/04/65_years_ago_mercury_7/)
 * [2024-04-04, 10:54:18](https://news.ycombinator.com/item?id=39928714) - [SLAC completes construction of the largest digital camera built for astronomy](https://www6.slac.stanford.edu/news/2024-04-03-slac-completes-construction-largest-digital-camera-ever-built-astronomy)
@@ -28,7 +29,6 @@
 * [2024-04-03, 09:13:01](https://news.ycombinator.com/item?id=39915063) - [NASA is working on new clock for the Moon](https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html)
 * [2024-04-03, 07:02:03](https://news.ycombinator.com/item?id=39914407) - [Starting the Journey (2022)](https://decafbad.net/2022/02/09/starting-the-journey/)
 * [2024-04-02, 20:02:13](https://news.ycombinator.com/item?id=39910256) - [The Wide Awakes: A 19th century club of cape-wearing anti-slavery activists](https://www.smithsonianmag.com/history/club-cape-wearing-activists-helped-elect-lincoln-spark-civil-war-180984000/)
-* [2024-04-02, 10:42:17](https://news.ycombinator.com/item?id=39904234) - [I am not a supplier (2022)](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2024-04-02, 07:31:19](https://news.ycombinator.com/item?id=39903210) - [Blink to Generate Power for Smart Contact Lenses](https://spectrum.ieee.org/power-smart-contact-lenses)
 
 ## [Archives](archives/index.md)
