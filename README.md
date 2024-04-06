@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 10:24:48](https://news.ycombinator.com/item?id=39951422) - [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
 * [2024-04-06, 09:08:47](https://news.ycombinator.com/item?id=39951086) - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 * [2024-04-06, 08:33:23](https://news.ycombinator.com/item?id=39950955) - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
@@ -24,7 +25,6 @@
 * [2024-04-04, 11:16:09](https://news.ycombinator.com/item?id=39928860) - [65 years ago, America announced the names of its first astronauts](https://www.theregister.com/2024/04/04/65_years_ago_mercury_7/)
 * [2024-04-04, 10:54:18](https://news.ycombinator.com/item?id=39928714) - [SLAC completes construction of the largest digital camera built for astronomy](https://www6.slac.stanford.edu/news/2024-04-03-slac-completes-construction-largest-digital-camera-ever-built-astronomy)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
-* [2024-04-04, 10:42:04](https://news.ycombinator.com/item?id=39928646) - [Pragmatic Semiconductor made a flexible version of the 6502 processor (2021)](https://www.pragmaticsemi.com/newsroom/press-releases/pragmatic-semiconductor-re-invents-the-iconic-processor-that-changed-the-world)
 * [2024-04-04, 06:03:28](https://news.ycombinator.com/item?id=39927051) - [The Secret Lives of Ernest Beaux](https://buchananb.substack.com/p/the-secret-lives-of-ernest-beaux)
 * [2024-04-03, 09:13:01](https://news.ycombinator.com/item?id=39915063) - [NASA is working on new clock for the Moon](https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html)
 * [2024-04-02, 10:42:17](https://news.ycombinator.com/item?id=39904234) - [I am not a supplier – Musings about software](https://www.softwaremaxims.com/blog/not-a-supplier)
