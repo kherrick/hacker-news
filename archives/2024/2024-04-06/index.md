@@ -7,6 +7,7 @@
 * [2024-04-06, 15:06:41](https://news.ycombinator.com/item?id=39952979) - [HashiCorp: OpenTofu was not respecting the terms of its BSL license](https://twitter.com/OpenTofuOrg/status/1776398008558493991)
 * [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Insurers Are Spying on Your Home from the Sky](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
+* [2024-04-06, 14:34:36](https://news.ycombinator.com/item?id=39952784) - [eC Programming Language](https://ec-lang.org)
 * [2024-04-06, 14:16:49](https://news.ycombinator.com/item?id=39952611) - [Text Manipulation in Linux: Awk vs. Sed](https://www.linuxjournal.com/content/text-manipulation-linux-awk-vs-sed)
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
 * [2024-04-06, 14:07:28](https://news.ycombinator.com/item?id=39952533) - [ESR is building an autotools killer](https://twitter.com/esrtweet/status/1776587609021514215)
