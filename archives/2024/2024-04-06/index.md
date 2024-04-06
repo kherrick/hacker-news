@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
+* [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-06, 06:57:24](https://news.ycombinator.com/item?id=39950557) - [Microsoft blocks even more customization apps in Windows 11 version 24H2](https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/)
 * [2024-04-06, 04:32:12](https://news.ycombinator.com/item?id=39949973) - [A memory model for Rust code in the kernel](https://lwn.net/Articles/967049/)
 * [2024-04-06, 04:12:24](https://news.ycombinator.com/item?id=39949882) - [Working with Qubes OS at the Guardian](https://www.theguardian.com/info/2024/apr/04/when-security-matters-working-with-qubes-os-at-the-guardian)
