@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-06, 18:54:41](https://news.ycombinator.com/item?id=39954541) - [Brutalist Hacker News](https://github.com/wkyleg/brutalist-hacker-news)
+* [2024-04-06, 20:08:47](https://news.ycombinator.com/item?id=39955057) - [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
+* [2024-04-06, 19:50:14](https://news.ycombinator.com/item?id=39954926) - [Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution](https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/)
+* [2024-04-06, 19:44:14](https://news.ycombinator.com/item?id=39954881) - [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
+* [2024-04-06, 19:40:50](https://news.ycombinator.com/item?id=39954849) - [What is the most useful project you have worked on?](https://news.ycombinator.com/item?id=39954849)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 17:58:15](https://news.ycombinator.com/item?id=39954149) - [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
@@ -15,7 +18,6 @@
 * [2024-04-06, 12:26:05](https://news.ycombinator.com/item?id=39951990) - [Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
 * [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [Loki: An open-source tool for fact verification](https://github.com/Libr-AI/OpenFactVerification)
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
-* [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
 * [2024-04-06, 07:58:13](https://news.ycombinator.com/item?id=39950812) - [PID Controller Explainer (2022)](https://ben.bolte.cc/pid-controller)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
@@ -28,8 +30,6 @@
 * [2024-04-04, 10:24:47](https://news.ycombinator.com/item?id=39928542) - [PostgreSQL and Its Annoying Crosstab](https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 * [2024-04-04, 08:00:53](https://news.ycombinator.com/item?id=39927698) - [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/)
-* [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
-* [2024-04-04, 02:46:11](https://news.ycombinator.com/item?id=39926023) - [Moment diagrams for simply supported beams](https://leancrew.com/all-this/2024/04/moment-diagrams-for-simply-supported-beams/)
 
 ## [Archives](archives/index.md)
 
