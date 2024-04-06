@@ -114,6 +114,7 @@
 * [2024-04-04, 03:40:41](https://news.ycombinator.com/item?id=39926302) - [The App Store Was Down, Along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
 * [2024-04-04, 03:39:38](https://news.ycombinator.com/item?id=39926295) - [Australian lab-grown meat cultured from quail cells hits the market in Singapore](https://www.abc.net.au/news/2024-04-04/australian-lab-grown-meat-from-quail-cells-in-singapore/103667178)
 * [2024-04-04, 02:57:57](https://news.ycombinator.com/item?id=39926081) - [Advice to Young People, the Lies I Tell Myself](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
+* [2024-04-04, 02:46:11](https://news.ycombinator.com/item?id=39926023) - [Moment diagrams for simply supported beams](https://leancrew.com/all-this/2024/04/moment-diagrams-for-simply-supported-beams/)
 * [2024-04-04, 02:28:56](https://news.ycombinator.com/item?id=39925920) - [Tired of late messages from your boss? A new bill aims to make it illegal](https://www.msn.com/en-us/news/other/tired-of-late-messages-from-your-boss-a-new-bill-aims-to-make-it-illegal/ar-BB1l2niL)
 * [2024-04-04, 02:09:01](https://news.ycombinator.com/item?id=39925787) - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
 * [2024-04-04, 01:52:40](https://news.ycombinator.com/item?id=39925699) - [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)

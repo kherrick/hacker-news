@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
 * [2024-04-06, 17:06:26](https://news.ycombinator.com/item?id=39953746) - [Xbox has a new team dedicated to game preservation and forward compatibility](https://www.windowscentral.com/gaming/xbox/exclusive-xbox-president-sarah-bond-has-set-up-a-new-team-dedicated-to-game-preservation-and-forward-compatibility)
 * [2024-04-06, 17:05:53](https://news.ycombinator.com/item?id=39953745) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
