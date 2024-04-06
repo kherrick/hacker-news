@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 12:42:13](https://news.ycombinator.com/item?id=39952070) - [Hacked](https://pbfcomics.com/comics/hacked/)
 * [2024-04-06, 12:06:13](https://news.ycombinator.com/item?id=39951885) - [Let's Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
 * [2024-04-06, 12:02:15](https://news.ycombinator.com/item?id=39951863) - [Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
 * [2024-04-06, 11:16:22](https://news.ycombinator.com/item?id=39951649) - [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
 * [2024-04-06, 11:02:04](https://news.ycombinator.com/item?id=39951587) - [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
+* [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [An Open Source Tool for Multimodal Fact Verification](https://github.com/Libr-AI/OpenFactVerification)
 * [2024-04-06, 10:24:48](https://news.ycombinator.com/item?id=39951422) - [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
+* [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
 * [2024-04-06, 09:08:47](https://news.ycombinator.com/item?id=39951086) - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
 * [2024-04-06, 08:33:23](https://news.ycombinator.com/item?id=39950955) - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
