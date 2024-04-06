@@ -201,12 +201,22 @@
   ],
   [
     [
-      "2024-04-06, 08:26:48",
-      "https://news.ycombinator.com/item?id=39950929"
+      "2024-04-06, 07:48:25",
+      "https://news.ycombinator.com/item?id=39950760"
     ],
     [
-      "Optuna – A Hyperparameter Optimization Framework",
-      "https://optuna.org/"
+      "What I think about when I edit (2019)",
+      "https://evaparish.com/blog/how-i-edit"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 07:38:04",
+      "https://news.ycombinator.com/item?id=39950712"
+    ],
+    [
+      "A History of Source Control Systems: SCCS and RCS",
+      "https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2024-04-04, 11:17:10",
+      "https://news.ycombinator.com/item?id=39928866"
+    ],
+    [
+      "New sunflower family tree reveals multiple origins of flower symmetry",
+      "https://phys.org/news/2024-04-sunflower-family-tree-reveals-multiple.html"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 10:47:51",
       "https://news.ycombinator.com/item?id=39928681"
     ],
     [
       "Chisel: A fast TCP/UDP tunnel over HTTP",
       "https://github.com/jpillora/chisel"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 10:24:47",
-      "https://news.ycombinator.com/item?id=39928542"
-    ],
-    [
-      "PostgreSQL and Its Annoying Crosstab",
-      "https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Generative UI and outcome-oriented design",
       "https://www.nngroup.com/articles/generative-ui/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 07:57:47",
-      "https://news.ycombinator.com/item?id=39927682"
-    ],
-    [
-      "LSST Camera: largest camera for astronomy",
-      "https://www6.slac.stanford.edu/lsst"
     ]
   ]
 ]
