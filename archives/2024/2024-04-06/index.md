@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 15:47:02](https://news.ycombinator.com/item?id=39953207) - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
+* [2024-04-06, 15:34:35](https://news.ycombinator.com/item?id=39953123) - [Tesla Cancels Mass-Market $25,000 Car, Musk Says This Is a Lie](https://jalopnik.com/tesla-cancels-mass-market-25-000-car-musk-says-this-i-1851391326)
 * [2024-04-06, 15:06:41](https://news.ycombinator.com/item?id=39952979) - [HashiCorp: OpenTofu was not respecting the terms of its BSL license](https://twitter.com/OpenTofuOrg/status/1776398008558493991)
 * [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Insurers Are Spying on Your Home from the Sky](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
+* [2024-04-06, 14:36:21](https://news.ycombinator.com/item?id=39952801) - [Maintenance.md](https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md)
 * [2024-04-06, 14:34:36](https://news.ycombinator.com/item?id=39952784) - [eC Programming Language](https://ec-lang.org)
 * [2024-04-06, 14:16:49](https://news.ycombinator.com/item?id=39952611) - [Text Manipulation in Linux: Awk vs. Sed](https://www.linuxjournal.com/content/text-manipulation-linux-awk-vs-sed)
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
