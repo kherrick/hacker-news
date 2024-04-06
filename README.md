@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-06, 04:09:08](https://news.ycombinator.com/item?id=39949866) - [Why the \"Eisenhower matrix\" is a fantastic productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
+* [2024-04-06, 04:06:34](https://news.ycombinator.com/item?id=39949853) - [How Often Have You Seen Mostly or 100% AWOL Managers?](https://news.ycombinator.com/item?id=39949853)
 * [2024-04-06, 04:05:17](https://news.ycombinator.com/item?id=39949848) - [Amazon Fresh kills \"Just Walk Out\" shopping tech–it never worked](https://arstechnica.com/gadgets/2024/04/amazon-ends-ai-powered-store-checkout-which-needed-1000-video-reviewers/)
-* [2024-04-06, 02:40:50](https://news.ycombinator.com/item?id=39949555) - [NASA knows what knocked Voyager 1 offline, but it will take a while to fix](https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/)
+* [2024-04-06, 00:51:47](https://news.ycombinator.com/item?id=39949010) - [Twenty years maintaining the WiX Toolset](https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/)
 * [2024-04-06, 00:18:20](https://news.ycombinator.com/item?id=39948840) - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 * [2024-04-05, 23:55:41](https://news.ycombinator.com/item?id=39948686) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 * [2024-04-05, 23:15:40](https://news.ycombinator.com/item?id=39948404) - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
@@ -19,7 +20,6 @@
 * [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
 * [2024-04-05, 12:24:19](https://news.ycombinator.com/item?id=39941524) - [Scientists may have discovered a flaw in their understanding of dark energy](https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html)
 * [2024-04-05, 11:49:55](https://news.ycombinator.com/item?id=39941232) - [Show HN: Kyoo – Self-hosted media browser (Jellyfin/Plex alternative)](https://github.com/zoriya/Kyoo)
-* [2024-04-05, 11:13:57](https://news.ycombinator.com/item?id=39940975) - [An IRC client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 05:45:36](https://news.ycombinator.com/item?id=39939036) - [Postgres locks explorer](https://leontrolski.github.io/pglockpy.html)
 * [2024-04-04, 11:16:09](https://news.ycombinator.com/item?id=39928860) - [65 years ago, America announced the names of its first astronauts](https://www.theregister.com/2024/04/04/65_years_ago_mercury_7/)
 * [2024-04-04, 10:54:18](https://news.ycombinator.com/item?id=39928714) - [SLAC completes construction of the largest digital camera built for astronomy](https://www6.slac.stanford.edu/news/2024-04-03-slac-completes-construction-largest-digital-camera-ever-built-astronomy)
