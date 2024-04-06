@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-04-06, 10:56:31",
+      "https://news.ycombinator.com/item?id=39951549"
+    ],
+    [
+      "Writing a Unix-Like OS in Rust",
+      "https://vmm.dev/en/rust/osinrust.md"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 09:51:06",
       "https://news.ycombinator.com/item?id=39951275"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-04-04, 10:35:17",
-      "https://news.ycombinator.com/item?id=39928604"
+      "2024-04-04, 10:24:47",
+      "https://news.ycombinator.com/item?id=39928542"
     ],
     [
-      "Anatomy of a credit card rewards program",
-      "https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/"
+      "PostgreSQL and Its Annoying Crosstab",
+      "https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Tokens, N-Grams, and Bag-of-Words Models",
       "https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 09:16:08",
-      "https://news.ycombinator.com/item?id=39928156"
-    ],
-    [
-      "Show HN: CloudTabs Web Browser – a streaming web browser on every website",
-      "https://browse.cloudtabs.net/signupless_sessions"
     ]
   ],
   [
