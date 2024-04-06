@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 14:07:28](https://news.ycombinator.com/item?id=39952533) - [ESR is building an autotools killer](https://twitter.com/esrtweet/status/1776587609021514215)
 * [2024-04-06, 13:53:02](https://news.ycombinator.com/item?id=39952453) - [Netflix's '3 Body Problem' Has Chilling Social Media Parallels](https://reason.com/2024/04/03/the-3-body-problems-chilling-social-media-parallel/)
 * [2024-04-06, 13:26:39](https://news.ycombinator.com/item?id=39952299) - [Ask HN: How do I find a job, in this market with ADHD](https://news.ycombinator.com/item?id=39952299)
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
@@ -25,6 +26,7 @@
 * [2024-04-06, 08:33:23](https://news.ycombinator.com/item?id=39950955) - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
 * [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
 * [2024-04-06, 08:00:25](https://news.ycombinator.com/item?id=39950823) - [Support for Windows 10 will end in October 2025](https://www.microsoft.com/en-sg/windows/end-of-support)
+* [2024-04-06, 07:58:13](https://news.ycombinator.com/item?id=39950812) - [PID Controller Explainer (2022)](https://ben.bolte.cc/pid-controller)
 * [2024-04-06, 07:57:01](https://news.ycombinator.com/item?id=39950805) - [Show HN: A url only notepad that hosts itself](https://github.com/con-dog/serverless-architecture)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)

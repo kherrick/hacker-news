@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-06, 13:53:02](https://news.ycombinator.com/item?id=39952453) - [Netflix's '3 Body Problem' Has Chilling Social Media Parallels](https://reason.com/2024/04/03/the-3-body-problems-chilling-social-media-parallel/)
+* [2024-04-06, 14:07:28](https://news.ycombinator.com/item?id=39952533) - [ESR is building an autotools killer](https://twitter.com/esrtweet/status/1776587609021514215)
 * [2024-04-06, 13:26:39](https://news.ycombinator.com/item?id=39952299) - [Ask HN: How do I find a job, in this market with ADHD](https://news.ycombinator.com/item?id=39952299)
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:41:16](https://news.ycombinator.com/item?id=39952061) - [Farmed salmon production leads to an overall loss of essential dietary nutrients](https://www.cam.ac.uk/research/news/fish-fed-to-farmed-salmon-should-be-part-of-our-diet-too-study-suggests)
@@ -11,7 +11,7 @@
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
 * [2024-04-06, 09:31:31](https://news.ycombinator.com/item?id=39951197) - [When Wizards and Orcs Came to Death Row](https://www.themarshallproject.org/2023/08/31/dungeons-and-dragons-texas-death-row-tdcj)
 * [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
-* [2024-04-06, 07:57:01](https://news.ycombinator.com/item?id=39950805) - [Show HN: A url only notepad that hosts itself](https://github.com/con-dog/serverless-architecture)
+* [2024-04-06, 07:58:13](https://news.ycombinator.com/item?id=39950812) - [PID Controller Explainer (2022)](https://ben.bolte.cc/pid-controller)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-06, 00:51:47](https://news.ycombinator.com/item?id=39949010) - [Twenty years maintaining the WiX Toolset](https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/)
@@ -27,8 +27,8 @@
 * [2024-04-04, 10:54:18](https://news.ycombinator.com/item?id=39928714) - [SLAC completes construction of the largest digital camera built for astronomy](https://www6.slac.stanford.edu/news/2024-04-03-slac-completes-construction-largest-digital-camera-ever-built-astronomy)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
 * [2024-04-04, 09:16:08](https://news.ycombinator.com/item?id=39928156) - [Show HN: CloudTabs Web Browser – a streaming web browser on every website](https://browse.cloudtabs.net/signupless_sessions)
-* [2024-04-04, 06:03:28](https://news.ycombinator.com/item?id=39927051) - [The Secret Lives of Ernest Beaux](https://buchananb.substack.com/p/the-secret-lives-of-ernest-beaux)
 * [2024-04-03, 09:13:01](https://news.ycombinator.com/item?id=39915063) - [NASA is working on new clock for the Moon](https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html)
+* [2024-04-02, 20:02:13](https://news.ycombinator.com/item?id=39910256) - [The Wide Awakes: A 19th century club of cape-wearing anti-slavery activists](https://www.smithsonianmag.com/history/club-cape-wearing-activists-helped-elect-lincoln-spark-civil-war-180984000/)
 * [2024-04-02, 07:31:19](https://news.ycombinator.com/item?id=39903210) - [Blink to Generate Power for Smart Contact Lenses](https://spectrum.ieee.org/power-smart-contact-lenses)
 
 ## [Archives](archives/index.md)
