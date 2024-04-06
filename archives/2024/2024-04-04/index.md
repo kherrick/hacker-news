@@ -76,6 +76,7 @@
 * [2024-04-04, 11:17:25](https://news.ycombinator.com/item?id=39928867) - [A podcast about the xz backdoor with the guy who found it](https://risky.biz/RB743/)
 * [2024-04-04, 10:48:55](https://news.ycombinator.com/item?id=39928687) - [How to send progress updates](https://www.spakhm.com/updates-howto)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
+* [2024-04-04, 10:42:04](https://news.ycombinator.com/item?id=39928646) - [PragmatIC Semiconductor made a flexible 6502 in two weeks. (2021)](https://www.pragmaticsemi.com/newsroom/press-releases/pragmatic-semiconductor-re-invents-the-iconic-processor-that-changed-the-world)
 * [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 * [2024-04-04, 10:27:19](https://news.ycombinator.com/item?id=39928558) - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
 * [2024-04-04, 10:05:46](https://news.ycombinator.com/item?id=39928445) - [Browse Self-Hosted Software](https://selfh.st/apps/)

@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 23:55:41](https://news.ycombinator.com/item?id=39948686) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
+* [2024-04-05, 23:15:40](https://news.ycombinator.com/item?id=39948404) - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
 * [2024-04-05, 23:09:35](https://news.ycombinator.com/item?id=39948366) - [I fell out of love with academia](https://www.math.columbia.edu/~woit/wordpress/?p=13907)
 * [2024-04-05, 22:27:59](https://news.ycombinator.com/item?id=39948044) - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 * [2024-04-05, 22:21:28](https://news.ycombinator.com/item?id=39947981) - [EV bargains to be found as Hertz sells off some of its electric cars](https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/)
 * [2024-04-05, 22:12:20](https://news.ycombinator.com/item?id=39947894) - [Why the Arabic World Turned Away from Science](https://www.thenewatlantis.com/publications/why-the-arabic-world-turned-away-from-science)
 * [2024-04-05, 22:07:55](https://news.ycombinator.com/item?id=39947843) - [A stealth attack came close to compromising the Internet](https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers)
+* [2024-04-05, 21:56:59](https://news.ycombinator.com/item?id=39947731) - [Emacs bug: describe-key and lambda too poetic](https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u)
 * [2024-04-05, 21:55:01](https://news.ycombinator.com/item?id=39947713) - [world_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
 * [2024-04-05, 21:49:38](https://news.ycombinator.com/item?id=39947666) - [Open-Source 4WD AI Robot Kit Compatible with Raspberry Pi Models 4 and 5](https://linuxgizmos.com/open-source-4wd-ai-robot-kit-compatible-with-raspberry-pi-models-4-and-5/)
 * [2024-04-05, 21:30:45](https://news.ycombinator.com/item?id=39947485) - [How does DNS work](https://cr.yp.to/djbdns/intro-dns.html)
