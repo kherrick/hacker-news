@@ -3,7 +3,6 @@
 * [2024-04-06, 17:06:26](https://news.ycombinator.com/item?id=39953746) - [Xbox has a new team dedicated to game preservation and forward compatibility](https://www.windowscentral.com/gaming/xbox/exclusive-xbox-president-sarah-bond-has-set-up-a-new-team-dedicated-to-game-preservation-and-forward-compatibility)
 * [2024-04-06, 17:05:53](https://news.ycombinator.com/item?id=39953745) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
-* [2024-04-06, 16:42:03](https://news.ycombinator.com/item?id=39953581) - [Slides from a lecture series on algebraic geometry for computer graphics (2022)](https://courses.cs.washington.edu/courses/cse590b/13au/)
 * [2024-04-06, 15:47:02](https://news.ycombinator.com/item?id=39953207) - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
 * [2024-04-06, 14:34:36](https://news.ycombinator.com/item?id=39952784) - [eC Programming Language](https://ec-lang.org)
@@ -29,6 +28,7 @@
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 * [2024-04-04, 08:00:53](https://news.ycombinator.com/item?id=39927698) - [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/)
 * [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
+* [2024-04-04, 04:36:42](https://news.ycombinator.com/item?id=39926575) - [How to take down production with a single Helm command](https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/)
 * [2024-04-03, 21:03:59](https://news.ycombinator.com/item?id=39923111) - [Ultraviolet catastrophe](https://en.wikipedia.org/wiki/Ultraviolet_catastrophe)
 
 ## [Archives](archives/index.md)
