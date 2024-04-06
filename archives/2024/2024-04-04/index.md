@@ -75,6 +75,7 @@
 * [2024-04-04, 11:21:04](https://news.ycombinator.com/item?id=39928894) - [Oh No Robot: Comics search](https://www.ohnorobot.com/)
 * [2024-04-04, 11:17:25](https://news.ycombinator.com/item?id=39928867) - [A podcast about the xz backdoor with the guy who found it](https://risky.biz/RB743/)
 * [2024-04-04, 11:16:09](https://news.ycombinator.com/item?id=39928860) - [65 years ago, America announced the names of its first astronauts](https://www.theregister.com/2024/04/04/65_years_ago_mercury_7/)
+* [2024-04-04, 10:54:18](https://news.ycombinator.com/item?id=39928714) - [SLAC completes construction of the largest digital camera built for astronomy](https://www6.slac.stanford.edu/news/2024-04-03-slac-completes-construction-largest-digital-camera-ever-built-astronomy)
 * [2024-04-04, 10:48:55](https://news.ycombinator.com/item?id=39928687) - [How to send progress updates](https://www.spakhm.com/updates-howto)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
 * [2024-04-04, 10:42:04](https://news.ycombinator.com/item?id=39928646) - [PragmatIC Semiconductor made a flexible 6502 in two weeks. (2021)](https://www.pragmaticsemi.com/newsroom/press-releases/pragmatic-semiconductor-re-invents-the-iconic-processor-that-changed-the-world)
