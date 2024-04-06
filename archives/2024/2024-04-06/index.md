@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 15:06:41](https://news.ycombinator.com/item?id=39952979) - [HashiCorp: OpenTofu was not respecting the terms of its BSL license](https://twitter.com/OpenTofuOrg/status/1776398008558493991)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
 * [2024-04-06, 14:16:49](https://news.ycombinator.com/item?id=39952611) - [Text Manipulation in Linux: Awk vs. Sed](https://www.linuxjournal.com/content/text-manipulation-linux-awk-vs-sed)
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
