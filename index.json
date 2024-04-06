@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-06, 14:07:28",
-      "https://news.ycombinator.com/item?id=39952533"
+      "2024-04-06, 14:16:49",
+      "https://news.ycombinator.com/item?id=39952611"
     ],
     [
-      "ESR is building an autotools killer",
-      "https://twitter.com/esrtweet/status/1776587609021514215"
+      "Text Manipulation in Linux: Awk vs. Sed",
+      "https://www.linuxjournal.com/content/text-manipulation-linux-awk-vs-sed"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 14:12:13",
+      "https://news.ycombinator.com/item?id=39952570"
+    ],
+    [
+      "System/360 – CHM Revolution",
+      "https://www.computerhistory.org/revolution/mainframe-computers/7/164"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "NASA spacecraft films crazy vortex while flying through sun's atmosphere",
       "https://mashable.com/article/nasa-sun-footage-parker-solar-probe"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 12:41:16",
-      "https://news.ycombinator.com/item?id=39952061"
-    ],
-    [
-      "Farmed salmon production leads to an overall loss of essential dietary nutrients",
-      "https://www.cam.ac.uk/research/news/fish-fed-to-farmed-salmon-should-be-part-of-our-diet-too-study-suggests"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "PID Controller Explainer (2022)",
       "https://ben.bolte.cc/pid-controller"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 07:57:01",
+      "https://news.ycombinator.com/item?id=39950805"
+    ],
+    [
+      "Show HN: A url only notepad that hosts itself",
+      "https://github.com/con-dog/serverless-architecture"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-04-05, 05:45:36",
-      "https://news.ycombinator.com/item?id=39939036"
-    ],
-    [
-      "Postgres locks explorer",
-      "https://leontrolski.github.io/pglockpy.html"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 11:16:09",
       "https://news.ycombinator.com/item?id=39928860"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-04-03, 09:13:01",
-      "https://news.ycombinator.com/item?id=39915063"
+      "2024-04-03, 22:48:57",
+      "https://news.ycombinator.com/item?id=39924332"
     ],
     [
-      "NASA is working on new clock for the Moon",
-      "https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html"
+      "Science Saved the World (2000)",
+      "https://www.nature.com/articles/83892"
     ]
   ],
   [
