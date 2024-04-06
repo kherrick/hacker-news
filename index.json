@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-04-06, 12:06:13",
+      "https://news.ycombinator.com/item?id=39951885"
+    ],
+    [
+      "Let's Make a DOS BBS in an offensively modern way [video]",
+      "https://www.youtube.com/watch?v=wLVHXn79l8M"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 12:02:15",
       "https://news.ycombinator.com/item?id=39951863"
     ],
     [
       "Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)",
       "https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 11:16:22",
+      "https://news.ycombinator.com/item?id=39951649"
+    ],
+    [
+      "Asus refunds Zenfone buyer for failing to provide bootloader unlock tools",
+      "https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 11:02:04",
+      "https://news.ycombinator.com/item?id=39951587"
+    ],
+    [
+      "503 days working full-time on FOSS: lessons learned",
+      "https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Ownership in Rust",
       "https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 04:09:08",
-      "https://news.ycombinator.com/item?id=39949866"
-    ],
-    [
-      "The \"Eisenhower matrix\" productivity hack",
-      "https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-04-05, 11:49:55",
-      "https://news.ycombinator.com/item?id=39941232"
-    ],
-    [
-      "Show HN: Kyoo – Self-hosted media browser (Jellyfin/Plex alternative)",
-      "https://github.com/zoriya/Kyoo"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 05:45:36",
       "https://news.ycombinator.com/item?id=39939036"
     ],
     [
       "Postgres locks explorer",
       "https://leontrolski.github.io/pglockpy.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 11:21:04",
-      "https://news.ycombinator.com/item?id=39928894"
-    ],
-    [
-      "Oh No Robot: Comics search",
-      "https://www.ohnorobot.com/"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "Interview with a blind developer on how he works (2017)",
       "https://www.vincit.com/blog/software-development-450-words-per-minute"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 09:16:08",
+      "https://news.ycombinator.com/item?id=39928156"
+    ],
+    [
+      "Show HN: CloudTabs Web Browser – a streaming web browser on every website",
+      "https://browse.cloudtabs.net/signupless_sessions"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Blink to Generate Power for Smart Contact Lenses",
       "https://spectrum.ieee.org/power-smart-contact-lenses"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 04:50:04",
-      "https://news.ycombinator.com/item?id=39902489"
-    ],
-    [
-      "Debugging (2003)",
-      "https://airs.com/ian/essays/debug/debug.html"
     ]
   ]
 ]
