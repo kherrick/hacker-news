@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 17:06:26](https://news.ycombinator.com/item?id=39953746) - [Xbox has a new team dedicated to game preservation and forward compatibility](https://www.windowscentral.com/gaming/xbox/exclusive-xbox-president-sarah-bond-has-set-up-a-new-team-dedicated-to-game-preservation-and-forward-compatibility)
 * [2024-04-06, 17:05:53](https://news.ycombinator.com/item?id=39953745) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
 * [2024-04-06, 16:42:03](https://news.ycombinator.com/item?id=39953581) - [Slides from a lecture series on algebraic geometry for computer graphics (2022)](https://courses.cs.washington.edu/courses/cse590b/13au/)
@@ -19,7 +20,6 @@
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-05, 19:08:10](https://news.ycombinator.com/item?id=39945916) - [Under Attila's Gaze](https://quillette.com/2024/04/05/the-so-called-dark-ages-herbert-bushman-attila-the-hun/)
 * [2024-04-05, 19:06:00](https://news.ycombinator.com/item?id=39945887) - [The Useful Village](https://www.vqronline.org/reporting-articles/2017/04/useful-village)
-* [2024-04-05, 17:39:10](https://news.ycombinator.com/item?id=39945063) - [Jordan Mechner vs. the sands of time](https://www.washingtonpost.com/entertainment/video-games/2024/04/01/jordan-mechner-prince-persia-karateka/)
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
 * [2024-04-04, 11:54:19](https://news.ycombinator.com/item?id=39929185) - [We've saved 98% in cloud costs by writing our own database](https://hivekit.io/blog/how-weve-saved-5000-percent-in-cloud-costs-by-writing-our-own-database/)
 * [2024-04-04, 11:17:10](https://news.ycombinator.com/item?id=39928866) - [New sunflower family tree reveals multiple origins of flower symmetry](https://phys.org/news/2024-04-sunflower-family-tree-reveals-multiple.html)
