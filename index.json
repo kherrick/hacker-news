@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=39955745"
     ],
     [
-      "Tridge Returns to Rsync",
+      "Tridge returns to rsync",
       "https://lwn.net/Articles/968732/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 20:24:31",
-      "https://news.ycombinator.com/item?id=39955189"
-    ],
-    [
-      "Trademark bully': Momofuku turns up heat on others selling 'chili crunch'",
-      "https://www.theguardian.com/food/2024/apr/04/chili-crunch-trademark-momofuku-david-chang"
     ]
   ],
   [
@@ -31,6 +21,16 @@
   ],
   [
     [
+      "2024-04-06, 20:08:47",
+      "https://news.ycombinator.com/item?id=39955057"
+    ],
+    [
+      "Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design",
+      "https://brutalisthackernews.com"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 19:44:14",
       "https://news.ycombinator.com/item?id=39954881"
     ],
@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2024-04-06, 19:40:50",
+      "https://news.ycombinator.com/item?id=39954849"
+    ],
+    [
+      "What is the most useful project you have worked on?",
+      "https://news.ycombinator.com/item?id=39954849"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 19:37:47",
       "https://news.ycombinator.com/item?id=39954823"
     ],
     [
       "Teachers are using AI to grade essays. Some experts are raising ethical concerns",
       "https://www.cnn.com/2024/04/06/tech/teachers-grading-ai/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 19:23:18",
-      "https://news.ycombinator.com/item?id=39954724"
-    ],
-    [
-      "Namecheap Disrupting Itself with Spaceship",
-      "https://twitter.com/NamecheapCEO/status/1776484212629004385"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39953707"
     ],
     [
-      "Zep AI (YC W24) Is Hiring a Founding Go Engineer",
+      "Zep AI (YC W24) is hiring a founding Go engineer",
       "https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "Home insurers are dropping customers based on aerial images",
       "https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 14:39:05",
+      "https://news.ycombinator.com/item?id=39952826"
+    ],
+    [
+      "Language models are Super Mario: Absorbing abilities from homologous models",
+      "https://arxiv.org/abs/2311.03099"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Replacing Complicated Hashmaps with SQLite",
       "https://husin.dev/ephemeral-sqlite/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 08:26:48",
-      "https://news.ycombinator.com/item?id=39950929"
-    ],
-    [
-      "Optuna – A Hyperparameter Optimization Framework",
-      "https://optuna.org/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39928223"
     ],
     [
-      "Tokens, N-Grams, and Bag-of-Words Models",
+      "Tokens, n-grams, and bag-of-words models (2023)",
       "https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39927698"
     ],
     [
-      "Generative UI and Outcome-Oriented Design",
+      "Generative UI and outcome-oriented design",
       "https://www.nngroup.com/articles/generative-ui/"
     ]
   ]
