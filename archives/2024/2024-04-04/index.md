@@ -92,6 +92,7 @@
 * [2024-04-04, 06:59:11](https://news.ycombinator.com/item?id=39927352) - [Seattle shuts down gifted program for having too many white and Asian students](https://nypost.com/2024/04/03/us-news/seattle-public-schools-shuts-down-gifted-and-talented-program/)
 * [2024-04-04, 06:40:47](https://news.ycombinator.com/item?id=39927246) - [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
 * [2024-04-04, 06:05:23](https://news.ycombinator.com/item?id=39927057) - [GenZ software engineers, according to older colleagues](https://newsletter.pragmaticengineer.com/p/genz)
+* [2024-04-04, 06:03:28](https://news.ycombinator.com/item?id=39927051) - [The Secret Lives of Ernest Beaux](https://buchananb.substack.com/p/the-secret-lives-of-ernest-beaux)
 * [2024-04-04, 06:01:05](https://news.ycombinator.com/item?id=39927040) - [Bringing Back the Somali Shilling](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
 * [2024-04-04, 05:57:08](https://news.ycombinator.com/item?id=39927018) - [Vincent Czyz's \"Sun Eye Moon Eye\": Cozy with the Quotidian and the Cosmological](https://artsfuse.org/289985/book-review-vincent-czyzs-sun-eye-moon-eye-cozy-with-the-quotidian-and-the-cosmological/)
 * [2024-04-04, 05:47:01](https://news.ycombinator.com/item?id=39926961) - [Device Bound Session Credentials Explainer](https://github.com/WICG/dbsc)
