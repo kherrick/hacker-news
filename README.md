@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
+* [2024-04-06, 18:34:12](https://news.ycombinator.com/item?id=39954398) - [Facebook Is Censoring Stories about Climate Change and Illegal Raid](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
 * [2024-04-06, 17:58:15](https://news.ycombinator.com/item?id=39954149) - [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
@@ -19,7 +21,6 @@
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-05, 19:08:10](https://news.ycombinator.com/item?id=39945916) - [Under Attila's Gaze](https://quillette.com/2024/04/05/the-so-called-dark-ages-herbert-bushman-attila-the-hun/)
-* [2024-04-05, 19:06:00](https://news.ycombinator.com/item?id=39945887) - [The Useful Village](https://www.vqronline.org/reporting-articles/2017/04/useful-village)
 * [2024-04-05, 17:39:10](https://news.ycombinator.com/item?id=39945063) - [Jordan Mechner vs. the sands of time](https://www.washingtonpost.com/entertainment/video-games/2024/04/01/jordan-mechner-prince-persia-karateka/)
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
 * [2024-04-04, 11:54:19](https://news.ycombinator.com/item?id=39929185) - [Saving cloud costs by writing our own database](https://hivekit.io/blog/how-weve-saved-5000-percent-in-cloud-costs-by-writing-our-own-database/)
@@ -28,7 +29,6 @@
 * [2024-04-04, 10:24:47](https://news.ycombinator.com/item?id=39928542) - [PostgreSQL and Its Annoying Crosstab](https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 * [2024-04-04, 08:00:53](https://news.ycombinator.com/item?id=39927698) - [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/)
-* [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 * [2024-04-04, 02:46:11](https://news.ycombinator.com/item?id=39926023) - [Moment diagrams for simply supported beams](https://leancrew.com/all-this/2024/04/moment-diagrams-for-simply-supported-beams/)
 
 ## [Archives](archives/index.md)
