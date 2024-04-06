@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 21:08:42](https://news.ycombinator.com/item?id=39955569) - [After shooting, MSU promised safety. It delivered surveillance](https://statenews.com/article/2024/04/after-shooting-msu-promised-safety-it-delivered-surveillance?ct=content_open&cv=cbox_featured)
 * [2024-04-06, 20:24:31](https://news.ycombinator.com/item?id=39955189) - [Trademark bully': Momofuku turns up heat on others selling 'chili crunch'](https://www.theguardian.com/food/2024/apr/04/chili-crunch-trademark-momofuku-david-chang)
 * [2024-04-06, 20:18:58](https://news.ycombinator.com/item?id=39955148) - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
-* [2024-04-06, 20:04:29](https://news.ycombinator.com/item?id=39955029) - [Do loud pipes save lives? (2021)](https://www.autoweek.com/news/industry-news/a35952569/loud-pipes-do-not-save-lives/)
 * [2024-04-06, 19:44:14](https://news.ycombinator.com/item?id=39954881) - [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
 * [2024-04-06, 19:40:50](https://news.ycombinator.com/item?id=39954849) - [What is the most useful project you have worked on?](https://news.ycombinator.com/item?id=39954849)
 * [2024-04-06, 19:23:18](https://news.ycombinator.com/item?id=39954724) - [Namecheap Disrupting Itself with Spaceship](https://twitter.com/NamecheapCEO/status/1776484212629004385)

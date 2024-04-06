@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 21:08:42](https://news.ycombinator.com/item?id=39955569) - [After shooting, MSU promised safety. It delivered surveillance](https://statenews.com/article/2024/04/after-shooting-msu-promised-safety-it-delivered-surveillance?ct=content_open&cv=cbox_featured)
 * [2024-04-06, 20:24:31](https://news.ycombinator.com/item?id=39955189) - [Trademark bully': Momofuku turns up heat on others selling 'chili crunch'](https://www.theguardian.com/food/2024/apr/04/chili-crunch-trademark-momofuku-david-chang)
 * [2024-04-06, 20:18:58](https://news.ycombinator.com/item?id=39955148) - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
 * [2024-04-06, 20:08:47](https://news.ycombinator.com/item?id=39955057) - [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
