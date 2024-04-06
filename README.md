@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-06, 04:06:41](https://news.ycombinator.com/item?id=39949854) - [Google Silent About Israel Using Its Photo Software to Create Gaza \"Hit List\"](https://theintercept.com/2024/04/05/google-photos-israel-gaza-facial-recognition/)
+* [2024-04-06, 04:09:08](https://news.ycombinator.com/item?id=39949866) - [Why the \"Eisenhower matrix\" is a fantastic productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
 * [2024-04-06, 00:18:20](https://news.ycombinator.com/item?id=39948840) - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 * [2024-04-05, 23:55:41](https://news.ycombinator.com/item?id=39948686) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 * [2024-04-05, 23:15:40](https://news.ycombinator.com/item?id=39948404) - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
@@ -8,7 +8,6 @@
 * [2024-04-05, 22:27:59](https://news.ycombinator.com/item?id=39948044) - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 * [2024-04-05, 21:56:59](https://news.ycombinator.com/item?id=39947731) - [Emacs bug: describe-key and lambda too poetic](https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u)
 * [2024-04-05, 21:55:01](https://news.ycombinator.com/item?id=39947713) - [World_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
-* [2024-04-05, 19:30:30](https://news.ycombinator.com/item?id=39946169) - [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
 * [2024-04-05, 19:09:25](https://news.ycombinator.com/item?id=39945931) - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
 * [2024-04-05, 18:50:46](https://news.ycombinator.com/item?id=39945733) - [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 * [2024-04-05, 17:00:39](https://news.ycombinator.com/item?id=39944658) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
@@ -30,6 +29,7 @@
 * [2024-04-03, 08:13:40](https://news.ycombinator.com/item?id=39914776) - [Philly Typewriter](https://www.atlasobscura.com/places/philly-typewriter-philadelphia)
 * [2024-04-02, 20:02:13](https://news.ycombinator.com/item?id=39910256) - [The Wide Awakes: A 19th century club of cape-wearing anti-slavery activists](https://www.smithsonianmag.com/history/club-cape-wearing-activists-helped-elect-lincoln-spark-civil-war-180984000/)
 * [2024-04-02, 12:57:40](https://news.ycombinator.com/item?id=39905211) - [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
+* [2024-04-02, 08:09:03](https://news.ycombinator.com/item?id=39903398) - [Inspectopedia: Analyze code against inspections in your IDE or CI pipeline](https://www.jetbrains.com/pages/inspectopedia-by-jetbrains/)
 
 ## [Archives](archives/index.md)
 
