@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-05, 23:09:35",
-      "https://news.ycombinator.com/item?id=39948366"
+      "2024-04-05, 23:55:41",
+      "https://news.ycombinator.com/item?id=39948686"
     ],
     [
-      "I fell out of love with academia",
-      "https://www.math.columbia.edu/~woit/wordpress/?p=13907"
+      "Why CockroachDB doesn't use EvalPlanQual",
+      "https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/"
+    ]
+  ],
+  [
+    [
+      "2024-04-05, 23:15:40",
+      "https://news.ycombinator.com/item?id=39948404"
+    ],
+    [
+      "C++ Insights – See your source code with the eyes of a compiler",
+      "https://github.com/andreasfertig/cppinsights"
     ]
   ],
   [
@@ -21,22 +31,12 @@
   ],
   [
     [
-      "2024-04-05, 22:21:28",
-      "https://news.ycombinator.com/item?id=39947981"
+      "2024-04-05, 21:56:59",
+      "https://news.ycombinator.com/item?id=39947731"
     ],
     [
-      "EV bargains to be found as Hertz sells off some of its electric cars",
-      "https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 22:07:55",
-      "https://news.ycombinator.com/item?id=39947843"
-    ],
-    [
-      "A stealth attack came close to compromising the Internet",
-      "https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers"
+      "Emacs bug: describe-key and lambda too poetic",
+      "https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "world_sim: LLM prompted to act as a sentient CLI universe simulator",
       "https://worldsim.nousresearch.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 20:39:29",
-      "https://news.ycombinator.com/item?id=39946923"
-    ],
-    [
-      "Data brokers are gearing up to fight privacy bills",
-      "https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis"
     ]
   ],
   [
@@ -127,16 +117,6 @@
     [
       "The Rise and Fall of Silicon Graphics",
       "https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 16:38:49",
-      "https://news.ycombinator.com/item?id=39944452"
-    ],
-    [
-      "Identifying Stable Diffusion XL 1.0 images from VAE artifacts (2023)",
-      "https://hforsten.com/identifying-stable-diffusion-xl-10-images-from-vae-artifacts.html"
     ]
   ],
   [
@@ -227,6 +207,26 @@
     [
       "Interview with a blind developer on how he works (2017)",
       "https://www.vincit.com/blog/software-development-450-words-per-minute"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 10:42:04",
+      "https://news.ycombinator.com/item?id=39928646"
+    ],
+    [
+      "PragmatIC Semiconductor made a flexible 6502 in two weeks. (2021)",
+      "https://www.pragmaticsemi.com/newsroom/press-releases/pragmatic-semiconductor-re-invents-the-iconic-processor-that-changed-the-world"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 10:35:17",
+      "https://news.ycombinator.com/item?id=39928604"
+    ],
+    [
+      "Anatomy of a credit card rewards program",
+      "https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/"
     ]
   ],
   [
