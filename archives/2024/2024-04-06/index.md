@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
 * [2024-04-06, 15:06:41](https://news.ycombinator.com/item?id=39952979) - [HashiCorp: OpenTofu was not respecting the terms of its BSL license](https://twitter.com/OpenTofuOrg/status/1776398008558493991)
+* [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Insurers Are Spying on Your Home from the Sky](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
 * [2024-04-06, 14:16:49](https://news.ycombinator.com/item?id=39952611) - [Text Manipulation in Linux: Awk vs. Sed](https://www.linuxjournal.com/content/text-manipulation-linux-awk-vs-sed)
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
@@ -15,6 +16,7 @@
 * [2024-04-06, 12:42:13](https://news.ycombinator.com/item?id=39952070) - [Hacked](https://pbfcomics.com/comics/hacked/)
 * [2024-04-06, 12:41:16](https://news.ycombinator.com/item?id=39952061) - [Farmed salmon production leads to an overall loss of essential dietary nutrients](https://www.cam.ac.uk/research/news/fish-fed-to-farmed-salmon-should-be-part-of-our-diet-too-study-suggests)
 * [2024-04-06, 12:37:03](https://news.ycombinator.com/item?id=39952037) - [What Happens When the Oxide Server Boots? [video]](https://www.youtube.com/watch?v=ENAMGTOe6NA)
+* [2024-04-06, 12:26:05](https://news.ycombinator.com/item?id=39951990) - [Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
 * [2024-04-06, 12:09:58](https://news.ycombinator.com/item?id=39951904) - [The wealthy are starting to have more babies than the poor again](https://www.japantimes.co.jp/commentary/2024/04/03/wealthy-having-babies/)
 * [2024-04-06, 12:06:13](https://news.ycombinator.com/item?id=39951885) - [Let's Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
 * [2024-04-06, 12:02:15](https://news.ycombinator.com/item?id=39951863) - [Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
