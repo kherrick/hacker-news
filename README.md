@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 17:58:15](https://news.ycombinator.com/item?id=39954149) - [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
 * [2024-04-06, 15:47:02](https://news.ycombinator.com/item?id=39953207) - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
@@ -29,7 +30,6 @@
 * [2024-04-04, 08:00:53](https://news.ycombinator.com/item?id=39927698) - [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/)
 * [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 * [2024-04-04, 02:46:11](https://news.ycombinator.com/item?id=39926023) - [Moment diagrams for simply supported beams](https://leancrew.com/all-this/2024/04/moment-diagrams-for-simply-supported-beams/)
-* [2024-04-02, 07:31:19](https://news.ycombinator.com/item?id=39903210) - [Blink to generate power for smart contact lenses](https://spectrum.ieee.org/power-smart-contact-lenses)
 
 ## [Archives](archives/index.md)
 
