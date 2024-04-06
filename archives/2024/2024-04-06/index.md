@@ -8,6 +8,7 @@
 * [2024-04-06, 15:34:35](https://news.ycombinator.com/item?id=39953123) - [Tesla Cancels Mass-Market $25,000 Car, Musk Says This Is a Lie](https://jalopnik.com/tesla-cancels-mass-market-25-000-car-musk-says-this-i-1851391326)
 * [2024-04-06, 15:06:41](https://news.ycombinator.com/item?id=39952979) - [HashiCorp: OpenTofu was not respecting the terms of its BSL license](https://twitter.com/OpenTofuOrg/status/1776398008558493991)
 * [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Insurers Are Spying on Your Home from the Sky](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
+* [2024-04-06, 14:40:54](https://news.ycombinator.com/item?id=39952839) - [Melting glaciers could help stop global warming](https://www.washingtonpost.com/climate-solutions/2024/04/06/glacier-greenland-rock-flour/)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
 * [2024-04-06, 14:36:21](https://news.ycombinator.com/item?id=39952801) - [Maintenance.md](https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md)
 * [2024-04-06, 14:34:36](https://news.ycombinator.com/item?id=39952784) - [eC Programming Language](https://ec-lang.org)
