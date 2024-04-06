@@ -14,6 +14,7 @@
 * [2024-04-06, 13:01:55](https://news.ycombinator.com/item?id=39952162) - [Photoshop for Text (2022)](https://stephango.com/photoshop-for-text)
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:26:05](https://news.ycombinator.com/item?id=39951990) - [Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
+* [2024-04-06, 11:19:19](https://news.ycombinator.com/item?id=39951663) - [Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution](https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/)
 * [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [Loki: An open-source tool for fact verification](https://github.com/Libr-AI/OpenFactVerification)
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
 * [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
@@ -29,7 +30,6 @@
 * [2024-04-04, 10:24:47](https://news.ycombinator.com/item?id=39928542) - [PostgreSQL and Its Annoying Crosstab](https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 * [2024-04-04, 08:00:53](https://news.ycombinator.com/item?id=39927698) - [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/)
-* [2024-04-04, 02:46:11](https://news.ycombinator.com/item?id=39926023) - [Moment diagrams for simply supported beams](https://leancrew.com/all-this/2024/04/moment-diagrams-for-simply-supported-beams/)
 
 ## [Archives](archives/index.md)
 
