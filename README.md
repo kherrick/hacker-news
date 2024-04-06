@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 04:06:41](https://news.ycombinator.com/item?id=39949854) - [Google Silent About Israel Using Its Photo Software to Create Gaza \"Hit List\"](https://theintercept.com/2024/04/05/google-photos-israel-gaza-facial-recognition/)
 * [2024-04-06, 00:18:20](https://news.ycombinator.com/item?id=39948840) - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 * [2024-04-05, 23:55:41](https://news.ycombinator.com/item?id=39948686) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 * [2024-04-05, 23:15:40](https://news.ycombinator.com/item?id=39948404) - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
@@ -29,7 +30,6 @@
 * [2024-04-03, 08:13:40](https://news.ycombinator.com/item?id=39914776) - [Philly Typewriter](https://www.atlasobscura.com/places/philly-typewriter-philadelphia)
 * [2024-04-02, 20:02:13](https://news.ycombinator.com/item?id=39910256) - [The Wide Awakes: A 19th century club of cape-wearing anti-slavery activists](https://www.smithsonianmag.com/history/club-cape-wearing-activists-helped-elect-lincoln-spark-civil-war-180984000/)
 * [2024-04-02, 12:57:40](https://news.ycombinator.com/item?id=39905211) - [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
-* [2024-04-02, 08:09:03](https://news.ycombinator.com/item?id=39903398) - [Inspectopedia: Analyze code against inspections in your IDE or CI pipeline](https://www.jetbrains.com/pages/inspectopedia-by-jetbrains/)
 
 ## [Archives](archives/index.md)
 
