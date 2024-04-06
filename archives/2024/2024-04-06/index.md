@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 22:59:25](https://news.ycombinator.com/item?id=39956455) - [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
 * [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 21:52:38](https://news.ycombinator.com/item?id=39955944) - [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
 * [2024-04-06, 21:28:08](https://news.ycombinator.com/item?id=39955745) - [Tridge Returns to Rsync](https://lwn.net/Articles/968732/)
