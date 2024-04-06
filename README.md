@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-06, 17:05:53](https://news.ycombinator.com/item?id=39953745) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
 * [2024-04-06, 16:31:13](https://news.ycombinator.com/item?id=39953518) - [Citizen scientist has measured Rockies snowfall for 50 years](https://apnews.com/article/citizen-scientist-snow-rocky-mountains-drought-water-3a4e053d7db9be3eb22aa6809eab57c0)
 * [2024-04-06, 16:22:32](https://news.ycombinator.com/item?id=39953454) - [The One Piece of Tech That Would Make the New York City Subway Safer: Barriers](https://themarkup.org/hello-world/2024/04/06/the-one-piece-of-tech-that-would-make-the-new-york-city-subway-much-safer)
@@ -11,8 +10,9 @@
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
 * [2024-04-06, 13:01:55](https://news.ycombinator.com/item?id=39952162) - [Photoshop for Text (2022)](https://stephango.com/photoshop-for-text)
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
+* [2024-04-06, 12:26:05](https://news.ycombinator.com/item?id=39951990) - [Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
 * [2024-04-06, 11:16:22](https://news.ycombinator.com/item?id=39951649) - [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
-* [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [An Open Source Tool for Multimodal Fact Verification](https://github.com/Libr-AI/OpenFactVerification)
+* [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [Loki: An open-source tool for fact verification](https://github.com/Libr-AI/OpenFactVerification)
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
 * [2024-04-06, 08:26:48](https://news.ycombinator.com/item?id=39950929) - [Optuna – A Hyperparameter Optimization Framework](https://optuna.org/)
 * [2024-04-06, 07:58:13](https://news.ycombinator.com/item?id=39950812) - [PID Controller Explainer (2022)](https://ben.bolte.cc/pid-controller)
