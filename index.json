@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-06, 17:05:53",
-      "https://news.ycombinator.com/item?id=39953745"
-    ],
-    [
-      "Long-form factuality in large language models",
-      "https://arxiv.org/abs/2403.18802"
-    ]
-  ],
-  [
-    [
       "2024-04-06, 17:00:02",
       "https://news.ycombinator.com/item?id=39953707"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2024-04-06, 12:26:05",
+      "https://news.ycombinator.com/item?id=39951990"
+    ],
+    [
+      "Deep Aphantasia: a visual brain with minimal influence from priors?",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 11:16:22",
       "https://news.ycombinator.com/item?id=39951649"
     ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39951571"
     ],
     [
-      "An Open Source Tool for Multimodal Fact Verification",
+      "Loki: An open-source tool for fact verification",
       "https://github.com/Libr-AI/OpenFactVerification"
     ]
   ],
