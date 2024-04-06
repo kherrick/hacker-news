@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 15:51:05](https://news.ycombinator.com/item?id=39953225) - [A crane with a CIA history helps with the Baltimore bridge cleanup](https://www.npr.org/2024/04/05/1242887913/baltimore-bridge-collapse-port-crane-chessy-cia)
 * [2024-04-06, 15:47:02](https://news.ycombinator.com/item?id=39953207) - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 * [2024-04-06, 15:34:35](https://news.ycombinator.com/item?id=39953123) - [Tesla Cancels Mass-Market $25,000 Car, Musk Says This Is a Lie](https://jalopnik.com/tesla-cancels-mass-market-25-000-car-musk-says-this-i-1851391326)
 * [2024-04-06, 15:06:41](https://news.ycombinator.com/item?id=39952979) - [HashiCorp: OpenTofu was not respecting the terms of its BSL license](https://twitter.com/OpenTofuOrg/status/1776398008558493991)

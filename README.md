@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-06, 15:51:05](https://news.ycombinator.com/item?id=39953225) - [A crane with a CIA history helps with the Baltimore bridge cleanup](https://www.npr.org/2024/04/05/1242887913/baltimore-bridge-collapse-port-crane-chessy-cia)
 * [2024-04-06, 15:47:02](https://news.ycombinator.com/item?id=39953207) - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 * [2024-04-06, 14:40:54](https://news.ycombinator.com/item?id=39952839) - [Melting glaciers could help stop global warming](https://www.washingtonpost.com/climate-solutions/2024/04/06/glacier-greenland-rock-flour/)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
@@ -24,7 +25,6 @@
 * [2024-04-05, 22:27:59](https://news.ycombinator.com/item?id=39948044) - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 * [2024-04-05, 21:55:01](https://news.ycombinator.com/item?id=39947713) - [World_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
 * [2024-04-05, 16:21:49](https://news.ycombinator.com/item?id=39944275) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
-* [2024-04-05, 13:53:10](https://news.ycombinator.com/item?id=39942397) - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
 * [2024-04-04, 10:47:10](https://news.ycombinator.com/item?id=39928679) - [Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
 * [2024-04-04, 10:24:47](https://news.ycombinator.com/item?id=39928542) - [PostgreSQL and Its Annoying Crosstab](https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
