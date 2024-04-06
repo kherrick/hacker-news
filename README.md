@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Insurers Are Spying on Your Home from the Sky](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
-* [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
 * [2024-04-06, 14:34:36](https://news.ycombinator.com/item?id=39952784) - [eC Programming Language](https://ec-lang.org)
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
+* [2024-04-06, 13:01:55](https://news.ycombinator.com/item?id=39952162) - [Photoshop for Text (2022)](https://stephango.com/photoshop-for-text)
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:26:05](https://news.ycombinator.com/item?id=39951990) - [Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
 * [2024-04-06, 12:02:15](https://news.ycombinator.com/item?id=39951863) - [Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
