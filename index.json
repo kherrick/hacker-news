@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-06, 19:50:14",
-      "https://news.ycombinator.com/item?id=39954926"
-    ],
-    [
-      "Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution",
-      "https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/"
-    ]
-  ],
-  [
-    [
       "2024-04-06, 19:44:14",
       "https://news.ycombinator.com/item?id=39954881"
     ],
@@ -67,16 +57,6 @@
     [
       "A Theory of Composing Protocols",
       "https://programming-journal.org/2023/7/6/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 17:43:36",
-      "https://news.ycombinator.com/item?id=39954026"
-    ],
-    [
-      "Cybersecurity Is Broken",
-      "https://crankysec.com/blog/broken/"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "Ohmyksh: A Framework for OpenBSD's Ksh",
       "https://github.com/qbit/ohmyksh"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 08:26:48",
+      "https://news.ycombinator.com/item?id=39950929"
+    ],
+    [
+      "Optuna – A Hyperparameter Optimization Framework",
+      "https://optuna.org/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Generative UI and Outcome-Oriented Design",
       "https://www.nngroup.com/articles/generative-ui/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 07:57:47",
+      "https://news.ycombinator.com/item?id=39927682"
+    ],
+    [
+      "LSST Camera: largest camera for astronomy",
+      "https://www6.slac.stanford.edu/lsst"
     ]
   ]
 ]
