@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 21:28:08](https://news.ycombinator.com/item?id=39955745) - [Tridge Returns to Rsync](https://lwn.net/Articles/968732/)
 * [2024-04-06, 21:08:42](https://news.ycombinator.com/item?id=39955569) - [After shooting, MSU promised safety. It delivered surveillance](https://statenews.com/article/2024/04/after-shooting-msu-promised-safety-it-delivered-surveillance?ct=content_open&cv=cbox_featured)
 * [2024-04-06, 20:24:31](https://news.ycombinator.com/item?id=39955189) - [Trademark bully': Momofuku turns up heat on others selling 'chili crunch'](https://www.theguardian.com/food/2024/apr/04/chili-crunch-trademark-momofuku-david-chang)
