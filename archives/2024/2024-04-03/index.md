@@ -123,6 +123,7 @@
 * [2024-04-03, 07:47:56](https://news.ycombinator.com/item?id=39914644) - [A first look at Europe's alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
 * [2024-04-03, 07:37:29](https://news.ycombinator.com/item?id=39914592) - [Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M](https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04)
 * [2024-04-03, 07:15:29](https://news.ycombinator.com/item?id=39914478) - [Rickroll meme immortalized in custom ASIC that includes 164 hardcoded programs](https://www.theregister.com/2024/04/01/rickroll_meme_asic/)
+* [2024-04-03, 07:02:03](https://news.ycombinator.com/item?id=39914407) - [Starting the Journey (2022)](https://decafbad.net/2022/02/09/starting-the-journey/)
 * [2024-04-03, 06:38:15](https://news.ycombinator.com/item?id=39914293) - [HP Disables Printer Functionality Until You Install the HP Smart App](https://twitter.com/Schappi/status/1775384892970533208/photo/1)
 * [2024-04-03, 06:24:18](https://news.ycombinator.com/item?id=39914230) - [OpenTelemetry Is Too Complicated](https://www.datanami.com/2024/04/01/opentelemetry-is-too-complicated-victoriametrics-says/)
 * [2024-04-03, 06:07:58](https://news.ycombinator.com/item?id=39914142) - [Annin Robotics AR4, open plan low cost 6DOF desktop industrial robot](https://www.anninrobotics.com)
