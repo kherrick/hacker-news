@@ -19,7 +19,7 @@
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-05, 19:08:10](https://news.ycombinator.com/item?id=39945916) - [Under Attila's Gaze](https://quillette.com/2024/04/05/the-so-called-dark-ages-herbert-bushman-attila-the-hun/)
-* [2024-04-05, 19:06:00](https://news.ycombinator.com/item?id=39945887) - [The Useful Village](https://www.vqronline.org/reporting-articles/2017/04/useful-village)
+* [2024-04-05, 17:39:10](https://news.ycombinator.com/item?id=39945063) - [Jordan Mechner vs. the sands of time](https://www.washingtonpost.com/entertainment/video-games/2024/04/01/jordan-mechner-prince-persia-karateka/)
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
 * [2024-04-04, 11:54:19](https://news.ycombinator.com/item?id=39929185) - [We've saved 98% in cloud costs by writing our own database](https://hivekit.io/blog/how-weve-saved-5000-percent-in-cloud-costs-by-writing-our-own-database/)
 * [2024-04-04, 11:17:10](https://news.ycombinator.com/item?id=39928866) - [New sunflower family tree reveals multiple origins of flower symmetry](https://phys.org/news/2024-04-sunflower-family-tree-reveals-multiple.html)
