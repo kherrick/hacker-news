@@ -6,6 +6,7 @@
 
 * [2024-04-06, 06:57:24](https://news.ycombinator.com/item?id=39950557) - [Microsoft blocks even more customization apps in Windows 11 version 24H2](https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/)
 * [2024-04-06, 04:32:12](https://news.ycombinator.com/item?id=39949973) - [A memory model for Rust code in the kernel](https://lwn.net/Articles/967049/)
+* [2024-04-06, 04:12:24](https://news.ycombinator.com/item?id=39949882) - [Working with Qubes OS at the Guardian](https://www.theguardian.com/info/2024/apr/04/when-security-matters-working-with-qubes-os-at-the-guardian)
 * [2024-04-06, 04:09:08](https://news.ycombinator.com/item?id=39949866) - [Why the \"Eisenhower matrix\" is a fantastic productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
 * [2024-04-06, 04:06:41](https://news.ycombinator.com/item?id=39949854) - [Google Silent About Israel Using Its Photo Software to Create Gaza \"Hit List\"](https://theintercept.com/2024/04/05/google-photos-israel-gaza-facial-recognition/)
 * [2024-04-06, 04:06:34](https://news.ycombinator.com/item?id=39949853) - [How Often Have You Seen Mostly or 100% AWOL Managers?](https://news.ycombinator.com/item?id=39949853)
