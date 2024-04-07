@@ -6,6 +6,7 @@
 
 * [2024-04-07, 17:45:38](https://news.ycombinator.com/item?id=39962354) - [Atlanta Police Foundation pushed 'unprecedented' surveillance plan](https://atlpresscollective.com/2024/04/01/atlanta-police-foundation-pushed-unprecedented-surveillance-plan/)
 * [2024-04-07, 17:44:11](https://news.ycombinator.com/item?id=39962349) - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
+* [2024-04-07, 17:35:46](https://news.ycombinator.com/item?id=39962300) - [How one Mexican beach town saved itself from 'death by tourism'](https://www.aljazeera.com/features/2024/4/6/how-one-mexican-beach-town-saved-itself-from-death-by-tourism)
 * [2024-04-07, 17:19:06](https://news.ycombinator.com/item?id=39962194) - [Trudeau Unveils $1.8B Plan to Boost AI Sector in Canada](https://www.bloomberg.com/news/articles/2024-04-07/trudeau-unveils-1-8-billion-plan-to-boost-ai-sector-in-canada)
 * [2024-04-07, 17:18:37](https://news.ycombinator.com/item?id=39962184) - [Xemu: Original Xbox Emulator](https://xemu.app/)
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
