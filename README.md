@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 18:49:20](https://news.ycombinator.com/item?id=39962822) - [H2O-Danube-1.8B Technical Report](https://arxiv.org/abs/2401.16818)
 * [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 * [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
 * [2024-04-07, 18:24:43](https://news.ycombinator.com/item?id=39962644) - [Facebook banned website that links to critical article, claims phishing](https://bsky.app/profile/mosseri.bsky.social/post/3kpimfpxjkh2r)
@@ -14,6 +15,7 @@
 * [2024-04-07, 13:32:27](https://news.ycombinator.com/item?id=39960645) - [Blog posts, sorted by sleep](https://breckyunits.com/sleepWriting.html)
 * [2024-04-07, 13:13:43](https://news.ycombinator.com/item?id=39960537) - [Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests](https://github.com/stackframe-projects/pgmock)
 * [2024-04-07, 13:13:23](https://news.ycombinator.com/item?id=39960535) - [ClangQL: A tool to run SQL-like query on C/C++ Code](https://github.com/AmrDeveloper/ClangQL)
+* [2024-04-07, 12:19:29](https://news.ycombinator.com/item?id=39960248) - [Comparing Desoldering Tools](https://hackaday.com/2024/04/07/comparing-desoldering-tools/)
 * [2024-04-07, 12:08:22](https://news.ycombinator.com/item?id=39960202) - [Fire alarm audio detection, using FFTs and Go](https://github.com/pldubouilh/alarm)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
@@ -26,10 +28,8 @@
 * [2024-04-06, 19:59:24](https://news.ycombinator.com/item?id=39954993) - [Structuralism as a Philosophy of Mathematics](https://www.infinitelymore.xyz/p/structuralism)
 * [2024-04-06, 17:19:14](https://news.ycombinator.com/item?id=39953842) - [My favorite button on the internet](https://breadchris.com/blog/my-favorite-button-on-the-internet/)
 * [2024-04-06, 14:38:39](https://news.ycombinator.com/item?id=39952819) - [The Blessing of the Strings](https://bkardell.com/blog/blessing-strings.html)
-* [2024-04-06, 12:24:39](https://news.ycombinator.com/item?id=39951984) - [Santa Susana Field Laboratory](https://en.wikipedia.org/wiki/Santa_Susana_Field_Laboratory)
 * [2024-04-06, 07:49:55](https://news.ycombinator.com/item?id=39950773) - [Making Apple Progressive Blur on the Web](https://www.devslovecoffee.com/blog/making-apple-progressive-blur-on-web/)
 * [2024-04-05, 20:49:14](https://news.ycombinator.com/item?id=39947045) - [Clojure's machine learning ecosystem](https://codewithkira.com/2024-04-04-state-of-clojure-ml.html)
-* [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
 
 ## [Archives](archives/index.md)
 

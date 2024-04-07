@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 18:49:20](https://news.ycombinator.com/item?id=39962822) - [H2O-Danube-1.8B Technical Report](https://arxiv.org/abs/2401.16818)
 * [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 * [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
 * [2024-04-07, 18:24:43](https://news.ycombinator.com/item?id=39962644) - [Facebook banned website that links to critical article, claims phishing](https://bsky.app/profile/mosseri.bsky.social/post/3kpimfpxjkh2r)
@@ -30,6 +31,7 @@
 * [2024-04-07, 13:25:40](https://news.ycombinator.com/item?id=39960602) - [Ask HN: What does FB gain in making LLAMA free?](https://news.ycombinator.com/item?id=39960602)
 * [2024-04-07, 13:13:43](https://news.ycombinator.com/item?id=39960537) - [Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests](https://github.com/stackframe-projects/pgmock)
 * [2024-04-07, 13:13:23](https://news.ycombinator.com/item?id=39960535) - [ClangQL: A tool to run SQL-like query on C/C++ Code](https://github.com/AmrDeveloper/ClangQL)
+* [2024-04-07, 12:19:29](https://news.ycombinator.com/item?id=39960248) - [Comparing Desoldering Tools](https://hackaday.com/2024/04/07/comparing-desoldering-tools/)
 * [2024-04-07, 12:08:22](https://news.ycombinator.com/item?id=39960202) - [Fire alarm audio detection, using FFTs and Go](https://github.com/pldubouilh/alarm)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
