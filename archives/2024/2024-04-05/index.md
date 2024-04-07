@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
 * [2024-04-05, 23:55:41](https://news.ycombinator.com/item?id=39948686) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
+* [2024-04-05, 23:26:57](https://news.ycombinator.com/item?id=39948479) - [Tiny Biosensor Is Just a Cup, a Membrane, and a Magnet](https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless)
 * [2024-04-05, 23:15:40](https://news.ycombinator.com/item?id=39948404) - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
 * [2024-04-05, 23:09:35](https://news.ycombinator.com/item?id=39948366) - [I fell out of love with academia](https://www.math.columbia.edu/~woit/wordpress/?p=13907)
 * [2024-04-05, 22:58:04](https://news.ycombinator.com/item?id=39948271) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
