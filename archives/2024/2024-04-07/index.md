@@ -6,6 +6,7 @@
 
 * [2024-04-07, 05:19:17](https://news.ycombinator.com/item?id=39958346) - [ESR's Autodafe: \"freeing your project from the clammy grip of autotools.\"](https://gitlab.com/esr/autodafe)
 * [2024-04-07, 05:12:35](https://news.ycombinator.com/item?id=39958321) - [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
+* [2024-04-07, 04:52:39](https://news.ycombinator.com/item?id=39958260) - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 * [2024-04-07, 04:14:53](https://news.ycombinator.com/item?id=39958152) - [ChatGPT might get its own dedicated personal AI device – with Jony Ive's help](https://www.techradar.com/computing/artificial-intelligence/chatgpt-might-get-its-own-dedicated-personal-device-with-jony-ives-help)
 * [2024-04-07, 03:20:08](https://news.ycombinator.com/item?id=39957902) - [Glory is only 11MB/SEC away](https://thmsmlr.com/cheap-infra)
 * [2024-04-07, 03:03:58](https://news.ycombinator.com/item?id=39957811) - [What Makes Housing So Expensive?](https://www.construction-physics.com/p/what-makes-housing-so-expensive)
@@ -19,3 +20,4 @@
 * [2024-04-07, 01:01:52](https://news.ycombinator.com/item?id=39957193) - [A California 'Right to Disconnect'?](https://www.wsj.com/articles/california-bill-right-to-disconnect-working-hours-emails-f3812b1c)
 * [2024-04-07, 00:49:40](https://news.ycombinator.com/item?id=39957132) - [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
 * [2024-04-07, 00:46:28](https://news.ycombinator.com/item?id=39957107) - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
+* [2024-04-07, 00:35:48](https://news.ycombinator.com/item?id=39957047) - [We Can Slay Giants](https://www.thehandbasket.co/p/meta-the-handbasket-censorship-slay-giants)
