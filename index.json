@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-07, 10:55:10",
+      "https://news.ycombinator.com/item?id=39959946"
+    ],
+    [
+      "Did any processor implement an integer square root instruction?",
+      "https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 08:23:26",
       "https://news.ycombinator.com/item?id=39959228"
     ],
@@ -197,16 +207,6 @@
     [
       "Language models are Super Mario: Absorbing abilities from homologous models",
       "https://arxiv.org/abs/2311.03099"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 14:29:40",
-      "https://news.ycombinator.com/item?id=39952736"
-    ],
-    [
-      "Schedule-Free Learning – A New Way to Train",
-      "https://github.com/facebookresearch/schedule_free"
     ]
   ],
   [
