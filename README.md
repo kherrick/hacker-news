@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-07, 02:33:11](https://news.ycombinator.com/item?id=39957684) - [U.S., Canada put 7 year ban on all forms of salmon fishing in Yukon, Alaska](https://www.aptnnews.ca/national-news/u-s-canada-put-7-year-ban-on-all-forms-of-salmon-fishing-in-yukon-alaska/)
 * [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
-* [2024-04-07, 02:07:57](https://news.ycombinator.com/item?id=39957533) - [New CSS Logical Properties](https://elad.medium.com/new-css-logical-properties-bc6945311ce7)
+* [2024-04-07, 01:01:52](https://news.ycombinator.com/item?id=39957193) - [A California 'Right to Disconnect'?](https://www.wsj.com/articles/california-bill-right-to-disconnect-working-hours-emails-f3812b1c)
 * [2024-04-07, 00:49:40](https://news.ycombinator.com/item?id=39957132) - [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
 * [2024-04-07, 00:46:28](https://news.ycombinator.com/item?id=39957107) - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
 * [2024-04-06, 22:59:25](https://news.ycombinator.com/item?id=39956455) - [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
@@ -22,6 +21,7 @@
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:26:05](https://news.ycombinator.com/item?id=39951990) - [Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
 * [2024-04-06, 09:31:36](https://news.ycombinator.com/item?id=39951198) - [Anti-Crime Humps in Medieval Venice](https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they)
+* [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-05, 19:08:10](https://news.ycombinator.com/item?id=39945916) - [Under Attila's Gaze](https://quillette.com/2024/04/05/the-so-called-dark-ages-herbert-bushman-attila-the-hun/)
 * [2024-04-05, 17:39:10](https://news.ycombinator.com/item?id=39945063) - [Jordan Mechner vs. the sands of time](https://www.washingtonpost.com/entertainment/video-games/2024/04/01/jordan-mechner-prince-persia-karateka/)
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
