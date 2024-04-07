@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-04-07, 05:19:17",
-      "https://news.ycombinator.com/item?id=39958346"
-    ],
-    [
-      "Autodafe: Tools for freeing your project from the clammy grip of autotools",
-      "https://gitlab.com/esr/autodafe"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 04:52:39",
       "https://news.ycombinator.com/item?id=39958260"
     ],
@@ -247,6 +237,16 @@
     [
       "What I think about when I edit (2019)",
       "https://evaparish.com/blog/how-i-edit"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 04:42:42",
+      "https://news.ycombinator.com/item?id=39950036"
+    ],
+    [
+      "A memory model for Rust code in the kernel",
+      "https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/"
     ]
   ],
   [
