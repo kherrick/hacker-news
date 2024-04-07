@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 17:18:37](https://news.ycombinator.com/item?id=39962184) - [Xemu: Original Xbox Emulator](https://xemu.app/)
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
 * [2024-04-07, 16:12:01](https://news.ycombinator.com/item?id=39961700) - [Passage Du Gois](https://en.wikipedia.org/wiki/Passage_du_Gois)
 * [2024-04-07, 13:55:02](https://news.ycombinator.com/item?id=39960788) - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
@@ -26,7 +27,6 @@
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 09:33:18](https://news.ycombinator.com/item?id=39951203) - [Gakken Ex-System](https://en.wikipedia.org/wiki/Gakken_EX-System)
 * [2024-04-06, 07:49:55](https://news.ycombinator.com/item?id=39950773) - [Making Apple Progressive Blur on the Web](https://www.devslovecoffee.com/blog/making-apple-progressive-blur-on-web/)
-* [2024-04-06, 04:42:42](https://news.ycombinator.com/item?id=39950036) - [A memory model for Rust code in the kernel](https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/)
 * [2024-04-05, 23:26:57](https://news.ycombinator.com/item?id=39948479) - [Tiny Biosensor Is Just a Cup, a Membrane, and a Magnet](https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless)
 * [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
 * [2024-04-05, 20:16:12](https://news.ycombinator.com/item?id=39946687) - [The IT Productivity Paradox (2015)](https://cs.stanford.edu/people/eroberts/cs201/projects/productivity-paradox/background.html)
