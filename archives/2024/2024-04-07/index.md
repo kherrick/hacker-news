@@ -7,6 +7,7 @@
 * [2024-04-07, 02:33:11](https://news.ycombinator.com/item?id=39957684) - [U.S., Canada put 7 year ban on all forms of salmon fishing in Yukon, Alaska](https://www.aptnnews.ca/national-news/u-s-canada-put-7-year-ban-on-all-forms-of-salmon-fishing-in-yukon-alaska/)
 * [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
 * [2024-04-07, 02:07:57](https://news.ycombinator.com/item?id=39957533) - [New CSS Logical Properties](https://elad.medium.com/new-css-logical-properties-bc6945311ce7)
+* [2024-04-07, 01:30:00](https://news.ycombinator.com/item?id=39957340) - [How not to write an async runtime in Rust](https://github.com/arun11299/How-not-to-async-rs)
 * [2024-04-07, 01:29:02](https://news.ycombinator.com/item?id=39957335) - [A town employee lowered the fluoride in water for years](https://www.npr.org/2022/10/08/1127681843/fluoride-lowered-vermont-town-richmond)
 * [2024-04-07, 01:24:30](https://news.ycombinator.com/item?id=39957308) - [\"If this one guy got hit by a bus, the software would fall apart.\"](https://lunduke.locals.com/post/5477752/if-this-one-guy-got-hit-by-a-bus-the-worlds-software-would-fall-apart)
 * [2024-04-07, 01:01:52](https://news.ycombinator.com/item?id=39957193) - [A California 'Right to Disconnect'?](https://www.wsj.com/articles/california-bill-right-to-disconnect-working-hours-emails-f3812b1c)

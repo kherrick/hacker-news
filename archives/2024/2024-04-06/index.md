@@ -26,6 +26,7 @@
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 18:34:12](https://news.ycombinator.com/item?id=39954398) - [Facebook Is Censoring Stories about Climate Change and Illegal Raid](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
 * [2024-04-06, 18:22:00](https://news.ycombinator.com/item?id=39954333) - [What to do when an airline website doesn't accept your legal name](https://www.preethamrn.com/posts/southwest-flight-bug)
+* [2024-04-06, 18:12:16](https://news.ycombinator.com/item?id=39954266) - [Choosing a Name for Your Computer](https://datatracker.ietf.org/doc/html/rfc1178)
 * [2024-04-06, 17:58:15](https://news.ycombinator.com/item?id=39954149) - [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
 * [2024-04-06, 17:43:36](https://news.ycombinator.com/item?id=39954026) - [Cybersecurity Is Broken](https://crankysec.com/blog/broken/)
