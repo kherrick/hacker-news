@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 06:42:54](https://news.ycombinator.com/item?id=39958701) - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 * [2024-04-07, 06:06:59](https://news.ycombinator.com/item?id=39958523) - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
 * [2024-04-07, 05:19:17](https://news.ycombinator.com/item?id=39958346) - [Autodafe: Tools for freeing your project from the clammy grip of autotools](https://gitlab.com/esr/autodafe)
 * [2024-04-07, 05:12:35](https://news.ycombinator.com/item?id=39958321) - [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
@@ -24,7 +25,6 @@
 * [2024-04-06, 18:12:16](https://news.ycombinator.com/item?id=39954266) - [Choosing a Name for Your Computer (1990)](https://datatracker.ietf.org/doc/html/rfc1178)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols (2023)](https://programming-journal.org/2023/7/6/)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) is hiring a founding Go engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
-* [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language models are Super Mario: Absorbing abilities from homologous models](https://arxiv.org/abs/2311.03099)
 * [2024-04-06, 09:31:36](https://news.ycombinator.com/item?id=39951198) - [Anti-crime humps in medieval Venice](https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they)
 * [2024-04-05, 22:44:25](https://news.ycombinator.com/item?id=39948185) - [Why Were So Many Renaissance Portraits Multisided?](https://www.smithsonianmag.com/smart-news/why-were-so-many-renaissance-portraits-multisided-180984096/)
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
