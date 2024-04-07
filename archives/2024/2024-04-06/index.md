@@ -65,6 +65,7 @@
 * [2024-04-06, 10:56:31](https://news.ycombinator.com/item?id=39951549) - [Writing a Unix-Like OS in Rust](https://vmm.dev/en/rust/osinrust.md)
 * [2024-04-06, 10:24:48](https://news.ycombinator.com/item?id=39951422) - [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
+* [2024-04-06, 09:31:36](https://news.ycombinator.com/item?id=39951198) - [Anti-Crime Humps in Medieval Venice](https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they)
 * [2024-04-06, 09:31:31](https://news.ycombinator.com/item?id=39951197) - [When Wizards and Orcs Came to Death Row](https://www.themarshallproject.org/2023/08/31/dungeons-and-dragons-texas-death-row-tdcj)
 * [2024-04-06, 09:08:47](https://news.ycombinator.com/item?id=39951086) - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
