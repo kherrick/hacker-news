@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
 * [2024-04-07, 17:45:38](https://news.ycombinator.com/item?id=39962354) - [Atlanta Police Foundation pushed 'unprecedented' surveillance plan](https://atlpresscollective.com/2024/04/01/atlanta-police-foundation-pushed-unprecedented-surveillance-plan/)
 * [2024-04-07, 17:44:11](https://news.ycombinator.com/item?id=39962349) - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
 * [2024-04-07, 17:35:46](https://news.ycombinator.com/item?id=39962300) - [How one Mexican beach town saved itself from 'death by tourism'](https://www.aljazeera.com/features/2024/4/6/how-one-mexican-beach-town-saved-itself-from-death-by-tourism)
@@ -27,6 +28,7 @@
 * [2024-04-07, 13:25:40](https://news.ycombinator.com/item?id=39960602) - [Ask HN: What does FB gain in making LLAMA free?](https://news.ycombinator.com/item?id=39960602)
 * [2024-04-07, 13:13:43](https://news.ycombinator.com/item?id=39960537) - [Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests](https://github.com/stackframe-projects/pgmock)
 * [2024-04-07, 13:13:23](https://news.ycombinator.com/item?id=39960535) - [ClangQL: A tool to run SQL-like query on C/C++ Code](https://github.com/AmrDeveloper/ClangQL)
+* [2024-04-07, 12:08:22](https://news.ycombinator.com/item?id=39960202) - [Fire alarm audio detection, using FFTs and Go](https://github.com/pldubouilh/alarm)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
@@ -36,6 +38,8 @@
 * [2024-04-07, 10:23:51](https://news.ycombinator.com/item?id=39959790) - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 * [2024-04-07, 10:01:32](https://news.ycombinator.com/item?id=39959704) - [Helixx: $6 a day EV subscription service could disrupt the auto industry](https://newatlas.com/automotive/helixx-subscription-ev/)
 * [2024-04-07, 09:32:17](https://news.ycombinator.com/item?id=39959589) - [LLMs can't simulate a Turing machine reliably](https://twitter.com/VictorTaelin/status/1776271375814054257)
+* [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
+* [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to Found a Company in Germany: 14 \"Easy\" Steps and Lots of Pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
 * [2024-04-07, 08:23:26](https://news.ycombinator.com/item?id=39959228) - [Sophia: Scalable Stochastic 2nd-Order Optimizer for Language Model Pre-Training](https://arxiv.org/abs/2305.14342)
 * [2024-04-07, 07:56:40](https://news.ycombinator.com/item?id=39959069) - [It's Not What the World Needs](https://thebaffler.com/odds-and-ends/its-not-what-the-world-needs-right-now-norman-wilson)

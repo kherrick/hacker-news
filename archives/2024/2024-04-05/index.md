@@ -22,6 +22,7 @@
 * [2024-04-05, 21:29:05](https://news.ycombinator.com/item?id=39947469) - [German state gov. ditching Windows for Linux, 30K workers migrating](https://arstechnica.com/information-technology/2024/04/german-state-gov-ditching-windows-for-linux-30k-workers-migrating/)
 * [2024-04-05, 21:25:43](https://news.ycombinator.com/item?id=39947432) - [Do Kwon and Terraform Labs found liable for $40B fraud](https://www.web3isgoinggreat.com/?id=do-kwon-and-terraform-labs-found-liable-for-40-billion-fraud)
 * [2024-04-05, 21:03:37](https://news.ycombinator.com/item?id=39947188) - [Roku looks into serving you ads on whatever you plug into its TVs](https://www.engadget.com/roku-looks-into-serving-you-ads-on-whatever-you-plug-into-its-tvs-120016754.html)
+* [2024-04-05, 20:49:14](https://news.ycombinator.com/item?id=39947045) - [Clojure's machine learning ecosystem](https://codewithkira.com/2024-04-04-state-of-clojure-ml.html)
 * [2024-04-05, 20:39:29](https://news.ycombinator.com/item?id=39946923) - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
 * [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
 * [2024-04-05, 20:16:56](https://news.ycombinator.com/item?id=39946694) - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
