@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-07, 01:29:02](https://news.ycombinator.com/item?id=39957335) - [A town employee lowered the fluoride in water for years](https://www.npr.org/2022/10/08/1127681843/fluoride-lowered-vermont-town-richmond)
+* [2024-04-07, 02:33:11](https://news.ycombinator.com/item?id=39957684) - [U.S., Canada put 7 year ban on all forms of salmon fishing in Yukon, Alaska](https://www.aptnnews.ca/national-news/u-s-canada-put-7-year-ban-on-all-forms-of-salmon-fishing-in-yukon-alaska/)
+* [2024-04-07, 01:29:02](https://news.ycombinator.com/item?id=39957335) - [A town employee lowered the fluoride in water for years (2022)](https://www.npr.org/2022/10/08/1127681843/fluoride-lowered-vermont-town-richmond)
 * [2024-04-07, 01:01:52](https://news.ycombinator.com/item?id=39957193) - [A California 'Right to Disconnect'?](https://www.wsj.com/articles/california-bill-right-to-disconnect-working-hours-emails-f3812b1c)
 * [2024-04-07, 00:49:40](https://news.ycombinator.com/item?id=39957132) - [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
 * [2024-04-07, 00:46:28](https://news.ycombinator.com/item?id=39957107) - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
@@ -18,7 +19,6 @@
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language models are Super Mario: Absorbing abilities from homologous models](https://arxiv.org/abs/2311.03099)
 * [2024-04-06, 14:29:40](https://news.ycombinator.com/item?id=39952736) - [Schedule-Free Learning – A New Way to Train](https://github.com/facebookresearch/schedule_free)
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
-* [2024-04-06, 13:41:54](https://news.ycombinator.com/item?id=39952397) - [Iconic consoles of the IBM System/360 mainframes, 55 years old (2019)](https://www.righto.com/2019/04/iconic-consoles-of-ibm-system360.html)
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 12:26:05](https://news.ycombinator.com/item?id=39951990) - [Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
 * [2024-04-06, 09:31:36](https://news.ycombinator.com/item?id=39951198) - [Anti-Crime Humps in Medieval Venice](https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they)
