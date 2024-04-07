@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-04-06, 22:59:25",
-      "https://news.ycombinator.com/item?id=39956455"
-    ],
-    [
-      "The xz sshd backdoor rabbithole goes quite a bit deeper",
-      "https://twitter.com/bl4sty/status/1776691497506623562"
-    ]
-  ],
-  [
-    [
       "2024-04-06, 22:42:39",
       "https://news.ycombinator.com/item?id=39956327"
     ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2024-04-06, 21:25:50",
-      "https://news.ycombinator.com/item?id=39955725"
-    ],
-    [
-      "More Agents Is All You Need: LLMs performance scales with the number of agents",
-      "https://arxiv.org/abs/2402.05120"
-    ]
-  ],
-  [
-    [
       "2024-04-06, 19:59:24",
       "https://news.ycombinator.com/item?id=39954993"
     ],
@@ -241,22 +221,22 @@
   ],
   [
     [
-      "2024-04-06, 17:46:59",
-      "https://news.ycombinator.com/item?id=39954059"
-    ],
-    [
-      "A Theory of Composing Protocols (2023)",
-      "https://programming-journal.org/2023/7/6/"
-    ]
-  ],
-  [
-    [
       "2024-04-06, 09:33:18",
       "https://news.ycombinator.com/item?id=39951203"
     ],
     [
       "Gakken Ex-System",
       "https://en.wikipedia.org/wiki/Gakken_EX-System"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 09:31:36",
+      "https://news.ycombinator.com/item?id=39951198"
+    ],
+    [
+      "Anti-crime humps in medieval Venice",
+      "https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Opt-Models: Intro to Optimization Programming Using LEGOs",
       "https://opt-models.org/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 10:47:51",
+      "https://news.ycombinator.com/item?id=39928681"
+    ],
+    [
+      "Chisel: A fast TCP/UDP tunnel over HTTP",
+      "https://github.com/jpillora/chisel"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 09:27:03",
+      "https://news.ycombinator.com/item?id=39928223"
+    ],
+    [
+      "Tokens, n-grams, and bag-of-words models (2023)",
+      "https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models"
     ]
   ]
 ]
