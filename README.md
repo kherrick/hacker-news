@@ -20,7 +20,6 @@
 * [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 21:52:38](https://news.ycombinator.com/item?id=39955944) - [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
 * [2024-04-06, 21:25:50](https://news.ycombinator.com/item?id=39955725) - [More Agents Is All You Need: LLMs performance scales with the number of agents](https://arxiv.org/abs/2402.05120)
-* [2024-04-06, 20:08:47](https://news.ycombinator.com/item?id=39955057) - [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
 * [2024-04-06, 19:59:24](https://news.ycombinator.com/item?id=39954993) - [Structuralism as a Philosophy of Mathematics](https://www.infinitelymore.xyz/p/structuralism)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols (2023)](https://programming-journal.org/2023/7/6/)
@@ -29,6 +28,7 @@
 * [2024-04-06, 07:33:10](https://news.ycombinator.com/item?id=39950691) - [Apple now allows retro game emulators on its App Store](https://arstechnica.com/gadgets/2024/04/apple-now-allows-retro-game-emulators-on-its-app-store-but-with-big-caveats/)
 * [2024-04-06, 04:42:42](https://news.ycombinator.com/item?id=39950036) - [A memory model for Rust code in the kernel](https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/)
 * [2024-04-05, 23:26:57](https://news.ycombinator.com/item?id=39948479) - [Tiny Biosensor Is Just a Cup, a Membrane, and a Magnet](https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless)
+* [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
 * [2024-04-04, 10:47:51](https://news.ycombinator.com/item?id=39928681) - [Chisel: A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel)
 
 ## [Archives](archives/index.md)
