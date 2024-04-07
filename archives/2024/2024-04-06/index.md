@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 23:28:58](https://news.ycombinator.com/item?id=39956638) - [Google Blog on DMA](https://blog.google/around-the-globe/google-europe/new-competition-rules-come-with-trade-offs/)
 * [2024-04-06, 22:59:25](https://news.ycombinator.com/item?id=39956455) - [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
 * [2024-04-06, 22:42:39](https://news.ycombinator.com/item?id=39956327) - [Cache is King: A guide for Docker layer caching in GitHub Actions](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
 * [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
