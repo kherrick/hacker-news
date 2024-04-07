@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 16:49:52](https://news.ycombinator.com/item?id=39961987) - [What's Wrong with Tesla?](https://www.cnn.com/2024/04/07/business/tesla-ev-sales-slowdown-stock/index.html)
+* [2024-04-07, 16:12:01](https://news.ycombinator.com/item?id=39961700) - [Passage Du Gois](https://en.wikipedia.org/wiki/Passage_du_Gois)
 * [2024-04-07, 15:33:13](https://news.ycombinator.com/item?id=39961435) - [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
 * [2024-04-07, 15:30:25](https://news.ycombinator.com/item?id=39961411) - [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
 * [2024-04-07, 14:22:51](https://news.ycombinator.com/item?id=39960973) - [Elon Musk's leadership beginning to splinter Tesla loyalists as car sales drop](https://fortune.com/2024/04/07/elon-musk-tesla-sales-ceo-compensation-twitter-fans/)
