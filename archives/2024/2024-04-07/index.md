@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 15:33:13](https://news.ycombinator.com/item?id=39961435) - [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
+* [2024-04-07, 15:30:25](https://news.ycombinator.com/item?id=39961411) - [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
+* [2024-04-07, 14:22:51](https://news.ycombinator.com/item?id=39960973) - [Elon Musk's leadership beginning to splinter Tesla loyalists as car sales drop](https://fortune.com/2024/04/07/elon-musk-tesla-sales-ceo-compensation-twitter-fans/)
 * [2024-04-07, 13:55:02](https://news.ycombinator.com/item?id=39960788) - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
 * [2024-04-07, 13:42:05](https://news.ycombinator.com/item?id=39960717) - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
 * [2024-04-07, 13:33:28](https://news.ycombinator.com/item?id=39960649) - [NASA direct coverage of the 2024 eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/live/)
+* [2024-04-07, 13:32:27](https://news.ycombinator.com/item?id=39960645) - [Blog Posts, Sorted by Sleep](https://breckyunits.com/sleepWriting.html)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)

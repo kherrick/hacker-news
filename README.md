@@ -1,7 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 15:33:13](https://news.ycombinator.com/item?id=39961435) - [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
+* [2024-04-07, 15:30:25](https://news.ycombinator.com/item?id=39961411) - [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
+* [2024-04-07, 14:22:51](https://news.ycombinator.com/item?id=39960973) - [Elon Musk's leadership beginning to splinter Tesla loyalists as car sales drop](https://fortune.com/2024/04/07/elon-musk-tesla-sales-ceo-compensation-twitter-fans/)
 * [2024-04-07, 13:55:02](https://news.ycombinator.com/item?id=39960788) - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
 * [2024-04-07, 13:42:05](https://news.ycombinator.com/item?id=39960717) - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
+* [2024-04-07, 13:32:27](https://news.ycombinator.com/item?id=39960645) - [Blog Posts, Sorted by Sleep](https://breckyunits.com/sleepWriting.html)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
@@ -26,10 +30,6 @@
 * [2024-04-05, 23:26:57](https://news.ycombinator.com/item?id=39948479) - [Tiny Biosensor Is Just a Cup, a Membrane, and a Magnet](https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless)
 * [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
 * [2024-04-05, 20:16:12](https://news.ycombinator.com/item?id=39946687) - [The IT Productivity Paradox (2015)](https://cs.stanford.edu/people/eroberts/cs201/projects/productivity-paradox/background.html)
-* [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
-* [2024-04-04, 10:47:51](https://news.ycombinator.com/item?id=39928681) - [Chisel: A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel)
-* [2024-04-04, 10:35:17](https://news.ycombinator.com/item?id=39928604) - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
-* [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, n-grams, and bag-of-words models (2023)](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 
 ## [Archives](archives/index.md)
 
