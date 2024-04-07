@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 20:32:54](https://news.ycombinator.com/item?id=39963638) - [AI is not your friend](https://gerrymcgovern.com/ai-is-not-your-friend/)
 * [2024-04-07, 19:58:46](https://news.ycombinator.com/item?id=39963358) - [Generative artificial intelligence is simply a waste of our time and money](https://www.theglobeandmail.com/business/commentary/article-generative-artificial-intelligence-is-simply-a-waste-of-our-time-and/)
 * [2024-04-07, 19:03:36](https://news.ycombinator.com/item?id=39962923) - [Justin Trudeau announces $2.4B for AI investments in Canada](https://www.cbc.ca/news/politics/federal-government-ai-investment-1.7166234)
 * [2024-04-07, 18:49:20](https://news.ycombinator.com/item?id=39962822) - [H2O-Danube-1.8B Technical Report](https://arxiv.org/abs/2401.16818)
@@ -17,6 +18,7 @@
 * [2024-04-07, 17:19:06](https://news.ycombinator.com/item?id=39962194) - [Trudeau Unveils $1.8B Plan to Boost AI Sector in Canada](https://www.bloomberg.com/news/articles/2024-04-07/trudeau-unveils-1-8-billion-plan-to-boost-ai-sector-in-canada)
 * [2024-04-07, 17:18:37](https://news.ycombinator.com/item?id=39962184) - [Xemu: Original Xbox Emulator](https://xemu.app/)
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
+* [2024-04-07, 16:55:16](https://news.ycombinator.com/item?id=39962023) - [PumpkinOS, a Re-Implementation of PalmOS](https://github.com/migueletto/PumpkinOS)
 * [2024-04-07, 16:50:30](https://news.ycombinator.com/item?id=39961994) - [rpgp: Pure Rust Implementation of OpenPGP](https://github.com/rpgp/rpgp)
 * [2024-04-07, 16:49:52](https://news.ycombinator.com/item?id=39961987) - [What's Wrong with Tesla?](https://www.cnn.com/2024/04/07/business/tesla-ev-sales-slowdown-stock/index.html)
 * [2024-04-07, 16:42:04](https://news.ycombinator.com/item?id=39961910) - [What John von Neumann Did at Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
