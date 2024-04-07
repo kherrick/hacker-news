@@ -85,6 +85,7 @@
 * [2024-04-06, 08:00:25](https://news.ycombinator.com/item?id=39950823) - [Support for Windows 10 will end in October 2025](https://www.microsoft.com/en-sg/windows/end-of-support)
 * [2024-04-06, 07:58:13](https://news.ycombinator.com/item?id=39950812) - [PID Controller Explainer (2022)](https://ben.bolte.cc/pid-controller)
 * [2024-04-06, 07:57:01](https://news.ycombinator.com/item?id=39950805) - [Show HN: A url only notepad that hosts itself](https://github.com/con-dog/serverless-architecture)
+* [2024-04-06, 07:49:55](https://news.ycombinator.com/item?id=39950773) - [Making Apple Progressive Blur on the Web](https://www.devslovecoffee.com/blog/making-apple-progressive-blur-on-web/)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-06, 07:33:10](https://news.ycombinator.com/item?id=39950691) - [Apple now allows retro game emulators on its App Store](https://arstechnica.com/gadgets/2024/04/apple-now-allows-retro-game-emulators-on-its-app-store-but-with-big-caveats/)
