@@ -17,6 +17,7 @@
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
 * [2024-04-07, 16:50:30](https://news.ycombinator.com/item?id=39961994) - [rpgp: Pure Rust Implementation of OpenPGP](https://github.com/rpgp/rpgp)
 * [2024-04-07, 16:49:52](https://news.ycombinator.com/item?id=39961987) - [What's Wrong with Tesla?](https://www.cnn.com/2024/04/07/business/tesla-ev-sales-slowdown-stock/index.html)
+* [2024-04-07, 16:42:04](https://news.ycombinator.com/item?id=39961910) - [What John von Neumann Did at Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
 * [2024-04-07, 16:37:12](https://news.ycombinator.com/item?id=39961868) - [AI assists clinicians in responding to patient messages at Stanford Medicine](https://med.stanford.edu/news/all-news/2024/03/ai-patient-messages.html)
 * [2024-04-07, 16:12:01](https://news.ycombinator.com/item?id=39961700) - [Passage Du Gois](https://en.wikipedia.org/wiki/Passage_du_Gois)
 * [2024-04-07, 15:40:34](https://news.ycombinator.com/item?id=39961488) - [Linwei Ding was a Google software engineer. Also an alledged prolific thief](https://www.msn.com/en-us/news/technology/linwei-ding-was-a-google-software-engineer-he-was-also-a-prolific-thief-say-federal-prosecutors/ar-BB1lasmy)
