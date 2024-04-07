@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-07, 08:23:26",
+      "https://news.ycombinator.com/item?id=39959228"
+    ],
+    [
+      "Sophia: Scalable Stochastic 2nd-Order Optimizer for Language Model Pre-Training",
+      "https://arxiv.org/abs/2305.14342"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 06:42:54",
       "https://news.ycombinator.com/item?id=39958701"
     ],
@@ -37,36 +47,6 @@
     [
       "PM2: Production Process Manager with a Built-In Load Balancer",
       "https://github.com/Unitech/pm2"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 03:20:08",
-      "https://news.ycombinator.com/item?id=39957902"
-    ],
-    [
-      "Glory is only 11MB/sec away (2023)",
-      "https://thmsmlr.com/cheap-infra"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 02:50:40",
-      "https://news.ycombinator.com/item?id=39957757"
-    ],
-    [
-      "Currying",
-      "https://wiki.haskell.org/Currying"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 02:31:45",
-      "https://news.ycombinator.com/item?id=39957675"
-    ],
-    [
-      "Designing-data-intensive-application-notes.md",
-      "https://gist.github.com/bcherny/b870a60d1650973df7e400c8603ac76d"
     ]
   ],
   [
@@ -157,6 +137,26 @@
     [
       "Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design",
       "https://brutalisthackernews.com"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 19:59:24",
+      "https://news.ycombinator.com/item?id=39954993"
+    ],
+    [
+      "Structuralism as a Philosophy of Mathematics",
+      "https://www.infinitelymore.xyz/p/structuralism"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 19:27:26",
+      "https://news.ycombinator.com/item?id=39954755"
+    ],
+    [
+      "Using Rsync for Backup",
+      "https://www.both.org/?p=4647"
     ]
   ],
   [
