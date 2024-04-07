@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-04-07, 20:33:44](https://news.ycombinator.com/item?id=39963643) - [Xkcd 1928: Seven Years](https://xkcd.com/1928/)
 * [2024-04-07, 20:32:54](https://news.ycombinator.com/item?id=39963638) - [AI is not your friend](https://gerrymcgovern.com/ai-is-not-your-friend/)
 * [2024-04-07, 19:58:46](https://news.ycombinator.com/item?id=39963358) - [Generative artificial intelligence is simply a waste of our time and money](https://www.theglobeandmail.com/business/commentary/article-generative-artificial-intelligence-is-simply-a-waste-of-our-time-and/)
 * [2024-04-07, 19:03:36](https://news.ycombinator.com/item?id=39962923) - [Justin Trudeau announces $2.4B for AI investments in Canada](https://www.cbc.ca/news/politics/federal-government-ai-investment-1.7166234)

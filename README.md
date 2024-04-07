@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-04-07, 20:33:44](https://news.ycombinator.com/item?id=39963643) - [Xkcd 1928: Seven Years](https://xkcd.com/1928/)
 * [2024-04-07, 20:32:54](https://news.ycombinator.com/item?id=39963638) - [AI is not your friend](https://gerrymcgovern.com/ai-is-not-your-friend/)
 * [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 * [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
@@ -19,7 +20,6 @@
 * [2024-04-07, 12:08:22](https://news.ycombinator.com/item?id=39960202) - [Fire alarm audio detection, using FFTs and Go](https://github.com/pldubouilh/alarm)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
-* [2024-04-07, 10:36:19](https://news.ycombinator.com/item?id=39959846) - [US braces for cicadas by the trillion as two broods of periodic insects coincide](https://www.theguardian.com/environment/2024/apr/07/cicada-geddon-brood-season-midwest-eastern)
 * [2024-04-07, 10:23:51](https://news.ycombinator.com/item?id=39959790) - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 * [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
 * [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
