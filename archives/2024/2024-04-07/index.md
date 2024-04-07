@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 17:44:11](https://news.ycombinator.com/item?id=39962349) - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
+* [2024-04-07, 17:19:06](https://news.ycombinator.com/item?id=39962194) - [Trudeau Unveils $1.8B Plan to Boost AI Sector in Canada](https://www.bloomberg.com/news/articles/2024-04-07/trudeau-unveils-1-8-billion-plan-to-boost-ai-sector-in-canada)
 * [2024-04-07, 17:18:37](https://news.ycombinator.com/item?id=39962184) - [Xemu: Original Xbox Emulator](https://xemu.app/)
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
 * [2024-04-07, 16:49:52](https://news.ycombinator.com/item?id=39961987) - [What's Wrong with Tesla?](https://www.cnn.com/2024/04/07/business/tesla-ev-sales-slowdown-stock/index.html)

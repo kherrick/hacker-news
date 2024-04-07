@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 17:44:11](https://news.ycombinator.com/item?id=39962349) - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
+* [2024-04-07, 17:19:06](https://news.ycombinator.com/item?id=39962194) - [Trudeau Unveils $1.8B Plan to Boost AI Sector in Canada](https://www.bloomberg.com/news/articles/2024-04-07/trudeau-unveils-1-8-billion-plan-to-boost-ai-sector-in-canada)
 * [2024-04-07, 17:18:37](https://news.ycombinator.com/item?id=39962184) - [Xemu: Original Xbox Emulator](https://xemu.app/)
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
 * [2024-04-07, 16:12:01](https://news.ycombinator.com/item?id=39961700) - [Passage Du Gois](https://en.wikipedia.org/wiki/Passage_du_Gois)
@@ -18,8 +20,6 @@
 * [2024-04-07, 06:42:54](https://news.ycombinator.com/item?id=39958701) - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 * [2024-04-07, 04:52:39](https://news.ycombinator.com/item?id=39958260) - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 * [2024-04-07, 03:42:07](https://news.ycombinator.com/item?id=39958025) - [PM2: Production Process Manager with a Built-In Load Balancer](https://github.com/Unitech/pm2)
-* [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
-* [2024-04-07, 00:46:28](https://news.ycombinator.com/item?id=39957107) - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
 * [2024-04-07, 00:41:13](https://news.ycombinator.com/item?id=39957081) - [Dot – A standalone open source app meant for easy use of local LLMs and RAG](https://github.com/alexpinel/Dot)
 * [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 21:52:38](https://news.ycombinator.com/item?id=39955944) - [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
