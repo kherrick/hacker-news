@@ -25,6 +25,7 @@
 * [2024-04-05, 20:39:29](https://news.ycombinator.com/item?id=39946923) - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
 * [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
 * [2024-04-05, 20:16:56](https://news.ycombinator.com/item?id=39946694) - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
+* [2024-04-05, 20:16:12](https://news.ycombinator.com/item?id=39946687) - [The IT Productivity Paradox (2015)](https://cs.stanford.edu/people/eroberts/cs201/projects/productivity-paradox/background.html)
 * [2024-04-05, 20:00:57](https://news.ycombinator.com/item?id=39946524) - [File over app](https://stephango.com/file-over-app)
 * [2024-04-05, 19:41:34](https://news.ycombinator.com/item?id=39946304) - [Wine 9.6 Adds Support for Advanced AVX Features in Register Contexts](https://www.phoronix.com/news/Wine-9.6-Released)
 * [2024-04-05, 19:30:30](https://news.ycombinator.com/item?id=39946169) - [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
