@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-07, 13:55:02",
+      "https://news.ycombinator.com/item?id=39960788"
+    ],
+    [
+      "Adventures Making Vegemite",
+      "https://daveon.design/adventures-making-vegemite.html"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 13:33:28",
       "https://news.ycombinator.com/item?id=39960649"
     ],
@@ -287,16 +297,6 @@
     [
       "Opt-Models: Intro to Optimization Programming Using LEGOs",
       "https://opt-models.org/"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 10:47:51",
-      "https://news.ycombinator.com/item?id=39928681"
-    ],
-    [
-      "Chisel: A fast TCP/UDP tunnel over HTTP",
-      "https://github.com/jpillora/chisel"
     ]
   ]
 ]
