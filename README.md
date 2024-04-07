@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-* [2024-04-07, 20:33:44](https://news.ycombinator.com/item?id=39963643) - [Xkcd 1928: Seven Years](https://xkcd.com/1928/)
+* [2024-04-07, 20:40:08](https://news.ycombinator.com/item?id=39963694) - [Landfills Leak More Planet-Baking Methane Than We Thought](https://grist.org/science/us-landfills-emit-far-more-methane-than-previously-known/)
+* [2024-04-07, 20:33:44](https://news.ycombinator.com/item?id=39963643) - [Xkcd 1928: Seven Years (2017)](https://xkcd.com/1928/)
 * [2024-04-07, 19:21:06](https://news.ycombinator.com/item?id=39963058) - [Why is software quality worse than a decado ago](https://bitheap.tech/why-is-software-quality-worse-than-a-decado-ago/)
 * [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 * [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
@@ -16,7 +17,6 @@
 * [2024-04-07, 13:32:27](https://news.ycombinator.com/item?id=39960645) - [Blog posts, sorted by sleep](https://breckyunits.com/sleepWriting.html)
 * [2024-04-07, 13:13:43](https://news.ycombinator.com/item?id=39960537) - [Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests](https://github.com/stackframe-projects/pgmock)
 * [2024-04-07, 13:13:23](https://news.ycombinator.com/item?id=39960535) - [ClangQL: A tool to run SQL-like query on C/C++ Code](https://github.com/AmrDeveloper/ClangQL)
-* [2024-04-07, 12:19:45](https://news.ycombinator.com/item?id=39960251) - [NASA's LRO Finds Photo Op as It Zips Past SKorea's Danuri Moon Orbiter](https://www.nasa.gov/missions/lro/nasas-lro-finds-photo-op-as-it-zips-past-skoreas-danuri-moon-orbiter/)
 * [2024-04-07, 12:08:22](https://news.ycombinator.com/item?id=39960202) - [Fire alarm audio detection, using FFTs and Go](https://github.com/pldubouilh/alarm)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
