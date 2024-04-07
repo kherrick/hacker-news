@@ -16,6 +16,7 @@
 * [2024-04-07, 02:50:40](https://news.ycombinator.com/item?id=39957757) - [Currying](https://wiki.haskell.org/Currying)
 * [2024-04-07, 02:44:42](https://news.ycombinator.com/item?id=39957731) - [Nix – A One Pager](https://github.com/tazjin/nix-1p/blob/master/README.md)
 * [2024-04-07, 02:33:11](https://news.ycombinator.com/item?id=39957684) - [U.S., Canada put 7 year ban on all forms of salmon fishing in Yukon, Alaska](https://www.aptnnews.ca/national-news/u-s-canada-put-7-year-ban-on-all-forms-of-salmon-fishing-in-yukon-alaska/)
+* [2024-04-07, 02:31:45](https://news.ycombinator.com/item?id=39957675) - [Designing-data-intensive-application-notes.md](https://gist.github.com/bcherny/b870a60d1650973df7e400c8603ac76d)
 * [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
 * [2024-04-07, 02:07:57](https://news.ycombinator.com/item?id=39957533) - [New CSS Logical Properties](https://elad.medium.com/new-css-logical-properties-bc6945311ce7)
 * [2024-04-07, 01:30:00](https://news.ycombinator.com/item?id=39957340) - [How not to write an async runtime in Rust](https://github.com/arun11299/How-not-to-async-rs)
