@@ -2,7 +2,6 @@
 
 * [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
 * [2024-04-07, 01:30:00](https://news.ycombinator.com/item?id=39957340) - [How not to write an async runtime in Rust](https://github.com/arun11299/How-not-to-async-rs)
-* [2024-04-07, 01:01:52](https://news.ycombinator.com/item?id=39957193) - [A California 'Right to Disconnect'?](https://www.wsj.com/articles/california-bill-right-to-disconnect-working-hours-emails-f3812b1c)
 * [2024-04-07, 00:49:40](https://news.ycombinator.com/item?id=39957132) - [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
 * [2024-04-07, 00:46:28](https://news.ycombinator.com/item?id=39957107) - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
 * [2024-04-06, 22:59:25](https://news.ycombinator.com/item?id=39956455) - [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
@@ -22,6 +21,7 @@
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 * [2024-04-06, 09:31:36](https://news.ycombinator.com/item?id=39951198) - [Anti-Crime Humps in Medieval Venice](https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they)
+* [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-05, 19:08:10](https://news.ycombinator.com/item?id=39945916) - [Under Attila's Gaze](https://quillette.com/2024/04/05/the-so-called-dark-ages-herbert-bushman-attila-the-hun/)
 * [2024-04-05, 17:39:10](https://news.ycombinator.com/item?id=39945063) - [Jordan Mechner vs. the sands of time](https://www.washingtonpost.com/entertainment/video-games/2024/04/01/jordan-mechner-prince-persia-karateka/)
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
