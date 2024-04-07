@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
 * [2024-04-07, 22:10:27](https://news.ycombinator.com/item?id=39964402) - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
+* [2024-04-07, 22:01:56](https://news.ycombinator.com/item?id=39964355) - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-04-07, 20:54:23](https://news.ycombinator.com/item?id=39963824) - [Eclipse 2024](https://andywoodruff.com/posts/2023/eclipse-2024/)
 * [2024-04-07, 20:48:44](https://news.ycombinator.com/item?id=39963776) - [Boeing 737-800 makes emergency landing after its engine cowling detached](https://twitter.com/aviationbrk/status/1777036113565061618)
