@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-04-07, 04:14:53",
-      "https://news.ycombinator.com/item?id=39958152"
-    ],
-    [
-      "ChatGPT might get its own dedicated personal AI device – with Jony Ive's help",
-      "https://www.techradar.com/computing/artificial-intelligence/chatgpt-might-get-its-own-dedicated-personal-device-with-jony-ives-help"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 02:19:36",
       "https://news.ycombinator.com/item?id=39957607"
     ],
     [
       "Lago, Open-Source Stripe Alternative, banks $22M in funding",
       "https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 01:30:00",
-      "https://news.ycombinator.com/item?id=39957340"
-    ],
-    [
-      "How not to write an async runtime in Rust",
-      "https://github.com/arun11299/How-not-to-async-rs"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2024-04-06, 15:47:02",
+      "https://news.ycombinator.com/item?id=39953207"
+    ],
+    [
+      "PiVPN v4.6.0: The End",
+      "https://github.com/pivpn/pivpn/releases/tag/v4.6.0"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 14:52:08",
       "https://news.ycombinator.com/item?id=39952902"
     ],
@@ -257,6 +247,16 @@
     [
       "ChrysaLisp GUI Demo [video]",
       "https://www.youtube.com/watch?v=ADvyZOxlBu4"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 11:54:19",
+      "https://news.ycombinator.com/item?id=39929185"
+    ],
+    [
+      "Saving cloud costs by writing our own database",
+      "https://hivekit.io/blog/how-weve-saved-5000-percent-in-cloud-costs-by-writing-our-own-database/"
     ]
   ],
   [
