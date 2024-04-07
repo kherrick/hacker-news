@@ -24,7 +24,7 @@
 * [2024-04-06, 17:59:20](https://news.ycombinator.com/item?id=39954165) - [M4 always was horrible, and I say that as the original author of GNU M4](https://mastodon.social/@seindal/112205415790637632)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols (2023)](https://programming-journal.org/2023/7/6/)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) is hiring a founding Go engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
-* [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Home insurers are dropping customers based on aerial images](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
+* [2024-04-06, 09:33:18](https://news.ycombinator.com/item?id=39951203) - [Gakken Ex-System](https://en.wikipedia.org/wiki/Gakken_EX-System)
 * [2024-04-06, 09:31:36](https://news.ycombinator.com/item?id=39951198) - [Anti-crime humps in medieval Venice](https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they)
 * [2024-04-05, 22:44:25](https://news.ycombinator.com/item?id=39948185) - [Why Were So Many Renaissance Portraits Multisided?](https://www.smithsonianmag.com/smart-news/why-were-so-many-renaissance-portraits-multisided-180984096/)
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
