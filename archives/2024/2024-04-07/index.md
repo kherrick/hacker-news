@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 19:58:46](https://news.ycombinator.com/item?id=39963358) - [Generative artificial intelligence is simply a waste of our time and money](https://www.theglobeandmail.com/business/commentary/article-generative-artificial-intelligence-is-simply-a-waste-of-our-time-and/)
 * [2024-04-07, 19:03:36](https://news.ycombinator.com/item?id=39962923) - [Justin Trudeau announces $2.4B for AI investments in Canada](https://www.cbc.ca/news/politics/federal-government-ai-investment-1.7166234)
 * [2024-04-07, 18:49:20](https://news.ycombinator.com/item?id=39962822) - [H2O-Danube-1.8B Technical Report](https://arxiv.org/abs/2401.16818)
 * [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
