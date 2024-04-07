@@ -49,6 +49,7 @@
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
 * [2024-04-06, 14:07:28](https://news.ycombinator.com/item?id=39952533) - [ESR is building an autotools killer](https://twitter.com/esrtweet/status/1776587609021514215)
 * [2024-04-06, 13:53:02](https://news.ycombinator.com/item?id=39952453) - [Netflix's '3 Body Problem' Has Chilling Social Media Parallels](https://reason.com/2024/04/03/the-3-body-problems-chilling-social-media-parallel/)
+* [2024-04-06, 13:41:54](https://news.ycombinator.com/item?id=39952397) - [Iconic consoles of the IBM System/360 mainframes, 55 years old (2019)](https://www.righto.com/2019/04/iconic-consoles-of-ibm-system360.html)
 * [2024-04-06, 13:26:39](https://news.ycombinator.com/item?id=39952299) - [Ask HN: How do I find a job, in this market with ADHD](https://news.ycombinator.com/item?id=39952299)
 * [2024-04-06, 13:01:55](https://news.ycombinator.com/item?id=39952162) - [Photoshop for Text (2022)](https://stephango.com/photoshop-for-text)
 * [2024-04-06, 12:50:15](https://news.ycombinator.com/item?id=39952111) - [NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
