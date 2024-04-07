@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 13:33:28](https://news.ycombinator.com/item?id=39960649) - [NASA direct coverage of the 2024 eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/live/)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
@@ -20,7 +21,6 @@
 * [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 21:52:38](https://news.ycombinator.com/item?id=39955944) - [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
 * [2024-04-06, 21:25:50](https://news.ycombinator.com/item?id=39955725) - [More Agents Is All You Need: LLMs performance scales with the number of agents](https://arxiv.org/abs/2402.05120)
-* [2024-04-06, 20:08:47](https://news.ycombinator.com/item?id=39955057) - [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
 * [2024-04-06, 19:59:24](https://news.ycombinator.com/item?id=39954993) - [Structuralism as a Philosophy of Mathematics](https://www.infinitelymore.xyz/p/structuralism)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols (2023)](https://programming-journal.org/2023/7/6/)
