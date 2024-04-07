@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 08:23:26](https://news.ycombinator.com/item?id=39959228) - [Sophia: Scalable Stochastic 2nd-Order Optimizer for Language Model Pre-Training](https://arxiv.org/abs/2305.14342)
 * [2024-04-07, 06:42:54](https://news.ycombinator.com/item?id=39958701) - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 * [2024-04-07, 06:06:59](https://news.ycombinator.com/item?id=39958523) - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
@@ -20,7 +21,6 @@
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) is hiring a founding Go engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
 * [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Home insurers are dropping customers based on aerial images](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language models are Super Mario: Absorbing abilities from homologous models](https://arxiv.org/abs/2311.03099)
-* [2024-04-06, 14:29:40](https://news.ycombinator.com/item?id=39952736) - [Schedule-Free Learning – A New Way to Train](https://github.com/facebookresearch/schedule_free)
 * [2024-04-06, 14:12:13](https://news.ycombinator.com/item?id=39952570) - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
 * [2024-04-06, 09:33:18](https://news.ycombinator.com/item?id=39951203) - [Gakken Ex-System](https://en.wikipedia.org/wiki/Gakken_EX-System)
 * [2024-04-06, 09:31:36](https://news.ycombinator.com/item?id=39951198) - [Anti-crime humps in medieval Venice](https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they)

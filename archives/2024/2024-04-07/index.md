@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 08:23:26](https://news.ycombinator.com/item?id=39959228) - [Sophia: Scalable Stochastic 2nd-Order Optimizer for Language Model Pre-Training](https://arxiv.org/abs/2305.14342)
 * [2024-04-07, 06:42:54](https://news.ycombinator.com/item?id=39958701) - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 * [2024-04-07, 06:06:59](https://news.ycombinator.com/item?id=39958523) - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
