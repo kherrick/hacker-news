@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
+* [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
+* [2024-04-07, 11:26:52](https://news.ycombinator.com/item?id=39960069) - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 10:23:51](https://news.ycombinator.com/item?id=39959790) - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 * [2024-04-07, 09:32:17](https://news.ycombinator.com/item?id=39959589) - [LLMs can't simulate a Turing machine reliably](https://twitter.com/VictorTaelin/status/1776271375814054257)
