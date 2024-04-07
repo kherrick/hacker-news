@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-04-07, 20:32:54](https://news.ycombinator.com/item?id=39963638) - [AI is not your friend](https://gerrymcgovern.com/ai-is-not-your-friend/)
 * [2024-04-07, 19:58:46](https://news.ycombinator.com/item?id=39963358) - [Generative artificial intelligence is simply a waste of our time and money](https://www.theglobeandmail.com/business/commentary/article-generative-artificial-intelligence-is-simply-a-waste-of-our-time-and/)
 * [2024-04-07, 19:03:36](https://news.ycombinator.com/item?id=39962923) - [Justin Trudeau announces $2.4B for AI investments in Canada](https://www.cbc.ca/news/politics/federal-government-ai-investment-1.7166234)
@@ -46,6 +47,7 @@
 * [2024-04-07, 11:26:52](https://news.ycombinator.com/item?id=39960069) - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
 * [2024-04-07, 11:20:27](https://news.ycombinator.com/item?id=39960047) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
+* [2024-04-07, 10:36:19](https://news.ycombinator.com/item?id=39959846) - [US braces for cicadas by the trillion as two broods of periodic insects coincide](https://www.theguardian.com/environment/2024/apr/07/cicada-geddon-brood-season-midwest-eastern)
 * [2024-04-07, 10:23:51](https://news.ycombinator.com/item?id=39959790) - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 * [2024-04-07, 10:01:32](https://news.ycombinator.com/item?id=39959704) - [Helixx: $6 a day EV subscription service could disrupt the auto industry](https://newatlas.com/automotive/helixx-subscription-ev/)
 * [2024-04-07, 09:32:17](https://news.ycombinator.com/item?id=39959589) - [LLMs can't simulate a Turing machine reliably](https://twitter.com/VictorTaelin/status/1776271375814054257)
