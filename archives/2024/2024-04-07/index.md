@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 13:55:02](https://news.ycombinator.com/item?id=39960788) - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
 * [2024-04-07, 13:33:28](https://news.ycombinator.com/item?id=39960649) - [NASA direct coverage of the 2024 eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/live/)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)

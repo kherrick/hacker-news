@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 13:55:02](https://news.ycombinator.com/item?id=39960788) - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
 * [2024-04-07, 13:33:28](https://news.ycombinator.com/item?id=39960649) - [NASA direct coverage of the 2024 eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/live/)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
@@ -29,7 +30,6 @@
 * [2024-04-06, 04:42:42](https://news.ycombinator.com/item?id=39950036) - [A memory model for Rust code in the kernel](https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/)
 * [2024-04-05, 23:26:57](https://news.ycombinator.com/item?id=39948479) - [Tiny Biosensor Is Just a Cup, a Membrane, and a Magnet](https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless)
 * [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
-* [2024-04-04, 10:47:51](https://news.ycombinator.com/item?id=39928681) - [Chisel: A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel)
 
 ## [Archives](archives/index.md)
 
