@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 03:20:08](https://news.ycombinator.com/item?id=39957902) - [Glory is only 11MB/SEC away](https://thmsmlr.com/cheap-infra)
 * [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
 * [2024-04-07, 00:49:40](https://news.ycombinator.com/item?id=39957132) - [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
 * [2024-04-07, 00:46:28](https://news.ycombinator.com/item?id=39957107) - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
@@ -13,7 +14,6 @@
 * [2024-04-06, 18:12:16](https://news.ycombinator.com/item?id=39954266) - [Choosing a Name for Your Computer (1990)](https://datatracker.ietf.org/doc/html/rfc1178)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols (2023)](https://programming-journal.org/2023/7/6/)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) is hiring a founding Go engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
-* [2024-04-06, 15:47:02](https://news.ycombinator.com/item?id=39953207) - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 * [2024-04-06, 14:52:08](https://news.ycombinator.com/item?id=39952902) - [Home insurers are dropping customers based on aerial images](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
 * [2024-04-06, 14:39:05](https://news.ycombinator.com/item?id=39952826) - [Language models are Super Mario: Absorbing abilities from homologous models](https://arxiv.org/abs/2311.03099)
 * [2024-04-06, 14:29:40](https://news.ycombinator.com/item?id=39952736) - [Schedule-Free Learning – A New Way to Train](https://github.com/facebookresearch/schedule_free)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
 * [2024-04-07, 04:14:53](https://news.ycombinator.com/item?id=39958152) - [ChatGPT might get its own dedicated personal AI device – with Jony Ive's help](https://www.techradar.com/computing/artificial-intelligence/chatgpt-might-get-its-own-dedicated-personal-device-with-jony-ives-help)
+* [2024-04-07, 03:20:08](https://news.ycombinator.com/item?id=39957902) - [Glory is only 11MB/SEC away](https://thmsmlr.com/cheap-infra)
 * [2024-04-07, 02:33:11](https://news.ycombinator.com/item?id=39957684) - [U.S., Canada put 7 year ban on all forms of salmon fishing in Yukon, Alaska](https://www.aptnnews.ca/national-news/u-s-canada-put-7-year-ban-on-all-forms-of-salmon-fishing-in-yukon-alaska/)
 * [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
 * [2024-04-07, 02:07:57](https://news.ycombinator.com/item?id=39957533) - [New CSS Logical Properties](https://elad.medium.com/new-css-logical-properties-bc6945311ce7)
