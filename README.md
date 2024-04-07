@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 00:46:28](https://news.ycombinator.com/item?id=39957107) - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
 * [2024-04-06, 22:59:25](https://news.ycombinator.com/item?id=39956455) - [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
 * [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 21:52:38](https://news.ycombinator.com/item?id=39955944) - [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
-* [2024-04-06, 20:18:58](https://news.ycombinator.com/item?id=39955148) - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
+* [2024-04-06, 21:25:50](https://news.ycombinator.com/item?id=39955725) - [More Agents Is All You Need: LLMs performance scales with the number of agents](https://arxiv.org/abs/2402.05120)
 * [2024-04-06, 20:08:47](https://news.ycombinator.com/item?id=39955057) - [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
-* [2024-04-06, 19:43:07](https://news.ycombinator.com/item?id=39954873) - [California is building fewer homes. The state could get even more expensive](https://www.latimes.com/california/story/2024-04-02/california-is-building-fewer-homes-the-state-could-get-even-more-expensive)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 17:46:59](https://news.ycombinator.com/item?id=39954059) - [A Theory of Composing Protocols (2023)](https://programming-journal.org/2023/7/6/)
 * [2024-04-06, 17:00:02](https://news.ycombinator.com/item?id=39953707) - [Zep AI (YC W24) is hiring a founding Go engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
@@ -29,7 +29,7 @@
 * [2024-04-04, 11:17:10](https://news.ycombinator.com/item?id=39928866) - [New sunflower family tree reveals multiple origins of flower symmetry](https://phys.org/news/2024-04-sunflower-family-tree-reveals-multiple.html)
 * [2024-04-04, 10:47:51](https://news.ycombinator.com/item?id=39928681) - [Chisel: A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, n-grams, and bag-of-words models (2023)](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
-* [2024-04-04, 08:00:53](https://news.ycombinator.com/item?id=39927698) - [Generative UI and outcome-oriented design](https://www.nngroup.com/articles/generative-ui/)
+* [2024-04-04, 06:38:43](https://news.ycombinator.com/item?id=39927229) - [Blissymbols – Ideographic Writing System](https://en.wikipedia.org/wiki/Blissymbols)
 
 ## [Archives](archives/index.md)
 
