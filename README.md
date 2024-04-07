@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 23:30:50](https://news.ycombinator.com/item?id=39964850) - [Primes Can Be Predicted](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742238)
 * [2024-04-07, 22:40:50](https://news.ycombinator.com/item?id=39964590) - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
 * [2024-04-07, 22:23:38](https://news.ycombinator.com/item?id=39964489) - [Autonomous Weapons: The False Promise of Civilian Protection](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
 * [2024-04-07, 22:10:27](https://news.ycombinator.com/item?id=39964402) - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
@@ -23,7 +24,6 @@
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 10:23:51](https://news.ycombinator.com/item?id=39959790) - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
-* [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
 * [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to found a company in Germany: 14 \"easy\" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
 * [2024-04-06, 19:59:24](https://news.ycombinator.com/item?id=39954993) - [Structuralism as a Philosophy of Mathematics](https://www.infinitelymore.xyz/p/structuralism)
