@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-04-06, 22:42:39",
+      "https://news.ycombinator.com/item?id=39956327"
+    ],
+    [
+      "Cache is King: A guide for Docker layer caching in GitHub Actions",
+      "https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 21:59:31",
       "https://news.ycombinator.com/item?id=39956008"
     ],
@@ -187,16 +197,6 @@
     [
       "Deep Aphantasia: a visual brain with minimal influence from priors?",
       "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 10:59:01",
-      "https://news.ycombinator.com/item?id=39951571"
-    ],
-    [
-      "Loki: An open-source tool for fact verification",
-      "https://github.com/Libr-AI/OpenFactVerification"
     ]
   ],
   [
