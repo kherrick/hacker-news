@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-07, 16:49:52",
+      "https://news.ycombinator.com/item?id=39961987"
+    ],
+    [
+      "What's Wrong with Tesla?",
+      "https://www.cnn.com/2024/04/07/business/tesla-ev-sales-slowdown-stock/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 16:12:01",
+      "https://news.ycombinator.com/item?id=39961700"
+    ],
+    [
+      "Passage Du Gois",
+      "https://en.wikipedia.org/wiki/Passage_du_Gois"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 13:55:02",
       "https://news.ycombinator.com/item?id=39960788"
     ],
@@ -97,16 +117,6 @@
     [
       "SentenceTransformers: Python framework for sentence, text and image embeddings",
       "https://www.sbert.net/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 08:51:20",
-      "https://news.ycombinator.com/item?id=39959368"
-    ],
-    [
-      "How to Found a Company in Germany: 14 \"Easy\" Steps and Lots of Pain",
-      "https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The IT Productivity Paradox (2015)",
       "https://cs.stanford.edu/people/eroberts/cs201/projects/productivity-paradox/background.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 10:47:51",
-      "https://news.ycombinator.com/item?id=39928681"
-    ],
-    [
-      "Chisel: A fast TCP/UDP tunnel over HTTP",
-      "https://github.com/jpillora/chisel"
     ]
   ]
 ]
