@@ -86,6 +86,7 @@
 * [2024-04-06, 07:57:01](https://news.ycombinator.com/item?id=39950805) - [Show HN: A url only notepad that hosts itself](https://github.com/con-dog/serverless-architecture)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 * [2024-04-06, 07:38:04](https://news.ycombinator.com/item?id=39950712) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
+* [2024-04-06, 07:33:10](https://news.ycombinator.com/item?id=39950691) - [Apple now allows retro game emulators on its App Store](https://arstechnica.com/gadgets/2024/04/apple-now-allows-retro-game-emulators-on-its-app-store-but-with-big-caveats/)
 * [2024-04-06, 07:29:36](https://news.ycombinator.com/item?id=39950683) - [Ask HN: How do I learn more about LLMs and ML?](https://news.ycombinator.com/item?id=39950683)
 * [2024-04-06, 07:03:43](https://news.ycombinator.com/item?id=39950579) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust)
 * [2024-04-06, 06:57:24](https://news.ycombinator.com/item?id=39950557) - [Microsoft blocks even more customization apps in Windows 11 version 24H2](https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/)
