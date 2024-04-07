@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
 * [2024-04-07, 16:49:52](https://news.ycombinator.com/item?id=39961987) - [What's Wrong with Tesla?](https://www.cnn.com/2024/04/07/business/tesla-ev-sales-slowdown-stock/index.html)
 * [2024-04-07, 16:12:01](https://news.ycombinator.com/item?id=39961700) - [Passage Du Gois](https://en.wikipedia.org/wiki/Passage_du_Gois)
 * [2024-04-07, 15:33:13](https://news.ycombinator.com/item?id=39961435) - [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
@@ -14,6 +15,7 @@
 * [2024-04-07, 13:33:28](https://news.ycombinator.com/item?id=39960649) - [NASA direct coverage of the 2024 eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/live/)
 * [2024-04-07, 13:32:27](https://news.ycombinator.com/item?id=39960645) - [Blog Posts, Sorted by Sleep](https://breckyunits.com/sleepWriting.html)
 * [2024-04-07, 13:25:40](https://news.ycombinator.com/item?id=39960602) - [Ask HN: What does FB gain in making LLAMA free?](https://news.ycombinator.com/item?id=39960602)
+* [2024-04-07, 13:13:43](https://news.ycombinator.com/item?id=39960537) - [Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests](https://github.com/stackframe-projects/pgmock)
 * [2024-04-07, 13:13:23](https://news.ycombinator.com/item?id=39960535) - [ClangQL: A tool to run SQL-like query on C/C++ Code](https://github.com/AmrDeveloper/ClangQL)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
