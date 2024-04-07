@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 * [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
+* [2024-04-07, 18:24:43](https://news.ycombinator.com/item?id=39962644) - [Facebook banned website that links to critical article, claims phishing](https://bsky.app/profile/mosseri.bsky.social/post/3kpimfpxjkh2r)
 * [2024-04-07, 17:44:11](https://news.ycombinator.com/item?id=39962349) - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
 * [2024-04-07, 17:18:37](https://news.ycombinator.com/item?id=39962184) - [Xemu: Original Xbox Emulator](https://xemu.app/)
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
@@ -19,7 +21,6 @@
 * [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
 * [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to found a company in Germany: 14 \"easy\" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
-* [2024-04-07, 07:56:40](https://news.ycombinator.com/item?id=39959069) - [It's not what the world needs right now](https://thebaffler.com/odds-and-ends/its-not-what-the-world-needs-right-now-norman-wilson)
 * [2024-04-07, 04:52:39](https://news.ycombinator.com/item?id=39958260) - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 * [2024-04-06, 21:06:46](https://news.ycombinator.com/item?id=39955545) - [My First Open Source Contribution](https://www.preethamrn.com/posts/my-first-open-source-contribution)
 * [2024-04-06, 19:59:24](https://news.ycombinator.com/item?id=39954993) - [Structuralism as a Philosophy of Mathematics](https://www.infinitelymore.xyz/p/structuralism)
@@ -29,7 +30,6 @@
 * [2024-04-06, 07:49:55](https://news.ycombinator.com/item?id=39950773) - [Making Apple Progressive Blur on the Web](https://www.devslovecoffee.com/blog/making-apple-progressive-blur-on-web/)
 * [2024-04-05, 20:49:14](https://news.ycombinator.com/item?id=39947045) - [Clojure's machine learning ecosystem](https://codewithkira.com/2024-04-04-state-of-clojure-ml.html)
 * [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
-* [2024-04-05, 20:16:12](https://news.ycombinator.com/item?id=39946687) - [The IT Productivity Paradox (2015)](https://cs.stanford.edu/people/eroberts/cs201/projects/productivity-paradox/background.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 * [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
+* [2024-04-07, 18:24:43](https://news.ycombinator.com/item?id=39962644) - [Facebook banned website that links to critical article, claims phishing](https://bsky.app/profile/mosseri.bsky.social/post/3kpimfpxjkh2r)
 * [2024-04-07, 17:45:38](https://news.ycombinator.com/item?id=39962354) - [Atlanta Police Foundation pushed 'unprecedented' surveillance plan](https://atlpresscollective.com/2024/04/01/atlanta-police-foundation-pushed-unprecedented-surveillance-plan/)
 * [2024-04-07, 17:44:11](https://news.ycombinator.com/item?id=39962349) - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
 * [2024-04-07, 17:35:46](https://news.ycombinator.com/item?id=39962300) - [How one Mexican beach town saved itself from 'death by tourism'](https://www.aljazeera.com/features/2024/4/6/how-one-mexican-beach-town-saved-itself-from-death-by-tourism)
