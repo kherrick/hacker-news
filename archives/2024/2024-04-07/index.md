@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-04-07, 20:54:23](https://news.ycombinator.com/item?id=39963824) - [Eclipse 2024](https://andywoodruff.com/posts/2023/eclipse-2024/)
 * [2024-04-07, 20:40:08](https://news.ycombinator.com/item?id=39963694) - [Landfills Leak More Planet-Baking Methane Than We Thought](https://grist.org/science/us-landfills-emit-far-more-methane-than-previously-known/)
 * [2024-04-07, 20:33:44](https://news.ycombinator.com/item?id=39963643) - [Xkcd 1928: Seven Years](https://xkcd.com/1928/)
 * [2024-04-07, 20:32:54](https://news.ycombinator.com/item?id=39963638) - [AI is not your friend](https://gerrymcgovern.com/ai-is-not-your-friend/)
