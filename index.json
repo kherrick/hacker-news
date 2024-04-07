@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-04-07, 00:41:13",
+      "https://news.ycombinator.com/item?id=39957081"
+    ],
+    [
+      "Dot: use of local LLMs and RAG in particular to interact with documents",
+      "https://github.com/alexpinel/Dot"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 00:35:48",
       "https://news.ycombinator.com/item?id=39957047"
     ],
@@ -287,16 +297,6 @@
     [
       "Tokens, n-grams, and bag-of-words models (2023)",
       "https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 06:38:43",
-      "https://news.ycombinator.com/item?id=39927229"
-    ],
-    [
-      "Blissymbols – Ideographic Writing System",
-      "https://en.wikipedia.org/wiki/Blissymbols"
     ]
   ]
 ]
