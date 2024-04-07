@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-07, 12:00:22",
+      "https://news.ycombinator.com/item?id=39960171"
+    ],
+    [
+      "Bright (YC W15) Is Hiring",
+      "https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 11:39:17",
+      "https://news.ycombinator.com/item?id=39960107"
+    ],
+    [
+      "Command Injection and Backdoor Account in D-Link NAS Devices",
+      "https://github.com/netsecfish/dlink"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 11:26:52",
+      "https://news.ycombinator.com/item?id=39960069"
+    ],
+    [
+      "Court approves 3M multi-billion dollar settlement over PFAS in drinking water",
+      "https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 10:55:10",
       "https://news.ycombinator.com/item?id=39959946"
     ],
@@ -47,16 +77,6 @@
     [
       "ElephantSQL Is Shutting Down",
       "https://www.elephantsql.com/blog/end-of-life-announcement.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 06:06:59",
-      "https://news.ycombinator.com/item?id=39958523"
-    ],
-    [
-      "Exposure therapy for arachnophobia can benefit unrelated fears, study finds",
-      "https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "A Theory of Composing Protocols (2023)",
       "https://programming-journal.org/2023/7/6/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 17:00:02",
-      "https://news.ycombinator.com/item?id=39953707"
-    ],
-    [
-      "Zep AI (YC W24) is hiring a founding Go engineer",
-      "https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 14:39:05",
-      "https://news.ycombinator.com/item?id=39952826"
-    ],
-    [
-      "Language models are Super Mario: Absorbing abilities from homologous models",
-      "https://arxiv.org/abs/2311.03099"
     ]
   ],
   [
