@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-07, 22:40:50](https://news.ycombinator.com/item?id=39964590) - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
+* [2024-04-07, 22:23:38](https://news.ycombinator.com/item?id=39964489) - [Autonomous Weapons: The False Promise of Civilian Protection](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
 * [2024-04-07, 22:10:27](https://news.ycombinator.com/item?id=39964402) - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
 * [2024-04-07, 22:01:56](https://news.ycombinator.com/item?id=39964355) - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-04-07, 20:40:08](https://news.ycombinator.com/item?id=39963694) - [Landfills Leak More Planet-Baking Methane Than We Thought](https://grist.org/science/us-landfills-emit-far-more-methane-than-previously-known/)
 * [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 * [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
-* [2024-04-07, 17:54:31](https://news.ycombinator.com/item?id=39962415) - [Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync](https://www.flashnotesapp.com)
 * [2024-04-07, 17:36:06](https://news.ycombinator.com/item?id=39962303) - [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [2024-04-07, 16:55:16](https://news.ycombinator.com/item?id=39962023) - [PumpkinOS, a Re-Implementation of PalmOS](https://github.com/migueletto/PumpkinOS)
 * [2024-04-07, 16:50:30](https://news.ycombinator.com/item?id=39961994) - [Rpgp: Pure Rust implementation of OpenPGP](https://github.com/rpgp/rpgp)
@@ -29,7 +30,6 @@
 * [2024-04-06, 14:38:39](https://news.ycombinator.com/item?id=39952819) - [The Blessing of the Strings](https://bkardell.com/blog/blessing-strings.html)
 * [2024-04-06, 12:24:39](https://news.ycombinator.com/item?id=39951984) - [Santa Susana Field Laboratory](https://en.wikipedia.org/wiki/Santa_Susana_Field_Laboratory)
 * [2024-04-05, 20:49:14](https://news.ycombinator.com/item?id=39947045) - [Clojure's machine learning ecosystem](https://codewithkira.com/2024-04-04-state-of-clojure-ml.html)
-* [2024-04-05, 20:23:06](https://news.ycombinator.com/item?id=39946763) - [Opt-Models: Intro to Optimization Programming Using LEGOs](https://opt-models.org/)
 
 ## [Archives](archives/index.md)
 
