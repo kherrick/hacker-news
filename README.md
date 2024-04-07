@@ -6,7 +6,7 @@
 * [2024-04-07, 04:52:39](https://news.ycombinator.com/item?id=39958260) - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 * [2024-04-07, 03:42:07](https://news.ycombinator.com/item?id=39958025) - [PM2: Production Process Manager with a Built-In Load Balancer](https://github.com/Unitech/pm2)
 * [2024-04-07, 03:20:08](https://news.ycombinator.com/item?id=39957902) - [Glory is only 11MB/sec away (2023)](https://thmsmlr.com/cheap-infra)
-* [2024-04-07, 03:03:58](https://news.ycombinator.com/item?id=39957811) - [What makes housing so expensive?](https://www.construction-physics.com/p/what-makes-housing-so-expensive)
+* [2024-04-07, 02:50:40](https://news.ycombinator.com/item?id=39957757) - [Currying](https://wiki.haskell.org/Currying)
 * [2024-04-07, 02:44:42](https://news.ycombinator.com/item?id=39957731) - [Nix – A One Pager](https://github.com/tazjin/nix-1p/blob/master/README.md)
 * [2024-04-07, 02:31:45](https://news.ycombinator.com/item?id=39957675) - [Designing-data-intensive-application-notes.md](https://gist.github.com/bcherny/b870a60d1650973df7e400c8603ac76d)
 * [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
