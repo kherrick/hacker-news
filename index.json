@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-07, 18:37:55",
+      "https://news.ycombinator.com/item?id=39962737"
+    ],
+    [
+      "The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"",
+      "https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 17:44:11",
       "https://news.ycombinator.com/item?id=39962349"
     ],
@@ -47,16 +57,6 @@
     [
       "AI assists clinicians in responding to patient messages at Stanford Medicine",
       "https://med.stanford.edu/news/all-news/2024/03/ai-patient-messages.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 15:40:34",
-      "https://news.ycombinator.com/item?id=39961488"
-    ],
-    [
-      "Linwei Ding was a Google software engineer. Also an alledged prolific thief",
-      "https://www.msn.com/en-us/news/technology/linwei-ding-was-a-google-software-engineer-he-was-also-a-prolific-thief-say-federal-prosecutors/ar-BB1lasmy"
     ]
   ],
   [
@@ -121,32 +121,22 @@
   ],
   [
     [
+      "2024-04-07, 12:08:22",
+      "https://news.ycombinator.com/item?id=39960202"
+    ],
+    [
+      "Fire alarm audio detection, using FFTs and Go",
+      "https://github.com/pldubouilh/alarm"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 11:46:55",
       "https://news.ycombinator.com/item?id=39960125"
     ],
     [
       "Google Public DNS's approach to fight against cache poisoning attacks",
       "https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 11:39:17",
-      "https://news.ycombinator.com/item?id=39960107"
-    ],
-    [
-      "Command injection and backdoor account in D-Link NAS devices",
-      "https://github.com/netsecfish/dlink"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 11:26:52",
-      "https://news.ycombinator.com/item?id=39960069"
-    ],
-    [
-      "Court approves 3M multi-billion dollar settlement over PFAS in drinking water",
-      "https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/"
     ]
   ],
   [
@@ -171,12 +161,32 @@
   ],
   [
     [
-      "2024-04-07, 08:23:26",
-      "https://news.ycombinator.com/item?id=39959228"
+      "2024-04-07, 09:23:09",
+      "https://news.ycombinator.com/item?id=39959543"
     ],
     [
-      "Sophia: Scalable Stochastic 2nd-Order Optimizer for Language Model Pre-Training",
-      "https://arxiv.org/abs/2305.14342"
+      "Rendering string diagrams recursively [pdf]",
+      "https://arxiv.org/abs/2404.02679"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 08:55:03",
+      "https://news.ycombinator.com/item?id=39959380"
+    ],
+    [
+      "The lifecycle of a code AI completion",
+      "https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 08:51:20",
+      "https://news.ycombinator.com/item?id=39959368"
+    ],
+    [
+      "How to found a company in Germany: 14 \"easy\" steps and lots of pain",
+      "https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-04-07, 06:42:54",
-      "https://news.ycombinator.com/item?id=39958701"
-    ],
-    [
-      "ElephantSQL Is Shutting Down",
-      "https://www.elephantsql.com/blog/end-of-life-announcement.html"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 04:52:39",
       "https://news.ycombinator.com/item?id=39958260"
     ],
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2024-04-07, 00:41:13",
-      "https://news.ycombinator.com/item?id=39957081"
+      "2024-04-06, 21:06:46",
+      "https://news.ycombinator.com/item?id=39955545"
     ],
     [
-      "Dot – A standalone open source app meant for easy use of local LLMs and RAG",
-      "https://github.com/alexpinel/Dot"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 21:59:31",
-      "https://news.ycombinator.com/item?id=39956008"
-    ],
-    [
-      "WinBtrfs – an open-source btrfs driver for Windows",
-      "https://github.com/maharmstone/btrfs"
+      "My First Open Source Contribution",
+      "https://www.preethamrn.com/posts/my-first-open-source-contribution"
     ]
   ],
   [
@@ -241,22 +231,32 @@
   ],
   [
     [
-      "2024-04-06, 18:37:36",
-      "https://news.ycombinator.com/item?id=39954422"
+      "2024-04-06, 17:19:14",
+      "https://news.ycombinator.com/item?id=39953842"
     ],
     [
-      "Faces.js, a JavaScript library for generating vector-based cartoon faces",
-      "https://zengm.com/facesjs/"
+      "My favorite button on the internet",
+      "https://breadchris.com/blog/my-favorite-button-on-the-internet/"
     ]
   ],
   [
     [
-      "2024-04-06, 09:33:18",
-      "https://news.ycombinator.com/item?id=39951203"
+      "2024-04-06, 14:38:39",
+      "https://news.ycombinator.com/item?id=39952819"
     ],
     [
-      "Gakken Ex-System",
-      "https://en.wikipedia.org/wiki/Gakken_EX-System"
+      "The Blessing of the Strings",
+      "https://bkardell.com/blog/blessing-strings.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 12:24:39",
+      "https://news.ycombinator.com/item?id=39951984"
+    ],
+    [
+      "Santa Susana Field Laboratory",
+      "https://en.wikipedia.org/wiki/Santa_Susana_Field_Laboratory"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-04-05, 23:26:57",
-      "https://news.ycombinator.com/item?id=39948479"
+      "2024-04-05, 20:49:14",
+      "https://news.ycombinator.com/item?id=39947045"
     ],
     [
-      "Tiny Biosensor Is Just a Cup, a Membrane, and a Magnet",
-      "https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless"
+      "Clojure's machine learning ecosystem",
+      "https://codewithkira.com/2024-04-04-state-of-clojure-ml.html"
     ]
   ],
   [
