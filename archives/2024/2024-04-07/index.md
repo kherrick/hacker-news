@@ -10,6 +10,7 @@
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
 * [2024-04-07, 11:26:52](https://news.ycombinator.com/item?id=39960069) - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
+* [2024-04-07, 11:20:27](https://news.ycombinator.com/item?id=39960047) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 10:23:51](https://news.ycombinator.com/item?id=39959790) - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 * [2024-04-07, 10:01:32](https://news.ycombinator.com/item?id=39959704) - [Helixx: $6 a day EV subscription service could disrupt the auto industry](https://newatlas.com/automotive/helixx-subscription-ev/)
