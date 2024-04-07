@@ -11,6 +11,7 @@
 * [2024-04-07, 02:44:42](https://news.ycombinator.com/item?id=39957731) - [Nix – A One Pager](https://github.com/tazjin/nix-1p/blob/master/README.md)
 * [2024-04-07, 02:19:36](https://news.ycombinator.com/item?id=39957607) - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
 * [2024-04-07, 00:46:28](https://news.ycombinator.com/item?id=39957107) - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
+* [2024-04-07, 00:41:13](https://news.ycombinator.com/item?id=39957081) - [Dot: use of local LLMs and RAG in particular to interact with documents](https://github.com/alexpinel/Dot)
 * [2024-04-07, 00:35:48](https://news.ycombinator.com/item?id=39957047) - [We Can Slay Giants](https://www.thehandbasket.co/p/meta-the-handbasket-censorship-slay-giants)
 * [2024-04-06, 23:28:58](https://news.ycombinator.com/item?id=39956638) - [Google Blog on DMA](https://blog.google/around-the-globe/google-europe/new-competition-rules-come-with-trade-offs/)
 * [2024-04-06, 22:59:25](https://news.ycombinator.com/item?id=39956455) - [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
@@ -29,7 +30,6 @@
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
 * [2024-04-04, 10:47:51](https://news.ycombinator.com/item?id=39928681) - [Chisel: A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel)
 * [2024-04-04, 09:27:03](https://news.ycombinator.com/item?id=39928223) - [Tokens, n-grams, and bag-of-words models (2023)](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
-* [2024-04-04, 06:38:43](https://news.ycombinator.com/item?id=39927229) - [Blissymbols – Ideographic Writing System](https://en.wikipedia.org/wiki/Blissymbols)
 
 ## [Archives](archives/index.md)
 
