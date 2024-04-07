@@ -35,6 +35,7 @@
 * [2024-04-07, 13:25:40](https://news.ycombinator.com/item?id=39960602) - [Ask HN: What does FB gain in making LLAMA free?](https://news.ycombinator.com/item?id=39960602)
 * [2024-04-07, 13:13:43](https://news.ycombinator.com/item?id=39960537) - [Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests](https://github.com/stackframe-projects/pgmock)
 * [2024-04-07, 13:13:23](https://news.ycombinator.com/item?id=39960535) - [ClangQL: A tool to run SQL-like query on C/C++ Code](https://github.com/AmrDeveloper/ClangQL)
+* [2024-04-07, 12:19:45](https://news.ycombinator.com/item?id=39960251) - [NASA's LRO Finds Photo Op as It Zips Past SKorea's Danuri Moon Orbiter](https://www.nasa.gov/missions/lro/nasas-lro-finds-photo-op-as-it-zips-past-skoreas-danuri-moon-orbiter/)
 * [2024-04-07, 12:19:29](https://news.ycombinator.com/item?id=39960248) - [Comparing Desoldering Tools](https://hackaday.com/2024/04/07/comparing-desoldering-tools/)
 * [2024-04-07, 12:08:22](https://news.ycombinator.com/item?id=39960202) - [Fire alarm audio detection, using FFTs and Go](https://github.com/pldubouilh/alarm)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
