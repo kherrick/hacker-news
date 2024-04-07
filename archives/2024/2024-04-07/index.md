@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
+* [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
 * [2024-04-07, 11:26:52](https://news.ycombinator.com/item?id=39960069) - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)

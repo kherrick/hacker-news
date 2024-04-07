@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
+* [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
 * [2024-04-07, 11:26:52](https://news.ycombinator.com/item?id=39960069) - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
@@ -28,7 +29,6 @@
 * [2024-04-06, 07:33:10](https://news.ycombinator.com/item?id=39950691) - [Apple now allows retro game emulators on its App Store](https://arstechnica.com/gadgets/2024/04/apple-now-allows-retro-game-emulators-on-its-app-store-but-with-big-caveats/)
 * [2024-04-06, 04:42:42](https://news.ycombinator.com/item?id=39950036) - [A memory model for Rust code in the kernel](https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/)
 * [2024-04-05, 23:26:57](https://news.ycombinator.com/item?id=39948479) - [Tiny Biosensor Is Just a Cup, a Membrane, and a Magnet](https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless)
-* [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
 * [2024-04-04, 10:47:51](https://news.ycombinator.com/item?id=39928681) - [Chisel: A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel)
 
 ## [Archives](archives/index.md)
