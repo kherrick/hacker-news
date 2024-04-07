@@ -29,6 +29,7 @@
 * [2024-04-07, 09:32:17](https://news.ycombinator.com/item?id=39959589) - [LLMs can't simulate a Turing machine reliably](https://twitter.com/VictorTaelin/status/1776271375814054257)
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to Found a Company in Germany: 14 \"Easy\" Steps and Lots of Pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
 * [2024-04-07, 08:23:26](https://news.ycombinator.com/item?id=39959228) - [Sophia: Scalable Stochastic 2nd-Order Optimizer for Language Model Pre-Training](https://arxiv.org/abs/2305.14342)
+* [2024-04-07, 07:56:40](https://news.ycombinator.com/item?id=39959069) - [It's Not What the World Needs](https://thebaffler.com/odds-and-ends/its-not-what-the-world-needs-right-now-norman-wilson)
 * [2024-04-07, 06:42:54](https://news.ycombinator.com/item?id=39958701) - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 * [2024-04-07, 06:06:59](https://news.ycombinator.com/item?id=39958523) - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
 * [2024-04-07, 05:19:17](https://news.ycombinator.com/item?id=39958346) - [ESR's Autodafe: \"freeing your project from the clammy grip of autotools.\"](https://gitlab.com/esr/autodafe)
