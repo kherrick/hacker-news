@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-07, 17:45:38",
+      "https://news.ycombinator.com/item?id=39962354"
+    ],
+    [
+      "Atlanta Police Foundation pushed 'unprecedented' surveillance plan",
+      "https://atlpresscollective.com/2024/04/01/atlanta-police-foundation-pushed-unprecedented-surveillance-plan/"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 17:44:11",
       "https://news.ycombinator.com/item?id=39962349"
     ],
@@ -41,12 +51,42 @@
   ],
   [
     [
+      "2024-04-07, 16:37:12",
+      "https://news.ycombinator.com/item?id=39961868"
+    ],
+    [
+      "AI assists clinicians in responding to patient messages at Stanford Medicine",
+      "https://med.stanford.edu/news/all-news/2024/03/ai-patient-messages.html"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 16:12:01",
       "https://news.ycombinator.com/item?id=39961700"
     ],
     [
       "Passage Du Gois",
       "https://en.wikipedia.org/wiki/Passage_du_Gois"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 15:28:28",
+      "https://news.ycombinator.com/item?id=39961396"
+    ],
+    [
+      "Exploring the Power of CSS Container Queries Pros, Cons, and Beyond",
+      "https://desainova.com/posts/exploring-the-power-of-css-container-queries-pros-cons-and-beyond/"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 15:06:42",
+      "https://news.ycombinator.com/item?id=39961245"
+    ],
+    [
+      "Greaseweazle",
+      "https://retrocmp.de/hardware/greaseweazle/greaseweazle.htm"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2024-04-07, 11:26:52",
-      "https://news.ycombinator.com/item?id=39960069"
-    ],
-    [
-      "Court approves 3M multi-billion dollar settlement over PFAS in drinking water",
-      "https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 10:55:10",
       "https://news.ycombinator.com/item?id=39959946"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2024-04-07, 03:42:07",
-      "https://news.ycombinator.com/item?id=39958025"
-    ],
-    [
-      "PM2: Production Process Manager with a Built-In Load Balancer",
-      "https://github.com/Unitech/pm2"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 00:41:13",
-      "https://news.ycombinator.com/item?id=39957081"
-    ],
-    [
-      "Dot – A standalone open source app meant for easy use of local LLMs and RAG",
-      "https://github.com/alexpinel/Dot"
-    ]
-  ],
-  [
-    [
       "2024-04-06, 21:59:31",
       "https://news.ycombinator.com/item?id=39956008"
     ],
     [
       "WinBtrfs – an open-source btrfs driver for Windows",
       "https://github.com/maharmstone/btrfs"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 21:52:38",
-      "https://news.ycombinator.com/item?id=39955944"
-    ],
-    [
-      "Show HN: Online database diagram editor",
-      "https://github.com/drawdb-io/drawdb"
     ]
   ],
   [
