@@ -87,6 +87,7 @@
 * [2024-04-06, 07:29:36](https://news.ycombinator.com/item?id=39950683) - [Ask HN: How do I learn more about LLMs and ML?](https://news.ycombinator.com/item?id=39950683)
 * [2024-04-06, 07:03:43](https://news.ycombinator.com/item?id=39950579) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust)
 * [2024-04-06, 06:57:24](https://news.ycombinator.com/item?id=39950557) - [Microsoft blocks even more customization apps in Windows 11 version 24H2](https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/)
+* [2024-04-06, 04:42:42](https://news.ycombinator.com/item?id=39950036) - [A memory model for Rust code in the kernel](https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/)
 * [2024-04-06, 04:32:12](https://news.ycombinator.com/item?id=39949973) - [A memory model for Rust code in the kernel](https://lwn.net/Articles/967049/)
 * [2024-04-06, 04:12:24](https://news.ycombinator.com/item?id=39949882) - [Working with Qubes OS at the Guardian](https://www.theguardian.com/info/2024/apr/04/when-security-matters-working-with-qubes-os-at-the-guardian)
 * [2024-04-06, 04:09:08](https://news.ycombinator.com/item?id=39949866) - [Why the \"Eisenhower matrix\" is a fantastic productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)

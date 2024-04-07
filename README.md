@@ -2,7 +2,6 @@
 
 * [2024-04-07, 06:42:54](https://news.ycombinator.com/item?id=39958701) - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 * [2024-04-07, 06:06:59](https://news.ycombinator.com/item?id=39958523) - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
-* [2024-04-07, 05:19:17](https://news.ycombinator.com/item?id=39958346) - [Autodafe: Tools for freeing your project from the clammy grip of autotools](https://gitlab.com/esr/autodafe)
 * [2024-04-07, 04:52:39](https://news.ycombinator.com/item?id=39958260) - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 * [2024-04-07, 03:42:07](https://news.ycombinator.com/item?id=39958025) - [PM2: Production Process Manager with a Built-In Load Balancer](https://github.com/Unitech/pm2)
 * [2024-04-07, 03:20:08](https://news.ycombinator.com/item?id=39957902) - [Glory is only 11MB/sec away (2023)](https://thmsmlr.com/cheap-infra)
@@ -25,6 +24,7 @@
 * [2024-04-06, 09:33:18](https://news.ycombinator.com/item?id=39951203) - [Gakken Ex-System](https://en.wikipedia.org/wiki/Gakken_EX-System)
 * [2024-04-06, 09:31:36](https://news.ycombinator.com/item?id=39951198) - [Anti-crime humps in medieval Venice](https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they)
 * [2024-04-06, 07:48:25](https://news.ycombinator.com/item?id=39950760) - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
+* [2024-04-06, 04:42:42](https://news.ycombinator.com/item?id=39950036) - [A memory model for Rust code in the kernel](https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/)
 * [2024-04-05, 22:44:25](https://news.ycombinator.com/item?id=39948185) - [Why Were So Many Renaissance Portraits Multisided?](https://www.smithsonianmag.com/smart-news/why-were-so-many-renaissance-portraits-multisided-180984096/)
 * [2024-04-04, 13:21:33](https://news.ycombinator.com/item?id=39930052) - [ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
 * [2024-04-04, 11:17:10](https://news.ycombinator.com/item?id=39928866) - [New sunflower family tree reveals multiple origins of flower symmetry](https://phys.org/news/2024-04-sunflower-family-tree-reveals-multiple.html)
