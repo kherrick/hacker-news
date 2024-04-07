@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 17:45:38](https://news.ycombinator.com/item?id=39962354) - [Atlanta Police Foundation pushed 'unprecedented' surveillance plan](https://atlpresscollective.com/2024/04/01/atlanta-police-foundation-pushed-unprecedented-surveillance-plan/)
 * [2024-04-07, 17:44:11](https://news.ycombinator.com/item?id=39962349) - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
 * [2024-04-07, 17:19:06](https://news.ycombinator.com/item?id=39962194) - [Trudeau Unveils $1.8B Plan to Boost AI Sector in Canada](https://www.bloomberg.com/news/articles/2024-04-07/trudeau-unveils-1-8-billion-plan-to-boost-ai-sector-in-canada)
 * [2024-04-07, 17:18:37](https://news.ycombinator.com/item?id=39962184) - [Xemu: Original Xbox Emulator](https://xemu.app/)
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
 * [2024-04-07, 16:49:52](https://news.ycombinator.com/item?id=39961987) - [What's Wrong with Tesla?](https://www.cnn.com/2024/04/07/business/tesla-ev-sales-slowdown-stock/index.html)
+* [2024-04-07, 16:37:12](https://news.ycombinator.com/item?id=39961868) - [AI assists clinicians in responding to patient messages at Stanford Medicine](https://med.stanford.edu/news/all-news/2024/03/ai-patient-messages.html)
 * [2024-04-07, 16:12:01](https://news.ycombinator.com/item?id=39961700) - [Passage Du Gois](https://en.wikipedia.org/wiki/Passage_du_Gois)
 * [2024-04-07, 15:33:13](https://news.ycombinator.com/item?id=39961435) - [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
 * [2024-04-07, 15:30:25](https://news.ycombinator.com/item?id=39961411) - [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
+* [2024-04-07, 15:28:28](https://news.ycombinator.com/item?id=39961396) - [Exploring the Power of CSS Container Queries Pros, Cons, and Beyond](https://desainova.com/posts/exploring-the-power-of-css-container-queries-pros-cons-and-beyond/)
+* [2024-04-07, 15:06:42](https://news.ycombinator.com/item?id=39961245) - [Greaseweazle](https://retrocmp.de/hardware/greaseweazle/greaseweazle.htm)
 * [2024-04-07, 14:22:51](https://news.ycombinator.com/item?id=39960973) - [Elon Musk's leadership beginning to splinter Tesla loyalists as car sales drop](https://fortune.com/2024/04/07/elon-musk-tesla-sales-ceo-compensation-twitter-fans/)
 * [2024-04-07, 13:55:02](https://news.ycombinator.com/item?id=39960788) - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
 * [2024-04-07, 13:42:05](https://news.ycombinator.com/item?id=39960717) - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
