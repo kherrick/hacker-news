@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-08, 17:03:54",
+      "https://news.ycombinator.com/item?id=39971673"
+    ],
+    [
+      "Find My Device on Android",
+      "https://blog.google/products/android/android-find-my-device/"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 17:01:00",
       "https://news.ycombinator.com/item?id=39971645"
     ],
@@ -57,6 +67,16 @@
     [
       "Exploring Batch Caching of Trees",
       "https://blog.julik.nl/2024/04/batch-caching-of-trees"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 14:01:42",
+      "https://news.ycombinator.com/item?id=39969802"
+    ],
+    [
+      "Building an AI Coach to Help Tame My Monkey Mind",
+      "https://eugeneyan.com/writing/ai-coach/"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "PumpkinOS, a Re-Implementation of PalmOS",
       "https://github.com/migueletto/PumpkinOS"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 13:42:05",
-      "https://news.ycombinator.com/item?id=39960717"
-    ],
-    [
-      "Mixture-of-Depths: Dynamically allocating compute in transformers",
-      "https://arxiv.org/abs/2404.02258"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 13:32:27",
-      "https://news.ycombinator.com/item?id=39960645"
-    ],
-    [
-      "Blog posts, sorted by sleep",
-      "https://breckyunits.com/sleepWriting.html"
     ]
   ],
   [
