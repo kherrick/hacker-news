@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
+* [2024-04-08, 19:09:53](https://news.ycombinator.com/item?id=39972749) - [Microsoft: Laptops with Snapdragon X Elite Will Be Faster Than M3 MacBook Air](https://www.macrumors.com/2024/04/08/microsoft-vs-m3-macbook-air/)
 * [2024-04-08, 18:37:41](https://news.ycombinator.com/item?id=39972514) - [Cloudflare Developer Week 2024 wrap-up](https://blog.cloudflare.com/developer-week-2024-wrap-up)
 * [2024-04-08, 17:56:04](https://news.ycombinator.com/item?id=39972152) - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
 * [2024-04-08, 17:48:24](https://news.ycombinator.com/item?id=39972086) - [ESLint v9.0.0 Released](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
@@ -47,6 +49,7 @@
 * [2024-04-08, 12:00:41](https://news.ycombinator.com/item?id=39968812) - [Sieve (YC W22) Is Hiring ML engineers (small team, high revenue, AI infra)](https://sievedata.com/about/jobs)
 * [2024-04-08, 11:52:00](https://news.ycombinator.com/item?id=39968761) - [Notepad++: Help us to take down the parasite website](https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/)
 * [2024-04-08, 11:47:42](https://news.ycombinator.com/item?id=39968721) - [Why Top Athletes Don't Look Like Fitness Influencers (Usually)](https://www.gq.com/story/top-athletes-dont-look-like-fitness-influencers)
+* [2024-04-08, 11:40:44](https://news.ycombinator.com/item?id=39968678) - [I tried to automate job applications as a software engineer (and failed)](https://github.com/ukraine/jobBanksCanada)
 * [2024-04-08, 11:40:11](https://news.ycombinator.com/item?id=39968672) - [Copilot generates Jewish stereotypes, anti-Semitic tropes](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsofts-copilot-image-tool-generates-ugly-jewish-stereotypes#xenforo-comments-3841613)
 * [2024-04-08, 11:33:25](https://news.ycombinator.com/item?id=39968637) - [What Researchers Discovered When They Sent 80k Fake Résumés to U.S. Jobs](https://www.nytimes.com/2024/04/08/upshot/employment-discrimination-fake-resumes.html)
 * [2024-04-08, 10:52:01](https://news.ycombinator.com/item?id=39968384) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
