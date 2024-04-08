@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
 * [2024-04-08, 14:46:55](https://news.ycombinator.com/item?id=39970299) - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
+* [2024-04-08, 14:28:40](https://news.ycombinator.com/item?id=39970096) - [Turchin's Terrifying Predictions](http://donaldclarkplanb.blogspot.com/2024/04/turchins-terrifying-predictions.html)
 * [2024-04-08, 13:58:29](https://news.ycombinator.com/item?id=39969772) - [I'm always rejected at airport e-gates– so the Office suggested changing my name](https://www.telegraph.co.uk/travel/advice/problems-passport-office-e-gate/)
 * [2024-04-08, 13:54:52](https://news.ycombinator.com/item?id=39969741) - ['Time is running out': can a future of undetectable deepfakes be avoided?](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided)
 * [2024-04-08, 13:43:00](https://news.ycombinator.com/item?id=39969633) - [Paying Off People's Medical Debt Has Little Impact on Their Lives, Study Finds](https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html)
