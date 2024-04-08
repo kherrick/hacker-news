@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 13:58:29](https://news.ycombinator.com/item?id=39969772) - [I'm always rejected at airport e-gates– so the Office suggested changing my name](https://www.telegraph.co.uk/travel/advice/problems-passport-office-e-gate/)
 * [2024-04-08, 13:54:52](https://news.ycombinator.com/item?id=39969741) - ['Time is running out': can a future of undetectable deepfakes be avoided?](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided)
 * [2024-04-08, 13:43:00](https://news.ycombinator.com/item?id=39969633) - [Paying Off People's Medical Debt Has Little Impact on Their Lives, Study Finds](https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html)
+* [2024-04-08, 13:40:28](https://news.ycombinator.com/item?id=39969615) - [HuggingFace text-generation-inference is reverting to Apache 2.0 License](https://github.com/huggingface/text-generation-inference/commit/ff42d33e9944832a19171967d2edd6c292bdb2d6)
 * [2024-04-08, 13:29:19](https://news.ycombinator.com/item?id=39969527) - [USPS jumps to first place as most imitated brand in phishing attacks](https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024)
 * [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
 * [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
@@ -14,7 +16,6 @@
 * [2024-04-08, 07:40:40](https://news.ycombinator.com/item?id=39967199) - [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
 * [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 05:41:15](https://news.ycombinator.com/item?id=39966534) - [Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
-* [2024-04-08, 03:14:17](https://news.ycombinator.com/item?id=39965907) - [High Definition CSS Color Guide](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide)
 * [2024-04-08, 00:55:08](https://news.ycombinator.com/item?id=39965267) - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
 * [2024-04-07, 23:59:07](https://news.ycombinator.com/item?id=39965006) - [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
 * [2024-04-07, 21:28:39](https://news.ycombinator.com/item?id=39964107) - [Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)](https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/)
@@ -27,7 +28,6 @@
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to found a company in Germany: 14 \"easy\" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
 * [2024-04-07, 05:04:14](https://news.ycombinator.com/item?id=39958302) - [The Linux Command Line](https://linuxcommand.org/)
 * [2024-04-06, 10:42:01](https://news.ycombinator.com/item?id=39951493) - [Transistor Takes Advantage of Quantum Interference](https://spectrum.ieee.org/quantum-interference-transistor)
-* [2024-04-06, 10:24:48](https://news.ycombinator.com/item?id=39951422) - [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
 * [2024-04-04, 10:48:55](https://news.ycombinator.com/item?id=39928687) - [How to send progress updates](https://www.spakhm.com/updates-howto)
 

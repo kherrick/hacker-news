@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 13:58:29](https://news.ycombinator.com/item?id=39969772) - [I'm always rejected at airport e-gates– so the Office suggested changing my name](https://www.telegraph.co.uk/travel/advice/problems-passport-office-e-gate/)
 * [2024-04-08, 13:54:52](https://news.ycombinator.com/item?id=39969741) - ['Time is running out': can a future of undetectable deepfakes be avoided?](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided)
 * [2024-04-08, 13:43:00](https://news.ycombinator.com/item?id=39969633) - [Paying Off People's Medical Debt Has Little Impact on Their Lives, Study Finds](https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html)
+* [2024-04-08, 13:40:28](https://news.ycombinator.com/item?id=39969615) - [HuggingFace text-generation-inference is reverting to Apache 2.0 License](https://github.com/huggingface/text-generation-inference/commit/ff42d33e9944832a19171967d2edd6c292bdb2d6)
 * [2024-04-08, 13:31:26](https://news.ycombinator.com/item?id=39969547) - [Using your phone to pay can mean you'll spend more](https://www.npr.org/2024/04/07/1241841908/apple-pay-phone-credit-spending-frictionless-payments)
 * [2024-04-08, 13:29:19](https://news.ycombinator.com/item?id=39969527) - [USPS jumps to first place as most imitated brand in phishing attacks](https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024)
 * [2024-04-08, 12:59:08](https://news.ycombinator.com/item?id=39969255) - [Big Tech passkey implementations are a trap](https://proton.me/blog/big-tech-passkey)
