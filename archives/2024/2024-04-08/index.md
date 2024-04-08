@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
 * [2024-04-08, 22:20:13](https://news.ycombinator.com/item?id=39974340) - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2024-04-08, 22:01:57](https://news.ycombinator.com/item?id=39974194) - [The Global Impact of Israeli \"Defense\" Technologies on Privacy and Human Rights](https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/)
 * [2024-04-08, 21:57:58](https://news.ycombinator.com/item?id=39974162) - [Nintendo's online servers for Wii U and 3DS shut down today](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u)
 * [2024-04-08, 20:49:16](https://news.ycombinator.com/item?id=39973555) - [France has a military drone radar everyone's desperate to get](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [karpathy/llm.c](https://github.com/karpathy/llm.c)
@@ -12,6 +13,7 @@
 * [2024-04-08, 20:25:42](https://news.ycombinator.com/item?id=39973341) - [Deeply scammy looking zsh plugin manager called \"zi\"](https://recurse.social/@dylnuge/112224580867240812)
 * [2024-04-08, 20:20:13](https://news.ycombinator.com/item?id=39973296) - [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
 * [2024-04-08, 20:07:15](https://news.ycombinator.com/item?id=39973189) - [Shorebird 1.0 – Update your Flutter apps instantly](https://shorebird.dev/blogs/1.0/)
+* [2024-04-08, 20:01:45](https://news.ycombinator.com/item?id=39973150) - [Show HN: Shorebird 1.0, Flutter Code Push](https://github.com/shorebirdtech/shorebird)
 * [2024-04-08, 19:42:21](https://news.ycombinator.com/item?id=39972990) - [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
 * [2024-04-08, 19:16:54](https://news.ycombinator.com/item?id=39972800) - [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
