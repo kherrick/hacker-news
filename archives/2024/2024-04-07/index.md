@@ -7,6 +7,7 @@
 * [2024-04-07, 23:30:50](https://news.ycombinator.com/item?id=39964850) - [Primes Can Be Predicted](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742238)
 * [2024-04-07, 22:40:50](https://news.ycombinator.com/item?id=39964590) - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
 * [2024-04-07, 22:23:38](https://news.ycombinator.com/item?id=39964489) - [Autonomous Weapons: The False Promise of Civilian Protection](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
+* [2024-04-07, 22:11:15](https://news.ycombinator.com/item?id=39964406) - [Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution](https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/)
 * [2024-04-07, 22:10:27](https://news.ycombinator.com/item?id=39964402) - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
 * [2024-04-07, 22:01:56](https://news.ycombinator.com/item?id=39964355) - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
