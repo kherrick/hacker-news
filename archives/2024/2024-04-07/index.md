@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 23:59:07](https://news.ycombinator.com/item?id=39965006) - [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
 * [2024-04-07, 23:30:50](https://news.ycombinator.com/item?id=39964850) - [Primes Can Be Predicted](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742238)
 * [2024-04-07, 22:40:50](https://news.ycombinator.com/item?id=39964590) - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
 * [2024-04-07, 22:23:38](https://news.ycombinator.com/item?id=39964489) - [Autonomous Weapons: The False Promise of Civilian Protection](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
