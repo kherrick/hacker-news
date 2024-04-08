@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-08, 15:04:12",
+      "https://news.ycombinator.com/item?id=39970501"
+    ],
+    [
+      "Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC",
+      "https://github.com/flipt-io/reverst"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 14:46:55",
       "https://news.ycombinator.com/item?id=39970299"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-04-08, 03:14:17",
-      "https://news.ycombinator.com/item?id=39965907"
-    ],
-    [
-      "High Definition CSS Color Guide",
-      "https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 00:55:08",
       "https://news.ycombinator.com/item?id=39965267"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-04-07, 08:55:03",
-      "https://news.ycombinator.com/item?id=39959380"
-    ],
-    [
-      "The lifecycle of a code AI completion",
-      "https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 08:51:20",
       "https://news.ycombinator.com/item?id=39959368"
     ],
     [
       "How to found a company in Germany: 14 \"easy\" steps and lots of pain",
       "https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 07:06:29",
+      "https://news.ycombinator.com/item?id=39958813"
+    ],
+    [
+      "A simple 3-body problem simulator",
+      "https://quxiaowei.github.io/3-body/"
     ]
   ],
   [
