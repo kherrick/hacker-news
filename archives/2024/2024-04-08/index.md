@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 18:37:41](https://news.ycombinator.com/item?id=39972514) - [Cloudflare Developer Week 2024 wrap-up](https://blog.cloudflare.com/developer-week-2024-wrap-up)
 * [2024-04-08, 17:56:04](https://news.ycombinator.com/item?id=39972152) - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
 * [2024-04-08, 17:48:24](https://news.ycombinator.com/item?id=39972086) - [ESLint v9.0.0 Released](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
 * [2024-04-08, 17:42:54](https://news.ycombinator.com/item?id=39972036) - [Show HN: Colab Notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
@@ -15,6 +16,7 @@
 * [2024-04-08, 17:01:49](https://news.ycombinator.com/item?id=39971651) - [Rotz: Cross platform dotfile manager written in Rust](https://volllly.github.io/rotz/)
 * [2024-04-08, 17:01:00](https://news.ycombinator.com/item?id=39971645) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39971645)
 * [2024-04-08, 16:42:29](https://news.ycombinator.com/item?id=39971454) - [GPT Chatting with Xfinity support getting discounts](https://v.redd.it/n2m7faixe2tc1)
+* [2024-04-08, 16:21:37](https://news.ycombinator.com/item?id=39971255) - [Ask HN: Why modern smartphone can't play music smoothly?](https://news.ycombinator.com/item?id=39971255)
 * [2024-04-08, 15:59:31](https://news.ycombinator.com/item?id=39971005) - [Cake shop worker remains dream job for many children starting school](https://www.japantimes.co.jp/news/2024/04/08/japan/society/japan-children-dream-jobs/)
 * [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 15:15:43](https://news.ycombinator.com/item?id=39970603) - [Poor Predictors: Job Interviews Are Useless and Unfair](https://www.psychologytoday.com/us/blog/insight-therapy/202008/poor-predictors-job-interviews-are-useless-and-unfair)
@@ -50,6 +52,7 @@
 * [2024-04-08, 10:22:39](https://news.ycombinator.com/item?id=39968205) - [Working from home isn't going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
 * [2024-04-08, 10:07:48](https://news.ycombinator.com/item?id=39968103) - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
 * [2024-04-08, 10:06:17](https://news.ycombinator.com/item?id=39968093) - [TSMC wins $6.6B US subsidy for Arizona chip production](https://www.reuters.com/technology/tsmc-wins-66-bln-us-subsidy-arizona-chip-production-2024-04-08/)
+* [2024-04-08, 09:07:37](https://news.ycombinator.com/item?id=39967709) - [Hello World](https://thecoder08.github.io/hello-world.html)
 * [2024-04-08, 09:07:18](https://news.ycombinator.com/item?id=39967707) - [TSMC Gets $11.6B in US Grants, Loans for Three Chip Fabs](https://www.bloomberg.com/news/articles/2024-04-08/tsmc-gets-11-6-billion-in-us-grants-loans-for-three-chip-fabs)
 * [2024-04-08, 08:28:13](https://news.ycombinator.com/item?id=39967474) - [Southwest Boeing 737-800 flight from Denver loses engine cover](https://www.cnn.com/2024/04/07/business/southwest-boeing-737-800-engine/index.html)
 * [2024-04-08, 07:40:40](https://news.ycombinator.com/item?id=39967199) - [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
