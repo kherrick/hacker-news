@@ -9,6 +9,7 @@
 * [2024-04-08, 10:07:48](https://news.ycombinator.com/item?id=39968103) - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
 * [2024-04-08, 09:07:18](https://news.ycombinator.com/item?id=39967707) - [TSMC Gets $11.6B in US Grants, Loans for Three Chip Fabs](https://www.bloomberg.com/news/articles/2024-04-08/tsmc-gets-11-6-billion-in-us-grants-loans-for-three-chip-fabs)
 * [2024-04-08, 08:28:13](https://news.ycombinator.com/item?id=39967474) - [Southwest Boeing 737-800 flight from Denver loses engine cover](https://www.cnn.com/2024/04/07/business/southwest-boeing-737-800-engine/index.html)
+* [2024-04-08, 07:40:40](https://news.ycombinator.com/item?id=39967199) - [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
 * [2024-04-08, 07:01:37](https://news.ycombinator.com/item?id=39966978) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
 * [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 06:48:56](https://news.ycombinator.com/item?id=39966909) - [What Neuralink Is Missing](https://www.theatlantic.com/technology/archive/2024/04/neuralink-bci-implant/677996/)
