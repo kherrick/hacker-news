@@ -76,6 +76,7 @@
 * [2024-04-07, 08:23:26](https://news.ycombinator.com/item?id=39959228) - [Sophia: Scalable Stochastic 2nd-Order Optimizer for Language Model Pre-Training](https://arxiv.org/abs/2305.14342)
 * [2024-04-07, 07:56:40](https://news.ycombinator.com/item?id=39959069) - [It's Not What the World Needs](https://thebaffler.com/odds-and-ends/its-not-what-the-world-needs-right-now-norman-wilson)
 * [2024-04-07, 07:12:45](https://news.ycombinator.com/item?id=39958836) - [KDL: A Cuddly Document Language](https://kdl.dev/)
+* [2024-04-07, 07:06:29](https://news.ycombinator.com/item?id=39958813) - [A simple 3-body problem simulator](https://quxiaowei.github.io/3-body/)
 * [2024-04-07, 06:42:54](https://news.ycombinator.com/item?id=39958701) - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 * [2024-04-07, 06:06:59](https://news.ycombinator.com/item?id=39958523) - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
 * [2024-04-07, 05:19:17](https://news.ycombinator.com/item?id=39958346) - [ESR's Autodafe: \"freeing your project from the clammy grip of autotools.\"](https://gitlab.com/esr/autodafe)
