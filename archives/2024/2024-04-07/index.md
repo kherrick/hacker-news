@@ -13,6 +13,7 @@
 * [2024-04-07, 22:01:56](https://news.ycombinator.com/item?id=39964355) - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
 * [2024-04-07, 21:49:22](https://news.ycombinator.com/item?id=39964265) - [ReAMP, a Winamp Remake in Swift](https://re-amp.ru/)
 * [2024-04-07, 21:30:07](https://news.ycombinator.com/item?id=39964117) - [Navy cancels ship briefings after damning internal report](https://www.politico.com/news/2024/04/07/navy-cancels-ship-briefings-internal-report-00150879)
+* [2024-04-07, 21:28:39](https://news.ycombinator.com/item?id=39964107) - [Wreck of Shackleton's 'Endurance' Discovered in Icy Antarctic Depths (2022)](https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/)
 * [2024-04-07, 21:26:04](https://news.ycombinator.com/item?id=39964084) - [AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-04-07, 20:54:23](https://news.ycombinator.com/item?id=39963824) - [Eclipse 2024](https://andywoodruff.com/posts/2023/eclipse-2024/)
