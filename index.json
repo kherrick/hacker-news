@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-08, 12:00:41",
+      "https://news.ycombinator.com/item?id=39968812"
+    ],
+    [
+      "Sieve (YC W22) Is Hiring ML engineers (small team, high revenue, AI infra)",
+      "https://sievedata.com/about/jobs"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 11:52:00",
+      "https://news.ycombinator.com/item?id=39968761"
+    ],
+    [
+      "Notepad++: Help us to take down the parasite website",
+      "https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 10:52:01",
       "https://news.ycombinator.com/item?id=39968384"
     ],
@@ -37,16 +57,6 @@
     [
       "Building a Managed Postgres Service in Rust",
       "https://tembo.io/blog/managed-postgres-rust"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 07:01:37",
-      "https://news.ycombinator.com/item?id=39966978"
-    ],
-    [
-      "Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria",
-      "https://bitmovin.com/careers/full-stack-engineer-7260509002"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-04-07, 16:42:04",
-      "https://news.ycombinator.com/item?id=39961910"
-    ],
-    [
-      "What John von Neumann did at Los Alamos (2020)",
-      "https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 15:06:42",
       "https://news.ycombinator.com/item?id=39961245"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-04-07, 07:12:45",
-      "https://news.ycombinator.com/item?id=39958836"
+      "2024-04-07, 05:04:14",
+      "https://news.ycombinator.com/item?id=39958302"
     ],
     [
-      "KDL: A Cuddly Document Language",
-      "https://kdl.dev/"
+      "The Linux Command Line",
+      "https://linuxcommand.org/"
     ]
   ],
   [
