@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-08, 18:37:41",
+      "https://news.ycombinator.com/item?id=39972514"
+    ],
+    [
+      "Cloudflare Developer Week 2024 wrap-up",
+      "https://blog.cloudflare.com/developer-week-2024-wrap-up"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 17:56:04",
       "https://news.ycombinator.com/item?id=39972152"
     ],
@@ -67,6 +77,16 @@
     [
       "GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers",
       "https://news.ycombinator.com/item?id=39971645"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 16:21:37",
+      "https://news.ycombinator.com/item?id=39971255"
+    ],
+    [
+      "Ask HN: Why modern smartphone can't play music smoothly?",
+      "https://news.ycombinator.com/item?id=39971255"
     ]
   ],
   [
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2024-04-08, 09:07:37",
+      "https://news.ycombinator.com/item?id=39967709"
+    ],
+    [
+      "Hello World",
+      "https://thecoder08.github.io/hello-world.html"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 07:40:40",
       "https://news.ycombinator.com/item?id=39967199"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2024-04-08, 00:55:08",
-      "https://news.ycombinator.com/item?id=39965267"
-    ],
-    [
-      "Phytomining – Extracting Minerals via Plants",
-      "https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 21:28:39",
-      "https://news.ycombinator.com/item?id=39964107"
-    ],
-    [
-      "Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)",
-      "https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 16:55:16",
       "https://news.ycombinator.com/item?id=39962023"
     ],
     [
       "PumpkinOS, a Re-Implementation of PalmOS",
       "https://github.com/migueletto/PumpkinOS"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 13:13:43",
-      "https://news.ycombinator.com/item?id=39960537"
-    ],
-    [
-      "Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests",
-      "https://github.com/stackframe-projects/pgmock"
     ]
   ],
   [
