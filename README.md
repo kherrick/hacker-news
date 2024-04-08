@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-08, 10:52:01](https://news.ycombinator.com/item?id=39968384) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
-* [2024-04-08, 10:22:39](https://news.ycombinator.com/item?id=39968205) - [Working from home isn't going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
 * [2024-04-08, 10:07:48](https://news.ycombinator.com/item?id=39968103) - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
 * [2024-04-08, 09:07:18](https://news.ycombinator.com/item?id=39967707) - [TSMC Gets $11.6B in US Grants, Loans for Three Chip Fabs](https://www.bloomberg.com/news/articles/2024-04-08/tsmc-gets-11-6-billion-in-us-grants-loans-for-three-chip-fabs)
 * [2024-04-08, 07:40:40](https://news.ycombinator.com/item?id=39967199) - [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
@@ -27,6 +26,7 @@
 * [2024-04-07, 07:12:45](https://news.ycombinator.com/item?id=39958836) - [KDL: A Cuddly Document Language](https://kdl.dev/)
 * [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
+* [2024-04-06, 10:24:48](https://news.ycombinator.com/item?id=39951422) - [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
 * [2024-04-06, 06:26:58](https://news.ycombinator.com/item?id=39950459) - [Retrospective on 10 Years of colour-science](https://www.colour-science.org/posts/retrospective-on-10-years-of-colour-science/)
 * [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
