@@ -7,6 +7,7 @@
 * [2024-04-08, 19:16:54](https://news.ycombinator.com/item?id=39972800) - [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
 * [2024-04-08, 19:09:53](https://news.ycombinator.com/item?id=39972749) - [Microsoft: Laptops with Snapdragon X Elite Will Be Faster Than M3 MacBook Air](https://www.macrumors.com/2024/04/08/microsoft-vs-m3-macbook-air/)
+* [2024-04-08, 18:49:47](https://news.ycombinator.com/item?id=39972603) - [The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-08, 18:37:41](https://news.ycombinator.com/item?id=39972514) - [Cloudflare Developer Week 2024 wrap-up](https://blog.cloudflare.com/developer-week-2024-wrap-up)
 * [2024-04-08, 17:56:04](https://news.ycombinator.com/item?id=39972152) - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
 * [2024-04-08, 17:48:24](https://news.ycombinator.com/item?id=39972086) - [ESLint v9.0.0 Released](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)

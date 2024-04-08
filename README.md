@@ -2,6 +2,7 @@
 
 * [2024-04-08, 19:16:54](https://news.ycombinator.com/item?id=39972800) - [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
+* [2024-04-08, 18:49:47](https://news.ycombinator.com/item?id=39972603) - [The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-08, 17:56:04](https://news.ycombinator.com/item?id=39972152) - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
 * [2024-04-08, 17:48:24](https://news.ycombinator.com/item?id=39972086) - [ESLint v9.0](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
 * [2024-04-08, 17:42:54](https://news.ycombinator.com/item?id=39972036) - [Colab notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
@@ -18,8 +19,6 @@
 * [2024-04-08, 13:20:36](https://news.ycombinator.com/item?id=39969448) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
 * [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
 * [2024-04-08, 12:26:08](https://news.ycombinator.com/item?id=39968973) - [Cultivating minds: The psychological consequences of rice versus wheat farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
-* [2024-04-08, 11:40:44](https://news.ycombinator.com/item?id=39968678) - [I tried to automate job applications as a software engineer (and failed)](https://github.com/ukraine/jobBanksCanada)
-* [2024-04-08, 10:52:01](https://news.ycombinator.com/item?id=39968384) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
 * [2024-04-08, 10:52:00](https://news.ycombinator.com/item?id=39968382) - [How engineers at Digital Equipment Corp. saved Ethernet](https://spectrum.ieee.org/how-dec-engineers-saved-ethernet)
 * [2024-04-08, 10:42:04](https://news.ycombinator.com/item?id=39968325) - [A brief history of keyboard encoding (2023)](https://kbd.news/A-brief-history-of-keyboard-encoding-2199.html)
 * [2024-04-08, 10:07:48](https://news.ycombinator.com/item?id=39968103) - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
@@ -28,6 +27,7 @@
 * [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [How much faster are the Gnome 46 terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 05:41:15](https://news.ycombinator.com/item?id=39966534) - [Show HN: Beyond text splitting – improved file parsing for LLMs](https://github.com/Filimoa/open-parse)
 * [2024-04-07, 09:56:48](https://news.ycombinator.com/item?id=39959686) - [Lightweight and fast AMQP (0-9-1) server](https://github.com/cloudamqp/lavinmq)
+* [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
 * [2024-04-06, 11:28:40](https://news.ycombinator.com/item?id=39951699) - [Pentaborane(9)](https://en.wikipedia.org/wiki/Pentaborane(9))
 * [2024-04-06, 10:42:01](https://news.ycombinator.com/item?id=39951493) - [Transistor takes advantage of quantum interference](https://spectrum.ieee.org/quantum-interference-transistor)
 
