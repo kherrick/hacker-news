@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-07, 22:40:50",
-      "https://news.ycombinator.com/item?id=39964590"
+      "2024-04-08, 01:30:01",
+      "https://news.ycombinator.com/item?id=39965446"
     ],
     [
-      "Groq CEO: 'We No Longer Sell Hardware'",
-      "https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/"
+      "Autism and ADHD are linked to disturbed gut flora early in life",
+      "https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 00:52:21",
+      "https://news.ycombinator.com/item?id=39965250"
+    ],
+    [
+      "New theory on Satoshi Nakamoto",
+      "https://old.reddit.com/r/CryptoCurrency/comments/1bxqnpq/new_theory_on_satoshi_nakamoto/"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Autonomous Weapons: The False Promise of Civilian Protection (2022)",
       "https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 22:11:15",
-      "https://news.ycombinator.com/item?id=39964406"
-    ],
-    [
-      "Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution",
-      "https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-04-07, 21:30:07",
+      "https://news.ycombinator.com/item?id=39964117"
+    ],
+    [
+      "Navy cancels ship briefings after damning internal report",
+      "https://www.politico.com/news/2024/04/07/navy-cancels-ship-briefings-internal-report-00150879"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 21:02:00",
       "https://news.ycombinator.com/item?id=39963891"
     ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2024-04-07, 20:40:08",
-      "https://news.ycombinator.com/item?id=39963694"
+      "2024-04-07, 20:34:05",
+      "https://news.ycombinator.com/item?id=39963650"
     ],
     [
-      "Landfills Leak More Planet-Baking Methane Than We Thought",
-      "https://grist.org/science/us-landfills-emit-far-more-methane-than-previously-known/"
+      "The French aristocrat who understood evolution 100 years before Darwin",
+      "https://www.theguardian.com/science/2024/apr/07/the-french-aristocrat-who-understood-evolution-100-years-before-darwin-and-even-worried-about-climate-change"
     ]
   ],
   [
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2024-04-07, 10:36:19",
-      "https://news.ycombinator.com/item?id=39959846"
+      "2024-04-07, 09:23:09",
+      "https://news.ycombinator.com/item?id=39959543"
     ],
     [
-      "US braces for cicadas by the trillion as two broods of periodic insects coincide",
-      "https://www.theguardian.com/environment/2024/apr/07/cicada-geddon-brood-season-midwest-eastern"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 10:23:51",
-      "https://news.ycombinator.com/item?id=39959790"
-    ],
-    [
-      "SentenceTransformers: Python framework for sentence, text and image embeddings",
-      "https://www.sbert.net/index.html"
+      "Rendering string diagrams recursively [pdf]",
+      "https://arxiv.org/abs/2404.02679"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-04-06, 06:26:58",
+      "https://news.ycombinator.com/item?id=39950459"
+    ],
+    [
+      "Retrospective on 10 Years of colour-science",
+      "https://www.colour-science.org/posts/retrospective-on-10-years-of-colour-science/"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 20:49:14",
       "https://news.ycombinator.com/item?id=39947045"
     ],
     [
       "Clojure's machine learning ecosystem",
       "https://codewithkira.com/2024-04-04-state-of-clojure-ml.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 20:23:06",
-      "https://news.ycombinator.com/item?id=39946763"
-    ],
-    [
-      "Opt-Models: Intro to Optimization Programming Using LEGOs",
-      "https://opt-models.org/"
     ]
   ]
 ]
