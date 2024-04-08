@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-04-08, 07:01:37",
+      "https://news.ycombinator.com/item?id=39966978"
+    ],
+    [
+      "Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria",
+      "https://bitmovin.com/careers/full-stack-engineer-7260509002"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 06:17:10",
       "https://news.ycombinator.com/item?id=39966734"
     ],
     [
       "X's AI Bot Is Reporting Joke Posts as Actual News",
       "https://lifehacker.com/tech/grok-is-making-up-fake-news-on-x"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 05:41:15",
+      "https://news.ycombinator.com/item?id=39966534"
+    ],
+    [
+      "Show HN: Beyond text splitting – improved file parsing for LLM's",
+      "https://github.com/Filimoa/open-parse"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "High Definition CSS Color Guide",
       "https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 01:30:01",
+      "https://news.ycombinator.com/item?id=39965446"
+    ],
+    [
+      "Infant microbes and metabolites point to childhood neurodevelopmental disorders",
+      "https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Diffoscope – In-depth comparison of files, archives, and directories",
       "https://diffoscope.org/"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 17:00:40",
-      "https://news.ycombinator.com/item?id=39962071"
-    ],
-    [
-      "Greptile (YC W24) Is Hiring a Founding Engineer",
-      "https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "How to found a company in Germany: 14 \"easy\" steps and lots of pain",
       "https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 21:59:31",
-      "https://news.ycombinator.com/item?id=39956008"
-    ],
-    [
-      "WinBtrfs – an open-source btrfs driver for Windows",
-      "https://github.com/maharmstone/btrfs"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 18:37:36",
-      "https://news.ycombinator.com/item?id=39954422"
-    ],
-    [
-      "Faces.js, a JavaScript library for generating vector-based cartoon faces",
-      "https://zengm.com/facesjs/"
     ]
   ],
   [
