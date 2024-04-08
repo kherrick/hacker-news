@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=39972086"
     ],
     [
-      "ESLint v9.0.0 Released",
+      "ESLint v9.0",
       "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
     ]
   ],
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-04-08, 16:21:37",
-      "https://news.ycombinator.com/item?id=39971255"
-    ],
-    [
-      "Ask HN: Why modern smartphone can't play music smoothly?",
-      "https://news.ycombinator.com/item?id=39971255"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 15:48:48",
       "https://news.ycombinator.com/item?id=39970915"
     ],
@@ -115,8 +105,18 @@
       "https://news.ycombinator.com/item?id=39969929"
     ],
     [
-      "It's Dante's Hell–We're Just Living in It",
+      "It's Dante's hell – we're just living in it",
       "https://www.neh.gov/article/its-dantes-hell-were-just-living-it"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 13:53:39",
+      "https://news.ycombinator.com/item?id=39969728"
+    ],
+    [
+      "Hacker News (HN) – Part 1: analysis",
+      "https://blog.osm-ai.net/2024/04/01/hn-part-1.html"
     ]
   ],
   [
@@ -125,8 +125,18 @@
       "https://news.ycombinator.com/item?id=39969563"
     ],
     [
-      "A secret climate experiment in Alameda",
+      "Geoengineering test launched in Alameda",
       "https://www.politico.com/newsletters/california-climate/2024/04/04/a-secret-climate-experiment-in-alameda-00150705"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 13:20:36",
+      "https://news.ycombinator.com/item?id=39969448"
+    ],
+    [
+      "Major data center power failure (again): Cloudflare Code Orange tested",
+      "https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested"
     ]
   ],
   [
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2024-04-08, 12:34:21",
-      "https://news.ycombinator.com/item?id=39969042"
-    ],
-    [
-      "A cheeky intern nearly turned MS-DOS into NSFW-DOS",
-      "https://www.theregister.com/2024/04/08/ms_dos_easter_egg/"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 12:26:08",
       "https://news.ycombinator.com/item?id=39968973"
     ],
     [
       "Cultivating minds: The psychological consequences of rice versus wheat farming",
       "https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 12:11:48",
-      "https://news.ycombinator.com/item?id=39968887"
-    ],
-    [
-      "Build Systems à La Carte: Theory and Practice [pdf]",
-      "https://www.microsoft.com/en-us/research/uploads/prod/2020/04/build-systems-jfp.pdf"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=39968382"
     ],
     [
-      "How Engineers at Digital Equipment Corp. Saved Ethernet",
+      "How engineers at Digital Equipment Corp. saved Ethernet",
       "https://spectrum.ieee.org/how-dec-engineers-saved-ethernet"
     ]
   ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=39966960"
     ],
     [
-      "MQL – Client and Server to query your DB in natural language",
+      "MQL – Client and server to query your db in natural language",
       "https://github.com/shurutech/mql"
     ]
   ],
@@ -255,18 +245,28 @@
       "https://news.ycombinator.com/item?id=39966534"
     ],
     [
-      "Show HN: Beyond text splitting – improved file parsing for LLM's",
+      "Show HN: Beyond text splitting – improved file parsing for LLMs",
       "https://github.com/Filimoa/open-parse"
     ]
   ],
   [
     [
-      "2024-04-07, 05:04:14",
-      "https://news.ycombinator.com/item?id=39958302"
+      "2024-04-07, 23:59:07",
+      "https://news.ycombinator.com/item?id=39965006"
     ],
     [
-      "The Linux Command Line",
-      "https://linuxcommand.org/"
+      "When a black hole and a neutron star merge",
+      "https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 09:56:48",
+      "https://news.ycombinator.com/item?id=39959686"
+    ],
+    [
+      "Lightweight and fast AMQP (0-9-1) server",
+      "https://github.com/cloudamqp/lavinmq"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39951493"
     ],
     [
-      "Transistor Takes Advantage of Quantum Interference",
+      "Transistor takes advantage of quantum interference",
       "https://spectrum.ieee.org/quantum-interference-transistor"
     ]
   ],
