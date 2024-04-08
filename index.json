@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-08, 13:43:00",
-      "https://news.ycombinator.com/item?id=39969633"
-    ],
-    [
-      "Paying Off People's Medical Debt Has Little Impact on Their Lives, Study Finds",
-      "https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 13:29:19",
       "https://news.ycombinator.com/item?id=39969527"
     ],
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2024-04-08, 12:33:15",
-      "https://news.ycombinator.com/item?id=39969026"
-    ],
-    [
-      "UK govt office admits ability to negotiate billions curbed by vendor lock-in",
-      "https://www.theregister.com/2024/04/04/uk_cddo_admits_cloud_spending_lock_issues_exclusive/"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 12:26:08",
       "https://news.ycombinator.com/item?id=39968973"
     ],
@@ -71,12 +51,32 @@
   ],
   [
     [
+      "2024-04-08, 12:11:48",
+      "https://news.ycombinator.com/item?id=39968887"
+    ],
+    [
+      "Build Systems à La Carte: Theory and Practice [pdf]",
+      "https://www.microsoft.com/en-us/research/uploads/prod/2020/04/build-systems-jfp.pdf"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 12:00:41",
       "https://news.ycombinator.com/item?id=39968812"
     ],
     [
       "Sieve (YC W22) Is Hiring ML engineers (small team, high revenue, AI infra)",
       "https://sievedata.com/about/jobs"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 11:33:25",
+      "https://news.ycombinator.com/item?id=39968637"
+    ],
+    [
+      "What Researchers Discovered When They Sent 80k Fake Résumés to U.S. Jobs",
+      "https://www.nytimes.com/2024/04/08/upshot/employment-discrimination-fake-resumes.html"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-04-08, 10:37:11",
-      "https://news.ycombinator.com/item?id=39968292"
-    ],
-    [
-      "Studying Large Language Model Generalization with Influence Functions",
-      "https://arxiv.org/abs/2308.03296"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 10:07:48",
       "https://news.ycombinator.com/item?id=39968103"
     ],
@@ -127,6 +117,16 @@
     [
       "Building a Managed Postgres Service in Rust",
       "https://tembo.io/blog/managed-postgres-rust"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 06:58:13",
+      "https://news.ycombinator.com/item?id=39966960"
+    ],
+    [
+      "MQL – Client and Server to query your DB in natural language",
+      "https://github.com/shurutech/mql"
     ]
   ],
   [
