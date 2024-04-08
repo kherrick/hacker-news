@@ -75,6 +75,7 @@
 * [2024-04-06, 11:02:04](https://news.ycombinator.com/item?id=39951587) - [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
 * [2024-04-06, 10:59:01](https://news.ycombinator.com/item?id=39951571) - [An Open Source Tool for Multimodal Fact Verification](https://github.com/Libr-AI/OpenFactVerification)
 * [2024-04-06, 10:56:31](https://news.ycombinator.com/item?id=39951549) - [Writing a Unix-Like OS in Rust](https://vmm.dev/en/rust/osinrust.md)
+* [2024-04-06, 10:42:01](https://news.ycombinator.com/item?id=39951493) - [Transistor Takes Advantage of Quantum Interference](https://spectrum.ieee.org/quantum-interference-transistor)
 * [2024-04-06, 10:41:29](https://news.ycombinator.com/item?id=39951491) - [Microsoft unbundles Office and Teams globally following years-long criticism](https://techcrunch.com/2024/04/01/microsoft-to-unbundle-office-and-teams-globally-following-years-long-criticism/)
 * [2024-04-06, 10:24:48](https://news.ycombinator.com/item?id=39951422) - [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
 * [2024-04-06, 09:51:06](https://news.ycombinator.com/item?id=39951275) - [Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)

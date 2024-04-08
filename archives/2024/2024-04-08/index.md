@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 13:54:52](https://news.ycombinator.com/item?id=39969741) - ['Time is running out': can a future of undetectable deepfakes be avoided?](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided)
 * [2024-04-08, 13:43:00](https://news.ycombinator.com/item?id=39969633) - [Paying Off People's Medical Debt Has Little Impact on Their Lives, Study Finds](https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html)
 * [2024-04-08, 13:31:26](https://news.ycombinator.com/item?id=39969547) - [Using your phone to pay can mean you'll spend more](https://www.npr.org/2024/04/07/1241841908/apple-pay-phone-credit-spending-frictionless-payments)
 * [2024-04-08, 13:29:19](https://news.ycombinator.com/item?id=39969527) - [USPS jumps to first place as most imitated brand in phishing attacks](https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024)
 * [2024-04-08, 12:59:08](https://news.ycombinator.com/item?id=39969255) - [Big Tech passkey implementations are a trap](https://proton.me/blog/big-tech-passkey)
+* [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
 * [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
 * [2024-04-08, 12:33:26](https://news.ycombinator.com/item?id=39969028) - [Paddy Cosgrave Returns as CEO of Websummit](https://twitter.com/paddycosgrave/status/1777230155150180546)
 * [2024-04-08, 12:33:15](https://news.ycombinator.com/item?id=39969026) - [UK govt office admits ability to negotiate billions curbed by vendor lock-in](https://www.theregister.com/2024/04/04/uk_cddo_admits_cloud_spending_lock_issues_exclusive/)
