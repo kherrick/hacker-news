@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 13:31:26](https://news.ycombinator.com/item?id=39969547) - [Using your phone to pay can mean you'll spend more](https://www.npr.org/2024/04/07/1241841908/apple-pay-phone-credit-spending-frictionless-payments)
 * [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
-* [2024-04-08, 12:33:26](https://news.ycombinator.com/item?id=39969028) - [Paddy Cosgrave Returns as CEO of Websummit](https://twitter.com/paddycosgrave/status/1777230155150180546)
 * [2024-04-08, 12:33:15](https://news.ycombinator.com/item?id=39969026) - [UK govt office admits ability to negotiate billions curbed by vendor lock-in](https://www.theregister.com/2024/04/04/uk_cddo_admits_cloud_spending_lock_issues_exclusive/)
-* [2024-04-08, 12:26:08](https://news.ycombinator.com/item?id=39968973) - [Cultivating Minds: The Psychological Consequences of Rice versus Wheat Farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
 * [2024-04-08, 12:00:41](https://news.ycombinator.com/item?id=39968812) - [Sieve (YC W22) Is Hiring ML engineers (small team, high revenue, AI infra)](https://sievedata.com/about/jobs)
+* [2024-04-08, 11:47:42](https://news.ycombinator.com/item?id=39968721) - [Why Top Athletes Don't Look Like Fitness Influencers (Usually)](https://www.gq.com/story/top-athletes-dont-look-like-fitness-influencers)
 * [2024-04-08, 10:52:01](https://news.ycombinator.com/item?id=39968384) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
 * [2024-04-08, 10:07:48](https://news.ycombinator.com/item?id=39968103) - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
 * [2024-04-08, 07:40:40](https://news.ycombinator.com/item?id=39967199) - [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
