@@ -34,6 +34,7 @@
 * [2024-04-08, 13:33:56](https://news.ycombinator.com/item?id=39969563) - [A secret climate experiment in Alameda](https://www.politico.com/newsletters/california-climate/2024/04/04/a-secret-climate-experiment-in-alameda-00150705)
 * [2024-04-08, 13:31:26](https://news.ycombinator.com/item?id=39969547) - [Using your phone to pay can mean you'll spend more](https://www.npr.org/2024/04/07/1241841908/apple-pay-phone-credit-spending-frictionless-payments)
 * [2024-04-08, 13:29:19](https://news.ycombinator.com/item?id=39969527) - [USPS jumps to first place as most imitated brand in phishing attacks](https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024)
+* [2024-04-08, 13:20:36](https://news.ycombinator.com/item?id=39969448) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
 * [2024-04-08, 12:59:08](https://news.ycombinator.com/item?id=39969255) - [Big Tech passkey implementations are a trap](https://proton.me/blog/big-tech-passkey)
 * [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
 * [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)

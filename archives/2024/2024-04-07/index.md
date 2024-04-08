@@ -69,6 +69,7 @@
 * [2024-04-07, 10:36:19](https://news.ycombinator.com/item?id=39959846) - [US braces for cicadas by the trillion as two broods of periodic insects coincide](https://www.theguardian.com/environment/2024/apr/07/cicada-geddon-brood-season-midwest-eastern)
 * [2024-04-07, 10:23:51](https://news.ycombinator.com/item?id=39959790) - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 * [2024-04-07, 10:01:32](https://news.ycombinator.com/item?id=39959704) - [Helixx: $6 a day EV subscription service could disrupt the auto industry](https://newatlas.com/automotive/helixx-subscription-ev/)
+* [2024-04-07, 09:56:48](https://news.ycombinator.com/item?id=39959686) - [Lightweight and fast AMQP (0-9-1) server](https://github.com/cloudamqp/lavinmq)
 * [2024-04-07, 09:32:17](https://news.ycombinator.com/item?id=39959589) - [LLMs can't simulate a Turing machine reliably](https://twitter.com/VictorTaelin/status/1776271375814054257)
 * [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
 * [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
