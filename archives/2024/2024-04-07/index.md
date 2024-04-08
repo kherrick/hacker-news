@@ -60,6 +60,7 @@
 * [2024-04-07, 12:19:45](https://news.ycombinator.com/item?id=39960251) - [NASA's LRO Finds Photo Op as It Zips Past SKorea's Danuri Moon Orbiter](https://www.nasa.gov/missions/lro/nasas-lro-finds-photo-op-as-it-zips-past-skoreas-danuri-moon-orbiter/)
 * [2024-04-07, 12:19:29](https://news.ycombinator.com/item?id=39960248) - [Comparing Desoldering Tools](https://hackaday.com/2024/04/07/comparing-desoldering-tools/)
 * [2024-04-07, 12:08:22](https://news.ycombinator.com/item?id=39960202) - [Fire alarm audio detection, using FFTs and Go](https://github.com/pldubouilh/alarm)
+* [2024-04-07, 12:04:49](https://news.ycombinator.com/item?id=39960190) - [Minibone: practical end-to-end encryption for web apps](https://github.com/backbone-hq/minibone)
 * [2024-04-07, 12:00:22](https://news.ycombinator.com/item?id=39960171) - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 * [2024-04-07, 11:46:55](https://news.ycombinator.com/item?id=39960125) - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
