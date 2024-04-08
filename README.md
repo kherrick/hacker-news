@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-08, 20:29:11](https://news.ycombinator.com/item?id=39973377) - [Scaling will never get us to AGI](https://garymarcus.substack.com/p/breaking-news-scaling-will-never)
+* [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [karpathy/llm.c](https://github.com/karpathy/llm.c)
 * [2024-04-08, 20:25:42](https://news.ycombinator.com/item?id=39973341) - [Deeply scammy looking zsh plugin manager called \"zi\"](https://recurse.social/@dylnuge/112224580867240812)
 * [2024-04-08, 20:07:15](https://news.ycombinator.com/item?id=39973189) - [Shorebird 1.0 – Update your Flutter apps instantly](https://shorebird.dev/blogs/1.0/)
 * [2024-04-08, 19:42:21](https://news.ycombinator.com/item?id=39972990) - [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
