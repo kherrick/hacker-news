@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-08, 05:01:00](https://news.ycombinator.com/item?id=39966345) - [Spotify launches personalized AI playlists that you can build using prompts](https://techcrunch.com/2024/04/07/spotify-launches-personalized-ai-playlists-you-can-build-using-prompts/)
-* [2024-04-08, 04:37:14](https://news.ycombinator.com/item?id=39966247) - [10k miles and 352 days later, a UK man completes run the length of Africa](https://apnews.com/article/russ-cook-africa-10000-mile-run-dd53f51d3cb9a90fc431e007e58c2af0)
 * [2024-04-08, 04:19:18](https://news.ycombinator.com/item?id=39966179) - [Flame retardants found in consumer products linked to cancer](https://www.cnn.com/2024/04/01/health/flame-retardant-pbdes-cancer-wellness/index.html)
 * [2024-04-08, 04:15:39](https://news.ycombinator.com/item?id=39966164) - [Framework laptop DongleHider Expansion Card for hiding up to three dongles](https://www.tomshardware.com/laptops/donglehider-is-a-cunning-new-framework-laptop-expansion-card-for-hiding-up-to-three-dongles)
 * [2024-04-08, 04:05:15](https://news.ycombinator.com/item?id=39966114) - [Show HN: AutoMQ - A Cost-Effective Kafka Distro That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
@@ -19,6 +18,7 @@
 * [2024-04-07, 16:55:16](https://news.ycombinator.com/item?id=39962023) - [PumpkinOS, a Re-Implementation of PalmOS](https://github.com/migueletto/PumpkinOS)
 * [2024-04-07, 16:50:30](https://news.ycombinator.com/item?id=39961994) - [Rpgp: Pure Rust implementation of OpenPGP](https://github.com/rpgp/rpgp)
 * [2024-04-07, 16:42:04](https://news.ycombinator.com/item?id=39961910) - [What John von Neumann did at Los Alamos (2020)](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
+* [2024-04-07, 15:37:14](https://news.ycombinator.com/item?id=39961466) - [Show HN: Suno AI Download – Download Suno AI Music Song MP3](https://sunoaidownload.com)
 * [2024-04-07, 15:06:42](https://news.ycombinator.com/item?id=39961245) - [Greaseweazle](https://retrocmp.de/hardware/greaseweazle/greaseweazle.htm)
 * [2024-04-07, 13:42:05](https://news.ycombinator.com/item?id=39960717) - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
 * [2024-04-07, 13:32:27](https://news.ycombinator.com/item?id=39960645) - [Blog posts, sorted by sleep](https://breckyunits.com/sleepWriting.html)

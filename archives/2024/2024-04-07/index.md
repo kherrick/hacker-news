@@ -44,6 +44,7 @@
 * [2024-04-07, 16:37:12](https://news.ycombinator.com/item?id=39961868) - [AI assists clinicians in responding to patient messages at Stanford Medicine](https://med.stanford.edu/news/all-news/2024/03/ai-patient-messages.html)
 * [2024-04-07, 16:12:01](https://news.ycombinator.com/item?id=39961700) - [Passage Du Gois](https://en.wikipedia.org/wiki/Passage_du_Gois)
 * [2024-04-07, 15:40:34](https://news.ycombinator.com/item?id=39961488) - [Linwei Ding was a Google software engineer. Also an alledged prolific thief](https://www.msn.com/en-us/news/technology/linwei-ding-was-a-google-software-engineer-he-was-also-a-prolific-thief-say-federal-prosecutors/ar-BB1lasmy)
+* [2024-04-07, 15:37:14](https://news.ycombinator.com/item?id=39961466) - [Show HN: Suno AI Download – Download Suno AI Music Song MP3](https://sunoaidownload.com)
 * [2024-04-07, 15:33:13](https://news.ycombinator.com/item?id=39961435) - [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
 * [2024-04-07, 15:30:25](https://news.ycombinator.com/item?id=39961411) - [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
 * [2024-04-07, 15:28:28](https://news.ycombinator.com/item?id=39961396) - [Exploring the Power of CSS Container Queries Pros, Cons, and Beyond](https://desainova.com/posts/exploring-the-power-of-css-container-queries-pros-cons-and-beyond/)
