@@ -10,7 +10,6 @@
 * [2024-04-08, 01:30:01](https://news.ycombinator.com/item?id=39965446) - [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
 * [2024-04-08, 00:55:08](https://news.ycombinator.com/item?id=39965267) - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
 * [2024-04-07, 23:59:07](https://news.ycombinator.com/item?id=39965006) - [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
-* [2024-04-07, 22:40:50](https://news.ycombinator.com/item?id=39964590) - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
 * [2024-04-07, 21:28:39](https://news.ycombinator.com/item?id=39964107) - [Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)](https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/)
 * [2024-04-07, 17:54:31](https://news.ycombinator.com/item?id=39962415) - [Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync](https://www.flashnotesapp.com)
 * [2024-04-07, 17:36:06](https://news.ycombinator.com/item?id=39962303) - [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
@@ -29,6 +28,7 @@
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
 * [2024-04-06, 06:26:58](https://news.ycombinator.com/item?id=39950459) - [Retrospective on 10 Years of colour-science](https://www.colour-science.org/posts/retrospective-on-10-years-of-colour-science/)
+* [2024-04-04, 10:01:07](https://news.ycombinator.com/item?id=39928411) - [Trivial, but not trivially default constructible](https://quuxplusone.github.io/blog/2024/04/02/trivial-but-not-default-constructible/)
 * [2024-04-04, 07:57:47](https://news.ycombinator.com/item?id=39927682) - [LSST Camera: largest camera for astronomy](https://www6.slac.stanford.edu/lsst)
 
 ## [Archives](archives/index.md)
