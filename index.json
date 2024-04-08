@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-04-08, 15:15:43",
-      "https://news.ycombinator.com/item?id=39970603"
-    ],
-    [
-      "Poor Predictors: Job Interviews Are Useless and Unfair",
-      "https://www.psychologytoday.com/us/blog/insight-therapy/202008/poor-predictors-job-interviews-are-useless-and-unfair"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 15:04:12",
       "https://news.ycombinator.com/item?id=39970501"
     ],
@@ -77,26 +67,6 @@
     [
       "Exploring Batch Caching of Trees",
       "https://blog.julik.nl/2024/04/batch-caching-of-trees"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 14:01:42",
-      "https://news.ycombinator.com/item?id=39969802"
-    ],
-    [
-      "Building an AI Coach to Help Tame My Monkey Mind",
-      "https://eugeneyan.com/writing/ai-coach/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 13:53:39",
-      "https://news.ycombinator.com/item?id=39969728"
-    ],
-    [
-      "Hacker News (HN) – Part 1: analysis",
-      "https://blog.osm-ai.net/2024/04/01/hn-part-1.html"
     ]
   ],
   [
@@ -231,12 +201,32 @@
   ],
   [
     [
+      "2024-04-07, 21:28:39",
+      "https://news.ycombinator.com/item?id=39964107"
+    ],
+    [
+      "Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)",
+      "https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 16:55:16",
       "https://news.ycombinator.com/item?id=39962023"
     ],
     [
       "PumpkinOS, a Re-Implementation of PalmOS",
       "https://github.com/migueletto/PumpkinOS"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 13:42:05",
+      "https://news.ycombinator.com/item?id=39960717"
+    ],
+    [
+      "Mixture-of-Depths: Dynamically allocating compute in transformers",
+      "https://arxiv.org/abs/2404.02258"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Transistor Takes Advantage of Quantum Interference",
       "https://spectrum.ieee.org/quantum-interference-transistor"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 08:46:52",
+      "https://news.ycombinator.com/item?id=39950989"
+    ],
+    [
+      "Programming with DOS Debugger (2003)",
+      "https://susam.net/programming-with-dos-debugger.html"
     ]
   ],
   [
