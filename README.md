@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 08:28:13](https://news.ycombinator.com/item?id=39967474) - [Southwest Boeing 737-800 flight from Denver loses engine cover](https://www.cnn.com/2024/04/07/business/southwest-boeing-737-800-engine/index.html)
 * [2024-04-08, 07:01:37](https://news.ycombinator.com/item?id=39966978) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
 * [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 06:19:51](https://news.ycombinator.com/item?id=39966743) - [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
@@ -25,7 +26,6 @@
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to found a company in Germany: 14 \"easy\" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
-* [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
 * [2024-04-06, 06:26:58](https://news.ycombinator.com/item?id=39950459) - [Retrospective on 10 Years of colour-science](https://www.colour-science.org/posts/retrospective-on-10-years-of-colour-science/)

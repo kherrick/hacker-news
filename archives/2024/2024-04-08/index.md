@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 08:28:13](https://news.ycombinator.com/item?id=39967474) - [Southwest Boeing 737-800 flight from Denver loses engine cover](https://www.cnn.com/2024/04/07/business/southwest-boeing-737-800-engine/index.html)
 * [2024-04-08, 07:01:37](https://news.ycombinator.com/item?id=39966978) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
 * [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 06:48:56](https://news.ycombinator.com/item?id=39966909) - [What Neuralink Is Missing](https://www.theatlantic.com/technology/archive/2024/04/neuralink-bci-implant/677996/)
