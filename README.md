@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-08, 07:01:37](https://news.ycombinator.com/item?id=39966978) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
-* [2024-04-08, 06:17:10](https://news.ycombinator.com/item?id=39966734) - [X's AI Bot Is Reporting Joke Posts as Actual News](https://lifehacker.com/tech/grok-is-making-up-fake-news-on-x)
+* [2024-04-08, 06:48:56](https://news.ycombinator.com/item?id=39966909) - [What Neuralink Is Missing](https://www.theatlantic.com/technology/archive/2024/04/neuralink-bci-implant/677996/)
+* [2024-04-08, 06:19:51](https://news.ycombinator.com/item?id=39966743) - [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
 * [2024-04-08, 05:41:15](https://news.ycombinator.com/item?id=39966534) - [Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
 * [2024-04-08, 04:13:23](https://news.ycombinator.com/item?id=39966152) - [Awesome-Code-AI – A list of of AI coding tools (assistants, completions, etc.)](https://github.com/sourcegraph/awesome-code-ai)
 * [2024-04-08, 04:05:15](https://news.ycombinator.com/item?id=39966114) - [Show HN: AutoMQ - A Cost-Effective Kafka Distro That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
@@ -11,7 +12,6 @@
 * [2024-04-07, 23:59:07](https://news.ycombinator.com/item?id=39965006) - [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
 * [2024-04-07, 22:40:50](https://news.ycombinator.com/item?id=39964590) - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
 * [2024-04-07, 21:28:39](https://news.ycombinator.com/item?id=39964107) - [Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)](https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/)
-* [2024-04-07, 20:34:05](https://news.ycombinator.com/item?id=39963650) - [The French aristocrat who understood evolution 100 years before Darwin](https://www.theguardian.com/science/2024/apr/07/the-french-aristocrat-who-understood-evolution-100-years-before-darwin-and-even-worried-about-climate-change)
 * [2024-04-07, 17:54:31](https://news.ycombinator.com/item?id=39962415) - [Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync](https://www.flashnotesapp.com)
 * [2024-04-07, 17:36:06](https://news.ycombinator.com/item?id=39962303) - [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [2024-04-07, 16:55:16](https://news.ycombinator.com/item?id=39962023) - [PumpkinOS, a Re-Implementation of PalmOS](https://github.com/migueletto/PumpkinOS)

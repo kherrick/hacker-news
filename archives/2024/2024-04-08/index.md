@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
 * [2024-04-08, 07:01:37](https://news.ycombinator.com/item?id=39966978) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
+* [2024-04-08, 06:48:56](https://news.ycombinator.com/item?id=39966909) - [What Neuralink Is Missing](https://www.theatlantic.com/technology/archive/2024/04/neuralink-bci-implant/677996/)
+* [2024-04-08, 06:19:51](https://news.ycombinator.com/item?id=39966743) - [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
 * [2024-04-08, 06:17:10](https://news.ycombinator.com/item?id=39966734) - [X's AI Bot Is Reporting Joke Posts as Actual News](https://lifehacker.com/tech/grok-is-making-up-fake-news-on-x)
 * [2024-04-08, 05:56:00](https://news.ycombinator.com/item?id=39966618) - [Canadians are asking their government to federate](https://www.theverge.com/2024/4/6/24122765/canadians-are-asking-their-government-to-federate)
 * [2024-04-08, 05:41:15](https://news.ycombinator.com/item?id=39966534) - [Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
