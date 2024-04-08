@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-04-08, 13:58:29",
-      "https://news.ycombinator.com/item?id=39969772"
+      "2024-04-08, 14:46:55",
+      "https://news.ycombinator.com/item?id=39970299"
     ],
     [
-      "I'm always rejected at airport e-gates– so the Office suggested changing my name",
-      "https://www.telegraph.co.uk/travel/advice/problems-passport-office-e-gate/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 13:54:52",
-      "https://news.ycombinator.com/item?id=39969741"
-    ],
-    [
-      "'Time is running out': can a future of undetectable deepfakes be avoided?",
-      "https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided"
+      "Exploring Batch Caching of Trees",
+      "https://blog.julik.nl/2024/04/batch-caching-of-trees"
     ]
   ],
   [
@@ -27,16 +17,6 @@
     [
       "Paying Off People's Medical Debt Has Little Impact on Their Lives, Study Finds",
       "https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 13:40:28",
-      "https://news.ycombinator.com/item?id=39969615"
-    ],
-    [
-      "HuggingFace text-generation-inference is reverting to Apache 2.0 License",
-      "https://github.com/huggingface/text-generation-inference/commit/ff42d33e9944832a19171967d2edd6c292bdb2d6"
     ]
   ],
   [
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2024-04-08, 10:37:11",
+      "https://news.ycombinator.com/item?id=39968292"
+    ],
+    [
+      "Studying Large Language Model Generalization with Influence Functions",
+      "https://arxiv.org/abs/2308.03296"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 10:07:48",
       "https://news.ycombinator.com/item?id=39968103"
     ],
@@ -157,6 +147,16 @@
     [
       "Show HN: Beyond text splitting – improved file parsing for LLM's",
       "https://github.com/Filimoa/open-parse"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 03:14:17",
+      "https://news.ycombinator.com/item?id=39965907"
+    ],
+    [
+      "High Definition CSS Color Guide",
+      "https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide"
     ]
   ],
   [
