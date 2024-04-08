@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 20:07:15](https://news.ycombinator.com/item?id=39973189) - [Shorebird 1.0 – Update your Flutter apps instantly](https://shorebird.dev/blogs/1.0/)
+* [2024-04-08, 19:42:21](https://news.ycombinator.com/item?id=39972990) - [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
 * [2024-04-08, 19:16:54](https://news.ycombinator.com/item?id=39972800) - [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
 * [2024-04-08, 19:09:53](https://news.ycombinator.com/item?id=39972749) - [Microsoft: Laptops with Snapdragon X Elite Will Be Faster Than M3 MacBook Air](https://www.macrumors.com/2024/04/08/microsoft-vs-m3-macbook-air/)
