@@ -17,6 +17,7 @@
 * [2024-04-08, 11:52:00](https://news.ycombinator.com/item?id=39968761) - [Notepad++: Help us to take down the parasite website](https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/)
 * [2024-04-08, 11:47:42](https://news.ycombinator.com/item?id=39968721) - [Why Top Athletes Don't Look Like Fitness Influencers (Usually)](https://www.gq.com/story/top-athletes-dont-look-like-fitness-influencers)
 * [2024-04-08, 10:52:01](https://news.ycombinator.com/item?id=39968384) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
+* [2024-04-08, 10:42:04](https://news.ycombinator.com/item?id=39968325) - [A brief history of keyboard encoding](https://kbd.news/A-brief-history-of-keyboard-encoding-2199.html)
 * [2024-04-08, 10:22:39](https://news.ycombinator.com/item?id=39968205) - [Working from home isn't going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
 * [2024-04-08, 10:07:48](https://news.ycombinator.com/item?id=39968103) - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
 * [2024-04-08, 10:06:17](https://news.ycombinator.com/item?id=39968093) - [TSMC wins $6.6B US subsidy for Arizona chip production](https://www.reuters.com/technology/tsmc-wins-66-bln-us-subsidy-arizona-chip-production-2024-04-08/)
