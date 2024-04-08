@@ -70,6 +70,7 @@
 * [2024-04-06, 12:09:58](https://news.ycombinator.com/item?id=39951904) - [The wealthy are starting to have more babies than the poor again](https://www.japantimes.co.jp/commentary/2024/04/03/wealthy-having-babies/)
 * [2024-04-06, 12:06:13](https://news.ycombinator.com/item?id=39951885) - [Let's Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
 * [2024-04-06, 12:02:15](https://news.ycombinator.com/item?id=39951863) - [Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
+* [2024-04-06, 11:28:40](https://news.ycombinator.com/item?id=39951699) - [Pentaborane(9)](https://en.wikipedia.org/wiki/Pentaborane(9))
 * [2024-04-06, 11:19:19](https://news.ycombinator.com/item?id=39951663) - [Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution](https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/)
 * [2024-04-06, 11:16:22](https://news.ycombinator.com/item?id=39951649) - [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
 * [2024-04-06, 11:02:04](https://news.ycombinator.com/item?id=39951587) - [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)

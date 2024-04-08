@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 17:08:54](https://news.ycombinator.com/item?id=39971717) - [Live NASA telescope feed for today's solar eclipse [video]](https://www.youtube.com/watch?v=J5j95RUSLd8)
 * [2024-04-08, 17:03:54](https://news.ycombinator.com/item?id=39971673) - [Find My Device on Android](https://blog.google/products/android/android-find-my-device/)
 * [2024-04-08, 17:01:00](https://news.ycombinator.com/item?id=39971645) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39971645)
 * [2024-04-08, 15:59:31](https://news.ycombinator.com/item?id=39971005) - [Cake shop worker remains dream job for many children starting school](https://www.japantimes.co.jp/news/2024/04/08/japan/society/japan-children-dream-jobs/)
@@ -16,6 +17,7 @@
 * [2024-04-08, 14:01:42](https://news.ycombinator.com/item?id=39969802) - [Building an AI Coach to Help Tame My Monkey Mind](https://eugeneyan.com/writing/ai-coach/)
 * [2024-04-08, 13:58:29](https://news.ycombinator.com/item?id=39969772) - [I'm always rejected at airport e-gates– so the Office suggested changing my name](https://www.telegraph.co.uk/travel/advice/problems-passport-office-e-gate/)
 * [2024-04-08, 13:54:52](https://news.ycombinator.com/item?id=39969741) - ['Time is running out': can a future of undetectable deepfakes be avoided?](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided)
+* [2024-04-08, 13:53:39](https://news.ycombinator.com/item?id=39969728) - [Hacker News (HN) – Part 1: analysis](https://blog.osm-ai.net/2024/04/01/hn-part-1.html)
 * [2024-04-08, 13:43:00](https://news.ycombinator.com/item?id=39969633) - [Paying Off People's Medical Debt Has Little Impact on Their Lives, Study Finds](https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html)
 * [2024-04-08, 13:40:28](https://news.ycombinator.com/item?id=39969615) - [HuggingFace text-generation-inference is reverting to Apache 2.0 License](https://github.com/huggingface/text-generation-inference/commit/ff42d33e9944832a19171967d2edd6c292bdb2d6)
 * [2024-04-08, 13:31:26](https://news.ycombinator.com/item?id=39969547) - [Using your phone to pay can mean you'll spend more](https://www.npr.org/2024/04/07/1241841908/apple-pay-phone-credit-spending-frictionless-payments)
