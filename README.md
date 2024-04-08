@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-08, 05:56:00](https://news.ycombinator.com/item?id=39966618) - [Canadians are asking their government to federate](https://www.theverge.com/2024/4/6/24122765/canadians-are-asking-their-government-to-federate)
+* [2024-04-08, 06:17:10](https://news.ycombinator.com/item?id=39966734) - [X's AI Bot Is Reporting Joke Posts as Actual News](https://lifehacker.com/tech/grok-is-making-up-fake-news-on-x)
 * [2024-04-08, 04:13:23](https://news.ycombinator.com/item?id=39966152) - [Awesome-Code-AI – A list of of AI coding tools (assistants, completions, etc.)](https://github.com/sourcegraph/awesome-code-ai)
 * [2024-04-08, 04:05:15](https://news.ycombinator.com/item?id=39966114) - [Show HN: AutoMQ - A Cost-Effective Kafka Distro That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
 * [2024-04-08, 03:14:17](https://news.ycombinator.com/item?id=39965907) - [High Definition CSS Color Guide](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide)
@@ -9,7 +9,6 @@
 * [2024-04-07, 22:40:50](https://news.ycombinator.com/item?id=39964590) - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
 * [2024-04-07, 21:28:39](https://news.ycombinator.com/item?id=39964107) - [Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)](https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/)
 * [2024-04-07, 20:34:05](https://news.ycombinator.com/item?id=39963650) - [The French aristocrat who understood evolution 100 years before Darwin](https://www.theguardian.com/science/2024/apr/07/the-french-aristocrat-who-understood-evolution-100-years-before-darwin-and-even-worried-about-climate-change)
-* [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
 * [2024-04-07, 17:54:31](https://news.ycombinator.com/item?id=39962415) - [Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync](https://www.flashnotesapp.com)
 * [2024-04-07, 17:36:06](https://news.ycombinator.com/item?id=39962303) - [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [2024-04-07, 17:00:40](https://news.ycombinator.com/item?id=39962071) - [Greptile (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
@@ -25,6 +24,7 @@
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to found a company in Germany: 14 \"easy\" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
+* [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 14:38:39](https://news.ycombinator.com/item?id=39952819) - [The Blessing of the Strings](https://bkardell.com/blog/blessing-strings.html)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
