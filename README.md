@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-08, 01:30:01](https://news.ycombinator.com/item?id=39965446) - [Autism and ADHD are linked to disturbed gut flora early in life](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
+* [2024-04-08, 01:30:01](https://news.ycombinator.com/item?id=39965446) - [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
 * [2024-04-08, 00:55:08](https://news.ycombinator.com/item?id=39965267) - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
 * [2024-04-08, 00:52:21](https://news.ycombinator.com/item?id=39965250) - [New theory on Satoshi Nakamoto](https://old.reddit.com/r/CryptoCurrency/comments/1bxqnpq/new_theory_on_satoshi_nakamoto/)
+* [2024-04-08, 00:17:01](https://news.ycombinator.com/item?id=39965087) - [Kuto, a Reverse JavaScript Bundler](https://samthor.au/2024/kuto/)
 * [2024-04-07, 22:23:38](https://news.ycombinator.com/item?id=39964489) - [Autonomous Weapons: The False Promise of Civilian Protection (2022)](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
 * [2024-04-07, 22:10:27](https://news.ycombinator.com/item?id=39964402) - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
 * [2024-04-07, 22:01:56](https://news.ycombinator.com/item?id=39964355) - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
@@ -11,7 +12,6 @@
 * [2024-04-07, 21:02:00](https://news.ycombinator.com/item?id=39963891) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-04-07, 18:39:43](https://news.ycombinator.com/item?id=39962756) - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 * [2024-04-07, 18:37:55](https://news.ycombinator.com/item?id=39962737) - [The Bulgarian Computer's Global Reach: On Victor Petrov's \"Balkan Cyberia\"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
-* [2024-04-07, 17:54:31](https://news.ycombinator.com/item?id=39962415) - [Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync](https://www.flashnotesapp.com)
 * [2024-04-07, 17:36:06](https://news.ycombinator.com/item?id=39962303) - [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [2024-04-07, 16:55:16](https://news.ycombinator.com/item?id=39962023) - [PumpkinOS, a Re-Implementation of PalmOS](https://github.com/migueletto/PumpkinOS)
 * [2024-04-07, 16:50:30](https://news.ycombinator.com/item?id=39961994) - [Rpgp: Pure Rust implementation of OpenPGP](https://github.com/rpgp/rpgp)
