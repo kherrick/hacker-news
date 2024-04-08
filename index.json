@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-07, 23:30:50",
-      "https://news.ycombinator.com/item?id=39964850"
-    ],
-    [
-      "Primes Can Be Predicted",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742238"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 22:40:50",
       "https://news.ycombinator.com/item?id=39964590"
     ],
@@ -27,6 +17,16 @@
     [
       "Autonomous Weapons: The False Promise of Civilian Protection (2022)",
       "https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 22:11:15",
+      "https://news.ycombinator.com/item?id=39964406"
+    ],
+    [
+      "Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution",
+      "https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-04-07, 17:54:31",
+      "https://news.ycombinator.com/item?id=39962415"
+    ],
+    [
+      "Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync",
+      "https://www.flashnotesapp.com"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 17:36:06",
       "https://news.ycombinator.com/item?id=39962303"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39961910"
     ],
     [
-      "What John von Neumann Did at Los Alamos (2020)",
+      "What John von Neumann did at Los Alamos (2020)",
       "https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-04-07, 12:08:22",
-      "https://news.ycombinator.com/item?id=39960202"
-    ],
-    [
-      "Fire alarm audio detection, using FFTs and Go",
-      "https://github.com/pldubouilh/alarm"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 11:46:55",
       "https://news.ycombinator.com/item?id=39960125"
     ],
@@ -227,6 +227,16 @@
     [
       "Did any processor implement an integer square root instruction?",
       "https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 10:36:19",
+      "https://news.ycombinator.com/item?id=39959846"
+    ],
+    [
+      "US braces for cicadas by the trillion as two broods of periodic insects coincide",
+      "https://www.theguardian.com/environment/2024/apr/07/cicada-geddon-brood-season-midwest-eastern"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2024-04-06, 19:59:24",
-      "https://news.ycombinator.com/item?id=39954993"
-    ],
-    [
-      "Structuralism as a Philosophy of Mathematics",
-      "https://www.infinitelymore.xyz/p/structuralism"
-    ]
-  ],
-  [
-    [
       "2024-04-06, 14:38:39",
       "https://news.ycombinator.com/item?id=39952819"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-04-06, 12:24:39",
-      "https://news.ycombinator.com/item?id=39951984"
-    ],
-    [
-      "Santa Susana Field Laboratory",
-      "https://en.wikipedia.org/wiki/Santa_Susana_Field_Laboratory"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 20:49:14",
       "https://news.ycombinator.com/item?id=39947045"
     ],
     [
       "Clojure's machine learning ecosystem",
       "https://codewithkira.com/2024-04-04-state-of-clojure-ml.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-05, 20:23:06",
+      "https://news.ycombinator.com/item?id=39946763"
+    ],
+    [
+      "Opt-Models: Intro to Optimization Programming Using LEGOs",
+      "https://opt-models.org/"
     ]
   ]
 ]
