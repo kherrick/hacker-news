@@ -4,7 +4,7 @@
 * [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 06:19:51](https://news.ycombinator.com/item?id=39966743) - [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
 * [2024-04-08, 05:41:15](https://news.ycombinator.com/item?id=39966534) - [Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
-* [2024-04-08, 04:13:23](https://news.ycombinator.com/item?id=39966152) - [Awesome-Code-AI – A list of of AI coding tools (assistants, completions, etc.)](https://github.com/sourcegraph/awesome-code-ai)
+* [2024-04-08, 04:13:23](https://news.ycombinator.com/item?id=39966152) - [A list of AI coding tools](https://github.com/sourcegraph/awesome-code-ai)
 * [2024-04-08, 03:14:17](https://news.ycombinator.com/item?id=39965907) - [High Definition CSS Color Guide](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide)
 * [2024-04-08, 01:30:01](https://news.ycombinator.com/item?id=39965446) - [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
 * [2024-04-08, 00:55:08](https://news.ycombinator.com/item?id=39965267) - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
