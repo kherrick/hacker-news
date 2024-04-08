@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 19:16:54](https://news.ycombinator.com/item?id=39972800) - [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
-* [2024-04-08, 19:09:53](https://news.ycombinator.com/item?id=39972749) - [Microsoft: Laptops with Snapdragon X Elite Will Be Faster Than M3 MacBook Air](https://www.macrumors.com/2024/04/08/microsoft-vs-m3-macbook-air/)
 * [2024-04-08, 17:56:04](https://news.ycombinator.com/item?id=39972152) - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
 * [2024-04-08, 17:48:24](https://news.ycombinator.com/item?id=39972086) - [ESLint v9.0](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
 * [2024-04-08, 17:42:54](https://news.ycombinator.com/item?id=39972036) - [Colab notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
