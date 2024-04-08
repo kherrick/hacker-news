@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 03:20:18](https://news.ycombinator.com/item?id=39965939) - [The Disturbing Truth About How Airplanes Are Maintained Today](https://www.vanityfair.com/news/2015/11/airplane-maintenance-disturbing-truth)
 * [2024-04-08, 01:30:01](https://news.ycombinator.com/item?id=39965446) - [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
 * [2024-04-08, 00:55:08](https://news.ycombinator.com/item?id=39965267) - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
 * [2024-04-07, 22:23:38](https://news.ycombinator.com/item?id=39964489) - [Autonomous Weapons: The False Promise of Civilian Protection (2022)](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
-* [2024-04-07, 22:10:27](https://news.ycombinator.com/item?id=39964402) - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
 * [2024-04-07, 22:01:56](https://news.ycombinator.com/item?id=39964355) - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
 * [2024-04-07, 21:49:22](https://news.ycombinator.com/item?id=39964265) - [ReAMP, a Winamp Remake in Swift](https://re-amp.ru/)
 * [2024-04-07, 21:30:07](https://news.ycombinator.com/item?id=39964117) - [Navy cancels ship briefings after damning internal report](https://www.politico.com/news/2024/04/07/navy-cancels-ship-briefings-internal-report-00150879)
