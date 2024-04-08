@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-08, 18:37:41",
-      "https://news.ycombinator.com/item?id=39972514"
-    ],
-    [
-      "Cloudflare Developer Week 2024 wrap-up",
-      "https://blog.cloudflare.com/developer-week-2024-wrap-up"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 17:56:04",
       "https://news.ycombinator.com/item?id=39972152"
     ],
@@ -131,12 +121,32 @@
   ],
   [
     [
+      "2024-04-08, 13:33:56",
+      "https://news.ycombinator.com/item?id=39969563"
+    ],
+    [
+      "A secret climate experiment in Alameda",
+      "https://www.politico.com/newsletters/california-climate/2024/04/04/a-secret-climate-experiment-in-alameda-00150705"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 12:44:57",
       "https://news.ycombinator.com/item?id=39969131"
     ],
     [
       "Vala Programming Language",
       "https://vala.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 12:34:21",
+      "https://news.ycombinator.com/item?id=39969042"
+    ],
+    [
+      "A cheeky intern nearly turned MS-DOS into NSFW-DOS",
+      "https://www.theregister.com/2024/04/08/ms_dos_easter_egg/"
     ]
   ],
   [
@@ -167,6 +177,16 @@
     [
       "KDE6 release: D-Bus and Polkit Galore",
       "https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 10:52:00",
+      "https://news.ycombinator.com/item?id=39968382"
+    ],
+    [
+      "How Engineers at Digital Equipment Corp. Saved Ethernet",
+      "https://spectrum.ieee.org/how-dec-engineers-saved-ethernet"
     ]
   ],
   [
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2024-04-07, 16:55:16",
-      "https://news.ycombinator.com/item?id=39962023"
-    ],
-    [
-      "PumpkinOS, a Re-Implementation of PalmOS",
-      "https://github.com/migueletto/PumpkinOS"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 08:51:20",
-      "https://news.ycombinator.com/item?id=39959368"
-    ],
-    [
-      "How to found a company in Germany: 14 \"easy\" steps and lots of pain",
-      "https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 05:04:14",
       "https://news.ycombinator.com/item?id=39958302"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-04-04, 10:48:55",
-      "https://news.ycombinator.com/item?id=39928687"
+      "2024-04-06, 08:46:52",
+      "https://news.ycombinator.com/item?id=39950989"
     ],
     [
-      "How to send progress updates",
-      "https://www.spakhm.com/updates-howto"
+      "Programming with DOS Debugger (2003)",
+      "https://susam.net/programming-with-dos-debugger.html"
     ]
   ]
 ]
