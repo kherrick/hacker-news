@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 17:39:25](https://news.ycombinator.com/item?id=39972001) - [The Global Impact of Israeli \"Defense\" Technologies on Privacy and Human Rights](https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/)
+* [2024-04-08, 17:23:32](https://news.ycombinator.com/item?id=39971839) - [Anthropic's Haiku Beats GPT-4 Turbo in Tool Use](https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use)
 * [2024-04-08, 17:08:54](https://news.ycombinator.com/item?id=39971717) - [Live NASA telescope feed for today's solar eclipse [video]](https://www.youtube.com/watch?v=J5j95RUSLd8)
 * [2024-04-08, 17:03:54](https://news.ycombinator.com/item?id=39971673) - [Find My Device on Android](https://blog.google/products/android/android-find-my-device/)
 * [2024-04-08, 17:01:00](https://news.ycombinator.com/item?id=39971645) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39971645)
+* [2024-04-08, 16:42:29](https://news.ycombinator.com/item?id=39971454) - [GPT Chatting with Xfinity support getting discounts](https://v.redd.it/n2m7faixe2tc1)
 * [2024-04-08, 15:59:31](https://news.ycombinator.com/item?id=39971005) - [Cake shop worker remains dream job for many children starting school](https://www.japantimes.co.jp/news/2024/04/08/japan/society/japan-children-dream-jobs/)
 * [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 15:15:43](https://news.ycombinator.com/item?id=39970603) - [Poor Predictors: Job Interviews Are Useless and Unfair](https://www.psychologytoday.com/us/blog/insight-therapy/202008/poor-predictors-job-interviews-are-useless-and-unfair)
@@ -14,6 +17,7 @@
 * [2024-04-08, 14:56:20](https://news.ycombinator.com/item?id=39970418) - [I Tried Tesla FSD](https://werd.io/2024/i-tried-tesla-fsd)
 * [2024-04-08, 14:46:55](https://news.ycombinator.com/item?id=39970299) - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
 * [2024-04-08, 14:28:40](https://news.ycombinator.com/item?id=39970096) - [Turchin's Terrifying Predictions](http://donaldclarkplanb.blogspot.com/2024/04/turchins-terrifying-predictions.html)
+* [2024-04-08, 14:14:44](https://news.ycombinator.com/item?id=39969929) - [It's Dante's Hell–We're Just Living in It](https://www.neh.gov/article/its-dantes-hell-were-just-living-it)
 * [2024-04-08, 14:01:42](https://news.ycombinator.com/item?id=39969802) - [Building an AI Coach to Help Tame My Monkey Mind](https://eugeneyan.com/writing/ai-coach/)
 * [2024-04-08, 13:58:29](https://news.ycombinator.com/item?id=39969772) - [I'm always rejected at airport e-gates– so the Office suggested changing my name](https://www.telegraph.co.uk/travel/advice/problems-passport-office-e-gate/)
 * [2024-04-08, 13:54:52](https://news.ycombinator.com/item?id=39969741) - ['Time is running out': can a future of undetectable deepfakes be avoided?](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided)
