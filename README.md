@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-08, 22:55:26](https://news.ycombinator.com/item?id=39974554) - [Endless Censorship Demands from Brazil](https://twitter.com/ggreenwald/status/1777392222851240334)
 * [2024-04-08, 22:20:13](https://news.ycombinator.com/item?id=39974340) - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-04-08, 21:57:58](https://news.ycombinator.com/item?id=39974162) - [Nintendo's online servers for Wii U and 3DS shut down today](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u)
+* [2024-04-08, 21:17:52](https://news.ycombinator.com/item?id=39973831) - [Begging EuroRust to acknowledge independent workers](https://fasterthanli.me/articles/begging-eurorust-to-acknowledge-independent-workers)
 * [2024-04-08, 20:49:16](https://news.ycombinator.com/item?id=39973555) - [French company ramps up production to meet demand for its military drone radar](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-08, 20:25:42](https://news.ycombinator.com/item?id=39973341) - [Looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
@@ -28,7 +28,7 @@
 * [2024-04-08, 03:29:23](https://news.ycombinator.com/item?id=39965966) - [Reviving an 800-Year-Old Japanese Tea Farm](https://www.nippon.com/en/japan-topics/c11602/)
 * [2024-04-07, 18:20:34](https://news.ycombinator.com/item?id=39962615) - [Re-creating Disney's sodium vapor process [video]](https://www.youtube.com/watch?v=UQuIVsNzqDk)
 * [2024-04-07, 12:04:49](https://news.ycombinator.com/item?id=39960190) - [Minibone: practical end-to-end encryption for web apps](https://github.com/backbone-hq/minibone)
-* [2024-04-07, 09:39:02](https://news.ycombinator.com/item?id=39959612) - [Beyond Foreign Keys](https://lackofimagination.org/2024/04/beyond-foreign-keys/)
+* [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
 * [2024-04-06, 06:01:08](https://news.ycombinator.com/item?id=39950351) - [Fear makes you a worse programmer (2014)](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 
 ## [Archives](archives/index.md)
