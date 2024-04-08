@@ -80,6 +80,7 @@
 * [2024-04-07, 06:06:59](https://news.ycombinator.com/item?id=39958523) - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
 * [2024-04-07, 05:19:17](https://news.ycombinator.com/item?id=39958346) - [ESR's Autodafe: \"freeing your project from the clammy grip of autotools.\"](https://gitlab.com/esr/autodafe)
 * [2024-04-07, 05:12:35](https://news.ycombinator.com/item?id=39958321) - [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
+* [2024-04-07, 05:04:14](https://news.ycombinator.com/item?id=39958302) - [The Linux Command Line](https://linuxcommand.org/)
 * [2024-04-07, 04:52:39](https://news.ycombinator.com/item?id=39958260) - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 * [2024-04-07, 04:14:53](https://news.ycombinator.com/item?id=39958152) - [ChatGPT might get its own dedicated personal AI device – with Jony Ive's help](https://www.techradar.com/computing/artificial-intelligence/chatgpt-might-get-its-own-dedicated-personal-device-with-jony-ives-help)
 * [2024-04-07, 03:42:07](https://news.ycombinator.com/item?id=39958025) - [PM2: Production Process Manager with a Built-In Load Balancer](https://github.com/Unitech/pm2)
