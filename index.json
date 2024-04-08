@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-08, 19:14:42",
+      "https://news.ycombinator.com/item?id=39972780"
+    ],
+    [
+      "Japanese American Bird Pins",
+      "https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 19:09:53",
+      "https://news.ycombinator.com/item?id=39972749"
+    ],
+    [
+      "Microsoft: Laptops with Snapdragon X Elite Will Be Faster Than M3 MacBook Air",
+      "https://www.macrumors.com/2024/04/08/microsoft-vs-m3-macbook-air/"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 17:56:04",
       "https://news.ycombinator.com/item?id=39972152"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39972036"
     ],
     [
-      "Show HN: Colab Notebook to create Magic cards from image with Claude",
+      "Colab notebook to create Magic cards from image with Claude",
       "https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing"
     ]
   ],
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2024-04-08, 11:40:44",
+      "https://news.ycombinator.com/item?id=39968678"
+    ],
+    [
+      "I tried to automate job applications as a software engineer (and failed)",
+      "https://github.com/ukraine/jobBanksCanada"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 10:52:01",
       "https://news.ycombinator.com/item?id=39968384"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-04-08, 07:40:40",
-      "https://news.ycombinator.com/item?id=39967199"
-    ],
-    [
-      "Building a Managed Postgres Service in Rust",
-      "https://tembo.io/blog/managed-postgres-rust"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 06:58:13",
       "https://news.ycombinator.com/item?id=39966960"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-04-07, 23:59:07",
-      "https://news.ycombinator.com/item?id=39965006"
-    ],
-    [
-      "When a black hole and a neutron star merge",
-      "https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 09:56:48",
       "https://news.ycombinator.com/item?id=39959686"
     ],
@@ -287,16 +297,6 @@
     [
       "Transistor takes advantage of quantum interference",
       "https://spectrum.ieee.org/quantum-interference-transistor"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 08:46:52",
-      "https://news.ycombinator.com/item?id=39950989"
-    ],
-    [
-      "Programming with DOS Debugger (2003)",
-      "https://susam.net/programming-with-dos-debugger.html"
     ]
   ]
 ]
