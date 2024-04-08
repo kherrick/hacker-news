@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
+* [2024-04-08, 12:26:08](https://news.ycombinator.com/item?id=39968973) - [Cultivating Minds: The Psychological Consequences of Rice versus Wheat Farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
 * [2024-04-08, 12:02:42](https://news.ycombinator.com/item?id=39968827) - [Australia 'mugged by reality' on Aukus deal as US set to halve submarine build](https://www.theguardian.com/world/2024/mar/13/turnbull-says-australia-mugged-by-reality-on-aukus-deal-as-us-set-to-halve-submarine-build)
 * [2024-04-08, 12:00:41](https://news.ycombinator.com/item?id=39968812) - [Sieve (YC W22) Is Hiring ML engineers (small team, high revenue, AI infra)](https://sievedata.com/about/jobs)
 * [2024-04-08, 11:52:00](https://news.ycombinator.com/item?id=39968761) - [Notepad++: Help us to take down the parasite website](https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/)

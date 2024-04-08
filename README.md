@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
+* [2024-04-08, 12:26:08](https://news.ycombinator.com/item?id=39968973) - [Cultivating Minds: The Psychological Consequences of Rice versus Wheat Farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
 * [2024-04-08, 12:00:41](https://news.ycombinator.com/item?id=39968812) - [Sieve (YC W22) Is Hiring ML engineers (small team, high revenue, AI infra)](https://sievedata.com/about/jobs)
 * [2024-04-08, 11:52:00](https://news.ycombinator.com/item?id=39968761) - [Notepad++: Help us to take down the parasite website](https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/)
 * [2024-04-08, 10:52:01](https://news.ycombinator.com/item?id=39968384) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
@@ -15,7 +17,6 @@
 * [2024-04-07, 21:28:39](https://news.ycombinator.com/item?id=39964107) - [Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)](https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/)
 * [2024-04-07, 17:36:06](https://news.ycombinator.com/item?id=39962303) - [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [2024-04-07, 16:55:16](https://news.ycombinator.com/item?id=39962023) - [PumpkinOS, a Re-Implementation of PalmOS](https://github.com/migueletto/PumpkinOS)
-* [2024-04-07, 15:06:42](https://news.ycombinator.com/item?id=39961245) - [Greaseweazle](https://retrocmp.de/hardware/greaseweazle/greaseweazle.htm)
 * [2024-04-07, 13:42:05](https://news.ycombinator.com/item?id=39960717) - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
 * [2024-04-07, 13:32:27](https://news.ycombinator.com/item?id=39960645) - [Blog posts, sorted by sleep](https://breckyunits.com/sleepWriting.html)
 * [2024-04-07, 13:13:43](https://news.ycombinator.com/item?id=39960537) - [Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests](https://github.com/stackframe-projects/pgmock)
@@ -24,7 +25,6 @@
 * [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to found a company in Germany: 14 \"easy\" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
 * [2024-04-07, 05:04:14](https://news.ycombinator.com/item?id=39958302) - [The Linux Command Line](https://linuxcommand.org/)
-* [2024-04-06, 21:59:31](https://news.ycombinator.com/item?id=39956008) - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 * [2024-04-06, 18:37:36](https://news.ycombinator.com/item?id=39954422) - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 * [2024-04-06, 10:24:48](https://news.ycombinator.com/item?id=39951422) - [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
