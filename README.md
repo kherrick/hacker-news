@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-08, 22:20:13](https://news.ycombinator.com/item?id=39974340) - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2024-04-08, 21:57:58](https://news.ycombinator.com/item?id=39974162) - [Nintendo's online servers for Wii U and 3DS shut down today](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u)
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-08, 20:25:42](https://news.ycombinator.com/item?id=39973341) - [I looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
 * [2024-04-08, 20:20:13](https://news.ycombinator.com/item?id=39973296) - [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
@@ -24,7 +25,6 @@
 * [2024-04-08, 10:52:00](https://news.ycombinator.com/item?id=39968382) - [How engineers at Digital Equipment Corp. saved Ethernet](https://spectrum.ieee.org/how-dec-engineers-saved-ethernet)
 * [2024-04-08, 10:07:48](https://news.ycombinator.com/item?id=39968103) - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
 * [2024-04-08, 09:07:37](https://news.ycombinator.com/item?id=39967709) - [Hello World](https://thecoder08.github.io/hello-world.html)
-* [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [How much faster are the Gnome 46 terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 03:29:23](https://news.ycombinator.com/item?id=39965966) - [Reviving an 800-Year-Old Japanese Tea Farm](https://www.nippon.com/en/japan-topics/c11602/)
 * [2024-04-07, 12:04:49](https://news.ycombinator.com/item?id=39960190) - [Minibone: practical end-to-end encryption for web apps](https://github.com/backbone-hq/minibone)
 * [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
