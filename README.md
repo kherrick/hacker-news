@@ -2,7 +2,7 @@
 
 * [2024-04-08, 05:01:00](https://news.ycombinator.com/item?id=39966345) - [Spotify launches personalized AI playlists that you can build using prompts](https://techcrunch.com/2024/04/07/spotify-launches-personalized-ai-playlists-you-can-build-using-prompts/)
 * [2024-04-08, 04:19:18](https://news.ycombinator.com/item?id=39966179) - [Flame retardants found in consumer products linked to cancer](https://www.cnn.com/2024/04/01/health/flame-retardant-pbdes-cancer-wellness/index.html)
-* [2024-04-08, 04:15:39](https://news.ycombinator.com/item?id=39966164) - [Framework laptop DongleHider Expansion Card for hiding up to three dongles](https://www.tomshardware.com/laptops/donglehider-is-a-cunning-new-framework-laptop-expansion-card-for-hiding-up-to-three-dongles)
+* [2024-04-08, 04:15:39](https://news.ycombinator.com/item?id=39966164) - [Framework laptop DongleHider+ Expansion Card for hiding up to three dongles](https://www.tomshardware.com/laptops/donglehider-is-a-cunning-new-framework-laptop-expansion-card-for-hiding-up-to-three-dongles)
 * [2024-04-08, 04:05:15](https://news.ycombinator.com/item?id=39966114) - [Show HN: AutoMQ - A Cost-Effective Kafka Distro That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
 * [2024-04-08, 03:14:17](https://news.ycombinator.com/item?id=39965907) - [High Definition CSS Color Guide](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide)
 * [2024-04-08, 01:30:01](https://news.ycombinator.com/item?id=39965446) - [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
