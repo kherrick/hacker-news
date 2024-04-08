@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 23:11:14](https://news.ycombinator.com/item?id=39974646) - [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
 * [2024-04-08, 23:05:27](https://news.ycombinator.com/item?id=39974612) - ['My eyes hurt' searches spike on Google following solar eclipse](https://9to5google.com/2024/04/08/google-search-solar-eclipse-my-eyes-hurt/)
 * [2024-04-08, 22:26:57](https://news.ycombinator.com/item?id=39974374) - [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
 * [2024-04-08, 22:20:13](https://news.ycombinator.com/item?id=39974340) - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-04-08, 21:57:58](https://news.ycombinator.com/item?id=39974162) - [Nintendo's online servers for Wii U and 3DS shut down today](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u)
 * [2024-04-08, 21:17:52](https://news.ycombinator.com/item?id=39973831) - [Begging EuroRust to acknowledge independent workers](https://fasterthanli.me/articles/begging-eurorust-to-acknowledge-independent-workers)
-* [2024-04-08, 20:49:16](https://news.ycombinator.com/item?id=39973555) - [French company ramps up production to meet demand for its military drone radar](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-08, 20:25:42](https://news.ycombinator.com/item?id=39973341) - [Looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
 * [2024-04-08, 20:20:13](https://news.ycombinator.com/item?id=39973296) - [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)

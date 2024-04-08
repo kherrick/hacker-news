@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 23:11:14](https://news.ycombinator.com/item?id=39974646) - [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
 * [2024-04-08, 23:05:27](https://news.ycombinator.com/item?id=39974612) - ['My eyes hurt' searches spike on Google following solar eclipse](https://9to5google.com/2024/04/08/google-search-solar-eclipse-my-eyes-hurt/)
 * [2024-04-08, 22:55:26](https://news.ycombinator.com/item?id=39974554) - [Endless Censorship Demands from Brazil](https://twitter.com/ggreenwald/status/1777392222851240334)
 * [2024-04-08, 22:26:57](https://news.ycombinator.com/item?id=39974374) - [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
