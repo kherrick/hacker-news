@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 15:04:12](https://news.ycombinator.com/item?id=39970501) - [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
-* [2024-04-08, 14:56:20](https://news.ycombinator.com/item?id=39970418) - [I Tried Tesla FSD](https://werd.io/2024/i-tried-tesla-fsd)
 * [2024-04-08, 14:46:55](https://news.ycombinator.com/item?id=39970299) - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
 * [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
 * [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
@@ -24,8 +24,8 @@
 * [2024-04-07, 13:42:05](https://news.ycombinator.com/item?id=39960717) - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
 * [2024-04-07, 13:32:27](https://news.ycombinator.com/item?id=39960645) - [Blog posts, sorted by sleep](https://breckyunits.com/sleepWriting.html)
 * [2024-04-07, 13:13:43](https://news.ycombinator.com/item?id=39960537) - [Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests](https://github.com/stackframe-projects/pgmock)
+* [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
 * [2024-04-07, 08:51:20](https://news.ycombinator.com/item?id=39959368) - [How to found a company in Germany: 14 \"easy\" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
-* [2024-04-07, 07:06:29](https://news.ycombinator.com/item?id=39958813) - [A simple 3-body problem simulator](https://quxiaowei.github.io/3-body/)
 * [2024-04-07, 05:04:14](https://news.ycombinator.com/item?id=39958302) - [The Linux Command Line](https://linuxcommand.org/)
 * [2024-04-06, 10:42:01](https://news.ycombinator.com/item?id=39951493) - [Transistor Takes Advantage of Quantum Interference](https://spectrum.ieee.org/quantum-interference-transistor)
 * [2024-04-06, 08:46:52](https://news.ycombinator.com/item?id=39950989) - [Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
