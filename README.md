@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-08, 15:59:31](https://news.ycombinator.com/item?id=39971005) - [Cake shop worker remains dream job for many children starting school](https://www.japantimes.co.jp/news/2024/04/08/japan/society/japan-children-dream-jobs/)
 * [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 15:04:12](https://news.ycombinator.com/item?id=39970501) - [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
 * [2024-04-08, 14:46:55](https://news.ycombinator.com/item?id=39970299) - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
@@ -16,7 +17,6 @@
 * [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 05:41:15](https://news.ycombinator.com/item?id=39966534) - [Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
 * [2024-04-08, 04:07:53](https://news.ycombinator.com/item?id=39966128) - [Airbnb bookings for the solar eclipse reach astronomical levels](https://www.economist.com/business/2024/04/06/airbnb-bookings-for-the-solar-eclipse-reach-astronomical-levels)
-* [2024-04-08, 03:14:17](https://news.ycombinator.com/item?id=39965907) - [High Definition CSS Color Guide](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide)
 * [2024-04-08, 00:55:08](https://news.ycombinator.com/item?id=39965267) - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
 * [2024-04-07, 23:59:07](https://news.ycombinator.com/item?id=39965006) - [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
 * [2024-04-07, 21:28:39](https://news.ycombinator.com/item?id=39964107) - [Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)](https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/)

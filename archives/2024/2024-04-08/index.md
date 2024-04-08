@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 15:59:31](https://news.ycombinator.com/item?id=39971005) - [Cake shop worker remains dream job for many children starting school](https://www.japantimes.co.jp/news/2024/04/08/japan/society/japan-children-dream-jobs/)
 * [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 15:04:12](https://news.ycombinator.com/item?id=39970501) - [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
 * [2024-04-08, 14:56:20](https://news.ycombinator.com/item?id=39970418) - [I Tried Tesla FSD](https://werd.io/2024/i-tried-tesla-fsd)
