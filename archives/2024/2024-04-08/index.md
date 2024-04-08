@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
 * [2024-04-08, 15:04:12](https://news.ycombinator.com/item?id=39970501) - [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
+* [2024-04-08, 14:56:20](https://news.ycombinator.com/item?id=39970418) - [I Tried Tesla FSD](https://werd.io/2024/i-tried-tesla-fsd)
 * [2024-04-08, 14:46:55](https://news.ycombinator.com/item?id=39970299) - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
 * [2024-04-08, 14:28:40](https://news.ycombinator.com/item?id=39970096) - [Turchin's Terrifying Predictions](http://donaldclarkplanb.blogspot.com/2024/04/turchins-terrifying-predictions.html)
 * [2024-04-08, 13:58:29](https://news.ycombinator.com/item?id=39969772) - [I'm always rejected at airport e-gates– so the Office suggested changing my name](https://www.telegraph.co.uk/travel/advice/problems-passport-office-e-gate/)
@@ -48,6 +49,7 @@
 * [2024-04-08, 04:19:18](https://news.ycombinator.com/item?id=39966179) - [Flame retardants found in consumer products linked to cancer](https://www.cnn.com/2024/04/01/health/flame-retardant-pbdes-cancer-wellness/index.html)
 * [2024-04-08, 04:15:39](https://news.ycombinator.com/item?id=39966164) - [Framework laptop DongleHider Expansion Card for hiding up to three dongles](https://www.tomshardware.com/laptops/donglehider-is-a-cunning-new-framework-laptop-expansion-card-for-hiding-up-to-three-dongles)
 * [2024-04-08, 04:13:23](https://news.ycombinator.com/item?id=39966152) - [Awesome-Code-AI – A list of of AI coding tools (assistants, completions, etc.)](https://github.com/sourcegraph/awesome-code-ai)
+* [2024-04-08, 04:07:53](https://news.ycombinator.com/item?id=39966128) - [Airbnb bookings for the solar eclipse reach astronomical levels](https://www.economist.com/business/2024/04/06/airbnb-bookings-for-the-solar-eclipse-reach-astronomical-levels)
 * [2024-04-08, 04:05:15](https://news.ycombinator.com/item?id=39966114) - [Show HN: AutoMQ - A Cost-Effective Kafka Distro That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
 * [2024-04-08, 03:57:48](https://news.ycombinator.com/item?id=39966084) - [Decentralized exchange Uniswap tops $2T in all-time trading volume](https://www.techmeme.com/m/240407/p1#a240407p1)
 * [2024-04-08, 03:45:47](https://news.ycombinator.com/item?id=39966030) - [AI instructed brainwashing effectively nullifies conspiracy beliefs](https://www.mindprison.cc/p/ai-instructed-brainwashing-effectively)
