@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 04:13:23](https://news.ycombinator.com/item?id=39966152) - [Awesome-Code-AI – A list of of AI coding tools (assistants, completions, etc.)](https://github.com/sourcegraph/awesome-code-ai)
+* [2024-04-08, 04:05:15](https://news.ycombinator.com/item?id=39966114) - [Show HN: AutoMQ - A Cost-Effective Kafka Distro That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
 * [2024-04-08, 03:20:18](https://news.ycombinator.com/item?id=39965939) - [The Disturbing Truth About How Airplanes Are Maintained Today](https://www.vanityfair.com/news/2015/11/airplane-maintenance-disturbing-truth)
 * [2024-04-08, 03:14:17](https://news.ycombinator.com/item?id=39965907) - [Chrome Dev: High Definition CSS Color Guide](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide)
 * [2024-04-08, 01:30:01](https://news.ycombinator.com/item?id=39965446) - [Autism and ADHD are linked to disturbed gut flora early in life](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
