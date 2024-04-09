@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-09, 04:26:41",
+      "https://news.ycombinator.com/item?id=39976190"
+    ],
+    [
+      "XZ Utils Attack: A Threat Actor Spent 2 Years to Implement Linux Backdoor",
+      "https://www.techrepublic.com/article/xz-backdoor-linux/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 03:49:43",
+      "https://news.ycombinator.com/item?id=39976064"
+    ],
+    [
+      "Show HN: I created automatic subtitling app to boost short videos",
+      "https://videofa.st/en/short-video/automatic-subtitles/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 02:52:33",
       "https://news.ycombinator.com/item?id=39975865"
     ],
@@ -97,16 +117,6 @@
     [
       "GNU Stow needs a co-maintainer",
       "https://savannah.gnu.org/bugs/index.php?65569"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 20:01:45",
-      "https://news.ycombinator.com/item?id=39973150"
-    ],
-    [
-      "Show HN: Shorebird 1.0, Flutter Code Push",
-      "https://github.com/shorebirdtech/shorebird"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Workman Layout for Vim",
       "https://axiomatic.neophilus.net/workman-layout-for-vim/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 06:49:59",
-      "https://news.ycombinator.com/item?id=39966918"
-    ],
-    [
-      "How much faster are the Gnome 46 terminals?",
-      "https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/"
     ]
   ],
   [
