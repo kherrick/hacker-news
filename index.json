@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-04-09, 12:40:41",
+      "https://news.ycombinator.com/item?id=39978778"
+    ],
+    [
+      "AI Consciousness Is Inevitable: A Theoretical Computer Science Perspective",
+      "https://arxiv.org/abs/2403.17101"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:24:51",
+      "https://news.ycombinator.com/item?id=39978657"
+    ],
+    [
+      "Why do airlines charge so much for checked bags? The tax code",
+      "https://theconversation.com/why-do-airlines-charge-so-much-for-checked-bags-this-obscure-rule-helps-explain-why-225857"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 12:12:51",
       "https://news.ycombinator.com/item?id=39978577"
     ],
     [
-      "Introducing Google Axion Processors, our new Arm-based CPUs",
+      "Google Axion Processors – Arm-based CPUs designed for the data center",
       "https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39978108"
     ],
     [
-      "AutoCodeRover resolves 22% of real-world GitHub issues in SWE-bench lite",
+      "AutoCodeRover: Autonomous Program Improvement",
       "https://github.com/nus-apr/auto-code-rover"
     ]
   ],
@@ -97,6 +117,16 @@
     [
       "SSSL – Hackless SSL bypass for the Wii U",
       "https://github.com/PretendoNetwork/SSSL"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 09:02:51",
+      "https://news.ycombinator.com/item?id=39977537"
+    ],
+    [
+      "A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux",
+      "https://www.muppetlabs.com/%7Ebreadbox/software/tiny/teensy.html"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2024-04-07, 18:20:34",
-      "https://news.ycombinator.com/item?id=39962615"
-    ],
-    [
-      "Re-creating Disney's sodium vapor process [video]",
-      "https://www.youtube.com/watch?v=UQuIVsNzqDk"
-    ]
-  ],
-  [
-    [
       "2024-04-07, 11:08:09",
       "https://news.ycombinator.com/item?id=39960004"
     ],
@@ -267,26 +287,6 @@
     [
       "Flyweight: A Node.js ORM Specifically for SQLite",
       "https://github.com/thebinarysearchtree/flyweight"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 12:24:39",
-      "https://news.ycombinator.com/item?id=39951984"
-    ],
-    [
-      "Santa Susana Field Laboratory",
-      "https://en.wikipedia.org/wiki/Santa_Susana_Field_Laboratory"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 05:21:24",
-      "https://news.ycombinator.com/item?id=39950186"
-    ],
-    [
-      "The Marvelous Seamounts of the Southeast Pacific",
-      "https://nautil.us/the-marvelous-seamounts-of-the-southeast-pacific-542868/"
     ]
   ],
   [
