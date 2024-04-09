@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-09, 01:21:50",
-      "https://news.ycombinator.com/item?id=39975442"
+      "2024-04-09, 01:51:27",
+      "https://news.ycombinator.com/item?id=39975596"
     ],
     [
-      "It's getting hard to use and recommend Firefox, I'm afraid for the free web",
-      "https://ntietz.com/blog/firefox-and-the-free-web/"
+      "Distributed SQLite: Paradigm shift or hype?",
+      "https://kerkour.com/distributed-sqlite"
     ]
   ],
   [
@@ -25,8 +25,18 @@
       "https://news.ycombinator.com/item?id=39975346"
     ],
     [
-      "Genesis of the \"Golfball\" Selectric",
+      "Genesis of the “Golfball” Selectric",
       "https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 00:34:16",
+      "https://news.ycombinator.com/item?id=39975168"
+    ],
+    [
+      "Freedesktop/RedHat's CoC team is worse than you thought",
+      "https://blog.vaxry.net/articles/2024-fdo-and-redhat2"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "GNU Stow needs a co-maintainer",
       "https://savannah.gnu.org/bugs/index.php?65569"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 20:01:45",
-      "https://news.ycombinator.com/item?id=39973150"
-    ],
-    [
-      "Show HN: Shorebird 1.0, Flutter Code Push",
-      "https://github.com/shorebirdtech/shorebird"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-04-08, 12:44:57",
-      "https://news.ycombinator.com/item?id=39969131"
-    ],
-    [
-      "Vala Programming Language",
-      "https://vala.dev/"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 10:52:00",
       "https://news.ycombinator.com/item?id=39968382"
     ],
@@ -297,6 +287,16 @@
     [
       "Fear makes you a worse programmer (2014)",
       "https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 05:21:24",
+      "https://news.ycombinator.com/item?id=39950186"
+    ],
+    [
+      "The Marvelous Seamounts of the Southeast Pacific",
+      "https://nautil.us/the-marvelous-seamounts-of-the-southeast-pacific-542868/"
     ]
   ]
 ]
