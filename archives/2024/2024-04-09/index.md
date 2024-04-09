@@ -11,6 +11,7 @@
 * [2024-04-09, 11:35:26](https://news.ycombinator.com/item?id=39978353) - [How to use my science-based color wheel](https://www.youtube.com/watch?v=alrdClpGHvY)
 * [2024-04-09, 11:32:55](https://news.ycombinator.com/item?id=39978341) - [BYD is launching its next-gen Blade EV battery – more range and even lower cost](https://electrek.co/2024/04/08/byd-launch-next-gen-ev-battery-more-range-lower-price/)
 * [2024-04-09, 11:31:55](https://news.ycombinator.com/item?id=39978332) - [SeL4 Device Driver Framework 0.4.0](https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/)
+* [2024-04-09, 11:25:40](https://news.ycombinator.com/item?id=39978292) - [Study sheds light on white dwarf stars](https://www.theguardian.com/science/2024/apr/09/study-sheds-light-on-the-white-dwarf-star-likely-destroyer-of-our-solar-system)
 * [2024-04-09, 10:56:31](https://news.ycombinator.com/item?id=39978108) - [AutoCodeRover resolves 22% of real-world GitHub issues in SWE-bench lite](https://github.com/nus-apr/auto-code-rover)
 * [2024-04-09, 10:54:20](https://news.ycombinator.com/item?id=39978093) - [Ollama: Embedding Models](https://ollama.com/blog/embedding-models)
 * [2024-04-09, 10:32:26](https://news.ycombinator.com/item?id=39977995) - [European court rules human rights violated by climate inaction](https://www.bbc.co.uk/news/science-environment-68768598)
