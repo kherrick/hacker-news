@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-09, 19:20:56](https://news.ycombinator.com/item?id=39983145) - [Patches released for as many as 91,000 hackable LG TVs exposed to the Internet](https://arstechnica.com/security/2024/04/patches-released-for-as-many-as-91000-hackable-lg-tvs-exposed-to-the-internet/)
 * [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
 * [2024-04-09, 18:35:51](https://news.ycombinator.com/item?id=39982623) - [Unix](https://neugierig.org/content/unix/)
 * [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
@@ -11,7 +12,6 @@
 * [2024-04-09, 16:59:49](https://news.ycombinator.com/item?id=39981423) - [Virtual Colossus](https://www.virtualcolossus.co.uk/colossus3d/)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
-* [2024-04-09, 16:03:08](https://news.ycombinator.com/item?id=39980849) - [The History of CP/M (1980)](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-09, 15:09:25](https://news.ycombinator.com/item?id=39980268) - [Beeper acquired by Automattic](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
 * [2024-04-09, 14:55:54](https://news.ycombinator.com/item?id=39980122) - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
 * [2024-04-09, 14:27:53](https://news.ycombinator.com/item?id=39979806) - [Persistent interaction patterns across social media platforms and over time](https://www.nature.com/articles/s41586-024-07229-y)

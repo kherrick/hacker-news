@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 19:20:56](https://news.ycombinator.com/item?id=39983145) - [Patches released for as many as 91,000 hackable LG TVs exposed to the Internet](https://arstechnica.com/security/2024/04/patches-released-for-as-many-as-91000-hackable-lg-tvs-exposed-to-the-internet/)
 * [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
 * [2024-04-09, 18:35:51](https://news.ycombinator.com/item?id=39982623) - [Unix](https://neugierig.org/content/unix/)
 * [2024-04-09, 18:14:35](https://news.ycombinator.com/item?id=39982358) - [Show HN: AI reveals big companies secret strategies for business growth](https://www.edom.ai/)
