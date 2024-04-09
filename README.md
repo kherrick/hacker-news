@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-09, 06:12:08](https://news.ycombinator.com/item?id=39976577) - [Viewing the 2024 Solar Eclipse with Commodore 64's 1984 Sky Travel [video]](https://www.youtube.com/watch?v=gipFvhEMB0I)
 * [2024-04-09, 05:48:37](https://news.ycombinator.com/item?id=39976483) - [Bay Area Workers Charged for Building Secret Apartments Inside Train Stations](https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/)
 * [2024-04-09, 05:36:34](https://news.ycombinator.com/item?id=39976422) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 * [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
@@ -16,6 +15,7 @@
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-08, 20:20:13](https://news.ycombinator.com/item?id=39973296) - [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
 * [2024-04-08, 20:01:45](https://news.ycombinator.com/item?id=39973150) - [Show HN: Shorebird 1.0, Flutter Code Push](https://github.com/shorebirdtech/shorebird)
+* [2024-04-08, 19:42:21](https://news.ycombinator.com/item?id=39972990) - [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
 * [2024-04-08, 18:49:47](https://news.ycombinator.com/item?id=39972603) - [The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-08, 17:56:04](https://news.ycombinator.com/item?id=39972152) - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
