@@ -32,6 +32,7 @@
 * [2024-04-08, 17:48:24](https://news.ycombinator.com/item?id=39972086) - [ESLint v9.0.0 Released](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
 * [2024-04-08, 17:42:54](https://news.ycombinator.com/item?id=39972036) - [Show HN: Colab Notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
 * [2024-04-08, 17:39:25](https://news.ycombinator.com/item?id=39972001) - [The Global Impact of Israeli \"Defense\" Technologies on Privacy and Human Rights](https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/)
+* [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 17:23:32](https://news.ycombinator.com/item?id=39971839) - [Anthropic's Haiku Beats GPT-4 Turbo in Tool Use](https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use)
 * [2024-04-08, 17:23:20](https://news.ycombinator.com/item?id=39971837) - [Engine part falls off Boeing plane during as Southwest Airlines flight takes off](https://www.independent.co.uk/travel/news-and-advice/boeing-plane-accident-southwest-houston-b2525200.html)
 * [2024-04-08, 17:08:54](https://news.ycombinator.com/item?id=39971717) - [Live NASA telescope feed for today's solar eclipse [video]](https://www.youtube.com/watch?v=J5j95RUSLd8)
