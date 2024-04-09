@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-04-09, 05:27:45",
-      "https://news.ycombinator.com/item?id=39976387"
-    ],
-    [
-      "How might software development have unfolded if CPU speeds were 20x slower?",
-      "https://news.ycombinator.com/item?id=39976387"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 04:36:04",
       "https://news.ycombinator.com/item?id=39976225"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2024-04-08, 22:35:54",
+      "https://news.ycombinator.com/item?id=39974439"
+    ],
+    [
+      "Predictive CPU isolation of containers at Netflix (2019)",
+      "https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7?gi=c53c45dcda8b"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 22:26:57",
       "https://news.ycombinator.com/item?id=39974374"
     ],
@@ -161,52 +161,22 @@
   ],
   [
     [
+      "2024-04-08, 19:42:21",
+      "https://news.ycombinator.com/item?id=39972990"
+    ],
+    [
+      "After AI beat them, professional Go players got better and more creative",
+      "https://www.henrikkarlsson.xyz/p/go"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 19:14:42",
       "https://news.ycombinator.com/item?id=39972780"
     ],
     [
       "Japanese American Bird Pins",
       "https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 18:49:47",
-      "https://news.ycombinator.com/item?id=39972603"
-    ],
-    [
-      "The 6502 instruction set as a database",
-      "https://gitlab.com/Screwtapello/isa65xx"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 17:56:04",
-      "https://news.ycombinator.com/item?id=39972152"
-    ],
-    [
-      "Nightfall: Can Kalgash Exist (2014)",
-      "https://arxiv.org/abs/1407.4895"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 17:42:54",
-      "https://news.ycombinator.com/item?id=39972036"
-    ],
-    [
-      "Colab notebook to create Magic cards from image with Claude",
-      "https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 17:03:54",
-      "https://news.ycombinator.com/item?id=39971673"
-    ],
-    [
-      "Find My Device on Android",
-      "https://blog.google/products/android/android-find-my-device/"
     ]
   ],
   [
@@ -231,12 +201,32 @@
   ],
   [
     [
+      "2024-04-08, 10:52:00",
+      "https://news.ycombinator.com/item?id=39968382"
+    ],
+    [
+      "How engineers at Digital Equipment Corp. saved Ethernet",
+      "https://spectrum.ieee.org/how-dec-engineers-saved-ethernet"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 09:07:37",
       "https://news.ycombinator.com/item?id=39967709"
     ],
     [
       "Hello World",
       "https://thecoder08.github.io/hello-world.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 06:49:59",
+      "https://news.ycombinator.com/item?id=39966918"
+    ],
+    [
+      "How much faster are the Gnome 46 terminals?",
+      "https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Flyweight: A Node.js ORM Specifically for SQLite",
       "https://github.com/thebinarysearchtree/flyweight"
+    ]
+  ],
+  [
+    [
+      "2024-04-06, 06:01:08",
+      "https://news.ycombinator.com/item?id=39950351"
+    ],
+    [
+      "Fear makes you a worse programmer (2014)",
+      "https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/"
     ]
   ],
   [
