@@ -20,7 +20,6 @@
 * [2024-04-09, 13:18:34](https://news.ycombinator.com/item?id=39979140) - [Supreme Commander Graphics Study (2015)](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
 * [2024-04-09, 12:32:05](https://news.ycombinator.com/item?id=39978717) - [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
 * [2024-04-09, 12:24:04](https://news.ycombinator.com/item?id=39978653) - [Anger is eliminated with the disposal of a paper written because of provocation](https://www.nature.com/articles/s41598-024-57916-z)
-* [2024-04-09, 11:47:30](https://news.ycombinator.com/item?id=39978434) - [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
 * [2024-04-09, 10:56:31](https://news.ycombinator.com/item?id=39978108) - [AutoCodeRover: Autonomous Program Improvement](https://github.com/nus-apr/auto-code-rover)
 * [2024-04-09, 09:59:16](https://news.ycombinator.com/item?id=39977845) - [Show HN: DualShock calibration in the browser using WebHID](https://blog.the.al/2024/04/09/dualshock-calibration-in-the-browser.html)
 * [2024-04-09, 09:56:49](https://news.ycombinator.com/item?id=39977831) - [The Lonely Funeral Project in Amsterdam](https://www.upworthy.com/the-lonely-funeral-project)
@@ -28,6 +27,7 @@
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:05:56](https://news.ycombinator.com/item?id=39976557) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
 * [2024-04-09, 05:47:03](https://news.ycombinator.com/item?id=39976472) - [Chasing resets](https://zipcpu.com/blog/2024/04/01/chasing-resets.html)
+* [2024-04-08, 18:47:31](https://news.ycombinator.com/item?id=39972586) - [Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel](https://github.com/larryboyko/dimityjones)
 * [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML feature platform, is now open source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 06:59:43](https://news.ycombinator.com/item?id=39966969) - [Let's Kerberos](https://www.imperialviolet.org/2024/04/07/letskerberos.html)
 
