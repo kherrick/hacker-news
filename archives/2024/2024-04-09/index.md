@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 19:20:56](https://news.ycombinator.com/item?id=39983145) - [Patches released for as many as 91,000 hackable LG TVs exposed to the Internet](https://arstechnica.com/security/2024/04/patches-released-for-as-many-as-91000-hackable-lg-tvs-exposed-to-the-internet/)
 * [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
+* [2024-04-09, 18:42:47](https://news.ycombinator.com/item?id=39982688) - [Complexity Is the Enemy](https://neugierig.org/software/blog/2011/04/complexity.html)
 * [2024-04-09, 18:39:45](https://news.ycombinator.com/item?id=39982659) - [Fairphone's Fairbuds are repairable Bluetooth earbuds with replaceable batteries](https://liliputing.com/fairphones-fairbuds-are-true-wireless-earbuds-with-repairable-design-and-user-replaceable-batteries/)
 * [2024-04-09, 18:35:51](https://news.ycombinator.com/item?id=39982623) - [Unix](https://neugierig.org/content/unix/)
+* [2024-04-09, 18:14:47](https://news.ycombinator.com/item?id=39982362) - [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
 * [2024-04-09, 18:14:35](https://news.ycombinator.com/item?id=39982358) - [Show HN: AI reveals big companies secret strategies for business growth](https://www.edom.ai/)
 * [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 * [2024-04-09, 17:50:57](https://news.ycombinator.com/item?id=39982098) - [OpenAI prepares to fight for its life as legal troubles mount](https://www.msn.com/en-us/news/politics/openai-prepares-to-fight-for-its-life-as-legal-troubles-mount/ar-BB1lk4ei)
