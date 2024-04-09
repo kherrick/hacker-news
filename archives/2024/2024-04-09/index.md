@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 17:09:51](https://news.ycombinator.com/item?id=39981550) - [Fairbuds: In-Ear with Replaceable Batteries](https://shop.fairphone.com/fairbuds)
+* [2024-04-09, 16:49:06](https://news.ycombinator.com/item?id=39981306) - [Peter Higgs Has Died](https://mailings.ed.ac.uk/cr/AQiw9w4Q29loGLayuDKygkUHzYdbMkJ3l7YZR220i7qIV4A2vPfu2ywkdzGpOQ)
 * [2024-04-09, 16:30:37](https://news.ycombinator.com/item?id=39981122) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
 * [2024-04-09, 16:22:05](https://news.ycombinator.com/item?id=39981037) - [San Francisco-to-L.A. overnight train inches closer to reality](https://ktla.com/news/california/san-francisco-to-l-a-overnight-train-inches-closer-to-reality/)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, dies aged 94](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
@@ -15,6 +17,7 @@
 * [2024-04-09, 15:10:28](https://news.ycombinator.com/item?id=39980278) - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
 * [2024-04-09, 15:09:25](https://news.ycombinator.com/item?id=39980268) - [Beeper acquired by Automattic (WordPress)](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
 * [2024-04-09, 14:55:54](https://news.ycombinator.com/item?id=39980122) - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
+* [2024-04-09, 14:37:46](https://news.ycombinator.com/item?id=39979927) - [Freenginx 1.26.0](https://freenginx.org/en/CHANGES-1.26)
 * [2024-04-09, 14:27:53](https://news.ycombinator.com/item?id=39979806) - [Persistent interaction patterns across social media platforms and over time](https://www.nature.com/articles/s41586-024-07229-y)
 * [2024-04-09, 14:23:26](https://news.ycombinator.com/item?id=39979750) - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 * [2024-04-09, 14:01:37](https://news.ycombinator.com/item?id=39979542) - [How NPR Lost Americas Trust](https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust)
