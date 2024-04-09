@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-09, 16:30:37](https://news.ycombinator.com/item?id=39981122) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, dies aged 94](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
 * [2024-04-09, 16:03:08](https://news.ycombinator.com/item?id=39980849) - [The History of CP/M (1980) [txt]](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-09, 15:46:50](https://news.ycombinator.com/item?id=39980691) - [The Towns Outsmarting Airbnb](https://reasonstobecheerful.world/the-towns-outsmarting-airbnb/)
@@ -22,13 +23,12 @@
 * [2024-04-09, 05:47:03](https://news.ycombinator.com/item?id=39976472) - [Chasing Resets](https://zipcpu.com/blog/2024/04/01/chasing-resets.html)
 * [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 02:58:18](https://news.ycombinator.com/item?id=39975887) - [MapSCII – A Braille and ASCII world map renderer for the console](https://github.com/rastapasta/mapscii)
-* [2024-04-09, 01:00:06](https://news.ycombinator.com/item?id=39975331) - [TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
 * [2024-04-08, 22:26:57](https://news.ycombinator.com/item?id=39974374) - [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
 * [2024-04-08, 22:20:13](https://news.ycombinator.com/item?id=39974340) - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-08, 18:47:31](https://news.ycombinator.com/item?id=39972586) - [Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel](https://github.com/larryboyko/dimityjones)
 * [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
-* [2024-04-08, 06:08:03](https://news.ycombinator.com/item?id=39966685) - [Quartz Crystals – Twinning (2016)](http://www.quartzpage.de/crs_twins.html)
+* [2024-04-08, 06:59:43](https://news.ycombinator.com/item?id=39966969) - [Let's Kerberos](https://www.imperialviolet.org/2024/04/07/letskerberos.html)
 * [2024-04-07, 09:32:53](https://news.ycombinator.com/item?id=39959592) - [Flyweight: A Node.js ORM Specifically for SQLite](https://github.com/thebinarysearchtree/flyweight)
 
 ## [Archives](archives/index.md)

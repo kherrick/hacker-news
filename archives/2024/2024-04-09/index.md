@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 16:30:37](https://news.ycombinator.com/item?id=39981122) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, dies aged 94](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
 * [2024-04-09, 16:03:08](https://news.ycombinator.com/item?id=39980849) - [The History of CP/M (1980) [txt]](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-09, 15:46:50](https://news.ycombinator.com/item?id=39980691) - [The Towns Outsmarting Airbnb](https://reasonstobecheerful.world/the-towns-outsmarting-airbnb/)
