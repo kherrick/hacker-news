@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-09, 12:40:41",
-      "https://news.ycombinator.com/item?id=39978778"
+      "2024-04-09, 12:40:59",
+      "https://news.ycombinator.com/item?id=39978781"
     ],
     [
-      "AI Consciousness Is Inevitable: A Theoretical Computer Science Perspective",
-      "https://arxiv.org/abs/2403.17101"
+      "Penpot 2.0 Released",
+      "https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:33:11",
+      "https://news.ycombinator.com/item?id=39978723"
+    ],
+    [
+      "The Eclipse via Satellite",
+      "https://kieranhealy.org/blog/archives/2024/04/09/the-eclipse-via-satellite/"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39978093"
     ],
     [
-      "Ollama: Embedding Models",
+      "Embedding models",
       "https://ollama.com/blog/embedding-models"
     ]
   ],
@@ -117,6 +127,16 @@
     [
       "SSSL – Hackless SSL bypass for the Wii U",
       "https://github.com/PretendoNetwork/SSSL"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 09:24:58",
+      "https://news.ycombinator.com/item?id=39977671"
+    ],
+    [
+      "Apple Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs",
+      "https://arxiv.org/abs/2404.05719"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-04-08, 09:07:37",
-      "https://news.ycombinator.com/item?id=39967709"
-    ],
-    [
-      "Hello World",
-      "https://thecoder08.github.io/hello-world.html"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 06:08:03",
       "https://news.ycombinator.com/item?id=39966685"
     ],
@@ -287,16 +297,6 @@
     [
       "Flyweight: A Node.js ORM Specifically for SQLite",
       "https://github.com/thebinarysearchtree/flyweight"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 19:06:00",
-      "https://news.ycombinator.com/item?id=39945887"
-    ],
-    [
-      "The Useful Village (2017)",
-      "https://www.vqronline.org/reporting-articles/2017/04/useful-village"
     ]
   ]
 ]
