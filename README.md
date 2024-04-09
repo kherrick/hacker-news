@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-09, 08:06:53](https://news.ycombinator.com/item?id=39977141) - [TSMC will build third Arizona fab after winning $6.6B in CHIPS funding](https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/)
 * [2024-04-09, 07:38:35](https://news.ycombinator.com/item?id=39977002) - [Interview with Yanis Varoufakis on Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
+* [2024-04-09, 05:27:45](https://news.ycombinator.com/item?id=39976387) - [How might software development have unfolded if CPU speeds were 20x slower?](https://news.ycombinator.com/item?id=39976387)
 * [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 02:58:18](https://news.ycombinator.com/item?id=39975887) - [MapSCII – A Braille and ASCII world map renderer for the console](https://github.com/rastapasta/mapscii)
 * [2024-04-09, 02:52:33](https://news.ycombinator.com/item?id=39975865) - [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
@@ -28,7 +28,7 @@
 * [2024-04-08, 03:29:23](https://news.ycombinator.com/item?id=39965966) - [Reviving an 800-Year-Old Japanese Tea Farm](https://www.nippon.com/en/japan-topics/c11602/)
 * [2024-04-07, 18:20:34](https://news.ycombinator.com/item?id=39962615) - [Re-creating Disney's sodium vapor process [video]](https://www.youtube.com/watch?v=UQuIVsNzqDk)
 * [2024-04-07, 10:29:00](https://news.ycombinator.com/item?id=39959813) - [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
-* [2024-04-06, 10:34:13](https://news.ycombinator.com/item?id=39951459) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
+* [2024-04-06, 06:01:08](https://news.ycombinator.com/item?id=39950351) - [Fear makes you a worse programmer (2014)](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 * [2024-04-06, 05:21:24](https://news.ycombinator.com/item?id=39950186) - [The Marvelous Seamounts of the Southeast Pacific](https://nautil.us/the-marvelous-seamounts-of-the-southeast-pacific-542868/)
 
 ## [Archives](archives/index.md)
