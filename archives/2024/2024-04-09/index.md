@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
 * [2024-04-09, 18:14:35](https://news.ycombinator.com/item?id=39982358) - [Show HN: AI reveals big companies secret strategies for business growth](https://www.edom.ai/)
 * [2024-04-09, 17:50:57](https://news.ycombinator.com/item?id=39982098) - [OpenAI prepares to fight for its life as legal troubles mount](https://www.msn.com/en-us/news/politics/openai-prepares-to-fight-for-its-life-as-legal-troubles-mount/ar-BB1lk4ei)
 * [2024-04-09, 17:45:40](https://news.ycombinator.com/item?id=39982033) - [FAA Investigates Claims by Boeing Whistle-Blower About Flaws in 787 Dreamliner](https://www.nytimes.com/2024/04/09/us/politics/boeing-787-dreamliner-whistle-blower.html)
