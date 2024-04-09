@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-09, 08:06:53",
-      "https://news.ycombinator.com/item?id=39977141"
-    ],
-    [
-      "TSMC will build third Arizona fab after winning $6.6B in CHIPS funding",
-      "https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 07:38:35",
       "https://news.ycombinator.com/item?id=39977002"
     ],
@@ -27,6 +17,16 @@
     [
       "Show HN: I made a discrete logic network card",
       "https://qdiv.dev/posts/eth2/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 05:27:45",
+      "https://news.ycombinator.com/item?id=39976387"
+    ],
+    [
+      "How might software development have unfolded if CPU speeds were 20x slower?",
+      "https://news.ycombinator.com/item?id=39976387"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-04-06, 10:34:13",
-      "https://news.ycombinator.com/item?id=39951459"
+      "2024-04-06, 06:01:08",
+      "https://news.ycombinator.com/item?id=39950351"
     ],
     [
-      "Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code",
-      "https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly"
+      "Fear makes you a worse programmer (2014)",
+      "https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/"
     ]
   ],
   [
