@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-09, 17:45:00",
+      "https://news.ycombinator.com/item?id=39982024"
+    ],
+    [
+      "Cow Magnets",
+      "https://www.stanfordmagnets.com/cow-magnets.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 17:43:57",
+      "https://news.ycombinator.com/item?id=39982011"
+    ],
+    [
+      "PS1 Programming Course with MIPS Assembly and C",
+      "https://pikuma.com/courses/ps1-programming-mips-assembly-language"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 17:38:59",
       "https://news.ycombinator.com/item?id=39981945"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39981550"
     ],
     [
-      "Fairbuds: In-Ear with Replaceable Batteries",
+      "Fairbuds: In-ear with replaceable batteries",
       "https://shop.fairphone.com/fairbuds"
     ]
   ],
@@ -75,18 +95,8 @@
       "https://news.ycombinator.com/item?id=39980849"
     ],
     [
-      "The History of CP/M (1980) [txt]",
+      "The History of CP/M (1980)",
       "https://www.retrotechnology.com/dri/CPM_history_kildall.txt"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 15:10:28",
-      "https://news.ycombinator.com/item?id=39980278"
-    ],
-    [
-      "Google's Chrome antitrust paradox",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Beeper acquired by Automattic",
       "https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 14:55:54",
-      "https://news.ycombinator.com/item?id=39980122"
-    ],
-    [
-      "With Vids, Google thinks it has the next big productivity tool for work",
-      "https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39979750"
     ],
     [
-      "New Grafana Loki UI: No LogQL Required",
+      "Preview of Explore Logs, a new way to browse your logs without writing LogQL",
       "https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=39979078"
     ],
     [
-      "Writing highly scalable backends in UDP",
+      "Writing scalable backends in UDP",
       "https://mas-bandwidth.com/writing-highly-scalable-backends-in-udp/"
     ]
   ],
@@ -191,12 +191,22 @@
   ],
   [
     [
-      "2024-04-09, 10:03:53",
-      "https://news.ycombinator.com/item?id=39977862"
+      "2024-04-09, 11:41:18",
+      "https://news.ycombinator.com/item?id=39978396"
     ],
     [
-      "SSSL – Hackless SSL bypass for the Wii U",
-      "https://github.com/PretendoNetwork/SSSL"
+      "Total eclipse of the Internet: traffic impacts in Mexico, the US, and Canada",
+      "https://blog.cloudflare.com/total-eclipse-internet-traffic-impacts-mexico-us-canada"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 10:56:31",
+      "https://news.ycombinator.com/item?id=39978108"
+    ],
+    [
+      "AutoCodeRover: Autonomous Program Improvement",
+      "https://github.com/nus-apr/auto-code-rover"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2024-04-09, 08:59:15",
-      "https://news.ycombinator.com/item?id=39977522"
+      "2024-04-09, 07:48:11",
+      "https://news.ycombinator.com/item?id=39977058"
     ],
     [
-      "The Internet Archive Just Backed Up an Entire Caribbean Island",
-      "https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/"
+      "The U.S. government may finally mandate safer table saws",
+      "https://www.npr.org/2024/04/02/1241148577/table-saw-injuries-safety-sawstop-cpsc"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=39976986"
     ],
     [
-      "Computing the Eclipse: Astronomy in the Wolfram Language",
+      "Computing the Eclipse",
       "https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=39976472"
     ],
     [
-      "Chasing Resets",
+      "Chasing resets",
       "https://zipcpu.com/blog/2024/04/01/chasing-resets.html"
     ]
   ],
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=39976225"
     ],
     [
-      "How I Tripped Over the Debian Weak Keys Vulnerability",
+      "How I tripped over the Debian weak keys vulnerability",
       "https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 18:47:31",
-      "https://news.ycombinator.com/item?id=39972586"
-    ],
-    [
-      "Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel",
-      "https://github.com/larryboyko/dimityjones"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39971873"
     ],
     [
-      "Chronon, Airbnb's ML Feature Platform, Is Now Open Source",
+      "Chronon, Airbnb's ML feature platform, is now open source",
       "https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8"
     ]
   ],
