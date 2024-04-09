@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-09, 17:17:55",
+      "https://news.ycombinator.com/item?id=39981656"
+    ],
+    [
+      "Monitoring PFAS pollutants in king penguins",
+      "https://www.chemistryworld.com/news/monitoring-pfas-pollutants-in-king-penguins/4019254.article"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 17:15:53",
+      "https://news.ycombinator.com/item?id=39981623"
+    ],
+    [
+      "ScreenAI: A visual LLM for UI and visually-situated language understanding",
+      "https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 17:09:51",
       "https://news.ycombinator.com/item?id=39981550"
     ],
@@ -57,16 +77,6 @@
     [
       "Beeper acquired by Automattic",
       "https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 14:37:46",
-      "https://news.ycombinator.com/item?id=39979927"
-    ],
-    [
-      "Freenginx 1.26.0",
-      "https://freenginx.org/en/CHANGES-1.26"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Let's Kerberos",
       "https://www.imperialviolet.org/2024/04/07/letskerberos.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 09:32:53",
-      "https://news.ycombinator.com/item?id=39959592"
-    ],
-    [
-      "Flyweight: A Node.js ORM Specifically for SQLite",
-      "https://github.com/thebinarysearchtree/flyweight"
     ]
   ]
 ]
