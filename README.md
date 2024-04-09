@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-09, 02:52:33](https://news.ycombinator.com/item?id=39975865) - [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
 * [2024-04-09, 01:51:27](https://news.ycombinator.com/item?id=39975596) - [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
 * [2024-04-09, 01:08:09](https://news.ycombinator.com/item?id=39975366) - [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
 * [2024-04-09, 01:04:27](https://news.ycombinator.com/item?id=39975346) - [Genesis of the “Golfball” Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
@@ -20,7 +21,6 @@
 * [2024-04-08, 14:14:44](https://news.ycombinator.com/item?id=39969929) - [It's Dante's hell – we're just living in it](https://www.neh.gov/article/its-dantes-hell-were-just-living-it)
 * [2024-04-08, 13:20:36](https://news.ycombinator.com/item?id=39969448) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
 * [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
-* [2024-04-08, 12:26:08](https://news.ycombinator.com/item?id=39968973) - [Cultivating minds: The psychological consequences of rice versus wheat farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
 * [2024-04-08, 10:52:00](https://news.ycombinator.com/item?id=39968382) - [How engineers at Digital Equipment Corp. saved Ethernet](https://spectrum.ieee.org/how-dec-engineers-saved-ethernet)
 * [2024-04-08, 09:07:37](https://news.ycombinator.com/item?id=39967709) - [Hello World](https://thecoder08.github.io/hello-world.html)
 * [2024-04-08, 08:08:54](https://news.ycombinator.com/item?id=39967345) - [Workman Layout for Vim](https://axiomatic.neophilus.net/workman-layout-for-vim/)

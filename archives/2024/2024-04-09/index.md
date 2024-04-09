@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 02:52:33](https://news.ycombinator.com/item?id=39975865) - [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
 * [2024-04-09, 01:51:27](https://news.ycombinator.com/item?id=39975596) - [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
 * [2024-04-09, 01:21:50](https://news.ycombinator.com/item?id=39975442) - [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://ntietz.com/blog/firefox-and-the-free-web/)
 * [2024-04-09, 01:08:09](https://news.ycombinator.com/item?id=39975366) - [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
