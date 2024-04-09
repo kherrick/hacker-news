@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-09, 13:23:09",
+      "https://news.ycombinator.com/item?id=39979179"
+    ],
+    [
+      "FCC chair rejects call to impose Universal Service fees on broadband",
+      "https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:53:35",
+      "https://news.ycombinator.com/item?id=39978886"
+    ],
+    [
+      "The Future of Pretendo After Nintendo Network",
+      "https://pretendo.network/blog/4-8-24"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 12:40:59",
       "https://news.ycombinator.com/item?id=39978781"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2024-04-09, 12:33:11",
-      "https://news.ycombinator.com/item?id=39978723"
+      "2024-04-09, 12:32:05",
+      "https://news.ycombinator.com/item?id=39978717"
     ],
     [
-      "The Eclipse via Satellite",
-      "https://kieranhealy.org/blog/archives/2024/04/09/the-eclipse-via-satellite/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 12:24:51",
-      "https://news.ycombinator.com/item?id=39978657"
-    ],
-    [
-      "Airlines in the U.S. charge separately for checked bags in order to reduce tax",
-      "https://theconversation.com/why-do-airlines-charge-so-much-for-checked-bags-this-obscure-rule-helps-explain-why-225857"
+      "Google CodeGemma: Open Code Models Based on Gemma [pdf]",
+      "https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf"
     ]
   ],
   [
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2024-04-09, 10:54:20",
-      "https://news.ycombinator.com/item?id=39978093"
+      "2024-04-09, 10:48:19",
+      "https://news.ycombinator.com/item?id=39978064"
     ],
     [
-      "Embedding models",
-      "https://ollama.com/blog/embedding-models"
+      "Lessons learned from manually classifying CIFAR-10 (2011)",
+      "http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux",
       "https://www.muppetlabs.com/%7Ebreadbox/software/tiny/teensy.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 08:24:10",
-      "https://news.ycombinator.com/item?id=39977231"
-    ],
-    [
-      "Sqlime: Online SQLite Playground",
-      "https://github.com/nalgeon/sqlime"
     ]
   ],
   [
