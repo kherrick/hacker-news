@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-09, 17:09:51](https://news.ycombinator.com/item?id=39981550) - [Fairbuds: In-Ear with Replaceable Batteries](https://shop.fairphone.com/fairbuds)
-* [2024-04-09, 16:49:06](https://news.ycombinator.com/item?id=39981306) - [Peter Higgs Has Died](https://mailings.ed.ac.uk/cr/AQiw9w4Q29loGLayuDKygkUHzYdbMkJ3l7YZR220i7qIV4A2vPfu2ywkdzGpOQ)
-* [2024-04-09, 16:30:37](https://news.ycombinator.com/item?id=39981122) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 * [2024-04-09, 16:03:08](https://news.ycombinator.com/item?id=39980849) - [The History of CP/M (1980) [txt]](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
@@ -19,6 +17,7 @@
 * [2024-04-09, 11:31:55](https://news.ycombinator.com/item?id=39978332) - [SeL4 Device Driver Framework 0.4.0](https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/)
 * [2024-04-09, 10:03:53](https://news.ycombinator.com/item?id=39977862) - [SSSL – Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 * [2024-04-09, 09:59:16](https://news.ycombinator.com/item?id=39977845) - [Show HN: DualShock calibration in the browser using WebHID](https://blog.the.al/2024/04/09/dualshock-calibration-in-the-browser.html)
+* [2024-04-09, 09:56:49](https://news.ycombinator.com/item?id=39977831) - [The Lonely Funeral Project in Amsterdam](https://www.upworthy.com/the-lonely-funeral-project)
 * [2024-04-09, 08:59:15](https://news.ycombinator.com/item?id=39977522) - [The Internet Archive Just Backed Up an Entire Caribbean Island](https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 05:47:03](https://news.ycombinator.com/item?id=39976472) - [Chasing Resets](https://zipcpu.com/blog/2024/04/01/chasing-resets.html)
@@ -30,6 +29,7 @@
 * [2024-04-08, 18:47:31](https://news.ycombinator.com/item?id=39972586) - [Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel](https://github.com/larryboyko/dimityjones)
 * [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 06:59:43](https://news.ycombinator.com/item?id=39966969) - [Let's Kerberos](https://www.imperialviolet.org/2024/04/07/letskerberos.html)
+* [2024-04-07, 09:32:53](https://news.ycombinator.com/item?id=39959592) - [Flyweight: A Node.js ORM Specifically for SQLite](https://github.com/thebinarysearchtree/flyweight)
 
 ## [Archives](archives/index.md)
 
