@@ -17,7 +17,7 @@
 * [2024-04-09, 14:23:26](https://news.ycombinator.com/item?id=39979750) - [Preview of Explore Logs, a new way to browse your logs without writing LogQL](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 * [2024-04-09, 13:45:04](https://news.ycombinator.com/item?id=39979375) - [India’s electric rickshaws](https://restofworld.org/2024/e-rickshaw-yc-electric-india/)
 * [2024-04-09, 13:18:34](https://news.ycombinator.com/item?id=39979140) - [Supreme Commander Graphics Study (2015)](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
-* [2024-04-09, 12:40:09](https://news.ycombinator.com/item?id=39978774) - [Steven Levitt and John Donohue defend a finding made famous by \"Freakonomics\"](https://www.economist.com/by-invitation/2024/04/08/steven-levitt-and-john-donohue-defend-a-finding-made-famous-by-freakonomics)
+* [2024-04-09, 12:40:09](https://news.ycombinator.com/item?id=39978774) - [Steven Levitt and John Donohue defend abortion-crime hypothesis](https://www.economist.com/by-invitation/2024/04/08/steven-levitt-and-john-donohue-defend-a-finding-made-famous-by-freakonomics)
 * [2024-04-09, 12:32:05](https://news.ycombinator.com/item?id=39978717) - [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
 * [2024-04-09, 12:24:04](https://news.ycombinator.com/item?id=39978653) - [Anger is eliminated with the disposal of a paper written because of provocation](https://www.nature.com/articles/s41598-024-57916-z)
 * [2024-04-09, 10:56:31](https://news.ycombinator.com/item?id=39978108) - [AutoCodeRover: Autonomous Program Improvement](https://github.com/nus-apr/auto-code-rover)
