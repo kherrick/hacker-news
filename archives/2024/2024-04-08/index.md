@@ -90,6 +90,7 @@
 * [2024-04-08, 06:48:56](https://news.ycombinator.com/item?id=39966909) - [What Neuralink Is Missing](https://www.theatlantic.com/technology/archive/2024/04/neuralink-bci-implant/677996/)
 * [2024-04-08, 06:19:51](https://news.ycombinator.com/item?id=39966743) - [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
 * [2024-04-08, 06:17:10](https://news.ycombinator.com/item?id=39966734) - [X's AI Bot Is Reporting Joke Posts as Actual News](https://lifehacker.com/tech/grok-is-making-up-fake-news-on-x)
+* [2024-04-08, 06:08:03](https://news.ycombinator.com/item?id=39966685) - [Quartz Crystals – Twinning (2016)](http://www.quartzpage.de/crs_twins.html)
 * [2024-04-08, 05:56:00](https://news.ycombinator.com/item?id=39966618) - [Canadians are asking their government to federate](https://www.theverge.com/2024/4/6/24122765/canadians-are-asking-their-government-to-federate)
 * [2024-04-08, 05:41:15](https://news.ycombinator.com/item?id=39966534) - [Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
 * [2024-04-08, 05:01:00](https://news.ycombinator.com/item?id=39966345) - [Spotify launches personalized AI playlists that you can build using prompts](https://techcrunch.com/2024/04/07/spotify-launches-personalized-ai-playlists-you-can-build-using-prompts/)

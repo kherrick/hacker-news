@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 07:08:08](https://news.ycombinator.com/item?id=39976856) - [Blogs strip off for CSS Naked Day](https://shkspr.mobi/blog/2020/04/this-blog-strips-off-for-css-naked-day/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:12:08](https://news.ycombinator.com/item?id=39976577) - [Viewing the 2024 Solar Eclipse with Commodore 64's 1984 Sky Travel [video]](https://www.youtube.com/watch?v=gipFvhEMB0I)
 * [2024-04-09, 05:48:37](https://news.ycombinator.com/item?id=39976483) - [Bay Area Workers Charged for Building Secret Apartments Inside Train Stations](https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/)
