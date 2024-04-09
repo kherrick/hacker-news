@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 18:14:35](https://news.ycombinator.com/item?id=39982358) - [Show HN: AI reveals big companies secret strategies for business growth](https://www.edom.ai/)
 * [2024-04-09, 17:50:57](https://news.ycombinator.com/item?id=39982098) - [OpenAI prepares to fight for its life as legal troubles mount](https://www.msn.com/en-us/news/politics/openai-prepares-to-fight-for-its-life-as-legal-troubles-mount/ar-BB1lk4ei)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
 * [2024-04-09, 17:43:57](https://news.ycombinator.com/item?id=39982011) - [PS1 Programming Course with MIPS Assembly and C](https://pikuma.com/courses/ps1-programming-mips-assembly-language)
