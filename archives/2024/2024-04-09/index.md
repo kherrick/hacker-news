@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 07:44:33](https://news.ycombinator.com/item?id=39977039) - [Tesla's Cybertrucks were 'rushed out,' are malfunctioning at astounding rate](https://nypost.com/2024/04/08/business/teslas-cybertrucks-were-rushed-out-are-malfunctioning-at-astounding-rate/)
+* [2024-04-09, 07:38:35](https://news.ycombinator.com/item?id=39977002) - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
 * [2024-04-09, 07:08:08](https://news.ycombinator.com/item?id=39976856) - [Blogs strip off for CSS Naked Day](https://shkspr.mobi/blog/2020/04/this-blog-strips-off-for-css-naked-day/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:12:08](https://news.ycombinator.com/item?id=39976577) - [Viewing the 2024 Solar Eclipse with Commodore 64's 1984 Sky Travel [video]](https://www.youtube.com/watch?v=gipFvhEMB0I)
