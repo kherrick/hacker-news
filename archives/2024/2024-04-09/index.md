@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 10:03:53](https://news.ycombinator.com/item?id=39977862) - [SSSL – Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 * [2024-04-09, 09:43:08](https://news.ycombinator.com/item?id=39977756) - [Switzerland faces landmark climate-human rights ruling](https://www.swissinfo.ch/eng/science/historic-verdict-could-link-climate-crisis-and-human-rights/75321434)
 * [2024-04-09, 08:24:10](https://news.ycombinator.com/item?id=39977231) - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
 * [2024-04-09, 08:06:53](https://news.ycombinator.com/item?id=39977141) - [TSMC will build third Arizona fab after winning $6.6B in CHIPS funding](https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/)
