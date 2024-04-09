@@ -28,8 +28,8 @@
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:05:56](https://news.ycombinator.com/item?id=39976557) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
 * [2024-04-08, 17:37:44](https://news.ycombinator.com/item?id=39971984) - [Show HN: Neco – Coroutine Library for C](https://github.com/tidwall/neco)
-* [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML feature platform, is now open source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 09:26:52](https://news.ycombinator.com/item?id=39967864) - [MIPS stacktrace: an unexpected journey](https://smeso.it/2024/03/02/mips-stacktrace-an-unexpected-journey.html)
+* [2024-04-08, 05:01:45](https://news.ycombinator.com/item?id=39966349) - [Orange Meets: a demo application built using Cloudflare Calls](https://github.com/cloudflare/orange)
 
 ## [Archives](archives/index.md)
 
