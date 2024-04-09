@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 13:45:04](https://news.ycombinator.com/item?id=39979375) - [India's electric rickshaws are leaving EVs in the dust, like YC Electric](https://restofworld.org/2024/e-rickshaw-yc-electric-india/)
+* [2024-04-09, 13:24:28](https://news.ycombinator.com/item?id=39979192) - [What makes a great software engineer [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf)
 * [2024-04-09, 13:23:09](https://news.ycombinator.com/item?id=39979179) - [FCC chair rejects call to impose Universal Service fees on broadband](https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/)
 * [2024-04-09, 12:53:35](https://news.ycombinator.com/item?id=39978886) - [The Future of Pretendo After Nintendo Network](https://pretendo.network/blog/4-8-24)
 * [2024-04-09, 12:40:59](https://news.ycombinator.com/item?id=39978781) - [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
@@ -30,6 +32,7 @@
 * [2024-04-09, 09:02:51](https://news.ycombinator.com/item?id=39977537) - [A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux](https://www.muppetlabs.com/%7Ebreadbox/software/tiny/teensy.html)
 * [2024-04-09, 08:24:10](https://news.ycombinator.com/item?id=39977231) - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
 * [2024-04-09, 08:06:53](https://news.ycombinator.com/item?id=39977141) - [TSMC will build third Arizona fab after winning $6.6B in CHIPS funding](https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/)
+* [2024-04-09, 07:48:11](https://news.ycombinator.com/item?id=39977058) - [After years of trying, the U.S. government may mandate safer table saws](https://www.npr.org/2024/04/02/1241148577/table-saw-injuries-safety-sawstop-cpsc)
 * [2024-04-09, 07:44:33](https://news.ycombinator.com/item?id=39977039) - [Tesla's Cybertrucks were 'rushed out,' are malfunctioning at astounding rate](https://nypost.com/2024/04/08/business/teslas-cybertrucks-were-rushed-out-are-malfunctioning-at-astounding-rate/)
 * [2024-04-09, 07:38:35](https://news.ycombinator.com/item?id=39977002) - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
 * [2024-04-09, 07:08:08](https://news.ycombinator.com/item?id=39976856) - [Blogs strip off for CSS Naked Day](https://shkspr.mobi/blog/2020/04/this-blog-strips-off-for-css-naked-day/)
