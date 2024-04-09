@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 21:01:39](https://news.ycombinator.com/item?id=39984209) - [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 * [2024-04-09, 20:30:56](https://news.ycombinator.com/item?id=39983915) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 * [2024-04-09, 20:30:33](https://news.ycombinator.com/item?id=39983910) - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
+* [2024-04-09, 20:21:31](https://news.ycombinator.com/item?id=39983810) - [How we built the Find My Device network with user security and privacy in mind](https://security.googleblog.com/2024/04/find-my-device-network-security-privacy-protections.html)
 * [2024-04-09, 20:00:36](https://news.ycombinator.com/item?id=39983612) - [PostHog: Side Project Insurance](https://github.com/PostHog/posthog.com/pull/8226)
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 19:20:56](https://news.ycombinator.com/item?id=39983145) - [Patches released for as many as 91,000 hackable LG TVs exposed to the Internet](https://arstechnica.com/security/2024/04/patches-released-for-as-many-as-91000-hackable-lg-tvs-exposed-to-the-internet/)
+* [2024-04-09, 19:08:06](https://news.ycombinator.com/item?id=39983018) - [Stalwart mail server (self-hosted all-in-one mail server) now as an admin webui](https://stalw.art/blog/stalwart-webadmin/)
 * [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
 * [2024-04-09, 18:42:47](https://news.ycombinator.com/item?id=39982688) - [Complexity Is the Enemy](https://neugierig.org/software/blog/2011/04/complexity.html)
 * [2024-04-09, 18:39:45](https://news.ycombinator.com/item?id=39982659) - [Fairphone's Fairbuds are repairable Bluetooth earbuds with replaceable batteries](https://liliputing.com/fairphones-fairbuds-are-true-wireless-earbuds-with-repairable-design-and-user-replaceable-batteries/)
