@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 11:38:47](https://news.ycombinator.com/item?id=39978377) - [Telegram Remote Code Exploit](https://twitter.com/CertiKAlert/status/1777634014049796181)
+* [2024-04-09, 11:32:55](https://news.ycombinator.com/item?id=39978341) - [BYD is launching its next-gen Blade EV battery – more range and even lower cost](https://electrek.co/2024/04/08/byd-launch-next-gen-ev-battery-more-range-lower-price/)
+* [2024-04-09, 10:56:31](https://news.ycombinator.com/item?id=39978108) - [AutoCodeRover resolves 22% of real-world GitHub issues in SWE-bench lite](https://github.com/nus-apr/auto-code-rover)
 * [2024-04-09, 10:32:26](https://news.ycombinator.com/item?id=39977995) - [European court rules human rights violated by climate inaction](https://www.bbc.co.uk/news/science-environment-68768598)
 * [2024-04-09, 10:20:40](https://news.ycombinator.com/item?id=39977939) - [Computational limits to the legibility of the imaged human brain](https://www.sciencedirect.com/science/article/pii/S1053811924000958)
 * [2024-04-09, 10:03:53](https://news.ycombinator.com/item?id=39977862) - [SSSL – Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
