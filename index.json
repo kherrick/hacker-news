@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 04:36:04",
+      "https://news.ycombinator.com/item?id=39976225"
+    ],
+    [
+      "How I Tripped Over the Debian Weak Keys Vulnerability",
+      "https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 03:49:43",
       "https://news.ycombinator.com/item?id=39976064"
     ],
@@ -27,16 +37,6 @@
     [
       "Distributed SQLite: Paradigm shift or hype?",
       "https://kerkour.com/distributed-sqlite"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 01:36:53",
-      "https://news.ycombinator.com/item?id=39975521"
-    ],
-    [
-      "Understanding Memory Safety in the Rust Programming Language",
-      "https://coderoasis.com/rust-lang-memory-safety/"
     ]
   ],
   [
