@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 19:50:43",
+      "https://news.ycombinator.com/item?id=39983490"
+    ],
+    [
+      "A MySQL compatible database engine written in pure Go",
+      "https://github.com/dolthub/go-mysql-server"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 18:53:54",
       "https://news.ycombinator.com/item?id=39982818"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2024-04-09, 18:39:45",
-      "https://news.ycombinator.com/item?id=39982659"
+      "2024-04-09, 18:42:47",
+      "https://news.ycombinator.com/item?id=39982688"
     ],
     [
-      "Fairphone's Fairbuds are repairable Bluetooth earbuds with replaceable batteries",
-      "https://liliputing.com/fairphones-fairbuds-are-true-wireless-earbuds-with-repairable-design-and-user-replaceable-batteries/"
+      "Complexity Is the Enemy",
+      "https://neugierig.org/software/blog/2011/04/complexity.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 18:14:47",
+      "https://news.ycombinator.com/item?id=39982362"
+    ],
+    [
+      "Evaluating faithfulness and content selection of LLMs in book-length summaries",
+      "https://arxiv.org/abs/2404.01261"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-04-09, 14:55:54",
-      "https://news.ycombinator.com/item?id=39980122"
-    ],
-    [
-      "With Vids, Google thinks it has the next big productivity tool for work",
-      "https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 14:27:53",
       "https://news.ycombinator.com/item?id=39979806"
     ],
@@ -187,6 +197,16 @@
     [
       "Anger is eliminated with the disposal of a paper written because of provocation",
       "https://www.nature.com/articles/s41598-024-57916-z"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 11:47:30",
+      "https://news.ycombinator.com/item?id=39978434"
+    ],
+    [
+      "Social Skill Training with Large Language Models",
+      "https://arxiv.org/abs/2404.04204"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-04-09, 04:36:04",
-      "https://news.ycombinator.com/item?id=39976225"
-    ],
-    [
-      "How I tripped over the Debian weak keys vulnerability",
-      "https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 17:27:11",
       "https://news.ycombinator.com/item?id=39971873"
     ],
     [
       "Chronon, Airbnb's ML feature platform, is now open source",
       "https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 12:31:40",
-      "https://news.ycombinator.com/item?id=39969015"
-    ],
-    [
-      "A frozen lake and several Lamborghinis provide lessons on traction control",
-      "https://arstechnica.com/cars/2024/04/a-frozen-lake-and-several-lamborghinis-provide-lessons-on-traction-control/"
     ]
   ],
   [
