@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-09, 09:43:08](https://news.ycombinator.com/item?id=39977756) - [Switzerland faces landmark climate-human rights ruling](https://www.swissinfo.ch/eng/science/historic-verdict-could-link-climate-crisis-and-human-rights/75321434)
 * [2024-04-09, 08:24:10](https://news.ycombinator.com/item?id=39977231) - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
 * [2024-04-09, 07:38:35](https://news.ycombinator.com/item?id=39977002) - [Interview with Yanis Varoufakis on Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
@@ -20,9 +21,7 @@
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
 * [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [Lore Harp McGovern built a microcomputer empire from her suburban home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 12:51:00](https://news.ycombinator.com/item?id=39969174) - [A Description of the Differential Expansive Pumping Engine [pdf]](https://dn790001.ca.archive.org/0/items/descriptionofdif00daverich/descriptionofdif00daverich.pdf)
-* [2024-04-08, 10:52:00](https://news.ycombinator.com/item?id=39968382) - [How engineers at Digital Equipment Corp. saved Ethernet](https://spectrum.ieee.org/how-dec-engineers-saved-ethernet)
 * [2024-04-08, 09:07:37](https://news.ycombinator.com/item?id=39967709) - [Hello World](https://thecoder08.github.io/hello-world.html)
-* [2024-04-08, 06:49:59](https://news.ycombinator.com/item?id=39966918) - [How much faster are the Gnome 46 terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 06:08:03](https://news.ycombinator.com/item?id=39966685) - [Quartz Crystals – Twinning (2016)](http://www.quartzpage.de/crs_twins.html)
 * [2024-04-08, 03:29:23](https://news.ycombinator.com/item?id=39965966) - [Reviving an 800-Year-Old Japanese Tea Farm](https://www.nippon.com/en/japan-topics/c11602/)
 * [2024-04-07, 18:20:34](https://news.ycombinator.com/item?id=39962615) - [Re-creating Disney's sodium vapor process [video]](https://www.youtube.com/watch?v=UQuIVsNzqDk)
@@ -30,6 +29,7 @@
 * [2024-04-07, 09:32:53](https://news.ycombinator.com/item?id=39959592) - [Flyweight: A Node.js ORM Specifically for SQLite](https://github.com/thebinarysearchtree/flyweight)
 * [2024-04-06, 06:01:08](https://news.ycombinator.com/item?id=39950351) - [Fear makes you a worse programmer (2014)](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 * [2024-04-06, 05:21:24](https://news.ycombinator.com/item?id=39950186) - [The Marvelous Seamounts of the Southeast Pacific](https://nautil.us/the-marvelous-seamounts-of-the-southeast-pacific-542868/)
+* [2024-04-05, 19:06:00](https://news.ycombinator.com/item?id=39945887) - [The Useful Village (2017)](https://www.vqronline.org/reporting-articles/2017/04/useful-village)
 
 ## [Archives](archives/index.md)
 
