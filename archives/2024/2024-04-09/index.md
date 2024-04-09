@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 17:38:59](https://news.ycombinator.com/item?id=39981945) - [Zed Decoded: Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 * [2024-04-09, 17:17:55](https://news.ycombinator.com/item?id=39981656) - [Monitoring PFAS pollutants in king penguins](https://www.chemistryworld.com/news/monitoring-pfas-pollutants-in-king-penguins/4019254.article)
 * [2024-04-09, 17:15:53](https://news.ycombinator.com/item?id=39981623) - [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 * [2024-04-09, 17:09:51](https://news.ycombinator.com/item?id=39981550) - [Fairbuds: In-Ear with Replaceable Batteries](https://shop.fairphone.com/fairbuds)
+* [2024-04-09, 16:59:49](https://news.ycombinator.com/item?id=39981423) - [Virtual Colossus](https://www.virtualcolossus.co.uk/colossus3d/)
 * [2024-04-09, 16:49:06](https://news.ycombinator.com/item?id=39981306) - [Peter Higgs Has Died](https://mailings.ed.ac.uk/cr/AQiw9w4Q29loGLayuDKygkUHzYdbMkJ3l7YZR220i7qIV4A2vPfu2ywkdzGpOQ)
 * [2024-04-09, 16:30:37](https://news.ycombinator.com/item?id=39981122) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
 * [2024-04-09, 16:22:05](https://news.ycombinator.com/item?id=39981037) - [San Francisco-to-L.A. overnight train inches closer to reality](https://ktla.com/news/california/san-francisco-to-l-a-overnight-train-inches-closer-to-reality/)
@@ -64,6 +66,7 @@
 * [2024-04-09, 07:48:11](https://news.ycombinator.com/item?id=39977058) - [After years of trying, the U.S. government may mandate safer table saws](https://www.npr.org/2024/04/02/1241148577/table-saw-injuries-safety-sawstop-cpsc)
 * [2024-04-09, 07:44:33](https://news.ycombinator.com/item?id=39977039) - [Tesla's Cybertrucks were 'rushed out,' are malfunctioning at astounding rate](https://nypost.com/2024/04/08/business/teslas-cybertrucks-were-rushed-out-are-malfunctioning-at-astounding-rate/)
 * [2024-04-09, 07:38:35](https://news.ycombinator.com/item?id=39977002) - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
+* [2024-04-09, 07:34:23](https://news.ycombinator.com/item?id=39976986) - [Computing the Eclipse: Astronomy in the Wolfram Language](https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/)
 * [2024-04-09, 07:23:35](https://news.ycombinator.com/item?id=39976935) - [SiFive Premier P550 RISC-V development board](https://www.sifive.com/boards/hifive-premier-p550)
 * [2024-04-09, 07:08:08](https://news.ycombinator.com/item?id=39976856) - [Blogs strip off for CSS Naked Day](https://shkspr.mobi/blog/2020/04/this-blog-strips-off-for-css-naked-day/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
