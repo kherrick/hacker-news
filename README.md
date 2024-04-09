@@ -21,6 +21,7 @@
 * [2024-04-08, 14:14:44](https://news.ycombinator.com/item?id=39969929) - [It's Dante's hell – we're just living in it](https://www.neh.gov/article/its-dantes-hell-were-just-living-it)
 * [2024-04-08, 13:20:36](https://news.ycombinator.com/item?id=39969448) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
 * [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
+* [2024-04-08, 12:26:08](https://news.ycombinator.com/item?id=39968973) - [Cultivating minds: The psychological consequences of rice versus wheat farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
 * [2024-04-08, 10:52:00](https://news.ycombinator.com/item?id=39968382) - [How engineers at Digital Equipment Corp. saved Ethernet](https://spectrum.ieee.org/how-dec-engineers-saved-ethernet)
 * [2024-04-08, 09:07:37](https://news.ycombinator.com/item?id=39967709) - [Hello World](https://thecoder08.github.io/hello-world.html)
 * [2024-04-08, 08:08:54](https://news.ycombinator.com/item?id=39967345) - [Workman Layout for Vim](https://axiomatic.neophilus.net/workman-layout-for-vim/)
@@ -29,7 +30,6 @@
 * [2024-04-07, 12:04:49](https://news.ycombinator.com/item?id=39960190) - [Minibone: practical end-to-end encryption for web apps](https://github.com/backbone-hq/minibone)
 * [2024-04-07, 10:29:00](https://news.ycombinator.com/item?id=39959813) - [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
 * [2024-04-06, 06:01:08](https://news.ycombinator.com/item?id=39950351) - [Fear makes you a worse programmer (2014)](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
-* [2024-04-06, 05:21:24](https://news.ycombinator.com/item?id=39950186) - [The Marvelous Seamounts of the Southeast Pacific](https://nautil.us/the-marvelous-seamounts-of-the-southeast-pacific-542868/)
 
 ## [Archives](archives/index.md)
 
