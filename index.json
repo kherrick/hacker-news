@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-04-09, 14:23:26",
-      "https://news.ycombinator.com/item?id=39979750"
-    ],
-    [
-      "Preview of Explore Logs, a new way to browse your logs without writing LogQL",
-      "https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 13:45:04",
       "https://news.ycombinator.com/item?id=39979375"
     ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=39978774"
     ],
     [
-      "Steven Levitt and John Donohue defend abortion-crime hypothesis",
+      "Steven Levitt and John Donohue defend the abortion-crime hypothesis",
       "https://www.economist.com/by-invitation/2024/04/08/steven-levitt-and-john-donohue-defend-a-finding-made-famous-by-freakonomics"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Anger is eliminated with the disposal of a paper written because of provocation",
       "https://www.nature.com/articles/s41598-024-57916-z"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:12:51",
+      "https://news.ycombinator.com/item?id=39978577"
+    ],
+    [
+      "Google Axion Processors – Arm-based CPUs designed for the data center",
+      "https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/"
     ]
   ],
   [
@@ -261,22 +261,12 @@
   ],
   [
     [
-      "2024-04-09, 05:47:03",
-      "https://news.ycombinator.com/item?id=39976472"
+      "2024-04-08, 17:37:44",
+      "https://news.ycombinator.com/item?id=39971984"
     ],
     [
-      "Chasing resets",
-      "https://zipcpu.com/blog/2024/04/01/chasing-resets.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 18:47:31",
-      "https://news.ycombinator.com/item?id=39972586"
-    ],
-    [
-      "Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel",
-      "https://github.com/larryboyko/dimityjones"
+      "Show HN: Neco – Coroutine Library for C",
+      "https://github.com/tidwall/neco"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Chronon, Airbnb's ML feature platform, is now open source",
       "https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 09:26:52",
+      "https://news.ycombinator.com/item?id=39967864"
+    ],
+    [
+      "MIPS stacktrace: an unexpected journey",
+      "https://smeso.it/2024/03/02/mips-stacktrace-an-unexpected-journey.html"
     ]
   ],
   [
