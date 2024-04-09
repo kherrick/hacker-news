@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 12:40:59](https://news.ycombinator.com/item?id=39978781) - [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
 * [2024-04-09, 12:40:41](https://news.ycombinator.com/item?id=39978778) - [AI Consciousness Is Inevitable: A Theoretical Computer Science Perspective](https://arxiv.org/abs/2403.17101)
+* [2024-04-09, 12:33:11](https://news.ycombinator.com/item?id=39978723) - [The Eclipse via Satellite](https://kieranhealy.org/blog/archives/2024/04/09/the-eclipse-via-satellite/)
 * [2024-04-09, 12:24:51](https://news.ycombinator.com/item?id=39978657) - [Why do airlines charge so much for checked bags? The tax code](https://theconversation.com/why-do-airlines-charge-so-much-for-checked-bags-this-obscure-rule-helps-explain-why-225857)
 * [2024-04-09, 12:12:51](https://news.ycombinator.com/item?id=39978577) - [Introducing Google Axion Processors, our new Arm-based CPUs](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/)
 * [2024-04-09, 11:47:30](https://news.ycombinator.com/item?id=39978434) - [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
@@ -20,6 +22,7 @@
 * [2024-04-09, 10:20:40](https://news.ycombinator.com/item?id=39977939) - [Computational limits to the legibility of the imaged human brain](https://www.sciencedirect.com/science/article/pii/S1053811924000958)
 * [2024-04-09, 10:03:53](https://news.ycombinator.com/item?id=39977862) - [SSSL – Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 * [2024-04-09, 09:43:08](https://news.ycombinator.com/item?id=39977756) - [Switzerland faces landmark climate-human rights ruling](https://www.swissinfo.ch/eng/science/historic-verdict-could-link-climate-crisis-and-human-rights/75321434)
+* [2024-04-09, 09:24:58](https://news.ycombinator.com/item?id=39977671) - [Apple Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719)
 * [2024-04-09, 09:02:51](https://news.ycombinator.com/item?id=39977537) - [A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux](https://www.muppetlabs.com/%7Ebreadbox/software/tiny/teensy.html)
 * [2024-04-09, 08:24:10](https://news.ycombinator.com/item?id=39977231) - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
 * [2024-04-09, 08:06:53](https://news.ycombinator.com/item?id=39977141) - [TSMC will build third Arizona fab after winning $6.6B in CHIPS funding](https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/)
