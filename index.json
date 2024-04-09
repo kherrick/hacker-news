@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 21:01:39",
+      "https://news.ycombinator.com/item?id=39984209"
+    ],
+    [
+      "Building Reliable Systems Out of Unreliable Agents",
+      "https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 20:30:56",
       "https://news.ycombinator.com/item?id=39983915"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-04-09, 20:00:36",
-      "https://news.ycombinator.com/item?id=39983612"
+      "2024-04-09, 20:21:31",
+      "https://news.ycombinator.com/item?id=39983810"
     ],
     [
-      "PostHog: Side Project Insurance",
-      "https://github.com/PostHog/posthog.com/pull/8226"
+      "How we built the Find My Device network with user security and privacy in mind",
+      "https://security.googleblog.com/2024/04/find-my-device-network-security-privacy-protections.html"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "A MySQL compatible database engine written in pure Go",
       "https://github.com/dolthub/go-mysql-server"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 19:08:06",
+      "https://news.ycombinator.com/item?id=39983018"
+    ],
+    [
+      "Stalwart mail server (self-hosted all-in-one mail server) now as an admin webui",
+      "https://stalw.art/blog/stalwart-webadmin/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-04-09, 12:40:09",
-      "https://news.ycombinator.com/item?id=39978774"
-    ],
-    [
-      "Steven Levitt and John Donohue defend the abortion-crime hypothesis",
-      "https://www.economist.com/by-invitation/2024/04/08/steven-levitt-and-john-donohue-defend-a-finding-made-famous-by-freakonomics"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 12:24:04",
       "https://news.ycombinator.com/item?id=39978653"
     ],
@@ -217,16 +227,6 @@
     [
       "Show HN: DualShock calibration in the browser using WebHID",
       "https://blog.the.al/2024/04/09/dualshock-calibration-in-the-browser.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 09:56:49",
-      "https://news.ycombinator.com/item?id=39977831"
-    ],
-    [
-      "The Lonely Funeral Project in Amsterdam",
-      "https://www.upworthy.com/the-lonely-funeral-project"
     ]
   ],
   [
