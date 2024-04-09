@@ -57,6 +57,7 @@
 * [2024-04-08, 13:29:19](https://news.ycombinator.com/item?id=39969527) - [USPS jumps to first place as most imitated brand in phishing attacks](https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024)
 * [2024-04-08, 13:20:36](https://news.ycombinator.com/item?id=39969448) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
 * [2024-04-08, 12:59:08](https://news.ycombinator.com/item?id=39969255) - [Big Tech passkey implementations are a trap](https://proton.me/blog/big-tech-passkey)
+* [2024-04-08, 12:51:00](https://news.ycombinator.com/item?id=39969174) - [A Description of the Differential Expansive Pumping Engine [pdf]](https://dn790001.ca.archive.org/0/items/descriptionofdif00daverich/descriptionofdif00daverich.pdf)
 * [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
 * [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
 * [2024-04-08, 12:34:21](https://news.ycombinator.com/item?id=39969042) - [A cheeky intern nearly turned MS-DOS into NSFW-DOS](https://www.theregister.com/2024/04/08/ms_dos_easter_egg/)
