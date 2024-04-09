@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 20:30:56](https://news.ycombinator.com/item?id=39983915) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
+* [2024-04-09, 20:30:33](https://news.ycombinator.com/item?id=39983910) - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
+* [2024-04-09, 20:00:36](https://news.ycombinator.com/item?id=39983612) - [PostHog: Side Project Insurance](https://github.com/PostHog/posthog.com/pull/8226)
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 19:20:56](https://news.ycombinator.com/item?id=39983145) - [Patches released for as many as 91,000 hackable LG TVs exposed to the Internet](https://arstechnica.com/security/2024/04/patches-released-for-as-many-as-91000-hackable-lg-tvs-exposed-to-the-internet/)
 * [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
@@ -14,6 +17,7 @@
 * [2024-04-09, 18:14:35](https://news.ycombinator.com/item?id=39982358) - [Show HN: AI reveals big companies secret strategies for business growth](https://www.edom.ai/)
 * [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 * [2024-04-09, 17:50:57](https://news.ycombinator.com/item?id=39982098) - [OpenAI prepares to fight for its life as legal troubles mount](https://www.msn.com/en-us/news/politics/openai-prepares-to-fight-for-its-life-as-legal-troubles-mount/ar-BB1lk4ei)
+* [2024-04-09, 17:47:29](https://news.ycombinator.com/item?id=39982054) - [Georgia's Vogtle plant, a $35B nuclear project](https://grist.org/energy/plant-vogtle-georgia-nuclear/)
 * [2024-04-09, 17:45:40](https://news.ycombinator.com/item?id=39982033) - [FAA Investigates Claims by Boeing Whistle-Blower About Flaws in 787 Dreamliner](https://www.nytimes.com/2024/04/09/us/politics/boeing-787-dreamliner-whistle-blower.html)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
 * [2024-04-09, 17:43:57](https://news.ycombinator.com/item?id=39982011) - [PS1 Programming Course with MIPS Assembly and C](https://pikuma.com/courses/ps1-programming-mips-assembly-language)
@@ -33,6 +37,7 @@
 * [2024-04-09, 15:22:56](https://news.ycombinator.com/item?id=39980427) - [Canadian DNA lab knew paternity tests misidentified dads, but kept selling them](https://www.cbc.ca/news/canada/paternity-tests-dna-1.7164707)
 * [2024-04-09, 15:10:28](https://news.ycombinator.com/item?id=39980278) - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
 * [2024-04-09, 15:09:25](https://news.ycombinator.com/item?id=39980268) - [Beeper acquired by Automattic (WordPress)](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
+* [2024-04-09, 15:04:27](https://news.ycombinator.com/item?id=39980222) - [Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
 * [2024-04-09, 14:55:54](https://news.ycombinator.com/item?id=39980122) - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
 * [2024-04-09, 14:37:46](https://news.ycombinator.com/item?id=39979927) - [Freenginx 1.26.0](https://freenginx.org/en/CHANGES-1.26)
 * [2024-04-09, 14:27:53](https://news.ycombinator.com/item?id=39979806) - [Persistent interaction patterns across social media platforms and over time](https://www.nature.com/articles/s41586-024-07229-y)
