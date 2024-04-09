@@ -74,6 +74,7 @@
 * [2024-04-07, 10:01:32](https://news.ycombinator.com/item?id=39959704) - [Helixx: $6 a day EV subscription service could disrupt the auto industry](https://newatlas.com/automotive/helixx-subscription-ev/)
 * [2024-04-07, 09:56:48](https://news.ycombinator.com/item?id=39959686) - [Lightweight and fast AMQP (0-9-1) server](https://github.com/cloudamqp/lavinmq)
 * [2024-04-07, 09:39:02](https://news.ycombinator.com/item?id=39959612) - [Beyond Foreign Keys](https://lackofimagination.org/2024/04/beyond-foreign-keys/)
+* [2024-04-07, 09:32:53](https://news.ycombinator.com/item?id=39959592) - [Flyweight: A Node.js ORM Specifically for SQLite](https://github.com/thebinarysearchtree/flyweight)
 * [2024-04-07, 09:32:17](https://news.ycombinator.com/item?id=39959589) - [LLMs can't simulate a Turing machine reliably](https://twitter.com/VictorTaelin/status/1776271375814054257)
 * [2024-04-07, 09:23:09](https://news.ycombinator.com/item?id=39959543) - [Rendering string diagrams recursively [pdf]](https://arxiv.org/abs/2404.02679)
 * [2024-04-07, 08:55:03](https://news.ycombinator.com/item?id=39959380) - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)

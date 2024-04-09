@@ -28,7 +28,7 @@
 * [2024-04-08, 03:29:23](https://news.ycombinator.com/item?id=39965966) - [Reviving an 800-Year-Old Japanese Tea Farm](https://www.nippon.com/en/japan-topics/c11602/)
 * [2024-04-07, 18:20:34](https://news.ycombinator.com/item?id=39962615) - [Re-creating Disney's sodium vapor process [video]](https://www.youtube.com/watch?v=UQuIVsNzqDk)
 * [2024-04-07, 10:29:00](https://news.ycombinator.com/item?id=39959813) - [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
-* [2024-04-06, 06:01:08](https://news.ycombinator.com/item?id=39950351) - [Fear makes you a worse programmer (2014)](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
+* [2024-04-07, 09:32:53](https://news.ycombinator.com/item?id=39959592) - [Flyweight: A Node.js ORM Specifically for SQLite](https://github.com/thebinarysearchtree/flyweight)
 * [2024-04-06, 05:21:24](https://news.ycombinator.com/item?id=39950186) - [The Marvelous Seamounts of the Southeast Pacific](https://nautil.us/the-marvelous-seamounts-of-the-southeast-pacific-542868/)
 
 ## [Archives](archives/index.md)
