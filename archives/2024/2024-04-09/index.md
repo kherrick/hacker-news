@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
 * [2024-04-09, 16:30:37](https://news.ycombinator.com/item?id=39981122) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
+* [2024-04-09, 16:22:05](https://news.ycombinator.com/item?id=39981037) - [San Francisco-to-L.A. overnight train inches closer to reality](https://ktla.com/news/california/san-francisco-to-l-a-overnight-train-inches-closer-to-reality/)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, dies aged 94](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
+* [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
+* [2024-04-09, 16:18:22](https://news.ycombinator.com/item?id=39981005) - [Google just released its AI chip rival to Nvidia](https://qz.com/google-ai-chip-nvidia-axion-arm-microsoft-1851397201)
 * [2024-04-09, 16:03:08](https://news.ycombinator.com/item?id=39980849) - [The History of CP/M (1980) [txt]](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-09, 15:46:50](https://news.ycombinator.com/item?id=39980691) - [The Towns Outsmarting Airbnb](https://reasonstobecheerful.world/the-towns-outsmarting-airbnb/)
 * [2024-04-09, 15:22:56](https://news.ycombinator.com/item?id=39980427) - [Canadian DNA lab knew paternity tests misidentified dads, but kept selling them](https://www.cbc.ca/news/canada/paternity-tests-dna-1.7164707)
