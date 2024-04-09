@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, dies aged 94](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
+* [2024-04-09, 16:03:08](https://news.ycombinator.com/item?id=39980849) - [The History of CP/M (1980) [txt]](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
+* [2024-04-09, 15:46:50](https://news.ycombinator.com/item?id=39980691) - [The Towns Outsmarting Airbnb](https://reasonstobecheerful.world/the-towns-outsmarting-airbnb/)
 * [2024-04-09, 15:22:56](https://news.ycombinator.com/item?id=39980427) - [Canadian DNA lab knew paternity tests misidentified dads, but kept selling them](https://www.cbc.ca/news/canada/paternity-tests-dna-1.7164707)
 * [2024-04-09, 15:10:28](https://news.ycombinator.com/item?id=39980278) - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
 * [2024-04-09, 15:09:25](https://news.ycombinator.com/item?id=39980268) - [Beeper acquired by Automattic (WordPress)](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
@@ -14,6 +17,7 @@
 * [2024-04-09, 13:24:28](https://news.ycombinator.com/item?id=39979192) - [What makes a great software engineer [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf)
 * [2024-04-09, 13:23:09](https://news.ycombinator.com/item?id=39979179) - [FCC chair rejects call to impose Universal Service fees on broadband](https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/)
 * [2024-04-09, 13:18:34](https://news.ycombinator.com/item?id=39979140) - [Supreme Commander Graphics Study](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
+* [2024-04-09, 13:12:18](https://news.ycombinator.com/item?id=39979078) - [Writing highly scalable backends in UDP](https://mas-bandwidth.com/writing-highly-scalable-backends-in-udp/)
 * [2024-04-09, 12:53:35](https://news.ycombinator.com/item?id=39978886) - [The Future of Pretendo After Nintendo Network](https://pretendo.network/blog/4-8-24)
 * [2024-04-09, 12:40:59](https://news.ycombinator.com/item?id=39978781) - [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
 * [2024-04-09, 12:40:41](https://news.ycombinator.com/item?id=39978778) - [AI Consciousness Is Inevitable: A Theoretical Computer Science Perspective](https://arxiv.org/abs/2403.17101)
