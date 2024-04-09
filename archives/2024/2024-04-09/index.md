@@ -12,6 +12,7 @@
 * [2024-04-09, 15:10:28](https://news.ycombinator.com/item?id=39980278) - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
 * [2024-04-09, 15:09:25](https://news.ycombinator.com/item?id=39980268) - [Beeper acquired by Automattic (WordPress)](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
 * [2024-04-09, 14:55:54](https://news.ycombinator.com/item?id=39980122) - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
+* [2024-04-09, 14:27:53](https://news.ycombinator.com/item?id=39979806) - [Persistent interaction patterns across social media platforms and over time](https://www.nature.com/articles/s41586-024-07229-y)
 * [2024-04-09, 14:23:26](https://news.ycombinator.com/item?id=39979750) - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 * [2024-04-09, 14:01:37](https://news.ycombinator.com/item?id=39979542) - [How NPR Lost Americas Trust](https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust)
 * [2024-04-09, 13:45:04](https://news.ycombinator.com/item?id=39979375) - [India's electric rickshaws are leaving EVs in the dust, like YC Electric](https://restofworld.org/2024/e-rickshaw-yc-electric-india/)
