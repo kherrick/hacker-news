@@ -8,6 +8,7 @@
 * [2024-04-09, 03:49:43](https://news.ycombinator.com/item?id=39976064) - [Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
 * [2024-04-09, 02:52:33](https://news.ycombinator.com/item?id=39975865) - [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
 * [2024-04-09, 01:51:27](https://news.ycombinator.com/item?id=39975596) - [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
+* [2024-04-09, 01:36:53](https://news.ycombinator.com/item?id=39975521) - [Understanding Memory Safety in the Rust Programming Language](https://coderoasis.com/rust-lang-memory-safety/)
 * [2024-04-09, 01:21:50](https://news.ycombinator.com/item?id=39975442) - [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://ntietz.com/blog/firefox-and-the-free-web/)
 * [2024-04-09, 01:08:09](https://news.ycombinator.com/item?id=39975366) - [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
 * [2024-04-09, 01:04:27](https://news.ycombinator.com/item?id=39975346) - [Genesis of the \"Golfball\" Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
