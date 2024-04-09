@@ -10,6 +10,7 @@
 * [2024-04-08, 22:20:13](https://news.ycombinator.com/item?id=39974340) - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-08, 20:20:13](https://news.ycombinator.com/item?id=39973296) - [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
+* [2024-04-08, 20:01:45](https://news.ycombinator.com/item?id=39973150) - [Show HN: Shorebird 1.0, Flutter Code Push](https://github.com/shorebirdtech/shorebird)
 * [2024-04-08, 19:42:21](https://news.ycombinator.com/item?id=39972990) - [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
 * [2024-04-08, 18:49:47](https://news.ycombinator.com/item?id=39972603) - [The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
@@ -27,7 +28,6 @@
 * [2024-04-07, 18:20:34](https://news.ycombinator.com/item?id=39962615) - [Re-creating Disney's sodium vapor process [video]](https://www.youtube.com/watch?v=UQuIVsNzqDk)
 * [2024-04-07, 12:04:49](https://news.ycombinator.com/item?id=39960190) - [Minibone: practical end-to-end encryption for web apps](https://github.com/backbone-hq/minibone)
 * [2024-04-07, 10:29:00](https://news.ycombinator.com/item?id=39959813) - [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
-* [2024-04-06, 11:28:40](https://news.ycombinator.com/item?id=39951699) - [Pentaborane(9)](https://en.wikipedia.org/wiki/Pentaborane(9))
 * [2024-04-06, 06:01:08](https://news.ycombinator.com/item?id=39950351) - [Fear makes you a worse programmer (2014)](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 * [2024-04-06, 05:21:24](https://news.ycombinator.com/item?id=39950186) - [The Marvelous Seamounts of the Southeast Pacific](https://nautil.us/the-marvelous-seamounts-of-the-southeast-pacific-542868/)
 
