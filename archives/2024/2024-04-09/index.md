@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 04:26:41](https://news.ycombinator.com/item?id=39976190) - [XZ Utils Attack: A Threat Actor Spent 2 Years to Implement Linux Backdoor](https://www.techrepublic.com/article/xz-backdoor-linux/)
 * [2024-04-09, 03:49:43](https://news.ycombinator.com/item?id=39976064) - [Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
 * [2024-04-09, 02:52:33](https://news.ycombinator.com/item?id=39975865) - [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)

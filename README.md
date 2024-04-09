@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 03:49:43](https://news.ycombinator.com/item?id=39976064) - [Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
 * [2024-04-09, 02:52:33](https://news.ycombinator.com/item?id=39975865) - [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
 * [2024-04-09, 01:51:27](https://news.ycombinator.com/item?id=39975596) - [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
-* [2024-04-09, 01:36:53](https://news.ycombinator.com/item?id=39975521) - [Understanding Memory Safety in the Rust Programming Language](https://coderoasis.com/rust-lang-memory-safety/)
 * [2024-04-09, 01:04:27](https://news.ycombinator.com/item?id=39975346) - [Genesis of the “Golfball” Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
 * [2024-04-09, 01:00:06](https://news.ycombinator.com/item?id=39975331) - [TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
 * [2024-04-08, 23:11:14](https://news.ycombinator.com/item?id=39974646) - [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
