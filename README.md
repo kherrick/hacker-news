@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
+* [2024-04-09, 18:35:51](https://news.ycombinator.com/item?id=39982623) - [Unix](https://neugierig.org/content/unix/)
+* [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
 * [2024-04-09, 17:43:57](https://news.ycombinator.com/item?id=39982011) - [PS1 Programming Course with MIPS Assembly and C](https://pikuma.com/courses/ps1-programming-mips-assembly-language)
 * [2024-04-09, 17:38:59](https://news.ycombinator.com/item?id=39981945) - [Zed Decoded: Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
@@ -24,9 +26,7 @@
 * [2024-04-09, 09:56:49](https://news.ycombinator.com/item?id=39977831) - [The Lonely Funeral Project in Amsterdam](https://www.upworthy.com/the-lonely-funeral-project)
 * [2024-04-09, 07:48:11](https://news.ycombinator.com/item?id=39977058) - [The U.S. government may finally mandate safer table saws](https://www.npr.org/2024/04/02/1241148577/table-saw-injuries-safety-sawstop-cpsc)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
-* [2024-04-09, 05:47:03](https://news.ycombinator.com/item?id=39976472) - [Chasing resets](https://zipcpu.com/blog/2024/04/01/chasing-resets.html)
 * [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I tripped over the Debian weak keys vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
-* [2024-04-08, 18:47:31](https://news.ycombinator.com/item?id=39972586) - [Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel](https://github.com/larryboyko/dimityjones)
 * [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML feature platform, is now open source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 12:31:40](https://news.ycombinator.com/item?id=39969015) - [A frozen lake and several Lamborghinis provide lessons on traction control](https://arstechnica.com/cars/2024/04/a-frozen-lake-and-several-lamborghinis-provide-lessons-on-traction-control/)
 * [2024-04-08, 06:59:43](https://news.ycombinator.com/item?id=39966969) - [Let's Kerberos](https://www.imperialviolet.org/2024/04/07/letskerberos.html)
