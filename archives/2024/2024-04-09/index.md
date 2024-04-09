@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 08:06:53](https://news.ycombinator.com/item?id=39977141) - [TSMC will build third Arizona fab after winning $6.6B in CHIPS funding](https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/)
 * [2024-04-09, 07:44:33](https://news.ycombinator.com/item?id=39977039) - [Tesla's Cybertrucks were 'rushed out,' are malfunctioning at astounding rate](https://nypost.com/2024/04/08/business/teslas-cybertrucks-were-rushed-out-are-malfunctioning-at-astounding-rate/)
 * [2024-04-09, 07:38:35](https://news.ycombinator.com/item?id=39977002) - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
 * [2024-04-09, 07:08:08](https://news.ycombinator.com/item?id=39976856) - [Blogs strip off for CSS Naked Day](https://shkspr.mobi/blog/2020/04/this-blog-strips-off-for-css-naked-day/)
