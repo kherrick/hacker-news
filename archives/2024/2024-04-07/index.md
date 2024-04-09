@@ -69,6 +69,7 @@
 * [2024-04-07, 11:20:27](https://news.ycombinator.com/item?id=39960047) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 10:36:19](https://news.ycombinator.com/item?id=39959846) - [US braces for cicadas by the trillion as two broods of periodic insects coincide](https://www.theguardian.com/environment/2024/apr/07/cicada-geddon-brood-season-midwest-eastern)
+* [2024-04-07, 10:29:00](https://news.ycombinator.com/item?id=39959813) - [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
 * [2024-04-07, 10:23:51](https://news.ycombinator.com/item?id=39959790) - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 * [2024-04-07, 10:01:32](https://news.ycombinator.com/item?id=39959704) - [Helixx: $6 a day EV subscription service could disrupt the auto industry](https://newatlas.com/automotive/helixx-subscription-ev/)
 * [2024-04-07, 09:56:48](https://news.ycombinator.com/item?id=39959686) - [Lightweight and fast AMQP (0-9-1) server](https://github.com/cloudamqp/lavinmq)

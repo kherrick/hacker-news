@@ -1,11 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-08, 23:11:14](https://news.ycombinator.com/item?id=39974646) - [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
-* [2024-04-08, 23:05:27](https://news.ycombinator.com/item?id=39974612) - ['My eyes hurt' searches spike on Google following solar eclipse](https://9to5google.com/2024/04/08/google-search-solar-eclipse-my-eyes-hurt/)
 * [2024-04-08, 22:26:57](https://news.ycombinator.com/item?id=39974374) - [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
 * [2024-04-08, 22:20:13](https://news.ycombinator.com/item?id=39974340) - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-* [2024-04-08, 21:57:58](https://news.ycombinator.com/item?id=39974162) - [Nintendo's online servers for Wii U and 3DS shut down today](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u)
-* [2024-04-08, 21:17:52](https://news.ycombinator.com/item?id=39973831) - [Begging EuroRust to acknowledge independent workers](https://fasterthanli.me/articles/begging-eurorust-to-acknowledge-independent-workers)
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-08, 20:25:42](https://news.ycombinator.com/item?id=39973341) - [Looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
 * [2024-04-08, 20:20:13](https://news.ycombinator.com/item?id=39973296) - [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
@@ -18,6 +15,7 @@
 * [2024-04-08, 17:03:54](https://news.ycombinator.com/item?id=39971673) - [Find My Device on Android](https://blog.google/products/android/android-find-my-device/)
 * [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [Lore Harp McGovern built a microcomputer empire from her suburban home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 15:04:12](https://news.ycombinator.com/item?id=39970501) - [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
+* [2024-04-08, 14:46:55](https://news.ycombinator.com/item?id=39970299) - [Exploring batch caching of trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
 * [2024-04-08, 14:14:44](https://news.ycombinator.com/item?id=39969929) - [It's Dante's hell – we're just living in it](https://www.neh.gov/article/its-dantes-hell-were-just-living-it)
 * [2024-04-08, 13:53:39](https://news.ycombinator.com/item?id=39969728) - [Hacker News (HN) – Part 1: analysis](https://blog.osm-ai.net/2024/04/01/hn-part-1.html)
 * [2024-04-08, 13:20:36](https://news.ycombinator.com/item?id=39969448) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
@@ -29,6 +27,8 @@
 * [2024-04-08, 03:29:23](https://news.ycombinator.com/item?id=39965966) - [Reviving an 800-Year-Old Japanese Tea Farm](https://www.nippon.com/en/japan-topics/c11602/)
 * [2024-04-07, 18:20:34](https://news.ycombinator.com/item?id=39962615) - [Re-creating Disney's sodium vapor process [video]](https://www.youtube.com/watch?v=UQuIVsNzqDk)
 * [2024-04-07, 12:04:49](https://news.ycombinator.com/item?id=39960190) - [Minibone: practical end-to-end encryption for web apps](https://github.com/backbone-hq/minibone)
+* [2024-04-07, 10:29:00](https://news.ycombinator.com/item?id=39959813) - [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
+* [2024-04-06, 11:28:40](https://news.ycombinator.com/item?id=39951699) - [Pentaborane(9)](https://en.wikipedia.org/wiki/Pentaborane(9))
 * [2024-04-06, 06:01:08](https://news.ycombinator.com/item?id=39950351) - [Fear makes you a worse programmer (2014)](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 
 ## [Archives](archives/index.md)
