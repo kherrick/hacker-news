@@ -67,6 +67,7 @@
 * [2024-04-07, 11:39:17](https://news.ycombinator.com/item?id=39960107) - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
 * [2024-04-07, 11:26:52](https://news.ycombinator.com/item?id=39960069) - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
 * [2024-04-07, 11:20:27](https://news.ycombinator.com/item?id=39960047) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
+* [2024-04-07, 11:08:09](https://news.ycombinator.com/item?id=39960004) - [Let's Compute – Issues 1 to 12 (1990-1991)](https://www.cpcwiki.eu/index.php/Let%27s_Compute!)
 * [2024-04-07, 10:55:10](https://news.ycombinator.com/item?id=39959946) - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 * [2024-04-07, 10:36:19](https://news.ycombinator.com/item?id=39959846) - [US braces for cicadas by the trillion as two broods of periodic insects coincide](https://www.theguardian.com/environment/2024/apr/07/cicada-geddon-brood-season-midwest-eastern)
 * [2024-04-07, 10:29:00](https://news.ycombinator.com/item?id=39959813) - [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
