@@ -46,6 +46,7 @@
 * [2024-04-09, 12:53:35](https://news.ycombinator.com/item?id=39978886) - [The Future of Pretendo After Nintendo Network](https://pretendo.network/blog/4-8-24)
 * [2024-04-09, 12:40:59](https://news.ycombinator.com/item?id=39978781) - [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
 * [2024-04-09, 12:40:41](https://news.ycombinator.com/item?id=39978778) - [AI Consciousness Is Inevitable: A Theoretical Computer Science Perspective](https://arxiv.org/abs/2403.17101)
+* [2024-04-09, 12:40:09](https://news.ycombinator.com/item?id=39978774) - [Steven Levitt and John Donohue defend a finding made famous by \"Freakonomics\"](https://www.economist.com/by-invitation/2024/04/08/steven-levitt-and-john-donohue-defend-a-finding-made-famous-by-freakonomics)
 * [2024-04-09, 12:33:11](https://news.ycombinator.com/item?id=39978723) - [The Eclipse via Satellite](https://kieranhealy.org/blog/archives/2024/04/09/the-eclipse-via-satellite/)
 * [2024-04-09, 12:32:05](https://news.ycombinator.com/item?id=39978717) - [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
 * [2024-04-09, 12:24:51](https://news.ycombinator.com/item?id=39978657) - [Why do airlines charge so much for checked bags? The tax code](https://theconversation.com/why-do-airlines-charge-so-much-for-checked-bags-this-obscure-rule-helps-explain-why-225857)

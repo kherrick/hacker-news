@@ -2,7 +2,6 @@
 
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
-* [2024-04-09, 18:42:47](https://news.ycombinator.com/item?id=39982688) - [Complexity Is the Enemy](https://neugierig.org/software/blog/2011/04/complexity.html)
 * [2024-04-09, 18:14:47](https://news.ycombinator.com/item?id=39982362) - [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
 * [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
@@ -18,6 +17,7 @@
 * [2024-04-09, 14:23:26](https://news.ycombinator.com/item?id=39979750) - [Preview of Explore Logs, a new way to browse your logs without writing LogQL](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 * [2024-04-09, 13:45:04](https://news.ycombinator.com/item?id=39979375) - [India’s electric rickshaws](https://restofworld.org/2024/e-rickshaw-yc-electric-india/)
 * [2024-04-09, 13:18:34](https://news.ycombinator.com/item?id=39979140) - [Supreme Commander Graphics Study (2015)](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
+* [2024-04-09, 12:40:09](https://news.ycombinator.com/item?id=39978774) - [Steven Levitt and John Donohue defend a finding made famous by \"Freakonomics\"](https://www.economist.com/by-invitation/2024/04/08/steven-levitt-and-john-donohue-defend-a-finding-made-famous-by-freakonomics)
 * [2024-04-09, 12:32:05](https://news.ycombinator.com/item?id=39978717) - [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
 * [2024-04-09, 12:24:04](https://news.ycombinator.com/item?id=39978653) - [Anger is eliminated with the disposal of a paper written because of provocation](https://www.nature.com/articles/s41598-024-57916-z)
 * [2024-04-09, 10:56:31](https://news.ycombinator.com/item?id=39978108) - [AutoCodeRover: Autonomous Program Improvement](https://github.com/nus-apr/auto-code-rover)
