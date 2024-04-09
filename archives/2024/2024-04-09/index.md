@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 13:23:09](https://news.ycombinator.com/item?id=39979179) - [FCC chair rejects call to impose Universal Service fees on broadband](https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/)
+* [2024-04-09, 12:53:35](https://news.ycombinator.com/item?id=39978886) - [The Future of Pretendo After Nintendo Network](https://pretendo.network/blog/4-8-24)
 * [2024-04-09, 12:40:59](https://news.ycombinator.com/item?id=39978781) - [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
 * [2024-04-09, 12:40:41](https://news.ycombinator.com/item?id=39978778) - [AI Consciousness Is Inevitable: A Theoretical Computer Science Perspective](https://arxiv.org/abs/2403.17101)
 * [2024-04-09, 12:33:11](https://news.ycombinator.com/item?id=39978723) - [The Eclipse via Satellite](https://kieranhealy.org/blog/archives/2024/04/09/the-eclipse-via-satellite/)
+* [2024-04-09, 12:32:05](https://news.ycombinator.com/item?id=39978717) - [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
 * [2024-04-09, 12:24:51](https://news.ycombinator.com/item?id=39978657) - [Why do airlines charge so much for checked bags? The tax code](https://theconversation.com/why-do-airlines-charge-so-much-for-checked-bags-this-obscure-rule-helps-explain-why-225857)
 * [2024-04-09, 12:12:51](https://news.ycombinator.com/item?id=39978577) - [Introducing Google Axion Processors, our new Arm-based CPUs](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/)
 * [2024-04-09, 11:47:30](https://news.ycombinator.com/item?id=39978434) - [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
@@ -18,6 +21,7 @@
 * [2024-04-09, 11:25:40](https://news.ycombinator.com/item?id=39978292) - [Study sheds light on white dwarf stars](https://www.theguardian.com/science/2024/apr/09/study-sheds-light-on-the-white-dwarf-star-likely-destroyer-of-our-solar-system)
 * [2024-04-09, 10:56:31](https://news.ycombinator.com/item?id=39978108) - [AutoCodeRover resolves 22% of real-world GitHub issues in SWE-bench lite](https://github.com/nus-apr/auto-code-rover)
 * [2024-04-09, 10:54:20](https://news.ycombinator.com/item?id=39978093) - [Ollama: Embedding Models](https://ollama.com/blog/embedding-models)
+* [2024-04-09, 10:48:19](https://news.ycombinator.com/item?id=39978064) - [Lessons learned from manually classifying CIFAR-10 (2011)](http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/)
 * [2024-04-09, 10:32:26](https://news.ycombinator.com/item?id=39977995) - [European court rules human rights violated by climate inaction](https://www.bbc.co.uk/news/science-environment-68768598)
 * [2024-04-09, 10:20:40](https://news.ycombinator.com/item?id=39977939) - [Computational limits to the legibility of the imaged human brain](https://www.sciencedirect.com/science/article/pii/S1053811924000958)
 * [2024-04-09, 10:03:53](https://news.ycombinator.com/item?id=39977862) - [SSSL – Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
