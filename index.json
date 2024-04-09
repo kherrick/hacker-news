@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-04-09, 16:49:06",
-      "https://news.ycombinator.com/item?id=39981306"
-    ],
-    [
-      "Peter Higgs Has Died",
-      "https://mailings.ed.ac.uk/cr/AQiw9w4Q29loGLayuDKygkUHzYdbMkJ3l7YZR220i7qIV4A2vPfu2ywkdzGpOQ"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 16:30:37",
-      "https://news.ycombinator.com/item?id=39981122"
-    ],
-    [
-      "The Open Secret about Confidential Computing",
-      "https://stiankri.substack.com/p/the-open-secret-about-confidential"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 16:21:53",
       "https://news.ycombinator.com/item?id=39981034"
     ],
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-04-09, 09:56:49",
+      "https://news.ycombinator.com/item?id=39977831"
+    ],
+    [
+      "The Lonely Funeral Project in Amsterdam",
+      "https://www.upworthy.com/the-lonely-funeral-project"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 08:59:15",
       "https://news.ycombinator.com/item?id=39977522"
     ],
@@ -297,6 +287,16 @@
     [
       "Let's Kerberos",
       "https://www.imperialviolet.org/2024/04/07/letskerberos.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 09:32:53",
+      "https://news.ycombinator.com/item?id=39959592"
+    ],
+    [
+      "Flyweight: A Node.js ORM Specifically for SQLite",
+      "https://github.com/thebinarysearchtree/flyweight"
     ]
   ]
 ]
