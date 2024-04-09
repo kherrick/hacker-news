@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 15:22:56](https://news.ycombinator.com/item?id=39980427) - [Canadian DNA lab knew paternity tests misidentified dads, but kept selling them](https://www.cbc.ca/news/canada/paternity-tests-dna-1.7164707)
+* [2024-04-09, 15:10:28](https://news.ycombinator.com/item?id=39980278) - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
 * [2024-04-09, 15:09:25](https://news.ycombinator.com/item?id=39980268) - [Beeper acquired by Automattic (WordPress)](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
 * [2024-04-09, 14:55:54](https://news.ycombinator.com/item?id=39980122) - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
 * [2024-04-09, 14:23:26](https://news.ycombinator.com/item?id=39979750) - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
@@ -53,6 +55,7 @@
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:12:08](https://news.ycombinator.com/item?id=39976577) - [Viewing the 2024 Solar Eclipse with Commodore 64's 1984 Sky Travel [video]](https://www.youtube.com/watch?v=gipFvhEMB0I)
 * [2024-04-09, 05:48:37](https://news.ycombinator.com/item?id=39976483) - [Bay Area Workers Charged for Building Secret Apartments Inside Train Stations](https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/)
+* [2024-04-09, 05:47:03](https://news.ycombinator.com/item?id=39976472) - [Chasing Resets](https://zipcpu.com/blog/2024/04/01/chasing-resets.html)
 * [2024-04-09, 05:36:34](https://news.ycombinator.com/item?id=39976422) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 * [2024-04-09, 05:27:45](https://news.ycombinator.com/item?id=39976387) - [How might software development have unfolded if CPU speeds were 20x slower?](https://news.ycombinator.com/item?id=39976387)
 * [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
