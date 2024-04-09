@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 22:14:13](https://news.ycombinator.com/item?id=39984879) - [LXQt: Wayland FAQ](https://lxqt-project.org/blog/2024/04/09/wayland_faq/)
 * [2024-04-09, 21:01:39](https://news.ycombinator.com/item?id=39984209) - [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 * [2024-04-09, 20:30:56](https://news.ycombinator.com/item?id=39983915) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 * [2024-04-09, 20:30:33](https://news.ycombinator.com/item?id=39983910) - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
