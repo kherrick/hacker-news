@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-09, 10:32:26](https://news.ycombinator.com/item?id=39977995) - [European court rules human rights violated by climate inaction](https://www.bbc.co.uk/news/science-environment-68768598)
 * [2024-04-09, 10:03:53](https://news.ycombinator.com/item?id=39977862) - [SSSL – Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 * [2024-04-09, 09:43:08](https://news.ycombinator.com/item?id=39977756) - [Switzerland faces landmark climate-human rights ruling](https://www.swissinfo.ch/eng/science/historic-verdict-could-link-climate-crisis-and-human-rights/75321434)
 * [2024-04-09, 08:24:10](https://news.ycombinator.com/item?id=39977231) - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
@@ -21,7 +22,6 @@
 * [2024-04-08, 19:42:21](https://news.ycombinator.com/item?id=39972990) - [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
 * [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [Lore Harp McGovern built a microcomputer empire from her suburban home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 12:51:00](https://news.ycombinator.com/item?id=39969174) - [A Description of the Differential Expansive Pumping Engine [pdf]](https://dn790001.ca.archive.org/0/items/descriptionofdif00daverich/descriptionofdif00daverich.pdf)
-* [2024-04-08, 10:52:00](https://news.ycombinator.com/item?id=39968382) - [How engineers at Digital Equipment Corp. saved Ethernet](https://spectrum.ieee.org/how-dec-engineers-saved-ethernet)
 * [2024-04-08, 09:07:37](https://news.ycombinator.com/item?id=39967709) - [Hello World](https://thecoder08.github.io/hello-world.html)
 * [2024-04-08, 06:08:03](https://news.ycombinator.com/item?id=39966685) - [Quartz Crystals – Twinning (2016)](http://www.quartzpage.de/crs_twins.html)
 * [2024-04-08, 03:29:23](https://news.ycombinator.com/item?id=39965966) - [Reviving an 800-Year-Old Japanese Tea Farm](https://www.nippon.com/en/japan-topics/c11602/)
