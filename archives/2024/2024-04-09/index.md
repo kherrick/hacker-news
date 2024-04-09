@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 17:17:55](https://news.ycombinator.com/item?id=39981656) - [Monitoring PFAS pollutants in king penguins](https://www.chemistryworld.com/news/monitoring-pfas-pollutants-in-king-penguins/4019254.article)
+* [2024-04-09, 17:15:53](https://news.ycombinator.com/item?id=39981623) - [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 * [2024-04-09, 17:09:51](https://news.ycombinator.com/item?id=39981550) - [Fairbuds: In-Ear with Replaceable Batteries](https://shop.fairphone.com/fairbuds)
 * [2024-04-09, 16:49:06](https://news.ycombinator.com/item?id=39981306) - [Peter Higgs Has Died](https://mailings.ed.ac.uk/cr/AQiw9w4Q29loGLayuDKygkUHzYdbMkJ3l7YZR220i7qIV4A2vPfu2ywkdzGpOQ)
 * [2024-04-09, 16:30:37](https://news.ycombinator.com/item?id=39981122) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)

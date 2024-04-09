@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-09, 17:17:55](https://news.ycombinator.com/item?id=39981656) - [Monitoring PFAS pollutants in king penguins](https://www.chemistryworld.com/news/monitoring-pfas-pollutants-in-king-penguins/4019254.article)
+* [2024-04-09, 17:15:53](https://news.ycombinator.com/item?id=39981623) - [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 * [2024-04-09, 17:09:51](https://news.ycombinator.com/item?id=39981550) - [Fairbuds: In-Ear with Replaceable Batteries](https://shop.fairphone.com/fairbuds)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 * [2024-04-09, 16:03:08](https://news.ycombinator.com/item?id=39980849) - [The History of CP/M (1980) [txt]](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-09, 15:10:28](https://news.ycombinator.com/item?id=39980278) - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
 * [2024-04-09, 15:09:25](https://news.ycombinator.com/item?id=39980268) - [Beeper acquired by Automattic](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
-* [2024-04-09, 14:37:46](https://news.ycombinator.com/item?id=39979927) - [Freenginx 1.26.0](https://freenginx.org/en/CHANGES-1.26)
 * [2024-04-09, 14:27:53](https://news.ycombinator.com/item?id=39979806) - [Persistent interaction patterns across social media platforms and over time](https://www.nature.com/articles/s41586-024-07229-y)
 * [2024-04-09, 14:23:26](https://news.ycombinator.com/item?id=39979750) - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 * [2024-04-09, 13:18:34](https://news.ycombinator.com/item?id=39979140) - [Supreme Commander Graphics Study (2015)](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
@@ -29,7 +30,6 @@
 * [2024-04-08, 18:47:31](https://news.ycombinator.com/item?id=39972586) - [Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel](https://github.com/larryboyko/dimityjones)
 * [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 06:59:43](https://news.ycombinator.com/item?id=39966969) - [Let's Kerberos](https://www.imperialviolet.org/2024/04/07/letskerberos.html)
-* [2024-04-07, 09:32:53](https://news.ycombinator.com/item?id=39959592) - [Flyweight: A Node.js ORM Specifically for SQLite](https://github.com/thebinarysearchtree/flyweight)
 
 ## [Archives](archives/index.md)
 
