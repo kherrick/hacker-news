@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 05:48:37](https://news.ycombinator.com/item?id=39976483) - [Bay Area Workers Charged for Building Secret Apartments Inside Train Stations](https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/)
+* [2024-04-09, 05:36:34](https://news.ycombinator.com/item?id=39976422) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 * [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 04:26:41](https://news.ycombinator.com/item?id=39976190) - [XZ Utils Attack: A Threat Actor Spent 2 Years to Implement Linux Backdoor](https://www.techrepublic.com/article/xz-backdoor-linux/)
 * [2024-04-09, 03:49:43](https://news.ycombinator.com/item?id=39976064) - [Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
+* [2024-04-09, 02:58:18](https://news.ycombinator.com/item?id=39975887) - [MapSCII – ASCII world map renderer for your console – enter => telnet mapscii.me](https://github.com/rastapasta/mapscii)
 * [2024-04-09, 02:52:33](https://news.ycombinator.com/item?id=39975865) - [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
 * [2024-04-09, 01:51:27](https://news.ycombinator.com/item?id=39975596) - [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
 * [2024-04-09, 01:36:53](https://news.ycombinator.com/item?id=39975521) - [Understanding Memory Safety in the Rust Programming Language](https://coderoasis.com/rust-lang-memory-safety/)
