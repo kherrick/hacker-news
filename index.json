@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-09, 04:26:41",
-      "https://news.ycombinator.com/item?id=39976190"
-    ],
-    [
-      "XZ Utils Attack: A Threat Actor Spent 2 Years to Implement Linux Backdoor",
-      "https://www.techrepublic.com/article/xz-backdoor-linux/"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 03:49:43",
       "https://news.ycombinator.com/item?id=39976064"
     ],
@@ -37,6 +27,16 @@
     [
       "Distributed SQLite: Paradigm shift or hype?",
       "https://kerkour.com/distributed-sqlite"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 01:36:53",
+      "https://news.ycombinator.com/item?id=39975521"
+    ],
+    [
+      "Understanding Memory Safety in the Rust Programming Language",
+      "https://coderoasis.com/rust-lang-memory-safety/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-04-08, 14:14:44",
-      "https://news.ycombinator.com/item?id=39969929"
-    ],
-    [
-      "It's Dante's hell – we're just living in it",
-      "https://www.neh.gov/article/its-dantes-hell-were-just-living-it"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 10:52:00",
       "https://news.ycombinator.com/item?id=39968382"
     ],
@@ -267,6 +257,16 @@
     [
       "Minibone: practical end-to-end encryption for web apps",
       "https://github.com/backbone-hq/minibone"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 10:29:00",
+      "https://news.ycombinator.com/item?id=39959813"
+    ],
+    [
+      "How to think about HTML responsive images",
+      "https://danburzo.ro/responsive-images-html/"
     ]
   ],
   [
