@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 01:51:27](https://news.ycombinator.com/item?id=39975596) - [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
 * [2024-04-09, 01:21:50](https://news.ycombinator.com/item?id=39975442) - [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://ntietz.com/blog/firefox-and-the-free-web/)
 * [2024-04-09, 01:08:09](https://news.ycombinator.com/item?id=39975366) - [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
 * [2024-04-09, 01:04:27](https://news.ycombinator.com/item?id=39975346) - [Genesis of the \"Golfball\" Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
+* [2024-04-09, 00:34:16](https://news.ycombinator.com/item?id=39975168) - [Freedesktop/RedHat's CoC team is worse than you thought](https://blog.vaxry.net/articles/2024-fdo-and-redhat2)
