@@ -72,6 +72,7 @@
 * [2024-04-08, 12:26:08](https://news.ycombinator.com/item?id=39968973) - [Cultivating Minds: The Psychological Consequences of Rice versus Wheat Farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
 * [2024-04-08, 12:22:20](https://news.ycombinator.com/item?id=39968948) - [Reviving a Flip Clock from the 70ies](https://github.com/jank/Bodet)
 * [2024-04-08, 12:11:48](https://news.ycombinator.com/item?id=39968887) - [Build Systems à La Carte: Theory and Practice [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/build-systems-jfp.pdf)
+* [2024-04-08, 12:06:01](https://news.ycombinator.com/item?id=39968844) - [British Placename Mapper](https://placenames.rtwilson.com/)
 * [2024-04-08, 12:02:42](https://news.ycombinator.com/item?id=39968827) - [Australia 'mugged by reality' on Aukus deal as US set to halve submarine build](https://www.theguardian.com/world/2024/mar/13/turnbull-says-australia-mugged-by-reality-on-aukus-deal-as-us-set-to-halve-submarine-build)
 * [2024-04-08, 12:00:41](https://news.ycombinator.com/item?id=39968812) - [Sieve (YC W22) Is Hiring ML engineers (small team, high revenue, AI infra)](https://sievedata.com/about/jobs)
 * [2024-04-08, 11:52:00](https://news.ycombinator.com/item?id=39968761) - [Notepad++: Help us to take down the parasite website](https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/)
