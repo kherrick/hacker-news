@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-10, 01:31:24](https://news.ycombinator.com/item?id=39986095) - [Mistral AI Launches New 8x22B MOE Model](https://twitter.com/MistralAI)
-* [2024-04-10, 01:23:46](https://news.ycombinator.com/item?id=39986047) - [Mixtral 8x22B Model](https://twitter.com/MistralAI/status/1777869263778291896)
 * [2024-04-10, 00:10:06](https://news.ycombinator.com/item?id=39985630) - [Why does part of the Windows 98 Setup program look older than the rest? (2020)](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
 * [2024-04-09, 21:01:39](https://news.ycombinator.com/item?id=39984209) - [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
-* [2024-04-09, 20:30:56](https://news.ycombinator.com/item?id=39983915) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 * [2024-04-09, 20:30:33](https://news.ycombinator.com/item?id=39983910) - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
 * [2024-04-09, 20:10:30](https://news.ycombinator.com/item?id=39983711) - [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
@@ -15,6 +13,7 @@
 * [2024-04-09, 17:43:57](https://news.ycombinator.com/item?id=39982011) - [PS1 Programming Course with MIPS Assembly and C](https://pikuma.com/courses/ps1-programming-mips-assembly-language)
 * [2024-04-09, 17:38:59](https://news.ycombinator.com/item?id=39981945) - [Zed Decoded: Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 * [2024-04-09, 17:15:53](https://news.ycombinator.com/item?id=39981623) - [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
+* [2024-04-09, 17:09:51](https://news.ycombinator.com/item?id=39981550) - [Fairbuds: In-ear with replaceable batteries](https://shop.fairphone.com/fairbuds)
 * [2024-04-09, 16:59:49](https://news.ycombinator.com/item?id=39981423) - [Virtual Colossus](https://www.virtualcolossus.co.uk/colossus3d/)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
@@ -26,10 +25,11 @@
 * [2024-04-09, 07:34:23](https://news.ycombinator.com/item?id=39976986) - [Computing the Eclipse](https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:05:56](https://news.ycombinator.com/item?id=39976557) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
-* [2024-04-08, 21:43:26](https://news.ycombinator.com/item?id=39974042) - [How Deep Does Life Go?](https://thereader.mitpress.mit.edu/how-deep-does-life-go/)
+* [2024-04-08, 21:43:26](https://news.ycombinator.com/item?id=39974042) - [How deep does life go?](https://thereader.mitpress.mit.edu/how-deep-does-life-go/)
 * [2024-04-08, 17:37:44](https://news.ycombinator.com/item?id=39971984) - [Show HN: Neco – Coroutine Library for C](https://github.com/tidwall/neco)
 * [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML feature platform, is now open source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 05:01:45](https://news.ycombinator.com/item?id=39966349) - [Orange Meets: a demo application built using Cloudflare Calls](https://github.com/cloudflare/orange)
+* [2024-04-08, 00:23:12](https://news.ycombinator.com/item?id=39965123) - [Show HN: QWANJI](https://byronicalpatrick.github.io/qwanji/)
 
 ## [Archives](archives/index.md)
 
