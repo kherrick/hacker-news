@@ -90,6 +90,7 @@
 * [2024-04-08, 09:26:52](https://news.ycombinator.com/item?id=39967864) - [MIPS stacktrace: an unexpected journey](https://smeso.it/2024/03/02/mips-stacktrace-an-unexpected-journey.html)
 * [2024-04-08, 09:07:37](https://news.ycombinator.com/item?id=39967709) - [Hello World](https://thecoder08.github.io/hello-world.html)
 * [2024-04-08, 09:07:18](https://news.ycombinator.com/item?id=39967707) - [TSMC Gets $11.6B in US Grants, Loans for Three Chip Fabs](https://www.bloomberg.com/news/articles/2024-04-08/tsmc-gets-11-6-billion-in-us-grants-loans-for-three-chip-fabs)
+* [2024-04-08, 09:03:17](https://news.ycombinator.com/item?id=39967685) - [Demystifying the Shadow DOM](https://thetshaped.dev/p/demystifying-the-shadow-dom)
 * [2024-04-08, 08:28:13](https://news.ycombinator.com/item?id=39967474) - [Southwest Boeing 737-800 flight from Denver loses engine cover](https://www.cnn.com/2024/04/07/business/southwest-boeing-737-800-engine/index.html)
 * [2024-04-08, 08:08:54](https://news.ycombinator.com/item?id=39967345) - [Workman Layout for Vim](https://axiomatic.neophilus.net/workman-layout-for-vim/)
 * [2024-04-08, 07:40:40](https://news.ycombinator.com/item?id=39967199) - [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)

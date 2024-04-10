@@ -14,7 +14,6 @@
 * [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
 * [2024-04-09, 17:15:53](https://news.ycombinator.com/item?id=39981623) - [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
-* [2024-04-09, 16:59:49](https://news.ycombinator.com/item?id=39981423) - [Virtual Colossus](https://www.virtualcolossus.co.uk/colossus3d/)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 * [2024-04-09, 15:52:50](https://news.ycombinator.com/item?id=39980750) - [Juicebox: Squeezing the hassle out of encryption key recovery](https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery)
@@ -29,6 +28,7 @@
 * [2024-04-08, 21:43:26](https://news.ycombinator.com/item?id=39974042) - [How deep does life go?](https://thereader.mitpress.mit.edu/how-deep-does-life-go/)
 * [2024-04-08, 17:37:44](https://news.ycombinator.com/item?id=39971984) - [Show HN: Neco – Coroutine Library for C](https://github.com/tidwall/neco)
 * [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML feature platform, is now open source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
+* [2024-04-08, 09:03:17](https://news.ycombinator.com/item?id=39967685) - [Demystifying the Shadow DOM](https://thetshaped.dev/p/demystifying-the-shadow-dom)
 * [2024-04-08, 00:23:12](https://news.ycombinator.com/item?id=39965123) - [Show HN: QWANJI](https://byronicalpatrick.github.io/qwanji/)
 
 ## [Archives](archives/index.md)
