@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 17:00:50](https://news.ycombinator.com/item?id=39992993) - [OfOne (YC W23) – voice AI for drive-thrus – is hiring a founding engineer in SF](https://www.ycombinator.com/companies/ofone/jobs/u2E2fCX-founding-software-engineer)
+* [2024-04-10, 16:46:09](https://news.ycombinator.com/item?id=39992797) - [5.25-inch floppy disks expected to help run San Francisco trains until 2030](https://arstechnica.com/gadgets/2024/04/5-25-inch-floppy-disks-expected-to-help-run-san-francisco-trains-until-2030/)
+* [2024-04-10, 16:40:18](https://news.ycombinator.com/item?id=39992731) - [Rents are soaring. Is a popular software tool to blame?](https://www.businessinsider.com/apartment-rent-increases-landlords-antitrust-lawsuits-real-estate-software-realpage-2024-4)
 * [2024-04-10, 16:34:28](https://news.ycombinator.com/item?id=39992652) - [Chechnya is banning music that's too fast or slow.](https://www.npr.org/2024/04/09/1243632570/chechnya-music-ban-bpm)
 * [2024-04-10, 15:48:17](https://news.ycombinator.com/item?id=39992046) - [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system)
 * [2024-04-10, 15:46:09](https://news.ycombinator.com/item?id=39992017) - [The $10k BYD Seagull EV is scaring the U.S. auto industry](https://www.teslarati.com/10000-byd-seagull-us-auto/)
@@ -21,6 +24,7 @@
 * [2024-04-10, 12:48:57](https://news.ycombinator.com/item?id=39990109) - [Flattening Bézier Curves and Arcs](https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/)
 * [2024-04-10, 12:47:56](https://news.ycombinator.com/item?id=39990096) - [A key chemistry journal disappeared from the web. Others are at risk](https://www.chemistryworld.com/news/a-key-chemistry-journal-disappeared-from-the-web-others-are-at-risk/4019265.article)
 * [2024-04-10, 12:36:43](https://news.ycombinator.com/item?id=39990004) - [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
+* [2024-04-10, 12:35:22](https://news.ycombinator.com/item?id=39989992) - [Is It Dry Yet?](https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/)
 * [2024-04-10, 12:30:03](https://news.ycombinator.com/item?id=39989945) - [Mixtral 8x22B on MLX](https://twitter.com/Prince_Canuma/status/1778030397336559989)
 * [2024-04-10, 12:24:33](https://news.ycombinator.com/item?id=39989906) - [Show HN: QR Builder](https://qr-builder.io)
 * [2024-04-10, 12:12:21](https://news.ycombinator.com/item?id=39989819) - [Linux on Snapdragon X Elite Laptop [video]](https://www.youtube.com/watch?v=rEaGyCAS9fY)
@@ -29,6 +33,7 @@
 * [2024-04-10, 11:42:25](https://news.ycombinator.com/item?id=39989580) - [Redis is not \"open core\" (2021)](http://antirez.com/news/121)
 * [2024-04-10, 11:40:30](https://news.ycombinator.com/item?id=39989564) - [Animal-free egg protein startup Onego Bio is closer to cracking the egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
 * [2024-04-10, 11:39:24](https://news.ycombinator.com/item?id=39989552) - [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
+* [2024-04-10, 11:30:46](https://news.ycombinator.com/item?id=39989467) - [Show HN: Deco.cx – realtime TypeScript web editor](https://deco.cx)
 * [2024-04-10, 11:25:48](https://news.ycombinator.com/item?id=39989436) - [Canonical partners with Qualcom for Snapdragon X](https://www.phoronix.com/news/Ubuntu-Qualcomm-2024-Partners)
 * [2024-04-10, 11:23:35](https://news.ycombinator.com/item?id=39989428) - [How to Stay Sane](https://un.curl.dev/life/stay-sane)
 * [2024-04-10, 10:13:23](https://news.ycombinator.com/item?id=39988993) - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
@@ -37,6 +42,7 @@
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on toxic PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 09:24:10](https://news.ycombinator.com/item?id=39988676) - [Rust 101](https://www.scotto.me/blog/rust-101/)
+* [2024-04-10, 09:20:19](https://news.ycombinator.com/item?id=39988655) - [JavaScript Allongé, the \"Six\" Edition](https://github.com/raganwald/javascript-allonge-six)
 * [2024-04-10, 09:10:24](https://news.ycombinator.com/item?id=39988580) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 08:52:39](https://news.ycombinator.com/item?id=39988457) - [Too many firms are not coming clean about hacking says watchdog](https://www.dutchnews.nl/2024/04/too-many-firms-are-not-coming-clean-about-hacking-says-watchdog/)
 * [2024-04-10, 08:46:40](https://news.ycombinator.com/item?id=39988415) - [Microsoft employees exposed internal passwords in security lapse](https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/)
