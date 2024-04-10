@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
 * [2024-04-10, 22:49:46](https://news.ycombinator.com/item?id=39996504) - [Do You Need IPv4 Anymore?](https://blog.daknob.net/do-you-really-need-ipv4-anymore/)
+* [2024-04-10, 22:47:51](https://news.ycombinator.com/item?id=39996491) - [Substack Writers Concerned as Subscriptions 'Plummet' Due to Follow Feature](https://www.thewrap.com/substack-follow-feature-problems-subscriptions-down/)
 * [2024-04-10, 22:37:52](https://news.ycombinator.com/item?id=39996433) - [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)
 * [2024-04-10, 21:21:06](https://news.ycombinator.com/item?id=39995849) - [World's Smallest CSV Parser (C#)](https://github.com/kjpgit/SmallestCSVParser)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)

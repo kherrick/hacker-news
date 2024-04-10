@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-10, 22:49:46](https://news.ycombinator.com/item?id=39996504) - [Do You Need IPv4 Anymore?](https://blog.daknob.net/do-you-really-need-ipv4-anymore/)
+* [2024-04-10, 22:47:51](https://news.ycombinator.com/item?id=39996491) - [Substack Writers Concerned as Subscriptions 'Plummet' Due to Follow Feature](https://www.thewrap.com/substack-follow-feature-problems-subscriptions-down/)
 * [2024-04-10, 22:37:52](https://news.ycombinator.com/item?id=39996433) - [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)
 * [2024-04-10, 21:21:06](https://news.ycombinator.com/item?id=39995849) - [World's Smallest CSV Parser (C#)](https://github.com/kjpgit/SmallestCSVParser)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
@@ -24,7 +25,6 @@
 * [2024-04-09, 11:13:31](https://news.ycombinator.com/item?id=39978216) - [Converting C437 to XNA Spritesheets with Zig and Raylib](http://blog.jamiejquinn.com/converting-c437-to-raylib)
 * [2024-04-09, 10:48:19](https://news.ycombinator.com/item?id=39978064) - [Lessons learned from manually classifying CIFAR-10 (2011)](http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/)
 * [2024-04-09, 06:22:43](https://news.ycombinator.com/item?id=39976634) - [Oh My Git: An open source game about learning Git](https://ohmygit.org/)
-* [2024-04-09, 05:29:02](https://news.ycombinator.com/item?id=39976391) - [Intel's ambitious Meteor Lake iGPU](https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/)
 * [2024-04-08, 22:35:54](https://news.ycombinator.com/item?id=39974439) - [Predictive CPU isolation of containers at Netflix (2019)](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7?gi=c53c45dcda8b)
 * [2024-04-08, 16:19:26](https://news.ycombinator.com/item?id=39971234) - [New minerals on the moon explaining the mystery of the lunar landscape](https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape)
 * [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
