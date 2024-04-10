@@ -60,6 +60,7 @@
 * [2024-04-09, 13:18:34](https://news.ycombinator.com/item?id=39979140) - [Supreme Commander Graphics Study](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
 * [2024-04-09, 13:12:18](https://news.ycombinator.com/item?id=39979078) - [Writing highly scalable backends in UDP](https://mas-bandwidth.com/writing-highly-scalable-backends-in-udp/)
 * [2024-04-09, 12:53:35](https://news.ycombinator.com/item?id=39978886) - [The Future of Pretendo After Nintendo Network](https://pretendo.network/blog/4-8-24)
+* [2024-04-09, 12:44:16](https://news.ycombinator.com/item?id=39978819) - [Better Biosensors Just Need a Touch of Cheap Plastic](https://spectrum.ieee.org/organic-semiconductors-2667704065)
 * [2024-04-09, 12:40:59](https://news.ycombinator.com/item?id=39978781) - [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
 * [2024-04-09, 12:40:41](https://news.ycombinator.com/item?id=39978778) - [AI Consciousness Is Inevitable: A Theoretical Computer Science Perspective](https://arxiv.org/abs/2403.17101)
 * [2024-04-09, 12:40:09](https://news.ycombinator.com/item?id=39978774) - [Steven Levitt and John Donohue defend a finding made famous by \"Freakonomics\"](https://www.economist.com/by-invitation/2024/04/08/steven-levitt-and-john-donohue-defend-a-finding-made-famous-by-freakonomics)
