@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 15:16:22](https://news.ycombinator.com/item?id=39991675) - [Meta MTIA v2](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 * [2024-04-10, 14:35:37](https://news.ycombinator.com/item?id=39991173) - [Twitter's pivot to x.com is a gift to phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
 * [2024-04-10, 13:15:02](https://news.ycombinator.com/item?id=39990346) - [Show HN: Ads-B Visualizer](https://adsb.exposed/)
 * [2024-04-10, 13:11:42](https://news.ycombinator.com/item?id=39990319) - [WebAssembly Adoption: Is Slow and Steady Winning the Race?](https://thenewstack.io/webassembly-adoption-is-slow-and-steady-winning-the-race/)
@@ -15,7 +16,6 @@
 * [2024-04-10, 03:08:55](https://news.ycombinator.com/item?id=39986593) - [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 19:29:32](https://news.ycombinator.com/item?id=39983233) - [Yes, social media is a cause of the epidemic of teenage mental illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
-* [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 * [2024-04-09, 15:04:27](https://news.ycombinator.com/item?id=39980222) - [Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
 * [2024-04-09, 12:44:16](https://news.ycombinator.com/item?id=39978819) - [Better Biosensors Just Need a Touch of Cheap Plastic](https://spectrum.ieee.org/organic-semiconductors-2667704065)

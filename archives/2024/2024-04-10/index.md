@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 15:16:22](https://news.ycombinator.com/item?id=39991675) - [Meta MTIA v2](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 * [2024-04-10, 14:35:37](https://news.ycombinator.com/item?id=39991173) - [Twitter's Clumsy Pivot to X.com Is a Gift to Phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
 * [2024-04-10, 14:05:58](https://news.ycombinator.com/item?id=39990891) - [The greatest bug I never fixed (2010)](https://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
 * [2024-04-10, 13:28:37](https://news.ycombinator.com/item?id=39990489) - [German gallery fires employee for hanging own art in exhibition](https://www.bbc.com/news/world-europe-68776528)
