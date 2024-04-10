@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-04-10, 18:53:24",
+      "https://news.ycombinator.com/item?id=39994391"
+    ],
+    [
+      "Full forward pass of GPT-2 in one file of pure CUDA",
+      "https://github.com/karpathy/llm.c/blob/master/train_gpt2.cu"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 18:49:47",
+      "https://news.ycombinator.com/item?id=39994339"
+    ],
+    [
+      "Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files",
+      "https://forge.soutade.fr/soutade/libgourou"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 18:15:08",
       "https://news.ycombinator.com/item?id=39993976"
     ],
@@ -177,26 +197,6 @@
     [
       "Double-entry bookkeeping as a directed graph",
       "https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 10:01:14",
-      "https://news.ycombinator.com/item?id=39988912"
-    ],
-    [
-      "Proton and Standard Notes are joining forces",
-      "https://proton.me/blog/proton-standard-notes-join-forces"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 09:30:59",
-      "https://news.ycombinator.com/item?id=39988716"
-    ],
-    [
-      "Deep Bug",
-      "https://www.marginalia.nu/log/a_104_dep_bug/"
     ]
   ],
   [
