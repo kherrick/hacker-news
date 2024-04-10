@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-04-10, 19:01:01",
-      "https://news.ycombinator.com/item?id=39994476"
-    ],
-    [
-      "Mixtral-8x22B on HuggingFace",
-      "https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 18:53:24",
-      "https://news.ycombinator.com/item?id=39994391"
-    ],
-    [
-      "Full forward pass of GPT-2 in one file of pure CUDA",
-      "https://github.com/karpathy/llm.c/blob/master/train_gpt2.cu"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 18:49:47",
       "https://news.ycombinator.com/item?id=39994339"
     ],
@@ -67,16 +47,6 @@
     [
       "Implementation of Google's Griffin Architecture – RNN LLM",
       "https://github.com/google-deepmind/recurrentgemma"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 17:42:14",
-      "https://news.ycombinator.com/item?id=39993563"
-    ],
-    [
-      "Google Photos' enhanced editing tools will no longer require a subscription",
-      "https://www.engadget.com/google-photos-enhanced-editing-tools-will-no-longer-require-a-subscription-160015336.html"
     ]
   ],
   [
@@ -147,6 +117,16 @@
     [
       "Show HN: ADS-B visualizer",
       "https://adsb.exposed/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 13:04:51",
+      "https://news.ycombinator.com/item?id=39990256"
+    ],
+    [
+      "US city-country mortality gap widens",
+      "https://kffhealthnews.org/news/article/rural-urban-mortality-gap-widening/"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2024-04-09, 06:24:15",
+      "https://news.ycombinator.com/item?id=39976640"
+    ],
+    [
+      "Show HN: I made a discrete logic network card",
+      "https://qdiv.dev/posts/eth2/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 05:29:02",
       "https://news.ycombinator.com/item?id=39976391"
     ],
     [
       "Intel's ambitious Meteor Lake iGPU",
       "https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 16:19:26",
+      "https://news.ycombinator.com/item?id=39971234"
+    ],
+    [
+      "New minerals on the moon explaining the mystery of the lunar landscape",
+      "https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape"
     ]
   ],
   [
