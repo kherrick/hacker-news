@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 22:37:52](https://news.ycombinator.com/item?id=39996433) - [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)
 * [2024-04-10, 21:21:06](https://news.ycombinator.com/item?id=39995849) - [World's Smallest CSV Parser (C#)](https://github.com/kjpgit/SmallestCSVParser)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 21:00:51](https://news.ycombinator.com/item?id=39995667) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
@@ -11,7 +12,6 @@
 * [2024-04-10, 18:10:31](https://news.ycombinator.com/item?id=39993930) - [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
 * [2024-04-10, 17:47:11](https://news.ycombinator.com/item?id=39993626) - [Implementation of Google's Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
 * [2024-04-10, 16:48:01](https://news.ycombinator.com/item?id=39992817) - [Show HN: Sonauto – a more controllable AI music creator](https://sonauto.ai/)
-* [2024-04-10, 15:28:38](https://news.ycombinator.com/item?id=39991815) - [Ronda Rousey: \"I never wanted to talk about concussion\"](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
 * [2024-04-10, 15:18:27](https://news.ycombinator.com/item?id=39991693) - [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
 * [2024-04-10, 15:16:22](https://news.ycombinator.com/item?id=39991675) - [Meta MTIA v2 – Meta Training and Inference Accelerator](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 * [2024-04-10, 13:15:02](https://news.ycombinator.com/item?id=39990346) - [Show HN: ADS-B visualizer](https://adsb.exposed/)
