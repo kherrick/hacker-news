@@ -43,6 +43,7 @@
 * [2024-04-08, 17:01:00](https://news.ycombinator.com/item?id=39971645) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39971645)
 * [2024-04-08, 16:42:29](https://news.ycombinator.com/item?id=39971454) - [GPT Chatting with Xfinity support getting discounts](https://v.redd.it/n2m7faixe2tc1)
 * [2024-04-08, 16:21:37](https://news.ycombinator.com/item?id=39971255) - [Ask HN: Why modern smartphone can't play music smoothly?](https://news.ycombinator.com/item?id=39971255)
+* [2024-04-08, 16:19:26](https://news.ycombinator.com/item?id=39971234) - [New minerals on the moon explaining the mystery of the lunar landscape](https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape)
 * [2024-04-08, 15:59:31](https://news.ycombinator.com/item?id=39971005) - [Cake shop worker remains dream job for many children starting school](https://www.japantimes.co.jp/news/2024/04/08/japan/society/japan-children-dream-jobs/)
 * [2024-04-08, 15:48:48](https://news.ycombinator.com/item?id=39970915) - [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 * [2024-04-08, 15:15:43](https://news.ycombinator.com/item?id=39970603) - [Poor Predictors: Job Interviews Are Useless and Unfair](https://www.psychologytoday.com/us/blog/insight-therapy/202008/poor-predictors-job-interviews-are-useless-and-unfair)
