@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-09, 22:14:13](https://news.ycombinator.com/item?id=39984879) - [LXQt: Wayland FAQ](https://lxqt-project.org/blog/2024/04/09/wayland_faq/)
+* [2024-04-10, 00:10:06](https://news.ycombinator.com/item?id=39985630) - [Why does part of the Windows 98 Setup program look older than the rest?](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
 * [2024-04-09, 21:01:39](https://news.ycombinator.com/item?id=39984209) - [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 * [2024-04-09, 20:30:56](https://news.ycombinator.com/item?id=39983915) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 * [2024-04-09, 20:30:33](https://news.ycombinator.com/item?id=39983910) - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
@@ -27,8 +27,8 @@
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:05:56](https://news.ycombinator.com/item?id=39976557) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
 * [2024-04-08, 17:37:44](https://news.ycombinator.com/item?id=39971984) - [Show HN: Neco – Coroutine Library for C](https://github.com/tidwall/neco)
+* [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML feature platform, is now open source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 12:22:20](https://news.ycombinator.com/item?id=39968948) - [Reviving a Flip Clock from the 70ies](https://github.com/jank/Bodet)
-* [2024-04-08, 09:26:52](https://news.ycombinator.com/item?id=39967864) - [MIPS stacktrace: an unexpected journey](https://smeso.it/2024/03/02/mips-stacktrace-an-unexpected-journey.html)
 * [2024-04-08, 05:01:45](https://news.ycombinator.com/item?id=39966349) - [Orange Meets: a demo application built using Cloudflare Calls](https://github.com/cloudflare/orange)
 
 ## [Archives](archives/index.md)
