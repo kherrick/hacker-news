@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-10, 01:31:24](https://news.ycombinator.com/item?id=39986095) - [Mistral AI Launches New 8x22B Moe Model](https://twitter.com/MistralAI)
+* [2024-04-10, 01:31:24](https://news.ycombinator.com/item?id=39986095) - [Mistral AI Launches New 8x22B MOE Model](https://twitter.com/MistralAI)
 * [2024-04-10, 01:23:46](https://news.ycombinator.com/item?id=39986047) - [Mixtral 8x22B Model](https://twitter.com/MistralAI/status/1777869263778291896)
 * [2024-04-10, 00:10:06](https://news.ycombinator.com/item?id=39985630) - [Why does part of the Windows 98 Setup program look older than the rest? (2020)](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
 * [2024-04-09, 21:01:39](https://news.ycombinator.com/item?id=39984209) - [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
