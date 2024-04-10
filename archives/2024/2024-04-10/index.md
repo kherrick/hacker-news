@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 19:01:01](https://news.ycombinator.com/item?id=39994476) - [Mixtral-8x22B on HuggingFace](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1)
+* [2024-04-10, 18:15:08](https://news.ycombinator.com/item?id=39993976) - [Code Search Is Hard](https://blog.val.town/blog/search-notes/)
 * [2024-04-10, 18:10:31](https://news.ycombinator.com/item?id=39993930) - [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
 * [2024-04-10, 18:08:43](https://news.ycombinator.com/item?id=39993907) - [I'm hating swe, what could be another career?](https://news.ycombinator.com/item?id=39993907)
 * [2024-04-10, 17:47:11](https://news.ycombinator.com/item?id=39993626) - [Implementation of Google's Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
@@ -46,6 +48,7 @@
 * [2024-04-10, 11:30:46](https://news.ycombinator.com/item?id=39989467) - [Show HN: Deco.cx – realtime TypeScript web editor](https://deco.cx)
 * [2024-04-10, 11:25:48](https://news.ycombinator.com/item?id=39989436) - [Canonical partners with Qualcom for Snapdragon X](https://www.phoronix.com/news/Ubuntu-Qualcomm-2024-Partners)
 * [2024-04-10, 11:23:35](https://news.ycombinator.com/item?id=39989428) - [How to Stay Sane](https://un.curl.dev/life/stay-sane)
+* [2024-04-10, 10:45:32](https://news.ycombinator.com/item?id=39989196) - [My free side project: 600+ UI Components with Code Editor](https://easyfrontend.com/)
 * [2024-04-10, 10:13:23](https://news.ycombinator.com/item?id=39988993) - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 * [2024-04-10, 10:07:47](https://news.ycombinator.com/item?id=39988948) - [Bzip2 Format Specification [pdf]](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 * [2024-04-10, 10:01:14](https://news.ycombinator.com/item?id=39988912) - [Proton and Standard Notes are joining forces](https://proton.me/blog/proton-standard-notes-join-forces)
