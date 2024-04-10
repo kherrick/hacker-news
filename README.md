@@ -12,6 +12,7 @@
 * [2024-04-09, 18:14:47](https://news.ycombinator.com/item?id=39982362) - [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
 * [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
+* [2024-04-09, 17:43:57](https://news.ycombinator.com/item?id=39982011) - [PS1 Programming Course with MIPS Assembly and C](https://pikuma.com/courses/ps1-programming-mips-assembly-language)
 * [2024-04-09, 17:15:53](https://news.ycombinator.com/item?id=39981623) - [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 * [2024-04-09, 16:59:49](https://news.ycombinator.com/item?id=39981423) - [Virtual Colossus](https://www.virtualcolossus.co.uk/colossus3d/)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
@@ -29,7 +30,6 @@
 * [2024-04-08, 17:37:44](https://news.ycombinator.com/item?id=39971984) - [Show HN: Neco – Coroutine Library for C](https://github.com/tidwall/neco)
 * [2024-04-08, 17:27:11](https://news.ycombinator.com/item?id=39971873) - [Chronon, Airbnb's ML feature platform, is now open source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [2024-04-08, 00:23:12](https://news.ycombinator.com/item?id=39965123) - [Show HN: QWANJI](https://byronicalpatrick.github.io/qwanji/)
-* [2024-04-08, 00:04:44](https://news.ycombinator.com/item?id=39965028) - [Architecture decisions in Neon, a serverless Postgres service](https://neon.tech/blog/architecture-decisions-in-neon)
 
 ## [Archives](archives/index.md)
 
