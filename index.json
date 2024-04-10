@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2024-04-10, 06:05:13",
-      "https://news.ycombinator.com/item?id=39987435"
+      "2024-04-10, 05:52:31",
+      "https://news.ycombinator.com/item?id=39987378"
     ],
     [
-      "Ex-Microsoft engineer gets 7 years after trying to hire hitman for double murder",
-      "https://www.theregister.com/2024/04/09/microsoft_engineer_fake_hitman/"
+      "New details on F-16, drone collision in banned Arizona airspace",
+      "https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 05:03:56",
+      "https://news.ycombinator.com/item?id=39987131"
+    ],
+    [
+      "EU's new tech laws are working – small browsers gain market share",
+      "https://www.forth.news/threads/66161a684e6a1465f62f6a3b"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Alibaba founder Jack Ma steps out from shadows with long internal post",
       "https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 03:41:09",
+      "https://news.ycombinator.com/item?id=39986724"
+    ],
+    [
+      "PHP in 2024",
+      "https://stitcher.io/blog/php-in-2024"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-04-09, 20:30:33",
-      "https://news.ycombinator.com/item?id=39983910"
-    ],
-    [
-      "Making an RISC-V OS (Part 3): Managing free memory",
-      "https://traxys.me/riscv_os_buddy.html"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 20:05:45",
       "https://news.ycombinator.com/item?id=39983665"
     ],
@@ -127,16 +137,6 @@
     [
       "Stalwart mail server (self-hosted all-in-one mail server) now as an admin webui",
       "https://stalw.art/blog/stalwart-webadmin/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 18:14:47",
-      "https://news.ycombinator.com/item?id=39982362"
-    ],
-    [
-      "Evaluating faithfulness and content selection of LLMs in book-length summaries",
-      "https://arxiv.org/abs/2404.01261"
     ]
   ],
   [
