@@ -10,6 +10,7 @@
 * [2024-04-09, 20:30:33](https://news.ycombinator.com/item?id=39983910) - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
 * [2024-04-09, 20:21:31](https://news.ycombinator.com/item?id=39983810) - [How we built the Find My Device network with user security and privacy in mind](https://security.googleblog.com/2024/04/find-my-device-network-security-privacy-protections.html)
 * [2024-04-09, 20:10:30](https://news.ycombinator.com/item?id=39983711) - [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
+* [2024-04-09, 20:05:45](https://news.ycombinator.com/item?id=39983665) - [The World of Instruction Manuals (2018)](https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals)
 * [2024-04-09, 20:00:36](https://news.ycombinator.com/item?id=39983612) - [PostHog: Side Project Insurance](https://github.com/PostHog/posthog.com/pull/8226)
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 19:29:32](https://news.ycombinator.com/item?id=39983233) - [Yes, Social Media Is a Cause of the Epidemic of Teenage Mental Illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
