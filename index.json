@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-10, 17:04:31",
-      "https://news.ycombinator.com/item?id=39993048"
-    ],
-    [
-      "New bill would force AI companies to reveal use of copyrighted art",
-      "https://www.theguardian.com/technology/2024/apr/09/artificial-intelligence-bill-copyright-art"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 17:00:50",
       "https://news.ycombinator.com/item?id=39992993"
     ],
@@ -21,32 +11,12 @@
   ],
   [
     [
-      "2024-04-10, 16:49:55",
-      "https://news.ycombinator.com/item?id=39992843"
-    ],
-    [
-      "ADHD linked with proclivity to explore while foraging",
-      "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.2584"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 16:46:09",
       "https://news.ycombinator.com/item?id=39992797"
     ],
     [
       "5.25-inch floppy disks expected to help run San Francisco trains until 2030",
       "https://arstechnica.com/gadgets/2024/04/5-25-inch-floppy-disks-expected-to-help-run-san-francisco-trains-until-2030/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 16:44:01",
-      "https://news.ycombinator.com/item?id=39992764"
-    ],
-    [
-      "Ask HN: How to Transition from Software Engineer to AI/ML Engineer",
-      "https://news.ycombinator.com/item?id=39992764"
     ]
   ],
   [
@@ -141,12 +111,42 @@
   ],
   [
     [
+      "2024-04-10, 10:07:47",
+      "https://news.ycombinator.com/item?id=39988948"
+    ],
+    [
+      "Bzip2 Format Specification (2016) [pdf]",
+      "https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 10:01:14",
       "https://news.ycombinator.com/item?id=39988912"
     ],
     [
       "Proton and Standard Notes are joining forces",
       "https://proton.me/blog/proton-standard-notes-join-forces"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 09:30:59",
+      "https://news.ycombinator.com/item?id=39988716"
+    ],
+    [
+      "Deep Bug",
+      "https://www.marginalia.nu/log/a_104_dep_bug/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 09:28:04",
+      "https://news.ycombinator.com/item?id=39988697"
+    ],
+    [
+      "Open Source pioneer Perens says it's time to contemplate a Post-Open world",
+      "https://www.thestack.technology/open-source-pioneer-perens-says-time-for-post-open/"
     ]
   ],
   [
@@ -167,6 +167,16 @@
     [
       "Client libraries are better when they have no API",
       "https://csvbase.com/blog/7"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 08:46:40",
+      "https://news.ycombinator.com/item?id=39988415"
+    ],
+    [
+      "Microsoft employees exposed internal passwords in security lapse",
+      "https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2024-04-09, 19:50:43",
+      "https://news.ycombinator.com/item?id=39983490"
+    ],
+    [
+      "A MySQL compatible database engine written in pure Go",
+      "https://github.com/dolthub/go-mysql-server"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 19:29:32",
       "https://news.ycombinator.com/item?id=39983233"
     ],
@@ -217,16 +237,6 @@
     [
       "Better Biosensors Just Need a Touch of Cheap Plastic",
       "https://spectrum.ieee.org/organic-semiconductors-2667704065"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 10:48:19",
-      "https://news.ycombinator.com/item?id=39978064"
-    ],
-    [
-      "Lessons learned from manually classifying CIFAR-10 (2011)",
-      "http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A 2-Axis, Multihead Light Positioner",
       "https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 02:26:35",
-      "https://news.ycombinator.com/item?id=39949490"
-    ],
-    [
-      "Dixon Rings",
-      "https://en.wikipedia.org/wiki/Dixon_rings"
     ]
   ]
 ]
