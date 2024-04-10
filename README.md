@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-10, 13:28:37](https://news.ycombinator.com/item?id=39990489) - [German gallery fires employee for hanging own art in exhibition](https://www.bbc.com/news/world-europe-68776528)
-* [2024-04-10, 12:47:56](https://news.ycombinator.com/item?id=39990096) - [A key chemistry journal disappeared from the web. Others are at risk](https://www.chemistryworld.com/news/a-key-chemistry-journal-disappeared-from-the-web-others-are-at-risk/4019265.article)
+* [2024-04-10, 12:12:21](https://news.ycombinator.com/item?id=39989819) - [Linux on Snapdragon X Elite Laptop [video]](https://www.youtube.com/watch?v=rEaGyCAS9fY)
 * [2024-04-10, 12:00:30](https://news.ycombinator.com/item?id=39989713) - [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
 * [2024-04-10, 11:40:30](https://news.ycombinator.com/item?id=39989564) - [Animal-free egg protein startup Onego Bio is closer to cracking the egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
 * [2024-04-10, 10:13:23](https://news.ycombinator.com/item?id=39988993) - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)

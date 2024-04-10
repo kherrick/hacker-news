@@ -10,6 +10,7 @@
 * [2024-04-10, 13:04:51](https://news.ycombinator.com/item?id=39990256) - [Rural Americans Are Dying at Increasingly Higher Rates Than City Dwellers](https://kffhealthnews.org/news/article/rural-urban-mortality-gap-widening/)
 * [2024-04-10, 12:47:56](https://news.ycombinator.com/item?id=39990096) - [A key chemistry journal disappeared from the web. Others are at risk](https://www.chemistryworld.com/news/a-key-chemistry-journal-disappeared-from-the-web-others-are-at-risk/4019265.article)
 * [2024-04-10, 12:30:03](https://news.ycombinator.com/item?id=39989945) - [Mixtral 8x22B on MLX](https://twitter.com/Prince_Canuma/status/1778030397336559989)
+* [2024-04-10, 12:12:21](https://news.ycombinator.com/item?id=39989819) - [Linux on Snapdragon X Elite Laptop [video]](https://www.youtube.com/watch?v=rEaGyCAS9fY)
 * [2024-04-10, 12:04:29](https://news.ycombinator.com/item?id=39989754) - [In Memoriam: Ross Anderson, 1956-2024](https://cacm.acm.org/news/in-memoriam-ross-anderson-1956-2024/)
 * [2024-04-10, 12:00:30](https://news.ycombinator.com/item?id=39989713) - [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
 * [2024-04-10, 11:42:25](https://news.ycombinator.com/item?id=39989580) - [Redis is not \"open core\" (2021)](http://antirez.com/news/121)
