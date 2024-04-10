@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 13:28:37](https://news.ycombinator.com/item?id=39990489) - [German gallery fires employee for hanging own art in exhibition](https://www.bbc.com/news/world-europe-68776528)
 * [2024-04-10, 13:17:04](https://news.ycombinator.com/item?id=39990361) - [Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/)
 * [2024-04-10, 13:10:27](https://news.ycombinator.com/item?id=39990303) - [Why is 1 GB equal to 10^9 bytes instead of 2^30?](https://www.tarsnap.com/GB-why.html)
 * [2024-04-10, 13:04:51](https://news.ycombinator.com/item?id=39990256) - [Rural Americans Are Dying at Increasingly Higher Rates Than City Dwellers](https://kffhealthnews.org/news/article/rural-urban-mortality-gap-widening/)
+* [2024-04-10, 12:47:56](https://news.ycombinator.com/item?id=39990096) - [A key chemistry journal disappeared from the web. Others are at risk](https://www.chemistryworld.com/news/a-key-chemistry-journal-disappeared-from-the-web-others-are-at-risk/4019265.article)
 * [2024-04-10, 12:30:03](https://news.ycombinator.com/item?id=39989945) - [Mixtral 8x22B on MLX](https://twitter.com/Prince_Canuma/status/1778030397336559989)
 * [2024-04-10, 12:04:29](https://news.ycombinator.com/item?id=39989754) - [In Memoriam: Ross Anderson, 1956-2024](https://cacm.acm.org/news/in-memoriam-ross-anderson-1956-2024/)
 * [2024-04-10, 12:00:30](https://news.ycombinator.com/item?id=39989713) - [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
@@ -31,6 +33,7 @@
 * [2024-04-10, 05:03:56](https://news.ycombinator.com/item?id=39987131) - [EU's new tech laws are working – small browsers gain market share](https://www.forth.news/threads/66161a684e6a1465f62f6a3b)
 * [2024-04-10, 04:31:02](https://news.ycombinator.com/item?id=39986974) - [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
 * [2024-04-10, 03:41:09](https://news.ycombinator.com/item?id=39986724) - [PHP in 2024](https://stitcher.io/blog/php-in-2024)
+* [2024-04-10, 03:30:38](https://news.ycombinator.com/item?id=39986687) - [Ways of Seeing: Nicholson Baker learns to draw](https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332)
 * [2024-04-10, 03:08:55](https://news.ycombinator.com/item?id=39986593) - [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 * [2024-04-10, 03:08:14](https://news.ycombinator.com/item?id=39986589) - [The Rise and Impending Fall of the Dental Cavity](https://www.cremieux.xyz/p/the-rise-and-impending-fall-of-the)
 * [2024-04-10, 02:33:32](https://news.ycombinator.com/item?id=39986406) - [Meta confirms that its Llama 3 open source LLM is coming in the next month](https://techcrunch.com/2024/04/09/meta-confirms-that-its-llama-3-open-source-llm-is-coming-in-the-next-month/)
