@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 11:25:48](https://news.ycombinator.com/item?id=39989436) - [Canonical partners with Qualcom for Snapdragon X](https://www.phoronix.com/news/Ubuntu-Qualcomm-2024-Partners)
+* [2024-04-10, 11:23:35](https://news.ycombinator.com/item?id=39989428) - [How to Stay Sane](https://un.curl.dev/life/stay-sane)
+* [2024-04-10, 10:13:23](https://news.ycombinator.com/item?id=39988993) - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on toxic PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 08:52:39](https://news.ycombinator.com/item?id=39988457) - [Too many firms are not coming clean about hacking says watchdog](https://www.dutchnews.nl/2024/04/too-many-firms-are-not-coming-clean-about-hacking-says-watchdog/)
