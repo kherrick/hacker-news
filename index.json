@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-10, 02:33:32",
+      "https://news.ycombinator.com/item?id=39986406"
+    ],
+    [
+      "Meta confirms that its Llama 3 open source LLM is coming in the next month",
+      "https://techcrunch.com/2024/04/09/meta-confirms-that-its-llama-3-open-source-llm-is-coming-in-the-next-month/"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 01:31:24",
       "https://news.ycombinator.com/item?id=39986095"
     ],
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2024-04-09, 17:38:59",
-      "https://news.ycombinator.com/item?id=39981945"
-    ],
-    [
-      "Zed Decoded: Async Rust",
-      "https://zed.dev/blog/zed-decoded-async-rust"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 17:15:53",
       "https://news.ycombinator.com/item?id=39981623"
     ],
     [
       "ScreenAI: A visual LLM for UI and visually-situated language understanding",
       "https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 17:09:51",
-      "https://news.ycombinator.com/item?id=39981550"
-    ],
-    [
-      "Fairbuds: In-ear with replaceable batteries",
-      "https://shop.fairphone.com/fairbuds"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: QWANJI",
       "https://byronicalpatrick.github.io/qwanji/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 00:04:44",
+      "https://news.ycombinator.com/item?id=39965028"
+    ],
+    [
+      "Architecture decisions in Neon, a serverless Postgres service",
+      "https://neon.tech/blog/architecture-decisions-in-neon"
     ]
   ]
 ]
