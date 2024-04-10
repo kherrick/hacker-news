@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 14:35:37](https://news.ycombinator.com/item?id=39991173) - [Twitter's Clumsy Pivot to X.com Is a Gift to Phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
 * [2024-04-10, 14:05:58](https://news.ycombinator.com/item?id=39990891) - [The greatest bug I never fixed (2010)](https://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
 * [2024-04-10, 13:28:37](https://news.ycombinator.com/item?id=39990489) - [German gallery fires employee for hanging own art in exhibition](https://www.bbc.com/news/world-europe-68776528)
 * [2024-04-10, 13:17:04](https://news.ycombinator.com/item?id=39990361) - [Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/)
@@ -13,6 +14,7 @@
 * [2024-04-10, 12:47:56](https://news.ycombinator.com/item?id=39990096) - [A key chemistry journal disappeared from the web. Others are at risk](https://www.chemistryworld.com/news/a-key-chemistry-journal-disappeared-from-the-web-others-are-at-risk/4019265.article)
 * [2024-04-10, 12:36:43](https://news.ycombinator.com/item?id=39990004) - [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
 * [2024-04-10, 12:30:03](https://news.ycombinator.com/item?id=39989945) - [Mixtral 8x22B on MLX](https://twitter.com/Prince_Canuma/status/1778030397336559989)
+* [2024-04-10, 12:24:33](https://news.ycombinator.com/item?id=39989906) - [Show HN: QR Builder](https://qr-builder.io)
 * [2024-04-10, 12:12:21](https://news.ycombinator.com/item?id=39989819) - [Linux on Snapdragon X Elite Laptop [video]](https://www.youtube.com/watch?v=rEaGyCAS9fY)
 * [2024-04-10, 12:04:29](https://news.ycombinator.com/item?id=39989754) - [In Memoriam: Ross Anderson, 1956-2024](https://cacm.acm.org/news/in-memoriam-ross-anderson-1956-2024/)
 * [2024-04-10, 12:00:30](https://news.ycombinator.com/item?id=39989713) - [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
