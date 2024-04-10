@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-10, 21:21:06",
+      "https://news.ycombinator.com/item?id=39995849"
+    ],
+    [
+      "World's Smallest CSV Parser (C#)",
+      "https://github.com/kjpgit/SmallestCSVParser"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 21:06:42",
       "https://news.ycombinator.com/item?id=39995725"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-04-10, 20:47:38",
-      "https://news.ycombinator.com/item?id=39995541"
+      "2024-04-10, 20:56:51",
+      "https://news.ycombinator.com/item?id=39995628"
     ],
     [
-      "Toward Inference-Optimal Mixture-of-Expert Large Language Models",
-      "https://arxiv.org/abs/2404.02852"
+      "Gentoo Linux becomes an SPI associated project",
+      "https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-04-10, 15:49:29",
-      "https://news.ycombinator.com/item?id=39992058"
-    ],
-    [
-      "How I write unit tests in Go",
-      "https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 15:28:38",
       "https://news.ycombinator.com/item?id=39991815"
     ],
@@ -167,16 +167,6 @@
     [
       "2023 ACM Turing Prize awarded to Avi Wigderson",
       "https://awards.acm.org/about/2023-turing"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 11:30:46",
-      "https://news.ycombinator.com/item?id=39989467"
-    ],
-    [
-      "Show HN: Deco.cx – realtime TypeScript web editor",
-      "https://deco.cx"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Lessons learned from manually classifying CIFAR-10 (2011)",
       "http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 06:22:43",
+      "https://news.ycombinator.com/item?id=39976634"
+    ],
+    [
+      "Oh My Git: An open source game about learning Git",
+      "https://ohmygit.org/"
     ]
   ],
   [
