@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-10, 23:26:49",
+      "https://news.ycombinator.com/item?id=39996743"
+    ],
+    [
+      "OpenGrok: Fast and usable source code search and cross reference engine",
+      "https://github.com/oracle/opengrok"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 22:51:47",
+      "https://news.ycombinator.com/item?id=39996521"
+    ],
+    [
+      "ETag and HTTP Caching",
+      "https://rednafi.com/misc/etag_and_http_caching/"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 22:49:46",
       "https://news.ycombinator.com/item?id=39996504"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-04-10, 09:30:59",
-      "https://news.ycombinator.com/item?id=39988716"
-    ],
-    [
-      "Deep Bug",
-      "https://www.marginalia.nu/log/a_104_dep_bug/"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 03:30:38",
       "https://news.ycombinator.com/item?id=39986687"
     ],
@@ -227,16 +237,6 @@
     [
       "Converting C437 to XNA Spritesheets with Zig and Raylib",
       "http://blog.jamiejquinn.com/converting-c437-to-raylib"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 10:48:19",
-      "https://news.ycombinator.com/item?id=39978064"
-    ],
-    [
-      "Lessons learned from manually classifying CIFAR-10 (2011)",
-      "http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/"
     ]
   ],
   [
