@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-10, 19:01:01](https://news.ycombinator.com/item?id=39994476) - [Mixtral-8x22B on HuggingFace](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1)
+* [2024-04-10, 18:53:24](https://news.ycombinator.com/item?id=39994391) - [Full forward pass of GPT-2 in one file of pure CUDA](https://github.com/karpathy/llm.c/blob/master/train_gpt2.cu)
+* [2024-04-10, 18:49:47](https://news.ycombinator.com/item?id=39994339) - [Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
 * [2024-04-10, 18:15:08](https://news.ycombinator.com/item?id=39993976) - [Code Search Is Hard](https://blog.val.town/blog/search-notes/)
 * [2024-04-10, 18:10:31](https://news.ycombinator.com/item?id=39993930) - [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
 * [2024-04-10, 17:47:11](https://news.ycombinator.com/item?id=39993626) - [Implementation of Google's Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
@@ -18,8 +20,6 @@
 * [2024-04-10, 11:30:46](https://news.ycombinator.com/item?id=39989467) - [Show HN: Deco.cx – realtime TypeScript web editor](https://deco.cx)
 * [2024-04-10, 10:45:32](https://news.ycombinator.com/item?id=39989196) - [My free side project: 600+ UI Components with Code Editor](https://easyfrontend.com/)
 * [2024-04-10, 10:13:23](https://news.ycombinator.com/item?id=39988993) - [Double-entry bookkeeping as a directed graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
-* [2024-04-10, 10:01:14](https://news.ycombinator.com/item?id=39988912) - [Proton and Standard Notes are joining forces](https://proton.me/blog/proton-standard-notes-join-forces)
-* [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 06:32:18](https://news.ycombinator.com/item?id=39987579) - [Show HN: CompressX, my FFmpeg wrapper for macOS](https://compressx.app)
 * [2024-04-10, 03:30:38](https://news.ycombinator.com/item?id=39986687) - [Ways of Seeing: Nicholson Baker learns to draw](https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332)
 * [2024-04-09, 12:44:16](https://news.ycombinator.com/item?id=39978819) - [Better biosensors just need a touch of cheap plastic](https://spectrum.ieee.org/organic-semiconductors-2667704065)
