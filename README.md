@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 15:18:27](https://news.ycombinator.com/item?id=39991693) - [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
 * [2024-04-10, 15:16:22](https://news.ycombinator.com/item?id=39991675) - [Meta MTIA v2](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 * [2024-04-10, 14:35:37](https://news.ycombinator.com/item?id=39991173) - [Twitter's pivot to x.com is a gift to phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
 * [2024-04-10, 13:15:02](https://news.ycombinator.com/item?id=39990346) - [Show HN: Ads-B Visualizer](https://adsb.exposed/)
@@ -11,7 +12,6 @@
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 09:10:24](https://news.ycombinator.com/item?id=39988580) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 08:46:40](https://news.ycombinator.com/item?id=39988415) - [Microsoft employees exposed internal passwords in security lapse](https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/)
-* [2024-04-10, 06:32:18](https://news.ycombinator.com/item?id=39987579) - [Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months](https://compressx.app)
 * [2024-04-10, 03:30:38](https://news.ycombinator.com/item?id=39986687) - [Ways of Seeing: Nicholson Baker learns to draw](https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332)
 * [2024-04-10, 03:08:55](https://news.ycombinator.com/item?id=39986593) - [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
