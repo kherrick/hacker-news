@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 17:04:31](https://news.ycombinator.com/item?id=39993048) - [New bill would force AI companies to reveal use of copyrighted art](https://www.theguardian.com/technology/2024/apr/09/artificial-intelligence-bill-copyright-art)
 * [2024-04-10, 17:00:50](https://news.ycombinator.com/item?id=39992993) - [OfOne (YC W23) – voice AI for drive-thrus – is hiring a founding engineer in SF](https://www.ycombinator.com/companies/ofone/jobs/u2E2fCX-founding-software-engineer)
+* [2024-04-10, 16:49:55](https://news.ycombinator.com/item?id=39992843) - [ADHD linked with proclivity to explore while foraging](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.2584)
 * [2024-04-10, 16:46:09](https://news.ycombinator.com/item?id=39992797) - [5.25-inch floppy disks expected to help run San Francisco trains until 2030](https://arstechnica.com/gadgets/2024/04/5-25-inch-floppy-disks-expected-to-help-run-san-francisco-trains-until-2030/)
-* [2024-04-10, 16:40:18](https://news.ycombinator.com/item?id=39992731) - [Rents are soaring. Is a popular software tool to blame?](https://www.businessinsider.com/apartment-rent-increases-landlords-antitrust-lawsuits-real-estate-software-realpage-2024-4)
-* [2024-04-10, 15:48:17](https://news.ycombinator.com/item?id=39992046) - [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system)
-* [2024-04-10, 15:28:38](https://news.ycombinator.com/item?id=39991815) - [Ronda Rousey: 'I never wanted to talk about concussion. It felt like a weakness'](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
+* [2024-04-10, 16:44:01](https://news.ycombinator.com/item?id=39992764) - [Ask HN: How to Transition from Software Engineer to AI/ML Engineer](https://news.ycombinator.com/item?id=39992764)
 * [2024-04-10, 15:18:27](https://news.ycombinator.com/item?id=39991693) - [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
 * [2024-04-10, 15:16:22](https://news.ycombinator.com/item?id=39991675) - [Meta MTIA v2 – Meta Training and Inference Accelerator](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 * [2024-04-10, 13:15:02](https://news.ycombinator.com/item?id=39990346) - [Show HN: Ads-B Visualizer](https://adsb.exposed/)
@@ -15,7 +15,6 @@
 * [2024-04-10, 11:30:46](https://news.ycombinator.com/item?id=39989467) - [Show HN: Deco.cx – realtime TypeScript web editor](https://deco.cx)
 * [2024-04-10, 10:13:23](https://news.ycombinator.com/item?id=39988993) - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 * [2024-04-10, 10:01:14](https://news.ycombinator.com/item?id=39988912) - [Proton and Standard Notes are joining forces](https://proton.me/blog/proton-standard-notes-join-forces)
-* [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 09:20:19](https://news.ycombinator.com/item?id=39988655) - [JavaScript Allongé, the \"Six\" Edition](https://github.com/raganwald/javascript-allonge-six)
 * [2024-04-10, 09:10:24](https://news.ycombinator.com/item?id=39988580) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 06:32:18](https://news.ycombinator.com/item?id=39987579) - [Show HN: CompressX, my FFmpeg wrapper for macOS](https://compressx.app)
@@ -30,6 +29,7 @@
 * [2024-04-08, 12:06:01](https://news.ycombinator.com/item?id=39968844) - [British Placename Mapper](https://placenames.rtwilson.com/)
 * [2024-04-08, 11:16:45](https://news.ycombinator.com/item?id=39968537) - [Transformer as a General Purpose Computer](https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer)
 * [2024-04-08, 10:37:31](https://news.ycombinator.com/item?id=39968297) - [A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
+* [2024-04-06, 02:26:35](https://news.ycombinator.com/item?id=39949490) - [Dixon Rings](https://en.wikipedia.org/wiki/Dixon_rings)
 
 ## [Archives](archives/index.md)
 

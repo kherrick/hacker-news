@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 17:04:31](https://news.ycombinator.com/item?id=39993048) - [New bill would force AI companies to reveal use of copyrighted art](https://www.theguardian.com/technology/2024/apr/09/artificial-intelligence-bill-copyright-art)
 * [2024-04-10, 17:00:50](https://news.ycombinator.com/item?id=39992993) - [OfOne (YC W23) – voice AI for drive-thrus – is hiring a founding engineer in SF](https://www.ycombinator.com/companies/ofone/jobs/u2E2fCX-founding-software-engineer)
+* [2024-04-10, 16:49:55](https://news.ycombinator.com/item?id=39992843) - [ADHD linked with proclivity to explore while foraging](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.2584)
 * [2024-04-10, 16:46:09](https://news.ycombinator.com/item?id=39992797) - [5.25-inch floppy disks expected to help run San Francisco trains until 2030](https://arstechnica.com/gadgets/2024/04/5-25-inch-floppy-disks-expected-to-help-run-san-francisco-trains-until-2030/)
+* [2024-04-10, 16:44:01](https://news.ycombinator.com/item?id=39992764) - [Ask HN: How to Transition from Software Engineer to AI/ML Engineer](https://news.ycombinator.com/item?id=39992764)
 * [2024-04-10, 16:40:18](https://news.ycombinator.com/item?id=39992731) - [Rents are soaring. Is a popular software tool to blame?](https://www.businessinsider.com/apartment-rent-increases-landlords-antitrust-lawsuits-real-estate-software-realpage-2024-4)
 * [2024-04-10, 16:34:28](https://news.ycombinator.com/item?id=39992652) - [Chechnya is banning music that's too fast or slow.](https://www.npr.org/2024/04/09/1243632570/chechnya-music-ban-bpm)
 * [2024-04-10, 15:48:17](https://news.ycombinator.com/item?id=39992046) - [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system)
