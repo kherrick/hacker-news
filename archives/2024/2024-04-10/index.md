@@ -44,6 +44,7 @@
 * [2024-04-10, 10:01:14](https://news.ycombinator.com/item?id=39988912) - [Proton and Standard Notes are joining forces](https://proton.me/blog/proton-standard-notes-join-forces)
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on toxic PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
+* [2024-04-10, 09:28:04](https://news.ycombinator.com/item?id=39988697) - [Open Source pioneer Perens says it's time to contemplate a Post-Open world](https://www.thestack.technology/open-source-pioneer-perens-says-time-for-post-open/)
 * [2024-04-10, 09:24:10](https://news.ycombinator.com/item?id=39988676) - [Rust 101](https://www.scotto.me/blog/rust-101/)
 * [2024-04-10, 09:20:19](https://news.ycombinator.com/item?id=39988655) - [JavaScript Allongé, the \"Six\" Edition](https://github.com/raganwald/javascript-allonge-six)
 * [2024-04-10, 09:10:24](https://news.ycombinator.com/item?id=39988580) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
