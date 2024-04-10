@@ -30,6 +30,7 @@
 * [2024-04-10, 16:44:01](https://news.ycombinator.com/item?id=39992764) - [Ask HN: How to Transition from Software Engineer to AI/ML Engineer](https://news.ycombinator.com/item?id=39992764)
 * [2024-04-10, 16:40:18](https://news.ycombinator.com/item?id=39992731) - [Rents are soaring. Is a popular software tool to blame?](https://www.businessinsider.com/apartment-rent-increases-landlords-antitrust-lawsuits-real-estate-software-realpage-2024-4)
 * [2024-04-10, 16:34:28](https://news.ycombinator.com/item?id=39992652) - [Chechnya is banning music that's too fast or slow.](https://www.npr.org/2024/04/09/1243632570/chechnya-music-ban-bpm)
+* [2024-04-10, 15:49:29](https://news.ycombinator.com/item?id=39992058) - [How I write unit tests in Go](https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/)
 * [2024-04-10, 15:48:17](https://news.ycombinator.com/item?id=39992046) - [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system)
 * [2024-04-10, 15:46:09](https://news.ycombinator.com/item?id=39992017) - [The $10k BYD Seagull EV is scaring the U.S. auto industry](https://www.teslarati.com/10000-byd-seagull-us-auto/)
 * [2024-04-10, 15:28:38](https://news.ycombinator.com/item?id=39991815) - [Ronda Rousey: 'I never wanted to talk about concussion. It felt like a weakness'](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
