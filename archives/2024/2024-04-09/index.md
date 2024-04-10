@@ -39,6 +39,7 @@
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 * [2024-04-09, 16:18:22](https://news.ycombinator.com/item?id=39981005) - [Google just released its AI chip rival to Nvidia](https://qz.com/google-ai-chip-nvidia-axion-arm-microsoft-1851397201)
 * [2024-04-09, 16:03:08](https://news.ycombinator.com/item?id=39980849) - [The History of CP/M (1980) [txt]](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
+* [2024-04-09, 15:52:50](https://news.ycombinator.com/item?id=39980750) - [Juicebox: Squeezing the hassle out of encryption key recovery](https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery)
 * [2024-04-09, 15:46:50](https://news.ycombinator.com/item?id=39980691) - [The Towns Outsmarting Airbnb](https://reasonstobecheerful.world/the-towns-outsmarting-airbnb/)
 * [2024-04-09, 15:22:56](https://news.ycombinator.com/item?id=39980427) - [Canadian DNA lab knew paternity tests misidentified dads, but kept selling them](https://www.cbc.ca/news/canada/paternity-tests-dna-1.7164707)
 * [2024-04-09, 15:10:28](https://news.ycombinator.com/item?id=39980278) - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
