@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-04-10, 16:34:28",
-      "https://news.ycombinator.com/item?id=39992652"
+      "2024-04-10, 17:00:50",
+      "https://news.ycombinator.com/item?id=39992993"
     ],
     [
-      "Chechnya is banning music that's too fast or slow.",
-      "https://www.npr.org/2024/04/09/1243632570/chechnya-music-ban-bpm"
+      "OfOne (YC W23) – voice AI for drive-thrus – is hiring a founding engineer in SF",
+      "https://www.ycombinator.com/companies/ofone/jobs/u2E2fCX-founding-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 16:46:09",
+      "https://news.ycombinator.com/item?id=39992797"
+    ],
+    [
+      "5.25-inch floppy disks expected to help run San Francisco trains until 2030",
+      "https://arstechnica.com/gadgets/2024/04/5-25-inch-floppy-disks-expected-to-help-run-san-francisco-trains-until-2030/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 16:40:18",
+      "https://news.ycombinator.com/item?id=39992731"
+    ],
+    [
+      "Rents are soaring. Is a popular software tool to blame?",
+      "https://www.businessinsider.com/apartment-rent-increases-landlords-antitrust-lawsuits-real-estate-software-realpage-2024-4"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39991675"
     ],
     [
-      "Meta MTIA v2",
+      "Meta MTIA v2 – Meta Training and Inference Accelerator",
       "https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/"
     ]
   ],
@@ -91,12 +111,22 @@
   ],
   [
     [
-      "2024-04-10, 12:00:30",
-      "https://news.ycombinator.com/item?id=39989713"
+      "2024-04-10, 12:35:22",
+      "https://news.ycombinator.com/item?id=39989992"
     ],
     [
-      "Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)",
-      "https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales"
+      "Is It Dry Yet?",
+      "https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 11:30:46",
+      "https://news.ycombinator.com/item?id=39989467"
+    ],
+    [
+      "Show HN: Deco.cx – realtime TypeScript web editor",
+      "https://deco.cx"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Double-Entry Bookkeeping as a Directed Graph",
       "https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 10:07:47",
-      "https://news.ycombinator.com/item?id=39988948"
-    ],
-    [
-      "Bzip2 Format Specification (2016) [pdf]",
-      "https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2024-04-10, 09:20:19",
+      "https://news.ycombinator.com/item?id=39988655"
+    ],
+    [
+      "JavaScript Allongé, the \"Six\" Edition",
+      "https://github.com/raganwald/javascript-allonge-six"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 09:10:24",
       "https://news.ycombinator.com/item?id=39988580"
     ],
@@ -151,12 +181,12 @@
   ],
   [
     [
-      "2024-04-10, 08:46:40",
-      "https://news.ycombinator.com/item?id=39988415"
+      "2024-04-10, 06:32:18",
+      "https://news.ycombinator.com/item?id=39987579"
     ],
     [
-      "Microsoft employees exposed internal passwords in security lapse",
-      "https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/"
+      "Show HN: CompressX, my FFmpeg wrapper for macOS",
+      "https://compressx.app"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2024-04-09, 15:04:27",
-      "https://news.ycombinator.com/item?id=39980222"
-    ],
-    [
-      "Show HN: We built PriceLevel to find out what companies pay for SaaS",
-      "https://www.pricelevel.com/"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 12:44:16",
       "https://news.ycombinator.com/item?id=39978819"
     ],
@@ -227,16 +247,6 @@
     [
       "Show HN: I made a discrete logic network card",
       "https://qdiv.dev/posts/eth2/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 05:48:37",
-      "https://news.ycombinator.com/item?id=39976483"
-    ],
-    [
-      "Bay Area Workers Charged for Building Secret Apartments Inside Train Stations",
-      "https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A 2-Axis, Multihead Light Positioner",
       "https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 00:23:12",
-      "https://news.ycombinator.com/item?id=39965123"
-    ],
-    [
-      "Show HN: QWANJI",
-      "https://byronicalpatrick.github.io/qwanji/"
     ]
   ]
 ]
