@@ -122,3 +122,4 @@
 * [2024-04-08, 00:52:21](https://news.ycombinator.com/item?id=39965250) - [New theory on Satoshi Nakamoto](https://old.reddit.com/r/CryptoCurrency/comments/1bxqnpq/new_theory_on_satoshi_nakamoto/)
 * [2024-04-08, 00:23:12](https://news.ycombinator.com/item?id=39965123) - [Show HN: QWANJI](https://byronicalpatrick.github.io/qwanji/)
 * [2024-04-08, 00:17:01](https://news.ycombinator.com/item?id=39965087) - [Kuto, a Reverse JavaScript Bundler](https://samthor.au/2024/kuto/)
+* [2024-04-08, 00:04:44](https://news.ycombinator.com/item?id=39965028) - [Architecture decisions in Neon, a serverless Postgres service](https://neon.tech/blog/architecture-decisions-in-neon)
