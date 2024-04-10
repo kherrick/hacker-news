@@ -33,6 +33,7 @@
 * [2024-04-10, 11:23:35](https://news.ycombinator.com/item?id=39989428) - [How to Stay Sane](https://un.curl.dev/life/stay-sane)
 * [2024-04-10, 10:13:23](https://news.ycombinator.com/item?id=39988993) - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 * [2024-04-10, 10:07:47](https://news.ycombinator.com/item?id=39988948) - [Bzip2 Format Specification [pdf]](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
+* [2024-04-10, 10:01:14](https://news.ycombinator.com/item?id=39988912) - [Proton and Standard Notes are joining forces](https://proton.me/blog/proton-standard-notes-join-forces)
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on toxic PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 09:24:10](https://news.ycombinator.com/item?id=39988676) - [Rust 101](https://www.scotto.me/blog/rust-101/)
