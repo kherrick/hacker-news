@@ -89,6 +89,7 @@
 * [2024-04-09, 09:24:58](https://news.ycombinator.com/item?id=39977671) - [Apple Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719)
 * [2024-04-09, 09:02:51](https://news.ycombinator.com/item?id=39977537) - [A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux](https://www.muppetlabs.com/%7Ebreadbox/software/tiny/teensy.html)
 * [2024-04-09, 08:59:15](https://news.ycombinator.com/item?id=39977522) - [The Internet Archive Just Backed Up an Entire Caribbean Island](https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/)
+* [2024-04-09, 08:47:53](https://news.ycombinator.com/item?id=39977443) - [Multimillion-dollar L.A. heist was seamless, sophisticated, stealthy](https://www.latimes.com/california/story/2024-04-06/30-million-theft-from-l-a-vault-was-seemless-sophisticated-daring)
 * [2024-04-09, 08:27:58](https://news.ycombinator.com/item?id=39977266) - [Magnets are switching up the (mechanical) keyboard game](https://techcrunch.com/2024/04/07/magnets-are-switching-up-the-keyboard-game/)
 * [2024-04-09, 08:24:10](https://news.ycombinator.com/item?id=39977231) - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
 * [2024-04-09, 08:06:53](https://news.ycombinator.com/item?id=39977141) - [TSMC will build third Arizona fab after winning $6.6B in CHIPS funding](https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/)
