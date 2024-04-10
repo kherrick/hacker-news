@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 12:04:29](https://news.ycombinator.com/item?id=39989754) - [In Memoriam: Ross Anderson, 1956-2024](https://cacm.acm.org/news/in-memoriam-ross-anderson-1956-2024/)
 * [2024-04-10, 12:00:30](https://news.ycombinator.com/item?id=39989713) - [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
 * [2024-04-10, 11:40:30](https://news.ycombinator.com/item?id=39989564) - [Animal-free egg protein startup Onego Bio is closer to cracking the egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
 * [2024-04-10, 11:39:24](https://news.ycombinator.com/item?id=39989552) - [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
@@ -14,6 +15,7 @@
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on toxic PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 09:24:10](https://news.ycombinator.com/item?id=39988676) - [Rust 101](https://www.scotto.me/blog/rust-101/)
+* [2024-04-10, 09:10:24](https://news.ycombinator.com/item?id=39988580) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 08:52:39](https://news.ycombinator.com/item?id=39988457) - [Too many firms are not coming clean about hacking says watchdog](https://www.dutchnews.nl/2024/04/too-many-firms-are-not-coming-clean-about-hacking-says-watchdog/)
 * [2024-04-10, 08:46:40](https://news.ycombinator.com/item?id=39988415) - [Microsoft employees exposed internal passwords in security lapse](https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/)
 * [2024-04-10, 08:20:30](https://news.ycombinator.com/item?id=39988269) - [Verified Curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
