@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-10, 02:33:32",
-      "https://news.ycombinator.com/item?id=39986406"
-    ],
-    [
-      "Meta confirms that its Llama 3 open source LLM is coming in the next month",
-      "https://techcrunch.com/2024/04/09/meta-confirms-that-its-llama-3-open-source-llm-is-coming-in-the-next-month/"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 01:31:24",
       "https://news.ycombinator.com/item?id=39986095"
     ],
@@ -61,12 +51,32 @@
   ],
   [
     [
+      "2024-04-09, 20:05:45",
+      "https://news.ycombinator.com/item?id=39983665"
+    ],
+    [
+      "The World of Instruction Manuals (2018)",
+      "https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 19:50:43",
       "https://news.ycombinator.com/item?id=39983490"
     ],
     [
       "A MySQL compatible database engine written in pure Go",
       "https://github.com/dolthub/go-mysql-server"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 19:29:32",
+      "https://news.ycombinator.com/item?id=39983233"
+    ],
+    [
+      "Yes, social media is a cause of the epidemic of teenage mental illness",
+      "https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Cow Magnets",
       "https://www.stanfordmagnets.com/cow-magnets.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 17:43:57",
-      "https://news.ycombinator.com/item?id=39982011"
-    ],
-    [
-      "PS1 Programming Course with MIPS Assembly and C",
-      "https://pikuma.com/courses/ps1-programming-mips-assembly-language"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-04-09, 05:48:37",
+      "https://news.ycombinator.com/item?id=39976483"
+    ],
+    [
+      "Bay Area Workers Charged for Building Secret Apartments Inside Train Stations",
+      "https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 21:43:26",
       "https://news.ycombinator.com/item?id=39974042"
     ],
@@ -267,16 +277,6 @@
     [
       "Chronon, Airbnb's ML feature platform, is now open source",
       "https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 05:01:45",
-      "https://news.ycombinator.com/item?id=39966349"
-    ],
-    [
-      "Orange Meets: a demo application built using Cloudflare Calls",
-      "https://github.com/cloudflare/orange"
     ]
   ],
   [
