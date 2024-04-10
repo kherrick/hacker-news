@@ -104,6 +104,7 @@
 * [2024-04-09, 07:23:35](https://news.ycombinator.com/item?id=39976935) - [SiFive Premier P550 RISC-V development board](https://www.sifive.com/boards/hifive-premier-p550)
 * [2024-04-09, 07:08:08](https://news.ycombinator.com/item?id=39976856) - [Blogs strip off for CSS Naked Day](https://shkspr.mobi/blog/2020/04/this-blog-strips-off-for-css-naked-day/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
+* [2024-04-09, 06:22:43](https://news.ycombinator.com/item?id=39976634) - [Oh My Git: An open source game about learning Git](https://ohmygit.org/)
 * [2024-04-09, 06:15:31](https://news.ycombinator.com/item?id=39976591) - [Creating Seams in a Mainframe's Batch Pipelines](https://martinfowler.com/articles/uncovering-mainframe-seams.html)
 * [2024-04-09, 06:12:08](https://news.ycombinator.com/item?id=39976577) - [Viewing the 2024 Solar Eclipse with Commodore 64's 1984 Sky Travel [video]](https://www.youtube.com/watch?v=gipFvhEMB0I)
 * [2024-04-09, 06:05:56](https://news.ycombinator.com/item?id=39976557) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)

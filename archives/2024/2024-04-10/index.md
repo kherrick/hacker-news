@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 21:21:06](https://news.ycombinator.com/item?id=39995849) - [World's Smallest CSV Parser (C#)](https://github.com/kjpgit/SmallestCSVParser)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 21:00:51](https://news.ycombinator.com/item?id=39995667) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
+* [2024-04-10, 20:56:51](https://news.ycombinator.com/item?id=39995628) - [Gentoo Linux becomes an SPI associated project](https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html)
 * [2024-04-10, 20:47:38](https://news.ycombinator.com/item?id=39995541) - [Toward Inference-Optimal Mixture-of-Expert Large Language Models](https://arxiv.org/abs/2404.02852)
 * [2024-04-10, 20:00:21](https://news.ycombinator.com/item?id=39995112) - [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
 * [2024-04-10, 19:34:14](https://news.ycombinator.com/item?id=39994867) - [Show HN: Hacker News Blogroll](https://github.com/nhdez/hn-blogroll)
