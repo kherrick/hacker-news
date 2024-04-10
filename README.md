@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 21:00:51](https://news.ycombinator.com/item?id=39995667) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 * [2024-04-10, 20:47:38](https://news.ycombinator.com/item?id=39995541) - [Toward Inference-Optimal Mixture-of-Expert Large Language Models](https://arxiv.org/abs/2404.02852)
 * [2024-04-10, 20:00:21](https://news.ycombinator.com/item?id=39995112) - [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
@@ -17,7 +18,6 @@
 * [2024-04-10, 12:36:43](https://news.ycombinator.com/item?id=39990004) - [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
 * [2024-04-10, 10:13:23](https://news.ycombinator.com/item?id=39988993) - [Double-entry bookkeeping as a directed graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
-* [2024-04-10, 08:46:40](https://news.ycombinator.com/item?id=39988415) - [Microsoft employees exposed internal passwords in security lapse](https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/)
 * [2024-04-10, 06:32:18](https://news.ycombinator.com/item?id=39987579) - [Show HN: CompressX, my FFmpeg wrapper for macOS](https://compressx.app)
 * [2024-04-10, 03:30:38](https://news.ycombinator.com/item?id=39986687) - [Ways of Seeing: Nicholson Baker learns to draw](https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332)
 * [2024-04-09, 21:56:13](https://news.ycombinator.com/item?id=39984725) - [The Alice and Bob After Dinner Speech (1984)](https://urbigenous.net/library/alicebob.html)
@@ -25,9 +25,9 @@
 * [2024-04-09, 11:13:31](https://news.ycombinator.com/item?id=39978216) - [Converting C437 to XNA Spritesheets with Zig and Raylib](http://blog.jamiejquinn.com/converting-c437-to-raylib)
 * [2024-04-09, 10:48:19](https://news.ycombinator.com/item?id=39978064) - [Lessons learned from manually classifying CIFAR-10 (2011)](http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/)
 * [2024-04-09, 05:29:02](https://news.ycombinator.com/item?id=39976391) - [Intel's ambitious Meteor Lake iGPU](https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/)
+* [2024-04-08, 22:35:54](https://news.ycombinator.com/item?id=39974439) - [Predictive CPU isolation of containers at Netflix (2019)](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7?gi=c53c45dcda8b)
 * [2024-04-08, 16:19:26](https://news.ycombinator.com/item?id=39971234) - [New minerals on the moon explaining the mystery of the lunar landscape](https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape)
 * [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
-* [2024-04-08, 12:06:01](https://news.ycombinator.com/item?id=39968844) - [British Placename Mapper](https://placenames.rtwilson.com/)
 * [2024-04-08, 11:16:45](https://news.ycombinator.com/item?id=39968537) - [Transformer as a general purpose computer](https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer)
 * [2024-04-07, 03:20:29](https://news.ycombinator.com/item?id=39957909) - [SFMTA's train system running on floppy disks; city fears 'catastrophic failure'](https://abc7news.com/san-francisco-train-system-has-been-running-on-floppy-disks-but-city-fears-catastrophic-failure-before-upgrade/14624828/)
 

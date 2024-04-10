@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 21:00:51](https://news.ycombinator.com/item?id=39995667) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 * [2024-04-10, 20:47:38](https://news.ycombinator.com/item?id=39995541) - [Toward Inference-Optimal Mixture-of-Expert Large Language Models](https://arxiv.org/abs/2404.02852)
 * [2024-04-10, 20:00:21](https://news.ycombinator.com/item?id=39995112) - [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
