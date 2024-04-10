@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-10, 12:04:29",
+      "https://news.ycombinator.com/item?id=39989754"
+    ],
+    [
+      "In Memoriam: Ross Anderson, 1956-2024",
+      "https://cacm.acm.org/news/in-memoriam-ross-anderson-1956-2024/"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 12:00:30",
       "https://news.ycombinator.com/item?id=39989713"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2024-04-10, 11:23:35",
-      "https://news.ycombinator.com/item?id=39989428"
-    ],
-    [
-      "How to Stay Sane",
-      "https://un.curl.dev/life/stay-sane"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 10:13:23",
       "https://news.ycombinator.com/item?id=39988993"
     ],
@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2024-04-10, 09:24:10",
-      "https://news.ycombinator.com/item?id=39988676"
+      "2024-04-10, 09:10:24",
+      "https://news.ycombinator.com/item?id=39988580"
     ],
     [
-      "Rust 101",
-      "https://www.scotto.me/blog/rust-101/"
+      "Client libraries are better when they have no API",
+      "https://csvbase.com/blog/7"
     ]
   ],
   [
@@ -141,26 +141,6 @@
   ],
   [
     [
-      "2024-04-09, 22:52:48",
-      "https://news.ycombinator.com/item?id=39985203"
-    ],
-    [
-      "The Git repositories of XZ projects are available on GitHub again",
-      "https://github.com/tukaani-project"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 21:01:39",
-      "https://news.ycombinator.com/item?id=39984209"
-    ],
-    [
-      "Building reliable systems out of unreliable agents",
-      "https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 19:50:43",
       "https://news.ycombinator.com/item?id=39983490"
     ],
@@ -177,6 +157,16 @@
     [
       "Yes, social media is a cause of the epidemic of teenage mental illness",
       "https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 17:45:00",
+      "https://news.ycombinator.com/item?id=39982024"
+    ],
+    [
+      "Cow Magnets",
+      "https://www.stanfordmagnets.com/cow-magnets.html"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Show HN: I made a discrete logic network card",
       "https://qdiv.dev/posts/eth2/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 06:05:56",
+      "https://news.ycombinator.com/item?id=39976557"
+    ],
+    [
+      "Lambda Screen: Fractals in Pure Lambda Calculus",
+      "https://text.marvinborner.de/2024-03-25-02.html"
     ]
   ],
   [
