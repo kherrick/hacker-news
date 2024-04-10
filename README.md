@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 16:34:28](https://news.ycombinator.com/item?id=39992652) - [Chechnya is banning music that's too fast or slow.](https://www.npr.org/2024/04/09/1243632570/chechnya-music-ban-bpm)
 * [2024-04-10, 15:48:17](https://news.ycombinator.com/item?id=39992046) - [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system)
 * [2024-04-10, 15:28:38](https://news.ycombinator.com/item?id=39991815) - [Ronda Rousey: 'I never wanted to talk about concussion. It felt like a weakness'](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
 * [2024-04-10, 15:18:27](https://news.ycombinator.com/item?id=39991693) - [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
@@ -19,7 +20,6 @@
 * [2024-04-10, 03:08:55](https://news.ycombinator.com/item?id=39986593) - [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 19:29:32](https://news.ycombinator.com/item?id=39983233) - [Yes, social media is a cause of the epidemic of teenage mental illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
-* [2024-04-09, 15:04:27](https://news.ycombinator.com/item?id=39980222) - [Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
 * [2024-04-09, 12:44:16](https://news.ycombinator.com/item?id=39978819) - [Better Biosensors Just Need a Touch of Cheap Plastic](https://spectrum.ieee.org/organic-semiconductors-2667704065)
 * [2024-04-09, 10:48:19](https://news.ycombinator.com/item?id=39978064) - [Lessons learned from manually classifying CIFAR-10 (2011)](http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
