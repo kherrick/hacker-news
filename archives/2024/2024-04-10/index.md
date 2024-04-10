@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 15:46:09](https://news.ycombinator.com/item?id=39992017) - [The $10k BYD Seagull EV is scaring the U.S. auto industry](https://www.teslarati.com/10000-byd-seagull-us-auto/)
+* [2024-04-10, 15:28:38](https://news.ycombinator.com/item?id=39991815) - [Ronda Rousey: 'I never wanted to talk about concussion. It felt like a weakness'](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
 * [2024-04-10, 15:18:27](https://news.ycombinator.com/item?id=39991693) - [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
 * [2024-04-10, 15:16:22](https://news.ycombinator.com/item?id=39991675) - [Meta MTIA v2](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 * [2024-04-10, 14:35:37](https://news.ycombinator.com/item?id=39991173) - [Twitter's Clumsy Pivot to X.com Is a Gift to Phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
@@ -14,6 +16,7 @@
 * [2024-04-10, 13:11:42](https://news.ycombinator.com/item?id=39990319) - [WebAssembly Adoption: Is Slow and Steady Winning the Race?](https://thenewstack.io/webassembly-adoption-is-slow-and-steady-winning-the-race/)
 * [2024-04-10, 13:10:27](https://news.ycombinator.com/item?id=39990303) - [Why is 1 GB equal to 10^9 bytes instead of 2^30?](https://www.tarsnap.com/GB-why.html)
 * [2024-04-10, 13:04:51](https://news.ycombinator.com/item?id=39990256) - [Rural Americans Are Dying at Increasingly Higher Rates Than City Dwellers](https://kffhealthnews.org/news/article/rural-urban-mortality-gap-widening/)
+* [2024-04-10, 12:48:57](https://news.ycombinator.com/item?id=39990109) - [Flattening Bézier Curves and Arcs](https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/)
 * [2024-04-10, 12:47:56](https://news.ycombinator.com/item?id=39990096) - [A key chemistry journal disappeared from the web. Others are at risk](https://www.chemistryworld.com/news/a-key-chemistry-journal-disappeared-from-the-web-others-are-at-risk/4019265.article)
 * [2024-04-10, 12:36:43](https://news.ycombinator.com/item?id=39990004) - [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
 * [2024-04-10, 12:30:03](https://news.ycombinator.com/item?id=39989945) - [Mixtral 8x22B on MLX](https://twitter.com/Prince_Canuma/status/1778030397336559989)
