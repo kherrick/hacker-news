@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
 * [2024-04-10, 20:00:21](https://news.ycombinator.com/item?id=39995112) - [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
+* [2024-04-10, 19:34:14](https://news.ycombinator.com/item?id=39994867) - [Show HN: Hacker News Blogroll](https://github.com/nhdez/hn-blogroll)
 * [2024-04-10, 19:01:01](https://news.ycombinator.com/item?id=39994476) - [Mixtral-8x22B on HuggingFace](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1)
 * [2024-04-10, 18:53:24](https://news.ycombinator.com/item?id=39994391) - [Full forward pass of GPT-2 in one file of pure CUDA](https://github.com/karpathy/llm.c/blob/master/train_gpt2.cu)
 * [2024-04-10, 18:49:47](https://news.ycombinator.com/item?id=39994339) - [Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)

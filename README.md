@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-10, 20:00:21](https://news.ycombinator.com/item?id=39995112) - [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
+* [2024-04-10, 19:34:14](https://news.ycombinator.com/item?id=39994867) - [Show HN: Hacker News Blogroll](https://github.com/nhdez/hn-blogroll)
 * [2024-04-10, 18:49:47](https://news.ycombinator.com/item?id=39994339) - [Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
 * [2024-04-10, 18:47:04](https://news.ycombinator.com/item?id=39994301) - [Lens sort, a masked pixel sort glitch effect](https://github.com/BernardZhao/lenssort)
 * [2024-04-10, 18:15:08](https://news.ycombinator.com/item?id=39993976) - [Code Search Is Hard](https://blog.val.town/blog/search-notes/)
@@ -24,7 +25,6 @@
 * [2024-04-09, 12:44:16](https://news.ycombinator.com/item?id=39978819) - [Better biosensors just need a touch of cheap plastic](https://spectrum.ieee.org/organic-semiconductors-2667704065)
 * [2024-04-09, 11:13:31](https://news.ycombinator.com/item?id=39978216) - [Converting C437 to XNA Spritesheets with Zig and Raylib](http://blog.jamiejquinn.com/converting-c437-to-raylib)
 * [2024-04-09, 10:48:19](https://news.ycombinator.com/item?id=39978064) - [Lessons learned from manually classifying CIFAR-10 (2011)](http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/)
-* [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 05:29:02](https://news.ycombinator.com/item?id=39976391) - [Intel's ambitious Meteor Lake iGPU](https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/)
 * [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
 * [2024-04-08, 12:06:01](https://news.ycombinator.com/item?id=39968844) - [British Placename Mapper](https://placenames.rtwilson.com/)
