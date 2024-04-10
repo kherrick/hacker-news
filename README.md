@@ -21,7 +21,6 @@
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 03:30:38](https://news.ycombinator.com/item?id=39986687) - [Ways of Seeing: Nicholson Baker learns to draw](https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332)
 * [2024-04-09, 21:56:13](https://news.ycombinator.com/item?id=39984725) - [The Alice and Bob After Dinner Speech (1984)](https://urbigenous.net/library/alicebob.html)
-* [2024-04-09, 12:44:16](https://news.ycombinator.com/item?id=39978819) - [Better biosensors just need a touch of cheap plastic](https://spectrum.ieee.org/organic-semiconductors-2667704065)
 * [2024-04-09, 11:13:31](https://news.ycombinator.com/item?id=39978216) - [Converting C437 to XNA Spritesheets with Zig and Raylib](http://blog.jamiejquinn.com/converting-c437-to-raylib)
 * [2024-04-09, 10:48:19](https://news.ycombinator.com/item?id=39978064) - [Lessons learned from manually classifying CIFAR-10 (2011)](http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/)
 * [2024-04-09, 06:22:43](https://news.ycombinator.com/item?id=39976634) - [Oh My Git: An open source game about learning Git](https://ohmygit.org/)
@@ -29,6 +28,7 @@
 * [2024-04-08, 22:35:54](https://news.ycombinator.com/item?id=39974439) - [Predictive CPU isolation of containers at Netflix (2019)](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7?gi=c53c45dcda8b)
 * [2024-04-08, 16:19:26](https://news.ycombinator.com/item?id=39971234) - [New minerals on the moon explaining the mystery of the lunar landscape](https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape)
 * [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
+* [2024-04-08, 00:04:44](https://news.ycombinator.com/item?id=39965028) - [Architecture decisions in Neon, a serverless Postgres service](https://neon.tech/blog/architecture-decisions-in-neon)
 * [2024-04-07, 03:20:29](https://news.ycombinator.com/item?id=39957909) - [SFMTA's train system running on floppy disks; city fears 'catastrophic failure'](https://abc7news.com/san-francisco-train-system-has-been-running-on-floppy-disks-but-city-fears-catastrophic-failure-before-upgrade/14624828/)
 
 ## [Archives](archives/index.md)
