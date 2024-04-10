@@ -83,6 +83,7 @@
 * [2024-04-08, 10:52:00](https://news.ycombinator.com/item?id=39968382) - [How Engineers at Digital Equipment Corp. Saved Ethernet](https://spectrum.ieee.org/how-dec-engineers-saved-ethernet)
 * [2024-04-08, 10:42:04](https://news.ycombinator.com/item?id=39968325) - [A brief history of keyboard encoding](https://kbd.news/A-brief-history-of-keyboard-encoding-2199.html)
 * [2024-04-08, 10:39:02](https://news.ycombinator.com/item?id=39968307) - [CLI text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/)
+* [2024-04-08, 10:37:31](https://news.ycombinator.com/item?id=39968297) - [A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
 * [2024-04-08, 10:37:11](https://news.ycombinator.com/item?id=39968292) - [Studying Large Language Model Generalization with Influence Functions](https://arxiv.org/abs/2308.03296)
 * [2024-04-08, 10:22:39](https://news.ycombinator.com/item?id=39968205) - [Working from home isn't going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
 * [2024-04-08, 10:07:48](https://news.ycombinator.com/item?id=39968103) - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
