@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 03:08:14](https://news.ycombinator.com/item?id=39986589) - [The Rise and Impending Fall of the Dental Cavity](https://www.cremieux.xyz/p/the-rise-and-impending-fall-of-the)
 * [2024-04-10, 01:31:24](https://news.ycombinator.com/item?id=39986095) - [Mistral AI Launches New 8x22B MOE Model](https://twitter.com/MistralAI)
 * [2024-04-10, 00:10:06](https://news.ycombinator.com/item?id=39985630) - [Why does part of the Windows 98 Setup program look older than the rest? (2020)](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
 * [2024-04-09, 21:01:39](https://news.ycombinator.com/item?id=39984209) - [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
@@ -12,7 +13,6 @@
 * [2024-04-09, 18:14:47](https://news.ycombinator.com/item?id=39982362) - [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
 * [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
-* [2024-04-09, 17:43:57](https://news.ycombinator.com/item?id=39982011) - [PS1 Programming Course with MIPS Assembly and C](https://pikuma.com/courses/ps1-programming-mips-assembly-language)
 * [2024-04-09, 17:15:53](https://news.ycombinator.com/item?id=39981623) - [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 * [2024-04-09, 16:59:49](https://news.ycombinator.com/item?id=39981423) - [Virtual Colossus](https://www.virtualcolossus.co.uk/colossus3d/)
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
