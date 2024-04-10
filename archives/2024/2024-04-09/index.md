@@ -50,6 +50,7 @@
 * [2024-04-09, 14:37:46](https://news.ycombinator.com/item?id=39979927) - [Freenginx 1.26.0](https://freenginx.org/en/CHANGES-1.26)
 * [2024-04-09, 14:27:53](https://news.ycombinator.com/item?id=39979806) - [Persistent interaction patterns across social media platforms and over time](https://www.nature.com/articles/s41586-024-07229-y)
 * [2024-04-09, 14:23:26](https://news.ycombinator.com/item?id=39979750) - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
+* [2024-04-09, 14:09:36](https://news.ycombinator.com/item?id=39979609) - [\"Volkswagen\" detects when your tests are being run in a CI server](https://github.com/auchenberg/volkswagen)
 * [2024-04-09, 14:01:37](https://news.ycombinator.com/item?id=39979542) - [How NPR Lost Americas Trust](https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust)
 * [2024-04-09, 13:45:04](https://news.ycombinator.com/item?id=39979375) - [India's electric rickshaws are leaving EVs in the dust, like YC Electric](https://restofworld.org/2024/e-rickshaw-yc-electric-india/)
 * [2024-04-09, 13:24:28](https://news.ycombinator.com/item?id=39979192) - [What makes a great software engineer [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf)
