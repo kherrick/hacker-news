@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 06:12:56](https://news.ycombinator.com/item?id=39987466) - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
 * [2024-04-10, 04:31:02](https://news.ycombinator.com/item?id=39986974) - [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
 * [2024-04-10, 03:08:55](https://news.ycombinator.com/item?id=39986593) - [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 * [2024-04-10, 00:10:06](https://news.ycombinator.com/item?id=39985630) - [Why does part of the Windows 98 Setup program look older than the rest? (2020)](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
@@ -7,7 +8,6 @@
 * [2024-04-09, 22:52:48](https://news.ycombinator.com/item?id=39985203) - [The Git repositories of XZ projects are available on GitHub again](https://github.com/tukaani-project)
 * [2024-04-09, 21:01:39](https://news.ycombinator.com/item?id=39984209) - [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 * [2024-04-09, 20:30:33](https://news.ycombinator.com/item?id=39983910) - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
-* [2024-04-09, 20:10:30](https://news.ycombinator.com/item?id=39983711) - [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
 * [2024-04-09, 20:05:45](https://news.ycombinator.com/item?id=39983665) - [The World of Instruction Manuals (2018)](https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals)
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 19:29:32](https://news.ycombinator.com/item?id=39983233) - [Yes, social media is a cause of the epidemic of teenage mental illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
