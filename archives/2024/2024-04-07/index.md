@@ -92,6 +92,7 @@
 * [2024-04-07, 04:52:39](https://news.ycombinator.com/item?id=39958260) - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 * [2024-04-07, 04:14:53](https://news.ycombinator.com/item?id=39958152) - [ChatGPT might get its own dedicated personal AI device – with Jony Ive's help](https://www.techradar.com/computing/artificial-intelligence/chatgpt-might-get-its-own-dedicated-personal-device-with-jony-ives-help)
 * [2024-04-07, 03:42:07](https://news.ycombinator.com/item?id=39958025) - [PM2: Production Process Manager with a Built-In Load Balancer](https://github.com/Unitech/pm2)
+* [2024-04-07, 03:20:29](https://news.ycombinator.com/item?id=39957909) - [SFMTA's train system running on floppy disks; city fears 'catastrophic failure'](https://abc7news.com/san-francisco-train-system-has-been-running-on-floppy-disks-but-city-fears-catastrophic-failure-before-upgrade/14624828/)
 * [2024-04-07, 03:20:08](https://news.ycombinator.com/item?id=39957902) - [Glory is only 11MB/SEC away](https://thmsmlr.com/cheap-infra)
 * [2024-04-07, 03:03:58](https://news.ycombinator.com/item?id=39957811) - [What Makes Housing So Expensive?](https://www.construction-physics.com/p/what-makes-housing-so-expensive)
 * [2024-04-07, 02:50:40](https://news.ycombinator.com/item?id=39957757) - [Currying](https://wiki.haskell.org/Currying)
