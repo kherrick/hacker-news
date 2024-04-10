@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-10, 12:04:29",
-      "https://news.ycombinator.com/item?id=39989754"
-    ],
-    [
-      "In Memoriam: Ross Anderson, 1956-2024",
-      "https://cacm.acm.org/news/in-memoriam-ross-anderson-1956-2024/"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 12:00:30",
       "https://news.ycombinator.com/item?id=39989713"
     ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2024-04-10, 07:01:34",
-      "https://news.ycombinator.com/item?id=39987769"
-    ],
-    [
-      "Three major LLM releases in 24 hours",
-      "https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 03:08:55",
       "https://news.ycombinator.com/item?id=39986593"
     ],
@@ -121,12 +101,12 @@
   ],
   [
     [
-      "2024-04-10, 00:03:47",
-      "https://news.ycombinator.com/item?id=39985596"
+      "2024-04-10, 00:10:06",
+      "https://news.ycombinator.com/item?id=39985630"
     ],
     [
-      "GPT-4 Turbo with Vision is a step backwards for coding",
-      "https://aider.chat/2024/04/09/gpt-4-turbo.html"
+      "Why does part of the Windows 98 Setup program look older than the rest? (2020)",
+      "https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest"
     ]
   ],
   [
@@ -137,6 +117,26 @@
     [
       "My deployment platform is a shell script",
       "https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 21:01:39",
+      "https://news.ycombinator.com/item?id=39984209"
+    ],
+    [
+      "Building reliable systems out of unreliable agents",
+      "https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 20:05:45",
+      "https://news.ycombinator.com/item?id=39983665"
+    ],
+    [
+      "The World of Instruction Manuals (2018)",
+      "https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals"
     ]
   ],
   [
@@ -177,6 +177,16 @@
     [
       "Intel Gaudi 3 AI Accelerator",
       "https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 15:52:50",
+      "https://news.ycombinator.com/item?id=39980750"
+    ],
+    [
+      "Juicebox: Squeezing the hassle out of encryption key recovery",
+      "https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "How deep does life go?",
       "https://thereader.mitpress.mit.edu/how-deep-does-life-go/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 12:34:03",
-      "https://news.ycombinator.com/item?id=39969038"
-    ],
-    [
-      "A new community space for discussing free software",
-      "https://writefreesoftware.org/blog/community-discourse/"
     ]
   ],
   [
