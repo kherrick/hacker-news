@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-10, 19:01:01",
+      "https://news.ycombinator.com/item?id=39994476"
+    ],
+    [
+      "Mixtral-8x22B on HuggingFace",
+      "https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 18:15:08",
+      "https://news.ycombinator.com/item?id=39993976"
+    ],
+    [
+      "Code Search Is Hard",
+      "https://blog.val.town/blog/search-notes/"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 18:10:31",
       "https://news.ycombinator.com/item?id=39993930"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2024-04-10, 18:08:43",
-      "https://news.ycombinator.com/item?id=39993907"
-    ],
-    [
-      "I'm hating swe, what could be another career?",
-      "https://news.ycombinator.com/item?id=39993907"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 17:47:11",
       "https://news.ycombinator.com/item?id=39993626"
     ],
     [
       "Implementation of Google's Griffin Architecture – RNN LLM",
       "https://github.com/google-deepmind/recurrentgemma"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 17:42:30",
-      "https://news.ycombinator.com/item?id=39993566"
-    ],
-    [
-      "People are bailing on Safari after DMA makes changing defaults easier",
-      "https://arstechnica.com/tech-policy/2024/04/report-people-are-bailing-on-safari-after-dma-makes-changing-defaults-easier/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-04-10, 10:45:32",
+      "https://news.ycombinator.com/item?id=39989196"
+    ],
+    [
+      "My free side project: 600+ UI Components with Code Editor",
+      "https://easyfrontend.com/"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 10:13:23",
       "https://news.ycombinator.com/item?id=39988993"
     ],
@@ -181,22 +191,12 @@
   ],
   [
     [
-      "2024-04-10, 09:28:04",
-      "https://news.ycombinator.com/item?id=39988697"
+      "2024-04-10, 09:30:59",
+      "https://news.ycombinator.com/item?id=39988716"
     ],
     [
-      "Open source pioneer Perens says it's time to contemplate a post-open world",
-      "https://www.thestack.technology/open-source-pioneer-perens-says-time-for-post-open/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 09:20:19",
-      "https://news.ycombinator.com/item?id=39988655"
-    ],
-    [
-      "JavaScript Allongé, the \"Six\" Edition (2019)",
-      "https://github.com/raganwald/javascript-allonge-six"
+      "Deep Bug",
+      "https://www.marginalia.nu/log/a_104_dep_bug/"
     ]
   ],
   [
