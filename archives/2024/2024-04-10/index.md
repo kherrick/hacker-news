@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on toxic PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
+* [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 * [2024-04-10, 08:52:39](https://news.ycombinator.com/item?id=39988457) - [Too many firms are not coming clean about hacking says watchdog](https://www.dutchnews.nl/2024/04/too-many-firms-are-not-coming-clean-about-hacking-says-watchdog/)
 * [2024-04-10, 08:20:30](https://news.ycombinator.com/item?id=39988269) - [Verified Curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 07:01:34](https://news.ycombinator.com/item?id=39987769) - [Three major LLM releases in 24 hours](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/)

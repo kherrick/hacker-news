@@ -107,6 +107,7 @@
 * [2024-04-09, 05:48:37](https://news.ycombinator.com/item?id=39976483) - [Bay Area Workers Charged for Building Secret Apartments Inside Train Stations](https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/)
 * [2024-04-09, 05:47:03](https://news.ycombinator.com/item?id=39976472) - [Chasing Resets](https://zipcpu.com/blog/2024/04/01/chasing-resets.html)
 * [2024-04-09, 05:36:34](https://news.ycombinator.com/item?id=39976422) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
+* [2024-04-09, 05:29:02](https://news.ycombinator.com/item?id=39976391) - [Intel's Ambitious Meteor Lake iGPU](https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/)
 * [2024-04-09, 05:27:45](https://news.ycombinator.com/item?id=39976387) - [How might software development have unfolded if CPU speeds were 20x slower?](https://news.ycombinator.com/item?id=39976387)
 * [2024-04-09, 04:36:04](https://news.ycombinator.com/item?id=39976225) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 04:26:41](https://news.ycombinator.com/item?id=39976190) - [XZ Utils Attack: A Threat Actor Spent 2 Years to Implement Linux Backdoor](https://www.techrepublic.com/article/xz-backdoor-linux/)
