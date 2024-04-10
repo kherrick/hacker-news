@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-10, 01:23:46",
-      "https://news.ycombinator.com/item?id=39986047"
-    ],
-    [
-      "Mixtral 8x22B Model",
-      "https://twitter.com/MistralAI/status/1777869263778291896"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 00:10:06",
       "https://news.ycombinator.com/item?id=39985630"
     ],
@@ -37,16 +27,6 @@
     [
       "Building reliable systems out of unreliable agents",
       "https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 20:30:56",
-      "https://news.ycombinator.com/item?id=39983915"
-    ],
-    [
-      "The challenges of building modern open source software on PowerPC Mac OS X",
-      "http://www.netbsd.org/~nia/tigersrc/"
     ]
   ],
   [
@@ -147,6 +127,16 @@
     [
       "ScreenAI: A visual LLM for UI and visually-situated language understanding",
       "https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 17:09:51",
+      "https://news.ycombinator.com/item?id=39981550"
+    ],
+    [
+      "Fairbuds: In-ear with replaceable batteries",
+      "https://shop.fairphone.com/fairbuds"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=39974042"
     ],
     [
-      "How Deep Does Life Go?",
+      "How deep does life go?",
       "https://thereader.mitpress.mit.edu/how-deep-does-life-go/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Orange Meets: a demo application built using Cloudflare Calls",
       "https://github.com/cloudflare/orange"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 00:23:12",
+      "https://news.ycombinator.com/item?id=39965123"
+    ],
+    [
+      "Show HN: QWANJI",
+      "https://byronicalpatrick.github.io/qwanji/"
     ]
   ]
 ]
