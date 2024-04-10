@@ -66,6 +66,7 @@
 * [2024-04-08, 12:44:57](https://news.ycombinator.com/item?id=39969131) - [Vala Programming Language](https://vala.dev/)
 * [2024-04-08, 12:44:03](https://news.ycombinator.com/item?id=39969122) - [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
 * [2024-04-08, 12:34:21](https://news.ycombinator.com/item?id=39969042) - [A cheeky intern nearly turned MS-DOS into NSFW-DOS](https://www.theregister.com/2024/04/08/ms_dos_easter_egg/)
+* [2024-04-08, 12:34:03](https://news.ycombinator.com/item?id=39969038) - [A new community space for discussing free software](https://writefreesoftware.org/blog/community-discourse/)
 * [2024-04-08, 12:33:26](https://news.ycombinator.com/item?id=39969028) - [Paddy Cosgrave Returns as CEO of Websummit](https://twitter.com/paddycosgrave/status/1777230155150180546)
 * [2024-04-08, 12:33:15](https://news.ycombinator.com/item?id=39969026) - [UK govt office admits ability to negotiate billions curbed by vendor lock-in](https://www.theregister.com/2024/04/04/uk_cddo_admits_cloud_spending_lock_issues_exclusive/)
 * [2024-04-08, 12:31:40](https://news.ycombinator.com/item?id=39969015) - [A frozen lake and several Lamborghinis provide lessons on traction control](https://arstechnica.com/cars/2024/04/a-frozen-lake-and-several-lamborghinis-provide-lessons-on-traction-control/)
