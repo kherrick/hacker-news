@@ -9,6 +9,7 @@
 * [2024-04-10, 13:28:37](https://news.ycombinator.com/item?id=39990489) - [German gallery fires employee for hanging own art in exhibition](https://www.bbc.com/news/world-europe-68776528)
 * [2024-04-10, 13:17:04](https://news.ycombinator.com/item?id=39990361) - [Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/)
 * [2024-04-10, 13:15:02](https://news.ycombinator.com/item?id=39990346) - [Show HN: Ads-B Visualizer](https://adsb.exposed/)
+* [2024-04-10, 13:11:42](https://news.ycombinator.com/item?id=39990319) - [WebAssembly Adoption: Is Slow and Steady Winning the Race?](https://thenewstack.io/webassembly-adoption-is-slow-and-steady-winning-the-race/)
 * [2024-04-10, 13:10:27](https://news.ycombinator.com/item?id=39990303) - [Why is 1 GB equal to 10^9 bytes instead of 2^30?](https://www.tarsnap.com/GB-why.html)
 * [2024-04-10, 13:04:51](https://news.ycombinator.com/item?id=39990256) - [Rural Americans Are Dying at Increasingly Higher Rates Than City Dwellers](https://kffhealthnews.org/news/article/rural-urban-mortality-gap-widening/)
 * [2024-04-10, 12:47:56](https://news.ycombinator.com/item?id=39990096) - [A key chemistry journal disappeared from the web. Others are at risk](https://www.chemistryworld.com/news/a-key-chemistry-journal-disappeared-from-the-web-others-are-at-risk/4019265.article)
