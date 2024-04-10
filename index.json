@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-04-10, 19:34:14",
-      "https://news.ycombinator.com/item?id=39994867"
+      "2024-04-10, 18:57:27",
+      "https://news.ycombinator.com/item?id=39994437"
     ],
     [
-      "Show HN: Hacker News Blogroll",
-      "https://github.com/nhdez/hn-blogroll"
+      "Funkwhale might be the most overlooked Fediverse project",
+      "https://raphael.lullis.net/funkwhale/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39993976"
     ],
     [
-      "Code Search Is Hard",
+      "Code search is hard",
       "https://blog.val.town/blog/search-notes/"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Implementation of Google's Griffin Architecture – RNN LLM",
       "https://github.com/google-deepmind/recurrentgemma"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 17:15:02",
-      "https://news.ycombinator.com/item?id=39993202"
-    ],
-    [
-      "KPMG Fined Record $25M in Exam-Cheating Scandal",
-      "https://www.wsj.com/articles/kpmg-fined-25-million-over-alleged-netherlands-exam-cheating-a4dcba2a"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2024-04-09, 06:24:15",
+      "https://news.ycombinator.com/item?id=39976640"
+    ],
+    [
+      "Show HN: I made a discrete logic network card",
+      "https://qdiv.dev/posts/eth2/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 05:29:02",
       "https://news.ycombinator.com/item?id=39976391"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39968537"
     ],
     [
-      "Transformer as a General Purpose Computer",
+      "Transformer as a general purpose computer",
       "https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer"
     ]
   ],
