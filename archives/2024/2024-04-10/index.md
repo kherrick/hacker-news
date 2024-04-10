@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 08:20:30](https://news.ycombinator.com/item?id=39988269) - [Verified Curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 06:12:56](https://news.ycombinator.com/item?id=39987466) - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
 * [2024-04-10, 06:05:13](https://news.ycombinator.com/item?id=39987435) - [Ex-Microsoft engineer gets 7 years after trying to hire hitman for double murder](https://www.theregister.com/2024/04/09/microsoft_engineer_fake_hitman/)
 * [2024-04-10, 05:52:31](https://news.ycombinator.com/item?id=39987378) - [New details on F-16, drone collision in banned Arizona airspace](https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/)

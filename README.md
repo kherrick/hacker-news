@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-10, 08:20:30](https://news.ycombinator.com/item?id=39988269) - [Verified Curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 06:12:56](https://news.ycombinator.com/item?id=39987466) - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
 * [2024-04-10, 05:52:31](https://news.ycombinator.com/item?id=39987378) - [New details on F-16, drone collision in banned Arizona airspace](https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/)
 * [2024-04-10, 05:03:56](https://news.ycombinator.com/item?id=39987131) - [EU's new tech laws are working – small browsers gain market share](https://www.forth.news/threads/66161a684e6a1465f62f6a3b)
@@ -16,7 +17,6 @@
 * [2024-04-09, 19:08:06](https://news.ycombinator.com/item?id=39983018) - [Stalwart mail server (self-hosted all-in-one mail server) now as an admin webui](https://stalw.art/blog/stalwart-webadmin/)
 * [2024-04-09, 18:09:29](https://news.ycombinator.com/item?id=39982300) - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
-* [2024-04-09, 17:15:53](https://news.ycombinator.com/item?id=39981623) - [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 * [2024-04-09, 15:52:50](https://news.ycombinator.com/item?id=39980750) - [Juicebox: Squeezing the hassle out of encryption key recovery](https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery)
 * [2024-04-09, 15:04:27](https://news.ycombinator.com/item?id=39980222) - [Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
