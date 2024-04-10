@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
 * [2024-04-10, 06:12:56](https://news.ycombinator.com/item?id=39987466) - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
+* [2024-04-10, 06:05:13](https://news.ycombinator.com/item?id=39987435) - [Ex-Microsoft engineer gets 7 years after trying to hire hitman for double murder](https://www.theregister.com/2024/04/09/microsoft_engineer_fake_hitman/)
 * [2024-04-10, 04:31:02](https://news.ycombinator.com/item?id=39986974) - [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
 * [2024-04-10, 03:08:55](https://news.ycombinator.com/item?id=39986593) - [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 * [2024-04-10, 03:08:14](https://news.ycombinator.com/item?id=39986589) - [The Rise and Impending Fall of the Dental Cavity](https://www.cremieux.xyz/p/the-rise-and-impending-fall-of-the)

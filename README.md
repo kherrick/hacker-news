@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-10, 06:12:56](https://news.ycombinator.com/item?id=39987466) - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
+* [2024-04-10, 06:05:13](https://news.ycombinator.com/item?id=39987435) - [Ex-Microsoft engineer gets 7 years after trying to hire hitman for double murder](https://www.theregister.com/2024/04/09/microsoft_engineer_fake_hitman/)
 * [2024-04-10, 04:31:02](https://news.ycombinator.com/item?id=39986974) - [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
 * [2024-04-10, 03:08:55](https://news.ycombinator.com/item?id=39986593) - [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 * [2024-04-10, 00:10:06](https://news.ycombinator.com/item?id=39985630) - [Why does part of the Windows 98 Setup program look older than the rest? (2020)](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
@@ -19,7 +20,6 @@
 * [2024-04-09, 16:21:53](https://news.ycombinator.com/item?id=39981034) - [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 * [2024-04-09, 15:52:50](https://news.ycombinator.com/item?id=39980750) - [Juicebox: Squeezing the hassle out of encryption key recovery](https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery)
-* [2024-04-09, 15:09:25](https://news.ycombinator.com/item?id=39980268) - [Beeper acquired by Automattic](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
 * [2024-04-09, 15:04:27](https://news.ycombinator.com/item?id=39980222) - [Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:15:31](https://news.ycombinator.com/item?id=39976591) - [Creating Seams in a Mainframe's Batch Pipelines](https://martinfowler.com/articles/uncovering-mainframe-seams.html)
