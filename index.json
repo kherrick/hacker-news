@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-10, 12:00:30",
+      "https://news.ycombinator.com/item?id=39989713"
+    ],
+    [
+      "Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)",
+      "https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 11:40:30",
+      "https://news.ycombinator.com/item?id=39989564"
+    ],
+    [
+      "Animal-free egg protein startup Onego Bio is closer to cracking the egg market",
+      "https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 11:39:24",
+      "https://news.ycombinator.com/item?id=39989552"
+    ],
+    [
+      "AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server",
+      "https://github.com/azerothcore/azerothcore-wotlk"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 11:25:48",
       "https://news.ycombinator.com/item?id=39989436"
     ],
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2024-04-10, 09:31:10",
-      "https://news.ycombinator.com/item?id=39988718"
+      "2024-04-10, 10:07:47",
+      "https://news.ycombinator.com/item?id=39988948"
     ],
     [
-      "U.S. imposes first-ever national drinking water limits on PFAS",
-      "https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51"
+      "Bzip2 Format Specification [pdf]",
+      "https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "Deep Bug",
       "https://www.marginalia.nu/log/a_104_dep_bug/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 09:24:10",
+      "https://news.ycombinator.com/item?id=39988676"
+    ],
+    [
+      "Rust 101",
+      "https://www.scotto.me/blog/rust-101/"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "A science fiction obsession led me to psychological war",
       "https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 00:10:06",
-      "https://news.ycombinator.com/item?id=39985630"
-    ],
-    [
-      "Why does part of the Windows 98 Setup program look older than the rest? (2020)",
-      "https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-04-09, 20:05:45",
-      "https://news.ycombinator.com/item?id=39983665"
-    ],
-    [
-      "The World of Instruction Manuals (2018)",
-      "https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 19:50:43",
       "https://news.ycombinator.com/item?id=39983490"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2024-04-09, 17:45:00",
-      "https://news.ycombinator.com/item?id=39982024"
-    ],
-    [
-      "Cow Magnets",
-      "https://www.stanfordmagnets.com/cow-magnets.html"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 16:21:40",
       "https://news.ycombinator.com/item?id=39981032"
     ],
     [
       "Intel Gaudi 3 AI Accelerator",
       "https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 15:52:50",
-      "https://news.ycombinator.com/item?id=39980750"
-    ],
-    [
-      "Juicebox: Squeezing the hassle out of encryption key recovery",
-      "https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Show HN: I made a discrete logic network card",
       "https://qdiv.dev/posts/eth2/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 06:05:56",
-      "https://news.ycombinator.com/item?id=39976557"
-    ],
-    [
-      "Lambda Screen: Fractals in Pure Lambda Calculus",
-      "https://text.marvinborner.de/2024-03-25-02.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A new community space for discussing free software",
       "https://writefreesoftware.org/blog/community-discourse/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 11:50:18",
+      "https://news.ycombinator.com/item?id=39968746"
+    ],
+    [
+      "Star explosion to appear in sky in once-in-a-lifetime event",
+      "https://phys.org/news/2024-04-huge-star-explosion-sky-lifetime.html"
     ]
   ],
   [
