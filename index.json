@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-04-10, 18:10:31",
+      "https://news.ycombinator.com/item?id=39993930"
+    ],
+    [
+      "Udio: Generate music in your favorite styles with a text prompt",
+      "https://twitter.com/udiomusic/status/1778045322654003448"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 18:08:43",
+      "https://news.ycombinator.com/item?id=39993907"
+    ],
+    [
+      "I'm hating swe, what could be another career?",
+      "https://news.ycombinator.com/item?id=39993907"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 17:47:11",
+      "https://news.ycombinator.com/item?id=39993626"
+    ],
+    [
+      "Implementation of Google's Griffin Architecture – RNN LLM",
+      "https://github.com/google-deepmind/recurrentgemma"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 17:42:30",
+      "https://news.ycombinator.com/item?id=39993566"
+    ],
+    [
+      "People are bailing on Safari after DMA makes changing defaults easier",
+      "https://arstechnica.com/tech-policy/2024/04/report-people-are-bailing-on-safari-after-dma-makes-changing-defaults-easier/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 17:42:14",
+      "https://news.ycombinator.com/item?id=39993563"
+    ],
+    [
+      "Google Photos' enhanced editing tools will no longer require a subscription",
+      "https://www.engadget.com/google-photos-enhanced-editing-tools-will-no-longer-require-a-subscription-160015336.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 17:15:02",
+      "https://news.ycombinator.com/item?id=39993202"
+    ],
+    [
+      "KPMG Fined Record $25M in Exam-Cheating Scandal",
+      "https://www.wsj.com/articles/kpmg-fined-25-million-over-alleged-netherlands-exam-cheating-a4dcba2a"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 17:00:50",
       "https://news.ycombinator.com/item?id=39992993"
     ],
@@ -51,32 +111,12 @@
   ],
   [
     [
-      "2024-04-10, 14:35:37",
-      "https://news.ycombinator.com/item?id=39991173"
-    ],
-    [
-      "Twitter's pivot to x.com is a gift to phishers",
-      "https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 13:15:02",
       "https://news.ycombinator.com/item?id=39990346"
     ],
     [
       "Show HN: ADS-B visualizer",
       "https://adsb.exposed/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 13:11:42",
-      "https://news.ycombinator.com/item?id=39990319"
-    ],
-    [
-      "WebAssembly Adoption: Is Slow and Steady Winning the Race?",
-      "https://thenewstack.io/webassembly-adoption-is-slow-and-steady-winning-the-race/"
     ]
   ],
   [
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2024-04-10, 10:07:47",
-      "https://news.ycombinator.com/item?id=39988948"
-    ],
-    [
-      "Bzip2 Format Specification (2016) [pdf]",
-      "https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 10:01:14",
       "https://news.ycombinator.com/item?id=39988912"
     ],
     [
       "Proton and Standard Notes are joining forces",
       "https://proton.me/blog/proton-standard-notes-join-forces"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 09:30:59",
-      "https://news.ycombinator.com/item?id=39988716"
-    ],
-    [
-      "Deep Bug",
-      "https://www.marginalia.nu/log/a_104_dep_bug/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-04-10, 09:10:24",
-      "https://news.ycombinator.com/item?id=39988580"
-    ],
-    [
-      "Client libraries are better when they have no API",
-      "https://csvbase.com/blog/7"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 06:32:18",
       "https://news.ycombinator.com/item?id=39987579"
     ],
@@ -207,16 +217,6 @@
     [
       "Ways of Seeing: Nicholson Baker learns to draw",
       "https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 03:08:55",
-      "https://news.ycombinator.com/item?id=39986593"
-    ],
-    [
-      "A science fiction obsession led me to psychological war",
-      "https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-04-08, 16:19:26",
+      "https://news.ycombinator.com/item?id=39971234"
+    ],
+    [
+      "New minerals on the moon explaining the mystery of the lunar landscape",
+      "https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 12:06:01",
       "https://news.ycombinator.com/item?id=39968844"
     ],
@@ -277,16 +287,6 @@
     [
       "Transformer as a General Purpose Computer",
       "https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 10:37:31",
-      "https://news.ycombinator.com/item?id=39968297"
-    ],
-    [
-      "A 2-Axis, Multihead Light Positioner",
-      "https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/"
     ]
   ],
   [
