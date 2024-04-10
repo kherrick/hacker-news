@@ -50,6 +50,7 @@
 * [2024-04-08, 15:04:12](https://news.ycombinator.com/item?id=39970501) - [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
 * [2024-04-08, 14:56:20](https://news.ycombinator.com/item?id=39970418) - [I Tried Tesla FSD](https://werd.io/2024/i-tried-tesla-fsd)
 * [2024-04-08, 14:46:55](https://news.ycombinator.com/item?id=39970299) - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
+* [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
 * [2024-04-08, 14:28:40](https://news.ycombinator.com/item?id=39970096) - [Turchin's Terrifying Predictions](http://donaldclarkplanb.blogspot.com/2024/04/turchins-terrifying-predictions.html)
 * [2024-04-08, 14:14:44](https://news.ycombinator.com/item?id=39969929) - [It's Dante's Hell–We're Just Living in It](https://www.neh.gov/article/its-dantes-hell-were-just-living-it)
 * [2024-04-08, 14:01:42](https://news.ycombinator.com/item?id=39969802) - [Building an AI Coach to Help Tame My Monkey Mind](https://eugeneyan.com/writing/ai-coach/)
