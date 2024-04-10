@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-04-10, 04:31:02",
-      "https://news.ycombinator.com/item?id=39986974"
-    ],
-    [
-      "Alibaba founder Jack Ma steps out from shadows with long internal post",
-      "https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 03:08:55",
       "https://news.ycombinator.com/item?id=39986593"
     ],
@@ -147,6 +137,16 @@
     [
       "Stalwart mail server (self-hosted all-in-one mail server) now as an admin webui",
       "https://stalw.art/blog/stalwart-webadmin/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 18:14:47",
+      "https://news.ycombinator.com/item?id=39982362"
+    ],
+    [
+      "Evaluating faithfulness and content selection of LLMs in book-length summaries",
+      "https://arxiv.org/abs/2404.01261"
     ]
   ],
   [
