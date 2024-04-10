@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-10, 15:46:09",
+      "https://news.ycombinator.com/item?id=39992017"
+    ],
+    [
+      "The $10k BYD Seagull EV is scaring the U.S. auto industry",
+      "https://www.teslarati.com/10000-byd-seagull-us-auto/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 15:28:38",
+      "https://news.ycombinator.com/item?id=39991815"
+    ],
+    [
+      "Ronda Rousey: 'I never wanted to talk about concussion. It felt like a weakness'",
+      "https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 15:18:27",
       "https://news.ycombinator.com/item?id=39991693"
     ],
@@ -47,6 +67,16 @@
     [
       "WebAssembly Adoption: Is Slow and Steady Winning the Race?",
       "https://thenewstack.io/webassembly-adoption-is-slow-and-steady-winning-the-race/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 12:48:57",
+      "https://news.ycombinator.com/item?id=39990109"
+    ],
+    [
+      "Flattening Bézier Curves and Arcs",
+      "https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/"
     ]
   ],
   [
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2024-04-09, 16:21:40",
-      "https://news.ycombinator.com/item?id=39981032"
-    ],
-    [
-      "Intel Gaudi 3 AI Accelerator",
-      "https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 15:04:27",
-      "https://news.ycombinator.com/item?id=39980222"
-    ],
-    [
-      "Show HN: We built PriceLevel to find out what companies pay for SaaS",
-      "https://www.pricelevel.com/"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 12:44:16",
       "https://news.ycombinator.com/item?id=39978819"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
+      "2024-04-09, 10:48:19",
+      "https://news.ycombinator.com/item?id=39978064"
+    ],
+    [
+      "Lessons learned from manually classifying CIFAR-10 (2011)",
+      "http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 06:24:15",
       "https://news.ycombinator.com/item?id=39976640"
     ],
     [
       "Show HN: I made a discrete logic network card",
       "https://qdiv.dev/posts/eth2/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 06:05:56",
-      "https://news.ycombinator.com/item?id=39976557"
-    ],
-    [
-      "Lambda Screen: Fractals in Pure Lambda Calculus",
-      "https://text.marvinborner.de/2024-03-25-02.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Intel's Ambitious Meteor Lake iGPU",
       "https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 21:43:26",
-      "https://news.ycombinator.com/item?id=39974042"
-    ],
-    [
-      "How deep does life go?",
-      "https://thereader.mitpress.mit.edu/how-deep-does-life-go/"
     ]
   ],
   [
