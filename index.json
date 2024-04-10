@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-04-09, 22:52:48",
-      "https://news.ycombinator.com/item?id=39985203"
-    ],
-    [
-      "The Git repositories of XZ projects are available on GitHub again",
-      "https://github.com/tukaani-project"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 21:01:39",
       "https://news.ycombinator.com/item?id=39984209"
     ],
@@ -147,6 +137,16 @@
     [
       "Stalwart mail server (self-hosted all-in-one mail server) now as an admin webui",
       "https://stalw.art/blog/stalwart-webadmin/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 18:14:47",
+      "https://news.ycombinator.com/item?id=39982362"
+    ],
+    [
+      "Evaluating faithfulness and content selection of LLMs in book-length summaries",
+      "https://arxiv.org/abs/2404.01261"
     ]
   ],
   [
