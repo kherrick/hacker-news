@@ -2,6 +2,7 @@
 
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 09:30:59](https://news.ycombinator.com/item?id=39988716) - [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
+* [2024-04-10, 08:46:40](https://news.ycombinator.com/item?id=39988415) - [Microsoft employees exposed internal passwords in security lapse](https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/)
 * [2024-04-10, 08:20:30](https://news.ycombinator.com/item?id=39988269) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 07:01:34](https://news.ycombinator.com/item?id=39987769) - [Three major LLM releases in 24 hours](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/)
 * [2024-04-10, 05:52:31](https://news.ycombinator.com/item?id=39987378) - [New details on F-16, drone collision in banned Arizona airspace](https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/)
@@ -17,6 +18,7 @@
 * [2024-04-09, 19:29:32](https://news.ycombinator.com/item?id=39983233) - [Yes, social media is a cause of the epidemic of teenage mental illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
 * [2024-04-09, 17:45:00](https://news.ycombinator.com/item?id=39982024) - [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
 * [2024-04-09, 16:21:40](https://news.ycombinator.com/item?id=39981032) - [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
+* [2024-04-09, 15:52:50](https://news.ycombinator.com/item?id=39980750) - [Juicebox: Squeezing the hassle out of encryption key recovery](https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery)
 * [2024-04-09, 15:04:27](https://news.ycombinator.com/item?id=39980222) - [Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
 * [2024-04-09, 08:47:53](https://news.ycombinator.com/item?id=39977443) - [Multimillion-dollar L.A. heist was seamless, sophisticated, stealthy](https://www.latimes.com/california/story/2024-04-06/30-million-theft-from-l-a-vault-was-seemless-sophisticated-daring)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
@@ -25,10 +27,8 @@
 * [2024-04-09, 05:29:02](https://news.ycombinator.com/item?id=39976391) - [Intel's Ambitious Meteor Lake iGPU](https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/)
 * [2024-04-08, 21:43:26](https://news.ycombinator.com/item?id=39974042) - [How deep does life go?](https://thereader.mitpress.mit.edu/how-deep-does-life-go/)
 * [2024-04-08, 12:34:03](https://news.ycombinator.com/item?id=39969038) - [A new community space for discussing free software](https://writefreesoftware.org/blog/community-discourse/)
-* [2024-04-08, 12:06:01](https://news.ycombinator.com/item?id=39968844) - [British Placename Mapper](https://placenames.rtwilson.com/)
 * [2024-04-08, 11:16:45](https://news.ycombinator.com/item?id=39968537) - [Transformer as a General Purpose Computer](https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer)
 * [2024-04-08, 10:37:31](https://news.ycombinator.com/item?id=39968297) - [A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
-* [2024-04-08, 09:03:17](https://news.ycombinator.com/item?id=39967685) - [Demystifying the Shadow DOM](https://thetshaped.dev/p/demystifying-the-shadow-dom)
 * [2024-04-08, 00:23:12](https://news.ycombinator.com/item?id=39965123) - [Show HN: QWANJI](https://byronicalpatrick.github.io/qwanji/)
 
 ## [Archives](archives/index.md)
