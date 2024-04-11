@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 17:57:08](https://news.ycombinator.com/item?id=40004935) - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
+* [2024-04-11, 17:56:51](https://news.ycombinator.com/item?id=40004933) - [Caching is often enough (2003)](https://www.mnot.net/blog/2003/06/28/caching_is_often_enough)
+* [2024-04-11, 17:55:04](https://news.ycombinator.com/item?id=40004909) - [Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
+* [2024-04-11, 17:53:38](https://news.ycombinator.com/item?id=40004887) - [Storm: An LLM system that researches a topic and generates a full-length report](https://github.com/stanford-oval/storm)
 * [2024-04-11, 17:44:13](https://news.ycombinator.com/item?id=40004795) - [Movie industry demands US law requiring ISPs to block piracy websites](https://arstechnica.com/civis/threads/movie-industry-demands-us-law-requiring-isps-to-block-piracy-websites.1499995/)
 * [2024-04-11, 17:38:32](https://news.ycombinator.com/item?id=40004741) - [Rerank 3: A new foundation model for efficient enterprise search and retrieval](https://txt.cohere.com/rerank-3/)
 * [2024-04-11, 17:00:53](https://news.ycombinator.com/item?id=40004357) - [Evidence (YC S21) Is Hiring an Analytics Intern](https://www.ycombinator.com/companies/evidence/jobs/Lu29GmN-analytics-intern)
