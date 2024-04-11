@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-04-11, 13:26:56",
-      "https://news.ycombinator.com/item?id=40001889"
-    ],
-    [
-      "Stack Overflow is documentation, not Q&A, and that's bad",
-      "https://landedstar.com/blog/posts/stack-overflow-is-documentation/"
-    ]
-  ],
-  [
-    [
       "2024-04-11, 13:21:08",
       "https://news.ycombinator.com/item?id=40001833"
     ],
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2024-04-10, 06:56:40",
-      "https://news.ycombinator.com/item?id=39987735"
-    ],
-    [
-      "Enhance WASM: Back End Agnostic SSR for Web Components",
-      "https://begin.com/blog/posts/2024-04-08-introducing-enhance-wasm"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 05:10:53",
       "https://news.ycombinator.com/item?id=39987158"
     ],
@@ -197,16 +177,6 @@
     [
       "Dependencies and resilience",
       "https://ingino.me/ideas/on-dependencies/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 15:15:16",
-      "https://news.ycombinator.com/item?id=39980345"
-    ],
-    [
-      "The simple beauty of XOR floating point compression",
-      "https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/"
     ]
   ],
   [
@@ -287,6 +257,36 @@
     [
       "Textual Healing: iOS Text Editing Minutiae",
       "https://sim.coffee/textual-healing/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 15:35:23",
+      "https://news.ycombinator.com/item?id=39970773"
+    ],
+    [
+      "Fixing all the bugs won't solve all the problems – Deming's path of frustration",
+      "https://shermanonsoftware.com/2024/04/08/fixing-all-the-bugs-wont-solve-all-the-problems-demings-path-of-frustration/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 15:28:41",
+      "https://news.ycombinator.com/item?id=39970716"
+    ],
+    [
+      "I discovered a critical exploit in ZeroMQ with mostly pure luck",
+      "https://fangpenlin.com/posts/2024/04/07/how-i-discovered-a-9-point-8-critical-security-vulnerability-in-zeromq-with-mostly-pure-luck/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 15:26:58",
+      "https://news.ycombinator.com/item?id=39970701"
+    ],
+    [
+      "Introduction to Sentence Embeddings",
+      "https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/"
     ]
   ],
   [
