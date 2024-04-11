@@ -14,6 +14,7 @@
 * [2024-04-11, 14:26:03](https://news.ycombinator.com/item?id=40002527) - [We never agreed to only buy HP ink, say printer owners](https://www.theregister.com/2024/04/11/hp_inc_ink_filing/)
 * [2024-04-11, 14:07:14](https://news.ycombinator.com/item?id=40002306) - [NYC Rat Sightings (Daily) – Interactive Chart](https://realtime.org/data/nyc-rat-sightings)
 * [2024-04-11, 13:34:25](https://news.ycombinator.com/item?id=40001971) - [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
+* [2024-04-11, 13:26:56](https://news.ycombinator.com/item?id=40001889) - [Stack Overflow is documentation, not Q&A, and that's bad](https://landedstar.com/blog/posts/stack-overflow-is-documentation/)
 * [2024-04-11, 13:21:08](https://news.ycombinator.com/item?id=40001833) - [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
 * [2024-04-11, 12:57:18](https://news.ycombinator.com/item?id=40001597) - [Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
 * [2024-04-11, 12:31:28](https://news.ycombinator.com/item?id=40001414) - [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
