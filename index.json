@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-04-11, 11:57:46",
+      "https://news.ycombinator.com/item?id=40001193"
+    ],
+    [
+      "Transformers.js: State-of-the-art Machine Learning for the web",
+      "https://github.com/xenova/transformers.js"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 11:50:57",
+      "https://news.ycombinator.com/item?id=40001150"
+    ],
+    [
+      "Mental Health in Software Engineering",
+      "https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 11:14:43",
       "https://news.ycombinator.com/item?id=40000914"
     ],
@@ -21,42 +41,12 @@
   ],
   [
     [
-      "2024-04-11, 10:21:58",
-      "https://news.ycombinator.com/item?id=40000558"
-    ],
-    [
-      "Computer scientist wins Turing Award for seminal work on randomness",
-      "https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/"
-    ]
-  ],
-  [
-    [
       "2024-04-11, 10:05:55",
       "https://news.ycombinator.com/item?id=40000443"
     ],
     [
       "ESA Satellites to Test Razor-Sharp Formation Flying",
       "https://spectrum.ieee.org/satellite-constellation-formation-flying-esa"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 08:04:08",
-      "https://news.ycombinator.com/item?id=39999558"
-    ],
-    [
-      "Show HN: Snake-inspired FOSS game Dungeon Rush playable in the browser",
-      "https://midzer.de/wasm/dungeonrush/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 07:30:38",
-      "https://news.ycombinator.com/item?id=39999315"
-    ],
-    [
-      "Continuous Social Media Scrolling Negatively Impacts Eye Movement",
-      "https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/"
     ]
   ],
   [
@@ -127,16 +117,6 @@
     [
       "ETag and HTTP Caching",
       "https://rednafi.com/misc/etag_and_http_caching/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 22:21:48",
-      "https://news.ycombinator.com/item?id=39996314"
-    ],
-    [
-      "Why can't my mom email me?",
-      "https://matduggan.com/why-cant-my-mom-email-me/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-04-10, 01:31:24",
+      "https://news.ycombinator.com/item?id=39986095"
+    ],
+    [
+      "Mistral AI Launches New 8x22B MOE Model",
+      "https://twitter.com/MistralAI"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 13:49:05",
       "https://news.ycombinator.com/item?id=39979408"
     ],
@@ -297,6 +287,16 @@
     [
       "Stolen masterpieces that are still missing",
       "https://www.thecollector.com/stolen-masterpieces-famous-artworks-missing/"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 14:32:03",
+      "https://news.ycombinator.com/item?id=39970136"
+    ],
+    [
+      "How does the classic Win32 ListView handle incremental searching?",
+      "https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627"
     ]
   ]
 ]
