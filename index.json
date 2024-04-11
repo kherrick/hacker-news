@@ -151,12 +151,42 @@
   ],
   [
     [
-      "2024-04-10, 12:36:43",
-      "https://news.ycombinator.com/item?id=39990004"
+      "2024-04-10, 16:22:25",
+      "https://news.ycombinator.com/item?id=39992502"
     ],
     [
-      "2023 ACM Turing Prize awarded to Avi Wigderson",
-      "https://awards.acm.org/about/2023-turing"
+      "Bash's sadly flawed smart (programmable) completion",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/BashProgrammableCompletionFlaw"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 11:57:57",
+      "https://news.ycombinator.com/item?id=39989693"
+    ],
+    [
+      "Boy photographer seeks danger as others flee (1968)",
+      "https://www.vintag.es/2016/10/boy-photographer-seeks-danger-as-others.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 11:42:07",
+      "https://news.ycombinator.com/item?id=39989577"
+    ],
+    [
+      "The surprising public health benefit of unemployment?",
+      "https://timharford.com/2024/04/the-surprising-public-health-benefit-of-unemployment/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 11:13:00",
+      "https://news.ycombinator.com/item?id=39989366"
+    ],
+    [
+      "The difference between leptokurtic and platykurtic (2014)",
+      "http://littledatablog.com/blog/visualizing-leptokurtic-vs-platykurtic"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-04-09, 06:24:15",
-      "https://news.ycombinator.com/item?id=39976640"
-    ],
-    [
-      "Show HN: I made a discrete logic network card",
-      "https://qdiv.dev/posts/eth2/"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 22:39:46",
       "https://news.ycombinator.com/item?id=39974465"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-04-08, 15:35:23",
-      "https://news.ycombinator.com/item?id=39970773"
-    ],
-    [
-      "Fixing all the bugs won't solve all the problems – Deming's path of frustration",
-      "https://shermanonsoftware.com/2024/04/08/fixing-all-the-bugs-wont-solve-all-the-problems-demings-path-of-frustration/"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 15:28:41",
       "https://news.ycombinator.com/item?id=39970716"
     ],
@@ -287,16 +297,6 @@
     [
       "Introduction to Sentence Embeddings",
       "https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 14:32:03",
-      "https://news.ycombinator.com/item?id=39970136"
-    ],
-    [
-      "How does the classic Win32 ListView handle incremental searching?",
-      "https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627"
     ]
   ]
 ]
