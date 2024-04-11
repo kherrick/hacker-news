@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-04-11, 17:44:13",
-      "https://news.ycombinator.com/item?id=40004795"
+      "2024-04-11, 17:57:08",
+      "https://news.ycombinator.com/item?id=40004935"
     ],
     [
-      "Movie industry demands US law requiring ISPs to block piracy websites",
-      "https://arstechnica.com/civis/threads/movie-industry-demands-us-law-requiring-isps-to-block-piracy-websites.1499995/"
+      "Holodeck: Language Guided Generation of 3D Embodied AI Environments",
+      "https://yueyang1996.github.io/holodeck/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 17:56:51",
+      "https://news.ycombinator.com/item?id=40004933"
+    ],
+    [
+      "Caching is often enough (2003)",
+      "https://www.mnot.net/blog/2003/06/28/caching_is_often_enough"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 17:55:04",
+      "https://news.ycombinator.com/item?id=40004909"
+    ],
+    [
+      "Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)",
+      "https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 17:53:38",
+      "https://news.ycombinator.com/item?id=40004887"
+    ],
+    [
+      "Storm: An LLM system that researches a topic and generates a full-length report",
+      "https://github.com/stanford-oval/storm"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40004357"
     ],
     [
-      "Evidence (YC S21) Is Hiring an Analytics Intern",
+      "Evidence (YC S21) is hiring an analytics intern",
       "https://www.ycombinator.com/companies/evidence/jobs/Lu29GmN-analytics-intern"
     ]
   ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2024-04-11, 16:08:14",
-      "https://news.ycombinator.com/item?id=40003743"
-    ],
-    [
-      "Why Is README Capitalized? (2015)",
-      "https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt"
-    ]
-  ],
-  [
-    [
       "2024-04-11, 16:06:03",
       "https://news.ycombinator.com/item?id=40003710"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40003138"
     ],
     [
-      "Pompeii: Breathtaking new paintings found at ancient city",
+      "New paintings found at Pompeii",
       "https://www.bbc.com/news/science-environment-68777741"
     ]
   ],
@@ -87,6 +107,26 @@
     [
       "Apple alerts users in 92 nations to mercenary spyware attacks",
       "https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 13:34:25",
+      "https://news.ycombinator.com/item?id=40001971"
+    ],
+    [
+      "Anyone got a contact at OpenAI. They have a spider problem",
+      "https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 13:26:56",
+      "https://news.ycombinator.com/item?id=40001889"
+    ],
+    [
+      "Stack Overflow is documentation, not Q&A",
+      "https://landedstar.com/blog/posts/stack-overflow-is-documentation/"
     ]
   ],
   [
@@ -125,8 +165,18 @@
       "https://news.ycombinator.com/item?id=40000443"
     ],
     [
-      "ESA Satellites to Test Razor-Sharp Formation Flying",
+      "ESA satellites to test razor-sharp formation flying",
       "https://spectrum.ieee.org/satellite-constellation-formation-flying-esa"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 06:35:15",
+      "https://news.ycombinator.com/item?id=39999019"
+    ],
+    [
+      "If Inheritance is so bad, why does everyone use it?",
+      "https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/"
     ]
   ],
   [
@@ -147,26 +197,6 @@
     [
       "Going in circles without a real-time clock",
       "https://rachelbythebay.com/w/2024/04/10/rtc/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 03:30:53",
-      "https://news.ycombinator.com/item?id=39998149"
-    ],
-    [
-      "Parler-TTS: Natural language guidance of high-fidelity TTS",
-      "https://github.com/huggingface/parler-tts"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 16:22:25",
-      "https://news.ycombinator.com/item?id=39992502"
-    ],
-    [
-      "Bash's sadly flawed smart (programmable) completion",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/BashProgrammableCompletionFlaw"
     ]
   ],
   [
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2024-04-10, 05:10:53",
-      "https://news.ycombinator.com/item?id=39987158"
+      "2024-04-10, 09:20:19",
+      "https://news.ycombinator.com/item?id=39988655"
     ],
     [
-      "Untergunther – Restoration of the Pantheon Clock",
-      "https://urban-resources.net/untergunther.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 21:59:42",
-      "https://news.ycombinator.com/item?id=39984757"
-    ],
-    [
-      "Dependencies and resilience",
-      "https://ingino.me/ideas/on-dependencies/"
+      "JavaScript Allongé, the \"Six\" Edition (2019)",
+      "https://github.com/raganwald/javascript-allonge-six"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-04-08, 22:39:46",
-      "https://news.ycombinator.com/item?id=39974465"
-    ],
-    [
-      "The UX of UUIDs",
-      "https://unkey.dev/blog/uuid-ux"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 22:06:29",
       "https://news.ycombinator.com/item?id=39974229"
     ],
@@ -277,16 +287,6 @@
     [
       "Stanley Kubrick did it his way",
       "https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 16:47:07",
-      "https://news.ycombinator.com/item?id=39971497"
-    ],
-    [
-      "Textual Healing: iOS Text Editing Minutiae",
-      "https://sim.coffee/textual-healing/"
     ]
   ],
   [
