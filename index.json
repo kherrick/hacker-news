@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-11, 17:44:13",
+      "https://news.ycombinator.com/item?id=40004795"
+    ],
+    [
+      "Movie industry demands US law requiring ISPs to block piracy websites",
+      "https://arstechnica.com/civis/threads/movie-industry-demands-us-law-requiring-isps-to-block-piracy-websites.1499995/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 17:38:32",
+      "https://news.ycombinator.com/item?id=40004741"
+    ],
+    [
+      "Rerank 3: A new foundation model for efficient enterprise search and retrieval",
+      "https://txt.cohere.com/rerank-3/"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 17:00:53",
       "https://news.ycombinator.com/item?id=40004357"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40003868"
     ],
     [
-      "Vortex: OpenCL Compatible RISC-V Gpgpu",
+      "Vortex: OpenCL compatible RISC-V GPGPU",
       "https://vortex.cc.gatech.edu/"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-04-11, 14:07:14",
-      "https://news.ycombinator.com/item?id=40002306"
-    ],
-    [
-      "NYC Rat Sightings (Daily) – Interactive Chart",
-      "https://realtime.org/data/nyc-rat-sightings"
-    ]
-  ],
-  [
-    [
       "2024-04-11, 13:21:08",
       "https://news.ycombinator.com/item?id=40001833"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40001597"
     ],
     [
-      "Stacking Triangles for Fun and Profit",
+      "Stacking triangles for fun and profit",
       "https://www.oranlooney.com/post/angle-addition/"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=39989577"
     ],
     [
-      "The surprising public health benefit of unemployment?",
+      "Surprising public health benefit of unemployment?",
       "https://timharford.com/2024/04/the-surprising-public-health-benefit-of-unemployment/"
     ]
   ],
@@ -211,32 +221,32 @@
   ],
   [
     [
-      "2024-04-09, 13:49:05",
-      "https://news.ycombinator.com/item?id=39979408"
+      "2024-04-09, 14:20:38",
+      "https://news.ycombinator.com/item?id=39979719"
     ],
     [
-      "Bioluminescent Petunias at Home",
-      "https://www.npr.org/2024/04/08/1242346659/genetically-modified-bioluminescent-petunias-make-their-own-light"
+      "First languages of North America traced back to two groups from Siberia",
+      "https://phys.org/news/2024-04-languages-north-america-language-groups.html"
     ]
   ],
   [
     [
-      "2024-04-09, 09:08:49",
-      "https://news.ycombinator.com/item?id=39977584"
+      "2024-04-09, 12:28:14",
+      "https://news.ycombinator.com/item?id=39978683"
     ],
     [
-      "How to use deep learning for automated color tagging of products? (2022)",
-      "https://www.rrighart.com/blog-color-tags.html"
+      "I made a thing to help you make a thing out of a keypad",
+      "https://cliffle.com/blog/keypad-go/"
     ]
   ],
   [
     [
-      "2024-04-09, 09:02:51",
-      "https://news.ycombinator.com/item?id=39977537"
+      "2024-04-09, 01:08:03",
+      "https://news.ycombinator.com/item?id=39975364"
     ],
     [
-      "A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux (2001)",
-      "https://www.muppetlabs.com/%7Ebreadbox/software/tiny/teensy.html"
+      "Silver coin boom in medieval England due to melted down Byzantine treasures",
+      "https://www.theguardian.com/science/2024/apr/09/silver-coin-boom-in-medieval-england-due-to-melted-down-byzantine-treasures-study-reveals"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-04-08, 19:53:07",
-      "https://news.ycombinator.com/item?id=39973088"
+      "2024-04-08, 21:15:24",
+      "https://news.ycombinator.com/item?id=39973798"
     ],
     [
-      "Embed Crystal code directly in Ruby",
-      "https://github.com/wouterken/crystalruby"
+      "Stanley Kubrick did it his way",
+      "https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I discovered a critical exploit in ZeroMQ with mostly pure luck",
       "https://fangpenlin.com/posts/2024/04/07/how-i-discovered-a-9-point-8-critical-security-vulnerability-in-zeromq-with-mostly-pure-luck/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 15:26:58",
-      "https://news.ycombinator.com/item?id=39970701"
-    ],
-    [
-      "Introduction to Sentence Embeddings",
-      "https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/"
     ]
   ]
 ]
