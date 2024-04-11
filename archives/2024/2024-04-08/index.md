@@ -31,6 +31,7 @@
 * [2024-04-08, 18:37:41](https://news.ycombinator.com/item?id=39972514) - [Cloudflare Developer Week 2024 wrap-up](https://blog.cloudflare.com/developer-week-2024-wrap-up)
 * [2024-04-08, 17:56:04](https://news.ycombinator.com/item?id=39972152) - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
 * [2024-04-08, 17:48:24](https://news.ycombinator.com/item?id=39972086) - [ESLint v9.0.0 Released](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
+* [2024-04-08, 17:43:57](https://news.ycombinator.com/item?id=39972047) - [Stolen Masterpieces: 5 Famous Artworks That Are Still Missing](https://www.thecollector.com/stolen-masterpieces-famous-artworks-missing/)
 * [2024-04-08, 17:42:54](https://news.ycombinator.com/item?id=39972036) - [Show HN: Colab Notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
 * [2024-04-08, 17:39:25](https://news.ycombinator.com/item?id=39972001) - [The Global Impact of Israeli \"Defense\" Technologies on Privacy and Human Rights](https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/)
 * [2024-04-08, 17:37:44](https://news.ycombinator.com/item?id=39971984) - [Show HN: Neco – Coroutine Library for C](https://github.com/tidwall/neco)

@@ -95,6 +95,7 @@
 * [2024-04-09, 08:59:15](https://news.ycombinator.com/item?id=39977522) - [The Internet Archive Just Backed Up an Entire Caribbean Island](https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/)
 * [2024-04-09, 08:47:53](https://news.ycombinator.com/item?id=39977443) - [Multimillion-dollar L.A. heist was seamless, sophisticated, stealthy](https://www.latimes.com/california/story/2024-04-06/30-million-theft-from-l-a-vault-was-seemless-sophisticated-daring)
 * [2024-04-09, 08:27:58](https://news.ycombinator.com/item?id=39977266) - [Magnets are switching up the (mechanical) keyboard game](https://techcrunch.com/2024/04/07/magnets-are-switching-up-the-keyboard-game/)
+* [2024-04-09, 08:26:46](https://news.ycombinator.com/item?id=39977250) - [San Francisco's light rail to upgrade from floppy disks](https://www.theregister.com/2024/04/09/san_francisco_muni_floppy_disks/)
 * [2024-04-09, 08:24:10](https://news.ycombinator.com/item?id=39977231) - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
 * [2024-04-09, 08:06:53](https://news.ycombinator.com/item?id=39977141) - [TSMC will build third Arizona fab after winning $6.6B in CHIPS funding](https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/)
 * [2024-04-09, 07:48:11](https://news.ycombinator.com/item?id=39977058) - [After years of trying, the U.S. government may mandate safer table saws](https://www.npr.org/2024/04/02/1241148577/table-saw-injuries-safety-sawstop-cpsc)
