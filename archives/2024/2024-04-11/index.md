@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 18:18:57](https://news.ycombinator.com/item?id=40005150) - [I Am No Longer Attending Vintage Computer Festivals](http://ascii.textfiles.com/archives/5587)
+* [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
 * [2024-04-11, 17:57:08](https://news.ycombinator.com/item?id=40004935) - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
 * [2024-04-11, 17:56:51](https://news.ycombinator.com/item?id=40004933) - [Caching is often enough (2003)](https://www.mnot.net/blog/2003/06/28/caching_is_often_enough)
 * [2024-04-11, 17:55:04](https://news.ycombinator.com/item?id=40004909) - [Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
@@ -53,6 +55,7 @@
 * [2024-04-11, 06:01:32](https://news.ycombinator.com/item?id=39998849) - [AI-generated sad girl with piano performs the text of the MIT License](https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/)
 * [2024-04-11, 05:41:16](https://news.ycombinator.com/item?id=39998740) - [Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
 * [2024-04-11, 04:33:02](https://news.ycombinator.com/item?id=39998404) - [End of the Line? Saudi Arabia ‘forced to scale back’ plans for desert megacity.](https://www.theguardian.com/world/2024/apr/10/the-line-saudi-arabia-scaling-back-plans-105-mile-long-desert-megacity-crown-prince)
+* [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 * [2024-04-11, 04:22:04](https://news.ycombinator.com/item?id=39998346) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 * [2024-04-11, 03:30:53](https://news.ycombinator.com/item?id=39998149) - [Parler-TTS: Natural language guidance of high-fidelity TTS](https://github.com/huggingface/parler-tts)
 * [2024-04-11, 02:56:01](https://news.ycombinator.com/item?id=39997975) - [Building an AI Coach to Tame My Monkey Mind](https://eugeneyan.com/writing/ai-coach/)
