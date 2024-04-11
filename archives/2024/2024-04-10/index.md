@@ -88,6 +88,7 @@
 * [2024-04-10, 07:01:34](https://news.ycombinator.com/item?id=39987769) - [Three major LLM releases in 24 hours](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/)
 * [2024-04-10, 06:56:40](https://news.ycombinator.com/item?id=39987735) - [Enhance WASM: Back End Agnostic SSR for Web Components](https://begin.com/blog/posts/2024-04-08-introducing-enhance-wasm)
 * [2024-04-10, 06:32:18](https://news.ycombinator.com/item?id=39987579) - [Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months](https://compressx.app)
+* [2024-04-10, 06:19:22](https://news.ycombinator.com/item?id=39987492) - [Are you fitting the Gaussian curve or is it fitting you?](https://medium.com/@dwolela/are-you-fitting-the-gaussian-curve-or-is-it-fitting-you-89b59d0bce10)
 * [2024-04-10, 06:12:56](https://news.ycombinator.com/item?id=39987466) - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
 * [2024-04-10, 06:05:13](https://news.ycombinator.com/item?id=39987435) - [Ex-Microsoft engineer gets 7 years after trying to hire hitman for double murder](https://www.theregister.com/2024/04/09/microsoft_engineer_fake_hitman/)
 * [2024-04-10, 05:52:31](https://news.ycombinator.com/item?id=39987378) - [New details on F-16, drone collision in banned Arizona airspace](https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/)
