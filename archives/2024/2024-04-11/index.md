@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 19:08:56](https://news.ycombinator.com/item?id=40005670) - [Discovering the XZ Backdoor with Andres Freund](https://oxide.computer/podcasts/oxide-and-friends/1843393)
 * [2024-04-11, 18:59:48](https://news.ycombinator.com/item?id=40005579) - [Interview with Google Cloud CEO Thomas Kurian on Google's Enterprise AI Strategy](https://stratechery.com/2024/an-interview-with-google-cloud-ceo-thomas-kurian-about-googles-enterprise-ai-strategy/)
 * [2024-04-11, 18:45:36](https://news.ycombinator.com/item?id=40005426) - [The DDoS Attack of Academic Bullshit](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit)
 * [2024-04-11, 18:18:57](https://news.ycombinator.com/item?id=40005150) - [I Am No Longer Attending Vintage Computer Festivals](http://ascii.textfiles.com/archives/5587)
