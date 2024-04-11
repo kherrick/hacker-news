@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 12:00:32](https://news.ycombinator.com/item?id=40001209) - [Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
 * [2024-04-11, 11:27:09](https://news.ycombinator.com/item?id=40000988) - [Why doesn't Facebook use Git? [video]](https://www.youtube.com/watch?v=0BNVkMoLJxc)
+* [2024-04-11, 11:14:43](https://news.ycombinator.com/item?id=40000914) - [Conscientious Unbelievers](https://aeon.co/essays/how-scots-freethinkers-managed-to-loosen-christianitys-grip)
 * [2024-04-11, 10:24:20](https://news.ycombinator.com/item?id=40000576) - [TrueNAS CORE 13 is the end of the FreeBSD version](https://www.theregister.com/2024/03/18/truenas_abandons_freebsd/)
 * [2024-04-11, 10:21:58](https://news.ycombinator.com/item?id=40000558) - [Computer scientist wins Turing Award for seminal work on randomness](https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/)
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 10:04:13](https://news.ycombinator.com/item?id=40000430) - [Ukraine Is the First \"Hackers' War\"](https://spectrum.ieee.org/ukraine-hackers-war)
+* [2024-04-11, 08:04:08](https://news.ycombinator.com/item?id=39999558) - [Show HN: Snake-inspired FOSS game Dungeon Rush playable in the browser](https://midzer.de/wasm/dungeonrush/)
 * [2024-04-11, 07:30:38](https://news.ycombinator.com/item?id=39999315) - [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
 * [2024-04-11, 06:35:15](https://news.ycombinator.com/item?id=39999019) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
 * [2024-04-11, 06:31:26](https://news.ycombinator.com/item?id=39999000) - [I asked 100 devs they aren't shipping faster. Here's what I learned](https://greptile.com/blog/100-devs)
