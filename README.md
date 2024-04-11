@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-11, 04:33:02](https://news.ycombinator.com/item?id=39998404) - [End of the Line? Saudi Arabia ‘forced to scale back’ plans for desert megacity.](https://www.theguardian.com/world/2024/apr/10/the-line-saudi-arabia-scaling-back-plans-105-mile-long-desert-megacity-crown-prince)
 * [2024-04-11, 02:51:04](https://news.ycombinator.com/item?id=39997955) - [Naismith's Rule](https://en.wikipedia.org/wiki/Naismith%27s_rule)
 * [2024-04-11, 01:33:22](https://news.ycombinator.com/item?id=39997556) - [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
 * [2024-04-11, 01:00:52](https://news.ycombinator.com/item?id=39997376) - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=39997376)
@@ -18,7 +19,6 @@
 * [2024-04-10, 18:10:31](https://news.ycombinator.com/item?id=39993930) - [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
 * [2024-04-10, 17:47:11](https://news.ycombinator.com/item?id=39993626) - [Implementation of Google's Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
 * [2024-04-10, 16:48:01](https://news.ycombinator.com/item?id=39992817) - [Show HN: Sonauto – A more controllable AI music creator](https://sonauto.ai/)
-* [2024-04-10, 15:18:27](https://news.ycombinator.com/item?id=39991693) - [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
 * [2024-04-10, 13:15:02](https://news.ycombinator.com/item?id=39990346) - [Show HN: ADS-B visualizer](https://adsb.exposed/)
 * [2024-04-10, 12:36:43](https://news.ycombinator.com/item?id=39990004) - [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
 * [2024-04-10, 06:56:40](https://news.ycombinator.com/item?id=39987735) - [Enhance WASM: Back End Agnostic SSR for Web Components](https://begin.com/blog/posts/2024-04-08-introducing-enhance-wasm)
