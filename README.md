@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-11, 13:21:08](https://news.ycombinator.com/item?id=40001833) - [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
 * [2024-04-11, 12:31:28](https://news.ycombinator.com/item?id=40001414) - [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
 * [2024-04-11, 12:19:14](https://news.ycombinator.com/item?id=40001334) - [Show HN: CNDI – DevOps for Data Teams](https://github.com/polyseam/cndi)
 * [2024-04-11, 12:00:32](https://news.ycombinator.com/item?id=40001209) - [Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
 * [2024-04-11, 11:57:46](https://news.ycombinator.com/item?id=40001193) - [Transformers.js: State-of-the-art Machine Learning for the web](https://github.com/xenova/transformers.js)
 * [2024-04-11, 11:50:57](https://news.ycombinator.com/item?id=40001150) - [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
-* [2024-04-11, 11:37:12](https://news.ycombinator.com/item?id=40001058) - [The dumbphone boom is real](https://www.newyorker.com/culture/infinite-scroll/the-dumbphone-boom-is-real)
-* [2024-04-11, 11:08:45](https://news.ycombinator.com/item?id=40000884) - [Official NixOS Wiki Launched](https://wiki.nixos.org/wiki/NixOS_Wiki)
 * [2024-04-11, 10:24:12](https://news.ycombinator.com/item?id=40000574) - [Scaling will never get us to AGI](https://garymarcus.substack.com/p/breaking-news-scaling-will-never)
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 05:41:16](https://news.ycombinator.com/item?id=39998740) - [Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
@@ -28,6 +27,7 @@
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 06:22:43](https://news.ycombinator.com/item?id=39976634) - [Oh My Git: An open source game about learning Git](https://ohmygit.org/)
 * [2024-04-08, 19:53:07](https://news.ycombinator.com/item?id=39973088) - [Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
+* [2024-04-08, 18:47:31](https://news.ycombinator.com/item?id=39972586) - [Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel](https://github.com/larryboyko/dimityjones)
 * [2024-04-08, 17:43:57](https://news.ycombinator.com/item?id=39972047) - [Stolen masterpieces that are still missing](https://www.thecollector.com/stolen-masterpieces-famous-artworks-missing/)
 * [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
 
