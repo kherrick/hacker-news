@@ -72,6 +72,7 @@
 * [2024-04-09, 12:17:57](https://news.ycombinator.com/item?id=39978610) - [Show HN: I mapped the Hardest Geezer's length of Africa run](https://whereisruss.vercel.app/)
 * [2024-04-09, 12:12:51](https://news.ycombinator.com/item?id=39978577) - [Introducing Google Axion Processors, our new Arm-based CPUs](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/)
 * [2024-04-09, 11:47:30](https://news.ycombinator.com/item?id=39978434) - [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
+* [2024-04-09, 11:44:57](https://news.ycombinator.com/item?id=39978423) - [1.3k recordings and trace drawings of neurons](https://celltypes.brain-map.org/data)
 * [2024-04-09, 11:41:18](https://news.ycombinator.com/item?id=39978396) - [Total eclipse of the Internet: traffic impacts in Mexico, the US, and Canada](https://blog.cloudflare.com/total-eclipse-internet-traffic-impacts-mexico-us-canada)
 * [2024-04-09, 11:38:47](https://news.ycombinator.com/item?id=39978377) - [Telegram Remote Code Exploit](https://twitter.com/CertiKAlert/status/1777634014049796181)
 * [2024-04-09, 11:35:26](https://news.ycombinator.com/item?id=39978353) - [How to use my science-based color wheel](https://www.youtube.com/watch?v=alrdClpGHvY)
