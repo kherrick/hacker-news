@@ -5,7 +5,7 @@
 * [2024-04-11, 12:31:28](https://news.ycombinator.com/item?id=40001414) - [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
 * [2024-04-11, 12:19:14](https://news.ycombinator.com/item?id=40001334) - [Show HN: CNDI – DevOps for Data Teams](https://github.com/polyseam/cndi)
 * [2024-04-11, 12:00:32](https://news.ycombinator.com/item?id=40001209) - [Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
-* [2024-04-11, 11:57:46](https://news.ycombinator.com/item?id=40001193) - [Transformers.js –  Run transformers directly in the browser](https://github.com/xenova/transformers.js)
+* [2024-04-11, 11:57:46](https://news.ycombinator.com/item?id=40001193) - [Transformers.js –  Run Transformers directly in the browser](https://github.com/xenova/transformers.js)
 * [2024-04-11, 11:50:57](https://news.ycombinator.com/item?id=40001150) - [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 05:41:16](https://news.ycombinator.com/item?id=39998740) - [Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
