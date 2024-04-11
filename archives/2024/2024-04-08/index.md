@@ -22,6 +22,7 @@
 * [2024-04-08, 20:20:13](https://news.ycombinator.com/item?id=39973296) - [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
 * [2024-04-08, 20:07:15](https://news.ycombinator.com/item?id=39973189) - [Shorebird 1.0 – Update your Flutter apps instantly](https://shorebird.dev/blogs/1.0/)
 * [2024-04-08, 20:01:45](https://news.ycombinator.com/item?id=39973150) - [Show HN: Shorebird 1.0, Flutter Code Push](https://github.com/shorebirdtech/shorebird)
+* [2024-04-08, 19:53:07](https://news.ycombinator.com/item?id=39973088) - [Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
 * [2024-04-08, 19:42:21](https://news.ycombinator.com/item?id=39972990) - [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
 * [2024-04-08, 19:16:54](https://news.ycombinator.com/item?id=39972800) - [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
 * [2024-04-08, 19:14:42](https://news.ycombinator.com/item?id=39972780) - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)

@@ -13,6 +13,7 @@
 * [2024-04-10, 22:37:52](https://news.ycombinator.com/item?id=39996433) - [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)
 * [2024-04-10, 22:21:48](https://news.ycombinator.com/item?id=39996314) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 21:21:06](https://news.ycombinator.com/item?id=39995849) - [World's Smallest CSV Parser (C#)](https://github.com/kjpgit/SmallestCSVParser)
+* [2024-04-10, 21:13:17](https://news.ycombinator.com/item?id=39995782) - ['Now we know where the dead went.' Did grave robbers plunder battlefields?](https://www.science.org/content/article/now-we-know-where-dead-went-did-grave-robbers-plunder-battlefields)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 21:00:51](https://news.ycombinator.com/item?id=39995667) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 * [2024-04-10, 20:56:51](https://news.ycombinator.com/item?id=39995628) - [Gentoo Linux becomes an SPI associated project](https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html)
