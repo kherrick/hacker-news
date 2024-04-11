@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-11, 22:18:04](https://news.ycombinator.com/item?id=40007384) - [Capsela Is Dead, Long Live Capsela (2017)](https://hackaday.com/2017/09/15/retrotectactular-capsela-is-dead-long-live-capsela/)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 20:55:42](https://news.ycombinator.com/item?id=40006722) - [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
-* [2024-04-11, 20:20:28](https://news.ycombinator.com/item?id=40006409) - [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)
+* [2024-04-11, 20:52:57](https://news.ycombinator.com/item?id=40006697) - [Descent: A classic 3-D first-person shooter (2012)](http://insectoid.budwin.net/dos/descent/descent.html)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
 * [2024-04-11, 17:55:04](https://news.ycombinator.com/item?id=40004909) - [Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
 * [2024-04-11, 17:53:38](https://news.ycombinator.com/item?id=40004887) - [Storm: LLM system that researches a topic and generates full-length wiki article](https://github.com/stanford-oval/storm)
@@ -11,7 +12,6 @@
 * [2024-04-11, 15:19:35](https://news.ycombinator.com/item?id=40003138) - [New paintings found at Pompeii](https://www.bbc.com/news/science-environment-68777741)
 * [2024-04-11, 15:06:26](https://news.ycombinator.com/item?id=40002987) - [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
 * [2024-04-11, 14:53:53](https://news.ycombinator.com/item?id=40002851) - [Vietnamese property tycoon sentenced to death in $27B fraud case](https://www.theguardian.com/world/2024/apr/11/vietnamese-property-tycoon-sentenced-to-death-in-27bn-case)
-* [2024-04-11, 14:07:14](https://news.ycombinator.com/item?id=40002306) - [NYC Rat Sightings (Daily)](https://realtime.org/data/nyc-rat-sightings)
 * [2024-04-11, 13:34:25](https://news.ycombinator.com/item?id=40001971) - [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
 * [2024-04-11, 12:57:18](https://news.ycombinator.com/item?id=40001597) - [Stacking triangles for fun and profit](https://www.oranlooney.com/post/angle-addition/)
 * [2024-04-11, 12:28:56](https://news.ycombinator.com/item?id=40001398) - [McCarthy's Ambiguous Operator (2005)](http://www.randomhacks.net/2005/10/11/amb-operator/)
