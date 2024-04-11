@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-11, 19:19:21](https://news.ycombinator.com/item?id=40005775) - [You can't build a moat with AI](https://generatingconversation.substack.com/p/you-cant-build-a-moat-with-ai)
-* [2024-04-11, 19:08:56](https://news.ycombinator.com/item?id=40005670) - [Discovering the xz backdoor with Andres Freund [audio]](https://oxide.computer/podcasts/oxide-and-friends/1843393)
 * [2024-04-11, 18:59:48](https://news.ycombinator.com/item?id=40005579) - [Interview with Google Cloud CEO Thomas Kurian on Google's Enterprise AI Strategy](https://stratechery.com/2024/an-interview-with-google-cloud-ceo-thomas-kurian-about-googles-enterprise-ai-strategy/)
 * [2024-04-11, 18:45:36](https://news.ycombinator.com/item?id=40005426) - [The DDoS attack of academic bullshit](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
@@ -16,6 +14,7 @@
 * [2024-04-11, 14:07:14](https://news.ycombinator.com/item?id=40002306) - [NYC Rat Sightings (Daily)](https://realtime.org/data/nyc-rat-sightings)
 * [2024-04-11, 13:34:25](https://news.ycombinator.com/item?id=40001971) - [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
 * [2024-04-11, 12:57:18](https://news.ycombinator.com/item?id=40001597) - [Stacking triangles for fun and profit](https://www.oranlooney.com/post/angle-addition/)
+* [2024-04-11, 11:57:46](https://news.ycombinator.com/item?id=40001193) - [Transformers.js –  Run Transformers directly in the browser](https://github.com/xenova/transformers.js)
 * [2024-04-11, 11:50:57](https://news.ycombinator.com/item?id=40001150) - [Mental health in software engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA satellites to test razor-sharp formation flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 06:35:15](https://news.ycombinator.com/item?id=39999019) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
@@ -29,6 +28,7 @@
 * [2024-04-09, 01:08:03](https://news.ycombinator.com/item?id=39975364) - [Silver coin boom in medieval England due to melted down Byzantine treasures](https://www.theguardian.com/science/2024/apr/09/silver-coin-boom-in-medieval-england-due-to-melted-down-byzantine-treasures-study-reveals)
 * [2024-04-08, 22:39:46](https://news.ycombinator.com/item?id=39974465) - [The UX of UUIDs](https://unkey.dev/blog/uuid-ux)
 * [2024-04-08, 21:15:24](https://news.ycombinator.com/item?id=39973798) - [Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
+* [2024-04-08, 16:47:07](https://news.ycombinator.com/item?id=39971497) - [Textual Healing: iOS Text Editing Minutiae](https://sim.coffee/textual-healing/)
 * [2024-04-08, 15:28:41](https://news.ycombinator.com/item?id=39970716) - [I discovered a critical exploit in ZeroMQ with mostly pure luck](https://fangpenlin.com/posts/2024/04/07/how-i-discovered-a-9-point-8-critical-security-vulnerability-in-zeromq-with-mostly-pure-luck/)
 
 ## [Archives](archives/index.md)
