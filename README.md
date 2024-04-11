@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 10:04:13](https://news.ycombinator.com/item?id=40000430) - [Ukraine Is the First \"Hackers' War\"](https://spectrum.ieee.org/ukraine-hackers-war)
 * [2024-04-11, 07:30:38](https://news.ycombinator.com/item?id=39999315) - [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
 * [2024-04-11, 06:01:32](https://news.ycombinator.com/item?id=39998849) - [AI-generated sad girl with piano performs the text of the MIT License](https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/)
@@ -11,7 +12,6 @@
 * [2024-04-10, 23:56:56](https://news.ycombinator.com/item?id=39996947) - [KOReader Document Viewer for E Ink devices](https://koreader.rocks)
 * [2024-04-10, 22:51:47](https://news.ycombinator.com/item?id=39996521) - [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
 * [2024-04-10, 22:21:48](https://news.ycombinator.com/item?id=39996314) - [Why can't my mom email me?](https://matduggan.com/why-cant-my-mom-email-me/)
-* [2024-04-10, 21:27:07](https://news.ycombinator.com/item?id=39995908) - [Show HN: Next-token prediction in JavaScript – build fast LLMs from scratch](https://github.com/bennyschmidt/next-token-prediction)
 * [2024-04-10, 21:13:17](https://news.ycombinator.com/item?id=39995782) - [Did grave robbers plunder battlefields?](https://www.science.org/content/article/now-we-know-where-dead-went-did-grave-robbers-plunder-battlefields)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 20:00:21](https://news.ycombinator.com/item?id=39995112) - [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
