@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2024-04-10, 21:21:06",
-      "https://news.ycombinator.com/item?id=39995849"
+      "2024-04-10, 21:13:17",
+      "https://news.ycombinator.com/item?id=39995782"
     ],
     [
-      "World's Smallest CSV Parser (C#)",
-      "https://github.com/kjpgit/SmallestCSVParser"
+      "'Now we know where the dead went.' Did grave robbers plunder battlefields?",
+      "https://www.science.org/content/article/now-we-know-where-dead-went-did-grave-robbers-plunder-battlefields"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-04-10, 09:30:59",
-      "https://news.ycombinator.com/item?id=39988716"
-    ],
-    [
-      "Deep Bug",
-      "https://www.marginalia.nu/log/a_104_dep_bug/"
-    ]
-  ],
-  [
-    [
       "2024-04-10, 03:30:38",
       "https://news.ycombinator.com/item?id=39986687"
     ],
@@ -267,6 +257,16 @@
     [
       "Predictive CPU isolation of containers at Netflix (2019)",
       "https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7?gi=c53c45dcda8b"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 19:53:07",
+      "https://news.ycombinator.com/item?id=39973088"
+    ],
+    [
+      "Embed Crystal code directly in Ruby",
+      "https://github.com/wouterken/crystalruby"
     ]
   ],
   [
