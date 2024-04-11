@@ -3,7 +3,6 @@
 * [2024-04-11, 21:33:44](https://news.ycombinator.com/item?id=40007054) - [Macs to Get AI-Focused M4 Chips Starting in Late 2024](https://www.macrumors.com/2024/04/11/m4-ai-chips-late-2024/)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
-* [2024-04-11, 17:57:08](https://news.ycombinator.com/item?id=40004935) - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
 * [2024-04-11, 17:55:04](https://news.ycombinator.com/item?id=40004909) - [Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
 * [2024-04-11, 17:53:38](https://news.ycombinator.com/item?id=40004887) - [Storm: LLM system that researches a topic and generates full-length wiki article](https://github.com/stanford-oval/storm)
 * [2024-04-11, 16:19:20](https://news.ycombinator.com/item?id=40003868) - [Vortex: OpenCL compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
@@ -29,6 +28,7 @@
 * [2024-04-09, 01:08:03](https://news.ycombinator.com/item?id=39975364) - [Silver coin boom in medieval England due to melted down Byzantine treasures](https://www.theguardian.com/science/2024/apr/09/silver-coin-boom-in-medieval-england-due-to-melted-down-byzantine-treasures-study-reveals)
 * [2024-04-08, 22:39:46](https://news.ycombinator.com/item?id=39974465) - [The UX of UUIDs](https://unkey.dev/blog/uuid-ux)
 * [2024-04-08, 21:15:24](https://news.ycombinator.com/item?id=39973798) - [Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
+* [2024-04-08, 16:47:07](https://news.ycombinator.com/item?id=39971497) - [Textual Healing: iOS Text Editing Minutiae](https://sim.coffee/textual-healing/)
 * [2024-04-08, 15:28:41](https://news.ycombinator.com/item?id=39970716) - [I discovered a critical exploit in ZeroMQ with mostly pure luck](https://fangpenlin.com/posts/2024/04/07/how-i-discovered-a-9-point-8-critical-security-vulnerability-in-zeromq-with-mostly-pure-luck/)
 
 ## [Archives](archives/index.md)
