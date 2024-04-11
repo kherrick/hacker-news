@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
 * [2024-04-11, 13:21:08](https://news.ycombinator.com/item?id=40001833) - [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
+* [2024-04-11, 12:57:18](https://news.ycombinator.com/item?id=40001597) - [Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
 * [2024-04-11, 12:31:28](https://news.ycombinator.com/item?id=40001414) - [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
 * [2024-04-11, 12:19:14](https://news.ycombinator.com/item?id=40001334) - [Show HN: CNDI – DevOps for Data Teams](https://github.com/polyseam/cndi)
 * [2024-04-11, 12:00:32](https://news.ycombinator.com/item?id=40001209) - [Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
