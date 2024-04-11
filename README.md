@@ -18,6 +18,7 @@
 * [2024-04-10, 18:10:31](https://news.ycombinator.com/item?id=39993930) - [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
 * [2024-04-10, 17:47:11](https://news.ycombinator.com/item?id=39993626) - [Implementation of Google's Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
 * [2024-04-10, 16:48:01](https://news.ycombinator.com/item?id=39992817) - [Show HN: Sonauto – A more controllable AI music creator](https://sonauto.ai/)
+* [2024-04-10, 15:18:27](https://news.ycombinator.com/item?id=39991693) - [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
 * [2024-04-10, 13:15:02](https://news.ycombinator.com/item?id=39990346) - [Show HN: ADS-B visualizer](https://adsb.exposed/)
 * [2024-04-10, 12:36:43](https://news.ycombinator.com/item?id=39990004) - [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
 * [2024-04-10, 06:56:40](https://news.ycombinator.com/item?id=39987735) - [Enhance WASM: Back End Agnostic SSR for Web Components](https://begin.com/blog/posts/2024-04-08-introducing-enhance-wasm)
@@ -28,7 +29,6 @@
 * [2024-04-09, 06:22:43](https://news.ycombinator.com/item?id=39976634) - [Oh My Git: An open source game about learning Git](https://ohmygit.org/)
 * [2024-04-08, 19:53:07](https://news.ycombinator.com/item?id=39973088) - [Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
 * [2024-04-08, 17:43:57](https://news.ycombinator.com/item?id=39972047) - [Stolen masterpieces that are still missing](https://www.thecollector.com/stolen-masterpieces-famous-artworks-missing/)
-* [2024-04-08, 16:19:26](https://news.ycombinator.com/item?id=39971234) - [New minerals on the moon explaining the mystery of the lunar landscape](https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape)
 * [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
 
 ## [Archives](archives/index.md)
