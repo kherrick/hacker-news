@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-11, 18:18:57](https://news.ycombinator.com/item?id=40005150) - [I Am No Longer Attending Vintage Computer Festivals](http://ascii.textfiles.com/archives/5587)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
 * [2024-04-11, 17:57:08](https://news.ycombinator.com/item?id=40004935) - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
 * [2024-04-11, 17:55:04](https://news.ycombinator.com/item?id=40004909) - [Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
@@ -13,6 +12,7 @@
 * [2024-04-11, 15:19:35](https://news.ycombinator.com/item?id=40003138) - [New paintings found at Pompeii](https://www.bbc.com/news/science-environment-68777741)
 * [2024-04-11, 15:06:26](https://news.ycombinator.com/item?id=40002987) - [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
 * [2024-04-11, 13:34:25](https://news.ycombinator.com/item?id=40001971) - [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
+* [2024-04-11, 13:26:56](https://news.ycombinator.com/item?id=40001889) - [Stack Overflow is documentation, not Q&A](https://landedstar.com/blog/posts/stack-overflow-is-documentation/)
 * [2024-04-11, 13:21:08](https://news.ycombinator.com/item?id=40001833) - [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer (2023)](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
 * [2024-04-11, 12:57:18](https://news.ycombinator.com/item?id=40001597) - [Stacking triangles for fun and profit](https://www.oranlooney.com/post/angle-addition/)
 * [2024-04-11, 11:57:46](https://news.ycombinator.com/item?id=40001193) - [Transformers.js –  Run Transformers directly in the browser](https://github.com/xenova/transformers.js)
