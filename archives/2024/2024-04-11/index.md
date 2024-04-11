@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 21:33:44](https://news.ycombinator.com/item?id=40007054) - [Macs to Get AI-Focused M4 Chips Starting in Late 2024](https://www.macrumors.com/2024/04/11/m4-ai-chips-late-2024/)
 * [2024-04-11, 21:19:49](https://news.ycombinator.com/item?id=40006939) - [Show HN: We created a way for you to review your resume using AI](https://blog.chapteroneai.com/b/resume-reviews-our-first-product)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 19:36:20](https://news.ycombinator.com/item?id=40005949) - [Kubernetes Is Not the Point](https://www.bettyjunod.com/blog/kubernetes-is-not-the-point)
