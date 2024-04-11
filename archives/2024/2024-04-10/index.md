@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 23:56:56](https://news.ycombinator.com/item?id=39996947) - [KOReader Document Viewer for E Ink devices](https://koreader.rocks)
 * [2024-04-10, 23:26:49](https://news.ycombinator.com/item?id=39996743) - [OpenGrok: Fast and usable source code search and cross reference engine](https://github.com/oracle/opengrok)
 * [2024-04-10, 22:51:47](https://news.ycombinator.com/item?id=39996521) - [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
 * [2024-04-10, 22:49:46](https://news.ycombinator.com/item?id=39996504) - [Do You Need IPv4 Anymore?](https://blog.daknob.net/do-you-really-need-ipv4-anymore/)
