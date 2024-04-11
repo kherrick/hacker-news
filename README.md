@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-11, 22:24:40](https://news.ycombinator.com/item?id=40007445) - [OpenTable is adding your first name to previously anonymous reviews](https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/)
-* [2024-04-11, 21:33:44](https://news.ycombinator.com/item?id=40007054) - [Macs to Get AI-Focused M4 Chips Starting in Late 2024](https://www.macrumors.com/2024/04/11/m4-ai-chips-late-2024/)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 20:55:42](https://news.ycombinator.com/item?id=40006722) - [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
@@ -16,6 +15,7 @@
 * [2024-04-11, 13:34:25](https://news.ycombinator.com/item?id=40001971) - [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
 * [2024-04-11, 12:57:18](https://news.ycombinator.com/item?id=40001597) - [Stacking triangles for fun and profit](https://www.oranlooney.com/post/angle-addition/)
 * [2024-04-11, 12:28:56](https://news.ycombinator.com/item?id=40001398) - [McCarthy's Ambiguous Operator (2005)](http://www.randomhacks.net/2005/10/11/amb-operator/)
+* [2024-04-11, 11:57:46](https://news.ycombinator.com/item?id=40001193) - [Transformers.js –  Run Transformers directly in the browser](https://github.com/xenova/transformers.js)
 * [2024-04-11, 11:50:57](https://news.ycombinator.com/item?id=40001150) - [Mental health in software engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA satellites to test razor-sharp formation flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 05:41:16](https://news.ycombinator.com/item?id=39998740) - [Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
