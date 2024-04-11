@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 15:29:08](https://news.ycombinator.com/item?id=40003251) - [Harvard will require test scores for admission again](https://www.washingtonpost.com/education/2024/04/11/harvard-reinstates-sat-act-admissions-requirement/)
 * [2024-04-11, 15:19:35](https://news.ycombinator.com/item?id=40003138) - [Pompeii: Breathtaking new paintings found at ancient city](https://www.bbc.com/news/science-environment-68777741)
 * [2024-04-11, 15:06:26](https://news.ycombinator.com/item?id=40002987) - [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
 * [2024-04-11, 14:53:53](https://news.ycombinator.com/item?id=40002851) - [Vietnamese Property tycoon Truong My LAN sentenced to death in $27B fraud case](https://www.theguardian.com/world/2024/apr/11/vietnamese-property-tycoon-sentenced-to-death-in-27bn-case)
