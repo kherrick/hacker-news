@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-11, 16:19:20](https://news.ycombinator.com/item?id=40003868) - [Vortex: OpenCL Compatible RISC-V Gpgpu](https://vortex.cc.gatech.edu/)
 * [2024-04-11, 16:08:14](https://news.ycombinator.com/item?id=40003743) - [Why Is README Capitalized?](https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt)
 * [2024-04-11, 16:06:03](https://news.ycombinator.com/item?id=40003710) - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
 * [2024-04-11, 15:19:35](https://news.ycombinator.com/item?id=40003138) - [Pompeii: Breathtaking new paintings found at ancient city](https://www.bbc.com/news/science-environment-68777741)
@@ -15,7 +16,6 @@
 * [2024-04-11, 05:41:16](https://news.ycombinator.com/item?id=39998740) - [Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
 * [2024-04-11, 04:22:04](https://news.ycombinator.com/item?id=39998346) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 * [2024-04-11, 03:30:53](https://news.ycombinator.com/item?id=39998149) - [Parler-TTS: Natural language guidance of high-fidelity TTS](https://github.com/huggingface/parler-tts)
-* [2024-04-11, 01:33:22](https://news.ycombinator.com/item?id=39997556) - [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 18:49:47](https://news.ycombinator.com/item?id=39994339) - [Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
 * [2024-04-10, 18:15:08](https://news.ycombinator.com/item?id=39993976) - [Code search is hard](https://blog.val.town/blog/search-notes/)

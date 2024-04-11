@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 16:19:20](https://news.ycombinator.com/item?id=40003868) - [Vortex: OpenCL Compatible RISC-V Gpgpu](https://vortex.cc.gatech.edu/)
 * [2024-04-11, 16:08:14](https://news.ycombinator.com/item?id=40003743) - [Why Is README Capitalized?](https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt)
 * [2024-04-11, 16:06:03](https://news.ycombinator.com/item?id=40003710) - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
 * [2024-04-11, 15:29:08](https://news.ycombinator.com/item?id=40003251) - [Harvard will require test scores for admission again](https://www.washingtonpost.com/education/2024/04/11/harvard-reinstates-sat-act-admissions-requirement/)
