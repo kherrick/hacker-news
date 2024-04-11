@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 19:19:21](https://news.ycombinator.com/item?id=40005775) - [You can't build a moat with AI](https://generatingconversation.substack.com/p/you-cant-build-a-moat-with-ai)
 * [2024-04-11, 19:08:56](https://news.ycombinator.com/item?id=40005670) - [Discovering the XZ Backdoor with Andres Freund](https://oxide.computer/podcasts/oxide-and-friends/1843393)
 * [2024-04-11, 19:07:44](https://news.ycombinator.com/item?id=40005659) - [Caltech Restores Standardized Test Requirement for Undergraduate Admission](https://www.caltech.edu/about/news/caltech-restores-standardized-test-requirement-for-undergraduate-admission)
 * [2024-04-11, 18:59:48](https://news.ycombinator.com/item?id=40005579) - [Interview with Google Cloud CEO Thomas Kurian on Google's Enterprise AI Strategy](https://stratechery.com/2024/an-interview-with-google-cloud-ceo-thomas-kurian-about-googles-enterprise-ai-strategy/)
