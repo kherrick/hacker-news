@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 10:21:58](https://news.ycombinator.com/item?id=40000558) - [Computer scientist wins Turing Award for seminal work on randomness](https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/)
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 10:04:13](https://news.ycombinator.com/item?id=40000430) - [Ukraine Is the First \"Hackers' War\"](https://spectrum.ieee.org/ukraine-hackers-war)
 * [2024-04-11, 07:30:38](https://news.ycombinator.com/item?id=39999315) - [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
