@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 12:31:28](https://news.ycombinator.com/item?id=40001414) - [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
+* [2024-04-11, 12:19:14](https://news.ycombinator.com/item?id=40001334) - [Show HN: CNDI – DevOps for Data Teams](https://github.com/polyseam/cndi)
 * [2024-04-11, 12:00:32](https://news.ycombinator.com/item?id=40001209) - [Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
 * [2024-04-11, 11:57:46](https://news.ycombinator.com/item?id=40001193) - [Transformers.js: State-of-the-art Machine Learning for the web](https://github.com/xenova/transformers.js)
 * [2024-04-11, 11:50:57](https://news.ycombinator.com/item?id=40001150) - [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
+* [2024-04-11, 11:37:12](https://news.ycombinator.com/item?id=40001058) - [The dumbphone boom is real](https://www.newyorker.com/culture/infinite-scroll/the-dumbphone-boom-is-real)
 * [2024-04-11, 11:27:09](https://news.ycombinator.com/item?id=40000988) - [Why doesn't Facebook use Git? [video]](https://www.youtube.com/watch?v=0BNVkMoLJxc)
 * [2024-04-11, 11:14:43](https://news.ycombinator.com/item?id=40000914) - [Conscientious Unbelievers](https://aeon.co/essays/how-scots-freethinkers-managed-to-loosen-christianitys-grip)
 * [2024-04-11, 11:08:45](https://news.ycombinator.com/item?id=40000884) - [Official NixOS Wiki Launched](https://wiki.nixos.org/wiki/NixOS_Wiki)
