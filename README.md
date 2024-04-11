@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-11, 21:19:49](https://news.ycombinator.com/item?id=40006939) - [Show HN: We created a way for you to review your resume using AI](https://blog.chapteroneai.com/b/resume-reviews-our-first-product)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 19:08:56](https://news.ycombinator.com/item?id=40005670) - [Discovering the xz backdoor with Andres Freund [audio]](https://oxide.computer/podcasts/oxide-and-friends/1843393)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
-* [2024-04-11, 17:57:08](https://news.ycombinator.com/item?id=40004935) - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
 * [2024-04-11, 17:55:04](https://news.ycombinator.com/item?id=40004909) - [Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
 * [2024-04-11, 17:53:38](https://news.ycombinator.com/item?id=40004887) - [Storm: LLM system that researches a topic and generates full-length wiki article](https://github.com/stanford-oval/storm)
 * [2024-04-11, 16:19:20](https://news.ycombinator.com/item?id=40003868) - [Vortex: OpenCL compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
