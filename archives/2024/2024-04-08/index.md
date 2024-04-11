@@ -16,6 +16,7 @@
 * [2024-04-08, 21:57:58](https://news.ycombinator.com/item?id=39974162) - [Nintendo's online servers for Wii U and 3DS shut down today](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u)
 * [2024-04-08, 21:43:26](https://news.ycombinator.com/item?id=39974042) - [How Deep Does Life Go?](https://thereader.mitpress.mit.edu/how-deep-does-life-go/)
 * [2024-04-08, 21:17:52](https://news.ycombinator.com/item?id=39973831) - [Begging EuroRust to acknowledge independent workers](https://fasterthanli.me/articles/begging-eurorust-to-acknowledge-independent-workers)
+* [2024-04-08, 21:15:24](https://news.ycombinator.com/item?id=39973798) - [Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
 * [2024-04-08, 20:54:16](https://news.ycombinator.com/item?id=39973599) - [Intel's Ambitious Meteor Lake iGPU](https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/)
 * [2024-04-08, 20:49:16](https://news.ycombinator.com/item?id=39973555) - [France has a military drone radar everyone's desperate to get](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
 * [2024-04-08, 20:38:49](https://news.ycombinator.com/item?id=39973467) - [karpathy/llm.c](https://github.com/karpathy/llm.c)
