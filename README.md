@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-11, 19:36:20](https://news.ycombinator.com/item?id=40005949) - [Kubernetes Is Not the Point](https://www.bettyjunod.com/blog/kubernetes-is-not-the-point)
+* [2024-04-11, 19:36:20](https://news.ycombinator.com/item?id=40005949) - [Kubernetes is not the point](https://www.bettyjunod.com/blog/kubernetes-is-not-the-point)
 * [2024-04-11, 18:45:36](https://news.ycombinator.com/item?id=40005426) - [The DDoS attack of academic bullshit](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
 * [2024-04-11, 17:57:08](https://news.ycombinator.com/item?id=40004935) - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
