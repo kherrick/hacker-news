@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-10, 23:26:49",
-      "https://news.ycombinator.com/item?id=39996743"
+      "2024-04-11, 01:00:52",
+      "https://news.ycombinator.com/item?id=39997376"
     ],
     [
-      "OpenGrok: Fast and usable source code search and cross reference engine",
-      "https://github.com/oracle/opengrok"
+      "MixRank (YC S11) Is Hiring Global Remote Software Engineers",
+      "https://news.ycombinator.com/item?id=39997376"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 00:27:36",
+      "https://news.ycombinator.com/item?id=39997189"
+    ],
+    [
+      "Replacing Wires Could Double How Much Electricity the US Grid Can Handle",
+      "https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/"
     ]
   ],
   [
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2024-04-10, 22:49:46",
-      "https://news.ycombinator.com/item?id=39996504"
+      "2024-04-10, 22:43:14",
+      "https://news.ycombinator.com/item?id=39996468"
     ],
     [
-      "Do You Need IPv4 Anymore?",
-      "https://blog.daknob.net/do-you-really-need-ipv4-anymore/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 22:47:51",
-      "https://news.ycombinator.com/item?id=39996491"
-    ],
-    [
-      "Substack Writers Concerned as Subscriptions 'Plummet' Due to Follow Feature",
-      "https://www.thewrap.com/substack-follow-feature-problems-subscriptions-down/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 22:37:52",
-      "https://news.ycombinator.com/item?id=39996433"
-    ],
-    [
-      "EPA Says 'Forever Chemicals' Must Be Removed from Tap Water",
-      "https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html"
+      "Introducing Kagi Search's New Design",
+      "https://kagi.com/changelog#3750"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Aider: AI pair programming in your terminal",
       "https://github.com/paul-gauthier/aider"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 21:00:51",
-      "https://news.ycombinator.com/item?id=39995667"
-    ],
-    [
-      "Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools",
-      "https://mux.com/jobs?j=product-designer"
     ]
   ],
   [
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39992817"
     ],
     [
-      "Show HN: Sonauto – a more controllable AI music creator",
+      "Show HN: Sonauto – A more controllable AI music creator",
       "https://sonauto.ai/"
     ]
   ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-04-10, 09:30:59",
+      "https://news.ycombinator.com/item?id=39988716"
+    ],
+    [
+      "Deep Bug",
+      "https://www.marginalia.nu/log/a_104_dep_bug/"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 03:30:38",
       "https://news.ycombinator.com/item?id=39986687"
     ],
@@ -241,6 +231,26 @@
   ],
   [
     [
+      "2024-04-09, 10:48:19",
+      "https://news.ycombinator.com/item?id=39978064"
+    ],
+    [
+      "Lessons learned from manually classifying CIFAR-10 (2011)",
+      "http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 08:26:46",
+      "https://news.ycombinator.com/item?id=39977250"
+    ],
+    [
+      "San Francisco's light rail to upgrade from floppy disks",
+      "https://www.theregister.com/2024/04/09/san_francisco_muni_floppy_disks/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 06:22:43",
       "https://news.ycombinator.com/item?id=39976634"
     ],
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2024-04-08, 17:43:57",
+      "https://news.ycombinator.com/item?id=39972047"
+    ],
+    [
+      "Stolen Masterpieces: 5 Famous Artworks That Are Still Missing",
+      "https://www.thecollector.com/stolen-masterpieces-famous-artworks-missing/"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 16:19:26",
       "https://news.ycombinator.com/item?id=39971234"
     ],
@@ -277,26 +297,6 @@
     [
       "How does the classic Win32 ListView handle incremental searching?",
       "https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 00:04:44",
-      "https://news.ycombinator.com/item?id=39965028"
-    ],
-    [
-      "Architecture decisions in Neon, a serverless Postgres service",
-      "https://neon.tech/blog/architecture-decisions-in-neon"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 03:20:29",
-      "https://news.ycombinator.com/item?id=39957909"
-    ],
-    [
-      "SFMTA's train system running on floppy disks; city fears 'catastrophic failure'",
-      "https://abc7news.com/san-francisco-train-system-has-been-running-on-floppy-disks-but-city-fears-catastrophic-failure-before-upgrade/14624828/"
     ]
   ]
 ]
