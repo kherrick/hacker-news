@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2024-04-11, 17:38:32",
-      "https://news.ycombinator.com/item?id=40004741"
+      "2024-04-11, 17:53:38",
+      "https://news.ycombinator.com/item?id=40004887"
     ],
     [
-      "Rerank 3: A new foundation model for efficient enterprise search and retrieval",
-      "https://txt.cohere.com/rerank-3/"
+      "Storm: LLM system that researches a topic and generates full-length wiki article",
+      "https://github.com/stanford-oval/storm"
     ]
   ],
   [
@@ -131,12 +131,22 @@
   ],
   [
     [
-      "2024-04-11, 13:21:08",
-      "https://news.ycombinator.com/item?id=40001833"
+      "2024-04-11, 14:07:14",
+      "https://news.ycombinator.com/item?id=40002306"
     ],
     [
-      "Herman Goldstine and the IAS Machine: Unveiling the Modern Computer (2023)",
-      "https://thechipletter.substack.com/p/unveiling-the-modern-computer"
+      "NYC Rat Sightings (Daily)",
+      "https://realtime.org/data/nyc-rat-sightings"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 13:34:25",
+      "https://news.ycombinator.com/item?id=40001971"
+    ],
+    [
+      "Anyone got a contact at OpenAI. They have a spider problem",
+      "https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Stacking triangles for fun and profit",
       "https://www.oranlooney.com/post/angle-addition/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 11:57:46",
-      "https://news.ycombinator.com/item?id=40001193"
-    ],
-    [
-      "Transformers.js –  Run Transformers directly in the browser",
-      "https://github.com/xenova/transformers.js"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-04-08, 22:39:46",
+      "https://news.ycombinator.com/item?id=39974465"
+    ],
+    [
+      "The UX of UUIDs",
+      "https://unkey.dev/blog/uuid-ux"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 21:15:24",
       "https://news.ycombinator.com/item?id=39973798"
     ],
     [
       "Stanley Kubrick did it his way",
       "https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 16:47:07",
-      "https://news.ycombinator.com/item?id=39971497"
-    ],
-    [
-      "Textual Healing: iOS Text Editing Minutiae",
-      "https://sim.coffee/textual-healing/"
     ]
   ],
   [
