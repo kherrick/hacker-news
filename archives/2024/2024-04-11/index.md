@@ -9,6 +9,7 @@
 * [2024-04-11, 21:19:49](https://news.ycombinator.com/item?id=40006939) - [Show HN: We created a way for you to review your resume using AI](https://blog.chapteroneai.com/b/resume-reviews-our-first-product)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 20:55:42](https://news.ycombinator.com/item?id=40006722) - [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
+* [2024-04-11, 20:20:28](https://news.ycombinator.com/item?id=40006409) - [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)
 * [2024-04-11, 19:36:20](https://news.ycombinator.com/item?id=40005949) - [Kubernetes Is Not the Point](https://www.bettyjunod.com/blog/kubernetes-is-not-the-point)
 * [2024-04-11, 19:19:21](https://news.ycombinator.com/item?id=40005775) - [You can't build a moat with AI](https://generatingconversation.substack.com/p/you-cant-build-a-moat-with-ai)
 * [2024-04-11, 19:08:56](https://news.ycombinator.com/item?id=40005670) - [Discovering the XZ Backdoor with Andres Freund](https://oxide.computer/podcasts/oxide-and-friends/1843393)
