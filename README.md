@@ -14,7 +14,6 @@
 * [2024-04-11, 04:22:04](https://news.ycombinator.com/item?id=39998346) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 * [2024-04-11, 03:30:53](https://news.ycombinator.com/item?id=39998149) - [Parler-TTS: Natural language guidance of high-fidelity TTS](https://github.com/huggingface/parler-tts)
 * [2024-04-11, 01:33:22](https://news.ycombinator.com/item?id=39997556) - [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
-* [2024-04-10, 22:21:48](https://news.ycombinator.com/item?id=39996314) - [Why can't my mom email me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 21:13:17](https://news.ycombinator.com/item?id=39995782) - [Did grave robbers plunder battlefields?](https://www.science.org/content/article/now-we-know-where-dead-went-did-grave-robbers-plunder-battlefields)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 18:49:47](https://news.ycombinator.com/item?id=39994339) - [Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
@@ -29,6 +28,7 @@
 * [2024-04-09, 13:49:05](https://news.ycombinator.com/item?id=39979408) - [Bioluminescent Petunias at Home](https://www.npr.org/2024/04/08/1242346659/genetically-modified-bioluminescent-petunias-make-their-own-light)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-08, 19:53:07](https://news.ycombinator.com/item?id=39973088) - [Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
+* [2024-04-08, 14:57:39](https://news.ycombinator.com/item?id=39970431) - [The Evolution of the Super Nintendo Motherboard](https://fabiensanglard.net/snes_mobos/index.html)
 * [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
 
 ## [Archives](archives/index.md)
