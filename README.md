@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-11, 16:08:14](https://news.ycombinator.com/item?id=40003743) - [Why Is README Capitalized?](https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt)
+* [2024-04-11, 16:06:03](https://news.ycombinator.com/item?id=40003710) - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
 * [2024-04-11, 15:29:08](https://news.ycombinator.com/item?id=40003251) - [Harvard will require test scores for admission again](https://www.washingtonpost.com/education/2024/04/11/harvard-reinstates-sat-act-admissions-requirement/)
 * [2024-04-11, 15:19:35](https://news.ycombinator.com/item?id=40003138) - [Pompeii: Breathtaking new paintings found at ancient city](https://www.bbc.com/news/science-environment-68777741)
 * [2024-04-11, 15:06:26](https://news.ycombinator.com/item?id=40002987) - [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
@@ -24,11 +26,9 @@
 * [2024-04-10, 12:36:43](https://news.ycombinator.com/item?id=39990004) - [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
 * [2024-04-10, 06:56:40](https://news.ycombinator.com/item?id=39987735) - [Enhance WASM: Back End Agnostic SSR for Web Components](https://begin.com/blog/posts/2024-04-08-introducing-enhance-wasm)
 * [2024-04-10, 05:10:53](https://news.ycombinator.com/item?id=39987158) - [Untergunther – Restoration of the Pantheon Clock](https://urban-resources.net/untergunther.html)
-* [2024-04-10, 01:31:24](https://news.ycombinator.com/item?id=39986095) - [Mistral AI Launches New 8x22B MOE Model](https://twitter.com/MistralAI)
 * [2024-04-09, 13:49:05](https://news.ycombinator.com/item?id=39979408) - [Bioluminescent Petunias at Home](https://www.npr.org/2024/04/08/1242346659/genetically-modified-bioluminescent-petunias-make-their-own-light)
 * [2024-04-09, 06:24:15](https://news.ycombinator.com/item?id=39976640) - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-08, 19:53:07](https://news.ycombinator.com/item?id=39973088) - [Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
-* [2024-04-08, 14:57:39](https://news.ycombinator.com/item?id=39970431) - [The Evolution of the Super Nintendo Motherboard](https://fabiensanglard.net/snes_mobos/index.html)
 * [2024-04-08, 14:32:03](https://news.ycombinator.com/item?id=39970136) - [How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
 
 ## [Archives](archives/index.md)
