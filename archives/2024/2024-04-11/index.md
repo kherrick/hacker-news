@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 18:59:48](https://news.ycombinator.com/item?id=40005579) - [Interview with Google Cloud CEO Thomas Kurian on Google's Enterprise AI Strategy](https://stratechery.com/2024/an-interview-with-google-cloud-ceo-thomas-kurian-about-googles-enterprise-ai-strategy/)
+* [2024-04-11, 18:45:36](https://news.ycombinator.com/item?id=40005426) - [The DDoS Attack of Academic Bullshit](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit)
 * [2024-04-11, 18:18:57](https://news.ycombinator.com/item?id=40005150) - [I Am No Longer Attending Vintage Computer Festivals](http://ascii.textfiles.com/archives/5587)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
 * [2024-04-11, 17:57:08](https://news.ycombinator.com/item?id=40004935) - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
