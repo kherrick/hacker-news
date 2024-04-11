@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 14:53:53](https://news.ycombinator.com/item?id=40002851) - [Vietnamese Property tycoon Truong My LAN sentenced to death in $27B fraud case](https://www.theguardian.com/world/2024/apr/11/vietnamese-property-tycoon-sentenced-to-death-in-27bn-case)
 * [2024-04-11, 14:39:43](https://news.ycombinator.com/item?id=40002712) - [I ported apps to Windows 95 [video]](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2024-04-11, 14:26:03](https://news.ycombinator.com/item?id=40002527) - [We never agreed to only buy HP ink, say printer owners](https://www.theregister.com/2024/04/11/hp_inc_ink_filing/)
+* [2024-04-11, 14:07:14](https://news.ycombinator.com/item?id=40002306) - [NYC Rat Sightings (Daily) – Interactive Chart](https://realtime.org/data/nyc-rat-sightings)
 * [2024-04-11, 13:34:25](https://news.ycombinator.com/item?id=40001971) - [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
 * [2024-04-11, 13:21:08](https://news.ycombinator.com/item?id=40001833) - [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
 * [2024-04-11, 12:57:18](https://news.ycombinator.com/item?id=40001597) - [Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
