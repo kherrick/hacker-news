@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 11:27:09](https://news.ycombinator.com/item?id=40000988) - [Why doesn't Facebook use Git? [video]](https://www.youtube.com/watch?v=0BNVkMoLJxc)
+* [2024-04-11, 10:24:20](https://news.ycombinator.com/item?id=40000576) - [TrueNAS CORE 13 is the end of the FreeBSD version](https://www.theregister.com/2024/03/18/truenas_abandons_freebsd/)
 * [2024-04-11, 10:21:58](https://news.ycombinator.com/item?id=40000558) - [Computer scientist wins Turing Award for seminal work on randomness](https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/)
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 10:04:13](https://news.ycombinator.com/item?id=40000430) - [Ukraine Is the First \"Hackers' War\"](https://spectrum.ieee.org/ukraine-hackers-war)
@@ -21,3 +23,4 @@
 * [2024-04-11, 01:33:22](https://news.ycombinator.com/item?id=39997556) - [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
 * [2024-04-11, 01:00:52](https://news.ycombinator.com/item?id=39997376) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39997376)
 * [2024-04-11, 00:27:36](https://news.ycombinator.com/item?id=39997189) - [Replacing Wires Could Double How Much Electricity the US Grid Can Handle](https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/)
+* [2024-04-11, 00:19:49](https://news.ycombinator.com/item?id=39997127) - [DNSViz: A DNS Visualization Tool](https://dnsviz.net/)
