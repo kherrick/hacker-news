@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-11, 22:18:04](https://news.ycombinator.com/item?id=40007384) - [Capsela Is Dead, Long Live Capsela (2017)](https://hackaday.com/2017/09/15/retrotectactular-capsela-is-dead-long-live-capsela/)
+* [2024-04-11, 22:09:10](https://news.ycombinator.com/item?id=40007335) - [Seven seconds: the Tower Bridge Hawker Hunter incident (2016)](https://www.aerialcombat.co.uk/2016/04/seven-seconds-the-tower-bridge-hawker-hunter-incident.html)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 20:55:42](https://news.ycombinator.com/item?id=40006722) - [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
 * [2024-04-11, 20:52:57](https://news.ycombinator.com/item?id=40006697) - [Descent: A classic 3-D first-person shooter (2012)](http://insectoid.budwin.net/dos/descent/descent.html)
