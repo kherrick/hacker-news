@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 17:00:53](https://news.ycombinator.com/item?id=40004357) - [Evidence (YC S21) Is Hiring an Analytics Intern](https://www.ycombinator.com/companies/evidence/jobs/Lu29GmN-analytics-intern)
+* [2024-04-11, 16:57:13](https://news.ycombinator.com/item?id=40004319) - [The Camorra Never Sleeps (2012)](https://www.vanityfair.com/culture/2012/05/naples-mob-paolo-di-lauro-italy)
 * [2024-04-11, 16:19:20](https://news.ycombinator.com/item?id=40003868) - [Vortex: OpenCL Compatible RISC-V Gpgpu](https://vortex.cc.gatech.edu/)
 * [2024-04-11, 16:08:14](https://news.ycombinator.com/item?id=40003743) - [Why Is README Capitalized?](https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt)
 * [2024-04-11, 16:06:03](https://news.ycombinator.com/item?id=40003710) - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
