@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39997955">
+          <h3>
+            <a
+              class="item"
+              href="https://en.wikipedia.org/wiki/Naismith%27s_rule"
+              >Naismith's Rule</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-11 @ 02:51:04</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39997955"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39997556">
           <h3>
             <a
@@ -141,11 +162,11 @@
             <h4>
               <span>2024-04-11 @ 01:33:22</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39997556"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -263,7 +284,7 @@
             <h4>
               <span>2024-04-11 @ 00:27:36</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39997189"
                   >Comments</a
@@ -284,7 +305,7 @@
             <h4>
               <span>2024-04-10 @ 22:51:47</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39996521"
                   >Comments</a
@@ -306,11 +327,11 @@
             <h4>
               <span>2024-04-10 @ 22:45:33</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39996475"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -327,13 +348,98 @@
             <h4>
               <span>2024-04-10 @ 22:21:48</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39996314"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="39995908">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/bennyschmidt/next-token-prediction"
+              >Show HN: Next-token prediction in JavaScript – build fast LLMs
+              from scratch</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-10 @ 21:27:07</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39995908"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.youtube.com/watch?v=wjZofJX0v4M"
+                >https://www.youtube.com/watch?v=wjZofJX0v4M</a
+              >
+              - I highly recommend watching it). I added it to the repo for
+              reference.
+              <p>
+                When it clicked in my head that "knowing a fact" is nearly
+                synonymous with predicting a word (or series of words), I wanted
+                to put it to the test, because it seemed so simple. I chose
+                JavaScript because I can exploit the way it structures objects
+                to aid in the modeling of language.
+              </p>
+              <p>For example:</p>
+              <p>
+                "I want to be at the beach", "I will do it later", "I want to
+                know the answer", ...
+              </p>
+              <p>becomes:</p>
+              <p></p>
+              <pre><code>  {
+    I: { 
+      want: { 
+        to: { 
+          be: { ... }, 
+          know: { ... }
+        }
+      },
+      will: { ... }
+    },
+    ...
+  }
+</code></pre>
+              in JavaScript. You can exploit the language's fast object lookup
+              speed to find known sentences this way, rather than recursively
+              searching text - which is the convention and would take forever or
+              not work at all considering there are several full books loaded in
+              by default (and it could support many more).
+              <p>
+                Accompanying research yielded learnings about what "tokens" and
+                "embeddings" are, what is meant by "training", and most of the
+                rest - though I'm still learning jargon. I wrote a script to
+                iterate over every single word of every single book to rank how
+                likely it is that word will appear next, if given a cursor, and
+                extended that to rank entire phrases. The base decoder started
+                out what I'll call "token-agnostic" - didn't care if you were
+                looking for the next letter... word... pixel... it's the same
+                logic. But actually it's not, and it soon evolved into a text
+                (language) model. But I have plans to get into image generation
+                next (next-pixel prediction), using this. Overall the concepts
+                are similar, but there are differences primarily around
+                extraction and formatting.
+              </p>
+              <p>Goals of the project:</p>
+              <p>
+                - Demystify LLMs for people, show that it's just regular code
+                that does normal stuff
+              </p>
+              <p>
+                - Actually make a pretty good LLM in JavaScript, with a version
+                at least capable of running in a browser tab
+              </p>
+            </div>
           </section>
         </section>
         <section id="39995782">
@@ -348,11 +454,11 @@
             <h4>
               <span>2024-04-10 @ 21:13:17</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39995782"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -367,11 +473,11 @@
             <h4>
               <span>2024-04-10 @ 21:06:42</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39995725"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -386,7 +492,7 @@
             <h4>
               <span>2024-04-10 @ 20:00:21</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39995112"
                   >Comments</a
@@ -406,7 +512,7 @@
             <h4>
               <span>2024-04-10 @ 18:49:47</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39994339"
                   >Comments</a
@@ -425,7 +531,7 @@
             <h4>
               <span>2024-04-10 @ 18:47:04</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39994301"
                   >Comments</a
@@ -444,11 +550,11 @@
             <h4>
               <span>2024-04-10 @ 18:15:08</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39993976"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -466,11 +572,11 @@
             <h4>
               <span>2024-04-10 @ 18:10:31</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39993930"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -487,11 +593,11 @@
             <h4>
               <span>2024-04-10 @ 17:47:11</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39993626"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -506,11 +612,11 @@
             <h4>
               <span>2024-04-10 @ 16:48:01</span
               ><span class="points-container"
-                >Points: <span class="points">301</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39992817"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 190</span></span
               >
             </h4>
             <div class="text">
@@ -580,48 +686,6 @@
             </div>
           </section>
         </section>
-        <section id="39991693">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink"
-              >Kobo announces color e-readers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-10 @ 15:18:27</span
-              ><span class="points-container"
-                >Points: <span class="points">322</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39991693"
-                  >Comments</a
-                ><span class="descendants">: 177</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39991675">
-          <h3>
-            <a
-              class="item"
-              href="https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/"
-              >Meta MTIA v2 – Meta Training and Inference Accelerator</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-10 @ 15:16:22</span
-              ><span class="points-container"
-                >Points: <span class="points">175</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39991675"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="39990346">
           <h3>
             <a class="item" href="https://adsb.exposed/"
@@ -632,7 +696,7 @@
             <h4>
               <span>2024-04-10 @ 13:15:02</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39990346"
                   >Comments</a
@@ -674,11 +738,11 @@
             <h4>
               <span>2024-04-10 @ 13:11:42</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39990319"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -695,7 +759,7 @@
             <h4>
               <span>2024-04-10 @ 12:48:57</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39990109"
                   >Comments</a
@@ -714,7 +778,7 @@
             <h4>
               <span>2024-04-10 @ 12:36:43</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39990004"
                   >Comments</a
@@ -735,11 +799,11 @@
             <h4>
               <span>2024-04-10 @ 04:31:02</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39986974"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -775,7 +839,7 @@
             <h4>
               <span>2024-04-09 @ 21:56:13</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39984725"
                   >Comments</a
@@ -794,7 +858,7 @@
             <h4>
               <span>2024-04-09 @ 11:44:57</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39978423"
                   >Comments</a
@@ -813,7 +877,7 @@
             <h4>
               <span>2024-04-09 @ 06:22:43</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39976634"
                   >Comments</a
@@ -832,11 +896,11 @@
             <h4>
               <span>2024-04-08 @ 19:53:07</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39973088"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -853,11 +917,11 @@
             <h4>
               <span>2024-04-08 @ 17:43:57</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39972047"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -897,11 +961,11 @@
             <h4>
               <span>2024-04-08 @ 14:32:03</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39970136"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
