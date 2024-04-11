@@ -85,6 +85,7 @@
 * [2024-04-10, 08:46:40](https://news.ycombinator.com/item?id=39988415) - [Microsoft employees exposed internal passwords in security lapse](https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/)
 * [2024-04-10, 08:20:30](https://news.ycombinator.com/item?id=39988269) - [Verified Curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 07:01:34](https://news.ycombinator.com/item?id=39987769) - [Three major LLM releases in 24 hours](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/)
+* [2024-04-10, 06:56:40](https://news.ycombinator.com/item?id=39987735) - [Enhance WASM: Back End Agnostic SSR for Web Components](https://begin.com/blog/posts/2024-04-08-introducing-enhance-wasm)
 * [2024-04-10, 06:32:18](https://news.ycombinator.com/item?id=39987579) - [Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months](https://compressx.app)
 * [2024-04-10, 06:12:56](https://news.ycombinator.com/item?id=39987466) - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
 * [2024-04-10, 06:05:13](https://news.ycombinator.com/item?id=39987435) - [Ex-Microsoft engineer gets 7 years after trying to hire hitman for double murder](https://www.theregister.com/2024/04/09/microsoft_engineer_fake_hitman/)
