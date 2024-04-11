@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-11, 14:26:03](https://news.ycombinator.com/item?id=40002527) - [We never agreed to only buy HP ink, say printer owners](https://www.theregister.com/2024/04/11/hp_inc_ink_filing/)
 * [2024-04-11, 13:34:25](https://news.ycombinator.com/item?id=40001971) - [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
 * [2024-04-11, 13:21:08](https://news.ycombinator.com/item?id=40001833) - [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
 * [2024-04-11, 12:57:18](https://news.ycombinator.com/item?id=40001597) - [Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
@@ -11,7 +12,6 @@
 * [2024-04-11, 05:41:16](https://news.ycombinator.com/item?id=39998740) - [Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
 * [2024-04-11, 04:22:04](https://news.ycombinator.com/item?id=39998346) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 * [2024-04-11, 01:33:22](https://news.ycombinator.com/item?id=39997556) - [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
-* [2024-04-10, 22:21:48](https://news.ycombinator.com/item?id=39996314) - [Why can't my mom email me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 21:13:17](https://news.ycombinator.com/item?id=39995782) - [Did grave robbers plunder battlefields?](https://www.science.org/content/article/now-we-know-where-dead-went-did-grave-robbers-plunder-battlefields)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 * [2024-04-10, 18:49:47](https://news.ycombinator.com/item?id=39994339) - [Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
