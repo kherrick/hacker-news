@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 10:04:13](https://news.ycombinator.com/item?id=40000430) - [Ukraine Is the First \"Hackers' War\"](https://spectrum.ieee.org/ukraine-hackers-war)
 * [2024-04-11, 07:30:38](https://news.ycombinator.com/item?id=39999315) - [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
 * [2024-04-11, 06:35:15](https://news.ycombinator.com/item?id=39999019) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
 * [2024-04-11, 06:31:26](https://news.ycombinator.com/item?id=39999000) - [I asked 100 devs they aren't shipping faster. Here's what I learned](https://greptile.com/blog/100-devs)
