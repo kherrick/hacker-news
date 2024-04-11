@@ -12,6 +12,7 @@
 * [2024-04-10, 22:43:14](https://news.ycombinator.com/item?id=39996468) - [Introducing Kagi Search's New Design](https://kagi.com/changelog#3750)
 * [2024-04-10, 22:37:52](https://news.ycombinator.com/item?id=39996433) - [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)
 * [2024-04-10, 22:21:48](https://news.ycombinator.com/item?id=39996314) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
+* [2024-04-10, 21:27:07](https://news.ycombinator.com/item?id=39995908) - [Show HN: Next-token prediction in JavaScript – build fast LLMs from scratch](https://github.com/bennyschmidt/next-token-prediction)
 * [2024-04-10, 21:21:06](https://news.ycombinator.com/item?id=39995849) - [World's Smallest CSV Parser (C#)](https://github.com/kjpgit/SmallestCSVParser)
 * [2024-04-10, 21:13:17](https://news.ycombinator.com/item?id=39995782) - ['Now we know where the dead went.' Did grave robbers plunder battlefields?](https://www.science.org/content/article/now-we-know-where-dead-went-did-grave-robbers-plunder-battlefields)
 * [2024-04-10, 21:06:42](https://news.ycombinator.com/item?id=39995725) - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
