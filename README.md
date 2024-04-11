@@ -2,6 +2,7 @@
 
 * [2024-04-11, 21:33:44](https://news.ycombinator.com/item?id=40007054) - [Macs to Get AI-Focused M4 Chips Starting in Late 2024](https://www.macrumors.com/2024/04/11/m4-ai-chips-late-2024/)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
+* [2024-04-11, 20:55:42](https://news.ycombinator.com/item?id=40006722) - [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
 * [2024-04-11, 18:02:52](https://news.ycombinator.com/item?id=40005005) - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
 * [2024-04-11, 17:55:04](https://news.ycombinator.com/item?id=40004909) - [Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
 * [2024-04-11, 17:53:38](https://news.ycombinator.com/item?id=40004887) - [Storm: LLM system that researches a topic and generates full-length wiki article](https://github.com/stanford-oval/storm)
@@ -25,7 +26,6 @@
 * [2024-04-10, 05:10:53](https://news.ycombinator.com/item?id=39987158) - [Untergunther – Restoration of the Pantheon clock (2007)](https://urban-resources.net/untergunther.html)
 * [2024-04-09, 15:15:16](https://news.ycombinator.com/item?id=39980345) - [The simple beauty of XOR floating point compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 * [2024-04-09, 14:20:38](https://news.ycombinator.com/item?id=39979719) - [First languages of North America traced back to two groups from Siberia](https://phys.org/news/2024-04-languages-north-america-language-groups.html)
-* [2024-04-09, 01:08:03](https://news.ycombinator.com/item?id=39975364) - [Silver coin boom in medieval England due to melted down Byzantine treasures](https://www.theguardian.com/science/2024/apr/09/silver-coin-boom-in-medieval-england-due-to-melted-down-byzantine-treasures-study-reveals)
 * [2024-04-08, 22:39:46](https://news.ycombinator.com/item?id=39974465) - [The UX of UUIDs](https://unkey.dev/blog/uuid-ux)
 * [2024-04-08, 21:15:24](https://news.ycombinator.com/item?id=39973798) - [Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
 * [2024-04-08, 16:47:07](https://news.ycombinator.com/item?id=39971497) - [Textual Healing: iOS Text Editing Minutiae](https://sim.coffee/textual-healing/)
