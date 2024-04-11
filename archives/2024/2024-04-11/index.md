@@ -23,6 +23,7 @@
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 10:04:13](https://news.ycombinator.com/item?id=40000430) - [Ukraine Is the First \"Hackers' War\"](https://spectrum.ieee.org/ukraine-hackers-war)
 * [2024-04-11, 09:58:26](https://news.ycombinator.com/item?id=40000397) - [Plato Document Reader for Kobo E-Readers](https://github.com/baskerville/plato)
+* [2024-04-11, 08:46:55](https://news.ycombinator.com/item?id=39999893) - [Ask HN: Free alternative to Teamviewer?](https://news.ycombinator.com/item?id=39999893)
 * [2024-04-11, 08:04:08](https://news.ycombinator.com/item?id=39999558) - [Show HN: Snake-inspired FOSS game Dungeon Rush playable in the browser](https://midzer.de/wasm/dungeonrush/)
 * [2024-04-11, 07:30:38](https://news.ycombinator.com/item?id=39999315) - [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
 * [2024-04-11, 06:35:15](https://news.ycombinator.com/item?id=39999019) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
