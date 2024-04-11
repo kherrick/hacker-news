@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-11, 18:59:48",
+      "https://news.ycombinator.com/item?id=40005579"
+    ],
+    [
+      "Interview with Google Cloud CEO Thomas Kurian on Google's Enterprise AI Strategy",
+      "https://stratechery.com/2024/an-interview-with-google-cloud-ceo-thomas-kurian-about-googles-enterprise-ai-strategy/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 18:45:36",
+      "https://news.ycombinator.com/item?id=40005426"
+    ],
+    [
+      "The DDoS Attack of Academic Bullshit",
+      "https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 18:02:52",
       "https://news.ycombinator.com/item?id=40005005"
     ],
@@ -37,16 +57,6 @@
     [
       "Storm: LLM system that researches a topic and generates full-length wiki article",
       "https://github.com/stanford-oval/storm"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 17:38:32",
-      "https://news.ycombinator.com/item?id=40004741"
-    ],
-    [
-      "Rerank 3: A new foundation model for efficient enterprise search and retrieval",
-      "https://txt.cohere.com/rerank-3/"
     ]
   ],
   [
@@ -107,26 +117,6 @@
     [
       "Apple alerts users in 92 nations to mercenary spyware attacks",
       "https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 13:34:25",
-      "https://news.ycombinator.com/item?id=40001971"
-    ],
-    [
-      "Anyone got a contact at OpenAI. They have a spider problem",
-      "https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 13:26:56",
-      "https://news.ycombinator.com/item?id=40001889"
-    ],
-    [
-      "Stack Overflow is documentation, not Q&A",
-      "https://landedstar.com/blog/posts/stack-overflow-is-documentation/"
     ]
   ],
   [
@@ -221,6 +211,26 @@
   ],
   [
     [
+      "2024-04-10, 11:42:07",
+      "https://news.ycombinator.com/item?id=39989577"
+    ],
+    [
+      "Surprising public health benefit of unemployment?",
+      "https://timharford.com/2024/04/the-surprising-public-health-benefit-of-unemployment/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 09:31:10",
+      "https://news.ycombinator.com/item?id=39988718"
+    ],
+    [
+      "U.S. imposes first-ever national drinking water limits on PFAS",
+      "https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 05:10:53",
       "https://news.ycombinator.com/item?id=39987158"
     ],
@@ -257,16 +267,6 @@
     [
       "Silver coin boom in medieval England due to melted down Byzantine treasures",
       "https://www.theguardian.com/science/2024/apr/09/silver-coin-boom-in-medieval-england-due-to-melted-down-byzantine-treasures-study-reveals"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 22:06:29",
-      "https://news.ycombinator.com/item?id=39974229"
-    ],
-    [
-      "Histograms for Probability Density Estimation: A Primer",
-      "https://vvanirudh.github.io/blog/nonparametric_density_estimation/"
     ]
   ],
   [
