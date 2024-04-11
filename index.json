@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-11, 02:51:04",
+      "https://news.ycombinator.com/item?id=39997955"
+    ],
+    [
+      "Naismith's Rule",
+      "https://en.wikipedia.org/wiki/Naismith%27s_rule"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 01:33:22",
       "https://news.ycombinator.com/item?id=39997556"
     ],
@@ -57,6 +67,16 @@
     [
       "Why can't my mom email me?",
       "https://matduggan.com/why-cant-my-mom-email-me/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 21:27:07",
+      "https://news.ycombinator.com/item?id=39995908"
+    ],
+    [
+      "Show HN: Next-token prediction in JavaScript – build fast LLMs from scratch",
+      "https://github.com/bennyschmidt/next-token-prediction"
     ]
   ],
   [
@@ -147,26 +167,6 @@
     [
       "Show HN: Sonauto – A more controllable AI music creator",
       "https://sonauto.ai/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 15:18:27",
-      "https://news.ycombinator.com/item?id=39991693"
-    ],
-    [
-      "Kobo announces color e-readers",
-      "https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 15:16:22",
-      "https://news.ycombinator.com/item?id=39991675"
-    ],
-    [
-      "Meta MTIA v2 – Meta Training and Inference Accelerator",
-      "https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/"
     ]
   ],
   [
