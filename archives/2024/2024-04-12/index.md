@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 17:30:31](https://news.ycombinator.com/item?id=40015429) - [Rakuten Kobo is partnering with iFixit to repair the Kobos](https://help.kobo.com/hc/en-us/articles/21137184146071-Repair-your-Kobo-eReader)
+* [2024-04-12, 17:23:34](https://news.ycombinator.com/item?id=40015355) - [Google: The CA Journalism Preservation Act is putting the news ecosystem at risk](https://blog.google/products/news/california-journalism-preservation-act-puts-news-ecosystem-at-risk/)
 * [2024-04-12, 17:17:20](https://news.ycombinator.com/item?id=40015290) - [Kagi CEO harasses Mastodon blogger over scathing critique](https://hackers.town/@lori/112255137315712715)
 * [2024-04-12, 17:00:17](https://news.ycombinator.com/item?id=40015113) - [Artisan AI (YC W24) Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
 * [2024-04-12, 16:45:09](https://news.ycombinator.com/item?id=40014937) - [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
@@ -23,6 +25,7 @@
 * [2024-04-12, 13:15:58](https://news.ycombinator.com/item?id=40012344) - [DOE Announces $75M to Advance Desalination and Water Reuse Tech](https://www.energy.gov/eere/articles/department-energy-announces-75-million-national-alliance-water-innovation-advance)
 * [2024-04-12, 13:03:18](https://news.ycombinator.com/item?id=40012148) - [Suicide is on the rise for young Americans, with no clear answers](https://www.bbc.com/news/world-us-canada-68782177)
 * [2024-04-12, 13:02:14](https://news.ycombinator.com/item?id=40012136) - [Half of U.S. Homeowners and Renters Struggle to Afford Their Housing Payments](https://www.businesswire.com/news/home/20240405037007/en/Redfin-Survey-Half-of-U.S.-Homeowners-and-Renters-Struggle-to-Afford-Their-Housing-Payments)
+* [2024-04-12, 12:43:21](https://news.ycombinator.com/item?id=40011937) - [Show HN: Stream of Consciousness – watch an artificial persona making art](https://www.streamofconsciousness.net/)
 * [2024-04-12, 12:35:52](https://news.ycombinator.com/item?id=40011877) - [What happens when we pay public high school teachers based on performance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295)
 * [2024-04-12, 12:23:30](https://news.ycombinator.com/item?id=40011762) - [Wiring Your House for Networking](https://saagarjha.com/blog/2024/04/12/wiring-your-house-for-networking/)
 * [2024-04-12, 12:00:39](https://news.ycombinator.com/item?id=40011565) - [Unit Tests Considered Harmful](https://www.shaiyallin.com/post/unit-tests-considered-harmful)
