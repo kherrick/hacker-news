@@ -87,6 +87,7 @@
 * [2024-04-10, 09:20:19](https://news.ycombinator.com/item?id=39988655) - [JavaScript Allongé, the \"Six\" Edition](https://github.com/raganwald/javascript-allonge-six)
 * [2024-04-10, 09:10:24](https://news.ycombinator.com/item?id=39988580) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 08:52:39](https://news.ycombinator.com/item?id=39988457) - [Too many firms are not coming clean about hacking says watchdog](https://www.dutchnews.nl/2024/04/too-many-firms-are-not-coming-clean-about-hacking-says-watchdog/)
+* [2024-04-10, 08:46:47](https://news.ycombinator.com/item?id=39988418) - [Specifying the Power and Limitations of Randomness](https://cacm.acm.org/opinion/specifying-the-power-and-limitations-of-randomness/)
 * [2024-04-10, 08:46:40](https://news.ycombinator.com/item?id=39988415) - [Microsoft employees exposed internal passwords in security lapse](https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/)
 * [2024-04-10, 08:25:23](https://news.ycombinator.com/item?id=39988298) - [Trying Out Rye](https://burakku.com/blog/rye-test-and-python-tools/)
 * [2024-04-10, 08:20:30](https://news.ycombinator.com/item?id=39988269) - [Verified Curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)

@@ -19,6 +19,7 @@
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 * [2024-04-10, 11:57:57](https://news.ycombinator.com/item?id=39989693) - [Boy photographer seeks danger as others flee (1968)](https://www.vintag.es/2016/10/boy-photographer-seeks-danger-as-others.html)
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
+* [2024-04-10, 08:46:47](https://news.ycombinator.com/item?id=39988418) - [Specifying the Power and Limitations of Randomness](https://cacm.acm.org/opinion/specifying-the-power-and-limitations-of-randomness/)
 * [2024-04-10, 08:25:23](https://news.ycombinator.com/item?id=39988298) - [Trying Out Rye](https://burakku.com/blog/rye-test-and-python-tools/)
 * [2024-04-10, 07:42:03](https://news.ycombinator.com/item?id=39988038) - [MySQL-Manage Memory Usage Efficiently](https://shurutech.com/manage-memory-usage-efficiently-in-mysql/)
 * [2024-04-10, 05:10:53](https://news.ycombinator.com/item?id=39987158) - [Untergunther – Restoration of the Pantheon clock (2007)](https://urban-resources.net/untergunther.html)
@@ -27,7 +28,6 @@
 * [2024-04-09, 12:28:14](https://news.ycombinator.com/item?id=39978683) - [I made a thing to help you make a thing out of a keypad](https://cliffle.com/blog/keypad-go/)
 * [2024-04-08, 22:39:46](https://news.ycombinator.com/item?id=39974465) - [The UX of UUIDs](https://unkey.dev/blog/uuid-ux)
 * [2024-04-08, 21:15:24](https://news.ycombinator.com/item?id=39973798) - [Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
-* [2024-04-08, 16:47:07](https://news.ycombinator.com/item?id=39971497) - [Textual Healing: iOS Text Editing Minutiae](https://sim.coffee/textual-healing/)
 * [2024-04-08, 15:35:23](https://news.ycombinator.com/item?id=39970773) - [Fixing all the bugs won't solve all the problems – Deming's path of frustration](https://shermanonsoftware.com/2024/04/08/fixing-all-the-bugs-wont-solve-all-the-problems-demings-path-of-frustration/)
 * [2024-04-08, 15:28:41](https://news.ycombinator.com/item?id=39970716) - [I discovered a critical exploit in ZeroMQ with mostly pure luck](https://fangpenlin.com/posts/2024/04/07/how-i-discovered-a-9-point-8-critical-security-vulnerability-in-zeromq-with-mostly-pure-luck/)
 
