@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 17:00:17](https://news.ycombinator.com/item?id=40015113) - [Artisan AI (YC W24) Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
+* [2024-04-12, 16:45:09](https://news.ycombinator.com/item?id=40014937) - [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
 * [2024-04-12, 16:28:30](https://news.ycombinator.com/item?id=40014724) - [Systemd minimizing required dependencies for libsystemd](https://mastodon.social/@pid_eins/112256363180973672)
 * [2024-04-12, 16:27:50](https://news.ycombinator.com/item?id=40014710) - [Led Zeppelin had a working fireplace in their plane (2018)](http://justacarguy.blogspot.com/2018/04/led-zeppelin-had-fireplace-in-their.html)
 * [2024-04-12, 16:23:00](https://news.ycombinator.com/item?id=40014652) - [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/)
@@ -30,6 +32,7 @@
 * [2024-04-12, 11:04:04](https://news.ycombinator.com/item?id=40011250) - [Show HN: tu – Convert natural language date/time to UTC](https://github.com/ad-si/tu)
 * [2024-04-12, 10:35:48](https://news.ycombinator.com/item?id=40011111) - [Why I recommend Renovate over any other dependency update tools](https://www.jvt.me/posts/2024/04/12/use-renovate/)
 * [2024-04-12, 10:34:37](https://news.ycombinator.com/item?id=40011105) - [The US rich are getting second passports, citing risk of instability](https://www.cnbc.com/2024/04/10/rich-americans-get-second-passports-citing-risk-of-instability.html)
+* [2024-04-12, 10:33:48](https://news.ycombinator.com/item?id=40011100) - [FyneDesk – Linux desktop environment in Go](https://github.com/FyshOS/fynedesk)
 * [2024-04-12, 10:09:10](https://news.ycombinator.com/item?id=40010992) - [Another Boeing whistleblower says he faced retaliation for reporting 'shortcuts'](https://www.npr.org/2024/04/12/1244147895/boeing-whistleblower-retaliation-shortcuts-787-dreamliner)
 * [2024-04-12, 10:08:23](https://news.ycombinator.com/item?id=40010991) - [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
