@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
+* [2024-04-12, 08:47:48](https://news.ycombinator.com/item?id=40010579) - [H-1B visa fraud alive and well amid anti-abuse efforts](https://www.theregister.com/2024/04/09/h1b_visa_fraud/)
 * [2024-04-12, 07:53:42](https://news.ycombinator.com/item?id=40010332) - [Explaining Llm.c in Layman Terms](https://nitter.poast.org/karpathy/status/1778153659106533806)
 * [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 * [2024-04-12, 06:59:35](https://news.ycombinator.com/item?id=40010066) - [\"Here's a puzzle game. I call it Reverse the List of Integers.\"](https://mathstodon.xyz/@two_star/112242224494626411)
@@ -25,8 +27,6 @@
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 08:46:47](https://news.ycombinator.com/item?id=39988418) - [Specifying the power and limitations of randomness](https://cacm.acm.org/opinion/specifying-the-power-and-limitations-of-randomness/)
 * [2024-04-10, 08:25:23](https://news.ycombinator.com/item?id=39988298) - [Trying Out Rye](https://burakku.com/blog/rye-test-and-python-tools/)
-* [2024-04-10, 05:10:53](https://news.ycombinator.com/item?id=39987158) - [Untergunther – Restoration of the Pantheon clock (2007)](https://urban-resources.net/untergunther.html)
-* [2024-04-09, 20:05:45](https://news.ycombinator.com/item?id=39983665) - [The World of Instruction Manuals (2018)](https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals)
 * [2024-04-09, 15:15:16](https://news.ycombinator.com/item?id=39980345) - [The simple beauty of XOR floating point compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 * [2024-04-09, 12:28:14](https://news.ycombinator.com/item?id=39978683) - [I made a thing to help you make a thing out of a keypad](https://cliffle.com/blog/keypad-go/)
 * [2024-04-08, 15:35:23](https://news.ycombinator.com/item?id=39970773) - [Fixing all the bugs won't solve all the problems – Deming's path of frustration](https://shermanonsoftware.com/2024/04/08/fixing-all-the-bugs-wont-solve-all-the-problems-demings-path-of-frustration/)
