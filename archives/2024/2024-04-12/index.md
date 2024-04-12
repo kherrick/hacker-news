@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 11:17:43](https://news.ycombinator.com/item?id=40011314) - [I Lost Faith in Kagi](https://d-shoot.net/kagi.html)
 * [2024-04-12, 10:09:10](https://news.ycombinator.com/item?id=40010992) - [Another Boeing whistleblower says he faced retaliation for reporting 'shortcuts'](https://www.npr.org/2024/04/12/1244147895/boeing-whistleblower-retaliation-shortcuts-787-dreamliner)
 * [2024-04-12, 10:08:23](https://news.ycombinator.com/item?id=40010991) - [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
