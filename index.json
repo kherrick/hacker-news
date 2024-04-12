@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-04-12, 17:30:31",
-      "https://news.ycombinator.com/item?id=40015429"
+      "2024-04-12, 17:15:17",
+      "https://news.ycombinator.com/item?id=40015267"
     ],
     [
-      "Rakuten Kobo is partnering with iFixit to repair the Kobos",
-      "https://help.kobo.com/hc/en-us/articles/21137184146071-Repair-your-Kobo-eReader"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 17:23:34",
-      "https://news.ycombinator.com/item?id=40015355"
-    ],
-    [
-      "Google: The CA Journalism Preservation Act is putting the news ecosystem at risk",
-      "https://blog.google/products/news/california-journalism-preservation-act-puts-news-ecosystem-at-risk/"
+      "Haunting Photos of the Bison Extermination in 19th Century America",
+      "https://rarehistoricalphotos.com/american-bison-extinction-photos/"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Systemd replacing ELF dependencies with dlopen",
       "https://mastodon.social/@pid_eins/112256363180973672"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 16:27:50",
-      "https://news.ycombinator.com/item?id=40014710"
-    ],
-    [
-      "Led Zeppelin had an electric fireplace in their plane (2018)",
-      "http://justacarguy.blogspot.com/2018/04/led-zeppelin-had-fireplace-in-their.html"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-04-12, 06:57:50",
+      "https://news.ycombinator.com/item?id=40010050"
+    ],
+    [
+      "Show HN: Running TempleOS in user space without virtualization",
+      "https://github.com/1fishe2fishe/EXODUS"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 06:46:07",
       "https://news.ycombinator.com/item?id=40009997"
     ],
@@ -231,12 +221,22 @@
   ],
   [
     [
-      "2024-04-11, 16:06:03",
-      "https://news.ycombinator.com/item?id=40003710"
+      "2024-04-12, 02:04:54",
+      "https://news.ycombinator.com/item?id=40008755"
     ],
     [
-      "Show HN: I made a new sensor out of 3D printer filament for my PhD",
-      "https://paulbupejr.com/developing-the-optigap-sensor-system/"
+      "DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System",
+      "https://github.com/mhx/dwarfs"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 11:05:59",
+      "https://news.ycombinator.com/item?id=40000861"
+    ],
+    [
+      "Adobe is buying videos for $3 per minute to build AI model",
+      "https://www.bloomberg.com/news/articles/2024-04-10/adobe-is-buying-video-clips-for-3-per-minute-to-build-ai-model"
     ]
   ],
   [
