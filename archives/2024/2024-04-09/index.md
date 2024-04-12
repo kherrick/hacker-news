@@ -20,6 +20,7 @@
 * [2024-04-09, 19:50:43](https://news.ycombinator.com/item?id=39983490) - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 * [2024-04-09, 19:29:32](https://news.ycombinator.com/item?id=39983233) - [Yes, Social Media Is a Cause of the Epidemic of Teenage Mental Illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
 * [2024-04-09, 19:20:56](https://news.ycombinator.com/item?id=39983145) - [Patches released for as many as 91,000 hackable LG TVs exposed to the Internet](https://arstechnica.com/security/2024/04/patches-released-for-as-many-as-91000-hackable-lg-tvs-exposed-to-the-internet/)
+* [2024-04-09, 19:15:58](https://news.ycombinator.com/item?id=39983091) - [A Secret Code May Have Been Hiding in Beethoven's Manuscripts for 200 Years](https://www.theatlantic.com/science/archive/2024/04/beethoven-code-dynamics-manuscript/677964/)
 * [2024-04-09, 19:08:06](https://news.ycombinator.com/item?id=39983018) - [Stalwart mail server (self-hosted all-in-one mail server) now as an admin webui](https://stalw.art/blog/stalwart-webadmin/)
 * [2024-04-09, 18:53:54](https://news.ycombinator.com/item?id=39982818) - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
 * [2024-04-09, 18:42:47](https://news.ycombinator.com/item?id=39982688) - [Complexity Is the Enemy](https://neugierig.org/software/blog/2011/04/complexity.html)
