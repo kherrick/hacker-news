@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-12, 20:18:11](https://news.ycombinator.com/item?id=40017199) - [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
 * [2024-04-12, 18:57:29](https://news.ycombinator.com/item?id=40016423) - [Hawaii Moves to Ban Short-Term Rentals to Address Housing Crisis](https://substack.perfectunion.us/p/hawaii-moves-to-ban-short-term-rentals)
 * [2024-04-12, 18:56:25](https://news.ycombinator.com/item?id=40016413) - [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
 * [2024-04-12, 18:38:40](https://news.ycombinator.com/item?id=40016243) - [Ford's Battery Flagship Socked by Mold Sickness, Workers Say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
@@ -18,7 +19,6 @@
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Hacked Nvidia 4090 GPU driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 * [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
 * [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [What is Webb observing now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
-* [2024-04-12, 06:59:35](https://news.ycombinator.com/item?id=40010066) - [Here's a puzzle game. I call it Reverse the List of Integers](https://mathstodon.xyz/@two_star/112242224494626411)
 * [2024-04-12, 06:57:50](https://news.ycombinator.com/item?id=40010050) - [Show HN: Running TempleOS in user space without virtualization](https://github.com/1fishe2fishe/EXODUS)
 * [2024-04-12, 06:46:07](https://news.ycombinator.com/item?id=40009997) - [Organizing OpenStreetMap mapping parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
@@ -27,7 +27,7 @@
 * [2024-04-11, 07:05:09](https://news.ycombinator.com/item?id=39999163) - [Show HN: Wunderbar – Learn language while working on your Mac](https://news.ycombinator.com/item?id=39999163)
 * [2024-04-11, 04:18:20](https://news.ycombinator.com/item?id=39998335) - [Ask HN: What resources to learn tech and software in manufacturing?](https://news.ycombinator.com/item?id=39998335)
 * [2024-04-10, 11:39:24](https://news.ycombinator.com/item?id=39989552) - [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
-* [2024-04-10, 04:13:33](https://news.ycombinator.com/item?id=39986883) - [What Orwell Feared](https://www.theatlantic.com/magazine/archive/2024/05/george-orwell-1984-isle-of-jura/677843/)
+* [2024-04-10, 04:13:33](https://news.ycombinator.com/item?id=39986883) - [What Orwell really feared](https://www.theatlantic.com/magazine/archive/2024/05/george-orwell-1984-isle-of-jura/677843/)
 * [2024-04-09, 22:00:38](https://news.ycombinator.com/item?id=39984768) - [Pretty Eight Machine](https://www.leadedsolder.com/2024/04/09/fujitsu-fm8-pickup-cpu-repair.html)
 * [2024-04-09, 19:15:58](https://news.ycombinator.com/item?id=39983091) - [A Secret Code May Have Been Hiding in Beethoven's Manuscripts for 200 Years](https://www.theatlantic.com/science/archive/2024/04/beethoven-code-dynamics-manuscript/677964/)
 
