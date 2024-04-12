@@ -84,6 +84,7 @@
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 * [2024-04-11, 04:25:13](https://news.ycombinator.com/item?id=39998359) - [Rooster King: A multimedia zine website collage album memoir thing](https://roosterking.drewschorno.com/)
 * [2024-04-11, 04:22:04](https://news.ycombinator.com/item?id=39998346) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
+* [2024-04-11, 04:03:59](https://news.ycombinator.com/item?id=39998277) - [Ask HN: Where are all the touch-based art forms?](https://news.ycombinator.com/item?id=39998277)
 * [2024-04-11, 03:30:53](https://news.ycombinator.com/item?id=39998149) - [Parler-TTS: Natural language guidance of high-fidelity TTS](https://github.com/huggingface/parler-tts)
 * [2024-04-11, 02:56:01](https://news.ycombinator.com/item?id=39997975) - [Building an AI Coach to Tame My Monkey Mind](https://eugeneyan.com/writing/ai-coach/)
 * [2024-04-11, 02:51:04](https://news.ycombinator.com/item?id=39997955) - [Naismith's Rule](https://en.wikipedia.org/wiki/Naismith%27s_rule)
