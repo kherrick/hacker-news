@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 16:28:30](https://news.ycombinator.com/item?id=40014724) - [Systemd minimizing required dependencies for libsystemd](https://mastodon.social/@pid_eins/112256363180973672)
+* [2024-04-12, 16:27:50](https://news.ycombinator.com/item?id=40014710) - [Led Zeppelin had a working fireplace in their plane (2018)](http://justacarguy.blogspot.com/2018/04/led-zeppelin-had-fireplace-in-their.html)
 * [2024-04-12, 16:23:00](https://news.ycombinator.com/item?id=40014652) - [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/)
 * [2024-04-12, 15:59:35](https://news.ycombinator.com/item?id=40014381) - [Developer gets Steam game assets stolen by Play Store copycat](https://old.reddit.com/r/pcmasterrace/comments/1c23lx4/i_am_a_game_developer_for_pc_and_my_game_art_and/)
 * [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)

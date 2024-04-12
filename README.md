@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-12, 16:28:30](https://news.ycombinator.com/item?id=40014724) - [Systemd minimizing required dependencies for libsystemd](https://mastodon.social/@pid_eins/112256363180973672)
+* [2024-04-12, 16:27:50](https://news.ycombinator.com/item?id=40014710) - [Led Zeppelin had a working fireplace in their plane (2018)](http://justacarguy.blogspot.com/2018/04/led-zeppelin-had-fireplace-in-their.html)
 * [2024-04-12, 16:23:00](https://news.ycombinator.com/item?id=40014652) - [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/)
 * [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
-* [2024-04-12, 13:22:30](https://news.ycombinator.com/item?id=40012446) - [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
 * [2024-04-12, 11:45:24](https://news.ycombinator.com/item?id=40011464) - [China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD](https://www.wsj.com/tech/china-telecom-intel-amd-chips-99ae99a9)
 * [2024-04-12, 11:40:52](https://news.ycombinator.com/item?id=40011438) - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
 * [2024-04-12, 11:04:04](https://news.ycombinator.com/item?id=40011250) - [Show HN: tu – Convert natural language date/time to UTC](https://github.com/ad-si/tu)
@@ -25,10 +26,9 @@
 * [2024-04-11, 08:00:23](https://news.ycombinator.com/item?id=39999530) - [An Unusual Prehistoric Monument Made Up of Three Interlocking Circles](https://www.labrujulaverde.com/en/2024/04/an-unusual-prehistoric-monument-made-up-of-three-interlocking-circles-a-typology-never-seen-before-discovered-in-france/)
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 * [2024-04-11, 04:25:13](https://news.ycombinator.com/item?id=39998359) - [Rooster King: A multimedia zine website collage album memoir thing](https://roosterking.drewschorno.com/)
+* [2024-04-11, 04:18:20](https://news.ycombinator.com/item?id=39998335) - [Ask HN: What resources to learn tech and software in manufacturing?](https://news.ycombinator.com/item?id=39998335)
 * [2024-04-10, 12:35:22](https://news.ycombinator.com/item?id=39989992) - [Is It Dry Yet?](https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/)
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
-* [2024-04-10, 05:10:53](https://news.ycombinator.com/item?id=39987158) - [Untergunther – Restoration of the Pantheon clock (2007)](https://urban-resources.net/untergunther.html)
-* [2024-04-09, 15:15:16](https://news.ycombinator.com/item?id=39980345) - [The simple beauty of XOR floating point compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 * [2024-04-08, 16:55:04](https://news.ycombinator.com/item?id=39971590) - [The Solar Eclipse and the Substitute King (2017)](https://www.metmuseum.org/articles/solar-eclipse-substitute-king)
 
 ## [Archives](archives/index.md)
