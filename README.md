@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-12, 15:59:35](https://news.ycombinator.com/item?id=40014381) - [Developer gets Steam game assets stolen by Play Store copycat](https://old.reddit.com/r/pcmasterrace/comments/1c23lx4/i_am_a_game_developer_for_pc_and_my_game_art_and/)
 * [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
 * [2024-04-12, 14:53:37](https://news.ycombinator.com/item?id=40013620) - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
+* [2024-04-12, 13:22:30](https://news.ycombinator.com/item?id=40012446) - [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
 * [2024-04-12, 11:45:24](https://news.ycombinator.com/item?id=40011464) - [China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD](https://www.wsj.com/tech/china-telecom-intel-amd-chips-99ae99a9)
 * [2024-04-12, 11:40:52](https://news.ycombinator.com/item?id=40011438) - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
 * [2024-04-12, 11:04:04](https://news.ycombinator.com/item?id=40011250) - [Show HN: tu – Convert natural language date/time to UTC](https://github.com/ad-si/tu)
@@ -17,6 +17,7 @@
 * [2024-04-12, 02:44:58](https://news.ycombinator.com/item?id=40008934) - [Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 * [2024-04-12, 02:22:25](https://news.ycombinator.com/item?id=40008841) - [Building a Linux Container Using Namespaces: Part – 1 (2020)](https://www.polarsparc.com/xhtml/Containers-1.html)
 * [2024-04-12, 02:04:54](https://news.ycombinator.com/item?id=40008755) - [DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
+* [2024-04-12, 01:12:57](https://news.ycombinator.com/item?id=40008520) - [How I got into deep learning](https://www.vikas.sh/post/how-i-got-into-deep-learning)
 * [2024-04-12, 00:52:10](https://news.ycombinator.com/item?id=40008383) - [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 17:53:47](https://news.ycombinator.com/item?id=40004889) - [Man creatively sneaks onto Delta flight, but gets caught](https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/)
@@ -27,7 +28,6 @@
 * [2024-04-10, 12:35:22](https://news.ycombinator.com/item?id=39989992) - [Is It Dry Yet?](https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/)
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 05:10:53](https://news.ycombinator.com/item?id=39987158) - [Untergunther – Restoration of the Pantheon clock (2007)](https://urban-resources.net/untergunther.html)
-* [2024-04-09, 21:59:42](https://news.ycombinator.com/item?id=39984757) - [Dependencies and resilience](https://ingino.me/ideas/on-dependencies/)
 * [2024-04-09, 15:15:16](https://news.ycombinator.com/item?id=39980345) - [The simple beauty of XOR floating point compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 * [2024-04-08, 16:55:04](https://news.ycombinator.com/item?id=39971590) - [The Solar Eclipse and the Substitute King (2017)](https://www.metmuseum.org/articles/solar-eclipse-substitute-king)
 

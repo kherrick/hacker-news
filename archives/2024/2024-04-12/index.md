@@ -50,6 +50,7 @@
 * [2024-04-12, 02:10:51](https://news.ycombinator.com/item?id=40008788) - [Dr. Andrew Ng Appointed to Amazon's Board of Directors](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors)
 * [2024-04-12, 02:04:54](https://news.ycombinator.com/item?id=40008755) - [DwarFS – The Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
 * [2024-04-12, 01:41:13](https://news.ycombinator.com/item?id=40008665) - [Pacific castaways' 'HELP' sign sparks rescue mission and family reunion](https://www.msn.com/en-us/news/us/pacific-castaways-help-sign-sparks-us-rescue-mission-and-an-unexpected-family-reunion/ar-BB1lqNYE)
+* [2024-04-12, 01:12:57](https://news.ycombinator.com/item?id=40008520) - [How I got into deep learning](https://www.vikas.sh/post/how-i-got-into-deep-learning)
 * [2024-04-12, 01:04:06](https://news.ycombinator.com/item?id=40008458) - [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
 * [2024-04-12, 00:56:51](https://news.ycombinator.com/item?id=40008419) - [CISA Emergency Directive: Nation-State Compromise of Microsoft Corporate Email](https://www.cisa.gov/news-events/directives/ed-24-02-mitigating-significant-risk-nation-state-compromise-microsoft-corporate-email-system)
 * [2024-04-12, 00:53:18](https://news.ycombinator.com/item?id=40008396) - [Ocean currents threaten to collapse Antarctic ice shelves, study finds](https://phys.org/news/2024-04-ocean-currents-threaten-collapse-antarctic.html)
