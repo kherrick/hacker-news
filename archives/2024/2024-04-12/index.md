@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 12:00:39](https://news.ycombinator.com/item?id=40011565) - [Unit Tests Considered Harmful](https://www.shaiyallin.com/post/unit-tests-considered-harmful)
 * [2024-04-12, 11:49:11](https://news.ycombinator.com/item?id=40011490) - [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
 * [2024-04-12, 11:40:52](https://news.ycombinator.com/item?id=40011438) - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
 * [2024-04-12, 11:17:43](https://news.ycombinator.com/item?id=40011314) - [I Lost Faith in Kagi](https://d-shoot.net/kagi.html)
+* [2024-04-12, 10:35:48](https://news.ycombinator.com/item?id=40011111) - [Why I recommend Renovate over any other dependency update tools](https://www.jvt.me/posts/2024/04/12/use-renovate/)
+* [2024-04-12, 10:34:37](https://news.ycombinator.com/item?id=40011105) - [The US rich are getting second passports, citing risk of instability](https://www.cnbc.com/2024/04/10/rich-americans-get-second-passports-citing-risk-of-instability.html)
 * [2024-04-12, 10:09:10](https://news.ycombinator.com/item?id=40010992) - [Another Boeing whistleblower says he faced retaliation for reporting 'shortcuts'](https://www.npr.org/2024/04/12/1244147895/boeing-whistleblower-retaliation-shortcuts-787-dreamliner)
 * [2024-04-12, 10:08:23](https://news.ycombinator.com/item?id=40010991) - [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
