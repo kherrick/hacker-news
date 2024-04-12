@@ -7,6 +7,7 @@
 * [2024-04-11, 23:54:11](https://news.ycombinator.com/item?id=40008044) - [Fine-Tuning Increases LLM Vulnerabilities and Risk](https://arxiv.org/abs/2404.04392)
 * [2024-04-11, 23:45:51](https://news.ycombinator.com/item?id=40007999) - [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/)
 * [2024-04-11, 23:43:14](https://news.ycombinator.com/item?id=40007985) - [Backdoor in XZ Utils That Almost Happened](https://www.lawfaremedia.org/article/backdoor-in-xz-utils-that-almost-happened)
+* [2024-04-11, 22:56:29](https://news.ycombinator.com/item?id=40007684) - [Steam Controller reverse engineering and customization project](https://github.com/greggersaurus/OpenSteamController)
 * [2024-04-11, 22:24:40](https://news.ycombinator.com/item?id=40007445) - [OpenTable is adding your first name to previously anonymous reviews](https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/)
 * [2024-04-11, 22:18:04](https://news.ycombinator.com/item?id=40007384) - [Capsela Is Dead, Long Live Capsela (2017)](https://hackaday.com/2017/09/15/retrotectactular-capsela-is-dead-long-live-capsela/)
 * [2024-04-11, 22:09:10](https://news.ycombinator.com/item?id=40007335) - [Seven seconds: the Tower Bridge Hawker Hunter incident (2016)](https://www.aerialcombat.co.uk/2016/04/seven-seconds-the-tower-bridge-hawker-hunter-incident.html)

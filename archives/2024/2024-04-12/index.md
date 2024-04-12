@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 10:09:10](https://news.ycombinator.com/item?id=40010992) - [Another Boeing whistleblower says he faced retaliation for reporting 'shortcuts'](https://www.npr.org/2024/04/12/1244147895/boeing-whistleblower-retaliation-shortcuts-787-dreamliner)
+* [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 * [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
 * [2024-04-12, 08:47:48](https://news.ycombinator.com/item?id=40010579) - [H-1B visa fraud alive and well amid anti-abuse efforts](https://www.theregister.com/2024/04/09/h1b_visa_fraud/)
 * [2024-04-12, 07:53:42](https://news.ycombinator.com/item?id=40010332) - [Explaining Llm.c in Layman Terms](https://nitter.poast.org/karpathy/status/1778153659106533806)
