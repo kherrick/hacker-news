@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-12, 15:25:34](https://news.ycombinator.com/item?id=40013996) - [US English: Why do Brits hate it so? [video]](https://www.bbc.com/reel/video/p09fv1w9/us-english-why-do-brits-hate-it-so-)
 * [2024-04-12, 15:22:55](https://news.ycombinator.com/item?id=40013968) - [NASA's Next Solar Sail Is About to Go to Space](https://www.universetoday.com/166594/nasas-next-solar-sail-is-about-to-go-to-space/)
 * [2024-04-12, 14:53:37](https://news.ycombinator.com/item?id=40013620) - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
 * [2024-04-12, 11:45:24](https://news.ycombinator.com/item?id=40011464) - [China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD](https://www.wsj.com/tech/china-telecom-intel-amd-chips-99ae99a9)
@@ -14,6 +13,7 @@
 * [2024-04-12, 06:59:35](https://news.ycombinator.com/item?id=40010066) - [\"Here's a puzzle game. I call it Reverse the List of Integers.\"](https://mathstodon.xyz/@two_star/112242224494626411)
 * [2024-04-12, 06:46:07](https://news.ycombinator.com/item?id=40009997) - [Organizing OpenStreetMap Mapping Parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
+* [2024-04-12, 03:31:29](https://news.ycombinator.com/item?id=40009143) - [Show HN: A JavaScript library for data visualization in both SVG and Canvas](https://github.com/andrewcourtice/ripl)
 * [2024-04-12, 02:44:58](https://news.ycombinator.com/item?id=40008934) - [Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 * [2024-04-12, 02:22:25](https://news.ycombinator.com/item?id=40008841) - [Building a Linux Container Using Namespaces: Part – 1 (2020)](https://www.polarsparc.com/xhtml/Containers-1.html)
 * [2024-04-12, 02:04:54](https://news.ycombinator.com/item?id=40008755) - [DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
