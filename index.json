@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-12, 17:17:20",
+      "https://news.ycombinator.com/item?id=40015290"
+    ],
+    [
+      "Kagi CEO harasses Mastodon blogger over scathing critique",
+      "https://hackers.town/@lori/112255137315712715"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 17:00:17",
       "https://news.ycombinator.com/item?id=40015113"
     ],
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=40014724"
     ],
     [
-      "Systemd minimizing required dependencies for libsystemd",
+      "Systemd replacing ELF dependencies with dlopen",
       "https://mastodon.social/@pid_eins/112256363180973672"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 16:27:50",
-      "https://news.ycombinator.com/item?id=40014710"
-    ],
-    [
-      "Led Zeppelin had a working fireplace in their plane (2018)",
-      "http://justacarguy.blogspot.com/2018/04/led-zeppelin-had-fireplace-in-their.html"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Researchers find a new organelle evolving",
       "https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 11:17:43",
+      "https://news.ycombinator.com/item?id=40011314"
+    ],
+    [
+      "I Lost Faith in Kagi",
+      "https://d-shoot.net/kagi.html"
     ]
   ],
   [
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2024-04-12, 08:44:22",
+      "https://news.ycombinator.com/item?id=40010559"
+    ],
+    [
+      "An artist's perplexing tribute to the Pythagorean Theorem (2009)",
+      "http://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 07:29:17",
       "https://news.ycombinator.com/item?id=40010221"
     ],
@@ -157,16 +177,6 @@
     [
       "There’s a 30-year old dead Rabbit in Seven Sisters tube station",
       "https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 03:32:46",
-      "https://news.ycombinator.com/item?id=40009148"
-    ],
-    [
-      "Threads on Mastodon and the bright future of the Fediverse",
-      "https://www.augment.ink/threads-on-mastodon/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Untergunther – Restoration of the Pantheon clock (2007)",
       "https://urban-resources.net/untergunther.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 15:15:16",
-      "https://news.ycombinator.com/item?id=39980345"
-    ],
-    [
-      "The simple beauty of XOR floating point compression",
-      "https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/"
     ]
   ],
   [
