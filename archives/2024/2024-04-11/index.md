@@ -58,6 +58,7 @@
 * [2024-04-11, 11:27:09](https://news.ycombinator.com/item?id=40000988) - [Why doesn't Facebook use Git? [video]](https://www.youtube.com/watch?v=0BNVkMoLJxc)
 * [2024-04-11, 11:14:43](https://news.ycombinator.com/item?id=40000914) - [Conscientious Unbelievers](https://aeon.co/essays/how-scots-freethinkers-managed-to-loosen-christianitys-grip)
 * [2024-04-11, 11:08:45](https://news.ycombinator.com/item?id=40000884) - [Official NixOS Wiki Launched](https://wiki.nixos.org/wiki/NixOS_Wiki)
+* [2024-04-11, 11:05:59](https://news.ycombinator.com/item?id=40000861) - [Adobe Is Buying Videos for $3 per Minute to Build AI Model](https://www.bloomberg.com/news/articles/2024-04-10/adobe-is-buying-video-clips-for-3-per-minute-to-build-ai-model)
 * [2024-04-11, 10:46:40](https://news.ycombinator.com/item?id=40000725) - [Starting today, ISPs must display labels with price, speeds, and data caps](https://arstechnica.com/tech-policy/2024/04/starting-today-isps-must-display-labels-with-price-speeds-and-data-caps/)
 * [2024-04-11, 10:41:54](https://news.ycombinator.com/item?id=40000687) - [Huawei Releases Ultra 9 MateBook X Pro with 40W TDP in 980g](https://consumer.huawei.com/cn/laptops/matebook-x-pro-ultra-premium-edition/)
 * [2024-04-11, 10:24:20](https://news.ycombinator.com/item?id=40000576) - [TrueNAS CORE 13 is the end of the FreeBSD version](https://www.theregister.com/2024/03/18/truenas_abandons_freebsd/)
