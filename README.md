@@ -2,7 +2,6 @@
 
 * [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
 * [2024-04-12, 08:47:48](https://news.ycombinator.com/item?id=40010579) - [H-1B visa fraud alive and well amid anti-abuse efforts](https://www.theregister.com/2024/04/09/h1b_visa_fraud/)
-* [2024-04-12, 07:53:42](https://news.ycombinator.com/item?id=40010332) - [Explaining Llm.c in Layman Terms](https://nitter.poast.org/karpathy/status/1778153659106533806)
 * [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 * [2024-04-12, 06:59:35](https://news.ycombinator.com/item?id=40010066) - [\"Here's a puzzle game. I call it Reverse the List of Integers.\"](https://mathstodon.xyz/@two_star/112242224494626411)
 * [2024-04-12, 06:46:07](https://news.ycombinator.com/item?id=40009997) - [Organizing OpenStreetMap Mapping Parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
@@ -13,6 +12,7 @@
 * [2024-04-12, 02:22:25](https://news.ycombinator.com/item?id=40008841) - [Building a Linux Container Using Namespaces: Part – 1 (2020)](https://www.polarsparc.com/xhtml/Containers-1.html)
 * [2024-04-12, 02:04:54](https://news.ycombinator.com/item?id=40008755) - [DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
 * [2024-04-12, 01:41:13](https://news.ycombinator.com/item?id=40008665) - [Pacific castaways' 'HELP' sign sparks rescue mission and family reunion](https://www.msn.com/en-us/news/us/pacific-castaways-help-sign-sparks-us-rescue-mission-and-an-unexpected-family-reunion/ar-BB1lqNYE)
+* [2024-04-12, 00:53:18](https://news.ycombinator.com/item?id=40008396) - [Ocean currents threaten to collapse Antarctic ice shelves, study finds](https://phys.org/news/2024-04-ocean-currents-threaten-collapse-antarctic.html)
 * [2024-04-12, 00:52:10](https://news.ycombinator.com/item?id=40008383) - [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
 * [2024-04-12, 00:19:23](https://news.ycombinator.com/item?id=40008170) - [Amazon virtually kills efforts to develop Alexa Skills](https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
