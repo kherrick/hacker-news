@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 15:25:34](https://news.ycombinator.com/item?id=40013996) - [US English: Why do Brits hate it so? [video]](https://www.bbc.com/reel/video/p09fv1w9/us-english-why-do-brits-hate-it-so-)
+* [2024-04-12, 15:22:55](https://news.ycombinator.com/item?id=40013968) - [NASA's Next Solar Sail Is About to Go to Space](https://www.universetoday.com/166594/nasas-next-solar-sail-is-about-to-go-to-space/)
 * [2024-04-12, 14:53:37](https://news.ycombinator.com/item?id=40013620) - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
 * [2024-04-12, 14:12:25](https://news.ycombinator.com/item?id=40013143) - [FSRS is one of the most accurate spaced repetition algorithms in the world](https://old.reddit.com/r/Anki/comments/1c29775/fsrs_is_one_of_the_most_accurate_spaced/)
 * [2024-04-12, 13:38:46](https://news.ycombinator.com/item?id=40012712) - [Unauthenticated, RCE vulnerability in Palo Alto firewalls, exploits in the wild](https://security.paloaltonetworks.com/CVE-2024-3400)

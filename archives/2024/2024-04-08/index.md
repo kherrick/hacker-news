@@ -46,6 +46,7 @@
 * [2024-04-08, 17:03:54](https://news.ycombinator.com/item?id=39971673) - [Find My Device on Android](https://blog.google/products/android/android-find-my-device/)
 * [2024-04-08, 17:01:49](https://news.ycombinator.com/item?id=39971651) - [Rotz: Cross platform dotfile manager written in Rust](https://volllly.github.io/rotz/)
 * [2024-04-08, 17:01:00](https://news.ycombinator.com/item?id=39971645) - [GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39971645)
+* [2024-04-08, 16:55:04](https://news.ycombinator.com/item?id=39971590) - [The Solar Eclipse and the Substitute King (2017)](https://www.metmuseum.org/articles/solar-eclipse-substitute-king)
 * [2024-04-08, 16:47:07](https://news.ycombinator.com/item?id=39971497) - [Textual Healing: iOS Text Editing Minutiae](https://sim.coffee/textual-healing/)
 * [2024-04-08, 16:42:29](https://news.ycombinator.com/item?id=39971454) - [GPT Chatting with Xfinity support getting discounts](https://v.redd.it/n2m7faixe2tc1)
 * [2024-04-08, 16:21:37](https://news.ycombinator.com/item?id=39971255) - [Ask HN: Why modern smartphone can't play music smoothly?](https://news.ycombinator.com/item?id=39971255)
