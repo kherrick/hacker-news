@@ -103,6 +103,7 @@
 * [2024-04-10, 05:10:53](https://news.ycombinator.com/item?id=39987158) - [Untergunther – Restoration of the Pantheon Clock](https://urban-resources.net/untergunther.html)
 * [2024-04-10, 05:03:56](https://news.ycombinator.com/item?id=39987131) - [EU's new tech laws are working – small browsers gain market share](https://www.forth.news/threads/66161a684e6a1465f62f6a3b)
 * [2024-04-10, 04:31:02](https://news.ycombinator.com/item?id=39986974) - [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
+* [2024-04-10, 04:13:33](https://news.ycombinator.com/item?id=39986883) - [What Orwell Feared](https://www.theatlantic.com/magazine/archive/2024/05/george-orwell-1984-isle-of-jura/677843/)
 * [2024-04-10, 03:41:09](https://news.ycombinator.com/item?id=39986724) - [PHP in 2024](https://stitcher.io/blog/php-in-2024)
 * [2024-04-10, 03:30:38](https://news.ycombinator.com/item?id=39986687) - [Ways of Seeing: Nicholson Baker learns to draw](https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332)
 * [2024-04-10, 03:08:55](https://news.ycombinator.com/item?id=39986593) - [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)

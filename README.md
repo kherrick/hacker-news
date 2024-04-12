@@ -26,8 +26,8 @@
 * [2024-04-11, 08:00:23](https://news.ycombinator.com/item?id=39999530) - [An unusual prehistoric monument made up of three interlocking circles](https://www.labrujulaverde.com/en/2024/04/an-unusual-prehistoric-monument-made-up-of-three-interlocking-circles-a-typology-never-seen-before-discovered-in-france/)
 * [2024-04-11, 07:05:09](https://news.ycombinator.com/item?id=39999163) - [Show HN: Wunderbar – Learn language while working on your Mac](https://news.ycombinator.com/item?id=39999163)
 * [2024-04-11, 04:18:20](https://news.ycombinator.com/item?id=39998335) - [Ask HN: What resources to learn tech and software in manufacturing?](https://news.ycombinator.com/item?id=39998335)
-* [2024-04-10, 12:35:22](https://news.ycombinator.com/item?id=39989992) - [Is It Dry Yet?](https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/)
 * [2024-04-10, 11:39:24](https://news.ycombinator.com/item?id=39989552) - [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
+* [2024-04-10, 04:13:33](https://news.ycombinator.com/item?id=39986883) - [What Orwell Feared](https://www.theatlantic.com/magazine/archive/2024/05/george-orwell-1984-isle-of-jura/677843/)
 * [2024-04-09, 22:00:38](https://news.ycombinator.com/item?id=39984768) - [Pretty Eight Machine](https://www.leadedsolder.com/2024/04/09/fujitsu-fm8-pickup-cpu-repair.html)
 * [2024-04-09, 19:15:58](https://news.ycombinator.com/item?id=39983091) - [A Secret Code May Have Been Hiding in Beethoven's Manuscripts for 200 Years](https://www.theatlantic.com/science/archive/2024/04/beethoven-code-dynamics-manuscript/677964/)
 
