@@ -68,6 +68,7 @@
 * [2024-04-11, 09:58:26](https://news.ycombinator.com/item?id=40000397) - [Plato Document Reader for Kobo E-Readers](https://github.com/baskerville/plato)
 * [2024-04-11, 08:46:55](https://news.ycombinator.com/item?id=39999893) - [Ask HN: Free alternative to Teamviewer?](https://news.ycombinator.com/item?id=39999893)
 * [2024-04-11, 08:04:08](https://news.ycombinator.com/item?id=39999558) - [Show HN: Snake-inspired FOSS game Dungeon Rush playable in the browser](https://midzer.de/wasm/dungeonrush/)
+* [2024-04-11, 08:00:23](https://news.ycombinator.com/item?id=39999530) - [An Unusual Prehistoric Monument Made Up of Three Interlocking Circles](https://www.labrujulaverde.com/en/2024/04/an-unusual-prehistoric-monument-made-up-of-three-interlocking-circles-a-typology-never-seen-before-discovered-in-france/)
 * [2024-04-11, 07:50:24](https://news.ycombinator.com/item?id=39999456) - [Maudslay's Methods of Originating Screws (1856)](https://chestofbooks.com/home-improvement/workshop/Turning-Mechanical/Maudslay-s-Methods-Of-Originating-Screws.html)
 * [2024-04-11, 07:30:38](https://news.ycombinator.com/item?id=39999315) - [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
 * [2024-04-11, 06:35:15](https://news.ycombinator.com/item?id=39999019) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
