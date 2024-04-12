@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-12, 15:22:55](https://news.ycombinator.com/item?id=40013968) - [NASA's Next Solar Sail Is About to Go to Space](https://www.universetoday.com/166594/nasas-next-solar-sail-is-about-to-go-to-space/)
+* [2024-04-12, 15:59:35](https://news.ycombinator.com/item?id=40014381) - [Developer gets Steam game assets stolen by Play Store copycat](https://old.reddit.com/r/pcmasterrace/comments/1c23lx4/i_am_a_game_developer_for_pc_and_my_game_art_and/)
+* [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
 * [2024-04-12, 14:53:37](https://news.ycombinator.com/item?id=40013620) - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
 * [2024-04-12, 11:45:24](https://news.ycombinator.com/item?id=40011464) - [China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD](https://www.wsj.com/tech/china-telecom-intel-amd-chips-99ae99a9)
 * [2024-04-12, 11:40:52](https://news.ycombinator.com/item?id=40011438) - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
@@ -8,7 +9,6 @@
 * [2024-04-12, 10:35:48](https://news.ycombinator.com/item?id=40011111) - [Why I recommend Renovate over any other dependency update tools](https://www.jvt.me/posts/2024/04/12/use-renovate/)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 * [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
-* [2024-04-12, 08:47:48](https://news.ycombinator.com/item?id=40010579) - [H-1B visa fraud alive and well amid anti-abuse efforts](https://www.theregister.com/2024/04/09/h1b_visa_fraud/)
 * [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 * [2024-04-12, 06:59:35](https://news.ycombinator.com/item?id=40010066) - [\"Here's a puzzle game. I call it Reverse the List of Integers.\"](https://mathstodon.xyz/@two_star/112242224494626411)
 * [2024-04-12, 06:46:07](https://news.ycombinator.com/item?id=40009997) - [Organizing OpenStreetMap Mapping Parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)

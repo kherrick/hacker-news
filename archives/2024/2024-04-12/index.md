@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 15:59:35](https://news.ycombinator.com/item?id=40014381) - [Developer gets Steam game assets stolen by Play Store copycat](https://old.reddit.com/r/pcmasterrace/comments/1c23lx4/i_am_a_game_developer_for_pc_and_my_game_art_and/)
+* [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
 * [2024-04-12, 15:25:34](https://news.ycombinator.com/item?id=40013996) - [US English: Why do Brits hate it so? [video]](https://www.bbc.com/reel/video/p09fv1w9/us-english-why-do-brits-hate-it-so-)
 * [2024-04-12, 15:22:55](https://news.ycombinator.com/item?id=40013968) - [NASA's Next Solar Sail Is About to Go to Space](https://www.universetoday.com/166594/nasas-next-solar-sail-is-about-to-go-to-space/)
 * [2024-04-12, 14:53:37](https://news.ycombinator.com/item?id=40013620) - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
