@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-12, 18:25:33](https://news.ycombinator.com/item?id=40016090) - [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
 * [2024-04-12, 18:06:14](https://news.ycombinator.com/item?id=40015851) - [\"Strong focus on aesthetics\" contributed to collapse of Norway timber bridge](https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/)
 * [2024-04-12, 17:15:17](https://news.ycombinator.com/item?id=40015267) - [Haunting photos of the bison extermination in 19th century America](https://rarehistoricalphotos.com/american-bison-extinction-photos/)
 * [2024-04-12, 17:00:17](https://news.ycombinator.com/item?id=40015113) - [Artisan AI (YC W24) Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
@@ -22,7 +23,6 @@
 * [2024-04-12, 06:46:07](https://news.ycombinator.com/item?id=40009997) - [Organizing OpenStreetMap mapping parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 03:31:29](https://news.ycombinator.com/item?id=40009143) - [Show HN: A JavaScript library for data visualization in both SVG and Canvas](https://github.com/andrewcourtice/ripl)
-* [2024-04-11, 11:05:59](https://news.ycombinator.com/item?id=40000861) - [Adobe is buying videos for $3 per minute to build AI model](https://www.bloomberg.com/news/articles/2024-04-10/adobe-is-buying-video-clips-for-3-per-minute-to-build-ai-model)
 * [2024-04-11, 08:00:23](https://news.ycombinator.com/item?id=39999530) - [An unusual prehistoric monument made up of three interlocking circles](https://www.labrujulaverde.com/en/2024/04/an-unusual-prehistoric-monument-made-up-of-three-interlocking-circles-a-typology-never-seen-before-discovered-in-france/)
 * [2024-04-11, 07:05:09](https://news.ycombinator.com/item?id=39999163) - [Show HN: Wunderbar – Learn language while working on your Mac](https://news.ycombinator.com/item?id=39999163)
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
