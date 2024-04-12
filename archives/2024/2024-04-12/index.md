@@ -8,6 +8,7 @@
 * [2024-04-12, 20:18:11](https://news.ycombinator.com/item?id=40017199) - [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
 * [2024-04-12, 20:16:28](https://news.ycombinator.com/item?id=40017180) - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
 * [2024-04-12, 20:05:31](https://news.ycombinator.com/item?id=40017075) - [Tesla Model 3 Traps TikToker Inside 115-Degree Car During a Software Update](https://jalopnik.com/a-tiktoker-got-trapped-inside-her-115-degree-tesla-mode-1851404777)
+* [2024-04-12, 19:55:32](https://news.ycombinator.com/item?id=40016985) - [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
 * [2024-04-12, 19:50:55](https://news.ycombinator.com/item?id=40016932) - [Shiakaku of the Day](https://shikakuofthe.day/)
 * [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
 * [2024-04-12, 19:02:08](https://news.ycombinator.com/item?id=40016468) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
