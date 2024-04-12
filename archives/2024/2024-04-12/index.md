@@ -14,6 +14,7 @@
 * [2024-04-12, 13:03:18](https://news.ycombinator.com/item?id=40012148) - [Suicide is on the rise for young Americans, with no clear answers](https://www.bbc.com/news/world-us-canada-68782177)
 * [2024-04-12, 13:02:14](https://news.ycombinator.com/item?id=40012136) - [Half of U.S. Homeowners and Renters Struggle to Afford Their Housing Payments](https://www.businesswire.com/news/home/20240405037007/en/Redfin-Survey-Half-of-U.S.-Homeowners-and-Renters-Struggle-to-Afford-Their-Housing-Payments)
 * [2024-04-12, 12:35:52](https://news.ycombinator.com/item?id=40011877) - [What happens when we pay public high school teachers based on performance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295)
+* [2024-04-12, 12:23:30](https://news.ycombinator.com/item?id=40011762) - [Wiring Your House for Networking](https://saagarjha.com/blog/2024/04/12/wiring-your-house-for-networking/)
 * [2024-04-12, 12:00:39](https://news.ycombinator.com/item?id=40011565) - [Unit Tests Considered Harmful](https://www.shaiyallin.com/post/unit-tests-considered-harmful)
 * [2024-04-12, 11:49:11](https://news.ycombinator.com/item?id=40011490) - [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
 * [2024-04-12, 11:45:24](https://news.ycombinator.com/item?id=40011464) - [China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD](https://www.wsj.com/tech/china-telecom-intel-amd-chips-99ae99a9)
