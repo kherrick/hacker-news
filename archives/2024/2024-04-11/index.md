@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 23:54:11](https://news.ycombinator.com/item?id=40008044) - [Fine-Tuning Increases LLM Vulnerabilities and Risk](https://arxiv.org/abs/2404.04392)
+* [2024-04-11, 23:45:51](https://news.ycombinator.com/item?id=40007999) - [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/)
+* [2024-04-11, 23:43:14](https://news.ycombinator.com/item?id=40007985) - [Backdoor in XZ Utils That Almost Happened](https://www.lawfaremedia.org/article/backdoor-in-xz-utils-that-almost-happened)
 * [2024-04-11, 22:24:40](https://news.ycombinator.com/item?id=40007445) - [OpenTable is adding your first name to previously anonymous reviews](https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/)
 * [2024-04-11, 22:18:04](https://news.ycombinator.com/item?id=40007384) - [Capsela Is Dead, Long Live Capsela (2017)](https://hackaday.com/2017/09/15/retrotectactular-capsela-is-dead-long-live-capsela/)
 * [2024-04-11, 22:09:10](https://news.ycombinator.com/item?id=40007335) - [Seven seconds: the Tower Bridge Hawker Hunter incident (2016)](https://www.aerialcombat.co.uk/2016/04/seven-seconds-the-tower-bridge-hawker-hunter-incident.html)
@@ -24,6 +27,7 @@
 * [2024-04-11, 17:57:08](https://news.ycombinator.com/item?id=40004935) - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
 * [2024-04-11, 17:56:51](https://news.ycombinator.com/item?id=40004933) - [Caching is often enough (2003)](https://www.mnot.net/blog/2003/06/28/caching_is_often_enough)
 * [2024-04-11, 17:55:04](https://news.ycombinator.com/item?id=40004909) - [Why birds survived and dinosaurs went extinct after an asteroid hit earth (2020)](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
+* [2024-04-11, 17:53:47](https://news.ycombinator.com/item?id=40004889) - [Man creatively sneaks onto Delta flight, but gets caught](https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/)
 * [2024-04-11, 17:53:38](https://news.ycombinator.com/item?id=40004887) - [Storm: An LLM system that researches a topic and generates a full-length report](https://github.com/stanford-oval/storm)
 * [2024-04-11, 17:44:13](https://news.ycombinator.com/item?id=40004795) - [Movie industry demands US law requiring ISPs to block piracy websites](https://arstechnica.com/civis/threads/movie-industry-demands-us-law-requiring-isps-to-block-piracy-websites.1499995/)
 * [2024-04-11, 17:38:32](https://news.ycombinator.com/item?id=40004741) - [Rerank 3: A new foundation model for efficient enterprise search and retrieval](https://txt.cohere.com/rerank-3/)
