@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 21:21:59](https://news.ycombinator.com/item?id=40017804) - [\"Highly capable\" hackers root corporate networks by exploiting firewall 0-day](https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/)
 * [2024-04-12, 20:18:11](https://news.ycombinator.com/item?id=40017199) - [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
 * [2024-04-12, 20:16:28](https://news.ycombinator.com/item?id=40017180) - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
 * [2024-04-12, 20:05:31](https://news.ycombinator.com/item?id=40017075) - [Tesla Model 3 Traps TikToker Inside 115-Degree Car During a Software Update](https://jalopnik.com/a-tiktoker-got-trapped-inside-her-115-degree-tesla-mode-1851404777)
