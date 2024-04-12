@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-12, 21:21:59](https://news.ycombinator.com/item?id=40017804) - [\"Highly capable\" hackers root corporate networks by exploiting firewall 0-day](https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/)
 * [2024-04-12, 20:16:28](https://news.ycombinator.com/item?id=40017180) - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
 * [2024-04-12, 19:50:55](https://news.ycombinator.com/item?id=40016932) - [Shiakaku of the Day](https://shikakuofthe.day/)
 * [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
@@ -20,6 +19,7 @@
 * [2024-04-12, 10:33:48](https://news.ycombinator.com/item?id=40011100) - [FyneDesk – Linux desktop environment in Go](https://github.com/FyshOS/fynedesk)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Hacked Nvidia 4090 GPU driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 * [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
+* [2024-04-12, 08:44:22](https://news.ycombinator.com/item?id=40010559) - [An artist's perplexing tribute to the Pythagorean Theorem (2009)](http://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html)
 * [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [What is Webb observing now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 03:31:29](https://news.ycombinator.com/item?id=40009143) - [Show HN: A JavaScript library for data visualization in both SVG and Canvas](https://github.com/andrewcourtice/ripl)
