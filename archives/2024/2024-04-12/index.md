@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 13:03:18](https://news.ycombinator.com/item?id=40012148) - [Suicide is on the rise for young Americans, with no clear answers](https://www.bbc.com/news/world-us-canada-68782177)
+* [2024-04-12, 12:35:52](https://news.ycombinator.com/item?id=40011877) - [What happens when we pay public high school teachers based on performance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295)
 * [2024-04-12, 12:00:39](https://news.ycombinator.com/item?id=40011565) - [Unit Tests Considered Harmful](https://www.shaiyallin.com/post/unit-tests-considered-harmful)
 * [2024-04-12, 11:49:11](https://news.ycombinator.com/item?id=40011490) - [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
 * [2024-04-12, 11:40:52](https://news.ycombinator.com/item?id=40011438) - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)

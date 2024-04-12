@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-12, 13:03:18](https://news.ycombinator.com/item?id=40012148) - [Suicide is on the rise for young Americans, with no clear answers](https://www.bbc.com/news/world-us-canada-68782177)
+* [2024-04-12, 12:35:52](https://news.ycombinator.com/item?id=40011877) - [What happens when we pay public high school teachers based on performance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295)
 * [2024-04-12, 12:00:39](https://news.ycombinator.com/item?id=40011565) - [Unit Tests Considered Harmful](https://www.shaiyallin.com/post/unit-tests-considered-harmful)
 * [2024-04-12, 11:49:11](https://news.ycombinator.com/item?id=40011490) - [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
 * [2024-04-12, 11:40:52](https://news.ycombinator.com/item?id=40011438) - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
@@ -19,17 +21,15 @@
 * [2024-04-12, 02:04:54](https://news.ycombinator.com/item?id=40008755) - [DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
 * [2024-04-12, 00:52:10](https://news.ycombinator.com/item?id=40008383) - [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
 * [2024-04-11, 22:56:29](https://news.ycombinator.com/item?id=40007684) - [Steam Controller reverse engineering and customization project](https://github.com/greggersaurus/OpenSteamController)
+* [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 * [2024-04-11, 17:53:47](https://news.ycombinator.com/item?id=40004889) - [Man creatively sneaks onto Delta flight, but gets caught](https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/)
 * [2024-04-11, 16:06:03](https://news.ycombinator.com/item?id=40003710) - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
-* [2024-04-11, 11:05:59](https://news.ycombinator.com/item?id=40000861) - [Adobe Is Buying Videos for $3 per Minute to Build AI Model](https://www.bloomberg.com/news/articles/2024-04-10/adobe-is-buying-video-clips-for-3-per-minute-to-build-ai-model)
 * [2024-04-11, 08:00:23](https://news.ycombinator.com/item?id=39999530) - [An Unusual Prehistoric Monument Made Up of Three Interlocking Circles](https://www.labrujulaverde.com/en/2024/04/an-unusual-prehistoric-monument-made-up-of-three-interlocking-circles-a-typology-never-seen-before-discovered-in-france/)
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 * [2024-04-11, 04:25:13](https://news.ycombinator.com/item?id=39998359) - [Rooster King: A multimedia zine website collage album memoir thing](https://roosterking.drewschorno.com/)
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 08:25:23](https://news.ycombinator.com/item?id=39988298) - [Trying Out Rye](https://burakku.com/blog/rye-test-and-python-tools/)
 * [2024-04-09, 21:59:42](https://news.ycombinator.com/item?id=39984757) - [Dependencies and resilience](https://ingino.me/ideas/on-dependencies/)
-* [2024-04-09, 12:28:14](https://news.ycombinator.com/item?id=39978683) - [I made a thing to help you make a thing out of a keypad](https://cliffle.com/blog/keypad-go/)
-* [2024-04-08, 15:35:23](https://news.ycombinator.com/item?id=39970773) - [Fixing all the bugs won't solve all the problems – Deming's path of frustration](https://shermanonsoftware.com/2024/04/08/fixing-all-the-bugs-wont-solve-all-the-problems-demings-path-of-frustration/)
 
 ## [Archives](archives/index.md)
 
