@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-04-12, 16:23:00",
+      "https://news.ycombinator.com/item?id=40014652"
+    ],
+    [
+      "DuckDuckGo Privacy Pro",
+      "https://spreadprivacy.com/meetprivacypro/"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 15:34:07",
       "https://news.ycombinator.com/item?id=40014087"
     ],
     [
       "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
       "https://news.ycombinator.com/item?id=40014087"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 14:53:37",
-      "https://news.ycombinator.com/item?id=40013620"
-    ],
-    [
-      "How we built JSR",
-      "https://deno.com/blog/how-we-built-jsr"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Tinygrad: Hacked 4090 driver to enable P2P",
       "https://github.com/tinygrad/open-gpu-kernel-modules"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 09:05:06",
+      "https://news.ycombinator.com/item?id=40010677"
+    ],
+    [
+      "You probably don't need GraphQL",
+      "https://mxstbr.com/thoughts/graphql/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System",
       "https://github.com/mhx/dwarfs"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 01:12:57",
-      "https://news.ycombinator.com/item?id=40008520"
-    ],
-    [
-      "How I got into deep learning",
-      "https://www.vikas.sh/post/how-i-got-into-deep-learning"
     ]
   ],
   [
