@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 18:06:14](https://news.ycombinator.com/item?id=40015851) - [\"Strong focus on aesthetics\" contributed to collapse of Norway timber bridge](https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/)
 * [2024-04-12, 17:30:31](https://news.ycombinator.com/item?id=40015429) - [Rakuten Kobo is partnering with iFixit to repair the Kobos](https://help.kobo.com/hc/en-us/articles/21137184146071-Repair-your-Kobo-eReader)
 * [2024-04-12, 17:23:34](https://news.ycombinator.com/item?id=40015355) - [Google: The CA Journalism Preservation Act is putting the news ecosystem at risk](https://blog.google/products/news/california-journalism-preservation-act-puts-news-ecosystem-at-risk/)
 * [2024-04-12, 17:17:20](https://news.ycombinator.com/item?id=40015290) - [Kagi CEO harasses Mastodon blogger over scathing critique](https://hackers.town/@lori/112255137315712715)
@@ -11,6 +12,7 @@
 * [2024-04-12, 17:00:17](https://news.ycombinator.com/item?id=40015113) - [Artisan AI (YC W24) Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
 * [2024-04-12, 16:45:09](https://news.ycombinator.com/item?id=40014937) - [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
 * [2024-04-12, 16:41:46](https://news.ycombinator.com/item?id=40014892) - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
+* [2024-04-12, 16:29:01](https://news.ycombinator.com/item?id=40014730) - [Using Google Sheets as the back end/APIs of your app](https://www.zerosheets.com/)
 * [2024-04-12, 16:28:30](https://news.ycombinator.com/item?id=40014724) - [Systemd minimizing required dependencies for libsystemd](https://mastodon.social/@pid_eins/112256363180973672)
 * [2024-04-12, 16:27:50](https://news.ycombinator.com/item?id=40014710) - [Led Zeppelin had a working fireplace in their plane (2018)](http://justacarguy.blogspot.com/2018/04/led-zeppelin-had-fireplace-in-their.html)
 * [2024-04-12, 16:23:00](https://news.ycombinator.com/item?id=40014652) - [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/)
