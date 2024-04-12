@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-12, 20:18:11](https://news.ycombinator.com/item?id=40017199) - [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
-* [2024-04-12, 20:05:31](https://news.ycombinator.com/item?id=40017075) - [Tesla Model 3 Traps TikToker Inside 115-Degree Car During a Software Update](https://jalopnik.com/a-tiktoker-got-trapped-inside-her-115-degree-tesla-mode-1851404777)
 * [2024-04-12, 19:02:08](https://news.ycombinator.com/item?id=40016468) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
 * [2024-04-12, 18:56:25](https://news.ycombinator.com/item?id=40016413) - [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
 * [2024-04-12, 18:38:40](https://news.ycombinator.com/item?id=40016243) - [Ford's battery flagship socked by mold sickness, workers say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
@@ -20,6 +19,7 @@
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Hacked Nvidia 4090 GPU driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 * [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
 * [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [What is Webb observing now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
+* [2024-04-12, 06:59:35](https://news.ycombinator.com/item?id=40010066) - [Here's a puzzle game. I call it Reverse the List of Integers](https://mathstodon.xyz/@two_star/112242224494626411)
 * [2024-04-12, 06:57:50](https://news.ycombinator.com/item?id=40010050) - [Show HN: Running TempleOS in user space without virtualization](https://github.com/1fishe2fishe/EXODUS)
 * [2024-04-12, 06:46:07](https://news.ycombinator.com/item?id=40009997) - [Organizing OpenStreetMap mapping parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
