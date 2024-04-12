@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 13:24:11](https://news.ycombinator.com/item?id=40012466) - [96% of US hospital websites share visitor info with Meta, Google, data brokers](https://www.theregister.com/2024/04/11/hospital_website_data_sharing/)
 * [2024-04-12, 13:03:18](https://news.ycombinator.com/item?id=40012148) - [Suicide is on the rise for young Americans, with no clear answers](https://www.bbc.com/news/world-us-canada-68782177)
 * [2024-04-12, 13:02:14](https://news.ycombinator.com/item?id=40012136) - [Half of U.S. Homeowners and Renters Struggle to Afford Their Housing Payments](https://www.businesswire.com/news/home/20240405037007/en/Redfin-Survey-Half-of-U.S.-Homeowners-and-Renters-Struggle-to-Afford-Their-Housing-Payments)
 * [2024-04-12, 12:35:52](https://news.ycombinator.com/item?id=40011877) - [What happens when we pay public high school teachers based on performance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295)
