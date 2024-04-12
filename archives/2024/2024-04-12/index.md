@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 14:53:37](https://news.ycombinator.com/item?id=40013620) - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
+* [2024-04-12, 14:12:25](https://news.ycombinator.com/item?id=40013143) - [FSRS is one of the most accurate spaced repetition algorithms in the world](https://old.reddit.com/r/Anki/comments/1c29775/fsrs_is_one_of_the_most_accurate_spaced/)
 * [2024-04-12, 13:38:46](https://news.ycombinator.com/item?id=40012712) - [Unauthenticated, RCE vulnerability in Palo Alto firewalls, exploits in the wild](https://security.paloaltonetworks.com/CVE-2024-3400)
 * [2024-04-12, 13:24:11](https://news.ycombinator.com/item?id=40012466) - [96% of US hospital websites share visitor info with Meta, Google, data brokers](https://www.theregister.com/2024/04/11/hospital_website_data_sharing/)
 * [2024-04-12, 13:22:30](https://news.ycombinator.com/item?id=40012446) - [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
