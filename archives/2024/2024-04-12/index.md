@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 21:54:45](https://news.ycombinator.com/item?id=40018087) - [Defeated CEOs are now conceding hybrid working is here to stay](https://fortune.com/2024/04/12/kpmg-study-us-ceos-accept-hybrid-working-employee-return-to-office/)
 * [2024-04-12, 21:21:59](https://news.ycombinator.com/item?id=40017804) - [\"Highly capable\" hackers root corporate networks by exploiting firewall 0-day](https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/)
 * [2024-04-12, 20:18:11](https://news.ycombinator.com/item?id=40017199) - [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
 * [2024-04-12, 20:16:28](https://news.ycombinator.com/item?id=40017180) - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
