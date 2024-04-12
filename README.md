@@ -23,13 +23,13 @@
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
 * [2024-04-10, 08:46:47](https://news.ycombinator.com/item?id=39988418) - [Specifying the power and limitations of randomness](https://cacm.acm.org/opinion/specifying-the-power-and-limitations-of-randomness/)
 * [2024-04-10, 08:25:23](https://news.ycombinator.com/item?id=39988298) - [Trying Out Rye](https://burakku.com/blog/rye-test-and-python-tools/)
+* [2024-04-09, 20:05:45](https://news.ycombinator.com/item?id=39983665) - [The World of Instruction Manuals (2018)](https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals)
 * [2024-04-09, 15:15:16](https://news.ycombinator.com/item?id=39980345) - [The simple beauty of XOR floating point compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 * [2024-04-09, 14:20:38](https://news.ycombinator.com/item?id=39979719) - [First languages of North America traced back to two groups from Siberia](https://phys.org/news/2024-04-languages-north-america-language-groups.html)
 * [2024-04-09, 12:28:14](https://news.ycombinator.com/item?id=39978683) - [I made a thing to help you make a thing out of a keypad](https://cliffle.com/blog/keypad-go/)
 * [2024-04-08, 22:39:46](https://news.ycombinator.com/item?id=39974465) - [The UX of UUIDs](https://unkey.dev/blog/uuid-ux)
 * [2024-04-08, 21:15:24](https://news.ycombinator.com/item?id=39973798) - [Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
 * [2024-04-08, 15:35:23](https://news.ycombinator.com/item?id=39970773) - [Fixing all the bugs won't solve all the problems – Deming's path of frustration](https://shermanonsoftware.com/2024/04/08/fixing-all-the-bugs-wont-solve-all-the-problems-demings-path-of-frustration/)
-* [2024-04-08, 15:28:41](https://news.ycombinator.com/item?id=39970716) - [I discovered a critical exploit in ZeroMQ with mostly pure luck](https://fangpenlin.com/posts/2024/04/07/how-i-discovered-a-9-point-8-critical-security-vulnerability-in-zeromq-with-mostly-pure-luck/)
 
 ## [Archives](archives/index.md)
 
