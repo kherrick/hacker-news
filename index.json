@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-12, 18:06:14",
+      "https://news.ycombinator.com/item?id=40015851"
+    ],
+    [
+      "\"Strong focus on aesthetics\" contributed to collapse of Norway timber bridge",
+      "https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 17:15:17",
       "https://news.ycombinator.com/item?id=40015267"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2024-04-12, 16:41:46",
-      "https://news.ycombinator.com/item?id=40014892"
+      "2024-04-12, 16:29:01",
+      "https://news.ycombinator.com/item?id=40014730"
     ],
     [
-      "Google threatens to cut off news after California proposes paying media outlets",
-      "https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california"
+      "Using Google Sheets as the back end/APIs of your app",
+      "https://www.zerosheets.com/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Systemd replacing ELF dependencies with dlopen",
       "https://mastodon.social/@pid_eins/112256363180973672"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 16:23:00",
-      "https://news.ycombinator.com/item?id=40014652"
-    ],
-    [
-      "DuckDuckGo Privacy Pro",
-      "https://spreadprivacy.com/meetprivacypro/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Show HN: Stream of Consciousness – watch an artificial persona making art",
       "https://www.streamofconsciousness.net/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 11:40:52",
-      "https://news.ycombinator.com/item?id=40011438"
-    ],
-    [
-      "Researchers find a new organelle evolving",
-      "https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Is It Dry Yet?",
       "https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 11:39:24",
+      "https://news.ycombinator.com/item?id=39989552"
+    ],
+    [
+      "AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server",
+      "https://github.com/azerothcore/azerothcore-wotlk"
     ]
   ],
   [
