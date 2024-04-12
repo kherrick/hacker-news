@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 06:59:35](https://news.ycombinator.com/item?id=40010066) - [\"Here's a puzzle game. I call it Reverse the List of Integers.\"](https://mathstodon.xyz/@two_star/112242224494626411)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There's a 30-year old dead rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 05:52:06](https://news.ycombinator.com/item?id=40009743) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 * [2024-04-12, 04:43:01](https://news.ycombinator.com/item?id=40009452) - [Lament of the Vaxx-Injured](https://margaretannaalice.substack.com/p/lament-of-the-vaxx-injured)

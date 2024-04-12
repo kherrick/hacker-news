@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-12, 06:59:35](https://news.ycombinator.com/item?id=40010066) - [\"Here's a puzzle game. I call it Reverse the List of Integers.\"](https://mathstodon.xyz/@two_star/112242224494626411)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There's a 30-year old dead rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 05:52:06](https://news.ycombinator.com/item?id=40009743) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 * [2024-04-12, 03:32:46](https://news.ycombinator.com/item?id=40009148) - [Threads on Mastodon and the bright future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
@@ -8,7 +9,6 @@
 * [2024-04-12, 02:04:54](https://news.ycombinator.com/item?id=40008755) - [DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
 * [2024-04-12, 01:41:13](https://news.ycombinator.com/item?id=40008665) - [Pacific castaways' 'HELP' sign sparks rescue mission and family reunion](https://www.msn.com/en-us/news/us/pacific-castaways-help-sign-sparks-us-rescue-mission-and-an-unexpected-family-reunion/ar-BB1lqNYE)
 * [2024-04-12, 01:04:06](https://news.ycombinator.com/item?id=40008458) - [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-* [2024-04-12, 00:53:18](https://news.ycombinator.com/item?id=40008396) - [Ocean currents threaten to collapse Antarctic ice shelves, study finds](https://phys.org/news/2024-04-ocean-currents-threaten-collapse-antarctic.html)
 * [2024-04-12, 00:52:10](https://news.ycombinator.com/item?id=40008383) - [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
 * [2024-04-12, 00:19:23](https://news.ycombinator.com/item?id=40008170) - [Amazon virtually kills efforts to develop Alexa Skills](https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/)
 * [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
