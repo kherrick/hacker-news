@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 13:38:46](https://news.ycombinator.com/item?id=40012712) - [Unauthenticated, RCE vulnerability in Palo Alto firewalls, exploits in the wild](https://security.paloaltonetworks.com/CVE-2024-3400)
 * [2024-04-12, 13:24:11](https://news.ycombinator.com/item?id=40012466) - [96% of US hospital websites share visitor info with Meta, Google, data brokers](https://www.theregister.com/2024/04/11/hospital_website_data_sharing/)
 * [2024-04-12, 13:22:30](https://news.ycombinator.com/item?id=40012446) - [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
 * [2024-04-12, 13:15:58](https://news.ycombinator.com/item?id=40012344) - [DOE Announces $75M to Advance Desalination and Water Reuse Tech](https://www.energy.gov/eere/articles/department-energy-announces-75-million-national-alliance-water-innovation-advance)
