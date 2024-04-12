@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 03:32:46](https://news.ycombinator.com/item?id=40009148) - [Threads on Mastodon and the Bright Future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
 * [2024-04-12, 03:26:55](https://news.ycombinator.com/item?id=40009125) - [Discord is nuking Nintendo Switch emulator devs and their entire servers](https://www.theverge.com/2024/4/11/24127545/discord-suyu-sudachi-server-shutdown-account-ban)
 * [2024-04-12, 02:41:28](https://news.ycombinator.com/item?id=40008923) - [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface)
 * [2024-04-12, 02:22:25](https://news.ycombinator.com/item?id=40008841) - [Building a Linux Container Using Namespaces: Part – 1](https://www.polarsparc.com/xhtml/Containers-1.html)
