@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 16:23:00](https://news.ycombinator.com/item?id=40014652) - [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/)
 * [2024-04-12, 15:59:35](https://news.ycombinator.com/item?id=40014381) - [Developer gets Steam game assets stolen by Play Store copycat](https://old.reddit.com/r/pcmasterrace/comments/1c23lx4/i_am_a_game_developer_for_pc_and_my_game_art_and/)
 * [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
 * [2024-04-12, 15:25:34](https://news.ycombinator.com/item?id=40013996) - [US English: Why do Brits hate it so? [video]](https://www.bbc.com/reel/video/p09fv1w9/us-english-why-do-brits-hate-it-so-)
@@ -30,6 +31,7 @@
 * [2024-04-12, 10:09:10](https://news.ycombinator.com/item?id=40010992) - [Another Boeing whistleblower says he faced retaliation for reporting 'shortcuts'](https://www.npr.org/2024/04/12/1244147895/boeing-whistleblower-retaliation-shortcuts-787-dreamliner)
 * [2024-04-12, 10:08:23](https://news.ycombinator.com/item?id=40010991) - [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
+* [2024-04-12, 09:05:06](https://news.ycombinator.com/item?id=40010677) - [You probably don't need GraphQL](https://mxstbr.com/thoughts/graphql/)
 * [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
 * [2024-04-12, 08:47:48](https://news.ycombinator.com/item?id=40010579) - [H-1B visa fraud alive and well amid anti-abuse efforts](https://www.theregister.com/2024/04/09/h1b_visa_fraud/)
 * [2024-04-12, 08:44:22](https://news.ycombinator.com/item?id=40010559) - [Pondering an Artist's Perplexing Tribute to the Pythagorean Theorem](http://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html)
