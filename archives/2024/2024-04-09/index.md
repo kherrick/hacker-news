@@ -7,6 +7,7 @@
 * [2024-04-09, 22:58:38](https://news.ycombinator.com/item?id=39985249) - [My deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 * [2024-04-09, 22:52:48](https://news.ycombinator.com/item?id=39985203) - [The Git repositories of XZ projects are available on GitHub again](https://github.com/tukaani-project)
 * [2024-04-09, 22:14:13](https://news.ycombinator.com/item?id=39984879) - [LXQt: Wayland FAQ](https://lxqt-project.org/blog/2024/04/09/wayland_faq/)
+* [2024-04-09, 22:00:38](https://news.ycombinator.com/item?id=39984768) - [Pretty Eight Machine](https://www.leadedsolder.com/2024/04/09/fujitsu-fm8-pickup-cpu-repair.html)
 * [2024-04-09, 21:59:42](https://news.ycombinator.com/item?id=39984757) - [Dependencies and resilience](https://ingino.me/ideas/on-dependencies/)
 * [2024-04-09, 21:56:13](https://news.ycombinator.com/item?id=39984725) - [The Alice and Bob After Dinner Speech (1984)](https://urbigenous.net/library/alicebob.html)
 * [2024-04-09, 21:01:39](https://news.ycombinator.com/item?id=39984209) - [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
