@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 18:42:31](https://news.ycombinator.com/item?id=40016284) - [Why Russia's Democracy Never Began](https://daviscenter.fas.harvard.edu/insights/why-russias-democracy-never-began)
 * [2024-04-12, 18:38:40](https://news.ycombinator.com/item?id=40016243) - [Ford's Battery Flagship Socked by Mold Sickness, Workers Say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
 * [2024-04-12, 18:25:33](https://news.ycombinator.com/item?id=40016090) - [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
 * [2024-04-12, 18:06:14](https://news.ycombinator.com/item?id=40015851) - [\"Strong focus on aesthetics\" contributed to collapse of Norway timber bridge](https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/)
