@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
 * [2024-04-12, 13:24:11](https://news.ycombinator.com/item?id=40012466) - [96% of US hospital websites share visitor info with Meta, Google, data brokers](https://www.theregister.com/2024/04/11/hospital_website_data_sharing/)
+* [2024-04-12, 13:22:30](https://news.ycombinator.com/item?id=40012446) - [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
+* [2024-04-12, 13:15:58](https://news.ycombinator.com/item?id=40012344) - [DOE Announces $75M to Advance Desalination and Water Reuse Tech](https://www.energy.gov/eere/articles/department-energy-announces-75-million-national-alliance-water-innovation-advance)
 * [2024-04-12, 13:03:18](https://news.ycombinator.com/item?id=40012148) - [Suicide is on the rise for young Americans, with no clear answers](https://www.bbc.com/news/world-us-canada-68782177)
 * [2024-04-12, 13:02:14](https://news.ycombinator.com/item?id=40012136) - [Half of U.S. Homeowners and Renters Struggle to Afford Their Housing Payments](https://www.businesswire.com/news/home/20240405037007/en/Redfin-Survey-Half-of-U.S.-Homeowners-and-Renters-Struggle-to-Afford-Their-Housing-Payments)
 * [2024-04-12, 12:35:52](https://news.ycombinator.com/item?id=40011877) - [What happens when we pay public high school teachers based on performance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295)
@@ -12,6 +14,7 @@
 * [2024-04-12, 11:49:11](https://news.ycombinator.com/item?id=40011490) - [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
 * [2024-04-12, 11:40:52](https://news.ycombinator.com/item?id=40011438) - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
 * [2024-04-12, 11:17:43](https://news.ycombinator.com/item?id=40011314) - [I Lost Faith in Kagi](https://d-shoot.net/kagi.html)
+* [2024-04-12, 11:04:04](https://news.ycombinator.com/item?id=40011250) - [Show HN: tu – Convert natural language date/time to UTC](https://github.com/ad-si/tu)
 * [2024-04-12, 10:35:48](https://news.ycombinator.com/item?id=40011111) - [Why I recommend Renovate over any other dependency update tools](https://www.jvt.me/posts/2024/04/12/use-renovate/)
 * [2024-04-12, 10:34:37](https://news.ycombinator.com/item?id=40011105) - [The US rich are getting second passports, citing risk of instability](https://www.cnbc.com/2024/04/10/rich-americans-get-second-passports-citing-risk-of-instability.html)
 * [2024-04-12, 10:09:10](https://news.ycombinator.com/item?id=40010992) - [Another Boeing whistleblower says he faced retaliation for reporting 'shortcuts'](https://www.npr.org/2024/04/12/1244147895/boeing-whistleblower-retaliation-shortcuts-787-dreamliner)
