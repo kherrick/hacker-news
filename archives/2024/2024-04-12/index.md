@@ -11,6 +11,7 @@
 * [2024-04-12, 19:55:32](https://news.ycombinator.com/item?id=40016985) - [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
 * [2024-04-12, 19:50:55](https://news.ycombinator.com/item?id=40016932) - [Shiakaku of the Day](https://shikakuofthe.day/)
 * [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
+* [2024-04-12, 19:26:54](https://news.ycombinator.com/item?id=40016722) - [Show HN: Facelessvideos.ai – An app to create viral TikTok videos with AI](https://www.facelessvideos.ai/)
 * [2024-04-12, 19:02:08](https://news.ycombinator.com/item?id=40016468) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
 * [2024-04-12, 18:57:29](https://news.ycombinator.com/item?id=40016423) - [Hawaii Moves to Ban Short-Term Rentals to Address Housing Crisis](https://substack.perfectunion.us/p/hawaii-moves-to-ban-short-term-rentals)
 * [2024-04-12, 18:56:25](https://news.ycombinator.com/item?id=40016413) - [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
