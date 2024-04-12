@@ -18,7 +18,7 @@
 * [2024-04-12, 02:22:25](https://news.ycombinator.com/item?id=40008841) - [Building a Linux Container Using Namespaces: Part – 1 (2020)](https://www.polarsparc.com/xhtml/Containers-1.html)
 * [2024-04-12, 02:04:54](https://news.ycombinator.com/item?id=40008755) - [DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
 * [2024-04-12, 00:52:10](https://news.ycombinator.com/item?id=40008383) - [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
-* [2024-04-11, 21:00:53](https://news.ycombinator.com/item?id=40006758) - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
+* [2024-04-11, 22:56:29](https://news.ycombinator.com/item?id=40007684) - [Steam Controller reverse engineering and customization project](https://github.com/greggersaurus/OpenSteamController)
 * [2024-04-11, 17:53:47](https://news.ycombinator.com/item?id=40004889) - [Man creatively sneaks onto Delta flight, but gets caught](https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/)
 * [2024-04-11, 16:06:03](https://news.ycombinator.com/item?id=40003710) - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
 * [2024-04-11, 11:05:59](https://news.ycombinator.com/item?id=40000861) - [Adobe Is Buying Videos for $3 per Minute to Build AI Model](https://www.bloomberg.com/news/articles/2024-04-10/adobe-is-buying-video-clips-for-3-per-minute-to-build-ai-model)
