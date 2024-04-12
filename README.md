@@ -4,7 +4,7 @@
 * [2024-04-12, 19:50:55](https://news.ycombinator.com/item?id=40016932) - [Shiakaku of the Day](https://shikakuofthe.day/)
 * [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
 * [2024-04-12, 19:02:08](https://news.ycombinator.com/item?id=40016468) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
-* [2024-04-12, 18:56:25](https://news.ycombinator.com/item?id=40016413) - [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
+* [2024-04-12, 18:56:25](https://news.ycombinator.com/item?id=40016413) - [ULIDs and Primary Keys (2022)](https://blog.daveallie.com/ulid-primary-keys)
 * [2024-04-12, 18:38:40](https://news.ycombinator.com/item?id=40016243) - [Ford's battery flagship socked by mold sickness, workers say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
 * [2024-04-12, 18:25:33](https://news.ycombinator.com/item?id=40016090) - [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
 * [2024-04-12, 18:14:22](https://news.ycombinator.com/item?id=40015961) - [Bypass Paywalls repository is gone](https://news.ycombinator.com/item?id=40015961)
