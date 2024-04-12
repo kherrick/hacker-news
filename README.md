@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-12, 04:43:01](https://news.ycombinator.com/item?id=40009452) - [Lament of the Vaxx-Injured](https://margaretannaalice.substack.com/p/lament-of-the-vaxx-injured)
 * [2024-04-12, 03:32:46](https://news.ycombinator.com/item?id=40009148) - [Threads on Mastodon and the bright future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
 * [2024-04-12, 02:44:58](https://news.ycombinator.com/item?id=40008934) - [Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 * [2024-04-12, 02:22:25](https://news.ycombinator.com/item?id=40008841) - [Building a Linux Container Using Namespaces: Part – 1 (2020)](https://www.polarsparc.com/xhtml/Containers-1.html)
@@ -16,6 +15,7 @@
 * [2024-04-11, 17:53:47](https://news.ycombinator.com/item?id=40004889) - [Man creatively sneaks onto Delta flight, but gets caught](https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/)
 * [2024-04-11, 16:19:20](https://news.ycombinator.com/item?id=40003868) - [Vortex: OpenCL compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
 * [2024-04-11, 16:06:03](https://news.ycombinator.com/item?id=40003710) - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
+* [2024-04-11, 15:06:26](https://news.ycombinator.com/item?id=40002987) - [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
 * [2024-04-11, 14:53:53](https://news.ycombinator.com/item?id=40002851) - [Vietnamese property tycoon sentenced to death in $27B fraud case](https://www.theguardian.com/world/2024/apr/11/vietnamese-property-tycoon-sentenced-to-death-in-27bn-case)
 * [2024-04-11, 07:50:24](https://news.ycombinator.com/item?id=39999456) - [Maudslay's Methods of Originating Screws (1856)](https://chestofbooks.com/home-improvement/workshop/Turning-Mechanical/Maudslay-s-Methods-Of-Originating-Screws.html)
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
