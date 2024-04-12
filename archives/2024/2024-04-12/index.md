@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
 * [2024-04-12, 20:18:11](https://news.ycombinator.com/item?id=40017199) - [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
+* [2024-04-12, 20:05:31](https://news.ycombinator.com/item?id=40017075) - [Tesla Model 3 Traps TikToker Inside 115-Degree Car During a Software Update](https://jalopnik.com/a-tiktoker-got-trapped-inside-her-115-degree-tesla-mode-1851404777)
+* [2024-04-12, 19:02:08](https://news.ycombinator.com/item?id=40016468) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
 * [2024-04-12, 18:57:29](https://news.ycombinator.com/item?id=40016423) - [Hawaii Moves to Ban Short-Term Rentals to Address Housing Crisis](https://substack.perfectunion.us/p/hawaii-moves-to-ban-short-term-rentals)
 * [2024-04-12, 18:56:25](https://news.ycombinator.com/item?id=40016413) - [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
 * [2024-04-12, 18:42:31](https://news.ycombinator.com/item?id=40016284) - [Why Russia's Democracy Never Began](https://daviscenter.fas.harvard.edu/insights/why-russias-democracy-never-began)
