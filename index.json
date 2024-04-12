@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-12, 10:08:23",
+      "https://news.ycombinator.com/item?id=40010991"
+    ],
+    [
+      "Fast, Declarative, Reproduble and Composable Developer Environments Using Nix",
+      "https://devenv.sh/"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 09:27:58",
       "https://news.ycombinator.com/item?id=40010819"
     ],
@@ -37,6 +47,16 @@
     [
       "\"Here's a puzzle game. I call it Reverse the List of Integers.\"",
       "https://mathstodon.xyz/@two_star/112242224494626411"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 06:57:50",
+      "https://news.ycombinator.com/item?id=40010050"
+    ],
+    [
+      "Show HN: Running TempleOS in user space without virtualization",
+      "https://github.com/1fishe2fishe/EXODUS"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-04-11, 16:19:20",
-      "https://news.ycombinator.com/item?id=40003868"
-    ],
-    [
-      "Vortex: OpenCL compatible RISC-V GPGPU",
-      "https://vortex.cc.gatech.edu/"
-    ]
-  ],
-  [
-    [
       "2024-04-11, 16:06:03",
       "https://news.ycombinator.com/item?id=40003710"
     ],
@@ -237,16 +247,6 @@
     [
       "Trying Out Rye",
       "https://burakku.com/blog/rye-test-and-python-tools/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 07:42:03",
-      "https://news.ycombinator.com/item?id=39988038"
-    ],
-    [
-      "MySQL-Manage Memory Usage Efficiently",
-      "https://shurutech.com/manage-memory-usage-efficiently-in-mysql/"
     ]
   ],
   [
