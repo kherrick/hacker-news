@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There's a 30-year old dead rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
+* [2024-04-12, 05:52:06](https://news.ycombinator.com/item?id=40009743) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 * [2024-04-12, 03:32:46](https://news.ycombinator.com/item?id=40009148) - [Threads on Mastodon and the bright future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
 * [2024-04-12, 02:44:58](https://news.ycombinator.com/item?id=40008934) - [Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 * [2024-04-12, 02:22:25](https://news.ycombinator.com/item?id=40008841) - [Building a Linux Container Using Namespaces: Part – 1 (2020)](https://www.polarsparc.com/xhtml/Containers-1.html)
@@ -16,7 +18,6 @@
 * [2024-04-11, 17:53:47](https://news.ycombinator.com/item?id=40004889) - [Man creatively sneaks onto Delta flight, but gets caught](https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/)
 * [2024-04-11, 16:19:20](https://news.ycombinator.com/item?id=40003868) - [Vortex: OpenCL compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
 * [2024-04-11, 16:06:03](https://news.ycombinator.com/item?id=40003710) - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
-* [2024-04-11, 07:50:24](https://news.ycombinator.com/item?id=39999456) - [Maudslay's Methods of Originating Screws (1856)](https://chestofbooks.com/home-improvement/workshop/Turning-Mechanical/Maudslay-s-Methods-Of-Originating-Screws.html)
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 * [2024-04-11, 04:25:13](https://news.ycombinator.com/item?id=39998359) - [Rooster King: A multimedia zine website collage album memoir thing](https://roosterking.drewschorno.com/)
 * [2024-04-10, 09:31:10](https://news.ycombinator.com/item?id=39988718) - [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
@@ -26,7 +27,6 @@
 * [2024-04-10, 05:10:53](https://news.ycombinator.com/item?id=39987158) - [Untergunther – Restoration of the Pantheon clock (2007)](https://urban-resources.net/untergunther.html)
 * [2024-04-09, 20:05:45](https://news.ycombinator.com/item?id=39983665) - [The World of Instruction Manuals (2018)](https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals)
 * [2024-04-09, 15:15:16](https://news.ycombinator.com/item?id=39980345) - [The simple beauty of XOR floating point compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
-* [2024-04-09, 14:20:38](https://news.ycombinator.com/item?id=39979719) - [First languages of North America traced back to two groups from Siberia](https://phys.org/news/2024-04-languages-north-america-language-groups.html)
 * [2024-04-09, 12:28:14](https://news.ycombinator.com/item?id=39978683) - [I made a thing to help you make a thing out of a keypad](https://cliffle.com/blog/keypad-go/)
 * [2024-04-08, 21:15:24](https://news.ycombinator.com/item?id=39973798) - [Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
 * [2024-04-08, 15:35:23](https://news.ycombinator.com/item?id=39970773) - [Fixing all the bugs won't solve all the problems – Deming's path of frustration](https://shermanonsoftware.com/2024/04/08/fixing-all-the-bugs-wont-solve-all-the-problems-demings-path-of-frustration/)
