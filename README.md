@@ -4,6 +4,7 @@
 * [2024-04-12, 17:15:17](https://news.ycombinator.com/item?id=40015267) - [Haunting photos of the bison extermination in 19th century America](https://rarehistoricalphotos.com/american-bison-extinction-photos/)
 * [2024-04-12, 17:00:17](https://news.ycombinator.com/item?id=40015113) - [Artisan AI (YC W24) Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
 * [2024-04-12, 16:45:09](https://news.ycombinator.com/item?id=40014937) - [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
+* [2024-04-12, 16:41:46](https://news.ycombinator.com/item?id=40014892) - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
 * [2024-04-12, 16:29:01](https://news.ycombinator.com/item?id=40014730) - [Using Google Sheets as the back end/APIs of your app](https://www.zerosheets.com/)
 * [2024-04-12, 16:28:30](https://news.ycombinator.com/item?id=40014724) - [Systemd replacing ELF dependencies with dlopen](https://mastodon.social/@pid_eins/112256363180973672)
 * [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
@@ -29,7 +30,6 @@
 * [2024-04-10, 12:35:22](https://news.ycombinator.com/item?id=39989992) - [Is It Dry Yet?](https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/)
 * [2024-04-10, 11:39:24](https://news.ycombinator.com/item?id=39989552) - [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
 * [2024-04-09, 22:00:38](https://news.ycombinator.com/item?id=39984768) - [Pretty Eight Machine](https://www.leadedsolder.com/2024/04/09/fujitsu-fm8-pickup-cpu-repair.html)
-* [2024-04-08, 16:55:04](https://news.ycombinator.com/item?id=39971590) - [The Solar Eclipse and the Substitute King (2017)](https://www.metmuseum.org/articles/solar-eclipse-substitute-king)
 
 ## [Archives](archives/index.md)
 
