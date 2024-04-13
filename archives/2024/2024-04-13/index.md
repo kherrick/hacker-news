@@ -11,6 +11,7 @@
 * [2024-04-13, 13:43:44](https://news.ycombinator.com/item?id=40023088) - [Hey, does anyone remember the BBS game my dad wrote? It was called Buccaneer ...](https://hackers.town/@CyberpunkLibrarian/112046696080448828)
 * [2024-04-13, 12:45:47](https://news.ycombinator.com/item?id=40022801) - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
+* [2024-04-13, 12:17:25](https://news.ycombinator.com/item?id=40022651) - [Why do some people always get lost?](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
 * [2024-04-13, 12:17:03](https://news.ycombinator.com/item?id=40022649) - [Notes on Git's Error Messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
 * [2024-04-13, 12:12:24](https://news.ycombinator.com/item?id=40022628) - [Shape Typing in Python](https://jameshfisher.com/2024/04/12/shape-typing-in-python/)
 * [2024-04-13, 12:03:51](https://news.ycombinator.com/item?id=40022586) - [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
