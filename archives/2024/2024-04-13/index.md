@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 14:51:29](https://news.ycombinator.com/item?id=40023512) - [Why Do We Have Such Terrible Evidence on Homework Effectiveness?](https://www.astralcodexten.com/p/nobody-knows-how-well-homework-works)
+* [2024-04-13, 14:44:34](https://news.ycombinator.com/item?id=40023471) - [Florence Museum Won Suit Against Publisher That Used Michelangelo's David Image](https://news.artnet.com/art-world/florence-gallerie-dellaccademia-wins-david-lawsuit-2313262)
+* [2024-04-13, 14:41:34](https://news.ycombinator.com/item?id=40023451) - [Can you explain the difference between morals and ethics?](https://lithub.com/yes-but-can-you-really-explain-the-difference-between-morals-and-ethics/)
 * [2024-04-13, 14:20:20](https://news.ycombinator.com/item?id=40023319) - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 14:14:34](https://news.ycombinator.com/item?id=40023289) - [Fedora 41 Looks to \"-O3\" Optimizations for Its Python Build](https://www.phoronix.com/news/Fedora-41-O3-Python-Proposal)
 * [2024-04-13, 14:03:20](https://news.ycombinator.com/item?id=40023221) - [The Work-from-Home Era Is Bad for Burglars](https://www.bloomberg.com/opinion/articles/2024-04-13/working-from-home-claims-another-victim-burglars)
