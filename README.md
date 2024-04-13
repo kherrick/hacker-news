@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 19:24:42](https://news.ycombinator.com/item?id=40025339) - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-04-13, 17:46:27](https://news.ycombinator.com/item?id=40024709) - [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -25,7 +26,6 @@
 * [2024-04-12, 13:40:29](https://news.ycombinator.com/item?id=40012738) - [When an antibiotic fails: Scientists are using AI to target 'sleeper' bacteria](https://phys.org/news/2024-04-antibiotic-scientists-ai-sleeper-bacteria.html)
 * [2024-04-12, 10:42:04](https://news.ycombinator.com/item?id=40011138) - [How I prepare a talk for a tech conference (2022)](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
 * [2024-04-12, 08:52:01](https://news.ycombinator.com/item?id=40010606) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
-* [2024-04-12, 08:44:22](https://news.ycombinator.com/item?id=40010559) - [An artist's perplexing tribute to the Pythagorean Theorem (2009)](http://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html)
 * [2024-04-12, 00:55:06](https://news.ycombinator.com/item?id=40008409) - [Beautiful nebula, violent history: Clash of stars solves stellar mystery](https://phys.org/news/2024-04-beautiful-nebula-violent-history-clash.html)
 * [2024-04-11, 21:42:12](https://news.ycombinator.com/item?id=40007120) - [Asymmetric Routing Around the Firewall](https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/)
 * [2024-04-11, 11:57:57](https://news.ycombinator.com/item?id=40001194) - [Pylyzer – A fast static code analyzer and language server for Python](https://github.com/mtshiba/pylyzer)
