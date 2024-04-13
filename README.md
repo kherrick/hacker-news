@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
+* [2024-04-13, 04:04:55](https://news.ycombinator.com/item?id=40020395) - [Can Gemini 1.5 read all the Harry Potter books at once?](https://twitter.com/deedydas/status/1778621375592485076/photo/1)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 * [2024-04-13, 00:27:12](https://news.ycombinator.com/item?id=40019124) - [Japanese police arrest man for tampering with Pokémon Violet save data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
 * [2024-04-13, 00:20:12](https://news.ycombinator.com/item?id=40019066) - [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
@@ -23,7 +24,6 @@
 * [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [What is Webb observing now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 03:31:29](https://news.ycombinator.com/item?id=40009143) - [Show HN: A JavaScript library for data visualization in both SVG and Canvas](https://github.com/andrewcourtice/ripl)
-* [2024-04-11, 12:02:28](https://news.ycombinator.com/item?id=40001222) - [Ask HN: How can I learn about manufacturing?](https://news.ycombinator.com/item?id=40001222)
 * [2024-04-11, 10:21:26](https://news.ycombinator.com/item?id=40000553) - [HP 200LX and Related Palmtops](https://dfarq.homeip.net/hp-200lx-and-related-palmtops/)
 * [2024-04-11, 09:50:18](https://news.ycombinator.com/item?id=40000349) - [Browser Security Bugs That Aren't: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
 * [2024-04-11, 09:04:44](https://news.ycombinator.com/item?id=40000022) - [Show HN: ClassroomIO – an in-browser programming environment for education](https://www.classroomio.site/)
