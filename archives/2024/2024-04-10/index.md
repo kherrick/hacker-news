@@ -53,6 +53,7 @@
 * [2024-04-10, 15:16:22](https://news.ycombinator.com/item?id=39991675) - [Meta MTIA v2](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 * [2024-04-10, 14:35:37](https://news.ycombinator.com/item?id=39991173) - [Twitter's Clumsy Pivot to X.com Is a Gift to Phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
 * [2024-04-10, 14:05:58](https://news.ycombinator.com/item?id=39990891) - [The greatest bug I never fixed (2010)](https://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
+* [2024-04-10, 13:52:08](https://news.ycombinator.com/item?id=39990749) - [The Town That Kept Its Nuclear Bunker a Secret for Three Decades](https://www.smithsonianmag.com/history/the-town-that-kept-its-nuclear-bunker-a-secret-for-three-decades-180984107/)
 * [2024-04-10, 13:28:37](https://news.ycombinator.com/item?id=39990489) - [German gallery fires employee for hanging own art in exhibition](https://www.bbc.com/news/world-europe-68776528)
 * [2024-04-10, 13:17:04](https://news.ycombinator.com/item?id=39990361) - [Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/)
 * [2024-04-10, 13:15:02](https://news.ycombinator.com/item?id=39990346) - [Show HN: Ads-B Visualizer](https://adsb.exposed/)
