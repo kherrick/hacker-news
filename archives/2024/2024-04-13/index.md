@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 14:14:34](https://news.ycombinator.com/item?id=40023289) - [Fedora 41 Looks to \"-O3\" Optimizations for Its Python Build](https://www.phoronix.com/news/Fedora-41-O3-Python-Proposal)
 * [2024-04-13, 14:03:20](https://news.ycombinator.com/item?id=40023221) - [The Work-from-Home Era Is Bad for Burglars](https://www.bloomberg.com/opinion/articles/2024-04-13/working-from-home-claims-another-victim-burglars)
 * [2024-04-13, 13:50:17](https://news.ycombinator.com/item?id=40023134) - [OpenTTD 14.0](https://www.openttd.org/news/2024/04/13/openttd-14-0)
 * [2024-04-13, 13:43:44](https://news.ycombinator.com/item?id=40023088) - [Hey, does anyone remember the BBS game my dad wrote? It was called Buccaneer ...](https://hackers.town/@CyberpunkLibrarian/112046696080448828)
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
+* [2024-04-13, 12:17:03](https://news.ycombinator.com/item?id=40022649) - [Notes on Git's Error Messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
+* [2024-04-13, 12:12:24](https://news.ycombinator.com/item?id=40022628) - [Shape Typing in Python](https://jameshfisher.com/2024/04/12/shape-typing-in-python/)
 * [2024-04-13, 12:03:51](https://news.ycombinator.com/item?id=40022586) - [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
 * [2024-04-13, 11:26:04](https://news.ycombinator.com/item?id=40022347) - [How to Send an SMS in Haskell (2017)](https://www.twilio.com/en-us/blog/setting-up-your-haskell-developer-environment-with-twilio-html)
 * [2024-04-13, 11:00:09](https://news.ycombinator.com/item?id=40022152) - [Self-Hosted Is Awesome](https://pixeljets.com/blog/self-hosted-is-awesome/)
