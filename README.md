@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-13, 21:07:10](https://news.ycombinator.com/item?id=40026150) - [Israel Says Iran Launched Drones at Its Territory in Retaliatory Strike](https://www.nytimes.com/live/2024/04/13/world/israel-iran-gaza-war-news)
 * [2024-04-13, 19:52:15](https://news.ycombinator.com/item?id=40025531) - [Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
 * [2024-04-13, 19:29:09](https://news.ycombinator.com/item?id=40025362) - [The Stacks Project: A Wikipedia of algebraic geometry (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)
 * [2024-04-13, 19:19:03](https://news.ycombinator.com/item?id=40025309) - [Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
+* [2024-04-13, 19:14:37](https://news.ycombinator.com/item?id=40025281) - [For Go programmers, a cheap CGo pattern to give Jia Tan a headache](https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a)
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-04-13, 19:05:48](https://news.ycombinator.com/item?id=40025225) - [3-Coloring the Vertices of an Icosahedron](https://blog.plover.com/math/colored-icosahedron.html)
 * [2024-04-13, 18:59:04](https://news.ycombinator.com/item?id=40025195) - [Show HN: My $1k self-install, off-grid solar backup build for renters](https://sunboxlabs.com)
