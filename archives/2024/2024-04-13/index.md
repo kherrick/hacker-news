@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
 * [2024-04-13, 19:24:42](https://news.ycombinator.com/item?id=40025339) - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
+* [2024-04-13, 19:14:37](https://news.ycombinator.com/item?id=40025281) - [For Go programmers, a cheap CGo pattern to give Jia Tan a headache](https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a)
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-04-13, 18:31:33](https://news.ycombinator.com/item?id=40025037) - [\"The Tourists Have Taken Everything\" Laments Japanese Resident as Retro Runs Dry](https://www.timeextension.com/news/2024/04/the-tourists-have-taken-everything-laments-japanese-resident-as-retro-runs-dry)
 * [2024-04-13, 17:46:27](https://news.ycombinator.com/item?id=40024709) - [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)

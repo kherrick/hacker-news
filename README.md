@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-13, 19:24:42](https://news.ycombinator.com/item?id=40025339) - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
+* [2024-04-13, 19:14:37](https://news.ycombinator.com/item?id=40025281) - [For Go programmers, a cheap CGo pattern to give Jia Tan a headache](https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a)
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-04-13, 17:46:27](https://news.ycombinator.com/item?id=40024709) - [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -16,7 +17,6 @@
 * [2024-04-13, 04:55:41](https://news.ycombinator.com/item?id=40020601) - [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
 * [2024-04-12, 23:19:14](https://news.ycombinator.com/item?id=40018630) - [The Reconstruction of Ulysses S Grant (2017)](https://www.damninteresting.com/the-reconstruction-of-ulysses-s-grant/)
 * [2024-04-12, 20:53:42](https://news.ycombinator.com/item?id=40017539) - [Common pitfalls of digital health startups and advice on how to avoid them](https://bettychang.xyz/advice-for-digital-health-founders/)
-* [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
 * [2024-04-12, 18:13:54](https://news.ycombinator.com/item?id=40015953) - [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
 * [2024-04-12, 17:33:58](https://news.ycombinator.com/item?id=40015460) - [Ray Tracer in a Boot Sector](https://github.com/nanochess/RayTracer)
 * [2024-04-12, 17:06:38](https://news.ycombinator.com/item?id=40015185) - [Lessons after a Half-billion GPT Tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
@@ -26,10 +26,10 @@
 * [2024-04-12, 13:40:29](https://news.ycombinator.com/item?id=40012738) - [When an antibiotic fails: Scientists are using AI to target 'sleeper' bacteria](https://phys.org/news/2024-04-antibiotic-scientists-ai-sleeper-bacteria.html)
 * [2024-04-12, 10:42:04](https://news.ycombinator.com/item?id=40011138) - [How I prepare a talk for a tech conference (2022)](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
 * [2024-04-12, 08:52:01](https://news.ycombinator.com/item?id=40010606) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
-* [2024-04-12, 00:55:06](https://news.ycombinator.com/item?id=40008409) - [Beautiful nebula, violent history: Clash of stars solves stellar mystery](https://phys.org/news/2024-04-beautiful-nebula-violent-history-clash.html)
 * [2024-04-11, 21:42:12](https://news.ycombinator.com/item?id=40007120) - [Asymmetric Routing Around the Firewall](https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/)
 * [2024-04-11, 11:57:57](https://news.ycombinator.com/item?id=40001194) - [Pylyzer – A fast static code analyzer and language server for Python](https://github.com/mtshiba/pylyzer)
 * [2024-04-11, 09:15:59](https://news.ycombinator.com/item?id=40000104) - [Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++](https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/)
+* [2024-04-11, 07:24:43](https://news.ycombinator.com/item?id=39999273) - [Scientists use biodegradable straws to protect lab-grown coral from hungry fish](https://apnews.com/article/coral-restoration-biodegradable-straws-ae23b903da2f91becd489d40e8cd9e17)
 
 ## [Archives](archives/index.md)
 
