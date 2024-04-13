@@ -2,7 +2,6 @@
 
 * [2024-04-13, 21:18:52](https://news.ycombinator.com/item?id=40026250) - [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
 * [2024-04-13, 21:05:12](https://news.ycombinator.com/item?id=40026119) - [Open Circuits Book](https://opencircuitsbook.com/)
-* [2024-04-13, 20:55:19](https://news.ycombinator.com/item?id=40026024) - [It is forbidden to talk about violence at the Chaos Computer Club](https://www.kommunikationsliebe.org/en/post/talking-about-violence/)
 * [2024-04-13, 20:27:27](https://news.ycombinator.com/item?id=40025783) - [Who is hiring interns (April 2024)](https://news.ycombinator.com/item?id=40025783)
 * [2024-04-13, 19:52:15](https://news.ycombinator.com/item?id=40025531) - [Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
 * [2024-04-13, 19:29:09](https://news.ycombinator.com/item?id=40025362) - [The Stacks Project: A Wikipedia of algebraic geometry (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)
@@ -21,6 +20,7 @@
 * [2024-04-13, 12:17:25](https://news.ycombinator.com/item?id=40022651) - [Research into why some people have a better sense of direction](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
 * [2024-04-13, 12:03:51](https://news.ycombinator.com/item?id=40022586) - [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
 * [2024-04-13, 04:55:41](https://news.ycombinator.com/item?id=40020601) - [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
+* [2024-04-12, 23:19:14](https://news.ycombinator.com/item?id=40018630) - [The Reconstruction of Ulysses S Grant (2017)](https://www.damninteresting.com/the-reconstruction-of-ulysses-s-grant/)
 * [2024-04-12, 18:13:54](https://news.ycombinator.com/item?id=40015953) - [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
 * [2024-04-12, 17:33:58](https://news.ycombinator.com/item?id=40015460) - [Ray Tracer in a Boot Sector](https://github.com/nanochess/RayTracer)
 * [2024-04-12, 17:06:38](https://news.ycombinator.com/item?id=40015185) - [Lessons after a Half-billion GPT Tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
