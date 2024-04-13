@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
 * [2024-04-13, 20:07:47](https://news.ycombinator.com/item?id=40025617) - [Iran said to begin attack on Israel, launching drones](https://www.timesofisrael.com/liveblog-april-13-2024/)
+* [2024-04-13, 19:29:09](https://news.ycombinator.com/item?id=40025362) - [Wikipedia of Algebraic Geometry Will Forever Be Incomplete. (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)
 * [2024-04-13, 19:24:42](https://news.ycombinator.com/item?id=40025339) - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
 * [2024-04-13, 19:14:37](https://news.ycombinator.com/item?id=40025281) - [For Go programmers, a cheap CGo pattern to give Jia Tan a headache](https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a)
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
