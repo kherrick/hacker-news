@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 09:20:28](https://news.ycombinator.com/item?id=40021719) - [The First Beta of Android 15](https://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 * [2024-04-13, 00:20:12](https://news.ycombinator.com/item?id=40019066) - [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
 * [2024-04-12, 23:42:08](https://news.ycombinator.com/item?id=40018785) - [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
@@ -21,7 +22,6 @@
 * [2024-04-12, 06:46:07](https://news.ycombinator.com/item?id=40009997) - [Organizing OpenStreetMap mapping parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 03:31:29](https://news.ycombinator.com/item?id=40009143) - [Show HN: A JavaScript library for data visualization in both SVG and Canvas](https://github.com/andrewcourtice/ripl)
-* [2024-04-11, 11:31:39](https://news.ycombinator.com/item?id=40001019) - [It's far from clear how grub package updates work on Ubuntu](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuGrubUpdateConfusion)
 * [2024-04-11, 10:21:26](https://news.ycombinator.com/item?id=40000553) - [HP 200LX and Related Palmtops](https://dfarq.homeip.net/hp-200lx-and-related-palmtops/)
 * [2024-04-11, 09:50:18](https://news.ycombinator.com/item?id=40000349) - [Browser Security Bugs That Aren't: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
 * [2024-04-11, 09:04:44](https://news.ycombinator.com/item?id=40000022) - [Show HN: ClassroomIO – an in-browser programming environment for education](https://www.classroomio.site/)

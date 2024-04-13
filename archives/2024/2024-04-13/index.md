@@ -7,6 +7,7 @@
 * [2024-04-13, 11:26:04](https://news.ycombinator.com/item?id=40022347) - [How to Send an SMS in Haskell (2017)](https://www.twilio.com/en-us/blog/setting-up-your-haskell-developer-environment-with-twilio-html)
 * [2024-04-13, 11:00:09](https://news.ycombinator.com/item?id=40022152) - [Self-Hosted Is Awesome](https://pixeljets.com/blog/self-hosted-is-awesome/)
 * [2024-04-13, 09:29:59](https://news.ycombinator.com/item?id=40021758) - [Is .NET just miles ahead or am I delusional?](https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/)
+* [2024-04-13, 09:20:28](https://news.ycombinator.com/item?id=40021719) - [The First Beta of Android 15](https://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html)
 * [2024-04-13, 09:07:20](https://news.ycombinator.com/item?id=40021668) - [Why Michael Moorcock Despises Tolkien and C. S. Lewis](https://mythcreants.com/blog/epic-pooh-elric-vs-lord-of-the-rings/)
 * [2024-04-13, 08:55:05](https://news.ycombinator.com/item?id=40021610) - [Germanwings Flight 9525](https://en.wikipedia.org/wiki/Germanwings_Flight_9525)
 * [2024-04-13, 07:12:25](https://news.ycombinator.com/item?id=40021168) - [AnberDeck mod turns Anbernic RG353V game system into a handheld Linux terminal](https://liliputing.com/anberdeck-mod-turns-anbernic-rg353v-game-system-into-a-handheld-linux-terminal/)
