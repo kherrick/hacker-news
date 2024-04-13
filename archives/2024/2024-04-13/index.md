@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 21:18:52](https://news.ycombinator.com/item?id=40026250) - [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
 * [2024-04-13, 21:07:10](https://news.ycombinator.com/item?id=40026150) - [Israel Says Iran Launched Drones at Its Territory in Retaliatory Strike](https://www.nytimes.com/live/2024/04/13/world/israel-iran-gaza-war-news)
 * [2024-04-13, 21:06:15](https://news.ycombinator.com/item?id=40026132) - [Mathematical Handbook: Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir)
+* [2024-04-13, 21:05:12](https://news.ycombinator.com/item?id=40026119) - [Open Circuits Book](https://opencircuitsbook.com/)
 * [2024-04-13, 20:59:45](https://news.ycombinator.com/item?id=40026064) - [Iran launches drone attack against Israel](https://www.theguardian.com/world/live/2024/apr/13/iran-launches-drone-attack-against-israel)
+* [2024-04-13, 20:55:19](https://news.ycombinator.com/item?id=40026024) - [It is forbidden to talk about violence at the Chaos Computer Club](https://www.kommunikationsliebe.org/en/post/talking-about-violence/)
+* [2024-04-13, 20:27:27](https://news.ycombinator.com/item?id=40025783) - [Who is hiring interns (April 2024)](https://news.ycombinator.com/item?id=40025783)
 * [2024-04-13, 20:07:47](https://news.ycombinator.com/item?id=40025617) - [Iran said to begin attack on Israel, launching drones](https://www.timesofisrael.com/liveblog-april-13-2024/)
 * [2024-04-13, 19:52:15](https://news.ycombinator.com/item?id=40025531) - [Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
 * [2024-04-13, 19:29:09](https://news.ycombinator.com/item?id=40025362) - [Wikipedia of Algebraic Geometry Will Forever Be Incomplete. (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)
