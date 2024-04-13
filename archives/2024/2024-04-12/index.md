@@ -9,6 +9,7 @@
 * [2024-04-12, 22:17:21](https://news.ycombinator.com/item?id=40018246) - [I Optimised My Game Engine Up to 12000 FPS [video]](https://www.youtube.com/watch?v=40JzyaOYJeY)
 * [2024-04-12, 22:11:34](https://news.ycombinator.com/item?id=40018199) - [YouTube has a new design on desktop and everyone is mad about it](https://www.androidpolice.com/youtube-new-desktop-design-nobody-likes/)
 * [2024-04-12, 21:54:45](https://news.ycombinator.com/item?id=40018087) - [Defeated CEOs are now conceding hybrid working is here to stay](https://fortune.com/2024/04/12/kpmg-study-us-ceos-accept-hybrid-working-employee-return-to-office/)
+* [2024-04-12, 21:54:08](https://news.ycombinator.com/item?id=40018083) - [Cheap Mortgages Deter Workers from Relocating for $250k Jobs](https://www.bloomberg.com/news/articles/2024-04-12/cheap-mortgages-deter-midwest-auto-workers-from-moving-south)
 * [2024-04-12, 21:32:48](https://news.ycombinator.com/item?id=40017918) - [Show HN: A searchable public database of cheaters in video games](https://www.gamingherd.com/toxic-db)
 * [2024-04-12, 21:21:59](https://news.ycombinator.com/item?id=40017804) - [\"Highly capable\" hackers root corporate networks by exploiting firewall 0-day](https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/)
 * [2024-04-12, 20:28:36](https://news.ycombinator.com/item?id=40017310) - [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/)
