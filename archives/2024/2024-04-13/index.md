@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
 * [2024-04-13, 18:31:33](https://news.ycombinator.com/item?id=40025037) - [\"The Tourists Have Taken Everything\" Laments Japanese Resident as Retro Runs Dry](https://www.timeextension.com/news/2024/04/the-tourists-have-taken-everything-laments-japanese-resident-as-retro-runs-dry)
+* [2024-04-13, 17:46:27](https://news.ycombinator.com/item?id=40024709) - [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-13, 16:53:17](https://news.ycombinator.com/item?id=40024338) - [Physically attractive attorneys tend to have greater success in federal court](https://www.psypost.org/physically-attractive-attorneys-tend-to-have-greater-success-in-federal-court/)
 * [2024-04-13, 16:42:56](https://news.ycombinator.com/item?id=40024273) - [AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music](https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/)
 * [2024-04-13, 16:22:09](https://news.ycombinator.com/item?id=40024146) - [China develops photonic AI chip](https://www.science.org/doi/10.1126/science.adl1203)
 * [2024-04-13, 16:09:10](https://news.ycombinator.com/item?id=40024062) - [Harmful 5G Fast Lanes Are Coming; the FCC Needs to Stop Them](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
+* [2024-04-13, 15:17:54](https://news.ycombinator.com/item?id=40023657) - [Show HN: CTRL-F for YouTube Videos](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO)
 * [2024-04-13, 14:51:29](https://news.ycombinator.com/item?id=40023512) - [Why Do We Have Such Terrible Evidence on Homework Effectiveness?](https://www.astralcodexten.com/p/nobody-knows-how-well-homework-works)
 * [2024-04-13, 14:44:34](https://news.ycombinator.com/item?id=40023471) - [Florence Museum Won Suit Against Publisher That Used Michelangelo's David Image](https://news.artnet.com/art-world/florence-gallerie-dellaccademia-wins-david-lawsuit-2313262)
 * [2024-04-13, 14:41:34](https://news.ycombinator.com/item?id=40023451) - [Can you explain the difference between morals and ethics?](https://lithub.com/yes-but-can-you-really-explain-the-difference-between-morals-and-ethics/)
