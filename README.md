@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-13, 09:07:20](https://news.ycombinator.com/item?id=40021668) - [Why Michael Moorcock Despises Tolkien and C. S. Lewis](https://mythcreants.com/blog/epic-pooh-elric-vs-lord-of-the-rings/)
 * [2024-04-13, 06:23:35](https://news.ycombinator.com/item?id=40020961) - [Ubisoft is stripping people's licences for The Crew weeks after its shutdown](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
@@ -24,6 +23,7 @@
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 03:31:29](https://news.ycombinator.com/item?id=40009143) - [Show HN: A JavaScript library for data visualization in both SVG and Canvas](https://github.com/andrewcourtice/ripl)
 * [2024-04-11, 11:31:39](https://news.ycombinator.com/item?id=40001019) - [It's far from clear how grub package updates work on Ubuntu](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuGrubUpdateConfusion)
+* [2024-04-11, 10:21:26](https://news.ycombinator.com/item?id=40000553) - [HP 200LX and Related Palmtops](https://dfarq.homeip.net/hp-200lx-and-related-palmtops/)
 * [2024-04-11, 09:50:18](https://news.ycombinator.com/item?id=40000349) - [Browser Security Bugs That Aren't: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
 * [2024-04-11, 09:04:44](https://news.ycombinator.com/item?id=40000022) - [Show HN: ClassroomIO – an in-browser programming environment for education](https://www.classroomio.site/)
 * [2024-04-11, 08:42:52](https://news.ycombinator.com/item?id=39999855) - [Metaprogramming in Ruby: It's All About the Self (2009)](https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/)
