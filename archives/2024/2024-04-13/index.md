@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 09:07:20](https://news.ycombinator.com/item?id=40021668) - [Why Michael Moorcock Despises Tolkien and C. S. Lewis](https://mythcreants.com/blog/epic-pooh-elric-vs-lord-of-the-rings/)
 * [2024-04-13, 07:12:25](https://news.ycombinator.com/item?id=40021168) - [AnberDeck mod turns Anbernic RG353V game system into a handheld Linux terminal](https://liliputing.com/anberdeck-mod-turns-anbernic-rg353v-game-system-into-a-handheld-linux-terminal/)
 * [2024-04-13, 06:28:48](https://news.ycombinator.com/item?id=40020987) - [Fonts for Complex Data](https://www.typography.com/blog/fonts-for-complex-data)
 * [2024-04-13, 06:23:35](https://news.ycombinator.com/item?id=40020961) - [Ubisoft is stripping people's licences for The Crew weeks after its shutdown](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/)
