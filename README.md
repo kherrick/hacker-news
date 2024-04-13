@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-13, 06:28:48](https://news.ycombinator.com/item?id=40020987) - [Fonts for Complex Data](https://www.typography.com/blog/fonts-for-complex-data)
 * [2024-04-13, 06:23:35](https://news.ycombinator.com/item?id=40020961) - [Ubisoft is stripping people's licences for The Crew weeks after its shutdown](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
@@ -29,6 +28,7 @@
 * [2024-04-11, 09:04:44](https://news.ycombinator.com/item?id=40000022) - [Show HN: ClassroomIO – an in-browser programming environment for education](https://www.classroomio.site/)
 * [2024-04-11, 08:42:52](https://news.ycombinator.com/item?id=39999855) - [Metaprogramming in Ruby: It's All About the Self (2009)](https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/)
 * [2024-04-11, 06:11:06](https://news.ycombinator.com/item?id=39998903) - [Backyard Birding (2023)](https://worldsensorium.com/backyard-birding/)
+* [2024-04-11, 04:48:24](https://news.ycombinator.com/item?id=39998483) - [Wing-in-Ground effect ship (Airplane?) 2018](https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html)
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 
 ## [Archives](archives/index.md)
