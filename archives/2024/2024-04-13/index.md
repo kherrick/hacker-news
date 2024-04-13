@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+* [2024-04-13, 16:53:17](https://news.ycombinator.com/item?id=40024338) - [Physically attractive attorneys tend to have greater success in federal court](https://www.psypost.org/physically-attractive-attorneys-tend-to-have-greater-success-in-federal-court/)
+* [2024-04-13, 16:22:09](https://news.ycombinator.com/item?id=40024146) - [China develops photonic AI chip](https://www.science.org/doi/10.1126/science.adl1203)
 * [2024-04-13, 16:09:10](https://news.ycombinator.com/item?id=40024062) - [Harmful 5G Fast Lanes Are Coming; the FCC Needs to Stop Them](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
 * [2024-04-13, 14:51:29](https://news.ycombinator.com/item?id=40023512) - [Why Do We Have Such Terrible Evidence on Homework Effectiveness?](https://www.astralcodexten.com/p/nobody-knows-how-well-homework-works)
 * [2024-04-13, 14:44:34](https://news.ycombinator.com/item?id=40023471) - [Florence Museum Won Suit Against Publisher That Used Michelangelo's David Image](https://news.artnet.com/art-world/florence-gallerie-dellaccademia-wins-david-lawsuit-2313262)

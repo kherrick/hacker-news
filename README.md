@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+* [2024-04-13, 16:53:17](https://news.ycombinator.com/item?id=40024338) - [Physically attractive attorneys tend to have greater success in federal court](https://www.psypost.org/physically-attractive-attorneys-tend-to-have-greater-success-in-federal-court/)
+* [2024-04-13, 16:22:09](https://news.ycombinator.com/item?id=40024146) - [China develops photonic AI chip](https://www.science.org/doi/10.1126/science.adl1203)
 * [2024-04-13, 16:09:10](https://news.ycombinator.com/item?id=40024062) - [Harmful 5G Fast Lanes Are Coming; the FCC Needs to Stop Them](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
 * [2024-04-13, 14:20:20](https://news.ycombinator.com/item?id=40023319) - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 12:45:47](https://news.ycombinator.com/item?id=40022801) - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
@@ -27,9 +29,7 @@
 * [2024-04-11, 09:15:59](https://news.ycombinator.com/item?id=40000104) - [Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++](https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/)
 * [2024-04-11, 08:23:12](https://news.ycombinator.com/item?id=39999713) - [On Self-Respect (1961)](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
 * [2024-04-11, 07:04:30](https://news.ycombinator.com/item?id=39999159) - [Running DOS Apps on Windows from 1.0 to 95 (2020)](https://gekk.info/articles/dosapps.html)
-* [2024-04-11, 06:11:06](https://news.ycombinator.com/item?id=39998903) - [Backyard Birding (2023)](https://worldsensorium.com/backyard-birding/)
 * [2024-04-11, 04:48:24](https://news.ycombinator.com/item?id=39998483) - [Commercial wing in ground effect plane (2018)](https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html)
-* [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 
 ## [Archives](archives/index.md)
 
