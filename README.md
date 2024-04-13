@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-13, 14:21:18](https://news.ycombinator.com/item?id=40023326) - [Govt awards $45B to company treating 50M gallons of leaking radioactive waste](https://www.thecooldown.com/green-business/hanford-nuclear-site-contract-waste/)
 * [2024-04-13, 14:20:20](https://news.ycombinator.com/item?id=40023319) - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 12:45:47](https://news.ycombinator.com/item?id=40022801) - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
@@ -13,16 +12,16 @@
 * [2024-04-12, 18:13:54](https://news.ycombinator.com/item?id=40015953) - [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
 * [2024-04-12, 17:33:58](https://news.ycombinator.com/item?id=40015460) - [Ray Tracer in a Boot Sector](https://github.com/nanochess/RayTracer)
 * [2024-04-12, 17:06:38](https://news.ycombinator.com/item?id=40015185) - [Lessons after a Half-billion GPT Tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
-* [2024-04-12, 16:27:51](https://news.ycombinator.com/item?id=40014711) - [The One Billion Row Challenge in CUDA](https://tspeterkim.github.io/posts/cuda-1brc)
 * [2024-04-12, 16:27:34](https://news.ycombinator.com/item?id=40014708) - [Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity](https://blog.owulveryck.info/2024/04/09/data-as-a-product-and-data-contract-an-evolutionary-approach-to-data-maturity.html)
 * [2024-04-12, 16:14:35](https://news.ycombinator.com/item?id=40014540) - [Monkey Management](https://mihirchronicles.com/monkey-management/)
 * [2024-04-12, 16:09:28](https://news.ycombinator.com/item?id=40014486) - [Finding and fixing standard misconceptions about program behavior](https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html)
+* [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
 * [2024-04-12, 13:40:29](https://news.ycombinator.com/item?id=40012738) - [When an antibiotic fails: Scientists are using AI to target 'sleeper' bacteria](https://phys.org/news/2024-04-antibiotic-scientists-ai-sleeper-bacteria.html)
 * [2024-04-12, 10:42:04](https://news.ycombinator.com/item?id=40011138) - [How I prepare a talk for a tech conference (2022)](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Hacked Nvidia 4090 GPU driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
+* [2024-04-12, 08:52:01](https://news.ycombinator.com/item?id=40010606) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
 * [2024-04-12, 00:55:06](https://news.ycombinator.com/item?id=40008409) - [Beautiful nebula, violent history: Clash of stars solves stellar mystery](https://phys.org/news/2024-04-beautiful-nebula-violent-history-clash.html)
 * [2024-04-11, 21:42:12](https://news.ycombinator.com/item?id=40007120) - [Asymmetric Routing Around the Firewall](https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/)
-* [2024-04-11, 16:59:36](https://news.ycombinator.com/item?id=40004349) - [One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
 * [2024-04-11, 11:57:57](https://news.ycombinator.com/item?id=40001194) - [Pylyzer – A fast static code analyzer and language server for Python](https://github.com/mtshiba/pylyzer)
 * [2024-04-11, 09:50:18](https://news.ycombinator.com/item?id=40000349) - [Browser Security Bugs That Aren't: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
 * [2024-04-11, 09:15:59](https://news.ycombinator.com/item?id=40000104) - [Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++](https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/)
@@ -30,6 +29,7 @@
 * [2024-04-11, 07:04:30](https://news.ycombinator.com/item?id=39999159) - [Running DOS Apps on Windows from 1.0 to 95 (2020)](https://gekk.info/articles/dosapps.html)
 * [2024-04-11, 06:11:06](https://news.ycombinator.com/item?id=39998903) - [Backyard Birding (2023)](https://worldsensorium.com/backyard-birding/)
 * [2024-04-11, 04:48:24](https://news.ycombinator.com/item?id=39998483) - [Commercial wing in ground effect plane (2018)](https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html)
+* [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 
 ## [Archives](archives/index.md)
 
