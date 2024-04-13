@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-04-13, 00:09:01",
+      "https://news.ycombinator.com/item?id=40018990"
+    ],
+    [
+      "I continue to no longer attend vintage computer festivals",
+      "http://ascii.textfiles.com/archives/5591"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 23:52:36",
       "https://news.ycombinator.com/item?id=40018871"
     ],
@@ -47,16 +57,6 @@
     [
       "OpenEQA: Embodied Question Answering in the Era of Foundation Models",
       "https://open-eqa.github.io/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 21:32:48",
-      "https://news.ycombinator.com/item?id=40017918"
-    ],
-    [
-      "Show HN: A searchable public database of cheaters in video games",
-      "https://www.gamingherd.com/toxic-db"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Tell HN: Bypass Paywalls repository is gone",
       "https://news.ycombinator.com/item?id=40015961"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 17:47:44",
+      "https://news.ycombinator.com/item?id=40015612"
+    ],
+    [
+      "Htmx and the Rule of Least Power",
+      "https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power/"
     ]
   ],
   [
@@ -181,6 +191,26 @@
   ],
   [
     [
+      "2024-04-12, 08:53:16",
+      "https://news.ycombinator.com/item?id=40010615"
+    ],
+    [
+      "An open source initiative to share and compare heat pump performance data",
+      "https://heatpumpmonitor.org/"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 08:44:22",
+      "https://news.ycombinator.com/item?id=40010559"
+    ],
+    [
+      "An artist's perplexing tribute to the Pythagorean Theorem (2009)",
+      "http://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 07:29:17",
       "https://news.ycombinator.com/item?id=40010221"
     ],
@@ -241,62 +271,32 @@
   ],
   [
     [
+      "2024-04-11, 08:42:52",
+      "https://news.ycombinator.com/item?id=39999855"
+    ],
+    [
+      "Metaprogramming in Ruby: It's All About the Self (2009)",
+      "https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 06:11:06",
       "https://news.ycombinator.com/item?id=39998903"
     ],
     [
-      "Backyard Birding",
+      "Backyard Birding (2023)",
       "https://worldsensorium.com/backyard-birding/"
     ]
   ],
   [
     [
-      "2024-04-10, 13:52:08",
-      "https://news.ycombinator.com/item?id=39990749"
+      "2024-04-11, 04:32:15",
+      "https://news.ycombinator.com/item?id=39998396"
     ],
     [
-      "A town that kept its nuclear bunker a secret for three decades",
-      "https://www.smithsonianmag.com/history/the-town-that-kept-its-nuclear-bunker-a-secret-for-three-decades-180984107/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 08:35:24",
-      "https://news.ycombinator.com/item?id=39988345"
-    ],
-    [
-      "Programming Language Scalability",
-      "https://blog.sulami.xyz/posts/programming-language-scalability/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 04:13:33",
-      "https://news.ycombinator.com/item?id=39986883"
-    ],
-    [
-      "Orwell’s Escape",
-      "https://www.theatlantic.com/magazine/archive/2024/05/george-orwell-1984-isle-of-jura/677843/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 22:00:38",
-      "https://news.ycombinator.com/item?id=39984768"
-    ],
-    [
-      "Pretty Eight Machine",
-      "https://www.leadedsolder.com/2024/04/09/fujitsu-fm8-pickup-cpu-repair.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 19:15:58",
-      "https://news.ycombinator.com/item?id=39983091"
-    ],
-    [
-      "A secret code may have been hiding in Beethoven's manuscripts",
-      "https://www.theatlantic.com/science/archive/2024/04/beethoven-code-dynamics-manuscript/677964/"
+      "Quantum Algorithms for Lattice Problems",
+      "https://eprint.iacr.org/2024/555"
     ]
   ]
 ]
