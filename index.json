@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-13, 00:39:00",
+      "https://news.ycombinator.com/item?id=40019217"
+    ],
+    [
+      "Your LLM Is a Capable Regressor When Given In-Context Examples",
+      "https://arxiv.org/abs/2404.07544"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 00:27:12",
       "https://news.ycombinator.com/item?id=40019124"
     ],
@@ -171,32 +181,22 @@
   ],
   [
     [
-      "2024-04-12, 10:35:48",
-      "https://news.ycombinator.com/item?id=40011111"
-    ],
-    [
-      "Why I recommend Renovate over any other dependency update tools",
-      "https://www.jvt.me/posts/2024/04/12/use-renovate/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 10:33:48",
-      "https://news.ycombinator.com/item?id=40011100"
-    ],
-    [
-      "FyneDesk – Linux desktop environment in Go",
-      "https://github.com/FyshOS/fynedesk"
-    ]
-  ],
-  [
-    [
       "2024-04-12, 09:27:58",
       "https://news.ycombinator.com/item?id=40010819"
     ],
     [
       "Hacked Nvidia 4090 GPU driver to enable P2P",
       "https://github.com/tinygrad/open-gpu-kernel-modules"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 07:29:17",
+      "https://news.ycombinator.com/item?id=40010221"
+    ],
+    [
+      "What is Webb observing now?",
+      "https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1"
     ]
   ],
   [
