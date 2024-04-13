@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-13, 18:31:33](https://news.ycombinator.com/item?id=40025037) - [\"The Tourists Have Taken Everything\" Laments Japanese Resident as Retro Runs Dry](https://www.timeextension.com/news/2024/04/the-tourists-have-taken-everything-laments-japanese-resident-as-retro-runs-dry)
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-13, 16:42:56](https://news.ycombinator.com/item?id=40024273) - [AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music](https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/)
 * [2024-04-13, 16:09:10](https://news.ycombinator.com/item?id=40024062) - [The FCC needs to stop 5G fast lanes](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
@@ -23,6 +22,7 @@
 * [2024-04-12, 16:09:28](https://news.ycombinator.com/item?id=40014486) - [Finding and fixing standard misconceptions about program behavior](https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html)
 * [2024-04-12, 13:40:29](https://news.ycombinator.com/item?id=40012738) - [When an antibiotic fails: Scientists are using AI to target 'sleeper' bacteria](https://phys.org/news/2024-04-antibiotic-scientists-ai-sleeper-bacteria.html)
 * [2024-04-12, 10:42:04](https://news.ycombinator.com/item?id=40011138) - [How I prepare a talk for a tech conference (2022)](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
+* [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Hacked Nvidia 4090 GPU driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 * [2024-04-12, 08:52:01](https://news.ycombinator.com/item?id=40010606) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
 * [2024-04-12, 08:44:22](https://news.ycombinator.com/item?id=40010559) - [An artist's perplexing tribute to the Pythagorean Theorem (2009)](http://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html)
 * [2024-04-12, 00:55:06](https://news.ycombinator.com/item?id=40008409) - [Beautiful nebula, violent history: Clash of stars solves stellar mystery](https://phys.org/news/2024-04-beautiful-nebula-violent-history-clash.html)
