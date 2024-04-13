@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-13, 23:33:01](https://news.ycombinator.com/item?id=40027182) - [Google kills \"One\" VPN service](https://arstechnica.com/gadgets/2024/04/google-is-killing-off-its-one-vpn-service/)
+* [2024-04-13, 23:41:19](https://news.ycombinator.com/item?id=40027240) - [I stopped paying taxes a decade ago. The results shocked me](https://slate.com/human-interest/2024/04/taxes-file-pay-2024-stop-paying-irs.html)
 * [2024-04-13, 23:10:23](https://news.ycombinator.com/item?id=40027061) - [We cut costs by 70% by moving from GCP and CockroachDB to Hetzner and PostgreSQL](https://blog.mikoto.io/building-your-own-cloud-for-fun-and-profit)
 * [2024-04-13, 22:32:54](https://news.ycombinator.com/item?id=40026782) - [Turn entire websites into LLM-ready data](https://www.firecrawl.dev/)
 * [2024-04-13, 21:53:47](https://news.ycombinator.com/item?id=40026499) - [Debugging the little SSH that sometimes couldn't](http://beza1e1.tuxen.de/lore/little_ssh_couldnt.html)
