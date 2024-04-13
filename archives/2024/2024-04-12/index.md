@@ -12,6 +12,7 @@
 * [2024-04-12, 21:54:08](https://news.ycombinator.com/item?id=40018083) - [Cheap Mortgages Deter Workers from Relocating for $250k Jobs](https://www.bloomberg.com/news/articles/2024-04-12/cheap-mortgages-deter-midwest-auto-workers-from-moving-south)
 * [2024-04-12, 21:32:48](https://news.ycombinator.com/item?id=40017918) - [Show HN: A searchable public database of cheaters in video games](https://www.gamingherd.com/toxic-db)
 * [2024-04-12, 21:21:59](https://news.ycombinator.com/item?id=40017804) - [\"Highly capable\" hackers root corporate networks by exploiting firewall 0-day](https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/)
+* [2024-04-12, 20:51:11](https://news.ycombinator.com/item?id=40017514) - [Invisibility Cloak](https://www.cs.umd.edu/~tomg/projects/invisible/)
 * [2024-04-12, 20:28:36](https://news.ycombinator.com/item?id=40017310) - [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-12, 20:18:11](https://news.ycombinator.com/item?id=40017199) - [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
 * [2024-04-12, 20:16:28](https://news.ycombinator.com/item?id=40017180) - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
