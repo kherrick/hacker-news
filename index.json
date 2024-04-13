@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-13, 14:21:18",
-      "https://news.ycombinator.com/item?id=40023326"
-    ],
-    [
-      "Govt awards $45B to company treating 50M gallons of leaking radioactive waste",
-      "https://www.thecooldown.com/green-business/hanford-nuclear-site-contract-waste/"
-    ]
-  ],
-  [
-    [
       "2024-04-13, 14:20:20",
       "https://news.ycombinator.com/item?id=40023319"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2024-04-12, 16:27:51",
-      "https://news.ycombinator.com/item?id=40014711"
-    ],
-    [
-      "The One Billion Row Challenge in CUDA",
-      "https://tspeterkim.github.io/posts/cuda-1brc"
-    ]
-  ],
-  [
-    [
       "2024-04-12, 16:27:34",
       "https://news.ycombinator.com/item?id=40014708"
     ],
@@ -167,6 +147,16 @@
     [
       "Finding and fixing standard misconceptions about program behavior",
       "https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 15:34:07",
+      "https://news.ycombinator.com/item?id=40014087"
+    ],
+    [
+      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "https://news.ycombinator.com/item?id=40014087"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-04-12, 08:52:01",
+      "https://news.ycombinator.com/item?id=40010606"
+    ],
+    [
+      "Ten Years and Counting: My Affair with Microservices",
+      "https://blog.allegro.tech/2024/04/ten-years-microservices.html"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 00:55:06",
       "https://news.ycombinator.com/item?id=40008409"
     ],
@@ -217,16 +217,6 @@
     [
       "Asymmetric Routing Around the Firewall",
       "https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 16:59:36",
-      "https://news.ycombinator.com/item?id=40004349"
-    ],
-    [
-      "One man's artistic wonderland, created in rental, gets protected status",
-      "https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Commercial wing in ground effect plane (2018)",
       "https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 04:32:15",
+      "https://news.ycombinator.com/item?id=39998396"
+    ],
+    [
+      "Quantum Algorithms for Lattice Problems",
+      "https://eprint.iacr.org/2024/555"
     ]
   ]
 ]
