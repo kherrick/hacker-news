@@ -9,6 +9,7 @@
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
 * [2024-04-13, 12:12:24](https://news.ycombinator.com/item?id=40022628) - [Shape Typing in Python](https://jameshfisher.com/2024/04/12/shape-typing-in-python/)
 * [2024-04-13, 12:03:51](https://news.ycombinator.com/item?id=40022586) - [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
+* [2024-04-13, 04:55:41](https://news.ycombinator.com/item?id=40020601) - [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
 * [2024-04-12, 23:19:14](https://news.ycombinator.com/item?id=40018630) - [The Reconstruction of Ulysses S Grant (2017)](https://thebrowser.com/r/2cc28fad?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
 * [2024-04-12, 20:53:42](https://news.ycombinator.com/item?id=40017539) - [Common pitfalls of digital health startups and advice on how to avoid them](https://bettychang.xyz/advice-for-digital-health-founders/)
 * [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
@@ -28,7 +29,6 @@
 * [2024-04-11, 11:57:57](https://news.ycombinator.com/item?id=40001194) - [Pylyzer – A fast static code analyzer and language server for Python](https://github.com/mtshiba/pylyzer)
 * [2024-04-11, 09:15:59](https://news.ycombinator.com/item?id=40000104) - [Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++](https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/)
 * [2024-04-11, 08:23:12](https://news.ycombinator.com/item?id=39999713) - [On Self-Respect (1961)](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
-* [2024-04-11, 07:04:30](https://news.ycombinator.com/item?id=39999159) - [Running DOS Apps on Windows from 1.0 to 95 (2020)](https://gekk.info/articles/dosapps.html)
 * [2024-04-11, 04:48:24](https://news.ycombinator.com/item?id=39998483) - [Commercial wing in ground effect plane (2018)](https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html)
 
 ## [Archives](archives/index.md)
