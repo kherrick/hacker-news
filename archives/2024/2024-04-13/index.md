@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 21:07:10](https://news.ycombinator.com/item?id=40026150) - [Israel Says Iran Launched Drones at Its Territory in Retaliatory Strike](https://www.nytimes.com/live/2024/04/13/world/israel-iran-gaza-war-news)
 * [2024-04-13, 20:59:45](https://news.ycombinator.com/item?id=40026064) - [Iran launches drone attack against Israel](https://www.theguardian.com/world/live/2024/apr/13/iran-launches-drone-attack-against-israel)
 * [2024-04-13, 20:07:47](https://news.ycombinator.com/item?id=40025617) - [Iran said to begin attack on Israel, launching drones](https://www.timesofisrael.com/liveblog-april-13-2024/)
 * [2024-04-13, 19:52:15](https://news.ycombinator.com/item?id=40025531) - [Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)

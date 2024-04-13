@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-13, 20:59:45](https://news.ycombinator.com/item?id=40026064) - [Iran launches drone attack against Israel](https://www.theguardian.com/world/live/2024/apr/13/iran-launches-drone-attack-against-israel)
+* [2024-04-13, 21:07:10](https://news.ycombinator.com/item?id=40026150) - [Israel Says Iran Launched Drones at Its Territory in Retaliatory Strike](https://www.nytimes.com/live/2024/04/13/world/israel-iran-gaza-war-news)
 * [2024-04-13, 19:52:15](https://news.ycombinator.com/item?id=40025531) - [Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
 * [2024-04-13, 19:29:09](https://news.ycombinator.com/item?id=40025362) - [The Stacks Project: A Wikipedia of algebraic geometry (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)
-* [2024-04-13, 19:24:42](https://news.ycombinator.com/item?id=40025339) - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
 * [2024-04-13, 19:19:03](https://news.ycombinator.com/item?id=40025309) - [Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-04-13, 19:05:48](https://news.ycombinator.com/item?id=40025225) - [3-Coloring the Vertices of an Icosahedron](https://blog.plover.com/math/colored-icosahedron.html)
@@ -24,6 +23,7 @@
 * [2024-04-12, 17:33:58](https://news.ycombinator.com/item?id=40015460) - [Ray Tracer in a Boot Sector](https://github.com/nanochess/RayTracer)
 * [2024-04-12, 17:06:38](https://news.ycombinator.com/item?id=40015185) - [Lessons after a Half-billion GPT Tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
 * [2024-04-12, 16:27:34](https://news.ycombinator.com/item?id=40014708) - [Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity](https://blog.owulveryck.info/2024/04/09/data-as-a-product-and-data-contract-an-evolutionary-approach-to-data-maturity.html)
+* [2024-04-12, 16:14:35](https://news.ycombinator.com/item?id=40014540) - [Monkey Management](https://mihirchronicles.com/monkey-management/)
 * [2024-04-12, 16:09:28](https://news.ycombinator.com/item?id=40014486) - [Finding and fixing standard misconceptions about program behavior](https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html)
 * [2024-04-12, 13:40:29](https://news.ycombinator.com/item?id=40012738) - [When an antibiotic fails: Scientists are using AI to target 'sleeper' bacteria](https://phys.org/news/2024-04-antibiotic-scientists-ai-sleeper-bacteria.html)
 * [2024-04-12, 10:42:04](https://news.ycombinator.com/item?id=40011138) - [How I prepare a talk for a tech conference (2022)](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
