@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 18:31:33](https://news.ycombinator.com/item?id=40025037) - [\"The Tourists Have Taken Everything\" Laments Japanese Resident as Retro Runs Dry](https://www.timeextension.com/news/2024/04/the-tourists-have-taken-everything-laments-japanese-resident-as-retro-runs-dry)
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-13, 16:53:17](https://news.ycombinator.com/item?id=40024338) - [Physically attractive attorneys tend to have greater success in federal court](https://www.psypost.org/physically-attractive-attorneys-tend-to-have-greater-success-in-federal-court/)
 * [2024-04-13, 16:42:56](https://news.ycombinator.com/item?id=40024273) - [AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music](https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/)
@@ -12,6 +13,7 @@
 * [2024-04-13, 14:51:29](https://news.ycombinator.com/item?id=40023512) - [Why Do We Have Such Terrible Evidence on Homework Effectiveness?](https://www.astralcodexten.com/p/nobody-knows-how-well-homework-works)
 * [2024-04-13, 14:44:34](https://news.ycombinator.com/item?id=40023471) - [Florence Museum Won Suit Against Publisher That Used Michelangelo's David Image](https://news.artnet.com/art-world/florence-gallerie-dellaccademia-wins-david-lawsuit-2313262)
 * [2024-04-13, 14:41:34](https://news.ycombinator.com/item?id=40023451) - [Can you explain the difference between morals and ethics?](https://lithub.com/yes-but-can-you-really-explain-the-difference-between-morals-and-ethics/)
+* [2024-04-13, 14:31:05](https://news.ycombinator.com/item?id=40023382) - [Daily-Driving a Blackberry in 2023](https://www.scd31.com/posts/blackberry-in-2023)
 * [2024-04-13, 14:21:18](https://news.ycombinator.com/item?id=40023326) - [Govt awards $45B to company treating 50M gallons of leaking radioactive waste](https://www.thecooldown.com/green-business/hanford-nuclear-site-contract-waste/)
 * [2024-04-13, 14:20:20](https://news.ycombinator.com/item?id=40023319) - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 14:14:34](https://news.ycombinator.com/item?id=40023289) - [Fedora 41 Looks to \"-O3\" Optimizations for Its Python Build](https://www.phoronix.com/news/Fedora-41-O3-Python-Proposal)

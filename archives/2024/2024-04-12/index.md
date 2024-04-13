@@ -6,6 +6,7 @@
 
 * [2024-04-12, 23:52:36](https://news.ycombinator.com/item?id=40018871) - [Employing Others Is Linked to Wealth and Wellbeing](https://news.gallup.com/poll/643268/employing-others-linked-wealth-wellbeing.aspx)
 * [2024-04-12, 23:42:08](https://news.ycombinator.com/item?id=40018785) - [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
+* [2024-04-12, 23:19:14](https://news.ycombinator.com/item?id=40018630) - [The Reconstruction of Ulysses S Grant (2017)](https://www.damninteresting.com/the-reconstruction-of-ulysses-s-grant/)
 * [2024-04-12, 23:19:14](https://news.ycombinator.com/item?id=40018630) - [The Reconstruction of Ulysses S Grant (2017)](https://thebrowser.com/r/2cc28fad?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
 * [2024-04-12, 22:17:21](https://news.ycombinator.com/item?id=40018246) - [I Optimised My Game Engine Up to 12000 FPS [video]](https://www.youtube.com/watch?v=40JzyaOYJeY)
 * [2024-04-12, 22:11:34](https://news.ycombinator.com/item?id=40018199) - [YouTube has a new design on desktop and everyone is mad about it](https://www.androidpolice.com/youtube-new-desktop-design-nobody-likes/)
