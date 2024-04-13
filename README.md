@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 23:33:01](https://news.ycombinator.com/item?id=40027182) - [Google kills \"One\" VPN service](https://arstechnica.com/gadgets/2024/04/google-is-killing-off-its-one-vpn-service/)
 * [2024-04-13, 23:10:23](https://news.ycombinator.com/item?id=40027061) - [We cut costs by 70% by moving from GCP and CockroachDB to Hetzner and PostgreSQL](https://blog.mikoto.io/building-your-own-cloud-for-fun-and-profit)
 * [2024-04-13, 22:32:54](https://news.ycombinator.com/item?id=40026782) - [Turn entire websites into LLM-ready data](https://www.firecrawl.dev/)
 * [2024-04-13, 21:53:47](https://news.ycombinator.com/item?id=40026499) - [Debugging the little SSH that sometimes couldn't](http://beza1e1.tuxen.de/lore/little_ssh_couldnt.html)
@@ -24,7 +25,6 @@
 * [2024-04-12, 18:13:54](https://news.ycombinator.com/item?id=40015953) - [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
 * [2024-04-12, 17:33:58](https://news.ycombinator.com/item?id=40015460) - [Ray Tracer in a Boot Sector](https://github.com/nanochess/RayTracer)
 * [2024-04-12, 17:06:38](https://news.ycombinator.com/item?id=40015185) - [Lessons after a Half-billion GPT Tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
-* [2024-04-12, 16:27:34](https://news.ycombinator.com/item?id=40014708) - [Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity](https://blog.owulveryck.info/2024/04/09/data-as-a-product-and-data-contract-an-evolutionary-approach-to-data-maturity.html)
 * [2024-04-12, 13:40:29](https://news.ycombinator.com/item?id=40012738) - [When an antibiotic fails: Scientists are using AI to target 'sleeper' bacteria](https://phys.org/news/2024-04-antibiotic-scientists-ai-sleeper-bacteria.html)
 * [2024-04-12, 10:42:04](https://news.ycombinator.com/item?id=40011138) - [How I prepare a talk for a tech conference (2022)](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
 * [2024-04-12, 08:52:01](https://news.ycombinator.com/item?id=40010606) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)

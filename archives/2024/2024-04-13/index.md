@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 23:33:01](https://news.ycombinator.com/item?id=40027182) - [Google kills \"One\" VPN service](https://arstechnica.com/gadgets/2024/04/google-is-killing-off-its-one-vpn-service/)
 * [2024-04-13, 23:10:23](https://news.ycombinator.com/item?id=40027061) - [We cut costs by 70% by moving from GCP and CockroachDB to Hetzner and PostgreSQL](https://blog.mikoto.io/building-your-own-cloud-for-fun-and-profit)
 * [2024-04-13, 22:32:54](https://news.ycombinator.com/item?id=40026782) - [Turn entire websites into LLM-ready data](https://www.firecrawl.dev/)
 * [2024-04-13, 22:26:41](https://news.ycombinator.com/item?id=40026732) - [Ford Mustang Mach-E Using BlueCruise at Time of Crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
