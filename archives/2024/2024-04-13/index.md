@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
 * [2024-04-13, 06:28:48](https://news.ycombinator.com/item?id=40020987) - [Fonts for Complex Data](https://www.typography.com/blog/fonts-for-complex-data)
+* [2024-04-13, 06:23:35](https://news.ycombinator.com/item?id=40020961) - [Ubisoft is stripping people's licences for The Crew weeks after its shutdown](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/)
 * [2024-04-13, 06:17:42](https://news.ycombinator.com/item?id=40020926) - [Devin AI-first AI software engineer is a big lie?](https://gosummarize.com/youtube/@internetofbugs/debunking-devin-first-ai-software-engineer-upwork-lie-exposed)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)

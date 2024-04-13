@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-13, 06:28:48](https://news.ycombinator.com/item?id=40020987) - [Fonts for Complex Data](https://www.typography.com/blog/fonts-for-complex-data)
+* [2024-04-13, 06:23:35](https://news.ycombinator.com/item?id=40020961) - [Ubisoft is stripping people's licences for The Crew weeks after its shutdown](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
 * [2024-04-13, 04:04:55](https://news.ycombinator.com/item?id=40020395) - [Can Gemini 1.5 read all the Harry Potter books at once?](https://twitter.com/deedydas/status/1778621375592485076/photo/1)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
-* [2024-04-13, 00:27:12](https://news.ycombinator.com/item?id=40019124) - [Japanese police arrest man for tampering with Pokémon Violet save data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
 * [2024-04-13, 00:20:12](https://news.ycombinator.com/item?id=40019066) - [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
 * [2024-04-13, 00:09:01](https://news.ycombinator.com/item?id=40018990) - [I continue to no longer attend vintage computer festivals](http://ascii.textfiles.com/archives/5591)
 * [2024-04-12, 23:52:36](https://news.ycombinator.com/item?id=40018871) - [Employing Others Is Linked to Wealth and Wellbeing](https://news.gallup.com/poll/643268/employing-others-linked-wealth-wellbeing.aspx)
