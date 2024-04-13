@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 20:59:45](https://news.ycombinator.com/item?id=40026064) - [Iran launches drone attack against Israel](https://www.theguardian.com/world/live/2024/apr/13/iran-launches-drone-attack-against-israel)
 * [2024-04-13, 19:52:15](https://news.ycombinator.com/item?id=40025531) - [Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
 * [2024-04-13, 19:29:09](https://news.ycombinator.com/item?id=40025362) - [The Stacks Project: A Wikipedia of algebraic geometry (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)
 * [2024-04-13, 19:24:42](https://news.ycombinator.com/item?id=40025339) - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
 * [2024-04-13, 19:19:03](https://news.ycombinator.com/item?id=40025309) - [Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
-* [2024-04-13, 19:14:37](https://news.ycombinator.com/item?id=40025281) - [For Go programmers, a cheap CGo pattern to give Jia Tan a headache](https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a)
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
+* [2024-04-13, 19:05:48](https://news.ycombinator.com/item?id=40025225) - [3-Coloring the Vertices of an Icosahedron](https://blog.plover.com/math/colored-icosahedron.html)
 * [2024-04-13, 18:59:04](https://news.ycombinator.com/item?id=40025195) - [Show HN: My $1k self-install, off-grid solar backup build for renters](https://sunboxlabs.com)
 * [2024-04-13, 18:50:50](https://news.ycombinator.com/item?id=40025148) - [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html#careful-with-that-lock-eugene)
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -29,7 +30,6 @@
 * [2024-04-12, 08:52:01](https://news.ycombinator.com/item?id=40010606) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
 * [2024-04-11, 11:57:57](https://news.ycombinator.com/item?id=40001194) - [Pylyzer – A fast static code analyzer and language server for Python](https://github.com/mtshiba/pylyzer)
 * [2024-04-11, 09:15:59](https://news.ycombinator.com/item?id=40000104) - [Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++](https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/)
-* [2024-04-11, 07:24:43](https://news.ycombinator.com/item?id=39999273) - [Scientists use biodegradable straws to protect lab-grown coral from hungry fish](https://apnews.com/article/coral-restoration-biodegradable-straws-ae23b903da2f91becd489d40e8cd9e17)
 
 ## [Archives](archives/index.md)
 
