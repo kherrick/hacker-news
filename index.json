@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-13, 14:51:29",
-      "https://news.ycombinator.com/item?id=40023512"
-    ],
-    [
-      "Why Do We Have Such Terrible Evidence on Homework Effectiveness?",
-      "https://www.astralcodexten.com/p/nobody-knows-how-well-homework-works"
-    ]
-  ],
-  [
-    [
       "2024-04-13, 14:44:34",
       "https://news.ycombinator.com/item?id=40023471"
     ],
@@ -37,26 +27,6 @@
     [
       "Tree-shaking, the horticulturally misguided algorithm",
       "https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 13:40:37",
-      "https://news.ycombinator.com/item?id=40023070"
-    ],
-    [
-      "Fortran-lang joins NumFOCUS as a sponsored project",
-      "https://twitter.com/fortranlang/status/1778953864458174941"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 13:39:50",
-      "https://news.ycombinator.com/item?id=40023065"
-    ],
-    [
-      "How games are used to control you",
-      "https://unherd.com/2024/04/how-games-are-used-to-control-you/"
     ]
   ],
   [
@@ -121,12 +91,32 @@
   ],
   [
     [
+      "2024-04-12, 20:15:59",
+      "https://news.ycombinator.com/item?id=40017176"
+    ],
+    [
+      "DIY Wi-Fi thermostat from scratch with ESPHome and Home Assistant",
+      "https://olegtarasov.me/opentherm-thermostat-esphome/"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 19:45:40",
       "https://news.ycombinator.com/item?id=40016888"
     ],
     [
       "Green's Dictionary of Slang",
       "https://greensdictofslang.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 19:02:08",
+      "https://news.ycombinator.com/item?id=40016468"
+    ],
+    [
+      "Cipherleaks is the first demonstrated attack against AMD SEV-SNP",
+      "https://cipherleaks.com/"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
       "https://news.ycombinator.com/item?id=40014087"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 10:33:48",
+      "https://news.ycombinator.com/item?id=40011100"
+    ],
+    [
+      "FyneDesk – Linux desktop environment in Go",
+      "https://github.com/FyshOS/fynedesk"
     ]
   ],
   [
