@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-04-13, 22:26:41",
-      "https://news.ycombinator.com/item?id=40026732"
+      "2024-04-13, 23:10:23",
+      "https://news.ycombinator.com/item?id=40027061"
     ],
     [
-      "Ford Mustang Mach-E Using BlueCruise at Time of Crash: NTSB",
-      "https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/"
+      "We cut costs by 70% by moving from GCP and CockroachDB to Hetzner and PostgreSQL",
+      "https://blog.mikoto.io/building-your-own-cloud-for-fun-and-profit"
+    ]
+  ],
+  [
+    [
+      "2024-04-13, 22:32:54",
+      "https://news.ycombinator.com/item?id=40026782"
+    ],
+    [
+      "Turn entire websites into LLM-ready data",
+      "https://www.firecrawl.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-04-13, 21:53:47",
+      "https://news.ycombinator.com/item?id=40026499"
+    ],
+    [
+      "Debugging the little SSH that sometimes couldn't",
+      "http://beza1e1.tuxen.de/lore/little_ssh_couldnt.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-04-12, 23:19:14",
-      "https://news.ycombinator.com/item?id=40018630"
-    ],
-    [
-      "The Reconstruction of Ulysses S Grant (2017)",
-      "https://www.damninteresting.com/the-reconstruction-of-ulysses-s-grant/"
-    ]
-  ],
-  [
-    [
       "2024-04-12, 18:13:54",
       "https://news.ycombinator.com/item?id=40015953"
     ],
@@ -237,16 +247,6 @@
     [
       "Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity",
       "https://blog.owulveryck.info/2024/04/09/data-as-a-product-and-data-contract-an-evolutionary-approach-to-data-maturity.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 16:14:35",
-      "https://news.ycombinator.com/item?id=40014540"
-    ],
-    [
-      "Monkey Management",
-      "https://mihirchronicles.com/monkey-management/"
     ]
   ],
   [
