@@ -71,6 +71,7 @@
 * [2024-04-11, 09:58:26](https://news.ycombinator.com/item?id=40000397) - [Plato Document Reader for Kobo E-Readers](https://github.com/baskerville/plato)
 * [2024-04-11, 09:04:44](https://news.ycombinator.com/item?id=40000022) - [Show HN: ClassroomIO – an in-browser programming environment for education](https://www.classroomio.site/)
 * [2024-04-11, 08:46:55](https://news.ycombinator.com/item?id=39999893) - [Ask HN: Free alternative to Teamviewer?](https://news.ycombinator.com/item?id=39999893)
+* [2024-04-11, 08:42:52](https://news.ycombinator.com/item?id=39999855) - [Metaprogramming in Ruby: It's All About the Self (2009)](https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/)
 * [2024-04-11, 08:04:08](https://news.ycombinator.com/item?id=39999558) - [Show HN: Snake-inspired FOSS game Dungeon Rush playable in the browser](https://midzer.de/wasm/dungeonrush/)
 * [2024-04-11, 08:00:23](https://news.ycombinator.com/item?id=39999530) - [An Unusual Prehistoric Monument Made Up of Three Interlocking Circles](https://www.labrujulaverde.com/en/2024/04/an-unusual-prehistoric-monument-made-up-of-three-interlocking-circles-a-typology-never-seen-before-discovered-in-france/)
 * [2024-04-11, 07:50:24](https://news.ycombinator.com/item?id=39999456) - [Maudslay's Methods of Originating Screws (1856)](https://chestofbooks.com/home-improvement/workshop/Turning-Mechanical/Maudslay-s-Methods-Of-Originating-Screws.html)

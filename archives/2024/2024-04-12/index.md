@@ -27,6 +27,7 @@
 * [2024-04-12, 18:25:33](https://news.ycombinator.com/item?id=40016090) - [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
 * [2024-04-12, 18:14:22](https://news.ycombinator.com/item?id=40015961) - [Bypass Paywalls repository is gone](https://news.ycombinator.com/item?id=40015961)
 * [2024-04-12, 18:06:14](https://news.ycombinator.com/item?id=40015851) - [\"Strong focus on aesthetics\" contributed to collapse of Norway timber bridge](https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/)
+* [2024-04-12, 17:47:44](https://news.ycombinator.com/item?id=40015612) - [Htmx and the Rule of Least Power](https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power/)
 * [2024-04-12, 17:30:31](https://news.ycombinator.com/item?id=40015429) - [Rakuten Kobo is partnering with iFixit to repair the Kobos](https://help.kobo.com/hc/en-us/articles/21137184146071-Repair-your-Kobo-eReader)
 * [2024-04-12, 17:23:34](https://news.ycombinator.com/item?id=40015355) - [Google: The CA Journalism Preservation Act is putting the news ecosystem at risk](https://blog.google/products/news/california-journalism-preservation-act-puts-news-ecosystem-at-risk/)
 * [2024-04-12, 17:17:20](https://news.ycombinator.com/item?id=40015290) - [Kagi CEO harasses Mastodon blogger over scathing critique](https://hackers.town/@lori/112255137315712715)
