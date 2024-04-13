@@ -24,10 +24,10 @@
 * [2024-04-12, 00:55:06](https://news.ycombinator.com/item?id=40008409) - [Beautiful nebula, violent history: Clash of stars solves stellar mystery](https://phys.org/news/2024-04-beautiful-nebula-violent-history-clash.html)
 * [2024-04-11, 21:42:12](https://news.ycombinator.com/item?id=40007120) - [Asymmetric Routing Around the Firewall](https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/)
 * [2024-04-11, 11:57:57](https://news.ycombinator.com/item?id=40001194) - [Pylyzer – A fast static code analyzer and language server for Python](https://github.com/mtshiba/pylyzer)
-* [2024-04-11, 09:50:18](https://news.ycombinator.com/item?id=40000349) - [Browser Security Bugs That Aren't: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
 * [2024-04-11, 09:15:59](https://news.ycombinator.com/item?id=40000104) - [Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++](https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/)
 * [2024-04-11, 08:23:12](https://news.ycombinator.com/item?id=39999713) - [On Self-Respect (1961)](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
 * [2024-04-11, 07:04:30](https://news.ycombinator.com/item?id=39999159) - [Running DOS Apps on Windows from 1.0 to 95 (2020)](https://gekk.info/articles/dosapps.html)
+* [2024-04-11, 06:11:06](https://news.ycombinator.com/item?id=39998903) - [Backyard Birding (2023)](https://worldsensorium.com/backyard-birding/)
 * [2024-04-11, 04:48:24](https://news.ycombinator.com/item?id=39998483) - [Commercial wing in ground effect plane (2018)](https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html)
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 
