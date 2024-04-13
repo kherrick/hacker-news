@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-13, 20:59:45",
+      "https://news.ycombinator.com/item?id=40026064"
+    ],
+    [
+      "Iran launches drone attack against Israel",
+      "https://www.theguardian.com/world/live/2024/apr/13/iran-launches-drone-attack-against-israel"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 19:52:15",
       "https://news.ycombinator.com/item?id=40025531"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2024-04-13, 19:14:37",
-      "https://news.ycombinator.com/item?id=40025281"
-    ],
-    [
-      "For Go programmers, a cheap CGo pattern to give Jia Tan a headache",
-      "https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a"
-    ]
-  ],
-  [
-    [
       "2024-04-13, 19:10:39",
       "https://news.ycombinator.com/item?id=40025261"
     ],
     [
       "The darker side of being a doctor",
       "https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor"
+    ]
+  ],
+  [
+    [
+      "2024-04-13, 19:05:48",
+      "https://news.ycombinator.com/item?id=40025225"
+    ],
+    [
+      "3-Coloring the Vertices of an Icosahedron",
+      "https://blog.plover.com/math/colored-icosahedron.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++",
       "https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 07:24:43",
-      "https://news.ycombinator.com/item?id=39999273"
-    ],
-    [
-      "Scientists use biodegradable straws to protect lab-grown coral from hungry fish",
-      "https://apnews.com/article/coral-restoration-biodegradable-straws-ae23b903da2f91becd489d40e8cd9e17"
     ]
   ]
 ]
