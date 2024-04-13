@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 22:01:00](https://news.ycombinator.com/item?id=40026552) - [Beware of EuroDNS](https://ivdl.co.za/2024/04/14/beware-of-eurodns/)
 * [2024-04-13, 21:18:52](https://news.ycombinator.com/item?id=40026250) - [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
 * [2024-04-13, 21:07:10](https://news.ycombinator.com/item?id=40026150) - [Israel Says Iran Launched Drones at Its Territory in Retaliatory Strike](https://www.nytimes.com/live/2024/04/13/world/israel-iran-gaza-war-news)
 * [2024-04-13, 21:06:15](https://news.ycombinator.com/item?id=40026132) - [Mathematical Handbook: Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir)
@@ -23,6 +24,7 @@
 * [2024-04-13, 18:50:50](https://news.ycombinator.com/item?id=40025148) - [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html#careful-with-that-lock-eugene)
 * [2024-04-13, 18:31:33](https://news.ycombinator.com/item?id=40025037) - [\"The Tourists Have Taken Everything\" Laments Japanese Resident as Retro Runs Dry](https://www.timeextension.com/news/2024/04/the-tourists-have-taken-everything-laments-japanese-resident-as-retro-runs-dry)
 * [2024-04-13, 17:46:27](https://news.ycombinator.com/item?id=40024709) - [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)
+* [2024-04-13, 17:02:03](https://news.ycombinator.com/item?id=40024393) - [OpenBSD Is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-13, 16:53:17](https://news.ycombinator.com/item?id=40024338) - [Physically attractive attorneys tend to have greater success in federal court](https://www.psypost.org/physically-attractive-attorneys-tend-to-have-greater-success-in-federal-court/)
 * [2024-04-13, 16:42:56](https://news.ycombinator.com/item?id=40024273) - [AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music](https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/)
