@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 * [2024-04-13, 00:27:12](https://news.ycombinator.com/item?id=40019124) - [Japanese Police Arrest Man for Tampering with Pokémon Violet Save Data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
 * [2024-04-13, 00:09:01](https://news.ycombinator.com/item?id=40018990) - [I Continue to No Longer Attend Vintage Computer Festivals](http://ascii.textfiles.com/archives/5591)
 * [2024-04-13, 00:02:43](https://news.ycombinator.com/item?id=40018948) - [Microsoft starts testing ads in the Windows 11 Start menu](https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations)
@@ -17,9 +18,8 @@
 * [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
 * [2024-04-12, 12:43:21](https://news.ycombinator.com/item?id=40011937) - [Show HN: Stream of Consciousness – watch an artificial persona making art](https://www.streamofconsciousness.net/)
 * [2024-04-12, 11:04:04](https://news.ycombinator.com/item?id=40011250) - [Show HN: tu – Convert natural language date/time to UTC](https://github.com/ad-si/tu)
-* [2024-04-12, 10:35:48](https://news.ycombinator.com/item?id=40011111) - [Why I recommend Renovate over any other dependency update tools](https://www.jvt.me/posts/2024/04/12/use-renovate/)
-* [2024-04-12, 10:33:48](https://news.ycombinator.com/item?id=40011100) - [FyneDesk – Linux desktop environment in Go](https://github.com/FyshOS/fynedesk)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Hacked Nvidia 4090 GPU driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
+* [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [What is Webb observing now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 03:31:29](https://news.ycombinator.com/item?id=40009143) - [Show HN: A JavaScript library for data visualization in both SVG and Canvas](https://github.com/andrewcourtice/ripl)
 * [2024-04-11, 16:57:13](https://news.ycombinator.com/item?id=40004319) - [The Camorra Never Sleeps (2012)](https://www.vanityfair.com/culture/2012/05/naples-mob-paolo-di-lauro-italy)
