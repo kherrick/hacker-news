@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
 * [2024-04-13, 09:20:28](https://news.ycombinator.com/item?id=40021719) - [The First Beta of Android 15](https://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 * [2024-04-13, 00:20:12](https://news.ycombinator.com/item?id=40019066) - [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
@@ -19,7 +20,6 @@
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Hacked Nvidia 4090 GPU driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 * [2024-04-12, 08:53:16](https://news.ycombinator.com/item?id=40010615) - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
 * [2024-04-12, 07:29:17](https://news.ycombinator.com/item?id=40010221) - [What is Webb observing now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
-* [2024-04-12, 06:46:07](https://news.ycombinator.com/item?id=40009997) - [Organizing OpenStreetMap mapping parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
 * [2024-04-12, 06:14:55](https://news.ycombinator.com/item?id=40009856) - [There’s a 30-year old dead Rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 * [2024-04-12, 03:31:29](https://news.ycombinator.com/item?id=40009143) - [Show HN: A JavaScript library for data visualization in both SVG and Canvas](https://github.com/andrewcourtice/ripl)
 * [2024-04-11, 10:21:26](https://news.ycombinator.com/item?id=40000553) - [HP 200LX and Related Palmtops](https://dfarq.homeip.net/hp-200lx-and-related-palmtops/)
