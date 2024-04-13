@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 04:04:55](https://news.ycombinator.com/item?id=40020395) - [Can Gemini 1.5 read all the Harry Potter books at once?](https://twitter.com/deedydas/status/1778621375592485076/photo/1)
 * [2024-04-13, 01:50:37](https://news.ycombinator.com/item?id=40019704) - [Grok-1.5 Vision Preview](https://x.ai/blog/grok-1.5v)
 * [2024-04-13, 01:04:21](https://news.ycombinator.com/item?id=40019398) - [EVs are lowering Bay Area's carbon footprint](https://news.berkeley.edu/2024/04/04/evs-are-lowering-bay-area-s-carbon-footprint)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
