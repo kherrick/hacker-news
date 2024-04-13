@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 09:29:59](https://news.ycombinator.com/item?id=40021758) - [Is .NET just miles ahead or am I delusional?](https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/)
 * [2024-04-13, 09:07:20](https://news.ycombinator.com/item?id=40021668) - [Why Michael Moorcock Despises Tolkien and C. S. Lewis](https://mythcreants.com/blog/epic-pooh-elric-vs-lord-of-the-rings/)
 * [2024-04-13, 07:12:25](https://news.ycombinator.com/item?id=40021168) - [AnberDeck mod turns Anbernic RG353V game system into a handheld Linux terminal](https://liliputing.com/anberdeck-mod-turns-anbernic-rg353v-game-system-into-a-handheld-linux-terminal/)
 * [2024-04-13, 06:28:48](https://news.ycombinator.com/item?id=40020987) - [Fonts for Complex Data](https://www.typography.com/blog/fonts-for-complex-data)
