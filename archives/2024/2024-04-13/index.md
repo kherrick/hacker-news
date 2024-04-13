@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 22:26:41](https://news.ycombinator.com/item?id=40026732) - [Ford Mustang Mach-E Using BlueCruise at Time of Crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
+* [2024-04-13, 22:10:39](https://news.ycombinator.com/item?id=40026614) - [Mommy](https://github.com/FWDekker/mommy)
 * [2024-04-13, 22:01:00](https://news.ycombinator.com/item?id=40026552) - [Beware of EuroDNS](https://ivdl.co.za/2024/04/14/beware-of-eurodns/)
 * [2024-04-13, 21:18:52](https://news.ycombinator.com/item?id=40026250) - [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
 * [2024-04-13, 21:07:10](https://news.ycombinator.com/item?id=40026150) - [Israel Says Iran Launched Drones at Its Territory in Retaliatory Strike](https://www.nytimes.com/live/2024/04/13/world/israel-iran-gaza-war-news)
