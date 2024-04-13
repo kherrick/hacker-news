@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 19:52:15](https://news.ycombinator.com/item?id=40025531) - [Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
 * [2024-04-13, 19:29:09](https://news.ycombinator.com/item?id=40025362) - [The Stacks Project: A Wikipedia of algebraic geometry (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)
 * [2024-04-13, 19:24:42](https://news.ycombinator.com/item?id=40025339) - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
 * [2024-04-13, 19:19:03](https://news.ycombinator.com/item?id=40025309) - [Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
@@ -7,7 +8,6 @@
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-04-13, 18:59:04](https://news.ycombinator.com/item?id=40025195) - [Show HN: My $1k self-install, off-grid solar backup build for renters](https://sunboxlabs.com)
 * [2024-04-13, 18:50:50](https://news.ycombinator.com/item?id=40025148) - [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html#careful-with-that-lock-eugene)
-* [2024-04-13, 17:46:27](https://news.ycombinator.com/item?id=40024709) - [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)
 * [2024-04-13, 17:00:51](https://news.ycombinator.com/item?id=40024385) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-13, 16:09:10](https://news.ycombinator.com/item?id=40024062) - [The FCC needs to stop 5G fast lanes](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
 * [2024-04-13, 15:17:54](https://news.ycombinator.com/item?id=40023657) - [Show HN: CTRL-F for YouTube Videos](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO)

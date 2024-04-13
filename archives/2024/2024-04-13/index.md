@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
 * [2024-04-13, 20:07:47](https://news.ycombinator.com/item?id=40025617) - [Iran said to begin attack on Israel, launching drones](https://www.timesofisrael.com/liveblog-april-13-2024/)
+* [2024-04-13, 19:52:15](https://news.ycombinator.com/item?id=40025531) - [Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
 * [2024-04-13, 19:29:09](https://news.ycombinator.com/item?id=40025362) - [Wikipedia of Algebraic Geometry Will Forever Be Incomplete. (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)
 * [2024-04-13, 19:24:42](https://news.ycombinator.com/item?id=40025339) - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
 * [2024-04-13, 19:19:03](https://news.ycombinator.com/item?id=40025309) - [Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
