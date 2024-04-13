@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-13, 07:12:25](https://news.ycombinator.com/item?id=40021168) - [AnberDeck mod turns Anbernic RG353V game system into a handheld Linux terminal](https://liliputing.com/anberdeck-mod-turns-anbernic-rg353v-game-system-into-a-handheld-linux-terminal/)
 * [2024-04-13, 06:23:35](https://news.ycombinator.com/item?id=40020961) - [Ubisoft is stripping people's licences for The Crew weeks after its shutdown](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
@@ -17,6 +16,7 @@
 * [2024-04-12, 17:47:44](https://news.ycombinator.com/item?id=40015612) - [Htmx and the Rule of Least Power](https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power/)
 * [2024-04-12, 17:00:17](https://news.ycombinator.com/item?id=40015113) - [Artisan AI (YC W24) Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
 * [2024-04-12, 16:45:09](https://news.ycombinator.com/item?id=40014937) - [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
+* [2024-04-12, 16:41:46](https://news.ycombinator.com/item?id=40014892) - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
 * [2024-04-12, 16:29:01](https://news.ycombinator.com/item?id=40014730) - [Show HN: Using Google Sheets as the back end/APIs of your app](https://www.zerosheets.com/)
 * [2024-04-12, 15:34:07](https://news.ycombinator.com/item?id=40014087) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
 * [2024-04-12, 09:27:58](https://news.ycombinator.com/item?id=40010819) - [Hacked Nvidia 4090 GPU driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
