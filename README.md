@@ -2,7 +2,6 @@
 
 * [2024-04-13, 11:00:09](https://news.ycombinator.com/item?id=40022152) - [Self-Hosted Is Awesome](https://pixeljets.com/blog/self-hosted-is-awesome/)
 * [2024-04-13, 09:29:59](https://news.ycombinator.com/item?id=40021758) - [Is .NET just miles ahead or am I delusional?](https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/)
-* [2024-04-13, 08:55:05](https://news.ycombinator.com/item?id=40021610) - [Germanwings Flight 9525](https://en.wikipedia.org/wiki/Germanwings_Flight_9525)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
@@ -14,6 +13,7 @@
 * [2024-04-12, 20:15:59](https://news.ycombinator.com/item?id=40017176) - [DIY Wi-Fi thermostat from scratch with ESPHome and Home Assistant](https://olegtarasov.me/opentherm-thermostat-esphome/)
 * [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
 * [2024-04-12, 17:47:44](https://news.ycombinator.com/item?id=40015612) - [Htmx and the Rule of Least Power](https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power/)
+* [2024-04-12, 17:33:58](https://news.ycombinator.com/item?id=40015460) - [Ray Tracer in a Boot Sector](https://github.com/nanochess/RayTracer)
 * [2024-04-12, 16:45:09](https://news.ycombinator.com/item?id=40014937) - [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
 * [2024-04-12, 16:41:46](https://news.ycombinator.com/item?id=40014892) - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
 * [2024-04-12, 16:29:01](https://news.ycombinator.com/item?id=40014730) - [Show HN: Using Google Sheets as the back end/APIs of your app](https://www.zerosheets.com/)
