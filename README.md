@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 06:17:42](https://news.ycombinator.com/item?id=40020926) - [Devin AI-first AI software engineer is a big lie?](https://gosummarize.com/youtube/@internetofbugs/debunking-devin-first-ai-software-engineer-upwork-lie-exposed)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:04:55](https://news.ycombinator.com/item?id=40020395) - [Can Gemini 1.5 read all the Harry Potter books at once?](https://twitter.com/deedydas/status/1778621375592485076/photo/1)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
@@ -13,7 +14,6 @@
 * [2024-04-12, 20:15:59](https://news.ycombinator.com/item?id=40017176) - [DIY Wi-Fi thermostat from scratch with ESPHome and Home Assistant](https://olegtarasov.me/opentherm-thermostat-esphome/)
 * [2024-04-12, 19:55:32](https://news.ycombinator.com/item?id=40016985) - [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
 * [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
-* [2024-04-12, 18:06:14](https://news.ycombinator.com/item?id=40015851) - [\"Strong focus on aesthetics\" contributed to collapse of Norway timber bridge](https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/)
 * [2024-04-12, 17:47:44](https://news.ycombinator.com/item?id=40015612) - [Htmx and the Rule of Least Power](https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power/)
 * [2024-04-12, 17:00:17](https://news.ycombinator.com/item?id=40015113) - [Artisan AI (YC W24) Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
 * [2024-04-12, 16:45:09](https://news.ycombinator.com/item?id=40014937) - [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
