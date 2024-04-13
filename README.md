@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-13, 14:20:20](https://news.ycombinator.com/item?id=40023319) - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
+* [2024-04-13, 13:40:37](https://news.ycombinator.com/item?id=40023070) - [Fortran-lang joins NumFOCUS as a sponsored project](https://twitter.com/fortranlang/status/1778953864458174941)
 * [2024-04-13, 12:45:47](https://news.ycombinator.com/item?id=40022801) - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
 * [2024-04-13, 12:17:25](https://news.ycombinator.com/item?id=40022651) - [Why do some people always get lost?](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
-* [2024-04-13, 12:17:03](https://news.ycombinator.com/item?id=40022649) - [Notes on Git's Error Messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
 * [2024-04-13, 12:12:24](https://news.ycombinator.com/item?id=40022628) - [Shape Typing in Python](https://jameshfisher.com/2024/04/12/shape-typing-in-python/)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 * [2024-04-12, 20:28:36](https://news.ycombinator.com/item?id=40017310) - [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/)

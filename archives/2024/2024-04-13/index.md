@@ -9,6 +9,7 @@
 * [2024-04-13, 14:03:20](https://news.ycombinator.com/item?id=40023221) - [The Work-from-Home Era Is Bad for Burglars](https://www.bloomberg.com/opinion/articles/2024-04-13/working-from-home-claims-another-victim-burglars)
 * [2024-04-13, 13:50:17](https://news.ycombinator.com/item?id=40023134) - [OpenTTD 14.0](https://www.openttd.org/news/2024/04/13/openttd-14-0)
 * [2024-04-13, 13:43:44](https://news.ycombinator.com/item?id=40023088) - [Hey, does anyone remember the BBS game my dad wrote? It was called Buccaneer ...](https://hackers.town/@CyberpunkLibrarian/112046696080448828)
+* [2024-04-13, 13:40:37](https://news.ycombinator.com/item?id=40023070) - [Fortran-lang joins NumFOCUS as a sponsored project](https://twitter.com/fortranlang/status/1778953864458174941)
 * [2024-04-13, 12:45:47](https://news.ycombinator.com/item?id=40022801) - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
 * [2024-04-13, 12:17:25](https://news.ycombinator.com/item?id=40022651) - [Why do some people always get lost?](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
