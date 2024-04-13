@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 13:43:44](https://news.ycombinator.com/item?id=40023088) - [Hey, does anyone remember the BBS game my dad wrote? It was called Buccaneer ...](https://hackers.town/@CyberpunkLibrarian/112046696080448828)
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
 * [2024-04-13, 12:03:51](https://news.ycombinator.com/item?id=40022586) - [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
 * [2024-04-13, 05:00:14](https://news.ycombinator.com/item?id=40020626) - [Identical twins both grew up with autism, but took different paths](https://www.npr.org/sections/health-shots/2024/04/04/1242264274/siblings-science-identical-twin-brothers-autism-spectrum)
@@ -8,7 +9,6 @@
 * [2024-04-12, 20:51:11](https://news.ycombinator.com/item?id=40017514) - [Invisibility Cloak](https://www.cs.umd.edu/~tomg/projects/invisible/)
 * [2024-04-12, 20:28:36](https://news.ycombinator.com/item?id=40017310) - [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-12, 20:16:28](https://news.ycombinator.com/item?id=40017180) - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
-* [2024-04-12, 20:15:59](https://news.ycombinator.com/item?id=40017176) - [DIY Wi-Fi thermostat from scratch with ESPHome and Home Assistant](https://olegtarasov.me/opentherm-thermostat-esphome/)
 * [2024-04-12, 19:55:32](https://news.ycombinator.com/item?id=40016985) - [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
 * [2024-04-12, 19:45:40](https://news.ycombinator.com/item?id=40016888) - [Green's Dictionary of Slang](https://greensdictofslang.com/)
 * [2024-04-12, 18:06:14](https://news.ycombinator.com/item?id=40015851) - [\"Strong focus on aesthetics\" contributed to collapse of Norway timber bridge](https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/)
