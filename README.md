@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 11:00:09](https://news.ycombinator.com/item?id=40022152) - [Self-Hosted Is Awesome](https://pixeljets.com/blog/self-hosted-is-awesome/)
 * [2024-04-13, 09:29:59](https://news.ycombinator.com/item?id=40021758) - [Is .NET just miles ahead or am I delusional?](https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/)
 * [2024-04-13, 08:55:05](https://news.ycombinator.com/item?id=40021610) - [Germanwings Flight 9525](https://en.wikipedia.org/wiki/Germanwings_Flight_9525)
-* [2024-04-13, 06:23:35](https://news.ycombinator.com/item?id=40020961) - [Ubisoft is stripping people's licences for The Crew weeks after its shutdown](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
