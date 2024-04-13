@@ -4,7 +4,6 @@
 * [2024-04-13, 14:20:20](https://news.ycombinator.com/item?id=40023319) - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 12:45:47](https://news.ycombinator.com/item?id=40022801) - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
-* [2024-04-13, 12:17:25](https://news.ycombinator.com/item?id=40022651) - [Why do some people always get lost?](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
 * [2024-04-13, 12:12:24](https://news.ycombinator.com/item?id=40022628) - [Shape Typing in Python](https://jameshfisher.com/2024/04/12/shape-typing-in-python/)
 * [2024-04-13, 12:03:51](https://news.ycombinator.com/item?id=40022586) - [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
 * [2024-04-12, 23:19:14](https://news.ycombinator.com/item?id=40018630) - [The Reconstruction of Ulysses S Grant (2017)](https://thebrowser.com/r/2cc28fad?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
@@ -28,6 +27,7 @@
 * [2024-04-11, 09:15:59](https://news.ycombinator.com/item?id=40000104) - [Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++](https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/)
 * [2024-04-11, 08:23:12](https://news.ycombinator.com/item?id=39999713) - [On Self-Respect (1961)](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
 * [2024-04-11, 07:04:30](https://news.ycombinator.com/item?id=39999159) - [Running DOS Apps on Windows from 1.0 to 95 (2020)](https://gekk.info/articles/dosapps.html)
+* [2024-04-11, 06:11:06](https://news.ycombinator.com/item?id=39998903) - [Backyard Birding (2023)](https://worldsensorium.com/backyard-birding/)
 * [2024-04-11, 04:48:24](https://news.ycombinator.com/item?id=39998483) - [Commercial wing in ground effect plane (2018)](https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html)
 * [2024-04-11, 04:32:15](https://news.ycombinator.com/item?id=39998396) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 
