@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 23:42:08](https://news.ycombinator.com/item?id=40018785) - [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
 * [2024-04-12, 22:17:21](https://news.ycombinator.com/item?id=40018246) - [I Optimised My Game Engine Up to 12000 FPS [video]](https://www.youtube.com/watch?v=40JzyaOYJeY)
 * [2024-04-12, 22:11:34](https://news.ycombinator.com/item?id=40018199) - [YouTube has a new design on desktop and everyone is mad about it](https://www.androidpolice.com/youtube-new-desktop-design-nobody-likes/)
 * [2024-04-12, 21:54:45](https://news.ycombinator.com/item?id=40018087) - [Defeated CEOs are now conceding hybrid working is here to stay](https://fortune.com/2024/04/12/kpmg-study-us-ceos-accept-hybrid-working-employee-return-to-office/)
 * [2024-04-12, 21:21:59](https://news.ycombinator.com/item?id=40017804) - [\"Highly capable\" hackers root corporate networks by exploiting firewall 0-day](https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/)
+* [2024-04-12, 20:28:36](https://news.ycombinator.com/item?id=40017310) - [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-12, 20:18:11](https://news.ycombinator.com/item?id=40017199) - [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
 * [2024-04-12, 20:16:28](https://news.ycombinator.com/item?id=40017180) - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
 * [2024-04-12, 20:05:31](https://news.ycombinator.com/item?id=40017075) - [Tesla Model 3 Traps TikToker Inside 115-Degree Car During a Software Update](https://jalopnik.com/a-tiktoker-got-trapped-inside-her-115-degree-tesla-mode-1851404777)

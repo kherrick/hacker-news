@@ -64,6 +64,7 @@
 * [2024-04-11, 10:24:20](https://news.ycombinator.com/item?id=40000576) - [TrueNAS CORE 13 is the end of the FreeBSD version](https://www.theregister.com/2024/03/18/truenas_abandons_freebsd/)
 * [2024-04-11, 10:24:12](https://news.ycombinator.com/item?id=40000574) - [Scaling will never get us to AGI](https://garymarcus.substack.com/p/breaking-news-scaling-will-never)
 * [2024-04-11, 10:21:58](https://news.ycombinator.com/item?id=40000558) - [Computer scientist wins Turing Award for seminal work on randomness](https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/)
+* [2024-04-11, 10:21:26](https://news.ycombinator.com/item?id=40000553) - [HP 200LX and Related Palmtops](https://dfarq.homeip.net/hp-200lx-and-related-palmtops/)
 * [2024-04-11, 10:05:55](https://news.ycombinator.com/item?id=40000443) - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 * [2024-04-11, 10:04:13](https://news.ycombinator.com/item?id=40000430) - [Ukraine Is the First \"Hackers' War\"](https://spectrum.ieee.org/ukraine-hackers-war)
 * [2024-04-11, 09:58:26](https://news.ycombinator.com/item?id=40000397) - [Plato Document Reader for Kobo E-Readers](https://github.com/baskerville/plato)
