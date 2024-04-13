@@ -51,6 +51,7 @@
 * [2024-04-11, 12:31:28](https://news.ycombinator.com/item?id=40001414) - [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
 * [2024-04-11, 12:28:56](https://news.ycombinator.com/item?id=40001398) - [McCarthy's Ambiguous Operator (2005)](http://www.randomhacks.net/2005/10/11/amb-operator/)
 * [2024-04-11, 12:19:14](https://news.ycombinator.com/item?id=40001334) - [Show HN: CNDI – DevOps for Data Teams](https://github.com/polyseam/cndi)
+* [2024-04-11, 12:02:28](https://news.ycombinator.com/item?id=40001222) - [Ask HN: How can I learn about manufacturing?](https://news.ycombinator.com/item?id=40001222)
 * [2024-04-11, 12:00:32](https://news.ycombinator.com/item?id=40001209) - [Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
 * [2024-04-11, 11:57:46](https://news.ycombinator.com/item?id=40001193) - [Transformers.js: State-of-the-art Machine Learning for the web](https://github.com/xenova/transformers.js)
 * [2024-04-11, 11:50:57](https://news.ycombinator.com/item?id=40001150) - [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
