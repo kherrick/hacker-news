@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 01:50:37](https://news.ycombinator.com/item?id=40019704) - [Grok-1.5 Vision Preview](https://x.ai/blog/grok-1.5v)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 * [2024-04-13, 00:27:12](https://news.ycombinator.com/item?id=40019124) - [Japanese Police Arrest Man for Tampering with Pokémon Violet Save Data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
 * [2024-04-13, 00:09:01](https://news.ycombinator.com/item?id=40018990) - [I Continue to No Longer Attend Vintage Computer Festivals](http://ascii.textfiles.com/archives/5591)

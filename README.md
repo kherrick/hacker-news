@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-13, 01:50:37](https://news.ycombinator.com/item?id=40019704) - [Grok-1.5 Vision Preview](https://x.ai/blog/grok-1.5v)
 * [2024-04-13, 00:39:00](https://news.ycombinator.com/item?id=40019217) - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 * [2024-04-13, 00:27:12](https://news.ycombinator.com/item?id=40019124) - [Japanese Police Arrest Man for Tampering with Pokémon Violet Save Data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
 * [2024-04-13, 00:09:01](https://news.ycombinator.com/item?id=40018990) - [I Continue to No Longer Attend Vintage Computer Festivals](http://ascii.textfiles.com/archives/5591)
@@ -24,7 +25,6 @@
 * [2024-04-11, 12:02:28](https://news.ycombinator.com/item?id=40001222) - [Ask HN: How can I learn about manufacturing?](https://news.ycombinator.com/item?id=40001222)
 * [2024-04-11, 10:21:26](https://news.ycombinator.com/item?id=40000553) - [HP 200LX and Related Palmtops](https://dfarq.homeip.net/hp-200lx-and-related-palmtops/)
 * [2024-04-11, 09:04:44](https://news.ycombinator.com/item?id=40000022) - [Show HN: ClassroomIO – an in-browser programming environment for education](https://www.classroomio.site/)
-* [2024-04-11, 04:18:20](https://news.ycombinator.com/item?id=39998335) - [Ask HN: What resources to learn tech and software in manufacturing?](https://news.ycombinator.com/item?id=39998335)
 * [2024-04-10, 11:39:24](https://news.ycombinator.com/item?id=39989552) - [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
 * [2024-04-10, 08:35:24](https://news.ycombinator.com/item?id=39988345) - [Programming Language Scalability](https://blog.sulami.xyz/posts/programming-language-scalability/)
 * [2024-04-10, 04:13:33](https://news.ycombinator.com/item?id=39986883) - [Orwell’s Escape](https://www.theatlantic.com/magazine/archive/2024/05/george-orwell-1984-isle-of-jura/677843/)
