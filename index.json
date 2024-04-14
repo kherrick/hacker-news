@@ -1,11 +1,41 @@
 [
   [
     [
+      "2024-04-14, 02:15:15",
+      "https://news.ycombinator.com/item?id=40028118"
+    ],
+    [
+      "Show HN: Comprehensive inter-process communication (IPC) toolkit in modern C++",
+      "https://github.com/Flow-IPC"
+    ]
+  ],
+  [
+    [
+      "2024-04-14, 00:21:48",
+      "https://news.ycombinator.com/item?id=40027526"
+    ],
+    [
+      "US finalizes rules for 'forever chemicals' in drinking water",
+      "https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards"
+    ]
+  ],
+  [
+    [
+      "2024-04-13, 23:48:23",
+      "https://news.ycombinator.com/item?id=40027287"
+    ],
+    [
+      "Dano is a wrapper for FFmpeg that checksums the internal file streams",
+      "https://github.com/kimono-koans/dano"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 23:42:28",
       "https://news.ycombinator.com/item?id=40027249"
     ],
     [
-      "Super Mario 64's Invisible Walls Explained Once and for All",
+      "Super Mario 64's invisible walls explained [video]",
       "https://www.youtube.com/watch?v=YsXCVsDFiXA"
     ]
   ],
@@ -17,16 +47,6 @@
     [
       "Ford Mustang Mach-E using BlueCruise at time of crash: NTSB",
       "https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 21:53:47",
-      "https://news.ycombinator.com/item?id=40026499"
-    ],
-    [
-      "The little ssh that sometimes couldn't (2012)",
-      "https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html"
     ]
   ],
   [
@@ -76,7 +96,7 @@
     ],
     [
       "Careful with That Lock, Eugene",
-      "https://kaveland.no/careful-with-that-lock-eugene.html#careful-with-that-lock-eugene"
+      "https://kaveland.no/careful-with-that-lock-eugene.html"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40024393"
     ],
     [
-      "OpenBSD Is a Cozy Operating System",
+      "OpenBSD is a cozy operating system",
       "https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/"
     ]
   ],
@@ -156,7 +176,7 @@
     ],
     [
       "A disgruntled federal employee's 1980s desk calendar (2018)",
-      "https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/"
+      "https://www.theparisreview.org/blog/2018/06/13/a-disgruntled-federal-employees-1980s-desk-calendar/"
     ]
   ],
   [
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2024-04-13, 05:00:14",
+      "https://news.ycombinator.com/item?id=40020626"
+    ],
+    [
+      "Identical twins both grew up with autism, but took different paths",
+      "https://www.npr.org/sections/health-shots/2024/04/04/1242264274/siblings-science-identical-twin-brothers-autism-spectrum"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 04:55:41",
       "https://news.ycombinator.com/item?id=40020601"
     ],
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2024-04-12, 23:19:14",
-      "https://news.ycombinator.com/item?id=40018630"
+      "2024-04-12, 19:45:40",
+      "https://news.ycombinator.com/item?id=40016888"
     ],
     [
-      "The Reconstruction of Ulysses S Grant (2017)",
-      "https://www.damninteresting.com/the-reconstruction-of-ulysses-s-grant/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 20:53:42",
-      "https://news.ycombinator.com/item?id=40017539"
-    ],
-    [
-      "Common pitfalls of digital health startups and advice on how to avoid them",
-      "https://bettychang.xyz/advice-for-digital-health-founders/"
+      "Green's Dictionary of Slang",
+      "https://greensdictofslang.com/"
     ]
   ],
   [
@@ -235,7 +255,7 @@
       "https://news.ycombinator.com/item?id=40015460"
     ],
     [
-      "Ray Tracer in a Boot Sector",
+      "Ray tracer in a boot sector",
       "https://github.com/nanochess/RayTracer"
     ]
   ],
@@ -251,52 +271,32 @@
   ],
   [
     [
-      "2024-04-12, 16:27:34",
-      "https://news.ycombinator.com/item?id=40014708"
+      "2024-04-12, 10:42:04",
+      "https://news.ycombinator.com/item?id=40011138"
     ],
     [
-      "Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity",
-      "https://blog.owulveryck.info/2024/04/09/data-as-a-product-and-data-contract-an-evolutionary-approach-to-data-maturity.html"
+      "How I prepare a talk for a tech conference (2022)",
+      "https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/"
     ]
   ],
   [
     [
-      "2024-04-12, 16:09:28",
-      "https://news.ycombinator.com/item?id=40014486"
+      "2024-04-12, 09:27:58",
+      "https://news.ycombinator.com/item?id=40010819"
     ],
     [
-      "Finding and fixing standard misconceptions about program behavior",
-      "https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html"
+      "Hacked Nvidia 4090 GPU driver to enable P2P",
+      "https://github.com/tinygrad/open-gpu-kernel-modules"
     ]
   ],
   [
     [
-      "2024-04-12, 08:52:01",
-      "https://news.ycombinator.com/item?id=40010606"
+      "2024-04-11, 07:24:43",
+      "https://news.ycombinator.com/item?id=39999273"
     ],
     [
-      "Ten Years and Counting: My Affair with Microservices",
-      "https://blog.allegro.tech/2024/04/ten-years-microservices.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 21:42:12",
-      "https://news.ycombinator.com/item?id=40007120"
-    ],
-    [
-      "Asymmetric Routing Around the Firewall",
-      "https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 09:15:59",
-      "https://news.ycombinator.com/item?id=40000104"
-    ],
-    [
-      "Flow-IPC: Open-source toolkit for low-latency inter-process communication in C++",
-      "https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/"
+      "Scientists use biodegradable straws to protect lab-grown coral from hungry fish",
+      "https://apnews.com/article/coral-restoration-biodegradable-straws-ae23b903da2f91becd489d40e8cd9e17"
     ]
   ]
 ]
