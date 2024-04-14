@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 14:35:56](https://news.ycombinator.com/item?id=40031370) - [Show HN: After so many ups and downs, InvoicingAPI is finally ready](https://invoicingapi.com)
+* [2024-04-14, 14:35:40](https://news.ycombinator.com/item?id=40031367) - [Fedora 41 will unify bin and sbin](https://fedoraproject.org/wiki/Changes/Unify_bin_and_sbin)
+* [2024-04-14, 14:35:25](https://news.ycombinator.com/item?id=40031365) - [A Day in the Life of a Walmart Manager Who Makes $240k a Year](https://www.wsj.com/business/retail/a-day-in-the-life-of-a-walmart-manager-who-makes-240-000-a-year-3248037f)
+* [2024-04-14, 14:24:02](https://news.ycombinator.com/item?id=40031263) - [Homicides Are Plummeting in American Cities](https://www.wsj.com/us-news/murder-rates-down-new-york-san-francisco-philadelphia-508b6855)
+* [2024-04-14, 14:23:25](https://news.ycombinator.com/item?id=40031256) - [Roku says hackers gained access to 576k accounts in latest data-breach incident](https://www.wsj.com/tech/roku-says-hackers-gained-access-to-576-000-accounts-in-latest-data-breach-incident-8f73ab15)
+* [2024-04-14, 13:55:34](https://news.ycombinator.com/item?id=40031058) - [Broadcom has willingly dug its VMware hole, says cloud CEO [video]](https://www.theregister.com/2024/04/08/broadcom_vmware_civo/)
+* [2024-04-14, 13:26:54](https://news.ycombinator.com/item?id=40030901) - [Wikipedia Abuse Filter](https://en.wikipedia.org/wiki/Special:AbuseFilter/?deletedfilters=hide&furtheroptions%5B%5D=hideprivate&furtheroptions%5B%5D=hidedisabled&limit=500)
 * [2024-04-14, 13:22:26](https://news.ycombinator.com/item?id=40030881) - [Taking CO2 out of the air would be an expensive way to fight climate change](https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report)
 * [2024-04-14, 13:14:19](https://news.ycombinator.com/item?id=40030853) - [Many FBI agents are struggling to make ends meet. Housing costs are to blame](https://www.npr.org/2024/04/11/1243982287/fbi-agents-housing-costs)
 * [2024-04-14, 12:45:18](https://news.ycombinator.com/item?id=40030721) - [The Guide to Stock Options Conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
