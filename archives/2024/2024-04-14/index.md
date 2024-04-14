@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 07:13:20](https://news.ycombinator.com/item?id=40029283) - [Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-14, 03:10:40](https://news.ycombinator.com/item?id=40028338) - [Making Truth Social Comply with the AGPL](https://boehs.org/node/truth-social)
 * [2024-04-14, 03:01:24](https://news.ycombinator.com/item?id=40028308) - [1,800-year-old Roman statue discovered in parking lot](https://www.cnn.com/2024/03/19/style/roman-statue-parking-lot-intl-scn-scli/index.html)
