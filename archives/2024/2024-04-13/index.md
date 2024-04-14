@@ -30,6 +30,7 @@
 * [2024-04-13, 19:14:37](https://news.ycombinator.com/item?id=40025281) - [For Go programmers, a cheap CGo pattern to give Jia Tan a headache](https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a)
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-04-13, 19:05:48](https://news.ycombinator.com/item?id=40025225) - [3-Coloring the Vertices of an Icosahedron](https://blog.plover.com/math/colored-icosahedron.html)
+* [2024-04-13, 18:59:36](https://news.ycombinator.com/item?id=40025198) - [The Microsoft-Dilemma – Europe as a Software Colony – Full Documentary](https://kolektiva.media/w/ra7bfqXCyqBFn7dSFhneFy)
 * [2024-04-13, 18:59:04](https://news.ycombinator.com/item?id=40025195) - [Show HN: My $1k self-install, off-grid solar backup build for renters](https://sunboxlabs.com)
 * [2024-04-13, 18:50:50](https://news.ycombinator.com/item?id=40025148) - [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html)
 * [2024-04-13, 18:50:50](https://news.ycombinator.com/item?id=40025148) - [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html#careful-with-that-lock-eugene)
