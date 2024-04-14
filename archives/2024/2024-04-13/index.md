@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 23:48:23](https://news.ycombinator.com/item?id=40027287) - [Dano is a wrapper for FFmpeg that checksums the internal file streams](https://github.com/kimono-koans/dano)
 * [2024-04-13, 23:42:28](https://news.ycombinator.com/item?id=40027249) - [Super Mario 64's Invisible Walls Explained Once and for All](https://www.youtube.com/watch?v=YsXCVsDFiXA)
 * [2024-04-13, 23:41:19](https://news.ycombinator.com/item?id=40027240) - [I stopped paying taxes a decade ago. The results shocked me](https://slate.com/human-interest/2024/04/taxes-file-pay-2024-stop-paying-irs.html)
 * [2024-04-13, 23:33:01](https://news.ycombinator.com/item?id=40027182) - [Google kills \"One\" VPN service](https://arstechnica.com/gadgets/2024/04/google-is-killing-off-its-one-vpn-service/)
@@ -30,6 +31,7 @@
 * [2024-04-13, 19:10:39](https://news.ycombinator.com/item?id=40025261) - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-04-13, 19:05:48](https://news.ycombinator.com/item?id=40025225) - [3-Coloring the Vertices of an Icosahedron](https://blog.plover.com/math/colored-icosahedron.html)
 * [2024-04-13, 18:59:04](https://news.ycombinator.com/item?id=40025195) - [Show HN: My $1k self-install, off-grid solar backup build for renters](https://sunboxlabs.com)
+* [2024-04-13, 18:50:50](https://news.ycombinator.com/item?id=40025148) - [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html)
 * [2024-04-13, 18:50:50](https://news.ycombinator.com/item?id=40025148) - [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html#careful-with-that-lock-eugene)
 * [2024-04-13, 18:31:33](https://news.ycombinator.com/item?id=40025037) - [\"The Tourists Have Taken Everything\" Laments Japanese Resident as Retro Runs Dry](https://www.timeextension.com/news/2024/04/the-tourists-have-taken-everything-laments-japanese-resident-as-retro-runs-dry)
 * [2024-04-13, 17:46:27](https://news.ycombinator.com/item?id=40024709) - [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)
@@ -54,6 +56,7 @@
 * [2024-04-13, 13:40:37](https://news.ycombinator.com/item?id=40023070) - [Fortran-lang joins NumFOCUS as a sponsored project](https://twitter.com/fortranlang/status/1778953864458174941)
 * [2024-04-13, 13:39:50](https://news.ycombinator.com/item?id=40023065) - [How games are used to control you](https://unherd.com/2024/04/how-games-are-used-to-control-you/)
 * [2024-04-13, 12:45:47](https://news.ycombinator.com/item?id=40022801) - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
+* [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://www.theparisreview.org/blog/2018/06/13/a-disgruntled-federal-employees-1980s-desk-calendar/)
 * [2024-04-13, 12:27:54](https://news.ycombinator.com/item?id=40022709) - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
 * [2024-04-13, 12:17:25](https://news.ycombinator.com/item?id=40022651) - [Why do some people always get lost?](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
 * [2024-04-13, 12:17:03](https://news.ycombinator.com/item?id=40022649) - [Notes on Git's Error Messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
