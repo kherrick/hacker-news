@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 23:42:28](https://news.ycombinator.com/item?id=40027249) - [Super Mario 64's Invisible Walls Explained Once and for All](https://www.youtube.com/watch?v=YsXCVsDFiXA)
 * [2024-04-13, 23:41:19](https://news.ycombinator.com/item?id=40027240) - [I stopped paying taxes a decade ago. The results shocked me](https://slate.com/human-interest/2024/04/taxes-file-pay-2024-stop-paying-irs.html)
 * [2024-04-13, 23:33:01](https://news.ycombinator.com/item?id=40027182) - [Google kills \"One\" VPN service](https://arstechnica.com/gadgets/2024/04/google-is-killing-off-its-one-vpn-service/)
 * [2024-04-13, 23:10:23](https://news.ycombinator.com/item?id=40027061) - [We cut costs by 70% by moving from GCP and CockroachDB to Hetzner and PostgreSQL](https://blog.mikoto.io/building-your-own-cloud-for-fun-and-profit)
@@ -11,6 +12,7 @@
 * [2024-04-13, 22:26:41](https://news.ycombinator.com/item?id=40026732) - [Ford Mustang Mach-E Using BlueCruise at Time of Crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
 * [2024-04-13, 22:10:39](https://news.ycombinator.com/item?id=40026614) - [Mommy](https://github.com/FWDekker/mommy)
 * [2024-04-13, 22:01:00](https://news.ycombinator.com/item?id=40026552) - [Beware of EuroDNS](https://ivdl.co.za/2024/04/14/beware-of-eurodns/)
+* [2024-04-13, 21:53:47](https://news.ycombinator.com/item?id=40026499) - [The little ssh that sometimes couldn't (2012)](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 * [2024-04-13, 21:53:47](https://news.ycombinator.com/item?id=40026499) - [Debugging the little SSH that sometimes couldn't](http://beza1e1.tuxen.de/lore/little_ssh_couldnt.html)
 * [2024-04-13, 21:18:52](https://news.ycombinator.com/item?id=40026250) - [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
 * [2024-04-13, 21:07:10](https://news.ycombinator.com/item?id=40026150) - [Israel Says Iran Launched Drones at Its Territory in Retaliatory Strike](https://www.nytimes.com/live/2024/04/13/world/israel-iran-gaza-war-news)
@@ -37,6 +39,7 @@
 * [2024-04-13, 16:42:56](https://news.ycombinator.com/item?id=40024273) - [AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music](https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/)
 * [2024-04-13, 16:22:09](https://news.ycombinator.com/item?id=40024146) - [China develops photonic AI chip](https://www.science.org/doi/10.1126/science.adl1203)
 * [2024-04-13, 16:09:10](https://news.ycombinator.com/item?id=40024062) - [Harmful 5G Fast Lanes Are Coming; the FCC Needs to Stop Them](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
+* [2024-04-13, 15:48:06](https://news.ycombinator.com/item?id=40023892) - [Old CSS, new CSS (2020)](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 * [2024-04-13, 15:17:54](https://news.ycombinator.com/item?id=40023657) - [Show HN: CTRL-F for YouTube Videos](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO)
 * [2024-04-13, 14:51:29](https://news.ycombinator.com/item?id=40023512) - [Why Do We Have Such Terrible Evidence on Homework Effectiveness?](https://www.astralcodexten.com/p/nobody-knows-how-well-homework-works)
 * [2024-04-13, 14:44:34](https://news.ycombinator.com/item?id=40023471) - [Florence Museum Won Suit Against Publisher That Used Michelangelo's David Image](https://news.artnet.com/art-world/florence-gallerie-dellaccademia-wins-david-lawsuit-2313262)
