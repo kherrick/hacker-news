@@ -1,32 +1,22 @@
 [
   [
     [
-      "2024-04-13, 23:41:19",
-      "https://news.ycombinator.com/item?id=40027240"
+      "2024-04-13, 23:42:28",
+      "https://news.ycombinator.com/item?id=40027249"
     ],
     [
-      "I stopped paying taxes a decade ago. The results shocked me",
-      "https://slate.com/human-interest/2024/04/taxes-file-pay-2024-stop-paying-irs.html"
+      "Super Mario 64's Invisible Walls Explained Once and for All",
+      "https://www.youtube.com/watch?v=YsXCVsDFiXA"
     ]
   ],
   [
     [
-      "2024-04-13, 23:10:23",
-      "https://news.ycombinator.com/item?id=40027061"
+      "2024-04-13, 22:26:41",
+      "https://news.ycombinator.com/item?id=40026732"
     ],
     [
-      "We cut costs by 70% by moving from GCP and CockroachDB to Hetzner and PostgreSQL",
-      "https://blog.mikoto.io/building-your-own-cloud-for-fun-and-profit"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 22:32:54",
-      "https://news.ycombinator.com/item?id=40026782"
-    ],
-    [
-      "Turn entire websites into LLM-ready data",
-      "https://www.firecrawl.dev/"
+      "Ford Mustang Mach-E using BlueCruise at time of crash: NTSB",
+      "https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/"
     ]
   ],
   [
@@ -35,28 +25,8 @@
       "https://news.ycombinator.com/item?id=40026499"
     ],
     [
-      "Debugging the little SSH that sometimes couldn't",
-      "http://beza1e1.tuxen.de/lore/little_ssh_couldnt.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 21:18:52",
-      "https://news.ycombinator.com/item?id=40026250"
-    ],
-    [
-      "Kerodon – an online resource for homotopy-coherent mathematics",
-      "https://kerodon.net/"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 20:27:27",
-      "https://news.ycombinator.com/item?id=40025783"
-    ],
-    [
-      "Who is hiring interns (April 2024)",
-      "https://news.ycombinator.com/item?id=40025783"
+      "The little ssh that sometimes couldn't (2012)",
+      "https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html"
     ]
   ],
   [
@@ -81,22 +51,22 @@
   ],
   [
     [
+      "2024-04-13, 19:24:42",
+      "https://news.ycombinator.com/item?id=40025339"
+    ],
+    [
+      "Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula",
+      "https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 19:10:39",
       "https://news.ycombinator.com/item?id=40025261"
     ],
     [
       "The darker side of being a doctor",
       "https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 18:59:04",
-      "https://news.ycombinator.com/item?id=40025195"
-    ],
-    [
-      "Show HN: My $1k self-install, off-grid solar backup build for renters",
-      "https://sunboxlabs.com"
     ]
   ],
   [
@@ -141,6 +111,16 @@
   ],
   [
     [
+      "2024-04-13, 15:48:06",
+      "https://news.ycombinator.com/item?id=40023892"
+    ],
+    [
+      "Old CSS, new CSS (2020)",
+      "https://eev.ee/blog/2020/02/01/old-css-new-css/"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 15:17:54",
       "https://news.ycombinator.com/item?id=40023657"
     ],
@@ -157,16 +137,6 @@
     [
       "Florence museum won suit against publisher that used Michelangelo's David image",
       "https://news.artnet.com/art-world/florence-gallerie-dellaccademia-wins-david-lawsuit-2313262"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 14:31:05",
-      "https://news.ycombinator.com/item?id=40023382"
-    ],
-    [
-      "Daily-Driving a Blackberry in 2023",
-      "https://www.scd31.com/posts/blackberry-in-2023"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2024-04-13, 12:12:24",
+      "https://news.ycombinator.com/item?id=40022628"
+    ],
+    [
+      "Shape typing in Python",
+      "https://jameshfisher.com/2024/04/12/shape-typing-in-python/"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 12:03:51",
       "https://news.ycombinator.com/item?id=40022586"
     ],
@@ -217,6 +197,26 @@
     [
       "The Arc Product-Market Fit Framework",
       "https://www.sequoiacap.com/article/pmf-framework/"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 23:19:14",
+      "https://news.ycombinator.com/item?id=40018630"
+    ],
+    [
+      "The Reconstruction of Ulysses S Grant (2017)",
+      "https://www.damninteresting.com/the-reconstruction-of-ulysses-s-grant/"
+    ]
+  ],
+  [
+    [
+      "2024-04-12, 20:53:42",
+      "https://news.ycombinator.com/item?id=40017539"
+    ],
+    [
+      "Common pitfalls of digital health startups and advice on how to avoid them",
+      "https://bettychang.xyz/advice-for-digital-health-founders/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-04-12, 13:40:29",
-      "https://news.ycombinator.com/item?id=40012738"
+      "2024-04-12, 16:27:34",
+      "https://news.ycombinator.com/item?id=40014708"
     ],
     [
-      "When an antibiotic fails: Scientists are using AI to target 'sleeper' bacteria",
-      "https://phys.org/news/2024-04-antibiotic-scientists-ai-sleeper-bacteria.html"
+      "Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity",
+      "https://blog.owulveryck.info/2024/04/09/data-as-a-product-and-data-contract-an-evolutionary-approach-to-data-maturity.html"
     ]
   ],
   [
     [
-      "2024-04-12, 10:42:04",
-      "https://news.ycombinator.com/item?id=40011138"
+      "2024-04-12, 16:09:28",
+      "https://news.ycombinator.com/item?id=40014486"
     ],
     [
-      "How I prepare a talk for a tech conference (2022)",
-      "https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/"
+      "Finding and fixing standard misconceptions about program behavior",
+      "https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-04-11, 11:57:57",
-      "https://news.ycombinator.com/item?id=40001194"
+      "2024-04-11, 21:42:12",
+      "https://news.ycombinator.com/item?id=40007120"
     ],
     [
-      "Pylyzer – A fast static code analyzer and language server for Python",
-      "https://github.com/mtshiba/pylyzer"
+      "Asymmetric Routing Around the Firewall",
+      "https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/"
     ]
   ],
   [
