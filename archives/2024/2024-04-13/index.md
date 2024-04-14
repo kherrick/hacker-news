@@ -80,6 +80,7 @@
 * [2024-04-13, 04:55:41](https://news.ycombinator.com/item?id=40020601) - [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
+* [2024-04-13, 04:06:44](https://news.ycombinator.com/item?id=40020402) - [How to Determine the Error of an Air Quality Sensor?](https://www.airgradient.com/blog/how-to-determine-error-of-sensor/)
 * [2024-04-13, 04:05:47](https://news.ycombinator.com/item?id=40020398) - [Wall Mounted Can Organizer (2019)](https://www.ana-white.com/woodworking-projects/wall-mounted-can-organizer)
 * [2024-04-13, 04:04:55](https://news.ycombinator.com/item?id=40020395) - [Can Gemini 1.5 read all the Harry Potter books at once?](https://twitter.com/deedydas/status/1778621375592485076/photo/1)
 * [2024-04-13, 01:50:37](https://news.ycombinator.com/item?id=40019704) - [Grok-1.5 Vision Preview](https://x.ai/blog/grok-1.5v)

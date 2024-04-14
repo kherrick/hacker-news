@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 09:26:58](https://news.ycombinator.com/item?id=40029878) - [Show HN: I made a site that lets you make interactive demos for free](https://www.demopond.com/)
+* [2024-04-14, 08:30:09](https://news.ycombinator.com/item?id=40029628) - [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
+* [2024-04-14, 08:23:10](https://news.ycombinator.com/item?id=40029592) - [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
 * [2024-04-14, 07:13:20](https://news.ycombinator.com/item?id=40029283) - [Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-14, 03:10:40](https://news.ycombinator.com/item?id=40028338) - [Making Truth Social Comply with the AGPL](https://boehs.org/node/truth-social)
