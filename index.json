@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-04-14, 02:14:36",
+      "https://news.ycombinator.com/item?id=40028111"
+    ],
+    [
+      "Show HN: PostgreSQL Index Advisor",
+      "https://github.com/supabase/index_advisor"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 23:48:23",
       "https://news.ycombinator.com/item?id=40027287"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2024-04-13, 12:17:25",
-      "https://news.ycombinator.com/item?id=40022651"
+      "2024-04-13, 05:17:58",
+      "https://news.ycombinator.com/item?id=40020702"
     ],
     [
-      "Research into why some people have a better sense of direction",
-      "https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont"
+      "Artificial Intelligence How Do Machines 'Grok' Data",
+      "https://www.quantamagazine.org/how-do-machines-grok-data-20240412/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How I prepare a talk for a tech conference (2022)",
       "https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 09:27:58",
-      "https://news.ycombinator.com/item?id=40010819"
-    ],
-    [
-      "Hacked Nvidia 4090 GPU driver to enable P2P",
-      "https://github.com/tinygrad/open-gpu-kernel-modules"
     ]
   ],
   [
