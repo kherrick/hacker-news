@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 13:22:26](https://news.ycombinator.com/item?id=40030881) - [Taking CO2 out of the air would be an expensive way to fight climate change](https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report)
+* [2024-04-14, 13:14:19](https://news.ycombinator.com/item?id=40030853) - [Many FBI agents are struggling to make ends meet. Housing costs are to blame](https://www.npr.org/2024/04/11/1243982287/fbi-agents-housing-costs)
+* [2024-04-14, 12:45:18](https://news.ycombinator.com/item?id=40030721) - [The Guide to Stock Options Conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
 * [2024-04-14, 09:26:58](https://news.ycombinator.com/item?id=40029878) - [Show HN: I made a site that lets you make interactive demos for free](https://www.demopond.com/)
 * [2024-04-14, 08:30:09](https://news.ycombinator.com/item?id=40029628) - [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
 * [2024-04-14, 08:23:10](https://news.ycombinator.com/item?id=40029592) - [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
