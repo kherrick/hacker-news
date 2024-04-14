@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 22:33:03](https://news.ycombinator.com/item?id=40035084) - [Swatch Internet Time](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
+* [2024-04-14, 22:23:11](https://news.ycombinator.com/item?id=40035002) - [Ask HN: What movies changed your perception of reality or life?](https://news.ycombinator.com/item?id=40035002)
+* [2024-04-14, 22:19:03](https://news.ycombinator.com/item?id=40034972) - [Ask HN: Is RAG the Future of LLMs?](https://news.ycombinator.com/item?id=40034972)
 * [2024-04-14, 21:35:51](https://news.ycombinator.com/item?id=40034699) - [U.S. Steel Shareholders Approve Sale to Japan's Nippon Steel](https://www.wsj.com/business/deals/u-s-steel-shareholders-approve-sale-to-japans-nippon-steel-3e1dec9e)
 * [2024-04-14, 21:18:00](https://news.ycombinator.com/item?id=40034567) - [I did crack my screen once but it was on purpose](https://twitter.com/mitchellh/status/1779617537162178614)
 * [2024-04-14, 21:05:45](https://news.ycombinator.com/item?id=40034480) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
 * [2024-04-14, 20:58:18](https://news.ycombinator.com/item?id=40034411) - [Senate Commerce Committee chair Maria Cantwell upended privacy bills for years](https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/)
+* [2024-04-14, 20:24:07](https://news.ycombinator.com/item?id=40034140) - [The Airship to Orbit Project](https://www.jpaerospace.com/ATO/ATO.html)
 * [2024-04-14, 20:12:27](https://news.ycombinator.com/item?id=40034045) - [My cat alerted me to a DDoS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack)
 * [2024-04-14, 19:52:02](https://news.ycombinator.com/item?id=40033870) - [Emacs 2011-2023](https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html)
 * [2024-04-14, 19:27:01](https://news.ycombinator.com/item?id=40033659) - [A primer on x86 by Casey Muratori and The Primeagen [video]](https://www.youtube.com/watch?v=xCBrtopAG80)
@@ -17,6 +21,7 @@
 * [2024-04-14, 19:03:58](https://news.ycombinator.com/item?id=40033490) - [Show HN: I made a tool to clean and convert any webpage to Markdown](https://markdowndown.vercel.app/)
 * [2024-04-14, 19:00:31](https://news.ycombinator.com/item?id=40033465) - [Turning off electrical grids to prevent wildfire− a complex, technical operation](https://theconversation.com/colorado-is-latest-state-to-try-turning-off-the-electrical-grid-to-prevent-wildfires-a-complex-technical-operation-pioneered-in-california-227639)
 * [2024-04-14, 18:50:28](https://news.ycombinator.com/item?id=40033378) - [Mysterious Moving Pointers](https://blomqu.ist/posts/2024/move/)
+* [2024-04-14, 18:36:31](https://news.ycombinator.com/item?id=40033268) - [Good News Against Dengue](https://www.science.org/content/blog-post/good-news-against-dengue)
 * [2024-04-14, 18:35:49](https://news.ycombinator.com/item?id=40033261) - [The Battle to Define Mental Illness (2010)](https://www.wired.com/2010/12/ff-dsmv/)
 * [2024-04-14, 18:06:43](https://news.ycombinator.com/item?id=40033039) - [Phanpy: A minimalistic opinionated Mastodon web client](https://phanpy.social)
 * [2024-04-14, 18:06:26](https://news.ycombinator.com/item?id=40033033) - [Discovering My Roommate's Death on Facebook](https://medium.com/the-wind-phone/discovering-my-roommates-death-on-facebook-3a060fc477ec)
