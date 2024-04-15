@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-15, 04:59:59](https://news.ycombinator.com/item?id=40037206) - [Degen Communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)
 * [2024-04-15, 04:20:55](https://news.ycombinator.com/item?id=40037046) - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
 * [2024-04-15, 03:56:51](https://news.ycombinator.com/item?id=40036940) - [DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
 * [2024-04-15, 02:10:01](https://news.ycombinator.com/item?id=40036431) - [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
@@ -28,6 +27,7 @@
 * [2024-04-14, 05:54:00](https://news.ycombinator.com/item?id=40028984) - [Proving Heron’s formula by complex number (2013)](https://mathgarage.wordpress.com/2013/01/20/proving-herons-formula-by-complex-number/)
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a quiet life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-13, 06:27:52](https://news.ycombinator.com/item?id=40020984) - [Swift for C++ Practitioners, Part 1: Intro and Value Types](https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/)
+* [2024-04-13, 05:39:09](https://news.ycombinator.com/item?id=40020779) - [Show HN: Purl – A Simple Tool for Text Processing](https://github.com/catatsuy/purl)
 * [2024-04-12, 00:55:06](https://news.ycombinator.com/item?id=40008409) - [Beautiful nebula, violent history: Clash of stars solves stellar mystery](https://phys.org/news/2024-04-beautiful-nebula-violent-history-clash.html)
 * [2024-04-11, 16:59:36](https://news.ycombinator.com/item?id=40004349) - [One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
 
