@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 21:57:36](https://news.ycombinator.com/item?id=40046160) - [Sterilization Procedures Have Surged Among Young People Following \"Dobbs\"](https://truthout.org/articles/sterilization-procedures-have-surged-among-young-people-post-dobbs/)
 * [2024-04-15, 21:57:14](https://news.ycombinator.com/item?id=40046150) - [Edward Snowden Is Among Those Sounding the Alarm over Spying Expansion](https://www.commondreams.org/news/spying-expansion-trump)
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-15, 20:51:15](https://news.ycombinator.com/item?id=40045396) - [Apple Did a Dry Run of APFS on Your Device Even Before iOS 10.3 (2017)](https://www.macobserver.com/analysis/apple-dry-run-apfs-prior-ios-10-3/)

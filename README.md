@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-15, 21:57:14](https://news.ycombinator.com/item?id=40046150) - [Edward Snowden Is Among Those Sounding the Alarm over Spying Expansion](https://www.commondreams.org/news/spying-expansion-trump)
+* [2024-04-15, 21:57:36](https://news.ycombinator.com/item?id=40046160) - [Sterilization Procedures Have Surged Among Young People Following \"Dobbs\"](https://truthout.org/articles/sterilization-procedures-have-surged-among-young-people-post-dobbs/)
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-15, 20:47:31](https://news.ycombinator.com/item?id=40045357) - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
 * [2024-04-15, 20:19:17](https://news.ycombinator.com/item?id=40045093) - [T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
