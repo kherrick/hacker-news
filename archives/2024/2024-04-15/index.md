@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 20:37:44](https://news.ycombinator.com/item?id=40045262) - [Wrong couple divorced after computer error by law firm Vardag's](https://www.bbc.co.uk/news/uk-68821406)
+* [2024-04-15, 20:19:17](https://news.ycombinator.com/item?id=40045093) - [T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
 * [2024-04-15, 19:59:26](https://news.ycombinator.com/item?id=40044940) - [An old rail track in Northern California could become a 300-mile hiking trail](https://www.latimes.com/environment/story/2024-04-06/northern-california-rail-track-could-become-hiking-trail)
 * [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 * [2024-04-15, 19:34:50](https://news.ycombinator.com/item?id=40044742) - [Open-Source Passive Radar Taken Down for Regulatory Reasons (2022)](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)

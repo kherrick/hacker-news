@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-15, 19:59:26](https://news.ycombinator.com/item?id=40044940) - [An old rail track in Northern California could become a 300-mile hiking trail](https://www.latimes.com/environment/story/2024-04-06/northern-california-rail-track-could-become-hiking-trail)
+* [2024-04-15, 20:37:44](https://news.ycombinator.com/item?id=40045262) - [Wrong couple divorced after computer error by law firm Vardag's](https://www.bbc.co.uk/news/uk-68821406)
+* [2024-04-15, 20:19:17](https://news.ycombinator.com/item?id=40045093) - [T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
 * [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 * [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:00:14](https://news.ycombinator.com/item?id=40043711) - [Ketogenic diet may play a role in treating schizophrenia: research (2019)](https://www.psychologytoday.com/us/blog/advancing-psychiatry/201904/chronic-schizophrenia-put-remission-without-medication)
@@ -16,7 +17,6 @@
 * [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) is hiring engineer #4 (Rust and large scale infra)](https://www.workatastartup.com/jobs/63615)
 * [2024-04-15, 11:39:30](https://news.ycombinator.com/item?id=40039191) - [We are moving to General Availability](https://supabase.com/ga)
 * [2024-04-15, 11:33:45](https://news.ycombinator.com/item?id=40039143) - [Zooming User Interface (ZUI)](https://en.wikipedia.org/wiki/Zooming_user_interface)
-* [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [A proof-of-concept Python executable built on Cosmopolitan Libc (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [2024-04-15, 10:43:42](https://news.ycombinator.com/item?id=40038773) - [The great purge of German science in 1933](https://www.privatdozent.co/p/the-great-purge-of-1933-9f0)
 * [2024-04-15, 09:02:49](https://news.ycombinator.com/item?id=40038251) - [A tiny ultrabright laser that can melt steel](https://spectrum.ieee.org/pcsel)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
