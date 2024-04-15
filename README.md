@@ -8,6 +8,7 @@
 * [2024-04-15, 12:07:14](https://news.ycombinator.com/item?id=40039450) - [Framework's software and firmware have been a mess, but it's working on them](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/)
 * [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) Is Hiring Engineer #4 (Rust and Large Scale Infra)](https://www.workatastartup.com/jobs/63615)
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
+* [2024-04-15, 11:05:27](https://news.ycombinator.com/item?id=40038922) - [Are Flying Cars Here?](https://www.newyorker.com/magazine/2024/04/22/are-flying-cars-finally-here)
 * [2024-04-15, 09:02:49](https://news.ycombinator.com/item?id=40038251) - [The Tiny Ultrabright Laser That Can Melt Steel](https://spectrum.ieee.org/pcsel)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
@@ -28,7 +29,6 @@
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a quiet life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-13, 09:36:48](https://news.ycombinator.com/item?id=40021782) - [Emacs Info Expressions](https://susam.net/emacs-info-expressions.html)
 * [2024-04-13, 04:54:58](https://news.ycombinator.com/item?id=40020598) - [Never redefine an inherited default parameter value (1997)](http://www.cpptips.com/redef_dflt_parm)
-* [2024-04-12, 20:53:42](https://news.ycombinator.com/item?id=40017539) - [Common pitfalls of digital health startups and how to avoid them (2023)](https://bettychang.xyz/advice-for-digital-health-founders/)
 * [2024-04-11, 16:59:36](https://news.ycombinator.com/item?id=40004349) - [One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
 
 ## [Archives](archives/index.md)
