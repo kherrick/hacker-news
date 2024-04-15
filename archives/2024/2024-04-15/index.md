@@ -22,6 +22,7 @@
 * [2024-04-15, 14:49:51](https://news.ycombinator.com/item?id=40041309) - [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
 * [2024-04-15, 14:48:31](https://news.ycombinator.com/item?id=40041288) - [Yagi–Uda Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
+* [2024-04-15, 14:38:31](https://news.ycombinator.com/item?id=40041143) - [To make sure grandmas like his don't get conned, he scams the scammers](https://text.npr.org/1243189142)
 * [2024-04-15, 14:27:06](https://news.ycombinator.com/item?id=40040959) - [20 years ago Gmail revolutionized email. It's time for a new revolution](https://tuta.com/blog/gmail-20-years-old)
 * [2024-04-15, 14:24:44](https://news.ycombinator.com/item?id=40040919) - [Ionos prices go up after Broadcom acquires VMware](https://twitter.com/BigBalli/status/1779878305812152367)
 * [2024-04-15, 14:13:24](https://news.ycombinator.com/item?id=40040793) - [Think of your career like a dartboard](https://tll.beehiiv.com/p/think-career-like-dartboard)
