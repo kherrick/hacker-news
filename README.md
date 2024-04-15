@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-15, 18:41:50](https://news.ycombinator.com/item?id=40044164) - [The Papa Johns closest to The Pentagon is far busier than usual](https://twitter.com/lbjfancamcoop/status/1779262898314903675)
+* [2024-04-15, 18:37:24](https://news.ycombinator.com/item?id=40044119) - [Asking BigTech to police AI is like asking oil companies to solve climate change](https://fortune.com/2024/04/15/openai-google-microsoft-responsobile-societal-questions-government-responsibility/)
 * [2024-04-15, 18:16:31](https://news.ycombinator.com/item?id=40043888) - [Apple's APFS Migration: A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 18:12:09](https://news.ycombinator.com/item?id=40043845) - [50% discount on OpenAI pricing if you submit a batch and give them up to 24h](https://twitter.com/simonw/status/1779932174592167965)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
@@ -12,7 +13,6 @@
 * [2024-04-15, 14:58:41](https://news.ycombinator.com/item?id=40041430) - [An FDA approved device offers a new treatment for tinnitus](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:04:28](https://news.ycombinator.com/item?id=40040694) - [Smishing scam regarding debt for road toll services](https://www.ic3.gov/Media/Y2024/PSA240412)
-* [2024-04-15, 13:04:34](https://news.ycombinator.com/item?id=40040043) - [Limitless: Personalized AI powered by what you've seen, said, and heard](https://www.limitless.ai/)
 * [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) is hiring engineer #4 (Rust and large scale infra)](https://www.workatastartup.com/jobs/63615)
 * [2024-04-15, 11:39:30](https://news.ycombinator.com/item?id=40039191) - [We are moving to General Availability](https://supabase.com/ga)
 * [2024-04-15, 11:33:45](https://news.ycombinator.com/item?id=40039143) - [Zooming User Interface (ZUI)](https://en.wikipedia.org/wiki/Zooming_user_interface)
