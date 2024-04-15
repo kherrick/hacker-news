@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 04:20:55](https://news.ycombinator.com/item?id=40037046) - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
 * [2024-04-15, 03:56:51](https://news.ycombinator.com/item?id=40036940) - [DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
 * [2024-04-15, 02:58:57](https://news.ycombinator.com/item?id=40036678) - [Frank Zappa on Crossfire about censoring rock lyrics (1986) [video]](https://www.youtube.com/watch?v=B9856_xv8gc)
-* [2024-04-15, 02:10:01](https://news.ycombinator.com/item?id=40036431) - [Construction on \"the largest wildlife crossing\" starts Monday](https://101wildlifecrossing.org/)
+* [2024-04-15, 02:10:01](https://news.ycombinator.com/item?id=40036431) - [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
 * [2024-04-15, 02:09:39](https://news.ycombinator.com/item?id=40036429) - [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
 * [2024-04-15, 01:37:17](https://news.ycombinator.com/item?id=40036237) - [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
 * [2024-04-15, 01:20:17](https://news.ycombinator.com/item?id=40036138) - [1800-2023 – IEEE Standard for SystemVerilog](https://ieeexplore.ieee.org/document/10458102)
@@ -28,7 +29,6 @@
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a quiet life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-13, 06:27:52](https://news.ycombinator.com/item?id=40020984) - [Swift for C++ Practitioners, Part 1: Intro and Value Types](https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/)
 * [2024-04-13, 05:39:09](https://news.ycombinator.com/item?id=40020779) - [Show HN: Purl – A Simple Tool for Text Processing](https://github.com/catatsuy/purl)
-* [2024-04-13, 03:52:05](https://news.ycombinator.com/item?id=40020343) - [Program synthesis](https://en.wikipedia.org/wiki/Program_synthesis)
 * [2024-04-11, 16:59:36](https://news.ycombinator.com/item?id=40004349) - [One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
 
 ## [Archives](archives/index.md)

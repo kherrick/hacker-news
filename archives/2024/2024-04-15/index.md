@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 04:20:55](https://news.ycombinator.com/item?id=40037046) - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
 * [2024-04-15, 03:56:51](https://news.ycombinator.com/item?id=40036940) - [DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
 * [2024-04-15, 02:58:57](https://news.ycombinator.com/item?id=40036678) - [Frank Zappa on Crossfire about censoring rock lyrics (1986) [video]](https://www.youtube.com/watch?v=B9856_xv8gc)
 * [2024-04-15, 02:10:01](https://news.ycombinator.com/item?id=40036431) - [Construction on \"the largest wildlife crossing\" starts Monday](https://101wildlifecrossing.org/)
