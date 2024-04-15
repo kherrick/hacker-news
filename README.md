@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 13:10:48](https://news.ycombinator.com/item?id=40040100) - [Tesla Cybertruck Production Halted Due to Unintended Acceleration](https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17)
+* [2024-04-15, 13:03:38](https://news.ycombinator.com/item?id=40040030) - [Medium bans AI-generated content from its paid Partner Program](https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/)
 * [2024-04-15, 12:34:14](https://news.ycombinator.com/item?id=40039752) - [Getting the Grid to Net Zero](https://spectrum.ieee.org/electric-inverter)
 * [2024-04-15, 12:19:41](https://news.ycombinator.com/item?id=40039581) - [FBI Opens Criminal Investigation into Baltimore Bridge Collapse](https://apnews.com/article/baltimore-bridge-collapse-fbi-investiagation-58188d524035c756872603055f309c78)
 * [2024-04-15, 12:18:33](https://news.ycombinator.com/item?id=40039567) - [Tesla lays off more than 10% of its workforce](https://www.bbc.co.uk/news/technology-68818113)
@@ -19,7 +21,6 @@
 * [2024-04-14, 23:45:28](https://news.ycombinator.com/item?id=40035552) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 * [2024-04-14, 23:22:43](https://news.ycombinator.com/item?id=40035414) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
-* [2024-04-14, 22:03:08](https://news.ycombinator.com/item?id=40034869) - [Integral Calculator](https://www.integral-calculator.com/)
 * [2024-04-14, 13:55:19](https://news.ycombinator.com/item?id=40031054) - [The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)
 * [2024-04-14, 13:01:10](https://news.ycombinator.com/item?id=40030786) - [Trying to Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-04-14, 11:12:45](https://news.ycombinator.com/item?id=40030308) - [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
@@ -27,8 +28,7 @@
 * [2024-04-14, 10:28:13](https://news.ycombinator.com/item?id=40030125) - [Why good external SSDs are faster with Apple Silicon](https://eclecticlight.co/2024/04/14/last-week-on-my-mac-why-good-external-ssds-are-faster-with-apple-silicon/)
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a quiet life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-13, 09:36:48](https://news.ycombinator.com/item?id=40021782) - [Emacs Info Expressions](https://susam.net/emacs-info-expressions.html)
-* [2024-04-13, 06:27:52](https://news.ycombinator.com/item?id=40020984) - [Swift for C++ Practitioners, Part 1: Intro and Value Types](https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/)
-* [2024-04-13, 04:54:58](https://news.ycombinator.com/item?id=40020598) - [Never redefine an inherited default parameter value](http://www.cpptips.com/redef_dflt_parm)
+* [2024-04-13, 04:54:58](https://news.ycombinator.com/item?id=40020598) - [Never redefine an inherited default parameter value (1997)](http://www.cpptips.com/redef_dflt_parm)
 * [2024-04-11, 16:59:36](https://news.ycombinator.com/item?id=40004349) - [One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
 
 ## [Archives](archives/index.md)
