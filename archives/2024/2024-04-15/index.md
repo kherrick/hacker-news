@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 23:23:28](https://news.ycombinator.com/item?id=40046774) - [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
 * [2024-04-15, 22:22:18](https://news.ycombinator.com/item?id=40046370) - [Something for the metalheads: Master Boot Record – Internet Protocol [video]](https://www.youtube.com/watch?v=t6KFfYdNPh8)
 * [2024-04-15, 21:57:36](https://news.ycombinator.com/item?id=40046160) - [Sterilization Procedures Have Surged Among Young People Following \"Dobbs\"](https://truthout.org/articles/sterilization-procedures-have-surged-among-young-people-post-dobbs/)
 * [2024-04-15, 21:57:14](https://news.ycombinator.com/item?id=40046150) - [Edward Snowden Is Among Those Sounding the Alarm over Spying Expansion](https://www.commondreams.org/news/spying-expansion-trump)
@@ -79,6 +80,8 @@
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [2024-04-15, 11:05:27](https://news.ycombinator.com/item?id=40038922) - [Are Flying Cars Here?](https://www.newyorker.com/magazine/2024/04/22/are-flying-cars-finally-here)
 * [2024-04-15, 10:43:42](https://news.ycombinator.com/item?id=40038773) - [The great purge of German science in 1933](https://www.privatdozent.co/p/the-great-purge-of-1933-9f0)
+* [2024-04-15, 10:42:04](https://news.ycombinator.com/item?id=40038759) - [Weird monitor bugs people sent me in the last 5 years (2022)](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
+* [2024-04-15, 10:36:49](https://news.ycombinator.com/item?id=40038729) - [How much memory does a graph take?](https://jazco.dev/2024/04/15/in-memory-graphs/)
 * [2024-04-15, 10:34:32](https://news.ycombinator.com/item?id=40038712) - [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
 * [2024-04-15, 10:15:44](https://news.ycombinator.com/item?id=40038591) - [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
 * [2024-04-15, 10:06:33](https://news.ycombinator.com/item?id=40038549) - [Tesla to lay off more than 10% of its staff](https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/)
