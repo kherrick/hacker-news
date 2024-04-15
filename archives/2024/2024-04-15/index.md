@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-04-15, 20:51:15](https://news.ycombinator.com/item?id=40045396) - [Apple Did a Dry Run of APFS on Your Device Even Before iOS 10.3 (2017)](https://www.macobserver.com/analysis/apple-dry-run-apfs-prior-ios-10-3/)
 * [2024-04-15, 20:47:31](https://news.ycombinator.com/item?id=40045357) - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
 * [2024-04-15, 20:37:44](https://news.ycombinator.com/item?id=40045262) - [Wrong couple divorced after computer error by law firm Vardag's](https://www.bbc.co.uk/news/uk-68821406)
 * [2024-04-15, 20:36:40](https://news.ycombinator.com/item?id=40045252) - [Once again, California exceeds 100% of demand on its main grid with](https://twitter.com/mzjacobson/status/1779614175075197142)
