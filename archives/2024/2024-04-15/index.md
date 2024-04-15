@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 19:05:36](https://news.ycombinator.com/item?id=40044464) - [Histomap: Visualizing the 4000 Year History of Global Power](https://www.visualcapitalist.com/wp-content/uploads/2017/11/histomap-big.html)
 * [2024-04-15, 18:49:43](https://news.ycombinator.com/item?id=40044243) - [XZ Utils Review Notes](https://tukaani.org/xz-backdoor/review.html)
 * [2024-04-15, 18:41:50](https://news.ycombinator.com/item?id=40044164) - [The Papa Johns closest to The Pentagon is far busier than usual](https://twitter.com/lbjfancamcoop/status/1779262898314903675)

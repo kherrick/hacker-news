@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:49:43](https://news.ycombinator.com/item?id=40044243) - [XZ Utils Review Notes](https://tukaani.org/xz-backdoor/review.html)
-* [2024-04-15, 18:37:24](https://news.ycombinator.com/item?id=40044119) - [Asking BigTech to police AI is like asking oil companies to solve climate change](https://fortune.com/2024/04/15/openai-google-microsoft-responsobile-societal-questions-government-responsibility/)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
 * [2024-04-15, 16:15:39](https://news.ycombinator.com/item?id=40042497) - [Web-Based Turbo Pascal Compiler](https://github.com/lkesteloot/turbopascal)
 * [2024-04-15, 15:54:33](https://news.ycombinator.com/item?id=40042225) - [WizardLM 2](https://wizardlm.github.io/WizardLM2/)
