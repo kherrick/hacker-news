@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 17:12:14](https://news.ycombinator.com/item?id=40043155) - [California has set a benchmark for renewable energy](https://www.thecooldown.com/green-tech/california-renewable-energy-100-percent-grid/)
 * [2024-04-15, 17:12:02](https://news.ycombinator.com/item?id=40043153) - [Apple Further Explains Why Game Boy Emulator iGBA Was Removed from App Store](https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/)
 * [2024-04-15, 16:53:50](https://news.ycombinator.com/item?id=40042974) - [Tesla to lay off more than 10 percent of its workers as sales slow](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-more-than-10-percent-of-its-workers-as-sales-slow/)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
@@ -22,6 +23,7 @@
 * [2024-04-15, 14:49:51](https://news.ycombinator.com/item?id=40041309) - [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
 * [2024-04-15, 14:48:31](https://news.ycombinator.com/item?id=40041288) - [Yagi–Uda Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
+* [2024-04-15, 14:38:31](https://news.ycombinator.com/item?id=40041143) - [To make sure grandmas like his don't get conned, he scams the scammers](https://www.npr.org/2024/04/15/1243189142/scam-baiter-kitboga)
 * [2024-04-15, 14:38:31](https://news.ycombinator.com/item?id=40041143) - [To make sure grandmas like his don't get conned, he scams the scammers](https://text.npr.org/1243189142)
 * [2024-04-15, 14:27:06](https://news.ycombinator.com/item?id=40040959) - [20 years ago Gmail revolutionized email. It's time for a new revolution](https://tuta.com/blog/gmail-20-years-old)
 * [2024-04-15, 14:24:44](https://news.ycombinator.com/item?id=40040919) - [Ionos prices go up after Broadcom acquires VMware](https://twitter.com/BigBalli/status/1779878305812152367)
@@ -39,6 +41,7 @@
 * [2024-04-15, 12:19:41](https://news.ycombinator.com/item?id=40039581) - [FBI Opens Criminal Investigation into Baltimore Bridge Collapse](https://apnews.com/article/baltimore-bridge-collapse-fbi-investiagation-58188d524035c756872603055f309c78)
 * [2024-04-15, 12:18:33](https://news.ycombinator.com/item?id=40039567) - [Tesla lays off more than 10% of its workforce](https://www.bbc.co.uk/news/technology-68818113)
 * [2024-04-15, 12:07:14](https://news.ycombinator.com/item?id=40039450) - [Framework's software and firmware have been a mess, but it's working on them](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/)
+* [2024-04-15, 12:02:53](https://news.ycombinator.com/item?id=40039391) - [The hero tax: Why 'selfless' workers are professionally exploited](https://www.bbc.com/worklife/article/20240409-heroic-jobs-earn-less-money)
 * [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) Is Hiring Engineer #4 (Rust and Large Scale Infra)](https://www.workatastartup.com/jobs/63615)
 * [2024-04-15, 11:39:30](https://news.ycombinator.com/item?id=40039191) - [Supabase – General Availability Week](https://supabase.com/ga)
 * [2024-04-15, 11:35:06](https://news.ycombinator.com/item?id=40039154) - [Why No IPv6?](https://whynoipv6.com/)
