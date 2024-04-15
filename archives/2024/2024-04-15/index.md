@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 15:13:27](https://news.ycombinator.com/item?id=40041645) - [Gay Bomb](https://en.wikipedia.org/wiki/Gay_bomb)
 * [2024-04-15, 14:49:51](https://news.ycombinator.com/item?id=40041309) - [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
+* [2024-04-15, 14:48:31](https://news.ycombinator.com/item?id=40041288) - [Yagi–Uda Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna)
 * [2024-04-15, 14:27:06](https://news.ycombinator.com/item?id=40040959) - [20 years ago Gmail revolutionized email. It's time for a new revolution](https://tuta.com/blog/gmail-20-years-old)
 * [2024-04-15, 14:24:44](https://news.ycombinator.com/item?id=40040919) - [Ionos prices go up after Broadcom acquires VMware](https://twitter.com/BigBalli/status/1779878305812152367)
 * [2024-04-15, 14:09:00](https://news.ycombinator.com/item?id=40040748) - [Fortran Standard Library: release v0.5.0](https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827)

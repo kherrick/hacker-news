@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 15:13:27](https://news.ycombinator.com/item?id=40041645) - [Gay Bomb](https://en.wikipedia.org/wiki/Gay_bomb)
 * [2024-04-15, 14:49:51](https://news.ycombinator.com/item?id=40041309) - [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
+* [2024-04-15, 14:48:31](https://news.ycombinator.com/item?id=40041288) - [Yagi–Uda Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna)
 * [2024-04-15, 14:27:06](https://news.ycombinator.com/item?id=40040959) - [20 years ago Gmail revolutionized email. It's time for a new revolution](https://tuta.com/blog/gmail-20-years-old)
-* [2024-04-15, 14:24:44](https://news.ycombinator.com/item?id=40040919) - [Ionos prices go up after Broadcom acquires VMware](https://twitter.com/BigBalli/status/1779878305812152367)
 * [2024-04-15, 14:09:00](https://news.ycombinator.com/item?id=40040748) - [Fortran Standard Library: release v0.5.0](https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827)
 * [2024-04-15, 14:07:58](https://news.ycombinator.com/item?id=40040738) - [TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
-* [2024-04-15, 14:04:28](https://news.ycombinator.com/item?id=40040694) - [FBI IC3: Smishing Scam Regarding Debt for Road Toll Services](https://www.ic3.gov/Media/Y2024/PSA240412)
 * [2024-04-15, 13:55:53](https://news.ycombinator.com/item?id=40040593) - [Neon Is Generally Available: Serverless Postgres](https://neon.tech/blog/neon-ga)
 * [2024-04-15, 13:13:01](https://news.ycombinator.com/item?id=40040126) - [Citizenship Privilege Harms Science](https://www.nature.com/articles/d41586-024-01080-x)
 * [2024-04-15, 13:10:48](https://news.ycombinator.com/item?id=40040100) - [Tesla Cybertruck Production Halted](https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17)
@@ -15,7 +15,6 @@
 * [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) Is Hiring Engineer #4 (Rust and Large Scale Infra)](https://www.workatastartup.com/jobs/63615)
 * [2024-04-15, 11:39:30](https://news.ycombinator.com/item?id=40039191) - [Supabase – General Availability Week](https://supabase.com/ga)
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [A proof-of-concept Python executable built on Cosmopolitan Libc (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
-* [2024-04-15, 11:05:27](https://news.ycombinator.com/item?id=40038922) - [Are Flying Cars Here?](https://www.newyorker.com/magazine/2024/04/22/are-flying-cars-finally-here)
 * [2024-04-15, 09:02:49](https://news.ycombinator.com/item?id=40038251) - [The Tiny Ultrabright Laser That Can Melt Steel](https://spectrum.ieee.org/pcsel)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
@@ -30,6 +29,7 @@
 * [2024-04-14, 09:18:22](https://news.ycombinator.com/item?id=40029849) - [I ported thousands apps to Windows 95 [video]](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2024-04-13, 09:36:48](https://news.ycombinator.com/item?id=40021782) - [Emacs Info Expressions](https://susam.net/emacs-info-expressions.html)
 * [2024-04-13, 04:54:58](https://news.ycombinator.com/item?id=40020598) - [Never redefine an inherited default parameter value (1997)](http://www.cpptips.com/redef_dflt_parm)
+* [2024-04-11, 21:42:12](https://news.ycombinator.com/item?id=40007120) - [Asymmetric Routing Around the Firewall](https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/)
 
 ## [Archives](archives/index.md)
 
