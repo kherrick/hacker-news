@@ -46,6 +46,7 @@
 * [2024-04-14, 13:26:54](https://news.ycombinator.com/item?id=40030901) - [Wikipedia Abuse Filter](https://en.wikipedia.org/wiki/Special:AbuseFilter/?deletedfilters=hide&furtheroptions%5B%5D=hideprivate&furtheroptions%5B%5D=hidedisabled&limit=500)
 * [2024-04-14, 13:22:26](https://news.ycombinator.com/item?id=40030881) - [Taking CO2 out of the air would be an expensive way to fight climate change](https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report)
 * [2024-04-14, 13:14:19](https://news.ycombinator.com/item?id=40030853) - [Many FBI agents are struggling to make ends meet. Housing costs are to blame](https://www.npr.org/2024/04/11/1243982287/fbi-agents-housing-costs)
+* [2024-04-14, 13:01:10](https://news.ycombinator.com/item?id=40030786) - [Trying to Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-04-14, 12:51:51](https://news.ycombinator.com/item?id=40030746) - [Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
 * [2024-04-14, 12:45:18](https://news.ycombinator.com/item?id=40030721) - [The Guide to Stock Options Conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
 * [2024-04-14, 10:43:04](https://news.ycombinator.com/item?id=40030188) - [Linux fu: getting started with systemd](https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/)
