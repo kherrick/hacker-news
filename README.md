@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-15, 17:12:02](https://news.ycombinator.com/item?id=40043153) - [Apple Further Explains Why Game Boy Emulator iGBA Was Removed from App Store](https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/)
-* [2024-04-15, 16:53:50](https://news.ycombinator.com/item?id=40042974) - [Tesla to lay off more than 10 percent of its workers as sales slow](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-more-than-10-percent-of-its-workers-as-sales-slow/)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
 * [2024-04-15, 15:54:33](https://news.ycombinator.com/item?id=40042225) - [WizardLM 2](https://wizardlm.github.io/WizardLM2/)
 * [2024-04-15, 15:38:34](https://news.ycombinator.com/item?id=40042007) - [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
@@ -9,6 +8,7 @@
 * [2024-04-15, 15:36:54](https://news.ycombinator.com/item?id=40041976) - [An Open-Source Implementation of Apple Code Signing and Notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 * [2024-04-15, 15:35:30](https://news.ycombinator.com/item?id=40041954) - [Ask HN: I want to create IMDB for Open source projects](https://news.ycombinator.com/item?id=40041954)
 * [2024-04-15, 15:27:28](https://news.ycombinator.com/item?id=40041844) - [Engineer creates CPU from scratch in two weeks – begins work on GPUs](https://www.tomshardware.com/pc-components/cpus/engineer-creates-cpu-from-scratch-in-two-weeks-begins-work-on-gpus)
+* [2024-04-15, 14:58:41](https://news.ycombinator.com/item?id=40041430) - [Got tinnitus? A device that tickles the tongue helps this musician find relief](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:38:31](https://news.ycombinator.com/item?id=40041143) - [To make sure grandmas like his don't get conned, he scams the scammers](https://text.npr.org/1243189142)
 * [2024-04-15, 14:04:28](https://news.ycombinator.com/item?id=40040694) - [FBI IC3: Smishing Scam Regarding Debt for Road Toll Services](https://www.ic3.gov/Media/Y2024/PSA240412)
