@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 15:23:08](https://news.ycombinator.com/item?id=40041784) - [US House approves FISA renewal – warrantless surveillance and all](https://www.theregister.com/2024/04/15/security_in_brief/)
 * [2024-04-15, 15:13:27](https://news.ycombinator.com/item?id=40041645) - [Gay Bomb](https://en.wikipedia.org/wiki/Gay_bomb)
+* [2024-04-15, 14:57:23](https://news.ycombinator.com/item?id=40041406) - [Do you *really* need to store all that telemetry?](https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/)
 * [2024-04-15, 14:49:51](https://news.ycombinator.com/item?id=40041309) - [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
 * [2024-04-15, 14:48:31](https://news.ycombinator.com/item?id=40041288) - [Yagi–Uda Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna)
+* [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:27:06](https://news.ycombinator.com/item?id=40040959) - [20 years ago Gmail revolutionized email. It's time for a new revolution](https://tuta.com/blog/gmail-20-years-old)
 * [2024-04-15, 14:24:44](https://news.ycombinator.com/item?id=40040919) - [Ionos prices go up after Broadcom acquires VMware](https://twitter.com/BigBalli/status/1779878305812152367)
+* [2024-04-15, 14:13:24](https://news.ycombinator.com/item?id=40040793) - [Think of your career like a dartboard](https://tll.beehiiv.com/p/think-career-like-dartboard)
 * [2024-04-15, 14:09:00](https://news.ycombinator.com/item?id=40040748) - [Fortran Standard Library: release v0.5.0](https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827)
 * [2024-04-15, 14:07:58](https://news.ycombinator.com/item?id=40040738) - [TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
 * [2024-04-15, 14:04:28](https://news.ycombinator.com/item?id=40040694) - [FBI IC3: Smishing Scam Regarding Debt for Road Toll Services](https://www.ic3.gov/Media/Y2024/PSA240412)
