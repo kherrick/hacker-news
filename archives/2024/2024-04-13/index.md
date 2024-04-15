@@ -83,6 +83,7 @@
 * [2024-04-13, 05:17:58](https://news.ycombinator.com/item?id=40020702) - [Artificial Intelligence How Do Machines 'Grok' Data](https://www.quantamagazine.org/how-do-machines-grok-data-20240412/)
 * [2024-04-13, 05:00:14](https://news.ycombinator.com/item?id=40020626) - [Identical twins both grew up with autism, but took different paths](https://www.npr.org/sections/health-shots/2024/04/04/1242264274/siblings-science-identical-twin-brothers-autism-spectrum)
 * [2024-04-13, 04:55:41](https://news.ycombinator.com/item?id=40020601) - [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
+* [2024-04-13, 04:54:58](https://news.ycombinator.com/item?id=40020598) - [Never redefine an inherited default parameter value](http://www.cpptips.com/redef_dflt_parm)
 * [2024-04-13, 04:41:19](https://news.ycombinator.com/item?id=40020545) - [Huawei building chip equipment R&D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 * [2024-04-13, 04:33:34](https://news.ycombinator.com/item?id=40020516) - [How Convex Works](https://stack.convex.dev/how-convex-works)
 * [2024-04-13, 04:25:19](https://news.ycombinator.com/item?id=40020485) - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
