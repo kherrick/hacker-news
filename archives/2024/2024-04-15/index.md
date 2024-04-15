@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 18:41:50](https://news.ycombinator.com/item?id=40044164) - [The Papa Johns closest to The Pentagon is far busier than usual](https://twitter.com/lbjfancamcoop/status/1779262898314903675)
 * [2024-04-15, 18:16:31](https://news.ycombinator.com/item?id=40043888) - [Apple's APFS Migration: A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 18:12:28](https://news.ycombinator.com/item?id=40043848) - [The Cowpox of Doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/)
 * [2024-04-15, 18:12:09](https://news.ycombinator.com/item?id=40043845) - [50% discount on OpenAI pricing if you submit a batch and give them up to 24h](https://twitter.com/simonw/status/1779932174592167965)
