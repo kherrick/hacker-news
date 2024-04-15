@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-04-15, 20:47:31](https://news.ycombinator.com/item?id=40045357) - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
 * [2024-04-15, 20:37:44](https://news.ycombinator.com/item?id=40045262) - [Wrong couple divorced after computer error by law firm Vardag's](https://www.bbc.co.uk/news/uk-68821406)
+* [2024-04-15, 20:36:40](https://news.ycombinator.com/item?id=40045252) - [Once again, California exceeds 100% of demand on its main grid with](https://twitter.com/mzjacobson/status/1779614175075197142)
+* [2024-04-15, 20:31:51](https://news.ycombinator.com/item?id=40045199) - [Child care is so expensive in NYC that it's become a crisis](https://gothamist.com/news/why-child-care-is-so-expensive-in-nyc-that-its-become-a-crisis)
 * [2024-04-15, 20:19:17](https://news.ycombinator.com/item?id=40045093) - [T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
 * [2024-04-15, 19:59:26](https://news.ycombinator.com/item?id=40044940) - [An old rail track in Northern California could become a 300-mile hiking trail](https://www.latimes.com/environment/story/2024-04-06/northern-california-rail-track-could-become-hiking-trail)
 * [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
