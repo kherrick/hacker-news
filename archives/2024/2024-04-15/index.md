@@ -57,6 +57,7 @@
 * [2024-04-15, 11:17:46](https://news.ycombinator.com/item?id=40039021) - [EU data shows PHEVs emit 350% more CO2 than tested values](https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values)
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [2024-04-15, 11:05:27](https://news.ycombinator.com/item?id=40038922) - [Are Flying Cars Here?](https://www.newyorker.com/magazine/2024/04/22/are-flying-cars-finally-here)
+* [2024-04-15, 10:34:32](https://news.ycombinator.com/item?id=40038712) - [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
 * [2024-04-15, 10:15:44](https://news.ycombinator.com/item?id=40038591) - [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
 * [2024-04-15, 10:06:33](https://news.ycombinator.com/item?id=40038549) - [Tesla to lay off more than 10% of its staff](https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/)
 * [2024-04-15, 09:57:11](https://news.ycombinator.com/item?id=40038501) - [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
