@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 14:09:00](https://news.ycombinator.com/item?id=40040748) - [Fortran Standard Library: release v0.5.0](https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827)
 * [2024-04-15, 14:07:58](https://news.ycombinator.com/item?id=40040738) - [TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
+* [2024-04-15, 14:04:28](https://news.ycombinator.com/item?id=40040694) - [FBI IC3: Smishing Scam Regarding Debt for Road Toll Services](https://www.ic3.gov/Media/Y2024/PSA240412)
 * [2024-04-15, 13:55:53](https://news.ycombinator.com/item?id=40040593) - [Neon Is Generally Available: Serverless Postgres](https://neon.tech/blog/neon-ga)
 * [2024-04-15, 13:13:01](https://news.ycombinator.com/item?id=40040126) - [Citizenship Privilege Harms Science](https://www.nature.com/articles/d41586-024-01080-x)
 * [2024-04-15, 13:10:48](https://news.ycombinator.com/item?id=40040100) - [Tesla Cybertruck Production Halted Due to Unintended Acceleration](https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17)
@@ -15,6 +17,7 @@
 * [2024-04-15, 12:18:33](https://news.ycombinator.com/item?id=40039567) - [Tesla lays off more than 10% of its workforce](https://www.bbc.co.uk/news/technology-68818113)
 * [2024-04-15, 12:07:14](https://news.ycombinator.com/item?id=40039450) - [Framework's software and firmware have been a mess, but it's working on them](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/)
 * [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) Is Hiring Engineer #4 (Rust and Large Scale Infra)](https://www.workatastartup.com/jobs/63615)
+* [2024-04-15, 11:39:30](https://news.ycombinator.com/item?id=40039191) - [Supabase – General Availability Week](https://supabase.com/ga)
 * [2024-04-15, 11:35:06](https://news.ycombinator.com/item?id=40039154) - [Why No IPv6?](https://whynoipv6.com/)
 * [2024-04-15, 11:17:46](https://news.ycombinator.com/item?id=40039021) - [EU data shows PHEVs emit 350% more CO2 than tested values](https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values)
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
