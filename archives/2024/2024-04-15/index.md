@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 19:59:26](https://news.ycombinator.com/item?id=40044940) - [An old rail track in Northern California could become a 300-mile hiking trail](https://www.latimes.com/environment/story/2024-04-06/northern-california-rail-track-could-become-hiking-trail)
+* [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 * [2024-04-15, 19:34:50](https://news.ycombinator.com/item?id=40044742) - [Open-Source Passive Radar Taken Down for Regulatory Reasons (2022)](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)
 * [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 19:05:36](https://news.ycombinator.com/item?id=40044464) - [Histomap: Visualizing the 4000 Year History of Global Power](https://www.visualcapitalist.com/wp-content/uploads/2017/11/histomap-big.html)
@@ -17,6 +19,7 @@
 * [2024-04-15, 17:12:14](https://news.ycombinator.com/item?id=40043155) - [California has set a benchmark for renewable energy](https://www.thecooldown.com/green-tech/california-renewable-energy-100-percent-grid/)
 * [2024-04-15, 17:12:02](https://news.ycombinator.com/item?id=40043153) - [Apple Further Explains Why Game Boy Emulator iGBA Was Removed from App Store](https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/)
 * [2024-04-15, 16:53:50](https://news.ycombinator.com/item?id=40042974) - [Tesla to lay off more than 10 percent of its workers as sales slow](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-more-than-10-percent-of-its-workers-as-sales-slow/)
+* [2024-04-15, 16:39:38](https://news.ycombinator.com/item?id=40042820) - [Radxa Rock 5 ITX: 8-Core ARM Mini ITX Board with LPDDR5 RAM](https://bret.dk/radxa-rock-5-itx-first-look/)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
 * [2024-04-15, 16:19:59](https://news.ycombinator.com/item?id=40042550) - [Now Hiring: Sophisticated (But Part-Time) Chatbot Tutors](https://www.nytimes.com/2024/04/10/technology/ai-chatbot-training-chatgpt.html)
 * [2024-04-15, 16:15:39](https://news.ycombinator.com/item?id=40042497) - [Web-Based Turbo Pascal Compiler](https://github.com/lkesteloot/turbopascal)
@@ -70,6 +73,7 @@
 * [2024-04-15, 08:14:23](https://news.ycombinator.com/item?id=40038020) - [Marc Andreessen: I regret not doing more to support and defend Brendan Eich](https://twitter.com/pmarca/status/1778898760971821271)
 * [2024-04-15, 08:00:01](https://news.ycombinator.com/item?id=40037959) - [Mid-level Nvidia employee gets $62M in stock options; another lost it all](https://www.tomshardware.com/pc-components/gpus/nvidia-employees-make-fortunes-and-foul-ups-with-their-stock-options-a-story-of-millionaire-winners-and-losers)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
+* [2024-04-15, 07:26:23](https://news.ycombinator.com/item?id=40037811) - [Simplified Technical English](https://www.asd-ste100.org/)
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
 * [2024-04-15, 06:39:36](https://news.ycombinator.com/item?id=40037619) - [Control Linux based distros using hand gestures using OpenCV, GTK, Mediapipe](https://github.com/flying-pizza-69/GestureX)
 * [2024-04-15, 06:30:05](https://news.ycombinator.com/item?id=40037583) - [Challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)

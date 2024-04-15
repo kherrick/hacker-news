@@ -35,6 +35,7 @@
 * [2024-04-14, 18:06:26](https://news.ycombinator.com/item?id=40033033) - [Discovering My Roommate's Death on Facebook](https://medium.com/the-wind-phone/discovering-my-roommates-death-on-facebook-3a060fc477ec)
 * [2024-04-14, 17:47:00](https://news.ycombinator.com/item?id=40032869) - [Kate editor on all platforms](https://cullmann.io/posts/kate-on-all-platforms-2024/)
 * [2024-04-14, 17:38:05](https://news.ycombinator.com/item?id=40032792) - [Show HN: Docker-boot – Run a system from RAM without LiveCD](https://github.com/purplesyringa/docker-boot)
+* [2024-04-14, 15:19:32](https://news.ycombinator.com/item?id=40031732) - [New Titanosaur Species Identified in Argentina](https://www.sci.news/paleontology/titanomachya-gimenezi-12853.html)
 * [2024-04-14, 14:35:56](https://news.ycombinator.com/item?id=40031370) - [Show HN: After so many ups and downs, InvoicingAPI is finally ready](https://invoicingapi.com)
 * [2024-04-14, 14:35:40](https://news.ycombinator.com/item?id=40031367) - [Fedora 41 will unify bin and sbin](https://fedoraproject.org/wiki/Changes/Unify_bin_and_sbin)
 * [2024-04-14, 14:35:25](https://news.ycombinator.com/item?id=40031365) - [A Day in the Life of a Walmart Manager Who Makes $240k a Year](https://www.wsj.com/business/retail/a-day-in-the-life-of-a-walmart-manager-who-makes-240-000-a-year-3248037f)
