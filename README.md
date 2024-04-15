@@ -7,7 +7,7 @@
 * [2024-04-15, 12:19:41](https://news.ycombinator.com/item?id=40039581) - [FBI Opens Criminal Investigation into Baltimore Bridge Collapse](https://apnews.com/article/baltimore-bridge-collapse-fbi-investiagation-58188d524035c756872603055f309c78)
 * [2024-04-15, 12:07:14](https://news.ycombinator.com/item?id=40039450) - [Framework's software and firmware have been a mess, but it's working on them](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/)
 * [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) Is Hiring Engineer #4 (Rust and Large Scale Infra)](https://www.workatastartup.com/jobs/63615)
-* [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
+* [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [A proof-of-concept Python executable built on Cosmopolitan Libc (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [2024-04-15, 11:05:27](https://news.ycombinator.com/item?id=40038922) - [Are Flying Cars Here?](https://www.newyorker.com/magazine/2024/04/22/are-flying-cars-finally-here)
 * [2024-04-15, 09:02:49](https://news.ycombinator.com/item?id=40038251) - [The Tiny Ultrabright Laser That Can Melt Steel](https://spectrum.ieee.org/pcsel)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
