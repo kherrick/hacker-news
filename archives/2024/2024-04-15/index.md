@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 19:05:36](https://news.ycombinator.com/item?id=40044464) - [Histomap: Visualizing the 4000 Year History of Global Power](https://www.visualcapitalist.com/wp-content/uploads/2017/11/histomap-big.html)
+* [2024-04-15, 18:49:43](https://news.ycombinator.com/item?id=40044243) - [XZ Utils Review Notes](https://tukaani.org/xz-backdoor/review.html)
 * [2024-04-15, 18:41:50](https://news.ycombinator.com/item?id=40044164) - [The Papa Johns closest to The Pentagon is far busier than usual](https://twitter.com/lbjfancamcoop/status/1779262898314903675)
 * [2024-04-15, 18:37:24](https://news.ycombinator.com/item?id=40044119) - [Asking BigTech to police AI is like asking oil companies to solve climate change](https://fortune.com/2024/04/15/openai-google-microsoft-responsobile-societal-questions-government-responsibility/)
 * [2024-04-15, 18:16:31](https://news.ycombinator.com/item?id=40043888) - [Apple's APFS Migration: A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
