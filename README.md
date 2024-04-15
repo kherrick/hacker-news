@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [Himalayan Hillsides Grows Japan's Cold, Hard Cash](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 * [2024-04-15, 05:27:39](https://news.ycombinator.com/item?id=40037330) - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
 * [2024-04-15, 04:20:55](https://news.ycombinator.com/item?id=40037046) - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
-* [2024-04-15, 03:56:51](https://news.ycombinator.com/item?id=40036940) - [DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
 * [2024-04-15, 02:10:01](https://news.ycombinator.com/item?id=40036431) - [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
 * [2024-04-15, 02:09:39](https://news.ycombinator.com/item?id=40036429) - [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
 * [2024-04-15, 01:37:17](https://news.ycombinator.com/item?id=40036237) - [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
