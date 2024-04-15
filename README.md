@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-15, 08:14:23](https://news.ycombinator.com/item?id=40038020) - [Marc Andreessen: I regret not doing more to support and defend Brendan Eich](https://twitter.com/pmarca/status/1778898760971821271)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
 * [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
@@ -28,6 +27,7 @@
 * [2024-04-14, 05:54:00](https://news.ycombinator.com/item?id=40028984) - [Proving Heron’s formula by complex number (2013)](https://mathgarage.wordpress.com/2013/01/20/proving-herons-formula-by-complex-number/)
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a quiet life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-13, 06:27:52](https://news.ycombinator.com/item?id=40020984) - [Swift for C++ Practitioners, Part 1: Intro and Value Types](https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/)
+* [2024-04-12, 20:53:42](https://news.ycombinator.com/item?id=40017539) - [Common pitfalls of digital health startups and advice on how to avoid them](https://bettychang.xyz/advice-for-digital-health-founders/)
 * [2024-04-12, 16:14:35](https://news.ycombinator.com/item?id=40014540) - [Monkey Management](https://mihirchronicles.com/monkey-management/)
 * [2024-04-11, 16:59:36](https://news.ycombinator.com/item?id=40004349) - [One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
 
