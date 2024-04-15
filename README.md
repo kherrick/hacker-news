@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 18:16:31](https://news.ycombinator.com/item?id=40043888) - [Apple's APFS Migration: A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 18:12:28](https://news.ycombinator.com/item?id=40043848) - [The Cowpox of Doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/)
 * [2024-04-15, 18:12:09](https://news.ycombinator.com/item?id=40043845) - [50% discount on OpenAI pricing if you submit a batch and give them up to 24h](https://twitter.com/simonw/status/1779932174592167965)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
@@ -8,11 +9,9 @@
 * [2024-04-15, 15:38:34](https://news.ycombinator.com/item?id=40042007) - [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
 * [2024-04-15, 15:36:54](https://news.ycombinator.com/item?id=40041976) - [An open-source implementation of Apple code signing and notarization (2022)](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 * [2024-04-15, 15:35:30](https://news.ycombinator.com/item?id=40041954) - [Ask HN: I want to create IMDB for open source projects](https://news.ycombinator.com/item?id=40041954)
-* [2024-04-15, 15:27:28](https://news.ycombinator.com/item?id=40041844) - [Engineer creates CPU from scratch in two weeks, begins work on GPUs](https://www.tomshardware.com/pc-components/cpus/engineer-creates-cpu-from-scratch-in-two-weeks-begins-work-on-gpus)
 * [2024-04-15, 14:58:41](https://news.ycombinator.com/item?id=40041430) - [An FDA approved device offers a new treatment for tinnitus](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:04:28](https://news.ycombinator.com/item?id=40040694) - [Smishing scam regarding debt for road toll services](https://www.ic3.gov/Media/Y2024/PSA240412)
-* [2024-04-15, 13:10:48](https://news.ycombinator.com/item?id=40040100) - [Tesla Cybertruck deliveries halted for 7 days](https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17)
 * [2024-04-15, 13:04:34](https://news.ycombinator.com/item?id=40040043) - [Limitless: Personalized AI powered by what you've seen, said, and heard](https://www.limitless.ai/)
 * [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) is hiring engineer #4 (Rust and large scale infra)](https://www.workatastartup.com/jobs/63615)
 * [2024-04-15, 11:39:30](https://news.ycombinator.com/item?id=40039191) - [We are moving to General Availability](https://supabase.com/ga)
@@ -30,6 +29,7 @@
 * [2024-04-14, 10:29:19](https://news.ycombinator.com/item?id=40030127) - [Canoes discovered northwest of Rome are oldest boats ever found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
 * [2024-04-13, 22:37:32](https://news.ycombinator.com/item?id=40026817) - [Learning from snapshots of lost fossils](https://www.sapiens.org/archaeology/human-teeth-ksar-akil/)
 * [2024-04-13, 08:23:01](https://news.ycombinator.com/item?id=40021458) - [ScanAllFish](https://www.adamsummers.org/scanallfish)
+* [2024-04-11, 21:42:12](https://news.ycombinator.com/item?id=40007120) - [Asymmetric Routing Around the Firewall](https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/)
 
 ## [Archives](archives/index.md)
 
