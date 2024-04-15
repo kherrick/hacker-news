@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 17:12:02](https://news.ycombinator.com/item?id=40043153) - [Apple Further Explains Why Game Boy Emulator iGBA Was Removed from App Store](https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/)
+* [2024-04-15, 16:53:50](https://news.ycombinator.com/item?id=40042974) - [Tesla to lay off more than 10 percent of its workers as sales slow](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-more-than-10-percent-of-its-workers-as-sales-slow/)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
 * [2024-04-15, 16:19:59](https://news.ycombinator.com/item?id=40042550) - [Now Hiring: Sophisticated (But Part-Time) Chatbot Tutors](https://www.nytimes.com/2024/04/10/technology/ai-chatbot-training-chatgpt.html)
 * [2024-04-15, 15:54:33](https://news.ycombinator.com/item?id=40042225) - [WizardLM 2](https://wizardlm.github.io/WizardLM2/)
