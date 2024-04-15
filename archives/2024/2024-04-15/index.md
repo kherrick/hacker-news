@@ -7,6 +7,7 @@
 * [2024-04-15, 13:10:48](https://news.ycombinator.com/item?id=40040100) - [Tesla Cybertruck Production Halted Due to Unintended Acceleration](https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17)
 * [2024-04-15, 13:03:38](https://news.ycombinator.com/item?id=40040030) - [Medium bans AI-generated content from its paid Partner Program](https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/)
 * [2024-04-15, 12:34:14](https://news.ycombinator.com/item?id=40039752) - [Getting the Grid to Net Zero](https://spectrum.ieee.org/electric-inverter)
+* [2024-04-15, 12:20:31](https://news.ycombinator.com/item?id=40039591) - [Open source versus Microsoft: The new rebellion begins](https://www.theregister.com/2024/04/15/opinion_microsoft_sovereignty/)
 * [2024-04-15, 12:19:41](https://news.ycombinator.com/item?id=40039581) - [FBI Opens Criminal Investigation into Baltimore Bridge Collapse](https://apnews.com/article/baltimore-bridge-collapse-fbi-investiagation-58188d524035c756872603055f309c78)
 * [2024-04-15, 12:18:33](https://news.ycombinator.com/item?id=40039567) - [Tesla lays off more than 10% of its workforce](https://www.bbc.co.uk/news/technology-68818113)
 * [2024-04-15, 12:07:14](https://news.ycombinator.com/item?id=40039450) - [Framework's software and firmware have been a mess, but it's working on them](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/)
