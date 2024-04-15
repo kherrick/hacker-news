@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 04:59:59](https://news.ycombinator.com/item?id=40037206) - [Degen Communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)
 * [2024-04-15, 04:20:55](https://news.ycombinator.com/item?id=40037046) - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
 * [2024-04-15, 03:56:51](https://news.ycombinator.com/item?id=40036940) - [DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
 * [2024-04-15, 02:10:01](https://news.ycombinator.com/item?id=40036431) - [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
@@ -22,7 +23,6 @@
 * [2024-04-14, 18:35:49](https://news.ycombinator.com/item?id=40033261) - [The Battle to Define Mental Illness (2010)](https://www.wired.com/2010/12/ff-dsmv/)
 * [2024-04-14, 17:47:00](https://news.ycombinator.com/item?id=40032869) - [Kate editor on all platforms](https://cullmann.io/posts/kate-on-all-platforms-2024/)
 * [2024-04-14, 14:35:25](https://news.ycombinator.com/item?id=40031365) - [A day in the life of a Walmart manager](https://www.wsj.com/business/retail/a-day-in-the-life-of-a-walmart-manager-who-makes-240-000-a-year-3248037f)
-* [2024-04-14, 14:00:11](https://news.ycombinator.com/item?id=40031090) - [Show HN: Stack, an open-source Clerk/Firebase Auth alternative](https://stack-auth.com/blog/introducing-stack)
 * [2024-04-14, 12:51:51](https://news.ycombinator.com/item?id=40030746) - [Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
 * [2024-04-14, 06:05:25](https://news.ycombinator.com/item?id=40029036) - [How Shazam Works (2003) [pdf]](https://ismir2003.ismir.net/presentations/Wang.pdf)
 * [2024-04-14, 05:54:00](https://news.ycombinator.com/item?id=40028984) - [Proving Heron’s formula by complex number (2013)](https://mathgarage.wordpress.com/2013/01/20/proving-herons-formula-by-complex-number/)
