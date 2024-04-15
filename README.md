@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
-* [2024-04-15, 16:19:59](https://news.ycombinator.com/item?id=40042550) - [Now Hiring: Sophisticated (But Part-Time) Chatbot Tutors](https://www.nytimes.com/2024/04/10/technology/ai-chatbot-training-chatgpt.html)
 * [2024-04-15, 15:54:33](https://news.ycombinator.com/item?id=40042225) - [WizardLM 2](https://wizardlm.github.io/WizardLM2/)
 * [2024-04-15, 15:38:34](https://news.ycombinator.com/item?id=40042007) - [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
 * [2024-04-15, 15:37:34](https://news.ycombinator.com/item?id=40041986) - [Pile-T5](https://blog.eleuther.ai/pile-t5/)
@@ -21,6 +20,7 @@
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
 * [2024-04-15, 06:39:36](https://news.ycombinator.com/item?id=40037619) - [Control Linux based distros using hand gestures using OpenCV, GTK, Mediapipe](https://github.com/flying-pizza-69/GestureX)
 * [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
+* [2024-04-15, 02:09:39](https://news.ycombinator.com/item?id=40036429) - [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
 * [2024-04-15, 01:37:17](https://news.ycombinator.com/item?id=40036237) - [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
 * [2024-04-15, 01:20:17](https://news.ycombinator.com/item?id=40036138) - [1800-2023 – IEEE Standard for SystemVerilog](https://ieeexplore.ieee.org/document/10458102)
 * [2024-04-14, 23:45:28](https://news.ycombinator.com/item?id=40035552) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
