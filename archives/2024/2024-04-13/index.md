@@ -72,6 +72,7 @@
 * [2024-04-13, 09:07:20](https://news.ycombinator.com/item?id=40021668) - [Why Michael Moorcock Despises Tolkien and C. S. Lewis](https://mythcreants.com/blog/epic-pooh-elric-vs-lord-of-the-rings/)
 * [2024-04-13, 08:55:05](https://news.ycombinator.com/item?id=40021610) - [Germanwings Flight 9525](https://en.wikipedia.org/wiki/Germanwings_Flight_9525)
 * [2024-04-13, 08:44:36](https://news.ycombinator.com/item?id=40021545) - [Experience report: It will never work in theory](https://www.computer.org/csdl/magazine/so/5555/01/10424425/1Ulj1Qa8tJ6)
+* [2024-04-13, 08:23:01](https://news.ycombinator.com/item?id=40021458) - [ScanAllFish](https://www.adamsummers.org/scanallfish)
 * [2024-04-13, 07:49:23](https://news.ycombinator.com/item?id=40021313) - [House in the Tuhinj Valley (2001)](https://brunoguastalla.net/2021/01/19/house-in-the-tuhinj-valley/)
 * [2024-04-13, 07:12:25](https://news.ycombinator.com/item?id=40021168) - [AnberDeck mod turns Anbernic RG353V game system into a handheld Linux terminal](https://liliputing.com/anberdeck-mod-turns-anbernic-rg353v-game-system-into-a-handheld-linux-terminal/)
 * [2024-04-13, 06:28:48](https://news.ycombinator.com/item?id=40020987) - [Fonts for Complex Data](https://www.typography.com/blog/fonts-for-complex-data)

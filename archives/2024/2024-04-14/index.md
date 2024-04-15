@@ -16,6 +16,7 @@
 * [2024-04-14, 22:03:08](https://news.ycombinator.com/item?id=40034869) - [Integral Calculator](https://www.integral-calculator.com/)
 * [2024-04-14, 21:35:51](https://news.ycombinator.com/item?id=40034699) - [U.S. Steel Shareholders Approve Sale to Japan's Nippon Steel](https://www.wsj.com/business/deals/u-s-steel-shareholders-approve-sale-to-japans-nippon-steel-3e1dec9e)
 * [2024-04-14, 21:18:00](https://news.ycombinator.com/item?id=40034567) - [I did crack my screen once but it was on purpose](https://twitter.com/mitchellh/status/1779617537162178614)
+* [2024-04-14, 21:17:34](https://news.ycombinator.com/item?id=40034563) - [PicoGK is a compact and robust geometry kernel for computational engineering](https://github.com/leap71/PicoGK)
 * [2024-04-14, 21:05:45](https://news.ycombinator.com/item?id=40034480) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
 * [2024-04-14, 20:58:18](https://news.ycombinator.com/item?id=40034411) - [Senate Commerce Committee chair Maria Cantwell upended privacy bills for years](https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/)
 * [2024-04-14, 20:24:07](https://news.ycombinator.com/item?id=40034140) - [The Airship to Orbit Project](https://www.jpaerospace.com/ATO/ATO.html)
