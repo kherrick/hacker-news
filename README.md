@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-15, 22:22:18](https://news.ycombinator.com/item?id=40046370) - [Something for the metalheads: Master Boot Record – Internet Protocol [video]](https://www.youtube.com/watch?v=t6KFfYdNPh8)
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-15, 20:47:31](https://news.ycombinator.com/item?id=40045357) - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
-* [2024-04-15, 20:19:17](https://news.ycombinator.com/item?id=40045093) - [T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
+* [2024-04-15, 20:19:17](https://news.ycombinator.com/item?id=40045093) - [T-Mobile employees across the country receive cash offers to illegally swap SIMs](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
 * [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 * [2024-04-15, 19:49:42](https://news.ycombinator.com/item?id=40044863) - [Phone conversations with law enforcement can be recorded without their consent](https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808)
 * [2024-04-15, 19:34:50](https://news.ycombinator.com/item?id=40044742) - [Open-source passive radar taken down for regulatory reasons (2022)](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)
@@ -27,6 +26,7 @@
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 * [2024-04-14, 21:17:34](https://news.ycombinator.com/item?id=40034563) - [PicoGK is a compact and robust geometry kernel for computational engineering](https://github.com/leap71/PicoGK)
 * [2024-04-14, 15:19:32](https://news.ycombinator.com/item?id=40031732) - [New Titanosaur Species Identified in Argentina](https://www.sci.news/paleontology/titanomachya-gimenezi-12853.html)
+* [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt Illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-14, 06:04:45](https://news.ycombinator.com/item?id=40029032) - [A City Is Not a Computer (2017)](https://placesjournal.org/article/a-city-is-not-a-computer/)
 * [2024-04-13, 22:37:32](https://news.ycombinator.com/item?id=40026817) - [Learning from snapshots of lost fossils](https://www.sapiens.org/archaeology/human-teeth-ksar-akil/)
 * [2024-04-13, 08:23:01](https://news.ycombinator.com/item?id=40021458) - [ScanAllFish](https://www.adamsummers.org/scanallfish)

@@ -59,6 +59,7 @@
 * [2024-04-14, 09:18:22](https://news.ycombinator.com/item?id=40029849) - [I ported thousands apps to Windows 95 [video]](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2024-04-14, 08:30:09](https://news.ycombinator.com/item?id=40029628) - [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
 * [2024-04-14, 08:23:10](https://news.ycombinator.com/item?id=40029592) - [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
+* [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt Illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-14, 07:13:20](https://news.ycombinator.com/item?id=40029283) - [Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
 * [2024-04-14, 06:05:25](https://news.ycombinator.com/item?id=40029036) - [How Shazam Works (2003) [pdf]](https://ismir2003.ismir.net/presentations/Wang.pdf)
 * [2024-04-14, 06:04:45](https://news.ycombinator.com/item?id=40029032) - [A City Is Not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)
