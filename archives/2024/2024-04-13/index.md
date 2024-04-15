@@ -65,6 +65,7 @@
 * [2024-04-13, 12:03:51](https://news.ycombinator.com/item?id=40022586) - [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
 * [2024-04-13, 11:26:04](https://news.ycombinator.com/item?id=40022347) - [How to Send an SMS in Haskell (2017)](https://www.twilio.com/en-us/blog/setting-up-your-haskell-developer-environment-with-twilio-html)
 * [2024-04-13, 11:00:09](https://news.ycombinator.com/item?id=40022152) - [Self-Hosted Is Awesome](https://pixeljets.com/blog/self-hosted-is-awesome/)
+* [2024-04-13, 09:36:48](https://news.ycombinator.com/item?id=40021782) - [Emacs Info Expressions](https://susam.net/emacs-info-expressions.html)
 * [2024-04-13, 09:29:59](https://news.ycombinator.com/item?id=40021758) - [Is .NET just miles ahead or am I delusional?](https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/)
 * [2024-04-13, 09:20:28](https://news.ycombinator.com/item?id=40021719) - [The First Beta of Android 15](https://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html)
 * [2024-04-13, 09:07:20](https://news.ycombinator.com/item?id=40021668) - [Why Michael Moorcock Despises Tolkien and C. S. Lewis](https://mythcreants.com/blog/epic-pooh-elric-vs-lord-of-the-rings/)
