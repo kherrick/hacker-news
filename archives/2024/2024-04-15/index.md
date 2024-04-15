@@ -10,6 +10,7 @@
 * [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 * [2024-04-15, 19:34:50](https://news.ycombinator.com/item?id=40044742) - [Open-Source Passive Radar Taken Down for Regulatory Reasons (2022)](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)
 * [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
+* [2024-04-15, 19:23:36](https://news.ycombinator.com/item?id=40044649) - [They're Looting the Internet](https://www.wheresyoured.at/the-great-looting-of-the-internet/)
 * [2024-04-15, 19:05:36](https://news.ycombinator.com/item?id=40044464) - [Histomap: Visualizing the 4000 Year History of Global Power](https://www.visualcapitalist.com/wp-content/uploads/2017/11/histomap-big.html)
 * [2024-04-15, 18:49:43](https://news.ycombinator.com/item?id=40044243) - [XZ Utils Review Notes](https://tukaani.org/xz-backdoor/review.html)
 * [2024-04-15, 18:44:54](https://news.ycombinator.com/item?id=40044187) - [Judge halts Texas probe into Media Matters' reporting on X](https://arstechnica.com/tech-policy/2024/04/judge-halts-texas-probe-into-media-matters-reporting-on-x/)
