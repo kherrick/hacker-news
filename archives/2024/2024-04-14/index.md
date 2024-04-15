@@ -49,6 +49,7 @@
 * [2024-04-14, 12:51:51](https://news.ycombinator.com/item?id=40030746) - [Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
 * [2024-04-14, 12:45:18](https://news.ycombinator.com/item?id=40030721) - [The Guide to Stock Options Conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
 * [2024-04-14, 10:43:04](https://news.ycombinator.com/item?id=40030188) - [Linux fu: getting started with systemd](https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/)
+* [2024-04-14, 10:29:19](https://news.ycombinator.com/item?id=40030127) - [Canoes Discovered Northwest of Rome Are Oldest Boats Ever Found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
 * [2024-04-14, 09:26:58](https://news.ycombinator.com/item?id=40029878) - [Show HN: I made a site that lets you make interactive demos for free](https://www.demopond.com/)
 * [2024-04-14, 08:30:09](https://news.ycombinator.com/item?id=40029628) - [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
 * [2024-04-14, 08:23:10](https://news.ycombinator.com/item?id=40029592) - [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 * [2024-04-15, 05:27:39](https://news.ycombinator.com/item?id=40037330) - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
 * [2024-04-15, 04:20:55](https://news.ycombinator.com/item?id=40037046) - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
@@ -16,7 +17,6 @@
 * [2024-04-14, 22:03:08](https://news.ycombinator.com/item?id=40034869) - [Integral Calculator](https://www.integral-calculator.com/)
 * [2024-04-14, 21:05:45](https://news.ycombinator.com/item?id=40034480) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
 * [2024-04-14, 20:24:07](https://news.ycombinator.com/item?id=40034140) - [The Airship to Orbit Project](https://www.jpaerospace.com/ATO/ATO.html)
-* [2024-04-14, 20:12:27](https://news.ycombinator.com/item?id=40034045) - [My cat alerted me to a DDoS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack)
 * [2024-04-14, 19:25:42](https://news.ycombinator.com/item?id=40033646) - [AI made these movies sharper – critics say it ruined them](https://www.nytimes.com/2024/04/13/movies/ai-blu-ray-true-lies.html)
 * [2024-04-14, 19:04:19](https://news.ycombinator.com/item?id=40033497) - [Sandboxing all the things with Flatpak and BubbleBox](https://www.ralfj.de/blog/2024/04/14/bubblebox.html)
 * [2024-04-14, 19:03:58](https://news.ycombinator.com/item?id=40033490) - [Show HN: I made a tool to clean and convert any webpage to Markdown](https://markdowndown.vercel.app/)
@@ -24,7 +24,7 @@
 * [2024-04-14, 18:35:49](https://news.ycombinator.com/item?id=40033261) - [The Battle to Define Mental Illness (2010)](https://www.wired.com/2010/12/ff-dsmv/)
 * [2024-04-14, 17:47:00](https://news.ycombinator.com/item?id=40032869) - [Kate editor on all platforms](https://cullmann.io/posts/kate-on-all-platforms-2024/)
 * [2024-04-14, 13:55:19](https://news.ycombinator.com/item?id=40031054) - [The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)
-* [2024-04-14, 12:51:51](https://news.ycombinator.com/item?id=40030746) - [Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
+* [2024-04-14, 10:29:19](https://news.ycombinator.com/item?id=40030127) - [Canoes Discovered Northwest of Rome Are Oldest Boats Ever Found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
 * [2024-04-14, 05:54:00](https://news.ycombinator.com/item?id=40028984) - [Proving Heron’s formula by complex number (2013)](https://mathgarage.wordpress.com/2013/01/20/proving-herons-formula-by-complex-number/)
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a quiet life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-13, 06:27:52](https://news.ycombinator.com/item?id=40020984) - [Swift for C++ Practitioners, Part 1: Intro and Value Types](https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/)
