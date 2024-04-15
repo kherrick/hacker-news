@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 19:34:50](https://news.ycombinator.com/item?id=40044742) - [Open-Source Passive Radar Taken Down for Regulatory Reasons (2022)](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)
 * [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:49:43](https://news.ycombinator.com/item?id=40044243) - [XZ Utils Review Notes](https://tukaani.org/xz-backdoor/review.html)
+* [2024-04-15, 18:44:54](https://news.ycombinator.com/item?id=40044187) - [Judge halts Texas probe into Media Matters' reporting on X](https://arstechnica.com/tech-policy/2024/04/judge-halts-texas-probe-into-media-matters-reporting-on-x/)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
 * [2024-04-15, 16:15:39](https://news.ycombinator.com/item?id=40042497) - [Web-Based Turbo Pascal Compiler](https://github.com/lkesteloot/turbopascal)
 * [2024-04-15, 15:54:33](https://news.ycombinator.com/item?id=40042225) - [WizardLM 2](https://wizardlm.github.io/WizardLM2/)
 * [2024-04-15, 15:38:34](https://news.ycombinator.com/item?id=40042007) - [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
 * [2024-04-15, 15:36:54](https://news.ycombinator.com/item?id=40041976) - [An open-source implementation of Apple code signing and notarization (2022)](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 * [2024-04-15, 15:35:30](https://news.ycombinator.com/item?id=40041954) - [Ask HN: I want to create IMDB for open source projects](https://news.ycombinator.com/item?id=40041954)
-* [2024-04-15, 15:14:45](https://news.ycombinator.com/item?id=40041667) - [Procrastination can be caused by anxiety](https://solvingprocrastination.com/anxiety/)
 * [2024-04-15, 14:58:41](https://news.ycombinator.com/item?id=40041430) - [An FDA approved device offers a new treatment for tinnitus](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:04:28](https://news.ycombinator.com/item?id=40040694) - [Smishing scam regarding debt for road toll services](https://www.ic3.gov/Media/Y2024/PSA240412)
@@ -29,7 +30,6 @@
 * [2024-04-14, 10:29:19](https://news.ycombinator.com/item?id=40030127) - [Canoes discovered northwest of Rome are oldest boats ever found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
 * [2024-04-13, 22:37:32](https://news.ycombinator.com/item?id=40026817) - [Learning from snapshots of lost fossils](https://www.sapiens.org/archaeology/human-teeth-ksar-akil/)
 * [2024-04-13, 08:23:01](https://news.ycombinator.com/item?id=40021458) - [ScanAllFish](https://www.adamsummers.org/scanallfish)
-* [2024-04-11, 21:42:12](https://news.ycombinator.com/item?id=40007120) - [Asymmetric Routing Around the Firewall](https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/)
 
 ## [Archives](archives/index.md)
 
