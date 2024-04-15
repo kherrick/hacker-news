@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 11:35:06](https://news.ycombinator.com/item?id=40039154) - [Why No IPv6?](https://whynoipv6.com/)
 * [2024-04-15, 11:17:46](https://news.ycombinator.com/item?id=40039021) - [EU data shows PHEVs emit 350% more CO2 than tested values](https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values)
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [2024-04-15, 10:15:44](https://news.ycombinator.com/item?id=40038591) - [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)

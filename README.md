@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 11:35:06](https://news.ycombinator.com/item?id=40039154) - [Why No IPv6?](https://whynoipv6.com/)
 * [2024-04-15, 11:17:46](https://news.ycombinator.com/item?id=40039021) - [EU data shows PHEVs emit 350% more CO2 than tested values](https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values)
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
-* [2024-04-15, 10:15:44](https://news.ycombinator.com/item?id=40038591) - [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
-* [2024-04-15, 09:57:11](https://news.ycombinator.com/item?id=40038501) - [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
+* [2024-04-15, 09:57:11](https://news.ycombinator.com/item?id=40038501) - [North Korea Hacked Him. So He Took Down Its Internet (2022)](https://www.wired.com/story/north-korea-hacker-internet-outage/)
 * [2024-04-15, 09:34:02](https://news.ycombinator.com/item?id=40038395) - ['We're the last bastion of rental': video stores resisting rise of streaming](https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops)
 * [2024-04-15, 09:30:25](https://news.ycombinator.com/item?id=40038372) - [RFC: Banning \"AI\"-backed (LLM/GPT/whatever) contributions to Gentoo](https://www.mail-archive.com/gentoo-dev@lists.gentoo.org/msg99042.html)
 * [2024-04-15, 09:02:49](https://news.ycombinator.com/item?id=40038251) - [The Tiny Ultrabright Laser That Can Melt Steel](https://spectrum.ieee.org/pcsel)
@@ -21,7 +21,6 @@
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 * [2024-04-14, 23:22:43](https://news.ycombinator.com/item?id=40035414) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
 * [2024-04-14, 21:05:45](https://news.ycombinator.com/item?id=40034480) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
-* [2024-04-14, 20:24:07](https://news.ycombinator.com/item?id=40034140) - [The Airship to Orbit Project](https://www.jpaerospace.com/ATO/ATO.html)
 * [2024-04-14, 13:55:19](https://news.ycombinator.com/item?id=40031054) - [The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)
 * [2024-04-14, 13:01:10](https://news.ycombinator.com/item?id=40030786) - [Trying to Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-04-14, 10:29:19](https://news.ycombinator.com/item?id=40030127) - [Canoes Discovered Northwest of Rome Are Oldest Boats Ever Found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
@@ -29,6 +28,7 @@
 * [2024-04-14, 05:54:00](https://news.ycombinator.com/item?id=40028984) - [Proving Heron’s formula by complex number (2013)](https://mathgarage.wordpress.com/2013/01/20/proving-herons-formula-by-complex-number/)
 * [2024-04-13, 06:27:52](https://news.ycombinator.com/item?id=40020984) - [Swift for C++ Practitioners, Part 1: Intro and Value Types](https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/)
 * [2024-04-13, 04:54:58](https://news.ycombinator.com/item?id=40020598) - [Never redefine an inherited default parameter value](http://www.cpptips.com/redef_dflt_parm)
+* [2024-04-12, 20:53:42](https://news.ycombinator.com/item?id=40017539) - [Common pitfalls of digital health startups and advice on how to avoid them](https://bettychang.xyz/advice-for-digital-health-founders/)
 * [2024-04-11, 16:59:36](https://news.ycombinator.com/item?id=40004349) - [One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
 
 ## [Archives](archives/index.md)
