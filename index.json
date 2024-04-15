@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-04-15, 01:46:00",
+      "https://news.ycombinator.com/item?id=40036284"
+    ],
+    [
+      "Paradox of Plenty",
+      "https://en.wikipedia.org/wiki/Resource_curse"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 01:37:17",
+      "https://news.ycombinator.com/item?id=40036237"
+    ],
+    [
+      "Computer-generated holography with ordinary display",
+      "https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 00:16:11",
+      "https://news.ycombinator.com/item?id=40035743"
+    ],
+    [
+      "Why is Montreal a stolen car export hub?",
+      "https://nationalpost.com/news/canada/why-is-montreal-a-stolen-car-export-hub-jurisdiction-limits-and-size-officials-say"
+    ]
+  ],
+  [
+    [
+      "2024-04-14, 23:45:28",
+      "https://news.ycombinator.com/item?id=40035552"
+    ],
+    [
+      "Spectral Ray Tracing",
+      "https://larswander.com/writing/spectral-ray-tracing/"
+    ]
+  ],
+  [
+    [
+      "2024-04-14, 23:38:01",
+      "https://news.ycombinator.com/item?id=40035514"
+    ],
+    [
+      "Visualizing Attention, a Transformer's Heart [video]",
+      "https://www.3blue1brown.com/lessons/attention"
+    ]
+  ],
+  [
+    [
+      "2024-04-14, 23:07:17",
+      "https://news.ycombinator.com/item?id=40035305"
+    ],
+    [
+      "John Carmack reflecting on the firing of Palmer Luckey",
+      "https://twitter.com/ID_AA_Carmack/status/1779171248083177500"
+    ]
+  ],
+  [
+    [
       "2024-04-14, 22:33:03",
       "https://news.ycombinator.com/item?id=40035084"
     ],
@@ -11,42 +71,12 @@
   ],
   [
     [
-      "2024-04-14, 22:23:11",
-      "https://news.ycombinator.com/item?id=40035002"
-    ],
-    [
-      "Ask HN: What movies changed your perception of reality or life?",
-      "https://news.ycombinator.com/item?id=40035002"
-    ]
-  ],
-  [
-    [
-      "2024-04-14, 22:19:03",
-      "https://news.ycombinator.com/item?id=40034972"
-    ],
-    [
-      "Ask HN: Is RAG the Future of LLMs?",
-      "https://news.ycombinator.com/item?id=40034972"
-    ]
-  ],
-  [
-    [
       "2024-04-14, 21:05:45",
       "https://news.ycombinator.com/item?id=40034480"
     ],
     [
       "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
       "https://news.ycombinator.com/item?id=40034480"
-    ]
-  ],
-  [
-    [
-      "2024-04-14, 20:58:18",
-      "https://news.ycombinator.com/item?id=40034411"
-    ],
-    [
-      "Senate Commerce Committee chair Maria Cantwell upended privacy bills for years",
-      "https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/"
     ]
   ],
   [
@@ -125,18 +155,8 @@
       "https://news.ycombinator.com/item?id=40033268"
     ],
     [
-      "Good News Against Dengue",
+      "Good news against dengue",
       "https://www.science.org/content/blog-post/good-news-against-dengue"
-    ]
-  ],
-  [
-    [
-      "2024-04-14, 18:35:49",
-      "https://news.ycombinator.com/item?id=40033261"
-    ],
-    [
-      "The Battle to Define Mental Illness (2010)",
-      "https://www.wired.com/2010/12/ff-dsmv/"
     ]
   ],
   [
@@ -151,22 +171,22 @@
   ],
   [
     [
-      "2024-04-14, 18:06:26",
-      "https://news.ycombinator.com/item?id=40033033"
-    ],
-    [
-      "Discovering My Roommate's Death on Facebook",
-      "https://medium.com/the-wind-phone/discovering-my-roommates-death-on-facebook-3a060fc477ec"
-    ]
-  ],
-  [
-    [
       "2024-04-14, 17:47:00",
       "https://news.ycombinator.com/item?id=40032869"
     ],
     [
       "Kate editor on all platforms",
       "https://cullmann.io/posts/kate-on-all-platforms-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-04-14, 17:38:05",
+      "https://news.ycombinator.com/item?id=40032792"
+    ],
+    [
+      "Show HN: Docker-boot – Run a system from RAM without LiveCD",
+      "https://github.com/purplesyringa/docker-boot"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2024-04-14, 10:43:04",
-      "https://news.ycombinator.com/item?id=40030188"
-    ],
-    [
-      "Linux fu: getting started with systemd",
-      "https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/"
-    ]
-  ],
-  [
-    [
-      "2024-04-14, 08:23:10",
-      "https://news.ycombinator.com/item?id=40029592"
-    ],
-    [
-      "Getting into way too much detail with the Z80 netlist simulation (2021)",
-      "https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content"
-    ]
-  ],
-  [
-    [
       "2024-04-14, 04:24:38",
       "https://news.ycombinator.com/item?id=40028643"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-04-14, 03:49:06",
-      "https://news.ycombinator.com/item?id=40028494"
-    ],
-    [
-      "Can You Grok It – Hacking together my own dev tunnel service",
-      "https://0xda.de/blog/2024/04/can-you-grok-it/"
-    ]
-  ],
-  [
-    [
       "2024-04-14, 02:14:36",
       "https://news.ycombinator.com/item?id=40028111"
     ],
     [
       "Show HN: PostgreSQL index advisor",
       "https://github.com/supabase/index_advisor"
+    ]
+  ],
+  [
+    [
+      "2024-04-13, 06:27:52",
+      "https://news.ycombinator.com/item?id=40020984"
+    ],
+    [
+      "Swift for C++ Practitioners, Part 1: Intro and Value Types",
+      "https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=40020343"
     ],
     [
-      "Program Synthesis",
+      "Program synthesis",
       "https://en.wikipedia.org/wiki/Program_synthesis"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-04-12, 16:09:28",
-      "https://news.ycombinator.com/item?id=40014486"
+      "2024-04-11, 16:59:36",
+      "https://news.ycombinator.com/item?id=40004349"
     ],
     [
-      "Finding and fixing standard misconceptions about program behavior",
-      "https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html"
+      "One man's artistic wonderland, created in rental, gets protected status",
+      "https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html"
     ]
   ]
 ]
