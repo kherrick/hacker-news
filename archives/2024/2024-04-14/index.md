@@ -42,6 +42,7 @@
 * [2024-04-14, 14:23:25](https://news.ycombinator.com/item?id=40031256) - [Roku says hackers gained access to 576k accounts in latest data-breach incident](https://www.wsj.com/tech/roku-says-hackers-gained-access-to-576-000-accounts-in-latest-data-breach-incident-8f73ab15)
 * [2024-04-14, 14:00:11](https://news.ycombinator.com/item?id=40031090) - [Show HN: Stack, an open-source Clerk/Firebase Auth alternative](https://stack-auth.com/blog/introducing-stack)
 * [2024-04-14, 13:55:34](https://news.ycombinator.com/item?id=40031058) - [Broadcom has willingly dug its VMware hole, says cloud CEO [video]](https://www.theregister.com/2024/04/08/broadcom_vmware_civo/)
+* [2024-04-14, 13:55:19](https://news.ycombinator.com/item?id=40031054) - [The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)
 * [2024-04-14, 13:26:54](https://news.ycombinator.com/item?id=40030901) - [Wikipedia Abuse Filter](https://en.wikipedia.org/wiki/Special:AbuseFilter/?deletedfilters=hide&furtheroptions%5B%5D=hideprivate&furtheroptions%5B%5D=hidedisabled&limit=500)
 * [2024-04-14, 13:22:26](https://news.ycombinator.com/item?id=40030881) - [Taking CO2 out of the air would be an expensive way to fight climate change](https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report)
 * [2024-04-14, 13:14:19](https://news.ycombinator.com/item?id=40030853) - [Many FBI agents are struggling to make ends meet. Housing costs are to blame](https://www.npr.org/2024/04/11/1243982287/fbi-agents-housing-costs)
