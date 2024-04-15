@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 09:34:02](https://news.ycombinator.com/item?id=40038395) - ['We're the last bastion of rental': video stores resisting rise of streaming](https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops)
 * [2024-04-15, 08:14:23](https://news.ycombinator.com/item?id=40038020) - [Marc Andreessen: I regret not doing more to support and defend Brendan Eich](https://twitter.com/pmarca/status/1778898760971821271)
 * [2024-04-15, 08:00:01](https://news.ycombinator.com/item?id=40037959) - [Mid-level Nvidia employee gets $62M in stock options; another lost it all](https://www.tomshardware.com/pc-components/gpus/nvidia-employees-make-fortunes-and-foul-ups-with-their-stock-options-a-story-of-millionaire-winners-and-losers)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
