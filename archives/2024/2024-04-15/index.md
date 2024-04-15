@@ -6,6 +6,7 @@
 
 * [2024-04-15, 15:23:08](https://news.ycombinator.com/item?id=40041784) - [US House approves FISA renewal – warrantless surveillance and all](https://www.theregister.com/2024/04/15/security_in_brief/)
 * [2024-04-15, 15:13:27](https://news.ycombinator.com/item?id=40041645) - [Gay Bomb](https://en.wikipedia.org/wiki/Gay_bomb)
+* [2024-04-15, 14:58:41](https://news.ycombinator.com/item?id=40041430) - [Got tinnitus? A device that tickles the tongue helps this musician find relief](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
 * [2024-04-15, 14:57:23](https://news.ycombinator.com/item?id=40041406) - [Do you *really* need to store all that telemetry?](https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/)
 * [2024-04-15, 14:49:51](https://news.ycombinator.com/item?id=40041309) - [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
 * [2024-04-15, 14:48:31](https://news.ycombinator.com/item?id=40041288) - [Yagi–Uda Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna)
