@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-15, 13:10:48",
+      "https://news.ycombinator.com/item?id=40040100"
+    ],
+    [
+      "Tesla Cybertruck Production Halted Due to Unintended Acceleration",
+      "https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 13:03:38",
+      "https://news.ycombinator.com/item?id=40040030"
+    ],
+    [
+      "Medium bans AI-generated content from its paid Partner Program",
+      "https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/"
+    ]
+  ],
+  [
+    [
       "2024-04-15, 12:34:14",
       "https://news.ycombinator.com/item?id=40039752"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-04-14, 22:03:08",
-      "https://news.ycombinator.com/item?id=40034869"
-    ],
-    [
-      "Integral Calculator",
-      "https://www.integral-calculator.com/"
-    ]
-  ],
-  [
-    [
       "2024-04-14, 13:55:19",
       "https://news.ycombinator.com/item?id=40031054"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2024-04-13, 06:27:52",
-      "https://news.ycombinator.com/item?id=40020984"
-    ],
-    [
-      "Swift for C++ Practitioners, Part 1: Intro and Value Types",
-      "https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/"
-    ]
-  ],
-  [
-    [
       "2024-04-13, 04:54:58",
       "https://news.ycombinator.com/item?id=40020598"
     ],
     [
-      "Never redefine an inherited default parameter value",
+      "Never redefine an inherited default parameter value (1997)",
       "http://www.cpptips.com/redef_dflt_parm"
     ]
   ],
