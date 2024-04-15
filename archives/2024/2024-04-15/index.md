@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 12:00:48](https://news.ycombinator.com/item?id=40039372) - [Recall.ai (YC W20) Is Hiring Engineer #4 (Rust and Large Scale Infra)](https://www.workatastartup.com/jobs/63615)
 * [2024-04-15, 11:35:06](https://news.ycombinator.com/item?id=40039154) - [Why No IPv6?](https://whynoipv6.com/)
 * [2024-04-15, 11:17:46](https://news.ycombinator.com/item?id=40039021) - [EU data shows PHEVs emit 350% more CO2 than tested values](https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values)
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)

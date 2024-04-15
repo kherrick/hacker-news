@@ -49,6 +49,7 @@
 * [2024-04-14, 13:01:10](https://news.ycombinator.com/item?id=40030786) - [Trying to Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-04-14, 12:51:51](https://news.ycombinator.com/item?id=40030746) - [Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
 * [2024-04-14, 12:45:18](https://news.ycombinator.com/item?id=40030721) - [The Guide to Stock Options Conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
+* [2024-04-14, 11:12:45](https://news.ycombinator.com/item?id=40030308) - [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
 * [2024-04-14, 10:43:04](https://news.ycombinator.com/item?id=40030188) - [Linux fu: getting started with systemd](https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/)
 * [2024-04-14, 10:29:19](https://news.ycombinator.com/item?id=40030127) - [Canoes Discovered Northwest of Rome Are Oldest Boats Ever Found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
 * [2024-04-14, 10:28:13](https://news.ycombinator.com/item?id=40030125) - [Why good external SSDs are faster with Apple Silicon](https://eclecticlight.co/2024/04/14/last-week-on-my-mac-why-good-external-ssds-are-faster-with-apple-silicon/)
