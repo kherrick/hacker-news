@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 14:49:51](https://news.ycombinator.com/item?id=40041309) - [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
+* [2024-04-15, 14:27:06](https://news.ycombinator.com/item?id=40040959) - [20 years ago Gmail revolutionized email. It's time for a new revolution](https://tuta.com/blog/gmail-20-years-old)
+* [2024-04-15, 14:24:44](https://news.ycombinator.com/item?id=40040919) - [Ionos prices go up after Broadcom acquires VMware](https://twitter.com/BigBalli/status/1779878305812152367)
 * [2024-04-15, 14:09:00](https://news.ycombinator.com/item?id=40040748) - [Fortran Standard Library: release v0.5.0](https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827)
 * [2024-04-15, 14:07:58](https://news.ycombinator.com/item?id=40040738) - [TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
 * [2024-04-15, 14:04:28](https://news.ycombinator.com/item?id=40040694) - [FBI IC3: Smishing Scam Regarding Debt for Road Toll Services](https://www.ic3.gov/Media/Y2024/PSA240412)
