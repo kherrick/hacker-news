@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 10:15:44](https://news.ycombinator.com/item?id=40038591) - [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
 * [2024-04-15, 10:06:33](https://news.ycombinator.com/item?id=40038549) - [Tesla to lay off more than 10% of its staff](https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/)
 * [2024-04-15, 09:57:11](https://news.ycombinator.com/item?id=40038501) - [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
 * [2024-04-15, 09:34:02](https://news.ycombinator.com/item?id=40038395) - ['We're the last bastion of rental': video stores resisting rise of streaming](https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops)
