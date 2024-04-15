@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 16:19:59](https://news.ycombinator.com/item?id=40042550) - [Now Hiring: Sophisticated (But Part-Time) Chatbot Tutors](https://www.nytimes.com/2024/04/10/technology/ai-chatbot-training-chatgpt.html)
+* [2024-04-15, 15:38:34](https://news.ycombinator.com/item?id=40042007) - [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
+* [2024-04-15, 15:35:30](https://news.ycombinator.com/item?id=40041954) - [Ask HN: I want to create IMDB for Open source projects](https://news.ycombinator.com/item?id=40041954)
 * [2024-04-15, 15:23:08](https://news.ycombinator.com/item?id=40041784) - [US House approves FISA renewal – warrantless surveillance and all](https://www.theregister.com/2024/04/15/security_in_brief/)
 * [2024-04-15, 15:13:27](https://news.ycombinator.com/item?id=40041645) - [Gay Bomb](https://en.wikipedia.org/wiki/Gay_bomb)
 * [2024-04-15, 14:58:41](https://news.ycombinator.com/item?id=40041430) - [Got tinnitus? A device that tickles the tongue helps this musician find relief](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
