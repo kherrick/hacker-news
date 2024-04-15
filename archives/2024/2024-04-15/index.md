@@ -9,6 +9,7 @@
 * [2024-04-15, 09:57:11](https://news.ycombinator.com/item?id=40038501) - [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
 * [2024-04-15, 09:34:02](https://news.ycombinator.com/item?id=40038395) - ['We're the last bastion of rental': video stores resisting rise of streaming](https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops)
 * [2024-04-15, 09:30:25](https://news.ycombinator.com/item?id=40038372) - [RFC: Banning \"AI\"-backed (LLM/GPT/whatever) contributions to Gentoo](https://www.mail-archive.com/gentoo-dev@lists.gentoo.org/msg99042.html)
+* [2024-04-15, 09:02:49](https://news.ycombinator.com/item?id=40038251) - [The Tiny Ultrabright Laser That Can Melt Steel](https://spectrum.ieee.org/pcsel)
 * [2024-04-15, 08:14:23](https://news.ycombinator.com/item?id=40038020) - [Marc Andreessen: I regret not doing more to support and defend Brendan Eich](https://twitter.com/pmarca/status/1778898760971821271)
 * [2024-04-15, 08:00:01](https://news.ycombinator.com/item?id=40037959) - [Mid-level Nvidia employee gets $62M in stock options; another lost it all](https://www.tomshardware.com/pc-components/gpus/nvidia-employees-make-fortunes-and-foul-ups-with-their-stock-options-a-story-of-millionaire-winners-and-losers)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
