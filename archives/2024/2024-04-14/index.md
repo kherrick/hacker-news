@@ -61,6 +61,7 @@
 * [2024-04-14, 08:23:10](https://news.ycombinator.com/item?id=40029592) - [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
 * [2024-04-14, 07:13:20](https://news.ycombinator.com/item?id=40029283) - [Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
 * [2024-04-14, 06:05:25](https://news.ycombinator.com/item?id=40029036) - [How Shazam Works (2003) [pdf]](https://ismir2003.ismir.net/presentations/Wang.pdf)
+* [2024-04-14, 06:04:45](https://news.ycombinator.com/item?id=40029032) - [A City Is Not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)
 * [2024-04-14, 05:54:00](https://news.ycombinator.com/item?id=40028984) - [Proving Heron’s formula by complex number (2013)](https://mathgarage.wordpress.com/2013/01/20/proving-herons-formula-by-complex-number/)
 * [2024-04-14, 04:24:38](https://news.ycombinator.com/item?id=40028643) - [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 * [2024-04-14, 03:49:06](https://news.ycombinator.com/item?id=40028494) - [Can You Grok It – Hacking together my own dev tunnel service](https://0xda.de/blog/2024/04/can-you-grok-it/)
