@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-15, 10:15:44](https://news.ycombinator.com/item?id=40038591) - [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
-* [2024-04-15, 10:06:33](https://news.ycombinator.com/item?id=40038549) - [Tesla to lay off more than 10% of its staff](https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/)
 * [2024-04-15, 09:57:11](https://news.ycombinator.com/item?id=40038501) - [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
 * [2024-04-15, 09:34:02](https://news.ycombinator.com/item?id=40038395) - ['We're the last bastion of rental': video stores resisting rise of streaming](https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops)
 * [2024-04-15, 09:30:25](https://news.ycombinator.com/item?id=40038372) - [RFC: Banning \"AI\"-backed (LLM/GPT/whatever) contributions to Gentoo](https://www.mail-archive.com/gentoo-dev@lists.gentoo.org/msg99042.html)
@@ -18,6 +17,7 @@
 * [2024-04-14, 23:45:28](https://news.ycombinator.com/item?id=40035552) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 * [2024-04-14, 23:22:43](https://news.ycombinator.com/item?id=40035414) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
+* [2024-04-14, 22:03:08](https://news.ycombinator.com/item?id=40034869) - [Integral Calculator](https://www.integral-calculator.com/)
 * [2024-04-14, 21:05:45](https://news.ycombinator.com/item?id=40034480) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
 * [2024-04-14, 20:24:07](https://news.ycombinator.com/item?id=40034140) - [The Airship to Orbit Project](https://www.jpaerospace.com/ATO/ATO.html)
 * [2024-04-14, 13:55:19](https://news.ycombinator.com/item?id=40031054) - [The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)
