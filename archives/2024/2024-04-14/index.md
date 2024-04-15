@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 23:45:28](https://news.ycombinator.com/item?id=40035552) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
+* [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
+* [2024-04-14, 23:07:17](https://news.ycombinator.com/item?id=40035305) - [John Carmack reflecting on the firing of Palmer Luckey](https://twitter.com/ID_AA_Carmack/status/1779171248083177500)
 * [2024-04-14, 22:33:03](https://news.ycombinator.com/item?id=40035084) - [Swatch Internet Time](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
 * [2024-04-14, 22:23:11](https://news.ycombinator.com/item?id=40035002) - [Ask HN: What movies changed your perception of reality or life?](https://news.ycombinator.com/item?id=40035002)
 * [2024-04-14, 22:19:03](https://news.ycombinator.com/item?id=40034972) - [Ask HN: Is RAG the Future of LLMs?](https://news.ycombinator.com/item?id=40034972)
@@ -26,6 +29,7 @@
 * [2024-04-14, 18:06:43](https://news.ycombinator.com/item?id=40033039) - [Phanpy: A minimalistic opinionated Mastodon web client](https://phanpy.social)
 * [2024-04-14, 18:06:26](https://news.ycombinator.com/item?id=40033033) - [Discovering My Roommate's Death on Facebook](https://medium.com/the-wind-phone/discovering-my-roommates-death-on-facebook-3a060fc477ec)
 * [2024-04-14, 17:47:00](https://news.ycombinator.com/item?id=40032869) - [Kate editor on all platforms](https://cullmann.io/posts/kate-on-all-platforms-2024/)
+* [2024-04-14, 17:38:05](https://news.ycombinator.com/item?id=40032792) - [Show HN: Docker-boot – Run a system from RAM without LiveCD](https://github.com/purplesyringa/docker-boot)
 * [2024-04-14, 14:35:56](https://news.ycombinator.com/item?id=40031370) - [Show HN: After so many ups and downs, InvoicingAPI is finally ready](https://invoicingapi.com)
 * [2024-04-14, 14:35:40](https://news.ycombinator.com/item?id=40031367) - [Fedora 41 will unify bin and sbin](https://fedoraproject.org/wiki/Changes/Unify_bin_and_sbin)
 * [2024-04-14, 14:35:25](https://news.ycombinator.com/item?id=40031365) - [A Day in the Life of a Walmart Manager Who Makes $240k a Year](https://www.wsj.com/business/retail/a-day-in-the-life-of-a-walmart-manager-who-makes-240-000-a-year-3248037f)
