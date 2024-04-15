@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 11:17:46](https://news.ycombinator.com/item?id=40039021) - [EU data shows PHEVs emit 350% more CO2 than tested values](https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values)
+* [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [2024-04-15, 10:15:44](https://news.ycombinator.com/item?id=40038591) - [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
 * [2024-04-15, 10:06:33](https://news.ycombinator.com/item?id=40038549) - [Tesla to lay off more than 10% of its staff](https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/)
 * [2024-04-15, 09:57:11](https://news.ycombinator.com/item?id=40038501) - [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
@@ -14,6 +16,7 @@
 * [2024-04-15, 08:00:01](https://news.ycombinator.com/item?id=40037959) - [Mid-level Nvidia employee gets $62M in stock options; another lost it all](https://www.tomshardware.com/pc-components/gpus/nvidia-employees-make-fortunes-and-foul-ups-with-their-stock-options-a-story-of-millionaire-winners-and-losers)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
+* [2024-04-15, 06:39:36](https://news.ycombinator.com/item?id=40037619) - [Control Linux based distros using hand gestures using OpenCV, GTK, Mediapipe](https://github.com/flying-pizza-69/GestureX)
 * [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [Himalayan Hillsides Grows Japan's Cold, Hard Cash](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 * [2024-04-15, 05:27:39](https://news.ycombinator.com/item?id=40037330) - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
 * [2024-04-15, 04:59:59](https://news.ycombinator.com/item?id=40037206) - [Degen Communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)
