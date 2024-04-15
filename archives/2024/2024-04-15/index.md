@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 13:13:01](https://news.ycombinator.com/item?id=40040126) - [Citizenship Privilege Harms Science](https://www.nature.com/articles/d41586-024-01080-x)
 * [2024-04-15, 13:10:48](https://news.ycombinator.com/item?id=40040100) - [Tesla Cybertruck Production Halted Due to Unintended Acceleration](https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17)
 * [2024-04-15, 13:03:38](https://news.ycombinator.com/item?id=40040030) - [Medium bans AI-generated content from its paid Partner Program](https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/)
 * [2024-04-15, 12:34:14](https://news.ycombinator.com/item?id=40039752) - [Getting the Grid to Net Zero](https://spectrum.ieee.org/electric-inverter)

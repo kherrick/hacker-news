@@ -54,6 +54,7 @@
 * [2024-04-14, 10:29:19](https://news.ycombinator.com/item?id=40030127) - [Canoes Discovered Northwest of Rome Are Oldest Boats Ever Found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
 * [2024-04-14, 10:28:13](https://news.ycombinator.com/item?id=40030125) - [Why good external SSDs are faster with Apple Silicon](https://eclecticlight.co/2024/04/14/last-week-on-my-mac-why-good-external-ssds-are-faster-with-apple-silicon/)
 * [2024-04-14, 09:26:58](https://news.ycombinator.com/item?id=40029878) - [Show HN: I made a site that lets you make interactive demos for free](https://www.demopond.com/)
+* [2024-04-14, 09:18:22](https://news.ycombinator.com/item?id=40029849) - [I ported thousands apps to Windows 95 [video]](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2024-04-14, 08:30:09](https://news.ycombinator.com/item?id=40029628) - [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
 * [2024-04-14, 08:23:10](https://news.ycombinator.com/item?id=40029592) - [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
 * [2024-04-14, 07:13:20](https://news.ycombinator.com/item?id=40029283) - [Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
