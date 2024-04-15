@@ -11,6 +11,7 @@
 * [2024-04-15, 15:37:34](https://news.ycombinator.com/item?id=40041986) - [Pile-T5](https://blog.eleuther.ai/pile-t5/)
 * [2024-04-15, 15:36:54](https://news.ycombinator.com/item?id=40041976) - [An Open-Source Implementation of Apple Code Signing and Notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 * [2024-04-15, 15:35:30](https://news.ycombinator.com/item?id=40041954) - [Ask HN: I want to create IMDB for Open source projects](https://news.ycombinator.com/item?id=40041954)
+* [2024-04-15, 15:27:28](https://news.ycombinator.com/item?id=40041844) - [Engineer creates CPU from scratch in two weeks – begins work on GPUs](https://www.tomshardware.com/pc-components/cpus/engineer-creates-cpu-from-scratch-in-two-weeks-begins-work-on-gpus)
 * [2024-04-15, 15:23:08](https://news.ycombinator.com/item?id=40041784) - [US House approves FISA renewal – warrantless surveillance and all](https://www.theregister.com/2024/04/15/security_in_brief/)
 * [2024-04-15, 15:14:45](https://news.ycombinator.com/item?id=40041667) - [Procrastination can be caused by anxiety](https://solvingprocrastination.com/anxiety/)
 * [2024-04-15, 15:13:27](https://news.ycombinator.com/item?id=40041645) - [Gay Bomb](https://en.wikipedia.org/wiki/Gay_bomb)
