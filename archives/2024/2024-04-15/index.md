@@ -16,6 +16,7 @@
 * [2024-04-15, 18:16:31](https://news.ycombinator.com/item?id=40043888) - [Apple's APFS Migration: A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 18:12:28](https://news.ycombinator.com/item?id=40043848) - [The Cowpox of Doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/)
 * [2024-04-15, 18:12:09](https://news.ycombinator.com/item?id=40043845) - [50% discount on OpenAI pricing if you submit a batch and give them up to 24h](https://twitter.com/simonw/status/1779932174592167965)
+* [2024-04-15, 18:00:14](https://news.ycombinator.com/item?id=40043711) - [Ketogenic diet may play a role in treating schizophrenia: research (2019)](https://www.psychologytoday.com/us/blog/advancing-psychiatry/201904/chronic-schizophrenia-put-remission-without-medication)
 * [2024-04-15, 17:12:14](https://news.ycombinator.com/item?id=40043155) - [California has set a benchmark for renewable energy](https://www.thecooldown.com/green-tech/california-renewable-energy-100-percent-grid/)
 * [2024-04-15, 17:12:02](https://news.ycombinator.com/item?id=40043153) - [Apple Further Explains Why Game Boy Emulator iGBA Was Removed from App Store](https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/)
 * [2024-04-15, 16:53:50](https://news.ycombinator.com/item?id=40042974) - [Tesla to lay off more than 10 percent of its workers as sales slow](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-more-than-10-percent-of-its-workers-as-sales-slow/)
