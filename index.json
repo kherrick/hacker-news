@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-15, 18:16:31",
+      "https://news.ycombinator.com/item?id=40043888"
+    ],
+    [
+      "Apple's APFS Migration: A Feat of Engineering",
+      "https://registerspill.thorstenball.com/p/a-feat-of-engineering"
+    ]
+  ],
+  [
+    [
       "2024-04-15, 18:12:28",
       "https://news.ycombinator.com/item?id=40043848"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2024-04-15, 15:27:28",
-      "https://news.ycombinator.com/item?id=40041844"
-    ],
-    [
-      "Engineer creates CPU from scratch in two weeks, begins work on GPUs",
-      "https://www.tomshardware.com/pc-components/cpus/engineer-creates-cpu-from-scratch-in-two-weeks-begins-work-on-gpus"
-    ]
-  ],
-  [
-    [
       "2024-04-15, 14:58:41",
       "https://news.ycombinator.com/item?id=40041430"
     ],
@@ -117,16 +117,6 @@
     [
       "Smishing scam regarding debt for road toll services",
       "https://www.ic3.gov/Media/Y2024/PSA240412"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 13:10:48",
-      "https://news.ycombinator.com/item?id=40040100"
-    ],
-    [
-      "Tesla Cybertruck deliveries halted for 7 days",
-      "https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "ScanAllFish",
       "https://www.adamsummers.org/scanallfish"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 21:42:12",
+      "https://news.ycombinator.com/item?id=40007120"
+    ],
+    [
+      "Asymmetric Routing Around the Firewall",
+      "https://devnonsense.com/posts/asymmetric-routing-around-the-firewall/"
     ]
   ]
 ]
