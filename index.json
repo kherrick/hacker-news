@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-15, 23:23:28",
+      "https://news.ycombinator.com/item?id=40046774"
+    ],
+    [
+      "Show HN: Render audio waveforms to HTML canvas using WebGPU",
+      "https://news.ycombinator.com/item?id=40046774"
+    ]
+  ],
+  [
+    [
       "2024-04-15, 21:01:23",
       "https://news.ycombinator.com/item?id=40045532"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2024-04-15, 15:35:30",
-      "https://news.ycombinator.com/item?id=40041954"
-    ],
-    [
-      "Ask HN: I want to create IMDB for open source projects",
-      "https://news.ycombinator.com/item?id=40041954"
-    ]
-  ],
-  [
-    [
       "2024-04-15, 14:58:41",
       "https://news.ycombinator.com/item?id=40041430"
     ],
@@ -155,18 +155,8 @@
       "https://news.ycombinator.com/item?id=40041198"
     ],
     [
-      "Building a GPS receiver",
+      "Show HN: Building a GPS receiver",
       "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 14:04:28",
-      "https://news.ycombinator.com/item?id=40040694"
-    ],
-    [
-      "Smishing scam regarding debt for road toll services",
-      "https://www.ic3.gov/Media/Y2024/PSA240412"
     ]
   ],
   [
@@ -191,12 +181,22 @@
   ],
   [
     [
-      "2024-04-15, 11:17:44",
-      "https://news.ycombinator.com/item?id=40039020"
+      "2024-04-15, 10:42:04",
+      "https://news.ycombinator.com/item?id=40038759"
     ],
     [
-      "A proof-of-concept Python executable built on Cosmopolitan Libc (2022)",
-      "https://ahgamut.github.io/2021/07/13/ape-python/"
+      "Weird monitor bugs people sent me in the last 5 years (2022)",
+      "https://notes.alinpanaitiu.com/Weird-monitor-bugs"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 10:36:49",
+      "https://news.ycombinator.com/item?id=40038729"
+    ],
+    [
+      "How much memory does a graph take?",
+      "https://jazco.dev/2024/04/15/in-memory-graphs/"
     ]
   ],
   [
