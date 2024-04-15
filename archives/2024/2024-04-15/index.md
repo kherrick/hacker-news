@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 21:57:14](https://news.ycombinator.com/item?id=40046150) - [Edward Snowden Is Among Those Sounding the Alarm over Spying Expansion](https://www.commondreams.org/news/spying-expansion-trump)
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-15, 20:51:15](https://news.ycombinator.com/item?id=40045396) - [Apple Did a Dry Run of APFS on Your Device Even Before iOS 10.3 (2017)](https://www.macobserver.com/analysis/apple-dry-run-apfs-prior-ios-10-3/)
 * [2024-04-15, 20:47:31](https://news.ycombinator.com/item?id=40045357) - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
@@ -88,6 +89,7 @@
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
 * [2024-04-15, 06:39:36](https://news.ycombinator.com/item?id=40037619) - [Control Linux based distros using hand gestures using OpenCV, GTK, Mediapipe](https://github.com/flying-pizza-69/GestureX)
 * [2024-04-15, 06:30:05](https://news.ycombinator.com/item?id=40037583) - [Challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
+* [2024-04-15, 06:00:13](https://news.ycombinator.com/item?id=40037466) - [Mini rope bridges built in Forest of Dean to help dormice](https://www.bbc.com/news/uk-england-gloucestershire-68788690)
 * [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [Himalayan Hillsides Grows Japan's Cold, Hard Cash](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 * [2024-04-15, 05:27:39](https://news.ycombinator.com/item?id=40037330) - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
 * [2024-04-15, 04:59:59](https://news.ycombinator.com/item?id=40037206) - [Degen Communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)
