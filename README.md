@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 08:00:01](https://news.ycombinator.com/item?id=40037959) - [Mid-level Nvidia employee gets $62M in stock options; another lost it all](https://www.tomshardware.com/pc-components/gpus/nvidia-employees-make-fortunes-and-foul-ups-with-their-stock-options-a-story-of-millionaire-winners-and-losers)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 * [2024-04-15, 05:27:39](https://news.ycombinator.com/item?id=40037330) - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
@@ -21,7 +22,6 @@
 * [2024-04-14, 19:04:19](https://news.ycombinator.com/item?id=40033497) - [Sandboxing all the things with Flatpak and BubbleBox](https://www.ralfj.de/blog/2024/04/14/bubblebox.html)
 * [2024-04-14, 19:03:58](https://news.ycombinator.com/item?id=40033490) - [Show HN: I made a tool to clean and convert any webpage to Markdown](https://markdowndown.vercel.app/)
 * [2024-04-14, 18:36:31](https://news.ycombinator.com/item?id=40033268) - [Good news against dengue](https://www.science.org/content/blog-post/good-news-against-dengue)
-* [2024-04-14, 18:35:49](https://news.ycombinator.com/item?id=40033261) - [The Battle to Define Mental Illness (2010)](https://www.wired.com/2010/12/ff-dsmv/)
 * [2024-04-14, 17:47:00](https://news.ycombinator.com/item?id=40032869) - [Kate editor on all platforms](https://cullmann.io/posts/kate-on-all-platforms-2024/)
 * [2024-04-14, 13:55:19](https://news.ycombinator.com/item?id=40031054) - [The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)
 * [2024-04-14, 10:29:19](https://news.ycombinator.com/item?id=40030127) - [Canoes Discovered Northwest of Rome Are Oldest Boats Ever Found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)

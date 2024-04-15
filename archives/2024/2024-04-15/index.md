@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 08:00:01](https://news.ycombinator.com/item?id=40037959) - [Mid-level Nvidia employee gets $62M in stock options; another lost it all](https://www.tomshardware.com/pc-components/gpus/nvidia-employees-make-fortunes-and-foul-ups-with-their-stock-options-a-story-of-millionaire-winners-and-losers)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [Himalayan Hillsides Grows Japan's Cold, Hard Cash](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 * [2024-04-15, 05:27:39](https://news.ycombinator.com/item?id=40037330) - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
