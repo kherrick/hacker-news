@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-15, 22:22:18](https://news.ycombinator.com/item?id=40046370) - [Something for the metalheads: Master Boot Record – Internet Protocol [video]](https://www.youtube.com/watch?v=t6KFfYdNPh8)
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-04-15, 20:47:31](https://news.ycombinator.com/item?id=40045357) - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
 * [2024-04-15, 20:19:17](https://news.ycombinator.com/item?id=40045093) - [T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
@@ -21,7 +22,6 @@
 * [2024-04-15, 11:17:44](https://news.ycombinator.com/item?id=40039020) - [A proof-of-concept Python executable built on Cosmopolitan Libc (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [2024-04-15, 10:43:42](https://news.ycombinator.com/item?id=40038773) - [The great purge of German science in 1933](https://www.privatdozent.co/p/the-great-purge-of-1933-9f0)
 * [2024-04-15, 09:02:49](https://news.ycombinator.com/item?id=40038251) - [A tiny ultrabright laser that can melt steel](https://spectrum.ieee.org/pcsel)
-* [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 07:26:23](https://news.ycombinator.com/item?id=40037811) - [Simplified Technical English](https://www.asd-ste100.org/)
 * [2024-04-15, 06:00:13](https://news.ycombinator.com/item?id=40037466) - [Mini rope bridges built in Forest of Dean to help dormice](https://www.bbc.com/news/uk-england-gloucestershire-68788690)
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)

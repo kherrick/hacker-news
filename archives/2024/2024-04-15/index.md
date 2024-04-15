@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 22:22:18](https://news.ycombinator.com/item?id=40046370) - [Something for the metalheads: Master Boot Record – Internet Protocol [video]](https://www.youtube.com/watch?v=t6KFfYdNPh8)
 * [2024-04-15, 21:57:36](https://news.ycombinator.com/item?id=40046160) - [Sterilization Procedures Have Surged Among Young People Following \"Dobbs\"](https://truthout.org/articles/sterilization-procedures-have-surged-among-young-people-post-dobbs/)
 * [2024-04-15, 21:57:14](https://news.ycombinator.com/item?id=40046150) - [Edward Snowden Is Among Those Sounding the Alarm over Spying Expansion](https://www.commondreams.org/news/spying-expansion-trump)
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
