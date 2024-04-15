@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
 * [2024-04-14, 23:57:57](https://news.ycombinator.com/item?id=40035636) - [Dumping Parallel NAND with Glasgow](https://colinoflynn.com/2024/04/dumping-parallel-nand-with-glasgow/)
+* [2024-04-14, 23:51:30](https://news.ycombinator.com/item?id=40035584) - [x86 and x86_64 software optimization resources](https://agner.org/optimize/)
 * [2024-04-14, 23:45:28](https://news.ycombinator.com/item?id=40035552) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 * [2024-04-14, 23:22:43](https://news.ycombinator.com/item?id=40035414) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
