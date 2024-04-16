@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 13:26:18](https://news.ycombinator.com/item?id=40051597) - [America's young men are blowing their money like never before](https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4)
 * [2024-04-16, 12:42:52](https://news.ycombinator.com/item?id=40051223) - [Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
 * [2024-04-16, 12:39:28](https://news.ycombinator.com/item?id=40051197) - [Chip Startup Rivos Raises More Than $250M to Tap AI Boom](https://finance.yahoo.com/news/chip-startup-rivos-raises-more-100000922.html)
 * [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)

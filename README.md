@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 13:26:18](https://news.ycombinator.com/item?id=40051597) - [America's young men are blowing their money like never before](https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4)
 * [2024-04-16, 12:42:52](https://news.ycombinator.com/item?id=40051223) - [Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
 * [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 * [2024-04-16, 12:27:24](https://news.ycombinator.com/item?id=40051100) - [$10M in Gold Disguised as Machine Parts Seized from Cargo Plane](https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958)
@@ -29,7 +30,6 @@
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 * [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-14, 03:49:06](https://news.ycombinator.com/item?id=40028494) - [Can You Grok It – Hacking together my own dev tunnel service](https://0xda.de/blog/2024/04/can-you-grok-it/)
-* [2024-04-13, 22:44:20](https://news.ycombinator.com/item?id=40026866) - [The Heart of Low](https://www.newyorker.com/culture/persons-of-interest/alan-sparhawk-the-heart-of-low)
 
 ## [Archives](archives/index.md)
 
