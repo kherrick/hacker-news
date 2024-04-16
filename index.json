@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-04-16, 17:01:15",
-      "https://news.ycombinator.com/item?id=40054437"
-    ],
-    [
-      "AT&T Fiber Internet Privacy controls are horribly broken",
-      "https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 17:00:18",
       "https://news.ycombinator.com/item?id=40054425"
     ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2024-04-16, 16:02:10",
-      "https://news.ycombinator.com/item?id=40053710"
-    ],
-    [
-      "Firefox 125",
-      "https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 15:50:30",
       "https://news.ycombinator.com/item?id=40053591"
     ],
@@ -137,16 +117,6 @@
     [
       "Amazon HQ2 was supposed to add jobs last year. It shed them instead",
       "https://www.washingtonpost.com/dc-md-va/2024/04/16/amazon-hq2-jobs-arlington-virginia/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 15:40:39",
-      "https://news.ycombinator.com/item?id=40053453"
-    ],
-    [
-      "Palo Alto – Putting the Protecc in GlobalProtect (CVE-2024-3400)",
-      "https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/"
     ]
   ],
   [
@@ -211,6 +181,16 @@
   ],
   [
     [
+      "2024-04-16, 13:38:07",
+      "https://news.ycombinator.com/item?id=40051698"
+    ],
+    [
+      "AMD unveils Ryzen Pro 8000-series processors",
+      "https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 13:19:18",
       "https://news.ycombinator.com/item?id=40051524"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2024-04-16, 00:41:33",
+      "https://news.ycombinator.com/item?id=40047212"
+    ],
+    [
+      "HonoJS: Small, simple, and ultrafast web framework for the Edges",
+      "https://github.com/honojs/hono"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 00:08:46",
       "https://news.ycombinator.com/item?id=40047041"
     ],
@@ -287,6 +277,16 @@
     [
       "PuTTY vulnerability vuln-p521-bias",
       "https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 14:42:10",
+      "https://news.ycombinator.com/item?id=40041198"
+    ],
+    [
+      "Show HN: Building a GPS receiver",
+      "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
     ]
   ],
   [
