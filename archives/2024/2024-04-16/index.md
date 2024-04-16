@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 21:12:17](https://news.ycombinator.com/item?id=40057289) - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
 * [2024-04-16, 20:56:16](https://news.ycombinator.com/item?id=40057084) - ['Pacifist' Japan is tooling up for war](https://www.irishtimes.com/world/asia-pacific/2024/04/16/tokyo-letter-pacifist-japan-is-tooling-up-for-war/)
 * [2024-04-16, 20:54:38](https://news.ycombinator.com/item?id=40057063) - [ISPs can charge extra for fast gaming under FCC's Internet rules, critics say](https://arstechnica.com/tech-policy/2024/04/isps-can-charge-extra-for-fast-gaming-under-fccs-internet-rules-critics-say/)
@@ -13,6 +14,7 @@
 * [2024-04-16, 20:15:05](https://news.ycombinator.com/item?id=40056624) - [WizardLM was unpublished due to missing toxicity testing](https://twitter.com/WizardLM_AI/status/1780101465950105775)
 * [2024-04-16, 19:43:07](https://news.ycombinator.com/item?id=40056318) - [The justice system's role in non disclosure of Horizon material](https://www.thejusticegap.com/the-justice-systems-role-in-non-disclosure-of-horizon-material/)
 * [2024-04-16, 19:42:57](https://news.ycombinator.com/item?id=40056315) - [How the greatest MP3 player undid itself (2017)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
+* [2024-04-16, 19:42:04](https://news.ycombinator.com/item?id=40056311) - [Firefox Proton UI userChrome.css fixes. (2021)](https://github.com/black7375/Firefox-UI-Fix)
 * [2024-04-16, 19:40:48](https://news.ycombinator.com/item?id=40056294) - [Populist anger is 'a gift wrapped in barbed wire' (2016)](https://www.politico.eu/article/populism-is-a-gift-wrapped-in-barbed-wire-david-van-reybrouck/)
 * [2024-04-16, 19:38:25](https://news.ycombinator.com/item?id=40056256) - [Upgrading 3M Variables to Envelope Encryption](https://blog.railway.app/p/envelope-encryption)
 * [2024-04-16, 19:35:45](https://news.ycombinator.com/item?id=40056229) - [The Americas Act and Its Chances of Becoming Law](https://globalamericans.org/explaining-and-predicting-the-americas-act-and-its-chances-of-becoming-law/)
