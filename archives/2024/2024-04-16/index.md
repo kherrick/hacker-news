@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 15:59:44](https://news.ycombinator.com/item?id=40053687) - [Hollywood writers' efforts to protect jobs against AI matters for all workers](https://www.brookings.edu/articles/hollywood-writers-went-on-strike-to-protect-their-livelihoods-from-generative-ai-their-remarkable-victory-matters-for-all-workers/)
 * [2024-04-16, 15:41:32](https://news.ycombinator.com/item?id=40053466) - [Why the US government's overreliance on Microsoft is a big problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
+* [2024-04-16, 15:36:10](https://news.ycombinator.com/item?id=40053389) - [Half of Ireland's young people have low level of mental wellbeing](https://www.independent.ie/irish-news/half-of-irelands-young-people-have-low-level-of-mental-wellbeing-new-report-shows/a1973091620.html)
 * [2024-04-16, 15:27:01](https://news.ycombinator.com/item?id=40053248) - [Vaccine breakthrough means no more chasing strains](https://news.ucr.edu/articles/2024/04/15/vaccine-breakthrough-means-no-more-chasing-strains)
 * [2024-04-16, 15:11:03](https://news.ycombinator.com/item?id=40052996) - [Tech exec predicts 'AI girlfriends' will create $1B business](https://nypost.com/2024/04/15/business/tech-exec-predicts-ai-girlfriends-will-create-1b-business/)
 * [2024-04-16, 14:58:55](https://news.ycombinator.com/item?id=40052824) - [Efficient gas boiler with real-time data](https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026)
