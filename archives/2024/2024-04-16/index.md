@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 12:42:52](https://news.ycombinator.com/item?id=40051223) - [Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
 * [2024-04-16, 12:39:28](https://news.ycombinator.com/item?id=40051197) - [Chip Startup Rivos Raises More Than $250M to Tap AI Boom](https://finance.yahoo.com/news/chip-startup-rivos-raises-more-100000922.html)
+* [2024-04-16, 12:27:24](https://news.ycombinator.com/item?id=40051100) - [$10M in Gold Disguised as Machine Parts Seized from Cargo Plane](https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958)
 * [2024-04-16, 12:01:15](https://news.ycombinator.com/item?id=40050914) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-04-16, 11:54:41](https://news.ycombinator.com/item?id=40050872) - [Yes, Python and Matplotlib can make pretty charts](https://python-graph-gallery.com/best-python-chart-examples/)
 * [2024-04-16, 11:28:12](https://news.ycombinator.com/item?id=40050717) - [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
@@ -23,6 +25,7 @@
 * [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A Curious Phenomenon Called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 01:41:23](https://news.ycombinator.com/item?id=40047580) - [Seismologists suspect earthquake on San Andreas Fault is imminent, despite attn](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
+* [2024-04-16, 01:13:34](https://news.ycombinator.com/item?id=40047419) - [Why We Practice Magic](https://press.princeton.edu/ideas/why-we-practice-magic)
 * [2024-04-16, 00:59:29](https://news.ycombinator.com/item?id=40047338) - [Show HN: YouTube Shorts Redirector](https://github.com/adamenger/youtube-shorts-redirector)
 * [2024-04-16, 00:41:33](https://news.ycombinator.com/item?id=40047212) - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
 * [2024-04-16, 00:38:47](https://news.ycombinator.com/item?id=40047193) - [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
