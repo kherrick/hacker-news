@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-04-16, 19:40:48",
-      "https://news.ycombinator.com/item?id=40056294"
-    ],
-    [
-      "Populist anger is 'a gift wrapped in barbed wire' (2016)",
-      "https://www.politico.eu/article/populism-is-a-gift-wrapped-in-barbed-wire-david-van-reybrouck/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 19:24:27",
-      "https://news.ycombinator.com/item?id=40056115"
-    ],
-    [
-      "YouTube puts third-party clients on notice: Show ads or get blocked",
-      "https://arstechnica.com/gadgets/2024/04/youtube-will-start-blocking-third-party-clients-that-dont-show-ads/"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 19:19:10",
       "https://news.ycombinator.com/item?id=40056056"
     ],
@@ -57,6 +37,16 @@
     [
       "Why Sweden abandoned its secret A-bomb project",
       "https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 18:29:35",
+      "https://news.ycombinator.com/item?id=40055522"
+    ],
+    [
+      "Please don't put checkmarks in checkboxes before I checked them",
+      "https://grumpy.website/1516"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2024-04-16, 11:01:09",
-      "https://news.ycombinator.com/item?id=40050548"
+      "2024-04-16, 11:49:22",
+      "https://news.ycombinator.com/item?id=40050844"
     ],
     [
-      "Copenhagen's historic stock exchange in flames",
-      "https://www.bbc.com/news/world-europe-68824189"
+      "NPR suspends veteran editor as it grapples with his public criticism",
+      "https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2024-04-15, 23:08:10",
-      "https://news.ycombinator.com/item?id=40046692"
+      "2024-04-16, 00:19:39",
+      "https://news.ycombinator.com/item?id=40047094"
     ],
     [
-      "Google Common Lisp Style Guide",
-      "https://google.github.io/styleguide/lispguide.xml"
+      "Justice Department to file antitrust suit against Live Nation",
+      "https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 00:08:46",
+      "https://news.ycombinator.com/item?id=40047041"
+    ],
+    [
+      "BTFS: BitTorrent Filesystem",
+      "https://github.com/johang/btfs"
     ]
   ],
   [
