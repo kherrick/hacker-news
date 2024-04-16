@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 16:07:59](https://news.ycombinator.com/item?id=40053774) - [This is a teenager](https://pudding.cool/2024/03/teenagers/)
+* [2024-04-16, 16:02:10](https://news.ycombinator.com/item?id=40053710) - [Firefox 125](https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/)
 * [2024-04-16, 15:59:44](https://news.ycombinator.com/item?id=40053687) - [Hollywood writers' efforts to protect jobs against AI matters for all workers](https://www.brookings.edu/articles/hollywood-writers-went-on-strike-to-protect-their-livelihoods-from-generative-ai-their-remarkable-victory-matters-for-all-workers/)
 * [2024-04-16, 15:41:32](https://news.ycombinator.com/item?id=40053466) - [Why the US government's overreliance on Microsoft is a big problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
 * [2024-04-16, 15:36:10](https://news.ycombinator.com/item?id=40053389) - [Half of Ireland's young people have low level of mental wellbeing](https://www.independent.ie/irish-news/half-of-irelands-young-people-have-low-level-of-mental-wellbeing-new-report-shows/a1973091620.html)
