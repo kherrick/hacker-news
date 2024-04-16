@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 15:11:03](https://news.ycombinator.com/item?id=40052996) - [Tech exec predicts 'AI girlfriends' will create $1B business](https://nypost.com/2024/04/15/business/tech-exec-predicts-ai-girlfriends-will-create-1b-business/)
 * [2024-04-16, 14:37:39](https://news.ycombinator.com/item?id=40052532) - [Creating sexually explicit deepfake images to be made offence in UK](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk)
+* [2024-04-16, 14:24:28](https://news.ycombinator.com/item?id=40052329) - [YouTube cracking down even harder to punish user for skipping ads](https://9to5google.com/2024/04/15/youtube-app-block-ads/)
 * [2024-04-16, 14:14:28](https://news.ycombinator.com/item?id=40052184) - [People who don't want to learn how to program can always find a reason not to](https://twitter.com/paulg/status/1779930175574090094)
 * [2024-04-16, 14:07:35](https://news.ycombinator.com/item?id=40052078) - [NPR Suspends Editor Who Wrote 'Lost America's Trust' with Liberal 'Advocacy'](https://www.mediaite.com/news/just-in-npr-suspends-veteran-editor-who-accused-the-outlet-of-having-lost-americas-trust-with-liberal-advocacy/)
 * [2024-04-16, 14:06:49](https://news.ycombinator.com/item?id=40052069) - [Mobile Ad Blocker Will No Longer Stop YouTube's Ads](https://gizmodo.com/your-mobile-ad-blocker-will-no-longer-stop-youtubes-ads-1851412797)
