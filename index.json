@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-16, 11:28:12",
+      "https://news.ycombinator.com/item?id=40050717"
+    ],
+    [
+      "Thoughts on low latency trading if exchanges went full cloud",
+      "https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 11:01:09",
       "https://news.ycombinator.com/item?id=40050548"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-04-15, 16:24:51",
-      "https://news.ycombinator.com/item?id=40042616"
-    ],
-    [
-      "Embezzlers Are Nice People (2017)",
-      "https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people"
-    ]
-  ],
-  [
-    [
       "2024-04-15, 14:42:10",
       "https://news.ycombinator.com/item?id=40041198"
     ],
@@ -227,6 +227,16 @@
     [
       "Weird monitor bugs people sent me in the last 5 years (2022)",
       "https://notes.alinpanaitiu.com/Weird-monitor-bugs"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 10:36:49",
+      "https://news.ycombinator.com/item?id=40038729"
+    ],
+    [
+      "How much memory does a graph take?",
+      "https://jazco.dev/2024/04/15/in-memory-graphs/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Knuth–Morris–Pratt illustrated",
       "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 22:44:20",
-      "https://news.ycombinator.com/item?id=40026866"
-    ],
-    [
-      "The Heart of Low",
-      "https://www.newyorker.com/culture/persons-of-interest/alan-sparhawk-the-heart-of-low"
     ]
   ]
 ]
