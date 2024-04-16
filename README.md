@@ -28,8 +28,8 @@
 * [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's lost notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 * [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Show HN: Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
-* [2024-04-15, 09:15:58](https://news.ycombinator.com/item?id=40038309) - [The Queen of Sample Clearance: An Interview with Deborah Mannis-Gardner (2016)](https://www.forbes.com/sites/passionoftheweiss/2016/02/19/the-queen-of-sample-clearance-an-interview-with-deborah-mannis-gardner/)
 * [2024-04-15, 06:30:50](https://news.ycombinator.com/item?id=40037589) - [Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]](https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf)
+* [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 
 ## [Archives](archives/index.md)
 
