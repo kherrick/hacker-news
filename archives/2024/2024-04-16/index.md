@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 17:00:18](https://news.ycombinator.com/item?id=40054425) - [Hiring Full Stack Engineers at Apriora (YC W24)](https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer)
+* [2024-04-16, 16:36:26](https://news.ycombinator.com/item?id=40054122) - [NASA tries to jog Voyager 1's memory from 15B miles away](https://www.theregister.com/2024/04/15/voyager_engineers_prepare_fix/)
 * [2024-04-16, 16:28:16](https://news.ycombinator.com/item?id=40054019) - [Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity](https://twitter.com/tonyzzhao/status/1780263497584230432)
 * [2024-04-16, 16:07:59](https://news.ycombinator.com/item?id=40053774) - [This is a teenager](https://pudding.cool/2024/03/teenagers/)
 * [2024-04-16, 16:02:10](https://news.ycombinator.com/item?id=40053710) - [Firefox 125](https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/)
 * [2024-04-16, 15:59:44](https://news.ycombinator.com/item?id=40053687) - [Hollywood writers' efforts to protect jobs against AI matters for all workers](https://www.brookings.edu/articles/hollywood-writers-went-on-strike-to-protect-their-livelihoods-from-generative-ai-their-remarkable-victory-matters-for-all-workers/)
+* [2024-04-16, 15:49:06](https://news.ycombinator.com/item?id=40053576) - [Amazon HQ2 was supposed to add jobs last year. It shed them instead](https://www.washingtonpost.com/dc-md-va/2024/04/16/amazon-hq2-jobs-arlington-virginia/)
 * [2024-04-16, 15:41:32](https://news.ycombinator.com/item?id=40053466) - [Why the US government's overreliance on Microsoft is a big problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
 * [2024-04-16, 15:40:39](https://news.ycombinator.com/item?id=40053453) - [Palo Alto – Putting the Protecc in GlobalProtect (CVE-2024-3400)](https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/)
 * [2024-04-16, 15:36:10](https://news.ycombinator.com/item?id=40053389) - [Half of Ireland's young people have low level of mental wellbeing](https://www.independent.ie/irish-news/half-of-irelands-young-people-have-low-level-of-mental-wellbeing-new-report-shows/a1973091620.html)
