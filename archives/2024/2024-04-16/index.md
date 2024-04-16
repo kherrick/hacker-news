@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 14:07:35](https://news.ycombinator.com/item?id=40052078) - [NPR Suspends Editor Who Wrote 'Lost America's Trust' with Liberal 'Advocacy'](https://www.mediaite.com/news/just-in-npr-suspends-veteran-editor-who-accused-the-outlet-of-having-lost-americas-trust-with-liberal-advocacy/)
+* [2024-04-16, 14:00:58](https://news.ycombinator.com/item?id=40051975) - [A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
+* [2024-04-16, 13:48:55](https://news.ycombinator.com/item?id=40051818) - [Product-Market Fit Isn't a Black Box – A New Framework to Help B2B Founders](https://pmf.firstround.com/levels)
 * [2024-04-16, 13:38:07](https://news.ycombinator.com/item?id=40051698) - [AMD unveils Ryzen Pro 8000-series processors](https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market)
 * [2024-04-16, 13:31:51](https://news.ycombinator.com/item?id=40051633) - [Justice Department to File Antitrust Suit Against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 * [2024-04-16, 13:26:18](https://news.ycombinator.com/item?id=40051597) - [America's young men are blowing their money like never before](https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4)
