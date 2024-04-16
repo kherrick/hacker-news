@@ -6,6 +6,7 @@
 
 * [2024-04-16, 12:42:52](https://news.ycombinator.com/item?id=40051223) - [Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
 * [2024-04-16, 12:39:28](https://news.ycombinator.com/item?id=40051197) - [Chip Startup Rivos Raises More Than $250M to Tap AI Boom](https://finance.yahoo.com/news/chip-startup-rivos-raises-more-100000922.html)
+* [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 * [2024-04-16, 12:27:24](https://news.ycombinator.com/item?id=40051100) - [$10M in Gold Disguised as Machine Parts Seized from Cargo Plane](https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958)
 * [2024-04-16, 12:01:15](https://news.ycombinator.com/item?id=40050914) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-04-16, 11:54:41](https://news.ycombinator.com/item?id=40050872) - [Yes, Python and Matplotlib can make pretty charts](https://python-graph-gallery.com/best-python-chart-examples/)
