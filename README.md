@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-16, 14:07:35](https://news.ycombinator.com/item?id=40052078) - [NPR Suspends Editor Who Wrote 'Lost America's Trust' with Liberal 'Advocacy'](https://www.mediaite.com/news/just-in-npr-suspends-veteran-editor-who-accused-the-outlet-of-having-lost-americas-trust-with-liberal-advocacy/)
+* [2024-04-16, 14:14:28](https://news.ycombinator.com/item?id=40052184) - [People who don't want to learn how to program can always find a reason not to](https://twitter.com/paulg/status/1779930175574090094)
+* [2024-04-16, 14:06:49](https://news.ycombinator.com/item?id=40052069) - [Mobile Ad Blocker Will No Longer Stop YouTube's Ads](https://gizmodo.com/your-mobile-ad-blocker-will-no-longer-stop-youtubes-ads-1851412797)
 * [2024-04-16, 14:00:58](https://news.ycombinator.com/item?id=40051975) - [A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
 * [2024-04-16, 13:48:55](https://news.ycombinator.com/item?id=40051818) - [Product-Market Fit Isn't a Black Box – A New Framework to Help B2B Founders](https://pmf.firstround.com/levels)
 * [2024-04-16, 13:38:07](https://news.ycombinator.com/item?id=40051698) - [AMD unveils Ryzen Pro 8000-series processors](https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market)
@@ -24,7 +25,6 @@
 * [2024-04-15, 19:49:42](https://news.ycombinator.com/item?id=40044863) - [Phone conversations with law enforcement can be recorded without their consent](https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808)
 * [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Show HN: Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
-* [2024-04-15, 10:42:04](https://news.ycombinator.com/item?id=40038759) - [Weird monitor bugs people sent me in the last 5 years (2022)](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 * [2024-04-15, 09:15:58](https://news.ycombinator.com/item?id=40038309) - [The Queen of Sample Clearance: An Interview with Deborah Mannis-Gardner (2016)](https://www.forbes.com/sites/passionoftheweiss/2016/02/19/the-queen-of-sample-clearance-an-interview-with-deborah-mannis-gardner/)
 * [2024-04-15, 06:30:50](https://news.ycombinator.com/item?id=40037589) - [Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]](https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf)
 * [2024-04-15, 06:04:53](https://news.ycombinator.com/item?id=40037486) - [Reproducing the printer hack of Windows 95](https://dpolakovic.space/blogs/windows-95-printer-hack)

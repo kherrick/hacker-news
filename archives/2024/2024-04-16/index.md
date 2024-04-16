@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 14:14:28](https://news.ycombinator.com/item?id=40052184) - [People who don't want to learn how to program can always find a reason not to](https://twitter.com/paulg/status/1779930175574090094)
 * [2024-04-16, 14:07:35](https://news.ycombinator.com/item?id=40052078) - [NPR Suspends Editor Who Wrote 'Lost America's Trust' with Liberal 'Advocacy'](https://www.mediaite.com/news/just-in-npr-suspends-veteran-editor-who-accused-the-outlet-of-having-lost-americas-trust-with-liberal-advocacy/)
+* [2024-04-16, 14:06:49](https://news.ycombinator.com/item?id=40052069) - [Mobile Ad Blocker Will No Longer Stop YouTube's Ads](https://gizmodo.com/your-mobile-ad-blocker-will-no-longer-stop-youtubes-ads-1851412797)
 * [2024-04-16, 14:00:58](https://news.ycombinator.com/item?id=40051975) - [A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
 * [2024-04-16, 13:48:55](https://news.ycombinator.com/item?id=40051818) - [Product-Market Fit Isn't a Black Box – A New Framework to Help B2B Founders](https://pmf.firstround.com/levels)
 * [2024-04-16, 13:38:07](https://news.ycombinator.com/item?id=40051698) - [AMD unveils Ryzen Pro 8000-series processors](https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market)
