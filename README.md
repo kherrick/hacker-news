@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 01:41:23](https://news.ycombinator.com/item?id=40047580) - [Seismologists suspect earthquake on San Andreas Fault is imminent, despite attn](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
 * [2024-04-16, 00:41:33](https://news.ycombinator.com/item?id=40047212) - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
@@ -24,7 +25,6 @@
 * [2024-04-15, 06:04:53](https://news.ycombinator.com/item?id=40037486) - [Reproducing the printer hack of Windows 95](https://dpolakovic.space/blogs/windows-95-printer-hack)
 * [2024-04-15, 06:00:13](https://news.ycombinator.com/item?id=40037466) - [Mini rope bridges built in Forest of Dean to help dormice](https://www.bbc.com/news/uk-england-gloucestershire-68788690)
 * [2024-04-15, 05:26:47](https://news.ycombinator.com/item?id=40037324) - [Learning about distributed systems: where to start?](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
-* [2024-04-14, 15:19:32](https://news.ycombinator.com/item?id=40031732) - [New Titanosaur Species Identified in Argentina](https://www.sci.news/paleontology/titanomachya-gimenezi-12853.html)
 * [2024-04-14, 13:01:10](https://news.ycombinator.com/item?id=40030786) - [Trying to Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-14, 06:04:45](https://news.ycombinator.com/item?id=40029032) - [A City Is Not a Computer (2017)](https://placesjournal.org/article/a-city-is-not-a-computer/)

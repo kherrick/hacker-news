@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A Curious Phenomenon Called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 01:41:23](https://news.ycombinator.com/item?id=40047580) - [Seismologists suspect earthquake on San Andreas Fault is imminent, despite attn](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
 * [2024-04-16, 00:41:33](https://news.ycombinator.com/item?id=40047212) - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
