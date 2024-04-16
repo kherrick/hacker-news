@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 11:28:12](https://news.ycombinator.com/item?id=40050717) - [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
 * [2024-04-16, 11:01:09](https://news.ycombinator.com/item?id=40050548) - [Copenhagen's historic stock exchange in flames](https://www.bbc.com/news/world-europe-68824189)
 * [2024-04-16, 10:55:01](https://news.ycombinator.com/item?id=40050514) - [AI cloud startup TensorWave bets AMD can beat Nvidia](https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/)
 * [2024-04-16, 10:18:31](https://news.ycombinator.com/item?id=40050302) - [Tesla Cybertruck's Stuck Accelerator Pedal Creates 6,800-Pound Land Missile](https://insideevs.com/news/716031/tesla-cybertruck-stuck-accelerator-pedal/)
