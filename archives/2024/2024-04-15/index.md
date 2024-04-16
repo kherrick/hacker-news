@@ -106,6 +106,7 @@
 * [2024-04-15, 06:04:53](https://news.ycombinator.com/item?id=40037486) - [Reproducing the printer hack of Windows 95](https://dpolakovic.space/blogs/windows-95-printer-hack)
 * [2024-04-15, 06:00:13](https://news.ycombinator.com/item?id=40037466) - [Mini rope bridges built in Forest of Dean to help dormice](https://www.bbc.com/news/uk-england-gloucestershire-68788690)
 * [2024-04-15, 05:45:02](https://news.ycombinator.com/item?id=40037396) - [Himalayan Hillsides Grows Japan's Cold, Hard Cash](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
+* [2024-04-15, 05:29:31](https://news.ycombinator.com/item?id=40037341) - ['The Invention of Prehistory' Review: Facing Deep Time](https://www.wsj.com/arts-culture/books/the-invention-of-prehistory-review-facing-deep-time-b8c224cc)
 * [2024-04-15, 05:27:39](https://news.ycombinator.com/item?id=40037330) - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
 * [2024-04-15, 05:26:47](https://news.ycombinator.com/item?id=40037324) - [Learning about distributed systems: where to start?](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
 * [2024-04-15, 04:59:59](https://news.ycombinator.com/item?id=40037206) - [Degen Communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)

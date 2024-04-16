@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 06:09:11](https://news.ycombinator.com/item?id=40048842) - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
 * [2024-04-16, 05:06:19](https://news.ycombinator.com/item?id=40048541) - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
 * [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
@@ -25,10 +26,9 @@
 * [2024-04-15, 07:42:09](https://news.ycombinator.com/item?id=40037891) - [One Knuckle Rice Rule](https://indiantinker.bearblog.dev/proposed-amendments-to-one-knuckle-rice-rule/)
 * [2024-04-15, 06:04:53](https://news.ycombinator.com/item?id=40037486) - [Reproducing the printer hack of Windows 95](https://dpolakovic.space/blogs/windows-95-printer-hack)
 * [2024-04-15, 06:00:13](https://news.ycombinator.com/item?id=40037466) - [Mini rope bridges built in Forest of Dean to help dormice](https://www.bbc.com/news/uk-england-gloucestershire-68788690)
-* [2024-04-15, 05:26:47](https://news.ycombinator.com/item?id=40037324) - [Learning about distributed systems: where to start?](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
+* [2024-04-15, 05:29:31](https://news.ycombinator.com/item?id=40037341) - ['The Invention of Prehistory' Review: Facing Deep Time](https://www.wsj.com/arts-culture/books/the-invention-of-prehistory-review-facing-deep-time-b8c224cc)
 * [2024-04-14, 13:01:10](https://news.ycombinator.com/item?id=40030786) - [Trying to Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
-* [2024-04-14, 03:49:06](https://news.ycombinator.com/item?id=40028494) - [Can You Grok It – Hacking together my own dev tunnel service](https://0xda.de/blog/2024/04/can-you-grok-it/)
 * [2024-04-13, 22:44:20](https://news.ycombinator.com/item?id=40026866) - [The Heart of Low](https://www.newyorker.com/culture/persons-of-interest/alan-sparhawk-the-heart-of-low)
 
 ## [Archives](archives/index.md)
