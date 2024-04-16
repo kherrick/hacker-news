@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 04:19:20](https://news.ycombinator.com/item?id=40048307) - [MSFT's WizardLM2 models have been taken down](https://huggingface.co/WizardLM/WizardLM-13B-V1.2)
 * [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 01:41:23](https://news.ycombinator.com/item?id=40047580) - [Seismologists suspect earthquake on San Andreas Fault is imminent, despite attn](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
 * [2024-04-16, 00:41:33](https://news.ycombinator.com/item?id=40047212) - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
-* [2024-04-16, 00:38:47](https://news.ycombinator.com/item?id=40047193) - [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
 * [2024-04-16, 00:29:40](https://news.ycombinator.com/item?id=40047152) - [ResearchAgent: Iterative Research Idea Generation Using LLMs](https://arxiv.org/abs/2404.07738)
 * [2024-04-16, 00:08:46](https://news.ycombinator.com/item?id=40047041) - [BTFS: BitTorrent Filesystem](https://github.com/johang/btfs)
 * [2024-04-15, 23:23:28](https://news.ycombinator.com/item?id=40046774) - [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
