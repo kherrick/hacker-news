@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
 * [2024-04-16, 23:05:11](https://news.ycombinator.com/item?id=40058399) - [Tell HN: We should snapshot a mostly AI output free version of the web](https://news.ycombinator.com/item?id=40058399)
+* [2024-04-16, 22:33:14](https://news.ycombinator.com/item?id=40058115) - [3D-printed \"metamaterial\" is stronger than anything in nature](https://www.freethink.com/hard-tech/metamaterial)
 * [2024-04-16, 21:51:27](https://news.ycombinator.com/item?id=40057667) - [Tvix – A New Implementation of Nix](https://tvix.dev/)
 * [2024-04-16, 21:12:17](https://news.ycombinator.com/item?id=40057289) - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
@@ -85,6 +86,7 @@
 * [2024-04-16, 08:30:46](https://news.ycombinator.com/item?id=40049623) - [Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
 * [2024-04-16, 07:57:49](https://news.ycombinator.com/item?id=40049457) - [Microsoft Invests $1.5B in G42](https://news.microsoft.com/2024/04/15/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/)
 * [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
+* [2024-04-16, 07:42:57](https://news.ycombinator.com/item?id=40049356) - [NASA Technology Helps Guard Against Lunar Dust](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/)
 * [2024-04-16, 06:33:56](https://news.ycombinator.com/item?id=40048960) - [Should You Use Upper Bound Version Constraints (In Python)?](https://iscinumpy.dev/post/bound-version-constraints/)
 * [2024-04-16, 06:09:11](https://news.ycombinator.com/item?id=40048842) - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
 * [2024-04-16, 05:30:45](https://news.ycombinator.com/item?id=40048657) - [My battle with Tesla: I want to clear my name before I die](https://www.bbc.co.uk/news/articles/cg3q95ednqwo)
