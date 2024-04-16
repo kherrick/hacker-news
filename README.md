@@ -3,8 +3,6 @@
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
 * [2024-04-16, 20:54:38](https://news.ycombinator.com/item?id=40057063) - [ISPs can charge extra for fast gaming under FCC's Internet rules, critics say](https://arstechnica.com/tech-policy/2024/04/isps-can-charge-extra-for-fast-gaming-under-fccs-internet-rules-critics-say/)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
-* [2024-04-16, 19:42:57](https://news.ycombinator.com/item?id=40056315) - [How the greatest MP3 player undid itself (2012)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
-* [2024-04-16, 19:23:22](https://news.ycombinator.com/item?id=40056104) - [Show HN: Generated Documentation for Linux Kernel](https://app.safa.ai/demo?version=36438a14-bd7e-42cd-89ad-12048cea7675)
 * [2024-04-16, 19:04:36](https://news.ycombinator.com/item?id=40055936) - [Global Firepower Index](https://www.globalfirepower.com/)
 * [2024-04-16, 18:36:27](https://news.ycombinator.com/item?id=40055598) - [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
 * [2024-04-16, 18:08:10](https://news.ycombinator.com/item?id=40055269) - [Bloomberg's analysis didn't show that ChatGPT is racist](https://interviewing.io/blog/refuting-bloombergs-analysis-chatgpt-isnt-racist)
@@ -25,11 +23,13 @@
 * [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 * [2024-04-16, 11:49:22](https://news.ycombinator.com/item?id=40050844) - [NPR suspends veteran editor as it grapples with his public criticism](https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay)
 * [2024-04-16, 08:30:46](https://news.ycombinator.com/item?id=40049623) - [Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
+* [2024-04-16, 06:33:56](https://news.ycombinator.com/item?id=40048960) - [Should You Use Upper Bound Version Constraints (In Python)?](https://iscinumpy.dev/post/bound-version-constraints/)
 * [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 00:19:39](https://news.ycombinator.com/item?id=40047094) - [Justice Department to file antitrust suit against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 * [2024-04-15, 07:41:33](https://news.ycombinator.com/item?id=40037885) - [GOTO (2000)](http://www.azillionmonkeys.com/qed/goto.html)
 * [2024-04-15, 06:44:29](https://news.ycombinator.com/item?id=40037646) - [Charge of the Savoia Cavalleria at Izbushensky](https://en.wikipedia.org/wiki/Charge_of_the_Savoia_Cavalleria_at_Izbushensky)
+* [2024-04-15, 06:30:50](https://news.ycombinator.com/item?id=40037589) - [Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]](https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf)
 
 ## [Archives](archives/index.md)
 
