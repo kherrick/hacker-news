@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 19:42:57](https://news.ycombinator.com/item?id=40056315) - [How the greatest MP3 player undid itself (2017)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
+* [2024-04-16, 19:40:48](https://news.ycombinator.com/item?id=40056294) - [Populist anger is 'a gift wrapped in barbed wire' (2016)](https://www.politico.eu/article/populism-is-a-gift-wrapped-in-barbed-wire-david-van-reybrouck/)
+* [2024-04-16, 19:24:27](https://news.ycombinator.com/item?id=40056115) - [YouTube puts third-party clients on notice: Show ads or get blocked](https://arstechnica.com/gadgets/2024/04/youtube-will-start-blocking-third-party-clients-that-dont-show-ads/)
 * [2024-04-16, 19:19:10](https://news.ycombinator.com/item?id=40056056) - [Judge refuses to Ctrl-Z divorce order made by a misclick](https://www.theregister.com/2024/04/16/accidental_divorce_computer_error/)
 * [2024-04-16, 19:05:09](https://news.ycombinator.com/item?id=40055942) - [Show HN: A shell CLI tool to predict your next command enhanced by LLM and RAG](https://github.com/huangyz0918/termax)
 * [2024-04-16, 19:02:52](https://news.ycombinator.com/item?id=40055918) - [Difficulty levels of most European languages for Americans](https://www.atlasobscura.com/articles/language-difficulty-map)
@@ -13,6 +16,7 @@
 * [2024-04-16, 18:06:20](https://news.ycombinator.com/item?id=40055239) - [David Lynch Presents 'A Thinking Room'](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
 * [2024-04-16, 17:57:31](https://news.ycombinator.com/item?id=40055120) - [We Need to Rewild the Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 * [2024-04-16, 17:40:47](https://news.ycombinator.com/item?id=40054901) - [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
+* [2024-04-16, 17:32:25](https://news.ycombinator.com/item?id=40054811) - [NSA Publishes Guidance for Strengthening AI System Security](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/)
 * [2024-04-16, 17:13:59](https://news.ycombinator.com/item?id=40054580) - [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)
 * [2024-04-16, 17:01:15](https://news.ycombinator.com/item?id=40054437) - [AT&T Fiber Internet Privacy controls are horribly broken](https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking)
 * [2024-04-16, 17:00:18](https://news.ycombinator.com/item?id=40054425) - [Hiring Full Stack Engineers at Apriora (YC W24)](https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer)
