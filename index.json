@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-04-15, 23:08:10",
-      "https://news.ycombinator.com/item?id=40046692"
-    ],
-    [
-      "Google Common Lisp Style Guide",
-      "https://google.github.io/styleguide/lispguide.xml"
-    ]
-  ],
-  [
-    [
       "2024-04-15, 21:01:23",
       "https://news.ycombinator.com/item?id=40045532"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2024-04-15, 19:51:58",
-      "https://news.ycombinator.com/item?id=40044881"
-    ],
-    [
-      "If you put server code in your live-service game client, expect private servers",
-      "https://1379.tech/the-making-of-side-7-gundam-evolution-private-server-project/"
-    ]
-  ],
-  [
-    [
       "2024-04-15, 19:49:42",
       "https://news.ycombinator.com/item?id=40044863"
     ],
@@ -207,6 +187,16 @@
     [
       "Show HN: Building a GPS receiver",
       "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 10:43:42",
+      "https://news.ycombinator.com/item?id=40038773"
+    ],
+    [
+      "The purge of German science in 1933",
+      "https://www.privatdozent.co/p/the-great-purge-of-1933-9f0"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Knuth–Morris–Pratt illustrated",
       "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4"
+    ]
+  ],
+  [
+    [
+      "2024-04-14, 03:49:06",
+      "https://news.ycombinator.com/item?id=40028494"
+    ],
+    [
+      "Can You Grok It – Hacking together my own dev tunnel service",
+      "https://0xda.de/blog/2024/04/can-you-grok-it/"
     ]
   ],
   [
