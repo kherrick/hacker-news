@@ -5,7 +5,6 @@
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
 * [2024-04-16, 20:56:16](https://news.ycombinator.com/item?id=40057084) - ['Pacifist' Japan is tooling up for war](https://www.irishtimes.com/world/asia-pacific/2024/04/16/tokyo-letter-pacifist-japan-is-tooling-up-for-war/)
 * [2024-04-16, 20:54:38](https://news.ycombinator.com/item?id=40057063) - [ISPs can charge extra for fast gaming under FCC's Internet rules, critics say](https://arstechnica.com/tech-policy/2024/04/isps-can-charge-extra-for-fast-gaming-under-fccs-internet-rules-critics-say/)
-* [2024-04-16, 20:42:53](https://news.ycombinator.com/item?id=40056939) - [US Senate to Vote on a Wiretap Bill That Critics Call 'Stasi-Like'](https://www.wired.com/story/senate-section-702-ecsr-provision/)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-16, 19:43:07](https://news.ycombinator.com/item?id=40056318) - [The justice system's role in non disclosure of Horizon material](https://www.thejusticegap.com/the-justice-systems-role-in-non-disclosure-of-horizon-material/)
 * [2024-04-16, 19:42:04](https://news.ycombinator.com/item?id=40056311) - [Firefox Proton UI userChrome.css fixes. (2021)](https://github.com/black7375/Firefox-UI-Fix)
@@ -30,6 +29,7 @@
 * [2024-04-16, 00:19:39](https://news.ycombinator.com/item?id=40047094) - [Justice Department to file antitrust suit against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 * [2024-04-15, 07:41:33](https://news.ycombinator.com/item?id=40037885) - [GOTO (2000)](http://www.azillionmonkeys.com/qed/goto.html)
 * [2024-04-15, 06:44:29](https://news.ycombinator.com/item?id=40037646) - [Charge of the Savoia Cavalleria at Izbushensky](https://en.wikipedia.org/wiki/Charge_of_the_Savoia_Cavalleria_at_Izbushensky)
+* [2024-04-14, 02:04:49](https://news.ycombinator.com/item?id=40028062) - [Trimming The Herbs TAS Clear on my Wii U [video]](https://www.youtube.com/watch?v=6VaAvEZ7U60)
 
 ## [Archives](archives/index.md)
 
