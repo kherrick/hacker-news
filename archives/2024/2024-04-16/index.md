@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 16:28:16](https://news.ycombinator.com/item?id=40054019) - [Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity](https://twitter.com/tonyzzhao/status/1780263497584230432)
 * [2024-04-16, 16:07:59](https://news.ycombinator.com/item?id=40053774) - [This is a teenager](https://pudding.cool/2024/03/teenagers/)
 * [2024-04-16, 16:02:10](https://news.ycombinator.com/item?id=40053710) - [Firefox 125](https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/)
 * [2024-04-16, 15:59:44](https://news.ycombinator.com/item?id=40053687) - [Hollywood writers' efforts to protect jobs against AI matters for all workers](https://www.brookings.edu/articles/hollywood-writers-went-on-strike-to-protect-their-livelihoods-from-generative-ai-their-remarkable-victory-matters-for-all-workers/)
