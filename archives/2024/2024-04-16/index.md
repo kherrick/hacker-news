@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 19:19:10](https://news.ycombinator.com/item?id=40056056) - [Judge refuses to Ctrl-Z divorce order made by a misclick](https://www.theregister.com/2024/04/16/accidental_divorce_computer_error/)
 * [2024-04-16, 19:05:09](https://news.ycombinator.com/item?id=40055942) - [Show HN: A shell CLI tool to predict your next command enhanced by LLM and RAG](https://github.com/huangyz0918/termax)
+* [2024-04-16, 19:02:52](https://news.ycombinator.com/item?id=40055918) - [Difficulty levels of most European languages for Americans](https://www.atlasobscura.com/articles/language-difficulty-map)
 * [2024-04-16, 18:49:15](https://news.ycombinator.com/item?id=40055757) - [Prism (new Ruby parser) in 2024](https://railsatscale.com/2024-04-16-prism-in-2024/)
 * [2024-04-16, 18:36:27](https://news.ycombinator.com/item?id=40055598) - [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
 * [2024-04-16, 18:08:10](https://news.ycombinator.com/item?id=40055269) - [Refuting Bloomberg's analysis: ChatGPT isn't racist, but it is bad at recruiting](https://interviewing.io/blog/refuting-bloombergs-analysis-chatgpt-isnt-racist)
