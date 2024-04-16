@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 05:06:19](https://news.ycombinator.com/item?id=40048541) - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
 * [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 01:41:23](https://news.ycombinator.com/item?id=40047580) - [Seismologists suspect earthquake on San Andreas Fault is imminent](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
@@ -9,7 +10,6 @@
 * [2024-04-16, 00:08:46](https://news.ycombinator.com/item?id=40047041) - [BTFS: BitTorrent Filesystem](https://github.com/johang/btfs)
 * [2024-04-15, 23:23:28](https://news.ycombinator.com/item?id=40046774) - [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2024-04-15, 20:47:31](https://news.ycombinator.com/item?id=40045357) - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
 * [2024-04-15, 20:43:53](https://news.ycombinator.com/item?id=40045319) - [Geometers Engineer New Tools to Wrangle Spacecraft Orbits](https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/)
 * [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's lost notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 * [2024-04-15, 19:51:58](https://news.ycombinator.com/item?id=40044881) - [If you put server code in your live-service game client, expect private servers](https://1379.tech/the-making-of-side-7-gundam-evolution-private-server-project/)

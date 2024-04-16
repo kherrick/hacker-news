@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 05:06:19](https://news.ycombinator.com/item?id=40048541) - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
 * [2024-04-16, 04:19:20](https://news.ycombinator.com/item?id=40048307) - [MSFT's WizardLM2 models have been taken down](https://huggingface.co/WizardLM/WizardLM-13B-V1.2)
 * [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A Curious Phenomenon Called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
