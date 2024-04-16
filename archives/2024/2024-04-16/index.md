@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
 * [2024-04-16, 20:28:28](https://news.ycombinator.com/item?id=40056758) - [Apple's iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-16, 20:15:05](https://news.ycombinator.com/item?id=40056624) - [WizardLM was unpublished due to missing toxicity testing](https://twitter.com/WizardLM_AI/status/1780101465950105775)
 * [2024-04-16, 19:42:57](https://news.ycombinator.com/item?id=40056315) - [How the greatest MP3 player undid itself (2017)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
 * [2024-04-16, 19:40:48](https://news.ycombinator.com/item?id=40056294) - [Populist anger is 'a gift wrapped in barbed wire' (2016)](https://www.politico.eu/article/populism-is-a-gift-wrapped-in-barbed-wire-david-van-reybrouck/)
 * [2024-04-16, 19:24:27](https://news.ycombinator.com/item?id=40056115) - [YouTube puts third-party clients on notice: Show ads or get blocked](https://arstechnica.com/gadgets/2024/04/youtube-will-start-blocking-third-party-clients-that-dont-show-ads/)
+* [2024-04-16, 19:23:22](https://news.ycombinator.com/item?id=40056104) - [Show HN: Generated Documentation for Linux Kernel](https://app.safa.ai/demo?version=36438a14-bd7e-42cd-89ad-12048cea7675)
 * [2024-04-16, 19:19:10](https://news.ycombinator.com/item?id=40056056) - [Judge refuses to Ctrl-Z divorce order made by a misclick](https://www.theregister.com/2024/04/16/accidental_divorce_computer_error/)
 * [2024-04-16, 19:05:09](https://news.ycombinator.com/item?id=40055942) - [Show HN: A shell CLI tool to predict your next command enhanced by LLM and RAG](https://github.com/huangyz0918/termax)
 * [2024-04-16, 19:04:36](https://news.ycombinator.com/item?id=40055936) - [Global Firepower Index](https://www.globalfirepower.com/)
