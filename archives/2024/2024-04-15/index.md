@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
 * [2024-04-15, 23:23:28](https://news.ycombinator.com/item?id=40046774) - [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
+* [2024-04-15, 23:08:10](https://news.ycombinator.com/item?id=40046692) - [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 * [2024-04-15, 23:04:48](https://news.ycombinator.com/item?id=40046670) - [Ask HN: How do you track copy changes on websites/emails?](https://news.ycombinator.com/item?id=40046670)
 * [2024-04-15, 22:30:38](https://news.ycombinator.com/item?id=40046443) - [Ask HN: What's It Like at Intuit/TurboTax on Tax Day?](https://news.ycombinator.com/item?id=40046443)
 * [2024-04-15, 22:22:18](https://news.ycombinator.com/item?id=40046370) - [Something for the metalheads: Master Boot Record – Internet Protocol [video]](https://www.youtube.com/watch?v=t6KFfYdNPh8)
