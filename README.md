@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
+* [2024-04-16, 20:56:16](https://news.ycombinator.com/item?id=40057084) - ['Pacifist' Japan is tooling up for war](https://www.irishtimes.com/world/asia-pacific/2024/04/16/tokyo-letter-pacifist-japan-is-tooling-up-for-war/)
 * [2024-04-16, 20:54:38](https://news.ycombinator.com/item?id=40057063) - [ISPs can charge extra for fast gaming under FCC's Internet rules, critics say](https://arstechnica.com/tech-policy/2024/04/isps-can-charge-extra-for-fast-gaming-under-fccs-internet-rules-critics-say/)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
-* [2024-04-16, 19:04:36](https://news.ycombinator.com/item?id=40055936) - [Global Firepower Index](https://www.globalfirepower.com/)
 * [2024-04-16, 18:36:27](https://news.ycombinator.com/item?id=40055598) - [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
 * [2024-04-16, 18:08:10](https://news.ycombinator.com/item?id=40055269) - [Bloomberg's analysis didn't show that ChatGPT is racist](https://interviewing.io/blog/refuting-bloombergs-analysis-chatgpt-isnt-racist)
 * [2024-04-16, 18:06:20](https://news.ycombinator.com/item?id=40055239) - [David Lynch presents 'A Thinking Room'](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
