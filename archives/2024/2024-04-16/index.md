@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 15:41:32](https://news.ycombinator.com/item?id=40053466) - [Why the US government's overreliance on Microsoft is a big problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
+* [2024-04-16, 15:27:01](https://news.ycombinator.com/item?id=40053248) - [Vaccine breakthrough means no more chasing strains](https://news.ucr.edu/articles/2024/04/15/vaccine-breakthrough-means-no-more-chasing-strains)
 * [2024-04-16, 15:11:03](https://news.ycombinator.com/item?id=40052996) - [Tech exec predicts 'AI girlfriends' will create $1B business](https://nypost.com/2024/04/15/business/tech-exec-predicts-ai-girlfriends-will-create-1b-business/)
 * [2024-04-16, 14:51:48](https://news.ycombinator.com/item?id=40052729) - [Authorization is still a nightmare for engineers](https://www.osohq.com/post/distributed-authorization)
+* [2024-04-16, 14:43:48](https://news.ycombinator.com/item?id=40052611) - [The (English) legal rule that computers are presumed to be operating correctly [pdf]](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
 * [2024-04-16, 14:37:39](https://news.ycombinator.com/item?id=40052532) - [Creating sexually explicit deepfake images to be made offence in UK](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk)
 * [2024-04-16, 14:24:28](https://news.ycombinator.com/item?id=40052329) - [YouTube cracking down even harder to punish user for skipping ads](https://9to5google.com/2024/04/15/youtube-app-block-ads/)
 * [2024-04-16, 14:14:28](https://news.ycombinator.com/item?id=40052184) - [People who don't want to learn how to program can always find a reason not to](https://twitter.com/paulg/status/1779930175574090094)
