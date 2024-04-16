@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-16, 17:40:47",
+      "https://news.ycombinator.com/item?id=40054901"
+    ],
+    [
+      "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
+      "https://arxiv.org/abs/2404.08801"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 17:13:59",
       "https://news.ycombinator.com/item?id=40054580"
     ],
@@ -257,16 +267,6 @@
     [
       "A curious phenomenon called 'Etak'",
       "https://maphappenings.com/2024/04/11/story-of-etak/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 00:41:33",
-      "https://news.ycombinator.com/item?id=40047212"
-    ],
-    [
-      "HonoJS: Small, simple, and ultrafast web framework for the Edges",
-      "https://github.com/honojs/hono"
     ]
   ],
   [
