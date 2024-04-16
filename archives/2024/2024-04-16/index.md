@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 17:13:59](https://news.ycombinator.com/item?id=40054580) - [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)
 * [2024-04-16, 17:01:15](https://news.ycombinator.com/item?id=40054437) - [AT&T Fiber Internet Privacy controls are horribly broken](https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking)
 * [2024-04-16, 17:00:18](https://news.ycombinator.com/item?id=40054425) - [Hiring Full Stack Engineers at Apriora (YC W24)](https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer)
 * [2024-04-16, 16:51:34](https://news.ycombinator.com/item?id=40054326) - [Redis Is Forked](https://vickiboykis.com/2024/04/16/redis-is-forked/)
@@ -18,9 +19,11 @@
 * [2024-04-16, 15:41:32](https://news.ycombinator.com/item?id=40053466) - [Why the US government's overreliance on Microsoft is a big problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
 * [2024-04-16, 15:40:39](https://news.ycombinator.com/item?id=40053453) - [Palo Alto – Putting the Protecc in GlobalProtect (CVE-2024-3400)](https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/)
 * [2024-04-16, 15:36:10](https://news.ycombinator.com/item?id=40053389) - [Half of Ireland's young people have low level of mental wellbeing](https://www.independent.ie/irish-news/half-of-irelands-young-people-have-low-level-of-mental-wellbeing-new-report-shows/a1973091620.html)
+* [2024-04-16, 15:27:26](https://news.ycombinator.com/item?id=40053257) - [Show HN: Term Typer – Learn a Language by Typing](https://www.termtyper.com/)
 * [2024-04-16, 15:27:01](https://news.ycombinator.com/item?id=40053248) - [Vaccine breakthrough means no more chasing strains](https://news.ucr.edu/articles/2024/04/15/vaccine-breakthrough-means-no-more-chasing-strains)
 * [2024-04-16, 15:11:03](https://news.ycombinator.com/item?id=40052996) - [Tech exec predicts 'AI girlfriends' will create $1B business](https://nypost.com/2024/04/15/business/tech-exec-predicts-ai-girlfriends-will-create-1b-business/)
 * [2024-04-16, 14:58:55](https://news.ycombinator.com/item?id=40052824) - [Efficient gas boiler with real-time data](https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026)
+* [2024-04-16, 14:57:50](https://news.ycombinator.com/item?id=40052809) - [Show HN: CloudCruise (YC W24) – Graph-Based Workflow Builder for Web Agents](https://cloudcruise.com/)
 * [2024-04-16, 14:51:48](https://news.ycombinator.com/item?id=40052729) - [Authorization is still a nightmare for engineers](https://www.osohq.com/post/distributed-authorization)
 * [2024-04-16, 14:43:48](https://news.ycombinator.com/item?id=40052611) - [The (English) legal rule that computers are presumed to be operating correctly [pdf]](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
 * [2024-04-16, 14:37:39](https://news.ycombinator.com/item?id=40052532) - [Creating sexually explicit deepfake images to be made offence in UK](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk)
@@ -33,6 +36,7 @@
 * [2024-04-16, 13:38:07](https://news.ycombinator.com/item?id=40051698) - [AMD unveils Ryzen Pro 8000-series processors](https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market)
 * [2024-04-16, 13:31:51](https://news.ycombinator.com/item?id=40051633) - [Justice Department to File Antitrust Suit Against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 * [2024-04-16, 13:26:18](https://news.ycombinator.com/item?id=40051597) - [America's young men are blowing their money like never before](https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4)
+* [2024-04-16, 13:19:18](https://news.ycombinator.com/item?id=40051524) - [Show HN: Search HN for interesting comment sections](https://www.searchhacker.news)
 * [2024-04-16, 12:42:52](https://news.ycombinator.com/item?id=40051223) - [Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
 * [2024-04-16, 12:39:28](https://news.ycombinator.com/item?id=40051197) - [Chip Startup Rivos Raises More Than $250M to Tap AI Boom](https://finance.yahoo.com/news/chip-startup-rivos-raises-more-100000922.html)
 * [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
