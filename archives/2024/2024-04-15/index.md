@@ -104,6 +104,7 @@
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 07:26:23](https://news.ycombinator.com/item?id=40037811) - [Simplified Technical English](https://www.asd-ste100.org/)
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
+* [2024-04-15, 06:44:29](https://news.ycombinator.com/item?id=40037646) - [Charge of the Savoia Cavalleria at Izbushensky](https://en.wikipedia.org/wiki/Charge_of_the_Savoia_Cavalleria_at_Izbushensky)
 * [2024-04-15, 06:39:36](https://news.ycombinator.com/item?id=40037619) - [Control Linux based distros using hand gestures using OpenCV, GTK, Mediapipe](https://github.com/flying-pizza-69/GestureX)
 * [2024-04-15, 06:30:50](https://news.ycombinator.com/item?id=40037589) - [Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]](https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf)
 * [2024-04-15, 06:30:05](https://news.ycombinator.com/item?id=40037583) - [Challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
