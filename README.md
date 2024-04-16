@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 20:28:28](https://news.ycombinator.com/item?id=40056758) - [Apple's iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
-* [2024-04-16, 19:42:57](https://news.ycombinator.com/item?id=40056315) - [How the greatest MP3 player undid itself (2017)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
+* [2024-04-16, 19:42:57](https://news.ycombinator.com/item?id=40056315) - [How the greatest MP3 player undid itself (2012)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
 * [2024-04-16, 19:04:36](https://news.ycombinator.com/item?id=40055936) - [Global Firepower Index](https://www.globalfirepower.com/)
 * [2024-04-16, 18:36:27](https://news.ycombinator.com/item?id=40055598) - [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
+* [2024-04-16, 18:08:10](https://news.ycombinator.com/item?id=40055269) - [Bloomberg's analysis didn't show that ChatGPT is racist](https://interviewing.io/blog/refuting-bloombergs-analysis-chatgpt-isnt-racist)
 * [2024-04-16, 18:06:20](https://news.ycombinator.com/item?id=40055239) - [David Lynch presents 'A Thinking Room'](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
 * [2024-04-16, 17:57:31](https://news.ycombinator.com/item?id=40055120) - [We need to rewild the internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 * [2024-04-16, 17:40:47](https://news.ycombinator.com/item?id=40054901) - [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
@@ -26,8 +28,6 @@
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 00:19:39](https://news.ycombinator.com/item?id=40047094) - [Justice Department to file antitrust suit against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 * [2024-04-16, 00:08:46](https://news.ycombinator.com/item?id=40047041) - [BTFS: BitTorrent Filesystem](https://github.com/johang/btfs)
-* [2024-04-15, 19:51:58](https://news.ycombinator.com/item?id=40044881) - [The Making of Side 7: Gundam Evolution private server project](https://1379.tech/the-making-of-side-7-gundam-evolution-private-server-project/)
-* [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 07:41:33](https://news.ycombinator.com/item?id=40037885) - [GOTO (2000)](http://www.azillionmonkeys.com/qed/goto.html)
 * [2024-04-15, 06:30:50](https://news.ycombinator.com/item?id=40037589) - [Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]](https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf)
 

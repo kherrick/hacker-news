@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 20:28:28](https://news.ycombinator.com/item?id=40056758) - [Apple's iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-16, 20:15:05](https://news.ycombinator.com/item?id=40056624) - [WizardLM was unpublished due to missing toxicity testing](https://twitter.com/WizardLM_AI/status/1780101465950105775)
 * [2024-04-16, 19:42:57](https://news.ycombinator.com/item?id=40056315) - [How the greatest MP3 player undid itself (2017)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
