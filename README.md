@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 14:37:39](https://news.ycombinator.com/item?id=40052532) - [Creating sexually explicit deepfake images to be made offence in UK](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk)
 * [2024-04-16, 14:14:28](https://news.ycombinator.com/item?id=40052184) - [People who don't want to learn how to program can always find a reason not to](https://twitter.com/paulg/status/1779930175574090094)
 * [2024-04-16, 14:06:49](https://news.ycombinator.com/item?id=40052069) - [Mobile Ad Blocker Will No Longer Stop YouTube's Ads](https://gizmodo.com/your-mobile-ad-blocker-will-no-longer-stop-youtubes-ads-1851412797)
 * [2024-04-16, 14:00:58](https://news.ycombinator.com/item?id=40051975) - [A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
@@ -28,7 +29,6 @@
 * [2024-04-15, 09:15:58](https://news.ycombinator.com/item?id=40038309) - [The Queen of Sample Clearance: An Interview with Deborah Mannis-Gardner (2016)](https://www.forbes.com/sites/passionoftheweiss/2016/02/19/the-queen-of-sample-clearance-an-interview-with-deborah-mannis-gardner/)
 * [2024-04-15, 06:30:50](https://news.ycombinator.com/item?id=40037589) - [Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]](https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf)
 * [2024-04-15, 06:04:53](https://news.ycombinator.com/item?id=40037486) - [Reproducing the printer hack of Windows 95](https://dpolakovic.space/blogs/windows-95-printer-hack)
-* [2024-04-15, 05:29:31](https://news.ycombinator.com/item?id=40037341) - ['The Invention of Prehistory' Review: Facing Deep Time](https://www.wsj.com/arts-culture/books/the-invention-of-prehistory-review-facing-deep-time-b8c224cc)
 * [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 
 ## [Archives](archives/index.md)
