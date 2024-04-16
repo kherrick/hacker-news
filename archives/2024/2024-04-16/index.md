@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 18:08:10](https://news.ycombinator.com/item?id=40055269) - [Refuting Bloomberg's analysis: ChatGPT isn't racist, but it is bad at recruiting](https://interviewing.io/blog/refuting-bloombergs-analysis-chatgpt-isnt-racist)
+* [2024-04-16, 18:06:20](https://news.ycombinator.com/item?id=40055239) - [David Lynch Presents 'A Thinking Room'](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
 * [2024-04-16, 17:40:47](https://news.ycombinator.com/item?id=40054901) - [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
 * [2024-04-16, 17:13:59](https://news.ycombinator.com/item?id=40054580) - [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)
 * [2024-04-16, 17:01:15](https://news.ycombinator.com/item?id=40054437) - [AT&T Fiber Internet Privacy controls are horribly broken](https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking)
