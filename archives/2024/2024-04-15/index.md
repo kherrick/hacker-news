@@ -98,6 +98,7 @@
 * [2024-04-15, 08:14:23](https://news.ycombinator.com/item?id=40038020) - [Marc Andreessen: I regret not doing more to support and defend Brendan Eich](https://twitter.com/pmarca/status/1778898760971821271)
 * [2024-04-15, 08:00:01](https://news.ycombinator.com/item?id=40037959) - [Mid-level Nvidia employee gets $62M in stock options; another lost it all](https://www.tomshardware.com/pc-components/gpus/nvidia-employees-make-fortunes-and-foul-ups-with-their-stock-options-a-story-of-millionaire-winners-and-losers)
 * [2024-04-15, 07:42:09](https://news.ycombinator.com/item?id=40037891) - [One Knuckle Rice Rule](https://indiantinker.bearblog.dev/proposed-amendments-to-one-knuckle-rice-rule/)
+* [2024-04-15, 07:41:33](https://news.ycombinator.com/item?id=40037885) - [Goto](http://www.azillionmonkeys.com/qed/goto.html)
 * [2024-04-15, 07:32:28](https://news.ycombinator.com/item?id=40037844) - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 * [2024-04-15, 07:26:23](https://news.ycombinator.com/item?id=40037811) - [Simplified Technical English](https://www.asd-ste100.org/)
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
 * [2024-04-16, 09:31:46](https://news.ycombinator.com/item?id=40050009) - [iOS404](https://ios404.com/)
+* [2024-04-16, 08:30:46](https://news.ycombinator.com/item?id=40049623) - [Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
 * [2024-04-16, 07:57:49](https://news.ycombinator.com/item?id=40049457) - [Microsoft Invests $1.5B in G42](https://news.microsoft.com/2024/04/15/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/)
 * [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
 * [2024-04-16, 06:09:11](https://news.ycombinator.com/item?id=40048842) - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
