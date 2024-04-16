@@ -3,7 +3,7 @@
 * [2024-04-16, 16:28:16](https://news.ycombinator.com/item?id=40054019) - [Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity](https://twitter.com/tonyzzhao/status/1780263497584230432)
 * [2024-04-16, 16:07:59](https://news.ycombinator.com/item?id=40053774) - [This is a teenager](https://pudding.cool/2024/03/teenagers/)
 * [2024-04-16, 16:02:10](https://news.ycombinator.com/item?id=40053710) - [Firefox 125](https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/)
-* [2024-04-16, 15:36:10](https://news.ycombinator.com/item?id=40053389) - [Half of Ireland's young people have low level of mental wellbeing](https://www.independent.ie/irish-news/half-of-irelands-young-people-have-low-level-of-mental-wellbeing-new-report-shows/a1973091620.html)
+* [2024-04-16, 15:40:39](https://news.ycombinator.com/item?id=40053453) - [Palo Alto – Putting the Protecc in GlobalProtect (CVE-2024-3400)](https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/)
 * [2024-04-16, 14:58:55](https://news.ycombinator.com/item?id=40052824) - [Efficient gas boiler with real-time data](https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026)
 * [2024-04-16, 14:51:48](https://news.ycombinator.com/item?id=40052729) - [Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
 * [2024-04-16, 14:43:48](https://news.ycombinator.com/item?id=40052611) - [The legal rule that computers are presumed to be operating correctly (2022) [pdf]](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
