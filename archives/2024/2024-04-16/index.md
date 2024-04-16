@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
 * [2024-04-16, 06:09:11](https://news.ycombinator.com/item?id=40048842) - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
+* [2024-04-16, 05:30:45](https://news.ycombinator.com/item?id=40048657) - [My battle with Tesla: I want to clear my name before I die](https://www.bbc.co.uk/news/articles/cg3q95ednqwo)
 * [2024-04-16, 05:06:19](https://news.ycombinator.com/item?id=40048541) - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
 * [2024-04-16, 04:19:20](https://news.ycombinator.com/item?id=40048307) - [MSFT's WizardLM2 models have been taken down](https://huggingface.co/WizardLM/WizardLM-13B-V1.2)
 * [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
