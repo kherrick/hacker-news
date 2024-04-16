@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
 * [2024-04-15, 23:23:28](https://news.ycombinator.com/item?id=40046774) - [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
+* [2024-04-15, 22:30:38](https://news.ycombinator.com/item?id=40046443) - [Ask HN: What's It Like at Intuit/TurboTax on Tax Day?](https://news.ycombinator.com/item?id=40046443)
 * [2024-04-15, 22:22:18](https://news.ycombinator.com/item?id=40046370) - [Something for the metalheads: Master Boot Record – Internet Protocol [video]](https://www.youtube.com/watch?v=t6KFfYdNPh8)
 * [2024-04-15, 22:02:53](https://news.ycombinator.com/item?id=40046213) - [Debate isn't the best lever to reach the people I want to reach](https://social.polotek.net/@polotek/112050305411206400)
 * [2024-04-15, 21:57:36](https://news.ycombinator.com/item?id=40046160) - [Sterilization Procedures Have Surged Among Young People Following \"Dobbs\"](https://truthout.org/articles/sterilization-procedures-have-surged-among-young-people-post-dobbs/)
