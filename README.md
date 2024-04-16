@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 07:57:49](https://news.ycombinator.com/item?id=40049457) - [Microsoft Invests $1.5B in G42](https://news.microsoft.com/2024/04/15/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/)
 * [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
 * [2024-04-16, 06:09:11](https://news.ycombinator.com/item?id=40048842) - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
 * [2024-04-16, 05:30:45](https://news.ycombinator.com/item?id=40048657) - [My battle with Tesla: I want to clear my name before I die](https://www.bbc.co.uk/news/articles/cg3q95ednqwo)
@@ -13,7 +14,6 @@
 * [2024-04-15, 23:23:28](https://news.ycombinator.com/item?id=40046774) - [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
 * [2024-04-15, 23:08:10](https://news.ycombinator.com/item?id=40046692) - [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 * [2024-04-15, 21:01:23](https://news.ycombinator.com/item?id=40045532) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2024-04-15, 20:47:31](https://news.ycombinator.com/item?id=40045357) - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
 * [2024-04-15, 20:43:53](https://news.ycombinator.com/item?id=40045319) - [Geometers Engineer New Tools to Wrangle Spacecraft Orbits](https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/)
 * [2024-04-15, 19:54:14](https://news.ycombinator.com/item?id=40044901) - [Ramanujan's lost notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 * [2024-04-15, 19:51:58](https://news.ycombinator.com/item?id=40044881) - [If you put server code in your live-service game client, expect private servers](https://1379.tech/the-making-of-side-7-gundam-evolution-private-server-project/)
