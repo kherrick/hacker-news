@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
 * [2024-04-16, 15:11:03](https://news.ycombinator.com/item?id=40052996) - [Tech exec predicts 'AI girlfriends' will create $1B business](https://nypost.com/2024/04/15/business/tech-exec-predicts-ai-girlfriends-will-create-1b-business/)
+* [2024-04-16, 14:51:48](https://news.ycombinator.com/item?id=40052729) - [Authorization is still a nightmare for engineers](https://www.osohq.com/post/distributed-authorization)
 * [2024-04-16, 14:37:39](https://news.ycombinator.com/item?id=40052532) - [Creating sexually explicit deepfake images to be made offence in UK](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk)
 * [2024-04-16, 14:24:28](https://news.ycombinator.com/item?id=40052329) - [YouTube cracking down even harder to punish user for skipping ads](https://9to5google.com/2024/04/15/youtube-app-block-ads/)
 * [2024-04-16, 14:14:28](https://news.ycombinator.com/item?id=40052184) - [People who don't want to learn how to program can always find a reason not to](https://twitter.com/paulg/status/1779930175574090094)
