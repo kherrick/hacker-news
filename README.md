@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 00:41:33](https://news.ycombinator.com/item?id=40047212) - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
 * [2024-04-16, 00:38:47](https://news.ycombinator.com/item?id=40047193) - [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
 * [2024-04-16, 00:29:40](https://news.ycombinator.com/item?id=40047152) - [ResearchAgent: Iterative Research Idea Generation Using LLMs](https://arxiv.org/abs/2404.07738)
 * [2024-04-16, 00:08:46](https://news.ycombinator.com/item?id=40047041) - [BTFS (BitTorrent Filesystem)](https://github.com/johang/btfs)
@@ -17,7 +18,6 @@
 * [2024-04-15, 14:58:41](https://news.ycombinator.com/item?id=40041430) - [An FDA approved device offers a new treatment for tinnitus](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
 * [2024-04-15, 14:57:23](https://news.ycombinator.com/item?id=40041406) - [Do we need to store all that telemetry?](https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Show HN: Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
-* [2024-04-15, 11:05:27](https://news.ycombinator.com/item?id=40038922) - [Are flying cars finally here?](https://www.newyorker.com/magazine/2024/04/22/are-flying-cars-finally-here)
 * [2024-04-15, 10:43:42](https://news.ycombinator.com/item?id=40038773) - [The purge of German science in 1933](https://www.privatdozent.co/p/the-great-purge-of-1933-9f0)
 * [2024-04-15, 10:42:04](https://news.ycombinator.com/item?id=40038759) - [Weird monitor bugs people sent me in the last 5 years (2022)](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 * [2024-04-15, 10:36:49](https://news.ycombinator.com/item?id=40038729) - [How much memory does a graph take?](https://jazco.dev/2024/04/15/in-memory-graphs/)
