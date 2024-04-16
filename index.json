@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-04-16, 20:15:05",
+      "https://news.ycombinator.com/item?id=40056624"
+    ],
+    [
+      "WizardLM was unpublished due to missing toxicity testing",
+      "https://twitter.com/WizardLM_AI/status/1780101465950105775"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 19:42:57",
       "https://news.ycombinator.com/item?id=40056315"
     ],
     [
       "How the greatest MP3 player undid itself (2017)",
       "https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 19:19:10",
-      "https://news.ycombinator.com/item?id=40056056"
-    ],
-    [
-      "Judge refuses to Ctrl-Z divorce order made by a misclick",
-      "https://www.theregister.com/2024/04/16/accidental_divorce_computer_error/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Why Sweden abandoned its secret A-bomb project",
       "https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 18:29:35",
-      "https://news.ycombinator.com/item?id=40055522"
-    ],
-    [
-      "Please don't put checkmarks in checkboxes before I checked them",
-      "https://grumpy.website/1516"
     ]
   ],
   [
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2024-04-16, 16:51:34",
-      "https://news.ycombinator.com/item?id=40054326"
-    ],
-    [
-      "Redis is forked",
-      "https://vickiboykis.com/2024/04/16/redis-is-forked/"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 16:42:08",
       "https://news.ycombinator.com/item?id=40054190"
     ],
@@ -177,6 +157,16 @@
     [
       "The legal rule that computers are presumed to be operating correctly (2022) [pdf]",
       "https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 14:10:34",
+      "https://news.ycombinator.com/item?id=40052128"
+    ],
+    [
+      "Founders need to be ruthless when chasing deals",
+      "https://steveblank.com/2024/04/16/founders-need-to-be-ruthless-when-chasing-deals/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "BTFS: BitTorrent Filesystem",
       "https://github.com/johang/btfs"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 19:24:52",
+      "https://news.ycombinator.com/item?id=40044665"
+    ],
+    [
+      "PuTTY vulnerability vuln-p521-bias",
+      "https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html"
     ]
   ],
   [
