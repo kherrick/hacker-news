@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 11:01:09](https://news.ycombinator.com/item?id=40050548) - [Copenhagen's historic stock exchange in flames](https://www.bbc.com/news/world-europe-68824189)
+* [2024-04-16, 10:55:01](https://news.ycombinator.com/item?id=40050514) - [AI cloud startup TensorWave bets AMD can beat Nvidia](https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/)
+* [2024-04-16, 10:18:31](https://news.ycombinator.com/item?id=40050302) - [Tesla Cybertruck's Stuck Accelerator Pedal Creates 6,800-Pound Land Missile](https://insideevs.com/news/716031/tesla-cybertruck-stuck-accelerator-pedal/)
 * [2024-04-16, 09:31:46](https://news.ycombinator.com/item?id=40050009) - [iOS404](https://ios404.com/)
+* [2024-04-16, 08:39:04](https://news.ycombinator.com/item?id=40049670) - [IPv6 for the Remotely Interested](https://ssg.dev/ipv6-for-the-remotely-interested-af214dd06aa7?gi=79f1ddf22e27)
 * [2024-04-16, 08:30:46](https://news.ycombinator.com/item?id=40049623) - [Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
 * [2024-04-16, 07:57:49](https://news.ycombinator.com/item?id=40049457) - [Microsoft Invests $1.5B in G42](https://news.microsoft.com/2024/04/15/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/)
 * [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
