@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 21:51:27](https://news.ycombinator.com/item?id=40057667) - [Tvix – A New Implementation of Nix](https://tvix.dev/)
 * [2024-04-16, 21:12:17](https://news.ycombinator.com/item?id=40057289) - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
 * [2024-04-16, 20:56:16](https://news.ycombinator.com/item?id=40057084) - ['Pacifist' Japan is tooling up for war](https://www.irishtimes.com/world/asia-pacific/2024/04/16/tokyo-letter-pacifist-japan-is-tooling-up-for-war/)
@@ -8,9 +9,7 @@
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-16, 19:43:07](https://news.ycombinator.com/item?id=40056318) - [The justice system's role in non disclosure of Horizon material](https://www.thejusticegap.com/the-justice-systems-role-in-non-disclosure-of-horizon-material/)
 * [2024-04-16, 19:42:04](https://news.ycombinator.com/item?id=40056311) - [Firefox Proton UI userChrome.css fixes. (2021)](https://github.com/black7375/Firefox-UI-Fix)
-* [2024-04-16, 19:38:25](https://news.ycombinator.com/item?id=40056256) - [Upgrading 3M Variables to Envelope Encryption](https://blog.railway.app/p/envelope-encryption)
 * [2024-04-16, 19:35:45](https://news.ycombinator.com/item?id=40056229) - [The Americas Act and Its Chances of Becoming Law](https://globalamericans.org/explaining-and-predicting-the-americas-act-and-its-chances-of-becoming-law/)
-* [2024-04-16, 18:36:27](https://news.ycombinator.com/item?id=40055598) - [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
 * [2024-04-16, 18:06:20](https://news.ycombinator.com/item?id=40055239) - [David Lynch presents 'A Thinking Room'](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
 * [2024-04-16, 17:57:31](https://news.ycombinator.com/item?id=40055120) - [We need to rewild the internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 * [2024-04-16, 17:40:47](https://news.ycombinator.com/item?id=40054901) - [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
@@ -30,6 +29,7 @@
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 00:19:39](https://news.ycombinator.com/item?id=40047094) - [Justice Department to file antitrust suit against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 * [2024-04-15, 07:41:33](https://news.ycombinator.com/item?id=40037885) - [GOTO (2000)](http://www.azillionmonkeys.com/qed/goto.html)
+* [2024-04-15, 06:44:29](https://news.ycombinator.com/item?id=40037646) - [Charge of the Savoia Cavalleria at Izbushensky](https://en.wikipedia.org/wiki/Charge_of_the_Savoia_Cavalleria_at_Izbushensky)
 
 ## [Archives](archives/index.md)
 
