@@ -3,8 +3,6 @@
 * [2024-04-16, 11:28:12](https://news.ycombinator.com/item?id=40050717) - [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
 * [2024-04-16, 11:01:09](https://news.ycombinator.com/item?id=40050548) - [Copenhagen's historic stock exchange in flames](https://www.bbc.com/news/world-europe-68824189)
 * [2024-04-16, 10:55:01](https://news.ycombinator.com/item?id=40050514) - [AI cloud startup TensorWave bets AMD can beat Nvidia](https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/)
-* [2024-04-16, 10:18:31](https://news.ycombinator.com/item?id=40050302) - [Tesla Cybertruck's Stuck Accelerator Pedal Creates 6,800-Pound Land Missile](https://insideevs.com/news/716031/tesla-cybertruck-stuck-accelerator-pedal/)
-* [2024-04-16, 08:39:04](https://news.ycombinator.com/item?id=40049670) - [IPv6 for the Remotely Interested](https://ssg.dev/ipv6-for-the-remotely-interested-af214dd06aa7?gi=79f1ddf22e27)
 * [2024-04-16, 08:30:46](https://news.ycombinator.com/item?id=40049623) - [Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
 * [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
 * [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
@@ -25,11 +23,13 @@
 * [2024-04-15, 10:42:04](https://news.ycombinator.com/item?id=40038759) - [Weird monitor bugs people sent me in the last 5 years (2022)](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 * [2024-04-15, 10:36:49](https://news.ycombinator.com/item?id=40038729) - [How much memory does a graph take?](https://jazco.dev/2024/04/15/in-memory-graphs/)
 * [2024-04-15, 09:15:58](https://news.ycombinator.com/item?id=40038309) - [The Queen of Sample Clearance: An Interview with Deborah Mannis-Gardner (2016)](https://www.forbes.com/sites/passionoftheweiss/2016/02/19/the-queen-of-sample-clearance-an-interview-with-deborah-mannis-gardner/)
+* [2024-04-15, 06:30:50](https://news.ycombinator.com/item?id=40037589) - [Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]](https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf)
 * [2024-04-15, 06:04:53](https://news.ycombinator.com/item?id=40037486) - [Reproducing the printer hack of Windows 95](https://dpolakovic.space/blogs/windows-95-printer-hack)
 * [2024-04-15, 05:29:31](https://news.ycombinator.com/item?id=40037341) - ['The Invention of Prehistory' Review: Facing Deep Time](https://www.wsj.com/arts-culture/books/the-invention-of-prehistory-review-facing-deep-time-b8c224cc)
 * [2024-04-15, 05:26:47](https://news.ycombinator.com/item?id=40037324) - [Learning about distributed systems: where to start?](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 * [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
+* [2024-04-13, 22:44:20](https://news.ycombinator.com/item?id=40026866) - [The Heart of Low](https://www.newyorker.com/culture/persons-of-interest/alan-sparhawk-the-heart-of-low)
 
 ## [Archives](archives/index.md)
 

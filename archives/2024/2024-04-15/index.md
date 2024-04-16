@@ -105,6 +105,7 @@
 * [2024-04-15, 07:26:23](https://news.ycombinator.com/item?id=40037811) - [Simplified Technical English](https://www.asd-ste100.org/)
 * [2024-04-15, 07:16:13](https://news.ycombinator.com/item?id=40037772) - [Better Adb-Shell](https://github.com/matan-h/adb-shell)
 * [2024-04-15, 06:39:36](https://news.ycombinator.com/item?id=40037619) - [Control Linux based distros using hand gestures using OpenCV, GTK, Mediapipe](https://github.com/flying-pizza-69/GestureX)
+* [2024-04-15, 06:30:50](https://news.ycombinator.com/item?id=40037589) - [Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]](https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf)
 * [2024-04-15, 06:30:05](https://news.ycombinator.com/item?id=40037583) - [Challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
 * [2024-04-15, 06:04:53](https://news.ycombinator.com/item?id=40037486) - [Reproducing the printer hack of Windows 95](https://dpolakovic.space/blogs/windows-95-printer-hack)
 * [2024-04-15, 06:00:13](https://news.ycombinator.com/item?id=40037466) - [Mini rope bridges built in Forest of Dean to help dormice](https://www.bbc.com/news/uk-england-gloucestershire-68788690)
