@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A Curious Phenomenon Called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
+* [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 00:41:33](https://news.ycombinator.com/item?id=40047212) - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
 * [2024-04-16, 00:38:47](https://news.ycombinator.com/item?id=40047193) - [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
 * [2024-04-16, 00:29:40](https://news.ycombinator.com/item?id=40047152) - [ResearchAgent: Iterative Research Idea Generation Using LLMs](https://arxiv.org/abs/2404.07738)
@@ -17,7 +17,6 @@
 * [2024-04-15, 19:05:36](https://news.ycombinator.com/item?id=40044464) - [Histomap: Visualizing the 4000 year history of global power (2021)](https://www.visualcapitalist.com/histomap/)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
 * [2024-04-15, 16:15:39](https://news.ycombinator.com/item?id=40042497) - [Web-based Turbo Pascal compiler](https://github.com/lkesteloot/turbopascal)
-* [2024-04-15, 14:57:23](https://news.ycombinator.com/item?id=40041406) - [Do we need to store all that telemetry?](https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Show HN: Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 10:43:42](https://news.ycombinator.com/item?id=40038773) - [The purge of German science in 1933](https://www.privatdozent.co/p/the-great-purge-of-1933-9f0)
 * [2024-04-15, 10:42:04](https://news.ycombinator.com/item?id=40038759) - [Weird monitor bugs people sent me in the last 5 years (2022)](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
@@ -29,6 +28,7 @@
 * [2024-04-14, 13:01:10](https://news.ycombinator.com/item?id=40030786) - [Trying to Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-14, 06:04:45](https://news.ycombinator.com/item?id=40029032) - [A City Is Not a Computer (2017)](https://placesjournal.org/article/a-city-is-not-a-computer/)
+* [2024-04-13, 22:44:20](https://news.ycombinator.com/item?id=40026866) - [The Heart of Low](https://www.newyorker.com/culture/persons-of-interest/alan-sparhawk-the-heart-of-low)
 * [2024-04-13, 08:23:01](https://news.ycombinator.com/item?id=40021458) - [ScanAllFish](https://www.adamsummers.org/scanallfish)
 
 ## [Archives](archives/index.md)

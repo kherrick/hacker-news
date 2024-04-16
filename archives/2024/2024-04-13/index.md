@@ -10,6 +10,7 @@
 * [2024-04-13, 23:33:01](https://news.ycombinator.com/item?id=40027182) - [Google kills \"One\" VPN service](https://arstechnica.com/gadgets/2024/04/google-is-killing-off-its-one-vpn-service/)
 * [2024-04-13, 23:10:23](https://news.ycombinator.com/item?id=40027061) - [We cut costs by 70% by moving from GCP and CockroachDB to Hetzner and PostgreSQL](https://blog.mikoto.io/building-your-own-cloud-for-fun-and-profit)
 * [2024-04-13, 22:54:05](https://news.ycombinator.com/item?id=40026938) - [Mystery of Where Gold and Platinum Come from Deepens After Gargantuan Explosion](https://gizmodo.com/gold-platinum-brightest-of-all-time-gamma-ray-burst-1851406426)
+* [2024-04-13, 22:44:20](https://news.ycombinator.com/item?id=40026866) - [The Heart of Low](https://www.newyorker.com/culture/persons-of-interest/alan-sparhawk-the-heart-of-low)
 * [2024-04-13, 22:37:32](https://news.ycombinator.com/item?id=40026817) - [Learning from Snapshots of Lost Fossils](https://www.sapiens.org/archaeology/human-teeth-ksar-akil/)
 * [2024-04-13, 22:32:54](https://news.ycombinator.com/item?id=40026782) - [Turn entire websites into LLM-ready data](https://www.firecrawl.dev/)
 * [2024-04-13, 22:26:41](https://news.ycombinator.com/item?id=40026732) - [Ford Mustang Mach-E Using BlueCruise at Time of Crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
