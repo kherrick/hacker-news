@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 12:39:28](https://news.ycombinator.com/item?id=40051197) - [Chip Startup Rivos Raises More Than $250M to Tap AI Boom](https://finance.yahoo.com/news/chip-startup-rivos-raises-more-100000922.html)
 * [2024-04-16, 12:01:15](https://news.ycombinator.com/item?id=40050914) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-04-16, 11:54:41](https://news.ycombinator.com/item?id=40050872) - [Yes, Python and Matplotlib can make pretty charts](https://python-graph-gallery.com/best-python-chart-examples/)
 * [2024-04-16, 11:28:12](https://news.ycombinator.com/item?id=40050717) - [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
