@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 13:31:51](https://news.ycombinator.com/item?id=40051633) - [Justice Department to File Antitrust Suit Against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 * [2024-04-16, 13:26:18](https://news.ycombinator.com/item?id=40051597) - [America's young men are blowing their money like never before](https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4)
 * [2024-04-16, 12:42:52](https://news.ycombinator.com/item?id=40051223) - [Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
 * [2024-04-16, 12:39:28](https://news.ycombinator.com/item?id=40051197) - [Chip Startup Rivos Raises More Than $250M to Tap AI Boom](https://finance.yahoo.com/news/chip-startup-rivos-raises-more-100000922.html)
@@ -11,6 +12,7 @@
 * [2024-04-16, 12:27:24](https://news.ycombinator.com/item?id=40051100) - [$10M in Gold Disguised as Machine Parts Seized from Cargo Plane](https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958)
 * [2024-04-16, 12:01:15](https://news.ycombinator.com/item?id=40050914) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-04-16, 11:54:41](https://news.ycombinator.com/item?id=40050872) - [Yes, Python and Matplotlib can make pretty charts](https://python-graph-gallery.com/best-python-chart-examples/)
+* [2024-04-16, 11:49:22](https://news.ycombinator.com/item?id=40050844) - [NPR suspends veteran editor as it grapples with his public criticism](https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay)
 * [2024-04-16, 11:28:12](https://news.ycombinator.com/item?id=40050717) - [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
 * [2024-04-16, 11:01:09](https://news.ycombinator.com/item?id=40050548) - [Copenhagen's historic stock exchange in flames](https://www.bbc.com/news/world-europe-68824189)
 * [2024-04-16, 10:55:01](https://news.ycombinator.com/item?id=40050514) - [AI cloud startup TensorWave bets AMD can beat Nvidia](https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/)

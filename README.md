@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-16, 13:31:51](https://news.ycombinator.com/item?id=40051633) - [Justice Department to File Antitrust Suit Against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 * [2024-04-16, 13:26:18](https://news.ycombinator.com/item?id=40051597) - [America's young men are blowing their money like never before](https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4)
 * [2024-04-16, 12:42:52](https://news.ycombinator.com/item?id=40051223) - [Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
 * [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 * [2024-04-16, 12:27:24](https://news.ycombinator.com/item?id=40051100) - [$10M in Gold Disguised as Machine Parts Seized from Cargo Plane](https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958)
 * [2024-04-16, 12:01:15](https://news.ycombinator.com/item?id=40050914) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+* [2024-04-16, 11:49:22](https://news.ycombinator.com/item?id=40050844) - [NPR suspends veteran editor as it grapples with his public criticism](https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay)
 * [2024-04-16, 11:28:12](https://news.ycombinator.com/item?id=40050717) - [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
 * [2024-04-16, 08:30:46](https://news.ycombinator.com/item?id=40049623) - [Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
 * [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
@@ -19,7 +21,6 @@
 * [2024-04-15, 19:49:42](https://news.ycombinator.com/item?id=40044863) - [Phone conversations with law enforcement can be recorded without their consent](https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808)
 * [2024-04-15, 19:24:52](https://news.ycombinator.com/item?id=40044665) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 16:24:51](https://news.ycombinator.com/item?id=40042616) - [Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
-* [2024-04-15, 16:15:39](https://news.ycombinator.com/item?id=40042497) - [Web-based Turbo Pascal compiler](https://github.com/lkesteloot/turbopascal)
 * [2024-04-15, 14:42:10](https://news.ycombinator.com/item?id=40041198) - [Show HN: Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 10:42:04](https://news.ycombinator.com/item?id=40038759) - [Weird monitor bugs people sent me in the last 5 years (2022)](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 * [2024-04-15, 09:15:58](https://news.ycombinator.com/item?id=40038309) - [The Queen of Sample Clearance: An Interview with Deborah Mannis-Gardner (2016)](https://www.forbes.com/sites/passionoftheweiss/2016/02/19/the-queen-of-sample-clearance-an-interview-with-deborah-mannis-gardner/)
@@ -29,7 +30,6 @@
 * [2024-04-15, 05:26:47](https://news.ycombinator.com/item?id=40037324) - [Learning about distributed systems: where to start?](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
 * [2024-04-14, 23:38:01](https://news.ycombinator.com/item?id=40035514) - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 * [2024-04-14, 07:55:22](https://news.ycombinator.com/item?id=40029469) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
-* [2024-04-14, 03:49:06](https://news.ycombinator.com/item?id=40028494) - [Can You Grok It – Hacking together my own dev tunnel service](https://0xda.de/blog/2024/04/can-you-grok-it/)
 
 ## [Archives](archives/index.md)
 
