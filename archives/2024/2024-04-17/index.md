@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 12:21:06](https://news.ycombinator.com/item?id=40063607) - [The VC acid test as a founder (2017)](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)
+* [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 12:00:25](https://news.ycombinator.com/item?id=40063366) - [Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
 * [2024-04-17, 11:56:59](https://news.ycombinator.com/item?id=40063331) - [I can't use my number pad for 2FA codes](https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/)
 * [2024-04-17, 11:54:03](https://news.ycombinator.com/item?id=40063300) - [Cooler transformers could help electric grid](https://www.sciencedaily.com/releases/2024/04/240416125322.htm)
 * [2024-04-17, 11:23:18](https://news.ycombinator.com/item?id=40063025) - [ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
 * [2024-04-17, 11:21:39](https://news.ycombinator.com/item?id=40063014) - [Show HN: Open Source TailwindCSS UI Components](https://github.com/EasyFrontend-com/html-tailwindcss-components)
+* [2024-04-17, 11:17:29](https://news.ycombinator.com/item?id=40062987) - [Security Vulnerability in Browser Interface Allows Computer Access via GPU](https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte)
 * [2024-04-17, 11:02:32](https://news.ycombinator.com/item?id=40062892) - [The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
 * [2024-04-17, 10:42:58](https://news.ycombinator.com/item?id=40062774) - [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
 * [2024-04-17, 10:15:57](https://news.ycombinator.com/item?id=40062590) - [Blaze: A High Performance C++ Math Library](https://bitbucket.org/blaze-lib/blaze/src/master/)
