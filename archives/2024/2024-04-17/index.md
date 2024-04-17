@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 19:10:14](https://news.ycombinator.com/item?id=40068891) - [Why Boeing chief's $33M pay is hard to justify](https://www.ft.com/content/c3683fda-f4c6-44d2-bb1b-0eeab5af0f76)
 * [2024-04-17, 19:02:13](https://news.ycombinator.com/item?id=40068802) - [How Google Is Crushing Tuta](https://tuta.com/blog/google-search-problem)
 * [2024-04-17, 18:34:23](https://news.ycombinator.com/item?id=40068507) - [Booming AI demand threatens global electricity supply](https://www.ft.com/content/b7570359-f809-49ce-8cd5-9166d36a057b)
 * [2024-04-17, 18:21:55](https://news.ycombinator.com/item?id=40068348) - [Roku TVs may inject tailored ads into anything and everything when you pause](https://www.theregister.com/2024/04/17/roku_tv_ad_patent/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 19:10:14](https://news.ycombinator.com/item?id=40068891) - [Why Boeing chief's $33M pay is hard to justify](https://www.ft.com/content/c3683fda-f4c6-44d2-bb1b-0eeab5af0f76)
 * [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
 * [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
@@ -20,7 +21,6 @@
 * [2024-04-17, 14:00:37](https://news.ycombinator.com/item?id=40064736) - [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An electric new era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 * [2024-04-17, 13:05:14](https://news.ycombinator.com/item?id=40064027) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
-* [2024-04-17, 12:52:06](https://news.ycombinator.com/item?id=40063908) - [LXQt 2.0.0](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
 * [2024-04-17, 12:39:49](https://news.ycombinator.com/item?id=40063803) - [Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool](https://github.com/WINSDK/bite)
 * [2024-04-17, 12:38:40](https://news.ycombinator.com/item?id=40063795) - [Quantum mechanics is the operating system other physical theories run on (2007)](https://www.scottaaronson.com/democritus/lec9.html)
 * [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
@@ -28,7 +28,7 @@
 * [2024-04-16, 19:02:13](https://news.ycombinator.com/item?id=40055908) - [Everything We Can't Describe in Music](https://hazlitt.net/feature/everything-we-cant-describe-music)
 * [2024-04-16, 17:57:19](https://news.ycombinator.com/item?id=40055116) - [An Obscure Actions Workflow Vulnerability in Google's Flank](https://adnanthekhan.com/2024/04/15/an-obscure-actions-workflow-vulnerability-in-googles-flank/)
 * [2024-04-16, 12:14:14](https://news.ycombinator.com/item?id=40051013) - [Oolite: An open source open-world space opera](https://oolite.space/)
-* [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [LCD displays still don't match the responsiveness of clunky CRT screens](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
+* [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [LCD displays still don't match the responsiveness of clunky CRT screens (2019)](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
 * [2024-04-16, 05:41:44](https://news.ycombinator.com/item?id=40048702) - [RubyJS-Vite](https://filipvrba.github.io/ruby-js/)
 
 ## [Archives](archives/index.md)
