@@ -30,6 +30,7 @@
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
 * [2024-04-17, 16:43:36](https://news.ycombinator.com/item?id=40067158) - [Joseph Priestley created revolutionary \"maps\" of time](https://www.neh.gov/article/joseph-priestley-created-revolutionary-maps-time)
 * [2024-04-17, 16:37:16](https://news.ycombinator.com/item?id=40067068) - [Cloudflare CEO Matthew Prince buys local paper, feuds over mansion build](https://archive.ph/2024.04.17-121225/https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
+* [2024-04-17, 16:35:13](https://news.ycombinator.com/item?id=40067041) - [Novelists as Schoolmasters](https://www.thearticle.com/novelists-as-schoolmasters?ref=thebrowser.com)
 * [2024-04-17, 16:30:31](https://news.ycombinator.com/item?id=40066975) - [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
 * [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
 * [2024-04-17, 16:26:37](https://news.ycombinator.com/item?id=40066914) - [How does this full-track, 3-wheel snow bike even turn?](https://newatlas.com/outdoors/oruga-unitrack-electric-all-terrain-vehicle/)
