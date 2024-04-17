@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-04-17, 18:34:23",
-      "https://news.ycombinator.com/item?id=40068507"
-    ],
-    [
-      "Booming AI demand threatens global electricity supply",
-      "https://www.ft.com/content/b7570359-f809-49ce-8cd5-9166d36a057b"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 18:21:55",
-      "https://news.ycombinator.com/item?id=40068348"
-    ],
-    [
-      "Roku TVs may inject tailored ads into anything and everything when you pause",
-      "https://www.theregister.com/2024/04/17/roku_tv_ad_patent/"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 18:07:01",
       "https://news.ycombinator.com/item?id=40068187"
     ],
@@ -61,6 +41,16 @@
   ],
   [
     [
+      "2024-04-17, 17:20:32",
+      "https://news.ycombinator.com/item?id=40067605"
+    ],
+    [
+      "Reddit is taking over Google",
+      "https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 17:18:07",
       "https://news.ycombinator.com/item?id=40067575"
     ],
@@ -71,12 +61,12 @@
   ],
   [
     [
-      "2024-04-17, 17:09:17",
-      "https://news.ycombinator.com/item?id=40067489"
+      "2024-04-17, 17:16:13",
+      "https://news.ycombinator.com/item?id=40067556"
     ],
     [
-      "Effort – a possibly new algorithm for LLM Inference",
-      "https://kolinko.github.io/effort/"
+      "AltStore PAL, the first alternative app marketplace on iPhone, is available now",
+      "https://mastodon.social/@stroughtonsmith/112287515017810339"
     ]
   ],
   [
@@ -91,11 +81,21 @@
   ],
   [
     [
+      "2024-04-17, 17:09:04",
+      "https://news.ycombinator.com/item?id=40067484"
+    ],
+    [
+      "Show HN: A self-published art book about Google's first 25 years",
+      "https://www.damaia.com/google"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 17:00:46",
       "https://news.ycombinator.com/item?id=40067372"
     ],
     [
-      "Y Combinator is hiring full stack engineers – learn tons and tons about startups",
+      "Y Combinator is hiring full stack engineers – learn tons about startups",
       "https://news.ycombinator.com/item?id=40067372"
     ]
   ],
@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2024-04-17, 16:26:59",
-      "https://news.ycombinator.com/item?id=40066921"
+      "2024-04-17, 15:14:08",
+      "https://news.ycombinator.com/item?id=40065862"
     ],
     [
-      "The great commercial takeover of low Earth orbit",
-      "https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/"
+      "Future of Humanity Institute shuts down",
+      "https://www.futureofhumanityinstitute.org"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "libxev: A cross-platform, high-performance event loop",
       "https://github.com/mitchellh/libxev"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 15:04:08",
+      "https://news.ycombinator.com/item?id=40065704"
+    ],
+    [
+      "The biggest source of waste is untapped skilled pragmatists",
+      "https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2024-04-17, 12:38:40",
+      "https://news.ycombinator.com/item?id=40063795"
+    ],
+    [
+      "Quantum mechanics is the operating system other physical theories run on (2007)",
+      "https://www.scottaaronson.com/democritus/lec9.html"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 12:00:32",
       "https://news.ycombinator.com/item?id=40063367"
     ],
@@ -237,16 +257,6 @@
     [
       "F/OSS Comics: 8. The Origins of Unix and the C Language",
       "https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 03:27:58",
-      "https://news.ycombinator.com/item?id=40060123"
-    ],
-    [
-      "Ten years of improvements in PostgreSQL's optimizer",
-      "https://rmarcus.info/blog/2024/04/12/pg-over-time.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "RubyJS-Vite",
       "https://filipvrba.github.io/ruby-js/"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 21:29:28",
-      "https://news.ycombinator.com/item?id=40045832"
-    ],
-    [
-      "Bronze Age Stone Anchors as Material Metaphors",
-      "https://link.springer.com/article/10.1007/s10816-024-09642-z"
     ]
   ]
 ]
