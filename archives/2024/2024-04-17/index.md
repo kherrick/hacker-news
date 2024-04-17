@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:35:01](https://news.ycombinator.com/item?id=40059835) - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
 * [2024-04-17, 02:34:09](https://news.ycombinator.com/item?id=40059829) - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 * [2024-04-17, 02:00:23](https://news.ycombinator.com/item?id=40059630) - [I Nearly Died Drowning. Here's What It's Like to Survive](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)

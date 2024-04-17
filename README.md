@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:35:01](https://news.ycombinator.com/item?id=40059835) - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
 * [2024-04-17, 02:34:09](https://news.ycombinator.com/item?id=40059829) - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 * [2024-04-17, 02:00:23](https://news.ycombinator.com/item?id=40059630) - [I Nearly Died Drowning. Here's What It's Like to Survive](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
@@ -18,7 +19,6 @@
 * [2024-04-16, 17:32:25](https://news.ycombinator.com/item?id=40054811) - [NSA Publishes Guidance for Strengthening AI System Security](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/)
 * [2024-04-16, 17:13:59](https://news.ycombinator.com/item?id=40054580) - [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)
 * [2024-04-16, 16:47:28](https://news.ycombinator.com/item?id=40054263) - [Learn OAuth by building a client with Node.js](https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F)
-* [2024-04-16, 16:28:16](https://news.ycombinator.com/item?id=40054019) - [Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity](https://twitter.com/tonyzzhao/status/1780263497584230432)
 * [2024-04-16, 16:07:59](https://news.ycombinator.com/item?id=40053774) - [This is a teenager](https://pudding.cool/2024/03/teenagers/)
 * [2024-04-16, 15:27:26](https://news.ycombinator.com/item?id=40053257) - [Show HN: Term Typer – Learn a Language by Typing](https://www.termtyper.com/)
 * [2024-04-16, 14:51:48](https://news.ycombinator.com/item?id=40052729) - [Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
