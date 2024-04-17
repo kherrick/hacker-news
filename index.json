@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-17, 15:50:00",
+      "https://news.ycombinator.com/item?id=40066376"
+    ],
+    [
+      "McNamara Fallacy",
+      "https://en.wikipedia.org/wiki/McNamara_fallacy"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 15:46:02",
+      "https://news.ycombinator.com/item?id=40066308"
+    ],
+    [
+      "US FAA issues ground stop advisory for Alaska Airlines",
+      "https://www.reuters.com/business/aerospace-defense/us-faa-issues-ground-stop-advisory-alaska-airlines-2024-04-17/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 15:14:08",
       "https://news.ycombinator.com/item?id=40065862"
     ],
@@ -27,6 +47,16 @@
     [
       "Stable Diffusion 3 API Now Available",
       "https://stability.ai/news/stable-diffusion-3-api"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 14:26:08",
+      "https://news.ycombinator.com/item?id=40065107"
+    ],
+    [
+      "Power-hungry AI is putting the hurt on global electricity supply",
+      "https://arstechnica.com/ai/2024/04/power-hungry-ai-is-putting-the-hurt-on-global-electricity-supply/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-04-17, 09:28:05",
-      "https://news.ycombinator.com/item?id=40062271"
-    ],
-    [
-      "The NSA is just days away from taking over the internet",
-      "https://twitter.com/Snowden/status/1779920066840055847"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 07:35:01",
       "https://news.ycombinator.com/item?id=40061597"
     ],
@@ -201,42 +221,12 @@
   ],
   [
     [
-      "2024-04-17, 03:43:18",
-      "https://news.ycombinator.com/item?id=40060198"
-    ],
-    [
-      "Perlis's Programming Epigrams",
-      "https://www.cs.yale.edu/homes/perlis-alan/quotes.html"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 03:27:58",
       "https://news.ycombinator.com/item?id=40060123"
     ],
     [
       "Ten years of improvements in PostgreSQL's optimizer",
       "https://rmarcus.info/blog/2024/04/12/pg-over-time.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 02:34:09",
-      "https://news.ycombinator.com/item?id=40059829"
-    ],
-    [
-      "Tax consequences of WIN95 team members keeping a piece of software for testing",
-      "https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 00:35:51",
-      "https://news.ycombinator.com/item?id=40059122"
-    ],
-    [
-      "UI redesigns are mostly a waste of time (2019)",
-      "https://debugandrelease.blogspot.com/2019/03/ui-redesigns-are-mostly-waste-of-time.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A curious phenomenon called 'Etak'",
       "https://maphappenings.com/2024/04/11/story-of-etak/"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 21:29:28",
+      "https://news.ycombinator.com/item?id=40045832"
+    ],
+    [
+      "Bronze Age Stone Anchors as Material Metaphors",
+      "https://link.springer.com/article/10.1007/s10816-024-09642-z"
     ]
   ]
 ]
