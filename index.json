@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-17, 18:05:59",
+      "https://news.ycombinator.com/item?id=40068170"
+    ],
+    [
+      "Collapse of Self-Trained Language Models",
+      "https://arxiv.org/abs/2404.02305"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 17:26:09",
+      "https://news.ycombinator.com/item?id=40067677"
+    ],
+    [
+      "Show HN: Speeding up LLM inference 2x times (possibly)",
+      "https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 17:20:32",
       "https://news.ycombinator.com/item?id=40067605"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40067575"
     ],
     [
-      "Nestlé gets children hooked on sugar in lower-income countries",
+      "How Nestlé gets children hooked on sugar in lower-income countries",
       "https://stories.publiceye.ch/nestle-babies/"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-04-17, 14:01:26",
-      "https://news.ycombinator.com/item?id=40064744"
-    ],
-    [
-      "Formlabs Form 4 3D Printer Beats Injection Molding Machine in Speed and Quality [video]",
-      "https://www.youtube.com/watch?v=zdv6MlFlOrA"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 14:00:37",
       "https://news.ycombinator.com/item?id=40064736"
     ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2024-04-17, 11:36:54",
-      "https://news.ycombinator.com/item?id=40063137"
-    ],
-    [
-      "Show HN: Desbordante 2.0",
-      "https://github.com/Desbordante/desbordante-core"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 11:17:29",
-      "https://news.ycombinator.com/item?id=40062987"
-    ],
-    [
-      "Security Vulnerability in Browser Interface Allows Computer Access via GPU",
-      "https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 10:15:57",
       "https://news.ycombinator.com/item?id=40062590"
     ],
@@ -277,6 +267,16 @@
     [
       "Everything We Can't Describe in Music",
       "https://hazlitt.net/feature/everything-we-cant-describe-music"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 17:57:19",
+      "https://news.ycombinator.com/item?id=40055116"
+    ],
+    [
+      "An Obscure Actions Workflow Vulnerability in Google's Flank",
+      "https://adnanthekhan.com/2024/04/15/an-obscure-actions-workflow-vulnerability-in-googles-flank/"
     ]
   ],
   [
