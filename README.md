@@ -2,9 +2,9 @@
 
 * [2024-04-17, 00:21:32](https://news.ycombinator.com/item?id=40059022) - [Site claims to have harvested 4B+ Discord chats, all yours for a price](https://www.theregister.com/2024/04/16/discord_network_sale/)
 * [2024-04-16, 23:44:32](https://news.ycombinator.com/item?id=40058753) - [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
-* [2024-04-16, 23:05:11](https://news.ycombinator.com/item?id=40058399) - [Tell HN: We should snapshot a mostly AI output free version of the web](https://news.ycombinator.com/item?id=40058399)
 * [2024-04-16, 22:51:43](https://news.ycombinator.com/item?id=40058291) - [Boeing's problems has cost United $200M in Q1 2024](https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html)
 * [2024-04-16, 22:33:14](https://news.ycombinator.com/item?id=40058115) - [3D-printed \"metamaterial\" is stronger than anything in nature](https://www.freethink.com/hard-tech/metamaterial)
+* [2024-04-16, 21:51:27](https://news.ycombinator.com/item?id=40057667) - [Tvix – A New Implementation of Nix](https://tvix.dev/)
 * [2024-04-16, 21:12:17](https://news.ycombinator.com/item?id=40057289) - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
