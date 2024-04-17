@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
+* [2024-04-17, 12:52:06](https://news.ycombinator.com/item?id=40063908) - [LXQt 2.0.0 Released](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
 * [2024-04-17, 12:46:41](https://news.ycombinator.com/item?id=40063867) - [Student debt is haunting Americans from graduation to retirement](https://www.cnn.com/2024/04/16/economy/student-debt-gallup-poll/index.html)
 * [2024-04-17, 12:38:40](https://news.ycombinator.com/item?id=40063795) - [Quantum mechanics is the OS for Physics](https://www.scottaaronson.com/democritus/lec9.html)
 * [2024-04-17, 12:38:34](https://news.ycombinator.com/item?id=40063794) - [The Making of Dune II](https://readonlymemory.com/the-making-of-dune-ii/)
@@ -24,11 +26,9 @@
 * [2024-04-17, 05:19:55](https://news.ycombinator.com/item?id=40060728) - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
-* [2024-04-16, 22:00:09](https://news.ycombinator.com/item?id=40057741) - [The Geiss screensaver and Winamp music visualization plug-in source code](https://github.com/geissomatik/geiss)
 * [2024-04-16, 10:11:32](https://news.ycombinator.com/item?id=40050259) - [Java 23: The New Features Are Officially Announced](https://coderoasis.com/java-23-new-features/)
 * [2024-04-16, 09:34:27](https://news.ycombinator.com/item?id=40050027) - [Raytracing on Meteor Lake's iGPU](https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/)
 * [2024-04-16, 06:17:49](https://news.ycombinator.com/item?id=40048880) - [Amazon Echo Hacking Wiki](https://github.com/echohacking/wiki/wiki)
-* [2024-04-16, 05:41:44](https://news.ycombinator.com/item?id=40048702) - [RubyJS-Vite](https://filipvrba.github.io/ruby-js/)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 
 ## [Archives](archives/index.md)
