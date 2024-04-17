@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 15:14:08](https://news.ycombinator.com/item?id=40065862) - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
 * [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 * [2024-04-17, 14:22:11](https://news.ycombinator.com/item?id=40065047) - [ASML profits plunge 40% amid dip in chipmaking tool orders](https://www.theregister.com/2024/04/17/asml_profits_slump_40_percent_q1_2024/)
 * [2024-04-17, 14:02:22](https://news.ycombinator.com/item?id=40064755) - [Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion](https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion)
