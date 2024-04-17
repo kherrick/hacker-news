@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-04-17, 05:20:54",
-      "https://news.ycombinator.com/item?id=40060739"
-    ],
-    [
-      "The success of EVs is massively underreported",
-      "https://www.evuniverse.io/p/evsales2023"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 05:19:55",
       "https://news.ycombinator.com/item?id=40060728"
     ],
@@ -57,6 +47,16 @@
     [
       "Ten years of improvements in PostgreSQL's optimizer",
       "https://rmarcus.info/blog/2024/04/12/pg-over-time.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 02:46:06",
+      "https://news.ycombinator.com/item?id=40059892"
+    ],
+    [
+      "OpenJS: \"XZ Utils Cyberattack Likely Not an Isolated Incident\"",
+      "https://socket.dev/blog/openjs-xz-utils-cyberattack-likely-not-an-isolated-incident"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-04-16, 20:40:37",
+      "https://news.ycombinator.com/item?id=40056916"
+    ],
+    [
+      "What makes concurrency so hard?",
+      "https://buttondown.email/hillelwayne/archive/what-makes-concurrency-so-hard/"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 20:16:47",
       "https://news.ycombinator.com/item?id=40056640"
     ],
@@ -181,32 +191,22 @@
   ],
   [
     [
+      "2024-04-16, 18:36:27",
+      "https://news.ycombinator.com/item?id=40055598"
+    ],
+    [
+      "Sweden has long opposed nuclear weapons, but once tried to build them",
+      "https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 18:06:20",
       "https://news.ycombinator.com/item?id=40055239"
     ],
     [
       "David Lynch presents 'A Thinking Room'",
       "https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 17:40:47",
-      "https://news.ycombinator.com/item?id=40054901"
-    ],
-    [
-      "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
-      "https://arxiv.org/abs/2404.08801"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 17:32:25",
-      "https://news.ycombinator.com/item?id=40054811"
-    ],
-    [
-      "NSA publishes guidance for strengthening AI system security",
-      "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/"
     ]
   ],
   [
