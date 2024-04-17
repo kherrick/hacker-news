@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 09:28:05](https://news.ycombinator.com/item?id=40062271) - [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
+* [2024-04-17, 09:26:47](https://news.ycombinator.com/item?id=40062263) - [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
+* [2024-04-17, 08:51:22](https://news.ycombinator.com/item?id=40062060) - [Why Alcohol Is the Deadliest Drug](https://www.addictioncenter.com/community/why-alcohol-is-the-deadliest-drug/)
 * [2024-04-17, 08:15:36](https://news.ycombinator.com/item?id=40061831) - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
 * [2024-04-17, 07:02:12](https://news.ycombinator.com/item?id=40061382) - [Google will pump more than $100B into AI says DeepMind boss](https://www.theregister.com/2024/04/17/google_deepmind_funding/)
+* [2024-04-17, 06:51:13](https://news.ycombinator.com/item?id=40061298) - [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
 * [2024-04-17, 06:14:35](https://news.ycombinator.com/item?id=40061068) - [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
 * [2024-04-17, 05:45:43](https://news.ycombinator.com/item?id=40060901) - [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
 * [2024-04-17, 05:20:54](https://news.ycombinator.com/item?id=40060739) - [The success of EVs is massively underreported](https://www.evuniverse.io/p/evsales2023)
