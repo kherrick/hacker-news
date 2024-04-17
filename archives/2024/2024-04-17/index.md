@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 20:07:29](https://news.ycombinator.com/item?id=40069514) - [High-speed trader Jane Street raked in $4.4B at start of 2024](https://www.ft.com/content/7bdd0bc1-5284-4d52-93aa-ddfb609b0bd6)
 * [2024-04-17, 19:10:14](https://news.ycombinator.com/item?id=40068891) - [Why Boeing chief's $33M pay is hard to justify](https://www.ft.com/content/c3683fda-f4c6-44d2-bb1b-0eeab5af0f76)
 * [2024-04-17, 19:02:13](https://news.ycombinator.com/item?id=40068802) - [How Google Is Crushing Tuta](https://tuta.com/blog/google-search-problem)
 * [2024-04-17, 18:34:23](https://news.ycombinator.com/item?id=40068507) - [Booming AI demand threatens global electricity supply](https://www.ft.com/content/b7570359-f809-49ce-8cd5-9166d36a057b)
@@ -20,6 +21,7 @@
 * [2024-04-17, 17:00:46](https://news.ycombinator.com/item?id=40067372) - [Y Combinator is hiring full stack engineers – learn tons and tons about startups](https://news.ycombinator.com/item?id=40067372)
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
+* [2024-04-17, 16:43:36](https://news.ycombinator.com/item?id=40067158) - [Joseph Priestley created revolutionary \"maps\" of time](https://www.neh.gov/article/joseph-priestley-created-revolutionary-maps-time)
 * [2024-04-17, 16:37:16](https://news.ycombinator.com/item?id=40067068) - [Cloudflare CEO Matthew Prince buys local paper, feuds over mansion build](https://archive.ph/2024.04.17-121225/https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
 * [2024-04-17, 16:30:31](https://news.ycombinator.com/item?id=40066975) - [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
 * [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
