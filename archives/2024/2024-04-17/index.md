@@ -19,6 +19,7 @@
 * [2024-04-17, 12:35:51](https://news.ycombinator.com/item?id=40063766) - [Boston Dynamics Retires Its Legendary Humanoid Robot](https://spectrum.ieee.org/boston-dynamics-atlas-retires)
 * [2024-04-17, 12:32:56](https://news.ycombinator.com/item?id=40063736) - [\"[Brendan] Eich didn't lose the [Mozilla] CEO's job for his Prop-8 donation.\"](https://mastodon.social/@mhoye/112281966342068713)
 * [2024-04-17, 12:21:06](https://news.ycombinator.com/item?id=40063607) - [The VC acid test as a founder (2017)](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)
+* [2024-04-17, 12:19:44](https://news.ycombinator.com/item?id=40063592) - [Google Workers Protest Cloud Contract with Israel's Government](https://tech.slashdot.org/story/24/04/17/0014253/google-workers-protest-cloud-contract-with-israels-government)
 * [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 12:00:25](https://news.ycombinator.com/item?id=40063366) - [Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
 * [2024-04-17, 11:56:59](https://news.ycombinator.com/item?id=40063331) - [I can't use my number pad for 2FA codes](https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/)
