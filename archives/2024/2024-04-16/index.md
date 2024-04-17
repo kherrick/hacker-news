@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 23:44:32](https://news.ycombinator.com/item?id=40058753) - [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
 * [2024-04-16, 23:41:52](https://news.ycombinator.com/item?id=40058728) - ['Googlers Against Genocide': Tech Workers Protest Contracts with Israel](https://gizmodo.com/google-workers-hold-sit-in-protest-contract-with-israel-18514133153bb2af7e6f4fba3ad253d7f%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.aljazeera.com%2Fnews%2Fliveblog%2F2024%2F4%2F16%2Fisraels-war-on-gaza-live-israel-vows-response-to-iran)
 * [2024-04-16, 23:05:11](https://news.ycombinator.com/item?id=40058399) - [Tell HN: We should snapshot a mostly AI output free version of the web](https://news.ycombinator.com/item?id=40058399)
+* [2024-04-16, 22:51:43](https://news.ycombinator.com/item?id=40058291) - [Boeing's problems has cost United $200M in Q1 2024](https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html)
 * [2024-04-16, 22:33:14](https://news.ycombinator.com/item?id=40058115) - [3D-printed \"metamaterial\" is stronger than anything in nature](https://www.freethink.com/hard-tech/metamaterial)
 * [2024-04-16, 21:51:27](https://news.ycombinator.com/item?id=40057667) - [Tvix – A New Implementation of Nix](https://tvix.dev/)
 * [2024-04-16, 21:12:17](https://news.ycombinator.com/item?id=40057289) - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
@@ -40,6 +42,7 @@
 * [2024-04-16, 17:01:15](https://news.ycombinator.com/item?id=40054437) - [AT&T Fiber Internet Privacy controls are horribly broken](https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking)
 * [2024-04-16, 17:00:18](https://news.ycombinator.com/item?id=40054425) - [Hiring Full Stack Engineers at Apriora (YC W24)](https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer)
 * [2024-04-16, 16:51:34](https://news.ycombinator.com/item?id=40054326) - [Redis Is Forked](https://vickiboykis.com/2024/04/16/redis-is-forked/)
+* [2024-04-16, 16:47:28](https://news.ycombinator.com/item?id=40054263) - [Learn OAuth by building a client with Node.js](https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F)
 * [2024-04-16, 16:42:08](https://news.ycombinator.com/item?id=40054190) - [How to Stop Losing 17,500 Kidneys](https://www.statecraft.pub/p/how-to-stop-losing-17500-kidneys)
 * [2024-04-16, 16:36:26](https://news.ycombinator.com/item?id=40054122) - [NASA tries to jog Voyager 1's memory from 15B miles away](https://www.theregister.com/2024/04/15/voyager_engineers_prepare_fix/)
 * [2024-04-16, 16:28:16](https://news.ycombinator.com/item?id=40054019) - [Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity](https://twitter.com/tonyzzhao/status/1780263497584230432)
