@@ -7,6 +7,7 @@
 * [2024-04-17, 22:42:03](https://news.ycombinator.com/item?id=40070853) - [House passes bill requiring warrant to purchase data from third parties](https://thehill.com/homenews/house/4601266-house-passes-bill-requiring-warrant-to-purchase-data-from-third-parties/)
 * [2024-04-17, 22:08:23](https://news.ycombinator.com/item?id=40070570) - [Fr. Gregor Johann Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel)
 * [2024-04-17, 21:55:41](https://news.ycombinator.com/item?id=40070465) - [Feeling duped by Amazon's \"magical AI\" bullshit](https://a.wholelottanothing.org/feeling-duped-by-amazon/)
+* [2024-04-17, 21:03:16](https://news.ycombinator.com/item?id=40070034) - [Show HN: A no-watermark video downloader for Any social media](https://www.fastdownload.io/)
 * [2024-04-17, 21:00:47](https://news.ycombinator.com/item?id=40070015) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2024-04-17, 20:57:44](https://news.ycombinator.com/item?id=40069987) - [Flying Aircraft Carriers](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
 * [2024-04-17, 20:17:11](https://news.ycombinator.com/item?id=40069599) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
