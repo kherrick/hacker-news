@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-17, 04:48:16](https://news.ycombinator.com/item?id=40060532) - [Google workers arrested after protesting company's work with Israel](https://www.washingtonpost.com/technology/2024/04/16/google-sit-in-employee-protest-nimbus-israel/)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:35:01](https://news.ycombinator.com/item?id=40059835) - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
 * [2024-04-17, 02:34:09](https://news.ycombinator.com/item?id=40059829) - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 * [2024-04-17, 02:00:23](https://news.ycombinator.com/item?id=40059630) - [I nearly died drowning](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
+* [2024-04-17, 01:12:37](https://news.ycombinator.com/item?id=40059332) - [Commodore 64 claimed to outperform IBM's quantum system](https://www.tomshardware.com/tech-industry/quantum-computing/commodore-64-outperforms-ibms-quantum-systems-1-mhz-computer-said-to-be-faster-more-efficient-and-decently-accurate)
 * [2024-04-16, 23:44:32](https://news.ycombinator.com/item?id=40058753) - [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
 * [2024-04-16, 22:47:59](https://news.ycombinator.com/item?id=40058253) - [Cute trick for fetch-and-add-based queues](https://outerproduct.net/trivial/2024-04-16_faaqtr.html)
 * [2024-04-16, 21:15:14](https://news.ycombinator.com/item?id=40057322) - [Overture Maps Foundation Releases Beta of Its First Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-beta-of-its-first-open-map-dataset/)
