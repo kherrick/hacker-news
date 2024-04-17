@@ -18,6 +18,7 @@
 * [2024-04-17, 14:00:37](https://news.ycombinator.com/item?id=40064736) - [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
 * [2024-04-17, 13:22:51](https://news.ycombinator.com/item?id=40064225) - [New Boston Dynamics humanoid robot [video]](https://www.youtube.com/watch?v=29ECwExc-_M)
 * [2024-04-17, 13:14:00](https://news.ycombinator.com/item?id=40064128) - [Dubai's Floods Weren't Caused by Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)
+* [2024-04-17, 13:12:15](https://news.ycombinator.com/item?id=40064106) - [Flâneur](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 * [2024-04-17, 13:05:14](https://news.ycombinator.com/item?id=40064027) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 * [2024-04-17, 13:03:54](https://news.ycombinator.com/item?id=40064022) - [Show HN: Learn 3 words today with Gemini 1.5 Pro](https://wordlab.cloud/)

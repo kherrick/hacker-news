@@ -89,6 +89,7 @@
 * [2024-04-16, 11:28:12](https://news.ycombinator.com/item?id=40050717) - [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
 * [2024-04-16, 11:01:09](https://news.ycombinator.com/item?id=40050548) - [Copenhagen's historic stock exchange in flames](https://www.bbc.com/news/world-europe-68824189)
 * [2024-04-16, 10:55:01](https://news.ycombinator.com/item?id=40050514) - [AI cloud startup TensorWave bets AMD can beat Nvidia](https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/)
+* [2024-04-16, 10:29:21](https://news.ycombinator.com/item?id=40050353) - [The Stem-Ification of Society](https://www.babylon-newsroom.com/articles/the-stem-ification-of-society-a-response-to-universities-have-a-computer-science-problem)
 * [2024-04-16, 10:18:31](https://news.ycombinator.com/item?id=40050302) - [Tesla Cybertruck's Stuck Accelerator Pedal Creates 6,800-Pound Land Missile](https://insideevs.com/news/716031/tesla-cybertruck-stuck-accelerator-pedal/)
 * [2024-04-16, 10:11:32](https://news.ycombinator.com/item?id=40050259) - [Java 23: The New Features Are Officially Announced](https://coderoasis.com/java-23-new-features/)
 * [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [Sony FW900 Widescreen CRT Trinitron](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
