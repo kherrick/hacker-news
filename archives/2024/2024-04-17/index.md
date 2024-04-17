@@ -12,6 +12,8 @@
 * [2024-04-17, 07:02:12](https://news.ycombinator.com/item?id=40061382) - [Google will pump more than $100B into AI says DeepMind boss](https://www.theregister.com/2024/04/17/google_deepmind_funding/)
 * [2024-04-17, 06:51:13](https://news.ycombinator.com/item?id=40061298) - [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
 * [2024-04-17, 06:14:35](https://news.ycombinator.com/item?id=40061068) - [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
+* [2024-04-17, 05:50:39](https://news.ycombinator.com/item?id=40060929) - [Ur Quan Masters sequel Free Stars: Children of Infinity, by original devs](https://pistolshrimpgames.com/2024/04/kickstarter-launch-incoming/)
+* [2024-04-17, 05:48:46](https://news.ycombinator.com/item?id=40060915) - [How the Food Industry Pays Influencers to Shill Blueberries, Butter, and More](https://www.bonappetit.com/story/food-industry-influencers)
 * [2024-04-17, 05:45:43](https://news.ycombinator.com/item?id=40060901) - [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
 * [2024-04-17, 05:20:54](https://news.ycombinator.com/item?id=40060739) - [The success of EVs is massively underreported](https://www.evuniverse.io/p/evsales2023)
 * [2024-04-17, 05:19:55](https://news.ycombinator.com/item?id=40060728) - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
