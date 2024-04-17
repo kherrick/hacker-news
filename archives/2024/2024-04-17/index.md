@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
+* [2024-04-17, 14:22:11](https://news.ycombinator.com/item?id=40065047) - [ASML profits plunge 40% amid dip in chipmaking tool orders](https://www.theregister.com/2024/04/17/asml_profits_slump_40_percent_q1_2024/)
 * [2024-04-17, 14:02:22](https://news.ycombinator.com/item?id=40064755) - [Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion](https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion)
+* [2024-04-17, 14:00:37](https://news.ycombinator.com/item?id=40064736) - [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
 * [2024-04-17, 13:22:51](https://news.ycombinator.com/item?id=40064225) - [New Boston Dynamics humanoid robot [video]](https://www.youtube.com/watch?v=29ECwExc-_M)
 * [2024-04-17, 13:14:00](https://news.ycombinator.com/item?id=40064128) - [Dubai's Floods Weren't Caused by Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
