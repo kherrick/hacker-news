@@ -2,6 +2,7 @@
 
 * [2024-04-17, 15:14:08](https://news.ycombinator.com/item?id=40065862) - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
 * [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
+* [2024-04-17, 14:30:08](https://news.ycombinator.com/item?id=40065166) - [GitHub – antirez/zx2040: RP2040 ZX Spectrum emulator](https://github.com/antirez/zx2040)
 * [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 * [2024-04-17, 14:01:26](https://news.ycombinator.com/item?id=40064744) - [Formlabs Form 4 3D Printer Beats Injection Molding Machine in Speed and Quality [video]](https://www.youtube.com/watch?v=zdv6MlFlOrA)
 * [2024-04-17, 14:00:37](https://news.ycombinator.com/item?id=40064736) - [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
@@ -19,7 +20,6 @@
 * [2024-04-17, 10:11:50](https://news.ycombinator.com/item?id=40062552) - [Humane AI – Pico Laser Projection – AI Twist on an Old Scam (2023)](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
 * [2024-04-17, 07:35:01](https://news.ycombinator.com/item?id=40061597) - [Why the Higgs Field Is Nothing Like Molasses, Soup, or a Crowd](https://profmattstrassler.com/2024/04/16/why-the-higgs-field-is-nothing-like-molasses-soup-or-a-crowd/)
 * [2024-04-17, 06:51:13](https://news.ycombinator.com/item?id=40061298) - [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
-* [2024-04-17, 05:48:46](https://news.ycombinator.com/item?id=40060915) - [How the Food Industry Pays Influencers to Shill Blueberries, Butter, and More](https://www.bonappetit.com/story/food-industry-influencers)
 * [2024-04-17, 03:43:18](https://news.ycombinator.com/item?id=40060198) - [Perlis's Programming Epigrams](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)

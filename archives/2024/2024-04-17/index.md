@@ -9,6 +9,7 @@
 * [2024-04-17, 15:18:30](https://news.ycombinator.com/item?id=40065928) - [Unix and Multics History](https://multicians.org/unix.html)
 * [2024-04-17, 15:14:08](https://news.ycombinator.com/item?id=40065862) - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
 * [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
+* [2024-04-17, 14:30:08](https://news.ycombinator.com/item?id=40065166) - [GitHub – antirez/zx2040: RP2040 ZX Spectrum emulator](https://github.com/antirez/zx2040)
 * [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 * [2024-04-17, 14:26:08](https://news.ycombinator.com/item?id=40065107) - [Power-hungry AI is putting the hurt on global electricity supply](https://arstechnica.com/ai/2024/04/power-hungry-ai-is-putting-the-hurt-on-global-electricity-supply/)
 * [2024-04-17, 14:22:11](https://news.ycombinator.com/item?id=40065047) - [ASML profits plunge 40% amid dip in chipmaking tool orders](https://www.theregister.com/2024/04/17/asml_profits_slump_40_percent_q1_2024/)
