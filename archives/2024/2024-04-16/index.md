@@ -41,6 +41,7 @@
 * [2024-04-16, 18:08:10](https://news.ycombinator.com/item?id=40055269) - [Refuting Bloomberg's analysis: ChatGPT isn't racist, but it is bad at recruiting](https://interviewing.io/blog/refuting-bloombergs-analysis-chatgpt-isnt-racist)
 * [2024-04-16, 18:06:20](https://news.ycombinator.com/item?id=40055239) - [David Lynch Presents 'A Thinking Room'](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
 * [2024-04-16, 17:57:31](https://news.ycombinator.com/item?id=40055120) - [We Need to Rewild the Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
+* [2024-04-16, 17:57:19](https://news.ycombinator.com/item?id=40055116) - [An Obscure Actions Workflow Vulnerability in Google's Flank](https://adnanthekhan.com/2024/04/15/an-obscure-actions-workflow-vulnerability-in-googles-flank/)
 * [2024-04-16, 17:40:47](https://news.ycombinator.com/item?id=40054901) - [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
 * [2024-04-16, 17:32:25](https://news.ycombinator.com/item?id=40054811) - [NSA Publishes Guidance for Strengthening AI System Security](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/)
 * [2024-04-16, 17:13:59](https://news.ycombinator.com/item?id=40054580) - [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)

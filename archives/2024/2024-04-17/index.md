@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
+* [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
 * [2024-04-17, 17:20:32](https://news.ycombinator.com/item?id=40067605) - [It's not just you: Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
 * [2024-04-17, 17:18:07](https://news.ycombinator.com/item?id=40067575) - [Nestlé gets children hooked on sugar in lower-income countries](https://stories.publiceye.ch/nestle-babies/)
 * [2024-04-17, 17:16:13](https://news.ycombinator.com/item?id=40067556) - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
