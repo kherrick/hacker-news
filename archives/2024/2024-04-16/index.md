@@ -17,6 +17,7 @@
 * [2024-04-16, 20:56:16](https://news.ycombinator.com/item?id=40057084) - ['Pacifist' Japan is tooling up for war](https://www.irishtimes.com/world/asia-pacific/2024/04/16/tokyo-letter-pacifist-japan-is-tooling-up-for-war/)
 * [2024-04-16, 20:54:38](https://news.ycombinator.com/item?id=40057063) - [ISPs can charge extra for fast gaming under FCC's Internet rules, critics say](https://arstechnica.com/tech-policy/2024/04/isps-can-charge-extra-for-fast-gaming-under-fccs-internet-rules-critics-say/)
 * [2024-04-16, 20:42:53](https://news.ycombinator.com/item?id=40056939) - [US Senate to Vote on a Wiretap Bill That Critics Call 'Stasi-Like'](https://www.wired.com/story/senate-section-702-ecsr-provision/)
+* [2024-04-16, 20:40:37](https://news.ycombinator.com/item?id=40056916) - [What makes concurrency so hard?](https://buttondown.email/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-04-16, 20:28:28](https://news.ycombinator.com/item?id=40056758) - [Apple's iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-16, 20:15:05](https://news.ycombinator.com/item?id=40056624) - [WizardLM was unpublished due to missing toxicity testing](https://twitter.com/WizardLM_AI/status/1780101465950105775)
