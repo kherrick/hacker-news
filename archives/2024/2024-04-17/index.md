@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 17:20:32](https://news.ycombinator.com/item?id=40067605) - [It's not just you: Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
+* [2024-04-17, 17:18:07](https://news.ycombinator.com/item?id=40067575) - [Nestlé gets children hooked on sugar in lower-income countries](https://stories.publiceye.ch/nestle-babies/)
 * [2024-04-17, 17:16:13](https://news.ycombinator.com/item?id=40067556) - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
 * [2024-04-17, 17:09:17](https://news.ycombinator.com/item?id=40067489) - [Effort – a possibly new algorithm for LLM Inference](https://kolinko.github.io/effort/)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)

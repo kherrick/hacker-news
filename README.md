@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 17:20:32](https://news.ycombinator.com/item?id=40067605) - [It's not just you: Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
+* [2024-04-17, 17:18:07](https://news.ycombinator.com/item?id=40067575) - [Nestlé gets children hooked on sugar in lower-income countries](https://stories.publiceye.ch/nestle-babies/)
 * [2024-04-17, 17:16:13](https://news.ycombinator.com/item?id=40067556) - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
 * [2024-04-17, 17:09:17](https://news.ycombinator.com/item?id=40067489) - [Effort – a possibly new algorithm for LLM Inference](https://kolinko.github.io/effort/)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
@@ -18,7 +20,6 @@
 * [2024-04-17, 13:05:14](https://news.ycombinator.com/item?id=40064027) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 * [2024-04-17, 12:52:06](https://news.ycombinator.com/item?id=40063908) - [LXQt 2.0.0](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
 * [2024-04-17, 12:39:49](https://news.ycombinator.com/item?id=40063803) - [Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool](https://github.com/WINSDK/bite)
-* [2024-04-17, 12:38:40](https://news.ycombinator.com/item?id=40063795) - [Quantum mechanics is the operating system that other physical theories run on](https://www.scottaaronson.com/democritus/lec9.html)
 * [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 11:36:54](https://news.ycombinator.com/item?id=40063137) - [Show HN: Desbordante 2.0](https://github.com/Desbordante/desbordante-core)
 * [2024-04-17, 11:17:29](https://news.ycombinator.com/item?id=40062987) - [Security Vulnerability in Browser Interface Allows Computer Access via GPU](https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte)
@@ -27,7 +28,6 @@
 * [2024-04-17, 06:51:13](https://news.ycombinator.com/item?id=40061298) - [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-16, 19:02:13](https://news.ycombinator.com/item?id=40055908) - [Everything We Can't Describe in Music](https://hazlitt.net/feature/everything-we-cant-describe-music)
-* [2024-04-16, 09:34:27](https://news.ycombinator.com/item?id=40050027) - [Raytracing on Meteor Lake's iGPU](https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/)
 * [2024-04-16, 05:41:44](https://news.ycombinator.com/item?id=40048702) - [RubyJS-Vite](https://filipvrba.github.io/ruby-js/)
 * [2024-04-15, 21:29:28](https://news.ycombinator.com/item?id=40045832) - [Bronze Age Stone Anchors as Material Metaphors](https://link.springer.com/article/10.1007/s10816-024-09642-z)
 
