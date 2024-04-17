@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 12:38:40](https://news.ycombinator.com/item?id=40063795) - [Quantum mechanics is the OS for Physics](https://www.scottaaronson.com/democritus/lec9.html)
+* [2024-04-17, 12:35:51](https://news.ycombinator.com/item?id=40063766) - [Boston Dynamics Retires Its Legendary Humanoid Robot](https://spectrum.ieee.org/boston-dynamics-atlas-retires)
+* [2024-04-17, 12:32:56](https://news.ycombinator.com/item?id=40063736) - [\"[Brendan] Eich didn't lose the [Mozilla] CEO's job for his Prop-8 donation.\"](https://mastodon.social/@mhoye/112281966342068713)
 * [2024-04-17, 12:21:06](https://news.ycombinator.com/item?id=40063607) - [The VC acid test as a founder (2017)](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)
 * [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 12:00:25](https://news.ycombinator.com/item?id=40063366) - [Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
@@ -21,14 +24,11 @@
 * [2024-04-17, 03:43:18](https://news.ycombinator.com/item?id=40060198) - [Perlis's Programming Epigrams](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
-* [2024-04-17, 02:34:09](https://news.ycombinator.com/item?id=40059829) - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 * [2024-04-16, 22:00:09](https://news.ycombinator.com/item?id=40057741) - [The Geiss screensaver and Winamp music visualization plug-in source code](https://github.com/geissomatik/geiss)
-* [2024-04-16, 16:07:59](https://news.ycombinator.com/item?id=40053774) - [This is a teenager](https://pudding.cool/2024/03/teenagers/)
 * [2024-04-16, 10:11:32](https://news.ycombinator.com/item?id=40050259) - [Java 23: The New Features Are Officially Announced](https://coderoasis.com/java-23-new-features/)
 * [2024-04-16, 09:34:27](https://news.ycombinator.com/item?id=40050027) - [Raytracing on Meteor Lake's iGPU](https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/)
 * [2024-04-16, 06:17:49](https://news.ycombinator.com/item?id=40048880) - [Amazon Echo Hacking Wiki](https://github.com/echohacking/wiki/wiki)
 * [2024-04-16, 05:41:44](https://news.ycombinator.com/item?id=40048702) - [RubyJS-Vite](https://filipvrba.github.io/ruby-js/)
-* [2024-04-16, 03:49:06](https://news.ycombinator.com/item?id=40048177) - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 
 ## [Archives](archives/index.md)
