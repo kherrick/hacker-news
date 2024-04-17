@@ -15,6 +15,7 @@
 * [2024-04-17, 17:16:13](https://news.ycombinator.com/item?id=40067556) - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
 * [2024-04-17, 17:09:17](https://news.ycombinator.com/item?id=40067489) - [Effort – a possibly new algorithm for LLM Inference](https://kolinko.github.io/effort/)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
+* [2024-04-17, 17:09:04](https://news.ycombinator.com/item?id=40067484) - [Show HN: A self-published art book about Google's first 25 years](https://www.damaia.com/google)
 * [2024-04-17, 17:00:46](https://news.ycombinator.com/item?id=40067372) - [Y Combinator is hiring full stack engineers – learn tons and tons about startups](https://news.ycombinator.com/item?id=40067372)
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
