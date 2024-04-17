@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-17, 19:02:13](https://news.ycombinator.com/item?id=40068802) - [How Google Is Crushing Tuta](https://tuta.com/blog/google-search-problem)
-* [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis Finds Bugs](https://antithesis.com/blog/sdtalk/)
+* [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
 * [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
 * [2024-04-17, 17:20:32](https://news.ycombinator.com/item?id=40067605) - [Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
@@ -12,8 +11,8 @@
 * [2024-04-17, 17:00:46](https://news.ycombinator.com/item?id=40067372) - [Y Combinator is hiring full stack engineers – learn tons about startups](https://news.ycombinator.com/item?id=40067372)
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
-* [2024-04-17, 16:37:16](https://news.ycombinator.com/item?id=40067068) - [Cloudflare CEO Matthew Prince buys local paper, feuds over mansion build](https://archive.ph/2024.04.17-121225/https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
 * [2024-04-17, 16:30:31](https://news.ycombinator.com/item?id=40066975) - [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
+* [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
 * [2024-04-17, 15:14:08](https://news.ycombinator.com/item?id=40065862) - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
 * [2024-04-17, 15:11:26](https://news.ycombinator.com/item?id=40065821) - [libxev: A cross-platform, high-performance event loop](https://github.com/mitchellh/libxev)
 * [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
@@ -29,6 +28,7 @@
 * [2024-04-16, 19:02:13](https://news.ycombinator.com/item?id=40055908) - [Everything We Can't Describe in Music](https://hazlitt.net/feature/everything-we-cant-describe-music)
 * [2024-04-16, 17:57:19](https://news.ycombinator.com/item?id=40055116) - [An Obscure Actions Workflow Vulnerability in Google's Flank](https://adnanthekhan.com/2024/04/15/an-obscure-actions-workflow-vulnerability-in-googles-flank/)
 * [2024-04-16, 12:14:14](https://news.ycombinator.com/item?id=40051013) - [Oolite: An open source open-world space opera](https://oolite.space/)
+* [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [LCD displays still don't match the responsiveness of clunky CRT screens](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
 * [2024-04-16, 05:41:44](https://news.ycombinator.com/item?id=40048702) - [RubyJS-Vite](https://filipvrba.github.io/ruby-js/)
 
 ## [Archives](archives/index.md)
