@@ -10,7 +10,7 @@
 * [2024-04-17, 02:35:01](https://news.ycombinator.com/item?id=40059835) - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
 * [2024-04-17, 02:34:09](https://news.ycombinator.com/item?id=40059829) - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 * [2024-04-17, 02:00:23](https://news.ycombinator.com/item?id=40059630) - [I nearly died drowning](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
-* [2024-04-16, 22:47:59](https://news.ycombinator.com/item?id=40058253) - [Cute trick for fetch-and-add-based queues](https://outerproduct.net/trivial/2024-04-16_faaqtr.html)
+* [2024-04-16, 22:00:09](https://news.ycombinator.com/item?id=40057741) - [The Geiss screensaver and Winamp music visualization plug-in source code](https://github.com/geissomatik/geiss)
 * [2024-04-16, 21:15:14](https://news.ycombinator.com/item?id=40057322) - [Overture Maps Foundation Releases Beta of Its First Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-beta-of-its-first-open-map-dataset/)
 * [2024-04-16, 21:12:17](https://news.ycombinator.com/item?id=40057289) - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
