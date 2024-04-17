@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 22:42:03](https://news.ycombinator.com/item?id=40070853) - [House passes bill requiring warrant to purchase data from third parties](https://thehill.com/homenews/house/4601266-house-passes-bill-requiring-warrant-to-purchase-data-from-third-parties/)
 * [2024-04-17, 22:08:23](https://news.ycombinator.com/item?id=40070570) - [Fr. Gregor Johann Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel)
 * [2024-04-17, 21:55:41](https://news.ycombinator.com/item?id=40070465) - [Feeling duped by Amazon's \"magical AI\" bullshit](https://a.wholelottanothing.org/feeling-duped-by-amazon/)
 * [2024-04-17, 21:00:47](https://news.ycombinator.com/item?id=40070015) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)

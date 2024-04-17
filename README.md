@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-17, 21:55:41](https://news.ycombinator.com/item?id=40070465) - [Feeling duped by Amazon's \"magical AI\" bullshit](https://a.wholelottanothing.org/feeling-duped-by-amazon/)
+* [2024-04-17, 22:42:03](https://news.ycombinator.com/item?id=40070853) - [House passes bill requiring warrant to purchase data from third parties](https://thehill.com/homenews/house/4601266-house-passes-bill-requiring-warrant-to-purchase-data-from-third-parties/)
 * [2024-04-17, 21:00:47](https://news.ycombinator.com/item?id=40070015) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2024-04-17, 20:57:44](https://news.ycombinator.com/item?id=40069987) - [Flying Aircraft Carriers (2019)](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
 * [2024-04-17, 20:17:11](https://news.ycombinator.com/item?id=40069599) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
@@ -9,6 +9,7 @@
 * [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of self-trained language models](https://arxiv.org/abs/2404.02305)
 * [2024-04-17, 17:48:31](https://news.ycombinator.com/item?id=40067939) - [CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
+* [2024-04-17, 17:20:32](https://news.ycombinator.com/item?id=40067605) - [Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
 * [2024-04-17, 17:16:13](https://news.ycombinator.com/item?id=40067556) - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 * [2024-04-17, 17:09:04](https://news.ycombinator.com/item?id=40067484) - [Show HN: A self-published art book about Google's first 25 years](https://www.damaia.com/google)
@@ -29,7 +30,6 @@
 * [2024-04-16, 12:14:14](https://news.ycombinator.com/item?id=40051013) - [Oolite: An open source open-world space opera](https://oolite.space/)
 * [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [LCD displays still don't match the responsiveness of clunky CRT screens (2019)](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
 * [2024-04-16, 05:41:44](https://news.ycombinator.com/item?id=40048702) - [RubyJS-Vite](https://filipvrba.github.io/ruby-js/)
-* [2024-04-15, 21:29:28](https://news.ycombinator.com/item?id=40045832) - [Bronze Age Stone Anchors as Material Metaphors](https://link.springer.com/article/10.1007/s10816-024-09642-z)
 
 ## [Archives](archives/index.md)
 
