@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 11:02:32](https://news.ycombinator.com/item?id=40062892) - [The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
+* [2024-04-17, 10:42:58](https://news.ycombinator.com/item?id=40062774) - [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
 * [2024-04-17, 09:28:05](https://news.ycombinator.com/item?id=40062271) - [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
 * [2024-04-17, 09:26:47](https://news.ycombinator.com/item?id=40062263) - [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
 * [2024-04-17, 09:15:00](https://news.ycombinator.com/item?id=40062210) - [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 * [2024-04-17, 08:51:22](https://news.ycombinator.com/item?id=40062060) - [Why Alcohol Is the Deadliest Drug](https://www.addictioncenter.com/community/why-alcohol-is-the-deadliest-drug/)
 * [2024-04-17, 08:15:36](https://news.ycombinator.com/item?id=40061831) - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
+* [2024-04-17, 07:55:50](https://news.ycombinator.com/item?id=40061707) - [Generation Z is unprecedentedly rich](https://www.economist.com/finance-and-economics/2024/04/16/generation-z-is-unprecedentedly-rich)
 * [2024-04-17, 07:02:12](https://news.ycombinator.com/item?id=40061382) - [Google will pump more than $100B into AI says DeepMind boss](https://www.theregister.com/2024/04/17/google_deepmind_funding/)
 * [2024-04-17, 06:51:13](https://news.ycombinator.com/item?id=40061298) - [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
 * [2024-04-17, 06:14:35](https://news.ycombinator.com/item?id=40061068) - [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
