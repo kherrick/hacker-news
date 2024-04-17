@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 13:22:51](https://news.ycombinator.com/item?id=40064225) - [New Boston Dynamics humanoid robot [video]](https://www.youtube.com/watch?v=29ECwExc-_M)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 * [2024-04-17, 12:52:06](https://news.ycombinator.com/item?id=40063908) - [LXQt 2.0.0 Released](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
 * [2024-04-17, 12:46:41](https://news.ycombinator.com/item?id=40063867) - [Student debt is haunting Americans from graduation to retirement](https://www.cnn.com/2024/04/16/economy/student-debt-gallup-poll/index.html)

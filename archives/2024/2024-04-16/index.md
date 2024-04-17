@@ -90,6 +90,7 @@
 * [2024-04-16, 10:55:01](https://news.ycombinator.com/item?id=40050514) - [AI cloud startup TensorWave bets AMD can beat Nvidia](https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/)
 * [2024-04-16, 10:18:31](https://news.ycombinator.com/item?id=40050302) - [Tesla Cybertruck's Stuck Accelerator Pedal Creates 6,800-Pound Land Missile](https://insideevs.com/news/716031/tesla-cybertruck-stuck-accelerator-pedal/)
 * [2024-04-16, 10:11:32](https://news.ycombinator.com/item?id=40050259) - [Java 23: The New Features Are Officially Announced](https://coderoasis.com/java-23-new-features/)
+* [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [Sony FW900 Widescreen CRT Trinitron](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
 * [2024-04-16, 09:34:27](https://news.ycombinator.com/item?id=40050027) - [Raytracing on Meteor Lake's iGPU](https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/)
 * [2024-04-16, 09:31:46](https://news.ycombinator.com/item?id=40050009) - [iOS404](https://ios404.com/)
 * [2024-04-16, 08:39:04](https://news.ycombinator.com/item?id=40049670) - [IPv6 for the Remotely Interested](https://ssg.dev/ipv6-for-the-remotely-interested-af214dd06aa7?gi=79f1ddf22e27)
