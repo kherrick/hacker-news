@@ -21,7 +21,6 @@
 * [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
 * [2024-04-17, 15:11:26](https://news.ycombinator.com/item?id=40065821) - [libxev: A cross-platform, high-performance event loop](https://github.com/mitchellh/libxev)
 * [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
-* [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An electric new era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 * [2024-04-17, 13:05:14](https://news.ycombinator.com/item?id=40064027) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 * [2024-04-17, 12:39:49](https://news.ycombinator.com/item?id=40063803) - [Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool](https://github.com/WINSDK/bite)
@@ -30,6 +29,7 @@
 * [2024-04-16, 19:02:13](https://news.ycombinator.com/item?id=40055908) - [Everything we can't describe in music](https://hazlitt.net/feature/everything-we-cant-describe-music)
 * [2024-04-16, 12:14:14](https://news.ycombinator.com/item?id=40051013) - [Oolite: An open source open-world space opera](https://oolite.space/)
 * [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [LCD displays still don't match the responsiveness of clunky CRT screens (2019)](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
+* [2024-04-16, 08:20:36](https://news.ycombinator.com/item?id=40049564) - [Ask HN: Does Anyone Use a \"Closed Core\" Software Model?](https://news.ycombinator.com/item?id=40049564)
 
 ## [Archives](archives/index.md)
 

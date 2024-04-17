@@ -100,6 +100,7 @@
 * [2024-04-16, 09:31:46](https://news.ycombinator.com/item?id=40050009) - [iOS404](https://ios404.com/)
 * [2024-04-16, 08:39:04](https://news.ycombinator.com/item?id=40049670) - [IPv6 for the Remotely Interested](https://ssg.dev/ipv6-for-the-remotely-interested-af214dd06aa7?gi=79f1ddf22e27)
 * [2024-04-16, 08:30:46](https://news.ycombinator.com/item?id=40049623) - [Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
+* [2024-04-16, 08:20:36](https://news.ycombinator.com/item?id=40049564) - [Ask HN: Does Anyone Use a \"Closed Core\" Software Model?](https://news.ycombinator.com/item?id=40049564)
 * [2024-04-16, 07:57:49](https://news.ycombinator.com/item?id=40049457) - [Microsoft Invests $1.5B in G42](https://news.microsoft.com/2024/04/15/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/)
 * [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
 * [2024-04-16, 07:42:57](https://news.ycombinator.com/item?id=40049356) - [NASA Technology Helps Guard Against Lunar Dust](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/)
