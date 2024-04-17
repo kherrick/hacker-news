@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 14:02:22](https://news.ycombinator.com/item?id=40064755) - [Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion](https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion)
 * [2024-04-17, 13:22:51](https://news.ycombinator.com/item?id=40064225) - [New Boston Dynamics humanoid robot [video]](https://www.youtube.com/watch?v=29ECwExc-_M)
+* [2024-04-17, 13:14:00](https://news.ycombinator.com/item?id=40064128) - [Dubai's Floods Weren't Caused by Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 * [2024-04-17, 12:52:06](https://news.ycombinator.com/item?id=40063908) - [LXQt 2.0.0 Released](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
 * [2024-04-17, 12:38:40](https://news.ycombinator.com/item?id=40063795) - [Quantum mechanics is the OS for Physics](https://www.scottaaronson.com/democritus/lec9.html)
@@ -25,9 +27,7 @@
 * [2024-04-17, 05:48:46](https://news.ycombinator.com/item?id=40060915) - [How the Food Industry Pays Influencers to Shill Blueberries, Butter, and More](https://www.bonappetit.com/story/food-industry-influencers)
 * [2024-04-17, 05:19:55](https://news.ycombinator.com/item?id=40060728) - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
-* [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
 * [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [Sony FW900 Widescreen CRT Trinitron](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
-* [2024-04-16, 09:34:27](https://news.ycombinator.com/item?id=40050027) - [Raytracing on Meteor Lake's iGPU](https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/)
 * [2024-04-16, 06:17:49](https://news.ycombinator.com/item?id=40048880) - [Amazon Echo Hacking Wiki](https://github.com/echohacking/wiki/wiki)
 * [2024-04-16, 02:27:23](https://news.ycombinator.com/item?id=40047806) - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 
