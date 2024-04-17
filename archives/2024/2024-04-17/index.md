@@ -6,6 +6,7 @@
 
 * [2024-04-17, 15:50:00](https://news.ycombinator.com/item?id=40066376) - [McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy)
 * [2024-04-17, 15:46:02](https://news.ycombinator.com/item?id=40066308) - [US FAA issues ground stop advisory for Alaska Airlines](https://www.reuters.com/business/aerospace-defense/us-faa-issues-ground-stop-advisory-alaska-airlines-2024-04-17/)
+* [2024-04-17, 15:18:30](https://news.ycombinator.com/item?id=40065928) - [Unix and Multics History](https://multicians.org/unix.html)
 * [2024-04-17, 15:14:08](https://news.ycombinator.com/item?id=40065862) - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
 * [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
 * [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
@@ -21,6 +22,7 @@
 * [2024-04-17, 13:03:54](https://news.ycombinator.com/item?id=40064022) - [Show HN: Learn 3 words today with Gemini 1.5 Pro](https://wordlab.cloud/)
 * [2024-04-17, 12:52:06](https://news.ycombinator.com/item?id=40063908) - [LXQt 2.0.0 Released](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
 * [2024-04-17, 12:46:41](https://news.ycombinator.com/item?id=40063867) - [Student debt is haunting Americans from graduation to retirement](https://www.cnn.com/2024/04/16/economy/student-debt-gallup-poll/index.html)
+* [2024-04-17, 12:39:49](https://news.ycombinator.com/item?id=40063803) - [Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool](https://github.com/WINSDK/bite)
 * [2024-04-17, 12:38:40](https://news.ycombinator.com/item?id=40063795) - [Quantum mechanics is the OS for Physics](https://www.scottaaronson.com/democritus/lec9.html)
 * [2024-04-17, 12:38:34](https://news.ycombinator.com/item?id=40063794) - [The Making of Dune II](https://readonlymemory.com/the-making-of-dune-ii/)
 * [2024-04-17, 12:35:51](https://news.ycombinator.com/item?id=40063766) - [Boston Dynamics Retires Its Legendary Humanoid Robot](https://spectrum.ieee.org/boston-dynamics-atlas-retires)
@@ -31,6 +33,7 @@
 * [2024-04-17, 12:00:25](https://news.ycombinator.com/item?id=40063366) - [Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
 * [2024-04-17, 11:56:59](https://news.ycombinator.com/item?id=40063331) - [I can't use my number pad for 2FA codes](https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/)
 * [2024-04-17, 11:54:03](https://news.ycombinator.com/item?id=40063300) - [Cooler transformers could help electric grid](https://www.sciencedaily.com/releases/2024/04/240416125322.htm)
+* [2024-04-17, 11:36:54](https://news.ycombinator.com/item?id=40063137) - [Show HN: Desbordante 2.0](https://github.com/Desbordante/desbordante-core)
 * [2024-04-17, 11:23:18](https://news.ycombinator.com/item?id=40063025) - [ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
 * [2024-04-17, 11:21:39](https://news.ycombinator.com/item?id=40063014) - [Show HN: Open Source TailwindCSS UI Components](https://github.com/EasyFrontend-com/html-tailwindcss-components)
 * [2024-04-17, 11:17:29](https://news.ycombinator.com/item?id=40062987) - [Security Vulnerability in Browser Interface Allows Computer Access via GPU](https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte)
