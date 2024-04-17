@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 19:02:13](https://news.ycombinator.com/item?id=40068802) - [How Google Is Crushing Tuta](https://tuta.com/blog/google-search-problem)
 * [2024-04-17, 18:34:23](https://news.ycombinator.com/item?id=40068507) - [Booming AI demand threatens global electricity supply](https://www.ft.com/content/b7570359-f809-49ce-8cd5-9166d36a057b)
+* [2024-04-17, 18:21:55](https://news.ycombinator.com/item?id=40068348) - [Roku TVs may inject tailored ads into anything and everything when you pause](https://www.theregister.com/2024/04/17/roku_tv_ad_patent/)
 * [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis Finds Bugs](https://antithesis.com/blog/sdtalk/)
 * [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
