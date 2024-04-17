@@ -6,6 +6,7 @@
 
 * [2024-04-17, 09:28:05](https://news.ycombinator.com/item?id=40062271) - [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
 * [2024-04-17, 09:26:47](https://news.ycombinator.com/item?id=40062263) - [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
+* [2024-04-17, 09:15:00](https://news.ycombinator.com/item?id=40062210) - [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 * [2024-04-17, 08:51:22](https://news.ycombinator.com/item?id=40062060) - [Why Alcohol Is the Deadliest Drug](https://www.addictioncenter.com/community/why-alcohol-is-the-deadliest-drug/)
 * [2024-04-17, 08:15:36](https://news.ycombinator.com/item?id=40061831) - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
 * [2024-04-17, 07:02:12](https://news.ycombinator.com/item?id=40061382) - [Google will pump more than $100B into AI says DeepMind boss](https://www.theregister.com/2024/04/17/google_deepmind_funding/)
