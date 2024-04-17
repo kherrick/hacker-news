@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
-* [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
+* [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of self-trained language models](https://arxiv.org/abs/2404.02305)
+* [2024-04-17, 17:38:04](https://news.ycombinator.com/item?id=40067806) - [Gecko Robotics built a $600M company from a college project](https://fortune.com/2024/04/17/gecko-founding-jake-loosararian-robots-infrastructure-environment-y-combinator/)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
 * [2024-04-17, 17:20:32](https://news.ycombinator.com/item?id=40067605) - [Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
 * [2024-04-17, 17:16:13](https://news.ycombinator.com/item?id=40067556) - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
@@ -16,7 +17,6 @@
 * [2024-04-17, 15:11:26](https://news.ycombinator.com/item?id=40065821) - [libxev: A cross-platform, high-performance event loop](https://github.com/mitchellh/libxev)
 * [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
 * [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
-* [2024-04-17, 14:00:37](https://news.ycombinator.com/item?id=40064736) - [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An electric new era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 * [2024-04-17, 13:05:14](https://news.ycombinator.com/item?id=40064027) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 * [2024-04-17, 12:39:49](https://news.ycombinator.com/item?id=40063803) - [Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool](https://github.com/WINSDK/bite)
