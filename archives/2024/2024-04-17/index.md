@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 21:00:47](https://news.ycombinator.com/item?id=40070015) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2024-04-17, 20:07:29](https://news.ycombinator.com/item?id=40069514) - [High-speed trader Jane Street raked in $4.4B at start of 2024](https://www.ft.com/content/7bdd0bc1-5284-4d52-93aa-ddfb609b0bd6)
+* [2024-04-17, 19:46:46](https://news.ycombinator.com/item?id=40069298) - [Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
 * [2024-04-17, 19:10:14](https://news.ycombinator.com/item?id=40068891) - [Why Boeing chief's $33M pay is hard to justify](https://www.ft.com/content/c3683fda-f4c6-44d2-bb1b-0eeab5af0f76)
 * [2024-04-17, 19:02:13](https://news.ycombinator.com/item?id=40068802) - [How Google Is Crushing Tuta](https://tuta.com/blog/google-search-problem)
 * [2024-04-17, 18:34:23](https://news.ycombinator.com/item?id=40068507) - [Booming AI demand threatens global electricity supply](https://www.ft.com/content/b7570359-f809-49ce-8cd5-9166d36a057b)
