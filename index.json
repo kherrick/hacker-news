@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40063908"
     ],
     [
-      "LXQt 2.0.0 Released",
+      "LXQt 2.0.0",
       "https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Quantum mechanics is the operating system that other physical theories run on",
       "https://www.scottaaronson.com/democritus/lec9.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 12:38:34",
-      "https://news.ycombinator.com/item?id=40063794"
-    ],
-    [
-      "The Making of Dune II",
-      "https://readonlymemory.com/the-making-of-dune-ii/"
     ]
   ],
   [
@@ -131,22 +121,22 @@
   ],
   [
     [
-      "2024-04-17, 11:23:18",
-      "https://news.ycombinator.com/item?id=40063025"
-    ],
-    [
-      "ChatControl: EU ministers want to exempt themselves",
-      "https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 11:21:39",
       "https://news.ycombinator.com/item?id=40063014"
     ],
     [
       "Show HN: Open Source TailwindCSS UI Components",
       "https://github.com/EasyFrontend-com/html-tailwindcss-components"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 11:17:29",
+      "https://news.ycombinator.com/item?id=40062987"
+    ],
+    [
+      "Security Vulnerability in Browser Interface Allows Computer Access via GPU",
+      "https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Sony FW900 Widescreen CRT Trinitron",
       "https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 09:34:27",
+      "https://news.ycombinator.com/item?id=40050027"
+    ],
+    [
+      "Raytracing on Meteor Lake's iGPU",
+      "https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/"
     ]
   ],
   [
