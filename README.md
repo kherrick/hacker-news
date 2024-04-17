@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-17, 21:00:47](https://news.ycombinator.com/item?id=40070015) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
-* [2024-04-17, 20:57:44](https://news.ycombinator.com/item?id=40069987) - [Flying Aircraft Carriers](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
+* [2024-04-17, 20:57:44](https://news.ycombinator.com/item?id=40069987) - [Flying Aircraft Carriers (2019)](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
 * [2024-04-17, 19:46:46](https://news.ycombinator.com/item?id=40069298) - [Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
 * [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
 * [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of self-trained language models](https://arxiv.org/abs/2404.02305)
