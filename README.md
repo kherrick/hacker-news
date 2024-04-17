@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-17, 20:07:29](https://news.ycombinator.com/item?id=40069514) - [High-speed trader Jane Street raked in $4.4B at start of 2024](https://www.ft.com/content/7bdd0bc1-5284-4d52-93aa-ddfb609b0bd6)
 * [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
 * [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
@@ -30,6 +29,7 @@
 * [2024-04-16, 12:14:14](https://news.ycombinator.com/item?id=40051013) - [Oolite: An open source open-world space opera](https://oolite.space/)
 * [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [LCD displays still don't match the responsiveness of clunky CRT screens (2019)](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
 * [2024-04-16, 05:41:44](https://news.ycombinator.com/item?id=40048702) - [RubyJS-Vite](https://filipvrba.github.io/ruby-js/)
+* [2024-04-15, 21:29:28](https://news.ycombinator.com/item?id=40045832) - [Bronze Age Stone Anchors as Material Metaphors](https://link.springer.com/article/10.1007/s10816-024-09642-z)
 
 ## [Archives](archives/index.md)
 
