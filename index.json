@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-17, 03:27:58",
+      "https://news.ycombinator.com/item?id=40060123"
+    ],
+    [
+      "Ten years of improvements in PostgreSQL's optimizer",
+      "https://rmarcus.info/blog/2024/04/12/pg-over-time.html"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 02:35:01",
       "https://news.ycombinator.com/item?id=40059835"
     ],
@@ -177,16 +187,6 @@
     [
       "Learn OAuth by building a client with Node.js",
       "https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 16:28:16",
-      "https://news.ycombinator.com/item?id=40054019"
-    ],
-    [
-      "Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity",
-      "https://twitter.com/tonyzzhao/status/1780263497584230432"
     ]
   ],
   [
