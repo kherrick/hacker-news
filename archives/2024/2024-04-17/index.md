@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 17:00:46](https://news.ycombinator.com/item?id=40067372) - [Y Combinator is hiring full stack engineers – learn tons and tons about startups](https://news.ycombinator.com/item?id=40067372)
+* [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
+* [2024-04-17, 16:30:31](https://news.ycombinator.com/item?id=40066975) - [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
+* [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
+* [2024-04-17, 16:26:37](https://news.ycombinator.com/item?id=40066914) - [How does this full-track, 3-wheel snow bike even turn?](https://newatlas.com/outdoors/oruga-unitrack-electric-all-terrain-vehicle/)
 * [2024-04-17, 15:50:00](https://news.ycombinator.com/item?id=40066376) - [McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy)
 * [2024-04-17, 15:46:02](https://news.ycombinator.com/item?id=40066308) - [US FAA issues ground stop advisory for Alaska Airlines](https://www.reuters.com/business/aerospace-defense/us-faa-issues-ground-stop-advisory-alaska-airlines-2024-04-17/)
 * [2024-04-17, 15:18:30](https://news.ycombinator.com/item?id=40065928) - [Unix and Multics History](https://multicians.org/unix.html)
 * [2024-04-17, 15:14:08](https://news.ycombinator.com/item?id=40065862) - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
+* [2024-04-17, 15:11:26](https://news.ycombinator.com/item?id=40065821) - [libxev: A cross-platform, high-performance event loop](https://github.com/mitchellh/libxev)
 * [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
 * [2024-04-17, 14:30:08](https://news.ycombinator.com/item?id=40065166) - [GitHub – antirez/zx2040: RP2040 ZX Spectrum emulator](https://github.com/antirez/zx2040)
 * [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
