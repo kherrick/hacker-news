@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 12:00:25](https://news.ycombinator.com/item?id=40063366) - [Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
+* [2024-04-17, 11:56:59](https://news.ycombinator.com/item?id=40063331) - [I can't use my number pad for 2FA codes](https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/)
+* [2024-04-17, 11:54:03](https://news.ycombinator.com/item?id=40063300) - [Cooler transformers could help electric grid](https://www.sciencedaily.com/releases/2024/04/240416125322.htm)
 * [2024-04-17, 11:23:18](https://news.ycombinator.com/item?id=40063025) - [ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
 * [2024-04-17, 11:21:39](https://news.ycombinator.com/item?id=40063014) - [Show HN: Open Source TailwindCSS UI Components](https://github.com/EasyFrontend-com/html-tailwindcss-components)
 * [2024-04-17, 11:02:32](https://news.ycombinator.com/item?id=40062892) - [The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
 * [2024-04-17, 10:42:58](https://news.ycombinator.com/item?id=40062774) - [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
+* [2024-04-17, 10:15:57](https://news.ycombinator.com/item?id=40062590) - [Blaze: A High Performance C++ Math Library](https://bitbucket.org/blaze-lib/blaze/src/master/)
 * [2024-04-17, 10:11:50](https://news.ycombinator.com/item?id=40062552) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam (2023)](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
 * [2024-04-17, 09:28:05](https://news.ycombinator.com/item?id=40062271) - [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
 * [2024-04-17, 09:26:47](https://news.ycombinator.com/item?id=40062263) - [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
