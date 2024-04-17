@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
+* [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
 * [2024-04-17, 02:35:01](https://news.ycombinator.com/item?id=40059835) - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
 * [2024-04-17, 02:34:09](https://news.ycombinator.com/item?id=40059829) - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 * [2024-04-17, 02:00:23](https://news.ycombinator.com/item?id=40059630) - [I nearly died drowning](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
@@ -9,7 +10,6 @@
 * [2024-04-16, 21:15:14](https://news.ycombinator.com/item?id=40057322) - [Overture Maps Foundation Releases Beta of Its First Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-beta-of-its-first-open-map-dataset/)
 * [2024-04-16, 21:12:17](https://news.ycombinator.com/item?id=40057289) - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
 * [2024-04-16, 21:00:20](https://news.ycombinator.com/item?id=40057147) - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
-* [2024-04-16, 20:40:37](https://news.ycombinator.com/item?id=40056916) - [What makes concurrency so hard?](https://buttondown.email/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-04-16, 20:16:47](https://news.ycombinator.com/item?id=40056640) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-16, 19:42:04](https://news.ycombinator.com/item?id=40056311) - [Firefox Proton UI userChrome.css fixes. (2021)](https://github.com/black7375/Firefox-UI-Fix)
 * [2024-04-16, 18:36:27](https://news.ycombinator.com/item?id=40055598) - [Sweden has long opposed nuclear weapons, but once tried to build them](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
