@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 08:15:36](https://news.ycombinator.com/item?id=40061831) - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
 * [2024-04-17, 06:14:35](https://news.ycombinator.com/item?id=40061068) - [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
 * [2024-04-17, 05:45:43](https://news.ycombinator.com/item?id=40060901) - [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
 * [2024-04-17, 05:19:55](https://news.ycombinator.com/item?id=40060728) - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
@@ -22,7 +23,6 @@
 * [2024-04-16, 18:06:20](https://news.ycombinator.com/item?id=40055239) - [David Lynch presents 'A Thinking Room'](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
 * [2024-04-16, 17:13:59](https://news.ycombinator.com/item?id=40054580) - [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)
 * [2024-04-16, 16:07:59](https://news.ycombinator.com/item?id=40053774) - [This is a teenager](https://pudding.cool/2024/03/teenagers/)
-* [2024-04-16, 15:27:26](https://news.ycombinator.com/item?id=40053257) - [Show HN: Term Typer – Learn a language by typing](https://www.termtyper.com/)
 * [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 * [2024-04-16, 09:34:27](https://news.ycombinator.com/item?id=40050027) - [Raytracing on Meteor Lake's iGPU](https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/)
 * [2024-04-16, 07:42:57](https://news.ycombinator.com/item?id=40049356) - [NASA Technology Helps Guard Against Lunar Dust](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/)
