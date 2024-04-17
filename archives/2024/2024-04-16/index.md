@@ -34,6 +34,7 @@
 * [2024-04-16, 19:05:09](https://news.ycombinator.com/item?id=40055942) - [Show HN: A shell CLI tool to predict your next command enhanced by LLM and RAG](https://github.com/huangyz0918/termax)
 * [2024-04-16, 19:04:36](https://news.ycombinator.com/item?id=40055936) - [Global Firepower Index](https://www.globalfirepower.com/)
 * [2024-04-16, 19:02:52](https://news.ycombinator.com/item?id=40055918) - [Difficulty levels of most European languages for Americans](https://www.atlasobscura.com/articles/language-difficulty-map)
+* [2024-04-16, 19:02:13](https://news.ycombinator.com/item?id=40055908) - [Everything We Can't Describe in Music](https://hazlitt.net/feature/everything-we-cant-describe-music)
 * [2024-04-16, 18:49:15](https://news.ycombinator.com/item?id=40055757) - [Prism (new Ruby parser) in 2024](https://railsatscale.com/2024-04-16-prism-in-2024/)
 * [2024-04-16, 18:36:27](https://news.ycombinator.com/item?id=40055598) - [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
 * [2024-04-16, 18:29:35](https://news.ycombinator.com/item?id=40055522) - [Please don't put checkmarks in checkboxes before I checked them](https://grumpy.website/1516)
