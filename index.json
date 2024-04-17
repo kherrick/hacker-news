@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-17, 00:21:32",
-      "https://news.ycombinator.com/item?id=40059022"
+      "2024-04-17, 02:34:09",
+      "https://news.ycombinator.com/item?id=40059829"
     ],
     [
-      "Site claims to have harvested 4B+ Discord chats, all yours for a price",
-      "https://www.theregister.com/2024/04/16/discord_network_sale/"
+      "Tax consequences of WIN95 team members keeping a piece of software for testing",
+      "https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Boeing's problems has cost United $200M in Q1 2024",
       "https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 22:47:59",
+      "https://news.ycombinator.com/item?id=40058253"
+    ],
+    [
+      "Cute trick for fetch-and-add-based queues",
+      "https://outerproduct.net/trivial/2024-04-16_faaqtr.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Loading a trillion rows of weather data into TimescaleDB",
       "https://aliramadhan.me/2024/03/31/trillion-rows.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 11:49:22",
-      "https://news.ycombinator.com/item?id=40050844"
-    ],
-    [
-      "NPR suspends veteran editor as it grapples with his public criticism",
-      "https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay"
     ]
   ],
   [
