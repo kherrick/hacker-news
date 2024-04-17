@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-04-17, 15:50:00",
-      "https://news.ycombinator.com/item?id=40066376"
+      "2024-04-17, 15:18:30",
+      "https://news.ycombinator.com/item?id=40065928"
     ],
     [
-      "McNamara Fallacy",
-      "https://en.wikipedia.org/wiki/McNamara_fallacy"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 15:46:02",
-      "https://news.ycombinator.com/item?id=40066308"
-    ],
-    [
-      "US FAA issues ground stop advisory for Alaska Airlines",
-      "https://www.reuters.com/business/aerospace-defense/us-faa-issues-ground-stop-advisory-alaska-airlines-2024-04-17/"
+      "Unix and Multics History",
+      "https://multicians.org/unix.html"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Stable Diffusion 3 API Now Available",
       "https://stability.ai/news/stable-diffusion-3-api"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 14:26:08",
-      "https://news.ycombinator.com/item?id=40065107"
-    ],
-    [
-      "Power-hungry AI is putting the hurt on global electricity supply",
-      "https://arstechnica.com/ai/2024/04/power-hungry-ai-is-putting-the-hurt-on-global-electricity-supply/"
     ]
   ],
   [
@@ -111,6 +91,16 @@
   ],
   [
     [
+      "2024-04-17, 12:39:49",
+      "https://news.ycombinator.com/item?id=40063803"
+    ],
+    [
+      "Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool",
+      "https://github.com/WINSDK/bite"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 12:38:40",
       "https://news.ycombinator.com/item?id=40063795"
     ],
@@ -147,6 +137,16 @@
     [
       "Finley (YC W21) is hiring for capital markets innovators (US remote)",
       "https://www.finleycms.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 11:36:54",
+      "https://news.ycombinator.com/item?id=40063137"
+    ],
+    [
+      "Show HN: Desbordante 2.0",
+      "https://github.com/Desbordante/desbordante-core"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2024-04-17, 05:19:55",
-      "https://news.ycombinator.com/item?id=40060728"
+      "2024-04-17, 03:43:18",
+      "https://news.ycombinator.com/item?id=40060198"
     ],
     [
-      "Caching secrets of the HTTP elders, part 1",
-      "https://csvbase.com/blog/8"
+      "Perlis's Programming Epigrams",
+      "https://www.cs.yale.edu/homes/perlis-alan/quotes.html"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "Ten years of improvements in PostgreSQL's optimizer",
       "https://rmarcus.info/blog/2024/04/12/pg-over-time.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 02:34:09",
+      "https://news.ycombinator.com/item?id=40059829"
+    ],
+    [
+      "Tax consequences of WIN95 team members keeping a piece of software for testing",
+      "https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Raytracing on Meteor Lake's iGPU",
       "https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 06:17:49",
-      "https://news.ycombinator.com/item?id=40048880"
-    ],
-    [
-      "Amazon Echo Hacking Wiki",
-      "https://github.com/echohacking/wiki/wiki"
     ]
   ],
   [
