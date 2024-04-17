@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 06:14:35](https://news.ycombinator.com/item?id=40061068) - [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
 * [2024-04-17, 02:35:01](https://news.ycombinator.com/item?id=40059835) - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
@@ -21,7 +22,6 @@
 * [2024-04-16, 16:47:28](https://news.ycombinator.com/item?id=40054263) - [Learn OAuth by building a client with Node.js](https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F)
 * [2024-04-16, 16:07:59](https://news.ycombinator.com/item?id=40053774) - [This is a teenager](https://pudding.cool/2024/03/teenagers/)
 * [2024-04-16, 15:27:26](https://news.ycombinator.com/item?id=40053257) - [Show HN: Term Typer – Learn a language by typing](https://www.termtyper.com/)
-* [2024-04-16, 14:51:48](https://news.ycombinator.com/item?id=40052729) - [Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
 * [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 * [2024-04-16, 09:34:27](https://news.ycombinator.com/item?id=40050027) - [Raytracing on Meteor Lake's iGPU](https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/)
 * [2024-04-16, 07:42:57](https://news.ycombinator.com/item?id=40049356) - [NASA Technology Helps Guard Against Lunar Dust](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/)

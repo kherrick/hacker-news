@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 06:14:35](https://news.ycombinator.com/item?id=40061068) - [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
 * [2024-04-17, 04:48:16](https://news.ycombinator.com/item?id=40060532) - [Google workers arrested after protesting company's work with Israel](https://www.washingtonpost.com/technology/2024/04/16/google-sit-in-employee-protest-nimbus-israel/)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
