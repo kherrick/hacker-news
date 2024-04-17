@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-04-17, 14:26:31",
+      "https://news.ycombinator.com/item?id=40065114"
+    ],
+    [
+      "Stable Diffusion 3 API Now Available",
+      "https://stability.ai/news/stable-diffusion-3-api"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 14:22:11",
+      "https://news.ycombinator.com/item?id=40065047"
+    ],
+    [
+      "ASML profits plunge 40% amid dip in chipmaking tool orders",
+      "https://www.theregister.com/2024/04/17/asml_profits_slump_40_percent_q1_2024/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 14:02:22",
       "https://news.ycombinator.com/item?id=40064755"
     ],
     [
       "Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion",
       "https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 14:00:37",
+      "https://news.ycombinator.com/item?id=40064736"
+    ],
+    [
+      "Mixtral 8x22B",
+      "https://mistral.ai/news/mixtral-8x22b/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "An Electric New Era for Atlas",
       "https://bostondynamics.com/blog/electric-new-era-for-atlas/"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 13:03:54",
-      "https://news.ycombinator.com/item?id=40064022"
-    ],
-    [
-      "Show HN: Learn 3 words today with Gemini 1.5 Pro",
-      "https://wordlab.cloud/"
     ]
   ],
   [
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2024-04-17, 09:15:00",
-      "https://news.ycombinator.com/item?id=40062210"
-    ],
-    [
-      "Collection of notebooks showcasing some fun and effective ways of using Claude",
-      "https://github.com/anthropics/anthropic-cookbook"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 08:15:36",
-      "https://news.ycombinator.com/item?id=40061831"
-    ],
-    [
-      "Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split",
-      "https://github.com/ollama/ollama/releases/tag/v0.1.32"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 07:35:01",
       "https://news.ycombinator.com/item?id=40061597"
     ],
@@ -217,16 +217,6 @@
     [
       "F/OSS Comics: 8. The Origins of Unix and the C Language",
       "https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 05:50:39",
-      "https://news.ycombinator.com/item?id=40060929"
-    ],
-    [
-      "Ur Quan Masters sequel Free Stars: Children of Infinity, by original devs",
-      "https://pistolshrimpgames.com/2024/04/kickstarter-launch-incoming/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Ten years of improvements in PostgreSQL's optimizer",
       "https://rmarcus.info/blog/2024/04/12/pg-over-time.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 02:44:58",
+      "https://news.ycombinator.com/item?id=40059887"
+    ],
+    [
+      "Stop Acting Like You're Famous",
+      "https://ajkprojects.com/stopactinglikeyourefamous"
     ]
   ],
   [
