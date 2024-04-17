@@ -8,6 +8,7 @@
 * [2024-04-16, 23:41:52](https://news.ycombinator.com/item?id=40058728) - ['Googlers Against Genocide': Tech Workers Protest Contracts with Israel](https://gizmodo.com/google-workers-hold-sit-in-protest-contract-with-israel-18514133153bb2af7e6f4fba3ad253d7f%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.aljazeera.com%2Fnews%2Fliveblog%2F2024%2F4%2F16%2Fisraels-war-on-gaza-live-israel-vows-response-to-iran)
 * [2024-04-16, 23:05:11](https://news.ycombinator.com/item?id=40058399) - [Tell HN: We should snapshot a mostly AI output free version of the web](https://news.ycombinator.com/item?id=40058399)
 * [2024-04-16, 22:51:43](https://news.ycombinator.com/item?id=40058291) - [Boeing's problems has cost United $200M in Q1 2024](https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html)
+* [2024-04-16, 22:47:59](https://news.ycombinator.com/item?id=40058253) - [Cute trick for fetch-and-add-based queues](https://outerproduct.net/trivial/2024-04-16_faaqtr.html)
 * [2024-04-16, 22:33:14](https://news.ycombinator.com/item?id=40058115) - [3D-printed \"metamaterial\" is stronger than anything in nature](https://www.freethink.com/hard-tech/metamaterial)
 * [2024-04-16, 21:51:27](https://news.ycombinator.com/item?id=40057667) - [Tvix – A New Implementation of Nix](https://tvix.dev/)
 * [2024-04-16, 21:15:14](https://news.ycombinator.com/item?id=40057322) - [Overture Maps Foundation Releases Beta of Its First Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-beta-of-its-first-open-map-dataset/)

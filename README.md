@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-17, 00:21:32](https://news.ycombinator.com/item?id=40059022) - [Site claims to have harvested 4B+ Discord chats, all yours for a price](https://www.theregister.com/2024/04/16/discord_network_sale/)
+* [2024-04-17, 02:34:09](https://news.ycombinator.com/item?id=40059829) - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 * [2024-04-16, 23:44:32](https://news.ycombinator.com/item?id=40058753) - [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
 * [2024-04-16, 22:51:43](https://news.ycombinator.com/item?id=40058291) - [Boeing's problems has cost United $200M in Q1 2024](https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html)
+* [2024-04-16, 22:47:59](https://news.ycombinator.com/item?id=40058253) - [Cute trick for fetch-and-add-based queues](https://outerproduct.net/trivial/2024-04-16_faaqtr.html)
 * [2024-04-16, 22:33:14](https://news.ycombinator.com/item?id=40058115) - [3D-printed \"metamaterial\" is stronger than anything in nature](https://www.freethink.com/hard-tech/metamaterial)
 * [2024-04-16, 21:15:14](https://news.ycombinator.com/item?id=40057322) - [Overture Maps Foundation Releases Beta of Its First Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-beta-of-its-first-open-map-dataset/)
 * [2024-04-16, 21:12:17](https://news.ycombinator.com/item?id=40057289) - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
@@ -22,7 +23,6 @@
 * [2024-04-16, 14:51:48](https://news.ycombinator.com/item?id=40052729) - [Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
 * [2024-04-16, 14:00:58](https://news.ycombinator.com/item?id=40051975) - [A Visual Guide to Vision Transformers](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
 * [2024-04-16, 12:39:07](https://news.ycombinator.com/item?id=40051191) - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
-* [2024-04-16, 11:49:22](https://news.ycombinator.com/item?id=40050844) - [NPR suspends veteran editor as it grapples with his public criticism](https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay)
 * [2024-04-16, 07:42:57](https://news.ycombinator.com/item?id=40049356) - [NASA Technology Helps Guard Against Lunar Dust](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/)
 * [2024-04-16, 06:33:56](https://news.ycombinator.com/item?id=40048960) - [Should You Use Upper Bound Version Constraints (In Python)?](https://iscinumpy.dev/post/bound-version-constraints/)
 * [2024-04-16, 06:17:08](https://news.ycombinator.com/item?id=40048874) - [Scammers are targeting teenage boys on social media and driving some to suicide](https://www.bloomberg.com/features/2024-sextortion-teen-suicides/)
