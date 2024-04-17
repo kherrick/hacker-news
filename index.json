@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-17, 04:48:16",
+      "https://news.ycombinator.com/item?id=40060532"
+    ],
+    [
+      "Google workers arrested after protesting company's work with Israel",
+      "https://www.washingtonpost.com/technology/2024/04/16/google-sit-in-employee-protest-nimbus-israel/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 03:27:58",
       "https://news.ycombinator.com/item?id=40060123"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-04-16, 16:28:16",
-      "https://news.ycombinator.com/item?id=40054019"
-    ],
-    [
-      "Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity",
-      "https://twitter.com/tonyzzhao/status/1780263497584230432"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 16:07:59",
       "https://news.ycombinator.com/item?id=40053774"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-04-16, 14:00:58",
-      "https://news.ycombinator.com/item?id=40051975"
-    ],
-    [
-      "A Visual Guide to Vision Transformers",
-      "https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 12:39:07",
       "https://news.ycombinator.com/item?id=40051191"
     ],
     [
       "Loading a trillion rows of weather data into TimescaleDB",
       "https://aliramadhan.me/2024/03/31/trillion-rows.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 09:34:27",
+      "https://news.ycombinator.com/item?id=40050027"
+    ],
+    [
+      "Raytracing on Meteor Lake's iGPU",
+      "https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=40048960"
     ],
     [
-      "Should You Use Upper Bound Version Constraints (In Python)?",
+      "Should you use upper bound version constraints?",
       "https://iscinumpy.dev/post/bound-version-constraints/"
     ]
   ],
