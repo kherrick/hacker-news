@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
 * [2024-04-17, 15:14:08](https://news.ycombinator.com/item?id=40065862) - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
+* [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
 * [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 * [2024-04-17, 14:22:11](https://news.ycombinator.com/item?id=40065047) - [ASML profits plunge 40% amid dip in chipmaking tool orders](https://www.theregister.com/2024/04/17/asml_profits_slump_40_percent_q1_2024/)
 * [2024-04-17, 14:02:22](https://news.ycombinator.com/item?id=40064755) - [Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion](https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion)
@@ -60,4 +61,5 @@
 * [2024-04-17, 02:00:23](https://news.ycombinator.com/item?id=40059630) - [I Nearly Died Drowning. Here's What It's Like to Survive](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
 * [2024-04-17, 01:12:37](https://news.ycombinator.com/item?id=40059332) - [Commodore 64 claimed to outperform IBM's quantum system](https://www.tomshardware.com/tech-industry/quantum-computing/commodore-64-outperforms-ibms-quantum-systems-1-mhz-computer-said-to-be-faster-more-efficient-and-decently-accurate)
 * [2024-04-17, 00:44:49](https://news.ycombinator.com/item?id=40059174) - [Boeing whistleblower says 787 fleet should be grounded](https://thehill.com/homenews/4598076-boeing-whistleblower-says-787-fleet-should-be-grounded/)
+* [2024-04-17, 00:35:51](https://news.ycombinator.com/item?id=40059122) - [UI redesigns are mostly a waste of time (2019)](https://debugandrelease.blogspot.com/2019/03/ui-redesigns-are-mostly-waste-of-time.html)
 * [2024-04-17, 00:21:32](https://news.ycombinator.com/item?id=40059022) - [Site claims to have harvested 4B+ Discord chats, all yours for a price](https://www.theregister.com/2024/04/16/discord_network_sale/)
