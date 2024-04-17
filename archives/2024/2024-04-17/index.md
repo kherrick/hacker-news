@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 12:46:41](https://news.ycombinator.com/item?id=40063867) - [Student debt is haunting Americans from graduation to retirement](https://www.cnn.com/2024/04/16/economy/student-debt-gallup-poll/index.html)
 * [2024-04-17, 12:38:40](https://news.ycombinator.com/item?id=40063795) - [Quantum mechanics is the OS for Physics](https://www.scottaaronson.com/democritus/lec9.html)
+* [2024-04-17, 12:38:34](https://news.ycombinator.com/item?id=40063794) - [The Making of Dune II](https://readonlymemory.com/the-making-of-dune-ii/)
 * [2024-04-17, 12:35:51](https://news.ycombinator.com/item?id=40063766) - [Boston Dynamics Retires Its Legendary Humanoid Robot](https://spectrum.ieee.org/boston-dynamics-atlas-retires)
 * [2024-04-17, 12:32:56](https://news.ycombinator.com/item?id=40063736) - [\"[Brendan] Eich didn't lose the [Mozilla] CEO's job for his Prop-8 donation.\"](https://mastodon.social/@mhoye/112281966342068713)
 * [2024-04-17, 12:21:06](https://news.ycombinator.com/item?id=40063607) - [The VC acid test as a founder (2017)](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)

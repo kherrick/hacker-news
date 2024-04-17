@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-17, 12:46:41](https://news.ycombinator.com/item?id=40063867) - [Student debt is haunting Americans from graduation to retirement](https://www.cnn.com/2024/04/16/economy/student-debt-gallup-poll/index.html)
 * [2024-04-17, 12:38:40](https://news.ycombinator.com/item?id=40063795) - [Quantum mechanics is the OS for Physics](https://www.scottaaronson.com/democritus/lec9.html)
+* [2024-04-17, 12:38:34](https://news.ycombinator.com/item?id=40063794) - [The Making of Dune II](https://readonlymemory.com/the-making-of-dune-ii/)
 * [2024-04-17, 12:35:51](https://news.ycombinator.com/item?id=40063766) - [Boston Dynamics Retires Its Legendary Humanoid Robot](https://spectrum.ieee.org/boston-dynamics-atlas-retires)
-* [2024-04-17, 12:32:56](https://news.ycombinator.com/item?id=40063736) - [\"[Brendan] Eich didn't lose the [Mozilla] CEO's job for his Prop-8 donation.\"](https://mastodon.social/@mhoye/112281966342068713)
 * [2024-04-17, 12:21:06](https://news.ycombinator.com/item?id=40063607) - [The VC acid test as a founder (2017)](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)
 * [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 12:00:25](https://news.ycombinator.com/item?id=40063366) - [Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
@@ -21,7 +22,6 @@
 * [2024-04-17, 05:50:39](https://news.ycombinator.com/item?id=40060929) - [Ur Quan Masters sequel Free Stars: Children of Infinity, by original devs](https://pistolshrimpgames.com/2024/04/kickstarter-launch-incoming/)
 * [2024-04-17, 05:48:46](https://news.ycombinator.com/item?id=40060915) - [How the Food Industry Pays Influencers to Shill Blueberries, Butter, and More](https://www.bonappetit.com/story/food-industry-influencers)
 * [2024-04-17, 05:19:55](https://news.ycombinator.com/item?id=40060728) - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
-* [2024-04-17, 03:43:18](https://news.ycombinator.com/item?id=40060198) - [Perlis's Programming Epigrams](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
 * [2024-04-16, 22:00:09](https://news.ycombinator.com/item?id=40057741) - [The Geiss screensaver and Winamp music visualization plug-in source code](https://github.com/geissomatik/geiss)
