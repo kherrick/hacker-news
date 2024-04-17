@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-17, 11:23:18",
+      "https://news.ycombinator.com/item?id=40063025"
+    ],
+    [
+      "ChatControl: EU ministers want to exempt themselves",
+      "https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 11:02:32",
       "https://news.ycombinator.com/item?id=40062892"
     ],
@@ -17,6 +27,16 @@
     [
       "NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types",
       "https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 10:11:50",
+      "https://news.ycombinator.com/item?id=40062552"
+    ],
+    [
+      "Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam (2023)",
+      "https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/"
     ]
   ],
   [
@@ -57,6 +77,26 @@
     [
       "Generation Z is unprecedentedly rich",
       "https://www.economist.com/finance-and-economics/2024/04/16/generation-z-is-unprecedentedly-rich"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 07:35:01",
+      "https://news.ycombinator.com/item?id=40061597"
+    ],
+    [
+      "Why the Higgs Field Is Nothing Like Molasses, Soup, or a Crowd",
+      "https://profmattstrassler.com/2024/04/16/why-the-higgs-field-is-nothing-like-molasses-soup-or-a-crowd/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 07:00:32",
+      "https://news.ycombinator.com/item?id=40061373"
+    ],
+    [
+      "Show HN: Privacy Manifest CLI tool for iOS apps",
+      "https://github.com/stelabouras/privacy-manifest"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2024-04-16, 20:40:37",
-      "https://news.ycombinator.com/item?id=40056916"
-    ],
-    [
-      "What makes concurrency so hard?",
-      "https://buttondown.email/hillelwayne/archive/what-makes-concurrency-so-hard/"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 20:16:47",
       "https://news.ycombinator.com/item?id=40056640"
     ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2024-04-16, 17:13:59",
-      "https://news.ycombinator.com/item?id=40054580"
-    ],
-    [
-      "usbredir: A protocol for sending USB device traffic over a network connection",
-      "https://www.spice-space.org/usbredir.html"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 16:07:59",
       "https://news.ycombinator.com/item?id=40053774"
     ],
     [
       "This is a teenager",
       "https://pudding.cool/2024/03/teenagers/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 12:39:07",
-      "https://news.ycombinator.com/item?id=40051191"
-    ],
-    [
-      "Loading a trillion rows of weather data into TimescaleDB",
-      "https://aliramadhan.me/2024/03/31/trillion-rows.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A curious phenomenon called 'Etak'",
       "https://maphappenings.com/2024/04/11/story-of-etak/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 00:19:39",
-      "https://news.ycombinator.com/item?id=40047094"
-    ],
-    [
-      "Justice Department to file antitrust suit against Live Nation",
-      "https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268"
     ]
   ]
 ]
