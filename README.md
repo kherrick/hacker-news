@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-17, 22:42:03](https://news.ycombinator.com/item?id=40070853) - [House passes bill requiring warrant to purchase data from third parties](https://thehill.com/homenews/house/4601266-house-passes-bill-requiring-warrant-to-purchase-data-from-third-parties/)
 * [2024-04-17, 21:03:16](https://news.ycombinator.com/item?id=40070034) - [Show HN: A no-watermark video downloader for Any social media](https://www.fastdownload.io/)
 * [2024-04-17, 21:00:47](https://news.ycombinator.com/item?id=40070015) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2024-04-17, 20:57:44](https://news.ycombinator.com/item?id=40069987) - [Flying Aircraft Carriers (2019)](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
@@ -21,6 +20,7 @@
 * [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
 * [2024-04-17, 15:11:26](https://news.ycombinator.com/item?id=40065821) - [libxev: A cross-platform, high-performance event loop](https://github.com/mitchellh/libxev)
 * [2024-04-17, 15:04:08](https://news.ycombinator.com/item?id=40065704) - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
+* [2024-04-17, 14:26:31](https://news.ycombinator.com/item?id=40065114) - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An electric new era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 * [2024-04-17, 13:05:14](https://news.ycombinator.com/item?id=40064027) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 * [2024-04-17, 12:39:49](https://news.ycombinator.com/item?id=40063803) - [Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool](https://github.com/WINSDK/bite)
