@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-17, 09:28:05](https://news.ycombinator.com/item?id=40062271) - [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
-* [2024-04-17, 09:26:47](https://news.ycombinator.com/item?id=40062263) - [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
 * [2024-04-17, 09:15:00](https://news.ycombinator.com/item?id=40062210) - [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 * [2024-04-17, 08:15:36](https://news.ycombinator.com/item?id=40061831) - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
 * [2024-04-17, 06:51:13](https://news.ycombinator.com/item?id=40061298) - [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
@@ -12,6 +11,7 @@
 * [2024-04-17, 02:44:58](https://news.ycombinator.com/item?id=40059887) - [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
 * [2024-04-17, 02:34:09](https://news.ycombinator.com/item?id=40059829) - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 * [2024-04-17, 02:00:23](https://news.ycombinator.com/item?id=40059630) - [I nearly died drowning](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
+* [2024-04-16, 23:44:32](https://news.ycombinator.com/item?id=40058753) - [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
 * [2024-04-16, 22:47:59](https://news.ycombinator.com/item?id=40058253) - [Cute trick for fetch-and-add-based queues](https://outerproduct.net/trivial/2024-04-16_faaqtr.html)
 * [2024-04-16, 22:00:09](https://news.ycombinator.com/item?id=40057741) - [The Geiss screensaver and Winamp music visualization plug-in source code](https://github.com/geissomatik/geiss)
 * [2024-04-16, 21:15:14](https://news.ycombinator.com/item?id=40057322) - [Overture Maps Foundation Releases Beta of Its First Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-beta-of-its-first-open-map-dataset/)
