@@ -101,6 +101,7 @@
 * [2024-04-16, 06:17:49](https://news.ycombinator.com/item?id=40048880) - [Amazon Echo Hacking Wiki](https://github.com/echohacking/wiki/wiki)
 * [2024-04-16, 06:17:08](https://news.ycombinator.com/item?id=40048874) - [Scammers are targeting teenage boys on social media and driving some to suicide](https://www.bloomberg.com/features/2024-sextortion-teen-suicides/)
 * [2024-04-16, 06:09:11](https://news.ycombinator.com/item?id=40048842) - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
+* [2024-04-16, 05:41:44](https://news.ycombinator.com/item?id=40048702) - [RubyJS-Vite](https://filipvrba.github.io/ruby-js/)
 * [2024-04-16, 05:30:45](https://news.ycombinator.com/item?id=40048657) - [My battle with Tesla: I want to clear my name before I die](https://www.bbc.co.uk/news/articles/cg3q95ednqwo)
 * [2024-04-16, 05:06:19](https://news.ycombinator.com/item?id=40048541) - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
 * [2024-04-16, 04:19:20](https://news.ycombinator.com/item?id=40048307) - [MSFT's WizardLM2 models have been taken down](https://huggingface.co/WizardLM/WizardLM-13B-V1.2)
