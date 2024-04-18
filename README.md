@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-18, 22:13:13](https://news.ycombinator.com/item?id=40081314) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
+* [2024-04-18, 21:59:33](https://news.ycombinator.com/item?id=40081201) - [Dickey Betts, hit-crafting mainstay of Allman Brothers Band, dies at 80](https://www.washingtonpost.com/obituaries/2024/04/18/dickey-betts-allman-brothers-dead/)
 * [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
 * [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 * [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
@@ -8,9 +10,7 @@
 * [2024-04-18, 20:17:20](https://news.ycombinator.com/item?id=40080266) - [The Theory That There Is Only One Electron in the Universe](https://www.iflscience.com/the-strange-theory-that-there-is-only-one-electron-in-the-universe-73818)
 * [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A life without eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
 * [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum – Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
-* [2024-04-18, 18:52:36](https://news.ycombinator.com/item?id=40079494) - [CA insurance crisis: Thousands to lose coverage as two more insurers withdraw](https://www.sfchronicle.com/california/article/home-insurance-withdraw-19408863.php)
 * [2024-04-18, 18:08:26](https://news.ycombinator.com/item?id=40079014) - [Myths about the Anthropocene](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
-* [2024-04-18, 17:32:32](https://news.ycombinator.com/item?id=40078644) - [Mark Zuckerberg: Llama 3, $10B Models, Caesar Augustus, Bioweapons [video]](https://www.youtube.com/watch?v=bc6uFV9CJGg)
 * [2024-04-18, 17:13:34](https://news.ycombinator.com/item?id=40078471) - [Thoughts on Seed Oil](https://dynomight.substack.com/p/seed-oil)
 * [2024-04-18, 16:50:04](https://news.ycombinator.com/item?id=40078195) - [Show HN: Vapi – Convince our voice AI to give you the secret code](https://blog.vapi.ai/show-hn-vapi-try-to-convince-our-voice-ai-to-give-you-the-secret-code/)
 * [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [I keep a WTF notebook (2021)](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
@@ -28,8 +28,8 @@
 * [2024-04-18, 08:22:04](https://news.ycombinator.com/item?id=40074086) - [The Domino Computer](https://www.andrewt.net/maths/domputer/)
 * [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
+* [2024-04-17, 12:12:50](https://news.ycombinator.com/item?id=40063499) - [Erasure Coding (Forward Error Correction)](https://en.wikipedia.org/wiki/Erasure_code)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why the OpenSSL punycode vulnerability was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
-* [2024-04-17, 05:14:41](https://news.ycombinator.com/item?id=40060697) - [Not your mother's mall (2003)](https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php)
 
 ## [Archives](archives/index.md)
 
