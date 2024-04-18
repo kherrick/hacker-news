@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 10:51:59](https://news.ycombinator.com/item?id=40074857) - [Europe gives TikTok 24 hours to explain 'addictive and toxic' new app](https://www.theregister.com/2024/04/18/tiktok_lite_eu_info_demand/)
 * [2024-04-18, 09:50:50](https://news.ycombinator.com/item?id=40074520) - [I Know the secret to the quiet mind. I wish I'd never learned it](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
 * [2024-04-18, 09:24:53](https://news.ycombinator.com/item?id=40074383) - [Cosmic Desktop: Hammering Out New Cosmic Features](https://blog.system76.com/post/hammering-out-cosmic-features)
 * [2024-04-18, 09:14:45](https://news.ycombinator.com/item?id=40074333) - [Google fires 28 workers in indiscriminate act of mass retaliation](https://twitter.com/katejsim/status/1780838795795136844)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-18, 10:51:59](https://news.ycombinator.com/item?id=40074857) - [Europe gives TikTok 24 hours to explain 'addictive and toxic' new app](https://www.theregister.com/2024/04/18/tiktok_lite_eu_info_demand/)
 * [2024-04-18, 09:50:50](https://news.ycombinator.com/item?id=40074520) - [I Know the secret to the quiet mind. I wish I'd never learned it (2021)](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
 * [2024-04-18, 09:24:53](https://news.ycombinator.com/item?id=40074383) - [Cosmic Desktop: Hammering Out New Cosmic Features](https://blog.system76.com/post/hammering-out-cosmic-features)
 * [2024-04-18, 09:14:23](https://news.ycombinator.com/item?id=40074331) - [OpenAI's model all but matches doctors in assessing eye problems](https://www.ft.com/content/5b7a76be-467c-4074-8fd0-3e297bcd91d7)
@@ -13,7 +14,6 @@
 * [2024-04-17, 21:17:58](https://news.ycombinator.com/item?id=40070138) - [RHttp: REPL for HTTP](https://github.com/1buran/rHttp)
 * [2024-04-17, 20:57:44](https://news.ycombinator.com/item?id=40069987) - [Flying Aircraft Carriers (2019)](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
 * [2024-04-17, 20:17:11](https://news.ycombinator.com/item?id=40069599) - [Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
-* [2024-04-17, 20:15:16](https://news.ycombinator.com/item?id=40069583) - [Why SQLite Performance Tuning Made Bencher 1200x Faster](https://bencher.dev/learn/engineering/sqlite-performance-tuning/)
 * [2024-04-17, 19:46:46](https://news.ycombinator.com/item?id=40069298) - [Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
 * [2024-04-17, 17:48:31](https://news.ycombinator.com/item?id=40067939) - [CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
