@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 07:00:20](https://news.ycombinator.com/item?id=40073673) - [Langfuse (YC W23) Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
 * [2024-04-18, 04:17:20](https://news.ycombinator.com/item?id=40072893) - [Sei (YC W22) Is Hiring LLMOps (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/C2oRTUB-mlops-llmops-devops-engineer)
 * [2024-04-18, 04:17:03](https://news.ycombinator.com/item?id=40072892) - [Google Fires 28 Employees After Multi-City Protests](https://www.cnbc.com/2024/04/18/google-terminates-28-employees-after-series-of-protests-read-the-memo.html)
+* [2024-04-18, 03:39:25](https://news.ycombinator.com/item?id=40072731) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 * [2024-04-18, 02:17:34](https://news.ycombinator.com/item?id=40072295) - [Google fires 28 employees involved in sit-in protest over $1.2B Israel contract](https://nypost.com/2024/04/17/business/google-fires-28-employees-involved-in-sit-in-protest-over-1-2b-israel-contract/)
 * [2024-04-18, 02:15:03](https://news.ycombinator.com/item?id=40072283) - [SCOTUS Declines to Review First Amendment Mass Protest Rights Case](https://truthout.org/articles/scotus-declines-to-review-first-amendment-mass-protest-rights-case/)
 * [2024-04-18, 01:23:18](https://news.ycombinator.com/item?id=40072021) - [Show HN: I also made a three-body simulation](https://three-bodies.sulami.xyz/)

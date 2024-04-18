@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-18, 04:17:20](https://news.ycombinator.com/item?id=40072893) - [Sei (YC W22) Is Hiring LLMOps (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/C2oRTUB-mlops-llmops-devops-engineer)
+* [2024-04-18, 07:00:20](https://news.ycombinator.com/item?id=40073673) - [Langfuse (YC W23) Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
+* [2024-04-18, 03:39:25](https://news.ycombinator.com/item?id=40072731) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 * [2024-04-18, 01:09:51](https://news.ycombinator.com/item?id=40071956) - [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
 * [2024-04-18, 00:53:05](https://news.ycombinator.com/item?id=40071843) - [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
 * [2024-04-18, 00:51:16](https://news.ycombinator.com/item?id=40071826) - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
@@ -15,7 +16,6 @@
 * [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
 * [2024-04-17, 17:48:31](https://news.ycombinator.com/item?id=40067939) - [CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
-* [2024-04-17, 17:16:13](https://news.ycombinator.com/item?id=40067556) - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
