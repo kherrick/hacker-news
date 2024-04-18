@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 17:01:02](https://news.ycombinator.com/item?id=40078340) - [Keeling Labs (YC W23) –RL for Battery Optimization–Is Hiring a Senior Data Eng](https://www.keelinglabs.com)
+* [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [You Need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 16:20:00](https://news.ycombinator.com/item?id=40077793) - [Dnsmasq wins the first BlueHats Prize](https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html)
 * [2024-04-18, 16:08:14](https://news.ycombinator.com/item?id=40077665) - [New Assistant: Meta AI, Built with Llama 3](https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/)
 * [2024-04-18, 16:06:58](https://news.ycombinator.com/item?id=40077648) - [Meta AI](https://www.meta.ai/)
