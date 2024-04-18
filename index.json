@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-04-17, 22:07:48",
-      "https://news.ycombinator.com/item?id=40070566"
-    ],
-    [
-      "Wayfair fired a bunch of people again today, after using them to train AI",
-      "https://news.ycombinator.com/item?id=40070566"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 21:17:58",
       "https://news.ycombinator.com/item?id=40070138"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2024-04-17, 18:07:01",
-      "https://news.ycombinator.com/item?id=40068187"
-    ],
-    [
-      "How Antithesis finds bugs",
-      "https://antithesis.com/blog/sdtalk/"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 17:48:31",
       "https://news.ycombinator.com/item?id=40067939"
     ],
@@ -227,6 +207,26 @@
     [
       "An electric new era for Atlas",
       "https://bostondynamics.com/blog/electric-new-era-for-atlas/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 13:05:14",
+      "https://news.ycombinator.com/item?id=40064027"
+    ],
+    [
+      "Solving the minimum cut problem for undirected graphs",
+      "https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 12:39:49",
+      "https://news.ycombinator.com/item?id=40063803"
+    ],
+    [
+      "Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool",
+      "https://github.com/WINSDK/bite"
     ]
   ],
   [
