@@ -111,6 +111,7 @@
 * [2024-04-17, 05:33:55](https://news.ycombinator.com/item?id=40060838) - [Praat: Doing Phonetics by Computer](https://www.fon.hum.uva.nl/praat/)
 * [2024-04-17, 05:20:54](https://news.ycombinator.com/item?id=40060739) - [The success of EVs is massively underreported](https://www.evuniverse.io/p/evsales2023)
 * [2024-04-17, 05:19:55](https://news.ycombinator.com/item?id=40060728) - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
+* [2024-04-17, 05:14:41](https://news.ycombinator.com/item?id=40060697) - [Not your mother's mall (2003)](https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php)
 * [2024-04-17, 04:48:16](https://news.ycombinator.com/item?id=40060532) - [Google workers arrested after protesting company's work with Israel](https://www.washingtonpost.com/technology/2024/04/16/google-sit-in-employee-protest-nimbus-israel/)
 * [2024-04-17, 03:43:18](https://news.ycombinator.com/item?id=40060198) - [Perlis's Programming Epigrams](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2024-04-17, 03:27:58](https://news.ycombinator.com/item?id=40060123) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
