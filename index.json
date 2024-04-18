@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-04-18, 01:09:51",
+      "https://news.ycombinator.com/item?id=40071956"
+    ],
+    [
+      "A single atom layer of gold – LiU researchers create goldene",
+      "https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 01:07:12",
+      "https://news.ycombinator.com/item?id=40071940"
+    ],
+    [
+      "Nvidia Speech and Translation AI Models Set Records for Speed and Accuracy",
+      "https://developer.nvidia.com/blog/nvidia-speech-and-translation-ai-models-set-records-for-speed-and-accuracy/"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 00:51:16",
       "https://news.ycombinator.com/item?id=40071826"
     ],
     [
       "Short Stack – World’s Smallest Nintendo Wii",
       "https://github.com/loopj/short-stack"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 00:43:27",
+      "https://news.ycombinator.com/item?id=40071772"
+    ],
+    [
+      "Human hair transformed into renewable energy storage",
+      "https://news.csu.edu.au/latest-news/breaking-research-human-hair-transformed-into-renewable-energy-storage"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 00:31:11",
+      "https://news.ycombinator.com/item?id=40071694"
+    ],
+    [
+      "Lambda School and founder banned from all student lending",
+      "https://twitter.com/JoshuaOgundu/status/1780668300982415379"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2024-04-17, 18:05:59",
-      "https://news.ycombinator.com/item?id=40068170"
-    ],
-    [
-      "Collapse of self-trained language models",
-      "https://arxiv.org/abs/2404.02305"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 17:48:31",
       "https://news.ycombinator.com/item?id=40067939"
     ],
@@ -87,16 +117,6 @@
     [
       "Show HN: Speeding up LLM inference 2x times (possibly)",
       "https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 17:20:32",
-      "https://news.ycombinator.com/item?id=40067605"
-    ],
-    [
-      "Reddit is taking over Google",
-      "https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-04-17, 14:26:31",
-      "https://news.ycombinator.com/item?id=40065114"
-    ],
-    [
-      "Stable Diffusion 3 API Now Available",
-      "https://stability.ai/news/stable-diffusion-3-api"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 13:12:14",
       "https://news.ycombinator.com/item?id=40064105"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-04-17, 10:11:50",
-      "https://news.ycombinator.com/item?id=40062552"
+      "2024-04-17, 05:59:26",
+      "https://news.ycombinator.com/item?id=40060974"
     ],
     [
-      "Humane AI – Pico Laser Projection – AI Twist on an Old Scam (2023)",
-      "https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/"
+      "Zint",
+      "https://zint.org.uk/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "LCD displays still don't match the responsiveness of clunky CRT screens (2019)",
       "https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 05:41:44",
-      "https://news.ycombinator.com/item?id=40048702"
-    ],
-    [
-      "RubyJS-Vite",
-      "https://filipvrba.github.io/ruby-js/"
     ]
   ]
 ]
