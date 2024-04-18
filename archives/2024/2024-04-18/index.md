@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 19:11:36](https://news.ycombinator.com/item?id=40079702) - [Alexa, Change Your OKRs](https://residualthoughts.substack.com/p/alexa-change-your-okrs)
 * [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
 * [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
 * [2024-04-18, 18:21:32](https://news.ycombinator.com/item?id=40079159) - [Dissent is not hatred](https://thecritic.co.uk/dissent-is-not-hatred/)
@@ -15,6 +16,7 @@
 * [2024-04-18, 17:09:55](https://news.ycombinator.com/item?id=40078430) - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
 * [2024-04-18, 17:04:32](https://news.ycombinator.com/item?id=40078380) - [Google is combining its Android and hardware teams – and it's all about AI](https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh)
 * [2024-04-18, 17:01:02](https://news.ycombinator.com/item?id=40078340) - [Keeling Labs (YC W23) –RL for Battery Optimization–Is Hiring a Senior Data Eng](https://www.keelinglabs.com)
+* [2024-04-18, 16:50:04](https://news.ycombinator.com/item?id=40078195) - [Show HN: Vapi – Convince our voice AI to give you the secret code](https://blog.vapi.ai/show-hn-vapi-try-to-convince-our-voice-ai-to-give-you-the-secret-code/)
 * [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [You Need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 16:38:50](https://news.ycombinator.com/item?id=40078065) - [TSMC expects customers to pay more for chips fabbed overseas](https://www.theregister.com/2024/04/18/tsmc_overseas_costs/)
 * [2024-04-18, 16:20:00](https://news.ycombinator.com/item?id=40077793) - [Dnsmasq wins the first BlueHats Prize](https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html)
