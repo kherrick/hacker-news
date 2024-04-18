@@ -27,9 +27,9 @@
 * [2024-04-17, 10:57:52](https://news.ycombinator.com/item?id=40062867) - [First known fractal molecule](https://newatlas.com/biology/fractal-molecule-natural-mathematical-marvel/)
 * [2024-04-17, 08:42:23](https://news.ycombinator.com/item?id=40061994) - [Analyzing a Baking Recipe](https://www.cookingforengineers.com/article/280/Analyzing-a-Baking-Recipe)
 * [2024-04-17, 07:31:14](https://news.ycombinator.com/item?id=40061576) - [A proof that Meson is Turing-Complete](https://github.com/xorvoid/meson-brainfuck)
-* [2024-04-17, 05:52:57](https://news.ycombinator.com/item?id=40060939) - [How Matzo Is Made](https://www.bloomberg.com/features/2024-streits-matzo-factory-passover/)
 * [2024-04-17, 05:33:55](https://news.ycombinator.com/item?id=40060838) - [Praat: Doing Phonetics by Computer](https://www.fon.hum.uva.nl/praat/)
 * [2024-04-15, 21:39:03](https://news.ycombinator.com/item?id=40045940) - [Scientists solve long-standing mystery surrounding the moon's 'lopsided' geology](https://phys.org/news/2024-04-scientists-mystery-moon-lopsided-geology.html)
+* [2024-04-15, 10:20:36](https://news.ycombinator.com/item?id=40038620) - [Causality, Interaction, and Complexity](https://www.alexahn.com/2024/04/causality-interaction-and-complexity.html)
 
 ## [Archives](archives/index.md)
 
