@@ -37,6 +37,7 @@
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
 * [2024-04-17, 16:43:36](https://news.ycombinator.com/item?id=40067158) - [Joseph Priestley created revolutionary \"maps\" of time](https://www.neh.gov/article/joseph-priestley-created-revolutionary-maps-time)
+* [2024-04-17, 16:40:40](https://news.ycombinator.com/item?id=40067118) - [Extracting valuables from the San José galleon](https://www.popularmechanics.com/science/archaeology/a60430777/a-crew-is-extracting-the-holy-grail-of-shipwrecks-loaded-with-billions-in-lost-treasure/)
 * [2024-04-17, 16:37:16](https://news.ycombinator.com/item?id=40067068) - [Cloudflare CEO Matthew Prince buys local paper, feuds over mansion build](https://archive.ph/2024.04.17-121225/https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
 * [2024-04-17, 16:35:13](https://news.ycombinator.com/item?id=40067041) - [Novelists as Schoolmasters](https://www.thearticle.com/novelists-as-schoolmasters?ref=thebrowser.com)
 * [2024-04-17, 16:30:31](https://news.ycombinator.com/item?id=40066975) - [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
