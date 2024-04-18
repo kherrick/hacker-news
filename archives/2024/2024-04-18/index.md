@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 15:05:59](https://news.ycombinator.com/item?id=40077023) - [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
+* [2024-04-18, 14:46:50](https://news.ycombinator.com/item?id=40076848) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
 * [2024-04-18, 14:31:24](https://news.ycombinator.com/item?id=40076692) - [Author granted copyright over book with AI-generated text–with a twist](https://www.wired.com/story/the-us-copyright-office-loosens-up-a-little-on-ai/)
 * [2024-04-18, 14:24:29](https://news.ycombinator.com/item?id=40076620) - [USAF Test Pilot School, DARPA announce aerospace machine learning breakthrough](https://www.edwards.af.mil/News/Article-View/Article/3744695/usaf-test-pilot-school-and-darpa-announce-breakthrough-in-aerospace-machine-lea/)
 * [2024-04-18, 14:01:06](https://news.ycombinator.com/item?id=40076345) - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
