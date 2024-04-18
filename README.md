@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-18, 02:15:03](https://news.ycombinator.com/item?id=40072283) - [SCOTUS Declines to Review First Amendment Mass Protest Rights Case](https://truthout.org/articles/scotus-declines-to-review-first-amendment-mass-protest-rights-case/)
 * [2024-04-18, 01:09:51](https://news.ycombinator.com/item?id=40071956) - [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
 * [2024-04-18, 00:53:05](https://news.ycombinator.com/item?id=40071843) - [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
 * [2024-04-18, 00:51:16](https://news.ycombinator.com/item?id=40071826) - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
+* [2024-04-18, 00:49:19](https://news.ycombinator.com/item?id=40071809) - [WebSocketStream API](https://developer.chrome.com/docs/capabilities/web-apis/websocketstream)
 * [2024-04-18, 00:43:30](https://news.ycombinator.com/item?id=40071773) - [How Perfectly Can Reality Be Simulated?](https://www.newyorker.com/magazine/2024/04/22/can-the-world-be-simulated)
 * [2024-04-18, 00:43:27](https://news.ycombinator.com/item?id=40071772) - [Human hair transformed into renewable energy storage](https://news.csu.edu.au/latest-news/breaking-research-human-hair-transformed-into-renewable-energy-storage)
 * [2024-04-18, 00:38:33](https://news.ycombinator.com/item?id=40071737) - [MGM says FTC can't probe ransomware attack as Lina Khan was a guest at the time](https://www.theregister.com/2024/04/16/mgm_ftc_lawsuit/)
