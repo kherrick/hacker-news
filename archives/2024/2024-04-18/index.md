@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 14:31:24](https://news.ycombinator.com/item?id=40076692) - [Author granted copyright over book with AI-generated text–with a twist](https://www.wired.com/story/the-us-copyright-office-loosens-up-a-little-on-ai/)
 * [2024-04-18, 14:24:29](https://news.ycombinator.com/item?id=40076620) - [USAF Test Pilot School, DARPA announce aerospace machine learning breakthrough](https://www.edwards.af.mil/News/Article-View/Article/3744695/usaf-test-pilot-school-and-darpa-announce-breakthrough-in-aerospace-machine-lea/)
 * [2024-04-18, 14:01:06](https://news.ycombinator.com/item?id=40076345) - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
 * [2024-04-18, 13:41:05](https://news.ycombinator.com/item?id=40076128) - [A UK government-sponsored agency is censoring journalism](https://unherd.com/2024/04/inside-the-disinformation-industry/)
@@ -13,6 +14,7 @@
 * [2024-04-18, 12:35:43](https://news.ycombinator.com/item?id=40075539) - [Inside Amazon’s Secret Operation to Gather Intel on Rivals](https://www.wsj.com/business/retail/amazon-secret-operation-intel-rivals-eb82ea3c)
 * [2024-04-18, 12:22:11](https://news.ycombinator.com/item?id=40075437) - [AWS kills Snowmobile data transfer truck](https://www.cnbc.com/2024/04/17/aws-stops-selling-snowmobile-truck-for-cloud-migrations.html)
 * [2024-04-18, 12:16:30](https://news.ycombinator.com/item?id=40075402) - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
+* [2024-04-18, 12:05:47](https://news.ycombinator.com/item?id=40075316) - [Understanding AWS End of Service Life Is a Key FinOps Responsibility](https://www.fairwinds.com/blog/understanding-aws-end-of-service-life-is-a-key-finops-responsibility)
 * [2024-04-18, 12:02:27](https://news.ycombinator.com/item?id=40075284) - [Why Fugaku, Japan's fastest supercomputer, went virtual on AWS](https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/)
 * [2024-04-18, 12:00:42](https://news.ycombinator.com/item?id=40075267) - [Keeper (YC S21) is hiring engineers to build a personal accountant for everyone](https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote)
 * [2024-04-18, 11:50:02](https://news.ycombinator.com/item?id=40075191) - [Boston Dynamics' new electric Atlas robot is swiveling nightmare fuel](https://www.theverge.com/2024/4/17/24133145/boston-dynamics-resurrects-atlas-humanoid-robot-electric-new)
