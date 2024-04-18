@@ -17,6 +17,7 @@
 * [2024-04-18, 19:11:36](https://news.ycombinator.com/item?id=40079702) - [Alexa, Change Your OKRs](https://residualthoughts.substack.com/p/alexa-change-your-okrs)
 * [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
 * [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
+* [2024-04-18, 18:52:36](https://news.ycombinator.com/item?id=40079494) - [CA insurance crisis: Thousands to lose coverage as two more insurers withdraw](https://www.sfchronicle.com/california/article/home-insurance-withdraw-19408863.php)
 * [2024-04-18, 18:38:11](https://news.ycombinator.com/item?id=40079333) - [Lacework, last valued at $8.3B, is in talks to sell for just $150M to $300M](https://techcrunch.com/2024/04/18/wiz-is-in-talks-to-buy-lacework-for-150-200m-security-firm-was-last-valued-at-8-3b/)
 * [2024-04-18, 18:38:00](https://news.ycombinator.com/item?id=40079330) - [R3dfox: A fork of Firefox made specifically for Windows 7 and 8 compatibility](https://github.com/Eclipse-Community/r3dfox)
 * [2024-04-18, 18:29:18](https://news.ycombinator.com/item?id=40079243) - [AI Has Made Google Search So Bad People Are Moving to TikTok and Reddit](https://medium.com/bouncin-and-behavin-blogs/ai-has-made-google-search-so-bad-people-are-moving-to-tiktok-reddit-6ac0b4801d2e)
