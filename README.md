@@ -1,8 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-18, 19:52:00](https://news.ycombinator.com/item?id=40080036) - [Katherine Maher:\"free and open\" internet is a \"white male Westernized construct\"](https://twitter.com/realchrisrufo/status/1780929268949614848)
-* [2024-04-18, 19:48:51](https://news.ycombinator.com/item?id=40080010) - [Meta and Lavender](https://blog.paulbiggar.com/meta-and-lavender/)
-* [2024-04-18, 19:22:59](https://news.ycombinator.com/item?id=40079816) - [Cloudflare CEO bought a newspaper to change reporting about his new house plans](https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
 * [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
 * [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
 * [2024-04-18, 18:38:00](https://news.ycombinator.com/item?id=40079330) - [R3dfox: A fork of Firefox made specifically for Windows 7 and 8 compatibility](https://github.com/Eclipse-Community/r3dfox)
@@ -26,10 +23,13 @@
 * [2024-04-18, 08:22:04](https://news.ycombinator.com/item?id=40074086) - [The Domino Computer](https://www.andrewt.net/maths/domputer/)
 * [2024-04-18, 00:51:16](https://news.ycombinator.com/item?id=40071826) - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
 * [2024-04-17, 20:17:11](https://news.ycombinator.com/item?id=40069599) - [Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
+* [2024-04-17, 17:48:31](https://news.ycombinator.com/item?id=40067939) - [CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
 * [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
+* [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why CVE-2022-3602 was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-17, 05:14:41](https://news.ycombinator.com/item?id=40060697) - [Not your mother's mall (2003)](https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php)
+* [2024-04-16, 14:12:27](https://news.ycombinator.com/item?id=40052159) - [Pluto Got Its 'Heart'](https://news.arizona.edu/news/how-pluto-got-its-heart)
 
 ## [Archives](archives/index.md)
 
