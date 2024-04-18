@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-18, 22:17:39](https://news.ycombinator.com/item?id=40081342) - [Hyundai pauses X ads over pro-Nazi content on the platform](https://www.nbcnews.com/tech/tech-news/hyundai-pauses-x-ads-nazi-content-platform-rcna148414)
 * [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
 * [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 * [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
@@ -9,6 +8,7 @@
 * [2024-04-18, 20:17:20](https://news.ycombinator.com/item?id=40080266) - [The Theory That There Is Only One Electron in the Universe](https://www.iflscience.com/the-strange-theory-that-there-is-only-one-electron-in-the-universe-73818)
 * [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A life without eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
 * [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum – Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
+* [2024-04-18, 18:52:36](https://news.ycombinator.com/item?id=40079494) - [CA insurance crisis: Thousands to lose coverage as two more insurers withdraw](https://www.sfchronicle.com/california/article/home-insurance-withdraw-19408863.php)
 * [2024-04-18, 18:08:26](https://news.ycombinator.com/item?id=40079014) - [Myths about the Anthropocene](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
 * [2024-04-18, 17:32:32](https://news.ycombinator.com/item?id=40078644) - [Mark Zuckerberg: Llama 3, $10B Models, Caesar Augustus, Bioweapons [video]](https://www.youtube.com/watch?v=bc6uFV9CJGg)
 * [2024-04-18, 17:13:34](https://news.ycombinator.com/item?id=40078471) - [Thoughts on Seed Oil](https://dynomight.substack.com/p/seed-oil)
