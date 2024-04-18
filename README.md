@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-18, 16:20:00](https://news.ycombinator.com/item?id=40077793) - [Dnsmasq wins the first BlueHats Prize](https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html)
 * [2024-04-18, 16:08:14](https://news.ycombinator.com/item?id=40077665) - [New Assistant: Meta AI, Built with Llama 3](https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/)
 * [2024-04-18, 15:57:28](https://news.ycombinator.com/item?id=40077535) - [All-cash offers, wealthy buyers push Southern California home prices to a record](https://www.latimes.com/homeless-housing/story/2024-04-11/all-cash-offers-wealthy-buyers-push-southern-california-home-prices-to-a-record)
 * [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
@@ -16,7 +17,6 @@
 * [2024-04-18, 12:00:42](https://news.ycombinator.com/item?id=40075267) - [Keeper (YC S21) is hiring engineers to build a personal accountant for everyone](https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote)
 * [2024-04-18, 08:22:04](https://news.ycombinator.com/item?id=40074086) - [The Domino Computer](https://www.andrewt.net/maths/domputer/)
 * [2024-04-18, 03:39:25](https://news.ycombinator.com/item?id=40072731) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
-* [2024-04-18, 01:09:51](https://news.ycombinator.com/item?id=40071956) - [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
 * [2024-04-18, 00:51:16](https://news.ycombinator.com/item?id=40071826) - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
 * [2024-04-17, 20:17:11](https://news.ycombinator.com/item?id=40069599) - [Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 19:46:46](https://news.ycombinator.com/item?id=40069298) - [Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
