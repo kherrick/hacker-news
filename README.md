@@ -2,7 +2,6 @@
 
 * [2024-04-18, 15:05:59](https://news.ycombinator.com/item?id=40077023) - [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
 * [2024-04-18, 14:46:50](https://news.ycombinator.com/item?id=40076848) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
-* [2024-04-18, 14:31:24](https://news.ycombinator.com/item?id=40076692) - [Author granted copyright over book with AI-generated text–with a twist](https://www.wired.com/story/the-us-copyright-office-loosens-up-a-little-on-ai/)
 * [2024-04-18, 14:24:29](https://news.ycombinator.com/item?id=40076620) - [USAF Test Pilot School, DARPA announce aerospace machine learning breakthrough](https://www.edwards.af.mil/News/Article-View/Article/3744695/usaf-test-pilot-school-and-darpa-announce-breakthrough-in-aerospace-machine-lea/)
 * [2024-04-18, 14:01:06](https://news.ycombinator.com/item?id=40076345) - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
 * [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
@@ -20,6 +19,7 @@
 * [2024-04-17, 20:17:11](https://news.ycombinator.com/item?id=40069599) - [Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 19:46:46](https://news.ycombinator.com/item?id=40069298) - [Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
 * [2024-04-17, 17:48:31](https://news.ycombinator.com/item?id=40067939) - [CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
+* [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 * [2024-04-17, 16:40:40](https://news.ycombinator.com/item?id=40067118) - [Extracting valuables from the San José galleon](https://www.popularmechanics.com/science/archaeology/a60430777/a-crew-is-extracting-the-holy-grail-of-shipwrecks-loaded-with-billions-in-lost-treasure/)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers Are One of Evolution's Cleverest Inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
