@@ -2,7 +2,6 @@
 
 * [2024-04-18, 22:13:13](https://news.ycombinator.com/item?id=40081314) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2024-04-18, 21:59:33](https://news.ycombinator.com/item?id=40081201) - [Dickey Betts, hit-crafting mainstay of Allman Brothers Band, dies at 80](https://www.washingtonpost.com/obituaries/2024/04/18/dickey-betts-allman-brothers-dead/)
-* [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
 * [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 * [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 * [2024-04-18, 21:00:47](https://news.ycombinator.com/item?id=40080659) - [Draftaid (YC W24) Is Hiring a Founding AI/ML Engineer](https://www.ycombinator.com/companies/draftaid/jobs/7km301I-founding-ai-ml-engineer)
@@ -30,6 +29,7 @@
 * [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why the OpenSSL punycode vulnerability was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
+* [2024-04-17, 05:14:41](https://news.ycombinator.com/item?id=40060697) - [Not your mother's mall (2003)](https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php)
 
 ## [Archives](archives/index.md)
 
