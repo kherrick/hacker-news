@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
 * [2024-04-18, 21:17:16](https://news.ycombinator.com/item?id=40080816) - [Cops can force suspect to unlock phone with thumbprint, US court rules](https://arstechnica.com/tech-policy/2024/04/cops-can-force-suspect-to-unlock-phone-with-thumbprint-us-court-rules/)
+* [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 * [2024-04-18, 21:00:47](https://news.ycombinator.com/item?id=40080659) - [Draftaid (YC W24) Is Hiring a Founding AI/ML Engineer](https://www.ycombinator.com/companies/draftaid/jobs/7km301I-founding-ai-ml-engineer)
+* [2024-04-18, 20:35:08](https://news.ycombinator.com/item?id=40080446) - [Which AI Writes the Best Code or Generates the Most Realistic Image?](https://www.nytimes.com/2024/04/15/technology/ai-models-measurement.html)
 * [2024-04-18, 20:31:09](https://news.ycombinator.com/item?id=40080406) - [Monowheels: Vehicles with Insufficient Wheels](http://www.douglas-self.com/MUSEUM/TRANSPORT/motorwhl/motorwhl.htm)
 * [2024-04-18, 20:17:20](https://news.ycombinator.com/item?id=40080266) - [The Theory That There Is Only One Electron in the Universe](https://www.iflscience.com/the-strange-theory-that-there-is-only-one-electron-in-the-universe-73818)
 * [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A life without eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
@@ -9,8 +12,6 @@
 * [2024-04-18, 18:52:36](https://news.ycombinator.com/item?id=40079494) - [CA insurance crisis: Thousands to lose coverage as two more insurers withdraw](https://www.sfchronicle.com/california/article/home-insurance-withdraw-19408863.php)
 * [2024-04-18, 18:08:26](https://news.ycombinator.com/item?id=40079014) - [Myths about the Anthropocene](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
 * [2024-04-18, 17:13:34](https://news.ycombinator.com/item?id=40078471) - [Thoughts on Seed Oil](https://dynomight.substack.com/p/seed-oil)
-* [2024-04-18, 17:09:55](https://news.ycombinator.com/item?id=40078430) - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
-* [2024-04-18, 17:04:32](https://news.ycombinator.com/item?id=40078380) - [Google’s newly formed 'Platforms and Devices' team is all about AI](https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh)
 * [2024-04-18, 16:50:04](https://news.ycombinator.com/item?id=40078195) - [Show HN: Vapi – Convince our voice AI to give you the secret code](https://blog.vapi.ai/show-hn-vapi-try-to-convince-our-voice-ai-to-give-you-the-secret-code/)
 * [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [I keep a WTF notebook (2021)](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 16:20:00](https://news.ycombinator.com/item?id=40077793) - [Dnsmasq wins the first BlueHats Prize](https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html)
@@ -29,7 +30,6 @@
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why the OpenSSL punycode vulnerability was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-17, 05:14:41](https://news.ycombinator.com/item?id=40060697) - [Not your mother's mall (2003)](https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php)
-* [2024-04-16, 14:12:27](https://news.ycombinator.com/item?id=40052159) - [How Pluto got its 'heart'](https://news.arizona.edu/news/how-pluto-got-its-heart)
 
 ## [Archives](archives/index.md)
 

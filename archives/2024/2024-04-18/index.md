@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
 * [2024-04-18, 21:17:16](https://news.ycombinator.com/item?id=40080816) - [Cops can force suspect to unlock phone with thumbprint, US court rules](https://arstechnica.com/tech-policy/2024/04/cops-can-force-suspect-to-unlock-phone-with-thumbprint-us-court-rules/)
+* [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 * [2024-04-18, 21:00:47](https://news.ycombinator.com/item?id=40080659) - [Draftaid (YC W24) Is Hiring a Founding AI/ML Engineer](https://www.ycombinator.com/companies/draftaid/jobs/7km301I-founding-ai-ml-engineer)
 * [2024-04-18, 20:47:14](https://news.ycombinator.com/item?id=40080548) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
 * [2024-04-18, 20:44:36](https://news.ycombinator.com/item?id=40080518) - [Moscow court opens trial against Meta spokesman Andy Stone](https://en.zona.media/article/2024/04/18/meta)
 * [2024-04-18, 20:42:48](https://news.ycombinator.com/item?id=40080506) - [Gentoo bans AI-created contributions](https://lwn.net/SubscriberLink/970072/93a5696aa497d415/)
+* [2024-04-18, 20:35:08](https://news.ycombinator.com/item?id=40080446) - [Which AI Writes the Best Code or Generates the Most Realistic Image?](https://www.nytimes.com/2024/04/15/technology/ai-models-measurement.html)
 * [2024-04-18, 20:31:09](https://news.ycombinator.com/item?id=40080406) - [Monowheels: Vehicles with Insufficient Wheels](http://www.douglas-self.com/MUSEUM/TRANSPORT/motorwhl/motorwhl.htm)
 * [2024-04-18, 20:17:20](https://news.ycombinator.com/item?id=40080266) - [The Theory That There Is Only One Electron in the Universe](https://www.iflscience.com/the-strange-theory-that-there-is-only-one-electron-in-the-universe-73818)
 * [2024-04-18, 19:52:00](https://news.ycombinator.com/item?id=40080036) - [Katherine Maher:\"free and open\" internet is a \"white male Westernized construct\"](https://twitter.com/realchrisrufo/status/1780929268949614848)
