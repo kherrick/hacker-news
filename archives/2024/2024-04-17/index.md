@@ -89,6 +89,7 @@
 * [2024-04-17, 09:26:47](https://news.ycombinator.com/item?id=40062263) - [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
 * [2024-04-17, 09:15:00](https://news.ycombinator.com/item?id=40062210) - [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 * [2024-04-17, 08:51:22](https://news.ycombinator.com/item?id=40062060) - [Why Alcohol Is the Deadliest Drug](https://www.addictioncenter.com/community/why-alcohol-is-the-deadliest-drug/)
+* [2024-04-17, 08:42:23](https://news.ycombinator.com/item?id=40061994) - [Analyzing a Baking Recipe](https://www.cookingforengineers.com/article/280/Analyzing-a-Baking-Recipe)
 * [2024-04-17, 08:15:36](https://news.ycombinator.com/item?id=40061831) - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
 * [2024-04-17, 07:55:50](https://news.ycombinator.com/item?id=40061707) - [Generation Z is unprecedentedly rich](https://www.economist.com/finance-and-economics/2024/04/16/generation-z-is-unprecedentedly-rich)
 * [2024-04-17, 07:35:01](https://news.ycombinator.com/item?id=40061597) - [Why the Higgs Field Is Nothing Like Molasses, Soup, or a Crowd](https://profmattstrassler.com/2024/04/16/why-the-higgs-field-is-nothing-like-molasses-soup-or-a-crowd/)
