@@ -6,6 +6,7 @@
 
 * [2024-04-18, 17:01:02](https://news.ycombinator.com/item?id=40078340) - [Keeling Labs (YC W23) –RL for Battery Optimization–Is Hiring a Senior Data Eng](https://www.keelinglabs.com)
 * [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [You Need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
+* [2024-04-18, 16:38:50](https://news.ycombinator.com/item?id=40078065) - [TSMC expects customers to pay more for chips fabbed overseas](https://www.theregister.com/2024/04/18/tsmc_overseas_costs/)
 * [2024-04-18, 16:20:00](https://news.ycombinator.com/item?id=40077793) - [Dnsmasq wins the first BlueHats Prize](https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html)
 * [2024-04-18, 16:08:14](https://news.ycombinator.com/item?id=40077665) - [New Assistant: Meta AI, Built with Llama 3](https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/)
 * [2024-04-18, 16:06:58](https://news.ycombinator.com/item?id=40077648) - [Meta AI](https://www.meta.ai/)
@@ -23,6 +24,7 @@
 * [2024-04-18, 13:41:05](https://news.ycombinator.com/item?id=40076128) - [A UK government-sponsored agency is censoring journalism](https://unherd.com/2024/04/inside-the-disinformation-industry/)
 * [2024-04-18, 13:19:05](https://news.ycombinator.com/item?id=40075901) - [EU tells Meta it can't paywall privacy](https://www.theregister.com/2024/04/18/eu_meta_subscription_privacy/)
 * [2024-04-18, 13:18:12](https://news.ycombinator.com/item?id=40075889) - [Mentally stimulating work plays key role in staving off dementia, study finds](https://www.theguardian.com/science/2024/apr/17/mentally-stimulating-work-plays-key-role-in-staving-off-dementia-study-finds)
+* [2024-04-18, 12:43:07](https://news.ycombinator.com/item?id=40075598) - [My mother declared my bedroom a disaster area](https://news.lettersofnote.com/p/my-mother-declared-my-bedroom-a-disaster)
 * [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
 * [2024-04-18, 12:35:43](https://news.ycombinator.com/item?id=40075539) - [Inside Amazon’s Secret Operation to Gather Intel on Rivals](https://www.wsj.com/business/retail/amazon-secret-operation-intel-rivals-eb82ea3c)
 * [2024-04-18, 12:22:11](https://news.ycombinator.com/item?id=40075437) - [AWS kills Snowmobile data transfer truck](https://www.cnbc.com/2024/04/17/aws-stops-selling-snowmobile-truck-for-cloud-migrations.html)
