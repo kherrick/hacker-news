@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-18, 02:17:34](https://news.ycombinator.com/item?id=40072295) - [Google fires 28 employees involved in sit-in protest over $1.2B Israel contract](https://nypost.com/2024/04/17/business/google-fires-28-employees-involved-in-sit-in-protest-over-1-2b-israel-contract/)
 * [2024-04-18, 01:23:18](https://news.ycombinator.com/item?id=40072021) - [Show HN: I also made a three-body simulation](https://three-bodies.sulami.xyz/)
 * [2024-04-18, 01:09:51](https://news.ycombinator.com/item?id=40071956) - [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
 * [2024-04-18, 01:04:36](https://news.ycombinator.com/item?id=40071921) - [A junk food diet can cause long-term damage to adolescent brains](https://today.usc.edu/take-it-from-the-rats-a-junk-food-diet-can-cause-long-term-damage-to-adolescent-brains/)
 * [2024-04-18, 00:53:05](https://news.ycombinator.com/item?id=40071843) - [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
 * [2024-04-18, 00:51:16](https://news.ycombinator.com/item?id=40071826) - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
-* [2024-04-18, 00:43:30](https://news.ycombinator.com/item?id=40071773) - [How Perfectly Can Reality Be Simulated?](https://www.newyorker.com/magazine/2024/04/22/can-the-world-be-simulated)
 * [2024-04-18, 00:43:27](https://news.ycombinator.com/item?id=40071772) - [Human hair transformed into renewable energy storage](https://news.csu.edu.au/latest-news/breaking-research-human-hair-transformed-into-renewable-energy-storage)
 * [2024-04-18, 00:38:33](https://news.ycombinator.com/item?id=40071737) - [MGM says FTC can't probe ransomware attack as Lina Khan was a guest at the time](https://www.theregister.com/2024/04/16/mgm_ftc_lawsuit/)
 * [2024-04-18, 00:37:21](https://news.ycombinator.com/item?id=40071728) - [Chemists Invent Drugs and Drugs Save Lives](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.202400074)
@@ -28,7 +26,9 @@
 * [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 10:57:52](https://news.ycombinator.com/item?id=40062867) - [First known fractal molecule](https://newatlas.com/biology/fractal-molecule-natural-mathematical-marvel/)
 * [2024-04-17, 05:59:26](https://news.ycombinator.com/item?id=40060974) - [Zint](https://zint.org.uk/)
+* [2024-04-17, 05:33:55](https://news.ycombinator.com/item?id=40060838) - [Praat: Doing Phonetics by Computer](https://www.fon.hum.uva.nl/praat/)
 * [2024-04-16, 19:02:13](https://news.ycombinator.com/item?id=40055908) - [Everything we can't describe in music](https://hazlitt.net/feature/everything-we-cant-describe-music)
+* [2024-04-16, 09:57:32](https://news.ycombinator.com/item?id=40050162) - [LCD displays still don't match the responsiveness of clunky CRT screens (2019)](https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd)
 * [2024-04-16, 07:29:03](https://news.ycombinator.com/item?id=40049258) - [Only <SPAN>s](https://onlyspans.net/)
 
 ## [Archives](archives/index.md)

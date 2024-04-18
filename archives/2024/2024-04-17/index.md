@@ -95,6 +95,7 @@
 * [2024-04-17, 05:50:39](https://news.ycombinator.com/item?id=40060929) - [Ur Quan Masters sequel Free Stars: Children of Infinity, by original devs](https://pistolshrimpgames.com/2024/04/kickstarter-launch-incoming/)
 * [2024-04-17, 05:48:46](https://news.ycombinator.com/item?id=40060915) - [How the Food Industry Pays Influencers to Shill Blueberries, Butter, and More](https://www.bonappetit.com/story/food-industry-influencers)
 * [2024-04-17, 05:45:43](https://news.ycombinator.com/item?id=40060901) - [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
+* [2024-04-17, 05:33:55](https://news.ycombinator.com/item?id=40060838) - [Praat: Doing Phonetics by Computer](https://www.fon.hum.uva.nl/praat/)
 * [2024-04-17, 05:20:54](https://news.ycombinator.com/item?id=40060739) - [The success of EVs is massively underreported](https://www.evuniverse.io/p/evsales2023)
 * [2024-04-17, 05:19:55](https://news.ycombinator.com/item?id=40060728) - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
 * [2024-04-17, 04:48:16](https://news.ycombinator.com/item?id=40060532) - [Google workers arrested after protesting company's work with Israel](https://www.washingtonpost.com/technology/2024/04/16/google-sit-in-employee-protest-nimbus-israel/)
