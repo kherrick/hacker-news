@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-04-18, 17:01:02",
+      "https://news.ycombinator.com/item?id=40078340"
+    ],
+    [
+      "Keeling Labs (YC W23) –RL for Battery Optimization–Is Hiring a Senior Data Eng",
+      "https://www.keelinglabs.com"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 16:42:04",
+      "https://news.ycombinator.com/item?id=40078106"
+    ],
+    [
+      "You Need a \"WTF Notebook\"",
+      "https://www.simplermachines.com/why-you-need-a-wtf-notebook/"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 16:20:00",
       "https://news.ycombinator.com/item?id=40077793"
     ],
     [
       "Dnsmasq wins the first BlueHats Prize",
       "https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 16:08:14",
-      "https://news.ycombinator.com/item?id=40077665"
-    ],
-    [
-      "New Assistant: Meta AI, Built with Llama 3",
-      "https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40077023"
     ],
     [
-      "Chinchilla Scaling: A Replication Attempt",
+      "Chinchilla Scaling: A replication attempt",
       "https://arxiv.org/abs/2404.10102"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Why Fugaku, Japan's fastest supercomputer, went virtual on AWS",
       "https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 12:00:42",
-      "https://news.ycombinator.com/item?id=40075267"
-    ],
-    [
-      "Keeper (YC S21) is hiring engineers to build a personal accountant for everyone",
-      "https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=40063555"
     ],
     [
-      "Feathers Are One of Evolution's Cleverest Inventions",
+      "Feathers are one of evolution's cleverest inventions",
       "https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40061483"
     ],
     [
-      "Why CVE-2022-3602 was not detected by fuzz testing",
+      "Why CVE-2022-3602 was not detected by fuzz testing (2022)",
       "http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html"
     ]
   ],
