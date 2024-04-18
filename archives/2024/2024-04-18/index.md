@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 19:22:59](https://news.ycombinator.com/item?id=40079816) - [Cloudflare CEO bought a newspaper to change reporting about his new house plans](https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
 * [2024-04-18, 19:11:36](https://news.ycombinator.com/item?id=40079702) - [Alexa, Change Your OKRs](https://residualthoughts.substack.com/p/alexa-change-your-okrs)
 * [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
 * [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
 * [2024-04-18, 18:21:32](https://news.ycombinator.com/item?id=40079159) - [Dissent is not hatred](https://thecritic.co.uk/dissent-is-not-hatred/)
+* [2024-04-18, 18:08:26](https://news.ycombinator.com/item?id=40079014) - [What Myths About the Anthropocene Get Wrong](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
 * [2024-04-18, 18:07:33](https://news.ycombinator.com/item?id=40079006) - [Should Apple Kill Siri and Start Over?](https://www.macrumors.com/2024/04/18/should-apple-kill-siri/)
 * [2024-04-18, 17:55:50](https://news.ycombinator.com/item?id=40078873) - [Why chocolate is skyrocketing in price](https://thehustle.co/originals/why-chocolate-is-skyrocketing-in-price)
 * [2024-04-18, 17:41:13](https://news.ycombinator.com/item?id=40078720) - [Ask HN: One-person companies–how do you manage it all and stay sane?](https://news.ycombinator.com/item?id=40078720)
