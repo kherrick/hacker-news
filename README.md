@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-18, 16:06:58](https://news.ycombinator.com/item?id=40077648) - [Meta AI](https://www.meta.ai/)
+* [2024-04-18, 16:03:52](https://news.ycombinator.com/item?id=40077601) - [Meta Releases Llama 3](https://ai.meta.com/blog/meta-llama-3/)
+* [2024-04-18, 15:57:28](https://news.ycombinator.com/item?id=40077535) - [All-cash offers, wealthy buyers push Southern California home prices to a record](https://www.latimes.com/homeless-housing/story/2024-04-11/all-cash-offers-wealthy-buyers-push-southern-california-home-prices-to-a-record)
+* [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 15:09:13](https://news.ycombinator.com/item?id=40077048) - [OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
 * [2024-04-18, 15:05:59](https://news.ycombinator.com/item?id=40077023) - [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
 * [2024-04-18, 15:01:53](https://news.ycombinator.com/item?id=40076991) - [Employers feel the side effects of drugmaker control over Wegovy, Ozempic costs](https://www.politico.com/news/2024/04/18/employers-drugmakers-weight-loss-drug-costs-00152927)
@@ -21,13 +25,9 @@
 * [2024-04-17, 20:17:11](https://news.ycombinator.com/item?id=40069599) - [Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 17:48:31](https://news.ycombinator.com/item?id=40067939) - [CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
-* [2024-04-17, 16:40:40](https://news.ycombinator.com/item?id=40067118) - [Extracting valuables from the San José galleon](https://www.popularmechanics.com/science/archaeology/a60430777/a-crew-is-extracting-the-holy-grail-of-shipwrecks-loaded-with-billions-in-lost-treasure/)
 * [2024-04-17, 16:37:23](https://news.ycombinator.com/item?id=40067070) - [A brief, weird history of brainwashing](https://www.technologyreview.com/2024/04/12/1090726/brainwashing-mind-control-history-operation-midnight-climax/)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers Are One of Evolution's Cleverest Inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
-* [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
-* [2024-04-17, 08:42:23](https://news.ycombinator.com/item?id=40061994) - [Analyzing a Baking Recipe](https://www.cookingforengineers.com/article/280/Analyzing-a-Baking-Recipe)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
-* [2024-04-17, 05:33:55](https://news.ycombinator.com/item?id=40060838) - [Praat: Doing Phonetics by Computer](https://www.fon.hum.uva.nl/praat/)
 * [2024-04-15, 21:39:03](https://news.ycombinator.com/item?id=40045940) - [Scientists solve long-standing mystery surrounding the moon's 'lopsided' geology](https://phys.org/news/2024-04-scientists-mystery-moon-lopsided-geology.html)
 * [2024-04-15, 10:20:36](https://news.ycombinator.com/item?id=40038620) - [Causality, Interaction, and Complexity](https://www.alexahn.com/2024/04/causality-interaction-and-complexity.html)
 

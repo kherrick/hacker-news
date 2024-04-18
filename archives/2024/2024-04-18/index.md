@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 16:06:58](https://news.ycombinator.com/item?id=40077648) - [Meta AI](https://www.meta.ai/)
+* [2024-04-18, 16:03:52](https://news.ycombinator.com/item?id=40077601) - [Meta Releases Llama 3](https://ai.meta.com/blog/meta-llama-3/)
+* [2024-04-18, 15:57:28](https://news.ycombinator.com/item?id=40077535) - [All-cash offers, wealthy buyers push Southern California home prices to a record](https://www.latimes.com/homeless-housing/story/2024-04-11/all-cash-offers-wealthy-buyers-push-southern-california-home-prices-to-a-record)
+* [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 15:31:16](https://news.ycombinator.com/item?id=40077273) - [Tesla risks losing its lead without an inexpensive EV](https://techcrunch.com/2024/04/09/tesla-musk-25k-ev-decision/)
 * [2024-04-18, 15:09:13](https://news.ycombinator.com/item?id=40077048) - [OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
 * [2024-04-18, 15:05:59](https://news.ycombinator.com/item?id=40077023) - [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
