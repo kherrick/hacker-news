@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
 * [2024-04-18, 15:31:16](https://news.ycombinator.com/item?id=40077273) - [Tesla risks losing its lead without an inexpensive EV](https://techcrunch.com/2024/04/09/tesla-musk-25k-ev-decision/)
+* [2024-04-18, 15:09:13](https://news.ycombinator.com/item?id=40077048) - [OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
 * [2024-04-18, 15:05:59](https://news.ycombinator.com/item?id=40077023) - [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
 * [2024-04-18, 15:01:53](https://news.ycombinator.com/item?id=40076991) - [Employers feel the side effects of drugmaker control over Wegovy, Ozempic costs](https://www.politico.com/news/2024/04/18/employers-drugmakers-weight-loss-drug-costs-00152927)
 * [2024-04-18, 14:46:50](https://news.ycombinator.com/item?id=40076848) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
