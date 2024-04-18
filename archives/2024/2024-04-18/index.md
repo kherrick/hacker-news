@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
 * [2024-04-18, 07:00:20](https://news.ycombinator.com/item?id=40073673) - [Langfuse (YC W23) Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
+* [2024-04-18, 06:43:44](https://news.ycombinator.com/item?id=40073580) - [Schiller doesn't know whether the App Store is profitable; no notes](https://9to5mac.com/2024/04/17/app-store-is-profitable-apple-notes/)
 * [2024-04-18, 04:17:20](https://news.ycombinator.com/item?id=40072893) - [Sei (YC W22) Is Hiring LLMOps (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/C2oRTUB-mlops-llmops-devops-engineer)
 * [2024-04-18, 04:17:03](https://news.ycombinator.com/item?id=40072892) - [Google Fires 28 Employees After Multi-City Protests](https://www.cnbc.com/2024/04/18/google-terminates-28-employees-after-series-of-protests-read-the-memo.html)
 * [2024-04-18, 03:39:25](https://news.ycombinator.com/item?id=40072731) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
