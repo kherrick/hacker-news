@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 21:56:39](https://news.ycombinator.com/item?id=40081175) - [Software Developers Have Health Risks](https://zetterr.substack.com/p/software-developers-have-health-risks)
+* [2024-04-18, 21:34:49](https://news.ycombinator.com/item?id=40080968) - [The modern state, not ideas, brought about religious freedom (2017)](https://aeon.co/essays/the-modern-state-not-ideas-brought-about-religious-freedom)
 * [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
 * [2024-04-18, 21:17:16](https://news.ycombinator.com/item?id=40080816) - [Cops can force suspect to unlock phone with thumbprint, US court rules](https://arstechnica.com/tech-policy/2024/04/cops-can-force-suspect-to-unlock-phone-with-thumbprint-us-court-rules/)
+* [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 * [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 * [2024-04-18, 21:00:47](https://news.ycombinator.com/item?id=40080659) - [Draftaid (YC W24) Is Hiring a Founding AI/ML Engineer](https://www.ycombinator.com/companies/draftaid/jobs/7km301I-founding-ai-ml-engineer)
 * [2024-04-18, 20:47:14](https://news.ycombinator.com/item?id=40080548) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
