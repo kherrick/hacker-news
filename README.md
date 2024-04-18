@@ -1,14 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
-* [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
-* [2024-04-18, 18:38:00](https://news.ycombinator.com/item?id=40079330) - [R3dfox: A fork of Firefox made specifically for Windows 7 and 8 compatibility](https://github.com/Eclipse-Community/r3dfox)
+* [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A life without eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
+* [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum – Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
 * [2024-04-18, 18:08:26](https://news.ycombinator.com/item?id=40079014) - [What Myths About the Anthropocene Get Wrong](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
+* [2024-04-18, 17:13:34](https://news.ycombinator.com/item?id=40078471) - [Thoughts on Seed Oil](https://dynomight.substack.com/p/seed-oil)
 * [2024-04-18, 17:09:55](https://news.ycombinator.com/item?id=40078430) - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
 * [2024-04-18, 17:04:32](https://news.ycombinator.com/item?id=40078380) - [Google is combining its Android and hardware teams – and it's all about AI](https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh)
 * [2024-04-18, 17:01:02](https://news.ycombinator.com/item?id=40078340) - [Keeling Labs (YC W23) –RL for Battery Optimization–Is Hiring a Senior Data Eng](https://www.keelinglabs.com)
 * [2024-04-18, 16:50:04](https://news.ycombinator.com/item?id=40078195) - [Show HN: Vapi – Convince our voice AI to give you the secret code](https://blog.vapi.ai/show-hn-vapi-try-to-convince-our-voice-ai-to-give-you-the-secret-code/)
-* [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [You need a \"WTF notebook\" (2021)](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
+* [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [I keep a WTF notebook (2021)](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 16:20:00](https://news.ycombinator.com/item?id=40077793) - [Dnsmasq wins the first BlueHats Prize](https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html)
 * [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 15:26:57](https://news.ycombinator.com/item?id=40077233) - [Multi-Tenant Queues in Postgres](https://docs.hatchet.run/blog/multi-tenant-queues)
@@ -29,7 +29,7 @@
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why CVE-2022-3602 was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-17, 05:14:41](https://news.ycombinator.com/item?id=40060697) - [Not your mother's mall (2003)](https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php)
-* [2024-04-16, 14:12:27](https://news.ycombinator.com/item?id=40052159) - [Pluto Got Its 'Heart'](https://news.arizona.edu/news/how-pluto-got-its-heart)
+* [2024-04-16, 14:12:27](https://news.ycombinator.com/item?id=40052159) - [How pluto got its 'heart'](https://news.arizona.edu/news/how-pluto-got-its-heart)
 
 ## [Archives](archives/index.md)
 
