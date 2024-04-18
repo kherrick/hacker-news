@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
 * [2024-04-18, 09:50:50](https://news.ycombinator.com/item?id=40074520) - [I Know the secret to the quiet mind. I wish I'd never learned it](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
+* [2024-04-18, 09:24:53](https://news.ycombinator.com/item?id=40074383) - [Cosmic Desktop: Hammering Out New Cosmic Features](https://blog.system76.com/post/hammering-out-cosmic-features)
 * [2024-04-18, 09:14:45](https://news.ycombinator.com/item?id=40074333) - [Google fires 28 workers in indiscriminate act of mass retaliation](https://twitter.com/katejsim/status/1780838795795136844)
 * [2024-04-18, 09:14:23](https://news.ycombinator.com/item?id=40074331) - [OpenAI's model all but matches doctors in assessing eye problems](https://www.ft.com/content/5b7a76be-467c-4074-8fd0-3e297bcd91d7)
 * [2024-04-18, 07:00:20](https://news.ycombinator.com/item?id=40073673) - [Langfuse (YC W23) Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)

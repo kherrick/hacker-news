@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-18, 09:50:50](https://news.ycombinator.com/item?id=40074520) - [I Know the secret to the quiet mind. I wish I'd never learned it](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
-* [2024-04-18, 09:14:45](https://news.ycombinator.com/item?id=40074333) - [Google fires 28 workers in indiscriminate act of mass retaliation](https://twitter.com/katejsim/status/1780838795795136844)
+* [2024-04-18, 09:50:50](https://news.ycombinator.com/item?id=40074520) - [I Know the secret to the quiet mind. I wish I'd never learned it (2021)](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
+* [2024-04-18, 09:24:53](https://news.ycombinator.com/item?id=40074383) - [Cosmic Desktop: Hammering Out New Cosmic Features](https://blog.system76.com/post/hammering-out-cosmic-features)
 * [2024-04-18, 09:14:23](https://news.ycombinator.com/item?id=40074331) - [OpenAI's model all but matches doctors in assessing eye problems](https://www.ft.com/content/5b7a76be-467c-4074-8fd0-3e297bcd91d7)
 * [2024-04-18, 07:00:20](https://news.ycombinator.com/item?id=40073673) - [Langfuse (YC W23) Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
 * [2024-04-18, 05:05:54](https://news.ycombinator.com/item?id=40073139) - [OpenBSD – Coming soon to a -current system near you: parallel raw IP input](https://www.undeadly.org/cgi?action=article;sid=20240418050520)
@@ -21,6 +21,7 @@
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
+* [2024-04-17, 15:11:26](https://news.ycombinator.com/item?id=40065821) - [libxev: A cross-platform, high-performance event loop](https://github.com/mitchellh/libxev)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An electric new era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 * [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 10:57:52](https://news.ycombinator.com/item?id=40062867) - [First known fractal molecule](https://newatlas.com/biology/fractal-molecule-natural-mathematical-marvel/)
@@ -28,7 +29,6 @@
 * [2024-04-17, 07:31:14](https://news.ycombinator.com/item?id=40061576) - [A proof that Meson is Turing-Complete](https://github.com/xorvoid/meson-brainfuck)
 * [2024-04-17, 05:52:57](https://news.ycombinator.com/item?id=40060939) - [How Matzo Is Made](https://www.bloomberg.com/features/2024-streits-matzo-factory-passover/)
 * [2024-04-17, 05:33:55](https://news.ycombinator.com/item?id=40060838) - [Praat: Doing Phonetics by Computer](https://www.fon.hum.uva.nl/praat/)
-* [2024-04-16, 07:29:03](https://news.ycombinator.com/item?id=40049258) - [Only <SPAN>s](https://onlyspans.net/)
 * [2024-04-15, 21:39:03](https://news.ycombinator.com/item?id=40045940) - [Scientists solve long-standing mystery surrounding the moon's 'lopsided' geology](https://phys.org/news/2024-04-scientists-mystery-moon-lopsided-geology.html)
 
 ## [Archives](archives/index.md)
