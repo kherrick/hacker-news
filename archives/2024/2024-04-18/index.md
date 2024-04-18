@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 12:00:42](https://news.ycombinator.com/item?id=40075267) - [Keeper (YC S21) is hiring engineers to build a personal accountant for everyone](https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote)
 * [2024-04-18, 10:51:59](https://news.ycombinator.com/item?id=40074857) - [Europe gives TikTok 24 hours to explain 'addictive and toxic' new app](https://www.theregister.com/2024/04/18/tiktok_lite_eu_info_demand/)
 * [2024-04-18, 10:50:04](https://news.ycombinator.com/item?id=40074850) - [EU science advisers back call for a 'CERN for AI' to aid research](https://sciencebusiness.net/news/ai/eu-science-advisers-back-call-cern-ai-aid-research)
 * [2024-04-18, 09:50:50](https://news.ycombinator.com/item?id=40074520) - [I Know the secret to the quiet mind. I wish I'd never learned it](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
