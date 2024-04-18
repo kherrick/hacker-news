@@ -91,6 +91,7 @@
 * [2024-04-17, 08:15:36](https://news.ycombinator.com/item?id=40061831) - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
 * [2024-04-17, 07:55:50](https://news.ycombinator.com/item?id=40061707) - [Generation Z is unprecedentedly rich](https://www.economist.com/finance-and-economics/2024/04/16/generation-z-is-unprecedentedly-rich)
 * [2024-04-17, 07:35:01](https://news.ycombinator.com/item?id=40061597) - [Why the Higgs Field Is Nothing Like Molasses, Soup, or a Crowd](https://profmattstrassler.com/2024/04/16/why-the-higgs-field-is-nothing-like-molasses-soup-or-a-crowd/)
+* [2024-04-17, 07:31:14](https://news.ycombinator.com/item?id=40061576) - [A proof that Meson is Turing-Complete](https://github.com/xorvoid/meson-brainfuck)
 * [2024-04-17, 07:02:12](https://news.ycombinator.com/item?id=40061382) - [Google will pump more than $100B into AI says DeepMind boss](https://www.theregister.com/2024/04/17/google_deepmind_funding/)
 * [2024-04-17, 07:00:32](https://news.ycombinator.com/item?id=40061373) - [Show HN: Privacy Manifest CLI tool for iOS apps](https://github.com/stelabouras/privacy-manifest)
 * [2024-04-17, 06:51:13](https://news.ycombinator.com/item?id=40061298) - [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
