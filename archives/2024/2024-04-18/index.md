@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
 * [2024-04-18, 02:17:34](https://news.ycombinator.com/item?id=40072295) - [Google fires 28 employees involved in sit-in protest over $1.2B Israel contract](https://nypost.com/2024/04/17/business/google-fires-28-employees-involved-in-sit-in-protest-over-1-2b-israel-contract/)
+* [2024-04-18, 02:15:03](https://news.ycombinator.com/item?id=40072283) - [SCOTUS Declines to Review First Amendment Mass Protest Rights Case](https://truthout.org/articles/scotus-declines-to-review-first-amendment-mass-protest-rights-case/)
 * [2024-04-18, 01:23:18](https://news.ycombinator.com/item?id=40072021) - [Show HN: I also made a three-body simulation](https://three-bodies.sulami.xyz/)
 * [2024-04-18, 01:09:51](https://news.ycombinator.com/item?id=40071956) - [A single atom layer of gold – LiU researchers create goldene](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
 * [2024-04-18, 01:07:12](https://news.ycombinator.com/item?id=40071940) - [Nvidia Speech and Translation AI Models Set Records for Speed and Accuracy](https://developer.nvidia.com/blog/nvidia-speech-and-translation-ai-models-set-records-for-speed-and-accuracy/)
