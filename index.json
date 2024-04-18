@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-18, 15:05:59",
+      "https://news.ycombinator.com/item?id=40077023"
+    ],
+    [
+      "Chinchilla Scaling: A Replication Attempt",
+      "https://arxiv.org/abs/2404.10102"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 14:46:50",
+      "https://news.ycombinator.com/item?id=40076848"
+    ],
+    [
+      "Hermit is a hermetic and reproducible sandbox for running programs",
+      "https://github.com/facebookexperimental/hermit"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 14:31:24",
       "https://news.ycombinator.com/item?id=40076692"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-04-18, 09:50:50",
-      "https://news.ycombinator.com/item?id=40074520"
-    ],
-    [
-      "I Know the secret to the quiet mind. I wish I'd never learned it (2021)",
-      "https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 08:22:04",
       "https://news.ycombinator.com/item?id=40074086"
     ],
@@ -197,16 +207,6 @@
     [
       "CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred",
       "https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 17:26:09",
-      "https://news.ycombinator.com/item?id=40067677"
-    ],
-    [
-      "Show HN: Speeding up LLM inference 2x times (possibly)",
-      "https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61"
     ]
   ],
   [
