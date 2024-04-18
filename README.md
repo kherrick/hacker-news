@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-18, 04:17:20](https://news.ycombinator.com/item?id=40072893) - [Sei (YC W22) Is Hiring LLMOps (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/C2oRTUB-mlops-llmops-devops-engineer)
-* [2024-04-18, 04:17:03](https://news.ycombinator.com/item?id=40072892) - [Google Fires 28 Employees After Multi-City Protests](https://www.cnbc.com/2024/04/18/google-terminates-28-employees-after-series-of-protests-read-the-memo.html)
 * [2024-04-18, 01:09:51](https://news.ycombinator.com/item?id=40071956) - [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
 * [2024-04-18, 00:53:05](https://news.ycombinator.com/item?id=40071843) - [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
 * [2024-04-18, 00:51:16](https://news.ycombinator.com/item?id=40071826) - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
@@ -19,6 +18,7 @@
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
 * [2024-04-17, 16:43:36](https://news.ycombinator.com/item?id=40067158) - [Joseph Priestley created revolutionary \"maps\" of time](https://www.neh.gov/article/joseph-priestley-created-revolutionary-maps-time)
+* [2024-04-17, 16:30:31](https://news.ycombinator.com/item?id=40066975) - [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
 * [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
 * [2024-04-17, 15:11:26](https://news.ycombinator.com/item?id=40065821) - [libxev: A cross-platform, high-performance event loop](https://github.com/mitchellh/libxev)
 * [2024-04-17, 13:12:14](https://news.ycombinator.com/item?id=40064105) - [An electric new era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
