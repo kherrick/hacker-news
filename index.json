@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-04-18, 16:06:58",
-      "https://news.ycombinator.com/item?id=40077648"
+      "2024-04-18, 16:08:14",
+      "https://news.ycombinator.com/item?id=40077665"
     ],
     [
-      "Meta AI",
-      "https://www.meta.ai/"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 16:03:52",
-      "https://news.ycombinator.com/item?id=40077601"
-    ],
-    [
-      "Meta Releases Llama 3",
-      "https://ai.meta.com/blog/meta-llama-3/"
+      "New Assistant: Meta AI, Built with Llama 3",
+      "https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/"
     ]
   ],
   [
@@ -57,16 +47,6 @@
     [
       "Chinchilla Scaling: A Replication Attempt",
       "https://arxiv.org/abs/2404.10102"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 15:01:53",
-      "https://news.ycombinator.com/item?id=40076991"
-    ],
-    [
-      "Employers feel the side effects of drugmaker control over Wegovy, Ozempic costs",
-      "https://www.politico.com/news/2024/04/18/employers-drugmakers-weight-loss-drug-costs-00152927"
     ]
   ],
   [
@@ -191,16 +171,6 @@
   ],
   [
     [
-      "2024-04-18, 00:53:05",
-      "https://news.ycombinator.com/item?id=40071843"
-    ],
-    [
-      "Implementing Natural Conversational Agents with Elixir",
-      "https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 00:51:16",
       "https://news.ycombinator.com/item?id=40071826"
     ],
@@ -211,22 +181,22 @@
   ],
   [
     [
-      "2024-04-17, 23:59:30",
-      "https://news.ycombinator.com/item?id=40071463"
-    ],
-    [
-      "Math Puzzles",
-      "https://jrmf.org/puzzle/"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 20:17:11",
       "https://news.ycombinator.com/item?id=40069599"
     ],
     [
       "Hardest problem in computer science: centering things",
       "https://tonsky.me/blog/centering/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 19:46:46",
+      "https://news.ycombinator.com/item?id=40069298"
+    ],
+    [
+      "Cyc: History's Forgotten AI Project",
+      "https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project"
     ]
   ],
   [
@@ -271,12 +241,42 @@
   ],
   [
     [
+      "2024-04-17, 12:00:32",
+      "https://news.ycombinator.com/item?id=40063367"
+    ],
+    [
+      "How many bathrooms have Neanderthals in the tile?",
+      "https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 08:42:23",
+      "https://news.ycombinator.com/item?id=40061994"
+    ],
+    [
+      "Analyzing a Baking Recipe",
+      "https://www.cookingforengineers.com/article/280/Analyzing-a-Baking-Recipe"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 07:14:28",
       "https://news.ycombinator.com/item?id=40061483"
     ],
     [
       "Why CVE-2022-3602 was not detected by fuzz testing",
       "http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 05:33:55",
+      "https://news.ycombinator.com/item?id=40060838"
+    ],
+    [
+      "Praat: Doing Phonetics by Computer",
+      "https://www.fon.hum.uva.nl/praat/"
     ]
   ],
   [
