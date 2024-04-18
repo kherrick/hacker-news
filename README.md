@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-18, 17:09:55](https://news.ycombinator.com/item?id=40078430) - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
 * [2024-04-18, 17:01:02](https://news.ycombinator.com/item?id=40078340) - [Keeling Labs (YC W23) –RL for Battery Optimization–Is Hiring a Senior Data Eng](https://www.keelinglabs.com)
 * [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [You Need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 16:38:50](https://news.ycombinator.com/item?id=40078065) - [TSMC expects customers to pay more for chips fabbed overseas](https://www.theregister.com/2024/04/18/tsmc_overseas_costs/)
@@ -24,7 +25,6 @@
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 * [2024-04-17, 16:37:23](https://news.ycombinator.com/item?id=40067070) - [A brief, weird history of brainwashing](https://www.technologyreview.com/2024/04/12/1090726/brainwashing-mind-control-history-operation-midnight-climax/)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
-* [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 08:42:23](https://news.ycombinator.com/item?id=40061994) - [Analyzing a Baking Recipe](https://www.cookingforengineers.com/article/280/Analyzing-a-Baking-Recipe)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why CVE-2022-3602 was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-17, 05:14:41](https://news.ycombinator.com/item?id=40060697) - [Not your mother's mall (2003)](https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php)

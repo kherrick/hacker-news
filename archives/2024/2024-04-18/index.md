@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 17:09:55](https://news.ycombinator.com/item?id=40078430) - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
 * [2024-04-18, 17:01:02](https://news.ycombinator.com/item?id=40078340) - [Keeling Labs (YC W23) –RL for Battery Optimization–Is Hiring a Senior Data Eng](https://www.keelinglabs.com)
 * [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [You Need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 16:38:50](https://news.ycombinator.com/item?id=40078065) - [TSMC expects customers to pay more for chips fabbed overseas](https://www.theregister.com/2024/04/18/tsmc_overseas_costs/)
