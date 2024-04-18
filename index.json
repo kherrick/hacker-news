@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-18, 22:13:13",
+      "https://news.ycombinator.com/item?id=40081314"
+    ],
+    [
+      "The Rust Calling Convention We Deserve",
+      "https://mcyoung.xyz/2024/04/17/calling-convention/"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 21:59:33",
+      "https://news.ycombinator.com/item?id=40081201"
+    ],
+    [
+      "Dickey Betts, hit-crafting mainstay of Allman Brothers Band, dies at 80",
+      "https://www.washingtonpost.com/obituaries/2024/04/18/dickey-betts-allman-brothers-dead/"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 21:28:47",
       "https://news.ycombinator.com/item?id=40080910"
     ],
@@ -81,32 +101,12 @@
   ],
   [
     [
-      "2024-04-18, 18:52:36",
-      "https://news.ycombinator.com/item?id=40079494"
-    ],
-    [
-      "CA insurance crisis: Thousands to lose coverage as two more insurers withdraw",
-      "https://www.sfchronicle.com/california/article/home-insurance-withdraw-19408863.php"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 18:08:26",
       "https://news.ycombinator.com/item?id=40079014"
     ],
     [
       "Myths about the Anthropocene",
       "https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 17:32:32",
-      "https://news.ycombinator.com/item?id=40078644"
-    ],
-    [
-      "Mark Zuckerberg: Llama 3, $10B Models, Caesar Augustus, Bioweapons [video]",
-      "https://www.youtube.com/watch?v=bc6uFV9CJGg"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-04-17, 12:12:50",
+      "https://news.ycombinator.com/item?id=40063499"
+    ],
+    [
+      "Erasure Coding (Forward Error Correction)",
+      "https://en.wikipedia.org/wiki/Erasure_code"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 07:14:28",
       "https://news.ycombinator.com/item?id=40061483"
     ],
     [
       "Why the OpenSSL punycode vulnerability was not detected by fuzz testing (2022)",
       "http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 05:14:41",
-      "https://news.ycombinator.com/item?id=40060697"
-    ],
-    [
-      "Not your mother's mall (2003)",
-      "https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php"
     ]
   ]
 ]
