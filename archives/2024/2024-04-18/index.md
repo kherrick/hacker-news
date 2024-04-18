@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
 * [2024-04-18, 18:21:32](https://news.ycombinator.com/item?id=40079159) - [Dissent is not hatred](https://thecritic.co.uk/dissent-is-not-hatred/)
 * [2024-04-18, 18:07:33](https://news.ycombinator.com/item?id=40079006) - [Should Apple Kill Siri and Start Over?](https://www.macrumors.com/2024/04/18/should-apple-kill-siri/)
 * [2024-04-18, 17:55:50](https://news.ycombinator.com/item?id=40078873) - [Why chocolate is skyrocketing in price](https://thehustle.co/originals/why-chocolate-is-skyrocketing-in-price)
