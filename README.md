@@ -16,6 +16,7 @@
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
 * [2024-04-17, 17:16:13](https://news.ycombinator.com/item?id=40067556) - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
+* [2024-04-17, 17:09:04](https://news.ycombinator.com/item?id=40067484) - [Show HN: A self-published art book about Google's first 25 years](https://www.damaia.com/google)
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
 * [2024-04-17, 16:43:36](https://news.ycombinator.com/item?id=40067158) - [Joseph Priestley created revolutionary \"maps\" of time](https://www.neh.gov/article/joseph-priestley-created-revolutionary-maps-time)
@@ -28,7 +29,6 @@
 * [2024-04-17, 10:56:10](https://news.ycombinator.com/item?id=40062853) - [Linus Torvalds adds arbitrary tabs to kernel code](https://arstechnica.com/gadgets/2024/04/linus-torvalds-reiterates-his-tabs-versus-spaces-stance-with-a-kernel-trap/)
 * [2024-04-17, 05:52:57](https://news.ycombinator.com/item?id=40060939) - [How Matzo Is Made](https://www.bloomberg.com/features/2024-streits-matzo-factory-passover/)
 * [2024-04-17, 05:33:55](https://news.ycombinator.com/item?id=40060838) - [Praat: Doing Phonetics by Computer](https://www.fon.hum.uva.nl/praat/)
-* [2024-04-16, 19:02:13](https://news.ycombinator.com/item?id=40055908) - [Everything we can't describe in music](https://hazlitt.net/feature/everything-we-cant-describe-music)
 * [2024-04-16, 07:29:03](https://news.ycombinator.com/item?id=40049258) - [Only <SPAN>s](https://onlyspans.net/)
 
 ## [Archives](archives/index.md)
