@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-18, 23:20:08](https://news.ycombinator.com/item?id=40081761) - [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
 * [2024-04-18, 22:13:13](https://news.ycombinator.com/item?id=40081314) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2024-04-18, 21:59:33](https://news.ycombinator.com/item?id=40081201) - [Dickey Betts, hit-crafting mainstay of Allman Brothers Band, dies at 80](https://www.washingtonpost.com/obituaries/2024/04/18/dickey-betts-allman-brothers-dead/)
 * [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
@@ -25,7 +26,6 @@
 * [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
 * [2024-04-18, 12:35:43](https://news.ycombinator.com/item?id=40075539) - [Inside Amazon’s Secret Operation to Gather Intel on Rivals](https://www.wsj.com/business/retail/amazon-secret-operation-intel-rivals-eb82ea3c)
 * [2024-04-18, 12:16:30](https://news.ycombinator.com/item?id=40075402) - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
-* [2024-04-18, 08:22:04](https://news.ycombinator.com/item?id=40074086) - [The Domino Computer](https://www.andrewt.net/maths/domputer/)
 * [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why the OpenSSL punycode vulnerability was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)

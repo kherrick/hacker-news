@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 23:20:08](https://news.ycombinator.com/item?id=40081761) - [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
 * [2024-04-18, 22:23:16](https://news.ycombinator.com/item?id=40081387) - [United States blocks Palestinian request for full UN membership](https://www.cbc.ca/news/world/un-palestinian-united-states-veto-1.7178152)
 * [2024-04-18, 22:17:39](https://news.ycombinator.com/item?id=40081342) - [Hyundai pauses X ads over pro-Nazi content on the platform](https://www.nbcnews.com/tech/tech-news/hyundai-pauses-x-ads-nazi-content-platform-rcna148414)
 * [2024-04-18, 22:13:13](https://news.ycombinator.com/item?id=40081314) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
