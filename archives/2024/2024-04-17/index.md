@@ -77,6 +77,7 @@
 * [2024-04-17, 11:17:29](https://news.ycombinator.com/item?id=40062987) - [Security Vulnerability in Browser Interface Allows Computer Access via GPU](https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte)
 * [2024-04-17, 11:02:32](https://news.ycombinator.com/item?id=40062892) - [The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
 * [2024-04-17, 10:57:52](https://news.ycombinator.com/item?id=40062867) - [First known fractal molecule](https://newatlas.com/biology/fractal-molecule-natural-mathematical-marvel/)
+* [2024-04-17, 10:56:10](https://news.ycombinator.com/item?id=40062853) - [Linus Torvalds adds arbitrary tabs to kernel code](https://arstechnica.com/gadgets/2024/04/linus-torvalds-reiterates-his-tabs-versus-spaces-stance-with-a-kernel-trap/)
 * [2024-04-17, 10:42:58](https://news.ycombinator.com/item?id=40062774) - [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
 * [2024-04-17, 10:15:57](https://news.ycombinator.com/item?id=40062590) - [Blaze: A High Performance C++ Math Library](https://bitbucket.org/blaze-lib/blaze/src/master/)
 * [2024-04-17, 10:11:50](https://news.ycombinator.com/item?id=40062552) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam (2023)](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
