@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 14:01:06](https://news.ycombinator.com/item?id=40076345) - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
 * [2024-04-18, 13:41:05](https://news.ycombinator.com/item?id=40076128) - [A UK government-sponsored agency is censoring journalism](https://unherd.com/2024/04/inside-the-disinformation-industry/)
 * [2024-04-18, 13:19:05](https://news.ycombinator.com/item?id=40075901) - [EU tells Meta it can't paywall privacy](https://www.theregister.com/2024/04/18/eu_meta_subscription_privacy/)
 * [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
