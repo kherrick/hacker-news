@@ -25,6 +25,7 @@
 * [2024-04-18, 17:41:13](https://news.ycombinator.com/item?id=40078720) - [Ask HN: One-person companies–how do you manage it all and stay sane?](https://news.ycombinator.com/item?id=40078720)
 * [2024-04-18, 17:38:25](https://news.ycombinator.com/item?id=40078698) - [François Chollet – Creating Keras 3 [video]](https://www.youtube.com/watch?v=oe6fuxhGVRE)
 * [2024-04-18, 17:37:11](https://news.ycombinator.com/item?id=40078686) - [Windows 10 will start nagging you to switch from local account to MS Account](https://www.neowin.net/news/windows-10-will-soon-start-nagging-you-to-switch-from-local-account-to-microsoft-account/)
+* [2024-04-18, 17:32:32](https://news.ycombinator.com/item?id=40078644) - [Mark Zuckerberg: Llama 3, $10B Models, Caesar Augustus, Bioweapons [video]](https://www.youtube.com/watch?v=bc6uFV9CJGg)
 * [2024-04-18, 17:29:41](https://news.ycombinator.com/item?id=40078623) - [Run Meta Llama 3 with an API](https://replicate.com/blog/run-llama-3-with-an-api)
 * [2024-04-18, 17:13:34](https://news.ycombinator.com/item?id=40078471) - [Thoughts on Seed Oil](https://dynomight.substack.com/p/seed-oil)
 * [2024-04-18, 17:09:55](https://news.ycombinator.com/item?id=40078430) - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)

@@ -89,6 +89,7 @@
 * [2024-04-17, 10:42:58](https://news.ycombinator.com/item?id=40062774) - [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
 * [2024-04-17, 10:15:57](https://news.ycombinator.com/item?id=40062590) - [Blaze: A High Performance C++ Math Library](https://bitbucket.org/blaze-lib/blaze/src/master/)
 * [2024-04-17, 10:11:50](https://news.ycombinator.com/item?id=40062552) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam (2023)](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
+* [2024-04-17, 09:49:55](https://news.ycombinator.com/item?id=40062395) - [Behind the scene: This is a teenager](https://bigcharts.substack.com/p/behind-the-scene-this-is-a-teenager)
 * [2024-04-17, 09:28:05](https://news.ycombinator.com/item?id=40062271) - [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
 * [2024-04-17, 09:26:47](https://news.ycombinator.com/item?id=40062263) - [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
 * [2024-04-17, 09:15:00](https://news.ycombinator.com/item?id=40062210) - [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
