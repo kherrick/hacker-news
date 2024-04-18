@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-18, 18:07:33](https://news.ycombinator.com/item?id=40079006) - [Should Apple Kill Siri and Start Over?](https://www.macrumors.com/2024/04/18/should-apple-kill-siri/)
+* [2024-04-18, 17:55:50](https://news.ycombinator.com/item?id=40078873) - [Why chocolate is skyrocketing in price](https://thehustle.co/originals/why-chocolate-is-skyrocketing-in-price)
 * [2024-04-18, 17:41:13](https://news.ycombinator.com/item?id=40078720) - [Ask HN: One-person companies–how do you manage it all and stay sane?](https://news.ycombinator.com/item?id=40078720)
 * [2024-04-18, 17:37:11](https://news.ycombinator.com/item?id=40078686) - [Windows 10 will start nagging you to switch from local account to MS Account](https://www.neowin.net/news/windows-10-will-soon-start-nagging-you-to-switch-from-local-account-to-microsoft-account/)
 * [2024-04-18, 17:09:55](https://news.ycombinator.com/item?id=40078430) - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
@@ -24,7 +25,6 @@
 * [2024-04-17, 20:17:11](https://news.ycombinator.com/item?id=40069599) - [Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 17:48:31](https://news.ycombinator.com/item?id=40067939) - [CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
-* [2024-04-17, 16:37:23](https://news.ycombinator.com/item?id=40067070) - [A brief, weird history of brainwashing](https://www.technologyreview.com/2024/04/12/1090726/brainwashing-mind-control-history-operation-midnight-climax/)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why CVE-2022-3602 was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-15, 21:39:03](https://news.ycombinator.com/item?id=40045940) - [Scientists solve long-standing mystery surrounding the moon's 'lopsided' geology](https://phys.org/news/2024-04-scientists-mystery-moon-lopsided-geology.html)

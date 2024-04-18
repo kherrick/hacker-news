@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
 * [2024-04-18, 18:07:33](https://news.ycombinator.com/item?id=40079006) - [Should Apple Kill Siri and Start Over?](https://www.macrumors.com/2024/04/18/should-apple-kill-siri/)
+* [2024-04-18, 17:55:50](https://news.ycombinator.com/item?id=40078873) - [Why chocolate is skyrocketing in price](https://thehustle.co/originals/why-chocolate-is-skyrocketing-in-price)
 * [2024-04-18, 17:41:13](https://news.ycombinator.com/item?id=40078720) - [Ask HN: One-person companies–how do you manage it all and stay sane?](https://news.ycombinator.com/item?id=40078720)
 * [2024-04-18, 17:37:11](https://news.ycombinator.com/item?id=40078686) - [Windows 10 will start nagging you to switch from local account to MS Account](https://www.neowin.net/news/windows-10-will-soon-start-nagging-you-to-switch-from-local-account-to-microsoft-account/)
 * [2024-04-18, 17:29:41](https://news.ycombinator.com/item?id=40078623) - [Run Meta Llama 3 with an API](https://replicate.com/blog/run-llama-3-with-an-api)
