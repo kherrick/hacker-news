@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 14:24:29](https://news.ycombinator.com/item?id=40076620) - [USAF Test Pilot School, DARPA announce aerospace machine learning breakthrough](https://www.edwards.af.mil/News/Article-View/Article/3744695/usaf-test-pilot-school-and-darpa-announce-breakthrough-in-aerospace-machine-lea/)
 * [2024-04-18, 14:01:06](https://news.ycombinator.com/item?id=40076345) - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
 * [2024-04-18, 13:41:05](https://news.ycombinator.com/item?id=40076128) - [A UK government-sponsored agency is censoring journalism](https://unherd.com/2024/04/inside-the-disinformation-industry/)
 * [2024-04-18, 13:19:05](https://news.ycombinator.com/item?id=40075901) - [EU tells Meta it can't paywall privacy](https://www.theregister.com/2024/04/18/eu_meta_subscription_privacy/)
+* [2024-04-18, 13:18:12](https://news.ycombinator.com/item?id=40075889) - [Mentally stimulating work plays key role in staving off dementia, study finds](https://www.theguardian.com/science/2024/apr/17/mentally-stimulating-work-plays-key-role-in-staving-off-dementia-study-finds)
 * [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
 * [2024-04-18, 12:35:43](https://news.ycombinator.com/item?id=40075539) - [Inside Amazon’s Secret Operation to Gather Intel on Rivals](https://www.wsj.com/business/retail/amazon-secret-operation-intel-rivals-eb82ea3c)
 * [2024-04-18, 12:22:11](https://news.ycombinator.com/item?id=40075437) - [AWS kills Snowmobile data transfer truck](https://www.cnbc.com/2024/04/17/aws-stops-selling-snowmobile-truck-for-cloud-migrations.html)
