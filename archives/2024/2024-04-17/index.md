@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 23:59:30](https://news.ycombinator.com/item?id=40071463) - [Math Puzzles](https://jrmf.org/puzzle/)
 * [2024-04-17, 22:42:03](https://news.ycombinator.com/item?id=40070853) - [House passes bill requiring warrant to purchase data from third parties](https://thehill.com/homenews/house/4601266-house-passes-bill-requiring-warrant-to-purchase-data-from-third-parties/)
 * [2024-04-17, 22:08:23](https://news.ycombinator.com/item?id=40070570) - [Fr. Gregor Johann Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel)
 * [2024-04-17, 21:55:41](https://news.ycombinator.com/item?id=40070465) - [Feeling duped by Amazon's \"magical AI\" bullshit](https://a.wholelottanothing.org/feeling-duped-by-amazon/)
@@ -75,6 +76,7 @@
 * [2024-04-17, 11:21:39](https://news.ycombinator.com/item?id=40063014) - [Show HN: Open Source TailwindCSS UI Components](https://github.com/EasyFrontend-com/html-tailwindcss-components)
 * [2024-04-17, 11:17:29](https://news.ycombinator.com/item?id=40062987) - [Security Vulnerability in Browser Interface Allows Computer Access via GPU](https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte)
 * [2024-04-17, 11:02:32](https://news.ycombinator.com/item?id=40062892) - [The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
+* [2024-04-17, 10:57:52](https://news.ycombinator.com/item?id=40062867) - [First known fractal molecule](https://newatlas.com/biology/fractal-molecule-natural-mathematical-marvel/)
 * [2024-04-17, 10:42:58](https://news.ycombinator.com/item?id=40062774) - [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
 * [2024-04-17, 10:15:57](https://news.ycombinator.com/item?id=40062590) - [Blaze: A High Performance C++ Math Library](https://bitbucket.org/blaze-lib/blaze/src/master/)
 * [2024-04-17, 10:11:50](https://news.ycombinator.com/item?id=40062552) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam (2023)](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)

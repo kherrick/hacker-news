@@ -104,6 +104,7 @@
 * [2024-04-16, 07:57:49](https://news.ycombinator.com/item?id=40049457) - [Microsoft Invests $1.5B in G42](https://news.microsoft.com/2024/04/15/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/)
 * [2024-04-16, 07:50:36](https://news.ycombinator.com/item?id=40049400) - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
 * [2024-04-16, 07:42:57](https://news.ycombinator.com/item?id=40049356) - [NASA Technology Helps Guard Against Lunar Dust](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/)
+* [2024-04-16, 07:29:03](https://news.ycombinator.com/item?id=40049258) - [Only <SPAN>s](https://onlyspans.net/)
 * [2024-04-16, 06:33:56](https://news.ycombinator.com/item?id=40048960) - [Should You Use Upper Bound Version Constraints (In Python)?](https://iscinumpy.dev/post/bound-version-constraints/)
 * [2024-04-16, 06:17:49](https://news.ycombinator.com/item?id=40048880) - [Amazon Echo Hacking Wiki](https://github.com/echohacking/wiki/wiki)
 * [2024-04-16, 06:17:08](https://news.ycombinator.com/item?id=40048874) - [Scammers are targeting teenage boys on social media and driving some to suicide](https://www.bloomberg.com/features/2024-sextortion-teen-suicides/)
