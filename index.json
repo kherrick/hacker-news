@@ -21,11 +21,31 @@
   ],
   [
     [
+      "2024-04-18, 18:38:11",
+      "https://news.ycombinator.com/item?id=40079333"
+    ],
+    [
+      "Lacework, last valued at $8.3B, is in talks to sell for just $150M to $300M",
+      "https://techcrunch.com/2024/04/18/wiz-is-in-talks-to-buy-lacework-for-150-200m-security-firm-was-last-valued-at-8-3b/"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 18:29:18",
+      "https://news.ycombinator.com/item?id=40079243"
+    ],
+    [
+      "AI Has Made Google Search So Bad People Are Moving to TikTok and Reddit",
+      "https://medium.com/bouncin-and-behavin-blogs/ai-has-made-google-search-so-bad-people-are-moving-to-tiktok-reddit-6ac0b4801d2e"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 18:08:26",
       "https://news.ycombinator.com/item?id=40079014"
     ],
     [
-      "What Myths About the Anthropocene Get Wrong",
+      "Myths about the Anthropocene",
       "https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40078380"
     ],
     [
-      "Google is combining its Android and hardware teams – and it's all about AI",
+      "Google’s newly formed 'Platforms and Devices' team is all about AI",
       "https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40078340"
     ],
     [
-      "Keeling Labs (YC W23) –RL for Battery Optimization–Is Hiring a Senior Data Eng",
+      "Keeling Labs (YC W23), RL for Battery Optimization, Is Hiring a Senior Data Eng",
       "https://www.keelinglabs.com"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=40077233"
     ],
     [
-      "Multi-Tenant Queues in Postgres",
+      "Multi-tenant queues in Postgres",
       "https://docs.hatchet.run/blog/multi-tenant-queues"
     ]
   ],
@@ -201,42 +221,22 @@
   ],
   [
     [
+      "2024-04-18, 12:02:27",
+      "https://news.ycombinator.com/item?id=40075284"
+    ],
+    [
+      "Why Fugaku, Japan's fastest supercomputer, went virtual on AWS",
+      "https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 08:22:04",
       "https://news.ycombinator.com/item?id=40074086"
     ],
     [
       "The Domino Computer",
       "https://www.andrewt.net/maths/domputer/"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 00:51:16",
-      "https://news.ycombinator.com/item?id=40071826"
-    ],
-    [
-      "Short Stack: World’s smallest Nintendo Wii",
-      "https://github.com/loopj/short-stack"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 20:17:11",
-      "https://news.ycombinator.com/item?id=40069599"
-    ],
-    [
-      "Hardest problem in computer science: centering things",
-      "https://tonsky.me/blog/centering/"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 17:48:31",
-      "https://news.ycombinator.com/item?id=40067939"
-    ],
-    [
-      "CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred",
-      "https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-04-17, 17:09:14",
-      "https://news.ycombinator.com/item?id=40067486"
-    ],
-    [
-      "Embeddings are a good starting point for the AI curious app developer",
-      "https://bawolf.substack.com/p/embeddings-are-a-good-starting-point"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 12:17:08",
       "https://news.ycombinator.com/item?id=40063555"
     ],
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2024-04-17, 12:00:32",
+      "https://news.ycombinator.com/item?id=40063367"
+    ],
+    [
+      "How many bathrooms have Neanderthals in the tile?",
+      "https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 07:14:28",
       "https://news.ycombinator.com/item?id=40061483"
     ],
     [
-      "Why CVE-2022-3602 was not detected by fuzz testing (2022)",
+      "Why the OpenSSL punycode vulnerability was not detected by fuzz testing (2022)",
       "http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=40052159"
     ],
     [
-      "How pluto got its 'heart'",
+      "How Pluto got its 'heart'",
       "https://news.arizona.edu/news/how-pluto-got-its-heart"
     ]
   ]
