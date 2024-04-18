@@ -5,18 +5,18 @@
       "https://news.ycombinator.com/item?id=40074520"
     ],
     [
-      "I Know the secret to the quiet mind. I wish I'd never learned it",
+      "I Know the secret to the quiet mind. I wish I'd never learned it (2021)",
       "https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/"
     ]
   ],
   [
     [
-      "2024-04-18, 09:14:45",
-      "https://news.ycombinator.com/item?id=40074333"
+      "2024-04-18, 09:24:53",
+      "https://news.ycombinator.com/item?id=40074383"
     ],
     [
-      "Google fires 28 workers in indiscriminate act of mass retaliation",
-      "https://twitter.com/katejsim/status/1780838795795136844"
+      "Cosmic Desktop: Hammering Out New Cosmic Features",
+      "https://blog.system76.com/post/hammering-out-cosmic-features"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-04-17, 15:11:26",
+      "https://news.ycombinator.com/item?id=40065821"
+    ],
+    [
+      "libxev: A cross-platform, high-performance event loop",
+      "https://github.com/mitchellh/libxev"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 13:12:14",
       "https://news.ycombinator.com/item?id=40064105"
     ],
@@ -277,16 +287,6 @@
     [
       "Praat: Doing Phonetics by Computer",
       "https://www.fon.hum.uva.nl/praat/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 07:29:03",
-      "https://news.ycombinator.com/item?id=40049258"
-    ],
-    [
-      "Only <SPAN>s",
-      "https://onlyspans.net/"
     ]
   ],
   [
