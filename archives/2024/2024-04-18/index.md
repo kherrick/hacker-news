@@ -11,6 +11,7 @@
 * [2024-04-18, 09:14:45](https://news.ycombinator.com/item?id=40074333) - [Google fires 28 workers in indiscriminate act of mass retaliation](https://twitter.com/katejsim/status/1780838795795136844)
 * [2024-04-18, 09:14:23](https://news.ycombinator.com/item?id=40074331) - [OpenAI's model all but matches doctors in assessing eye problems](https://www.ft.com/content/5b7a76be-467c-4074-8fd0-3e297bcd91d7)
 * [2024-04-18, 08:22:04](https://news.ycombinator.com/item?id=40074086) - [The Domino Computer](https://www.andrewt.net/maths/domputer/)
+* [2024-04-18, 08:11:51](https://news.ycombinator.com/item?id=40074044) - [Startup Idea: Reverse Amazon](https://www.anton-on-software.com/post/free-startup-idea-reverse-amazon)
 * [2024-04-18, 07:00:20](https://news.ycombinator.com/item?id=40073673) - [Langfuse (YC W23) Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
 * [2024-04-18, 06:43:44](https://news.ycombinator.com/item?id=40073580) - [Schiller doesn't know whether the App Store is profitable; no notes](https://9to5mac.com/2024/04/17/app-store-is-profitable-apple-notes/)
 * [2024-04-18, 05:05:54](https://news.ycombinator.com/item?id=40073139) - [OpenBSD – Coming soon to a -current system near you: parallel raw IP input](https://www.undeadly.org/cgi?action=article;sid=20240418050520)
