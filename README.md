@@ -25,7 +25,7 @@
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 * [2024-04-17, 16:37:23](https://news.ycombinator.com/item?id=40067070) - [A brief, weird history of brainwashing](https://www.technologyreview.com/2024/04/12/1090726/brainwashing-mind-control-history-operation-midnight-climax/)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
-* [2024-04-17, 08:42:23](https://news.ycombinator.com/item?id=40061994) - [Analyzing a Baking Recipe](https://www.cookingforengineers.com/article/280/Analyzing-a-Baking-Recipe)
+* [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 07:14:28](https://news.ycombinator.com/item?id=40061483) - [Why CVE-2022-3602 was not detected by fuzz testing (2022)](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-17, 05:14:41](https://news.ycombinator.com/item?id=40060697) - [Not your mother's mall (2003)](https://www.sfgate.com/bayarea/article/Not-your-mother-s-mall-New-concepts-2526735.php)
 * [2024-04-15, 21:39:03](https://news.ycombinator.com/item?id=40045940) - [Scientists solve long-standing mystery surrounding the moon's 'lopsided' geology](https://phys.org/news/2024-04-scientists-mystery-moon-lopsided-geology.html)
