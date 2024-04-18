@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
 * [2024-04-18, 22:23:16](https://news.ycombinator.com/item?id=40081387) - [United States blocks Palestinian request for full UN membership](https://www.cbc.ca/news/world/un-palestinian-united-states-veto-1.7178152)
+* [2024-04-18, 22:17:39](https://news.ycombinator.com/item?id=40081342) - [Hyundai pauses X ads over pro-Nazi content on the platform](https://www.nbcnews.com/tech/tech-news/hyundai-pauses-x-ads-nazi-content-platform-rcna148414)
 * [2024-04-18, 21:56:39](https://news.ycombinator.com/item?id=40081175) - [Software Developers Have Health Risks](https://zetterr.substack.com/p/software-developers-have-health-risks)
 * [2024-04-18, 21:34:49](https://news.ycombinator.com/item?id=40080968) - [The modern state, not ideas, brought about religious freedom (2017)](https://aeon.co/essays/the-modern-state-not-ideas-brought-about-religious-freedom)
 * [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)

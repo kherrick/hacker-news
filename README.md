@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-18, 22:23:16](https://news.ycombinator.com/item?id=40081387) - [United States blocks Palestinian request for full UN membership](https://www.cbc.ca/news/world/un-palestinian-united-states-veto-1.7178152)
+* [2024-04-18, 22:17:39](https://news.ycombinator.com/item?id=40081342) - [Hyundai pauses X ads over pro-Nazi content on the platform](https://www.nbcnews.com/tech/tech-news/hyundai-pauses-x-ads-nazi-content-platform-rcna148414)
 * [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
 * [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 * [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
