@@ -8,6 +8,7 @@
 * [2024-04-18, 13:41:05](https://news.ycombinator.com/item?id=40076128) - [A UK government-sponsored agency is censoring journalism](https://unherd.com/2024/04/inside-the-disinformation-industry/)
 * [2024-04-18, 13:19:05](https://news.ycombinator.com/item?id=40075901) - [EU tells Meta it can't paywall privacy](https://www.theregister.com/2024/04/18/eu_meta_subscription_privacy/)
 * [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
+* [2024-04-18, 12:35:43](https://news.ycombinator.com/item?id=40075539) - [Inside Amazon’s Secret Operation to Gather Intel on Rivals](https://www.wsj.com/business/retail/amazon-secret-operation-intel-rivals-eb82ea3c)
 * [2024-04-18, 12:22:11](https://news.ycombinator.com/item?id=40075437) - [AWS kills Snowmobile data transfer truck](https://www.cnbc.com/2024/04/17/aws-stops-selling-snowmobile-truck-for-cloud-migrations.html)
 * [2024-04-18, 12:16:30](https://news.ycombinator.com/item?id=40075402) - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
 * [2024-04-18, 12:02:27](https://news.ycombinator.com/item?id=40075284) - [Why Fugaku, Japan's fastest supercomputer, went virtual on AWS](https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/)
