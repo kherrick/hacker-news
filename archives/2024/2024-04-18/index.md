@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 02:17:34](https://news.ycombinator.com/item?id=40072295) - [Google fires 28 employees involved in sit-in protest over $1.2B Israel contract](https://nypost.com/2024/04/17/business/google-fires-28-employees-involved-in-sit-in-protest-over-1-2b-israel-contract/)
+* [2024-04-18, 01:23:18](https://news.ycombinator.com/item?id=40072021) - [Show HN: I also made a three-body simulation](https://three-bodies.sulami.xyz/)
 * [2024-04-18, 01:09:51](https://news.ycombinator.com/item?id=40071956) - [A single atom layer of gold – LiU researchers create goldene](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
 * [2024-04-18, 01:07:12](https://news.ycombinator.com/item?id=40071940) - [Nvidia Speech and Translation AI Models Set Records for Speed and Accuracy](https://developer.nvidia.com/blog/nvidia-speech-and-translation-ai-models-set-records-for-speed-and-accuracy/)
+* [2024-04-18, 01:04:36](https://news.ycombinator.com/item?id=40071921) - [A junk food diet can cause long-term damage to adolescent brains](https://today.usc.edu/take-it-from-the-rats-a-junk-food-diet-can-cause-long-term-damage-to-adolescent-brains/)
 * [2024-04-18, 00:51:16](https://news.ycombinator.com/item?id=40071826) - [Short Stack – World’s Smallest Nintendo Wii](https://github.com/loopj/short-stack)
 * [2024-04-18, 00:43:27](https://news.ycombinator.com/item?id=40071772) - [Human hair transformed into renewable energy storage](https://news.csu.edu.au/latest-news/breaking-research-human-hair-transformed-into-renewable-energy-storage)
+* [2024-04-18, 00:38:33](https://news.ycombinator.com/item?id=40071737) - [MGM says FTC can't probe ransomware attack as Lina Khan was a guest at the time](https://www.theregister.com/2024/04/16/mgm_ftc_lawsuit/)
 * [2024-04-18, 00:31:11](https://news.ycombinator.com/item?id=40071694) - [Lambda School and founder banned from all student lending](https://twitter.com/JoshuaOgundu/status/1780668300982415379)
