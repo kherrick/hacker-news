@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-18, 12:22:11](https://news.ycombinator.com/item?id=40075437) - [AWS kills Snowmobile data transfer truck](https://www.cnbc.com/2024/04/17/aws-stops-selling-snowmobile-truck-for-cloud-migrations.html)
 * [2024-04-18, 12:16:30](https://news.ycombinator.com/item?id=40075402) - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
 * [2024-04-18, 12:02:27](https://news.ycombinator.com/item?id=40075284) - [Why Fugaku, Japan's fastest supercomputer, went virtual on AWS](https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/)
 * [2024-04-18, 12:00:42](https://news.ycombinator.com/item?id=40075267) - [Keeper (YC S21) is hiring engineers to build a personal accountant for everyone](https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote)
@@ -25,9 +26,8 @@
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers Are One of Evolution's Cleverest Inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 * [2024-04-17, 12:00:32](https://news.ycombinator.com/item?id=40063367) - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 * [2024-04-17, 08:42:23](https://news.ycombinator.com/item?id=40061994) - [Analyzing a Baking Recipe](https://www.cookingforengineers.com/article/280/Analyzing-a-Baking-Recipe)
-* [2024-04-17, 07:58:12](https://news.ycombinator.com/item?id=40061731) - [Logitech mouse and keyboard users are getting a free AI upgrade](https://www.zdnet.com/article/logitech-mouse-and-keyboard-users-you-are-about-to-get-a-free-ai-upgrade/)
 * [2024-04-17, 05:52:57](https://news.ycombinator.com/item?id=40060939) - [How Matzo Is Made](https://www.bloomberg.com/features/2024-streits-matzo-factory-passover/)
-* [2024-04-17, 05:33:55](https://news.ycombinator.com/item?id=40060838) - [Praat: Doing Phonetics by Computer](https://www.fon.hum.uva.nl/praat/)
+* [2024-04-16, 13:18:41](https://news.ycombinator.com/item?id=40051514) - [The Paradox of x86](https://thechipletter.substack.com/p/the-paradox-of-x86)
 * [2024-04-15, 21:39:03](https://news.ycombinator.com/item?id=40045940) - [Scientists solve long-standing mystery surrounding the moon's 'lopsided' geology](https://phys.org/news/2024-04-scientists-mystery-moon-lopsided-geology.html)
 * [2024-04-15, 10:20:36](https://news.ycombinator.com/item?id=40038620) - [Causality, Interaction, and Complexity](https://www.alexahn.com/2024/04/causality-interaction-and-complexity.html)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 12:22:11](https://news.ycombinator.com/item?id=40075437) - [AWS kills Snowmobile data transfer truck](https://www.cnbc.com/2024/04/17/aws-stops-selling-snowmobile-truck-for-cloud-migrations.html)
 * [2024-04-18, 12:16:30](https://news.ycombinator.com/item?id=40075402) - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
 * [2024-04-18, 12:02:27](https://news.ycombinator.com/item?id=40075284) - [Why Fugaku, Japan's fastest supercomputer, went virtual on AWS](https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/)
 * [2024-04-18, 12:00:42](https://news.ycombinator.com/item?id=40075267) - [Keeper (YC S21) is hiring engineers to build a personal accountant for everyone](https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote)
