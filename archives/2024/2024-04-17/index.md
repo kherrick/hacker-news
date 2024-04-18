@@ -25,6 +25,7 @@
 * [2024-04-17, 18:07:01](https://news.ycombinator.com/item?id=40068187) - [How Antithesis Finds Bugs](https://antithesis.com/blog/sdtalk/)
 * [2024-04-17, 18:05:59](https://news.ycombinator.com/item?id=40068170) - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
 * [2024-04-17, 17:48:31](https://news.ycombinator.com/item?id=40067939) - [CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
+* [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-17, 17:38:04](https://news.ycombinator.com/item?id=40067806) - [Gecko Robotics built a $600M company from a college project](https://fortune.com/2024/04/17/gecko-founding-jake-loosararian-robots-infrastructure-environment-y-combinator/)
 * [2024-04-17, 17:26:09](https://news.ycombinator.com/item?id=40067677) - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
 * [2024-04-17, 17:20:32](https://news.ycombinator.com/item?id=40067605) - [It's not just you: Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
