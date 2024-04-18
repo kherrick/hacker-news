@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 16:08:14](https://news.ycombinator.com/item?id=40077665) - [New Assistant: Meta AI, Built with Llama 3](https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/)
 * [2024-04-18, 16:06:58](https://news.ycombinator.com/item?id=40077648) - [Meta AI](https://www.meta.ai/)
 * [2024-04-18, 16:03:52](https://news.ycombinator.com/item?id=40077601) - [Meta Releases Llama 3](https://ai.meta.com/blog/meta-llama-3/)
 * [2024-04-18, 15:57:28](https://news.ycombinator.com/item?id=40077535) - [All-cash offers, wealthy buyers push Southern California home prices to a record](https://www.latimes.com/homeless-housing/story/2024-04-11/all-cash-offers-wealthy-buyers-push-southern-california-home-prices-to-a-record)
