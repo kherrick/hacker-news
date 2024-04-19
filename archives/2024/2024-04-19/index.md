@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 22:08:20](https://news.ycombinator.com/item?id=40092449) - [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
 * [2024-04-19, 21:44:58](https://news.ycombinator.com/item?id=40092260) - [Andrej Karpathy – Llm.c Update](https://twitter.com/karpathy/status/1781387674978533427)
 * [2024-04-19, 21:09:41](https://news.ycombinator.com/item?id=40091924) - [Bicycle Day (Psychedelic Holiday)](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
 * [2024-04-19, 21:00:49](https://news.ycombinator.com/item?id=40091840) - [Streak (YC W22) Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
@@ -12,6 +13,7 @@
 * [2024-04-19, 20:29:39](https://news.ycombinator.com/item?id=40091592) - [Moxie: I'm no longer involved at Signal](https://twitter.com/moxie/status/1781144255848997330)
 * [2024-04-19, 20:29:05](https://news.ycombinator.com/item?id=40091584) - [Francisco Varela](https://en.wikipedia.org/wiki/Francisco_Varela)
 * [2024-04-19, 20:15:08](https://news.ycombinator.com/item?id=40091471) - [Mozilla Begins Offering Firefox ARM64 Linux Binaries](https://www.phoronix.com/news/Mozilla-Firefox-ARM64-Nightly)
+* [2024-04-19, 20:10:31](https://news.ycombinator.com/item?id=40091427) - [I hate Rust (programming language)](https://dorinlazar.ro/240228-i-hate-rust-programming-language/)
 * [2024-04-19, 20:03:45](https://news.ycombinator.com/item?id=40091379) - [Show HN: Talk to Me Human, just launched my game about social persuasion](https://talktomehuman.com/)
 * [2024-04-19, 20:02:31](https://news.ycombinator.com/item?id=40091367) - [Getting Started with Gemini 1.5 Pro and Google AI Studio](https://medium.com/@crskilpatrick807/getting-started-with-gemini-1-5-pro-and-google-ai-studio-8f0064050ecf)
 * [2024-04-19, 19:56:54](https://news.ycombinator.com/item?id=40091314) - [Intel's 14A Magic Bullet: Directed Self-Assembly (DSA)](https://www.semianalysis.com/p/intels-14a-magic-bullet-directed)
