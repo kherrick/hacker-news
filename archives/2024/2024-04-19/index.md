@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 12:00:30](https://news.ycombinator.com/item?id=40085706) - [Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng](https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer)
 * [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
 * [2024-04-19, 10:51:01](https://news.ycombinator.com/item?id=40085214) - [Apple deletes WhatsApp, Threads from China app store on orders from Beijing](https://www.cnn.com/2024/04/19/tech/china-apple-whatspp-threads-removal-hnk-intl/index.html)
 * [2024-04-19, 10:37:54](https://news.ycombinator.com/item?id=40085134) - [Developing Rapidly with Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai)
@@ -12,8 +13,10 @@
 * [2024-04-19, 09:11:27](https://news.ycombinator.com/item?id=40084699) - [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
 * [2024-04-19, 09:07:21](https://news.ycombinator.com/item?id=40084681) - [What a difference four years makes](https://ianbetteridge.com/2024/04/19/what-a-difference-four-years-makes/)
 * [2024-04-19, 08:27:29](https://news.ycombinator.com/item?id=40084508) - [Google merges the Android, Chrome, and hardware divisions](https://arstechnica.com/gadgets/2024/04/google-merges-the-android-chrome-and-hardware-divisions/)
+* [2024-04-19, 07:46:04](https://news.ycombinator.com/item?id=40084335) - [Rust-Written LAVD Kernel Scheduler Shows Promising Results for Linux Gaming](https://www.phoronix.com/news/LAVD-Scheduler-Linux-Gaming)
 * [2024-04-19, 07:25:14](https://news.ycombinator.com/item?id=40084225) - [New Mexico: Psychologists to dress up as wizards when providing expert testimony](https://www.futilitycloset.com/2024/04/19/protocol-3/)
 * [2024-04-19, 07:00:09](https://news.ycombinator.com/item?id=40084104) - [Routine (YC W21) Is Hiring OCaml Software Engineers: On Site (Paris) or Remote](https://news.ycombinator.com/item?id=40084104)
+* [2024-04-19, 06:12:38](https://news.ycombinator.com/item?id=40083885) - [Z80 Product Line Z84C00 End of Life / Last Time Buy [pdf]](https://www.mouser.com/PCN/Littelfuse_PCN_Z84C00.pdf)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:37:16](https://news.ycombinator.com/item?id=40083737) - [Nestlé adds sugar to infant milk sold in poorer countries, report finds](https://www.theguardian.com/global-development/2024/apr/17/nestle-adds-sugar-to-infant-milk-sold-in-poorer-countries-report-finds)
 * [2024-04-19, 05:16:37](https://news.ycombinator.com/item?id=40083641) - [VoRS: Vo(IP) Simple Alternative to Mumble](http://www.vors.stargrave.org/)
