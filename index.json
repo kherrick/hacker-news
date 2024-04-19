@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-19, 09:11:27",
+      "https://news.ycombinator.com/item?id=40084699"
+    ],
+    [
+      "Llama 3 8B is almost as good as Wizard 2 8x22B",
+      "https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 07:25:14",
+      "https://news.ycombinator.com/item?id=40084225"
+    ],
+    [
+      "New Mexico: Psychologists to dress up as wizards when providing expert testimony",
+      "https://www.futilitycloset.com/2024/04/19/protocol-3/"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 07:00:09",
       "https://news.ycombinator.com/item?id=40084104"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-04-18, 19:06:42",
-      "https://news.ycombinator.com/item?id=40079647"
-    ],
-    [
-      "Insatiable: A life without eating",
-      "https://longreads.com/2024/04/18/crohns-life-without-eating/"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 18:54:46",
       "https://news.ycombinator.com/item?id=40079516"
     ],
@@ -197,16 +207,6 @@
     [
       "Multi-tenant queues in Postgres",
       "https://docs.hatchet.run/blog/multi-tenant-queues"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 15:09:13",
-      "https://news.ycombinator.com/item?id=40077048"
-    ],
-    [
-      "OpenMCT: A web based mission control framework",
-      "https://github.com/nasa/openmct"
     ]
   ],
   [
