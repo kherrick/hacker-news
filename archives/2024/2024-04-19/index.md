@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 10:36:31](https://news.ycombinator.com/item?id=40085122) - [Microsoft: Don't Use Iperf3 on Windows](https://techcommunity.microsoft.com/t5/networking-blog/three-reasons-why-you-should-not-use-iperf3-on-windows/ba-p/4117876)
 * [2024-04-19, 09:56:18](https://news.ycombinator.com/item?id=40084903) - [Tesla Cybertruck No Match for Car Wash](https://jalopnik.com/tesla-cybertruck-no-match-for-car-wash-1851417011)
 * [2024-04-19, 09:11:27](https://news.ycombinator.com/item?id=40084699) - [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
 * [2024-04-19, 08:27:29](https://news.ycombinator.com/item?id=40084508) - [Google merges the Android, Chrome, and hardware divisions](https://arstechnica.com/gadgets/2024/04/google-merges-the-android-chrome-and-hardware-divisions/)
