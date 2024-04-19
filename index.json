@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-19, 12:00:30",
+      "https://news.ycombinator.com/item?id=40085706"
+    ],
+    [
+      "Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng",
+      "https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 11:39:55",
       "https://news.ycombinator.com/item?id=40085543"
     ],
@@ -27,16 +37,6 @@
     [
       "Developing Rapidly with Generative AI",
       "https://discord.com/blog/developing-rapidly-with-generative-ai"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 10:36:31",
-      "https://news.ycombinator.com/item?id=40085122"
-    ],
-    [
-      "Microsoft: Don't Use Iperf3 on Windows",
-      "https://techcommunity.microsoft.com/t5/networking-blog/three-reasons-why-you-should-not-use-iperf3-on-windows/ba-p/4117876"
     ]
   ],
   [
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-04-19, 07:46:04",
+      "https://news.ycombinator.com/item?id=40084335"
+    ],
+    [
+      "Rust-Written LAVD Kernel Scheduler Shows Promising Results for Linux Gaming",
+      "https://www.phoronix.com/news/LAVD-Scheduler-Linux-Gaming"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 07:25:14",
       "https://news.ycombinator.com/item?id=40084225"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2024-04-19, 07:00:09",
-      "https://news.ycombinator.com/item?id=40084104"
+      "2024-04-19, 06:12:38",
+      "https://news.ycombinator.com/item?id=40083885"
     ],
     [
-      "Routine (YC W21) Is Hiring OCaml Software Engineers: On Site (Paris) or Remote",
-      "https://news.ycombinator.com/item?id=40084104"
+      "Z80 Product Line Z84C00 End of Life / Last Time Buy [pdf]",
+      "https://www.mouser.com/PCN/Littelfuse_PCN_Z84C00.pdf"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)",
       "https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 21:04:25",
-      "https://news.ycombinator.com/item?id=40080695"
-    ],
-    [
-      "Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour",
-      "https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af="
     ]
   ],
   [
