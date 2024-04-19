@@ -10,6 +10,7 @@
 * [2024-04-19, 20:53:00](https://news.ycombinator.com/item?id=40091774) - [YouTube moves to AV1 by default to the dismay of some Android users](https://www.androidpolice.com/youtube-google-av1-codec-android-video/)
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
 * [2024-04-19, 20:29:39](https://news.ycombinator.com/item?id=40091592) - [Moxie: I'm no longer involved at Signal](https://twitter.com/moxie/status/1781144255848997330)
+* [2024-04-19, 20:29:05](https://news.ycombinator.com/item?id=40091584) - [Francisco Varela](https://en.wikipedia.org/wiki/Francisco_Varela)
 * [2024-04-19, 20:15:08](https://news.ycombinator.com/item?id=40091471) - [Mozilla Begins Offering Firefox ARM64 Linux Binaries](https://www.phoronix.com/news/Mozilla-Firefox-ARM64-Nightly)
 * [2024-04-19, 20:03:45](https://news.ycombinator.com/item?id=40091379) - [Show HN: Talk to Me Human, just launched my game about social persuasion](https://talktomehuman.com/)
 * [2024-04-19, 20:02:31](https://news.ycombinator.com/item?id=40091367) - [Getting Started with Gemini 1.5 Pro and Google AI Studio](https://medium.com/@crskilpatrick807/getting-started-with-gemini-1-5-pro-and-google-ai-studio-8f0064050ecf)
