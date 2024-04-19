@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-04-19, 05:13:51",
-      "https://news.ycombinator.com/item?id=40083622"
-    ],
-    [
-      "How Amazon built an EV charging network in two years",
-      "https://theprogressplaybook.com/2024/04/15/how-amazon-built-a-massive-ev-charging-network-in-just-two-years/"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 03:53:15",
       "https://news.ycombinator.com/item?id=40083285"
     ],
@@ -67,6 +57,16 @@
     [
       "What Are Chrome Flags?",
       "https://developer.chrome.com/docs/web-platform/chrome-flags"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 01:00:49",
+      "https://news.ycombinator.com/item?id=40082409"
+    ],
+    [
+      "Setting up PostgreSQL for running integration tests",
+      "https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-04-18, 16:20:00",
-      "https://news.ycombinator.com/item?id=40077793"
-    ],
-    [
-      "Dnsmasq wins the first BlueHats Prize",
-      "https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 15:57:22",
       "https://news.ycombinator.com/item?id=40077533"
     ],
@@ -227,6 +217,16 @@
     [
       "Multi-tenant queues in Postgres",
       "https://docs.hatchet.run/blog/multi-tenant-queues"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 15:09:13",
+      "https://news.ycombinator.com/item?id=40077048"
+    ],
+    [
+      "OpenMCT: A web based mission control framework",
+      "https://github.com/nasa/openmct"
     ]
   ],
   [
