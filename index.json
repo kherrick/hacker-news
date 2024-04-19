@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-19, 17:13:31",
-      "https://news.ycombinator.com/item?id=40089404"
+      "2024-04-19, 17:28:45",
+      "https://news.ycombinator.com/item?id=40089609"
     ],
     [
-      "Zilog Calls Time on the Venerable Z80, Discontinues the Standalone Z84C00 CPU",
-      "https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754"
+      "Multipath TCP for Linux",
+      "https://www.mptcp.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 17:17:29",
+      "https://news.ycombinator.com/item?id=40089460"
+    ],
+    [
+      "Quill – Your powerful rich text editor",
+      "https://quilljs.com/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Porting 8-bit Sonic 2 to the TI-84 CE",
       "https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 16:22:52",
-      "https://news.ycombinator.com/item?id=40088727"
-    ],
-    [
-      "Llama 3 70B tied with GPT-4 for first place on LMSYS chatbot arena leaderboard",
-      "https://twitter.com/Teknium1/status/1781328542367883765"
     ]
   ],
   [
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2024-04-18, 19:25:35",
-      "https://news.ycombinator.com/item?id=40079835"
+      "2024-04-18, 15:57:22",
+      "https://news.ycombinator.com/item?id=40077533"
     ],
     [
-      "Ask HN: How do you ask users about their pain point?",
-      "https://news.ycombinator.com/item?id=40079835"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 18:53:30",
-      "https://news.ycombinator.com/item?id=40079501"
-    ],
-    [
-      "Simplifying the Xz Backdoor",
-      "https://felipec.wordpress.com/2024/04/18/simplifying-the-xz-backdoor/"
+      "Meta Llama 3",
+      "https://llama.meta.com/llama3/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Parsing and all that",
       "https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 17:42:51",
+      "https://news.ycombinator.com/item?id=40067857"
+    ],
+    [
+      "Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG",
+      "https://github.com/spawnmason/randar-explanation/blob/master/README.md"
     ]
   ],
   [
