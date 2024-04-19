@@ -23,6 +23,7 @@
 * [2024-04-19, 16:22:52](https://news.ycombinator.com/item?id=40088727) - [Llama 3 70B tied with GPT-4 for first place on LMSYS chatbot arena leaderboard](https://twitter.com/Teknium1/status/1781328542367883765)
 * [2024-04-19, 16:22:16](https://news.ycombinator.com/item?id=40088719) - [JEP draft: Exception handling in switch](https://openjdk.org/jeps/8323658)
 * [2024-04-19, 16:07:36](https://news.ycombinator.com/item?id=40088538) - [Read Google's memo warning employees to 'think again'](https://www.businessinsider.com/google-memo-warning-employees-think-again-before-sit-in-protests-2024-4)
+* [2024-04-19, 15:48:39](https://news.ycombinator.com/item?id=40088300) - [Robotic arms that assemble panels at solar farms](https://www.fastcompany.com/91108331/these-solar-assembling-robotic-arms-could-solve-one-of-the-industrys-biggest-problems)
 * [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett (1942-2024)](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 * [2024-04-19, 15:19:44](https://news.ycombinator.com/item?id=40087933) - [Intel unveils largest-ever AI 'neuromorphic computer' mimicking the human brain](https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain)
 * [2024-04-19, 15:10:38](https://news.ycombinator.com/item?id=40087793) - [Why are there so many beetle species?](https://knowablemagazine.org/content/article/living-world/2024/why-are-there-so-many-types-of-beetles)
