@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:13:51](https://news.ycombinator.com/item?id=40083622) - [How Amazon built an EV charging network in two years](https://theprogressplaybook.com/2024/04/15/how-amazon-built-a-massive-ev-charging-network-in-just-two-years/)
 * [2024-04-19, 04:38:32](https://news.ycombinator.com/item?id=40083470) - [Samsung shifts executives to six-day workweeks to 'inject a sense of crisis'](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
 * [2024-04-19, 03:07:30](https://news.ycombinator.com/item?id=40083090) - [Tesla discloses it spent $200k advertising on X](https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html)
@@ -7,7 +8,6 @@
 * [2024-04-19, 01:04:39](https://news.ycombinator.com/item?id=40082424) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
 * [2024-04-19, 00:55:11](https://news.ycombinator.com/item?id=40082372) - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
 * [2024-04-18, 23:59:25](https://news.ycombinator.com/item?id=40081999) - [A former slave who became a cowboy, a rancher, and a Texas legend](https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/)
-* [2024-04-18, 22:54:41](https://news.ycombinator.com/item?id=40081602) - [Why is it called the Ribbon? (2005)](https://web.archive.org/web/20160203163107/http://blogs.msdn.com/b/jensenh/archive/2005/10/07/478214.aspx)
 * [2024-04-18, 22:44:52](https://news.ycombinator.com/item?id=40081541) - [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
 * [2024-04-18, 22:13:13](https://news.ycombinator.com/item?id=40081314) - [The Rust calling convention we deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2024-04-18, 21:59:01](https://news.ycombinator.com/item?id=40081194) - [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://ai.meta.com/research/publications/imagine-flash-accelerating-emu-diffusion-models-with-backward-distillation/)
