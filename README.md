@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 19:56:54](https://news.ycombinator.com/item?id=40091314) - [Intel's 14A Magic Bullet: Directed Self-Assembly (DSA)](https://www.semianalysis.com/p/intels-14a-magic-bullet-directed)
+* [2024-04-19, 18:15:03](https://news.ycombinator.com/item?id=40090221) - [GM's Futuristic '80s Digital Displays – This Man Fights to Keep Them Alive](https://www.theautopian.com/gms-futuristic-80s-digital-displays-are-dying-but-this-man-is-fighting-to-keep-them-alive/)
 * [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill v2 – Rich text editor](https://quilljs.com/)
@@ -19,7 +21,6 @@
 * [2024-04-19, 11:42:18](https://news.ycombinator.com/item?id=40085565) - [Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
 * [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
 * [2024-04-19, 10:58:13](https://news.ycombinator.com/item?id=40085260) - [Quantum Algorithms for Lattice Problems – Update on April 18](http://www.chenyilei.net/)
-* [2024-04-19, 10:53:48](https://news.ycombinator.com/item?id=40085237) - [C-Macs – a pure C macOS application](https://github.com/CodaFi/C-Macs)
 * [2024-04-19, 08:34:12](https://news.ycombinator.com/item?id=40084543) - [Show HN: Composable (as in iGoogle, but modern) privacy-friendly new tab](https://anori.app/)
 * [2024-04-19, 07:18:46](https://news.ycombinator.com/item?id=40084193) - [Show HN: Shepherd 3.0 – Like wandering the aisles of your favorite bookstore](https://news.ycombinator.com/item?id=40084193)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
@@ -28,7 +29,6 @@
 * [2024-04-18, 13:08:17](https://news.ycombinator.com/item?id=40075813) - [The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
 * [2024-04-18, 01:01:28](https://news.ycombinator.com/item?id=40071898) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
 * [2024-04-17, 16:26:22](https://news.ycombinator.com/item?id=40066904) - [Guy Callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)
-* [2024-04-17, 13:32:42](https://news.ycombinator.com/item?id=40064345) - [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
 * [2024-04-17, 07:35:40](https://news.ycombinator.com/item?id=40061605) - [The state of AI for hand-drawn animation inbetweening](https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html)
 
 ## [Archives](archives/index.md)
