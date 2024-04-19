@@ -15,7 +15,7 @@
 * [2024-04-19, 15:48:39](https://news.ycombinator.com/item?id=40088300) - [Robotic arms that assemble panels at solar farms](https://www.fastcompany.com/91108331/these-solar-assembling-robotic-arms-could-solve-one-of-the-industrys-biggest-problems)
 * [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 * [2024-04-19, 15:10:38](https://news.ycombinator.com/item?id=40087793) - [Why are there so many beetle species?](https://knowablemagazine.org/content/article/living-world/2024/why-are-there-so-many-types-of-beetles)
-* [2024-04-19, 13:47:02](https://news.ycombinator.com/item?id=40086793) - [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
+* [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
 * [2024-04-19, 13:45:22](https://news.ycombinator.com/item?id=40086779) - [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
 * [2024-04-19, 11:42:18](https://news.ycombinator.com/item?id=40085565) - [Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
 * [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
