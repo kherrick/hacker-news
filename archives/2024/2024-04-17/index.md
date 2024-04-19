@@ -46,6 +46,7 @@
 * [2024-04-17, 16:35:13](https://news.ycombinator.com/item?id=40067041) - [Novelists as Schoolmasters](https://www.thearticle.com/novelists-as-schoolmasters?ref=thebrowser.com)
 * [2024-04-17, 16:34:13](https://news.ycombinator.com/item?id=40067033) - [Playing it over and over again: how Casablanca was made (2018)](https://www.newstatesman.com/culture/2018/04/playing-it-over-and-over-again-how-casablanca-was-made)
 * [2024-04-17, 16:30:31](https://news.ycombinator.com/item?id=40066975) - [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
+* [2024-04-17, 16:28:33](https://news.ycombinator.com/item?id=40066945) - [Ampere Readies 256-Core CPU Beast, Awaits the AI Inference Wave](https://www.nextplatform.com/2024/04/16/ampere-readies-256-core-cpu-beast-awaits-the-ai-inference-wave/)
 * [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
 * [2024-04-17, 16:26:37](https://news.ycombinator.com/item?id=40066914) - [How does this full-track, 3-wheel snow bike even turn?](https://newatlas.com/outdoors/oruga-unitrack-electric-all-terrain-vehicle/)
 * [2024-04-17, 16:26:22](https://news.ycombinator.com/item?id=40066904) - [Guy callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 23:24:13](https://news.ycombinator.com/item?id=40092985) - ['Irresponsible' to ignore consciousness across animal world scientists argue](https://thehill.com/policy/energy-environment/4605739-widespread-animal-consciousness-irresponsible-to-ignore-new-york-declaration-scientists/)
 * [2024-04-19, 22:44:38](https://news.ycombinator.com/item?id=40092747) - [Why there will never be another Bitcoin](https://blog.kraken.com/crypto-education/opinion-why-there-will-never-be-another-bitcoin)
 * [2024-04-19, 22:36:53](https://news.ycombinator.com/item?id=40092687) - [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
 * [2024-04-19, 22:28:34](https://news.ycombinator.com/item?id=40092627) - [Curse of Monkey Island ported to WebAssembly](https://personal-1094.web.app/scummvm.html)
