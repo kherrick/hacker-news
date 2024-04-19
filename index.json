@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-19, 17:45:09",
+      "https://news.ycombinator.com/item?id=40089842"
+    ],
+    [
+      "Why single vendor is the new proprietary",
+      "https://opensource.net/why-single-vendor-is-the-new-proprietary/"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 17:31:40",
+      "https://news.ycombinator.com/item?id=40089658"
+    ],
+    [
+      "First Impressions of Early-Access GPT-4 Fine-Tuning",
+      "https://www.supersimple.io/blog/gpt-4-fine-tuning-early-access"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 17:28:45",
       "https://news.ycombinator.com/item?id=40089609"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-04-18, 15:57:22",
-      "https://news.ycombinator.com/item?id=40077533"
-    ],
-    [
-      "Meta Llama 3",
-      "https://llama.meta.com/llama3/"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 15:43:42",
       "https://news.ycombinator.com/item?id=40077391"
     ],
@@ -267,16 +277,6 @@
     [
       "Parsing and all that",
       "https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 17:42:51",
-      "https://news.ycombinator.com/item?id=40067857"
-    ],
-    [
-      "Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG",
-      "https://github.com/spawnmason/randar-explanation/blob/master/README.md"
     ]
   ],
   [
