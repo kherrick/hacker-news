@@ -2,9 +2,9 @@
 
 * [2024-04-19, 17:13:31](https://news.ycombinator.com/item?id=40089404) - [Zilog Calls Time on the Venerable Z80, Discontinues the Standalone Z84C00 CPU](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:00:49](https://news.ycombinator.com/item?id=40089234) - [Paces (YC S22, Climate and AI) Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
+* [2024-04-19, 16:56:46](https://news.ycombinator.com/item?id=40089174) - [Measuring the Mobile Body](https://www.eurozine.com/measuring-the-mobile-body/?ref=thebrowser.com)
 * [2024-04-19, 16:53:26](https://news.ycombinator.com/item?id=40089138) - [Don't bet on the joys of pokies (2011)](http://grogsgamut.blogspot.com/2011/04/dont-bet-on-joys-of-pokies.html)
 * [2024-04-19, 16:48:23](https://news.ycombinator.com/item?id=40089053) - [Epigenetic age oscillates during the day](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14170)
-* [2024-04-19, 16:25:38](https://news.ycombinator.com/item?id=40088754) - [Meta.ai Oh My](https://www.tbray.org/ongoing/When/202x/2024/04/18/Meta-AI-oh-my)
 * [2024-04-19, 16:23:10](https://news.ycombinator.com/item?id=40088731) - [Porting 8-bit Sonic 2 to the TI-84 CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 16:22:52](https://news.ycombinator.com/item?id=40088727) - [Llama 3 70B tied with GPT-4 for first place on LMSYS chatbot arena leaderboard](https://twitter.com/Teknium1/status/1781328542367883765)
 * [2024-04-19, 16:22:16](https://news.ycombinator.com/item?id=40088719) - [JEP draft: Exception handling in switch](https://openjdk.org/jeps/8323658)
