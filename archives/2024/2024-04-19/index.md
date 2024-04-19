@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 09:11:27](https://news.ycombinator.com/item?id=40084699) - [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
+* [2024-04-19, 07:25:14](https://news.ycombinator.com/item?id=40084225) - [New Mexico: Psychologists to dress up as wizards when providing expert testimony](https://www.futilitycloset.com/2024/04/19/protocol-3/)
 * [2024-04-19, 07:00:09](https://news.ycombinator.com/item?id=40084104) - [Routine (YC W21) Is Hiring OCaml Software Engineers: On Site (Paris) or Remote](https://news.ycombinator.com/item?id=40084104)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:37:16](https://news.ycombinator.com/item?id=40083737) - [Nestlé adds sugar to infant milk sold in poorer countries, report finds](https://www.theguardian.com/global-development/2024/apr/17/nestle-adds-sugar-to-infant-milk-sold-in-poorer-countries-report-finds)
