@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux](https://www.mptcp.dev/)
+* [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill – Your powerful rich text editor](https://quilljs.com/)
 * [2024-04-19, 17:13:31](https://news.ycombinator.com/item?id=40089404) - [Zilog Calls Time on the Venerable Z80, Discontinues the Standalone Z84C00 CPU](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:00:49](https://news.ycombinator.com/item?id=40089234) - [Paces (YC S22, Climate and AI) Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
 * [2024-04-19, 16:56:46](https://news.ycombinator.com/item?id=40089174) - [Measuring the Mobile Body](https://www.eurozine.com/measuring-the-mobile-body/?ref=thebrowser.com)
