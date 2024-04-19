@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
+* [2024-04-19, 05:16:37](https://news.ycombinator.com/item?id=40083641) - [VoRS: Vo(IP) Simple Alternative to Mumble](http://www.vors.stargrave.org/)
 * [2024-04-19, 05:13:51](https://news.ycombinator.com/item?id=40083622) - [How Amazon built an EV charging network in two years](https://theprogressplaybook.com/2024/04/15/how-amazon-built-a-massive-ev-charging-network-in-just-two-years/)
 * [2024-04-19, 04:38:32](https://news.ycombinator.com/item?id=40083470) - [Samsung shifts executives to six-day workweeks to 'inject a sense of crisis'](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
 * [2024-04-19, 03:07:30](https://news.ycombinator.com/item?id=40083090) - [Tesla discloses it spent $200k advertising on X](https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html)
@@ -22,7 +23,6 @@
 * [2024-04-18, 16:20:00](https://news.ycombinator.com/item?id=40077793) - [Dnsmasq wins the first BlueHats Prize](https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html)
 * [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 15:26:57](https://news.ycombinator.com/item?id=40077233) - [Multi-tenant queues in Postgres](https://docs.hatchet.run/blog/multi-tenant-queues)
-* [2024-04-18, 15:09:13](https://news.ycombinator.com/item?id=40077048) - [OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
 * [2024-04-18, 14:46:50](https://news.ycombinator.com/item?id=40076848) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
 * [2024-04-18, 14:01:06](https://news.ycombinator.com/item?id=40076345) - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
 * [2024-04-18, 12:43:07](https://news.ycombinator.com/item?id=40075598) - [My mother declared my bedroom a disaster area (1984)](https://news.lettersofnote.com/p/my-mother-declared-my-bedroom-a-disaster)
