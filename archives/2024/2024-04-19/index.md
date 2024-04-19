@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 21:09:41](https://news.ycombinator.com/item?id=40091924) - [Bicycle Day (Psychedelic Holiday)](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
 * [2024-04-19, 21:00:49](https://news.ycombinator.com/item?id=40091840) - [Streak (YC W22) Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-04-19, 20:53:00](https://news.ycombinator.com/item?id=40091774) - [YouTube moves to AV1 by default to the dismay of some Android users](https://www.androidpolice.com/youtube-google-av1-codec-android-video/)
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)

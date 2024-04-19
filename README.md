@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 21:09:41](https://news.ycombinator.com/item?id=40091924) - [Bicycle Day (Psychedelic Holiday)](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
 * [2024-04-19, 21:00:49](https://news.ycombinator.com/item?id=40091840) - [Streak (YC W22) Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
 * [2024-04-19, 20:03:45](https://news.ycombinator.com/item?id=40091379) - [Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
 * [2024-04-19, 19:56:54](https://news.ycombinator.com/item?id=40091314) - [Intel's 14A Magic Bullet: Directed Self-Assembly (DSA)](https://www.semianalysis.com/p/intels-14a-magic-bullet-directed)
 * [2024-04-19, 19:29:18](https://news.ycombinator.com/item?id=40091042) - [Ask questions about Git repositories from a web UI](https://greptile.com/)
-* [2024-04-19, 18:15:03](https://news.ycombinator.com/item?id=40090221) - [GM's Futuristic '80s Digital Displays – This Man Fights to Keep Them Alive](https://www.theautopian.com/gms-futuristic-80s-digital-displays-are-dying-but-this-man-is-fighting-to-keep-them-alive/)
 * [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill v2 – Rich text editor](https://quilljs.com/)
