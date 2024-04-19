@@ -35,6 +35,7 @@
 * [2024-04-17, 17:09:14](https://news.ycombinator.com/item?id=40067486) - [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 * [2024-04-17, 17:09:04](https://news.ycombinator.com/item?id=40067484) - [Show HN: A self-published art book about Google's first 25 years](https://www.damaia.com/google)
 * [2024-04-17, 17:00:46](https://news.ycombinator.com/item?id=40067372) - [Y Combinator is hiring full stack engineers – learn tons and tons about startups](https://news.ycombinator.com/item?id=40067372)
+* [2024-04-17, 16:50:10](https://news.ycombinator.com/item?id=40067238) - [The City and the Limiting Virtues](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues)
 * [2024-04-17, 16:47:21](https://news.ycombinator.com/item?id=40067206) - [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
 * [2024-04-17, 16:45:40](https://news.ycombinator.com/item?id=40067184) - [The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
 * [2024-04-17, 16:43:36](https://news.ycombinator.com/item?id=40067158) - [Joseph Priestley created revolutionary \"maps\" of time](https://www.neh.gov/article/joseph-priestley-created-revolutionary-maps-time)

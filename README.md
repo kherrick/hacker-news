@@ -19,7 +19,6 @@
 * [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum – Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
 * [2024-04-18, 18:08:26](https://news.ycombinator.com/item?id=40079014) - [Myths about the Anthropocene](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
 * [2024-04-18, 16:50:04](https://news.ycombinator.com/item?id=40078195) - [Show HN: Vapi – Convince our voice AI to give you the secret code](https://blog.vapi.ai/show-hn-vapi-try-to-convince-our-voice-ai-to-give-you-the-secret-code/)
-* [2024-04-18, 16:42:04](https://news.ycombinator.com/item?id=40078106) - [I keep a WTF notebook (2021)](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 15:26:57](https://news.ycombinator.com/item?id=40077233) - [Multi-tenant queues in Postgres](https://docs.hatchet.run/blog/multi-tenant-queues)
 * [2024-04-18, 15:09:13](https://news.ycombinator.com/item?id=40077048) - [OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
@@ -28,6 +27,7 @@
 * [2024-04-18, 12:43:07](https://news.ycombinator.com/item?id=40075598) - [My mother declared my bedroom a disaster area (1984)](https://news.lettersofnote.com/p/my-mother-declared-my-bedroom-a-disaster)
 * [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
 * [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
+* [2024-04-17, 16:50:10](https://news.ycombinator.com/item?id=40067238) - [The City and the Limiting Virtues](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues)
 * [2024-04-17, 16:34:13](https://news.ycombinator.com/item?id=40067033) - [Playing it over and over again: how Casablanca was made (2018)](https://www.newstatesman.com/culture/2018/04/playing-it-over-and-over-again-how-casablanca-was-made)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 
