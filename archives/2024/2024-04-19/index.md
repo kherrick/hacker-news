@@ -6,6 +6,7 @@
 
 * [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
 * [2024-04-19, 13:47:02](https://news.ycombinator.com/item?id=40086793) - [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
+* [2024-04-19, 13:45:22](https://news.ycombinator.com/item?id=40086779) - [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
 * [2024-04-19, 13:27:47](https://news.ycombinator.com/item?id=40086571) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 * [2024-04-19, 13:24:48](https://news.ycombinator.com/item?id=40086539) - [Drive-Through Car Wash Was Too Much for Tesla Cybertruck](https://gizmodo.com/drive-through-car-wash-was-too-much-for-tesla-cybertruc-1851420356)
 * [2024-04-19, 13:01:33](https://news.ycombinator.com/item?id=40086280) - [Infected blood scandal: Children were used as 'guinea pigs' in clinical trials](https://www.bbc.com/news/health-68831061)
@@ -14,6 +15,7 @@
 * [2024-04-19, 12:00:30](https://news.ycombinator.com/item?id=40085706) - [Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng](https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer)
 * [2024-04-19, 11:42:18](https://news.ycombinator.com/item?id=40085565) - [Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
 * [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
+* [2024-04-19, 10:58:13](https://news.ycombinator.com/item?id=40085260) - [Quantum Algorithms for Lattice Problems – Update on April 18](http://www.chenyilei.net/)
 * [2024-04-19, 10:53:48](https://news.ycombinator.com/item?id=40085237) - [C-Macs – a pure C macOS application](https://github.com/CodaFi/C-Macs)
 * [2024-04-19, 10:51:01](https://news.ycombinator.com/item?id=40085214) - [Apple deletes WhatsApp, Threads from China app store on orders from Beijing](https://www.cnn.com/2024/04/19/tech/china-apple-whatspp-threads-removal-hnk-intl/index.html)
 * [2024-04-19, 10:37:54](https://news.ycombinator.com/item?id=40085134) - [Developing Rapidly with Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai)
