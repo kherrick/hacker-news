@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 15:03:21](https://news.ycombinator.com/item?id=40087718) - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://www.theverge.com/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect)
+* [2024-04-19, 14:45:46](https://news.ycombinator.com/item?id=40087492) - [TSMC to charge premium for making chips outside of Taiwan, including its US fabs](https://www.tomshardware.com/tech-industry/tsmc-to-charge-premium-for-making-chips-outside-of-taiwan-including-its-new-us-fabs-ceo-says)
 * [2024-04-19, 14:12:58](https://news.ycombinator.com/item?id=40087068) - [Tesla Recalls All Cybertrucks over Accelerator Pedal Defect](https://gizmodo.com/tesla-recalls-all-cybertrucks-over-accelerator-pedal-de-1851421654)
 * [2024-04-19, 14:12:26](https://news.ycombinator.com/item?id=40087063) - [I spoke with a Google worker fired for protesting $1.2B Israel contract](https://www.thehandbasket.co/p/google-worker-fired-protest-israel-project-nimbus)
 * [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
