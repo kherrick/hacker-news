@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
+* [2024-04-19, 13:47:02](https://news.ycombinator.com/item?id=40086793) - [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
 * [2024-04-19, 13:27:47](https://news.ycombinator.com/item?id=40086571) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 * [2024-04-19, 13:24:48](https://news.ycombinator.com/item?id=40086539) - [Drive-Through Car Wash Was Too Much for Tesla Cybertruck](https://gizmodo.com/drive-through-car-wash-was-too-much-for-tesla-cybertruc-1851420356)
 * [2024-04-19, 13:01:33](https://news.ycombinator.com/item?id=40086280) - [Infected blood scandal: Children were used as 'guinea pigs' in clinical trials](https://www.bbc.com/news/health-68831061)
