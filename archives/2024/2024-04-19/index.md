@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 16:39:26](https://news.ycombinator.com/item?id=40088935) - [IBM and the Holocaust](https://en.wikipedia.org/wiki/IBM_and_the_Holocaust)
+* [2024-04-19, 16:25:38](https://news.ycombinator.com/item?id=40088754) - [Meta.ai Oh My](https://www.tbray.org/ongoing/When/202x/2024/04/18/Meta-AI-oh-my)
 * [2024-04-19, 16:23:10](https://news.ycombinator.com/item?id=40088731) - [Porting 8-bit Sonic 2 to the TI-84 CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
+* [2024-04-19, 16:22:52](https://news.ycombinator.com/item?id=40088727) - [Llama 3 70B tied with GPT-4 for first place on LMSYS chatbot arena leaderboard](https://twitter.com/Teknium1/status/1781328542367883765)
+* [2024-04-19, 16:22:16](https://news.ycombinator.com/item?id=40088719) - [JEP draft: Exception handling in switch](https://openjdk.org/jeps/8323658)
 * [2024-04-19, 16:07:36](https://news.ycombinator.com/item?id=40088538) - [Read Google's memo warning employees to 'think again'](https://www.businessinsider.com/google-memo-warning-employees-think-again-before-sit-in-protests-2024-4)
 * [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett (1942-2024)](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 * [2024-04-19, 15:19:44](https://news.ycombinator.com/item?id=40087933) - [Intel unveils largest-ever AI 'neuromorphic computer' mimicking the human brain](https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain)
@@ -37,6 +41,7 @@
 * [2024-04-19, 08:27:29](https://news.ycombinator.com/item?id=40084508) - [Google merges the Android, Chrome, and hardware divisions](https://arstechnica.com/gadgets/2024/04/google-merges-the-android-chrome-and-hardware-divisions/)
 * [2024-04-19, 07:46:04](https://news.ycombinator.com/item?id=40084335) - [Rust-Written LAVD Kernel Scheduler Shows Promising Results for Linux Gaming](https://www.phoronix.com/news/LAVD-Scheduler-Linux-Gaming)
 * [2024-04-19, 07:25:14](https://news.ycombinator.com/item?id=40084225) - [New Mexico: Psychologists to dress up as wizards when providing expert testimony](https://www.futilitycloset.com/2024/04/19/protocol-3/)
+* [2024-04-19, 07:18:46](https://news.ycombinator.com/item?id=40084193) - [Show HN: Shepherd 3.0 – Like wandering the aisles of your favorite bookstore](https://news.ycombinator.com/item?id=40084193)
 * [2024-04-19, 07:16:21](https://news.ycombinator.com/item?id=40084185) - [Scientists say they have found evidence of an unknown planet in our solar system](https://www.independent.co.uk/space/planet-9-nine-solar-system-b2530985.html)
 * [2024-04-19, 07:00:09](https://news.ycombinator.com/item?id=40084104) - [Routine (YC W21) Is Hiring OCaml Software Engineers: On Site (Paris) or Remote](https://news.ycombinator.com/item?id=40084104)
 * [2024-04-19, 06:12:38](https://news.ycombinator.com/item?id=40083885) - [Z80 Product Line Z84C00 End of Life / Last Time Buy [pdf]](https://www.mouser.com/PCN/Littelfuse_PCN_Z84C00.pdf)
