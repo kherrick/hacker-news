@@ -31,6 +31,7 @@
 * [2024-04-18, 20:17:20](https://news.ycombinator.com/item?id=40080266) - [The Theory That There Is Only One Electron in the Universe](https://www.iflscience.com/the-strange-theory-that-there-is-only-one-electron-in-the-universe-73818)
 * [2024-04-18, 19:52:00](https://news.ycombinator.com/item?id=40080036) - [Katherine Maher:\"free and open\" internet is a \"white male Westernized construct\"](https://twitter.com/realchrisrufo/status/1780929268949614848)
 * [2024-04-18, 19:48:51](https://news.ycombinator.com/item?id=40080010) - [Meta and Lavender](https://blog.paulbiggar.com/meta-and-lavender/)
+* [2024-04-18, 19:25:35](https://news.ycombinator.com/item?id=40079835) - [Ask HN: How do you ask users about their pain point?](https://news.ycombinator.com/item?id=40079835)
 * [2024-04-18, 19:22:59](https://news.ycombinator.com/item?id=40079816) - [Cloudflare CEO bought a newspaper to change reporting about his new house plans](https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
 * [2024-04-18, 19:11:36](https://news.ycombinator.com/item?id=40079702) - [Alexa, Change Your OKRs](https://residualthoughts.substack.com/p/alexa-change-your-okrs)
 * [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)

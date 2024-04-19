@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 16:23:10](https://news.ycombinator.com/item?id=40088731) - [Porting 8-bit Sonic 2 to the TI-84 CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 16:07:36](https://news.ycombinator.com/item?id=40088538) - [Read Google's memo warning employees to 'think again'](https://www.businessinsider.com/google-memo-warning-employees-think-again-before-sit-in-protests-2024-4)
 * [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett (1942-2024)](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 * [2024-04-19, 15:19:44](https://news.ycombinator.com/item?id=40087933) - [Intel unveils largest-ever AI 'neuromorphic computer' mimicking the human brain](https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain)
