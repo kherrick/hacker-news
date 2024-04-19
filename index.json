@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-04-19, 20:10:31",
-      "https://news.ycombinator.com/item?id=40091427"
-    ],
-    [
-      "I hate Rust (programming language)",
-      "https://dorinlazar.ro/240228-i-hate-rust-programming-language/"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 20:03:45",
       "https://news.ycombinator.com/item?id=40091379"
     ],
@@ -111,32 +101,12 @@
   ],
   [
     [
-      "2024-04-19, 17:15:29",
-      "https://news.ycombinator.com/item?id=40089430"
-    ],
-    [
-      "Does light have an infinite lifetime?",
-      "https://bigthink.com/starts-with-a-bang/light-infinite-lifetime/"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 16:59:44",
       "https://news.ycombinator.com/item?id=40089219"
     ],
     [
       "Mayakovsky in Cleveland (2023)",
       "https://clevelandhistorical.org/items/show/1001"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 16:53:26",
-      "https://news.ycombinator.com/item?id=40089138"
-    ],
-    [
-      "Don't bet on the joys of pokies (2011)",
-      "http://grogsgamut.blogspot.com/2011/04/dont-bet-on-joys-of-pokies.html"
     ]
   ],
   [
@@ -211,22 +181,22 @@
   ],
   [
     [
-      "2024-04-19, 11:39:55",
-      "https://news.ycombinator.com/item?id=40085543"
-    ],
-    [
-      "Tips on how to structure your home directory (2023)",
-      "https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 10:58:13",
       "https://news.ycombinator.com/item?id=40085260"
     ],
     [
       "Quantum Algorithms for Lattice Problems – Update on April 18",
       "http://www.chenyilei.net/"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 10:53:48",
+      "https://news.ycombinator.com/item?id=40085237"
+    ],
+    [
+      "C-Macs – a pure C macOS application",
+      "https://github.com/CodaFi/C-Macs"
     ]
   ],
   [
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2024-04-18, 19:25:35",
+      "https://news.ycombinator.com/item?id=40079835"
+    ],
+    [
+      "Ask HN: How do you ask users about their pain point?",
+      "https://news.ycombinator.com/item?id=40079835"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 15:43:42",
       "https://news.ycombinator.com/item?id=40077391"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-04-18, 00:55:34",
+      "https://news.ycombinator.com/item?id=40071858"
+    ],
+    [
+      "VASA-1: Lifelike audio-driven talking faces generated in real time",
+      "https://www.microsoft.com/en-us/research/project/vasa-1/"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 00:54:57",
       "https://news.ycombinator.com/item?id=40071854"
     ],
@@ -297,6 +287,16 @@
     [
       "Guy Callendar, the engineer who discovered human-caused global warming",
       "https://nautil.us/the-part-time-climate-scientist-542351/"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 19:29:01",
+      "https://news.ycombinator.com/item?id=40056166"
+    ],
+    [
+      "Church's λ-Calculus (2023) [pdf]",
+      "http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf"
     ]
   ]
 ]
