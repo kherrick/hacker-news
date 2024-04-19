@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 22:44:38](https://news.ycombinator.com/item?id=40092747) - [Why there will never be another Bitcoin](https://blog.kraken.com/crypto-education/opinion-why-there-will-never-be-another-bitcoin)
 * [2024-04-19, 22:08:20](https://news.ycombinator.com/item?id=40092449) - [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
 * [2024-04-19, 21:25:36](https://news.ycombinator.com/item?id=40092079) - [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
 * [2024-04-19, 21:09:41](https://news.ycombinator.com/item?id=40091924) - [Bicycle Day (Psychedelic Holiday)](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
@@ -7,7 +8,6 @@
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
 * [2024-04-19, 20:29:05](https://news.ycombinator.com/item?id=40091584) - [Francisco Varela](https://en.wikipedia.org/wiki/Francisco_Varela)
 * [2024-04-19, 20:03:45](https://news.ycombinator.com/item?id=40091379) - [Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
-* [2024-04-19, 19:29:18](https://news.ycombinator.com/item?id=40091042) - [Ask questions about Git repositories from a web UI](https://greptile.com/)
 * [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill v2 – Rich text editor](https://quilljs.com/)

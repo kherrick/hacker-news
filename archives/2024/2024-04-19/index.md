@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 22:44:38](https://news.ycombinator.com/item?id=40092747) - [Why there will never be another Bitcoin](https://blog.kraken.com/crypto-education/opinion-why-there-will-never-be-another-bitcoin)
 * [2024-04-19, 22:08:20](https://news.ycombinator.com/item?id=40092449) - [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
 * [2024-04-19, 21:44:58](https://news.ycombinator.com/item?id=40092260) - [Andrej Karpathy – Llm.c Update](https://twitter.com/karpathy/status/1781387674978533427)
 * [2024-04-19, 21:25:36](https://news.ycombinator.com/item?id=40092079) - [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
