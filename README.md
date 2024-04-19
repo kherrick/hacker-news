@@ -2,6 +2,7 @@
 
 * [2024-04-19, 10:36:31](https://news.ycombinator.com/item?id=40085122) - [Microsoft: Don't Use Iperf3 on Windows](https://techcommunity.microsoft.com/t5/networking-blog/three-reasons-why-you-should-not-use-iperf3-on-windows/ba-p/4117876)
 * [2024-04-19, 09:11:27](https://news.ycombinator.com/item?id=40084699) - [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
+* [2024-04-19, 09:07:21](https://news.ycombinator.com/item?id=40084681) - [What a difference four years makes](https://ianbetteridge.com/2024/04/19/what-a-difference-four-years-makes/)
 * [2024-04-19, 08:27:29](https://news.ycombinator.com/item?id=40084508) - [Google merges the Android, Chrome, and hardware divisions](https://arstechnica.com/gadgets/2024/04/google-merges-the-android-chrome-and-hardware-divisions/)
 * [2024-04-19, 07:25:14](https://news.ycombinator.com/item?id=40084225) - [New Mexico: Psychologists to dress up as wizards when providing expert testimony](https://www.futilitycloset.com/2024/04/19/protocol-3/)
 * [2024-04-19, 07:00:09](https://news.ycombinator.com/item?id=40084104) - [Routine (YC W21) Is Hiring OCaml Software Engineers: On Site (Paris) or Remote](https://news.ycombinator.com/item?id=40084104)
@@ -28,7 +29,6 @@
 * [2024-04-17, 16:50:10](https://news.ycombinator.com/item?id=40067238) - [The City and the Limiting Virtues](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues)
 * [2024-04-17, 16:34:13](https://news.ycombinator.com/item?id=40067033) - [Playing it over and over again: how Casablanca was made (2018)](https://www.newstatesman.com/culture/2018/04/playing-it-over-and-over-again-how-casablanca-was-made)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
-* [2024-04-17, 10:51:03](https://news.ycombinator.com/item?id=40062817) - [Ask HN: How Can I Make My Front End React to Database Changes in Real-Time?](https://news.ycombinator.com/item?id=40062817)
 * [2024-04-17, 07:35:40](https://news.ycombinator.com/item?id=40061605) - [The state of AI for hand-drawn animation inbetweening](https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html)
 
 ## [Archives](archives/index.md)
