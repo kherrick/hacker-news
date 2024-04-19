@@ -8,6 +8,7 @@
 * [2024-04-18, 23:29:09](https://news.ycombinator.com/item?id=40081816) - [It's the Information, Stupid](https://blog.mojeek.com/2024/04/its-the-information-stupid.html)
 * [2024-04-18, 23:20:08](https://news.ycombinator.com/item?id=40081761) - [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
 * [2024-04-18, 23:07:04](https://news.ycombinator.com/item?id=40081691) - [Rents Are the Fed's 'Biggest Stumbling Block' in Taming US Inflation](https://www.bloomberg.com/news/articles/2024-04-18/us-rent-inflation-looms-over-potential-interest-rate-cut)
+* [2024-04-18, 22:54:41](https://news.ycombinator.com/item?id=40081602) - [Why is it called the Ribbon? (2005)](https://web.archive.org/web/20160203163107/http://blogs.msdn.com/b/jensenh/archive/2005/10/07/478214.aspx)
 * [2024-04-18, 22:44:52](https://news.ycombinator.com/item?id=40081541) - [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
 * [2024-04-18, 22:23:16](https://news.ycombinator.com/item?id=40081387) - [United States blocks Palestinian request for full UN membership](https://www.cbc.ca/news/world/un-palestinian-united-states-veto-1.7178152)
 * [2024-04-18, 22:17:39](https://news.ycombinator.com/item?id=40081342) - [Hyundai pauses X ads over pro-Nazi content on the platform](https://www.nbcnews.com/tech/tech-news/hyundai-pauses-x-ads-nazi-content-platform-rcna148414)
