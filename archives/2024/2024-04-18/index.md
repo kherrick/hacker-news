@@ -18,6 +18,7 @@
 * [2024-04-18, 21:59:01](https://news.ycombinator.com/item?id=40081194) - [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://ai.meta.com/research/publications/imagine-flash-accelerating-emu-diffusion-models-with-backward-distillation/)
 * [2024-04-18, 21:56:39](https://news.ycombinator.com/item?id=40081175) - [Software Developers Have Health Risks](https://zetterr.substack.com/p/software-developers-have-health-risks)
 * [2024-04-18, 21:34:49](https://news.ycombinator.com/item?id=40080968) - [The modern state, not ideas, brought about religious freedom (2017)](https://aeon.co/essays/the-modern-state-not-ideas-brought-about-religious-freedom)
+* [2024-04-18, 21:29:23](https://news.ycombinator.com/item?id=40080914) - [Discovery of the first fractal molecule in nature](https://phys.org/news/2024-04-discovery-fractal-molecule-nature.html)
 * [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
 * [2024-04-18, 21:17:16](https://news.ycombinator.com/item?id=40080816) - [Cops can force suspect to unlock phone with thumbprint, US court rules](https://arstechnica.com/tech-policy/2024/04/cops-can-force-suspect-to-unlock-phone-with-thumbprint-us-court-rules/)
 * [2024-04-18, 21:14:22](https://news.ycombinator.com/item?id=40080794) - [A POI database in one line](https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html)
