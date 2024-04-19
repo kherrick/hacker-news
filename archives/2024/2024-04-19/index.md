@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
+* [2024-04-19, 17:31:40](https://news.ycombinator.com/item?id=40089658) - [First Impressions of Early-Access GPT-4 Fine-Tuning](https://www.supersimple.io/blog/gpt-4-fine-tuning-early-access)
 * [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill – Your powerful rich text editor](https://quilljs.com/)
 * [2024-04-19, 17:13:31](https://news.ycombinator.com/item?id=40089404) - [Zilog Calls Time on the Venerable Z80, Discontinues the Standalone Z84C00 CPU](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)

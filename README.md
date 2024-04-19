@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
+* [2024-04-19, 17:31:40](https://news.ycombinator.com/item?id=40089658) - [First Impressions of Early-Access GPT-4 Fine-Tuning](https://www.supersimple.io/blog/gpt-4-fine-tuning-early-access)
 * [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill – Your powerful rich text editor](https://quilljs.com/)
 * [2024-04-19, 17:00:49](https://news.ycombinator.com/item?id=40089234) - [Paces (YC S22, Climate and AI) Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
@@ -23,11 +25,9 @@
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 03:53:15](https://news.ycombinator.com/item?id=40083285) - [Scale of the Universe](https://scaleofuniverse.com/en)
 * [2024-04-18, 21:14:22](https://news.ycombinator.com/item?id=40080794) - [A POI database in one line](https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html)
-* [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 15:43:42](https://news.ycombinator.com/item?id=40077391) - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html)
 * [2024-04-18, 13:08:17](https://news.ycombinator.com/item?id=40075813) - [The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
 * [2024-04-18, 01:01:28](https://news.ycombinator.com/item?id=40071898) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
-* [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-17, 16:26:22](https://news.ycombinator.com/item?id=40066904) - [Guy Callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)
 * [2024-04-17, 07:35:40](https://news.ycombinator.com/item?id=40061605) - [The state of AI for hand-drawn animation inbetweening](https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html)
 
