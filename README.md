@@ -23,7 +23,7 @@
 * [2024-04-19, 10:53:48](https://news.ycombinator.com/item?id=40085237) - [C-Macs – a pure C macOS application](https://github.com/CodaFi/C-Macs)
 * [2024-04-19, 08:34:12](https://news.ycombinator.com/item?id=40084543) - [Show HN: Composable (as in iGoogle, but modern) privacy-friendly new tab](https://anori.app/)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
-* [2024-04-18, 21:14:22](https://news.ycombinator.com/item?id=40080794) - [A POI database in one line](https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html)
+* [2024-04-18, 19:25:35](https://news.ycombinator.com/item?id=40079835) - [Ask HN: How do you ask users about their pain point?](https://news.ycombinator.com/item?id=40079835)
 * [2024-04-18, 15:43:42](https://news.ycombinator.com/item?id=40077391) - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html)
 * [2024-04-18, 13:08:17](https://news.ycombinator.com/item?id=40075813) - [The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
 * [2024-04-18, 00:54:57](https://news.ycombinator.com/item?id=40071854) - [A mile-long lava tube where humans sheltered for thousands of years](https://gizmodo.com/humans-sheltered-lava-tube-umm-jirsan-thousands-years-1851415061)
