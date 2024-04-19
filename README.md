@@ -5,7 +5,6 @@
 * [2024-04-19, 05:16:37](https://news.ycombinator.com/item?id=40083641) - [VoRS: Vo(IP) Simple Alternative to Mumble](http://www.vors.stargrave.org/)
 * [2024-04-19, 03:53:15](https://news.ycombinator.com/item?id=40083285) - [Scale of the Universe](https://scaleofuniverse.com/en)
 * [2024-04-19, 02:53:32](https://news.ycombinator.com/item?id=40083036) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
-* [2024-04-19, 01:48:37](https://news.ycombinator.com/item?id=40082695) - [What Are Chrome Flags?](https://developer.chrome.com/docs/web-platform/chrome-flags)
 * [2024-04-19, 01:00:49](https://news.ycombinator.com/item?id=40082409) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 * [2024-04-19, 00:55:11](https://news.ycombinator.com/item?id=40082372) - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
 * [2024-04-18, 23:59:25](https://news.ycombinator.com/item?id=40081999) - [A former slave who became a cowboy, a rancher, and a Texas legend](https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/)
@@ -30,6 +29,7 @@
 * [2024-04-17, 16:50:10](https://news.ycombinator.com/item?id=40067238) - [The City and the Limiting Virtues](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues)
 * [2024-04-17, 16:34:13](https://news.ycombinator.com/item?id=40067033) - [Playing it over and over again: how Casablanca was made (2018)](https://www.newstatesman.com/culture/2018/04/playing-it-over-and-over-again-how-casablanca-was-made)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
+* [2024-04-17, 07:35:40](https://news.ycombinator.com/item?id=40061605) - [The state of AI for hand-drawn animation inbetweening](https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html)
 
 ## [Archives](archives/index.md)
 
