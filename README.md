@@ -16,6 +16,7 @@
 * [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 * [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 * [2024-04-18, 20:31:09](https://news.ycombinator.com/item?id=40080406) - [Monowheels: Vehicles with Insufficient Wheels](http://www.douglas-self.com/MUSEUM/TRANSPORT/motorwhl/motorwhl.htm)
+* [2024-04-18, 19:06:42](https://news.ycombinator.com/item?id=40079647) - [Insatiable: A life without eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
 * [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum – Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
 * [2024-04-18, 18:08:26](https://news.ycombinator.com/item?id=40079014) - [Myths about the Anthropocene](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
 * [2024-04-18, 16:50:04](https://news.ycombinator.com/item?id=40078195) - [Show HN: Vapi – Convince our voice AI to give you the secret code](https://blog.vapi.ai/show-hn-vapi-try-to-convince-our-voice-ai-to-give-you-the-secret-code/)
@@ -29,7 +30,6 @@
 * [2024-04-17, 16:50:10](https://news.ycombinator.com/item?id=40067238) - [The City and the Limiting Virtues](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues)
 * [2024-04-17, 16:34:13](https://news.ycombinator.com/item?id=40067033) - [Playing it over and over again: how Casablanca was made (2018)](https://www.newstatesman.com/culture/2018/04/playing-it-over-and-over-again-how-casablanca-was-made)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
-* [2024-04-17, 07:35:40](https://news.ycombinator.com/item?id=40061605) - [The state of AI for hand-drawn animation inbetweening](https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html)
 
 ## [Archives](archives/index.md)
 
