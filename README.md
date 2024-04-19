@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 21:44:58](https://news.ycombinator.com/item?id=40092260) - [Andrej Karpathy – Llm.c Update](https://twitter.com/karpathy/status/1781387674978533427)
 * [2024-04-19, 21:09:41](https://news.ycombinator.com/item?id=40091924) - [Bicycle Day (Psychedelic Holiday)](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
 * [2024-04-19, 21:00:49](https://news.ycombinator.com/item?id=40091840) - [Streak (YC W22) Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
@@ -27,7 +28,6 @@
 * [2024-04-18, 21:14:22](https://news.ycombinator.com/item?id=40080794) - [A POI database in one line](https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html)
 * [2024-04-18, 15:43:42](https://news.ycombinator.com/item?id=40077391) - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html)
 * [2024-04-18, 13:08:17](https://news.ycombinator.com/item?id=40075813) - [The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
-* [2024-04-18, 01:01:28](https://news.ycombinator.com/item?id=40071898) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
 * [2024-04-18, 00:54:57](https://news.ycombinator.com/item?id=40071854) - [Humans Sheltered in This Lava Tube for Thousands of Years](https://gizmodo.com/humans-sheltered-lava-tube-umm-jirsan-thousands-years-1851415061)
 * [2024-04-17, 16:26:22](https://news.ycombinator.com/item?id=40066904) - [Guy Callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)
 
