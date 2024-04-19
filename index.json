@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-19, 14:12:58",
-      "https://news.ycombinator.com/item?id=40087068"
-    ],
-    [
-      "Tesla Recalls All Cybertrucks over Accelerator Pedal Defect",
-      "https://gizmodo.com/tesla-recalls-all-cybertrucks-over-accelerator-pedal-de-1851421654"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 13:53:45",
       "https://news.ycombinator.com/item?id=40086865"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2024-04-19, 13:01:33",
+      "https://news.ycombinator.com/item?id=40086280"
+    ],
+    [
+      "Infected blood scandal: Children were used as 'guinea pigs' in clinical trials",
+      "https://www.bbc.com/news/health-68831061"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 12:22:24",
       "https://news.ycombinator.com/item?id=40085887"
     ],
@@ -67,6 +67,16 @@
     [
       "Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng",
       "https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 11:42:18",
+      "https://news.ycombinator.com/item?id=40085565"
+    ],
+    [
+      "Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals",
+      "https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Supabase Storage: now supports the S3 protocol",
       "https://supabase.com/blog/s3-compatible-storage"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 05:37:16",
-      "https://news.ycombinator.com/item?id=40083737"
-    ],
-    [
-      "Nestlé adds sugar to infant milk sold in poorer countries, report finds",
-      "https://www.theguardian.com/global-development/2024/apr/17/nestle-adds-sugar-to-infant-milk-sold-in-poorer-countries-report-finds"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-04-18, 15:26:57",
+      "https://news.ycombinator.com/item?id=40077233"
+    ],
+    [
+      "Multi-tenant queues in Postgres",
+      "https://docs.hatchet.run/blog/multi-tenant-queues"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 14:01:06",
       "https://news.ycombinator.com/item?id=40076345"
     ],
@@ -257,16 +267,6 @@
     [
       "Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG",
       "https://github.com/spawnmason/randar-explanation/blob/master/README.md"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 17:38:04",
-      "https://news.ycombinator.com/item?id=40067806"
-    ],
-    [
-      "Gecko Robotics built a $600M company from a college project",
-      "https://fortune.com/2024/04/17/gecko-founding-jake-loosararian-robots-infrastructure-environment-y-combinator/"
     ]
   ],
   [
