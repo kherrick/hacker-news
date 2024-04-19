@@ -35,6 +35,7 @@
 * [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
 * [2024-04-19, 13:47:02](https://news.ycombinator.com/item?id=40086793) - [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
 * [2024-04-19, 13:45:22](https://news.ycombinator.com/item?id=40086779) - [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
+* [2024-04-19, 13:32:45](https://news.ycombinator.com/item?id=40086625) - [When MIT and Quaker Oats conducted experiments on unsuspecting young boys](https://www.smithsonianmag.com/history/spoonful-sugar-helps-radioactive-oatmeal-go-down-180962424/)
 * [2024-04-19, 13:27:47](https://news.ycombinator.com/item?id=40086571) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 * [2024-04-19, 13:24:48](https://news.ycombinator.com/item?id=40086539) - [Drive-Through Car Wash Was Too Much for Tesla Cybertruck](https://gizmodo.com/drive-through-car-wash-was-too-much-for-tesla-cybertruc-1851420356)
 * [2024-04-19, 13:01:33](https://news.ycombinator.com/item?id=40086280) - [Infected blood scandal: Children were used as 'guinea pigs' in clinical trials](https://www.bbc.com/news/health-68831061)
