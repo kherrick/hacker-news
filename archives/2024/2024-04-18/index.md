@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
 * [2024-04-18, 23:59:25](https://news.ycombinator.com/item?id=40081999) - [The Former Slave Who Became a Cowboy, a Rancher, and a Texas Legend](https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/)
+* [2024-04-18, 23:54:50](https://news.ycombinator.com/item?id=40081977) - [Delta City '95 – Complete pack of official updates for Microsoft Windows 95](http://deltacity.stare.pro/)
 * [2024-04-18, 23:29:09](https://news.ycombinator.com/item?id=40081816) - [It's the Information, Stupid](https://blog.mojeek.com/2024/04/its-the-information-stupid.html)
 * [2024-04-18, 23:20:08](https://news.ycombinator.com/item?id=40081761) - [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
 * [2024-04-18, 23:07:04](https://news.ycombinator.com/item?id=40081691) - [Rents Are the Fed's 'Biggest Stumbling Block' in Taming US Inflation](https://www.bloomberg.com/news/articles/2024-04-18/us-rent-inflation-looms-over-potential-interest-rate-cut)
