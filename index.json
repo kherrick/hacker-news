@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-04-19, 16:39:26",
+      "https://news.ycombinator.com/item?id=40088935"
+    ],
+    [
+      "IBM and the Holocaust",
+      "https://en.wikipedia.org/wiki/IBM_and_the_Holocaust"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 16:25:38",
+      "https://news.ycombinator.com/item?id=40088754"
+    ],
+    [
+      "Meta.ai Oh My",
+      "https://www.tbray.org/ongoing/When/202x/2024/04/18/Meta-AI-oh-my"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 16:23:10",
       "https://news.ycombinator.com/item?id=40088731"
     ],
     [
       "Porting 8-bit Sonic 2 to the TI-84 CE",
       "https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 16:22:52",
+      "https://news.ycombinator.com/item?id=40088727"
+    ],
+    [
+      "Llama 3 70B tied with GPT-4 for first place on LMSYS chatbot arena leaderboard",
+      "https://twitter.com/Teknium1/status/1781328542367883765"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 16:22:16",
+      "https://news.ycombinator.com/item?id=40088719"
+    ],
+    [
+      "JEP draft: Exception handling in switch",
+      "https://openjdk.org/jeps/8323658"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2024-04-19, 12:22:24",
-      "https://news.ycombinator.com/item?id=40085887"
-    ],
-    [
-      "Ask HN: High quality Python scripts or small libraries to learn from",
-      "https://news.ycombinator.com/item?id=40085887"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 12:00:30",
       "https://news.ycombinator.com/item?id=40085706"
     ],
@@ -151,22 +181,12 @@
   ],
   [
     [
-      "2024-04-19, 10:36:31",
-      "https://news.ycombinator.com/item?id=40085122"
+      "2024-04-19, 07:18:46",
+      "https://news.ycombinator.com/item?id=40084193"
     ],
     [
-      "Don't Use Iperf3 on Windows",
-      "https://techcommunity.microsoft.com/t5/networking-blog/three-reasons-why-you-should-not-use-iperf3-on-windows/ba-p/4117876"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 05:55:20",
-      "https://news.ycombinator.com/item?id=40083821"
-    ],
-    [
-      "Sugar Industry and Coronary Heart Disease Research (2016)",
-      "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255"
+      "Show HN: Shepherd 3.0 – Like wandering the aisles of your favorite bookstore",
+      "https://news.ycombinator.com/item?id=40084193"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-04-18, 22:13:13",
-      "https://news.ycombinator.com/item?id=40081314"
-    ],
-    [
-      "The Rust calling convention we deserve",
-      "https://mcyoung.xyz/2024/04/17/calling-convention/"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 19:25:35",
       "https://news.ycombinator.com/item?id=40079835"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2024-04-18, 14:01:06",
-      "https://news.ycombinator.com/item?id=40076345"
-    ],
-    [
-      "Halo 2 in HD: Pushing the Original Xbox to the Limit",
-      "https://icode4.coffee/?p=738"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 17:42:51",
       "https://news.ycombinator.com/item?id=40067857"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=40066904"
     ],
     [
-      "Guy callendar, the engineer who discovered human-caused global warming",
+      "Guy Callendar, the engineer who discovered human-caused global warming",
       "https://nautil.us/the-part-time-climate-scientist-542351/"
     ]
   ],
