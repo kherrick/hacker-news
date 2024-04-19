@@ -5,7 +5,7 @@
 * [2024-04-19, 16:23:10](https://news.ycombinator.com/item?id=40088731) - [Porting 8-bit Sonic 2 to the TI-84 CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 16:22:52](https://news.ycombinator.com/item?id=40088727) - [Llama 3 70B tied with GPT-4 for first place on LMSYS chatbot arena leaderboard](https://twitter.com/Teknium1/status/1781328542367883765)
 * [2024-04-19, 16:22:16](https://news.ycombinator.com/item?id=40088719) - [JEP draft: Exception handling in switch](https://openjdk.org/jeps/8323658)
-* [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett (1942-2024)](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
+* [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 * [2024-04-19, 15:19:44](https://news.ycombinator.com/item?id=40087933) - [Intel unveils largest-ever AI 'neuromorphic computer' mimicking the human brain](https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain)
 * [2024-04-19, 15:10:38](https://news.ycombinator.com/item?id=40087793) - [Why are there so many beetle species?](https://knowablemagazine.org/content/article/living-world/2024/why-are-there-so-many-types-of-beetles)
 * [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
