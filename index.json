@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-04-19, 05:37:16",
-      "https://news.ycombinator.com/item?id=40083737"
+      "2024-04-19, 05:13:51",
+      "https://news.ycombinator.com/item?id=40083622"
     ],
     [
-      "Nestlé adds sugar to infant milk sold in poorer countries, report finds",
-      "https://www.theguardian.com/global-development/2024/apr/17/nestle-adds-sugar-to-infant-milk-sold-in-poorer-countries-report-finds"
+      "How Amazon built an EV charging network in two years",
+      "https://theprogressplaybook.com/2024/04/15/how-amazon-built-a-massive-ev-charging-network-in-just-two-years/"
     ]
   ],
   [
     [
-      "2024-04-19, 04:04:50",
-      "https://news.ycombinator.com/item?id=40083331"
+      "2024-04-19, 04:38:32",
+      "https://news.ycombinator.com/item?id=40083470"
     ],
     [
-      "Taylor Swift just broke Spotify",
-      "https://downdetector.com/status/spotify/"
+      "Samsung shifts executives to six-day workweeks to 'inject a sense of crisis'",
+      "https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 03:07:30",
+      "https://news.ycombinator.com/item?id=40083090"
+    ],
+    [
+      "Tesla discloses it spent $200k advertising on X",
+      "https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "SeaMonkey All-in-One Internet Application Suite",
       "https://www.seamonkey-project.org"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 00:48:16",
-      "https://news.ycombinator.com/item?id=40082320"
-    ],
-    [
-      "Modeling societal demise and reversal",
-      "https://www.frontiersin.org/articles/10.3389/fsoc.2024.1194597/full"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "The Rust calling convention we deserve",
       "https://mcyoung.xyz/2024/04/17/calling-convention/"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 21:59:01",
+      "https://news.ycombinator.com/item?id=40081194"
+    ],
+    [
+      "Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation",
+      "https://ai.meta.com/research/publications/imagine-flash-accelerating-emu-diffusion-models-with-backward-distillation/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "OpenMCT: A web based mission control framework",
       "https://github.com/nasa/openmct"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 15:05:59",
-      "https://news.ycombinator.com/item?id=40077023"
-    ],
-    [
-      "Chinchilla Scaling: A replication attempt",
-      "https://arxiv.org/abs/2404.10102"
     ]
   ],
   [
