@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-19, 15:03:21](https://news.ycombinator.com/item?id=40087718) - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://www.theverge.com/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect)
 * [2024-04-19, 14:45:46](https://news.ycombinator.com/item?id=40087492) - [TSMC to charge premium for making chips outside of Taiwan, including its US fabs](https://www.tomshardware.com/tech-industry/tsmc-to-charge-premium-for-making-chips-outside-of-taiwan-including-its-new-us-fabs-ceo-says)
 * [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
 * [2024-04-19, 13:47:02](https://news.ycombinator.com/item?id=40086793) - [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
@@ -25,6 +24,7 @@
 * [2024-04-18, 22:13:13](https://news.ycombinator.com/item?id=40081314) - [The Rust calling convention we deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 14:01:06](https://news.ycombinator.com/item?id=40076345) - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
+* [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
 * [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-17, 16:50:10](https://news.ycombinator.com/item?id=40067238) - [The City and the Limiting Virtues](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues)
 * [2024-04-17, 16:26:22](https://news.ycombinator.com/item?id=40066904) - [Guy callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)
