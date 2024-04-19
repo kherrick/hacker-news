@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 17:13:31](https://news.ycombinator.com/item?id=40089404) - [Zilog Calls Time on the Venerable Z80, Discontinues the Standalone Z84C00 CPU](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:00:49](https://news.ycombinator.com/item?id=40089234) - [Paces (YC S22, Climate and AI) Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
 * [2024-04-19, 16:53:26](https://news.ycombinator.com/item?id=40089138) - [Don't bet on the joys of pokies (2011)](http://grogsgamut.blogspot.com/2011/04/dont-bet-on-joys-of-pokies.html)
 * [2024-04-19, 16:48:23](https://news.ycombinator.com/item?id=40089053) - [Epigenetic age oscillates during the day](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14170)
-* [2024-04-19, 16:39:26](https://news.ycombinator.com/item?id=40088935) - [IBM and the Holocaust](https://en.wikipedia.org/wiki/IBM_and_the_Holocaust)
 * [2024-04-19, 16:25:38](https://news.ycombinator.com/item?id=40088754) - [Meta.ai Oh My](https://www.tbray.org/ongoing/When/202x/2024/04/18/Meta-AI-oh-my)
 * [2024-04-19, 16:23:10](https://news.ycombinator.com/item?id=40088731) - [Porting 8-bit Sonic 2 to the TI-84 CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 16:22:52](https://news.ycombinator.com/item?id=40088727) - [Llama 3 70B tied with GPT-4 for first place on LMSYS chatbot arena leaderboard](https://twitter.com/Teknium1/status/1781328542367883765)
@@ -14,6 +14,7 @@
 * [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
 * [2024-04-19, 13:47:02](https://news.ycombinator.com/item?id=40086793) - [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
 * [2024-04-19, 13:45:22](https://news.ycombinator.com/item?id=40086779) - [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
+* [2024-04-19, 13:01:33](https://news.ycombinator.com/item?id=40086280) - [Infected blood scandal: Children were used as 'guinea pigs' in clinical trials](https://www.bbc.com/news/health-68831061)
 * [2024-04-19, 11:42:18](https://news.ycombinator.com/item?id=40085565) - [Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
 * [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
 * [2024-04-19, 10:58:13](https://news.ycombinator.com/item?id=40085260) - [Quantum Algorithms for Lattice Problems – Update on April 18](http://www.chenyilei.net/)
@@ -27,7 +28,6 @@
 * [2024-04-18, 15:43:42](https://news.ycombinator.com/item?id=40077391) - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html)
 * [2024-04-18, 13:08:17](https://news.ycombinator.com/item?id=40075813) - [The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
 * [2024-04-18, 01:01:28](https://news.ycombinator.com/item?id=40071898) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
-* [2024-04-17, 22:51:26](https://news.ycombinator.com/item?id=40070925) - [Do Best Practices Matter?](https://www.telkins.dev/blog/do-best-practices-really-matter)
 * [2024-04-17, 16:26:22](https://news.ycombinator.com/item?id=40066904) - [Guy Callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)
 * [2024-04-17, 07:35:40](https://news.ycombinator.com/item?id=40061605) - [The state of AI for hand-drawn animation inbetweening](https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 17:13:31](https://news.ycombinator.com/item?id=40089404) - [Zilog Calls Time on the Venerable Z80, Discontinues the Standalone Z84C00 CPU](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:00:49](https://news.ycombinator.com/item?id=40089234) - [Paces (YC S22, Climate and AI) Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
 * [2024-04-19, 16:53:26](https://news.ycombinator.com/item?id=40089138) - [Don't bet on the joys of pokies (2011)](http://grogsgamut.blogspot.com/2011/04/dont-bet-on-joys-of-pokies.html)
 * [2024-04-19, 16:48:23](https://news.ycombinator.com/item?id=40089053) - [Epigenetic age oscillates during the day](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14170)
