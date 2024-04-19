@@ -63,6 +63,7 @@
 * [2024-04-17, 14:02:22](https://news.ycombinator.com/item?id=40064755) - [Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion](https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion)
 * [2024-04-17, 14:01:26](https://news.ycombinator.com/item?id=40064744) - [Formlabs Form 4 3D Printer Beats Injection Molding Machine in Speed and Quality [video]](https://www.youtube.com/watch?v=zdv6MlFlOrA)
 * [2024-04-17, 14:00:37](https://news.ycombinator.com/item?id=40064736) - [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
+* [2024-04-17, 13:32:42](https://news.ycombinator.com/item?id=40064345) - [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
 * [2024-04-17, 13:22:51](https://news.ycombinator.com/item?id=40064225) - [New Boston Dynamics humanoid robot [video]](https://www.youtube.com/watch?v=29ECwExc-_M)
 * [2024-04-17, 13:14:00](https://news.ycombinator.com/item?id=40064128) - [Dubai's Floods Weren't Caused by Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)
 * [2024-04-17, 13:12:15](https://news.ycombinator.com/item?id=40064106) - [Flâneur](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
