@@ -109,6 +109,7 @@
 * [2024-04-18, 01:07:12](https://news.ycombinator.com/item?id=40071940) - [Nvidia Speech and Translation AI Models Set Records for Speed and Accuracy](https://developer.nvidia.com/blog/nvidia-speech-and-translation-ai-models-set-records-for-speed-and-accuracy/)
 * [2024-04-18, 01:04:36](https://news.ycombinator.com/item?id=40071921) - [A junk food diet can cause long-term damage to adolescent brains](https://today.usc.edu/take-it-from-the-rats-a-junk-food-diet-can-cause-long-term-damage-to-adolescent-brains/)
 * [2024-04-18, 01:01:28](https://news.ycombinator.com/item?id=40071898) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
+* [2024-04-18, 00:55:34](https://news.ycombinator.com/item?id=40071858) - [VASA-1: Lifelike audio-driven talking faces generated in real time](https://www.microsoft.com/en-us/research/project/vasa-1/)
 * [2024-04-18, 00:54:57](https://news.ycombinator.com/item?id=40071854) - [Humans Sheltered in This Lava Tube for Thousands of Years](https://gizmodo.com/humans-sheltered-lava-tube-umm-jirsan-thousands-years-1851415061)
 * [2024-04-18, 00:53:05](https://news.ycombinator.com/item?id=40071843) - [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
 * [2024-04-18, 00:51:16](https://news.ycombinator.com/item?id=40071826) - [Short Stack – World’s Smallest Nintendo Wii](https://github.com/loopj/short-stack)

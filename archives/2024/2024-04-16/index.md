@@ -28,6 +28,7 @@
 * [2024-04-16, 19:40:48](https://news.ycombinator.com/item?id=40056294) - [Populist anger is 'a gift wrapped in barbed wire' (2016)](https://www.politico.eu/article/populism-is-a-gift-wrapped-in-barbed-wire-david-van-reybrouck/)
 * [2024-04-16, 19:38:25](https://news.ycombinator.com/item?id=40056256) - [Upgrading 3M Variables to Envelope Encryption](https://blog.railway.app/p/envelope-encryption)
 * [2024-04-16, 19:35:45](https://news.ycombinator.com/item?id=40056229) - [The Americas Act and Its Chances of Becoming Law](https://globalamericans.org/explaining-and-predicting-the-americas-act-and-its-chances-of-becoming-law/)
+* [2024-04-16, 19:29:01](https://news.ycombinator.com/item?id=40056166) - [Church's λ-Calculus (2023) [pdf]](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf)
 * [2024-04-16, 19:24:27](https://news.ycombinator.com/item?id=40056115) - [YouTube puts third-party clients on notice: Show ads or get blocked](https://arstechnica.com/gadgets/2024/04/youtube-will-start-blocking-third-party-clients-that-dont-show-ads/)
 * [2024-04-16, 19:23:22](https://news.ycombinator.com/item?id=40056104) - [Show HN: Generated Documentation for Linux Kernel](https://app.safa.ai/demo?version=36438a14-bd7e-42cd-89ad-12048cea7675)
 * [2024-04-16, 19:19:10](https://news.ycombinator.com/item?id=40056056) - [Judge refuses to Ctrl-Z divorce order made by a misclick](https://www.theregister.com/2024/04/16/accidental_divorce_computer_error/)
