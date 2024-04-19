@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
 * [2024-04-19, 22:44:38](https://news.ycombinator.com/item?id=40092747) - [Why there will never be another Bitcoin](https://blog.kraken.com/crypto-education/opinion-why-there-will-never-be-another-bitcoin)
+* [2024-04-19, 22:36:53](https://news.ycombinator.com/item?id=40092687) - [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
+* [2024-04-19, 22:28:34](https://news.ycombinator.com/item?id=40092627) - [Curse of Monkey Island ported to WebAssembly](https://personal-1094.web.app/scummvm.html)
+* [2024-04-19, 22:26:18](https://news.ycombinator.com/item?id=40092612) - [Erdos Problems Collection](https://www.erdosproblems.com/)
 * [2024-04-19, 22:08:20](https://news.ycombinator.com/item?id=40092449) - [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
 * [2024-04-19, 21:44:58](https://news.ycombinator.com/item?id=40092260) - [Andrej Karpathy – Llm.c Update](https://twitter.com/karpathy/status/1781387674978533427)
 * [2024-04-19, 21:25:36](https://news.ycombinator.com/item?id=40092079) - [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
