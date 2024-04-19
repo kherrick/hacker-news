@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 16:07:36](https://news.ycombinator.com/item?id=40088538) - [Read Google's memo warning employees to 'think again'](https://www.businessinsider.com/google-memo-warning-employees-think-again-before-sit-in-protests-2024-4)
+* [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett (1942-2024)](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
+* [2024-04-19, 15:19:44](https://news.ycombinator.com/item?id=40087933) - [Intel unveils largest-ever AI 'neuromorphic computer' mimicking the human brain](https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain)
+* [2024-04-19, 15:10:38](https://news.ycombinator.com/item?id=40087793) - [Why are there so many beetle species?](https://knowablemagazine.org/content/article/living-world/2024/why-are-there-so-many-types-of-beetles)
 * [2024-04-19, 15:03:21](https://news.ycombinator.com/item?id=40087718) - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://www.theverge.com/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect)
 * [2024-04-19, 15:02:18](https://news.ycombinator.com/item?id=40087704) - [China Orders Apple to Remove Popular Messaging Apps](https://www.wsj.com/tech/apple-removes-whatsapp-threads-from-china-app-store-on-government-orders-a0c02100)
 * [2024-04-19, 14:45:46](https://news.ycombinator.com/item?id=40087492) - [TSMC to charge premium for making chips outside of Taiwan, including its US fabs](https://www.tomshardware.com/tech-industry/tsmc-to-charge-premium-for-making-chips-outside-of-taiwan-including-its-new-us-fabs-ceo-says)
