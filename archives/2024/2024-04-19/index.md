@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
 * [2024-04-19, 05:00:22](https://news.ycombinator.com/item?id=40083568) - [Features macOS should copy from Linux](https://www.zdnet.com/article/6-features-i-wish-macos-would-copy-from-linux/)
+* [2024-04-19, 04:04:50](https://news.ycombinator.com/item?id=40083331) - [Taylor Swift just broke Spotify](https://downdetector.com/status/spotify/)
 * [2024-04-19, 03:12:22](https://news.ycombinator.com/item?id=40083109) - [Finetune Llama-3 2x faster in a Colab notebook](https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing)
 * [2024-04-19, 03:07:30](https://news.ycombinator.com/item?id=40083090) - [Tesla discloses it spent $200k advertising on X](https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html)
 * [2024-04-19, 02:53:32](https://news.ycombinator.com/item?id=40083036) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)

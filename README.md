@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-19, 05:00:22](https://news.ycombinator.com/item?id=40083568) - [Features macOS should copy from Linux](https://www.zdnet.com/article/6-features-i-wish-macos-would-copy-from-linux/)
+* [2024-04-19, 04:04:50](https://news.ycombinator.com/item?id=40083331) - [Taylor Swift just broke Spotify](https://downdetector.com/status/spotify/)
 * [2024-04-19, 02:53:32](https://news.ycombinator.com/item?id=40083036) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
 * [2024-04-19, 02:21:09](https://news.ycombinator.com/item?id=40082864) - [O1 Visa Hacks for Founders](https://extraordinaryaliens.substack.com/p/o1-visa-hacks-for-founders)
 * [2024-04-19, 01:04:39](https://news.ycombinator.com/item?id=40082424) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
