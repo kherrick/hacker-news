@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 14:12:58](https://news.ycombinator.com/item?id=40087068) - [Tesla Recalls All Cybertrucks over Accelerator Pedal Defect](https://gizmodo.com/tesla-recalls-all-cybertrucks-over-accelerator-pedal-de-1851421654)
+* [2024-04-19, 14:12:26](https://news.ycombinator.com/item?id=40087063) - [I spoke with a Google worker fired for protesting $1.2B Israel contract](https://www.thehandbasket.co/p/google-worker-fired-protest-israel-project-nimbus)
 * [2024-04-19, 13:53:45](https://news.ycombinator.com/item?id=40086865) - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
 * [2024-04-19, 13:47:02](https://news.ycombinator.com/item?id=40086793) - [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
 * [2024-04-19, 13:45:22](https://news.ycombinator.com/item?id=40086779) - [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
