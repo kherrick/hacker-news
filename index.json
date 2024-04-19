@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-19, 09:56:18",
-      "https://news.ycombinator.com/item?id=40084903"
-    ],
-    [
-      "Tesla Cybertruck No Match for Car Wash",
-      "https://jalopnik.com/tesla-cybertruck-no-match-for-car-wash-1851417011"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 09:11:27",
       "https://news.ycombinator.com/item?id=40084699"
     ],
@@ -207,6 +197,16 @@
     [
       "Multi-tenant queues in Postgres",
       "https://docs.hatchet.run/blog/multi-tenant-queues"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 14:46:50",
+      "https://news.ycombinator.com/item?id=40076848"
+    ],
+    [
+      "Hermit is a hermetic and reproducible sandbox for running programs",
+      "https://github.com/facebookexperimental/hermit"
     ]
   ],
   [
