@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 07:00:09](https://news.ycombinator.com/item?id=40084104) - [Routine (YC W21) Is Hiring OCaml Software Engineers: On Site (Paris) or Remote](https://news.ycombinator.com/item?id=40084104)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:37:16](https://news.ycombinator.com/item?id=40083737) - [Nestlé adds sugar to infant milk sold in poorer countries, report finds](https://www.theguardian.com/global-development/2024/apr/17/nestle-adds-sugar-to-infant-milk-sold-in-poorer-countries-report-finds)
 * [2024-04-19, 05:16:37](https://news.ycombinator.com/item?id=40083641) - [VoRS: Vo(IP) Simple Alternative to Mumble](http://www.vors.stargrave.org/)
@@ -16,6 +17,7 @@
 * [2024-04-19, 03:07:30](https://news.ycombinator.com/item?id=40083090) - [Tesla discloses it spent $200k advertising on X](https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html)
 * [2024-04-19, 02:53:32](https://news.ycombinator.com/item?id=40083036) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
 * [2024-04-19, 02:21:09](https://news.ycombinator.com/item?id=40082864) - [O1 Visa Hacks for Founders](https://extraordinaryaliens.substack.com/p/o1-visa-hacks-for-founders)
+* [2024-04-19, 01:48:37](https://news.ycombinator.com/item?id=40082695) - [What Are Chrome Flags?](https://developer.chrome.com/docs/web-platform/chrome-flags)
 * [2024-04-19, 01:04:39](https://news.ycombinator.com/item?id=40082424) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
 * [2024-04-19, 00:55:11](https://news.ycombinator.com/item?id=40082372) - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
 * [2024-04-19, 00:48:16](https://news.ycombinator.com/item?id=40082320) - [Is society caught up in a Death Spiral? Modeling societal demise and reversal](https://www.frontiersin.org/articles/10.3389/fsoc.2024.1194597/full)
