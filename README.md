@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
+* [2024-04-19, 10:51:01](https://news.ycombinator.com/item?id=40085214) - [Apple deletes WhatsApp, Threads from China app store on orders from Beijing](https://www.cnn.com/2024/04/19/tech/china-apple-whatspp-threads-removal-hnk-intl/index.html)
 * [2024-04-19, 10:37:54](https://news.ycombinator.com/item?id=40085134) - [Developing Rapidly with Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai)
 * [2024-04-19, 10:36:31](https://news.ycombinator.com/item?id=40085122) - [Microsoft: Don't Use Iperf3 on Windows](https://techcommunity.microsoft.com/t5/networking-blog/three-reasons-why-you-should-not-use-iperf3-on-windows/ba-p/4117876)
 * [2024-04-19, 09:11:27](https://news.ycombinator.com/item?id=40084699) - [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
@@ -20,10 +22,8 @@
 * [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 * [2024-04-18, 21:04:25](https://news.ycombinator.com/item?id=40080695) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 * [2024-04-18, 20:31:09](https://news.ycombinator.com/item?id=40080406) - [Monowheels: Vehicles with Insufficient Wheels](http://www.douglas-self.com/MUSEUM/TRANSPORT/motorwhl/motorwhl.htm)
-* [2024-04-18, 18:54:46](https://news.ycombinator.com/item?id=40079516) - [El Prado Museum – Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
 * [2024-04-18, 15:57:22](https://news.ycombinator.com/item?id=40077533) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 14:01:06](https://news.ycombinator.com/item?id=40076345) - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
-* [2024-04-18, 12:43:07](https://news.ycombinator.com/item?id=40075598) - [My mother declared my bedroom a disaster area (1984)](https://news.lettersofnote.com/p/my-mother-declared-my-bedroom-a-disaster)
 * [2024-04-18, 12:40:34](https://news.ycombinator.com/item?id=40075571) - [Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
 * [2024-04-17, 17:42:51](https://news.ycombinator.com/item?id=40067857) - [Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-17, 16:50:10](https://news.ycombinator.com/item?id=40067238) - [The City and the Limiting Virtues](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues)
