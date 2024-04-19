@@ -19,6 +19,7 @@
 * [2024-04-19, 02:21:09](https://news.ycombinator.com/item?id=40082864) - [O1 Visa Hacks for Founders](https://extraordinaryaliens.substack.com/p/o1-visa-hacks-for-founders)
 * [2024-04-19, 01:48:37](https://news.ycombinator.com/item?id=40082695) - [What Are Chrome Flags?](https://developer.chrome.com/docs/web-platform/chrome-flags)
 * [2024-04-19, 01:04:39](https://news.ycombinator.com/item?id=40082424) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
+* [2024-04-19, 01:00:49](https://news.ycombinator.com/item?id=40082409) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 * [2024-04-19, 00:55:11](https://news.ycombinator.com/item?id=40082372) - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
 * [2024-04-19, 00:48:16](https://news.ycombinator.com/item?id=40082320) - [Is society caught up in a Death Spiral? Modeling societal demise and reversal](https://www.frontiersin.org/articles/10.3389/fsoc.2024.1194597/full)
 * [2024-04-19, 00:28:15](https://news.ycombinator.com/item?id=40082188) - [US releases sealed Brazil orders to X, shedding light on account suspensions](https://apnews.com/article/brazil-twitter-elon-musk-x-censorship-f51dc67d51c8f5a1cf152ba467f44a8f)
