@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 17:00:49](https://news.ycombinator.com/item?id=40089234) - [Paces (YC S22, Climate and AI) Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
+* [2024-04-19, 16:53:26](https://news.ycombinator.com/item?id=40089138) - [Don't bet on the joys of pokies (2011)](http://grogsgamut.blogspot.com/2011/04/dont-bet-on-joys-of-pokies.html)
+* [2024-04-19, 16:48:23](https://news.ycombinator.com/item?id=40089053) - [Epigenetic age oscillates during the day](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14170)
 * [2024-04-19, 16:39:26](https://news.ycombinator.com/item?id=40088935) - [IBM and the Holocaust](https://en.wikipedia.org/wiki/IBM_and_the_Holocaust)
 * [2024-04-19, 16:25:38](https://news.ycombinator.com/item?id=40088754) - [Meta.ai Oh My](https://www.tbray.org/ongoing/When/202x/2024/04/18/Meta-AI-oh-my)
 * [2024-04-19, 16:23:10](https://news.ycombinator.com/item?id=40088731) - [Porting 8-bit Sonic 2 to the TI-84 CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
