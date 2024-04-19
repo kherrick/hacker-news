@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
 * [2024-04-19, 15:03:21](https://news.ycombinator.com/item?id=40087718) - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://www.theverge.com/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect)
+* [2024-04-19, 15:02:18](https://news.ycombinator.com/item?id=40087704) - [China Orders Apple to Remove Popular Messaging Apps](https://www.wsj.com/tech/apple-removes-whatsapp-threads-from-china-app-store-on-government-orders-a0c02100)
 * [2024-04-19, 14:45:46](https://news.ycombinator.com/item?id=40087492) - [TSMC to charge premium for making chips outside of Taiwan, including its US fabs](https://www.tomshardware.com/tech-industry/tsmc-to-charge-premium-for-making-chips-outside-of-taiwan-including-its-new-us-fabs-ceo-says)
 * [2024-04-19, 14:12:58](https://news.ycombinator.com/item?id=40087068) - [Tesla Recalls All Cybertrucks over Accelerator Pedal Defect](https://gizmodo.com/tesla-recalls-all-cybertrucks-over-accelerator-pedal-de-1851421654)
 * [2024-04-19, 14:12:26](https://news.ycombinator.com/item?id=40087063) - [I spoke with a Google worker fired for protesting $1.2B Israel contract](https://www.thehandbasket.co/p/google-worker-fired-protest-israel-project-nimbus)
@@ -14,6 +15,7 @@
 * [2024-04-19, 13:27:47](https://news.ycombinator.com/item?id=40086571) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 * [2024-04-19, 13:24:48](https://news.ycombinator.com/item?id=40086539) - [Drive-Through Car Wash Was Too Much for Tesla Cybertruck](https://gizmodo.com/drive-through-car-wash-was-too-much-for-tesla-cybertruc-1851420356)
 * [2024-04-19, 13:01:33](https://news.ycombinator.com/item?id=40086280) - [Infected blood scandal: Children were used as 'guinea pigs' in clinical trials](https://www.bbc.com/news/health-68831061)
+* [2024-04-19, 12:50:05](https://news.ycombinator.com/item?id=40086171) - [Copyleft licenses are not \"restrictive\"](https://drewdevault.com/2024/04/19/2024-04-19-Copyleft-is-not-restrictive.html)
 * [2024-04-19, 12:46:25](https://news.ycombinator.com/item?id=40086143) - [Tesla ordered to recall almost 4k Cybertrucks over faulty accelerator](https://www.nbcnews.com/tech/tech-news/tesla-ordered-recall-almost-4000-cybertrucks-faulty-accelerator-proble-rcna148526)
 * [2024-04-19, 12:22:24](https://news.ycombinator.com/item?id=40085887) - [Ask HN: High quality Python scripts or small libraries to learn from](https://news.ycombinator.com/item?id=40085887)
 * [2024-04-19, 12:00:30](https://news.ycombinator.com/item?id=40085706) - [Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng](https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer)
