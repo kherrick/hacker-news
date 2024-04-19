@@ -47,6 +47,7 @@
 * [2024-04-17, 16:30:31](https://news.ycombinator.com/item?id=40066975) - [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
 * [2024-04-17, 16:26:59](https://news.ycombinator.com/item?id=40066921) - [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
 * [2024-04-17, 16:26:37](https://news.ycombinator.com/item?id=40066914) - [How does this full-track, 3-wheel snow bike even turn?](https://newatlas.com/outdoors/oruga-unitrack-electric-all-terrain-vehicle/)
+* [2024-04-17, 16:26:22](https://news.ycombinator.com/item?id=40066904) - [Guy callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)
 * [2024-04-17, 15:57:05](https://news.ycombinator.com/item?id=40066482) - [The Boring Phone](https://www.heineken.com/us/en/agegateway?returnurl=%2fglobal%2fen%2ftheboringphone)
 * [2024-04-17, 15:50:00](https://news.ycombinator.com/item?id=40066376) - [McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy)
 * [2024-04-17, 15:46:02](https://news.ycombinator.com/item?id=40066308) - [US FAA issues ground stop advisory for Alaska Airlines](https://www.reuters.com/business/aerospace-defense/us-faa-issues-ground-stop-advisory-alaska-airlines-2024-04-17/)
