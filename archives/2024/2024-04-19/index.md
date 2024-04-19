@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 13:27:47](https://news.ycombinator.com/item?id=40086571) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 * [2024-04-19, 13:24:48](https://news.ycombinator.com/item?id=40086539) - [Drive-Through Car Wash Was Too Much for Tesla Cybertruck](https://gizmodo.com/drive-through-car-wash-was-too-much-for-tesla-cybertruc-1851420356)
 * [2024-04-19, 13:01:33](https://news.ycombinator.com/item?id=40086280) - [Infected blood scandal: Children were used as 'guinea pigs' in clinical trials](https://www.bbc.com/news/health-68831061)
 * [2024-04-19, 12:46:25](https://news.ycombinator.com/item?id=40086143) - [Tesla ordered to recall almost 4k Cybertrucks over faulty accelerator](https://www.nbcnews.com/tech/tech-news/tesla-ordered-recall-almost-4000-cybertrucks-faulty-accelerator-proble-rcna148526)

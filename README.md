@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-19, 13:27:47](https://news.ycombinator.com/item?id=40086571) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 * [2024-04-19, 13:01:33](https://news.ycombinator.com/item?id=40086280) - [Infected blood scandal: Children were used as 'guinea pigs' in clinical trials](https://www.bbc.com/news/health-68831061)
 * [2024-04-19, 12:22:24](https://news.ycombinator.com/item?id=40085887) - [Ask HN: High quality Python scripts or small libraries to learn from](https://news.ycombinator.com/item?id=40085887)
 * [2024-04-19, 12:00:30](https://news.ycombinator.com/item?id=40085706) - [Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng](https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer)
 * [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
 * [2024-04-19, 10:53:48](https://news.ycombinator.com/item?id=40085237) - [C-Macs – a pure C macOS application](https://github.com/CodaFi/C-Macs)
-* [2024-04-19, 07:16:21](https://news.ycombinator.com/item?id=40084185) - [Scientists say they have found evidence of an unknown planet in our solar system](https://www.independent.co.uk/space/planet-9-nine-solar-system-b2530985.html)
 * [2024-04-19, 05:55:20](https://news.ycombinator.com/item?id=40083821) - [Sugar Industry and Coronary Heart Disease Research (2016)](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
+* [2024-04-19, 05:37:16](https://news.ycombinator.com/item?id=40083737) - [Nestlé adds sugar to infant milk sold in poorer countries, report finds](https://www.theguardian.com/global-development/2024/apr/17/nestle-adds-sugar-to-infant-milk-sold-in-poorer-countries-report-finds)
 * [2024-04-19, 05:16:37](https://news.ycombinator.com/item?id=40083641) - [VoRS: Vo(IP) Simple Alternative to Mumble](http://www.vors.stargrave.org/)
 * [2024-04-19, 03:53:15](https://news.ycombinator.com/item?id=40083285) - [Scale of the Universe](https://scaleofuniverse.com/en)
 * [2024-04-19, 01:00:49](https://news.ycombinator.com/item?id=40082409) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
@@ -27,7 +28,6 @@
 * [2024-04-17, 16:50:10](https://news.ycombinator.com/item?id=40067238) - [The City and the Limiting Virtues](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues)
 * [2024-04-17, 16:34:13](https://news.ycombinator.com/item?id=40067033) - [Playing it over and over again: how Casablanca was made (2018)](https://www.newstatesman.com/culture/2018/04/playing-it-over-and-over-again-how-casablanca-was-made)
 * [2024-04-17, 12:17:08](https://news.ycombinator.com/item?id=40063555) - [Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
-* [2024-04-17, 11:44:01](https://news.ycombinator.com/item?id=40063199) - [Old part of International Space Station lands on family home](https://www.bbc.co.uk/newsround/68824029)
 * [2024-04-17, 11:36:54](https://news.ycombinator.com/item?id=40063137) - [Show HN: Desbordante 2.0 – A high-performance data profiler](https://github.com/Desbordante/desbordante-core)
 * [2024-04-17, 07:35:40](https://news.ycombinator.com/item?id=40061605) - [The state of AI for hand-drawn animation inbetweening](https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html)
 
