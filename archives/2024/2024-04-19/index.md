@@ -6,6 +6,7 @@
 
 * [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-04-19, 17:37:16](https://news.ycombinator.com/item?id=40089735) - [How the internet became shit](https://herman.bearblog.dev/how-the-internet-became-shit/)
+* [2024-04-19, 17:34:33](https://news.ycombinator.com/item?id=40089691) - [Expect financial fallout when the fossil fuel bubble bursts](https://thehill.com/opinion/energy-environment/4590103-expect-financial-fallout-when-the-fossil-fuel-bubble-finally-bursts/)
 * [2024-04-19, 17:31:40](https://news.ycombinator.com/item?id=40089658) - [First Impressions of Early-Access GPT-4 Fine-Tuning](https://www.supersimple.io/blog/gpt-4-fine-tuning-early-access)
 * [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill – Your powerful rich text editor](https://quilljs.com/)
