@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-19, 17:00:49",
+      "https://news.ycombinator.com/item?id=40089234"
+    ],
+    [
+      "Paces (YC S22, Climate and AI) Is Hiring Engineers in NYC",
+      "https://news.ycombinator.com/item?id=40089234"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 16:53:26",
+      "https://news.ycombinator.com/item?id=40089138"
+    ],
+    [
+      "Don't bet on the joys of pokies (2011)",
+      "http://grogsgamut.blogspot.com/2011/04/dont-bet-on-joys-of-pokies.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 16:48:23",
+      "https://news.ycombinator.com/item?id=40089053"
+    ],
+    [
+      "Epigenetic age oscillates during the day",
+      "https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14170"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 16:39:26",
       "https://news.ycombinator.com/item?id=40088935"
     ],
@@ -111,36 +141,6 @@
   ],
   [
     [
-      "2024-04-19, 13:27:47",
-      "https://news.ycombinator.com/item?id=40086571"
-    ],
-    [
-      "DuckDuckGo AI Chat",
-      "https://duckduckgo.com/?q=DuckDuckGo&ia=chat"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 13:01:33",
-      "https://news.ycombinator.com/item?id=40086280"
-    ],
-    [
-      "Infected blood scandal: Children were used as 'guinea pigs' in clinical trials",
-      "https://www.bbc.com/news/health-68831061"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 12:00:30",
-      "https://news.ycombinator.com/item?id=40085706"
-    ],
-    [
-      "Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng",
-      "https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 11:42:18",
       "https://news.ycombinator.com/item?id=40085565"
     ],
@@ -211,32 +211,12 @@
   ],
   [
     [
-      "2024-04-19, 00:55:11",
-      "https://news.ycombinator.com/item?id=40082372"
+      "2024-04-18, 21:14:22",
+      "https://news.ycombinator.com/item?id=40080794"
     ],
     [
-      "SeaMonkey All-in-One Internet Application Suite",
-      "https://www.seamonkey-project.org"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 23:59:25",
-      "https://news.ycombinator.com/item?id=40081999"
-    ],
-    [
-      "A former slave who became a cowboy, a rancher, and a Texas legend",
-      "https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 22:44:52",
-      "https://news.ycombinator.com/item?id=40081541"
-    ],
-    [
-      "Calculus Made Easy",
-      "https://calculusmadeeasy.org/prologue.html"
+      "A POI database in one line",
+      "https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html"
     ]
   ],
   [
@@ -251,22 +231,52 @@
   ],
   [
     [
-      "2024-04-18, 15:57:22",
-      "https://news.ycombinator.com/item?id=40077533"
+      "2024-04-18, 18:53:30",
+      "https://news.ycombinator.com/item?id=40079501"
     ],
     [
-      "Meta Llama 3",
-      "https://llama.meta.com/llama3/"
+      "Simplifying the Xz Backdoor",
+      "https://felipec.wordpress.com/2024/04/18/simplifying-the-xz-backdoor/"
     ]
   ],
   [
     [
-      "2024-04-17, 17:42:51",
-      "https://news.ycombinator.com/item?id=40067857"
+      "2024-04-18, 15:43:42",
+      "https://news.ycombinator.com/item?id=40077391"
     ],
     [
-      "Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG",
-      "https://github.com/spawnmason/randar-explanation/blob/master/README.md"
+      "Measuring personal growth",
+      "https://huyenchip.com/2024/04/17/personal-growth.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 13:08:17",
+      "https://news.ycombinator.com/item?id=40075813"
+    ],
+    [
+      "The Illustrated Word2Vec (2019)",
+      "https://jalammar.github.io/illustrated-word2vec/"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 01:01:28",
+      "https://news.ycombinator.com/item?id=40071898"
+    ],
+    [
+      "Parsing and all that",
+      "https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 22:51:26",
+      "https://news.ycombinator.com/item?id=40070925"
+    ],
+    [
+      "Do Best Practices Matter?",
+      "https://www.telkins.dev/blog/do-best-practices-really-matter"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Guy Callendar, the engineer who discovered human-caused global warming",
       "https://nautil.us/the-part-time-climate-scientist-542351/"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 11:36:54",
-      "https://news.ycombinator.com/item?id=40063137"
-    ],
-    [
-      "Show HN: Desbordante 2.0 – A high-performance data profiler",
-      "https://github.com/Desbordante/desbordante-core"
     ]
   ],
   [
