@@ -84,6 +84,7 @@
 * [2024-04-17, 11:54:03](https://news.ycombinator.com/item?id=40063300) - [Cooler transformers could help electric grid](https://www.sciencedaily.com/releases/2024/04/240416125322.htm)
 * [2024-04-17, 11:44:01](https://news.ycombinator.com/item?id=40063199) - [Old part of International Space Station lands on family home](https://www.bbc.co.uk/newsround/68824029)
 * [2024-04-17, 11:36:54](https://news.ycombinator.com/item?id=40063137) - [Show HN: Desbordante 2.0](https://github.com/Desbordante/desbordante-core)
+* [2024-04-17, 11:26:45](https://news.ycombinator.com/item?id=40063052) - ['Eat the future, pay with your face': my dystopian trip to an AI burger joint](https://www.theguardian.com/technology/2024/apr/15/ai-burger-joint-flippy-caliexpress)
 * [2024-04-17, 11:23:18](https://news.ycombinator.com/item?id=40063025) - [ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
 * [2024-04-17, 11:21:39](https://news.ycombinator.com/item?id=40063014) - [Show HN: Open Source TailwindCSS UI Components](https://github.com/EasyFrontend-com/html-tailwindcss-components)
 * [2024-04-17, 11:17:29](https://news.ycombinator.com/item?id=40062987) - [Security Vulnerability in Browser Interface Allows Computer Access via GPU](https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte)
