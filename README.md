@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-19, 20:29:39](https://news.ycombinator.com/item?id=40091592) - [Moxie: I'm no longer involved at Signal](https://twitter.com/moxie/status/1781144255848997330)
-* [2024-04-19, 20:03:45](https://news.ycombinator.com/item?id=40091379) - [Show HN: Talk to Me Human, just launched my game about social persuasion](https://talktomehuman.com/)
+* [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
+* [2024-04-19, 20:03:45](https://news.ycombinator.com/item?id=40091379) - [Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
 * [2024-04-19, 20:02:31](https://news.ycombinator.com/item?id=40091367) - [Getting Started with Gemini 1.5 Pro and Google AI Studio](https://medium.com/@crskilpatrick807/getting-started-with-gemini-1-5-pro-and-google-ai-studio-8f0064050ecf)
 * [2024-04-19, 19:56:54](https://news.ycombinator.com/item?id=40091314) - [Intel's 14A Magic Bullet: Directed Self-Assembly (DSA)](https://www.semianalysis.com/p/intels-14a-magic-bullet-directed)
-* [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
+* [2024-04-19, 19:29:18](https://news.ycombinator.com/item?id=40091042) - [Ask questions about Git repositories from a web UI](https://greptile.com/)
+* [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill v2 – Rich text editor](https://quilljs.com/)
 * [2024-04-19, 17:15:29](https://news.ycombinator.com/item?id=40089430) - [Does light have an infinite lifetime?](https://bigthink.com/starts-with-a-bang/light-infinite-lifetime/)
@@ -27,7 +28,6 @@
 * [2024-04-18, 21:14:22](https://news.ycombinator.com/item?id=40080794) - [A POI database in one line](https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html)
 * [2024-04-18, 15:43:42](https://news.ycombinator.com/item?id=40077391) - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html)
 * [2024-04-18, 13:08:17](https://news.ycombinator.com/item?id=40075813) - [The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
-* [2024-04-18, 01:01:28](https://news.ycombinator.com/item?id=40071898) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
 * [2024-04-17, 16:26:22](https://news.ycombinator.com/item?id=40066904) - [Guy Callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)
 * [2024-04-17, 07:35:40](https://news.ycombinator.com/item?id=40061605) - [The state of AI for hand-drawn animation inbetweening](https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html)
 

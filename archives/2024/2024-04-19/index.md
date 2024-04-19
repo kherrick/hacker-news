@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
 * [2024-04-19, 20:29:39](https://news.ycombinator.com/item?id=40091592) - [Moxie: I'm no longer involved at Signal](https://twitter.com/moxie/status/1781144255848997330)
 * [2024-04-19, 20:03:45](https://news.ycombinator.com/item?id=40091379) - [Show HN: Talk to Me Human, just launched my game about social persuasion](https://talktomehuman.com/)
 * [2024-04-19, 20:02:31](https://news.ycombinator.com/item?id=40091367) - [Getting Started with Gemini 1.5 Pro and Google AI Studio](https://medium.com/@crskilpatrick807/getting-started-with-gemini-1-5-pro-and-google-ai-studio-8f0064050ecf)
 * [2024-04-19, 19:56:54](https://news.ycombinator.com/item?id=40091314) - [Intel's 14A Magic Bullet: Directed Self-Assembly (DSA)](https://www.semianalysis.com/p/intels-14a-magic-bullet-directed)
+* [2024-04-19, 19:29:18](https://news.ycombinator.com/item?id=40091042) - [Ask questions about Git repositories from a web UI](https://greptile.com/)
 * [2024-04-19, 18:15:03](https://news.ycombinator.com/item?id=40090221) - [GM's Futuristic '80s Digital Displays – This Man Fights to Keep Them Alive](https://www.theautopian.com/gms-futuristic-80s-digital-displays-are-dying-but-this-man-is-fighting-to-keep-them-alive/)
 * [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-04-19, 17:37:16](https://news.ycombinator.com/item?id=40089735) - [How the internet became shit](https://herman.bearblog.dev/how-the-internet-became-shit/)
