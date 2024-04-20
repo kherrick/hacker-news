@@ -13,6 +13,7 @@
 * [2024-04-19, 22:26:18](https://news.ycombinator.com/item?id=40092612) - [Erdos Problems Collection](https://www.erdosproblems.com/)
 * [2024-04-19, 22:08:20](https://news.ycombinator.com/item?id=40092449) - [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
 * [2024-04-19, 21:44:58](https://news.ycombinator.com/item?id=40092260) - [Andrej Karpathy – Llm.c Update](https://twitter.com/karpathy/status/1781387674978533427)
+* [2024-04-19, 21:33:01](https://news.ycombinator.com/item?id=40092157) - [Multi-cursor code editing: An animated introduction](https://alexharri.com/blog/multi-cursor-code-editing-animated-introduction)
 * [2024-04-19, 21:25:36](https://news.ycombinator.com/item?id=40092079) - [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
 * [2024-04-19, 21:20:00](https://news.ycombinator.com/item?id=40092022) - [Household Size and the Housing Stock](https://kevinerdmann.substack.com/p/household-size-and-the-housing-stock)
 * [2024-04-19, 21:09:41](https://news.ycombinator.com/item?id=40091924) - [Bicycle Day (Psychedelic Holiday)](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
