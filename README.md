@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-20, 10:31:56](https://news.ycombinator.com/item?id=40096253) - [Do not buy a Hisense TV (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
+* [2024-04-20, 10:09:23](https://news.ycombinator.com/item?id=40096176) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 * [2024-04-20, 06:36:25](https://news.ycombinator.com/item?id=40095325) - [Dehydrated: Letsencrypt/acme client implemented as a shell-script](https://github.com/dehydrated-io/dehydrated)
@@ -23,7 +24,6 @@
 * [2024-04-19, 08:21:12](https://news.ycombinator.com/item?id=40084481) - [My 25-year engineering career retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
 * [2024-04-19, 07:05:08](https://news.ycombinator.com/item?id=40084130) - [Inverters with constant full load capability for electric drives](https://www.izm.fraunhofer.de/en/news_events/tech_news/inverters-with-constant-full-load-capability.html)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
-* [2024-04-18, 23:54:50](https://news.ycombinator.com/item?id=40081977) - [Delta City '95 – Complete pack of official updates for Microsoft Windows 95](http://deltacity.stare.pro/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
 * [2024-04-18, 00:54:57](https://news.ycombinator.com/item?id=40071854) - [A mile-long lava tube where humans sheltered for thousands of years](https://gizmodo.com/humans-sheltered-lava-tube-umm-jirsan-thousands-years-1851415061)
 * [2024-04-18, 00:18:54](https://news.ycombinator.com/item?id=40071609) - [Remake of the Windows 95 Solitaire game](https://github.com/danielricci/solitaire)
