@@ -1,52 +1,12 @@
 [
   [
     [
-      "2024-04-20, 19:45:59",
-      "https://news.ycombinator.com/item?id=40100389"
-    ],
-    [
-      "Chad Asks US Troops to Cease Operations at Strategic Army Base",
-      "https://www.bloomberg.com/news/articles/2024-04-19/chad-asks-us-troops-to-cease-operations-at-strategic-army-base"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 19:20:18",
-      "https://news.ycombinator.com/item?id=40100182"
-    ],
-    [
-      "Why We're Doing This",
-      "https://www.flickr.org/why-were-doing-this/"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 19:18:29",
-      "https://news.ycombinator.com/item?id=40100161"
-    ],
-    [
-      "US to withdraw military personnel from Niger, source says",
-      "https://www.reuters.com/world/us-withdraw-military-personnel-niger-source-says-2024-04-19/"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 19:17:49",
       "https://news.ycombinator.com/item?id=40100151"
     ],
     [
       "AltStore. The first Apple approved alternative App Store",
       "https://altstore.io/#Downloads"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 19:00:49",
-      "https://news.ycombinator.com/item?id=40099974"
-    ],
-    [
-      "Unreal Engine 5 gains WebGPU support",
-      "https://twitter.com/AlexStLouis10/status/1767643816750641481"
     ]
   ],
   [
@@ -91,12 +51,12 @@
   ],
   [
     [
-      "2024-04-20, 18:12:02",
-      "https://news.ycombinator.com/item?id=40099438"
+      "2024-04-20, 18:21:47",
+      "https://news.ycombinator.com/item?id=40099547"
     ],
     [
-      "Americans' New TV Habit: Subscribe. Watch. Cancel. Repeat",
-      "https://www.nytimes.com/2024/04/20/business/media/streaming-subscription-jumping.html"
+      "Codeberg: Partially Degraded Service",
+      "https://status.codeberg.org/status/codeberg"
     ]
   ],
   [
@@ -127,16 +87,6 @@
     [
       "Self-Reasoning Tokens, teaching models to think ahead",
       "https://reasoning-tokens.ghost.io/reasoning-tokens/"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 17:15:02",
-      "https://news.ycombinator.com/item?id=40098867"
-    ],
-    [
-      "VLC vs. the App Stores",
-      "https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/"
     ]
   ],
   [
@@ -231,6 +181,16 @@
   ],
   [
     [
+      "2024-04-20, 05:05:17",
+      "https://news.ycombinator.com/item?id=40094959"
+    ],
+    [
+      "Wax compiler – a tiny language designed to transpile to other languages",
+      "https://waxc.netlify.app/"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 20:33:36",
       "https://news.ycombinator.com/item?id=40091622"
     ],
@@ -241,12 +201,32 @@
   ],
   [
     [
+      "2024-04-19, 11:25:31",
+      "https://news.ycombinator.com/item?id=40085437"
+    ],
+    [
+      "The Basics of Legibility: A Short Guide for Non-Typographers",
+      "https://www.nubero.ch/blog/011/"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 10:47:37",
       "https://news.ycombinator.com/item?id=40085189"
     ],
     [
       "What Happens When Hyperscalers and Clouds Buy Most Servers and Storage?",
       "https://www.nextplatform.com/2024/04/17/what-happens-when-hyperscalers-and-clouds-buy-most-servers-and-storage/"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 10:08:36",
+      "https://news.ycombinator.com/item?id=40084957"
+    ],
+    [
+      "RFI (Radio Frequency Interference) Sleuthing with the TinySA (2021)",
+      "http://ka7oei.blogspot.com/2021/02/rfi-radio-frequency-interference.html"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Coz: Causal Profiling",
       "https://github.com/plasma-umass/coz"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 05:51:32",
+      "https://news.ycombinator.com/item?id=40083807"
+    ],
+    [
+      "Supabase Storage now supports the S3 protocol",
+      "https://supabase.com/blog/s3-compatible-storage"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 05:26:45",
+      "https://news.ycombinator.com/item?id=40083689"
+    ],
+    [
+      "The Shark Whisperer",
+      "https://nautil.us/the-shark-whisperer-547680/"
     ]
   ],
   [
