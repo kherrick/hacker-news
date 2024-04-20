@@ -119,3 +119,4 @@
 * [2024-04-18, 00:38:33](https://news.ycombinator.com/item?id=40071737) - [MGM says FTC can't probe ransomware attack as Lina Khan was a guest at the time](https://www.theregister.com/2024/04/16/mgm_ftc_lawsuit/)
 * [2024-04-18, 00:37:21](https://news.ycombinator.com/item?id=40071728) - [Chemists Invent Drugs and Drugs Save Lives](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.202400074)
 * [2024-04-18, 00:31:11](https://news.ycombinator.com/item?id=40071694) - [Lambda School and founder banned from all student lending](https://twitter.com/JoshuaOgundu/status/1780668300982415379)
+* [2024-04-18, 00:18:54](https://news.ycombinator.com/item?id=40071609) - [Solitaire: Authentic remake of the Windows 95 original](https://github.com/danielricci/solitaire)
