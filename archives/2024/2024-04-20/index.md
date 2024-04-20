@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 19:18:29](https://news.ycombinator.com/item?id=40100161) - [US to withdraw military personnel from Niger, source says](https://www.reuters.com/world/us-withdraw-military-personnel-niger-source-says-2024-04-19/)
+* [2024-04-20, 19:17:49](https://news.ycombinator.com/item?id=40100151) - [AltStore. The first Apple approved alternative App Store](https://altstore.io/#Downloads)
 * [2024-04-20, 19:00:49](https://news.ycombinator.com/item?id=40099974) - [Unreal Engine 5 gains WebGPU support](https://twitter.com/AlexStLouis10/status/1767643816750641481)
 * [2024-04-20, 18:39:55](https://news.ycombinator.com/item?id=40099739) - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
 * [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My Journey into Personal Computer Software Development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)

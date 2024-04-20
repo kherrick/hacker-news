@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-20, 19:18:29](https://news.ycombinator.com/item?id=40100161) - [US to withdraw military personnel from Niger, source says](https://www.reuters.com/world/us-withdraw-military-personnel-niger-source-says-2024-04-19/)
+* [2024-04-20, 19:17:49](https://news.ycombinator.com/item?id=40100151) - [AltStore. The first Apple approved alternative App Store](https://altstore.io/#Downloads)
 * [2024-04-20, 19:00:49](https://news.ycombinator.com/item?id=40099974) - [Unreal Engine 5 gains WebGPU support](https://twitter.com/AlexStLouis10/status/1767643816750641481)
 * [2024-04-20, 18:39:55](https://news.ycombinator.com/item?id=40099739) - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
 * [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My Journey into Personal Computer Software Development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
@@ -27,8 +29,6 @@
 * [2024-04-19, 07:18:46](https://news.ycombinator.com/item?id=40084193) - [Show HN: Shepherd 3.0 – Like wandering the aisles of your favorite bookstore](https://news.ycombinator.com/item?id=40084193)
 * [2024-04-19, 07:05:08](https://news.ycombinator.com/item?id=40084130) - [Inverters with constant full load capability for electric drives](https://www.izm.fraunhofer.de/en/news_events/tech_news/inverters-with-constant-full-load-capability.html)
 * [2024-04-19, 06:09:59](https://news.ycombinator.com/item?id=40083869) - [Coz: Causal Profiling](https://github.com/plasma-umass/coz)
-* [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
-* [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
 
 ## [Archives](archives/index.md)
