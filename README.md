@@ -2,7 +2,6 @@
 
 * [2024-04-20, 21:46:12](https://news.ycombinator.com/item?id=40101290) - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
 * [2024-04-20, 21:42:40](https://news.ycombinator.com/item?id=40101263) - [American Heart Association Paid Off by P&G to Say Heart Disease Caused by SatFat](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
-* [2024-04-20, 21:19:32](https://news.ycombinator.com/item?id=40101104) - [All web browsers on iOS are just Safari with different design](https://community.brave.com/t/why-is-the-ios-app-updated-so-sparingly/512155)
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-20, 20:50:13](https://news.ycombinator.com/item?id=40100897) - [Boeing and the Dark Age of American Manufacturing](https://www.theatlantic.com/ideas/archive/2024/04/boeing-corporate-america-manufacturing/678137/)
 * [2024-04-20, 20:44:43](https://news.ycombinator.com/item?id=40100867) - [Why Everything Is Becoming a Game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
@@ -29,6 +28,7 @@
 * [2024-04-19, 06:38:43](https://news.ycombinator.com/item?id=40084003) - [Earth Online: non-stop satellite monitoring platform](https://nimbo.earth/products/earth-online/)
 * [2024-04-19, 06:09:59](https://news.ycombinator.com/item?id=40083869) - [Coz: Causal Profiling](https://github.com/plasma-umass/coz)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
+* [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
 
 ## [Archives](archives/index.md)
