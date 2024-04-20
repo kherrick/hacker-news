@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-04-20, 14:34:37",
-      "https://news.ycombinator.com/item?id=40097637"
-    ],
-    [
-      "NASA Veteran's Propellantless Propulsion Drive That Physics Says Shouldn't Work",
-      "https://thedebrief.org/nasa-veterans-propellantless-propulsion-drive-that-physics-says-shouldnt-work-just-produced-enough-thrust-to-defeat-earths-gravity/"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 13:57:29",
-      "https://news.ycombinator.com/item?id=40097398"
-    ],
-    [
-      "What Is Wrong with Everyone?",
-      "https://www.youtube.com/watch?v=ifJPjMlwB0s"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 13:53:07",
       "https://news.ycombinator.com/item?id=40097375"
     ],
@@ -47,6 +27,16 @@
     [
       "Resend (YC W23) Is Hiring DevOps Engineers (Remote)",
       "https://resend.com/careers/devops-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-04-20, 11:40:04",
+      "https://news.ycombinator.com/item?id=40096575"
+    ],
+    [
+      "Senate passes reauthorization of key US surveillance program after midnight",
+      "https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "Dehydrated: Letsencrypt/acme client implemented as a shell-script",
       "https://github.com/dehydrated-io/dehydrated"
+    ]
+  ],
+  [
+    [
+      "2024-04-20, 06:03:21",
+      "https://news.ycombinator.com/item?id=40095189"
+    ],
+    [
+      "Volkswagen workers vote overwhelmingly to join the UAW",
+      "https://www.cnn.com/2024/04/19/business/volkswagen-uaw-vote/index.html"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-04-18, 00:55:34",
+      "https://news.ycombinator.com/item?id=40071858"
+    ],
+    [
+      "VASA-1: Lifelike audio-driven talking faces generated in real time",
+      "https://www.microsoft.com/en-us/research/project/vasa-1/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 21:41:06",
       "https://news.ycombinator.com/item?id=40070355"
     ],
@@ -287,16 +297,6 @@
     [
       "Church's λ-Calculus (2023) [pdf]",
       "http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 14:00:31",
-      "https://news.ycombinator.com/item?id=40051972"
-    ],
-    [
-      "6th generation x86 CPU Comparisons",
-      "http://www.azillionmonkeys.com/qed/cpuwar.html"
     ]
   ]
 ]
