@@ -86,6 +86,7 @@
 * [2024-04-19, 10:37:54](https://news.ycombinator.com/item?id=40085134) - [Developing Rapidly with Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai)
 * [2024-04-19, 10:36:31](https://news.ycombinator.com/item?id=40085122) - [Microsoft: Don't Use Iperf3 on Windows](https://techcommunity.microsoft.com/t5/networking-blog/three-reasons-why-you-should-not-use-iperf3-on-windows/ba-p/4117876)
 * [2024-04-19, 10:23:21](https://news.ycombinator.com/item?id=40085044) - [Introduce BPF Trampoline (2019)](https://lwn.net/Articles/804937/)
+* [2024-04-19, 10:21:24](https://news.ycombinator.com/item?id=40085028) - [Natural Language Processing in Bash](https://massimo-nazaria.github.io/nlp.html)
 * [2024-04-19, 10:08:36](https://news.ycombinator.com/item?id=40084957) - [RFI (Radio Frequency Interference) Sleuthing with the TinySA (2021)](http://ka7oei.blogspot.com/2021/02/rfi-radio-frequency-interference.html)
 * [2024-04-19, 10:01:26](https://news.ycombinator.com/item?id=40084927) - [The current state of map design in OpenStreetMap](https://imagico.de/blog/en/the-current-state-of-map-design-in-openstreetmap/)
 * [2024-04-19, 09:56:18](https://news.ycombinator.com/item?id=40084903) - [Tesla Cybertruck No Match for Car Wash](https://jalopnik.com/tesla-cybertruck-no-match-for-car-wash-1851417011)
