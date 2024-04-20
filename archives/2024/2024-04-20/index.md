@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 07:06:54](https://news.ycombinator.com/item?id=40095456) - [\"I give up. I can no longer contribute to Gutenberg\"](https://twitter.com/aristath/status/1781273156843401726)
+* [2024-04-20, 06:29:48](https://news.ycombinator.com/item?id=40095287) - [Thousands protest against Canary islands' 'unsustainable' tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
+* [2024-04-20, 05:34:56](https://news.ycombinator.com/item?id=40095070) - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
 * [2024-04-20, 05:28:49](https://news.ycombinator.com/item?id=40095041) - [Show HN: Compiled list of notification infrastructure APIs for developers](https://github.com/kevin9985/notification-infrastructure-providers)
 * [2024-04-20, 05:25:48](https://news.ycombinator.com/item?id=40095035) - [We will be shutting down Post News within the next few weeks](https://post.news/@/noam/2fJw4PYRFjya343RpiToiyEQr0x)
 * [2024-04-20, 04:42:22](https://news.ycombinator.com/item?id=40094877) - [End-of-Life for Z80 CPU and Peripherals Announced](https://hackaday.com/2024/04/19/end-of-life-for-z80-cpu-and-peripherals-announced/)
