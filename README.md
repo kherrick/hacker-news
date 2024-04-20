@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-20, 01:09:56](https://news.ycombinator.com/item?id=40093658) - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
+* [2024-04-20, 00:57:54](https://news.ycombinator.com/item?id=40093570) - [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
 * [2024-04-20, 00:14:09](https://news.ycombinator.com/item?id=40093263) - [Bitcoin Block 840000](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
 * [2024-04-19, 23:59:09](https://news.ycombinator.com/item?id=40093178) - [Llama 3 feels significantly less censored than its predecessor](https://ollama.com/blog/llama-3-is-not-very-censored)
 * [2024-04-19, 22:36:53](https://news.ycombinator.com/item?id=40092687) - [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
@@ -23,7 +24,6 @@
 * [2024-04-19, 08:34:12](https://news.ycombinator.com/item?id=40084543) - [Show HN: Composable (as in iGoogle, but modern) privacy-friendly new tab](https://anori.app/)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-18, 19:25:35](https://news.ycombinator.com/item?id=40079835) - [Ask HN: How do you ask users about their pain point?](https://news.ycombinator.com/item?id=40079835)
-* [2024-04-18, 15:43:42](https://news.ycombinator.com/item?id=40077391) - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html)
 * [2024-04-18, 13:08:17](https://news.ycombinator.com/item?id=40075813) - [The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
 * [2024-04-18, 00:54:57](https://news.ycombinator.com/item?id=40071854) - [A mile-long lava tube where humans sheltered for thousands of years](https://gizmodo.com/humans-sheltered-lava-tube-umm-jirsan-thousands-years-1851415061)
 * [2024-04-17, 21:41:06](https://news.ycombinator.com/item?id=40070355) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
