@@ -22,3 +22,4 @@
 * [2024-04-20, 00:57:54](https://news.ycombinator.com/item?id=40093570) - [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
 * [2024-04-20, 00:29:10](https://news.ycombinator.com/item?id=40093369) - [Two Hunters from the Same Lodge Afflicted with Sporadic CJD: Is CWD to Blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
 * [2024-04-20, 00:14:09](https://news.ycombinator.com/item?id=40093263) - [Bitcoin Block 840000](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
+* [2024-04-20, 00:12:43](https://news.ycombinator.com/item?id=40093257) - [Show HN: Open-source SDK for creating custom code interpreters with any LLM](https://github.com/e2b-dev/code-interpreter)
