@@ -87,6 +87,7 @@
 * [2024-04-19, 09:56:18](https://news.ycombinator.com/item?id=40084903) - [Tesla Cybertruck No Match for Car Wash](https://jalopnik.com/tesla-cybertruck-no-match-for-car-wash-1851417011)
 * [2024-04-19, 09:11:27](https://news.ycombinator.com/item?id=40084699) - [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
 * [2024-04-19, 09:07:21](https://news.ycombinator.com/item?id=40084681) - [What a difference four years makes](https://ianbetteridge.com/2024/04/19/what-a-difference-four-years-makes/)
+* [2024-04-19, 08:57:09](https://news.ycombinator.com/item?id=40084631) - [Morton: Bit Interleaving in C/C++](https://github.com/jart/morton)
 * [2024-04-19, 08:34:12](https://news.ycombinator.com/item?id=40084543) - [Show HN: Composable (as in iGoogle, but modern) privacy-friendly new tab](https://anori.app/)
 * [2024-04-19, 08:27:29](https://news.ycombinator.com/item?id=40084508) - [Google merges the Android, Chrome, and hardware divisions](https://arstechnica.com/gadgets/2024/04/google-merges-the-android-chrome-and-hardware-divisions/)
 * [2024-04-19, 08:21:12](https://news.ycombinator.com/item?id=40084481) - [My 25-Year Engineering Career Retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
