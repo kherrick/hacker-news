@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-20, 04:08:36](https://news.ycombinator.com/item?id=40094729) - [Israel uses facial recognition systems in Gaza and beyond](https://www.theguardian.com/technology/2024/apr/19/idf-facial-recognition-surveillance-palestinians)
+* [2024-04-20, 03:01:19](https://news.ycombinator.com/item?id=40094364) - [Google scraps minimum wage, benefits rules for suppliers and staffing firms](https://www.msn.com/en-gb/money/other/google-scraps-minimum-wage-benefits-rules-for-suppliers-and-staffing-firms/ar-AA1njDyi)
 * [2024-04-20, 02:33:39](https://news.ycombinator.com/item?id=40094178) - [Cosmic rays streamed through Earth's atmosphere 41,000 years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
 * [2024-04-20, 01:09:56](https://news.ycombinator.com/item?id=40093658) - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
 * [2024-04-20, 00:57:54](https://news.ycombinator.com/item?id=40093570) - [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
@@ -19,7 +20,6 @@
 * [2024-04-19, 15:48:39](https://news.ycombinator.com/item?id=40088300) - [Robotic arms that assemble panels on solar farms](https://www.fastcompany.com/91108331/these-solar-assembling-robotic-arms-could-solve-one-of-the-industrys-biggest-problems)
 * [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 * [2024-04-19, 15:10:38](https://news.ycombinator.com/item?id=40087793) - [Why are there so many beetle species?](https://knowablemagazine.org/content/article/living-world/2024/why-are-there-so-many-types-of-beetles)
-* [2024-04-19, 10:58:13](https://news.ycombinator.com/item?id=40085260) - [Quantum Algorithms for Lattice Problems – Update on April 18](http://www.chenyilei.net/)
 * [2024-04-19, 10:23:21](https://news.ycombinator.com/item?id=40085044) - [Introduce BPF Trampoline (2019)](https://lwn.net/Articles/804937/)
 * [2024-04-19, 08:34:12](https://news.ycombinator.com/item?id=40084543) - [Show HN: Composable (as in iGoogle, but modern) privacy-friendly new tab](https://anori.app/)
 * [2024-04-19, 08:03:49](https://news.ycombinator.com/item?id=40084397) - [A virtual drum machine that looks like something from Teenage Engineering](https://toddle.dev/blog/drop-a-beat)
