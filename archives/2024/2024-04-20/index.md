@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 17:15:02](https://news.ycombinator.com/item?id=40098867) - [VLC vs. the App Stores](https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/)
 * [2024-04-20, 17:00:05](https://news.ycombinator.com/item?id=40098737) - [Mintlify (YC W22) Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/Mintlify/12598e83-45ad-4179-9c57-8b9162d1387e)
 * [2024-04-20, 16:20:53](https://news.ycombinator.com/item?id=40098469) - [Multiple Planes Cross Runway While Another Is Taking Off [video]](https://www.youtube.com/watch?v=KW6lAwLy_Os)
 * [2024-04-20, 16:20:52](https://news.ycombinator.com/item?id=40098468) - [Mercedes becomes the first automaker to sell autonomous cars in the U.S.](https://fortune.com/2024/04/18/mercedes-self-driving-autonomous-cars-california-nevada-level-3-drive-pilot/)
@@ -19,6 +20,7 @@
 * [2024-04-20, 13:52:36](https://news.ycombinator.com/item?id=40097371) - [Some potential Tesla buyers couldn't stomach a purchase amid the CEO's outbursts](https://www.wsj.com/business/autos/elon-musk-turned-democrats-off-tesla-when-he-needed-them-most-176023af)
 * [2024-04-20, 13:44:38](https://news.ycombinator.com/item?id=40097328) - [Feds hit coding boot camp with big fine for allegedly conning students](https://www.theregister.com/2024/04/18/feds_say_coding_boot_camp/)
 * [2024-04-20, 13:32:05](https://news.ycombinator.com/item?id=40097249) - [Phish turned Las Vegas' Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
+* [2024-04-20, 13:27:35](https://news.ycombinator.com/item?id=40097208) - [Programming vs. Mathematical Curiosity](https://demian.ferrei.ro/blog/programmer-vs-mathematician)
 * [2024-04-20, 13:22:11](https://news.ycombinator.com/item?id=40097181) - [Low carbon cement from Sublime Systems used in first project](https://www.enr.com/articles/58381-innovative-low-carbon-cement-from-sublime-systems-used-in-first-project)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 * [2024-04-20, 12:56:05](https://news.ycombinator.com/item?id=40097045) - [Insects and Other Animals Have Consciousness, Experts Declare](https://www.quantamagazine.org/insects-and-other-animals-have-consciousness-experts-declare-20240419/)
