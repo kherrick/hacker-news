@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
 * [2024-04-20, 21:46:12](https://news.ycombinator.com/item?id=40101290) - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
+* [2024-04-20, 21:19:32](https://news.ycombinator.com/item?id=40101104) - [All web browsers on iOS are just Safari with different design](https://community.brave.com/t/why-is-the-ios-app-updated-so-sparingly/512155)
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-20, 20:48:38](https://news.ycombinator.com/item?id=40100890) - [Microsoft teases deepfake AI that's too good to release](https://www.theregister.com/2024/04/20/microsoft_deepfake_vasa/)
 * [2024-04-20, 20:19:06](https://news.ycombinator.com/item?id=40100672) - [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
