@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-20, 02:25:51](https://news.ycombinator.com/item?id=40094123) - [Why Dolphin Isn't Coming to the App Store](https://oatmealdome.me/blog/why-dolphin-isnt-coming-to-the-app-store/)
 * [2024-04-20, 01:09:56](https://news.ycombinator.com/item?id=40093658) - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
 * [2024-04-20, 00:57:54](https://news.ycombinator.com/item?id=40093570) - [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
 * [2024-04-20, 00:14:09](https://news.ycombinator.com/item?id=40093263) - [Bitcoin Block 840000](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
@@ -7,7 +8,6 @@
 * [2024-04-19, 22:36:53](https://news.ycombinator.com/item?id=40092687) - [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
 * [2024-04-19, 22:26:18](https://news.ycombinator.com/item?id=40092612) - [Erdos Problems Collection](https://www.erdosproblems.com/)
 * [2024-04-19, 22:08:20](https://news.ycombinator.com/item?id=40092449) - [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
-* [2024-04-19, 21:33:01](https://news.ycombinator.com/item?id=40092157) - [Multi-cursor code editing: An animated introduction](https://alexharri.com/blog/multi-cursor-code-editing-animated-introduction)
 * [2024-04-19, 21:25:36](https://news.ycombinator.com/item?id=40092079) - [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
 * [2024-04-19, 21:20:00](https://news.ycombinator.com/item?id=40092022) - [Household size and the housing stock](https://kevinerdmann.substack.com/p/household-size-and-the-housing-stock)
 * [2024-04-19, 21:00:49](https://news.ycombinator.com/item?id=40091840) - [Streak (YC W22) is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
