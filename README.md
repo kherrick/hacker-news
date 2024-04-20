@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-20, 16:20:52](https://news.ycombinator.com/item?id=40098468) - [Mercedes becomes the first automaker to sell autonomous cars in the U.S.](https://fortune.com/2024/04/18/mercedes-self-driving-autonomous-cars-california-nevada-level-3-drive-pilot/)
 * [2024-04-20, 15:10:57](https://news.ycombinator.com/item?id=40097974) - [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
 * [2024-04-20, 13:53:07](https://news.ycombinator.com/item?id=40097375) - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
@@ -29,7 +30,6 @@
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
 * [2024-04-18, 00:55:34](https://news.ycombinator.com/item?id=40071858) - [VASA-1: Lifelike audio-driven talking faces generated in real time](https://www.microsoft.com/en-us/research/project/vasa-1/)
 * [2024-04-16, 19:29:01](https://news.ycombinator.com/item?id=40056166) - [Church's λ-Calculus (2023) [pdf]](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf)
-* [2024-04-16, 14:00:31](https://news.ycombinator.com/item?id=40051972) - [6th generation x86 CPU Comparisons](http://www.azillionmonkeys.com/qed/cpuwar.html)
 
 ## [Archives](archives/index.md)
 

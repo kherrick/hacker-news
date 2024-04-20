@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 16:20:52](https://news.ycombinator.com/item?id=40098468) - [Mercedes becomes the first automaker to sell autonomous cars in the U.S.](https://fortune.com/2024/04/18/mercedes-self-driving-autonomous-cars-california-nevada-level-3-drive-pilot/)
 * [2024-04-20, 15:13:42](https://news.ycombinator.com/item?id=40097992) - [Artist evicted by London landlord cuts rent by commuting from Argentina](https://www.theguardian.com/uk-news/2024/apr/19/artist-evicted-by-london-landlord-cuts-rent-by-commuting-from-argentina)
 * [2024-04-20, 15:10:57](https://news.ycombinator.com/item?id=40097974) - [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
 * [2024-04-20, 14:34:37](https://news.ycombinator.com/item?id=40097637) - [NASA Veteran's Propellantless Propulsion Drive That Physics Says Shouldn't Work](https://thedebrief.org/nasa-veterans-propellantless-propulsion-drive-that-physics-says-shouldnt-work-just-produced-enough-thrust-to-defeat-earths-gravity/)
