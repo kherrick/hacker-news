@@ -121,32 +121,22 @@
   ],
   [
     [
-      "2024-04-20, 00:12:43",
-      "https://news.ycombinator.com/item?id=40093257"
-    ],
-    [
-      "Show HN: Open-source SDK for creating custom code interpreters with any LLM",
-      "https://github.com/e2b-dev/code-interpreter"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 23:24:13",
-      "https://news.ycombinator.com/item?id=40092985"
-    ],
-    [
-      "'Irresponsible' to ignore consciousness across animal world scientists argue",
-      "https://thehill.com/policy/energy-environment/4605739-widespread-animal-consciousness-irresponsible-to-ignore-new-york-declaration-scientists/"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 20:33:36",
       "https://news.ycombinator.com/item?id=40091622"
     ],
     [
       "Tell HN: Ever think of applying to YC? Do it this weekend for S24",
       "https://news.ycombinator.com/item?id=40091622"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 17:28:45",
+      "https://news.ycombinator.com/item?id=40089609"
+    ],
+    [
+      "Multipath TCP for Linux (2022)",
+      "https://www.mptcp.dev/"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2024-04-17, 21:41:06",
-      "https://news.ycombinator.com/item?id=40070355"
+      "2024-04-18, 00:55:34",
+      "https://news.ycombinator.com/item?id=40071858"
     ],
     [
-      "The Endless Maze algorithm (Atari 2600)",
-      "https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/"
+      "VASA-1: Lifelike audio-driven talking faces generated in real time",
+      "https://www.microsoft.com/en-us/research/project/vasa-1/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Church's λ-Calculus (2023) [pdf]",
       "http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 14:00:31",
+      "https://news.ycombinator.com/item?id=40051972"
+    ],
+    [
+      "6th generation x86 CPU Comparisons",
+      "http://www.azillionmonkeys.com/qed/cpuwar.html"
     ]
   ]
 ]
