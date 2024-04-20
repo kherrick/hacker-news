@@ -71,21 +71,11 @@
   ],
   [
     [
-      "2024-04-20, 17:54:58",
-      "https://news.ycombinator.com/item?id=40099259"
-    ],
-    [
-      "British Columbia has banned self-driving vehicles that exceed Level 2",
-      "https://www.thedrive.com/news/self-driving-cars-banned-in-british-columbia"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 17:54:27",
       "https://news.ycombinator.com/item?id=40099252"
     ],
     [
-      "Self-Reasoning Tokens, teaching models to think ahead",
+      "Self-reasoning tokens: teaching models to think ahead",
       "https://reasoning-tokens.ghost.io/reasoning-tokens/"
     ]
   ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2024-04-20, 11:45:39",
+      "https://news.ycombinator.com/item?id=40096607"
+    ],
+    [
+      "SICP in GNU TeXmacs",
+      "https://github.com/XmacsLabs/interactive-sicp/blob/main/README_EN.md"
+    ]
+  ],
+  [
+    [
       "2024-04-20, 11:40:04",
       "https://news.ycombinator.com/item?id=40096575"
     ],
@@ -177,16 +177,6 @@
     [
       "Dehydrated: Letsencrypt/acme client implemented as a shell-script",
       "https://github.com/dehydrated-io/dehydrated"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 05:05:17",
-      "https://news.ycombinator.com/item?id=40094959"
-    ],
-    [
-      "Wax compiler – a tiny language designed to transpile to other languages",
-      "https://waxc.netlify.app/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Inverters with constant full load capability for electric drives",
       "https://www.izm.fraunhofer.de/en/news_events/tech_news/inverters-with-constant-full-load-capability.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 06:38:43",
+      "https://news.ycombinator.com/item?id=40084003"
+    ],
+    [
+      "Earth Online: non-stop satellite monitoring platform",
+      "https://nimbo.earth/products/earth-online/"
     ]
   ],
   [
