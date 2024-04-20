@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-20, 21:46:12](https://news.ycombinator.com/item?id=40101290) - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
-* [2024-04-20, 21:42:40](https://news.ycombinator.com/item?id=40101263) - [American Heart Association Paid Off by P&G to Say Heart Disease Caused by SatFat](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-20, 20:50:13](https://news.ycombinator.com/item?id=40100897) - [Boeing and the Dark Age of American Manufacturing](https://www.theatlantic.com/ideas/archive/2024/04/boeing-corporate-america-manufacturing/678137/)
 * [2024-04-20, 20:44:43](https://news.ycombinator.com/item?id=40100867) - [Why Everything Is Becoming a Game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
@@ -13,6 +12,7 @@
 * [2024-04-20, 17:54:27](https://news.ycombinator.com/item?id=40099252) - [Self-reasoning tokens: teaching models to think ahead](https://reasoning-tokens.ghost.io/reasoning-tokens/)
 * [2024-04-20, 16:42:04](https://news.ycombinator.com/item?id=40098606) - [Tips on adding JSON output to your command line utility. (2021)](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 * [2024-04-20, 15:40:40](https://news.ycombinator.com/item?id=40098178) - [Doomscroller.xyz](https://doomscroller.xyz/)
+* [2024-04-20, 14:55:14](https://news.ycombinator.com/item?id=40097818) - [GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
 * [2024-04-20, 13:53:07](https://news.ycombinator.com/item?id=40097375) - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 * [2024-04-20, 11:45:39](https://news.ycombinator.com/item?id=40096607) - [SICP in GNU TeXmacs](https://github.com/XmacsLabs/interactive-sicp/blob/main/README_EN.md)
