@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-04-20, 19:00:49",
+      "https://news.ycombinator.com/item?id=40099974"
+    ],
+    [
+      "Unreal Engine 5 gains WebGPU support",
+      "https://twitter.com/AlexStLouis10/status/1767643816750641481"
+    ]
+  ],
+  [
+    [
       "2024-04-20, 18:39:55",
       "https://news.ycombinator.com/item?id=40099739"
     ],
     [
       "HelloKitty ransomware rebrands, releases CD Projekt and Cisco data",
       "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/"
+    ]
+  ],
+  [
+    [
+      "2024-04-20, 18:29:44",
+      "https://news.ycombinator.com/item?id=40099626"
+    ],
+    [
+      "My Journey into Personal Computer Software Development in 1983",
+      "https://farrs.substack.com/p/my-journey-into-personal-computer"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Self-Reasoning Tokens, teaching models to think ahead",
       "https://reasoning-tokens.ghost.io/reasoning-tokens/"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 17:41:31",
-      "https://news.ycombinator.com/item?id=40099135"
-    ],
-    [
-      "US House passes bill to ban TikTok if owners won't divest",
-      "https://www.nbcnews.com/politics/congress/house-vote-critical-aid-ukraine-israel-potential-tiktok-ban-rcna148395"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-04-20, 05:05:17",
-      "https://news.ycombinator.com/item?id=40094959"
-    ],
-    [
-      "Wax compiler – a tiny language designed to transpile to other languages",
-      "https://waxc.netlify.app/"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 20:33:36",
       "https://news.ycombinator.com/item?id=40091622"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-04-19, 10:08:36",
-      "https://news.ycombinator.com/item?id=40084957"
-    ],
-    [
-      "RFI (Radio Frequency Interference) Sleuthing with the TinySA (2021)",
-      "http://ka7oei.blogspot.com/2021/02/rfi-radio-frequency-interference.html"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 10:01:26",
       "https://news.ycombinator.com/item?id=40084927"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2024-04-19, 08:08:58",
-      "https://news.ycombinator.com/item?id=40084426"
+      "2024-04-19, 07:18:46",
+      "https://news.ycombinator.com/item?id=40084193"
     ],
     [
-      "Eye Candy: Visual Effects Library",
-      "https://eyecannndy.com/"
+      "Show HN: Shepherd 3.0 – Like wandering the aisles of your favorite bookstore",
+      "https://news.ycombinator.com/item?id=40084193"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Supabase Storage now supports the S3 protocol",
       "https://supabase.com/blog/s3-compatible-storage"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 05:26:45",
+      "https://news.ycombinator.com/item?id=40083689"
+    ],
+    [
+      "The Shark Whisperer",
+      "https://nautil.us/the-shark-whisperer-547680/"
     ]
   ],
   [
