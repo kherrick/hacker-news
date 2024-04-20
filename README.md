@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-20, 19:45:59](https://news.ycombinator.com/item?id=40100389) - [Chad Asks US Troops to Cease Operations at Strategic Army Base](https://www.bloomberg.com/news/articles/2024-04-19/chad-asks-us-troops-to-cease-operations-at-strategic-army-base)
+* [2024-04-20, 19:20:18](https://news.ycombinator.com/item?id=40100182) - [Why We're Doing This](https://www.flickr.org/why-were-doing-this/)
 * [2024-04-20, 19:18:29](https://news.ycombinator.com/item?id=40100161) - [US to withdraw military personnel from Niger, source says](https://www.reuters.com/world/us-withdraw-military-personnel-niger-source-says-2024-04-19/)
 * [2024-04-20, 19:17:49](https://news.ycombinator.com/item?id=40100151) - [AltStore. The first Apple approved alternative App Store](https://altstore.io/#Downloads)
 * [2024-04-20, 19:00:49](https://news.ycombinator.com/item?id=40099974) - [Unreal Engine 5 gains WebGPU support](https://twitter.com/AlexStLouis10/status/1767643816750641481)
@@ -11,8 +13,6 @@
 * [2024-04-20, 18:03:15](https://news.ycombinator.com/item?id=40099344) - [Financial Market Applications of LLMs](https://thegradient.pub/financial-market-applications-of-llms/)
 * [2024-04-20, 17:54:58](https://news.ycombinator.com/item?id=40099259) - [British Columbia has banned self-driving vehicles that exceed Level 2](https://www.thedrive.com/news/self-driving-cars-banned-in-british-columbia)
 * [2024-04-20, 17:54:27](https://news.ycombinator.com/item?id=40099252) - [Self-Reasoning Tokens, teaching models to think ahead](https://reasoning-tokens.ghost.io/reasoning-tokens/)
-* [2024-04-20, 17:24:56](https://news.ycombinator.com/item?id=40098960) - [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
-* [2024-04-20, 17:19:02](https://news.ycombinator.com/item?id=40098897) - [US Senate renews FISA law moments after it expires](https://www.nbcnews.com/politics/congress/senate-renews-fisa-section-702-spying-privacy-rcna148394)
 * [2024-04-20, 17:15:02](https://news.ycombinator.com/item?id=40098867) - [VLC vs. the App Stores](https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/)
 * [2024-04-20, 17:00:05](https://news.ycombinator.com/item?id=40098737) - [Mintlify (YC W22) Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/Mintlify/12598e83-45ad-4179-9c57-8b9162d1387e)
 * [2024-04-20, 16:42:04](https://news.ycombinator.com/item?id=40098606) - [Tips on adding JSON output to your command line utility. (2021)](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
