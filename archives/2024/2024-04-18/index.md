@@ -12,6 +12,7 @@
 * [2024-04-18, 22:54:41](https://news.ycombinator.com/item?id=40081602) - [Why is it called the Ribbon? (2005)](https://web.archive.org/web/20160203163107/http://blogs.msdn.com/b/jensenh/archive/2005/10/07/478214.aspx)
 * [2024-04-18, 22:44:52](https://news.ycombinator.com/item?id=40081541) - [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
 * [2024-04-18, 22:23:16](https://news.ycombinator.com/item?id=40081387) - [United States blocks Palestinian request for full UN membership](https://www.cbc.ca/news/world/un-palestinian-united-states-veto-1.7178152)
+* [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
 * [2024-04-18, 22:17:39](https://news.ycombinator.com/item?id=40081342) - [Hyundai pauses X ads over pro-Nazi content on the platform](https://www.nbcnews.com/tech/tech-news/hyundai-pauses-x-ads-nazi-content-platform-rcna148414)
 * [2024-04-18, 22:13:13](https://news.ycombinator.com/item?id=40081314) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2024-04-18, 21:59:33](https://news.ycombinator.com/item?id=40081201) - [Dickey Betts, hit-crafting mainstay of Allman Brothers Band, dies at 80](https://www.washingtonpost.com/obituaries/2024/04/18/dickey-betts-allman-brothers-dead/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 * [2024-04-20, 07:06:54](https://news.ycombinator.com/item?id=40095456) - [\"I give up. I can no longer contribute to Gutenberg\"](https://twitter.com/aristath/status/1781273156843401726)
 * [2024-04-20, 06:35:50](https://news.ycombinator.com/item?id=40095322) - [Cloudflare R2 Introduces Event Notifications and Infrequent Access Storage Tier](https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/)
