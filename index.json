@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-20, 00:14:09",
+      "https://news.ycombinator.com/item?id=40093263"
+    ],
+    [
+      "Bitcoin Block 840000",
+      "https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 23:59:09",
+      "https://news.ycombinator.com/item?id=40093178"
+    ],
+    [
+      "Llama 3 feels significantly less censored than its predecessor",
+      "https://ollama.com/blog/llama-3-is-not-very-censored"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 23:24:13",
       "https://news.ycombinator.com/item?id=40092985"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2024-04-19, 22:47:51",
+      "https://news.ycombinator.com/item?id=40092773"
+    ],
+    [
+      "Some Volumes Were Slow and We Figured Out Why",
+      "https://community.fly.io/t/some-volumes-were-slow-and-we-figured-out-why/19394"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 22:36:53",
       "https://news.ycombinator.com/item?id=40092687"
     ],
     [
       "Dynamic Typography: Bringing Text to Life via Video Diffusion Prior",
       "https://animate-your-word.github.io/demo/"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 22:28:34",
-      "https://news.ycombinator.com/item?id=40092627"
-    ],
-    [
-      "Curse of Monkey Island ported to WebAssembly",
-      "https://personal-1094.web.app/scummvm.html"
     ]
   ],
   [
@@ -51,22 +71,12 @@
   ],
   [
     [
-      "2024-04-19, 21:25:36",
-      "https://news.ycombinator.com/item?id=40092079"
+      "2024-04-19, 21:20:00",
+      "https://news.ycombinator.com/item?id=40092022"
     ],
     [
-      "Eight Transaction Papers by Jim Gray",
-      "https://arxiv.org/abs/2310.04601"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 21:09:41",
-      "https://news.ycombinator.com/item?id=40091924"
-    ],
-    [
-      "Bicycle Day (Psychedelic Holiday)",
-      "https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday)"
+      "Household Size and the Housing Stock",
+      "https://kevinerdmann.substack.com/p/household-size-and-the-housing-stock"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Streak (YC W22) is hiring a staff UI engineer",
       "https://www.streak.com/careers/staff-ui-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 21:00:14",
+      "https://news.ycombinator.com/item?id=40091832"
+    ],
+    [
+      "America is uniquely ill-suited to handle a falling population",
+      "https://www.economist.com/briefing/2024/04/18/america-is-uniquely-ill-suited-to-handle-a-falling-population"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-04-19, 13:45:22",
-      "https://news.ycombinator.com/item?id=40086779"
-    ],
-    [
-      "3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup",
-      "https://www.stroustrup.com/programming.html"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 10:58:13",
       "https://news.ycombinator.com/item?id=40085260"
     ],
@@ -227,26 +237,6 @@
     [
       "Supabase Storage now supports the S3 protocol",
       "https://supabase.com/blog/s3-compatible-storage"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 19:25:35",
-      "https://news.ycombinator.com/item?id=40079835"
-    ],
-    [
-      "Ask HN: How do you ask users about their pain point?",
-      "https://news.ycombinator.com/item?id=40079835"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 15:43:42",
-      "https://news.ycombinator.com/item?id=40077391"
-    ],
-    [
-      "Measuring personal growth",
-      "https://huyenchip.com/2024/04/17/personal-growth.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Church's λ-Calculus (2023) [pdf]",
       "http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 14:00:31",
+      "https://news.ycombinator.com/item?id=40051972"
+    ],
+    [
+      "6th generation x86 CPU Comparisons",
+      "http://www.azillionmonkeys.com/qed/cpuwar.html"
     ]
   ]
 ]
