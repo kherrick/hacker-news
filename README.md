@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-20, 12:54:33](https://news.ycombinator.com/item?id=40097027) - [Squarial](https://en.wikipedia.org/wiki/Squarial)
+* [2024-04-20, 13:22:11](https://news.ycombinator.com/item?id=40097181) - [Low carbon cement from Sublime Systems used in first project](https://www.enr.com/articles/58381-innovative-low-carbon-cement-from-sublime-systems-used-in-first-project)
+* [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 * [2024-04-20, 12:00:59](https://news.ycombinator.com/item?id=40096702) - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
 * [2024-04-20, 10:09:25](https://news.ycombinator.com/item?id=40096177) - [One UX researcher ignited changes to how the company (YouTube) built product](https://twitter.com/elizlaraki/status/1781336748624097561)
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
@@ -25,7 +26,6 @@
 * [2024-04-19, 08:21:12](https://news.ycombinator.com/item?id=40084481) - [My 25-year engineering career retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
 * [2024-04-19, 07:05:08](https://news.ycombinator.com/item?id=40084130) - [Inverters with constant full load capability for electric drives](https://www.izm.fraunhofer.de/en/news_events/tech_news/inverters-with-constant-full-load-capability.html)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
-* [2024-04-18, 23:54:50](https://news.ycombinator.com/item?id=40081977) - [Delta City '95 – Complete pack of official updates for Microsoft Windows 95](http://deltacity.stare.pro/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
 * [2024-04-17, 21:41:06](https://news.ycombinator.com/item?id=40070355) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
 * [2024-04-16, 19:29:01](https://news.ycombinator.com/item?id=40056166) - [Church's λ-Calculus (2023) [pdf]](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf)
