@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-04-20, 16:20:53",
-      "https://news.ycombinator.com/item?id=40098469"
-    ],
-    [
-      "Multiple Planes Cross Runway While Another Is Taking Off [video]",
-      "https://www.youtube.com/watch?v=KW6lAwLy_Os"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 15:40:40",
       "https://news.ycombinator.com/item?id=40098178"
     ],
@@ -187,6 +177,16 @@
     [
       "Dehydrated: Letsencrypt/acme client implemented as a shell-script",
       "https://github.com/dehydrated-io/dehydrated"
+    ]
+  ],
+  [
+    [
+      "2024-04-20, 05:05:17",
+      "https://news.ycombinator.com/item?id=40094959"
+    ],
+    [
+      "Wax compiler – a tiny language designed to transpile to other languages",
+      "https://waxc.netlify.app/"
     ]
   ],
   [
