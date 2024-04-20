@@ -85,6 +85,7 @@
 * [2024-04-19, 10:36:31](https://news.ycombinator.com/item?id=40085122) - [Microsoft: Don't Use Iperf3 on Windows](https://techcommunity.microsoft.com/t5/networking-blog/three-reasons-why-you-should-not-use-iperf3-on-windows/ba-p/4117876)
 * [2024-04-19, 10:23:21](https://news.ycombinator.com/item?id=40085044) - [Introduce BPF Trampoline (2019)](https://lwn.net/Articles/804937/)
 * [2024-04-19, 10:08:36](https://news.ycombinator.com/item?id=40084957) - [RFI (Radio Frequency Interference) Sleuthing with the TinySA (2021)](http://ka7oei.blogspot.com/2021/02/rfi-radio-frequency-interference.html)
+* [2024-04-19, 10:01:26](https://news.ycombinator.com/item?id=40084927) - [The current state of map design in OpenStreetMap](https://imagico.de/blog/en/the-current-state-of-map-design-in-openstreetmap/)
 * [2024-04-19, 09:56:18](https://news.ycombinator.com/item?id=40084903) - [Tesla Cybertruck No Match for Car Wash](https://jalopnik.com/tesla-cybertruck-no-match-for-car-wash-1851417011)
 * [2024-04-19, 09:11:27](https://news.ycombinator.com/item?id=40084699) - [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
 * [2024-04-19, 09:07:21](https://news.ycombinator.com/item?id=40084681) - [What a difference four years makes](https://ianbetteridge.com/2024/04/19/what-a-difference-four-years-makes/)

@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 17:00:05](https://news.ycombinator.com/item?id=40098737) - [Mintlify (YC W22) Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/Mintlify/12598e83-45ad-4179-9c57-8b9162d1387e)
 * [2024-04-20, 16:20:52](https://news.ycombinator.com/item?id=40098468) - [Mercedes becomes the first automaker to sell autonomous cars in the U.S.](https://fortune.com/2024/04/18/mercedes-self-driving-autonomous-cars-california-nevada-level-3-drive-pilot/)
+* [2024-04-20, 16:12:28](https://news.ycombinator.com/item?id=40098405) - [Stop Doing Cloud](https://grski.pl/self-host)
+* [2024-04-20, 15:40:40](https://news.ycombinator.com/item?id=40098178) - [Doomscroller.xyz](https://doomscroller.xyz/)
 * [2024-04-20, 15:13:42](https://news.ycombinator.com/item?id=40097992) - [Artist evicted by London landlord cuts rent by commuting from Argentina](https://www.theguardian.com/uk-news/2024/apr/19/artist-evicted-by-london-landlord-cuts-rent-by-commuting-from-argentina)
 * [2024-04-20, 15:10:57](https://news.ycombinator.com/item?id=40097974) - [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
 * [2024-04-20, 14:55:14](https://news.ycombinator.com/item?id=40097818) - [GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
