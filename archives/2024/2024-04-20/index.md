@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 15:13:42](https://news.ycombinator.com/item?id=40097992) - [Artist evicted by London landlord cuts rent by commuting from Argentina](https://www.theguardian.com/uk-news/2024/apr/19/artist-evicted-by-london-landlord-cuts-rent-by-commuting-from-argentina)
+* [2024-04-20, 15:10:57](https://news.ycombinator.com/item?id=40097974) - [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
 * [2024-04-20, 14:34:37](https://news.ycombinator.com/item?id=40097637) - [NASA Veteran's Propellantless Propulsion Drive That Physics Says Shouldn't Work](https://thedebrief.org/nasa-veterans-propellantless-propulsion-drive-that-physics-says-shouldnt-work-just-produced-enough-thrust-to-defeat-earths-gravity/)
 * [2024-04-20, 13:57:29](https://news.ycombinator.com/item?id=40097398) - [What Is Wrong with Everyone?](https://www.youtube.com/watch?v=ifJPjMlwB0s)
 * [2024-04-20, 13:53:07](https://news.ycombinator.com/item?id=40097375) - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)

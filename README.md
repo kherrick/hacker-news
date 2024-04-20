@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-20, 15:13:42](https://news.ycombinator.com/item?id=40097992) - [Artist evicted by London landlord cuts rent by commuting from Argentina](https://www.theguardian.com/uk-news/2024/apr/19/artist-evicted-by-london-landlord-cuts-rent-by-commuting-from-argentina)
+* [2024-04-20, 15:10:57](https://news.ycombinator.com/item?id=40097974) - [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
 * [2024-04-20, 13:53:07](https://news.ycombinator.com/item?id=40097375) - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 * [2024-04-20, 12:00:59](https://news.ycombinator.com/item?id=40096702) - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
@@ -11,9 +13,8 @@
 * [2024-04-20, 06:03:21](https://news.ycombinator.com/item?id=40095189) - [Volkswagen workers vote overwhelmingly to join the UAW](https://www.cnn.com/2024/04/19/business/volkswagen-uaw-vote/index.html)
 * [2024-04-20, 02:33:39](https://news.ycombinator.com/item?id=40094178) - [Cosmic rays streamed through Earth's atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
 * [2024-04-20, 00:12:43](https://news.ycombinator.com/item?id=40093257) - [Show HN: Open-source SDK for creating custom code interpreters with any LLM](https://github.com/e2b-dev/code-interpreter)
-* [2024-04-19, 23:54:53](https://news.ycombinator.com/item?id=40093159) - [Human-level few-shot concept induction through minimax entropy learning](https://www.science.org/doi/10.1126/sciadv.adg2488)
+* [2024-04-19, 23:24:13](https://news.ycombinator.com/item?id=40092985) - ['Irresponsible' to ignore consciousness across animal world scientists argue](https://thehill.com/policy/energy-environment/4605739-widespread-animal-consciousness-irresponsible-to-ignore-new-york-declaration-scientists/)
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
-* [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill v2 – Rich text editor](https://quilljs.com/)
 * [2024-04-19, 16:59:44](https://news.ycombinator.com/item?id=40089219) - [Mayakovsky in Cleveland (2023)](https://clevelandhistorical.org/items/show/1001)
 * [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
@@ -27,7 +28,6 @@
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
-* [2024-04-18, 00:55:34](https://news.ycombinator.com/item?id=40071858) - [VASA-1: Lifelike audio-driven talking faces generated in real time](https://www.microsoft.com/en-us/research/project/vasa-1/)
 * [2024-04-17, 21:41:06](https://news.ycombinator.com/item?id=40070355) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
 * [2024-04-16, 19:29:01](https://news.ycombinator.com/item?id=40056166) - [Church's λ-Calculus (2023) [pdf]](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf)
 
