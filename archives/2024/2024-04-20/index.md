@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 19:50:49](https://news.ycombinator.com/item?id=40100430) - [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
 * [2024-04-20, 19:45:59](https://news.ycombinator.com/item?id=40100389) - [Chad Asks US Troops to Cease Operations at Strategic Army Base](https://www.bloomberg.com/news/articles/2024-04-19/chad-asks-us-troops-to-cease-operations-at-strategic-army-base)
 * [2024-04-20, 19:20:18](https://news.ycombinator.com/item?id=40100182) - [Why We're Doing This](https://www.flickr.org/why-were-doing-this/)
 * [2024-04-20, 19:18:29](https://news.ycombinator.com/item?id=40100161) - [US to withdraw military personnel from Niger, source says](https://www.reuters.com/world/us-withdraw-military-personnel-niger-source-says-2024-04-19/)
