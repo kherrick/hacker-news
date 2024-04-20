@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-04-20, 05:05:17",
+      "https://news.ycombinator.com/item?id=40094959"
+    ],
+    [
+      "Wax compiler – a tiny language designed to transpile to other languages",
+      "https://waxc.netlify.app/"
+    ]
+  ],
+  [
+    [
       "2024-04-20, 02:33:39",
       "https://news.ycombinator.com/item?id=40094178"
     ],
@@ -287,16 +297,6 @@
     [
       "Church's λ-Calculus (2023) [pdf]",
       "http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 14:00:31",
-      "https://news.ycombinator.com/item?id=40051972"
-    ],
-    [
-      "6th generation x86 CPU Comparisons",
-      "http://www.azillionmonkeys.com/qed/cpuwar.html"
     ]
   ]
 ]
