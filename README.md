@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-20, 05:28:49](https://news.ycombinator.com/item?id=40095041) - [Show HN: Compiled list of notification infrastructure APIs for developers](https://github.com/kevin9985/notification-infrastructure-providers)
+* [2024-04-20, 04:42:22](https://news.ycombinator.com/item?id=40094877) - [End-of-Life for Z80 CPU and Peripherals Announced](https://hackaday.com/2024/04/19/end-of-life-for-z80-cpu-and-peripherals-announced/)
 * [2024-04-20, 02:33:39](https://news.ycombinator.com/item?id=40094178) - [Cosmic rays streamed through Earth's atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
-* [2024-04-20, 01:09:56](https://news.ycombinator.com/item?id=40093658) - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
 * [2024-04-20, 00:29:10](https://news.ycombinator.com/item?id=40093369) - [Two hunters from the same lodge afflicted with sporadic CJD: is CWD to blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
 * [2024-04-19, 23:54:53](https://news.ycombinator.com/item?id=40093159) - [Human-level few-shot concept induction through minimax entropy learning](https://www.science.org/doi/10.1126/sciadv.adg2488)
 * [2024-04-19, 22:55:00](https://news.ycombinator.com/item?id=40092817) - [Could a video game developer win the Nobel Prize for Literature?](https://stuff.co.za/2024/04/13/could-a-video-game-developer-win-the-nobel/)
