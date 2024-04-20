@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-20, 23:02:57](https://news.ycombinator.com/item?id=40101774) - [Meta says you can't turn off its new AI tool on Facebook, Instagram](https://globalnews.ca/news/10435817/meta-ai-facebook-instagram/)
 * [2024-04-20, 21:46:12](https://news.ycombinator.com/item?id=40101290) - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-20, 20:44:43](https://news.ycombinator.com/item?id=40100867) - [Why Everything Is Becoming a Game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
@@ -21,7 +22,6 @@
 * [2024-04-19, 14:25:38](https://news.ycombinator.com/item?id=40087213) - [Binary Greedy Voxel Meshing Algorithm](https://github.com/TanTanDev/binary_greedy_mesher_demo)
 * [2024-04-19, 11:55:36](https://news.ycombinator.com/item?id=40085672) - [Londoners see what a scientist looks like up close in 50 photographs](https://www.nature.com/articles/d41586-024-01156-8)
 * [2024-04-19, 11:25:31](https://news.ycombinator.com/item?id=40085437) - [The Basics of Legibility: A Short Guide for Non-Typographers](https://www.nubero.ch/blog/011/)
-* [2024-04-19, 10:47:37](https://news.ycombinator.com/item?id=40085189) - [What Happens When Hyperscalers and Clouds Buy Most Servers and Storage?](https://www.nextplatform.com/2024/04/17/what-happens-when-hyperscalers-and-clouds-buy-most-servers-and-storage/)
 * [2024-04-19, 10:21:24](https://news.ycombinator.com/item?id=40085028) - [Natural Language Processing in Bash](https://massimo-nazaria.github.io/nlp.html)
 * [2024-04-19, 10:01:26](https://news.ycombinator.com/item?id=40084927) - [The current state of map design in OpenStreetMap](https://imagico.de/blog/en/the-current-state-of-map-design-in-openstreetmap/)
 * [2024-04-19, 08:57:09](https://news.ycombinator.com/item?id=40084631) - [Morton: Bit Interleaving in C/C++](https://github.com/jart/morton)

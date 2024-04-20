@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 23:02:57](https://news.ycombinator.com/item?id=40101774) - [Meta says you can't turn off its new AI tool on Facebook, Instagram](https://globalnews.ca/news/10435817/meta-ai-facebook-instagram/)
 * [2024-04-20, 21:46:12](https://news.ycombinator.com/item?id=40101290) - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
 * [2024-04-20, 21:42:40](https://news.ycombinator.com/item?id=40101263) - [American Heart Association Paid Off by P&G to Say Heart Disease Caused by SatFat](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
 * [2024-04-20, 21:19:32](https://news.ycombinator.com/item?id=40101104) - [All web browsers on iOS are just Safari with different design](https://community.brave.com/t/why-is-the-ios-app-updated-so-sparingly/512155)
