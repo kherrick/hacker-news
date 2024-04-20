@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 19:00:49](https://news.ycombinator.com/item?id=40099974) - [Unreal Engine 5 gains WebGPU support](https://twitter.com/AlexStLouis10/status/1767643816750641481)
 * [2024-04-20, 18:39:55](https://news.ycombinator.com/item?id=40099739) - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
+* [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My Journey into Personal Computer Software Development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
 * [2024-04-20, 18:26:32](https://news.ycombinator.com/item?id=40099585) - [Why you Should Not Apply To YC](https://twitter.com/dvassallo/status/1781751108211511680)
 * [2024-04-20, 18:12:02](https://news.ycombinator.com/item?id=40099438) - [Americans' New TV Habit: Subscribe. Watch. Cancel. Repeat](https://www.nytimes.com/2024/04/20/business/media/streaming-subscription-jumping.html)
 * [2024-04-20, 18:03:44](https://news.ycombinator.com/item?id=40099350) - [House approves sell-or-be-banned TikTok measure](https://www.npr.org/2024/04/20/1245594589/house-approves-bill-tiktok-ban)
