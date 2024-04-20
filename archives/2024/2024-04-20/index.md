@@ -10,6 +10,7 @@
 * [2024-04-20, 11:10:03](https://news.ycombinator.com/item?id=40096431) - [Llama3 is the first open model that can also win text adventures](https://github.com/s-macke/AdventureAI)
 * [2024-04-20, 10:44:42](https://news.ycombinator.com/item?id=40096322) - [What is screen time doing to children?](https://www.economist.com/science-and-technology/2024/04/17/what-is-screen-time-doing-to-children)
 * [2024-04-20, 10:31:56](https://news.ycombinator.com/item?id=40096253) - [Do not buy a Hisense TV (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
+* [2024-04-20, 10:09:25](https://news.ycombinator.com/item?id=40096177) - [One UX researcher ignited changes to how the company (YouTube) built product](https://twitter.com/elizlaraki/status/1781336748624097561)
 * [2024-04-20, 10:09:23](https://news.ycombinator.com/item?id=40096176) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
