@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-20, 12:56:05](https://news.ycombinator.com/item?id=40097045) - [Insects and Other Animals Have Consciousness, Experts Declare](https://www.quantamagazine.org/insects-and-other-animals-have-consciousness-experts-declare-20240419/)
+* [2024-04-20, 12:54:33](https://news.ycombinator.com/item?id=40097027) - [Squarial](https://en.wikipedia.org/wiki/Squarial)
 * [2024-04-20, 12:00:59](https://news.ycombinator.com/item?id=40096702) - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
 * [2024-04-20, 10:09:25](https://news.ycombinator.com/item?id=40096177) - [One UX researcher ignited changes to how the company (YouTube) built product](https://twitter.com/elizlaraki/status/1781336748624097561)
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
