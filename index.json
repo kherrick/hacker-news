@@ -51,26 +51,6 @@
   ],
   [
     [
-      "2024-04-20, 00:14:09",
-      "https://news.ycombinator.com/item?id=40093263"
-    ],
-    [
-      "Bitcoin Block 840000",
-      "https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 23:59:09",
-      "https://news.ycombinator.com/item?id=40093178"
-    ],
-    [
-      "Llama 3 feels significantly less censored than its predecessor",
-      "https://ollama.com/blog/llama-3-is-not-very-censored"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 22:36:53",
       "https://news.ycombinator.com/item?id=40092687"
     ],
@@ -87,16 +67,6 @@
     [
       "Erdos Problems Collection",
       "https://www.erdosproblems.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 22:08:20",
-      "https://news.ycombinator.com/item?id=40092449"
-    ],
-    [
-      "Valkey Is Rapidly Overtaking Redis",
-      "https://devops.com/valkey-is-rapidly-overtaking-redis/"
     ]
   ],
   [
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2024-04-19, 16:25:17",
+      "https://news.ycombinator.com/item?id=40088751"
+    ],
+    [
+      "The Curse of Monkey Island",
+      "https://www.filfre.net/2024/04/the-curse-of-monkey-island/"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 15:48:39",
       "https://news.ycombinator.com/item?id=40088300"
     ],
@@ -231,12 +211,32 @@
   ],
   [
     [
+      "2024-04-19, 08:34:12",
+      "https://news.ycombinator.com/item?id=40084543"
+    ],
+    [
+      "Show HN: Composable (as in iGoogle, but modern) privacy-friendly new tab",
+      "https://anori.app/"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 05:51:32",
       "https://news.ycombinator.com/item?id=40083807"
     ],
     [
       "Supabase Storage now supports the S3 protocol",
       "https://supabase.com/blog/s3-compatible-storage"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 19:25:35",
+      "https://news.ycombinator.com/item?id=40079835"
+    ],
+    [
+      "Ask HN: How do you ask users about their pain point?",
+      "https://news.ycombinator.com/item?id=40079835"
     ]
   ],
   [
