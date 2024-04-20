@@ -80,6 +80,7 @@
 * [2024-04-19, 10:58:13](https://news.ycombinator.com/item?id=40085260) - [Quantum Algorithms for Lattice Problems – Update on April 18](http://www.chenyilei.net/)
 * [2024-04-19, 10:53:48](https://news.ycombinator.com/item?id=40085237) - [C-Macs – a pure C macOS application](https://github.com/CodaFi/C-Macs)
 * [2024-04-19, 10:51:01](https://news.ycombinator.com/item?id=40085214) - [Apple deletes WhatsApp, Threads from China app store on orders from Beijing](https://www.cnn.com/2024/04/19/tech/china-apple-whatspp-threads-removal-hnk-intl/index.html)
+* [2024-04-19, 10:47:37](https://news.ycombinator.com/item?id=40085189) - [What Happens When Hyperscalers and Clouds Buy Most Servers and Storage?](https://www.nextplatform.com/2024/04/17/what-happens-when-hyperscalers-and-clouds-buy-most-servers-and-storage/)
 * [2024-04-19, 10:37:54](https://news.ycombinator.com/item?id=40085134) - [Developing Rapidly with Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai)
 * [2024-04-19, 10:36:31](https://news.ycombinator.com/item?id=40085122) - [Microsoft: Don't Use Iperf3 on Windows](https://techcommunity.microsoft.com/t5/networking-blog/three-reasons-why-you-should-not-use-iperf3-on-windows/ba-p/4117876)
 * [2024-04-19, 10:23:21](https://news.ycombinator.com/item?id=40085044) - [Introduce BPF Trampoline (2019)](https://lwn.net/Articles/804937/)
