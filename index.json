@@ -31,42 +31,12 @@
   ],
   [
     [
-      "2024-04-20, 13:44:38",
-      "https://news.ycombinator.com/item?id=40097328"
-    ],
-    [
-      "Feds hit coding boot camp with big fine for allegedly conning students",
-      "https://www.theregister.com/2024/04/18/feds_say_coding_boot_camp/"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 13:32:05",
-      "https://news.ycombinator.com/item?id=40097249"
-    ],
-    [
-      "Phish turned Las Vegas' Sphere into the ultimate music visualizer",
-      "https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 13:10:30",
       "https://news.ycombinator.com/item?id=40097111"
     ],
     [
       "Debugging the Doctor Brain: Who's teaching doctors how to think?",
       "https://bessstillman.substack.com/p/debugging-the-doctor-brain"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 12:12:58",
-      "https://news.ycombinator.com/item?id=40096774"
-    ],
-    [
-      "We Run FreeBSD Current at Netflix [video]",
-      "https://www.youtube.com/watch?v=q4TZxj-Dq7s"
     ]
   ],
   [
@@ -121,16 +91,6 @@
   ],
   [
     [
-      "2024-04-20, 04:26:49",
-      "https://news.ycombinator.com/item?id=40094804"
-    ],
-    [
-      "The seven secrets of computer power [pdf]",
-      "https://www.ece.iastate.edu/~alexs/classes/2023_Fall_281/readings/Register-Machines.pdf"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 02:33:39",
       "https://news.ycombinator.com/item?id=40094178"
     ],
@@ -171,6 +131,16 @@
   ],
   [
     [
+      "2024-04-19, 17:28:45",
+      "https://news.ycombinator.com/item?id=40089609"
+    ],
+    [
+      "Multipath TCP for Linux (2022)",
+      "https://www.mptcp.dev/"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 17:17:29",
       "https://news.ycombinator.com/item?id=40089460"
     ],
@@ -207,6 +177,16 @@
     [
       "The Basics of Legibility: A Short Guide for Non-Typographers",
       "https://www.nubero.ch/blog/011/"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 10:47:37",
+      "https://news.ycombinator.com/item?id=40085189"
+    ],
+    [
+      "What Happens When Hyperscalers and Clouds Buy Most Servers and Storage?",
+      "https://www.nextplatform.com/2024/04/17/what-happens-when-hyperscalers-and-clouds-buy-most-servers-and-storage/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "The Endless Maze algorithm (Atari 2600)",
       "https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 19:29:01",
+      "https://news.ycombinator.com/item?id=40056166"
+    ],
+    [
+      "Church's λ-Calculus (2023) [pdf]",
+      "http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 14:00:31",
+      "https://news.ycombinator.com/item?id=40051972"
+    ],
+    [
+      "6th generation x86 CPU Comparisons",
+      "http://www.azillionmonkeys.com/qed/cpuwar.html"
     ]
   ]
 ]
