@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-20, 15:13:42",
-      "https://news.ycombinator.com/item?id=40097992"
-    ],
-    [
-      "Artist evicted by London landlord cuts rent by commuting from Argentina",
-      "https://www.theguardian.com/uk-news/2024/apr/19/artist-evicted-by-london-landlord-cuts-rent-by-commuting-from-argentina"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 15:10:57",
       "https://news.ycombinator.com/item?id=40097974"
     ],
@@ -247,6 +237,16 @@
     [
       "Inverters with constant full load capability for electric drives",
       "https://www.izm.fraunhofer.de/en/news_events/tech_news/inverters-with-constant-full-load-capability.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 06:09:59",
+      "https://news.ycombinator.com/item?id=40083869"
+    ],
+    [
+      "Coz: Causal Profiling",
+      "https://github.com/plasma-umass/coz"
     ]
   ],
   [
