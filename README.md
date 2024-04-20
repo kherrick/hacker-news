@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-20, 10:31:56](https://news.ycombinator.com/item?id=40096253) - [Do not buy a Hisense TV (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 * [2024-04-20, 06:36:25](https://news.ycombinator.com/item?id=40095325) - [Dehydrated: Letsencrypt/acme client implemented as a shell-script](https://github.com/dehydrated-io/dehydrated)
@@ -14,7 +15,6 @@
 * [2024-04-19, 21:25:36](https://news.ycombinator.com/item?id=40092079) - [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
 * [2024-04-19, 20:03:45](https://news.ycombinator.com/item?id=40091379) - [Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
-* [2024-04-19, 17:28:45](https://news.ycombinator.com/item?id=40089609) - [Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
 * [2024-04-19, 17:17:29](https://news.ycombinator.com/item?id=40089460) - [Quill v2 – Rich text editor](https://quilljs.com/)
 * [2024-04-19, 15:33:41](https://news.ycombinator.com/item?id=40088106) - [Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 * [2024-04-19, 11:25:31](https://news.ycombinator.com/item?id=40085437) - [The Basics of Legibility: A Short Guide for Non-Typographers](https://www.nubero.ch/blog/011/)
