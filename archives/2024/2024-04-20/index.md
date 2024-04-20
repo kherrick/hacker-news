@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 13:57:29](https://news.ycombinator.com/item?id=40097398) - [What Is Wrong with Everyone?](https://www.youtube.com/watch?v=ifJPjMlwB0s)
+* [2024-04-20, 13:53:07](https://news.ycombinator.com/item?id=40097375) - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 * [2024-04-20, 13:32:05](https://news.ycombinator.com/item?id=40097249) - [Phish turned Las Vegas' Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
 * [2024-04-20, 13:22:11](https://news.ycombinator.com/item?id=40097181) - [Low carbon cement from Sublime Systems used in first project](https://www.enr.com/articles/58381-innovative-low-carbon-cement-from-sublime-systems-used-in-first-project)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)

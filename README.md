@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-20, 13:57:29](https://news.ycombinator.com/item?id=40097398) - [What Is Wrong with Everyone?](https://www.youtube.com/watch?v=ifJPjMlwB0s)
+* [2024-04-20, 13:53:07](https://news.ycombinator.com/item?id=40097375) - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 * [2024-04-20, 13:32:05](https://news.ycombinator.com/item?id=40097249) - [Phish turned Las Vegas' Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 * [2024-04-20, 12:12:58](https://news.ycombinator.com/item?id=40096774) - [We Run FreeBSD Current at Netflix [video]](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
@@ -26,10 +28,8 @@
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
-* [2024-04-18, 00:55:34](https://news.ycombinator.com/item?id=40071858) - [VASA-1: Lifelike audio-driven talking faces generated in real time](https://www.microsoft.com/en-us/research/project/vasa-1/)
 * [2024-04-17, 21:41:06](https://news.ycombinator.com/item?id=40070355) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
 * [2024-04-16, 19:29:01](https://news.ycombinator.com/item?id=40056166) - [Church's λ-Calculus (2023) [pdf]](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf)
-* [2024-04-16, 14:00:31](https://news.ycombinator.com/item?id=40051972) - [6th generation x86 CPU Comparisons](http://www.azillionmonkeys.com/qed/cpuwar.html)
 
 ## [Archives](archives/index.md)
 
