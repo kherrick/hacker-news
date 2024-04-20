@@ -4,7 +4,7 @@
 * [2024-04-20, 18:56:36](https://news.ycombinator.com/item?id=40099933) - [Ask HN: Please recommend how to manage personal serverss](https://news.ycombinator.com/item?id=40099933)
 * [2024-04-20, 18:39:55](https://news.ycombinator.com/item?id=40099739) - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
 * [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My Journey into Personal Computer Software Development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
-* [2024-04-20, 18:26:32](https://news.ycombinator.com/item?id=40099585) - [Why you Should Not Apply To YC](https://twitter.com/dvassallo/status/1781751108211511680)
+* [2024-04-20, 18:26:32](https://news.ycombinator.com/item?id=40099585) - [Why you should not apply to YC](https://twitter.com/dvassallo/status/1781751108211511680)
 * [2024-04-20, 18:21:47](https://news.ycombinator.com/item?id=40099547) - [Codeberg: Partially Degraded Service](https://status.codeberg.org/status/codeberg)
 * [2024-04-20, 18:03:15](https://news.ycombinator.com/item?id=40099344) - [Financial Market Applications of LLMs](https://thegradient.pub/financial-market-applications-of-llms/)
 * [2024-04-20, 17:54:27](https://news.ycombinator.com/item?id=40099252) - [Self-reasoning tokens: teaching models to think ahead](https://reasoning-tokens.ghost.io/reasoning-tokens/)
