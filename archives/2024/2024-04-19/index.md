@@ -93,6 +93,7 @@
 * [2024-04-19, 08:34:12](https://news.ycombinator.com/item?id=40084543) - [Show HN: Composable (as in iGoogle, but modern) privacy-friendly new tab](https://anori.app/)
 * [2024-04-19, 08:27:29](https://news.ycombinator.com/item?id=40084508) - [Google merges the Android, Chrome, and hardware divisions](https://arstechnica.com/gadgets/2024/04/google-merges-the-android-chrome-and-hardware-divisions/)
 * [2024-04-19, 08:21:12](https://news.ycombinator.com/item?id=40084481) - [My 25-Year Engineering Career Retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
+* [2024-04-19, 08:08:58](https://news.ycombinator.com/item?id=40084426) - [Eye Candy: Visual Effects Library](https://eyecannndy.com/)
 * [2024-04-19, 08:03:49](https://news.ycombinator.com/item?id=40084397) - [A virtual drum machine that looks like something from Teenage Engineering](https://toddle.dev/blog/drop-a-beat)
 * [2024-04-19, 07:46:04](https://news.ycombinator.com/item?id=40084335) - [Rust-Written LAVD Kernel Scheduler Shows Promising Results for Linux Gaming](https://www.phoronix.com/news/LAVD-Scheduler-Linux-Gaming)
 * [2024-04-19, 07:25:14](https://news.ycombinator.com/item?id=40084225) - [New Mexico: Psychologists to dress up as wizards when providing expert testimony](https://www.futilitycloset.com/2024/04/19/protocol-3/)

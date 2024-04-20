@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 18:03:44](https://news.ycombinator.com/item?id=40099350) - [House approves sell-or-be-banned TikTok measure](https://www.npr.org/2024/04/20/1245594589/house-approves-bill-tiktok-ban)
+* [2024-04-20, 17:41:31](https://news.ycombinator.com/item?id=40099135) - [US House passes bill to ban TikTok if owners won't divest](https://www.nbcnews.com/politics/congress/house-vote-critical-aid-ukraine-israel-potential-tiktok-ban-rcna148395)
 * [2024-04-20, 17:24:56](https://news.ycombinator.com/item?id=40098960) - [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
 * [2024-04-20, 17:15:02](https://news.ycombinator.com/item?id=40098867) - [VLC vs. the App Stores](https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/)
 * [2024-04-20, 17:00:05](https://news.ycombinator.com/item?id=40098737) - [Mintlify (YC W22) Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/Mintlify/12598e83-45ad-4179-9c57-8b9162d1387e)
