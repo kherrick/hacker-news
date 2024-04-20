@@ -11,6 +11,7 @@
 * [2024-04-20, 12:00:59](https://news.ycombinator.com/item?id=40096702) - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
 * [2024-04-20, 11:53:29](https://news.ycombinator.com/item?id=40096656) - [Does anyone know how much YC contributes to wealth inequality?](https://news.ycombinator.com/item?id=40096656)
 * [2024-04-20, 11:52:27](https://news.ycombinator.com/item?id=40096648) - [NASA solar sail to be Siriusly visible in orbit from Earth](https://www.theregister.com/2024/04/19/nasa_solar_sail/)
+* [2024-04-20, 11:14:32](https://news.ycombinator.com/item?id=40096449) - [Fossils found in Somerset by girl, 11, 'may be of largest-ever marine reptile'](https://www.theguardian.com/science/2024/apr/17/ichthyosaur-fossils-somerset-may-be-largest-marine-reptile-that-lived)
 * [2024-04-20, 11:10:03](https://news.ycombinator.com/item?id=40096431) - [Llama3 is the first open model that can also win text adventures](https://github.com/s-macke/AdventureAI)
 * [2024-04-20, 10:44:42](https://news.ycombinator.com/item?id=40096322) - [What is screen time doing to children?](https://www.economist.com/science-and-technology/2024/04/17/what-is-screen-time-doing-to-children)
 * [2024-04-20, 10:31:56](https://news.ycombinator.com/item?id=40096253) - [Do not buy a Hisense TV (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
