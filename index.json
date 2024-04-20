@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-04-19, 23:54:53",
+      "https://news.ycombinator.com/item?id=40093159"
+    ],
+    [
+      "Human-level few-shot concept induction through minimax entropy learning",
+      "https://www.science.org/doi/10.1126/sciadv.adg2488"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 22:55:00",
       "https://news.ycombinator.com/item?id=40092817"
     ],
@@ -127,16 +137,6 @@
     [
       "Tell HN: Ever think of applying to YC? Do it this weekend for S24",
       "https://news.ycombinator.com/item?id=40091622"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 20:29:05",
-      "https://news.ycombinator.com/item?id=40091584"
-    ],
-    [
-      "Francisco Varela",
-      "https://en.wikipedia.org/wiki/Francisco_Varela"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40071609"
     ],
     [
-      "Solitaire: Authentic remake of the Windows 95 original",
+      "Remake of the Windows 95 Solitaire game",
       "https://github.com/danielricci/solitaire"
     ]
   ],
