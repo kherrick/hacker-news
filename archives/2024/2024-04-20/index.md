@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
 * [2024-04-20, 07:06:54](https://news.ycombinator.com/item?id=40095456) - [\"I give up. I can no longer contribute to Gutenberg\"](https://twitter.com/aristath/status/1781273156843401726)
+* [2024-04-20, 06:35:50](https://news.ycombinator.com/item?id=40095322) - [Cloudflare R2 Introduces Event Notifications and Infrequent Access Storage Tier](https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/)
 * [2024-04-20, 06:29:48](https://news.ycombinator.com/item?id=40095287) - [Thousands protest against Canary islands' 'unsustainable' tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
 * [2024-04-20, 05:34:56](https://news.ycombinator.com/item?id=40095070) - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
 * [2024-04-20, 05:28:49](https://news.ycombinator.com/item?id=40095041) - [Show HN: Compiled list of notification infrastructure APIs for developers](https://github.com/kevin9985/notification-infrastructure-providers)
