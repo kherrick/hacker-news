@@ -24,7 +24,7 @@
 * [2024-04-19, 08:21:12](https://news.ycombinator.com/item?id=40084481) - [My 25-year engineering career retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
 * [2024-04-19, 07:05:08](https://news.ycombinator.com/item?id=40084130) - [Inverters with constant full load capability for electric drives](https://www.izm.fraunhofer.de/en/news_events/tech_news/inverters-with-constant-full-load-capability.html)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
-* [2024-04-18, 23:54:50](https://news.ycombinator.com/item?id=40081977) - [Delta City '95 – Complete pack of official updates for Microsoft Windows 95](http://deltacity.stare.pro/)
+* [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
 * [2024-04-18, 00:55:34](https://news.ycombinator.com/item?id=40071858) - [VASA-1: Lifelike audio-driven talking faces generated in real time](https://www.microsoft.com/en-us/research/project/vasa-1/)
 * [2024-04-17, 21:41:06](https://news.ycombinator.com/item?id=40070355) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
