@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-04-20, 09:58:33",
+      "https://news.ycombinator.com/item?id=40096131"
+    ],
+    [
+      "UN plastics treaty: don't let lobbyists drown out researchers",
+      "https://www.nature.com/articles/d41586-024-01089-2"
+    ]
+  ],
+  [
+    [
       "2024-04-20, 09:52:39",
       "https://news.ycombinator.com/item?id=40096113"
     ],
@@ -87,16 +97,6 @@
     [
       "Dehydrated: Letsencrypt/acme client implemented as a shell-script",
       "https://github.com/dehydrated-io/dehydrated"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 06:03:21",
-      "https://news.ycombinator.com/item?id=40095189"
-    ],
-    [
-      "Volkswagen workers vote overwhelmingly to join the UAW",
-      "https://www.cnn.com/2024/04/19/business/volkswagen-uaw-vote/index.html"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "What Happens When Hyperscalers and Clouds Buy Most Servers and Storage?",
       "https://www.nextplatform.com/2024/04/17/what-happens-when-hyperscalers-and-clouds-buy-most-servers-and-storage/"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 10:23:21",
-      "https://news.ycombinator.com/item?id=40085044"
-    ],
-    [
-      "Introduce BPF Trampoline (2019)",
-      "https://lwn.net/Articles/804937/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Church's λ-Calculus (2023) [pdf]",
       "http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-04-16, 14:00:31",
+      "https://news.ycombinator.com/item?id=40051972"
+    ],
+    [
+      "6th generation x86 CPU Comparisons",
+      "http://www.azillionmonkeys.com/qed/cpuwar.html"
     ]
   ]
 ]
