@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 04:08:36](https://news.ycombinator.com/item?id=40094729) - [Israel uses facial recognition systems in Gaza and beyond](https://www.theguardian.com/technology/2024/apr/19/idf-facial-recognition-surveillance-palestinians)
 * [2024-04-20, 02:33:39](https://news.ycombinator.com/item?id=40094178) - [Cosmic rays streamed through Earth's atmosphere 41,000 years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
 * [2024-04-20, 02:25:51](https://news.ycombinator.com/item?id=40094123) - [Why Dolphin Isn't Coming to the App Store](https://oatmealdome.me/blog/why-dolphin-isnt-coming-to-the-app-store/)
 * [2024-04-20, 01:33:14](https://news.ycombinator.com/item?id=40093801) - [Wikipedia Has Cancer](https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer)
