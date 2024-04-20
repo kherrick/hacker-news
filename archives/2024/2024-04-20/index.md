@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 13:32:05](https://news.ycombinator.com/item?id=40097249) - [Phish turned Las Vegas' Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
 * [2024-04-20, 13:22:11](https://news.ycombinator.com/item?id=40097181) - [Low carbon cement from Sublime Systems used in first project](https://www.enr.com/articles/58381-innovative-low-carbon-cement-from-sublime-systems-used-in-first-project)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 * [2024-04-20, 12:56:05](https://news.ycombinator.com/item?id=40097045) - [Insects and Other Animals Have Consciousness, Experts Declare](https://www.quantamagazine.org/insects-and-other-animals-have-consciousness-experts-declare-20240419/)
 * [2024-04-20, 12:54:33](https://news.ycombinator.com/item?id=40097027) - [Squarial](https://en.wikipedia.org/wiki/Squarial)
+* [2024-04-20, 12:12:58](https://news.ycombinator.com/item?id=40096774) - [We Run FreeBSD Current at Netflix [video]](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
 * [2024-04-20, 12:00:59](https://news.ycombinator.com/item?id=40096702) - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
 * [2024-04-20, 11:53:29](https://news.ycombinator.com/item?id=40096656) - [Does anyone know how much YC contributes to wealth inequality?](https://news.ycombinator.com/item?id=40096656)
 * [2024-04-20, 11:52:27](https://news.ycombinator.com/item?id=40096648) - [NASA solar sail to be Siriusly visible in orbit from Earth](https://www.theregister.com/2024/04/19/nasa_solar_sail/)
