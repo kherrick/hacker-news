@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-20, 15:13:42](https://news.ycombinator.com/item?id=40097992) - [Artist evicted by London landlord cuts rent by commuting from Argentina](https://www.theguardian.com/uk-news/2024/apr/19/artist-evicted-by-london-landlord-cuts-rent-by-commuting-from-argentina)
 * [2024-04-20, 15:10:57](https://news.ycombinator.com/item?id=40097974) - [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
 * [2024-04-20, 13:53:07](https://news.ycombinator.com/item?id=40097375) - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
@@ -25,6 +24,7 @@
 * [2024-04-19, 08:57:09](https://news.ycombinator.com/item?id=40084631) - [Morton: Bit Interleaving in C/C++](https://github.com/jart/morton)
 * [2024-04-19, 08:21:12](https://news.ycombinator.com/item?id=40084481) - [My 25-year engineering career retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
 * [2024-04-19, 07:05:08](https://news.ycombinator.com/item?id=40084130) - [Inverters with constant full load capability for electric drives](https://www.izm.fraunhofer.de/en/news_events/tech_news/inverters-with-constant-full-load-capability.html)
+* [2024-04-19, 06:09:59](https://news.ycombinator.com/item?id=40083869) - [Coz: Causal Profiling](https://github.com/plasma-umass/coz)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
