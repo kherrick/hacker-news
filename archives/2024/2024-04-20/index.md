@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 * [2024-04-20, 07:06:54](https://news.ycombinator.com/item?id=40095456) - [\"I give up. I can no longer contribute to Gutenberg\"](https://twitter.com/aristath/status/1781273156843401726)
 * [2024-04-20, 06:35:50](https://news.ycombinator.com/item?id=40095322) - [Cloudflare R2 Introduces Event Notifications and Infrequent Access Storage Tier](https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/)
 * [2024-04-20, 06:29:48](https://news.ycombinator.com/item?id=40095287) - [Thousands protest against Canary islands' 'unsustainable' tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
@@ -11,6 +12,7 @@
 * [2024-04-20, 05:28:49](https://news.ycombinator.com/item?id=40095041) - [Show HN: Compiled list of notification infrastructure APIs for developers](https://github.com/kevin9985/notification-infrastructure-providers)
 * [2024-04-20, 05:25:48](https://news.ycombinator.com/item?id=40095035) - [We will be shutting down Post News within the next few weeks](https://post.news/@/noam/2fJw4PYRFjya343RpiToiyEQr0x)
 * [2024-04-20, 04:42:22](https://news.ycombinator.com/item?id=40094877) - [End-of-Life for Z80 CPU and Peripherals Announced](https://hackaday.com/2024/04/19/end-of-life-for-z80-cpu-and-peripherals-announced/)
+* [2024-04-20, 04:26:49](https://news.ycombinator.com/item?id=40094804) - [The seven secrets of computer power [pdf]](https://www.ece.iastate.edu/~alexs/classes/2023_Fall_281/readings/Register-Machines.pdf)
 * [2024-04-20, 04:08:36](https://news.ycombinator.com/item?id=40094729) - [Israel uses facial recognition systems in Gaza and beyond](https://www.theguardian.com/technology/2024/apr/19/idf-facial-recognition-surveillance-palestinians)
 * [2024-04-20, 03:01:19](https://news.ycombinator.com/item?id=40094364) - [Google scraps minimum wage, benefits rules for suppliers and staffing firms](https://www.msn.com/en-gb/money/other/google-scraps-minimum-wage-benefits-rules-for-suppliers-and-staffing-firms/ar-AA1njDyi)
 * [2024-04-20, 02:33:39](https://news.ycombinator.com/item?id=40094178) - [Cosmic rays streamed through Earth's atmosphere 41,000 years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
