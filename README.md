@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-20, 02:33:39](https://news.ycombinator.com/item?id=40094178) - [Cosmic rays streamed through Earth's atmosphere 41,000 years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
+* [2024-04-20, 01:33:14](https://news.ycombinator.com/item?id=40093801) - [Wikipedia Has Cancer](https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer)
 * [2024-04-20, 01:09:56](https://news.ycombinator.com/item?id=40093658) - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
 * [2024-04-20, 00:57:54](https://news.ycombinator.com/item?id=40093570) - [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
 * [2024-04-20, 00:29:10](https://news.ycombinator.com/item?id=40093369) - [Two hunters from the same lodge afflicted with sporadic CJD: is CWD to blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
@@ -24,7 +25,6 @@
 * [2024-04-19, 08:03:49](https://news.ycombinator.com/item?id=40084397) - [A virtual drum machine that looks like something from Teenage Engineering](https://toddle.dev/blog/drop-a-beat)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-18, 19:25:35](https://news.ycombinator.com/item?id=40079835) - [Ask HN: How do you ask users about their pain point?](https://news.ycombinator.com/item?id=40079835)
-* [2024-04-18, 15:43:42](https://news.ycombinator.com/item?id=40077391) - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html)
 * [2024-04-18, 13:08:17](https://news.ycombinator.com/item?id=40075813) - [The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
 * [2024-04-18, 00:54:57](https://news.ycombinator.com/item?id=40071854) - [A mile-long lava tube where humans sheltered for thousands of years](https://gizmodo.com/humans-sheltered-lava-tube-umm-jirsan-thousands-years-1851415061)
 * [2024-04-17, 21:41:06](https://news.ycombinator.com/item?id=40070355) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
