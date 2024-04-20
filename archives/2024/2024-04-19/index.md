@@ -74,6 +74,7 @@
 * [2024-04-19, 12:46:25](https://news.ycombinator.com/item?id=40086143) - [Tesla ordered to recall almost 4k Cybertrucks over faulty accelerator](https://www.nbcnews.com/tech/tech-news/tesla-ordered-recall-almost-4000-cybertrucks-faulty-accelerator-proble-rcna148526)
 * [2024-04-19, 12:22:24](https://news.ycombinator.com/item?id=40085887) - [Ask HN: High quality Python scripts or small libraries to learn from](https://news.ycombinator.com/item?id=40085887)
 * [2024-04-19, 12:00:30](https://news.ycombinator.com/item?id=40085706) - [Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng](https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer)
+* [2024-04-19, 11:55:36](https://news.ycombinator.com/item?id=40085672) - [Londoners see what a scientist looks like up close in 50 photographs](https://www.nature.com/articles/d41586-024-01156-8)
 * [2024-04-19, 11:42:18](https://news.ycombinator.com/item?id=40085565) - [Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
 * [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
 * [2024-04-19, 11:25:31](https://news.ycombinator.com/item?id=40085437) - [The Basics of Legibility: A Short Guide for Non-Typographers](https://www.nubero.ch/blog/011/)
