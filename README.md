@@ -1,14 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-20, 14:34:37](https://news.ycombinator.com/item?id=40097637) - [NASA Veteran's Propellantless Propulsion Drive That Physics Says Shouldn't Work](https://thedebrief.org/nasa-veterans-propellantless-propulsion-drive-that-physics-says-shouldnt-work-just-produced-enough-thrust-to-defeat-earths-gravity/)
-* [2024-04-20, 13:57:29](https://news.ycombinator.com/item?id=40097398) - [What Is Wrong with Everyone?](https://www.youtube.com/watch?v=ifJPjMlwB0s)
 * [2024-04-20, 13:53:07](https://news.ycombinator.com/item?id=40097375) - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 * [2024-04-20, 13:10:30](https://news.ycombinator.com/item?id=40097111) - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 * [2024-04-20, 12:00:59](https://news.ycombinator.com/item?id=40096702) - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
+* [2024-04-20, 11:40:04](https://news.ycombinator.com/item?id=40096575) - [Senate passes reauthorization of key US surveillance program after midnight](https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349)
 * [2024-04-20, 11:14:32](https://news.ycombinator.com/item?id=40096449) - [Fossils found in Somerset by girl, 11, 'may be of largest-ever marine reptile'](https://www.theguardian.com/science/2024/apr/17/ichthyosaur-fossils-somerset-may-be-largest-marine-reptile-that-lived)
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 * [2024-04-20, 06:36:25](https://news.ycombinator.com/item?id=40095325) - [Dehydrated: Letsencrypt/acme client implemented as a shell-script](https://github.com/dehydrated-io/dehydrated)
+* [2024-04-20, 06:03:21](https://news.ycombinator.com/item?id=40095189) - [Volkswagen workers vote overwhelmingly to join the UAW](https://www.cnn.com/2024/04/19/business/volkswagen-uaw-vote/index.html)
 * [2024-04-20, 02:33:39](https://news.ycombinator.com/item?id=40094178) - [Cosmic rays streamed through Earth's atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
 * [2024-04-20, 00:12:43](https://news.ycombinator.com/item?id=40093257) - [Show HN: Open-source SDK for creating custom code interpreters with any LLM](https://github.com/e2b-dev/code-interpreter)
 * [2024-04-19, 23:54:53](https://news.ycombinator.com/item?id=40093159) - [Human-level few-shot concept induction through minimax entropy learning](https://www.science.org/doi/10.1126/sciadv.adg2488)
@@ -27,9 +27,9 @@
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
+* [2024-04-18, 00:55:34](https://news.ycombinator.com/item?id=40071858) - [VASA-1: Lifelike audio-driven talking faces generated in real time](https://www.microsoft.com/en-us/research/project/vasa-1/)
 * [2024-04-17, 21:41:06](https://news.ycombinator.com/item?id=40070355) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
 * [2024-04-16, 19:29:01](https://news.ycombinator.com/item?id=40056166) - [Church's λ-Calculus (2023) [pdf]](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf)
-* [2024-04-16, 14:00:31](https://news.ycombinator.com/item?id=40051972) - [6th generation x86 CPU Comparisons](http://www.azillionmonkeys.com/qed/cpuwar.html)
 
 ## [Archives](archives/index.md)
 
