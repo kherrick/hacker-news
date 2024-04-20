@@ -48,6 +48,7 @@
 * [2024-04-20, 12:00:59](https://news.ycombinator.com/item?id=40096702) - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
 * [2024-04-20, 11:53:29](https://news.ycombinator.com/item?id=40096656) - [Does anyone know how much YC contributes to wealth inequality?](https://news.ycombinator.com/item?id=40096656)
 * [2024-04-20, 11:52:27](https://news.ycombinator.com/item?id=40096648) - [NASA solar sail to be Siriusly visible in orbit from Earth](https://www.theregister.com/2024/04/19/nasa_solar_sail/)
+* [2024-04-20, 11:45:39](https://news.ycombinator.com/item?id=40096607) - [SICP in GNU TeXmacs](https://github.com/XmacsLabs/interactive-sicp/blob/main/README_EN.md)
 * [2024-04-20, 11:40:04](https://news.ycombinator.com/item?id=40096575) - [Senate passes reauthorization of key US surveillance program after midnight](https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349)
 * [2024-04-20, 11:14:32](https://news.ycombinator.com/item?id=40096449) - [Fossils found in Somerset by girl, 11, 'may be of largest-ever marine reptile'](https://www.theguardian.com/science/2024/apr/17/ichthyosaur-fossils-somerset-may-be-largest-marine-reptile-that-lived)
 * [2024-04-20, 11:10:03](https://news.ycombinator.com/item?id=40096431) - [Llama3 is the first open model that can also win text adventures](https://github.com/s-macke/AdventureAI)
