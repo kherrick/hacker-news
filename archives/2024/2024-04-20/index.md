@@ -6,6 +6,7 @@
 
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-20, 20:19:06](https://news.ycombinator.com/item?id=40100672) - [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
+* [2024-04-20, 20:14:43](https://news.ycombinator.com/item?id=40100643) - [Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible](https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/)
 * [2024-04-20, 19:50:49](https://news.ycombinator.com/item?id=40100430) - [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
 * [2024-04-20, 19:45:59](https://news.ycombinator.com/item?id=40100389) - [Chad Asks US Troops to Cease Operations at Strategic Army Base](https://www.bloomberg.com/news/articles/2024-04-19/chad-asks-us-troops-to-cease-operations-at-strategic-army-base)
 * [2024-04-20, 19:20:18](https://news.ycombinator.com/item?id=40100182) - [Why We're Doing This](https://www.flickr.org/why-were-doing-this/)
