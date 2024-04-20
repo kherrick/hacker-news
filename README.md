@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
-* [2024-04-20, 06:29:48](https://news.ycombinator.com/item?id=40095287) - [Thousands protest against Canary islands' 'unsustainable' tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
+* [2024-04-20, 06:11:55](https://news.ycombinator.com/item?id=40095217) - [Children Need Neighborhoods Where They Can Walk and Bike](https://www.wsj.com/health/wellness/children-need-neighborhoods-where-they-can-walk-and-bike-5f3a9b4a)
 * [2024-04-20, 05:34:56](https://news.ycombinator.com/item?id=40095070) - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
 * [2024-04-20, 04:26:49](https://news.ycombinator.com/item?id=40094804) - [The seven secrets of computer power [pdf]](https://www.ece.iastate.edu/~alexs/classes/2023_Fall_281/readings/Register-Machines.pdf)
 * [2024-04-20, 02:33:39](https://news.ycombinator.com/item?id=40094178) - [Cosmic rays streamed through Earth's atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
