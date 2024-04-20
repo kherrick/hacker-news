@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
 * [2024-04-19, 23:59:09](https://news.ycombinator.com/item?id=40093178) - [Llama 3 feels significantly less censored than its predecessor](https://ollama.com/blog/llama-3-is-not-very-censored)
+* [2024-04-19, 23:54:53](https://news.ycombinator.com/item?id=40093159) - [Human-level few-shot concept induction through minimax entropy learning](https://www.science.org/doi/10.1126/sciadv.adg2488)
 * [2024-04-19, 23:24:13](https://news.ycombinator.com/item?id=40092985) - ['Irresponsible' to ignore consciousness across animal world scientists argue](https://thehill.com/policy/energy-environment/4605739-widespread-animal-consciousness-irresponsible-to-ignore-new-york-declaration-scientists/)
 * [2024-04-19, 22:55:00](https://news.ycombinator.com/item?id=40092817) - [Could a video game developer win the Nobel Prize for Literature?](https://stuff.co.za/2024/04/13/could-a-video-game-developer-win-the-nobel/)
 * [2024-04-19, 22:47:51](https://news.ycombinator.com/item?id=40092773) - [Some Volumes Were Slow and We Figured Out Why](https://community.fly.io/t/some-volumes-were-slow-and-we-figured-out-why/19394)
