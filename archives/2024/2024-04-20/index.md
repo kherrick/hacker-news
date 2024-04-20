@@ -8,6 +8,7 @@
 * [2024-04-20, 21:42:40](https://news.ycombinator.com/item?id=40101263) - [American Heart Association Paid Off by P&G to Say Heart Disease Caused by SatFat](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
 * [2024-04-20, 21:19:32](https://news.ycombinator.com/item?id=40101104) - [All web browsers on iOS are just Safari with different design](https://community.brave.com/t/why-is-the-ios-app-updated-so-sparingly/512155)
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+* [2024-04-20, 20:50:13](https://news.ycombinator.com/item?id=40100897) - [Boeing and the Dark Age of American Manufacturing](https://www.theatlantic.com/ideas/archive/2024/04/boeing-corporate-america-manufacturing/678137/)
 * [2024-04-20, 20:48:38](https://news.ycombinator.com/item?id=40100890) - [Microsoft teases deepfake AI that's too good to release](https://www.theregister.com/2024/04/20/microsoft_deepfake_vasa/)
 * [2024-04-20, 20:44:43](https://news.ycombinator.com/item?id=40100867) - [Why Everything Is Becoming a Game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 * [2024-04-20, 20:19:06](https://news.ycombinator.com/item?id=40100672) - [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
