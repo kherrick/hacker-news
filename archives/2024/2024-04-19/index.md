@@ -95,6 +95,7 @@
 * [2024-04-19, 07:25:14](https://news.ycombinator.com/item?id=40084225) - [New Mexico: Psychologists to dress up as wizards when providing expert testimony](https://www.futilitycloset.com/2024/04/19/protocol-3/)
 * [2024-04-19, 07:18:46](https://news.ycombinator.com/item?id=40084193) - [Show HN: Shepherd 3.0 – Like wandering the aisles of your favorite bookstore](https://news.ycombinator.com/item?id=40084193)
 * [2024-04-19, 07:16:21](https://news.ycombinator.com/item?id=40084185) - [Scientists say they have found evidence of an unknown planet in our solar system](https://www.independent.co.uk/space/planet-9-nine-solar-system-b2530985.html)
+* [2024-04-19, 07:05:08](https://news.ycombinator.com/item?id=40084130) - [Inverters with constant full load capability for electric drives](https://www.izm.fraunhofer.de/en/news_events/tech_news/inverters-with-constant-full-load-capability.html)
 * [2024-04-19, 07:00:09](https://news.ycombinator.com/item?id=40084104) - [Routine (YC W21) Is Hiring OCaml Software Engineers: On Site (Paris) or Remote](https://news.ycombinator.com/item?id=40084104)
 * [2024-04-19, 06:12:38](https://news.ycombinator.com/item?id=40083885) - [Z80 Product Line Z84C00 End of Life / Last Time Buy [pdf]](https://www.mouser.com/PCN/Littelfuse_PCN_Z84C00.pdf)
 * [2024-04-19, 05:55:20](https://news.ycombinator.com/item?id=40083821) - [Sugar Industry and Coronary Heart Disease Research (2016)](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255)
