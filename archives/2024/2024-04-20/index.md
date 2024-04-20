@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 18:12:02](https://news.ycombinator.com/item?id=40099438) - [Americans' New TV Habit: Subscribe. Watch. Cancel. Repeat](https://www.nytimes.com/2024/04/20/business/media/streaming-subscription-jumping.html)
 * [2024-04-20, 18:03:44](https://news.ycombinator.com/item?id=40099350) - [House approves sell-or-be-banned TikTok measure](https://www.npr.org/2024/04/20/1245594589/house-approves-bill-tiktok-ban)
+* [2024-04-20, 18:03:15](https://news.ycombinator.com/item?id=40099344) - [Financial Market Applications of LLMs](https://thegradient.pub/financial-market-applications-of-llms/)
+* [2024-04-20, 17:54:58](https://news.ycombinator.com/item?id=40099259) - [British Columbia has banned self-driving vehicles that exceed Level 2](https://www.thedrive.com/news/self-driving-cars-banned-in-british-columbia)
 * [2024-04-20, 17:41:31](https://news.ycombinator.com/item?id=40099135) - [US House passes bill to ban TikTok if owners won't divest](https://www.nbcnews.com/politics/congress/house-vote-critical-aid-ukraine-israel-potential-tiktok-ban-rcna148395)
 * [2024-04-20, 17:24:56](https://news.ycombinator.com/item?id=40098960) - [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
 * [2024-04-20, 17:15:02](https://news.ycombinator.com/item?id=40098867) - [VLC vs. the App Stores](https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/)
