@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 15:57:31](https://news.ycombinator.com/item?id=40106741) - [Iran quickens path towards the atomic bomb](https://english.elpais.com/international/2024-04-21/iran-quickens-path-towards-the-atomic-bomb.html)
 * [2024-04-21, 15:44:10](https://news.ycombinator.com/item?id=40106639) - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
+* [2024-04-21, 15:34:53](https://news.ycombinator.com/item?id=40106570) - [The Gambler's Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
 * [2024-04-21, 15:29:48](https://news.ycombinator.com/item?id=40106508) - [Never struggle to give feedback again](https://read.highgrowthengineer.com/p/never-struggle-to-give-feedback-again)
 * [2024-04-21, 15:28:57](https://news.ycombinator.com/item?id=40106500) - [The Design of Everyday APIs (2022)](https://www.roguelynn.com/talks/everyday-apis/)
 * [2024-04-21, 15:08:45](https://news.ycombinator.com/item?id=40106336) - [All Fritz Box modems have been hijacked](https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/)
