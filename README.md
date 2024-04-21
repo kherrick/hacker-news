@@ -1,14 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-21, 12:20:20](https://news.ycombinator.com/item?id=40105121) - [I love programming but I hate the programming industry](https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry)
+* [2024-04-21, 12:12:20](https://news.ycombinator.com/item?id=40105068) - [Environment Shapes Emotional Cognitive Abilities More Than Genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
+* [2024-04-21, 11:33:05](https://news.ycombinator.com/item?id=40104842) - [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
-* [2024-04-21, 10:29:29](https://news.ycombinator.com/item?id=40104547) - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
-* [2024-04-21, 10:22:54](https://news.ycombinator.com/item?id=40104525) - [Alan Kay: principles for funding and organizing breakthrough research](https://twitter.com/geoffreylitt/status/1781714112109572520/)
 * [2024-04-21, 10:14:42](https://news.ycombinator.com/item?id=40104492) - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 * [2024-04-21, 10:10:57](https://news.ycombinator.com/item?id=40104475) - [Drone footage of baby penguins jumping off cliff](https://petapixel.com/2024/04/17/baby-penguins-jump-off-50-foot-cliff-in-first-of-its-kind-drone-footage/)
 * [2024-04-21, 09:59:05](https://news.ycombinator.com/item?id=40104428) - [The Great British Housing Famine](https://www.himbonomics.com/p/the-great-british-housing-famine)
 * [2024-04-21, 09:53:48](https://news.ycombinator.com/item?id=40104410) - [Doom-htop: The classic DOOM game over htop](https://github.com/0x0mer/doom-htop)
-* [2024-04-21, 09:40:36](https://news.ycombinator.com/item?id=40104361) - [Amazon Grows to over 750k Robots, Replacing 100k Humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
 * [2024-04-21, 08:30:01](https://news.ycombinator.com/item?id=40104054) - [The Humanise Campaign call for an end to boring buildings](https://humanise.org/opinions/imagine-the-nation-s-favourite-buildings-stripped-of-their-soul-using-ai)
 * [2024-04-21, 08:22:22](https://news.ycombinator.com/item?id=40104025) - [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
 * [2024-04-21, 07:50:21](https://news.ycombinator.com/item?id=40103912) - [A hacker's guide to Language Models](https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb)
@@ -27,9 +27,9 @@
 * [2024-04-20, 06:23:34](https://news.ycombinator.com/item?id=40095257) - [h5ai – modern HTTP web server index](https://larsjung.de/h5ai/)
 * [2024-04-20, 04:30:56](https://news.ycombinator.com/item?id=40094834) - [N-Wheeled Vehicles](http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm)
 * [2024-04-19, 16:46:28](https://news.ycombinator.com/item?id=40089028) - [Show HN: We relaunched the Official MTA App for NYC public transit](https://apps.apple.com/ca/app/the-official-mta-app/id1297605670)
-* [2024-04-19, 12:35:06](https://news.ycombinator.com/item?id=40086027) - [Scriptable operating systems with Lua (2014) [pdf]](https://www.netbsd.org/~lneto/dls14.pdf)
 * [2024-04-19, 11:38:01](https://news.ycombinator.com/item?id=40085528) - [Stuart Parkin revolutionized disk drive storage](https://spectrum.ieee.org/stuart-parkin-disk-drive-storage)
 * [2024-04-19, 10:10:31](https://news.ycombinator.com/item?id=40084964) - [Raw flux streams and obscure formats: Further work around imaging 5.25-inch flo](https://digitalpreservation-blog.lib.cam.ac.uk/raw-flux-streams-and-obscure-formats-further-work-around-imaging-5-25-inch-floppy-disks-5a2cf2e5f0d1)
+* [2024-04-18, 01:01:28](https://news.ycombinator.com/item?id=40071898) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
 
 ## [Archives](archives/index.md)
 
