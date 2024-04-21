@@ -80,6 +80,7 @@
 * [2024-04-19, 12:22:24](https://news.ycombinator.com/item?id=40085887) - [Ask HN: High quality Python scripts or small libraries to learn from](https://news.ycombinator.com/item?id=40085887)
 * [2024-04-19, 12:00:30](https://news.ycombinator.com/item?id=40085706) - [Chariot (YC S22) – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng](https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer)
 * [2024-04-19, 11:55:36](https://news.ycombinator.com/item?id=40085672) - [Londoners see what a scientist looks like up close in 50 photographs](https://www.nature.com/articles/d41586-024-01156-8)
+* [2024-04-19, 11:49:18](https://news.ycombinator.com/item?id=40085622) - [Huawei's latest flagship smartphone contains no world-shaking silicon surprises](https://www.theregister.com/2024/04/19/huawei_pura_70_soc_advances/)
 * [2024-04-19, 11:42:18](https://news.ycombinator.com/item?id=40085565) - [Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
 * [2024-04-19, 11:39:55](https://news.ycombinator.com/item?id=40085543) - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
 * [2024-04-19, 11:38:01](https://news.ycombinator.com/item?id=40085528) - [Stuart Parkin Revolutionized Disk Drive Storage](https://spectrum.ieee.org/stuart-parkin-disk-drive-storage)

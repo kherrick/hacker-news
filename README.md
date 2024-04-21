@@ -2,7 +2,6 @@
 
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-04-21, 19:30:33](https://news.ycombinator.com/item?id=40108489) - [The dangers of \"decentralized\" ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
-* [2024-04-21, 18:32:22](https://news.ycombinator.com/item?id=40108031) - [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 * [2024-04-21, 17:30:54](https://news.ycombinator.com/item?id=40107509) - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
 * [2024-04-21, 17:25:32](https://news.ycombinator.com/item?id=40107456) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
@@ -28,6 +27,7 @@
 * [2024-04-20, 06:46:10](https://news.ycombinator.com/item?id=40095376) - [BQN for Birdwatchers](https://mlochbaum.github.io/BQN/doc/birds.html)
 * [2024-04-20, 05:35:51](https://news.ycombinator.com/item?id=40095077) - [On the 200th anniversary of Byron's death, two new books](https://www.washingtonpost.com/books/2024/04/18/new-look-original-romanic-heartthrob-lord-byron/)
 * [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
+* [2024-04-19, 11:49:18](https://news.ycombinator.com/item?id=40085622) - [Huawei's latest flagship smartphone contains no world-shaking silicon surprises](https://www.theregister.com/2024/04/19/huawei_pura_70_soc_advances/)
 * [2024-04-19, 05:39:36](https://news.ycombinator.com/item?id=40083748) - [The PostgreSQL community debates ALTER SYSTEM](https://lwn.net/Articles/968300/)
 * [2024-04-18, 16:00:16](https://news.ycombinator.com/item?id=40077557) - [Our biggest ever river catch?](https://theoceancleanup.com/updates/the-ocean-cleanup-makes-biggest-ever-river-catch-in-guatemala/)
 
