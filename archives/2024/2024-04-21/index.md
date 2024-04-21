@@ -55,6 +55,7 @@
 * [2024-04-21, 08:22:22](https://news.ycombinator.com/item?id=40104025) - [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
 * [2024-04-21, 07:59:16](https://news.ycombinator.com/item?id=40103948) - [Everyone Has JavaScript, Right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 * [2024-04-21, 07:50:21](https://news.ycombinator.com/item?id=40103912) - [A hacker's guide to Language Models](https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb)
+* [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I Should Have Loved Biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
 * [2024-04-21, 05:12:06](https://news.ycombinator.com/item?id=40103323) - [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
 * [2024-04-21, 04:31:57](https://news.ycombinator.com/item?id=40103188) - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
