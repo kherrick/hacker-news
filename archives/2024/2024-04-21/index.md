@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 10:43:22](https://news.ycombinator.com/item?id=40104596) - [Why I'm Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
 * [2024-04-21, 10:29:29](https://news.ycombinator.com/item?id=40104547) - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
+* [2024-04-21, 09:59:05](https://news.ycombinator.com/item?id=40104428) - [The Great British Housing Famine](https://www.himbonomics.com/p/the-great-british-housing-famine)
 * [2024-04-21, 09:53:48](https://news.ycombinator.com/item?id=40104410) - [Doom-htop: The classic DOOM game over htop](https://github.com/0x0mer/doom-htop)
 * [2024-04-21, 09:40:36](https://news.ycombinator.com/item?id=40104361) - [Amazon Grows to over 750k Robots, Replacing 100k Humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
 * [2024-04-21, 08:30:01](https://news.ycombinator.com/item?id=40104054) - [The Humanise Campaign call for an end to boring buildings](https://humanise.org/opinions/imagine-the-nation-s-favourite-buildings-stripped-of-their-soul-using-ai)
