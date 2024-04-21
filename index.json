@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-21, 12:20:20",
+      "https://news.ycombinator.com/item?id=40105121"
+    ],
+    [
+      "I love programming but I hate the programming industry",
+      "https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 12:12:20",
+      "https://news.ycombinator.com/item?id=40105068"
+    ],
+    [
+      "Environment Shapes Emotional Cognitive Abilities More Than Genes",
+      "https://neurosciencenews.com/environment-genetics-metacognition-25945/"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 11:33:05",
+      "https://news.ycombinator.com/item?id=40104842"
+    ],
+    [
+      "April 24 is JavaScript Naked Day – Browse the web without JavaScript",
+      "https://js-naked-day.org/"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 11:21:13",
       "https://news.ycombinator.com/item?id=40104774"
     ],
@@ -17,26 +47,6 @@
     [
       "Do insects have an inner life? Animal consciousness needs a rethink",
       "https://www.nature.com/articles/d41586-024-01144-y"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 10:29:29",
-      "https://news.ycombinator.com/item?id=40104547"
-    ],
-    [
-      "Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?",
-      "https://news.ycombinator.com/item?id=40104547"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 10:22:54",
-      "https://news.ycombinator.com/item?id=40104525"
-    ],
-    [
-      "Alan Kay: principles for funding and organizing breakthrough research",
-      "https://twitter.com/geoffreylitt/status/1781714112109572520/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Doom-htop: The classic DOOM game over htop",
       "https://github.com/0x0mer/doom-htop"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 09:40:36",
-      "https://news.ycombinator.com/item?id=40104361"
-    ],
-    [
-      "Amazon Grows to over 750k Robots, Replacing 100k Humans",
-      "https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-04-19, 12:35:06",
-      "https://news.ycombinator.com/item?id=40086027"
-    ],
-    [
-      "Scriptable operating systems with Lua (2014) [pdf]",
-      "https://www.netbsd.org/~lneto/dls14.pdf"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 11:38:01",
       "https://news.ycombinator.com/item?id=40085528"
     ],
@@ -297,6 +287,16 @@
     [
       "Raw flux streams and obscure formats: Further work around imaging 5.25-inch flo",
       "https://digitalpreservation-blog.lib.cam.ac.uk/raw-flux-streams-and-obscure-formats-further-work-around-imaging-5-25-inch-floppy-disks-5a2cf2e5f0d1"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 01:01:28",
+      "https://news.ycombinator.com/item?id=40071898"
+    ],
+    [
+      "Parsing and all that",
+      "https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/"
     ]
   ]
 ]
