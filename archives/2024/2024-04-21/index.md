@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 15:08:45](https://news.ycombinator.com/item?id=40106336) - [All Fritz Box modems have been hijacked](https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/)
 * [2024-04-21, 14:47:48](https://news.ycombinator.com/item?id=40106157) - [I can't stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
+* [2024-04-21, 14:33:21](https://news.ycombinator.com/item?id=40106056) - [What Should You Work On? (Assuming You Want to Make a Living at It.)](http://gurneyjourney.blogspot.com/2024/03/what-should-you-work-on-assuming-you.html)
 * [2024-04-21, 14:18:48](https://news.ycombinator.com/item?id=40105968) - [Jonathan Haidt Wants You to Take Away Your Kid's Phone](https://www.newyorker.com/news/the-new-yorker-interview/jonathan-haidt-wants-you-to-take-away-your-kids-phone)
 * [2024-04-21, 13:46:25](https://news.ycombinator.com/item?id=40105755) - [A load of old pixel shift. Why I just don't care for high-res modes](https://www.dpreview.com/opinion/6915548723/a-load-of-old-pixel-shift-why-i-just-don-t-care-for-high-res-modes)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
