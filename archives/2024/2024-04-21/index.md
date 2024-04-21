@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
 * [2024-04-21, 10:43:22](https://news.ycombinator.com/item?id=40104596) - [Why I'm Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
 * [2024-04-21, 10:29:29](https://news.ycombinator.com/item?id=40104547) - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
+* [2024-04-21, 10:14:42](https://news.ycombinator.com/item?id=40104492) - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 * [2024-04-21, 09:59:05](https://news.ycombinator.com/item?id=40104428) - [The Great British Housing Famine](https://www.himbonomics.com/p/the-great-british-housing-famine)
 * [2024-04-21, 09:53:48](https://news.ycombinator.com/item?id=40104410) - [Doom-htop: The classic DOOM game over htop](https://github.com/0x0mer/doom-htop)
 * [2024-04-21, 09:40:36](https://news.ycombinator.com/item?id=40104361) - [Amazon Grows to over 750k Robots, Replacing 100k Humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
