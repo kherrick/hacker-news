@@ -21,6 +21,7 @@
 * [2024-04-18, 21:34:49](https://news.ycombinator.com/item?id=40080968) - [The modern state, not ideas, brought about religious freedom (2017)](https://aeon.co/essays/the-modern-state-not-ideas-brought-about-religious-freedom)
 * [2024-04-18, 21:29:23](https://news.ycombinator.com/item?id=40080914) - [Discovery of the first fractal molecule in nature](https://phys.org/news/2024-04-discovery-fractal-molecule-nature.html)
 * [2024-04-18, 21:28:47](https://news.ycombinator.com/item?id=40080910) - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
+* [2024-04-18, 21:22:48](https://news.ycombinator.com/item?id=40080861) - [Rust-Written LAVD Kernel Scheduler Shows Promising Results for Linux Gaming](https://www.phoronix.com/news/LAVD-Scheduler-Linux-Gaming)
 * [2024-04-18, 21:17:16](https://news.ycombinator.com/item?id=40080816) - [Cops can force suspect to unlock phone with thumbprint, US court rules](https://arstechnica.com/tech-policy/2024/04/cops-can-force-suspect-to-unlock-phone-with-thumbprint-us-court-rules/)
 * [2024-04-18, 21:14:22](https://news.ycombinator.com/item?id=40080794) - [A POI database in one line](https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html)
 * [2024-04-18, 21:11:46](https://news.ycombinator.com/item?id=40080775) - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
