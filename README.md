@@ -5,7 +5,7 @@
 * [2024-04-21, 02:38:58](https://news.ycombinator.com/item?id=40102779) - [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
 * [2024-04-21, 02:38:16](https://news.ycombinator.com/item?id=40102775) - [You might not want to use your fingertip to unlock your phone](https://reason.com/2024/04/19/appeals-court-rules-that-cops-can-physically-make-you-unlock-your-phone/)
 * [2024-04-21, 00:38:19](https://news.ycombinator.com/item?id=40102293) - [The Psychology of Getting High–A Lot](https://nautil.us/the-psychology-of-getting-high-a-lot-548541/)
-* [2024-04-20, 23:27:02](https://news.ycombinator.com/item?id=40101911) - [MITRE Response to Cyber Attack in One of Its R&D Networks](https://www.mitre.org/news-insights/news-release/mitre-response-cyber-attack-one-its-rd-networks)
+* [2024-04-21, 00:31:51](https://news.ycombinator.com/item?id=40102256) - [Rust for JavaScript Developers (2019)](https://www.codegram.com/blog/rust-for-js-developers/)
 * [2024-04-20, 23:24:30](https://news.ycombinator.com/item?id=40101885) - [I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
 * [2024-04-20, 22:35:15](https://news.ycombinator.com/item?id=40101628) - [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
 * [2024-04-20, 21:50:20](https://news.ycombinator.com/item?id=40101317) - [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
