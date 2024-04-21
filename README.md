@@ -3,7 +3,6 @@
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
 * [2024-04-21, 04:31:57](https://news.ycombinator.com/item?id=40103188) - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 * [2024-04-21, 03:18:05](https://news.ycombinator.com/item?id=40102912) - [Racket Language](https://racket-lang.org/)
-* [2024-04-21, 02:38:16](https://news.ycombinator.com/item?id=40102775) - [You might not want to use your fingertip to unlock your phone](https://reason.com/2024/04/19/appeals-court-rules-that-cops-can-physically-make-you-unlock-your-phone/)
 * [2024-04-21, 00:38:19](https://news.ycombinator.com/item?id=40102293) - [The Psychology of Getting High–A Lot](https://nautil.us/the-psychology-of-getting-high-a-lot-548541/)
 * [2024-04-20, 23:27:02](https://news.ycombinator.com/item?id=40101911) - [MITRE Response to Cyber Attack in One of Its R&D Networks](https://www.mitre.org/news-insights/news-release/mitre-response-cyber-attack-one-its-rd-networks)
 * [2024-04-20, 23:24:30](https://news.ycombinator.com/item?id=40101885) - [I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
@@ -29,6 +28,7 @@
 * [2024-04-19, 10:01:26](https://news.ycombinator.com/item?id=40084927) - [The current state of map design in OpenStreetMap](https://imagico.de/blog/en/the-current-state-of-map-design-in-openstreetmap/)
 * [2024-04-19, 06:38:43](https://news.ycombinator.com/item?id=40084003) - [Earth Online: non-stop satellite monitoring platform](https://nimbo.earth/products/earth-online/)
 * [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
+* [2024-04-19, 04:51:46](https://news.ycombinator.com/item?id=40083527) - [Fast food is already automated?](https://www.theatlantic.com/technology/archive/2024/04/kernel-robot-fast-food-automation/678107/)
 * [2024-04-19, 04:47:33](https://news.ycombinator.com/item?id=40083511) - [That IACR Preprint](https://scottaaronson.blog/?p=7946)
 
 ## [Archives](archives/index.md)
