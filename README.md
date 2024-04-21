@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-21, 02:04:42](https://news.ycombinator.com/item?id=40102664) - [Samsung tells its executives to work a 6-day week to 'inject a sense of crisis'](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)
+* [2024-04-21, 02:30:13](https://news.ycombinator.com/item?id=40102748) - [House votes to ban TikTok in the U.S. if it's not sold](https://text.npr.org/1245594589)
 * [2024-04-20, 23:24:30](https://news.ycombinator.com/item?id=40101885) - [I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
 * [2024-04-20, 22:35:15](https://news.ycombinator.com/item?id=40101628) - [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
 * [2024-04-20, 21:50:20](https://news.ycombinator.com/item?id=40101317) - [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
