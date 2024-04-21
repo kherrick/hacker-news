@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-21, 21:18:18](https://news.ycombinator.com/item?id=40109331) - [Some monkeys in Panama may have just stumbled into the Stone Age (2018)](https://www.newscientist.com/article/2173021-some-monkeys-in-panama-may-have-just-stumbled-into-the-stone-age/)
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2024-04-21, 19:30:33](https://news.ycombinator.com/item?id=40108489) - [The dangers of \"decentralized\" ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 * [2024-04-21, 17:30:54](https://news.ycombinator.com/item?id=40107509) - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
 * [2024-04-21, 17:25:32](https://news.ycombinator.com/item?id=40107456) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
