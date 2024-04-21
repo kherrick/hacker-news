@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
+* [2024-04-21, 05:12:06](https://news.ycombinator.com/item?id=40103323) - [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
 * [2024-04-21, 04:31:57](https://news.ycombinator.com/item?id=40103188) - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 * [2024-04-21, 03:18:05](https://news.ycombinator.com/item?id=40102912) - [Racket Language](https://racket-lang.org/)
 * [2024-04-21, 02:51:02](https://news.ycombinator.com/item?id=40102816) - [Influential women's tech network shuts down unexpectedly](https://www.bbc.com/news/articles/cw0769446nyo)

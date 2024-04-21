@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
+* [2024-04-21, 05:12:06](https://news.ycombinator.com/item?id=40103323) - [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
 * [2024-04-21, 04:31:57](https://news.ycombinator.com/item?id=40103188) - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 * [2024-04-21, 03:18:05](https://news.ycombinator.com/item?id=40102912) - [Racket Language](https://racket-lang.org/)
 * [2024-04-21, 00:38:19](https://news.ycombinator.com/item?id=40102293) - [The Psychology of Getting High–A Lot](https://nautil.us/the-psychology-of-getting-high-a-lot-548541/)
-* [2024-04-20, 23:27:02](https://news.ycombinator.com/item?id=40101911) - [MITRE Response to Cyber Attack in One of Its R&D Networks](https://www.mitre.org/news-insights/news-release/mitre-response-cyber-attack-one-its-rd-networks)
 * [2024-04-20, 23:24:30](https://news.ycombinator.com/item?id=40101885) - [I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
 * [2024-04-20, 22:35:15](https://news.ycombinator.com/item?id=40101628) - [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
 * [2024-04-20, 21:50:20](https://news.ycombinator.com/item?id=40101317) - [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
