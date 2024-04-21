@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
 * [2024-04-21, 08:30:01](https://news.ycombinator.com/item?id=40104054) - [The Humanise Campaign call for an end to boring buildings](https://humanise.org/opinions/imagine-the-nation-s-favourite-buildings-stripped-of-their-soul-using-ai)
+* [2024-04-21, 08:22:22](https://news.ycombinator.com/item?id=40104025) - [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
 * [2024-04-21, 07:59:16](https://news.ycombinator.com/item?id=40103948) - [Everyone Has JavaScript, Right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 * [2024-04-21, 07:50:21](https://news.ycombinator.com/item?id=40103912) - [A hacker's guide to Language Models](https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
