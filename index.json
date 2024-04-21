@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-21, 10:29:29",
+      "https://news.ycombinator.com/item?id=40104547"
+    ],
+    [
+      "Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?",
+      "https://news.ycombinator.com/item?id=40104547"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 09:53:48",
+      "https://news.ycombinator.com/item?id=40104410"
+    ],
+    [
+      "Doom-htop: The classic DOOM game over htop",
+      "https://github.com/0x0mer/doom-htop"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 09:40:36",
+      "https://news.ycombinator.com/item?id=40104361"
+    ],
+    [
+      "Amazon Grows to over 750k Robots, Replacing 100k Humans",
+      "https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 08:30:01",
       "https://news.ycombinator.com/item?id=40104054"
     ],
@@ -17,16 +47,6 @@
     [
       "Do You Even Need Antivirus Software in 2024?",
       "https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 07:59:16",
-      "https://news.ycombinator.com/item?id=40103948"
-    ],
-    [
-      "Everyone Has JavaScript, Right?",
-      "https://www.kryogenix.org/code/browser/everyonehasjs.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-04-20, 15:40:40",
-      "https://news.ycombinator.com/item?id=40098178"
-    ],
-    [
-      "Doomscroller.xyz",
-      "https://doomscroller.xyz/"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 09:04:13",
       "https://news.ycombinator.com/item?id=40095918"
     ],
@@ -287,16 +297,6 @@
     [
       "Natural language processing in Bash (2023)",
       "https://massimo-nazaria.github.io/nlp.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 06:38:43",
-      "https://news.ycombinator.com/item?id=40084003"
-    ],
-    [
-      "Earth Online: non-stop satellite monitoring platform",
-      "https://nimbo.earth/products/earth-online/"
     ]
   ]
 ]
