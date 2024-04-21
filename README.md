@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-21, 23:04:54](https://news.ycombinator.com/item?id=40109989) - [Why I hate your Single Page App](https://www.freecodecamp.org/news/why-i-hate-your-single-page-app-f08bb4ff9134/)
 * [2024-04-21, 22:36:15](https://news.ycombinator.com/item?id=40109831) - [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
@@ -29,6 +28,7 @@
 * [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
 * [2024-04-19, 11:49:18](https://news.ycombinator.com/item?id=40085622) - [Huawei's latest flagship smartphone contains no world-shaking silicon surprises](https://www.theregister.com/2024/04/19/huawei_pura_70_soc_advances/)
 * [2024-04-19, 05:39:36](https://news.ycombinator.com/item?id=40083748) - [The PostgreSQL community debates ALTER SYSTEM](https://lwn.net/Articles/968300/)
+* [2024-04-18, 21:26:41](https://news.ycombinator.com/item?id=40080892) - [Annie Besant and Charles Leadbeater's Occult Chemistry (1908)](https://publicdomainreview.org/collection/occult-chemistry/)
 * [2024-04-18, 16:00:16](https://news.ycombinator.com/item?id=40077557) - [Our biggest ever river catch?](https://theoceancleanup.com/updates/the-ocean-cleanup-makes-biggest-ever-river-catch-in-guatemala/)
 
 ## [Archives](archives/index.md)
