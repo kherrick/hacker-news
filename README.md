@@ -2,7 +2,6 @@
 
 * [2024-04-21, 04:31:57](https://news.ycombinator.com/item?id=40103188) - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 * [2024-04-21, 03:18:05](https://news.ycombinator.com/item?id=40102912) - [Racket Language](https://racket-lang.org/)
-* [2024-04-21, 02:51:02](https://news.ycombinator.com/item?id=40102816) - [Influential women's tech network shuts down unexpectedly](https://www.bbc.com/news/articles/cw0769446nyo)
 * [2024-04-21, 02:38:58](https://news.ycombinator.com/item?id=40102779) - [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
 * [2024-04-21, 02:38:16](https://news.ycombinator.com/item?id=40102775) - [You might not want to use your fingertip to unlock your phone](https://reason.com/2024/04/19/appeals-court-rules-that-cops-can-physically-make-you-unlock-your-phone/)
 * [2024-04-21, 00:38:19](https://news.ycombinator.com/item?id=40102293) - [The Psychology of Getting High–A Lot](https://nautil.us/the-psychology-of-getting-high-a-lot-548541/)
@@ -13,6 +12,7 @@
 * [2024-04-20, 21:46:12](https://news.ycombinator.com/item?id=40101290) - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-20, 20:57:18](https://news.ycombinator.com/item?id=40100948) - [Why do some leading geologists reject the term \"Anthropocene\"?](https://www.newyorker.com/news/the-weekend-essay/the-epic-row-over-a-new-epoch)
+* [2024-04-20, 20:44:43](https://news.ycombinator.com/item?id=40100867) - [Why everything is becoming a game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 * [2024-04-20, 20:19:06](https://news.ycombinator.com/item?id=40100672) - [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
 * [2024-04-20, 20:07:33](https://news.ycombinator.com/item?id=40100569) - [How to fix America's aviation system](https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system)
 * [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
