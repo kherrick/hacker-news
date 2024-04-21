@@ -80,6 +80,7 @@
 * [2024-04-20, 10:09:23](https://news.ycombinator.com/item?id=40096176) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
 * [2024-04-20, 09:58:33](https://news.ycombinator.com/item?id=40096131) - [UN plastics treaty: don't let lobbyists drown out researchers](https://www.nature.com/articles/d41586-024-01089-2)
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
+* [2024-04-20, 09:01:37](https://news.ycombinator.com/item?id=40095900) - [Cindy Lee Might Be the Future of Music](https://www.gq.com/story/pulling-weeds-with-chris-black-cindy-lee-might-be-the-future-of-music)
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 * [2024-04-20, 07:06:54](https://news.ycombinator.com/item?id=40095456) - [\"I give up. I can no longer contribute to Gutenberg\"](https://twitter.com/aristath/status/1781273156843401726)
 * [2024-04-20, 06:36:25](https://news.ycombinator.com/item?id=40095325) - [Dehydrated: Letsencrypt/acme client implemented as a shell-script](https://github.com/dehydrated-io/dehydrated)
