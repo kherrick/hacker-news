@@ -6,6 +6,7 @@
 
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-04-21, 20:08:15](https://news.ycombinator.com/item?id=40108786) - [Google Pixel camera consistently blurring out The North Face logo](https://old.reddit.com/r/pixel_phones/comments/1c98wpq/i_noticed_my_pixel_is_blurring_brand_namesmy_7/)
+* [2024-04-21, 20:04:06](https://news.ycombinator.com/item?id=40108757) - [GPT Overperformance over Humans in Cognitive Reframing of Negative Scenarios](https://osf.io/preprints/psyarxiv/fzvd8)
 * [2024-04-21, 19:30:33](https://news.ycombinator.com/item?id=40108489) - [The dangers of \"decentralized\" ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 * [2024-04-21, 19:26:10](https://news.ycombinator.com/item?id=40108457) - [Has Llama-3 just killed proprietary AI models?](https://www.kadoa.com/blog/llama3-killed-proprietary-models)
 * [2024-04-21, 19:15:27](https://news.ycombinator.com/item?id=40108352) - [De-Autoconfiscation (Eric Raymond)](https://gitlab.com/esr/autodafe/-/blob/master/de-autoconfiscation.adoc)

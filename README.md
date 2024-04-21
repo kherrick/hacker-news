@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-04-21, 20:04:06](https://news.ycombinator.com/item?id=40108757) - [GPT Overperformance over Humans in Cognitive Reframing of Negative Scenarios](https://osf.io/preprints/psyarxiv/fzvd8)
 * [2024-04-21, 19:30:33](https://news.ycombinator.com/item?id=40108489) - [The dangers of \"decentralized\" ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 * [2024-04-21, 18:36:52](https://news.ycombinator.com/item?id=40108069) - [The fading memories of youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
@@ -17,7 +18,6 @@
 * [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
 * [2024-04-21, 10:14:42](https://news.ycombinator.com/item?id=40104492) - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 * [2024-04-21, 10:10:57](https://news.ycombinator.com/item?id=40104475) - [Drone footage of fledging penguins jumping off cliff](https://petapixel.com/2024/04/17/baby-penguins-jump-off-50-foot-cliff-in-first-of-its-kind-drone-footage/)
-* [2024-04-21, 09:53:48](https://news.ycombinator.com/item?id=40104410) - [Doom-htop: The classic DOOM game over htop](https://github.com/0x0mer/doom-htop)
 * [2024-04-21, 09:40:36](https://news.ycombinator.com/item?id=40104361) - [Amazon grows to over 750k robots, replacing 100k humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
 * [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
