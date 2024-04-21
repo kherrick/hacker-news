@@ -6,6 +6,7 @@
 
 * [2024-04-20, 23:46:49](https://news.ycombinator.com/item?id=40102024) - [Depression Rates by Country 2024](https://worldpopulationreview.com/country-rankings/depression-rates-by-country)
 * [2024-04-20, 23:31:37](https://news.ycombinator.com/item?id=40101935) - [A Trivial Llama 3 Jailbreak](https://github.com/haizelabs/llama3-jailbreak)
+* [2024-04-20, 23:27:02](https://news.ycombinator.com/item?id=40101911) - [MITRE Response to Cyber Attack in One of Its R&D Networks](https://www.mitre.org/news-insights/news-release/mitre-response-cyber-attack-one-its-rd-networks)
 * [2024-04-20, 23:24:30](https://news.ycombinator.com/item?id=40101885) - [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
 * [2024-04-20, 23:18:20](https://news.ycombinator.com/item?id=40101846) - [GPT-4 can exploit vulnerabilities by reading CVEs](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/)
 * [2024-04-20, 23:02:57](https://news.ycombinator.com/item?id=40101774) - [Meta says you can't turn off its new AI tool on Facebook, Instagram](https://globalnews.ca/news/10435817/meta-ai-facebook-instagram/)
@@ -22,6 +23,7 @@
 * [2024-04-20, 20:44:43](https://news.ycombinator.com/item?id=40100867) - [Why Everything Is Becoming a Game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 * [2024-04-20, 20:19:06](https://news.ycombinator.com/item?id=40100672) - [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
 * [2024-04-20, 20:14:43](https://news.ycombinator.com/item?id=40100643) - [Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible](https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/)
+* [2024-04-20, 20:07:33](https://news.ycombinator.com/item?id=40100569) - [How to fix America's aviation system](https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system)
 * [2024-04-20, 19:50:49](https://news.ycombinator.com/item?id=40100430) - [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
 * [2024-04-20, 19:45:59](https://news.ycombinator.com/item?id=40100389) - [Chad Asks US Troops to Cease Operations at Strategic Army Base](https://www.bloomberg.com/news/articles/2024-04-19/chad-asks-us-troops-to-cease-operations-at-strategic-army-base)
 * [2024-04-20, 19:20:18](https://news.ycombinator.com/item?id=40100182) - [Why We're Doing This](https://www.flickr.org/why-were-doing-this/)
