@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-21, 15:44:10](https://news.ycombinator.com/item?id=40106639) - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
 * [2024-04-21, 15:08:45](https://news.ycombinator.com/item?id=40106336) - [All Fritz Box modems have been hijacked](https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/)
 * [2024-04-21, 14:47:48](https://news.ycombinator.com/item?id=40106157) - [I can't stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
 * [2024-04-21, 14:46:42](https://news.ycombinator.com/item?id=40106147) - [Intermediate Activations – The Forward Hook](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
@@ -20,7 +21,6 @@
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-20, 20:07:33](https://news.ycombinator.com/item?id=40100569) - [How to fix America's aviation system](https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system)
 * [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
-* [2024-04-20, 18:03:15](https://news.ycombinator.com/item?id=40099344) - [Financial market applications of LLMs](https://thegradient.pub/financial-market-applications-of-llms/)
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 09:04:13](https://news.ycombinator.com/item?id=40095918) - [Psychedelia syndrome: the pixels and code of Jeff Minter's 'Psychedelia'](https://psychedeliasyndro.me/)
 * [2024-04-20, 06:23:34](https://news.ycombinator.com/item?id=40095257) - [h5ai – modern HTTP web server index](https://larsjung.de/h5ai/)
