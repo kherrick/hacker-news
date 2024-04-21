@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 17:56:59](https://news.ycombinator.com/item?id=40107738) - [How do you recognize an expert?](https://lemire.me/blog/2024/04/21/how-do-you-recognize-an-expert/)
+* [2024-04-21, 17:44:08](https://news.ycombinator.com/item?id=40107607) - [It's not your age that's slowing your metabolism, new research says](https://www.cnn.com/2021/09/24/health/how-to-boost-metabolism-wellness/index.html)
+* [2024-04-21, 17:30:54](https://news.ycombinator.com/item?id=40107509) - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
 * [2024-04-21, 17:00:43](https://news.ycombinator.com/item?id=40107283) - [Cambly (YC W14) is hiring engineers in SF to help people learn and teach English](https://jobs.ashbyhq.com/Cambly?departmentId=58bf36fe-813a-4048-bd36-11bd6f0ee3e2&utm_source=ROe4eDx4yP)
 * [2024-04-21, 16:57:19](https://news.ycombinator.com/item?id=40107252) - [Downgraded my website to GitHub pages; couldn't be happier](https://billwear.github.io/)
 * [2024-04-21, 16:51:42](https://news.ycombinator.com/item?id=40107216) - [Vision can predict dementia 12 years before diagnosis, study finds](https://www.sciencealert.com/your-vision-can-predict-dementia-12-years-before-diagnosis-study-finds)
+* [2024-04-21, 16:48:51](https://news.ycombinator.com/item?id=40107201) - [Anti-municipal broadband budget amendment gets nixed in New York](https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york)
 * [2024-04-21, 16:42:07](https://news.ycombinator.com/item?id=40107125) - [Tenants Are Forcing Bay Area Landlords to the Bargaining Table](https://jacobin.com/2024/04/berkeley-tenants-union-at-home-organizing/)
 * [2024-04-21, 16:40:46](https://news.ycombinator.com/item?id=40107112) - [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
 * [2024-04-21, 16:31:37](https://news.ycombinator.com/item?id=40107034) - [What the Supreme Court case on tent encampments could mean for homeless people](https://www.vox.com/scotus/24123323/grants-pass-scotus-supreme-court-homeless-tent-encampments)
