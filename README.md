@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-21, 18:36:52](https://news.ycombinator.com/item?id=40108069) - [The Fading Memories of Youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
 * [2024-04-21, 18:32:22](https://news.ycombinator.com/item?id=40108031) - [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 * [2024-04-21, 17:56:59](https://news.ycombinator.com/item?id=40107738) - [How do you recognize an expert?](https://lemire.me/blog/2024/04/21/how-do-you-recognize-an-expert/)
@@ -10,7 +11,6 @@
 * [2024-04-21, 16:40:46](https://news.ycombinator.com/item?id=40107112) - [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 15:28:57](https://news.ycombinator.com/item?id=40106500) - [The Design of Everyday APIs (2022)](https://www.roguelynn.com/talks/everyday-apis/)
-* [2024-04-21, 14:47:48](https://news.ycombinator.com/item?id=40106157) - [I can't stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
 * [2024-04-21, 14:46:42](https://news.ycombinator.com/item?id=40106147) - [Intermediate Activations – The Forward Hook](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
 * [2024-04-21, 13:48:19](https://news.ycombinator.com/item?id=40105773) - [From a lorry driver to Ruby on rails developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
@@ -24,7 +24,7 @@
 * [2024-04-21, 04:31:57](https://news.ycombinator.com/item?id=40103188) - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 14:39:30](https://news.ycombinator.com/item?id=40097681) - [Coroutines and Effects](https://without.boats/blog/coroutines-and-effects/)
-* [2024-04-20, 09:04:13](https://news.ycombinator.com/item?id=40095918) - [Psychedelia syndrome: the pixels and code of Jeff Minter's 'Psychedelia'](https://psychedeliasyndro.me/)
+* [2024-04-20, 09:01:37](https://news.ycombinator.com/item?id=40095900) - [Cindy Lee might be the future of music](https://www.gq.com/story/pulling-weeds-with-chris-black-cindy-lee-might-be-the-future-of-music)
 * [2024-04-20, 06:46:10](https://news.ycombinator.com/item?id=40095376) - [BQN for Birdwatchers](https://mlochbaum.github.io/BQN/doc/birds.html)
 * [2024-04-20, 05:35:51](https://news.ycombinator.com/item?id=40095077) - [On the 200th anniversary of Byron's death, two new books](https://www.washingtonpost.com/books/2024/04/18/new-look-original-romanic-heartthrob-lord-byron/)
 * [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
