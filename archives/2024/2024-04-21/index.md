@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 20:08:15](https://news.ycombinator.com/item?id=40108786) - [Google Pixel camera consistently blurring out The North Face logo](https://old.reddit.com/r/pixel_phones/comments/1c98wpq/i_noticed_my_pixel_is_blurring_brand_namesmy_7/)
 * [2024-04-21, 19:15:27](https://news.ycombinator.com/item?id=40108352) - [De-Autoconfiscation (Eric Raymond)](https://gitlab.com/esr/autodafe/-/blob/master/de-autoconfiscation.adoc)
 * [2024-04-21, 18:58:48](https://news.ycombinator.com/item?id=40108231) - [Google Reader Shutdown Tidbits](https://blog.persistent.info/2013/06/google-reader-shutdown-tidbits.html?m=1)
 * [2024-04-21, 18:36:52](https://news.ycombinator.com/item?id=40108069) - [The Fading Memories of Youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
