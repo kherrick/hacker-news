@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 23:46:49](https://news.ycombinator.com/item?id=40102024) - [Depression Rates by Country 2024](https://worldpopulationreview.com/country-rankings/depression-rates-by-country)
+* [2024-04-20, 23:31:37](https://news.ycombinator.com/item?id=40101935) - [A Trivial Llama 3 Jailbreak](https://github.com/haizelabs/llama3-jailbreak)
+* [2024-04-20, 23:24:30](https://news.ycombinator.com/item?id=40101885) - [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
 * [2024-04-20, 23:18:20](https://news.ycombinator.com/item?id=40101846) - [GPT-4 can exploit vulnerabilities by reading CVEs](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/)
 * [2024-04-20, 23:02:57](https://news.ycombinator.com/item?id=40101774) - [Meta says you can't turn off its new AI tool on Facebook, Instagram](https://globalnews.ca/news/10435817/meta-ai-facebook-instagram/)
+* [2024-04-20, 22:45:27](https://news.ycombinator.com/item?id=40101677) - [Portr: Open-Source Ngrok Alternative](https://portr.dev/)
+* [2024-04-20, 22:35:15](https://news.ycombinator.com/item?id=40101628) - [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
+* [2024-04-20, 21:50:20](https://news.ycombinator.com/item?id=40101317) - [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
 * [2024-04-20, 21:46:12](https://news.ycombinator.com/item?id=40101290) - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
 * [2024-04-20, 21:42:40](https://news.ycombinator.com/item?id=40101263) - [American Heart Association Paid Off by P&G to Say Heart Disease Caused by SatFat](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
 * [2024-04-20, 21:19:32](https://news.ycombinator.com/item?id=40101104) - [All web browsers on iOS are just Safari with different design](https://community.brave.com/t/why-is-the-ios-app-updated-so-sparingly/512155)
