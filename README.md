@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 * [2024-04-21, 17:56:59](https://news.ycombinator.com/item?id=40107738) - [How do you recognize an expert?](https://lemire.me/blog/2024/04/21/how-do-you-recognize-an-expert/)
 * [2024-04-21, 17:44:08](https://news.ycombinator.com/item?id=40107607) - [It's not your age that's slowing your metabolism, new research says](https://www.cnn.com/2021/09/24/health/how-to-boost-metabolism-wellness/index.html)
 * [2024-04-21, 17:30:54](https://news.ycombinator.com/item?id=40107509) - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
@@ -21,7 +22,6 @@
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
 * [2024-04-21, 05:12:06](https://news.ycombinator.com/item?id=40103323) - [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
 * [2024-04-21, 04:31:57](https://news.ycombinator.com/item?id=40103188) - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
-* [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 09:04:13](https://news.ycombinator.com/item?id=40095918) - [Psychedelia syndrome: the pixels and code of Jeff Minter's 'Psychedelia'](https://psychedeliasyndro.me/)
 * [2024-04-20, 06:46:10](https://news.ycombinator.com/item?id=40095376) - [BQN for Birdwatchers](https://mlochbaum.github.io/BQN/doc/birds.html)
