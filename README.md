@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-21, 02:38:58](https://news.ycombinator.com/item?id=40102779) - [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
-* [2024-04-21, 02:30:13](https://news.ycombinator.com/item?id=40102748) - [House votes to ban TikTok in the U.S. if it's not sold](https://text.npr.org/1245594589)
 * [2024-04-20, 23:24:30](https://news.ycombinator.com/item?id=40101885) - [I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
 * [2024-04-20, 22:35:15](https://news.ycombinator.com/item?id=40101628) - [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
 * [2024-04-20, 21:50:20](https://news.ycombinator.com/item?id=40101317) - [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
@@ -21,6 +20,7 @@
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
 * [2024-04-20, 04:30:56](https://news.ycombinator.com/item?id=40094834) - [N-Wheeled Vehicles](http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm)
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
+* [2024-04-19, 15:48:26](https://news.ycombinator.com/item?id=40088298) - [A Combinatory Rosetta Stone](https://blog.zdsmith.com/posts/a-combinatory-rosetta-stone.html)
 * [2024-04-19, 12:35:06](https://news.ycombinator.com/item?id=40086027) - [Scriptable operating systems with Lua (2014) [pdf]](https://www.netbsd.org/~lneto/dls14.pdf)
 * [2024-04-19, 11:38:01](https://news.ycombinator.com/item?id=40085528) - [Stuart Parkin revolutionized disk drive storage](https://spectrum.ieee.org/stuart-parkin-disk-drive-storage)
 * [2024-04-19, 10:21:24](https://news.ycombinator.com/item?id=40085028) - [Natural language processing in Bash (2023)](https://massimo-nazaria.github.io/nlp.html)
