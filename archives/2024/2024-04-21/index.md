@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
 * [2024-04-21, 16:40:46](https://news.ycombinator.com/item?id=40107112) - [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
+* [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 16:06:09](https://news.ycombinator.com/item?id=40106819) - [Maybe I don't want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
 * [2024-04-21, 15:57:31](https://news.ycombinator.com/item?id=40106741) - [Iran quickens path towards the atomic bomb](https://english.elpais.com/international/2024-04-21/iran-quickens-path-towards-the-atomic-bomb.html)
 * [2024-04-21, 15:44:10](https://news.ycombinator.com/item?id=40106639) - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)

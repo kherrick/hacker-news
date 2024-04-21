@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-21, 16:40:46](https://news.ycombinator.com/item?id=40107112) - [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
+* [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 15:44:10](https://news.ycombinator.com/item?id=40106639) - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
 * [2024-04-21, 15:29:48](https://news.ycombinator.com/item?id=40106508) - [Never struggle to give feedback again](https://read.highgrowthengineer.com/p/never-struggle-to-give-feedback-again)
 * [2024-04-21, 15:28:57](https://news.ycombinator.com/item?id=40106500) - [The Design of Everyday APIs (2022)](https://www.roguelynn.com/talks/everyday-apis/)
-* [2024-04-21, 14:47:48](https://news.ycombinator.com/item?id=40106157) - [I can't stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
 * [2024-04-21, 14:46:42](https://news.ycombinator.com/item?id=40106147) - [Intermediate Activations – The Forward Hook](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
 * [2024-04-21, 13:48:19](https://news.ycombinator.com/item?id=40105773) - [From a Lorry Driver to Ruby on Rails Developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
 * [2024-04-21, 13:46:25](https://news.ycombinator.com/item?id=40105755) - [A load of old pixel shift. Why I just don't care for high-res modes](https://www.dpreview.com/opinion/6915548723/a-load-of-old-pixel-shift-why-i-just-don-t-care-for-high-res-modes)
