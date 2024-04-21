@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-21, 03:18:05](https://news.ycombinator.com/item?id=40102912) - [Racket Language](https://racket-lang.org/)
-* [2024-04-21, 02:51:02](https://news.ycombinator.com/item?id=40102816) - [Influential women's tech network shuts down unexpectedly](https://www.bbc.com/news/articles/cw0769446nyo)
 * [2024-04-21, 02:38:58](https://news.ycombinator.com/item?id=40102779) - [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
 * [2024-04-21, 02:38:16](https://news.ycombinator.com/item?id=40102775) - [You might not want to use your fingertip to unlock your phone](https://reason.com/2024/04/19/appeals-court-rules-that-cops-can-physically-make-you-unlock-your-phone/)
 * [2024-04-21, 00:31:51](https://news.ycombinator.com/item?id=40102256) - [Rust for JavaScript Developers (2019)](https://www.codegram.com/blog/rust-for-js-developers/)
@@ -29,6 +28,7 @@
 * [2024-04-19, 06:38:43](https://news.ycombinator.com/item?id=40084003) - [Earth Online: non-stop satellite monitoring platform](https://nimbo.earth/products/earth-online/)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 * [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
+* [2024-04-19, 04:47:33](https://news.ycombinator.com/item?id=40083511) - [That IACR Preprint](https://scottaaronson.blog/?p=7946)
 * [2024-04-18, 22:18:31](https://news.ycombinator.com/item?id=40081348) - [50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
 
 ## [Archives](archives/index.md)

@@ -117,6 +117,7 @@
 * [2024-04-19, 05:16:37](https://news.ycombinator.com/item?id=40083641) - [VoRS: Vo(IP) Simple Alternative to Mumble](http://www.vors.stargrave.org/)
 * [2024-04-19, 05:13:51](https://news.ycombinator.com/item?id=40083622) - [How Amazon built an EV charging network in two years](https://theprogressplaybook.com/2024/04/15/how-amazon-built-a-massive-ev-charging-network-in-just-two-years/)
 * [2024-04-19, 05:00:22](https://news.ycombinator.com/item?id=40083568) - [Features macOS should copy from Linux](https://www.zdnet.com/article/6-features-i-wish-macos-would-copy-from-linux/)
+* [2024-04-19, 04:47:33](https://news.ycombinator.com/item?id=40083511) - [That IACR Preprint](https://scottaaronson.blog/?p=7946)
 * [2024-04-19, 04:38:32](https://news.ycombinator.com/item?id=40083470) - [Samsung shifts executives to six-day workweeks to 'inject a sense of crisis'](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
 * [2024-04-19, 04:04:50](https://news.ycombinator.com/item?id=40083331) - [Taylor Swift just broke Spotify](https://downdetector.com/status/spotify/)
 * [2024-04-19, 03:53:15](https://news.ycombinator.com/item?id=40083285) - [Scale of the Universe](https://scaleofuniverse.com/en)
