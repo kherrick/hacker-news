@@ -19,6 +19,7 @@
 * [2024-04-20, 17:54:27](https://news.ycombinator.com/item?id=40099252) - [Self-reasoning tokens: teaching models to think ahead](https://reasoning-tokens.ghost.io/reasoning-tokens/)
 * [2024-04-20, 15:40:40](https://news.ycombinator.com/item?id=40098178) - [Doomscroller.xyz](https://doomscroller.xyz/)
 * [2024-04-20, 09:52:39](https://news.ycombinator.com/item?id=40096113) - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
+* [2024-04-20, 06:23:34](https://news.ycombinator.com/item?id=40095257) - [h5ai – modern HTTP web server index](https://larsjung.de/h5ai/)
 * [2024-04-20, 04:30:56](https://news.ycombinator.com/item?id=40094834) - [N-Wheeled Vehicles](http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm)
 * [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
 * [2024-04-19, 16:46:28](https://news.ycombinator.com/item?id=40089028) - [Show HN: We relaunched the Official MTA App for NYC public transit](https://apps.apple.com/ca/app/the-official-mta-app/id1297605670)
@@ -29,7 +30,6 @@
 * [2024-04-19, 10:01:26](https://news.ycombinator.com/item?id=40084927) - [The current state of map design in OpenStreetMap](https://imagico.de/blog/en/the-current-state-of-map-design-in-openstreetmap/)
 * [2024-04-19, 06:38:43](https://news.ycombinator.com/item?id=40084003) - [Earth Online: non-stop satellite monitoring platform](https://nimbo.earth/products/earth-online/)
 * [2024-04-19, 04:51:46](https://news.ycombinator.com/item?id=40083527) - [Fast food is already automated?](https://www.theatlantic.com/technology/archive/2024/04/kernel-robot-fast-food-automation/678107/)
-* [2024-04-19, 04:47:33](https://news.ycombinator.com/item?id=40083511) - [That IACR Preprint](https://scottaaronson.blog/?p=7946)
 
 ## [Archives](archives/index.md)
 

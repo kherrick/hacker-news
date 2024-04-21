@@ -85,6 +85,7 @@
 * [2024-04-20, 06:36:25](https://news.ycombinator.com/item?id=40095325) - [Dehydrated: Letsencrypt/acme client implemented as a shell-script](https://github.com/dehydrated-io/dehydrated)
 * [2024-04-20, 06:35:50](https://news.ycombinator.com/item?id=40095322) - [Cloudflare R2 Introduces Event Notifications and Infrequent Access Storage Tier](https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/)
 * [2024-04-20, 06:29:48](https://news.ycombinator.com/item?id=40095287) - [Thousands protest against Canary islands' 'unsustainable' tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
+* [2024-04-20, 06:23:34](https://news.ycombinator.com/item?id=40095257) - [h5ai – modern HTTP web server index](https://larsjung.de/h5ai/)
 * [2024-04-20, 06:11:55](https://news.ycombinator.com/item?id=40095217) - [Children Need Neighborhoods Where They Can Walk and Bike](https://www.wsj.com/health/wellness/children-need-neighborhoods-where-they-can-walk-and-bike-5f3a9b4a)
 * [2024-04-20, 06:03:21](https://news.ycombinator.com/item?id=40095189) - [Volkswagen workers vote overwhelmingly to join the UAW](https://www.cnn.com/2024/04/19/business/volkswagen-uaw-vote/index.html)
 * [2024-04-20, 05:34:56](https://news.ycombinator.com/item?id=40095070) - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
