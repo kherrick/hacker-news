@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 17:00:43](https://news.ycombinator.com/item?id=40107283) - [Cambly (YC W14) is hiring engineers in SF to help people learn and teach English](https://jobs.ashbyhq.com/Cambly?departmentId=58bf36fe-813a-4048-bd36-11bd6f0ee3e2&utm_source=ROe4eDx4yP)
+* [2024-04-21, 16:51:42](https://news.ycombinator.com/item?id=40107216) - [Vision can predict dementia 12 years before diagnosis, study finds](https://www.sciencealert.com/your-vision-can-predict-dementia-12-years-before-diagnosis-study-finds)
 * [2024-04-21, 16:40:46](https://news.ycombinator.com/item?id=40107112) - [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 16:06:09](https://news.ycombinator.com/item?id=40106819) - [Maybe I don't want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
 * [2024-04-21, 15:57:31](https://news.ycombinator.com/item?id=40106741) - [Iran quickens path towards the atomic bomb](https://english.elpais.com/international/2024-04-21/iran-quickens-path-towards-the-atomic-bomb.html)
+* [2024-04-21, 15:56:29](https://news.ycombinator.com/item?id=40106730) - [Hackers had access to Volkswagen IT systems for years](https://www.zdf.de/nachrichten/wirtschaft/volkswagen-china-hacking-industriespionage-emobilitaet-100.html)
 * [2024-04-21, 15:44:10](https://news.ycombinator.com/item?id=40106639) - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
 * [2024-04-21, 15:34:53](https://news.ycombinator.com/item?id=40106570) - [The Gambler's Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
 * [2024-04-21, 15:29:48](https://news.ycombinator.com/item?id=40106508) - [Never struggle to give feedback again](https://read.highgrowthengineer.com/p/never-struggle-to-give-feedback-again)
