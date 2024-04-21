@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40107007"
     ],
     [
-      "penzai: JAX research toolkit for building, editing, and visualizing neural nets",
+      "Penzai: JAX research toolkit for building, editing, and visualizing neural nets",
       "https://github.com/google-deepmind/penzai"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "I made an open source Windows app to rewind and search everything on screen",
       "https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 12:12:20",
-      "https://news.ycombinator.com/item?id=40105068"
-    ],
-    [
-      "Environment shapes emotional cognitive abilities more than genes",
-      "https://neurosciencenews.com/environment-genetics-metacognition-25945/"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-04-20, 14:39:30",
+      "https://news.ycombinator.com/item?id=40097681"
+    ],
+    [
+      "Coroutines and Effects",
+      "https://without.boats/blog/coroutines-and-effects/"
+    ]
+  ],
+  [
+    [
       "2024-04-20, 09:04:13",
       "https://news.ycombinator.com/item?id=40095918"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-04-19, 10:10:31",
-      "https://news.ycombinator.com/item?id=40084964"
-    ],
-    [
-      "Raw flux streams and obscure formats: Further work around imaging 5.25-inch flo",
-      "https://digitalpreservation-blog.lib.cam.ac.uk/raw-flux-streams-and-obscure-formats-further-work-around-imaging-5-25-inch-floppy-disks-5a2cf2e5f0d1"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 05:39:36",
       "https://news.ycombinator.com/item?id=40083748"
     ],
     [
       "The PostgreSQL community debates ALTER SYSTEM",
       "https://lwn.net/Articles/968300/"
+    ]
+  ],
+  [
+    [
+      "2024-04-18, 16:00:16",
+      "https://news.ycombinator.com/item?id=40077557"
+    ],
+    [
+      "Our biggest ever river catch?",
+      "https://theoceancleanup.com/updates/the-ocean-cleanup-makes-biggest-ever-river-catch-in-guatemala/"
     ]
   ]
 ]
