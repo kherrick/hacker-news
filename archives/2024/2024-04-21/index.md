@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 14:18:48](https://news.ycombinator.com/item?id=40105968) - [Jonathan Haidt Wants You to Take Away Your Kid's Phone](https://www.newyorker.com/news/the-new-yorker-interview/jonathan-haidt-wants-you-to-take-away-your-kids-phone)
 * [2024-04-21, 13:46:25](https://news.ycombinator.com/item?id=40105755) - [A load of old pixel shift. Why I just don't care for high-res modes](https://www.dpreview.com/opinion/6915548723/a-load-of-old-pixel-shift-why-i-just-don-t-care-for-high-res-modes)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
 * [2024-04-21, 12:20:20](https://news.ycombinator.com/item?id=40105121) - [I love programming but I hate the programming industry](https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry)
@@ -11,6 +12,7 @@
 * [2024-04-21, 11:33:05](https://news.ycombinator.com/item?id=40104842) - [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
+* [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
 * [2024-04-21, 10:43:22](https://news.ycombinator.com/item?id=40104596) - [Why I'm Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
 * [2024-04-21, 10:29:29](https://news.ycombinator.com/item?id=40104547) - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
 * [2024-04-21, 10:22:54](https://news.ycombinator.com/item?id=40104525) - [Alan Kay: principles for funding and organizing breakthrough research](https://twitter.com/geoffreylitt/status/1781714112109572520/)
