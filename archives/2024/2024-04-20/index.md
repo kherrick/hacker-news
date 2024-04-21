@@ -89,6 +89,7 @@
 * [2024-04-20, 05:25:48](https://news.ycombinator.com/item?id=40095035) - [We will be shutting down Post News within the next few weeks](https://post.news/@/noam/2fJw4PYRFjya343RpiToiyEQr0x)
 * [2024-04-20, 05:05:17](https://news.ycombinator.com/item?id=40094959) - [Wax compiler – a tiny language designed to transpile to other languages](https://waxc.netlify.app/)
 * [2024-04-20, 04:42:22](https://news.ycombinator.com/item?id=40094877) - [End-of-Life for Z80 CPU and Peripherals Announced](https://hackaday.com/2024/04/19/end-of-life-for-z80-cpu-and-peripherals-announced/)
+* [2024-04-20, 04:30:56](https://news.ycombinator.com/item?id=40094834) - [N-Wheeled Vehicles](http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm)
 * [2024-04-20, 04:26:49](https://news.ycombinator.com/item?id=40094804) - [The seven secrets of computer power [pdf]](https://www.ece.iastate.edu/~alexs/classes/2023_Fall_281/readings/Register-Machines.pdf)
 * [2024-04-20, 04:08:36](https://news.ycombinator.com/item?id=40094729) - [Israel uses facial recognition systems in Gaza and beyond](https://www.theguardian.com/technology/2024/apr/19/idf-facial-recognition-surveillance-palestinians)
 * [2024-04-20, 03:01:19](https://news.ycombinator.com/item?id=40094364) - [Google scraps minimum wage, benefits rules for suppliers and staffing firms](https://www.msn.com/en-gb/money/other/google-scraps-minimum-wage-benefits-rules-for-suppliers-and-staffing-firms/ar-AA1njDyi)
