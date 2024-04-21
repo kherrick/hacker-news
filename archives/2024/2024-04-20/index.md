@@ -86,6 +86,7 @@
 * [2024-04-20, 09:01:37](https://news.ycombinator.com/item?id=40095900) - [Cindy Lee Might Be the Future of Music](https://www.gq.com/story/pulling-weeds-with-chris-black-cindy-lee-might-be-the-future-of-music)
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 * [2024-04-20, 07:06:54](https://news.ycombinator.com/item?id=40095456) - [\"I give up. I can no longer contribute to Gutenberg\"](https://twitter.com/aristath/status/1781273156843401726)
+* [2024-04-20, 06:46:10](https://news.ycombinator.com/item?id=40095376) - [BQN for Birdwatchers](https://mlochbaum.github.io/BQN/doc/birds.html)
 * [2024-04-20, 06:36:25](https://news.ycombinator.com/item?id=40095325) - [Dehydrated: Letsencrypt/acme client implemented as a shell-script](https://github.com/dehydrated-io/dehydrated)
 * [2024-04-20, 06:35:50](https://news.ycombinator.com/item?id=40095322) - [Cloudflare R2 Introduces Event Notifications and Infrequent Access Storage Tier](https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/)
 * [2024-04-20, 06:29:48](https://news.ycombinator.com/item?id=40095287) - [Thousands protest against Canary islands' 'unsustainable' tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
