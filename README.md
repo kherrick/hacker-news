@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-21, 14:18:48](https://news.ycombinator.com/item?id=40105968) - [Jonathan Haidt Wants You to Take Away Your Kid's Phone](https://www.newyorker.com/news/the-new-yorker-interview/jonathan-haidt-wants-you-to-take-away-your-kids-phone)
+* [2024-04-21, 14:18:48](https://news.ycombinator.com/item?id=40105968) - [Jonathan Haidt blames teenage depression, anxiety on smartphones, social media](https://www.newyorker.com/news/the-new-yorker-interview/jonathan-haidt-wants-you-to-take-away-your-kids-phone)
 * [2024-04-21, 13:46:25](https://news.ycombinator.com/item?id=40105755) - [A load of old pixel shift. Why I just don't care for high-res modes](https://www.dpreview.com/opinion/6915548723/a-load-of-old-pixel-shift-why-i-just-don-t-care-for-high-res-modes)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
-* [2024-04-21, 12:20:20](https://news.ycombinator.com/item?id=40105121) - [I love programming but I hate the programming industry](https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry)
 * [2024-04-21, 12:12:20](https://news.ycombinator.com/item?id=40105068) - [Environment shapes emotional cognitive abilities more than genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
@@ -19,6 +18,7 @@
 * [2024-04-20, 21:00:06](https://news.ycombinator.com/item?id=40100971) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-04-20, 20:07:33](https://news.ycombinator.com/item?id=40100569) - [How to fix America's aviation system](https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system)
 * [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
+* [2024-04-20, 18:03:15](https://news.ycombinator.com/item?id=40099344) - [Financial market applications of LLMs](https://thegradient.pub/financial-market-applications-of-llms/)
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 09:04:13](https://news.ycombinator.com/item?id=40095918) - [Psychedelia syndrome: the pixels and code of Jeff Minter's 'Psychedelia'](https://psychedeliasyndro.me/)
 * [2024-04-20, 09:01:37](https://news.ycombinator.com/item?id=40095900) - [Cindy Lee Might Be the Future of Music](https://www.gq.com/story/pulling-weeds-with-chris-black-cindy-lee-might-be-the-future-of-music)
