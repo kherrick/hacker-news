@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 18:58:48](https://news.ycombinator.com/item?id=40108231) - [Google Reader Shutdown Tidbits](https://blog.persistent.info/2013/06/google-reader-shutdown-tidbits.html?m=1)
 * [2024-04-21, 18:36:52](https://news.ycombinator.com/item?id=40108069) - [The Fading Memories of Youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
 * [2024-04-21, 18:32:22](https://news.ycombinator.com/item?id=40108031) - [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
