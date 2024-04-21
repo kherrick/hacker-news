@@ -4,7 +4,6 @@
 * [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
 * [2024-04-21, 10:43:22](https://news.ycombinator.com/item?id=40104596) - [Why I'm Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
 * [2024-04-21, 10:29:29](https://news.ycombinator.com/item?id=40104547) - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
-* [2024-04-21, 10:22:54](https://news.ycombinator.com/item?id=40104525) - [Alan Kay: principles for funding and organizing breakthrough research](https://twitter.com/geoffreylitt/status/1781714112109572520/)
 * [2024-04-21, 10:14:42](https://news.ycombinator.com/item?id=40104492) - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 * [2024-04-21, 10:10:57](https://news.ycombinator.com/item?id=40104475) - [Drone footage of baby penguins jumping off cliff](https://petapixel.com/2024/04/17/baby-penguins-jump-off-50-foot-cliff-in-first-of-its-kind-drone-footage/)
 * [2024-04-21, 09:59:05](https://news.ycombinator.com/item?id=40104428) - [The Great British Housing Famine](https://www.himbonomics.com/p/the-great-british-housing-famine)
@@ -28,6 +27,7 @@
 * [2024-04-20, 06:23:34](https://news.ycombinator.com/item?id=40095257) - [h5ai – modern HTTP web server index](https://larsjung.de/h5ai/)
 * [2024-04-20, 04:30:56](https://news.ycombinator.com/item?id=40094834) - [N-Wheeled Vehicles](http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm)
 * [2024-04-19, 16:46:28](https://news.ycombinator.com/item?id=40089028) - [Show HN: We relaunched the Official MTA App for NYC public transit](https://apps.apple.com/ca/app/the-official-mta-app/id1297605670)
+* [2024-04-19, 12:35:06](https://news.ycombinator.com/item?id=40086027) - [Scriptable operating systems with Lua (2014) [pdf]](https://www.netbsd.org/~lneto/dls14.pdf)
 * [2024-04-19, 11:38:01](https://news.ycombinator.com/item?id=40085528) - [Stuart Parkin revolutionized disk drive storage](https://spectrum.ieee.org/stuart-parkin-disk-drive-storage)
 * [2024-04-19, 10:10:31](https://news.ycombinator.com/item?id=40084964) - [Raw flux streams and obscure formats: Further work around imaging 5.25-inch flo](https://digitalpreservation-blog.lib.cam.ac.uk/raw-flux-streams-and-obscure-formats-further-work-around-imaging-5-25-inch-floppy-disks-5a2cf2e5f0d1)
 
