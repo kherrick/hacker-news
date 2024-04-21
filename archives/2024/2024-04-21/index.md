@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 23:04:54](https://news.ycombinator.com/item?id=40109989) - [Why I hate your Single Page App](https://www.freecodecamp.org/news/why-i-hate-your-single-page-app-f08bb4ff9134/)
+* [2024-04-21, 22:36:15](https://news.ycombinator.com/item?id=40109831) - [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
 * [2024-04-21, 21:18:18](https://news.ycombinator.com/item?id=40109331) - [Some monkeys in Panama may have just stumbled into the Stone Age (2018)](https://www.newscientist.com/article/2173021-some-monkeys-in-panama-may-have-just-stumbled-into-the-stone-age/)
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-04-21, 20:08:15](https://news.ycombinator.com/item?id=40108786) - [Google Pixel camera consistently blurring out The North Face logo](https://old.reddit.com/r/pixel_phones/comments/1c98wpq/i_noticed_my_pixel_is_blurring_brand_namesmy_7/)

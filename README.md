@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-21, 21:18:18](https://news.ycombinator.com/item?id=40109331) - [Some monkeys in Panama may have just stumbled into the Stone Age (2018)](https://www.newscientist.com/article/2173021-some-monkeys-in-panama-may-have-just-stumbled-into-the-stone-age/)
+* [2024-04-21, 23:04:54](https://news.ycombinator.com/item?id=40109989) - [Why I hate your Single Page App](https://www.freecodecamp.org/news/why-i-hate-your-single-page-app-f08bb4ff9134/)
+* [2024-04-21, 22:36:15](https://news.ycombinator.com/item?id=40109831) - [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 * [2024-04-21, 17:30:54](https://news.ycombinator.com/item?id=40107509) - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
@@ -25,7 +26,6 @@
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 14:39:30](https://news.ycombinator.com/item?id=40097681) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 06:46:10](https://news.ycombinator.com/item?id=40095376) - [BQN for Birdwatchers](https://mlochbaum.github.io/BQN/doc/birds.html)
-* [2024-04-20, 05:35:51](https://news.ycombinator.com/item?id=40095077) - [On the 200th anniversary of Byron's death, two new books](https://www.washingtonpost.com/books/2024/04/18/new-look-original-romanic-heartthrob-lord-byron/)
 * [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
 * [2024-04-19, 11:49:18](https://news.ycombinator.com/item?id=40085622) - [Huawei's latest flagship smartphone contains no world-shaking silicon surprises](https://www.theregister.com/2024/04/19/huawei_pura_70_soc_advances/)
 * [2024-04-19, 05:39:36](https://news.ycombinator.com/item?id=40083748) - [The PostgreSQL community debates ALTER SYSTEM](https://lwn.net/Articles/968300/)
