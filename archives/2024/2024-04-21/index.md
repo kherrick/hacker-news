@@ -45,6 +45,7 @@
 * [2024-04-21, 12:12:20](https://news.ycombinator.com/item?id=40105068) - [Environment Shapes Emotional Cognitive Abilities More Than Genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
 * [2024-04-21, 12:03:59](https://news.ycombinator.com/item?id=40105021) - [How did customer service get so bad?](https://www.ft.com/content/0a5d30ed-164f-4b9f-a049-fc9692219f79)
 * [2024-04-21, 11:33:05](https://news.ycombinator.com/item?id=40104842) - [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
+* [2024-04-21, 11:30:20](https://news.ycombinator.com/item?id=40104823) - [Ask HN: Which books/resources to understand modern Assembler?](https://news.ycombinator.com/item?id=40104823)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
 * [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
