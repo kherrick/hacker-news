@@ -46,6 +46,7 @@
 * [2024-04-19, 16:56:46](https://news.ycombinator.com/item?id=40089174) - [Measuring the Mobile Body](https://www.eurozine.com/measuring-the-mobile-body/?ref=thebrowser.com)
 * [2024-04-19, 16:53:26](https://news.ycombinator.com/item?id=40089138) - [Don't bet on the joys of pokies (2011)](http://grogsgamut.blogspot.com/2011/04/dont-bet-on-joys-of-pokies.html)
 * [2024-04-19, 16:48:23](https://news.ycombinator.com/item?id=40089053) - [Epigenetic age oscillates during the day](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14170)
+* [2024-04-19, 16:46:28](https://news.ycombinator.com/item?id=40089028) - [Show HN: We relaunched the Official MTA App for NYC public transit](https://apps.apple.com/ca/app/the-official-mta-app/id1297605670)
 * [2024-04-19, 16:39:26](https://news.ycombinator.com/item?id=40088935) - [IBM and the Holocaust](https://en.wikipedia.org/wiki/IBM_and_the_Holocaust)
 * [2024-04-19, 16:31:22](https://news.ycombinator.com/item?id=40088826) - [Microsoft's VASA-1 can deepfake a person with one photo and one audio track](https://arstechnica.com/information-technology/2024/04/microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track/)
 * [2024-04-19, 16:25:38](https://news.ycombinator.com/item?id=40088754) - [Meta.ai Oh My](https://www.tbray.org/ongoing/When/202x/2024/04/18/Meta-AI-oh-my)
