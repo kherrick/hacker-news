@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2024-04-21, 10:22:54",
+      "https://news.ycombinator.com/item?id=40104525"
+    ],
+    [
+      "Alan Kay: principles for funding and organizing breakthrough research",
+      "https://twitter.com/geoffreylitt/status/1781714112109572520/"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 10:14:42",
       "https://news.ycombinator.com/item?id=40104492"
     ],
     [
       "Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua",
       "https://github.com/luainkernel/lunatik"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 10:10:57",
+      "https://news.ycombinator.com/item?id=40104475"
+    ],
+    [
+      "Drone footage of baby penguins jumping off cliff",
+      "https://petapixel.com/2024/04/17/baby-penguins-jump-off-50-foot-cliff-in-first-of-its-kind-drone-footage/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-04-20, 23:27:02",
-      "https://news.ycombinator.com/item?id=40101911"
-    ],
-    [
-      "MITRE Response to Cyber Attack in One of Its R&D Networks",
-      "https://www.mitre.org/news-insights/news-release/mitre-response-cyber-attack-one-its-rd-networks"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 23:24:30",
       "https://news.ycombinator.com/item?id=40101885"
     ],
@@ -187,16 +197,6 @@
     [
       "Emerge (YC W21) is hiring senior engineers to automate dead code deletion",
       "https://www.emergetools.com/careers"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 20:19:06",
-      "https://news.ycombinator.com/item?id=40100672"
-    ],
-    [
-      "Bringing Exchange Support to Thunderbird",
-      "https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-04-19, 12:35:06",
-      "https://news.ycombinator.com/item?id=40086027"
-    ],
-    [
-      "Scriptable operating systems with Lua (2014) [pdf]",
-      "https://www.netbsd.org/~lneto/dls14.pdf"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 11:38:01",
       "https://news.ycombinator.com/item?id=40085528"
     ],
@@ -297,6 +287,16 @@
     [
       "Natural language processing in Bash (2023)",
       "https://massimo-nazaria.github.io/nlp.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 10:10:31",
+      "https://news.ycombinator.com/item?id=40084964"
+    ],
+    [
+      "Raw flux streams and obscure formats: Further work around imaging 5.25-inch flo",
+      "https://digitalpreservation-blog.lib.cam.ac.uk/raw-flux-streams-and-obscure-formats-further-work-around-imaging-5-25-inch-floppy-disks-5a2cf2e5f0d1"
     ]
   ]
 ]
