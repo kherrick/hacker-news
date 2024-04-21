@@ -1,62 +1,12 @@
 [
   [
     [
-      "2024-04-20, 23:46:49",
-      "https://news.ycombinator.com/item?id=40102024"
-    ],
-    [
-      "Depression Rates by Country 2024",
-      "https://worldpopulationreview.com/country-rankings/depression-rates-by-country"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 23:31:37",
-      "https://news.ycombinator.com/item?id=40101935"
-    ],
-    [
-      "A Trivial Llama 3 Jailbreak",
-      "https://github.com/haizelabs/llama3-jailbreak"
-    ]
-  ],
-  [
-    [
       "2024-04-20, 23:24:30",
       "https://news.ycombinator.com/item?id=40101885"
     ],
     [
-      "I bought 300 emoji domain names from Kazakhstan and built an email service",
+      "I bought 300 emoji domain names from Kazakhstan and built an email service (2021)",
       "https://tinyprojects.dev/projects/mailoji"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 23:18:20",
-      "https://news.ycombinator.com/item?id=40101846"
-    ],
-    [
-      "GPT-4 can exploit vulnerabilities by reading CVEs",
-      "https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 23:02:57",
-      "https://news.ycombinator.com/item?id=40101774"
-    ],
-    [
-      "Meta says you can't turn off its new AI tool on Facebook, Instagram",
-      "https://globalnews.ca/news/10435817/meta-ai-facebook-instagram/"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 22:45:27",
-      "https://news.ycombinator.com/item?id=40101677"
-    ],
-    [
-      "Portr: Open-Source Ngrok Alternative",
-      "https://portr.dev/"
     ]
   ],
   [
@@ -145,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40099626"
     ],
     [
-      "My Journey into Personal Computer Software Development in 1983",
+      "My journey into personal computer software development in 1983",
       "https://farrs.substack.com/p/my-journey-into-personal-computer"
     ]
   ],
@@ -187,6 +137,16 @@
     [
       "U-M finds students with alphabetically lower-ranked names receive lower grades",
       "https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/"
+    ]
+  ],
+  [
+    [
+      "2024-04-20, 13:10:30",
+      "https://news.ycombinator.com/item?id=40097111"
+    ],
+    [
+      "Debugging the Doctor Brain: Who's teaching doctors how to think?",
+      "https://bessstillman.substack.com/p/debugging-the-doctor-brain"
     ]
   ],
   [
@@ -241,11 +201,31 @@
   ],
   [
     [
+      "2024-04-19, 12:35:06",
+      "https://news.ycombinator.com/item?id=40086027"
+    ],
+    [
+      "Scriptable Operating Systems with Lua [pdf]",
+      "https://www.netbsd.org/~lneto/dls14.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 11:55:36",
+      "https://news.ycombinator.com/item?id=40085672"
+    ],
+    [
+      "Londoners see what a scientist looks like up close in 50 photographs",
+      "https://www.nature.com/articles/d41586-024-01156-8"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 11:38:01",
       "https://news.ycombinator.com/item?id=40085528"
     ],
     [
-      "Stuart Parkin Revolutionized Disk Drive Storage",
+      "Stuart Parkin revolutionized disk drive storage",
       "https://spectrum.ieee.org/stuart-parkin-disk-drive-storage"
     ]
   ],
@@ -287,6 +267,26 @@
     [
       "Coz: Causal Profiling",
       "https://github.com/plasma-umass/coz"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 05:51:32",
+      "https://news.ycombinator.com/item?id=40083807"
+    ],
+    [
+      "Supabase Storage now supports the S3 protocol",
+      "https://supabase.com/blog/s3-compatible-storage"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 05:26:45",
+      "https://news.ycombinator.com/item?id=40083689"
+    ],
+    [
+      "The Shark Whisperer",
+      "https://nautil.us/the-shark-whisperer-547680/"
     ]
   ],
   [
