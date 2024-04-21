@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-21, 03:18:05](https://news.ycombinator.com/item?id=40102912) - [Racket Language](https://racket-lang.org/)
 * [2024-04-21, 02:38:58](https://news.ycombinator.com/item?id=40102779) - [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
+* [2024-04-21, 00:31:51](https://news.ycombinator.com/item?id=40102256) - [Rust for JavaScript Developers (2019)](https://www.codegram.com/blog/rust-for-js-developers/)
 * [2024-04-20, 23:24:30](https://news.ycombinator.com/item?id=40101885) - [I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
 * [2024-04-20, 22:35:15](https://news.ycombinator.com/item?id=40101628) - [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
 * [2024-04-20, 21:50:20](https://news.ycombinator.com/item?id=40101317) - [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
@@ -9,8 +11,6 @@
 * [2024-04-20, 20:57:18](https://news.ycombinator.com/item?id=40100948) - [Why do some leading geologists reject the term \"Anthropocene\"?](https://www.newyorker.com/news/the-weekend-essay/the-epic-row-over-a-new-epoch)
 * [2024-04-20, 20:44:43](https://news.ycombinator.com/item?id=40100867) - [Why everything is becoming a game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 * [2024-04-20, 20:19:06](https://news.ycombinator.com/item?id=40100672) - [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
-* [2024-04-20, 20:14:43](https://news.ycombinator.com/item?id=40100643) - [Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible](https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/)
-* [2024-04-20, 18:39:55](https://news.ycombinator.com/item?id=40099739) - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
 * [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
 * [2024-04-20, 18:03:15](https://news.ycombinator.com/item?id=40099344) - [Financial market applications of LLMs](https://thegradient.pub/financial-market-applications-of-llms/)
 * [2024-04-20, 17:54:27](https://news.ycombinator.com/item?id=40099252) - [Self-reasoning tokens: teaching models to think ahead](https://reasoning-tokens.ghost.io/reasoning-tokens/)
