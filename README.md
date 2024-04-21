@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-21, 15:57:31](https://news.ycombinator.com/item?id=40106741) - [Iran quickens path towards the atomic bomb](https://english.elpais.com/international/2024-04-21/iran-quickens-path-towards-the-atomic-bomb.html)
+* [2024-04-21, 16:06:09](https://news.ycombinator.com/item?id=40106819) - [Maybe I don't want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
 * [2024-04-21, 15:44:10](https://news.ycombinator.com/item?id=40106639) - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
 * [2024-04-21, 15:34:53](https://news.ycombinator.com/item?id=40106570) - [The Gambler's Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
 * [2024-04-21, 15:29:48](https://news.ycombinator.com/item?id=40106508) - [Never struggle to give feedback again](https://read.highgrowthengineer.com/p/never-struggle-to-give-feedback-again)
@@ -11,7 +11,6 @@
 * [2024-04-21, 13:46:25](https://news.ycombinator.com/item?id=40105755) - [A load of old pixel shift. Why I just don't care for high-res modes](https://www.dpreview.com/opinion/6915548723/a-load-of-old-pixel-shift-why-i-just-don-t-care-for-high-res-modes)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
 * [2024-04-21, 12:12:20](https://news.ycombinator.com/item?id=40105068) - [Environment shapes emotional cognitive abilities more than genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
-* [2024-04-21, 12:03:59](https://news.ycombinator.com/item?id=40105021) - [How did customer service get so bad?](https://www.ft.com/content/0a5d30ed-164f-4b9f-a049-fc9692219f79)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
 * [2024-04-21, 10:14:42](https://news.ycombinator.com/item?id=40104492) - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
@@ -27,6 +26,7 @@
 * [2024-04-20, 09:04:13](https://news.ycombinator.com/item?id=40095918) - [Psychedelia syndrome: the pixels and code of Jeff Minter's 'Psychedelia'](https://psychedeliasyndro.me/)
 * [2024-04-20, 06:23:34](https://news.ycombinator.com/item?id=40095257) - [h5ai – modern HTTP web server index](https://larsjung.de/h5ai/)
 * [2024-04-20, 05:35:51](https://news.ycombinator.com/item?id=40095077) - [A new look at the original Romantic heartthrob, Lord Byron](https://www.washingtonpost.com/books/2024/04/18/new-look-original-romanic-heartthrob-lord-byron/)
+* [2024-04-19, 20:33:36](https://news.ycombinator.com/item?id=40091622) - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
 * [2024-04-19, 10:10:31](https://news.ycombinator.com/item?id=40084964) - [Raw flux streams and obscure formats: Further work around imaging 5.25-inch flo](https://digitalpreservation-blog.lib.cam.ac.uk/raw-flux-streams-and-obscure-formats-further-work-around-imaging-5-25-inch-floppy-disks-5a2cf2e5f0d1)
 * [2024-04-19, 05:39:36](https://news.ycombinator.com/item?id=40083748) - [The PostgreSQL community debates ALTER SYSTEM](https://lwn.net/Articles/968300/)
 * [2024-04-18, 01:01:28](https://news.ycombinator.com/item?id=40071898) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)

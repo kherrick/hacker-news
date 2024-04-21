@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 16:06:09](https://news.ycombinator.com/item?id=40106819) - [Maybe I don't want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
 * [2024-04-21, 15:57:31](https://news.ycombinator.com/item?id=40106741) - [Iran quickens path towards the atomic bomb](https://english.elpais.com/international/2024-04-21/iran-quickens-path-towards-the-atomic-bomb.html)
 * [2024-04-21, 15:44:10](https://news.ycombinator.com/item?id=40106639) - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
 * [2024-04-21, 15:34:53](https://news.ycombinator.com/item?id=40106570) - [The Gambler's Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
