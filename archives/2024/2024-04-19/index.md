@@ -114,6 +114,7 @@
 * [2024-04-19, 06:09:59](https://news.ycombinator.com/item?id=40083869) - [Coz: Causal Profiling](https://github.com/plasma-umass/coz)
 * [2024-04-19, 05:55:20](https://news.ycombinator.com/item?id=40083821) - [Sugar Industry and Coronary Heart Disease Research (2016)](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255)
 * [2024-04-19, 05:51:32](https://news.ycombinator.com/item?id=40083807) - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
+* [2024-04-19, 05:39:36](https://news.ycombinator.com/item?id=40083748) - [The PostgreSQL community debates ALTER SYSTEM](https://lwn.net/Articles/968300/)
 * [2024-04-19, 05:37:16](https://news.ycombinator.com/item?id=40083737) - [Nestlé adds sugar to infant milk sold in poorer countries, report finds](https://www.theguardian.com/global-development/2024/apr/17/nestle-adds-sugar-to-infant-milk-sold-in-poorer-countries-report-finds)
 * [2024-04-19, 05:26:45](https://news.ycombinator.com/item?id=40083689) - [The Shark Whisperer](https://nautil.us/the-shark-whisperer-547680/)
 * [2024-04-19, 05:16:37](https://news.ycombinator.com/item?id=40083641) - [VoRS: Vo(IP) Simple Alternative to Mumble](http://www.vors.stargrave.org/)
