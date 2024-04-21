@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-04-21, 19:15:27",
+      "https://news.ycombinator.com/item?id=40108352"
+    ],
+    [
+      "De-Autoconfiscation (Eric Raymond)",
+      "https://gitlab.com/esr/autodafe/-/blob/master/de-autoconfiscation.adoc"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 18:58:48",
       "https://news.ycombinator.com/item?id=40108231"
     ],
     [
-      "Google Reader Shutdown Tidbits (2013)",
+      "Google Reader shutdown tidbits (2013)",
       "https://blog.persistent.info/2013/06/google-reader-shutdown-tidbits.html?m=1"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Understanding What Matters for LLM Ingestion and Preprocessing",
       "https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 17:25:32",
-      "https://news.ycombinator.com/item?id=40107456"
-    ],
-    [
-      "Simon Tatham's Portable Puzzle Collection",
-      "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=40100569"
     ],
     [
-      "How to fix America's aviation system",
+      "How to fix America's aviation system (2023)",
       "https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system"
     ]
   ],
