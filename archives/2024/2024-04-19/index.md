@@ -32,6 +32,7 @@
 * [2024-04-19, 19:56:54](https://news.ycombinator.com/item?id=40091314) - [Intel's 14A Magic Bullet: Directed Self-Assembly (DSA)](https://www.semianalysis.com/p/intels-14a-magic-bullet-directed)
 * [2024-04-19, 19:43:21](https://news.ycombinator.com/item?id=40091187) - [Android features I'm envy of as an iPhone user](https://notes.ghed.in/posts/2024/android-features-envy-iphone/)
 * [2024-04-19, 19:29:18](https://news.ycombinator.com/item?id=40091042) - [Ask questions about Git repositories from a web UI](https://greptile.com/)
+* [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
 * [2024-04-19, 18:15:03](https://news.ycombinator.com/item?id=40090221) - [GM's Futuristic '80s Digital Displays – This Man Fights to Keep Them Alive](https://www.theautopian.com/gms-futuristic-80s-digital-displays-are-dying-but-this-man-is-fighting-to-keep-them-alive/)
 * [2024-04-19, 17:45:09](https://news.ycombinator.com/item?id=40089842) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-04-19, 17:37:16](https://news.ycombinator.com/item?id=40089735) - [How the internet became shit](https://herman.bearblog.dev/how-the-internet-became-shit/)
