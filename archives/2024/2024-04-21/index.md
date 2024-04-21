@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 14:47:48](https://news.ycombinator.com/item?id=40106157) - [I can't stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
 * [2024-04-21, 14:18:48](https://news.ycombinator.com/item?id=40105968) - [Jonathan Haidt Wants You to Take Away Your Kid's Phone](https://www.newyorker.com/news/the-new-yorker-interview/jonathan-haidt-wants-you-to-take-away-your-kids-phone)
 * [2024-04-21, 13:46:25](https://news.ycombinator.com/item?id=40105755) - [A load of old pixel shift. Why I just don't care for high-res modes](https://www.dpreview.com/opinion/6915548723/a-load-of-old-pixel-shift-why-i-just-don-t-care-for-high-res-modes)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
 * [2024-04-21, 12:20:20](https://news.ycombinator.com/item?id=40105121) - [I love programming but I hate the programming industry](https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry)
 * [2024-04-21, 12:12:20](https://news.ycombinator.com/item?id=40105068) - [Environment Shapes Emotional Cognitive Abilities More Than Genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
+* [2024-04-21, 12:03:59](https://news.ycombinator.com/item?id=40105021) - [How did customer service get so bad?](https://www.ft.com/content/0a5d30ed-164f-4b9f-a049-fc9692219f79)
 * [2024-04-21, 11:33:05](https://news.ycombinator.com/item?id=40104842) - [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
