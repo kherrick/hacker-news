@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-21, 20:08:15](https://news.ycombinator.com/item?id=40108786) - [Google Pixel camera consistently blurring out The North Face logo](https://old.reddit.com/r/pixel_phones/comments/1c98wpq/i_noticed_my_pixel_is_blurring_brand_namesmy_7/)
+* [2024-04-21, 19:30:33](https://news.ycombinator.com/item?id=40108489) - [The dangers of \"decentralized\" ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
+* [2024-04-21, 19:26:10](https://news.ycombinator.com/item?id=40108457) - [Has Llama-3 just killed proprietary AI models?](https://www.kadoa.com/blog/llama3-killed-proprietary-models)
 * [2024-04-21, 18:36:52](https://news.ycombinator.com/item?id=40108069) - [The Fading Memories of Youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
 * [2024-04-21, 18:32:22](https://news.ycombinator.com/item?id=40108031) - [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
@@ -15,9 +17,7 @@
 * [2024-04-21, 13:48:19](https://news.ycombinator.com/item?id=40105773) - [From a lorry driver to Ruby on rails developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
-* [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
 * [2024-04-21, 10:14:42](https://news.ycombinator.com/item?id=40104492) - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
-* [2024-04-21, 10:10:57](https://news.ycombinator.com/item?id=40104475) - [Drone footage of fledging penguins jumping off cliff](https://petapixel.com/2024/04/17/baby-penguins-jump-off-50-foot-cliff-in-first-of-its-kind-drone-footage/)
 * [2024-04-21, 09:40:36](https://news.ycombinator.com/item?id=40104361) - [Amazon grows to over 750k robots, replacing 100k humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
 * [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I Should Have Loved Biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
