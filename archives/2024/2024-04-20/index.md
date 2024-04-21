@@ -48,6 +48,7 @@
 * [2024-04-20, 17:12:03](https://news.ycombinator.com/item?id=40098825) - [The Future of Ruby and Rails in the Age of AI](https://obie.medium.com/the-future-of-ruby-and-rails-in-the-age-of-ai-8f1acea31bc2)
 * [2024-04-20, 17:00:05](https://news.ycombinator.com/item?id=40098737) - [Mintlify (YC W22) Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/Mintlify/12598e83-45ad-4179-9c57-8b9162d1387e)
 * [2024-04-20, 16:42:04](https://news.ycombinator.com/item?id=40098606) - [Tips on adding JSON output to your command line utility. (2021)](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
+* [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 16:20:53](https://news.ycombinator.com/item?id=40098469) - [Multiple Planes Cross Runway While Another Is Taking Off [video]](https://www.youtube.com/watch?v=KW6lAwLy_Os)
 * [2024-04-20, 16:20:52](https://news.ycombinator.com/item?id=40098468) - [Mercedes becomes the first automaker to sell autonomous cars in the U.S.](https://fortune.com/2024/04/18/mercedes-self-driving-autonomous-cars-california-nevada-level-3-drive-pilot/)
 * [2024-04-20, 16:16:42](https://news.ycombinator.com/item?id=40098442) - [Traveling Flame Discovery [video]](https://www.youtube.com/watch?v=SqhXQUzVMlQ)
