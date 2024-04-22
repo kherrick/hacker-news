@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
 * [2024-04-22, 14:17:49](https://news.ycombinator.com/item?id=40114626) - [Untangling Spaghetti: Debugging Non-Terminating Object Programs (2009)](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
+* [2024-04-22, 14:17:27](https://news.ycombinator.com/item?id=40114623) - [Ask HN: Have you migrated to Proton mail/calendar/pass/etc.? How was it?](https://news.ycombinator.com/item?id=40114623)
 * [2024-04-22, 14:10:56](https://news.ycombinator.com/item?id=40114567) - [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
+* [2024-04-22, 14:01:03](https://news.ycombinator.com/item?id=40114472) - [Robert Kahn: The Great Interconnector](https://spectrum.ieee.org/bob-kahn-2667754905)
 * [2024-04-22, 13:55:19](https://news.ycombinator.com/item?id=40114414) - [ESafety commissioner wins two-day injunction against X over violent content](https://www.abc.net.au/news/2024-04-22/esafety-commissioner-seeks-injunction-against-x/103755874)
 * [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
 * [2024-04-22, 12:58:39](https://news.ycombinator.com/item?id=40113925) - [Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
