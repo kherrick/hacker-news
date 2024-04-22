@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 23:21:57](https://news.ycombinator.com/item?id=40110072) - [Show HN: Metashade – a Pythonic GPU shading/compute EDSL](https://github.com/ppenenko/metashade)
 * [2024-04-21, 23:04:54](https://news.ycombinator.com/item?id=40109989) - [Why I hate your Single Page App](https://www.freecodecamp.org/news/why-i-hate-your-single-page-app-f08bb4ff9134/)
 * [2024-04-21, 22:36:15](https://news.ycombinator.com/item?id=40109831) - [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
 * [2024-04-21, 21:29:28](https://news.ycombinator.com/item?id=40109402) - [A Rigorous Derivation of the Bubble Sort Curve](https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/)
