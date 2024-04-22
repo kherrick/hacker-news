@@ -6,6 +6,7 @@
 
 * [2024-04-22, 16:29:13](https://news.ycombinator.com/item?id=40115911) - [EU opens probe of TikTok Lite, citing concerns about addictive design](https://techcrunch.com/2024/04/22/tiktok-lite-dsa-probe/)
 * [2024-04-22, 16:27:31](https://news.ycombinator.com/item?id=40115889) - [Meta Horizon OS](https://about.fb.com/news/2024/04/introducing-our-open-mixed-reality-ecosystem/)
+* [2024-04-22, 16:14:40](https://news.ycombinator.com/item?id=40115751) - [The 100-year-old railway Mexico hopes will rival the Panama Canal (2023)](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
 * [2024-04-22, 16:04:39](https://news.ycombinator.com/item?id=40115652) - [AI Is Smoke and Mirrors](https://www.bloodinthemachine.com/p/ai-really-is-smoke-and-mirrors)
 * [2024-04-22, 16:01:05](https://news.ycombinator.com/item?id=40115614) - [Meta opens Horizon OS for other companies to build VR headsets](https://www.threads.net/@zuck/post/C6EbeLPxovW)
 * [2024-04-22, 15:56:36](https://news.ycombinator.com/item?id=40115579) - [Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild](https://www.servethehome.com/this-is-intel-gaudi-3-the-new-128gb-hbm2e-ai-chip-in-the-wild-intel-vision-2024/)
@@ -22,6 +23,7 @@
 * [2024-04-22, 14:12:44](https://news.ycombinator.com/item?id=40114581) - [The Castration of Sima Qian](https://ijtihad.substack.com/p/the-castration-of-sima-qian)
 * [2024-04-22, 14:10:56](https://news.ycombinator.com/item?id=40114567) - [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
 * [2024-04-22, 14:09:51](https://news.ycombinator.com/item?id=40114557) - [I Doubt That AI Can Match the Human Mind](https://mindmatters.ai/2019/02/why-i-doubt-that-ai-can-match-the-human-mind/)
+* [2024-04-22, 14:09:23](https://news.ycombinator.com/item?id=40114553) - [Review of the MoErgo Glove80 Keyboard](https://arslan.io/2024/04/22/review-of-the-moergo-glove80-keyboard/)
 * [2024-04-22, 14:01:03](https://news.ycombinator.com/item?id=40114472) - [Robert Kahn: The Great Interconnector](https://spectrum.ieee.org/bob-kahn-2667754905)
 * [2024-04-22, 13:55:19](https://news.ycombinator.com/item?id=40114414) - [ESafety commissioner wins two-day injunction against X over violent content](https://www.abc.net.au/news/2024-04-22/esafety-commissioner-seeks-injunction-against-x/103755874)
 * [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
