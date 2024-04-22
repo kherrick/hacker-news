@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-22, 07:01:40](https://news.ycombinator.com/item?id=40112008) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
-* [2024-04-22, 05:48:41](https://news.ycombinator.com/item?id=40111687) - ['Human intelligence'](https://helenbeetham.substack.com/p/human-intelligence)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-22, 03:23:58](https://news.ycombinator.com/item?id=40111184) - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
 * [2024-04-22, 03:00:19](https://news.ycombinator.com/item?id=40111105) - [A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
@@ -23,6 +22,7 @@
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 10:15:05](https://news.ycombinator.com/item?id=40104493) - [The failure of the Domino's 30-minute delivery guarantee](https://thehustle.co/originals/the-failure-of-the-dominos-30-minute-delivery-guarantee)
 * [2024-04-21, 09:58:59](https://news.ycombinator.com/item?id=40104427) - [Ask HN: Python Metrics Library](https://news.ycombinator.com/item?id=40104427)
+* [2024-04-21, 09:40:36](https://news.ycombinator.com/item?id=40104361) - [Amazon grows to over 750k robots, replacing 100k humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
 * [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
 * [2024-04-21, 05:32:03](https://news.ycombinator.com/item?id=40103375) - [A Sketch of the Biggest Idea in Software Architecture (2022)](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
