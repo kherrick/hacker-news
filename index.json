@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-22, 20:35:12",
-      "https://news.ycombinator.com/item?id=40119950"
-    ],
-    [
-      "If all kernel bugs are security bugs, how do you keep your Linux safe?",
-      "https://www.zdnet.com/article/if-all-kernel-bugs-are-security-bugs-how-do-you-keep-your-linux-safe/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 20:10:52",
       "https://news.ycombinator.com/item?id=40119417"
     ],
@@ -47,6 +37,16 @@
     [
       "North Korean animation outsourcing for Amazon, HBO Max series",
       "https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 18:18:44",
+      "https://news.ycombinator.com/item?id=40117127"
+    ],
+    [
+      "Reddit is quietly changing the way its homepage works",
+      "https://sherwood.news/tech/reddit-is-quietly-changing-the-way-its-homepage-works/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-04-22, 12:56:35",
+      "https://news.ycombinator.com/item?id=40113914"
+    ],
+    [
+      "Delay email delivery with Postfix for a relaxing weekend",
+      "https://www.enricobassetti.it/2024/04/delay-e-mail-delivery-with-postfix-for-a-relaxing-weekend/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 10:37:59",
       "https://news.ycombinator.com/item?id=40113013"
     ],
@@ -267,16 +277,6 @@
     [
       "Lemur's lament: When one vulnerable species stalks another",
       "https://source.wustl.edu/2024/04/lemurs-lament/"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 10:42:04",
-      "https://news.ycombinator.com/item?id=40104591"
-    ],
-    [
-      "Frawk: An efficient Awk-like programming language. (2021)",
-      "https://github.com/ezrosent/frawk"
     ]
   ],
   [
