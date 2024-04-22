@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 19:24:31](https://news.ycombinator.com/item?id=40117815) - [Everything Hikers Know About Lightning Safety Is Wrong](https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/)
 * [2024-04-22, 19:01:43](https://news.ycombinator.com/item?id=40117625) - [Llama-3 and Dwarkesh Patel's Podcast with Zuckerberg](https://thezvi.substack.com/p/on-llama-3-and-dwarkesh-patels-podcast)
 * [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:55:59](https://news.ycombinator.com/item?id=40117558) - [What it was like going through YC W24](https://blacksmith.sh/blog/going-through-yc-winter-24)

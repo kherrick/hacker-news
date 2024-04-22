@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 19:24:31](https://news.ycombinator.com/item?id=40117815) - [Everything Hikers Know About Lightning Safety Is Wrong](https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/)
 * [2024-04-22, 19:01:43](https://news.ycombinator.com/item?id=40117625) - [Llama-3 and Dwarkesh Patel's Podcast with Zuckerberg](https://thezvi.substack.com/p/on-llama-3-and-dwarkesh-patels-podcast)
 * [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:55:59](https://news.ycombinator.com/item?id=40117558) - [What it was like going through YC W24](https://blacksmith.sh/blog/going-through-yc-winter-24)
@@ -23,7 +24,6 @@
 * [2024-04-22, 10:26:20](https://news.ycombinator.com/item?id=40112958) - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
 * [2024-04-22, 10:04:05](https://news.ycombinator.com/item?id=40112842) - [Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
-* [2024-04-22, 06:09:34](https://news.ycombinator.com/item?id=40111784) - [AI for Data Journalism: demonstrating what we can do with this stuff](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-21, 11:43:28](https://news.ycombinator.com/item?id=40104904) - [Show HN: What Are You Working On?](https://www.hackerupdates.com)
 * [2024-04-21, 11:20:55](https://news.ycombinator.com/item?id=40104773) - [Lemur's lament: When one vulnerable species stalks another](https://source.wustl.edu/2024/04/lemurs-lament/)
