@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 14:17:49](https://news.ycombinator.com/item?id=40114626) - [Untangling Spaghetti: Debugging Non-Terminating Object Programs (2009)](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
 * [2024-04-22, 14:10:56](https://news.ycombinator.com/item?id=40114567) - [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
 * [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
 * [2024-04-22, 12:58:39](https://news.ycombinator.com/item?id=40113925) - [Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
@@ -11,7 +12,6 @@
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 * [2024-04-22, 06:09:34](https://news.ycombinator.com/item?id=40111784) - [AI for Data Journalism: demonstrating what we can do with this stuff](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
-* [2024-04-22, 03:23:58](https://news.ycombinator.com/item?id=40111184) - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
 * [2024-04-22, 03:00:19](https://news.ycombinator.com/item?id=40111105) - [A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 13:48:19](https://news.ycombinator.com/item?id=40105773) - [From a lorry driver to Ruby on rails developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
