@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-22, 20:13:26](https://news.ycombinator.com/item?id=40119450) - [Senate Approves Section 702 Reauthorization, Keeps Only the Bad Stuff](https://www.techdirt.com/2024/04/22/senate-approves-section-702-reauthorization-keeps-only-the-bad-stuff/)
-* [2024-04-22, 20:02:16](https://news.ycombinator.com/item?id=40119010) - [Google all at sea over rising tide of robo-spam](https://www.theregister.com/2024/04/22/opinion_google_spam/)
-* [2024-04-22, 19:53:10](https://news.ycombinator.com/item?id=40118778) - [Ask HN: Is Hacker News under attack from spam bots?](https://news.ycombinator.com/item?id=40118778)
+* [2024-04-22, 20:35:12](https://news.ycombinator.com/item?id=40119950) - [If all kernel bugs are security bugs, how do you keep your Linux safe?](https://www.zdnet.com/article/if-all-kernel-bugs-are-security-bugs-how-do-you-keep-your-linux-safe/)
+* [2024-04-22, 20:10:52](https://news.ycombinator.com/item?id=40119417) - [Ask HN: What rabbit hole(s) did you dive into recently?](https://news.ycombinator.com/item?id=40119417)
+* [2024-04-22, 19:56:27](https://news.ycombinator.com/item?id=40118950) - [Show HN: Wonkypedia - Wikipedia from an Alternate Timeline](https://www.wonkypedia.org/)
 * [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:51:00](https://news.ycombinator.com/item?id=40117510) - [North Korean animation outsourcing for Amazon, HBO Max series](https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/)
 * [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)

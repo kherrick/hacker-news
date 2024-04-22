@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 20:35:12](https://news.ycombinator.com/item?id=40119950) - [If all kernel bugs are security bugs, how do you keep your Linux safe?](https://www.zdnet.com/article/if-all-kernel-bugs-are-security-bugs-how-do-you-keep-your-linux-safe/)
 * [2024-04-22, 20:13:26](https://news.ycombinator.com/item?id=40119450) - [Senate Approves Section 702 Reauthorization, Keeps Only the Bad Stuff](https://www.techdirt.com/2024/04/22/senate-approves-section-702-reauthorization-keeps-only-the-bad-stuff/)
+* [2024-04-22, 20:10:52](https://news.ycombinator.com/item?id=40119417) - [Ask HN: What rabbit hole(s) did you dive into recently?](https://news.ycombinator.com/item?id=40119417)
 * [2024-04-22, 20:02:16](https://news.ycombinator.com/item?id=40119010) - [Google all at sea over rising tide of robo-spam](https://www.theregister.com/2024/04/22/opinion_google_spam/)
+* [2024-04-22, 19:56:27](https://news.ycombinator.com/item?id=40118950) - [Show HN: Wonkypedia - Wikipedia from an Alternate Timeline](https://www.wonkypedia.org/)
 * [2024-04-22, 19:53:10](https://news.ycombinator.com/item?id=40118778) - [Ask HN: Is Hacker News under attack from spam bots?](https://news.ycombinator.com/item?id=40118778)
 * [2024-04-22, 19:36:35](https://news.ycombinator.com/item?id=40118195) - [What Phones Are Doing to Reading](https://www.newyorker.com/news/fault-lines/what-phones-are-doing-to-reading)
 * [2024-04-22, 19:33:59](https://news.ycombinator.com/item?id=40118083) - [Don't waste your time recycling plastic](https://www.washingtonpost.com/opinions/2024/04/22/stop-recycling-plastic-earth-day/)
