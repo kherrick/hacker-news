@@ -31,6 +31,7 @@
 * [2024-04-21, 16:40:46](https://news.ycombinator.com/item?id=40107112) - [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
 * [2024-04-21, 16:31:37](https://news.ycombinator.com/item?id=40107034) - [What the Supreme Court case on tent encampments could mean for homeless people](https://www.vox.com/scotus/24123323/grants-pass-scotus-supreme-court-homeless-tent-encampments)
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
+* [2024-04-21, 16:25:19](https://news.ycombinator.com/item?id=40106973) - [You shouldn't run a BSD on a PC](https://michal.sapka.me/bsd/why-not-bsd/)
 * [2024-04-21, 16:06:09](https://news.ycombinator.com/item?id=40106819) - [Maybe I don't want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
 * [2024-04-21, 15:57:31](https://news.ycombinator.com/item?id=40106741) - [Iran quickens path towards the atomic bomb](https://english.elpais.com/international/2024-04-21/iran-quickens-path-towards-the-atomic-bomb.html)
 * [2024-04-21, 15:56:29](https://news.ycombinator.com/item?id=40106730) - [Hackers had access to Volkswagen IT systems for years](https://www.zdf.de/nachrichten/wirtschaft/volkswagen-china-hacking-industriespionage-emobilitaet-100.html)
