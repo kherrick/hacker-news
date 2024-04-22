@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-22, 02:39:02",
+      "https://news.ycombinator.com/item?id=40111022"
+    ],
+    [
+      "Pico.sh – Hacker Labs",
+      "https://github.com/picosh/pico"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 00:38:15",
       "https://news.ycombinator.com/item?id=40110514"
     ],
@@ -97,16 +107,6 @@
     [
       "The Design of Everyday APIs (2022)",
       "https://www.roguelynn.com/talks/everyday-apis/"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 14:47:48",
-      "https://news.ycombinator.com/item?id=40106157"
-    ],
-    [
-      "I can't stand using VSCode so I wrote my own",
-      "https://bold-edit.com/wrote-my-own.html"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=40095376"
     ],
     [
-      "BQN for birdwatchers",
+      "BQN for birdwatchers (2021)",
       "https://mlochbaum.github.io/BQN/doc/birds.html"
     ]
   ],
