@@ -1,52 +1,12 @@
 [
   [
     [
-      "2024-04-22, 11:12:40",
-      "https://news.ycombinator.com/item?id=40113203"
-    ],
-    [
-      "Apple Vision Pro Customer Interest Dying Down at Some Retail Stores",
-      "https://www.macrumors.com/2024/04/22/apple-vision-pro-customer-interest-dying-down/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 11:09:01",
-      "https://news.ycombinator.com/item?id=40113186"
-    ],
-    [
-      "AMD: Additional Parts of the Radeon Stack to Be Open Sourced Throughout the Year",
-      "https://www.phoronix.com/news/AMD-More-OSS-2024"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 10:57:10",
-      "https://news.ycombinator.com/item?id=40113110"
-    ],
-    [
-      "Rarest, strangest, form of Windows saved techie from moment of security madness",
-      "https://www.theregister.com/2024/04/22/who_me/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 10:26:20",
       "https://news.ycombinator.com/item?id=40112958"
     ],
     [
       "Show HN: OpenOrb, a curated search engine for Atom and RSS feeds",
       "https://openorb.idiot.sh/search"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 08:25:22",
-      "https://news.ycombinator.com/item?id=40112383"
-    ],
-    [
-      "Curl is just the hobby",
-      "https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/"
     ]
   ],
   [
@@ -141,12 +101,32 @@
   ],
   [
     [
+      "2024-04-21, 17:25:32",
+      "https://news.ycombinator.com/item?id=40107456"
+    ],
+    [
+      "Simon Tatham's Portable Puzzle Collection",
+      "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 16:28:49",
       "https://news.ycombinator.com/item?id=40107007"
     ],
     [
       "Penzai: JAX research toolkit for building, editing, and visualizing neural nets",
       "https://github.com/google-deepmind/penzai"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 15:28:57",
+      "https://news.ycombinator.com/item?id=40106500"
+    ],
+    [
+      "The Design of Everyday APIs (2022)",
+      "https://www.roguelynn.com/talks/everyday-apis/"
     ]
   ],
   [
@@ -171,12 +151,42 @@
   ],
   [
     [
+      "2024-04-21, 12:02:40",
+      "https://news.ycombinator.com/item?id=40105011"
+    ],
+    [
+      "The Art of Decision-Making (2019)",
+      "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 11:30:20",
+      "https://news.ycombinator.com/item?id=40104823"
+    ],
+    [
+      "Ask HN: Which books/resources to understand modern Assembler?",
+      "https://news.ycombinator.com/item?id=40104823"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 11:21:13",
       "https://news.ycombinator.com/item?id=40104774"
     ],
     [
       "Tiny World Map",
       "https://github.com/tinyworldmap/tiny-world-map"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 10:15:05",
+      "https://news.ycombinator.com/item?id=40104493"
+    ],
+    [
+      "The failure of the Domino's 30-minute delivery guarantee",
+      "https://thehustle.co/originals/the-failure-of-the-dominos-30-minute-delivery-guarantee"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Development of the Domain Name System (1988)",
       "https://dl.acm.org/doi/epdf/10.1145/205447.205459"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 08:54:51",
-      "https://news.ycombinator.com/item?id=40095870"
-    ],
-    [
-      "Adventures in Rust: Bringing Exchange Support to Thunderbird",
-      "https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/"
     ]
   ],
   [
