@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-22, 08:25:22](https://news.ycombinator.com/item?id=40112383) - [Curl is just the hobby](https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/)
+* [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 * [2024-04-22, 07:01:40](https://news.ycombinator.com/item?id=40112008) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-22, 03:23:58](https://news.ycombinator.com/item?id=40111184) - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
@@ -28,7 +29,6 @@
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 14:39:30](https://news.ycombinator.com/item?id=40097681) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 09:16:21](https://news.ycombinator.com/item?id=40095963) - [Development of the Domain Name System (1988)](https://dl.acm.org/doi/epdf/10.1145/205447.205459)
-* [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
 * [2024-04-18, 16:00:16](https://news.ycombinator.com/item?id=40077557) - [Our biggest ever river catch?](https://theoceancleanup.com/updates/the-ocean-cleanup-makes-biggest-ever-river-catch-in-guatemala/)
 
 ## [Archives](archives/index.md)
