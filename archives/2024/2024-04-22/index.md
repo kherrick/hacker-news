@@ -15,6 +15,7 @@
 * [2024-04-22, 20:35:12](https://news.ycombinator.com/item?id=40119950) - [If all kernel bugs are security bugs, how do you keep your Linux safe?](https://www.zdnet.com/article/if-all-kernel-bugs-are-security-bugs-how-do-you-keep-your-linux-safe/)
 * [2024-04-22, 20:13:26](https://news.ycombinator.com/item?id=40119450) - [Senate Approves Section 702 Reauthorization, Keeps Only the Bad Stuff](https://www.techdirt.com/2024/04/22/senate-approves-section-702-reauthorization-keeps-only-the-bad-stuff/)
 * [2024-04-22, 20:10:52](https://news.ycombinator.com/item?id=40119417) - [Ask HN: What rabbit hole(s) did you dive into recently?](https://news.ycombinator.com/item?id=40119417)
+* [2024-04-22, 20:08:54](https://news.ycombinator.com/item?id=40119401) - [A TikTok Ban Would Deal a Blow to Creators, Businesses and the American Economy](https://www.forbes.com/sites/alexandralevine/2023/03/22/how-a-tiktok-ban-would-affect-creators-businesses-economy/)
 * [2024-04-22, 20:02:16](https://news.ycombinator.com/item?id=40119010) - [Google all at sea over rising tide of robo-spam](https://www.theregister.com/2024/04/22/opinion_google_spam/)
 * [2024-04-22, 19:56:27](https://news.ycombinator.com/item?id=40118950) - [Show HN: Wonkypedia - Wikipedia from an Alternate Timeline](https://www.wonkypedia.org/)
 * [2024-04-22, 19:53:10](https://news.ycombinator.com/item?id=40118778) - [Ask HN: Is Hacker News under attack from spam bots?](https://news.ycombinator.com/item?id=40118778)
