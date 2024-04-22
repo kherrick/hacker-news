@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 02:20:05](https://news.ycombinator.com/item?id=40110956) - [Apple Needs a True Low-End iPhone to Help Revive Growth](https://www.bloomberg.com/news/newsletters/2024-04-21/apple-aapl-growth-opportunities-southeast-asia-and-africa-lower-end-iphone-lv9itkna)
 * [2024-04-22, 00:38:15](https://news.ycombinator.com/item?id=40110514) - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
 * [2024-04-22, 00:27:06](https://news.ycombinator.com/item?id=40110452) - [Selling Butter at 54% Profit: Leaked Docs Show Loblaws' Exorbitant Markups](https://thedeepdive.ca/selling-butter-at-54-profit-leaked-docs-show-loblaws-exorbitant-markups/)
 * [2024-04-22, 00:24:17](https://news.ycombinator.com/item?id=40110433) - [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839)
