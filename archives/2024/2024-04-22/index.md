@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
 * [2024-04-22, 17:01:08](https://news.ycombinator.com/item?id=40116294) - [HockeyStack (YC S23) Is Hiring Young Founding Engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
+* [2024-04-22, 16:43:57](https://news.ycombinator.com/item?id=40116078) - [When will computer hardware match the human brain? (Hans Moravec, 1998)](https://www.jetpress.org/volume1/moravec.htm)
 * [2024-04-22, 16:29:13](https://news.ycombinator.com/item?id=40115911) - [EU opens probe of TikTok Lite, citing concerns about addictive design](https://techcrunch.com/2024/04/22/tiktok-lite-dsa-probe/)
 * [2024-04-22, 16:27:31](https://news.ycombinator.com/item?id=40115889) - [Meta Horizon OS](https://about.fb.com/news/2024/04/introducing-our-open-mixed-reality-ecosystem/)
 * [2024-04-22, 16:14:40](https://news.ycombinator.com/item?id=40115751) - [The 100-year-old railway Mexico hopes will rival the Panama Canal (2023)](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
