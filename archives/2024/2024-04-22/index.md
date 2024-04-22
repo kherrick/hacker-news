@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 18:38:17](https://news.ycombinator.com/item?id=40117370) - [The Web Data Landscape Map](https://github.com/databoutique/thewebdataecosystemmap)
+* [2024-04-22, 18:28:22](https://news.ycombinator.com/item?id=40117249) - [Lolita: A tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-lolita.html)
 * [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 17:28:22](https://news.ycombinator.com/item?id=40116602) - [The dangers of single line regular expressions](https://greg.molnar.io/blog/the-dangers-of-single-line-regular-expressions/)
 * [2024-04-22, 17:18:15](https://news.ycombinator.com/item?id=40116488) - [Anthropic: Prompt Library](https://docs.anthropic.com/claude/page/prompts)
