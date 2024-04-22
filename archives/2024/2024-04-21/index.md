@@ -49,6 +49,7 @@
 * [2024-04-21, 12:20:20](https://news.ycombinator.com/item?id=40105121) - [I love programming but I hate the programming industry](https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry)
 * [2024-04-21, 12:12:20](https://news.ycombinator.com/item?id=40105068) - [Environment Shapes Emotional Cognitive Abilities More Than Genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
 * [2024-04-21, 12:03:59](https://news.ycombinator.com/item?id=40105021) - [How did customer service get so bad?](https://www.ft.com/content/0a5d30ed-164f-4b9f-a049-fc9692219f79)
+* [2024-04-21, 12:02:40](https://news.ycombinator.com/item?id=40105011) - [The Art of Decision-Making (2019)](https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making)
 * [2024-04-21, 11:33:05](https://news.ycombinator.com/item?id=40104842) - [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
 * [2024-04-21, 11:30:20](https://news.ycombinator.com/item?id=40104823) - [Ask HN: Which books/resources to understand modern Assembler?](https://news.ycombinator.com/item?id=40104823)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
