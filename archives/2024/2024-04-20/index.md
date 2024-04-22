@@ -12,6 +12,7 @@
 * [2024-04-20, 23:02:57](https://news.ycombinator.com/item?id=40101774) - [Meta says you can't turn off its new AI tool on Facebook, Instagram](https://globalnews.ca/news/10435817/meta-ai-facebook-instagram/)
 * [2024-04-20, 22:45:27](https://news.ycombinator.com/item?id=40101677) - [Portr: Open-Source Ngrok Alternative](https://portr.dev/)
 * [2024-04-20, 22:35:15](https://news.ycombinator.com/item?id=40101628) - [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
+* [2024-04-20, 22:11:34](https://news.ycombinator.com/item?id=40101453) - [I wrote my own editor](https://bold-edit.com/wrote-my-own.html)
 * [2024-04-20, 21:50:20](https://news.ycombinator.com/item?id=40101317) - [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
 * [2024-04-20, 21:46:12](https://news.ycombinator.com/item?id=40101290) - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
 * [2024-04-20, 21:44:05](https://news.ycombinator.com/item?id=40101273) - [Bostrom's Deep Utopia](https://www.overcomingbias.com/p/bostroms-deep-utopia)
