@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
 * [2024-04-22, 19:01:43](https://news.ycombinator.com/item?id=40117625) - [Llama-3 and Dwarkesh Patel's Podcast with Zuckerberg](https://thezvi.substack.com/p/on-llama-3-and-dwarkesh-patels-podcast)
+* [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
+* [2024-04-22, 18:55:59](https://news.ycombinator.com/item?id=40117558) - [What it was like going through YC W24](https://blacksmith.sh/blog/going-through-yc-winter-24)
+* [2024-04-22, 18:51:00](https://news.ycombinator.com/item?id=40117510) - [North Korean animation outsourcing for Amazon, HBO Max series](https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/)
 * [2024-04-22, 18:38:17](https://news.ycombinator.com/item?id=40117370) - [The Web Data Landscape Map](https://github.com/databoutique/thewebdataecosystemmap)
 * [2024-04-22, 18:28:22](https://news.ycombinator.com/item?id=40117249) - [Lolita: A tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-lolita.html)
 * [2024-04-22, 18:18:44](https://news.ycombinator.com/item?id=40117127) - [Reddit is quietly changing the way its homepage works](https://sherwood.news/tech/reddit-is-quietly-changing-the-way-its-homepage-works/)
