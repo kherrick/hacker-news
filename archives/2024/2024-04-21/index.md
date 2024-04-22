@@ -77,6 +77,7 @@
 * [2024-04-21, 06:41:38](https://news.ycombinator.com/item?id=40103639) - [Fallout style RPG made in Excel](https://storyteller-blog.com/2024/04/21/i-made-a-fallout-inspired-rpg-game-in-excel/)
 * [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I Should Have Loved Biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
+* [2024-04-21, 05:34:18](https://news.ycombinator.com/item?id=40103386) - [Stanford AI Syllabus (1980)](https://www.saildart.org/AIQUAL.80[AM,DBL]1)
 * [2024-04-21, 05:32:03](https://news.ycombinator.com/item?id=40103375) - [A Sketch of the Biggest Idea in Software Architecture (2022)](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
 * [2024-04-21, 05:12:06](https://news.ycombinator.com/item?id=40103323) - [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
 * [2024-04-21, 04:31:57](https://news.ycombinator.com/item?id=40103188) - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
