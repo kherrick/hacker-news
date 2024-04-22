@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-04-22, 18:20:25",
+      "https://news.ycombinator.com/item?id=40117147"
+    ],
+    [
+      "Daniel Dennett: 'Why civilisation is more fragile than we realised'",
+      "https://www.bbc.com/future/article/20240422-philosopher-daniel-dennett-artificial-intelligence-consciousness-counterfeit-people"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 17:32:44",
       "https://news.ycombinator.com/item?id=40116644"
     ],
@@ -77,16 +87,6 @@
     [
       "The dangers of single line regular expressions",
       "https://greg.molnar.io/blog/the-dangers-of-single-line-regular-expressions/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 17:18:16",
-      "https://news.ycombinator.com/item?id=40116489"
-    ],
-    [
-      "Burn After Wearing",
-      "https://grist.org/international/burn-after-wearing-fashion-waste-chile/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-04-22, 04:47:20",
-      "https://news.ycombinator.com/item?id=40111479"
-    ],
-    [
-      "It's OK to feed wild birds – here are some tips for doing it the right way",
-      "https://worldsensorium.com/its-ok-to-feed-wild-birds-here-are-some-tips-for-doing-it-the-right-way/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 03:51:48",
       "https://news.ycombinator.com/item?id=40111274"
     ],
     [
       "Inside the Super Nintendo cartridges",
       "https://fabiensanglard.net/snes_carts/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 23:21:57",
+      "https://news.ycombinator.com/item?id=40110072"
+    ],
+    [
+      "Show HN: Metashade – a Pythonic GPU shading/compute EDSL",
+      "https://github.com/ppenenko/metashade"
     ]
   ],
   [
