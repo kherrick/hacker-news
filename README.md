@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 03:23:58](https://news.ycombinator.com/item?id=40111184) - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
 * [2024-04-22, 02:39:02](https://news.ycombinator.com/item?id=40111022) - [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
 * [2024-04-22, 00:38:15](https://news.ycombinator.com/item?id=40110514) - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -21,7 +22,6 @@
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
 * [2024-04-21, 02:38:58](https://news.ycombinator.com/item?id=40102779) - [Bayer is getting rid of bosses and asking staff to ‘self-organize’](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
 * [2024-04-20, 20:07:33](https://news.ycombinator.com/item?id=40100569) - [How to fix America's aviation system (2023)](https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system)
-* [2024-04-20, 18:29:44](https://news.ycombinator.com/item?id=40099626) - [My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 14:39:30](https://news.ycombinator.com/item?id=40097681) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 09:01:37](https://news.ycombinator.com/item?id=40095900) - [Cindy Lee might be the future of music](https://www.gq.com/story/pulling-weeds-with-chris-black-cindy-lee-might-be-the-future-of-music)
