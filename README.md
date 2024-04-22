@@ -2,6 +2,7 @@
 
 * [2024-04-22, 17:18:15](https://news.ycombinator.com/item?id=40116488) - [Anthropic: Prompt Library](https://docs.anthropic.com/claude/page/prompts)
 * [2024-04-22, 17:01:08](https://news.ycombinator.com/item?id=40116294) - [HockeyStack (YC S23) is hiring founding engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
+* [2024-04-22, 16:57:46](https://news.ycombinator.com/item?id=40116251) - [The New Reality of Digital Nomads](https://hbr.org/2024/02/the-new-reality-of-digital-nomads)
 * [2024-04-22, 16:43:57](https://news.ycombinator.com/item?id=40116078) - [When will computer hardware match the human brain? (Hans Moravec, 1998)](https://www.jetpress.org/volume1/moravec.htm)
 * [2024-04-22, 16:14:40](https://news.ycombinator.com/item?id=40115751) - [The 100-year-old railway Mexico hopes will rival the Panama Canal (2023)](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
 * [2024-04-22, 15:56:36](https://news.ycombinator.com/item?id=40115579) - [Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild](https://www.servethehome.com/this-is-intel-gaudi-3-the-new-128gb-hbm2e-ai-chip-in-the-wild-intel-vision-2024/)
@@ -28,7 +29,6 @@
 * [2024-04-21, 05:32:03](https://news.ycombinator.com/item?id=40103375) - [A Sketch of the Biggest Idea in Software Architecture (2022)](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
 * [2024-04-20, 21:00:10](https://news.ycombinator.com/item?id=40100973) - [Don Bluth's Garage Band](https://animationobsessive.substack.com/p/don-bluths-garage-band)
 * [2024-04-20, 20:07:53](https://news.ycombinator.com/item?id=40100573) - [Deep Space Trajectories: Exiting the Heliosphere](https://www.centauri-dreams.org/2024/04/03/deep-space-trajectories-exiting-the-heliosphere/)
-* [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 08:58:29](https://news.ycombinator.com/item?id=40095887) - [The 'blem wit' error messages: Things get terse (2008)](https://www.theregister.com/2008/01/28/error_messages/)
 
 ## [Archives](archives/index.md)
