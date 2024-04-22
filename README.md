@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 11:12:40](https://news.ycombinator.com/item?id=40113203) - [Apple Vision Pro Customer Interest Dying Down at Some Retail Stores](https://www.macrumors.com/2024/04/22/apple-vision-pro-customer-interest-dying-down/)
+* [2024-04-22, 11:09:01](https://news.ycombinator.com/item?id=40113186) - [AMD: Additional Parts of the Radeon Stack to Be Open Sourced Throughout the Year](https://www.phoronix.com/news/AMD-More-OSS-2024)
 * [2024-04-22, 10:26:20](https://news.ycombinator.com/item?id=40112958) - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
 * [2024-04-22, 08:25:22](https://news.ycombinator.com/item?id=40112383) - [Curl is just the hobby](https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
@@ -14,10 +16,8 @@
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 13:48:19](https://news.ycombinator.com/item?id=40105773) - [From a lorry driver to Ruby on rails developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
-* [2024-04-21, 12:02:40](https://news.ycombinator.com/item?id=40105011) - [The Art of Decision-Making (2019)](https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making)
 * [2024-04-21, 11:30:20](https://news.ycombinator.com/item?id=40104823) - [Ask HN: Which books/resources to understand modern Assembler?](https://news.ycombinator.com/item?id=40104823)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
-* [2024-04-21, 10:15:05](https://news.ycombinator.com/item?id=40104493) - [The failure of the Domino's 30-minute delivery guarantee](https://thehustle.co/originals/the-failure-of-the-dominos-30-minute-delivery-guarantee)
 * [2024-04-21, 09:58:59](https://news.ycombinator.com/item?id=40104427) - [Ask HN: Python Metrics Library](https://news.ycombinator.com/item?id=40104427)
 * [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
