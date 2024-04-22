@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 17:18:15](https://news.ycombinator.com/item?id=40116488) - [Anthropic: Prompt Library](https://docs.anthropic.com/claude/page/prompts)
 * [2024-04-22, 17:01:08](https://news.ycombinator.com/item?id=40116294) - [HockeyStack (YC S23) is hiring founding engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
 * [2024-04-22, 16:43:57](https://news.ycombinator.com/item?id=40116078) - [When will computer hardware match the human brain? (Hans Moravec, 1998)](https://www.jetpress.org/volume1/moravec.htm)
 * [2024-04-22, 16:14:40](https://news.ycombinator.com/item?id=40115751) - [The 100-year-old railway Mexico hopes will rival the Panama Canal (2023)](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
@@ -24,7 +25,6 @@
 * [2024-04-21, 11:20:55](https://news.ycombinator.com/item?id=40104773) - [Lemur's lament: When one vulnerable species stalks another](https://source.wustl.edu/2024/04/lemurs-lament/)
 * [2024-04-21, 10:42:04](https://news.ycombinator.com/item?id=40104591) - [Frawk: An efficient Awk-like programming language. (2021)](https://github.com/ezrosent/frawk)
 * [2024-04-21, 06:41:38](https://news.ycombinator.com/item?id=40103639) - [Fallout style RPG made in Excel](https://storyteller-blog.com/2024/04/21/i-made-a-fallout-inspired-rpg-game-in-excel/)
-* [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
 * [2024-04-21, 05:32:03](https://news.ycombinator.com/item?id=40103375) - [A Sketch of the Biggest Idea in Software Architecture (2022)](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
 * [2024-04-20, 21:00:10](https://news.ycombinator.com/item?id=40100973) - [Don Bluth's Garage Band](https://animationobsessive.substack.com/p/don-bluths-garage-band)
 * [2024-04-20, 20:07:53](https://news.ycombinator.com/item?id=40100573) - [Deep Space Trajectories: Exiting the Heliosphere](https://www.centauri-dreams.org/2024/04/03/deep-space-trajectories-exiting-the-heliosphere/)

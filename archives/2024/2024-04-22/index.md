@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 17:18:15](https://news.ycombinator.com/item?id=40116488) - [Anthropic: Prompt Library](https://docs.anthropic.com/claude/page/prompts)
 * [2024-04-22, 17:01:08](https://news.ycombinator.com/item?id=40116294) - [HockeyStack (YC S23) Is Hiring Young Founding Engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
 * [2024-04-22, 16:43:57](https://news.ycombinator.com/item?id=40116078) - [When will computer hardware match the human brain? (Hans Moravec, 1998)](https://www.jetpress.org/volume1/moravec.htm)
 * [2024-04-22, 16:29:13](https://news.ycombinator.com/item?id=40115911) - [EU opens probe of TikTok Lite, citing concerns about addictive design](https://techcrunch.com/2024/04/22/tiktok-lite-dsa-probe/)
