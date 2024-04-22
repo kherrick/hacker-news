@@ -24,10 +24,10 @@
 * [2024-04-22, 06:09:34](https://news.ycombinator.com/item?id=40111784) - [AI for Data Journalism: demonstrating what we can do with this stuff](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-22, 03:00:19](https://news.ycombinator.com/item?id=40111105) - [A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
+* [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
 * [2024-04-21, 11:20:55](https://news.ycombinator.com/item?id=40104773) - [Lemur's lament: When one vulnerable species stalks another](https://source.wustl.edu/2024/04/lemurs-lament/)
 * [2024-04-21, 10:42:04](https://news.ycombinator.com/item?id=40104591) - [Frawk: An efficient Awk-like programming language. (2021)](https://github.com/ezrosent/frawk)
 * [2024-04-21, 06:41:38](https://news.ycombinator.com/item?id=40103639) - [Fallout style RPG made in Excel](https://storyteller-blog.com/2024/04/21/i-made-a-fallout-inspired-rpg-game-in-excel/)
-* [2024-04-21, 05:32:03](https://news.ycombinator.com/item?id=40103375) - [A Sketch of the Biggest Idea in Software Architecture (2022)](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
 * [2024-04-20, 20:07:53](https://news.ycombinator.com/item?id=40100573) - [Deep Space Trajectories: Exiting the Heliosphere](https://www.centauri-dreams.org/2024/04/03/deep-space-trajectories-exiting-the-heliosphere/)
 * [2024-04-20, 08:58:29](https://news.ycombinator.com/item?id=40095887) - [The 'blem wit' error messages: Things get terse (2008)](https://www.theregister.com/2008/01/28/error_messages/)
 
