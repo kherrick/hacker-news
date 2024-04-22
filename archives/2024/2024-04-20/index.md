@@ -25,6 +25,7 @@
 * [2024-04-20, 20:44:43](https://news.ycombinator.com/item?id=40100867) - [Why Everything Is Becoming a Game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 * [2024-04-20, 20:19:06](https://news.ycombinator.com/item?id=40100672) - [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
 * [2024-04-20, 20:14:43](https://news.ycombinator.com/item?id=40100643) - [Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible](https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/)
+* [2024-04-20, 20:07:53](https://news.ycombinator.com/item?id=40100573) - [Deep Space Trajectories: Exiting the Heliosphere](https://www.centauri-dreams.org/2024/04/03/deep-space-trajectories-exiting-the-heliosphere/)
 * [2024-04-20, 20:07:33](https://news.ycombinator.com/item?id=40100569) - [How to fix America's aviation system](https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system)
 * [2024-04-20, 19:50:49](https://news.ycombinator.com/item?id=40100430) - [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
 * [2024-04-20, 19:45:59](https://news.ycombinator.com/item?id=40100389) - [Chad Asks US Troops to Cease Operations at Strategic Army Base](https://www.bloomberg.com/news/articles/2024-04-19/chad-asks-us-troops-to-cease-operations-at-strategic-army-base)
