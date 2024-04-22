@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 19:01:43](https://news.ycombinator.com/item?id=40117625) - [Llama-3 and Dwarkesh Patel's Podcast with Zuckerberg](https://thezvi.substack.com/p/on-llama-3-and-dwarkesh-patels-podcast)
 * [2024-04-22, 18:38:17](https://news.ycombinator.com/item?id=40117370) - [The Web Data Landscape Map](https://github.com/databoutique/thewebdataecosystemmap)
 * [2024-04-22, 18:28:22](https://news.ycombinator.com/item?id=40117249) - [Lolita: A tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-lolita.html)
 * [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
@@ -13,6 +14,7 @@
 * [2024-04-22, 16:59:23](https://news.ycombinator.com/item?id=40116270) - [Daily coffee consumption at 20-year high](https://www.ncausa.org/Newsroom/Daily-coffee-consumption-at-20-year-high-up-nearly-40)
 * [2024-04-22, 16:57:46](https://news.ycombinator.com/item?id=40116251) - [The New Reality of Digital Nomads](https://hbr.org/2024/02/the-new-reality-of-digital-nomads)
 * [2024-04-22, 16:43:57](https://news.ycombinator.com/item?id=40116078) - [When will computer hardware match the human brain? (Hans Moravec, 1998)](https://www.jetpress.org/volume1/moravec.htm)
+* [2024-04-22, 16:39:36](https://news.ycombinator.com/item?id=40116024) - [AI Regulation Is Unsafe](https://www.maximum-progress.com/p/ai-regulation-is-unsafe)
 * [2024-04-22, 16:29:13](https://news.ycombinator.com/item?id=40115911) - [EU opens probe of TikTok Lite, citing concerns about addictive design](https://techcrunch.com/2024/04/22/tiktok-lite-dsa-probe/)
 * [2024-04-22, 16:27:31](https://news.ycombinator.com/item?id=40115889) - [Meta Horizon OS](https://about.fb.com/news/2024/04/introducing-our-open-mixed-reality-ecosystem/)
 * [2024-04-22, 16:14:40](https://news.ycombinator.com/item?id=40115751) - [The 100-year-old railway Mexico hopes will rival the Panama Canal (2023)](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)

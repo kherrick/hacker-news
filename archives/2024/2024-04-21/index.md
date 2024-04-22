@@ -53,6 +53,7 @@
 * [2024-04-21, 12:09:33](https://news.ycombinator.com/item?id=40105058) - [The meteoric rise – and fall – of the Queen of Airbnb](https://www.businessinsider.com/meteoric-rise-spectacular-fall-airbnb-queen-vacation-rentals-real-estate2024-4)
 * [2024-04-21, 12:03:59](https://news.ycombinator.com/item?id=40105021) - [How did customer service get so bad?](https://www.ft.com/content/0a5d30ed-164f-4b9f-a049-fc9692219f79)
 * [2024-04-21, 12:02:40](https://news.ycombinator.com/item?id=40105011) - [The Art of Decision-Making (2019)](https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making)
+* [2024-04-21, 11:43:28](https://news.ycombinator.com/item?id=40104904) - [Show HN: What Are You Working On?](https://www.hackerupdates.com)
 * [2024-04-21, 11:33:05](https://news.ycombinator.com/item?id=40104842) - [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
 * [2024-04-21, 11:30:20](https://news.ycombinator.com/item?id=40104823) - [Ask HN: Which books/resources to understand modern Assembler?](https://news.ycombinator.com/item?id=40104823)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
