@@ -25,9 +25,9 @@
 * [2024-04-22, 10:26:20](https://news.ycombinator.com/item?id=40112958) - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
 * [2024-04-22, 10:04:05](https://news.ycombinator.com/item?id=40112842) - [Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
+* [2024-04-22, 04:47:20](https://news.ycombinator.com/item?id=40111479) - [It's OK to feed wild birds – here are some tips for doing it the right way](https://worldsensorium.com/its-ok-to-feed-wild-birds-here-are-some-tips-for-doing-it-the-right-way/)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-21, 23:21:57](https://news.ycombinator.com/item?id=40110072) - [Show HN: Metashade – a Pythonic GPU shading/compute EDSL](https://github.com/ppenenko/metashade)
-* [2024-04-21, 11:20:55](https://news.ycombinator.com/item?id=40104773) - [Lemur's lament: When one vulnerable species stalks another](https://source.wustl.edu/2024/04/lemurs-lament/)
 * [2024-04-21, 06:41:38](https://news.ycombinator.com/item?id=40103639) - [Fallout style RPG made in Excel](https://storyteller-blog.com/2024/04/21/i-made-a-fallout-inspired-rpg-game-in-excel/)
 * [2024-04-20, 08:58:29](https://news.ycombinator.com/item?id=40095887) - [The 'blem wit' error messages: Things get terse (2008)](https://www.theregister.com/2008/01/28/error_messages/)
 
