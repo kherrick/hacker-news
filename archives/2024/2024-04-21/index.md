@@ -62,6 +62,7 @@
 * [2024-04-21, 10:14:42](https://news.ycombinator.com/item?id=40104492) - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 * [2024-04-21, 10:10:57](https://news.ycombinator.com/item?id=40104475) - [Drone footage of baby penguins jumping off cliff](https://petapixel.com/2024/04/17/baby-penguins-jump-off-50-foot-cliff-in-first-of-its-kind-drone-footage/)
 * [2024-04-21, 09:59:05](https://news.ycombinator.com/item?id=40104428) - [The Great British Housing Famine](https://www.himbonomics.com/p/the-great-british-housing-famine)
+* [2024-04-21, 09:58:59](https://news.ycombinator.com/item?id=40104427) - [Ask HN: Python Metrics Library](https://news.ycombinator.com/item?id=40104427)
 * [2024-04-21, 09:53:48](https://news.ycombinator.com/item?id=40104410) - [Doom-htop: The classic DOOM game over htop](https://github.com/0x0mer/doom-htop)
 * [2024-04-21, 09:40:36](https://news.ycombinator.com/item?id=40104361) - [Amazon Grows to over 750k Robots, Replacing 100k Humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
 * [2024-04-21, 08:30:01](https://news.ycombinator.com/item?id=40104054) - [The Humanise Campaign call for an end to boring buildings](https://humanise.org/opinions/imagine-the-nation-s-favourite-buildings-stripped-of-their-soul-using-ai)
