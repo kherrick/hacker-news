@@ -8,6 +8,7 @@
 * [2024-04-21, 22:36:15](https://news.ycombinator.com/item?id=40109831) - [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
 * [2024-04-21, 21:18:18](https://news.ycombinator.com/item?id=40109331) - [Some monkeys in Panama may have just stumbled into the Stone Age (2018)](https://www.newscientist.com/article/2173021-some-monkeys-in-panama-may-have-just-stumbled-into-the-stone-age/)
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-04-21, 20:12:55](https://news.ycombinator.com/item?id=40108818) - [Emergence of fractal geometries in the evolution of a metabolic enzyme](https://www.nature.com/articles/s41586-024-07287-2)
 * [2024-04-21, 20:08:15](https://news.ycombinator.com/item?id=40108786) - [Google Pixel camera consistently blurring out The North Face logo](https://old.reddit.com/r/pixel_phones/comments/1c98wpq/i_noticed_my_pixel_is_blurring_brand_namesmy_7/)
 * [2024-04-21, 20:04:06](https://news.ycombinator.com/item?id=40108757) - [GPT Overperformance over Humans in Cognitive Reframing of Negative Scenarios](https://osf.io/preprints/psyarxiv/fzvd8)
 * [2024-04-21, 19:30:33](https://news.ycombinator.com/item?id=40108489) - [The dangers of \"decentralized\" ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
