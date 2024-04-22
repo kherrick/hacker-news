@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 10:26:20](https://news.ycombinator.com/item?id=40112958) - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
 * [2024-04-22, 08:25:22](https://news.ycombinator.com/item?id=40112383) - [Curl is just the hobby](https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 * [2024-04-22, 07:01:40](https://news.ycombinator.com/item?id=40112008) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
@@ -10,7 +11,6 @@
 * [2024-04-22, 01:03:26](https://news.ycombinator.com/item?id=40110638) - [Infinitown](https://demos.littleworkshop.fr/infinitown)
 * [2024-04-21, 21:29:28](https://news.ycombinator.com/item?id=40109402) - [A Rigorous Derivation of the Bubble Sort Curve](https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
-* [2024-04-21, 17:25:32](https://news.ycombinator.com/item?id=40107456) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 15:28:57](https://news.ycombinator.com/item?id=40106500) - [The Design of Everyday APIs (2022)](https://www.roguelynn.com/talks/everyday-apis/)
 * [2024-04-21, 13:48:19](https://news.ycombinator.com/item?id=40105773) - [From a lorry driver to Ruby on rails developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
