@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 02:39:02](https://news.ycombinator.com/item?id=40111022) - [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
 * [2024-04-22, 00:38:15](https://news.ycombinator.com/item?id=40110514) - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
 * [2024-04-22, 00:36:55](https://news.ycombinator.com/item?id=40110506) - [Walmart joins other big retailers in scaling back on self-checkout](https://www.cbsnews.com/news/walmart-self-checkout-target-dollar-general-costco/)
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -10,7 +11,6 @@
 * [2024-04-21, 16:40:46](https://news.ycombinator.com/item?id=40107112) - [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 15:28:57](https://news.ycombinator.com/item?id=40106500) - [The Design of Everyday APIs (2022)](https://www.roguelynn.com/talks/everyday-apis/)
-* [2024-04-21, 14:47:48](https://news.ycombinator.com/item?id=40106157) - [I can't stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
 * [2024-04-21, 14:46:42](https://news.ycombinator.com/item?id=40106147) - [Intermediate Activations – the forward hook (2020)](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
 * [2024-04-21, 13:48:19](https://news.ycombinator.com/item?id=40105773) - [From a lorry driver to Ruby on rails developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
@@ -24,7 +24,7 @@
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 14:39:30](https://news.ycombinator.com/item?id=40097681) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 09:01:37](https://news.ycombinator.com/item?id=40095900) - [Cindy Lee might be the future of music](https://www.gq.com/story/pulling-weeds-with-chris-black-cindy-lee-might-be-the-future-of-music)
-* [2024-04-20, 06:46:10](https://news.ycombinator.com/item?id=40095376) - [BQN for birdwatchers](https://mlochbaum.github.io/BQN/doc/birds.html)
+* [2024-04-20, 06:46:10](https://news.ycombinator.com/item?id=40095376) - [BQN for birdwatchers (2021)](https://mlochbaum.github.io/BQN/doc/birds.html)
 * [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
 * [2024-04-19, 16:46:28](https://news.ycombinator.com/item?id=40089028) - [Show HN: We relaunched the Official MTA App for NYC public transit](https://apps.apple.com/ca/app/the-official-mta-app/id1297605670)
 * [2024-04-19, 05:39:36](https://news.ycombinator.com/item?id=40083748) - [The PostgreSQL community debates ALTER SYSTEM](https://lwn.net/Articles/968300/)
