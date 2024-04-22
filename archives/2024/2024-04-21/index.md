@@ -59,6 +59,7 @@
 * [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
 * [2024-04-21, 10:45:33](https://news.ycombinator.com/item?id=40104609) - [Why Should I Care What Color the Bikeshed Is? (1999)](https://bikeshed.com/)
 * [2024-04-21, 10:43:22](https://news.ycombinator.com/item?id=40104596) - [Why I'm Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
+* [2024-04-21, 10:42:04](https://news.ycombinator.com/item?id=40104591) - [Frawk: An efficient Awk-like programming language. (2021)](https://github.com/ezrosent/frawk)
 * [2024-04-21, 10:29:29](https://news.ycombinator.com/item?id=40104547) - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
 * [2024-04-21, 10:22:54](https://news.ycombinator.com/item?id=40104525) - [Alan Kay: principles for funding and organizing breakthrough research](https://twitter.com/geoffreylitt/status/1781714112109572520/)
 * [2024-04-21, 10:15:05](https://news.ycombinator.com/item?id=40104493) - [The failure of the Domino's 30-minute delivery guarantee](https://thehustle.co/originals/the-failure-of-the-dominos-30-minute-delivery-guarantee)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 13:55:19](https://news.ycombinator.com/item?id=40114414) - [ESafety commissioner wins two-day injunction against X over violent content](https://www.abc.net.au/news/2024-04-22/esafety-commissioner-seeks-injunction-against-x/103755874)
+* [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
 * [2024-04-22, 12:58:39](https://news.ycombinator.com/item?id=40113925) - [Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
 * [2024-04-22, 12:10:45](https://news.ycombinator.com/item?id=40113572) - [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
 * [2024-04-22, 12:00:45](https://news.ycombinator.com/item?id=40113500) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -14,11 +16,10 @@
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 * [2024-04-21, 13:48:19](https://news.ycombinator.com/item?id=40105773) - [From a lorry driver to Ruby on rails developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
 * [2024-04-21, 12:53:25](https://news.ycombinator.com/item?id=40105371) - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
-* [2024-04-21, 11:30:20](https://news.ycombinator.com/item?id=40104823) - [Ask HN: Which books/resources to understand modern Assembler?](https://news.ycombinator.com/item?id=40104823)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 11:20:55](https://news.ycombinator.com/item?id=40104773) - [Lemur's lament: When one vulnerable species stalks another](https://source.wustl.edu/2024/04/lemurs-lament/)
+* [2024-04-21, 10:42:04](https://news.ycombinator.com/item?id=40104591) - [Frawk: An efficient Awk-like programming language. (2021)](https://github.com/ezrosent/frawk)
 * [2024-04-21, 10:15:05](https://news.ycombinator.com/item?id=40104493) - [The failure of the Domino's 30-minute delivery guarantee](https://thehustle.co/originals/the-failure-of-the-dominos-30-minute-delivery-guarantee)
-* [2024-04-21, 09:40:36](https://news.ycombinator.com/item?id=40104361) - [Amazon grows to over 750k robots, replacing 100k humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
 * [2024-04-21, 06:41:38](https://news.ycombinator.com/item?id=40103639) - [Fallout style RPG made in Excel](https://storyteller-blog.com/2024/04/21/i-made-a-fallout-inspired-rpg-game-in-excel/)
 * [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
@@ -27,7 +28,6 @@
 * [2024-04-20, 21:00:10](https://news.ycombinator.com/item?id=40100973) - [Don Bluth's Garage Band](https://animationobsessive.substack.com/p/don-bluths-garage-band)
 * [2024-04-20, 20:07:53](https://news.ycombinator.com/item?id=40100573) - [Deep Space Trajectories: Exiting the Heliosphere](https://www.centauri-dreams.org/2024/04/03/deep-space-trajectories-exiting-the-heliosphere/)
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
-* [2024-04-20, 14:39:30](https://news.ycombinator.com/item?id=40097681) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 09:16:21](https://news.ycombinator.com/item?id=40095963) - [Development of the Domain Name System (1988)](https://dl.acm.org/doi/epdf/10.1145/205447.205459)
 * [2024-04-18, 16:00:16](https://news.ycombinator.com/item?id=40077557) - [Our biggest ever river catch?](https://theoceancleanup.com/updates/the-ocean-cleanup-makes-biggest-ever-river-catch-in-guatemala/)
 
