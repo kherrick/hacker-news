@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 15:01:59](https://news.ycombinator.com/item?id=40115083) - [An Exploration of SBCL Internals (2020)](https://simonsafar.com/2020/sbcl/)
 * [2024-04-22, 15:00:37](https://news.ycombinator.com/item?id=40115063) - [Majority of Americans now use ad blockers](https://www.theregister.com/2024/03/27/america_ad_blocker/)
 * [2024-04-22, 14:17:49](https://news.ycombinator.com/item?id=40114626) - [Untangling Spaghetti: Debugging Non-Terminating Object Programs (2009)](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
 * [2024-04-22, 14:17:27](https://news.ycombinator.com/item?id=40114623) - [Ask HN: Have you migrated to Proton mail/calendar/pass/etc.? How was it?](https://news.ycombinator.com/item?id=40114623)
