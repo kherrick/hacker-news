@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 21:32:30](https://news.ycombinator.com/item?id=40121318) - [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
+* [2024-04-22, 21:13:51](https://news.ycombinator.com/item?id=40120846) - [FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)
 * [2024-04-22, 21:00:28](https://news.ycombinator.com/item?id=40120616) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-04-22, 20:36:41](https://news.ycombinator.com/item?id=40119958) - [No One Buys Books](https://www.elysian.press/p/no-one-buys-books)
 * [2024-04-22, 20:35:12](https://news.ycombinator.com/item?id=40119950) - [If all kernel bugs are security bugs, how do you keep your Linux safe?](https://www.zdnet.com/article/if-all-kernel-bugs-are-security-bugs-how-do-you-keep-your-linux-safe/)
