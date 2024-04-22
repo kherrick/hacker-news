@@ -5,8 +5,13 @@
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
 * [2024-04-22, 16:04:39](https://news.ycombinator.com/item?id=40115652) - [AI Is Smoke and Mirrors](https://www.bloodinthemachine.com/p/ai-really-is-smoke-and-mirrors)
+* [2024-04-22, 16:01:05](https://news.ycombinator.com/item?id=40115614) - [Meta opens Horizon OS for other companies to build VR headsets](https://www.threads.net/@zuck/post/C6EbeLPxovW)
+* [2024-04-22, 15:56:36](https://news.ycombinator.com/item?id=40115579) - [Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild](https://www.servethehome.com/this-is-intel-gaudi-3-the-new-128gb-hbm2e-ai-chip-in-the-wild-intel-vision-2024/)
+* [2024-04-22, 15:54:30](https://news.ycombinator.com/item?id=40115554) - [A New Era for Mixed Reality](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
+* [2024-04-22, 15:50:08](https://news.ycombinator.com/item?id=40115507) - [El Niño to flip to La Niña in what could be the hottest year on record](https://www.livescience.com/planet-earth/weather/uncharted-territory-el-nino-to-flip-to-la-nina-in-what-could-be-the-hottest-year-on-record)
 * [2024-04-22, 15:31:05](https://news.ycombinator.com/item?id=40115335) - [American politics has infected investing](https://www.economist.com/finance-and-economics/2024/04/21/how-american-politics-has-infected-investing)
 * [2024-04-22, 15:24:11](https://news.ycombinator.com/item?id=40115264) - [NvAlt: MultiMarkdown Notational Velocity fork with Markdown editing and preview](https://github.com/ttscoff/nv)
+* [2024-04-22, 15:10:00](https://news.ycombinator.com/item?id=40115155) - [Parquet-WASM: Rust-based WebAssembly bindings to read and write Parquet data](https://github.com/kylebarron/parquet-wasm)
 * [2024-04-22, 15:01:59](https://news.ycombinator.com/item?id=40115083) - [An Exploration of SBCL Internals (2020)](https://simonsafar.com/2020/sbcl/)
 * [2024-04-22, 15:00:37](https://news.ycombinator.com/item?id=40115063) - [Majority of Americans now use ad blockers](https://www.theregister.com/2024/03/27/america_ad_blocker/)
 * [2024-04-22, 14:17:49](https://news.ycombinator.com/item?id=40114626) - [Untangling Spaghetti: Debugging Non-Terminating Object Programs (2009)](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
