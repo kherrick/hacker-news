@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 23:04:59](https://news.ycombinator.com/item?id=40124682) - [Cubic Life: Conway's Game of Life in 3D](https://github.com/ms0g/cubicLife)
 * [2024-04-22, 23:04:13](https://news.ycombinator.com/item?id=40124674) - [Israel Tied with Iran Among Top Jailers of Journalists in 2023, Report Finds](https://truthout.org/articles/israel-leads-countries-in-jailing-reporters-since-start-of-genocide-in-palestine/)
 * [2024-04-22, 23:01:50](https://news.ycombinator.com/item?id=40124648) - [HN Flooded with Spam AI Girlfriend Comments](https://news.ycombinator.com/item?id=40124648)
 * [2024-04-22, 22:26:19](https://news.ycombinator.com/item?id=40123052) - [Apple Hugs: Human Gaussian Splats (CVPR 2024)](https://github.com/apple/ml-hugs)
