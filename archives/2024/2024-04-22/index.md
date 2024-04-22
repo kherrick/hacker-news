@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 17:18:15](https://news.ycombinator.com/item?id=40116488) - [Anthropic: Prompt Library](https://docs.anthropic.com/claude/page/prompts)
 * [2024-04-22, 17:01:08](https://news.ycombinator.com/item?id=40116294) - [HockeyStack (YC S23) Is Hiring Young Founding Engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
 * [2024-04-22, 16:57:46](https://news.ycombinator.com/item?id=40116251) - [The New Reality of Digital Nomads](https://hbr.org/2024/02/the-new-reality-of-digital-nomads)
@@ -31,6 +32,7 @@
 * [2024-04-22, 14:09:23](https://news.ycombinator.com/item?id=40114553) - [Review of the MoErgo Glove80 Keyboard](https://arslan.io/2024/04/22/review-of-the-moergo-glove80-keyboard/)
 * [2024-04-22, 14:01:03](https://news.ycombinator.com/item?id=40114472) - [Robert Kahn: The Great Interconnector](https://spectrum.ieee.org/bob-kahn-2667754905)
 * [2024-04-22, 13:55:19](https://news.ycombinator.com/item?id=40114414) - [ESafety commissioner wins two-day injunction against X over violent content](https://www.abc.net.au/news/2024-04-22/esafety-commissioner-seeks-injunction-against-x/103755874)
+* [2024-04-22, 13:54:13](https://news.ycombinator.com/item?id=40114403) - [Espressif Acquires Majority Stake in M5Stack](https://www.espressif.com/en/news/Espressif_Acquires_M5Stack)
 * [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
 * [2024-04-22, 12:58:39](https://news.ycombinator.com/item?id=40113925) - [Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
 * [2024-04-22, 12:49:41](https://news.ycombinator.com/item?id=40113862) - [Paying for it doesn't make it a market](https://pluralistic.net/2024/04/22/kargo-kult-kaptialism/#dont-buy-it)
