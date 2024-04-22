@@ -73,6 +73,7 @@
 * [2024-04-21, 07:59:16](https://news.ycombinator.com/item?id=40103948) - [Everyone Has JavaScript, Right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 * [2024-04-21, 07:53:08](https://news.ycombinator.com/item?id=40103925) - [tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 * [2024-04-21, 07:50:21](https://news.ycombinator.com/item?id=40103912) - [A hacker's guide to Language Models](https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb)
+* [2024-04-21, 06:41:38](https://news.ycombinator.com/item?id=40103639) - [Fallout style RPG made in Excel](https://storyteller-blog.com/2024/04/21/i-made-a-fallout-inspired-rpg-game-in-excel/)
 * [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I Should Have Loved Biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
 * [2024-04-21, 05:32:03](https://news.ycombinator.com/item?id=40103375) - [A Sketch of the Biggest Idea in Software Architecture (2022)](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
