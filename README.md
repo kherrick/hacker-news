@@ -9,7 +9,6 @@
 * [2024-04-22, 01:25:14](https://news.ycombinator.com/item?id=40110729) - [The Unix-Haters Handbook [pdf] (1994)](https://simson.net/ref/ugh.pdf)
 * [2024-04-22, 01:03:26](https://news.ycombinator.com/item?id=40110638) - [Infinitown](https://demos.littleworkshop.fr/infinitown)
 * [2024-04-21, 21:29:28](https://news.ycombinator.com/item?id=40109402) - [A Rigorous Derivation of the Bubble Sort Curve](https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/)
-* [2024-04-21, 19:30:33](https://news.ycombinator.com/item?id=40108489) - [Dangers of “decentralized” ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 * [2024-04-21, 17:25:32](https://news.ycombinator.com/item?id=40107456) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [2024-04-21, 16:28:49](https://news.ycombinator.com/item?id=40107007) - [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
@@ -29,6 +28,7 @@
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 14:39:30](https://news.ycombinator.com/item?id=40097681) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 09:16:21](https://news.ycombinator.com/item?id=40095963) - [Development of the Domain Name System (1988)](https://dl.acm.org/doi/epdf/10.1145/205447.205459)
+* [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
 * [2024-04-18, 16:00:16](https://news.ycombinator.com/item?id=40077557) - [Our biggest ever river catch?](https://theoceancleanup.com/updates/the-ocean-cleanup-makes-biggest-ever-river-catch-in-guatemala/)
 
 ## [Archives](archives/index.md)
