@@ -54,6 +54,7 @@
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
 * [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
+* [2024-04-21, 10:45:33](https://news.ycombinator.com/item?id=40104609) - [Why Should I Care What Color the Bikeshed Is? (1999)](https://bikeshed.com/)
 * [2024-04-21, 10:43:22](https://news.ycombinator.com/item?id=40104596) - [Why I'm Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
 * [2024-04-21, 10:29:29](https://news.ycombinator.com/item?id=40104547) - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
 * [2024-04-21, 10:22:54](https://news.ycombinator.com/item?id=40104525) - [Alan Kay: principles for funding and organizing breakthrough research](https://twitter.com/geoffreylitt/status/1781714112109572520/)
