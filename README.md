@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-22, 22:18:42](https://news.ycombinator.com/item?id=40122999) - [HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)
+* [2024-04-22, 23:01:50](https://news.ycombinator.com/item?id=40124648) - [HN Flooded with Spam AI Girlfriend Comments](https://news.ycombinator.com/item?id=40124648)
+* [2024-04-22, 22:26:19](https://news.ycombinator.com/item?id=40123052) - [Apple Hugs: Human Gaussian Splats (CVPR 2024)](https://github.com/apple/ml-hugs)
 * [2024-04-22, 21:54:35](https://news.ycombinator.com/item?id=40121934) - [It's Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)
 * [2024-04-22, 21:32:30](https://news.ycombinator.com/item?id=40121318) - [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
 * [2024-04-22, 21:13:51](https://news.ycombinator.com/item?id=40120846) - [FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)
@@ -21,7 +22,6 @@
 * [2024-04-22, 14:10:56](https://news.ycombinator.com/item?id=40114567) - [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
 * [2024-04-22, 14:01:03](https://news.ycombinator.com/item?id=40114472) - [Robert Kahn: The Great Interconnector](https://spectrum.ieee.org/bob-kahn-2667754905)
 * [2024-04-22, 13:54:13](https://news.ycombinator.com/item?id=40114403) - [Espressif Acquires Majority Stake in M5Stack](https://www.espressif.com/en/news/Espressif_Acquires_M5Stack)
-* [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple has reportedly acquired Datakalab](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 10:26:20](https://news.ycombinator.com/item?id=40112958) - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
 * [2024-04-22, 08:55:48](https://news.ycombinator.com/item?id=40112544) - [AI programming tools should be added to the Joel Test](https://blog.waleson.com/2024/04/ai-programming-tools-should-be-added-to.html)

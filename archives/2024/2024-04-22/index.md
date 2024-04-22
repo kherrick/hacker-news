@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 23:01:50](https://news.ycombinator.com/item?id=40124648) - [HN Flooded with Spam AI Girlfriend Comments](https://news.ycombinator.com/item?id=40124648)
+* [2024-04-22, 22:26:19](https://news.ycombinator.com/item?id=40123052) - [Apple Hugs: Human Gaussian Splats (CVPR 2024)](https://github.com/apple/ml-hugs)
 * [2024-04-22, 22:18:42](https://news.ycombinator.com/item?id=40122999) - [HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)
 * [2024-04-22, 22:06:59](https://news.ycombinator.com/item?id=40122881) - [FBI and friends get two more years of warrantless FISA Section 702 snooping](https://www.theregister.com/2024/04/22/fisa_section_702_renewed/)
 * [2024-04-22, 21:54:35](https://news.ycombinator.com/item?id=40121934) - [It's Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)
