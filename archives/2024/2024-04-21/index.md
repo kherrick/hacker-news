@@ -54,6 +54,7 @@
 * [2024-04-21, 11:33:05](https://news.ycombinator.com/item?id=40104842) - [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
 * [2024-04-21, 11:30:20](https://news.ycombinator.com/item?id=40104823) - [Ask HN: Which books/resources to understand modern Assembler?](https://news.ycombinator.com/item?id=40104823)
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
+* [2024-04-21, 11:20:55](https://news.ycombinator.com/item?id=40104773) - [Lemur's lament: When one vulnerable species stalks another](https://source.wustl.edu/2024/04/lemurs-lament/)
 * [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
 * [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
 * [2024-04-21, 10:45:33](https://news.ycombinator.com/item?id=40104609) - [Why Should I Care What Color the Bikeshed Is? (1999)](https://bikeshed.com/)

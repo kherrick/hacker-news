@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 12:00:45](https://news.ycombinator.com/item?id=40113500) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-04-22, 11:59:54](https://news.ycombinator.com/item?id=40113488) - [Ask HN: Outstanding Programmers](https://news.ycombinator.com/item?id=40113488)
 * [2024-04-22, 11:12:40](https://news.ycombinator.com/item?id=40113203) - [Apple Vision Pro Customer Interest Dying Down at Some Retail Stores](https://www.macrumors.com/2024/04/22/apple-vision-pro-customer-interest-dying-down/)
 * [2024-04-22, 11:09:01](https://news.ycombinator.com/item?id=40113186) - [AMD: Additional Parts of the Radeon Stack to Be Open Sourced Throughout the Year](https://www.phoronix.com/news/AMD-More-OSS-2024)
 * [2024-04-22, 10:57:10](https://news.ycombinator.com/item?id=40113110) - [Rarest, strangest, form of Windows saved techie from moment of security madness](https://www.theregister.com/2024/04/22/who_me/)
+* [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 10:26:20](https://news.ycombinator.com/item?id=40112958) - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
+* [2024-04-22, 10:04:05](https://news.ycombinator.com/item?id=40112842) - [Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)
 * [2024-04-22, 08:25:22](https://news.ycombinator.com/item?id=40112383) - [Curl is just the hobby](https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 * [2024-04-22, 07:01:40](https://news.ycombinator.com/item?id=40112008) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
