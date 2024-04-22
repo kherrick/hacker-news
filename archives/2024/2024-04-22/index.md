@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 16:29:13](https://news.ycombinator.com/item?id=40115911) - [EU opens probe of TikTok Lite, citing concerns about addictive design](https://techcrunch.com/2024/04/22/tiktok-lite-dsa-probe/)
+* [2024-04-22, 16:27:31](https://news.ycombinator.com/item?id=40115889) - [Meta Horizon OS](https://about.fb.com/news/2024/04/introducing-our-open-mixed-reality-ecosystem/)
 * [2024-04-22, 16:04:39](https://news.ycombinator.com/item?id=40115652) - [AI Is Smoke and Mirrors](https://www.bloodinthemachine.com/p/ai-really-is-smoke-and-mirrors)
 * [2024-04-22, 16:01:05](https://news.ycombinator.com/item?id=40115614) - [Meta opens Horizon OS for other companies to build VR headsets](https://www.threads.net/@zuck/post/C6EbeLPxovW)
 * [2024-04-22, 15:56:36](https://news.ycombinator.com/item?id=40115579) - [Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild](https://www.servethehome.com/this-is-intel-gaudi-3-the-new-128gb-hbm2e-ai-chip-in-the-wild-intel-vision-2024/)
@@ -14,6 +16,7 @@
 * [2024-04-22, 15:10:00](https://news.ycombinator.com/item?id=40115155) - [Parquet-WASM: Rust-based WebAssembly bindings to read and write Parquet data](https://github.com/kylebarron/parquet-wasm)
 * [2024-04-22, 15:01:59](https://news.ycombinator.com/item?id=40115083) - [An Exploration of SBCL Internals (2020)](https://simonsafar.com/2020/sbcl/)
 * [2024-04-22, 15:00:37](https://news.ycombinator.com/item?id=40115063) - [Majority of Americans now use ad blockers](https://www.theregister.com/2024/03/27/america_ad_blocker/)
+* [2024-04-22, 14:51:35](https://news.ycombinator.com/item?id=40114961) - [JEDEC Extends DDR5 Memory Spec to 8800 MT/S, Adds Anti-Rowhammer Features](https://www.anandtech.com/show/21363/jedec-extends-ddr5-specification-to-8800-mts-adds-anti-rowhammer-features)
 * [2024-04-22, 14:17:49](https://news.ycombinator.com/item?id=40114626) - [Untangling Spaghetti: Debugging Non-Terminating Object Programs (2009)](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
 * [2024-04-22, 14:17:27](https://news.ycombinator.com/item?id=40114623) - [Ask HN: Have you migrated to Proton mail/calendar/pass/etc.? How was it?](https://news.ycombinator.com/item?id=40114623)
 * [2024-04-22, 14:12:44](https://news.ycombinator.com/item?id=40114581) - [The Castration of Sima Qian](https://ijtihad.substack.com/p/the-castration-of-sima-qian)
