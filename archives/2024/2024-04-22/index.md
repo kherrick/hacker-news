@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 21:00:28](https://news.ycombinator.com/item?id=40120616) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-04-22, 20:35:12](https://news.ycombinator.com/item?id=40119950) - [If all kernel bugs are security bugs, how do you keep your Linux safe?](https://www.zdnet.com/article/if-all-kernel-bugs-are-security-bugs-how-do-you-keep-your-linux-safe/)
 * [2024-04-22, 20:13:26](https://news.ycombinator.com/item?id=40119450) - [Senate Approves Section 702 Reauthorization, Keeps Only the Bad Stuff](https://www.techdirt.com/2024/04/22/senate-approves-section-702-reauthorization-keeps-only-the-bad-stuff/)
 * [2024-04-22, 20:10:52](https://news.ycombinator.com/item?id=40119417) - [Ask HN: What rabbit hole(s) did you dive into recently?](https://news.ycombinator.com/item?id=40119417)
@@ -22,6 +23,7 @@
 * [2024-04-22, 18:18:44](https://news.ycombinator.com/item?id=40117127) - [Reddit is quietly changing the way its homepage works](https://sherwood.news/tech/reddit-is-quietly-changing-the-way-its-homepage-works/)
 * [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 17:28:22](https://news.ycombinator.com/item?id=40116602) - [The dangers of single line regular expressions](https://greg.molnar.io/blog/the-dangers-of-single-line-regular-expressions/)
+* [2024-04-22, 17:18:16](https://news.ycombinator.com/item?id=40116489) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 * [2024-04-22, 17:18:15](https://news.ycombinator.com/item?id=40116488) - [Anthropic: Prompt Library](https://docs.anthropic.com/claude/page/prompts)
 * [2024-04-22, 17:01:08](https://news.ycombinator.com/item?id=40116294) - [HockeyStack (YC S23) Is Hiring Young Founding Engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
 * [2024-04-22, 16:59:23](https://news.ycombinator.com/item?id=40116270) - [Daily coffee consumption at 20-year high](https://www.ncausa.org/Newsroom/Daily-coffee-consumption-at-20-year-high-up-nearly-40)
@@ -44,6 +46,7 @@
 * [2024-04-22, 15:01:59](https://news.ycombinator.com/item?id=40115083) - [An Exploration of SBCL Internals (2020)](https://simonsafar.com/2020/sbcl/)
 * [2024-04-22, 15:00:37](https://news.ycombinator.com/item?id=40115063) - [Majority of Americans now use ad blockers](https://www.theregister.com/2024/03/27/america_ad_blocker/)
 * [2024-04-22, 14:51:35](https://news.ycombinator.com/item?id=40114961) - [JEDEC Extends DDR5 Memory Spec to 8800 MT/S, Adds Anti-Rowhammer Features](https://www.anandtech.com/show/21363/jedec-extends-ddr5-specification-to-8800-mts-adds-anti-rowhammer-features)
+* [2024-04-22, 14:25:59](https://news.ycombinator.com/item?id=40114696) - [The emotional trial of clinical trials: like online dating with death risk](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
 * [2024-04-22, 14:17:49](https://news.ycombinator.com/item?id=40114626) - [Untangling Spaghetti: Debugging Non-Terminating Object Programs (2009)](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
 * [2024-04-22, 14:17:27](https://news.ycombinator.com/item?id=40114623) - [Ask HN: Have you migrated to Proton mail/calendar/pass/etc.? How was it?](https://news.ycombinator.com/item?id=40114623)
 * [2024-04-22, 14:12:44](https://news.ycombinator.com/item?id=40114581) - [The Castration of Sima Qian](https://ijtihad.substack.com/p/the-castration-of-sima-qian)
