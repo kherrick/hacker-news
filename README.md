@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-22, 03:23:58](https://news.ycombinator.com/item?id=40111184) - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
 * [2024-04-22, 02:39:02](https://news.ycombinator.com/item?id=40111022) - [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
 * [2024-04-22, 00:38:15](https://news.ycombinator.com/item?id=40110514) - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
+* [2024-04-21, 21:29:28](https://news.ycombinator.com/item?id=40109402) - [A Rigorous Derivation of the Bubble Sort Curve](https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/)
 * [2024-04-21, 21:00:45](https://news.ycombinator.com/item?id=40109208) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-04-21, 19:30:33](https://news.ycombinator.com/item?id=40108489) - [Dangers of “decentralized” ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 * [2024-04-21, 18:02:40](https://news.ycombinator.com/item?id=40107787) - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
@@ -24,11 +26,9 @@
 * [2024-04-20, 20:07:33](https://news.ycombinator.com/item?id=40100569) - [How to fix America's aviation system (2023)](https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system)
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
 * [2024-04-20, 14:39:30](https://news.ycombinator.com/item?id=40097681) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
-* [2024-04-20, 09:01:37](https://news.ycombinator.com/item?id=40095900) - [Cindy Lee might be the future of music](https://www.gq.com/story/pulling-weeds-with-chris-black-cindy-lee-might-be-the-future-of-music)
 * [2024-04-20, 06:46:10](https://news.ycombinator.com/item?id=40095376) - [BQN for birdwatchers (2021)](https://mlochbaum.github.io/BQN/doc/birds.html)
 * [2024-04-19, 18:45:53](https://news.ycombinator.com/item?id=40090580) - [Show HN: A storybook designed to teach kids about how computers work](https://www.lostlanguageofthemachines.com)
 * [2024-04-19, 16:46:28](https://news.ycombinator.com/item?id=40089028) - [Show HN: We relaunched the Official MTA App for NYC public transit](https://apps.apple.com/ca/app/the-official-mta-app/id1297605670)
-* [2024-04-19, 05:39:36](https://news.ycombinator.com/item?id=40083748) - [The PostgreSQL community debates ALTER SYSTEM](https://lwn.net/Articles/968300/)
 * [2024-04-18, 16:00:16](https://news.ycombinator.com/item?id=40077557) - [Our biggest ever river catch?](https://theoceancleanup.com/updates/the-ocean-cleanup-makes-biggest-ever-river-catch-in-guatemala/)
 
 ## [Archives](archives/index.md)
