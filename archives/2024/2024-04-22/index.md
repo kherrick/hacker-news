@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 19:53:10](https://news.ycombinator.com/item?id=40118778) - [Ask HN: Is Hacker News under attack from spam bots?](https://news.ycombinator.com/item?id=40118778)
+* [2024-04-22, 19:36:35](https://news.ycombinator.com/item?id=40118195) - [What Phones Are Doing to Reading](https://www.newyorker.com/news/fault-lines/what-phones-are-doing-to-reading)
+* [2024-04-22, 19:33:59](https://news.ycombinator.com/item?id=40118083) - [Don't waste your time recycling plastic](https://www.washingtonpost.com/opinions/2024/04/22/stop-recycling-plastic-earth-day/)
 * [2024-04-22, 19:24:31](https://news.ycombinator.com/item?id=40117815) - [Everything Hikers Know About Lightning Safety Is Wrong](https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/)
 * [2024-04-22, 19:01:43](https://news.ycombinator.com/item?id=40117625) - [Llama-3 and Dwarkesh Patel's Podcast with Zuckerberg](https://thezvi.substack.com/p/on-llama-3-and-dwarkesh-patels-podcast)
 * [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
@@ -47,6 +50,7 @@
 * [2024-04-22, 13:54:13](https://news.ycombinator.com/item?id=40114403) - [Espressif Acquires Majority Stake in M5Stack](https://www.espressif.com/en/news/Espressif_Acquires_M5Stack)
 * [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
 * [2024-04-22, 12:58:39](https://news.ycombinator.com/item?id=40113925) - [Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
+* [2024-04-22, 12:56:35](https://news.ycombinator.com/item?id=40113914) - [Delay email delivery with Postfix for a relaxing weekend](https://www.enricobassetti.it/2024/04/delay-e-mail-delivery-with-postfix-for-a-relaxing-weekend/)
 * [2024-04-22, 12:49:41](https://news.ycombinator.com/item?id=40113862) - [Paying for it doesn't make it a market](https://pluralistic.net/2024/04/22/kargo-kult-kaptialism/#dont-buy-it)
 * [2024-04-22, 12:10:45](https://news.ycombinator.com/item?id=40113572) - [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
 * [2024-04-22, 12:00:45](https://news.ycombinator.com/item?id=40113500) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
