@@ -7,7 +7,7 @@
 * [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:51:00](https://news.ycombinator.com/item?id=40117510) - [North Korean animation outsourcing for Amazon, HBO Max series](https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/)
 * [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
-* [2024-04-22, 16:02:42](https://news.ycombinator.com/item?id=40115633) - [Life is a Game that you can learn by learning these rules](https://www.engineeryourexistence.com/p/the-game-of-life)
+* [2024-04-22, 16:43:57](https://news.ycombinator.com/item?id=40116078) - [When will computer hardware match the human brain? (1998)](https://www.jetpress.org/volume1/moravec.htm)
 * [2024-04-22, 15:56:36](https://news.ycombinator.com/item?id=40115579) - [Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild](https://www.servethehome.com/this-is-intel-gaudi-3-the-new-128gb-hbm2e-ai-chip-in-the-wild-intel-vision-2024/)
 * [2024-04-22, 15:54:30](https://news.ycombinator.com/item?id=40115554) - [Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
 * [2024-04-22, 15:47:47](https://news.ycombinator.com/item?id=40115482) - [Survey Study on AI Agent Architectures (2024)](https://arxiv.org/abs/2404.11584)
