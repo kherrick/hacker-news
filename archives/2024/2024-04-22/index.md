@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 17:01:08](https://news.ycombinator.com/item?id=40116294) - [HockeyStack (YC S23) Is Hiring Young Founding Engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
 * [2024-04-22, 16:29:13](https://news.ycombinator.com/item?id=40115911) - [EU opens probe of TikTok Lite, citing concerns about addictive design](https://techcrunch.com/2024/04/22/tiktok-lite-dsa-probe/)
 * [2024-04-22, 16:27:31](https://news.ycombinator.com/item?id=40115889) - [Meta Horizon OS](https://about.fb.com/news/2024/04/introducing-our-open-mixed-reality-ecosystem/)
 * [2024-04-22, 16:14:40](https://news.ycombinator.com/item?id=40115751) - [The 100-year-old railway Mexico hopes will rival the Panama Canal (2023)](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
@@ -11,6 +12,7 @@
 * [2024-04-22, 16:01:05](https://news.ycombinator.com/item?id=40115614) - [Meta opens Horizon OS for other companies to build VR headsets](https://www.threads.net/@zuck/post/C6EbeLPxovW)
 * [2024-04-22, 15:56:36](https://news.ycombinator.com/item?id=40115579) - [Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild](https://www.servethehome.com/this-is-intel-gaudi-3-the-new-128gb-hbm2e-ai-chip-in-the-wild-intel-vision-2024/)
 * [2024-04-22, 15:54:30](https://news.ycombinator.com/item?id=40115554) - [A New Era for Mixed Reality](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
+* [2024-04-22, 15:54:04](https://news.ycombinator.com/item?id=40115551) - [FDNY Arrests E-Bike Shop Owner for Allegedly Selling Illegal Batteries](https://www.thecity.nyc/2024/04/12/ebike-fire-department-arrest-battery-first/)
 * [2024-04-22, 15:50:08](https://news.ycombinator.com/item?id=40115507) - [El Niño to flip to La Niña in what could be the hottest year on record](https://www.livescience.com/planet-earth/weather/uncharted-territory-el-nino-to-flip-to-la-nina-in-what-could-be-the-hottest-year-on-record)
 * [2024-04-22, 15:31:05](https://news.ycombinator.com/item?id=40115335) - [American politics has infected investing](https://www.economist.com/finance-and-economics/2024/04/21/how-american-politics-has-infected-investing)
 * [2024-04-22, 15:24:11](https://news.ycombinator.com/item?id=40115264) - [NvAlt: MultiMarkdown Notational Velocity fork with Markdown editing and preview](https://github.com/ttscoff/nv)
