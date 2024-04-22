@@ -8,6 +8,7 @@
 * [2024-04-22, 08:25:22](https://news.ycombinator.com/item?id=40112383) - [Curl is just the hobby](https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 * [2024-04-22, 07:01:40](https://news.ycombinator.com/item?id=40112008) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
+* [2024-04-22, 06:09:34](https://news.ycombinator.com/item?id=40111784) - [AI for Data Journalism: demonstrating what we can do with this stuff](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/)
 * [2024-04-22, 05:48:41](https://news.ycombinator.com/item?id=40111687) - ['Human intelligence': Another abominable idea from the AI industry](https://helenbeetham.substack.com/p/human-intelligence)
 * [2024-04-22, 05:25:00](https://news.ycombinator.com/item?id=40111603) - [Why you shouldn't run a BSD on a PC?](https://michal.sapka.me/bsd/why-not-bsd/)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/index.html)
