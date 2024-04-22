@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-22, 21:00:28](https://news.ycombinator.com/item?id=40120616) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-04-22, 20:36:41](https://news.ycombinator.com/item?id=40119958) - [No One Buys Books](https://www.elysian.press/p/no-one-buys-books)
 * [2024-04-22, 20:10:52](https://news.ycombinator.com/item?id=40119417) - [Ask HN: What rabbit hole(s) did you dive into recently?](https://news.ycombinator.com/item?id=40119417)
 * [2024-04-22, 19:56:27](https://news.ycombinator.com/item?id=40118950) - [Show HN: Wonkypedia - Wikipedia from an Alternate Timeline](https://www.wonkypedia.org/)
 * [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
@@ -20,7 +21,6 @@
 * [2024-04-22, 14:01:03](https://news.ycombinator.com/item?id=40114472) - [Robert Kahn: The Great Interconnector](https://spectrum.ieee.org/bob-kahn-2667754905)
 * [2024-04-22, 13:54:13](https://news.ycombinator.com/item?id=40114403) - [Espressif Acquires Majority Stake in M5Stack](https://www.espressif.com/en/news/Espressif_Acquires_M5Stack)
 * [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple has reportedly acquired Datakalab](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
-* [2024-04-22, 12:56:35](https://news.ycombinator.com/item?id=40113914) - [Delay email delivery with Postfix for a relaxing weekend](https://www.enricobassetti.it/2024/04/delay-e-mail-delivery-with-postfix-for-a-relaxing-weekend/)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 10:26:20](https://news.ycombinator.com/item?id=40112958) - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
 * [2024-04-22, 10:04:05](https://news.ycombinator.com/item?id=40112842) - [Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)

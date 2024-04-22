@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
 * [2024-04-22, 21:00:28](https://news.ycombinator.com/item?id=40120616) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-04-22, 20:36:41](https://news.ycombinator.com/item?id=40119958) - [No One Buys Books](https://www.elysian.press/p/no-one-buys-books)
 * [2024-04-22, 20:35:12](https://news.ycombinator.com/item?id=40119950) - [If all kernel bugs are security bugs, how do you keep your Linux safe?](https://www.zdnet.com/article/if-all-kernel-bugs-are-security-bugs-how-do-you-keep-your-linux-safe/)
 * [2024-04-22, 20:13:26](https://news.ycombinator.com/item?id=40119450) - [Senate Approves Section 702 Reauthorization, Keeps Only the Bad Stuff](https://www.techdirt.com/2024/04/22/senate-approves-section-702-reauthorization-keeps-only-the-bad-stuff/)
 * [2024-04-22, 20:10:52](https://news.ycombinator.com/item?id=40119417) - [Ask HN: What rabbit hole(s) did you dive into recently?](https://news.ycombinator.com/item?id=40119417)
