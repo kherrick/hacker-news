@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 16:04:39](https://news.ycombinator.com/item?id=40115652) - [AI Is Smoke and Mirrors](https://www.bloodinthemachine.com/p/ai-really-is-smoke-and-mirrors)
 * [2024-04-22, 15:31:05](https://news.ycombinator.com/item?id=40115335) - [American politics has infected investing](https://www.economist.com/finance-and-economics/2024/04/21/how-american-politics-has-infected-investing)
 * [2024-04-22, 15:24:11](https://news.ycombinator.com/item?id=40115264) - [NvAlt: MultiMarkdown Notational Velocity fork with Markdown editing and preview](https://github.com/ttscoff/nv)
 * [2024-04-22, 15:01:59](https://news.ycombinator.com/item?id=40115083) - [An Exploration of SBCL Internals (2020)](https://simonsafar.com/2020/sbcl/)

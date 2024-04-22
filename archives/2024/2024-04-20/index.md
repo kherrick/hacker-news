@@ -89,6 +89,7 @@
 * [2024-04-20, 09:16:21](https://news.ycombinator.com/item?id=40095963) - [Development of the Domain Name System (1988)](https://dl.acm.org/doi/epdf/10.1145/205447.205459)
 * [2024-04-20, 09:04:13](https://news.ycombinator.com/item?id=40095918) - [Psychedelia syndrome: the pixels and code of Jeff Minter's 'Psychedelia'](https://psychedeliasyndro.me/)
 * [2024-04-20, 09:01:37](https://news.ycombinator.com/item?id=40095900) - [Cindy Lee Might Be the Future of Music](https://www.gq.com/story/pulling-weeds-with-chris-black-cindy-lee-might-be-the-future-of-music)
+* [2024-04-20, 08:58:29](https://news.ycombinator.com/item?id=40095887) - [The 'blem wit' error messages: Things get terse (2008)](https://www.theregister.com/2008/01/28/error_messages/)
 * [2024-04-20, 08:54:51](https://news.ycombinator.com/item?id=40095870) - [Adventures in Rust: Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
 * [2024-04-20, 08:03:10](https://news.ycombinator.com/item?id=40095657) - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 * [2024-04-20, 07:06:54](https://news.ycombinator.com/item?id=40095456) - [\"I give up. I can no longer contribute to Gutenberg\"](https://twitter.com/aristath/status/1781273156843401726)

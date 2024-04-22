@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-22, 15:31:05](https://news.ycombinator.com/item?id=40115335) - [American politics has infected investing](https://www.economist.com/finance-and-economics/2024/04/21/how-american-politics-has-infected-investing)
+* [2024-04-22, 16:04:39](https://news.ycombinator.com/item?id=40115652) - [AI Is Smoke and Mirrors](https://www.bloodinthemachine.com/p/ai-really-is-smoke-and-mirrors)
 * [2024-04-22, 15:24:11](https://news.ycombinator.com/item?id=40115264) - [NvAlt: MultiMarkdown Notational Velocity fork with Markdown editing and preview](https://github.com/ttscoff/nv)
 * [2024-04-22, 15:01:59](https://news.ycombinator.com/item?id=40115083) - [An Exploration of SBCL Internals (2020)](https://simonsafar.com/2020/sbcl/)
 * [2024-04-22, 14:10:56](https://news.ycombinator.com/item?id=40114567) - [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
@@ -20,7 +20,6 @@
 * [2024-04-21, 11:21:13](https://news.ycombinator.com/item?id=40104774) - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 * [2024-04-21, 11:20:55](https://news.ycombinator.com/item?id=40104773) - [Lemur's lament: When one vulnerable species stalks another](https://source.wustl.edu/2024/04/lemurs-lament/)
 * [2024-04-21, 10:42:04](https://news.ycombinator.com/item?id=40104591) - [Frawk: An efficient Awk-like programming language. (2021)](https://github.com/ezrosent/frawk)
-* [2024-04-21, 10:15:05](https://news.ycombinator.com/item?id=40104493) - [The failure of the Domino's 30-minute delivery guarantee](https://thehustle.co/originals/the-failure-of-the-dominos-30-minute-delivery-guarantee)
 * [2024-04-21, 06:41:38](https://news.ycombinator.com/item?id=40103639) - [Fallout style RPG made in Excel](https://storyteller-blog.com/2024/04/21/i-made-a-fallout-inspired-rpg-game-in-excel/)
 * [2024-04-21, 06:28:58](https://news.ycombinator.com/item?id=40103590) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
 * [2024-04-21, 05:40:07](https://news.ycombinator.com/item?id=40103407) - [Programming Is Mostly Thinking (2014)](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
@@ -29,6 +28,7 @@
 * [2024-04-20, 21:00:10](https://news.ycombinator.com/item?id=40100973) - [Don Bluth's Garage Band](https://animationobsessive.substack.com/p/don-bluths-garage-band)
 * [2024-04-20, 20:07:53](https://news.ycombinator.com/item?id=40100573) - [Deep Space Trajectories: Exiting the Heliosphere](https://www.centauri-dreams.org/2024/04/03/deep-space-trajectories-exiting-the-heliosphere/)
 * [2024-04-20, 16:40:26](https://news.ycombinator.com/item?id=40098597) - [Show HN: Exploring Indra's Pearls with WebGPU](https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6)
+* [2024-04-20, 08:58:29](https://news.ycombinator.com/item?id=40095887) - [The 'blem wit' error messages: Things get terse (2008)](https://www.theregister.com/2008/01/28/error_messages/)
 * [2024-04-18, 16:00:16](https://news.ycombinator.com/item?id=40077557) - [Our biggest ever river catch?](https://theoceancleanup.com/updates/the-ocean-cleanup-makes-biggest-ever-river-catch-in-guatemala/)
 
 ## [Archives](archives/index.md)
