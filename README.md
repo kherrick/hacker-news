@@ -2,6 +2,7 @@
 
 * [2024-04-23, 21:01:02](https://news.ycombinator.com/item?id=40137201) - [Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
 * [2024-04-23, 20:42:53](https://news.ycombinator.com/item?id=40137027) - [Ask HN: How to improve PCB prototyping iteration time?](https://news.ycombinator.com/item?id=40137027)
+* [2024-04-23, 19:50:45](https://news.ycombinator.com/item?id=40136440) - [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
 * [2024-04-23, 19:33:21](https://news.ycombinator.com/item?id=40136208) - [Network visualization of 50k blogs and links](https://graph.henryn.ca)
 * [2024-04-23, 19:22:22](https://news.ycombinator.com/item?id=40136076) - [GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
 * [2024-04-23, 19:17:07](https://news.ycombinator.com/item?id=40136010) - [FTC announces rule banning noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
@@ -9,7 +10,6 @@
 * [2024-04-23, 18:18:42](https://news.ycombinator.com/item?id=40135250) - [Rabbit R1 source code [part 1]](https://github.com/rabbitscam/rabbitr1)
 * [2024-04-23, 17:00:15](https://news.ycombinator.com/item?id=40134200) - [Fallout1-ce: Fallout for modern operating systems](https://github.com/alexbatalov/fallout1-ce)
 * [2024-04-23, 16:43:59](https://news.ycombinator.com/item?id=40133976) - [The man who killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
-* [2024-04-23, 16:29:53](https://news.ycombinator.com/item?id=40133832) - [Tesla's in Its Flop Era](https://www.theverge.com/24134781/tesla-q1-2024-earnings-sales-market-share-elon-musk)
 * [2024-04-23, 16:25:41](https://news.ycombinator.com/item?id=40133782) - [Generative A.I. arrives in the gene editing world of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
 * [2024-04-23, 14:58:23](https://news.ycombinator.com/item?id=40132719) - [Reverse engineering a software crack](https://twitter.com/gf_256/status/1782656618015904103)
 * [2024-04-23, 14:45:33](https://news.ycombinator.com/item?id=40132566) - [The 40-Year-Old Cable Modem (a NABU network modem teardown) [video]](https://www.youtube.com/watch?v=8IflOWH8fzY)
