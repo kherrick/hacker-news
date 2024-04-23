@@ -80,6 +80,7 @@
 * [2024-04-22, 12:49:41](https://news.ycombinator.com/item?id=40113862) - [Paying for it doesn't make it a market](https://pluralistic.net/2024/04/22/kargo-kult-kaptialism/#dont-buy-it)
 * [2024-04-22, 12:10:45](https://news.ycombinator.com/item?id=40113572) - [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
 * [2024-04-22, 12:00:45](https://news.ycombinator.com/item?id=40113500) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-04-22, 12:00:03](https://news.ycombinator.com/item?id=40113491) - [Show HN: Source Code for CSVs](https://scroll.pub/blog/datasets.html)
 * [2024-04-22, 11:59:54](https://news.ycombinator.com/item?id=40113488) - [Ask HN: Outstanding Programmers](https://news.ycombinator.com/item?id=40113488)
 * [2024-04-22, 11:12:40](https://news.ycombinator.com/item?id=40113203) - [Apple Vision Pro Customer Interest Dying Down at Some Retail Stores](https://www.macrumors.com/2024/04/22/apple-vision-pro-customer-interest-dying-down/)
 * [2024-04-22, 11:09:01](https://news.ycombinator.com/item?id=40113186) - [AMD: Additional Parts of the Radeon Stack to Be Open Sourced Throughout the Year](https://www.phoronix.com/news/AMD-More-OSS-2024)
