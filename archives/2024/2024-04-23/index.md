@@ -6,6 +6,7 @@
 
 * [2024-04-23, 14:25:20](https://news.ycombinator.com/item?id=40132360) - [Framework Series A-1](https://frame.work/blog/frameworks-series-a-1-and-community-participation)
 * [2024-04-23, 14:12:20](https://news.ycombinator.com/item?id=40132229) - [Lawmakers Are Kicking Warrantless Wiretapping into Overdrive](https://gizmodo.com/lawmakers-are-kicking-warrantless-wiretapping-into-over-1851417659)
+* [2024-04-23, 14:02:25](https://news.ycombinator.com/item?id=40132101) - [Fedora Linux 40](https://fedoramagazine.org/announcing-fedora-linux-40/)
 * [2024-04-23, 13:49:45](https://news.ycombinator.com/item?id=40131942) - [Most dating apps sell and share users' personal data](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
 * [2024-04-23, 13:24:22](https://news.ycombinator.com/item?id=40131702) - [Tesla has lowest maintenance and repair cost of any brand](https://electrek.co/2024/04/22/tesla-lowest-maintenance-repair-cost-any-brand/)
 * [2024-04-23, 13:14:22](https://news.ycombinator.com/item?id=40131597) - [AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life](https://news.ycombinator.com/item?id=40131597)
@@ -34,6 +35,7 @@
 * [2024-04-23, 06:36:22](https://news.ycombinator.com/item?id=40129145) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
 * [2024-04-23, 06:15:15](https://news.ycombinator.com/item?id=40129025) - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 * [2024-04-23, 05:28:32](https://news.ycombinator.com/item?id=40128798) - [Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles](https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2)
+* [2024-04-23, 04:54:26](https://news.ycombinator.com/item?id=40128645) - [Carl Sagan, nuking the moon, and not nuking the moon](https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/)
 * [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 02:40:07](https://news.ycombinator.com/item?id=40127890) - [Alienating Tesla Buyers by the Cybertruck-Load](https://ritholtz.com/2024/04/alienating-tesla-buyers/)
 * [2024-04-23, 02:33:13](https://news.ycombinator.com/item?id=40127857) - [OpenAI Japan](https://openai.com/blog/introducing-openai-japan)
