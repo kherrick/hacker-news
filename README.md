@@ -20,7 +20,6 @@
 * [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 16:43:57](https://news.ycombinator.com/item?id=40116078) - [When will computer hardware match the human brain? (1998)](https://www.jetpress.org/volume1/moravec.htm)
-* [2024-04-22, 16:14:40](https://news.ycombinator.com/item?id=40115751) - [A 100-year-old railway Mexico hopes will rival the Panama Canal (2023)](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
 * [2024-04-22, 15:54:30](https://news.ycombinator.com/item?id=40115554) - [Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
 * [2024-04-22, 14:25:59](https://news.ycombinator.com/item?id=40114696) - [The emotional trial of clinical trials: like online dating with death risk](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
 * [2024-04-22, 10:44:32](https://news.ycombinator.com/item?id=40113054) - [Finding the First 10-digit Prime in Digits of e (2017)](https://www.hanshq.net/eprime.html)
@@ -30,6 +29,7 @@
 * [2024-04-22, 05:18:17](https://news.ycombinator.com/item?id=40111581) - [The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
 * [2024-04-21, 23:21:57](https://news.ycombinator.com/item?id=40110072) - [Show HN: Metashade – a Pythonic GPU shading/compute EDSL](https://github.com/ppenenko/metashade)
 * [2024-04-21, 10:46:46](https://news.ycombinator.com/item?id=40104614) - [How to reenable undervolting in 2020 Dell Laptops by editing EFI variables](https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/)
+* [2024-04-21, 10:40:48](https://news.ycombinator.com/item?id=40104586) - [The Copier Wars: Fair Use's Rude Awakening](https://newart.press/p/the-copier-wars-fair-uses-rude-awakening)
 
 ## [Archives](archives/index.md)
 
