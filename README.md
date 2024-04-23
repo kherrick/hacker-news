@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 01:32:26](https://news.ycombinator.com/item?id=40127515) - [Public Library Is Reducing Our Maximum Digital Holds. Here's Why](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
 * [2024-04-23, 01:27:14](https://news.ycombinator.com/item?id=40127483) - [Hackers Broke into Change Healthcare's Systems 9 Days Before Cyberattack](https://www.wsj.com/articles/change-healthcare-hackers-broke-in-nine-days-before-ransomware-attack-7119fdc6)
 * [2024-04-23, 01:12:21](https://news.ycombinator.com/item?id=40127400) - [Ask HN: How to Manage Phones and PCs for Elderly Parents?](https://news.ycombinator.com/item?id=40127400)
 * [2024-04-23, 00:36:35](https://news.ycombinator.com/item?id=40127218) - [Carapace: A multi-shell completion library and binary](https://carapace.sh/)
@@ -27,7 +28,6 @@
 * [2024-04-22, 11:07:16](https://news.ycombinator.com/item?id=40113174) - [A Million Years Without a Megaslide](https://eos.org/research-spotlights/a-million-years-without-a-megaslide)
 * [2024-04-22, 10:44:32](https://news.ycombinator.com/item?id=40113054) - [Finding the First 10-digit Prime in Digits of e (2017)](https://www.hanshq.net/eprime.html)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
-* [2024-04-22, 04:47:20](https://news.ycombinator.com/item?id=40111479) - [It's OK to feed wild birds – here are some tips for doing it the right way](https://worldsensorium.com/its-ok-to-feed-wild-birds-here-are-some-tips-for-doing-it-the-right-way/)
 * [2024-04-21, 23:21:57](https://news.ycombinator.com/item?id=40110072) - [Show HN: Metashade – a Pythonic GPU shading/compute EDSL](https://github.com/ppenenko/metashade)
 * [2024-04-21, 10:46:46](https://news.ycombinator.com/item?id=40104614) - [How to reenable undervolting in 2020 Dell Laptops by editing EFI variables](https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/)
 
