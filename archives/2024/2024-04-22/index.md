@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 23:52:32](https://news.ycombinator.com/item?id=40126935) - [Modal is a matrioshka language based on pattern-matching to rewrite trees](https://wiki.xxiivv.com/site/modal)
+* [2024-04-22, 23:38:43](https://news.ycombinator.com/item?id=40126751) - [Krazam OS](https://www.krazam.tv/)
 * [2024-04-22, 23:04:59](https://news.ycombinator.com/item?id=40124682) - [Cubic Life: Conway's Game of Life in 3D](https://github.com/ms0g/cubicLife)
 * [2024-04-22, 23:04:13](https://news.ycombinator.com/item?id=40124674) - [Israel Tied with Iran Among Top Jailers of Journalists in 2023, Report Finds](https://truthout.org/articles/israel-leads-countries-in-jailing-reporters-since-start-of-genocide-in-palestine/)
 * [2024-04-22, 23:01:50](https://news.ycombinator.com/item?id=40124648) - [HN Flooded with Spam AI Girlfriend Comments](https://news.ycombinator.com/item?id=40124648)
@@ -11,6 +13,7 @@
 * [2024-04-22, 22:18:42](https://news.ycombinator.com/item?id=40122999) - [HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)
 * [2024-04-22, 22:06:59](https://news.ycombinator.com/item?id=40122881) - [FBI and friends get two more years of warrantless FISA Section 702 snooping](https://www.theregister.com/2024/04/22/fisa_section_702_renewed/)
 * [2024-04-22, 21:54:35](https://news.ycombinator.com/item?id=40121934) - [It's Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)
+* [2024-04-22, 21:41:43](https://news.ycombinator.com/item?id=40121408) - [Helios-NG: massively-parallel OS for manycore CPUs](https://www.geekdot.com/helios-ng/)
 * [2024-04-22, 21:32:30](https://news.ycombinator.com/item?id=40121318) - [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
 * [2024-04-22, 21:29:17](https://news.ycombinator.com/item?id=40121270) - [Before Photoshop, Soviets Mastered Erasing People from Photographs and History](https://www.openculture.com/2017/08/long-before-photoshop-the-soviets-mastered-the-art-of-erasing-people-from-photographs-and-history-too.html)
 * [2024-04-22, 21:13:51](https://news.ycombinator.com/item?id=40120846) - [FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)
@@ -80,6 +83,7 @@
 * [2024-04-22, 11:59:54](https://news.ycombinator.com/item?id=40113488) - [Ask HN: Outstanding Programmers](https://news.ycombinator.com/item?id=40113488)
 * [2024-04-22, 11:12:40](https://news.ycombinator.com/item?id=40113203) - [Apple Vision Pro Customer Interest Dying Down at Some Retail Stores](https://www.macrumors.com/2024/04/22/apple-vision-pro-customer-interest-dying-down/)
 * [2024-04-22, 11:09:01](https://news.ycombinator.com/item?id=40113186) - [AMD: Additional Parts of the Radeon Stack to Be Open Sourced Throughout the Year](https://www.phoronix.com/news/AMD-More-OSS-2024)
+* [2024-04-22, 11:07:16](https://news.ycombinator.com/item?id=40113174) - [A Million Years Without a Megaslide](https://eos.org/research-spotlights/a-million-years-without-a-megaslide)
 * [2024-04-22, 10:57:10](https://news.ycombinator.com/item?id=40113110) - [Rarest, strangest, form of Windows saved techie from moment of security madness](https://www.theregister.com/2024/04/22/who_me/)
 * [2024-04-22, 10:44:32](https://news.ycombinator.com/item?id=40113054) - [Finding the First 10-digit Prime in Digits of e (2017)](https://www.hanshq.net/eprime.html)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
