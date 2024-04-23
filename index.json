@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-04-23, 00:27:02",
+      "https://news.ycombinator.com/item?id=40127162"
+    ],
+    [
+      "Using Your Vector Database as a JSON (Or Relational) Datastore",
+      "https://zilliz.com/blog/using-your-vector-database-as-JSON-or-relational-datastore"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 23:52:32",
       "https://news.ycombinator.com/item?id=40126935"
     ],
@@ -277,16 +287,6 @@
     [
       "The problem with invariants is that they change over time",
       "https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 23:21:57",
-      "https://news.ycombinator.com/item?id=40110072"
-    ],
-    [
-      "Show HN: Metashade – a Pythonic GPU shading/compute EDSL",
-      "https://github.com/ppenenko/metashade"
     ]
   ],
   [
