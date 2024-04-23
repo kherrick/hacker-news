@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-23, 15:43:09](https://news.ycombinator.com/item?id=40133235) - [Spotify CEO Daniel Ek surprised by how much 1,500 layoffs' impacted operations](https://fortune.com/europe/2024/04/23/spotify-earnings-q1-ceo-daniel-eklaying-off-1500-spotify-employees-negatively-affected-streaming-giants-operations/)
+* [2024-04-23, 15:58:24](https://news.ycombinator.com/item?id=40133439) - [When Was the Last Time We Built a New City?](https://asteriskmag.com/issues/06/california-forever-jan-sramek)
+* [2024-04-23, 15:57:35](https://news.ycombinator.com/item?id=40133427) - [Most Books Don't Sell Only a Dozen Copies](https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen)
 * [2024-04-23, 14:31:12](https://news.ycombinator.com/item?id=40132424) - [Show HN: Hashquery, a Python library for defining reusable analysis](https://hashquery.dev/)
 * [2024-04-23, 14:26:26](https://news.ycombinator.com/item?id=40132373) - [Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
 * [2024-04-23, 14:17:20](https://news.ycombinator.com/item?id=40132281) - [The Beautiful Dissociation of the Japanese Language](https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language)
-* [2024-04-23, 13:55:17](https://news.ycombinator.com/item?id=40132003) - [NASA officially greenlights $3.35B mission to Saturn's moon Titan](https://arstechnica.com/space/2024/04/nasa-officially-greenlights-3-35-billion-mission-to-saturns-moon-titan/)
 * [2024-04-23, 13:14:22](https://news.ycombinator.com/item?id=40131597) - [AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life](https://news.ycombinator.com/item?id=40131597)
 * [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)

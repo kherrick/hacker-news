@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 15:58:24](https://news.ycombinator.com/item?id=40133439) - [When Was the Last Time We Built a New City?](https://asteriskmag.com/issues/06/california-forever-jan-sramek)
+* [2024-04-23, 15:57:35](https://news.ycombinator.com/item?id=40133427) - [Most Books Don't Sell Only a Dozen Copies](https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen)
 * [2024-04-23, 15:43:09](https://news.ycombinator.com/item?id=40133235) - [Spotify CEO Daniel Ek surprised by how much 1,500 layoffs' impacted operations](https://fortune.com/europe/2024/04/23/spotify-earnings-q1-ceo-daniel-eklaying-off-1500-spotify-employees-negatively-affected-streaming-giants-operations/)
 * [2024-04-23, 15:41:47](https://news.ycombinator.com/item?id=40133216) - [After Months of Gibberish, Voyager 1 Is Communicating Well Again](https://www.scientificamerican.com/article/after-months-of-gibberish-voyager-1-is-communicating-well-again/)
 * [2024-04-23, 15:26:51](https://news.ycombinator.com/item?id=40133023) - [Half of Americans say Public K-12 Education is Going In The Wrong Direction](https://www.pewresearch.org/short-reads/2024/04/04/about-half-of-americans-say-public-k-12-education-is-going-in-the-wrong-direction/)
