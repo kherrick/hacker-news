@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 20:11:56](https://news.ycombinator.com/item?id=40136702) - [U.S. bans noncompete agreements for nearly all jobs](https://www.npr.org/2024/04/23/1246655366/ftc-bans-noncompete-agreements-lina-khan)
+* [2024-04-23, 20:04:37](https://news.ycombinator.com/item?id=40136629) - [Psi+ 1.5.1716 (2024-03-22) has been released – OMEMO E2EE (Latest Qt5 builds)](https://sourceforge.net/projects/psiplus/files/Windows/Personal-Builds/KukuRuzo/)
 * [2024-04-23, 20:00:38](https://news.ycombinator.com/item?id=40136587) - [Candidate hid that she's pregnant](https://www.teamblind.com/post/Candidate-hid-that-shes-pregnant-4uUZY583)
+* [2024-04-23, 19:58:21](https://news.ycombinator.com/item?id=40136555) - [No One Can Own the Law–So Why Is Congress Extending Copyright to It?](https://www.arl.org/blog/no-one-can-own-the-law-so-why-is-congress-advancing-a-bill-to-extend-copyright-to-it/)
 * [2024-04-23, 19:41:38](https://news.ycombinator.com/item?id=40136306) - [Python Big O: Time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
 * [2024-04-23, 19:33:21](https://news.ycombinator.com/item?id=40136208) - [Network visualization of 50k blogs and links](https://graph.henryn.ca)
 * [2024-04-23, 19:27:12](https://news.ycombinator.com/item?id=40136129) - [Facebook users say 'amen' to bizarre AI-generated images of Jesus](https://www.nbcnews.com/tech/tech-news/facebook-users-say-amen-bizarre-ai-generated-images-jesus-rcna143965)
