@@ -6,6 +6,7 @@
 
 * [2024-04-23, 22:16:16](https://news.ycombinator.com/item?id=40138013) - [FTC Bans Noncompete Agreements That Restrict Job Switching](https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187)
 * [2024-04-23, 21:52:33](https://news.ycombinator.com/item?id=40137780) - [Arizona Church Reaches Settlement with Federal Agencies to Use Ayahuasca](https://chacruna.net/the-church-of-the-eagle-and-the-condor-reaches-a-settlement-with-federal-agencies-affirming-the-religious-right-to-use-ayahuasca/)
+* [2024-04-23, 21:41:31](https://news.ycombinator.com/item?id=40137671) - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
 * [2024-04-23, 21:25:44](https://news.ycombinator.com/item?id=40137493) - [Hoot: Scheme to WebAssembly](https://spritely.institute/hoot/)
 * [2024-04-23, 21:21:54](https://news.ycombinator.com/item?id=40137441) - [Thefastest.ai](https://thefastest.ai)
 * [2024-04-23, 21:01:02](https://news.ycombinator.com/item?id=40137201) - [Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
