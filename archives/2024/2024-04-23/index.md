@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
 * [2024-04-23, 18:21:55](https://news.ycombinator.com/item?id=40135303) - [IBM Planning to Acquire HashiCorp](https://www.wsj.com/business/deals/ibm-nears-deal-for-cloud-software-provider-cf146448)
+* [2024-04-23, 18:18:42](https://news.ycombinator.com/item?id=40135250) - [Rabbit r1 source code [part 1]](https://github.com/rabbitscam/rabbitr1)
 * [2024-04-23, 17:54:52](https://news.ycombinator.com/item?id=40134921) - [Apple's Risky Bet on CarPlay](https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/)
 * [2024-04-23, 17:37:36](https://news.ycombinator.com/item?id=40134716) - [Apple Cuts Vision Pro Shipments as Demand Falls 'Sharply Beyond Expectations'](https://www.macrumors.com/2024/04/23/apple-cuts-vision-pro-shipments/)
 * [2024-04-23, 17:01:00](https://news.ycombinator.com/item?id=40134210) - [Taiki (YC W24) Is Hiring a Software Engineer Intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
@@ -63,6 +64,7 @@
 * [2024-04-23, 07:00:54](https://news.ycombinator.com/item?id=40129297) - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
 * [2024-04-23, 06:56:49](https://news.ycombinator.com/item?id=40129276) - [Web Game Engines and Libraries](https://www.webgamedev.com/engines-libraries/web-game-engines-libraries)
 * [2024-04-23, 06:53:01](https://news.ycombinator.com/item?id=40129259) - [It's the End of the Web as We Know It](https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)
+* [2024-04-23, 06:48:22](https://news.ycombinator.com/item?id=40129222) - [The Feminist Botanist](https://nautil.us/the-feminist-botanist-554103/)
 * [2024-04-23, 06:36:22](https://news.ycombinator.com/item?id=40129145) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
 * [2024-04-23, 06:15:15](https://news.ycombinator.com/item?id=40129025) - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 * [2024-04-23, 05:28:32](https://news.ycombinator.com/item?id=40128798) - [Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles](https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2)
