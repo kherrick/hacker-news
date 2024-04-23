@@ -1,12 +1,22 @@
 [
   [
     [
+      "2024-04-23, 18:46:25",
+      "https://news.ycombinator.com/item?id=40135627"
+    ],
+    [
+      "The Death of 60/40",
+      "https://www.lynalden.com/april-2024-newsletter/"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 18:21:55",
       "https://news.ycombinator.com/item?id=40135303"
     ],
     [
-      "IBM Planning to Acquire HashiCorp",
-      "https://www.wsj.com/business/deals/ibm-nears-deal-for-cloud-software-provider-cf146448"
+      "IBM nearing a buyout deal for HashiCorp, source says",
+      "https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "Rabbit R1 source code [part 1]",
       "https://github.com/rabbitscam/rabbitr1"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 17:59:44",
+      "https://news.ycombinator.com/item?id=40134986"
+    ],
+    [
+      "Diet May Be More Important Than Exercise for Long-Term Weight Control",
+      "https://www.businessinsider.com/why-exercise-may-not-help-you-lose-weight-diet-healthy-2021-4"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 17:13:42",
+      "https://news.ycombinator.com/item?id=40134392"
+    ],
+    [
+      "LLMs and the Harry Potter Problem",
+      "https://www.pyqai.com/blog/llms-and-the-harry-potter-problem"
     ]
   ],
   [
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2024-04-22, 17:32:44",
-      "https://news.ycombinator.com/item?id=40116644"
-    ],
-    [
-      "The Performance Impact of C++'s `final` Keyword",
-      "https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 15:54:30",
-      "https://news.ycombinator.com/item?id=40115554"
-    ],
-    [
-      "Meta Horizon OS",
-      "https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 10:37:59",
       "https://news.ycombinator.com/item?id=40113013"
     ],
@@ -267,16 +277,6 @@
     [
       "The Beautiful Islands of San Serriffe (2016)",
       "https://realdougwilson.com/writing/san-serriffe"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 08:07:27",
-      "https://news.ycombinator.com/item?id=40112282"
-    ],
-    [
-      "The problem with invariants is that they change over time",
-      "https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/"
     ]
   ],
   [
