@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-23, 13:14:22",
+      "https://news.ycombinator.com/item?id=40131597"
+    ],
+    [
+      "AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life",
+      "https://news.ycombinator.com/item?id=40131597"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 13:09:55",
+      "https://news.ycombinator.com/item?id=40131549"
+    ],
+    [
+      "VSCode Essentials eBook",
+      "https://microsoft.github.io/vscode-essentials/en/01-getting-started.html"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 12:57:23",
       "https://news.ycombinator.com/item?id=40131434"
     ],
@@ -27,16 +47,6 @@
     [
       "Akaunting is free, open-source online accounting software for small businesses",
       "https://akaunting.com"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 10:42:04",
-      "https://news.ycombinator.com/item?id=40130371"
-    ],
-    [
-      "Memory-mapped IO registers in zig (2021)",
-      "https://www.scattered-thoughts.net/writing/mmio-in-zig/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout",
       "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 08:15:32",
-      "https://news.ycombinator.com/item?id=40129687"
-    ],
-    [
-      "Apple M1 Assembly Language Hello World (2021)",
-      "https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Carapace: A multi-shell completion library and binary",
       "https://carapace.sh/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 00:27:02",
-      "https://news.ycombinator.com/item?id=40127162"
-    ],
-    [
-      "Using Your Vector Database as a JSON (Or Relational) Datastore",
-      "https://zilliz.com/blog/using-your-vector-database-as-JSON-or-relational-datastore"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Moon brings a wild but precarious fish orgy to California's beaches",
       "https://www.bbc.com/future/article/20240419-californias-beaches-are-home-to-wild-fish-orgies-during-the-grunion-run"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 03:51:48",
+      "https://news.ycombinator.com/item?id=40111274"
+    ],
+    [
+      "Inside the Super Nintendo cartridges",
+      "https://fabiensanglard.net/snes_carts/index.html"
     ]
   ],
   [
