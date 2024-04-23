@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 14:12:20](https://news.ycombinator.com/item?id=40132229) - [Lawmakers Are Kicking Warrantless Wiretapping into Overdrive](https://gizmodo.com/lawmakers-are-kicking-warrantless-wiretapping-into-over-1851417659)
 * [2024-04-23, 13:49:45](https://news.ycombinator.com/item?id=40131942) - [Most dating apps sell and share users' personal data](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
 * [2024-04-23, 13:14:22](https://news.ycombinator.com/item?id=40131597) - [AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life](https://news.ycombinator.com/item?id=40131597)
 * [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
-* [2024-04-23, 11:53:13](https://news.ycombinator.com/item?id=40130848) - [Windows vulnerability reported by the NSA exploited to install Russian malware](https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/)
 * [2024-04-23, 11:16:04](https://news.ycombinator.com/item?id=40130542) - [Akaunting is free, open-source online accounting software for small businesses](https://akaunting.com)
 * [2024-04-23, 10:22:15](https://news.ycombinator.com/item?id=40130304) - [Show HN: 10 Level Balancing Game for the Mobile Browser w/ increasing difficulty](https://www.balanc3dgame.com/)
 * [2024-04-23, 10:07:55](https://news.ycombinator.com/item?id=40130270) - [TSMC's debacle in the desert: Missed deadlines and tension among coworkers](https://restofworld.org/2024/tsmc-arizona-expansion/)

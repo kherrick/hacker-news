@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 14:12:20](https://news.ycombinator.com/item?id=40132229) - [Lawmakers Are Kicking Warrantless Wiretapping into Overdrive](https://gizmodo.com/lawmakers-are-kicking-warrantless-wiretapping-into-over-1851417659)
 * [2024-04-23, 13:49:45](https://news.ycombinator.com/item?id=40131942) - [Most dating apps sell and share users' personal data](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
 * [2024-04-23, 13:24:22](https://news.ycombinator.com/item?id=40131702) - [Tesla has lowest maintenance and repair cost of any brand](https://electrek.co/2024/04/22/tesla-lowest-maintenance-repair-cost-any-brand/)
 * [2024-04-23, 13:14:22](https://news.ycombinator.com/item?id=40131597) - [AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life](https://news.ycombinator.com/item?id=40131597)
