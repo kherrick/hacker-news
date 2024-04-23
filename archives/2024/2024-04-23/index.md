@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 17:01:00](https://news.ycombinator.com/item?id=40134210) - [Taiki (YC W24) Is Hiring a Software Engineer Intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
 * [2024-04-23, 16:38:00](https://news.ycombinator.com/item?id=40133913) - [Grindr Sued in UK for Sharing Users' HIV Data with Ad Firms](https://www.msn.com/en-us/money/other/grindr-sued-in-uk-for-sharing-users-hiv-data-with-ad-firms/ar-AA1nsf03)
 * [2024-04-23, 16:25:41](https://news.ycombinator.com/item?id=40133782) - [Generative A.I. Arrives in the Gene Editing World of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
 * [2024-04-23, 16:17:54](https://news.ycombinator.com/item?id=40133687) - [Google fires more workers who protested its deal with Israel](https://www.washingtonpost.com/technology/2024/04/22/google-nimbus-israel-protest-fired-workers/)
@@ -13,8 +14,10 @@
 * [2024-04-23, 15:43:09](https://news.ycombinator.com/item?id=40133235) - [Spotify CEO Daniel Ek surprised by how much 1,500 layoffs' impacted operations](https://fortune.com/europe/2024/04/23/spotify-earnings-q1-ceo-daniel-eklaying-off-1500-spotify-employees-negatively-affected-streaming-giants-operations/)
 * [2024-04-23, 15:41:47](https://news.ycombinator.com/item?id=40133216) - [After Months of Gibberish, Voyager 1 Is Communicating Well Again](https://www.scientificamerican.com/article/after-months-of-gibberish-voyager-1-is-communicating-well-again/)
 * [2024-04-23, 15:26:51](https://news.ycombinator.com/item?id=40133023) - [Half of Americans say Public K-12 Education is Going In The Wrong Direction](https://www.pewresearch.org/short-reads/2024/04/04/about-half-of-americans-say-public-k-12-education-is-going-in-the-wrong-direction/)
+* [2024-04-23, 14:58:23](https://news.ycombinator.com/item?id=40132719) - [Reverse Engineering a Software Crack](https://twitter.com/gf_256/status/1782656618015904103)
 * [2024-04-23, 14:52:12](https://news.ycombinator.com/item?id=40132648) - [Phi-3 Weights Released](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
 * [2024-04-23, 14:45:43](https://news.ycombinator.com/item?id=40132569) - [College students should study more](https://www.slowboring.com/p/college-students-should-study-more)
+* [2024-04-23, 14:45:33](https://news.ycombinator.com/item?id=40132566) - [The 40-Year-Old Cable Modem (a NABU network modem teardown) [video]](https://www.youtube.com/watch?v=8IflOWH8fzY)
 * [2024-04-23, 14:41:05](https://news.ycombinator.com/item?id=40132517) - [Bloom Filter Indexes in PostgreSQL](https://www.postgresql.org/docs/current/bloom.html)
 * [2024-04-23, 14:31:12](https://news.ycombinator.com/item?id=40132424) - [Show HN: Hashquery, a Python library for defining reusable analysis](https://hashquery.dev/)
 * [2024-04-23, 14:26:26](https://news.ycombinator.com/item?id=40132373) - [Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
