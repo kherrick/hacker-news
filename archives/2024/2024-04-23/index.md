@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 21:52:33](https://news.ycombinator.com/item?id=40137780) - [Arizona Church Reaches Settlement with Federal Agencies to Use Ayahuasca](https://chacruna.net/the-church-of-the-eagle-and-the-condor-reaches-a-settlement-with-federal-agencies-affirming-the-religious-right-to-use-ayahuasca/)
+* [2024-04-23, 21:25:44](https://news.ycombinator.com/item?id=40137493) - [Hoot: Scheme to WebAssembly](https://spritely.institute/hoot/)
 * [2024-04-23, 21:21:54](https://news.ycombinator.com/item?id=40137441) - [Thefastest.ai](https://thefastest.ai)
 * [2024-04-23, 21:01:02](https://news.ycombinator.com/item?id=40137201) - [Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
 * [2024-04-23, 20:53:56](https://news.ycombinator.com/item?id=40137138) - [Ex-Post Office boss sought 'non-emotive words' for Horizon bugs, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/23/ex-post-office-boss-paula-vennells-searched-for-non-emotive-words-to-describe-horizon-bugs-inquiry-hears)
@@ -80,6 +82,7 @@
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
 * [2024-04-23, 11:53:13](https://news.ycombinator.com/item?id=40130848) - [Windows vulnerability reported by the NSA exploited to install Russian malware](https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/)
 * [2024-04-23, 11:44:46](https://news.ycombinator.com/item?id=40130768) - [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
+* [2024-04-23, 11:42:48](https://news.ycombinator.com/item?id=40130748) - [October 2025 will be a support massacre for a bunch of Microsoft products](https://www.theregister.com/2024/04/18/2025_support_end_microsoft/)
 * [2024-04-23, 11:34:07](https://news.ycombinator.com/item?id=40130684) - [Why you can't get a restaurant reservation](https://www.newyorker.com/news/our-local-correspondents/why-you-cant-get-a-restaurant-reservation)
 * [2024-04-23, 11:32:28](https://news.ycombinator.com/item?id=40130674) - [How I made a 3D Level in a 2D Game [video]](https://www.youtube.com/watch?v=Qvlb-Yo6Rqo)
 * [2024-04-23, 11:31:29](https://news.ycombinator.com/item?id=40130665) - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
