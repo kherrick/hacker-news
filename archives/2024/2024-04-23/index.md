@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 18:56:15](https://news.ycombinator.com/item?id=40135755) - [FTC votes to ban non-compete agreements](https://thehill.com/business/4615452-ftc-votes-to-ban-non-compete-agreements/)
 * [2024-04-23, 18:46:25](https://news.ycombinator.com/item?id=40135627) - [The Death of 60/40](https://www.lynalden.com/april-2024-newsletter/)
 * [2024-04-23, 18:21:55](https://news.ycombinator.com/item?id=40135303) - [IBM nearing a buyout deal for HashiCorp, source says](https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/)
 * [2024-04-23, 18:21:55](https://news.ycombinator.com/item?id=40135303) - [IBM Planning to Acquire HashiCorp](https://www.wsj.com/business/deals/ibm-nears-deal-for-cloud-software-provider-cf146448)
