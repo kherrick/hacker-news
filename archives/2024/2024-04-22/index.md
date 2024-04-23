@@ -78,6 +78,7 @@
 * [2024-04-22, 12:56:35](https://news.ycombinator.com/item?id=40113914) - [Delay email delivery with Postfix for a relaxing weekend](https://www.enricobassetti.it/2024/04/delay-e-mail-delivery-with-postfix-for-a-relaxing-weekend/)
 * [2024-04-22, 12:53:16](https://news.ycombinator.com/item?id=40113891) - [E-Commerce Tactics Tech Employers Can Use to Improve the Candidate Experience](https://checkr.com/resources/articles/e-commerce-tactics-for-candidate-experience)
 * [2024-04-22, 12:49:41](https://news.ycombinator.com/item?id=40113862) - [Paying for it doesn't make it a market](https://pluralistic.net/2024/04/22/kargo-kult-kaptialism/#dont-buy-it)
+* [2024-04-22, 12:11:02](https://news.ycombinator.com/item?id=40113575) - [A Photographer Captured His Spectacular Dream Eclipse Photo](https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/)
 * [2024-04-22, 12:10:45](https://news.ycombinator.com/item?id=40113572) - [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
 * [2024-04-22, 12:00:45](https://news.ycombinator.com/item?id=40113500) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-04-22, 12:00:03](https://news.ycombinator.com/item?id=40113491) - [Show HN: Source Code for CSVs](https://scroll.pub/blog/datasets.html)

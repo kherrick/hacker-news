@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 19:27:12](https://news.ycombinator.com/item?id=40136129) - [Facebook users say 'amen' to bizarre AI-generated images of Jesus](https://www.nbcnews.com/tech/tech-news/facebook-users-say-amen-bizarre-ai-generated-images-jesus-rcna143965)
 * [2024-04-23, 19:17:07](https://news.ycombinator.com/item?id=40136010) - [FTC Announces Rule Banning Noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
 * [2024-04-23, 19:11:10](https://news.ycombinator.com/item?id=40135942) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 18:56:15](https://news.ycombinator.com/item?id=40135755) - [FTC votes to ban non-compete agreements](https://thehill.com/business/4615452-ftc-votes-to-ban-non-compete-agreements/)
