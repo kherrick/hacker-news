@@ -6,6 +6,7 @@
 
 * [2024-04-23, 22:42:12](https://news.ycombinator.com/item?id=40138193) - [a poem about the Turing halting proof](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
 * [2024-04-23, 22:27:15](https://news.ycombinator.com/item?id=40138090) - [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
+* [2024-04-23, 22:23:38](https://news.ycombinator.com/item?id=40138073) - [Geoffrey Hinton: Open sourcing AI models akin to open sourcing nuclear weapons](https://twitter.com/ygrowthco/status/1782493076373885336)
 * [2024-04-23, 22:16:16](https://news.ycombinator.com/item?id=40138013) - [FTC Bans Noncompete Agreements That Restrict Job Switching](https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187)
 * [2024-04-23, 21:52:33](https://news.ycombinator.com/item?id=40137780) - [Arizona Church Reaches Settlement with Federal Agencies to Use Ayahuasca](https://chacruna.net/the-church-of-the-eagle-and-the-condor-reaches-a-settlement-with-federal-agencies-affirming-the-religious-right-to-use-ayahuasca/)
 * [2024-04-23, 21:41:31](https://news.ycombinator.com/item?id=40137671) - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
@@ -33,6 +34,7 @@
 * [2024-04-23, 19:27:12](https://news.ycombinator.com/item?id=40136129) - [Facebook users say 'amen' to bizarre AI-generated images of Jesus](https://www.nbcnews.com/tech/tech-news/facebook-users-say-amen-bizarre-ai-generated-images-jesus-rcna143965)
 * [2024-04-23, 19:26:56](https://news.ycombinator.com/item?id=40136126) - [FTC Bans Noncompete Clauses That Restrict Job Switching](https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187)
 * [2024-04-23, 19:22:22](https://news.ycombinator.com/item?id=40136076) - [GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
+* [2024-04-23, 19:18:00](https://news.ycombinator.com/item?id=40136026) - [Dafny is a verification-aware programming language](https://github.com/dafny-lang/dafny)
 * [2024-04-23, 19:17:07](https://news.ycombinator.com/item?id=40136010) - [FTC Announces Rule Banning Noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
 * [2024-04-23, 19:11:10](https://news.ycombinator.com/item?id=40135942) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 18:56:15](https://news.ycombinator.com/item?id=40135755) - [FTC votes to ban non-compete agreements](https://thehill.com/business/4615452-ftc-votes-to-ban-non-compete-agreements/)
