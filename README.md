@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout – WebKit](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 07:00:54](https://news.ycombinator.com/item?id=40129297) - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
 * [2024-04-23, 06:56:49](https://news.ycombinator.com/item?id=40129276) - [Web Game Engines and Libraries](https://www.webgamedev.com/engines-libraries/web-game-engines-libraries)
 * [2024-04-23, 06:36:22](https://news.ycombinator.com/item?id=40129145) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
 * [2024-04-23, 06:15:15](https://news.ycombinator.com/item?id=40129025) - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 * [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
-* [2024-04-23, 01:32:26](https://news.ycombinator.com/item?id=40127515) - [The Seattle Public Library is reducing maximum digital holds](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
 * [2024-04-23, 01:12:21](https://news.ycombinator.com/item?id=40127400) - [Ask HN: How to manage phones and PCs for elderly parents?](https://news.ycombinator.com/item?id=40127400)
 * [2024-04-23, 00:36:35](https://news.ycombinator.com/item?id=40127218) - [Carapace: A multi-shell completion library and binary](https://carapace.sh/)
 * [2024-04-23, 00:27:02](https://news.ycombinator.com/item?id=40127162) - [Using Your Vector Database as a JSON (Or Relational) Datastore](https://zilliz.com/blog/using-your-vector-database-as-JSON-or-relational-datastore)
