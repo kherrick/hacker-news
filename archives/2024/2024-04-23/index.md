@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 02:40:07](https://news.ycombinator.com/item?id=40127890) - [Alienating Tesla Buyers by the Cybertruck-Load](https://ritholtz.com/2024/04/alienating-tesla-buyers/)
 * [2024-04-23, 02:33:13](https://news.ycombinator.com/item?id=40127857) - [OpenAI Japan](https://openai.com/blog/introducing-openai-japan)
 * [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Microsoft Launches Phi-3](https://arxiv.org/abs/2404.14219)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 02:40:07](https://news.ycombinator.com/item?id=40127890) - [Alienating Tesla Buyers by the Cybertruck-Load](https://ritholtz.com/2024/04/alienating-tesla-buyers/)
 * [2024-04-23, 02:33:13](https://news.ycombinator.com/item?id=40127857) - [OpenAI Japan](https://openai.com/blog/introducing-openai-japan)
 * [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
@@ -29,7 +30,6 @@
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-04-21, 10:46:46](https://news.ycombinator.com/item?id=40104614) - [How to reenable undervolting in 2020 Dell Laptops by editing EFI variables](https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/)
-* [2024-04-20, 05:44:14](https://news.ycombinator.com/item?id=40095121) - [Eurisko Lives](https://blog.funcall.org//lisp/2024/03/22/eurisko-lives/)
 
 ## [Archives](archives/index.md)
 
