@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 20:00:38](https://news.ycombinator.com/item?id=40136587) - [Candidate hid that she's pregnant](https://www.teamblind.com/post/Candidate-hid-that-shes-pregnant-4uUZY583)
 * [2024-04-23, 19:41:38](https://news.ycombinator.com/item?id=40136306) - [Python Big O: Time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
 * [2024-04-23, 19:33:21](https://news.ycombinator.com/item?id=40136208) - [Network visualization of 50k blogs and links](https://graph.henryn.ca)
 * [2024-04-23, 19:27:12](https://news.ycombinator.com/item?id=40136129) - [Facebook users say 'amen' to bizarre AI-generated images of Jesus](https://www.nbcnews.com/tech/tech-news/facebook-users-say-amen-bizarre-ai-generated-images-jesus-rcna143965)
