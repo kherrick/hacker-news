@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-04-23, 00:20:52",
+      "https://news.ycombinator.com/item?id=40127124"
+    ],
+    [
+      "Understanding and avoiding visually ambiguous characters in IDs",
+      "https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 00:18:09",
+      "https://news.ycombinator.com/item?id=40127106"
+    ],
+    [
+      "Ex-Amazon exec claims she was asked to ignore copyright law in race to AI",
+      "https://www.theregister.com/2024/04/22/ghaderi_v_amazon/"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 00:17:42",
+      "https://news.ycombinator.com/item?id=40127102"
+    ],
+    [
+      "NASA's Voyager 1 Resumes Sending Engineering Updates to Earth",
+      "https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 00:15:31",
+      "https://news.ycombinator.com/item?id=40127088"
+    ],
+    [
+      "Why Cats Knock Stuff Over (2023)",
+      "https://gwern.net/cat-knocking"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 23:52:32",
+      "https://news.ycombinator.com/item?id=40126935"
+    ],
+    [
+      "Modal is a matrioshka language based on pattern-matching to rewrite trees",
+      "https://wiki.xxiivv.com/site/modal"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 23:38:43",
+      "https://news.ycombinator.com/item?id=40126751"
+    ],
+    [
+      "Krazam OS",
+      "https://www.krazam.tv/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 23:04:59",
       "https://news.ycombinator.com/item?id=40124682"
     ],
@@ -21,12 +81,12 @@
   ],
   [
     [
-      "2024-04-22, 21:54:35",
-      "https://news.ycombinator.com/item?id=40121934"
+      "2024-04-22, 21:41:43",
+      "https://news.ycombinator.com/item?id=40121408"
     ],
     [
-      "It's Hyperobjects All the Way Down",
-      "https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/"
+      "Helios-NG: massively-parallel OS for manycore CPUs",
+      "https://www.geekdot.com/helios-ng/"
     ]
   ],
   [
@@ -61,22 +121,12 @@
   ],
   [
     [
-      "2024-04-22, 20:10:52",
-      "https://news.ycombinator.com/item?id=40119417"
+      "2024-04-22, 20:36:41",
+      "https://news.ycombinator.com/item?id=40119958"
     ],
     [
-      "Ask HN: What rabbit hole(s) did you dive into recently?",
-      "https://news.ycombinator.com/item?id=40119417"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 20:08:54",
-      "https://news.ycombinator.com/item?id=40119401"
-    ],
-    [
-      "A TikTok Ban Would Deal a Blow to Creators, Businesses and the American Economy",
-      "https://www.forbes.com/sites/alexandralevine/2023/03/22/how-a-tiktok-ban-would-affect-creators-businesses-economy/"
+      "No one buys books",
+      "https://www.elysian.press/p/no-one-buys-books"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2024-04-22, 18:51:00",
-      "https://news.ycombinator.com/item?id=40117510"
-    ],
-    [
-      "North Korean animation outsourcing for Amazon, HBO Max series",
-      "https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 17:32:44",
       "https://news.ycombinator.com/item?id=40116644"
     ],
@@ -111,12 +151,32 @@
   ],
   [
     [
-      "2024-04-22, 15:56:36",
-      "https://news.ycombinator.com/item?id=40115579"
+      "2024-04-22, 17:28:22",
+      "https://news.ycombinator.com/item?id=40116602"
     ],
     [
-      "Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild",
-      "https://www.servethehome.com/this-is-intel-gaudi-3-the-new-128gb-hbm2e-ai-chip-in-the-wild-intel-vision-2024/"
+      "The dangers of single line regular expressions",
+      "https://greg.molnar.io/blog/the-dangers-of-single-line-regular-expressions/"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 16:43:57",
+      "https://news.ycombinator.com/item?id=40116078"
+    ],
+    [
+      "When will computer hardware match the human brain? (1998)",
+      "https://www.jetpress.org/volume1/moravec.htm"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 16:14:40",
+      "https://news.ycombinator.com/item?id=40115751"
+    ],
+    [
+      "A 100-year-old railway Mexico hopes will rival the Panama Canal (2023)",
+      "https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal"
     ]
   ],
   [
@@ -127,16 +187,6 @@
     [
       "Meta Horizon OS",
       "https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 15:47:47",
-      "https://news.ycombinator.com/item?id=40115482"
-    ],
-    [
-      "Survey Study on AI Agent Architectures (2024)",
-      "https://arxiv.org/abs/2404.11584"
     ]
   ],
   [
@@ -181,26 +231,6 @@
   ],
   [
     [
-      "2024-04-22, 14:10:56",
-      "https://news.ycombinator.com/item?id=40114567"
-    ],
-    [
-      "Py2wasm – A Python to WASM Compiler",
-      "https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 14:01:03",
-      "https://news.ycombinator.com/item?id=40114472"
-    ],
-    [
-      "Robert Kahn: The Great Interconnector",
-      "https://spectrum.ieee.org/bob-kahn-2667754905"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 13:54:13",
       "https://news.ycombinator.com/item?id=40114403"
     ],
@@ -211,12 +241,12 @@
   ],
   [
     [
-      "2024-04-22, 13:49:58",
-      "https://news.ycombinator.com/item?id=40114350"
+      "2024-04-22, 11:07:16",
+      "https://news.ycombinator.com/item?id=40113174"
     ],
     [
-      "Apple has reportedly acquired Datakalab",
-      "https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/"
+      "A Million Years Without a Megaslide",
+      "https://eos.org/research-spotlights/a-million-years-without-a-megaslide"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2024-04-22, 10:04:05",
-      "https://news.ycombinator.com/item?id=40112842"
-    ],
-    [
-      "Show HN: I made a multiple runtime version manager that can be used on Windows",
-      "https://github.com/version-fox/vfox"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 04:47:20",
       "https://news.ycombinator.com/item?id=40111479"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-04-22, 03:51:48",
-      "https://news.ycombinator.com/item?id=40111274"
-    ],
-    [
-      "Inside the Super Nintendo cartridges",
-      "https://fabiensanglard.net/snes_carts/index.html"
-    ]
-  ],
-  [
-    [
       "2024-04-21, 23:21:57",
       "https://news.ycombinator.com/item?id=40110072"
     ],
     [
       "Show HN: Metashade – a Pythonic GPU shading/compute EDSL",
       "https://github.com/ppenenko/metashade"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 08:58:29",
-      "https://news.ycombinator.com/item?id=40095887"
-    ],
-    [
-      "The 'blem wit' error messages: Things get terse (2008)",
-      "https://www.theregister.com/2008/01/28/error_messages/"
     ]
   ]
 ]
