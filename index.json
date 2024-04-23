@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-23, 13:49:45",
+      "https://news.ycombinator.com/item?id=40131942"
+    ],
+    [
+      "Most dating apps sell and share users' personal data",
+      "https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 13:14:22",
       "https://news.ycombinator.com/item?id=40131597"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2024-04-23, 13:09:55",
-      "https://news.ycombinator.com/item?id=40131549"
+      "2024-04-23, 12:01:03",
+      "https://news.ycombinator.com/item?id=40130924"
     ],
     [
-      "VSCode Essentials eBook",
-      "https://microsoft.github.io/vscode-essentials/en/01-getting-started.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 12:57:23",
-      "https://news.ycombinator.com/item?id=40131434"
-    ],
-    [
-      "Show HN: I made a tool to easily compare pricing of developer tools and services",
-      "https://doesitscale.dev"
+      "New Foundations is consistent – a difficult mathematical proof proved using Lean",
+      "https://leanprover-community.github.io/con-nf//"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "1build (YC W20) Is Hiring a Marketing Lead",
       "https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 11:53:13",
+      "https://news.ycombinator.com/item?id=40130848"
+    ],
+    [
+      "Windows vulnerability reported by the NSA exploited to install Russian malware",
+      "https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Show HN: 10 Level Balancing Game for the Mobile Browser w/ increasing difficulty",
       "https://www.balanc3dgame.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 10:22:09",
-      "https://news.ycombinator.com/item?id=40130302"
-    ],
-    [
-      "The last days of my type checker for JavaScript",
-      "https://jsmonk.github.io/2024-01-29-last-days-of-hegel/"
     ]
   ],
   [
