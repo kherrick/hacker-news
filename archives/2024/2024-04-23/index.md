@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 16:38:00](https://news.ycombinator.com/item?id=40133913) - [Grindr Sued in UK for Sharing Users' HIV Data with Ad Firms](https://www.msn.com/en-us/money/other/grindr-sued-in-uk-for-sharing-users-hiv-data-with-ad-firms/ar-AA1nsf03)
+* [2024-04-23, 16:25:41](https://news.ycombinator.com/item?id=40133782) - [Generative A.I. Arrives in the Gene Editing World of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
+* [2024-04-23, 16:17:54](https://news.ycombinator.com/item?id=40133687) - [Google fires more workers who protested its deal with Israel](https://www.washingtonpost.com/technology/2024/04/22/google-nimbus-israel-protest-fired-workers/)
 * [2024-04-23, 15:58:24](https://news.ycombinator.com/item?id=40133439) - [When Was the Last Time We Built a New City?](https://asteriskmag.com/issues/06/california-forever-jan-sramek)
 * [2024-04-23, 15:57:35](https://news.ycombinator.com/item?id=40133427) - [Most Books Don't Sell Only a Dozen Copies](https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen)
 * [2024-04-23, 15:43:09](https://news.ycombinator.com/item?id=40133235) - [Spotify CEO Daniel Ek surprised by how much 1,500 layoffs' impacted operations](https://fortune.com/europe/2024/04/23/spotify-earnings-q1-ceo-daniel-eklaying-off-1500-spotify-employees-negatively-affected-streaming-giants-operations/)
