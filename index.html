@@ -129,110 +129,134 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="40132360">
+        <section id="40132648">
           <h3>
             <a
               class="item"
-              href="https://frame.work/blog/frameworks-series-a-1-and-community-participation"
-              >Framework Series A-1</a
+              href="https://huggingface.co/microsoft/Phi-3-mini-128k-instruct"
+              >Phi-3 Weights Released</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-04-23 @ 14:25:20</span
+              <span>2024-04-23 @ 14:52:12</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40132360"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40132229">
-          <h3>
-            <a
-              class="item"
-              href="https://gizmodo.com/lawmakers-are-kicking-warrantless-wiretapping-into-over-1851417659"
-              >Lawmakers Are Kicking Warrantless Wiretapping into Overdrive</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-23 @ 14:12:20</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40132229"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40132101">
-          <h3>
-            <a
-              class="item"
-              href="https://fedoramagazine.org/announcing-fedora-linux-40/"
-              >Fedora Linux 40</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-23 @ 14:02:25</span
-              ><span class="points-container"
-                >Points: <span class="points">36</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40132101"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40132048">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/"
-              >North Korea is evading sanctions by animating Max and Amazon
-              shows</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-23 @ 13:58:00</span
-              ><span class="points-container"
-                >Points: <span class="points">12</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40132048"
+                ><a href="https://news.ycombinator.com/item?id=40132648"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="40131942">
+        <section id="40132569">
           <h3>
             <a
               class="item"
-              href="https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/"
-              >Most dating apps sell and share users' personal data</a
+              href="https://www.slowboring.com/p/college-students-should-study-more"
+              >College students should study more</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-04-23 @ 13:49:45</span
+              <span>2024-04-23 @ 14:45:43</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40131942"
+                ><a href="https://news.ycombinator.com/item?id=40132569"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="40132373">
+          <h3>
+            <a class="item" href="https://getada.dev"
+              >Show HN: Getada: rustup-like installer for Ada's
+              toolchain/package manager</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-23 @ 14:26:26</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40132373"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Getada was inspired by Rustup[2] and aside from the init script
+                is written entirely in Ada.
+              </p>
+              <p>
+                It's completely open source and you can check out the readme and
+                code on github[3]. It currently supports all non-windows
+                platforms that Alire has an official release for, which at
+                present is Linux (glibc) and MacOS. If you try running it on an
+                unsupported platform, it tries to point you in the right
+                direction. For example, you can install Alire on windows with an
+                already-existing installer.
+              </p>
+              <p>
+                It downloads the latest version of Alire[4] (Ada's toolchain and
+                package manager, similar to Cargo) for your platform as a zip
+                file to a temporary directory and then extracts it to a binary
+                directory. By default the temporary directory (configure with
+                "-t /directory" or "--tmp=/directory") defaulted to $TMPDIR or
+                /tmp. The config directory is ~/.getada (change via "-c
+                /directory", "--cfg=/directory", or $GETADA_CFG), and the alr
+                and getada binaries go in ~/.getada/bin (configure with ""-b
+                /directory", "--bin=/directory", or $GETADA_BIN). It also tries
+                to add the file to your path by dropping a "env.sh" file into
+                ~/.profile/ (disable with -p or --no-path).
+              </p>
+              <p>
+                If you don't allow executables in temporary or home directories,
+                you can change all of these via environmental variables or
+                passing parameters.
+              </p>
+              <p>You can remove it all by running: getada --uninstall</p>
+              <p>
+                Now you can create a brand new Ada project with: alr init --bin
+                my_project (How to use Alire[5] for more details)
+              </p>
+              <p>
+                Since one of the biggest complaints about Ada is getting the
+                toolchain [6], I hope this can solve a lot of problems for
+                newcomers to the language.
+              </p>
+              <p>
+                [1] <a href="https://www.getada.dev">https://www.getada.dev</a>
+              </p>
+              <p>[2] <a href="https://rustup.rs/">https://rustup.rs/</a></p>
+              <p>
+                [3]
+                <a href="https://github.com/aj-ianozi/getada"
+                  >https://github.com/aj-ianozi/getada</a
+                >
+              </p>
+              <p>
+                [4] <a href="https://alire.ada.dev/">https://alire.ada.dev/</a>
+              </p>
+              <p>
+                [5]
+                <a href="https://www.getada.dev/how-to-use-alire.html"
+                  >https://www.getada.dev/how-to-use-alire.html</a
+                >
+              </p>
+              <p>
+                [6]
+                <a href="https://programming.dev/comment/9438211"
+                  >https://programming.dev/comment/9438211</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="40131597">
@@ -246,11 +270,11 @@
             <h4>
               <span>2024-04-23 @ 13:14:22</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40131597"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
             <div class="text">
@@ -284,11 +308,11 @@
             <h4>
               <span>2024-04-23 @ 12:01:03</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40130924"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -310,6 +334,47 @@
             </h4>
           </section>
         </section>
+        <section id="40130684">
+          <h3>
+            <a
+              class="item"
+              href="https://www.newyorker.com/news/our-local-correspondents/why-you-cant-get-a-restaurant-reservation"
+              >Why you can't get a restaurant reservation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-23 @ 11:34:07</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40130684"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40130542">
+          <h3>
+            <a class="item" href="https://akaunting.com"
+              >Akaunting is free, open-source online accounting software for
+              small businesses</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-23 @ 11:16:04</span
+              ><span class="points-container"
+                >Points: <span class="points">70</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40130542"
+                  >Comments</a
+                ><span class="descendants">: 41</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="40130304">
           <h3>
             <a class="item" href="https://www.balanc3dgame.com/"
@@ -321,11 +386,11 @@
             <h4>
               <span>2024-04-23 @ 10:22:15</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40130304"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
             <div class="text">
@@ -346,11 +411,11 @@
             <h4>
               <span>2024-04-23 @ 09:32:30</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40130148"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
           </section>
@@ -367,11 +432,11 @@
             <h4>
               <span>2024-04-23 @ 04:54:26</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40128645"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -411,7 +476,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40127806"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -426,7 +491,7 @@
             <h4>
               <span>2024-04-23 @ 02:11:28</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40127745"
                   >Comments</a
@@ -504,11 +569,11 @@
             <h4>
               <span>2024-04-23 @ 01:12:21</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40127400"
                   >Comments</a
-                ><span class="descendants">: 245</span></span
+                ><span class="descendants">: 252</span></span
               >
             </h4>
             <div class="text">
@@ -527,6 +592,25 @@
             </div>
           </section>
         </section>
+        <section id="40127218">
+          <h3>
+            <a class="item" href="https://carapace.sh/"
+              >Carapace: A multi-shell completion library and binary</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-23 @ 00:36:35</span
+              ><span class="points-container"
+                >Points: <span class="points">74</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40127218"
+                  >Comments</a
+                ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="40127124">
           <h3>
             <a
@@ -540,11 +624,11 @@
             <h4>
               <span>2024-04-23 @ 00:20:52</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40127124"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -555,11 +639,11 @@
             <h4>
               <span>2024-04-22 @ 23:38:43</span
               ><span class="points-container"
-                >Points: <span class="points">730</span></span
+                >Points: <span class="points">733</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40126751"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 155</span></span
               >
             </h4>
           </section>
@@ -594,11 +678,11 @@
             <h4>
               <span>2024-04-22 @ 20:36:41</span
               ><span class="points-container"
-                >Points: <span class="points">511</span></span
+                >Points: <span class="points">519</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40119958"
                   >Comments</a
-                ><span class="descendants">: 492</span></span
+                ><span class="descendants">: 495</span></span
               >
             </h4>
           </section>
@@ -615,11 +699,11 @@
             <h4>
               <span>2024-04-22 @ 17:32:44</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40116644"
                   >Comments</a
-                ><span class="descendants">: 215</span></span
+                ><span class="descendants">: 217</span></span
               >
             </h4>
           </section>
@@ -636,33 +720,11 @@
             <h4>
               <span>2024-04-22 @ 15:54:30</span
               ><span class="points-container"
-                >Points: <span class="points">738</span></span
+                >Points: <span class="points">741</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40115554"
                   >Comments</a
-                ><span class="descendants">: 596</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40113092">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theregister.com/2024/04/22/faa_now_requires_reentry_vehicles/"
-              >FAA now requires reentry vehicles to get licensed before
-              launch</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-22 @ 10:53:44</span
-              ><span class="points-container"
-                >Points: <span class="points">17</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40113092"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 597</span></span
               >
             </h4>
           </section>
@@ -675,7 +737,7 @@
             <h4>
               <span>2024-04-22 @ 10:37:59</span
               ><span class="points-container"
-                >Points: <span class="points">1464</span></span
+                >Points: <span class="points">1466</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40113013"
                   >Comments</a
@@ -696,7 +758,7 @@
             <h4>
               <span>2024-04-22 @ 09:16:49</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40112635"
                   >Comments</a
@@ -717,11 +779,11 @@
             <h4>
               <span>2024-04-22 @ 08:07:27</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40112282"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -738,32 +800,11 @@
             <h4>
               <span>2024-04-22 @ 06:41:38</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40111916"
                   >Comments</a
                 ><span class="descendants">: 32</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40111898">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/travel/2024/apr/22/autism-makes-travel-a-challenge-heres-how-i-learned-to-cope"
-              >Autism makes travel a challenge. Here’s how I learned to cope</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-22 @ 06:38:23</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40111898"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -802,11 +843,32 @@
             <h4>
               <span>2024-04-22 @ 04:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40111404"
                   >Comments</a
                 ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40111274">
+          <h3>
+            <a
+              class="item"
+              href="https://fabiensanglard.net/snes_carts/index.html"
+              >Inside the Super Nintendo cartridges</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-22 @ 03:51:48</span
+              ><span class="points-container"
+                >Points: <span class="points">505</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40111274"
+                  >Comments</a
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -823,11 +885,11 @@
             <h4>
               <span>2024-04-21 @ 10:40:48</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40104586"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
