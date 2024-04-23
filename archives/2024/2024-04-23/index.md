@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 18:21:55](https://news.ycombinator.com/item?id=40135303) - [IBM Planning to Acquire HashiCorp](https://www.wsj.com/business/deals/ibm-nears-deal-for-cloud-software-provider-cf146448)
 * [2024-04-23, 17:54:52](https://news.ycombinator.com/item?id=40134921) - [Apple's Risky Bet on CarPlay](https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/)
 * [2024-04-23, 17:37:36](https://news.ycombinator.com/item?id=40134716) - [Apple Cuts Vision Pro Shipments as Demand Falls 'Sharply Beyond Expectations'](https://www.macrumors.com/2024/04/23/apple-cuts-vision-pro-shipments/)
 * [2024-04-23, 17:01:00](https://news.ycombinator.com/item?id=40134210) - [Taiki (YC W24) Is Hiring a Software Engineer Intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
