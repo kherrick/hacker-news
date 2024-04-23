@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 13:01:39](https://news.ycombinator.com/item?id=40131479) - [Dr Jay Bhattacharya Lecture at MIT](https://www.youtube.com/watch?v=yF5G46kSKR4)
+* [2024-04-23, 12:57:23](https://news.ycombinator.com/item?id=40131434) - [Show HN: I made a tool to easily compare pricing of developer tools and services](https://doesitscale.dev)
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
-* [2024-04-23, 11:44:46](https://news.ycombinator.com/item?id=40130768) - [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
 * [2024-04-23, 11:31:29](https://news.ycombinator.com/item?id=40130665) - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
 * [2024-04-23, 11:20:01](https://news.ycombinator.com/item?id=40130570) - [Segal's Law](https://en.wikipedia.org/wiki/Segal%27s_law)
 * [2024-04-23, 11:16:04](https://news.ycombinator.com/item?id=40130542) - [Akaunting is free, open-source online accounting software for small businesses](https://akaunting.com)
@@ -10,7 +11,6 @@
 * [2024-04-23, 10:22:09](https://news.ycombinator.com/item?id=40130302) - [The last days of my type checker for JavaScript](https://jsmonk.github.io/2024-01-29-last-days-of-hegel/)
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 07:00:54](https://news.ycombinator.com/item?id=40129297) - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
-* [2024-04-23, 06:56:49](https://news.ycombinator.com/item?id=40129276) - [Web Game Engines and Libraries](https://www.webgamedev.com/engines-libraries/web-game-engines-libraries)
 * [2024-04-23, 06:36:22](https://news.ycombinator.com/item?id=40129145) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
 * [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)

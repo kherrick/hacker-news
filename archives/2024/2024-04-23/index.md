@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 13:01:39](https://news.ycombinator.com/item?id=40131479) - [Dr Jay Bhattacharya Lecture at MIT](https://www.youtube.com/watch?v=yF5G46kSKR4)
+* [2024-04-23, 12:57:23](https://news.ycombinator.com/item?id=40131434) - [Show HN: I made a tool to easily compare pricing of developer tools and services](https://doesitscale.dev)
 * [2024-04-23, 12:01:40](https://news.ycombinator.com/item?id=40130930) - [Mass use of guided bombs driving Russian advances, says Ukraine](https://www.theguardian.com/world/2024/apr/11/mass-use-of-guided-bombs-driving-russian-advances-says-ukraine)
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
 * [2024-04-23, 11:44:46](https://news.ycombinator.com/item?id=40130768) - [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
