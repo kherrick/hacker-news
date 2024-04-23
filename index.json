@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-04-23, 02:40:07",
-      "https://news.ycombinator.com/item?id=40127890"
-    ],
-    [
-      "Alienating Tesla Buyers by the Cybertruck-Load",
-      "https://ritholtz.com/2024/04/alienating-tesla-buyers/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 02:33:13",
-      "https://news.ycombinator.com/item?id=40127857"
-    ],
-    [
-      "OpenAI Japan",
-      "https://openai.com/blog/introducing-openai-japan"
-    ]
-  ],
-  [
-    [
       "2024-04-23, 02:21:52",
       "https://news.ycombinator.com/item?id=40127806"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-04-22, 15:01:59",
+      "https://news.ycombinator.com/item?id=40115083"
+    ],
+    [
+      "An Exploration of SBCL Internals (2020)",
+      "https://simonsafar.com/2020/sbcl/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 14:51:35",
       "https://news.ycombinator.com/item?id=40114961"
     ],
@@ -287,6 +277,16 @@
     [
       "The problem with invariants is that they change over time",
       "https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 23:21:57",
+      "https://news.ycombinator.com/item?id=40110072"
+    ],
+    [
+      "Show HN: Metashade – a Pythonic GPU shading/compute EDSL",
+      "https://github.com/ppenenko/metashade"
     ]
   ],
   [
