@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 13:24:22](https://news.ycombinator.com/item?id=40131702) - [Tesla has lowest maintenance and repair cost of any brand](https://electrek.co/2024/04/22/tesla-lowest-maintenance-repair-cost-any-brand/)
 * [2024-04-23, 13:01:39](https://news.ycombinator.com/item?id=40131479) - [Dr Jay Bhattacharya Lecture at MIT](https://www.youtube.com/watch?v=yF5G46kSKR4)
 * [2024-04-23, 12:57:23](https://news.ycombinator.com/item?id=40131434) - [Show HN: I made a tool to easily compare pricing of developer tools and services](https://doesitscale.dev)
 * [2024-04-23, 12:01:40](https://news.ycombinator.com/item?id=40130930) - [Mass use of guided bombs driving Russian advances, says Ukraine](https://www.theguardian.com/world/2024/apr/11/mass-use-of-guided-bombs-driving-russian-advances-says-ukraine)

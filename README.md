@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-23, 13:01:39](https://news.ycombinator.com/item?id=40131479) - [Dr Jay Bhattacharya Lecture at MIT](https://www.youtube.com/watch?v=yF5G46kSKR4)
+* [2024-04-23, 13:24:22](https://news.ycombinator.com/item?id=40131702) - [Tesla has lowest maintenance and repair cost of any brand](https://electrek.co/2024/04/22/tesla-lowest-maintenance-repair-cost-any-brand/)
 * [2024-04-23, 12:57:23](https://news.ycombinator.com/item?id=40131434) - [Show HN: I made a tool to easily compare pricing of developer tools and services](https://doesitscale.dev)
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
 * [2024-04-23, 11:31:29](https://news.ycombinator.com/item?id=40130665) - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
@@ -27,9 +27,9 @@
 * [2024-04-22, 07:13:41](https://news.ycombinator.com/item?id=40112045) - [And There Was Digitron](https://www.retrobit-izlozba-digitrona.com/digitron-and-buje/and-there-was-digitron)
 * [2024-04-22, 07:00:36](https://news.ycombinator.com/item?id=40112002) - [Changelog-Driven Releases](https://mathieularose.com/changelog-driven-releases)
 * [2024-04-22, 06:41:38](https://news.ycombinator.com/item?id=40111916) - [Petoi Bittle – a programmable robot dog](https://www.petoi.com/products/petoi-bittle-robot-dog)
+* [2024-04-22, 06:38:23](https://news.ycombinator.com/item?id=40111898) - [Autism makes travel a challenge. Here’s how I learned to cope](https://www.theguardian.com/travel/2024/apr/22/autism-makes-travel-a-challenge-heres-how-i-learned-to-cope)
 * [2024-04-22, 05:18:17](https://news.ycombinator.com/item?id=40111581) - [The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
 * [2024-04-22, 04:27:00](https://news.ycombinator.com/item?id=40111404) - [The Moon brings a wild but precarious fish orgy to California's beaches](https://www.bbc.com/future/article/20240419-californias-beaches-are-home-to-wild-fish-orgies-during-the-grunion-run)
-* [2024-04-21, 10:40:48](https://news.ycombinator.com/item?id=40104586) - [The Copier Wars: Fair Use's Rude Awakening](https://newart.press/p/the-copier-wars-fair-uses-rude-awakening)
 
 ## [Archives](archives/index.md)
 
