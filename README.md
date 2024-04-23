@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-23, 21:41:31](https://news.ycombinator.com/item?id=40137671) - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
+* [2024-04-23, 22:27:15](https://news.ycombinator.com/item?id=40138090) - [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
 * [2024-04-23, 21:01:02](https://news.ycombinator.com/item?id=40137201) - [Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
 * [2024-04-23, 20:42:53](https://news.ycombinator.com/item?id=40137027) - [Ask HN: How to improve PCB prototyping iteration time?](https://news.ycombinator.com/item?id=40137027)
 * [2024-04-23, 19:50:45](https://news.ycombinator.com/item?id=40136440) - [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
@@ -10,7 +10,6 @@
 * [2024-04-23, 19:11:10](https://news.ycombinator.com/item?id=40135942) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 18:18:42](https://news.ycombinator.com/item?id=40135250) - [Rabbit R1 source code [part 1]](https://github.com/rabbitscam/rabbitr1)
 * [2024-04-23, 17:54:52](https://news.ycombinator.com/item?id=40134921) - [Apple's risky bet on CarPlay](https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/)
-* [2024-04-23, 17:00:15](https://news.ycombinator.com/item?id=40134200) - [Fallout1-ce: Fallout for modern operating systems](https://github.com/alexbatalov/fallout1-ce)
 * [2024-04-23, 16:43:59](https://news.ycombinator.com/item?id=40133976) - [The man who killed Google Search?](https://www.wheresyoured.at/the-men-who-killed-google/)
 * [2024-04-23, 16:25:41](https://news.ycombinator.com/item?id=40133782) - [Generative A.I. arrives in the gene editing world of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
 * [2024-04-23, 14:58:23](https://news.ycombinator.com/item?id=40132719) - [Reverse engineering a software crack](https://twitter.com/gf_256/status/1782656618015904103)
@@ -24,6 +23,7 @@
 * [2024-04-23, 10:22:15](https://news.ycombinator.com/item?id=40130304) - [Show HN: Balancing game for the mobile browser with increasing difficulty](https://www.balanc3dgame.com/)
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 09:20:52](https://news.ycombinator.com/item?id=40130068) - [HCL: Toolkit for Structured Configuration Languages](https://github.com/hashicorp/hcl)
+* [2024-04-23, 06:48:32](https://news.ycombinator.com/item?id=40129225) - [Ask HN: How does deploying a fine-tuned model work](https://news.ycombinator.com/item?id=40129225)
 * [2024-04-23, 04:54:26](https://news.ycombinator.com/item?id=40128645) - [Carl Sagan, nuking the moon, and not nuking the moon](https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/)
 * [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 00:20:52](https://news.ycombinator.com/item?id=40127124) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)

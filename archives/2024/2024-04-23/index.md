@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 22:27:15](https://news.ycombinator.com/item?id=40138090) - [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
 * [2024-04-23, 22:16:16](https://news.ycombinator.com/item?id=40138013) - [FTC Bans Noncompete Agreements That Restrict Job Switching](https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187)
 * [2024-04-23, 21:52:33](https://news.ycombinator.com/item?id=40137780) - [Arizona Church Reaches Settlement with Federal Agencies to Use Ayahuasca](https://chacruna.net/the-church-of-the-eagle-and-the-condor-reaches-a-settlement-with-federal-agencies-affirming-the-religious-right-to-use-ayahuasca/)
 * [2024-04-23, 21:41:31](https://news.ycombinator.com/item?id=40137671) - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
@@ -104,6 +105,7 @@
 * [2024-04-23, 07:00:54](https://news.ycombinator.com/item?id=40129297) - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
 * [2024-04-23, 06:56:49](https://news.ycombinator.com/item?id=40129276) - [Web Game Engines and Libraries](https://www.webgamedev.com/engines-libraries/web-game-engines-libraries)
 * [2024-04-23, 06:53:01](https://news.ycombinator.com/item?id=40129259) - [It's the End of the Web as We Know It](https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)
+* [2024-04-23, 06:48:32](https://news.ycombinator.com/item?id=40129225) - [Ask HN: How does deploying a fine-tuned model work](https://news.ycombinator.com/item?id=40129225)
 * [2024-04-23, 06:48:22](https://news.ycombinator.com/item?id=40129222) - [The Feminist Botanist](https://nautil.us/the-feminist-botanist-554103/)
 * [2024-04-23, 06:36:22](https://news.ycombinator.com/item?id=40129145) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
 * [2024-04-23, 06:15:15](https://news.ycombinator.com/item?id=40129025) - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
