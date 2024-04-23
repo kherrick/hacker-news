@@ -100,6 +100,7 @@
 * [2024-04-20, 06:23:34](https://news.ycombinator.com/item?id=40095257) - [h5ai – modern HTTP web server index](https://larsjung.de/h5ai/)
 * [2024-04-20, 06:11:55](https://news.ycombinator.com/item?id=40095217) - [Children Need Neighborhoods Where They Can Walk and Bike](https://www.wsj.com/health/wellness/children-need-neighborhoods-where-they-can-walk-and-bike-5f3a9b4a)
 * [2024-04-20, 06:03:21](https://news.ycombinator.com/item?id=40095189) - [Volkswagen workers vote overwhelmingly to join the UAW](https://www.cnn.com/2024/04/19/business/volkswagen-uaw-vote/index.html)
+* [2024-04-20, 05:44:14](https://news.ycombinator.com/item?id=40095121) - [Eurisko Lives](https://blog.funcall.org//lisp/2024/03/22/eurisko-lives/)
 * [2024-04-20, 05:35:51](https://news.ycombinator.com/item?id=40095077) - [A new look at the original Romantic heartthrob, Lord Byron](https://www.washingtonpost.com/books/2024/04/18/new-look-original-romanic-heartthrob-lord-byron/)
 * [2024-04-20, 05:34:56](https://news.ycombinator.com/item?id=40095070) - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
 * [2024-04-20, 05:28:49](https://news.ycombinator.com/item?id=40095041) - [Show HN: Compiled list of notification infrastructure APIs for developers](https://github.com/kevin9985/notification-infrastructure-providers)

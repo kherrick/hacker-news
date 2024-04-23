@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 02:40:07](https://news.ycombinator.com/item?id=40127890) - [Alienating Tesla Buyers by the Cybertruck-Load](https://ritholtz.com/2024/04/alienating-tesla-buyers/)
 * [2024-04-23, 02:33:13](https://news.ycombinator.com/item?id=40127857) - [OpenAI Japan](https://openai.com/blog/introducing-openai-japan)
 * [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Microsoft Launches Phi-3](https://arxiv.org/abs/2404.14219)
 * [2024-04-23, 01:32:26](https://news.ycombinator.com/item?id=40127515) - [Public Library Is Reducing Our Maximum Digital Holds. Here's Why](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
