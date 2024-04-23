@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 17:37:36](https://news.ycombinator.com/item?id=40134716) - [Apple Cuts Vision Pro Shipments as Demand Falls 'Sharply Beyond Expectations'](https://www.macrumors.com/2024/04/23/apple-cuts-vision-pro-shipments/)
 * [2024-04-23, 17:01:00](https://news.ycombinator.com/item?id=40134210) - [Taiki (YC W24) Is Hiring a Software Engineer Intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
 * [2024-04-23, 17:00:36](https://news.ycombinator.com/item?id=40134204) - [U.S. Debt Interest Payments Reach $1T](https://www.visualcapitalist.com/u-s-debt-interest-payments-reach-1-trillion/)
 * [2024-04-23, 16:43:59](https://news.ycombinator.com/item?id=40133976) - [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
@@ -33,6 +34,7 @@
 * [2024-04-23, 13:48:43](https://news.ycombinator.com/item?id=40131934) - [Young people benefit from Swiss apprenticeships](https://www.nature.com/articles/d41586-024-01102-8)
 * [2024-04-23, 13:46:05](https://news.ycombinator.com/item?id=40131908) - [C isn't a hangover and Rust isn't a cure](https://scribe.rip/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 * [2024-04-23, 13:24:22](https://news.ycombinator.com/item?id=40131702) - [Tesla has lowest maintenance and repair cost of any brand](https://electrek.co/2024/04/22/tesla-lowest-maintenance-repair-cost-any-brand/)
+* [2024-04-23, 13:21:14](https://news.ycombinator.com/item?id=40131674) - [Mathematicians Marvel at 'Crazy' Cuts Through Four Dimensions](https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/)
 * [2024-04-23, 13:14:22](https://news.ycombinator.com/item?id=40131597) - [AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life](https://news.ycombinator.com/item?id=40131597)
 * [2024-04-23, 13:09:55](https://news.ycombinator.com/item?id=40131549) - [VSCode Essentials eBook](https://microsoft.github.io/vscode-essentials/en/01-getting-started.html)
 * [2024-04-23, 13:01:39](https://news.ycombinator.com/item?id=40131479) - [Dr Jay Bhattacharya Lecture at MIT](https://www.youtube.com/watch?v=yF5G46kSKR4)
