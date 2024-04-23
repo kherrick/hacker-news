@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-23, 11:20:01",
+      "https://news.ycombinator.com/item?id=40130570"
+    ],
+    [
+      "Segal's Law",
+      "https://en.wikipedia.org/wiki/Segal%27s_law"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 10:42:04",
+      "https://news.ycombinator.com/item?id=40130371"
+    ],
+    [
+      "Memory-mapped IO registers in Zig. (2021)",
+      "https://www.scattered-thoughts.net/writing/mmio-in-zig/"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 10:28:48",
       "https://news.ycombinator.com/item?id=40130328"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-04-23, 00:27:02",
-      "https://news.ycombinator.com/item?id=40127162"
-    ],
-    [
-      "Using Your Vector Database as a JSON (Or Relational) Datastore",
-      "https://zilliz.com/blog/using-your-vector-database-as-JSON-or-relational-datastore"
-    ]
-  ],
-  [
-    [
       "2024-04-23, 00:20:52",
       "https://news.ycombinator.com/item?id=40127124"
     ],
@@ -157,16 +167,6 @@
     [
       "HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI",
       "https://www.franken-ui.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 21:32:30",
-      "https://news.ycombinator.com/item?id=40121318"
-    ],
-    [
-      "Dify, a visual workflow to build/test LLM applications",
-      "https://github.com/langgenius/dify"
     ]
   ],
   [
