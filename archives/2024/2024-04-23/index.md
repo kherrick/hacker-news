@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
 * [2024-04-23, 07:00:54](https://news.ycombinator.com/item?id=40129297) - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
+* [2024-04-23, 06:56:49](https://news.ycombinator.com/item?id=40129276) - [Web Game Engines and Libraries](https://www.webgamedev.com/engines-libraries/web-game-engines-libraries)
 * [2024-04-23, 06:53:01](https://news.ycombinator.com/item?id=40129259) - [It's the End of the Web as We Know It](https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)
 * [2024-04-23, 06:36:22](https://news.ycombinator.com/item?id=40129145) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
 * [2024-04-23, 06:15:15](https://news.ycombinator.com/item?id=40129025) - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
