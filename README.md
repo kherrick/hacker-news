@@ -8,6 +8,7 @@
 * [2024-04-23, 01:11:05](https://news.ycombinator.com/item?id=40127396) - [Intro to \"Ideologies of AI and the consolidation of power\": Naming power](https://firstmonday.org/ojs/index.php/fm/article/view/13643)
 * [2024-04-23, 00:36:35](https://news.ycombinator.com/item?id=40127218) - [Carapace: A multi-shell completion library and binary](https://carapace.sh/)
 * [2024-04-23, 00:29:01](https://news.ycombinator.com/item?id=40127173) - [Future of Food: This Company Just Opened the First \"Air Protein\" Factory](https://www.speciesunite.com/news-stories/future-of-food-this-company-just-opened-the-worlds-first-air-protein-factory)
+* [2024-04-23, 00:27:02](https://news.ycombinator.com/item?id=40127162) - [Using Your Vector Database as a JSON (Or Relational) Datastore](https://zilliz.com/blog/using-your-vector-database-as-JSON-or-relational-datastore)
 * [2024-04-22, 23:52:32](https://news.ycombinator.com/item?id=40126935) - [Modal is a matrioshka language based on pattern-matching to rewrite trees](https://wiki.xxiivv.com/site/modal)
 * [2024-04-22, 23:38:43](https://news.ycombinator.com/item?id=40126751) - [Krazam OS](https://www.krazam.tv/)
 * [2024-04-22, 23:04:59](https://news.ycombinator.com/item?id=40124682) - [Cubic Life: Conway's Game of Life in 3D](https://github.com/ms0g/cubicLife)
@@ -28,7 +29,6 @@
 * [2024-04-22, 13:54:13](https://news.ycombinator.com/item?id=40114403) - [Espressif Acquires Majority Stake in M5Stack](https://www.espressif.com/en/news/Espressif_Acquires_M5Stack)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
-* [2024-04-21, 23:21:57](https://news.ycombinator.com/item?id=40110072) - [Show HN: Metashade – a Pythonic GPU shading/compute EDSL](https://github.com/ppenenko/metashade)
 * [2024-04-21, 10:46:46](https://news.ycombinator.com/item?id=40104614) - [How to reenable undervolting in 2020 Dell Laptops by editing EFI variables](https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/)
 
 ## [Archives](archives/index.md)
