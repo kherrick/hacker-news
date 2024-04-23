@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 14:52:12](https://news.ycombinator.com/item?id=40132648) - [Phi-3 Weights Released](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
+* [2024-04-23, 14:45:43](https://news.ycombinator.com/item?id=40132569) - [College students should study more](https://www.slowboring.com/p/college-students-should-study-more)
+* [2024-04-23, 14:26:26](https://news.ycombinator.com/item?id=40132373) - [Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
 * [2024-04-23, 14:25:20](https://news.ycombinator.com/item?id=40132360) - [Framework Series A-1](https://frame.work/blog/frameworks-series-a-1-and-community-participation)
 * [2024-04-23, 14:12:20](https://news.ycombinator.com/item?id=40132229) - [Lawmakers Are Kicking Warrantless Wiretapping into Overdrive](https://gizmodo.com/lawmakers-are-kicking-warrantless-wiretapping-into-over-1851417659)
 * [2024-04-23, 14:02:25](https://news.ycombinator.com/item?id=40132101) - [Fedora Linux 40](https://fedoramagazine.org/announcing-fedora-linux-40/)
@@ -19,6 +22,7 @@
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
 * [2024-04-23, 11:53:13](https://news.ycombinator.com/item?id=40130848) - [Windows vulnerability reported by the NSA exploited to install Russian malware](https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/)
 * [2024-04-23, 11:44:46](https://news.ycombinator.com/item?id=40130768) - [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
+* [2024-04-23, 11:34:07](https://news.ycombinator.com/item?id=40130684) - [Why you can't get a restaurant reservation](https://www.newyorker.com/news/our-local-correspondents/why-you-cant-get-a-restaurant-reservation)
 * [2024-04-23, 11:31:29](https://news.ycombinator.com/item?id=40130665) - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
 * [2024-04-23, 11:20:01](https://news.ycombinator.com/item?id=40130570) - [Segal's Law](https://en.wikipedia.org/wiki/Segal%27s_law)
 * [2024-04-23, 11:16:04](https://news.ycombinator.com/item?id=40130542) - [Akaunting is free, open-source online accounting software for small businesses](https://akaunting.com)
