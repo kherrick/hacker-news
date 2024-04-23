@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 17:54:52](https://news.ycombinator.com/item?id=40134921) - [Apple's Risky Bet on CarPlay](https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/)
 * [2024-04-23, 17:37:36](https://news.ycombinator.com/item?id=40134716) - [Apple Cuts Vision Pro Shipments as Demand Falls 'Sharply Beyond Expectations'](https://www.macrumors.com/2024/04/23/apple-cuts-vision-pro-shipments/)
 * [2024-04-23, 17:01:00](https://news.ycombinator.com/item?id=40134210) - [Taiki (YC W24) Is Hiring a Software Engineer Intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
 * [2024-04-23, 17:00:36](https://news.ycombinator.com/item?id=40134204) - [U.S. Debt Interest Payments Reach $1T](https://www.visualcapitalist.com/u-s-debt-interest-payments-reach-1-trillion/)
+* [2024-04-23, 17:00:15](https://news.ycombinator.com/item?id=40134200) - [Fallout1-ce: Fallout for modern operating systems](https://github.com/alexbatalov/fallout1-ce)
 * [2024-04-23, 16:43:59](https://news.ycombinator.com/item?id=40133976) - [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
 * [2024-04-23, 16:38:00](https://news.ycombinator.com/item?id=40133913) - [Grindr Sued in UK for Sharing Users' HIV Data with Ad Firms](https://www.msn.com/en-us/money/other/grindr-sued-in-uk-for-sharing-users-hiv-data-with-ad-firms/ar-AA1nsf03)
 * [2024-04-23, 16:25:41](https://news.ycombinator.com/item?id=40133782) - [Generative A.I. Arrives in the Gene Editing World of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
