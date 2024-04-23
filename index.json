@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-23, 14:45:43",
-      "https://news.ycombinator.com/item?id=40132569"
+      "2024-04-23, 15:26:51",
+      "https://news.ycombinator.com/item?id=40133023"
     ],
     [
-      "College students should study more",
-      "https://www.slowboring.com/p/college-students-should-study-more"
+      "Half of Americans say Public K-12 Education is Going In The Wrong Direction",
+      "https://www.pewresearch.org/short-reads/2024/04/04/about-half-of-americans-say-public-k-12-education-is-going-in-the-wrong-direction/"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 14:41:05",
+      "https://news.ycombinator.com/item?id=40132517"
+    ],
+    [
+      "Bloom Filter Indexes in PostgreSQL",
+      "https://www.postgresql.org/docs/current/bloom.html"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Young people benefit from Swiss apprenticeships",
       "https://www.nature.com/articles/d41586-024-01102-8"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 13:46:05",
-      "https://news.ycombinator.com/item?id=40131908"
-    ],
-    [
-      "C isn't a hangover and Rust isn't a cure",
-      "https://scribe.rip/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-04-22, 22:18:42",
-      "https://news.ycombinator.com/item?id=40122999"
-    ],
-    [
-      "HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI",
-      "https://www.franken-ui.dev/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 20:36:41",
       "https://news.ycombinator.com/item?id=40119958"
     ],
@@ -237,6 +227,16 @@
     [
       "The Beautiful Islands of San Serriffe (2016)",
       "https://realdougwilson.com/writing/san-serriffe"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 08:23:33",
+      "https://news.ycombinator.com/item?id=40112371"
+    ],
+    [
+      "How Amazon Became the Largest Private EV Charging Operator in the US",
+      "https://www.bloomberg.com/news/articles/2024-04-15/amazon-electric-vans-powered-by-17-000-ev-chargers"
     ]
   ],
   [
