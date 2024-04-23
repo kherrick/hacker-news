@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-23, 05:28:32",
+      "https://news.ycombinator.com/item?id=40128798"
+    ],
+    [
+      "Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles",
+      "https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 03:50:46",
       "https://news.ycombinator.com/item?id=40128285"
     ],
@@ -47,16 +57,6 @@
     [
       "Ask HN: How to manage phones and PCs for elderly parents?",
       "https://news.ycombinator.com/item?id=40127400"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 01:11:05",
-      "https://news.ycombinator.com/item?id=40127396"
-    ],
-    [
-      "Intro to \"Ideologies of AI and the consolidation of power\": Naming power",
-      "https://firstmonday.org/ojs/index.php/fm/article/view/13643"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-04-22, 17:28:22",
+      "https://news.ycombinator.com/item?id=40116602"
+    ],
+    [
+      "The dangers of single line regular expressions",
+      "https://greg.molnar.io/blog/the-dangers-of-single-line-regular-expressions/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 16:43:57",
       "https://news.ycombinator.com/item?id=40116078"
     ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2024-04-22, 15:10:00",
-      "https://news.ycombinator.com/item?id=40115155"
-    ],
-    [
-      "Parquet-WASM: Rust-based WebAssembly bindings to read and write Parquet data",
-      "https://github.com/kylebarron/parquet-wasm"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 14:51:35",
-      "https://news.ycombinator.com/item?id=40114961"
-    ],
-    [
-      "JEDEC Extends DDR5 Memory Spec to 8800 MT/S, Adds Anti-Rowhammer Features",
-      "https://www.anandtech.com/show/21363/jedec-extends-ddr5-specification-to-8800-mts-adds-anti-rowhammer-features"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 14:25:59",
       "https://news.ycombinator.com/item?id=40114696"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Source Code for CSVs",
       "https://scroll.pub/blog/datasets.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 10:44:32",
+      "https://news.ycombinator.com/item?id=40113054"
+    ],
+    [
+      "Finding the First 10-digit Prime in Digits of e (2017)",
+      "https://www.hanshq.net/eprime.html"
     ]
   ],
   [
