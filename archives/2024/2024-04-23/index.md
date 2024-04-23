@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 21:01:02](https://news.ycombinator.com/item?id=40137201) - [Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
+* [2024-04-23, 20:53:56](https://news.ycombinator.com/item?id=40137138) - [Ex-Post Office boss sought 'non-emotive words' for Horizon bugs, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/23/ex-post-office-boss-paula-vennells-searched-for-non-emotive-words-to-describe-horizon-bugs-inquiry-hears)
+* [2024-04-23, 20:53:12](https://news.ycombinator.com/item?id=40137128) - [X ordered by Australian government to censor content worldwide](https://www.abc.net.au/news/2024-04-24/esafety-commissioner-x-elon-musk-in-court-over-injunction/103760572)
 * [2024-04-23, 20:47:18](https://news.ycombinator.com/item?id=40137067) - [Internet Archive in Court: There's More to Copyright Than Financial Incentives](https://torrentfreak.com/there-is-more-to-copyright-than-financial-incentives-internet-archive-argues-in-court-240423/)
+* [2024-04-23, 20:42:53](https://news.ycombinator.com/item?id=40137027) - [Ask HN: How to improve PCB prototyping iteration time?](https://news.ycombinator.com/item?id=40137027)
 * [2024-04-23, 20:38:32](https://news.ycombinator.com/item?id=40136979) - [Phi-3: Redefining what's possible with SLMs](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
 * [2024-04-23, 20:35:56](https://news.ycombinator.com/item?id=40136949) - [The Tech Bros Powering Silicon Valley's Military Fever Dream](https://www.forbes.com/sites/davidjeans/2024/04/19/gundo-bros-silicon-valley-military/)
+* [2024-04-23, 20:33:23](https://news.ycombinator.com/item?id=40136925) - [Chemical found naturally in cannabis may reduce anxiety-inducing effects of THC](https://medicalxpress.com/news/2024-04-chemical-naturally-cannabis-anxiety-effects.html)
 * [2024-04-23, 20:28:10](https://news.ycombinator.com/item?id=40136863) - [Why RISC-V is so important](https://www.xda-developers.com/heres-why-risc-v-is-important/)
 * [2024-04-23, 20:20:36](https://news.ycombinator.com/item?id=40136796) - [To Live Past 100, Mangia a Lot Less: Italian Expert's Ideas on Aging](https://www.nytimes.com/2024/03/25/world/europe/italy-aging-valter-longo.html)
 * [2024-04-23, 20:12:39](https://news.ycombinator.com/item?id=40136709) - [Tesla Q1 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q1-2024-Update.pdf)
