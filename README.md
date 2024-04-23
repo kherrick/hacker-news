@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 02:33:13](https://news.ycombinator.com/item?id=40127857) - [OpenAI Japan](https://openai.com/blog/introducing-openai-japan)
 * [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Microsoft Launches Phi-3](https://arxiv.org/abs/2404.14219)
 * [2024-04-23, 01:32:26](https://news.ycombinator.com/item?id=40127515) - [Public Library Is Reducing Our Maximum Digital Holds. Here's Why](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
 * [2024-04-23, 01:27:14](https://news.ycombinator.com/item?id=40127483) - [Hackers Broke into Change Healthcare's Systems 9 Days Before Cyberattack](https://www.wsj.com/articles/change-healthcare-hackers-broke-in-nine-days-before-ransomware-attack-7119fdc6)
@@ -25,7 +26,6 @@
 * [2024-04-22, 14:51:35](https://news.ycombinator.com/item?id=40114961) - [JEDEC Extends DDR5 Memory Spec to 8800 MT/S, Adds Anti-Rowhammer Features](https://www.anandtech.com/show/21363/jedec-extends-ddr5-specification-to-8800-mts-adds-anti-rowhammer-features)
 * [2024-04-22, 14:25:59](https://news.ycombinator.com/item?id=40114696) - [The emotional trial of clinical trials: like online dating with death risk](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
 * [2024-04-22, 13:54:13](https://news.ycombinator.com/item?id=40114403) - [Espressif Acquires Majority Stake in M5Stack](https://www.espressif.com/en/news/Espressif_Acquires_M5Stack)
-* [2024-04-22, 10:44:32](https://news.ycombinator.com/item?id=40113054) - [Finding the First 10-digit Prime in Digits of e (2017)](https://www.hanshq.net/eprime.html)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-04-21, 23:21:57](https://news.ycombinator.com/item?id=40110072) - [Show HN: Metashade – a Pythonic GPU shading/compute EDSL](https://github.com/ppenenko/metashade)
