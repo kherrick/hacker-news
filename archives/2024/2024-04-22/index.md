@@ -94,6 +94,7 @@
 * [2024-04-22, 09:16:49](https://news.ycombinator.com/item?id=40112635) - [The Beautiful Islands of San Serriffe (2016)](https://realdougwilson.com/writing/san-serriffe)
 * [2024-04-22, 08:55:48](https://news.ycombinator.com/item?id=40112544) - [AI programming tools should be added to the Joel Test](https://blog.waleson.com/2024/04/ai-programming-tools-should-be-added-to.html)
 * [2024-04-22, 08:25:22](https://news.ycombinator.com/item?id=40112383) - [Curl is just the hobby](https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/)
+* [2024-04-22, 08:23:33](https://news.ycombinator.com/item?id=40112371) - [How Amazon Became the Largest Private EV Charging Operator in the US](https://www.bloomberg.com/news/articles/2024-04-15/amazon-electric-vans-powered-by-17-000-ev-chargers)
 * [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 * [2024-04-22, 07:13:41](https://news.ycombinator.com/item?id=40112045) - [And There Was Digitron](https://www.retrobit-izlozba-digitrona.com/digitron-and-buje/and-there-was-digitron)
