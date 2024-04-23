@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-23, 12:01:40",
+      "https://news.ycombinator.com/item?id=40130930"
+    ],
+    [
+      "Mass use of guided bombs driving Russian advances, says Ukraine",
+      "https://www.theguardian.com/world/2024/apr/11/mass-use-of-guided-bombs-driving-russian-advances-says-ukraine"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 12:00:40",
+      "https://news.ycombinator.com/item?id=40130922"
+    ],
+    [
+      "1build (YC W20) Is Hiring a Marketing Lead",
+      "https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 11:44:46",
+      "https://news.ycombinator.com/item?id=40130768"
+    ],
+    [
+      "Claude 3 beats Google Translate",
+      "https://arxiv.org/abs/2404.13813"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 11:31:29",
       "https://news.ycombinator.com/item?id=40130665"
     ],
@@ -27,16 +57,6 @@
     [
       "Memory-mapped IO registers in Zig. (2021)",
       "https://www.scattered-thoughts.net/writing/mmio-in-zig/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 10:28:48",
-      "https://news.ycombinator.com/item?id=40130328"
-    ],
-    [
-      "Waymo illegal overtake into wrong-way driving",
-      "https://old.reddit.com/r/SelfDrivingCars/comments/1ca1z8m/longer_video_of_the_wrong_way_incident/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "NASA's Voyager 1 Resumes Sending Engineering Updates to Earth",
       "https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 06:15:15",
-      "https://news.ycombinator.com/item?id=40129025"
-    ],
-    [
-      "How short can Git abbreviate? (2013)",
-      "https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI",
       "https://www.franken-ui.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 21:13:51",
-      "https://news.ycombinator.com/item?id=40120846"
-    ],
-    [
-      "FPGA Architecture for Deep Learning: Survey and Future Directions",
-      "https://arxiv.org/abs/2404.10076"
     ]
   ],
   [
