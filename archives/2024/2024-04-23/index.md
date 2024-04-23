@@ -12,6 +12,8 @@
 * [2024-04-23, 14:02:25](https://news.ycombinator.com/item?id=40132101) - [Fedora Linux 40](https://fedoramagazine.org/announcing-fedora-linux-40/)
 * [2024-04-23, 13:58:00](https://news.ycombinator.com/item?id=40132048) - [North Korea is evading sanctions by animating Max and Amazon shows](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)
 * [2024-04-23, 13:49:45](https://news.ycombinator.com/item?id=40131942) - [Most dating apps sell and share users' personal data](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
+* [2024-04-23, 13:48:43](https://news.ycombinator.com/item?id=40131934) - [Young people benefit from Swiss apprenticeships](https://www.nature.com/articles/d41586-024-01102-8)
+* [2024-04-23, 13:46:05](https://news.ycombinator.com/item?id=40131908) - [C isn't a hangover and Rust isn't a cure](https://scribe.rip/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 * [2024-04-23, 13:24:22](https://news.ycombinator.com/item?id=40131702) - [Tesla has lowest maintenance and repair cost of any brand](https://electrek.co/2024/04/22/tesla-lowest-maintenance-repair-cost-any-brand/)
 * [2024-04-23, 13:14:22](https://news.ycombinator.com/item?id=40131597) - [AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life](https://news.ycombinator.com/item?id=40131597)
 * [2024-04-23, 13:09:55](https://news.ycombinator.com/item?id=40131549) - [VSCode Essentials eBook](https://microsoft.github.io/vscode-essentials/en/01-getting-started.html)
