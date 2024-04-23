@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 11:31:29](https://news.ycombinator.com/item?id=40130665) - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
 * [2024-04-23, 11:20:01](https://news.ycombinator.com/item?id=40130570) - [Segal's Law](https://en.wikipedia.org/wiki/Segal%27s_law)
 * [2024-04-23, 10:42:04](https://news.ycombinator.com/item?id=40130371) - [Memory-mapped IO registers in Zig. (2021)](https://www.scattered-thoughts.net/writing/mmio-in-zig/)
 * [2024-04-23, 10:28:48](https://news.ycombinator.com/item?id=40130328) - [Waymo illegal overtake into wrong-way driving](https://old.reddit.com/r/SelfDrivingCars/comments/1ca1z8m/longer_video_of_the_wrong_way_incident/)
