@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-23, 18:21:55](https://news.ycombinator.com/item?id=40135303) - [IBM Planning to Acquire HashiCorp](https://www.wsj.com/business/deals/ibm-nears-deal-for-cloud-software-provider-cf146448)
+* [2024-04-23, 18:46:25](https://news.ycombinator.com/item?id=40135627) - [The Death of 60/40](https://www.lynalden.com/april-2024-newsletter/)
+* [2024-04-23, 18:21:55](https://news.ycombinator.com/item?id=40135303) - [IBM nearing a buyout deal for HashiCorp, source says](https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/)
 * [2024-04-23, 18:18:42](https://news.ycombinator.com/item?id=40135250) - [Rabbit R1 source code [part 1]](https://github.com/rabbitscam/rabbitr1)
+* [2024-04-23, 17:59:44](https://news.ycombinator.com/item?id=40134986) - [Diet May Be More Important Than Exercise for Long-Term Weight Control](https://www.businessinsider.com/why-exercise-may-not-help-you-lose-weight-diet-healthy-2021-4)
+* [2024-04-23, 17:13:42](https://news.ycombinator.com/item?id=40134392) - [LLMs and the Harry Potter Problem](https://www.pyqai.com/blog/llms-and-the-harry-potter-problem)
 * [2024-04-23, 17:01:00](https://news.ycombinator.com/item?id=40134210) - [Taiki (YC W24) is hiring a software engineer intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
 * [2024-04-23, 17:00:15](https://news.ycombinator.com/item?id=40134200) - [Fallout1-ce: Fallout for modern operating systems](https://github.com/alexbatalov/fallout1-ce)
 * [2024-04-23, 16:43:59](https://news.ycombinator.com/item?id=40133976) - [The man who killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
@@ -23,11 +26,8 @@
 * [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
 * [2024-04-23, 00:20:52](https://news.ycombinator.com/item?id=40127124) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
 * [2024-04-22, 23:38:43](https://news.ycombinator.com/item?id=40126751) - [Krazam OS](https://www.krazam.tv/)
-* [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
-* [2024-04-22, 15:54:30](https://news.ycombinator.com/item?id=40115554) - [Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 09:16:49](https://news.ycombinator.com/item?id=40112635) - [The Beautiful Islands of San Serriffe (2016)](https://realdougwilson.com/writing/san-serriffe)
-* [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-04-22, 06:41:38](https://news.ycombinator.com/item?id=40111916) - [Petoi Bittle – a programmable robot dog](https://www.petoi.com/products/petoi-bittle-robot-dog)
 * [2024-04-22, 04:27:00](https://news.ycombinator.com/item?id=40111404) - [The Moon brings a wild but precarious fish orgy to California's beaches](https://www.bbc.com/future/article/20240419-californias-beaches-are-home-to-wild-fish-orgies-during-the-grunion-run)
 
