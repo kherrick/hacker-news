@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 23:26:58](https://news.ycombinator.com/item?id=40138579) - [American Flag Sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
 * [2024-04-23, 22:42:12](https://news.ycombinator.com/item?id=40138193) - [a poem about the Turing halting proof](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
 * [2024-04-23, 22:27:15](https://news.ycombinator.com/item?id=40138090) - [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
 * [2024-04-23, 22:23:38](https://news.ycombinator.com/item?id=40138073) - [Geoffrey Hinton: Open sourcing AI models akin to open sourcing nuclear weapons](https://twitter.com/ygrowthco/status/1782493076373885336)
@@ -115,6 +116,7 @@
 * [2024-04-23, 06:48:22](https://news.ycombinator.com/item?id=40129222) - [The Feminist Botanist](https://nautil.us/the-feminist-botanist-554103/)
 * [2024-04-23, 06:36:22](https://news.ycombinator.com/item?id=40129145) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
 * [2024-04-23, 06:15:15](https://news.ycombinator.com/item?id=40129025) - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
+* [2024-04-23, 05:35:25](https://news.ycombinator.com/item?id=40128837) - [Jsfxr: 8-Bit sound maker and sfx generator](https://sfxr.me/)
 * [2024-04-23, 05:28:32](https://news.ycombinator.com/item?id=40128798) - [Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles](https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2)
 * [2024-04-23, 04:54:26](https://news.ycombinator.com/item?id=40128645) - [Carl Sagan, nuking the moon, and not nuking the moon](https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/)
 * [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
