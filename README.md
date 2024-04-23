@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 19:17:07](https://news.ycombinator.com/item?id=40136010) - [FTC Announces Rule Banning Noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
 * [2024-04-23, 19:11:10](https://news.ycombinator.com/item?id=40135942) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 18:46:25](https://news.ycombinator.com/item?id=40135627) - [The death of the 60/40 portfolio](https://www.lynalden.com/april-2024-newsletter/)
 * [2024-04-23, 18:21:55](https://news.ycombinator.com/item?id=40135303) - [IBM nearing a buyout deal for HashiCorp, source says](https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/)
 * [2024-04-23, 18:18:42](https://news.ycombinator.com/item?id=40135250) - [Rabbit R1 source code [part 1]](https://github.com/rabbitscam/rabbitr1)
 * [2024-04-23, 17:59:44](https://news.ycombinator.com/item?id=40134986) - [Diet May Be More Important Than Exercise for Long-Term Weight Control](https://www.businessinsider.com/why-exercise-may-not-help-you-lose-weight-diet-healthy-2021-4)
-* [2024-04-23, 17:32:55](https://news.ycombinator.com/item?id=40134640) - [More enterprise-grade features for API customers](https://openai.com/blog/more-enterprise-grade-features-for-api-customers)
 * [2024-04-23, 17:13:42](https://news.ycombinator.com/item?id=40134392) - [LLMs and the Harry Potter problem](https://www.pyqai.com/blog/llms-and-the-harry-potter-problem)
 * [2024-04-23, 17:01:00](https://news.ycombinator.com/item?id=40134210) - [Taiki (YC W24) is hiring a software engineer intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
 * [2024-04-23, 17:00:15](https://news.ycombinator.com/item?id=40134200) - [Fallout1-ce: Fallout for modern operating systems](https://github.com/alexbatalov/fallout1-ce)
