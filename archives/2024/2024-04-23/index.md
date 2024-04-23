@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 22:42:12](https://news.ycombinator.com/item?id=40138193) - [a poem about the Turing halting proof](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
 * [2024-04-23, 22:27:15](https://news.ycombinator.com/item?id=40138090) - [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
 * [2024-04-23, 22:16:16](https://news.ycombinator.com/item?id=40138013) - [FTC Bans Noncompete Agreements That Restrict Job Switching](https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187)
 * [2024-04-23, 21:52:33](https://news.ycombinator.com/item?id=40137780) - [Arizona Church Reaches Settlement with Federal Agencies to Use Ayahuasca](https://chacruna.net/the-church-of-the-eagle-and-the-condor-reaches-a-settlement-with-federal-agencies-affirming-the-religious-right-to-use-ayahuasca/)
