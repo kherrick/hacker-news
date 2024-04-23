@@ -9,7 +9,6 @@
 * [2024-04-23, 00:27:02](https://news.ycombinator.com/item?id=40127162) - [Using Your Vector Database as a JSON (Or Relational) Datastore](https://zilliz.com/blog/using-your-vector-database-as-JSON-or-relational-datastore)
 * [2024-04-22, 23:52:32](https://news.ycombinator.com/item?id=40126935) - [Modal is a matrioshka language based on pattern-matching to rewrite trees](https://wiki.xxiivv.com/site/modal)
 * [2024-04-22, 23:38:43](https://news.ycombinator.com/item?id=40126751) - [Krazam OS](https://www.krazam.tv/)
-* [2024-04-22, 23:04:59](https://news.ycombinator.com/item?id=40124682) - [Cubic Life: Conway's Game of Life in 3D](https://github.com/ms0g/cubicLife)
 * [2024-04-22, 22:18:42](https://news.ycombinator.com/item?id=40122999) - [HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)
 * [2024-04-22, 21:32:30](https://news.ycombinator.com/item?id=40121318) - [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
 * [2024-04-22, 21:13:51](https://news.ycombinator.com/item?id=40120846) - [FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)
@@ -28,6 +27,7 @@
 * [2024-04-22, 10:44:32](https://news.ycombinator.com/item?id=40113054) - [Finding the First 10-digit Prime in Digits of e (2017)](https://www.hanshq.net/eprime.html)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
+* [2024-04-22, 05:18:17](https://news.ycombinator.com/item?id=40111581) - [The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
 * [2024-04-21, 23:21:57](https://news.ycombinator.com/item?id=40110072) - [Show HN: Metashade – a Pythonic GPU shading/compute EDSL](https://github.com/ppenenko/metashade)
 * [2024-04-21, 10:46:46](https://news.ycombinator.com/item?id=40104614) - [How to reenable undervolting in 2020 Dell Laptops by editing EFI variables](https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/)
 

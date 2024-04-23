@@ -97,6 +97,7 @@
 * [2024-04-22, 06:09:34](https://news.ycombinator.com/item?id=40111784) - [AI for Data Journalism: demonstrating what we can do with this stuff](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/)
 * [2024-04-22, 05:48:41](https://news.ycombinator.com/item?id=40111687) - ['Human intelligence': Another abominable idea from the AI industry](https://helenbeetham.substack.com/p/human-intelligence)
 * [2024-04-22, 05:25:00](https://news.ycombinator.com/item?id=40111603) - [Why you shouldn't run a BSD on a PC?](https://michal.sapka.me/bsd/why-not-bsd/)
+* [2024-04-22, 05:18:17](https://news.ycombinator.com/item?id=40111581) - [The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
 * [2024-04-22, 04:47:20](https://news.ycombinator.com/item?id=40111479) - [It's OK to feed wild birds – here are some tips for doing it the right way](https://worldsensorium.com/its-ok-to-feed-wild-birds-here-are-some-tips-for-doing-it-the-right-way/)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-22, 03:23:58](https://news.ycombinator.com/item?id=40111184) - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
