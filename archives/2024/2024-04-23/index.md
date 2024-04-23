@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 20:35:56](https://news.ycombinator.com/item?id=40136949) - [The Tech Bros Powering Silicon Valley's Military Fever Dream](https://www.forbes.com/sites/davidjeans/2024/04/19/gundo-bros-silicon-valley-military/)
+* [2024-04-23, 20:20:36](https://news.ycombinator.com/item?id=40136796) - [To Live Past 100, Mangia a Lot Less: Italian Expert's Ideas on Aging](https://www.nytimes.com/2024/03/25/world/europe/italy-aging-valter-longo.html)
 * [2024-04-23, 20:11:56](https://news.ycombinator.com/item?id=40136702) - [U.S. bans noncompete agreements for nearly all jobs](https://www.npr.org/2024/04/23/1246655366/ftc-bans-noncompete-agreements-lina-khan)
 * [2024-04-23, 20:04:37](https://news.ycombinator.com/item?id=40136629) - [Psi+ 1.5.1716 (2024-03-22) has been released – OMEMO E2EE (Latest Qt5 builds)](https://sourceforge.net/projects/psiplus/files/Windows/Personal-Builds/KukuRuzo/)
 * [2024-04-23, 20:00:38](https://news.ycombinator.com/item?id=40136587) - [Candidate hid that she's pregnant](https://www.teamblind.com/post/Candidate-hid-that-shes-pregnant-4uUZY583)
@@ -76,6 +78,7 @@
 * [2024-04-23, 10:22:09](https://news.ycombinator.com/item?id=40130302) - [The last days of my type checker for JavaScript](https://jsmonk.github.io/2024-01-29-last-days-of-hegel/)
 * [2024-04-23, 10:07:55](https://news.ycombinator.com/item?id=40130270) - [TSMC's debacle in the desert: Missed deadlines and tension among coworkers](https://restofworld.org/2024/tsmc-arizona-expansion/)
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout – WebKit](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
+* [2024-04-23, 09:20:52](https://news.ycombinator.com/item?id=40130068) - [HCL: Toolkit for Structured Configuration Languages](https://github.com/hashicorp/hcl)
 * [2024-04-23, 08:15:32](https://news.ycombinator.com/item?id=40129687) - [Apple M1 Assembly Language Hello World (2021)](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)
 * [2024-04-23, 07:11:41](https://news.ycombinator.com/item?id=40129362) - [Vision Pro Demand Dwindles as Customer Interest Dropped After Initial Hype](https://wccftech.com/vision-pro-demand-dwindles-as-customer-interest-dropped-after-initial-hype/)
 * [2024-04-23, 07:00:54](https://news.ycombinator.com/item?id=40129297) - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)

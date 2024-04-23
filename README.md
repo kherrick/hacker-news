@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-23, 20:11:56](https://news.ycombinator.com/item?id=40136702) - [U.S. bans noncompete agreements for nearly all jobs](https://www.npr.org/2024/04/23/1246655366/ftc-bans-noncompete-agreements-lina-khan)
-* [2024-04-23, 20:04:37](https://news.ycombinator.com/item?id=40136629) - [Psi+ 1.5.1716 (2024-03-22) has been released – OMEMO E2EE (Latest Qt5 builds)](https://sourceforge.net/projects/psiplus/files/Windows/Personal-Builds/KukuRuzo/)
-* [2024-04-23, 19:58:21](https://news.ycombinator.com/item?id=40136555) - [No One Can Own the Law–So Why Is Congress Extending Copyright to It?](https://www.arl.org/blog/no-one-can-own-the-law-so-why-is-congress-advancing-a-bill-to-extend-copyright-to-it/)
+* [2024-04-23, 20:35:56](https://news.ycombinator.com/item?id=40136949) - [The Tech Bros Powering Silicon Valley's Military Fever Dream](https://www.forbes.com/sites/davidjeans/2024/04/19/gundo-bros-silicon-valley-military/)
+* [2024-04-23, 20:20:36](https://news.ycombinator.com/item?id=40136796) - [To Live Past 100, Mangia a Lot Less: Italian Expert's Ideas on Aging](https://www.nytimes.com/2024/03/25/world/europe/italy-aging-valter-longo.html)
 * [2024-04-23, 19:33:21](https://news.ycombinator.com/item?id=40136208) - [Network visualization of 50k blogs and links](https://graph.henryn.ca)
 * [2024-04-23, 19:22:22](https://news.ycombinator.com/item?id=40136076) - [GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
 * [2024-04-23, 19:17:07](https://news.ycombinator.com/item?id=40136010) - [FTC announces rule banning noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
@@ -23,6 +22,7 @@
 * [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The evolution of stupidity (and octopus intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)
 * [2024-04-23, 10:22:15](https://news.ycombinator.com/item?id=40130304) - [Show HN: Balancing game for the mobile browser with increasing difficulty](https://www.balanc3dgame.com/)
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
+* [2024-04-23, 09:20:52](https://news.ycombinator.com/item?id=40130068) - [HCL: Toolkit for Structured Configuration Languages](https://github.com/hashicorp/hcl)
 * [2024-04-23, 04:54:26](https://news.ycombinator.com/item?id=40128645) - [Carl Sagan, nuking the moon, and not nuking the moon](https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/)
 * [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 00:20:52](https://news.ycombinator.com/item?id=40127124) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
