@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-23, 19:41:38",
+      "https://news.ycombinator.com/item?id=40136306"
+    ],
+    [
+      "Python Big O: Time complexities of different data structures in Python",
+      "https://www.pythonmorsels.com/time-complexities/"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 19:33:21",
       "https://news.ycombinator.com/item?id=40136208"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2024-04-23, 19:27:12",
-      "https://news.ycombinator.com/item?id=40136129"
+      "2024-04-23, 19:22:22",
+      "https://news.ycombinator.com/item?id=40136076"
     ],
     [
-      "Facebook users say 'amen' to bizarre AI-generated images of Jesus",
-      "https://www.nbcnews.com/tech/tech-news/facebook-users-say-amen-bizarre-ai-generated-images-jesus-rcna143965"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 19:26:56",
-      "https://news.ycombinator.com/item?id=40136126"
-    ],
-    [
-      "FTC Bans Noncompete Clauses That Restrict Job Switching",
-      "https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187"
+      "GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes",
+      "https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40136010"
     ],
     [
-      "FTC Announces Rule Banning Noncompetes",
+      "FTC announces rule banning noncompetes",
       "https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes"
     ]
   ],
@@ -67,6 +67,16 @@
     [
       "Rabbit R1 source code [part 1]",
       "https://github.com/rabbitscam/rabbitr1"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 17:32:55",
+      "https://news.ycombinator.com/item?id=40134640"
+    ],
+    [
+      "More enterprise-grade features for API customers",
+      "https://openai.com/blog/more-enterprise-grade-features-for-api-customers"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout",
       "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 06:48:22",
-      "https://news.ycombinator.com/item?id=40129222"
-    ],
-    [
-      "The Feminist Botanist",
-      "https://nautil.us/the-feminist-botanist-554103/"
     ]
   ],
   [
