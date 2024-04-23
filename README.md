@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-23, 05:28:32](https://news.ycombinator.com/item?id=40128798) - [Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles](https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2)
+* [2024-04-23, 06:36:22](https://news.ycombinator.com/item?id=40129145) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
+* [2024-04-23, 06:15:15](https://news.ycombinator.com/item?id=40129025) - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 * [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
 * [2024-04-23, 01:32:26](https://news.ycombinator.com/item?id=40127515) - [The Seattle Public Library is reducing maximum digital holds](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
@@ -18,7 +19,6 @@
 * [2024-04-22, 20:36:41](https://news.ycombinator.com/item?id=40119958) - [No one buys books](https://www.elysian.press/p/no-one-buys-books)
 * [2024-04-22, 18:59:50](https://news.ycombinator.com/item?id=40117599) - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
-* [2024-04-22, 17:28:22](https://news.ycombinator.com/item?id=40116602) - [The dangers of single line regular expressions](https://greg.molnar.io/blog/the-dangers-of-single-line-regular-expressions/)
 * [2024-04-22, 16:43:57](https://news.ycombinator.com/item?id=40116078) - [When will computer hardware match the human brain? (1998)](https://www.jetpress.org/volume1/moravec.htm)
 * [2024-04-22, 16:14:40](https://news.ycombinator.com/item?id=40115751) - [A 100-year-old railway Mexico hopes will rival the Panama Canal (2023)](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
 * [2024-04-22, 15:54:30](https://news.ycombinator.com/item?id=40115554) - [Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
