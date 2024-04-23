@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 15:41:47](https://news.ycombinator.com/item?id=40133216) - [After Months of Gibberish, Voyager 1 Is Communicating Well Again](https://www.scientificamerican.com/article/after-months-of-gibberish-voyager-1-is-communicating-well-again/)
 * [2024-04-23, 15:26:51](https://news.ycombinator.com/item?id=40133023) - [Half of Americans say Public K-12 Education is Going In The Wrong Direction](https://www.pewresearch.org/short-reads/2024/04/04/about-half-of-americans-say-public-k-12-education-is-going-in-the-wrong-direction/)
 * [2024-04-23, 14:52:12](https://news.ycombinator.com/item?id=40132648) - [Phi-3 Weights Released](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
 * [2024-04-23, 14:45:43](https://news.ycombinator.com/item?id=40132569) - [College students should study more](https://www.slowboring.com/p/college-students-should-study-more)
 * [2024-04-23, 14:41:05](https://news.ycombinator.com/item?id=40132517) - [Bloom Filter Indexes in PostgreSQL](https://www.postgresql.org/docs/current/bloom.html)
 * [2024-04-23, 14:26:26](https://news.ycombinator.com/item?id=40132373) - [Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
 * [2024-04-23, 14:25:20](https://news.ycombinator.com/item?id=40132360) - [Framework Series A-1](https://frame.work/blog/frameworks-series-a-1-and-community-participation)
+* [2024-04-23, 14:17:20](https://news.ycombinator.com/item?id=40132281) - [The Beautiful Dissociation of the Japanese Language](https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language)
 * [2024-04-23, 14:12:20](https://news.ycombinator.com/item?id=40132229) - [Lawmakers Are Kicking Warrantless Wiretapping into Overdrive](https://gizmodo.com/lawmakers-are-kicking-warrantless-wiretapping-into-over-1851417659)
 * [2024-04-23, 14:02:25](https://news.ycombinator.com/item?id=40132101) - [Fedora Linux 40](https://fedoramagazine.org/announcing-fedora-linux-40/)
 * [2024-04-23, 13:58:00](https://news.ycombinator.com/item?id=40132048) - [North Korea is evading sanctions by animating Max and Amazon shows](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)
