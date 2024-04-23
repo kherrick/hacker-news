@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 14:25:20](https://news.ycombinator.com/item?id=40132360) - [Framework Series A-1](https://frame.work/blog/frameworks-series-a-1-and-community-participation)
 * [2024-04-23, 14:12:20](https://news.ycombinator.com/item?id=40132229) - [Lawmakers Are Kicking Warrantless Wiretapping into Overdrive](https://gizmodo.com/lawmakers-are-kicking-warrantless-wiretapping-into-over-1851417659)
 * [2024-04-23, 13:49:45](https://news.ycombinator.com/item?id=40131942) - [Most dating apps sell and share users' personal data](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
 * [2024-04-23, 13:14:22](https://news.ycombinator.com/item?id=40131597) - [AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life](https://news.ycombinator.com/item?id=40131597)
@@ -20,15 +21,14 @@
 * [2024-04-22, 20:36:41](https://news.ycombinator.com/item?id=40119958) - [No one buys books](https://www.elysian.press/p/no-one-buys-books)
 * [2024-04-22, 17:32:44](https://news.ycombinator.com/item?id=40116644) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 15:54:30](https://news.ycombinator.com/item?id=40115554) - [Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
+* [2024-04-22, 10:53:44](https://news.ycombinator.com/item?id=40113092) - [FAA now requires reentry vehicles to get licensed before launch](https://www.theregister.com/2024/04/22/faa_now_requires_reentry_vehicles/)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 09:16:49](https://news.ycombinator.com/item?id=40112635) - [The Beautiful Islands of San Serriffe (2016)](https://realdougwilson.com/writing/san-serriffe)
 * [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
-* [2024-04-22, 07:13:41](https://news.ycombinator.com/item?id=40112045) - [And There Was Digitron](https://www.retrobit-izlozba-digitrona.com/digitron-and-buje/and-there-was-digitron)
 * [2024-04-22, 06:41:38](https://news.ycombinator.com/item?id=40111916) - [Petoi Bittle – a programmable robot dog](https://www.petoi.com/products/petoi-bittle-robot-dog)
 * [2024-04-22, 06:38:23](https://news.ycombinator.com/item?id=40111898) - [Autism makes travel a challenge. Here’s how I learned to cope](https://www.theguardian.com/travel/2024/apr/22/autism-makes-travel-a-challenge-heres-how-i-learned-to-cope)
 * [2024-04-22, 05:18:17](https://news.ycombinator.com/item?id=40111581) - [The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
 * [2024-04-22, 04:27:00](https://news.ycombinator.com/item?id=40111404) - [The Moon brings a wild but precarious fish orgy to California's beaches](https://www.bbc.com/future/article/20240419-californias-beaches-are-home-to-wild-fish-orgies-during-the-grunion-run)
-* [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-21, 10:40:48](https://news.ycombinator.com/item?id=40104586) - [The Copier Wars: Fair Use's Rude Awakening](https://newart.press/p/the-copier-wars-fair-uses-rude-awakening)
 
 ## [Archives](archives/index.md)

@@ -86,6 +86,7 @@
 * [2024-04-22, 11:09:01](https://news.ycombinator.com/item?id=40113186) - [AMD: Additional Parts of the Radeon Stack to Be Open Sourced Throughout the Year](https://www.phoronix.com/news/AMD-More-OSS-2024)
 * [2024-04-22, 11:07:16](https://news.ycombinator.com/item?id=40113174) - [A Million Years Without a Megaslide](https://eos.org/research-spotlights/a-million-years-without-a-megaslide)
 * [2024-04-22, 10:57:10](https://news.ycombinator.com/item?id=40113110) - [Rarest, strangest, form of Windows saved techie from moment of security madness](https://www.theregister.com/2024/04/22/who_me/)
+* [2024-04-22, 10:53:44](https://news.ycombinator.com/item?id=40113092) - [FAA now requires reentry vehicles to get licensed before launch](https://www.theregister.com/2024/04/22/faa_now_requires_reentry_vehicles/)
 * [2024-04-22, 10:44:32](https://news.ycombinator.com/item?id=40113054) - [Finding the First 10-digit Prime in Digits of e (2017)](https://www.hanshq.net/eprime.html)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 10:26:20](https://news.ycombinator.com/item?id=40112958) - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
