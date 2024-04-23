@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 10:22:09](https://news.ycombinator.com/item?id=40130302) - [The last days of my type checker for JavaScript](https://jsmonk.github.io/2024-01-29-last-days-of-hegel/)
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout – WebKit](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 07:11:41](https://news.ycombinator.com/item?id=40129362) - [Vision Pro Demand Dwindles as Customer Interest Dropped After Initial Hype](https://wccftech.com/vision-pro-demand-dwindles-as-customer-interest-dropped-after-initial-hype/)
 * [2024-04-23, 07:00:54](https://news.ycombinator.com/item?id=40129297) - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
