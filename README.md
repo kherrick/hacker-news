@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 02:21:52](https://news.ycombinator.com/item?id=40127806) - [Microsoft Launches Phi-3](https://arxiv.org/abs/2404.14219)
 * [2024-04-23, 01:32:26](https://news.ycombinator.com/item?id=40127515) - [Public Library Is Reducing Our Maximum Digital Holds. Here's Why](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
 * [2024-04-23, 01:27:14](https://news.ycombinator.com/item?id=40127483) - [Hackers Broke into Change Healthcare's Systems 9 Days Before Cyberattack](https://www.wsj.com/articles/change-healthcare-hackers-broke-in-nine-days-before-ransomware-attack-7119fdc6)
 * [2024-04-23, 01:12:21](https://news.ycombinator.com/item?id=40127400) - [Ask HN: How to Manage Phones and PCs for Elderly Parents?](https://news.ycombinator.com/item?id=40127400)
 * [2024-04-23, 01:11:05](https://news.ycombinator.com/item?id=40127396) - [Intro to \"Ideologies of AI and the consolidation of power\": Naming power](https://firstmonday.org/ojs/index.php/fm/article/view/13643)
 * [2024-04-23, 00:36:35](https://news.ycombinator.com/item?id=40127218) - [Carapace: A multi-shell completion library and binary](https://carapace.sh/)
 * [2024-04-23, 00:29:01](https://news.ycombinator.com/item?id=40127173) - [Future of Food: This Company Just Opened the First \"Air Protein\" Factory](https://www.speciesunite.com/news-stories/future-of-food-this-company-just-opened-the-worlds-first-air-protein-factory)
-* [2024-04-23, 00:20:52](https://news.ycombinator.com/item?id=40127124) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
 * [2024-04-22, 23:52:32](https://news.ycombinator.com/item?id=40126935) - [Modal is a matrioshka language based on pattern-matching to rewrite trees](https://wiki.xxiivv.com/site/modal)
 * [2024-04-22, 23:38:43](https://news.ycombinator.com/item?id=40126751) - [Krazam OS](https://www.krazam.tv/)
 * [2024-04-22, 23:04:59](https://news.ycombinator.com/item?id=40124682) - [Cubic Life: Conway's Game of Life in 3D](https://github.com/ms0g/cubicLife)
