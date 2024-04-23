@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 10:28:48](https://news.ycombinator.com/item?id=40130328) - [Waymo illegal overtake into wrong-way driving](https://old.reddit.com/r/SelfDrivingCars/comments/1ca1z8m/longer_video_of_the_wrong_way_incident/)
+* [2024-04-23, 10:22:15](https://news.ycombinator.com/item?id=40130304) - [Show HN: 10 Level Balancing Game for the Mobile Browser w/ increasing difficulty](https://www.balanc3dgame.com/)
 * [2024-04-23, 10:22:09](https://news.ycombinator.com/item?id=40130302) - [The last days of my type checker for JavaScript](https://jsmonk.github.io/2024-01-29-last-days-of-hegel/)
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout – WebKit](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 07:11:41](https://news.ycombinator.com/item?id=40129362) - [Vision Pro Demand Dwindles as Customer Interest Dropped After Initial Hype](https://wccftech.com/vision-pro-demand-dwindles-as-customer-interest-dropped-after-initial-hype/)
