@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-23, 12:01:40](https://news.ycombinator.com/item?id=40130930) - [Mass use of guided bombs driving Russian advances, says Ukraine](https://www.theguardian.com/world/2024/apr/11/mass-use-of-guided-bombs-driving-russian-advances-says-ukraine)
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
 * [2024-04-23, 11:44:46](https://news.ycombinator.com/item?id=40130768) - [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
 * [2024-04-23, 11:31:29](https://news.ycombinator.com/item?id=40130665) - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
 * [2024-04-23, 11:20:01](https://news.ycombinator.com/item?id=40130570) - [Segal's Law](https://en.wikipedia.org/wiki/Segal%27s_law)
+* [2024-04-23, 11:16:04](https://news.ycombinator.com/item?id=40130542) - [Akaunting is free, open-source online accounting software for small businesses](https://akaunting.com)
 * [2024-04-23, 10:42:04](https://news.ycombinator.com/item?id=40130371) - [Memory-mapped IO registers in Zig. (2021)](https://www.scattered-thoughts.net/writing/mmio-in-zig/)
 * [2024-04-23, 10:22:15](https://news.ycombinator.com/item?id=40130304) - [Show HN: 10 Level Balancing Game for the Mobile Browser w/ increasing difficulty](https://www.balanc3dgame.com/)
 * [2024-04-23, 10:22:09](https://news.ycombinator.com/item?id=40130302) - [The last days of my type checker for JavaScript](https://jsmonk.github.io/2024-01-29-last-days-of-hegel/)
