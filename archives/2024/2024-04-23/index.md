@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 21:21:54](https://news.ycombinator.com/item?id=40137441) - [Thefastest.ai](https://thefastest.ai)
 * [2024-04-23, 21:01:02](https://news.ycombinator.com/item?id=40137201) - [Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
 * [2024-04-23, 20:53:56](https://news.ycombinator.com/item?id=40137138) - [Ex-Post Office boss sought 'non-emotive words' for Horizon bugs, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/23/ex-post-office-boss-paula-vennells-searched-for-non-emotive-words-to-describe-horizon-bugs-inquiry-hears)
 * [2024-04-23, 20:53:12](https://news.ycombinator.com/item?id=40137128) - [X ordered by Australian government to censor content worldwide](https://www.abc.net.au/news/2024-04-24/esafety-commissioner-x-elon-musk-in-court-over-injunction/103760572)
@@ -90,6 +91,7 @@
 * [2024-04-23, 10:22:15](https://news.ycombinator.com/item?id=40130304) - [Show HN: 10 Level Balancing Game for the Mobile Browser w/ increasing difficulty](https://www.balanc3dgame.com/)
 * [2024-04-23, 10:22:09](https://news.ycombinator.com/item?id=40130302) - [The last days of my type checker for JavaScript](https://jsmonk.github.io/2024-01-29-last-days-of-hegel/)
 * [2024-04-23, 10:07:55](https://news.ycombinator.com/item?id=40130270) - [TSMC's debacle in the desert: Missed deadlines and tension among coworkers](https://restofworld.org/2024/tsmc-arizona-expansion/)
+* [2024-04-23, 10:01:02](https://news.ycombinator.com/item?id=40130230) - [Tiny11 Builder trims Windows 11 fat with PowerShell script](https://www.theregister.com/2024/04/22/tiny11_builder_update/)
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout – WebKit](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 09:20:52](https://news.ycombinator.com/item?id=40130068) - [HCL: Toolkit for Structured Configuration Languages](https://github.com/hashicorp/hcl)
 * [2024-04-23, 08:15:32](https://news.ycombinator.com/item?id=40129687) - [Apple M1 Assembly Language Hello World (2021)](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)

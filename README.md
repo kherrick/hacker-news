@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-23, 21:21:54](https://news.ycombinator.com/item?id=40137441) - [Thefastest.ai](https://thefastest.ai)
 * [2024-04-23, 21:01:02](https://news.ycombinator.com/item?id=40137201) - [Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
 * [2024-04-23, 20:42:53](https://news.ycombinator.com/item?id=40137027) - [Ask HN: How to improve PCB prototyping iteration time?](https://news.ycombinator.com/item?id=40137027)
 * [2024-04-23, 19:50:45](https://news.ycombinator.com/item?id=40136440) - [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
@@ -10,7 +11,6 @@
 * [2024-04-23, 18:18:42](https://news.ycombinator.com/item?id=40135250) - [Rabbit R1 source code [part 1]](https://github.com/rabbitscam/rabbitr1)
 * [2024-04-23, 17:00:15](https://news.ycombinator.com/item?id=40134200) - [Fallout1-ce: Fallout for modern operating systems](https://github.com/alexbatalov/fallout1-ce)
 * [2024-04-23, 16:43:59](https://news.ycombinator.com/item?id=40133976) - [The man who killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
-* [2024-04-23, 16:25:41](https://news.ycombinator.com/item?id=40133782) - [Generative A.I. arrives in the gene editing world of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
 * [2024-04-23, 14:58:23](https://news.ycombinator.com/item?id=40132719) - [Reverse engineering a software crack](https://twitter.com/gf_256/status/1782656618015904103)
 * [2024-04-23, 14:45:33](https://news.ycombinator.com/item?id=40132566) - [The 40-Year-Old Cable Modem (a NABU network modem teardown) [video]](https://www.youtube.com/watch?v=8IflOWH8fzY)
 * [2024-04-23, 14:31:12](https://news.ycombinator.com/item?id=40132424) - [Show HN: Hashquery, a Python library for defining reusable analysis](https://hashquery.dev/)
@@ -21,6 +21,7 @@
 * [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 * [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The evolution of stupidity (and octopus intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)
 * [2024-04-23, 10:22:15](https://news.ycombinator.com/item?id=40130304) - [Show HN: Balancing game for the mobile browser with increasing difficulty](https://www.balanc3dgame.com/)
+* [2024-04-23, 10:01:02](https://news.ycombinator.com/item?id=40130230) - [Tiny11 Builder trims Windows 11 fat with PowerShell script](https://www.theregister.com/2024/04/22/tiny11_builder_update/)
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 09:20:52](https://news.ycombinator.com/item?id=40130068) - [HCL: Toolkit for Structured Configuration Languages](https://github.com/hashicorp/hcl)
 * [2024-04-23, 04:54:26](https://news.ycombinator.com/item?id=40128645) - [Carl Sagan, nuking the moon, and not nuking the moon](https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/)
@@ -29,7 +30,6 @@
 * [2024-04-22, 23:38:43](https://news.ycombinator.com/item?id=40126751) - [Krazam OS](https://www.krazam.tv/)
 * [2024-04-22, 12:11:02](https://news.ycombinator.com/item?id=40113575) - [A Photographer Captured His Spectacular Dream Eclipse Photo](https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/)
 * [2024-04-22, 09:16:49](https://news.ycombinator.com/item?id=40112635) - [The Beautiful Islands of San Serriffe (2016)](https://realdougwilson.com/writing/san-serriffe)
-* [2024-04-22, 04:27:00](https://news.ycombinator.com/item?id=40111404) - [The Moon brings a wild but precarious fish orgy to California's beaches](https://www.bbc.com/future/article/20240419-californias-beaches-are-home-to-wild-fish-orgies-during-the-grunion-run)
 
 ## [Archives](archives/index.md)
 
