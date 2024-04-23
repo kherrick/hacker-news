@@ -42,6 +42,7 @@
 * [2024-04-23, 17:00:15](https://news.ycombinator.com/item?id=40134200) - [Fallout1-ce: Fallout for modern operating systems](https://github.com/alexbatalov/fallout1-ce)
 * [2024-04-23, 16:43:59](https://news.ycombinator.com/item?id=40133976) - [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
 * [2024-04-23, 16:38:00](https://news.ycombinator.com/item?id=40133913) - [Grindr Sued in UK for Sharing Users' HIV Data with Ad Firms](https://www.msn.com/en-us/money/other/grindr-sued-in-uk-for-sharing-users-hiv-data-with-ad-firms/ar-AA1nsf03)
+* [2024-04-23, 16:29:53](https://news.ycombinator.com/item?id=40133832) - [Tesla's in Its Flop Era](https://www.theverge.com/24134781/tesla-q1-2024-earnings-sales-market-share-elon-musk)
 * [2024-04-23, 16:25:41](https://news.ycombinator.com/item?id=40133782) - [Generative A.I. Arrives in the Gene Editing World of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
 * [2024-04-23, 16:17:54](https://news.ycombinator.com/item?id=40133687) - [Google fires more workers who protested its deal with Israel](https://www.washingtonpost.com/technology/2024/04/22/google-nimbus-israel-protest-fired-workers/)
 * [2024-04-23, 16:16:02](https://news.ycombinator.com/item?id=40133670) - [EU Right to repair: Making repair easier and more appealing to consumers](https://www.europarl.europa.eu/news/en/press-room/20240419IPR20590/right-to-repair-making-repair-easier-and-more-appealing-to-consumers)
