@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 20:47:18](https://news.ycombinator.com/item?id=40137067) - [Internet Archive in Court: There's More to Copyright Than Financial Incentives](https://torrentfreak.com/there-is-more-to-copyright-than-financial-incentives-internet-archive-argues-in-court-240423/)
+* [2024-04-23, 20:38:32](https://news.ycombinator.com/item?id=40136979) - [Phi-3: Redefining what's possible with SLMs](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
 * [2024-04-23, 20:35:56](https://news.ycombinator.com/item?id=40136949) - [The Tech Bros Powering Silicon Valley's Military Fever Dream](https://www.forbes.com/sites/davidjeans/2024/04/19/gundo-bros-silicon-valley-military/)
+* [2024-04-23, 20:28:10](https://news.ycombinator.com/item?id=40136863) - [Why RISC-V is so important](https://www.xda-developers.com/heres-why-risc-v-is-important/)
 * [2024-04-23, 20:20:36](https://news.ycombinator.com/item?id=40136796) - [To Live Past 100, Mangia a Lot Less: Italian Expert's Ideas on Aging](https://www.nytimes.com/2024/03/25/world/europe/italy-aging-valter-longo.html)
+* [2024-04-23, 20:12:39](https://news.ycombinator.com/item?id=40136709) - [Tesla Q1 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q1-2024-Update.pdf)
 * [2024-04-23, 20:11:56](https://news.ycombinator.com/item?id=40136702) - [U.S. bans noncompete agreements for nearly all jobs](https://www.npr.org/2024/04/23/1246655366/ftc-bans-noncompete-agreements-lina-khan)
 * [2024-04-23, 20:04:37](https://news.ycombinator.com/item?id=40136629) - [Psi+ 1.5.1716 (2024-03-22) has been released – OMEMO E2EE (Latest Qt5 builds)](https://sourceforge.net/projects/psiplus/files/Windows/Personal-Builds/KukuRuzo/)
 * [2024-04-23, 20:00:38](https://news.ycombinator.com/item?id=40136587) - [Candidate hid that she's pregnant](https://www.teamblind.com/post/Candidate-hid-that-shes-pregnant-4uUZY583)
@@ -68,6 +72,7 @@
 * [2024-04-23, 11:53:13](https://news.ycombinator.com/item?id=40130848) - [Windows vulnerability reported by the NSA exploited to install Russian malware](https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/)
 * [2024-04-23, 11:44:46](https://news.ycombinator.com/item?id=40130768) - [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
 * [2024-04-23, 11:34:07](https://news.ycombinator.com/item?id=40130684) - [Why you can't get a restaurant reservation](https://www.newyorker.com/news/our-local-correspondents/why-you-cant-get-a-restaurant-reservation)
+* [2024-04-23, 11:32:28](https://news.ycombinator.com/item?id=40130674) - [How I made a 3D Level in a 2D Game [video]](https://www.youtube.com/watch?v=Qvlb-Yo6Rqo)
 * [2024-04-23, 11:31:29](https://news.ycombinator.com/item?id=40130665) - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
 * [2024-04-23, 11:20:01](https://news.ycombinator.com/item?id=40130570) - [Segal's Law](https://en.wikipedia.org/wiki/Segal%27s_law)
 * [2024-04-23, 11:16:04](https://news.ycombinator.com/item?id=40130542) - [Akaunting is free, open-source online accounting software for small businesses](https://akaunting.com)
