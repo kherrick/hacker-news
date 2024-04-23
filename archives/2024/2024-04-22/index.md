@@ -91,6 +91,7 @@
 * [2024-04-22, 10:04:05](https://news.ycombinator.com/item?id=40112842) - [Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)
 * [2024-04-22, 08:55:48](https://news.ycombinator.com/item?id=40112544) - [AI programming tools should be added to the Joel Test](https://blog.waleson.com/2024/04/ai-programming-tools-should-be-added-to.html)
 * [2024-04-22, 08:25:22](https://news.ycombinator.com/item?id=40112383) - [Curl is just the hobby](https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/)
+* [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 * [2024-04-22, 07:01:40](https://news.ycombinator.com/item?id=40112008) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
 * [2024-04-22, 06:09:34](https://news.ycombinator.com/item?id=40111784) - [AI for Data Journalism: demonstrating what we can do with this stuff](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/)
