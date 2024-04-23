@@ -24,11 +24,11 @@
 * [2024-04-22, 15:10:00](https://news.ycombinator.com/item?id=40115155) - [Parquet-WASM: Rust-based WebAssembly bindings to read and write Parquet data](https://github.com/kylebarron/parquet-wasm)
 * [2024-04-22, 14:51:35](https://news.ycombinator.com/item?id=40114961) - [JEDEC Extends DDR5 Memory Spec to 8800 MT/S, Adds Anti-Rowhammer Features](https://www.anandtech.com/show/21363/jedec-extends-ddr5-specification-to-8800-mts-adds-anti-rowhammer-features)
 * [2024-04-22, 14:25:59](https://news.ycombinator.com/item?id=40114696) - [The emotional trial of clinical trials: like online dating with death risk](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
-* [2024-04-22, 13:54:13](https://news.ycombinator.com/item?id=40114403) - [Espressif Acquires Majority Stake in M5Stack](https://www.espressif.com/en/news/Espressif_Acquires_M5Stack)
 * [2024-04-22, 12:00:03](https://news.ycombinator.com/item?id=40113491) - [Show HN: Source Code for CSVs](https://scroll.pub/blog/datasets.html)
 * [2024-04-22, 10:37:59](https://news.ycombinator.com/item?id=40113013) - [Equinox.space](https://equinox.space/)
 * [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-04-22, 05:18:17](https://news.ycombinator.com/item?id=40111581) - [The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
+* [2024-04-21, 23:21:57](https://news.ycombinator.com/item?id=40110072) - [Show HN: Metashade – a Pythonic GPU shading/compute EDSL](https://github.com/ppenenko/metashade)
 * [2024-04-21, 10:46:46](https://news.ycombinator.com/item?id=40104614) - [How to reenable undervolting in 2020 Dell Laptops by editing EFI variables](https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/)
 
 ## [Archives](archives/index.md)
