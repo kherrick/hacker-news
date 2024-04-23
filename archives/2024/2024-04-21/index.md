@@ -61,6 +61,7 @@
 * [2024-04-21, 11:20:55](https://news.ycombinator.com/item?id=40104773) - [Lemur's lament: When one vulnerable species stalks another](https://source.wustl.edu/2024/04/lemurs-lament/)
 * [2024-04-21, 10:57:02](https://news.ycombinator.com/item?id=40104650) - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
 * [2024-04-21, 10:52:25](https://news.ycombinator.com/item?id=40104641) - [Show HN: I made a website that converts YT videos into step-by-step guides](https://stepify.tech/)
+* [2024-04-21, 10:46:46](https://news.ycombinator.com/item?id=40104614) - [How to reenable undervolting in 2020 Dell Laptops by editing EFI variables](https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/)
 * [2024-04-21, 10:45:33](https://news.ycombinator.com/item?id=40104609) - [Why Should I Care What Color the Bikeshed Is? (1999)](https://bikeshed.com/)
 * [2024-04-21, 10:43:22](https://news.ycombinator.com/item?id=40104596) - [Why I'm Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
 * [2024-04-21, 10:42:04](https://news.ycombinator.com/item?id=40104591) - [Frawk: An efficient Awk-like programming language. (2021)](https://github.com/ezrosent/frawk)
