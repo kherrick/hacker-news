@@ -12,6 +12,7 @@
 * [2024-04-23, 20:38:32](https://news.ycombinator.com/item?id=40136979) - [Phi-3: Redefining what's possible with SLMs](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
 * [2024-04-23, 20:35:56](https://news.ycombinator.com/item?id=40136949) - [The Tech Bros Powering Silicon Valley's Military Fever Dream](https://www.forbes.com/sites/davidjeans/2024/04/19/gundo-bros-silicon-valley-military/)
 * [2024-04-23, 20:33:23](https://news.ycombinator.com/item?id=40136925) - [Chemical found naturally in cannabis may reduce anxiety-inducing effects of THC](https://medicalxpress.com/news/2024-04-chemical-naturally-cannabis-anxiety-effects.html)
+* [2024-04-23, 20:30:42](https://news.ycombinator.com/item?id=40136895) - [Gen Z recreates MySpace as 'Nospace' – there's a 380K-person waitlist](https://nypost.com/2024/04/23/lifestyle/gen-z-recreates-myspace-as-nospace-theres-a-380k-person-waitlist/)
 * [2024-04-23, 20:28:10](https://news.ycombinator.com/item?id=40136863) - [Why RISC-V is so important](https://www.xda-developers.com/heres-why-risc-v-is-important/)
 * [2024-04-23, 20:20:36](https://news.ycombinator.com/item?id=40136796) - [To Live Past 100, Mangia a Lot Less: Italian Expert's Ideas on Aging](https://www.nytimes.com/2024/03/25/world/europe/italy-aging-valter-longo.html)
 * [2024-04-23, 20:12:39](https://news.ycombinator.com/item?id=40136709) - [Tesla Q1 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q1-2024-Update.pdf)
