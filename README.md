@@ -8,6 +8,7 @@
 * [2024-04-24, 11:51:36](https://news.ycombinator.com/item?id=40143242) - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)
 * [2024-04-24, 10:18:51](https://news.ycombinator.com/item?id=40142603) - [PyPy v7.3.16 Release](https://www.pypy.org/posts/2024/04/pypy-v7316-release.html)
 * [2024-04-24, 08:35:30](https://news.ycombinator.com/item?id=40141980) - [Show HN: Podlite - a lightweight markup language for organizing knowledge](https://podlite.org/2024/4/23/1/podlite-specification-v1-0-released)
+* [2024-04-24, 08:32:36](https://news.ycombinator.com/item?id=40141967) - [Sysadmin friendly high speed Ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet (2018)](https://www.dangermouse.net/esoteric/piet.html)
 * [2024-04-24, 06:57:24](https://news.ycombinator.com/item?id=40141463) - [Other People's Problems](https://seths.blog/2024/04/other-peoples-problems/)
 * [2024-04-24, 06:08:25](https://news.ycombinator.com/item?id=40141175) - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
@@ -27,7 +28,6 @@
 * [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
 * [2024-04-22, 12:08:11](https://news.ycombinator.com/item?id=40113552) - [Fifty Years of the Personal Computer Operating System](https://computerhistory.org/blog/fifty-years-of-the-personal-computer-operating-system/)
 * [2024-04-22, 11:06:28](https://news.ycombinator.com/item?id=40113168) - [Why African tech companies are ditching Google for a small Indian competitor](https://restofworld.org/2024/zoho-google-workspace-alternative-africa/)
-* [2024-04-22, 07:03:52](https://news.ycombinator.com/item?id=40112013) - [Explore a digitized collection of doomed Everest climber's letters home](https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/)
 * [2024-04-22, 04:46:20](https://news.ycombinator.com/item?id=40111476) - [The Bad Trip Detective](https://nautil.us/the-bad-trip-detective-544328/)
 * [2024-04-21, 21:29:28](https://news.ycombinator.com/item?id=40109402) - [A Rigorous Derivation of the Bubble Sort Curve](https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/)
 
