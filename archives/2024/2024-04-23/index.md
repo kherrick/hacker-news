@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 23:40:36](https://news.ycombinator.com/item?id=40138676) - [Simple probes can catch sleeper agents](https://www.anthropic.com/research/probes-catch-sleeper-agents)
 * [2024-04-23, 23:26:58](https://news.ycombinator.com/item?id=40138579) - [American Flag Sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
+* [2024-04-23, 23:23:50](https://news.ycombinator.com/item?id=40138549) - [Cicadas are so noisy in South Carolina that residents are calling the police](https://apnews.com/article/noisy-cicadas-south-carolina-police-39f2bd760a51c8c1d28d88b12473840e)
 * [2024-04-23, 22:42:12](https://news.ycombinator.com/item?id=40138193) - [a poem about the Turing halting proof](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
 * [2024-04-23, 22:27:15](https://news.ycombinator.com/item?id=40138090) - [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
 * [2024-04-23, 22:23:38](https://news.ycombinator.com/item?id=40138073) - [Geoffrey Hinton: Open sourcing AI models akin to open sourcing nuclear weapons](https://twitter.com/ygrowthco/status/1782493076373885336)

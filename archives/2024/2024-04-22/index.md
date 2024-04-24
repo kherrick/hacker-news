@@ -74,6 +74,7 @@
 * [2024-04-22, 13:55:19](https://news.ycombinator.com/item?id=40114414) - [ESafety commissioner wins two-day injunction against X over violent content](https://www.abc.net.au/news/2024-04-22/esafety-commissioner-seeks-injunction-against-x/103755874)
 * [2024-04-22, 13:54:13](https://news.ycombinator.com/item?id=40114403) - [Espressif Acquires Majority Stake in M5Stack](https://www.espressif.com/en/news/Espressif_Acquires_M5Stack)
 * [2024-04-22, 13:49:58](https://news.ycombinator.com/item?id=40114350) - [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
+* [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
 * [2024-04-22, 12:58:39](https://news.ycombinator.com/item?id=40113925) - [Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
 * [2024-04-22, 12:56:35](https://news.ycombinator.com/item?id=40113914) - [Delay email delivery with Postfix for a relaxing weekend](https://www.enricobassetti.it/2024/04/delay-e-mail-delivery-with-postfix-for-a-relaxing-weekend/)
 * [2024-04-22, 12:53:16](https://news.ycombinator.com/item?id=40113891) - [E-Commerce Tactics Tech Employers Can Use to Improve the Candidate Experience](https://checkr.com/resources/articles/e-commerce-tactics-for-candidate-experience)
