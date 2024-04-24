@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet](https://www.dangermouse.net/esoteric/piet.html)
 * [2024-04-24, 06:08:25](https://news.ycombinator.com/item?id=40141175) - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
 * [2024-04-24, 06:00:54](https://news.ycombinator.com/item?id=40141133) - [Ask HN: Benchmarks for models other than LLMs](https://news.ycombinator.com/item?id=40141133)
 * [2024-04-24, 05:28:12](https://news.ycombinator.com/item?id=40140919) - [QEMU Version 9.0.0 Released](https://www.qemu.org/2024/04/23/qemu-9-0-0/)

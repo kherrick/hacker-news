@@ -113,6 +113,7 @@
 * [2024-04-22, 05:25:00](https://news.ycombinator.com/item?id=40111603) - [Why you shouldn't run a BSD on a PC?](https://michal.sapka.me/bsd/why-not-bsd/)
 * [2024-04-22, 05:18:17](https://news.ycombinator.com/item?id=40111581) - [The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
 * [2024-04-22, 04:47:20](https://news.ycombinator.com/item?id=40111479) - [It's OK to feed wild birds – here are some tips for doing it the right way](https://worldsensorium.com/its-ok-to-feed-wild-birds-here-are-some-tips-for-doing-it-the-right-way/)
+* [2024-04-22, 04:46:20](https://news.ycombinator.com/item?id=40111476) - [The Bad Trip Detective](https://nautil.us/the-bad-trip-detective-544328/)
 * [2024-04-22, 04:27:00](https://news.ycombinator.com/item?id=40111404) - [The Moon brings a wild but precarious fish orgy to California's beaches](https://www.bbc.com/future/article/20240419-californias-beaches-are-home-to-wild-fish-orgies-during-the-grunion-run)
 * [2024-04-22, 03:51:48](https://news.ycombinator.com/item?id=40111274) - [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-22, 03:23:58](https://news.ycombinator.com/item?id=40111184) - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
