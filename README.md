@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-24, 21:05:08](https://news.ycombinator.com/item?id=40149630) - [Meta stock has lost $137B in market cap on weak Q2 revenue guidance](https://finance.yahoo.com/video/meta-stock-falls-disappointing-q2-202013597.html)
+* [2024-04-24, 22:12:16](https://news.ycombinator.com/item?id=40150455) - [Delta takes flight: Apple-approved Nintendo emulator is a great iOS option](https://arstechnica.com/gaming/2024/04/a-touchscreen-of-nostalgia-delta-brings-classic-nintendo-consoles-to-ios/)
 * [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-04-24, 20:50:03](https://news.ycombinator.com/item?id=40149446) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
 * [2024-04-24, 20:21:32](https://news.ycombinator.com/item?id=40149095) - [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
@@ -19,7 +19,6 @@
 * [2024-04-24, 16:34:35](https://news.ycombinator.com/item?id=40146505) - [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
 * [2024-04-24, 16:09:38](https://news.ycombinator.com/item?id=40146088) - [Snowflake Arctic Instruct (128x3B MoE), largest open source model](https://replicate.com/snowflake/snowflake-arctic-instruct)
 * [2024-04-24, 15:59:55](https://news.ycombinator.com/item?id=40145963) - [Biden signs TikTok bill into law, starting clock for ByteDance to divest](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
-* [2024-04-24, 12:41:09](https://news.ycombinator.com/item?id=40143669) - [Faer-rs: Linear algebra foundation for Rust](https://github.com/sarah-ek/faer-rs)
 * [2024-04-24, 12:20:32](https://news.ycombinator.com/item?id=40143498) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/)
 * [2024-04-24, 08:35:30](https://news.ycombinator.com/item?id=40141980) - [Show HN: Podlite - a lightweight markup language for organizing knowledge](https://podlite.org/2024/4/23/1/podlite-specification-v1-0-released)
 * [2024-04-24, 08:32:36](https://news.ycombinator.com/item?id=40141967) - [Sysadmin friendly high speed Ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
@@ -30,6 +29,7 @@
 * [2024-04-23, 22:46:44](https://news.ycombinator.com/item?id=40138228) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 19:27:17](https://news.ycombinator.com/item?id=40136130) - [Length and thickness of bamboo internodes: a beautiful curve](https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/)
 * [2024-04-23, 11:49:18](https://news.ycombinator.com/item?id=40130803) - [VideoGigaGAN: Towards detail-rich video super-resolution](https://videogigagan.github.io/)
+* [2024-04-22, 23:00:44](https://news.ycombinator.com/item?id=40124492) - [Descartes's Stove](https://bloomsburyliterarystudiesblog.com/2024/03/descartess-stove.html)
 
 ## [Archives](archives/index.md)
 
