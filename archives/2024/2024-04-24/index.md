@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 20:12:53](https://news.ycombinator.com/item?id=40148998) - [Meta Reports First Quarter 2024 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx)
 * [2024-04-24, 19:56:40](https://news.ycombinator.com/item?id=40148833) - [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
 * [2024-04-24, 19:40:40](https://news.ycombinator.com/item?id=40148667) - [Spotify is struggling to get Apple to approve its iOS updates in the EU](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)
 * [2024-04-24, 19:34:05](https://news.ycombinator.com/item?id=40148582) - [Tesla Is Not the Next Ford. It's the Next Con Ed](https://www.theatlantic.com/technology/archive/2024/04/tesla-cars-batteries-power-company/678168/)
