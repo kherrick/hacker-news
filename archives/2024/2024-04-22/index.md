@@ -83,6 +83,7 @@
 * [2024-04-22, 12:49:41](https://news.ycombinator.com/item?id=40113862) - [Paying for it doesn't make it a market](https://pluralistic.net/2024/04/22/kargo-kult-kaptialism/#dont-buy-it)
 * [2024-04-22, 12:11:02](https://news.ycombinator.com/item?id=40113575) - [A Photographer Captured His Spectacular Dream Eclipse Photo](https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/)
 * [2024-04-22, 12:10:45](https://news.ycombinator.com/item?id=40113572) - [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
+* [2024-04-22, 12:08:11](https://news.ycombinator.com/item?id=40113552) - [Fifty Years of the Personal Computer Operating System](https://computerhistory.org/blog/fifty-years-of-the-personal-computer-operating-system/)
 * [2024-04-22, 12:00:45](https://news.ycombinator.com/item?id=40113500) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-04-22, 12:00:03](https://news.ycombinator.com/item?id=40113491) - [Show HN: Source Code for CSVs](https://scroll.pub/blog/datasets.html)
 * [2024-04-22, 11:59:54](https://news.ycombinator.com/item?id=40113488) - [Ask HN: Outstanding Programmers](https://news.ycombinator.com/item?id=40113488)
