@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 21:05:08](https://news.ycombinator.com/item?id=40149630) - [Meta stock has lost $137B in market cap on weak Q2 revenue guidance](https://finance.yahoo.com/video/meta-stock-falls-disappointing-q2-202013597.html)
 * [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-04-24, 21:00:31](https://news.ycombinator.com/item?id=40149580) - [How to Land an Airplane in an Emergency (Step-by-Step)](https://eduardomourao.substack.com/p/how-to-land-an-airplane-in-an-emergency)
 * [2024-04-24, 20:43:17](https://news.ycombinator.com/item?id=40149352) - [First Nvidia DGX H200 in the world, hand-delivered to OpenAI](https://twitter.com/gdb/status/1783234941842518414)
@@ -11,6 +12,7 @@
 * [2024-04-24, 20:26:50](https://news.ycombinator.com/item?id=40149154) - [HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
 * [2024-04-24, 20:24:46](https://news.ycombinator.com/item?id=40149136) - [IBM to Acquire HashiCorp, Inc for $6.4 billion](https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform)
 * [2024-04-24, 20:21:32](https://news.ycombinator.com/item?id=40149095) - [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
+* [2024-04-24, 20:21:31](https://news.ycombinator.com/item?id=40149093) - [Pixiv Blocks Adult Content, but Only for US and UK Users](https://www.404media.co/pixiv-manga-site-blocks-adult-content-but-only-for-us-and-uk-users/)
 * [2024-04-24, 20:19:46](https://news.ycombinator.com/item?id=40149071) - [Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
 * [2024-04-24, 20:15:23](https://news.ycombinator.com/item?id=40149024) - [Augment Raises $227M at $977M Valuation to Empower Software Teams with AI](https://www.augmentcode.com/blog/augment-inc-raises-227-million)
 * [2024-04-24, 20:12:53](https://news.ycombinator.com/item?id=40148998) - [Meta Reports First Quarter 2024 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx)
