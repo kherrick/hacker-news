@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 06:08:25](https://news.ycombinator.com/item?id=40141175) - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
+* [2024-04-24, 06:00:54](https://news.ycombinator.com/item?id=40141133) - [Ask HN: Benchmarks for models other than LLMs](https://news.ycombinator.com/item?id=40141133)
 * [2024-04-24, 05:28:12](https://news.ycombinator.com/item?id=40140919) - [QEMU Version 9.0.0 Released](https://www.qemu.org/2024/04/23/qemu-9-0-0/)
 * [2024-04-24, 05:27:28](https://news.ycombinator.com/item?id=40140914) - [Just Launched: GitHub Deployments](https://wordpress.com/blog/2024/03/18/github-deployments/)
 * [2024-04-24, 05:16:54](https://news.ycombinator.com/item?id=40140837) - [Congress Passed a Bill That Could Ban TikTok. Now Comes the Hard Part](https://www.nytimes.com/2024/04/23/technology/tiktok-ban-bill-congress.html)
