@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 19:16:01](https://news.ycombinator.com/item?id=40148360) - [Lenovo and Micron first to implement LPCAMM2 in laptop](https://www.theregister.com/2024/04/24/lenovo_micron_lpcamm2_thinkpad/)
 * [2024-04-24, 18:58:50](https://news.ycombinator.com/item?id=40148158) - [Tesla driver arrested for homicide after running over motorcyclist on Autopilot](https://electrek.co/2024/04/23/tesla-driver-arrested-homicide-running-over-motorcyclist-autopilot/)
 * [2024-04-24, 18:44:13](https://news.ycombinator.com/item?id=40148040) - [My Dinner with [Marc] Andreessen](https://prospect.org/power/2024-04-24-my-dinner-with-andreessen/)
 * [2024-04-24, 18:40:50](https://news.ycombinator.com/item?id=40148012) - ['So hot you can't breathe': Extreme heat hits the Philippines](https://www.japantimes.co.jp/news/2024/04/24/asia-pacific/philippines-extreme-heat/)
