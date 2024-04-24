@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 20:24:46](https://news.ycombinator.com/item?id=40149136) - [IBM to Acquire HashiCorp, Inc for $6.4 billion](https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform)
+* [2024-04-24, 20:21:32](https://news.ycombinator.com/item?id=40149095) - [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
 * [2024-04-24, 20:12:53](https://news.ycombinator.com/item?id=40148998) - [Meta Reports First Quarter 2024 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx)
 * [2024-04-24, 19:56:40](https://news.ycombinator.com/item?id=40148833) - [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
+* [2024-04-24, 19:44:47](https://news.ycombinator.com/item?id=40148707) - [Nearsightedness is at epidemic levels – and the problem begins in childhood](https://theconversation.com/nearsightedness-is-at-epidemic-levels-and-the-problem-begins-in-childhood-225255)
 * [2024-04-24, 19:32:20](https://news.ycombinator.com/item?id=40148563) - [\"I now lack the juice to fuel the bluster to conceal that I am a simpleton.\"](https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/)
 * [2024-04-24, 18:25:27](https://news.ycombinator.com/item?id=40147883) - [A feature-rich front-end drag-and-drop component library](https://github.com/atlassian/pragmatic-drag-and-drop)
 * [2024-04-24, 17:50:18](https://news.ycombinator.com/item?id=40147534) - [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
@@ -15,7 +18,6 @@
 * [2024-04-24, 12:58:06](https://news.ycombinator.com/item?id=40143814) - [The Basque Country’s Mondragón Corporation is the largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
 * [2024-04-24, 12:41:09](https://news.ycombinator.com/item?id=40143669) - [Faer-rs: Linear algebra foundation for Rust](https://github.com/sarah-ek/faer-rs)
 * [2024-04-24, 12:20:32](https://news.ycombinator.com/item?id=40143498) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/)
-* [2024-04-24, 10:18:51](https://news.ycombinator.com/item?id=40142603) - [PyPy v7.3.16](https://www.pypy.org/posts/2024/04/pypy-v7316-release.html)
 * [2024-04-24, 08:35:30](https://news.ycombinator.com/item?id=40141980) - [Show HN: Podlite - a lightweight markup language for organizing knowledge](https://podlite.org/2024/4/23/1/podlite-specification-v1-0-released)
 * [2024-04-24, 08:32:36](https://news.ycombinator.com/item?id=40141967) - [Sysadmin friendly high speed Ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet: Programming language in which programs look like abstract paintings (2002)](https://www.dangermouse.net/esoteric/piet.html)
@@ -25,9 +27,7 @@
 * [2024-04-24, 01:26:48](https://news.ycombinator.com/item?id=40139398) - [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
 * [2024-04-23, 22:46:44](https://news.ycombinator.com/item?id=40138228) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 19:27:17](https://news.ycombinator.com/item?id=40136130) - [Length and thickness of bamboo internodes: a beautiful curve](https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/)
-* [2024-04-23, 16:17:18](https://news.ycombinator.com/item?id=40133680) - [Attackers spread backdoor via eScan antivirus software update process](https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/)
 * [2024-04-23, 11:49:18](https://news.ycombinator.com/item?id=40130803) - [VideoGigaGAN: Towards detail-rich video super-resolution](https://videogigagan.github.io/)
-* [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
 * [2024-04-22, 12:08:11](https://news.ycombinator.com/item?id=40113552) - [Fifty years of the personal computer operating system](https://computerhistory.org/blog/fifty-years-of-the-personal-computer-operating-system/)
 * [2024-04-22, 11:06:28](https://news.ycombinator.com/item?id=40113168) - [Zoho is attracting the attention of African startup founders](https://restofworld.org/2024/zoho-google-workspace-alternative-africa/)
 

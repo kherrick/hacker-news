@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 20:24:46](https://news.ycombinator.com/item?id=40149136) - [IBM to Acquire HashiCorp, Inc for $6.4 billion](https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform)
+* [2024-04-24, 20:21:32](https://news.ycombinator.com/item?id=40149095) - [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
 * [2024-04-24, 20:12:53](https://news.ycombinator.com/item?id=40148998) - [Meta Reports First Quarter 2024 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx)
 * [2024-04-24, 19:56:40](https://news.ycombinator.com/item?id=40148833) - [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
+* [2024-04-24, 19:44:47](https://news.ycombinator.com/item?id=40148707) - [Nearsightedness is at epidemic levels – and the problem begins in childhood](https://theconversation.com/nearsightedness-is-at-epidemic-levels-and-the-problem-begins-in-childhood-225255)
 * [2024-04-24, 19:40:40](https://news.ycombinator.com/item?id=40148667) - [Spotify is struggling to get Apple to approve its iOS updates in the EU](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)
 * [2024-04-24, 19:34:05](https://news.ycombinator.com/item?id=40148582) - [Tesla Is Not the Next Ford. It's the Next Con Ed](https://www.theatlantic.com/technology/archive/2024/04/tesla-cars-batteries-power-company/678168/)
 * [2024-04-24, 19:32:20](https://news.ycombinator.com/item?id=40148563) - [\"I now lack the juice to fuel the bluster to conceal that I am a simpleton.\"](https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/)
