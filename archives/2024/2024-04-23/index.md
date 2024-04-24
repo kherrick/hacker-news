@@ -116,6 +116,7 @@
 * [2024-04-23, 09:20:52](https://news.ycombinator.com/item?id=40130068) - [HCL: Toolkit for Structured Configuration Languages](https://github.com/hashicorp/hcl)
 * [2024-04-23, 08:59:09](https://news.ycombinator.com/item?id=40129935) - [How to Use I2C Devices in (Apache) NuttX: Scanning for Devices](https://www.EmbeddedRelated.com/showarticle/1656.php)
 * [2024-04-23, 08:15:32](https://news.ycombinator.com/item?id=40129687) - [Apple M1 Assembly Language Hello World (2021)](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)
+* [2024-04-23, 07:37:44](https://news.ycombinator.com/item?id=40129505) - [How to Juggle Priorities](https://ashleyjanssen.com/how-to-juggle-priorities-decide-which-balls-are-glass-and-which-are-plastic/)
 * [2024-04-23, 07:25:49](https://news.ycombinator.com/item?id=40129444) - [The Deadline (2014)](https://www.thomas-huehn.com/2014/12/the-deadline/)
 * [2024-04-23, 07:11:41](https://news.ycombinator.com/item?id=40129362) - [Vision Pro Demand Dwindles as Customer Interest Dropped After Initial Hype](https://wccftech.com/vision-pro-demand-dwindles-as-customer-interest-dropped-after-initial-hype/)
 * [2024-04-23, 07:00:54](https://news.ycombinator.com/item?id=40129297) - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
