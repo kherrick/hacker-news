@@ -98,6 +98,7 @@
 * [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 * [2024-04-23, 12:00:40](https://news.ycombinator.com/item?id=40130922) - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
 * [2024-04-23, 11:53:13](https://news.ycombinator.com/item?id=40130848) - [Windows vulnerability reported by the NSA exploited to install Russian malware](https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/)
+* [2024-04-23, 11:49:18](https://news.ycombinator.com/item?id=40130803) - [VideoGigaGAN: Towards detail-rich video super-resolution](https://videogigagan.github.io/)
 * [2024-04-23, 11:44:46](https://news.ycombinator.com/item?id=40130768) - [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
 * [2024-04-23, 11:42:48](https://news.ycombinator.com/item?id=40130748) - [October 2025 will be a support massacre for a bunch of Microsoft products](https://www.theregister.com/2024/04/18/2025_support_end_microsoft/)
 * [2024-04-23, 11:34:07](https://news.ycombinator.com/item?id=40130684) - [Why you can't get a restaurant reservation](https://www.newyorker.com/news/our-local-correspondents/why-you-cant-get-a-restaurant-reservation)
