@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2024-04-24, 02:06:33",
-      "https://news.ycombinator.com/item?id=40139650"
-    ],
-    [
-      "US breaks ground on its first-ever high-speed rail",
-      "https://www.popsci.com/technology/high-speed-rail/"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 01:44:47",
       "https://news.ycombinator.com/item?id=40139510"
     ],
     [
       "BeeBase, a programmable relational database with graphical user interface",
       "https://beebase.sourceforge.io"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 01:43:54",
-      "https://news.ycombinator.com/item?id=40139503"
-    ],
-    [
-      "The Open Compute Project",
-      "https://www.opencompute.org/about"
     ]
   ],
   [
@@ -81,22 +61,22 @@
   ],
   [
     [
-      "2024-04-24, 00:01:51",
-      "https://news.ycombinator.com/item?id=40138824"
-    ],
-    [
-      "FTC adopts a comprehensive ban on new noncompetes with all workers",
-      "https://www.ftc.gov/legal-library/browse/rules/noncompete-rule"
-    ]
-  ],
-  [
-    [
       "2024-04-23, 23:26:58",
       "https://news.ycombinator.com/item?id=40138579"
     ],
     [
       "American flag sort",
       "https://xlinux.nist.gov/dads/HTML/americanFlagSort.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 23:06:21",
+      "https://news.ycombinator.com/item?id=40138396"
+    ],
+    [
+      "Microplastics make their way from the gut to other organs, researchers find",
+      "https://medicalxpress.com/news/2024-04-microplastics-gut.html"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-04-23, 19:18:00",
+      "https://news.ycombinator.com/item?id=40136026"
+    ],
+    [
+      "Dafny is a verification-aware programming language",
+      "https://github.com/dafny-lang/dafny"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 18:33:12",
       "https://news.ycombinator.com/item?id=40135458"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2024-04-23, 13:21:14",
-      "https://news.ycombinator.com/item?id=40131674"
+      "2024-04-23, 14:17:20",
+      "https://news.ycombinator.com/item?id=40132281"
     ],
     [
-      "Mathematicians marvel at 'crazy' cuts through four dimensions",
-      "https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/"
+      "The beautiful dissociation of the Japanese language",
+      "https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language"
     ]
   ],
   [
@@ -237,16 +227,6 @@
     [
       "New Foundations is consistent – a difficult mathematical proof proved using Lean",
       "https://leanprover-community.github.io/con-nf//"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 11:24:28",
-      "https://news.ycombinator.com/item?id=40130605"
-    ],
-    [
-      "Meta 'Opening Up' Quest Headset Operating System to Rivals",
-      "https://www.bloomberg.com/news/articles/2024-04-22/meta-is-opening-up-quest-headset-operating-system-to-rivals"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Jsfxr: 8-Bit sound maker and sfx generator",
       "https://sfxr.me/"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 23:38:43",
+      "https://news.ycombinator.com/item?id=40126751"
+    ],
+    [
+      "Krazam OS",
+      "https://www.krazam.tv/"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 17:10:31",
+      "https://news.ycombinator.com/item?id=40116385"
+    ],
+    [
+      "Show HN: Kaldo – Cross Shell Aliases",
+      "https://github.com/cpendery/kaldo"
     ]
   ],
   [
