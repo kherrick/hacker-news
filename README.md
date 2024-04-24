@@ -2,6 +2,7 @@
 
 * [2024-04-24, 21:05:08](https://news.ycombinator.com/item?id=40149630) - [Meta stock has lost $137B in market cap on weak Q2 revenue guidance](https://finance.yahoo.com/video/meta-stock-falls-disappointing-q2-202013597.html)
 * [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+* [2024-04-24, 20:50:03](https://news.ycombinator.com/item?id=40149446) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
 * [2024-04-24, 20:24:46](https://news.ycombinator.com/item?id=40149136) - [IBM to Acquire HashiCorp, Inc for $6.4 billion](https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform)
 * [2024-04-24, 20:21:31](https://news.ycombinator.com/item?id=40149093) - [Pixiv Blocks Adult Content, but Only for US and UK Users](https://www.404media.co/pixiv-manga-site-blocks-adult-content-but-only-for-us-and-uk-users/)
 * [2024-04-24, 20:19:46](https://news.ycombinator.com/item?id=40149071) - [Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
@@ -18,7 +19,6 @@
 * [2024-04-24, 16:34:35](https://news.ycombinator.com/item?id=40146505) - [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
 * [2024-04-24, 16:09:38](https://news.ycombinator.com/item?id=40146088) - [Snowflake Arctic Instruct (128x3B MoE), largest open source model](https://replicate.com/snowflake/snowflake-arctic-instruct)
 * [2024-04-24, 15:59:55](https://news.ycombinator.com/item?id=40145963) - [Biden signs TikTok bill into law, starting clock for ByteDance to divest](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
-* [2024-04-24, 12:58:06](https://news.ycombinator.com/item?id=40143814) - [The Basque Country’s Mondragón Corporation is the largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
 * [2024-04-24, 12:41:09](https://news.ycombinator.com/item?id=40143669) - [Faer-rs: Linear algebra foundation for Rust](https://github.com/sarah-ek/faer-rs)
 * [2024-04-24, 12:20:32](https://news.ycombinator.com/item?id=40143498) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/)
 * [2024-04-24, 08:35:30](https://news.ycombinator.com/item?id=40141980) - [Show HN: Podlite - a lightweight markup language for organizing knowledge](https://podlite.org/2024/4/23/1/podlite-specification-v1-0-released)
