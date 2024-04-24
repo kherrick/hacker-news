@@ -6,6 +6,7 @@
 
 * [2024-04-24, 02:34:31](https://news.ycombinator.com/item?id=40139837) - [I'm giving up on open source](https://nutjs.dev/blog/i-give-up)
 * [2024-04-24, 02:06:33](https://news.ycombinator.com/item?id=40139650) - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
+* [2024-04-24, 01:44:47](https://news.ycombinator.com/item?id=40139510) - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
 * [2024-04-24, 01:43:54](https://news.ycombinator.com/item?id=40139503) - [The Open Compute Project](https://www.opencompute.org/about)
 * [2024-04-24, 01:43:46](https://news.ycombinator.com/item?id=40139501) - [The question that no LLM can answer and why it is important](https://www.mindprison.cc/p/the-question-that-no-llm-can-answer)
 * [2024-04-24, 01:32:39](https://news.ycombinator.com/item?id=40139434) - [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
