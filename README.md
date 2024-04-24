@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-24, 10:53:02](https://news.ycombinator.com/item?id=40142829) - [Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
+* [2024-04-24, 10:30:19](https://news.ycombinator.com/item?id=40142667) - [Windows 11 Start menu ads are now rolling out to everyone](https://www.theverge.com/2024/4/24/24138949/microsoft-windows-11-start-menu-ads-recommendations-setting-disable)
 * [2024-04-24, 10:18:36](https://news.ycombinator.com/item?id=40142598) - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
 * [2024-04-24, 10:13:16](https://news.ycombinator.com/item?id=40142570) - ['Expensive' Streaming Services Are a Key Reason for Americans to 'Pirate'](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
 * [2024-04-24, 09:45:50](https://news.ycombinator.com/item?id=40142374) - [Meta does everything OpenAI should be](https://old.reddit.com/r/MachineLearning/comments/1cbhec7/meta_does_everything_openai_should_be_d/)
@@ -17,7 +18,6 @@
 * [2024-04-23, 22:42:12](https://news.ycombinator.com/item?id=40138193) - [Scooping the Loop Snooper (2000)](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
 * [2024-04-23, 21:01:02](https://news.ycombinator.com/item?id=40137201) - [Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
 * [2024-04-23, 19:50:45](https://news.ycombinator.com/item?id=40136440) - [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
-* [2024-04-23, 19:33:21](https://news.ycombinator.com/item?id=40136208) - [Network visualization of 50k blogs and links](https://graph.henryn.ca)
 * [2024-04-23, 17:54:52](https://news.ycombinator.com/item?id=40134921) - [Apple's risky bet on CarPlay](https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/)
 * [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 * [2024-04-23, 08:59:09](https://news.ycombinator.com/item?id=40129935) - [How to Use I2C Devices in (Apache) NuttX: Scanning for Devices](https://www.EmbeddedRelated.com/showarticle/1656.php)
