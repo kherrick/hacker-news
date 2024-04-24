@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-24, 12:28:17",
+      "https://news.ycombinator.com/item?id=40143559"
+    ],
+    [
+      "Learn OTP with Gleam",
+      "https://github.com/bcpeinhardt/learn_otp_with_gleam"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 12:00:13",
       "https://news.ycombinator.com/item?id=40143325"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2024-04-24, 11:48:24",
+      "https://news.ycombinator.com/item?id=40143206"
+    ],
+    [
+      "Hundreds of Jewish demonstrators arrested after New York protest seder",
+      "https://www.theguardian.com/world/2024/apr/24/not-like-other-passovers-hundreds-of-jewish-demonstrators-arrested-after-new-york-protest-seder"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 11:07:30",
       "https://news.ycombinator.com/item?id=40142914"
     ],
@@ -37,26 +57,6 @@
     [
       "Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace",
       "https://theluddite.org/#!post/reddit-extension"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 10:18:36",
-      "https://news.ycombinator.com/item?id=40142598"
-    ],
-    [
-      "Framework won't be just a laptop company anymore",
-      "https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 10:13:16",
-      "https://news.ycombinator.com/item?id=40142570"
-    ],
-    [
-      "'Expensive' Streaming Services Are a Key Reason for Americans to 'Pirate'",
-      "https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-04-22, 18:14:10",
-      "https://news.ycombinator.com/item?id=40117075"
+      "2024-04-22, 17:10:31",
+      "https://news.ycombinator.com/item?id=40116385"
     ],
     [
-      "The Deuce Editor Architecture (2014)",
-      "https://web.archive.org/web/20210407151341/https://discuss.atom.io/t/the-deuce-editor-architecture/2218"
+      "Show HN: Kaldo – Cross Shell Aliases",
+      "https://github.com/cpendery/kaldo"
     ]
   ],
   [
