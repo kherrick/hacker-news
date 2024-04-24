@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 14:22:44](https://news.ycombinator.com/item?id=40144732) - [Volvo landed a cheap Chinese EV on U.S. shores in a trade war](https://www.reuters.com/business/autos-transportation/how-volvo-landed-cheap-chinese-ev-us-shores-trade-war-2024-04-24/)
+* [2024-04-24, 14:04:36](https://news.ycombinator.com/item?id=40144554) - [VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
 * [2024-04-24, 13:36:57](https://news.ycombinator.com/item?id=40144235) - [Nvidia to Acquire Run:AI](https://blogs.nvidia.com/blog/runai/)
 * [2024-04-24, 12:58:06](https://news.ycombinator.com/item?id=40143814) - [70k workers show another way to earn living in globe's largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
 * [2024-04-24, 12:45:23](https://news.ycombinator.com/item?id=40143704) - [Open-Shell: A collection of utilities bringing back classic features to Windows](https://github.com/Open-Shell/Open-Shell-Menu)
@@ -20,8 +22,6 @@
 * [2024-04-23, 23:26:58](https://news.ycombinator.com/item?id=40138579) - [American flag sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
 * [2024-04-23, 22:46:44](https://news.ycombinator.com/item?id=40138228) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 19:50:45](https://news.ycombinator.com/item?id=40136440) - [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
-* [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
-* [2024-04-23, 11:42:48](https://news.ycombinator.com/item?id=40130748) - [October 2025 will be a support massacre for a bunch of Microsoft products](https://www.theregister.com/2024/04/18/2025_support_end_microsoft/)
 * [2024-04-23, 08:59:09](https://news.ycombinator.com/item?id=40129935) - [How to Use I2C Devices in (Apache) NuttX: Scanning for Devices](https://www.EmbeddedRelated.com/showarticle/1656.php)
 * [2024-04-23, 07:37:44](https://news.ycombinator.com/item?id=40129505) - [How to Juggle Priorities](https://ashleyjanssen.com/how-to-juggle-priorities-decide-which-balls-are-glass-and-which-are-plastic/)
 * [2024-04-23, 07:25:49](https://news.ycombinator.com/item?id=40129444) - [The Deadline (2014)](https://www.thomas-huehn.com/2014/12/the-deadline/)

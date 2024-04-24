@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 14:22:44](https://news.ycombinator.com/item?id=40144732) - [Volvo landed a cheap Chinese EV on U.S. shores in a trade war](https://www.reuters.com/business/autos-transportation/how-volvo-landed-cheap-chinese-ev-us-shores-trade-war-2024-04-24/)
+* [2024-04-24, 14:04:36](https://news.ycombinator.com/item?id=40144554) - [VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
 * [2024-04-24, 13:36:57](https://news.ycombinator.com/item?id=40144235) - [Nvidia to Acquire Run:AI](https://blogs.nvidia.com/blog/runai/)
 * [2024-04-24, 13:09:18](https://news.ycombinator.com/item?id=40143940) - [Police is using ChatGPT-4 powered body cams that turn audio into reports](https://www.forbes.com/sites/thomasbrewster/2024/04/23/axon-ai-police-reports-/)
 * [2024-04-24, 13:06:58](https://news.ycombinator.com/item?id=40143913) - [Should You Use Ruby on Rails or Hanami?](https://blog.appsignal.com/2024/04/24/should-you-use-ruby-on-rails-or-hanami.html)
