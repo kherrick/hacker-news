@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 13:36:57](https://news.ycombinator.com/item?id=40144235) - [Nvidia to Acquire Run:AI](https://blogs.nvidia.com/blog/runai/)
 * [2024-04-24, 13:09:18](https://news.ycombinator.com/item?id=40143940) - [Police is using ChatGPT-4 powered body cams that turn audio into reports](https://www.forbes.com/sites/thomasbrewster/2024/04/23/axon-ai-police-reports-/)
 * [2024-04-24, 13:06:58](https://news.ycombinator.com/item?id=40143913) - [Should You Use Ruby on Rails or Hanami?](https://blog.appsignal.com/2024/04/24/should-you-use-ruby-on-rails-or-hanami.html)
 * [2024-04-24, 12:58:06](https://news.ycombinator.com/item?id=40143814) - [70k workers show another way to earn living in globe's largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
