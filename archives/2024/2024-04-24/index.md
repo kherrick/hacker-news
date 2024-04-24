@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 10:53:02](https://news.ycombinator.com/item?id=40142829) - [Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
+* [2024-04-24, 10:18:36](https://news.ycombinator.com/item?id=40142598) - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
 * [2024-04-24, 10:13:16](https://news.ycombinator.com/item?id=40142570) - ['Expensive' Streaming Services Are a Key Reason for Americans to 'Pirate'](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
 * [2024-04-24, 09:45:50](https://news.ycombinator.com/item?id=40142374) - [Meta does everything OpenAI should be](https://old.reddit.com/r/MachineLearning/comments/1cbhec7/meta_does_everything_openai_should_be_d/)
 * [2024-04-24, 08:59:25](https://news.ycombinator.com/item?id=40142109) - [Tesla Profits Drop 55%](https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/)
