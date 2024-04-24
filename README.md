@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 03:59:31](https://news.ycombinator.com/item?id=40140396) - [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
 * [2024-04-24, 03:00:46](https://news.ycombinator.com/item?id=40140002) - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
 * [2024-04-24, 02:06:33](https://news.ycombinator.com/item?id=40139650) - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
 * [2024-04-24, 01:44:47](https://news.ycombinator.com/item?id=40139510) - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
@@ -25,7 +26,6 @@
 * [2024-04-23, 13:21:14](https://news.ycombinator.com/item?id=40131674) - [Mathematicians marvel at 'crazy' cuts through four dimensions](https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/)
 * [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 * [2024-04-23, 11:24:28](https://news.ycombinator.com/item?id=40130605) - [Meta 'Opening Up' Quest Headset Operating System to Rivals](https://www.bloomberg.com/news/articles/2024-04-22/meta-is-opening-up-quest-headset-operating-system-to-rivals)
-* [2024-04-23, 06:48:32](https://news.ycombinator.com/item?id=40129225) - [Ask HN: How does deploying a fine-tuned model work](https://news.ycombinator.com/item?id=40129225)
 * [2024-04-23, 05:35:25](https://news.ycombinator.com/item?id=40128837) - [Jsfxr: 8-Bit sound maker and sfx generator](https://sfxr.me/)
 * [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
 * [2024-04-22, 07:03:52](https://news.ycombinator.com/item?id=40112013) - [Explore a digitized collection of doomed Everest climber's letters home](https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/)
