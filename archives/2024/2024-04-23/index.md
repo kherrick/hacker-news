@@ -9,6 +9,7 @@
 * [2024-04-23, 23:23:50](https://news.ycombinator.com/item?id=40138549) - [Cicadas are so noisy in South Carolina that residents are calling the police](https://apnews.com/article/noisy-cicadas-south-carolina-police-39f2bd760a51c8c1d28d88b12473840e)
 * [2024-04-23, 23:22:13](https://news.ycombinator.com/item?id=40138533) - [Canada bet big on immigration. Now it's hitting the brakes](https://www.washingtonpost.com/world/2024/04/23/canada-immigration-international-students/)
 * [2024-04-23, 23:06:21](https://news.ycombinator.com/item?id=40138396) - [Microplastics make their way from the gut to other organs, researchers find](https://medicalxpress.com/news/2024-04-microplastics-gut.html)
+* [2024-04-23, 22:46:44](https://news.ycombinator.com/item?id=40138228) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 22:42:12](https://news.ycombinator.com/item?id=40138193) - [a poem about the Turing halting proof](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
 * [2024-04-23, 22:27:15](https://news.ycombinator.com/item?id=40138090) - [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
 * [2024-04-23, 22:23:38](https://news.ycombinator.com/item?id=40138073) - [Geoffrey Hinton: Open sourcing AI models akin to open sourcing nuclear weapons](https://twitter.com/ygrowthco/status/1782493076373885336)
