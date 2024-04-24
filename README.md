@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-24, 02:34:31](https://news.ycombinator.com/item?id=40139837) - [I'm giving up on open source](https://nutjs.dev/blog/i-give-up)
-* [2024-04-24, 02:06:33](https://news.ycombinator.com/item?id=40139650) - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
 * [2024-04-24, 01:44:47](https://news.ycombinator.com/item?id=40139510) - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
 * [2024-04-24, 01:43:54](https://news.ycombinator.com/item?id=40139503) - [The Open Compute Project](https://www.opencompute.org/about)
 * [2024-04-24, 01:32:39](https://news.ycombinator.com/item?id=40139434) - [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
@@ -28,6 +27,7 @@
 * [2024-04-23, 06:48:32](https://news.ycombinator.com/item?id=40129225) - [Ask HN: How does deploying a fine-tuned model work](https://news.ycombinator.com/item?id=40129225)
 * [2024-04-23, 05:35:25](https://news.ycombinator.com/item?id=40128837) - [Jsfxr: 8-Bit sound maker and sfx generator](https://sfxr.me/)
 * [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
+* [2024-04-22, 12:11:02](https://news.ycombinator.com/item?id=40113575) - [How a photographer captured his eclipse photo](https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/)
 * [2024-04-22, 07:03:52](https://news.ycombinator.com/item?id=40112013) - [Explore a digitized collection of doomed Everest climber's letters home](https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/)
 * [2024-04-21, 05:41:40](https://news.ycombinator.com/item?id=40103416) - [Coroutines and Effects](https://without.boats/blog/coroutines-and-effects/)
 
