@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 01:43:46](https://news.ycombinator.com/item?id=40139501) - [The question that no LLM can answer and why it is important](https://www.mindprison.cc/p/the-question-that-no-llm-can-answer)
+* [2024-04-24, 01:26:48](https://news.ycombinator.com/item?id=40139398) - [Apple releases CoreNet, a library for training deep neural networks](https://github.com/apple/corenet)
 * [2024-04-24, 01:10:51](https://news.ycombinator.com/item?id=40139291) - [Protecting the Darkness in Chile's Atacama Desert](https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/)
-* [2024-04-24, 00:19:23](https://news.ycombinator.com/item?id=40138966) - [The Rare Earth Metals Handcuffing the EV Revolution](https://exoswan.com/rare-earth-metals-for-evs)
 * [2024-04-24, 00:01:51](https://news.ycombinator.com/item?id=40138824) - [FTC adopts a comprehensive ban on new noncompetes with all workers](https://www.ftc.gov/legal-library/browse/rules/noncompete-rule)
 * [2024-04-23, 23:26:58](https://news.ycombinator.com/item?id=40138579) - [American Flag Sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
-* [2024-04-23, 23:23:50](https://news.ycombinator.com/item?id=40138549) - [Cicadas are so noisy in South Carolina that residents are calling the police](https://apnews.com/article/noisy-cicadas-south-carolina-police-39f2bd760a51c8c1d28d88b12473840e)
-* [2024-04-23, 23:22:13](https://news.ycombinator.com/item?id=40138533) - [Canada bet big on immigration. Now it's hitting the brakes](https://www.washingtonpost.com/world/2024/04/23/canada-immigration-international-students/)
 * [2024-04-23, 23:06:21](https://news.ycombinator.com/item?id=40138396) - [Microplastics make their way from the gut to other organs, researchers find](https://medicalxpress.com/news/2024-04-microplastics-gut.html)
 * [2024-04-23, 22:42:12](https://news.ycombinator.com/item?id=40138193) - [Scooping the Loop Snooper (2000)](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
 * [2024-04-23, 22:23:01](https://news.ycombinator.com/item?id=40138063) - [Show HN: Use LLMs to Interact with APIs](https://github.com/FlowTestAI/FlowTest)
@@ -30,6 +29,7 @@
 * [2024-04-22, 23:38:43](https://news.ycombinator.com/item?id=40126751) - [Krazam OS](https://www.krazam.tv/)
 * [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
 * [2024-04-22, 12:11:02](https://news.ycombinator.com/item?id=40113575) - [How a photographer captured his eclipse photo](https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/)
+* [2024-04-21, 05:41:40](https://news.ycombinator.com/item?id=40103416) - [Coroutines and Effects](https://without.boats/blog/coroutines-and-effects/)
 
 ## [Archives](archives/index.md)
 
