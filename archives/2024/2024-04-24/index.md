@@ -8,6 +8,7 @@
 * [2024-04-24, 08:59:25](https://news.ycombinator.com/item?id=40142109) - [Tesla Profits Drop 55%](https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/)
 * [2024-04-24, 07:59:05](https://news.ycombinator.com/item?id=40141811) - [Android 15 may make it harder for sideloaded apps to get sensitive permissions](https://www.androidauthority.com/android-15-enhanced-confirmation-mode-3436697/)
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet](https://www.dangermouse.net/esoteric/piet.html)
+* [2024-04-24, 07:34:22](https://news.ycombinator.com/item?id=40141689) - [Nginx 1.26.0 Stable Released](https://nginx.org/en/CHANGES-1.26)
 * [2024-04-24, 07:32:07](https://news.ycombinator.com/item?id=40141667) - [US Senate passes TikTok divestment-or-ban bill](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/)
 * [2024-04-24, 06:08:25](https://news.ycombinator.com/item?id=40141175) - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
 * [2024-04-24, 06:00:54](https://news.ycombinator.com/item?id=40141133) - [Ask HN: Benchmarks for models other than LLMs](https://news.ycombinator.com/item?id=40141133)
