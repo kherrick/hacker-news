@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 02:34:31](https://news.ycombinator.com/item?id=40139837) - [I'm giving up on open source](https://nutjs.dev/blog/i-give-up)
 * [2024-04-24, 02:06:33](https://news.ycombinator.com/item?id=40139650) - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
 * [2024-04-24, 01:43:54](https://news.ycombinator.com/item?id=40139503) - [The Open Compute Project](https://www.opencompute.org/about)
-* [2024-04-24, 01:43:46](https://news.ycombinator.com/item?id=40139501) - [The question that no LLM can answer and why it is important](https://www.mindprison.cc/p/the-question-that-no-llm-can-answer)
+* [2024-04-24, 01:32:39](https://news.ycombinator.com/item?id=40139434) - [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
 * [2024-04-24, 01:26:48](https://news.ycombinator.com/item?id=40139398) - [Apple releases CoreNet, a library for training deep neural networks](https://github.com/apple/corenet)
 * [2024-04-24, 01:10:51](https://news.ycombinator.com/item?id=40139291) - [Protecting the Darkness in Chile's Atacama Desert](https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/)
 * [2024-04-24, 00:01:51](https://news.ycombinator.com/item?id=40138824) - [FTC adopts a comprehensive ban on new noncompetes with all workers](https://www.ftc.gov/legal-library/browse/rules/noncompete-rule)
@@ -27,7 +28,6 @@
 * [2024-04-23, 06:48:32](https://news.ycombinator.com/item?id=40129225) - [Ask HN: How does deploying a fine-tuned model work](https://news.ycombinator.com/item?id=40129225)
 * [2024-04-23, 05:35:25](https://news.ycombinator.com/item?id=40128837) - [Jsfxr: 8-Bit sound maker and sfx generator](https://sfxr.me/)
 * [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
-* [2024-04-22, 12:11:02](https://news.ycombinator.com/item?id=40113575) - [How a photographer captured his eclipse photo](https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/)
 * [2024-04-22, 07:03:52](https://news.ycombinator.com/item?id=40112013) - [Explore a digitized collection of doomed Everest climber's letters home](https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/)
 * [2024-04-21, 05:41:40](https://news.ycombinator.com/item?id=40103416) - [Coroutines and Effects](https://without.boats/blog/coroutines-and-effects/)
 
