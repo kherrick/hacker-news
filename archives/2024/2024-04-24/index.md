@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 12:28:17](https://news.ycombinator.com/item?id=40143559) - [Learn OTP with Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 12:00:13](https://news.ycombinator.com/item?id=40143325) - [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
 * [2024-04-24, 11:51:36](https://news.ycombinator.com/item?id=40143242) - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)
+* [2024-04-24, 11:48:24](https://news.ycombinator.com/item?id=40143206) - [Hundreds of Jewish demonstrators arrested after New York protest seder](https://www.theguardian.com/world/2024/apr/24/not-like-other-passovers-hundreds-of-jewish-demonstrators-arrested-after-new-york-protest-seder)
 * [2024-04-24, 11:07:30](https://news.ycombinator.com/item?id=40142914) - [Google wants employees to move faster](https://www.cnbc.com/2024/04/23/google-search-boss-raghavan-warns-employees-of-new-operating-reality.html)
 * [2024-04-24, 10:53:02](https://news.ycombinator.com/item?id=40142829) - [Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
 * [2024-04-24, 10:30:19](https://news.ycombinator.com/item?id=40142667) - [Windows 11 Start menu ads are now rolling out to everyone](https://www.theverge.com/2024/4/24/24138949/microsoft-windows-11-start-menu-ads-recommendations-setting-disable)
