@@ -102,6 +102,7 @@
 * [2024-04-23, 11:34:07](https://news.ycombinator.com/item?id=40130684) - [Why you can't get a restaurant reservation](https://www.newyorker.com/news/our-local-correspondents/why-you-cant-get-a-restaurant-reservation)
 * [2024-04-23, 11:32:28](https://news.ycombinator.com/item?id=40130674) - [How I made a 3D Level in a 2D Game [video]](https://www.youtube.com/watch?v=Qvlb-Yo6Rqo)
 * [2024-04-23, 11:31:29](https://news.ycombinator.com/item?id=40130665) - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
+* [2024-04-23, 11:24:28](https://news.ycombinator.com/item?id=40130605) - [Meta 'Opening Up' Quest Headset Operating System to Rivals](https://www.bloomberg.com/news/articles/2024-04-22/meta-is-opening-up-quest-headset-operating-system-to-rivals)
 * [2024-04-23, 11:20:01](https://news.ycombinator.com/item?id=40130570) - [Segal's Law](https://en.wikipedia.org/wiki/Segal%27s_law)
 * [2024-04-23, 11:16:04](https://news.ycombinator.com/item?id=40130542) - [Akaunting is free, open-source online accounting software for small businesses](https://akaunting.com)
 * [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The Evolution of Stupidity (and Octopus Intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)

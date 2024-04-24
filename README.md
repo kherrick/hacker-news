@@ -24,10 +24,10 @@
 * [2024-04-23, 14:26:26](https://news.ycombinator.com/item?id=40132373) - [Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
 * [2024-04-23, 13:21:14](https://news.ycombinator.com/item?id=40131674) - [Mathematicians marvel at 'crazy' cuts through four dimensions](https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/)
 * [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
+* [2024-04-23, 11:24:28](https://news.ycombinator.com/item?id=40130605) - [Meta 'Opening Up' Quest Headset Operating System to Rivals](https://www.bloomberg.com/news/articles/2024-04-22/meta-is-opening-up-quest-headset-operating-system-to-rivals)
 * [2024-04-23, 06:48:32](https://news.ycombinator.com/item?id=40129225) - [Ask HN: How does deploying a fine-tuned model work](https://news.ycombinator.com/item?id=40129225)
 * [2024-04-23, 05:35:25](https://news.ycombinator.com/item?id=40128837) - [Jsfxr: 8-Bit sound maker and sfx generator](https://sfxr.me/)
 * [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
-* [2024-04-22, 12:11:02](https://news.ycombinator.com/item?id=40113575) - [How a photographer captured his eclipse photo](https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/)
 * [2024-04-22, 07:03:52](https://news.ycombinator.com/item?id=40112013) - [Explore a digitized collection of doomed Everest climber's letters home](https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/)
 * [2024-04-21, 05:41:40](https://news.ycombinator.com/item?id=40103416) - [Coroutines and Effects](https://without.boats/blog/coroutines-and-effects/)
 
