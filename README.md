@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-24, 05:28:12](https://news.ycombinator.com/item?id=40140919) - [QEMU Version 9.0.0 Released](https://www.qemu.org/2024/04/23/qemu-9-0-0/)
+* [2024-04-24, 05:27:28](https://news.ycombinator.com/item?id=40140914) - [Just Launched: GitHub Deployments](https://wordpress.com/blog/2024/03/18/github-deployments/)
 * [2024-04-24, 04:50:37](https://news.ycombinator.com/item?id=40140708) - [OpenBSD – Game of Trees 0.98 released](https://www.undeadly.org/cgi?action=article;sid=20240424043509)
 * [2024-04-24, 04:44:54](https://news.ycombinator.com/item?id=40140675) - [Apple/OpenELM: Efficient Open-Source Family Language Models](https://huggingface.co/apple/OpenELM)
 * [2024-04-24, 03:59:31](https://news.ycombinator.com/item?id=40140396) - [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
@@ -21,7 +22,6 @@
 * [2024-04-23, 17:54:52](https://news.ycombinator.com/item?id=40134921) - [Apple's risky bet on CarPlay](https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/)
 * [2024-04-23, 17:24:04](https://news.ycombinator.com/item?id=40134534) - [Intel Meteor Lake's NPU](https://chipsandcheese.com/2024/04/22/intel-meteor-lakes-npu/)
 * [2024-04-23, 16:43:59](https://news.ycombinator.com/item?id=40133976) - [The man who killed Google Search?](https://www.wheresyoured.at/the-men-who-killed-google/)
-* [2024-04-23, 14:58:23](https://news.ycombinator.com/item?id=40132719) - [Reverse engineering a software crack](https://twitter.com/gf_256/status/1782656618015904103)
 * [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 * [2024-04-23, 08:59:09](https://news.ycombinator.com/item?id=40129935) - [How to Use I2C Devices in (Apache) NuttX: Scanning for Devices](https://www.EmbeddedRelated.com/showarticle/1656.php)
 * [2024-04-23, 06:48:32](https://news.ycombinator.com/item?id=40129225) - [Ask HN: How does deploying a fine-tuned model work](https://news.ycombinator.com/item?id=40129225)
