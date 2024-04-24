@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 03:00:46](https://news.ycombinator.com/item?id=40140002) - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
 * [2024-04-24, 02:34:31](https://news.ycombinator.com/item?id=40139837) - [I'm giving up on open source](https://nutjs.dev/blog/i-give-up)
 * [2024-04-24, 02:06:33](https://news.ycombinator.com/item?id=40139650) - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
 * [2024-04-24, 01:44:47](https://news.ycombinator.com/item?id=40139510) - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
