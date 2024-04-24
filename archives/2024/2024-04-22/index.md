@@ -100,6 +100,7 @@
 * [2024-04-22, 08:07:27](https://news.ycombinator.com/item?id=40112282) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-04-22, 07:41:50](https://news.ycombinator.com/item?id=40112169) - [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 * [2024-04-22, 07:13:41](https://news.ycombinator.com/item?id=40112045) - [And There Was Digitron](https://www.retrobit-izlozba-digitrona.com/digitron-and-buje/and-there-was-digitron)
+* [2024-04-22, 07:03:52](https://news.ycombinator.com/item?id=40112013) - [Explore a digitized collection of doomed Everest climber's letters home](https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/)
 * [2024-04-22, 07:01:40](https://news.ycombinator.com/item?id=40112008) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
 * [2024-04-22, 07:00:36](https://news.ycombinator.com/item?id=40112002) - [Changelog-Driven Releases](https://mathieularose.com/changelog-driven-releases)
 * [2024-04-22, 06:41:38](https://news.ycombinator.com/item?id=40111916) - [Petoi Bittle – a programmable robot dog](https://www.petoi.com/products/petoi-bittle-robot-dog)
