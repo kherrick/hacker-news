@@ -39,6 +39,7 @@
 * [2024-04-23, 19:50:45](https://news.ycombinator.com/item?id=40136440) - [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
 * [2024-04-23, 19:41:38](https://news.ycombinator.com/item?id=40136306) - [Python Big O: Time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
 * [2024-04-23, 19:33:21](https://news.ycombinator.com/item?id=40136208) - [Network visualization of 50k blogs and links](https://graph.henryn.ca)
+* [2024-04-23, 19:27:17](https://news.ycombinator.com/item?id=40136130) - [Length and thickness of bamboo internodes: a beautiful curve](https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/)
 * [2024-04-23, 19:27:12](https://news.ycombinator.com/item?id=40136129) - [Facebook users say 'amen' to bizarre AI-generated images of Jesus](https://www.nbcnews.com/tech/tech-news/facebook-users-say-amen-bizarre-ai-generated-images-jesus-rcna143965)
 * [2024-04-23, 19:26:56](https://news.ycombinator.com/item?id=40136126) - [FTC Bans Noncompete Clauses That Restrict Job Switching](https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187)
 * [2024-04-23, 19:22:22](https://news.ycombinator.com/item?id=40136076) - [GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
