@@ -2,12 +2,12 @@
 
 * [2024-04-24, 07:59:05](https://news.ycombinator.com/item?id=40141811) - [Android 15 may make it harder for sideloaded apps to get sensitive permissions](https://www.androidauthority.com/android-15-enhanced-confirmation-mode-3436697/)
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet](https://www.dangermouse.net/esoteric/piet.html)
+* [2024-04-24, 07:32:07](https://news.ycombinator.com/item?id=40141667) - [US Senate passes TikTok divestment-or-ban bill](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/)
 * [2024-04-24, 06:08:25](https://news.ycombinator.com/item?id=40141175) - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
 * [2024-04-24, 03:00:46](https://news.ycombinator.com/item?id=40140002) - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
 * [2024-04-24, 01:44:47](https://news.ycombinator.com/item?id=40139510) - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
 * [2024-04-24, 01:32:39](https://news.ycombinator.com/item?id=40139434) - [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
 * [2024-04-24, 01:26:48](https://news.ycombinator.com/item?id=40139398) - [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
-* [2024-04-24, 01:10:51](https://news.ycombinator.com/item?id=40139291) - [Protecting the Darkness in Chile's Atacama Desert](https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/)
 * [2024-04-23, 23:26:58](https://news.ycombinator.com/item?id=40138579) - [American flag sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
 * [2024-04-23, 22:46:44](https://news.ycombinator.com/item?id=40138228) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 22:42:12](https://news.ycombinator.com/item?id=40138193) - [Scooping the Loop Snooper (2000)](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
