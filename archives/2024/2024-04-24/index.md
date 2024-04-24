@@ -20,6 +20,7 @@
 * [2024-04-24, 11:07:30](https://news.ycombinator.com/item?id=40142914) - [Google wants employees to move faster](https://www.cnbc.com/2024/04/23/google-search-boss-raghavan-warns-employees-of-new-operating-reality.html)
 * [2024-04-24, 10:53:02](https://news.ycombinator.com/item?id=40142829) - [Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
 * [2024-04-24, 10:30:19](https://news.ycombinator.com/item?id=40142667) - [Windows 11 Start menu ads are now rolling out to everyone](https://www.theverge.com/2024/4/24/24138949/microsoft-windows-11-start-menu-ads-recommendations-setting-disable)
+* [2024-04-24, 10:18:51](https://news.ycombinator.com/item?id=40142603) - [PyPy v7.3.16 Release](https://www.pypy.org/posts/2024/04/pypy-v7316-release.html)
 * [2024-04-24, 10:18:36](https://news.ycombinator.com/item?id=40142598) - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
 * [2024-04-24, 10:13:16](https://news.ycombinator.com/item?id=40142570) - ['Expensive' Streaming Services Are a Key Reason for Americans to 'Pirate'](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
 * [2024-04-24, 09:45:50](https://news.ycombinator.com/item?id=40142374) - [Meta does everything OpenAI should be](https://old.reddit.com/r/MachineLearning/comments/1cbhec7/meta_does_everything_openai_should_be_d/)
