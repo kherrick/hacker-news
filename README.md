@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 18:58:50](https://news.ycombinator.com/item?id=40148158) - [Tesla driver arrested for homicide after running over motorcyclist on Autopilot](https://electrek.co/2024/04/23/tesla-driver-arrested-homicide-running-over-motorcyclist-autopilot/)
 * [2024-04-24, 18:44:13](https://news.ycombinator.com/item?id=40148040) - [My Dinner with [Marc] Andreessen](https://prospect.org/power/2024-04-24-my-dinner-with-andreessen/)
-* [2024-04-24, 18:40:50](https://news.ycombinator.com/item?id=40148012) - ['So hot you can't breathe': Extreme heat hits the Philippines](https://www.japantimes.co.jp/news/2024/04/24/asia-pacific/philippines-extreme-heat/)
 * [2024-04-24, 18:37:39](https://news.ycombinator.com/item?id=40147994) - [N. Korean hackers breached 10 defense contractors in South for months](https://english.hani.co.kr/arti/english_edition/e_national/1137990)
 * [2024-04-24, 17:50:18](https://news.ycombinator.com/item?id=40147534) - [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
 * [2024-04-24, 17:00:34](https://news.ycombinator.com/item?id=40146937) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
