@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 17:00:34](https://news.ycombinator.com/item?id=40146937) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2024-04-24, 16:34:35](https://news.ycombinator.com/item?id=40146505) - [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
 * [2024-04-24, 16:17:29](https://news.ycombinator.com/item?id=40146203) - [US bans TikTok owner ByteDance, will prohibit app in US unless it is sold](https://arstechnica.com/tech-policy/2024/04/biden-signs-bill-to-ban-tiktok-if-chinese-owner-bytedance-doesnt-sell/)
 * [2024-04-24, 16:09:38](https://news.ycombinator.com/item?id=40146088) - [Snowflake Arctic Instruct (128x3B MoE), largest open source model](https://replicate.com/snowflake/snowflake-arctic-instruct)
 * [2024-04-24, 15:59:55](https://news.ycombinator.com/item?id=40145963) - [Biden signs TikTok 'ban' bill into law, starting clock for ByteDance to divest](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
