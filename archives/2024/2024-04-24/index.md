@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 09:45:50](https://news.ycombinator.com/item?id=40142374) - [Meta does everything OpenAI should be](https://old.reddit.com/r/MachineLearning/comments/1cbhec7/meta_does_everything_openai_should_be_d/)
 * [2024-04-24, 08:59:25](https://news.ycombinator.com/item?id=40142109) - [Tesla Profits Drop 55%](https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/)
 * [2024-04-24, 07:59:05](https://news.ycombinator.com/item?id=40141811) - [Android 15 may make it harder for sideloaded apps to get sensitive permissions](https://www.androidauthority.com/android-15-enhanced-confirmation-mode-3436697/)
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet](https://www.dangermouse.net/esoteric/piet.html)
