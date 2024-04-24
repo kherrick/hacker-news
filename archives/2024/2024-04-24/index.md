@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 02:06:33](https://news.ycombinator.com/item?id=40139650) - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
+* [2024-04-24, 01:43:54](https://news.ycombinator.com/item?id=40139503) - [The Open Compute Project](https://www.opencompute.org/about)
 * [2024-04-24, 01:43:46](https://news.ycombinator.com/item?id=40139501) - [The question that no LLM can answer and why it is important](https://www.mindprison.cc/p/the-question-that-no-llm-can-answer)
 * [2024-04-24, 01:26:48](https://news.ycombinator.com/item?id=40139398) - [Apple releases CoreNet, a library for training deep neural networks](https://github.com/apple/corenet)
 * [2024-04-24, 01:10:51](https://news.ycombinator.com/item?id=40139291) - [Protecting the Darkness in Chile's Atacama Desert](https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/)
