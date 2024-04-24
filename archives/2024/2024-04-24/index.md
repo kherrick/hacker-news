@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 18:44:13](https://news.ycombinator.com/item?id=40148040) - [My Dinner with [Marc] Andreessen](https://prospect.org/power/2024-04-24-my-dinner-with-andreessen/)
+* [2024-04-24, 18:40:50](https://news.ycombinator.com/item?id=40148012) - ['So hot you can't breathe': Extreme heat hits the Philippines](https://www.japantimes.co.jp/news/2024/04/24/asia-pacific/philippines-extreme-heat/)
+* [2024-04-24, 18:37:39](https://news.ycombinator.com/item?id=40147994) - [N. Korean hackers breached 10 defense contractors in South for months](https://english.hani.co.kr/arti/english_edition/e_national/1137990)
 * [2024-04-24, 17:50:18](https://news.ycombinator.com/item?id=40147534) - [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
 * [2024-04-24, 17:43:20](https://news.ycombinator.com/item?id=40147456) - [Bionic Bee](https://www.festo.com/de/en/e/about-festo/research-and-development/bionic-learning-network/bionicbee-id_1659889/)
 * [2024-04-24, 17:41:48](https://news.ycombinator.com/item?id=40147435) - [It's Official: Scientists Confirmed What's Inside the Moon](https://www.sciencealert.com/its-official-scientists-finally-confirmed-whats-inside-the-moon)
