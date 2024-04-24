@@ -22,7 +22,6 @@
 * [2024-04-24, 01:26:48](https://news.ycombinator.com/item?id=40139398) - [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
 * [2024-04-23, 23:26:58](https://news.ycombinator.com/item?id=40138579) - [American flag sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
 * [2024-04-23, 22:46:44](https://news.ycombinator.com/item?id=40138228) - [ESPHome](https://esphome.io/index.html)
-* [2024-04-23, 12:01:03](https://news.ycombinator.com/item?id=40130924) - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 * [2024-04-23, 08:59:09](https://news.ycombinator.com/item?id=40129935) - [How to Use I2C Devices in Apache NuttX: Scanning for Devices](https://www.EmbeddedRelated.com/showarticle/1656.php)
 * [2024-04-23, 07:37:44](https://news.ycombinator.com/item?id=40129505) - [How to Juggle Priorities (2023)](https://ashleyjanssen.com/how-to-juggle-priorities-decide-which-balls-are-glass-and-which-are-plastic/)
 * [2024-04-23, 07:25:49](https://news.ycombinator.com/item?id=40129444) - [The Deadline (2014)](https://www.thomas-huehn.com/2014/12/the-deadline/)
@@ -30,6 +29,7 @@
 * [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
 * [2024-04-22, 12:08:11](https://news.ycombinator.com/item?id=40113552) - [Fifty Years of the Personal Computer Operating System](https://computerhistory.org/blog/fifty-years-of-the-personal-computer-operating-system/)
 * [2024-04-22, 11:06:28](https://news.ycombinator.com/item?id=40113168) - [Zoho is attracting the attention of African startup founders](https://restofworld.org/2024/zoho-google-workspace-alternative-africa/)
+* [2024-04-22, 04:46:20](https://news.ycombinator.com/item?id=40111476) - [The Bad Trip Detective](https://nautil.us/the-bad-trip-detective-544328/)
 
 ## [Archives](archives/index.md)
 
