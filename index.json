@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-24, 02:34:31",
-      "https://news.ycombinator.com/item?id=40139837"
+      "2024-04-24, 03:00:46",
+      "https://news.ycombinator.com/item?id=40140002"
     ],
     [
-      "I'm giving up on open source",
-      "https://nutjs.dev/blog/i-give-up"
+      "Maxtext: A simple, performant and scalable Jax LLM",
+      "https://github.com/google/maxtext"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 02:06:33",
+      "https://news.ycombinator.com/item?id=40139650"
+    ],
+    [
+      "US breaks ground on its first-ever high-speed rail",
+      "https://www.popsci.com/technology/high-speed-rail/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40138579"
     ],
     [
-      "American Flag Sort",
+      "American flag sort",
       "https://xlinux.nist.gov/dads/HTML/americanFlagSort.html"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Scooping the Loop Snooper (2000)",
       "http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 22:23:01",
-      "https://news.ycombinator.com/item?id=40138063"
-    ],
-    [
-      "Show HN: Use LLMs to Interact with APIs",
-      "https://github.com/FlowTestAI/FlowTest"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "GPU compute in the browser at the speed of native: WebGPU marching cubes",
       "https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 19:18:00",
-      "https://news.ycombinator.com/item?id=40136026"
-    ],
-    [
-      "Dafny is a verification-aware programming language",
-      "https://github.com/dafny-lang/dafny"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Jsfxr: 8-Bit sound maker and sfx generator",
       "https://sfxr.me/"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 05:28:32",
+      "https://news.ycombinator.com/item?id=40128798"
+    ],
+    [
+      "Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles",
+      "https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2"
     ]
   ],
   [
