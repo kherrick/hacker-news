@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 17:50:18](https://news.ycombinator.com/item?id=40147534) - [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
 * [2024-04-24, 17:43:20](https://news.ycombinator.com/item?id=40147456) - [Bionic Bee](https://www.festo.com/de/en/e/about-festo/research-and-development/bionic-learning-network/bionicbee-id_1659889/)
 * [2024-04-24, 17:41:48](https://news.ycombinator.com/item?id=40147435) - [It's Official: Scientists Confirmed What's Inside the Moon](https://www.sciencealert.com/its-official-scientists-finally-confirmed-whats-inside-the-moon)
 * [2024-04-24, 17:15:29](https://news.ycombinator.com/item?id=40147104) - [TikTok CEO expects to defeat US ban: 'We aren't going anywhere'](https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/)
