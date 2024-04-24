@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-24, 14:22:44",
-      "https://news.ycombinator.com/item?id=40144732"
+      "2024-04-24, 15:03:48",
+      "https://news.ycombinator.com/item?id=40145213"
     ],
     [
-      "Volvo landed a cheap Chinese EV on U.S. shores in a trade war",
-      "https://www.reuters.com/business/autos-transportation/how-volvo-landed-cheap-chinese-ev-us-shores-trade-war-2024-04-24/"
+      "Fisker Plans More Layoffs and Bankruptcy Looms",
+      "https://techcrunch.com/2024/04/23/fisker-more-layoffs-bankruptcy-ocean-suv/"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Faer-rs: Linear algebra foundation for the Rust programming language",
       "https://github.com/sarah-ek/faer-rs"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 12:20:32",
+      "https://news.ycombinator.com/item?id=40143498"
+    ],
+    [
+      "Show HN: LangCSS. The AI Assistant for Tailwind",
+      "https://langcss.com/"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=40141777"
     ],
     [
-      "Piet (2018)",
+      "Piet: Programming language in which programs look like abstract paintings (2002)",
       "https://www.dangermouse.net/esoteric/piet.html"
     ]
   ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-04-23, 19:50:45",
-      "https://news.ycombinator.com/item?id=40136440"
-    ],
-    [
-      "Digitized Continuous Magnetic Recordings for the 1859 Carrington Event",
-      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807"
-    ]
-  ],
-  [
-    [
       "2024-04-23, 08:59:09",
       "https://news.ycombinator.com/item?id=40129935"
     ],
@@ -231,11 +231,21 @@
   ],
   [
     [
+      "2024-04-23, 08:51:59",
+      "https://news.ycombinator.com/item?id=40129887"
+    ],
+    [
+      "Intel Meteor Lake's NPU",
+      "https://chipsandcheese.com/2024/04/22/intel-meteor-lakes-npu/"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 07:37:44",
       "https://news.ycombinator.com/item?id=40129505"
     ],
     [
-      "How to Juggle Priorities",
+      "How to Juggle Priorities (2023)",
       "https://ashleyjanssen.com/how-to-juggle-priorities-decide-which-balls-are-glass-and-which-are-plastic/"
     ]
   ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=40113168"
     ],
     [
-      "Why African tech companies are ditching Google for a small Indian competitor",
+      "Zoho has positioned itself as a cheaper alternative to Google and Microsoft",
       "https://restofworld.org/2024/zoho-google-workspace-alternative-africa/"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 21:29:28",
-      "https://news.ycombinator.com/item?id=40109402"
-    ],
-    [
-      "A Rigorous Derivation of the Bubble Sort Curve",
-      "https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/"
     ]
   ]
 ]
