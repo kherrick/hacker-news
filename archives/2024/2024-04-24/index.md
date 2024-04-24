@@ -14,6 +14,7 @@
 * [2024-04-24, 12:28:17](https://news.ycombinator.com/item?id=40143559) - [Learn OTP with Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 12:24:18](https://news.ycombinator.com/item?id=40143527) - [North Macedonia advertises Invest.com for free close to a decade](https://itlogs.com/how-macedonia-advertises-invest-com-for-free-close-to-a-decade/)
 * [2024-04-24, 12:00:13](https://news.ycombinator.com/item?id=40143325) - [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
+* [2024-04-24, 11:57:21](https://news.ycombinator.com/item?id=40143301) - [Linux Xz Backdoor Damage Could Be Greater Than Feared](https://thenewstack.io/linux-xz-backdoor-damage-could-be-greater-than-feared/)
 * [2024-04-24, 11:51:36](https://news.ycombinator.com/item?id=40143242) - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)
 * [2024-04-24, 11:48:24](https://news.ycombinator.com/item?id=40143206) - [Hundreds of Jewish demonstrators arrested after New York protest seder](https://www.theguardian.com/world/2024/apr/24/not-like-other-passovers-hundreds-of-jewish-demonstrators-arrested-after-new-york-protest-seder)
 * [2024-04-24, 11:07:30](https://news.ycombinator.com/item?id=40142914) - [Google wants employees to move faster](https://www.cnbc.com/2024/04/23/google-search-boss-raghavan-warns-employees-of-new-operating-reality.html)
