@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 19:40:40](https://news.ycombinator.com/item?id=40148667) - [Spotify is struggling to get Apple to approve its iOS updates in the EU](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)
 * [2024-04-24, 19:32:20](https://news.ycombinator.com/item?id=40148563) - [\"I now lack the juice to fuel the bluster to conceal that I am a simpleton.\"](https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/)
+* [2024-04-24, 18:40:50](https://news.ycombinator.com/item?id=40148012) - ['So hot you can't breathe': Extreme heat hits the Philippines](https://www.japantimes.co.jp/news/2024/04/24/asia-pacific/philippines-extreme-heat/)
 * [2024-04-24, 18:37:39](https://news.ycombinator.com/item?id=40147994) - [N. Korean hackers breached 10 defense contractors in South for months](https://english.hani.co.kr/arti/english_edition/e_national/1137990)
-* [2024-04-24, 18:31:32](https://news.ycombinator.com/item?id=40147943) - [New evidence refutes Pentagon account of attack as US withdrew from Afghanistan](https://www.cnn.com/2024/04/24/world/new-evidence-challenges-pentagon-account-kabul-airport-attack-intl/index.html)
 * [2024-04-24, 18:25:27](https://news.ycombinator.com/item?id=40147883) - [A feature-rich front-end drag-and-drop component library](https://github.com/atlassian/pragmatic-drag-and-drop)
 * [2024-04-24, 17:00:34](https://news.ycombinator.com/item?id=40146937) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-* [2024-04-24, 16:48:21](https://news.ycombinator.com/item?id=40146751) - [TypeScript Essentials: Distinguishing Types with Branding](https://prosopo.io/articles/typescript-branding/)
 * [2024-04-24, 16:40:18](https://news.ycombinator.com/item?id=40146623) - [How we manage individual user concurrencies with Nginx and Lua](https://www.browserless.io/blog/managing-concurrencies-with-nginx-and-lua)
 * [2024-04-24, 16:34:35](https://news.ycombinator.com/item?id=40146505) - [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
 * [2024-04-24, 16:09:38](https://news.ycombinator.com/item?id=40146088) - [Snowflake Arctic Instruct (128x3B MoE), largest open source model](https://replicate.com/snowflake/snowflake-arctic-instruct)

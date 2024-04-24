@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 19:40:40](https://news.ycombinator.com/item?id=40148667) - [Spotify is struggling to get Apple to approve its iOS updates in the EU](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)
 * [2024-04-24, 19:32:20](https://news.ycombinator.com/item?id=40148563) - [\"I now lack the juice to fuel the bluster to conceal that I am a simpleton.\"](https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/)
 * [2024-04-24, 19:16:01](https://news.ycombinator.com/item?id=40148360) - [Lenovo and Micron first to implement LPCAMM2 in laptop](https://www.theregister.com/2024/04/24/lenovo_micron_lpcamm2_thinkpad/)
 * [2024-04-24, 18:58:50](https://news.ycombinator.com/item?id=40148158) - [Tesla driver arrested for homicide after running over motorcyclist on Autopilot](https://electrek.co/2024/04/23/tesla-driver-arrested-homicide-running-over-motorcyclist-autopilot/)
