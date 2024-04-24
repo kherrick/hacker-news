@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 13:09:18](https://news.ycombinator.com/item?id=40143940) - [Police is using ChatGPT-4 powered body cams that turn audio into reports](https://www.forbes.com/sites/thomasbrewster/2024/04/23/axon-ai-police-reports-/)
+* [2024-04-24, 12:58:06](https://news.ycombinator.com/item?id=40143814) - [70k workers show another way to earn living in globe's largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
+* [2024-04-24, 12:51:00](https://news.ycombinator.com/item?id=40143756) - [ShotSpotter Keeps Listening After Contracts Expire](https://southsideweekly.com/shotspotter-soundthinking-keeps-listening-after-contracts-expire-chicago-san-diego-san-antonio-indianapolis/)
+* [2024-04-24, 12:45:23](https://news.ycombinator.com/item?id=40143704) - [Open-Shell: A collection of utilities bringing back classic features to Windows](https://github.com/Open-Shell/Open-Shell-Menu)
+* [2024-04-24, 12:41:09](https://news.ycombinator.com/item?id=40143669) - [Faer-rs: Linear algebra foundation for the Rust programming language](https://github.com/sarah-ek/faer-rs)
 * [2024-04-24, 12:28:17](https://news.ycombinator.com/item?id=40143559) - [Learn OTP with Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 12:00:13](https://news.ycombinator.com/item?id=40143325) - [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
 * [2024-04-24, 11:51:36](https://news.ycombinator.com/item?id=40143242) - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)
@@ -20,6 +25,7 @@
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet](https://www.dangermouse.net/esoteric/piet.html)
 * [2024-04-24, 07:34:22](https://news.ycombinator.com/item?id=40141689) - [Nginx 1.26.0 Stable Released](https://nginx.org/en/CHANGES-1.26)
 * [2024-04-24, 07:32:07](https://news.ycombinator.com/item?id=40141667) - [US Senate passes TikTok divestment-or-ban bill](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/)
+* [2024-04-24, 06:57:24](https://news.ycombinator.com/item?id=40141463) - [Other People's Problems](https://seths.blog/2024/04/other-peoples-problems/)
 * [2024-04-24, 06:08:25](https://news.ycombinator.com/item?id=40141175) - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
 * [2024-04-24, 06:00:54](https://news.ycombinator.com/item?id=40141133) - [Ask HN: Benchmarks for models other than LLMs](https://news.ycombinator.com/item?id=40141133)
 * [2024-04-24, 05:28:12](https://news.ycombinator.com/item?id=40140919) - [QEMU Version 9.0.0 Released](https://www.qemu.org/2024/04/23/qemu-9-0-0/)
