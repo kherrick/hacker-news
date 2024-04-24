@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 15:03:48](https://news.ycombinator.com/item?id=40145213) - [Fisker Plans More Layoffs and Bankruptcy Looms](https://techcrunch.com/2024/04/23/fisker-more-layoffs-bankruptcy-ocean-suv/)
 * [2024-04-24, 14:22:44](https://news.ycombinator.com/item?id=40144732) - [Volvo landed a cheap Chinese EV on U.S. shores in a trade war](https://www.reuters.com/business/autos-transportation/how-volvo-landed-cheap-chinese-ev-us-shores-trade-war-2024-04-24/)
 * [2024-04-24, 14:04:36](https://news.ycombinator.com/item?id=40144554) - [VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
 * [2024-04-24, 13:36:57](https://news.ycombinator.com/item?id=40144235) - [Nvidia to Acquire Run:AI](https://blogs.nvidia.com/blog/runai/)
@@ -15,6 +16,7 @@
 * [2024-04-24, 12:41:09](https://news.ycombinator.com/item?id=40143669) - [Faer-rs: Linear algebra foundation for the Rust programming language](https://github.com/sarah-ek/faer-rs)
 * [2024-04-24, 12:28:17](https://news.ycombinator.com/item?id=40143559) - [Learn OTP with Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 12:24:18](https://news.ycombinator.com/item?id=40143527) - [North Macedonia advertises Invest.com for free close to a decade](https://itlogs.com/how-macedonia-advertises-invest-com-for-free-close-to-a-decade/)
+* [2024-04-24, 12:20:32](https://news.ycombinator.com/item?id=40143498) - [Show HN: LangCSS. The AI Assistant for Tailwind](https://langcss.com/)
 * [2024-04-24, 12:00:13](https://news.ycombinator.com/item?id=40143325) - [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
 * [2024-04-24, 11:57:21](https://news.ycombinator.com/item?id=40143301) - [Linux Xz Backdoor Damage Could Be Greater Than Feared](https://thenewstack.io/linux-xz-backdoor-damage-could-be-greater-than-feared/)
 * [2024-04-24, 11:51:36](https://news.ycombinator.com/item?id=40143242) - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)

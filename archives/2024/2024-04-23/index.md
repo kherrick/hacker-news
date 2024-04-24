@@ -115,6 +115,7 @@
 * [2024-04-23, 09:32:30](https://news.ycombinator.com/item?id=40130148) - [Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout – WebKit](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 09:20:52](https://news.ycombinator.com/item?id=40130068) - [HCL: Toolkit for Structured Configuration Languages](https://github.com/hashicorp/hcl)
 * [2024-04-23, 08:59:09](https://news.ycombinator.com/item?id=40129935) - [How to Use I2C Devices in (Apache) NuttX: Scanning for Devices](https://www.EmbeddedRelated.com/showarticle/1656.php)
+* [2024-04-23, 08:51:59](https://news.ycombinator.com/item?id=40129887) - [Intel Meteor Lake's NPU](https://chipsandcheese.com/2024/04/22/intel-meteor-lakes-npu/)
 * [2024-04-23, 08:15:32](https://news.ycombinator.com/item?id=40129687) - [Apple M1 Assembly Language Hello World (2021)](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)
 * [2024-04-23, 07:37:44](https://news.ycombinator.com/item?id=40129505) - [How to Juggle Priorities](https://ashleyjanssen.com/how-to-juggle-priorities-decide-which-balls-are-glass-and-which-are-plastic/)
 * [2024-04-23, 07:25:49](https://news.ycombinator.com/item?id=40129444) - [The Deadline (2014)](https://www.thomas-huehn.com/2014/12/the-deadline/)
