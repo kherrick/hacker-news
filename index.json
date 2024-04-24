@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-04-24, 19:52:56",
-      "https://news.ycombinator.com/item?id=40148795"
-    ],
-    [
-      "Why does Windows use backslash as path separator? (2019)",
-      "https://www.os2museum.com/wp/why-does-windows-really-use-backslash-as-path-separator/"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 19:44:47",
       "https://news.ycombinator.com/item?id=40148707"
     ],
@@ -187,6 +177,16 @@
     [
       "Biden signs TikTok bill into law, starting clock for ByteDance to divest",
       "https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 12:41:09",
+      "https://news.ycombinator.com/item?id=40143669"
+    ],
+    [
+      "Faer-rs: Linear algebra foundation for Rust",
+      "https://github.com/sarah-ek/faer-rs"
     ]
   ],
   [
