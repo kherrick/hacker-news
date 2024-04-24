@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 04:44:54](https://news.ycombinator.com/item?id=40140675) - [Apple/OpenELM: Efficient Open-Source Family Language Models](https://huggingface.co/apple/OpenELM)
 * [2024-04-24, 04:35:57](https://news.ycombinator.com/item?id=40140628) - [Empty S.F. office tower formerly valued at $62M sold for $6.5M](https://www.sfchronicle.com/realestate/article/s-f-tower-sells-90-discount-19418186.php)
 * [2024-04-24, 03:59:31](https://news.ycombinator.com/item?id=40140396) - [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
 * [2024-04-24, 03:00:46](https://news.ycombinator.com/item?id=40140002) - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
@@ -26,7 +27,6 @@
 * [2024-04-23, 08:59:09](https://news.ycombinator.com/item?id=40129935) - [How to Use I2C Devices in (Apache) NuttX: Scanning for Devices](https://www.EmbeddedRelated.com/showarticle/1656.php)
 * [2024-04-23, 06:48:32](https://news.ycombinator.com/item?id=40129225) - [Ask HN: How does deploying a fine-tuned model work](https://news.ycombinator.com/item?id=40129225)
 * [2024-04-23, 05:35:25](https://news.ycombinator.com/item?id=40128837) - [Jsfxr: 8-Bit sound maker and sfx generator](https://sfxr.me/)
-* [2024-04-22, 23:38:43](https://news.ycombinator.com/item?id=40126751) - [Krazam OS](https://www.krazam.tv/)
 * [2024-04-22, 17:10:31](https://news.ycombinator.com/item?id=40116385) - [Show HN: Kaldo – Cross Shell Aliases](https://github.com/cpendery/kaldo)
 * [2024-04-22, 13:26:02](https://news.ycombinator.com/item?id=40114127) - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
 * [2024-04-22, 07:03:52](https://news.ycombinator.com/item?id=40112013) - [Explore a digitized collection of doomed Everest climber's letters home](https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/)

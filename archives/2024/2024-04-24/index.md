@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 04:44:54](https://news.ycombinator.com/item?id=40140675) - [Apple/OpenELM: Efficient Open-Source Family Language Models](https://huggingface.co/apple/OpenELM)
 * [2024-04-24, 04:35:57](https://news.ycombinator.com/item?id=40140628) - [Empty S.F. office tower formerly valued at $62M sold for $6.5M](https://www.sfchronicle.com/realestate/article/s-f-tower-sells-90-discount-19418186.php)
 * [2024-04-24, 03:59:31](https://news.ycombinator.com/item?id=40140396) - [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
 * [2024-04-24, 03:00:46](https://news.ycombinator.com/item?id=40140002) - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
