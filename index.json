@@ -11,36 +11,6 @@
   ],
   [
     [
-      "2024-04-24, 21:00:31",
-      "https://news.ycombinator.com/item?id=40149580"
-    ],
-    [
-      "How to Land an Airplane in an Emergency (Step-by-Step)",
-      "https://eduardomourao.substack.com/p/how-to-land-an-airplane-in-an-emergency"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 20:43:17",
-      "https://news.ycombinator.com/item?id=40149352"
-    ],
-    [
-      "First Nvidia DGX H200 in the world, hand-delivered to OpenAI",
-      "https://twitter.com/gdb/status/1783234941842518414"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 20:34:31",
-      "https://news.ycombinator.com/item?id=40149248"
-    ],
-    [
-      "MDMA enhances empathy-like behaviors in mice via 5-HT release",
-      "https://www.science.org/doi/full/10.1126/sciadv.adl6554?af=R"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 20:24:46",
       "https://news.ycombinator.com/item?id=40149136"
     ],
@@ -51,22 +21,12 @@
   ],
   [
     [
-      "2024-04-24, 20:21:32",
-      "https://news.ycombinator.com/item?id=40149095"
+      "2024-04-24, 20:19:46",
+      "https://news.ycombinator.com/item?id=40149071"
     ],
     [
-      "IBM to buy HashiCorp in $6.4B deal",
-      "https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 20:15:23",
-      "https://news.ycombinator.com/item?id=40149024"
-    ],
-    [
-      "Augment Raises $227M at $977M Valuation to Empower Software Teams with AI",
-      "https://www.augmentcode.com/blog/augment-inc-raises-227-million"
+      "Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth",
+      "https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/"
     ]
   ],
   [
@@ -107,16 +67,6 @@
     [
       "Nearsightedness is at epidemic levels – and the problem begins in childhood",
       "https://theconversation.com/nearsightedness-is-at-epidemic-levels-and-the-problem-begins-in-childhood-225255"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 19:37:51",
-      "https://news.ycombinator.com/item?id=40148628"
-    ],
-    [
-      "Zap Energy achieves 37M-degree temperatures in a compact fusion device",
-      "https://www.zapenergy.com//news/37-million-degree-temperatures-in-a-compact-device"
     ]
   ],
   [
@@ -171,6 +121,16 @@
   ],
   [
     [
+      "2024-04-24, 16:39:48",
+      "https://news.ycombinator.com/item?id=40146615"
+    ],
+    [
+      "Borrow Checking, RC, GC, and the Eleven () Other Memory Safety Approaches",
+      "https://verdagon.dev/grimoire/grimoire"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 16:34:35",
       "https://news.ycombinator.com/item?id=40146505"
     ],
@@ -201,12 +161,42 @@
   ],
   [
     [
+      "2024-04-24, 12:58:06",
+      "https://news.ycombinator.com/item?id=40143814"
+    ],
+    [
+      "The Basque Country’s Mondragón Corporation is the largest industrial co-op",
+      "https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 12:41:09",
       "https://news.ycombinator.com/item?id=40143669"
     ],
     [
       "Faer-rs: Linear algebra foundation for Rust",
       "https://github.com/sarah-ek/faer-rs"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 12:20:32",
+      "https://news.ycombinator.com/item?id=40143498"
+    ],
+    [
+      "Show HN: LangCSS – An AI Assistant for Tailwind",
+      "https://langcss.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 10:18:51",
+      "https://news.ycombinator.com/item?id=40142603"
+    ],
+    [
+      "PyPy v7.3.16",
+      "https://www.pypy.org/posts/2024/04/pypy-v7316-release.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Golang PGO builds using GitHub Actions",
       "https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 01:32:39",
+      "https://news.ycombinator.com/item?id=40139434"
+    ],
+    [
+      "Simulating Jupiter",
+      "https://emildziewanowski.com/flowfields/"
     ]
   ],
   [
