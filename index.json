@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-24, 05:28:12",
-      "https://news.ycombinator.com/item?id=40140919"
-    ],
-    [
-      "QEMU Version 9.0.0 Released",
-      "https://www.qemu.org/2024/04/23/qemu-9-0-0/"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 05:27:28",
       "https://news.ycombinator.com/item?id=40140914"
     ],
@@ -37,16 +27,6 @@
     [
       "OpenBSD – Game of Trees 0.98 released",
       "https://www.undeadly.org/cgi?action=article;sid=20240424043509"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 04:44:54",
-      "https://news.ycombinator.com/item?id=40140675"
-    ],
-    [
-      "Apple/OpenELM: Efficient Open-Source Family Language Models",
-      "https://huggingface.co/apple/OpenELM"
     ]
   ],
   [
@@ -97,6 +77,16 @@
     [
       "CoreNet: A library for training deep neural networks",
       "https://github.com/apple/corenet"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 01:10:51",
+      "https://news.ycombinator.com/item?id=40139291"
+    ],
+    [
+      "Protecting the Darkness in Chile's Atacama Desert",
+      "https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Jsfxr: 8-Bit sound maker and sfx generator",
       "https://sfxr.me/"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 23:38:43",
+      "https://news.ycombinator.com/item?id=40126751"
+    ],
+    [
+      "Krazam OS",
+      "https://www.krazam.tv/"
     ]
   ],
   [
