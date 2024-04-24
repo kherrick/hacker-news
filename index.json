@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2024-04-24, 16:48:21",
+      "https://news.ycombinator.com/item?id=40146751"
+    ],
+    [
+      "TypeScript Essentials: Distinguishing Types with Branding",
+      "https://prosopo.io/articles/typescript-branding/"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 16:40:18",
       "https://news.ycombinator.com/item?id=40146623"
     ],
     [
       "How we manage individual user concurrencies with Nginx and Lua",
       "https://www.browserless.io/blog/managing-concurrencies-with-nginx-and-lua"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 16:37:57",
-      "https://news.ycombinator.com/item?id=40146575"
-    ],
-    [
-      "Pulumi adds drift detection, time-to-live stacks, and scheduled deployments",
-      "https://www.pulumi.com/blog/infrastructure-lifecycle-management/"
     ]
   ],
   [
@@ -71,21 +71,11 @@
   ],
   [
     [
-      "2024-04-24, 12:45:23",
-      "https://news.ycombinator.com/item?id=40143704"
-    ],
-    [
-      "Open-Shell: A collection of utilities bringing back classic features to Windows",
-      "https://github.com/Open-Shell/Open-Shell-Menu"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 12:41:09",
       "https://news.ycombinator.com/item?id=40143669"
     ],
     [
-      "Faer-rs: Linear algebra foundation for the Rust programming language",
+      "Faer-rs: Linear algebra foundation for Rust",
       "https://github.com/sarah-ek/faer-rs"
     ]
   ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-04-23, 12:01:03",
+      "https://news.ycombinator.com/item?id=40130924"
+    ],
+    [
+      "New Foundations is consistent – a difficult mathematical proof proved using Lean",
+      "https://leanprover-community.github.io/con-nf//"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 11:49:18",
       "https://news.ycombinator.com/item?id=40130803"
     ],
@@ -247,16 +247,6 @@
     [
       "How to Use I2C Devices in Apache NuttX: Scanning for Devices",
       "https://www.EmbeddedRelated.com/showarticle/1656.php"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 05:28:32",
-      "https://news.ycombinator.com/item?id=40128798"
-    ],
-    [
-      "Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles",
-      "https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2"
     ]
   ],
   [
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=40113552"
     ],
     [
-      "Fifty Years of the Personal Computer Operating System",
+      "Fifty years of the personal computer operating system",
       "https://computerhistory.org/blog/fifty-years-of-the-personal-computer-operating-system/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Zoho is attracting the attention of African startup founders",
       "https://restofworld.org/2024/zoho-google-workspace-alternative-africa/"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 04:46:20",
+      "https://news.ycombinator.com/item?id=40111476"
+    ],
+    [
+      "The Bad Trip Detective",
+      "https://nautil.us/the-bad-trip-detective-544328/"
     ]
   ]
 ]
