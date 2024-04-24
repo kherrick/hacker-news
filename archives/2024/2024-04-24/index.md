@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 19:32:20](https://news.ycombinator.com/item?id=40148563) - [\"I now lack the juice to fuel the bluster to conceal that I am a simpleton.\"](https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/)
 * [2024-04-24, 19:16:01](https://news.ycombinator.com/item?id=40148360) - [Lenovo and Micron first to implement LPCAMM2 in laptop](https://www.theregister.com/2024/04/24/lenovo_micron_lpcamm2_thinkpad/)
 * [2024-04-24, 18:58:50](https://news.ycombinator.com/item?id=40148158) - [Tesla driver arrested for homicide after running over motorcyclist on Autopilot](https://electrek.co/2024/04/23/tesla-driver-arrested-homicide-running-over-motorcyclist-autopilot/)
 * [2024-04-24, 18:44:13](https://news.ycombinator.com/item?id=40148040) - [My Dinner with [Marc] Andreessen](https://prospect.org/power/2024-04-24-my-dinner-with-andreessen/)
 * [2024-04-24, 18:40:50](https://news.ycombinator.com/item?id=40148012) - ['So hot you can't breathe': Extreme heat hits the Philippines](https://www.japantimes.co.jp/news/2024/04/24/asia-pacific/philippines-extreme-heat/)
 * [2024-04-24, 18:37:39](https://news.ycombinator.com/item?id=40147994) - [N. Korean hackers breached 10 defense contractors in South for months](https://english.hani.co.kr/arti/english_edition/e_national/1137990)
+* [2024-04-24, 18:31:32](https://news.ycombinator.com/item?id=40147943) - [New evidence refutes Pentagon account of attack as US withdrew from Afghanistan](https://www.cnn.com/2024/04/24/world/new-evidence-challenges-pentagon-account-kabul-airport-attack-intl/index.html)
+* [2024-04-24, 18:25:27](https://news.ycombinator.com/item?id=40147883) - [A feature-rich front-end drag-and-drop component library](https://github.com/atlassian/pragmatic-drag-and-drop)
 * [2024-04-24, 17:50:18](https://news.ycombinator.com/item?id=40147534) - [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
 * [2024-04-24, 17:43:20](https://news.ycombinator.com/item?id=40147456) - [Bionic Bee](https://www.festo.com/de/en/e/about-festo/research-and-development/bionic-learning-network/bionicbee-id_1659889/)
 * [2024-04-24, 17:41:48](https://news.ycombinator.com/item?id=40147435) - [It's Official: Scientists Confirmed What's Inside the Moon](https://www.sciencealert.com/its-official-scientists-finally-confirmed-whats-inside-the-moon)
