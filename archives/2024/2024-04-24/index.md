@@ -17,6 +17,7 @@
 * [2024-04-24, 04:35:57](https://news.ycombinator.com/item?id=40140628) - [Empty S.F. office tower formerly valued at $62M sold for $6.5M](https://www.sfchronicle.com/realestate/article/s-f-tower-sells-90-discount-19418186.php)
 * [2024-04-24, 03:59:31](https://news.ycombinator.com/item?id=40140396) - [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
 * [2024-04-24, 03:00:46](https://news.ycombinator.com/item?id=40140002) - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
+* [2024-04-24, 02:41:40](https://news.ycombinator.com/item?id=40139880) - [AI Starts to Sift Through String Theory's Near-Endless Possibilities](https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/)
 * [2024-04-24, 02:34:31](https://news.ycombinator.com/item?id=40139837) - [I'm giving up on open source](https://nutjs.dev/blog/i-give-up)
 * [2024-04-24, 02:28:40](https://news.ycombinator.com/item?id=40139794) - [US moves to force ByteDance to sell TikTok](https://www.semafor.com/article/04/23/2024/us-senate-moves-to-force-bytedance-to-sell-tiktok)
 * [2024-04-24, 02:06:33](https://news.ycombinator.com/item?id=40139650) - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
