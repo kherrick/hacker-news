@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 20:34:31](https://news.ycombinator.com/item?id=40149248) - [MDMA enhances empathy-like behaviors in mice via 5-HT release](https://www.science.org/doi/full/10.1126/sciadv.adl6554?af=R)
 * [2024-04-24, 20:26:50](https://news.ycombinator.com/item?id=40149154) - [HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
 * [2024-04-24, 20:24:46](https://news.ycombinator.com/item?id=40149136) - [IBM to Acquire HashiCorp, Inc for $6.4 billion](https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform)
 * [2024-04-24, 20:21:32](https://news.ycombinator.com/item?id=40149095) - [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)

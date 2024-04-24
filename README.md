@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-24, 20:34:31](https://news.ycombinator.com/item?id=40149248) - [MDMA enhances empathy-like behaviors in mice via 5-HT release](https://www.science.org/doi/full/10.1126/sciadv.adl6554?af=R)
 * [2024-04-24, 20:26:50](https://news.ycombinator.com/item?id=40149154) - [HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
 * [2024-04-24, 20:24:46](https://news.ycombinator.com/item?id=40149136) - [IBM to Acquire HashiCorp, Inc for $6.4 billion](https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform)
 * [2024-04-24, 20:21:32](https://news.ycombinator.com/item?id=40149095) - [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
@@ -15,7 +16,6 @@
 * [2024-04-24, 16:34:35](https://news.ycombinator.com/item?id=40146505) - [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
 * [2024-04-24, 16:09:38](https://news.ycombinator.com/item?id=40146088) - [Snowflake Arctic Instruct (128x3B MoE), largest open source model](https://replicate.com/snowflake/snowflake-arctic-instruct)
 * [2024-04-24, 15:59:55](https://news.ycombinator.com/item?id=40145963) - [Biden signs TikTok bill into law, starting clock for ByteDance to divest](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
-* [2024-04-24, 12:58:06](https://news.ycombinator.com/item?id=40143814) - [The Basque Country’s Mondragón Corporation is the largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
 * [2024-04-24, 12:41:09](https://news.ycombinator.com/item?id=40143669) - [Faer-rs: Linear algebra foundation for Rust](https://github.com/sarah-ek/faer-rs)
 * [2024-04-24, 12:20:32](https://news.ycombinator.com/item?id=40143498) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/)
 * [2024-04-24, 08:35:30](https://news.ycombinator.com/item?id=40141980) - [Show HN: Podlite - a lightweight markup language for organizing knowledge](https://podlite.org/2024/4/23/1/podlite-specification-v1-0-released)
