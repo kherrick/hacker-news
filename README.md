@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 22:04:54](https://news.ycombinator.com/item?id=40163639) - [2025 Toyota Camry First Drive Review: The Best 'Boring' Car Keeps Getting Better](https://www.thedrive.com/car-reviews/2025-toyota-camry-first-drive-review)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:13:52](https://news.ycombinator.com/item?id=40163104) - [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
@@ -14,7 +15,6 @@
 * [2024-04-25, 16:42:05](https://news.ycombinator.com/item?id=40159766) - [DDC OLED: how to drive a tiny display from an HDMI port. (2022)](https://mitxela.com/projects/ddc-oled)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
-* [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158752) - [We have 4 days to contest KYC being required by internet services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
 * [2024-04-25, 14:50:13](https://news.ycombinator.com/item?id=40158266) - [Show HN: I built a self-hosted status page and monitoring tool for my projects](https://github.com/goksan/Statusnook)
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
