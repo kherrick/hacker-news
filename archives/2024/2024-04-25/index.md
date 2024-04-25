@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
 * [2024-04-25, 14:11:34](https://news.ycombinator.com/item?id=40157841) - [Show HN: Snatched! my game where you lure LLM-powered NPCs to your alien ship](https://playsnatched.com)
+* [2024-04-25, 13:48:38](https://news.ycombinator.com/item?id=40157559) - [Searing heat shuts schools for 33M children](https://www.bbc.com/news/articles/c1wxjj3g965o)
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 13:42:16](https://news.ycombinator.com/item?id=40157470) - [Florida inmates charged for prison cells long after incarceration](https://www.abcactionnews.com/news/local-news/i-team-investigates/pay-to-stay-florida-inmates-charged-for-prison-cells-long-after-incarceration)
 * [2024-04-25, 13:12:36](https://news.ycombinator.com/item?id=40157111) - [Ubuntu 24.04 Noble Numbat](https://releases.ubuntu.com/noble/)

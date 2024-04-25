@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-25, 14:11:34](https://news.ycombinator.com/item?id=40157841) - [Show HN: Snatched! my game where you lure LLM-powered NPCs to your alien ship](https://playsnatched.com)
+* [2024-04-25, 13:48:38](https://news.ycombinator.com/item?id=40157559) - [Searing heat shuts schools for 33M children](https://www.bbc.com/news/articles/c1wxjj3g965o)
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 13:05:19](https://news.ycombinator.com/item?id=40157028) - [Updating California's grid for EVs may cost up to $20B](https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/)
 * [2024-04-25, 12:50:14](https://news.ycombinator.com/item?id=40156867) - [Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
@@ -29,7 +30,6 @@
 * [2024-04-24, 06:36:54](https://news.ycombinator.com/item?id=40141350) - [Progress Quest: the original idle game](http://progressquest.com/play/)
 * [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The evolution of stupidity (and octopus intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)
 * [2024-04-23, 08:06:22](https://news.ycombinator.com/item?id=40129637) - [Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps](https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/)
-* [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 
 ## [Archives](archives/index.md)
 
