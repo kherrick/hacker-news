@@ -11,6 +11,7 @@
 * [2024-04-25, 01:03:12](https://news.ycombinator.com/item?id=40151982) - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 * [2024-04-25, 00:58:37](https://news.ycombinator.com/item?id=40151952) - [You Are What You Read, Even If You Don't Always Remember It](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 * [2024-04-25, 00:47:49](https://news.ycombinator.com/item?id=40151860) - [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
+* [2024-04-25, 00:21:32](https://news.ycombinator.com/item?id=40151650) - [Twilight of the Age of Steam, Part 2: Petroleum and After](https://technicshistory.com/2024/04/25/twilight-of-the-age-of-steam-part-2-petroleum-and-after/)
 * [2024-04-25, 00:17:41](https://news.ycombinator.com/item?id=40151623) - [Mercedes unveils 2025 electric G-Class, with 4 motors and tank turns](https://electrek.co/2024/04/23/mercedes-unveils-2025-electric-g-class-with-4-motors-and-tank-turns/)
 * [2024-04-25, 00:01:09](https://news.ycombinator.com/item?id=40151486) - [Llama3 – 65k Context Window with great recall](https://twitter.com/winglian/status/1783122644579090600)
 * [2024-04-25, 00:01:06](https://news.ycombinator.com/item?id=40151485) - [Windows 11 now comes with its own adware](https://www.engadget.com/windows-11-now-comes-with-its-own-adware-124531977.html)
