@@ -3,14 +3,13 @@
 * [2024-04-25, 12:50:14](https://news.ycombinator.com/item?id=40156867) - [Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
 * [2024-04-25, 12:16:58](https://news.ycombinator.com/item?id=40156569) - [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
 * [2024-04-25, 12:13:51](https://news.ycombinator.com/item?id=40156534) - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
-* [2024-04-25, 12:13:13](https://news.ycombinator.com/item?id=40156527) - [Why One Man Spent 12 Years Fighting Robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
+* [2024-04-25, 12:13:13](https://news.ycombinator.com/item?id=40156527) - [David Frankel is a man on a mission against robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
 * [2024-04-25, 12:00:23](https://news.ycombinator.com/item?id=40156397) - [Cogram (YC W22) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
 * [2024-04-25, 11:53:04](https://news.ycombinator.com/item?id=40156330) - [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
 * [2024-04-25, 11:47:36](https://news.ycombinator.com/item?id=40156275) - [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
 * [2024-04-25, 11:29:58](https://news.ycombinator.com/item?id=40156133) - [More on x86 – The Chip Letter](https://thechipletter.substack.com/p/more-on-x86)
 * [2024-04-25, 11:09:58](https://news.ycombinator.com/item?id=40155981) - [Researchers Showcase Decentralized AI-Powered Torrent Search Engine](https://torrentfreak.com/researchers-showcase-decentralized-ai-powered-torrent-search-engine-240425/)
 * [2024-04-25, 11:02:02](https://news.ycombinator.com/item?id=40155926) - [Desperately Trying to Fathom the Coffeepocalypse Argument](https://www.astralcodexten.com/p/desperately-trying-to-fathom-the)
-* [2024-04-25, 09:45:57](https://news.ycombinator.com/item?id=40155405) - [Laws of Tech: Commoditize Your Complement (2022)](https://gwern.net/complement)
 * [2024-04-25, 09:40:59](https://news.ycombinator.com/item?id=40155374) - [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
 * [2024-04-25, 06:22:26](https://news.ycombinator.com/item?id=40154104) - [Chime Design and Build](http://leehite.org/Chimes.htm)
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
@@ -30,6 +29,7 @@
 * [2024-04-24, 06:36:54](https://news.ycombinator.com/item?id=40141350) - [Progress Quest: the original idle game](http://progressquest.com/play/)
 * [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The evolution of stupidity (and octopus intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)
 * [2024-04-23, 08:06:22](https://news.ycombinator.com/item?id=40129637) - [Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps](https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/)
+* [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 
 ## [Archives](archives/index.md)
 
