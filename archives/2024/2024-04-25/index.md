@@ -9,6 +9,7 @@
 * [2024-04-25, 21:51:14](https://news.ycombinator.com/item?id=40163516) - [Cops cuff man for allegedly framing colleague with AI-generated hate speech clip](https://www.theregister.com/2024/04/25/ai_voice_arrest/)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:27:19](https://news.ycombinator.com/item?id=40163251) - [U.S. Fertility Rate Falls to Record Low](https://www.wsj.com/us-news/america-birth-rate-decline-a111d21b)
+* [2024-04-25, 21:13:52](https://news.ycombinator.com/item?id=40163104) - [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
 * [2024-04-25, 21:01:30](https://news.ycombinator.com/item?id=40162976) - [Amazon Workdocs End of Life](https://docs.aws.amazon.com/workdocs/latest/userguide/what_is.html)
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-04-25, 20:58:21](https://news.ycombinator.com/item?id=40162930) - [Cease labeling recursion as challenging for students](https://mabelcor.substack.com/p/cease-labeling-recursion-as-challenging)
