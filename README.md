@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 13:05:19](https://news.ycombinator.com/item?id=40157028) - [Updating California's grid for EVs may cost up to $20B](https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/)
 * [2024-04-25, 12:50:14](https://news.ycombinator.com/item?id=40156867) - [Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
 * [2024-04-25, 12:16:58](https://news.ycombinator.com/item?id=40156569) - [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
@@ -28,7 +29,6 @@
 * [2024-04-24, 06:36:54](https://news.ycombinator.com/item?id=40141350) - [Progress Quest: the original idle game](http://progressquest.com/play/)
 * [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The evolution of stupidity (and octopus intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)
 * [2024-04-23, 08:06:22](https://news.ycombinator.com/item?id=40129637) - [Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps](https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/)
-* [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 * [2024-04-22, 23:01:49](https://news.ycombinator.com/item?id=40124645) - [For Sale: A Rare Klimt Portrait, Valued at $32M. But of Whom?](https://www.nytimes.com/2024/04/22/arts/design/klimt-sale-vienna.html)
 
 ## [Archives](archives/index.md)

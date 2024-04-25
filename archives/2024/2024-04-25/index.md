@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 13:42:16](https://news.ycombinator.com/item?id=40157470) - [Florida inmates charged for prison cells long after incarceration](https://www.abcactionnews.com/news/local-news/i-team-investigates/pay-to-stay-florida-inmates-charged-for-prison-cells-long-after-incarceration)
 * [2024-04-25, 13:12:36](https://news.ycombinator.com/item?id=40157111) - [Ubuntu 24.04 Noble Numbat](https://releases.ubuntu.com/noble/)
 * [2024-04-25, 13:05:19](https://news.ycombinator.com/item?id=40157028) - [Updating California's grid for EVs may cost up to $20B](https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/)
