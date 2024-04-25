@@ -1,12 +1,62 @@
 [
   [
     [
+      "2024-04-25, 12:00:23",
+      "https://news.ycombinator.com/item?id=40156397"
+    ],
+    [
+      "Cogram (YC W22) Is Hiring a Customer Success Engineer",
+      "https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 11:53:04",
+      "https://news.ycombinator.com/item?id=40156330"
+    ],
+    [
+      "A useful front-end confetti animation library",
+      "https://github.com/catdad/canvas-confetti"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 11:47:36",
+      "https://news.ycombinator.com/item?id=40156275"
+    ],
+    [
+      "TSMC unveils 1.6nm process technology with backside power delivery",
+      "https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 11:29:58",
+      "https://news.ycombinator.com/item?id=40156133"
+    ],
+    [
+      "More on x86 – The Chip Letter",
+      "https://thechipletter.substack.com/p/more-on-x86"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 11:19:55",
       "https://news.ycombinator.com/item?id=40156057"
     ],
     [
       "Leaving Substack",
       "https://www.mostlypython.com/leaving-substack/"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 11:09:58",
+      "https://news.ycombinator.com/item?id=40155981"
+    ],
+    [
+      "Researchers Showcase Decentralized AI-Powered Torrent Search Engine",
+      "https://torrentfreak.com/researchers-showcase-decentralized-ai-powered-torrent-search-engine-240425/"
     ]
   ],
   [
@@ -57,26 +107,6 @@
     [
       "How NASA Repaired Voyager 1 from 15B Miles Away",
       "https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 09:20:25",
-      "https://news.ycombinator.com/item?id=40155240"
-    ],
-    [
-      "Boeing retaliated against its own engineers working for FAA, union says",
-      "https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 07:00:03",
-      "https://news.ycombinator.com/item?id=40154351"
-    ],
-    [
-      "CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE",
-      "https://www.workatastartup.com/companies/codestory"
     ]
   ],
   [
@@ -181,36 +211,6 @@
   ],
   [
     [
-      "2024-04-24, 21:02:58",
-      "https://news.ycombinator.com/item?id=40149608"
-    ],
-    [
-      "Show HN: Open-source alternative to HashiCorp/IBM Vault",
-      "https://github.com/Infisical/infisical/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 20:50:03",
-      "https://news.ycombinator.com/item?id=40149446"
-    ],
-    [
-      "Magic Numbers",
-      "https://exple.tive.org/blarg/2024/04/24/magic-numbers/"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 20:19:46",
-      "https://news.ycombinator.com/item?id=40149071"
-    ],
-    [
-      "Augment, a GitHub Copilot rival, launches out of stealth",
-      "https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 19:32:20",
       "https://news.ycombinator.com/item?id=40148563"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-04-23, 11:49:18",
-      "https://news.ycombinator.com/item?id=40130803"
-    ],
-    [
-      "VideoGigaGAN: Towards detail-rich video super-resolution",
-      "https://videogigagan.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-04-23, 11:04:25",
       "https://news.ycombinator.com/item?id=40130474"
     ],
     [
       "The evolution of stupidity (and octopus intelligence)",
       "https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 08:06:22",
+      "https://news.ycombinator.com/item?id=40129637"
+    ],
+    [
+      "Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps",
+      "https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/"
     ]
   ],
   [
