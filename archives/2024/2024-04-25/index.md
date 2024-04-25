@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 11:19:55](https://news.ycombinator.com/item?id=40156057) - [Leaving Substack](https://www.mostlypython.com/leaving-substack/)
 * [2024-04-25, 10:32:00](https://news.ycombinator.com/item?id=40155701) - [EPA rules would force coal-fired power plants to capture emissions or shut down](https://abcnews.go.com/US/wireStory/tough-new-epa-rules-force-coal-fired-power-109613509)
 * [2024-04-25, 10:09:08](https://news.ycombinator.com/item?id=40155545) - [JavaScript Naked Day](https://starbreaker.org/blog/links/js-naked-day/index.html)
 * [2024-04-25, 09:58:07](https://news.ycombinator.com/item?id=40155489) - [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
