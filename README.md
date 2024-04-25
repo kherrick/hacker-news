@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 20:07:21](https://news.ycombinator.com/item?id=40162354) - [Google Earning Q1 2024 [pdf]](https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf)
 * [2024-04-25, 19:16:52](https://news.ycombinator.com/item?id=40161811) - [Asian American women are getting lung cancer despite never smoking](https://www.nbcnews.com/news/us-news/asian-american-women-lung-cancer-rcna138895)
 * [2024-04-25, 19:15:11](https://news.ycombinator.com/item?id=40161794) - [No Abstractions: an Increase API design principle](https://increase.com/articles/no-abstractions)
 * [2024-04-25, 19:06:58](https://news.ycombinator.com/item?id=40161697) - [Start Your Own ISP](https://startyourownisp.com/)
@@ -19,15 +20,14 @@
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 12:51:44](https://news.ycombinator.com/item?id=40156890) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 * [2024-04-25, 12:13:51](https://news.ycombinator.com/item?id=40156534) - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
-* [2024-04-25, 12:13:13](https://news.ycombinator.com/item?id=40156527) - [David Frankel is a man on a mission against robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
 * [2024-04-25, 11:53:04](https://news.ycombinator.com/item?id=40156330) - [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
 * [2024-04-25, 11:47:36](https://news.ycombinator.com/item?id=40156275) - [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
 * [2024-04-25, 06:22:26](https://news.ycombinator.com/item?id=40154104) - [Chime Design and Build](http://leehite.org/Chimes.htm)
-* [2024-04-25, 05:37:27](https://news.ycombinator.com/item?id=40153825) - [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
 * [2024-04-24, 21:40:28](https://news.ycombinator.com/item?id=40150045) - [Autotuner: How to speed up your Rails app](https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/)
 * [2024-04-24, 12:15:26](https://news.ycombinator.com/item?id=40143460) - [Swan – A Lightweight Language Model Execution Environment Using FPGA](https://github.com/turingmotors/swan)
 * [2024-04-24, 11:55:54](https://news.ycombinator.com/item?id=40143285) - [Notes on Structured Programming (1970) [pdf]](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
+* [2024-04-24, 10:48:11](https://news.ycombinator.com/item?id=40142791) - [Ask HN: Any tool for managing large and variable command lines?](https://news.ycombinator.com/item?id=40142791)
 * [2024-04-24, 00:41:42](https://news.ycombinator.com/item?id=40139130) - [Retro-tech HP-25 Calculator](https://github.com/eshazen/retro-25)
 * [2024-04-23, 08:06:22](https://news.ycombinator.com/item?id=40129637) - [Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps](https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/)
 
