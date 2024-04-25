@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
 * [2024-04-25, 04:25:56](https://news.ycombinator.com/item?id=40153409) - [Ghost Jobs – it's not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
+* [2024-04-25, 03:58:14](https://news.ycombinator.com/item?id=40153253) - [New Video of Strong Full Levitation of Pcposos Room Temperature Superconductor](https://www.nextbigfuture.com/2024/04/new-video-of-strong-full-levitation-of-pcposos-room-temperature-superconductor.html)
 * [2024-04-25, 03:14:21](https://news.ycombinator.com/item?id=40152977) - [McKinsey Is Under Criminal Investigation for Its Opioid Work](https://www.nytimes.com/2024/04/24/business/mckinsey-criminal-investigation.html)
 * [2024-04-25, 03:12:26](https://news.ycombinator.com/item?id=40152967) - [Australia's spies, cops want accountable encryption- a.k.a. access to backdoors](https://www.theregister.com/2024/04/25/asio_afp_accountable_encryption/)
 * [2024-04-25, 02:34:10](https://news.ycombinator.com/item?id=40152682) - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
