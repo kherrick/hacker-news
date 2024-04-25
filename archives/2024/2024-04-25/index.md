@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
 * [2024-04-25, 18:56:40](https://news.ycombinator.com/item?id=40161573) - [Portugal Overthrew its Fascist Regime 50 Years Ago Today to Become a Democracy](https://www.reuters.com/world/europe/portugals-democracy-turns-50-thousands-commemorate-carnation-revolution-2024-04-25/)
+* [2024-04-25, 18:56:03](https://news.ycombinator.com/item?id=40161564) - [Life Lessons from a Ten-Year-Old Cigarette Vendor](https://medium.com/a-culturated/life-lessons-from-a-ten-year-old-cigarette-vendor-301ba67b3924)
 * [2024-04-25, 18:36:01](https://news.ycombinator.com/item?id=40161334) - [Xz sshd backdoor collecting usernames from logs](https://isc.sans.edu/diary/30802)
 * [2024-04-25, 17:52:01](https://news.ycombinator.com/item?id=40160824) - [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
 * [2024-04-25, 17:48:24](https://news.ycombinator.com/item?id=40160770) - [Oracle's Jump to Nashville Surprises Austin](https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18)

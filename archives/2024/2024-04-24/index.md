@@ -78,6 +78,7 @@
 * [2024-04-24, 12:15:26](https://news.ycombinator.com/item?id=40143460) - [Swan – A Lightweight Language Model Execution Environment Using FPGA](https://github.com/turingmotors/swan)
 * [2024-04-24, 12:00:13](https://news.ycombinator.com/item?id=40143325) - [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
 * [2024-04-24, 11:57:21](https://news.ycombinator.com/item?id=40143301) - [Linux Xz Backdoor Damage Could Be Greater Than Feared](https://thenewstack.io/linux-xz-backdoor-damage-could-be-greater-than-feared/)
+* [2024-04-24, 11:55:54](https://news.ycombinator.com/item?id=40143285) - [Notes on Structured Programming (1970) [pdf]](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
 * [2024-04-24, 11:51:36](https://news.ycombinator.com/item?id=40143242) - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)
 * [2024-04-24, 11:48:24](https://news.ycombinator.com/item?id=40143206) - [Hundreds of Jewish demonstrators arrested after New York protest seder](https://www.theguardian.com/world/2024/apr/24/not-like-other-passovers-hundreds-of-jewish-demonstrators-arrested-after-new-york-protest-seder)
 * [2024-04-24, 11:15:11](https://news.ycombinator.com/item?id=40142956) - [Perception of when old age starts has increased over time, shows study](https://www.theguardian.com/science/2024/apr/22/when-old-age-starts-perception-study)
