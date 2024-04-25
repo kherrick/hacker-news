@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 03:14:21](https://news.ycombinator.com/item?id=40152977) - [McKinsey Is Under Criminal Investigation for Its Opioid Work](https://www.nytimes.com/2024/04/24/business/mckinsey-criminal-investigation.html)
 * [2024-04-25, 02:03:29](https://news.ycombinator.com/item?id=40152486) - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
 * [2024-04-25, 01:11:16](https://news.ycombinator.com/item?id=40152049) - [Air Force picks Anduril, General Atomics to develop unmanned fighter jets](https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/)
 * [2024-04-25, 01:03:12](https://news.ycombinator.com/item?id=40151982) - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 * [2024-04-25, 00:58:37](https://news.ycombinator.com/item?id=40151952) - [You are what you read, even if you don't always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 * [2024-04-25, 00:47:49](https://news.ycombinator.com/item?id=40151860) - [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
 * [2024-04-25, 00:21:32](https://news.ycombinator.com/item?id=40151650) - [Twilight of the Age of Steam, Part 2: Petroleum and After](https://technicshistory.com/2024/04/25/twilight-of-the-age-of-steam-part-2-petroleum-and-after/)
-* [2024-04-24, 22:58:42](https://news.ycombinator.com/item?id=40150910) - [Modern EV Batteries Rarely Fail: Study](https://insideevs.com/news/717187/ev-battery-replacements-due-failure-study/)
 * [2024-04-24, 22:29:23](https://news.ycombinator.com/item?id=40150639) - [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
 * [2024-04-24, 22:07:25](https://news.ycombinator.com/item?id=40150386) - [Amsterdam roofs that not only grow plants but also capture water for residents](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
 * [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)

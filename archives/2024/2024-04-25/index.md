@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 03:14:21](https://news.ycombinator.com/item?id=40152977) - [McKinsey Is Under Criminal Investigation for Its Opioid Work](https://www.nytimes.com/2024/04/24/business/mckinsey-criminal-investigation.html)
 * [2024-04-25, 02:03:29](https://news.ycombinator.com/item?id=40152486) - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
 * [2024-04-25, 01:50:19](https://news.ycombinator.com/item?id=40152394) - [As the US Air Force fleet keeps shrinking, can it still win wars?](https://www.defensenews.com/air/2024/04/23/as-the-us-air-force-fleet-keeps-shrinking-can-it-still-win-wars/)
 * [2024-04-25, 01:11:16](https://news.ycombinator.com/item?id=40152049) - [Air Force picks Anduril, General Atomics to develop unmanned fighter jets](https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/)
