@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-04-25, 04:25:56](https://news.ycombinator.com/item?id=40153409) - [Ghost Jobs – it's not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
 * [2024-04-25, 03:46:12](https://news.ycombinator.com/item?id=40153183) - [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
 * [2024-04-25, 03:42:21](https://news.ycombinator.com/item?id=40153162) - [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
@@ -11,7 +12,6 @@
 * [2024-04-24, 22:29:23](https://news.ycombinator.com/item?id=40150639) - [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
 * [2024-04-24, 21:50:25](https://news.ycombinator.com/item?id=40150159) - [Make Invalid States Unrepresentable](https://geeklaunch.io/blog/make-invalid-states-unrepresentable/)
 * [2024-04-24, 21:02:58](https://news.ycombinator.com/item?id=40149608) - [Show HN: Open-source alternative to HashiCorp/IBM Vault](https://github.com/Infisical/infisical/blob/main/README.md)
-* [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-04-24, 20:50:03](https://news.ycombinator.com/item?id=40149446) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
 * [2024-04-24, 19:56:40](https://news.ycombinator.com/item?id=40148833) - [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
 * [2024-04-24, 19:47:25](https://news.ycombinator.com/item?id=40148729) - [McKinsey Under Criminal Investigation over Opioid-Related Consulting](https://www.wsj.com/articles/mckinsey-faces-criminal-probe-over-opioid-related-consulting-a3f816d4)

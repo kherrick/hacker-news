@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-04-25, 04:25:56](https://news.ycombinator.com/item?id=40153409) - [Ghost Jobs – it's not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
 * [2024-04-25, 03:58:14](https://news.ycombinator.com/item?id=40153253) - [New Video of Strong Full Levitation of Pcposos Room Temperature Superconductor](https://www.nextbigfuture.com/2024/04/new-video-of-strong-full-levitation-of-pcposos-room-temperature-superconductor.html)
 * [2024-04-25, 03:46:12](https://news.ycombinator.com/item?id=40153183) - [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
