@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-04-25, 05:36:05",
+      "https://news.ycombinator.com/item?id=40153815"
+    ],
+    [
+      "Tiny GPU: A minimal GPU implementation in Verilog",
+      "https://github.com/adam-maj/tiny-gpu"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 05:01:41",
+      "https://news.ycombinator.com/item?id=40153613"
+    ],
+    [
+      "Node.js 22: Require() Support and WebSockets",
+      "https://coderoasis.com/nodejs-22-released/"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 04:03:00",
       "https://news.ycombinator.com/item?id=40153291"
     ],
@@ -47,6 +67,16 @@
     [
       "Enron tried to trade memory chip futures; why didn't it work?",
       "https://www.felixstocker.com/blog/chips"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 03:03:39",
+      "https://news.ycombinator.com/item?id=40152908"
+    ],
+    [
+      "The \"it\" in AI models is the dataset",
+      "https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/"
     ]
   ],
   [
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2024-04-24, 19:56:40",
-      "https://news.ycombinator.com/item?id=40148833"
-    ],
-    [
-      "The Rise and Fall of the LAN Party",
-      "https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 19:47:25",
       "https://news.ycombinator.com/item?id=40148729"
     ],
     [
       "McKinsey Under Criminal Investigation over Opioid-Related Consulting",
       "https://www.wsj.com/articles/mckinsey-faces-criminal-probe-over-opioid-related-consulting-a3f816d4"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 19:44:47",
-      "https://news.ycombinator.com/item?id=40148707"
-    ],
-    [
-      "Nearsightedness is at epidemic levels – and the problem begins in childhood",
-      "https://theconversation.com/nearsightedness-is-at-epidemic-levels-and-the-problem-begins-in-childhood-225255"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-04-24, 15:59:55",
-      "https://news.ycombinator.com/item?id=40145963"
-    ],
-    [
-      "Biden signs TikTok bill into law, starting clock for ByteDance to divest",
-      "https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 11:15:11",
       "https://news.ycombinator.com/item?id=40142956"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2024-04-24, 06:36:54",
+      "https://news.ycombinator.com/item?id=40141350"
+    ],
+    [
+      "Progress Quest: the original idle game",
+      "http://progressquest.com/play/"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 05:50:36",
       "https://news.ycombinator.com/item?id=40141060"
     ],
     [
       "A Note about Coercions",
       "https://oleg.fi/gists/posts/2024-04-21-a-note-about-coercions.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 01:26:48",
-      "https://news.ycombinator.com/item?id=40139398"
-    ],
-    [
-      "CoreNet: A library for training deep neural networks",
-      "https://github.com/apple/corenet"
     ]
   ],
   [
