@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-25, 04:25:56",
-      "https://news.ycombinator.com/item?id=40153409"
-    ],
-    [
-      "Ghost Jobs – it's not your fault that you are not getting hired in 2024 [video]",
-      "https://www.youtube.com/watch?v=nKWJHHmi-6g"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 04:03:00",
       "https://news.ycombinator.com/item?id=40153291"
     ],
@@ -47,6 +37,16 @@
     [
       "Quaternion Knowledge Graph Embeddings",
       "https://arxiv.org/abs/1904.10281"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 03:09:27",
+      "https://news.ycombinator.com/item?id=40152944"
+    ],
+    [
+      "Enron tried to trade memory chip futures; why didn't it work?",
+      "https://www.felixstocker.com/blog/chips"
     ]
   ],
   [
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2024-04-24, 16:48:21",
-      "https://news.ycombinator.com/item?id=40146751"
-    ],
-    [
-      "TypeScript: Branded Types",
-      "https://prosopo.io/articles/typescript-branding/"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 16:39:48",
       "https://news.ycombinator.com/item?id=40146615"
     ],
     [
       "Borrow Checking, RC, GC, and the Eleven () Other Memory Safety Approaches",
       "https://verdagon.dev/grimoire/grimoire"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 15:59:55",
+      "https://news.ycombinator.com/item?id=40145963"
+    ],
+    [
+      "Biden signs TikTok bill into law, starting clock for ByteDance to divest",
+      "https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-04-23, 19:27:17",
-      "https://news.ycombinator.com/item?id=40136130"
+      "2024-04-24, 01:26:48",
+      "https://news.ycombinator.com/item?id=40139398"
     ],
     [
-      "Length and thickness of bamboo internodes: a beautiful curve",
-      "https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/"
+      "CoreNet: A library for training deep neural networks",
+      "https://github.com/apple/corenet"
     ]
   ],
   [
