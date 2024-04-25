@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-25, 21:27:19",
+      "https://news.ycombinator.com/item?id=40163251"
+    ],
+    [
+      "U.S. Fertility Rate Falls to Record Low",
+      "https://www.wsj.com/us-news/america-birth-rate-decline-a111d21b"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 21:01:30",
       "https://news.ycombinator.com/item?id=40162976"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2024-04-25, 20:14:41",
-      "https://news.ycombinator.com/item?id=40162438"
-    ],
-    [
-      "The myth of the second chance",
-      "https://www.ft.com/content/fa1a5780-b8ca-45ae-a09e-46e95737bda7"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 20:14:10",
       "https://news.ycombinator.com/item?id=40162433"
     ],
     [
       "Judge acquits Backpage co-founder Michael Lacey on most counts",
       "https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 20:02:59",
-      "https://news.ycombinator.com/item?id=40162309"
-    ],
-    [
-      "John Carmack on Meta Horizon OS",
-      "https://twitter.com/ID_AA_Carmack/status/1782826465207165288"
     ]
   ],
   [
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2024-04-25, 17:46:04",
-      "https://news.ycombinator.com/item?id=40160728"
-    ],
-    [
-      "CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data",
-      "https://arxiv.org/abs/2404.15653"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 17:24:36",
       "https://news.ycombinator.com/item?id=40160467"
     ],
@@ -157,6 +137,16 @@
     [
       "Show HN: I made a programmable computer from NAND gates",
       "https://github.com/ArhanChaudhary/NAND"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 15:34:59",
+      "https://news.ycombinator.com/item?id=40158794"
+    ],
+    [
+      "MemoryDB: A fast and durable memory-first cloud database",
+      "https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Ask HN: Any tool for managing large and variable command lines?",
       "https://news.ycombinator.com/item?id=40142791"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 00:41:42",
+      "https://news.ycombinator.com/item?id=40139130"
+    ],
+    [
+      "Retro-tech HP-25 Calculator",
+      "https://github.com/eshazen/retro-25"
     ]
   ],
   [
