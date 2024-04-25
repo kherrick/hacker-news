@@ -1,62 +1,12 @@
 [
   [
     [
-      "2024-04-25, 00:17:41",
-      "https://news.ycombinator.com/item?id=40151623"
+      "2024-04-25, 00:47:49",
+      "https://news.ycombinator.com/item?id=40151860"
     ],
     [
-      "Mercedes unveils 2025 electric G-Class, with 4 motors and tank turns",
-      "https://electrek.co/2024/04/23/mercedes-unveils-2025-electric-g-class-with-4-motors-and-tank-turns/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 00:01:09",
-      "https://news.ycombinator.com/item?id=40151486"
-    ],
-    [
-      "Llama3 – 65k Context Window with great recall",
-      "https://twitter.com/winglian/status/1783122644579090600"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 00:01:06",
-      "https://news.ycombinator.com/item?id=40151485"
-    ],
-    [
-      "Windows 11 now comes with its own adware",
-      "https://www.engadget.com/windows-11-now-comes-with-its-own-adware-124531977.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 23:25:37",
-      "https://news.ycombinator.com/item?id=40151193"
-    ],
-    [
-      "Argentina celebrates first quarterly budget surplus in 16 years",
-      "https://www.wionews.com/business-economy/argentina-celebrates-its-first-quarterly-budget-surplus-president-milei-promises-continued-fiscal-discipline-714060"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 23:24:32",
-      "https://news.ycombinator.com/item?id=40151181"
-    ],
-    [
-      "Decline in heart failure deaths has been undone, led by people under 45",
-      "https://www.statnews.com/2024/04/24/heart-failure-deaths-decline-undone/"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 23:17:03",
-      "https://news.ycombinator.com/item?id=40151104"
-    ],
-    [
-      "Apple Releases Open Source AI Models That Run On-Device",
-      "https://www.macrumors.com/2024/04/24/apple-ai-open-source-models/"
+      "Show HN: See your current Spotify song in the menu bar",
+      "https://github.com/jonathangarelick/SoundSeer"
     ]
   ],
   [
@@ -67,16 +17,6 @@
     [
       "Airlines required to refund passengers for canceled, delayed flights",
       "https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 22:20:39",
-      "https://news.ycombinator.com/item?id=40150545"
-    ],
-    [
-      "Bicycle use now exceeds car use in Paris",
-      "https://english.elpais.com/lifestyle/2024-04-24/the-cycling-revolution-in-paris-continues-bicycle-use-now-exceeds-car-use.html"
     ]
   ],
   [
@@ -127,6 +67,16 @@
     [
       "Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth",
       "https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 20:12:53",
+      "https://news.ycombinator.com/item?id=40148998"
+    ],
+    [
+      "Meta Reports First Quarter 2024 Results",
+      "https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx"
     ]
   ],
   [
@@ -201,12 +151,32 @@
   ],
   [
     [
+      "2024-04-24, 16:40:18",
+      "https://news.ycombinator.com/item?id=40146623"
+    ],
+    [
+      "How we manage individual user concurrencies with Nginx and Lua",
+      "https://www.browserless.io/blog/managing-concurrencies-with-nginx-and-lua"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 16:39:48",
       "https://news.ycombinator.com/item?id=40146615"
     ],
     [
       "Borrow Checking, RC, GC, and the Eleven () Other Memory Safety Approaches",
       "https://verdagon.dev/grimoire/grimoire"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 16:34:35",
+      "https://news.ycombinator.com/item?id=40146505"
+    ],
+    [
+      "The Stainless SDK Generator",
+      "https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator"
     ]
   ],
   [
@@ -227,6 +197,16 @@
     [
       "Biden signs TikTok bill into law, starting clock for ByteDance to divest",
       "https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 08:35:30",
+      "https://news.ycombinator.com/item?id=40141980"
+    ],
+    [
+      "Show HN: Podlite - a lightweight markup language for organizing knowledge",
+      "https://podlite.org/2024/4/23/1/podlite-specification-v1-0-released"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2024-04-24, 01:32:39",
+      "https://news.ycombinator.com/item?id=40139434"
+    ],
+    [
+      "Simulating Jupiter",
+      "https://emildziewanowski.com/flowfields/"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 01:26:48",
       "https://news.ycombinator.com/item?id=40139398"
     ],
     [
       "CoreNet: A library for training deep neural networks",
       "https://github.com/apple/corenet"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 22:46:44",
+      "https://news.ycombinator.com/item?id=40138228"
+    ],
+    [
+      "ESPHome",
+      "https://esphome.io/index.html"
     ]
   ],
   [
