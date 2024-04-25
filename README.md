@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 14:11:34](https://news.ycombinator.com/item?id=40157841) - [Show HN: Snatched! my game where you lure LLM-powered NPCs to your alien ship](https://playsnatched.com)
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 13:05:19](https://news.ycombinator.com/item?id=40157028) - [Updating California's grid for EVs may cost up to $20B](https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/)
 * [2024-04-25, 12:50:14](https://news.ycombinator.com/item?id=40156867) - [Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
@@ -11,7 +12,6 @@
 * [2024-04-25, 11:47:36](https://news.ycombinator.com/item?id=40156275) - [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
 * [2024-04-25, 11:29:58](https://news.ycombinator.com/item?id=40156133) - [More on x86 – The Chip Letter](https://thechipletter.substack.com/p/more-on-x86)
 * [2024-04-25, 11:09:58](https://news.ycombinator.com/item?id=40155981) - [Researchers Showcase Decentralized AI-Powered Torrent Search Engine](https://torrentfreak.com/researchers-showcase-decentralized-ai-powered-torrent-search-engine-240425/)
-* [2024-04-25, 11:02:02](https://news.ycombinator.com/item?id=40155926) - [Desperately Trying to Fathom the Coffeepocalypse Argument](https://www.astralcodexten.com/p/desperately-trying-to-fathom-the)
 * [2024-04-25, 09:40:59](https://news.ycombinator.com/item?id=40155374) - [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
 * [2024-04-25, 06:22:26](https://news.ycombinator.com/item?id=40154104) - [Chime Design and Build](http://leehite.org/Chimes.htm)
 * [2024-04-25, 05:37:27](https://news.ycombinator.com/item?id=40153825) - [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
@@ -29,7 +29,7 @@
 * [2024-04-24, 06:36:54](https://news.ycombinator.com/item?id=40141350) - [Progress Quest: the original idle game](http://progressquest.com/play/)
 * [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The evolution of stupidity (and octopus intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)
 * [2024-04-23, 08:06:22](https://news.ycombinator.com/item?id=40129637) - [Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps](https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/)
-* [2024-04-22, 23:01:49](https://news.ycombinator.com/item?id=40124645) - [For Sale: A Rare Klimt Portrait, Valued at $32M. But of Whom?](https://www.nytimes.com/2024/04/22/arts/design/klimt-sale-vienna.html)
+* [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 
 ## [Archives](archives/index.md)
 
