@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 15:48:20](https://news.ycombinator.com/item?id=40158952) - [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
 * [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
 * [2024-04-25, 15:33:20](https://news.ycombinator.com/item?id=40158772) - [AI Can Tell Your Political Affiliation Just by Looking at Your Face](https://gizmodo.com/ai-can-tell-your-political-affiliation-just-by-looking-1851430714)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158752) - [We Have 4 Days to Contest KYC Being Required by Internet Services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
