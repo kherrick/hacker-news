@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-25, 03:14:21](https://news.ycombinator.com/item?id=40152977) - [McKinsey Is Under Criminal Investigation for Its Opioid Work](https://www.nytimes.com/2024/04/24/business/mckinsey-criminal-investigation.html)
+* [2024-04-25, 02:34:10](https://news.ycombinator.com/item?id=40152682) - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-25, 02:03:29](https://news.ycombinator.com/item?id=40152486) - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
 * [2024-04-25, 01:11:16](https://news.ycombinator.com/item?id=40152049) - [Air Force picks Anduril, General Atomics to develop unmanned fighter jets](https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/)
 * [2024-04-25, 01:03:12](https://news.ycombinator.com/item?id=40151982) - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
