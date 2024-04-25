@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 17:52:01](https://news.ycombinator.com/item?id=40160824) - [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
+* [2024-04-25, 17:46:04](https://news.ycombinator.com/item?id=40160728) - [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 17:19:23](https://news.ycombinator.com/item?id=40160374) - [Scripts to build a trimmed-down Windows 11 image](https://github.com/ntdevlabs/tiny11builder)
 * [2024-04-25, 17:16:31](https://news.ycombinator.com/item?id=40160326) - [New evidence found for Planet 9](https://phys.org/news/2024-04-evidence-planet.html)
@@ -13,7 +15,9 @@
 * [2024-04-25, 16:56:09](https://news.ycombinator.com/item?id=40159988) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
 * [2024-04-25, 16:48:51](https://news.ycombinator.com/item?id=40159868) - [Reddit down 502 Bad Gateway](https://old.reddit.com/)
 * [2024-04-25, 16:47:10](https://news.ycombinator.com/item?id=40159845) - [ByteDance prefers TikTok shutdown in US if legal options fail](https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/)
+* [2024-04-25, 16:42:05](https://news.ycombinator.com/item?id=40159766) - [DDC OLED: how to drive a tiny display from an HDMI port. (2022)](https://mitxela.com/projects/ddc-oled)
 * [2024-04-25, 16:26:11](https://news.ycombinator.com/item?id=40159540) - [Fedora Slimbook II Available](https://fedora.slimbook.com/)
+* [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 15:48:20](https://news.ycombinator.com/item?id=40158952) - [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
 * [2024-04-25, 15:41:37](https://news.ycombinator.com/item?id=40158871) - [Does the CIA Still Do That?](https://www.nakedcapitalism.com/2024/04/does-the-cia-still-do-that.html)
 * [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
