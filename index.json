@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-25, 20:14:10",
+      "https://news.ycombinator.com/item?id=40162433"
+    ],
+    [
+      "Judge Acquits Backpage Co-Founder Michael Lacey on Most Counts",
+      "https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 20:07:21",
       "https://news.ycombinator.com/item?id=40162354"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40161794"
     ],
     [
-      "No Abstractions: an Increase API design principle",
+      "No Abstractions: our API design principle",
       "https://increase.com/articles/no-abstractions"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Start Your Own ISP",
       "https://startyourownisp.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 17:48:24",
-      "https://news.ycombinator.com/item?id=40160770"
-    ],
-    [
-      "Oracle's Jump to Nashville Surprises Austin",
-      "https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40160467"
     ],
     [
-      "How can we make pg_dump and pg_restore 5 times faster?",
+      "Parallel Snapshotting: make pg_dump and pg_restore multi-threaded per table",
       "https://blog.peerdb.io/how-can-we-make-pgdump-and-pgrestore-5-times-faster"
     ]
   ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-04-25, 05:36:05",
-      "https://news.ycombinator.com/item?id=40153815"
-    ],
-    [
-      "Tiny GPU: A minimal GPU implementation in Verilog",
-      "https://github.com/adam-maj/tiny-gpu"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 21:40:28",
       "https://news.ycombinator.com/item?id=40150045"
     ],
@@ -297,6 +287,16 @@
     [
       "Retro-tech HP-25 Calculator",
       "https://github.com/eshazen/retro-25"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 08:06:22",
+      "https://news.ycombinator.com/item?id=40129637"
+    ],
+    [
+      "Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps",
+      "https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/"
     ]
   ]
 ]
