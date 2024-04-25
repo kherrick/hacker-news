@@ -134,6 +134,7 @@
 * [2024-04-23, 05:35:25](https://news.ycombinator.com/item?id=40128837) - [Jsfxr: 8-Bit sound maker and sfx generator](https://sfxr.me/)
 * [2024-04-23, 05:28:32](https://news.ycombinator.com/item?id=40128798) - [Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles](https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2)
 * [2024-04-23, 04:54:26](https://news.ycombinator.com/item?id=40128645) - [Carl Sagan, nuking the moon, and not nuking the moon](https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/)
+* [2024-04-23, 04:36:27](https://news.ycombinator.com/item?id=40128553) - [The Rediscovery of a Depression-Era Masterpiece](https://www.newyorker.com/culture/the-front-row/the-rediscovery-of-a-depression-era-masterpiece)
 * [2024-04-23, 03:50:46](https://news.ycombinator.com/item?id=40128285) - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 * [2024-04-23, 02:40:07](https://news.ycombinator.com/item?id=40127890) - [Alienating Tesla Buyers by the Cybertruck-Load](https://ritholtz.com/2024/04/alienating-tesla-buyers/)
 * [2024-04-23, 02:33:13](https://news.ycombinator.com/item?id=40127857) - [OpenAI Japan](https://openai.com/blog/introducing-openai-japan)

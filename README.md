@@ -7,7 +7,6 @@
 * [2024-04-25, 00:58:37](https://news.ycombinator.com/item?id=40151952) - [You are what you read, even if you don't always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 * [2024-04-25, 00:47:49](https://news.ycombinator.com/item?id=40151860) - [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
 * [2024-04-25, 00:21:32](https://news.ycombinator.com/item?id=40151650) - [Twilight of the Age of Steam, Part 2: Petroleum and After](https://technicshistory.com/2024/04/25/twilight-of-the-age-of-steam-part-2-petroleum-and-after/)
-* [2024-04-24, 22:58:42](https://news.ycombinator.com/item?id=40150910) - [Modern EV Batteries Rarely Fail: Study](https://insideevs.com/news/717187/ev-battery-replacements-due-failure-study/)
 * [2024-04-24, 22:29:23](https://news.ycombinator.com/item?id=40150639) - [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
 * [2024-04-24, 22:07:25](https://news.ycombinator.com/item?id=40150386) - [Amsterdam roofs that not only grow plants but also capture water for residents](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
 * [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
@@ -29,6 +28,7 @@
 * [2024-04-23, 19:27:17](https://news.ycombinator.com/item?id=40136130) - [Length and thickness of bamboo internodes: a beautiful curve](https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/)
 * [2024-04-23, 11:49:18](https://news.ycombinator.com/item?id=40130803) - [VideoGigaGAN: Towards detail-rich video super-resolution](https://videogigagan.github.io/)
 * [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
+* [2024-04-23, 04:36:27](https://news.ycombinator.com/item?id=40128553) - [The Rediscovery of a Depression-Era Masterpiece](https://www.newyorker.com/culture/the-front-row/the-rediscovery-of-a-depression-era-masterpiece)
 * [2024-04-22, 23:00:44](https://news.ycombinator.com/item?id=40124492) - [Descartes's Stove](https://bloomsburyliterarystudiesblog.com/2024/03/descartess-stove.html)
 
 ## [Archives](archives/index.md)
