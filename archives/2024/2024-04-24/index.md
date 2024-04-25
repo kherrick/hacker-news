@@ -97,6 +97,7 @@
 * [2024-04-24, 08:32:36](https://news.ycombinator.com/item?id=40141967) - [Sysadmin friendly high speed Ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
 * [2024-04-24, 07:59:05](https://news.ycombinator.com/item?id=40141811) - [Android 15 may make it harder for sideloaded apps to get sensitive permissions](https://www.androidauthority.com/android-15-enhanced-confirmation-mode-3436697/)
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet](https://www.dangermouse.net/esoteric/piet.html)
+* [2024-04-24, 07:38:39](https://news.ycombinator.com/item?id=40141713) - [Same species, different sizes: Rare evolution in action spotted in island bats](https://phys.org/news/2024-04-species-sizes-rare-evolution-action.html)
 * [2024-04-24, 07:34:22](https://news.ycombinator.com/item?id=40141689) - [Nginx 1.26.0 Stable Released](https://nginx.org/en/CHANGES-1.26)
 * [2024-04-24, 07:32:07](https://news.ycombinator.com/item?id=40141667) - [US Senate passes TikTok divestment-or-ban bill](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/)
 * [2024-04-24, 07:12:53](https://news.ycombinator.com/item?id=40141545) - [Test Sizes (2010)](https://testing.googleblog.com/2010/12/test-sizes.html)

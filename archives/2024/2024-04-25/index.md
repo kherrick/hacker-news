@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 23:11:14](https://news.ycombinator.com/item?id=40164199) - [Jeff Lawson Buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 * [2024-04-25, 22:04:54](https://news.ycombinator.com/item?id=40163639) - [2025 Toyota Camry First Drive Review: The Best 'Boring' Car Keeps Getting Better](https://www.thedrive.com/car-reviews/2025-toyota-camry-first-drive-review)
 * [2024-04-25, 21:57:24](https://news.ycombinator.com/item?id=40163578) - [U.S. \"Know Your Customer\" Proposal Will Put an End to Anonymous Cloud Users](https://torrentfreak.com/u-s-know-your-customer-proposal-will-put-an-end-to-anonymous-cloud-users-240425/)
 * [2024-04-25, 21:52:22](https://news.ycombinator.com/item?id=40163530) - [The Nimble File Format by Meta](https://github.com/facebookexternal/nimble)
