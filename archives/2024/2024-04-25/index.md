@@ -45,6 +45,7 @@
 * [2024-04-25, 16:26:11](https://news.ycombinator.com/item?id=40159540) - [Fedora Slimbook II Available](https://fedora.slimbook.com/)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 15:48:20](https://news.ycombinator.com/item?id=40158952) - [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
+* [2024-04-25, 15:47:59](https://news.ycombinator.com/item?id=40158945) - [Llamafile's Progress, Four Months In](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)
 * [2024-04-25, 15:41:37](https://news.ycombinator.com/item?id=40158871) - [Does the CIA Still Do That?](https://www.nakedcapitalism.com/2024/04/does-the-cia-still-do-that.html)
 * [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
 * [2024-04-25, 15:33:20](https://news.ycombinator.com/item?id=40158772) - [AI Can Tell Your Political Affiliation Just by Looking at Your Face](https://gizmodo.com/ai-can-tell-your-political-affiliation-just-by-looking-1851430714)
