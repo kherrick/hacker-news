@@ -5,8 +5,12 @@
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
 * [2024-04-24, 23:30:35](https://news.ycombinator.com/item?id=40151239) - [Google fires more workers over in-office protests](https://www.foxbusiness.com/politics/google-fires-more-workers-in-office-protests)
+* [2024-04-24, 23:25:37](https://news.ycombinator.com/item?id=40151193) - [Argentina celebrates first quarterly budget surplus in 16 years](https://www.wionews.com/business-economy/argentina-celebrates-its-first-quarterly-budget-surplus-president-milei-promises-continued-fiscal-discipline-714060)
+* [2024-04-24, 23:24:32](https://news.ycombinator.com/item?id=40151181) - [Decline in heart failure deaths has been undone, led by people under 45](https://www.statnews.com/2024/04/24/heart-failure-deaths-decline-undone/)
 * [2024-04-24, 23:24:25](https://news.ycombinator.com/item?id=40151180) - [Are Unpaid Take-Home Interview Assignments Ethical?](https://www.inhersight.com/blog/interview/are-unpaid-interview-assignments-ethical)
+* [2024-04-24, 23:17:03](https://news.ycombinator.com/item?id=40151104) - [Apple Releases Open Source AI Models That Run On-Device](https://www.macrumors.com/2024/04/24/apple-ai-open-source-models/)
 * [2024-04-24, 22:29:23](https://news.ycombinator.com/item?id=40150639) - [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
+* [2024-04-24, 22:20:39](https://news.ycombinator.com/item?id=40150545) - [Bicycle use now exceeds car use in Paris](https://english.elpais.com/lifestyle/2024-04-24/the-cycling-revolution-in-paris-continues-bicycle-use-now-exceeds-car-use.html)
 * [2024-04-24, 22:12:16](https://news.ycombinator.com/item?id=40150455) - [Delta takes flight: Apple-approved Nintendo emulator is a great iOS option](https://arstechnica.com/gaming/2024/04/a-touchscreen-of-nostalgia-delta-brings-classic-nintendo-consoles-to-ios/)
 * [2024-04-24, 22:07:25](https://news.ycombinator.com/item?id=40150386) - [Amsterdam roofs that not only grow plants but also capture water for residents](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
 * [2024-04-24, 21:05:08](https://news.ycombinator.com/item?id=40149630) - [Meta stock has lost $137B in market cap on weak Q2 revenue guidance](https://finance.yahoo.com/video/meta-stock-falls-disappointing-q2-202013597.html)
