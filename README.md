@@ -2,6 +2,7 @@
 
 * [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-04-25, 04:25:56](https://news.ycombinator.com/item?id=40153409) - [Ghost Jobs – it's not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
+* [2024-04-25, 04:03:00](https://news.ycombinator.com/item?id=40153291) - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 * [2024-04-25, 03:46:12](https://news.ycombinator.com/item?id=40153183) - [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
 * [2024-04-25, 03:42:21](https://news.ycombinator.com/item?id=40153162) - [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
 * [2024-04-25, 02:34:10](https://news.ycombinator.com/item?id=40152682) - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
@@ -22,7 +23,6 @@
 * [2024-04-24, 16:48:21](https://news.ycombinator.com/item?id=40146751) - [TypeScript: Branded Types](https://prosopo.io/articles/typescript-branding/)
 * [2024-04-24, 16:39:48](https://news.ycombinator.com/item?id=40146615) - [Borrow Checking, RC, GC, and the Eleven () Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 16:34:35](https://news.ycombinator.com/item?id=40146505) - [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
-* [2024-04-24, 15:59:55](https://news.ycombinator.com/item?id=40145963) - [Biden signs TikTok bill into law, starting clock for ByteDance to divest](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet: Programming language in which programs look like abstract paintings (2002)](https://www.dangermouse.net/esoteric/piet.html)
 * [2024-04-24, 05:50:36](https://news.ycombinator.com/item?id=40141060) - [A Note about Coercions](https://oleg.fi/gists/posts/2024-04-21-a-note-about-coercions.html)
 * [2024-04-23, 19:27:17](https://news.ycombinator.com/item?id=40136130) - [Length and thickness of bamboo internodes: a beautiful curve](https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/)
