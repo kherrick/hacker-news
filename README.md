@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 10:32:00](https://news.ycombinator.com/item?id=40155701) - [EPA rules would force coal-fired power plants to capture emissions or shut down](https://abcnews.go.com/US/wireStory/tough-new-epa-rules-force-coal-fired-power-109613509)
 * [2024-04-25, 10:09:08](https://news.ycombinator.com/item?id=40155545) - [JavaScript Naked Day](https://starbreaker.org/blog/links/js-naked-day/index.html)
 * [2024-04-25, 09:58:07](https://news.ycombinator.com/item?id=40155489) - [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
 * [2024-04-25, 09:40:59](https://news.ycombinator.com/item?id=40155374) - [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
@@ -26,7 +27,6 @@
 * [2024-04-24, 11:15:11](https://news.ycombinator.com/item?id=40142956) - [Perception of when old age starts has increased over time, shows study](https://www.theguardian.com/science/2024/apr/22/when-old-age-starts-perception-study)
 * [2024-04-24, 06:36:54](https://news.ycombinator.com/item?id=40141350) - [Progress Quest: the original idle game](http://progressquest.com/play/)
 * [2024-04-24, 05:50:36](https://news.ycombinator.com/item?id=40141060) - [A Note about Coercions](https://oleg.fi/gists/posts/2024-04-21-a-note-about-coercions.html)
-* [2024-04-23, 11:49:18](https://news.ycombinator.com/item?id=40130803) - [VideoGigaGAN: Towards detail-rich video super-resolution](https://videogigagan.github.io/)
 * [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The evolution of stupidity (and octopus intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)
 * [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 * [2024-04-22, 23:01:49](https://news.ycombinator.com/item?id=40124645) - [For Sale: A Rare Klimt Portrait, Valued at $32M. But of Whom?](https://www.nytimes.com/2024/04/22/arts/design/klimt-sale-vienna.html)
