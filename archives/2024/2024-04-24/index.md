@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 23:52:53](https://news.ycombinator.com/item?id=40151424) - [Don’t Bleed on the Artwork](https://oxfordamerican.org/magazine/issue-124-spring-2024/don-t-bleed-on-the-artwork-notes-from-the-afterlife)
 * [2024-04-24, 23:30:35](https://news.ycombinator.com/item?id=40151239) - [Google fires more workers over in-office protests](https://www.foxbusiness.com/politics/google-fires-more-workers-in-office-protests)
 * [2024-04-24, 23:25:37](https://news.ycombinator.com/item?id=40151193) - [Argentina celebrates first quarterly budget surplus in 16 years](https://www.wionews.com/business-economy/argentina-celebrates-its-first-quarterly-budget-surplus-president-milei-promises-continued-fiscal-discipline-714060)
 * [2024-04-24, 23:24:32](https://news.ycombinator.com/item?id=40151181) - [Decline in heart failure deaths has been undone, led by people under 45](https://www.statnews.com/2024/04/24/heart-failure-deaths-decline-undone/)

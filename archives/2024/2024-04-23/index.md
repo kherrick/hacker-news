@@ -44,6 +44,7 @@
 * [2024-04-23, 19:26:56](https://news.ycombinator.com/item?id=40136126) - [FTC Bans Noncompete Clauses That Restrict Job Switching](https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187)
 * [2024-04-23, 19:22:22](https://news.ycombinator.com/item?id=40136076) - [GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
 * [2024-04-23, 19:18:00](https://news.ycombinator.com/item?id=40136026) - [Dafny is a verification-aware programming language](https://github.com/dafny-lang/dafny)
+* [2024-04-23, 19:17:25](https://news.ycombinator.com/item?id=40136015) - [Ancient Malaria Genome from Roman Skeleton Hints at Disease's History](https://www.nature.com/articles/d41586-024-00772-8)
 * [2024-04-23, 19:17:07](https://news.ycombinator.com/item?id=40136010) - [FTC Announces Rule Banning Noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
 * [2024-04-23, 19:11:10](https://news.ycombinator.com/item?id=40135942) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 18:56:15](https://news.ycombinator.com/item?id=40135755) - [FTC votes to ban non-compete agreements](https://thehill.com/business/4615452-ftc-votes-to-ban-non-compete-agreements/)
