@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
 * [2024-04-25, 20:07:21](https://news.ycombinator.com/item?id=40162354) - [Google Earning Q1 2024 [pdf]](https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf)
+* [2024-04-25, 20:02:59](https://news.ycombinator.com/item?id=40162309) - [John Carmack on Meta Horizon OS](https://twitter.com/ID_AA_Carmack/status/1782826465207165288)
 * [2024-04-25, 19:16:52](https://news.ycombinator.com/item?id=40161811) - [Asian American women are getting lung cancer despite never smoking](https://www.nbcnews.com/news/us-news/asian-american-women-lung-cancer-rcna138895)
 * [2024-04-25, 19:15:11](https://news.ycombinator.com/item?id=40161794) - [No Abstractions: an Increase API design principle](https://increase.com/articles/no-abstractions)
 * [2024-04-25, 19:06:58](https://news.ycombinator.com/item?id=40161697) - [Start Your Own ISP](https://startyourownisp.com/)
