@@ -9,6 +9,7 @@
 * [2024-04-22, 23:04:59](https://news.ycombinator.com/item?id=40124682) - [Cubic Life: Conway's Game of Life in 3D](https://github.com/ms0g/cubicLife)
 * [2024-04-22, 23:04:13](https://news.ycombinator.com/item?id=40124674) - [Israel Tied with Iran Among Top Jailers of Journalists in 2023, Report Finds](https://truthout.org/articles/israel-leads-countries-in-jailing-reporters-since-start-of-genocide-in-palestine/)
 * [2024-04-22, 23:01:50](https://news.ycombinator.com/item?id=40124648) - [HN Flooded with Spam AI Girlfriend Comments](https://news.ycombinator.com/item?id=40124648)
+* [2024-04-22, 23:01:49](https://news.ycombinator.com/item?id=40124645) - [For Sale: A Rare Klimt Portrait, Valued at $32M. But of Whom?](https://www.nytimes.com/2024/04/22/arts/design/klimt-sale-vienna.html)
 * [2024-04-22, 23:00:44](https://news.ycombinator.com/item?id=40124492) - [Descartes's Stove](https://bloomsburyliterarystudiesblog.com/2024/03/descartess-stove.html)
 * [2024-04-22, 22:26:19](https://news.ycombinator.com/item?id=40123052) - [Apple Hugs: Human Gaussian Splats (CVPR 2024)](https://github.com/apple/ml-hugs)
 * [2024-04-22, 22:18:42](https://news.ycombinator.com/item?id=40122999) - [HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)

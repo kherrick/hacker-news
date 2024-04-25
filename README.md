@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 09:35:24](https://news.ycombinator.com/item?id=40155336) - [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
+* [2024-04-25, 09:28:57](https://news.ycombinator.com/item?id=40155293) - [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
 * [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
 * [2024-04-25, 05:01:41](https://news.ycombinator.com/item?id=40153613) - [Node.js 22: Require() Support and WebSockets](https://coderoasis.com/nodejs-22-released/)
@@ -21,14 +23,12 @@
 * [2024-04-24, 19:32:20](https://news.ycombinator.com/item?id=40148563) - [I now lack the juice to fuel the bluster to conceal that I am a simpleton](https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/)
 * [2024-04-24, 18:25:27](https://news.ycombinator.com/item?id=40147883) - [A feature-rich front-end drag-and-drop component library](https://github.com/atlassian/pragmatic-drag-and-drop)
 * [2024-04-24, 17:50:18](https://news.ycombinator.com/item?id=40147534) - [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
-* [2024-04-24, 16:39:48](https://news.ycombinator.com/item?id=40146615) - [Borrow Checking, RC, GC, and the Eleven () Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 11:15:11](https://news.ycombinator.com/item?id=40142956) - [Perception of when old age starts has increased over time, shows study](https://www.theguardian.com/science/2024/apr/22/when-old-age-starts-perception-study)
-* [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet: Programming language in which programs look like abstract paintings (2002)](https://www.dangermouse.net/esoteric/piet.html)
 * [2024-04-24, 06:36:54](https://news.ycombinator.com/item?id=40141350) - [Progress Quest: the original idle game](http://progressquest.com/play/)
 * [2024-04-24, 05:50:36](https://news.ycombinator.com/item?id=40141060) - [A Note about Coercions](https://oleg.fi/gists/posts/2024-04-21-a-note-about-coercions.html)
 * [2024-04-23, 11:49:18](https://news.ycombinator.com/item?id=40130803) - [VideoGigaGAN: Towards detail-rich video super-resolution](https://videogigagan.github.io/)
 * [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
-* [2024-04-23, 04:36:27](https://news.ycombinator.com/item?id=40128553) - [The Rediscovery of a Depression-Era Masterpiece](https://www.newyorker.com/culture/the-front-row/the-rediscovery-of-a-depression-era-masterpiece)
+* [2024-04-22, 23:01:49](https://news.ycombinator.com/item?id=40124645) - [For Sale: A Rare Klimt Portrait, Valued at $32M. But of Whom?](https://www.nytimes.com/2024/04/22/arts/design/klimt-sale-vienna.html)
 * [2024-04-22, 23:00:44](https://news.ycombinator.com/item?id=40124492) - [Descartes's Stove](https://bloomsburyliterarystudiesblog.com/2024/03/descartess-stove.html)
 
 ## [Archives](archives/index.md)
