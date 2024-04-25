@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 09:58:07](https://news.ycombinator.com/item?id=40155489) - [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
+* [2024-04-25, 09:40:59](https://news.ycombinator.com/item?id=40155374) - [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
 * [2024-04-25, 09:35:24](https://news.ycombinator.com/item?id=40155336) - [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
 * [2024-04-25, 09:28:57](https://news.ycombinator.com/item?id=40155293) - [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
+* [2024-04-25, 09:20:25](https://news.ycombinator.com/item?id=40155240) - [Boeing retaliated against its own engineers working for FAA, union says](https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/)
 * [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
 * [2024-04-25, 05:01:41](https://news.ycombinator.com/item?id=40153613) - [Node.js 22: Require() Support and WebSockets](https://coderoasis.com/nodejs-22-released/)

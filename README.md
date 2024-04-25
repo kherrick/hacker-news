@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 09:58:07](https://news.ycombinator.com/item?id=40155489) - [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
+* [2024-04-25, 09:40:59](https://news.ycombinator.com/item?id=40155374) - [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
 * [2024-04-25, 09:35:24](https://news.ycombinator.com/item?id=40155336) - [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
 * [2024-04-25, 09:28:57](https://news.ycombinator.com/item?id=40155293) - [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
+* [2024-04-25, 09:20:25](https://news.ycombinator.com/item?id=40155240) - [Boeing retaliated against its own engineers working for FAA, union says](https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/)
 * [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
-* [2024-04-25, 05:01:41](https://news.ycombinator.com/item?id=40153613) - [Node.js 22: Require() Support and WebSockets](https://coderoasis.com/nodejs-22-released/)
 * [2024-04-25, 04:03:00](https://news.ycombinator.com/item?id=40153291) - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 * [2024-04-25, 03:46:12](https://news.ycombinator.com/item?id=40153183) - [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
 * [2024-04-25, 03:42:21](https://news.ycombinator.com/item?id=40153162) - [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
@@ -14,7 +16,6 @@
 * [2024-04-25, 02:03:29](https://news.ycombinator.com/item?id=40152486) - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
 * [2024-04-25, 01:03:12](https://news.ycombinator.com/item?id=40151982) - [A Beginner's Guide to the ESP8266 (2017)](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 * [2024-04-25, 00:58:37](https://news.ycombinator.com/item?id=40151952) - [You are what you read, even if you don't always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
-* [2024-04-25, 00:47:49](https://news.ycombinator.com/item?id=40151860) - [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
 * [2024-04-24, 22:29:23](https://news.ycombinator.com/item?id=40150639) - [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
 * [2024-04-24, 21:50:25](https://news.ycombinator.com/item?id=40150159) - [Make Invalid States Unrepresentable](https://geeklaunch.io/blog/make-invalid-states-unrepresentable/)
 * [2024-04-24, 21:02:58](https://news.ycombinator.com/item?id=40149608) - [Show HN: Open-source alternative to HashiCorp/IBM Vault](https://github.com/Infisical/infisical/blob/main/README.md)
@@ -29,7 +30,6 @@
 * [2024-04-23, 11:49:18](https://news.ycombinator.com/item?id=40130803) - [VideoGigaGAN: Towards detail-rich video super-resolution](https://videogigagan.github.io/)
 * [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 * [2024-04-22, 23:01:49](https://news.ycombinator.com/item?id=40124645) - [For Sale: A Rare Klimt Portrait, Valued at $32M. But of Whom?](https://www.nytimes.com/2024/04/22/arts/design/klimt-sale-vienna.html)
-* [2024-04-22, 23:00:44](https://news.ycombinator.com/item?id=40124492) - [Descartes's Stove](https://bloomsburyliterarystudiesblog.com/2024/03/descartess-stove.html)
 
 ## [Archives](archives/index.md)
 
