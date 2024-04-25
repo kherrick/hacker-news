@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
 * [2024-04-25, 15:33:20](https://news.ycombinator.com/item?id=40158772) - [AI Can Tell Your Political Affiliation Just by Looking at Your Face](https://gizmodo.com/ai-can-tell-your-political-affiliation-just-by-looking-1851430714)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158752) - [We Have 4 Days to Contest KYC Being Required by Internet Services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
 * [2024-04-25, 15:15:31](https://news.ycombinator.com/item?id=40158558) - [Package management on macOS with Nix-Darwin](https://davi.sh/blog/2024/01/nix-darwin/)
@@ -11,6 +12,7 @@
 * [2024-04-25, 15:02:50](https://news.ycombinator.com/item?id=40158424) - [City council audit trail is an audit fail after disastrous Oracle ERP rollout](https://www.theregister.com/2024/04/25/birmingham_oracle_audit_trail/)
 * [2024-04-25, 15:02:31](https://news.ycombinator.com/item?id=40158417) - [Today Microsoft Banned My Country Iran from Minecraft](https://old.reddit.com/r/GirlGamers/comments/1cckj2q/today_microsoft_banned_my_country_iran_from/)
 * [2024-04-25, 14:43:27](https://news.ycombinator.com/item?id=40158183) - [Ex-athletic director arrested for framing principal with AI-generated voice](https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/)
+* [2024-04-25, 14:29:26](https://news.ycombinator.com/item?id=40158036) - [The Importance of Stem Education for Girls: Inspiring the Next Generation](https://blip.school/blog/the-importance-of-stem-education-for-girls-inspiring-the-next-generation-06290a300bff)
 * [2024-04-25, 14:18:20](https://news.ycombinator.com/item?id=40157908) - [Someone built an LLM-powered Slay the Spire bot](https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire)
 * [2024-04-25, 14:11:34](https://news.ycombinator.com/item?id=40157841) - [Show HN: Snatched! my game where you lure LLM-powered NPCs to your alien ship](https://playsnatched.com)
 * [2024-04-25, 13:48:38](https://news.ycombinator.com/item?id=40157559) - [Searing heat shuts schools for 33M children](https://www.bbc.com/news/articles/c1wxjj3g965o)
