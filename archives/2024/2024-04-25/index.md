@@ -6,6 +6,7 @@
 
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 17:19:23](https://news.ycombinator.com/item?id=40160374) - [Scripts to build a trimmed-down Windows 11 image](https://github.com/ntdevlabs/tiny11builder)
+* [2024-04-25, 17:16:31](https://news.ycombinator.com/item?id=40160326) - [New evidence found for Planet 9](https://phys.org/news/2024-04-evidence-planet.html)
 * [2024-04-25, 17:13:36](https://news.ycombinator.com/item?id=40160275) - [Garry's Mod faces deluge of Nintendo-related DMCA takedown notices](https://www.engadget.com/garrys-mod-faces-deluge-of-nintendo-related-dmca-takedown-notices-123027589.html)
 * [2024-04-25, 17:05:53](https://news.ycombinator.com/item?id=40160148) - [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop)
 * [2024-04-25, 17:00:49](https://news.ycombinator.com/item?id=40160065) - [QuestDB (YC S20) Is Hiring a Senior Front-End Engineer](https://questdb.io/careers/senior-frontend-engineer/)

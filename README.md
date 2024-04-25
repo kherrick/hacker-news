@@ -2,6 +2,7 @@
 
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 17:19:23](https://news.ycombinator.com/item?id=40160374) - [Scripts to build a trimmed-down Windows 11 image](https://github.com/ntdevlabs/tiny11builder)
+* [2024-04-25, 17:16:31](https://news.ycombinator.com/item?id=40160326) - [New evidence found for Planet 9](https://phys.org/news/2024-04-evidence-planet.html)
 * [2024-04-25, 17:13:36](https://news.ycombinator.com/item?id=40160275) - [Garry's Mod faces deluge of Nintendo-related DMCA takedown notices](https://www.engadget.com/garrys-mod-faces-deluge-of-nintendo-related-dmca-takedown-notices-123027589.html)
 * [2024-04-25, 17:05:53](https://news.ycombinator.com/item?id=40160148) - [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop)
 * [2024-04-25, 17:00:49](https://news.ycombinator.com/item?id=40160065) - [QuestDB (YC S20) Is Hiring a Senior Front-End Engineer](https://questdb.io/careers/senior-frontend-engineer/)
@@ -24,7 +25,6 @@
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
 * [2024-04-25, 05:12:22](https://news.ycombinator.com/item?id=40153691) - [How Penelope Fitzgerald became a late blooming novelist](https://www.commonreader.co.uk/p/how-penelope-fitzgerald-became-a)
 * [2024-04-25, 03:42:21](https://news.ycombinator.com/item?id=40153162) - [Quaternion Knowledge Graph Embeddings (2019)](https://arxiv.org/abs/1904.10281)
-* [2024-04-25, 03:09:27](https://news.ycombinator.com/item?id=40152944) - [Enron tried to trade memory chip futures; why didn't it work?](https://www.felixstocker.com/blog/chips)
 * [2024-04-25, 02:34:10](https://news.ycombinator.com/item?id=40152682) - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-24, 21:40:28](https://news.ycombinator.com/item?id=40150045) - [Autotuner: How to speed up your Rails app](https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/)
 * [2024-04-24, 07:12:53](https://news.ycombinator.com/item?id=40141545) - [Test Sizes (2010)](https://testing.googleblog.com/2010/12/test-sizes.html)
