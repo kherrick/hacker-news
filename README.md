@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-25, 02:03:29](https://news.ycombinator.com/item?id=40152486) - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
-* [2024-04-25, 01:50:19](https://news.ycombinator.com/item?id=40152394) - [As the US Air Force fleet keeps shrinking, can it still win wars?](https://www.defensenews.com/air/2024/04/23/as-the-us-air-force-fleet-keeps-shrinking-can-it-still-win-wars/)
 * [2024-04-25, 01:11:16](https://news.ycombinator.com/item?id=40152049) - [Air Force picks Anduril, General Atomics to develop unmanned fighter jets](https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/)
-* [2024-04-25, 01:09:40](https://news.ycombinator.com/item?id=40152029) - [Ruby might be faster than you think](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
 * [2024-04-25, 01:03:12](https://news.ycombinator.com/item?id=40151982) - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 * [2024-04-25, 00:58:37](https://news.ycombinator.com/item?id=40151952) - [You are what you read, even if you don't always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 * [2024-04-25, 00:47:49](https://news.ycombinator.com/item?id=40151860) - [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
 * [2024-04-25, 00:21:32](https://news.ycombinator.com/item?id=40151650) - [Twilight of the Age of Steam, Part 2: Petroleum and After](https://technicshistory.com/2024/04/25/twilight-of-the-age-of-steam-part-2-petroleum-and-after/)
+* [2024-04-24, 22:58:42](https://news.ycombinator.com/item?id=40150910) - [Modern EV Batteries Rarely Fail: Study](https://insideevs.com/news/717187/ev-battery-replacements-due-failure-study/)
 * [2024-04-24, 22:29:23](https://news.ycombinator.com/item?id=40150639) - [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
 * [2024-04-24, 22:07:25](https://news.ycombinator.com/item?id=40150386) - [Amsterdam roofs that not only grow plants but also capture water for residents](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
 * [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
@@ -29,6 +28,7 @@
 * [2024-04-24, 01:26:48](https://news.ycombinator.com/item?id=40139398) - [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
 * [2024-04-23, 19:27:17](https://news.ycombinator.com/item?id=40136130) - [Length and thickness of bamboo internodes: a beautiful curve](https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/)
 * [2024-04-23, 11:49:18](https://news.ycombinator.com/item?id=40130803) - [VideoGigaGAN: Towards detail-rich video super-resolution](https://videogigagan.github.io/)
+* [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 * [2024-04-22, 23:00:44](https://news.ycombinator.com/item?id=40124492) - [Descartes's Stove](https://bloomsburyliterarystudiesblog.com/2024/03/descartess-stove.html)
 
 ## [Archives](archives/index.md)
