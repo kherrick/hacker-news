@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-04-25, 14:11:34",
-      "https://news.ycombinator.com/item?id=40157841"
+      "2024-04-25, 14:18:20",
+      "https://news.ycombinator.com/item?id=40157908"
     ],
     [
-      "Show HN: Snatched! my game where you lure LLM-powered NPCs to your alien ship",
-      "https://playsnatched.com"
+      "Someone built an LLM-powered Slay the Spire bot",
+      "https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire"
     ]
   ],
   [
     [
-      "2024-04-25, 13:48:38",
-      "https://news.ycombinator.com/item?id=40157559"
+      "2024-04-25, 14:11:34",
+      "https://news.ycombinator.com/item?id=40157841"
     ],
     [
-      "Searing heat shuts schools for 33M children",
-      "https://www.bbc.com/news/articles/c1wxjj3g965o"
+      "Show HN: Snatched! – My game where you lure LLM-powered NPCs to your alien ship",
+      "https://playsnatched.com"
     ]
   ],
   [
@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2024-04-25, 13:05:19",
-      "https://news.ycombinator.com/item?id=40157028"
+      "2024-04-25, 12:51:44",
+      "https://news.ycombinator.com/item?id=40156890"
     ],
     [
-      "Updating California's grid for EVs may cost up to $20B",
-      "https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/"
+      "Rust Stream API visualized and exposed",
+      "https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-04-25, 03:03:39",
-      "https://news.ycombinator.com/item?id=40152908"
-    ],
-    [
-      "The \"it\" in AI models is the dataset",
-      "https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 02:34:10",
       "https://news.ycombinator.com/item?id=40152682"
     ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40141350"
     ],
     [
-      "Progress Quest: the original idle game",
+      "Progress Quest: The original idle game",
       "http://progressquest.com/play/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps",
       "https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 07:19:41",
+      "https://news.ycombinator.com/item?id=40129410"
+    ],
+    [
+      "Automated Stitching of Chip Images",
+      "https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/"
     ]
   ]
 ]
