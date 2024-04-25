@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 12:50:14](https://news.ycombinator.com/item?id=40156867) - [Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
 * [2024-04-25, 12:16:58](https://news.ycombinator.com/item?id=40156569) - [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
 * [2024-04-25, 12:13:51](https://news.ycombinator.com/item?id=40156534) - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
 * [2024-04-25, 12:13:13](https://news.ycombinator.com/item?id=40156527) - [Why One Man Spent 12 Years Fighting Robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
@@ -19,7 +20,6 @@
 * [2024-04-25, 05:12:22](https://news.ycombinator.com/item?id=40153691) - [How Penelope Fitzgerald became a late blooming novelist](https://www.commonreader.co.uk/p/how-penelope-fitzgerald-became-a)
 * [2024-04-25, 04:03:00](https://news.ycombinator.com/item?id=40153291) - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 * [2024-04-25, 03:42:21](https://news.ycombinator.com/item?id=40153162) - [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
-* [2024-04-25, 03:09:27](https://news.ycombinator.com/item?id=40152944) - [Enron tried to trade memory chip futures; why didn't it work?](https://www.felixstocker.com/blog/chips)
 * [2024-04-25, 03:03:39](https://news.ycombinator.com/item?id=40152908) - [The \"it\" in AI models is the dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
 * [2024-04-25, 02:34:10](https://news.ycombinator.com/item?id=40152682) - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-25, 01:11:16](https://news.ycombinator.com/item?id=40152049) - [Air Force picks Anduril, General Atomics to develop unmanned fighter jets](https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/)
