@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40152029"
     ],
     [
-      "Ruby might be faster than you think – John Hawthorn",
+      "Ruby might be faster than you think",
       "https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40151952"
     ],
     [
-      "You Are What You Read, Even If You Don't Always Remember It",
+      "You are what you read, even if you don't always remember it",
       "https://blog.jim-nielsen.com/2024/you-are-what-you-read/"
     ]
   ],
@@ -67,6 +67,16 @@
     [
       "Show HN: See your current Spotify song in the menu bar",
       "https://github.com/jonathangarelick/SoundSeer"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 00:21:32",
+      "https://news.ycombinator.com/item?id=40151650"
+    ],
+    [
+      "Twilight of the Age of Steam, Part 2: Petroleum and After",
+      "https://technicshistory.com/2024/04/25/twilight-of-the-age-of-steam-part-2-petroleum-and-after/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The Stainless SDK Generator",
       "https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 16:09:38",
-      "https://news.ycombinator.com/item?id=40146088"
-    ],
-    [
-      "Snowflake Arctic Instruct (128x3B MoE), largest open source model",
-      "https://replicate.com/snowflake/snowflake-arctic-instruct"
     ]
   ],
   [
