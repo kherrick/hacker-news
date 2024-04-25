@@ -93,6 +93,7 @@
 * [2024-04-24, 07:34:22](https://news.ycombinator.com/item?id=40141689) - [Nginx 1.26.0 Stable Released](https://nginx.org/en/CHANGES-1.26)
 * [2024-04-24, 07:32:07](https://news.ycombinator.com/item?id=40141667) - [US Senate passes TikTok divestment-or-ban bill](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/)
 * [2024-04-24, 06:57:24](https://news.ycombinator.com/item?id=40141463) - [Other People's Problems](https://seths.blog/2024/04/other-peoples-problems/)
+* [2024-04-24, 06:36:54](https://news.ycombinator.com/item?id=40141350) - [Progress Quest: the original idle game](http://progressquest.com/play/)
 * [2024-04-24, 06:08:25](https://news.ycombinator.com/item?id=40141175) - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
 * [2024-04-24, 06:00:54](https://news.ycombinator.com/item?id=40141133) - [Ask HN: Benchmarks for models other than LLMs](https://news.ycombinator.com/item?id=40141133)
 * [2024-04-24, 05:50:36](https://news.ycombinator.com/item?id=40141060) - [A Note about Coercions](https://oleg.fi/gists/posts/2024-04-21-a-note-about-coercions.html)

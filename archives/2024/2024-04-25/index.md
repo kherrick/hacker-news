@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
 * [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
+* [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
+* [2024-04-25, 05:01:41](https://news.ycombinator.com/item?id=40153613) - [Node.js 22: Require() Support and WebSockets](https://coderoasis.com/nodejs-22-released/)
 * [2024-04-25, 04:25:56](https://news.ycombinator.com/item?id=40153409) - [Ghost Jobs – it's not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
 * [2024-04-25, 04:03:00](https://news.ycombinator.com/item?id=40153291) - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 * [2024-04-25, 03:58:14](https://news.ycombinator.com/item?id=40153253) - [New Video of Strong Full Levitation of Pcposos Room Temperature Superconductor](https://www.nextbigfuture.com/2024/04/new-video-of-strong-full-levitation-of-pcposos-room-temperature-superconductor.html)
@@ -13,6 +15,7 @@
 * [2024-04-25, 03:14:21](https://news.ycombinator.com/item?id=40152977) - [McKinsey Is Under Criminal Investigation for Its Opioid Work](https://www.nytimes.com/2024/04/24/business/mckinsey-criminal-investigation.html)
 * [2024-04-25, 03:12:26](https://news.ycombinator.com/item?id=40152967) - [Australia's spies, cops want accountable encryption- a.k.a. access to backdoors](https://www.theregister.com/2024/04/25/asio_afp_accountable_encryption/)
 * [2024-04-25, 03:09:27](https://news.ycombinator.com/item?id=40152944) - [Enron tried to trade memory chip futures; why didn't it work?](https://www.felixstocker.com/blog/chips)
+* [2024-04-25, 03:03:39](https://news.ycombinator.com/item?id=40152908) - [The \"it\" in AI models is the dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
 * [2024-04-25, 02:34:10](https://news.ycombinator.com/item?id=40152682) - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-25, 02:03:29](https://news.ycombinator.com/item?id=40152486) - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
 * [2024-04-25, 01:50:19](https://news.ycombinator.com/item?id=40152394) - [As the US Air Force fleet keeps shrinking, can it still win wars?](https://www.defensenews.com/air/2024/04/23/as-the-us-air-force-fleet-keeps-shrinking-can-it-still-win-wars/)
