@@ -92,6 +92,7 @@
 * [2024-04-24, 10:13:16](https://news.ycombinator.com/item?id=40142570) - ['Expensive' Streaming Services Are a Key Reason for Americans to 'Pirate'](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
 * [2024-04-24, 09:45:50](https://news.ycombinator.com/item?id=40142374) - [Meta does everything OpenAI should be](https://old.reddit.com/r/MachineLearning/comments/1cbhec7/meta_does_everything_openai_should_be_d/)
 * [2024-04-24, 08:59:25](https://news.ycombinator.com/item?id=40142109) - [Tesla Profits Drop 55%](https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/)
+* [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 * [2024-04-24, 08:35:30](https://news.ycombinator.com/item?id=40141980) - [Show HN: Podlite - a lightweight markup language for organizing knowledge](https://podlite.org/2024/4/23/1/podlite-specification-v1-0-released)
 * [2024-04-24, 08:32:36](https://news.ycombinator.com/item?id=40141967) - [Sysadmin friendly high speed Ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
 * [2024-04-24, 07:59:05](https://news.ycombinator.com/item?id=40141811) - [Android 15 may make it harder for sideloaded apps to get sensitive permissions](https://www.androidauthority.com/android-15-enhanced-confirmation-mode-3436697/)

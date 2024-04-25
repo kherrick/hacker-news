@@ -3,7 +3,6 @@
 * [2024-04-25, 21:27:19](https://news.ycombinator.com/item?id=40163251) - [U.S. Fertility Rate Falls to Record Low](https://www.wsj.com/us-news/america-birth-rate-decline-a111d21b)
 * [2024-04-25, 21:01:30](https://news.ycombinator.com/item?id=40162976) - [Amazon Workdocs End of Life](https://docs.aws.amazon.com/workdocs/latest/userguide/what_is.html)
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
-* [2024-04-25, 20:58:21](https://news.ycombinator.com/item?id=40162930) - [Cease labeling recursion as challenging for students](https://mabelcor.substack.com/p/cease-labeling-recursion-as-challenging)
 * [2024-04-25, 20:38:53](https://news.ycombinator.com/item?id=40162699) - [Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
 * [2024-04-25, 20:14:10](https://news.ycombinator.com/item?id=40162433) - [Judge acquits Backpage co-founder Michael Lacey on most counts](https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/)
 * [2024-04-25, 19:16:52](https://news.ycombinator.com/item?id=40161811) - [Asian American women are getting lung cancer despite never smoking](https://www.nbcnews.com/news/us-news/asian-american-women-lung-cancer-rcna138895)
@@ -28,6 +27,7 @@
 * [2024-04-24, 12:15:26](https://news.ycombinator.com/item?id=40143460) - [Swan – A Lightweight Language Model Execution Environment Using FPGA](https://github.com/turingmotors/swan)
 * [2024-04-24, 11:55:54](https://news.ycombinator.com/item?id=40143285) - [Notes on Structured Programming (1970) [pdf]](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
 * [2024-04-24, 10:48:11](https://news.ycombinator.com/item?id=40142791) - [Ask HN: Any tool for managing large and variable command lines?](https://news.ycombinator.com/item?id=40142791)
+* [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 * [2024-04-24, 00:41:42](https://news.ycombinator.com/item?id=40139130) - [Retro-tech HP-25 Calculator](https://github.com/eshazen/retro-25)
 * [2024-04-23, 19:17:25](https://news.ycombinator.com/item?id=40136015) - [Ancient Malaria Genome from Roman Skeleton Hints at Disease's History](https://www.nature.com/articles/d41586-024-00772-8)
 
