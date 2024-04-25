@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
+* [2024-04-25, 17:19:23](https://news.ycombinator.com/item?id=40160374) - [Scripts to build a trimmed-down Windows 11 image](https://github.com/ntdevlabs/tiny11builder)
+* [2024-04-25, 17:13:36](https://news.ycombinator.com/item?id=40160275) - [Garry's Mod faces deluge of Nintendo-related DMCA takedown notices](https://www.engadget.com/garrys-mod-faces-deluge-of-nintendo-related-dmca-takedown-notices-123027589.html)
+* [2024-04-25, 17:05:53](https://news.ycombinator.com/item?id=40160148) - [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop)
 * [2024-04-25, 17:00:49](https://news.ycombinator.com/item?id=40160065) - [QuestDB (YC S20) Is Hiring a Senior Front-End Engineer](https://questdb.io/careers/senior-frontend-engineer/)
+* [2024-04-25, 16:56:09](https://news.ycombinator.com/item?id=40159988) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
 * [2024-04-25, 16:48:51](https://news.ycombinator.com/item?id=40159868) - [Reddit down 502 Bad Gateway](https://old.reddit.com/)
 * [2024-04-25, 16:47:10](https://news.ycombinator.com/item?id=40159845) - [ByteDance prefers TikTok shutdown in US if legal options fail](https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/)
 * [2024-04-25, 15:48:20](https://news.ycombinator.com/item?id=40158952) - [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
