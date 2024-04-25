@@ -75,6 +75,7 @@
 * [2024-04-24, 12:28:17](https://news.ycombinator.com/item?id=40143559) - [Learn OTP with Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 12:24:18](https://news.ycombinator.com/item?id=40143527) - [North Macedonia advertises Invest.com for free close to a decade](https://itlogs.com/how-macedonia-advertises-invest-com-for-free-close-to-a-decade/)
 * [2024-04-24, 12:20:32](https://news.ycombinator.com/item?id=40143498) - [Show HN: LangCSS. The AI Assistant for Tailwind](https://langcss.com/)
+* [2024-04-24, 12:15:26](https://news.ycombinator.com/item?id=40143460) - [Swan – A Lightweight Language Model Execution Environment Using FPGA](https://github.com/turingmotors/swan)
 * [2024-04-24, 12:00:13](https://news.ycombinator.com/item?id=40143325) - [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
 * [2024-04-24, 11:57:21](https://news.ycombinator.com/item?id=40143301) - [Linux Xz Backdoor Damage Could Be Greater Than Feared](https://thenewstack.io/linux-xz-backdoor-damage-could-be-greater-than-feared/)
 * [2024-04-24, 11:51:36](https://news.ycombinator.com/item?id=40143242) - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)

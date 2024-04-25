@@ -6,8 +6,11 @@
 
 * [2024-04-25, 17:52:01](https://news.ycombinator.com/item?id=40160824) - [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
 * [2024-04-25, 17:46:04](https://news.ycombinator.com/item?id=40160728) - [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
+* [2024-04-25, 17:33:02](https://news.ycombinator.com/item?id=40160577) - [Ask HN: What's Rabbit R1 business model?](https://news.ycombinator.com/item?id=40160577)
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 17:19:23](https://news.ycombinator.com/item?id=40160374) - [Scripts to build a trimmed-down Windows 11 image](https://github.com/ntdevlabs/tiny11builder)
+* [2024-04-25, 17:18:04](https://news.ycombinator.com/item?id=40160356) - [How ruthless is Amazon, really?](https://www.economist.com/culture/2024/04/25/how-ruthless-is-amazon-really)
+* [2024-04-25, 17:16:41](https://news.ycombinator.com/item?id=40160331) - [Jeff Geerling: Corporate Open Source Is Dead](https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead)
 * [2024-04-25, 17:16:31](https://news.ycombinator.com/item?id=40160326) - [New evidence found for Planet 9](https://phys.org/news/2024-04-evidence-planet.html)
 * [2024-04-25, 17:13:36](https://news.ycombinator.com/item?id=40160275) - [Garry's Mod faces deluge of Nintendo-related DMCA takedown notices](https://www.engadget.com/garrys-mod-faces-deluge-of-nintendo-related-dmca-takedown-notices-123027589.html)
 * [2024-04-25, 17:05:53](https://news.ycombinator.com/item?id=40160148) - [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop)
