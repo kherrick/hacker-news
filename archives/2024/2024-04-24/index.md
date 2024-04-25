@@ -15,6 +15,7 @@
 * [2024-04-24, 22:12:16](https://news.ycombinator.com/item?id=40150455) - [Delta takes flight: Apple-approved Nintendo emulator is a great iOS option](https://arstechnica.com/gaming/2024/04/a-touchscreen-of-nostalgia-delta-brings-classic-nintendo-consoles-to-ios/)
 * [2024-04-24, 22:07:25](https://news.ycombinator.com/item?id=40150386) - [Amsterdam roofs that not only grow plants but also capture water for residents](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
 * [2024-04-24, 21:05:08](https://news.ycombinator.com/item?id=40149630) - [Meta stock has lost $137B in market cap on weak Q2 revenue guidance](https://finance.yahoo.com/video/meta-stock-falls-disappointing-q2-202013597.html)
+* [2024-04-24, 21:02:58](https://news.ycombinator.com/item?id=40149608) - [Show HN: Open-source alternative to HashiCorp/IBM Vault](https://github.com/Infisical/infisical/blob/main/README.md)
 * [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-04-24, 21:00:31](https://news.ycombinator.com/item?id=40149580) - [How to Land an Airplane in an Emergency (Step-by-Step)](https://eduardomourao.substack.com/p/how-to-land-an-airplane-in-an-emergency)
 * [2024-04-24, 20:50:03](https://news.ycombinator.com/item?id=40149446) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
