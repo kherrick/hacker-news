@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 13:42:16](https://news.ycombinator.com/item?id=40157470) - [Florida inmates charged for prison cells long after incarceration](https://www.abcactionnews.com/news/local-news/i-team-investigates/pay-to-stay-florida-inmates-charged-for-prison-cells-long-after-incarceration)
 * [2024-04-25, 13:12:36](https://news.ycombinator.com/item?id=40157111) - [Ubuntu 24.04 Noble Numbat](https://releases.ubuntu.com/noble/)
 * [2024-04-25, 12:50:14](https://news.ycombinator.com/item?id=40156867) - [Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
 * [2024-04-25, 12:16:58](https://news.ycombinator.com/item?id=40156569) - [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
@@ -15,7 +16,6 @@
 * [2024-04-25, 06:22:26](https://news.ycombinator.com/item?id=40154104) - [Chime Design and Build](http://leehite.org/Chimes.htm)
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
 * [2024-04-25, 05:12:22](https://news.ycombinator.com/item?id=40153691) - [How Penelope Fitzgerald became a late blooming novelist](https://www.commonreader.co.uk/p/how-penelope-fitzgerald-became-a)
-* [2024-04-25, 04:03:00](https://news.ycombinator.com/item?id=40153291) - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 * [2024-04-25, 03:42:21](https://news.ycombinator.com/item?id=40153162) - [Quaternion Knowledge Graph Embeddings (2019)](https://arxiv.org/abs/1904.10281)
 * [2024-04-25, 03:09:27](https://news.ycombinator.com/item?id=40152944) - [Enron tried to trade memory chip futures; why didn't it work?](https://www.felixstocker.com/blog/chips)
 * [2024-04-25, 03:03:39](https://news.ycombinator.com/item?id=40152908) - [The \"it\" in AI models is the dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)

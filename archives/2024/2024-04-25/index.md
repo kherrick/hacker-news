@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 13:42:16](https://news.ycombinator.com/item?id=40157470) - [Florida inmates charged for prison cells long after incarceration](https://www.abcactionnews.com/news/local-news/i-team-investigates/pay-to-stay-florida-inmates-charged-for-prison-cells-long-after-incarceration)
 * [2024-04-25, 13:12:36](https://news.ycombinator.com/item?id=40157111) - [Ubuntu 24.04 Noble Numbat](https://releases.ubuntu.com/noble/)
 * [2024-04-25, 12:50:14](https://news.ycombinator.com/item?id=40156867) - [Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
 * [2024-04-25, 12:16:58](https://news.ycombinator.com/item?id=40156569) - [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
