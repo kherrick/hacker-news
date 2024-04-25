@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:27:19](https://news.ycombinator.com/item?id=40163251) - [U.S. Fertility Rate Falls to Record Low](https://www.wsj.com/us-news/america-birth-rate-decline-a111d21b)
 * [2024-04-25, 21:01:30](https://news.ycombinator.com/item?id=40162976) - [Amazon Workdocs End of Life](https://docs.aws.amazon.com/workdocs/latest/userguide/what_is.html)
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
