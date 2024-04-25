@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
 * [2024-04-25, 17:52:01](https://news.ycombinator.com/item?id=40160824) - [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
+* [2024-04-25, 17:48:24](https://news.ycombinator.com/item?id=40160770) - [Oracle's Jump to Nashville Surprises Austin](https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18)
 * [2024-04-25, 17:46:04](https://news.ycombinator.com/item?id=40160728) - [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
 * [2024-04-25, 17:33:02](https://news.ycombinator.com/item?id=40160577) - [Ask HN: What's Rabbit R1 business model?](https://news.ycombinator.com/item?id=40160577)
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
