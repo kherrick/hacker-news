@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 10:09:08](https://news.ycombinator.com/item?id=40155545) - [JavaScript Naked Day](https://starbreaker.org/blog/links/js-naked-day/index.html)
 * [2024-04-25, 09:58:07](https://news.ycombinator.com/item?id=40155489) - [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
 * [2024-04-25, 09:40:59](https://news.ycombinator.com/item?id=40155374) - [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
 * [2024-04-25, 09:35:24](https://news.ycombinator.com/item?id=40155336) - [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
