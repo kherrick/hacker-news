@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158752) - [We Have 4 Days to Contest KYC Being Required by Internet Services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
 * [2024-04-25, 15:15:31](https://news.ycombinator.com/item?id=40158558) - [Package management on macOS with Nix-Darwin](https://davi.sh/blog/2024/01/nix-darwin/)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – The open-source unified API](https://news.ycombinator.com/item?id=40158481)
+* [2024-04-25, 15:02:50](https://news.ycombinator.com/item?id=40158424) - [City council audit trail is an audit fail after disastrous Oracle ERP rollout](https://www.theregister.com/2024/04/25/birmingham_oracle_audit_trail/)
 * [2024-04-25, 15:02:31](https://news.ycombinator.com/item?id=40158417) - [Today Microsoft Banned My Country Iran from Minecraft](https://old.reddit.com/r/GirlGamers/comments/1cckj2q/today_microsoft_banned_my_country_iran_from/)
 * [2024-04-25, 14:43:27](https://news.ycombinator.com/item?id=40158183) - [Ex-athletic director arrested for framing principal with AI-generated voice](https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/)
 * [2024-04-25, 14:18:20](https://news.ycombinator.com/item?id=40157908) - [Someone built an LLM-powered Slay the Spire bot](https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire)
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 12:51:44](https://news.ycombinator.com/item?id=40156890) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
-* [2024-04-25, 12:50:14](https://news.ycombinator.com/item?id=40156867) - [Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
 * [2024-04-25, 12:16:58](https://news.ycombinator.com/item?id=40156569) - [Palm OS and the devices that ran it](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
 * [2024-04-25, 12:13:51](https://news.ycombinator.com/item?id=40156534) - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
 * [2024-04-25, 12:13:13](https://news.ycombinator.com/item?id=40156527) - [David Frankel is a man on a mission against robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
@@ -28,7 +29,6 @@
 * [2024-04-24, 21:40:28](https://news.ycombinator.com/item?id=40150045) - [Autotuner: How to Speed Up Your Rails App](https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/)
 * [2024-04-24, 07:12:53](https://news.ycombinator.com/item?id=40141545) - [Test Sizes (2010)](https://testing.googleblog.com/2010/12/test-sizes.html)
 * [2024-04-24, 06:36:54](https://news.ycombinator.com/item?id=40141350) - [Progress Quest: The original idle game](http://progressquest.com/play/)
-* [2024-04-23, 11:04:25](https://news.ycombinator.com/item?id=40130474) - [The evolution of stupidity (and octopus intelligence)](https://www.forkingpaths.co/p/the-evolution-of-stupidity-and-octopus)
 * [2024-04-23, 08:06:22](https://news.ycombinator.com/item?id=40129637) - [Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps](https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/)
 
 ## [Archives](archives/index.md)

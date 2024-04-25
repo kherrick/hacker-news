@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158752) - [We Have 4 Days to Contest KYC Being Required by Internet Services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
 * [2024-04-25, 15:15:31](https://news.ycombinator.com/item?id=40158558) - [Package management on macOS with Nix-Darwin](https://davi.sh/blog/2024/01/nix-darwin/)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – The open-source unified API](https://news.ycombinator.com/item?id=40158481)
+* [2024-04-25, 15:02:50](https://news.ycombinator.com/item?id=40158424) - [City council audit trail is an audit fail after disastrous Oracle ERP rollout](https://www.theregister.com/2024/04/25/birmingham_oracle_audit_trail/)
 * [2024-04-25, 15:02:31](https://news.ycombinator.com/item?id=40158417) - [Today Microsoft Banned My Country Iran from Minecraft](https://old.reddit.com/r/GirlGamers/comments/1cckj2q/today_microsoft_banned_my_country_iran_from/)
 * [2024-04-25, 14:43:27](https://news.ycombinator.com/item?id=40158183) - [Ex-athletic director arrested for framing principal with AI-generated voice](https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/)
 * [2024-04-25, 14:18:20](https://news.ycombinator.com/item?id=40157908) - [Someone built an LLM-powered Slay the Spire bot](https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire)
