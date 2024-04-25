@@ -10,7 +10,7 @@
 * [2024-04-25, 03:03:39](https://news.ycombinator.com/item?id=40152908) - [The \"it\" in AI models is the dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
 * [2024-04-25, 02:34:10](https://news.ycombinator.com/item?id=40152682) - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-25, 02:03:29](https://news.ycombinator.com/item?id=40152486) - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
-* [2024-04-25, 01:03:12](https://news.ycombinator.com/item?id=40151982) - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
+* [2024-04-25, 01:03:12](https://news.ycombinator.com/item?id=40151982) - [A Beginner's Guide to the ESP8266 (2017)](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 * [2024-04-25, 00:58:37](https://news.ycombinator.com/item?id=40151952) - [You are what you read, even if you don't always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 * [2024-04-25, 00:47:49](https://news.ycombinator.com/item?id=40151860) - [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
 * [2024-04-24, 22:29:23](https://news.ycombinator.com/item?id=40150639) - [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
