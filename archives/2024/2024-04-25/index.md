@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 14:43:27](https://news.ycombinator.com/item?id=40158183) - [Ex-athletic director arrested for framing principal with AI-generated voice](https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/)
 * [2024-04-25, 14:18:20](https://news.ycombinator.com/item?id=40157908) - [Someone built an LLM-powered Slay the Spire bot](https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire)
 * [2024-04-25, 14:11:34](https://news.ycombinator.com/item?id=40157841) - [Show HN: Snatched! my game where you lure LLM-powered NPCs to your alien ship](https://playsnatched.com)
 * [2024-04-25, 13:48:38](https://news.ycombinator.com/item?id=40157559) - [Searing heat shuts schools for 33M children](https://www.bbc.com/news/articles/c1wxjj3g965o)
