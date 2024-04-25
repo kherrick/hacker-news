@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-25, 15:41:37",
-      "https://news.ycombinator.com/item?id=40158871"
+      "2024-04-25, 16:48:51",
+      "https://news.ycombinator.com/item?id=40159868"
     ],
     [
-      "Does the CIA Still Do That?",
-      "https://www.nakedcapitalism.com/2024/04/does-the-cia-still-do-that.html"
+      "Reddit down 502 Bad Gateway",
+      "https://old.reddit.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 16:47:10",
+      "https://news.ycombinator.com/item?id=40159845"
+    ],
+    [
+      "ByteDance prefers TikTok shutdown in US if legal options fail",
+      "https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40158794"
     ],
     [
-      "Amazon MemoryDB: A fast and durable memory-first cloud database",
+      "MemoryDB: A fast and durable memory-first cloud database",
       "https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "Rust Stream API visualized and exposed",
       "https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 12:50:14",
+      "https://news.ycombinator.com/item?id=40156867"
+    ],
+    [
+      "Serious flaws in SQL (1990)",
+      "https://dl.acm.org/doi/10.5555/77708.C1065772"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2024-04-25, 00:58:37",
-      "https://news.ycombinator.com/item?id=40151952"
-    ],
-    [
-      "You are what you read, even if you don't always remember it",
-      "https://blog.jim-nielsen.com/2024/you-are-what-you-read/"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 21:40:28",
       "https://news.ycombinator.com/item?id=40150045"
     ],
     [
-      "Autotuner: How to Speed Up Your Rails App",
+      "Autotuner: How to speed up your Rails app",
       "https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 19:32:20",
-      "https://news.ycombinator.com/item?id=40148563"
-    ],
-    [
-      "I now lack the juice to fuel the bluster to conceal that I am a simpleton",
-      "https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/"
     ]
   ],
   [
