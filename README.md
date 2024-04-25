@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-25, 21:52:22](https://news.ycombinator.com/item?id=40163530) - [The Nimble File Format by Meta](https://github.com/facebookexternal/nimble)
+* [2024-04-25, 21:57:24](https://news.ycombinator.com/item?id=40163578) - [U.S. \"Know Your Customer\" Proposal Will Put an End to Anonymous Cloud Users](https://torrentfreak.com/u-s-know-your-customer-proposal-will-put-an-end-to-anonymous-cloud-users-240425/)
+* [2024-04-25, 21:51:14](https://news.ycombinator.com/item?id=40163516) - [Cops cuff man for allegedly framing colleague with AI-generated hate speech clip](https://www.theregister.com/2024/04/25/ai_voice_arrest/)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-04-25, 20:38:53](https://news.ycombinator.com/item?id=40162699) - [Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
@@ -13,7 +14,6 @@
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 16:42:05](https://news.ycombinator.com/item?id=40159766) - [DDC OLED: how to drive a tiny display from an HDMI port. (2022)](https://mitxela.com/projects/ddc-oled)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
-* [2024-04-25, 15:47:59](https://news.ycombinator.com/item?id=40158945) - [Llamafile's Progress, Four Months In](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)
 * [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
