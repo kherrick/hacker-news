@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 21:01:30](https://news.ycombinator.com/item?id=40162976) - [Amazon Workdocs End of Life](https://docs.aws.amazon.com/workdocs/latest/userguide/what_is.html)
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-04-25, 20:58:21](https://news.ycombinator.com/item?id=40162930) - [Cease labeling recursion as challenging for students](https://mabelcor.substack.com/p/cease-labeling-recursion-as-challenging)
 * [2024-04-25, 20:42:24](https://news.ycombinator.com/item?id=40162747) - [A Response to \"Have Single-Page Apps Ruined the Web?\" (2021)](https://htmx.org/essays/a-response-to-rich-harris/)
 * [2024-04-25, 20:38:53](https://news.ycombinator.com/item?id=40162699) - [Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
+* [2024-04-25, 20:14:41](https://news.ycombinator.com/item?id=40162438) - [The myth of the second chance](https://www.ft.com/content/fa1a5780-b8ca-45ae-a09e-46e95737bda7)
 * [2024-04-25, 20:14:41](https://news.ycombinator.com/item?id=40162438) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
 * [2024-04-25, 20:14:10](https://news.ycombinator.com/item?id=40162433) - [Judge Acquits Backpage Co-Founder Michael Lacey on Most Counts](https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/)
 * [2024-04-25, 20:07:21](https://news.ycombinator.com/item?id=40162354) - [Google Earning Q1 2024 [pdf]](https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf)
