@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-25, 17:52:01",
+      "https://news.ycombinator.com/item?id=40160824"
+    ],
+    [
+      "FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote",
+      "https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 17:46:04",
+      "https://news.ycombinator.com/item?id=40160728"
+    ],
+    [
+      "CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data",
+      "https://arxiv.org/abs/2404.15653"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 17:23:00",
       "https://news.ycombinator.com/item?id=40160429"
     ],
@@ -11,42 +31,12 @@
   ],
   [
     [
-      "2024-04-25, 17:19:23",
-      "https://news.ycombinator.com/item?id=40160374"
-    ],
-    [
-      "Scripts to build a trimmed-down Windows 11 image",
-      "https://github.com/ntdevlabs/tiny11builder"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 17:16:31",
       "https://news.ycombinator.com/item?id=40160326"
     ],
     [
       "New evidence found for Planet 9",
       "https://phys.org/news/2024-04-evidence-planet.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 17:13:36",
-      "https://news.ycombinator.com/item?id=40160275"
-    ],
-    [
-      "Garry's Mod faces deluge of Nintendo-related DMCA takedown notices",
-      "https://www.engadget.com/garrys-mod-faces-deluge-of-nintendo-related-dmca-takedown-notices-123027589.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 17:05:53",
-      "https://news.ycombinator.com/item?id=40160148"
-    ],
-    [
-      "Ubuntu 24.04 LTS",
-      "https://ubuntu.com/download/desktop"
     ]
   ],
   [
@@ -71,12 +61,22 @@
   ],
   [
     [
-      "2024-04-25, 16:26:11",
-      "https://news.ycombinator.com/item?id=40159540"
+      "2024-04-25, 16:42:05",
+      "https://news.ycombinator.com/item?id=40159766"
     ],
     [
-      "Fedora Slimbook II Available",
-      "https://fedora.slimbook.com/"
+      "DDC OLED: how to drive a tiny display from an HDMI port. (2022)",
+      "https://mitxela.com/projects/ddc-oled"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 16:08:05",
+      "https://news.ycombinator.com/item?id=40159278"
+    ],
+    [
+      "Show HN: I made a programmable computer from NAND gates",
+      "https://github.com/ArhanChaudhary/NAND"
     ]
   ],
   [
