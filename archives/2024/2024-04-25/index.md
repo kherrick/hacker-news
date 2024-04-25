@@ -12,6 +12,7 @@
 * [2024-04-25, 17:48:24](https://news.ycombinator.com/item?id=40160770) - [Oracle's Jump to Nashville Surprises Austin](https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18)
 * [2024-04-25, 17:46:04](https://news.ycombinator.com/item?id=40160728) - [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
 * [2024-04-25, 17:33:02](https://news.ycombinator.com/item?id=40160577) - [Ask HN: What's Rabbit R1 business model?](https://news.ycombinator.com/item?id=40160577)
+* [2024-04-25, 17:24:36](https://news.ycombinator.com/item?id=40160467) - [How can we make pg_dump and pg_restore 5 times faster?](https://blog.peerdb.io/how-can-we-make-pgdump-and-pgrestore-5-times-faster)
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 17:19:23](https://news.ycombinator.com/item?id=40160374) - [Scripts to build a trimmed-down Windows 11 image](https://github.com/ntdevlabs/tiny11builder)
 * [2024-04-25, 17:18:04](https://news.ycombinator.com/item?id=40160356) - [How ruthless is Amazon, really?](https://www.economist.com/culture/2024/04/25/how-ruthless-is-amazon-really)
