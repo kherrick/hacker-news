@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 17:00:49](https://news.ycombinator.com/item?id=40160065) - [QuestDB (YC S20) Is Hiring a Senior Front-End Engineer](https://questdb.io/careers/senior-frontend-engineer/)
 * [2024-04-25, 16:48:51](https://news.ycombinator.com/item?id=40159868) - [Reddit down 502 Bad Gateway](https://old.reddit.com/)
 * [2024-04-25, 16:47:10](https://news.ycombinator.com/item?id=40159845) - [ByteDance prefers TikTok shutdown in US if legal options fail](https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/)
 * [2024-04-25, 15:48:20](https://news.ycombinator.com/item?id=40158952) - [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
@@ -46,6 +47,7 @@
 * [2024-04-25, 09:35:24](https://news.ycombinator.com/item?id=40155336) - [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
 * [2024-04-25, 09:28:57](https://news.ycombinator.com/item?id=40155293) - [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
 * [2024-04-25, 09:20:25](https://news.ycombinator.com/item?id=40155240) - [Boeing retaliated against its own engineers working for FAA, union says](https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/)
+* [2024-04-25, 07:07:19](https://news.ycombinator.com/item?id=40154395) - [Tor: From the Dark Web to the Future of Privacy](https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy)
 * [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-04-25, 06:22:26](https://news.ycombinator.com/item?id=40154104) - [Chime Design and Build](http://leehite.org/Chimes.htm)
 * [2024-04-25, 05:37:27](https://news.ycombinator.com/item?id=40153825) - [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
