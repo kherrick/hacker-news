@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-25, 04:25:56](https://news.ycombinator.com/item?id=40153409) - [Ghost Jobs – it's not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
 * [2024-04-25, 03:12:26](https://news.ycombinator.com/item?id=40152967) - [Australia's spies, cops want accountable encryption- a.k.a. access to backdoors](https://www.theregister.com/2024/04/25/asio_afp_accountable_encryption/)
 * [2024-04-25, 02:34:10](https://news.ycombinator.com/item?id=40152682) - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-25, 02:03:29](https://news.ycombinator.com/item?id=40152486) - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
@@ -12,7 +13,6 @@
 * [2024-04-24, 21:00:35](https://news.ycombinator.com/item?id=40149581) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-04-24, 20:50:03](https://news.ycombinator.com/item?id=40149446) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
 * [2024-04-24, 20:21:32](https://news.ycombinator.com/item?id=40149095) - [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
-* [2024-04-24, 20:19:46](https://news.ycombinator.com/item?id=40149071) - [Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
 * [2024-04-24, 19:56:40](https://news.ycombinator.com/item?id=40148833) - [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
 * [2024-04-24, 19:47:25](https://news.ycombinator.com/item?id=40148729) - [McKinsey Under Criminal Investigation over Opioid-Related Consulting](https://www.wsj.com/articles/mckinsey-faces-criminal-probe-over-opioid-related-consulting-a3f816d4)
 * [2024-04-24, 19:44:47](https://news.ycombinator.com/item?id=40148707) - [Nearsightedness is at epidemic levels – and the problem begins in childhood](https://theconversation.com/nearsightedness-is-at-epidemic-levels-and-the-problem-begins-in-childhood-225255)
