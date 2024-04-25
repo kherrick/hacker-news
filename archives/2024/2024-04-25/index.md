@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 18:56:40](https://news.ycombinator.com/item?id=40161573) - [Portugal Overthrew its Fascist Regime 50 Years Ago Today to Become a Democracy](https://www.reuters.com/world/europe/portugals-democracy-turns-50-thousands-commemorate-carnation-revolution-2024-04-25/)
+* [2024-04-25, 18:36:01](https://news.ycombinator.com/item?id=40161334) - [Xz sshd backdoor collecting usernames from logs](https://isc.sans.edu/diary/30802)
 * [2024-04-25, 17:52:01](https://news.ycombinator.com/item?id=40160824) - [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
 * [2024-04-25, 17:48:24](https://news.ycombinator.com/item?id=40160770) - [Oracle's Jump to Nashville Surprises Austin](https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18)
 * [2024-04-25, 17:46:04](https://news.ycombinator.com/item?id=40160728) - [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
@@ -13,6 +15,7 @@
 * [2024-04-25, 17:18:04](https://news.ycombinator.com/item?id=40160356) - [How ruthless is Amazon, really?](https://www.economist.com/culture/2024/04/25/how-ruthless-is-amazon-really)
 * [2024-04-25, 17:16:41](https://news.ycombinator.com/item?id=40160331) - [Jeff Geerling: Corporate Open Source Is Dead](https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead)
 * [2024-04-25, 17:16:31](https://news.ycombinator.com/item?id=40160326) - [New evidence found for Planet 9](https://phys.org/news/2024-04-evidence-planet.html)
+* [2024-04-25, 17:14:46](https://news.ycombinator.com/item?id=40160292) - [Big telecom used fake and dead people to fight net neutrality, New York AG says](https://www.vice.com/en/article/3aqq7b/big-telecom-used-fake-and-dead-people-to-fight-net-neutrality-ny-ag-says)
 * [2024-04-25, 17:13:36](https://news.ycombinator.com/item?id=40160275) - [Garry's Mod faces deluge of Nintendo-related DMCA takedown notices](https://www.engadget.com/garrys-mod-faces-deluge-of-nintendo-related-dmca-takedown-notices-123027589.html)
 * [2024-04-25, 17:05:53](https://news.ycombinator.com/item?id=40160148) - [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop)
 * [2024-04-25, 17:00:49](https://news.ycombinator.com/item?id=40160065) - [QuestDB (YC S20) Is Hiring a Senior Front-End Engineer](https://questdb.io/careers/senior-frontend-engineer/)
