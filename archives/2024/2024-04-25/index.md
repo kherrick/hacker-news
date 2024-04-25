@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 12:00:23](https://news.ycombinator.com/item?id=40156397) - [Cogram (YC W22) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
+* [2024-04-25, 11:53:04](https://news.ycombinator.com/item?id=40156330) - [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
+* [2024-04-25, 11:47:36](https://news.ycombinator.com/item?id=40156275) - [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
+* [2024-04-25, 11:29:58](https://news.ycombinator.com/item?id=40156133) - [More on x86 – The Chip Letter](https://thechipletter.substack.com/p/more-on-x86)
 * [2024-04-25, 11:19:55](https://news.ycombinator.com/item?id=40156057) - [Leaving Substack](https://www.mostlypython.com/leaving-substack/)
+* [2024-04-25, 11:09:58](https://news.ycombinator.com/item?id=40155981) - [Researchers Showcase Decentralized AI-Powered Torrent Search Engine](https://torrentfreak.com/researchers-showcase-decentralized-ai-powered-torrent-search-engine-240425/)
 * [2024-04-25, 10:32:00](https://news.ycombinator.com/item?id=40155701) - [EPA rules would force coal-fired power plants to capture emissions or shut down](https://abcnews.go.com/US/wireStory/tough-new-epa-rules-force-coal-fired-power-109613509)
 * [2024-04-25, 10:09:08](https://news.ycombinator.com/item?id=40155545) - [JavaScript Naked Day](https://starbreaker.org/blog/links/js-naked-day/index.html)
 * [2024-04-25, 09:58:07](https://news.ycombinator.com/item?id=40155489) - [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)

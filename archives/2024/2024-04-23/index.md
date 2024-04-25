@@ -120,6 +120,7 @@
 * [2024-04-23, 08:59:09](https://news.ycombinator.com/item?id=40129935) - [How to Use I2C Devices in (Apache) NuttX: Scanning for Devices](https://www.EmbeddedRelated.com/showarticle/1656.php)
 * [2024-04-23, 08:51:59](https://news.ycombinator.com/item?id=40129887) - [Intel Meteor Lake's NPU](https://chipsandcheese.com/2024/04/22/intel-meteor-lakes-npu/)
 * [2024-04-23, 08:15:32](https://news.ycombinator.com/item?id=40129687) - [Apple M1 Assembly Language Hello World (2021)](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)
+* [2024-04-23, 08:06:22](https://news.ycombinator.com/item?id=40129637) - [Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps](https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/)
 * [2024-04-23, 07:37:44](https://news.ycombinator.com/item?id=40129505) - [How to Juggle Priorities](https://ashleyjanssen.com/how-to-juggle-priorities-decide-which-balls-are-glass-and-which-are-plastic/)
 * [2024-04-23, 07:25:49](https://news.ycombinator.com/item?id=40129444) - [The Deadline (2014)](https://www.thomas-huehn.com/2014/12/the-deadline/)
 * [2024-04-23, 07:19:41](https://news.ycombinator.com/item?id=40129410) - [Automated Stitching of Chip Images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
