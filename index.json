@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-25, 10:09:08",
+      "https://news.ycombinator.com/item?id=40155545"
+    ],
+    [
+      "JavaScript Naked Day",
+      "https://starbreaker.org/blog/links/js-naked-day/index.html"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 09:58:07",
       "https://news.ycombinator.com/item?id=40155489"
     ],
@@ -127,16 +137,6 @@
     [
       "HTML Attributes vs. DOM Properties",
       "https://jakearchibald.com/2024/attributes-vs-properties/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 02:03:29",
-      "https://news.ycombinator.com/item?id=40152486"
-    ],
-    [
-      "Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed",
-      "https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a"
     ]
   ],
   [
