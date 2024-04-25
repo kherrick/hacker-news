@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-04-25, 16:48:51",
-      "https://news.ycombinator.com/item?id=40159868"
+      "2024-04-25, 17:00:49",
+      "https://news.ycombinator.com/item?id=40160065"
     ],
     [
-      "Reddit down 502 Bad Gateway",
-      "https://old.reddit.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 16:47:10",
-      "https://news.ycombinator.com/item?id=40159845"
-    ],
-    [
-      "ByteDance prefers TikTok shutdown in US if legal options fail",
-      "https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/"
+      "QuestDB (YC S20) Is Hiring a Senior Front-End Engineer",
+      "https://questdb.io/careers/senior-frontend-engineer/"
     ]
   ],
   [
@@ -91,16 +81,6 @@
   ],
   [
     [
-      "2024-04-25, 12:50:14",
-      "https://news.ycombinator.com/item?id=40156867"
-    ],
-    [
-      "Serious flaws in SQL (1990)",
-      "https://dl.acm.org/doi/10.5555/77708.C1065772"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 12:16:58",
       "https://news.ycombinator.com/item?id=40156569"
     ],
@@ -131,16 +111,6 @@
   ],
   [
     [
-      "2024-04-25, 12:00:23",
-      "https://news.ycombinator.com/item?id=40156397"
-    ],
-    [
-      "Cogram (YC W22) Is Hiring a Customer Success Engineer",
-      "https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 11:53:04",
       "https://news.ycombinator.com/item?id=40156330"
     ],
@@ -161,12 +131,12 @@
   ],
   [
     [
-      "2024-04-25, 09:40:59",
-      "https://news.ycombinator.com/item?id=40155374"
+      "2024-04-25, 07:07:19",
+      "https://news.ycombinator.com/item?id=40154395"
     ],
     [
-      "40 Years of Sopwith",
-      "https://fragglet.github.io/sdl-sopwith/40years.html"
+      "Tor: From the Dark Web to the Future of Privacy",
+      "https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy"
     ]
   ],
   [
@@ -261,12 +231,32 @@
   ],
   [
     [
+      "2024-04-25, 00:58:37",
+      "https://news.ycombinator.com/item?id=40151952"
+    ],
+    [
+      "You are what you read, even if you don't always remember it",
+      "https://blog.jim-nielsen.com/2024/you-are-what-you-read/"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 21:40:28",
       "https://news.ycombinator.com/item?id=40150045"
     ],
     [
       "Autotuner: How to speed up your Rails app",
       "https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 18:25:27",
+      "https://news.ycombinator.com/item?id=40147883"
+    ],
+    [
+      "A feature-rich front-end drag-and-drop component library",
+      "https://github.com/atlassian/pragmatic-drag-and-drop"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Progress Quest: The original idle game",
       "http://progressquest.com/play/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 00:41:42",
+      "https://news.ycombinator.com/item?id=40139130"
+    ],
+    [
+      "Retro-tech HP-25 Calculator",
+      "https://github.com/eshazen/retro-25"
     ]
   ],
   [
