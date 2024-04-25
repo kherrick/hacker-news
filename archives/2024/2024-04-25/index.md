@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 16:48:51](https://news.ycombinator.com/item?id=40159868) - [Reddit down 502 Bad Gateway](https://old.reddit.com/)
+* [2024-04-25, 16:47:10](https://news.ycombinator.com/item?id=40159845) - [ByteDance prefers TikTok shutdown in US if legal options fail](https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/)
 * [2024-04-25, 15:48:20](https://news.ycombinator.com/item?id=40158952) - [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
 * [2024-04-25, 15:41:37](https://news.ycombinator.com/item?id=40158871) - [Does the CIA Still Do That?](https://www.nakedcapitalism.com/2024/04/does-the-cia-still-do-that.html)
 * [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
