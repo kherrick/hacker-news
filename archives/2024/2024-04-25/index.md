@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 12:16:58](https://news.ycombinator.com/item?id=40156569) - [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
+* [2024-04-25, 12:13:13](https://news.ycombinator.com/item?id=40156527) - [Why One Man Spent 12 Years Fighting Robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
 * [2024-04-25, 12:00:23](https://news.ycombinator.com/item?id=40156397) - [Cogram (YC W22) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
 * [2024-04-25, 11:53:04](https://news.ycombinator.com/item?id=40156330) - [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
 * [2024-04-25, 11:47:36](https://news.ycombinator.com/item?id=40156275) - [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
@@ -14,11 +16,13 @@
 * [2024-04-25, 10:32:00](https://news.ycombinator.com/item?id=40155701) - [EPA rules would force coal-fired power plants to capture emissions or shut down](https://abcnews.go.com/US/wireStory/tough-new-epa-rules-force-coal-fired-power-109613509)
 * [2024-04-25, 10:09:08](https://news.ycombinator.com/item?id=40155545) - [JavaScript Naked Day](https://starbreaker.org/blog/links/js-naked-day/index.html)
 * [2024-04-25, 09:58:07](https://news.ycombinator.com/item?id=40155489) - [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
+* [2024-04-25, 09:45:57](https://news.ycombinator.com/item?id=40155405) - [Laws of Tech: Commoditize Your Complement (2022)](https://gwern.net/complement)
 * [2024-04-25, 09:40:59](https://news.ycombinator.com/item?id=40155374) - [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
 * [2024-04-25, 09:35:24](https://news.ycombinator.com/item?id=40155336) - [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
 * [2024-04-25, 09:28:57](https://news.ycombinator.com/item?id=40155293) - [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
 * [2024-04-25, 09:20:25](https://news.ycombinator.com/item?id=40155240) - [Boeing retaliated against its own engineers working for FAA, union says](https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/)
 * [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
+* [2024-04-25, 06:22:26](https://news.ycombinator.com/item?id=40154104) - [Chime Design and Build](http://leehite.org/Chimes.htm)
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
 * [2024-04-25, 05:01:41](https://news.ycombinator.com/item?id=40153613) - [Node.js 22: Require() Support and WebSockets](https://coderoasis.com/nodejs-22-released/)
 * [2024-04-25, 04:25:56](https://news.ycombinator.com/item?id=40153409) - [Ghost Jobs – it's not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
