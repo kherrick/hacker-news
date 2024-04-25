@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-25, 12:50:14",
+      "https://news.ycombinator.com/item?id=40156867"
+    ],
+    [
+      "Serious flaws in SQL (1990)",
+      "https://dl.acm.org/doi/10.5555/77708.C1065772"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 12:16:58",
       "https://news.ycombinator.com/item?id=40156569"
     ],
@@ -187,16 +197,6 @@
     [
       "Quaternion Knowledge Graph Embeddings",
       "https://arxiv.org/abs/1904.10281"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 03:09:27",
-      "https://news.ycombinator.com/item?id=40152944"
-    ],
-    [
-      "Enron tried to trade memory chip futures; why didn't it work?",
-      "https://www.felixstocker.com/blog/chips"
     ]
   ],
   [
