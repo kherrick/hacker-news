@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
 * [2024-04-25, 15:48:20](https://news.ycombinator.com/item?id=40158952) - [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
+* [2024-04-25, 15:41:37](https://news.ycombinator.com/item?id=40158871) - [Does the CIA Still Do That?](https://www.nakedcapitalism.com/2024/04/does-the-cia-still-do-that.html)
 * [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
 * [2024-04-25, 15:33:20](https://news.ycombinator.com/item?id=40158772) - [AI Can Tell Your Political Affiliation Just by Looking at Your Face](https://gizmodo.com/ai-can-tell-your-political-affiliation-just-by-looking-1851430714)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158752) - [We Have 4 Days to Contest KYC Being Required by Internet Services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
@@ -12,6 +13,7 @@
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – The open-source unified API](https://news.ycombinator.com/item?id=40158481)
 * [2024-04-25, 15:02:50](https://news.ycombinator.com/item?id=40158424) - [City council audit trail is an audit fail after disastrous Oracle ERP rollout](https://www.theregister.com/2024/04/25/birmingham_oracle_audit_trail/)
 * [2024-04-25, 15:02:31](https://news.ycombinator.com/item?id=40158417) - [Today Microsoft Banned My Country Iran from Minecraft](https://old.reddit.com/r/GirlGamers/comments/1cckj2q/today_microsoft_banned_my_country_iran_from/)
+* [2024-04-25, 14:50:13](https://news.ycombinator.com/item?id=40158266) - [Show HN: I built a self-hosted status page and monitoring tool for my projects](https://github.com/goksan/Statusnook)
 * [2024-04-25, 14:43:27](https://news.ycombinator.com/item?id=40158183) - [Ex-athletic director arrested for framing principal with AI-generated voice](https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/)
 * [2024-04-25, 14:29:26](https://news.ycombinator.com/item?id=40158036) - [The Importance of Stem Education for Girls: Inspiring the Next Generation](https://blip.school/blog/the-importance-of-stem-education-for-girls-inspiring-the-next-generation-06290a300bff)
 * [2024-04-25, 14:18:20](https://news.ycombinator.com/item?id=40157908) - [Someone built an LLM-powered Slay the Spire bot](https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire)
@@ -19,6 +21,7 @@
 * [2024-04-25, 13:48:38](https://news.ycombinator.com/item?id=40157559) - [Searing heat shuts schools for 33M children](https://www.bbc.com/news/articles/c1wxjj3g965o)
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 13:42:16](https://news.ycombinator.com/item?id=40157470) - [Florida inmates charged for prison cells long after incarceration](https://www.abcactionnews.com/news/local-news/i-team-investigates/pay-to-stay-florida-inmates-charged-for-prison-cells-long-after-incarceration)
+* [2024-04-25, 13:26:48](https://news.ycombinator.com/item?id=40157279) - [Ask HN: How do I stop political SMS spam?](https://news.ycombinator.com/item?id=40157279)
 * [2024-04-25, 13:12:36](https://news.ycombinator.com/item?id=40157111) - [Ubuntu 24.04 Noble Numbat](https://releases.ubuntu.com/noble/)
 * [2024-04-25, 13:05:19](https://news.ycombinator.com/item?id=40157028) - [Updating California's grid for EVs may cost up to $20B](https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/)
 * [2024-04-25, 12:51:44](https://news.ycombinator.com/item?id=40156890) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
