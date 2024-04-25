@@ -22,7 +22,7 @@
 * [2024-04-24, 17:50:18](https://news.ycombinator.com/item?id=40147534) - [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
 * [2024-04-24, 16:48:21](https://news.ycombinator.com/item?id=40146751) - [TypeScript: Branded Types](https://prosopo.io/articles/typescript-branding/)
 * [2024-04-24, 16:39:48](https://news.ycombinator.com/item?id=40146615) - [Borrow Checking, RC, GC, and the Eleven () Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
-* [2024-04-24, 16:34:35](https://news.ycombinator.com/item?id=40146505) - [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
+* [2024-04-24, 11:15:11](https://news.ycombinator.com/item?id=40142956) - [Perception of when old age starts has increased over time, shows study](https://www.theguardian.com/science/2024/apr/22/when-old-age-starts-perception-study)
 * [2024-04-24, 07:52:58](https://news.ycombinator.com/item?id=40141777) - [Piet: Programming language in which programs look like abstract paintings (2002)](https://www.dangermouse.net/esoteric/piet.html)
 * [2024-04-24, 05:50:36](https://news.ycombinator.com/item?id=40141060) - [A Note about Coercions](https://oleg.fi/gists/posts/2024-04-21-a-note-about-coercions.html)
 * [2024-04-23, 19:27:17](https://news.ycombinator.com/item?id=40136130) - [Length and thickness of bamboo internodes: a beautiful curve](https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/)
