@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-04-25, 17:33:02",
+      "https://news.ycombinator.com/item?id=40160577"
+    ],
+    [
+      "Ask HN: What's Rabbit R1 business model?",
+      "https://news.ycombinator.com/item?id=40160577"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 17:23:00",
       "https://news.ycombinator.com/item?id=40160429"
     ],
@@ -31,12 +41,22 @@
   ],
   [
     [
-      "2024-04-25, 17:16:31",
-      "https://news.ycombinator.com/item?id=40160326"
+      "2024-04-25, 17:18:04",
+      "https://news.ycombinator.com/item?id=40160356"
     ],
     [
-      "New evidence found for Planet 9",
-      "https://phys.org/news/2024-04-evidence-planet.html"
+      "How ruthless is Amazon, really?",
+      "https://www.economist.com/culture/2024/04/25/how-ruthless-is-amazon-really"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 17:16:41",
+      "https://news.ycombinator.com/item?id=40160331"
+    ],
+    [
+      "Jeff Geerling: Corporate Open Source Is Dead",
+      "https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-04-25, 12:16:58",
-      "https://news.ycombinator.com/item?id=40156569"
-    ],
-    [
-      "Palm OS and the devices that ran it",
-      "https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 12:13:51",
       "https://news.ycombinator.com/item?id=40156534"
     ],
@@ -187,16 +197,6 @@
     [
       "TSMC unveils 1.6nm process technology with backside power delivery",
       "https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 07:07:19",
-      "https://news.ycombinator.com/item?id=40154395"
-    ],
-    [
-      "Tor: From the Dark Web to the Future of Privacy",
-      "https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-04-25, 02:34:10",
-      "https://news.ycombinator.com/item?id=40152682"
-    ],
-    [
-      "HTML Attributes vs. DOM Properties",
-      "https://jakearchibald.com/2024/attributes-vs-properties/"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 21:40:28",
       "https://news.ycombinator.com/item?id=40150045"
     ],
     [
       "Autotuner: How to speed up your Rails app",
       "https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 12:15:26",
+      "https://news.ycombinator.com/item?id=40143460"
+    ],
+    [
+      "Swan – A Lightweight Language Model Execution Environment Using FPGA",
+      "https://github.com/turingmotors/swan"
     ]
   ],
   [
