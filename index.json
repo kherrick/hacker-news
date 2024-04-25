@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-04-25, 14:43:27",
+      "https://news.ycombinator.com/item?id=40158183"
+    ],
+    [
+      "Ex-athletic director arrested for framing principal with AI-generated voice",
+      "https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 14:18:20",
       "https://news.ycombinator.com/item?id=40157908"
     ],
     [
       "Someone built an LLM-powered Slay the Spire bot",
       "https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 14:11:34",
-      "https://news.ycombinator.com/item?id=40157841"
-    ],
-    [
-      "Show HN: Snatched! – My game where you lure LLM-powered NPCs to your alien ship",
-      "https://playsnatched.com"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40156569"
     ],
     [
-      "Palm OS and the devices that ran it: An Ars retrospective",
+      "Palm OS and the devices that ran it",
       "https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-04-24, 07:12:53",
+      "https://news.ycombinator.com/item?id=40141545"
+    ],
+    [
+      "Test Sizes (2010)",
+      "https://testing.googleblog.com/2010/12/test-sizes.html"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 06:36:54",
       "https://news.ycombinator.com/item?id=40141350"
     ],
@@ -287,16 +297,6 @@
     [
       "Oracle Shared Pool Internals: Allocated Chunk Status Indicators in Heap Dumps",
       "https://tanelpoder.com/posts/oracle-shared-pool-chunk-status-indicators-in-heapdump/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 07:19:41",
-      "https://news.ycombinator.com/item?id=40129410"
-    ],
-    [
-      "Automated Stitching of Chip Images",
-      "https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/"
     ]
   ]
 ]
