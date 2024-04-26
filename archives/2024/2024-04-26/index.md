@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
 * [2024-04-26, 12:00:28](https://news.ycombinator.com/item?id=40168284) - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+* [2024-04-26, 11:55:14](https://news.ycombinator.com/item?id=40168242) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 11:26:29](https://news.ycombinator.com/item?id=40168052) - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
 * [2024-04-26, 11:23:57](https://news.ycombinator.com/item?id=40168030) - [The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
+* [2024-04-26, 11:06:09](https://news.ycombinator.com/item?id=40167905) - [Cult of the Dead Cow – Veilid](https://cultdeadcow.com/tools/veilid.html)
 * [2024-04-26, 11:01:57](https://news.ycombinator.com/item?id=40167884) - [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 10:39:23](https://news.ycombinator.com/item?id=40167730) - [\"90% of Java services have critical or security vulnerabilities\"](https://vived.substack.com/p/90-of-java-services-have-critical)
