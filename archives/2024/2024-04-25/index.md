@@ -10,6 +10,7 @@
 * [2024-04-25, 23:38:06](https://news.ycombinator.com/item?id=40164367) - [Remove the AI bloatware from Logitech's mouse driver](https://robservatory.com/remove-the-ai-bloatware-from-logitechs-mouse-driver/)
 * [2024-04-25, 23:32:07](https://news.ycombinator.com/item?id=40164337) - [Visualizing the locations of malicious login attempts](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
 * [2024-04-25, 23:11:14](https://news.ycombinator.com/item?id=40164199) - [Jeff Lawson Buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
+* [2024-04-25, 22:30:51](https://news.ycombinator.com/item?id=40163882) - [Apple releases eight small AI language models aimed at on-device use](https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/)
 * [2024-04-25, 22:08:52](https://news.ycombinator.com/item?id=40163684) - [A look at the early impact of Meta Llama 3](https://ai.meta.com/blog/meta-llama-3-update/)
 * [2024-04-25, 22:04:54](https://news.ycombinator.com/item?id=40163639) - [2025 Toyota Camry First Drive Review: The Best 'Boring' Car Keeps Getting Better](https://www.thedrive.com/car-reviews/2025-toyota-camry-first-drive-review)
 * [2024-04-25, 21:57:24](https://news.ycombinator.com/item?id=40163578) - [U.S. \"Know Your Customer\" Proposal Will Put an End to Anonymous Cloud Users](https://torrentfreak.com/u-s-know-your-customer-proposal-will-put-an-end-to-anonymous-cloud-users-240425/)
