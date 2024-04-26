@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
+* [2024-04-26, 17:13:14](https://news.ycombinator.com/item?id=40171893) - [Post Office tried to 'hush up' case of worker who killed himself, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/26/post-office-tried-to-hush-up-martin-griffiths-case-inquiry-hears)
 * [2024-04-26, 17:00:49](https://news.ycombinator.com/item?id=40171713) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-04-26, 16:49:59](https://news.ycombinator.com/item?id=40171565) - [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
 * [2024-04-26, 16:49:09](https://news.ycombinator.com/item?id=40171551) - [The Brutal Business Practices of Amazon–and How It Got Too Toxic to Touch](https://www.vanityfair.com/news/story/inside-amazon-business-practices)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
+* [2024-04-26, 17:13:14](https://news.ycombinator.com/item?id=40171893) - [Post Office tried to 'hush up' case of worker who killed himself, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/26/post-office-tried-to-hush-up-martin-griffiths-case-inquiry-hears)
 * [2024-04-26, 17:00:49](https://news.ycombinator.com/item?id=40171713) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-04-26, 16:49:09](https://news.ycombinator.com/item?id=40171551) - [The brutal business practices of Amazon](https://www.vanityfair.com/news/story/inside-amazon-business-practices)
 * [2024-04-26, 16:40:51](https://news.ycombinator.com/item?id=40171442) - [Big Tech and Silicon Valley are transforming the military-industrial complex](https://watson.brown.edu/costsofwar/papers/2024/SiliconValley)
@@ -12,10 +14,8 @@
 * [2024-04-26, 11:06:09](https://news.ycombinator.com/item?id=40167905) - [Cult of the Dead Cow – Veilid (2023)](https://cultdeadcow.com/tools/veilid.html)
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 08:44:43](https://news.ycombinator.com/item?id=40167163) - [I Rewired My Brain to Become Fluent in Math (2014)](https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/)
-* [2024-04-26, 07:17:24](https://news.ycombinator.com/item?id=40166690) - [OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
 * [2024-04-26, 07:13:27](https://news.ycombinator.com/item?id=40166670) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
-* [2024-04-25, 23:32:07](https://news.ycombinator.com/item?id=40164337) - [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 19:53:41](https://news.ycombinator.com/item?id=40162210) - [Show HN: I put PubMed in a vector DB](https://www.pubmedisearch.com/)
 * [2024-04-25, 19:15:11](https://news.ycombinator.com/item?id=40161794) - [No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
