@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-26, 04:50:23](https://news.ycombinator.com/item?id=40166039) - [What's new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/)
+* [2024-04-26, 04:15:22](https://news.ycombinator.com/item?id=40165904) - [Type Safety Doesn't Matter](https://www.fpcomplete.com/blog/type-safety-doesnt-matter/)
 * [2024-04-26, 00:50:52](https://news.ycombinator.com/item?id=40164793) - [MFJ is ceasing its on-site production](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
 * [2024-04-25, 23:42:20](https://news.ycombinator.com/item?id=40164393) - [In Response to Google](https://www.wheresyoured.at/in-response-to-google/)
 * [2024-04-25, 23:32:07](https://news.ycombinator.com/item?id=40164337) - [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
@@ -22,7 +23,6 @@
 * [2024-04-25, 12:51:44](https://news.ycombinator.com/item?id=40156890) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 * [2024-04-25, 12:13:51](https://news.ycombinator.com/item?id=40156534) - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
 * [2024-04-25, 07:07:19](https://news.ycombinator.com/item?id=40154395) - [Tor: From the Dark Web to the Future of Privacy](https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy)
-* [2024-04-25, 06:22:26](https://news.ycombinator.com/item?id=40154104) - [Chime Design and Build](http://leehite.org/Chimes.htm)
 * [2024-04-25, 05:12:22](https://news.ycombinator.com/item?id=40153691) - [How Penelope Fitzgerald became a late blooming novelist](https://www.commonreader.co.uk/p/how-penelope-fitzgerald-became-a)
 * [2024-04-24, 23:52:53](https://news.ycombinator.com/item?id=40151424) - [Don’t bleed on the artwork](https://oxfordamerican.org/magazine/issue-124-spring-2024/don-t-bleed-on-the-artwork-notes-from-the-afterlife)
 * [2024-04-24, 12:15:26](https://news.ycombinator.com/item?id=40143460) - [Swan – A Lightweight Language Model Execution Environment Using FPGA](https://github.com/turingmotors/swan)
