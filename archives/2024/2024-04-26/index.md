@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 21:18:37](https://news.ycombinator.com/item?id=40174424) - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
 * [2024-04-26, 21:01:02](https://news.ycombinator.com/item?id=40174232) - [Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-04-26, 20:36:15](https://news.ycombinator.com/item?id=40173965) - [Half of Russia's payments to China made through middlemen](https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/)
 * [2024-04-26, 19:53:19](https://news.ycombinator.com/item?id=40173451) - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
@@ -62,6 +63,7 @@
 * [2024-04-26, 11:55:14](https://news.ycombinator.com/item?id=40168242) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 11:26:29](https://news.ycombinator.com/item?id=40168052) - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
 * [2024-04-26, 11:23:57](https://news.ycombinator.com/item?id=40168030) - [The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
+* [2024-04-26, 11:11:26](https://news.ycombinator.com/item?id=40167933) - [Brutalist Churches](https://www.dezeen.com/2024/04/24/sacred-modernity-brutalist-churches-book-jamie-mcgregor-smith/)
 * [2024-04-26, 11:06:09](https://news.ycombinator.com/item?id=40167905) - [Cult of the Dead Cow – Veilid](https://cultdeadcow.com/tools/veilid.html)
 * [2024-04-26, 11:01:57](https://news.ycombinator.com/item?id=40167884) - [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
