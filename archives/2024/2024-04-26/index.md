@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
+* [2024-04-26, 12:44:06](https://news.ycombinator.com/item?id=40168740) - [GMB launches legal action against 'out of control' Amazon at Coventry warehouse](https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse)
+* [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 12:00:28](https://news.ycombinator.com/item?id=40168284) - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-04-26, 11:55:14](https://news.ycombinator.com/item?id=40168242) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 11:26:29](https://news.ycombinator.com/item?id=40168052) - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
@@ -15,6 +18,7 @@
 * [2024-04-26, 09:32:16](https://news.ycombinator.com/item?id=40167406) - [Show HN: Mendeleej.com - an Interactive Periodic Table](http://mendeleej.com/)
 * [2024-04-26, 09:13:13](https://news.ycombinator.com/item?id=40167315) - [H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/)
 * [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
+* [2024-04-26, 08:44:43](https://news.ycombinator.com/item?id=40167163) - [I Rewired My Brain to Become Fluent in Math (2014)](https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/)
 * [2024-04-26, 08:04:55](https://news.ycombinator.com/item?id=40166912) - [The dire state of NixOS's moderation culture](https://github.com/nrdxp/rfc-evidence/blob/master/rfc_evidences_experiences.md)
 * [2024-04-26, 07:28:14](https://news.ycombinator.com/item?id=40166736) - [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
 * [2024-04-26, 07:17:24](https://news.ycombinator.com/item?id=40166690) - [OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
