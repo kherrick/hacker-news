@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 13:46:45](https://news.ycombinator.com/item?id=40169341) - [Auto Insurance Rates Are Skyrocketing Because Cars Are Covertly Spying on People](https://www.techdirt.com/2024/04/26/people-are-slowly-realizing-their-auto-insurance-rates-are-skyrocketing-because-their-car-is-covertly-spying-on-them/)
+* [2024-04-26, 13:34:17](https://news.ycombinator.com/item?id=40169180) - [Crypto Mixer Samourai Wallet's Co-Founders Arrested for Money Laundering](https://www.wsj.com/articles/crypto-mixer-samourai-wallets-co-founders-arrested-for-money-laundering-df237a4e)
 * [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
 * [2024-04-26, 12:45:02](https://news.ycombinator.com/item?id=40168755) - [Three women contract HIV from dirty \"vampire facials\" at unlicensed spa](https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/)
 * [2024-04-26, 12:44:06](https://news.ycombinator.com/item?id=40168740) - [GMB launches legal action against 'out of control' Amazon at Coventry warehouse](https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse)
@@ -28,8 +30,6 @@
 * [2024-04-25, 06:36:13](https://news.ycombinator.com/item?id=40154189) - [DayLight Computer](https://in-silo.com/daylight_computer)
 * [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-24, 12:56:40](https://news.ycombinator.com/item?id=40143800) - [Removing Reflections from Raw Photos](https://arxiv.org/abs/2404.14414)
-* [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
-* [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 
 ## [Archives](archives/index.md)
 
