@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 18:09:53](https://news.ycombinator.com/item?id=40172401) - [Thoughts on my first electric scooter purchase](https://maxmautner.com/2024/04/26/electric-scooters.html)
 * [2024-04-26, 17:34:41](https://news.ycombinator.com/item?id=40172045) - [On Community in Nix](https://determinate.systems/posts/on-community-in-nix/)
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
+* [2024-04-26, 17:31:03](https://news.ycombinator.com/item?id=40172000) - [School principal framed using AI-generated racist rant. Co-worker charged](https://www.cbsnews.com/baltimore/news/maryland-framed-principal-racist-ai-generated-voice/)
 * [2024-04-26, 17:15:35](https://news.ycombinator.com/item?id=40171909) - [Data Breach at Kaiser Permanente Affects 13.4M People](https://restoreprivacy.com/data-breach-at-kaiser-permanente-affects-13-4-million-people/)
 * [2024-04-26, 17:15:14](https://news.ycombinator.com/item?id=40171907) - [European Commission: \"Our commitment to the Fediverse is here to stay\"](https://social.network.europa.eu/@EU_Commission/112338626558805977)
 * [2024-04-26, 17:13:14](https://news.ycombinator.com/item?id=40171893) - [Post Office tried to 'hush up' case of worker who killed himself, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/26/post-office-tried-to-hush-up-martin-griffiths-case-inquiry-hears)
@@ -16,6 +18,7 @@
 * [2024-04-26, 16:40:51](https://news.ycombinator.com/item?id=40171442) - [How Big Tech and Silicon Valley Are Transforming the Military-Industrial Complex](https://watson.brown.edu/costsofwar/papers/2024/SiliconValley)
 * [2024-04-26, 16:40:37](https://news.ycombinator.com/item?id=40171437) - [Mass Graves in Khan Yunis Reveal Unspeakable Horror of US-Backed Gaza Invasion](https://truthout.org/articles/mass-graves-in-khan-yunis-reveal-unspeakable-horror-of-us-backed-gaza-invasion/)
 * [2024-04-26, 16:36:21](https://news.ycombinator.com/item?id=40171383) - [Gems of Tailwind CSS](https://railsdesigner.com/hidden-gems-tailwind/)
+* [2024-04-26, 16:22:34](https://news.ycombinator.com/item?id=40171212) - [Turing RK1 is 2x faster, 1.8x pricier than Pi 5](https://www.jeffgeerling.com/blog/2024/turing-rk1-2x-faster-18x-pricier-pi-5)
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 16:15:04](https://news.ycombinator.com/item?id=40171125) - [Google lays off its Python team](https://social.coop/@Yhg1s/112332127058328855)
 * [2024-04-26, 15:49:54](https://news.ycombinator.com/item?id=40170955) - [Solar power is changing life deep in the Amazon](https://www.washingtonpost.com/climate-solutions/interactive/2024/amazon-solar-panels-ecuador/)
