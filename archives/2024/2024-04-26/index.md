@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 14:54:13](https://news.ycombinator.com/item?id=40170135) - [Tesla's Autopilot, Full Self-Driving linked to 100s of crashes, deaths](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
 * [2024-04-26, 14:13:23](https://news.ycombinator.com/item?id=40169692) - [Apple's Regular Mac Base RAM Boosts Ended When Tim Cook Took Over](https://www.macrumors.com/2024/04/26/apple-mac-base-ram-boosts-ended-tim-cook/)
 * [2024-04-26, 14:08:28](https://news.ycombinator.com/item?id=40169621) - [Google is feeling pretty pumped about a new way of showing you ads on YouTube](https://www.androidauthority.com/youtube-pause-ads-3437531/)
 * [2024-04-26, 13:46:45](https://news.ycombinator.com/item?id=40169341) - [Auto Insurance Rates Are Skyrocketing Because Cars Are Covertly Spying on People](https://www.techdirt.com/2024/04/26/people-are-slowly-realizing-their-auto-insurance-rates-are-skyrocketing-because-their-car-is-covertly-spying-on-them/)
