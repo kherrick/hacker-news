@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-25, 23:55:46",
-      "https://news.ycombinator.com/item?id=40164462"
-    ],
-    [
-      "In order to better compete at GenAI, Google has fired the Python language team",
-      "https://twitter.com/revhowardarson/status/1783581152403767389"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 23:32:07",
       "https://news.ycombinator.com/item?id=40164337"
     ],
@@ -77,6 +67,16 @@
     [
       "Judge acquits Backpage co-founder Michael Lacey on most counts",
       "https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 20:07:21",
+      "https://news.ycombinator.com/item?id=40162354"
+    ],
+    [
+      "Google Earning Q1 2024 [pdf]",
+      "https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf"
     ]
   ],
   [
@@ -191,22 +191,12 @@
   ],
   [
     [
-      "2024-04-25, 11:53:04",
-      "https://news.ycombinator.com/item?id=40156330"
+      "2024-04-25, 07:07:19",
+      "https://news.ycombinator.com/item?id=40154395"
     ],
     [
-      "A useful front-end confetti animation library",
-      "https://github.com/catdad/canvas-confetti"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 11:47:36",
-      "https://news.ycombinator.com/item?id=40156275"
-    ],
-    [
-      "TSMC unveils 1.6nm process technology with backside power delivery",
-      "https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design"
+      "Tor: From the Dark Web to the Future of Privacy",
+      "https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy"
     ]
   ],
   [
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2024-04-24, 21:40:28",
-      "https://news.ycombinator.com/item?id=40150045"
-    ],
-    [
-      "Autotuner: How to speed up your Rails app",
-      "https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 12:15:26",
       "https://news.ycombinator.com/item?id=40143460"
     ],
@@ -267,6 +247,16 @@
     [
       "Notes on Structured Programming (1970) [pdf]",
       "https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 10:29:01",
+      "https://news.ycombinator.com/item?id=40142659"
+    ],
+    [
+      "Notions Classic: Spring 1990",
+      "http://www.absurdnotions.org/S1990.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Same species, different sizes: Rare evolution in action spotted in island bats",
       "https://phys.org/news/2024-04-species-sizes-rare-evolution-action.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 00:41:42",
+      "https://news.ycombinator.com/item?id=40139130"
+    ],
+    [
+      "Retro-tech HP-25 Calculator",
+      "https://github.com/eshazen/retro-25"
     ]
   ]
 ]
