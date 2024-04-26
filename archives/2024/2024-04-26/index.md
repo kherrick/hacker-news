@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 16:49:59](https://news.ycombinator.com/item?id=40171565) - [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
+* [2024-04-26, 16:48:42](https://news.ycombinator.com/item?id=40171540) - [Tesla's 2M car Autopilot recall is now under federal scrutiny](https://arstechnica.com/cars/2024/04/feds-concerned-some-of-teslas-autopilot-recall-was-opt-in-reversible/)
+* [2024-04-26, 16:40:51](https://news.ycombinator.com/item?id=40171442) - [How Big Tech and Silicon Valley Are Transforming the Military-Industrial Complex](https://watson.brown.edu/costsofwar/papers/2024/SiliconValley)
+* [2024-04-26, 16:40:37](https://news.ycombinator.com/item?id=40171437) - [Mass Graves in Khan Yunis Reveal Unspeakable Horror of US-Backed Gaza Invasion](https://truthout.org/articles/mass-graves-in-khan-yunis-reveal-unspeakable-horror-of-us-backed-gaza-invasion/)
+* [2024-04-26, 16:36:21](https://news.ycombinator.com/item?id=40171383) - [Gems of Tailwind CSS](https://railsdesigner.com/hidden-gems-tailwind/)
 * [2024-04-26, 16:15:04](https://news.ycombinator.com/item?id=40171125) - [Google lays off its Python team](https://social.coop/@Yhg1s/112332127058328855)
 * [2024-04-26, 15:45:21](https://news.ycombinator.com/item?id=40170883) - [Wisdom from Marcus Aurelius](https://www.gurwinder.blog/p/wisdom-from-marcus-aurelius)
 * [2024-04-26, 15:44:15](https://news.ycombinator.com/item?id=40170863) - [SCOTUS Ignores Housing Crisis in Hearing on Laws Criminalizing Unhoused People](https://truthout.org/articles/scotus-ignores-housing-crisis-in-hearing-on-laws-criminalizing-unhoused-people/)
