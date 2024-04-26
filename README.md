@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
+* [2024-04-26, 12:45:02](https://news.ycombinator.com/item?id=40168755) - [Three women contract HIV from dirty \"vampire facials\" at unlicensed spa](https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/)
 * [2024-04-26, 12:44:06](https://news.ycombinator.com/item?id=40168740) - [GMB launches legal action against 'out of control' Amazon at Coventry warehouse](https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 12:00:28](https://news.ycombinator.com/item?id=40168284) - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
@@ -21,7 +22,6 @@
 * [2024-04-25, 23:11:14](https://news.ycombinator.com/item?id=40164199) - [Jeff Lawson buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 19:15:11](https://news.ycombinator.com/item?id=40161794) - [No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
-* [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
 * [2024-04-25, 08:43:55](https://news.ycombinator.com/item?id=40155022) - [Hotel WiFi JavaScript Injection (2012)](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)

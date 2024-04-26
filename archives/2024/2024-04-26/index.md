@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
 * [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
+* [2024-04-26, 12:45:02](https://news.ycombinator.com/item?id=40168755) - [Three women contract HIV from dirty \"vampire facials\" at unlicensed spa](https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/)
 * [2024-04-26, 12:44:06](https://news.ycombinator.com/item?id=40168740) - [GMB launches legal action against 'out of control' Amazon at Coventry warehouse](https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 12:00:28](https://news.ycombinator.com/item?id=40168284) - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
