@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 16:15:04](https://news.ycombinator.com/item?id=40171125) - [Google lays off its Python team](https://social.coop/@Yhg1s/112332127058328855)
 * [2024-04-26, 15:44:15](https://news.ycombinator.com/item?id=40170863) - [SCOTUS Ignores Housing Crisis in Hearing on Laws Criminalizing Unhoused People](https://truthout.org/articles/scotus-ignores-housing-crisis-in-hearing-on-laws-criminalizing-unhoused-people/)
 * [2024-04-26, 14:54:13](https://news.ycombinator.com/item?id=40170135) - [Tesla's Autopilot, Full Self-Driving linked to 100s of crashes, deaths](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
 * [2024-04-26, 14:13:23](https://news.ycombinator.com/item?id=40169692) - [Apple's Regular Mac Base RAM Boosts Ended When Tim Cook Took Over](https://www.macrumors.com/2024/04/26/apple-mac-base-ram-boosts-ended-tim-cook/)
@@ -13,6 +14,7 @@
 * [2024-04-26, 13:41:31](https://news.ycombinator.com/item?id=40169281) - [The Global War on End-to-End Encryption](https://community.qbix.com/t/the-global-war-on-end-to-end-encryption/214)
 * [2024-04-26, 13:34:17](https://news.ycombinator.com/item?id=40169180) - [Crypto Mixer Samourai Wallet's Co-Founders Arrested for Money Laundering](https://www.wsj.com/articles/crypto-mixer-samourai-wallets-co-founders-arrested-for-money-laundering-df237a4e)
 * [2024-04-26, 13:33:55](https://news.ycombinator.com/item?id=40169178) - [Balaji Srinivasan calls for tech to \"exit democracy\" and seize local governments](https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat)
+* [2024-04-26, 13:27:57](https://news.ycombinator.com/item?id=40169121) - [Two-bedroom house printed in 18 hours](https://cobod.com/portugals-first-3d-printed-house-demonstrates-speed-and-cost-efficiency-of-3d-construction-printing/)
 * [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
 * [2024-04-26, 12:45:02](https://news.ycombinator.com/item?id=40168755) - [Three women contract HIV from dirty \"vampire facials\" at unlicensed spa](https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/)
 * [2024-04-26, 12:44:06](https://news.ycombinator.com/item?id=40168740) - [GMB launches legal action against 'out of control' Amazon at Coventry warehouse](https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse)
