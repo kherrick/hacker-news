@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
 * [2024-04-25, 23:55:46](https://news.ycombinator.com/item?id=40164462) - [In order to better compete at GenAI, Google has fired the Python language team](https://twitter.com/revhowardarson/status/1783581152403767389)
+* [2024-04-25, 23:42:20](https://news.ycombinator.com/item?id=40164393) - [In Response to Google](https://www.wheresyoured.at/in-response-to-google/)
 * [2024-04-25, 23:42:07](https://news.ycombinator.com/item?id=40164391) - [Nintendo forces Garry's Mod to delete 20 years of content](https://www.tomshardware.com/video-games/pc-gaming/nintendo-forces-garrys-mod-to-delete-20-years-of-content-garry-confirms-nintendo-is-behind-steam-workshop-purge)
 * [2024-04-25, 23:38:06](https://news.ycombinator.com/item?id=40164367) - [Remove the AI bloatware from Logitech's mouse driver](https://robservatory.com/remove-the-ai-bloatware-from-logitechs-mouse-driver/)
 * [2024-04-25, 23:32:07](https://news.ycombinator.com/item?id=40164337) - [Visualizing the locations of malicious login attempts](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
