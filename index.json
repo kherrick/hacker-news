@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-26, 12:00:28",
+      "https://news.ycombinator.com/item?id=40168284"
+    ],
+    [
+      "Aviator (YC S21) is hiring engineers to build a dev productivity platform",
+      "https://www.ycombinator.com/companies/aviator/jobs"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 11:26:29",
       "https://news.ycombinator.com/item?id=40168052"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-04-26, 07:09:40",
-      "https://news.ycombinator.com/item?id=40166653"
-    ],
-    [
-      "Minister defends arrest power for people feared to commit a hate crime in future",
-      "https://www.theglobeandmail.com/politics/article-justice-minister-defends-house-arrest-power-for-people-feared-to/"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 06:29:22",
       "https://news.ycombinator.com/item?id=40166468"
     ],
@@ -151,32 +151,22 @@
   ],
   [
     [
+      "2024-04-25, 22:30:51",
+      "https://news.ycombinator.com/item?id=40163882"
+    ],
+    [
+      "Apple releases eight small AI language models aimed at on-device use",
+      "https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 21:42:06",
       "https://news.ycombinator.com/item?id=40163405"
     ],
     [
       "Open Sourcing DOS 4",
       "https://www.hanselman.com/blog/open-sourcing-dos-4"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 21:13:52",
-      "https://news.ycombinator.com/item?id=40163104"
-    ],
-    [
-      "A Logic Language for Distributed SQL Queries",
-      "https://www.osohq.com/post/logic-language-distributed-sql-queries"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 21:00:50",
-      "https://news.ycombinator.com/item?id=40162961"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)",
-      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -221,12 +211,22 @@
   ],
   [
     [
-      "2024-04-25, 09:42:32",
-      "https://news.ycombinator.com/item?id=40155381"
+      "2024-04-25, 12:13:51",
+      "https://news.ycombinator.com/item?id=40156534"
     ],
     [
-      "The many (many) ways I've backdoored your dependencies and other supply chain at",
-      "https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks"
+      "Tribler: An attack-resilient micro-economy for media",
+      "https://github.com/Tribler/tribler/wiki"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 08:43:55",
+      "https://news.ycombinator.com/item?id=40155022"
+    ],
+    [
+      "Hotel WiFi JavaScript Injection (2012)",
+      "https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/"
     ]
   ],
   [
