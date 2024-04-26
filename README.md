@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-26, 22:42:43](https://news.ycombinator.com/item?id=40175122) - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
+* [2024-04-26, 22:32:16](https://news.ycombinator.com/item?id=40175039) - [British Columbia to recriminalize use of drugs in public spaces](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245)
 * [2024-04-26, 21:54:36](https://news.ycombinator.com/item?id=40174747) - [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
 * [2024-04-26, 21:18:37](https://news.ycombinator.com/item?id=40174424) - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
 * [2024-04-26, 21:09:14](https://news.ycombinator.com/item?id=40174316) - [Factorio – Statistics improvements, Linux adventures](https://factorio.com/blog/post/fff-408)
@@ -12,7 +13,6 @@
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
 * [2024-04-26, 17:15:35](https://news.ycombinator.com/item?id=40171909) - [Data breach at Kaiser Permanente affects 13.4M people](https://restoreprivacy.com/data-breach-at-kaiser-permanente-affects-13-4-million-people/)
 * [2024-04-26, 16:23:04](https://news.ycombinator.com/item?id=40171216) - [Univer: Open-Source Alternative for Google Sheets, Slides, Docs](https://github.com/dream-num/univer/)
-* [2024-04-26, 16:22:34](https://news.ycombinator.com/item?id=40171212) - [Turing RK1 is 2x faster, 1.8x pricier than Pi 5](https://www.jeffgeerling.com/blog/2024/turing-rk1-2x-faster-18x-pricier-pi-5)
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 15:49:54](https://news.ycombinator.com/item?id=40170955) - [Solar power is changing life deep in the Amazon](https://www.washingtonpost.com/climate-solutions/interactive/2024/amazon-solar-panels-ecuador/)
 * [2024-04-26, 15:09:48](https://news.ycombinator.com/item?id=40170373) - [The Rise of the Bee Bandits](https://www.noemamag.com/the-rise-of-the-bee-bandits/)

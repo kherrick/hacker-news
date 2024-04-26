@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
 * [2024-04-26, 22:42:43](https://news.ycombinator.com/item?id=40175122) - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
+* [2024-04-26, 22:32:16](https://news.ycombinator.com/item?id=40175039) - [British Columbia to recriminalize use of drugs in public spaces](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245)
 * [2024-04-26, 22:28:36](https://news.ycombinator.com/item?id=40175006) - [My undying love for the painfully uncool Amiga](https://www.theguardian.com/games/2024/apr/26/my-undying-love-for-the-painfully-uncool-amiga)
 * [2024-04-26, 21:54:36](https://news.ycombinator.com/item?id=40174747) - [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
 * [2024-04-26, 21:53:56](https://news.ycombinator.com/item?id=40174739) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.msn.com/en-us/money/markets/ar-AA1nFgrS)
