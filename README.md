@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 07:13:27](https://news.ycombinator.com/item?id=40166670) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-04-26, 05:46:20](https://news.ycombinator.com/item?id=40166268) - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-26, 00:50:52](https://news.ycombinator.com/item?id=40164793) - [MFJ is ceasing its on-site production](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
@@ -11,7 +12,6 @@
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-04-25, 20:14:10](https://news.ycombinator.com/item?id=40162433) - [Judge acquits Backpage co-founder Michael Lacey on most counts](https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/)
 * [2024-04-25, 19:15:11](https://news.ycombinator.com/item?id=40161794) - [No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
-* [2024-04-25, 19:08:22](https://news.ycombinator.com/item?id=40161712) - [Rhyme as Reason](https://bigthink.com/neuropsych/rhyme-as-reason/)
 * [2024-04-25, 19:06:58](https://news.ycombinator.com/item?id=40161697) - [Start Your Own ISP](https://startyourownisp.com/)
 * [2024-04-25, 17:24:36](https://news.ycombinator.com/item?id=40160467) - [Parallel Snapshotting: make pg_dump and pg_restore multi-threaded per table](https://blog.peerdb.io/how-can-we-make-pgdump-and-pgrestore-5-times-faster)
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
