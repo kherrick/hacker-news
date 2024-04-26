@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 14:08:28](https://news.ycombinator.com/item?id=40169621) - [Google is feeling pretty pumped about a new way of showing you ads on YouTube](https://www.androidauthority.com/youtube-pause-ads-3437531/)
 * [2024-04-26, 13:34:17](https://news.ycombinator.com/item?id=40169180) - [Crypto Mixer Samourai Wallet's Co-Founders Arrested for Money Laundering](https://www.wsj.com/articles/crypto-mixer-samourai-wallets-co-founders-arrested-for-money-laundering-df237a4e)
 * [2024-04-26, 13:33:55](https://news.ycombinator.com/item?id=40169178) - [Balaji Srinivasan calls for tech to \"exit democracy\" and seize local governments](https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat)
 * [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
@@ -29,7 +30,6 @@
 * [2024-04-25, 06:36:13](https://news.ycombinator.com/item?id=40154189) - [DayLight Computer](https://in-silo.com/daylight_computer)
 * [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-24, 12:56:40](https://news.ycombinator.com/item?id=40143800) - [Removing Reflections from Raw Photos](https://arxiv.org/abs/2404.14414)
-* [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 
 ## [Archives](archives/index.md)
 
