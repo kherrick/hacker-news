@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 23:31:37](https://news.ycombinator.com/item?id=40175480) - [Nvidia CEO hand-delivers fastest AI system to OpenAI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-hand-delivers-worlds-fastest-ai-system-to-openai-again-first-dgx-h200-given-to-sam-altman-and-greg-brockman)
+* [2024-04-26, 23:26:18](https://news.ycombinator.com/item?id=40175446) - [Tesla Autopilot feature was involved in 13 fatal crashes, US regulator says](https://www.theguardian.com/technology/2024/apr/26/tesla-autopilot-fatal-crash)
 * [2024-04-26, 23:19:12](https://news.ycombinator.com/item?id=40175395) - [Discord Shuts Down 'Spy Pet' Bots That Scraped, Sold User Messages](https://www.404media.co/discord-shuts-down-spy-pet-bots-that-scraped-sold-user-messages/)
+* [2024-04-26, 22:46:45](https://news.ycombinator.com/item?id=40175158) - [Apple's OpenAI Talks Intensify as It Seeks to Add AI Features](https://www.bloomberg.com/news/articles/2024-04-26/apple-intensifies-talks-with-openai-for-iphone-generative-ai-features)
 * [2024-04-26, 22:42:43](https://news.ycombinator.com/item?id=40175122) - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
 * [2024-04-26, 22:32:16](https://news.ycombinator.com/item?id=40175039) - [British Columbia to recriminalize use of drugs in public spaces](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245)
 * [2024-04-26, 22:28:36](https://news.ycombinator.com/item?id=40175006) - [My undying love for the painfully uncool Amiga](https://www.theguardian.com/games/2024/apr/26/my-undying-love-for-the-painfully-uncool-amiga)
+* [2024-04-26, 22:16:42](https://news.ycombinator.com/item?id=40174921) - [Cleaning Up Speech Recognition with GPT](https://blog.nawaz.org/posts/2023/Dec/cleaning-up-speech-recognition-with-gpt/)
 * [2024-04-26, 21:54:36](https://news.ycombinator.com/item?id=40174747) - [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
 * [2024-04-26, 21:53:56](https://news.ycombinator.com/item?id=40174739) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.msn.com/en-us/money/markets/ar-AA1nFgrS)
 * [2024-04-26, 21:20:43](https://news.ycombinator.com/item?id=40174441) - [Tiny in size, a Cupertino home is selling for big bucks: $1.7M](https://www.latimes.com/california/story/2024-04-19/tiny-cupertino-home-is-selling-for-over-1-7-million)
