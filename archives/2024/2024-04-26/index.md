@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 10:39:23](https://news.ycombinator.com/item?id=40167730) - [\"90% of Java services have critical or security vulnerabilities\"](https://vived.substack.com/p/90-of-java-services-have-critical)
 * [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
 * [2024-04-26, 08:04:55](https://news.ycombinator.com/item?id=40166912) - [The dire state of NixOS's moderation culture](https://github.com/nrdxp/rfc-evidence/blob/master/rfc_evidences_experiences.md)
 * [2024-04-26, 07:28:14](https://news.ycombinator.com/item?id=40166736) - [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)

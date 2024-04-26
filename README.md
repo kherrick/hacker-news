@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 10:39:23](https://news.ycombinator.com/item?id=40167730) - [\"90% of Java services have critical or security vulnerabilities\"](https://vived.substack.com/p/90-of-java-services-have-critical)
 * [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
 * [2024-04-26, 07:28:14](https://news.ycombinator.com/item?id=40166736) - [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
 * [2024-04-26, 07:17:24](https://news.ycombinator.com/item?id=40166690) - [OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
@@ -7,7 +8,7 @@
 * [2024-04-26, 07:09:40](https://news.ycombinator.com/item?id=40166653) - [Minister defends arrest power for people feared to commit a hate crime in future](https://www.theglobeandmail.com/politics/article-justice-minister-defends-house-arrest-power-for-people-feared-to/)
 * [2024-04-26, 05:46:20](https://news.ycombinator.com/item?id=40166268) - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
-* [2024-04-25, 23:27:43](https://news.ycombinator.com/item?id=40164308) - [Discovering an antimalarial drug in Mao's China](https://www.asimov.press/p/antimalarial-drug)
+* [2024-04-25, 23:32:07](https://news.ycombinator.com/item?id=40164337) - [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
 * [2024-04-25, 23:11:14](https://news.ycombinator.com/item?id=40164199) - [Jeff Lawson buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 * [2024-04-25, 22:30:51](https://news.ycombinator.com/item?id=40163882) - [Apple releases eight small AI language models aimed at on-device use](https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
@@ -29,7 +30,6 @@
 * [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
-* [2024-04-24, 07:38:39](https://news.ycombinator.com/item?id=40141713) - [Same species, different sizes: Rare evolution in action spotted in island bats](https://phys.org/news/2024-04-species-sizes-rare-evolution-action.html)
 
 ## [Archives](archives/index.md)
 
