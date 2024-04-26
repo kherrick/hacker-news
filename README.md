@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-26, 20:36:15](https://news.ycombinator.com/item?id=40173965) - [Half of Russia's payments to China made through middlemen](https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/)
 * [2024-04-26, 19:53:19](https://news.ycombinator.com/item?id=40173451) - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
 * [2024-04-26, 18:44:51](https://news.ycombinator.com/item?id=40172784) - [Forget billions of years: Researchers have grown diamonds in just 150 minutes](https://charmingscience.com/forget-billions-of-years-researchers-have-grown-diamonds-in-just-150-minutes/)
 * [2024-04-26, 18:01:22](https://news.ycombinator.com/item?id=40172319) - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
@@ -14,6 +13,7 @@
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 15:49:54](https://news.ycombinator.com/item?id=40170955) - [Solar power is changing life deep in the Amazon](https://www.washingtonpost.com/climate-solutions/interactive/2024/amazon-solar-panels-ecuador/)
 * [2024-04-26, 15:09:48](https://news.ycombinator.com/item?id=40170373) - [The Rise of the Bee Bandits](https://www.noemamag.com/the-rise-of-the-bee-bandits/)
+* [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 12:10:59](https://news.ycombinator.com/item?id=40168406) - [Optimizing your programs for Arm platforms](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/optimizing-your-programs-for-arm-platforms)
 * [2024-04-26, 11:55:14](https://news.ycombinator.com/item?id=40168242) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
