@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 17:34:41](https://news.ycombinator.com/item?id=40172045) - [On Community in Nix](https://determinate.systems/posts/on-community-in-nix/)
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
+* [2024-04-26, 17:15:35](https://news.ycombinator.com/item?id=40171909) - [Data Breach at Kaiser Permanente Affects 13.4M People](https://restoreprivacy.com/data-breach-at-kaiser-permanente-affects-13-4-million-people/)
+* [2024-04-26, 17:15:14](https://news.ycombinator.com/item?id=40171907) - [European Commission: \"Our commitment to the Fediverse is here to stay\"](https://social.network.europa.eu/@EU_Commission/112338626558805977)
 * [2024-04-26, 17:13:14](https://news.ycombinator.com/item?id=40171893) - [Post Office tried to 'hush up' case of worker who killed himself, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/26/post-office-tried-to-hush-up-martin-griffiths-case-inquiry-hears)
 * [2024-04-26, 17:00:49](https://news.ycombinator.com/item?id=40171713) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-04-26, 16:49:59](https://news.ycombinator.com/item?id=40171565) - [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
