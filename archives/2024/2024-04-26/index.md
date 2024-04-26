@@ -4,4 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 01:25:49](https://news.ycombinator.com/item?id=40164975) - [Banned in the U.S.: Healthy Light Bulbs](https://www.psychologytoday.com/us/blog/the-light-doctor/202404/banned-in-the-us-healthy-light-bulbs)
+* [2024-04-26, 00:50:52](https://news.ycombinator.com/item?id=40164793) - [A Heavy Sad Heart](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
 * [2024-04-26, 00:42:04](https://news.ycombinator.com/item?id=40164743) - [Survey reveals translators and illustrators losing work to AI](https://www2.societyofauthors.org/2024/04/11/soa-survey-reveals-a-third-of-translators-and-quarter-of-illustrators-losing-work-to-ai/)
+* [2024-04-26, 00:03:56](https://news.ycombinator.com/item?id=40164512) - [The Surprising Number of Steam Games That Use GenAI](https://www.totallyhuman.io/blog/the-surprising-number-of-steam-games-that-use-genai)
