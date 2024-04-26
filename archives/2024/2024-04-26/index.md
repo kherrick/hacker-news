@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 18:15:07](https://news.ycombinator.com/item?id=40172448) - [About the Chinese police officers who may soon be patrolling in Hungary](https://telex.hu/english/2024/04/25/what-do-we-know-about-the-chinese-police-officers-who-may-soon-be-patrolling-in-hungary)
 * [2024-04-26, 18:09:53](https://news.ycombinator.com/item?id=40172401) - [Thoughts on my first electric scooter purchase](https://maxmautner.com/2024/04/26/electric-scooters.html)
+* [2024-04-26, 17:56:53](https://news.ycombinator.com/item?id=40172283) - [Why is it ok when YC president leads public with saying ETH price going to 10k?](https://news.ycombinator.com/item?id=40172283)
+* [2024-04-26, 17:45:04](https://news.ycombinator.com/item?id=40172161) - [Camus, Albert and the Anarchists](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
 * [2024-04-26, 17:34:41](https://news.ycombinator.com/item?id=40172045) - [On Community in Nix](https://determinate.systems/posts/on-community-in-nix/)
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 * [2024-04-26, 17:31:03](https://news.ycombinator.com/item?id=40172000) - [School principal framed using AI-generated racist rant. Co-worker charged](https://www.cbsnews.com/baltimore/news/maryland-framed-principal-racist-ai-generated-voice/)
+* [2024-04-26, 17:30:18](https://news.ycombinator.com/item?id=40171991) - [Police say offensive voice recording of school principal was a deep fake](https://www.cnn.com/2024/04/26/us/pikesville-principal-maryland-deepfake-cec/index.html)
 * [2024-04-26, 17:15:35](https://news.ycombinator.com/item?id=40171909) - [Data Breach at Kaiser Permanente Affects 13.4M People](https://restoreprivacy.com/data-breach-at-kaiser-permanente-affects-13-4-million-people/)
 * [2024-04-26, 17:15:14](https://news.ycombinator.com/item?id=40171907) - [European Commission: \"Our commitment to the Fediverse is here to stay\"](https://social.network.europa.eu/@EU_Commission/112338626558805977)
 * [2024-04-26, 17:13:14](https://news.ycombinator.com/item?id=40171893) - [Post Office tried to 'hush up' case of worker who killed himself, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/26/post-office-tried-to-hush-up-martin-griffiths-case-inquiry-hears)
+* [2024-04-26, 17:07:51](https://news.ycombinator.com/item?id=40171819) - [Regulators Tie Tesla Autopilot to More Than a Dozen Fatalities, 100s of Crashes](https://www.wsj.com/business/autos/regulators-probing-tesla-recall-tied-to-autopilot-a1af6d67)
 * [2024-04-26, 17:00:49](https://news.ycombinator.com/item?id=40171713) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-04-26, 16:49:59](https://news.ycombinator.com/item?id=40171565) - [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
 * [2024-04-26, 16:49:09](https://news.ycombinator.com/item?id=40171551) - [The Brutal Business Practices of Amazon–and How It Got Too Toxic to Touch](https://www.vanityfair.com/news/story/inside-amazon-business-practices)
