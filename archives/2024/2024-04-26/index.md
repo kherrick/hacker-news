@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 20:36:15](https://news.ycombinator.com/item?id=40173965) - [Half of Russia's payments to China made through middlemen](https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/)
 * [2024-04-26, 19:53:19](https://news.ycombinator.com/item?id=40173451) - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
 * [2024-04-26, 18:47:13](https://news.ycombinator.com/item?id=40172822) - [Leidenfrost Effect](https://en.wikipedia.org/wiki/Leidenfrost_effect)
 * [2024-04-26, 18:44:51](https://news.ycombinator.com/item?id=40172784) - [Forget billions of years: Researchers have grown diamonds in just 150 minutes](https://charmingscience.com/forget-billions-of-years-researchers-have-grown-diamonds-in-just-150-minutes/)
