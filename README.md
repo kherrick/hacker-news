@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 19:53:19](https://news.ycombinator.com/item?id=40173451) - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
+* [2024-04-26, 18:44:51](https://news.ycombinator.com/item?id=40172784) - [Forget billions of years: Researchers have grown diamonds in just 150 minutes](https://charmingscience.com/forget-billions-of-years-researchers-have-grown-diamonds-in-just-150-minutes/)
 * [2024-04-26, 18:01:22](https://news.ycombinator.com/item?id=40172319) - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 * [2024-04-26, 17:45:04](https://news.ycombinator.com/item?id=40172161) - [Camus, Albert and the Anarchists (2007)](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
 * [2024-04-26, 17:42:33](https://news.ycombinator.com/item?id=40172133) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/Articles/970565/)
@@ -21,9 +23,7 @@
 * [2024-04-26, 07:13:27](https://news.ycombinator.com/item?id=40166670) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A shattered dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
-* [2024-04-25, 19:15:11](https://news.ycombinator.com/item?id=40161794) - [No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
 * [2024-04-25, 18:43:10](https://news.ycombinator.com/item?id=40161421) - [IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
-* [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 12:25:39](https://news.ycombinator.com/item?id=40156642) - [Cost of developing new drugs may be far lower than industry claims,trial reveals](https://www.theguardian.com/global-development/2024/apr/25/cost-of-developing-new-drugs-may-be-far-lower-than-industry-claims-trial-reveals)
 * [2024-04-25, 08:43:55](https://news.ycombinator.com/item?id=40155022) - [Hotel WiFi JavaScript Injection (2012)](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)

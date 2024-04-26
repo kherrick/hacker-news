@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 19:53:19](https://news.ycombinator.com/item?id=40173451) - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
 * [2024-04-26, 18:47:13](https://news.ycombinator.com/item?id=40172822) - [Leidenfrost Effect](https://en.wikipedia.org/wiki/Leidenfrost_effect)
+* [2024-04-26, 18:44:51](https://news.ycombinator.com/item?id=40172784) - [Forget billions of years: Researchers have grown diamonds in just 150 minutes](https://charmingscience.com/forget-billions-of-years-researchers-have-grown-diamonds-in-just-150-minutes/)
 * [2024-04-26, 18:44:44](https://news.ycombinator.com/item?id=40172781) - [TikTok owner has strong First Amendment case against US ban, professors say](https://arstechnica.com/tech-policy/2024/04/tiktok-owner-has-strong-first-amendment-case-against-us-ban-professors-say/)
 * [2024-04-26, 18:38:31](https://news.ycombinator.com/item?id=40172698) - [You Can't Get a Restaurant Reservation](https://www.newyorker.com/news/our-local-correspondents/why-you-cant-get-a-restaurant-reservation)
 * [2024-04-26, 18:37:25](https://news.ycombinator.com/item?id=40172687) - [The 8-bit Z80 is dead. Long live the 16-bit Z80](https://www.theregister.com/2024/04/26/long_live_16_bit_z80/)
