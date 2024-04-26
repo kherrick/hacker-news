@@ -6,6 +6,7 @@
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:13:52](https://news.ycombinator.com/item?id=40163104) - [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-04-25, 20:29:40](https://news.ycombinator.com/item?id=40162610) - [Show HN: From SERP to LLM-Ready Data Markdown in Seconds with Firesearch](https://docs.firecrawl.dev/articles/search-announcement)
 * [2024-04-25, 20:14:10](https://news.ycombinator.com/item?id=40162433) - [Judge acquits Backpage co-founder Michael Lacey on most counts](https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/)
 * [2024-04-25, 20:07:21](https://news.ycombinator.com/item?id=40162354) - [Google Earning Q1 2024 [pdf]](https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf)
 * [2024-04-25, 19:15:11](https://news.ycombinator.com/item?id=40161794) - [No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
@@ -15,6 +16,7 @@
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 16:42:05](https://news.ycombinator.com/item?id=40159766) - [DDC OLED (2022)](https://mitxela.com/projects/ddc-oled)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
+* [2024-04-25, 15:34:59](https://news.ycombinator.com/item?id=40158794) - [MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
 * [2024-04-25, 13:46:28](https://news.ycombinator.com/item?id=40157530) - [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
 * [2024-04-25, 12:51:44](https://news.ycombinator.com/item?id=40156890) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
@@ -25,11 +27,9 @@
 * [2024-04-24, 23:52:53](https://news.ycombinator.com/item?id=40151424) - [Don’t bleed on the artwork](https://oxfordamerican.org/magazine/issue-124-spring-2024/don-t-bleed-on-the-artwork-notes-from-the-afterlife)
 * [2024-04-24, 12:15:26](https://news.ycombinator.com/item?id=40143460) - [Swan – A Lightweight Language Model Execution Environment Using FPGA](https://github.com/turingmotors/swan)
 * [2024-04-24, 11:55:54](https://news.ycombinator.com/item?id=40143285) - [Notes on Structured Programming (1970) [pdf]](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
-* [2024-04-24, 10:29:01](https://news.ycombinator.com/item?id=40142659) - [Notions Classic: Spring 1990](http://www.absurdnotions.org/S1990.html)
 * [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 * [2024-04-24, 07:38:39](https://news.ycombinator.com/item?id=40141713) - [Same species, different sizes: Rare evolution in action spotted in island bats](https://phys.org/news/2024-04-species-sizes-rare-evolution-action.html)
-* [2024-04-24, 00:41:42](https://news.ycombinator.com/item?id=40139130) - [Retro-tech HP-25 Calculator](https://github.com/eshazen/retro-25)
 
 ## [Archives](archives/index.md)
 
