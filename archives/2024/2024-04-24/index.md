@@ -87,6 +87,7 @@
 * [2024-04-24, 10:53:02](https://news.ycombinator.com/item?id=40142829) - [Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
 * [2024-04-24, 10:48:11](https://news.ycombinator.com/item?id=40142791) - [Ask HN: Any tool for managing large and variable command lines?](https://news.ycombinator.com/item?id=40142791)
 * [2024-04-24, 10:30:19](https://news.ycombinator.com/item?id=40142667) - [Windows 11 Start menu ads are now rolling out to everyone](https://www.theverge.com/2024/4/24/24138949/microsoft-windows-11-start-menu-ads-recommendations-setting-disable)
+* [2024-04-24, 10:29:01](https://news.ycombinator.com/item?id=40142659) - [Notions Classic: Spring 1990](http://www.absurdnotions.org/S1990.html)
 * [2024-04-24, 10:18:51](https://news.ycombinator.com/item?id=40142603) - [PyPy v7.3.16 Release](https://www.pypy.org/posts/2024/04/pypy-v7316-release.html)
 * [2024-04-24, 10:18:36](https://news.ycombinator.com/item?id=40142598) - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
 * [2024-04-24, 10:13:16](https://news.ycombinator.com/item?id=40142570) - ['Expensive' Streaming Services Are a Key Reason for Americans to 'Pirate'](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
