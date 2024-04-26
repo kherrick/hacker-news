@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 07:28:14](https://news.ycombinator.com/item?id=40166736) - [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
 * [2024-04-26, 07:13:27](https://news.ycombinator.com/item?id=40166670) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-04-26, 05:46:20](https://news.ycombinator.com/item?id=40166268) - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
-* [2024-04-26, 00:50:52](https://news.ycombinator.com/item?id=40164793) - [MFJ is ceasing its on-site production](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
 * [2024-04-25, 23:32:07](https://news.ycombinator.com/item?id=40164337) - [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
 * [2024-04-25, 23:11:14](https://news.ycombinator.com/item?id=40164199) - [Jeff Lawson buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 * [2024-04-25, 22:30:51](https://news.ycombinator.com/item?id=40163882) - [Apple releases eight small AI language models aimed at on-device use](https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/)
