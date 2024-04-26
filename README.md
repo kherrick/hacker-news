@@ -15,7 +15,6 @@
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-04-25, 20:14:10](https://news.ycombinator.com/item?id=40162433) - [Judge acquits Backpage co-founder Michael Lacey on most counts](https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/)
 * [2024-04-25, 19:15:11](https://news.ycombinator.com/item?id=40161794) - [No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
-* [2024-04-25, 19:08:22](https://news.ycombinator.com/item?id=40161712) - [Rhyme as Reason](https://bigthink.com/neuropsych/rhyme-as-reason/)
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
@@ -30,6 +29,7 @@
 * [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
+* [2024-04-24, 07:38:39](https://news.ycombinator.com/item?id=40141713) - [Same species, different sizes: Rare evolution in action spotted in island bats](https://phys.org/news/2024-04-species-sizes-rare-evolution-action.html)
 
 ## [Archives](archives/index.md)
 
