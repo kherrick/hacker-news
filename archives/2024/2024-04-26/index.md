@@ -11,6 +11,7 @@
 * [2024-04-26, 21:01:02](https://news.ycombinator.com/item?id=40174232) - [Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-04-26, 20:47:38](https://news.ycombinator.com/item?id=40174087) - [Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 * [2024-04-26, 20:36:15](https://news.ycombinator.com/item?id=40173965) - [Half of Russia's payments to China made through middlemen](https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/)
+* [2024-04-26, 20:32:02](https://news.ycombinator.com/item?id=40173914) - [Welcome to Scam World](https://www.nytimes.com/2024/04/21/style/scams-identity-theft.html)
 * [2024-04-26, 20:20:26](https://news.ycombinator.com/item?id=40173771) - [How I search in 2024](https://newsletter.vickiboykis.com/archive/how-i-search-in-2024/)
 * [2024-04-26, 19:53:19](https://news.ycombinator.com/item?id=40173451) - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
 * [2024-04-26, 19:38:45](https://news.ycombinator.com/item?id=40173237) - [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
