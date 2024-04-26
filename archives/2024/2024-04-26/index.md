@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
 * [2024-04-26, 07:28:14](https://news.ycombinator.com/item?id=40166736) - [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
+* [2024-04-26, 07:17:24](https://news.ycombinator.com/item?id=40166690) - [OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
 * [2024-04-26, 07:13:27](https://news.ycombinator.com/item?id=40166670) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-04-26, 05:46:20](https://news.ycombinator.com/item?id=40166268) - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
 * [2024-04-26, 04:50:23](https://news.ycombinator.com/item?id=40166039) - [What's new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/)
