@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-26, 16:15:04",
-      "https://news.ycombinator.com/item?id=40171125"
+      "2024-04-26, 15:45:21",
+      "https://news.ycombinator.com/item?id=40170883"
     ],
     [
-      "Google lays off its Python team",
-      "https://social.coop/@Yhg1s/112332127058328855"
+      "Wisdom from Marcus Aurelius",
+      "https://www.gurwinder.blog/p/wisdom-from-marcus-aurelius"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "PEP 686 – Make UTF-8 mode default",
       "https://peps.python.org/pep-0686/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 11:26:29",
-      "https://news.ycombinator.com/item?id=40168052"
-    ],
-    [
-      "What We Train Our Brains For",
-      "https://michaeldehaan.substack.com/p/what-we-train-our-brains-for"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2024-04-25, 23:11:14",
+      "https://news.ycombinator.com/item?id=40164199"
+    ],
+    [
+      "Jeff Lawson buys The Onion",
+      "https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 21:42:06",
       "https://news.ycombinator.com/item?id=40163405"
     ],
@@ -181,32 +181,22 @@
   ],
   [
     [
+      "2024-04-25, 16:42:05",
+      "https://news.ycombinator.com/item?id=40159766"
+    ],
+    [
+      "DDC OLED (2022)",
+      "https://mitxela.com/projects/ddc-oled"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 16:08:05",
       "https://news.ycombinator.com/item?id=40159278"
     ],
     [
       "Show HN: I made a programmable computer from NAND gates",
       "https://github.com/ArhanChaudhary/NAND"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 15:09:02",
-      "https://news.ycombinator.com/item?id=40158481"
-    ],
-    [
-      "Launch HN: Nango (YC W23) – Source-available unified API",
-      "https://news.ycombinator.com/item?id=40158481"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 12:31:41",
-      "https://news.ycombinator.com/item?id=40156698"
-    ],
-    [
-      "Show HN: Meegle – Jira alternative with workflow visualization",
-      "https://www.meegle.com/index"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Philosophy is an art",
       "https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 05:19:58",
+      "https://news.ycombinator.com/item?id=40153721"
+    ],
+    [
+      "Pruning some things out with (GNU) find options",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FindPruningThingsOut"
     ]
   ],
   [
