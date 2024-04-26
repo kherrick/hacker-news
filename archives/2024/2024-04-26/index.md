@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 17:00:49](https://news.ycombinator.com/item?id=40171713) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-04-26, 16:49:59](https://news.ycombinator.com/item?id=40171565) - [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
+* [2024-04-26, 16:49:09](https://news.ycombinator.com/item?id=40171551) - [The Brutal Business Practices of Amazon–and How It Got Too Toxic to Touch](https://www.vanityfair.com/news/story/inside-amazon-business-practices)
 * [2024-04-26, 16:48:42](https://news.ycombinator.com/item?id=40171540) - [Tesla's 2M car Autopilot recall is now under federal scrutiny](https://arstechnica.com/cars/2024/04/feds-concerned-some-of-teslas-autopilot-recall-was-opt-in-reversible/)
 * [2024-04-26, 16:40:51](https://news.ycombinator.com/item?id=40171442) - [How Big Tech and Silicon Valley Are Transforming the Military-Industrial Complex](https://watson.brown.edu/costsofwar/papers/2024/SiliconValley)
 * [2024-04-26, 16:40:37](https://news.ycombinator.com/item?id=40171437) - [Mass Graves in Khan Yunis Reveal Unspeakable Horror of US-Backed Gaza Invasion](https://truthout.org/articles/mass-graves-in-khan-yunis-reveal-unspeakable-horror-of-us-backed-gaza-invasion/)
