@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 18:37:25](https://news.ycombinator.com/item?id=40172687) - [The 8-bit Z80 is dead. Long live the 16-bit Z80](https://www.theregister.com/2024/04/26/long_live_16_bit_z80/)
+* [2024-04-26, 18:22:37](https://news.ycombinator.com/item?id=40172528) - [Cows are suffering on even the most “humane” dairy farms](https://www.theatlantic.com/ideas/archive/2024/04/alexandre-farms-treatment-of-animals/677980/)
 * [2024-04-26, 18:15:07](https://news.ycombinator.com/item?id=40172448) - [About the Chinese police officers who may soon be patrolling in Hungary](https://telex.hu/english/2024/04/25/what-do-we-know-about-the-chinese-police-officers-who-may-soon-be-patrolling-in-hungary)
 * [2024-04-26, 18:09:53](https://news.ycombinator.com/item?id=40172401) - [Thoughts on my first electric scooter purchase](https://maxmautner.com/2024/04/26/electric-scooters.html)
 * [2024-04-26, 17:56:53](https://news.ycombinator.com/item?id=40172283) - [Why is it ok when YC president leads public with saying ETH price going to 10k?](https://news.ycombinator.com/item?id=40172283)
@@ -15,7 +17,6 @@
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 15:49:54](https://news.ycombinator.com/item?id=40170955) - [Solar power is changing life deep in the Amazon](https://www.washingtonpost.com/climate-solutions/interactive/2024/amazon-solar-panels-ecuador/)
 * [2024-04-26, 15:09:48](https://news.ycombinator.com/item?id=40170373) - [The Rise of the Bee Bandits](https://www.noemamag.com/the-rise-of-the-bee-bandits/)
-* [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 11:55:14](https://news.ycombinator.com/item?id=40168242) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 11:06:09](https://news.ycombinator.com/item?id=40167905) - [Cult of the Dead Cow – Veilid (2023)](https://cultdeadcow.com/tools/veilid.html)
@@ -28,7 +29,6 @@
 * [2024-04-25, 06:15:28](https://news.ycombinator.com/item?id=40154053) - [Tiny rubber spheres used to make a programmable fluid](https://arstechnica.com/science/2024/04/metafluid-gives-robotic-gripper-a-soft-touch/)
 * [2024-04-25, 05:26:29](https://news.ycombinator.com/item?id=40153765) - [Philosophy is an art](https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald)
 * [2024-04-24, 17:43:20](https://news.ycombinator.com/item?id=40147456) - [Bionic Bee](https://www.festo.com/de/en/e/about-festo/research-and-development/bionic-learning-network/bionicbee-id_1659889/)
-* [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-24, 12:56:40](https://news.ycombinator.com/item?id=40143800) - [Removing Reflections from RAW Photos](https://arxiv.org/abs/2404.14414)
 
 ## [Archives](archives/index.md)
