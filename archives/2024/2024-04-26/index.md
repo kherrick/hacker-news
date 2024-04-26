@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 14:13:23](https://news.ycombinator.com/item?id=40169692) - [Apple's Regular Mac Base RAM Boosts Ended When Tim Cook Took Over](https://www.macrumors.com/2024/04/26/apple-mac-base-ram-boosts-ended-tim-cook/)
 * [2024-04-26, 14:08:28](https://news.ycombinator.com/item?id=40169621) - [Google is feeling pretty pumped about a new way of showing you ads on YouTube](https://www.androidauthority.com/youtube-pause-ads-3437531/)
 * [2024-04-26, 13:46:45](https://news.ycombinator.com/item?id=40169341) - [Auto Insurance Rates Are Skyrocketing Because Cars Are Covertly Spying on People](https://www.techdirt.com/2024/04/26/people-are-slowly-realizing-their-auto-insurance-rates-are-skyrocketing-because-their-car-is-covertly-spying-on-them/)
 * [2024-04-26, 13:34:17](https://news.ycombinator.com/item?id=40169180) - [Crypto Mixer Samourai Wallet's Co-Founders Arrested for Money Laundering](https://www.wsj.com/articles/crypto-mixer-samourai-wallets-co-founders-arrested-for-money-laundering-df237a4e)
