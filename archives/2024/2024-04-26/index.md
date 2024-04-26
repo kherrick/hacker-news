@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 21:53:56](https://news.ycombinator.com/item?id=40174739) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.msn.com/en-us/money/markets/ar-AA1nFgrS)
 * [2024-04-26, 21:20:43](https://news.ycombinator.com/item?id=40174441) - [Tiny in size, a Cupertino home is selling for big bucks: $1.7M](https://www.latimes.com/california/story/2024-04-19/tiny-cupertino-home-is-selling-for-over-1-7-million)
 * [2024-04-26, 21:18:37](https://news.ycombinator.com/item?id=40174424) - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
 * [2024-04-26, 21:09:14](https://news.ycombinator.com/item?id=40174316) - [Factorio – Statistics improvements, Linux adventures](https://factorio.com/blog/post/fff-408)
 * [2024-04-26, 21:01:02](https://news.ycombinator.com/item?id=40174232) - [Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-04-26, 20:47:38](https://news.ycombinator.com/item?id=40174087) - [Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 * [2024-04-26, 20:36:15](https://news.ycombinator.com/item?id=40173965) - [Half of Russia's payments to China made through middlemen](https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/)
+* [2024-04-26, 20:20:26](https://news.ycombinator.com/item?id=40173771) - [How I search in 2024](https://newsletter.vickiboykis.com/archive/how-i-search-in-2024/)
 * [2024-04-26, 19:53:19](https://news.ycombinator.com/item?id=40173451) - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
 * [2024-04-26, 19:38:45](https://news.ycombinator.com/item?id=40173237) - [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
 * [2024-04-26, 18:47:13](https://news.ycombinator.com/item?id=40172822) - [Leidenfrost Effect](https://en.wikipedia.org/wiki/Leidenfrost_effect)
