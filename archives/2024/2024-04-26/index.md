@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 21:01:02](https://news.ycombinator.com/item?id=40174232) - [Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-04-26, 20:36:15](https://news.ycombinator.com/item?id=40173965) - [Half of Russia's payments to China made through middlemen](https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/)
 * [2024-04-26, 19:53:19](https://news.ycombinator.com/item?id=40173451) - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
 * [2024-04-26, 18:47:13](https://news.ycombinator.com/item?id=40172822) - [Leidenfrost Effect](https://en.wikipedia.org/wiki/Leidenfrost_effect)
@@ -42,6 +43,7 @@
 * [2024-04-26, 15:44:15](https://news.ycombinator.com/item?id=40170863) - [SCOTUS Ignores Housing Crisis in Hearing on Laws Criminalizing Unhoused People](https://truthout.org/articles/scotus-ignores-housing-crisis-in-hearing-on-laws-criminalizing-unhoused-people/)
 * [2024-04-26, 15:09:48](https://news.ycombinator.com/item?id=40170373) - [The Rise of the Bee Bandits](https://www.noemamag.com/the-rise-of-the-bee-bandits/)
 * [2024-04-26, 14:54:13](https://news.ycombinator.com/item?id=40170135) - [Tesla's Autopilot, Full Self-Driving linked to 100s of crashes, deaths](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
+* [2024-04-26, 14:45:43](https://news.ycombinator.com/item?id=40169992) - [Postgres Bloat Minimization](https://supabase.com/blog/postgres-bloat)
 * [2024-04-26, 14:13:23](https://news.ycombinator.com/item?id=40169692) - [Apple's Regular Mac Base RAM Boosts Ended When Tim Cook Took Over](https://www.macrumors.com/2024/04/26/apple-mac-base-ram-boosts-ended-tim-cook/)
 * [2024-04-26, 14:08:28](https://news.ycombinator.com/item?id=40169621) - [Google is feeling pretty pumped about a new way of showing you ads on YouTube](https://www.androidauthority.com/youtube-pause-ads-3437531/)
 * [2024-04-26, 14:05:16](https://news.ycombinator.com/item?id=40169578) - [Jon Pretty wins in court against sexual harassment claims by Scala community](https://pretty.direct/statement.html)
