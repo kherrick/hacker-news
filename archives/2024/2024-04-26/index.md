@@ -53,6 +53,7 @@
 * [2024-04-26, 12:45:02](https://news.ycombinator.com/item?id=40168755) - [Three women contract HIV from dirty \"vampire facials\" at unlicensed spa](https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/)
 * [2024-04-26, 12:44:06](https://news.ycombinator.com/item?id=40168740) - [GMB launches legal action against 'out of control' Amazon at Coventry warehouse](https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
+* [2024-04-26, 12:10:59](https://news.ycombinator.com/item?id=40168406) - [Optimizing your programs for Arm platforms](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/optimizing-your-programs-for-arm-platforms)
 * [2024-04-26, 12:00:28](https://news.ycombinator.com/item?id=40168284) - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-04-26, 11:55:14](https://news.ycombinator.com/item?id=40168242) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 11:26:29](https://news.ycombinator.com/item?id=40168052) - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
