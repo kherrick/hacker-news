@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 15:44:15](https://news.ycombinator.com/item?id=40170863) - [SCOTUS Ignores Housing Crisis in Hearing on Laws Criminalizing Unhoused People](https://truthout.org/articles/scotus-ignores-housing-crisis-in-hearing-on-laws-criminalizing-unhoused-people/)
 * [2024-04-26, 14:54:13](https://news.ycombinator.com/item?id=40170135) - [Tesla's Autopilot, Full Self-Driving linked to 100s of crashes, deaths](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
 * [2024-04-26, 14:13:23](https://news.ycombinator.com/item?id=40169692) - [Apple's Regular Mac Base RAM Boosts Ended When Tim Cook Took Over](https://www.macrumors.com/2024/04/26/apple-mac-base-ram-boosts-ended-tim-cook/)
 * [2024-04-26, 14:08:28](https://news.ycombinator.com/item?id=40169621) - [Google is feeling pretty pumped about a new way of showing you ads on YouTube](https://www.androidauthority.com/youtube-pause-ads-3437531/)

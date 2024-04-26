@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-26, 14:05:16](https://news.ycombinator.com/item?id=40169578) - [Jon Pretty wins in court against sexual harassment claims by Scala community](https://pretty.direct/statement.html)
+* [2024-04-26, 15:44:15](https://news.ycombinator.com/item?id=40170863) - [SCOTUS Ignores Housing Crisis in Hearing on Laws Criminalizing Unhoused People](https://truthout.org/articles/scotus-ignores-housing-crisis-in-hearing-on-laws-criminalizing-unhoused-people/)
 * [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 12:00:28](https://news.ycombinator.com/item?id=40168284) - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
