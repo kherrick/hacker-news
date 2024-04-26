@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 23:19:12](https://news.ycombinator.com/item?id=40175395) - [Discord Shuts Down 'Spy Pet' Bots That Scraped, Sold User Messages](https://www.404media.co/discord-shuts-down-spy-pet-bots-that-scraped-sold-user-messages/)
 * [2024-04-26, 22:42:43](https://news.ycombinator.com/item?id=40175122) - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
 * [2024-04-26, 22:32:16](https://news.ycombinator.com/item?id=40175039) - [British Columbia to recriminalize use of drugs in public spaces](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245)
 * [2024-04-26, 21:54:36](https://news.ycombinator.com/item?id=40174747) - [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
@@ -26,7 +27,6 @@
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 18:43:10](https://news.ycombinator.com/item?id=40161421) - [IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
 * [2024-04-25, 12:25:39](https://news.ycombinator.com/item?id=40156642) - [Cost of developing new drugs may be lower than industry claims: trial](https://www.theguardian.com/global-development/2024/apr/25/cost-of-developing-new-drugs-may-be-far-lower-than-industry-claims-trial-reveals)
-* [2024-04-25, 08:43:55](https://news.ycombinator.com/item?id=40155022) - [Hotel WiFi JavaScript Injection (2012)](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)
 * [2024-04-25, 06:15:28](https://news.ycombinator.com/item?id=40154053) - [Tiny rubber spheres used to make a programmable fluid](https://arstechnica.com/science/2024/04/metafluid-gives-robotic-gripper-a-soft-touch/)
 * [2024-04-24, 17:48:14](https://news.ycombinator.com/item?id=40147507) - [Funeral Food](https://currentpub.com/2024/04/22/funeral-food/)
 * [2024-04-24, 12:56:40](https://news.ycombinator.com/item?id=40143800) - [Removing Reflections from RAW Photos](https://arxiv.org/abs/2404.14414)
