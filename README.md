@@ -28,8 +28,8 @@
 * [2024-04-25, 06:36:13](https://news.ycombinator.com/item?id=40154189) - [DayLight Computer](https://in-silo.com/daylight_computer)
 * [2024-04-25, 05:26:29](https://news.ycombinator.com/item?id=40153765) - [Philosophy Is an Art](https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald)
 * [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
+* [2024-04-24, 12:56:40](https://news.ycombinator.com/item?id=40143800) - [Removing Reflections from Raw Photos](https://arxiv.org/abs/2404.14414)
 * [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
-* [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 
 ## [Archives](archives/index.md)
 

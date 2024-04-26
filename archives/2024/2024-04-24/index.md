@@ -71,6 +71,7 @@
 * [2024-04-24, 13:09:18](https://news.ycombinator.com/item?id=40143940) - [Police is using ChatGPT-4 powered body cams that turn audio into reports](https://www.forbes.com/sites/thomasbrewster/2024/04/23/axon-ai-police-reports-/)
 * [2024-04-24, 13:06:58](https://news.ycombinator.com/item?id=40143913) - [Should You Use Ruby on Rails or Hanami?](https://blog.appsignal.com/2024/04/24/should-you-use-ruby-on-rails-or-hanami.html)
 * [2024-04-24, 12:58:06](https://news.ycombinator.com/item?id=40143814) - [70k workers show another way to earn living in globe's largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
+* [2024-04-24, 12:56:40](https://news.ycombinator.com/item?id=40143800) - [Removing Reflections from Raw Photos](https://arxiv.org/abs/2404.14414)
 * [2024-04-24, 12:51:00](https://news.ycombinator.com/item?id=40143756) - [ShotSpotter Keeps Listening After Contracts Expire](https://southsideweekly.com/shotspotter-soundthinking-keeps-listening-after-contracts-expire-chicago-san-diego-san-antonio-indianapolis/)
 * [2024-04-24, 12:45:23](https://news.ycombinator.com/item?id=40143704) - [Open-Shell: A collection of utilities bringing back classic features to Windows](https://github.com/Open-Shell/Open-Shell-Menu)
 * [2024-04-24, 12:41:09](https://news.ycombinator.com/item?id=40143669) - [Faer-rs: Linear algebra foundation for the Rust programming language](https://github.com/sarah-ek/faer-rs)
