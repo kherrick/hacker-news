@@ -14,6 +14,7 @@
 * [2024-04-26, 18:01:22](https://news.ycombinator.com/item?id=40172319) - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 * [2024-04-26, 17:56:53](https://news.ycombinator.com/item?id=40172283) - [Why is it ok when YC president leads public with saying ETH price going to 10k?](https://news.ycombinator.com/item?id=40172283)
 * [2024-04-26, 17:45:04](https://news.ycombinator.com/item?id=40172161) - [Camus, Albert and the Anarchists](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
+* [2024-04-26, 17:42:33](https://news.ycombinator.com/item?id=40172133) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/Articles/970565/)
 * [2024-04-26, 17:34:41](https://news.ycombinator.com/item?id=40172045) - [On Community in Nix](https://determinate.systems/posts/on-community-in-nix/)
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 * [2024-04-26, 17:31:03](https://news.ycombinator.com/item?id=40172000) - [School principal framed using AI-generated racist rant. Co-worker charged](https://www.cbsnews.com/baltimore/news/maryland-framed-principal-racist-ai-generated-voice/)
