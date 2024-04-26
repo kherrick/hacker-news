@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
+* [2024-04-26, 09:13:13](https://news.ycombinator.com/item?id=40167315) - [H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/)
 * [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
 * [2024-04-26, 07:28:14](https://news.ycombinator.com/item?id=40166736) - [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
 * [2024-04-26, 07:17:24](https://news.ycombinator.com/item?id=40166690) - [OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
@@ -18,9 +19,8 @@
 * [2024-04-25, 17:23:00](https://news.ycombinator.com/item?id=40160429) - [FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
-* [2024-04-25, 12:13:51](https://news.ycombinator.com/item?id=40156534) - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
+* [2024-04-25, 09:42:32](https://news.ycombinator.com/item?id=40155381) - [The many (many) ways I've backdoored your dependencies and other supply chain at](https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks)
 * [2024-04-25, 07:59:13](https://news.ycombinator.com/item?id=40154731) - [Stripe de-couples payments from the rest of its stack](https://techcrunch.com/2024/04/24/stripe-doubling-down-on-embedded-finance-de-couples-payments-from-the-rest-of-its-stack/)
-* [2024-04-25, 07:07:19](https://news.ycombinator.com/item?id=40154395) - [Tor: From the Dark Web to the Future of Privacy](https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy)
 * [2024-04-25, 06:36:13](https://news.ycombinator.com/item?id=40154189) - [DayLight Computer](https://in-silo.com/daylight_computer)
 * [2024-04-25, 05:26:29](https://news.ycombinator.com/item?id=40153765) - [Philosophy Is an Art](https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald)
 * [2024-04-25, 05:12:22](https://news.ycombinator.com/item?id=40153691) - [How Penelope Fitzgerald became a late blooming novelist](https://www.commonreader.co.uk/p/how-penelope-fitzgerald-became-a)
