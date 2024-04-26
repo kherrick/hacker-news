@@ -25,11 +25,11 @@
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 15:09:02](https://news.ycombinator.com/item?id=40158481) - [Launch HN: Nango (YC W23) – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
 * [2024-04-25, 08:43:55](https://news.ycombinator.com/item?id=40155022) - [Hotel WiFi JavaScript Injection (2012)](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)
-* [2024-04-25, 07:59:13](https://news.ycombinator.com/item?id=40154731) - [Stripe de-couples payments from the rest of its stack](https://techcrunch.com/2024/04/24/stripe-doubling-down-on-embedded-finance-de-couples-payments-from-the-rest-of-its-stack/)
 * [2024-04-25, 06:36:13](https://news.ycombinator.com/item?id=40154189) - [DayLight Computer](https://in-silo.com/daylight_computer)
 * [2024-04-25, 05:26:29](https://news.ycombinator.com/item?id=40153765) - [Philosophy Is an Art](https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald)
 * [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
+* [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 
 ## [Archives](archives/index.md)
 
