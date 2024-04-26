@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-26, 00:42:04",
+      "https://news.ycombinator.com/item?id=40164743"
+    ],
+    [
+      "Survey reveals translators and illustrators losing work to AI",
+      "https://www2.societyofauthors.org/2024/04/11/soa-survey-reveals-a-third-of-translators-and-quarter-of-illustrators-losing-work-to-ai/"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 23:42:07",
+      "https://news.ycombinator.com/item?id=40164391"
+    ],
+    [
+      "Nintendo forces Garry's Mod to delete 20 years of content",
+      "https://www.tomshardware.com/video-games/pc-gaming/nintendo-forces-garrys-mod-to-delete-20-years-of-content-garry-confirms-nintendo-is-behind-steam-workshop-purge"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 23:32:07",
+      "https://news.ycombinator.com/item?id=40164337"
+    ],
+    [
+      "Visualizing the locations of malicious login attempts",
+      "https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 23:11:14",
       "https://news.ycombinator.com/item?id=40164199"
     ],
@@ -57,16 +87,6 @@
     [
       "Judge acquits Backpage co-founder Michael Lacey on most counts",
       "https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 20:07:21",
-      "https://news.ycombinator.com/item?id=40162354"
-    ],
-    [
-      "Google Earning Q1 2024 [pdf]",
-      "https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-04-25, 15:34:59",
-      "https://news.ycombinator.com/item?id=40158794"
-    ],
-    [
-      "MemoryDB: A fast and durable memory-first cloud database",
-      "https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 15:09:02",
       "https://news.ycombinator.com/item?id=40158481"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-04-25, 07:07:19",
-      "https://news.ycombinator.com/item?id=40154395"
-    ],
-    [
-      "Tor: From the Dark Web to the Future of Privacy",
-      "https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 06:22:26",
       "https://news.ycombinator.com/item?id=40154104"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-04-24, 10:29:01",
+      "https://news.ycombinator.com/item?id=40142659"
+    ],
+    [
+      "Notions Classic: Spring 1990",
+      "http://www.absurdnotions.org/S1990.html"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 08:44:54",
       "https://news.ycombinator.com/item?id=40142039"
     ],
@@ -287,16 +297,6 @@
     [
       "Same species, different sizes: Rare evolution in action spotted in island bats",
       "https://phys.org/news/2024-04-species-sizes-rare-evolution-action.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 00:41:42",
-      "https://news.ycombinator.com/item?id=40139130"
-    ],
-    [
-      "Retro-tech HP-25 Calculator",
-      "https://github.com/eshazen/retro-25"
     ]
   ]
 ]
