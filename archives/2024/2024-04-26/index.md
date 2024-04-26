@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 22:42:43](https://news.ycombinator.com/item?id=40175122) - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
 * [2024-04-26, 22:28:36](https://news.ycombinator.com/item?id=40175006) - [My undying love for the painfully uncool Amiga](https://www.theguardian.com/games/2024/apr/26/my-undying-love-for-the-painfully-uncool-amiga)
 * [2024-04-26, 21:54:36](https://news.ycombinator.com/item?id=40174747) - [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
 * [2024-04-26, 21:53:56](https://news.ycombinator.com/item?id=40174739) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.msn.com/en-us/money/markets/ar-AA1nFgrS)
@@ -45,6 +46,7 @@
 * [2024-04-26, 16:40:51](https://news.ycombinator.com/item?id=40171442) - [How Big Tech and Silicon Valley Are Transforming the Military-Industrial Complex](https://watson.brown.edu/costsofwar/papers/2024/SiliconValley)
 * [2024-04-26, 16:40:37](https://news.ycombinator.com/item?id=40171437) - [Mass Graves in Khan Yunis Reveal Unspeakable Horror of US-Backed Gaza Invasion](https://truthout.org/articles/mass-graves-in-khan-yunis-reveal-unspeakable-horror-of-us-backed-gaza-invasion/)
 * [2024-04-26, 16:36:21](https://news.ycombinator.com/item?id=40171383) - [Gems of Tailwind CSS](https://railsdesigner.com/hidden-gems-tailwind/)
+* [2024-04-26, 16:23:04](https://news.ycombinator.com/item?id=40171216) - [Univer: Open-Source Alternative for Google Sheets, Slides, Docs](https://github.com/dream-num/univer/)
 * [2024-04-26, 16:22:34](https://news.ycombinator.com/item?id=40171212) - [Turing RK1 is 2x faster, 1.8x pricier than Pi 5](https://www.jeffgeerling.com/blog/2024/turing-rk1-2x-faster-18x-pricier-pi-5)
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 16:15:04](https://news.ycombinator.com/item?id=40171125) - [Google lays off its Python team](https://social.coop/@Yhg1s/112332127058328855)
