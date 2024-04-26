@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 18:47:13](https://news.ycombinator.com/item?id=40172822) - [Leidenfrost Effect](https://en.wikipedia.org/wiki/Leidenfrost_effect)
 * [2024-04-26, 18:37:25](https://news.ycombinator.com/item?id=40172687) - [The 8-bit Z80 is dead. Long live the 16-bit Z80](https://www.theregister.com/2024/04/26/long_live_16_bit_z80/)
 * [2024-04-26, 18:22:37](https://news.ycombinator.com/item?id=40172528) - [Cows are suffering on even the most “humane” dairy farms](https://www.theatlantic.com/ideas/archive/2024/04/alexandre-farms-treatment-of-animals/677980/)
 * [2024-04-26, 18:15:07](https://news.ycombinator.com/item?id=40172448) - [About the Chinese police officers who may soon be patrolling in Hungary](https://telex.hu/english/2024/04/25/what-do-we-know-about-the-chinese-police-officers-who-may-soon-be-patrolling-in-hungary)
