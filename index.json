@@ -1,52 +1,12 @@
 [
   [
     [
-      "2024-04-26, 13:46:45",
-      "https://news.ycombinator.com/item?id=40169341"
-    ],
-    [
-      "GM collects driver behavior data then sells access to insurance companies",
-      "https://www.techdirt.com/2024/04/26/people-are-slowly-realizing-their-auto-insurance-rates-are-skyrocketing-because-their-car-is-covertly-spying-on-them/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 13:41:31",
-      "https://news.ycombinator.com/item?id=40169281"
-    ],
-    [
-      "The Global War on End-to-End Encryption",
-      "https://community.qbix.com/t/the-global-war-on-end-to-end-encryption/214"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 12:45:47",
       "https://news.ycombinator.com/item?id=40168765"
     ],
     [
       "UK's Investigatory Powers Bill to become law despite tech world opposition",
       "https://www.theregister.com/2024/04/26/investigatory_powers_bill/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 12:45:02",
-      "https://news.ycombinator.com/item?id=40168755"
-    ],
-    [
-      "Three women contract HIV from dirty \"vampire facials\" at unlicensed spa",
-      "https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 12:44:06",
-      "https://news.ycombinator.com/item?id=40168740"
-    ],
-    [
-      "GMB launches legal action against 'out of control' Amazon at Coventry warehouse",
-      "https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse"
     ]
   ],
   [
@@ -131,6 +91,16 @@
   ],
   [
     [
+      "2024-04-26, 07:17:24",
+      "https://news.ycombinator.com/item?id=40166690"
+    ],
+    [
+      "OpenVoice: Instant Voice Cloning",
+      "https://github.com/myshell-ai/OpenVoice"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 07:13:27",
       "https://news.ycombinator.com/item?id=40166670"
     ],
@@ -147,6 +117,16 @@
     [
       "Passkeys: A Shattered Dream",
       "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 23:32:07",
+      "https://news.ycombinator.com/item?id=40164337"
+    ],
+    [
+      "Visualizing malicious IP addresses",
+      "https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-04-25, 12:13:51",
+      "https://news.ycombinator.com/item?id=40156534"
+    ],
+    [
+      "Tribler: An attack-resilient micro-economy for media",
+      "https://github.com/Tribler/tribler/wiki"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 08:43:55",
       "https://news.ycombinator.com/item?id=40155022"
     ],
@@ -227,6 +217,16 @@
     [
       "Stripe de-couples payments from the rest of its stack",
       "https://techcrunch.com/2024/04/24/stripe-doubling-down-on-embedded-finance-de-couples-payments-from-the-rest-of-its-stack/"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 07:07:19",
+      "https://news.ycombinator.com/item?id=40154395"
+    ],
+    [
+      "Tor: From the Dark Web to the Future of Privacy",
+      "https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy"
     ]
   ],
   [
