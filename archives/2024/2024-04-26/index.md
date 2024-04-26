@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 11:26:29](https://news.ycombinator.com/item?id=40168052) - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
+* [2024-04-26, 11:23:57](https://news.ycombinator.com/item?id=40168030) - [The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 10:39:23](https://news.ycombinator.com/item?id=40167730) - [\"90% of Java services have critical or security vulnerabilities\"](https://vived.substack.com/p/90-of-java-services-have-critical)
 * [2024-04-26, 09:13:13](https://news.ycombinator.com/item?id=40167315) - [H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/)

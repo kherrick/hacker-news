@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 11:26:29](https://news.ycombinator.com/item?id=40168052) - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
+* [2024-04-26, 11:23:57](https://news.ycombinator.com/item?id=40168030) - [The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 09:13:13](https://news.ycombinator.com/item?id=40167315) - [H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/)
 * [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
@@ -23,13 +25,11 @@
 * [2024-04-25, 07:59:13](https://news.ycombinator.com/item?id=40154731) - [Stripe de-couples payments from the rest of its stack](https://techcrunch.com/2024/04/24/stripe-doubling-down-on-embedded-finance-de-couples-payments-from-the-rest-of-its-stack/)
 * [2024-04-25, 06:36:13](https://news.ycombinator.com/item?id=40154189) - [DayLight Computer](https://in-silo.com/daylight_computer)
 * [2024-04-25, 05:26:29](https://news.ycombinator.com/item?id=40153765) - [Philosophy Is an Art](https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald)
-* [2024-04-25, 05:12:22](https://news.ycombinator.com/item?id=40153691) - [How Penelope Fitzgerald became a late blooming novelist](https://www.commonreader.co.uk/p/how-penelope-fitzgerald-became-a)
 * [2024-04-24, 23:52:53](https://news.ycombinator.com/item?id=40151424) - [Don’t bleed on the artwork](https://oxfordamerican.org/magazine/issue-124-spring-2024/don-t-bleed-on-the-artwork-notes-from-the-afterlife)
 * [2024-04-24, 21:32:54](https://news.ycombinator.com/item?id=40149961) - [The construction of the mafioso social capital and the Sack of Palermo (2023)](https://onlinelibrary.wiley.com/doi/full/10.1111/issj.12464)
 * [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
-* [2024-04-24, 07:38:39](https://news.ycombinator.com/item?id=40141713) - [Same species, different sizes: Rare evolution in action spotted in island bats](https://phys.org/news/2024-04-species-sizes-rare-evolution-action.html)
 
 ## [Archives](archives/index.md)
 
