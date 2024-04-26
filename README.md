@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 14:05:16](https://news.ycombinator.com/item?id=40169578) - [Jon Pretty wins in court against sexual harassment claims by Scala community](https://pretty.direct/statement.html)
 * [2024-04-26, 12:45:47](https://news.ycombinator.com/item?id=40168765) - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 12:00:28](https://news.ycombinator.com/item?id=40168284) - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
@@ -28,7 +29,6 @@
 * [2024-04-24, 21:32:54](https://news.ycombinator.com/item?id=40149961) - [The construction of the mafioso social capital and the Sack of Palermo (2023)](https://onlinelibrary.wiley.com/doi/full/10.1111/issj.12464)
 * [2024-04-24, 13:42:20](https://news.ycombinator.com/item?id=40144309) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-24, 12:56:40](https://news.ycombinator.com/item?id=40143800) - [Removing Reflections from Raw Photos](https://arxiv.org/abs/2404.14414)
-* [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 
 ## [Archives](archives/index.md)
