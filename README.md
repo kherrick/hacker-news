@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-26, 01:44:06](https://news.ycombinator.com/item?id=40165078) - [BlizzCon 2024 has been cancelled](https://news.blizzard.com/en-us/blizzcon/24072107/an-update-on-this-year-s-blizzcon-and-blizzard-s-2024-live-events)
 * [2024-04-26, 00:50:52](https://news.ycombinator.com/item?id=40164793) - [A Heavy Sad Heart](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
 * [2024-04-26, 00:03:56](https://news.ycombinator.com/item?id=40164512) - [The Surprising Number of Steam Games That Use GenAI](https://www.totallyhuman.io/blog/the-surprising-number-of-steam-games-that-use-genai)
 * [2024-04-25, 23:32:07](https://news.ycombinator.com/item?id=40164337) - [Visualizing the locations of malicious login attempts](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
@@ -26,7 +27,6 @@
 * [2024-04-24, 21:40:28](https://news.ycombinator.com/item?id=40150045) - [Autotuner: How to speed up your Rails app](https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/)
 * [2024-04-24, 12:15:26](https://news.ycombinator.com/item?id=40143460) - [Swan – A Lightweight Language Model Execution Environment Using FPGA](https://github.com/turingmotors/swan)
 * [2024-04-24, 11:55:54](https://news.ycombinator.com/item?id=40143285) - [Notes on Structured Programming (1970) [pdf]](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
-* [2024-04-24, 10:29:01](https://news.ycombinator.com/item?id=40142659) - [Notions Classic: Spring 1990](http://www.absurdnotions.org/S1990.html)
 * [2024-04-24, 09:54:02](https://news.ycombinator.com/item?id=40142427) - [The Rise of GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 08:44:54](https://news.ycombinator.com/item?id=40142039) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 * [2024-04-24, 07:38:39](https://news.ycombinator.com/item?id=40141713) - [Same species, different sizes: Rare evolution in action spotted in island bats](https://phys.org/news/2024-04-species-sizes-rare-evolution-action.html)
