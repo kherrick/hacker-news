@@ -98,6 +98,7 @@
 * [2024-04-25, 09:35:24](https://news.ycombinator.com/item?id=40155336) - [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
 * [2024-04-25, 09:28:57](https://news.ycombinator.com/item?id=40155293) - [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
 * [2024-04-25, 09:20:25](https://news.ycombinator.com/item?id=40155240) - [Boeing retaliated against its own engineers working for FAA, union says](https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/)
+* [2024-04-25, 07:59:13](https://news.ycombinator.com/item?id=40154731) - [Stripe de-couples payments from the rest of its stack](https://techcrunch.com/2024/04/24/stripe-doubling-down-on-embedded-finance-de-couples-payments-from-the-rest-of-its-stack/)
 * [2024-04-25, 07:07:19](https://news.ycombinator.com/item?id=40154395) - [Tor: From the Dark Web to the Future of Privacy](https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy)
 * [2024-04-25, 07:00:03](https://news.ycombinator.com/item?id=40154351) - [CodeStory (YC S23) is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-04-25, 06:36:13](https://news.ycombinator.com/item?id=40154189) - [DayLight Computer](https://in-silo.com/daylight_computer)
