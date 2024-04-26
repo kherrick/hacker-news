@@ -6,8 +6,10 @@
 
 * [2024-04-26, 11:26:29](https://news.ycombinator.com/item?id=40168052) - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
 * [2024-04-26, 11:23:57](https://news.ycombinator.com/item?id=40168030) - [The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
+* [2024-04-26, 11:01:57](https://news.ycombinator.com/item?id=40167884) - [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 10:39:23](https://news.ycombinator.com/item?id=40167730) - [\"90% of Java services have critical or security vulnerabilities\"](https://vived.substack.com/p/90-of-java-services-have-critical)
+* [2024-04-26, 09:32:16](https://news.ycombinator.com/item?id=40167406) - [Show HN: Mendeleej.com - an Interactive Periodic Table](http://mendeleej.com/)
 * [2024-04-26, 09:13:13](https://news.ycombinator.com/item?id=40167315) - [H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/)
 * [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
 * [2024-04-26, 08:04:55](https://news.ycombinator.com/item?id=40166912) - [The dire state of NixOS's moderation culture](https://github.com/nrdxp/rfc-evidence/blob/master/rfc_evidences_experiences.md)
