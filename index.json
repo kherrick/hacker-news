@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-04-26, 09:13:13",
-      "https://news.ycombinator.com/item?id=40167315"
-    ],
-    [
-      "H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread",
-      "https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 08:44:43",
       "https://news.ycombinator.com/item?id=40167163"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-04-25, 17:23:00",
+      "https://news.ycombinator.com/item?id=40160429"
+    ],
+    [
+      "FCC votes to restore net neutrality rules",
+      "https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 16:08:05",
       "https://news.ycombinator.com/item?id=40159278"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-04-25, 05:26:29",
-      "https://news.ycombinator.com/item?id=40153765"
-    ],
-    [
-      "Philosophy Is an Art",
-      "https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 13:42:20",
       "https://news.ycombinator.com/item?id=40144309"
     ],
@@ -297,6 +287,16 @@
     [
       "GQL: A New ISO Standard in Graph Query Language",
       "https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 08:44:54",
+      "https://news.ycombinator.com/item?id=40142039"
+    ],
+    [
+      "The Optimizations in Erlang/OTP 27",
+      "https://www.erlang.org/blog/optimizations/"
     ]
   ]
 ]
