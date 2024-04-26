@@ -12,7 +12,6 @@
 * [2024-04-26, 17:07:51](https://news.ycombinator.com/item?id=40171819) - [Regulators Tie Tesla Autopilot to More Than a Dozen Fatalities, 100s of Crashes](https://www.wsj.com/business/autos/regulators-probing-tesla-recall-tied-to-autopilot-a1af6d67)
 * [2024-04-26, 17:00:49](https://news.ycombinator.com/item?id=40171713) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-04-26, 16:49:09](https://news.ycombinator.com/item?id=40171551) - [The brutal business practices of Amazon](https://www.vanityfair.com/news/story/inside-amazon-business-practices)
-* [2024-04-26, 16:22:34](https://news.ycombinator.com/item?id=40171212) - [Turing RK1 is 2x faster, 1.8x pricier than Pi 5](https://www.jeffgeerling.com/blog/2024/turing-rk1-2x-faster-18x-pricier-pi-5)
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 15:49:54](https://news.ycombinator.com/item?id=40170955) - [Solar power is changing life deep in the Amazon](https://www.washingtonpost.com/climate-solutions/interactive/2024/amazon-solar-panels-ecuador/)
 * [2024-04-26, 15:09:48](https://news.ycombinator.com/item?id=40170373) - [The Rise of the Bee Bandits](https://www.noemamag.com/the-rise-of-the-bee-bandits/)
@@ -28,6 +27,7 @@
 * [2024-04-25, 08:43:55](https://news.ycombinator.com/item?id=40155022) - [Hotel WiFi JavaScript Injection (2012)](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)
 * [2024-04-25, 06:15:28](https://news.ycombinator.com/item?id=40154053) - [Tiny rubber spheres used to make a programmable fluid](https://arstechnica.com/science/2024/04/metafluid-gives-robotic-gripper-a-soft-touch/)
 * [2024-04-25, 05:26:29](https://news.ycombinator.com/item?id=40153765) - [Philosophy is an art](https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald)
+* [2024-04-24, 17:48:14](https://news.ycombinator.com/item?id=40147507) - [Funeral Food](https://currentpub.com/2024/04/22/funeral-food/)
 * [2024-04-24, 17:43:20](https://news.ycombinator.com/item?id=40147456) - [Bionic Bee](https://www.festo.com/de/en/e/about-festo/research-and-development/bionic-learning-network/bionicbee-id_1659889/)
 * [2024-04-24, 12:56:40](https://news.ycombinator.com/item?id=40143800) - [Removing Reflections from RAW Photos](https://arxiv.org/abs/2404.14414)
 
