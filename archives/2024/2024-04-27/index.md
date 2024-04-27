@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 17:08:20](https://news.ycombinator.com/item?id=40181612) - [Einsum in 40 Lines of Python](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
 * [2024-04-27, 17:00:05](https://news.ycombinator.com/item?id=40181522) - [Fathom AI Notetaker (YC W21) is hiring a Back end Engineer (remote)](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
 * [2024-04-27, 16:05:45](https://news.ycombinator.com/item?id=40181000) - [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
 * [2024-04-27, 15:51:26](https://news.ycombinator.com/item?id=40180890) - [Scientists Have Studied the Mysterious Behavior of Cats Sitting on Squares(2021)](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
