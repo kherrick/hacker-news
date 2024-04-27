@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 12:54:14](https://news.ycombinator.com/item?id=40179585) - [NHTSA Tesla Report (2024) [pdf]](https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
+* [2024-04-27, 12:20:29](https://news.ycombinator.com/item?id=40179398) - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
 * [2024-04-27, 12:01:03](https://news.ycombinator.com/item?id=40179295) - [Sweep (YC S23) is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
 * [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
+* [2024-04-27, 11:16:44](https://news.ycombinator.com/item?id=40179097) - [How a mysterious star could help the search for extraterrestrial life](https://www.theguardian.com/science/2024/apr/27/is-it-aliens-how-a-mysterious-star-could-help-the-search-for-extraterrestrial-life)
 * [2024-04-27, 10:58:02](https://news.ycombinator.com/item?id=40179002) - [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 09:33:08](https://news.ycombinator.com/item?id=40178629) - [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
