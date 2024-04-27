@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 18:30:19](https://news.ycombinator.com/item?id=40182271) - [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
 * [2024-04-27, 18:30:12](https://news.ycombinator.com/item?id=40182270) - [Federal regulators accuse Amazon executives of deleting messages](https://www.washingtonpost.com/technology/2024/04/26/amazon-ftc-messages-deleted-bezos/)
 * [2024-04-27, 17:44:41](https://news.ycombinator.com/item?id=40181918) - [Regulator reports 'critical safety gap' in Tesla Autopilot linked to crashes](https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html)
 * [2024-04-27, 17:42:34](https://news.ycombinator.com/item?id=40181896) - [ArcaneDoor – New espionage-focused campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
@@ -23,6 +24,7 @@
 * [2024-04-27, 14:45:44](https://news.ycombinator.com/item?id=40180346) - [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
 * [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Gary Killdall, creator of CP/M, wrote Pixar's original 3D renderer [pdf]](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 14:04:59](https://news.ycombinator.com/item?id=40180034) - [List of people offering their time for free to have a \"coffee chat\"](https://github.com/fharper/coffeechat)
+* [2024-04-27, 13:19:42](https://news.ycombinator.com/item?id=40179747) - [Much Ado About \"Nothing\"](https://xeiaso.net/blog/2024/much-ado-about-nothing/)
 * [2024-04-27, 12:58:11](https://news.ycombinator.com/item?id=40179619) - [Ubuntu Desktop 24.04 LTS: Noble Numbat](https://ubuntu.com/blog/ubuntu-desktop-24-04-noble-numbat-deep-dive)
 * [2024-04-27, 12:54:14](https://news.ycombinator.com/item?id=40179585) - [NHTSA Tesla Report (2024) [pdf]](https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
