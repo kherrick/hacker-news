@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-27, 03:22:44](https://news.ycombinator.com/item?id=40176846) - [Apple cuts 2024 and 2025 Vision Pro shipment forecasts](https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930)
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
+* [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
 * [2024-04-27, 02:00:35](https://news.ycombinator.com/item?id=40176441) - [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
 * [2024-04-27, 01:04:58](https://news.ycombinator.com/item?id=40176130) - [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
 * [2024-04-26, 22:39:22](https://news.ycombinator.com/item?id=40175087) - [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
@@ -28,7 +28,7 @@
 * [2024-04-25, 12:25:39](https://news.ycombinator.com/item?id=40156642) - [Cost of developing new drugs may be lower than industry claims: trial](https://www.theguardian.com/global-development/2024/apr/25/cost-of-developing-new-drugs-may-be-far-lower-than-industry-claims-trial-reveals)
 * [2024-04-25, 12:11:28](https://news.ycombinator.com/item?id=40156508) - [Direct-Style Effects Explained](https://www.inner-product.com/posts/direct-style-effects/)
 * [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)
-* [2024-04-25, 05:44:02](https://news.ycombinator.com/item?id=40153863) - [Camaraderie Between Two Soldier Poets](https://lithub.com/how-wilfred-owen-and-siegfried-sassoon-forged-a-literary-and-romantic-bond/)
+* [2024-04-25, 05:44:02](https://news.ycombinator.com/item?id=40153863) - [Camaraderie between two soldier poets](https://lithub.com/how-wilfred-owen-and-siegfried-sassoon-forged-a-literary-and-romantic-bond/)
 * [2024-04-24, 17:48:14](https://news.ycombinator.com/item?id=40147507) - [Funeral Food](https://currentpub.com/2024/04/22/funeral-food/)
 
 ## [Archives](archives/index.md)
