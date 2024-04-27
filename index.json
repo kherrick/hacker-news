@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-27, 17:42:34",
+      "https://news.ycombinator.com/item?id=40181896"
+    ],
+    [
+      "ArcaneDoor – New espionage-focused campaign found targeting network devices",
+      "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 17:08:20",
       "https://news.ycombinator.com/item?id=40181612"
     ],
@@ -27,6 +37,16 @@
     [
       "Show HN: Cognita – open-source RAG framework for modular applications",
       "https://github.com/truefoundry/cognita"
+    ]
+  ],
+  [
+    [
+      "2024-04-27, 15:57:12",
+      "https://news.ycombinator.com/item?id=40180923"
+    ],
+    [
+      "Stop Using Your Face or Thumb to Unlock Your Phone",
+      "https://gizmodo.com/stop-using-your-face-or-thumb-to-unlock-your-phone-1851438205"
     ]
   ],
   [
@@ -191,12 +211,32 @@
   ],
   [
     [
-      "2024-04-27, 03:31:15",
-      "https://news.ycombinator.com/item?id=40176908"
+      "2024-04-27, 02:56:00",
+      "https://news.ycombinator.com/item?id=40176738"
     ],
     [
-      "Software Supply Chain Security",
-      "https://www.devicu.com/blog/software-supply-chan-security"
+      "So you want to scrape like the big boys? (2021)",
+      "https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"
+    ]
+  ],
+  [
+    [
+      "2024-04-27, 02:27:58",
+      "https://news.ycombinator.com/item?id=40176597"
+    ],
+    [
+      "Laws of Software Evolution",
+      "https://two-wrongs.com/laws-of-software-evolution"
+    ]
+  ],
+  [
+    [
+      "2024-04-27, 01:04:58",
+      "https://news.ycombinator.com/item?id=40176130"
+    ],
+    [
+      "Clang’s -O0 output: branch displacement and size increase",
+      "https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2024-04-26, 22:15:51",
-      "https://news.ycombinator.com/item?id=40174912"
-    ],
-    [
-      "Searchformer: Beyond A* – Better planning with transformers via search dynamics",
-      "https://github.com/facebookresearch/searchformer"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 21:28:39",
       "https://news.ycombinator.com/item?id=40174516"
     ],
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2024-04-26, 16:20:30",
-      "https://news.ycombinator.com/item?id=40171183"
+      "2024-04-26, 16:23:04",
+      "https://news.ycombinator.com/item?id=40171216"
     ],
     [
-      "Bun’s New Crash Reporter",
-      "https://bun.sh/blog/bun-report-is-buns-new-crash-reporter"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 12:23:15",
-      "https://news.ycombinator.com/item?id=40168519"
-    ],
-    [
-      "I'm creating PBR Textures and 3D models since 2018 and sharing them for free",
-      "https://www.sharetextures.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 04:36:39",
-      "https://news.ycombinator.com/item?id=40165998"
-    ],
-    [
-      "Passkeys: A shattered dream",
-      "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 21:42:06",
-      "https://news.ycombinator.com/item?id=40163405"
-    ],
-    [
-      "Open Sourcing DOS 4",
-      "https://www.hanselman.com/blog/open-sourcing-dos-4"
+      "Univer: Open-Source Alternative for Google Sheets, Slides, Docs",
+      "https://github.com/dream-num/univer/"
     ]
   ],
   [
