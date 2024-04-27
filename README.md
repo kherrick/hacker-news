@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 04:10:24](https://news.ycombinator.com/item?id=40177142) - [Getting worried about bird flu](https://coredump3.blogspot.com/2024/04/im-getting-worried-about-bird-flu.html)
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 * [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
 * [2024-04-27, 02:34:11](https://news.ycombinator.com/item?id=40176637) - [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
@@ -21,7 +22,6 @@
 * [2024-04-26, 16:23:04](https://news.ycombinator.com/item?id=40171216) - [Univer: Open-Source Alternative for Google Sheets, Slides, Docs](https://github.com/dream-num/univer/)
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
-* [2024-04-26, 11:11:26](https://news.ycombinator.com/item?id=40167933) - [Brutalist Churches](https://www.dezeen.com/2024/04/24/sacred-modernity-brutalist-churches-book-jamie-mcgregor-smith/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A shattered dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 18:43:10](https://news.ycombinator.com/item?id=40161421) - [IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
