@@ -6,8 +6,11 @@
 
 * [2024-04-27, 18:30:19](https://news.ycombinator.com/item?id=40182271) - [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
 * [2024-04-27, 18:30:12](https://news.ycombinator.com/item?id=40182270) - [Federal regulators accuse Amazon executives of deleting messages](https://www.washingtonpost.com/technology/2024/04/26/amazon-ftc-messages-deleted-bezos/)
+* [2024-04-27, 18:27:13](https://news.ycombinator.com/item?id=40182251) - [VMware Outsourcing Their Support](https://rubenerd.com/vmware-outsourcing-their-support/)
+* [2024-04-27, 18:14:42](https://news.ycombinator.com/item?id=40182145) - [Ask HN: In the event of an apocalypse, how long until we could produce CPUs?](https://news.ycombinator.com/item?id=40182145)
 * [2024-04-27, 17:44:41](https://news.ycombinator.com/item?id=40181918) - [Regulator reports 'critical safety gap' in Tesla Autopilot linked to crashes](https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html)
 * [2024-04-27, 17:42:34](https://news.ycombinator.com/item?id=40181896) - [ArcaneDoor – New espionage-focused campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
+* [2024-04-27, 17:40:16](https://news.ycombinator.com/item?id=40181876) - [As solar capacity grows, some of America's most productive farmland is at risk](https://www.reuters.com/world/us/solar-capacity-grows-some-americas-most-productive-farmland-is-risk-2024-04-27/)
 * [2024-04-27, 17:10:25](https://news.ycombinator.com/item?id=40181632) - [Show HN: Open-source script to get your site indexed on Bing, Yandex, and others](https://github.com/mxmzb/indexnow-indexing-script)
 * [2024-04-27, 17:08:20](https://news.ycombinator.com/item?id=40181612) - [Einsum in 40 Lines of Python](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
 * [2024-04-27, 17:00:05](https://news.ycombinator.com/item?id=40181522) - [Fathom AI Notetaker (YC W21) is hiring a Back end Engineer (remote)](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
