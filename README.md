@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
-* [2024-04-27, 20:44:31](https://news.ycombinator.com/item?id=40183345) - [A Paradigm Shift in RAM](https://www.popularmechanics.com/technology/a60527526/mram-discovery/)
 * [2024-04-27, 20:26:41](https://news.ycombinator.com/item?id=40183179) - [FTC says Amazon executives destroyed potential evidence using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
 * [2024-04-27, 19:28:26](https://news.ycombinator.com/item?id=40182695) - [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
 * [2024-04-27, 18:30:19](https://news.ycombinator.com/item?id=40182271) - [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
+* [2024-04-27, 18:28:58](https://news.ycombinator.com/item?id=40182265) - [Intel used to dominate the U.S. chip industry, now struggling to stay relevant](https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html)
 * [2024-04-27, 18:27:13](https://news.ycombinator.com/item?id=40182251) - [VMware outsourcing their support](https://rubenerd.com/vmware-outsourcing-their-support/)
 * [2024-04-27, 17:42:34](https://news.ycombinator.com/item?id=40181896) - [ArcaneDoor – New campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
 * [2024-04-27, 17:08:20](https://news.ycombinator.com/item?id=40181612) - [Einsum for Tensor Manipulation](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
