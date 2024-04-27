@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 16:05:45](https://news.ycombinator.com/item?id=40181000) - [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
+* [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
+* [2024-04-27, 15:05:30](https://news.ycombinator.com/item?id=40180516) - [The formation and revision of intuitions (2023) [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
 * [2024-04-27, 14:45:44](https://news.ycombinator.com/item?id=40180346) - [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
 * [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Gary Killdall, creator of CP/M, wrote Pixar's original 3D renderer [pdf]](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 14:04:59](https://news.ycombinator.com/item?id=40180034) - [List of people offering their time for free to have a \"coffee chat\"](https://github.com/fharper/coffeechat)
