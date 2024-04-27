@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-27, 00:16:23](https://news.ycombinator.com/item?id=40175800) - [CATL's 1,000-km LFP EV battery super-charges at 1 km/SEC](https://newatlas.com/automotive/catl-shenxing-plus-1000-km-lfp-battery/)
+* [2024-04-27, 00:46:49](https://news.ycombinator.com/item?id=40176031) - [How Not to Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
+* [2024-04-27, 00:16:23](https://news.ycombinator.com/item?id=40175800) - [CATL's 1,000-km LFP EV battery super-charges at 1 km/sec](https://newatlas.com/automotive/catl-shenxing-plus-1000-km-lfp-battery/)
 * [2024-04-26, 22:42:43](https://news.ycombinator.com/item?id=40175122) - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
 * [2024-04-26, 22:32:16](https://news.ycombinator.com/item?id=40175039) - [British Columbia to recriminalize use of drugs in public spaces](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245)
-* [2024-04-26, 22:29:20](https://news.ycombinator.com/item?id=40175013) - [A New Sweetener Has Joined the Ranks of Aspartame and Stevia](https://www.theatlantic.com/health/archive/2024/04/sugar-substitutes-brazzein-stevia-aspartame/678192/)
 * [2024-04-26, 22:19:12](https://news.ycombinator.com/item?id=40174943) - [Relational Graph Convolutional Networks for Sentiment Analysis](https://arxiv.org/abs/2404.13079)
-* [2024-04-26, 22:16:42](https://news.ycombinator.com/item?id=40174921) - [Cleaning Up Speech Recognition with GPT](https://blog.nawaz.org/posts/2023/Dec/cleaning-up-speech-recognition-with-gpt/)
 * [2024-04-26, 22:15:51](https://news.ycombinator.com/item?id=40174912) - [Searchformer: Beyond a* Better Planning with Transformers via Search Dynamics](https://github.com/facebookresearch/searchformer)
 * [2024-04-26, 21:18:37](https://news.ycombinator.com/item?id=40174424) - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
 * [2024-04-26, 21:09:14](https://news.ycombinator.com/item?id=40174316) - [Factorio – Statistics improvements, Linux adventures](https://factorio.com/blog/post/fff-408)
@@ -29,6 +28,7 @@
 * [2024-04-25, 18:43:10](https://news.ycombinator.com/item?id=40161421) - [IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
 * [2024-04-25, 12:25:39](https://news.ycombinator.com/item?id=40156642) - [Cost of developing new drugs may be lower than industry claims: trial](https://www.theguardian.com/global-development/2024/apr/25/cost-of-developing-new-drugs-may-be-far-lower-than-industry-claims-trial-reveals)
 * [2024-04-25, 06:15:28](https://news.ycombinator.com/item?id=40154053) - [Tiny rubber spheres used to make a programmable fluid](https://arstechnica.com/science/2024/04/metafluid-gives-robotic-gripper-a-soft-touch/)
+* [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)
 * [2024-04-24, 17:48:14](https://news.ycombinator.com/item?id=40147507) - [Funeral Food](https://currentpub.com/2024/04/22/funeral-food/)
 
 ## [Archives](archives/index.md)
