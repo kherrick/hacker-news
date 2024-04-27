@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 18:30:12](https://news.ycombinator.com/item?id=40182270) - [Federal regulators accuse Amazon executives of deleting messages](https://www.washingtonpost.com/technology/2024/04/26/amazon-ftc-messages-deleted-bezos/)
 * [2024-04-27, 17:42:34](https://news.ycombinator.com/item?id=40181896) - [ArcaneDoor – New espionage-focused campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
 * [2024-04-27, 17:08:20](https://news.ycombinator.com/item?id=40181612) - [Einsum in 40 Lines of Python](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
 * [2024-04-27, 17:00:05](https://news.ycombinator.com/item?id=40181522) - [Fathom AI Notetaker (YC W21) is hiring a Back end Engineer (remote)](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
@@ -19,7 +20,6 @@
 * [2024-04-27, 10:01:03](https://news.ycombinator.com/item?id=40178754) - [Large language models as research assistants](https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants/)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
-* [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 * [2024-04-27, 04:16:58](https://news.ycombinator.com/item?id=40177171) - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys? (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-27, 02:27:58](https://news.ycombinator.com/item?id=40176597) - [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)

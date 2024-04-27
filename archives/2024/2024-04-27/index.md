@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 18:30:12](https://news.ycombinator.com/item?id=40182270) - [Federal regulators accuse Amazon executives of deleting messages](https://www.washingtonpost.com/technology/2024/04/26/amazon-ftc-messages-deleted-bezos/)
 * [2024-04-27, 17:44:41](https://news.ycombinator.com/item?id=40181918) - [Regulator reports 'critical safety gap' in Tesla Autopilot linked to crashes](https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html)
 * [2024-04-27, 17:42:34](https://news.ycombinator.com/item?id=40181896) - [ArcaneDoor – New espionage-focused campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
 * [2024-04-27, 17:10:25](https://news.ycombinator.com/item?id=40181632) - [Show HN: Open-source script to get your site indexed on Bing, Yandex, and others](https://github.com/mxmzb/indexnow-indexing-script)
