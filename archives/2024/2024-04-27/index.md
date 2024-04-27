@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
 * [2024-04-27, 14:45:44](https://news.ycombinator.com/item?id=40180346) - [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
+* [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Gary Killdall, creator of CP/M, wrote Pixar's original 3D renderer [pdf]](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 14:04:59](https://news.ycombinator.com/item?id=40180034) - [List of people offering their time for free to have a \"coffee chat\"](https://github.com/fharper/coffeechat)
 * [2024-04-27, 12:58:11](https://news.ycombinator.com/item?id=40179619) - [Ubuntu Desktop 24.04 LTS: Noble Numbat](https://ubuntu.com/blog/ubuntu-desktop-24-04-noble-numbat-deep-dive)
 * [2024-04-27, 12:54:14](https://news.ycombinator.com/item?id=40179585) - [NHTSA Tesla Report (2024) [pdf]](https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf)
