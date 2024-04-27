@@ -91,6 +91,7 @@
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 10:39:23](https://news.ycombinator.com/item?id=40167730) - [\"90% of Java services have critical or security vulnerabilities\"](https://vived.substack.com/p/90-of-java-services-have-critical)
 * [2024-04-26, 09:32:16](https://news.ycombinator.com/item?id=40167406) - [Show HN: Mendeleej.com - an Interactive Periodic Table](http://mendeleej.com/)
+* [2024-04-26, 09:28:35](https://news.ycombinator.com/item?id=40167390) - [Jeff Bezos Rowing Boat [video]](https://www.youtube.com/watch?v=VGhcSupkNs8&ab_channel=BobbyFingers)
 * [2024-04-26, 09:13:13](https://news.ycombinator.com/item?id=40167315) - [H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/)
 * [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
 * [2024-04-26, 08:44:43](https://news.ycombinator.com/item?id=40167163) - [I Rewired My Brain to Become Fluent in Math (2014)](https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/)
