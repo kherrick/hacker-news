@@ -27,7 +27,7 @@
 * [2024-04-27, 05:35:32](https://news.ycombinator.com/item?id=40177547) - [Thumb Nation: How We Learned to Play with Our Fingers](https://thehistoryofhowweplay.wordpress.com/2024/04/26/thumb-nation-how-we-learned-to-play-with-our-fingers/)
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-26, 21:28:39](https://news.ycombinator.com/item?id=40174516) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
-* [2024-04-25, 20:58:27](https://news.ycombinator.com/item?id=40162931) - [The Sound of Software](https://www.notboring.software/words/the-sound-of-software)
+* [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [A website dedicated for sharing Movie scenes with Timestamps - scenestamps.com](https://news.ycombinator.com/item?id=40166516)
 * [2024-04-25, 18:21:13](https://news.ycombinator.com/item?id=40161165) - [A place I've never been to. A place I'll never go](https://jacobfilipp.com/place/)
 * [2024-04-25, 11:38:48](https://news.ycombinator.com/item?id=40156205) - [Ask HN: Any fun ways to learn Emacs?](https://news.ycombinator.com/item?id=40156205)
 

@@ -101,6 +101,7 @@
 * [2024-04-26, 07:17:24](https://news.ycombinator.com/item?id=40166690) - [OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
 * [2024-04-26, 07:13:27](https://news.ycombinator.com/item?id=40166670) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-04-26, 07:09:40](https://news.ycombinator.com/item?id=40166653) - [Minister defends arrest power for people feared to commit a hate crime in future](https://www.theglobeandmail.com/politics/article-justice-minister-defends-house-arrest-power-for-people-feared-to/)
+* [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [A website dedicated for sharing Movie scenes with Timestamps - scenestamps.com](https://news.ycombinator.com/item?id=40166516)
 * [2024-04-26, 06:29:22](https://news.ycombinator.com/item?id=40166468) - [It's Been a Year and Georgia.gov Continues to Be Hacked](https://boehs.org/node/medicicnes)
 * [2024-04-26, 05:46:20](https://news.ycombinator.com/item?id=40166268) - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
 * [2024-04-26, 04:50:23](https://news.ycombinator.com/item?id=40166039) - [What's new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/)
