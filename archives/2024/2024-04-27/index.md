@@ -9,6 +9,8 @@
 * [2024-04-27, 15:51:26](https://news.ycombinator.com/item?id=40180890) - [Scientists Have Studied the Mysterious Behavior of Cats Sitting on Squares(2021)](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
+* [2024-04-27, 15:31:25](https://news.ycombinator.com/item?id=40180749) - [Private space-junk probe snaps historic photo of discarded rocket in orbit](https://www.space.com/astroscale-adras-j-space-junk-rendezvous-mission-photo)
+* [2024-04-27, 15:07:37](https://news.ycombinator.com/item?id=40180537) - [Python Gotcha: strip, lstrip, rstrip can remove more than expected](https://andrewwegner.com/python-gotcha-strip-functions-unexpected-behavior.html)
 * [2024-04-27, 15:05:30](https://news.ycombinator.com/item?id=40180516) - [The formation and revision of intuitions (2023) [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
 * [2024-04-27, 14:45:44](https://news.ycombinator.com/item?id=40180346) - [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
 * [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Gary Killdall, creator of CP/M, wrote Pixar's original 3D renderer [pdf]](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)

@@ -4,6 +4,8 @@
 * [2024-04-27, 15:51:26](https://news.ycombinator.com/item?id=40180890) - [Scientists Have Studied the Mysterious Behavior of Cats Sitting on Squares(2021)](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
+* [2024-04-27, 15:31:25](https://news.ycombinator.com/item?id=40180749) - [Private space-junk probe snaps historic photo of discarded rocket in orbit](https://www.space.com/astroscale-adras-j-space-junk-rendezvous-mission-photo)
+* [2024-04-27, 15:07:37](https://news.ycombinator.com/item?id=40180537) - [Python Gotcha: strip, lstrip, rstrip can remove more than expected](https://andrewwegner.com/python-gotcha-strip-functions-unexpected-behavior.html)
 * [2024-04-27, 15:05:30](https://news.ycombinator.com/item?id=40180516) - [The formation and revision of intuitions (2023) [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
 * [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Oral History of Brian L. Halla [pdf] (2013)](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
@@ -11,7 +13,6 @@
 * [2024-04-27, 12:11:52](https://news.ycombinator.com/item?id=40179340) - [WebSim, WorldSim and the Summer of Simulative AI](https://www.latent.space/p/sim-ai)
 * [2024-04-27, 11:16:44](https://news.ycombinator.com/item?id=40179097) - [How a mysterious star could help the search for extraterrestrial life](https://www.theguardian.com/science/2024/apr/27/is-it-aliens-how-a-mysterious-star-could-help-the-search-for-extraterrestrial-life)
 * [2024-04-27, 11:00:57](https://news.ycombinator.com/item?id=40179015) - [Planes in 3D Space](https://alexharri.com/blog/planes)
-* [2024-04-27, 10:01:03](https://news.ycombinator.com/item?id=40178754) - [Large language models as research assistants](https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants/)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 * [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
@@ -29,7 +30,6 @@
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 18:21:13](https://news.ycombinator.com/item?id=40161165) - [A place I've never been to. A place I'll never go](https://jacobfilipp.com/place/)
 * [2024-04-25, 16:42:24](https://news.ycombinator.com/item?id=40159774) - [Organised Atoms at Flamm Festival, Redruth (2023)](https://thentrythis.org/notes/2023/11/17/organised-atoms-at-flamm-festival-redruth/)
-* [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)
 
 ## [Archives](archives/index.md)
 
