@@ -12,6 +12,7 @@
 * [2024-04-27, 19:22:23](https://news.ycombinator.com/item?id=40182651) - [Microsoft \"doubling down\" on cybersecurity](https://www.axios.com/2024/04/26/microsoft-earnings-cybersecurity-hacks)
 * [2024-04-27, 18:30:19](https://news.ycombinator.com/item?id=40182271) - [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
 * [2024-04-27, 18:30:12](https://news.ycombinator.com/item?id=40182270) - [Federal regulators accuse Amazon executives of deleting messages](https://www.washingtonpost.com/technology/2024/04/26/amazon-ftc-messages-deleted-bezos/)
+* [2024-04-27, 18:28:58](https://news.ycombinator.com/item?id=40182265) - [Intel used to dominate the U.S. chip industry, now struggling to stay relevant](https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html)
 * [2024-04-27, 18:27:13](https://news.ycombinator.com/item?id=40182251) - [VMware Outsourcing Their Support](https://rubenerd.com/vmware-outsourcing-their-support/)
 * [2024-04-27, 18:14:42](https://news.ycombinator.com/item?id=40182145) - [Ask HN: In the event of an apocalypse, how long until we could produce CPUs?](https://news.ycombinator.com/item?id=40182145)
 * [2024-04-27, 18:01:51](https://news.ycombinator.com/item?id=40182037) - [The Beginning of the End for Terraform?](https://medium.com/netpremacy-global-services/the-beginning-of-the-end-for-terraform-cfffcd2c5420)
