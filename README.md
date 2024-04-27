@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-27, 02:15:38](https://news.ycombinator.com/item?id=40176532) - [Fyrox Game Engine – a Rust game engine with a real editor and scripting system](https://fyrox.rs/)
-* [2024-04-27, 00:36:03](https://news.ycombinator.com/item?id=40175942) - [A hydrocarbon molecule as supplier and energy storage solution for solar energy](https://phys.org/news/2024-04-hydrocarbon-molecule-supplier-energy-storage.html)
+* [2024-04-27, 02:15:38](https://news.ycombinator.com/item?id=40176532) - [Fyrox Game Engine](https://fyrox.rs/)
+* [2024-04-27, 01:04:58](https://news.ycombinator.com/item?id=40176130) - [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
 * [2024-04-26, 22:42:43](https://news.ycombinator.com/item?id=40175122) - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
 * [2024-04-26, 22:39:22](https://news.ycombinator.com/item?id=40175087) - [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
 * [2024-04-26, 22:19:12](https://news.ycombinator.com/item?id=40174943) - [Relational Graph Convolutional Networks for Sentiment Analysis](https://arxiv.org/abs/2404.13079)
