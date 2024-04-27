@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-04-26, 23:31:37",
-      "https://news.ycombinator.com/item?id=40175480"
+      "2024-04-27, 00:16:23",
+      "https://news.ycombinator.com/item?id=40175800"
     ],
     [
-      "Nvidia CEO hand-delivers fastest AI system to OpenAI",
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-hand-delivers-worlds-fastest-ai-system-to-openai-again-first-dgx-h200-given-to-sam-altman-and-greg-brockman"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 23:26:18",
-      "https://news.ycombinator.com/item?id=40175446"
-    ],
-    [
-      "Tesla Autopilot feature was involved in 13 fatal crashes, US regulator says",
-      "https://www.theguardian.com/technology/2024/apr/26/tesla-autopilot-fatal-crash"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 23:19:12",
-      "https://news.ycombinator.com/item?id=40175395"
-    ],
-    [
-      "Discord Shuts Down 'Spy Pet' Bots That Scraped, Sold User Messages",
-      "https://www.404media.co/discord-shuts-down-spy-pet-bots-that-scraped-sold-user-messages/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 22:46:45",
-      "https://news.ycombinator.com/item?id=40175158"
-    ],
-    [
-      "Apple's OpenAI Talks Intensify as It Seeks to Add AI Features",
-      "https://www.bloomberg.com/news/articles/2024-04-26/apple-intensifies-talks-with-openai-for-iphone-generative-ai-features"
+      "CATL's 1,000-km LFP EV battery super-charges at 1 km/SEC",
+      "https://newatlas.com/automotive/catl-shenxing-plus-1000-km-lfp-battery/"
     ]
   ],
   [
@@ -61,6 +31,26 @@
   ],
   [
     [
+      "2024-04-26, 22:29:20",
+      "https://news.ycombinator.com/item?id=40175013"
+    ],
+    [
+      "A New Sweetener Has Joined the Ranks of Aspartame and Stevia",
+      "https://www.theatlantic.com/health/archive/2024/04/sugar-substitutes-brazzein-stevia-aspartame/678192/"
+    ]
+  ],
+  [
+    [
+      "2024-04-26, 22:19:12",
+      "https://news.ycombinator.com/item?id=40174943"
+    ],
+    [
+      "Relational Graph Convolutional Networks for Sentiment Analysis",
+      "https://arxiv.org/abs/2404.13079"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 22:16:42",
       "https://news.ycombinator.com/item?id=40174921"
     ],
@@ -71,12 +61,12 @@
   ],
   [
     [
-      "2024-04-26, 21:54:36",
-      "https://news.ycombinator.com/item?id=40174747"
+      "2024-04-26, 22:15:51",
+      "https://news.ycombinator.com/item?id=40174912"
     ],
     [
-      "The Landscape of Machine Learning on ArXiv",
-      "https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html"
+      "Searchformer: Beyond a* Better Planning with Transformers via Search Dynamics",
+      "https://github.com/facebookresearch/searchformer"
     ]
   ],
   [
@@ -181,6 +171,26 @@
   ],
   [
     [
+      "2024-04-26, 15:49:54",
+      "https://news.ycombinator.com/item?id=40170955"
+    ],
+    [
+      "Solar power is changing life deep in the Amazon",
+      "https://www.washingtonpost.com/climate-solutions/interactive/2024/amazon-solar-panels-ecuador/"
+    ]
+  ],
+  [
+    [
+      "2024-04-26, 14:31:42",
+      "https://news.ycombinator.com/item?id=40169863"
+    ],
+    [
+      "The follow lie, and why it's worse than ever",
+      "https://12challenges.substack.com/p/the-follow-lie-and-why-its-worse"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 12:23:15",
       "https://news.ycombinator.com/item?id=40168519"
     ],
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2024-04-26, 11:06:09",
+      "https://news.ycombinator.com/item?id=40167905"
+    ],
+    [
+      "Cult of the Dead Cow – Veilid (2023)",
+      "https://cultdeadcow.com/tools/veilid.html"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 10:41:05",
       "https://news.ycombinator.com/item?id=40167742"
     ],
     [
       "Pharo 12",
       "https://pharo.org/news/2024-04-26-pharo12-released.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 08:44:43",
-      "https://news.ycombinator.com/item?id=40167163"
-    ],
-    [
-      "I rewired my brain to become fluent in math (2014)",
-      "https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Funeral Food",
       "https://currentpub.com/2024/04/22/funeral-food/"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 12:56:40",
-      "https://news.ycombinator.com/item?id=40143800"
-    ],
-    [
-      "Removing Reflections from RAW Photos",
-      "https://arxiv.org/abs/2404.14414"
     ]
   ]
 ]
