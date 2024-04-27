@@ -22,6 +22,7 @@
 * [2024-04-25, 21:13:52](https://news.ycombinator.com/item?id=40163104) - [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
 * [2024-04-25, 21:01:30](https://news.ycombinator.com/item?id=40162976) - [Amazon Workdocs End of Life](https://docs.aws.amazon.com/workdocs/latest/userguide/what_is.html)
 * [2024-04-25, 21:00:50](https://news.ycombinator.com/item?id=40162961) - [Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-04-25, 20:58:27](https://news.ycombinator.com/item?id=40162931) - [The Sound of Software](https://www.notboring.software/words/the-sound-of-software)
 * [2024-04-25, 20:58:21](https://news.ycombinator.com/item?id=40162930) - [Cease labeling recursion as challenging for students](https://mabelcor.substack.com/p/cease-labeling-recursion-as-challenging)
 * [2024-04-25, 20:42:24](https://news.ycombinator.com/item?id=40162747) - [A Response to \"Have Single-Page Apps Ruined the Web?\" (2021)](https://htmx.org/essays/a-response-to-rich-harris/)
 * [2024-04-25, 20:38:53](https://news.ycombinator.com/item?id=40162699) - [Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
