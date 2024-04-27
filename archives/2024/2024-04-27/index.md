@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
 * [2024-04-27, 12:01:03](https://news.ycombinator.com/item?id=40179295) - [Sweep (YC S23) is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
+* [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 10:58:02](https://news.ycombinator.com/item?id=40179002) - [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 09:33:08](https://news.ycombinator.com/item?id=40178629) - [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
@@ -19,6 +20,7 @@
 * [2024-04-27, 03:22:44](https://news.ycombinator.com/item?id=40176846) - [Apple cuts 2024 and 2025 Vision Pro shipment forecasts](https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930)
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 * [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a big flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
+* [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to Scrape like the Big Boys? (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-27, 02:34:11](https://news.ycombinator.com/item?id=40176637) - [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
 * [2024-04-27, 02:32:12](https://news.ycombinator.com/item?id=40176625) - [Show HN: Free AI-Powered Resume and Cover Letter Maker](https://www.bange.io/)
 * [2024-04-27, 02:27:58](https://news.ycombinator.com/item?id=40176597) - [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
