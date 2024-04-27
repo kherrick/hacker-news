@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-27, 07:44:46](https://news.ycombinator.com/item?id=40178121) - [I Quit My Job](https://ashlybq.substack.com/p/i-quit-my-job)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [The First Website](https://info.cern.ch/hypertext/WWW/TheProject.html)
 * [2024-04-27, 07:00:43](https://news.ycombinator.com/item?id=40177904) - [Infracost (YC W21) is hiring senior software engineers](https://infracost.io/join-the-team)
 * [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
@@ -28,6 +27,7 @@
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 18:43:10](https://news.ycombinator.com/item?id=40161421) - [IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
 * [2024-04-25, 16:42:24](https://news.ycombinator.com/item?id=40159774) - [Organised Atoms at Flamm Festival, Redruth (2023)](https://thentrythis.org/notes/2023/11/17/organised-atoms-at-flamm-festival-redruth/)
+* [2024-04-25, 12:11:28](https://news.ycombinator.com/item?id=40156508) - [Direct-Style Effects Explained](https://www.inner-product.com/posts/direct-style-effects/)
 * [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)
 * [2024-04-25, 05:44:02](https://news.ycombinator.com/item?id=40153863) - [Camaraderie between two soldier poets](https://lithub.com/how-wilfred-owen-and-siegfried-sassoon-forged-a-literary-and-romantic-bond/)
 
