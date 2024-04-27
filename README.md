@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 07:00:43](https://news.ycombinator.com/item?id=40177904) - [Infracost (YC W21) is hiring senior software engineers](https://infracost.io/join-the-team)
 * [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 * [2024-04-27, 04:16:58](https://news.ycombinator.com/item?id=40177171) - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
 * [2024-04-27, 03:31:15](https://news.ycombinator.com/item?id=40176908) - [Software Supply Chain Security](https://www.devicu.com/blog/software-supply-chan-security)
@@ -15,7 +16,6 @@
 * [2024-04-26, 22:19:12](https://news.ycombinator.com/item?id=40174943) - [Relational Graph Convolutional Networks for Sentiment Analysis](https://arxiv.org/abs/2404.13079)
 * [2024-04-26, 22:15:51](https://news.ycombinator.com/item?id=40174912) - [Searchformer: Beyond A* – Better planning with transformers via search dynamics](https://github.com/facebookresearch/searchformer)
 * [2024-04-26, 21:18:37](https://news.ycombinator.com/item?id=40174424) - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
-* [2024-04-26, 21:01:02](https://news.ycombinator.com/item?id=40174232) - [Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-04-26, 20:47:38](https://news.ycombinator.com/item?id=40174087) - [Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 * [2024-04-26, 19:38:45](https://news.ycombinator.com/item?id=40173237) - [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
 * [2024-04-26, 17:45:04](https://news.ycombinator.com/item?id=40172161) - [Camus, Albert and the Anarchists (2007)](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
