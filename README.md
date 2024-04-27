@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 * [2024-04-27, 04:16:58](https://news.ycombinator.com/item?id=40177171) - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
-* [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
 * [2024-04-27, 02:34:11](https://news.ycombinator.com/item?id=40176637) - [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
 * [2024-04-27, 02:27:58](https://news.ycombinator.com/item?id=40176597) - [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
 * [2024-04-27, 02:00:35](https://news.ycombinator.com/item?id=40176441) - [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
