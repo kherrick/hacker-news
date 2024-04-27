@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a big flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
 * [2024-04-27, 02:15:38](https://news.ycombinator.com/item?id=40176532) - [Fyrox Game Engine – a Rust game engine with a real editor and scripting system](https://fyrox.rs/)
 * [2024-04-27, 01:04:58](https://news.ycombinator.com/item?id=40176130) - [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
 * [2024-04-27, 00:46:49](https://news.ycombinator.com/item?id=40176031) - [How Not to Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
