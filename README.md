@@ -12,7 +12,6 @@
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 * [2024-04-27, 02:27:58](https://news.ycombinator.com/item?id=40176597) - [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
 * [2024-04-27, 02:00:35](https://news.ycombinator.com/item?id=40176441) - [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
-* [2024-04-27, 01:13:18](https://news.ycombinator.com/item?id=40176180) - [The Presidential Nuclear \"Football\" from Eisenhower to George W. Bush](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-07-18/presidential-nuclear-football-eisenhower-george-w-bush)
 * [2024-04-27, 01:04:58](https://news.ycombinator.com/item?id=40176130) - [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
 * [2024-04-27, 00:06:17](https://news.ycombinator.com/item?id=40175731) - [12to11 – run Wayland applications on an X server](https://sourceforge.net/p/twelveto11/code/HEAD/tree/README)
 * [2024-04-26, 22:39:22](https://news.ycombinator.com/item?id=40175087) - [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
@@ -30,6 +29,7 @@
 * [2024-04-25, 16:42:24](https://news.ycombinator.com/item?id=40159774) - [Organised Atoms at Flamm Festival, Redruth (2023)](https://thentrythis.org/notes/2023/11/17/organised-atoms-at-flamm-festival-redruth/)
 * [2024-04-25, 12:11:28](https://news.ycombinator.com/item?id=40156508) - [Direct-Style Effects Explained](https://www.inner-product.com/posts/direct-style-effects/)
 * [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)
+* [2024-04-25, 05:44:02](https://news.ycombinator.com/item?id=40153863) - [Camaraderie between two soldier poets](https://lithub.com/how-wilfred-owen-and-siegfried-sassoon-forged-a-literary-and-romantic-bond/)
 
 ## [Archives](archives/index.md)
 
