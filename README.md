@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 22:08:37](https://news.ycombinator.com/item?id=40184035) - [Dietary brain health in behavioral, neuroimaging, biochemical and other analyses](https://www.nature.com/articles/s44220-024-00226-0)
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
 * [2024-04-27, 20:26:41](https://news.ycombinator.com/item?id=40183179) - [FTC says Amazon executives destroyed potential evidence using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
@@ -24,7 +25,6 @@
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 * [2024-04-27, 05:35:32](https://news.ycombinator.com/item?id=40177547) - [Thumb Nation: How We Learned to Play with Our Fingers](https://thehistoryofhowweplay.wordpress.com/2024/04/26/thumb-nation-how-we-learned-to-play-with-our-fingers/)
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
-* [2024-04-26, 21:28:39](https://news.ycombinator.com/item?id=40174516) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 * [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [A website dedicated for sharing Movie scenes with Timestamps - scenestamps.com](https://news.ycombinator.com/item?id=40166516)
 * [2024-04-26, 05:04:51](https://news.ycombinator.com/item?id=40166099) - [The importance of an ordinary space in a Unix shell command line](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellImportanceOfASpace)
 * [2024-04-25, 20:58:27](https://news.ycombinator.com/item?id=40162931) - [The Sound of Software](https://www.notboring.software/words/the-sound-of-software)
