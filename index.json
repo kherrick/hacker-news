@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-04-27, 00:46:49",
+      "https://news.ycombinator.com/item?id=40176031"
+    ],
+    [
+      "How Not to Release Historic Source Code",
+      "https://www.os2museum.com/wp/how-not-to-release-historic-source-code/"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 00:16:23",
       "https://news.ycombinator.com/item?id=40175800"
     ],
     [
-      "CATL's 1,000-km LFP EV battery super-charges at 1 km/SEC",
+      "CATL's 1,000-km LFP EV battery super-charges at 1 km/sec",
       "https://newatlas.com/automotive/catl-shenxing-plus-1000-km-lfp-battery/"
     ]
   ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2024-04-26, 22:29:20",
-      "https://news.ycombinator.com/item?id=40175013"
-    ],
-    [
-      "A New Sweetener Has Joined the Ranks of Aspartame and Stevia",
-      "https://www.theatlantic.com/health/archive/2024/04/sugar-substitutes-brazzein-stevia-aspartame/678192/"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 22:19:12",
       "https://news.ycombinator.com/item?id=40174943"
     ],
     [
       "Relational Graph Convolutional Networks for Sentiment Analysis",
       "https://arxiv.org/abs/2404.13079"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 22:16:42",
-      "https://news.ycombinator.com/item?id=40174921"
-    ],
-    [
-      "Cleaning Up Speech Recognition with GPT",
-      "https://blog.nawaz.org/posts/2023/Dec/cleaning-up-speech-recognition-with-gpt/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Tiny rubber spheres used to make a programmable fluid",
       "https://arstechnica.com/science/2024/04/metafluid-gives-robotic-gripper-a-soft-touch/"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 06:09:58",
+      "https://news.ycombinator.com/item?id=40154024"
+    ],
+    [
+      "TIS-100: Tessellated Intelligence System",
+      "https://www.zachtronics.com/tis-100/"
     ]
   ],
   [
