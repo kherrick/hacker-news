@@ -11,6 +11,7 @@
 * [2024-04-27, 12:11:52](https://news.ycombinator.com/item?id=40179340) - [WebSim, WorldSim and the Summer of Simulative AI](https://www.latent.space/p/sim-ai)
 * [2024-04-27, 12:01:03](https://news.ycombinator.com/item?id=40179295) - [Sweep (YC S23) is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
 * [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
+* [2024-04-27, 11:46:37](https://news.ycombinator.com/item?id=40179220) - [Predicted 25% Drop in Search Volume Remains Unclear](https://datos.live/predicted-25-drop-in-search-volume-remains-unclear/)
 * [2024-04-27, 11:16:44](https://news.ycombinator.com/item?id=40179097) - [How a mysterious star could help the search for extraterrestrial life](https://www.theguardian.com/science/2024/apr/27/is-it-aliens-how-a-mysterious-star-could-help-the-search-for-extraterrestrial-life)
 * [2024-04-27, 11:00:57](https://news.ycombinator.com/item?id=40179015) - [Planes in 3D Space](https://alexharri.com/blog/planes)
 * [2024-04-27, 10:58:02](https://news.ycombinator.com/item?id=40179002) - [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)
