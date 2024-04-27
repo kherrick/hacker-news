@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 12:58:11](https://news.ycombinator.com/item?id=40179619) - [Ubuntu Desktop 24.04 LTS: Noble Numbat](https://ubuntu.com/blog/ubuntu-desktop-24-04-noble-numbat-deep-dive)
 * [2024-04-27, 12:54:14](https://news.ycombinator.com/item?id=40179585) - [NHTSA Tesla Report (2024) [pdf]](https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 12:20:29](https://news.ycombinator.com/item?id=40179398) - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
@@ -21,7 +22,6 @@
 * [2024-04-26, 22:15:51](https://news.ycombinator.com/item?id=40174912) - [Searchformer: Beyond A* – Better planning with transformers via search dynamics](https://github.com/facebookresearch/searchformer)
 * [2024-04-26, 19:38:45](https://news.ycombinator.com/item?id=40173237) - [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
-* [2024-04-26, 16:23:04](https://news.ycombinator.com/item?id=40171216) - [Univer: Open-Source Alternative for Google Sheets, Slides, Docs](https://github.com/dream-num/univer/)
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A shattered dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)

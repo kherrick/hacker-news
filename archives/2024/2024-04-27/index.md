@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 12:58:11](https://news.ycombinator.com/item?id=40179619) - [Ubuntu Desktop 24.04 LTS: Noble Numbat](https://ubuntu.com/blog/ubuntu-desktop-24-04-noble-numbat-deep-dive)
 * [2024-04-27, 12:54:14](https://news.ycombinator.com/item?id=40179585) - [NHTSA Tesla Report (2024) [pdf]](https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 12:20:29](https://news.ycombinator.com/item?id=40179398) - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
