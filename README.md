@@ -2,7 +2,7 @@
 
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
 * [2024-04-27, 20:44:31](https://news.ycombinator.com/item?id=40183345) - [A Paradigm Shift in RAM](https://www.popularmechanics.com/technology/a60527526/mram-discovery/)
-* [2024-04-27, 20:26:10](https://news.ycombinator.com/item?id=40183174) - [Hertz is ditching even more electric cars](https://qz.com/hertz-ev-sales-tesla-rental-cars-1851438100)
+* [2024-04-27, 20:26:41](https://news.ycombinator.com/item?id=40183179) - [FTC says Amazon executives destroyed potential evidence using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
 * [2024-04-27, 19:28:26](https://news.ycombinator.com/item?id=40182695) - [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
 * [2024-04-27, 18:30:19](https://news.ycombinator.com/item?id=40182271) - [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
@@ -27,9 +27,9 @@
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-26, 21:28:39](https://news.ycombinator.com/item?id=40174516) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 * [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [A website dedicated for sharing Movie scenes with Timestamps - scenestamps.com](https://news.ycombinator.com/item?id=40166516)
+* [2024-04-25, 20:58:27](https://news.ycombinator.com/item?id=40162931) - [The Sound of Software](https://www.notboring.software/words/the-sound-of-software)
 * [2024-04-25, 18:21:13](https://news.ycombinator.com/item?id=40161165) - [A place I've never been to. A place I'll never go](https://jacobfilipp.com/place/)
 * [2024-04-25, 11:38:48](https://news.ycombinator.com/item?id=40156205) - [Ask HN: Any fun ways to learn Emacs?](https://news.ycombinator.com/item?id=40156205)
-* [2024-04-25, 00:21:32](https://news.ycombinator.com/item?id=40151650) - [Twilight of the Age of Steam, Part 2: Petroleum and After](https://technicshistory.com/2024/04/25/twilight-of-the-age-of-steam-part-2-petroleum-and-after/)
 
 ## [Archives](archives/index.md)
 

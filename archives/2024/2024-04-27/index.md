@@ -6,6 +6,7 @@
 
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
 * [2024-04-27, 20:44:31](https://news.ycombinator.com/item?id=40183345) - [A Paradigm Shift in RAM](https://www.popularmechanics.com/technology/a60527526/mram-discovery/)
+* [2024-04-27, 20:26:41](https://news.ycombinator.com/item?id=40183179) - [FTC says Amazon executives destroyed potential evidence using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
 * [2024-04-27, 20:26:10](https://news.ycombinator.com/item?id=40183174) - [Hertz is ditching even more electric cars](https://qz.com/hertz-ev-sales-tesla-rental-cars-1851438100)
 * [2024-04-27, 20:21:45](https://news.ycombinator.com/item?id=40183125) - [Everything Google's Python team were responsible for](https://simonwillison.net/2024/Apr/27/everything-googles-python-team-were-responsible-for/)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
