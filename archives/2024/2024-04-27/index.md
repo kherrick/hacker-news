@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
 * [2024-04-27, 17:44:41](https://news.ycombinator.com/item?id=40181918) - [Regulator reports 'critical safety gap' in Tesla Autopilot linked to crashes](https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html)
+* [2024-04-27, 17:42:34](https://news.ycombinator.com/item?id=40181896) - [ArcaneDoor – New espionage-focused campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
 * [2024-04-27, 17:10:25](https://news.ycombinator.com/item?id=40181632) - [Show HN: Open-source script to get your site indexed on Bing, Yandex, and others](https://github.com/mxmzb/indexnow-indexing-script)
 * [2024-04-27, 17:08:20](https://news.ycombinator.com/item?id=40181612) - [Einsum in 40 Lines of Python](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
 * [2024-04-27, 17:00:05](https://news.ycombinator.com/item?id=40181522) - [Fathom AI Notetaker (YC W21) is hiring a Back end Engineer (remote)](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
 * [2024-04-27, 16:40:06](https://news.ycombinator.com/item?id=40181306) - [Show HN: Cognita – open-source RAG framework for modular applications](https://github.com/truefoundry/cognita)
 * [2024-04-27, 16:05:45](https://news.ycombinator.com/item?id=40181000) - [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
+* [2024-04-27, 15:57:12](https://news.ycombinator.com/item?id=40180923) - [Stop Using Your Face or Thumb to Unlock Your Phone](https://gizmodo.com/stop-using-your-face-or-thumb-to-unlock-your-phone-1851438205)
 * [2024-04-27, 15:51:26](https://news.ycombinator.com/item?id=40180890) - [Scientists Have Studied the Mysterious Behavior of Cats Sitting on Squares(2021)](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
