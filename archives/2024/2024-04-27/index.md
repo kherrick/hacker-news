@@ -7,6 +7,7 @@
 * [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 * [2024-04-27, 04:16:58](https://news.ycombinator.com/item?id=40177171) - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
 * [2024-04-27, 04:10:24](https://news.ycombinator.com/item?id=40177142) - [Getting worried about bird flu](https://coredump3.blogspot.com/2024/04/im-getting-worried-about-bird-flu.html)
+* [2024-04-27, 03:31:15](https://news.ycombinator.com/item?id=40176908) - [Software Supply Chain Security](https://www.devicu.com/blog/software-supply-chan-security)
 * [2024-04-27, 03:22:44](https://news.ycombinator.com/item?id=40176846) - [Apple cuts 2024 and 2025 Vision Pro shipment forecasts](https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930)
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 * [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a big flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
