@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 10:58:02](https://news.ycombinator.com/item?id=40179002) - [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 09:33:08](https://news.ycombinator.com/item?id=40178629) - [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
@@ -25,7 +26,6 @@
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A shattered dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
-* [2024-04-25, 18:43:10](https://news.ycombinator.com/item?id=40161421) - [IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
 * [2024-04-25, 16:42:24](https://news.ycombinator.com/item?id=40159774) - [Organised Atoms at Flamm Festival, Redruth (2023)](https://thentrythis.org/notes/2023/11/17/organised-atoms-at-flamm-festival-redruth/)
 * [2024-04-25, 12:11:28](https://news.ycombinator.com/item?id=40156508) - [Direct-Style Effects Explained](https://www.inner-product.com/posts/direct-style-effects/)
 * [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)

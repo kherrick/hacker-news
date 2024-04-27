@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 10:58:02](https://news.ycombinator.com/item?id=40179002) - [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 09:33:08](https://news.ycombinator.com/item?id=40178629) - [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
 * [2024-04-27, 07:44:46](https://news.ycombinator.com/item?id=40178121) - [I Quit My Job](https://ashlybq.substack.com/p/i-quit-my-job)
