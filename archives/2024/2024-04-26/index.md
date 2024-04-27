@@ -18,6 +18,7 @@
 * [2024-04-26, 22:15:51](https://news.ycombinator.com/item?id=40174912) - [Searchformer: Beyond a* Better Planning with Transformers via Search Dynamics](https://github.com/facebookresearch/searchformer)
 * [2024-04-26, 21:54:36](https://news.ycombinator.com/item?id=40174747) - [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
 * [2024-04-26, 21:53:56](https://news.ycombinator.com/item?id=40174739) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.msn.com/en-us/money/markets/ar-AA1nFgrS)
+* [2024-04-26, 21:28:39](https://news.ycombinator.com/item?id=40174516) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 * [2024-04-26, 21:20:43](https://news.ycombinator.com/item?id=40174441) - [Tiny in size, a Cupertino home is selling for big bucks: $1.7M](https://www.latimes.com/california/story/2024-04-19/tiny-cupertino-home-is-selling-for-over-1-7-million)
 * [2024-04-26, 21:18:37](https://news.ycombinator.com/item?id=40174424) - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
 * [2024-04-26, 21:09:14](https://news.ycombinator.com/item?id=40174316) - [Factorio – Statistics improvements, Linux adventures](https://factorio.com/blog/post/fff-408)
