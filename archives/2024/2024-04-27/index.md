@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
+* [2024-04-27, 19:28:26](https://news.ycombinator.com/item?id=40182695) - [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
 * [2024-04-27, 19:22:23](https://news.ycombinator.com/item?id=40182651) - [Microsoft \"doubling down\" on cybersecurity](https://www.axios.com/2024/04/26/microsoft-earnings-cybersecurity-hacks)
 * [2024-04-27, 18:30:19](https://news.ycombinator.com/item?id=40182271) - [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
 * [2024-04-27, 18:30:12](https://news.ycombinator.com/item?id=40182270) - [Federal regulators accuse Amazon executives of deleting messages](https://www.washingtonpost.com/technology/2024/04/26/amazon-ftc-messages-deleted-bezos/)
