@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 * [2024-04-27, 22:15:42](https://news.ycombinator.com/item?id=40184087) - [Dozens of deaths reveal risks of injecting sedatives into police detainees](https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b)
 * [2024-04-27, 21:39:53](https://news.ycombinator.com/item?id=40183817) - [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
@@ -29,7 +30,6 @@
 * [2024-04-26, 05:04:51](https://news.ycombinator.com/item?id=40166099) - [The importance of an ordinary space in a Unix shell command line](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellImportanceOfASpace)
 * [2024-04-25, 20:58:27](https://news.ycombinator.com/item?id=40162931) - [The Sound of Software](https://www.notboring.software/words/the-sound-of-software)
 * [2024-04-25, 18:21:13](https://news.ycombinator.com/item?id=40161165) - [A place I've never been to. A place I'll never go](https://jacobfilipp.com/place/)
-* [2024-04-25, 11:38:48](https://news.ycombinator.com/item?id=40156205) - [Ask HN: Any fun ways to learn Emacs?](https://news.ycombinator.com/item?id=40156205)
 
 ## [Archives](archives/index.md)
 
