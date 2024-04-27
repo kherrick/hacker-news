@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
 * [2024-04-27, 20:26:10](https://news.ycombinator.com/item?id=40183174) - [Hertz is ditching even more electric cars](https://qz.com/hertz-ev-sales-tesla-rental-cars-1851438100)
 * [2024-04-27, 20:21:45](https://news.ycombinator.com/item?id=40183125) - [Everything Google's Python team were responsible for](https://simonwillison.net/2024/Apr/27/everything-googles-python-team-were-responsible-for/)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
@@ -8,7 +9,6 @@
 * [2024-04-27, 18:27:13](https://news.ycombinator.com/item?id=40182251) - [VMware outsourcing their support](https://rubenerd.com/vmware-outsourcing-their-support/)
 * [2024-04-27, 17:42:34](https://news.ycombinator.com/item?id=40181896) - [ArcaneDoor – New campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
 * [2024-04-27, 17:08:20](https://news.ycombinator.com/item?id=40181612) - [Einsum for Tensor Manipulation](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
-* [2024-04-27, 17:00:05](https://news.ycombinator.com/item?id=40181522) - [Fathom AI Notetaker (YC W21) is hiring a Back end Engineer (remote)](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
 * [2024-04-27, 16:40:06](https://news.ycombinator.com/item?id=40181306) - [Show HN: Cognita – open-source RAG framework for modular applications](https://github.com/truefoundry/cognita)
 * [2024-04-27, 16:05:45](https://news.ycombinator.com/item?id=40181000) - [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
 * [2024-04-27, 15:51:26](https://news.ycombinator.com/item?id=40180890) - [Scientists have studied the behavior of cats sitting on squares (2021)](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
