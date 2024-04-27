@@ -17,6 +17,7 @@
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 09:33:08](https://news.ycombinator.com/item?id=40178629) - [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
 * [2024-04-27, 09:23:46](https://news.ycombinator.com/item?id=40178578) - [Why DoorDash fees are so high [pdf]](https://static1.squarespace.com/static/5237604ce4b0e51f969029ae/t/662a9780b43c114bd30bbd5a/1714067329519/Fee+report.pdf)
+* [2024-04-27, 07:59:02](https://news.ycombinator.com/item?id=40178198) - [Greenhouse gas emissions might have already peaked](https://www.vox.com/climate/24139383/climate-change-peak-greenhouse-gas-emissions-action)
 * [2024-04-27, 07:44:46](https://news.ycombinator.com/item?id=40178121) - [I Quit My Job](https://ashlybq.substack.com/p/i-quit-my-job)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [The First Website](https://info.cern.ch/hypertext/WWW/TheProject.html)
 * [2024-04-27, 07:00:43](https://news.ycombinator.com/item?id=40177904) - [Infracost (YC W21) is hiring senior software engineers](https://infracost.io/join-the-team)
