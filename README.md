@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
 * [2024-04-27, 14:45:44](https://news.ycombinator.com/item?id=40180346) - [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
 * [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Oral History of Brian L. Halla [pdf] (2013)](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 14:04:59](https://news.ycombinator.com/item?id=40180034) - [List of people offering their time for free to have a \"coffee chat\"](https://github.com/fharper/coffeechat)
@@ -7,7 +8,6 @@
 * [2024-04-27, 12:20:29](https://news.ycombinator.com/item?id=40179398) - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
 * [2024-04-27, 12:11:52](https://news.ycombinator.com/item?id=40179340) - [WebSim, WorldSim and the Summer of Simulative AI](https://www.latent.space/p/sim-ai)
 * [2024-04-27, 12:01:03](https://news.ycombinator.com/item?id=40179295) - [Sweep (YC S23) is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
-* [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 11:16:44](https://news.ycombinator.com/item?id=40179097) - [How a mysterious star could help the search for extraterrestrial life](https://www.theguardian.com/science/2024/apr/27/is-it-aliens-how-a-mysterious-star-could-help-the-search-for-extraterrestrial-life)
 * [2024-04-27, 11:00:57](https://news.ycombinator.com/item?id=40179015) - [Planes in 3D Space](https://alexharri.com/blog/planes)
 * [2024-04-27, 10:01:03](https://news.ycombinator.com/item?id=40178754) - [Large language models as research assistants](https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants/)
