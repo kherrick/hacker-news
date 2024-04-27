@@ -104,6 +104,7 @@
 * [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [A website dedicated for sharing Movie scenes with Timestamps - scenestamps.com](https://news.ycombinator.com/item?id=40166516)
 * [2024-04-26, 06:29:22](https://news.ycombinator.com/item?id=40166468) - [It's Been a Year and Georgia.gov Continues to Be Hacked](https://boehs.org/node/medicicnes)
 * [2024-04-26, 05:46:20](https://news.ycombinator.com/item?id=40166268) - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
+* [2024-04-26, 05:04:51](https://news.ycombinator.com/item?id=40166099) - [The importance of an ordinary space in a Unix shell command line](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellImportanceOfASpace)
 * [2024-04-26, 04:50:23](https://news.ycombinator.com/item?id=40166039) - [What's new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-26, 04:15:22](https://news.ycombinator.com/item?id=40165904) - [Type Safety Doesn't Matter](https://www.fpcomplete.com/blog/type-safety-doesnt-matter/)
