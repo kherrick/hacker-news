@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-04-27, 14:27:53",
+      "https://news.ycombinator.com/item?id=40180220"
+    ],
+    [
+      "Gary Killdall, creator of CP/M, wrote Pixar's original 3D renderer [pdf]",
+      "https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 14:04:59",
       "https://news.ycombinator.com/item?id=40180034"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40179553"
     ],
     [
-      "Moviecart – full length color movie and audio cartridges for stock Atari 2600",
+      "Moviecart – Full length color movie and audio cartridges for stock Atari 2600",
       "https://github.com/lodefmode/moviecart"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40178754"
     ],
     [
-      "Large language models (e.g., ChatGPT) as research assistants",
+      "Large language models as research assistants",
       "https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants/"
     ]
   ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=40176130"
     ],
     [
-      "Clang's -O0 output: branch displacement and size increase",
+      "Clang’s -O0 output: branch displacement and size increase",
       "https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-04-26, 17:45:04",
-      "https://news.ycombinator.com/item?id=40172161"
-    ],
-    [
-      "Camus, Albert and the Anarchists (2007)",
-      "https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 16:23:04",
       "https://news.ycombinator.com/item?id=40171216"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=40171183"
     ],
     [
-      "Bun's New Crash Reporter",
+      "Bun’s New Crash Reporter",
       "https://bun.sh/blog/bun-report-is-buns-new-crash-reporter"
     ]
   ],
