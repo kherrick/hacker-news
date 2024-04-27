@@ -61,6 +61,7 @@
 * [2024-04-25, 16:47:10](https://news.ycombinator.com/item?id=40159845) - [ByteDance prefers TikTok shutdown in US if legal options fail](https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/)
 * [2024-04-25, 16:42:24](https://news.ycombinator.com/item?id=40159774) - [Organised Atoms at Flamm Festival, Redruth (2023)](https://thentrythis.org/notes/2023/11/17/organised-atoms-at-flamm-festival-redruth/)
 * [2024-04-25, 16:42:05](https://news.ycombinator.com/item?id=40159766) - [DDC OLED: how to drive a tiny display from an HDMI port. (2022)](https://mitxela.com/projects/ddc-oled)
+* [2024-04-25, 16:27:42](https://news.ycombinator.com/item?id=40159557) - [Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
 * [2024-04-25, 16:26:11](https://news.ycombinator.com/item?id=40159540) - [Fedora Slimbook II Available](https://fedora.slimbook.com/)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 * [2024-04-25, 15:48:20](https://news.ycombinator.com/item?id=40158952) - [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
