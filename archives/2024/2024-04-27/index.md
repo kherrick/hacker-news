@@ -7,6 +7,7 @@
 * [2024-04-27, 03:22:44](https://news.ycombinator.com/item?id=40176846) - [Apple cuts 2024 and 2025 Vision Pro shipment forecasts](https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930)
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 * [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a big flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
+* [2024-04-27, 02:34:11](https://news.ycombinator.com/item?id=40176637) - [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
 * [2024-04-27, 02:32:12](https://news.ycombinator.com/item?id=40176625) - [Show HN: Free AI-Powered Resume and Cover Letter Maker](https://www.bange.io/)
 * [2024-04-27, 02:27:58](https://news.ycombinator.com/item?id=40176597) - [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
 * [2024-04-27, 02:15:38](https://news.ycombinator.com/item?id=40176532) - [Fyrox Game Engine – a Rust game engine with a real editor and scripting system](https://fyrox.rs/)

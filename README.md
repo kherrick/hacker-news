@@ -2,6 +2,7 @@
 
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 * [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
+* [2024-04-27, 02:34:11](https://news.ycombinator.com/item?id=40176637) - [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
 * [2024-04-27, 02:27:58](https://news.ycombinator.com/item?id=40176597) - [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
 * [2024-04-27, 02:00:35](https://news.ycombinator.com/item?id=40176441) - [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
 * [2024-04-27, 01:13:18](https://news.ycombinator.com/item?id=40176180) - [The Presidential Nuclear \"Football\" from Eisenhower to George W. Bush](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-07-18/presidential-nuclear-football-eisenhower-george-w-bush)
@@ -14,7 +15,6 @@
 * [2024-04-26, 21:01:02](https://news.ycombinator.com/item?id=40174232) - [Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-04-26, 20:47:38](https://news.ycombinator.com/item?id=40174087) - [Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 * [2024-04-26, 19:38:45](https://news.ycombinator.com/item?id=40173237) - [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
-* [2024-04-26, 18:33:53](https://news.ycombinator.com/item?id=40172644) - [New £4M hub for metabolic psychiatry](https://lister-institute.org.uk/danny-smith-to-lead-a-new-4-million-hub-for-metabolic-psychiatry/)
 * [2024-04-26, 18:01:22](https://news.ycombinator.com/item?id=40172319) - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 * [2024-04-26, 17:45:04](https://news.ycombinator.com/item?id=40172161) - [Camus, Albert and the Anarchists (2007)](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
