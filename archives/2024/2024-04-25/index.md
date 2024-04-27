@@ -40,6 +40,7 @@
 * [2024-04-25, 18:56:03](https://news.ycombinator.com/item?id=40161564) - [Life Lessons from a Ten-Year-Old Cigarette Vendor](https://medium.com/a-culturated/life-lessons-from-a-ten-year-old-cigarette-vendor-301ba67b3924)
 * [2024-04-25, 18:43:10](https://news.ycombinator.com/item?id=40161421) - [IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
 * [2024-04-25, 18:36:01](https://news.ycombinator.com/item?id=40161334) - [Xz sshd backdoor collecting usernames from logs](https://isc.sans.edu/diary/30802)
+* [2024-04-25, 18:21:13](https://news.ycombinator.com/item?id=40161165) - [A place I've never been to. A place I'll never go](https://jacobfilipp.com/place/)
 * [2024-04-25, 17:52:01](https://news.ycombinator.com/item?id=40160824) - [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
 * [2024-04-25, 17:48:24](https://news.ycombinator.com/item?id=40160770) - [Oracle's Jump to Nashville Surprises Austin](https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18)
 * [2024-04-25, 17:46:04](https://news.ycombinator.com/item?id=40160728) - [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
