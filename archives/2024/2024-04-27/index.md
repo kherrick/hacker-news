@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 03:22:44](https://news.ycombinator.com/item?id=40176846) - [Apple cuts 2024 and 2025 Vision Pro shipment forecasts](https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930)
+* [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 * [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a big flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
 * [2024-04-27, 02:32:12](https://news.ycombinator.com/item?id=40176625) - [Show HN: Free AI-Powered Resume and Cover Letter Maker](https://www.bange.io/)
 * [2024-04-27, 02:15:38](https://news.ycombinator.com/item?id=40176532) - [Fyrox Game Engine – a Rust game engine with a real editor and scripting system](https://fyrox.rs/)
+* [2024-04-27, 02:00:35](https://news.ycombinator.com/item?id=40176441) - [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
 * [2024-04-27, 01:04:58](https://news.ycombinator.com/item?id=40176130) - [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
 * [2024-04-27, 00:46:49](https://news.ycombinator.com/item?id=40176031) - [How Not to Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
 * [2024-04-27, 00:36:03](https://news.ycombinator.com/item?id=40175942) - [A hydrocarbon molecule as supplier and energy storage solution for solar energy](https://phys.org/news/2024-04-hydrocarbon-molecule-supplier-energy-storage.html)
