@@ -1,15 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-27, 16:05:45](https://news.ycombinator.com/item?id=40181000) - [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
+* [2024-04-27, 17:00:05](https://news.ycombinator.com/item?id=40181522) - [Fathom AI Notetaker (YC W21) is hiring a Back end Engineer (remote)](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
+* [2024-04-27, 15:51:26](https://news.ycombinator.com/item?id=40180890) - [Scientists Have Studied the Mysterious Behavior of Cats Sitting on Squares(2021)](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
 * [2024-04-27, 15:05:30](https://news.ycombinator.com/item?id=40180516) - [The formation and revision of intuitions (2023) [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
-* [2024-04-27, 14:45:44](https://news.ycombinator.com/item?id=40180346) - [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
 * [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Oral History of Brian L. Halla [pdf] (2013)](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 12:20:29](https://news.ycombinator.com/item?id=40179398) - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
 * [2024-04-27, 12:11:52](https://news.ycombinator.com/item?id=40179340) - [WebSim, WorldSim and the Summer of Simulative AI](https://www.latent.space/p/sim-ai)
-* [2024-04-27, 12:01:03](https://news.ycombinator.com/item?id=40179295) - [Sweep (YC S23) is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
 * [2024-04-27, 11:16:44](https://news.ycombinator.com/item?id=40179097) - [How a mysterious star could help the search for extraterrestrial life](https://www.theguardian.com/science/2024/apr/27/is-it-aliens-how-a-mysterious-star-could-help-the-search-for-extraterrestrial-life)
 * [2024-04-27, 11:00:57](https://news.ycombinator.com/item?id=40179015) - [Planes in 3D Space](https://alexharri.com/blog/planes)
 * [2024-04-27, 10:01:03](https://news.ycombinator.com/item?id=40178754) - [Large language models as research assistants](https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants/)
@@ -30,6 +29,7 @@
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 18:21:13](https://news.ycombinator.com/item?id=40161165) - [A place I've never been to. A place I'll never go](https://jacobfilipp.com/place/)
 * [2024-04-25, 16:42:24](https://news.ycombinator.com/item?id=40159774) - [Organised Atoms at Flamm Festival, Redruth (2023)](https://thentrythis.org/notes/2023/11/17/organised-atoms-at-flamm-festival-redruth/)
+* [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)
 
 ## [Archives](archives/index.md)
 

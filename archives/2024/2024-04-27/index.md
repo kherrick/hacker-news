@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 17:00:05](https://news.ycombinator.com/item?id=40181522) - [Fathom AI Notetaker (YC W21) is hiring a Back end Engineer (remote)](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
 * [2024-04-27, 16:05:45](https://news.ycombinator.com/item?id=40181000) - [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
+* [2024-04-27, 15:51:26](https://news.ycombinator.com/item?id=40180890) - [Scientists Have Studied the Mysterious Behavior of Cats Sitting on Squares(2021)](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
 * [2024-04-27, 15:05:30](https://news.ycombinator.com/item?id=40180516) - [The formation and revision of intuitions (2023) [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
