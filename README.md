@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 09:33:08](https://news.ycombinator.com/item?id=40178629) - [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 * [2024-04-27, 07:00:43](https://news.ycombinator.com/item?id=40177904) - [Infracost (YC W21) is hiring senior software engineers](https://infracost.io/join-the-team)
 * [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
@@ -20,7 +21,6 @@
 * [2024-04-26, 20:47:38](https://news.ycombinator.com/item?id=40174087) - [Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 * [2024-04-26, 19:38:45](https://news.ycombinator.com/item?id=40173237) - [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
-* [2024-04-26, 16:23:04](https://news.ycombinator.com/item?id=40171216) - [Univer: Open-Source Alternative for Google Sheets, Slides, Docs](https://github.com/dream-num/univer/)
 * [2024-04-26, 16:20:30](https://news.ycombinator.com/item?id=40171183) - [Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 12:23:15](https://news.ycombinator.com/item?id=40168519) - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A shattered dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
