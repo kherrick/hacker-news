@@ -57,6 +57,7 @@
 * [2024-04-25, 16:56:09](https://news.ycombinator.com/item?id=40159988) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
 * [2024-04-25, 16:48:51](https://news.ycombinator.com/item?id=40159868) - [Reddit down 502 Bad Gateway](https://old.reddit.com/)
 * [2024-04-25, 16:47:10](https://news.ycombinator.com/item?id=40159845) - [ByteDance prefers TikTok shutdown in US if legal options fail](https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/)
+* [2024-04-25, 16:42:24](https://news.ycombinator.com/item?id=40159774) - [Organised Atoms at Flamm Festival, Redruth (2023)](https://thentrythis.org/notes/2023/11/17/organised-atoms-at-flamm-festival-redruth/)
 * [2024-04-25, 16:42:05](https://news.ycombinator.com/item?id=40159766) - [DDC OLED: how to drive a tiny display from an HDMI port. (2022)](https://mitxela.com/projects/ddc-oled)
 * [2024-04-25, 16:26:11](https://news.ycombinator.com/item?id=40159540) - [Fedora Slimbook II Available](https://fedora.slimbook.com/)
 * [2024-04-25, 16:08:05](https://news.ycombinator.com/item?id=40159278) - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)

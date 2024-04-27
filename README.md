@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-27, 04:16:58](https://news.ycombinator.com/item?id=40177171) - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
 * [2024-04-27, 03:11:53](https://news.ycombinator.com/item?id=40176804) - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 * [2024-04-27, 02:56:20](https://news.ycombinator.com/item?id=40176739) - [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
 * [2024-04-27, 02:34:11](https://news.ycombinator.com/item?id=40176637) - [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
@@ -16,7 +17,6 @@
 * [2024-04-26, 21:01:02](https://news.ycombinator.com/item?id=40174232) - [Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-04-26, 20:47:38](https://news.ycombinator.com/item?id=40174087) - [Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 * [2024-04-26, 19:38:45](https://news.ycombinator.com/item?id=40173237) - [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
-* [2024-04-26, 18:01:22](https://news.ycombinator.com/item?id=40172319) - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 * [2024-04-26, 17:45:04](https://news.ycombinator.com/item?id=40172161) - [Camus, Albert and the Anarchists (2007)](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
 * [2024-04-26, 17:33:56](https://news.ycombinator.com/item?id=40172033) - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
 * [2024-04-26, 16:23:04](https://news.ycombinator.com/item?id=40171216) - [Univer: Open-Source Alternative for Google Sheets, Slides, Docs](https://github.com/dream-num/univer/)
@@ -25,7 +25,7 @@
 * [2024-04-26, 04:36:39](https://news.ycombinator.com/item?id=40165998) - [Passkeys: A shattered dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-25, 21:42:06](https://news.ycombinator.com/item?id=40163405) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 18:43:10](https://news.ycombinator.com/item?id=40161421) - [IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
-* [2024-04-25, 12:25:39](https://news.ycombinator.com/item?id=40156642) - [Cost of developing new drugs may be lower than industry claims: trial](https://www.theguardian.com/global-development/2024/apr/25/cost-of-developing-new-drugs-may-be-far-lower-than-industry-claims-trial-reveals)
+* [2024-04-25, 16:42:24](https://news.ycombinator.com/item?id=40159774) - [Organised Atoms at Flamm Festival, Redruth (2023)](https://thentrythis.org/notes/2023/11/17/organised-atoms-at-flamm-festival-redruth/)
 * [2024-04-25, 12:11:28](https://news.ycombinator.com/item?id=40156508) - [Direct-Style Effects Explained](https://www.inner-product.com/posts/direct-style-effects/)
 * [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)
 * [2024-04-25, 05:44:02](https://news.ycombinator.com/item?id=40153863) - [Camaraderie between two soldier poets](https://lithub.com/how-wilfred-owen-and-siegfried-sassoon-forged-a-literary-and-romantic-bond/)
