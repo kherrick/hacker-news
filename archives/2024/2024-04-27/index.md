@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 07:44:46](https://news.ycombinator.com/item?id=40178121) - [I Quit My Job](https://ashlybq.substack.com/p/i-quit-my-job)
+* [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [The First Website](https://info.cern.ch/hypertext/WWW/TheProject.html)
 * [2024-04-27, 07:00:43](https://news.ycombinator.com/item?id=40177904) - [Infracost (YC W21) is hiring senior software engineers](https://infracost.io/join-the-team)
 * [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 * [2024-04-27, 04:16:58](https://news.ycombinator.com/item?id=40177171) - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
