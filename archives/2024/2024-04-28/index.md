@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
 * [2024-04-28, 18:03:59](https://news.ycombinator.com/item?id=40190446) - [Williams-Sonoma fined $3.18M for falsely labeling products 'Made in USA'](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
 * [2024-04-28, 17:12:57](https://news.ycombinator.com/item?id=40190066) - [Bloomberg: \"Strong possibility\" of M4 debuting on May 7 with new iPad Pro](https://www.macrumors.com/2024/04/28/ipad-pro-m4-chip-and-apple-pencil-haptic-rumors/)
 * [2024-04-28, 17:11:03](https://news.ycombinator.com/item?id=40190046) - [\"Jewish Mathematics\"?](https://mathenchant.wordpress.com/2024/04/17/jewish-mathematics/)
