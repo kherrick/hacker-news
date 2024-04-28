@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-28, 19:59:57](https://news.ycombinator.com/item?id=40191346) - ['Catastrophic grid failure' a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
+* [2024-04-28, 20:00:48](https://news.ycombinator.com/item?id=40191353) - [Ozempic will disrupt big tobacco, candy companies, and alcohol brands](https://curingaddiction.substack.com/p/growing-concerns-that-ozempic-will)
 * [2024-04-28, 19:29:24](https://news.ycombinator.com/item?id=40191143) - [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)
+* [2024-04-28, 19:26:50](https://news.ycombinator.com/item?id=40191127) - [Google surpasses $2T market cap](https://qz.com/google-alphabet-stock-market-cap-ai-earnings-1851439308)
 * [2024-04-28, 19:23:35](https://news.ycombinator.com/item?id=40191098) - [The reckless policies that helped fill our streets with large cars](https://www.vox.com/future-perfect/24139147/suvs-trucks-popularity-federal-policy-pollution)
 * [2024-04-28, 19:20:16](https://news.ycombinator.com/item?id=40191075) - [The Shitty Technology Adoption Curve (2022)](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
 * [2024-04-28, 19:16:26](https://news.ycombinator.com/item?id=40191047) - [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
@@ -19,7 +20,6 @@
 * [2024-04-28, 09:59:05](https://news.ycombinator.com/item?id=40187379) - [TfL's simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
 * [2024-04-28, 09:48:40](https://news.ycombinator.com/item?id=40187334) - [Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
 * [2024-04-28, 08:17:47](https://news.ycombinator.com/item?id=40186960) - [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
-* [2024-04-28, 07:35:02](https://news.ycombinator.com/item?id=40186768) - [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 * [2024-04-27, 23:47:39](https://news.ycombinator.com/item?id=40184659) - [Making a Flute-Controlled Mouse](https://0110.be/posts/Making_a_flute_controlled_mouse)
 * [2024-04-27, 15:05:01](https://news.ycombinator.com/item?id=40180509) - [From Pomona to Oakland, a skater mapped California block by block from his board](https://www.latimes.com/opinion/story/2024-04-12/from-pomona-to-oakland-how-a-skater-mapped-california-from-atop-his-board)
 * [2024-04-27, 12:51:09](https://news.ycombinator.com/item?id=40179566) - [PySheets – Spreadsheet UI for Python](https://pysheets.app/)
