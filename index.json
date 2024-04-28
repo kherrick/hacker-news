@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-04-28, 12:00:09",
+      "https://news.ycombinator.com/item?id=40187964"
+    ],
+    [
+      "UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance",
+      "https://up.codes/careers?utm_source=HN"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 11:03:45",
       "https://news.ycombinator.com/item?id=40187656"
     ],
     [
       "Zilog Z80 CPU – Modern, free and open source silicon clone",
       "https://github.com/rejunity/z80-open-silicon"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 10:17:26",
-      "https://news.ycombinator.com/item?id=40187449"
-    ],
-    [
-      "Autoconf and configure features that people find valuable",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutoconfValuableFeatures"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-04-28, 09:02:18",
-      "https://news.ycombinator.com/item?id=40187129"
-    ],
-    [
-      "Microsoft must stop selling security as a premium offering",
-      "https://www.directionsonmicrosoft.com/members/blog/2024-04-23/microsoft-must-stop-selling-security-premium-offering"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 08:17:47",
       "https://news.ycombinator.com/item?id=40186960"
     ],
@@ -87,16 +77,6 @@
     [
       "The Princeton Companion to Applied Mathematics",
       "https://nhigham.com/the-princeton-companion-to-applied-mathematics/"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 04:23:40",
-      "https://news.ycombinator.com/item?id=40185970"
-    ],
-    [
-      "44% Unicorn Startups in the US were founded by foreign workers",
-      "https://twitter.com/IlyaStrebulaev/status/1481662020659257349"
     ]
   ],
   [
@@ -131,16 +111,6 @@
   ],
   [
     [
-      "2024-04-28, 00:40:44",
-      "https://news.ycombinator.com/item?id=40184916"
-    ],
-    [
-      "RFC 7282 – On Consensus and Humming in the IETF (2014)",
-      "https://datatracker.ietf.org/doc/html/rfc7282"
-    ]
-  ],
-  [
-    [
       "2024-04-27, 23:52:11",
       "https://news.ycombinator.com/item?id=40184673"
     ],
@@ -171,6 +141,26 @@
   ],
   [
     [
+      "2024-04-27, 22:59:03",
+      "https://news.ycombinator.com/item?id=40184372"
+    ],
+    [
+      "Show HN: Data Bonsai: a Python package to clean your data with LLMs",
+      "https://github.com/databonsai/databonsai"
+    ]
+  ],
+  [
+    [
+      "2024-04-27, 21:54:30",
+      "https://news.ycombinator.com/item?id=40183933"
+    ],
+    [
+      "Show HN: Is_ready – Wait for many services to become available – 0 Dependencies",
+      "https://github.com/Stavrospanakakis/is_ready"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 21:39:53",
       "https://news.ycombinator.com/item?id=40183817"
     ],
@@ -187,6 +177,16 @@
     [
       "Keep Out – WebGL Game",
       "http://www.playkeepout.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-27, 19:09:00",
+      "https://news.ycombinator.com/item?id=40182555"
+    ],
+    [
+      "How I stopped worrying and loved Makefiles",
+      "https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-04-27, 06:12:12",
-      "https://news.ycombinator.com/item?id=40177694"
+      "2024-04-27, 11:48:49",
+      "https://news.ycombinator.com/item?id=40179232"
     ],
     [
-      "Show HN: Sleepsort – Sorting While Sleeping",
-      "https://animeshchouhan.com/posts/sleepsort/"
+      "What can LLMs never do?",
+      "https://www.strangeloopcanon.com/p/what-can-llms-never-do"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-04-26, 04:03:08",
-      "https://news.ycombinator.com/item?id=40165851"
+      "2024-04-25, 23:28:11",
+      "https://news.ycombinator.com/item?id=40164310"
     ],
     [
-      "Boeing and NASA move forward with historic crewed launch of new spacecraft",
-      "https://www.cnn.com/2024/04/25/world/boeing-starliner-launch-spacex-delays-scn/index.html"
+      "Synth wars: The story of MIDI (2023)",
+      "https://www.musicradar.com/news/the-story-of-midi"
     ]
   ],
   [
