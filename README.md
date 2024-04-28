@@ -18,7 +18,7 @@
 * [2024-04-28, 08:17:47](https://news.ycombinator.com/item?id=40186960) - [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
 * [2024-04-28, 07:35:02](https://news.ycombinator.com/item?id=40186768) - [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 * [2024-04-28, 05:05:57](https://news.ycombinator.com/item?id=40186146) - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
-* [2024-04-28, 04:36:20](https://news.ycombinator.com/item?id=40186036) - [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
+* [2024-04-28, 02:04:48](https://news.ycombinator.com/item?id=40185400) - [The Voyage of Magellan – Chapter 5: Underway](https://analog-antiquarian.net/2024/04/26/chapter-5-underway/)
 * [2024-04-27, 23:47:39](https://news.ycombinator.com/item?id=40184659) - [Making a Flute-Controlled Mouse](https://0110.be/posts/Making_a_flute_controlled_mouse)
 * [2024-04-27, 15:05:01](https://news.ycombinator.com/item?id=40180509) - [From Pomona to Oakland, a skater mapped California block by block from his board](https://www.latimes.com/opinion/story/2024-04-12/from-pomona-to-oakland-how-a-skater-mapped-california-from-atop-his-board)
 * [2024-04-27, 12:51:09](https://news.ycombinator.com/item?id=40179566) - [PySheets – Spreadsheet UI for Python](https://pysheets.app/)
