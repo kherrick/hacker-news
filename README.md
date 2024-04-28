@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 21:34:02](https://news.ycombinator.com/item?id=40192204) - [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
 * [2024-04-28, 21:06:53](https://news.ycombinator.com/item?id=40191915) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
 * [2024-04-28, 20:25:46](https://news.ycombinator.com/item?id=40191510) - [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
 * [2024-04-28, 19:59:57](https://news.ycombinator.com/item?id=40191346) - ['Catastrophic grid failure' a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
@@ -25,7 +26,6 @@
 * [2024-04-27, 08:29:35](https://news.ycombinator.com/item?id=40178325) - [What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2)
 * [2024-04-27, 05:46:55](https://news.ycombinator.com/item?id=40177599) - [Watch cars evolve using genetic algorithm](https://rednuht.org/genetic_cars_2/)
 * [2024-04-26, 09:45:26](https://news.ycombinator.com/item?id=40167461) - [Show HN: OpenLIT – Open-Source LLM Observability with OpenTelemetry](https://github.com/openlit/openlit)
-* [2024-04-26, 09:03:06](https://news.ycombinator.com/item?id=40167271) - [Implementing Neural Networks on a \"10-cent\" RISC-V MCU](https://cpldcpu.wordpress.com/2024/04/24/implementing-neural-networks-on-the-10-cent-risc-v-mcu-without-multiplier/)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
 * [2024-04-25, 23:28:11](https://news.ycombinator.com/item?id=40164310) - [Synth wars: The story of MIDI (2023)](https://www.musicradar.com/news/the-story-of-midi)
 * [2024-04-25, 18:36:43](https://news.ycombinator.com/item?id=40161344) - [AI-powered cameras installed on Metro buses to ticket illegally parked cars](https://www.latimes.com/california/story/2024-04-24/ai-powered-cameras-installed-on-metro-buses-will-be-used-to-spot-illegally-parked-cars)
