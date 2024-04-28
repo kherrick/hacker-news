@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 04:39:03](https://news.ycombinator.com/item?id=40186055) - [First ever autonomous car race in Abu Dhabi finishes despite issues](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
 * [2024-04-28, 04:26:39](https://news.ycombinator.com/item?id=40185989) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
 * [2024-04-28, 04:03:43](https://news.ycombinator.com/item?id=40185890) - [Can science find ways to ease loneliness?](https://www.science.org/content/article/can-science-find-ways-ease-loneliness#)
 * [2024-04-28, 04:02:21](https://news.ycombinator.com/item?id=40185883) - [Google Quantum AI](https://quantumai.google/)
@@ -20,7 +21,6 @@
 * [2024-04-27, 16:40:06](https://news.ycombinator.com/item?id=40181306) - [Show HN: Cognita – open-source RAG framework for modular applications](https://github.com/truefoundry/cognita)
 * [2024-04-27, 16:05:45](https://news.ycombinator.com/item?id=40181000) - [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
-* [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 06:10:59](https://news.ycombinator.com/item?id=40177687) - [Crafting Interpreters: 640 Pages in 15 Months](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
