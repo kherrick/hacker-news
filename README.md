@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-28, 20:00:48](https://news.ycombinator.com/item?id=40191353) - [Ozempic will disrupt big tobacco, candy companies, and alcohol brands](https://curingaddiction.substack.com/p/growing-concerns-that-ozempic-will)
+* [2024-04-28, 19:59:57](https://news.ycombinator.com/item?id=40191346) - ['Catastrophic grid failure' a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
 * [2024-04-28, 19:29:24](https://news.ycombinator.com/item?id=40191143) - [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)
 * [2024-04-28, 19:26:50](https://news.ycombinator.com/item?id=40191127) - [Google surpasses $2T market cap](https://qz.com/google-alphabet-stock-market-cap-ai-earnings-1851439308)
 * [2024-04-28, 19:23:35](https://news.ycombinator.com/item?id=40191098) - [The reckless policies that helped fill our streets with large cars](https://www.vox.com/future-perfect/24139147/suvs-trucks-popularity-federal-policy-pollution)
@@ -10,7 +11,6 @@
 * [2024-04-28, 18:03:59](https://news.ycombinator.com/item?id=40190446) - [Williams-Sonoma fined $3.18M for falsely labeling products 'Made in USA'](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
 * [2024-04-28, 17:21:02](https://news.ycombinator.com/item?id=40190136) - [The AI expert who cited himself thousands of times on scientific paper](https://english.elpais.com/science-tech/2024-04-26/the-seven-lies-of-the-ai-expert-who-cited-himself-thousands-of-times-on-scientific-papers.html)
 * [2024-04-28, 17:00:28](https://news.ycombinator.com/item?id=40189970) - [Patterns (YC S21) is hiring to replace dashboards with AI agents](https://patterns.app/)
-* [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
 * [2024-04-28, 15:47:43](https://news.ycombinator.com/item?id=40189447) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:33:19](https://news.ycombinator.com/item?id=40189357) - [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
 * [2024-04-28, 13:01:12](https://news.ycombinator.com/item?id=40188282) - [Show HN: Docker-phobia: Analyze Docker image size with a treemap](https://github.com/remorses/docker-phobia)
