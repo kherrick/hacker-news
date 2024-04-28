@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-28, 04:39:03](https://news.ycombinator.com/item?id=40186055) - [First ever autonomous car race in Abu Dhabi finishes despite issues](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
 * [2024-04-28, 04:26:39](https://news.ycombinator.com/item?id=40185989) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
 * [2024-04-28, 04:03:43](https://news.ycombinator.com/item?id=40185890) - [Can science find ways to ease loneliness?](https://www.science.org/content/article/can-science-find-ways-ease-loneliness#)
 * [2024-04-28, 04:02:21](https://news.ycombinator.com/item?id=40185883) - [Google Quantum AI](https://quantumai.google/)
@@ -28,6 +27,7 @@
 * [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [Show HN: Scenestamps – A website for sharing movie scenes with timestamps](https://news.ycombinator.com/item?id=40166516)
 * [2024-04-26, 02:20:27](https://news.ycombinator.com/item?id=40165316) - [Ancient giant tortoise fossils found in Colombian Andes](https://phys.org/news/2024-04-ancient-giant-tortoise-fossils-colombian.html)
 * [2024-04-25, 16:27:42](https://news.ycombinator.com/item?id=40159557) - [Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
+* [2024-04-25, 14:49:44](https://news.ycombinator.com/item?id=40158259) - [What a Bronze Age Skeleton Reveals About Cavities](https://nautil.us/what-a-bronze-age-skeleton-reveals-about-cavities-543227/)
 * [2024-04-25, 12:09:37](https://news.ycombinator.com/item?id=40156485) - [Mixing water and oil: no surfactants needed](https://physicsworld.com/a/mixing-water-and-oil-no-surfactants-needed/)
 * [2024-04-25, 06:06:54](https://news.ycombinator.com/item?id=40154007) - [Philosophus Autodidactus](https://en.wikipedia.org/wiki/Hayy_ibn_Yaqdhan)
 
