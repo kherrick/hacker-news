@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 15:33:19](https://news.ycombinator.com/item?id=40189357) - [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
 * [2024-04-28, 15:32:26](https://news.ycombinator.com/item?id=40189346) - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
 * [2024-04-28, 13:41:14](https://news.ycombinator.com/item?id=40188511) - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
-* [2024-04-28, 12:51:45](https://news.ycombinator.com/item?id=40188235) - [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
 * [2024-04-28, 12:00:44](https://news.ycombinator.com/item?id=40187971) - [Zed Decoded: Rope and SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
 * [2024-04-28, 12:00:09](https://news.ycombinator.com/item?id=40187964) - [UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
 * [2024-04-28, 11:45:26](https://news.ycombinator.com/item?id=40187882) - [The Invention of the Integrated Circuit: Jean Hoerni's Patent Notebook](https://thechipletter.substack.com/p/the-invention-of-the-integrated-circuit)
