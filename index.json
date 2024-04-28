@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-04-28, 12:00:44",
+      "https://news.ycombinator.com/item?id=40187971"
+    ],
+    [
+      "Zed Decoded: Rope and SumTree",
+      "https://zed.dev/blog/zed-decoded-rope-sumtree"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 12:00:09",
       "https://news.ycombinator.com/item?id=40187964"
     ],
@@ -111,22 +121,22 @@
   ],
   [
     [
-      "2024-04-28, 04:02:21",
-      "https://news.ycombinator.com/item?id=40185883"
-    ],
-    [
-      "Google Quantum AI",
-      "https://quantumai.google/"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 02:26:35",
       "https://news.ycombinator.com/item?id=40185487"
     ],
     [
       "How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes",
       "https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 02:04:48",
+      "https://news.ycombinator.com/item?id=40185400"
+    ],
+    [
+      "The Voyage of Magellan – Chapter 5: Underway",
+      "https://analog-antiquarian.net/2024/04/26/chapter-5-underway/"
     ]
   ],
   [
@@ -141,72 +151,62 @@
   ],
   [
     [
-      "2024-04-27, 23:52:11",
-      "https://news.ycombinator.com/item?id=40184673"
+      "2024-04-27, 23:47:39",
+      "https://news.ycombinator.com/item?id=40184659"
     ],
     [
-      "Google made me ruin a perfectly good website (2023)",
-      "https://theluddite.org/#!post/google-ads"
+      "Making a Flute-Controlled Mouse",
+      "https://0110.be/posts/Making_a_flute_controlled_mouse"
     ]
   ],
   [
     [
-      "2024-04-27, 23:20:17",
-      "https://news.ycombinator.com/item?id=40184515"
+      "2024-04-27, 15:07:10",
+      "https://news.ycombinator.com/item?id=40180530"
     ],
     [
-      "Let's Embed a Go Program into the Linux Kernel (2023)",
-      "https://sigma-star.at/blog/2023/07/embedded-go-prog/"
+      "Adding the \"Move to Trash\" function to System 7.1",
+      "https://blog.gingerbeardman.com/2024/04/12/adding-the-move-to-trash-function-to-system-7/"
     ]
   ],
   [
     [
-      "2024-04-27, 23:10:40",
-      "https://news.ycombinator.com/item?id=40184434"
+      "2024-04-27, 15:05:01",
+      "https://news.ycombinator.com/item?id=40180509"
     ],
     [
-      "Burn After Wearing",
-      "https://grist.org/international/burn-after-wearing-fashion-waste-chile/"
+      "From Pomona to Oakland, a skater mapped California block by block from his board",
+      "https://www.latimes.com/opinion/story/2024-04-12/from-pomona-to-oakland-how-a-skater-mapped-california-from-atop-his-board"
     ]
   ],
   [
     [
-      "2024-04-27, 19:49:10",
-      "https://news.ycombinator.com/item?id=40182868"
+      "2024-04-27, 12:51:09",
+      "https://news.ycombinator.com/item?id=40179566"
     ],
     [
-      "Keep Out – WebGL Game",
-      "http://www.playkeepout.com/"
+      "PySheets – Spreadsheet UI for Python",
+      "https://pysheets.app/"
     ]
   ],
   [
     [
-      "2024-04-27, 15:43:54",
-      "https://news.ycombinator.com/item?id=40180821"
+      "2024-04-27, 08:29:35",
+      "https://news.ycombinator.com/item?id=40178325"
     ],
     [
-      "SVG Viewer – View, edit, and optimize SVGs",
-      "https://www.svgviewer.dev"
+      "What if null was an Object in Java?",
+      "https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2"
     ]
   ],
   [
     [
-      "2024-04-27, 12:49:55",
-      "https://news.ycombinator.com/item?id=40179553"
+      "2024-04-27, 06:26:39",
+      "https://news.ycombinator.com/item?id=40177754"
     ],
     [
-      "Moviecart – Full length color movie and audio cartridges for stock Atari 2600",
-      "https://github.com/lodefmode/moviecart"
-    ]
-  ],
-  [
-    [
-      "2024-04-27, 12:39:37",
-      "https://news.ycombinator.com/item?id=40179494"
-    ],
-    [
-      "Timo Noko's NokoLisp: Bare-Metal Lisp on the HP Omnigo 700LX",
-      "https://timonoko.github.io/Nokolisp.htm"
+      "Tom Seidmann-Freud's Book of Hare Stories (1924)",
+      "https://publicdomainreview.org/collection/tom-seidmann-freud-hare-tales/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-04-27, 02:56:00",
-      "https://news.ycombinator.com/item?id=40176738"
+      "2024-04-27, 05:46:55",
+      "https://news.ycombinator.com/item?id=40177599"
     ],
     [
-      "So you want to scrape like the big boys (2021)",
-      "https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"
+      "Watch cars evolve using genetic algorithm",
+      "https://rednuht.org/genetic_cars_2/"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Building an IBM 3270 terminal controller",
       "https://ajk.me/building-an-ibm-3270-terminal-controller"
+    ]
+  ],
+  [
+    [
+      "2024-04-26, 10:12:59",
+      "https://news.ycombinator.com/item?id=40167596"
+    ],
+    [
+      "Wobble Town (Inspired by Tamagotchi)",
+      "https://wobble.town/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Synth wars: The story of MIDI (2023)",
       "https://www.musicradar.com/news/the-story-of-midi"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 16:27:42",
-      "https://news.ycombinator.com/item?id=40159557"
-    ],
-    [
-      "Japan's Moon lander makes it through another lunar night",
-      "https://www.theregister.com/2024/04/25/slim_another_lunar_night/"
     ]
   ],
   [
