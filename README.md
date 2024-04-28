@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 19:29:24](https://news.ycombinator.com/item?id=40191143) - [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)
 * [2024-04-28, 19:20:16](https://news.ycombinator.com/item?id=40191075) - [The Shitty Technology Adoption Curve](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
 * [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
 * [2024-04-28, 18:03:59](https://news.ycombinator.com/item?id=40190446) - [Williams-Sonoma fined $3.18M for falsely labeling products 'Made in USA'](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
@@ -18,7 +19,6 @@
 * [2024-04-28, 08:17:47](https://news.ycombinator.com/item?id=40186960) - [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
 * [2024-04-28, 07:35:02](https://news.ycombinator.com/item?id=40186768) - [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 * [2024-04-28, 05:05:57](https://news.ycombinator.com/item?id=40186146) - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
-* [2024-04-28, 02:04:48](https://news.ycombinator.com/item?id=40185400) - [The Voyage of Magellan – Chapter 5: Underway](https://analog-antiquarian.net/2024/04/26/chapter-5-underway/)
 * [2024-04-27, 23:47:39](https://news.ycombinator.com/item?id=40184659) - [Making a Flute-Controlled Mouse](https://0110.be/posts/Making_a_flute_controlled_mouse)
 * [2024-04-27, 15:05:01](https://news.ycombinator.com/item?id=40180509) - [From Pomona to Oakland, a skater mapped California block by block from his board](https://www.latimes.com/opinion/story/2024-04-12/from-pomona-to-oakland-how-a-skater-mapped-california-from-atop-his-board)
 * [2024-04-27, 12:51:09](https://news.ycombinator.com/item?id=40179566) - [PySheets – Spreadsheet UI for Python](https://pysheets.app/)
