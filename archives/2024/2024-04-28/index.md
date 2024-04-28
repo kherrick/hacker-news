@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 19:20:16](https://news.ycombinator.com/item?id=40191075) - [The Shitty Technology Adoption Curve](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
 * [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
 * [2024-04-28, 18:03:59](https://news.ycombinator.com/item?id=40190446) - [Williams-Sonoma fined $3.18M for falsely labeling products 'Made in USA'](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
 * [2024-04-28, 17:21:02](https://news.ycombinator.com/item?id=40190136) - [The AI expert who cited himself thousands of times on scientific paper](https://english.elpais.com/science-tech/2024-04-26/the-seven-lies-of-the-ai-expert-who-cited-himself-thousands-of-times-on-scientific-papers.html)
