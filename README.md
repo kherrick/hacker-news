@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-28, 11:03:45](https://news.ycombinator.com/item?id=40187656) - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
+* [2024-04-28, 10:17:26](https://news.ycombinator.com/item?id=40187449) - [Autoconf and configure features that people find valuable](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutoconfValuableFeatures)
 * [2024-04-28, 10:01:28](https://news.ycombinator.com/item?id=40187390) - [Jimmy Carter UFO Incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)
 * [2024-04-28, 09:59:05](https://news.ycombinator.com/item?id=40187379) - [TfL's simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
 * [2024-04-28, 09:48:40](https://news.ycombinator.com/item?id=40187334) - [Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
@@ -21,7 +22,6 @@
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 12:39:37](https://news.ycombinator.com/item?id=40179494) - [Timo Noko's NokoLisp: Bare-Metal Lisp on the HP Omnigo 700LX](https://timonoko.github.io/Nokolisp.htm)
-* [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 06:12:12](https://news.ycombinator.com/item?id=40177694) - [Show HN: Sleepsort – Sorting While Sleeping](https://animeshchouhan.com/posts/sleepsort/)
 * [2024-04-27, 06:10:59](https://news.ycombinator.com/item?id=40177687) - [Crafting Interpreters: 640 Pages in 15 Months](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
