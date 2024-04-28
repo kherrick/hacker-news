@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 13:41:14](https://news.ycombinator.com/item?id=40188511) - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
 * [2024-04-28, 13:20:24](https://news.ycombinator.com/item?id=40188390) - [Should the stock market never close?](https://www.ft.com/content/31c3a55b-9af9-4158-8a49-4397540571bf)
 * [2024-04-28, 12:51:45](https://news.ycombinator.com/item?id=40188235) - [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
 * [2024-04-28, 12:00:09](https://news.ycombinator.com/item?id=40187964) - [UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
@@ -20,7 +21,6 @@
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 12:39:37](https://news.ycombinator.com/item?id=40179494) - [Timo Noko's NokoLisp: Bare-Metal Lisp on the HP Omnigo 700LX](https://timonoko.github.io/Nokolisp.htm)
-* [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 06:10:59](https://news.ycombinator.com/item?id=40177687) - [Crafting Interpreters: 640 Pages in 15 Months](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-26, 19:15:53](https://news.ycombinator.com/item?id=40172948) - [Building an IBM 3270 terminal controller](https://ajk.me/building-an-ibm-3270-terminal-controller)
