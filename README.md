@@ -9,6 +9,7 @@
 * [2024-04-27, 20:26:10](https://news.ycombinator.com/item?id=40183174) - [Hertz is ditching even more electric cars](https://qz.com/hertz-ev-sales-tesla-rental-cars-1851438100)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
 * [2024-04-27, 19:28:26](https://news.ycombinator.com/item?id=40182695) - [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
+* [2024-04-27, 19:09:00](https://news.ycombinator.com/item?id=40182555) - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/)
 * [2024-04-27, 17:42:34](https://news.ycombinator.com/item?id=40181896) - [ArcaneDoor – New campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
 * [2024-04-27, 17:08:20](https://news.ycombinator.com/item?id=40181612) - [Einsum for Tensor Manipulation](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
 * [2024-04-27, 16:40:06](https://news.ycombinator.com/item?id=40181306) - [Show HN: Cognita – open-source RAG framework for modular applications](https://github.com/truefoundry/cognita)
@@ -27,8 +28,7 @@
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [Show HN: Scenestamps – A website for sharing movie scenes with timestamps](https://news.ycombinator.com/item?id=40166516)
 * [2024-04-26, 05:04:51](https://news.ycombinator.com/item?id=40166099) - [The importance of an ordinary space in a Unix shell command line](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellImportanceOfASpace)
-* [2024-04-25, 20:58:27](https://news.ycombinator.com/item?id=40162931) - [The Sound of Software](https://www.notboring.software/words/the-sound-of-software)
-* [2024-04-25, 18:21:13](https://news.ycombinator.com/item?id=40161165) - [A place I've never been to. A place I'll never go](https://jacobfilipp.com/place/)
+* [2024-04-26, 02:20:27](https://news.ycombinator.com/item?id=40165316) - [Ancient giant tortoise fossils found in Colombian Andes](https://phys.org/news/2024-04-ancient-giant-tortoise-fossils-colombian.html)
 * [2024-04-25, 16:27:42](https://news.ycombinator.com/item?id=40159557) - [Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
 
 ## [Archives](archives/index.md)
