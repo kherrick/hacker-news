@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 18:03:59](https://news.ycombinator.com/item?id=40190446) - [Williams-Sonoma fined $3.18M for falsely labeling products 'Made in USA'](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
 * [2024-04-28, 17:12:57](https://news.ycombinator.com/item?id=40190066) - [Bloomberg: \"Strong possibility\" of M4 debuting on May 7 with new iPad Pro](https://www.macrumors.com/2024/04/28/ipad-pro-m4-chip-and-apple-pencil-haptic-rumors/)
+* [2024-04-28, 17:11:03](https://news.ycombinator.com/item?id=40190046) - [\"Jewish Mathematics\"?](https://mathenchant.wordpress.com/2024/04/17/jewish-mathematics/)
 * [2024-04-28, 17:00:28](https://news.ycombinator.com/item?id=40189970) - [Patterns (YC S21) is hiring to replace dashboards with AI agents](https://patterns.app/)
 * [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
 * [2024-04-28, 16:50:47](https://news.ycombinator.com/item?id=40189895) - [Scott Galloway: Young people have every reason to be enraged [video]](https://www.youtube.com/watch?v=MEC2Nq7Z6lc)
