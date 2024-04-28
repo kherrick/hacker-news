@@ -93,6 +93,7 @@
 * [2024-04-25, 12:13:51](https://news.ycombinator.com/item?id=40156534) - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
 * [2024-04-25, 12:13:13](https://news.ycombinator.com/item?id=40156527) - [Why One Man Spent 12 Years Fighting Robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
 * [2024-04-25, 12:11:28](https://news.ycombinator.com/item?id=40156508) - [Direct-Style Effects Explained](https://www.inner-product.com/posts/direct-style-effects/)
+* [2024-04-25, 12:09:37](https://news.ycombinator.com/item?id=40156485) - [Mixing water and oil: no surfactants needed](https://physicsworld.com/a/mixing-water-and-oil-no-surfactants-needed/)
 * [2024-04-25, 12:00:23](https://news.ycombinator.com/item?id=40156397) - [Cogram (YC W22) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
 * [2024-04-25, 11:53:04](https://news.ycombinator.com/item?id=40156330) - [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
 * [2024-04-25, 11:47:36](https://news.ycombinator.com/item?id=40156275) - [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)

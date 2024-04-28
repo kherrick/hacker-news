@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
 * [2024-04-27, 23:20:17](https://news.ycombinator.com/item?id=40184515) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 * [2024-04-27, 22:15:42](https://news.ycombinator.com/item?id=40184087) - [Dozens of deaths reveal risks of injecting sedatives into police detainees](https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b)

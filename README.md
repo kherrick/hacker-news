@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 00:47:39](https://news.ycombinator.com/item?id=40184966) - [Tsinghua Uni just released Vidu, a text-to-video model as good as Sora](https://www.maginative.com/article/china-unveils-vidu-a-powerful-text-to-video-generator/)
+* [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
 * [2024-04-27, 23:20:17](https://news.ycombinator.com/item?id=40184515) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 * [2024-04-27, 22:15:42](https://news.ycombinator.com/item?id=40184087) - [Dozens of deaths reveal risks of injecting sedatives into police detainees](https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b)
 * [2024-04-27, 21:39:53](https://news.ycombinator.com/item?id=40183817) - [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
-* [2024-04-27, 20:26:41](https://news.ycombinator.com/item?id=40183179) - [FTC says Amazon executives destroyed potential evidence using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
-* [2024-04-27, 20:26:10](https://news.ycombinator.com/item?id=40183174) - [Hertz is ditching even more electric cars](https://qz.com/hertz-ev-sales-tesla-rental-cars-1851438100)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
 * [2024-04-27, 19:28:26](https://news.ycombinator.com/item?id=40182695) - [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
 * [2024-04-27, 19:09:00](https://news.ycombinator.com/item?id=40182555) - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/)
@@ -18,7 +18,6 @@
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
 * [2024-04-27, 15:05:30](https://news.ycombinator.com/item?id=40180516) - [The formation and revision of intuitions (2023) [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
 * [2024-04-27, 15:01:58](https://news.ycombinator.com/item?id=40180475) - [Show HN: Blot – code, art, robots and open source education](https://github.com/hackclub/blot)
-* [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Oral History of Brian L. Halla [pdf] (2013)](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 11:00:57](https://news.ycombinator.com/item?id=40179015) - [Planes in 3D Space](https://alexharri.com/blog/planes)
@@ -30,6 +29,7 @@
 * [2024-04-26, 05:04:51](https://news.ycombinator.com/item?id=40166099) - [The importance of an ordinary space in a Unix shell command line](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellImportanceOfASpace)
 * [2024-04-26, 02:20:27](https://news.ycombinator.com/item?id=40165316) - [Ancient giant tortoise fossils found in Colombian Andes](https://phys.org/news/2024-04-ancient-giant-tortoise-fossils-colombian.html)
 * [2024-04-25, 16:27:42](https://news.ycombinator.com/item?id=40159557) - [Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
+* [2024-04-25, 12:09:37](https://news.ycombinator.com/item?id=40156485) - [Mixing water and oil: no surfactants needed](https://physicsworld.com/a/mixing-water-and-oil-no-surfactants-needed/)
 
 ## [Archives](archives/index.md)
 
