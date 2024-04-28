@@ -94,6 +94,7 @@
 * [2024-04-26, 09:32:16](https://news.ycombinator.com/item?id=40167406) - [Show HN: Mendeleej.com - an Interactive Periodic Table](http://mendeleej.com/)
 * [2024-04-26, 09:28:35](https://news.ycombinator.com/item?id=40167390) - [Jeff Bezos Rowing Boat [video]](https://www.youtube.com/watch?v=VGhcSupkNs8&ab_channel=BobbyFingers)
 * [2024-04-26, 09:13:13](https://news.ycombinator.com/item?id=40167315) - [H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/)
+* [2024-04-26, 09:03:06](https://news.ycombinator.com/item?id=40167271) - [Implementing Neural Networks on a \"10-cent\" RISC-V MCU](https://cpldcpu.wordpress.com/2024/04/24/implementing-neural-networks-on-the-10-cent-risc-v-mcu-without-multiplier/)
 * [2024-04-26, 08:54:19](https://news.ycombinator.com/item?id=40167226) - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
 * [2024-04-26, 08:44:43](https://news.ycombinator.com/item?id=40167163) - [I Rewired My Brain to Become Fluent in Math (2014)](https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/)
 * [2024-04-26, 08:04:55](https://news.ycombinator.com/item?id=40166912) - [The dire state of NixOS's moderation culture](https://github.com/nrdxp/rfc-evidence/blob/master/rfc_evidences_experiences.md)
