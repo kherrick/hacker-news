@@ -119,6 +119,7 @@
 * [2024-04-25, 06:22:26](https://news.ycombinator.com/item?id=40154104) - [Chime Design and Build](http://leehite.org/Chimes.htm)
 * [2024-04-25, 06:15:28](https://news.ycombinator.com/item?id=40154053) - [Tiny rubber spheres used to make a programmable fluid](https://arstechnica.com/science/2024/04/metafluid-gives-robotic-gripper-a-soft-touch/)
 * [2024-04-25, 06:09:58](https://news.ycombinator.com/item?id=40154024) - [TIS-100: Tessellated Intelligence System](https://www.zachtronics.com/tis-100/)
+* [2024-04-25, 06:06:54](https://news.ycombinator.com/item?id=40154007) - [Philosophus Autodidactus](https://en.wikipedia.org/wiki/Hayy_ibn_Yaqdhan)
 * [2024-04-25, 05:44:02](https://news.ycombinator.com/item?id=40153863) - [Camaraderie Between Two Soldier Poets](https://lithub.com/how-wilfred-owen-and-siegfried-sassoon-forged-a-literary-and-romantic-bond/)
 * [2024-04-25, 05:37:27](https://news.ycombinator.com/item?id=40153825) - [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
 * [2024-04-25, 05:36:05](https://news.ycombinator.com/item?id=40153815) - [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)

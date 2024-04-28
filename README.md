@@ -18,7 +18,6 @@
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
 * [2024-04-27, 15:05:30](https://news.ycombinator.com/item?id=40180516) - [The formation and revision of intuitions (2023) [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
 * [2024-04-27, 15:01:58](https://news.ycombinator.com/item?id=40180475) - [Show HN: Blot – code, art, robots and open source education](https://github.com/hackclub/blot)
-* [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Oral History of Brian L. Halla [pdf] (2013)](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
@@ -30,6 +29,7 @@
 * [2024-04-26, 02:20:27](https://news.ycombinator.com/item?id=40165316) - [Ancient giant tortoise fossils found in Colombian Andes](https://phys.org/news/2024-04-ancient-giant-tortoise-fossils-colombian.html)
 * [2024-04-25, 16:27:42](https://news.ycombinator.com/item?id=40159557) - [Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
 * [2024-04-25, 12:09:37](https://news.ycombinator.com/item?id=40156485) - [Mixing water and oil: no surfactants needed](https://physicsworld.com/a/mixing-water-and-oil-no-surfactants-needed/)
+* [2024-04-25, 06:06:54](https://news.ycombinator.com/item?id=40154007) - [Philosophus Autodidactus](https://en.wikipedia.org/wiki/Hayy_ibn_Yaqdhan)
 
 ## [Archives](archives/index.md)
 
