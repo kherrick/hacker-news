@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 13:20:24](https://news.ycombinator.com/item?id=40188390) - [Should the stock market never close?](https://www.ft.com/content/31c3a55b-9af9-4158-8a49-4397540571bf)
 * [2024-04-28, 12:51:45](https://news.ycombinator.com/item?id=40188235) - [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
 * [2024-04-28, 12:00:09](https://news.ycombinator.com/item?id=40187964) - [UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
 * [2024-04-28, 11:45:12](https://news.ycombinator.com/item?id=40187881) - [Tell HN: I think there are major issues with Google –> Squarespace domains](https://news.ycombinator.com/item?id=40187881)
@@ -16,7 +17,6 @@
 * [2024-04-27, 23:20:17](https://news.ycombinator.com/item?id=40184515) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 * [2024-04-27, 22:59:03](https://news.ycombinator.com/item?id=40184372) - [Show HN: Data Bonsai: a Python package to clean your data with LLMs](https://github.com/databonsai/databonsai)
-* [2024-04-27, 21:39:53](https://news.ycombinator.com/item?id=40183817) - [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
 * [2024-04-27, 19:09:00](https://news.ycombinator.com/item?id=40182555) - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
