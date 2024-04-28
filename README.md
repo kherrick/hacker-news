@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-28, 02:17:34](https://news.ycombinator.com/item?id=40185455) - [Why I Don't Invest in Real Estate](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
 * [2024-04-28, 01:05:37](https://news.ycombinator.com/item?id=40185065) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-28, 00:40:44](https://news.ycombinator.com/item?id=40184916) - [RFC 7282 – On Consensus and Humming in the IETF (2014)](https://datatracker.ietf.org/doc/html/rfc7282)
 * [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
 * [2024-04-27, 23:20:17](https://news.ycombinator.com/item?id=40184515) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
+* [2024-04-27, 21:54:30](https://news.ycombinator.com/item?id=40183933) - [Show HN: Is_ready – Wait for many services to become available – 0 Dependencies](https://github.com/Stavrospanakakis/is_ready)
 * [2024-04-27, 21:39:53](https://news.ycombinator.com/item?id=40183817) - [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Dev Advocate / Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)

@@ -9,6 +9,7 @@
 * [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 * [2024-04-27, 22:15:42](https://news.ycombinator.com/item?id=40184087) - [Dozens of deaths reveal risks of injecting sedatives into police detainees](https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b)
 * [2024-04-27, 22:08:37](https://news.ycombinator.com/item?id=40184035) - [Dietary brain health in behavioral, neuroimaging, biochemical and other analyses](https://www.nature.com/articles/s44220-024-00226-0)
+* [2024-04-27, 21:54:30](https://news.ycombinator.com/item?id=40183933) - [Show HN: Is_ready – Wait for many services to become available – 0 Dependencies](https://github.com/Stavrospanakakis/is_ready)
 * [2024-04-27, 21:39:53](https://news.ycombinator.com/item?id=40183817) - [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
 * [2024-04-27, 20:44:31](https://news.ycombinator.com/item?id=40183345) - [A Paradigm Shift in RAM](https://www.popularmechanics.com/technology/a60527526/mram-discovery/)
