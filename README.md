@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-28, 01:38:12](https://news.ycombinator.com/item?id=40185250) - [Why I Am Now Relaxed About Releasing Buggy Software](https://mamddoh.wordpress.com/2024/04/28/why-i-am-now-relaxed-about-releasing-buggy-software/)
 * [2024-04-28, 01:05:37](https://news.ycombinator.com/item?id=40185065) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-28, 00:40:44](https://news.ycombinator.com/item?id=40184916) - [RFC 7282 – On Consensus and Humming in the IETF (2014)](https://datatracker.ietf.org/doc/html/rfc7282)
 * [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
@@ -19,6 +18,7 @@
 * [2024-04-27, 15:38:21](https://news.ycombinator.com/item?id=40180790) - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
 * [2024-04-27, 15:05:30](https://news.ycombinator.com/item?id=40180516) - [The formation and revision of intuitions (2023) [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
 * [2024-04-27, 15:01:58](https://news.ycombinator.com/item?id=40180475) - [Show HN: Blot – code, art, robots and open source education](https://github.com/hackclub/blot)
+* [2024-04-27, 14:27:53](https://news.ycombinator.com/item?id=40180220) - [Oral History of Brian L. Halla [pdf] (2013)](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
