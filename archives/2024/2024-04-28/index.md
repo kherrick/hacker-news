@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 04:26:39](https://news.ycombinator.com/item?id=40185989) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
+* [2024-04-28, 04:03:43](https://news.ycombinator.com/item?id=40185890) - [Can science find ways to ease loneliness?](https://www.science.org/content/article/can-science-find-ways-ease-loneliness#)
+* [2024-04-28, 04:02:21](https://news.ycombinator.com/item?id=40185883) - [Google Quantum AI](https://quantumai.google/)
 * [2024-04-28, 03:16:54](https://news.ycombinator.com/item?id=40185726) - [Could humans alter the moon's orbit significantly with current technology?](https://worldbuilding.stackexchange.com/questions/47410/could-humans-alter-the-moons-orbit-significantly-with-current-technology)
 * [2024-04-28, 02:17:34](https://news.ycombinator.com/item?id=40185455) - [Why I Don't Invest in Real Estate](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
 * [2024-04-28, 01:38:12](https://news.ycombinator.com/item?id=40185250) - [Why I Am Now Relaxed About Releasing Buggy Software](https://mamddoh.wordpress.com/2024/04/28/why-i-am-now-relaxed-about-releasing-buggy-software/)
