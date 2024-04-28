@@ -7,6 +7,7 @@
 * [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
 * [2024-04-27, 23:20:17](https://news.ycombinator.com/item?id=40184515) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
+* [2024-04-27, 22:59:03](https://news.ycombinator.com/item?id=40184372) - [Show HN: Data Bonsai: a Python package to clean your data with LLMs](https://github.com/databonsai/databonsai)
 * [2024-04-27, 22:15:42](https://news.ycombinator.com/item?id=40184087) - [Dozens of deaths reveal risks of injecting sedatives into police detainees](https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b)
 * [2024-04-27, 22:08:37](https://news.ycombinator.com/item?id=40184035) - [Dietary brain health in behavioral, neuroimaging, biochemical and other analyses](https://www.nature.com/articles/s44220-024-00226-0)
 * [2024-04-27, 21:54:30](https://news.ycombinator.com/item?id=40183933) - [Show HN: Is_ready – Wait for many services to become available – 0 Dependencies](https://github.com/Stavrospanakakis/is_ready)

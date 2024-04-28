@@ -12,6 +12,7 @@
 * [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
 * [2024-04-27, 23:20:17](https://news.ycombinator.com/item?id=40184515) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
+* [2024-04-27, 22:59:03](https://news.ycombinator.com/item?id=40184372) - [Show HN: Data Bonsai: a Python package to clean your data with LLMs](https://github.com/databonsai/databonsai)
 * [2024-04-27, 21:54:30](https://news.ycombinator.com/item?id=40183933) - [Show HN: Is_ready – Wait for many services to become available – 0 Dependencies](https://github.com/Stavrospanakakis/is_ready)
 * [2024-04-27, 21:39:53](https://news.ycombinator.com/item?id=40183817) - [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:00:05](https://news.ycombinator.com/item?id=40183502) - [Zep AI (YC W24) Is Hiring a Dev Advocate / Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
@@ -27,7 +28,6 @@
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-25, 16:27:42](https://news.ycombinator.com/item?id=40159557) - [Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
 * [2024-04-25, 14:49:44](https://news.ycombinator.com/item?id=40158259) - [What a Bronze Age Skeleton Reveals About Cavities](https://nautil.us/what-a-bronze-age-skeleton-reveals-about-cavities-543227/)
-* [2024-04-25, 12:09:37](https://news.ycombinator.com/item?id=40156485) - [Mixing water and oil: no surfactants needed](https://physicsworld.com/a/mixing-water-and-oil-no-surfactants-needed/)
 * [2024-04-25, 08:19:11](https://news.ycombinator.com/item?id=40154854) - [Using squeezed wav2vec2 to automatically detect owl calls](https://www.seangoedecke.com/animal-call-audio-recognition/)
 * [2024-04-25, 06:06:54](https://news.ycombinator.com/item?id=40154007) - [Philosophus Autodidactus](https://en.wikipedia.org/wiki/Hayy_ibn_Yaqdhan)
 
