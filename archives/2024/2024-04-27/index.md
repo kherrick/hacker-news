@@ -66,6 +66,7 @@
 * [2024-04-27, 07:44:46](https://news.ycombinator.com/item?id=40178121) - [I Quit My Job](https://ashlybq.substack.com/p/i-quit-my-job)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [The First Website](https://info.cern.ch/hypertext/WWW/TheProject.html)
 * [2024-04-27, 07:00:43](https://news.ycombinator.com/item?id=40177904) - [Infracost (YC W21) is hiring senior software engineers](https://infracost.io/join-the-team)
+* [2024-04-27, 06:10:59](https://news.ycombinator.com/item?id=40177687) - [Crafting Interpreters: 640 Pages in 15 Months](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
 * [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 * [2024-04-27, 05:35:32](https://news.ycombinator.com/item?id=40177547) - [Thumb Nation: How We Learned to Play with Our Fingers](https://thehistoryofhowweplay.wordpress.com/2024/04/26/thumb-nation-how-we-learned-to-play-with-our-fingers/)
 * [2024-04-27, 04:16:58](https://news.ycombinator.com/item?id=40177171) - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)

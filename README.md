@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 03:16:54](https://news.ycombinator.com/item?id=40185726) - [Could humans alter the moon's orbit significantly with current technology?](https://worldbuilding.stackexchange.com/questions/47410/could-humans-alter-the-moons-orbit-significantly-with-current-technology)
 * [2024-04-28, 01:05:37](https://news.ycombinator.com/item?id=40185065) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-28, 00:40:44](https://news.ycombinator.com/item?id=40184916) - [RFC 7282 – On Consensus and Humming in the IETF (2014)](https://datatracker.ietf.org/doc/html/rfc7282)
 * [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
@@ -22,10 +23,9 @@
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
-* [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
+* [2024-04-27, 06:10:59](https://news.ycombinator.com/item?id=40177687) - [Crafting Interpreters: 640 Pages in 15 Months](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [Show HN: Scenestamps – A website for sharing movie scenes with timestamps](https://news.ycombinator.com/item?id=40166516)
-* [2024-04-26, 05:04:51](https://news.ycombinator.com/item?id=40166099) - [The importance of an ordinary space in a Unix shell command line](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellImportanceOfASpace)
 * [2024-04-26, 02:20:27](https://news.ycombinator.com/item?id=40165316) - [Ancient giant tortoise fossils found in Colombian Andes](https://phys.org/news/2024-04-ancient-giant-tortoise-fossils-colombian.html)
 * [2024-04-25, 16:27:42](https://news.ycombinator.com/item?id=40159557) - [Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
 * [2024-04-25, 12:09:37](https://news.ycombinator.com/item?id=40156485) - [Mixing water and oil: no surfactants needed](https://physicsworld.com/a/mixing-water-and-oil-no-surfactants-needed/)
