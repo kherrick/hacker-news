@@ -7,6 +7,7 @@
 * [2024-04-28, 21:57:00](https://news.ycombinator.com/item?id=40192359) - [Personal Computing Paves the Way for Personal Library Science](https://www.bramadams.dev/issue-55/)
 * [2024-04-28, 21:34:02](https://news.ycombinator.com/item?id=40192204) - [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
 * [2024-04-28, 21:06:53](https://news.ycombinator.com/item?id=40191915) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
+* [2024-04-28, 21:06:38](https://news.ycombinator.com/item?id=40191910) - [My Homemade Metal Lathe Project](https://www.backyardmetalcasting.com/lathe1.html)
 * [2024-04-28, 20:25:46](https://news.ycombinator.com/item?id=40191510) - [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
 * [2024-04-28, 20:00:48](https://news.ycombinator.com/item?id=40191353) - [Ozempic will disrupt big tobacco, candy companies, and alcohol brands](https://curingaddiction.substack.com/p/growing-concerns-that-ozempic-will)
 * [2024-04-28, 19:59:57](https://news.ycombinator.com/item?id=40191346) - ['Catastrophic grid failure' a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
