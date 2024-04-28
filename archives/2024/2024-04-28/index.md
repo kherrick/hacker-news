@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 15:32:26](https://news.ycombinator.com/item?id=40189346) - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
 * [2024-04-28, 13:41:14](https://news.ycombinator.com/item?id=40188511) - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
 * [2024-04-28, 13:20:24](https://news.ycombinator.com/item?id=40188390) - [Should the stock market never close?](https://www.ft.com/content/31c3a55b-9af9-4158-8a49-4397540571bf)
 * [2024-04-28, 13:17:54](https://news.ycombinator.com/item?id=40188369) - [Thorsten Ball: My Setup, April 2024](https://registerspill.thorstenball.com/p/my-setup-april-2024)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 15:32:26](https://news.ycombinator.com/item?id=40189346) - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
 * [2024-04-28, 13:41:14](https://news.ycombinator.com/item?id=40188511) - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
 * [2024-04-28, 12:51:45](https://news.ycombinator.com/item?id=40188235) - [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
 * [2024-04-28, 12:00:44](https://news.ycombinator.com/item?id=40187971) - [Zed Decoded: Rope and SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
@@ -12,7 +13,6 @@
 * [2024-04-28, 07:35:02](https://news.ycombinator.com/item?id=40186768) - [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 * [2024-04-28, 05:05:57](https://news.ycombinator.com/item?id=40186146) - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
 * [2024-04-28, 04:36:20](https://news.ycombinator.com/item?id=40186036) - [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
-* [2024-04-28, 04:02:21](https://news.ycombinator.com/item?id=40185883) - [Google Quantum AI](https://quantumai.google/)
 * [2024-04-28, 02:26:35](https://news.ycombinator.com/item?id=40185487) - [How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes](https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/)
 * [2024-04-28, 02:04:48](https://news.ycombinator.com/item?id=40185400) - [The Voyage of Magellan – Chapter 5: Underway](https://analog-antiquarian.net/2024/04/26/chapter-5-underway/)
 * [2024-04-28, 01:05:37](https://news.ycombinator.com/item?id=40185065) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
