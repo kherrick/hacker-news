@@ -7,6 +7,7 @@
 * [2024-04-28, 20:48:42](https://news.ycombinator.com/item?id=40191723) - [Ollama v0.1.33 with Llama 3, Phi 3, and Qwen 110B](https://github.com/ollama/ollama/releases/tag/v0.1.33-rc5)
 * [2024-04-28, 20:25:46](https://news.ycombinator.com/item?id=40191510) - [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
 * [2024-04-28, 19:59:57](https://news.ycombinator.com/item?id=40191346) - ['Catastrophic grid failure' a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
+* [2024-04-28, 19:20:16](https://news.ycombinator.com/item?id=40191075) - [The Shitty Technology Adoption Curve (2022)](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
 * [2024-04-28, 19:16:26](https://news.ycombinator.com/item?id=40191047) - [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
 * [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
 * [2024-04-28, 16:22:56](https://news.ycombinator.com/item?id=40189682) - [Did we lose our way in making efficient software?](https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4)
@@ -27,7 +28,6 @@
 * [2024-04-26, 09:45:26](https://news.ycombinator.com/item?id=40167461) - [Show HN: OpenLIT – Open-Source LLM Observability with OpenTelemetry](https://github.com/openlit/openlit)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
 * [2024-04-25, 23:28:11](https://news.ycombinator.com/item?id=40164310) - [Synth wars: The story of MIDI (2023)](https://www.musicradar.com/news/the-story-of-midi)
-* [2024-04-25, 18:36:43](https://news.ycombinator.com/item?id=40161344) - [AI-powered cameras installed on Metro buses to ticket illegally parked cars](https://www.latimes.com/california/story/2024-04-24/ai-powered-cameras-installed-on-metro-buses-will-be-used-to-spot-illegally-parked-cars)
 * [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 * [2024-04-25, 09:36:18](https://news.ycombinator.com/item?id=40155346) - [Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned)
 
