@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 19:59:57](https://news.ycombinator.com/item?id=40191346) - ['Catastrophic grid failure' a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
 * [2024-04-28, 19:29:24](https://news.ycombinator.com/item?id=40191143) - [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)
 * [2024-04-28, 19:23:35](https://news.ycombinator.com/item?id=40191098) - [The reckless policies that helped fill our streets with large cars](https://www.vox.com/future-perfect/24139147/suvs-trucks-popularity-federal-policy-pollution)
 * [2024-04-28, 19:20:16](https://news.ycombinator.com/item?id=40191075) - [The Shitty Technology Adoption Curve](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
