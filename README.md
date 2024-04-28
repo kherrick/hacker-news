@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 02:17:34](https://news.ycombinator.com/item?id=40185455) - [Why I Don't Invest in Real Estate](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
 * [2024-04-28, 01:05:37](https://news.ycombinator.com/item?id=40185065) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-28, 00:40:44](https://news.ycombinator.com/item?id=40184916) - [RFC 7282 – On Consensus and Humming in the IETF (2014)](https://datatracker.ietf.org/doc/html/rfc7282)
 * [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
@@ -22,7 +23,6 @@
 * [2024-04-27, 11:48:49](https://news.ycombinator.com/item?id=40179232) - [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
-* [2024-04-27, 05:35:32](https://news.ycombinator.com/item?id=40177547) - [Thumb Nation: How We Learned to Play with Our Fingers](https://thehistoryofhowweplay.wordpress.com/2024/04/26/thumb-nation-how-we-learned-to-play-with-our-fingers/)
 * [2024-04-27, 02:56:00](https://news.ycombinator.com/item?id=40176738) - [So you want to scrape like the big boys (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 * [2024-04-26, 06:40:30](https://news.ycombinator.com/item?id=40166516) - [Show HN: Scenestamps – A website for sharing movie scenes with timestamps](https://news.ycombinator.com/item?id=40166516)
 * [2024-04-26, 05:04:51](https://news.ycombinator.com/item?id=40166099) - [The importance of an ordinary space in a Unix shell command line](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellImportanceOfASpace)
