@@ -11,6 +11,7 @@
 * [2024-04-25, 23:32:07](https://news.ycombinator.com/item?id=40164337) - [Visualizing the locations of malicious login attempts](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
 * [2024-04-25, 23:28:11](https://news.ycombinator.com/item?id=40164310) - [Synth wars: The story of MIDI (2023)](https://www.musicradar.com/news/the-story-of-midi)
 * [2024-04-25, 23:27:43](https://news.ycombinator.com/item?id=40164308) - [Discovering an antimalarial drug in Mao's China](https://www.asimov.press/p/antimalarial-drug)
+* [2024-04-25, 23:13:07](https://news.ycombinator.com/item?id=40164213) - [GitHub: Packages support for fine-grained PATs](https://github.com/github/roadmap/issues/558)
 * [2024-04-25, 23:11:14](https://news.ycombinator.com/item?id=40164199) - [Jeff Lawson Buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 * [2024-04-25, 22:30:51](https://news.ycombinator.com/item?id=40163882) - [Apple releases eight small AI language models aimed at on-device use](https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/)
 * [2024-04-25, 22:08:52](https://news.ycombinator.com/item?id=40163684) - [A look at the early impact of Meta Llama 3](https://ai.meta.com/blog/meta-llama-3-update/)

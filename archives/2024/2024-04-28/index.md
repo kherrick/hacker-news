@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 17:00:28](https://news.ycombinator.com/item?id=40189970) - [Patterns (YC S21) is hiring to replace dashboards with AI agents](https://patterns.app/)
+* [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
+* [2024-04-28, 16:22:56](https://news.ycombinator.com/item?id=40189682) - [Did we lose our way in making efficient software? – ~30 MB doc file vs. browser](https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4)
 * [2024-04-28, 15:47:43](https://news.ycombinator.com/item?id=40189447) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:33:19](https://news.ycombinator.com/item?id=40189357) - [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
 * [2024-04-28, 15:32:26](https://news.ycombinator.com/item?id=40189346) - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
