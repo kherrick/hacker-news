@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 08:17:47](https://news.ycombinator.com/item?id=40186960) - [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
 * [2024-04-28, 05:44:50](https://news.ycombinator.com/item?id=40186299) - [The Better Boarding Method Airlines Won't Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
 * [2024-04-28, 05:05:57](https://news.ycombinator.com/item?id=40186146) - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
 * [2024-04-28, 04:26:18](https://news.ycombinator.com/item?id=40185986) - [Nation state backdoor found in Cisco firewalls (again..?) [video]](https://www.youtube.com/watch?v=GMiGHWTPv5Q)
@@ -18,7 +19,6 @@
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
 * [2024-04-27, 19:28:26](https://news.ycombinator.com/item?id=40182695) - [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
 * [2024-04-27, 19:09:00](https://news.ycombinator.com/item?id=40182555) - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/)
-* [2024-04-27, 16:40:06](https://news.ycombinator.com/item?id=40181306) - [Show HN: Cognita – open-source RAG framework for modular applications](https://github.com/truefoundry/cognita)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 12:39:37](https://news.ycombinator.com/item?id=40179494) - [Timo Noko's NokoLisp: Bare-Metal Lisp on the HP Omnigo 700LX](https://timonoko.github.io/Nokolisp.htm)
