@@ -18,7 +18,6 @@
 * [2024-04-27, 23:10:40](https://news.ycombinator.com/item?id=40184434) - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 * [2024-04-27, 22:59:03](https://news.ycombinator.com/item?id=40184372) - [Show HN: Data Bonsai: a Python package to clean your data with LLMs](https://github.com/databonsai/databonsai)
 * [2024-04-27, 19:49:10](https://news.ycombinator.com/item?id=40182868) - [Keep Out – WebGL Game](http://www.playkeepout.com/)
-* [2024-04-27, 19:09:00](https://news.ycombinator.com/item?id=40182555) - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/)
 * [2024-04-27, 15:43:54](https://news.ycombinator.com/item?id=40180821) - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 * [2024-04-27, 12:39:37](https://news.ycombinator.com/item?id=40179494) - [Timo Noko's NokoLisp: Bare-Metal Lisp on the HP Omnigo 700LX](https://timonoko.github.io/Nokolisp.htm)
@@ -28,6 +27,7 @@
 * [2024-04-26, 09:03:06](https://news.ycombinator.com/item?id=40167271) - [Implementing Neural Networks on a \"10-cent\" RISC-V MCU](https://cpldcpu.wordpress.com/2024/04/24/implementing-neural-networks-on-the-10-cent-risc-v-mcu-without-multiplier/)
 * [2024-04-25, 23:28:11](https://news.ycombinator.com/item?id=40164310) - [Synth wars: The story of MIDI (2023)](https://www.musicradar.com/news/the-story-of-midi)
 * [2024-04-25, 16:27:42](https://news.ycombinator.com/item?id=40159557) - [Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
+* [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 * [2024-04-25, 08:19:11](https://news.ycombinator.com/item?id=40154854) - [Using squeezed wav2vec2 to automatically detect owl calls](https://www.seangoedecke.com/animal-call-audio-recognition/)
 * [2024-04-25, 06:06:54](https://news.ycombinator.com/item?id=40154007) - [Philosophus Autodidactus](https://en.wikipedia.org/wiki/Hayy_ibn_Yaqdhan)
 
