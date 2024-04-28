@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
 * [2024-04-28, 12:00:09](https://news.ycombinator.com/item?id=40187964) - [UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
+* [2024-04-28, 11:45:12](https://news.ycombinator.com/item?id=40187881) - [Tell HN: I think there are major issues with Google –> Squarespace domains](https://news.ycombinator.com/item?id=40187881)
 * [2024-04-28, 11:03:45](https://news.ycombinator.com/item?id=40187656) - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
 * [2024-04-28, 10:17:26](https://news.ycombinator.com/item?id=40187449) - [Autoconf and configure features that people find valuable](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutoconfValuableFeatures)
 * [2024-04-28, 10:01:28](https://news.ycombinator.com/item?id=40187390) - [Jimmy Carter UFO Incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)
