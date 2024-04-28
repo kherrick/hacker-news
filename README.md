@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 05:44:50](https://news.ycombinator.com/item?id=40186299) - [The Better Boarding Method Airlines Won't Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
 * [2024-04-28, 04:39:03](https://news.ycombinator.com/item?id=40186055) - [First ever autonomous car race in Abu Dhabi finishes despite issues](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
 * [2024-04-28, 04:36:20](https://news.ycombinator.com/item?id=40186036) - [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
 * [2024-04-28, 04:26:39](https://news.ycombinator.com/item?id=40185989) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
 * [2024-04-28, 04:03:43](https://news.ycombinator.com/item?id=40185890) - [Can science find ways to ease loneliness?](https://www.science.org/content/article/can-science-find-ways-ease-loneliness#)
 * [2024-04-28, 04:02:21](https://news.ycombinator.com/item?id=40185883) - [Google Quantum AI](https://quantumai.google/)
 * [2024-04-28, 03:16:54](https://news.ycombinator.com/item?id=40185726) - [Could humans alter the moon's orbit significantly with current technology?](https://worldbuilding.stackexchange.com/questions/47410/could-humans-alter-the-moons-orbit-significantly-with-current-technology)
-* [2024-04-28, 02:26:35](https://news.ycombinator.com/item?id=40185487) - [How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes](https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/)
 * [2024-04-28, 01:05:37](https://news.ycombinator.com/item?id=40185065) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-28, 00:40:44](https://news.ycombinator.com/item?id=40184916) - [RFC 7282 – On Consensus and Humming in the IETF (2014)](https://datatracker.ietf.org/doc/html/rfc7282)
 * [2024-04-27, 23:52:11](https://news.ycombinator.com/item?id=40184673) - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)

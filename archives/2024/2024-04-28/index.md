@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 05:44:50](https://news.ycombinator.com/item?id=40186299) - [The Better Boarding Method Airlines Won't Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
 * [2024-04-28, 04:39:03](https://news.ycombinator.com/item?id=40186055) - [First ever autonomous car race in Abu Dhabi finishes despite issues](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
 * [2024-04-28, 04:36:20](https://news.ycombinator.com/item?id=40186036) - [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
 * [2024-04-28, 04:26:39](https://news.ycombinator.com/item?id=40185989) - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
