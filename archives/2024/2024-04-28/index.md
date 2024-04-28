@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 21:06:53](https://news.ycombinator.com/item?id=40191915) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
+* [2024-04-28, 20:25:46](https://news.ycombinator.com/item?id=40191510) - [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
 * [2024-04-28, 20:00:48](https://news.ycombinator.com/item?id=40191353) - [Ozempic will disrupt big tobacco, candy companies, and alcohol brands](https://curingaddiction.substack.com/p/growing-concerns-that-ozempic-will)
 * [2024-04-28, 19:59:57](https://news.ycombinator.com/item?id=40191346) - ['Catastrophic grid failure' a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
 * [2024-04-28, 19:29:24](https://news.ycombinator.com/item?id=40191143) - [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)

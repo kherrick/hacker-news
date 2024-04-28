@@ -66,6 +66,7 @@
 * [2024-04-27, 10:42:55](https://news.ycombinator.com/item?id=40178932) - [Texas Attracted California Techies. Now It's Losing Them](https://www.texasmonthly.com/news-politics/austin-texas-tech-bust-oracle-tesla/)
 * [2024-04-27, 10:01:03](https://news.ycombinator.com/item?id=40178754) - [Large language models (e.g., ChatGPT) as research assistants](https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants/)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
+* [2024-04-27, 09:34:57](https://news.ycombinator.com/item?id=40178634) - [Speeding up C++ build times](https://www.figma.com/blog/speeding-up-build-times/)
 * [2024-04-27, 09:33:08](https://news.ycombinator.com/item?id=40178629) - [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
 * [2024-04-27, 09:23:46](https://news.ycombinator.com/item?id=40178578) - [Why DoorDash fees are so high [pdf]](https://static1.squarespace.com/static/5237604ce4b0e51f969029ae/t/662a9780b43c114bd30bbd5a/1714067329519/Fee+report.pdf)
 * [2024-04-27, 08:29:35](https://news.ycombinator.com/item?id=40178325) - [What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2)
