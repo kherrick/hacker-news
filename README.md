@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-28, 19:29:24](https://news.ycombinator.com/item?id=40191143) - [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)
+* [2024-04-28, 19:23:35](https://news.ycombinator.com/item?id=40191098) - [The reckless policies that helped fill our streets with large cars](https://www.vox.com/future-perfect/24139147/suvs-trucks-popularity-federal-policy-pollution)
 * [2024-04-28, 19:20:16](https://news.ycombinator.com/item?id=40191075) - [The Shitty Technology Adoption Curve](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
+* [2024-04-28, 19:16:26](https://news.ycombinator.com/item?id=40191047) - [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
 * [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
 * [2024-04-28, 18:03:59](https://news.ycombinator.com/item?id=40190446) - [Williams-Sonoma fined $3.18M for falsely labeling products 'Made in USA'](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
 * [2024-04-28, 17:21:02](https://news.ycombinator.com/item?id=40190136) - [The AI expert who cited himself thousands of times on scientific paper](https://english.elpais.com/science-tech/2024-04-26/the-seven-lies-of-the-ai-expert-who-cited-himself-thousands-of-times-on-scientific-papers.html)
@@ -18,7 +20,6 @@
 * [2024-04-28, 09:48:40](https://news.ycombinator.com/item?id=40187334) - [Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
 * [2024-04-28, 08:17:47](https://news.ycombinator.com/item?id=40186960) - [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
 * [2024-04-28, 07:35:02](https://news.ycombinator.com/item?id=40186768) - [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
-* [2024-04-28, 05:05:57](https://news.ycombinator.com/item?id=40186146) - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
 * [2024-04-27, 23:47:39](https://news.ycombinator.com/item?id=40184659) - [Making a Flute-Controlled Mouse](https://0110.be/posts/Making_a_flute_controlled_mouse)
 * [2024-04-27, 15:05:01](https://news.ycombinator.com/item?id=40180509) - [From Pomona to Oakland, a skater mapped California block by block from his board](https://www.latimes.com/opinion/story/2024-04-12/from-pomona-to-oakland-how-a-skater-mapped-california-from-atop-his-board)
 * [2024-04-27, 12:51:09](https://news.ycombinator.com/item?id=40179566) - [PySheets – Spreadsheet UI for Python](https://pysheets.app/)
@@ -29,7 +30,6 @@
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
 * [2024-04-25, 23:28:11](https://news.ycombinator.com/item?id=40164310) - [Synth wars: The story of MIDI (2023)](https://www.musicradar.com/news/the-story-of-midi)
 * [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
-* [2024-04-25, 08:19:11](https://news.ycombinator.com/item?id=40154854) - [Using squeezed wav2vec2 to automatically detect owl calls](https://www.seangoedecke.com/animal-call-audio-recognition/)
 
 ## [Archives](archives/index.md)
 
