@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 15:47:43](https://news.ycombinator.com/item?id=40189447) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:33:19](https://news.ycombinator.com/item?id=40189357) - [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
 * [2024-04-28, 15:32:26](https://news.ycombinator.com/item?id=40189346) - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
 * [2024-04-28, 13:41:14](https://news.ycombinator.com/item?id=40188511) - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)

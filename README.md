@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-28, 15:47:43](https://news.ycombinator.com/item?id=40189447) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:33:19](https://news.ycombinator.com/item?id=40189357) - [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
 * [2024-04-28, 15:32:26](https://news.ycombinator.com/item?id=40189346) - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
 * [2024-04-28, 13:41:14](https://news.ycombinator.com/item?id=40188511) - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
@@ -22,7 +23,6 @@
 * [2024-04-27, 12:51:09](https://news.ycombinator.com/item?id=40179566) - [PySheets – Spreadsheet UI for Python](https://pysheets.app/)
 * [2024-04-27, 08:29:35](https://news.ycombinator.com/item?id=40178325) - [What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2)
 * [2024-04-27, 06:26:39](https://news.ycombinator.com/item?id=40177754) - [Tom Seidmann-Freud's Book of Hare Stories (1924)](https://publicdomainreview.org/collection/tom-seidmann-freud-hare-tales/)
-* [2024-04-27, 06:10:59](https://news.ycombinator.com/item?id=40177687) - [Crafting Interpreters: 640 Pages in 15 Months](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
 * [2024-04-27, 05:46:55](https://news.ycombinator.com/item?id=40177599) - [Watch cars evolve using genetic algorithm](https://rednuht.org/genetic_cars_2/)
 * [2024-04-26, 19:15:53](https://news.ycombinator.com/item?id=40172948) - [Building an IBM 3270 terminal controller](https://ajk.me/building-an-ibm-3270-terminal-controller)
 * [2024-04-26, 10:12:59](https://news.ycombinator.com/item?id=40167596) - [Wobble Town (Inspired by Tamagotchi)](https://wobble.town/)
