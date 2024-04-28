@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-04-28, 04:36:20",
-      "https://news.ycombinator.com/item?id=40186036"
-    ],
-    [
-      "Install Asdf: One Runtime Manager to Rule All Dev Environments",
-      "https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 04:23:40",
       "https://news.ycombinator.com/item?id=40185970"
     ],
@@ -41,22 +31,22 @@
   ],
   [
     [
-      "2024-04-28, 04:03:43",
-      "https://news.ycombinator.com/item?id=40185890"
-    ],
-    [
-      "Can science find ways to ease loneliness?",
-      "https://www.science.org/content/article/can-science-find-ways-ease-loneliness#"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 04:02:21",
       "https://news.ycombinator.com/item?id=40185883"
     ],
     [
       "Google Quantum AI",
       "https://quantumai.google/"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 02:26:35",
+      "https://news.ycombinator.com/item?id=40185487"
+    ],
+    [
+      "How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes",
+      "https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "ArcaneDoor – New campaign found targeting network devices",
       "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/"
+    ]
+  ],
+  [
+    [
+      "2024-04-27, 16:40:06",
+      "https://news.ycombinator.com/item?id=40181306"
+    ],
+    [
+      "Show HN: Cognita – open-source RAG framework for modular applications",
+      "https://github.com/truefoundry/cognita"
     ]
   ],
   [
