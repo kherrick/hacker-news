@@ -12,6 +12,7 @@
 * [2024-04-28, 07:35:02](https://news.ycombinator.com/item?id=40186768) - [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 * [2024-04-28, 05:05:57](https://news.ycombinator.com/item?id=40186146) - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
 * [2024-04-28, 04:36:20](https://news.ycombinator.com/item?id=40186036) - [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
+* [2024-04-28, 04:02:21](https://news.ycombinator.com/item?id=40185883) - [Google Quantum AI](https://quantumai.google/)
 * [2024-04-28, 02:26:35](https://news.ycombinator.com/item?id=40185487) - [How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes](https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/)
 * [2024-04-28, 02:04:48](https://news.ycombinator.com/item?id=40185400) - [The Voyage of Magellan – Chapter 5: Underway](https://analog-antiquarian.net/2024/04/26/chapter-5-underway/)
 * [2024-04-28, 01:05:37](https://news.ycombinator.com/item?id=40185065) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
@@ -29,7 +30,6 @@
 * [2024-04-25, 23:28:11](https://news.ycombinator.com/item?id=40164310) - [Synth wars: The story of MIDI (2023)](https://www.musicradar.com/news/the-story-of-midi)
 * [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 * [2024-04-25, 08:19:11](https://news.ycombinator.com/item?id=40154854) - [Using squeezed wav2vec2 to automatically detect owl calls](https://www.seangoedecke.com/animal-call-audio-recognition/)
-* [2024-04-25, 06:06:54](https://news.ycombinator.com/item?id=40154007) - [Philosophus Autodidactus](https://en.wikipedia.org/wiki/Hayy_ibn_Yaqdhan)
 
 ## [Archives](archives/index.md)
 
