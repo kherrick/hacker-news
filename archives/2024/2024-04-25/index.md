@@ -97,6 +97,7 @@
 * [2024-04-25, 12:00:23](https://news.ycombinator.com/item?id=40156397) - [Cogram (YC W22) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
 * [2024-04-25, 11:53:04](https://news.ycombinator.com/item?id=40156330) - [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
 * [2024-04-25, 11:47:36](https://news.ycombinator.com/item?id=40156275) - [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
+* [2024-04-25, 11:47:10](https://news.ycombinator.com/item?id=40156268) - [We were wrong, we need a database](https://simonedutto.github.io/2024-04-09/no-ret-no-party)
 * [2024-04-25, 11:38:48](https://news.ycombinator.com/item?id=40156205) - [Any fun ways to learn Emacs?](https://news.ycombinator.com/item?id=40156205)
 * [2024-04-25, 11:29:58](https://news.ycombinator.com/item?id=40156133) - [More on x86 – The Chip Letter](https://thechipletter.substack.com/p/more-on-x86)
 * [2024-04-25, 11:19:55](https://news.ycombinator.com/item?id=40156057) - [Leaving Substack](https://www.mostlypython.com/leaving-substack/)
