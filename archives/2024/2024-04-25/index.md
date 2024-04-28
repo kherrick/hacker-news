@@ -114,6 +114,7 @@
 * [2024-04-25, 09:45:57](https://news.ycombinator.com/item?id=40155405) - [Laws of Tech: Commoditize Your Complement (2022)](https://gwern.net/complement)
 * [2024-04-25, 09:42:32](https://news.ycombinator.com/item?id=40155381) - [The many (many) ways I've backdoored your dependencies and other supply chain at](https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks)
 * [2024-04-25, 09:40:59](https://news.ycombinator.com/item?id=40155374) - [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
+* [2024-04-25, 09:36:18](https://news.ycombinator.com/item?id=40155346) - [Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned)
 * [2024-04-25, 09:35:24](https://news.ycombinator.com/item?id=40155336) - [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
 * [2024-04-25, 09:28:57](https://news.ycombinator.com/item?id=40155293) - [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
 * [2024-04-25, 09:20:25](https://news.ycombinator.com/item?id=40155240) - [Boeing retaliated against its own engineers working for FAA, union says](https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/)
