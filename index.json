@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-28, 17:00:28",
+      "https://news.ycombinator.com/item?id=40189970"
+    ],
+    [
+      "Patterns (YC S21) is hiring to replace dashboards with AI agents",
+      "https://patterns.app/"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 16:54:33",
+      "https://news.ycombinator.com/item?id=40189928"
+    ],
+    [
+      "The Myth of the Second Chance",
+      "https://ft.pressreader.com/article/282557318242321"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 16:22:56",
+      "https://news.ycombinator.com/item?id=40189682"
+    ],
+    [
+      "Did we lose our way in making efficient software? – ~30 MB doc file vs. browser",
+      "https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 15:47:43",
       "https://news.ycombinator.com/item?id=40189447"
     ],
@@ -57,16 +87,6 @@
     [
       "Zed Decoded: Rope and SumTree",
       "https://zed.dev/blog/zed-decoded-rope-sumtree"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 12:00:09",
-      "https://news.ycombinator.com/item?id=40187964"
-    ],
-    [
-      "UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance",
-      "https://up.codes/careers?utm_source=HN"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-04-28, 02:26:35",
-      "https://news.ycombinator.com/item?id=40185487"
-    ],
-    [
-      "How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes",
-      "https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 02:04:48",
       "https://news.ycombinator.com/item?id=40185400"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2024-04-28, 01:05:37",
-      "https://news.ycombinator.com/item?id=40185065"
-    ],
-    [
-      "How to improve the RISC-V specification",
-      "https://alastairreid.github.io/riscv-spec-issues/"
-    ]
-  ],
-  [
-    [
       "2024-04-27, 23:47:39",
       "https://news.ycombinator.com/item?id=40184659"
     ],
     [
       "Making a Flute-Controlled Mouse",
       "https://0110.be/posts/Making_a_flute_controlled_mouse"
-    ]
-  ],
-  [
-    [
-      "2024-04-27, 15:07:10",
-      "https://news.ycombinator.com/item?id=40180530"
-    ],
-    [
-      "Adding the \"Move to Trash\" function to System 7.1",
-      "https://blog.gingerbeardman.com/2024/04/12/adding-the-move-to-trash-function-to-system-7/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Synth wars: The story of MIDI (2023)",
       "https://www.musicradar.com/news/the-story-of-midi"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 23:13:07",
+      "https://news.ycombinator.com/item?id=40164213"
+    ],
+    [
+      "GitHub: Packages support for fine-grained PATs",
+      "https://github.com/github/roadmap/issues/558"
     ]
   ],
   [
