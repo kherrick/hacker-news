@@ -49,6 +49,7 @@
 * [2024-04-27, 12:58:11](https://news.ycombinator.com/item?id=40179619) - [Ubuntu Desktop 24.04 LTS: Noble Numbat](https://ubuntu.com/blog/ubuntu-desktop-24-04-noble-numbat-deep-dive)
 * [2024-04-27, 12:54:14](https://news.ycombinator.com/item?id=40179585) - [NHTSA Tesla Report (2024) [pdf]](https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf)
 * [2024-04-27, 12:49:55](https://news.ycombinator.com/item?id=40179553) - [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
+* [2024-04-27, 12:39:37](https://news.ycombinator.com/item?id=40179494) - [Timo Noko's NokoLisp: Bare-Metal Lisp on the HP Omnigo 700LX](https://timonoko.github.io/Nokolisp.htm)
 * [2024-04-27, 12:20:29](https://news.ycombinator.com/item?id=40179398) - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
 * [2024-04-27, 12:11:52](https://news.ycombinator.com/item?id=40179340) - [WebSim, WorldSim and the Summer of Simulative AI](https://www.latent.space/p/sim-ai)
 * [2024-04-27, 12:01:03](https://news.ycombinator.com/item?id=40179295) - [Sweep (YC S23) is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
