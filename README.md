@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 14:57:29](https://news.ycombinator.com/item?id=40199153) - [A leadership crisis in the Nix community](https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/)
+* [2024-04-29, 14:54:38](https://news.ycombinator.com/item?id=40199118) - [Tiered storage won't fix Kafka](https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka)
 * [2024-04-29, 14:29:13](https://news.ycombinator.com/item?id=40198766) - [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html)
 * [2024-04-29, 14:12:58](https://news.ycombinator.com/item?id=40198595) - [Phreaking](https://en.wikipedia.org/wiki/Phreaking)
 * [2024-04-29, 14:01:47](https://news.ycombinator.com/item?id=40198458) - [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
@@ -7,9 +9,6 @@
 * [2024-04-29, 13:54:06](https://news.ycombinator.com/item?id=40198378) - [ByteDance’s web of apps could get tangled up in TikTok ban](https://www.axios.com/2024/04/23/tiktok-ban-bytedance-apps-capcut-lemon8)
 * [2024-04-29, 13:49:42](https://news.ycombinator.com/item?id=40198326) - [Collection of publicly available IPTV channels](https://iptv-org.github.io/)
 * [2024-04-29, 13:43:49](https://news.ycombinator.com/item?id=40198258) - [Pulumi AI is poisoning Google search results with AI answers](https://github.com/pulumi/pulumi-ai/issues/79)
-* [2024-04-29, 13:34:18](https://news.ycombinator.com/item?id=40198143) - [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
-* [2024-04-29, 13:01:05](https://news.ycombinator.com/item?id=40197750) - [Ask HN: What fields or technologies are you excited about?](https://news.ycombinator.com/item?id=40197750)
-* [2024-04-29, 12:44:51](https://news.ycombinator.com/item?id=40197559) - [Doctor at Cigna said bosses pressured her to review patients' cases too quickly](https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance)
 * [2024-04-29, 12:19:38](https://news.ycombinator.com/item?id=40197346) - [What's Going on with ‘Nonplussed’? (2017)](https://www.merriam-webster.com/grammar/nonplussed)
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
 * [2024-04-29, 12:00:34](https://news.ycombinator.com/item?id=40197212) - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
@@ -28,8 +27,9 @@
 * [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
 * [2024-04-28, 08:51:18](https://news.ycombinator.com/item?id=40187072) - [Pdf.tocgen](https://krasjet.com/voice/pdf.tocgen/)
 * [2024-04-28, 08:06:46](https://news.ycombinator.com/item?id=40186919) - [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
+* [2024-04-28, 07:47:09](https://news.ycombinator.com/item?id=40186819) - [Principles for Keyboard Layouts (2022)](https://anniecherkaev.com/principles-for-keyboard-layouts)
 * [2024-04-28, 07:30:40](https://news.ycombinator.com/item?id=40186752) - [Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
-* [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
+* [2024-04-27, 11:40:57](https://news.ycombinator.com/item?id=40179194) - [Practical Vim command workflow (2023)](https://m4xshen.dev/posts/vim-command-workflow/)
 
 ## [Archives](archives/index.md)
 
