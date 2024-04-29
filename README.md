@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 17:04:15](https://news.ycombinator.com/item?id=40201053) - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
+* [2024-04-29, 17:03:39](https://news.ycombinator.com/item?id=40201043) - [PHP Is Web Shell](https://hiandrewquinn.github.io/til-site/posts/php-is-web-shell/)
 * [2024-04-29, 17:00:59](https://news.ycombinator.com/item?id=40200998) - [Activeloop (YC S18) Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
 * [2024-04-29, 15:57:03](https://news.ycombinator.com/item?id=40199972) - [Kaytu: Open-Source Tool for Optimizing Cloud Costs Using Actual Usage Data](https://github.com/kaytu-io/kaytu)
 * [2024-04-29, 15:56:56](https://news.ycombinator.com/item?id=40199967) - [I made a new backplane for my consumer NAS](https://codedbearder.com/posts/f3-backplane/)
@@ -13,9 +15,7 @@
 * [2024-04-29, 13:53:05](https://news.ycombinator.com/item?id=40198362) - [Struve's Flat(ter) Earth (2023)](https://blog.datawrapper.de/struve-geodetic-arc/)
 * [2024-04-29, 12:19:38](https://news.ycombinator.com/item?id=40197346) - [What's Going on with ‘Nonplussed’? (2017)](https://www.merriam-webster.com/grammar/nonplussed)
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
-* [2024-04-29, 11:13:00](https://news.ycombinator.com/item?id=40196880) - [Ask HN: What's the best charting library for customer-facing dashboards?](https://news.ycombinator.com/item?id=40196880)
 * [2024-04-29, 11:12:51](https://news.ycombinator.com/item?id=40196879) - [Memary: Open-Source Longterm Memory for Autonomous Agents](https://github.com/kingjulio8238/memary)
-* [2024-04-29, 11:08:57](https://news.ycombinator.com/item?id=40196856) - [US Post Office phishing sites get as much traffic as the real one](https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/)
 * [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
 * [2024-04-29, 07:36:03](https://news.ycombinator.com/item?id=40195557) - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)

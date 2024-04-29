@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 17:04:15](https://news.ycombinator.com/item?id=40201053) - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
+* [2024-04-29, 17:03:39](https://news.ycombinator.com/item?id=40201043) - [PHP Is Web Shell](https://hiandrewquinn.github.io/til-site/posts/php-is-web-shell/)
 * [2024-04-29, 17:00:59](https://news.ycombinator.com/item?id=40200998) - [Activeloop (YC S18) Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
 * [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 * [2024-04-29, 16:01:24](https://news.ycombinator.com/item?id=40200048) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
