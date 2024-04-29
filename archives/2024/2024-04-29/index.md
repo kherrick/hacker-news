@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 17:16:58](https://news.ycombinator.com/item?id=40201199) - [Physical Fitness and Risk of Mental Disorders in Children and Adolescents](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2818132)
+* [2024-04-29, 17:05:58](https://news.ycombinator.com/item?id=40201077) - [Copilot Workspace is GitHub's take on AI-powered software engineering](https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/)
 * [2024-04-29, 17:04:15](https://news.ycombinator.com/item?id=40201053) - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
 * [2024-04-29, 17:03:39](https://news.ycombinator.com/item?id=40201043) - [PHP Is Web Shell](https://hiandrewquinn.github.io/til-site/posts/php-is-web-shell/)
 * [2024-04-29, 17:00:59](https://news.ycombinator.com/item?id=40200998) - [Activeloop (YC S18) Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
 * [2024-04-29, 16:59:45](https://news.ycombinator.com/item?id=40200971) - [California Senate bill to crush OpenAI competitors fast tracked for a vote](https://twitter.com/psychosort/status/1784663936513524074)
+* [2024-04-29, 16:34:32](https://news.ycombinator.com/item?id=40200602) - [GitHub previews Copilot Workspace: AI IDE to turn ideas into software](https://venturebeat.com/ai/github-previews-copilot-workspace/)
 * [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 * [2024-04-29, 16:01:24](https://news.ycombinator.com/item?id=40200048) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
 * [2024-04-29, 15:57:03](https://news.ycombinator.com/item?id=40199972) - [Kaytu: Open-Source Tool for Optimizing Cloud Costs Using Actual Usage Data](https://github.com/kaytu-io/kaytu)
@@ -75,5 +78,6 @@
 * [2024-04-29, 01:11:19](https://news.ycombinator.com/item?id=40193385) - [Tangoing with a Martin Gardner Word Game](https://pncnmnp.github.io/blogs/martin-gardner-game.html)
 * [2024-04-29, 01:05:29](https://news.ycombinator.com/item?id=40193355) - [Apple MacBook Air 15-Inch M3 Review – Thurrott.com](https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review)
 * [2024-04-29, 00:28:37](https://news.ycombinator.com/item?id=40193216) - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
+* [2024-04-29, 00:27:14](https://news.ycombinator.com/item?id=40193209) - [Pearls Before Breakfast: Can a great musician cut fog of rush hour? (2007)](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html)
 * [2024-04-29, 00:21:50](https://news.ycombinator.com/item?id=40193189) - [Dubai's Planned $32B Mega Airport Project](https://tamernoah.substack.com/p/dubais-planned-32-billion-mega-airport)
 * [2024-04-29, 00:05:02](https://news.ycombinator.com/item?id=40193112) - [Catholic Group Quickly Defrocks AI Priest Father Justin](https://futurism.com/catholics-defrock-ai-priest-hallucinations)
