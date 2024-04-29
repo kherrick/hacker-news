@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
-* [2024-04-29, 16:01:24](https://news.ycombinator.com/item?id=40200048) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
 * [2024-04-29, 15:38:46](https://news.ycombinator.com/item?id=40199713) - [How do you accidentally run for President of Iceland?](https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e)
 * [2024-04-29, 15:35:31](https://news.ycombinator.com/item?id=40199679) - [Project Habbakuk: Britain's Ice \"Bergship\" Aircraft Carrier Project](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
@@ -22,6 +21,7 @@
 * [2024-04-29, 01:11:19](https://news.ycombinator.com/item?id=40193385) - [Tangoing with a Martin Gardner Word Game](https://pncnmnp.github.io/blogs/martin-gardner-game.html)
 * [2024-04-28, 22:04:20](https://news.ycombinator.com/item?id=40192403) - [Claude Émile Jean-Baptiste Litre](https://en.wikipedia.org/wiki/Claude_%C3%89mile_Jean-Baptiste_Litre)
 * [2024-04-28, 21:57:00](https://news.ycombinator.com/item?id=40192359) - [Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
+* [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
 * [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
 * [2024-04-28, 08:51:18](https://news.ycombinator.com/item?id=40187072) - [Pdf.tocgen](https://krasjet.com/voice/pdf.tocgen/)
 * [2024-04-28, 08:06:46](https://news.ycombinator.com/item?id=40186919) - [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
