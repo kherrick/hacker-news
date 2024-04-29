@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-29, 17:42:21](https://news.ycombinator.com/item?id=40201511) - [Man impersonated law enforcement, sought to investigate own crimes, police say](https://www.courtwatch.news/p/fake-badges-bomb-threats-phony-search)
+* [2024-04-29, 18:23:08](https://news.ycombinator.com/item?id=40202027) - [Liu Cixin's War of the Worlds](https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds)
+* [2024-04-29, 18:14:02](https://news.ycombinator.com/item?id=40201920) - [\"So that a truncated partial download doesn't end up executing half a script\"](https://tailscale.com/install.sh)
 * [2024-04-29, 17:33:01](https://news.ycombinator.com/item?id=40201397) - [The Financial Times and OpenAI strike content licensing deal](https://www.ft.com/content/33328743-ba3b-470f-a2e3-f41c3a366613)
 * [2024-04-29, 17:16:58](https://news.ycombinator.com/item?id=40201199) - [Physical fitness and risk of mental disorders in children and adolescents](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2818132)
 * [2024-04-29, 17:04:15](https://news.ycombinator.com/item?id=40201053) - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
@@ -28,7 +29,6 @@
 * [2024-04-28, 15:34:59](https://news.ycombinator.com/item?id=40189372) - [How do satellites communicate with a GPS system? (2018)](https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/)
 * [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
 * [2024-04-28, 08:51:18](https://news.ycombinator.com/item?id=40187072) - [Pdf.tocgen](https://krasjet.com/voice/pdf.tocgen/)
-* [2024-04-28, 08:06:46](https://news.ycombinator.com/item?id=40186919) - [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
 * [2024-04-28, 07:47:09](https://news.ycombinator.com/item?id=40186819) - [Principles for Keyboard Layouts (2022)](https://anniecherkaev.com/principles-for-keyboard-layouts)
 
 ## [Archives](archives/index.md)
