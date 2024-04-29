@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 17:42:21](https://news.ycombinator.com/item?id=40201511) - [Man impersonated law enforcement, sought to investigate own crimes, police say](https://www.courtwatch.news/p/fake-badges-bomb-threats-phony-search)
+* [2024-04-29, 17:33:01](https://news.ycombinator.com/item?id=40201397) - [The Financial Times and OpenAI strike content licensing deal](https://www.ft.com/content/33328743-ba3b-470f-a2e3-f41c3a366613)
 * [2024-04-29, 17:16:58](https://news.ycombinator.com/item?id=40201199) - [Physical Fitness and Risk of Mental Disorders in Children and Adolescents](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2818132)
 * [2024-04-29, 17:05:58](https://news.ycombinator.com/item?id=40201077) - [Copilot Workspace is GitHub's take on AI-powered software engineering](https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/)
 * [2024-04-29, 17:04:15](https://news.ycombinator.com/item?id=40201053) - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
