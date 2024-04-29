@@ -2,7 +2,6 @@
 
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
 * [2024-04-29, 04:07:37](https://news.ycombinator.com/item?id=40194314) - [Forget moonshots, investors want profit now](https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25)
-* [2024-04-29, 03:05:27](https://news.ycombinator.com/item?id=40193998) - [Japanese yen weakens to 160 against the USD for the first time since 1990](https://www.cnbc.com/2024/04/29/japanese-yen-weakens-to-160-against-the-us-dollar-for-the-first-time-since-1990.html)
 * [2024-04-29, 00:28:37](https://news.ycombinator.com/item?id=40193216) - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
 * [2024-04-28, 22:49:17](https://news.ycombinator.com/item?id=40192698) - [6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 * [2024-04-28, 22:30:55](https://news.ycombinator.com/item?id=40192579) - [The Essence of Compiling with Continuations (1993) [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
@@ -29,6 +28,7 @@
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-26, 09:45:26](https://news.ycombinator.com/item?id=40167461) - [Show HN: OpenLIT – Open-Source LLM Observability with OpenTelemetry](https://github.com/openlit/openlit)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
+* [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 * [2024-04-25, 09:29:06](https://news.ycombinator.com/item?id=40155294) - [A brief history of web development, and why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
 
 ## [Archives](archives/index.md)
