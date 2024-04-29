@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-04-29, 00:21:50",
-      "https://news.ycombinator.com/item?id=40193189"
+      "2024-04-29, 01:50:46",
+      "https://news.ycombinator.com/item?id=40193590"
     ],
     [
-      "Dubai's Planned $32B Mega Airport Project",
-      "https://tamernoah.substack.com/p/dubais-planned-32-billion-mega-airport"
+      "Exercise, metabolism, and weight: New research from The Biggest Loser",
+      "https://www.health.harvard.edu/blog/exercise-metabolism-and-weight-new-research-from-the-biggest-loser-202201272676"
     ]
   ],
   [
     [
-      "2024-04-29, 00:05:02",
-      "https://news.ycombinator.com/item?id=40193112"
+      "2024-04-29, 01:05:29",
+      "https://news.ycombinator.com/item?id=40193355"
     ],
     [
-      "Catholic Group Quickly Defrocks AI Priest Father Justin",
-      "https://futurism.com/catholics-defrock-ai-priest-hallucinations"
+      "Apple MacBook Air 15-Inch M3 Review – Thurrott.com",
+      "https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]",
       "https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 22:43:26",
+      "https://news.ycombinator.com/item?id=40192664"
+    ],
+    [
+      "Block* and AgentFormer – Playing with blocks and Transformers (yay)",
+      "https://github.com/rayking99/BlockStar"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2024-04-28, 21:34:02",
-      "https://news.ycombinator.com/item?id=40192204"
+      "2024-04-28, 21:38:05",
+      "https://news.ycombinator.com/item?id=40192240"
     ],
     [
-      "Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act",
-      "https://www.affuture.org/post/9-context/"
+      "DEC PDP-1 emulator running \"Spacewar\", the earliest known digital video game",
+      "https://www.masswerk.at/spacewar/index.html"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2024-04-28, 13:01:12",
+      "https://news.ycombinator.com/item?id=40188282"
+    ],
+    [
+      "Show HN: Docker-phobia: Analyze Docker image size with a treemap",
+      "https://github.com/remorses/docker-phobia"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 12:41:27",
       "https://news.ycombinator.com/item?id=40188173"
     ],
@@ -181,31 +201,11 @@
   ],
   [
     [
-      "2024-04-28, 09:59:05",
-      "https://news.ycombinator.com/item?id=40187379"
-    ],
-    [
-      "TfL's simple pop-up message led to a significant drop in paper ticket sales",
-      "https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 09:48:40",
-      "https://news.ycombinator.com/item?id=40187334"
-    ],
-    [
-      "Flow Field Pathfinding",
-      "https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 06:05:43",
       "https://news.ycombinator.com/item?id=40186374"
     ],
     [
-      "Help My mouse climbed a wall and now it doesn't work right",
+      "Help! My mouse climbed a wall and now it doesn't work right",
       "https://www.theregister.com/2024/04/26/on_call/"
     ]
   ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-04-27, 05:36:45",
+      "https://news.ycombinator.com/item?id=40177553"
+    ],
+    [
+      "I found one of my first programs (Java,2011) on the Wayback Machine and it runs",
+      "https://github.com/khiner/CrosswordFiller"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 09:45:26",
       "https://news.ycombinator.com/item?id=40167461"
     ],
@@ -277,16 +287,6 @@
     [
       "Synth wars: The story of MIDI (2023)",
       "https://www.musicradar.com/news/the-story-of-midi"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 10:33:28",
-      "https://news.ycombinator.com/item?id=40155713"
-    ],
-    [
-      "Fragmented thinking is a bigger threat to flow state than interruptions",
-      "https://blog.stackblitz.com/posts/flow-state/"
     ]
   ],
   [
