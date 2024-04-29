@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-29, 14:12:58",
+      "https://news.ycombinator.com/item?id=40198595"
+    ],
+    [
+      "Phreaking",
+      "https://en.wikipedia.org/wiki/Phreaking"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 14:01:47",
       "https://news.ycombinator.com/item?id=40198458"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2024-04-29, 13:54:06",
+      "https://news.ycombinator.com/item?id=40198378"
+    ],
+    [
+      "ByteDance’s web of apps could get tangled up in TikTok ban",
+      "https://www.axios.com/2024/04/23/tiktok-ban-bytedance-apps-capcut-lemon8"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 13:53:20",
+      "https://news.ycombinator.com/item?id=40198364"
+    ],
+    [
+      "CB1 Receptor Negative Allosteric Modulators to Reverse Cannabinoid Toxicity",
+      "https://www.mdpi.com/1420-3049/29/8/1881"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 13:49:42",
       "https://news.ycombinator.com/item?id=40198326"
     ],
     [
       "Collection of publicly available IPTV channels",
       "https://iptv-org.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 13:43:49",
+      "https://news.ycombinator.com/item?id=40198258"
+    ],
+    [
+      "Pulumi AI is poisoning Google search results with AI answers",
+      "https://github.com/pulumi/pulumi-ai/issues/79"
     ]
   ],
   [
@@ -35,18 +75,8 @@
       "https://news.ycombinator.com/item?id=40197559"
     ],
     [
-      "Doctor at Cigna Said Bosses Pressured Her to Review Patients' Cases Too Quickly",
+      "Doctor at Cigna said bosses pressured her to review patients' cases too quickly",
       "https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 12:42:34",
-      "https://news.ycombinator.com/item?id=40197542"
-    ],
-    [
-      "AI Leapfrogging: How AI Will Transform “Lagging” Industries (2023)",
-      "https://www.nfx.com/post/ai-leapfrogging"
     ]
   ],
   [
@@ -81,11 +111,21 @@
   ],
   [
     [
+      "2024-04-29, 11:13:00",
+      "https://news.ycombinator.com/item?id=40196880"
+    ],
+    [
+      "Ask HN: What's the best charting library for customer-facing dashboards?",
+      "https://news.ycombinator.com/item?id=40196880"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 11:12:51",
       "https://news.ycombinator.com/item?id=40196879"
     ],
     [
-      "Memary is a cutting-edge long-term memory system based on a knowledge graph",
+      "Memary: Open-Source Longterm Memory for Autonomous Agents",
       "https://github.com/kingjulio8238/memary"
     ]
   ],
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2024-04-28, 22:49:17",
-      "https://news.ycombinator.com/item?id=40192698"
-    ],
-    [
-      "6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]",
-      "https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 21:57:00",
       "https://news.ycombinator.com/item?id=40192359"
     ],
     [
       "Personal computing paves the way for personal library science",
       "https://www.bramadams.dev/issue-55/"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 20:25:46",
-      "https://news.ycombinator.com/item?id=40191510"
-    ],
-    [
-      "Show HN: Dotenv, if it is a Unix utility",
-      "https://github.com/gyf304/dotenv"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-04-28, 07:47:09",
-      "https://news.ycombinator.com/item?id=40186819"
-    ],
-    [
-      "Principles for Keyboard Layouts (2022)",
-      "https://anniecherkaev.com/principles-for-keyboard-layouts"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 07:30:40",
       "https://news.ycombinator.com/item?id=40186752"
     ],
@@ -267,16 +277,6 @@
     [
       "Practical Vim command workflow (2023)",
       "https://m4xshen.dev/posts/vim-command-workflow/"
-    ]
-  ],
-  [
-    [
-      "2024-04-27, 05:46:55",
-      "https://news.ycombinator.com/item?id=40177599"
-    ],
-    [
-      "Watch cars evolve using genetic algorithm",
-      "https://rednuht.org/genetic_cars_2/"
     ]
   ],
   [
