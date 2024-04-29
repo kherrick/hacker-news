@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 09:22:57](https://news.ycombinator.com/item?id=40196252) - [Russian GRU was behind the attack in Vrbětice, NCOZ confirms](https://www.bis.cz/aktuality/za-utokem-ve-vrbeticich-byla-ruska-gru-potvrdila-ncoz-48976dbe.html)
 * [2024-04-29, 07:08:23](https://news.ycombinator.com/item?id=40195391) - [StableVideo](https://stablevideo.work/)
 * [2024-04-29, 07:03:24](https://news.ycombinator.com/item?id=40195359) - [Power of Libraries](https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/)
 * [2024-04-29, 06:48:19](https://news.ycombinator.com/item?id=40195262) - [You're underreacting to climate change](https://blog.rinesi.com/2024/04/youre-underreacting-to-climate-change/)
