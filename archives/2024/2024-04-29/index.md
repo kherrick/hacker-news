@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 16:01:24](https://news.ycombinator.com/item?id=40200048) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
+* [2024-04-29, 15:52:51](https://news.ycombinator.com/item?id=40199916) - [Xbox Console Sales Are Tanking as Microsoft Brings Games to PS5](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)
 * [2024-04-29, 15:47:30](https://news.ycombinator.com/item?id=40199828) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
+* [2024-04-29, 15:38:46](https://news.ycombinator.com/item?id=40199713) - [How do you accidentally run for President of Iceland?](https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e)
 * [2024-04-29, 15:38:23](https://news.ycombinator.com/item?id=40199706) - [US, other G7 countries to phase out coal by early 2030s](https://electrek.co/2024/04/29/us-g7-countries-to-phase-out-coal-by-early-2030s/)
 * [2024-04-29, 15:35:31](https://news.ycombinator.com/item?id=40199679) - [Project Habbakuk: Britain's Ice \"Bergship\" Aircraft Carrier Project](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
