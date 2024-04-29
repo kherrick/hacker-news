@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 13:34:18](https://news.ycombinator.com/item?id=40198143) - [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
 * [2024-04-29, 12:44:51](https://news.ycombinator.com/item?id=40197559) - [Doctor at Cigna Said Bosses Pressured Her to Review Patients' Cases Too Quickly](https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance)
+* [2024-04-29, 12:42:34](https://news.ycombinator.com/item?id=40197542) - [AI Leapfrogging: How AI Will Transform “Lagging” Industries](https://www.nfx.com/post/ai-leapfrogging)
 * [2024-04-29, 12:34:20](https://news.ycombinator.com/item?id=40197463) - [Mixtral 8x7B going 378 tokens per second on CPU](https://twitter.com/JustineTunney/status/1784619347119591615)
 * [2024-04-29, 12:19:38](https://news.ycombinator.com/item?id=40197346) - [What's Going on with 'Nonplussed'?](https://www.merriam-webster.com/grammar/nonplussed)
+* [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
 * [2024-04-29, 12:00:34](https://news.ycombinator.com/item?id=40197212) - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
 * [2024-04-29, 11:56:05](https://news.ycombinator.com/item?id=40197182) - [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
 * [2024-04-29, 11:12:51](https://news.ycombinator.com/item?id=40196879) - [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
+* [2024-04-29, 11:08:57](https://news.ycombinator.com/item?id=40196856) - [US Post Office phishing sites get as much traffic as the real one](https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/)
 * [2024-04-29, 10:42:31](https://news.ycombinator.com/item?id=40196687) - [Retroactive hate crime bill in Canada [Online Harms Bill C-63]](https://twitter.com/MurielBlaivePhD/status/1782032187128176669)
 * [2024-04-29, 10:40:52](https://news.ycombinator.com/item?id=40196674) - [Sleeping Tesla driver caught on Swedish highway – after 25 miles](https://www.vibilagare.se/english/sleeping-tesla-driver-caught-swedish-highway-after-25-miles)
 * [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
