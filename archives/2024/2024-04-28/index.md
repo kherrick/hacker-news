@@ -53,6 +53,7 @@
 * [2024-04-28, 09:48:40](https://news.ycombinator.com/item?id=40187334) - [Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
 * [2024-04-28, 09:05:43](https://news.ycombinator.com/item?id=40187146) - [Step Differences in Instructional Video](https://arxiv.org/abs/2404.16222)
 * [2024-04-28, 09:02:18](https://news.ycombinator.com/item?id=40187129) - [Microsoft must stop selling security as a premium offering](https://www.directionsonmicrosoft.com/members/blog/2024-04-23/microsoft-must-stop-selling-security-premium-offering)
+* [2024-04-28, 08:51:18](https://news.ycombinator.com/item?id=40187072) - [Pdf.tocgen](https://krasjet.com/voice/pdf.tocgen/)
 * [2024-04-28, 08:17:47](https://news.ycombinator.com/item?id=40186960) - [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
 * [2024-04-28, 07:35:02](https://news.ycombinator.com/item?id=40186768) - [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 * [2024-04-28, 07:30:40](https://news.ycombinator.com/item?id=40186752) - [Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)

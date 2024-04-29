@@ -22,6 +22,7 @@
 * [2024-04-28, 12:41:27](https://news.ycombinator.com/item?id=40188173) - [Reentry – An Orbital Simulator](https://reentrygame.com/)
 * [2024-04-28, 11:03:45](https://news.ycombinator.com/item?id=40187656) - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
 * [2024-04-28, 09:05:43](https://news.ycombinator.com/item?id=40187146) - [Step Differences in Instructional Video](https://arxiv.org/abs/2404.16222)
+* [2024-04-28, 08:51:18](https://news.ycombinator.com/item?id=40187072) - [Pdf.tocgen](https://krasjet.com/voice/pdf.tocgen/)
 * [2024-04-28, 07:30:40](https://news.ycombinator.com/item?id=40186752) - [Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 * [2024-04-28, 06:17:51](https://news.ycombinator.com/item?id=40186418) - [The Bloat Busters: pg_repack vs. pg_squeeze](https://notso.boringsql.com/posts/the-bloat-busters-pg-repack-pg-squeeze/)
 * [2024-04-27, 09:34:57](https://news.ycombinator.com/item?id=40178634) - [Speeding up C++ build times](https://www.figma.com/blog/speeding-up-build-times/)
@@ -29,7 +30,6 @@
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158751) - [China's Moon atlas is the most detailed ever made](https://www.nature.com/articles/d41586-024-01223-0)
-* [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 
 ## [Archives](archives/index.md)
 
