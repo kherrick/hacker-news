@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 23:43:30](https://news.ycombinator.com/item?id=40205563) - [Winner of $1.3B Powerball jackpot is a immigrant from Laos who has cancer](https://apnews.com/article/oregon-powerball-winner-8200b538497c972624ace5e2fddf56e6)
 * [2024-04-29, 22:03:29](https://news.ycombinator.com/item?id=40204647) - [Tesla Lays Off Employee Who Slept in Car to Work Longer Hours](https://jalopnik.com/tesla-reportedly-lays-off-employee-who-slept-in-car-to-1851442357)
 * [2024-04-29, 21:51:36](https://news.ycombinator.com/item?id=40204546) - [Is the Gnome Foundation Going to Go Bankrupt in 1 Year?](https://lunduke.locals.com/post/5572069/is-the-gnome-foundation-going-to-go-bankrupt-in-1-year)
 * [2024-04-29, 21:51:25](https://news.ycombinator.com/item?id=40204544) - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
@@ -90,6 +91,7 @@
 * [2024-04-29, 07:03:24](https://news.ycombinator.com/item?id=40195359) - [Power of Libraries](https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/)
 * [2024-04-29, 06:48:19](https://news.ycombinator.com/item?id=40195262) - [You're underreacting to climate change](https://blog.rinesi.com/2024/04/youre-underreacting-to-climate-change/)
 * [2024-04-29, 06:44:41](https://news.ycombinator.com/item?id=40195235) - [ChatGPT provides false information about people, and OpenAI can't correct it](https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it)
+* [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
 * [2024-04-29, 06:34:10](https://news.ycombinator.com/item?id=40195164) - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
 * [2024-04-29, 05:44:43](https://news.ycombinator.com/item?id=40194868) - [Haunting Sounds from the Largest Living Thing](https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded)
