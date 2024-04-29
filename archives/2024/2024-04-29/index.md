@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 13:49:42](https://news.ycombinator.com/item?id=40198326) - [Collection of publicly available IPTV channels from all over the world](https://iptv-org.github.io/)
 * [2024-04-29, 13:34:18](https://news.ycombinator.com/item?id=40198143) - [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
 * [2024-04-29, 12:44:51](https://news.ycombinator.com/item?id=40197559) - [Doctor at Cigna Said Bosses Pressured Her to Review Patients' Cases Too Quickly](https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance)
 * [2024-04-29, 12:42:34](https://news.ycombinator.com/item?id=40197542) - [AI Leapfrogging: How AI Will Transform “Lagging” Industries](https://www.nfx.com/post/ai-leapfrogging)
