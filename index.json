@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-04-29, 02:58:07",
-      "https://news.ycombinator.com/item?id=40193948"
+      "2024-04-29, 04:12:58",
+      "https://news.ycombinator.com/item?id=40194346"
     ],
     [
-      "Businesses Are Getting People Killed",
-      "https://darrellowens.substack.com/p/businesses-are-getting-their-customers"
+      "Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself",
+      "https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 04:07:37",
+      "https://news.ycombinator.com/item?id=40194314"
+    ],
+    [
+      "Forget moonshots, investors want profit now",
+      "https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 03:05:27",
+      "https://news.ycombinator.com/item?id=40193998"
+    ],
+    [
+      "Japanese yen weakens to 160 against the USD for the first time since 1990",
+      "https://www.cnbc.com/2024/04/29/japanese-yen-weakens-to-160-against-the-us-dollar-for-the-first-time-since-1990.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-04-28, 16:43:39",
-      "https://news.ycombinator.com/item?id=40189842"
-    ],
-    [
-      "Trial of the effects of kefir on behaviour, sleep and the microbiome in ADHD",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10711914/"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 16:22:56",
       "https://news.ycombinator.com/item?id=40189682"
     ],
@@ -217,16 +227,6 @@
     [
       "Common DB schema change mistakes in Postgres",
       "https://postgres.ai/blog/20220525-common-db-schema-change-mistakes"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 06:05:43",
-      "https://news.ycombinator.com/item?id=40186374"
-    ],
-    [
-      "My mouse climbed a wall and now it doesn't work right",
-      "https://www.theregister.com/2024/04/26/on_call/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=40155294"
     ],
     [
-      "A brief history of web development. And why your framework doesn't matter",
+      "A brief history of web development, and why your framework doesn't matter",
       "https://gebna.gg/blog/brief-history-of-web-development"
     ]
   ]
