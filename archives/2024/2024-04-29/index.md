@@ -8,6 +8,7 @@
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-04-29, 20:31:38](https://news.ycombinator.com/item?id=40203768) - [FCC fines big three carriers $196M for selling users' real-time location data](https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/)
 * [2024-04-29, 20:29:12](https://news.ycombinator.com/item?id=40203739) - [It isn't only Python, Dart and Flutter teams also affected](https://twitter.com/jamonholmgren/status/1784979936010535409)
+* [2024-04-29, 20:22:53](https://news.ycombinator.com/item?id=40203670) - [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)
 * [2024-04-29, 20:09:16](https://news.ycombinator.com/item?id=40203510) - [Gradient AI Releases 1M Context Llama 8B](https://twitter.com/Gradient_AI_/status/1785036209468907796)
 * [2024-04-29, 19:58:23](https://news.ycombinator.com/item?id=40203377) - [The Three Byte Fix](https://breckyunits.com/ckmeans.html)
 * [2024-04-29, 19:48:15](https://news.ycombinator.com/item?id=40203224) - [FSF to be deposed in SFC vs. Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)

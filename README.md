@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-29, 21:01:07](https://news.ycombinator.com/item?id=40204087) - [FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data](https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data/)
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-04-29, 20:31:38](https://news.ycombinator.com/item?id=40203768) - [FCC fines big three carriers $196M for selling users' real-time location data](https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/)
+* [2024-04-29, 20:22:53](https://news.ycombinator.com/item?id=40203670) - [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)
 * [2024-04-29, 19:58:23](https://news.ycombinator.com/item?id=40203377) - [The Three Byte Fix](https://breckyunits.com/ckmeans.html)
 * [2024-04-29, 19:14:03](https://news.ycombinator.com/item?id=40202695) - [FCC fines largest wireless carriers for sharing location data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
 * [2024-04-29, 17:04:15](https://news.ycombinator.com/item?id=40201053) - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
