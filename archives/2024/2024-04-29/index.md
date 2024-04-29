@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 19:48:15](https://news.ycombinator.com/item?id=40203224) - [FSF to be deposed in SFC vs. Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
+* [2024-04-29, 19:42:23](https://news.ycombinator.com/item?id=40203126) - [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
 * [2024-04-29, 19:14:03](https://news.ycombinator.com/item?id=40202695) - [FCC Fines Largest Wireless Carriers for Sharing Location Data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
 * [2024-04-29, 18:47:56](https://news.ycombinator.com/item?id=40202325) - [Tesla former VP of engineering liquidated virtually entire stake in the company](https://fortune.com/2024/04/26/tesla-elon-musk-drew-baglino-insider-sale-ron-baron/)
 * [2024-04-29, 18:38:15](https://news.ycombinator.com/item?id=40202183) - [30% of Children Ages 5-7 Are on TikTok](https://www.honest-broker.com/p/30-of-children-ages-5-7-are-on-tiktok)
