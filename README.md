@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
-* [2024-04-29, 04:07:37](https://news.ycombinator.com/item?id=40194314) - [Forget moonshots, investors want profit now](https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25)
 * [2024-04-29, 03:05:27](https://news.ycombinator.com/item?id=40193998) - [Japanese yen weakens to 160 against the USD for the first time since 1990](https://www.cnbc.com/2024/04/29/japanese-yen-weakens-to-160-against-the-us-dollar-for-the-first-time-since-1990.html)
 * [2024-04-29, 00:28:37](https://news.ycombinator.com/item?id=40193216) - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
 * [2024-04-28, 22:49:17](https://news.ycombinator.com/item?id=40192698) - [6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
+* [2024-04-28, 22:43:26](https://news.ycombinator.com/item?id=40192664) - [Block* and AgentFormer – Playing with blocks and Transformers (yay)](https://github.com/rayking99/BlockStar)
 * [2024-04-28, 22:30:55](https://news.ycombinator.com/item?id=40192579) - [The Essence of Compiling with Continuations (1993) [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
 * [2024-04-28, 22:27:34](https://news.ycombinator.com/item?id=40192552) - [Haystack DB – 10x faster than FAISS with binary embeddings by default](https://github.com/carsonpo/haystackdb)
 * [2024-04-28, 21:57:00](https://news.ycombinator.com/item?id=40192359) - [Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
