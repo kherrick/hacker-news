@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 02:24:38](https://news.ycombinator.com/item?id=40193760) - [Quiet quitting: You always had workers who did 9-5 but it's a creeping malaise](https://www.irishtimes.com/business/work/2024/04/25/quiet-quitters-test-employers-even-more-than-staff-departures/)
 * [2024-04-29, 01:50:46](https://news.ycombinator.com/item?id=40193590) - [Exercise, metabolism, and weight: New research from The Biggest Loser](https://www.health.harvard.edu/blog/exercise-metabolism-and-weight-new-research-from-the-biggest-loser-202201272676)
-* [2024-04-29, 01:05:29](https://news.ycombinator.com/item?id=40193355) - [Apple MacBook Air 15-Inch M3 Review](https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review)
 * [2024-04-28, 22:49:17](https://news.ycombinator.com/item?id=40192698) - [6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 * [2024-04-28, 22:43:26](https://news.ycombinator.com/item?id=40192664) - [Block* and AgentFormer – Playing with blocks and Transformers (yay)](https://github.com/rayking99/BlockStar)
 * [2024-04-28, 22:30:55](https://news.ycombinator.com/item?id=40192579) - [The Essence of Compiling with Continuations (1993) [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
