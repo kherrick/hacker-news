@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 07:03:24](https://news.ycombinator.com/item?id=40195359) - [Power of Libraries](https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/)
 * [2024-04-29, 06:44:41](https://news.ycombinator.com/item?id=40195235) - [ChatGPT provides false information about people, and OpenAI can't correct it](https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it)
 * [2024-04-29, 06:34:10](https://news.ycombinator.com/item?id=40195164) - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
@@ -26,7 +27,6 @@
 * [2024-04-28, 06:17:51](https://news.ycombinator.com/item?id=40186418) - [The Bloat Busters: pg_repack vs. pg_squeeze](https://notso.boringsql.com/posts/the-bloat-busters-pg-repack-pg-squeeze/)
 * [2024-04-27, 09:34:57](https://news.ycombinator.com/item?id=40178634) - [Speeding up C++ build times](https://www.figma.com/blog/speeding-up-build-times/)
 * [2024-04-27, 08:29:35](https://news.ycombinator.com/item?id=40178325) - [What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2)
-* [2024-04-27, 05:46:55](https://news.ycombinator.com/item?id=40177599) - [Watch cars evolve using genetic algorithm](https://rednuht.org/genetic_cars_2/)
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158751) - [China's Moon atlas is the most detailed ever made](https://www.nature.com/articles/d41586-024-01223-0)
