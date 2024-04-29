@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 14:29:13](https://news.ycombinator.com/item?id=40198766) - [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html)
 * [2024-04-29, 14:19:48](https://news.ycombinator.com/item?id=40198664) - [9FRONT (Plan 9) \"Do Not Install\" Released](http://9front.org/releases/2024/04/28/0/)
 * [2024-04-29, 14:12:58](https://news.ycombinator.com/item?id=40198595) - [Phreaking](https://en.wikipedia.org/wiki/Phreaking)
 * [2024-04-29, 14:01:47](https://news.ycombinator.com/item?id=40198458) - [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
+* [2024-04-29, 13:55:00](https://news.ycombinator.com/item?id=40198384) - [Most investments are bad. Here's why](https://www.lynalden.com/most-investments-are-bad/)
 * [2024-04-29, 13:54:06](https://news.ycombinator.com/item?id=40198378) - [ByteDance’s web of apps could get tangled up in TikTok ban](https://www.axios.com/2024/04/23/tiktok-ban-bytedance-apps-capcut-lemon8)
 * [2024-04-29, 13:53:20](https://news.ycombinator.com/item?id=40198364) - [CB1 Receptor Negative Allosteric Modulators to Reverse Cannabinoid Toxicity](https://www.mdpi.com/1420-3049/29/8/1881)
 * [2024-04-29, 13:49:42](https://news.ycombinator.com/item?id=40198326) - [Collection of publicly available IPTV channels from all over the world](https://iptv-org.github.io/)
 * [2024-04-29, 13:43:49](https://news.ycombinator.com/item?id=40198258) - [Pulumi AI is poisoning Google search results with AI answers](https://github.com/pulumi/pulumi-ai/issues/79)
 * [2024-04-29, 13:34:18](https://news.ycombinator.com/item?id=40198143) - [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
+* [2024-04-29, 13:01:05](https://news.ycombinator.com/item?id=40197750) - [Ask HN: What fields or technologies are you excited about?](https://news.ycombinator.com/item?id=40197750)
 * [2024-04-29, 12:44:51](https://news.ycombinator.com/item?id=40197559) - [Doctor at Cigna Said Bosses Pressured Her to Review Patients' Cases Too Quickly](https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance)
 * [2024-04-29, 12:42:34](https://news.ycombinator.com/item?id=40197542) - [AI Leapfrogging: How AI Will Transform “Lagging” Industries](https://www.nfx.com/post/ai-leapfrogging)
 * [2024-04-29, 12:34:20](https://news.ycombinator.com/item?id=40197463) - [Mixtral 8x7B going 378 tokens per second on CPU](https://twitter.com/JustineTunney/status/1784619347119591615)
