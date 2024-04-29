@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-29, 03:21:48](https://news.ycombinator.com/item?id=40194103) - [The Ivy League and other elite private colleges are losing esteem](https://www.natesilver.net/p/go-to-a-state-school)
 * [2024-04-29, 02:58:07](https://news.ycombinator.com/item?id=40193948) - [Businesses Are Getting People Killed](https://darrellowens.substack.com/p/businesses-are-getting-their-customers)
 * [2024-04-29, 01:05:29](https://news.ycombinator.com/item?id=40193355) - [Apple MacBook Air 15-Inch M3 Review](https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review)
 * [2024-04-29, 00:28:37](https://news.ycombinator.com/item?id=40193216) - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
@@ -30,6 +29,7 @@
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-26, 09:45:26](https://news.ycombinator.com/item?id=40167461) - [Show HN: OpenLIT – Open-Source LLM Observability with OpenTelemetry](https://github.com/openlit/openlit)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
+* [2024-04-25, 09:29:06](https://news.ycombinator.com/item?id=40155294) - [A brief history of web development. And why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
 
 ## [Archives](archives/index.md)
 
