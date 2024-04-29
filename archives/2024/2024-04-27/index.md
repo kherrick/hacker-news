@@ -79,6 +79,7 @@
 * [2024-04-27, 06:10:59](https://news.ycombinator.com/item?id=40177687) - [Crafting Interpreters: 640 Pages in 15 Months](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
 * [2024-04-27, 05:50:57](https://news.ycombinator.com/item?id=40177617) - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 * [2024-04-27, 05:46:55](https://news.ycombinator.com/item?id=40177599) - [Watch cars evolve using genetic algorithm](https://rednuht.org/genetic_cars_2/)
+* [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java,2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-27, 05:35:32](https://news.ycombinator.com/item?id=40177547) - [Thumb Nation: How We Learned to Play with Our Fingers](https://thehistoryofhowweplay.wordpress.com/2024/04/26/thumb-nation-how-we-learned-to-play-with-our-fingers/)
 * [2024-04-27, 04:16:58](https://news.ycombinator.com/item?id=40177171) - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
 * [2024-04-27, 04:10:24](https://news.ycombinator.com/item?id=40177142) - [Getting worried about bird flu](https://coredump3.blogspot.com/2024/04/im-getting-worried-about-bird-flu.html)
