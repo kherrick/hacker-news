@@ -11,6 +11,7 @@
 * [2024-04-29, 17:00:59](https://news.ycombinator.com/item?id=40200998) - [Activeloop (YC S18) Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
 * [2024-04-29, 16:59:45](https://news.ycombinator.com/item?id=40200971) - [California Senate bill to crush OpenAI competitors fast tracked for a vote](https://twitter.com/psychosort/status/1784663936513524074)
 * [2024-04-29, 16:34:32](https://news.ycombinator.com/item?id=40200602) - [GitHub previews Copilot Workspace: AI IDE to turn ideas into software](https://venturebeat.com/ai/github-previews-copilot-workspace/)
+* [2024-04-29, 16:04:53](https://news.ycombinator.com/item?id=40200109) - [Copilot Workspace](https://githubnext.com/projects/copilot-workspace)
 * [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 * [2024-04-29, 16:01:24](https://news.ycombinator.com/item?id=40200048) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
 * [2024-04-29, 15:57:03](https://news.ycombinator.com/item?id=40199972) - [Kaytu: Open-Source Tool for Optimizing Cloud Costs Using Actual Usage Data](https://github.com/kaytu-io/kaytu)
