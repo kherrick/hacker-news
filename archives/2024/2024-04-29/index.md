@@ -82,6 +82,7 @@
 * [2024-04-29, 06:48:19](https://news.ycombinator.com/item?id=40195262) - [You're underreacting to climate change](https://blog.rinesi.com/2024/04/youre-underreacting-to-climate-change/)
 * [2024-04-29, 06:44:41](https://news.ycombinator.com/item?id=40195235) - [ChatGPT provides false information about people, and OpenAI can't correct it](https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it)
 * [2024-04-29, 06:34:10](https://news.ycombinator.com/item?id=40195164) - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
+* [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 * [2024-04-29, 04:57:55](https://news.ycombinator.com/item?id=40194622) - [Airline keeps mistaking 101-year-old woman for 1-year-old baby](https://www.bbc.com/news/articles/c9wz7pvvjypo)
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
