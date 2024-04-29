@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-29, 03:21:48](https://news.ycombinator.com/item?id=40194103) - [Nate Silver: Go to a state school. The Ivy League are losing esteem](https://www.natesilver.net/p/go-to-a-state-school)
+* [2024-04-29, 03:21:48](https://news.ycombinator.com/item?id=40194103) - [The Ivy League and other elite private colleges are losing esteem](https://www.natesilver.net/p/go-to-a-state-school)
 * [2024-04-29, 02:58:07](https://news.ycombinator.com/item?id=40193948) - [Businesses Are Getting People Killed](https://darrellowens.substack.com/p/businesses-are-getting-their-customers)
+* [2024-04-29, 01:05:29](https://news.ycombinator.com/item?id=40193355) - [Apple MacBook Air 15-Inch M3 Review](https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review)
 * [2024-04-29, 00:28:37](https://news.ycombinator.com/item?id=40193216) - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
 * [2024-04-28, 22:49:17](https://news.ycombinator.com/item?id=40192698) - [6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 * [2024-04-28, 22:30:55](https://news.ycombinator.com/item?id=40192579) - [The Essence of Compiling with Continuations (1993) [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
@@ -15,10 +16,10 @@
 * [2024-04-28, 19:16:26](https://news.ycombinator.com/item?id=40191047) - [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
 * [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp (1949)](http://www.lathes.co.uk/bradley-pow-lathe/)
 * [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
+* [2024-04-28, 16:43:39](https://news.ycombinator.com/item?id=40189842) - [Trial of the effects of kefir on behaviour, sleep and the microbiome in ADHD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10711914/)
 * [2024-04-28, 16:22:56](https://news.ycombinator.com/item?id=40189682) - [Did we lose our way in making efficient software?](https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4)
 * [2024-04-28, 15:47:43](https://news.ycombinator.com/item?id=40189447) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:32:26](https://news.ycombinator.com/item?id=40189346) - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
-* [2024-04-28, 13:01:12](https://news.ycombinator.com/item?id=40188282) - [Show HN: Docker-phobia: Analyze Docker image size with a treemap](https://github.com/remorses/docker-phobia)
 * [2024-04-28, 12:41:27](https://news.ycombinator.com/item?id=40188173) - [Reentry – An Orbital Simulator](https://reentrygame.com/)
 * [2024-04-28, 11:03:45](https://news.ycombinator.com/item?id=40187656) - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
 * [2024-04-28, 07:30:40](https://news.ycombinator.com/item?id=40186752) - [Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
@@ -29,7 +30,6 @@
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-26, 09:45:26](https://news.ycombinator.com/item?id=40167461) - [Show HN: OpenLIT – Open-Source LLM Observability with OpenTelemetry](https://github.com/openlit/openlit)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
-* [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 
 ## [Archives](archives/index.md)
 
