@@ -92,6 +92,7 @@
 * [2024-04-26, 11:01:57](https://news.ycombinator.com/item?id=40167884) - [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
 * [2024-04-26, 10:41:05](https://news.ycombinator.com/item?id=40167742) - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 10:39:23](https://news.ycombinator.com/item?id=40167730) - [\"90% of Java services have critical or security vulnerabilities\"](https://vived.substack.com/p/90-of-java-services-have-critical)
+* [2024-04-26, 10:23:21](https://news.ycombinator.com/item?id=40167638) - [One Bad Apple Can Spoil Your IPv6 Privacy](https://arxiv.org/abs/2203.08946)
 * [2024-04-26, 10:12:59](https://news.ycombinator.com/item?id=40167596) - [Wobble Town (Inspired by Tamagotchi)](https://wobble.town/)
 * [2024-04-26, 09:45:26](https://news.ycombinator.com/item?id=40167461) - [Show HN: OpenLIT – Open-Source LLM Observability with OpenTelemetry](https://github.com/openlit/openlit)
 * [2024-04-26, 09:32:16](https://news.ycombinator.com/item?id=40167406) - [Show HN: Mendeleej.com - an Interactive Periodic Table](http://mendeleej.com/)

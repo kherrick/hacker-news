@@ -23,13 +23,13 @@
 * [2024-04-29, 07:36:03](https://news.ycombinator.com/item?id=40195557) - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
-* [2024-04-29, 01:11:19](https://news.ycombinator.com/item?id=40193385) - [Tangoing with a Martin Gardner Word Game](https://pncnmnp.github.io/blogs/martin-gardner-game.html)
 * [2024-04-29, 00:27:14](https://news.ycombinator.com/item?id=40193209) - [Pearls Before Breakfast: Can a great musician cut fog of rush hour? (2007)](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html)
 * [2024-04-28, 22:04:20](https://news.ycombinator.com/item?id=40192403) - [Claude Émile Jean-Baptiste Litre](https://en.wikipedia.org/wiki/Claude_%C3%89mile_Jean-Baptiste_Litre)
 * [2024-04-28, 15:34:59](https://news.ycombinator.com/item?id=40189372) - [How do satellites communicate with a GPS system? (2018)](https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/)
 * [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
 * [2024-04-28, 08:51:18](https://news.ycombinator.com/item?id=40187072) - [Pdf.tocgen](https://krasjet.com/voice/pdf.tocgen/)
 * [2024-04-28, 07:47:09](https://news.ycombinator.com/item?id=40186819) - [Principles for Keyboard Layouts (2022)](https://anniecherkaev.com/principles-for-keyboard-layouts)
+* [2024-04-26, 10:23:21](https://news.ycombinator.com/item?id=40167638) - [One Bad Apple Can Spoil Your IPv6 Privacy](https://arxiv.org/abs/2203.08946)
 
 ## [Archives](archives/index.md)
 
