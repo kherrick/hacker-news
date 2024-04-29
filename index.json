@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-04-29, 02:24:38",
-      "https://news.ycombinator.com/item?id=40193760"
+      "2024-04-29, 00:28:37",
+      "https://news.ycombinator.com/item?id=40193216"
     ],
     [
-      "Quiet quitting: You always had workers who did 9-5 but it's a creeping malaise",
-      "https://www.irishtimes.com/business/work/2024/04/25/quiet-quitters-test-employers-even-more-than-staff-departures/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 01:50:46",
-      "https://news.ycombinator.com/item?id=40193590"
-    ],
-    [
-      "Exercise, metabolism, and weight: New research from The Biggest Loser",
-      "https://www.health.harvard.edu/blog/exercise-metabolism-and-weight-new-research-from-the-biggest-loser-202201272676"
+      "FreeBee: AT&T Unix PC emulator",
+      "https://www.philpem.me.uk/code/3b1emu"
     ]
   ],
   [
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2024-04-28, 22:27:34",
+      "https://news.ycombinator.com/item?id=40192552"
+    ],
+    [
+      "Haystack DB – 10x faster than FAISS with binary embeddings by default",
+      "https://github.com/carsonpo/haystackdb"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 21:57:00",
       "https://news.ycombinator.com/item?id=40192359"
     ],
@@ -67,6 +67,16 @@
     [
       "DEC PDP-1 emulator running \"Spacewar\", the earliest known digital video game",
       "https://www.masswerk.at/spacewar/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 21:34:02",
+      "https://news.ycombinator.com/item?id=40192204"
+    ],
+    [
+      "Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act",
+      "https://www.affuture.org/post/9-context/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Reentry – An Orbital Simulator",
       "https://reentrygame.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 12:00:44",
-      "https://news.ycombinator.com/item?id=40187971"
-    ],
-    [
-      "Zed Decoded: Rope and SumTree",
-      "https://zed.dev/blog/zed-decoded-rope-sumtree"
     ]
   ],
   [
