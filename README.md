@@ -8,7 +8,6 @@
 * [2024-04-29, 14:01:47](https://news.ycombinator.com/item?id=40198458) - [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
 * [2024-04-29, 13:54:06](https://news.ycombinator.com/item?id=40198378) - [ByteDance’s web of apps could get tangled up in TikTok ban](https://www.axios.com/2024/04/23/tiktok-ban-bytedance-apps-capcut-lemon8)
 * [2024-04-29, 13:49:42](https://news.ycombinator.com/item?id=40198326) - [Collection of publicly available IPTV channels](https://iptv-org.github.io/)
-* [2024-04-29, 13:34:18](https://news.ycombinator.com/item?id=40198143) - [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
 * [2024-04-29, 12:19:38](https://news.ycombinator.com/item?id=40197346) - [What's Going on with ‘Nonplussed’? (2017)](https://www.merriam-webster.com/grammar/nonplussed)
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
 * [2024-04-29, 12:00:34](https://news.ycombinator.com/item?id=40197212) - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
@@ -30,6 +29,7 @@
 * [2024-04-28, 07:47:09](https://news.ycombinator.com/item?id=40186819) - [Principles for Keyboard Layouts (2022)](https://anniecherkaev.com/principles-for-keyboard-layouts)
 * [2024-04-28, 07:30:40](https://news.ycombinator.com/item?id=40186752) - [Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 * [2024-04-27, 11:40:57](https://news.ycombinator.com/item?id=40179194) - [Practical Vim command workflow (2023)](https://m4xshen.dev/posts/vim-command-workflow/)
+* [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 
 ## [Archives](archives/index.md)
 
