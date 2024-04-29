@@ -18,7 +18,6 @@
 * [2024-04-28, 21:06:53](https://news.ycombinator.com/item?id=40191915) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
 * [2024-04-28, 20:48:42](https://news.ycombinator.com/item?id=40191723) - [Ollama v0.1.33 with Llama 3, Phi 3, and Qwen 110B](https://github.com/ollama/ollama/releases/tag/v0.1.33-rc5)
 * [2024-04-28, 20:25:46](https://news.ycombinator.com/item?id=40191510) - [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
-* [2024-04-28, 19:16:26](https://news.ycombinator.com/item?id=40191047) - [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
 * [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp (1949)](http://www.lathes.co.uk/bradley-pow-lathe/)
 * [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
 * [2024-04-28, 12:41:27](https://news.ycombinator.com/item?id=40188173) - [Reentry – An Orbital Simulator](https://reentrygame.com/)
@@ -30,6 +29,7 @@
 * [2024-04-27, 05:46:55](https://news.ycombinator.com/item?id=40177599) - [Watch cars evolve using genetic algorithm](https://rednuht.org/genetic_cars_2/)
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158751) - [China's Moon atlas is the most detailed ever made](https://www.nature.com/articles/d41586-024-01223-0)
+* [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 
 ## [Archives](archives/index.md)
 
