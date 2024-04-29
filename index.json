@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-04-29, 12:34:20",
-      "https://news.ycombinator.com/item?id=40197463"
-    ],
-    [
-      "Mixtral 8x7B going 378 tokens per second on CPU",
-      "https://twitter.com/JustineTunney/status/1784619347119591615"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 12:19:38",
       "https://news.ycombinator.com/item?id=40197346"
     ],
@@ -27,16 +17,6 @@
     [
       "Unify (YC W23) Is Hiring Contributors to Unify ML",
       "https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 11:56:05",
-      "https://news.ycombinator.com/item?id=40197182"
-    ],
-    [
-      "No One Should Have That Much Power",
-      "https://www.mnot.net/blog/2024/04/29/power"
     ]
   ],
   [
@@ -171,22 +151,22 @@
   ],
   [
     [
-      "2024-04-28, 22:27:34",
-      "https://news.ycombinator.com/item?id=40192552"
-    ],
-    [
-      "Haystack DB – 10x faster than FAISS with binary embeddings by default",
-      "https://github.com/carsonpo/haystackdb"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 21:57:00",
       "https://news.ycombinator.com/item?id=40192359"
     ],
     [
       "Personal computing paves the way for personal library science",
       "https://www.bramadams.dev/issue-55/"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 20:25:46",
+      "https://news.ycombinator.com/item?id=40191510"
+    ],
+    [
+      "Show HN: Dotenv, if it is a Unix utility",
+      "https://github.com/gyf304/dotenv"
     ]
   ],
   [
@@ -217,6 +197,16 @@
     [
       "Reentry – An Orbital Simulator",
       "https://reentrygame.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 11:03:45",
+      "https://news.ycombinator.com/item?id=40187656"
+    ],
+    [
+      "Zilog Z80 CPU – Modern, free and open source silicon clone",
+      "https://github.com/rejunity/z80-open-silicon"
     ]
   ],
   [
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2024-04-28, 06:17:51",
-      "https://news.ycombinator.com/item?id=40186418"
+      "2024-04-27, 09:34:57",
+      "https://news.ycombinator.com/item?id=40178634"
     ],
     [
-      "The Bloat Busters: pg_repack vs. pg_squeeze",
-      "https://notso.boringsql.com/posts/the-bloat-busters-pg-repack-pg-squeeze/"
+      "Speeding up C++ build times",
+      "https://www.figma.com/blog/speeding-up-build-times/"
     ]
   ],
   [
     [
-      "2024-04-27, 06:46:21",
-      "https://news.ycombinator.com/item?id=40177846"
+      "2024-04-27, 05:46:55",
+      "https://news.ycombinator.com/item?id=40177599"
     ],
     [
-      "Good Ideas in Computer Science",
-      "https://danielchasehooper.com/posts/good-ideas-in-cs/"
+      "Watch cars evolve using genetic algorithm",
+      "https://rednuht.org/genetic_cars_2/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "China's Moon atlas is the most detailed ever made",
       "https://www.nature.com/articles/d41586-024-01223-0"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 10:33:28",
+      "https://news.ycombinator.com/item?id=40155713"
+    ],
+    [
+      "Fragmented thinking is a bigger threat to flow state than interruptions",
+      "https://blog.stackblitz.com/posts/flow-state/"
     ]
   ]
 ]
