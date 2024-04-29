@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 14:12:58](https://news.ycombinator.com/item?id=40198595) - [Phreaking](https://en.wikipedia.org/wiki/Phreaking)
 * [2024-04-29, 14:01:47](https://news.ycombinator.com/item?id=40198458) - [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
+* [2024-04-29, 13:54:06](https://news.ycombinator.com/item?id=40198378) - [ByteDance’s web of apps could get tangled up in TikTok ban](https://www.axios.com/2024/04/23/tiktok-ban-bytedance-apps-capcut-lemon8)
+* [2024-04-29, 13:53:20](https://news.ycombinator.com/item?id=40198364) - [CB1 Receptor Negative Allosteric Modulators to Reverse Cannabinoid Toxicity](https://www.mdpi.com/1420-3049/29/8/1881)
 * [2024-04-29, 13:49:42](https://news.ycombinator.com/item?id=40198326) - [Collection of publicly available IPTV channels from all over the world](https://iptv-org.github.io/)
+* [2024-04-29, 13:43:49](https://news.ycombinator.com/item?id=40198258) - [Pulumi AI is poisoning Google search results with AI answers](https://github.com/pulumi/pulumi-ai/issues/79)
 * [2024-04-29, 13:34:18](https://news.ycombinator.com/item?id=40198143) - [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
 * [2024-04-29, 12:44:51](https://news.ycombinator.com/item?id=40197559) - [Doctor at Cigna Said Bosses Pressured Her to Review Patients' Cases Too Quickly](https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance)
 * [2024-04-29, 12:42:34](https://news.ycombinator.com/item?id=40197542) - [AI Leapfrogging: How AI Will Transform “Lagging” Industries](https://www.nfx.com/post/ai-leapfrogging)
@@ -14,6 +18,7 @@
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
 * [2024-04-29, 12:00:34](https://news.ycombinator.com/item?id=40197212) - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
 * [2024-04-29, 11:56:05](https://news.ycombinator.com/item?id=40197182) - [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
+* [2024-04-29, 11:13:00](https://news.ycombinator.com/item?id=40196880) - [Ask HN: What's the best charting library for customer-facing dashboards?](https://news.ycombinator.com/item?id=40196880)
 * [2024-04-29, 11:12:51](https://news.ycombinator.com/item?id=40196879) - [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
 * [2024-04-29, 11:08:57](https://news.ycombinator.com/item?id=40196856) - [US Post Office phishing sites get as much traffic as the real one](https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/)
 * [2024-04-29, 10:42:31](https://news.ycombinator.com/item?id=40196687) - [Retroactive hate crime bill in Canada [Online Harms Bill C-63]](https://twitter.com/MurielBlaivePhD/status/1782032187128176669)
