@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-04-29, 20:31:38](https://news.ycombinator.com/item?id=40203768) - [FCC fines big three carriers $196M for selling users' real-time location data](https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/)
 * [2024-04-29, 20:29:12](https://news.ycombinator.com/item?id=40203739) - [It isn't only Python, Dart and Flutter teams also affected](https://twitter.com/jamonholmgren/status/1784979936010535409)
 * [2024-04-29, 20:09:16](https://news.ycombinator.com/item?id=40203510) - [Gradient AI Releases 1M Context Llama 8B](https://twitter.com/Gradient_AI_/status/1785036209468907796)
@@ -34,6 +35,7 @@
 * [2024-04-29, 15:38:46](https://news.ycombinator.com/item?id=40199713) - [How do you accidentally run for President of Iceland?](https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e)
 * [2024-04-29, 15:38:23](https://news.ycombinator.com/item?id=40199706) - [US, other G7 countries to phase out coal by early 2030s](https://electrek.co/2024/04/29/us-g7-countries-to-phase-out-coal-by-early-2030s/)
 * [2024-04-29, 15:35:31](https://news.ycombinator.com/item?id=40199679) - [Project Habbakuk: Britain's Ice \"Bergship\" Aircraft Carrier Project](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
+* [2024-04-29, 15:35:04](https://news.ycombinator.com/item?id=40199670) - [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
 * [2024-04-29, 15:17:41](https://news.ycombinator.com/item?id=40199443) - [Light Waves Brought to a Stop in a Crystal Promises New Ways to Control Photons](https://www.sciencealert.com/light-waves-brought-to-a-stop-in-a-crystal-promises-new-ways-to-control-photons)
 * [2024-04-29, 15:00:15](https://news.ycombinator.com/item?id=40199193) - [Husband and wife outed as GRU spies aiding bombings and poisonings across Europe](https://theins.ru/en/politics/271205)
