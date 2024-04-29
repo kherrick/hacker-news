@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 17:00:59](https://news.ycombinator.com/item?id=40200998) - [Activeloop (YC S18) Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
 * [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 * [2024-04-29, 16:01:24](https://news.ycombinator.com/item?id=40200048) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
+* [2024-04-29, 15:57:03](https://news.ycombinator.com/item?id=40199972) - [Kaytu: Open-Source Tool for Optimizing Cloud Costs Using Actual Usage Data](https://github.com/kaytu-io/kaytu)
+* [2024-04-29, 15:56:56](https://news.ycombinator.com/item?id=40199967) - [I made a new backplane for my consumer NAS](https://codedbearder.com/posts/f3-backplane/)
 * [2024-04-29, 15:52:51](https://news.ycombinator.com/item?id=40199916) - [Xbox Console Sales Are Tanking as Microsoft Brings Games to PS5](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)
 * [2024-04-29, 15:47:30](https://news.ycombinator.com/item?id=40199828) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
+* [2024-04-29, 15:39:01](https://news.ycombinator.com/item?id=40199715) - [GPT-4.5 or GPT-5 being tested on LMSYS?](https://rentry.co/GPT2)
 * [2024-04-29, 15:38:46](https://news.ycombinator.com/item?id=40199713) - [How do you accidentally run for President of Iceland?](https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e)
 * [2024-04-29, 15:38:23](https://news.ycombinator.com/item?id=40199706) - [US, other G7 countries to phase out coal by early 2030s](https://electrek.co/2024/04/29/us-g7-countries-to-phase-out-coal-by-early-2030s/)
 * [2024-04-29, 15:35:31](https://news.ycombinator.com/item?id=40199679) - [Project Habbakuk: Britain's Ice \"Bergship\" Aircraft Carrier Project](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
@@ -23,6 +27,7 @@
 * [2024-04-29, 13:55:00](https://news.ycombinator.com/item?id=40198384) - [Most investments are bad. Here's why](https://www.lynalden.com/most-investments-are-bad/)
 * [2024-04-29, 13:54:06](https://news.ycombinator.com/item?id=40198378) - [ByteDance’s web of apps could get tangled up in TikTok ban](https://www.axios.com/2024/04/23/tiktok-ban-bytedance-apps-capcut-lemon8)
 * [2024-04-29, 13:53:20](https://news.ycombinator.com/item?id=40198364) - [CB1 Receptor Negative Allosteric Modulators to Reverse Cannabinoid Toxicity](https://www.mdpi.com/1420-3049/29/8/1881)
+* [2024-04-29, 13:53:05](https://news.ycombinator.com/item?id=40198362) - [Struve's Flat(ter) Earth (2023)](https://blog.datawrapper.de/struve-geodetic-arc/)
 * [2024-04-29, 13:49:42](https://news.ycombinator.com/item?id=40198326) - [Collection of publicly available IPTV channels from all over the world](https://iptv-org.github.io/)
 * [2024-04-29, 13:43:49](https://news.ycombinator.com/item?id=40198258) - [Pulumi AI is poisoning Google search results with AI answers](https://github.com/pulumi/pulumi-ai/issues/79)
 * [2024-04-29, 13:34:18](https://news.ycombinator.com/item?id=40198143) - [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
