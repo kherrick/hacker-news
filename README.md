@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 22:03:29](https://news.ycombinator.com/item?id=40204647) - [Tesla Lays Off Employee Who Slept in Car to Work Longer Hours](https://jalopnik.com/tesla-reportedly-lays-off-employee-who-slept-in-car-to-1851442357)
 * [2024-04-29, 21:51:25](https://news.ycombinator.com/item?id=40204544) - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
 * [2024-04-29, 21:47:46](https://news.ycombinator.com/item?id=40204516) - [FireChat was a tool for revolution. Then it disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
@@ -21,8 +22,6 @@
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
 * [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2024-04-29, 11:12:51](https://news.ycombinator.com/item?id=40196879) - [Memary: Open-Source Longterm Memory for Autonomous Agents](https://github.com/kingjulio8238/memary)
-* [2024-04-29, 07:36:03](https://news.ycombinator.com/item?id=40195557) - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
-* [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 * [2024-04-29, 00:27:14](https://news.ycombinator.com/item?id=40193209) - [Pearls Before Breakfast: Can a great musician cut fog of rush hour? (2007)](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html)
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
@@ -30,6 +29,7 @@
 * [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
 * [2024-04-28, 07:47:09](https://news.ycombinator.com/item?id=40186819) - [Principles for Keyboard Layouts (2022)](https://anniecherkaev.com/principles-for-keyboard-layouts)
 * [2024-04-28, 02:04:48](https://news.ycombinator.com/item?id=40185400) - [The Voyage of Magellan – Chapter 5: Underway](https://analog-antiquarian.net/2024/04/26/chapter-5-underway/)
+* [2024-04-26, 10:23:21](https://news.ycombinator.com/item?id=40167638) - [One Bad Apple Can Spoil Your IPv6 Privacy](https://arxiv.org/abs/2203.08946)
 
 ## [Archives](archives/index.md)
 
