@@ -2,7 +2,7 @@
 
 * [2024-04-29, 20:09:16](https://news.ycombinator.com/item?id=40203510) - [Gradient AI Releases 1M Context Llama 8B](https://twitter.com/Gradient_AI_/status/1785036209468907796)
 * [2024-04-29, 19:48:15](https://news.ycombinator.com/item?id=40203224) - [FSF to be deposed in SFC vs. Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
-* [2024-04-29, 19:14:03](https://news.ycombinator.com/item?id=40202695) - [FCC Fines Largest Wireless Carriers for Sharing Location Data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
+* [2024-04-29, 19:14:03](https://news.ycombinator.com/item?id=40202695) - [FCC fines largest wireless carriers for sharing location data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
 * [2024-04-29, 17:04:15](https://news.ycombinator.com/item?id=40201053) - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
 * [2024-04-29, 17:00:59](https://news.ycombinator.com/item?id=40200998) - [Activeloop (YC S18) Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
 * [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Technical Preview](https://github.blog/2024-04-29-github-copilot-workspace/)
@@ -16,7 +16,7 @@
 * [2024-04-29, 13:53:05](https://news.ycombinator.com/item?id=40198362) - [Struve's Flat(ter) Earth (2023)](https://blog.datawrapper.de/struve-geodetic-arc/)
 * [2024-04-29, 12:19:38](https://news.ycombinator.com/item?id=40197346) - [What's Going on with ‘Nonplussed’? (2017)](https://www.merriam-webster.com/grammar/nonplussed)
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
-* [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
+* [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2024-04-29, 11:12:51](https://news.ycombinator.com/item?id=40196879) - [Memary: Open-Source Longterm Memory for Autonomous Agents](https://github.com/kingjulio8238/memary)
 * [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
 * [2024-04-29, 07:36:03](https://news.ycombinator.com/item?id=40195557) - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
