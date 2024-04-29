@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 19:14:03](https://news.ycombinator.com/item?id=40202695) - [FCC Fines Largest Wireless Carriers for Sharing Location Data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
+* [2024-04-29, 18:47:56](https://news.ycombinator.com/item?id=40202325) - [Tesla former VP of engineering liquidated virtually entire stake in the company](https://fortune.com/2024/04/26/tesla-elon-musk-drew-baglino-insider-sale-ron-baron/)
 * [2024-04-29, 18:38:15](https://news.ycombinator.com/item?id=40202183) - [30% of Children Ages 5-7 Are on TikTok](https://www.honest-broker.com/p/30-of-children-ages-5-7-are-on-tiktok)
 * [2024-04-29, 18:23:08](https://news.ycombinator.com/item?id=40202027) - [Liu Cixin's War of the Worlds](https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds)
 * [2024-04-29, 18:14:02](https://news.ycombinator.com/item?id=40201920) - [\"So that a truncated partial download doesn't end up executing half a script\"](https://tailscale.com/install.sh)
