@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
 * [2024-04-29, 10:17:06](https://news.ycombinator.com/item?id=40196536) - [Why We Hate Working for Big Companies (2018)](https://lukekanies.com/writing/why-we-hate-working-for-big-companies/)
 * [2024-04-29, 07:36:03](https://news.ycombinator.com/item?id=40195557) - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
 * [2024-04-29, 07:23:19](https://news.ycombinator.com/item?id=40195480) - [Open-source alternative to Heroku, Vercel, and Netlify](https://github.com/Dokploy/dokploy)
@@ -29,7 +30,6 @@
 * [2024-04-27, 05:46:55](https://news.ycombinator.com/item?id=40177599) - [Watch cars evolve using genetic algorithm](https://rednuht.org/genetic_cars_2/)
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158751) - [China's Moon atlas is the most detailed ever made](https://www.nature.com/articles/d41586-024-01223-0)
-* [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 
 ## [Archives](archives/index.md)
 

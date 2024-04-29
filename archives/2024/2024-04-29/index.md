@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
 * [2024-04-29, 10:17:06](https://news.ycombinator.com/item?id=40196536) - [Why We Hate Working for Big Companies (2018)](https://lukekanies.com/writing/why-we-hate-working-for-big-companies/)
 * [2024-04-29, 09:22:57](https://news.ycombinator.com/item?id=40196252) - [Russian GRU was behind the attack in Vrbětice, NCOZ confirms](https://www.bis.cz/aktuality/za-utokem-ve-vrbeticich-byla-ruska-gru-potvrdila-ncoz-48976dbe.html)
 * [2024-04-29, 08:48:31](https://news.ycombinator.com/item?id=40196068) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
