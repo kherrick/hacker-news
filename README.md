@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-29, 07:08:23](https://news.ycombinator.com/item?id=40195391) - [StableVideo](https://stablevideo.work/)
 * [2024-04-29, 07:03:24](https://news.ycombinator.com/item?id=40195359) - [Power of Libraries](https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/)
 * [2024-04-29, 06:44:41](https://news.ycombinator.com/item?id=40195235) - [ChatGPT provides false information about people, and OpenAI can't correct it](https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it)
 * [2024-04-29, 06:34:10](https://news.ycombinator.com/item?id=40195164) - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
@@ -30,6 +29,7 @@
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158751) - [China's Moon atlas is the most detailed ever made](https://www.nature.com/articles/d41586-024-01223-0)
+* [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 
 ## [Archives](archives/index.md)
 
