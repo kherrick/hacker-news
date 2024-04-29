@@ -56,6 +56,7 @@
 * [2024-04-28, 08:17:47](https://news.ycombinator.com/item?id=40186960) - [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
 * [2024-04-28, 07:35:02](https://news.ycombinator.com/item?id=40186768) - [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 * [2024-04-28, 07:30:40](https://news.ycombinator.com/item?id=40186752) - [Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
+* [2024-04-28, 06:17:51](https://news.ycombinator.com/item?id=40186418) - [The Bloat Busters: pg_repack vs. pg_squeeze](https://notso.boringsql.com/posts/the-bloat-busters-pg-repack-pg-squeeze/)
 * [2024-04-28, 06:05:43](https://news.ycombinator.com/item?id=40186374) - [Help My mouse climbed a wall and now it doesn't work right](https://www.theregister.com/2024/04/26/on_call/)
 * [2024-04-28, 05:44:50](https://news.ycombinator.com/item?id=40186299) - [The Better Boarding Method Airlines Won't Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
 * [2024-04-28, 05:05:57](https://news.ycombinator.com/item?id=40186146) - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
