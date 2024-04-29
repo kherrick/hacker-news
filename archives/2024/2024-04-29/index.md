@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 * [2024-04-29, 16:01:24](https://news.ycombinator.com/item?id=40200048) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
 * [2024-04-29, 15:52:51](https://news.ycombinator.com/item?id=40199916) - [Xbox Console Sales Are Tanking as Microsoft Brings Games to PS5](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)
 * [2024-04-29, 15:47:30](https://news.ycombinator.com/item?id=40199828) - [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
@@ -11,6 +12,7 @@
 * [2024-04-29, 15:38:23](https://news.ycombinator.com/item?id=40199706) - [US, other G7 countries to phase out coal by early 2030s](https://electrek.co/2024/04/29/us-g7-countries-to-phase-out-coal-by-early-2030s/)
 * [2024-04-29, 15:35:31](https://news.ycombinator.com/item?id=40199679) - [Project Habbakuk: Britain's Ice \"Bergship\" Aircraft Carrier Project](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
+* [2024-04-29, 15:17:41](https://news.ycombinator.com/item?id=40199443) - [Light Waves Brought to a Stop in a Crystal Promises New Ways to Control Photons](https://www.sciencealert.com/light-waves-brought-to-a-stop-in-a-crystal-promises-new-ways-to-control-photons)
 * [2024-04-29, 15:00:15](https://news.ycombinator.com/item?id=40199193) - [Husband and wife outed as GRU spies aiding bombings and poisonings across Europe](https://theins.ru/en/politics/271205)
 * [2024-04-29, 14:57:29](https://news.ycombinator.com/item?id=40199153) - [A leadership crisis in the Nix community](https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/)
 * [2024-04-29, 14:54:38](https://news.ycombinator.com/item?id=40199118) - [Tiered storage won't fix Kafka](https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka)
