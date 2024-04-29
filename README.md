@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 14:19:48](https://news.ycombinator.com/item?id=40198664) - [9FRONT (Plan 9) \"Do Not Install\" Released](http://9front.org/releases/2024/04/28/0/)
 * [2024-04-29, 14:12:58](https://news.ycombinator.com/item?id=40198595) - [Phreaking](https://en.wikipedia.org/wiki/Phreaking)
 * [2024-04-29, 14:01:47](https://news.ycombinator.com/item?id=40198458) - [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
 * [2024-04-29, 13:54:06](https://news.ycombinator.com/item?id=40198378) - [ByteDance’s web of apps could get tangled up in TikTok ban](https://www.axios.com/2024/04/23/tiktok-ban-bytedance-apps-capcut-lemon8)
@@ -23,11 +24,10 @@
 * [2024-04-29, 00:28:37](https://news.ycombinator.com/item?id=40193216) - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
 * [2024-04-28, 21:57:00](https://news.ycombinator.com/item?id=40192359) - [Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
 * [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp (1949)](http://www.lathes.co.uk/bradley-pow-lathe/)
-* [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
+* [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
 * [2024-04-28, 08:51:18](https://news.ycombinator.com/item?id=40187072) - [Pdf.tocgen](https://krasjet.com/voice/pdf.tocgen/)
 * [2024-04-28, 08:06:46](https://news.ycombinator.com/item?id=40186919) - [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
 * [2024-04-28, 07:30:40](https://news.ycombinator.com/item?id=40186752) - [Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
-* [2024-04-27, 11:40:57](https://news.ycombinator.com/item?id=40179194) - [Practical Vim command workflow (2023)](https://m4xshen.dev/posts/vim-command-workflow/)
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-25, 15:31:16](https://news.ycombinator.com/item?id=40158751) - [China’s Moon atlas is the most detailed ever made](https://www.nature.com/articles/d41586-024-01223-0)
 

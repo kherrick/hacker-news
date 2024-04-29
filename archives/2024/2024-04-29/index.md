@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 14:19:48](https://news.ycombinator.com/item?id=40198664) - [9FRONT (Plan 9) \"Do Not Install\" Released](http://9front.org/releases/2024/04/28/0/)
 * [2024-04-29, 14:12:58](https://news.ycombinator.com/item?id=40198595) - [Phreaking](https://en.wikipedia.org/wiki/Phreaking)
 * [2024-04-29, 14:01:47](https://news.ycombinator.com/item?id=40198458) - [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
 * [2024-04-29, 13:54:06](https://news.ycombinator.com/item?id=40198378) - [ByteDance’s web of apps could get tangled up in TikTok ban](https://www.axios.com/2024/04/23/tiktok-ban-bytedance-apps-capcut-lemon8)
