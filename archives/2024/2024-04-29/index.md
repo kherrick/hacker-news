@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 12:44:51](https://news.ycombinator.com/item?id=40197559) - [Doctor at Cigna Said Bosses Pressured Her to Review Patients' Cases Too Quickly](https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance)
 * [2024-04-29, 12:34:20](https://news.ycombinator.com/item?id=40197463) - [Mixtral 8x7B going 378 tokens per second on CPU](https://twitter.com/JustineTunney/status/1784619347119591615)
 * [2024-04-29, 12:19:38](https://news.ycombinator.com/item?id=40197346) - [What's Going on with 'Nonplussed'?](https://www.merriam-webster.com/grammar/nonplussed)
 * [2024-04-29, 12:00:34](https://news.ycombinator.com/item?id=40197212) - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
