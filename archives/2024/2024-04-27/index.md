@@ -74,6 +74,7 @@
 * [2024-04-27, 07:44:46](https://news.ycombinator.com/item?id=40178121) - [I Quit My Job](https://ashlybq.substack.com/p/i-quit-my-job)
 * [2024-04-27, 07:01:15](https://news.ycombinator.com/item?id=40177906) - [The First Website](https://info.cern.ch/hypertext/WWW/TheProject.html)
 * [2024-04-27, 07:00:43](https://news.ycombinator.com/item?id=40177904) - [Infracost (YC W21) is hiring senior software engineers](https://infracost.io/join-the-team)
+* [2024-04-27, 06:46:21](https://news.ycombinator.com/item?id=40177846) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-04-27, 06:26:39](https://news.ycombinator.com/item?id=40177754) - [Tom Seidmann-Freud's Book of Hare Stories (1924)](https://publicdomainreview.org/collection/tom-seidmann-freud-hare-tales/)
 * [2024-04-27, 06:12:12](https://news.ycombinator.com/item?id=40177694) - [Show HN: Sleepsort – Sorting While Sleeping](https://animeshchouhan.com/posts/sleepsort/)
 * [2024-04-27, 06:10:59](https://news.ycombinator.com/item?id=40177687) - [Crafting Interpreters: 640 Pages in 15 Months](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
