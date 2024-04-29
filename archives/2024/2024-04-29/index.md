@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 12:00:34](https://news.ycombinator.com/item?id=40197212) - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
+* [2024-04-29, 11:12:51](https://news.ycombinator.com/item?id=40196879) - [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
+* [2024-04-29, 10:42:31](https://news.ycombinator.com/item?id=40196687) - [Retroactive hate crime bill in Canada [Online Harms Bill C-63]](https://twitter.com/MurielBlaivePhD/status/1782032187128176669)
 * [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
 * [2024-04-29, 10:22:47](https://news.ycombinator.com/item?id=40196573) - [iPadOS Identified as Digital 'Gatekeeper' Under New EU Tech Rules](https://www.macrumors.com/2024/04/29/eu-says-ipados-digital-gatekeeper-dma/)
 * [2024-04-29, 10:17:06](https://news.ycombinator.com/item?id=40196536) - [Why We Hate Working for Big Companies (2018)](https://lukekanies.com/writing/why-we-hate-working-for-big-companies/)
