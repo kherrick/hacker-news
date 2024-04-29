@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-29, 16:03:03",
+      "https://news.ycombinator.com/item?id=40200081"
+    ],
+    [
+      "GitHub Copilot Workspace: Welcome to the Copilot-native developer environment",
+      "https://github.blog/2024-04-29-github-copilot-workspace/"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 16:01:24",
       "https://news.ycombinator.com/item?id=40200048"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2024-04-29, 15:52:51",
-      "https://news.ycombinator.com/item?id=40199916"
-    ],
-    [
-      "Xbox Console Sales Are Tanking as Microsoft Brings Games to PS5",
-      "https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 15:38:46",
       "https://news.ycombinator.com/item?id=40199713"
     ],
     [
       "How do you accidentally run for President of Iceland?",
       "https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 15:38:23",
-      "https://news.ycombinator.com/item?id=40199706"
-    ],
-    [
-      "US, other G7 countries to phase out coal by early 2030s",
-      "https://electrek.co/2024/04/29/us-g7-countries-to-phase-out-coal-by-early-2030s/"
     ]
   ],
   [
@@ -61,52 +51,22 @@
   ],
   [
     [
+      "2024-04-29, 15:17:41",
+      "https://news.ycombinator.com/item?id=40199443"
+    ],
+    [
+      "Light Waves Brought to a Stop in a Crystal Promises New Ways to Control Photons",
+      "https://www.sciencealert.com/light-waves-brought-to-a-stop-in-a-crystal-promises-new-ways-to-control-photons"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 15:00:15",
       "https://news.ycombinator.com/item?id=40199193"
     ],
     [
       "Husband and wife outed as GRU spies aiding bombings and poisonings across Europe",
       "https://theins.ru/en/politics/271205"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 14:57:29",
-      "https://news.ycombinator.com/item?id=40199153"
-    ],
-    [
-      "A leadership crisis in the Nix community",
-      "https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 14:54:38",
-      "https://news.ycombinator.com/item?id=40199118"
-    ],
-    [
-      "Tiered storage won't fix Kafka",
-      "https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 14:29:13",
-      "https://news.ycombinator.com/item?id=40198766"
-    ],
-    [
-      "SB-1047 will stifle open-source AI and decrease safety",
-      "https://www.answer.ai/posts/2024-04-29-sb1047.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 14:12:58",
-      "https://news.ycombinator.com/item?id=40198595"
-    ],
-    [
-      "Phreaking",
-      "https://en.wikipedia.org/wiki/Phreaking"
     ]
   ],
   [
@@ -121,12 +81,12 @@
   ],
   [
     [
-      "2024-04-29, 13:49:42",
-      "https://news.ycombinator.com/item?id=40198326"
+      "2024-04-29, 12:44:51",
+      "https://news.ycombinator.com/item?id=40197559"
     ],
     [
-      "Collection of publicly available IPTV channels",
-      "https://iptv-org.github.io/"
+      "Doctor at Cigna said bosses pressured her to review patients' cases too quickly",
+      "https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance"
     ]
   ],
   [
@@ -251,6 +211,16 @@
   ],
   [
     [
+      "2024-04-28, 21:57:00",
+      "https://news.ycombinator.com/item?id=40192359"
+    ],
+    [
+      "Personal computing paves the way for personal library science",
+      "https://www.bramadams.dev/issue-55/"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 11:12:22",
       "https://news.ycombinator.com/item?id=40187699"
     ],
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2024-04-28, 07:30:40",
+      "https://news.ycombinator.com/item?id=40186752"
+    ],
+    [
+      "Common DB schema change mistakes in Postgres",
+      "https://postgres.ai/blog/20220525-common-db-schema-change-mistakes"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 11:40:57",
       "https://news.ycombinator.com/item?id=40179194"
     ],
     [
       "Practical Vim command workflow (2023)",
       "https://m4xshen.dev/posts/vim-command-workflow/"
+    ]
+  ],
+  [
+    [
+      "2024-04-27, 05:36:45",
+      "https://news.ycombinator.com/item?id=40177553"
+    ],
+    [
+      "I found one of my first programs (Java, 2011) on the Wayback Machine and it runs",
+      "https://github.com/khiner/CrosswordFiller"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 15:31:16",
+      "https://news.ycombinator.com/item?id=40158751"
+    ],
+    [
+      "China’s Moon atlas is the most detailed ever made",
+      "https://www.nature.com/articles/d41586-024-01223-0"
     ]
   ]
 ]
