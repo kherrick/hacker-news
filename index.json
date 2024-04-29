@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-29, 06:34:10",
+      "https://news.ycombinator.com/item?id=40195164"
+    ],
+    [
+      "London Drugs closes stores until further notice due to cyberattack",
+      "https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 05:01:33",
       "https://news.ycombinator.com/item?id=40194636"
     ],
@@ -37,6 +47,16 @@
     [
       "Forget moonshots, investors want profit now",
       "https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 03:52:24",
+      "https://news.ycombinator.com/item?id=40194225"
+    ],
+    [
+      "Apple Vision Pro Successor Not Expected Until End of 2026",
+      "https://wccftech.com/apple-vision-pro-successor-not-expected-until-end-of-2026/"
     ]
   ],
   [
@@ -181,22 +201,22 @@
   ],
   [
     [
-      "2024-04-28, 15:47:43",
-      "https://news.ycombinator.com/item?id=40189447"
-    ],
-    [
-      "Talking to memory: Inside the Intel 8088 processor's bus interface state machine",
-      "http://www.righto.com/2024/04/intel-8088-bus-state-machine.html"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 12:41:27",
       "https://news.ycombinator.com/item?id=40188173"
     ],
     [
       "Reentry – An Orbital Simulator",
       "https://reentrygame.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 11:03:45",
+      "https://news.ycombinator.com/item?id=40187656"
+    ],
+    [
+      "Zilog Z80 CPU – Modern, free and open source silicon clone",
+      "https://github.com/rejunity/z80-open-silicon"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-04-26, 09:45:26",
-      "https://news.ycombinator.com/item?id=40167461"
-    ],
-    [
-      "Show HN: OpenLIT – Open-Source LLM Observability with OpenTelemetry",
-      "https://github.com/openlit/openlit"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 02:22:00",
       "https://news.ycombinator.com/item?id=40165329"
     ],
@@ -287,16 +297,6 @@
     [
       "China's Moon atlas is the most detailed ever made",
       "https://www.nature.com/articles/d41586-024-01223-0"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 09:29:06",
-      "https://news.ycombinator.com/item?id=40155294"
-    ],
-    [
-      "A brief history of web development, and why your framework doesn't matter",
-      "https://gebna.gg/blog/brief-history-of-web-development"
     ]
   ]
 ]
