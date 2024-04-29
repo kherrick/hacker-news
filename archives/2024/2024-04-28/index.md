@@ -7,6 +7,7 @@
 * [2024-04-28, 22:49:17](https://news.ycombinator.com/item?id=40192698) - [6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 * [2024-04-28, 22:43:26](https://news.ycombinator.com/item?id=40192664) - [Block* and AgentFormer – Playing with blocks and Transformers (yay)](https://github.com/rayking99/BlockStar)
 * [2024-04-28, 22:30:55](https://news.ycombinator.com/item?id=40192579) - [The Essence of Compiling with Continuations (1993) [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
+* [2024-04-28, 22:27:34](https://news.ycombinator.com/item?id=40192552) - [Haystack DB – 10x faster than FAISS with binary embeddings by default](https://github.com/carsonpo/haystackdb)
 * [2024-04-28, 21:57:00](https://news.ycombinator.com/item?id=40192359) - [Personal Computing Paves the Way for Personal Library Science](https://www.bramadams.dev/issue-55/)
 * [2024-04-28, 21:38:05](https://news.ycombinator.com/item?id=40192240) - [DEC PDP-1 emulator running \"Spacewar\", the earliest known digital video game](https://www.masswerk.at/spacewar/index.html)
 * [2024-04-28, 21:34:02](https://news.ycombinator.com/item?id=40192204) - [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
