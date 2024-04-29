@@ -7,7 +7,7 @@
 * [2024-04-28, 22:30:55](https://news.ycombinator.com/item?id=40192579) - [The Essence of Compiling with Continuations (1993) [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
 * [2024-04-28, 21:57:00](https://news.ycombinator.com/item?id=40192359) - [Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
 * [2024-04-28, 21:38:05](https://news.ycombinator.com/item?id=40192240) - [DEC PDP-1 emulator running \"Spacewar\", the earliest known digital video game](https://www.masswerk.at/spacewar/index.html)
-* [2024-04-28, 21:34:02](https://news.ycombinator.com/item?id=40192204) - [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
+* [2024-04-28, 21:21:20](https://news.ycombinator.com/item?id=40192074) - [Building MS-DOS 4.00 on FreeDOS [video]](https://www.youtube.com/watch?v=X7r76V_gWQ8)
 * [2024-04-28, 21:06:53](https://news.ycombinator.com/item?id=40191915) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
 * [2024-04-28, 20:48:42](https://news.ycombinator.com/item?id=40191723) - [Ollama v0.1.33 with Llama 3, Phi 3, and Qwen 110B](https://github.com/ollama/ollama/releases/tag/v0.1.33-rc5)
 * [2024-04-28, 20:25:46](https://news.ycombinator.com/item?id=40191510) - [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
