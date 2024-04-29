@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-29, 21:51:36](https://news.ycombinator.com/item?id=40204546) - [Is the Gnome Foundation Going to Go Bankrupt in 1 Year?](https://lunduke.locals.com/post/5572069/is-the-gnome-foundation-going-to-go-bankrupt-in-1-year)
 * [2024-04-29, 21:51:25](https://news.ycombinator.com/item?id=40204544) - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
 * [2024-04-29, 21:47:46](https://news.ycombinator.com/item?id=40204516) - [FireChat was a tool for revolution. Then it disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
@@ -8,6 +7,7 @@
 * [2024-04-29, 20:22:53](https://news.ycombinator.com/item?id=40203670) - [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)
 * [2024-04-29, 19:58:23](https://news.ycombinator.com/item?id=40203377) - [The Three Byte Fix](https://breckyunits.com/ckmeans.html)
 * [2024-04-29, 19:14:03](https://news.ycombinator.com/item?id=40202695) - [FCC fines largest wireless carriers for sharing location data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
+* [2024-04-29, 18:05:18](https://news.ycombinator.com/item?id=40201818) - [Debugging Tech Journalism](https://asteriskmag.com/issues/06/debugging-tech-journalism)
 * [2024-04-29, 17:04:15](https://news.ycombinator.com/item?id=40201053) - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
 * [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Technical Preview](https://github.blog/2024-04-29-github-copilot-workspace/)
 * [2024-04-29, 15:57:03](https://news.ycombinator.com/item?id=40199972) - [Show HN: Kaytu – Optimizing cloud costs using actual usage data](https://github.com/kaytu-io/kaytu)
