@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 21:51:25](https://news.ycombinator.com/item?id=40204544) - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-04-29, 20:31:38](https://news.ycombinator.com/item?id=40203768) - [FCC fines big three carriers $196M for selling users' real-time location data](https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/)
 * [2024-04-29, 20:22:53](https://news.ycombinator.com/item?id=40203670) - [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)
@@ -22,7 +23,6 @@
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 * [2024-04-29, 00:27:14](https://news.ycombinator.com/item?id=40193209) - [Pearls Before Breakfast: Can a great musician cut fog of rush hour? (2007)](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html)
-* [2024-04-28, 22:04:20](https://news.ycombinator.com/item?id=40192403) - [Claude Émile Jean-Baptiste Litre](https://en.wikipedia.org/wiki/Claude_%C3%89mile_Jean-Baptiste_Litre)
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2024-04-28, 15:34:59](https://news.ycombinator.com/item?id=40189372) - [How do satellites communicate with a GPS system? (2018)](https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/)
 * [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
