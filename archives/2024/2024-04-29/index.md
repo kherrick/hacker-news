@@ -41,6 +41,7 @@
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
 * [2024-04-29, 12:00:34](https://news.ycombinator.com/item?id=40197212) - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
 * [2024-04-29, 11:56:05](https://news.ycombinator.com/item?id=40197182) - [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
+* [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2024-04-29, 11:13:00](https://news.ycombinator.com/item?id=40196880) - [Ask HN: What's the best charting library for customer-facing dashboards?](https://news.ycombinator.com/item?id=40196880)
 * [2024-04-29, 11:12:51](https://news.ycombinator.com/item?id=40196879) - [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
 * [2024-04-29, 11:08:57](https://news.ycombinator.com/item?id=40196856) - [US Post Office phishing sites get as much traffic as the real one](https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/)
