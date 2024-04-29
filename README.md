@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
+* [2024-04-29, 04:57:55](https://news.ycombinator.com/item?id=40194622) - [Airline keeps mistaking 101-year-old woman for 1-year-old baby](https://www.bbc.com/news/articles/c9wz7pvvjypo)
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
 * [2024-04-29, 04:07:37](https://news.ycombinator.com/item?id=40194314) - [Forget moonshots, investors want profit now](https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25)
 * [2024-04-29, 00:28:37](https://news.ycombinator.com/item?id=40193216) - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
@@ -19,7 +21,6 @@
 * [2024-04-28, 15:47:43](https://news.ycombinator.com/item?id=40189447) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:32:26](https://news.ycombinator.com/item?id=40189346) - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
 * [2024-04-28, 12:41:27](https://news.ycombinator.com/item?id=40188173) - [Reentry – An Orbital Simulator](https://reentrygame.com/)
-* [2024-04-28, 11:03:45](https://news.ycombinator.com/item?id=40187656) - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
 * [2024-04-28, 09:05:43](https://news.ycombinator.com/item?id=40187146) - [Step Differences in Instructional Video](https://arxiv.org/abs/2404.16222)
 * [2024-04-28, 07:30:40](https://news.ycombinator.com/item?id=40186752) - [Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 * [2024-04-27, 09:34:57](https://news.ycombinator.com/item?id=40178634) - [Speeding up C++ build times](https://www.figma.com/blog/speeding-up-build-times/)
@@ -28,7 +29,6 @@
 * [2024-04-27, 05:36:45](https://news.ycombinator.com/item?id=40177553) - [I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 * [2024-04-26, 09:45:26](https://news.ycombinator.com/item?id=40167461) - [Show HN: OpenLIT – Open-Source LLM Observability with OpenTelemetry](https://github.com/openlit/openlit)
 * [2024-04-26, 02:22:00](https://news.ycombinator.com/item?id=40165329) - [Barley plants fine-tune root microbial communities through sugary secretions](https://phys.org/news/2024-04-barley-fine-tune-root-microbial.html)
-* [2024-04-25, 10:33:28](https://news.ycombinator.com/item?id=40155713) - [Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
 * [2024-04-25, 09:29:06](https://news.ycombinator.com/item?id=40155294) - [A brief history of web development, and why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
+* [2024-04-29, 04:57:55](https://news.ycombinator.com/item?id=40194622) - [Airline keeps mistaking 101-year-old woman for 1-year-old baby](https://www.bbc.com/news/articles/c9wz7pvvjypo)
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
 * [2024-04-29, 04:07:37](https://news.ycombinator.com/item?id=40194314) - [Forget moonshots, investors want profit now](https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25)
 * [2024-04-29, 03:21:48](https://news.ycombinator.com/item?id=40194103) - [Nate Silver: Go to a state school. The Ivy League are losing esteem](https://www.natesilver.net/p/go-to-a-state-school)
