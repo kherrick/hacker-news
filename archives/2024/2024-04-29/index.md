@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 06:34:10](https://news.ycombinator.com/item?id=40195164) - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 * [2024-04-29, 04:57:55](https://news.ycombinator.com/item?id=40194622) - [Airline keeps mistaking 101-year-old woman for 1-year-old baby](https://www.bbc.com/news/articles/c9wz7pvvjypo)
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
 * [2024-04-29, 04:07:37](https://news.ycombinator.com/item?id=40194314) - [Forget moonshots, investors want profit now](https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25)
+* [2024-04-29, 03:52:24](https://news.ycombinator.com/item?id=40194225) - [Apple Vision Pro Successor Not Expected Until End of 2026](https://wccftech.com/apple-vision-pro-successor-not-expected-until-end-of-2026/)
 * [2024-04-29, 03:21:48](https://news.ycombinator.com/item?id=40194103) - [Nate Silver: Go to a state school. The Ivy League are losing esteem](https://www.natesilver.net/p/go-to-a-state-school)
 * [2024-04-29, 03:05:27](https://news.ycombinator.com/item?id=40193998) - [Japanese yen weakens to 160 against the USD for the first time since 1990](https://www.cnbc.com/2024/04/29/japanese-yen-weakens-to-160-against-the-us-dollar-for-the-first-time-since-1990.html)
 * [2024-04-29, 02:58:07](https://news.ycombinator.com/item?id=40193948) - [Businesses Are Getting People Killed](https://darrellowens.substack.com/p/businesses-are-getting-their-customers)
