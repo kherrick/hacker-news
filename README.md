@@ -2,7 +2,6 @@
 
 * [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
 * [2024-04-29, 10:22:47](https://news.ycombinator.com/item?id=40196573) - [iPadOS Identified as Digital 'Gatekeeper' Under New EU Tech Rules](https://www.macrumors.com/2024/04/29/eu-says-ipados-digital-gatekeeper-dma/)
-* [2024-04-29, 10:17:06](https://news.ycombinator.com/item?id=40196536) - [Why We Hate Working for Big Companies (2018)](https://lukekanies.com/writing/why-we-hate-working-for-big-companies/)
 * [2024-04-29, 08:56:17](https://news.ycombinator.com/item?id=40196115) - [Functional Semantics in Imperative Clothing (Richard Feldman)](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 07:36:03](https://news.ycombinator.com/item?id=40195557) - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
 * [2024-04-29, 07:23:19](https://news.ycombinator.com/item?id=40195480) - [Open-source alternative to Heroku, Vercel, and Netlify](https://github.com/Dokploy/dokploy)
@@ -18,6 +17,7 @@
 * [2024-04-28, 21:21:20](https://news.ycombinator.com/item?id=40192074) - [Building MS-DOS 4.00 on FreeDOS [video]](https://www.youtube.com/watch?v=X7r76V_gWQ8)
 * [2024-04-28, 21:06:53](https://news.ycombinator.com/item?id=40191915) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
 * [2024-04-28, 20:48:42](https://news.ycombinator.com/item?id=40191723) - [Ollama v0.1.33 with Llama 3, Phi 3, and Qwen 110B](https://github.com/ollama/ollama/releases/tag/v0.1.33-rc5)
+* [2024-04-28, 20:25:46](https://news.ycombinator.com/item?id=40191510) - [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
 * [2024-04-28, 18:16:26](https://news.ycombinator.com/item?id=40190542) - [A small lathe built in a Japanese prison camp (1949)](http://www.lathes.co.uk/bradley-pow-lathe/)
 * [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
 * [2024-04-28, 12:41:27](https://news.ycombinator.com/item?id=40188173) - [Reentry – An Orbital Simulator](https://reentrygame.com/)
