@@ -13,6 +13,7 @@
 * [2024-04-30, 12:41:56](https://news.ycombinator.com/item?id=40210410) - [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/abs/2404.12457)
 * [2024-04-30, 12:13:13](https://news.ycombinator.com/item?id=40210159) - [The cloud is over-engineered and overpriced](https://www.youtube.com/watch?v=jFrGhodqC08)
 * [2024-04-30, 12:00:15](https://news.ycombinator.com/item?id=40210050) - [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
+* [2024-04-30, 11:26:51](https://news.ycombinator.com/item?id=40209801) - [Raspberry Pi 5 vs. Intel N100 mini PC comparison](https://www.cnx-software.com/2024/04/29/raspberry-pi-5-intel-n100-mini-pc-comparison-features-benchmarks-price/)
 * [2024-04-30, 11:13:08](https://news.ycombinator.com/item?id=40209689) - [Cats suffer H5N1 brain infections, blindness, death after drinking raw milk](https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/)
 * [2024-04-30, 10:33:15](https://news.ycombinator.com/item?id=40209382) - [Tesla conducting more layoffs, including entire Supercharger team](https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/)
 * [2024-04-30, 10:02:33](https://news.ycombinator.com/item?id=40209142) - [Don't Just Say \"Hello\" in Chat](https://www.nohello.com/)
