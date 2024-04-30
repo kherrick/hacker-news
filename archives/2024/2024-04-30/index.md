@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 15:13:22](https://news.ycombinator.com/item?id=40211891) - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
 * [2024-04-30, 15:04:48](https://news.ycombinator.com/item?id=40211785) - [AI leaderboards are no longer useful. It's time to switch to Pareto curves](https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 * [2024-04-30, 14:42:44](https://news.ycombinator.com/item?id=40211456) - [The Arc browser arrives on Windows to take on Chrome and Edge](https://www.theverge.com/2024/4/30/24144183/arc-browser-windows-launch-features-availability)
@@ -15,6 +16,7 @@
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-30, 12:49:47](https://news.ycombinator.com/item?id=40210483) - [Oracle Fusion rollout costs 15 times council's estimates in SAP rip-'n-replace](https://www.theregister.com/2024/04/30/uk_council_sees_cost_of/)
 * [2024-04-30, 12:41:56](https://news.ycombinator.com/item?id=40210410) - [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/abs/2404.12457)
+* [2024-04-30, 12:32:36](https://news.ycombinator.com/item?id=40210339) - [Systemd Rolling Out \"run0\" As sudo Alternative](https://www.phoronix.com/news/systemd-run0)
 * [2024-04-30, 12:13:13](https://news.ycombinator.com/item?id=40210159) - [The cloud is over-engineered and overpriced](https://www.youtube.com/watch?v=jFrGhodqC08)
 * [2024-04-30, 12:00:15](https://news.ycombinator.com/item?id=40210050) - [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
 * [2024-04-30, 11:26:51](https://news.ycombinator.com/item?id=40209801) - [Raspberry Pi 5 vs. Intel N100 mini PC comparison](https://www.cnx-software.com/2024/04/29/raspberry-pi-5-intel-n100-mini-pc-comparison-features-benchmarks-price/)
