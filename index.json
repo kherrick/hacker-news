@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-04-30, 16:08:18",
+      "https://news.ycombinator.com/item?id=40212611"
+    ],
+    [
+      "Arc Browser for Windows, now generally available",
+      "https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 15:56:10",
       "https://news.ycombinator.com/item?id=40212490"
     ],
@@ -107,6 +117,16 @@
     [
       "Pyinfra: Automate Infrastructure Using Python",
       "https://pyinfra.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 14:35:52",
+      "https://news.ycombinator.com/item?id=40211362"
+    ],
+    [
+      "\"Run0\" as a Sudo Replacement",
+      "https://lwn.net/Articles/971745/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Why SQLite Uses Bytecode",
       "https://sqlite.org/draft/whybytecode.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 02:45:16",
-      "https://news.ycombinator.com/item?id=40206729"
-    ],
-    [
-      "RISC-V support in Android just got a big setback",
-      "https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2024-04-29, 12:43:20",
-      "https://news.ycombinator.com/item?id=40197544"
-    ],
-    [
-      "Can we RAG the whole web?",
-      "https://philippeoger.com/pages/can-we-rag-the-whole-web/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 12:10:47",
-      "https://news.ycombinator.com/item?id=40197277"
-    ],
-    [
-      "Cheyenne Super Computer Auction",
-      "https://gsaauctions.gov/auctions/preview/282996"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 11:30:51",
       "https://news.ycombinator.com/item?id=40197013"
     ],
@@ -297,6 +287,16 @@
     [
       "How to Write Computer Programs (2015) [pdf]",
       "https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-04-27, 21:36:16",
+      "https://news.ycombinator.com/item?id=40183789"
+    ],
+    [
+      "How to Eat a Rattlesnake",
+      "https://www.newyorker.com/culture/the-weekend-essay/how-to-eat-a-rattlesnake"
     ]
   ]
 ]
