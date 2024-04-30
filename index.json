@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-30, 17:12:36",
+      "https://news.ycombinator.com/item?id=40213400"
+    ],
+    [
+      "Dear Europe, please wake up",
+      "https://klinger.io/posts/eu-acc"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 17:06:07",
       "https://news.ycombinator.com/item?id=40213327"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2024-04-30, 16:08:18",
+      "https://news.ycombinator.com/item?id=40212611"
+    ],
+    [
+      "Arc Browser for Windows, now generally available",
+      "https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 15:13:22",
       "https://news.ycombinator.com/item?id=40211891"
     ],
@@ -77,6 +97,16 @@
     [
       "Pyinfra: Automate Infrastructure Using Python",
       "https://pyinfra.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 14:20:08",
+      "https://news.ycombinator.com/item?id=40211205"
+    ],
+    [
+      "Bytecode VMs in Surprising Places",
+      "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
     ]
   ],
   [
@@ -121,22 +151,22 @@
   ],
   [
     [
-      "2024-04-30, 00:54:47",
-      "https://news.ycombinator.com/item?id=40206124"
+      "2024-04-30, 02:45:16",
+      "https://news.ycombinator.com/item?id=40206729"
     ],
     [
-      "TypeSpec: A new language for API-centric development",
-      "https://typespec.io/blog/2024-04-25-introducing"
+      "RISC-V support in Android just got a big setback",
+      "https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/"
     ]
   ],
   [
     [
-      "2024-04-29, 23:38:02",
-      "https://news.ycombinator.com/item?id=40205509"
+      "2024-04-29, 20:23:32",
+      "https://news.ycombinator.com/item?id=40203676"
     ],
     [
-      "Show HN: 3D framework for the web, built on Svelte and Three.js",
-      "https://threlte.xyz/"
+      "I Built an Ld_preload Worm",
+      "https://lcamtuf.substack.com/p/that-time-i-built-an-ld_preload-worm"
     ]
   ],
   [
@@ -151,22 +181,22 @@
   ],
   [
     [
-      "2024-04-29, 15:56:56",
-      "https://news.ycombinator.com/item?id=40199967"
+      "2024-04-29, 17:43:51",
+      "https://news.ycombinator.com/item?id=40201528"
     ],
     [
-      "I made a new backplane for my consumer NAS",
-      "https://codedbearder.com/posts/f3-backplane/"
+      "Calendar types in watches",
+      "https://arslan.io/2024/04/29/calendar-types-in-watches/"
     ]
   ],
   [
     [
-      "2024-04-29, 15:35:04",
-      "https://news.ycombinator.com/item?id=40199670"
+      "2024-04-29, 15:39:01",
+      "https://news.ycombinator.com/item?id=40199715"
     ],
     [
-      "Show HN: I made a privacy friendly and simple app to track my menstruation",
-      "https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US"
+      "GPT-4.5 or GPT-5 being tested on LMSYS?",
+      "https://rentry.co/GPT2"
     ]
   ],
   [
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2024-04-29, 06:41:24",
-      "https://news.ycombinator.com/item?id=40195210"
-    ],
-    [
-      "Exploit.education",
-      "https://exploit.education"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 06:34:28",
       "https://news.ycombinator.com/item?id=40195169"
     ],
     [
       "Scaling to Count Billions",
       "https://www.canva.dev/blog/engineering/scaling-to-count-billions/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 06:11:17",
-      "https://news.ycombinator.com/item?id=40195009"
-    ],
-    [
-      "You can't just assume UTF-8",
-      "https://csvbase.com/blog/9"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 05:01:33",
-      "https://news.ycombinator.com/item?id=40194636"
-    ],
-    [
-      "Atomic nucleus excited with laser: A breakthrough after decades",
-      "https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt"
     ]
   ],
   [
