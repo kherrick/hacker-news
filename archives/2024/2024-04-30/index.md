@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 17:12:36](https://news.ycombinator.com/item?id=40213400) - [Dear Europe, please wake up](https://klinger.io/posts/eu-acc)
 * [2024-04-30, 17:06:07](https://news.ycombinator.com/item?id=40213327) - [EU launches action against 20 airlines for greenwashing](https://www.aljazeera.com/news/2024/4/30/eu-launches-action-against-20-airlines-for-greenwashing)
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 17:00:36](https://news.ycombinator.com/item?id=40213262) - [Ego (YC W24) Is Hiring a Senior Game Developer (Unreal Engine)](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
