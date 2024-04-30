@@ -47,6 +47,7 @@
 * [2024-04-28, 13:01:12](https://news.ycombinator.com/item?id=40188282) - [Show HN: Docker-phobia: Analyze Docker image size with a treemap](https://github.com/remorses/docker-phobia)
 * [2024-04-28, 12:51:45](https://news.ycombinator.com/item?id=40188235) - [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
 * [2024-04-28, 12:41:27](https://news.ycombinator.com/item?id=40188173) - [Reentry – An Orbital Simulator](https://reentrygame.com/)
+* [2024-04-28, 12:30:38](https://news.ycombinator.com/item?id=40188126) - [On-demand nutrient production system for long-duration space missions](https://phys.org/news/2024-04-demand-nutrient-production-duration-space.html)
 * [2024-04-28, 12:00:44](https://news.ycombinator.com/item?id=40187971) - [Zed Decoded: Rope and SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
 * [2024-04-28, 12:00:09](https://news.ycombinator.com/item?id=40187964) - [UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
 * [2024-04-28, 11:45:26](https://news.ycombinator.com/item?id=40187882) - [The Invention of the Integrated Circuit: Jean Hoerni's Patent Notebook](https://thechipletter.substack.com/p/the-invention-of-the-integrated-circuit)
