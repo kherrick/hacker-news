@@ -86,6 +86,7 @@
 * [2024-04-29, 10:40:52](https://news.ycombinator.com/item?id=40196674) - [Sleeping Tesla driver caught on Swedish highway – after 25 miles](https://www.vibilagare.se/english/sleeping-tesla-driver-caught-swedish-highway-after-25-miles)
 * [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
 * [2024-04-29, 10:22:47](https://news.ycombinator.com/item?id=40196573) - [iPadOS Identified as Digital 'Gatekeeper' Under New EU Tech Rules](https://www.macrumors.com/2024/04/29/eu-says-ipados-digital-gatekeeper-dma/)
+* [2024-04-29, 10:21:34](https://news.ycombinator.com/item?id=40196565) - [Tougher rules for sellers of internet-enabled devices in the UK](https://www.bbc.co.uk/news/business-68917837)
 * [2024-04-29, 10:17:06](https://news.ycombinator.com/item?id=40196536) - [Why We Hate Working for Big Companies (2018)](https://lukekanies.com/writing/why-we-hate-working-for-big-companies/)
 * [2024-04-29, 09:22:57](https://news.ycombinator.com/item?id=40196252) - [Russian GRU was behind the attack in Vrbětice, NCOZ confirms](https://www.bis.cz/aktuality/za-utokem-ve-vrbeticich-byla-ruska-gru-potvrdila-ncoz-48976dbe.html)
 * [2024-04-29, 08:56:17](https://news.ycombinator.com/item?id=40196115) - [Functional Semantics in Imperative Clothing (Richard Feldman)](https://rtfeldman.com/imperative-clothing)
