@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 19:17:44](https://news.ycombinator.com/item?id=40215071) - [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.cnbc.com/2024/04/30/binance-founder-changpeng-zhao-cz-sentenced-to-four-months-in-prison-.html)
 * [2024-04-30, 19:16:39](https://news.ycombinator.com/item?id=40215052) - [Binance Founder Sentenced to Four Months in Prison](https://www.nytimes.com/2024/04/30/technology/binance-founder-changpeng-zhao-sentenced.html)
 * [2024-04-30, 19:00:36](https://news.ycombinator.com/item?id=40214839) - [Finnair pauses some Estonia flights due to GPS interference](https://www.reuters.com/world/europe/finnair-pauses-flights-tartu-estonia-amid-gps-interference-2024-04-29/)
 * [2024-04-30, 18:48:10](https://news.ycombinator.com/item?id=40214686) - [Android Studio IDE launches free AI features](https://developer.android.com/gemini-in-android)
@@ -25,6 +26,7 @@
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 17:00:36](https://news.ycombinator.com/item?id=40213262) - [Ego (YC W24) Is Hiring a Senior Game Developer (Unreal Engine)](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
 * [2024-04-30, 16:55:54](https://news.ycombinator.com/item?id=40213208) - [Probing electron spin states at much higher resolution and efficiency](https://phys.org/news/2024-04-materials-analysis-benefits-probing-electron.html)
+* [2024-04-30, 16:41:07](https://news.ycombinator.com/item?id=40213024) - [Enzymes open new path to universal donor blood](https://www.dtu.dk/english/newsarchive/2024/04/enzymes-open-new-path-to-universal-donor-blood)
 * [2024-04-30, 16:37:04](https://news.ycombinator.com/item?id=40212967) - [Crash-only software: More than meets the eye](https://lwn.net/Articles/191059/)
 * [2024-04-30, 16:26:39](https://news.ycombinator.com/item?id=40212811) - [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
 * [2024-04-30, 16:26:29](https://news.ycombinator.com/item?id=40212809) - [Razer made to pay $1.2M over 'N95' face mask that wasn't](https://www.theregister.com/2024/04/30/ftc_razer_face_mask/)

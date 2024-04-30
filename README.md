@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 19:17:44](https://news.ycombinator.com/item?id=40215071) - [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.cnbc.com/2024/04/30/binance-founder-changpeng-zhao-cz-sentenced-to-four-months-in-prison-.html)
 * [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
 * [2024-04-30, 18:22:08](https://news.ycombinator.com/item?id=40214332) - [Bill comes due for money-losing tech companies that borrowed billions](https://www.semafor.com/article/04/30/2024/bill-comes-due-for-money-losing-tech-companies-that-borrowed-billions)
-* [2024-04-30, 18:20:39](https://news.ycombinator.com/item?id=40214305) - [Gpt2-Chatbot Removed from Lmsys](https://lmsys.org/blog/2024-03-01-policy/)
-* [2024-04-30, 17:48:14](https://news.ycombinator.com/item?id=40213803) - [Thinking Beyond IaC](https://www.youtube.com/watch?v=gg4UZ_04hZc)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:42:30](https://news.ycombinator.com/item?id=40213718) - [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
 * [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
@@ -12,6 +11,7 @@
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 17:00:36](https://news.ycombinator.com/item?id=40213262) - [Ego (YC W24) Is Hiring a Senior Game Developer (Unreal Engine)](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
 * [2024-04-30, 16:55:54](https://news.ycombinator.com/item?id=40213208) - [Probing electron spin states at much higher resolution and efficiency](https://phys.org/news/2024-04-materials-analysis-benefits-probing-electron.html)
+* [2024-04-30, 16:41:07](https://news.ycombinator.com/item?id=40213024) - [Enzymes open new path to universal donor blood](https://www.dtu.dk/english/newsarchive/2024/04/enzymes-open-new-path-to-universal-donor-blood)
 * [2024-04-30, 16:37:04](https://news.ycombinator.com/item?id=40212967) - [Crash-only software: More than meets the eye (2006)](https://lwn.net/Articles/191059/)
 * [2024-04-30, 16:26:39](https://news.ycombinator.com/item?id=40212811) - [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
 * [2024-04-30, 15:56:10](https://news.ycombinator.com/item?id=40212490) - [Pydantic Logfire](https://pydantic.dev/logfire)
