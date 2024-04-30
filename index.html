@@ -142,11 +142,11 @@
             <h4>
               <span>2024-04-30 @ 14:24:45</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40211254"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2024-04-30 @ 14:20:08</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40211205"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -183,11 +183,33 @@
             <h4>
               <span>2024-04-30 @ 13:57:53</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40211010"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 148</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40210672">
+          <h3>
+            <a
+              class="item"
+              href="https://therecord.media/united-kingdom-bans-defalt-passwords-iot-devices"
+              >UK becomes first country to ban default bad passwords on IoT
+              devices</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-30 @ 13:17:40</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40210672"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -203,7 +225,7 @@
             <h4>
               <span>2024-04-30 @ 13:11:16</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40210627"
                   >Comments</a
@@ -284,54 +306,98 @@
             <h4>
               <span>2024-04-30 @ 11:26:51</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40209801"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="40209382">
+        <section id="40208800">
           <h3>
             <a
               class="item"
-              href="https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/"
-              >Tesla conducting more layoffs, including entire Supercharger
-              team</a
+              href="https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum"
+              >Show HN: Roast my SQLite encryption at-rest</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-04-30 @ 10:33:15</span
+              <span>2024-04-30 @ 09:12:27</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40209382"
+                ><a href="https://news.ycombinator.com/item?id=40208800"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="40207261">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=Q6ovtLdSbEA"
-              >Deep Dive into XZ Utils Backdoor [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-30 @ 04:31:11</span
-              ><span class="points-container"
-                >Points: <span class="points">187</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40207261"
-                  >Comments</a
-                ><span class="descendants">: 72</span></span
-              >
-            </h4>
+            <div class="text">
+              <i>“default”</i> CGo driver [1] and the transpiled alternative
+              driver [2]. So, this is a feature I wanted to bring to my own Wasm
+              based Go driver/bindings [3].
+              <p>
+                Open-source SQLite encryption extensions have had a troubled
+                last few years. For whatever reason, in 2020 the (undocumented)
+                feature that made it easy to offer page-level encryption was
+                removed [4]. Some solutions are stuck with SQLite 3.31.1, but
+                Ulrich Telle stepped up with a VFS approach [5].
+              </p>
+              <p>
+                Still, their solution seemed harder than something I'd want to
+                maintain, as it requires understanding the structure of what's
+                being written to disk at the VFS layer. So, I looked at full
+                disk encryption for something with less of an impedance
+                mismatch.
+              </p>
+              <p>
+                Specifically, I'm using the Adiantum tweakable and
+                length-preserving encryption (with 4K blocks, matching the
+                default SQLite page size), and encrypting whole files (rather
+                than page content).
+              </p>
+              <p>
+                I'm not a cryptographer, so I'd really appreciate some roasting
+                before release.
+              </p>
+              <p>
+                There is nothing very Go specific about this (apart from the
+                implementation) so if there are no obvious flaws, it may make
+                sense to port it to C/Rust/etc and make it a loadable extension.
+              </p>
+              <p>
+                [1]
+                <a href="https://github.com/mattn/go-sqlite3/pull/1109"
+                  >https://github.com/mattn/go-sqlite3/pull/1109</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://gitlab.com/cznic/sqlite/-/issues/105"
+                  >https://gitlab.com/cznic/sqlite/-/issues/105</a
+                >
+              </p>
+              <p>
+                [3]
+                <a href="https://github.com/ncruces/go-sqlite3/issues/55"
+                  >https://github.com/ncruces/go-sqlite3/issues/55</a
+                >
+              </p>
+              <p>
+                [4]
+                <a href="https://github.com/sqlite/sqlite/commit/b48c0d59"
+                  >https://github.com/sqlite/sqlite/commit/b48c0d59</a
+                >
+              </p>
+              <p>
+                [5]
+                <a href="https://github.com/utelle/SQLite3MultipleCiphers"
+                  >https://github.com/utelle/SQLite3MultipleCiphers</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="40206825">
@@ -344,11 +410,11 @@
             <h4>
               <span>2024-04-30 @ 03:05:38</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206825"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -363,11 +429,11 @@
             <h4>
               <span>2024-04-30 @ 02:48:43</span
               ><span class="points-container"
-                >Points: <span class="points">574</span></span
+                >Points: <span class="points">578</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206752"
                   >Comments</a
-                ><span class="descendants">: 141</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -384,7 +450,7 @@
             <h4>
               <span>2024-04-30 @ 01:47:37</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206421"
                   >Comments</a
@@ -405,11 +471,11 @@
             <h4>
               <span>2024-04-30 @ 00:54:47</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206124"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -425,7 +491,7 @@
             <h4>
               <span>2024-04-29 @ 23:38:02</span
               ><span class="points-container"
-                >Points: <span class="points">326</span></span
+                >Points: <span class="points">331</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40205509"
                   >Comments</a
@@ -446,11 +512,11 @@
             <h4>
               <span>2024-04-29 @ 20:23:32</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40203676"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -484,7 +550,7 @@
             <h4>
               <span>2024-04-29 @ 15:56:56</span
               ><span class="points-container"
-                >Points: <span class="points">376</span></span
+                >Points: <span class="points">377</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40199967"
                   >Comments</a
@@ -503,7 +569,7 @@
             <h4>
               <span>2024-04-29 @ 15:39:01</span
               ><span class="points-container"
-                >Points: <span class="points">442</span></span
+                >Points: <span class="points">443</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40199715"
                   >Comments</a
@@ -525,7 +591,7 @@
             <h4>
               <span>2024-04-29 @ 15:35:04</span
               ><span class="points-container"
-                >Points: <span class="points">579</span></span
+                >Points: <span class="points">586</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40199670"
                   >Comments</a
@@ -560,7 +626,7 @@
             <h4>
               <span>2024-04-29 @ 15:31:49</span
               ><span class="points-container"
-                >Points: <span class="points">967</span></span
+                >Points: <span class="points">969</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40199624"
                   >Comments</a
@@ -602,7 +668,7 @@
             <h4>
               <span>2024-04-29 @ 12:10:47</span
               ><span class="points-container"
-                >Points: <span class="points">220</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40197277"
                   >Comments</a
@@ -621,11 +687,30 @@
             <h4>
               <span>2024-04-29 @ 11:30:51</span
               ><span class="points-container"
-                >Points: <span class="points">419</span></span
+                >Points: <span class="points">421</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40197013"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 104</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40196879">
+          <h3>
+            <a class="item" href="https://github.com/kingjulio8238/memary"
+              >Memary: Open-Source Longterm Memory for Autonomous Agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-29 @ 11:12:51</span
+              ><span class="points-container"
+                >Points: <span class="points">205</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40196879"
+                  >Comments</a
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -640,7 +725,7 @@
             <h4>
               <span>2024-04-29 @ 06:41:24</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40195210"
                   >Comments</a
@@ -659,11 +744,11 @@
             <h4>
               <span>2024-04-29 @ 06:11:17</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40195009"
                   >Comments</a
-                ><span class="descendants">: 403</span></span
+                ><span class="descendants">: 407</span></span
               >
             </h4>
           </section>
@@ -681,11 +766,11 @@
             <h4>
               <span>2024-04-29 @ 05:01:33</span
               ><span class="points-container"
-                >Points: <span class="points">446</span></span
+                >Points: <span class="points">447</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40194636"
                   >Comments</a
-                ><span class="descendants">: 193</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -702,7 +787,7 @@
             <h4>
               <span>2024-04-28 @ 21:25:21</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40192121"
                   >Comments</a
@@ -723,33 +808,11 @@
             <h4>
               <span>2024-04-28 @ 16:47:48</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40189869"
                   >Comments</a
                 ><span class="descendants">: 32</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40189403">
-          <h3>
-            <a
-              class="item"
-              href="https://arcade.stanford.edu/rofl/deceit-desire-and-literature-professor-why-girardians-exist"
-              >Deceit, Desire, and the Literature Professor: Why Girardians
-              Exist (2012)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-28 @ 15:39:23</span
-              ><span class="points-container"
-                >Points: <span class="points">20</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40189403"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -766,11 +829,11 @@
             <h4>
               <span>2024-04-28 @ 13:28:28</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40188435"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -787,7 +850,7 @@
             <h4>
               <span>2024-04-28 @ 11:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40187646"
                   >Comments</a
