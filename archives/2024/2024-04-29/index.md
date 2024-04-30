@@ -107,6 +107,7 @@
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
 * [2024-04-29, 04:07:37](https://news.ycombinator.com/item?id=40194314) - [Forget moonshots, investors want profit now](https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25)
 * [2024-04-29, 03:52:24](https://news.ycombinator.com/item?id=40194225) - [Apple Vision Pro Successor Not Expected Until End of 2026](https://wccftech.com/apple-vision-pro-successor-not-expected-until-end-of-2026/)
+* [2024-04-29, 03:25:30](https://news.ycombinator.com/item?id=40194123) - [Memory Management Every Programmer Should Know](https://zacharylee.substack.com/p/memory-management-every-programmer)
 * [2024-04-29, 03:21:48](https://news.ycombinator.com/item?id=40194103) - [Nate Silver: Go to a state school. The Ivy League are losing esteem](https://www.natesilver.net/p/go-to-a-state-school)
 * [2024-04-29, 03:20:49](https://news.ycombinator.com/item?id=40194095) - [Korea sees more deaths than births for 52nd consecutive month in February](https://english.hani.co.kr/arti/english_edition/e_national/1138163)
 * [2024-04-29, 03:05:27](https://news.ycombinator.com/item?id=40193998) - [Japanese yen weakens to 160 against the USD for the first time since 1990](https://www.cnbc.com/2024/04/29/japanese-yen-weakens-to-160-against-the-us-dollar-for-the-first-time-since-1990.html)
