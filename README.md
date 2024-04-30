@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 21:06:00](https://news.ycombinator.com/item?id=40216339) - [FTC challenges 'junk' patents held by 10 drugmakers, incl Novo Nordisk's Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
 * [2024-04-30, 21:00:40](https://news.ycombinator.com/item?id=40216281) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 20:37:10](https://news.ycombinator.com/item?id=40216013) - [All Cars Sold in the US Will Soon Have to Be Able to Automatically Avoid a Crash](https://www.theautopian.com/the-feds-just-finalized-new-automatic-emergency-braking-rules-that-should-stop-a-car-from-62-mph/)
@@ -27,7 +28,6 @@
 * [2024-04-29, 18:39:33](https://news.ycombinator.com/item?id=40202203) - [The IMEI Code: Your phone’s other number](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)
 * [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Tour of CLIPS (2022)](https://ryjo.codes/tour-of-clips.html)
 * [2024-04-29, 17:43:51](https://news.ycombinator.com/item?id=40201528) - [Calendar types in watches](https://arslan.io/2024/04/29/calendar-types-in-watches/)
-* [2024-04-29, 10:12:30](https://news.ycombinator.com/item?id=40196507) - [Applying the Facade Pattern on Spotify for Artists](https://engineering.atspotify.com/2024/02/applying-the-facade-pattern-on-spotify-for-artists/)
 * [2024-04-28, 10:35:41](https://news.ycombinator.com/item?id=40187534) - [Chip-8 on the COSMAC VIP: The Character Set](https://www.laurencescotford.net/2020/07/19/chip-8-on-the-cosmac-vip-the-character-set/)
 * [2024-04-27, 10:26:51](https://news.ycombinator.com/item?id=40178856) - [Quitting Engineering to Pursue Art Full-Time](https://www.staysketchy.com/p/pablo-azocar)
 

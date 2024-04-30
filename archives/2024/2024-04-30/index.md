@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 21:06:00](https://news.ycombinator.com/item?id=40216339) - [FTC challenges 'junk' patents held by 10 drugmakers, incl Novo Nordisk's Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
 * [2024-04-30, 21:00:40](https://news.ycombinator.com/item?id=40216281) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 20:37:10](https://news.ycombinator.com/item?id=40216013) - [All Cars Sold in the US Will Soon Have to Be Able to Automatically Avoid a Crash](https://www.theautopian.com/the-feds-just-finalized-new-automatic-emergency-braking-rules-that-should-stop-a-car-from-62-mph/)
