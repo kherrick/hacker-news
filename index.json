@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-30, 22:16:08",
+      "https://news.ycombinator.com/item?id=40217096"
+    ],
+    [
+      "Apple banned Delta for years. It's now America's Number 1 iPhone app.",
+      "https://www.washingtonpost.com/technology/2024/04/30/delta-emulator-iphone-apple-antitrust/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 21:06:00",
       "https://news.ycombinator.com/item?id=40216339"
     ],
@@ -131,22 +141,12 @@
   ],
   [
     [
-      "2024-04-30, 17:32:00",
-      "https://news.ycombinator.com/item?id=40213591"
+      "2024-04-30, 17:30:33",
+      "https://news.ycombinator.com/item?id=40213570"
     ],
     [
-      "US drug control agency will move to reclassify marijuana",
-      "https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 17:10:11",
-      "https://news.ycombinator.com/item?id=40213365"
-    ],
-    [
-      "Autoscale Kubernetes workloads on any cloud using any event",
-      "https://kedify.io/resources/blog/kedify-keda-powered-public-beta-launch-announcement/"
+      "Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers",
+      "https://news.ycombinator.com/item?id=40213570"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-04-30, 09:12:27",
-      "https://news.ycombinator.com/item?id=40208800"
-    ],
-    [
-      "Show HN: Roast my SQLite encryption at-rest",
-      "https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 23:59:55",
       "https://news.ycombinator.com/item?id=40205714"
     ],
@@ -277,6 +267,16 @@
     [
       "Global study shows a third more insects come out after dark",
       "https://phys.org/news/2024-04-global-insects-dark-1.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 05:41:14",
+      "https://news.ycombinator.com/item?id=40194842"
+    ],
+    [
+      "FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption",
+      "https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption"
     ]
   ],
   [
