@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 20:27:30](https://news.ycombinator.com/item?id=40215881) - [Jeff Barr: customers should not have to pay for unauthorized requests](https://twitter.com/jeffbarr/status/1785386554372042890)
+* [2024-04-30, 20:19:47](https://news.ycombinator.com/item?id=40215803) - [23 million Americans might lose internet access today as ACP ends](https://www.wired.com/story/affordable-connectivity-program-ending/)
 * [2024-04-30, 19:54:56](https://news.ycombinator.com/item?id=40215538) - [UnitedHealth CEO: 'Decision to pay ransom was mine'](https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/)
 * [2024-04-30, 19:50:41](https://news.ycombinator.com/item?id=40215486) - [Supreme Court Declines to Block Texas Porn Restriction](https://yro.slashdot.org/story/24/04/30/1913215/supreme-court-declines-to-block-texas-porn-restriction)
 * [2024-04-30, 19:45:36](https://news.ycombinator.com/item?id=40215424) - [Level of Gaussians: Real-Time View Synthesis for Square Meters](https://zju3dv.github.io/LoG_webpage/)
-* [2024-04-30, 19:35:53](https://news.ycombinator.com/item?id=40215286) - [What Recent Vulnerabilities Mean to Rust](https://insights.sei.cmu.edu/blog/what-recent-vulnerabilities-mean-to-rust/)
 * [2024-04-30, 19:29:13](https://news.ycombinator.com/item?id=40215212) - [Dean Ball on the new California AI bill](https://marginalrevolution.com/marginalrevolution/2024/04/dean-ball-on-the-new-california-ai-bill-from-my-email.html)
 * [2024-04-30, 19:28:03](https://news.ycombinator.com/item?id=40215194) - [PCIe 5.0 is nearly 4 years old and it's still virtually worthless in gaming PCs](https://www.pcgamer.com/hardware/pcie-50-is-nearly-four-years-old-and-its-still-virtually-worthless-in-gaming-pcs/)
 * [2024-04-30, 18:54:22](https://news.ycombinator.com/item?id=40214763) - [Arti: A Tor Implementation in Rust](https://tpo.pages.torproject.net/core/arti/)
@@ -27,7 +28,6 @@
 * [2024-04-29, 18:39:33](https://news.ycombinator.com/item?id=40202203) - [The IMEI Code: Your phone’s other number](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)
 * [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Tour of CLIPS (2022)](https://ryjo.codes/tour-of-clips.html)
 * [2024-04-29, 17:43:51](https://news.ycombinator.com/item?id=40201528) - [Calendar types in watches](https://arslan.io/2024/04/29/calendar-types-in-watches/)
-* [2024-04-29, 06:34:28](https://news.ycombinator.com/item?id=40195169) - [Scaling to Count Billions](https://www.canva.dev/blog/engineering/scaling-to-count-billions/)
 * [2024-04-28, 10:35:41](https://news.ycombinator.com/item?id=40187534) - [Chip-8 on the COSMAC VIP: The Character Set](https://www.laurencescotford.net/2020/07/19/chip-8-on-the-cosmac-vip-the-character-set/)
 * [2024-04-27, 10:26:51](https://news.ycombinator.com/item?id=40178856) - [Quitting Engineering to Pursue Art Full-Time](https://www.staysketchy.com/p/pablo-azocar)
 

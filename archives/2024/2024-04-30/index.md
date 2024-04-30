@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 20:27:30](https://news.ycombinator.com/item?id=40215881) - [Jeff Barr: customers should not have to pay for unauthorized requests](https://twitter.com/jeffbarr/status/1785386554372042890)
+* [2024-04-30, 20:19:47](https://news.ycombinator.com/item?id=40215803) - [23 million Americans might lose internet access today as ACP ends](https://www.wired.com/story/affordable-connectivity-program-ending/)
 * [2024-04-30, 19:54:56](https://news.ycombinator.com/item?id=40215538) - [UnitedHealth CEO: 'Decision to pay ransom was mine'](https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/)
 * [2024-04-30, 19:50:41](https://news.ycombinator.com/item?id=40215486) - [Supreme Court Declines to Block Texas Porn Restriction](https://yro.slashdot.org/story/24/04/30/1913215/supreme-court-declines-to-block-texas-porn-restriction)
 * [2024-04-30, 19:45:36](https://news.ycombinator.com/item?id=40215424) - [Level of Gaussians: Real-Time View Synthesis for Square Meters](https://zju3dv.github.io/LoG_webpage/)
