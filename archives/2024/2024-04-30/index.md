@@ -53,6 +53,7 @@
 * [2024-04-30, 16:12:18](https://news.ycombinator.com/item?id=40212646) - [Therapy notes hacker jailed for blackmail](https://www.bbc.com/news/articles/c97znd00q7mo)
 * [2024-04-30, 16:08:46](https://news.ycombinator.com/item?id=40212617) - [OpenTofu 1.7.0 is out with State Encryption, Dynamic Provider-defined Functions](https://opentofu.org/blog/opentofu-1-7-0/)
 * [2024-04-30, 16:08:18](https://news.ycombinator.com/item?id=40212611) - [Arc Browser for Windows 1.0, Now generally available](https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes)
+* [2024-04-30, 16:00:28](https://news.ycombinator.com/item?id=40212534) - [OpenAI: Batch API](https://platform.openai.com/docs/guides/batch)
 * [2024-04-30, 15:56:10](https://news.ycombinator.com/item?id=40212490) - [Pydantic Logfire](https://pydantic.dev/logfire)
 * [2024-04-30, 15:21:31](https://news.ycombinator.com/item?id=40211994) - [Show HN: I Built a Java IDE for iPad](https://apps.apple.com/de/app/codebrew-ide-for-java/id6475267297?l=en-GB)
 * [2024-04-30, 15:13:22](https://news.ycombinator.com/item?id=40211891) - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
