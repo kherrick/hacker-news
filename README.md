@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-30, 08:00:43](https://news.ycombinator.com/item?id=40208361) - [Ask HN: Can Devin genuinely replace the roles of developers?](https://news.ycombinator.com/item?id=40208361)
 * [2024-04-30, 07:08:59](https://news.ycombinator.com/item?id=40208064) - [Re: Why Host Emacs Packages on GitHub? (Microsoft vs Freedom)](https://protesilaos.com/codelog/2024-04-30-re-emacs-github-freedom-microsoft/)
 * [2024-04-30, 05:34:22](https://news.ycombinator.com/item?id=40207549) - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
 * [2024-04-30, 05:17:05](https://news.ycombinator.com/item?id=40207472) - [Nintendo(1)](http://man.9front.org/1/nintendo)
@@ -28,6 +27,7 @@
 * [2024-04-29, 03:25:30](https://news.ycombinator.com/item?id=40194123) - [Memory Management Every Programmer Should Know](https://zacharylee.substack.com/p/memory-management-every-programmer)
 * [2024-04-28, 16:47:48](https://news.ycombinator.com/item?id=40189869) - [Life and Land in Anglo-Saxon England](https://www.historytoday.com/archive/out-margins/life-and-land-anglo-saxon-england)
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
+* [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
 * [2024-04-28, 13:28:28](https://news.ycombinator.com/item?id=40188435) - [Malleable Software in the Age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming)
 * [2024-04-28, 11:00:54](https://news.ycombinator.com/item?id=40187646) - [How to Write Computer Programs (2015) [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)
 
