@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
 * [2024-04-30, 12:49:47](https://news.ycombinator.com/item?id=40210483) - [Oracle Fusion rollout costs 15 times council's estimates in SAP rip-'n-replace](https://www.theregister.com/2024/04/30/uk_council_sees_cost_of/)
+* [2024-04-30, 12:41:56](https://news.ycombinator.com/item?id=40210410) - [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/abs/2404.12457)
 * [2024-04-30, 12:13:13](https://news.ycombinator.com/item?id=40210159) - [The cloud is over-engineered and overpriced](https://www.youtube.com/watch?v=jFrGhodqC08)
 * [2024-04-30, 12:00:15](https://news.ycombinator.com/item?id=40210050) - [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
 * [2024-04-30, 11:13:08](https://news.ycombinator.com/item?id=40209689) - [Cats suffer H5N1 brain infections, blindness, death after drinking raw milk](https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/)
