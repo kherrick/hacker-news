@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-30, 20:39:59",
+      "https://news.ycombinator.com/item?id=40216057"
+    ],
+    [
+      "Printing Music with CSS Grid",
+      "https://cruncher.ch/blog/printing-music-with-css-grid/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 20:15:23",
+      "https://news.ycombinator.com/item?id=40215767"
+    ],
+    [
+      "Run llama3 locally with 1M token context",
+      "https://ollama.com/library/llama3-gradient"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 19:45:36",
       "https://news.ycombinator.com/item?id=40215424"
     ],
@@ -27,16 +47,6 @@
     [
       "How ECMO Is Redefining Death",
       "https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 18:35:40",
-      "https://news.ycombinator.com/item?id=40214514"
-    ],
-    [
-      "'Smartphones on Wheels' Draw Attention from Regulators",
-      "https://www.nytimes.com/2024/04/30/technology/regulators-investigate-carmakers-driver-tracking.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Show HN: Roast my SQLite encryption at-rest",
       "https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 02:48:43",
-      "https://news.ycombinator.com/item?id=40206752"
-    ],
-    [
-      "Why SQLite Uses Bytecode",
-      "https://sqlite.org/draft/whybytecode.html"
     ]
   ],
   [
