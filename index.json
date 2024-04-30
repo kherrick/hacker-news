@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-30, 14:24:45",
+      "https://news.ycombinator.com/item?id=40211254"
+    ],
+    [
+      "Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart",
+      "https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 14:20:08",
+      "https://news.ycombinator.com/item?id=40211205"
+    ],
+    [
+      "Bytecode VMs in Surprising Places",
+      "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 13:57:53",
       "https://news.ycombinator.com/item?id=40211010"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2024-04-30, 10:33:15",
+      "https://news.ycombinator.com/item?id=40209382"
+    ],
+    [
+      "Tesla conducting more layoffs, including entire Supercharger team",
+      "https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 04:31:11",
       "https://news.ycombinator.com/item?id=40207261"
     ],
@@ -57,16 +87,6 @@
     [
       "Why SQLite Uses Bytecode",
       "https://sqlite.org/draft/whybytecode.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 02:45:16",
-      "https://news.ycombinator.com/item?id=40206729"
-    ],
-    [
-      "RISC-V support in Android just got a big setback",
-      "https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-04-29, 15:35:31",
-      "https://news.ycombinator.com/item?id=40199679"
-    ],
-    [
-      "Project Habbakuk: Britain’s ice “bergship” aircraft carrier project (2017)",
-      "https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 15:35:04",
       "https://news.ycombinator.com/item?id=40199670"
     ],
@@ -197,16 +207,6 @@
     [
       "93% of paint splatters are valid Perl programs (2019)",
       "https://www.mcmillen.dev/sigbovik/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 11:12:51",
-      "https://news.ycombinator.com/item?id=40196879"
-    ],
-    [
-      "Memary: Open-Source Longterm Memory for Autonomous Agents",
-      "https://github.com/kingjulio8238/memary"
     ]
   ],
   [
