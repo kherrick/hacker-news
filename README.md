@@ -2,7 +2,7 @@
 
 * [2024-04-30, 12:00:15](https://news.ycombinator.com/item?id=40210050) - [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
 * [2024-04-30, 09:58:26](https://news.ycombinator.com/item?id=40209111) - [NASA lays out how SpaceX will refuel Starships in low-Earth orbit](https://arstechnica.com/space/2024/04/nasa-exploration-chief-lays-out-next-steps-for-starship-development/)
-* [2024-04-30, 06:53:19](https://news.ycombinator.com/item?id=40207981) - [U.S. to require automatic emergency braking on new vehicles in 5 years](https://www.npr.org/2024/04/30/1248011904/u-s-to-require-automatic-emergency-braking-on-new-vehicles-in-5-years)
+* [2024-04-30, 06:39:16](https://news.ycombinator.com/item?id=40207907) - [Can China's Loongson Catch Western Designs? Probably Not](https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/)
 * [2024-04-30, 04:31:11](https://news.ycombinator.com/item?id=40207261) - [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
 * [2024-04-30, 04:06:49](https://news.ycombinator.com/item?id=40207147) - [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
 * [2024-04-30, 03:05:38](https://news.ycombinator.com/item?id=40206825) - [A few facts about POSIX](https://vorakl.com/articles/posix/)
