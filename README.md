@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-30, 23:29:45](https://news.ycombinator.com/item?id=40217725) - [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
+* [2024-04-30, 23:18:03](https://news.ycombinator.com/item?id=40217643) - [Google workers fired for protesting Israeli contract file NLRB complaint](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)
 * [2024-04-30, 22:15:38](https://news.ycombinator.com/item?id=40217093) - [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
 * [2024-04-30, 21:00:40](https://news.ycombinator.com/item?id=40216281) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
@@ -14,7 +15,6 @@
 * [2024-04-30, 17:30:33](https://news.ycombinator.com/item?id=40213570) - [Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers](https://news.ycombinator.com/item?id=40213570)
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 16:41:07](https://news.ycombinator.com/item?id=40213024) - [Enzymes open new path to universal donor blood](https://www.dtu.dk/english/newsarchive/2024/04/enzymes-open-new-path-to-universal-donor-blood)
-* [2024-04-30, 16:37:04](https://news.ycombinator.com/item?id=40212967) - [Crash-only software: More than meets the eye (2006)](https://lwn.net/Articles/191059/)
 * [2024-04-30, 15:56:10](https://news.ycombinator.com/item?id=40212490) - [Pydantic Logfire](https://pydantic.dev/logfire)
 * [2024-04-30, 15:21:31](https://news.ycombinator.com/item?id=40211994) - [Show HN: I Built a Java IDE for iPad](https://apps.apple.com/de/app/codebrew-ide-for-java/id6475267297?l=en-GB)
 * [2024-04-30, 15:13:22](https://news.ycombinator.com/item?id=40211891) - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
