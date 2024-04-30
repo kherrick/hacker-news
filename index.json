@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-30, 11:13:08",
-      "https://news.ycombinator.com/item?id=40209689"
+      "2024-04-30, 12:13:13",
+      "https://news.ycombinator.com/item?id=40210159"
     ],
     [
-      "Cats suffer H5N1 brain infections, blindness, death after drinking raw milk",
-      "https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/"
+      "The cloud is over-engineered and overpriced",
+      "https://www.youtube.com/watch?v=jFrGhodqC08"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 12:00:15",
+      "https://news.ycombinator.com/item?id=40210050"
+    ],
+    [
+      "Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot",
+      "https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer"
     ]
   ],
   [
@@ -21,52 +31,12 @@
   ],
   [
     [
-      "2024-04-30, 09:52:56",
-      "https://news.ycombinator.com/item?id=40209081"
-    ],
-    [
-      "I Rented Out a Movie Theatre (Again) and Used My Steam Deck to Play Co-Op Games",
-      "https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 09:23:16",
       "https://news.ycombinator.com/item?id=40208876"
     ],
     [
       "Asynchronous Programming in C#",
       "https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 05:34:22",
-      "https://news.ycombinator.com/item?id=40207549"
-    ],
-    [
-      "TL;DR AI are better community-written abstracts for research papers",
-      "https://www.tldr-ai.org/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 05:17:05",
-      "https://news.ycombinator.com/item?id=40207472"
-    ],
-    [
-      "Nintendo(1)",
-      "http://man.9front.org/1/nintendo"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 04:44:51",
-      "https://news.ycombinator.com/item?id=40207322"
-    ],
-    [
-      "Apple must open iPadOS to sideloading within 6 months, EU says",
-      "https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/"
     ]
   ],
   [
@@ -87,16 +57,6 @@
     [
       "Hitting every branch on the way down",
       "http://rachelbythebay.com/w/2024/04/29/pb/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 04:05:51",
-      "https://news.ycombinator.com/item?id=40207142"
-    ],
-    [
-      "Only9Fans",
-      "https://only9fans.com"
     ]
   ],
   [
@@ -161,6 +121,26 @@
   ],
   [
     [
+      "2024-04-29, 21:47:46",
+      "https://news.ycombinator.com/item?id=40204516"
+    ],
+    [
+      "FireChat was a tool for revolution, then disappeared",
+      "https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 20:23:32",
+      "https://news.ycombinator.com/item?id=40203676"
+    ],
+    [
+      "I Built an Ld_preload Worm",
+      "https://lcamtuf.substack.com/p/that-time-i-built-an-ld_preload-worm"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 18:05:00",
       "https://news.ycombinator.com/item?id=40201815"
     ],
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2024-04-29, 12:10:47",
+      "https://news.ycombinator.com/item?id=40197277"
+    ],
+    [
+      "Cheyenne Super Computer Auction",
+      "https://gsaauctions.gov/auctions/preview/282996"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 11:30:51",
       "https://news.ycombinator.com/item?id=40197013"
     ],
     [
       "93% of paint splatters are valid Perl programs (2019)",
       "https://www.mcmillen.dev/sigbovik/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 10:21:34",
+      "https://news.ycombinator.com/item?id=40196565"
+    ],
+    [
+      "Tougher rules for sellers of internet-enabled devices in the UK",
+      "https://www.bbc.co.uk/news/business-68917837"
     ]
   ],
   [
@@ -241,22 +241,12 @@
   ],
   [
     [
-      "2024-04-29, 05:44:43",
-      "https://news.ycombinator.com/item?id=40194868"
+      "2024-04-29, 05:01:33",
+      "https://news.ycombinator.com/item?id=40194636"
     ],
     [
-      "Haunting Sounds from the Largest Living Thing",
-      "https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 03:25:30",
-      "https://news.ycombinator.com/item?id=40194123"
-    ],
-    [
-      "Memory Management Every Programmer Should Know",
-      "https://zacharylee.substack.com/p/memory-management-every-programmer"
+      "Atomic nucleus excited with laser: A breakthrough after decades",
+      "https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Deceit, Desire, and the Literature Professor: Why Girardians Exist (2012)",
       "https://arcade.stanford.edu/rofl/deceit-desire-and-literature-professor-why-girardians-exist"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 15:34:22",
+      "https://news.ycombinator.com/item?id=40189363"
+    ],
+    [
+      "The Pen, Mightier",
+      "https://themillions.com/2011/02/the-pen-mightier.html"
     ]
   ],
   [
