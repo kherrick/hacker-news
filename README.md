@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-30, 19:17:44](https://news.ycombinator.com/item?id=40215071) - [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.cnbc.com/2024/04/30/binance-founder-changpeng-zhao-cz-sentenced-to-four-months-in-prison-.html)
+* [2024-04-30, 19:29:13](https://news.ycombinator.com/item?id=40215212) - [Dean Ball on the new California AI bill](https://marginalrevolution.com/marginalrevolution/2024/04/dean-ball-on-the-new-california-ai-bill-from-my-email.html)
 * [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
-* [2024-04-30, 18:22:08](https://news.ycombinator.com/item?id=40214332) - [Bill comes due for money-losing tech companies that borrowed billions](https://www.semafor.com/article/04/30/2024/bill-comes-due-for-money-losing-tech-companies-that-borrowed-billions)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:42:30](https://news.ycombinator.com/item?id=40213718) - [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
 * [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
@@ -20,6 +19,7 @@
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-30, 09:12:27](https://news.ycombinator.com/item?id=40208800) - [Show HN: Roast my SQLite encryption at-rest](https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum)
+* [2024-04-30, 05:34:22](https://news.ycombinator.com/item?id=40207549) - [Show HN: Community-written abstracts for research papers](https://www.tldr-ai.org/)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-29, 23:59:55](https://news.ycombinator.com/item?id=40205714) - [Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
 * [2024-04-29, 18:39:33](https://news.ycombinator.com/item?id=40202203) - [The IMEI Code: Your phone’s other number](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)
