@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 23:29:45](https://news.ycombinator.com/item?id=40217725) - [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
 * [2024-04-30, 22:16:08](https://news.ycombinator.com/item?id=40217096) - [Apple banned Delta for years. It's now America's Number 1 iPhone app.](https://www.washingtonpost.com/technology/2024/04/30/delta-emulator-iphone-apple-antitrust/)
 * [2024-04-30, 22:15:38](https://news.ycombinator.com/item?id=40217093) - [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
 * [2024-04-30, 21:06:00](https://news.ycombinator.com/item?id=40216339) - [FTC challenges 'junk' patents held by 10 drugmakers, incl Novo Nordisk's Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
