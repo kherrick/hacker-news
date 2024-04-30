@@ -2,7 +2,6 @@
 
 * [2024-04-30, 15:04:48](https://news.ycombinator.com/item?id=40211785) - [AI leaderboards are no longer useful. It's time to switch to Pareto curves](https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
-* [2024-04-30, 14:42:44](https://news.ycombinator.com/item?id=40211456) - [The Arc browser arrives on Windows to take on Chrome and Edge](https://www.theverge.com/2024/4/30/24144183/arc-browser-windows-launch-features-availability)
 * [2024-04-30, 14:24:45](https://news.ycombinator.com/item?id=40211254) - [Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
 * [2024-04-30, 14:20:08](https://news.ycombinator.com/item?id=40211205) - [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
 * [2024-04-30, 13:57:53](https://news.ycombinator.com/item?id=40211010) - [Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
@@ -21,6 +20,7 @@
 * [2024-04-29, 15:35:04](https://news.ycombinator.com/item?id=40199670) - [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
 * [2024-04-29, 12:44:52](https://news.ycombinator.com/item?id=40197560) - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+* [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
 * [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2024-04-29, 08:06:07](https://news.ycombinator.com/item?id=40195778) - [Country and Product Complexity Rankings](https://atlas.cid.harvard.edu/rankings)
 * [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
