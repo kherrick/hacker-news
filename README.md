@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-30, 01:47:37](https://news.ycombinator.com/item?id=40206421) - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
+* [2024-04-30, 01:28:02](https://news.ycombinator.com/item?id=40206308) - [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
 * [2024-04-30, 01:10:50](https://news.ycombinator.com/item?id=40206221) - [Sunlight and Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/)
 * [2024-04-30, 00:54:47](https://news.ycombinator.com/item?id=40206124) - [TypeSpec: A New Language for API-Centric Development](https://typespec.io/blog/2024-04-25-introducing)
 * [2024-04-30, 00:44:13](https://news.ycombinator.com/item?id=40206063) - [Rabbit R1: Barely Reviewable [video]](https://www.youtube.com/watch?v=ddTV12hErTc)
@@ -14,7 +15,6 @@
 * [2024-04-29, 15:57:03](https://news.ycombinator.com/item?id=40199972) - [Show HN: Kaytu – Optimizing cloud costs using actual usage data](https://github.com/kaytu-io/kaytu)
 * [2024-04-29, 15:56:56](https://news.ycombinator.com/item?id=40199967) - [I made a new backplane for my consumer NAS](https://codedbearder.com/posts/f3-backplane/)
 * [2024-04-29, 15:39:01](https://news.ycombinator.com/item?id=40199715) - [GPT-4.5 or GPT-5 being tested on LMSYS?](https://rentry.co/GPT2)
-* [2024-04-29, 15:38:46](https://news.ycombinator.com/item?id=40199713) - [How do you accidentally run for President of Iceland?](https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e)
 * [2024-04-29, 15:35:31](https://news.ycombinator.com/item?id=40199679) - [Project Habbakuk: Britain’s ice “bergship” aircraft carrier project (2017)](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
 * [2024-04-29, 15:35:04](https://news.ycombinator.com/item?id=40199670) - [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
