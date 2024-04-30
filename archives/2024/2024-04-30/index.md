@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 17:06:07](https://news.ycombinator.com/item?id=40213327) - [EU launches action against 20 airlines for greenwashing](https://www.aljazeera.com/news/2024/4/30/eu-launches-action-against-20-airlines-for-greenwashing)
+* [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 17:00:36](https://news.ycombinator.com/item?id=40213262) - [Ego (YC W24) Is Hiring a Senior Game Developer (Unreal Engine)](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
 * [2024-04-30, 16:26:39](https://news.ycombinator.com/item?id=40212811) - [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
+* [2024-04-30, 16:26:29](https://news.ycombinator.com/item?id=40212809) - [Razer made to pay $1.2M over 'N95' face mask that wasn't](https://www.theregister.com/2024/04/30/ftc_razer_face_mask/)
 * [2024-04-30, 16:24:26](https://news.ycombinator.com/item?id=40212788) - [Amazon Q Developer: your assistant for the entire software development lifecycle](https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/)
 * [2024-04-30, 16:20:06](https://news.ycombinator.com/item?id=40212746) - [Bruce Perens Proposes Draft Post-Open Zero Cost License](https://www.theregister.com/2024/04/30/bruce_perens_post_open_license/)
 * [2024-04-30, 16:12:18](https://news.ycombinator.com/item?id=40212646) - [Therapy notes hacker jailed for blackmail](https://www.bbc.com/news/articles/c97znd00q7mo)
@@ -20,6 +23,7 @@
 * [2024-04-30, 14:15:23](https://news.ycombinator.com/item?id=40211157) - [TikTok ban in EU is 'not excluded,' von der Leyen says](https://www.politico.eu/article/tiktok-ban-in-eu-is-not-excluded-von-der-leyen-says/)
 * [2024-04-30, 13:59:27](https://news.ycombinator.com/item?id=40211027) - [Tesla to lay off everyone working on Superchargers, new vehicles](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/)
 * [2024-04-30, 13:57:53](https://news.ycombinator.com/item?id=40211010) - [Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
+* [2024-04-30, 13:40:46](https://news.ycombinator.com/item?id=40210873) - [Man who mass-extorted psychotherapy patients gets six years](https://krebsonsecurity.com/2024/04/man-who-mass-extorted-psychotherapy-patients-gets-six-years/)
 * [2024-04-30, 13:17:40](https://news.ycombinator.com/item?id=40210672) - [UK becomes first country to ban default bad passwords on IoT devices](https://therecord.media/united-kingdom-bans-defalt-passwords-iot-devices)
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-30, 12:49:47](https://news.ycombinator.com/item?id=40210483) - [Oracle Fusion rollout costs 15 times council's estimates in SAP rip-'n-replace](https://www.theregister.com/2024/04/30/uk_council_sees_cost_of/)
