@@ -101,6 +101,7 @@
 * [2024-04-29, 06:48:19](https://news.ycombinator.com/item?id=40195262) - [You're underreacting to climate change](https://blog.rinesi.com/2024/04/youre-underreacting-to-climate-change/)
 * [2024-04-29, 06:44:41](https://news.ycombinator.com/item?id=40195235) - [ChatGPT provides false information about people, and OpenAI can't correct it](https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it)
 * [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
+* [2024-04-29, 06:34:28](https://news.ycombinator.com/item?id=40195169) - [Scaling to Count Billions](https://www.canva.dev/blog/engineering/scaling-to-count-billions/)
 * [2024-04-29, 06:34:10](https://news.ycombinator.com/item?id=40195164) - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
 * [2024-04-29, 06:04:34](https://news.ycombinator.com/item?id=40194976) - [PostgreSQL Supported Platforms over Time](http://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time)

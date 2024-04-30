@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 16:20:06](https://news.ycombinator.com/item?id=40212746) - [Bruce Perens Proposes Draft Post-Open Zero Cost License](https://www.theregister.com/2024/04/30/bruce_perens_post_open_license/)
+* [2024-04-30, 16:12:18](https://news.ycombinator.com/item?id=40212646) - [Therapy notes hacker jailed for blackmail](https://www.bbc.com/news/articles/c97znd00q7mo)
+* [2024-04-30, 16:08:18](https://news.ycombinator.com/item?id=40212611) - [Arc Browser for Windows 1.0, Now generally available](https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes)
 * [2024-04-30, 15:13:22](https://news.ycombinator.com/item?id=40211891) - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
 * [2024-04-30, 15:04:48](https://news.ycombinator.com/item?id=40211785) - [AI leaderboards are no longer useful. It's time to switch to Pareto curves](https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
