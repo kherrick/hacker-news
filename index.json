@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-30, 12:41:56",
-      "https://news.ycombinator.com/item?id=40210410"
+      "2024-04-30, 13:59:27",
+      "https://news.ycombinator.com/item?id=40211027"
     ],
     [
-      "RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation",
-      "https://arxiv.org/abs/2404.12457"
+      "Tesla to lay off everyone working on Superchargers, new vehicles",
+      "https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 13:11:16",
+      "https://news.ycombinator.com/item?id=40210627"
+    ],
+    [
+      "Show HN: I made a CLI tool to create web extensions with no build configuration",
+      "https://github.com/cezaraugusto/extension.js"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-04-29, 15:35:31",
-      "https://news.ycombinator.com/item?id=40199679"
-    ],
-    [
-      "Project Habbakuk: Britain’s ice “bergship” aircraft carrier project (2017)",
-      "https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 15:35:04",
       "https://news.ycombinator.com/item?id=40199670"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2024-04-29, 05:44:43",
-      "https://news.ycombinator.com/item?id=40194868"
-    ],
-    [
-      "Haunting Sounds from the Largest Living Thing",
-      "https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 05:01:33",
       "https://news.ycombinator.com/item?id=40194636"
     ],
     [
       "Atomic nucleus excited with laser: A breakthrough after decades",
       "https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 21:25:21",
+      "https://news.ycombinator.com/item?id=40192121"
+    ],
+    [
+      "Personal Machines and Portable Worlds",
+      "https://www.chrbutler.com/personal-machines-and-portable-worlds"
     ]
   ],
   [
