@@ -97,6 +97,7 @@
 * [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
 * [2024-04-29, 06:34:10](https://news.ycombinator.com/item?id=40195164) - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
+* [2024-04-29, 06:04:34](https://news.ycombinator.com/item?id=40194976) - [PostgreSQL Supported Platforms over Time](http://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time)
 * [2024-04-29, 05:44:43](https://news.ycombinator.com/item?id=40194868) - [Haunting Sounds from the Largest Living Thing](https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 * [2024-04-29, 04:57:55](https://news.ycombinator.com/item?id=40194622) - [Airline keeps mistaking 101-year-old woman for 1-year-old baby](https://www.bbc.com/news/articles/c9wz7pvvjypo)

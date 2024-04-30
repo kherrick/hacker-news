@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 01:10:50](https://news.ycombinator.com/item?id=40206221) - [Sunlight and Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/)
+* [2024-04-30, 00:54:47](https://news.ycombinator.com/item?id=40206124) - [TypeSpec: A New Language for API-Centric Development](https://typespec.io/blog/2024-04-25-introducing)
+* [2024-04-30, 00:35:37](https://news.ycombinator.com/item?id=40206008) - [Farewell MFJ](https://hackaday.com/2024/04/29/farewell-mfj/)
 * [2024-04-29, 23:39:08](https://news.ycombinator.com/item?id=40205520) - [Criminals and oligarchs in EU's sights with new bill targeting football fraud](https://www.theguardian.com/football/2024/apr/23/european-union-money-laundering-crime-corruption-uefa)
 * [2024-04-29, 23:38:02](https://news.ycombinator.com/item?id=40205509) - [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
-* [2024-04-29, 23:20:52](https://news.ycombinator.com/item?id=40205353) - [In the AI Economy, There Will Be Zero Percent Unemployment](https://reason.com/2024/04/28/in-the-ai-economythere-will-be-zero-percent-unemployment/)
-* [2024-04-29, 21:51:25](https://news.ycombinator.com/item?id=40204544) - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
 * [2024-04-29, 21:47:46](https://news.ycombinator.com/item?id=40204516) - [FireChat was a tool for revolution, then disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
 * [2024-04-29, 21:20:52](https://news.ycombinator.com/item?id=40204269) - [Green Software Foundation's Software Carbon Intensity Spec Becomes ISO Standard](https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status/)
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
@@ -24,12 +25,11 @@
 * [2024-04-29, 08:56:17](https://news.ycombinator.com/item?id=40196115) - [Functional semantics in imperative clothing](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
+* [2024-04-29, 06:04:34](https://news.ycombinator.com/item?id=40194976) - [PostgreSQL Supported Platforms over Time](http://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time)
 * [2024-04-29, 05:44:43](https://news.ycombinator.com/item?id=40194868) - [Haunting Sounds from the Largest Living Thing](https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded)
-* [2024-04-29, 00:27:14](https://news.ycombinator.com/item?id=40193209) - [Pearls Before Breakfast: Can a great musician cut fog of rush hour? (2007)](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html)
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2024-04-28, 15:34:59](https://news.ycombinator.com/item?id=40189372) - [How do satellites communicate with a GPS system? (2018)](https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/)
 * [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
-* [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
 
 ## [Archives](archives/index.md)
 
