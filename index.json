@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-30, 16:26:39",
+      "https://news.ycombinator.com/item?id=40212811"
+    ],
+    [
+      "Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL",
+      "https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 16:24:26",
       "https://news.ycombinator.com/item?id=40212788"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-04-30, 16:08:18",
-      "https://news.ycombinator.com/item?id=40212611"
+      "2024-04-30, 16:08:46",
+      "https://news.ycombinator.com/item?id=40212617"
     ],
     [
-      "Arc Browser for Windows 1.0, Now generally available",
-      "https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes"
+      "OpenTofu 1.7.0 is out with State Encryption, Dynamic Provider-defined Functions",
+      "https://opentofu.org/blog/opentofu-1-7-0/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Bytecode VMs in Surprising Places",
       "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 14:15:23",
-      "https://news.ycombinator.com/item?id=40211157"
-    ],
-    [
-      "TikTok ban in EU is 'not excluded,' von der Leyen says",
-      "https://www.politico.eu/article/tiktok-ban-in-eu-is-not-excluded-von-der-leyen-says/"
     ]
   ],
   [
