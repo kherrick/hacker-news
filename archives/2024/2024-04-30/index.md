@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 14:24:45](https://news.ycombinator.com/item?id=40211254) - [Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
+* [2024-04-30, 14:20:08](https://news.ycombinator.com/item?id=40211205) - [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
 * [2024-04-30, 13:59:27](https://news.ycombinator.com/item?id=40211027) - [Tesla to lay off everyone working on Superchargers, new vehicles](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/)
 * [2024-04-30, 13:57:53](https://news.ycombinator.com/item?id=40211010) - [Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
@@ -12,6 +14,7 @@
 * [2024-04-30, 12:13:13](https://news.ycombinator.com/item?id=40210159) - [The cloud is over-engineered and overpriced](https://www.youtube.com/watch?v=jFrGhodqC08)
 * [2024-04-30, 12:00:15](https://news.ycombinator.com/item?id=40210050) - [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
 * [2024-04-30, 11:13:08](https://news.ycombinator.com/item?id=40209689) - [Cats suffer H5N1 brain infections, blindness, death after drinking raw milk](https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/)
+* [2024-04-30, 10:33:15](https://news.ycombinator.com/item?id=40209382) - [Tesla conducting more layoffs, including entire Supercharger team](https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/)
 * [2024-04-30, 10:02:33](https://news.ycombinator.com/item?id=40209142) - [Don't Just Say \"Hello\" in Chat](https://www.nohello.com/)
 * [2024-04-30, 09:58:26](https://news.ycombinator.com/item?id=40209111) - [NASA lays out how SpaceX will refuel Starships in low-Earth orbit](https://arstechnica.com/space/2024/04/nasa-exploration-chief-lays-out-next-steps-for-starship-development/)
 * [2024-04-30, 09:52:56](https://news.ycombinator.com/item?id=40209081) - [I Rented Out a Movie Theatre (Again) and Used My Steam Deck to Play Co-Op Games](https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/)
