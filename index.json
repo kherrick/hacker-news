@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-30, 12:49:47",
+      "https://news.ycombinator.com/item?id=40210483"
+    ],
+    [
+      "Oracle Fusion rollout costs 15 times council's estimates in SAP rip-'n-replace",
+      "https://www.theregister.com/2024/04/30/uk_council_sees_cost_of/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 12:00:15",
       "https://news.ycombinator.com/item?id=40210050"
     ],
@@ -17,16 +27,6 @@
     [
       "NASA lays out how SpaceX will refuel Starships in low-Earth orbit",
       "https://arstechnica.com/space/2024/04/nasa-exploration-chief-lays-out-next-steps-for-starship-development/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 06:39:16",
-      "https://news.ycombinator.com/item?id=40207907"
-    ],
-    [
-      "Can China's Loongson Catch Western Designs? Probably Not",
-      "https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/"
     ]
   ],
   [
@@ -61,22 +61,22 @@
   ],
   [
     [
-      "2024-04-30, 02:49:59",
-      "https://news.ycombinator.com/item?id=40206763"
-    ],
-    [
-      "Codapi – Interactive code examples for documentation, education and fun",
-      "https://github.com/nalgeon/codapi"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 02:48:43",
       "https://news.ycombinator.com/item?id=40206752"
     ],
     [
       "Why SQLite Uses Bytecode",
       "https://sqlite.org/draft/whybytecode.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 02:45:16",
+      "https://news.ycombinator.com/item?id=40206729"
+    ],
+    [
+      "RISC-V support in Android just got a big setback",
+      "https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Show HN: 3D framework for the web, built on Svelte and Three.js",
       "https://threlte.xyz/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 21:47:46",
-      "https://news.ycombinator.com/item?id=40204516"
-    ],
-    [
-      "FireChat was a tool for revolution, then disappeared",
-      "https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "GPT-4.5 or GPT-5 being tested on LMSYS?",
       "https://rentry.co/GPT2"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 15:35:31",
+      "https://news.ycombinator.com/item?id=40199679"
+    ],
+    [
+      "Project Habbakuk: Britain’s ice “bergship” aircraft carrier project (2017)",
+      "https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/"
     ]
   ],
   [
