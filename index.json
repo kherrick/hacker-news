@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-04-30, 17:00:36",
+      "https://news.ycombinator.com/item?id=40213262"
+    ],
+    [
+      "Ego (YC W24) Is Hiring a Senior Game Developer (Unreal Engine)",
+      "https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 16:26:39",
       "https://news.ycombinator.com/item?id=40212811"
     ],
     [
       "Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL",
       "https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 16:24:26",
-      "https://news.ycombinator.com/item?id=40212788"
-    ],
-    [
-      "Amazon Q Developer: your assistant for the entire software development lifecycle",
-      "https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Show HN: I made a CLI tool to create web extensions with no build configuration",
       "https://github.com/cezaraugusto/extension.js"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 12:00:15",
-      "https://news.ycombinator.com/item?id=40210050"
-    ],
-    [
-      "Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot",
-      "https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "93% of paint splatters are valid Perl programs (2019)",
       "https://www.mcmillen.dev/sigbovik/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 11:12:51",
+      "https://news.ycombinator.com/item?id=40196879"
+    ],
+    [
+      "Memary: Open-Source Longterm Memory for Autonomous Agents",
+      "https://github.com/kingjulio8238/memary"
     ]
   ],
   [
