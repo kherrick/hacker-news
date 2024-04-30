@@ -21,6 +21,7 @@
 * [2024-04-30, 19:20:16](https://news.ycombinator.com/item?id=40215100) - [Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Models](https://arxiv.org/abs/2404.18796)
 * [2024-04-30, 19:17:44](https://news.ycombinator.com/item?id=40215071) - [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.cnbc.com/2024/04/30/binance-founder-changpeng-zhao-cz-sentenced-to-four-months-in-prison-.html)
 * [2024-04-30, 19:16:39](https://news.ycombinator.com/item?id=40215052) - [Binance Founder Sentenced to Four Months in Prison](https://www.nytimes.com/2024/04/30/technology/binance-founder-changpeng-zhao-sentenced.html)
+* [2024-04-30, 19:02:26](https://news.ycombinator.com/item?id=40214871) - [Microsoft Maintains Go Fork for FIPS 140-2 Support](https://github.com/microsoft/go)
 * [2024-04-30, 19:00:36](https://news.ycombinator.com/item?id=40214839) - [Finnair pauses some Estonia flights due to GPS interference](https://www.reuters.com/world/europe/finnair-pauses-flights-tartu-estonia-amid-gps-interference-2024-04-29/)
 * [2024-04-30, 18:54:22](https://news.ycombinator.com/item?id=40214763) - [Arti: A Tor Implementation in Rust](https://tpo.pages.torproject.net/core/arti/)
 * [2024-04-30, 18:48:32](https://news.ycombinator.com/item?id=40214692) - [Rama is a testament to the power of Clojure](https://blog.redplanetlabs.com/2024/04/30/rama-is-a-testament-to-the-power-of-clojure/)
