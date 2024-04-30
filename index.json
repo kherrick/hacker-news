@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-04-30, 18:05:56",
+      "https://news.ycombinator.com/item?id=40214094"
+    ],
+    [
+      "View sky pollution by Starlink satellites in stellarium",
+      "https://news.ycombinator.com/item?id=40214094"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 17:48:14",
+      "https://news.ycombinator.com/item?id=40213803"
+    ],
+    [
+      "Thinking Beyond IaC",
+      "https://www.youtube.com/watch?v=gg4UZ_04hZc"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 17:43:12",
       "https://news.ycombinator.com/item?id=40213731"
     ],
     [
       "The File Filesystem",
       "https://mgree.github.io/ffs/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 17:42:30",
+      "https://news.ycombinator.com/item?id=40213718"
+    ],
+    [
+      "Good enough is good enough",
+      "https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough"
     ]
   ],
   [
@@ -27,6 +57,26 @@
     [
       "Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers",
       "https://news.ycombinator.com/item?id=40213570"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 17:10:11",
+      "https://news.ycombinator.com/item?id=40213365"
+    ],
+    [
+      "Autoscale Kubernetes workloads on any cloud using any event",
+      "https://kedify.io/resources/blog/kedify-keda-powered-public-beta-launch-announcement/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 17:04:56",
+      "https://news.ycombinator.com/item?id=40213306"
+    ],
+    [
+      "Neal Stephenson – Announcing Polostan",
+      "https://nealstephenson.com/news/2024/04/25/announcing-polostan,-on-sale-october-15,-2024/"
     ]
   ],
   [
@@ -61,6 +111,16 @@
   ],
   [
     [
+      "2024-04-30, 16:37:04",
+      "https://news.ycombinator.com/item?id=40212967"
+    ],
+    [
+      "Crash-only software: More than meets the eye",
+      "https://lwn.net/Articles/191059/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 16:26:39",
       "https://news.ycombinator.com/item?id=40212811"
     ],
@@ -71,32 +131,22 @@
   ],
   [
     [
-      "2024-04-30, 16:26:29",
-      "https://news.ycombinator.com/item?id=40212809"
-    ],
-    [
-      "Razer made to pay $1.2M over 'N95' face mask that wasn't",
-      "https://www.theregister.com/2024/04/30/ftc_razer_face_mask/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 16:08:18",
-      "https://news.ycombinator.com/item?id=40212611"
-    ],
-    [
-      "Arc Browser for Windows, now generally available",
-      "https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 15:56:10",
       "https://news.ycombinator.com/item?id=40212490"
     ],
     [
       "Pydantic Logfire",
       "https://pydantic.dev/logfire"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 15:21:31",
+      "https://news.ycombinator.com/item?id=40211994"
+    ],
+    [
+      "Show HN: I Built a Java IDE for iPad",
+      "https://apps.apple.com/de/app/codebrew-ide-for-java/id6475267297?l=en-GB"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2024-04-30, 14:35:52",
-      "https://news.ycombinator.com/item?id=40211362"
-    ],
-    [
-      "\"Run0\" as a Sudo Replacement",
-      "https://lwn.net/Articles/971745/"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 13:11:16",
       "https://news.ycombinator.com/item?id=40210627"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2024-04-30, 03:05:38",
-      "https://news.ycombinator.com/item?id=40206825"
-    ],
-    [
-      "A few facts about POSIX",
-      "https://vorakl.com/articles/posix/"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 02:48:43",
       "https://news.ycombinator.com/item?id=40206752"
     ],
@@ -171,22 +201,22 @@
   ],
   [
     [
+      "2024-04-29, 23:59:55",
+      "https://news.ycombinator.com/item?id=40205714"
+    ],
+    [
+      "Run0, a systemd based alternative to sudo, announced",
+      "https://mastodon.social/@pid_eins/112353324518585654"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 18:39:33",
       "https://news.ycombinator.com/item?id=40202203"
     ],
     [
       "The IMEI Code: Your phone’s other number",
       "https://tedium.co/2024/04/27/mobile-phone-imei-number-history/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 18:05:00",
-      "https://news.ycombinator.com/item?id=40201815"
-    ],
-    [
-      "P vs. NP and the Computational Complexity Zoo (2014) [video]",
-      "https://www.youtube.com/watch?v=YX40hbAHx3s"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-04-29, 15:31:49",
-      "https://news.ycombinator.com/item?id=40199624"
-    ],
-    [
-      "Webb captures iconic Horsehead Nebula in unprecedented detail",
-      "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 13:32:08",
       "https://news.ycombinator.com/item?id=40198119"
     ],
@@ -237,16 +257,6 @@
     [
       "CloudGoat",
       "https://github.com/RhinoSecurityLabs/cloudgoat"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 11:30:51",
-      "https://news.ycombinator.com/item?id=40197013"
-    ],
-    [
-      "93% of paint splatters are valid Perl programs (2019)",
-      "https://www.mcmillen.dev/sigbovik/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Life and Land in Anglo-Saxon England",
       "https://www.historytoday.com/archive/out-margins/life-and-land-anglo-saxon-england"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 11:00:54",
-      "https://news.ycombinator.com/item?id=40187646"
-    ],
-    [
-      "How to Write Computer Programs (2015) [pdf]",
-      "https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf"
     ]
   ],
   [
