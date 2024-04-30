@@ -17,7 +17,6 @@
 * [2024-04-30, 16:37:04](https://news.ycombinator.com/item?id=40212967) - [Crash-only software: More than meets the eye (2006)](https://lwn.net/Articles/191059/)
 * [2024-04-30, 15:56:10](https://news.ycombinator.com/item?id=40212490) - [Pydantic Logfire](https://pydantic.dev/logfire)
 * [2024-04-30, 15:21:31](https://news.ycombinator.com/item?id=40211994) - [Show HN: I Built a Java IDE for iPad](https://apps.apple.com/de/app/codebrew-ide-for-java/id6475267297?l=en-GB)
-* [2024-04-30, 15:13:22](https://news.ycombinator.com/item?id=40211891) - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-30, 09:12:27](https://news.ycombinator.com/item?id=40208800) - [Show HN: Roast my SQLite encryption at-rest](https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum)
@@ -30,6 +29,7 @@
 * [2024-04-28, 10:35:41](https://news.ycombinator.com/item?id=40187534) - [Chip-8 on the COSMAC VIP: The Character Set](https://www.laurencescotford.net/2020/07/19/chip-8-on-the-cosmac-vip-the-character-set/)
 * [2024-04-28, 02:28:19](https://news.ycombinator.com/item?id=40185495) - [A passively-transformable single-part wheel for mobile robot navigation [video]](https://www.youtube.com/watch?v=oZbZZlDDEnc)
 * [2024-04-27, 10:26:51](https://news.ycombinator.com/item?id=40178856) - [Quitting Engineering to Pursue Art Full-Time](https://www.staysketchy.com/p/pablo-azocar)
+* [2024-04-26, 21:54:36](https://news.ycombinator.com/item?id=40174747) - [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
 
 ## [Archives](archives/index.md)
 
