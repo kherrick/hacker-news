@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 11:13:08](https://news.ycombinator.com/item?id=40209689) - [Cats suffer H5N1 brain infections, blindness, death after drinking raw milk](https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/)
 * [2024-04-30, 09:52:56](https://news.ycombinator.com/item?id=40209081) - [I Rented Out a Movie Theatre (Again) and Used My Steam Deck to Play Co-Op Games](https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/)
 * [2024-04-30, 09:23:16](https://news.ycombinator.com/item?id=40208876) - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 * [2024-04-30, 05:34:22](https://news.ycombinator.com/item?id=40207549) - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
@@ -27,7 +28,6 @@
 * [2024-04-29, 03:25:30](https://news.ycombinator.com/item?id=40194123) - [Memory Management Every Programmer Should Know](https://zacharylee.substack.com/p/memory-management-every-programmer)
 * [2024-04-28, 16:47:48](https://news.ycombinator.com/item?id=40189869) - [Life and Land in Anglo-Saxon England](https://www.historytoday.com/archive/out-margins/life-and-land-anglo-saxon-england)
 * [2024-04-28, 15:39:23](https://news.ycombinator.com/item?id=40189403) - [Deceit, Desire, and the Literature Professor: Why Girardians Exist (2012)](https://arcade.stanford.edu/rofl/deceit-desire-and-literature-professor-why-girardians-exist)
-* [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
 * [2024-04-28, 13:28:28](https://news.ycombinator.com/item?id=40188435) - [Malleable Software in the Age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming)
 * [2024-04-28, 11:00:54](https://news.ycombinator.com/item?id=40187646) - [How to Write Computer Programs (2015) [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)
 

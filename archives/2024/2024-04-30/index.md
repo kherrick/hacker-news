@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 11:13:08](https://news.ycombinator.com/item?id=40209689) - [Cats suffer H5N1 brain infections, blindness, death after drinking raw milk](https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/)
 * [2024-04-30, 10:02:33](https://news.ycombinator.com/item?id=40209142) - [Don't Just Say \"Hello\" in Chat](https://www.nohello.com/)
 * [2024-04-30, 09:52:56](https://news.ycombinator.com/item?id=40209081) - [I Rented Out a Movie Theatre (Again) and Used My Steam Deck to Play Co-Op Games](https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/)
 * [2024-04-30, 09:23:16](https://news.ycombinator.com/item?id=40208876) - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
