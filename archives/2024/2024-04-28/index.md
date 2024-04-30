@@ -12,6 +12,7 @@
 * [2024-04-28, 21:57:00](https://news.ycombinator.com/item?id=40192359) - [Personal Computing Paves the Way for Personal Library Science](https://www.bramadams.dev/issue-55/)
 * [2024-04-28, 21:38:05](https://news.ycombinator.com/item?id=40192240) - [DEC PDP-1 emulator running \"Spacewar\", the earliest known digital video game](https://www.masswerk.at/spacewar/index.html)
 * [2024-04-28, 21:34:02](https://news.ycombinator.com/item?id=40192204) - [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
+* [2024-04-28, 21:25:21](https://news.ycombinator.com/item?id=40192121) - [Personal Machines and Portable Worlds](https://www.chrbutler.com/personal-machines-and-portable-worlds)
 * [2024-04-28, 21:21:20](https://news.ycombinator.com/item?id=40192074) - [Building MS-DOS 4.00 on FreeDOS [video]](https://www.youtube.com/watch?v=X7r76V_gWQ8)
 * [2024-04-28, 21:06:53](https://news.ycombinator.com/item?id=40191915) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
 * [2024-04-28, 21:06:38](https://news.ycombinator.com/item?id=40191910) - [My Homemade Metal Lathe Project](https://www.backyardmetalcasting.com/lathe1.html)

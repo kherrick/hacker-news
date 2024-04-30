@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 13:59:27](https://news.ycombinator.com/item?id=40211027) - [Tesla to lay off everyone working on Superchargers, new vehicles](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/)
+* [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-30, 12:49:47](https://news.ycombinator.com/item?id=40210483) - [Oracle Fusion rollout costs 15 times council's estimates in SAP rip-'n-replace](https://www.theregister.com/2024/04/30/uk_council_sees_cost_of/)
 * [2024-04-30, 12:41:56](https://news.ycombinator.com/item?id=40210410) - [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/abs/2404.12457)
 * [2024-04-30, 12:13:13](https://news.ycombinator.com/item?id=40210159) - [The cloud is over-engineered and overpriced](https://www.youtube.com/watch?v=jFrGhodqC08)
