@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
 * [2024-04-30, 08:00:43](https://news.ycombinator.com/item?id=40208361) - [Ask HN: Can Devin genuinely replace the roles of developers?](https://news.ycombinator.com/item?id=40208361)
+* [2024-04-30, 07:08:59](https://news.ycombinator.com/item?id=40208064) - [Re: Why Host Emacs Packages on GitHub? (Microsoft vs Freedom)](https://protesilaos.com/codelog/2024-04-30-re-emacs-github-freedom-microsoft/)
 * [2024-04-30, 05:34:22](https://news.ycombinator.com/item?id=40207549) - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
 * [2024-04-30, 05:33:53](https://news.ycombinator.com/item?id=40207545) - [Systemd Wants to Expand to Include a Sudo Replacement](https://outpost.fosspost.org/d/19-systemd-wants-to-expand-to-include-a-sudo-replacement)
 * [2024-04-30, 05:17:05](https://news.ycombinator.com/item?id=40207472) - [Nintendo(1)](http://man.9front.org/1/nintendo)
