@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 19:16:39](https://news.ycombinator.com/item?id=40215052) - [Binance Founder Sentenced to Four Months in Prison](https://www.nytimes.com/2024/04/30/technology/binance-founder-changpeng-zhao-sentenced.html)
 * [2024-04-30, 19:00:36](https://news.ycombinator.com/item?id=40214839) - [Finnair pauses some Estonia flights due to GPS interference](https://www.reuters.com/world/europe/finnair-pauses-flights-tartu-estonia-amid-gps-interference-2024-04-29/)
 * [2024-04-30, 18:48:10](https://news.ycombinator.com/item?id=40214686) - [Android Studio IDE launches free AI features](https://developer.android.com/gemini-in-android)
 * [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
+* [2024-04-30, 18:20:39](https://news.ycombinator.com/item?id=40214305) - [Gpt2-Chatbot Removed from Lmsys](https://lmsys.org/blog/2024-03-01-policy/)
 * [2024-04-30, 18:05:56](https://news.ycombinator.com/item?id=40214094) - [View sky pollution by Starlink satellites in stellarium](https://news.ycombinator.com/item?id=40214094)
 * [2024-04-30, 17:48:14](https://news.ycombinator.com/item?id=40213803) - [Thinking Beyond IaC](https://www.youtube.com/watch?v=gg4UZ_04hZc)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem](https://mgree.github.io/ffs/)

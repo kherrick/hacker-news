@@ -66,6 +66,7 @@
 * [2024-04-27, 11:00:57](https://news.ycombinator.com/item?id=40179015) - [Planes in 3D Space](https://alexharri.com/blog/planes)
 * [2024-04-27, 10:58:02](https://news.ycombinator.com/item?id=40179002) - [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)
 * [2024-04-27, 10:42:55](https://news.ycombinator.com/item?id=40178932) - [Texas Attracted California Techies. Now It's Losing Them](https://www.texasmonthly.com/news-politics/austin-texas-tech-bust-oracle-tesla/)
+* [2024-04-27, 10:26:51](https://news.ycombinator.com/item?id=40178856) - [Quitting Engineering to Pursue Art Full-Time](https://www.staysketchy.com/p/pablo-azocar)
 * [2024-04-27, 10:01:03](https://news.ycombinator.com/item?id=40178754) - [Large language models (e.g., ChatGPT) as research assistants](https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants/)
 * [2024-04-27, 09:37:28](https://news.ycombinator.com/item?id=40178652) - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-27, 09:34:57](https://news.ycombinator.com/item?id=40178634) - [Speeding up C++ build times](https://www.figma.com/blog/speeding-up-build-times/)
