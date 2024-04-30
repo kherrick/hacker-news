@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 16:26:39](https://news.ycombinator.com/item?id=40212811) - [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
 * [2024-04-30, 16:24:26](https://news.ycombinator.com/item?id=40212788) - [Amazon Q Developer: your assistant for the entire software development lifecycle](https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/)
 * [2024-04-30, 16:20:06](https://news.ycombinator.com/item?id=40212746) - [Bruce Perens Proposes Draft Post-Open Zero Cost License](https://www.theregister.com/2024/04/30/bruce_perens_post_open_license/)
 * [2024-04-30, 16:12:18](https://news.ycombinator.com/item?id=40212646) - [Therapy notes hacker jailed for blackmail](https://www.bbc.com/news/articles/c97znd00q7mo)
+* [2024-04-30, 16:08:46](https://news.ycombinator.com/item?id=40212617) - [OpenTofu 1.7.0 is out with State Encryption, Dynamic Provider-defined Functions](https://opentofu.org/blog/opentofu-1-7-0/)
 * [2024-04-30, 16:08:18](https://news.ycombinator.com/item?id=40212611) - [Arc Browser for Windows 1.0, Now generally available](https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes)
 * [2024-04-30, 15:13:22](https://news.ycombinator.com/item?id=40211891) - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
 * [2024-04-30, 15:04:48](https://news.ycombinator.com/item?id=40211785) - [AI leaderboards are no longer useful. It's time to switch to Pareto curves](https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful)
