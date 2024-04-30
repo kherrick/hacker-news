@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-04-30, 15:56:10",
+      "https://news.ycombinator.com/item?id=40212490"
+    ],
+    [
+      "Pydantic Logfire",
+      "https://pydantic.dev/logfire"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 15:13:22",
       "https://news.ycombinator.com/item?id=40211891"
     ],
@@ -127,6 +137,16 @@
     [
       "Pyinfra: Automate Infrastructure Using Python",
       "https://pyinfra.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 14:27:00",
+      "https://news.ycombinator.com/item?id=40211271"
+    ],
+    [
+      "Benchmarking PostgreSQL Connection Poolers: PgBouncer, PgCat and Supavisor",
+      "https://tembo.io/blog/postgres-connection-poolers"
     ]
   ],
   [
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2024-04-29, 15:31:49",
-      "https://news.ycombinator.com/item?id=40199624"
+      "2024-04-29, 13:32:08",
+      "https://news.ycombinator.com/item?id=40198119"
     ],
     [
-      "Webb captures iconic Horsehead Nebula in unprecedented detail",
-      "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail"
+      "Cressi Nepto for Subsurface",
+      "https://sjaeckel.github.io/2024/04/23/Cressi-Nepto-for-Subsurface.html"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2024-04-29, 11:30:51",
-      "https://news.ycombinator.com/item?id=40197013"
+      "2024-04-29, 12:43:20",
+      "https://news.ycombinator.com/item?id=40197544"
     ],
     [
-      "93% of paint splatters are valid Perl programs (2019)",
-      "https://www.mcmillen.dev/sigbovik/"
+      "Can we RAG the whole web?",
+      "https://philippeoger.com/pages/can-we-rag-the-whole-web/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Personal Machines and Portable Worlds",
       "https://www.chrbutler.com/personal-machines-and-portable-worlds"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 16:47:48",
-      "https://news.ycombinator.com/item?id=40189869"
-    ],
-    [
-      "Life and Land in Anglo-Saxon England",
-      "https://www.historytoday.com/archive/out-margins/life-and-land-anglo-saxon-england"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 11:00:54",
-      "https://news.ycombinator.com/item?id=40187646"
-    ],
-    [
-      "How to Write Computer Programs (2015) [pdf]",
-      "https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf"
     ]
   ]
 ]
