@@ -1,16 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-30, 02:51:50](https://news.ycombinator.com/item?id=40206770) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
+* [2024-04-30, 02:49:59](https://news.ycombinator.com/item?id=40206763) - [Codapi – Interactive code examples for documentation, education and fun](https://github.com/nalgeon/codapi)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-30, 01:47:37](https://news.ycombinator.com/item?id=40206421) - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
 * [2024-04-30, 01:28:02](https://news.ycombinator.com/item?id=40206308) - [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
-* [2024-04-30, 01:10:50](https://news.ycombinator.com/item?id=40206221) - [Sunlight and Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/)
 * [2024-04-30, 00:54:47](https://news.ycombinator.com/item?id=40206124) - [TypeSpec: A new language for API-centric development](https://typespec.io/blog/2024-04-25-introducing)
 * [2024-04-30, 00:44:13](https://news.ycombinator.com/item?id=40206063) - [Rabbit R1: Barely Reviewable [video]](https://www.youtube.com/watch?v=ddTV12hErTc)
 * [2024-04-29, 23:38:02](https://news.ycombinator.com/item?id=40205509) - [Show HN: 3D framework for the web, built on Svelte and Three.js](https://threlte.xyz/)
 * [2024-04-29, 23:19:08](https://news.ycombinator.com/item?id=40205333) - [Meter-scale distance manipulation of diverse objects with jet-induced airflow](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174)
 * [2024-04-29, 21:47:46](https://news.ycombinator.com/item?id=40204516) - [FireChat was a tool for revolution, then disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
-* [2024-04-29, 21:20:52](https://news.ycombinator.com/item?id=40204269) - [Green Software Foundation's Software Carbon Intensity Spec Becomes ISO Standard](https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status/)
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-04-29, 20:23:32](https://news.ycombinator.com/item?id=40203676) - [I Built an Ld_preload Worm](https://lcamtuf.substack.com/p/that-time-i-built-an-ld_preload-worm)
 * [2024-04-29, 18:05:18](https://news.ycombinator.com/item?id=40201818) - [Debugging Tech Journalism](https://asteriskmag.com/issues/06/debugging-tech-journalism)
@@ -30,6 +29,7 @@
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
 * [2024-04-28, 13:28:28](https://news.ycombinator.com/item?id=40188435) - [Malleable Software in the Age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming)
+* [2024-04-28, 11:00:54](https://news.ycombinator.com/item?id=40187646) - [How to Write Computer Programs John Scholes [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)
 
 ## [Archives](archives/index.md)
 

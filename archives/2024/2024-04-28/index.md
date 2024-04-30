@@ -54,6 +54,7 @@
 * [2024-04-28, 11:17:44](https://news.ycombinator.com/item?id=40187724) - [What Is Amazon Resource Name (ARN)?](https://everythingdevops.dev/what-is-amazon-resource-name-arn/)
 * [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
 * [2024-04-28, 11:03:45](https://news.ycombinator.com/item?id=40187656) - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
+* [2024-04-28, 11:00:54](https://news.ycombinator.com/item?id=40187646) - [How to Write Computer Programs John Scholes [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)
 * [2024-04-28, 10:17:26](https://news.ycombinator.com/item?id=40187449) - [Autoconf and configure features that people find valuable](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutoconfValuableFeatures)
 * [2024-04-28, 10:01:28](https://news.ycombinator.com/item?id=40187390) - [Jimmy Carter UFO Incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)
 * [2024-04-28, 09:59:05](https://news.ycombinator.com/item?id=40187379) - [TfL's simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
