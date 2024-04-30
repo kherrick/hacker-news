@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-30, 13:59:27](https://news.ycombinator.com/item?id=40211027) - [Tesla to lay off everyone working on Superchargers, new vehicles](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/)
+* [2024-04-30, 13:57:53](https://news.ycombinator.com/item?id=40211010) - [Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-30, 12:00:15](https://news.ycombinator.com/item?id=40210050) - [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
-* [2024-04-30, 09:58:26](https://news.ycombinator.com/item?id=40209111) - [NASA lays out how SpaceX will refuel Starships in low-Earth orbit](https://arstechnica.com/space/2024/04/nasa-exploration-chief-lays-out-next-steps-for-starship-development/)
 * [2024-04-30, 04:31:11](https://news.ycombinator.com/item?id=40207261) - [Deep Dive into XZ Utils Backdoor [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
 * [2024-04-30, 03:05:38](https://news.ycombinator.com/item?id=40206825) - [A few facts about POSIX](https://vorakl.com/articles/posix/)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
@@ -15,6 +14,7 @@
 * [2024-04-29, 18:05:00](https://news.ycombinator.com/item?id=40201815) - [P vs. NP and the Computational Complexity Zoo (2014) [video]](https://www.youtube.com/watch?v=YX40hbAHx3s)
 * [2024-04-29, 15:56:56](https://news.ycombinator.com/item?id=40199967) - [I made a new backplane for my consumer NAS](https://codedbearder.com/posts/f3-backplane/)
 * [2024-04-29, 15:39:01](https://news.ycombinator.com/item?id=40199715) - [GPT-4.5 or GPT-5 being tested on LMSYS?](https://rentry.co/GPT2)
+* [2024-04-29, 15:35:31](https://news.ycombinator.com/item?id=40199679) - [Project Habbakuk: Britain’s ice “bergship” aircraft carrier project (2017)](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
 * [2024-04-29, 15:35:04](https://news.ycombinator.com/item?id=40199670) - [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
 * [2024-04-29, 12:44:52](https://news.ycombinator.com/item?id=40197560) - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
