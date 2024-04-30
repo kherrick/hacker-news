@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 17:00:36](https://news.ycombinator.com/item?id=40213262) - [Ego (YC W24) Is Hiring a Senior Game Developer (Unreal Engine)](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
 * [2024-04-30, 16:26:39](https://news.ycombinator.com/item?id=40212811) - [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
 * [2024-04-30, 16:24:26](https://news.ycombinator.com/item?id=40212788) - [Amazon Q Developer: your assistant for the entire software development lifecycle](https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/)
 * [2024-04-30, 16:20:06](https://news.ycombinator.com/item?id=40212746) - [Bruce Perens Proposes Draft Post-Open Zero Cost License](https://www.theregister.com/2024/04/30/bruce_perens_post_open_license/)
