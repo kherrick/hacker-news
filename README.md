@@ -16,6 +16,7 @@
 * [2024-04-29, 23:19:08](https://news.ycombinator.com/item?id=40205333) - [Meter-scale distance manipulation of diverse objects with jet-induced airflow](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174)
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-04-29, 20:23:32](https://news.ycombinator.com/item?id=40203676) - [I Built an Ld_preload Worm](https://lcamtuf.substack.com/p/that-time-i-built-an-ld_preload-worm)
+* [2024-04-29, 18:05:18](https://news.ycombinator.com/item?id=40201818) - [Debugging Tech Journalism](https://asteriskmag.com/issues/06/debugging-tech-journalism)
 * [2024-04-29, 18:05:00](https://news.ycombinator.com/item?id=40201815) - [P vs. NP and the Computational Complexity Zoo (2014) [video]](https://www.youtube.com/watch?v=YX40hbAHx3s)
 * [2024-04-29, 15:56:56](https://news.ycombinator.com/item?id=40199967) - [I made a new backplane for my consumer NAS](https://codedbearder.com/posts/f3-backplane/)
 * [2024-04-29, 15:35:04](https://news.ycombinator.com/item?id=40199670) - [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US)
@@ -28,7 +29,6 @@
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
 * [2024-04-28, 13:28:28](https://news.ycombinator.com/item?id=40188435) - [Malleable Software in the Age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming)
-* [2024-04-28, 12:30:38](https://news.ycombinator.com/item?id=40188126) - [On-demand nutrient production system for long-duration space missions](https://phys.org/news/2024-04-demand-nutrient-production-duration-space.html)
 * [2024-04-28, 11:00:54](https://news.ycombinator.com/item?id=40187646) - [How to Write Computer Programs (2015) [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)
 
 ## [Archives](archives/index.md)
