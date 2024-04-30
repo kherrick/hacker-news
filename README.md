@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 22:15:38](https://news.ycombinator.com/item?id=40217093) - [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
 * [2024-04-30, 21:00:40](https://news.ycombinator.com/item?id=40216281) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 20:15:23](https://news.ycombinator.com/item?id=40215767) - [Run llama3 locally with 1M token context](https://ollama.com/library/llama3-gradient)
@@ -11,7 +12,6 @@
 * [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
 * [2024-04-30, 17:30:33](https://news.ycombinator.com/item?id=40213570) - [Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers](https://news.ycombinator.com/item?id=40213570)
 * [2024-04-30, 17:10:11](https://news.ycombinator.com/item?id=40213365) - [Autoscale Kubernetes workloads on any cloud using any event](https://kedify.io/resources/blog/kedify-keda-powered-public-beta-launch-announcement/)
-* [2024-04-30, 17:07:47](https://news.ycombinator.com/item?id=40213337) - [Show HN: Add Siri Like Native AI Assistants to Any React/JS App](https://github.com/SugarAI-HQ/CopilotOne)
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 16:41:07](https://news.ycombinator.com/item?id=40213024) - [Enzymes open new path to universal donor blood](https://www.dtu.dk/english/newsarchive/2024/04/enzymes-open-new-path-to-universal-donor-blood)
 * [2024-04-30, 16:37:04](https://news.ycombinator.com/item?id=40212967) - [Crash-only software: More than meets the eye (2006)](https://lwn.net/Articles/191059/)
@@ -26,9 +26,9 @@
 * [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Tour of CLIPS (2022)](https://ryjo.codes/tour-of-clips.html)
 * [2024-04-29, 17:43:51](https://news.ycombinator.com/item?id=40201528) - [Calendar types in watches](https://arslan.io/2024/04/29/calendar-types-in-watches/)
 * [2024-04-29, 11:04:54](https://news.ycombinator.com/item?id=40196818) - [Global study shows a third more insects come out after dark](https://phys.org/news/2024-04-global-insects-dark-1.html)
-* [2024-04-29, 10:12:30](https://news.ycombinator.com/item?id=40196507) - [Applying the Facade Pattern on Spotify for Artists](https://engineering.atspotify.com/2024/02/applying-the-facade-pattern-on-spotify-for-artists/)
 * [2024-04-29, 05:41:14](https://news.ycombinator.com/item?id=40194842) - [FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption](https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption)
 * [2024-04-28, 10:35:41](https://news.ycombinator.com/item?id=40187534) - [Chip-8 on the COSMAC VIP: The Character Set](https://www.laurencescotford.net/2020/07/19/chip-8-on-the-cosmac-vip-the-character-set/)
+* [2024-04-28, 02:28:19](https://news.ycombinator.com/item?id=40185495) - [A passively-transformable single-part wheel for mobile robot navigation [video]](https://www.youtube.com/watch?v=oZbZZlDDEnc)
 * [2024-04-27, 10:26:51](https://news.ycombinator.com/item?id=40178856) - [Quitting Engineering to Pursue Art Full-Time](https://www.staysketchy.com/p/pablo-azocar)
 
 ## [Archives](archives/index.md)
