@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 02:51:50](https://news.ycombinator.com/item?id=40206770) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-30, 01:47:37](https://news.ycombinator.com/item?id=40206421) - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
 * [2024-04-30, 01:28:02](https://news.ycombinator.com/item?id=40206308) - [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
@@ -22,7 +23,6 @@
 * [2024-04-29, 15:00:15](https://news.ycombinator.com/item?id=40199193) - [Husband and wife outed as GRU spies aiding bombings and poisonings across Europe](https://theins.ru/en/politics/271205)
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
 * [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
-* [2024-04-29, 08:56:17](https://news.ycombinator.com/item?id=40196115) - [Functional semantics in imperative clothing](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
 * [2024-04-29, 06:04:34](https://news.ycombinator.com/item?id=40194976) - [PostgreSQL Supported Platforms over Time](http://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time)

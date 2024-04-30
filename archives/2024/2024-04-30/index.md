@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 02:51:50](https://news.ycombinator.com/item?id=40206770) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-30, 01:47:37](https://news.ycombinator.com/item?id=40206421) - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
 * [2024-04-30, 01:28:02](https://news.ycombinator.com/item?id=40206308) - [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
