@@ -91,6 +91,7 @@
 * [2024-04-29, 11:13:00](https://news.ycombinator.com/item?id=40196880) - [Ask HN: What's the best charting library for customer-facing dashboards?](https://news.ycombinator.com/item?id=40196880)
 * [2024-04-29, 11:12:51](https://news.ycombinator.com/item?id=40196879) - [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
 * [2024-04-29, 11:08:57](https://news.ycombinator.com/item?id=40196856) - [US Post Office phishing sites get as much traffic as the real one](https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/)
+* [2024-04-29, 11:04:54](https://news.ycombinator.com/item?id=40196818) - [Global study shows a third more insects come out after dark](https://phys.org/news/2024-04-global-insects-dark-1.html)
 * [2024-04-29, 10:42:31](https://news.ycombinator.com/item?id=40196687) - [Retroactive hate crime bill in Canada [Online Harms Bill C-63]](https://twitter.com/MurielBlaivePhD/status/1782032187128176669)
 * [2024-04-29, 10:40:52](https://news.ycombinator.com/item?id=40196674) - [Sleeping Tesla driver caught on Swedish highway – after 25 miles](https://www.vibilagare.se/english/sleeping-tesla-driver-caught-swedish-highway-after-25-miles)
 * [2024-04-29, 10:25:17](https://news.ycombinator.com/item?id=40196592) - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
