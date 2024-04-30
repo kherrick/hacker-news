@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 19:54:56](https://news.ycombinator.com/item?id=40215538) - [UnitedHealth CEO: 'Decision to pay ransom was mine'](https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/)
+* [2024-04-30, 19:50:41](https://news.ycombinator.com/item?id=40215486) - [Supreme Court Declines to Block Texas Porn Restriction](https://yro.slashdot.org/story/24/04/30/1913215/supreme-court-declines-to-block-texas-porn-restriction)
+* [2024-04-30, 19:45:36](https://news.ycombinator.com/item?id=40215424) - [Level of Gaussians: Real-Time View Synthesis for Square Meters](https://zju3dv.github.io/LoG_webpage/)
+* [2024-04-30, 19:35:53](https://news.ycombinator.com/item?id=40215286) - [What Recent Vulnerabilities Mean to Rust](https://insights.sei.cmu.edu/blog/what-recent-vulnerabilities-mean-to-rust/)
 * [2024-04-30, 19:29:13](https://news.ycombinator.com/item?id=40215212) - [Dean Ball on the new California AI bill](https://marginalrevolution.com/marginalrevolution/2024/04/dean-ball-on-the-new-california-ai-bill-from-my-email.html)
 * [2024-04-30, 19:28:03](https://news.ycombinator.com/item?id=40215194) - [PCIe 5.0 is nearly 4 years old and it's still virtually worthless in gaming PCs](https://www.pcgamer.com/hardware/pcie-50-is-nearly-four-years-old-and-its-still-virtually-worthless-in-gaming-pcs/)
 * [2024-04-30, 19:17:44](https://news.ycombinator.com/item?id=40215071) - [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.cnbc.com/2024/04/30/binance-founder-changpeng-zhao-cz-sentenced-to-four-months-in-prison-.html)
 * [2024-04-30, 19:16:39](https://news.ycombinator.com/item?id=40215052) - [Binance Founder Sentenced to Four Months in Prison](https://www.nytimes.com/2024/04/30/technology/binance-founder-changpeng-zhao-sentenced.html)
 * [2024-04-30, 19:00:36](https://news.ycombinator.com/item?id=40214839) - [Finnair pauses some Estonia flights due to GPS interference](https://www.reuters.com/world/europe/finnair-pauses-flights-tartu-estonia-amid-gps-interference-2024-04-29/)
+* [2024-04-30, 18:54:22](https://news.ycombinator.com/item?id=40214763) - [Arti: A Tor Implementation in Rust](https://tpo.pages.torproject.net/core/arti/)
 * [2024-04-30, 18:48:10](https://news.ycombinator.com/item?id=40214686) - [Android Studio IDE launches free AI features](https://developer.android.com/gemini-in-android)
 * [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
 * [2024-04-30, 18:22:08](https://news.ycombinator.com/item?id=40214332) - [Bill comes due for money-losing tech companies that borrowed billions](https://www.semafor.com/article/04/30/2024/bill-comes-due-for-money-losing-tech-companies-that-borrowed-billions)
