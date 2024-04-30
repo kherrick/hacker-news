@@ -41,6 +41,7 @@
 * [2024-04-30, 17:12:36](https://news.ycombinator.com/item?id=40213400) - [Dear Europe, please wake up](https://klinger.io/posts/eu-acc)
 * [2024-04-30, 17:10:11](https://news.ycombinator.com/item?id=40213365) - [Autoscale Kubernetes workloads on any cloud using any event](https://kedify.io/resources/blog/kedify-keda-powered-public-beta-launch-announcement/)
 * [2024-04-30, 17:07:53](https://news.ycombinator.com/item?id=40213339) - [There's no need to shower every day – here's why](https://www.bbc.com/culture/article/20240423-theres-no-need-to-shower-every-day-heres-why)
+* [2024-04-30, 17:07:47](https://news.ycombinator.com/item?id=40213337) - [Show HN: Add Siri Like Native AI Assistants to Any React/JS App](https://github.com/SugarAI-HQ/CopilotOne)
 * [2024-04-30, 17:06:07](https://news.ycombinator.com/item?id=40213327) - [EU launches action against 20 airlines for greenwashing](https://www.aljazeera.com/news/2024/4/30/eu-launches-action-against-20-airlines-for-greenwashing)
 * [2024-04-30, 17:04:56](https://news.ycombinator.com/item?id=40213306) - [Neal Stephenson – Announcing Polostan](https://nealstephenson.com/news/2024/04/25/announcing-polostan,-on-sale-october-15,-2024/)
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
