@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-30, 15:04:48",
-      "https://news.ycombinator.com/item?id=40211785"
+      "2024-04-30, 15:13:22",
+      "https://news.ycombinator.com/item?id=40211891"
     ],
     [
-      "AI leaderboards are no longer useful. It's time to switch to Pareto curves",
-      "https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful"
+      "Borgo is a statically typed language that compiles to Go",
+      "https://github.com/borgo-lang/borgo"
     ]
   ],
   [
@@ -21,42 +21,12 @@
   ],
   [
     [
-      "2024-04-30, 14:24:45",
-      "https://news.ycombinator.com/item?id=40211254"
-    ],
-    [
-      "Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart",
-      "https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 14:20:08",
       "https://news.ycombinator.com/item?id=40211205"
     ],
     [
       "Bytecode VMs in Surprising Places",
       "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 13:57:53",
-      "https://news.ycombinator.com/item?id=40211010"
-    ],
-    [
-      "Reddit is full of bots: thread reposted comment by comment, 10 months later",
-      "https://lemmy.blahaj.zone/post/11615413"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 13:17:40",
-      "https://news.ycombinator.com/item?id=40210672"
-    ],
-    [
-      "UK becomes first country to ban default bad passwords on IoT devices",
-      "https://therecord.media/united-kingdom-bans-defalt-passwords-iot-devices"
     ]
   ],
   [
@@ -71,22 +41,22 @@
   ],
   [
     [
+      "2024-04-30, 12:32:36",
+      "https://news.ycombinator.com/item?id=40210339"
+    ],
+    [
+      "Systemd Rolling Out \"run0\" As sudo Alternative",
+      "https://www.phoronix.com/news/systemd-run0"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 12:00:15",
       "https://news.ycombinator.com/item?id=40210050"
     ],
     [
       "Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot",
       "https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 11:26:51",
-      "https://news.ycombinator.com/item?id=40209801"
-    ],
-    [
-      "Raspberry Pi 5 vs. Intel N100 mini PC comparison",
-      "https://www.cnx-software.com/2024/04/29/raspberry-pi-5-intel-n100-mini-pc-comparison-features-benchmarks-price/"
     ]
   ],
   [
@@ -121,6 +91,16 @@
   ],
   [
     [
+      "2024-04-30, 02:45:16",
+      "https://news.ycombinator.com/item?id=40206729"
+    ],
+    [
+      "RISC-V support in Android just got a big setback",
+      "https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 01:47:37",
       "https://news.ycombinator.com/item?id=40206421"
     ],
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2024-04-29, 20:23:32",
+      "https://news.ycombinator.com/item?id=40203676"
+    ],
+    [
+      "I Built an Ld_preload Worm",
+      "https://lcamtuf.substack.com/p/that-time-i-built-an-ld_preload-worm"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 18:05:00",
       "https://news.ycombinator.com/item?id=40201815"
     ],
@@ -167,6 +157,16 @@
     [
       "I made a new backplane for my consumer NAS",
       "https://codedbearder.com/posts/f3-backplane/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 15:39:01",
+      "https://news.ycombinator.com/item?id=40199715"
+    ],
+    [
+      "GPT-4.5 or GPT-5 being tested on LMSYS?",
+      "https://rentry.co/GPT2"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-04-29, 08:06:07",
-      "https://news.ycombinator.com/item?id=40195778"
+      "2024-04-29, 11:12:51",
+      "https://news.ycombinator.com/item?id=40196879"
     ],
     [
-      "Country and Product Complexity Rankings",
-      "https://atlas.cid.harvard.edu/rankings"
+      "Memary: Open-Source Longterm Memory for Autonomous Agents",
+      "https://github.com/kingjulio8238/memary"
     ]
   ],
   [
