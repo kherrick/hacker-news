@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-30, 10:02:33](https://news.ycombinator.com/item?id=40209142) - [Don't Just Say \"Hello\" in Chat](https://www.nohello.com/)
+* [2024-04-30, 09:52:56](https://news.ycombinator.com/item?id=40209081) - [I Rented Out a Movie Theatre (Again) and Used My Steam Deck to Play Co-Op Games](https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/)
 * [2024-04-30, 09:23:16](https://news.ycombinator.com/item?id=40208876) - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 * [2024-04-30, 07:08:59](https://news.ycombinator.com/item?id=40208064) - [Re: Why Host Emacs Packages on GitHub? (Microsoft vs Freedom)](https://protesilaos.com/codelog/2024-04-30-re-emacs-github-freedom-microsoft/)
 * [2024-04-30, 05:34:22](https://news.ycombinator.com/item?id=40207549) - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
@@ -23,7 +24,6 @@
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
 * [2024-04-29, 12:44:52](https://news.ycombinator.com/item?id=40197560) - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 * [2024-04-29, 10:21:34](https://news.ycombinator.com/item?id=40196565) - [Tougher rules for sellers of internet-enabled devices in the UK](https://www.bbc.co.uk/news/business-68917837)
-* [2024-04-29, 07:07:35](https://news.ycombinator.com/item?id=40195385) - [Ask HN: How are you using GenAI/LLMs?](https://news.ycombinator.com/item?id=40195385)
 * [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
 * [2024-04-29, 03:25:30](https://news.ycombinator.com/item?id=40194123) - [Memory Management Every Programmer Should Know](https://zacharylee.substack.com/p/memory-management-every-programmer)
