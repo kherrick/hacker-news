@@ -95,6 +95,7 @@
 * [2024-04-29, 07:36:03](https://news.ycombinator.com/item?id=40195557) - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
 * [2024-04-29, 07:23:19](https://news.ycombinator.com/item?id=40195480) - [Open-source alternative to Heroku, Vercel, and Netlify](https://github.com/Dokploy/dokploy)
 * [2024-04-29, 07:08:23](https://news.ycombinator.com/item?id=40195391) - [StableVideo](https://stablevideo.work/)
+* [2024-04-29, 07:07:35](https://news.ycombinator.com/item?id=40195385) - [Ask HN: How are you using GenAI/LLMs?](https://news.ycombinator.com/item?id=40195385)
 * [2024-04-29, 07:03:24](https://news.ycombinator.com/item?id=40195359) - [Power of Libraries](https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/)
 * [2024-04-29, 06:48:19](https://news.ycombinator.com/item?id=40195262) - [You're underreacting to climate change](https://blog.rinesi.com/2024/04/youre-underreacting-to-climate-change/)
 * [2024-04-29, 06:44:41](https://news.ycombinator.com/item?id=40195235) - [ChatGPT provides false information about people, and OpenAI can't correct it](https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it)

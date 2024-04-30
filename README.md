@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 10:02:33](https://news.ycombinator.com/item?id=40209142) - [Don't Just Say \"Hello\" in Chat](https://www.nohello.com/)
+* [2024-04-30, 09:23:16](https://news.ycombinator.com/item?id=40208876) - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 * [2024-04-30, 07:08:59](https://news.ycombinator.com/item?id=40208064) - [Re: Why Host Emacs Packages on GitHub? (Microsoft vs Freedom)](https://protesilaos.com/codelog/2024-04-30-re-emacs-github-freedom-microsoft/)
 * [2024-04-30, 05:34:22](https://news.ycombinator.com/item?id=40207549) - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
 * [2024-04-30, 05:17:05](https://news.ycombinator.com/item?id=40207472) - [Nintendo(1)](http://man.9front.org/1/nintendo)
@@ -20,14 +22,12 @@
 * [2024-04-29, 15:35:04](https://news.ycombinator.com/item?id=40199670) - [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
 * [2024-04-29, 12:44:52](https://news.ycombinator.com/item?id=40197560) - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
-* [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2024-04-29, 10:21:34](https://news.ycombinator.com/item?id=40196565) - [Tougher rules for sellers of internet-enabled devices in the UK](https://www.bbc.co.uk/news/business-68917837)
+* [2024-04-29, 07:07:35](https://news.ycombinator.com/item?id=40195385) - [Ask HN: How are you using GenAI/LLMs?](https://news.ycombinator.com/item?id=40195385)
 * [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
-* [2024-04-29, 05:44:43](https://news.ycombinator.com/item?id=40194868) - [Haunting Sounds from the Largest Living Thing](https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded)
 * [2024-04-29, 03:25:30](https://news.ycombinator.com/item?id=40194123) - [Memory Management Every Programmer Should Know](https://zacharylee.substack.com/p/memory-management-every-programmer)
 * [2024-04-28, 16:47:48](https://news.ycombinator.com/item?id=40189869) - [Life and Land in Anglo-Saxon England](https://www.historytoday.com/archive/out-margins/life-and-land-anglo-saxon-england)
-* [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
 * [2024-04-28, 13:28:28](https://news.ycombinator.com/item?id=40188435) - [Malleable Software in the Age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming)
 * [2024-04-28, 11:00:54](https://news.ycombinator.com/item?id=40187646) - [How to Write Computer Programs (2015) [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)
 
