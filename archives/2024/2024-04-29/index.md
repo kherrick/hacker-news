@@ -36,6 +36,7 @@
 * [2024-04-29, 18:14:02](https://news.ycombinator.com/item?id=40201920) - [\"So that a truncated partial download doesn't end up executing half a script\"](https://tailscale.com/install.sh)
 * [2024-04-29, 18:05:18](https://news.ycombinator.com/item?id=40201818) - [Debugging Tech Journalism](https://asteriskmag.com/issues/06/debugging-tech-journalism)
 * [2024-04-29, 18:05:00](https://news.ycombinator.com/item?id=40201815) - [P vs. NP and the Computational Complexity Zoo (2014) [video]](https://www.youtube.com/watch?v=YX40hbAHx3s)
+* [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Tour of CLIPS (2022)](https://ryjo.codes/tour-of-clips.html)
 * [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Forgoing implicity and using abstractions: CLIPS](https://ryjo.codes/articles/forgoing-implicity-using-the-algorithm-clips.html)
 * [2024-04-29, 17:43:51](https://news.ycombinator.com/item?id=40201528) - [Calendar types in watches](https://arslan.io/2024/04/29/calendar-types-in-watches/)
 * [2024-04-29, 17:42:21](https://news.ycombinator.com/item?id=40201511) - [Man impersonated law enforcement, sought to investigate own crimes, police say](https://www.courtwatch.news/p/fake-badges-bomb-threats-phony-search)
