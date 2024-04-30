@@ -139,11 +139,11 @@
             <h4>
               <span>2024-04-30 @ 15:13:22</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40211891"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -158,11 +158,11 @@
             <h4>
               <span>2024-04-30 @ 14:54:45</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40211655"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -179,7 +179,7 @@
             <h4>
               <span>2024-04-30 @ 14:20:08</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40211205"
                   >Comments</a
@@ -199,11 +199,11 @@
             <h4>
               <span>2024-04-30 @ 13:11:16</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40210627"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -260,11 +260,11 @@
             <h4>
               <span>2024-04-30 @ 12:32:36</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40210339"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -287,91 +287,6 @@
             </h4>
           </section>
         </section>
-        <section id="40208800">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum"
-              >Show HN: Roast my SQLite encryption at-rest</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-30 @ 09:12:27</span
-              ><span class="points-container"
-                >Points: <span class="points">21</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40208800"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <i>“default”</i> CGo driver [1] and the transpiled alternative
-              driver [2]. So, this is a feature I wanted to bring to my own Wasm
-              based Go driver/bindings [3].
-              <p>
-                Open-source SQLite encryption extensions have had a troubled
-                last few years. For whatever reason, in 2020 the (undocumented)
-                feature that made it easy to offer page-level encryption was
-                removed [4]. Some solutions are stuck with SQLite 3.31.1, but
-                Ulrich Telle stepped up with a VFS approach [5].
-              </p>
-              <p>
-                Still, their solution seemed harder than something I'd want to
-                maintain, as it requires understanding the structure of what's
-                being written to disk at the VFS layer. So, I looked at full
-                disk encryption for something with less of an impedance
-                mismatch.
-              </p>
-              <p>
-                Specifically, I'm using the Adiantum tweakable and
-                length-preserving encryption (with 4K blocks, matching the
-                default SQLite page size), and encrypting whole files (rather
-                than page content).
-              </p>
-              <p>
-                I'm not a cryptographer, so I'd really appreciate some roasting
-                before release.
-              </p>
-              <p>
-                There is nothing very Go specific about this (apart from the
-                implementation) so if there are no obvious flaws, it may make
-                sense to port it to C/Rust/etc and make it a loadable extension.
-              </p>
-              <p>
-                [1]
-                <a href="https://github.com/mattn/go-sqlite3/pull/1109"
-                  >https://github.com/mattn/go-sqlite3/pull/1109</a
-                >
-              </p>
-              <p>
-                [2]
-                <a href="https://gitlab.com/cznic/sqlite/-/issues/105"
-                  >https://gitlab.com/cznic/sqlite/-/issues/105</a
-                >
-              </p>
-              <p>
-                [3]
-                <a href="https://github.com/ncruces/go-sqlite3/issues/55"
-                  >https://github.com/ncruces/go-sqlite3/issues/55</a
-                >
-              </p>
-              <p>
-                [4]
-                <a href="https://github.com/sqlite/sqlite/commit/b48c0d59"
-                  >https://github.com/sqlite/sqlite/commit/b48c0d59</a
-                >
-              </p>
-              <p>
-                [5]
-                <a href="https://github.com/utelle/SQLite3MultipleCiphers"
-                  >https://github.com/utelle/SQLite3MultipleCiphers</a
-                >
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="40206825">
           <h3>
             <a class="item" href="https://vorakl.com/articles/posix/"
@@ -382,11 +297,11 @@
             <h4>
               <span>2024-04-30 @ 03:05:38</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206825"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -401,11 +316,11 @@
             <h4>
               <span>2024-04-30 @ 02:48:43</span
               ><span class="points-container"
-                >Points: <span class="points">598</span></span
+                >Points: <span class="points">615</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206752"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -422,11 +337,11 @@
             <h4>
               <span>2024-04-30 @ 02:45:16</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206729"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -447,7 +362,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206421"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -464,7 +379,7 @@
             <h4>
               <span>2024-04-30 @ 00:54:47</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40206124"
                   >Comments</a
@@ -484,11 +399,11 @@
             <h4>
               <span>2024-04-29 @ 23:38:02</span
               ><span class="points-container"
-                >Points: <span class="points">339</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40205509"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -505,11 +420,11 @@
             <h4>
               <span>2024-04-29 @ 20:23:32</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40203676"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -524,11 +439,11 @@
             <h4>
               <span>2024-04-29 @ 18:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40201815"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -543,7 +458,7 @@
             <h4>
               <span>2024-04-29 @ 15:56:56</span
               ><span class="points-container"
-                >Points: <span class="points">383</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40199967"
                   >Comments</a
@@ -562,11 +477,33 @@
             <h4>
               <span>2024-04-29 @ 15:39:01</span
               ><span class="points-container"
-                >Points: <span class="points">456</span></span
+                >Points: <span class="points">466</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40199715"
                   >Comments</a
-                ><span class="descendants">: 293</span></span
+                ><span class="descendants">: 298</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40199679">
+          <h3>
+            <a
+              class="item"
+              href="https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/"
+              >Project Habbakuk: Britain’s ice “bergship” aircraft carrier
+              project (2017)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-29 @ 15:35:31</span
+              ><span class="points-container"
+                >Points: <span class="points">138</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40199679"
+                  >Comments</a
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -584,7 +521,7 @@
             <h4>
               <span>2024-04-29 @ 15:35:04</span
               ><span class="points-container"
-                >Points: <span class="points">617</span></span
+                >Points: <span class="points">628</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40199670"
                   >Comments</a
@@ -619,11 +556,11 @@
             <h4>
               <span>2024-04-29 @ 15:31:49</span
               ><span class="points-container"
-                >Points: <span class="points">974</span></span
+                >Points: <span class="points">979</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40199624"
                   >Comments</a
-                ><span class="descendants">: 259</span></span
+                ><span class="descendants">: 260</span></span
               >
             </h4>
           </section>
@@ -640,7 +577,7 @@
             <h4>
               <span>2024-04-29 @ 12:44:52</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40197560"
                   >Comments</a
@@ -661,11 +598,11 @@
             <h4>
               <span>2024-04-29 @ 12:10:47</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40197277"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -680,11 +617,11 @@
             <h4>
               <span>2024-04-29 @ 11:30:51</span
               ><span class="points-container"
-                >Points: <span class="points">429</span></span
+                >Points: <span class="points">436</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40197013"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -718,7 +655,7 @@
             <h4>
               <span>2024-04-29 @ 06:41:24</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40195210"
                   >Comments</a
@@ -737,11 +674,11 @@
             <h4>
               <span>2024-04-29 @ 06:11:17</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40195009"
                   >Comments</a
-                ><span class="descendants">: 416</span></span
+                ><span class="descendants">: 418</span></span
               >
             </h4>
           </section>
@@ -759,11 +696,11 @@
             <h4>
               <span>2024-04-29 @ 05:01:33</span
               ><span class="points-container"
-                >Points: <span class="points">457</span></span
+                >Points: <span class="points">462</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40194636"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -780,11 +717,11 @@
             <h4>
               <span>2024-04-28 @ 21:25:21</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40192121"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -805,7 +742,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40189869"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -822,7 +759,7 @@
             <h4>
               <span>2024-04-28 @ 13:28:28</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40188435"
                   >Comments</a
@@ -843,7 +780,7 @@
             <h4>
               <span>2024-04-28 @ 11:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40187646"
                   >Comments</a
