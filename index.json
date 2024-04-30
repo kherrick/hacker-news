@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-04-30, 02:49:59",
+      "https://news.ycombinator.com/item?id=40206763"
+    ],
+    [
+      "Codapi – Interactive code examples for documentation, education and fun",
+      "https://github.com/nalgeon/codapi"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 02:48:43",
       "https://news.ycombinator.com/item?id=40206752"
     ],
@@ -37,16 +47,6 @@
     [
       "Researcher finds that wood frogs evolved rapidly in response to road salts",
       "https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 01:10:50",
-      "https://news.ycombinator.com/item?id=40206221"
-    ],
-    [
-      "Sunlight and Vitamin D",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "FireChat was a tool for revolution, then disappeared",
       "https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 21:20:52",
-      "https://news.ycombinator.com/item?id=40204269"
-    ],
-    [
-      "Green Software Foundation's Software Carbon Intensity Spec Becomes ISO Standard",
-      "https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Malleable Software in the Age of LLMs (2023)",
       "https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 11:00:54",
+      "https://news.ycombinator.com/item?id=40187646"
+    ],
+    [
+      "How to Write Computer Programs John Scholes [pdf]",
+      "https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf"
     ]
   ]
 ]
