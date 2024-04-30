@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-30, 19:00:36](https://news.ycombinator.com/item?id=40214839) - [Finnair pauses some Estonia flights due to GPS interference](https://www.reuters.com/world/europe/finnair-pauses-flights-tartu-estonia-amid-gps-interference-2024-04-29/)
-* [2024-04-30, 17:48:14](https://news.ycombinator.com/item?id=40213803) - [Thinking Beyond IaC](https://www.youtube.com/watch?v=gg4UZ_04hZc)
+* [2024-04-30, 18:48:10](https://news.ycombinator.com/item?id=40214686) - [Android Studio IDE launches free AI features](https://developer.android.com/gemini-in-android)
+* [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:42:30](https://news.ycombinator.com/item?id=40213718) - [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
 * [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
@@ -28,7 +29,6 @@
 * [2024-04-29, 12:44:52](https://news.ycombinator.com/item?id=40197560) - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 * [2024-04-29, 10:12:30](https://news.ycombinator.com/item?id=40196507) - [Applying the Facade Pattern on Spotify for Artists](https://engineering.atspotify.com/2024/02/applying-the-facade-pattern-on-spotify-for-artists/)
 * [2024-04-29, 06:34:28](https://news.ycombinator.com/item?id=40195169) - [Scaling to Count Billions](https://www.canva.dev/blog/engineering/scaling-to-count-billions/)
-* [2024-04-28, 16:47:48](https://news.ycombinator.com/item?id=40189869) - [Life and Land in Anglo-Saxon England](https://www.historytoday.com/archive/out-margins/life-and-land-anglo-saxon-england)
 * [2024-04-27, 21:36:16](https://news.ycombinator.com/item?id=40183789) - [How to Eat a Rattlesnake](https://www.newyorker.com/culture/the-weekend-essay/how-to-eat-a-rattlesnake)
 
 ## [Archives](archives/index.md)
