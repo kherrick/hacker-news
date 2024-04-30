@@ -37,6 +37,7 @@
 * [2024-04-28, 16:22:56](https://news.ycombinator.com/item?id=40189682) - [Did we lose our way in making efficient software? – ~30 MB doc file vs. browser](https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4)
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2024-04-28, 15:47:43](https://news.ycombinator.com/item?id=40189447) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
+* [2024-04-28, 15:39:23](https://news.ycombinator.com/item?id=40189403) - [Deceit, Desire, and the Literature Professor: Why Girardians Exist (2012)](https://arcade.stanford.edu/rofl/deceit-desire-and-literature-professor-why-girardians-exist)
 * [2024-04-28, 15:34:59](https://news.ycombinator.com/item?id=40189372) - [How do satellites communicate with a GPS system? (2018)](https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/)
 * [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
 * [2024-04-28, 15:33:19](https://news.ycombinator.com/item?id=40189357) - [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
