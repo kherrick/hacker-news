@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
+* [2024-04-30, 17:28:45](https://news.ycombinator.com/item?id=40213559) - [Desire for loud car predicted by being a man: higher psychopathy and sadism](https://cipp.ug.edu.pl/A-desire-for-a-loud-car-with-a-modified-muffler-is-predicted-by-being-a-man-and-higher,162006,0,2.html)
 * [2024-04-30, 17:12:36](https://news.ycombinator.com/item?id=40213400) - [Dear Europe, please wake up](https://klinger.io/posts/eu-acc)
+* [2024-04-30, 17:07:53](https://news.ycombinator.com/item?id=40213339) - [There's no need to shower every day – here's why](https://www.bbc.com/culture/article/20240423-theres-no-need-to-shower-every-day-heres-why)
 * [2024-04-30, 17:06:07](https://news.ycombinator.com/item?id=40213327) - [EU launches action against 20 airlines for greenwashing](https://www.aljazeera.com/news/2024/4/30/eu-launches-action-against-20-airlines-for-greenwashing)
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 17:00:36](https://news.ycombinator.com/item?id=40213262) - [Ego (YC W24) Is Hiring a Senior Game Developer (Unreal Engine)](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
