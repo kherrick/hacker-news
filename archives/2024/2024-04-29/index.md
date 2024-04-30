@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 23:59:55](https://news.ycombinator.com/item?id=40205714) - [Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
 * [2024-04-29, 23:43:30](https://news.ycombinator.com/item?id=40205563) - [Winner of $1.3B Powerball jackpot is a immigrant from Laos who has cancer](https://apnews.com/article/oregon-powerball-winner-8200b538497c972624ace5e2fddf56e6)
 * [2024-04-29, 23:39:08](https://news.ycombinator.com/item?id=40205520) - [Criminals and oligarchs in EU's sights with new bill targeting football fraud](https://www.theguardian.com/football/2024/apr/23/european-union-money-laundering-crime-corruption-uefa)
 * [2024-04-29, 23:38:02](https://news.ycombinator.com/item?id=40205509) - [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
