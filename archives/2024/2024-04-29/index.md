@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
 * [2024-04-29, 23:43:30](https://news.ycombinator.com/item?id=40205563) - [Winner of $1.3B Powerball jackpot is a immigrant from Laos who has cancer](https://apnews.com/article/oregon-powerball-winner-8200b538497c972624ace5e2fddf56e6)
+* [2024-04-29, 23:39:08](https://news.ycombinator.com/item?id=40205520) - [Criminals and oligarchs in EU's sights with new bill targeting football fraud](https://www.theguardian.com/football/2024/apr/23/european-union-money-laundering-crime-corruption-uefa)
+* [2024-04-29, 23:38:02](https://news.ycombinator.com/item?id=40205509) - [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
+* [2024-04-29, 23:20:52](https://news.ycombinator.com/item?id=40205353) - [In the AI Economy, There Will Be Zero Percent Unemployment](https://reason.com/2024/04/28/in-the-ai-economythere-will-be-zero-percent-unemployment/)
 * [2024-04-29, 22:03:29](https://news.ycombinator.com/item?id=40204647) - [Tesla Lays Off Employee Who Slept in Car to Work Longer Hours](https://jalopnik.com/tesla-reportedly-lays-off-employee-who-slept-in-car-to-1851442357)
 * [2024-04-29, 21:51:36](https://news.ycombinator.com/item?id=40204546) - [Is the Gnome Foundation Going to Go Bankrupt in 1 Year?](https://lunduke.locals.com/post/5572069/is-the-gnome-foundation-going-to-go-bankrupt-in-1-year)
 * [2024-04-29, 21:51:25](https://news.ycombinator.com/item?id=40204544) - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)

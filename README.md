@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-04-29, 23:43:30](https://news.ycombinator.com/item?id=40205563) - [Winner of $1.3B Powerball jackpot is a immigrant from Laos who has cancer](https://apnews.com/article/oregon-powerball-winner-8200b538497c972624ace5e2fddf56e6)
+* [2024-04-29, 23:39:08](https://news.ycombinator.com/item?id=40205520) - [Criminals and oligarchs in EU's sights with new bill targeting football fraud](https://www.theguardian.com/football/2024/apr/23/european-union-money-laundering-crime-corruption-uefa)
+* [2024-04-29, 23:38:02](https://news.ycombinator.com/item?id=40205509) - [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
+* [2024-04-29, 23:20:52](https://news.ycombinator.com/item?id=40205353) - [In the AI Economy, There Will Be Zero Percent Unemployment](https://reason.com/2024/04/28/in-the-ai-economythere-will-be-zero-percent-unemployment/)
 * [2024-04-29, 21:51:25](https://news.ycombinator.com/item?id=40204544) - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
 * [2024-04-29, 21:47:46](https://news.ycombinator.com/item?id=40204516) - [FireChat was a tool for revolution, then disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
 * [2024-04-29, 21:20:52](https://news.ycombinator.com/item?id=40204269) - [Green Software Foundation's Software Carbon Intensity Spec Becomes ISO Standard](https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status/)
 * [2024-04-29, 21:01:00](https://news.ycombinator.com/item?id=40204083) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-04-29, 20:23:32](https://news.ycombinator.com/item?id=40203676) - [I Built an Ld_preload Worm](https://lcamtuf.substack.com/p/that-time-i-built-an-ld_preload-worm)
-* [2024-04-29, 20:21:17](https://news.ycombinator.com/item?id=40203649) - [Are Ultra-Processed Foods All That Unhealthy?](https://www.openmindmag.org/articles/the-processed-food-fight)
-* [2024-04-29, 18:23:08](https://news.ycombinator.com/item?id=40202027) - [Liu Cixin's War of the Worlds (2019)](https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds)
 * [2024-04-29, 18:05:18](https://news.ycombinator.com/item?id=40201818) - [Debugging Tech Journalism](https://asteriskmag.com/issues/06/debugging-tech-journalism)
 * [2024-04-29, 16:03:03](https://news.ycombinator.com/item?id=40200081) - [GitHub Copilot Workspace: Technical Preview](https://github.blog/2024-04-29-github-copilot-workspace/)
 * [2024-04-29, 15:57:03](https://news.ycombinator.com/item?id=40199972) - [Show HN: Kaytu – Optimizing cloud costs using actual usage data](https://github.com/kaytu-io/kaytu)
@@ -28,8 +28,8 @@
 * [2024-04-29, 00:27:14](https://news.ycombinator.com/item?id=40193209) - [Pearls Before Breakfast: Can a great musician cut fog of rush hour? (2007)](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html)
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2024-04-28, 15:34:59](https://news.ycombinator.com/item?id=40189372) - [How do satellites communicate with a GPS system? (2018)](https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/)
+* [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
 * [2024-04-28, 11:12:22](https://news.ycombinator.com/item?id=40187699) - [Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds](https://iss.matteason.co.uk)
-* [2024-04-28, 02:04:48](https://news.ycombinator.com/item?id=40185400) - [The Voyage of Magellan – Chapter 5: Underway](https://analog-antiquarian.net/2024/04/26/chapter-5-underway/)
 
 ## [Archives](archives/index.md)
 
