@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-30, 02:48:43",
+      "https://news.ycombinator.com/item?id=40206752"
+    ],
+    [
+      "Why SQLite Uses Bytecode",
+      "https://sqlite.org/draft/whybytecode.html"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 01:47:37",
       "https://news.ycombinator.com/item?id=40206421"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40206124"
     ],
     [
-      "TypeSpec: A New Language for API-Centric Development",
+      "TypeSpec: A new language for API-centric development",
       "https://typespec.io/blog/2024-04-25-introducing"
     ]
   ],
@@ -51,22 +61,22 @@
   ],
   [
     [
-      "2024-04-30, 00:35:37",
-      "https://news.ycombinator.com/item?id=40206008"
-    ],
-    [
-      "Farewell MFJ",
-      "https://hackaday.com/2024/04/29/farewell-mfj/"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 23:38:02",
       "https://news.ycombinator.com/item?id=40205509"
     ],
     [
-      "Show HN: 3D Framework for the Web. Built on Svelte and Three.js",
+      "Show HN: 3D framework for the web, built on Svelte and Three.js",
       "https://threlte.xyz/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 23:19:08",
+      "https://news.ycombinator.com/item?id=40205333"
+    ],
+    [
+      "Meter-scale distance manipulation of diverse objects with jet-induced airflow",
+      "https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "GPT-4.5 or GPT-5 being tested on LMSYS?",
       "https://rentry.co/GPT2"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 15:38:46",
-      "https://news.ycombinator.com/item?id=40199713"
-    ],
-    [
-      "How do you accidentally run for President of Iceland?",
-      "https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-04-28, 15:34:59",
-      "https://news.ycombinator.com/item?id=40189372"
-    ],
-    [
-      "How do satellites communicate with a GPS system? (2018)",
-      "https://www.allaboutcircuits.com/technical-articles/how-do-satellites-communicate-with-a-gps-system-a-look-at-the-gps-antenna/"
-    ]
-  ],
-  [
-    [
       "2024-04-28, 15:34:22",
       "https://news.ycombinator.com/item?id=40189363"
     ],
     [
       "The Pen, Mightier",
       "https://themillions.com/2011/02/the-pen-mightier.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 13:28:28",
+      "https://news.ycombinator.com/item?id=40188435"
+    ],
+    [
+      "Malleable Software in the Age of LLMs (2023)",
+      "https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming"
     ]
   ]
 ]
