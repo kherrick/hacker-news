@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
+* [2024-04-30, 17:30:33](https://news.ycombinator.com/item?id=40213570) - [Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers](https://news.ycombinator.com/item?id=40213570)
 * [2024-04-30, 17:28:45](https://news.ycombinator.com/item?id=40213559) - [Desire for loud car predicted by being a man: higher psychopathy and sadism](https://cipp.ug.edu.pl/A-desire-for-a-loud-car-with-a-modified-muffler-is-predicted-by-being-a-man-and-higher,162006,0,2.html)
 * [2024-04-30, 17:12:36](https://news.ycombinator.com/item?id=40213400) - [Dear Europe, please wake up](https://klinger.io/posts/eu-acc)
 * [2024-04-30, 17:07:53](https://news.ycombinator.com/item?id=40213339) - [There's no need to shower every day – here's why](https://www.bbc.com/culture/article/20240423-theres-no-need-to-shower-every-day-heres-why)
 * [2024-04-30, 17:06:07](https://news.ycombinator.com/item?id=40213327) - [EU launches action against 20 airlines for greenwashing](https://www.aljazeera.com/news/2024/4/30/eu-launches-action-against-20-airlines-for-greenwashing)
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 17:00:36](https://news.ycombinator.com/item?id=40213262) - [Ego (YC W24) Is Hiring a Senior Game Developer (Unreal Engine)](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
+* [2024-04-30, 16:55:54](https://news.ycombinator.com/item?id=40213208) - [Probing electron spin states at much higher resolution and efficiency](https://phys.org/news/2024-04-materials-analysis-benefits-probing-electron.html)
 * [2024-04-30, 16:26:39](https://news.ycombinator.com/item?id=40212811) - [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
 * [2024-04-30, 16:26:29](https://news.ycombinator.com/item?id=40212809) - [Razer made to pay $1.2M over 'N95' face mask that wasn't](https://www.theregister.com/2024/04/30/ftc_razer_face_mask/)
 * [2024-04-30, 16:24:26](https://news.ycombinator.com/item?id=40212788) - [Amazon Q Developer: your assistant for the entire software development lifecycle](https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/)
