@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-30, 17:06:07",
+      "https://news.ycombinator.com/item?id=40213327"
+    ],
+    [
+      "EU launches action against 20 airlines for greenwashing",
+      "https://www.aljazeera.com/news/2024/4/30/eu-launches-action-against-20-airlines-for-greenwashing"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 17:03:36",
+      "https://news.ycombinator.com/item?id=40213292"
+    ],
+    [
+      "Alice's Adventures in a Differentiable Wonderland",
+      "https://www.sscardapane.it/alice-book"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 17:00:36",
       "https://news.ycombinator.com/item?id=40213262"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-04-30, 16:12:18",
-      "https://news.ycombinator.com/item?id=40212646"
+      "2024-04-30, 16:26:29",
+      "https://news.ycombinator.com/item?id=40212809"
     ],
     [
-      "Therapy notes hacker jailed for blackmail",
-      "https://www.bbc.com/news/articles/c97znd00q7mo"
+      "Razer made to pay $1.2M over 'N95' face mask that wasn't",
+      "https://www.theregister.com/2024/04/30/ftc_razer_face_mask/"
     ]
   ],
   [
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2024-04-30, 14:20:08",
-      "https://news.ycombinator.com/item?id=40211205"
+      "2024-04-30, 13:40:46",
+      "https://news.ycombinator.com/item?id=40210873"
     ],
     [
-      "Bytecode VMs in Surprising Places",
-      "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
+      "Man who mass-extorted psychotherapy patients gets six years",
+      "https://krebsonsecurity.com/2024/04/man-who-mass-extorted-psychotherapy-patients-gets-six-years/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Why SQLite Uses Bytecode",
       "https://sqlite.org/draft/whybytecode.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 02:45:16",
-      "https://news.ycombinator.com/item?id=40206729"
-    ],
-    [
-      "RISC-V support in Android just got a big setback",
-      "https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "I made a new backplane for my consumer NAS",
       "https://codedbearder.com/posts/f3-backplane/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 15:39:01",
-      "https://news.ycombinator.com/item?id=40199715"
-    ],
-    [
-      "GPT-4.5 or GPT-5 being tested on LMSYS?",
-      "https://rentry.co/GPT2"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2024-04-29, 11:12:51",
-      "https://news.ycombinator.com/item?id=40196879"
+      "2024-04-29, 10:12:30",
+      "https://news.ycombinator.com/item?id=40196507"
     ],
     [
-      "Memary: Open-Source Longterm Memory for Autonomous Agents",
-      "https://github.com/kingjulio8238/memary"
+      "Applying the Facade Pattern on Spotify for Artists",
+      "https://engineering.atspotify.com/2024/02/applying-the-facade-pattern-on-spotify-for-artists/"
     ]
   ],
   [
