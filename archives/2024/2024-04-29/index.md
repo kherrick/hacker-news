@@ -32,6 +32,7 @@
 * [2024-04-29, 18:23:08](https://news.ycombinator.com/item?id=40202027) - [Liu Cixin's War of the Worlds](https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds)
 * [2024-04-29, 18:14:02](https://news.ycombinator.com/item?id=40201920) - [\"So that a truncated partial download doesn't end up executing half a script\"](https://tailscale.com/install.sh)
 * [2024-04-29, 18:05:18](https://news.ycombinator.com/item?id=40201818) - [Debugging Tech Journalism](https://asteriskmag.com/issues/06/debugging-tech-journalism)
+* [2024-04-29, 18:05:00](https://news.ycombinator.com/item?id=40201815) - [P vs. NP and the Computational Complexity Zoo (2014) [video]](https://www.youtube.com/watch?v=YX40hbAHx3s)
 * [2024-04-29, 17:42:21](https://news.ycombinator.com/item?id=40201511) - [Man impersonated law enforcement, sought to investigate own crimes, police say](https://www.courtwatch.news/p/fake-badges-bomb-threats-phony-search)
 * [2024-04-29, 17:33:01](https://news.ycombinator.com/item?id=40201397) - [The Financial Times and OpenAI strike content licensing deal](https://www.ft.com/content/33328743-ba3b-470f-a2e3-f41c3a366613)
 * [2024-04-29, 17:16:58](https://news.ycombinator.com/item?id=40201199) - [Physical Fitness and Risk of Mental Disorders in Children and Adolescents](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2818132)
