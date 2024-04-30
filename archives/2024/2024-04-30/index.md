@@ -26,6 +26,7 @@
 * [2024-04-30, 15:04:48](https://news.ycombinator.com/item?id=40211785) - [AI leaderboards are no longer useful. It's time to switch to Pareto curves](https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 * [2024-04-30, 14:42:44](https://news.ycombinator.com/item?id=40211456) - [The Arc browser arrives on Windows to take on Chrome and Edge](https://www.theverge.com/2024/4/30/24144183/arc-browser-windows-launch-features-availability)
+* [2024-04-30, 14:35:52](https://news.ycombinator.com/item?id=40211362) - [\"Run0\" as a Sudo Replacement](https://lwn.net/Articles/971745/)
 * [2024-04-30, 14:27:00](https://news.ycombinator.com/item?id=40211271) - [Benchmarking PostgreSQL Connection Poolers: PgBouncer, PgCat and Supavisor](https://tembo.io/blog/postgres-connection-poolers)
 * [2024-04-30, 14:24:45](https://news.ycombinator.com/item?id=40211254) - [Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
 * [2024-04-30, 14:20:08](https://news.ycombinator.com/item?id=40211205) - [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
