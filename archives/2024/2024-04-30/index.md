@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 05:34:22](https://news.ycombinator.com/item?id=40207549) - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
 * [2024-04-30, 05:33:53](https://news.ycombinator.com/item?id=40207545) - [Systemd Wants to Expand to Include a Sudo Replacement](https://outpost.fosspost.org/d/19-systemd-wants-to-expand-to-include-a-sudo-replacement)
+* [2024-04-30, 05:17:05](https://news.ycombinator.com/item?id=40207472) - [Nintendo(1)](http://man.9front.org/1/nintendo)
 * [2024-04-30, 04:44:51](https://news.ycombinator.com/item?id=40207322) - [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/)
 * [2024-04-30, 04:31:11](https://news.ycombinator.com/item?id=40207261) - [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
 * [2024-04-30, 04:06:49](https://news.ycombinator.com/item?id=40207147) - [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
