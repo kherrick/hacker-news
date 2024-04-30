@@ -32,6 +32,7 @@
 * [2024-04-28, 17:00:28](https://news.ycombinator.com/item?id=40189970) - [Patterns (YC S21) is hiring to replace dashboards with AI agents](https://patterns.app/)
 * [2024-04-28, 16:54:33](https://news.ycombinator.com/item?id=40189928) - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
 * [2024-04-28, 16:50:47](https://news.ycombinator.com/item?id=40189895) - [Scott Galloway: Young people have every reason to be enraged [video]](https://www.youtube.com/watch?v=MEC2Nq7Z6lc)
+* [2024-04-28, 16:47:48](https://news.ycombinator.com/item?id=40189869) - [Life and Land in Anglo-Saxon England](https://www.historytoday.com/archive/out-margins/life-and-land-anglo-saxon-england)
 * [2024-04-28, 16:43:39](https://news.ycombinator.com/item?id=40189842) - [Trial of the effects of kefir on behaviour, sleep and the microbiome in ADHD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10711914/)
 * [2024-04-28, 16:22:56](https://news.ycombinator.com/item?id=40189682) - [Did we lose our way in making efficient software? – ~30 MB doc file vs. browser](https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4)
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
