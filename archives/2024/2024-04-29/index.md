@@ -116,6 +116,7 @@
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
 * [2024-04-29, 06:04:34](https://news.ycombinator.com/item?id=40194976) - [PostgreSQL Supported Platforms over Time](http://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time)
 * [2024-04-29, 05:44:43](https://news.ycombinator.com/item?id=40194868) - [Haunting Sounds from the Largest Living Thing](https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded)
+* [2024-04-29, 05:41:14](https://news.ycombinator.com/item?id=40194842) - [FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption](https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption)
 * [2024-04-29, 05:01:33](https://news.ycombinator.com/item?id=40194636) - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 * [2024-04-29, 04:57:55](https://news.ycombinator.com/item?id=40194622) - [Airline keeps mistaking 101-year-old woman for 1-year-old baby](https://www.bbc.com/news/articles/c9wz7pvvjypo)
 * [2024-04-29, 04:12:58](https://news.ycombinator.com/item?id=40194346) - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)

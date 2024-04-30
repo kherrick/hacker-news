@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 22:16:08](https://news.ycombinator.com/item?id=40217096) - [Apple banned Delta for years. It's now America's Number 1 iPhone app.](https://www.washingtonpost.com/technology/2024/04/30/delta-emulator-iphone-apple-antitrust/)
 * [2024-04-30, 21:06:00](https://news.ycombinator.com/item?id=40216339) - [FTC challenges 'junk' patents held by 10 drugmakers, incl Novo Nordisk's Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
 * [2024-04-30, 21:00:40](https://news.ycombinator.com/item?id=40216281) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
