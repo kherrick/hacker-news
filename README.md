@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-04-30, 04:31:11](https://news.ycombinator.com/item?id=40207261) - [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
 * [2024-04-30, 04:06:49](https://news.ycombinator.com/item?id=40207147) - [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
+* [2024-04-30, 04:05:51](https://news.ycombinator.com/item?id=40207142) - [Only9Fans](https://only9fans.com)
 * [2024-04-30, 02:51:50](https://news.ycombinator.com/item?id=40206770) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:49:59](https://news.ycombinator.com/item?id=40206763) - [Codapi – Interactive code examples for documentation, education and fun](https://github.com/nalgeon/codapi)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-30, 01:47:37](https://news.ycombinator.com/item?id=40206421) - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
-* [2024-04-30, 01:28:02](https://news.ycombinator.com/item?id=40206308) - [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
 * [2024-04-30, 00:54:47](https://news.ycombinator.com/item?id=40206124) - [TypeSpec: A new language for API-centric development](https://typespec.io/blog/2024-04-25-introducing)
 * [2024-04-29, 23:38:02](https://news.ycombinator.com/item?id=40205509) - [Show HN: 3D framework for the web, built on Svelte and Three.js](https://threlte.xyz/)
 * [2024-04-29, 23:19:08](https://news.ycombinator.com/item?id=40205333) - [Meter-scale distance manipulation of diverse objects with jet-induced airflow](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174)
@@ -24,12 +25,11 @@
 * [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2024-04-29, 06:41:24](https://news.ycombinator.com/item?id=40195210) - [Exploit.education](https://exploit.education)
 * [2024-04-29, 06:11:17](https://news.ycombinator.com/item?id=40195009) - [You can't just assume UTF-8](https://csvbase.com/blog/9)
-* [2024-04-29, 06:04:34](https://news.ycombinator.com/item?id=40194976) - [PostgreSQL Supported Platforms over Time](http://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time)
 * [2024-04-29, 05:44:43](https://news.ycombinator.com/item?id=40194868) - [Haunting Sounds from the Largest Living Thing](https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded)
 * [2024-04-28, 15:58:26](https://news.ycombinator.com/item?id=40189526) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2024-04-28, 15:34:22](https://news.ycombinator.com/item?id=40189363) - [The Pen, Mightier](https://themillions.com/2011/02/the-pen-mightier.html)
 * [2024-04-28, 13:28:28](https://news.ycombinator.com/item?id=40188435) - [Malleable Software in the Age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming)
-* [2024-04-28, 11:00:54](https://news.ycombinator.com/item?id=40187646) - [How to Write Computer Programs John Scholes [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)
+* [2024-04-28, 11:00:54](https://news.ycombinator.com/item?id=40187646) - [How to Write Computer Programs (2015) [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)
 
 ## [Archives](archives/index.md)
 

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 04:31:11](https://news.ycombinator.com/item?id=40207261) - [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
 * [2024-04-30, 04:06:49](https://news.ycombinator.com/item?id=40207147) - [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
+* [2024-04-30, 04:05:51](https://news.ycombinator.com/item?id=40207142) - [Only9Fans](https://only9fans.com)
 * [2024-04-30, 02:51:50](https://news.ycombinator.com/item?id=40206770) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:49:59](https://news.ycombinator.com/item?id=40206763) - [Codapi – Interactive code examples for documentation, education and fun](https://github.com/nalgeon/codapi)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
