@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-04-30, 18:05:56](https://news.ycombinator.com/item?id=40214094) - [View sky pollution by Starlink satellites in stellarium](https://news.ycombinator.com/item?id=40214094)
-* [2024-04-30, 17:48:14](https://news.ycombinator.com/item?id=40213803) - [Thinking Beyond IaC](https://www.youtube.com/watch?v=gg4UZ_04hZc)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:42:30](https://news.ycombinator.com/item?id=40213718) - [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
 * [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
@@ -18,6 +17,7 @@
 * [2024-04-30, 15:13:22](https://news.ycombinator.com/item?id=40211891) - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
+* [2024-04-30, 11:41:21](https://news.ycombinator.com/item?id=40209894) - [Change Healthcare hackers used stolen credentials and no MFA, says UHG CEO](https://techcrunch.com/2024/04/30/uhg-change-healthcare-ransomware-compromised-credentials-mfa/)
 * [2024-04-30, 09:12:27](https://news.ycombinator.com/item?id=40208800) - [Show HN: Roast my SQLite encryption at-rest](https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-29, 23:59:55](https://news.ycombinator.com/item?id=40205714) - [Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
