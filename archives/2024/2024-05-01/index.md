@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 13:56:38](https://news.ycombinator.com/item?id=40223312) - [Higher-paid employees looking for work are having a tough time](https://www.businessinsider.com/job-market-high-pay-employees-labor-economy-finding-work-2024-4)
+* [2024-05-01, 13:52:29](https://news.ycombinator.com/item?id=40223253) - [Tire toxicity faces fresh scrutiny after salmon die-offs](https://phys.org/news/2024-05-toxicity-fresh-scrutiny-salmon-die.html)
 * [2024-05-01, 13:52:10](https://news.ycombinator.com/item?id=40223247) - [Cracked Rabbit R1 APKs running on Android phone](https://twitter.com/MarcelD505/status/1785346490635878837)
 * [2024-05-01, 13:51:22](https://news.ycombinator.com/item?id=40223240) - [What the data says about crime in the U.S.](https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/)
 * [2024-05-01, 13:08:43](https://news.ycombinator.com/item?id=40222649) - [Private EYES: How a tech company is expanding surveillance in public streets](https://www.newsobserver.com/news/state/north-carolina/article286920890.html)
