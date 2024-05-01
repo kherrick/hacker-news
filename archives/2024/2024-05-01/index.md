@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 01:16:37](https://news.ycombinator.com/item?id=40218461) - [Boeing engineer tells senate about 'manufacturing shortcuts' [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
 * [2024-05-01, 00:36:19](https://news.ycombinator.com/item?id=40218198) - [MTA banned from using facial recognition to enforce fare evasion](https://gothamist.com/news/mta-banned-from-using-facial-recognition-to-enforce-fare-evasion)
+* [2024-05-01, 00:36:12](https://news.ycombinator.com/item?id=40218197) - [Qantas app data breach allows customers to access strangers' booking details](https://7news.com.au/news/qantas-app-data-breach-allows-customers-to-access-strangers-booking-details-c-14504516)
 * [2024-05-01, 00:22:06](https://news.ycombinator.com/item?id=40218095) - [Aboriginal Linux](https://landley.net/aboriginal/about.html)
 * [2024-05-01, 00:07:08](https://news.ycombinator.com/item?id=40218021) - [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Gen](https://storydiffusion.github.io/)
