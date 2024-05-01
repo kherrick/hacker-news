@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 23:19:55](https://news.ycombinator.com/item?id=40230812) - [Google's Payments to Apple Reached $20B in 2022, Antitrust Court Documents Show](https://www.bloomberg.com/news/articles/2024-05-01/google-s-payments-to-apple-reached-20-billion-in-2022-cue-says)
+* [2024-05-01, 23:17:39](https://news.ycombinator.com/item?id=40230790) - [Whistleblower Josh Dean of Boeing Supplier Spirit AeroSystems Has Died](https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/)
 * [2024-05-01, 22:49:09](https://news.ycombinator.com/item?id=40230598) - [Microsoft says April Windows updates break VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/)
 * [2024-05-01, 22:47:36](https://news.ycombinator.com/item?id=40230586) - [Saudi Arabia activist sentenced to 11 years for 'support' of women's rights](https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court)
+* [2024-05-01, 22:45:16](https://news.ycombinator.com/item?id=40230569) - ['My country would disappear'](https://www.theguardian.com/australia-news/2024/apr/29/torres-strait-island-elders-climate-change-class-action)
 * [2024-05-01, 22:44:12](https://news.ycombinator.com/item?id=40230558) - [The Adwaita Icon Theme no longer follows the FDO spec, breaking e.g. KDE apps](https://cullmann.io/posts/kate-and-icons/)
 * [2024-05-01, 21:21:56](https://news.ycombinator.com/item?id=40229633) - [McDonald's and other big brands warn that low-income consumers starting to crack](https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html)
 * [2024-05-01, 21:21:00](https://news.ycombinator.com/item?id=40229619) - [Impressive Sora Demo Wasn't Made with Sora](https://futurism.com/the-byte/openai-sora-demo)
@@ -33,6 +36,7 @@
 * [2024-05-01, 18:00:44](https://news.ycombinator.com/item?id=40226863) - [Xamarin has reached End of Support](https://dotnet.microsoft.com/en-us/platform/support/policy/xamarin)
 * [2024-05-01, 17:36:25](https://news.ycombinator.com/item?id=40226529) - [Google lays off hundreds of ‘Core’ employees](https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html)
 * [2024-05-01, 17:33:31](https://news.ycombinator.com/item?id=40226478) - [Eight Feet Jolted a $180M Real Estate Deal](https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html)
+* [2024-05-01, 17:05:37](https://news.ycombinator.com/item?id=40226094) - [Presence of gas on exoplanet 'only produced by life'](https://www.earth.com/news/planet-k2-18-b-studied-again-confirm-presence-dms-gas-only-produced-by-life/)
 * [2024-05-01, 17:01:18](https://news.ycombinator.com/item?id=40226025) - [I Reviewed 1,000s of Opinions on Htmx](https://konfigthis.com/blog/htmx/)
 * [2024-05-01, 17:01:07](https://news.ycombinator.com/item?id=40226023) - [Hatchet (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
 * [2024-05-01, 16:54:03](https://news.ycombinator.com/item?id=40225905) - [Apple's 'incredibly private' Safari is not so private in Europe](https://www.theregister.com/2024/04/30/apple_safari_europe_tracking/)
