@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-01, 04:38:35](https://news.ycombinator.com/item?id=40219555) - [Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
 * [2024-05-01, 04:29:05](https://news.ycombinator.com/item?id=40219510) - [Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)
-* [2024-05-01, 03:40:02](https://news.ycombinator.com/item?id=40219263) - [Why is simple decoration so rare in recent work?](https://www.benlandautaylor.com/p/why-we-cant-have-nice-things)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-05-01, 03:29:34](https://news.ycombinator.com/item?id=40219201) - [DEA Accepts Health Agency's Recommendation to Reclassify Cannabis](https://norml.org/blog/2024/04/30/dea-accepts-health-agencys-recommendation-to-reclassify-cannabis/)
 * [2024-05-01, 03:28:34](https://news.ycombinator.com/item?id=40219194) - [Rabbit R1 as an Android App](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
@@ -13,6 +13,7 @@
 * [2024-04-30, 21:00:40](https://news.ycombinator.com/item?id=40216281) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 19:45:36](https://news.ycombinator.com/item?id=40215424) - [Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
+* [2024-04-30, 18:54:22](https://news.ycombinator.com/item?id=40214763) - [Arti: A Tor Implementation in Rust](https://tpo.pages.torproject.net/core/arti/)
 * [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO is redefining death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem (2021)](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
@@ -27,7 +28,6 @@
 * [2024-04-29, 23:59:55](https://news.ycombinator.com/item?id=40205714) - [Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
 * [2024-04-29, 18:39:33](https://news.ycombinator.com/item?id=40202203) - [The IMEI Code: Your phone’s other number](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)
 * [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Tour of CLIPS (2022)](https://ryjo.codes/tour-of-clips.html)
-* [2024-04-29, 17:43:51](https://news.ycombinator.com/item?id=40201528) - [Calendar types in watches](https://arslan.io/2024/04/29/calendar-types-in-watches/)
 * [2024-04-29, 05:41:14](https://news.ycombinator.com/item?id=40194842) - [FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020)](https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption)
 * [2024-04-28, 21:47:20](https://news.ycombinator.com/item?id=40192303) - [Kevin Kelly: 101 Additional Advices](https://kk.org/thetechnium/101-additional-advices/)
 
