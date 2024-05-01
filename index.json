@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-05-01, 17:36:25",
+      "https://news.ycombinator.com/item?id=40226529"
+    ],
+    [
+      "Google lays off hundreds of ‘Core’ employees",
+      "https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 17:01:18",
       "https://news.ycombinator.com/item?id=40226025"
     ],
     [
-      "I Reviewed 1,000s of Opinions on Htmx",
+      "I Reviewed 1,000s of Opinions on HTMX",
       "https://konfigthis.com/blog/htmx/"
     ]
   ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2024-05-01, 10:01:53",
+      "https://news.ycombinator.com/item?id=40221327"
+    ],
+    [
+      "Paul Auster How I Became a Writer",
+      "https://channel.louisiana.dk/video/paul-auster-how-i-became-writer"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 08:28:18",
       "https://news.ycombinator.com/item?id=40220851"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-04-30, 19:45:36",
-      "https://news.ycombinator.com/item?id=40215424"
-    ],
-    [
-      "Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters",
-      "https://zju3dv.github.io/LoG_webpage/"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 17:43:12",
       "https://news.ycombinator.com/item?id=40213731"
     ],
@@ -267,16 +277,6 @@
     [
       "Pyinfra: Automate Infrastructure Using Python",
       "https://pyinfra.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 13:11:16",
-      "https://news.ycombinator.com/item?id=40210627"
-    ],
-    [
-      "Show HN: I made a CLI tool to create web extensions with no build configuration",
-      "https://github.com/cezaraugusto/extension.js"
     ]
   ],
   [
