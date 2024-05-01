@@ -62,6 +62,7 @@
 * [2024-04-29, 15:35:04](https://news.ycombinator.com/item?id=40199670) - [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US)
 * [2024-04-29, 15:31:49](https://news.ycombinator.com/item?id=40199624) - [Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
 * [2024-04-29, 15:17:41](https://news.ycombinator.com/item?id=40199443) - [Light Waves Brought to a Stop in a Crystal Promises New Ways to Control Photons](https://www.sciencealert.com/light-waves-brought-to-a-stop-in-a-crystal-promises-new-ways-to-control-photons)
+* [2024-04-29, 15:06:17](https://news.ycombinator.com/item?id=40199274) - [Everything Curl](https://everything.curl.dev/)
 * [2024-04-29, 15:00:15](https://news.ycombinator.com/item?id=40199193) - [Husband and wife outed as GRU spies aiding bombings and poisonings across Europe](https://theins.ru/en/politics/271205)
 * [2024-04-29, 14:57:29](https://news.ycombinator.com/item?id=40199153) - [A leadership crisis in the Nix community](https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/)
 * [2024-04-29, 14:54:38](https://news.ycombinator.com/item?id=40199118) - [Tiered storage won't fix Kafka](https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka)
