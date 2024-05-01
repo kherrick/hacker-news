@@ -67,6 +67,7 @@
 * [2024-04-29, 15:00:15](https://news.ycombinator.com/item?id=40199193) - [Husband and wife outed as GRU spies aiding bombings and poisonings across Europe](https://theins.ru/en/politics/271205)
 * [2024-04-29, 14:57:29](https://news.ycombinator.com/item?id=40199153) - [A leadership crisis in the Nix community](https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/)
 * [2024-04-29, 14:54:38](https://news.ycombinator.com/item?id=40199118) - [Tiered storage won't fix Kafka](https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka)
+* [2024-04-29, 14:30:27](https://news.ycombinator.com/item?id=40198788) - [How A NASA Probe Solved a Scorching Solar Mystery](https://www.quantamagazine.org/how-a-nasa-probe-solved-a-scorching-solar-mystery-20240429/)
 * [2024-04-29, 14:29:13](https://news.ycombinator.com/item?id=40198766) - [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html)
 * [2024-04-29, 14:19:48](https://news.ycombinator.com/item?id=40198664) - [9FRONT (Plan 9) \"Do Not Install\" Released](http://9front.org/releases/2024/04/28/0/)
 * [2024-04-29, 14:12:58](https://news.ycombinator.com/item?id=40198595) - [Phreaking](https://en.wikipedia.org/wiki/Phreaking)

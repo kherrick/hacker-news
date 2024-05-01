@@ -18,7 +18,6 @@
 * [2024-05-01, 14:56:21](https://news.ycombinator.com/item?id=40224148) - [Akiya houses: why Japan has nine million empty homes](https://www.theguardian.com/world/2024/may/01/akyia-houses-why-japan-has-nine-million-empty-homes)
 * [2024-05-01, 14:12:36](https://news.ycombinator.com/item?id=40223510) - [Show HN: Maps and Splats – Mashup of 3D tile maps with Gaussian Splats](https://maps-and-splats.glitch.me/)
 * [2024-05-01, 14:08:48](https://news.ycombinator.com/item?id=40223457) - [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
-* [2024-05-01, 12:49:38](https://news.ycombinator.com/item?id=40222429) - [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)
 * [2024-05-01, 12:19:26](https://news.ycombinator.com/item?id=40222175) - [The LaserDisc](https://www.abortretry.fail/p/the-laserdisc)
 * [2024-05-01, 12:00:10](https://news.ycombinator.com/item?id=40222051) - [Show HN: I'm 16 and building an AI based startup called Factful with friends](https://factful.io/)
 * [2024-05-01, 10:04:47](https://news.ycombinator.com/item?id=40221345) - [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://research.paulengstler.com/invisible-stitch/)
@@ -28,6 +27,7 @@
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
+* [2024-04-29, 14:30:27](https://news.ycombinator.com/item?id=40198788) - [How A NASA Probe Solved a Scorching Solar Mystery](https://www.quantamagazine.org/how-a-nasa-probe-solved-a-scorching-solar-mystery-20240429/)
 * [2024-04-29, 09:37:42](https://news.ycombinator.com/item?id=40196333) - [500 Byte Images: The Haiku Vector Icon Format (2016)](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [2024-04-29, 07:45:44](https://news.ycombinator.com/item?id=40195624) - [An Alternative to Cursor Pagination](https://medium.com/@ramsi.candra/an-alternative-to-cursor-pagination-147074287ca4)
 
