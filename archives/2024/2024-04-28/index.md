@@ -10,6 +10,7 @@
 * [2024-04-28, 22:27:34](https://news.ycombinator.com/item?id=40192552) - [Haystack DB – 10x faster than FAISS with binary embeddings by default](https://github.com/carsonpo/haystackdb)
 * [2024-04-28, 22:04:20](https://news.ycombinator.com/item?id=40192403) - [Claude Émile Jean-Baptiste Litre](https://en.wikipedia.org/wiki/Claude_%C3%89mile_Jean-Baptiste_Litre)
 * [2024-04-28, 21:57:00](https://news.ycombinator.com/item?id=40192359) - [Personal Computing Paves the Way for Personal Library Science](https://www.bramadams.dev/issue-55/)
+* [2024-04-28, 21:47:20](https://news.ycombinator.com/item?id=40192303) - [Kevin Kelly: 101 Additional Advices](https://kk.org/thetechnium/101-additional-advices/)
 * [2024-04-28, 21:38:05](https://news.ycombinator.com/item?id=40192240) - [DEC PDP-1 emulator running \"Spacewar\", the earliest known digital video game](https://www.masswerk.at/spacewar/index.html)
 * [2024-04-28, 21:34:02](https://news.ycombinator.com/item?id=40192204) - [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
 * [2024-04-28, 21:25:21](https://news.ycombinator.com/item?id=40192121) - [Personal Machines and Portable Worlds](https://www.chrbutler.com/personal-machines-and-portable-worlds)

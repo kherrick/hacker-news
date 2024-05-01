@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 04:29:05](https://news.ycombinator.com/item?id=40219510) - [Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)
 * [2024-05-01, 03:40:13](https://news.ycombinator.com/item?id=40219265) - [Meta: Iterative Reasoning Preference Optimization](https://arxiv.org/abs/2404.19733)
 * [2024-05-01, 03:40:02](https://news.ycombinator.com/item?id=40219263) - [Why is simple decoration so rare in recent work?](https://www.benlandautaylor.com/p/why-we-cant-have-nice-things)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
