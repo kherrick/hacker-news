@@ -6,6 +6,7 @@
 
 * [2024-05-01, 22:49:09](https://news.ycombinator.com/item?id=40230598) - [Microsoft says April Windows updates break VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/)
 * [2024-05-01, 22:47:36](https://news.ycombinator.com/item?id=40230586) - [Saudi Arabia activist sentenced to 11 years for 'support' of women's rights](https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court)
+* [2024-05-01, 22:44:12](https://news.ycombinator.com/item?id=40230558) - [The Adwaita Icon Theme no longer follows the FDO spec, breaking e.g. KDE apps](https://cullmann.io/posts/kate-and-icons/)
 * [2024-05-01, 21:21:56](https://news.ycombinator.com/item?id=40229633) - [McDonald's and other big brands warn that low-income consumers starting to crack](https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html)
 * [2024-05-01, 21:21:00](https://news.ycombinator.com/item?id=40229619) - [Impressive Sora Demo Wasn't Made with Sora](https://futurism.com/the-byte/openai-sora-demo)
 * [2024-05-01, 21:01:08](https://news.ycombinator.com/item?id=40229360) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
