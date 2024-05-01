@@ -101,6 +101,7 @@
 * [2024-04-30, 07:08:59](https://news.ycombinator.com/item?id=40208064) - [Re: Why Host Emacs Packages on GitHub? (Microsoft vs Freedom)](https://protesilaos.com/codelog/2024-04-30-re-emacs-github-freedom-microsoft/)
 * [2024-04-30, 06:53:19](https://news.ycombinator.com/item?id=40207981) - [U.S. to require automatic emergency braking on new vehicles in 5 years](https://www.npr.org/2024/04/30/1248011904/u-s-to-require-automatic-emergency-braking-on-new-vehicles-in-5-years)
 * [2024-04-30, 06:39:16](https://news.ycombinator.com/item?id=40207907) - [Can China's Loongson Catch Western Designs? Probably Not](https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/)
+* [2024-04-30, 05:47:04](https://news.ycombinator.com/item?id=40207607) - [Not all Graphs are Trees](https://buttondown.email/jaffray/archive/not-all-graphs-are-trees/)
 * [2024-04-30, 05:34:22](https://news.ycombinator.com/item?id=40207549) - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
 * [2024-04-30, 05:33:53](https://news.ycombinator.com/item?id=40207545) - [Systemd Wants to Expand to Include a Sudo Replacement](https://outpost.fosspost.org/d/19-systemd-wants-to-expand-to-include-a-sudo-replacement)
 * [2024-04-30, 05:17:05](https://news.ycombinator.com/item?id=40207472) - [Nintendo(1)](http://man.9front.org/1/nintendo)

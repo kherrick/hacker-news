@@ -26,7 +26,7 @@
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem (2021)](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
-* [2024-04-30, 10:33:15](https://news.ycombinator.com/item?id=40209382) - [Tesla conducting more layoffs, including entire Supercharger team](https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/)
+* [2024-04-30, 05:47:04](https://news.ycombinator.com/item?id=40207607) - [Not all Graphs are Trees](https://buttondown.email/jaffray/archive/not-all-graphs-are-trees/)
 * [2024-04-29, 14:30:27](https://news.ycombinator.com/item?id=40198788) - [How A NASA Probe Solved a Scorching Solar Mystery](https://www.quantamagazine.org/how-a-nasa-probe-solved-a-scorching-solar-mystery-20240429/)
 * [2024-04-29, 09:37:42](https://news.ycombinator.com/item?id=40196333) - [500 Byte Images: The Haiku Vector Icon Format (2016)](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [2024-04-29, 07:45:44](https://news.ycombinator.com/item?id=40195624) - [An Alternative to Cursor Pagination](https://medium.com/@ramsi.candra/an-alternative-to-cursor-pagination-147074287ca4)
