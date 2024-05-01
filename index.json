@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-01, 12:35:20",
+      "https://news.ycombinator.com/item?id=40222273"
+    ],
+    [
+      "Two giants in the satellite telecom industry join forces to counter Starlink",
+      "https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 12:26:10",
       "https://news.ycombinator.com/item?id=40222213"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-05-01, 11:41:25",
+      "https://news.ycombinator.com/item?id=40221925"
+    ],
+    [
+      "Single Citrix Compromised Credential Results in $22M Ransom",
+      "https://www.infostealers.com/article/single-citrix-compromised-credential-results-in-22000000-ransom-to-change-healthcare/"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 11:18:50",
       "https://news.ycombinator.com/item?id=40221800"
     ],
@@ -57,16 +77,6 @@
     [
       "The drinking fountain button is tragically misunderstood",
       "https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 04:02:33",
-      "https://news.ycombinator.com/item?id=40219386"
-    ],
-    [
-      "Resistance against London tube map commit history (a.k.a. git merge hell) (2015)",
-      "https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Everything Curl",
       "https://everything.curl.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 05:41:14",
-      "https://news.ycombinator.com/item?id=40194842"
-    ],
-    [
-      "FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020)",
-      "https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption"
     ]
   ]
 ]
