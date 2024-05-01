@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 12:56:14](https://news.ycombinator.com/item?id=40222501) - [Tesla staff say firm's entire Supercharger team fired](https://www.bbc.com/news/technology-68935522)
+* [2024-05-01, 12:56:09](https://news.ycombinator.com/item?id=40222499) - [Car manufacturers break promise about sharing location data with police](https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy)
 * [2024-05-01, 12:35:20](https://news.ycombinator.com/item?id=40222273) - [Two giants in the satellite telecom industry join forces to counter Starlink](https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/)
 * [2024-05-01, 12:26:10](https://news.ycombinator.com/item?id=40222213) - [Show HN: I've forked neofetch to keep it alive](https://github.com/LorenDB/neofetch)
+* [2024-05-01, 12:19:26](https://news.ycombinator.com/item?id=40222175) - [The LaserDisc – By Bradford Morgan White – Abort Retry Fail](https://www.abortretry.fail/p/the-laserdisc)
 * [2024-05-01, 12:02:46](https://news.ycombinator.com/item?id=40222067) - [Please Don't Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 12:00:48](https://news.ycombinator.com/item?id=40222056) - [Ashby (YC W19) Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-01, 11:41:25](https://news.ycombinator.com/item?id=40221925) - [Single Citrix Compromised Credential Results in $22M Ransom](https://www.infostealers.com/article/single-citrix-compromised-credential-results-in-22000000-ransom-to-change-healthcare/)

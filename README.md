@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-01, 12:56:14](https://news.ycombinator.com/item?id=40222501) - [Tesla staff say firm's entire Supercharger team fired](https://www.bbc.com/news/technology-68935522)
+* [2024-05-01, 12:56:09](https://news.ycombinator.com/item?id=40222499) - [Car manufacturers break promise about sharing location data with police](https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy)
 * [2024-05-01, 12:35:20](https://news.ycombinator.com/item?id=40222273) - [Two giants in the satellite telecom industry join forces to counter Starlink](https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/)
 * [2024-05-01, 12:26:10](https://news.ycombinator.com/item?id=40222213) - [Show HN: I've forked neofetch to keep it alive](https://github.com/LorenDB/neofetch)
-* [2024-05-01, 12:02:46](https://news.ycombinator.com/item?id=40222067) - [Please Don't Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
+* [2024-05-01, 12:19:26](https://news.ycombinator.com/item?id=40222175) - [The LaserDisc – By Bradford Morgan White – Abort Retry Fail](https://www.abortretry.fail/p/the-laserdisc)
 * [2024-05-01, 12:00:48](https://news.ycombinator.com/item?id=40222056) - [Ashby (YC W19) Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-01, 11:41:25](https://news.ycombinator.com/item?id=40221925) - [Single Citrix Compromised Credential Results in $22M Ransom](https://www.infostealers.com/article/single-citrix-compromised-credential-results-in-22000000-ransom-to-change-healthcare/)
 * [2024-05-01, 11:18:50](https://news.ycombinator.com/item?id=40221800) - [The European Union's remarkable growth performance relative to the United States](https://www.bruegel.org/analysis/european-unions-remarkable-growth-performance-relative-united-states)
@@ -25,10 +27,8 @@
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-30, 09:12:27](https://news.ycombinator.com/item?id=40208800) - [Show HN: Roast my SQLite encryption at-rest](https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum)
-* [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-29, 23:59:55](https://news.ycombinator.com/item?id=40205714) - [Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
 * [2024-04-29, 18:39:33](https://news.ycombinator.com/item?id=40202203) - [The IMEI Code: Your phone’s other number](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)
-* [2024-04-29, 17:43:51](https://news.ycombinator.com/item?id=40201528) - [Calendar types in watches](https://arslan.io/2024/04/29/calendar-types-in-watches/)
 * [2024-04-29, 15:06:17](https://news.ycombinator.com/item?id=40199274) - [Everything Curl](https://everything.curl.dev/)
 
 ## [Archives](archives/index.md)
