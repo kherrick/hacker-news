@@ -14,6 +14,7 @@
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-05-01, 03:29:34](https://news.ycombinator.com/item?id=40219201) - [DEA Accepts Health Agency's Recommendation to Reclassify Cannabis](https://norml.org/blog/2024/04/30/dea-accepts-health-agencys-recommendation-to-reclassify-cannabis/)
 * [2024-05-01, 03:28:34](https://news.ycombinator.com/item?id=40219194) - [Rabbit R1 as an Android App](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
+* [2024-05-01, 03:16:49](https://news.ycombinator.com/item?id=40219131) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 * [2024-05-01, 02:58:39](https://news.ycombinator.com/item?id=40219057) - [A CSS framework for recreating Windows 7 UI](https://khang-nd.github.io/7.css/)
 * [2024-05-01, 02:28:07](https://news.ycombinator.com/item?id=40218896) - [Express 5.0 – Last Push](https://github.com/expressjs/discussions/issues/233)
 * [2024-05-01, 01:17:10](https://news.ycombinator.com/item?id=40218463) - [Figma OSS Alternative](https://penpot.app/)
