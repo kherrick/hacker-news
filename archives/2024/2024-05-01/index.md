@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
+* [2024-05-01, 07:56:31](https://news.ycombinator.com/item?id=40220648) - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 * [2024-05-01, 05:59:01](https://news.ycombinator.com/item?id=40220004) - [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)
 * [2024-05-01, 05:26:24](https://news.ycombinator.com/item?id=40219804) - [A Strong U.S. Dollar Weighs on the World](https://www.nytimes.com/2024/04/29/business/a-strong-us-dollar-weighs-on-the-world.html)
 * [2024-05-01, 04:54:28](https://news.ycombinator.com/item?id=40219642) - [Negative-mass exciton polaritons induced by light-matter coupling semiconductor](https://www.nature.com/articles/s41467-023-36618-6)
