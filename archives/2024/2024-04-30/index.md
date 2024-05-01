@@ -34,6 +34,7 @@
 * [2024-04-30, 18:48:10](https://news.ycombinator.com/item?id=40214686) - [Android Studio IDE launches free AI features](https://developer.android.com/gemini-in-android)
 * [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
 * [2024-04-30, 18:35:40](https://news.ycombinator.com/item?id=40214514) - ['Smartphones on Wheels' Draw Attention from Regulators](https://www.nytimes.com/2024/04/30/technology/regulators-investigate-carmakers-driver-tracking.html)
+* [2024-04-30, 18:31:23](https://news.ycombinator.com/item?id=40214453) - [The Fermat's Last Theorem Project](https://leanprover-community.github.io/blog/posts/FLT-announcement/)
 * [2024-04-30, 18:22:08](https://news.ycombinator.com/item?id=40214332) - [Bill comes due for money-losing tech companies that borrowed billions](https://www.semafor.com/article/04/30/2024/bill-comes-due-for-money-losing-tech-companies-that-borrowed-billions)
 * [2024-04-30, 18:20:39](https://news.ycombinator.com/item?id=40214305) - [Gpt2-Chatbot Removed from Lmsys](https://lmsys.org/blog/2024-03-01-policy/)
 * [2024-04-30, 18:05:56](https://news.ycombinator.com/item?id=40214094) - [View sky pollution by Starlink satellites in stellarium](https://news.ycombinator.com/item?id=40214094)
