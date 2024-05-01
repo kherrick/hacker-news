@@ -15,7 +15,6 @@
 * [2024-05-01, 12:49:38](https://news.ycombinator.com/item?id=40222429) - [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)
 * [2024-05-01, 12:35:20](https://news.ycombinator.com/item?id=40222273) - [Two giants in the satellite telecom industry join forces to counter Starlink](https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/)
 * [2024-05-01, 12:19:26](https://news.ycombinator.com/item?id=40222175) - [The LaserDisc](https://www.abortretry.fail/p/the-laserdisc)
-* [2024-05-01, 12:00:10](https://news.ycombinator.com/item?id=40222051) - [Show HN: I'm 16 and building an AI based startup called Factful with friends](https://factful.io/)
 * [2024-05-01, 10:04:47](https://news.ycombinator.com/item?id=40221345) - [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://research.paulengstler.com/invisible-stitch/)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 * [2024-05-01, 08:03:08](https://news.ycombinator.com/item?id=40220699) - [Show HN: I've build a stupidly simple invoicing for freelancers and contractors](https://onigiri.one/)
@@ -28,6 +27,7 @@
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem (2021)](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
+* [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-29, 16:22:31](https://news.ycombinator.com/item?id=40200397) - [The business of takehome assessments](https://www.careerfair.io/takehome-assessments)
 * [2024-04-29, 09:37:42](https://news.ycombinator.com/item?id=40196333) - [500 Byte Images: The Haiku Vector Icon Format (2016)](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 
