@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 23:41:24](https://news.ycombinator.com/item?id=40230988) - [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
 * [2024-05-01, 23:19:55](https://news.ycombinator.com/item?id=40230812) - [Google's Payments to Apple Reached $20B in 2022, Antitrust Court Documents Show](https://www.bloomberg.com/news/articles/2024-05-01/google-s-payments-to-apple-reached-20-billion-in-2022-cue-says)
 * [2024-05-01, 23:17:39](https://news.ycombinator.com/item?id=40230790) - [Whistleblower Josh Dean of Boeing Supplier Spirit AeroSystems Has Died](https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/)
+* [2024-05-01, 23:05:31](https://news.ycombinator.com/item?id=40230699) - [César Aira's Magic](https://www.thedial.world/issue-15/cesar-aira-profile)
 * [2024-05-01, 22:49:09](https://news.ycombinator.com/item?id=40230598) - [Microsoft says April Windows updates break VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/)
 * [2024-05-01, 22:47:36](https://news.ycombinator.com/item?id=40230586) - [Saudi Arabia activist sentenced to 11 years for 'support' of women's rights](https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court)
 * [2024-05-01, 22:45:16](https://news.ycombinator.com/item?id=40230569) - ['My country would disappear'](https://www.theguardian.com/australia-news/2024/apr/29/torres-strait-island-elders-climate-change-class-action)
