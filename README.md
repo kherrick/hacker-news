@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-01, 17:01:18](https://news.ycombinator.com/item?id=40226025) - [I Reviewed 1,000s of Opinions on Htmx](https://konfigthis.com/blog/htmx/)
+* [2024-05-01, 17:36:25](https://news.ycombinator.com/item?id=40226529) - [Google lays off hundreds of ‘Core’ employees](https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html)
+* [2024-05-01, 17:01:18](https://news.ycombinator.com/item?id=40226025) - [I Reviewed 1,000s of Opinions on HTMX](https://konfigthis.com/blog/htmx/)
 * [2024-05-01, 17:01:07](https://news.ycombinator.com/item?id=40226023) - [Hatchet (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
 * [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
@@ -15,6 +16,7 @@
 * [2024-05-01, 12:35:20](https://news.ycombinator.com/item?id=40222273) - [Two giants in the satellite telecom industry join forces to counter Starlink](https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/)
 * [2024-05-01, 12:19:26](https://news.ycombinator.com/item?id=40222175) - [The LaserDisc](https://www.abortretry.fail/p/the-laserdisc)
 * [2024-05-01, 10:04:47](https://news.ycombinator.com/item?id=40221345) - [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://research.paulengstler.com/invisible-stitch/)
+* [2024-05-01, 10:01:53](https://news.ycombinator.com/item?id=40221327) - [Paul Auster How I Became a Writer](https://channel.louisiana.dk/video/paul-auster-how-i-became-writer)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 * [2024-05-01, 08:03:08](https://news.ycombinator.com/item?id=40220699) - [Show HN: I've build a stupidly simple invoicing for freelancers and contractors](https://onigiri.one/)
 * [2024-05-01, 06:52:41](https://news.ycombinator.com/item?id=40220309) - [The drinking fountain button](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
@@ -23,11 +25,9 @@
 * [2024-05-01, 03:16:49](https://news.ycombinator.com/item?id=40219131) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 * [2024-04-30, 22:54:16](https://news.ycombinator.com/item?id=40217453) - [The Rabbit R1 is probably running Android and is powered by an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
-* [2024-04-30, 19:45:36](https://news.ycombinator.com/item?id=40215424) - [Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem (2021)](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
-* [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-29, 16:22:31](https://news.ycombinator.com/item?id=40200397) - [The business of takehome assessments](https://www.careerfair.io/takehome-assessments)
 * [2024-04-29, 09:37:42](https://news.ycombinator.com/item?id=40196333) - [500 Byte Images: The Haiku Vector Icon Format (2016)](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 
