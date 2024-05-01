@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 17:01:18](https://news.ycombinator.com/item?id=40226025) - [I Reviewed 1,000s of Opinions on Htmx](https://konfigthis.com/blog/htmx/)
+* [2024-05-01, 17:01:07](https://news.ycombinator.com/item?id=40226023) - [Hatchet (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
 * [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 * [2024-05-01, 15:28:53](https://news.ycombinator.com/item?id=40224659) - [Claude AI launches on iOS (Android coming soon)](https://www.anthropic.com/news/team-plan-and-ios)
