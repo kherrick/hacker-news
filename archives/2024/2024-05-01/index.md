@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 19:45:54](https://news.ycombinator.com/item?id=40228401) - [Roblox players to start seeing video ads in its virtual realms](https://www.reuters.com/technology/roblox-players-start-seeing-video-ads-its-virtual-realms-2024-05-01/)
+* [2024-05-01, 19:32:09](https://news.ycombinator.com/item?id=40228212) - [At Microsoft, years of security debt come crashing down](https://www.cybersecuritydive.com/news/microsoft-security-debt-crashing-down/714685/)
 * [2024-05-01, 19:23:16](https://news.ycombinator.com/item?id=40228068) - [Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
 * [2024-05-01, 19:18:49](https://news.ycombinator.com/item?id=40228006) - [The Revenge of the Home Page](https://www.newyorker.com/culture/infinite-scroll/the-revenge-of-the-home-page)
 * [2024-05-01, 19:08:05](https://news.ycombinator.com/item?id=40227836) - [Stasi in the West](https://www.nakedcapitalism.com/2024/05/stasi-in-the-west.html)
@@ -21,6 +23,7 @@
 * [2024-05-01, 17:01:18](https://news.ycombinator.com/item?id=40226025) - [I Reviewed 1,000s of Opinions on Htmx](https://konfigthis.com/blog/htmx/)
 * [2024-05-01, 17:01:07](https://news.ycombinator.com/item?id=40226023) - [Hatchet (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
 * [2024-05-01, 16:54:03](https://news.ycombinator.com/item?id=40225905) - [Apple's 'incredibly private' Safari is not so private in Europe](https://www.theregister.com/2024/04/30/apple_safari_europe_tracking/)
+* [2024-05-01, 16:39:09](https://news.ycombinator.com/item?id=40225674) - [Paul Auster, American author of The New York Trilogy, dies aged 77](https://www.theguardian.com/books/2024/may/01/paul-auster-dies-aged-77-death-american-author-new-york-trilogy)
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
 * [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 * [2024-05-01, 15:51:55](https://news.ycombinator.com/item?id=40225002) - [Harvard applications drop 5% after year of turmoil on the Ivy League campus](https://www.cbsnews.com/news/harvard-applications-down-5-percent-claudine-gay/)
