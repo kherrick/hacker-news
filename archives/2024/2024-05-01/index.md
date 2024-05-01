@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 13:52:10](https://news.ycombinator.com/item?id=40223247) - [Cracked Rabbit R1 APKs running on Android phone](https://twitter.com/MarcelD505/status/1785346490635878837)
+* [2024-05-01, 13:51:22](https://news.ycombinator.com/item?id=40223240) - [What the data says about crime in the U.S.](https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/)
 * [2024-05-01, 13:08:43](https://news.ycombinator.com/item?id=40222649) - [Private EYES: How a tech company is expanding surveillance in public streets](https://www.newsobserver.com/news/state/north-carolina/article286920890.html)
 * [2024-05-01, 12:56:14](https://news.ycombinator.com/item?id=40222501) - [Tesla staff say firm's entire Supercharger team fired](https://www.bbc.com/news/technology-68935522)
 * [2024-05-01, 12:56:09](https://news.ycombinator.com/item?id=40222499) - [Car manufacturers break promise about sharing location data with police](https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy)
