@@ -6,11 +6,10 @@
 * [2024-05-01, 19:18:49](https://news.ycombinator.com/item?id=40228006) - [The Revenge of the Home Page](https://www.newyorker.com/culture/infinite-scroll/the-revenge-of-the-home-page)
 * [2024-05-01, 19:00:46](https://news.ycombinator.com/item?id=40227736) - [The AWS S3 Denial of Wallet Amplification Attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce)
 * [2024-05-01, 18:45:39](https://news.ycombinator.com/item?id=40227502) - [Fed Says Inflation Progress Has Stalled, Extends Wait-and-See Stance](https://www.wsj.com/economy/central-banking/fed-says-inflation-progress-has-stalled-and-extends-wait-and-see-rate-stance-51b74bbf)
+* [2024-05-01, 18:26:54](https://news.ycombinator.com/item?id=40227212) - [Tesla retreats from one-piece \"gigacasting\" manufacturing process](https://www.reuters.com/business/autos-transportation/tesla-retreats-next-generation-gigacasting-manufacturing-process-2024-05-01/)
 * [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH](https://www.terminal.shop/)
-* [2024-05-01, 18:04:03](https://news.ycombinator.com/item?id=40226910) - [Cheating Site Ashley Madison Is Overflowing with Sextortionists](https://gizmodo.com/ashley-madison-ftc-sextortion-blackmail-paypal-facebook-1851444552)
 * [2024-05-01, 17:33:31](https://news.ycombinator.com/item?id=40226478) - [Eight Feet Jolted a $180M Real Estate Deal](https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html)
 * [2024-05-01, 17:01:07](https://news.ycombinator.com/item?id=40226023) - [Hatchet (YC W24) is hiring a founding engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
-* [2024-05-01, 16:39:09](https://news.ycombinator.com/item?id=40225674) - [Paul Auster, American author of The New York Trilogy, dies aged 77](https://www.theguardian.com/books/2024/may/01/paul-auster-dies-aged-77-death-american-author-new-york-trilogy)
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [BASIC turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
 * [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 * [2024-05-01, 15:51:55](https://news.ycombinator.com/item?id=40225002) - [Harvard applications drop 5% after year of turmoil on the Ivy League campus](https://www.cbsnews.com/news/harvard-applications-down-5-percent-claudine-gay/)
@@ -30,6 +29,7 @@
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-29, 09:37:42](https://news.ycombinator.com/item?id=40196333) - [500 Byte Images: The Haiku Vector Icon Format (2016)](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
+* [2024-04-29, 07:45:44](https://news.ycombinator.com/item?id=40195624) - [An Alternative to Cursor Pagination](https://medium.com/@ramsi.candra/an-alternative-to-cursor-pagination-147074287ca4)
 
 ## [Archives](archives/index.md)
 
