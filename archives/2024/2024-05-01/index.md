@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 05:26:24](https://news.ycombinator.com/item?id=40219804) - [A Strong U.S. Dollar Weighs on the World](https://www.nytimes.com/2024/04/29/business/a-strong-us-dollar-weighs-on-the-world.html)
 * [2024-05-01, 04:54:28](https://news.ycombinator.com/item?id=40219642) - [Negative-mass exciton polaritons induced by light-matter coupling semiconductor](https://www.nature.com/articles/s41467-023-36618-6)
 * [2024-05-01, 04:38:35](https://news.ycombinator.com/item?id=40219555) - [Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
 * [2024-05-01, 04:29:05](https://news.ycombinator.com/item?id=40219510) - [Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)

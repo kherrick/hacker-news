@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-01, 05:26:24](https://news.ycombinator.com/item?id=40219804) - [A Strong U.S. Dollar Weighs on the World](https://www.nytimes.com/2024/04/29/business/a-strong-us-dollar-weighs-on-the-world.html)
 * [2024-05-01, 04:38:35](https://news.ycombinator.com/item?id=40219555) - [Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
 * [2024-05-01, 04:29:05](https://news.ycombinator.com/item?id=40219510) - [Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-05-01, 03:29:34](https://news.ycombinator.com/item?id=40219201) - [DEA Accepts Health Agency's Recommendation to Reclassify Cannabis](https://norml.org/blog/2024/04/30/dea-accepts-health-agencys-recommendation-to-reclassify-cannabis/)
-* [2024-05-01, 03:28:34](https://news.ycombinator.com/item?id=40219194) - [Rabbit R1 as an Android App](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
 * [2024-05-01, 01:17:10](https://news.ycombinator.com/item?id=40218463) - [Figma OSS Alternative](https://penpot.app/)
 * [2024-05-01, 01:16:37](https://news.ycombinator.com/item?id=40218461) - [Boeing engineer tells senate about 'manufacturing shortcuts' [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
 * [2024-05-01, 00:22:06](https://news.ycombinator.com/item?id=40218095) - [Aboriginal Linux](https://landley.net/aboriginal/about.html)
