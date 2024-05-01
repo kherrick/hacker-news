@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-01, 16:24:23",
+      "https://news.ycombinator.com/item?id=40225442"
+    ],
+    [
+      "The BASIC programming language turns 60",
+      "https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 15:28:53",
       "https://news.ycombinator.com/item?id=40224659"
     ],
     [
       "Claude Team plan and iOS app",
       "https://www.anthropic.com/news/team-plan-and-ios"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 15:23:06",
+      "https://news.ycombinator.com/item?id=40224578"
+    ],
+    [
+      "Are We Modules Yet?",
+      "https://arewemodulesyet.org/"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-05-01, 14:40:37",
-      "https://news.ycombinator.com/item?id=40223921"
+      "2024-05-01, 15:00:52",
+      "https://news.ycombinator.com/item?id=40224210"
     ],
     [
-      "CenturyLink left users with no service for two months, then billed them $239",
-      "https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/"
+      "Ask HN: Who wants to be hired? (May 2024)",
+      "https://news.ycombinator.com/item?id=40224210"
     ]
   ],
   [
@@ -211,22 +231,22 @@
   ],
   [
     [
+      "2024-04-30, 22:54:16",
+      "https://news.ycombinator.com/item?id=40217453"
+    ],
+    [
+      "The Rabbit R1 is probably running Android and is powered by an Android app",
+      "https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 20:39:59",
       "https://news.ycombinator.com/item?id=40216057"
     ],
     [
       "Printing Music with CSS Grid",
       "https://cruncher.ch/blog/printing-music-with-css-grid/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 19:45:36",
-      "https://news.ycombinator.com/item?id=40215424"
-    ],
-    [
-      "Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters",
-      "https://zju3dv.github.io/LoG_webpage/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-04-30, 15:13:22",
-      "https://news.ycombinator.com/item?id=40211891"
-    ],
-    [
-      "Borgo is a statically typed language that compiles to Go",
-      "https://github.com/borgo-lang/borgo"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 14:54:45",
       "https://news.ycombinator.com/item?id=40211655"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: I made a CLI tool to create web extensions with no build configuration",
       "https://github.com/cezaraugusto/extension.js"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 23:59:55",
-      "https://news.ycombinator.com/item?id=40205714"
-    ],
-    [
-      "Run0, a systemd based alternative to sudo, announced",
-      "https://mastodon.social/@pid_eins/112353324518585654"
     ]
   ],
   [
