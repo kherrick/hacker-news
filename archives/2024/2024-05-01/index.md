@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 18:42:46](https://news.ycombinator.com/item?id=40227462) - [Israel tells U.S. retaliation would loom over Palestinians if ICC issues warrant](https://www.axios.com/2024/05/01/us-israel-palestinian-authority-icc-arrest-warrant)
+* [2024-05-01, 18:31:52](https://news.ycombinator.com/item?id=40227292) - [R/Java bans Kevin Bourrillion because he mentioned another programming language](https://twitter.com/kevinb9n/status/1785066830966690126)
 * [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH, and exclusively through SSH](https://www.terminal.shop/)
 * [2024-05-01, 18:06:29](https://news.ycombinator.com/item?id=40226934) - [Windows 10 reaches 70% market share as Windows 11 keeps declining](https://www.neowin.net/news/windows-10-reaches-70-market-share-as-windows-11-keeps-declining/)
 * [2024-05-01, 18:04:35](https://news.ycombinator.com/item?id=40226913) - [The $21B influencer industry has gone off the rails](https://www.businessinsider.com/influencer-industry-marketing-fraud-discrimination-unethical-deals-content-creators-brands-2024-4)
