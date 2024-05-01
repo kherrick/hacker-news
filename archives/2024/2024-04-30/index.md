@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
 * [2024-04-30, 23:29:45](https://news.ycombinator.com/item?id=40217725) - [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
+* [2024-04-30, 23:25:52](https://news.ycombinator.com/item?id=40217699) - [Building a Large Japanese Web Corpus for Large Language Models](https://arxiv.org/abs/2404.17733)
 * [2024-04-30, 23:18:03](https://news.ycombinator.com/item?id=40217643) - [Google workers fired for protesting Israeli contract file NLRB complaint](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)
 * [2024-04-30, 22:54:16](https://news.ycombinator.com/item?id=40217453) - [Rabbit R1, a thing that should just be an app, is just an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
 * [2024-04-30, 22:16:08](https://news.ycombinator.com/item?id=40217096) - [Apple banned Delta for years. It's now America's Number 1 iPhone app.](https://www.washingtonpost.com/technology/2024/04/30/delta-emulator-iphone-apple-antitrust/)
