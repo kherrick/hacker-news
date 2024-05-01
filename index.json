@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-05-01, 12:00:10",
-      "https://news.ycombinator.com/item?id=40222051"
-    ],
-    [
-      "Show HN: I'm 16 and building an AI based startup called Factful with friends",
-      "https://factful.io/"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 10:04:47",
       "https://news.ycombinator.com/item?id=40221345"
     ],
@@ -277,6 +267,16 @@
     [
       "Pyinfra: Automate Infrastructure Using Python",
       "https://pyinfra.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 13:11:16",
+      "https://news.ycombinator.com/item?id=40210627"
+    ],
+    [
+      "Show HN: I made a CLI tool to create web extensions with no build configuration",
+      "https://github.com/cezaraugusto/extension.js"
     ]
   ],
   [
