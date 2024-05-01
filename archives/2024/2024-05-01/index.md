@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
+* [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 * [2024-05-01, 15:28:53](https://news.ycombinator.com/item?id=40224659) - [Claude AI launches on iOS (Android coming soon)](https://www.anthropic.com/news/team-plan-and-ios)
 * [2024-05-01, 15:23:06](https://news.ycombinator.com/item?id=40224578) - [Are We Modules Yet?](https://arewemodulesyet.org/)
 * [2024-05-01, 15:11:02](https://news.ycombinator.com/item?id=40224399) - [Man tried and failed to steal a cigarette, has spent 18 years in prison for it](https://www.theguardian.com/uk-news/2024/may/01/martin-myers-tried-and-failed-to-steal-a-cigarette-why-has-he-spent-18-years-in-prison-for-it)

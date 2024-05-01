@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
+* [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 * [2024-05-01, 15:28:53](https://news.ycombinator.com/item?id=40224659) - [Claude Team plan and iOS app](https://www.anthropic.com/news/team-plan-and-ios)
 * [2024-05-01, 15:23:06](https://news.ycombinator.com/item?id=40224578) - [Are We Modules Yet?](https://arewemodulesyet.org/)
 * [2024-05-01, 15:04:38](https://news.ycombinator.com/item?id=40224292) - [Show HN: MuscleWiki Workout Generator – Generate unique workouts](https://musclewiki.com/workout-generator)
@@ -23,7 +24,6 @@
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-05-01, 03:25:58](https://news.ycombinator.com/item?id=40219172) - [CERN's Exabyte Data Center](https://blog.westerndigital.com/inside-cerns-exabyte-data-center/)
 * [2024-05-01, 03:16:49](https://news.ycombinator.com/item?id=40219131) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
-* [2024-04-30, 22:54:16](https://news.ycombinator.com/item?id=40217453) - [The Rabbit R1 is probably running Android and is powered by an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem (2021)](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
