@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-04-30, 15:56:10",
+      "https://news.ycombinator.com/item?id=40212490"
+    ],
+    [
+      "Pydantic Logfire",
+      "https://pydantic.dev/logfire"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 15:21:31",
       "https://news.ycombinator.com/item?id=40211994"
     ],
@@ -287,16 +297,6 @@
     [
       "FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020)",
       "https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 21:47:20",
-      "https://news.ycombinator.com/item?id=40192303"
-    ],
-    [
-      "Kevin Kelly: 101 Additional Advices",
-      "https://kk.org/thetechnium/101-additional-advices/"
     ]
   ]
 ]
