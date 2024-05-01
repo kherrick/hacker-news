@@ -77,6 +77,7 @@
 * [2024-04-30, 14:24:45](https://news.ycombinator.com/item?id=40211254) - [Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
 * [2024-04-30, 14:20:08](https://news.ycombinator.com/item?id=40211205) - [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
 * [2024-04-30, 14:15:23](https://news.ycombinator.com/item?id=40211157) - [TikTok ban in EU is 'not excluded,' von der Leyen says](https://www.politico.eu/article/tiktok-ban-in-eu-is-not-excluded-von-der-leyen-says/)
+* [2024-04-30, 14:10:37](https://news.ycombinator.com/item?id=40211116) - [A little girl said monsters were in her bedroom. It was 60k bees](https://www.bbc.com/news/world-us-canada-68924955)
 * [2024-04-30, 13:59:27](https://news.ycombinator.com/item?id=40211027) - [Tesla to lay off everyone working on Superchargers, new vehicles](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/)
 * [2024-04-30, 13:57:53](https://news.ycombinator.com/item?id=40211010) - [Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
 * [2024-04-30, 13:40:46](https://news.ycombinator.com/item?id=40210873) - [Man who mass-extorted psychotherapy patients gets six years](https://krebsonsecurity.com/2024/04/man-who-mass-extorted-psychotherapy-patients-gets-six-years/)

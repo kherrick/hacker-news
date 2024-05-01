@@ -25,6 +25,7 @@
 * [2024-05-01, 18:06:29](https://news.ycombinator.com/item?id=40226934) - [Windows 10 reaches 70% market share as Windows 11 keeps declining](https://www.neowin.net/news/windows-10-reaches-70-market-share-as-windows-11-keeps-declining/)
 * [2024-05-01, 18:04:35](https://news.ycombinator.com/item?id=40226913) - [The $21B influencer industry has gone off the rails](https://www.businessinsider.com/influencer-industry-marketing-fraud-discrimination-unethical-deals-content-creators-brands-2024-4)
 * [2024-05-01, 18:04:03](https://news.ycombinator.com/item?id=40226910) - [Cheating Site Ashley Madison Is Overflowing with Sextortionists](https://gizmodo.com/ashley-madison-ftc-sextortion-blackmail-paypal-facebook-1851444552)
+* [2024-05-01, 18:02:59](https://news.ycombinator.com/item?id=40226897) - [Ask HN: Guidelines for making clear architecture diagrams](https://news.ycombinator.com/item?id=40226897)
 * [2024-05-01, 18:00:44](https://news.ycombinator.com/item?id=40226863) - [Xamarin has reached End of Support](https://dotnet.microsoft.com/en-us/platform/support/policy/xamarin)
 * [2024-05-01, 17:36:25](https://news.ycombinator.com/item?id=40226529) - [Google lays off hundreds of ‘Core’ employees](https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html)
 * [2024-05-01, 17:33:31](https://news.ycombinator.com/item?id=40226478) - [Eight Feet Jolted a $180M Real Estate Deal](https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html)
