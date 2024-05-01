@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-01, 12:00:48",
+      "https://news.ycombinator.com/item?id=40222056"
+    ],
+    [
+      "Ashby (YC W19) Is Hiring EMs to Manage Teams Not Products",
+      "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 08:28:18",
       "https://news.ycombinator.com/item?id=40220851"
     ],
     [
       "Better and Faster Large Language Models via Multi-Token Prediction",
       "https://arxiv.org/abs/2404.19737"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 06:52:41",
+      "https://news.ycombinator.com/item?id=40220309"
+    ],
+    [
+      "The drinking fountain button is tragically misunderstood",
+      "https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Aboriginal Linux",
       "https://landley.net/aboriginal/about.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 00:11:11",
-      "https://news.ycombinator.com/item?id=40218030"
-    ],
-    [
-      "GPL all the things?",
-      "https://phpc.social/@ramsey/112356913082296324"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-04-30, 21:00:40",
-      "https://news.ycombinator.com/item?id=40216281"
-    ],
-    [
-      "RankScience (YC W17) is hiring to supercharge SEO for startups",
-      "https://remotejobs.org/companies/rankscience-remote-jobs"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 20:39:59",
       "https://news.ycombinator.com/item?id=40216057"
     ],
@@ -137,16 +137,6 @@
     [
       "Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters",
       "https://zju3dv.github.io/LoG_webpage/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 18:31:23",
-      "https://news.ycombinator.com/item?id=40214453"
-    ],
-    [
-      "The Fermat's Last Theorem Project",
-      "https://leanprover-community.github.io/blog/posts/FLT-announcement/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Calendar types in watches",
       "https://arslan.io/2024/04/29/calendar-types-in-watches/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 15:06:17",
+      "https://news.ycombinator.com/item?id=40199274"
+    ],
+    [
+      "Everything Curl",
+      "https://everything.curl.dev/"
     ]
   ],
   [
