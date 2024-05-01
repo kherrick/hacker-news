@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-01, 13:52:10",
+      "https://news.ycombinator.com/item?id=40223247"
+    ],
+    [
+      "Cracked Rabbit R1 APKs running on Android phone",
+      "https://twitter.com/MarcelD505/status/1785346490635878837"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 13:51:22",
+      "https://news.ycombinator.com/item?id=40223240"
+    ],
+    [
+      "What the data says about crime in the U.S.",
+      "https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 13:08:43",
       "https://news.ycombinator.com/item?id=40222649"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-05-01, 11:18:50",
-      "https://news.ycombinator.com/item?id=40221800"
-    ],
-    [
-      "The European Union's remarkable growth performance relative to the United States",
-      "https://www.bruegel.org/analysis/european-unions-remarkable-growth-performance-relative-united-states"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 10:04:47",
       "https://news.ycombinator.com/item?id=40221345"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2024-05-01, 00:07:08",
-      "https://news.ycombinator.com/item?id=40218021"
-    ],
-    [
-      "StoryDiffusion: Long-range image and video generation",
-      "https://storydiffusion.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 00:04:07",
       "https://news.ycombinator.com/item?id=40217998"
     ],
     [
       "Show HN: Browser-based web design platform with code import and CSS filters",
       "https://demo.gocodestudio.com/studio/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 23:25:52",
-      "https://news.ycombinator.com/item?id=40217699"
-    ],
-    [
-      "Building a Large Japanese Web Corpus for Large Language Models",
-      "https://arxiv.org/abs/2404.17733"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Everything Curl",
       "https://everything.curl.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 10:55:22",
+      "https://news.ycombinator.com/item?id=40196760"
+    ],
+    [
+      "Show HN: React Bricks, The only headless CMS with true Visual Editing",
+      "https://www.reactbricks.com/"
     ]
   ]
 ]
