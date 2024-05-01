@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 09:22:23](https://news.ycombinator.com/item?id=40221108) - [Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 * [2024-05-01, 07:56:31](https://news.ycombinator.com/item?id=40220648) - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 * [2024-05-01, 05:59:01](https://news.ycombinator.com/item?id=40220004) - [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)

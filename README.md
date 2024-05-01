@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-01, 09:22:23](https://news.ycombinator.com/item?id=40221108) - [Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 * [2024-05-01, 07:56:31](https://news.ycombinator.com/item?id=40220648) - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 * [2024-05-01, 04:22:16](https://news.ycombinator.com/item?id=40219472) - [Beware of fake beaches (Pokémon Go)](https://community.openstreetmap.org/t/beware-of-fake-beaches-pokemon-go/112413)
@@ -28,7 +29,6 @@
 * [2024-04-30, 09:12:27](https://news.ycombinator.com/item?id=40208800) - [Show HN: Roast my SQLite encryption at-rest](https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum)
 * [2024-04-29, 23:59:55](https://news.ycombinator.com/item?id=40205714) - [Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
 * [2024-04-29, 18:39:33](https://news.ycombinator.com/item?id=40202203) - [The IMEI Code: Your phone’s other number](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)
-* [2024-04-29, 17:43:51](https://news.ycombinator.com/item?id=40201528) - [Calendar types in watches](https://arslan.io/2024/04/29/calendar-types-in-watches/)
 * [2024-04-29, 05:41:14](https://news.ycombinator.com/item?id=40194842) - [FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020)](https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption)
 
 ## [Archives](archives/index.md)
