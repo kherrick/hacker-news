@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-01, 18:06:29](https://news.ycombinator.com/item?id=40226934) - [Windows 10 reaches 70% market share as Windows 11 keeps declining](https://www.neowin.net/news/windows-10-reaches-70-market-share-as-windows-11-keeps-declining/)
+* [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH, and exclusively through SSH](https://www.terminal.shop/)
 * [2024-05-01, 18:04:35](https://news.ycombinator.com/item?id=40226913) - [The $21B influencer industry has gone off the rails](https://www.businessinsider.com/influencer-industry-marketing-fraud-discrimination-unethical-deals-content-creators-brands-2024-4)
-* [2024-05-01, 18:00:44](https://news.ycombinator.com/item?id=40226863) - [Xamarin has reached End of Support](https://dotnet.microsoft.com/en-us/platform/support/policy/xamarin)
 * [2024-05-01, 17:33:31](https://news.ycombinator.com/item?id=40226478) - [Eight Feet Jolted a $180M Real Estate Deal](https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html)
 * [2024-05-01, 17:01:07](https://news.ycombinator.com/item?id=40226023) - [Hatchet (YC W24) is hiring a founding engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [BASIC turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
@@ -25,6 +24,7 @@
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-05-01, 03:25:58](https://news.ycombinator.com/item?id=40219172) - [CERN's Exabyte Data Center](https://blog.westerndigital.com/inside-cerns-exabyte-data-center/)
 * [2024-05-01, 03:16:49](https://news.ycombinator.com/item?id=40219131) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
+* [2024-04-30, 22:54:16](https://news.ycombinator.com/item?id=40217453) - [The Rabbit R1 is probably running Android and is powered by an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem (2021)](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
