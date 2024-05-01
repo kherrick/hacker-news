@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-01, 04:54:28](https://news.ycombinator.com/item?id=40219642) - [Negative-mass exciton polaritons induced by light-matter coupling semiconductor](https://www.nature.com/articles/s41467-023-36618-6)
 * [2024-05-01, 04:29:05](https://news.ycombinator.com/item?id=40219510) - [Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)
 * [2024-05-01, 03:40:02](https://news.ycombinator.com/item?id=40219263) - [Why is simple decoration so rare in recent work?](https://www.benlandautaylor.com/p/why-we-cant-have-nice-things)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-05-01, 03:29:34](https://news.ycombinator.com/item?id=40219201) - [DEA Accepts Health Agency's Recommendation to Reclassify Cannabis](https://norml.org/blog/2024/04/30/dea-accepts-health-agencys-recommendation-to-reclassify-cannabis/)
 * [2024-05-01, 01:17:10](https://news.ycombinator.com/item?id=40218463) - [Figma OSS Alternative](https://penpot.app/)
 * [2024-05-01, 01:16:37](https://news.ycombinator.com/item?id=40218461) - [Boeing engineer tells senate about 'manufacturing shortcuts' [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
-* [2024-05-01, 00:11:11](https://news.ycombinator.com/item?id=40218030) - [GPL all the things?](https://phpc.social/@ramsey/112356913082296324)
 * [2024-05-01, 00:07:08](https://news.ycombinator.com/item?id=40218021) - [StoryDiffusion: Long-range image and video generation](https://storydiffusion.github.io/)
 * [2024-05-01, 00:04:07](https://news.ycombinator.com/item?id=40217998) - [Show HN: Browser-based web design platform with code import and CSS filters](https://demo.gocodestudio.com/studio/)
 * [2024-04-30, 23:25:52](https://news.ycombinator.com/item?id=40217699) - [Building a Large Japanese Web Corpus for Large Language Models](https://arxiv.org/abs/2404.17733)
