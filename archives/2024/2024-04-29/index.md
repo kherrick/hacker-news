@@ -85,6 +85,7 @@
 * [2024-04-29, 12:34:20](https://news.ycombinator.com/item?id=40197463) - [Mixtral 8x7B going 378 tokens per second on CPU](https://twitter.com/JustineTunney/status/1784619347119591615)
 * [2024-04-29, 12:19:38](https://news.ycombinator.com/item?id=40197346) - [What's Going on with 'Nonplussed'?](https://www.merriam-webster.com/grammar/nonplussed)
 * [2024-04-29, 12:10:47](https://news.ycombinator.com/item?id=40197277) - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
+* [2024-04-29, 12:03:10](https://news.ycombinator.com/item?id=40197235) - [Quacker News](http://quackernews.com/)
 * [2024-04-29, 12:00:34](https://news.ycombinator.com/item?id=40197212) - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
 * [2024-04-29, 11:56:05](https://news.ycombinator.com/item?id=40197182) - [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
 * [2024-04-29, 11:30:51](https://news.ycombinator.com/item?id=40197013) - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
