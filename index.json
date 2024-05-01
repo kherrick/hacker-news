@@ -41,52 +41,12 @@
   ],
   [
     [
-      "2024-05-01, 19:32:09",
-      "https://news.ycombinator.com/item?id=40228212"
-    ],
-    [
-      "At Microsoft, years of security debt come crashing down",
-      "https://www.cybersecuritydive.com/news/microsoft-security-debt-crashing-down/714685/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 19:23:16",
-      "https://news.ycombinator.com/item?id=40228068"
-    ],
-    [
-      "Dune 3D 1.1.0 Released",
-      "https://github.com/dune3d/dune3d/releases/tag/v1.1.0"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 19:18:49",
       "https://news.ycombinator.com/item?id=40228006"
     ],
     [
       "The Revenge of the Home Page",
       "https://www.newyorker.com/culture/infinite-scroll/the-revenge-of-the-home-page"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 19:09:08",
-      "https://news.ycombinator.com/item?id=40227853"
-    ],
-    [
-      "T-Mobile Completes Acquisition of Mint Mobile",
-      "https://www.t-mobile.com/news/business/t-mobile-closes-acquisition-mint-and-ultra-mobile"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 19:00:46",
-      "https://news.ycombinator.com/item?id=40227736"
-    ],
-    [
-      "The AWS S3 Denial of Wallet Amplification Attack",
-      "https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce"
     ]
   ],
   [
@@ -127,6 +87,16 @@
     [
       "2024 Verizon Data Breach Investigation Report [pdf]",
       "https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 15:42:12",
+      "https://news.ycombinator.com/item?id=40224864"
+    ],
+    [
+      "Evolving the Go Standard Library with math/rand/v2",
+      "https://go.dev/blog/randv2"
     ]
   ],
   [
@@ -187,6 +157,16 @@
     [
       "New findings point to an Earth-like environment on ancient Mars",
       "https://discover.lanl.gov/news/0501-ancient-mars/"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 12:49:38",
+      "https://news.ycombinator.com/item?id=40222429"
+    ],
+    [
+      "Theory of Constraints",
+      "https://en.wikipedia.org/wiki/Theory_of_constraints"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Printing Music with CSS Grid",
       "https://cruncher.ch/blog/printing-music-with-css-grid/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 17:29:18",
+      "https://news.ycombinator.com/item?id=40213562"
+    ],
+    [
+      "Show HN: I made an app that helps you find where to stream movies and TV shows",
+      "https://whereto.stream"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 14:54:45",
+      "https://news.ycombinator.com/item?id=40211655"
+    ],
+    [
+      "Pyinfra: Automate Infrastructure Using Python",
+      "https://pyinfra.com/"
     ]
   ],
   [
