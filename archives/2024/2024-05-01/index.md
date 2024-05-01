@@ -8,6 +8,7 @@
 * [2024-05-01, 19:32:09](https://news.ycombinator.com/item?id=40228212) - [At Microsoft, years of security debt come crashing down](https://www.cybersecuritydive.com/news/microsoft-security-debt-crashing-down/714685/)
 * [2024-05-01, 19:23:16](https://news.ycombinator.com/item?id=40228068) - [Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
 * [2024-05-01, 19:18:49](https://news.ycombinator.com/item?id=40228006) - [The Revenge of the Home Page](https://www.newyorker.com/culture/infinite-scroll/the-revenge-of-the-home-page)
+* [2024-05-01, 19:09:08](https://news.ycombinator.com/item?id=40227853) - [T-Mobile Completes Acquisition of Mint Mobile](https://www.t-mobile.com/news/business/t-mobile-closes-acquisition-mint-and-ultra-mobile)
 * [2024-05-01, 19:08:05](https://news.ycombinator.com/item?id=40227836) - [Stasi in the West](https://www.nakedcapitalism.com/2024/05/stasi-in-the-west.html)
 * [2024-05-01, 19:00:46](https://news.ycombinator.com/item?id=40227736) - [The AWS S3 Denial of Wallet Amplification Attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce)
 * [2024-05-01, 18:45:39](https://news.ycombinator.com/item?id=40227502) - [Fed Says Inflation Progress Has Stalled, Extends Wait-and-See Stance](https://www.wsj.com/economy/central-banking/fed-says-inflation-progress-has-stalled-and-extends-wait-and-see-rate-stance-51b74bbf)
