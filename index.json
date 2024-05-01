@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-01, 09:22:23",
-      "https://news.ycombinator.com/item?id=40221108"
-    ],
-    [
-      "Jeff Barr acknowledges S3 unauthorized request billing issue",
-      "https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 08:28:18",
       "https://news.ycombinator.com/item?id=40220851"
     ],
@@ -27,26 +17,6 @@
     [
       "Most clean power purchasing strategies do little to cut emissions",
       "https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 04:54:27",
-      "https://news.ycombinator.com/item?id=40219641"
-    ],
-    [
-      "My Love/Hate Relationship with Repetition",
-      "https://www.thindifference.com/2016/04/lovehate-relationship-repetition/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 04:22:16",
-      "https://news.ycombinator.com/item?id=40219472"
-    ],
-    [
-      "Beware of fake beaches (Pokémon Go)",
-      "https://community.openstreetmap.org/t/beware-of-fake-beaches-pokemon-go/112413"
     ]
   ],
   [
@@ -81,26 +51,6 @@
   ],
   [
     [
-      "2024-05-01, 01:17:10",
-      "https://news.ycombinator.com/item?id=40218463"
-    ],
-    [
-      "Figma OSS Alternative",
-      "https://penpot.app/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 01:06:33",
-      "https://news.ycombinator.com/item?id=40218410"
-    ],
-    [
-      "The 150x PGVector Speedup",
-      "https://jkatz05.com/post/postgres/pgvector-performance-150x-speedup/"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 00:22:06",
       "https://news.ycombinator.com/item?id=40218095"
     ],
@@ -131,12 +81,32 @@
   ],
   [
     [
+      "2024-05-01, 00:04:07",
+      "https://news.ycombinator.com/item?id=40217998"
+    ],
+    [
+      "Show HN: Browser-based web design platform with code import and CSS filters",
+      "https://demo.gocodestudio.com/studio/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 23:25:52",
       "https://news.ycombinator.com/item?id=40217699"
     ],
     [
       "Building a Large Japanese Web Corpus for Large Language Models",
       "https://arxiv.org/abs/2404.17733"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 21:04:33",
+      "https://news.ycombinator.com/item?id=40216323"
+    ],
+    [
+      "Virtual Power Plants and Software",
+      "https://stephendeyoung.substack.com/p/virtual-power-plants-and-software"
     ]
   ],
   [
@@ -167,6 +137,16 @@
     [
       "Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters",
       "https://zju3dv.github.io/LoG_webpage/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 18:36:19",
+      "https://news.ycombinator.com/item?id=40214525"
+    ],
+    [
+      "How ECMO is redefining death",
+      "https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2024-04-30, 02:48:43",
+      "https://news.ycombinator.com/item?id=40206752"
+    ],
+    [
+      "Why SQLite Uses Bytecode",
+      "https://sqlite.org/draft/whybytecode.html"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 23:59:55",
       "https://news.ycombinator.com/item?id=40205714"
     ],
@@ -277,6 +267,16 @@
     [
       "The IMEI Code: Your phone’s other number",
       "https://tedium.co/2024/04/27/mobile-phone-imei-number-history/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 17:58:22",
+      "https://news.ycombinator.com/item?id=40201729"
+    ],
+    [
+      "Tour of CLIPS (2022)",
+      "https://ryjo.codes/tour-of-clips.html"
     ]
   ],
   [
