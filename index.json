@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-01, 14:16:28",
+      "https://news.ycombinator.com/item?id=40223571"
+    ],
+    [
+      "Google urges US to update immigration rules to attract more AI talent",
+      "https://www.theverge.com/2024/5/1/24146053/google-ai-talent-immigration-schedule-a"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 13:59:05",
+      "https://news.ycombinator.com/item?id=40223339"
+    ],
+    [
+      "Bing climbs to 13% of search engine market share in the US",
+      "https://twitter.com/nonmayorpete/status/1785520317995049192"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 13:56:38",
       "https://news.ycombinator.com/item?id=40223312"
     ],
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2024-05-01, 06:52:41",
+      "https://news.ycombinator.com/item?id=40220309"
+    ],
+    [
+      "The drinking fountain button is tragically misunderstood",
+      "https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 03:30:47",
       "https://news.ycombinator.com/item?id=40219205"
     ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2024-05-01, 00:04:07",
-      "https://news.ycombinator.com/item?id=40217998"
-    ],
-    [
-      "Show HN: Browser-based web design platform with code import and CSS filters",
-      "https://demo.gocodestudio.com/studio/"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 20:39:59",
       "https://news.ycombinator.com/item?id=40216057"
     ],
     [
       "Printing Music with CSS Grid",
       "https://cruncher.ch/blog/printing-music-with-css-grid/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 17:43:12",
-      "https://news.ycombinator.com/item?id=40213731"
-    ],
-    [
-      "The File Filesystem (2021)",
-      "https://mgree.github.io/ffs/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Pyinfra: Automate Infrastructure Using Python",
       "https://pyinfra.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 13:11:16",
-      "https://news.ycombinator.com/item?id=40210627"
-    ],
-    [
-      "Show HN: I made a CLI tool to create web extensions with no build configuration",
-      "https://github.com/cezaraugusto/extension.js"
     ]
   ],
   [
