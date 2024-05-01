@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-01, 19:23:16",
+      "https://news.ycombinator.com/item?id=40228068"
+    ],
+    [
+      "Dune 3D 1.1.0 Released",
+      "https://github.com/dune3d/dune3d/releases/tag/v1.1.0"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 19:08:05",
       "https://news.ycombinator.com/item?id=40227836"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2024-05-01, 18:31:52",
-      "https://news.ycombinator.com/item?id=40227292"
-    ],
-    [
-      "R/Java bans Kevin Bourrillion because he mentioned another programming language",
-      "https://twitter.com/kevinb9n/status/1785066830966690126"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 18:26:33",
       "https://news.ycombinator.com/item?id=40227208"
     ],
     [
       "New startup sells coffee through SSH, and exclusively through SSH",
       "https://www.terminal.shop/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 18:04:35",
-      "https://news.ycombinator.com/item?id=40226913"
-    ],
-    [
-      "The $21B influencer industry has gone off the rails",
-      "https://www.businessinsider.com/influencer-industry-marketing-fraud-discrimination-unethical-deals-content-creators-brands-2024-4"
     ]
   ],
   [
@@ -111,12 +101,32 @@
   ],
   [
     [
+      "2024-05-01, 15:09:16",
+      "https://news.ycombinator.com/item?id=40224368"
+    ],
+    [
+      "The Dangerous Rise of GPS Attacks",
+      "https://www.wired.com/story/the-dangerous-rise-of-gps-attacks/"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 15:00:54",
       "https://news.ycombinator.com/item?id=40224213"
     ],
     [
       "Ask HN: Who is hiring? (May 2024)",
       "https://news.ycombinator.com/item?id=40224213"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 15:00:53",
+      "https://news.ycombinator.com/item?id=40224211"
+    ],
+    [
+      "Ask HN: Freelancer? Seeking freelancer? (May 2024)",
+      "https://news.ycombinator.com/item?id=40224211"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "LLMs can't do probability",
       "https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 08:28:18",
-      "https://news.ycombinator.com/item?id=40220851"
-    ],
-    [
-      "Better and Faster Large Language Models via Multi-Token Prediction",
-      "https://arxiv.org/abs/2404.19737"
     ]
   ],
   [
