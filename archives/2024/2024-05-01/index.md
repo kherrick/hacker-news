@@ -35,6 +35,7 @@
 * [2024-05-01, 09:29:32](https://news.ycombinator.com/item?id=40221154) - [LLMs Can't Do Probability](https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/)
 * [2024-05-01, 09:22:23](https://news.ycombinator.com/item?id=40221108) - [Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
+* [2024-05-01, 08:03:08](https://news.ycombinator.com/item?id=40220699) - [Show HN: I've build a stupidly simple invoicing for freelancers and contractors](https://onigiri.one/)
 * [2024-05-01, 07:56:31](https://news.ycombinator.com/item?id=40220648) - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 * [2024-05-01, 06:52:41](https://news.ycombinator.com/item?id=40220309) - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
 * [2024-05-01, 05:59:01](https://news.ycombinator.com/item?id=40220004) - [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)
