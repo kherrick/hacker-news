@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-01, 05:59:01](https://news.ycombinator.com/item?id=40220004) - [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)
 * [2024-05-01, 05:26:24](https://news.ycombinator.com/item?id=40219804) - [A Strong U.S. Dollar Weighs on the World](https://www.nytimes.com/2024/04/29/business/a-strong-us-dollar-weighs-on-the-world.html)
 * [2024-05-01, 04:38:35](https://news.ycombinator.com/item?id=40219555) - [Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
 * [2024-05-01, 04:29:05](https://news.ycombinator.com/item?id=40219510) - [Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)
@@ -26,7 +27,6 @@
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 * [2024-04-30, 13:11:16](https://news.ycombinator.com/item?id=40210627) - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 * [2024-04-29, 23:59:55](https://news.ycombinator.com/item?id=40205714) - [Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
-* [2024-04-29, 18:39:33](https://news.ycombinator.com/item?id=40202203) - [The IMEI Code: Your phone’s other number](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)
 * [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Tour of CLIPS (2022)](https://ryjo.codes/tour-of-clips.html)
 * [2024-04-29, 05:41:14](https://news.ycombinator.com/item?id=40194842) - [FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020)](https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption)
 * [2024-04-28, 21:47:20](https://news.ycombinator.com/item?id=40192303) - [Kevin Kelly: 101 Additional Advices](https://kk.org/thetechnium/101-additional-advices/)
