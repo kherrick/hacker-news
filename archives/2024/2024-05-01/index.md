@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 02:58:39](https://news.ycombinator.com/item?id=40219057) - [A CSS framework for recreating Windows 7 UI](https://khang-nd.github.io/7.css/)
 * [2024-05-01, 02:28:07](https://news.ycombinator.com/item?id=40218896) - [Express 5.0 – Last Push](https://github.com/expressjs/discussions/issues/233)
 * [2024-05-01, 01:16:37](https://news.ycombinator.com/item?id=40218461) - [Boeing engineer tells senate about 'manufacturing shortcuts' [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
 * [2024-05-01, 01:03:32](https://news.ycombinator.com/item?id=40218403) - [Apple to unveil AI-enabled Safari alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems)

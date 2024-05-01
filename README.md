@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-01, 02:58:39](https://news.ycombinator.com/item?id=40219057) - [A CSS framework for recreating Windows 7 UI](https://khang-nd.github.io/7.css/)
 * [2024-05-01, 02:28:07](https://news.ycombinator.com/item?id=40218896) - [Express 5.0 – Last Push](https://github.com/expressjs/discussions/issues/233)
 * [2024-05-01, 01:16:37](https://news.ycombinator.com/item?id=40218461) - [Boeing engineer tells senate about 'manufacturing shortcuts' [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
 * [2024-05-01, 01:03:32](https://news.ycombinator.com/item?id=40218403) - [Apple to unveil AI-enabled Safari alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems)
@@ -7,7 +8,6 @@
 * [2024-05-01, 00:22:06](https://news.ycombinator.com/item?id=40218095) - [Aboriginal Linux](https://landley.net/aboriginal/about.html)
 * [2024-05-01, 00:07:08](https://news.ycombinator.com/item?id=40218021) - [StoryDiffusion: Long-range image and video generation](https://storydiffusion.github.io/)
 * [2024-04-30, 23:29:45](https://news.ycombinator.com/item?id=40217725) - [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
-* [2024-04-30, 23:25:52](https://news.ycombinator.com/item?id=40217699) - [Building a Large Japanese Web Corpus for Large Language Models](https://arxiv.org/abs/2404.17733)
 * [2024-04-30, 22:15:38](https://news.ycombinator.com/item?id=40217093) - [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
 * [2024-04-30, 21:00:40](https://news.ycombinator.com/item?id=40216281) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
