@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 14:16:28](https://news.ycombinator.com/item?id=40223571) - [Google urges US to update immigration rules to attract more AI talent](https://www.theverge.com/2024/5/1/24146053/google-ai-talent-immigration-schedule-a)
+* [2024-05-01, 13:59:05](https://news.ycombinator.com/item?id=40223339) - [Bing climbs to 13% of search engine market share in the US](https://twitter.com/nonmayorpete/status/1785520317995049192)
 * [2024-05-01, 13:56:38](https://news.ycombinator.com/item?id=40223312) - [Higher-paid employees looking for work are having a tough time](https://www.businessinsider.com/job-market-high-pay-employees-labor-economy-finding-work-2024-4)
 * [2024-05-01, 13:52:29](https://news.ycombinator.com/item?id=40223253) - [Tire toxicity faces fresh scrutiny after salmon die-offs](https://phys.org/news/2024-05-toxicity-fresh-scrutiny-salmon-die.html)
 * [2024-05-01, 13:52:10](https://news.ycombinator.com/item?id=40223247) - [Cracked Rabbit R1 APKs running on Android phone](https://twitter.com/MarcelD505/status/1785346490635878837)
