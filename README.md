@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-01, 12:35:20](https://news.ycombinator.com/item?id=40222273) - [Two giants in the satellite telecom industry join forces to counter Starlink](https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/)
 * [2024-05-01, 12:26:10](https://news.ycombinator.com/item?id=40222213) - [Show HN: I've forked neofetch to keep it alive](https://github.com/LorenDB/neofetch)
 * [2024-05-01, 12:02:46](https://news.ycombinator.com/item?id=40222067) - [Please Don't Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 12:00:48](https://news.ycombinator.com/item?id=40222056) - [Ashby (YC W19) Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+* [2024-05-01, 11:41:25](https://news.ycombinator.com/item?id=40221925) - [Single Citrix Compromised Credential Results in $22M Ransom](https://www.infostealers.com/article/single-citrix-compromised-credential-results-in-22000000-ransom-to-change-healthcare/)
 * [2024-05-01, 11:18:50](https://news.ycombinator.com/item?id=40221800) - [The European Union's remarkable growth performance relative to the United States](https://www.bruegel.org/analysis/european-unions-remarkable-growth-performance-relative-united-states)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 * [2024-05-01, 06:52:41](https://news.ycombinator.com/item?id=40220309) - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
-* [2024-05-01, 04:02:33](https://news.ycombinator.com/item?id=40219386) - [Resistance against London tube map commit history (a.k.a. git merge hell) (2015)](https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-05-01, 03:16:49](https://news.ycombinator.com/item?id=40219131) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 * [2024-05-01, 00:22:06](https://news.ycombinator.com/item?id=40218095) - [Aboriginal Linux](https://landley.net/aboriginal/about.html)
@@ -29,7 +30,6 @@
 * [2024-04-29, 18:39:33](https://news.ycombinator.com/item?id=40202203) - [The IMEI Code: Your phone’s other number](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)
 * [2024-04-29, 17:43:51](https://news.ycombinator.com/item?id=40201528) - [Calendar types in watches](https://arslan.io/2024/04/29/calendar-types-in-watches/)
 * [2024-04-29, 15:06:17](https://news.ycombinator.com/item?id=40199274) - [Everything Curl](https://everything.curl.dev/)
-* [2024-04-29, 05:41:14](https://news.ycombinator.com/item?id=40194842) - [FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020)](https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption)
 
 ## [Archives](archives/index.md)
 
