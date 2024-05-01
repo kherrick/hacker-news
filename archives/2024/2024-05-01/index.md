@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 19:23:16](https://news.ycombinator.com/item?id=40228068) - [Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
 * [2024-05-01, 19:08:05](https://news.ycombinator.com/item?id=40227836) - [Stasi in the West](https://www.nakedcapitalism.com/2024/05/stasi-in-the-west.html)
 * [2024-05-01, 18:42:46](https://news.ycombinator.com/item?id=40227462) - [Israel tells U.S. retaliation would loom over Palestinians if ICC issues warrant](https://www.axios.com/2024/05/01/us-israel-palestinian-authority-icc-arrest-warrant)
 * [2024-05-01, 18:31:52](https://news.ycombinator.com/item?id=40227292) - [R/Java bans Kevin Bourrillion because he mentioned another programming language](https://twitter.com/kevinb9n/status/1785066830966690126)
@@ -23,8 +24,10 @@
 * [2024-05-01, 15:28:53](https://news.ycombinator.com/item?id=40224659) - [Claude AI launches on iOS (Android coming soon)](https://www.anthropic.com/news/team-plan-and-ios)
 * [2024-05-01, 15:23:06](https://news.ycombinator.com/item?id=40224578) - [Are We Modules Yet?](https://arewemodulesyet.org/)
 * [2024-05-01, 15:11:02](https://news.ycombinator.com/item?id=40224399) - [Man tried and failed to steal a cigarette, has spent 18 years in prison for it](https://www.theguardian.com/uk-news/2024/may/01/martin-myers-tried-and-failed-to-steal-a-cigarette-why-has-he-spent-18-years-in-prison-for-it)
+* [2024-05-01, 15:09:16](https://news.ycombinator.com/item?id=40224368) - [The Dangerous Rise of GPS Attacks](https://www.wired.com/story/the-dangerous-rise-of-gps-attacks/)
 * [2024-05-01, 15:04:38](https://news.ycombinator.com/item?id=40224292) - [Show HN: MuscleWiki Workout Generator – Generate unique workouts](https://musclewiki.com/workout-generator)
 * [2024-05-01, 15:00:54](https://news.ycombinator.com/item?id=40224213) - [Ask HN: Who is hiring? (May 2024)](https://news.ycombinator.com/item?id=40224213)
+* [2024-05-01, 15:00:53](https://news.ycombinator.com/item?id=40224211) - [Ask HN: Freelancer? Seeking freelancer? (May 2024)](https://news.ycombinator.com/item?id=40224211)
 * [2024-05-01, 15:00:52](https://news.ycombinator.com/item?id=40224210) - [Ask HN: Who wants to be hired? (May 2024)](https://news.ycombinator.com/item?id=40224210)
 * [2024-05-01, 14:56:21](https://news.ycombinator.com/item?id=40224148) - [Akiya houses: why Japan has nine million empty homes](https://www.theguardian.com/world/2024/may/01/akyia-houses-why-japan-has-nine-million-empty-homes)
 * [2024-05-01, 14:40:37](https://news.ycombinator.com/item?id=40223921) - [CenturyLink left users with no service for two months, then billed them $239](https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/)
