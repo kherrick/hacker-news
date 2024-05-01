@@ -7,6 +7,7 @@
 * [2024-05-01, 03:40:13](https://news.ycombinator.com/item?id=40219265) - [Meta: Iterative Reasoning Preference Optimization](https://arxiv.org/abs/2404.19733)
 * [2024-05-01, 02:58:39](https://news.ycombinator.com/item?id=40219057) - [A CSS framework for recreating Windows 7 UI](https://khang-nd.github.io/7.css/)
 * [2024-05-01, 02:28:07](https://news.ycombinator.com/item?id=40218896) - [Express 5.0 – Last Push](https://github.com/expressjs/discussions/issues/233)
+* [2024-05-01, 01:17:10](https://news.ycombinator.com/item?id=40218463) - [Figma OSS Alternative](https://penpot.app/)
 * [2024-05-01, 01:16:37](https://news.ycombinator.com/item?id=40218461) - [Boeing engineer tells senate about 'manufacturing shortcuts' [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
 * [2024-05-01, 01:03:32](https://news.ycombinator.com/item?id=40218403) - [Apple to unveil AI-enabled Safari alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems)
 * [2024-05-01, 01:03:27](https://news.ycombinator.com/item?id=40218401) - [NixOS Foundation board: Giving power to the community](https://discourse.nixos.org/t/nixos-foundation-board-giving-power-to-the-community/44552)
@@ -15,3 +16,4 @@
 * [2024-05-01, 00:22:06](https://news.ycombinator.com/item?id=40218095) - [Aboriginal Linux](https://landley.net/aboriginal/about.html)
 * [2024-05-01, 00:11:11](https://news.ycombinator.com/item?id=40218030) - [Maybe it's just time to say \"fuck it\" and GPL all the things?](https://phpc.social/@ramsey/112356913082296324)
 * [2024-05-01, 00:07:08](https://news.ycombinator.com/item?id=40218021) - [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Gen](https://storydiffusion.github.io/)
+* [2024-05-01, 00:04:07](https://news.ycombinator.com/item?id=40217998) - [Show HN: Browser-based web design platform with code import and CSS filters](https://demo.gocodestudio.com/studio/)
