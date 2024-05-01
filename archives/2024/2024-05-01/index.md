@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
 * [2024-05-01, 15:28:53](https://news.ycombinator.com/item?id=40224659) - [Claude AI launches on iOS (Android coming soon)](https://www.anthropic.com/news/team-plan-and-ios)
+* [2024-05-01, 15:23:06](https://news.ycombinator.com/item?id=40224578) - [Are We Modules Yet?](https://arewemodulesyet.org/)
 * [2024-05-01, 15:11:02](https://news.ycombinator.com/item?id=40224399) - [Man tried and failed to steal a cigarette, has spent 18 years in prison for it](https://www.theguardian.com/uk-news/2024/may/01/martin-myers-tried-and-failed-to-steal-a-cigarette-why-has-he-spent-18-years-in-prison-for-it)
 * [2024-05-01, 15:04:38](https://news.ycombinator.com/item?id=40224292) - [Show HN: MuscleWiki Workout Generator – Generate unique workouts](https://musclewiki.com/workout-generator)
 * [2024-05-01, 15:00:54](https://news.ycombinator.com/item?id=40224213) - [Ask HN: Who is hiring? (May 2024)](https://news.ycombinator.com/item?id=40224213)
+* [2024-05-01, 15:00:52](https://news.ycombinator.com/item?id=40224210) - [Ask HN: Who wants to be hired? (May 2024)](https://news.ycombinator.com/item?id=40224210)
 * [2024-05-01, 14:40:37](https://news.ycombinator.com/item?id=40223921) - [CenturyLink left users with no service for two months, then billed them $239](https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/)
 * [2024-05-01, 14:30:25](https://news.ycombinator.com/item?id=40223769) - [Virologist who was first to share Covid genome sleeps on street after lab shuts](https://www.nature.com/articles/d41586-024-01293-0)
 * [2024-05-01, 14:26:30](https://news.ycombinator.com/item?id=40223714) - [Pareto Efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency)
