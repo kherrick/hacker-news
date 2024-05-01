@@ -22,6 +22,7 @@
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 * [2024-04-30, 16:41:07](https://news.ycombinator.com/item?id=40213024) - [Enzymes open new path to universal donor blood](https://www.dtu.dk/english/newsarchive/2024/04/enzymes-open-new-path-to-universal-donor-blood)
+* [2024-04-30, 15:56:10](https://news.ycombinator.com/item?id=40212490) - [Pydantic Logfire](https://pydantic.dev/logfire)
 * [2024-04-30, 15:21:31](https://news.ycombinator.com/item?id=40211994) - [Show HN: I Built a Java IDE for iPad](https://apps.apple.com/de/app/codebrew-ide-for-java/id6475267297?l=en-GB)
 * [2024-04-30, 15:13:22](https://news.ycombinator.com/item?id=40211891) - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
 * [2024-04-30, 14:54:45](https://news.ycombinator.com/item?id=40211655) - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
@@ -29,7 +30,6 @@
 * [2024-04-29, 23:59:55](https://news.ycombinator.com/item?id=40205714) - [Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
 * [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Tour of CLIPS (2022)](https://ryjo.codes/tour-of-clips.html)
 * [2024-04-29, 05:41:14](https://news.ycombinator.com/item?id=40194842) - [FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020)](https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption)
-* [2024-04-28, 21:47:20](https://news.ycombinator.com/item?id=40192303) - [Kevin Kelly: 101 Additional Advices](https://kk.org/thetechnium/101-additional-advices/)
 
 ## [Archives](archives/index.md)
 
