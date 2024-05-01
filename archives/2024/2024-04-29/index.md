@@ -104,6 +104,7 @@
 * [2024-04-29, 08:56:17](https://news.ycombinator.com/item?id=40196115) - [Functional Semantics in Imperative Clothing (Richard Feldman)](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 08:48:31](https://news.ycombinator.com/item?id=40196068) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
 * [2024-04-29, 08:06:07](https://news.ycombinator.com/item?id=40195778) - [Country and Product Complexity Rankings](https://atlas.cid.harvard.edu/rankings)
+* [2024-04-29, 08:01:50](https://news.ycombinator.com/item?id=40195753) - [Intel says CPU stability problems caused by motherboard makers](https://www.igorslab.de/en/intel-releases-the-13th-and-14th-generation-k-sku-processor-instability-issue-update/)
 * [2024-04-29, 07:36:03](https://news.ycombinator.com/item?id=40195557) - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
 * [2024-04-29, 07:23:19](https://news.ycombinator.com/item?id=40195480) - [Open-source alternative to Heroku, Vercel, and Netlify](https://github.com/Dokploy/dokploy)
 * [2024-04-29, 07:08:23](https://news.ycombinator.com/item?id=40195391) - [StableVideo](https://stablevideo.work/)
