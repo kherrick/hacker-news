@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2024-05-01, 22:47:36",
-      "https://news.ycombinator.com/item?id=40230586"
+      "2024-05-01, 22:44:12",
+      "https://news.ycombinator.com/item?id=40230558"
     ],
     [
-      "Saudi Arabia activist sentenced to 11 years for 'support' of women's rights",
-      "https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 21:21:00",
-      "https://news.ycombinator.com/item?id=40229619"
-    ],
-    [
-      "Impressive Sora Demo Wasn't Made with Sora",
-      "https://futurism.com/the-byte/openai-sora-demo"
+      "The Adwaita Icon Theme no longer follows the FDO spec, breaking e.g. KDE apps",
+      "https://cullmann.io/posts/kate-and-icons/"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Eight Feet Jolted a $180M Real Estate Deal",
       "https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 16:39:09",
-      "https://news.ycombinator.com/item?id=40225674"
-    ],
-    [
-      "Paul Auster, American author of The New York Trilogy, dies aged 77",
-      "https://www.theguardian.com/books/2024/may/01/paul-auster-dies-aged-77-death-american-author-new-york-trilogy"
     ]
   ],
   [
@@ -161,16 +141,6 @@
   ],
   [
     [
-      "2024-05-01, 12:49:38",
-      "https://news.ycombinator.com/item?id=40222429"
-    ],
-    [
-      "Theory of Constraints",
-      "https://en.wikipedia.org/wiki/Theory_of_constraints"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 12:19:26",
       "https://news.ycombinator.com/item?id=40222175"
     ],
@@ -207,6 +177,16 @@
     [
       "LLMs can't do probability",
       "https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 08:28:18",
+      "https://news.ycombinator.com/item?id=40220851"
+    ],
+    [
+      "Better and Faster Large Language Models via Multi-Token Prediction",
+      "https://arxiv.org/abs/2404.19737"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-04-30, 17:43:12",
+      "https://news.ycombinator.com/item?id=40213731"
+    ],
+    [
+      "The File Filesystem (2021)",
+      "https://mgree.github.io/ffs/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 17:29:18",
       "https://news.ycombinator.com/item?id=40213562"
     ],
@@ -267,6 +257,16 @@
     [
       "Pyinfra: Automate Infrastructure Using Python",
       "https://pyinfra.com/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 10:33:15",
+      "https://news.ycombinator.com/item?id=40209382"
+    ],
+    [
+      "Tesla conducting more layoffs, including entire Supercharger team",
+      "https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/"
     ]
   ],
   [
