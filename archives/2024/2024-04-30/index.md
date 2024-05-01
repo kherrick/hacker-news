@@ -8,6 +8,7 @@
 * [2024-04-30, 23:25:52](https://news.ycombinator.com/item?id=40217699) - [Building a Large Japanese Web Corpus for Large Language Models](https://arxiv.org/abs/2404.17733)
 * [2024-04-30, 23:18:03](https://news.ycombinator.com/item?id=40217643) - [Google workers fired for protesting Israeli contract file NLRB complaint](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)
 * [2024-04-30, 22:54:16](https://news.ycombinator.com/item?id=40217453) - [Rabbit R1, a thing that should just be an app, is just an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
+* [2024-04-30, 22:41:54](https://news.ycombinator.com/item?id=40217334) - [Dream-HTML – render HTML, SVG, MathML, Htmx markup from OCaml](https://github.com/yawaramin/dream-html)
 * [2024-04-30, 22:16:08](https://news.ycombinator.com/item?id=40217096) - [Apple banned Delta for years. It's now America's Number 1 iPhone app.](https://www.washingtonpost.com/technology/2024/04/30/delta-emulator-iphone-apple-antitrust/)
 * [2024-04-30, 22:15:38](https://news.ycombinator.com/item?id=40217093) - [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
 * [2024-04-30, 21:06:00](https://news.ycombinator.com/item?id=40216339) - [FTC challenges 'junk' patents held by 10 drugmakers, incl Novo Nordisk's Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
