@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-05-01, 00:11:11",
+      "https://news.ycombinator.com/item?id=40218030"
+    ],
+    [
+      "GPL all the things?",
+      "https://phpc.social/@ramsey/112356913082296324"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 00:07:08",
       "https://news.ycombinator.com/item?id=40218021"
     ],
@@ -157,26 +167,6 @@
     [
       "Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters",
       "https://zju3dv.github.io/LoG_webpage/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 18:54:22",
-      "https://news.ycombinator.com/item?id=40214763"
-    ],
-    [
-      "Arti: A Tor Implementation in Rust",
-      "https://tpo.pages.torproject.net/core/arti/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 18:48:32",
-      "https://news.ycombinator.com/item?id=40214692"
-    ],
-    [
-      "Rama is a testament to the power of Clojure",
-      "https://blog.redplanetlabs.com/2024/04/30/rama-is-a-testament-to-the-power-of-clojure/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The IMEI Code: Your phone’s other number",
       "https://tedium.co/2024/04/27/mobile-phone-imei-number-history/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 17:43:51",
+      "https://news.ycombinator.com/item?id=40201528"
+    ],
+    [
+      "Calendar types in watches",
+      "https://arslan.io/2024/04/29/calendar-types-in-watches/"
     ]
   ],
   [
