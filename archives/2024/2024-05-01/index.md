@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 21:01:08](https://news.ycombinator.com/item?id=40229360) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
+* [2024-05-01, 20:56:03](https://news.ycombinator.com/item?id=40229307) - [The U.S. crime rate is still dropping, FBI data shows](https://www.nbcnews.com/news/crime-courts/us-crime-rate-still-dropping-says-fbi-rcna144100)
 * [2024-05-01, 19:45:54](https://news.ycombinator.com/item?id=40228401) - [Roblox players to start seeing video ads in its virtual realms](https://www.reuters.com/technology/roblox-players-start-seeing-video-ads-its-virtual-realms-2024-05-01/)
 * [2024-05-01, 19:32:09](https://news.ycombinator.com/item?id=40228212) - [At Microsoft, years of security debt come crashing down](https://www.cybersecuritydive.com/news/microsoft-security-debt-crashing-down/714685/)
 * [2024-05-01, 19:23:16](https://news.ycombinator.com/item?id=40228068) - [Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
