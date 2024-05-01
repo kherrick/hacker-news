@@ -35,6 +35,7 @@
 * [2024-05-01, 12:09:10](https://news.ycombinator.com/item?id=40222106) - [Google Search results polluted by buggy AI-written code frustrate coders](https://www.theregister.com/2024/05/01/pulumi_ai_pollution_of_search/)
 * [2024-05-01, 12:02:46](https://news.ycombinator.com/item?id=40222067) - [Please Don't Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 12:00:48](https://news.ycombinator.com/item?id=40222056) - [Ashby (YC W19) Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+* [2024-05-01, 12:00:10](https://news.ycombinator.com/item?id=40222051) - [Show HN: I'm 16 and building an AI based startup called Factful with friends](https://factful.io/)
 * [2024-05-01, 11:41:25](https://news.ycombinator.com/item?id=40221925) - [Single Citrix Compromised Credential Results in $22M Ransom](https://www.infostealers.com/article/single-citrix-compromised-credential-results-in-22000000-ransom-to-change-healthcare/)
 * [2024-05-01, 11:18:50](https://news.ycombinator.com/item?id=40221800) - [The European Union's remarkable growth performance relative to the United States](https://www.bruegel.org/analysis/european-unions-remarkable-growth-performance-relative-united-states)
 * [2024-05-01, 10:04:47](https://news.ycombinator.com/item?id=40221345) - [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://research.paulengstler.com/invisible-stitch/)
