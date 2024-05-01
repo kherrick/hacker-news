@@ -14,7 +14,7 @@
 * [2024-04-30, 21:00:40](https://news.ycombinator.com/item?id=40216281) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 19:45:36](https://news.ycombinator.com/item?id=40215424) - [Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
-* [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO is redefining death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
+* [2024-04-30, 18:31:23](https://news.ycombinator.com/item?id=40214453) - [The Fermat's Last Theorem Project](https://leanprover-community.github.io/blog/posts/FLT-announcement/)
 * [2024-04-30, 17:43:12](https://news.ycombinator.com/item?id=40213731) - [The File Filesystem (2021)](https://mgree.github.io/ffs/)
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
 * [2024-04-30, 17:03:36](https://news.ycombinator.com/item?id=40213292) - [Alice's adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
