@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 14:30:25](https://news.ycombinator.com/item?id=40223769) - [Virologist who was first to share Covid genome sleeps on street after lab shuts](https://www.nature.com/articles/d41586-024-01293-0)
+* [2024-05-01, 14:26:30](https://news.ycombinator.com/item?id=40223714) - [Pareto Efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency)
 * [2024-05-01, 14:16:28](https://news.ycombinator.com/item?id=40223571) - [Google urges US to update immigration rules to attract more AI talent](https://www.theverge.com/2024/5/1/24146053/google-ai-talent-immigration-schedule-a)
+* [2024-05-01, 14:16:05](https://news.ycombinator.com/item?id=40223561) - [Two Experts Advocate Monthly Stipends to Curb Black-on-Black Crime](https://theconversation.com/to-reduce-black-on-black-crime-two-criminal-justice-experts-explain-why-offering-monthly-stipends-to-people-at-risk-makes-sense-227539)
+* [2024-05-01, 14:08:48](https://news.ycombinator.com/item?id=40223457) - [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
 * [2024-05-01, 13:59:05](https://news.ycombinator.com/item?id=40223339) - [Bing climbs to 13% of search engine market share in the US](https://twitter.com/nonmayorpete/status/1785520317995049192)
 * [2024-05-01, 13:56:38](https://news.ycombinator.com/item?id=40223312) - [Higher-paid employees looking for work are having a tough time](https://www.businessinsider.com/job-market-high-pay-employees-labor-economy-finding-work-2024-4)
 * [2024-05-01, 13:52:29](https://news.ycombinator.com/item?id=40223253) - [Tire toxicity faces fresh scrutiny after salmon die-offs](https://phys.org/news/2024-05-toxicity-fresh-scrutiny-salmon-die.html)
