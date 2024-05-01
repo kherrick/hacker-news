@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 12:26:10](https://news.ycombinator.com/item?id=40222213) - [Show HN: I've forked neofetch to keep it alive](https://github.com/LorenDB/neofetch)
+* [2024-05-01, 12:02:46](https://news.ycombinator.com/item?id=40222067) - [Please Don't Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 12:00:48](https://news.ycombinator.com/item?id=40222056) - [Ashby (YC W19) Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+* [2024-05-01, 11:18:50](https://news.ycombinator.com/item?id=40221800) - [The European Union's remarkable growth performance relative to the United States](https://www.bruegel.org/analysis/european-unions-remarkable-growth-performance-relative-united-states)
 * [2024-05-01, 09:22:23](https://news.ycombinator.com/item?id=40221108) - [Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 * [2024-05-01, 07:56:31](https://news.ycombinator.com/item?id=40220648) - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
