@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
 * [2024-05-01, 17:36:25](https://news.ycombinator.com/item?id=40226529) - [Google lays off hundreds of ‘Core’ employees](https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html)
+* [2024-05-01, 17:33:31](https://news.ycombinator.com/item?id=40226478) - [Eight Feet Jolted a $180M Real Estate Deal](https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html)
 * [2024-05-01, 17:01:18](https://news.ycombinator.com/item?id=40226025) - [I Reviewed 1,000s of Opinions on Htmx](https://konfigthis.com/blog/htmx/)
 * [2024-05-01, 17:01:07](https://news.ycombinator.com/item?id=40226023) - [Hatchet (YC W24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
