@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-01, 05:59:01",
-      "https://news.ycombinator.com/item?id=40220004"
+      "2024-05-01, 08:28:18",
+      "https://news.ycombinator.com/item?id=40220851"
     ],
     [
-      "What if dreaming is the whole point of sleep?",
-      "https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp"
+      "Better and Faster Large Language Models via Multi-Token Prediction",
+      "https://arxiv.org/abs/2404.19737"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Kolmogorov-Arnold Networks",
       "https://github.com/KindXiaoming/pykan"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 03:28:34",
+      "https://news.ycombinator.com/item?id=40219194"
+    ],
+    [
+      "Rabbit R1 as an Android App",
+      "https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Aboriginal Linux",
       "https://landley.net/aboriginal/about.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 00:11:11",
+      "https://news.ycombinator.com/item?id=40218030"
+    ],
+    [
+      "GPL all the things?",
+      "https://phpc.social/@ramsey/112356913082296324"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "The File Filesystem (2021)",
       "https://mgree.github.io/ffs/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 17:32:00",
-      "https://news.ycombinator.com/item?id=40213591"
-    ],
-    [
-      "US drug control agency will move to reclassify marijuana",
-      "https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 17:30:33",
-      "https://news.ycombinator.com/item?id=40213570"
-    ],
-    [
-      "Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers",
-      "https://news.ycombinator.com/item?id=40213570"
     ]
   ],
   [
