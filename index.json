@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-01, 13:08:43",
+      "https://news.ycombinator.com/item?id=40222649"
+    ],
+    [
+      "Private EYES: How a tech company is expanding surveillance in public streets",
+      "https://www.newsobserver.com/news/state/north-carolina/article286920890.html"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 12:56:14",
       "https://news.ycombinator.com/item?id=40222501"
     ],
@@ -17,6 +27,16 @@
     [
       "Car manufacturers break promise about sharing location data with police",
       "https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 12:35:21",
+      "https://news.ycombinator.com/item?id=40222274"
+    ],
+    [
+      "US opens probe into 130k Ford vehicles over hands-free tech",
+      "https://www.reuters.com/business/autos-transportation/us-auto-regulator-opens-preliminary-evaluation-into-fords-mustang-mach-e-2024-04-29/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "How to install Linux from a Windows installer",
       "https://prose.nsood.in/linux-from-windows-installer"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 00:22:06",
-      "https://news.ycombinator.com/item?id=40218095"
-    ],
-    [
-      "Aboriginal Linux",
-      "https://landley.net/aboriginal/about.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: I made a CLI tool to create web extensions with no build configuration",
       "https://github.com/cezaraugusto/extension.js"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 09:12:27",
-      "https://news.ycombinator.com/item?id=40208800"
-    ],
-    [
-      "Show HN: Roast my SQLite encryption at-rest",
-      "https://github.com/ncruces/go-sqlite3/tree/main/vfs/adiantum"
     ]
   ],
   [
