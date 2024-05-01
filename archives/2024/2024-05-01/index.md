@@ -16,6 +16,7 @@
 * [2024-05-01, 18:31:52](https://news.ycombinator.com/item?id=40227292) - [R/Java bans Kevin Bourrillion because he mentioned another programming language](https://twitter.com/kevinb9n/status/1785066830966690126)
 * [2024-05-01, 18:26:54](https://news.ycombinator.com/item?id=40227212) - [Tesla retreats from one-piece \"gigacasting\" manufacturing process](https://www.reuters.com/business/autos-transportation/tesla-retreats-next-generation-gigacasting-manufacturing-process-2024-05-01/)
 * [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH, and exclusively through SSH](https://www.terminal.shop/)
+* [2024-05-01, 18:13:30](https://news.ycombinator.com/item?id=40227011) - [Ubuntu 24.04 LTS is so buggy you can't install the OS [video]](https://www.youtube.com/watch?v=g1__qfYXtv0)
 * [2024-05-01, 18:06:29](https://news.ycombinator.com/item?id=40226934) - [Windows 10 reaches 70% market share as Windows 11 keeps declining](https://www.neowin.net/news/windows-10-reaches-70-market-share-as-windows-11-keeps-declining/)
 * [2024-05-01, 18:04:35](https://news.ycombinator.com/item?id=40226913) - [The $21B influencer industry has gone off the rails](https://www.businessinsider.com/influencer-industry-marketing-fraud-discrimination-unethical-deals-content-creators-brands-2024-4)
 * [2024-05-01, 18:04:03](https://news.ycombinator.com/item?id=40226910) - [Cheating Site Ashley Madison Is Overflowing with Sextortionists](https://gizmodo.com/ashley-madison-ftc-sextortion-blackmail-paypal-facebook-1851444552)
