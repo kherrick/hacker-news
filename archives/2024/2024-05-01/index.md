@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 15:28:53](https://news.ycombinator.com/item?id=40224659) - [Claude AI launches on iOS (Android coming soon)](https://www.anthropic.com/news/team-plan-and-ios)
 * [2024-05-01, 15:11:02](https://news.ycombinator.com/item?id=40224399) - [Man tried and failed to steal a cigarette, has spent 18 years in prison for it](https://www.theguardian.com/uk-news/2024/may/01/martin-myers-tried-and-failed-to-steal-a-cigarette-why-has-he-spent-18-years-in-prison-for-it)
 * [2024-05-01, 15:00:54](https://news.ycombinator.com/item?id=40224213) - [Ask HN: Who is hiring? (May 2024)](https://news.ycombinator.com/item?id=40224213)
 * [2024-05-01, 14:40:37](https://news.ycombinator.com/item?id=40223921) - [CenturyLink left users with no service for two months, then billed them $239](https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/)
