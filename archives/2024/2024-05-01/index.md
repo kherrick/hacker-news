@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 21:21:56](https://news.ycombinator.com/item?id=40229633) - [McDonald's and other big brands warn that low-income consumers starting to crack](https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html)
 * [2024-05-01, 21:01:08](https://news.ycombinator.com/item?id=40229360) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 * [2024-05-01, 20:56:03](https://news.ycombinator.com/item?id=40229307) - [The U.S. crime rate is still dropping, FBI data shows](https://www.nbcnews.com/news/crime-courts/us-crime-rate-still-dropping-says-fbi-rcna144100)
+* [2024-05-01, 20:01:44](https://news.ycombinator.com/item?id=40228605) - [2markdown – Transform Websites into Markdown](https://2markdown.com/)
 * [2024-05-01, 19:45:54](https://news.ycombinator.com/item?id=40228401) - [Roblox players to start seeing video ads in its virtual realms](https://www.reuters.com/technology/roblox-players-start-seeing-video-ads-its-virtual-realms-2024-05-01/)
 * [2024-05-01, 19:32:09](https://news.ycombinator.com/item?id=40228212) - [At Microsoft, years of security debt come crashing down](https://www.cybersecuritydive.com/news/microsoft-security-debt-crashing-down/714685/)
 * [2024-05-01, 19:23:16](https://news.ycombinator.com/item?id=40228068) - [Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
@@ -19,6 +21,7 @@
 * [2024-05-01, 18:26:54](https://news.ycombinator.com/item?id=40227212) - [Tesla retreats from one-piece \"gigacasting\" manufacturing process](https://www.reuters.com/business/autos-transportation/tesla-retreats-next-generation-gigacasting-manufacturing-process-2024-05-01/)
 * [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH, and exclusively through SSH](https://www.terminal.shop/)
 * [2024-05-01, 18:13:30](https://news.ycombinator.com/item?id=40227011) - [Ubuntu 24.04 LTS is so buggy you can't install the OS [video]](https://www.youtube.com/watch?v=g1__qfYXtv0)
+* [2024-05-01, 18:10:03](https://news.ycombinator.com/item?id=40226976) - [Show HN: FileKitty – Combine and label text files for LLM prompt contexts](https://github.com/banagale/FileKitty)
 * [2024-05-01, 18:06:29](https://news.ycombinator.com/item?id=40226934) - [Windows 10 reaches 70% market share as Windows 11 keeps declining](https://www.neowin.net/news/windows-10-reaches-70-market-share-as-windows-11-keeps-declining/)
 * [2024-05-01, 18:04:35](https://news.ycombinator.com/item?id=40226913) - [The $21B influencer industry has gone off the rails](https://www.businessinsider.com/influencer-industry-marketing-fraud-discrimination-unethical-deals-content-creators-brands-2024-4)
 * [2024-05-01, 18:04:03](https://news.ycombinator.com/item?id=40226910) - [Cheating Site Ashley Madison Is Overflowing with Sextortionists](https://gizmodo.com/ashley-madison-ftc-sextortion-blackmail-paypal-facebook-1851444552)
