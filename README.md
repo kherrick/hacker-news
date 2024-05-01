@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-01, 19:23:16](https://news.ycombinator.com/item?id=40228068) - [Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
-* [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH, and exclusively through SSH](https://www.terminal.shop/)
+* [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH](https://www.terminal.shop/)
 * [2024-05-01, 18:04:03](https://news.ycombinator.com/item?id=40226910) - [Cheating Site Ashley Madison Is Overflowing with Sextortionists](https://gizmodo.com/ashley-madison-ftc-sextortion-blackmail-paypal-facebook-1851444552)
 * [2024-05-01, 17:33:31](https://news.ycombinator.com/item?id=40226478) - [Eight Feet Jolted a $180M Real Estate Deal](https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html)
 * [2024-05-01, 17:01:07](https://news.ycombinator.com/item?id=40226023) - [Hatchet (YC W24) is hiring a founding engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
