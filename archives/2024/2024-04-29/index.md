@@ -102,6 +102,7 @@
 * [2024-04-29, 10:21:34](https://news.ycombinator.com/item?id=40196565) - [Tougher rules for sellers of internet-enabled devices in the UK](https://www.bbc.co.uk/news/business-68917837)
 * [2024-04-29, 10:17:06](https://news.ycombinator.com/item?id=40196536) - [Why We Hate Working for Big Companies (2018)](https://lukekanies.com/writing/why-we-hate-working-for-big-companies/)
 * [2024-04-29, 10:12:30](https://news.ycombinator.com/item?id=40196507) - [Applying the Facade Pattern on Spotify for Artists](https://engineering.atspotify.com/2024/02/applying-the-facade-pattern-on-spotify-for-artists/)
+* [2024-04-29, 09:37:42](https://news.ycombinator.com/item?id=40196333) - [500 Byte Images: The Haiku Vector Icon Format (2016)](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [2024-04-29, 09:22:57](https://news.ycombinator.com/item?id=40196252) - [Russian GRU was behind the attack in Vrbětice, NCOZ confirms](https://www.bis.cz/aktuality/za-utokem-ve-vrbeticich-byla-ruska-gru-potvrdila-ncoz-48976dbe.html)
 * [2024-04-29, 08:56:17](https://news.ycombinator.com/item?id=40196115) - [Functional Semantics in Imperative Clothing (Richard Feldman)](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 08:48:31](https://news.ycombinator.com/item?id=40196068) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
