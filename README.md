@@ -13,7 +13,7 @@
 * [2024-05-02, 16:19:05](https://news.ycombinator.com/item?id=40237984) - [Longevity of Recordable CDs, DVDs and Blu-Rays (2020)](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
 * [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [To save it, eat it](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 16:06:34](https://news.ycombinator.com/item?id=40237826) - [Umbra: A Disk-Based System with In-Memory Performance [pdf]](https://www.cidrdb.org/cidr2020/papers/p29-neumann-cidr20.pdf)
-* [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course by Dan Boneh](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
+* [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course (2017)](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 * [2024-05-02, 15:44:51](https://news.ycombinator.com/item?id=40237546) - [Show HN: SpRAG – Open-source RAG implementation for challenging real-world tasks](https://github.com/SuperpoweredAI/spRAG)
 * [2024-05-02, 15:30:04](https://news.ycombinator.com/item?id=40237375) - [Show HN: I built a 100% free startup idea generator](https://supalaunch.com/tools/startup-idea-generator)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
