@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-02, 15:33:13](https://news.ycombinator.com/item?id=40237409) - [Google paid Apple $20B in 2022 alone for default status](https://nypost.com/2024/05/02/business/google-paid-apple-20b-in-2022-alone-for-default-status-docs/)
 * [2024-05-02, 14:41:21](https://news.ycombinator.com/item?id=40236859) - [The AI That Plugs Your Product on Reddit in Conversations](https://replyguy.com/)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
 * [2024-05-02, 14:21:59](https://news.ycombinator.com/item?id=40236637) - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
@@ -28,6 +27,7 @@
 * [2024-05-01, 08:14:18](https://news.ycombinator.com/item?id=40220769) - [How to Solve It (With Raycasting)](https://alicegg.tech//2024/05/01/how-to-solve-it.html)
 * [2024-05-01, 08:05:56](https://news.ycombinator.com/item?id=40220722) - [Takeaways from the Jane Street bond prospectus](https://www.ft.com/content/54671865-4c7f-4692-a879-867ef68f0bde)
 * [2024-05-01, 07:39:09](https://news.ycombinator.com/item?id=40220542) - [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
+* [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-04-29, 22:45:11](https://news.ycombinator.com/item?id=40205012) - [The Scientific Method Part 5: Illusions, Delusions, and Dreams](http://blog.rongarret.info/2024/04/the-scientific-method-part-5-illusions.html)
 * [2024-04-29, 18:08:43](https://news.ycombinator.com/item?id=40201865) - [A smooth and sharp image interpolation you probably haven't heard of](https://wordsandbuttons.online/a_smooth_and_sharp_image_interpolation.html)
 
