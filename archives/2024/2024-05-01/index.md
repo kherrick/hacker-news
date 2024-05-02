@@ -13,6 +13,7 @@
 * [2024-05-01, 22:47:36](https://news.ycombinator.com/item?id=40230586) - [Saudi Arabia activist sentenced to 11 years for 'support' of women's rights](https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court)
 * [2024-05-01, 22:45:16](https://news.ycombinator.com/item?id=40230569) - ['My country would disappear'](https://www.theguardian.com/australia-news/2024/apr/29/torres-strait-island-elders-climate-change-class-action)
 * [2024-05-01, 22:44:12](https://news.ycombinator.com/item?id=40230558) - [The Adwaita Icon Theme no longer follows the FDO spec, breaking e.g. KDE apps](https://cullmann.io/posts/kate-and-icons/)
+* [2024-05-01, 22:35:05](https://news.ycombinator.com/item?id=40230461) - [Immich Joins FUTO](https://immich.app/blog/2024/immich-core-team-goes-fulltime/)
 * [2024-05-01, 22:33:50](https://news.ycombinator.com/item?id=40230448) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-05-01, 22:24:22](https://news.ycombinator.com/item?id=40230354) - [Choosing the Right Audit Trail Approach in Ruby](https://blog.bemi.io/audit-trail-in-ruby/)
 * [2024-05-01, 21:30:06](https://news.ycombinator.com/item?id=40229747) - [Count Binface](https://www.countbinface.com)
