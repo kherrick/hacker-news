@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 16:35:07](https://news.ycombinator.com/item?id=40238175) - [Second Boeing whistleblower dies after raising concerns about 737 MAX](https://www.independent.co.uk/news/world/americas/boeing-whistleblower-dies-second-b2538563.html)
 * [2024-05-02, 16:10:49](https://news.ycombinator.com/item?id=40237883) - [Real-time AI using scalable non-expert crowdsourcing in colorectal surgery](https://www.nature.com/articles/s41746-024-01095-8)
+* [2024-05-02, 16:09:05](https://news.ycombinator.com/item?id=40237855) - [Wild orangutan seen healing his wound with a plant](https://www.bbc.co.uk/news/science-environment-68942123)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course by Dan Boneh](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 * [2024-05-02, 15:33:13](https://news.ycombinator.com/item?id=40237409) - [Google paid Apple $20B in 2022 alone for default status](https://nypost.com/2024/05/02/business/google-paid-apple-20b-in-2022-alone-for-default-status-docs/)
 * [2024-05-02, 15:11:53](https://news.ycombinator.com/item?id=40237221) - [Back in Stock? The State of Russia's Defense Industry After Two Years of the War](https://www.csis.org/analysis/back-stock-state-russias-defense-industry-after-two-years-war)
