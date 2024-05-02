@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
 * [2024-05-02, 18:51:31](https://news.ycombinator.com/item?id=40240037) - [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
+* [2024-05-02, 18:44:18](https://news.ycombinator.com/item?id=40239955) - [Asteroid that broke up over Berlin was fastest-spinning one ever seen](https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/)
 * [2024-05-02, 18:31:37](https://news.ycombinator.com/item?id=40239811) - [Independent publishers are being demoted to give way to big sites on Google](https://housefresh.com/how-google-decimated-housefresh/)
 * [2024-05-02, 18:02:54](https://news.ycombinator.com/item?id=40239389) - [Tesla's wafer-sized Dojo processor is in production – 25 chips combined into one](https://www.tomshardware.com/tech-industry/teslas-dojo-system-on-wafer-is-in-production-a-serious-processor-for-serious-ai-workloads)
 * [2024-05-02, 18:00:30](https://news.ycombinator.com/item?id=40239336) - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
