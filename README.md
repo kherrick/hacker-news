@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-02, 19:35:29](https://news.ycombinator.com/item?id=40240522) - [Will Cambridge support free speech? - Peter Singer on expelled Dr Cofnas](https://www.koreaherald.com/view.php?ud=20240415050845)
 * [2024-05-02, 18:51:31](https://news.ycombinator.com/item?id=40240037) - [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
 * [2024-05-02, 18:44:18](https://news.ycombinator.com/item?id=40239955) - [Asteroid that broke up over Berlin was fastest-spinning one ever seen](https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/)
 * [2024-05-02, 18:00:30](https://news.ycombinator.com/item?id=40239336) - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
@@ -27,7 +28,6 @@
 * [2024-05-02, 02:35:32](https://news.ycombinator.com/item?id=40232171) - [A blue mineral that grows on buried bodies and confuses archaeologists (2016)](https://www.atlasobscura.com/articles/vivianite-blue-human-remains)
 * [2024-05-02, 00:25:45](https://news.ycombinator.com/item?id=40231332) - [Hacking on PostgreSQL is hard](http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 * [2024-05-01, 23:17:39](https://news.ycombinator.com/item?id=40230790) - [Whistleblower Josh Dean of Boeing supplier Spirit AeroSystems has died](https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/)
-* [2024-05-01, 08:14:18](https://news.ycombinator.com/item?id=40220769) - [How to Solve It (With Raycasting)](https://alicegg.tech//2024/05/01/how-to-solve-it.html)
 * [2024-05-01, 07:39:09](https://news.ycombinator.com/item?id=40220542) - [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
 * [2024-04-29, 18:08:43](https://news.ycombinator.com/item?id=40201865) - [A smooth and sharp image interpolation you probably haven't heard of](https://wordsandbuttons.online/a_smooth_and_sharp_image_interpolation.html)
 
