@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 14:42:37](https://news.ycombinator.com/item?id=40236880) - [Iran charges journalists after BBC report on teen protester's death](https://www.bbc.com/news/articles/cnd6k8ggzn2o)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
 * [2024-05-02, 14:34:56](https://news.ycombinator.com/item?id=40236776) - [Microsoft Preview: Zero Trust DNS (Ztdns)](https://techcommunity.microsoft.com/t5/networking-blog/announcing-zero-trust-dns-private-preview/ba-p/4110366)
 * [2024-05-02, 14:21:59](https://news.ycombinator.com/item?id=40236637) - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
@@ -38,7 +39,9 @@
 * [2024-05-02, 05:11:25](https://news.ycombinator.com/item?id=40232903) - [Why I'm Resigning from the Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept)
 * [2024-05-02, 04:41:51](https://news.ycombinator.com/item?id=40232755) - [AI Photo Geolocation](https://geospy.ai/)
 * [2024-05-02, 04:29:01](https://news.ycombinator.com/item?id=40232706) - [Scientists Find a Fast Way to Describe Quantum Systems](https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/)
+* [2024-05-02, 03:46:11](https://news.ycombinator.com/item?id=40232492) - [How did Ancient Greek music sound?](https://twitter.com/classicstudies/status/1652226935718658051)
 * [2024-05-02, 03:42:01](https://news.ycombinator.com/item?id=40232472) - [How to Use SQLite as a NoSQL Store](https://rodydavis.com/sqlite/nosql)
+* [2024-05-02, 03:40:18](https://news.ycombinator.com/item?id=40232466) - [A Knight's Tale](https://blogs.bl.uk/digitisedmanuscripts/2024/04/a-knights-tale.html)
 * [2024-05-02, 03:32:39](https://news.ycombinator.com/item?id=40232423) - [Volcker's Announcement of Anti-Inflation Measures](https://www.federalreservehistory.org/essays/anti-inflation-measures)
 * [2024-05-02, 03:23:23](https://news.ycombinator.com/item?id=40232375) - [The Stripper Index: An unorthodox recession measurement](https://theamericangenius.com/tech-news/the-stripper-index-recession/)
 * [2024-05-02, 03:20:26](https://news.ycombinator.com/item?id=40232364) - [NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003)[pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
