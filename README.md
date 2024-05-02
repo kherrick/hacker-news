@@ -3,7 +3,7 @@
 * [2024-05-02, 08:11:27](https://news.ycombinator.com/item?id=40233841) - [Tesla slashes its summer internship program](https://fortune.com/2024/05/01/tesla-slashes-summer-internship-program/)
 * [2024-05-02, 07:58:48](https://news.ycombinator.com/item?id=40233786) - [Typewise (YC S22) is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
 * [2024-05-02, 07:58:38](https://news.ycombinator.com/item?id=40233784) - [The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
-* [2024-05-02, 07:52:14](https://news.ycombinator.com/item?id=40233746) - [Dropbox Sign Has Been Hacked](https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign)
+* [2024-05-02, 07:52:14](https://news.ycombinator.com/item?id=40233746) - [A recent security incident involving Dropbox Sign](https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign)
 * [2024-05-02, 05:38:42](https://news.ycombinator.com/item?id=40233029) - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
 * [2024-05-02, 05:11:25](https://news.ycombinator.com/item?id=40232903) - [Why I'm Resigning from the Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept)
 * [2024-05-02, 01:31:30](https://news.ycombinator.com/item?id=40231790) - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
