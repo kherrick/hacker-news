@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-02, 09:57:35",
+      "https://news.ycombinator.com/item?id=40234428"
+    ],
+    [
+      "Are young people smarter than adults? Research shows differences diminishing",
+      "https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 09:25:17",
+      "https://news.ycombinator.com/item?id=40234260"
+    ],
+    [
+      "I'm closing up shop on my Mastodon for the foreseeable future",
+      "https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 09:24:28",
       "https://news.ycombinator.com/item?id=40234254"
     ],
@@ -57,6 +77,26 @@
     [
       "A recent security incident involving Dropbox Sign",
       "https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 04:41:51",
+      "https://news.ycombinator.com/item?id=40232755"
+    ],
+    [
+      "AI Photo Geolocation",
+      "https://geospy.ai/"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 04:29:01",
+      "https://news.ycombinator.com/item?id=40232706"
+    ],
+    [
+      "Scientists Find a Fast Way to Describe Quantum Systems",
+      "https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-05-02, 00:41:24",
-      "https://news.ycombinator.com/item?id=40231452"
-    ],
-    [
-      "Mongoose IM 6.2.1 – Erlang Solutions robust, scalable and efficient XMPP server",
-      "https://github.com/esl/MongooseIM/releases/tag/6.2.1"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 23:41:24",
       "https://news.ycombinator.com/item?id=40230988"
     ],
@@ -167,26 +197,6 @@
     [
       "Choosing the Right Audit Trail Approach in Ruby",
       "https://blog.bemi.io/audit-trail-in-ruby/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 21:16:28",
-      "https://news.ycombinator.com/item?id=40229549"
-    ],
-    [
-      "Ask HN: Modern day equivalent to HyperCard?",
-      "https://news.ycombinator.com/item?id=40229549"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 18:26:33",
-      "https://news.ycombinator.com/item?id=40227208"
-    ],
-    [
-      "New startup sells coffee through SSH",
-      "https://www.terminal.shop/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2024-04-30, 17:40:19",
-      "https://news.ycombinator.com/item?id=40213683"
-    ],
-    [
-      "The California man who hid for 6 months in a secret room inside Circuit City",
-      "https://www.sfgate.com/bayarea/article/california-man-hid-months-secret-room-circuit-city-19422415.php"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 05:47:04",
       "https://news.ycombinator.com/item?id=40207607"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-04-29, 22:13:21",
-      "https://news.ycombinator.com/item?id=40204738"
+      "2024-04-29, 18:08:43",
+      "https://news.ycombinator.com/item?id=40201865"
     ],
     [
-      "Researchers detect a new molecule in space",
-      "https://phys.org/news/2024-04-molecule-space.html"
+      "A smooth and sharp image interpolation you probably haven't heard of",
+      "https://wordsandbuttons.online/a_smooth_and_sharp_image_interpolation.html"
     ]
   ]
 ]
