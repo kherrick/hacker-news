@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 18:31:37](https://news.ycombinator.com/item?id=40239811) - [Independent publishers are being demoted to give way to big sites on Google](https://housefresh.com/how-google-decimated-housefresh/)
 * [2024-05-02, 18:02:54](https://news.ycombinator.com/item?id=40239389) - [Tesla's wafer-sized Dojo processor is in production – 25 chips combined into one](https://www.tomshardware.com/tech-industry/teslas-dojo-system-on-wafer-is-in-production-a-serious-processor-for-serious-ai-workloads)
 * [2024-05-02, 18:00:30](https://news.ycombinator.com/item?id=40239336) - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
