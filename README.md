@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-02, 13:20:25](https://news.ycombinator.com/item?id=40235916) - [Second Boeing Whistleblower Dies Suddenly](https://www.newsweek.com/boeing-whistleblower-joshua-dean-dies-sudden-illness-1896401)
 * [2024-05-02, 12:47:27](https://news.ycombinator.com/item?id=40235557) - [Shutterstock Enters into Definitive Agreement to Acquire Envato](https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-enters-definitive-agreement-acquire-envato)
 * [2024-05-02, 12:08:38](https://news.ycombinator.com/item?id=40235206) - [OpenAI working on web search product](https://searchengineland.com/open-ai-search-product-437563)
 * [2024-05-02, 12:00:06](https://news.ycombinator.com/item?id=40235134) - [Optery (YC W22) – Engineering Tech Lead with Django and Python Experience (Remote)](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
@@ -19,7 +20,6 @@
 * [2024-05-02, 01:06:54](https://news.ycombinator.com/item?id=40231630) - [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
 * [2024-05-02, 01:05:55](https://news.ycombinator.com/item?id=40231624) - [Uno: Create Beautiful Cross Platform .NET Apps Faster](https://platform.uno/)
 * [2024-05-02, 00:57:22](https://news.ycombinator.com/item?id=40231563) - [Cognition: A new antisyntax language redefining metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
-* [2024-05-02, 00:50:13](https://news.ycombinator.com/item?id=40231515) - [mRNA Cancer Vaccine Reprograms Immune System to Tackle Glioblastoma in 48 Hours](https://www.insideprecisionmedicine.com/topics/oncology/mrna-cancer-vaccine-reprograms-immune-system-to-tackle-glioblastoma/)
 * [2024-05-01, 23:41:24](https://news.ycombinator.com/item?id=40230988) - [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
 * [2024-05-01, 23:05:31](https://news.ycombinator.com/item?id=40230699) - [César Aira's Magic](https://www.thedial.world/issue-15/cesar-aira-profile)
 * [2024-05-01, 15:00:54](https://news.ycombinator.com/item?id=40224213) - [Ask HN: Who is hiring? (May 2024)](https://news.ycombinator.com/item?id=40224213)
