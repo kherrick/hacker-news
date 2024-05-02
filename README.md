@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-02, 15:11:53](https://news.ycombinator.com/item?id=40237221) - [Back in Stock? The State of Russia's Defense Industry After Two Years of the War](https://www.csis.org/analysis/back-stock-state-russias-defense-industry-after-two-years-war)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
+* [2024-05-02, 14:34:56](https://news.ycombinator.com/item?id=40236776) - [Zero Trust DNS Private Preview](https://techcommunity.microsoft.com/t5/networking-blog/announcing-zero-trust-dns-private-preview/ba-p/4110366)
 * [2024-05-02, 14:21:59](https://news.ycombinator.com/item?id=40236637) - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 13:59:31](https://news.ycombinator.com/item?id=40236414) - [Johnson & Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
