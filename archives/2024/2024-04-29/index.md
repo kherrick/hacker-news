@@ -10,6 +10,7 @@
 * [2024-04-29, 23:38:02](https://news.ycombinator.com/item?id=40205509) - [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
 * [2024-04-29, 23:20:52](https://news.ycombinator.com/item?id=40205353) - [In the AI Economy, There Will Be Zero Percent Unemployment](https://reason.com/2024/04/28/in-the-ai-economythere-will-be-zero-percent-unemployment/)
 * [2024-04-29, 23:19:08](https://news.ycombinator.com/item?id=40205333) - [Meter-scale distance manipulation of diverse objects with jet-induced airflow](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174)
+* [2024-04-29, 22:13:21](https://news.ycombinator.com/item?id=40204738) - [Researchers detect a new molecule in space](https://phys.org/news/2024-04-molecule-space.html)
 * [2024-04-29, 22:03:29](https://news.ycombinator.com/item?id=40204647) - [Tesla Lays Off Employee Who Slept in Car to Work Longer Hours](https://jalopnik.com/tesla-reportedly-lays-off-employee-who-slept-in-car-to-1851442357)
 * [2024-04-29, 21:51:36](https://news.ycombinator.com/item?id=40204546) - [Is the Gnome Foundation Going to Go Bankrupt in 1 Year?](https://lunduke.locals.com/post/5572069/is-the-gnome-foundation-going-to-go-bankrupt-in-1-year)
 * [2024-04-29, 21:51:25](https://news.ycombinator.com/item?id=40204544) - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 23:44:23](https://news.ycombinator.com/item?id=40231010) - [Meteorologists awed by rare type of tornado (anti-cyclonic)](https://www.cnn.com/2024/05/01/weather/oklahoma-tornado-rare-climate/index.html)
 * [2024-05-01, 23:41:24](https://news.ycombinator.com/item?id=40230988) - [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
 * [2024-05-01, 23:19:55](https://news.ycombinator.com/item?id=40230812) - [Google's Payments to Apple Reached $20B in 2022, Antitrust Court Documents Show](https://www.bloomberg.com/news/articles/2024-05-01/google-s-payments-to-apple-reached-20-billion-in-2022-cue-says)
 * [2024-05-01, 23:17:39](https://news.ycombinator.com/item?id=40230790) - [Whistleblower Josh Dean of Boeing Supplier Spirit AeroSystems Has Died](https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/)
@@ -17,6 +18,7 @@
 * [2024-05-01, 21:16:28](https://news.ycombinator.com/item?id=40229549) - [Ask HN: Modern Day Equivalent to HyperCard?](https://news.ycombinator.com/item?id=40229549)
 * [2024-05-01, 21:01:08](https://news.ycombinator.com/item?id=40229360) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 * [2024-05-01, 20:56:03](https://news.ycombinator.com/item?id=40229307) - [The U.S. crime rate is still dropping, FBI data shows](https://www.nbcnews.com/news/crime-courts/us-crime-rate-still-dropping-says-fbi-rcna144100)
+* [2024-05-01, 20:23:17](https://news.ycombinator.com/item?id=40228864) - [German \"Grundgesetz\" (basic law/constitution) as Git repository](https://github.com/c3e/grundgesetz)
 * [2024-05-01, 20:01:44](https://news.ycombinator.com/item?id=40228605) - [2markdown – Transform Websites into Markdown](https://2markdown.com/)
 * [2024-05-01, 19:45:54](https://news.ycombinator.com/item?id=40228401) - [Roblox players to start seeing video ads in its virtual realms](https://www.reuters.com/technology/roblox-players-start-seeing-video-ads-its-virtual-realms-2024-05-01/)
 * [2024-05-01, 19:32:09](https://news.ycombinator.com/item?id=40228212) - [At Microsoft, years of security debt come crashing down](https://www.cybersecuritydive.com/news/microsoft-security-debt-crashing-down/714685/)
