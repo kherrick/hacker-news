@@ -21,6 +21,7 @@
 * [2024-05-02, 14:47:17](https://news.ycombinator.com/item?id=40236923) - [Delimited Generators – A more natural API for JS generators](http://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
+* [2024-05-02, 13:25:44](https://news.ycombinator.com/item?id=40235968) - [Backblaze Drive Stats for Q1 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2024/)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 07:58:38](https://news.ycombinator.com/item?id=40233784) - [The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
 * [2024-05-02, 07:52:14](https://news.ycombinator.com/item?id=40233746) - [A recent security incident involving Dropbox Sign](https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign)
@@ -29,7 +30,6 @@
 * [2024-05-02, 03:40:18](https://news.ycombinator.com/item?id=40232466) - [A knight's tale](https://blogs.bl.uk/digitisedmanuscripts/2024/04/a-knights-tale.html)
 * [2024-05-02, 02:35:32](https://news.ycombinator.com/item?id=40232171) - [A blue mineral that grows on buried bodies and confuses archaeologists (2016)](https://www.atlasobscura.com/articles/vivianite-blue-human-remains)
 * [2024-05-02, 00:25:45](https://news.ycombinator.com/item?id=40231332) - [Hacking on PostgreSQL is hard](http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
-* [2024-05-01, 13:14:11](https://news.ycombinator.com/item?id=40222722) - [Johnson and Johnson to pay $6.5B to resolve talc ovarian cancer lawsuits in U.S.](https://www.cnbc.com/2024/05/01/johnson-johnson-will-pay-6point5-billion-to-resolve-nearly-all-talc-ovarian-cancer-lawsuits-in-us.html)
 
 ## [Archives](archives/index.md)
 
