@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-02, 06:20:39](https://news.ycombinator.com/item?id=40233248) - [Just got doxxed to within 15 miles by a vision model, from only a single photo](https://twitter.com/arithmoquine/status/1785834410312454389)
+* [2024-05-02, 06:13:02](https://news.ycombinator.com/item?id=40233213) - [Whistle­blow­er who accused Boeing supplier of ignoring defects dies](https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies)
 * [2024-05-02, 05:38:42](https://news.ycombinator.com/item?id=40233029) - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
 * [2024-05-02, 03:20:26](https://news.ycombinator.com/item?id=40232364) - [NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003) [pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
 * [2024-05-02, 02:23:42](https://news.ycombinator.com/item?id=40232107) - [Take-Two Interactive Shuts Down Kerbal Space Program Studio Intercept Games](https://www.bloomberg.com/news/articles/2024-05-01/take-two-interactive-shuts-down-two-game-studios)
