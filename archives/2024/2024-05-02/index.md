@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 22:47:05](https://news.ycombinator.com/item?id=40242224) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 22:33:16](https://news.ycombinator.com/item?id=40242114) - [Louis Rossmann: YouTube's Legal Team sent me a letter [video]](https://www.youtube.com/watch?v=dqTYg6vnQvw)
 * [2024-05-02, 22:25:04](https://news.ycombinator.com/item?id=40242055) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-02, 21:47:25](https://news.ycombinator.com/item?id=40241734) - [Second Boeing Whistleblower Dies in Less Than Two Months](https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html)
