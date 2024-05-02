@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-02, 06:20:39](https://news.ycombinator.com/item?id=40233248) - [Just got doxxed to within 15 miles by a vision model, from only a single photo](https://twitter.com/arithmoquine/status/1785834410312454389)
+* [2024-05-02, 05:38:42](https://news.ycombinator.com/item?id=40233029) - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
 * [2024-05-02, 03:20:26](https://news.ycombinator.com/item?id=40232364) - [NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003) [pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
 * [2024-05-02, 02:06:30](https://news.ycombinator.com/item?id=40231999) - [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
 * [2024-05-02, 01:31:30](https://news.ycombinator.com/item?id=40231790) - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
@@ -26,7 +27,6 @@
 * [2024-04-30, 19:11:54](https://news.ycombinator.com/item?id=40214995) - [A pivot point in Maya history: fire-burning event at Ucanal](https://www.cambridge.org/core/journals/antiquity/article/pivot-point-in-maya-history-fireburning-event-at-kanwitznal-ucanal-and-the-making-of-a-new-era-of-political-rule/564F837E84443D408CD844424B7F6952)
 * [2024-04-30, 17:40:19](https://news.ycombinator.com/item?id=40213683) - [The California man who hid for 6 months in a secret room inside Circuit City](https://www.sfgate.com/bayarea/article/california-man-hid-months-secret-room-circuit-city-19422415.php)
 * [2024-04-30, 05:47:04](https://news.ycombinator.com/item?id=40207607) - [Not all graphs are trees](https://buttondown.email/jaffray/archive/not-all-graphs-are-trees/)
-* [2024-04-30, 02:49:23](https://news.ycombinator.com/item?id=40206760) - [Implementing your own garbage collector in Java](https://coderoasis.com/custom-java-garbage-collector/)
 * [2024-04-29, 23:19:08](https://news.ycombinator.com/item?id=40205333) - [Meter-scale distance manipulation of diverse objects with jet-induced airflow](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174)
 * [2024-04-29, 22:45:11](https://news.ycombinator.com/item?id=40205012) - [The Scientific Method Part 5: Illusions, Delusions, and Dreams](http://blog.rongarret.info/2024/04/the-scientific-method-part-5-illusions.html)
 * [2024-04-29, 22:13:21](https://news.ycombinator.com/item?id=40204738) - [Researchers detect a new molecule in space](https://phys.org/news/2024-04-molecule-space.html)
