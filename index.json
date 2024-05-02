@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 03:42:01",
+      "https://news.ycombinator.com/item?id=40232472"
+    ],
+    [
+      "How to Use SQLite as a NoSQL Store",
+      "https://rodydavis.com/sqlite/nosql"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 03:20:26",
       "https://news.ycombinator.com/item?id=40232364"
     ],
@@ -37,6 +47,16 @@
     [
       "ESpeak-ng: speech synthesizer with more than one hundred languages and accents",
       "https://github.com/espeak-ng/espeak-ng"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 01:05:55",
+      "https://news.ycombinator.com/item?id=40231624"
+    ],
+    [
+      "Uno: Create Beautiful Cross Platform .NET Apps Faster",
+      "https://platform.uno/"
     ]
   ],
   [
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2024-05-01, 21:16:28",
-      "https://news.ycombinator.com/item?id=40229549"
+      "2024-05-01, 22:24:22",
+      "https://news.ycombinator.com/item?id=40230354"
     ],
     [
-      "Ask HN: Modern Day Equivalent to HyperCard?",
-      "https://news.ycombinator.com/item?id=40229549"
+      "Choosing the Right Audit Trail Approach in Ruby",
+      "https://blog.bemi.io/audit-trail-in-ruby/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Show HN: FileKitty – Combine and label text files for LLM prompt contexts",
       "https://github.com/banagale/FileKitty"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 16:08:43",
-      "https://news.ycombinator.com/item?id=40225228"
-    ],
-    [
-      "2024 Verizon Data Breach Investigation Report [pdf]",
-      "https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "New findings point to an Earth-like environment on ancient Mars",
       "https://discover.lanl.gov/news/0501-ancient-mars/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 10:04:47",
-      "https://news.ycombinator.com/item?id=40221345"
-    ],
-    [
-      "Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting",
-      "https://research.paulengstler.com/invisible-stitch/"
     ]
   ],
   [
