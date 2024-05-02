@@ -41,22 +41,12 @@
   ],
   [
     [
-      "2024-05-02, 06:13:02",
-      "https://news.ycombinator.com/item?id=40233213"
+      "2024-05-02, 02:03:31",
+      "https://news.ycombinator.com/item?id=40231988"
     ],
     [
-      "Whistle­blow­er who accused Boeing supplier of ignoring defects dies",
-      "https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 05:38:42",
-      "https://news.ycombinator.com/item?id=40233029"
-    ],
-    [
-      "The Fishy Death of Red Lobster",
-      "https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5"
+      "From 0 to glTF with WebGPU: Basic Materials and Textures",
+      "https://www.willusher.io/graphics/2024/04/28/0-to-gltf-basic-materials"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Astronauts could run round 'Wall of Death' to keep fit on moon, say scientists",
       "https://www.theguardian.com/science/2024/may/01/astronauts-could-run-round-wall-of-death-to-keep-fit-on-moon-say-scientists"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 07:39:09",
+      "https://news.ycombinator.com/item?id=40220542"
+    ],
+    [
+      "Fast, simple, hard real time allocator for Rust",
+      "https://github.com/pcwalton/offset-allocator"
     ]
   ],
   [
