@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-05-02, 15:33:13",
+      "https://news.ycombinator.com/item?id=40237409"
+    ],
+    [
+      "Google paid Apple $20B in 2022 alone for default status",
+      "https://nypost.com/2024/05/02/business/google-paid-apple-20b-in-2022-alone-for-default-status-docs/"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 14:41:21",
+      "https://news.ycombinator.com/item?id=40236859"
+    ],
+    [
+      "The AI That Plugs Your Product on Reddit in Conversations",
+      "https://replyguy.com/"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 14:36:18",
       "https://news.ycombinator.com/item?id=40236797"
     ],
     [
       "Show HN: An extension to track your Wikipedia adventures",
       "https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 14:34:56",
-      "https://news.ycombinator.com/item?id=40236776"
-    ],
-    [
-      "Zero Trust DNS Private Preview",
-      "https://techcommunity.microsoft.com/t5/networking-blog/announcing-zero-trust-dns-private-preview/ba-p/4110366"
     ]
   ],
   [
@@ -107,6 +117,16 @@
     [
       "A recent security incident involving Dropbox Sign",
       "https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 05:38:42",
+      "https://news.ycombinator.com/item?id=40233029"
+    ],
+    [
+      "The fishy death of Red Lobster",
+      "https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5"
     ]
   ],
   [
@@ -245,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40220722"
     ],
     [
-      "Jane Street is big. Like, big",
+      "Takeaways from the Jane Street bond prospectus",
       "https://www.ft.com/content/54671865-4c7f-4692-a879-867ef68f0bde"
     ]
   ],
@@ -257,26 +277,6 @@
     [
       "Fast, simple, hard real time allocator for Rust",
       "https://github.com/pcwalton/offset-allocator"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 03:30:47",
-      "https://news.ycombinator.com/item?id=40219205"
-    ],
-    [
-      "Kolmogorov-Arnold Networks",
-      "https://github.com/KindXiaoming/pykan"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 20:39:59",
-      "https://news.ycombinator.com/item?id=40216057"
-    ],
-    [
-      "Printing Music with CSS Grid",
-      "https://cruncher.ch/blog/printing-music-with-css-grid/"
     ]
   ],
   [
