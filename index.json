@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 22:25:04",
+      "https://news.ycombinator.com/item?id=40242055"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring an Engineering Manager",
+      "https://onesignal.com/careers/4360841006"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 21:47:25",
       "https://news.ycombinator.com/item?id=40241734"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-05-02, 21:00:28",
-      "https://news.ycombinator.com/item?id=40241322"
+      "2024-05-02, 20:31:19",
+      "https://news.ycombinator.com/item?id=40241057"
     ],
     [
-      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
-      "https://skio.com/careers/"
+      "Hobby's algorithm for aesthetic Bézier splines",
+      "https://www.jakelow.com/blog/hobby-curves"
     ]
   ],
   [
@@ -67,26 +77,6 @@
     [
       "Building a rocket engine from scratch",
       "https://blog.ablspacesystems.com/p/building-e2"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 18:44:18",
-      "https://news.ycombinator.com/item?id=40239955"
-    ],
-    [
-      "Asteroid that broke up over Berlin was fastest-spinning one ever seen",
-      "https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 18:00:30",
-      "https://news.ycombinator.com/item?id=40239336"
-    ],
-    [
-      "Pet parrots prefer live video-calls",
-      "https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html"
     ]
   ],
   [
@@ -137,6 +127,16 @@
     [
       "Rust: Box Is a Unique Type",
       "https://blog.nilstrieb.dev/posts/box-is-a-unique-type/"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 16:29:47",
+      "https://news.ycombinator.com/item?id=40238118"
+    ],
+    [
+      "Oh Frick Go Back: GUI Tool to Removes Ads from Various Places Around Windows 11",
+      "https://github.com/xM4ddy/OFGB"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature",
       "https://publicdomainreview.org/essay/richard-owen-and-victorian-literature"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 13:25:44",
-      "https://news.ycombinator.com/item?id=40235968"
-    ],
-    [
-      "Backblaze Drive Stats for Q1 2024",
-      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2024/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Hacking on PostgreSQL is hard",
       "http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 18:52:07",
+      "https://news.ycombinator.com/item?id=40214736"
+    ],
+    [
+      "Passkey Implementation: Misconceptions, pitfalls and unknown unknowns",
+      "https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns"
     ]
   ]
 ]
