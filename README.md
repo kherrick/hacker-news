@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-02, 14:42:37](https://news.ycombinator.com/item?id=40236880) - [Iran charges journalists after BBC report on teen protester's death](https://www.bbc.com/news/articles/cnd6k8ggzn2o)
+* [2024-05-02, 15:11:53](https://news.ycombinator.com/item?id=40237221) - [Back in Stock? The State of Russia's Defense Industry After Two Years of the War](https://www.csis.org/analysis/back-stock-state-russias-defense-industry-after-two-years-war)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
 * [2024-05-02, 14:21:59](https://news.ycombinator.com/item?id=40236637) - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
