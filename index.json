@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 16:37:59",
+      "https://news.ycombinator.com/item?id=40238219"
+    ],
+    [
+      "A lawsuit argues Meta is required by law to let you control your own feed",
+      "https://www.wired.com/story/meta-section-230-users-algorithm/"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 16:35:07",
       "https://news.ycombinator.com/item?id=40238175"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2024-05-02, 04:41:51",
+      "https://news.ycombinator.com/item?id=40232755"
+    ],
+    [
+      "AI Photo Geolocation",
+      "https://geospy.ai/"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 04:29:01",
       "https://news.ycombinator.com/item?id=40232706"
     ],
@@ -197,16 +217,6 @@
     [
       "From 0 to glTF with WebGPU: Basic Materials and Textures",
       "https://www.willusher.io/graphics/2024/04/28/0-to-gltf-basic-materials"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 01:31:30",
-      "https://news.ycombinator.com/item?id=40231790"
-    ],
-    [
-      "Ask HN: How do people create those sleek looking demos for startups?",
-      "https://news.ycombinator.com/item?id=40231790"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Fast, simple, hard real time allocator for Rust",
       "https://github.com/pcwalton/offset-allocator"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 22:45:11",
-      "https://news.ycombinator.com/item?id=40205012"
-    ],
-    [
-      "The Scientific Method Part 5: Illusions, Delusions, and Dreams",
-      "http://blog.rongarret.info/2024/04/the-scientific-method-part-5-illusions.html"
     ]
   ],
   [
