@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 09:24:28](https://news.ycombinator.com/item?id=40234254) - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
 * [2024-05-02, 08:37:32](https://news.ycombinator.com/item?id=40233990) - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
 * [2024-05-02, 08:11:27](https://news.ycombinator.com/item?id=40233841) - [Tesla slashes its summer internship program](https://fortune.com/2024/05/01/tesla-slashes-summer-internship-program/)
 * [2024-05-02, 07:58:48](https://news.ycombinator.com/item?id=40233786) - [Typewise (YC S22) is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)

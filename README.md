@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-02, 09:24:28](https://news.ycombinator.com/item?id=40234254) - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
 * [2024-05-02, 08:37:32](https://news.ycombinator.com/item?id=40233990) - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
 * [2024-05-02, 08:11:27](https://news.ycombinator.com/item?id=40233841) - [Tesla slashes its summer internship program](https://fortune.com/2024/05/01/tesla-slashes-summer-internship-program/)
 * [2024-05-02, 07:58:48](https://news.ycombinator.com/item?id=40233786) - [Typewise (YC S22) is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
@@ -19,7 +20,6 @@
 * [2024-05-01, 21:16:28](https://news.ycombinator.com/item?id=40229549) - [Ask HN: Modern day equivalent to HyperCard?](https://news.ycombinator.com/item?id=40229549)
 * [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH](https://www.terminal.shop/)
 * [2024-05-01, 15:00:54](https://news.ycombinator.com/item?id=40224213) - [Ask HN: Who is hiring? (May 2024)](https://news.ycombinator.com/item?id=40224213)
-* [2024-05-01, 14:08:48](https://news.ycombinator.com/item?id=40223457) - [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
 * [2024-05-01, 07:45:30](https://news.ycombinator.com/item?id=40220578) - [Astronauts could run round 'Wall of Death' to keep fit on moon, say scientists](https://www.theguardian.com/science/2024/may/01/astronauts-could-run-round-wall-of-death-to-keep-fit-on-moon-say-scientists)
 * [2024-05-01, 07:39:09](https://news.ycombinator.com/item?id=40220542) - [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
