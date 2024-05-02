@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-02, 14:21:59](https://news.ycombinator.com/item?id=40236637) - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
-* [2024-05-02, 14:20:11](https://news.ycombinator.com/item?id=40236615) - [Bards and Sages Publishing closure due to \"AI-generated trash\"](https://www.bardsandsages.com/closure-announcement.html)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 13:59:31](https://news.ycombinator.com/item?id=40236414) - [Johnson and Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
+* [2024-05-02, 13:25:44](https://news.ycombinator.com/item?id=40235968) - [Backblaze Drive Stats for Q1 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2024/)
 * [2024-05-02, 12:00:06](https://news.ycombinator.com/item?id=40235134) - [Optery (YC W22) – Engineering Tech Lead with Django and Python Experience (Remote)](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
-* [2024-05-02, 11:11:09](https://news.ycombinator.com/item?id=40234822) - [Scientists forewarn timing of 'triple whammy extinction'](https://www.wionews.com/science/scientists-forewarn-timing-of-triple-whammy-extinction-that-will-eradicate-humankind-716974)
 * [2024-05-02, 11:08:21](https://news.ycombinator.com/item?id=40234803) - [A safer alternative for an explosive reaction used for more than 100 years](https://phys.org/news/2024-04-scientists-safer-alternative-explosive-reaction.html)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 08:37:32](https://news.ycombinator.com/item?id=40233990) - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
@@ -28,6 +27,7 @@
 * [2024-05-01, 07:39:09](https://news.ycombinator.com/item?id=40220542) - [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+* [2024-04-30, 05:47:04](https://news.ycombinator.com/item?id=40207607) - [Not all graphs are trees](https://buttondown.email/jaffray/archive/not-all-graphs-are-trees/)
 * [2024-04-29, 22:45:11](https://news.ycombinator.com/item?id=40205012) - [The Scientific Method Part 5: Illusions, Delusions, and Dreams](http://blog.rongarret.info/2024/04/the-scientific-method-part-5-illusions.html)
 * [2024-04-29, 18:08:43](https://news.ycombinator.com/item?id=40201865) - [A smooth and sharp image interpolation you probably haven't heard of](https://wordsandbuttons.online/a_smooth_and_sharp_image_interpolation.html)
 
