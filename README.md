@@ -2,6 +2,7 @@
 
 * [2024-05-02, 22:25:04](https://news.ycombinator.com/item?id=40242055) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-02, 21:47:25](https://news.ycombinator.com/item?id=40241734) - [Second Boeing Whistleblower Dies in Less Than Two Months](https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html)
+* [2024-05-02, 21:44:24](https://news.ycombinator.com/item?id=40241694) - [TSMC Jumps into Silicon Photonics, Lays Out Roadmap for 12.8 Tbps Interconnect](https://www.anandtech.com/show/21373/tsmc-adds-silicon-photonics-coupe-roadmap-128tbps-on-package)
 * [2024-05-02, 21:24:42](https://news.ycombinator.com/item?id=40241525) - [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
 * [2024-05-02, 20:31:19](https://news.ycombinator.com/item?id=40241057) - [Hobby's algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
 * [2024-05-02, 20:25:32](https://news.ycombinator.com/item?id=40241002) - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
@@ -18,7 +19,6 @@
 * [2024-05-02, 16:06:34](https://news.ycombinator.com/item?id=40237826) - [Umbra: A Disk-Based System with In-Memory Performance [pdf]](https://www.cidrdb.org/cidr2020/papers/p29-neumann-cidr20.pdf)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course (2017)](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 * [2024-05-02, 15:21:46](https://news.ycombinator.com/item?id=40237305) - [Show HN: An Open Source project for enhancing AI Agents in taking action](https://github.com/npi-ai/npi)
-* [2024-05-02, 14:47:17](https://news.ycombinator.com/item?id=40236923) - [Delimited Generators – A more natural API for JS generators](http://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
