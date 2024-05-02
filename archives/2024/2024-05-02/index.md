@@ -25,6 +25,7 @@
 * [2024-05-02, 16:35:07](https://news.ycombinator.com/item?id=40238175) - [Second Boeing whistleblower dies after raising concerns about 737 MAX](https://www.independent.co.uk/news/world/americas/boeing-whistleblower-dies-second-b2538563.html)
 * [2024-05-02, 16:34:35](https://news.ycombinator.com/item?id=40238170) - [Rust: Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
 * [2024-05-02, 16:19:05](https://news.ycombinator.com/item?id=40237984) - [Longevity of Recordable CDs, DVDs and Blu-Rays (2020)](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
+* [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [To Save It, Eat It](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 16:14:28](https://news.ycombinator.com/item?id=40237932) - [Changes to iOS App Distribution Fees in the EU](https://developer.apple.com/news/?id=d0z8d8rx)
 * [2024-05-02, 16:10:49](https://news.ycombinator.com/item?id=40237883) - [Real-time AI using scalable non-expert crowdsourcing in colorectal surgery](https://www.nature.com/articles/s41746-024-01095-8)
 * [2024-05-02, 16:10:18](https://news.ycombinator.com/item?id=40237872) - [The reality of Kotlin's LSP and Tooling situation](https://old.reddit.com/r/Kotlin/comments/1chxk38/jetbrains_not_making_or_supporting_an_editor/)

@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-02, 18:31:37](https://news.ycombinator.com/item?id=40239811) - [Independent publishers are being demoted to give way to big sites on Google](https://housefresh.com/how-google-decimated-housefresh/)
 * [2024-05-02, 18:02:54](https://news.ycombinator.com/item?id=40239389) - [Tesla's wafer-sized Dojo processor is in production – 25 chips combined into one](https://www.tomshardware.com/tech-industry/teslas-dojo-system-on-wafer-is-in-production-a-serious-processor-for-serious-ai-workloads)
 * [2024-05-02, 18:00:30](https://news.ycombinator.com/item?id=40239336) - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
@@ -13,6 +12,7 @@
 * [2024-05-02, 16:41:38](https://news.ycombinator.com/item?id=40238269) - [Spotify moves lyrics behind a paywall](https://techcrunch.com/2024/05/02/spotify-is-quietly-moves-lyrics-behind-a-paywall/)
 * [2024-05-02, 16:34:35](https://news.ycombinator.com/item?id=40238170) - [Rust: Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
 * [2024-05-02, 16:19:05](https://news.ycombinator.com/item?id=40237984) - [Longevity of Recordable CDs, DVDs and Blu-Rays (2020)](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
+* [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [To Save It, Eat It](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 16:06:34](https://news.ycombinator.com/item?id=40237826) - [Umbra: A Disk-Based System with In-Memory Performance [pdf]](https://www.cidrdb.org/cidr2020/papers/p29-neumann-cidr20.pdf)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course by Dan Boneh](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 * [2024-05-02, 15:30:04](https://news.ycombinator.com/item?id=40237375) - [Show HN: I built a 100% free startup idea generator](https://supalaunch.com/tools/startup-idea-generator)
